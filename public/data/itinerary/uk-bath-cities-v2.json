@@ -1,0 +1,1470 @@
+{
+  "city_id": "uk-bath-cities-v2",
+  "anchor": {
+    "name": "Bath",
+    "coords": [
+      -2.359,
+      51.3811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "The Circus",
+            "hu": "The Circus",
+            "ro": "The Circus",
+            "en": "The Circus"
+          },
+          "coords": [
+            -2.363,
+            51.3845
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beachten Sie die drei verschiedenen klassischen Ordnungen der Architektur.",
+            "hu": "Figyelje meg az építészet három különböző klasszikus stílusát.",
+            "ro": "Observați cele trei ordine clasice diferite de arhitectură.",
+            "en": "Notice the three different classical orders of architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Crescent",
+            "hu": "Royal Crescent",
+            "ro": "Royal Crescent",
+            "en": "Royal Crescent"
+          },
+          "coords": [
+            -2.3678,
+            51.3847
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Park davor, um die beste Aussicht zu erhalten.",
+            "hu": "A legjobb kilátásért sétáljon az előtte lévő parkban.",
+            "ro": "Plimbați-vă prin parcul din față pentru cea mai bună priveliște.",
+            "en": "Walk through the park in front for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Jane Austen Centre",
+            "hu": "Jane Austen Központ",
+            "ro": "Centrul Jane Austen",
+            "en": "Jane Austen Centre"
+          },
+          "coords": [
+            -2.362,
+            51.3828
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für Literaturfans; das Personal in Kostümen trägt zum Erlebnis bei.",
+            "hu": "Tökéletes az irodalomrajongóknak; a jelmezes személyzet fokozza az élményt.",
+            "ro": "Perfect pentru fanii literaturii; personalul în costume adaugă la experiență.",
+            "en": "Perfect for literature fans; the costumed staff add to the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            -2.359,
+            51.3813
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie das mineralreiche Wasser am Ende der Tour.",
+            "hu": "Kóstolja meg az ásványokban gazdag vizet a túra végén.",
+            "ro": "Gustați apa bogată în minerale la sfârșitul turului.",
+            "en": "Try the mineral-rich water at the end of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bath Abbey",
+            "hu": "Bathi apátság",
+            "ro": "Abația din Bath",
+            "en": "Bath Abbey"
+          },
+          "coords": [
+            -2.3585,
+            51.3814
+          ],
+          "category": "churches",
+          "arrive_at": "13:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Fächergewölbe und die wunderschönen Buntglasfenster.",
+            "hu": "Csodálja meg a legyezőboltozatot és a gyönyörű ólomüveg ablakokat.",
+            "ro": "Admirați bolta în evantai și vitraliile frumoase.",
+            "en": "Admire the fan vaulting and beautiful stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulteney Bridge",
+            "hu": "Pulteney híd",
+            "ro": "Podul Pulteney",
+            "en": "Pulteney Bridge"
+          },
+          "coords": [
+            -2.355,
+            51.3823
+          ],
+          "category": "bridges",
+          "arrive_at": "14:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine von nur vier Brücken weltweit mit Geschäften auf beiden Seiten.",
+            "hu": "Egyike a világ négy hídjának, melynek mindkét oldalán üzletek vannak.",
+            "ro": "Unul dintre cele doar patru poduri din lume cu magazine pe ambele părți.",
+            "en": "One of only four bridges in the world with shops lining both sides."
+          }
+        },
+        {
+          "name": {
+            "de": "Holburne Museum",
+            "hu": "Holburne Múzeum",
+            "ro": "Muzeul Holburne",
+            "en": "Holburne Museum"
+          },
+          "coords": [
+            -2.348,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "14:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die moderne Glaserweiterung auf der Rückseite ist ein atemberaubender Kontrast.",
+            "hu": "A hátoldalon található modern üvegbővítmény lenyűgöző kontrasztot alkot.",
+            "ro": "Extensia modernă de sticlă din spate este un contrast uimitor.",
+            "en": "The modern glass extension at the back is a stunning contrast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im architektonischen Wunderwerk des Circus und des Royal Crescent. Am Vormittag tauchen Sie in die Welt von Jane Austen ein, bevor Sie die antike Geschichte in den Römischen Bädern erkunden. Genießen Sie ein Mittagessen in der Nähe der Bath Abbey. Der Nachmittag ist der Erkundung der einzigartigen Pulteney Bridge und der Kunst im Holburne Museum gewidmet. Schließen Sie Ihren Tag mit einem gemütlichen Spaziergang durch die Sydney Gardens ab und reflektieren Sie die Schönheit und Geschichte von Bath.",
+        "hu": "Kezdje a napot a Circus és a Royal Crescent építészeti csodáinál. A délelőtt folyamán merüljön el Jane Austen világában, mielőtt felfedezné az ókori történelmet a Római fürdőknél. Ebédeljen a Bathi apátság közelében. A délután a különleges Pulteney híd és a Holburne Múzeum művészetének felfedezésével telik. Zárja a napot egy kellemes sétával a Sydney Gardensben, elmélkedve Bath szépségén és történelmén.",
+        "ro": "Începeți ziua la minunile arhitecturale The Circus și Royal Crescent. La amiază, pătrundeți în lumea lui Jane Austen înainte de a explora istoria antică la Băile Romane. Savurați prânzul lângă Abația din Bath. După-amiaza este dedicată explorării unicului Pod Pulteney și artei de la Muzeul Holburne. Încheiați ziua cu o plimbare relaxantă prin Grădinile Sydney, reflectând la frumusețea și istoria orașului Bath.",
+        "en": "Start your day at the architectural marvels of The Circus and Royal Crescent. Mid-morning, delve into the world of Jane Austen before exploring ancient history at the Roman Baths. Enjoy lunch near Bath Abbey. The afternoon is for exploring the unique Pulteney Bridge and the art at the Holburne Museum. Conclude your day with a leisurely stroll through Sydney Gardens, reflecting on Bath's beauty and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sally Lunn's Historic Eating House",
+            "tip": "Probieren Sie das berühmte Sally Lunn Bun, entweder süß oder herzhaft."
+          },
+          {
+            "name": "The Pump Room Restaurant",
+            "tip": "Eleganter Nachmittagstee direkt neben den Römischen Bädern."
+          },
+          {
+            "name": "The Cornish Bakery",
+            "tip": "Hervorragende Cornish Pasties für ein schnelles und leckeres Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sally Lunn's Történelmi Étterem",
+            "tip": "Kóstolja meg a híres Sally Lunn zsemlét, édesen vagy sósan."
+          },
+          {
+            "name": "The Pump Room Étterem",
+            "tip": "Elegáns délutáni tea közvetlenül a Római fürdők mellett."
+          },
+          {
+            "name": "The Cornish Bakery",
+            "tip": "Kiváló cornwalli táskák egy gyors és ízletes ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sally Lunn's Historic Eating House",
+            "tip": "Încercați faimosul Sally Lunn Bun, fie dulce, fie sărat."
+          },
+          {
+            "name": "The Pump Room Restaurant",
+            "tip": "Ceai elegant de după-amiază chiar lângă Băile Romane."
+          },
+          {
+            "name": "The Cornish Bakery",
+            "tip": "Pateuri cornish excelente pentru un prânz rapid și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sally Lunn's Historic Eating House",
+            "tip": "Try the famous Sally Lunn Bun, either sweet or savoury."
+          },
+          {
+            "name": "The Pump Room Restaurant",
+            "tip": "Elegant afternoon tea right next to the Roman Baths."
+          },
+          {
+            "name": "The Cornish Bakery",
+            "tip": "Excellent Cornish pasties for a quick and tasty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Prior Park Landscape Garden",
+            "tip": "Entfliehen Sie dem Trubel der Stadt in diesem ruhigen Garten aus dem 18. Jahrhundert.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kennet and Avon Canal Towpath",
+            "tip": "Ein friedlicher Spaziergang entlang des Kanals, der eine andere Perspektive auf die Stadt bietet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alexandra Park",
+            "tip": "Bietet einen Panoramablick über die Stadt, perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prior Park Tájképi Kert",
+            "tip": "Meneküljön el a város nyüzsgésétől ebben a békés 18. századi kertben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kennet és Avon Csatorna Vontatóút",
+            "tip": "Békés séta a csatorna mentén, amely más nézőpontot kínál a városról.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alexandra Park",
+            "tip": "Panorámás kilátást nyújt a városra, tökéletes naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Peisagistică Prior Park",
+            "tip": "Evadați din agitația orașului în această grădină liniștită din secolul al XVIII-lea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Calea de tractare a canalului Kennet și Avon",
+            "tip": "O plimbare pașnică de-a lungul canalului, oferind o perspectivă diferită asupra orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Alexandra",
+            "tip": "Oferă vederi panoramice asupra orașului, perfecte pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prior Park Landscape Garden",
+            "tip": "Escape the city buzz in this tranquil 18th-century garden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kennet and Avon Canal Towpath",
+            "tip": "A peaceful walk along the canal, offering a different perspective of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alexandra Park",
+            "tip": "Offers panoramic views over the city, perfect for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pulteney Bridge Shops",
+            "tip": "Stöbern Sie in den einzigartigen Boutiquen auf dieser historischen Brücke."
+          },
+          {
+            "name": "Bath Guildhall Market",
+            "tip": "Der älteste Einkaufsort in Bath mit einer Vielzahl von unabhängigen Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulteney híd üzletei",
+            "tip": "Böngésszen a különleges butikok között ezen a történelmi hídon."
+          },
+          {
+            "name": "Bath Guildhall Piac",
+            "tip": "Bath legrégebbi bevásárlóhelye, számos független standdal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Podul Pulteney",
+            "tip": "Răsfoiți buticurile unice de pe acest pod istoric."
+          },
+          {
+            "name": "Piața Bath Guildhall",
+            "tip": "Cel mai vechi loc de cumpărături din Bath, cu o varietate de tarabe independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulteney Bridge Shops",
+            "tip": "Browse the unique boutiques lining this historic bridge."
+          },
+          {
+            "name": "Bath Guildhall Market",
+            "tip": "The oldest shopping venue in Bath, with a variety of independent stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum von Bath am besten zu Fuß erkundet wird.",
+          "Die meisten Hauptattraktionen liegen nahe beieinander.",
+          "Buchen Sie Tickets für die Römischen Bäder im Voraus online, um Warteschlangen zu vermeiden.",
+          "Seien Sie auf Hügel vorbereitet, wenn Sie sich vom Hauptzentrum entfernen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Bath központját leginkább gyalog lehet felfedezni.",
+          "A legtöbb fő látnivaló közel van egymáshoz.",
+          "A sorban állás elkerülése érdekében foglaljon jegyet a Római fürdőkbe előre online.",
+          "Készüljön fel a dombokra, ha elhagyja a központot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului Bath este cel mai bine explorat pe jos.",
+          "Majoritatea atracțiilor principale sunt aproape una de cealaltă.",
+          "Rezervați biletele online în avans pentru Băile Romane pentru a evita cozile.",
+          "Fiți pregătiți pentru dealuri dacă vă aventurați în afara centrului principal."
+        ],
+        "en": [
+          "Wear comfortable shoes as the centre of Bath is best explored on foot.",
+          "Most of the main attractions are located close to each other.",
+          "Book tickets for the Roman Baths online in advance to avoid queues.",
+          "Be prepared for hills if you venture away from the main centre."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pulteney Bridge",
+            "hu": "Pulteney híd",
+            "ro": "Podul Pulteney",
+            "en": "Pulteney Bridge"
+          },
+          "coords": [
+            -2.355,
+            51.3823
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier und genießen Sie den Blick auf den Fluss, bevor es losgeht.",
+            "hu": "Kezdje itt, és élvezze a folyóra nyíló kilátást, mielőtt elindul.",
+            "ro": "Începeți aici și bucurați-vă de priveliștea râului înainte de a porni.",
+            "en": "Start here and enjoy the river view before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Holburne Museum",
+            "hu": "Holburne Múzeum",
+            "ro": "Muzeul Holburne",
+            "en": "Holburne Museum"
+          },
+          "coords": [
+            -2.348,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radfahren durch die Sydney Gardens zum Museum ist ein Vergnügen.",
+            "hu": "A Sydney Gardens-en keresztül a múzeumhoz biciklizni egy élmény.",
+            "ro": "Mersul pe bicicletă prin Grădinile Sydney până la muzeu este o încântare.",
+            "en": "Cycling through Sydney Gardens to reach the museum is a delight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kennet and Avon Canal",
+            "hu": "Kennet és Avon csatorna",
+            "ro": "Canalul Kennet și Avon",
+            "en": "Kennet and Avon Canal"
+          },
+          "coords": [
+            -2.33,
+            51.38
+          ],
+          "category": "water",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine flache, malerische Fahrt entlang des Treidelpfades.",
+            "hu": "Élvezze a sík, festői utat a vontatóösvényen.",
+            "ro": "Bucurați-vă de o plimbare plată și pitorească de-a lungul căii de tractare.",
+            "en": "Enjoy a flat, scenic ride along the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Bath Abbey",
+            "hu": "Bathi apátság",
+            "ro": "Abația din Bath",
+            "en": "Bath Abbey"
+          },
+          "coords": [
+            -2.3585,
+            51.3814
+          ],
+          "category": "churches",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher in der Nähe ab, bevor Sie eintreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját a közelben, mielőtt belép.",
+            "ro": "Legați-vă bicicleta în siguranță în apropiere înainte de a intra.",
+            "en": "Lock your bike securely nearby before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile Romane",
+            "en": "Roman Baths"
+          },
+          "coords": [
+            -2.359,
+            51.3813
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss, das den größten Teil Ihres Nachmittags in Anspruch nehmen wird.",
+            "hu": "Ez egy kötelező látnivaló, amely a délután nagy részét kitölti.",
+            "ro": "O vizită obligatorie care vă va ocupa cea mai mare parte a după-amiezii.",
+            "en": "A must-see which will take up most of your afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Crescent",
+            "hu": "Royal Crescent",
+            "ro": "Royal Crescent",
+            "en": "Royal Crescent"
+          },
+          "coords": [
+            -2.3678,
+            51.3847
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer herrlichen Fahrt hinauf zu diesem Wahrzeichen.",
+            "hu": "Fejezze be a kerékpártúrát egy csodálatos tekeréssel ehhez a nevezetességhez.",
+            "ro": "Încheiați turul pe bicicletă cu o plimbare magnifică până la acest punct de reper.",
+            "en": "End your bike tour with a grand ride up to this landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Pulteney Bridge. Fahren Sie durch die Sydney Gardens zum Holburne Museum. Verbringen Sie den Vormittag mit einer gemütlichen Fahrt auf dem flachen Kennet and Avon Canal Treidelpfad. Kehren Sie zum Mittagessen ins Stadtzentrum zurück und besichtigen Sie die Bath Abbey. Der Nachmittag ist dem tiefen Eintauchen in die Geschichte in den Römischen Bädern gewidmet. Schließen Sie den Tag mit einer beeindruckenden Fahrt zum Royal Crescent ab.",
+        "hu": "Kezdje a kerékpártúrát a Pulteney hídnál. Tekerjen át a Sydney Gardens-en a Holburne Múzeumhoz. Töltse a délelőttöt egy kellemes tekeréssel a sík Kennet és Avon csatorna vontatóútján. Térjen vissza ebédre a városközpontba és nézze meg a Bathi apátságot. A délután a Római fürdők történelmének mélyebb megismerésével telik. Zárja a napot egy lenyűgöző tekeréssel a Royal Crescenthez.",
+        "ro": "Începeți turul pe bicicletă de la Podul Pulteney. Pedalați prin Grădinile Sydney până la Muzeul Holburne. Petreceți dimineața cu o plimbare relaxantă de-a lungul căii plate a canalului Kennet și Avon. Întoarceți-vă în centrul orașului pentru prânz și o vizită la Abația din Bath. După-amiaza este dedicată scufundării în istorie la Băile Romane. Încheiați ziua cu o plimbare grandioasă până la Royal Crescent.",
+        "en": "Start your cycling tour at Pulteney Bridge. Cycle through Sydney Gardens to the Holburne Museum. Spend the mid-morning on a leisurely ride along the flat Kennet and Avon Canal towpath. Return to the city centre for lunch and a visit to Bath Abbey. The afternoon is dedicated to a deep dive into history at the Roman Baths. Conclude the day with a grand ride up to the Royal Crescent."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Bathwick Boatman",
+            "tip": "Genießen Sie eine Mahlzeit am Flussufer nach Ihrer Kanalfahrt."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Ein traditioneller Pub mit einer großartigen Auswahl an lokalen Bieren."
+          },
+          {
+            "name": "Same Same but Different",
+            "tip": "Ein beliebtes Café für ein herzhaftes Frühstück oder Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Bathwick Boatman",
+            "tip": "Élvezzen egy folyóparti étkezést a csatornán való tekerés után."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Hagyományos kocsma, helyi sörök nagy választékával."
+          },
+          {
+            "name": "Same Same but Different",
+            "tip": "Népszerű kávézó egy kiadós reggelihez vagy ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Bathwick Boatman",
+            "tip": "Bucurați-vă de o masă pe malul râului după plimbarea pe canal."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "Un pub tradițional cu o selecție excelentă de beri locale."
+          },
+          {
+            "name": "Same Same but Different",
+            "tip": "O cafenea populară pentru un mic dejun sau prânz copios."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Bathwick Boatman",
+            "tip": "Enjoy a riverside meal after your canal ride."
+          },
+          {
+            "name": "The Ale House",
+            "tip": "A traditional pub with a great selection of local ales."
+          },
+          {
+            "name": "Same Same but Different",
+            "tip": "A popular cafe for a hearty breakfast or lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Henrietta Park",
+            "tip": "Ein ruhiger Park in der Nähe des Holburne Museums, perfekt für eine kurze Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Beechen Cliff",
+            "tip": "Eine anspruchsvolle Radtour, die aber mit den besten Aussichten auf die Stadt belohnt wird.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parade Gardens",
+            "tip": "Entspannen Sie sich am Fluss und genießen Sie die Blumenpracht.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Henrietta Park",
+            "tip": "Csendes park a Holburne Múzeum közelében, tökéletes egy rövid pihenőre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Beechen Cliff",
+            "tip": "Kihívást jelentő biciklitúra, de a város legjobb kilátásával jutalmaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parade Gardens",
+            "tip": "Pihenjen a folyó mellett és élvezze a virágos kiállításokat.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Henrietta",
+            "tip": "Un parc liniștit lângă Muzeul Holburne, perfect pentru o scurtă pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Stânca Beechen",
+            "tip": "O plimbare cu bicicleta provocatoare, dar care recompensează cu cele mai bune vederi ale orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Parade",
+            "tip": "Relaxați-vă lângă râu și bucurați-vă de expozițiile florale.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Henrietta Park",
+            "tip": "A quiet park near the Holburne Museum, perfect for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Beechen Cliff",
+            "tip": "A challenging cycle but rewards with the best views of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parade Gardens",
+            "tip": "Relax by the river and enjoy the floral displays.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Green Park Station Market",
+            "tip": "Ein lebhafter Markt unter einem atemberaubenden viktorianischen Dach."
+          },
+          {
+            "name": "The Bartlett Street Quarter",
+            "tip": "Bekannt für seine unabhängigen Boutiquen, Kunstgalerien und Antiquitätenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Green Park Station Piac",
+            "tip": "Élénk piac egy lenyűgöző viktoriánus tető alatt."
+          },
+          {
+            "name": "The Bartlett Street negyed",
+            "tip": "Független butikjairól, művészeti galériáiról és régiségboltjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Gării Green Park",
+            "tip": "O piață vibrantă sub un acoperiș victorian uimitor."
+          },
+          {
+            "name": "Cartierul Bartlett Street",
+            "tip": "Cunoscut pentru buticurile sale independente, galeriile de artă și magazinele de antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Green Park Station Market",
+            "tip": "A vibrant market set under a stunning Victorian roof."
+          },
+          {
+            "name": "The Bartlett Street Quarter",
+            "tip": "Known for its independent boutiques, art galleries, and antique shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bath ist hügelig; seien Sie auf einige Anstiege vorbereitet, besonders außerhalb des Zentrums.",
+          "Ein Hybrid- oder E-Bike wird für eine komfortablere Fahrt empfohlen.",
+          "Nutzen Sie den Two Tunnels Greenway für eine längere, verkehrsfreie Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer an, da Diebstahl ein Problem sein kann."
+        ],
+        "hu": [
+          "Bath dombos; készüljön fel néhány emelkedőre, különösen a központon kívül.",
+          "Hibrid vagy e-kerékpár ajánlott a kényelmesebb utazáshoz.",
+          "Használja a Two Tunnels Greenway-t egy hosszabb, forgalomtól mentes úthoz.",
+          "Mindig zárja le a kerékpárját, mivel a lopás problémát jelenthet."
+        ],
+        "ro": [
+          "Bath este deluros; fiți pregătiți pentru câteva urcări, mai ales în afara centrului.",
+          "O bicicletă hibridă sau electrică este recomandată pentru o plimbare mai confortabilă.",
+          "Folosiți Two Tunnels Greenway pentru o plimbare mai lungă, fără trafic.",
+          "Legați-vă întotdeauna bicicleta, deoarece furtul poate fi o problemă."
+        ],
+        "en": [
+          "Bath is hilly; be prepared for some climbs, especially away from the centre.",
+          "A hybrid or e-bike is recommended for a more comfortable ride.",
+          "Utilise the Two Tunnels Greenway for a longer, traffic-free ride.",
+          "Always lock your bike as theft can be an issue."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Charlotte Street",
+            "hu": "Charlotte Street Parkoló",
+            "ro": "Parcarea Charlotte Street",
+            "en": "Charlotte Street Car Park"
+          },
+          "coords": [
+            -2.365,
+            51.3835
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Es ist zentral und hat viele Plätze.",
+            "hu": "Parkoljon itt egész napra. Központi helyen van és sok a hely.",
+            "ro": "Parcați aici pentru o zi. Este central și are multe locuri.",
+            "en": "Park here for the day. It's central and has plenty of spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "The Circus & Royal Crescent",
+            "hu": "The Circus és Royal Crescent",
+            "ro": "The Circus și Royal Crescent",
+            "en": "The Circus & Royal Crescent"
+          },
+          "coords": [
+            -2.365,
+            51.3846
+          ],
+          "category": "squares",
+          "arrive_at": "09:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden ikonischen georgianischen Wahrzeichen zu Fuß.",
+            "hu": "Fedezze fel ezt a két ikonikus György-kori nevezetességet gyalog.",
+            "ro": "Explorați pe jos aceste două repere georgiene iconice.",
+            "en": "Explore these two iconic Georgian landmarks on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder & Bath Abbey",
+            "hu": "Római fürdők és Bathi apátság",
+            "ro": "Băile Romane și Abația din Bath",
+            "en": "Roman Baths & Bath Abbey"
+          },
+          "coords": [
+            -2.359,
+            51.3813
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen nebeneinander, also planen Sie genügend Zeit ein.",
+            "hu": "Ez a két látnivaló egymás mellett van, ezért szánjon rájuk elég időt.",
+            "ro": "Aceste două atracții sunt una lângă alta, așa că alocați suficient timp.",
+            "en": "These two attractions are next to each other, so allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulteney Bridge",
+            "hu": "Pulteney híd",
+            "ro": "Podul Pulteney",
+            "en": "Pulteney Bridge"
+          },
+          "coords": [
+            -2.355,
+            51.3823
+          ],
+          "category": "bridges",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Abtei. Mittagessen in der Nähe ist eine gute Option.",
+            "hu": "Rövid séta az apátságtól. A közelben ebédelni jó lehetőség.",
+            "ro": "O scurtă plimbare de la abație. Prânzul în apropiere este o opțiune bună.",
+            "en": "A short walk from the Abbey. Lunch nearby is a good option."
+          }
+        },
+        {
+          "name": {
+            "de": "Holburne Museum",
+            "hu": "Holburne Múzeum",
+            "ro": "Muzeul Holburne",
+            "en": "Holburne Museum"
+          },
+          "coords": [
+            -2.348,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch die Great Pulteney Street.",
+            "hu": "Kellemes séta a Great Pulteney Streeten keresztül.",
+            "ro": "O plimbare plăcută pe Great Pulteney Street.",
+            "en": "A pleasant walk up Great Pulteney Street."
+          }
+        },
+        {
+          "name": {
+            "de": "Prior Park Landscape Garden",
+            "hu": "Prior Park Tájképi Kert",
+            "ro": "Grădina Peisagistică Prior Park",
+            "en": "Prior Park Landscape Garden"
+          },
+          "coords": [
+            -2.343,
+            51.37
+          ],
+          "category": "parks",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz des Gartens für einen atemberaubenden Blick über die Stadt.",
+            "hu": "Hajtson a kert parkolójába a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Conduceți la parcarea grădinii pentru vederi uluitoare asupra orașului.",
+            "en": "Drive back to the car and head to the garden for stunning city views."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Parkplatz",
+            "hu": "Vissza a parkolóba",
+            "ro": "Întoarcere la parcare",
+            "en": "Return to Car Park"
+          },
+          "coords": [
+            -2.365,
+            51.3835
+          ],
+          "category": "transport",
+          "arrive_at": "17:09",
+          "stay_min": 30,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Sammeln Sie Ihre Souvenirs und bereiten Sie sich auf die Abreise vor.",
+            "hu": "Szedje össze az ajándéktárgyakat és készüljön az indulásra.",
+            "ro": "Adunați-vă suvenirurile și pregătiți-vă de plecare.",
+            "en": "Collect your souvenirs and prepare for departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und beginnen Sie Ihren Tag zu Fuß mit der Erkundung des georgianischen Bath. Der Vormittag ist dem Circus, dem Crescent, den Römischen Bädern und der Abtei gewidmet. Genießen Sie ein Mittagessen in der Nähe der Pulteney Bridge. Am Nachmittag spazieren Sie zum Holburne Museum. Später holen Sie Ihr Auto und fahren zum Prior Park für einen Panoramablick und einen ruhigen Spaziergang, der perfekte Abschluss für Ihren Tag in Bath.",
+        "hu": "Parkolja le autóját a központban, és kezdje a napot gyalogosan, felfedezve a György-kori Bathot. A délelőtt a Circus, a Crescent, a Római fürdők és az apátság felfedezésével telik. Ebédeljen a Pulteney híd közelében. Délután sétáljon el a Holburne Múzeumba. Később üljön vissza az autóba, és hajtson el a Prior Parkba egy panorámás kilátásért és egy békés sétáért, amely tökéletes befejezése a bathi napnak.",
+        "ro": "Parcați mașina în centru și începeți ziua pe jos, explorând Bath-ul georgian. Dimineața este dedicată explorării The Circus, Crescent, Băilor Romane și Abației. Savurați prânzul lângă Podul Pulteney. După-amiaza, plimbați-vă până la Muzeul Holburne. Mai târziu, recuperați mașina și conduceți la Prior Park pentru vederi panoramice și o plimbare liniștită, încheierea perfectă a zilei în Bath.",
+        "en": "Park your car centrally and start your day on foot, exploring Georgian Bath. The morning is dedicated to The Circus, Crescent, Roman Baths, and the Abbey. Enjoy lunch near Pulteney Bridge. In the afternoon, stroll to the Holburne Museum. Later, retrieve your car and drive to Prior Park for panoramic views and a peaceful walk, the perfect end to your Bath day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Scallop Shell",
+            "tip": "Preisgekröntes Fish and Chips, eine kurze Fahrt vom Zentrum entfernt."
+          },
+          {
+            "name": "The Hare & Hounds",
+            "tip": "Ein Gastro-Pub mit fantastischer Aussicht, etwas außerhalb der Stadt."
+          },
+          {
+            "name": "Acorn Restaurant",
+            "tip": "Ein hochgelobtes vegetarisches Restaurant im Herzen von Bath."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Scallop Shell",
+            "tip": "Díjnyertes fish and chips, rövid autóútra a központtól."
+          },
+          {
+            "name": "The Hare & Hounds",
+            "tip": "Gasztronómiai kocsma fantasztikus kilátással, kissé a városon kívül."
+          },
+          {
+            "name": "Acorn Étterem",
+            "tip": "Magasan értékelt vegetáriánus étterem Bath szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Scallop Shell",
+            "tip": "Fish and chips premiat, la o scurtă distanță cu mașina de centru."
+          },
+          {
+            "name": "The Hare & Hounds",
+            "tip": "Un pub gastronomic cu vederi fantastice, chiar în afara orașului."
+          },
+          {
+            "name": "Acorn Restaurant",
+            "tip": "Un restaurant vegetarian foarte apreciat în inima orașului Bath."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Scallop Shell",
+            "tip": "Award-winning fish and chips, a short drive from the centre."
+          },
+          {
+            "name": "The Hare & Hounds",
+            "tip": "A gastropub with fantastic views, just outside the city."
+          },
+          {
+            "name": "Acorn Restaurant",
+            "tip": "A highly-rated vegetarian restaurant in the heart of Bath."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bath Skyline Walk",
+            "tip": "Eine 6-Meilen-Runde, die mit dem Auto erreichbar ist und eine atemberaubende Aussicht bietet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Royal Victoria Park",
+            "tip": "Ein riesiger Park hinter dem Royal Crescent, ideal für einen ruhigen Moment.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Georgian Garden",
+            "tip": "Ein verstecktes Juwel hinter dem Circus, das einen authentischen Stadtgarten aus dem 18. Jahrhundert nachbildet.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bath Skyline Séta",
+            "tip": "Egy 6 mérföldes kör, amely autóval elérhető, és lenyűgöző kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Royal Victoria Park",
+            "tip": "Hatalmas park a Royal Crescent mögött, ideális egy csendes pillanatra.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Grúz Kert",
+            "tip": "Rejtett gyöngyszem a Circus mögött, amely egy 18. századi autentikus városi kertet idéz.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbarea Bath Skyline",
+            "tip": "Un circuit de 6 mile accesibil cu mașina, care oferă vederi uimitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Royal Victoria",
+            "tip": "Un parc vast în spatele Royal Crescent, ideal pentru un moment de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina Georgiană",
+            "tip": "O bijuterie ascunsă în spatele The Circus, recreând o grădină urbană autentică din secolul al XVIII-lea.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bath Skyline Walk",
+            "tip": "A 6-mile circular route accessible by car, offering stunning views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Royal Victoria Park",
+            "tip": "A vast park behind the Royal Crescent, ideal for a quiet moment.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Georgian Garden",
+            "tip": "A hidden gem behind the Circus, recreating an authentic 18th-century town garden.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Milsom Street",
+            "tip": "Baths elegante Einkaufsstraße mit einer Mischung aus Designerläden und High-Street-Marken."
+          },
+          {
+            "name": "Walcot Street",
+            "tip": "Bekannt als Baths 'Artisan Quarter', voller unabhängiger Geschäfte und Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Milsom Street",
+            "tip": "Bath elegáns bevásárlóutcája, designer üzletek és népszerű márkák keverékével."
+          },
+          {
+            "name": "Walcot Street",
+            "tip": "Bath 'Kézműves Negyedeként' ismert, tele független üzletekkel és régiségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Milsom Street",
+            "tip": "Strada comercială elegantă din Bath, cu un amestec de magazine de designer și mărci de masă."
+          },
+          {
+            "name": "Walcot Street",
+            "tip": "Cunoscut ca 'Cartierul Artizanilor' din Bath, plin de magazine independente și antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Milsom Street",
+            "tip": "Bath's elegant shopping street, with a mix of designer stores and high-street brands."
+          },
+          {
+            "name": "Walcot Street",
+            "tip": "Known as Bath's 'Artisan Quarter', full of independent shops and antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Einrichtungen der Stadt, um Verkehr und Parkgebühren zu vermeiden.",
+          "Die Parkplätze im Zentrum können teuer sein und sich schnell füllen.",
+          "Bath hat eine Umweltzone (Clean Air Zone), also überprüfen Sie, ob für Ihr Fahrzeug Gebühren anfallen.",
+          "Ein Auto ermöglicht es Ihnen, leicht nahegelegene Sehenswürdigkeiten wie die Cotswolds zu erkunden."
+        ],
+        "hu": [
+          "Használja a város Park and Ride szolgáltatásait a forgalom és a parkolási díjak elkerülése érdekében.",
+          "A központi parkolók drágák lehetnek és gyorsan megtelnek.",
+          "Bathban Tiszta Levegő Zóna (Clean Air Zone) van, ezért ellenőrizze, hogy járművére vonatkoznak-e díjak.",
+          "Az autó lehetővé teszi a közeli látnivalók, például a Cotswolds könnyű felfedezését."
+        ],
+        "ro": [
+          "Folosiți facilitățile Park and Ride ale orașului pentru a evita traficul și taxele de parcare.",
+          "Parcările din centru pot fi scumpe și se umplu rapid.",
+          "Bath are o zonă de aer curat (Clean Air Zone), așa că verificați dacă se aplică taxe pentru vehiculul dumneavoastră.",
+          "O mașină vă permite să explorați cu ușurință atracțiile din apropiere, cum ar fi Cotswolds."
+        ],
+        "en": [
+          "Use the city's Park and Ride facilities to avoid traffic and parking fees.",
+          "City centre car parks can be expensive and fill up quickly.",
+          "Bath has a Clean Air Zone, so check if your vehicle is subject to charges.",
+          "A car allows you to easily explore nearby attractions like the Cotswolds."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Stadtzentrum (Busbahnhof)",
+            "hu": "Érkezés a városközpontba (buszpályaudvar)",
+            "ro": "Sosire în centrul orașului (autogară)",
+            "en": "City Centre Arrival (Bus Station)"
+          },
+          "coords": [
+            -2.356,
+            51.378
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier; die meisten Busse halten in der Nähe. Kaufen Sie eine Tageskarte.",
+            "hu": "Kezdje itt; a legtöbb busz a közelben áll meg. Vásároljon napijegyet.",
+            "ro": "Începeți de aici; majoritatea autobuzelor opresc în apropiere. Cumpărați un bilet de o zi.",
+            "en": "Start here; most buses stop nearby. Buy a day rider ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder & Bath Abbey",
+            "hu": "Római fürdők és Bathi apátság",
+            "ro": "Băile Romane și Abația din Bath",
+            "en": "Roman Baths & Bath Abbey"
+          },
+          "coords": [
+            -2.359,
+            51.3813
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 135,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster großer Besichtigungscluster, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Az első nagy látnivaló-csoport, rövid sétára a buszpályaudvartól.",
+            "ro": "Primul dvs. grup mare de vizitare, la o scurtă plimbare de autogară.",
+            "en": "Your first major cluster of sightseeing, a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "The Circus & Royal Crescent",
+            "hu": "The Circus és Royal Crescent",
+            "ro": "The Circus și Royal Crescent",
+            "en": "The Circus & Royal Crescent"
+          },
+          "coords": [
+            -2.365,
+            51.3846
+          ],
+          "category": "squares",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang bergauf, um diese georgianischen Meisterwerke zu sehen.",
+            "hu": "Tegyen egy kellemes sétát felfelé, hogy megnézze ezeket a György-kori remekműveket.",
+            "ro": "Faceți o plimbare relaxată la deal pentru a vedea aceste capodopere georgiene.",
+            "en": "Take a leisurely stroll uphill to see these Georgian masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Jane Austen Centre",
+            "hu": "Ebéd a Jane Austen Központ közelében",
+            "ro": "Prânz lângă Centrul Jane Austen",
+            "en": "Lunch near Jane Austen Centre"
+          },
+          "coords": [
+            -2.362,
+            51.3828
+          ],
+          "category": "gastro",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem der vielen Cafés oder Restaurants in dieser Gegend.",
+            "hu": "Töltődjön fel az egyik kávézóban vagy étteremben ezen a területen.",
+            "ro": "Realimentați-vă la una dintre numeroasele cafenele sau restaurante din această zonă.",
+            "en": "Refuel at one of the many cafes or restaurants in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Holburne Museum",
+            "hu": "Holburne Múzeum",
+            "ro": "Muzeul Holburne",
+            "en": "Holburne Museum"
+          },
+          "coords": [
+            -2.348,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "14:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Museum.",
+            "hu": "Szálljon buszra a városközpontból a múzeumhoz.",
+            "ro": "Luați un autobuz din centrul orașului până la muzeu.",
+            "en": "Catch a bus from the city centre to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Prior Park Landscape Garden",
+            "hu": "Prior Park Tájképi Kert",
+            "ro": "Grădina Peisagistică Prior Park",
+            "en": "Prior Park Landscape Garden"
+          },
+          "coords": [
+            -2.343,
+            51.37
+          ],
+          "category": "parks",
+          "arrive_at": "16:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie zu diesem wunderschönen Garten mit Blick auf die Stadt.",
+            "hu": "Egy másik busz elvisz ehhez a gyönyörű, városra néző kerthez.",
+            "ro": "O altă călătorie cu autobuzul vă duce la această grădină frumoasă cu vedere la oraș.",
+            "en": "Another bus ride takes you to this beautiful garden overlooking the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie mit dem Bus ins Zentrum von Bath fahren. Verbringen Sie den Vormittag mit der Erkundung des ersten Fußgängerclusters: die Römischen Bäder, die Abtei, das Circus und das Crescent. Nach dem Mittagessen nutzen Sie Ihr Busticket, um zum Holburne Museum zu gelangen. Am späten Nachmittag bringt Sie ein weiterer Bus zum Prior Park, wo Sie einen atemberaubenden Blick und einen ruhigen Spaziergang genießen können, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Kezdje a napot egy buszúttal Bath központjába. Töltse a délelőttöt az első gyalogos klaszter felfedezésével: Római fürdők, apátság, Circus és Crescent. Ebéd után használja a buszjegyét, hogy eljusson a Holburne Múzeumba. Késő délután egy másik busz elviszi Önt a Prior Parkba, ahol lenyűgöző kilátás és egy békés séta várja, mielőtt visszatérne a központba.",
+        "ro": "Începeți ziua luând un autobuz spre centrul orașului Bath. Petreceți dimineața explorând primul grup pietonal: Băile Romane, Abația, The Circus și Crescent. După prânz, folosiți biletul de autobuz pentru a ajunge la Muzeul Holburne. Spre sfârșitul după-amiezii, o altă călătorie cu autobuzul vă va duce la Prior Park pentru vederi uimitoare și o plimbare liniștită înainte de a vă întoarce în centru.",
+        "en": "Start your day by taking a bus into the centre of Bath. Spend the morning exploring the first pedestrian cluster: the Roman Baths, Abbey, the Circus, and the Crescent. After lunch, use your bus ticket to hop over to the Holburne Museum. In the late afternoon, another bus ride will take you to Prior Park for stunning views and a peaceful walk before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Crystal Palace Pub",
+            "tip": "Ein traditioneller Pub mit einem schönen Garten, in der Nähe der Römischen Bäder."
+          },
+          {
+            "name": "The Thoughtful Bakery",
+            "tip": "Ideal für handwerklich hergestelltes Gebäck und Kaffee, bevor Sie in einen Bus steigen."
+          },
+          {
+            "name": "Boston Tea Party",
+            "tip": "Ein großes, lebhaftes Café, das bei Einheimischen und Touristen gleichermaßen beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Crystal Palace Pub",
+            "tip": "Hagyományos kocsma gyönyörű kerttel, a Római fürdők közelében."
+          },
+          {
+            "name": "The Thoughtful Bakery",
+            "tip": "Ideális kézműves péksüteményekhez és kávéhoz, mielőtt buszra szállna."
+          },
+          {
+            "name": "Boston Tea Party",
+            "tip": "Nagy, nyüzsgő kávézó, amely a helyiek és a turisták körében is népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Crystal Palace Pub",
+            "tip": "Un pub tradițional cu o grădină frumoasă, aproape de Băile Romane."
+          },
+          {
+            "name": "The Thoughtful Bakery",
+            "tip": "Ideal pentru produse de patiserie artizanale și cafea înainte de a lua un autobuz."
+          },
+          {
+            "name": "Boston Tea Party",
+            "tip": "O cafenea mare și plină de viață, populară atât printre localnici, cât și printre turiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Crystal Palace Pub",
+            "tip": "A traditional pub with a lovely garden, close to the Roman Baths."
+          },
+          {
+            "name": "The Thoughtful Bakery",
+            "tip": "Ideal for artisan pastries and coffee before catching a bus."
+          },
+          {
+            "name": "Boston Tea Party",
+            "tip": "A large, bustling cafe popular with locals and tourists alike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sydney Gardens",
+            "tip": "Einer der wenigen verbliebenen Vergnügungsgärten des 18. Jahrhunderts in Großbritannien, hinter dem Holburne Museum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Michael's Churchyard",
+            "tip": "Ein ruhiger Ort im Zentrum, um sich auszuruhen und die gotische Architektur zu bewundern.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Flussufer des Avon",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sydney Gardens",
+            "tip": "Az Egyesült Királyság kevés megmaradt 18. századi vigalmi kertjeinek egyike, a Holburne Múzeum mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent Mihály templomkert",
+            "tip": "Csendes hely a központban, ahol pihenhet és megcsodálhatja a gótikus építészetet.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Avon folyópart",
+            "tip": "Keressen egy padot a folyóparton, és nézze a világot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sydney",
+            "tip": "Una dintre puținele grădini de agrement din secolul al XVIII-lea rămase în Marea Britanie, în spatele Muzeului Holburne.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Mihail",
+            "tip": "Un loc liniștit în centru pentru a vă odihni picioarele și a admira arhitectura gotică.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Malul râului Avon",
+            "tip": "Găsiți o bancă pe malul râului și priviți lumea trecând.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sydney Gardens",
+            "tip": "One of the UK's few remaining 18th-century pleasure gardens, behind the Holburne Museum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St Michael's Churchyard",
+            "tip": "A quiet spot in the centre to rest your feet and admire the gothic architecture.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "River Avon riverside",
+            "tip": "Find a bench by the riverside and watch the world go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "SouthGate",
+            "tip": "Ein modernes Einkaufsviertel im Freien in der Nähe des Bus- und Bahnhofs."
+          },
+          {
+            "name": "The Corridor",
+            "tip": "Eine der frühesten Einkaufspassagen des Landes mit einer Reihe von unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "SouthGate",
+            "tip": "Modern, szabadtéri bevásárlónegyed a busz- és vasútállomás közelében."
+          },
+          {
+            "name": "The Corridor",
+            "tip": "Az ország egyik legkorábbi bevásárlóárkádja, független üzletek sorával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "SouthGate",
+            "tip": "Un district comercial modern în aer liber, lângă stațiile de autobuz și tren."
+          },
+          {
+            "name": "The Corridor",
+            "tip": "Una dintre cele mai vechi arcade comerciale din țară, cu o serie de magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "SouthGate",
+            "tip": "A modern, open-air shopping district near the bus and train stations."
+          },
+          {
+            "name": "The Corridor",
+            "tip": "One of the country's earliest retail arcades, with a range of independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Die Busse von First Bus sind die wichtigsten in der Stadt. Schauen Sie sich ihre App für Live-Zeiten an.",
+          "Einige Busse akzeptieren kontaktlose Zahlungen, aber es ist gut, etwas Bargeld dabei zu haben.",
+          "Die Bushaltestellen können verwirrend sein, also überprüfen Sie die Routenkarte im Voraus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "A First Bus buszai a fő közlekedési eszközök a városban; nézze meg az alkalmazásukat az élő menetrendért.",
+          "Néhány busz elfogadja az érintésmentes fizetést, de jó, ha van Önnél készpénz.",
+          "A buszmegállók zavaróak lehetnek, ezért előre ellenőrizze az útvonaltérképet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Autobuzele First Bus sunt principalele din oraș; verificați aplicația lor pentru orele live.",
+          "Unele autobuze acceptă plăți contactless, dar este bine să aveți și niște numerar.",
+          "Stațiile de autobuz pot fi confuze, așa că verificați harta rutelor în avans."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel.",
+          "First Bus buses are the main operator in the city; check their app for live times.",
+          "Some buses accept contactless payments, but it's good to have some cash.",
+          "Bus stops can be confusing, so double-check the route map beforehand."
+        ]
+      }
+    }
+  }
+}

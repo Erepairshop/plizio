@@ -1,0 +1,1484 @@
+{
+  "city_id": "austria-feldkirchen-in-kaernten-cities-v2",
+  "anchor": {
+    "name": "Feldkirchen in Kärnten",
+    "coords": [
+      14.0911,
+      46.7214
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz Feldkirchen",
+            "hu": "Feldkirchen főtere",
+            "ro": "Piața Centrală din Feldkirchen",
+            "en": "Feldkirchen Main Square"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz und beobachten Sie das städtische Treiben.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában, és figyelje a városi nyüzsgést.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați agitația orașului.",
+            "en": "Start your day with a coffee at one of the square's cafés and watch the city life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Maria im Dorn",
+            "hu": "Maria im Dorn plébániatemplom",
+            "ro": "Biserica parohială Maria im Dorn",
+            "en": "Parish Church Maria im Dorn"
+          },
+          "coords": [
+            14.092,
+            46.722
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken und den beeindruckenden Hochaltar dieser Wehrkirche.",
+            "hu": "Figyelje meg a gótikus freskókat és az erődtemplom lenyűgöző főoltárát.",
+            "ro": "Fiți atenți la frescele gotice și la altarul impresionant al acestei biserici fortificate.",
+            "en": "Pay attention to the Gothic frescoes and the impressive high altar of this fortified church."
+          }
+        },
+        {
+          "name": {
+            "de": "Amthof & Bamberger Amthof Museum",
+            "hu": "Amthof és Bamberger Amthof Múzeum",
+            "ro": "Amthof și Muzeul Bamberger Amthof",
+            "en": "Amthof & Bamberger Amthof Museum"
+          },
+          "coords": [
+            14.09,
+            46.7225
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum im ehemaligen Bamberger Amtshaus gibt Einblicke in die regionale Geschichte und Kultur.",
+            "hu": "Az egykori bambergi hivatalházban található múzeum betekintést nyújt a régió történelmébe és kultúrájába.",
+            "ro": "Muzeul din fosta primărie din Bamberg oferă o perspectivă asupra istoriei și culturii regionale.",
+            "en": "The museum in the former Bamberg administrative building offers insights into regional history and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            14.0915,
+            46.721
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die Kärntner Kasnudeln in einem der traditionellen Gasthöfe.",
+            "hu": "Kóstolja meg a karintiai sajtos tésztát (Kasnudeln) az egyik hagyományos vendéglőben.",
+            "ro": "Încercați Kärntner Kasnudeln, găluștele cu brânză carintiene, la unul dintre hanurile tradiționale.",
+            "en": "Try the Carinthian cheese noodles (Kärntner Kasnudeln) in one of the traditional inns."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Ulrich",
+            "hu": "Szent Ulrik plébániatemplom",
+            "ro": "Biserica parohială Sf. Ulrich",
+            "en": "Parish Church of St. Ulrich"
+          },
+          "coords": [
+            14.095,
+            46.725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu dieser Kirche, die für ihre romanischen Ursprünge bekannt ist.",
+            "hu": "Egy rövid séta ehhez a román kori eredetéről ismert templomhoz.",
+            "ro": "O scurtă plimbare până la această biserică, cunoscută pentru originile sale romanice.",
+            "en": "A short walk to this church, known for its Romanesque origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang des Tiebelbachs",
+            "hu": "Séta a Tiebelbach mentén",
+            "ro": "Plimbare de-a lungul pârâului Tiebelbach",
+            "en": "Stroll along the Tiebelbach stream"
+          },
+          "coords": [
+            14.088,
+            46.724
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am Ufer des kleinen Flusses, der durch die Stadt fließt.",
+            "hu": "Pihentető befejezése a napnak a városon átfolyó kis folyó partján.",
+            "ro": "O încheiere relaxantă a zilei pe malul micului râu care traversează orașul.",
+            "en": "A relaxing end to the day on the banks of the small stream that flows through the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Feldkirchen beginnt am lebhaften Hauptplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die historischen und religiösen Schätze des Zentrums, wie die imposante Stadtpfarrkirche und das kulturgefüllte Amthof. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten führt Sie ein Spaziergang zur ruhigeren St. Ulrich Kirche. Der Nachmittag klingt entspannt bei einem Spaziergang entlang des Tiebelbachs aus, wo Sie die Eindrücke des Tages Revue passieren lassen können.",
+        "hu": "Feldkircheni napja a város szívében, a nyüzsgő főtéren kezdődik. Délelőtt a központ történelmi és vallási kincseit fedezi fel, mint a lenyűgöző plébániatemplomot és a kultúrával teli Amthofot. Egy helyi specialitásokkal teli, erősítő ebéd után egy séta vezet a csendesebb Szent Ulrik-templomhoz. A délután pihentető sétával zárul a Tiebelbach mentén, ahol átgondolhatja a nap élményeit.",
+        "ro": "Ziua dvs. în Feldkirchen începe în vibranta Piață Principală, inima orașului. Dimineața explorați comorile istorice și religioase ale centrului, precum impunătoarea Biserică Parohială și Amthof-ul plin de cultură. După un prânz copios cu specialități locale, o plimbare vă va duce la liniștita Biserică Sf. Ulrich. După-amiaza se încheie relaxant cu o plimbare de-a lungul pârâului Tiebelbach, unde puteți reflecta asupra impresiilor zilei.",
+        "en": "Your day in Feldkirchen begins at the lively main square, the heart of the city. In the morning, you'll explore the historical and religious treasures of the center, such as the imposing parish church and the culture-filled Amthof. After a hearty lunch with local specialties, a walk leads you to the quieter St. Ulrich's Church. The afternoon concludes with a relaxing stroll along the Tiebelbach stream, where you can reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kärntner Kasnudeln",
+            "tip": "Gefüllte Teigtaschen, ein Muss in Kärnten. Probieren Sie sie im Gasthof zum Grünen Baum."
+          },
+          {
+            "name": "Kärntner Reindling",
+            "tip": "Ein süßer Gugelhupf mit Zimt und Rosinen, perfekt zum Kaffee im Café-Konditorei Craigher."
+          },
+          {
+            "name": "Brettljause",
+            "tip": "Eine herzhafte Brotzeit mit regionalen Wurst- und Käsesorten, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karintiai sajtos tészta (Kasnudeln)",
+            "tip": "Töltött tésztatáskák, kötelező Karintiában. Kóstolja meg a Gasthof zum Grünen Baum-ban."
+          },
+          {
+            "name": "Karintiai kalács (Reindling)",
+            "tip": "Édes kuglóf fahéjjal és mazsolával, tökéletes a kávé mellé a Craigher cukrászdában."
+          },
+          {
+            "name": "Paraszttál (Brettljause)",
+            "tip": "Kiadós uzsonna regionális kolbász- és sajtfélékkel, ideális egy pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu brânză carintiene (Kasnudeln)",
+            "tip": "Găluște umplute, o necesitate în Carintia. Încercați-le la Gasthof zum Grünen Baum."
+          },
+          {
+            "name": "Cozonac carintian (Reindling)",
+            "tip": "Un guguluf dulce cu scorțișoară și stafide, perfect cu o cafea la Café-Konditorei Craigher."
+          },
+          {
+            "name": "Platou țărănesc (Brettljause)",
+            "tip": "O gustare consistentă cu mezeluri și brânzeturi regionale, ideală pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carinthian Cheese Noodles (Kasnudeln)",
+            "tip": "Filled pasta pockets, a must-try in Carinthia. Taste them at Gasthof zum Grünen Baum."
+          },
+          {
+            "name": "Carinthian Cake (Reindling)",
+            "tip": "A sweet Bundt cake with cinnamon and raisins, perfect with coffee at Café-Konditorei Craigher."
+          },
+          {
+            "name": "Snack Platter (Brettljause)",
+            "tip": "A hearty snack with regional sausages and cheeses, ideal for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Tiebelbachs",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhof bei St. Ulrich",
+            "tip": "Ein friedlicher, historischer Ort zum Innehalten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Kirchenmauer",
+            "tip": "Genießen Sie die Aussicht über die Dächer der Stadt von der Mauer der Stadtpfarrkirche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiebelbach partja",
+            "tip": "Csendes hely egy sétához a nyüzsgéstől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Ulrik melletti temető",
+            "tip": "Békés, történelmi hely a megnyugvásra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a templomfalról",
+            "tip": "Élvezze a kilátást a város háztetőire a plébániatemplom faláról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului Tiebelbach",
+            "tip": "Un loc liniștit pentru o plimbare departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitirul de lângă Sf. Ulrich",
+            "tip": "Un loc pașnic, istoric, pentru a face o pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe zidul bisericii",
+            "tip": "Bucurați-vă de priveliștea acoperișurilor orașului de pe zidul bisericii parohiale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tiebelbach",
+            "tip": "A quiet spot for a walk away from the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery at St. Ulrich",
+            "tip": "A peaceful, historic place to pause and reflect.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the church wall",
+            "tip": "Enjoy the view over the city's rooftops from the wall of the parish church.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Hauptplatz",
+            "tip": "Finden Sie frische, regionale Produkte und lokale Spezialitäten (oft am Freitag)."
+          },
+          {
+            "name": "Handwerk im Amthof",
+            "tip": "Manchmal finden hier kleine Märkte mit lokalem Kunsthandwerk statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Főtéren",
+            "tip": "Találjon friss, regionális termékeket és helyi specialitásokat (gyakran pénteken)."
+          },
+          {
+            "name": "Kézműves termékek az Amthofban",
+            "tip": "Néha kis piacokat tartanak itt helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Hauptplatz",
+            "tip": "Găsiți produse proaspete, regionale și specialități locale (adesea vinerea)."
+          },
+          {
+            "name": "Artizanat la Amthof",
+            "tip": "Uneori, aici au loc mici târguri cu produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market on the Main Square",
+            "tip": "Find fresh, regional products and local specialties (often on Fridays)."
+          },
+          {
+            "name": "Crafts at the Amthof",
+            "tip": "Sometimes small markets with local handicrafts take place here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein Spaziergang durch die kleineren Gassen abseits des Hauptplatzes lohnt sich immer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A központ legtöbb látnivalója könnyen elérhető gyalog.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Mindig megéri sétálni egyet a főtértől távolabbi kisebb sikátorokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "O plimbare pe aleile mai mici, departe de piața principală, merită întotdeauna."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Most sights in the center are easily reachable on foot.",
+          "Check the museum's opening hours in advance.",
+          "A stroll through the smaller alleys away from the main square is always worthwhile."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz & Radverleih",
+            "hu": "Főtér és kerékpárkölcsönző",
+            "ro": "Piața Centrală și închiriere de biciclete",
+            "en": "Main Square & Bike Rental"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad in der Nähe des Hauptplatzes, um flexibel zu sein.",
+            "hu": "Béreljen kerékpárt a főtér közelében a rugalmasság érdekében.",
+            "ro": "Închiriați o bicicletă lângă Piața Centrală pentru a fi flexibil.",
+            "en": "Rent a bike near the main square to be flexible."
+          }
+        },
+        {
+          "name": {
+            "de": "Amthof & Bamberger Amthof Museum",
+            "hu": "Amthof és Bamberger Amthof Múzeum",
+            "ro": "Amthof și Muzeul Bamberger Amthof",
+            "en": "Amthof & Bamberger Amthof Museum"
+          },
+          "coords": [
+            14.09,
+            46.7225
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte der Region ein.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, és merüljön el a régió történelmében.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria regiunii.",
+            "en": "Park your bike safely and dive into the history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Maria im Dorn",
+            "hu": "Maria im Dorn plébániatemplom",
+            "ro": "Biserica parohială Maria im Dorn",
+            "en": "Parish Church Maria im Dorn"
+          },
+          "coords": [
+            14.092,
+            46.722
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp bei dieser beeindruckenden Kirche im Herzen der Stadt.",
+            "hu": "Egy rövid megálló ennél a lenyűgöző templomnál a város szívében.",
+            "ro": "O scurtă oprire la această biserică impresionantă din inima orașului.",
+            "en": "A quick stop at this impressive church in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Dietrichstein",
+            "hu": "Kerékpárral a Dietrichstein kastélyhoz",
+            "ro": "Tură cu bicicleta la Castelul Dietrichstein",
+            "en": "Ride to Dietrichstein Castle"
+          },
+          "coords": [
+            14.115,
+            46.71
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt aus der Stadt hinaus. Das Schloss ist heute ein Hotel, aber die Aussicht ist lohnenswert.",
+            "hu": "Élvezze a városból kivezető utat. A kastély ma szálloda, de a kilátás megéri.",
+            "ro": "Bucurați-vă de plimbarea în afara orașului. Castelul este acum un hotel, dar priveliștea merită.",
+            "en": "Enjoy the ride out of town. The castle is a hotel now, but the view is worthwhile."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Maltschacher See",
+            "hu": "Ebéd a Maltschacher-tónál",
+            "ro": "Prânz la Lacul Maltschacher",
+            "en": "Lunch at Maltschacher See"
+          },
+          "coords": [
+            14.12,
+            46.7
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem Restaurant mit Seeblick.",
+            "hu": "Erősítse meg magát egy tóra néző étteremben.",
+            "ro": "Luați o masă revigorantă la un restaurant cu vedere la lac.",
+            "en": "Recharge at a restaurant with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung am Maltschacher See",
+            "hu": "Pihenés a Maltschacher-tónál",
+            "ro": "Relaxare la Lacul Maltschacher",
+            "en": "Relaxation at Maltschacher See"
+          },
+          "coords": [
+            14.122,
+            46.698
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad im Sommer oder einfach nur die Natur genießen.",
+            "hu": "Egy frissítő fürdő nyáron, vagy csak élvezze a természetet.",
+            "ro": "O baie răcoritoare vara sau pur și simplu bucurați-vă de natură.",
+            "en": "A refreshing swim in summer or just enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum & Kaffee",
+            "hu": "Vissza a központba és egy kávé",
+            "ro": "Întoarcere în centru și o cafea",
+            "en": "Return to the center & coffee"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Radtour mit einem Stück Kärntner Reindling.",
+            "hu": "Jutalmazza meg magát a kerékpártúra után egy szelet karintiai kaláccsal (Reindling).",
+            "ro": "Recompensați-vă după turul cu bicicleta cu o felie de Kärntner Reindling.",
+            "en": "Reward yourself after the bike tour with a slice of Kärntner Reindling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern entdecken Sie Feldkirchen und seine Umgebung. Der Vormittag gehört dem historischen Stadtkern mit seinen Kirchen und dem Amthof-Museum. Gegen Mittag radeln Sie durch die sanfte Landschaft zum Schloss Dietrichstein und weiter zum Maltschacher See. Dort erwartet Sie ein Mittagessen mit Seeblick und Zeit zur Entspannung am Wasser. Die Rückfahrt am Nachmittag führt Sie zurück ins Zentrum, wo ein wohlverdienter Kaffee und Kuchen auf Sie wartet und den aktiven Tag perfekt abrundet.",
+        "hu": "Két keréken fedezi fel Feldkirchent és környékét. A délelőtt a történelmi városmagé, templomaival és az Amthof Múzeummal. Dél körül a szelíd tájon át a Dietrichstein-kastélyhoz, majd tovább a Maltschacher-tóhoz teker. Ott tóparti ebéd és vízparti pihenés várja. A délutáni visszaút a központba vezet, ahol egy jól megérdemelt kávé és sütemény zárja tökéletesen az aktív napot.",
+        "ro": "Descoperiți Feldkirchen și împrejurimile sale pe două roți. Dimineața este dedicată centrului istoric, cu bisericile și muzeul Amthof. Spre prânz, pedalați prin peisajul domol până la Castelul Dietrichstein și mai departe la Lacul Maltschacher. Acolo vă așteaptă un prânz cu vedere la lac și timp pentru relaxare pe malul apei. După-amiaza, drumul de întoarcere vă duce înapoi în centru, unde o cafea și o prăjitură binemeritată încheie perfect ziua activă.",
+        "en": "Discover Feldkirchen and its surroundings on two wheels. The morning belongs to the historic town center with its churches and the Amthof Museum. Around noon, you'll cycle through the gentle landscape to Dietrichstein Castle and on to Maltschacher See. A lakeside lunch and time to relax by the water await you there. The return trip in the afternoon takes you back to the center, where a well-deserved coffee and cake perfectly round off the active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seerestaurant am Maltschacher See",
+            "tip": "Genießen Sie frischen Fisch oder klassische Kärntner Küche mit wunderbarem Ausblick."
+          },
+          {
+            "name": "Buschenschank in der Nähe",
+            "tip": "Eine Radtour lässt sich perfekt mit einer Einkehr bei einem Heurigen für eine Brettljause verbinden."
+          },
+          {
+            "name": "Eisdiele am Hauptplatz",
+            "tip": "Eine kühle Belohnung nach der Rückkehr ins Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti étterem a Maltschacher-tónál",
+            "tip": "Élvezze a friss halat vagy a klasszikus karintiai konyhát csodálatos kilátással."
+          },
+          {
+            "name": "Borozó (Buschenschank) a közelben",
+            "tip": "Egy kerékpártúra tökéletesen összeköthető egy paraszttálas (Brettljause) pihenővel egy helyi borozóban."
+          },
+          {
+            "name": "Fagylaltozó a főtéren",
+            "tip": "Hűsítő jutalom a városközpontba való visszatérés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului Maltschacher See",
+            "tip": "Savurați pește proaspăt sau bucătărie carintiană clasică cu o priveliște minunată."
+          },
+          {
+            "name": "Tavernă locală (Buschenschank) în apropiere",
+            "tip": "Un tur cu bicicleta poate fi perfect combinat cu o oprire la o tavernă pentru un platou țărănesc (Brettljause)."
+          },
+          {
+            "name": "Înghețată în piața principală",
+            "tip": "O recompensă răcoritoare după întoarcerea în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside restaurant at Maltschacher See",
+            "tip": "Enjoy fresh fish or classic Carinthian cuisine with a wonderful view."
+          },
+          {
+            "name": "Local wine tavern (Buschenschank) nearby",
+            "tip": "A bike tour can be perfectly combined with a stop at a tavern for a snack platter (Brettljause)."
+          },
+          {
+            "name": "Ice cream parlor on the main square",
+            "tip": "A cool reward after returning to the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg am Maltschacher See",
+            "tip": "Ein ruhiger Spaziergang oder einfach nur auf einer Bank sitzen und auf den See blicken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von Dietrichstein",
+            "tip": "Auch wenn das Schloss privat ist, die Umgebung bietet schöne, ruhige Ausblicke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg entlang der Glan",
+            "tip": "Folgen Sie einem der Radwege aus der Stadt hinaus für eine friedliche Fahrt durch die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út a Maltschacher-tónál",
+            "tip": "Egy csendes séta vagy csak üljön le egy padra és nézze a tavat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás Dietrichsteinből",
+            "tip": "Bár a kastély magántulajdonban van, a környék szép, csendes kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Glan mentén",
+            "tip": "Kövesse az egyik kerékpárutat a városból kifelé egy békés, természetközeli útra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleea de pe malul lacului Maltschacher",
+            "tip": "O plimbare liniștită sau pur și simplu stați pe o bancă și priviți lacul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Dietrichstein",
+            "tip": "Chiar dacă castelul este privat, zona înconjurătoare oferă priveliști frumoase și liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului Glan",
+            "tip": "Urmați una dintre pistele de biciclete din afara orașului pentru o plimbare pașnică prin natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeshore path at Maltschacher See",
+            "tip": "A quiet walk or just sit on a bench and gaze at the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Dietrichstein",
+            "tip": "Even though the castle is private, the surrounding area offers beautiful, quiet views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the Glan river",
+            "tip": "Follow one of the bike paths out of the city for a peaceful ride through nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen in der Umgebung",
+            "tip": "Entlang der Radwege finden sich oft Hofläden mit selbstgemachten Produkten wie Honig oder Schnaps."
+          },
+          {
+            "name": "Sportgeschäft für Radzubehör",
+            "tip": "Falls Sie etwas für Ihre Tour benötigen, gibt es im Zentrum entsprechende Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői bolt a környéken",
+            "tip": "A kerékpárutak mentén gyakran találhatók termelői boltok házi készítésű termékekkel, mint például mézzel vagy pálinkával."
+          },
+          {
+            "name": "Sportbolt kerékpár-kiegészítőkért",
+            "tip": "Ha szüksége van valamire a túrához, a központban talál megfelelő üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă în zonă",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea magazine de fermă cu produse de casă, cum ar fi miere sau rachiu."
+          },
+          {
+            "name": "Magazin de sport pentru accesorii de biciclete",
+            "tip": "Dacă aveți nevoie de ceva pentru turul dvs., există magazine corespunzătoare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shop in the area",
+            "tip": "Along the bike paths, you'll often find farm shops with homemade products like honey or schnapps."
+          },
+          {
+            "name": "Sports shop for bike accessories",
+            "tip": "If you need anything for your tour, there are corresponding shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zum See.",
+          "Ein Helm wird dringend empfohlen.",
+          "Achten Sie auf die Beschilderung der Radwege, um auf der richtigen Route zu bleiben."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Vigyen magával elegendő vizet, különösen a tóhoz vezető útra.",
+          "A sisak viselése erősen ajánlott.",
+          "Figyeljen a kerékpárutak jelzéseire, hogy a helyes útvonalon maradjon."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni.",
+          "Luați suficientă apă, în special pentru drumul spre lac.",
+          "Purtarea căștii este foarte recomandată.",
+          "Fiți atenți la indicatoarele de pe pistele de biciclete pentru a rămâne pe traseul corect."
+        ],
+        "en": [
+          "Check the condition of your bike before you set off.",
+          "Take enough water with you, especially for the ride to the lake.",
+          "A helmet is strongly recommended.",
+          "Pay attention to the cycle path signs to stay on the right route."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 21.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Parken im Zentrum",
+            "hu": "Érkezés és parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrival & Parking in the Center"
+          },
+          "coords": [
+            14.0918,
+            46.72
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto auf einem der ausgewiesenen Parkplätze und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le autóját a kijelölt parkolók egyikében, és fedezze fel gyalog a központot.",
+            "ro": "Parcați mașina într-una dintre parcările desemnate și explorați centrul pe jos.",
+            "en": "Park your car in one of the designated parking lots and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Stadtpfarrkirche",
+            "hu": "Főtér és Plébániatemplom",
+            "ro": "Piața Centrală și Biserica Parohială",
+            "en": "Main Square & Parish Church"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am Hauptplatz und besuchen Sie die nahegelegene Wehrkirche Maria im Dorn.",
+            "hu": "Kezdje a sétát a főtéren, és látogasson el a közeli Maria im Dorn erődtemplomhoz.",
+            "ro": "Începeți plimbarea în Piața Centrală și vizitați biserica fortificată din apropiere, Maria im Dorn.",
+            "en": "Start your walk at the main square and visit the nearby fortified church of Maria im Dorn."
+          }
+        },
+        {
+          "name": {
+            "de": "Amthof & Museum",
+            "hu": "Amthof és Múzeum",
+            "ro": "Amthof și Muzeul",
+            "en": "Amthof & Museum"
+          },
+          "coords": [
+            14.09,
+            46.7225
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Hauptplatz bringt Sie zu diesem kulturellen Zentrum der Stadt.",
+            "hu": "Egy rövid séta a főtérről elvezeti Önt a város kulturális központjához.",
+            "ro": "O scurtă plimbare de la piața principală vă duce la acest centru cultural al orașului.",
+            "en": "A short walk from the main square takes you to this cultural center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Maltschacher See & Mittagessen",
+            "hu": "Utazás a Maltschacher-tóhoz és ebéd",
+            "ro": "Călătorie la Lacul Maltschacher și prânz",
+            "en": "Drive to Maltschacher See & Lunch"
+          },
+          "coords": [
+            14.12,
+            46.7
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für eine kurze Fahrt zum See und genießen Sie ein Mittagessen mit Aussicht.",
+            "hu": "Menjen autóval egy rövid útra a tóhoz, és élvezze az ebédet a kilátással.",
+            "ro": "Luați mașina pentru o scurtă călătorie până la lac și bucurați-vă de un prânz cu priveliște.",
+            "en": "Take the car for a short drive to the lake and enjoy lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am See & Schloss Dietrichstein",
+            "hu": "Séta a tónál és a Dietrichstein kastély",
+            "ro": "Plimbare pe lac și Castelul Dietrichstein",
+            "en": "Walk at the lake & Dietrichstein Castle"
+          },
+          "coords": [
+            14.115,
+            46.71
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie am See und machen Sie einen Spaziergang, der Sie auch in die Nähe von Schloss Dietrichstein führt.",
+            "hu": "Parkoljon a tónál, és tegyen egy sétát, amely a Dietrichstein-kastély közelébe is elvezet.",
+            "ro": "Parcați lângă lac și faceți o plimbare care vă duce și în apropierea Castelului Dietrichstein.",
+            "en": "Park at the lake and take a walk that also takes you near Dietrichstein Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Schloss Gradisch",
+            "hu": "Utazás a Gradisch kastélyhoz",
+            "ro": "Călătorie la Castelul Gradisch",
+            "en": "Drive to Gradisch Castle"
+          },
+          "coords": [
+            14.06,
+            46.74
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Eine etwas längere Fahrt zu diesem beeindruckenden Renaissanceschloss. Beachten Sie, dass es in Privatbesitz ist.",
+            "hu": "Egy kicsit hosszabb út ehhez a lenyűgöző reneszánsz kastélyhoz. Vegye figyelembe, hogy magántulajdonban van.",
+            "ro": "O călătorie puțin mai lungă până la acest impresionant castel renascentist. Rețineți că este proprietate privată.",
+            "en": "A slightly longer drive to this impressive Renaissance castle. Note that it is privately owned."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee & Kuchen vor der Abreise",
+            "hu": "Kávé és sütemény indulás előtt",
+            "ro": "Cafea și prăjitură înainte de plecare",
+            "en": "Coffee & Cake before departure"
+          },
+          "coords": [
+            14.0915,
+            46.721
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 85,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Kehren Sie für einen süßen Abschluss ins Zentrum zurück, bevor Sie die Heimreise antreten.",
+            "hu": "Térjen vissza a központba egy édes befejezésért, mielőtt hazaindulna.",
+            "ro": "Întoarceți-vă în centru pentru un final dulce înainte de a vă întoarce acasă.",
+            "en": "Return to the center for a sweet finish before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto sind Sie maximal flexibel. Parken Sie im Zentrum und entdecken Sie den historischen Kern von Feldkirchen zu Fuß. Am Vormittag stehen der Hauptplatz und das Amthof auf dem Programm. Mittags fahren Sie zum idyllischen Maltschacher See für ein Essen am Wasser und einen Spaziergang zum Schloss Dietrichstein. Der Nachmittag ist für einen Ausflug zum imposanten Schloss Gradisch reserviert. Bevor Sie die Heimreise antreten, genießen Sie noch Kaffee und Kuchen im Stadtzentrum.",
+        "hu": "Autóval maximálisan rugalmas lehet. Parkoljon a központban, és fedezze fel gyalog Feldkirchen történelmi magját. A délelőtt programja a főtér és az Amthof. Délben az idilli Maltschacher-tóhoz hajt, ahol vízparti ebéd és séta vár a Dietrichstein-kastélyhoz. A délután egy kirándulásé a lenyűgöző Gradisch-kastélyhoz. Mielőtt hazaindulna, még elfogyaszt egy kávét és süteményt a városközpontban.",
+        "ro": "Cu mașina, sunteți extrem de flexibil. Parcați în centru și explorați nucleul istoric al Feldkirchenului pe jos. Programul de dimineață include Piața Principală și Amthof. La prânz, conduceți spre idilicul Lac Maltschacher pentru o masă pe malul apei și o plimbare la Castelul Dietrichstein. După-amiaza este rezervată pentru o excursie la impunătorul Castel Gradisch. Înainte de a pleca spre casă, savurați o cafea și o prăjitură în centrul orașului.",
+        "en": "With a car, you have maximum flexibility. Park in the center and explore Feldkirchen's historic core on foot. The morning's agenda includes the main square and the Amthof. At noon, drive to the idyllic Maltschacher See for a waterside meal and a walk to Dietrichstein Castle. The afternoon is reserved for a trip to the imposing Gradisch Castle. Before heading home, enjoy coffee and cake back in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Leitgeb",
+            "tip": "Bekannt für seine ausgezeichnete traditionelle Kärntner Küche, ideal für das Mittagessen."
+          },
+          {
+            "name": "Seewirt am Maltschacher See",
+            "tip": "Perfekt für ein Mittagessen mit Fischspezialitäten und direktem Blick auf den See."
+          },
+          {
+            "name": "Konditorei für Kärntner Reindling",
+            "tip": "Suchen Sie eine lokale Bäckerei oder Konditorei, um diesen süßen Klassiker zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Leitgeb",
+            "tip": "Kiváló hagyományos karintiai konyhájáról ismert, ideális ebédre."
+          },
+          {
+            "name": "Seewirt a Maltschacher-tónál",
+            "tip": "Tökéletes egy halételekből álló ebédhez, közvetlen kilátással a tóra."
+          },
+          {
+            "name": "Cukrászda karintiai kalácsért (Reindling)",
+            "tip": "Keressen egy helyi pékséget vagy cukrászdát, hogy megkóstolja ezt az édes klasszikust."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Leitgeb",
+            "tip": "Renumit pentru excelenta sa bucătărie tradițională carintiană, ideal pentru prânz."
+          },
+          {
+            "name": "Seewirt la Maltschacher See",
+            "tip": "Perfect pentru un prânz cu specialități din pește și vedere directă la lac."
+          },
+          {
+            "name": "Cofetărie pentru Kärntner Reindling",
+            "tip": "Căutați o brutărie sau cofetărie locală pentru a încerca acest desert clasic dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Leitgeb",
+            "tip": "Known for its excellent traditional Carinthian cuisine, ideal for lunch."
+          },
+          {
+            "name": "Seewirt at Maltschacher See",
+            "tip": "Perfect for a lunch with fish specialties and a direct view of the lake."
+          },
+          {
+            "name": "Pastry shop for Kärntner Reindling",
+            "tip": "Look for a local bakery or pastry shop to try this sweet classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Gradisch",
+            "tip": "Auch wenn das Schloss privat ist, bietet die Umgebung Ruhe und eine herrschaftliche Atmosphäre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Versteckte Bucht am Maltschacher See",
+            "tip": "Suchen Sie sich einen ruhigen Platz am Ufer abseits des Hauptstrandes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang über den Nockbergen",
+            "tip": "Fahren Sie am Abend auf eine Anhöhe in der Nähe, um die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradisch kastélyparkja",
+            "tip": "Bár a kastély magántulajdon, a környék nyugalmat és úri légkört kínál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Rejtett öböl a Maltschacher-tónál",
+            "tip": "Keressen egy csendes helyet a parton a fő strandtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a Nockberge hegyei felett",
+            "tip": "Este hajtson fel egy közeli dombra, hogy élvezze a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Gradisch",
+            "tip": "Chiar dacă castelul este privat, zona înconjurătoare oferă liniște și o atmosferă impunătoare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Golf ascuns la Lacul Maltschacher",
+            "tip": "Găsiți un loc liniștit pe mal, departe de plaja principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare peste munții Nockberge",
+            "tip": "Seara, conduceți pe un deal din apropiere pentru a vă bucura de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradisch Castle Park",
+            "tip": "Even if the castle is private, the surroundings offer tranquility and a stately atmosphere.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hidden cove at Maltschacher See",
+            "tip": "Find a quiet spot on the shore away from the main beach.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset over the Nockberge mountains",
+            "tip": "In the evening, drive up a nearby hill to enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zirbenschnaps aus der Region",
+            "tip": "Ein typisches Souvenir aus Kärnten, erhältlich in vielen lokalen Geschäften oder Hofläden."
+          },
+          {
+            "name": "Getöpfertes aus der Umgebung",
+            "tip": "Halten Sie Ausschau nach kleinen Handwerksbetrieben, die lokale Keramik anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cirbolyafenyő-pálinka a régióból",
+            "tip": "Tipikus karintiai szuvenír, kapható sok helyi üzletben vagy termelői boltban."
+          },
+          {
+            "name": "Fazekas termékek a környékről",
+            "tip": "Keresse a kis kézműves műhelyeket, amelyek helyi kerámiát kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rachiu de pin (Zirbenschnaps) din regiune",
+            "tip": "Un suvenir tipic din Carintia, disponibil în multe magazine locale sau magazine de fermă."
+          },
+          {
+            "name": "Ceramică din zonă",
+            "tip": "Căutați mici ateliere de artizanat care oferă ceramică locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine schnapps from the region",
+            "tip": "A typical souvenir from Carinthia, available in many local shops or farm stores."
+          },
+          {
+            "name": "Pottery from the area",
+            "tip": "Look out for small craft workshops offering local ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren im Zentrum, oft gibt es Kurzparkzonen.",
+          "Ein Navigationsgerät ist für die Fahrt zu den Schlössern außerhalb hilfreich.",
+          "Die Straßen können eng sein, fahren Sie vorausschauend.",
+          "Verbinden Sie den Besuch der Schlösser mit einer kleinen Wanderung in der Umgebung."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a központban, gyakran vannak rövid idejű parkolási zónák.",
+          "A városon kívüli kastélyokhoz való eljutáshoz hasznos egy navigációs eszköz.",
+          "Az utak szűkek lehetnek, vezessen előrelátóan.",
+          "Kösse össze a kastélylátogatást egy kis túrával a környéken."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centru, adesea există zone de parcare pe termen scurt.",
+          "Un sistem de navigație este util pentru a ajunge la castelele din afara orașului.",
+          "Drumurile pot fi înguste, conduceți preventiv.",
+          "Combinați vizita la castele cu o scurtă drumeție în zonă."
+        ],
+        "en": [
+          "Pay attention to parking fees in the center; there are often short-term parking zones.",
+          "A navigation device is helpful for driving to the castles outside the town.",
+          "The roads can be narrow, so drive with foresight.",
+          "Combine your visit to the castles with a short hike in the surrounding area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Hauptplatz",
+            "hu": "Érkezés a buszpályaudvarra és Főtér",
+            "ro": "Sosire la autogară și Piața Centrală",
+            "en": "Arrival at Bus Station & Main Square"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof ist es nur ein kurzer Spaziergang zum Hauptplatz, dem Ausgangspunkt Ihrer Tour.",
+            "hu": "A buszpályaudvartól csak egy rövid séta a főtér, a túra kiindulópontja.",
+            "ro": "De la autogară este doar o scurtă plimbare până la Piața Principală, punctul de plecare al turului dumneavoastră.",
+            "en": "From the bus station, it's just a short walk to the main square, the starting point of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Amthof Museum",
+            "hu": "Plébániatemplom és Amthof Múzeum",
+            "ro": "Biserica Parohială și Muzeul Amthof",
+            "en": "Parish Church & Amthof Museum"
+          },
+          "coords": [
+            14.092,
+            46.722
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen nahe beieinander und können leicht zu Fuß erkundet werden.",
+            "hu": "Ez a két fontos látnivaló közel van egymáshoz, és könnyen felfedezhető gyalog.",
+            "ro": "Aceste două atracții importante sunt apropiate și pot fi explorate cu ușurință pe jos.",
+            "en": "These two important sights are close together and can be easily explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            14.0915,
+            46.721
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum See nehmen.",
+            "hu": "Fogyasszon el egy ebédet, mielőtt busszal a tóhoz indul.",
+            "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre lac.",
+            "en": "Enjoy a meal before taking the bus to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Maltschacher See",
+            "hu": "Buszozás a Maltschacher-tóhoz",
+            "ro": "Călătorie cu autobuzul la Lacul Maltschacher",
+            "en": "Bus ride to Maltschacher See"
+          },
+          "coords": [
+            14.12,
+            46.7
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum See. Informieren Sie sich vorab über den Fahrplan.",
+            "hu": "Menjen helyi busszal a tóhoz. Előtte tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz local spre lac. Verificați orarul în avans.",
+            "en": "Take a local bus to the lake. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Seeufer",
+            "hu": "Séta a tóparton",
+            "ro": "Plimbare pe malul lacului",
+            "en": "Walk along the lake shore"
+          },
+          "coords": [
+            14.122,
+            46.698
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und die schöne Landschaft am See.",
+            "hu": "Élvezze a friss levegőt és a tó gyönyörű táját.",
+            "ro": "Bucurați-vă de aerul proaspăt și de peisajul frumos de la lac.",
+            "en": "Enjoy the fresh air and the beautiful scenery at the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum und Ausklang",
+            "hu": "Visszaút a központba és levezetés",
+            "ro": "Întoarcere în centru și relaxare",
+            "en": "Return to the center and wind down"
+          },
+          "coords": [
+            14.0911,
+            46.7214
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück und lassen Sie den Tag in einem Café am Hauptplatz ausklingen.",
+            "hu": "Menjen vissza busszal, és zárja a napot egy kávézóban a főtéren.",
+            "ro": "Luați autobuzul înapoi și încheiați ziua la o cafenea din Piața Principală.",
+            "en": "Take the bus back and end the day at a café on the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Feldkirchen entspannt mit öffentlichen Verkehrsmitteln. Der Vormittag ist dem historischen Zentrum gewidmet, das Sie vom Busbahnhof aus leicht zu Fuß erreichen. Nach der Erkundung von Kirche und Museum und einem Mittagessen im Zentrum bringt Sie ein lokaler Bus zum idyllischen Maltschacher See. Genießen Sie den Nachmittag am Wasser, bevor Sie mit dem Bus zurück in die Stadt fahren, um den Tag bei einem gemütlichen Kaffee ausklingen zu lassen.",
+        "hu": "Fedezze fel Feldkirchent kényelmesen, tömegközlekedéssel. A délelőtt a történelmi központé, amelyet a buszpályaudvartól könnyen elérhet gyalog. A templom és a múzeum felfedezése, valamint egy központi ebéd után egy helyi busz viszi az idilli Maltschacher-tóhoz. Élvezze a délutánt a vízparton, mielőtt busszal visszatérne a városba, hogy egy kellemes kávéval zárja a napot.",
+        "ro": "Descoperiți Feldkirchen într-un mod relaxat cu transportul public. Dimineața este dedicată centrului istoric, pe care îl puteți accesa cu ușurință pe jos de la autogară. După explorarea bisericii și a muzeului și un prânz în centru, un autobuz local vă va duce la idilicul Lac Maltschacher. Bucurați-vă de după-amiaza pe malul apei înainte de a lua autobuzul înapoi în oraș pentru a încheia ziua cu o cafea plăcută.",
+        "en": "Discover Feldkirchen in a relaxed way using public transport. The morning is dedicated to the historic center, which you can easily reach on foot from the bus station. After exploring the church and museum and having lunch in the center, a local bus takes you to the idyllic Maltschacher See. Enjoy the afternoon by the water before taking the bus back to the city to end the day with a cozy coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei für eine Jause",
+            "tip": "Holen Sie sich eine belegte Semmel oder ein Stück Kuchen für die Busfahrt oder als Snack am See."
+          },
+          {
+            "name": "Traditioneller Gasthof",
+            "tip": "Probieren Sie vor der Busfahrt zum See eine herzhafte Kärntner Spezialität im Zentrum."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Der perfekte Ort, um auf den Bus zu warten oder den Tag ausklingen zu lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség egy uzsonnára",
+            "tip": "Vegyen egy szendvicset vagy egy szelet süteményt a buszútra vagy a tavi falatozáshoz."
+          },
+          {
+            "name": "Hagyományos vendéglő",
+            "tip": "Kóstoljon meg egy kiadós karintiai specialitást a központban, mielőtt busszal a tóhoz indul."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Tökéletes hely a buszra való várakozáshoz vagy a nap befejezéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie pentru o gustare",
+            "tip": "Luați un sandviș sau o felie de prăjitură pentru călătoria cu autobuzul sau ca gustare la lac."
+          },
+          {
+            "name": "Han tradițional",
+            "tip": "Încercați o specialitate carintiană consistentă în centru înainte de a lua autobuzul spre lac."
+          },
+          {
+            "name": "Cafenea în Piața Centrală",
+            "tip": "Locul perfect pentru a aștepta autobuzul sau pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery for a snack",
+            "tip": "Get a sandwich or a piece of cake for the bus ride or as a snack at the lake."
+          },
+          {
+            "name": "Traditional inn",
+            "tip": "Try a hearty Carinthian specialty in the center before taking the bus to the lake."
+          },
+          {
+            "name": "Café on the main square",
+            "tip": "The perfect place to wait for the bus or to end the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Bank am See",
+            "tip": "Finden Sie einen Platz etwas abseits der Haupt-Badestelle für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf der Fahrt zum See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Maria im Dorn",
+            "tip": "Der Bereich um die alte Wehrkirche ist oft ein Ort der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes pad a tónál",
+            "tip": "Találjon egy helyet a fő fürdőhelytől kicsit távolabb egy csendes pillanatra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze az elhaladó tájat a tó felé tartó úton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Maria im Dorn templomkertje",
+            "tip": "A régi erődtemplom környéke gyakran a nyugalom helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă liniștită la lac",
+            "tip": "Găsiți un loc puțin mai departe de zona principală de scăldat pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Bucurați-vă de peisajul care trece în timpul călătoriei spre lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Maria im Dorn",
+            "tip": "Zona din jurul vechii biserici fortificate este adesea un loc de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bench at the lake",
+            "tip": "Find a spot a little away from the main bathing area for a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Window seat on the bus",
+            "tip": "Enjoy the passing scenery on the ride to the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Churchyard of Maria im Dorn",
+            "tip": "The area around the old fortified church is often a place of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für eine Zeitung oder ein kleines Souvenir vor der Abfahrt."
+          },
+          {
+            "name": "Lokale Produkte am Wochenmarkt",
+            "tip": "Planen Sie Ihren Besuch an einem Markttag (oft Freitag), um lokale Köstlichkeiten zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Egy újságért vagy egy kis szuvenírért indulás előtt."
+          },
+          {
+            "name": "Helyi termékek a heti piacon",
+            "tip": "Tervezze a látogatását egy piaci napra (gyakran péntek), hogy helyi finomságokat vásárolhasson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru un ziar sau un mic suvenir înainte de plecare."
+          },
+          {
+            "name": "Produse locale la piața săptămânală",
+            "tip": "Planificați-vă vizita într-o zi de piață (adesea vinerea) pentru a cumpăra delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For a newspaper or a small souvenir before departure."
+          },
+          {
+            "name": "Local products at the weekly market",
+            "tip": "Plan your visit on a market day (often Friday) to buy local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über die genauen Abfahrtszeiten und Haltestellen, besonders für die Rückfahrt vom See.",
+          "Haben Sie etwas Kleingeld für Bustickets bereit.",
+          "Planen Sie Pufferzeiten ein, da Busse Verspätung haben können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Tájékozódjon a pontos indulási időkről és megállókról, különösen a tótól való visszautazáshoz.",
+          "Legyen Önnél némi aprópénz a buszjegyekhez.",
+          "Tervezzen be puffereidőt, mivel a buszok késhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Informați-vă despre orele exacte de plecare și stații, în special pentru călătoria de întoarcere de la lac.",
+          "Aveți la îndemână niște mărunțiș pentru biletele de autobuz.",
+          "Planificați timp suplimentar, deoarece autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Find out the exact departure times and stops, especially for the return trip from the lake.",
+          "Have some small change ready for bus tickets.",
+          "Plan for buffer times, as buses can be delayed."
+        ]
+      }
+    }
+  }
+}

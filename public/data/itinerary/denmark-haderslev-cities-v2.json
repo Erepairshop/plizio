@@ -1,0 +1,1236 @@
+{
+  "city_id": "denmark-haderslev-cities-v2",
+  "anchor": {
+    "name": "Haderslev",
+    "coords": [
+      9.48,
+      55.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Von Oberbergs Hus",
+            "hu": "Von Oberberg-ház",
+            "ro": "Casa Von Oberberg",
+            "en": "Von Oberberg's House"
+          },
+          "coords": [
+            9.488,
+            55.25
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reich verzierte Fassade, ein Meisterwerk der Renaissance-Architektur.",
+            "hu": "Csodálja meg a gazdagon díszített homlokzatot, a reneszánsz építészet remekművét.",
+            "ro": "Admirați fațada bogat ornamentată, o capodoperă a arhitecturii renascentiste.",
+            "en": "Admire the richly decorated facade, a masterpiece of Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Domkirke",
+            "hu": "Haderslevi székesegyház",
+            "ro": "Catedrala Haderslev",
+            "en": "Haderslev Cathedral"
+          },
+          "coords": [
+            9.489,
+            55.251
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für einen atemberaubenden Blick über die Stadt und den Fjord.",
+            "hu": "Másszon fel a toronyba, ahonnan lélegzetelállító kilátás nyílik a városra és a fjordra.",
+            "ro": "Urcați în turn pentru o priveliște uluitoare asupra orașului și a fiordului.",
+            "en": "Climb the tower for a breathtaking view over the city and the fjord."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehlers Samlingen",
+            "hu": "Ehlers Gyűjtemény",
+            "ro": "Colecția Ehlers",
+            "en": "The Ehlers Collection"
+          },
+          "coords": [
+            9.487,
+            55.252
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die beeindruckende Sammlung nordschleswigscher Keramik und Töpferwaren.",
+            "hu": "Fókuszáljon az észak-schleswigi kerámiák és cserépáruk lenyűgöző gyűjteményére.",
+            "ro": "Concentrați-vă pe colecția impresionantă de ceramică și olărit din Schleswigul de Nord.",
+            "en": "Focus on the impressive collection of North Schleswig ceramics and pottery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hertug Hans Kirke",
+            "hu": "Hertug Hans templom",
+            "ro": "Biserica Hertug Hans",
+            "en": "Hertug Hans Church"
+          },
+          "coords": [
+            9.495,
+            55.248
+          ],
+          "category": "churches",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem einzigartigen Krankenhausflügel, der mit der Kirche verbunden ist.",
+            "hu": "Keresse a templomhoz kapcsolódó egyedülálló kórházi szárnyat.",
+            "ro": "Căutați aripa unică a spitalului conectată la biserică.",
+            "en": "Look for the unique hospital wing connected to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Dampark",
+            "hu": "Haderslev Dampark",
+            "ro": "Parcul Haderslev Dampark",
+            "en": "Haderslev Dampark"
+          },
+          "coords": [
+            9.485,
+            55.255
+          ],
+          "category": "parks",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot, um den Park vom Wasser aus zu erleben.",
+            "hu": "Béreljen vízibiciklit, hogy a vízről is megtapasztalja a parkot.",
+            "ro": "Închiriați o barcă cu pedale pentru a experimenta parcul de pe apă.",
+            "en": "Rent a paddleboat to experience the park from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kløften",
+            "hu": "Kløften Park",
+            "ro": "Parcul Kløften",
+            "en": "Kløften Park"
+          },
+          "coords": [
+            9.48,
+            55.247
+          ],
+          "category": "parks",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender für mögliche Open-Air-Konzerte im Sommer.",
+            "hu": "Nézze meg a programnaptárt az esetleges nyári szabadtéri koncertekért.",
+            "ro": "Verificați calendarul de evenimente pentru posibile concerte în aer liber vara.",
+            "en": "Check the event calendar for possible open-air concerts in the summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Haderslev, wo die Renaissance-Architektur und die gotische Kathedrale die Geschichte der Stadt erzählen. Schlendern Sie durch die kopfsteingepflasterten Gassen und entdecken Sie die reiche Vergangenheit. Am Mittag tauchen Sie im Ehlers Samlingen in die lokale Kunst und das Handwerk ein, bevor Sie eine kurze Pause in der ruhigen Atmosphäre der Hertug Hans Kirche einlegen. Der Nachmittag ist der Natur gewidmet. Entspannen Sie sich im Haderslev Dampark, genießen Sie die Seebrise und die üppige Umgebung. Beenden Sie Ihren Tag mit einem Spaziergang durch den Kløften Park, ein perfekter Ort, um die Eindrücke des Tages zu verarbeiten, bevor Sie sich zum Abendessen in die Innenstadt begeben.",
+        "hu": "Kezdje a napot Haderslev történelmi szívében, ahol a reneszánsz építészet és a gótikus katedrális mesél a város múltjáról. Sétáljon a macskaköves utcákon. Délben merüljön el a helyi művészetben az Ehlers Gyűjteményben, mielőtt egy rövid szünetet tartana a Hertug Hans templom csendes légkörében. A délután a természeté. Pihenjen a Haderslev Damparkban, élvezze a tavi szellőt. A napot a Kløften Parkban tett sétával zárja, amely tökéletes hely a napi benyomások feldolgozására, mielőtt a belváros felé veszi az irányt vacsorára.",
+        "ro": "Începeți ziua în inima istorică a orașului Haderslev, unde arhitectura renascentistă și catedrala gotică spun povestea orașului. Plimbați-vă pe străduțele pietruite. La prânz, aprofundați arta locală la Colecția Ehlers, înainte de o scurtă pauză în atmosfera liniștită a Bisericii Hertug Hans. După-amiaza este dedicată naturii. Relaxați-vă în Haderslev Dampark, bucurându-vă de briza lacului. Încheiați ziua cu o plimbare prin Parcul Kløften, un loc perfect pentru a reflecta la impresiile zilei înainte de a vă îndrepta spre centrul orașului pentru cină.",
+        "en": "Start your day in the historic heart of Haderslev, where Renaissance architecture and the Gothic cathedral tell the city's story. Stroll through the cobbled streets. At noon, delve into local arts at The Ehlers Collection before a brief pause in the quiet atmosphere of Hertug Hans Church. The afternoon is dedicated to nature. Relax in Haderslev Dampark, enjoying the lake breeze. End your day with a walk through Kløften Park, a perfect spot to reflect on the day's impressions before heading downtown for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ras2ranten",
+            "tip": "Moderne dänische Küche mit Schwerpunkt auf lokalen Zutaten. Probieren Sie das 'Stjerneskud'."
+          },
+          {
+            "name": "Restaurant Damende",
+            "tip": "Klassische Gerichte mit schöner Aussicht auf den Park. Ideal für ein entspanntes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ras2ranten",
+            "tip": "Modern dán konyha helyi alapanyagokra összpontosítva. Kóstolja meg a 'Stjerneskud'-ot."
+          },
+          {
+            "name": "Restaurant Damende",
+            "tip": "Klasszikus ételek, gyönyörű kilátással a parkra. Ideális egy nyugodt ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ras2ranten",
+            "tip": "Bucătărie daneză modernă cu accent pe ingrediente locale. Încercați 'Stjerneskud'."
+          },
+          {
+            "name": "Restaurant Damende",
+            "tip": "Mâncăruri clasice cu o priveliște frumoasă asupra parcului. Ideal pentru un prânz relaxat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ras2ranten",
+            "tip": "Modern Danish cuisine focusing on local ingredients. Try the 'Stjerneskud'."
+          },
+          {
+            "name": "Restaurant Damende",
+            "tip": "Classic dishes with a beautiful view of the park. Ideal for a relaxed lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Haderslev Dam",
+            "tip": "Finden Sie eine ruhige Bank entlang des Sees im Dampark und beobachten Sie die Schwäne.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der Domkirke",
+            "tip": "Ein überraschend friedlicher und historischer Ort direkt im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Haderslev Dam partja",
+            "tip": "Találjon egy csendes padot a tó mentén a Damparkban, és nézze a hattyúkat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Domkirke temetője",
+            "tip": "Meglepően békés és történelmi hely a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Haderslev Dam",
+            "tip": "Găsiți o bancă liniștită de-a lungul lacului în Dampark și priviți lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de la Domkirke",
+            "tip": "Un loc surprinzător de pașnic și istoric chiar în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Haderslev Dam",
+            "tip": "Find a quiet bench along the lake in Dampark and watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domkirke Graveyard",
+            "tip": "A surprisingly peaceful and historic spot right in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gravene Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus dänischen Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gravene utca",
+            "tip": "A fő bevásárlóutca dán márkák és helyi butikok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Gravene",
+            "tip": "Principala stradă comercială cu un amestec de mărci daneze și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gravene Street",
+            "tip": "The main shopping street with a mix of Danish brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Cafés bieten 'Hygge' und sind perfekt für eine Kaffeepause.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da sie für Gottesdienste geschlossen sein können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok kávézó kínál 'hygge' hangulatot, és tökéletes egy kávészünetre.",
+          "Ellenőrizze a templomok nyitvatartását, mivel istentiszteletek idején zárva lehetnek."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul vechi are piatră cubică.",
+          "Multe cafenele oferă 'hygge' și sunt perfecte pentru o pauză de cafea.",
+          "Verificați orele de deschidere ale bisericilor, deoarece pot fi închise pentru slujbe."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones.",
+          "Many cafes offer 'hygge' and are perfect for a coffee break.",
+          "Check the opening hours of the churches, as they may be closed for services."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haderslev Domkirke",
+            "hu": "Haderslevi székesegyház",
+            "ro": "Catedrala Haderslev",
+            "en": "Haderslev Cathedral"
+          },
+          "coords": [
+            9.489,
+            55.251
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie auf den Turm steigen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felmenne a toronyba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a urca în turn.",
+            "en": "Lock your bike securely before climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Streetdome",
+            "hu": "Streetdome",
+            "ro": "Streetdome",
+            "en": "Streetdome"
+          },
+          "coords": [
+            9.498,
+            55.245
+          ],
+          "category": "parks",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht skaten, ist die Architektur beeindruckend und es ist ein großartiger Ort, um die lokale Jugendkultur zu beobachten.",
+            "hu": "Még ha nem is gördeszkázik, az építészet lenyűgöző, és remek hely a helyi ifjúsági kultúra megfigyelésére.",
+            "ro": "Chiar dacă nu faceți skate, arhitectura este impresionantă și este un loc minunat pentru a observa cultura locală a tinerilor.",
+            "en": "Even if you don't skate, the architecture is impressive and it's a great place to watch the local youth culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hertug Hans Kirke",
+            "hu": "Hertug Hans templom",
+            "ro": "Biserica Hertug Hans",
+            "en": "Hertug Hans Church"
+          },
+          "coords": [
+            9.495,
+            55.248
+          ],
+          "category": "churches",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus gotischen und barocken Elementen im Inneren.",
+            "hu": "Figyelje meg a gótikus és barokk elemek keveredését a belső térben.",
+            "ro": "Observați amestecul de elemente gotice și baroce în interior.",
+            "en": "Note the mix of Gothic and Baroque elements inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Dampark",
+            "hu": "Haderslev Dampark",
+            "ro": "Parcul Haderslev Dampark",
+            "en": "Haderslev Dampark"
+          },
+          "coords": [
+            9.485,
+            55.255
+          ],
+          "category": "parks",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick-Mittagessen. Es gibt viele Bänke mit schöner Aussicht.",
+            "hu": "Tökéletes hely egy piknikebédhez. Sok pad található gyönyörű kilátással.",
+            "ro": "Locul perfect pentru un prânz la picnic. Există multe bănci cu vederi frumoase.",
+            "en": "Perfect spot for a picnic lunch. There are plenty of benches with nice views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehlers Samlingen",
+            "hu": "Ehlers Gyűjtemény",
+            "ro": "Colecția Ehlers",
+            "en": "The Ehlers Collection"
+          },
+          "coords": [
+            9.487,
+            55.252
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fragen Sie nach den Geschichten hinter einigen der einzigartigen Töpferstücke.",
+            "hu": "Kérdezzen rá néhány egyedi kerámiadarab mögött rejlő történetekre.",
+            "ro": "Întrebați despre poveștile din spatele unora dintre piesele unice de ceramică.",
+            "en": "Ask about the stories behind some of the unique pottery pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Dyrehave",
+            "hu": "Haderslevi Vadaspark",
+            "ro": "Parcul de căprioare Haderslev",
+            "en": "Haderslev Deer Park"
+          },
+          "coords": [
+            9.52,
+            55.26
+          ],
+          "category": "parks",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und halten Sie Ausschau nach den Herden von Dam- und Rothirschen. Seien Sie respektvoll und halten Sie Abstand.",
+            "hu": "Tekerjen lassan, és figyelje a dám- és gímszarvascsordákat. Legyen tisztelettudó, és tartson távolságot.",
+            "ro": "Mergeți încet cu bicicleta și fiți atenți la turmele de cerbi lopătari și cerbi roșii. Fiți respectuos și păstrați distanța.",
+            "en": "Cycle slowly and keep an eye out for the herds of fallow and red deer. Be respectful and keep your distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag mit einem kulturellen Höhepunkt an der Domkirke. Radeln Sie dann zum modernen Streetdome, um die urbane Seite von Haderslev zu sehen. Mittags führt Sie Ihr Weg entlang des Wassers zum Dampark, ideal für eine ausgedehnte Pause und ein Picknick im Grünen. Gestärkt erkunden Sie das künstlerische Erbe der Stadt im Ehlers Samlingen. Der krönende Abschluss des Nachmittags ist eine längere Radtour zum Dyrehave, wo Sie die majestätischen Hirsche in ihrer natürlichen Umgebung beobachten können. Kehren Sie am späten Nachmittag in die Stadt zurück.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot egy kulturális csúcsponttal a Domkirke-nél. Ezután tekerjen el a modern Streetdome-hoz, hogy megismerje Haderslev városi oldalát. Délben az útja a víz mentén a Damparkba vezet, amely ideális egy hosszabb szünetre. Megerősödve fedezze fel a város művészeti örökségét az Ehlers Gyűjteményben. A délután fénypontja egy hosszabb kerékpártúra a Dyrehave-be, ahol megfigyelheti a fenséges szarvasokat. Késő délután térjen vissza a városba.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu un punct culminant cultural la Domkirke. Apoi, pedalați spre modernul Streetdome pentru a vedea latura urbană a orașului Haderslev. La prânz, drumul vă duce de-a lungul apei spre Dampark, ideal pentru o pauză prelungită. Revigorat, explorați moștenirea artistică a orașului la Colecția Ehlers. Punctul culminant al după-amiezii este o plimbare mai lungă cu bicicleta la Dyrehave, unde puteți observa cerbii maiestuoși. Întoarceți-vă în oraș după-amiaza târziu.",
+        "en": "Hop on your bike and start the day with a cultural highlight at the Domkirke. Then, cycle to the modern Streetdome to see Haderslev's urban side. At noon, your path takes you along the water to Dampark, ideal for an extended break. Refreshed, explore the city's artistic heritage at The Ehlers Collection. The highlight of the afternoon is a longer bike ride to Dyrehave, where you can observe the majestic deer. Return to the city in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café Kridt",
+            "tip": "Gemütliches Café mit großartigem Kaffee und leichten Mittagessen. Perfekt für einen schnellen Stopp."
+          },
+          {
+            "name": "Slagter Worth",
+            "tip": "Kein Restaurant, aber holen Sie sich hier ein traditionelles dänisches Smørrebrød zum Mitnehmen für Ihr Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café Kridt",
+            "tip": "Hangulatos kávézó remek kávéval és könnyű ebédekkel. Tökéletes egy gyors megállóhoz."
+          },
+          {
+            "name": "Slagter Worth",
+            "tip": "Nem étterem, de itt szerezhet be egy hagyományos dán Smørrebrødet a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Kridt",
+            "tip": "Cafenea primitoare cu cafea excelentă și prânzuri ușoare. Perfectă pentru o oprire rapidă."
+          },
+          {
+            "name": "Slagter Worth",
+            "tip": "Nu este un restaurant, dar luați de aici un Smørrebrød tradițional danez la pachet pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café Kridt",
+            "tip": "Cozy cafe with great coffee and light lunches. Perfect for a quick stop."
+          },
+          {
+            "name": "Slagter Worth",
+            "tip": "Not a restaurant, but pick up a traditional Danish Smørrebrød to-go here for your picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Haderslev Dyrehave",
+            "tip": "Finden Sie einen abgelegenen Weg und genießen Sie die Stille, nur unterbrochen von den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ufer des Haderslev Dam",
+            "tip": "Ein ruhiger Ort, um die Boote auf dem Wasser zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haderslevi Vadaspark",
+            "tip": "Találjon egy eldugott ösvényt, és élvezze a csendet, amelyet csak a természet hangjai törnek meg.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Haderslev Dam partján",
+            "tip": "Egy csendes hely a vízen lévő csónakok megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de căprioare Haderslev",
+            "tip": "Găsiți o potecă retrasă și bucurați-vă de liniște, întreruptă doar de sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pe malul lacului Haderslev Dam",
+            "tip": "Un loc liniștit pentru a privi bărcile pe apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Haderslev Deer Park",
+            "tip": "Find a secluded path and enjoy the silence, broken only by the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "On the shore of Haderslev Dam",
+            "tip": "A quiet spot to watch the boats on the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torvet (Marktplatz)",
+            "tip": "An Markttagen können Sie lokale Produkte und Kunsthandwerk finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torvet (Piactér)",
+            "tip": "Piacnapokon helyi termékeket és kézműves árukat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torvet (Piața)",
+            "tip": "În zilele de piață, puteți găsi produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torvet (Market Square)",
+            "tip": "On market days, you can find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leihen Sie ein Fahrrad mit Gängen, da es einige leichte Steigungen gibt.",
+          "Nehmen Sie eine Wasserflasche und Snacks mit, besonders für die Fahrt zum Dyrehave.",
+          "Viele Radwege sind gut ausgebaut und vom Autoverkehr getrennt."
+        ],
+        "hu": [
+          "Béreljen sebességváltós kerékpárt, mivel vannak enyhe emelkedők.",
+          "Vigyen magával vizes palackot és rágcsálnivalót, különösen a Dyrehave-be vezető útra.",
+          "Sok kerékpárút jól kiépített és el van választva az autóforgalomtól."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece există câteva pante ușoare.",
+          "Luați o sticlă de apă și gustări, mai ales pentru drumul spre Dyrehave.",
+          "Multe piste de biciclete sunt bine dezvoltate și separate de traficul auto."
+        ],
+        "en": [
+          "Rent a bike with gears, as there are some gentle slopes.",
+          "Bring a water bottle and snacks, especially for the ride to Dyrehave.",
+          "Many cycle paths are well-maintained and separate from car traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haderslev Dyrehave",
+            "hu": "Haderslevi Vadaspark",
+            "ro": "Parcul de căprioare Haderslev",
+            "en": "Haderslev Deer Park"
+          },
+          "coords": [
+            9.52,
+            55.26
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz und erkunden Sie die Wanderwege. Die frühen Morgenstunden sind die beste Zeit, um die Hirsche zu sehen.",
+            "hu": "Hajtson a fő parkolóhoz, és fedezze fel a túraútvonalakat. A kora reggeli órák a legjobbak a szarvasok megpillantására.",
+            "ro": "Conduceți până la parcarea principală și explorați traseele de drumeție. Dimineața devreme este cel mai bun moment pentru a vedea cerbii.",
+            "en": "Drive to the main parking lot and explore the walking trails. Early morning is the best time to see the deer."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Domkirke",
+            "hu": "Haderslevi székesegyház",
+            "ro": "Catedrala Haderslev",
+            "en": "Haderslev Cathedral"
+          },
+          "coords": [
+            9.489,
+            55.251
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der ausgewiesenen Parkplätze in der Innenstadt und gehen Sie zu Fuß zur Kathedrale.",
+            "hu": "Parkoljon a belváros egyik kijelölt parkolójában, és sétáljon el a katedrálishoz.",
+            "ro": "Parcați într-una dintre parcările desemnate din centrul orașului și mergeți pe jos până la catedrală.",
+            "en": "Park in one of the designated city center car parks and walk to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Von Oberbergs Hus",
+            "hu": "Von Oberberg-ház",
+            "ro": "Casa Von Oberberg",
+            "en": "Von Oberberg's House"
+          },
+          "coords": [
+            9.488,
+            55.25
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dies ist ein kurzer Spaziergang von der Kathedrale entfernt. Perfekt für ein Foto.",
+            "hu": "Ez egy rövid séta a katedrálistól. Tökéletes egy fotóhoz.",
+            "ro": "Aceasta este la o scurtă plimbare de catedrală. Perfect pentru o fotografie.",
+            "en": "This is a short walk from the cathedral. Perfect for a photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehlers Samlingen",
+            "hu": "Ehlers Gyűjtemény",
+            "ro": "Colecția Ehlers",
+            "en": "The Ehlers Collection"
+          },
+          "coords": [
+            9.487,
+            55.252
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause, da es in der Nähe viele Cafés gibt.",
+            "hu": "Tervezze ide az ebédszünetét, mivel a közelben sok kávézó található.",
+            "ro": "Planificați-vă pauza de prânz aici, deoarece există multe cafenele în apropiere.",
+            "en": "Plan your lunch break around this stop, as there are many cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Streetdome",
+            "hu": "Streetdome",
+            "ro": "Streetdome",
+            "en": "Streetdome"
+          },
+          "coords": [
+            9.498,
+            55.245
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze direkt an der Anlage. Ein großartiger Kontrast zur Altstadt.",
+            "hu": "A létesítménynél közvetlenül van parkoló. Nagyszerű kontraszt az óvároshoz képest.",
+            "ro": "Există parcare chiar la facilitate. Un contrast excelent cu orașul vechi.",
+            "en": "There is parking available right at the facility. A great contrast to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kløften",
+            "hu": "Kløften Park",
+            "ro": "Parcul Kløften",
+            "en": "Kløften Park"
+          },
+          "coords": [
+            9.48,
+            55.247
+          ],
+          "category": "parks",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto am Streetdome stehen und machen Sie einen Spaziergang durch diesen angrenzenden Park.",
+            "hu": "Hagyja az autóját a Streetdome-nál, és tegyen egy sétát ebben a szomszédos parkban.",
+            "ro": "Lăsați mașina la Streetdome și faceți o plimbare prin acest parc adiacent.",
+            "en": "Leave your car at the Streetdome and take a walk through this adjacent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Dampark",
+            "hu": "Haderslev Dampark",
+            "ro": "Parcul Haderslev Dampark",
+            "en": "Haderslev Dampark"
+          },
+          "coords": [
+            9.485,
+            55.255
+          ],
+          "category": "parks",
+          "arrive_at": "16:40",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages. Genießen Sie die Rosenbeete und die Aussicht auf den See.",
+            "hu": "A nap pihentető lezárása. Élvezze a rózsakertet és a tóra nyíló kilátást.",
+            "ro": "Un final relaxant al zilei. Bucurați-vă de straturile de trandafiri și de priveliștea lacului.",
+            "en": "A relaxing end to the day. Enjoy the rose gardens and the lake view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer Fahrt zum Haderslev Dyrehave, um die ruhige Morgenatmosphäre und die Tierwelt zu genießen. Anschließend fahren Sie ins Stadtzentrum (Cluster A), parken Ihr Auto und erkunden zu Fuß das historische Herz: die majestätische Domkirke, das charmante Von Oberbergs Hus und die Kunst im Ehlers Samlingen. Nach dem Mittagessen fahren Sie zum südlichen Teil der Stadt (Cluster B). Parken Sie am Streetdome und erleben Sie die moderne Architektur, bevor Sie einen Spaziergang durch die benachbarten Parks Kløften und Dampark machen und den Tag inmitten von Grün und Wasser ausklingen lassen.",
+        "hu": "Kezdje a napot egy autózással a Haderslevi Vadasparkba, hogy élvezze a csendes reggeli hangulatot és a vadvilágot. Ezután hajtson a városközpontba (A klaszter), parkolja le az autót, és fedezze fel gyalog a történelmi szívet: a fenséges Domkirke-t, a bájos Von Oberberg-házat és a művészetet az Ehlers Gyűjteményben. Ebéd után irány a város déli része (B klaszter). Parkoljon a Streetdome-nál, és tapasztalja meg a modern építészetet, mielőtt sétát tesz a szomszédos Kløften és Dampark parkokban, hogy a napot zöldben és vízparton zárja.",
+        "ro": "Începeți ziua cu o plimbare cu mașina până la Parcul de căprioare Haderslev pentru a vă bucura de atmosfera liniștită de dimineață și de fauna sălbatică. Apoi, conduceți spre centrul orașului (Cluster A), parcați mașina și explorați pe jos inima istorică: maiestuoasa Domkirke, fermecătoarea Casă Von Oberberg și arta de la Colecția Ehlers. După prânz, mergeți spre partea de sud a orașului (Cluster B). Parcați la Streetdome și experimentați arhitectura modernă înainte de a face o plimbare prin parcurile adiacente Kløften și Dampark pentru a încheia ziua înconjurat de verdeață și apă.",
+        "en": "Start your day with a drive to Haderslev Deer Park to enjoy the quiet morning atmosphere and wildlife. Then, drive to the city center (Cluster A), park your car, and explore the historic heart on foot: the majestic Domkirke, the charming Von Oberberg's House, and the art at The Ehlers Collection. After lunch, head to the southern part of the city (Cluster B). Park at the Streetdome and experience the modern architecture before taking a walk through the adjacent Kløften and Dampark parks to end the day surrounded by greenery and water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mando's",
+            "tip": "Ein klassisches Steakhouse, gut für ein herzhaftes Abendessen nach einem langen Tag."
+          },
+          {
+            "name": "Det Lille Sted",
+            "tip": "Ein charmantes, kleines Lokal, das für seine gemütliche Atmosphäre und seine einfachen, aber leckeren Gerichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mando's",
+            "tip": "Klasszikus steakhouse, jó egy kiadós vacsorához egy hosszú nap után."
+          },
+          {
+            "name": "Det Lille Sted",
+            "tip": "Bájos, kis hely, amely hangulatos légköréről és egyszerű, de ízletes ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mando's",
+            "tip": "O friptură clasică, bună pentru o cină copioasă după o zi lungă."
+          },
+          {
+            "name": "Det Lille Sted",
+            "tip": "Un loc mic și fermecător, cunoscut pentru atmosfera sa confortabilă și mâncărurile simple, dar delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mando's",
+            "tip": "A classic steakhouse, good for a hearty dinner after a long day."
+          },
+          {
+            "name": "Det Lille Sted",
+            "tip": "A charming little place known for its cozy atmosphere and simple but tasty dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt im Dyrehave",
+            "tip": "Suchen Sie einen der Hügel für einen Panoramablick über den Wald.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gassen hinter der Domkirke",
+            "tip": "Verlieren Sie sich in den ruhigen, weniger begangenen Gassen der Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Dyrehave-ben",
+            "tip": "Keressen egy dombot a panorámás kilátásért az erdőre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Domkirke mögötti sikátorok",
+            "tip": "Vesszen el az óváros csendes, kevésbé járt sikátoraiban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere în Dyrehave",
+            "tip": "Găsiți unul dintre dealuri pentru o vedere panoramică asupra pădurii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele din spatele Domkirke",
+            "tip": "Pierdeți-vă pe străduțele liniștite și mai puțin umblate ale orașului vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint in Dyrehave",
+            "tip": "Find one of the hills for a panoramic view over the forest.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The alleys behind Domkirke",
+            "tip": "Get lost in the quiet, less-trodden alleys of the old town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gågade (Fußgängerzone)",
+            "tip": "Hier finden Sie alles von lokalen Spezialitäten bis hin zu dänischem Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gågade (sétálóutca)",
+            "tip": "Itt mindent megtalál a helyi specialitásoktól a dán dizájnig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gågade (zona pietonală)",
+            "tip": "Aici veți găsi de toate, de la specialități locale la design danez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gågade (pedestrian street)",
+            "tip": "Here you'll find everything from local specialties to Danish design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Dänemark gibt es viele Parkscheiben-Zonen ('P-skive'), stellen Sie sicher, dass Sie eine haben.",
+          "Beachten Sie, dass das Parken im Stadtzentrum gebührenpflichtig sein kann.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Stoßzeiten, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "Dániában sok a parkolótárcsás zóna ('P-skive'), győződjön meg róla, hogy van egy.",
+          "Vegye figyelembe, hogy a belvárosi parkolás díjköteles lehet.",
+          "Tervezze az utazásokat a klaszterek között a csúcsidőn kívülre a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Există multe zone de parcare cu disc ('P-skive') în Danemarca, asigurați-vă că aveți unul.",
+          "Rețineți că parcarea în centrul orașului poate fi contra cost.",
+          "Planificați-vă călătoriile între clustere în afara orelor de vârf pentru a evita traficul."
+        ],
+        "en": [
+          "There are many parking disc zones ('P-skive') in Denmark, make sure you have one.",
+          "Be aware that parking in the city center can be paid.",
+          "Plan your drives between clusters outside of rush hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haderslev Domkirke",
+            "hu": "Haderslevi székesegyház",
+            "ro": "Catedrala Haderslev",
+            "en": "Haderslev Cathedral"
+          },
+          "coords": [
+            9.489,
+            55.251
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe. Ein idealer Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat a közelben áll meg. Ideális kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Un punct de plecare ideal.",
+            "en": "Most bus lines stop nearby. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Von Oberbergs Hus",
+            "hu": "Von Oberberg-ház",
+            "ro": "Casa Von Oberberg",
+            "en": "Von Oberberg's House"
+          },
+          "coords": [
+            9.488,
+            55.25
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt von der Kathedrale aus.",
+            "hu": "Rövid séta az óvárosban a katedrálistól.",
+            "ro": "O scurtă plimbare prin orașul vechi de la catedrală.",
+            "en": "A short walk through the old town from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehlers Samlingen",
+            "hu": "Ehlers Gyűjtemény",
+            "ro": "Colecția Ehlers",
+            "en": "The Ehlers Collection"
+          },
+          "coords": [
+            9.487,
+            55.252
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Gelegenheit für eine Mittagspause in diesem zentralen Bereich.",
+            "hu": "Használja ki az alkalmat egy ebédszünetre ezen a központi területen.",
+            "ro": "Profitați de ocazie pentru o pauză de prânz în această zonă centrală.",
+            "en": "Take the opportunity for a lunch break in this central area."
+          }
+        },
+        {
+          "name": {
+            "de": "Streetdome",
+            "hu": "Streetdome",
+            "ro": "Streetdome",
+            "en": "Streetdome"
+          },
+          "coords": [
+            9.498,
+            55.245
+          ],
+          "category": "parks",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Hafen. Die Haltestelle ist nur wenige Gehminuten entfernt.",
+            "hu": "Vegyen buszt a kikötő felé. A megálló csak néhány perc sétára van.",
+            "ro": "Luați un autobuz spre port. Stația este la doar câteva minute de mers pe jos.",
+            "en": "Take a bus towards the harbor. The stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Haderslev Dampark",
+            "hu": "Haderslev Dampark",
+            "ro": "Parcul Haderslev Dampark",
+            "en": "Haderslev Dampark"
+          },
+          "coords": [
+            9.485,
+            55.255
+          ],
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einige Buslinien fahren vom Hafengebiet zurück in Richtung Zentrum und halten in der Nähe des Parks.",
+            "hu": "Néhány buszjárat a kikötő területéről vissza a központ felé közlekedik, és a park közelében áll meg.",
+            "ro": "Unele linii de autobuz merg din zona portului înapoi spre centru, oprind lângă parc.",
+            "en": "Some bus lines run from the harbor area back towards the center, stopping near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kløften",
+            "hu": "Kløften Park",
+            "ro": "Parcul Kløften",
+            "en": "Kløften Park"
+          },
+          "coords": [
+            9.48,
+            55.247
+          ],
+          "category": "parks",
+          "arrive_at": "15:45",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Dampark durch Wohngebiete führt Sie direkt hierher.",
+            "hu": "Egy kellemes séta a Damparktól lakónegyedeken keresztül egyenesen ide vezet.",
+            "ro": "O plimbare plăcută de la Dampark prin zone rezidențiale vă va aduce direct aici.",
+            "en": "A pleasant walk from Dampark through residential areas will lead you right here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Cluster A, dem historischen Zentrum, das leicht zu Fuß erreichbar ist. Besuchen Sie die Domkirke und die umliegenden historischen Gebäude. Nach dem Mittagessen nehmen Sie einen Bus zum Cluster B am Hafen, um das moderne Streetdome zu sehen. Von dort aus bringt Sie ein weiterer Bus oder ein kurzer Spaziergang zum Cluster C, den Stadtparks. Verbringen Sie den Nachmittag im Grünen des Dampark und des Kløften-Parks, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren, um den Abend zu genießen.",
+        "hu": "Kezdje a napot az A klaszterben, a történelmi központban, amely könnyen bejárható gyalog. Látogassa meg a Domkirke-t és a környező történelmi épületeket. Ebéd után busszal utazzon a B klaszterbe a kikötőben, hogy megnézze a modern Streetdome-ot. Onnan egy másik busz vagy egy rövid séta elviszi a C klaszterbe, a városi parkokba. Töltse a délutánt a Dampark és a Kløften park zöldjében, mielőtt busszal visszatér a városközpontba, hogy élvezze az estét.",
+        "ro": "Începeți ziua în Clusterul A, centrul istoric, ușor de explorat pe jos. Vizitați Domkirke și clădirile istorice din jur. După prânz, luați un autobuz spre Clusterul B din port pentru a vedea modernul Streetdome. De acolo, un alt autobuz sau o scurtă plimbare vă va duce la Clusterul C, parcurile orașului. Petreceți după-amiaza în verdeața din Dampark și Parcul Kløften înainte de a lua autobuzul înapoi în centrul orașului pentru a vă bucura de seară.",
+        "en": "Start your day in Cluster A, the historic center, easily explored on foot. Visit the Domkirke and surrounding historic buildings. After lunch, take a bus to Cluster B at the harbor to see the modern Streetdome. From there, another bus or a short walk will take you to Cluster C, the city parks. Spend the afternoon in the greenery of Dampark and Kløften Park before taking a bus back to the city center to enjoy your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Benniks",
+            "tip": "Bietet traditionelle dänische Küche in einer ungezwungenen Umgebung. In der Nähe von Bushaltestellen im Zentrum."
+          },
+          {
+            "name": "Olgas",
+            "tip": "Ein beliebtes Lokal für 'dagens ret' (Tagesgericht), preiswert und lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Benniks",
+            "tip": "Hagyományos dán konyhát kínál laza környezetben. A központi buszmegállók közelében."
+          },
+          {
+            "name": "Olgas",
+            "tip": "Népszerű hely a 'dagens ret' (napi ajánlat) számára, olcsó és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Benniks",
+            "tip": "Oferă bucătărie tradițională daneză într-un cadru informal. Aproape de stațiile de autobuz din centru."
+          },
+          {
+            "name": "Olgas",
+            "tip": "Un loc popular pentru 'dagens ret' (mâncarea zilei), ieftin și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Benniks",
+            "tip": "Offers traditional Danish cuisine in a casual setting. Near central bus stops."
+          },
+          {
+            "name": "Olgas",
+            "tip": "A popular spot for 'dagens ret' (dish of the day), inexpensive and tasty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosarium im Dampark",
+            "tip": "Ein wunderschöner und duftender Ort, um sich zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Genießen Sie die Aussicht und die kurze Pause zwischen den Stopps.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Damparkban",
+            "tip": "Gyönyörű és illatos hely a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy busz emelete",
+            "tip": "Élvezze a kilátást és a rövid szünetet a megállók között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rozariul din Dampark",
+            "tip": "Un loc frumos și parfumat pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Bucurați-vă de priveliște și de scurta pauză dintre opriri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in Dampark",
+            "tip": "A beautiful and fragrant place to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Enjoy the views and the short break between stops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bispegade",
+            "tip": "Eine weitere charmante Straße in der Nähe des Zentrums mit kleinen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bispegade",
+            "tip": "Egy másik bájos utca a központ közelében, kis, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bispegade",
+            "tip": "O altă stradă fermecătoare lângă centru, cu mici magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bispegade",
+            "tip": "Another charming street near the center with small, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, das ist oft günstiger als Einzeltickets.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Seien Sie sich bewusst, dass Busse am Abend und am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ez gyakran olcsóbb, mint az egyedi jegyek.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, este adesea mai ieftin decât biletele individuale.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Fiți conștienți de faptul că autobuzele pot circula mai rar seara și în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for the bus, it's often cheaper than single tickets.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Be aware that buses might run less frequently in the evening and on weekends."
+        ]
+      }
+    }
+  }
+}

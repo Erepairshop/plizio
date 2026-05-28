@@ -1,0 +1,1414 @@
+{
+  "city_id": "portugal-sao-joao-da-madeira-cities-v2",
+  "anchor": {
+    "name": "São João da Madeira",
+    "coords": [
+      -8.4833,
+      40.9
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paços da Cultura",
+            "hu": "Kultúrpalota (Paços da Cultura)",
+            "ro": "Palatul Culturii (Paços da Cultura)",
+            "en": "Palace of Culture (Paços da Cultura)"
+          },
+          "coords": [
+            -8.4961,
+            40.9022
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan, es könnte eine interessante Ausstellung oder ein Konzert stattfinden.",
+            "hu": "Nézd meg a programot, hátha van egy érdekes kiállítás vagy koncert.",
+            "ro": "Verificați programul, s-ar putea să existe o expoziție sau un concert interesant.",
+            "en": "Check the schedule; there might be an interesting exhibition or concert on."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de S. João",
+            "hu": "Szent János Mátrix-templom",
+            "ro": "Biserica Matriz de S. João",
+            "en": "Mother Church of S. João"
+          },
+          "coords": [
+            -8.4975,
+            40.9015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Azulejo-Fliesen im Inneren.",
+            "hu": "Figyeld meg a lenyűgöző azulejo csempéket a templom belsejében.",
+            "ro": "Observați panourile impresionante de azulejos din interior.",
+            "en": "Notice the impressive azulejo tile panels inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum (Museu do Calçado)",
+            "hu": "Cipőmúzeum (Museu do Calçado)",
+            "ro": "Muzeul Încălțămintei (Museu do Calçado)",
+            "en": "Footwear Museum (Museu do Calçado)"
+          },
+          "coords": [
+            -8.493,
+            40.899
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss in der „Hauptstadt des Schuhs“! Interaktive Ausstellungen.",
+            "hu": "Kötelező látnivaló a 'cipő fővárosában'! Interaktív kiállítások.",
+            "ro": "O vizită obligatorie în „Capitala Încălțămintei”! Expoziții interactive.",
+            "en": "A must-see in the 'Capital of Footwear'! Interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Oliva (Torre da Oliva)",
+            "hu": "Oliva-torony (Torre da Oliva)",
+            "ro": "Turnul Oliva (Torre da Oliva)",
+            "en": "Oliva Tower (Torre da Oliva)"
+          },
+          "coords": [
+            -8.4918,
+            40.8981
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt vom alten Wasserturm aus.",
+            "hu": "Élvezd a panorámát a városra a régi víztoronyból.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului din vechiul turn de apă.",
+            "en": "Enjoy the panoramic view over the city from the old water tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Hutmuseum (Museu da Chapelaria)",
+            "hu": "Kalapmúzeum (Museu da Chapelaria)",
+            "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
+            "en": "Hat Museum (Museu da Chapelaria)"
+          },
+          "coords": [
+            -8.4895,
+            40.903
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Hutmacherei in einer ehemaligen Fabrik.",
+            "hu": "Ismerd meg a kalapkészítés gazdag történetét egy egykori gyárban.",
+            "ro": "Descoperiți istoria bogată a fabricării pălăriilor într-o fostă fabrică.",
+            "en": "Discover the rich history of hat-making in a former factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
+            "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
+            "ro": "Centrul de Artă Oliva",
+            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+          },
+          "coords": [
+            -8.48,
+            40.9045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem beeindruckenden Industrieraum. Oft wechselnde Ausstellungen.",
+            "hu": "Kortárs művészet egy lenyűgöző ipari térben. Gyakran változó kiállítások.",
+            "ro": "Artă contemporană într-un spațiu industrial impresionant. Expoziții frecvent schimbate.",
+            "en": "Contemporary art in an impressive industrial space. Frequently changing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Nossa Senhora dos Milagres",
+            "hu": "Nossa Senhora dos Milagres Park",
+            "ro": "Parcul Nossa Senhora dos Milagres",
+            "en": "Nossa Senhora dos Milagres Park"
+          },
+          "coords": [
+            -8.479,
+            40.895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und sich nach dem Spaziergang zu entspannen.",
+            "hu": "Szép hely a nap lezárásához és a séta utáni pihenéshez.",
+            "ro": "Un loc frumos pentru a încheia ziua și a vă relaxa după plimbare.",
+            "en": "A lovely place to end the day and relax after your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt im Paços da Cultura und der nahegelegenen Hauptkirche. Am Vormittag tauchen Sie in die industrielle DNA der Stadt ein und besuchen das weltberühmte Schuhmuseum. Erklimmen Sie nach dem Mittagessen den Oliva-Turm für eine großartige Aussicht, bevor Sie im Hutmuseum eine weitere Facette der lokalen Handwerkskunst entdecken. Am Nachmittag erleben Sie im Centro de Arte Oliva zeitgenössische Kunst. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang im ruhigen Park Nossa Senhora dos Milagres ab und genießen Sie die friedliche Atmosphäre.",
+        "hu": "Kezdje a napot a város szívében, a Paços da Cultura-ban és a közeli főtemplomban. Délelőtt merüljön el a város ipari DNS-ében a világhírű Cipőmúzeumban. Ebéd után másszon fel az Oliva-toronyba a nagyszerű kilátásért, majd fedezze fel a helyi kézművesség egy másik oldalát a Kalapmúzeumban. Délután a Centro de Arte Oliva kortárs művészeti kiállítását tekintheti meg. Zárja a napot egy pihentető sétával a csendes Nossa Senhora dos Milagres parkban, élvezve a békés hangulatot.",
+        "ro": "Începeți ziua în inima orașului la Paços da Cultura și la biserica principală din apropiere. Dimineața, pătrundeți în ADN-ul industrial al orașului la faimosul Muzeu al Încălțămintei. După prânz, urcați în Turnul Oliva pentru o priveliște superbă, înainte de a explora o altă fațetă a meșteșugului local la Muzeul Pălăriilor. După-amiaza, experimentați arta contemporană la Centrul de Artă Oliva. Încheiați ziua cu o plimbare relaxantă în liniștitul Parc Nossa Senhora dos Milagres, bucurându-vă de atmosfera pașnică.",
+        "en": "Start your day in the city's heart at Paços da Cultura and the nearby Mother Church. In the morning, delve into the city's industrial DNA at the world-renowned Footwear Museum. After lunch, climb the Oliva Tower for a great view before exploring another facet of local craftsmanship at the Hat Museum. In the afternoon, experience contemporary art at the Oliva Art Centre. Conclude your day with a relaxing stroll in the tranquil Nossa Senhora dos Milagres Park, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus der Region, probieren Sie es in einem der lokalen Cafés."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Kabeljau auf portugiesische Art, oft kreativ zubereitet."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ein berühmter Biskuitkuchen aus der Nachbarstadt, den man hier oft findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós szendvics a régióból, próbáld ki egy helyi kávézóban."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Tőkehal portugál módra, gyakran kreatívan elkészítve."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Híres piskóta a szomszédos városból, itt gyakran megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din regiune, încercați-l la una dintre cafenelele locale."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod în stil portughez, adesea preparat creativ."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "O prăjitură celebră din orașul vecin, adesea găsită aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from the region, try it at a local café."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Codfish Portuguese-style, often prepared creatively."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "A famous sponge cake from the neighbouring town, often found here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Ein friedlicher Park, ideal zum Entspannen am Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Torre da Oliva",
+            "tip": "Genießen Sie die ruhige Aussicht über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Békés park, ideális délutáni pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Torre da Oliva-ról",
+            "tip": "Élvezd a csendes kilátást a város háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nossa Senhora dos Milagres",
+            "tip": "Un parc liniștit, ideal pentru relaxare după-amiaza.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Oliva",
+            "tip": "Bucurați-vă de priveliștea liniștită peste acoperișurile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nossa Senhora dos Milagres Park",
+            "tip": "A peaceful park, ideal for relaxing in the afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Torre da Oliva",
+            "tip": "Enjoy the quiet view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schuhe",
+            "tip": "Natürlich! Kaufen Sie ein Paar direkt von der Quelle in einem der vielen Geschäfte."
+          },
+          {
+            "name": "Hüte",
+            "tip": "Ein stilvolles Souvenir aus dem Hutmuseumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipők",
+            "tip": "Természetesen! Vásárolj egy párat közvetlenül a forrásból az egyik üzletben."
+          },
+          {
+            "name": "Kalapok",
+            "tip": "Stílusos szuvenír a Kalapmúzeum boltjából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantofi",
+            "tip": "Desigur! Cumpărați o pereche direct de la sursă într-unul dintre multele magazine."
+          },
+          {
+            "name": "Pălării",
+            "tip": "Un suvenir elegant de la magazinul muzeului de pălării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shoes",
+            "tip": "Of course! Buy a pair directly from the source in one of the many shops."
+          },
+          {
+            "name": "Hats",
+            "tip": "A stylish souvenir from the hat museum's shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, Sie werden viel laufen!",
+          "Die meisten Museen sind montags geschlossen.",
+          "Einige kleinere Geschäfte könnten zur Mittagszeit schließen.",
+          "Halten Sie Ausschau nach kleinen Cafés (Pastelarias) für einen Kaffee und ein Gebäck."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni!",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Néhány kisebb üzlet bezárhat ebédidőben.",
+          "Keress kis kávézókat (Pastelarias) egy kávéra és süteményre."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos!",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Unele magazine mai mici s-ar putea închide la prânz.",
+          "Căutați cafenele mici (Pastelarias) pentru o cafea și o prăjitură."
+        ],
+        "en": [
+          "Wear comfortable shoes, you'll be doing a lot of walking!",
+          "Most museums are closed on Mondays.",
+          "Some smaller shops might close for lunch.",
+          "Look for small cafés (Pastelarias) for a coffee and a pastry."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Nossa Senhora dos Milagres",
+            "hu": "Nossa Senhora dos Milagres Park",
+            "ro": "Parcul Nossa Senhora dos Milagres",
+            "en": "Nossa Senhora dos Milagres Park"
+          },
+          "coords": [
+            -8.479,
+            40.895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer ruhigen Radtour durch diesen schönen Stadtpark.",
+            "hu": "Kezdd a napot egy nyugodt biciklizéssel ebben a szép városi parkban.",
+            "ro": "Începeți ziua cu o plimbare liniștită cu bicicleta prin acest frumos parc urban.",
+            "en": "Start the day with a quiet bike ride through this beautiful city park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
+            "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
+            "ro": "Centrul de Artă Oliva",
+            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+          },
+          "coords": [
+            -8.48,
+            40.9045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die zeitgenössische Kunst.",
+            "hu": "Tedd le a biciklit és élvezd a kortárs művészetet.",
+            "ro": "Parcați bicicleta și bucurați-vă de arta contemporană.",
+            "en": "Park your bike and enjoy the contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Viarco Bleistiftfabrik",
+            "hu": "Viarco Ceruzagyár",
+            "ro": "Fabrica de creioane Viarco",
+            "en": "Viarco Pencil Factory"
+          },
+          "coords": [
+            -8.477,
+            40.908
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher zur einzigen Bleistiftfabrik Portugals. Der Shop ist einen Besuch wert.",
+            "hu": "Egy rövid kitérő Portugália egyetlen ceruzagyárához. A bolt megér egy látogatást.",
+            "ro": "Un scurt ocol la singura fabrică de creioane din Portugalia. Magazinul merită vizitat.",
+            "en": "A short detour to Portugal's only pencil factory. The shop is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hutmuseum (Museu da Chapelaria)",
+            "hu": "Kalapmúzeum (Museu da Chapelaria)",
+            "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
+            "en": "Hat Museum (Museu da Chapelaria)"
+          },
+          "coords": [
+            -8.4895,
+            40.903
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine andere traditionelle Industrie der Stadt.",
+            "hu": "Fedezd fel a város egy másik hagyományos iparágát.",
+            "ro": "Descoperiți o altă industrie tradițională a orașului.",
+            "en": "Discover another of the city's traditional industries."
+          }
+        },
+        {
+          "name": {
+            "de": "Paços da Cultura",
+            "hu": "Kultúrpalota (Paços da Cultura)",
+            "ro": "Palatul Culturii (Paços da Cultura)",
+            "en": "Palace of Culture (Paços da Cultura)"
+          },
+          "coords": [
+            -8.4961,
+            40.9022
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrapunkt zur industriellen Geschichte.",
+            "hu": "Modern ellenpont az ipari történelemhez.",
+            "ro": "Un contrapunct modern la istoria industrială.",
+            "en": "A modern counterpoint to the industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum (Museu do Calçado)",
+            "hu": "Cipőmúzeum (Museu do Calçado)",
+            "ro": "Muzeul Încălțămintei (Museu do Calçado)",
+            "en": "Footwear Museum (Museu do Calçado)"
+          },
+          "coords": [
+            -8.493,
+            40.899
+          ],
+          "category": "museums",
+          "arrive_at": "15:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Heben Sie sich das Hauptereignis für den Nachmittag auf. Planen Sie genügend Zeit ein!",
+            "hu": "Hagyd a fő attrakciót délutánra. Tervezz elég időt!",
+            "ro": "Lăsați atracția principală pentru după-amiază. Alocați suficient timp!",
+            "en": "Save the main event for the afternoon. Plan plenty of time!"
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Oliva (Torre da Oliva)",
+            "hu": "Oliva-torony (Torre da Oliva)",
+            "ro": "Turnul Oliva (Turnul Oliva)",
+            "en": "Oliva Tower (Torre da Oliva)"
+          },
+          "coords": [
+            -8.4918,
+            40.8981
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit dem besten Blick auf die Stadt bei Sonnenuntergang.",
+            "hu": "Fejezd be a biciklitúrát a város legjobb naplementés kilátásával.",
+            "ro": "Încheiați turul cu bicicleta cu cea mai bună priveliște a orașului la apus.",
+            "en": "End your bike tour with the best view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im grünen Parque de Nossa Senhora dos Milagres. Von dort aus radeln Sie zum Centro de Arte Oliva und machen einen kurzen Halt bei der Viarco-Bleistiftfabrik. Am Vormittag erkunden Sie das Hutmuseum, bevor Sie sich dem modernen Paços da Cultura zuwenden. Der Nachmittag ist ganz dem industriellen Erbe gewidmet: Tauchen Sie tief in die Welt der Schuhe im Schuhmuseum ein. Zum Abschluss des Tages erklimmen Sie den Torre da Oliva und genießen den Panoramablick bei Sonnenuntergang.",
+        "hu": "Kezdje a kerékpártúrát a zöldellő Parque de Nossa Senhora dos Milagres-ben. Onnan tekerjen el a Centro de Arte Oliva-hoz, egy rövid megállóval a Viarco ceruzagyárnál. Délelőtt fedezze fel a Kalapmúzeumot, mielőtt a modern Paços da Cultura felé veszi az irányt. A délután teljes egészében az ipari örökségé: merüljön el a cipők világában a Cipőmúzeumban. A nap végén másszon fel a Torre da Oliva-ra, és élvezze a panorámát naplementekor.",
+        "ro": "Începeți turul cu bicicleta în înverzinatul Parc de Nossa Senhora dos Milagres. De acolo, pedalați spre Centrul de Artă Oliva, cu o scurtă oprire la fabrica de creioane Viarco. Dimineața, explorați Muzeul Pălăriilor înainte de a vă îndrepta spre modernul Paços da Cultura. După-amiaza este dedicată în întregime moștenirii industriale: scufundați-vă în lumea încălțămintei la Muzeul Încălțămintei. La finalul zilei, urcați în Turnul Oliva și bucurați-vă de vederea panoramică la apus.",
+        "en": "Start your bike tour in the green Parque de Nossa Senhora dos Milagres. From there, cycle to the Centro de Arte Oliva, with a quick stop at the Viarco pencil factory. In the morning, explore the Hat Museum before heading to the modern Paços da Cultura. The afternoon is entirely dedicated to the industrial heritage: dive deep into the world of shoes at the Footwear Museum. To end the day, climb the Torre da Oliva and enjoy the panoramic view at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus der Region, probieren Sie es in einem der lokalen Cafés."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Kabeljau auf portugiesische Art, oft kreativ zubereitet."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ein berühmter Biskuitkuchen aus der Nachbarstadt, den man hier oft findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós szendvics a régióból, próbáld ki egy helyi kávézóban."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Tőkehal portugál módra, gyakran kreatívan elkészítve."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Híres piskóta a szomszédos városból, itt gyakran megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din regiune, încercați-l la una dintre cafenelele locale."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod în stil portughez, adesea preparat creativ."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "O prăjitură celebră din orașul vecin, adesea găsită aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from the region, try it at a local café."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Codfish Portuguese-style, often prepared creatively."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "A famous sponge cake from the neighbouring town, often found here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Ein friedlicher Park, ideal zum Entspannen am Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Torre da Oliva",
+            "tip": "Genießen Sie die ruhige Aussicht über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Békés park, ideális délutáni pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Torre da Oliva-ról",
+            "tip": "Élvezd a csendes kilátást a város háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nossa Senhora dos Milagres",
+            "tip": "Un parc liniștit, ideal pentru relaxare după-amiaza.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Oliva",
+            "tip": "Bucurați-vă de priveliștea liniștită peste acoperișurile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nossa Senhora dos Milagres Park",
+            "tip": "A peaceful park, ideal for relaxing in the afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Torre da Oliva",
+            "tip": "Enjoy the quiet view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schuhe",
+            "tip": "Natürlich! Kaufen Sie ein Paar direkt von der Quelle in einem der vielen Geschäfte."
+          },
+          {
+            "name": "Viarco Bleistifte",
+            "tip": "Ein einzigartiges und nützliches Souvenir aus der lokalen Fabrik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipők",
+            "tip": "Természetesen! Vásárolj egy párat közvetlenül a forrásból az egyik üzletben."
+          },
+          {
+            "name": "Viarco ceruzák",
+            "tip": "Egyedi és hasznos szuvenír a helyi gyárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantofi",
+            "tip": "Desigur! Cumpărați o pereche direct de la sursă într-unul dintre multele magazine."
+          },
+          {
+            "name": "Creioane Viarco",
+            "tip": "Un suvenir unic și util de la fabrica locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shoes",
+            "tip": "Of course! Buy a pair directly from the source in one of the many shops."
+          },
+          {
+            "name": "Viarco Pencils",
+            "tip": "A unique and useful souvenir from the local factory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Einige Straßen im Zentrum können Kopfsteinpflaster haben, fahren Sie vorsichtig.",
+          "Nutzen Sie Fahrradständer in der Nähe der Hauptattraktionen.",
+          "Eine Wasserflasche ist unerlässlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet.",
+          "Néhány belvárosi utca macskaköves lehet, vezess óvatosan.",
+          "Használd a fő látnivalók közelében lévő kerékpártárolókat.",
+          "Egy kulacs elengedhetetlen."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Unele străzi din centru pot fi pavate cu piatră cubică, mergeți cu prudență.",
+          "Folosiți suporturile de biciclete de lângă atracțiile principale.",
+          "O sticlă de apă este esențială."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Some central streets can be cobblestoned, ride carefully.",
+          "Use bike racks near the main attractions.",
+          "A water bottle is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Kunst & Park",
+            "hu": "1. csoport: Művészet és park",
+            "ro": "Cluster 1: Artă & Parc",
+            "en": "Cluster 1: Art & Park"
+          },
+          "coords": [
+            -8.479,
+            40.895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Parque de Nossa Senhora dos Milagres und beginnen Sie den Tag entspannt.",
+            "hu": "Parkolj a Parque de Nossa Senhora dos Milagres közelében, és kezdd a napot nyugodtan.",
+            "ro": "Parcați lângă Parcul Nossa Senhora dos Milagres și începeți ziua relaxat.",
+            "en": "Park near the Parque de Nossa Senhora dos Milagres and start the day relaxed."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
+            "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
+            "ro": "Centrul de Artă Oliva",
+            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+          },
+          "coords": [
+            -8.48,
+            40.9045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zum beeindruckenden Kunstzentrum.",
+            "hu": "Rövid séta a parktól a lenyűgöző művészeti központig.",
+            "ro": "O scurtă plimbare de la parc la impresionantul centru de artă.",
+            "en": "A short walk from the park to the impressive art centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Industrie & Handwerk",
+            "hu": "2. csoport: Ipar és kézművesség",
+            "ro": "Cluster 2: Industrie & Meșteșug",
+            "en": "Cluster 2: Industry & Crafts"
+          },
+          "coords": [
+            -8.4895,
+            40.903
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hutmuseum und parken Sie dort. Dies ist der Ausgangspunkt für den Industrie-Cluster.",
+            "hu": "Vezess a Kalapmúzeumhoz és parkolj le. Ez az ipari klaszter kiindulópontja.",
+            "ro": "Conduceți la Muzeul Pălăriilor și parcați. Acesta este punctul de plecare pentru clusterul industrial.",
+            "en": "Drive to the Hat Museum and park. This is the starting point for the industrial cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum (Museu do Calçado)",
+            "hu": "Cipőmúzeum (Museu do Calçado)",
+            "ro": "Muzeul Încălțămintei (Museu do Calçado)",
+            "en": "Footwear Museum (Museu do Calçado)"
+          },
+          "coords": [
+            -8.493,
+            40.899
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück der Stadt. Der Spaziergang vom Hutmuseum ist kurz.",
+            "hu": "A város szíve. A séta a Kalapmúzeumtól rövid.",
+            "ro": "Inima orașului. Plimbarea de la Muzeul Pălăriilor este scurtă.",
+            "en": "The heart of the city. The walk from the Hat Museum is short."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Oliva (Torre da Oliva)",
+            "hu": "Oliva-torony (Torre da Oliva)",
+            "ro": "Turnul Oliva (Torre da Oliva)",
+            "en": "Oliva Tower (Torre da Oliva)"
+          },
+          "coords": [
+            -8.4918,
+            40.8981
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Schuhmuseum, perfekt für einen schnellen Panoramablick.",
+            "hu": "Közvetlenül a Cipőmúzeum mellett, tökéletes egy gyors panorámaképhez.",
+            "ro": "Chiar lângă Muzeul Încălțămintei, perfect pentru o priveliște panoramică rapidă.",
+            "en": "Right next to the Footwear Museum, perfect for a quick panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Historisches Zentrum",
+            "hu": "3. csoport: Történelmi központ",
+            "ro": "Cluster 3: Centrul Istoric",
+            "en": "Cluster 3: Historic Centre"
+          },
+          "coords": [
+            -8.4961,
+            40.9022
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ein letztes Mal ins Zentrum und parken Sie in der Nähe des Paços da Cultura.",
+            "hu": "Vezess utoljára a központba, és parkolj a Paços da Cultura közelében.",
+            "ro": "Conduceți pentru ultima dată în centru și parcați lângă Paços da Cultura.",
+            "en": "Drive one last time to the centre and park near Paços da Cultura."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de S. João",
+            "hu": "Szent János Mátrix-templom",
+            "ro": "Biserica Matriz de S. João",
+            "en": "Mother Church of S. João"
+          },
+          "coords": [
+            -8.4975,
+            40.9015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem Besuch der Hauptkirche der Stadt ab.",
+            "hu": "Zárja a napot a város főtemplomának meglátogatásával.",
+            "ro": "Încheiați ziua cu o vizită la biserica principală a orașului.",
+            "en": "Conclude the day with a visit to the city's main church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan teilt die Stadt in drei leicht erreichbare Zonen. Beginnen Sie im Osten mit einem Spaziergang vom Parque dos Milagres zum Centro de Arte Oliva. Fahren Sie dann zum Industrie-Cluster, parken Sie und erkunden Sie zu Fuß das Hutmuseum, das Schuhmuseum und den Oliva-Turm. Nach diesem tiefen Einblick in das Erbe der Stadt fahren Sie für den letzten Teil des Tages ins historische Zentrum, um das Paços da Cultura und die Hauptkirche zu besichtigen und den Tag ausklingen zu lassen.",
+        "hu": "Ez a terv három könnyen bejárható zónára osztja a várost. Kezdjen keleten egy sétával a Parque dos Milagres-ből a Centro de Arte Oliva-ba. Ezután vezessen az ipari zónába, parkoljon le, és fedezze fel gyalog a Kalapmúzeumot, a Cipőmúzeumot és az Oliva-tornyot. Miután mélyen elmerült a város örökségében, vezessen a történelmi központba a nap utolsó részére, hogy megnézze a Paços da Cultura-t és a főtemplomot, és lezárja a napot.",
+        "ro": "Acest plan împarte orașul în trei zone ușor de parcurs. Începeți în est cu o plimbare de la Parque dos Milagres la Centrul de Artă Oliva. Apoi, conduceți către clusterul industrial, parcați și explorați pe jos Muzeul Pălăriilor, Muzeul Încălțămintei și Turnul Oliva. După această incursiune profundă în moștenirea orașului, conduceți spre centrul istoric pentru ultima parte a zilei, pentru a vizita Paços da Cultura și biserica principală pentru a încheia ziua.",
+        "en": "This plan divides the city into three easily manageable zones. Start in the east with a walk from Parque dos Milagres to Centro de Arte Oliva. Then, drive to the industrial cluster, park, and explore the Hat Museum, Footwear Museum, and Oliva Tower on foot. After this deep dive into the city's heritage, drive to the historic centre for the final part of the day, visiting Paços da Cultura and the Mother Church to wrap up your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus der Region, probieren Sie es in einem der lokalen Cafés."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Kabeljau auf portugiesische Art, oft kreativ zubereitet."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ein berühmter Biskuitkuchen aus der Nachbarstadt, den man hier oft findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós szendvics a régióból, próbáld ki egy helyi kávézóban."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Tőkehal portugál módra, gyakran kreatívan elkészítve."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Híres piskóta a szomszédos városból, itt gyakran megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din regiune, încercați-l la una dintre cafenelele locale."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod în stil portughez, adesea preparat creativ."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "O prăjitură celebră din orașul vecin, adesea găsită aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from the region, try it at a local café."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Codfish Portuguese-style, often prepared creatively."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "A famous sponge cake from the neighbouring town, often found here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Ein friedlicher Park, ideal zum Entspannen am Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Torre da Oliva",
+            "tip": "Genießen Sie die ruhige Aussicht über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Békés park, ideális délutáni pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Torre da Oliva-ról",
+            "tip": "Élvezd a csendes kilátást a város háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nossa Senhora dos Milagres",
+            "tip": "Un parc liniștit, ideal pentru relaxare după-amiaza.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Oliva",
+            "tip": "Bucurați-vă de priveliștea liniștită peste acoperișurile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nossa Senhora dos Milagres Park",
+            "tip": "A peaceful park, ideal for relaxing in the afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Torre da Oliva",
+            "tip": "Enjoy the quiet view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schuhe",
+            "tip": "Natürlich! Kaufen Sie ein Paar direkt von der Quelle in einem der vielen Geschäfte."
+          },
+          {
+            "name": "Hüte",
+            "tip": "Ein stilvolles Souvenir aus dem Hutmuseumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipők",
+            "tip": "Természetesen! Vásárolj egy párat közvetlenül a forrásból az egyik üzletben."
+          },
+          {
+            "name": "Kalapok",
+            "tip": "Stílusos szuvenír a Kalapmúzeum boltjából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantofi",
+            "tip": "Desigur! Cumpărați o pereche direct de la sursă într-unul dintre multele magazine."
+          },
+          {
+            "name": "Pălării",
+            "tip": "Un suvenir elegant de la magazinul muzeului de pălării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shoes",
+            "tip": "Of course! Buy a pair directly from the source in one of the many shops."
+          },
+          {
+            "name": "Hats",
+            "tip": "A stylish souvenir from the hat museum's shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkbeschränkungen, besonders im Stadtzentrum.",
+          "Ein GPS ist hilfreich, um zwischen den Clustern zu navigieren.",
+          "Planen Sie etwas mehr Zeit für die Parkplatzsuche ein.",
+          "Die Cluster-Strategie spart Parkgebühren und Stress."
+        ],
+        "hu": [
+          "Figyelj a parkolási korlátozásokra, különösen a belvárosban.",
+          "GPS hasznos a klaszterek közötti navigáláshoz.",
+          "Tervezz egy kis extra időt a parkolóhely keresésére.",
+          "A klaszter-stratégia parkolási díjakat és stresszt takarít meg."
+        ],
+        "ro": [
+          "Fiți atenți la restricțiile de parcare, în special în centrul orașului.",
+          "Un GPS este util pentru a naviga între clustere.",
+          "Planificați puțin timp suplimentar pentru a găsi un loc de parcare.",
+          "Strategia de cluster economisește taxele de parcare și stresul."
+        ],
+        "en": [
+          "Pay attention to parking restrictions, especially in the city centre.",
+          "A GPS is helpful for navigating between clusters.",
+          "Plan a little extra time for finding a parking spot.",
+          "The cluster strategy saves on parking fees and stress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum",
+            "hu": "1. csoport: Központ",
+            "ro": "Cluster 1: Centru",
+            "en": "Cluster 1: Centre"
+          },
+          "coords": [
+            -8.4961,
+            40.9022
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz in der Nähe des Paços da Cultura.",
+            "hu": "Menj busszal a központi térre a Paços da Cultura közelében.",
+            "ro": "Luați un autobuz spre piața centrală de lângă Paços da Cultura.",
+            "en": "Take a bus to the central square near Paços da Cultura."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de S. João",
+            "hu": "Szent János Mátrix-templom",
+            "ro": "Biserica Matriz de S. João",
+            "en": "Mother Church of S. João"
+          },
+          "coords": [
+            -8.4975,
+            40.9015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturzentrum zur Kirche.",
+            "hu": "Rövid séta a kulturális központtól a templomig.",
+            "ro": "O scurtă plimbare de la centrul cultural la biserică.",
+            "en": "A short walk from the cultural centre to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Industrielles Erbe",
+            "hu": "2. csoport: Ipari örökség",
+            "ro": "Cluster 2: Moștenirea Industrială",
+            "en": "Cluster 2: Industrial Heritage"
+          },
+          "coords": [
+            -8.493,
+            40.899
+          ],
+          "category": "museums",
+          "arrive_at": "11:14",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Schuhmuseum. Kaufen Sie vielleicht eine Tageskarte.",
+            "hu": "Menj busszal a Cipőmúzeumhoz. Talán érdemes napijegyet venni.",
+            "ro": "Luați un autobuz spre Muzeul Încălțămintei. Poate cumpărați un bilet de o zi.",
+            "en": "Take a bus to the Footwear Museum. Consider buying a day pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Oliva (Torre da Oliva)",
+            "hu": "Oliva-torony (Torre da Oliva)",
+            "ro": "Turnul Oliva (Torre da Oliva)",
+            "en": "Oliva Tower (Torre da Oliva)"
+          },
+          "coords": [
+            -8.4918,
+            40.8981
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum, ideal für einen Panoramablick nach dem Mittagessen.",
+            "hu": "Közvetlenül a múzeum mellett, ideális egy ebéd utáni panorámához.",
+            "ro": "Chiar lângă muzeu, ideal pentru o priveliște panoramică după prânz.",
+            "en": "Right next to the museum, ideal for a post-lunch panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hutmuseum (Museu da Chapelaria)",
+            "hu": "Kalapmúzeum (Museu da Chapelaria)",
+            "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
+            "en": "Hat Museum (Museu da Chapelaria)"
+          },
+          "coords": [
+            -8.4895,
+            40.903
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang durch das Viertel zum nächsten Museum.",
+            "hu": "Kellemes séta a negyeden keresztül a következő múzeumig.",
+            "ro": "O plimbare plăcută prin cartier până la următorul muzeu.",
+            "en": "A pleasant walk through the neighborhood to the next museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kunst & Entspannung",
+            "hu": "3. csoport: Művészet és pihenés",
+            "ro": "Cluster 3: Artă & Relaxare",
+            "en": "Cluster 3: Art & Relaxation"
+          },
+          "coords": [
+            -8.48,
+            40.9045
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Centro de Arte Oliva, um den Tag mit Kunst und einem Parkbesuch ausklingen zu lassen.",
+            "hu": "Menj busszal a Centro de Arte Oliva-hoz, hogy a napot művészettel és parklátogatással zárd.",
+            "ro": "Luați autobuzul spre Centrul de Artă Oliva pentru a încheia ziua cu artă și o vizită în parc.",
+            "en": "Take the bus to the Centro de Arte Oliva to end the day with art and a park visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um die Stadt in Clustern zu erkunden. Beginnen Sie im historischen Zentrum mit dem Paços da Cultura und der Kirche. Nehmen Sie dann einen Bus zum Industrie-Cluster, wo Sie den größten Teil des Tages verbringen und das Schuh-, Turm- und Hutmuseum zu Fuß erkunden. Eine letzte Busfahrt bringt Sie zum Kunstcluster im Osten, wo Sie das Centro de Arte Oliva besuchen und sich im nahegelegenen Park entspannen können, bevor Sie nach Hause fahren.",
+        "hu": "Használja a tömegközlekedést a város klaszterekben való felfedezéséhez. Kezdje a történelmi központban a Paços da Cultura-val és a templommal. Ezután menjen busszal az ipari klaszterbe, ahol a nap nagy részét tölti, gyalog fedezve fel a Cipő-, Torony- és Kalapmúzeumot. Egy utolsó buszozás elviszi a keleti művészeti klaszterbe, ahol meglátogathatja a Centro de Arte Oliva-t és pihenhet a közeli parkban, mielőtt hazaindulna.",
+        "ro": "Folosiți transportul public pentru a explora orașul în clustere. Începeți în centrul istoric cu Paços da Cultura și biserica. Apoi, luați un autobuz către clusterul industrial, unde veți petrece cea mai mare parte a zilei explorând pe jos muzeele de încălțăminte, turnul și pălăriile. O ultimă călătorie cu autobuzul vă va duce la clusterul de artă din est, unde puteți vizita Centrul de Artă Oliva și vă puteți relaxa în parcul din apropiere înainte de a vă întoarce.",
+        "en": "Use public transport to explore the city in clusters. Start in the historic centre with Paços da Cultura and the church. Then take a bus to the industrial cluster, where you'll spend most of the day exploring the Footwear, Tower, and Hat museums on foot. A final bus ride will take you to the art cluster in the east, where you can visit the Centro de Arte Oliva and relax in the nearby park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus der Region, probieren Sie es in einem der lokalen Cafés."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Kabeljau auf portugiesische Art, oft kreativ zubereitet."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Ein berühmter Biskuitkuchen aus der Nachbarstadt, den man hier oft findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós szendvics a régióból, próbáld ki egy helyi kávézóban."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Tőkehal portugál módra, gyakran kreatívan elkészítve."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "Híres piskóta a szomszédos városból, itt gyakran megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din regiune, încercați-l la una dintre cafenelele locale."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Cod în stil portughez, adesea preparat creativ."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "O prăjitură celebră din orașul vecin, adesea găsită aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from the region, try it at a local café."
+          },
+          {
+            "name": "Bacalhau",
+            "tip": "Codfish Portuguese-style, often prepared creatively."
+          },
+          {
+            "name": "Pão de Ló de Ovar",
+            "tip": "A famous sponge cake from the neighbouring town, often found here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Ein friedlicher Park, ideal zum Entspannen am Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Torre da Oliva",
+            "tip": "Genießen Sie die ruhige Aussicht über die Dächer der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Nossa Senhora dos Milagres",
+            "tip": "Békés park, ideális délutáni pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Torre da Oliva-ról",
+            "tip": "Élvezd a csendes kilátást a város háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Nossa Senhora dos Milagres",
+            "tip": "Un parc liniștit, ideal pentru relaxare după-amiaza.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din Turnul Oliva",
+            "tip": "Bucurați-vă de priveliștea liniștită peste acoperișurile orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nossa Senhora dos Milagres Park",
+            "tip": "A peaceful park, ideal for relaxing in the afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Torre da Oliva",
+            "tip": "Enjoy the quiet view over the city's rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schuhe",
+            "tip": "Natürlich! Kaufen Sie ein Paar direkt von der Quelle in einem der vielen Geschäfte."
+          },
+          {
+            "name": "Hüte",
+            "tip": "Ein stilvolles Souvenir aus dem Hutmuseumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cipők",
+            "tip": "Természetesen! Vásárolj egy párat közvetlenül a forrásból az egyik üzletben."
+          },
+          {
+            "name": "Kalapok",
+            "tip": "Stílusos szuvenír a Kalapmúzeum boltjából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantofi",
+            "tip": "Desigur! Cumpărați o pereche direct de la sursă într-unul dintre multele magazine."
+          },
+          {
+            "name": "Pălării",
+            "tip": "Un suvenir elegant de la magazinul muzeului de pălării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shoes",
+            "tip": "Of course! Buy a pair directly from the source in one of the many shops."
+          },
+          {
+            "name": "Hats",
+            "tip": "A stylish souvenir from the hat museum's shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für den Abend.",
+          "Busfahrpläne finden Sie online oder an den Hauptbushaltestellen.",
+          "Haben Sie etwas Kleingeld für Bustickets bereit."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra, ha több utazást tervezel.",
+          "Ellenőrizd előre a buszmenetrendet, különösen estére.",
+          "A buszmenetrendek online vagy a fő buszmegállókban találhatók.",
+          "Legyen nálad aprópénz a buszjegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, în special pentru seară.",
+          "Programele autobuzelor pot fi găsite online sau la stațiile principale de autobuz.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making several trips.",
+          "Check the bus schedule in advance, especially for the evening.",
+          "Bus schedules can be found online or at major bus stops.",
+          "Have some small change ready for bus tickets."
+        ]
+      }
+    }
+  }
+}

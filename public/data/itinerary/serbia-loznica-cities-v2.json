@@ -1,0 +1,1324 @@
+{
+  "city_id": "serbia-loznica-cities-v2",
+  "anchor": {
+    "name": "Loznica",
+    "coords": [
+      19.227,
+      44.532
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vuk Karadžić Denkmal",
+            "hu": "Vuk Karadžić emlékmű",
+            "ro": "Monumentul lui Vuk Karadžić",
+            "en": "Vuk Karadžić Monument"
+          },
+          "coords": [
+            19.2255,
+            44.5328
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Wahrzeichen, einem idealen Ausgangspunkt.",
+            "hu": "Kezdje a napot ennél a központi emlékműnél, amely ideális kiindulópont.",
+            "ro": "Începeți ziua la acest punct de reper central, un punct de plecare ideal.",
+            "en": "Start your day at this central landmark, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Schutz",
+            "hu": "Oltalmazó Szűz Mária-templom",
+            "ro": "Biserica Acoperământul Maicii Domnului",
+            "en": "Church of the Holy Protection of the Theotokos"
+          },
+          "coords": [
+            19.2265,
+            44.5315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző freskókat és a benti csendes légkört.",
+            "ro": "Admirați frescele impresionante și atmosfera liniștită din interior.",
+            "en": "Admire the impressive frescoes and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Jadar",
+            "hu": "Jadar Múzeum",
+            "ro": "Muzeul din Jadar",
+            "en": "Museum of Jadar"
+          },
+          "coords": [
+            19.228,
+            44.5335
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die archäologische Sammlung ein, sie ist der Höhepunkt.",
+            "hu": "Tervezzen elég időt a régészeti gyűjteményre, ez a kiállítás fénypontja.",
+            "ro": "Planificați suficient timp pentru colecția arheologică, este punctul culminant.",
+            "en": "Plan enough time for the archaeological collection, it's the highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokaler Markt",
+            "hu": "Helyi piac",
+            "ro": "Piața Locală",
+            "en": "Local Market"
+          },
+          "coords": [
+            19.2295,
+            44.535
+          ],
+          "category": "market",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Käse und den geräucherten Schinken von den freundlichen Verkäufern.",
+            "hu": "Kóstolja meg a helyi sajtot és a füstölt sonkát a barátságos árusoknál.",
+            "ro": "Încercați brânza locală și șunca afumată de la vânzătorii prietenoși.",
+            "en": "Try the local cheese and smoked ham from the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            19.228,
+            44.532
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Terrasse, um das Treiben der Stadt zu beobachten.",
+            "hu": "Válasszon egy teraszos éttermet, hogy figyelhesse a város nyüzsgését.",
+            "ro": "Alegeți un restaurant cu terasă pentru a privi agitația orașului.",
+            "en": "Choose a restaurant with a terrace to watch the hustle and bustle of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Loznica beginnt am Denkmal von Vuk Karadžić, dem Reformator der serbischen Sprache. Der Morgen führt Sie zur spirituellen Ruhe der Kirche Mariä Schutz, gefolgt von einer tiefen Eintauchen in die Geschichte im Jadar-Museum. Am Mittag erleben Sie die authentische Atmosphäre des lokalen Marktes, wo die Düfte und Farben der Region lebendig werden. Der Nachmittag ist für ein gemütliches Mittagessen reserviert, bei dem Sie serbische Spezialitäten in einem der zentralen Restaurants genießen und den Tag entspannt ausklingen lassen. Der Abend bietet Zeit für einen ruhigen Spaziergang entlang des Flusses Štira.",
+        "hu": "A loznicai séta a szerb nyelv megújítójának, Vuk Karadžićnak az emlékművénél kezdődik. A délelőtt az Oltalmazó Szűz Mária-templom spirituális nyugalmába vezet, majd a Jadar Múzeumban mélyülhet el a történelemben. Délben a helyi piac autentikus hangulatát élvezheti, ahol a régió illatai és színei elevenednek meg. A délután egy kellemes ebédre van fenntartva, ahol szerb specialitásokat kóstolhat az egyik központi étteremben, és pihentetően zárhatja a napot. Este a Štira folyó mentén tehet egy csendes sétát.",
+        "ro": "O plimbare prin Loznica începe la monumentul lui Vuk Karadžić, reformatorul limbii sârbe. Dimineața vă duce la liniștea spirituală a Bisericii Acoperământul Maicii Domnului, urmată de o imersiune profundă în istorie la Muzeul Jadar. La prânz, experimentați atmosfera autentică a pieței locale, unde aromele și culorile regiunii prind viață. După-amiaza este rezervată unui prânz relaxant, savurând specialități sârbești la unul dintre restaurantele centrale pentru a încheia ziua. Seara oferă timp pentru o plimbare liniștită de-a lungul râului Štira.",
+        "en": "A walk through Loznica begins at the monument to Vuk Karadžić, the reformer of the Serbian language. The morning takes you to the spiritual tranquility of the Church of the Holy Protection, followed by a deep dive into history at the Jadar Museum. At noon, you'll experience the authentic atmosphere of the local market, where the region's scents and colors come alive. The afternoon is reserved for a leisurely lunch, enjoying Serbian specialties at one of the central restaurants to round off the day. The evening offers time for a quiet stroll along the Štira river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Ein herzhaftes Fladenbrot, gefüllt mit Ei und Kajmak, perfekt für einen stärkenden Start."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Die serbische Antwort auf Frikadellen, serviert in Fladenbrot mit Zwiebeln."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Ein gerolltes und paniertes Schnitzel, gefüllt mit Kajmak."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Kiadós lepény, tojással és kajmakkal töltve, tökéletes egy energiadús kezdéshez."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "A szerb válasz a fasírtra, lepényben, hagymával tálalva."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Feltekert, panírozott szelet, kajmakkal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "O pâine plată consistentă, umplută cu ou și kajmak, perfectă pentru un început energizant."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Răspunsul sârbesc la chiftele, servit în lipie cu ceapă."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Un șnițel rulat și pane, umplut cu kajmak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "A hearty flatbread filled with egg and kajmak, perfect for a strong start."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "The Serbian answer to meatballs, served in flatbread with onions."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "A rolled and breaded schnitzel, filled with kajmak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Štira",
+            "tip": "Ein ruhiger Spaziergang am späten Nachmittag entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park bei der Kirche",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Štira folyó partja",
+            "tip": "Egy csendes késő délutáni séta a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a templomnál",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Štira",
+            "tip": "O plimbare liniștită după-amiaza târziu de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă biserică",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Štira River",
+            "tip": "A quiet walk in the late afternoon along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park near the church",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachten Honig und Rakija als authentische Souvenirs."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und traditionellen Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon házi mézet és pálinkát (rakija) autentikus ajándékként."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Cumpărați miere de casă și rakija ca suveniruri autentice."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică lucrată manual și textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade honey and rakija as authentic souvenirs."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Look for handmade ceramics and traditional textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und ideal zu Fuß ist.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander, ein Plan ist kaum nötig.",
+          "Fragen Sie auf dem Markt nach Kostproben, die Verkäufer sind oft sehr gastfreundlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont kompakt és ideális a gyalogláshoz.",
+          "A legtöbb látnivaló közel van egymáshoz, alig kell tervezni.",
+          "Kérjen kóstolót a piacon, az árusok gyakran nagyon vendégszeretők."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este compact și ideal pentru mers pe jos.",
+          "Majoritatea atracțiilor sunt apropiate, un plan este aproape inutil.",
+          "Cereți mostre la piață, vânzătorii sunt adesea foarte ospitalieri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is compact and ideal for walking.",
+          "Most sights are close to each other, a plan is hardly necessary.",
+          "Ask for samples at the market, the vendors are often very hospitable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Jadar",
+            "hu": "Jadar Múzeum",
+            "ro": "Muzeul din Jadar",
+            "en": "Museum of Jadar"
+          },
+          "coords": [
+            19.228,
+            44.5335
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die reiche Geschichte der Region erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a régió gazdag történelmét.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a explora istoria bogată a regiunii.",
+            "en": "Lock your bike securely before exploring the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Schutz",
+            "hu": "Oltalmazó Szűz Mária-templom",
+            "ro": "Biserica Acoperământul Maicii Domnului",
+            "en": "Church of the Holy Protection"
+          },
+          "coords": [
+            19.2265,
+            44.5315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die spirituelle Atmosphäre und die Architektur aufzunehmen.",
+            "hu": "Egy rövid megálló, hogy magába szívja a spirituális légkört és az építészetet.",
+            "ro": "O scurtă oprire pentru a absorbi atmosfera spirituală și arhitectura.",
+            "en": "A short stop to take in the spiritual atmosphere and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Banja Koviljača",
+            "hu": "Utazás Banja Koviljačába",
+            "ro": "Drum spre Banja Koviljača",
+            "en": "Ride to Banja Koviljača"
+          },
+          "coords": [
+            19.165,
+            44.515
+          ],
+          "category": "scenic drive",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Route führt durch eine angenehme Landschaft, ideal für eine entspannte Radtour.",
+            "hu": "Az útvonal kellemes tájon vezet keresztül, ideális egy pihentető kerékpártúrához.",
+            "ro": "Traseul trece printr-un peisaj plăcut, ideal pentru o plimbare relaxantă cu bicicleta.",
+            "en": "The route passes through pleasant scenery, ideal for a relaxed bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Banja Koviljača Park",
+            "hu": "Banja Koviljača Park",
+            "ro": "Parcul Banja Koviljača",
+            "en": "Banja Koviljača Park"
+          },
+          "coords": [
+            19.164,
+            44.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch einen der schönsten Kurparks Serbiens.",
+            "hu": "Tegye le a kerékpárt, és sétáljon Szerbia egyik legszebb fürdőparkjában.",
+            "ro": "Parcați bicicleta și plimbați-vă prin unul dintre cele mai frumoase parcuri balneare din Serbia.",
+            "en": "Park your bike and stroll through one of Serbia's most beautiful spa parks."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Abendessen",
+            "hu": "Visszaút és vacsora",
+            "ro": "Întoarcere și cină",
+            "en": "Return and Dinner"
+          },
+          "coords": [
+            19.227,
+            44.532
+          ],
+          "category": "gastro",
+          "arrive_at": "15:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Nach der Rückkehr nach Loznica, belohnen Sie sich mit einem herzhaften serbischen Abendessen.",
+            "hu": "Miután visszatért Loznicába, jutalmazza meg magát egy kiadós szerb vacsorával.",
+            "ro": "După întoarcerea în Loznica, răsplătiți-vă cu o cină sârbească copioasă.",
+            "en": "After returning to Loznica, reward yourself with a hearty Serbian dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt im Herzen von Loznica mit einem Besuch des Jadar-Museums. Nach einem kurzen Halt an der Kirche Mariä Schutz schwingen Sie sich auf den Sattel für eine malerische Fahrt zum Kurort Banja Koviljača. Dort erwartet Sie ein ausgedehnter Spaziergang durch den prächtigen Kurpark, eine Oase der Ruhe. Nach der Mittagspause und dem Genuss der eleganten Atmosphäre radeln Sie zurück nach Loznica. Der Nachmittag endet mit einem wohlverdienten, deftigen Abendessen, das die Energie nach einem aktiven Tag wiederherstellt. Abends können Sie die Eindrücke bei einem Drink in der Innenstadt Revue passieren lassen.",
+        "hu": "A kerékpártúra Loznica szívében, a Jadar Múzeum meglátogatásával kezdődik. Egy rövid megálló után az Oltalmazó Szűz Mária-templomnál nyeregbe pattan, hogy egy festői úton eljusson Banja Koviljača fürdővárosába. Ott egy kiterjedt séta várja a pompás fürdőparkban, a nyugalom oázisában. Az ebédszünet és az elegáns hangulat élvezete után visszateker Loznicába. A délután egy jól megérdemelt, kiadós vacsorával zárul, amely helyreállítja az energiát egy aktív nap után. Este a belvárosban egy ital mellett idézheti fel az élményeket.",
+        "ro": "Turul cu bicicleta începe în inima orașului Loznica cu o vizită la Muzeul Jadar. După o scurtă oprire la Biserica Acoperământul Maicii Domnului, urcați pe bicicletă pentru o plimbare pitorească spre stațiunea balneară Banja Koviljača. Acolo vă așteaptă o plimbare extinsă prin parcul balnear magnific, o oază de liniște. După pauza de prânz și savurarea atmosferei elegante, pedalați înapoi spre Loznica. După-amiaza se încheie cu o cină copioasă binemeritată, care reface energia după o zi activă. Seara puteți rememora impresiile la o băutură în centrul orașului.",
+        "en": "The bike tour starts in the heart of Loznica with a visit to the Jadar Museum. After a brief stop at the Church of the Holy Protection, you'll hop on your bike for a scenic ride to the spa town of Banja Koviljača. An extensive walk through the magnificent spa park, an oasis of tranquility, awaits you there. After a lunch break and enjoying the elegant atmosphere, you'll cycle back to Loznica. The afternoon concludes with a well-deserved, hearty dinner to restore your energy after an active day. In the evening, you can reflect on your experiences over a drink downtown."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein großes, gewürztes Fleischpatty, oft mit Kajmak serviert."
+          },
+          {
+            "name": "Riblja čorba",
+            "tip": "Eine scharfe Fischsuppe, besonders gut in Restaurants in der Nähe der Drina."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Der berühmte serbische Pflaumenschnaps, ein Muss für jeden Besucher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pljeskavica",
+            "tip": "Nagy, fűszeres húspogácsa, gyakran kajmakkal tálalva."
+          },
+          {
+            "name": "Riblja čorba",
+            "tip": "Csípős halászlé, különösen jó a Drina folyóhoz közeli éttermekben."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "A híres szerb szilvapálinka, minden látogatónak kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pljeskavica",
+            "tip": "O chiftea mare, condimentată, adesea servită cu kajmak."
+          },
+          {
+            "name": "Riblja čorba",
+            "tip": "O ciorbă de pește picantă, deosebit de bună în restaurantele de lângă râul Drina."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "Faimoasa țuică de prune sârbească, obligatorie pentru fiecare vizitator."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pljeskavica",
+            "tip": "A large, seasoned meat patty, often served with kajmak."
+          },
+          {
+            "name": "Riblja čorba",
+            "tip": "A spicy fish soup, especially good in restaurants near the Drina River."
+          },
+          {
+            "name": "Šljivovica",
+            "tip": "The famous Serbian plum brandy, a must-try for any visitor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie dem Gesang der Vögel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gučevo Berg",
+            "tip": "Eine anspruchsvollere Radtour für einen atemberaubenden Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Keressen egy eldugott padot, és hallgassa a madarak énekét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gučevo-hegy",
+            "tip": "Egy kihívást jelentő kerékpártúra egy lélegzetelállító panorámáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Banja Koviljača",
+            "tip": "Găsiți o bancă retrasă și ascultați cântecul păsărilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muntele Gučevo",
+            "tip": "Un tur cu bicicleta mai solicitant pentru o panoramă uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Find a secluded bench and listen to the birdsong.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gučevo Mountain",
+            "tip": "A more challenging bike ride for a breathtaking panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Banja Koviljača",
+            "tip": "Suchen Sie nach Produkten, die mit dem berühmten Heilwasser in Verbindung stehen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder schnelle Reparaturen, falls nötig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak Banja Koviljačából",
+            "tip": "Keressen a híres gyógyvízzel kapcsolatos termékeket."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Tartozékokért vagy gyors javításokért, ha szükséges."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Banja Koviljača",
+            "tip": "Căutați produse legate de faimoasa apă medicinală."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs from Banja Koviljača",
+            "tip": "Look for products related to the famous medicinal water."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "For accessories or quick repairs if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt nach Banja Koviljača.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die längere Strecke.",
+          "Die Wege im Kurpark sind ideal zum Radfahren, aber nehmen Sie Rücksicht auf Fußgänger."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást, mielőtt elindul Banja Koviljačába.",
+          "Vigyen magával egy vizes palackot, különösen a hosszabb útra.",
+          "A fürdőpark útjai ideálisak a kerékpározáshoz, de legyen tekintettel a gyalogosokra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca spre Banja Koviljača.",
+          "Luați o sticlă de apă, mai ales pentru traseul mai lung.",
+          "Căile din parcul balnear sunt ideale pentru ciclism, dar aveți grijă la pietoni."
+        ],
+        "en": [
+          "Check your tire pressure before heading to Banja Koviljača.",
+          "Bring a water bottle, especially for the longer stretch.",
+          "The paths in the spa park are great for cycling, but be considerate of pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tršić Ethno-Dorf",
+            "hu": "Tršić etnofalu",
+            "ro": "Satul Etnic Tršić",
+            "en": "Tršić Ethno-Village"
+          },
+          "coords": [
+            19.285,
+            44.475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und nehmen Sie sich Zeit, die traditionellen Holzhäuser zu erkunden.",
+            "hu": "Parkoljon a bejáratnál, és szánjon időt a hagyományos faházak felfedezésére.",
+            "ro": "Parcați la intrare și acordați-vă timp pentru a explora casele tradiționale din lemn.",
+            "en": "Park at the entrance and take your time exploring the traditional wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Vuk Karadžić",
+            "hu": "Vuk Karadžić szülőháza",
+            "ro": "Casa lui Vuk Karadžić",
+            "en": "House of Vuk Karadžić"
+          },
+          "coords": [
+            19.286,
+            44.474
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Ethno-Dorf. Erleben Sie die bescheidenen Anfänge des großen Reformators.",
+            "hu": "Egy rövid séta az etnofalutól. Tapasztalja meg a nagy reformer szerény kezdeteit.",
+            "ro": "La o scurtă plimbare de satul etnic. Experimentați începuturile umile ale marelui reformator.",
+            "en": "A short walk from the ethno-village. Experience the humble beginnings of the great reformer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Tronoša",
+            "hu": "Tronoša kolostor",
+            "ro": "Mănăstirea Tronoša",
+            "en": "Tronoša Monastery"
+          },
+          "coords": [
+            19.335,
+            44.455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Ort tiefer Spiritualität und Geschichte. Kleiden Sie sich respektvoll.",
+            "hu": "A mély spiritualitás és történelem helye. Öltözzön tisztelettudóan.",
+            "ro": "Un loc de profundă spiritualitate și istorie. Îmbrăcați-vă respectuos.",
+            "en": "A place of deep spirituality and history. Dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Gučevo Berg",
+            "hu": "Gučevo-hegy",
+            "ro": "Muntele Gučevo",
+            "en": "Gučevo Mountain"
+          },
+          "coords": [
+            19.16,
+            44.48
+          ],
+          "category": "natural features",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Denkmal für die Schlacht von Gučevo, um die beste Aussicht zu genießen.",
+            "hu": "Hajtson fel a gučevói csata emlékművéhez a legjobb kilátásért.",
+            "ro": "Conduceți până la monumentul bătăliei de la Gučevo pentru cea mai bună priveliște.",
+            "en": "Drive up to the monument for the Battle of Gučevo for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            19.161,
+            44.481
+          ],
+          "category": "gastro",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant in der Nähe des Gipfels für eine unvergessliche Mahlzeit.",
+            "hu": "Keressen egy éttermet a csúcs közelében egy felejthetetlen étkezéshez.",
+            "ro": "Căutați un restaurant lângă vârf pentru o masă de neuitat.",
+            "en": "Find a restaurant near the summit for an unforgettable meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Banja Koviljača Park",
+            "hu": "Banja Koviljača Park",
+            "ro": "Parcul Banja Koviljača",
+            "en": "Banja Koviljača Park"
+          },
+          "coords": [
+            19.164,
+            44.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang am späten Nachmittag durch den eleganten Kurpark.",
+            "hu": "Egy pihentető késő délutáni séta az elegáns fürdőparkban.",
+            "ro": "O plimbare relaxantă după-amiaza târziu prin parcul balnear elegant.",
+            "en": "A relaxing late afternoon stroll through the elegant spa park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Loznica",
+            "hu": "Visszatérés Loznicába",
+            "ro": "Întoarcere în Loznica",
+            "en": "Return to Loznica"
+          },
+          "coords": [
+            19.227,
+            44.532
+          ],
+          "category": "city",
+          "arrive_at": "18:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einem Café im Zentrum von Loznica ausklingen.",
+            "hu": "Zárja a napot egy kávézóban Loznica központjában.",
+            "ro": "Încheiați ziua la o cafenea în centrul orașului Loznica.",
+            "en": "End the day at a café in the center of Loznica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Schätze rund um Loznica. Der Tag beginnt in Tršić, dem Geburtsort von Vuk Karadžić, wo Sie das Ethno-Dorf und sein Geburtshaus erkunden. Ein kurzer Abstecher führt Sie zum spirituellen Kloster Tronoša. Am Mittag fahren Sie auf den Gučevo-Berg, genießen die Panoramaaussicht und ein Mittagessen in luftiger Höhe. Der Nachmittag ist der Entspannung gewidmet: ein Spaziergang durch den prächtigen Park von Banja Koviljača. Nach diesem abwechslungsreichen Tag kehren Sie voller Eindrücke nach Loznica zurück.",
+        "hu": "Autóval fedezheti fel Loznica környékének kincseit. A nap Tršićben, Vuk Karadžić szülőhelyén kezdődik, ahol felfedezheti az etnofalut és szülőházát. Egy rövid kitérő a spirituális Tronoša kolostorhoz vezet. Délben felhajt a Gučevo-hegyre, ahol élvezheti a panorámát és egy ebédet a magasban. A délután a pihenésé: séta Banja Koviljača csodálatos parkjában. E változatos nap után tele élményekkel tér vissza Loznicába.",
+        "ro": "Cu mașina, descoperiți comorile din jurul Loznicăi. Ziua începe în Tršić, locul de naștere al lui Vuk Karadžić, unde explorați satul etnic și casa sa natală. O scurtă deviere vă duce la mănăstirea spirituală Tronoša. La prânz, urcați pe Muntele Gučevo, bucurându-vă de priveliștea panoramică și de un prânz la înălțime. După-amiaza este dedicată relaxării: o plimbare prin parcul magnific din Banja Koviljača. După această zi variată, vă întoarceți la Loznica plini de impresii.",
+        "en": "By car, you'll discover the treasures around Loznica. The day begins in Tršić, the birthplace of Vuk Karadžić, where you'll explore the ethno-village and his birth house. A short detour takes you to the spiritual Tronoša Monastery. At noon, you'll drive up Gučevo Mountain, enjoying the panoramic view and lunch at altitude. The afternoon is dedicated to relaxation: a walk through the magnificent park of Banja Koviljača. After this varied day, you return to Loznica full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Eine Spezialität in den Bergrestaurants auf dem Gučevo."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Ein cremiger, gesalzener Milchrahm, der zu fast allem passt."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Ein herzhafter Käsekuchen aus Filoteig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Különlegesség a Gučevo-hegyi éttermekben."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Krémes, sós tejföl, ami szinte mindenhez illik."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Sós, túrós rétes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate în restaurantele montane de pe Gučevo."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "O smântână cremoasă și sărată care se potrivește cu aproape orice."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată cu brânză, din foi de plăcint."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the spit",
+            "tip": "A specialty in the mountain restaurants on Gučevo."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "A creamy, salted milk cream that goes with almost everything."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A savory cheese pie made from filo pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Tronoša",
+            "tip": "Die Stille und die spirituelle Aura sind tief beruhigend.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gučevo Gipfel",
+            "tip": "Abseits des Denkmals finden Sie ruhige Pfade mit toller Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Weitläufige Grünflächen laden zum Verweilen und Entspannen ein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tronoša kolostor",
+            "tip": "A csend és a spirituális aura mélyen megnyugtató.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gučevo-csúcs",
+            "tip": "Az emlékműtől távolabb csendes ösvényeket talál, nagyszerű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "A tágas zöld területek pihenésre és kikapcsolódásra csábítanak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Tronoša",
+            "tip": "Liniștea și aura spirituală sunt profund calmante.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful Gučevo",
+            "tip": "Departe de monument, veți găsi poteci liniștite cu priveliști grozave.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Banja Koviljača",
+            "tip": "Spațiile verzi extinse vă invită să zăboviți și să vă relaxați.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tronoša Monastery",
+            "tip": "The silence and spiritual aura are deeply calming.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gučevo Summit",
+            "tip": "Away from the monument, you'll find quiet paths with great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Expansive green spaces invite you to linger and relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk aus Tršić",
+            "tip": "Kaufen Sie handgeschnitzte Holzgegenstände oder gewebte Textilien."
+          },
+          {
+            "name": "Kloster-Souvenirs",
+            "tip": "Im Kloster Tronoša finden Sie Ikonen, Weihrauch und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek Tršićből",
+            "tip": "Vásároljon kézzel faragott fatárgyakat vagy szőtt textileket."
+          },
+          {
+            "name": "Kolostori ajándéktárgyak",
+            "tip": "A Tronoša kolostorban ikonokat, tömjént és mézet talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat din Tršić",
+            "tip": "Cumpărați obiecte din lemn sculptate manual sau textile țesute."
+          },
+          {
+            "name": "Suveniruri de la mănăstire",
+            "tip": "La Mănăstirea Tronoša veți găsi icoane, tămâie și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts from Tršić",
+            "tip": "Buy hand-carved wooden items or woven textiles."
+          },
+          {
+            "name": "Monastery Souvenirs",
+            "tip": "At Tronoša Monastery you will find icons, incense, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie vor der Fahrt in die Berge voll.",
+          "Die Straßen zu den Sehenswürdigkeiten sind kurvenreich, fahren Sie vorsichtig.",
+          "Parkmöglichkeiten sind in der Regel gut ausgeschildert und verfügbar."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt a hegyekbe indul.",
+          "A látnivalókhoz vezető utak kanyargósak, vezessen óvatosan.",
+          "A parkolási lehetőségek általában jól ki vannak táblázva és elérhetők."
+        ],
+        "ro": [
+          "Faceți plinul înainte de a porni spre munte.",
+          "Drumurile către atracții sunt sinuoase, conduceți cu prudență.",
+          "Parcările sunt de obicei bine semnalizate și disponibile."
+        ],
+        "en": [
+          "Fill up your tank before heading into the mountains.",
+          "The roads to the sights are winding, drive carefully.",
+          "Parking is usually well-signposted and available."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vuk Karadžić Denkmal",
+            "hu": "Vuk Karadžić emlékmű",
+            "ro": "Monumentul lui Vuk Karadžić",
+            "en": "Vuk Karadžić Monument"
+          },
+          "coords": [
+            19.2255,
+            44.5328
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Treffpunkt der Stadt.",
+            "hu": "Kezdje a város központi találkozóhelyén.",
+            "ro": "Începeți la punctul central de întâlnire al orașului.",
+            "en": "Start at the city's central meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Jadar",
+            "hu": "Jadar Múzeum",
+            "ro": "Muzeul din Jadar",
+            "en": "Museum of Jadar"
+          },
+          "coords": [
+            19.228,
+            44.5335
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Denkmal entfernt, entdecken Sie die lokale Geschichte.",
+            "hu": "Egy rövid sétára az emlékműtől, fedezze fel a helyi történelmet.",
+            "ro": "La o scurtă plimbare de monument, descoperiți istoria locală.",
+            "en": "A short walk from the monument, discover the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Banja Koviljača",
+            "hu": "Busz Banja Koviljačába",
+            "ro": "Autobuz spre Banja Koviljača",
+            "en": "Bus to Banja Koviljača"
+          },
+          "coords": [
+            19.165,
+            44.515
+          ],
+          "category": "transit",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig vom Busbahnhof Loznica. Kaufen Sie Ihr Ticket im Voraus.",
+            "hu": "A buszok rendszeresen indulnak a loznicai buszpályaudvarról. Vegye meg a jegyét előre.",
+            "ro": "Autobuzele pleacă regulat de la autogara din Loznica. Cumpărați biletul în avans.",
+            "en": "Buses run regularly from the Loznica bus station. Buy your ticket in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Banja Koviljača Park",
+            "hu": "Banja Koviljača Park",
+            "ro": "Parcul Banja Koviljača",
+            "en": "Banja Koviljača Park"
+          },
+          "coords": [
+            19.164,
+            44.514
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof in Banja Koviljača ist es nur ein kurzer Spaziergang zum prächtigen Park.",
+            "hu": "Banja Koviljača buszpályaudvaráról csak egy rövid séta a csodálatos park.",
+            "ro": "De la stația de autobuz din Banja Koviljača este doar o scurtă plimbare până la parcul magnific.",
+            "en": "From the bus station in Banja Koviljača, it's just a short walk to the magnificent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Banja Koviljača",
+            "hu": "Ebéd Banja Koviljačában",
+            "ro": "Prânz în Banja Koviljača",
+            "en": "Lunch in Banja Koviljača"
+          },
+          "coords": [
+            19.166,
+            44.513
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die elegante Atmosphäre des Kurortes in einem der traditionellen Restaurants.",
+            "hu": "Élvezze a fürdőváros elegáns hangulatát az egyik hagyományos étteremben.",
+            "ro": "Bucurați-vă de atmosfera elegantă a stațiunii într-unul dintre restaurantele tradiționale.",
+            "en": "Enjoy the elegant atmosphere of the spa town in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück nach Loznica",
+            "hu": "Busz vissza Loznicába",
+            "ro": "Autobuz înapoi la Loznica",
+            "en": "Bus back to Loznica"
+          },
+          "coords": [
+            19.227,
+            44.532
+          ],
+          "category": "transit",
+          "arrive_at": "16:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für den Rückweg ein und überprüfen Sie den Busfahrplan.",
+            "hu": "Tervezzen elegendő időt a visszaútra, és ellenőrizze a buszmenetrendet.",
+            "ro": "Planificați suficient timp pentru întoarcere și verificați orarul autobuzelor.",
+            "en": "Plan enough time for the return trip and check the bus schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag verbindet das städtische Leben von Loznica mit der eleganten Ruhe von Banja Koviljača, alles mit öffentlichen Verkehrsmitteln. Der Morgen beginnt zu Fuß im Zentrum von Loznica, mit Besuchen des Vuk-Denkmals und des Jadar-Museums. Anschließend bringt Sie ein kurzer Bus-Hop in den Kurort Banja Koviljača. Dort verbringen Sie den Mittag mit einem Spaziergang durch den berühmten Park und einem entspannten Mittagessen. Der Nachmittag bringt Sie mit dem Bus zurück nach Loznica, wo Sie den Rest des Tages nach Belieben gestalten können, sei es mit Shopping oder einem Kaffee.",
+        "hu": "Ez a nap összeköti Loznica városi életét Banja Koviljača elegáns nyugalmával, mindezt tömegközlekedéssel. A reggel Loznica központjában gyalogosan kezdődik, a Vuk-emlékmű és a Jadar Múzeum meglátogatásával. Ezután egy rövid buszozás elviszi Önt Banja Koviljača fürdővárosába. Ott a délt a híres parkban sétálva és egy kellemes ebéddel tölti. Délután a busz visszaviszi Loznicába, ahol a nap hátralévő részét tetszése szerint töltheti, legyen az vásárlás vagy egy kávé.",
+        "ro": "Această zi combină viața urbană din Loznica cu liniștea elegantă din Banja Koviljača, totul folosind transportul public. Dimineața începe pe jos în centrul Loznicăi, cu vizite la monumentul Vuk și Muzeul Jadar. Apoi, o scurtă călătorie cu autobuzul vă duce la stațiunea balneară Banja Koviljača. Acolo petreceți amiaza plimbându-vă prin faimosul parc și luând un prânz relaxant. După-amiaza vă aduce înapoi la Loznica cu autobuzul, unde puteți petrece restul zilei după bunul plac, fie la cumpărături, fie la o cafea.",
+        "en": "This day combines the urban life of Loznica with the elegant tranquility of Banja Koviljača, all using public transport. The morning starts on foot in the center of Loznica, with visits to the Vuk monument and the Jadar Museum. Then, a short bus hop takes you to the spa town of Banja Koviljača. You'll spend midday strolling through the famous park and having a relaxed lunch. The afternoon brings you back to Loznica by bus, where you can spend the rest of the day as you please, whether it's shopping or having a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Ein herzhaftes Fladenbrot, gefüllt mit Ei und Kajmak, perfekt für einen stärkenden Start."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Die serbische Antwort auf Frikadellen, serviert in Fladenbrot mit Zwiebeln."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Ein gerolltes und paniertes Schnitzel, gefüllt mit Kajmak."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "Kiadós lepény, tojással és kajmakkal töltve, tökéletes egy energiadús kezdéshez."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "A szerb válasz a fasírtra, lepényben, hagymával tálalva."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Feltekert, panírozott szelet, kajmakkal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "O pâine plată consistentă, umplută cu ou și kajmak, perfectă pentru un început energizant."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "Răspunsul sârbesc la chiftele, servit în lipie cu ceapă."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "Un șnițel rulat și pane, umplut cu kajmak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Komplet lepinja",
+            "tip": "A hearty flatbread filled with egg and kajmak, perfect for a strong start."
+          },
+          {
+            "name": "Ćevapi",
+            "tip": "The Serbian answer to meatballs, served in flatbread with onions."
+          },
+          {
+            "name": "Karađorđeva šnicla",
+            "tip": "A rolled and breaded schnitzel, filled with kajmak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Weitläufige Grünflächen laden zum Verweilen und Entspannen ein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Štira",
+            "tip": "Ein ruhiger Spaziergang am späten Nachmittag entlang des Flusses in Loznica.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "A tágas zöld területek pihenésre és kikapcsolódásra csábítanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Štira folyó partja",
+            "tip": "Egy csendes késő délutáni séta a folyó mentén Loznicában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Banja Koviljača",
+            "tip": "Spațiile verzi extinse vă invită să zăboviți și să vă relaxați.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Štira",
+            "tip": "O plimbare liniștită după-amiaza târziu de-a lungul râului în Loznica.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banja Koviljača Park",
+            "tip": "Expansive green spaces invite you to linger and relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank of the Štira River",
+            "tip": "A quiet walk in the late afternoon along the river in Loznica.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachten Honig und Rakija als authentische Souvenirs."
+          },
+          {
+            "name": "Hauptstraße von Loznica",
+            "tip": "Hier finden Sie eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon házi mézet és pálinkát (rakija) autentikus ajándékként."
+          },
+          {
+            "name": "Loznica főutcája",
+            "tip": "Itt helyi butikok és ismert márkák keverékét találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Cumpărați miere de casă și rakija ca suveniruri autentice."
+          },
+          {
+            "name": "Strada principală din Loznica",
+            "tip": "Aici veți găsi un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade honey and rakija as authentic souvenirs."
+          },
+          {
+            "name": "Loznica's Main Street",
+            "tip": "Here you will find a mix of local boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich am Busbahnhof über die genauen Abfahrtszeiten und Haltestellen.",
+          "Haben Sie Kleingeld für das Busticket bereit.",
+          "Die Busfahrt ist eine gute Gelegenheit, die Landschaft zwischen den beiden Städten zu sehen."
+        ],
+        "hu": [
+          "Tájékozódjon a buszpályaudvaron a pontos indulási időkről és megállókról.",
+          "Készítsen elő aprópénzt a buszjegyhez.",
+          "A buszozás jó alkalom arra, hogy megnézze a két város közötti tájat."
+        ],
+        "ro": [
+          "Interesați-vă la autogară despre orele exacte de plecare și stații.",
+          "Pregătiți mărunțiș pentru biletul de autobuz.",
+          "Călătoria cu autobuzul este o ocazie bună de a vedea peisajul dintre cele două orașe."
+        ],
+        "en": [
+          "Find out about the exact departure times and stops at the bus station.",
+          "Have small change ready for the bus ticket.",
+          "The bus ride is a good opportunity to see the landscape between the two cities."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1354 @@
+{
+  "city_id": "greece-karpenisi-cities-v2",
+  "anchor": {
+    "name": "Karpenisi",
+    "coords": [
+      21.7944,
+      38.9122
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            21.7944,
+            38.9122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der traditionellen Kafeneia am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hagyományos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele tradiționale din piață.",
+            "en": "Start your day with a coffee at one of the traditional 'kafeneia' on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Markos-Botsaris-Denkmal",
+            "hu": "Markos Botsaris emlékmű",
+            "ro": "Monumentul Markos Botsaris",
+            "en": "Markos Botsaris Monument"
+          },
+          "coords": [
+            21.7938,
+            38.9125
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine schnelle Hommage an den Helden der griechischen Revolution.",
+            "hu": "Egy gyors tisztelgés a görög forradalom hőse előtt.",
+            "ro": "Un omagiu rapid adus eroului Revoluției Grecești.",
+            "en": "A quick tribute to the hero of the Greek Revolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.795,
+            38.913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Wandmalereien und die ikonische byzantinische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző falfestményeket és az ikonikus bizánci építészetet.",
+            "ro": "Fiți atenți la picturile murale impresionante și la arhitectura bizantină iconică.",
+            "en": "Pay attention to the impressive murals and the iconic Byzantine architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum von Karpenisi",
+            "hu": "Karpenisi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Karpenisi",
+            "en": "Folklore Museum of Karpenisi"
+          },
+          "coords": [
+            21.796,
+            38.9115
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und die Traditionen der Region Evrytania.",
+            "hu": "Fedezze fel Evritania régió gazdag történelmét és hagyományait.",
+            "ro": "Descoperiți istoria bogată și tradițiile regiunii Evrytania.",
+            "en": "Discover the rich history and traditions of the Evrytania region."
+          }
+        },
+        {
+          "name": {
+            "de": "Saloon Park",
+            "hu": "Saloon Park",
+            "ro": "Parcul Saloon",
+            "en": "Saloon Park"
+          },
+          "coords": [
+            21.79,
+            38.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen entspannten Spaziergang und um die frische Bergluft zu genießen. Ideal für ein Picknick.",
+            "hu": "Kellemes hely egy pihentető sétához és a friss hegyi levegő élvezetéhez. Ideális piknikezéshez.",
+            "ro": "Un loc minunat pentru o plimbare relaxantă și pentru a vă bucura de aerul proaspăt de munte. Ideal pentru un picnic.",
+            "en": "A lovely spot for a relaxing walk and to enjoy the fresh mountain air. Ideal for a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Karpenisi auf dem Zentralplatz. Nach einer kurzen Würdigung der lokalen Helden führt Sie Ihr Weg zur prächtigen Kathedrale der Heiligen Dreifaltigkeit. Am Mittag tauchen Sie im Volkskundemuseum in die lokale Kultur ein. Am Nachmittag können Sie im Saloon Park entspannen und die ruhige Atmosphäre der Berge genießen. Der Abend ist perfekt für ein herzhaftes Essen in einer traditionellen Taverne.",
+        "hu": "Kezdje a napot Karpenisi szívében, a központi téren. A helyi hősök előtti rövid tisztelgés után az út a csodálatos Szentháromság-székesegyházhoz vezet. Délben merüljön el a helyi kultúrában a Néprajzi Múzeumban. Délután pihenjen a Saloon Parkban, és élvezze a hegyek nyugodt légkörét. Az este tökéletes egy kiadós vacsorához egy hagyományos tavernában.",
+        "ro": "Începeți ziua în inima orașului Karpenisi, în Piața Centrală. După un scurt omagiu adus eroilor locali, drumul vă duce la magnifica Catedrală a Sfintei Treimi. La prânz, scufundați-vă în cultura locală la Muzeul de Folclor. După-amiaza, relaxați-vă în Parcul Saloon și bucurați-vă de atmosfera liniștită a munților. Seara este perfectă pentru o masă copioasă la o tavernă tradițională.",
+        "en": "Start your day in the heart of Karpenisi at the Central Square. After a brief tribute to local heroes, your path leads to the magnificent Cathedral of the Holy Trinity. At midday, immerse yourself in the local culture at the Folklore Museum. In the afternoon, relax at Saloon Park and enjoy the tranquil mountain atmosphere. The evening is perfect for a hearty meal at a traditional tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Würste & Kontosouvli",
+            "tip": "Probieren Sie die gegrillten Fleischspezialitäten in einer Taverne in der Innenstadt, begleitet von lokalem Wein."
+          },
+          {
+            "name": "Tsalafouti-Käse",
+            "tip": "Ein cremiger Weichkäse, der oft als Vorspeise oder in Salaten serviert wird."
+          },
+          {
+            "name": "Bergkräuter-Pasteten (Pites)",
+            "tip": "Handgemachte Pasteten gefüllt mit wilden Gräsern und Kräutern aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kolbászok és Kontosouvli",
+            "tip": "Kóstolja meg a grillezett húsételeket egy belvárosi tavernában, helyi bor kíséretében."
+          },
+          {
+            "name": "Tsalafouti sajt",
+            "tip": "Krémes, lágy sajt, amelyet gyakran előételként vagy salátákban szolgálnak fel."
+          },
+          {
+            "name": "Hegyi fűszeres piték (Pites)",
+            "tip": "Kézzel készített piték, vadon termő füvekkel és hegyi fűszernövényekkel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați locali & Kontosouvli",
+            "tip": "Încercați specialitățile de carne la grătar la o tavernă din centrul orașului, însoțite de vin local."
+          },
+          {
+            "name": "Brânză Tsalafouti",
+            "tip": "O brânză moale și cremoasă, adesea servită ca aperitiv sau în salate."
+          },
+          {
+            "name": "Plăcinte cu ierburi de munte (Pites)",
+            "tip": "Plăcinte făcute manual, umplute cu ierburi sălbatice și verdețuri de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sausages & Kontosouvli",
+            "tip": "Try the grilled meat specialties at a downtown taverna, accompanied by local wine."
+          },
+          {
+            "name": "Tsalafouti Cheese",
+            "tip": "A creamy, soft cheese often served as an appetizer or in salads."
+          },
+          {
+            "name": "Mountain Herb Pies (Pites)",
+            "tip": "Handmade pies filled with wild greens and mountain herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Karpenisiotis",
+            "tip": "Ein ruhiger Weg entlang des Flusses, etwas außerhalb des Stadtzentrums, perfekt für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Saloon Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick auf die umliegenden Berge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-Berg",
+            "tip": "Eine kurze Fahrt bringt Sie zu atemberaubenden Aussichtspunkten mit Blick auf die Stadt und darüber hinaus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Karpenisiotis folyó mentén",
+            "tip": "Egy csendes ösvény a folyó mentén, kicsit a városközponton kívül, tökéletes a békés elvonuláshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Saloon Parkból",
+            "tip": "Keressen egy csendes padot, és élvezze a panorámás kilátást a környező hegyekre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-hegy",
+            "tip": "Egy rövid autóút lélegzetelállító kilátópontokhoz visz, ahonnan a városra és azon túlra nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Karpenisiotis",
+            "tip": "O potecă liniștită de-a lungul râului, chiar în afara centrului orașului, perfectă pentru o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Parcul Saloon",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică a munților din jur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Muntele Velouchi",
+            "tip": "O scurtă călătorie cu mașina vă duce la puncte de belvedere uimitoare cu vedere la oraș și dincolo de el.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Karpenisiotis River",
+            "tip": "A quiet path along the river, just outside the town center, perfect for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Saloon Park",
+            "tip": "Find a quiet bench and enjoy the panoramic views of the surrounding mountains.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi Mountain",
+            "tip": "A short drive will take you to stunning viewpoints overlooking the town and beyond.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Kaufen Sie Tannen- oder Kastanienhonig und aromatische Bergkräuter in den lokalen Geschäften."
+          },
+          {
+            "name": "Handgefertigte Holzartikel",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és fűszernövények",
+            "tip": "Vásároljon fenyő- vagy gesztenyemézet és aromás hegyi fűszernövényeket a helyi boltokban."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Keressen egyedi ajándéktárgyakat, amelyeket helyi kézművesek készítettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Cumpărați miere de brad sau de castan și ierburi aromatice de munte din magazinele locale."
+          },
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Căutați suveniruri unice, realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Herbs",
+            "tip": "Shop for fir or chestnut honey and aromatic mountain herbs at the local shops."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for unique souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Die meisten Geschäfte und Museen haben möglicherweise eine Mittagspause, planen Sie also entsprechend.",
+          "Halten Sie immer eine Flasche Wasser bei sich, besonders in den Sommermonaten.",
+          "Zögern Sie nicht, Einheimische nach dem Weg oder Empfehlungen zu fragen; sie sind für ihre Gastfreundschaft bekannt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "A legtöbb üzlet és múzeum tarthat ebédszünetet, ezért tervezzen ennek megfelelően.",
+          "Mindig tartson magánál egy üveg vizet, különösen a nyári hónapokban.",
+          "Ne habozzon megkérdezni a helyieket útbaigazításért vagy ajánlásokért; híresek a vendégszeretetükről."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul orașului poate fi deluros.",
+          "Majoritatea magazinelor și muzeelor pot avea o pauză de prânz, așa că planificați-vă în consecință.",
+          "Păstrați întotdeauna o sticlă de apă la dumneavoastră, mai ales în lunile de vară.",
+          "Nu ezitați să întrebați localnicii despre direcții sau recomandări; sunt cunoscuți pentru ospitalitatea lor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town center can be hilly.",
+          "Most shops and museums may have a midday break, so plan accordingly.",
+          "Always keep a bottle of water with you, especially during summer months.",
+          "Don't hesitate to ask locals for directions or recommendations; they are known for their hospitality."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz",
+            "hu": "Központi tér",
+            "ro": "Piața Centrală",
+            "en": "Central Square"
+          },
+          "coords": [
+            21.7944,
+            38.9122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um sich zu orientieren und die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a tájékozódáshoz és a város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare perfect pentru a vă orienta și a absorbi atmosfera orașului.",
+            "en": "Perfect starting point to get your bearings and soak up the town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum von Karpenisi",
+            "hu": "Karpenisi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Karpenisi",
+            "en": "Folklore Museum of Karpenisi"
+          },
+          "coords": [
+            21.796,
+            38.9115
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die faszinierende Vergangenheit der Region ein.",
+            "hu": "Parkolja le a kerékpárját a közelben, és merüljön el a régió lenyűgöző múltjában.",
+            "ro": "Parcați bicicleta în apropiere și pătrundeți în trecutul fascinant al regiunii.",
+            "en": "Park your bike nearby and dive into the fascinating past of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.795,
+            38.913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die spirituelle Hauptkirche der Stadt zu bewundern.",
+            "hu": "Egy rövid megálló a város spirituális központjának megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira biserica spirituală principală a orașului.",
+            "en": "A short stop to admire the town's main spiritual landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Saloon Park",
+            "hu": "Saloon Park",
+            "ro": "Parcul Saloon",
+            "en": "Saloon Park"
+          },
+          "coords": [
+            21.79,
+            38.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für eine entspannte Mittagspause im Grünen.",
+            "hu": "Tekerjen el a parkba egy pihentető ebédszünetre a zöldben.",
+            "ro": "Mergeți cu bicicleta până la parc pentru o pauză de prânz relaxantă în mijlocul naturii.",
+            "en": "Cycle to the park for a relaxing lunch break amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt in Richtung Koryschades",
+            "hu": "Kilátópont Koryschades irányában",
+            "ro": "Punct de belvedere spre Koryschades",
+            "en": "Viewpoint towards Koryschades"
+          },
+          "coords": [
+            21.775,
+            38.9
+          ],
+          "category": "natural features",
+          "arrive_at": "13:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour aus der Stadt hinaus für einen atemberaubenden Blick auf die umliegende Landschaft.",
+            "hu": "Egy rövid biciklitúra a városból, ahonnan lenyűgöző kilátás nyílik a környező tájra.",
+            "ro": "O scurtă plimbare cu bicicleta în afara orașului pentru o priveliște uluitoare a peisajului înconjurător.",
+            "en": "A short bike ride out of town for a breathtaking view of the surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich Ihr Fahrrad für eine aktive Erkundung von Karpenisi. Vom zentralen Platz aus radeln Sie zum Volkskundemuseum, um einen Einblick in die Geschichte zu bekommen. Danach besuchen Sie die Kathedrale, bevor Sie im Saloon Park eine Pause einlegen. Am Nachmittag führt Sie eine belebende Fahrt zu einem Aussichtspunkt mit Blick auf das Tal und das Dorf Koryschades. Schließen Sie den Tag mit einem wohlverdienten Abendessen ab und genießen Sie lokale Spezialitäten.",
+        "hu": "Pattanjon biciklire Karpenisi aktív felfedezéséhez. A központi térről tekerjen el a Néprajzi Múzeumhoz, hogy bepillantást nyerjen a történelembe. Ezután látogasson el a székesegyházba, mielőtt szünetet tart a Saloon Parkban. Délután egy élénkítő kerékpártúra vezet egy kilátóponthoz, ahonnan a völgyre és Koryschades falura nyílik kilátás. Zárja a napot egy jól megérdemelt vacsorával, helyi specialitásokat kóstolva.",
+        "ro": "Luați bicicleta pentru o explorare activă a Karpenisi. Din piața centrală, pedalați spre Muzeul de Folclor pentru o incursiune în istorie. După aceea, vizitați catedrala înainte de a lua o pauză în Parcul Saloon. După-amiaza, o plimbare revigorantă vă duce la un punct de belvedere cu vedere la vale și la satul Koryschades. Încheiați ziua cu o cină binemeritată, savurând specialități locale.",
+        "en": "Grab your bike for an active exploration of Karpenisi. From the central square, cycle to the Folklore Museum for a dose of history. Afterwards, visit the cathedral before taking a break at Saloon Park. In the afternoon, an invigorating ride takes you to a viewpoint overlooking the valley towards Koryschades village. End your day with a well-deserved dinner, enjoying local delicacies."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Würste & Kontosouvli",
+            "tip": "Probieren Sie die gegrillten Fleischspezialitäten in einer Taverne in der Innenstadt, begleitet von lokalem Wein."
+          },
+          {
+            "name": "Tsalafouti-Käse",
+            "tip": "Ein cremiger Weichkäse, der oft als Vorspeise oder in Salaten serviert wird."
+          },
+          {
+            "name": "Bergkräuter-Pasteten (Pites)",
+            "tip": "Handgemachte Pasteten gefüllt mit wilden Gräsern und Kräutern aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kolbászok és Kontosouvli",
+            "tip": "Kóstolja meg a grillezett húsételeket egy belvárosi tavernában, helyi bor kíséretében."
+          },
+          {
+            "name": "Tsalafouti sajt",
+            "tip": "Krémes, lágy sajt, amelyet gyakran előételként vagy salátákban szolgálnak fel."
+          },
+          {
+            "name": "Hegyi fűszeres piték (Pites)",
+            "tip": "Kézzel készített piték, vadon termő füvekkel és hegyi fűszernövényekkel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați locali & Kontosouvli",
+            "tip": "Încercați specialitățile de carne la grătar la o tavernă din centrul orașului, însoțite de vin local."
+          },
+          {
+            "name": "Brânză Tsalafouti",
+            "tip": "O brânză moale și cremoasă, adesea servită ca aperitiv sau în salate."
+          },
+          {
+            "name": "Plăcinte cu ierburi de munte (Pites)",
+            "tip": "Plăcinte făcute manual, umplute cu ierburi sălbatice și verdețuri de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sausages & Kontosouvli",
+            "tip": "Try the grilled meat specialties at a downtown taverna, accompanied by local wine."
+          },
+          {
+            "name": "Tsalafouti Cheese",
+            "tip": "A creamy, soft cheese often served as an appetizer or in salads."
+          },
+          {
+            "name": "Mountain Herb Pies (Pites)",
+            "tip": "Handmade pies filled with wild greens and mountain herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Karpenisiotis",
+            "tip": "Ein ruhiger Weg entlang des Flusses, etwas außerhalb des Stadtzentrums, perfekt für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Saloon Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick auf die umliegenden Berge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-Berg",
+            "tip": "Eine kurze Fahrt bringt Sie zu atemberaubenden Aussichtspunkten mit Blick auf die Stadt und darüber hinaus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Karpenisiotis folyó mentén",
+            "tip": "Egy csendes ösvény a folyó mentén, kicsit a városközponton kívül, tökéletes a békés elvonuláshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Saloon Parkból",
+            "tip": "Keressen egy csendes padot, és élvezze a panorámás kilátást a környező hegyekre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-hegy",
+            "tip": "Egy rövid autóút lélegzetelállító kilátópontokhoz visz, ahonnan a városra és azon túlra nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Karpenisiotis",
+            "tip": "O potecă liniștită de-a lungul râului, chiar în afara centrului orașului, perfectă pentru o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Parcul Saloon",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică a munților din jur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Muntele Velouchi",
+            "tip": "O scurtă călătorie cu mașina vă duce la puncte de belvedere uimitoare cu vedere la oraș și dincolo de el.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Karpenisiotis River",
+            "tip": "A quiet path along the river, just outside the town center, perfect for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Saloon Park",
+            "tip": "Find a quiet bench and enjoy the panoramic views of the surrounding mountains.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi Mountain",
+            "tip": "A short drive will take you to stunning viewpoints overlooking the town and beyond.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Kaufen Sie Tannen- oder Kastanienhonig und aromatische Bergkräuter in den lokalen Geschäften."
+          },
+          {
+            "name": "Handgefertigte Holzartikel",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és fűszernövények",
+            "tip": "Vásároljon fenyő- vagy gesztenyemézet és aromás hegyi fűszernövényeket a helyi boltokban."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Keressen egyedi ajándéktárgyakat, amelyeket helyi kézművesek készítettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Cumpărați miere de brad sau de castan și ierburi aromatice de munte din magazinele locale."
+          },
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Căutați suveniruri unice, realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Herbs",
+            "tip": "Shop for fir or chestnut honey and aromatic mountain herbs at the local shops."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for unique souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen, da das Gelände bergig ist.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Straßen können eng sein; seien Sie vorsichtig im Verkehr.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt aus der Stadt hinaus."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket, mivel a terep hegyvidéki.",
+          "A sisak viselése erősen ajánlott.",
+          "Az utak szűkek lehetnek; legyen óvatos a forgalomban.",
+          "Vigyen magával harapnivalót és vizet, különösen a városból kivezető útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele, deoarece terenul este muntos.",
+          "O cască de protecție este foarte recomandată.",
+          "Drumurile pot fi înguste; fiți atenți la trafic.",
+          "Luați gustări și apă cu dumneavoastră, mai ales pentru drumul în afara orașului."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes, as the terrain is mountainous.",
+          "A helmet is highly recommended.",
+          "Roads can be narrow; be cautious with traffic.",
+          "Take snacks and water with you, especially for the ride out of town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 85.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz Karpenisi",
+            "hu": "Karpenisi központi tere",
+            "ro": "Piața Centrală Karpenisi",
+            "en": "Karpenisi Central Square"
+          },
+          "coords": [
+            21.7944,
+            38.9122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung des Stadtzentrums zu Fuß.",
+            "hu": "Parkolja le az autóját a közelben, és kezdje meg a városközpont gyalogos felfedezését.",
+            "ro": "Parcați mașina în apropiere și începeți explorarea centrului orașului pe jos.",
+            "en": "Park your car nearby and start your exploration of the town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum von Karpenisi",
+            "hu": "Karpenisi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Karpenisi",
+            "en": "Folklore Museum of Karpenisi"
+          },
+          "coords": [
+            21.796,
+            38.9115
+          ],
+          "category": "museums",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz, um mehr über die lokale Kultur zu erfahren.",
+            "hu": "Egy rövid séta a tértől, hogy többet tudjon meg a helyi kultúráról.",
+            "ro": "O scurtă plimbare din piață pentru a învăța despre cultura locală.",
+            "en": "A short walk from the square to learn about the local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Koryschades",
+            "hu": "Koryschades falu",
+            "ro": "Satul Koryschades",
+            "en": "Koryschades Village"
+          },
+          "coords": [
+            21.76,
+            38.88
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Dorf, das heute ein Freilichtmuseum ist.",
+            "hu": "Vezessen el ebbe a történelmi faluba, amely ma szabadtéri múzeumként működik.",
+            "ro": "Conduceți până la acest sat istoric, care este acum un muzeu în aer liber.",
+            "en": "Drive to this historic village, which is now an open-air museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Prousos",
+            "hu": "Prousos kolostor",
+            "ro": "Mănăstirea Prousos",
+            "en": "Prousos Monastery"
+          },
+          "coords": [
+            21.65,
+            38.75
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 25,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt zu einem der wichtigsten Klöster Griechenlands. Nehmen Sie sich Zeit für die Erkundung und das Mittagessen in der Nähe.",
+            "hu": "Festői út Görögország egyik legfontosabb kolostorához. Szánjon időt a felfedezésre és az ebédre a közelben.",
+            "ro": "O călătorie pitorească la una dintre cele mai importante mănăstiri din Grecia. Luați-vă timp să explorați și să luați prânzul în apropiere.",
+            "en": "A scenic drive to one of Greece's most important monasteries. Take your time to explore and have lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Velouchi-Skizentrum (Aussichtspunkt)",
+            "hu": "Velouchi síközpont (kilátó)",
+            "ro": "Centrul de schi Velouchi (punct de belvedere)",
+            "en": "Velouchi Ski Center (Viewpoint)"
+          },
+          "coords": [
+            21.81,
+            38.98
+          ],
+          "category": "natural features",
+          "arrive_at": "16:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 73,
+          "hop_from_prev_km": 42,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Skizentrum für einen atemberaubenden Panoramablick. Im Sommer ist es ein großartiger Ort zum Wandern.",
+            "hu": "Vezessen fel a síközpontba a lélegzetelállító panorámáért. Nyáron remek hely a túrázásra.",
+            "ro": "Conduceți până la centrul de schi pentru o vedere panoramică uluitoare. Vara, este un loc minunat pentru drumeții.",
+            "en": "Drive up to the ski center for a breathtaking panoramic view. In summer, it's a great spot for hiking."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Karpenisi",
+            "hu": "Vacsora Karpenisiben",
+            "ro": "Cină în Karpenisi",
+            "en": "Dinner in Karpenisi"
+          },
+          "coords": [
+            21.794,
+            38.912
+          ],
+          "category": "gastro",
+          "arrive_at": "17:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kehren Sie in die Stadt zurück und belohnen Sie sich mit einem köstlichen Abendessen in einer lokalen Taverne.",
+            "hu": "Térjen vissza a városba, és jutalmazza meg magát egy finom vacsorával egy helyi tavernában.",
+            "ro": "Întoarceți-vă în oraș și răsplătiți-vă cu o cină delicioasă la o tavernă locală.",
+            "en": "Return to town and reward yourself with a delicious dinner at a local taverna."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autoabenteuer beginnt im Herzen von Karpenisi. Nach der Erkundung des Zentrums fahren Sie in das historische Dorf Koryschades. Am Mittag erwartet Sie eine landschaftlich reizvolle Fahrt zum spirituellen Prousos-Kloster, das in eine Klippe gebaut wurde. Am Nachmittag steigen Sie zum Velouchi-Berg auf, um unvergleichliche Ausblicke zu genießen. Schließlich kehren Sie nach Karpenisi zurück, um einen Abend mit authentischer griechischer Küche zu verbringen und über die Reise des Tages nachzudenken.",
+        "hu": "Autós kalandja Karpenisi szívében kezdődik. A központ felfedezése után Koryschades történelmi falujába vezet az út. Délben egy festői autózás várja a sziklába épült, spirituális Prousos kolostorhoz. Délután felkapaszkodik a Velouchi-hegyre, ahonnan páratlan kilátás nyílik. Végül visszatér Karpenisibe egy autentikus görög konyhával töltött estére, és elmélkedik a nap utazásán.",
+        "ro": "Aventura dumneavoastră cu mașina începe în inima orașului Karpenisi. După ce explorați centrul, conduceți spre satul istoric Koryschades. La prânz, un drum pitoresc vă așteaptă la Mănăstirea spirituală Prousos, construită într-o stâncă. După-amiaza, urcați pe Muntele Velouchi pentru priveliști de neegalat. În cele din urmă, reveniți în Karpenisi pentru o seară cu bucătărie grecească autentică, reflectând la călătoria zilei.",
+        "en": "Your car adventure begins in the heart of Karpenisi. After exploring the center, you'll drive to the historic village of Koryschades. At midday, a scenic drive awaits to the spiritual Prousos Monastery, built into a cliffside. In the afternoon, you ascend Velouchi mountain for unparalleled views. Finally, return to Karpenisi for an evening of authentic Greek cuisine, reflecting on the day's journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Würste & Kontosouvli",
+            "tip": "Probieren Sie die gegrillten Fleischspezialitäten in einer Taverne in der Innenstadt, begleitet von lokalem Wein."
+          },
+          {
+            "name": "Tsalafouti-Käse",
+            "tip": "Ein cremiger Weichkäse, der oft als Vorspeise oder in Salaten serviert wird."
+          },
+          {
+            "name": "Bergkräuter-Pasteten (Pites)",
+            "tip": "Handgemachte Pasteten gefüllt mit wilden Gräsern und Kräutern aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kolbászok és Kontosouvli",
+            "tip": "Kóstolja meg a grillezett húsételeket egy belvárosi tavernában, helyi bor kíséretében."
+          },
+          {
+            "name": "Tsalafouti sajt",
+            "tip": "Krémes, lágy sajt, amelyet gyakran előételként vagy salátákban szolgálnak fel."
+          },
+          {
+            "name": "Hegyi fűszeres piték (Pites)",
+            "tip": "Kézzel készített piték, vadon termő füvekkel és hegyi fűszernövényekkel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați locali & Kontosouvli",
+            "tip": "Încercați specialitățile de carne la grătar la o tavernă din centrul orașului, însoțite de vin local."
+          },
+          {
+            "name": "Brânză Tsalafouti",
+            "tip": "O brânză moale și cremoasă, adesea servită ca aperitiv sau în salate."
+          },
+          {
+            "name": "Plăcinte cu ierburi de munte (Pites)",
+            "tip": "Plăcinte făcute manual, umplute cu ierburi sălbatice și verdețuri de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sausages & Kontosouvli",
+            "tip": "Try the grilled meat specialties at a downtown taverna, accompanied by local wine."
+          },
+          {
+            "name": "Tsalafouti Cheese",
+            "tip": "A creamy, soft cheese often served as an appetizer or in salads."
+          },
+          {
+            "name": "Mountain Herb Pies (Pites)",
+            "tip": "Handmade pies filled with wild greens and mountain herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Karpenisiotis",
+            "tip": "Ein ruhiger Weg entlang des Flusses, etwas außerhalb des Stadtzentrums, perfekt für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Saloon Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick auf die umliegenden Berge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-Berg",
+            "tip": "Eine kurze Fahrt bringt Sie zu atemberaubenden Aussichtspunkten mit Blick auf die Stadt und darüber hinaus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Karpenisiotis folyó mentén",
+            "tip": "Egy csendes ösvény a folyó mentén, kicsit a városközponton kívül, tökéletes a békés elvonuláshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Saloon Parkból",
+            "tip": "Keressen egy csendes padot, és élvezze a panorámás kilátást a környező hegyekre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-hegy",
+            "tip": "Egy rövid autóút lélegzetelállító kilátópontokhoz visz, ahonnan a városra és azon túlra nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Karpenisiotis",
+            "tip": "O potecă liniștită de-a lungul râului, chiar în afara centrului orașului, perfectă pentru o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Parcul Saloon",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică a munților din jur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Muntele Velouchi",
+            "tip": "O scurtă călătorie cu mașina vă duce la puncte de belvedere uimitoare cu vedere la oraș și dincolo de el.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Karpenisiotis River",
+            "tip": "A quiet path along the river, just outside the town center, perfect for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Saloon Park",
+            "tip": "Find a quiet bench and enjoy the panoramic views of the surrounding mountains.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi Mountain",
+            "tip": "A short drive will take you to stunning viewpoints overlooking the town and beyond.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Kaufen Sie Tannen- oder Kastanienhonig und aromatische Bergkräuter in den lokalen Geschäften."
+          },
+          {
+            "name": "Handgefertigte Holzartikel",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és fűszernövények",
+            "tip": "Vásároljon fenyő- vagy gesztenyemézet és aromás hegyi fűszernövényeket a helyi boltokban."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Keressen egyedi ajándéktárgyakat, amelyeket helyi kézművesek készítettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Cumpărați miere de brad sau de castan și ierburi aromatice de munte din magazinele locale."
+          },
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Căutați suveniruri unice, realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Herbs",
+            "tip": "Shop for fir or chestnut honey and aromatic mountain herbs at the local shops."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for unique souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen können kurvenreich und eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Wetterbedingungen, besonders wenn Sie zum Velouchi-Berg fahren, da sie sich schnell ändern können.",
+          "Tanken Sie Ihr Auto in Karpenisi, bevor Sie in abgelegenere Gebiete fahren.",
+          "Achten Sie auf angemessene Kleidung, wenn Sie Klöster besuchen."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak és szűkek lehetnek, vezessen óvatosan.",
+          "Ellenőrizze az időjárási viszonyokat, különösen, ha a Velouchi-hegyre megy, mivel gyorsan változhatnak.",
+          "Tankolja meg az autóját Karpenisiben, mielőtt távolabbi területekre indulna.",
+          "Ügyeljen a megfelelő öltözékre a kolostorok látogatásakor."
+        ],
+        "ro": [
+          "Drumurile de munte pot fi sinuoase și înguste, conduceți cu prudență.",
+          "Verificați condițiile meteorologice, mai ales dacă vă îndreptați spre Muntele Velouchi, deoarece se pot schimba rapid.",
+          "Alimentați-vă mașina în Karpenisi înainte de a vă aventura în zone mai îndepărtate.",
+          "Asigurați-vă că aveți o ținută adecvată atunci când vizitați mănăstirile."
+        ],
+        "en": [
+          "Mountain roads can be winding and narrow, drive carefully.",
+          "Check weather conditions, especially if heading to Velouchi mountain, as they can change quickly.",
+          "Fill up your car's fuel tank in Karpenisi before heading to more remote areas.",
+          "Ensure you have appropriate attire when visiting monasteries."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 17.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralplatz Karpenisi",
+            "hu": "Karpenisi központi tere",
+            "ro": "Piața Centrală Karpenisi",
+            "en": "Karpenisi Central Square"
+          },
+          "coords": [
+            21.7944,
+            38.9122
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof (KTEL) ist Ihr Ausgangspunkt für die Erkundung der Stadt und der Umgebung.",
+            "hu": "A fő buszpályaudvar (KTEL) a kiindulópont a város és a környék felfedezéséhez.",
+            "ro": "Stația principală de autobuz (KTEL) este punctul de plecare pentru a explora orașul și zona înconjurătoare.",
+            "en": "The main bus station (KTEL) is your hub for exploring the town and surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Cathedral of the Holy Trinity"
+          },
+          "coords": [
+            21.795,
+            38.913
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus ist es nur ein kurzer Spaziergang zu diesem wichtigen religiösen Ort.",
+            "hu": "A buszpályaudvartól csak egy rövid séta ez a fontos vallási hely.",
+            "ro": "De la stația de autobuz este doar o scurtă plimbare până la acest important lăcaș de cult.",
+            "en": "From the bus station, it's a short walk to this important religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Koryschades",
+            "hu": "Koryschades falu",
+            "ro": "Satul Koryschades",
+            "en": "Koryschades Village"
+          },
+          "coords": [
+            21.76,
+            38.88
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in dieses historische Dorf, das als nationales Widerstandsmuseum dient.",
+            "hu": "Menjen helyi busszal ebbe a történelmi faluba, amely nemzeti ellenállási múzeumként működik.",
+            "ro": "Luați un autobuz local spre acest sat istoric, care servește drept muzeu al rezistenței naționale.",
+            "en": "Take a local bus to this historic village, which serves as a national resistance museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum von Karpenisi",
+            "hu": "Karpenisi Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor din Karpenisi",
+            "en": "Folklore Museum of Karpenisi"
+          },
+          "coords": [
+            21.796,
+            38.9115
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kehren Sie mit dem Bus ins Zentrum zurück und besuchen Sie dieses Museum, um Ihr Verständnis für die Region zu vertiefen.",
+            "hu": "Térjen vissza busszal a központba, és látogasson el ebbe a múzeumba, hogy elmélyítse a régióval kapcsolatos ismereteit.",
+            "ro": "Întoarceți-vă cu autobuzul în centru și vizitați acest muzeu pentru a vă aprofunda înțelegerea regiunii.",
+            "en": "Return to the center by bus and visit this museum to deepen your understanding of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Saloon Park",
+            "hu": "Saloon Park",
+            "ro": "Parcul Saloon",
+            "en": "Saloon Park"
+          },
+          "coords": [
+            21.79,
+            38.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundungen mit einem entspannten Spaziergang zu diesem schönen Park am Rande der Stadt.",
+            "hu": "Fejezze be a felfedezést egy pihentető sétával a város szélén található gyönyörű parkba.",
+            "ro": "Încheiați-vă explorările cu o plimbare relaxantă la acest frumos parc de la marginea orașului.",
+            "en": "End your explorations with a relaxing stroll to this beautiful park on the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz für einen umfassenden Tag. Beginnen Sie im Zentrum von Karpenisi, bevor Sie einen Bus in das historische Dorf Koryschades nehmen, das einen tiefen Einblick in die jüngere griechische Geschichte bietet. Nach der Rückkehr in die Stadt tauchen Sie im Volkskundemuseum weiter in die Kultur ein. Ein entspannter Spaziergang zum Saloon Park rundet Ihren Nachmittag ab. Am Abend haben Sie die Freiheit, eine der vielen ausgezeichneten Tavernen der Stadt zu wählen.",
+        "hu": "Használja ki a helyi buszhálózatot egy átfogó naphoz. Kezdje Karpenisi központjában, mielőtt busszal elutazik Koryschades történelmi falujába, amely mély betekintést nyújt a modern görög történelembe. Miután visszatért a városba, merüljön el tovább a kultúrában a Néprajzi Múzeumban. Egy pihentető séta a Saloon Parkban teszi teljessé a délutánt. Este szabadon választhat a város számos kiváló tavernája közül.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru o zi cuprinzătoare. Începeți în centrul orașului Karpenisi înainte de a lua un autobuz spre satul istoric Koryschades, care oferă o perspectivă profundă asupra istoriei grecești moderne. La întoarcerea în oraș, aprofundați-vă în cultură la Muzeul de Folclor. O plimbare relaxantă în Parcul Saloon vă completează după-amiaza. Seara, aveți libertatea de a alege una dintre numeroasele taverne excelente ale orașului.",
+        "en": "Utilize the local bus network for a comprehensive day. Start in central Karpenisi before catching a bus to the historic Koryschades village, offering a deep dive into modern Greek history. Upon returning to town, immerse yourself further in the culture at the Folklore Museum. A relaxing walk to Saloon Park completes your afternoon. In the evening, you have the freedom to choose any of the town's many excellent tavernas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Würste & Kontosouvli",
+            "tip": "Probieren Sie die gegrillten Fleischspezialitäten in einer Taverne in der Innenstadt, begleitet von lokalem Wein."
+          },
+          {
+            "name": "Tsalafouti-Käse",
+            "tip": "Ein cremiger Weichkäse, der oft als Vorspeise oder in Salaten serviert wird."
+          },
+          {
+            "name": "Bergkräuter-Pasteten (Pites)",
+            "tip": "Handgemachte Pasteten gefüllt mit wilden Gräsern und Kräutern aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kolbászok és Kontosouvli",
+            "tip": "Kóstolja meg a grillezett húsételeket egy belvárosi tavernában, helyi bor kíséretében."
+          },
+          {
+            "name": "Tsalafouti sajt",
+            "tip": "Krémes, lágy sajt, amelyet gyakran előételként vagy salátákban szolgálnak fel."
+          },
+          {
+            "name": "Hegyi fűszeres piték (Pites)",
+            "tip": "Kézzel készített piték, vadon termő füvekkel és hegyi fűszernövényekkel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați locali & Kontosouvli",
+            "tip": "Încercați specialitățile de carne la grătar la o tavernă din centrul orașului, însoțite de vin local."
+          },
+          {
+            "name": "Brânză Tsalafouti",
+            "tip": "O brânză moale și cremoasă, adesea servită ca aperitiv sau în salate."
+          },
+          {
+            "name": "Plăcinte cu ierburi de munte (Pites)",
+            "tip": "Plăcinte făcute manual, umplute cu ierburi sălbatice și verdețuri de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Sausages & Kontosouvli",
+            "tip": "Try the grilled meat specialties at a downtown taverna, accompanied by local wine."
+          },
+          {
+            "name": "Tsalafouti Cheese",
+            "tip": "A creamy, soft cheese often served as an appetizer or in salads."
+          },
+          {
+            "name": "Mountain Herb Pies (Pites)",
+            "tip": "Handmade pies filled with wild greens and mountain herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Karpenisiotis",
+            "tip": "Ein ruhiger Weg entlang des Flusses, etwas außerhalb des Stadtzentrums, perfekt für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht vom Saloon Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Panoramablick auf die umliegenden Berge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-Berg",
+            "tip": "Eine kurze Fahrt bringt Sie zu atemberaubenden Aussichtspunkten mit Blick auf die Stadt und darüber hinaus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Karpenisiotis folyó mentén",
+            "tip": "Egy csendes ösvény a folyó mentén, kicsit a városközponton kívül, tökéletes a békés elvonuláshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Saloon Parkból",
+            "tip": "Keressen egy csendes padot, és élvezze a panorámás kilátást a környező hegyekre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi-hegy",
+            "tip": "Egy rövid autóút lélegzetelállító kilátópontokhoz visz, ahonnan a városra és azon túlra nyílik kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Karpenisiotis",
+            "tip": "O potecă liniștită de-a lungul râului, chiar în afara centrului orașului, perfectă pentru o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din Parcul Saloon",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de vederea panoramică a munților din jur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Muntele Velouchi",
+            "tip": "O scurtă călătorie cu mașina vă duce la puncte de belvedere uimitoare cu vedere la oraș și dincolo de el.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along Karpenisiotis River",
+            "tip": "A quiet path along the river, just outside the town center, perfect for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Saloon Park",
+            "tip": "Find a quiet bench and enjoy the panoramic views of the surrounding mountains.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Velouchi Mountain",
+            "tip": "A short drive will take you to stunning viewpoints overlooking the town and beyond.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Kräuter",
+            "tip": "Kaufen Sie Tannen- oder Kastanienhonig und aromatische Bergkräuter in den lokalen Geschäften."
+          },
+          {
+            "name": "Handgefertigte Holzartikel",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs, die von lokalen Handwerkern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és fűszernövények",
+            "tip": "Vásároljon fenyő- vagy gesztenyemézet és aromás hegyi fűszernövényeket a helyi boltokban."
+          },
+          {
+            "name": "Kézzel készített fa tárgyak",
+            "tip": "Keressen egyedi ajándéktárgyakat, amelyeket helyi kézművesek készítettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ierburi locale",
+            "tip": "Cumpărați miere de brad sau de castan și ierburi aromatice de munte din magazinele locale."
+          },
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Căutați suveniruri unice, realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Herbs",
+            "tip": "Shop for fir or chestnut honey and aromatic mountain herbs at the local shops."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for unique souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können, insbesondere an Wochenenden.",
+          "Kaufen Sie Tickets am KTEL-Bahnhof oder direkt beim Fahrer.",
+          "Die Busse in die Dörfer fahren möglicherweise nicht häufig, planen Sie Ihre Rückfahrt sorgfältig.",
+          "Seien Sie flexibel; öffentliche Verkehrsmittel in ländlichen Gebieten können unvorhersehbar sein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok sűrűsége változhat, különösen hétvégén.",
+          "Vásároljon jegyet a KTEL állomáson vagy közvetlenül a sofőrnél.",
+          "A falvakba közlekedő buszok nem feltétlenül járnak sűrűn, ezért gondosan tervezze meg a visszautat.",
+          "Legyen rugalmas; a tömegközlekedés a vidéki területeken kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia, mai ales în weekend.",
+          "Cumpărați bilete de la stația KTEL sau direct de la șofer.",
+          "Autobuzele către sate s-ar putea să nu circule frecvent, așa că planificați-vă cu atenție călătoria de întoarcere.",
+          "Fiți flexibil; transportul public în zonele rurale poate fi imprevizibil."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies can vary, especially on weekends.",
+          "Purchase tickets at the KTEL station or directly from the driver.",
+          "Buses to villages may not be frequent, so plan your return trip carefully.",
+          "Be flexible; public transport in rural areas can be unpredictable."
+        ]
+      }
+    }
+  }
+}

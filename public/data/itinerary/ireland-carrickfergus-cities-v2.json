@@ -1,0 +1,1311 @@
+{
+  "city_id": "ireland-carrickfergus-cities-v2",
+  "anchor": {
+    "name": "Carrickfergus",
+    "coords": [
+      -5.8052,
+      54.7145
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marine Highway Promenade",
+            "hu": "Marine Highway sétány",
+            "ro": "Promenada Marine Highway",
+            "en": "Marine Highway Promenade"
+          },
+          "coords": [
+            -5.807,
+            54.713
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ideal für einen morgendlichen Spaziergang, um die Meeresbrise zu genießen.",
+            "hu": "Ideális egy reggeli sétához, hogy élvezze a tengeri szellőt.",
+            "ro": "Ideal pentru o plimbare matinală pentru a vă bucura de briza mării.",
+            "en": "Ideal for a morning stroll to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Carrickfergus",
+            "hu": "Carrickfergus vára",
+            "ro": "Castelul Carrickfergus",
+            "en": "Carrickfergus Castle"
+          },
+          "coords": [
+            -5.804,
+            54.7135
+          ],
+          "category": "castles",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die reiche Geschichte der normannischen Festung zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse a normann erőd gazdag történelmét.",
+            "ro": "Participați la un tur ghidat pentru a înțelege istoria bogată a fortăreței normande.",
+            "en": "Join a guided tour to understand the rich history of the Norman fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            -5.809,
+            54.715
+          ],
+          "category": "churches",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző ólomüveg ablakokat és a békés légkört.",
+            "ro": "Observați vitraliile impresionante și atmosfera liniștită.",
+            "en": "Look for the impressive stained glass windows and the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Carrickfergus",
+            "hu": "Carrickfergus városfalai",
+            "ro": "Zidurile orașului Carrickfergus",
+            "en": "Carrickfergus Town Walls"
+          },
+          "coords": [
+            -5.812,
+            54.716
+          ],
+          "category": "fortresses",
+          "arrive_at": "12:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der erhaltenen Abschnitte gibt einen Einblick in die mittelalterliche Verteidigung der Stadt.",
+            "hu": "Séta a megmaradt szakaszokon betekintést nyújt a város középkori védelmébe.",
+            "ro": "O plimbare de-a lungul secțiunilor păstrate oferă o perspectivă asupra apărării medievale a orașului.",
+            "en": "Walking along the preserved sections gives a glimpse into the town's medieval defenses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Pub",
+            "hu": "Ebéd egy helyi pubban",
+            "ro": "Prânz la un pub local",
+            "en": "Lunch at a Local Pub"
+          },
+          "coords": [
+            -5.81,
+            54.7155
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie einen traditionellen Irish Stew oder frische Meeresfrüchte.",
+            "hu": "Kóstoljon meg egy hagyományos ír pörköltet vagy friss tenger gyümölcseit.",
+            "ro": "Încercați un Irish Stew tradițional sau fructe de mare proaspete.",
+            "en": "Try a traditional Irish Stew or some fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrickfergus Museum",
+            "hu": "Carrickfergus Múzeum",
+            "ro": "Muzeul Carrickfergus",
+            "en": "Carrickfergus Museum"
+          },
+          "coords": [
+            -5.813,
+            54.7158
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem wunderschönen historischen Gebäude und bietet Einblicke in die lokale Geschichte.",
+            "hu": "A múzeum egy gyönyörű történelmi épületben található, és betekintést nyújt a helyi történelembe.",
+            "ro": "Amplasat într-o clădire istorică frumoasă, muzeul oferă perspective asupra istoriei locale.",
+            "en": "Housed in a beautiful historic building, it offers great insights into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Flame Gasworks Museum",
+            "hu": "Flame Gázművek Múzeum",
+            "ro": "Muzeul Uzinei de Gaz Flame",
+            "en": "Flame Gasworks Museum"
+          },
+          "coords": [
+            -5.82,
+            54.717
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Museum, das die Geschichte der Gasindustrie in Irland darstellt. Prüfen Sie die Öffnungszeiten.",
+            "hu": "Egyedülálló múzeum, amely Írország gáziparának történetét mutatja be. Ellenőrizze a nyitvatartási időt.",
+            "ro": "Un muzeu unic care prezintă istoria industriei gazului din Irlanda. Verificați orele de deschidere.",
+            "en": "A unique museum detailing the history of the gas industry in Ireland. Check opening times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Carrickfergus beginnt mit einer erfrischenden Meeresbrise am Marine Highway, gefolgt von der imposanten normannischen Burg, die über dem Hafen thront. Erkunden Sie die alten Mauern und fühlen Sie die Geschichte unter Ihren Füßen. Am Mittag tauchen Sie in die spirituelle Ruhe der St.-Nikolaus-Kirche ein, bevor Sie entlang der alten Stadtmauern spazieren, die einst die Stadt schützten. Ein herzhaftes Mittagessen in einem traditionellen Pub stärkt Sie für den Nachmittag. Am Nachmittag entdecken Sie die verborgenen Geschichten der Stadt im Carrickfergus Museum. Der Tag endet mit einem faszinierenden Einblick in die industrielle Vergangenheit im Flame Gasworks Museum, ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "A Carrickfergusban töltött nap a Marine Highway frissítő tengeri szellőjével kezdődik, majd a kikötő felett tornyosuló impozáns normann vár következik. Fedezze fel az ősi falakat, és érezze a történelmet a lába alatt. Délben merüljön el a Szent Miklós-templom spirituális csendjében, mielőtt végigsétálna az egykor a várost védő régi városfalakon. Egy kiadós ebéd egy hagyományos pubban erőt ad a délutánhoz. Délután a Carrickfergus Múzeumban fedezheti fel a város rejtett történeteit. A nap a Flame Gázművek Múzeum ipari múltjába való lenyűgöző betekintéssel zárul, amely tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Ziua dvs. în Carrickfergus începe cu o briză marină revigorantă pe Marine Highway, urmată de impunătorul castel normand ce domină portul. Explorați zidurile antice și simțiți istoria sub picioarele voastre. La prânz, cufundați-vă în liniștea spirituală a Bisericii Sf. Nicolae înainte de a vă plimba de-a lungul vechilor ziduri ale orașului care odinioară protejau localitatea. Un prânz consistent la un pub tradițional vă va energiza pentru după-amiază. După-amiaza, descoperiți poveștile ascunse ale orașului la Muzeul Carrickfergus. Ziua se încheie cu o incursiune fascinantă în trecutul industrial la Muzeul Uzinei de Gaz Flame, o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Your day in Carrickfergus begins with a refreshing sea breeze on the Marine Highway, followed by the imposing Norman castle towering over the harbour. Explore the ancient walls and feel the history beneath your feet. At midday, immerse yourself in the spiritual tranquility of St. Nicholas' Church before strolling along the old town walls that once protected the city. A hearty lunch at a traditional pub will energize you for the afternoon. In the afternoon, discover the town's hidden stories at the Carrickfergus Museum. The day concludes with a fascinating glimpse into the industrial past at the Flame Gasworks Museum, a perfect end to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dobbins Inn",
+            "tip": "Historisches Gasthaus mit traditioneller irischer Küche und einer gemütlichen Atmosphäre."
+          },
+          {
+            "name": "Ownies Bar & Bistro",
+            "tip": "Bekannt für seine Meeresfrüchte und den Blick auf die Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dobbins Inn",
+            "tip": "Történelmi fogadó hagyományos ír konyhával és hangulatos légkörrel."
+          },
+          {
+            "name": "Ownies Bar & Bistro",
+            "tip": "Híres a tenger gyümölcseiről és a várra nyíló kilátásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dobbins Inn",
+            "tip": "Han istoric cu bucătărie tradițională irlandeză și o atmosferă primitoare."
+          },
+          {
+            "name": "Ownies Bar & Bistro",
+            "tip": "Renumit pentru fructele de mare și vederea spre castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dobbins Inn",
+            "tip": "Historic inn serving traditional Irish fare with a cozy atmosphere."
+          },
+          {
+            "name": "Ownies Bar & Bistro",
+            "tip": "Known for its seafood and views of the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Carrickfergus Marina",
+            "tip": "Ein ruhiger Spaziergang entlang der Boote, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Belfast Lough",
+            "tip": "Finden Sie eine Bank und beobachten Sie die vorbeifahrenden Schiffe.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrickfergus Marina",
+            "tip": "Csendes séta a hajók mentén, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Belfast Lough partja",
+            "tip": "Keressen egy padot, és nézze a hajókat.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul de agrement Carrickfergus",
+            "tip": "O plimbare liniștită pe lângă bărci, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Belfast Lough",
+            "tip": "Găsiți o bancă și priviți navele care trec.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrickfergus Marina",
+            "tip": "A quiet walk along the boats, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shores of Belfast Lough",
+            "tip": "Find a bench and watch the ships go by.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigtem Schmuck und Keramik in den kleinen Läden im Stadtzentrum."
+          },
+          {
+            "name": "The Courtyard",
+            "tip": "Eine kleine Ansammlung von Boutiquen und Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített ékszereket és kerámiákat a belváros kis üzleteiben."
+          },
+          {
+            "name": "The Courtyard",
+            "tip": "Kis butikok és üzletek gyűjteménye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat locale",
+            "tip": "Căutați bijuterii și ceramică artizanală în micile magazine din centrul orașului."
+          },
+          {
+            "name": "The Courtyard",
+            "tip": "O mică colecție de buticuri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade jewelry and pottery in the small shops in the town centre."
+          },
+          {
+            "name": "The Courtyard",
+            "tip": "A small collection of boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Das Wetter kann sich schnell ändern, eine wasserdichte Jacke ist immer eine gute Idee.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek az óvárosban egyenetlenek lehetnek.",
+          "Az időjárás gyorsan változhat, egy vízálló dzseki mindig jó ötlet.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Vremea se poate schimba rapid, o jachetă impermeabilă este întotdeauna o idee bună.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia sezonier."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "The weather can change quickly; a waterproof jacket is always a good idea.",
+          "Check museum opening times in advance as they can be seasonal."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marine Highway Radweg",
+            "hu": "Marine Highway kerékpárút",
+            "ro": "Pista de biciclete Marine Highway",
+            "en": "Marine Highway Cycle Path"
+          },
+          "coords": [
+            -5.807,
+            54.713
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Fahrt entlang der Küste.",
+            "hu": "Kezdje a napot egy könnyű tekeréssel a part mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară pe bicicletă de-a lungul coastei.",
+            "en": "Start the day with a gentle ride along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Carrickfergus",
+            "hu": "Carrickfergus vára",
+            "ro": "Castelul Carrickfergus",
+            "en": "Carrickfergus Castle"
+          },
+          "coords": [
+            -5.804,
+            54.7135
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, die beeindruckende Festung zu erkunden.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt a lenyűgöző erőd felfedezésére.",
+            "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru a explora fortăreața impresionantă.",
+            "en": "Lock your bike nearby and take your time exploring the impressive fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche & Stadtzentrum",
+            "hu": "Szent Miklós-templom és városközpont",
+            "ro": "Biserica Sf. Nicolae și Centrul Orașului",
+            "en": "St. Nicholas' Church & Town Centre"
+          },
+          "coords": [
+            -5.809,
+            54.715
+          ],
+          "category": "churches",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch das historische Zentrum, um die Kirche und die Geschäfte zu sehen.",
+            "hu": "Tolja a kerékpárt a történelmi központon keresztül, hogy megnézze a templomot és az üzleteket.",
+            "ro": "Împingeți bicicleta prin centrul istoric pentru a vedea biserica și magazinele.",
+            "en": "Walk your bike through the historic centre to see the church and shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause am Hafen",
+            "hu": "Ebédszünet a kikötőben",
+            "ro": "Pauză de prânz în port",
+            "en": "Lunch break at the Harbour"
+          },
+          "coords": [
+            -5.806,
+            54.714
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie Fish and Chips mit Blick auf die Boote.",
+            "hu": "Élvezze a fish and chipset a hajókra nyíló kilátással.",
+            "ro": "Bucurați-vă de fish and chips cu vedere la bărci.",
+            "en": "Enjoy some fish and chips with a view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Andrew Jackson Cottage",
+            "hu": "Andrew Jackson kunyhó",
+            "ro": "Cabana Andrew Jackson",
+            "en": "Andrew Jackson Cottage"
+          },
+          "coords": [
+            -5.845,
+            54.725
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch eine schöne Landschaft. Das Cottage gibt Einblick in das Leben im 18. Jahrhundert.",
+            "hu": "A kerékpárút ide gyönyörű tájon vezet keresztül. A kunyhó betekintést nyújt a 18. századi életbe.",
+            "ro": "Plimbarea cu bicicleta până aici este prin peisaje rurale frumoase. Cabana oferă o perspectivă asupra vieții din secolul al XVIII-lea.",
+            "en": "The cycle ride here is through lovely countryside. The cottage offers a glimpse into 18th-century life."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to Centre"
+          },
+          "coords": [
+            -5.81,
+            54.715
+          ],
+          "category": "promenades",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen letzten Kaffee oder ein Eis, bevor Sie den Tag beenden.",
+            "hu": "Élvezzen egy utolsó kávét vagy fagyit a nap befejezése előtt.",
+            "ro": "Bucurați-vă de o ultimă cafea sau înghețată înainte de a încheia ziua.",
+            "en": "Enjoy one last coffee or ice cream before finishing the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer in Carrickfergus startet am malerischen Marine Highway. Die frische Seeluft begleitet Sie zur mächtigen normannischen Burg, wo Sie in die Vergangenheit eintauchen. Nach der Geschichtsstunde radeln Sie ins Herz der Stadt, um die St.-Nikolaus-Kirche zu bewundern. Am Mittag genießen Sie eine wohlverdiente Pause mit Fish and Chips direkt am Hafen. Der Nachmittag führt Sie auf eine längere, aber lohnende Tour zum Andrew Jackson Cottage, dem Stammsitz eines US-Präsidenten, umgeben von idyllischer Landschaft. Zum Abschluss kehren Sie gemütlich ins Zentrum zurück und lassen den Tag bei einem Getränk ausklingen.",
+        "hu": "A kerékpáros kaland Carrickfergusban a festői Marine Highway-en kezdődik. A friss tengeri levegő elkíséri Önt a hatalmas normann várhoz, ahol elmerülhet a múltban. A történelemóra után a város szívébe teker, hogy megcsodálja a Szent Miklós-templomot. Délben megérdemelt szünetet tart egy adag fish and chips-szel a kikötőben. A délután egy hosszabb, de annál inkább megérő túrára viszi az Andrew Jackson kunyhóhoz, egy amerikai elnök ősi otthonához, idilli tájjal körülvéve. Végül kényelmesen visszatér a központba, és egy itallal zárja a napot.",
+        "ro": "Aventura pe bicicletă în Carrickfergus începe pe pitorescul Marine Highway. Aerul proaspăt al mării vă însoțește până la puternicul castel normand, unde vă veți scufunda în trecut. După lecția de istorie, pedalați în inima orașului pentru a admira Biserica Sf. Nicolae. La prânz, bucurați-vă de o pauză binemeritată cu fish and chips chiar în port. După-amiaza vă duce într-un tur mai lung, dar plin de satisfacții, la Cabana Andrew Jackson, casa ancestrală a unui președinte american, înconjurată de peisaje idilice. În cele din urmă, vă întoarceți în centru și încheiați ziua cu o băutură.",
+        "en": "Your cycling adventure in Carrickfergus kicks off on the scenic Marine Highway. The fresh sea air accompanies you to the mighty Norman castle, where you'll dive into the past. After the history lesson, you'll pedal into the heart of the town to admire St. Nicholas' Church. At midday, enjoy a well-deserved break with fish and chips right at the harbour. The afternoon takes you on a longer but rewarding tour to the Andrew Jackson Cottage, the ancestral home of a US president, surrounded by idyllic countryside. Finally, you'll leisurely return to the centre and round off the day with a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mauds Ice Cream",
+            "tip": "Perfekt für eine süße Belohnung nach einer Radtour."
+          },
+          {
+            "name": "The Windrose",
+            "tip": "Ein gehobeneres Restaurant am Yachthafen für ein besonderes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mauds Ice Cream",
+            "tip": "Tökéletes édes jutalom egy kerékpártúra után."
+          },
+          {
+            "name": "The Windrose",
+            "tip": "Egy elegánsabb étterem a kikötőben egy különleges vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețata Mauds",
+            "tip": "Perfect pentru o recompensă dulce după o plimbare cu bicicleta."
+          },
+          {
+            "name": "The Windrose",
+            "tip": "Un restaurant mai elegant la portul de agrement pentru o cină specială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mauds Ice Cream",
+            "tip": "Perfect for a sweet reward after a bike ride."
+          },
+          {
+            "name": "The Windrose",
+            "tip": "A more upscale restaurant at the marina for a special dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenradweg in Richtung Whitehead",
+            "tip": "Fahren Sie ein Stück aus der Stadt hinaus für ruhige Ausblicke.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Shaftesbury Park",
+            "tip": "Ein kleiner Park für eine kurze Pause im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút Whitehead felé",
+            "tip": "Tekerjen ki a városból egy kicsit a csendes kilátásért.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Shaftesbury Park",
+            "tip": "Egy kis park egy rövid zöld szünethez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de coastă spre Whitehead",
+            "tip": "Pedalați puțin în afara orașului pentru priveliști liniștite.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Parcul Shaftesbury",
+            "tip": "Un parc mic pentru o scurtă pauză în verdeață.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal cycle path towards Whitehead",
+            "tip": "Ride a little out of town for quiet views.",
+            "emoji": "🚴‍♀️"
+          },
+          {
+            "name": "Shaftesbury Park",
+            "tip": "A small park for a quick break amidst greenery.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "High Street",
+            "tip": "Erkunden Sie die Hauptstraße für eine Mischung aus lokalen und bekannten Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "High Street",
+            "tip": "Fedezze fel a főutcát a helyi és ismert üzletek keverékéért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "High Street",
+            "tip": "Explorați strada principală pentru un amestec de magazine locale și cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "High Street",
+            "tip": "Explore the main street for a mix of local and chain stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Einige Straßen können eng sein, fahren Sie vorsichtig.",
+          "Nehmen Sie Wasser und Snacks für die längere Fahrt zum Cottage mit."
+        ],
+        "hu": [
+          "Mindig zárja le a kerékpárt biztonságos helyen.",
+          "Néhány utca szűk lehet, vezessen óvatosan.",
+          "Vigyen vizet és rágcsálnivalót a hosszabb útra a kunyhóhoz."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Unele străzi pot fi înguste, conduceți cu prudență.",
+          "Luați apă și gustări pentru drumul mai lung până la cabană."
+        ],
+        "en": [
+          "Always lock your bike in a secure place.",
+          "Some streets can be narrow, so cycle with care.",
+          "Bring water and snacks for the longer ride to the cottage."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 25.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum & Schloss Carrickfergus",
+            "hu": "Parkolás a városközpontban és Carrickfergus vára",
+            "ro": "Parcare în centrul orașului și Castelul Carrickfergus",
+            "en": "Town Centre Parking & Carrickfergus Castle"
+          },
+          "coords": [
+            -5.805,
+            54.7138
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Wahrzeichen der Stadt. Parken Sie in der Nähe und erkunden Sie zu Fuß.",
+            "hu": "Kezdje a napot a város jelképénél. Parkoljon a közelben és fedezze fel gyalog.",
+            "ro": "Începeți ziua la punctul de reper al orașului. Parcați în apropiere și explorați pe jos.",
+            "en": "Start your day at the town's landmark. Park nearby and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            -5.809,
+            54.715
+          ],
+          "category": "churches",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss bringt Sie zu dieser historischen Kirche.",
+            "hu": "Egy rövid séta a vártól elvezeti Önt ehhez a történelmi templomhoz.",
+            "ro": "O scurtă plimbare de la castel vă va duce la această biserică istorică.",
+            "en": "A short walk from the castle brings you to this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Highway & Mittagessen",
+            "hu": "Marine Highway és ebéd",
+            "ro": "Marine Highway și prânz",
+            "en": "Marine Highway & Lunch"
+          },
+          "coords": [
+            -5.807,
+            54.713
+          ],
+          "category": "promenades",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Promenade und suchen Sie sich ein schönes Restaurant zum Mittagessen.",
+            "hu": "Sétáljon végig a sétányon, és válasszon egy szép éttermet ebédre.",
+            "ro": "Plimbați-vă de-a lungul promenadei și alegeți un restaurant frumos pentru prânz.",
+            "en": "Stroll along the promenade and pick a nice restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Andrew Jackson Cottage",
+            "hu": "Andrew Jackson kunyhó",
+            "ro": "Cabana Andrew Jackson",
+            "en": "Andrew Jackson Cottage"
+          },
+          "coords": [
+            -5.845,
+            54.725
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zum Geburtsort der Eltern des 7. US-Präsidenten.",
+            "hu": "Egy rövid autóút elviszi Önt a 7. amerikai elnök szüleinek szülőhelyére.",
+            "ro": "O scurtă călătorie cu mașina vă duce la locul de naștere al părinților celui de-al 7-lea președinte american.",
+            "en": "A short drive takes you to the ancestral home of the 7th U.S. President's parents."
+          }
+        },
+        {
+          "name": {
+            "de": "Knockagh Monument",
+            "hu": "Knockagh emlékmű",
+            "ro": "Monumentul Knockagh",
+            "en": "Knockagh Monument"
+          },
+          "coords": [
+            -5.88,
+            54.75
+          ],
+          "category": "monuments",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Fahrt lohnt sich für die atemberaubende Aussicht über den Belfast Lough.",
+            "hu": "Megéri az utat a Belfast Lough-ra nyíló lélegzetelállító kilátásért.",
+            "ro": "Drumul merită pentru priveliștile uluitoare asupra Belfast Lough.",
+            "en": "The drive is worth it for the stunning panoramic views over Belfast Lough."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Greenisland",
+            "hu": "Séta Greenislanden",
+            "ro": "Plimbare la Greenisland",
+            "en": "Walk at Greenisland"
+          },
+          "coords": [
+            -5.86,
+            54.73
+          ],
+          "category": "promenades",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für einen kurzen Spaziergang auf dem Rückweg in die Stadt.",
+            "hu": "Egy csendes hely egy rövid sétára a városba való visszatéréskor.",
+            "ro": "Un loc liniștit pentru o scurtă plimbare pe drumul de întoarcere în oraș.",
+            "en": "A peaceful spot for a short walk on your way back towards town."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a városközpontban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in Town Centre"
+          },
+          "coords": [
+            -5.81,
+            54.715
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem köstlichen Essen in einem der vielen Restaurants.",
+            "hu": "Zárja a napot egy finom étellel a sok étterem egyikében.",
+            "ro": "Încheiați ziua cu o masă delicioasă la unul dintre numeroasele restaurante.",
+            "en": "End your day with a delicious meal at one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Carrickfergus. Nachdem Sie geparkt haben, erkunden Sie zu Fuß das berühmte Schloss und die historische St.-Nikolaus-Kirche. Ein Spaziergang entlang des Marine Highway führt Sie zu einem entspannten Mittagessen mit Blick aufs Meer. Am Nachmittag steigen Sie wieder ins Auto und fahren zum Andrew Jackson Cottage, um ein Stück amerikanisch-irischer Geschichte zu erleben. Der Höhepunkt des Tages ist die Fahrt zum Knockagh Monument, wo Sie mit einer spektakulären Aussicht belohnt werden. Auf dem Rückweg legen Sie einen kurzen Halt für einen Spaziergang in Greenisland ein, bevor Sie den Tag bei einem gemütlichen Abendessen in Carrickfergus ausklingen lassen.",
+        "hu": "Autós napja Carrickfergus szívében kezdődik. Miután leparkolt, gyalogosan fedezi fel a híres várat és a történelmi Szent Miklós-templomot. Egy séta a Marine Highway mentén egy pihentető, tengerre néző ebédhez vezet. Délután visszaül az autóba, és elhajt az Andrew Jackson kunyhóhoz, hogy megtapasztaljon egy darab amerikai-ír történelmet. A nap fénypontja az út a Knockagh emlékműhöz, ahol látványos kilátásban lesz része. Visszafelé megáll egy rövid sétára Greenislanden, mielőtt egy hangulatos vacsorával zárja a napot Carrickfergusban.",
+        "ro": "Ziua dvs. cu mașina începe în inima orașului Carrickfergus. După ce parcați, explorați pe jos faimosul castel și istorica Biserică Sf. Nicolae. O plimbare de-a lungul Marine Highway vă duce la un prânz relaxant cu vedere la mare. După-amiaza, vă urcați din nou în mașină și conduceți spre Cabana Andrew Jackson pentru a experimenta o bucată de istorie americano-irlandeză. Punctul culminant al zilei este drumul spre Monumentul Knockagh, unde veți fi răsplătit cu priveliști spectaculoase. La întoarcere, faceți o scurtă oprire pentru o plimbare în Greenisland înainte de a încheia ziua cu o cină confortabilă în Carrickfergus.",
+        "en": "Your car-based day starts in the heart of Carrickfergus. After parking, you'll explore the famous castle and the historic St. Nicholas' Church on foot. A walk along the Marine Highway leads to a relaxing lunch with sea views. In the afternoon, you get back in the car and drive to the Andrew Jackson Cottage to experience a piece of American-Irish history. The highlight of the day is the drive up to Knockagh Monument, where you're rewarded with spectacular views. On the way back, you make a brief stop for a walk at Greenisland before finishing the day with a cozy dinner back in Carrickfergus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Swift",
+            "tip": "Ein beliebter Ort für zwangloses Essen und eine große Auswahl an Getränken."
+          },
+          {
+            "name": "Papa Browns Grill",
+            "tip": "Ideal für Familien, bietet eine breite Speisekarte von Burgern bis zu Steaks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Swift",
+            "tip": "Népszerű hely egy laza étkezéshez és széles italválasztékhoz."
+          },
+          {
+            "name": "Papa Browns Grill",
+            "tip": "Ideális családoknak, széles menüvel a hamburgerektől a steakekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Swift",
+            "tip": "Un loc popular pentru o masă informală și o selecție largă de băuturi."
+          },
+          {
+            "name": "Papa Browns Grill",
+            "tip": "Ideal pentru familii, oferind un meniu variat, de la burgeri la fripturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Swift",
+            "tip": "A popular spot for casual dining and a wide selection of drinks."
+          },
+          {
+            "name": "Papa Browns Grill",
+            "tip": "Great for families, offering a wide menu from burgers to steaks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Knockagh Monument",
+            "tip": "Der ruhigste und beeindruckendste Panoramablick der Region.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "U.S. Rangers Centre",
+            "tip": "Ein Ort der Besinnung in der Nähe des Schlosses, der die Geschichte der US Rangers in der Gegend ehrt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Knockagh emlékműről",
+            "tip": "A régió legcsendesebb és leglenyűgözőbb panorámája.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "U.S. Rangers Központ",
+            "tip": "Egy csendes elmélkedésre alkalmas hely a vár közelében, amely az amerikai rangerek történetét tiszteli a környéken.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la Monumentul Knockagh",
+            "tip": "Cea mai liniștită și impresionantă panoramă din regiune.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Centrul U.S. Rangers",
+            "tip": "Un loc de reflecție liniștită lângă castel, care onorează istoria Rangerilor americani din zonă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Knockagh Monument",
+            "tip": "The most peaceful and impressive panoramic view in the area.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "U.S. Rangers Centre",
+            "tip": "A place for quiet reflection near the castle, honouring the history of US Rangers in the area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Farm Shop am Andrew Jackson Cottage",
+            "tip": "Kaufen Sie lokale Produkte und Souvenirs."
+          },
+          {
+            "name": "Geschenkeladen im Schloss",
+            "tip": "Finden Sie einzigartige Geschenke mit Bezug zur Geschichte von Carrickfergus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farm bolt az Andrew Jackson kunyhónál",
+            "tip": "Vásároljon helyi termékeket és szuveníreket."
+          },
+          {
+            "name": "Vár ajándékboltja",
+            "tip": "Találjon egyedi, Carrickfergus történelméhez kapcsolódó ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei de la Cabana Andrew Jackson",
+            "tip": "Cumpărați produse locale și suveniruri."
+          },
+          {
+            "name": "Magazinul de cadouri al castelului",
+            "tip": "Găsiți cadouri unice legate de istoria Carrickfergus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop at Andrew Jackson Cottage",
+            "tip": "Buy some local produce and souvenirs."
+          },
+          {
+            "name": "Castle Gift Shop",
+            "tip": "Find unique gifts related to Carrickfergus's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Straßen zum Knockagh Monument können eng sein, fahren Sie langsam und vorsichtig.",
+          "Ein Navi oder eine Karten-App ist für die Fahrten außerhalb der Stadt unerlässlich."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A Knockagh emlékműhöz vezető utak szűkek lehetnek, vezessen lassan és óvatosan.",
+          "Navigáció vagy térképalkalmazás elengedhetetlen a városon kívüli utazásokhoz."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Drumurile către Monumentul Knockagh pot fi înguste, conduceți încet și cu atenție.",
+          "Un GPS sau o aplicație de hărți este esențială pentru călătoriile în afara orașului."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The roads to Knockagh Monument can be narrow, drive slowly and with care.",
+          "A GPS or map app is essential for the drives outside the town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Carrickfergus & Schloss",
+            "hu": "Érkezés Carrickfergusba és a vár",
+            "ro": "Sosire în Carrickfergus și Castelul",
+            "en": "Arrival in Carrickfergus & Castle"
+          },
+          "coords": [
+            -5.804,
+            54.7135
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist nur einen kurzen Spaziergang vom Schloss entfernt, ein perfekter Ausgangspunkt.",
+            "hu": "A vasútállomás csak egy rövid sétára van a vártól, tökéletes kiindulópont.",
+            "ro": "Gara este la o scurtă plimbare de castel, un punct de plecare perfect.",
+            "en": "The train station is a short walk from the castle, a perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Zentrum: St. Nikolaus & Stadtmauern",
+            "hu": "Séta a központban: Szent Miklós és városfalak",
+            "ro": "Plimbare în centru: Sf. Nicolae și zidurile orașului",
+            "en": "Town Centre Walk: St. Nicholas' & Town Walls"
+          },
+          "coords": [
+            -5.809,
+            54.715
+          ],
+          "category": "fortresses",
+          "arrive_at": "11:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kern der Stadt zu Fuß.",
+            "hu": "Fedezze fel a város történelmi magját gyalog.",
+            "ro": "Explorați nucleul istoric al orașului pe jos.",
+            "en": "Explore the historic core of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Hafens",
+            "hu": "Ebéd a kikötő közelében",
+            "ro": "Prânz lângă port",
+            "en": "Lunch near the Harbour"
+          },
+          "coords": [
+            -5.807,
+            54.714
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie den Bus für den nächsten Teil Ihrer Reise nehmen.",
+            "hu": "Töltődjön fel, mielőtt buszra szállna az utazás következő részéhez.",
+            "ro": "Realimentați-vă înainte de a lua autobuzul pentru următoarea parte a călătoriei.",
+            "en": "Refuel before you take the bus for the next part of your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Andrew Jackson Cottage",
+            "hu": "Busz az Andrew Jackson kunyhóhoz",
+            "ro": "Autobuz spre Cabana Andrew Jackson",
+            "en": "Bus to Andrew Jackson Cottage"
+          },
+          "coords": [
+            -5.845,
+            54.725
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Busfahrplan im Voraus. Von der Haltestelle ist es ein kurzer Spaziergang.",
+            "hu": "Előre ellenőrizze a buszmenetrendet. A megállótól rövid séta.",
+            "ro": "Verificați programul autobuzului în avans. Este o scurtă plimbare de la stație.",
+            "en": "Check the bus schedule in advance. It's a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum & Carrickfergus Museum",
+            "hu": "Busz vissza a központba és Carrickfergus Múzeum",
+            "ro": "Autobuz înapoi în centru și Muzeul Carrickfergus",
+            "en": "Bus to Centre & Carrickfergus Museum"
+          },
+          "coords": [
+            -5.813,
+            54.7158
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Besuch im lokalen Museum, bevor Sie den Zug nach Hause nehmen.",
+            "hu": "Fejezze be a túrát egy látogatással a helyi múzeumban, mielőtt hazaindulna a vonattal.",
+            "ro": "Încheiați-vă turul cu o vizită la muzeul local înainte de a lua trenul spre casă.",
+            "en": "Finish your tour with a visit to the local museum before taking the train home."
+          }
+        },
+        {
+          "name": {
+            "de": "Abfahrt vom Bahnhof Carrickfergus",
+            "hu": "Indulás a Carrickfergus vasútállomásról",
+            "ro": "Plecare din gara Carrickfergus",
+            "en": "Departure from Carrickfergus Station"
+          },
+          "coords": [
+            -5.815,
+            54.718
+          ],
+          "category": "transit",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Bahnhof ist leicht zu Fuß erreichbar.",
+            "hu": "Az állomás könnyen megközelíthető gyalog.",
+            "ro": "Gara este ușor accesibilă pe jos.",
+            "en": "The station is an easy walk from the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Carrickfergus, von wo aus Sie direkt zum majestätischen Schloss spazieren. Nachdem Sie die Festung erkundet haben, schlendern Sie durch das historische Zentrum, vorbei an der St.-Nikolaus-Kirche und den alten Stadtmauern. Ein stärkendes Mittagessen am Hafen bereitet Sie auf das nächste Abenteuer vor. Am Nachmittag bringt Sie ein lokaler Bus zum ländlich gelegenen Andrew Jackson Cottage, einem Ort mit überraschender historischer Bedeutung. Anschließend fahren Sie mit dem Bus zurück ins Zentrum, um im Carrickfergus Museum mehr über die lokale Geschichte zu erfahren, bevor Sie Ihren ereignisreichen Tag am Bahnhof beenden.",
+        "hu": "Tömegközlekedési utazása a carrickfergusi vasútállomáson kezdődik, ahonnan egyenesen a fenséges várhoz sétálhat. Miután felfedezte az erődöt, sétáljon végig a történelmi központon, elhaladva a Szent Miklós-templom és a régi városfalak mellett. Egy tápláló ebéd a kikötőben felkészíti a következő kalandra. Délután egy helyi busz elviszi a vidéki Andrew Jackson kunyhóhoz, egy meglepő történelmi jelentőségű helyre. Ezután busszal visszatér a központba, hogy a Carrickfergus Múzeumban többet tudjon meg a helyi történelemről, mielőtt eseménydús napját a vasútállomáson fejezné be.",
+        "ro": "Călătoria dvs. cu transportul public începe la gara din Carrickfergus, de unde vă plimbați direct la castelul maiestuos. După explorarea fortăreței, vă plimbați prin centrul istoric, trecând pe lângă Biserica Sf. Nicolae și vechile ziduri ale orașului. Un prânz consistent în port vă pregătește pentru următoarea aventură. După-amiaza, un autobuz local vă duce la Cabana rurală Andrew Jackson, un loc cu o semnificație istorică surprinzătoare. Apoi, luați autobuzul înapoi în centru pentru a afla mai multe despre istoria locală la Muzeul Carrickfergus, înainte de a vă încheia ziua plină de evenimente la gară.",
+        "en": "Your journey by public transport begins at Carrickfergus train station, from where you'll walk straight to the majestic castle. After exploring the fortress, you'll wander through the historic centre, past St. Nicholas' Church and the old town walls. A hearty lunch at the harbour prepares you for the next adventure. In the afternoon, a local bus takes you to the rural Andrew Jackson Cottage, a place of surprising historical significance. You'll then take the bus back to the centre to learn more about local history at the Carrickfergus Museum, before ending your eventful day back at the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coffee Shop in der High Street",
+            "tip": "Schnappen Sie sich einen Kaffee und ein Gebäck, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "The Railway Arms",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, perfekt für ein letztes Pint."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a High Streeten",
+            "tip": "Kapjon be egy kávét és egy süteményt, amíg a buszra vár."
+          },
+          {
+            "name": "The Railway Arms",
+            "tip": "Hagyományos pub a vasútállomás közelében, tökéletes egy utolsó korsó sörhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea pe High Street",
+            "tip": "Luați o cafea și un produs de patiserie în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "The Railway Arms",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o ultimă halbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coffee shop on the High Street",
+            "tip": "Grab a coffee and a pastry while waiting for your bus."
+          },
+          {
+            "name": "The Railway Arms",
+            "tip": "A traditional pub near the station, perfect for a final pint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Carrickfergus Library",
+            "tip": "Ein ruhiger Ort, um sich auszuruhen und vielleicht ein Buch über die lokale Geschichte zu lesen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Blick aus dem Zugfenster",
+            "tip": "Genießen Sie die Küstenlandschaft auf der Fahrt von oder nach Belfast.",
+            "emoji": "🚆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrickfergusi Könyvtár",
+            "tip": "Csendes hely a pihenésre, és talán egy helytörténeti könyv olvasására.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Kilátás a vonat ablakából",
+            "tip": "Élvezze a tengerparti tájat a Belfastba tartó vagy onnan induló úton.",
+            "emoji": "🚆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Carrickfergus",
+            "tip": "Un loc liniștit pentru a vă odihni și poate a citi o carte despre istoria locală.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Priveliștea de la fereastra trenului",
+            "tip": "Bucurați-vă de peisajul de coastă în timpul călătoriei spre sau dinspre Belfast.",
+            "emoji": "🚆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrickfergus Library",
+            "tip": "A quiet place to rest and maybe read a book on local history.",
+            "emoji": "📚"
+          },
+          {
+            "name": "View from the train window",
+            "tip": "Enjoy the coastal scenery on the journey to or from Belfast.",
+            "emoji": "🚆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charity Shops",
+            "tip": "Stöbern Sie nach einzigartigen Fundstücken und unterstützen Sie gleichzeitig einen guten Zweck."
+          },
+          {
+            "name": "Market Square",
+            "tip": "Überprüfen Sie, ob während Ihres Besuchs ein lokaler Markt stattfindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jótékonysági üzletek",
+            "tip": "Böngésszen egyedi leletek után, miközben egy jó ügyet is támogat."
+          },
+          {
+            "name": "Piactér",
+            "tip": "Ellenőrizze, hogy látogatása során tartanak-e helyi piacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de caritate",
+            "tip": "Căutați chilipiruri unice în timp ce sprijiniți o cauză bună."
+          },
+          {
+            "name": "Piața Centrală",
+            "tip": "Verificați dacă există o piață locală în timpul vizitei dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charity Shops",
+            "tip": "Browse for unique finds while supporting a good cause."
+          },
+          {
+            "name": "Market Square",
+            "tip": "Check to see if there is a local market on during your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Bahn, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter, um Echtzeit-Informationen zu erhalten.",
+          "Planen Sie zusätzliche Zeit für Verbindungen ein, besonders bei Bussen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra és a vonatra, hogy pénzt takarítson meg.",
+          "Töltse le a menetrend alkalmazást a valós idejű információkért.",
+          "Tervezzen plusz időt a csatlakozásokra, különösen a buszok esetében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și tren pentru a economisi bani.",
+          "Descărcați aplicația de orare pentru a obține informații în timp real.",
+          "Planificați timp suplimentar pentru conexiuni, în special pentru autobuze."
+        ],
+        "en": [
+          "Buy a day ticket for the bus and train to save money.",
+          "Download the timetable app for real-time information.",
+          "Allow extra time for connections, especially with buses."
+        ]
+      }
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "city_id": "uk-birmingham-cities-v2",
   "anchor": {
-    "name": "Victoria Square",
+    "name": "Birmingham",
     "coords": [
-      -1.9025,
-      52.4795
+      -1.8904,
+      52.4862
     ]
   },
   "modes": {
@@ -12,540 +12,753 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 4.2,
-      "stop_count": 7,
+      "end_estimate": "17:50",
+      "total_km": 3.8,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
             "de": "Victoria Square",
-            "hu": "Victoria Square",
+            "hu": "Victoria tér",
             "ro": "Piața Victoria",
             "en": "Victoria Square"
           },
           "coords": [
-            -1.9025,
-            52.4795
+            -1.8986,
+            52.4796
           ],
-          "category": "square",
+          "category": "squares/old-town",
           "arrive_at": "09:10",
           "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bewundern Sie die Statue 'The Floozie in the Jacuzzi'.",
-            "hu": "Nézze meg a 'The Floozie in the Jacuzzi' szobrot.",
-            "ro": "Admirați statuia 'The Floozie in the Jacuzzi'.",
-            "en": "Admire 'The Floozie in the Jacuzzi' statue."
+            "de": "Bewundern Sie die Statue von Königin Victoria und das Rathaus.",
+            "hu": "Csodálja meg Viktória királynő szobrát és a Városházát.",
+            "ro": "Admirați statuia Reginei Victoria și Primăria.",
+            "en": "Admire the statue of Queen Victoria and the Town Hall."
           }
         },
         {
           "name": {
-            "de": "Birmingham Museum & Art Gallery",
-            "hu": "Birminghami Múzeum és Galéria",
+            "de": "St. Philip's Cathedral",
+            "hu": "Szent Fülöp-székesegyház",
+            "ro": "Catedrala Sf. Filip",
+            "en": "St. Philip's Cathedral"
+          },
+          "coords": [
+            -1.895,
+            52.4815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den beeindruckenden Buntglasfenstern von Burne-Jones.",
+            "hu": "Keresse a lenyűgöző Burne-Jones-féle ólomüveg ablakokat.",
+            "ro": "Căutați vitraliile impresionante realizate de Burne-Jones.",
+            "en": "Look for the impressive stained-glass windows by Burne-Jones."
+          }
+        },
+        {
+          "name": {
+            "de": "Birmingham Museum & Kunstgalerie",
+            "hu": "Birminghami Múzeum és Művészeti Galéria",
             "ro": "Muzeul și Galeria de Artă din Birmingham",
             "en": "Birmingham Museum & Art Gallery"
           },
           "coords": [
-            -1.9038,
-            52.4798
+            -1.9022,
+            52.4815
           ],
-          "category": "museum",
-          "arrive_at": "09:45",
+          "category": "museums",
+          "arrive_at": "10:39",
           "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Die Sammlung präraffaelitischer Kunst ist weltberühmt.",
-            "hu": "A preraffaelita gyűjtemény világhírű.",
-            "ro": "Colecția prerafaelită este faimoasă în lume.",
-            "en": "The Pre-Raphaelite collection is world-renowned."
+            "de": "Die präraffaelitische Sammlung ist weltberühmt – ein Muss.",
+            "hu": "A preraffaelita gyűjtemény világhírű – ne hagyja ki.",
+            "ro": "Colecția pre-rafaelită este de renume mondial – nu o ratați.",
+            "en": "The Pre-Raphaelite collection is world-famous—a must-see."
           }
         },
         {
           "name": {
-            "de": "Library of Birmingham",
+            "de": "Bibliothek von Birmingham",
             "hu": "Birminghami Könyvtár",
             "ro": "Biblioteca din Birmingham",
             "en": "Library of Birmingham"
           },
           "coords": [
-            -1.9085,
-            52.4797
+            -1.908,
+            52.4795
           ],
-          "category": "landmark",
-          "arrive_at": "11:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Besuchen Sie den Shakespeare-Raum im obersten Stock.",
-            "hu": "Látogasson el a Shakespeare-terembe a legfelső emeleten.",
-            "ro": "Vizitați camera Shakespeare de la ultimul etaj.",
-            "en": "Visit the Shakespeare Room on the top floor."
-          }
-        },
-        {
-          "name": {
-            "de": "Brindleyplace & Kanäle",
-            "hu": "Brindleyplace és csatornák",
-            "ro": "Brindleyplace și Canalele",
-            "en": "Brindleyplace & Canals"
-          },
-          "coords": [
-            -1.9135,
-            52.4785
-          ],
-          "category": "harbor",
-          "arrive_at": "12:35",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Perfekt für ein Mittagessen am Wasser.",
-            "hu": "Tökéletes egy vízparti ebédhez.",
-            "ro": "Perfect pentru un prânz pe malul apei.",
-            "en": "Perfect for a waterside lunch."
-          }
-        },
-        {
-          "name": {
-            "de": "The Mailbox",
-            "hu": "The Mailbox",
-            "ro": "The Mailbox",
-            "en": "The Mailbox"
-          },
-          "coords": [
-            -1.9055,
-            52.4755
-          ],
-          "category": "shopping",
-          "arrive_at": "14:20",
-          "stay_min": 50,
-          "hop_from_prev_min": 15,
+          "category": "museums",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
           "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Exklusives Shopping und Blick auf den Kanal.",
-            "hu": "Exkluzív vásárlás és kilátás a csatornára.",
-            "ro": "Cumpărături exclusive și vedere la canal.",
-            "en": "Exclusive shopping and canal views."
+            "de": "Fahren Sie auf die geheime Gartenterrasse für einen tollen Blick auf die Stadt.",
+            "hu": "Menjen fel a titkos kerti teraszra a nagyszerű városi kilátásért.",
+            "ro": "Urcați la terasa-grădină secretă pentru o priveliște superbă asupra orașului.",
+            "en": "Go up to the secret garden terrace for a great city view."
           }
         },
         {
           "name": {
-            "de": "St. Martin in the Bull Ring",
-            "hu": "Szent Márton-templom",
-            "ro": "Biserica St Martin",
-            "en": "St Martin in the Bull Ring"
+            "de": "Gas Street Basin",
+            "hu": "Gas Street Basin",
+            "ro": "Bazinul Gas Street",
+            "en": "Gas Street Basin"
           },
           "coords": [
-            -1.8935,
-            52.4775
+            -1.9079,
+            52.4766
           ],
-          "category": "religious",
-          "arrive_at": "15:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.2,
+          "category": "industrial heritage",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ein neugotisches Juwel inmitten moderner Architektur.",
-            "hu": "Neogótikus ékszer a modern építészet közepén.",
-            "ro": "O bijuterie neogotică în mijlocul arhitecturii moderne.",
-            "en": "A neo-Gothic gem amidst modern architecture."
+            "de": "Machen Sie eine Narrowboat-Fahrt, um die Kanäle aus einer anderen Perspektive zu sehen.",
+            "hu": "Tegyen egy keskeny hajókirándulást, hogy más szemszögből is láthassa a csatornákat.",
+            "ro": "Faceți o plimbare cu barca îngustă pentru a vedea canalele dintr-o altă perspectivă.",
+            "en": "Take a narrowboat trip to see the canals from a different perspective."
           }
         },
         {
           "name": {
             "de": "Bullring & Grand Central",
-            "hu": "Bullring bevásárlóközpont",
+            "hu": "Bullring & Grand Central",
             "ro": "Bullring & Grand Central",
             "en": "Bullring & Grand Central"
           },
           "coords": [
-            -1.8945,
-            52.4782
+            -1.8936,
+            52.4781
           ],
-          "category": "shopping",
-          "arrive_at": "16:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "category": "squares/old-town",
+          "arrive_at": "15:31",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Das Selfridges-Gebäude ist ein architektonisches Muss.",
-            "hu": "A Selfridges épülete kötelező látnivaló.",
-            "ro": "Clădirea Selfridges este un must-see arhitectural.",
-            "en": "The Selfridges building is an architectural must-see."
+            "de": "Vergessen Sie nicht, ein Foto mit der berühmten Stierskulptur zu machen.",
+            "hu": "Ne felejtsen el fényképet készíteni a híres bika szoborral.",
+            "ro": "Nu uitați să faceți o fotografie cu faimoasa sculptură a taurului.",
+            "en": "Don't forget to take a photo with the iconic Bull sculpture."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Vormittags erkunden Sie das kulturelle Herz Birminghams am Victoria Square und im großartigen Museum. Mittags genießen Sie die Atmosphäre an den Kanälen bei Brindleyplace. Nachmittags widmen Sie sich dem modernen Birmingham mit exklusivem Shopping im Mailbox und dem ikonischen Bullring.",
-        "hu": "Délelőtt Birmingham kulturális szívét fedezi fel a Victoria Square-en és a nagyszerű múzeumban. Ebédidőben élvezze a csatornaparti hangulatot Brindleyplace-nél. Délután a modern Birminghamé a főszerep az exkluzív Mailbox-szal és az ikonikus Bullringgel.",
-        "ro": "Dimineața explorați inima culturală a orașului Birmingham în Piața Victoria și în marele muzeu. La prânz bucurați-vă de atmosfera de pe malul canalului la Brindleyplace. După-amiaza este dedicată Birmingham-ului modern, cu cumpărături exclusive la Mailbox și emblematicul Bullring.",
-        "en": "In the morning, explore Birmingham's cultural heart at Victoria Square and the grand museum. At lunchtime, enjoy the canal-side atmosphere at Brindleyplace. The afternoon is dedicated to modern Birmingham with exclusive shopping at the Mailbox and the iconic Bullring."
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, am Victoria Square, umgeben von prächtiger Architektur. Am Vormittag tauchen Sie in die Kunst in Birminghams berühmtem Museum ein, bevor Sie das moderne Wunder der Bibliothek entdecken. Nach einem gemütlichen Mittagessen am Kanal im Gas Street Basin, dem historischen Herzen von Englands Wasserstraßen, verbringen Sie den Nachmittag mit Erkundungen. Schließen Sie Ihren Tag im Bullring ab, einem Paradies für Käufer, wo Sie die moderne und die historische Seite Birminghams an einem Ort erleben.",
+        "hu": "Kezdje a napot a város szívében, a Victoria téren, csodálatos építészettel körülvéve. A délelőtt folyamán merüljön el a művészetben Birmingham híres múzeumában, mielőtt felfedezné a könyvtár modern csodáját. Egy kellemes ebéd után a Gas Street Basin csatornája mellett, Anglia vízi útjainak történelmi központjában, töltse a délutánt felfedezéssel. Zárja a napot a Bullringben, a vásárlók paradicsomában, ahol Birmingham modern és történelmi oldala egy helyen találkozik.",
+        "ro": "Începeți ziua în inima orașului, Piața Victoria, înconjurat de o arhitectură magnifică. În cursul dimineții, cufundați-vă în artă la faimosul muzeu din Birmingham înainte de a descoperi minunea modernă a bibliotecii. După un prânz relaxant pe malul canalului la Gas Street Basin, inima istorică a căilor navigabile din Anglia, petreceți după-amiaza explorând. Încheiați ziua la Bullring, un paradis pentru cumpărători, unde modernul și istoricul Birminghamului se întâlnesc într-un singur loc.",
+        "en": "Start your day in the heart of the city at Victoria Square, surrounded by magnificent architecture. In the morning, immerse yourself in art at Birmingham's famed museum before discovering the modern marvel of the library. After a leisurely lunch by the canal at Gas Street Basin, the historic heart of England's waterways, spend the afternoon exploring. End your day at the Bullring, a shopper's paradise, where modern and historic Birmingham meet in one place."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Balti Triangle",
-            "tip": "Probieren Sie ein authentisches Birmingham Balti Curry."
+            "tip": "Probieren Sie ein authentisches Birmingham Balti, ein würziges Curry, das in der Stadt erfunden wurde."
+          },
+          {
+            "name": "The Old Crown",
+            "tip": "Genießen Sie traditionelle Pub-Gerichte in Birminghams ältestem Pub aus dem Jahr 1368."
+          },
+          {
+            "name": "Dishoom",
+            "tip": "Für gehobene indische Küche in einer wunderschönen Umgebung, inspiriert von den iranischen Cafés in Bombay."
           }
         ],
         "hu": [
           {
-            "name": "Balti Triangle",
-            "tip": "Kóstolja meg az autentikus birminghami Balti curry-t."
+            "name": "Balti-háromszög",
+            "tip": "Kóstoljon meg egy autentikus birminghami Baltit, egy fűszeres curryt, amit a városban találtak ki."
+          },
+          {
+            "name": "The Old Crown",
+            "tip": "Élvezze a hagyományos pub-ételeket Birmingham legrégebbi, 1368-ból származó kocsmájában."
+          },
+          {
+            "name": "Dishoom",
+            "tip": "Felsőkategóriás indiai konyha egy gyönyörű környezetben, amelyet a bombayi iráni kávézók ihlettek."
           }
         ],
         "ro": [
           {
-            "name": "Balti Triangle",
-            "tip": "Încercați un curry Balti autentic din Birmingham."
+            "name": "Triunghiul Balti",
+            "tip": "Încercați un autentic Birmingham Balti, un curry picant inventat în oraș."
+          },
+          {
+            "name": "The Old Crown",
+            "tip": "Bucurați-vă de mâncare tradițională de pub în cel mai vechi pub din Birmingham, datând din 1368."
+          },
+          {
+            "name": "Dishoom",
+            "tip": "Pentru bucătărie indiană de lux într-un cadru frumos, inspirat de cafenelele iraniene din Bombay."
           }
         ],
         "en": [
           {
             "name": "Balti Triangle",
-            "tip": "Try an authentic Birmingham Balti curry."
+            "tip": "Try an authentic Birmingham Balti, a spicy curry invented in the city."
+          },
+          {
+            "name": "The Old Crown",
+            "tip": "Enjoy traditional pub food in Birmingham's oldest pub, dating back to 1368."
+          },
+          {
+            "name": "Dishoom",
+            "tip": "For upscale Indian dining in a beautiful setting inspired by Bombay's Irani cafés."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Gas Street Basin",
-            "tip": "Ein ruhiger Ort am Kanal für eine Pause.",
-            "emoji": "🛶"
+            "name": "Spaziergang am Kanal",
+            "tip": "Ein Spaziergang entlang der ruhigen Kanäle ist eine friedliche Flucht aus der Hektik der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Philip's Cathedral Grounds",
+            "tip": "Finden Sie eine ruhige Bank im Kirchhof, einem grünen Ort im Stadtzentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Library of Birmingham Secret Garden",
+            "tip": "Genießen Sie die Ruhe und die Aussicht von der Dachterrasse der Bibliothek.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Gas Street Basin",
-            "tip": "Csendes pont a csatornánál egy pihenőhöz.",
-            "emoji": "🛶"
+            "name": "Csatornaparti séta",
+            "tip": "Egy séta a csendes csatornák mentén békés menekülést nyújt a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Fülöp-székesegyház kertje",
+            "tip": "Találjon egy csendes padot a templomkertben, egy zöld területen a városközpontban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Birminghami Könyvtár Titkos Kertje",
+            "tip": "Élvezze a csendet és a kilátást a könyvtár tetőteraszáról.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Gas Street Basin",
-            "tip": "Un loc liniștit pe canal pentru o pauză.",
-            "emoji": "🛶"
+            "name": "Plimbare pe malul canalului",
+            "tip": "O plimbare de-a lungul canalelor liniștite este o evadare pașnică din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Catedralei Sf. Filip",
+            "tip": "Găsiți o bancă liniștită în curtea bisericii, un loc verde în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Secretă a Bibliotecii din Birmingham",
+            "tip": "Bucurați-vă de liniște și de priveliști de pe terasa de pe acoperișul bibliotecii.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Gas Street Basin",
-            "tip": "A quiet spot by the canal for a break.",
-            "emoji": "🛶"
+            "name": "Canal Stroll",
+            "tip": "A walk along the quiet canals is a peaceful escape from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Philip's Cathedral Grounds",
+            "tip": "Find a quiet bench in the churchyard, a green space in the city centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Library of Birmingham Secret Garden",
+            "tip": "Enjoy peace and views from the library's rooftop terrace.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Jewellery Quarter",
-            "tip": "Handgefertigter Schmuck direkt vom Hersteller."
+            "name": "Bullring & Grand Central",
+            "tip": "Birminghams Hauptziel für alles, von High-Street bis hin zu Luxusmarken."
+          },
+          {
+            "name": "Great Western Arcade",
+            "tip": "Entdecken Sie unabhängige Boutiquen und einzigartige Geschäfte in dieser wunderschönen viktorianischen Arkade."
+          },
+          {
+            "name": "Digbeth",
+            "tip": "Besuchen Sie die Red Brick Market für Vintage-Funde und lokale Kunsthandwerker."
           }
         ],
         "hu": [
           {
-            "name": "Jewellery Quarter",
-            "tip": "Kézzel készített ékszerek közvetlenül a készítőktől."
+            "name": "Bullring & Grand Central",
+            "tip": "Birmingham elsődleges célpontja mindenhez, a high-street márkáktól a luxusig."
+          },
+          {
+            "name": "Great Western Arcade",
+            "tip": "Fedezze fel a független butikokat és egyedi üzleteket ebben a gyönyörű viktoriánus árkádban."
+          },
+          {
+            "name": "Digbeth",
+            "tip": "Látogasson el a Red Brick Marketre vintage leletekért és helyi kézművesekért."
           }
         ],
         "ro": [
           {
-            "name": "Jewellery Quarter",
-            "tip": "Bijuterii lucrate manual direct de la producători."
+            "name": "Bullring & Grand Central",
+            "tip": "Principala destinație din Birmingham pentru tot, de la mărci de stradă la cele de lux."
+          },
+          {
+            "name": "Great Western Arcade",
+            "tip": "Explorați buticuri independente și magazine unice în această frumoasă arcadă victoriană."
+          },
+          {
+            "name": "Digbeth",
+            "tip": "Vizitați Piața Red Brick pentru descoperiri vintage și artizani locali."
           }
         ],
         "en": [
           {
-            "name": "Jewellery Quarter",
-            "tip": "Handmade jewellery direct from the makers."
+            "name": "Bullring & Grand Central",
+            "tip": "Birmingham's primary destination for everything from high-street to luxury brands."
+          },
+          {
+            "name": "Great Western Arcade",
+            "tip": "Explore independent boutiques and unique shops in this beautiful Victorian arcade."
+          },
+          {
+            "name": "Digbeth",
+            "tip": "Check out the Red Brick Market for vintage finds and local artisans."
           }
         ]
       },
       "tips": {
         "de": [
-          "Birmingham ist sehr fußgängerfreundlich.",
-          "Nutzen Sie die Kanalspazierwege."
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Museen in Birmingham sind kostenlos, aber für Sonderausstellungen kann ein Eintritt anfallen.",
+          "Das Wetter in Großbritannien kann unvorhersehbar sein, also packen Sie einen Regenschirm ein.",
+          "Halten Sie Ausschau nach den zahlreichen öffentlichen Kunstwerken, die in der ganzen Stadt verteilt sind."
         ],
         "hu": [
-          "Birmingham nagyon gyalogosbarát város.",
-          "Használja a csatornaparti sétányokat."
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb birminghami múzeum ingyenes, de a különleges kiállításokért díjat számíthatnak fel.",
+          "Az Egyesült Királyság időjárása kiszámíthatatlan, ezért csomagoljon esernyőt.",
+          "Figyelje a városban elszórtan található számos köztéri műalkotást."
         ],
         "ro": [
-          "Birmingham este un oraș foarte prietenos cu pietonii.",
-          "Utilizați aleile de plimbare de-a lungul canalelor."
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea muzeelor din Birmingham sunt gratuite, dar expozițiile speciale pot avea o taxă de intrare.",
+          "Vremea în Marea Britanie poate fi imprevizibilă, așa că împachetați o umbrelă.",
+          "Fiți atenți la numeroasele opere de artă publică răspândite prin oraș."
         ],
         "en": [
-          "Birmingham is very pedestrian-friendly.",
-          "Make use of the canal towpaths."
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most museums in Birmingham are free, but special exhibitions may have an entry fee.",
+          "UK weather can be unpredictable, so pack an umbrella.",
+          "Keep an eye out for the numerous public art installations dotted around the city."
         ]
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 12.5,
+      "end_estimate": "18:07",
+      "total_km": 15.5,
       "stop_count": 6,
       "stops": [
         {
           "name": {
+            "de": "Gas Street Basin",
+            "hu": "Gas Street Basin",
+            "ro": "Bazinul Gas Street",
+            "en": "Gas Street Basin"
+          },
+          "coords": [
+            -1.9079,
+            52.4766
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Radtour, um die Kanäle am Morgenlicht zu genießen.",
+            "hu": "Kezdje itt a kerékpártúrát, hogy élvezze a csatornákat a reggeli fényben.",
+            "ro": "Începeți turul cu bicicleta de aici pentru a vă bucura de canale la lumina dimineții.",
+            "en": "Start your bike tour here to enjoy the canals in the morning light."
+          }
+        },
+        {
+          "name": {
             "de": "Jewellery Quarter",
             "hu": "Ékszernegyed",
-            "ro": "Cartierul Bijuteriilor",
+            "ro": "Cartierul Bijutierilor",
             "en": "Jewellery Quarter"
           },
           "coords": [
-            -1.9125,
-            52.4885
+            -1.912,
+            52.487
           ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
+          "category": "industrial heritage",
+          "arrive_at": "09:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
           "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Besuchen Sie das Museum of the Jewellery Quarter.",
-            "hu": "Látogasson el az Ékszernegyed Múzeumba.",
-            "ro": "Vizitați Muzeul Cartierului Bijuteriilor.",
-            "en": "Visit the Museum of the Jewellery Quarter."
+            "de": "Besuchen Sie das Museum des Jewellery Quarter, um in die Geschichte des Handels einzutauchen.",
+            "hu": "Látogasson el az Ékszernegyed Múzeumába, hogy elmerüljön a szakma történetében.",
+            "ro": "Vizitați Muzeul Cartierului Bijutierilor pentru a pătrunde în istoria meseriei.",
+            "en": "Visit the Museum of the Jewellery Quarter to delve into the history of the trade."
           }
         },
         {
           "name": {
-            "de": "Cannon Hill Park",
-            "hu": "Cannon Hill Park",
-            "ro": "Parcul Cannon Hill",
-            "en": "Cannon Hill Park"
+            "de": "Victoria Square",
+            "hu": "Victoria tér",
+            "ro": "Piața Victoria",
+            "en": "Victoria Square"
           },
           "coords": [
-            -1.9055,
-            52.4545
+            -1.8986,
+            52.4796
           ],
-          "category": "park",
-          "arrive_at": "10:45",
-          "stay_min": 75,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Wunderschöne Wege zum Radfahren im Grünen.",
-            "hu": "Gyönyörű utak a zöldben való biciklizéshez.",
-            "ro": "Trasee minunate pentru ciclism în natură.",
-            "en": "Beautiful paths for cycling in the greenery."
-          }
-        },
-        {
-          "name": {
-            "de": "Selly Manor",
-            "hu": "Selly Manor",
-            "ro": "Selly Manor",
-            "en": "Selly Manor"
-          },
-          "coords": [
-            -1.9335,
-            52.4305
-          ],
-          "category": "historical",
-          "arrive_at": "12:25",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 3.2,
-          "tip_5lang": {
-            "de": "Ein Tudor-Haus mitten in Bournville.",
-            "hu": "Tudor-ház Bournville közepén.",
-            "ro": "O casă Tudor în mijlocul Bournville.",
-            "en": "A Tudor house in the middle of Bournville."
-          }
-        },
-        {
-          "name": {
-            "de": "Cadbury World",
-            "hu": "Cadbury World",
-            "ro": "Cadbury World",
-            "en": "Cadbury World"
-          },
-          "coords": [
-            -1.9315,
-            52.4285
-          ],
-          "category": "museum",
-          "arrive_at": "13:35",
-          "stay_min": 120,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Ein Muss für Schokoladenliebhaber.",
-            "hu": "Csokoládéimádóknak kötelező.",
-            "ro": "Un must pentru iubitorii de ciocolată.",
-            "en": "A must for chocolate lovers."
-          }
-        },
-        {
-          "name": {
-            "de": "Winterbourne House & Garden",
-            "hu": "Winterbourne Ház és Kert",
-            "ro": "Winterbourne House & Garden",
-            "en": "Winterbourne House & Garden"
-          },
-          "coords": [
-            -1.9295,
-            52.4515
-          ],
-          "category": "garden",
-          "arrive_at": "16:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 2.8,
-          "tip_5lang": {
-            "de": "Ein verstecktes botanisches Juwel der Universität.",
-            "hu": "Az egyetem rejtett botanikai ékszere.",
-            "ro": "O bijuterie botanică ascunsă a universității.",
-            "en": "A hidden botanical gem of the university."
-          }
-        },
-        {
-          "name": {
-            "de": "University of Birmingham Campus",
-            "hu": "Birminghami Egyetem campus",
-            "ro": "Campusul Universității din Birmingham",
-            "en": "University of Birmingham Campus"
-          },
-          "coords": [
-            -1.9305,
-            52.4505
-          ],
-          "category": "civic",
-          "arrive_at": "17:10",
+          "category": "squares/old-town",
+          "arrive_at": "11:37",
           "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Sehen Sie den Old Joe Uhrturm.",
-            "hu": "Nézze meg az Old Joe óratornyot.",
-            "ro": "Vedeți turnul cu ceas Old Joe.",
-            "en": "See the Old Joe clock tower."
+            "de": "Ein großartiger Ort, um das Fahrrad abzustellen und die zentrale Architektur zu bewundern.",
+            "hu": "Nagyszerű hely a bicikli leparkolására és a központi építészet megcsodálására.",
+            "ro": "Un loc minunat pentru a parca bicicleta și a admira arhitectura centrală.",
+            "en": "A great spot to park the bike and admire the central architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bullring & Grand Central",
+            "hu": "Bullring & Grand Central",
+            "ro": "Bullring & Grand Central",
+            "en": "Bullring & Grand Central"
+          },
+          "coords": [
+            -1.8936,
+            52.4781
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und gönnen Sie sich ein Mittagessen in einem der vielen Restaurants.",
+            "hu": "Zárja le a biciklit, és ebédeljen az egyik sok étteremben.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de prânz la una dintre numeroasele opțiuni de luat masa.",
+            "en": "Lock up your bike and grab lunch at one of the many dining options."
+          }
+        },
+        {
+          "name": {
+            "de": "Birmingham Botanical Gardens",
+            "hu": "Birminghami Botanikus Kert",
+            "ro": "Grădinile Botanice din Birmingham",
+            "en": "Birmingham Botanical Gardens"
+          },
+          "coords": [
+            -1.9366,
+            52.4674
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein langer, aber lohnender Ritt. Die Glasgewächshäuser sind spektakulär.",
+            "hu": "Hosszú, de megéri az utat. Az üvegházak látványosak.",
+            "ro": "O plimbare lungă, dar plină de satisfacții. Serele de sticlă sunt spectaculoase.",
+            "en": "A long but rewarding ride. The glasshouses are spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Aston Hall",
+            "hu": "Aston Hall",
+            "ro": "Aston Hall",
+            "en": "Aston Hall"
+          },
+          "coords": [
+            -1.8837,
+            52.5085
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten, da sie begrenzt sein können. Ein Jacobean-Meisterwerk.",
+            "hu": "Ellenőrizze a nyitvatartási időt, mivel korlátozott lehet. Egy jakobinus mestermű.",
+            "ro": "Verificați programul de funcționare, deoarece poate fi limitat. O capodoperă iacobeană.",
+            "en": "Check opening times as they can be limited. A Jacobean masterpiece."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour führt Sie vom historischen Schmuckviertel in den grünen Süden. Nach einer Pause im Cannon Hill Park besuchen Sie das schokoladige Bournville und das botanische Winterbourne House.",
-        "hu": "Ez a kerékpártúra a történelmi Ékszernegyedtől a zöld dél felé viszi. A Cannon Hill Parkban tartott pihenő után ellátogat a csokoládés Bournville-be és a botanikus Winterbourne Házba.",
-        "ro": "Acest tur cu bicicleta vă poartă de la istoricul Cartier al Bijuteriilor către sudul verde. După o pauză în Parcul Cannon Hill, vizitați ciocolatiul Bournville și botanica Casă Winterbourne.",
-        "en": "This bike tour takes you from the historic Jewellery Quarter to the green south. After a break in Cannon Hill Park, visit chocolaty Bournville and the botanical Winterbourne House."
+        "de": "Beginnen Sie Ihren Radtag an den historischen Kanälen von Gas Street Basin. Am Vormittag radeln Sie zum berühmten Jewellery Quarter, um sein Handwerkserbe zu erkunden. Zur Mittagszeit geht es ins Stadtzentrum, um die Atmosphäre am Victoria Square aufzusaugen und im Bullring einen Happen zu essen. Der Nachmittag ist einer längeren, erfrischenden Fahrt zu den wunderschönen Botanischen Gärten gewidmet, einem perfekten Kontrast zur städtischen Landschaft. Beenden Sie Ihr Abenteuer mit einer Fahrt zum majestätischen Aston Hall und werfen Sie einen Blick in die aristokratische Vergangenheit Birminghams.",
+        "hu": "Kezdje a kerékpáros napot a Gas Street Basin történelmi csatornáinál. Délelőtt tekerjen el a híres Ékszernegyedbe, hogy felfedezze kézműves örökségét. Ebédidőben irány a városközpont, hogy magába szívja a Victoria tér hangulatát és harapjon valamit a Bullringben. A délután egy hosszabb, frissítő tekerésé a gyönyörű Botanikus Kertbe, amely tökéletes kontrasztot nyújt a városi tájjal. Zárja a kalandot egy tekeréssel a fenséges Aston Hallhoz, bepillantást nyerve Birmingham arisztokrata múltjába.",
+        "ro": "Începeți ziua de ciclism la canalele istorice din Gas Street Basin. Dimineața, pedalați spre faimosul Cartier al Bijutierilor pentru a-i explora moștenirea meșteșugărească. La prânz, îndreptați-vă spre centrul orașului pentru a absorbi atmosfera din Piața Victoria și a lua o gustare la Bullring. După-amiaza este dedicată unei plimbări mai lungi și revigorante către frumoasele Grădini Botanice, un contrast perfect cu peisajul urban. Încheiați-vă aventura cu o plimbare la maiestuosul Aston Hall, aruncând o privire în trecutul aristocratic al Birminghamului.",
+        "en": "Start your cycling day at the historic canals of Gas Street Basin. In the morning, pedal to the famous Jewellery Quarter to explore its craft heritage. For lunchtime, head into the city centre to absorb the atmosphere at Victoria Square and grab a bite at the Bullring. The afternoon is for a longer, refreshing ride to the beautiful Botanical Gardens, a perfect contrast to the urban landscape. End your adventure with a ride to the majestic Aston Hall, glimpsing into Birmingham's aristocratic past."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bournville Tearooms",
-            "tip": "Traditioneller Tee in der Gartenstadt."
+            "name": "The Pig & Tail",
+            "tip": "Eine moderne Kneipe im Jewellery Quarter, ideal für ein Mittagessen und ein Craft-Bier."
+          },
+          {
+            "name": "Original Patty Men",
+            "tip": "Bekannt für einige der besten Burger der Stadt, in der Nähe von Digbeth."
+          },
+          {
+            "name": "The Indian Brewery",
+            "tip": "In der Nähe des Bahnhofs Snow Hill, kombiniert es indisches Street Food mit Craft-Bieren vor Ort."
           }
         ],
         "hu": [
           {
-            "name": "Bournville Tearooms",
-            "tip": "Hagyományos tea a kertvárosban."
+            "name": "The Pig & Tail",
+            "tip": "Modern söröző az Ékszernegyedben, tökéletes ebédre és egy kézműves sörre."
+          },
+          {
+            "name": "Original Patty Men",
+            "tip": "A város legjobb hamburgereiről ismert, Digbeth közelében."
+          },
+          {
+            "name": "The Indian Brewery",
+            "tip": "A Snow Hill állomás közelében található, az indiai street foodot helyben főzött kézműves sörökkel ötvözi."
           }
         ],
         "ro": [
           {
-            "name": "Bournville Tearooms",
-            "tip": "Ceai tradițional în orașul grădină."
+            "name": "The Pig & Tail",
+            "tip": "Un pub modern în Cartierul Bijutierilor, excelent pentru prânz și o bere artizanală."
+          },
+          {
+            "name": "Original Patty Men",
+            "tip": "Cunoscuți pentru unii dintre cei mai buni burgeri din oraș, situați lângă Digbeth."
+          },
+          {
+            "name": "The Indian Brewery",
+            "tip": "Lângă gara Snow Hill, combină mâncarea stradală indiană cu beri artizanale locale."
           }
         ],
         "en": [
           {
-            "name": "Bournville Tearooms",
-            "tip": "Traditional tea in the garden city."
+            "name": "The Pig & Tail",
+            "tip": "A modern pub in the Jewellery Quarter, great for a lunch stop and a craft beer."
+          },
+          {
+            "name": "Original Patty Men",
+            "tip": "Known for some of the best burgers in the city, located near Digbeth."
+          },
+          {
+            "name": "The Indian Brewery",
+            "tip": "Near Snow Hill station, it combines Indian street food with craft beers brewed on-site."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "University Square",
-            "tip": "Ruhiger Campus-Platz.",
-            "emoji": "🏛️"
+            "name": "Rea Valley Route",
+            "tip": "Ein Teil Ihrer Fahrt könnte auf diesem grünen Korridor verlaufen, der aus der Stadt herausführt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Edgbaston Reservoir",
+            "tip": "Ein verstecktes Juwel zum Radfahren und für ruhige Momente am Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winterbourne House and Garden",
+            "tip": "Ein edwardianisches Kunst- und Handwerkshaus mit einem wunderschönen Garten in der Nähe der Botanischen Gärten.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "University Square",
-            "tip": "Csendes egyetemi campus tér.",
-            "emoji": "🏛️"
+            "name": "Rea-völgyi útvonal",
+            "tip": "Az út egy része ezen a zöld folyosón haladhat, amely kivezet a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Edgbaston víztározó",
+            "tip": "Rejtett gyöngyszem a kerékpározáshoz és a csendes vízparti pillanatokhoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winterbourne Ház és Kert",
+            "tip": "Egy edwardiánus Arts and Crafts ház gyönyörű kerttel a Botanikus Kert közelében.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "University Square",
-            "tip": "Piață liniștită de campus.",
-            "emoji": "🏛️"
+            "name": "Ruta Rea Valley",
+            "tip": "O parte din plimbarea dvs. ar putea fi pe acest coridor verde care duce în afara orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rezervorul Edgbaston",
+            "tip": "O bijuterie ascunsă pentru ciclism și momente liniștite lângă apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Casa și Grădina Winterbourne",
+            "tip": "O casă în stil Arts and Crafts din perioada edwardiană, cu o grădină frumoasă, aproape de Grădinile Botanice.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "University Square",
-            "tip": "Quiet campus square.",
-            "emoji": "🏛️"
+            "name": "Rea Valley Route",
+            "tip": "Part of your ride could be on this green corridor leading out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Edgbaston Reservoir",
+            "tip": "A hidden gem for cycling and quiet moments by the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Winterbourne House and Garden",
+            "tip": "An Edwardian Arts and Crafts house with a beautiful garden, near the Botanical Gardens.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Cadbury Shop",
-            "tip": "Große Auswahl an Cadbury-Spezialitäten."
+            "name": "Jewellery Quarter",
+            "tip": "Kaufen Sie einzigartigen, handgefertigten Schmuck direkt von den Herstellern."
+          },
+          {
+            "name": "Custard Factory",
+            "tip": "Stöbern Sie in unabhängigen Geschäften und kreativen Unternehmen im Herzen von Digbeth."
+          },
+          {
+            "name": "Oasis Market",
+            "tip": "Ein alternativer Markt für alles, was mit Gothic, Rock und Vintage zu tun hat."
           }
         ],
         "hu": [
           {
-            "name": "Cadbury Shop",
-            "tip": "Cadbury különlegességek széles választéka."
+            "name": "Ékszernegyed",
+            "tip": "Vásároljon egyedi, kézzel készített ékszereket közvetlenül a készítőktől."
+          },
+          {
+            "name": "Custard Factory",
+            "tip": "Böngésszen független üzletekben és kreatív vállalkozásokban Digbeth szívében."
+          },
+          {
+            "name": "Oasis Market",
+            "tip": "Alternatív piac mindenért, ami gótikus, rock és vintage."
           }
         ],
         "ro": [
           {
-            "name": "Cadbury Shop",
-            "tip": "O selecție largă de specialități Cadbury."
+            "name": "Cartierul Bijutierilor",
+            "tip": "Cumpărați bijuterii unice, lucrate manual, direct de la producători."
+          },
+          {
+            "name": "Custard Factory",
+            "tip": "Răsfoiți magazine independente și afaceri creative în inima Digbeth."
+          },
+          {
+            "name": "Piața Oasis",
+            "tip": "O piață alternativă pentru tot ce este gotic, rock și vintage."
           }
         ],
         "en": [
           {
-            "name": "Cadbury Shop",
-            "tip": "Large selection of Cadbury specialties."
+            "name": "Jewellery Quarter",
+            "tip": "Shop for unique, handcrafted jewellery directly from the makers."
+          },
+          {
+            "name": "Custard Factory",
+            "tip": "Browse independent shops and creative businesses in the heart of Digbeth."
+          },
+          {
+            "name": "Oasis Market",
+            "tip": "An alternative market for all things gothic, rock, and vintage."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Canal Towpath ist ideal für Radfahrer.",
-          "Tragen Sie einen Helm."
+          "Birmingham hat ein wachsendes Netz von Radwegen, einschließlich der Kanalschlepppfade.",
+          "Einige Kanalschlepppfade können eng sein, also seien Sie vorsichtig mit Fußgängern.",
+          "Schließen Sie Ihr Fahrrad immer an einem sicheren Ort ab.",
+          "Die West Midlands Cycle Hire-Punkte sind in der ganzen Stadt für kurzfristige Anmietungen verfügbar."
         ],
         "hu": [
-          "A csatornaparti sétány ideális bicikliseknek.",
-          "Viseljen sisakot."
+          "Birminghamnak növekvő kerékpárút-hálózata van, beleértve a csatorna vontatóösvényeit is.",
+          "Néhány csatorna vontatóösvény szűk lehet, ezért legyen óvatos a gyalogosokkal.",
+          "Mindig zárja le a kerékpárt egy biztonságos helyen.",
+          "A West Midlands Cycle Hire pontok a városban elérhetők rövid távú bérlésre."
         ],
         "ro": [
-          "Aleea de pe malul canalului este ideală pentru bicicliști.",
-          "Purtați cască."
+          "Birmingham are o rețea în creștere de piste pentru biciclete, inclusiv potecile de remorcare a canalelor.",
+          "Unele poteci de remorcare a canalelor pot fi înguste, așa că fiți atenți la pietoni.",
+          "Legați-vă întotdeauna bicicleta într-un loc sigur.",
+          "Punctele West Midlands Cycle Hire sunt disponibile în tot orașul pentru închirieri pe termen scurt."
         ],
         "en": [
-          "The canal towpath is ideal for cyclists.",
-          "Wear a helmet."
+          "Birmingham has a growing network of cycle lanes, including the canal towpaths.",
+          "Some canal towpaths can be narrow, so be considerate of pedestrians.",
+          "Always lock your bike securely.",
+          "West Midlands Cycle Hire points are available around the city for short-term rentals."
         ]
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 25,
+      "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 28.5,
-      "stop_count": 8,
+      "end_estimate": "18:04",
+      "total_km": 25.4,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
@@ -555,287 +768,359 @@
             "en": "Aston Hall"
           },
           "coords": [
-            -1.8845,
-            52.5055
+            -1.8837,
+            52.5085
           ],
-          "category": "historical",
-          "arrive_at": "09:20",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.0,
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Ein prächtiges jakobinisches Herrenhaus.",
-            "hu": "Pompás jakobinus kúria.",
-            "ro": "Un conac iacobin grandios.",
-            "en": "A magnificent Jacobean mansion."
+            "de": "Beginnen Sie hier früh, um den Verkehr in der Stadt zu vermeiden. Es gibt normalerweise gute Parkmöglichkeiten.",
+            "hu": "Kezdje itt korán, hogy elkerülje a városi forgalmat. Általában jó parkolási lehetőségek vannak.",
+            "ro": "Începeți devreme aici pentru a evita traficul din oraș. De obicei, există o parcare bună.",
+            "en": "Start here early to avoid city traffic. There's usually good parking available."
           }
         },
         {
           "name": {
-            "de": "Aston Park",
-            "hu": "Aston Park",
-            "ro": "Parcul Aston",
-            "en": "Aston Park"
+            "de": "Spaziergang im Aston Park",
+            "hu": "Séta az Aston Parkban",
+            "ro": "Plimbare în Parcul Aston",
+            "en": "Aston Park Stroll"
           },
           "coords": [
-            -1.8855,
-            52.5065
+            -1.885,
+            52.507
           ],
-          "category": "park",
-          "arrive_at": "10:50",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Spaziergang um das Herrenhaus.",
-            "hu": "Séta a kúria körül.",
-            "ro": "Plimbare în jurul conacului.",
-            "en": "Walk around the mansion."
+            "de": "Ein kurzer Spaziergang durch den Park nach dem Besuch der Halle.",
+            "hu": "Rövid séta a parkban a kastélylátogatás után.",
+            "ro": "O scurtă plimbare prin parc după vizitarea clădirii.",
+            "en": "A short walk around the park after visiting the hall."
           }
         },
         {
           "name": {
-            "de": "Custard Factory (Digbeth)",
-            "hu": "Custard Factory",
-            "ro": "Custard Factory",
-            "en": "Custard Factory"
+            "de": "Cadbury World",
+            "hu": "Cadbury World",
+            "ro": "Lumea Cadbury",
+            "en": "Cadbury World"
           },
           "coords": [
-            -1.8845,
-            52.4755
+            -1.9323,
+            52.4287
           ],
-          "category": "cultural",
-          "arrive_at": "11:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 6.5,
+          "category": "industrial heritage",
+          "arrive_at": "11:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Das kreative Viertel mit toller Street Art.",
-            "hu": "A kreatív negyed remek utcai művészettel.",
-            "ro": "Cartierul creativ cu artă stradală grozavă.",
-            "en": "The creative quarter with great street art."
+            "de": "Buchen Sie Ihre Tickets unbedingt im Voraus, da es sehr voll werden kann.",
+            "hu": "Mindenképpen foglalja le a jegyeket előre, mivel nagyon zsúfolt lehet.",
+            "ro": "Asigurați-vă că vă rezervați biletele în avans, deoarece poate fi foarte aglomerat.",
+            "en": "Be sure to book your tickets in advance as it gets very busy."
           }
         },
         {
           "name": {
-            "de": "Old Crown Pub",
-            "hu": "Old Crown Pub",
-            "ro": "Old Crown Pub",
-            "en": "Old Crown Pub"
+            "de": "Mittagessen in Bournville",
+            "hu": "Ebéd Bournville-ben",
+            "ro": "Prânz în Bournville",
+            "en": "Lunch in Bournville"
           },
           "coords": [
-            -1.8835,
-            52.4752
+            -1.93,
+            52.427
           ],
           "category": "gastro",
-          "arrive_at": "12:50",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Birminghams ältestes Gebäude (1368).",
-            "hu": "Birmingham legrégebbi épülete (1368).",
-            "ro": "Cea mai veche clădire din Birmingham (1368).",
-            "en": "Birmingham's oldest building (1368)."
-          }
-        },
-        {
-          "name": {
-            "de": "Sarehole Mill",
-            "hu": "Sarehole malom",
-            "ro": "Moara Sarehole",
-            "en": "Sarehole Mill"
-          },
-          "coords": [
-            -1.8535,
-            52.4345
-          ],
-          "category": "historical",
-          "arrive_at": "14:30",
+          "arrive_at": "14:25",
           "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 7.5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Inspiration für J.R.R. Tolkien.",
-            "hu": "Inspiráció J.R.R. Tolkien számára.",
-            "ro": "Inspirație pentru J.R.R. Tolkien.",
-            "en": "Inspiration for J.R.R. Tolkien."
+            "de": "Erkunden Sie das malerische Modelldorf und finden Sie ein gemütliches Café.",
+            "hu": "Fedezze fel a festői modellfalut, és keressen egy hangulatos kávézót.",
+            "ro": "Explorați satul model pitoresc și găsiți o cafenea primitoare.",
+            "en": "Explore the quaint model village and find a cozy café."
           }
         },
         {
           "name": {
-            "de": "Moseley Bog",
-            "hu": "Moseley Bog",
-            "ro": "Moseley Bog",
-            "en": "Moseley Bog"
+            "de": "Birmingham Botanical Gardens",
+            "hu": "Birminghami Botanikus Kert",
+            "ro": "Grădinile Botanice din Birmingham",
+            "en": "Birmingham Botanical Gardens"
           },
           "coords": [
-            -1.8515,
-            52.4335
+            -1.9366,
+            52.4674
           ],
-          "category": "natural",
-          "arrive_at": "15:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Ein mystischer Wald wie aus Mittelerde.",
-            "hu": "Misztikus erdő, mint Középföldén.",
-            "ro": "O pădure mistică precum cele din Pământul de Mijloc.",
-            "en": "A mystical forest like from Middle-earth."
+            "de": "Parken Sie hier für den Rest des Nachmittags. Ein friedlicher Rückzugsort.",
+            "hu": "Parkoljon itt a délután hátralévő részére. Békés menedék.",
+            "ro": "Parcați aici pentru restul după-amiezii. Un refugiu pașnic.",
+            "en": "Park here for the rest of the afternoon. A peaceful retreat."
           }
         },
         {
           "name": {
-            "de": "Lickey Hills Country Park",
-            "hu": "Lickey Hills Park",
-            "ro": "Parcul Lickey Hills",
-            "en": "Lickey Hills Country Park"
+            "de": "Aussichtspunkt Lickey Hills",
+            "hu": "Lickey Hills kilátó",
+            "ro": "Punct de belvedere Lickey Hills",
+            "en": "Lickey Hills Viewpoint"
           },
           "coords": [
-            -2.0035,
-            52.3855
+            -2.0151,
+            52.378
           ],
           "category": "viewpoint",
-          "arrive_at": "16:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 9.0,
+          "arrive_at": "17:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Bester Panoramablick über die Region.",
-            "hu": "A legjobb panoráma a régióra.",
-            "ro": "Cea mai bună vedere panoramică asupra regiunii.",
-            "en": "Best panoramic view over the region."
-          }
-        },
-        {
-          "name": {
-            "de": "Beacon Hill",
-            "hu": "Beacon Hill",
-            "ro": "Beacon Hill",
-            "en": "Beacon Hill"
-          },
-          "coords": [
-            -2.0045,
-            52.3865
-          ],
-          "category": "natural",
-          "arrive_at": "17:20",
-          "stay_min": 15,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Kurzer Spaziergang zum Gipfel.",
-            "hu": "Rövid séta a csúcsra.",
-            "ro": "Scurtă plimbare până la vârf.",
-            "en": "Short walk to the summit."
+            "de": "Beenden Sie den Tag mit einem Panoramablick über Birmingham bei Sonnenuntergang.",
+            "hu": "Zárja a napot egy panorámás kilátással Birminghamre naplementekor.",
+            "ro": "Încheiați ziua cu o vedere panoramică asupra Birminghamului la apus.",
+            "en": "End the day with a panoramic sunset view over Birmingham."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Autotour verbindet herrschaftliche Geschichte in Aston mit der kreativen Szene in Digbeth. Danach folgen Sie den Spuren Tolkiens zur Sarehole Mill und genießen den Sonnenuntergang auf den Lickey Hills.",
-        "hu": "Ez az autós túra ötvözi Aston úri történelmét Digbeth kreatív szférájával. Ezután Tolkien nyomába ered a Sarehole malomnál, és élvezi a naplementét a Lickey Hills-en.",
-        "ro": "Acest tur cu mașina combină istoria nobilă din Aston cu scena creativă din Digbeth. Apoi urmați urmele lui Tolkien la Moara Sarehole și bucurați-vă de apusul pe Lickey Hills.",
-        "en": "This car tour combines manor history in Aston with the creative scene in Digbeth. Then follow in Tolkien's footsteps to Sarehole Mill and enjoy the sunset on the Lickey Hills."
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zur historischen Aston Hall, um die Morgenmassen zu umgehen. Nach der Erkundung des jakobinischen Herrenhauses fahren Sie nach Süden zur süßen Welt von Cadbury World in Bournville für ein schokoladiges Mittagserlebnis. Am Nachmittag entfliehen Sie der Hektik in den ruhigen Botanischen Gärten von Birmingham, wo Sie parken und die vielfältigen Pflanzenwelten erkunden können. Zum Abschluss des Tages fahren Sie zu den Lickey Hills, um einen atemberaubenden Sonnenuntergang über der Skyline der Stadt zu erleben – ein perfekter Abschluss.",
+        "hu": "Kezdje a napot egy utazással a történelmi Aston Hallhoz, hogy elkerülje a reggeli tömeget. A jakobinus kúria felfedezése után irány délre, Bournville-be, a Cadbury World édes világába egy csokis ebédélményért. Délután meneküljön el a nyüzsgés elől a békés Birminghami Botanikus Kertbe, ahol parkolhat és felfedezheti a változatos növényvilágot. A nap lezárásaként vezessen el a Lickey Hills-be, ahonnan lélegzetelállító naplementében gyönyörködhet a város sziluettje felett – tökéletes befejezés.",
+        "ro": "Începeți ziua cu o călătorie la istoricul Aston Hall pentru a evita aglomerația de dimineață. După ce explorați conacul iacobean, mergeți spre sud, la lumea dulce a Cadbury World din Bournville, pentru o experiență de prânz ciocolatie. După-amiaza, evadați din agitație la liniștitele Grădini Botanice din Birmingham, unde puteți parca și explora diversele lumi vegetale. Pentru a încheia ziua, conduceți până la Lickey Hills pentru o priveliște uluitoare la apus asupra orizontului orașului - un final perfect.",
+        "en": "Start your day with a drive to historic Aston Hall to beat the morning crowds. After exploring the Jacobean mansion, head south to the sweet world of Cadbury World in Bournville for a chocolatey lunchtime experience. In the afternoon, escape the bustle at the tranquil Birmingham Botanical Gardens, where you can park and explore the diverse plant worlds. To end the day, drive to the Lickey Hills for a stunning sunset view over the city's skyline—a perfect finale."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "The Old Crown",
-            "tip": "Historisches Pub-Essen in Digbeth."
+            "name": "The Plough, Harborne",
+            "tip": "Ein preisgekrönter Pub mit einem großartigen Biergarten, nicht weit von den Botanischen Gärten entfernt."
+          },
+          {
+            "name": "Simpsons, Edgbaston",
+            "tip": "Wenn Sie nach einem Michelin-Stern-Erlebnis suchen, ist dies eines der besten in Birmingham."
+          },
+          {
+            "name": "The Physician, Edgbaston",
+            "tip": "Ein wunderschöner Pub, der für seine hochwertige Speisekarte und seine große Auswahl an Getränken bekannt ist."
           }
         ],
         "hu": [
           {
-            "name": "The Old Crown",
-            "tip": "Történelmi pub-étel Digbethben."
+            "name": "The Plough, Harborne",
+            "tip": "Díjnyertes pub nagyszerű sörkerttel, nem messze a Botanikus Kerttől."
+          },
+          {
+            "name": "Simpsons, Edgbaston",
+            "tip": "Ha Michelin-csillagos élményre vágyik, ez az egyik legjobb Birmingham-ben."
+          },
+          {
+            "name": "The Physician, Edgbaston",
+            "tip": "Gyönyörű pub, amely kiváló minőségű menüjéről és széles italválasztékáról ismert."
           }
         ],
         "ro": [
           {
-            "name": "The Old Crown",
-            "tip": "Mâncare istorică de pub în Digbeth."
+            "name": "The Plough, Harborne",
+            "tip": "Un pub premiat cu o grădină de bere excelentă, nu departe de Grădinile Botanice."
+          },
+          {
+            "name": "Simpsons, Edgbaston",
+            "tip": "Dacă sunteți în căutarea unei experienze cu stele Michelin, acesta este unul dintre cele mai bune din Birmingham."
+          },
+          {
+            "name": "The Physician, Edgbaston",
+            "tip": "Un pub frumos, cunoscut pentru meniul său de înaltă calitate și gama largă de băuturi."
           }
         ],
         "en": [
           {
-            "name": "The Old Crown",
-            "tip": "Historic pub food in Digbeth."
+            "name": "The Plough, Harborne",
+            "tip": "An award-winning pub with a great beer garden, not far from the Botanical Gardens."
+          },
+          {
+            "name": "Simpsons, Edgbaston",
+            "tip": "If you're looking for a Michelin-starred experience, this is one of Birmingham's finest."
+          },
+          {
+            "name": "The Physician, Edgbaston",
+            "tip": "A beautiful pub known for its high-quality menu and extensive drinks range."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Lickey Hills",
-            "tip": "Panorama zum Ausklingen.",
-            "emoji": "🌅"
+            "name": "Lickey Hills Country Park",
+            "tip": "Bietet über 500 Hektar Wald und Heide, perfekt für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cannon Hill Park",
+            "tip": "Ein großer Stadtpark mit Seen, Wegen und dem MAC (Midlands Arts Centre).",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bournville Village",
+            "tip": "Ein Spaziergang durch dieses von den Quäkern gegründete Gartendorf fühlt sich an wie eine Zeitreise.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Lickey Hills",
-            "tip": "Panoráma a nap végére.",
-            "emoji": "🌅"
+            "name": "Lickey Hills Country Park",
+            "tip": "Több mint 500 hektárnyi erdőt és pusztaságot kínál, tökéletes a békés elvonuláshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cannon Hill Park",
+            "tip": "Nagy városi park tavakkal, ösvényekkel és a MAC-cal (Midlands Művészeti Központ).",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bournville falu",
+            "tip": "Egy séta ebben a kvéker alapítású kertvárosban olyan, mintha visszamennénk az időben.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Lickey Hills",
-            "tip": "Panoramă pentru finalul zilei.",
-            "emoji": "🌅"
+            "name": "Parcul Național Lickey Hills",
+            "tip": "Oferă peste 500 de acri de pădure și landă, perfect pentru o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Cannon Hill",
+            "tip": "Un parc urban mare, cu lacuri, poteci și MAC (Centrul de Arte Midlands).",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Satul Bournville",
+            "tip": "O plimbare prin acest sat-grădină fondat de quakeri este ca o călătorie înapoi în timp.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Lickey Hills",
-            "tip": "Panorama to end the day.",
-            "emoji": "🌅"
+            "name": "Lickey Hills Country Park",
+            "tip": "Offers over 500 acres of woodland and heathland, perfect for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cannon Hill Park",
+            "tip": "A large urban park with lakes, paths, and the MAC (Midlands Arts Centre).",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bournville Village",
+            "tip": "A walk through this Quaker-founded garden village feels like stepping back in time.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Red Brick Market",
-            "tip": "Vintage und Unikate in Digbeth."
+            "name": "The Mailbox",
+            "tip": "Birminghams Luxus-Einkaufsziel mit Designerläden und gehobenen Restaurants."
+          },
+          {
+            "name": "Moseley Farmers' Market",
+            "tip": "Wenn Sie an einem Markttag dort sind, ist dies einer der besten für lokale Produkte."
+          },
+          {
+            "name": "Cadbury World Shop",
+            "tip": "Decken Sie sich mit Schokolade und exklusiven Leckereien ein."
           }
         ],
         "hu": [
           {
-            "name": "Red Brick Market",
-            "tip": "Vintage és egyedi darabok Digbethben."
+            "name": "The Mailbox",
+            "tip": "Birmingham luxus bevásárlóhelye dizájner üzletekkel és előkelő éttermekkel."
+          },
+          {
+            "name": "Moseley gazdapiac",
+            "tip": "Ha egy piaci napon van ott, ez az egyik legjobb a helyi termékekért."
+          },
+          {
+            "name": "Cadbury World Shop",
+            "tip": "Töltse fel magát csokoládéval és exkluzív finomságokkal."
           }
         ],
         "ro": [
           {
-            "name": "Red Brick Market",
-            "tip": "Vintage și piese unice în Digbeth."
+            "name": "The Mailbox",
+            "tip": "Destinația de cumpărături de lux din Birmingham, cu magazine de designer și restaurante de lux."
+          },
+          {
+            "name": "Piața fermierilor din Moseley",
+            "tip": "Dacă sunteți acolo într-o zi de piață, este una dintre cele mai bune pentru produse locale."
+          },
+          {
+            "name": "Magazinul Cadbury World",
+            "tip": "Aprovizionați-vă cu ciocolată și bunătăți exclusive."
           }
         ],
         "en": [
           {
-            "name": "Red Brick Market",
-            "tip": "Vintage and unique items in Digbeth."
+            "name": "The Mailbox",
+            "tip": "Birmingham's luxury shopping destination, with designer stores and upscale dining."
+          },
+          {
+            "name": "Moseley Farmers' Market",
+            "tip": "If you're there on a market day, it's one of the best for local produce."
+          },
+          {
+            "name": "Cadbury World Shop",
+            "tip": "Stock up on chocolate and exclusive treats."
           }
         ]
       },
       "tips": {
         "de": [
-          "Digbeth hat Parkzonen.",
-          "Die Fahrt zu den Lickey Hills dauert ca. 30 Min."
+          "Planen Sie Ihre Route im Voraus, um die Clean Air Zone-Gebühren im Stadtzentrum zu vermeiden oder zu bezahlen.",
+          "Parken im Stadtzentrum kann teuer sein; Park-and-Ride-Optionen könnten eine gute Alternative sein.",
+          "Der Verkehr kann während der Stoßzeiten stark sein, also planen Sie Ihre Fahrten außerhalb dieser Zeiten.",
+          "Verwenden Sie eine Satellitennavigations-App, um sich in dem manchmal verwirrenden Einbahnstraßensystem der Stadt zurechtzufinden."
         ],
         "hu": [
-          "Digbethben parkolási zónák vannak.",
-          "Az út a Lickey Hills-re kb. 30 perc."
+          "Tervezze meg előre az útvonalat, hogy elkerülje vagy kifizesse a városközponti tiszta levegő zóna díjait.",
+          "A városközponti parkolás drága lehet; a parkolj és utazz lehetőségek jó alternatívát jelenthetnek.",
+          "A forgalom csúcsidőben sűrű lehet, ezért tervezze az utazásokat ezen időszakokon kívülre.",
+          "Használjon műholdas navigációs alkalmazást a város néha zavaró egyirányú rendszerében való tájékozódáshoz."
         ],
         "ro": [
-          "Digbeth are zone de parcare.",
-          "Drumul spre Lickey Hills durează aproximativ 30 min."
+          "Planificați-vă traseul în avans pentru a evita sau a plăti taxele din Zona de Aer Curat din centrul orașului.",
+          "Parcarea în centrul orașului poate fi scumpă; opțiunile de parcare și transport public (Park and Ride) ar putea fi o alternativă bună.",
+          "Traficul poate fi aglomerat în orele de vârf, așa că planificați-vă călătoriile în afara acestor perioade.",
+          "Folosiți o aplicație de navigație prin satelit pentru a naviga prin sistemul de străzi cu sens unic, uneori confuz, al orașului."
         ],
         "en": [
-          "Digbeth has parking zones.",
-          "The drive to Lickey Hills takes about 30 mins."
+          "Plan your route in advance to avoid or pay the Clean Air Zone charges in the city centre.",
+          "City centre parking can be expensive; Park and Ride options might be a good alternative.",
+          "Traffic can be heavy during peak hours, so time your drives outside of these periods.",
+          "Use a satellite navigation app to navigate the city's sometimes confusing one-way system."
         ]
       }
     },
@@ -843,276 +1128,371 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 10.2,
-      "stop_count": 7,
+      "end_estimate": "17:51",
+      "total_km": 8.1,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Jewellery Quarter Station",
-            "hu": "Ékszernegyed állomás",
-            "ro": "Stația Cartierul Bijuteriilor",
-            "en": "Jewellery Quarter Station"
+            "de": "Bibliothek von Birmingham",
+            "hu": "Birminghami Könyvtár",
+            "ro": "Biblioteca din Birmingham",
+            "en": "Library of Birmingham"
           },
           "coords": [
-            -1.9125,
-            52.4885
-          ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Besuchen Sie die St. Paul's Square.",
-            "hu": "Látogasson el a St. Paul's Square-re.",
-            "ro": "Vizitați Piața St Paul.",
-            "en": "Visit St Paul's Square."
-          }
-        },
-        {
-          "name": {
-            "de": "St Paul's Church",
-            "hu": "Szent Pál-templom",
-            "ro": "Biserica St Paul",
-            "en": "St Paul's Church"
-          },
-          "coords": [
-            -1.9065,
-            52.4845
-          ],
-          "category": "religious",
-          "arrive_at": "10:40",
-          "stay_min": 35,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Ein schöner georgianischer Platz.",
-            "hu": "Szép georgiánus tér.",
-            "ro": "O frumoasă piață georgiană.",
-            "en": "A beautiful Georgian square."
-          }
-        },
-        {
-          "name": {
-            "de": "New Street Station / Grand Central",
-            "hu": "New Street állomás",
-            "ro": "Gara New Street",
-            "en": "New Street Station / Grand Central"
-          },
-          "coords": [
-            -1.8985,
-            52.4775
-          ],
-          "category": "civic",
-          "arrive_at": "11:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Ein architektonisches Wunderwerk des Nahverkehrs.",
-            "hu": "A tömegközlekedés építészeti csodája.",
-            "ro": "O minune arhitecturală a transportului public.",
-            "en": "An architectural marvel of public transit."
-          }
-        },
-        {
-          "name": {
-            "de": "Digbeth / Coach Station",
-            "hu": "Digbeth buszpályaudvar",
-            "ro": "Stația de autocar Digbeth",
-            "en": "Digbeth / Coach Station"
-          },
-          "coords": [
-            -1.8845,
-            52.4755
-          ],
-          "category": "cultural",
-          "arrive_at": "12:40",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Kulturelles Zentrum und Street Art.",
-            "hu": "Kulturális központ és utcai művészet.",
-            "ro": "Centru cultural și artă stradală.",
-            "en": "Cultural hub and street art."
-          }
-        },
-        {
-          "name": {
-            "de": "Thinktank Science Museum",
-            "hu": "Thinktank Tudományos Múzeum",
-            "ro": "Muzeul de Știință Thinktank",
-            "en": "Thinktank Science Museum"
-          },
-          "coords": [
-            -1.8815,
-            52.4825
-          ],
-          "category": "museum",
-          "arrive_at": "14:35",
-          "stay_min": 100,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.8,
-          "tip_5lang": {
-            "de": "Interaktive Wissenschaft für die ganze Familie.",
-            "hu": "Interaktív tudomány az egész családnak.",
-            "ro": "Știință interactivă pentru întreaga familie.",
-            "en": "Interactive science for the whole family."
-          }
-        },
-        {
-          "name": {
-            "de": "Eastside City Park",
-            "hu": "Eastside Park",
-            "ro": "Parcul Eastside",
-            "en": "Eastside City Park"
-          },
-          "coords": [
-            -1.8825,
-            52.4815
-          ],
-          "category": "park",
-          "arrive_at": "16:20",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Ein moderner Park zum Entspannen.",
-            "hu": "Modern park a kikapcsolódáshoz.",
-            "ro": "Un parc modern pentru relaxare.",
-            "en": "A modern park for relaxing."
-          }
-        },
-        {
-          "name": {
-            "de": "Moor Street Station",
-            "hu": "Moor Street állomás",
-            "ro": "Gara Moor Street",
-            "en": "Moor Street Station"
-          },
-          "coords": [
-            -1.8925,
+            -1.908,
             52.4795
           ],
-          "category": "civic",
-          "arrive_at": "17:15",
-          "stay_min": 15,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Wunderschöner restaurierter Bahnhof.",
-            "hu": "Gyönyörűen felújított vasútállomás.",
-            "ro": "O gară frumos restaurată.",
-            "en": "Beautifully restored railway station."
+            "de": "Beginnen Sie hier an einem zentralen, gut angebundenen Knotenpunkt.",
+            "hu": "Kezdje itt, egy központi, jól összekapcsolt csomópontban.",
+            "ro": "Începeți aici la un nod central, bine conectat.",
+            "en": "Start here at a central, well-connected hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Gas Street Basin",
+            "hu": "Gas Street Basin",
+            "ro": "Bazinul Gas Street",
+            "en": "Gas Street Basin"
+          },
+          "coords": [
+            -1.9079,
+            52.4766
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bibliothek zum Herzen der Kanäle.",
+            "hu": "Rövid séta a könyvtártól a csatornák szívéig.",
+            "ro": "O scurtă plimbare de la bibliotecă la inima canalelor.",
+            "en": "A short walk from the library to the heart of the canals."
+          }
+        },
+        {
+          "name": {
+            "de": "Jewellery Quarter",
+            "hu": "Ékszernegyed",
+            "ro": "Cartierul Bijutierilor",
+            "en": "Jewellery Quarter"
+          },
+          "coords": [
+            -1.912,
+            52.487
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine kurze Straßenbahn- oder Busfahrt, um dieses historische Viertel zu erreichen.",
+            "hu": "Menjen egy rövid villamos- vagy buszúttal, hogy elérje ezt a történelmi negyedet.",
+            "ro": "Luați un tramvai sau un autobuz pe o distanță scurtă pentru a ajunge în acest cartier istoric.",
+            "en": "Take a short tram or bus ride to reach this historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul's Square",
+            "hu": "Szent Pál tér",
+            "ro": "Piața Sf. Paul",
+            "en": "St Paul's Square"
+          },
+          "coords": [
+            -1.903,
+            52.485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger georgianischer Platz im Herzen des Jewellery Quarter, perfekt für eine Pause.",
+            "hu": "Csendes György-korabeli tér az Ékszernegyed szívében, tökéletes egy kis pihenésre.",
+            "ro": "O piață georgiană liniștită în inima Cartierului Bijutierilor, perfectă pentru o pauză.",
+            "en": "A tranquil Georgian square in the heart of the Jewellery Quarter, perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bullring & Grand Central",
+            "hu": "Bullring & Grand Central",
+            "ro": "Bullring & Grand Central",
+            "en": "Bullring & Grand Central"
+          },
+          "coords": [
+            -1.8936,
+            52.4781
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus direkt ins Einkaufszentrum für den Nachmittag.",
+            "hu": "Menjen busszal közvetlenül a bevásárlóközpontba délutánra.",
+            "ro": "Luați un autobuz direct la centrul comercial pentru după-amiază.",
+            "en": "Take a bus directly to the shopping hub for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Digbeth Speisen und Erkunden",
+            "hu": "Digbeth evés és felfedezés",
+            "ro": "Mâncare și explorare în Digbeth",
+            "en": "Digbeth Dining and Exploring"
+          },
+          "coords": [
+            -1.887,
+            52.474
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bullring zu Birminghams kreativem Viertel für Street Food und Kunst.",
+            "hu": "Rövid séta a Bullringtől Birmingham kreatív negyedébe street foodért és művészetért.",
+            "ro": "O scurtă plimbare de la Bullring la cartierul creativ al Birminghamului pentru mâncare stradală și artă.",
+            "en": "A short walk from the Bullring to Birmingham's creative quarter for street food and art."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit Bus und Bahn erkunden Sie die verschiedenen Facetten der Stadt. Vom industriellen Jewellery Quarter geht es zum modernen Verkehrsknotenpunkt New Street und weiter ins kreative Digbeth, bevor Sie den Tag im Thinktank ausklingen lassen.",
-        "hu": "Busszal és vonattal fedezi fel a város különböző arcait. Az ipari Ékszernegyedtől a modern New Street csomópontig, majd a kreatív Digbethbe megy, mielőtt a napot a Thinktanknél zárná.",
-        "ro": "Cu autobuzul și trenul explorați diferitele fațete ale orașului. Din istoricul Cartier al Bijuteriilor mergeți către modernul nod de transport New Street și mai departe în creativul Digbeth, înainte de a încheia ziua la Thinktank.",
-        "en": "By bus and train, explore the different facets of the city. From the industrial Jewellery Quarter, go to the modern New Street transport hub and further into creative Digbeth, before ending the day at Thinktank."
+        "de": "Beginnen Sie Ihren Tag im architektonischen Wunder der Bibliothek von Birmingham, einem zentralen Verkehrsknotenpunkt. Ein kurzer Spaziergang führt Sie am Vormittag zum historischen Gas Street Basin. Von dort aus nehmen Sie die öffentlichen Verkehrsmittel zum kreativen Jewellery Quarter, wo Sie in die Handwerkskunst eintauchen und am St. Paul's Square zu Mittag essen. Am Nachmittag bringt Sie ein Bus zum geschäftigen Bullring für eine Einkaufstherapie. Beenden Sie Ihren Tag mit einem Spaziergang ins nahegelegene Digbeth, um die lebendige Street-Art und die vielfältigen gastronomischen Angebote zu entdecken.",
+        "hu": "Kezdje a napot a Birminghami Könyvtár építészeti csodájánál, egy központi közlekedési csomópontban. Egy rövid séta elvezeti Önt a történelmi Gas Street Basinhez a délelőtt folyamán. Onnan tömegközlekedéssel utazzon a kreatív Ékszernegyedbe, ahol elmerülhet a kézművességben és ebédelhet a Szent Pál téren. Délután egy busz elviszi a nyüzsgő Bullringbe egy kis vásárlási terápiára. Zárja a napot egy sétával a közeli Digbethbe, hogy felfedezze az élénk utcaművészetet és a változatos gasztronómiai kínálatot.",
+        "ro": "Începeți ziua la minunea arhitecturală a Bibliotecii din Birmingham, un nod central de transport. O scurtă plimbare vă duce la istoricul Bazin Gas Street pentru dimineață. De acolo, luați transportul public spre creativul Cartier al Bijutierilor pentru a vă cufunda în meșteșuguri și a lua prânzul în Piața Sf. Paul. După-amiaza, un autobuz vă duce la agitatul Bullring pentru o sesiune de terapie prin cumpărături. Încheiați ziua cu o plimbare în apropiere, în Digbeth, pentru a descoperi arta stradală vibrantă și opțiunile culinare diverse.",
+        "en": "Begin your day at the architectural marvel of the Library of Birmingham, a central transit hub. A short walk takes you to the historic Gas Street Basin for the morning. From there, take public transport to the creative Jewellery Quarter to immerse yourself in craft and have lunch in St Paul's Square. In the afternoon, a bus will whisk you to the bustling Bullring for some retail therapy. End your day by walking to nearby Digbeth to discover the vibrant street art and diverse dining options."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Digbeth Dining Club",
-            "tip": "Bestes Street Food der Stadt."
+            "tip": "Ein preisgekröntes Street-Food-Event, das an bestimmten Tagen der Woche stattfindet. Überprüfen Sie den Zeitplan."
+          },
+          {
+            "name": "The Rose Villa Tavern",
+            "tip": "Ein denkmalgeschützter Pub im Jewellery Quarter mit wunderschönen gefliesten Innenräumen."
+          },
+          {
+            "name": "Grand Central Kitchen",
+            "tip": "Ideal für ein schnelles, leckeres und preiswertes Mittagessen in der Nähe des Bahnhofs New Street."
           }
         ],
         "hu": [
           {
             "name": "Digbeth Dining Club",
-            "tip": "A város legjobb utcai ételei."
+            "tip": "Díjnyertes street food esemény, amely a hét bizonyos napjain működik. Ellenőrizze a menetrendet."
+          },
+          {
+            "name": "The Rose Villa Tavern",
+            "tip": "Műemlék kocsma az Ékszernegyedben, gyönyörű csempézett belsővel."
+          },
+          {
+            "name": "Grand Central Kitchen",
+            "tip": "Tökéletes egy gyors, finom és pénztárcabarát ebédhez a New Street állomás közelében."
           }
         ],
         "ro": [
           {
             "name": "Digbeth Dining Club",
-            "tip": "Cea mai bună mâncare stradală din oraș."
+            "tip": "Un eveniment premiat de street food care are loc în anumite zile ale săptămânii. Verificați programul."
+          },
+          {
+            "name": "The Rose Villa Tavern",
+            "tip": "Un pub de gradul II în Cartierul Bijutierilor, cu interioare frumoase din gresie."
+          },
+          {
+            "name": "Grand Central Kitchen",
+            "tip": "Excelent pentru un prânz rapid, gustos și accesibil lângă gara New Street."
           }
         ],
         "en": [
           {
             "name": "Digbeth Dining Club",
-            "tip": "The city's best street food."
+            "tip": "An award-winning street food event that runs on specific days of the week. Check the schedule."
+          },
+          {
+            "name": "The Rose Villa Tavern",
+            "tip": "A Grade II listed pub in the Jewellery Quarter with beautiful tiled interiors."
+          },
+          {
+            "name": "Grand Central Kitchen",
+            "tip": "Great for a quick, tasty, and budget-friendly lunch near New Street station."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Eastside Park",
-            "tip": "Moderne Oase.",
-            "emoji": "🌿"
+            "name": "St. Paul's Churchyard",
+            "tip": "Der letzte verbliebene georgianische Platz in Birmingham bietet einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sherborne Wharf",
+            "tip": "Etwas weiter entlang des Kanals vom Gas Street Basin entfernt, ist es oft ruhiger.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piccadilly Arcade",
+            "tip": "Bewundern Sie die handgemalte Decke in dieser ruhigen und eleganten Einkaufspassage.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Eastside Park",
-            "tip": "Modern oázis.",
-            "emoji": "🌿"
+            "name": "Szent Pál templomkert",
+            "tip": "Birmingham utolsó megmaradt György-korabeli tere egy pillanatnyi nyugalmat kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sherborne Wharf",
+            "tip": "Kicsit távolabb a csatorna mentén a Gas Street Basintől, gyakran csendesebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piccadilly Arcade",
+            "tip": "Csodálja meg a kézzel festett mennyezetet ebben a csendes és elegáns bevásárlóárkádban.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Eastside Park",
-            "tip": "Oază modernă.",
-            "emoji": "🌿"
+            "name": "Curtea Bisericii Sf. Paul",
+            "tip": "Ultima piață georgiană rămasă în Birmingham oferă un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sherborne Wharf",
+            "tip": "Puțin mai departe de-a lungul canalului de la Bazinul Gas Street, este adesea mai liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piccadilly Arcade",
+            "tip": "Admirați tavanul pictat manual în această arcadă comercială liniștită și elegantă.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Eastside Park",
-            "tip": "Modern oasis.",
-            "emoji": "🌿"
+            "name": "St. Paul's Churchyard",
+            "tip": "The last remaining Georgian square in Birmingham offers a moment of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sherborne Wharf",
+            "tip": "Slightly further along the canal from Gas Street Basin, it's often quieter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piccadilly Arcade",
+            "tip": "Admire the hand-painted ceiling in this quiet and elegant shopping arcade.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Grand Central",
-            "tip": "Shopping direkt am Bahnhof."
+            "name": "The Rag Market",
+            "tip": "Ein traditioneller Innenmarkt in der Nähe des Bullring, der Stoffe, Haushaltswaren und mehr verkauft."
+          },
+          {
+            "name": "LinkStreet",
+            "tip": "Verbindet Bullring und Grand Central und bietet coole, aufstrebende Marken."
+          },
+          {
+            "name": "St. Paul's Square Shops",
+            "tip": "Stöbern Sie in unabhängigen Galerien und Werkstätten rund um den Platz."
           }
         ],
         "hu": [
           {
-            "name": "Grand Central",
-            "tip": "Vásárlás közvetlenül az állomáson."
+            "name": "The Rag Market",
+            "tip": "Hagyományos beltéri piac a Bullring közelében, ahol szöveteket, háztartási cikkeket és egyebeket árulnak."
+          },
+          {
+            "name": "LinkStreet",
+            "tip": "Összeköti a Bullringet és a Grand Centralt, menő, feltörekvő márkákat kínálva."
+          },
+          {
+            "name": "Szent Pál téri üzletek",
+            "tip": "Böngésszen független galériákban és műhelyekben a tér körül."
           }
         ],
         "ro": [
           {
-            "name": "Grand Central",
-            "tip": "Cumpărături direct la gară."
+            "name": "Piața Rag",
+            "tip": "O piață interioară tradițională lângă Bullring, care vinde țesături, articole de uz casnic și multe altele."
+          },
+          {
+            "name": "LinkStreet",
+            "tip": "Conectează Bullring și Grand Central, oferind mărci cool și emergente."
+          },
+          {
+            "name": "Magazinele din Piața Sf. Paul",
+            "tip": "Răsfoiți galeriile și atelierele independente din jurul pieței."
           }
         ],
         "en": [
           {
-            "name": "Grand Central",
-            "tip": "Shopping right at the station."
+            "name": "The Rag Market",
+            "tip": "A traditional indoor market near the Bullring, selling fabrics, homewares, and more."
+          },
+          {
+            "name": "LinkStreet",
+            "tip": "Connecting Bullring and Grand Central, featuring cool, emerging brands."
+          },
+          {
+            "name": "St Paul's Square Shops",
+            "tip": "Browse independent galleries and workshops dotted around the square."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie ein Tagesticket.",
-          "Die Busse fahren sehr häufig."
+          "Kaufen Sie eine Swift Pay As You Go-Karte für die einfachste und oft günstigste Art zu reisen.",
+          "Die West Midlands Metro (Straßenbahn) ist ideal für die Verbindung zwischen dem Stadtzentrum und dem Jewellery Quarter.",
+          "Laden Sie die 'NX Bus' App herunter, um Busse in Echtzeit zu verfolgen.",
+          "Viele Buslinien verkehren häufig, sodass Sie selten lange warten müssen."
         ],
         "hu": [
-          "Vásároljon napijegyet.",
-          "A buszok nagyon gyakran járnak."
+          "Vásároljon egy Swift Pay As You Go kártyát a legegyszerűbb és gyakran legolcsóbb utazási módhoz.",
+          "A West Midlands Metro (villamos) ideális a városközpont és az Ékszernegyed közötti összeköttetéshez.",
+          "Töltse le az 'NX Bus' alkalmazást a buszok valós idejű követéséhez.",
+          "Sok buszjárat sűrűn közlekedik, így ritkán kell sokat várni."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi.",
-          "Autobuzele circulă foarte frecvent."
+          "Cumpărați un card Swift Pay As You Go pentru cel mai simplu și adesea cel mai ieftin mod de a călători.",
+          "Metroul West Midlands (tramvaiul) este excelent pentru a conecta centrul orașului cu Cartierul Bijutierilor.",
+          "Descărcați aplicația 'NX Bus' pentru a urmări autobuzele în timp real.",
+          "Multe rute de autobuz sunt frecvente, așa că rareori va trebui să așteptați mult."
         ],
         "en": [
-          "Buy a day ticket.",
-          "Buses run very frequently."
+          "Purchase a Swift Pay As You Go card for the easiest and often cheapest way to travel.",
+          "The West Midlands Metro (tram) is great for connecting the city centre to the Jewellery Quarter.",
+          "Download the 'NX Bus' app for real-time bus tracking.",
+          "Many bus routes are frequent, so you'll rarely have to wait long."
         ]
       }
     }

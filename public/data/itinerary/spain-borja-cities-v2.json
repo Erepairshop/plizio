@@ -1,0 +1,797 @@
+{
+  "city_id": "spain-borja-cities-v2",
+  "anchor": {
+    "name": "Borja",
+    "coords": [
+      -1.5333,
+      41.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Spanyolország tér",
+            "ro": "Piața Spaniei",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.5333,
+            41.8333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt, um das morgendliche Treiben zu beobachten.",
+            "hu": "Tökéletes kiindulópont a reggeli nyüzsgés megfigyeléséhez.",
+            "ro": "Punctul de plecare perfect pentru a observa agitația de dimineață.",
+            "en": "The perfect starting point to watch the morning hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Muscheln",
+            "hu": "Kagylók Háza",
+            "ro": "Casa Scoicilor",
+            "en": "House of the Shells"
+          },
+          "coords": [
+            -1.534,
+            41.833
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Palast der Aguilar",
+            "hu": "Aguilar-palota",
+            "ro": "Palatul Aguilar",
+            "en": "Aguilar Palace"
+          },
+          "coords": [
+            -1.5345,
+            41.8328
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.5328,
+            41.8338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Museum der Stiftskirche",
+            "hu": "Kollégiumi templom múzeuma",
+            "ro": "Muzeul Colegiatei",
+            "en": "Museum of the Collegiate Church"
+          },
+          "coords": [
+            -1.5327,
+            41.8339
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Konvent der Empfängnis",
+            "hu": "Szeplőtelen Fogantatás kolostor",
+            "ro": "Mănăstirea Concepției",
+            "en": "Convent of the Conception"
+          },
+          "coords": [
+            -1.531,
+            41.8355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Burg der Zuda",
+            "hu": "Zuda vára",
+            "ro": "Castelul Zuda",
+            "en": "Castle of Zuda"
+          },
+          "coords": [
+            -1.5335,
+            41.835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der Plaza de España, dem pulsierenden Herzen von Borja. Am Vormittag erkunden Sie die historischen Adelspaläste und die majestätische Stiftskirche Santa María, die von der reichen Vergangenheit der Stadt zeugt. Der Nachmittag ist der Erklimmung der Burg der Zuda gewidmet, von wo aus Sie einen Panoramablick über die Weinberge der Region genießen können. Beenden Sie Ihren Tag mit einem Glas lokalen Weins und denken Sie über die verborgenen Schätze nach, die Sie entdeckt haben.",
+        "hu": "Kezdje a napot a Plaza de España téren, Borja lüktető szívében. A délelőtt folyamán fedezze fel a történelmi nemesi palotákat és a fenséges Santa María kollégiumi templomot, amelyek a város gazdag múltjáról tanúskodnak. A délutánt szentelje a Zuda vár megmászásának, ahonnan panorámás kilátás nyílik a régió szőlőültetvényeire. Zárja a napot egy pohár helyi borral, miközben elgondolkodik a felfedezett rejtett kincseken.",
+        "ro": "Începeți ziua în Plaza de España, inima vibrantă a orașului Borja. În cursul dimineții, explorați palatele nobiliare istorice și majestuoasa Colegiată Santa María, mărturii ale trecutului bogat al orașului. După-amiaza este dedicată urcării la Castelul Zuda, de unde veți avea vederi panoramice asupra podgoriilor din regiune. Încheiați ziua cu un pahar de vin local, reflectând la comorile ascunse pe care le-ați descoperit.",
+        "en": "Start your day at Plaza de España, the vibrant heart of Borja. In the morning, explore the historic noble palaces and the majestic Collegiate Church of Santa María, testaments to the city's rich past. The afternoon is dedicated to climbing the Castle of Zuda, where you'll get panoramic views over the region's vineyards. End your day with a glass of local wine, reflecting on the hidden gems you've uncovered."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garnacha Wein",
+            "tip": "Probieren Sie den berühmten Rotwein der Region in einer der lokalen Bodegas."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Ein zartes Lammgericht, eine Spezialität aus Aragon."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, oft mit Chorizo und Trauben serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garnacha bor",
+            "tip": "Kóstolja meg a régió híres vörösborát a helyi borászatok egyikében."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós bárányétel, aragóniai specialitás."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel kenyérmorzsából, gyakran chorizóval és szőlővel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Garnacha",
+            "tip": "Gustați faimosul vin roșu al regiunii la una dintre cramele locale."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Un preparat fraged din miel, o specialitate din Aragon."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet, servit adesea cu chorizo și struguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garnacha Wine",
+            "tip": "Taste the region's famous red wine at one of the local bodegas."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "A tender lamb dish, a specialty of Aragon."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish made from breadcrumbs, often served with chorizo and grapes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Burg Zuda",
+            "tip": "Der Aufstieg lohnt sich für die ruhige Aussicht bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Konvents",
+            "tip": "Ein friedlicher Ort zum Nachdenken, abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Zuda várból",
+            "tip": "Megéri a fáradságot felmászni a naplementekor nyíló békés kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kolostor kertjei",
+            "tip": "Békés hely az elmélkedésre, távol a főutcáktól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Castelul Zuda",
+            "tip": "Urcușul merită pentru priveliștea liniștită la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Mănăstirii",
+            "tip": "Un loc pașnic pentru reflecție, departe de străzile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Zuda Castle",
+            "tip": "The climb is worth it for the serene view at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Convent",
+            "tip": "A peaceful spot for reflection, away from the main streets.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bodegas",
+            "tip": "Kaufen Sie eine Flasche Garnacha-Wein direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach lokaler Keramik und Textilien in den kleinen Läden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászatok (Bodegas)",
+            "tip": "Vásároljon egy üveg Garnacha bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen helyi kerámiákat és textíliákat az óváros kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale (Bodegas)",
+            "tip": "Cumpărați o sticlă de vin Garnacha direct de la producător."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile locale în micile magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wineries (Bodegas)",
+            "tip": "Buy a bottle of Garnacha wine directly from the producer."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for local ceramics and textiles in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen des alten Zentrums Kopfsteinpflaster haben.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte haben während der Siesta am frühen Nachmittag geschlossen.",
+          "Planen Sie Ihr Mittagessen gegen 14:00 Uhr, wie es vor Ort üblich ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros utcái macskakövesek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet a kora délutáni szieszta idején zárva tart.",
+          "Az ebédet 14:00 óra körülre tervezze, ahogy a helyiek teszik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din centrul vechi sunt pavate cu piatră cubică.",
+          "Luați cu voi multă apă, mai ales în lunile de vară.",
+          "Majoritatea magazinelor sunt închise în timpul siestei de la începutul după-amiezii.",
+          "Planificați prânzul în jurul orei 14:00, așa cum este obiceiul local."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets of the old center are cobblestoned.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops close for siesta in the early afternoon.",
+          "Plan your lunch around 2 PM, as is the local custom."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiligtum der Barmherzigkeit",
+            "hu": "Irgalmasság Szentélye",
+            "ro": "Sanctuarul Milostivirii",
+            "en": "Sanctuary of Mercy"
+          },
+          "coords": [
+            -1.588,
+            41.821
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Spanyolország tér",
+            "ro": "Piața Spaniei",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -1.5333,
+            41.8333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 7.2
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María & Museum",
+            "hu": "Santa María kollégiumi templom és múzeum",
+            "ro": "Colegiata Santa María și Muzeu",
+            "en": "Collegiate Church of Santa María & Museum"
+          },
+          "coords": [
+            -1.5328,
+            41.8338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Palast der Aguilar",
+            "hu": "Aguilar-palota",
+            "ro": "Palatul Aguilar",
+            "en": "Aguilar Palace"
+          },
+          "coords": [
+            -1.5345,
+            41.8328
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Burg der Zuda",
+            "hu": "Zuda vára",
+            "ro": "Castelul Zuda",
+            "en": "Castle of Zuda"
+          },
+          "coords": [
+            -1.5335,
+            41.835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Weinprobe in einer Bodega",
+            "hu": "Borkóstoló egy Bodegában",
+            "ro": "Degustare de vin la o Bodega",
+            "en": "Wine Tasting at a Bodega"
+          },
+          "coords": [
+            -1.53,
+            41.831
+          ],
+          "category": "gastro",
+          "arrive_at": "16:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer Radtour zum berühmten Heiligtum der Barmherzigkeit. Nach der Rückkehr ins Zentrum können Sie auf der Plaza de España eine Pause einlegen. Der Mittag ist der Erkundung des kirchlichen Erbes von Borja gewidmet. Am Nachmittag radeln Sie zur Burg hinauf und genießen die Aussicht, bevor Sie den Tag mit einer wohlverdienten Weinprobe in einer lokalen Bodega ausklingen lassen.",
+        "hu": "Kezdje a napot egy kerékpártúrával a híres Irgalmasság Szentélyéhez. Miután visszatért a központba, pihenjen egyet a Plaza de España téren. A déli órákat Borja egyházi örökségének felfedezésére szánja. Délután tekerjen fel a várhoz, gyönyörködjön a kilátásban, majd zárja a napot egy jól megérdemelt borkóstolóval egy helyi bodegában.",
+        "ro": "Începeți cu o plimbare cu bicicleta la faimosul Sanctuar al Milostivirii. După ce vă întoarceți în centru, faceți o pauză în Plaza de España. Miezul zilei este dedicat explorării patrimoniului ecleziastic al orașului Borja. După-amiaza, pedalați până la castel pentru priveliște, înainte de a încheia ziua cu o degustare de vin binemeritată la o cramă locală.",
+        "en": "Start with a bike ride to the famous Sanctuary of Mercy. After returning to the center, take a break in the Plaza de España. Midday is for exploring Borja's ecclesiastical heritage. In the afternoon, cycle up to the castle for the views before ending the day with a well-deserved wine tasting at a local bodega."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt zum Heiligtum ist größtenteils flach, aber der letzte Anstieg kann anspruchsvoll sein.",
+          "Schließen Sie Ihr Fahrrad im Stadtzentrum gut ab.",
+          "Die Straßen sind eng, fahren Sie vorsichtig.",
+          "Einige Weingüter liegen außerhalb der Stadt und sind ideal für eine längere Radtour."
+        ],
+        "hu": [
+          "A Szentélyhez vezető út többnyire sík, de az utolsó emelkedő kihívást jelenthet.",
+          "Zárja le biztonságosan a kerékpárját a városközpontban.",
+          "Az utcák szűkek, vezessen óvatosan.",
+          "Néhány borászat a városon kívül található, ideális egy hosszabb kerékpártúrához."
+        ],
+        "ro": [
+          "Drumul spre sanctuar este în mare parte plat, dar urcarea finală poate fi dificilă.",
+          "Asigurați-vă bine bicicleta în centrul orașului.",
+          "Străzile sunt înguste, conduceți cu prudență.",
+          "Unele crame se află în afara orașului, ideale pentru o plimbare mai lungă cu bicicleta."
+        ],
+        "en": [
+          "The ride to the Sanctuary is mostly flat, but the final climb can be challenging.",
+          "Lock your bike securely in the town center.",
+          "The streets are narrow, so ride with caution.",
+          "Some wineries are located outside the town, perfect for a longer bike tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiligtum der Barmherzigkeit (Ecce Homo)",
+            "hu": "Irgalmasság Szentélye (Ecce Homo)",
+            "ro": "Sanctuarul Milostivirii (Ecce Homo)",
+            "en": "Sanctuary of Mercy (Ecce Homo)"
+          },
+          "coords": [
+            -1.588,
+            41.821
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt 'Mirador de la Atalaya'",
+            "hu": "Atalaya kilátó",
+            "ro": "Punct de vedere 'Mirador de la Atalaya'",
+            "en": "'Mirador de la Atalaya' Viewpoint"
+          },
+          "coords": [
+            -1.589,
+            41.82
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:29",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Parken und Start des Stadtrundgangs (Plaza de España)",
+            "hu": "Parkolás és a városnéző séta kezdete (Plaza de España)",
+            "ro": "Parcare și începutul plimbării prin oraș (Piața Spaniei)",
+            "en": "Parking and start of city walk (Plaza de España)"
+          },
+          "coords": [
+            -1.5333,
+            41.8333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María & Museum",
+            "hu": "Santa María kollégiumi templom és múzeum",
+            "ro": "Colegiata Santa María și Muzeu",
+            "en": "Collegiate Church of Santa María & Museum"
+          },
+          "coords": [
+            -1.5328,
+            41.8338
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -1.534,
+            41.833
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Hügel der Burg Zuda",
+            "hu": "Autóút a Zuda vár dombjához",
+            "ro": "Călătorie spre dealul Castelului Zuda",
+            "en": "Drive to Zuda Castle hill"
+          },
+          "coords": [
+            -1.5335,
+            41.835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum Heiligtum der Barmherzigkeit, weltberühmt für das 'Ecce Homo'. Genießen Sie die Ruhe, bevor Sie ins Zentrum von Borja fahren. Parken Sie Ihr Auto und erkunden Sie den Vormittag über die Altstadt zu Fuß, einschließlich der beeindruckenden Stiftskirche. Nach einem gemütlichen Mittagessen fahren Sie am Nachmittag zur Burg der Zuda hinauf, um den Tag mit einem atemberaubenden Blick auf die Garnacha-Weinberge abzuschließen.",
+        "hu": "Kezdje a napot egy rövid autóúttal az Irgalmasság Szentélyéhez, amely az 'Ecce Homo' freskóról világhírű. Élvezze a nyugalmat, mielőtt Borja központjába hajt. Parkolja le az autót, és a délelőttöt a városközpont gyalogos felfedezésével töltse, beleértve a lenyűgöző kollégiumi templomot is. Egy kellemes ebéd után délután hajtson fel a Zuda várhoz, hogy a napot a Garnacha szőlőültetvényekre nyíló lélegzetelállító kilátással zárja.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina la Sanctuarul Milostivirii, renumit la nivel mondial pentru 'Ecce Homo'. Bucurați-vă de liniște înainte de a conduce spre centrul orașului Borja. Parcați mașina și petreceți dimineața explorând centrul vechi pe jos, inclusiv impresionanta Colegiată. După un prânz relaxat, conduceți după-amiaza spre Castelul Zuda pentru a încheia ziua cu o priveliște uluitoare asupra podgoriilor de Garnacha.",
+        "en": "Start your day with a short drive to the Sanctuary of Mercy, world-famous for the 'Ecce Homo'. Enjoy the tranquility before driving to the center of Borja. Park your car and spend the morning exploring the old town on foot, including the impressive Collegiate Church. After a leisurely lunch, drive up to the Zuda Castle in the afternoon to end the day with a breathtaking view of the Garnacha vineyards."
+      },
+      "gastro_picks": [],
+      "quiet_picks": [],
+      "shopping_picks": [],
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein. Suchen Sie nach ausgewiesenen Parkplätzen am Stadtrand.",
+          "Das Heiligtum liegt außerhalb der Stadt, eine kurze Autofahrt entfernt.",
+          "Die Straße zur Burg ist eng und kurvenreich.",
+          "Kombinieren Sie den Besuch mit einer Tour durch die Weinregion Campo de Borja."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; keressen kijelölt parkolóhelyeket a város szélén.",
+          "A szentély a városon kívül található, egy rövid autóútra.",
+          "A várhoz vezető út szűk és kanyargós.",
+          "Kombinálja a látogatást a Campo de Borja borvidék bejárásával."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; căutați parcări amenajate la periferie.",
+          "Sanctuarul este situat în afara orașului, la o scurtă distanță cu mașina.",
+          "Drumul spre castel este îngust și șerpuit.",
+          "Combinați vizita cu un tur al regiunii viticole Campo de Borja."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; look for designated parking areas on the outskirts.",
+          "The Sanctuary is located outside the town, a short drive away.",
+          "The road to the castle is narrow and winding.",
+          "Combine the visit with a tour of the Campo de Borja wine region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Busbahnhof und Fahrt zur Plaza de España",
+            "hu": "Érkezés a buszpályaudvarra és utazás a Plaza de España-ra",
+            "ro": "Sosire la stația de autobuz și călătorie spre Plaza de España",
+            "en": "Arrival at Bus Station & Ride to Plaza de España"
+          },
+          "coords": [
+            -1.5333,
+            41.8333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.5328,
+            41.8338
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Museum der Stiftskirche",
+            "hu": "Kollégiumi templom múzeuma",
+            "ro": "Muzeul Colegiatei",
+            "en": "Museum of the Collegiate Church"
+          },
+          "coords": [
+            -1.5327,
+            41.8339
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Palast der Aguilar & Haus der Muscheln",
+            "hu": "Aguilar-palota és Kagylók Háza",
+            "ro": "Palatul Aguilar și Casa Scoicilor",
+            "en": "Aguilar Palace & House of Shells"
+          },
+          "coords": [
+            -1.5345,
+            41.8328
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Bus zur Burg Zuda",
+            "hu": "Busz a Zuda várhoz",
+            "ro": "Autobuz spre Castelul Zuda",
+            "en": "Bus to Zuda Castle"
+          },
+          "coords": [
+            -1.5335,
+            41.835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:02",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Spaziergang und Café am Nachmittag",
+            "hu": "Séta és délutáni kávé",
+            "ro": "Plimbare și cafea de după-amiază",
+            "en": "Afternoon walk and coffee"
+          },
+          "coords": [
+            -1.532,
+            41.832
+          ],
+          "category": "gastro",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Borja beginnt mit einer Busfahrt ins Zentrum. Von der Plaza de España aus erkunden Sie zu Fuß die beeindruckenden Kirchen und Paläste, die das historische Herz der Stadt bilden. Am Nachmittag bringt Sie ein weiterer Bus in die Nähe der Burg der Zuda, von wo aus Sie nach einem kurzen Spaziergang die Aussicht genießen können. Der Tag endet entspannt in einem der charmanten Cafés der Stadt, bevor Sie den Bus zurück nehmen.",
+        "hu": "A borjai nap egy buszúttal kezdődik a központba. A Plaza de España térről gyalogosan fedezi fel a lenyűgöző templomokat és palotákat, amelyek a város történelmi szívét alkotják. Délután egy másik busz viszi a Zuda vár közelébe, ahonnan egy rövid séta után élvezheti a kilátást. A nap nyugodtan ér véget a város egyik hangulatos kávézójában, mielőtt visszaindulna a busszal.",
+        "ro": "Ziua dumneavoastră în Borja începe cu o călătorie cu autobuzul spre centru. Din Plaza de España, explorați pe jos bisericile și palatele impresionante care formează inima istorică a orașului. După-amiaza, un alt autobuz vă va duce în apropierea Castelului Zuda, de unde vă puteți bucura de priveliște după o scurtă plimbare. Ziua se încheie relaxat la una dintre cafenelele fermecătoare ale orașului înainte de a lua autobuzul înapoi.",
+        "en": "Your day in Borja begins with a bus ride to the center. From Plaza de España, you'll explore the impressive churches and palaces that form the historic heart of the city on foot. In the afternoon, another bus takes you near the Zuda Castle, from where you can enjoy the views after a short walk. The day ends relaxed in one of the city's charming cafes before you take the bus back."
+      },
+      "gastro_picks": [],
+      "quiet_picks": [],
+      "shopping_picks": [],
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen möglicherweise nicht häufig sind.",
+          "Eine Tageskarte ist möglicherweise günstiger, wenn Sie mehrere Fahrten planen.",
+          "Die Haltestellen sind nicht immer klar gekennzeichnet; fragen Sie im Zweifelsfall den Fahrer.",
+          "Beachten Sie, dass es keinen öffentlichen Nahverkehr zum Heiligtum der Barmherzigkeit gibt."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervez.",
+          "A megállók nem mindig vannak egyértelműen jelezve; kétség esetén kérdezze meg a sofőrt.",
+          "Vegye figyelembe, hogy nincs tömegközlekedés az Irgalmasság Szentélyéhez."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca serviciile să nu fie frecvente.",
+          "Un bilet de o zi poate fi mai ieftin dacă plănuiți mai multe călătorii.",
+          "Stațiile nu sunt întotdeauna marcate clar; întrebați șoferul dacă aveți dubii.",
+          "Rețineți că nu există transport public către Sanctuarul Milostivirii."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "A day pass might be cheaper if you plan multiple trips.",
+          "Stops are not always clearly marked; ask the driver if in doubt.",
+          "Note that there is no public transit to the Sanctuary of Mercy."
+        ]
+      }
+    }
+  }
+}

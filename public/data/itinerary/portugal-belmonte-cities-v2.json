@@ -1,0 +1,1628 @@
+{
+  "city_id": "portugal-belmonte-cities-v2",
+  "anchor": {
+    "name": "Belmonte",
+    "coords": [
+      -7.35,
+      40.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Judiaria (Jüdisches Viertel)",
+            "hu": "Judiaria (Zsidónegyed)",
+            "ro": "Judiaria (Cartierul Evreiesc)",
+            "en": "Judiaria (Jewish Quarter)"
+          },
+          "coords": [
+            -7.3485,
+            40.3588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen mit ihren Granithäusern und versteckten Symbolen.",
+            "hu": "Tévedjen el a gránitházakkal és rejtett szimbólumokkal teli szűk utcácskákban.",
+            "ro": "Pierdeți-vă pe străduțele înguste cu case de granit și simboluri ascunse.",
+            "en": "Get lost in the narrow streets with their granite houses and hidden symbols."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Pedro Álvares Cabral",
+            "hu": "Pedro Álvares Cabral szobra",
+            "ro": "Statuia lui Pedro Álvares Cabral",
+            "en": "Statue of Pedro Álvares Cabral"
+          },
+          "coords": [
+            -7.3495,
+            40.3595
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Foto mit dem Entdecker Brasiliens ist ein Muss. Die Statue überblickt die Stadt.",
+            "hu": "Egy fotó Brazília felfedezőjével kötelező. A szobor a városra néz.",
+            "ro": "O fotografie cu descoperitorul Braziliei este obligatorie. Statuia domină orașul.",
+            "en": "A photo with the discoverer of Brazil is a must. The statue overlooks the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Bet Eliahu",
+            "hu": "Bet Eliahu zsinagóga",
+            "ro": "Sinagoga Bet Eliahu",
+            "en": "Bet Eliahu Synagogue"
+          },
+          "coords": [
+            -7.3482,
+            40.3582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die moderne Synagoge symbolisiert die Widerstandsfähigkeit der jüdischen Gemeinde von Belmonte.",
+            "hu": "A modern zsinagóga Belmonte zsidó közösségének szívósságát szimbolizálja.",
+            "ro": "Sinagoga modernă simbolizează reziliența comunității evreiești din Belmonte.",
+            "en": "The modern synagogue symbolizes the resilience of Belmonte's Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum",
+            "hu": "Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc",
+            "en": "Jewish Museum"
+          },
+          "coords": [
+            -7.348,
+            40.358
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Kryptojuden und ihre jahrhundertelange Geschichte der Geheimhaltung.",
+            "hu": "Ismerje meg a kripto-zsidók és titoktartásuk évszázados történetét.",
+            "ro": "Aflați despre cripto-evrei și istoria lor de secole de secrete.",
+            "en": "Learn about the Crypto-Jews and their centuries-long history of secrecy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago und Pantheon der Cabrals",
+            "hu": "Santiago-templom és a Cabral család panteonja",
+            "ro": "Biserica Santiago și Panteonul familiei Cabral",
+            "en": "Church of Santiago and Pantheon of the Cabrals"
+          },
+          "coords": [
+            -7.3499,
+            40.3601
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beherbergt eine wunderschöne Pietà-Skulptur und ist Teil des Jakobswegs.",
+            "hu": "Egy gyönyörű Pietà-szobornak ad otthont, és a Camino de Santiago része.",
+            "ro": "Găzduiește o frumoasă sculptură Pietà și face parte din traseul Camino de Santiago.",
+            "en": "Houses a beautiful Pietà sculpture and is part of the Camino de Santiago path."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Belmonte",
+            "hu": "Belmonte vára",
+            "ro": "Castelul din Belmonte",
+            "en": "Belmonte Castle"
+          },
+          "coords": [
+            -7.3505,
+            40.3605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Mauern für einen atemberaubenden Blick auf die Serra da Estrela.",
+            "hu": "Másszon fel a falakra a Serra da Estrela hegységre nyíló lélegzetelállító kilátásért.",
+            "ro": "Urcați pe ziduri pentru o priveliște uluitoare asupra Serra da Estrela.",
+            "en": "Climb the walls for a breathtaking view of the Serra da Estrela mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Centum Cellas",
+            "hu": "Centum Cellas",
+            "ro": "Centum Cellas",
+            "en": "Centum Cellas"
+          },
+          "coords": [
+            -7.3315,
+            40.354
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Zweck dieses römischen Turms ist immer noch ein Rätsel. Perfekt für Geschichtsliebhaber.",
+            "hu": "Ennek a római toronynak a célja még mindig rejtély. Tökéletes a történelem kedvelőinek.",
+            "ro": "Scopul acestui turn roman este încă un mister. Perfect pentru pasionații de istorie.",
+            "en": "The purpose of this Roman tower is still a mystery. Perfect for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenölmuseum",
+            "hu": "Olívaolaj Múzeum",
+            "ro": "Muzeul Uleiului de Măsline",
+            "en": "Olive Oil Museum"
+          },
+          "coords": [
+            -7.3468,
+            40.3565
+          ],
+          "category": "museums",
+          "arrive_at": "16:12",
+          "stay_min": 59,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Verkostung. Das lokale Olivenöl ist ein ausgezeichnetes Souvenir.",
+            "hu": "Zárja a napot egy kóstolóval. A helyi olívaolaj kiváló szuvenír.",
+            "ro": "Încheiați ziua cu o degustare. Uleiul de măsline local este un suvenir excelent.",
+            "en": "End the day with a tasting. The local olive oil is an excellent souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des historischen jüdischen Viertels von Belmonte, der Judiaria. Am Vormittag erkunden Sie die reiche jüdische Geschichte in der Synagoge und dem Museum. Nach dem Mittagessen besteigen Sie die Burg von Belmonte, die Heimat der Familie Cabral, um einen Panoramablick zu genießen. Der Nachmittag führt Sie zu einem Spaziergang zum geheimnisvollen römischen Turm Centum Cellas, bevor Sie im Olivenölmuseum mehr über eine lokale Tradition erfahren. Beenden Sie Ihren Tag mit einem Abendessen, das die Aromen der Region Beira Baixa widerspiegelt.",
+        "hu": "Kezdje a napot Belmonte történelmi zsidónegyedének, a Judiaria szívében. A délelőttöt a gazdag zsidó örökség felfedezésével tölti a zsinagógában és a múzeumban. Ebéd után másszon fel a Cabral család otthonául szolgáló Belmonte várába, ahonnan panorámás kilátás nyílik. Délután sétáljon el a titokzatos Centum Cellas római toronyhoz, majd az Olívaolaj Múzeumban ismerkedjen meg egy helyi hagyománnyal. Zárja a napot egy vacsorával, amely a Beira Baixa régió ízeit mutatja be.",
+        "ro": "Începeți ziua în inima cartierului evreiesc istoric din Belmonte, Judiaria. Dimineața este dedicată explorării bogatei moșteniri evreiești la sinagogă și muzeu. După prânz, urcați la Castelul Belmonte, casa familiei Cabral, pentru vederi panoramice. După-amiaza vă poartă într-o plimbare la misteriosul turn roman Centum Cellas, înainte de a afla despre o tradiție locală la Muzeul Uleiului de Măsline. Încheiați ziua cu o cină care prezintă aromele regiunii Beira Baixa.",
+        "en": "Start your day in the heart of Belmonte's historic Jewish quarter, the Judiaria. The morning is for exploring the rich Jewish heritage at the synagogue and museum. After lunch, ascend Belmonte Castle, home of the Cabral family, for panoramic views. The afternoon takes you on a walk to the mysterious Roman tower of Centum Cellas before learning about a local tradition at the Olive Oil Museum. End your day with a dinner showcasing the flavours of the Beira Baixa region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chanfana",
+            "tip": "Langsam gekochter Ziegeneintopf, ein herzhaftes lokales Gericht."
+          },
+          {
+            "name": "Restaurante O Brasão",
+            "tip": "Probieren Sie traditionelle portugiesische Küche mit Blick auf die Burg."
+          },
+          {
+            "name": "Käse aus der Serra da Estrela",
+            "tip": "Ein cremiger, scharfer Schafskäse aus der nahen Bergregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chanfana",
+            "tip": "Lassan főzött kecskepörkölt, egy kiadós helyi étel."
+          },
+          {
+            "name": "Restaurante O Brasão",
+            "tip": "Kóstolja meg a hagyományos portugál konyhát a várra néző kilátással."
+          },
+          {
+            "name": "Serra da Estrela sajt",
+            "tip": "Krémes, csípős juhtúró a közeli hegyvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chanfana",
+            "tip": "Tocană de capră gătită lent, un fel de mâncare local consistent."
+          },
+          {
+            "name": "Restaurante O Brasão",
+            "tip": "Încercați bucătăria tradițională portugheză cu vedere la castel."
+          },
+          {
+            "name": "Brânză Serra da Estrela",
+            "tip": "O brânză cremoasă și înțepătoare din lapte de oaie din regiunea montană din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chanfana",
+            "tip": "Slow-cooked goat stew, a hearty local dish."
+          },
+          {
+            "name": "Restaurante O Brasão",
+            "tip": "Try traditional Portuguese cuisine with a view of the castle."
+          },
+          {
+            "name": "Serra da Estrela Cheese",
+            "tip": "A creamy, pungent sheep's milk cheese from the nearby mountain region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mauern der Burg von Belmonte",
+            "tip": "Finden Sie einen ruhigen Platz, um die Aussicht auf die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Zêzere (in der Nähe)",
+            "tip": "Ein kurzer Ausflug aus der Stadt für friedliche Momente am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche von Santiago",
+            "tip": "Ein Ort der stillen Besinnung und der alten Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belmonte várfalai",
+            "tip": "Keressen egy csendes helyet, ahonnan élvezheti a vidékre nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a Zêzere folyó mentén (a közelben)",
+            "tip": "Egy rövid kiruccanás a városból a békés vízparti pillanatokért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Santiago-templom",
+            "tip": "A csendes elmélkedés és az ősi történelem helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile Castelului Belmonte",
+            "tip": "Găsiți un loc liniștit pentru a admira priveliștea peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Zêzere (în apropiere)",
+            "tip": "O scurtă excursie în afara orașului pentru momente de pace lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Santiago",
+            "tip": "Un loc de reflecție tăcută și istorie veche.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walls of Belmonte Castle",
+            "tip": "Find a quiet spot to take in the countryside views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Zêzere River (nearby)",
+            "tip": "A short trip out of town for peaceful moments by the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of Santiago",
+            "tip": "A place for quiet reflection and ancient history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie es direkt im Olivenölmuseum oder in lokalen Geschäften."
+          },
+          {
+            "name": "Jüdisches Kunsthandwerk",
+            "tip": "Suchen Sie nach Menorahs oder Hamsas als einzigartiges Souvenir."
+          },
+          {
+            "name": "Casa da Judiaria",
+            "tip": "Ein Geschäft, das koschere Produkte und lokale Spezialitäten verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásárolja meg közvetlenül az Olívaolaj Múzeumban vagy a helyi boltokban."
+          },
+          {
+            "name": "Zsidó kézműves termékek",
+            "tip": "Keressen menórákat vagy hamszákat egyedi szuvenírként."
+          },
+          {
+            "name": "Casa da Judiaria",
+            "tip": "Egy bolt, amely kóser termékeket és helyi különlegességeket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați-l direct de la Muzeul Uleiului de Măsline sau din magazinele locale."
+          },
+          {
+            "name": "Artizanat evreiesc",
+            "tip": "Căutați menore sau hamsa ca suvenir unic."
+          },
+          {
+            "name": "Casa da Judiaria",
+            "tip": "Un magazin care vinde produse cușer și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy it directly from the Olive Oil Museum or local shops."
+          },
+          {
+            "name": "Jewish Handicrafts",
+            "tip": "Look for menorahs or hamsas as a unique souvenir."
+          },
+          {
+            "name": "Casa da Judiaria",
+            "tip": "A shop selling kosher products and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen des historischen Zentrums aus Kopfsteinpflaster und steil sind.",
+          "Planen Sie viel Zeit für die Museen ein, da sie reich an Informationen sind.",
+          "Der Spaziergang nach Centum Cellas ist angenehm, aber bringen Sie Wasser mit, besonders im Sommer.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Orte zum Mittagessen schließen können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ utcái macskakövesek és meredekek.",
+          "Szánjon elegendő időt a múzeumokra, mivel rengeteg információt tartalmaznak.",
+          "A séta a Centum Cellas-hoz kellemes, de vigyen magával vizet, különösen nyáron.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely ebédidőben bezárhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din centrul istoric sunt pavate și abrupte.",
+          "Alocați mult timp pentru muzee, deoarece sunt bogate în informații.",
+          "Plimbarea până la Centum Cellas este plăcută, dar aduceți apă, mai ales vara.",
+          "Verificați orele de deschidere, deoarece unele locații se pot închide pentru prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in the historic center are cobblestoned and steep.",
+          "Allow plenty of time for the museums, as they are rich with information.",
+          "The walk to Centum Cellas is pleasant, but bring water, especially in summer.",
+          "Check opening hours, as some places may close for lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 5.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Centum Cellas",
+            "hu": "Centum Cellas",
+            "ro": "Centum Cellas",
+            "en": "Centum Cellas"
+          },
+          "coords": [
+            -7.3315,
+            40.354
+          ],
+          "category": "historical",
+          "arrive_at": "09:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Radtour zum römischen Turm, wenn die Morgenluft noch kühl ist.",
+            "hu": "Kezdje a napot egy biciklitúrával a római toronyhoz, amíg a reggeli levegő még hűvös.",
+            "ro": "Începeți cu o plimbare cu bicicleta la turnul roman când aerul dimineții este încă răcoros.",
+            "en": "Start with a cycle to the Roman tower while the morning air is still cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Belmonte",
+            "hu": "Belmonte vára",
+            "ro": "Castelul din Belmonte",
+            "en": "Belmonte Castle"
+          },
+          "coords": [
+            -7.3505,
+            40.3605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten an und erklimmen Sie die Burg für die beste Aussicht.",
+            "hu": "Zárja le a biciklijét lent, és másszon fel a várba a legjobb kilátásért.",
+            "ro": "Legați-vă bicicleta la bază și urcați la castel pentru cea mai bună priveliște.",
+            "en": "Lock your bike at the bottom and make the climb to the castle for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago",
+            "hu": "Santiago-templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -7.3499,
+            40.3601
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergab vom Schloss entfernt, perfekt für eine kurze, besinnliche Pause.",
+            "hu": "Egy rövid út lefelé a vártól, tökéletes egy gyors, elmélkedő szünetre.",
+            "ro": "O scurtă coborâre de la castel, perfectă pentru o pauză rapidă și contemplativă.",
+            "en": "A quick downhill ride from the castle, perfect for a short, contemplative stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Pedro Álvares Cabral",
+            "hu": "Pedro Álvares Cabral szobra",
+            "ro": "Statuia lui Pedro Álvares Cabral",
+            "en": "Statue of Pedro Álvares Cabral"
+          },
+          "coords": [
+            -7.3495,
+            40.3595
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie für ein schnelles Foto an, bevor Sie in die Judiaria für das Mittagessen fahren.",
+            "hu": "Álljon meg egy gyors fotóra, mielőtt a Judiariába indul ebédelni.",
+            "ro": "Opriți-vă pentru o fotografie rapidă înainte de a vă îndrepta spre Judiaria pentru prânz.",
+            "en": "Stop for a quick photo before coasting down into the Judiaria for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Judiaria (Jüdisches Viertel)",
+            "hu": "Judiaria (Zsidónegyed)",
+            "ro": "Judiaria (Cartierul Evreiesc)",
+            "en": "Judiaria (Jewish Quarter)"
+          },
+          "coords": [
+            -7.3485,
+            40.3588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Parkolja le a biciklijét, és fedezze fel gyalog a szűk utcákat.",
+            "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
+            "en": "Park your bike and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum",
+            "hu": "Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc",
+            "en": "Jewish Museum"
+          },
+          "coords": [
+            -7.348,
+            40.358
+          ],
+          "category": "museums",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die einzigartige Geschichte der jüdischen Gemeinde von Belmonte ein.",
+            "hu": "Merüljön el mélyen Belmonte zsidó közösségének egyedülálló történelmében.",
+            "ro": "Pătrundeți adânc în istoria unică a comunității evreiești din Belmonte.",
+            "en": "Take a deep dive into the unique history of Belmonte's Jewish community."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Bet Eliahu",
+            "hu": "Bet Eliahu zsinagóga",
+            "ro": "Sinagoga Bet Eliahu",
+            "en": "Bet Eliahu Synagogue"
+          },
+          "coords": [
+            -7.3482,
+            40.3582
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrapunkt zur alten Geschichte, die Sie gesehen haben.",
+            "hu": "Modern ellenpontja a látott ősi történelemnek.",
+            "ro": "Un contrapunct modern la istoria antică pe care ați văzut-o.",
+            "en": "A modern counterpoint to the ancient history you've been seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenölmuseum",
+            "hu": "Olívaolaj Múzeum",
+            "ro": "Muzeul Uleiului de Măsline",
+            "en": "Olive Oil Museum"
+          },
+          "coords": [
+            -7.3468,
+            40.3565
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 51,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner, flacher Ausklang des Tages mit einer interessanten Ausstellung und Verkostung.",
+            "hu": "Szép, sík lezárása a napnak egy érdekes kiállítással és kóstolóval.",
+            "ro": "O plimbare frumoasă și plată pentru a încheia ziua, cu o expoziție și o degustare interesante.",
+            "en": "A nice, flat ride to end the day, with an interesting exhibit and tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer mit einer morgendlichen Fahrt zum geheimnisvollen Turm Centum Cellas. Fahren Sie zurück in die Stadt, um die Burg von Belmonte zu erklimmen. Am Mittag fahren Sie durch das historische Zentrum, halten an der Santiago-Kirche und der Statue von Cabral an, bevor Sie die engen Gassen der Judiaria erkunden. Der Nachmittag ist dem jüdischen Erbe gewidmet, mit Besuchen im Museum und in der Synagoge. Beenden Sie Ihre Tour mit einer entspannten Fahrt zum Olivenölmuseum für eine wohlverdiente Verkostung.",
+        "hu": "Kezdje a kerékpáros kalandot egy reggeli tekeréssel a titokzatos Centum Cellas toronyhoz. Tekerjen vissza a városba, hogy megmássza a Belmonte várát. Délben haladjon át a történelmi központon, álljon meg a Santiago-templomnál és Cabral szobránál, mielőtt felfedezné a Judiaria szűk utcáit. A délutánt a zsidó örökségnek szentelik, a múzeum és a zsinagóga meglátogatásával. Zárja a túrát egy laza tekeréssel az Olívaolaj Múzeumhoz egy jól megérdemelt kóstolóra.",
+        "ro": "Începeți-vă aventura pe bicicletă cu o plimbare de dimineață la misteriosul turn Centum Cellas. Pedalați înapoi în oraș pentru a urca la Castelul Belmonte. La prânz, coborâți prin centrul istoric, oprindu-vă la Biserica Santiago și la statuia lui Cabral înainte de a explora aleile înguste din Judiaria. După-amiaza este dedicată moștenirii evreiești, cu vizite la muzeu și sinagogă. Încheiați turul cu o plimbare relaxantă la Muzeul Uleiului de Măsline pentru o degustare binemeritată.",
+        "en": "Kick off your cycling adventure with a morning ride to the mysterious Centum Cellas tower. Pedal back into town to conquer the climb to Belmonte Castle. At midday, cruise down through the historic center, stopping at the Church of Santiago and Cabral's statue before exploring the narrow alleys of the Judiaria. The afternoon is dedicated to the Jewish heritage, with visits to the museum and synagogue. End your tour with a relaxed ride to the Olive Oil Museum for a well-deserved tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Belmonte",
+            "tip": "Ein lokales Gebäck, um nach der Fahrt Energie zu tanken."
+          },
+          {
+            "name": "Taberna A Laranjinha",
+            "tip": "Ein gemütlicher Ort, bekannt für seine Tapas-ähnlichen 'Petiscos'."
+          },
+          {
+            "name": "Lokaler Wein aus der Region Beira Interior",
+            "tip": "Ein erfrischendes Glas Weißwein passt perfekt zum Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Belmonte",
+            "tip": "Helyi sütemény, hogy energiát gyűjtsön a tekerés után."
+          },
+          {
+            "name": "Taberna A Laranjinha",
+            "tip": "Hangulatos hely, amely tapas-szerű 'petiscos'-airól ismert."
+          },
+          {
+            "name": "Helyi bor a Beira Interior régióból",
+            "tip": "Egy frissítő pohár fehérbor tökéletes az ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Belmonte",
+            "tip": "O patiserie locală pentru a vă realimenta după plimbare."
+          },
+          {
+            "name": "Taberna A Laranjinha",
+            "tip": "Un loc primitor, renumit pentru 'petiscos', asemănătoare cu tapas."
+          },
+          {
+            "name": "Vin local din regiunea Beira Interior",
+            "tip": "Un pahar răcoritor de vin alb se potrivește perfect cu prânzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Belmonte",
+            "tip": "A local pastry to refuel after your ride."
+          },
+          {
+            "name": "Taberna A Laranjinha",
+            "tip": "A cozy spot known for its tapas-style 'petiscos'."
+          },
+          {
+            "name": "Local Beira Interior wine",
+            "tip": "A refreshing glass of white wine pairs perfectly with lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt in der Nähe von Centum Cellas",
+            "tip": "Genießen Sie die Ruhe, bevor Sie zurück in die Stadt fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten rund um die Burg",
+            "tip": "Ein friedlicher Ort, um sich nach dem Aufstieg auszuruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bank in der Judiaria",
+            "tip": "Beobachten Sie das langsame Tempo des Lebens in der Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Centum Cellas közelében",
+            "tip": "Élvezze a csendet, mielőtt visszateker a városba.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kertek a vár körül",
+            "tip": "Békés hely a pihenésre a mászás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Judiariában",
+            "tip": "Figyelje az élet lassú tempóját az óvárosban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă Centum Cellas",
+            "tip": "Bucurați-vă de liniște înainte de a pedala înapoi în oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile din jurul castelului",
+            "tip": "Un loc pașnic pentru a vă odihni după urcare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Judiaria",
+            "tip": "Priviți ritmul lent al vieții din orașul vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near Centum Cellas",
+            "tip": "Enjoy the quiet before cycling back to town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens around the Castle",
+            "tip": "A peaceful spot to rest after the climb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in the Judiaria",
+            "tip": "Watch the slow pace of life in the old quarter.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korbwaren",
+            "tip": "Die Region ist bekannt für ihre handgefertigten Körbe."
+          },
+          {
+            "name": "Regionale Marmeladen",
+            "tip": "Suchen Sie nach Kürbis- oder Feigenmarmelade."
+          },
+          {
+            "name": "Fahrrad-Souvenir",
+            "tip": "Ein kleines Andenken an Ihr Abenteuer in Belmonte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kosáráru",
+            "tip": "A régió híres kézzel készített kosarairól."
+          },
+          {
+            "name": "Helyi lekvárok",
+            "tip": "Keressen tök- vagy fügelekvárt."
+          },
+          {
+            "name": "Kerékpáros szuvenír",
+            "tip": "Egy kis emléktárgy a belmontéi kalandról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coșuri de răchită",
+            "tip": "Regiunea este cunoscută pentru coșurile sale artizanale."
+          },
+          {
+            "name": "Gemuri regionale",
+            "tip": "Căutați gem de dovleac sau de smochine."
+          },
+          {
+            "name": "Suvenir cu bicicletă",
+            "tip": "O mică amintire a aventurii tale din Belmonte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Basketry",
+            "tip": "The region is known for its handcrafted baskets."
+          },
+          {
+            "name": "Regional Jams",
+            "tip": "Look for pumpkin or fig jam."
+          },
+          {
+            "name": "Cycling souvenir",
+            "tip": "A small memento of your Belmonte adventure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt zur Burg ist steil; seien Sie auf einen Anstieg vorbereitet.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, besonders wenn Sie Museen betreten.",
+          "Die meisten Straßen in der Altstadt sind für Fahrräder zu eng; es ist besser, zu Fuß zu gehen.",
+          "Eine Wasserflasche ist unerlässlich, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "A várhoz vezető út meredek; készüljön fel az emelkedőre.",
+          "Zárja le a biciklijét biztonságos helyeken, különösen, ha múzeumokba megy.",
+          "Az óváros legtöbb utcája túl szűk a kerékpározáshoz; jobb gyalogolni.",
+          "Egy vizes palack elengedhetetlen a hidratáltság megőrzéséhez."
+        ],
+        "ro": [
+          "Urcarea la castel este abruptă; fiți pregătiți pentru o ascensiune.",
+          "Legați-vă bicicleta în locuri sigure, mai ales când intrați în muzee.",
+          "Majoritatea străzilor din orașul vechi sunt prea înguste pentru biciclete; este mai bine să mergeți pe jos.",
+          "O sticlă de apă este esențială pentru a rămâne hidratat."
+        ],
+        "en": [
+          "The ride up to the castle is steep; be prepared for a climb.",
+          "Lock your bike in secure locations, especially when entering museums.",
+          "Most streets in the old town are too narrow for cycling; it's better to walk.",
+          "A water bottle is essential to stay hydrated."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centum Cellas",
+            "hu": "Centum Cellas",
+            "ro": "Centum Cellas",
+            "en": "Centum Cellas"
+          },
+          "coords": [
+            -7.3315,
+            40.354
+          ],
+          "category": "historical",
+          "arrive_at": "09:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zuerst hierher, es gibt genügend Parkplätze. Es ist ein großartiger, ruhiger Start in den Tag.",
+            "hu": "Vezessen ide először, van bőven parkolóhely. Nagyszerű, csendes kezdete a napnak.",
+            "ro": "Conduceți aici mai întâi, există suficient spațiu de parcare. Este un început de zi minunat și liniștit.",
+            "en": "Drive here first, there's ample parking. It's a great, quiet start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz bei der Burg von Belmonte",
+            "hu": "Parkoló a Belmonte váránál",
+            "ro": "Parcare la Castelul Belmonte",
+            "en": "Parking near Belmonte Castle"
+          },
+          "coords": [
+            -7.351,
+            40.3608
+          ],
+          "category": "transport",
+          "arrive_at": "10:19",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Vormittags. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőtt hátralévő részére. Minden sétatávolságra van innen.",
+            "ro": "Parcați aici pentru restul dimineții. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park here for the rest of the morning. Everything is within walking distance from this spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Belmonte",
+            "hu": "Belmonte vára",
+            "ro": "Castelul din Belmonte",
+            "en": "Belmonte Castle"
+          },
+          "coords": [
+            -7.3505,
+            40.3605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang mit dem Höhepunkt der Stadt.",
+            "hu": "Kezdje a gyalogtúrát a város csúcspontjával.",
+            "ro": "Începeți turul pietonal cu punctul culminant al orașului.",
+            "en": "Start your walking tour with the town's high point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago",
+            "hu": "Santiago-templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -7.3499,
+            40.3601
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab führt Sie zu diesem historischen Juwel.",
+            "hu": "Egy rövid séta lefelé a dombon elvezeti ehhez a történelmi gyöngyszemhez.",
+            "ro": "O scurtă plimbare la vale vă duce la această bijuterie istorică.",
+            "en": "A short walk downhill brings you to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Judiaria und Jüdisches Museum",
+            "hu": "Judiaria és Zsidó Múzeum",
+            "ro": "Judiaria și Muzeul Evreiesc",
+            "en": "Judiaria and Jewish Museum"
+          },
+          "coords": [
+            -7.3482,
+            40.3582
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier eine längere Zeit, einschließlich Mittagessen und Museumsbesuch.",
+            "hu": "Töltsön itt hosszabb időt, beleértve az ebédet és a múzeumlátogatást.",
+            "ro": "Petreceți o perioadă extinsă aici, incluzând prânzul și vizita la muzeu.",
+            "en": "Spend an extended period here, including lunch and the museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz nahe Olivenölmuseum",
+            "hu": "Parkoló az Olívaolaj Múzeum közelében",
+            "ro": "Parcare lângă Muzeul Uleiului de Măsline",
+            "en": "Parking near Olive Oil Museum"
+          },
+          "coords": [
+            -7.347,
+            40.3568
+          ],
+          "category": "transport",
+          "arrive_at": "14:31",
+          "stay_min": 0,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie Ihr Auto für den letzten Teil des Tages hierher.",
+            "hu": "Hozza át az autóját ide a nap utolsó részére.",
+            "ro": "Mutați mașina aici pentru ultima parte a zilei.",
+            "en": "Move your car here for the final part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenölmuseum",
+            "hu": "Olívaolaj Múzeum",
+            "ro": "Muzeul Uleiului de Măsline",
+            "en": "Olive Oil Museum"
+          },
+          "coords": [
+            -7.3468,
+            40.3565
+          ],
+          "category": "museums",
+          "arrive_at": "14:33",
+          "stay_min": 108,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein interaktives Erlebnis, das sich perfekt als Abschluss des Tages eignet.",
+            "hu": "Interaktív élmény, amely tökéletes a nap lezárásához.",
+            "ro": "O experiență interactivă, perfectă pentru a încheia ziua.",
+            "en": "An interactive experience that's perfect for wrapping up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum ruhigen römischen Turm Centum Cellas. Fahren Sie dann zurück in die Stadt, parken Sie in der Nähe der Burg und erkunden Sie den oberen Teil von Belmonte zu Fuß, einschließlich der Burg und der Santiago-Kirche. Am Mittag spazieren Sie hinunter in die Judiaria, um in die jüdische Geschichte einzutauchen und ein lokales Mittagessen zu genießen. Am Nachmittag fahren Sie zu Ihrem letzten Halt, dem Olivenölmuseum, für ein entspannendes und lehrreiches Erlebnis, das die landwirtschaftlichen Wurzeln der Region hervorhebt.",
+        "hu": "Kezdje a napot egy rövid autóúttal a békés Centum Cellas római toronyhoz. Ezután vezessen vissza a városba, parkoljon a vár közelében, és fedezze fel gyalog Belmonte felső részét, beleértve a várat és a Santiago-templomot. Délben sétáljon le a Judiariába, hogy elmerüljön a zsidó történelemben és elfogyasszon egy helyi ebédet. Délután helyezze át autóját az utolsó megállóhoz, az Olívaolaj Múzeumhoz egy pihentető és tanulságos élményért, amely a régió mezőgazdasági gyökereit mutatja be.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina la liniștitul turn roman Centum Cellas. Apoi, conduceți înapoi în oraș, parcați lângă castel și explorați partea superioară a orașului Belmonte pe jos, inclusiv castelul și Biserica Santiago. La prânz, coborâți în Judiaria pentru a vă cufunda în istoria evreiască și a savura un prânz local. După-amiaza, mutați mașina la ultima oprire, Muzeul Uleiului de Măsline, pentru o experiență relaxantă și educativă care evidențiază rădăcinile agricole ale regiunii.",
+        "en": "Start your day with a short drive to the tranquil Roman tower of Centum Cellas. Then, drive back into town, park near the castle, and explore the upper part of Belmonte on foot, including the castle and the Church of Santiago. At midday, stroll down into the Judiaria to immerse yourself in Jewish history and enjoy a local lunch. In the afternoon, move your car to the final stop, the Olive Oil Museum, for a relaxing and educational experience highlighting the region's agricultural roots."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Migas de Pão",
+            "tip": "Ein traditionelles Brotpüree, oft mit Schweinefleisch serviert."
+          },
+          {
+            "name": "Fumeiro de Belmonte",
+            "tip": "Probieren Sie die lokal geräucherten Würste und Schinken."
+          },
+          {
+            "name": "Vale Madeiros",
+            "tip": "Ein Restaurant, das für seine moderne Interpretation der regionalen Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Migas de Pão",
+            "tip": "Hagyományos kenyérpép, gyakran sertéshússal tálalva."
+          },
+          {
+            "name": "Fumeiro de Belmonte",
+            "tip": "Kóstolja meg a helyi füstölt kolbászokat és sonkákat."
+          },
+          {
+            "name": "Vale Madeiros",
+            "tip": "Egy étterem, amely a regionális konyha modern értelmezéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Migas de Pão",
+            "tip": "Un piure tradițional de pâine, adesea servit cu carne de porc."
+          },
+          {
+            "name": "Fumeiro de Belmonte",
+            "tip": "Gustați cârnații și șunca afumată locală."
+          },
+          {
+            "name": "Vale Madeiros",
+            "tip": "Un restaurant cunoscut pentru interpretarea modernă a bucătăriei regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Migas de Pão",
+            "tip": "A traditional bread mash, often served with pork."
+          },
+          {
+            "name": "Fumeiro de Belmonte",
+            "tip": "Sample the locally smoked sausages and hams."
+          },
+          {
+            "name": "Vale Madeiros",
+            "tip": "A restaurant known for its modern take on regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Centum Cellas",
+            "tip": "Blicken Sie über die Landschaft, bevor die Touristenmassen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panteon dos Cabrais",
+            "tip": "Ein stiller Ort der Geschichte neben der Santiago-Kirche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Zêzere",
+            "tip": "Eine kurze Autofahrt für einen friedlichen Spaziergang am Nachmittag.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Centum Cellas-tól",
+            "tip": "Nézzen ki a vidékre, mielőtt a turistatömegek megérkeznek.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panteon dos Cabrais",
+            "tip": "A történelem csendes helye a Santiago-templom mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zêzere folyó partja",
+            "tip": "Egy rövid autóútra egy békés délutáni sétáért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Centum Cellas",
+            "tip": "Priviți peisajul rural înainte de sosirea mulțimilor de turiști.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panteon dos Cabrais",
+            "tip": "Un loc tăcut de istorie lângă Biserica Santiago.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Zêzere",
+            "tip": "O scurtă călătorie cu mașina pentru o plimbare liniștită de după-amiază.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Centum Cellas",
+            "tip": "Look out over the countryside before the tourist crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Panteon dos Cabrais",
+            "tip": "A silent place of history next to the Church of Santiago.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Zêzere River",
+            "tip": "A short drive away for a peaceful afternoon walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Handbemalte Keramik ist ein klassisches portugiesisches Souvenir."
+          },
+          {
+            "name": "Kastanienprodukte",
+            "tip": "Je nach Jahreszeit finden Sie Kastanienlikör oder Mehl."
+          },
+          {
+            "name": "Käseladen",
+            "tip": "Kaufen Sie Käse aus der Serra da Estrela, um ihn mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "A kézzel festett kerámia klasszikus portugál szuvenír."
+          },
+          {
+            "name": "Gesztenyetermékek",
+            "tip": "Szezontól függően gesztenyelikőrt vagy -lisztet találhat."
+          },
+          {
+            "name": "Sajtbolt",
+            "tip": "Vásároljon Serra da Estrela sajtot hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramica pictată manual este un suvenir portughez clasic."
+          },
+          {
+            "name": "Produse din castane",
+            "tip": "În funcție de sezon, puteți găsi lichior sau făină de castane."
+          },
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Cumpărați brânză Serra da Estrela pentru a o lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Hand-painted ceramics are a classic Portuguese souvenir."
+          },
+          {
+            "name": "Chestnut products",
+            "tip": "Depending on the season, you might find chestnut liqueur or flour."
+          },
+          {
+            "name": "Cheese shop",
+            "tip": "Buy some Serra da Estrela cheese to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Nutzung des Autos zur Aufteilung der Stadt in Cluster (Centum Cellas, Burg, untere Stadt) reduziert das Gehen bergauf.",
+          "Das Parken kann im Herzen der Judiaria schwierig sein; bleiben Sie bei den ausgewiesenen Parkplätzen in der Nähe der Burg.",
+          "Die Straßen sind eng, fahren Sie also vorsichtig.",
+          "Ein Auto ermöglicht es Ihnen, leicht einen Supermarkt am Rande der Stadt für Snacks und Wasser zu besuchen."
+        ],
+        "hu": [
+          "Az autó használata a város klaszterekre (Centum Cellas, vár, alsóváros) osztásához csökkenti a hegynek felfelé gyaloglást.",
+          "A parkolás nehézkes lehet a Judiaria szívében; maradjon a vár közelében kijelölt parkolóknál.",
+          "Az utak szűkek, ezért vezessen óvatosan.",
+          "Az autó lehetővé teszi, hogy könnyen ellátogasson egy szupermarketbe a város szélén harapnivalóért és vízért."
+        ],
+        "ro": [
+          "Utilizarea mașinii pentru a împărți orașul în clustere (Centum Cellas, castel, orașul de jos) reduce mersul pe jos la deal.",
+          "Parcarea poate fi dificilă în inima Judiariei; rămâneți la parcările desemnate de lângă castel.",
+          "Drumurile sunt înguste, așa că șofați cu atenție.",
+          "O mașină vă permite să vizitați cu ușurință un supermarket la marginea orașului pentru gustări și apă."
+        ],
+        "en": [
+          "Using the car to break the town into clusters (Centum Cellas, castle area, lower town) reduces uphill walking.",
+          "Parking can be tricky in the heart of the Judiaria; stick to the designated lots near the castle.",
+          "The roads are narrow, so drive with care.",
+          "A car allows you to easily visit a supermarket on the edge of town for snacks and water."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Busfahrt nach Centum Cellas",
+            "hu": "Buszút a Centum Cellas-hoz",
+            "ro": "Călătorie cu autobuzul la Centum Cellas",
+            "en": "Bus ride to Centum Cellas"
+          },
+          "coords": [
+            -7.3315,
+            40.354
+          ],
+          "category": "historical",
+          "arrive_at": "09:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus für eine kurze Fahrt aus der Stadt, um den Tag zu beginnen.",
+            "hu": "Vegye igénybe a helyi buszt egy rövid útra a városból a nap megkezdéséhez.",
+            "ro": "Luați autobuzul local pentru o scurtă călătorie în afara orașului pentru a începe ziua.",
+            "en": "Take the local bus for a short trip out of town to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Burg-Gebiet",
+            "hu": "Buszút a vár területére",
+            "ro": "Călătorie cu autobuzul spre zona Castelului",
+            "en": "Bus ride to Castle area"
+          },
+          "coords": [
+            -7.351,
+            40.3608
+          ],
+          "category": "transport",
+          "arrive_at": "10:26",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und steigen Sie in der Nähe der Burg aus, um den Hügel zu Fuß zu erkunden.",
+            "hu": "Menjen vissza a városba, és szálljon le a vár közelében, hogy gyalog fedezze fel a dombot.",
+            "ro": "Luați autobuzul înapoi în oraș și coborâți lângă castel pentru a explora dealul pe jos.",
+            "en": "Take the bus back to town and get off near the castle to explore the hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Belmonte",
+            "hu": "Belmonte vára",
+            "ro": "Castelul din Belmonte",
+            "en": "Belmonte Castle"
+          },
+          "coords": [
+            -7.3505,
+            40.3605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der höchste Punkt Ihrer Tour mit der besten Aussicht.",
+            "hu": "A túra legmagasabb pontja a legjobb kilátással.",
+            "ro": "Cel mai înalt punct al turului dvs. cu cele mai bune priveliști.",
+            "en": "The highest point of your tour, with the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Santiago",
+            "hu": "Santiago-templom",
+            "ro": "Biserica Santiago",
+            "en": "Church of Santiago"
+          },
+          "coords": [
+            -7.3499,
+            40.3601
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Burg entfernt.",
+            "hu": "Csak egy kőhajításnyira a vártól.",
+            "ro": "La o aruncătură de băț de castel.",
+            "en": "Just a stone's throw from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Judiaria und Jüdisches Museum",
+            "hu": "Judiaria és Zsidó Múzeum",
+            "ro": "Judiaria și Muzeul Evreiesc",
+            "en": "Judiaria and Jewish Museum"
+          },
+          "coords": [
+            -7.3482,
+            40.3582
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang bergab in die Judiaria ist einfach. Hier finden Sie viele Mittagsmöglichkeiten.",
+            "hu": "A séta lefelé a Judiariába könnyű. Itt rengeteg ebédlehetőséget talál.",
+            "ro": "Plimbarea la vale spre Judiaria este ușoară. Veți găsi multe opțiuni de prânz aici.",
+            "en": "The walk downhill to the Judiaria is easy. You'll find many lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenölmuseum",
+            "hu": "Olívaolaj Múzeum",
+            "ro": "Muzeul Uleiului de Măsline",
+            "en": "Olive Oil Museum"
+          },
+          "coords": [
+            -7.3468,
+            40.3565
+          ],
+          "category": "museums",
+          "arrive_at": "14:29",
+          "stay_min": 106,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum der Judiaria entfernt.",
+            "hu": "Egy rövid sétára a Judiaria központjától.",
+            "ro": "La o scurtă plimbare de centrul Judiariei.",
+            "en": "A short walk from the center of the Judiaria."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle",
+            "hu": "Központi buszmegálló",
+            "ro": "Stație centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            -7.3475,
+            40.3575
+          ],
+          "category": "transport",
+          "arrive_at": "16:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag hier, bereit für Ihre nächste Reise.",
+            "hu": "Fejezze be a napot itt, készen a következő útjára.",
+            "ro": "Încheiați-vă ziua aici, gata pentru următoarea călătorie.",
+            "en": "End your day here, ready for your next journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um Ihre Erkundung zu beginnen und fahren Sie zum römischen Turm Centum Cellas. Fahren Sie mit dem Bus zurück in die Stadt und erkunden Sie den Burgberg zu Fuß, genießen Sie die Aussicht und die Geschichte. Gehen Sie am Mittag hinunter in die Judiaria, wo Sie das jüdische Erbe und die lokale Küche entdecken. Der Nachmittag besteht aus einem kurzen Spaziergang zum Olivenölmuseum für einen letzten Einblick in die Kultur von Belmonte, bevor Sie zurück zur zentralen Bushaltestelle gehen.",
+        "hu": "Használja a helyi buszt a felfedezés megkezdéséhez, eljutva a Centum Cellas római toronyhoz. Busszal térjen vissza a városba, és gyalog fedezze fel a várhegyet, élvezve a kilátást és a történelmet. Délben sétáljon le a Judiariába, ahol felfedezheti a zsidó örökséget és a helyi konyhát. A délután egy rövid sétát tartalmaz az Olívaolaj Múzeumhoz, hogy utoljára bepillantson Belmonte kultúrájába, mielőtt visszatér a központi buszmegállóba.",
+        "ro": "Folosiți autobuzul local pentru a vă începe explorarea, călătorind la turnul roman Centum Cellas. Luați autobuzul înapoi în oraș pentru a explora dealul castelului pe jos, bucurându-vă de priveliști și istorie. La prânz, coborâți în Judiaria pentru a descoperi moștenirea evreiască și bucătăria locală. După-amiaza constă într-o scurtă plimbare la Muzeul Uleiului de Măsline pentru o ultimă privire asupra culturii din Belmonte, înainte de a vă întoarce la stația centrală de autobuz.",
+        "en": "Use the local bus to kickstart your exploration, travelling to the Centum Cellas Roman tower. Take the bus back to town to explore the castle hill on foot, enjoying the views and history. At midday, walk down into the Judiaria to discover the Jewish heritage and local cuisine. The afternoon consists of a short walk to the Olive Oil Museum for a final taste of Belmonte's culture before heading back to the central bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Ein klassisches portugiesisches Kabeljaugericht, das in vielen lokalen Restaurants erhältlich ist."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Eine herzhafte Grünkohlsuppe, perfekt für ein leichtes Mittagessen."
+          },
+          {
+            "name": "Café/Pastelaria für einen schnellen Kaffee",
+            "tip": "Tanken Sie Energie, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Klasszikus portugál tőkehalétel, sok helyi étteremben kapható."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Kiadós kelkáposztaleves, tökéletes egy könnyű ebédhez."
+          },
+          {
+            "name": "Kávézó/Cukrászda egy gyors kávéra",
+            "tip": "Töltődjön fel energiával, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Un fel de mâncare clasic portughez cu cod, disponibil în multe restaurante locale."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "O supă consistentă de varză kale, perfectă pentru un prânz ușor."
+          },
+          {
+            "name": "Cafenea/Pastelarie pentru o cafea rapidă",
+            "tip": "Realimentați-vă în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "A classic Portuguese codfish dish, available in many local restaurants."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "A hearty kale soup, perfect for a light lunch."
+          },
+          {
+            "name": "Café/Pastelaria for a quick coffee",
+            "tip": "Refuel while you wait for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt",
+            "tip": "Genießen Sie die Landschaft, die an Ihnen vorbeizieht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille der Santiago-Kirche",
+            "tip": "Ein Moment der Ruhe zwischen den Besichtigungen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten in der Nähe des Olivenölmuseums",
+            "tip": "Entspannen Sie sich vor Ihrer letzten Aktivität.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút",
+            "tip": "Élvezze az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Santiago-templom csendje",
+            "tip": "Egy pillanatnyi béke a látnivalók között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kertek az Olívaolaj Múzeum közelében",
+            "tip": "Pihenjen az utolsó tevékenység előtt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul",
+            "tip": "Bucurați-vă de peisajul care trece pe lângă fereastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea din Biserica Santiago",
+            "tip": "Un moment de pace între vizite.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile de lângă Muzeul Uleiului de Măsline",
+            "tip": "Relaxați-vă înainte de ultima activitate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The bus ride",
+            "tip": "Enjoy the scenery passing by your window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The quiet of the Church of Santiago",
+            "tip": "A moment of peace between sites.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gardens near the Olive Oil Museum",
+            "tip": "Relax before your final activity.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Bergblumen ergeben einen köstlichen Honig."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie eine Erinnerung an Ihre Reise von diesem historischen Ort."
+          },
+          {
+            "name": "Leinenservietten",
+            "tip": "Ein praktisches und schönes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A hegyi virágokból finom méz készül."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön emléket az utazásáról erről a történelmi helyről."
+          },
+          {
+            "name": "Vászonszalvéták",
+            "tip": "Praktikus és szép szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Florile de munte produc o miere delicioasă."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți o amintire a călătoriei dvs. din acest loc istoric."
+          },
+          {
+            "name": "Șervețele de in",
+            "tip": "Un suvenir practic și frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The mountain flowers make for a delicious honey."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send a memory of your trip from this historic place."
+          },
+          {
+            "name": "Linen napkins",
+            "tip": "A practical and beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig verkehren.",
+          "Haben Sie Kleingeld für die Bustickets dabei.",
+          "Dies ist eine großartige budgetfreundliche Option, um Belmonte zu erkunden.",
+          "Die Kombination von Busfahrten und Spaziergängen bietet ein gutes Gleichgewicht zwischen Effizienz und Erkundung."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkán közlekedhetnek.",
+          "Készítsen aprópénzt a buszjegyekhez.",
+          "Ez egy nagyszerű, költséghatékony lehetőség Belmonte felfedezésére.",
+          "A buszozás és a gyaloglás kombinációja jó egyensúlyt teremt a hatékonyság és a felfedezés között."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece este posibil ca serviciile să nu fie frecvente.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Aceasta este o opțiune excelentă, economică pentru a explora Belmonte.",
+          "Combinarea călătoriilor cu autobuzul și a plimbărilor oferă un echilibru bun între eficiență și explorare."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services may not be frequent.",
+          "Have small change ready for bus tickets.",
+          "This is a great budget-friendly option for exploring Belmonte.",
+          "Combining bus rides and walking gives a good balance of efficiency and exploration."
+        ]
+      }
+    }
+  }
+}

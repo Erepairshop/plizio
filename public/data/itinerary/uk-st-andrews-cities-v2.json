@@ -1,0 +1,1380 @@
+{
+  "city_id": "uk-st-andrews-cities-v2",
+  "anchor": {
+    "name": "St Andrews",
+    "coords": [
+      -2.7967,
+      56.3396
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St Andrews University",
+          "coords": [
+            -2.7935,
+            56.3411
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den St Salvator's Quadrangle für ein tolles Fotomotiv.",
+            "hu": "Nézd meg a St Salvator udvart egy remek fotóért.",
+            "ro": "Vizitați curtea interioară St Salvator pentru fotografii excelente.",
+            "en": "Visit St Salvator's Quadrangle for a great photo opportunity."
+          }
+        },
+        {
+          "name": "St Andrews Cathedral",
+          "coords": [
+            -2.7877,
+            56.3398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besteigen Sie den St Rule's Tower für einen Panoramablick.",
+            "hu": "Mássz fel a St Rule toronyba a panorámáért.",
+            "ro": "Urcați în turnul St Rule pentru o vedere panoramică.",
+            "en": "Climb St Rule's Tower for panoramic views."
+          }
+        },
+        {
+          "name": "St Andrews Pier",
+          "coords": [
+            -2.7845,
+            56.3409
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein beliebter Ort für einen kurzen Spaziergang am Wasser.",
+            "hu": "Népszerű hely egy rövid sétára a vízparton.",
+            "ro": "Un loc popular pentru o scurtă plimbare pe malul apei.",
+            "en": "A popular spot for a short waterside stroll."
+          }
+        },
+        {
+          "name": "St Andrews Castle",
+          "coords": [
+            -2.7915,
+            56.3421
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unterirdischen Minen und Gegenminen.",
+            "hu": "Fedezd fel a földalatti aknákat és ellenaknákat.",
+            "ro": "Explorați minele și contra-minele subterane.",
+            "en": "Explore the underground siege mine and counter-mine."
+          }
+        },
+        {
+          "name": "R&A World Golf Museum",
+          "coords": [
+            -2.8023,
+            56.3428
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Interaktiv und faszinierend, auch für Nicht-Golfer.",
+            "hu": "Interaktív és lenyűgöző, még a nem golfozóknak is.",
+            "ro": "Interactiv și fascinant, chiar și pentru non-golferi.",
+            "en": "Interactive and fascinating, even for non-golfers."
+          }
+        },
+        {
+          "name": "Old Course",
+          "coords": [
+            -2.8041,
+            56.3435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto auf der berühmten Swilcan Bridge.",
+            "hu": "Készíts egy fotót a híres Swilcan hídon.",
+            "ro": "Faceți o fotografie pe faimosul pod Swilcan.",
+            "en": "Take a photo on the famous Swilcan Bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der historischen St Andrews University, bevor Sie die majestätische St Andrews Cathedral erkunden. Ein kurzer Spaziergang bringt Sie zum St Andrews Pier für etwas frische Meeresluft. Nachmittags tauchen Sie in die Geschichte im St Andrews Castle ein. Den Abschluss bildet ein Besuch im Golfmuseum und der berühmte Old Course.",
+        "hu": "Kezdje a napot a történelmi egyetemen, majd fedezze fel a fenséges St Andrews katedrálist. Egy rövid séta elvisz a mólóhoz, ahol friss tengeri levegőt szívhat. Délután merüljön el a történelemben a kastélynál, majd látogasson el a golfmúzeumba és a híres Old Course-hoz.",
+        "ro": "Începeți ziua la universitatea istorică înainte de a explora maiestuoasa Catedrală St Andrews. O scurtă plimbare vă duce la debarcader pentru aer curat de mare. După-amiaza, descoperiți istoria la Castelul St Andrews, terminând cu Muzeul Golfului și faimosul Old Course.",
+        "en": "Start your day at the historic St Andrews University before exploring the majestic St Andrews Cathedral. A short stroll brings you to the St Andrews Pier for some fresh sea air. In the afternoon, delve into history at St Andrews Castle, finishing with a visit to the golf museum and the famous Old Course."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Probieren Sie diese cremige schottische Fischsuppe im Tailend Restaurant."
+          },
+          {
+            "name": "Fudge Doughnuts",
+            "tip": "Holen Sie sich eine süße Leckerei bei Fisher & Donaldson."
+          },
+          {
+            "name": "Haggis Neeps & Tatties",
+            "tip": "Klassisches schottisches Gericht im The Dunvegan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Kóstold meg ezt a krémes skót hallevest a Tailend étteremben."
+          },
+          {
+            "name": "Fudge fánkok",
+            "tip": "Vegyen egy édes finomságot a Fisher & Donaldson-ban."
+          },
+          {
+            "name": "Haggis Neeps & Tatties",
+            "tip": "Klasszikus skót étel a The Dunveganben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Încercați această supă scoțiană cremoasă de pește la restaurantul Tailend."
+          },
+          {
+            "name": "Gogoși cu caramel",
+            "tip": "Luați un desert dulce la Fisher & Donaldson."
+          },
+          {
+            "name": "Haggis Neeps & Tatties",
+            "tip": "Mâncare clasică scoțiană la The Dunvegan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Try this creamy Scottish fish soup at Tailend Restaurant."
+          },
+          {
+            "name": "Fudge Doughnuts",
+            "tip": "Pick up a sweet treat at Fisher & Donaldson."
+          },
+          {
+            "name": "Haggis Neeps & Tatties",
+            "tip": "Classic Scottish dish at The Dunvegan."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "East Sands",
+            "tip": "Ein ruhigerer Strand für einen entspannten Spaziergang.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Lade Braes Walk",
+            "tip": "Ein malerischer, baumgesäumter Fußweg durch die Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Grounds",
+            "tip": "Fühlen Sie die Geschichte in dieser friedlichen Umgebung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "East Sands",
+            "tip": "Egy csendesebb strand egy pihentető sétához.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Lade Braes Walk",
+            "tip": "Festői, fákkal szegélyezett gyalogút a városon keresztül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Katedrális parkja",
+            "tip": "Érezd a történelmet ebben a békés környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "East Sands",
+            "tip": "O plajă mai liniștită pentru o plimbare relaxantă.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Lade Braes Walk",
+            "tip": "O potecă pitorească mărginită de copaci prin oraș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terenul Catedralei",
+            "tip": "Simțiți istoria în acest cadru liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "East Sands",
+            "tip": "A quieter beach for a relaxing walk.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Lade Braes Walk",
+            "tip": "A picturesque, tree-lined footpath through the town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Grounds",
+            "tip": "Feel the history in this peaceful setting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St Andrews Golf Co.",
+            "tip": "Kaufen Sie authentische, handgefertigte Golfschläger."
+          },
+          {
+            "name": "Tartan-Schals",
+            "tip": "Holen Sie sich ein Stück schottisches Erbe in den lokalen Boutiquen."
+          },
+          {
+            "name": "Toppings & Company Booksellers",
+            "tip": "Stöbern Sie in diesem charmanten, unabhängigen Buchladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Andrews Golf Co.",
+            "tip": "Vásároljon autentikus, kézzel készített golfütőket."
+          },
+          {
+            "name": "Tartan sálak",
+            "tip": "Szerezzen be egy darab skót örökséget a helyi butikokban."
+          },
+          {
+            "name": "Toppings & Company Booksellers",
+            "tip": "Böngésszen ebben a bájos, független könyvesboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "St Andrews Golf Co.",
+            "tip": "Cumpărați crose de golf autentice, realizate manual."
+          },
+          {
+            "name": "Eșarfe Tartan",
+            "tip": "Obțineți o piesă din moștenirea scoțiană de la buticurile locale."
+          },
+          {
+            "name": "Toppings & Company Booksellers",
+            "tip": "Răsfoiți în această fermecătoare librărie independentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "St Andrews Golf Co.",
+            "tip": "Buy authentic, handcrafted golf clubs."
+          },
+          {
+            "name": "Tartan Scarves",
+            "tip": "Get a piece of Scottish heritage at the local boutiques."
+          },
+          {
+            "name": "Toppings & Company Booksellers",
+            "tip": "Browse this charming independent bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum ist sehr kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Das Wetter kann schnell umschlagen, bringen Sie immer eine Schicht Kleidung mehr mit.",
+          "Buchen Sie Restaurants rechtzeitig, besonders während der Golfsaison.",
+          "Sonntags ist das Spielen auf dem Old Course für Touristen oft nicht gestattet, ideal für Spaziergänge."
+        ],
+        "hu": [
+          "A központ nagyon kompakt, és a legkönnyebben gyalog fedezhető fel.",
+          "Az időjárás gyorsan változhat, mindig vigyél magaddal egy plusz réteget.",
+          "Foglalj asztalt időben, különösen a golfszezonban.",
+          "Vasárnaponként gyakran tilos a játék a turisták számára az Old Course-on, ideális a sétáláshoz."
+        ],
+        "ro": [
+          "Centrul este foarte compact și cel mai ușor de explorat pe jos.",
+          "Vremea se poate schimba rapid, aduceți întotdeauna un strat în plus.",
+          "Rezervați restaurantele din timp, mai ales în sezonul de golf.",
+          "Duminica, golful nu este adesea permis turiștilor pe Old Course, fiind ideal pentru plimbări."
+        ],
+        "en": [
+          "The center is very compact and easiest to explore on foot.",
+          "Weather can change quickly, always bring an extra layer.",
+          "Book restaurants well in advance, especially during the golf season.",
+          "On Sundays, play is often not allowed on the Old Course, making it perfect for walks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St Andrews University",
+          "coords": [
+            -2.7935,
+            56.3411
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es rund um die Campusgebäude.",
+            "hu": "Kerékpártárolók találhatók a kampusz épületei körül.",
+            "ro": "Rastele pentru biciclete sunt disponibile în jurul campusului.",
+            "en": "Bike racks are available around the campus buildings."
+          }
+        },
+        {
+          "name": "St Andrews Cathedral",
+          "coords": [
+            -2.7877,
+            56.3398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad auf den Wegen um die Ruinen.",
+            "hu": "Told a biciklit az ösvényeken a romok körül.",
+            "ro": "Mergeți pe lângă bicicletă pe cărările din jurul ruinelor.",
+            "en": "Walk your bike on the paths around the ruins."
+          }
+        },
+        {
+          "name": "St Andrews Botanic Garden",
+          "coords": [
+            -2.8051,
+            56.3308
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine entspannte Fahrt weg vom Zentrum in dieses grüne Paradies.",
+            "hu": "Kellemes biciklizés a központtól ebbe a zöld paradicsomba.",
+            "ro": "O plimbare relaxantă departe de centru către acest paradis verde.",
+            "en": "A relaxing ride away from the center to this green paradise."
+          }
+        },
+        {
+          "name": "R&A World Golf Museum",
+          "coords": [
+            -2.8023,
+            56.3428
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Weg entlang des Scores für gute Aussichten.",
+            "hu": "Használd a The Scores menti utat a jó kilátásért.",
+            "ro": "Folosiți traseul de-a lungul The Scores pentru priveliști bune.",
+            "en": "Use the route along The Scores for good views."
+          }
+        },
+        {
+          "name": "Old Course",
+          "coords": [
+            -2.8041,
+            56.3435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und gehen Sie zur Swilcan Bridge.",
+            "hu": "Parkold le a biciklit és sétálj el a Swilcan hídhoz.",
+            "ro": "Parcați bicicleta și mergeți la podul Swilcan.",
+            "en": "Park the bike and walk to the Swilcan Bridge."
+          }
+        },
+        {
+          "name": "West Sands Beach",
+          "coords": [
+            -2.8122,
+            56.3486
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küste, berühmt aus Chariots of Fire.",
+            "hu": "Biciklizz a part mentén, mely a Tűzszekerekből ismert.",
+            "ro": "Mergeți de-a lungul coastei, faimoasă din Carele de Foc.",
+            "en": "Ride along the coast, famous from Chariots of Fire."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Universitätsgebäude und die Kathedrale mit dem Fahrrad. Eine kurze Fahrt bringt Sie zu den friedlichen Botanischen Gärten. Nachmittags radeln Sie zurück zum Golfmuseum und dem Old Course, bevor Sie die Küstenbrise am West Sands Beach genießen.",
+        "hu": "Fedezze fel az egyetemi épületeket és a katedrálist kerékpárral. Egy rövid út elviszi a békés botanikus kertbe. Délután tekerjen vissza a golfmúzeumhoz és az Old Course-hoz, mielőtt élvezné a tengeri szellőt a West Sands Beach-en.",
+        "ro": "Explorați clădirile universității și Catedrala cu bicicleta. O scurtă plimbare vă duce la liniștitele Grădini Botanice. După-amiaza, pedalați înapoi spre Muzeul Golfului și Old Course, înainte de a vă bucura de briza mării pe plaja West Sands.",
+        "en": "Explore the university buildings and the Cathedral by bike. A short ride takes you to the peaceful Botanic Gardens. In the afternoon, cycle back to the golf museum and the Old Course before enjoying the coastal breeze at West Sands Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrötchen",
+            "tip": "Holen Sie sich etwas Frisches im Cromars Classic Meals."
+          },
+          {
+            "name": "Black Pudding",
+            "tip": "Probieren Sie diese Spezialität beim schottischen Frühstück."
+          },
+          {
+            "name": "Handwerklicher Kaffee",
+            "tip": "Pause im Taste, bevor es weitergeht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas szendvics",
+            "tip": "Szerezzen valami frisset a Cromars Classic Meals-ben."
+          },
+          {
+            "name": "Black Pudding",
+            "tip": "Próbáld ki ezt a specialitást egy skót reggelinél."
+          },
+          {
+            "name": "Kézműves kávé",
+            "tip": "Tarts szünetet a Taste-ben, mielőtt továbbindulsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich cu pește",
+            "tip": "Luați ceva proaspăt la Cromars Classic Meals."
+          },
+          {
+            "name": "Black Pudding",
+            "tip": "Încercați această specialitate la un mic dejun scoțian."
+          },
+          {
+            "name": "Cafea artizanală",
+            "tip": "Pauză la Taste înainte de a continua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Sandwich",
+            "tip": "Grab something fresh at Cromars Classic Meals."
+          },
+          {
+            "name": "Black Pudding",
+            "tip": "Try this specialty with a Scottish breakfast."
+          },
+          {
+            "name": "Artisan Coffee",
+            "tip": "Pause at Taste before heading on."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Craigtoun Country Park",
+            "tip": "Eine kleine Radtour außerhalb für viel Grün.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Andrews Botanic Garden",
+            "tip": "Wunderschön ruhig für eine Naturpause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Scores am Abend",
+            "tip": "Radfahren entlang der Küste mit tollen Ausblicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Craigtoun Country Park",
+            "tip": "Egy kis kerékpározás a városon kívül a zöldért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Andrews Botanikus Kert",
+            "tip": "Gyönyörűen csendes a természeti kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Scores este",
+            "tip": "Biciklizés a part mentén remek kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Craigtoun Country",
+            "tip": "O mică plimbare cu bicicleta în afară pentru mult verde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică St Andrews",
+            "tip": "Frumos de liniștit pentru o pauză în natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Scores seara",
+            "tip": "Mers cu bicicleta de-a lungul coastei cu vederi minunate.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Craigtoun Country Park",
+            "tip": "A short ride outside town for plenty of green.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Andrews Botanic Garden",
+            "tip": "Beautifully quiet for a nature break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Scores at Evening",
+            "tip": "Cycling along the coast with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "J&G Innes Ltd",
+            "tip": "Ein charmanter Kunst- und Schreibwarenladen."
+          },
+          {
+            "name": "Whisky",
+            "tip": "Finden Sie lokale Flaschen in den Geschäften der Market Street."
+          },
+          {
+            "name": "Kaschmirwaren",
+            "tip": "Investieren Sie in hochwertige Strickwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "J&G Innes Ltd",
+            "tip": "Egy bájos művészeti és írószerbolt."
+          },
+          {
+            "name": "Whisky",
+            "tip": "Keressen helyi palackokat a Market Street üzleteiben."
+          },
+          {
+            "name": "Kasmír termékek",
+            "tip": "Fektessen be kiváló minőségű kötöttárukba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "J&G Innes Ltd",
+            "tip": "Un magazin fermecător de artă și papetărie."
+          },
+          {
+            "name": "Whisky",
+            "tip": "Găsiți sticle locale în magazinele de pe Market Street."
+          },
+          {
+            "name": "Articole din cașmir",
+            "tip": "Investiți în tricotaje de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "J&G Innes Ltd",
+            "tip": "A charming art and stationery store."
+          },
+          {
+            "name": "Whisky",
+            "tip": "Find local bottles in the shops on Market Street."
+          },
+          {
+            "name": "Cashmere Goods",
+            "tip": "Invest in high-quality knitwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Einbahnstraßen im Zentrum, achten Sie auf die Beschilderung.",
+          "Die Straßen können durch Kopfsteinpflaster manchmal holprig sein.",
+          "Halten Sie sich an den Fife Coastal Path für schöne Ausblicke in der Umgebung.",
+          "Sichern Sie Ihr Fahrrad immer gut, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Sok egyirányú utca van a központban, figyelj a táblákra.",
+          "Az utak néha rázósak lehetnek a macskakövek miatt.",
+          "Tarts a Fife Coastal Path felé a szép környékbeli kilátásért.",
+          "Mindig jól zárd le a biciklidet, ha őrizetlenül hagyod."
+        ],
+        "ro": [
+          "Multe străzi cu sens unic în centru, fiți atenți la semne.",
+          "Străzile pot fi uneori denivelate din cauza pietrelor cubice.",
+          "Mergeți pe Fife Coastal Path pentru vederi frumoase în împrejurimi.",
+          "Asigurați-vă întotdeauna bine bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Many one-way streets in the center, pay attention to the signs.",
+          "Streets can sometimes be bumpy due to cobblestones.",
+          "Stick to the Fife Coastal Path for beautiful surrounding views.",
+          "Always secure your bike well when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St Andrews Cathedral",
+          "coords": [
+            -2.7877,
+            56.3398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Küste und gehen Sie zur Kathedrale.",
+            "hu": "Parkolj le a part közelében és sétálj el a katedrálishoz.",
+            "ro": "Parcați lângă coastă și mergeți la catedrală.",
+            "en": "Park near the coast and walk to the cathedral."
+          }
+        },
+        {
+          "name": "St Andrews Castle",
+          "coords": [
+            -2.7915,
+            56.3421
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang entlang The Scores.",
+            "hu": "Élvezd a sétát a The Scores mentén.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul The Scores.",
+            "en": "Enjoy the walk along The Scores."
+          }
+        },
+        {
+          "name": "St Andrews University",
+          "coords": [
+            -2.7935,
+            56.3411
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Gelände der ältesten Universität Schottlands erkunden.",
+            "hu": "Skócia legrégebbi egyetemének területének felfedezése.",
+            "ro": "Explorați terenurile celei mai vechi universități din Scoția.",
+            "en": "Explore the grounds of Scotland's oldest university."
+          }
+        },
+        {
+          "name": "St Andrews Botanic Garden",
+          "coords": [
+            -2.8051,
+            56.3308
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Hier gibt es eigene Parkplätze für eine stressfreie Pause.",
+            "hu": "Itt saját parkoló található egy stresszmentes szünethez.",
+            "ro": "Există parcări proprii aici pentru o pauză fără stres.",
+            "en": "There is dedicated parking here for a stress-free break."
+          }
+        },
+        {
+          "name": "R&A World Golf Museum",
+          "coords": [
+            -2.8023,
+            56.3428
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz in der Nähe des Bruce Embankment.",
+            "hu": "Parkolj a nagy parkolóban a Bruce Embankment közelében.",
+            "ro": "Parcați în parcarea mare de lângă Bruce Embankment.",
+            "en": "Park at the large car park near the Bruce Embankment."
+          }
+        },
+        {
+          "name": "West Sands Beach",
+          "coords": [
+            -2.8122,
+            56.3486
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang am späten Nachmittag über den Strand.",
+            "hu": "Egy szép késő délutáni séta a strandon.",
+            "ro": "O plimbare plăcută după-amiaza târziu pe plajă.",
+            "en": "A lovely late afternoon walk across the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im historischen Zentrum (Cluster A), um die Kathedrale, das Schloss und die Universität zu Fuß zu erkunden. Nachmittags fahren Sie ein kurzes Stück zum Botanischen Garten (Cluster B) für Ruhe. Schließlich geht es mit dem Auto zum Golfbezirk (Cluster C), wo Sie das Museum besuchen und am Strand spazieren.",
+        "hu": "Parkoljon le a történelmi központban (A klaszter), és gyalog fedezze fel a katedrálist, a kastélyt és az egyetemet. Délután autózzon egy rövidet a botanikus kerthez (B klaszter) egy kis nyugalomért. Végül vezessen a golf negyedbe (C klaszter), hogy megnézze a múzeumot és sétáljon a strandon.",
+        "ro": "Parcați în centrul istoric (Cluster A) pentru a explora pe jos catedrala, castelul și universitatea. După-amiaza, conduceți puțin până la grădina botanică (Cluster B) pentru liniște. În cele din urmă, mergeți cu mașina în districtul de golf (Cluster C) pentru a vizita muzeul și a vă plimba pe plajă.",
+        "en": "Park in the historic center (Cluster A) to explore the cathedral, castle, and university on foot. In the afternoon, drive a short distance to the botanic garden (Cluster B) for tranquility. Finally, drive to the golf district (Cluster C) to visit the museum and walk on the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Holen Sie sich authentisches Fast Food bei Anstruther Fish Bar (kurze Fahrt)."
+          },
+          {
+            "name": "Steak Pie",
+            "tip": "Ein herzhaftes lokales Pub-Essen im The Criterion."
+          },
+          {
+            "name": "Scones & Cream",
+            "tip": "Nachmittagstee im North Point Cafe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Kóstoljon autentikus gyorsételt az Anstruther Fish Barban (rövid autóút)."
+          },
+          {
+            "name": "Steak Pie",
+            "tip": "Kiadós helyi pub kaja a The Criterionban."
+          },
+          {
+            "name": "Pogácsa és krém",
+            "tip": "Délutáni tea a North Point kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Luați fast food autentic la Anstruther Fish Bar (scurtă plimbare cu mașina)."
+          },
+          {
+            "name": "Steak Pie",
+            "tip": "O masă locală consistentă la pub în The Criterion."
+          },
+          {
+            "name": "Scones & Cream",
+            "tip": "Ceaiul de după-amiază la North Point Cafe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Get authentic fast food at Anstruther Fish Bar (short drive)."
+          },
+          {
+            "name": "Steak Pie",
+            "tip": "A hearty local pub meal at The Criterion."
+          },
+          {
+            "name": "Scones & Cream",
+            "tip": "Afternoon tea at North Point Cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tentsmuir Forest",
+            "tip": "Etwas außerhalb fahren für ruhige Waldwege.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "St Andrews Botanic Garden",
+            "tip": "Friedliche Gärten mit exotischen Pflanzen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West Sands am Abend",
+            "tip": "Spektakuläre Sonnenuntergänge über dem Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tentsmuir erdő",
+            "tip": "Vezessen ki egy kicsit a nyugodt erdei ösvényekhez.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "St Andrews Botanikus Kert",
+            "tip": "Békés kertek egzotikus növényekkel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West Sands este",
+            "tip": "Látványos naplementék a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Tentsmuir",
+            "tip": "Conduceți puțin în afară pentru poteci liniștite în pădure.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădina Botanică St Andrews",
+            "tip": "Grădini pașnice cu plante exotice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West Sands seara",
+            "tip": "Apusuri spectaculoase peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tentsmuir Forest",
+            "tip": "Drive slightly out for peaceful forest trails.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "St Andrews Botanic Garden",
+            "tip": "Peaceful gardens with exotic plants.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "West Sands at Evening",
+            "tip": "Spectacular sunsets over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eden Mill Distillery",
+            "tip": "Kaufen Sie hier ausgezeichneten Gin und Whisky (etwas Fahrt)."
+          },
+          {
+            "name": "Golfkleidung",
+            "tip": "In den spezialisierten Geschäften nahe dem Old Course."
+          },
+          {
+            "name": "Schottische Wollwaren",
+            "tip": "Hochwertige Pullover und Schals im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eden Mill Lepárló",
+            "tip": "Vásároljon itt kiváló gint és whiskyt (kis autóút)."
+          },
+          {
+            "name": "Golfruházat",
+            "tip": "Az Old Course melletti szaküzletekben."
+          },
+          {
+            "name": "Skót gyapjútermékek",
+            "tip": "Kiváló minőségű pulóverek és sálak a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Distileria Eden Mill",
+            "tip": "Cumpărați gin și whisky excelent aici (puțin condus)."
+          },
+          {
+            "name": "Haine de golf",
+            "tip": "În magazinele de specialitate de lângă Old Course."
+          },
+          {
+            "name": "Lână scoțiană",
+            "tip": "Pulovere și eșarfe de înaltă calitate în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eden Mill Distillery",
+            "tip": "Buy excellent gin and whisky here (short drive)."
+          },
+          {
+            "name": "Golf Apparel",
+            "tip": "In the specialized shops near the Old Course."
+          },
+          {
+            "name": "Scottish Woolens",
+            "tip": "High-quality sweaters and scarves in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie die großen Parkplätze an den Rändern.",
+          "Die Straßen im Zentrum sind oft eng und haben Einbahnverkehr.",
+          "Ein Auto ist ideal, um das nahegelegene Fife und malerische Fischerdörfer zu erkunden.",
+          "Zahlen Sie für das Parken oft per App (z.B. RingGo)."
+        ],
+        "hu": [
+          "A központban nehéz lehet parkolni, használja a nagy parkolókat a széleken.",
+          "A központi utcák gyakran szűkek és egyirányúak.",
+          "Az autó ideális a közeli Fife és festői halászfalvak felfedezésére.",
+          "A parkolásért gyakran alkalmazással (pl. RingGo) kell fizetni."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcările mari de la margini.",
+          "Străzile din centru sunt adesea înguste și cu sens unic.",
+          "O mașină este ideală pentru a explora Fife și satele pitorești de pescari din apropiere.",
+          "Plătiți deseori parcarea prin aplicație (de ex., RingGo)."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use the large car parks on the outskirts.",
+          "Streets in the center are often narrow and have one-way traffic.",
+          "A car is ideal to explore nearby Fife and picturesque fishing villages.",
+          "Often pay for parking via app (e.g. RingGo)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "St Andrews Cathedral",
+          "coords": [
+            -2.7877,
+            56.3398
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof leicht zu Fuß erreichbar.",
+            "hu": "A buszpályaudvarról könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos de la stația de autobuz.",
+            "en": "Easily accessible on foot from the bus station."
+          }
+        },
+        {
+          "name": "St Andrews Castle",
+          "coords": [
+            -2.7915,
+            56.3421
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Küstenblick auf dem kurzen Weg.",
+            "hu": "Élvezd a part menti kilátást ezen a rövid úton.",
+            "ro": "Bucurați-vă de vederea la coastă pe traseul scurt.",
+            "en": "Enjoy the coastal view on this short walk."
+          }
+        },
+        {
+          "name": "St Andrews University",
+          "coords": [
+            -2.7935,
+            56.3411
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Herz der akademischen Stadt.",
+            "hu": "Az akadémiai város szíve.",
+            "ro": "Inima orașului academic.",
+            "en": "The heart of the academic town."
+          }
+        },
+        {
+          "name": "St Andrews Botanic Garden",
+          "coords": [
+            -2.8051,
+            56.3308
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus Richtung Süden der Stadt.",
+            "hu": "Menj helyi busszal a város déli része felé.",
+            "ro": "Luați un autobuz local spre sudul orașului.",
+            "en": "Take a local bus towards the south of the town."
+          }
+        },
+        {
+          "name": "R&A World Golf Museum",
+          "coords": [
+            -2.8023,
+            56.3428
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Busse bringen Sie zurück ins Zentrum, dann kurzer Fußweg.",
+            "hu": "A buszok visszavisznek a központba, majd rövid séta.",
+            "ro": "Autobuzele vă duc înapoi în centru, apoi o scurtă plimbare pe jos.",
+            "en": "Buses bring you back to the center, then a short walk."
+          }
+        },
+        {
+          "name": "Old Course",
+          "coords": [
+            -2.8041,
+            56.3435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:30",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Museum.",
+            "hu": "Közvetlenül a múzeum sarkánál.",
+            "ro": "Imediat după colțul muzeului.",
+            "en": "Just around the corner from the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie vom zentralen Busbahnhof, um die historischen Stätten – Kathedrale, Schloss und Universität – in Cluster A leicht zu Fuß abzulaufen. Nehmen Sie mittags einen lokalen Bus zum ruhigen Botanischen Garten. Ein weiterer Bus bringt Sie schließlich zum Golfbezirk, um den Tag im Museum und auf dem Old Course ausklingen zu lassen.",
+        "hu": "Induljon a központi buszpályaudvarról, így az A klaszter történelmi helyszínei – katedrális, kastély és egyetem – könnyen bejárhatók gyalog. Délben helyi busszal utazzon a nyugodt botanikus kertbe. Végül egy másik busz elviszi a golf negyedbe, hogy a múzeumban és az Old Course-on fejezze be a napot.",
+        "ro": "Porniți de la stația centrală de autobuz pentru a explora ușor pe jos siturile istorice din Cluster A – catedrala, castelul și universitatea. La prânz luați un autobuz local către grădina botanică liniștită. Un alt autobuz vă va duce la districtul de golf, pentru a vă încheia ziua la muzeu și pe Old Course.",
+        "en": "Start from the central bus station to easily walk the historical sites – cathedral, castle, and university – in Cluster A. Take a local bus at midday to the quiet botanic garden. Another bus finally brings you to the golf district to end the day at the museum and the Old Course."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Probieren Sie diese herzhafte Wurst mit Püree in einem der lokalen Pubs."
+          },
+          {
+            "name": "Gebackener Lachs",
+            "tip": "Frischer Lachs, oft aus lokaler Zucht, im Forgan's."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Schottisches Dessert mit Hafer, Sahne und Himbeeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Kóstold meg ezt a kiadós kolbászt pürével valamelyik helyi kocsmában."
+          },
+          {
+            "name": "Sült lazac",
+            "tip": "Friss, gyakran helyi tenyésztésű lazac a Forgan's-ban."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Skót desszert zabbal, tejszínnel és málnával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Încercați acești cârnați consistenți cu piure într-unul din pub-urile locale."
+          },
+          {
+            "name": "Somon la cuptor",
+            "tip": "Somon proaspăt, adesea de crescătorie locală, la Forgan's."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Desert scoțian cu ovăz, smântână și zmeură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bangers and Mash",
+            "tip": "Try this hearty sausage and mash in one of the local pubs."
+          },
+          {
+            "name": "Baked Salmon",
+            "tip": "Fresh, often locally farmed salmon at Forgan's."
+          },
+          {
+            "name": "Cranachan",
+            "tip": "Scottish dessert with oats, cream, and raspberries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St Salvator's Quadrangle",
+            "tip": "Ein ruhiger historischer Innenhof abseits der Straßen.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "The Scores Bänke",
+            "tip": "Setzen Sie sich und beobachten Sie die Wellen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "East Sands",
+            "tip": "Morgens sehr friedlich für einen Spaziergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St Salvator udvara",
+            "tip": "Egy csendes, történelmi udvar távol az utcáktól.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "The Scores padok",
+            "tip": "Üljön le és figyelje a hullámokat.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "East Sands",
+            "tip": "Reggelente nagyon békés egy sétára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea St Salvator",
+            "tip": "O curte istorică liniștită departe de străzi.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Băncile The Scores",
+            "tip": "Așezați-vă și priviți valurile.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "East Sands",
+            "tip": "Foarte pașnic dimineața pentru o plimbare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Salvator's Quadrangle",
+            "tip": "A quiet historic courtyard away from the streets.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "The Scores Benches",
+            "tip": "Sit down and watch the waves.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "East Sands",
+            "tip": "Very peaceful in the mornings for a walk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse & Chutney",
+            "tip": "Hervorragende Mitbringsel aus den Feinkostläden."
+          },
+          {
+            "name": "Kiltmacher",
+            "tip": "Bewundern oder kaufen Sie echte schottische Kilts."
+          },
+          {
+            "name": "Antiquitäten",
+            "tip": "Stöbern Sie in den kleinen Läden der South Street."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt és chutney",
+            "tip": "Kiváló szuvenír a csemegeüzletekből."
+          },
+          {
+            "name": "Kilt készítők",
+            "tip": "Csodáljon meg vagy vásároljon igazi skót kilteket."
+          },
+          {
+            "name": "Régiségek",
+            "tip": "Böngésszen a South Street kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală & Chutney",
+            "tip": "Suveniruri excelente de la delicatese."
+          },
+          {
+            "name": "Croitori de kilt-uri",
+            "tip": "Admirați sau cumpărați kilt-uri scoțiene adevărate."
+          },
+          {
+            "name": "Antichități",
+            "tip": "Răsfoiți magazinele mici de pe South Street."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese & Chutney",
+            "tip": "Excellent souvenirs from the delis."
+          },
+          {
+            "name": "Kilt Makers",
+            "tip": "Admire or buy real Scottish kilts."
+          },
+          {
+            "name": "Antiques",
+            "tip": "Browse the small shops on South Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die lokalen Busse in St Andrews sind zuverlässig und decken die meisten Touristenorte ab.",
+          "Tageskarten für Busse sind oft günstiger, wenn Sie viel fahren.",
+          "Die Stadt hat keinen eigenen Bahnhof, der nächste ist Leuchars (Busverbindung vorhanden).",
+          "Das Zentrum ist so klein, dass Sie den Bus fast nur für äußere Ziele brauchen."
+        ],
+        "hu": [
+          "A helyi buszok megbízhatóak, és lefedik a legtöbb turisztikai helyszínt.",
+          "A buszos napijegyek gyakran olcsóbbak, ha sokat utazol.",
+          "A városnak nincs saját vasútállomása, a legközelebbi Leuchars (van buszjárat).",
+          "A központ olyan kicsi, hogy szinte csak a külső célpontokhoz kell busz."
+        ],
+        "ro": [
+          "Autobuzele locale sunt de încredere și acoperă majoritatea locurilor turistice.",
+          "Abonamentele de o zi pentru autobuze sunt adesea mai ieftine dacă călătoriți mult.",
+          "Orașul nu are gară proprie, cea mai apropiată este Leuchars (există legătură cu autobuzul).",
+          "Centrul este atât de mic încât aveți nevoie de autobuz aproape doar pentru destinații exterioare."
+        ],
+        "en": [
+          "Local buses are reliable and cover most tourist spots.",
+          "Day passes for buses are often cheaper if you travel a lot.",
+          "The town has no train station of its own, the nearest is Leuchars (bus connection available).",
+          "The center is so small that you almost only need the bus for outer destinations."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1485 @@
+{
+  "city_id": "northmacedonia-valandovo-cities-v2",
+  "anchor": {
+    "name": "Walandowo",
+    "coords": [
+      22.5667,
+      41.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Valandovo",
+            "hu": "Valandovói Városi Park",
+            "ro": "Parcul Orașului Valandovo",
+            "en": "Valandovo City Park"
+          },
+          "coords": [
+            22.5655,
+            41.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und genießen Sie die morgendliche Ruhe.",
+            "hu": "Kezdje a napot egy pihentető sétával, és élvezze a reggeli csendet.",
+            "ro": "Începeți ziua cu o plimbare relaxantă și bucurați-vă de liniștea dimineții.",
+            "en": "Start your day with a relaxing stroll and enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum 25. Mai",
+            "hu": "Május 25. Kultúrközpont",
+            "ro": "Centrul Cultural 25 Mai",
+            "en": "May 25th Cultural Center"
+          },
+          "coords": [
+            22.5642,
+            41.316
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Ausstellungen oder Veranstaltungen.",
+            "hu": "Nézze meg a programot, hátha van helyi kiállítás vagy esemény.",
+            "ro": "Verificați programul pentru expoziții sau evenimente locale.",
+            "en": "Check the schedule for any local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Balkankriege",
+            "hu": "Balkáni Háborúk Emlékműve",
+            "ro": "Monumentul Războaielor Balcanice",
+            "en": "Balkan Wars Monument"
+          },
+          "coords": [
+            22.566,
+            41.3155
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung über die komplexe Geschichte der Region.",
+            "hu": "Egy pillanatnyi elmélyedés a régió összetett történelmén.",
+            "ro": "Un moment de reflecție asupra istoriei complexe a regiunii.",
+            "en": "A moment of reflection on the region's complex history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.5678,
+            41.3148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die traditionellen Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a hagyományos ikonokat és a békés belső hangulatot.",
+            "ro": "Observați icoanele tradiționale și atmosfera pașnică din interior.",
+            "en": "Notice the traditional icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Anska Reka Promenade",
+            "hu": "Anska Reka sétány",
+            "ro": "Promenada Anska Reka",
+            "en": "Anska Reka Promenade"
+          },
+          "coords": [
+            22.571,
+            41.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Cafés und Restaurants in der Nähe.",
+            "hu": "Tökéletes egy ebédszünetre. A közelben számos kávézó és étterem található.",
+            "ro": "Perfect pentru o pauză de prânz. Multe cafenele și restaurante în apropiere.",
+            "en": "Perfect for a lunch break. Many cafes and restaurants are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Isar",
+            "hu": "Isar erőd",
+            "ro": "Cetatea Isar",
+            "en": "Isar Fortress"
+          },
+          "coords": [
+            22.56,
+            41.311
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt und das Tal.",
+            "hu": "Megéri a fáradságot felmászni a városra és a völgyre nyíló panorámáért.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului și a văii.",
+            "en": "The climb is worth it for the panoramic view over the town and valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Walandowo beginnt mit einem erfrischenden Spaziergang im Stadtpark. Vormittags erkunden Sie das kulturelle Herz der Stadt mit Besuchen im Kulturzentrum, am Denkmal der Balkankriege und in der stillen Kirche des Heiligen Nikolaus. Der Nachmittag führt Sie zur Anska Reka Promenade für eine ausgedehnte Mittagspause am Wasser. Zum Abschluss des Tages erklimmen Sie die historische Festung Isar und werden mit einem atemberaubenden Blick auf die Umgebung belohnt.",
+        "hu": "A valandovói nap egy frissítő sétával kezdődik a városi parkban. Délelőtt a város kulturális szívét fedezi fel, ellátogatva a kultúrközpontba, a balkáni háborúk emlékművéhez és a csendes Szent Miklós-templomba. Délután az Anska Reka sétányra vezet az út egy kiadós ebédhez a vízparton. A nap végén megmássza a történelmi Isar erődöt, ahonnan lélegzetelállító kilátás nyílik a környékre.",
+        "ro": "Ziua dumneavoastră în Valandovo începe cu o plimbare revigorantă în Parcul Orașului. Dimineața explorați inima culturală a orașului, vizitând Centrul Cultural, Monumentul Războaielor Balcanice și liniștita Biserică a Sfântului Nicolae. După-amiaza vă duce la Promenada Anska Reka pentru o pauză de prânz relaxantă pe malul apei. La finalul zilei, urcați la fortăreața istorică Isar și veți fi răsplătit cu o priveliște uluitoare asupra împrejurimilor.",
+        "en": "Your day in Valandovo starts with a refreshing walk in the City Park. In the morning, you'll explore the cultural heart of the town by visiting the Cultural Center, the Balkan Wars Monument, and the quiet St. Nicholas Church. The afternoon takes you to the Anska Reka Promenade for a relaxing lunch break by the water. To cap off the day, you'll climb the historic Isar Fortress and be rewarded with a breathtaking view of the surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Probieren Sie dieses traditionelle mazedonische Bohnengericht, das oft in Tontöpfen serviert wird."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist für ihren Weinanbau bekannt. Ein Glas Vranec ist ein Muss."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Genießen Sie diesen köstlichen Paprika-Aufstrich mit frischem Brot als Vorspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Kóstolja meg ezt a hagyományos macedón babételt, amelyet gyakran agyagedényben szolgálnak fel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A régió bortermeléséről híres. Egy pohár Vranec kihagyhatatlan."
+          },
+          {
+            "name": "Ajvár",
+            "tip": "Élvezze ezt az ízletes paprikakrémet friss kenyérrel előételként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Încercați acest fel de mâncare tradițional macedonean cu fasole, adesea servit în vase de lut."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru viticultura sa. Un pahar de Vranec este obligatoriu."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Savurați această delicioasă pastă de ardei cu pâine proaspătă ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavče Gravče",
+            "tip": "Try this traditional Macedonian bean dish, often served in earthenware pots."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The region is known for its wine production. A glass of Vranec is a must-try."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Enjoy this delicious pepper spread with fresh bread as an appetizer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster des Hl. Georg",
+            "tip": "Finden Sie Ruhe und Frieden in diesem etwas außerhalb gelegenen, spirituellen Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Anska Reka",
+            "tip": "Ein ruhiger Platz am Flussufer, abseits der belebten Teile der Promenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Festung Isar",
+            "tip": "Genießen Sie den Sonnenuntergang und die weite Aussicht in Stille.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent György kolostor",
+            "tip": "Találjon nyugalmat és békét ezen a kissé félreeső, spirituális helyen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Anska Reka partja",
+            "tip": "Egy csendes hely a folyóparton, távol a sétány forgalmas részeitől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás az Isar erődről",
+            "tip": "Élvezze a naplementét és a tágas kilátást csendben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Sf. Gheorghe",
+            "tip": "Găsiți liniște și pace în acest loc spiritual, situat puțin în afara orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Anska",
+            "tip": "Un loc liniștit pe malul râului, departe de secțiunile aglomerate ale promenadei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Cetatea Isar",
+            "tip": "Bucurați-vă de apusul soarelui și de priveliștea vastă în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery of St. George",
+            "tip": "Find peace and quiet at this spiritual place located slightly out of town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Anska Reka",
+            "tip": "A quiet spot on the riverbank, away from the busier parts of the promenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Isar Fortress",
+            "tip": "Enjoy the sunset and the wide view in silence.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem lokalen Markt für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Weinhandlungen",
+            "tip": "Kaufen Sie eine Flasche des berühmten regionalen Weins als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy helyi piacot, ahol friss termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Vásároljon egy üveg híres helyi bort szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață locală pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Cumpărați o sticlă din renumitul vin regional ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for a local market for fresh produce and handmade goods."
+          },
+          {
+            "name": "Wine Shops",
+            "tip": "Buy a bottle of the famous regional wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen beinhaltet, besonders den Aufstieg zur Festung.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Nachmittagsspaziergang.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Ihre Mittagspause an der Promenade, um die Atmosphäre zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap sok gyaloglást foglal magában, különösen az erődhöz való feljutást.",
+          "Vigyen magával elegendő vizet, különösen a délutáni sétához.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezze az ebédszünetet a sétányon, hogy élvezhesse a hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos, în special urcarea la cetate.",
+          "Luați suficientă apă, mai ales pentru plimbarea de după-amiază.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați-vă pauza de prânz pe promenadă pentru a vă bucura de atmosferă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the day involves a lot of walking, especially the climb to the fortress.",
+          "Bring enough water, especially for the afternoon walk.",
+          "Most sights in the center are easily within walking distance.",
+          "Plan your lunch break at the promenade to soak in the atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal der Balkankriege",
+            "hu": "Balkáni Háborúk Emlékműve",
+            "ro": "Monumentul Războaielor Balcanice",
+            "en": "Balkan Wars Monument"
+          },
+          "coords": [
+            22.566,
+            41.3155
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter, zentraler Ausgangspunkt für Ihre Radtour.",
+            "hu": "Jó, központi kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare bun și central pentru turul cu bicicleta.",
+            "en": "A good, central starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.5678,
+            41.3148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Secure your bike before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Isar",
+            "hu": "Isar erőd",
+            "ro": "Cetatea Isar",
+            "en": "Isar Fortress"
+          },
+          "coords": [
+            22.56,
+            41.311
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Weg hinauf kann steil sein, aber die Aussicht ist die Mühe wert.",
+            "hu": "Az út felfelé meredek lehet, de a kilátás megéri a fáradságot.",
+            "ro": "Drumul până sus poate fi abrupt, dar priveliștea merită efortul.",
+            "en": "The path up can be steep, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Anska Reka Promenade",
+            "hu": "Anska Reka sétány",
+            "ro": "Promenada Anska Reka",
+            "en": "Anska Reka Promenade"
+          },
+          "coords": [
+            22.571,
+            41.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Flusses und suchen Sie sich ein nettes Café für die Mittagspause.",
+            "hu": "Tekerjen a folyó mentén, és keressen egy szép kávézót az ebédszünethez.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul râului și găsiți o cafenea drăguță pentru pauza de prânz.",
+            "en": "Ride along the river and find a nice cafe for your lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Hl. Georg",
+            "hu": "Szent György kolostor",
+            "ro": "Mănăstirea Sf. Gheorghe",
+            "en": "St. George Monastery"
+          },
+          "coords": [
+            22.58,
+            41.33
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine friedliche Radtour aus der Stadt heraus zu diesem spirituellen Ort.",
+            "hu": "Egy békés kerékpártúra a városból ehhez a spirituális helyhez.",
+            "ro": "O plimbare pașnică cu bicicleta în afara orașului până la acest loc spiritual.",
+            "en": "A peaceful bike ride out of town to this spiritual place."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Imance",
+            "hu": "Imance régészeti lelőhely",
+            "ro": "Situl arheologic Imance",
+            "en": "Imance Archaeological Site"
+          },
+          "coords": [
+            22.55,
+            41.305
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen und stellen Sie sich das Leben in der Vergangenheit vor.",
+            "hu": "Fedezze fel az ókori romokat, és képzelje el a múltbeli életet.",
+            "ro": "Explorați ruinele antice și imaginați-vă viața din trecut.",
+            "en": "Explore the ancient ruins and imagine life in the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Valandovo",
+            "hu": "Valandovói Városi Park",
+            "ro": "Parcul Orașului Valandovo",
+            "en": "Valandovo City Park"
+          },
+          "coords": [
+            22.5655,
+            41.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour dort, wo der Tag für die Spaziergänger begann.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol a gyalogosok számára a nap kezdődött.",
+            "ro": "Încheiați turul cu bicicleta acolo unde a început ziua pentru pietoni.",
+            "en": "End your bike tour where the day began for the walkers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Denkmal der Balkankriege. Die Route führt Sie zur Kirche des Hl. Nikolaus und dann hinauf zur Festung Isar für eine spektakuläre Aussicht. Entspannen Sie sich während der Mittagspause an der Anska Reka Promenade. Am Nachmittag radeln Sie aus der Stadt heraus zum friedlichen Kloster des Hl. Georg und tauchen bei der archäologischen Stätte Imance in die Geschichte ein, bevor Sie den Tag im Stadtpark ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra, és induljon a balkáni háborúk emlékművétől. Az útvonal a Szent Miklós-templomhoz, majd fel az Isar erődhöz vezet, ahonnan lenyűgöző a kilátás. Pihenjen az ebédszünetben az Anska Reka sétányon. Délután kerekezzen ki a városból a békés Szent György-kolostorhoz, és merüljön el a történelemben az Imance régészeti lelőhelyen, mielőtt a napot a városi parkban zárná.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Monumentul Războaielor Balcanice. Traseul vă duce la Biserica Sf. Nicolae și apoi sus la Cetatea Isar pentru o priveliște spectaculoasă. Relaxați-vă în timpul pauzei de prânz la Promenada Anska Reka. După-amiaza, pedalați în afara orașului până la liniștita Mănăstire Sf. Gheorghe și scufundați-vă în istorie la situl arheologic Imance, înainte de a încheia ziua în Parcul Orașului.",
+        "en": "Hop on your bike and start at the Balkan Wars Monument. The route takes you to St. Nicholas Church and then up to Isar Fortress for a spectacular view. Relax during your lunch break at the Anska Reka Promenade. In the afternoon, cycle out of town to the peaceful St. George Monastery and delve into history at the Imance Archaeological Site before ending the day in the City Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Perfekt für ein herzhaftes Mittagessen nach einer Radtour."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Salat mit Tomaten, Gurken und geriebenem Sirene-Käse."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach der Tour mit einem kühlen mazedonischen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hús (Skara)",
+            "tip": "Tökéletes egy kiadós ebédhez egy kerékpártúra után."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Egy frissítő saláta paradicsommal, uborkával és reszelt szirén sajttal."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazza meg magát egy hűs macedón sörrel a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Perfect pentru un prânz copios după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare cu roșii, castraveți și brânză sirene rasă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Recompensați-vă cu o bere macedoneană rece după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Meat (Skara)",
+            "tip": "Perfect for a hearty lunch after a bike ride."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad with tomatoes, cucumbers, and grated sirene cheese."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Reward yourself with a cold Macedonian beer after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung des Klosters des Hl. Georg",
+            "tip": "Die ruhige Landschaft rund um das Kloster lädt zum Verweilen ein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Archäologische Stätte Imance",
+            "tip": "Ein Ort der Stille, an dem man über die Vergänglichkeit der Zeit nachdenken kann.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abgelegene Wege entlang des Anska Reka",
+            "tip": "Entdecken Sie weniger befahrene Wege für eine ruhige Fahrt am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent György kolostor környéke",
+            "tip": "A kolostor körüli csendes táj pihenésre csábít.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Imance régészeti lelőhely",
+            "tip": "A csend helye, ahol elgondolkodhat az idő múlásán.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Félreeső utak az Anska Reka mentén",
+            "tip": "Fedezzen fel kevésbé járt utakat egy csendes folyóparti tekeréshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Mănăstirii Sf. Gheorghe",
+            "tip": "Peisajul liniștit din jurul mănăstirii invită la relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Situl arheologic Imance",
+            "tip": "Un loc al tăcerii unde poți reflecta la trecerea timpului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poteci izolate de-a lungul râului Anska",
+            "tip": "Descoperiți poteci mai puțin circulate pentru o plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Surroundings of St. George Monastery",
+            "tip": "The quiet landscape around the monastery invites you to linger.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Imance Archaeological Site",
+            "tip": "A place of silence where you can reflect on the passage of time.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secluded paths along the Anska Reka",
+            "tip": "Discover less-traveled paths for a quiet ride by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Ajvar oder lokalen Käse, um ihn mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon ajvárt vagy helyi sajtot, hogy hazavigye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați ajvar sau brânză locală pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some ajvar or local cheese to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen für die Abfahrt von der Festung.",
+          "Ein Helm wird dringend empfohlen.",
+          "Einige Wege außerhalb der Stadt könnten unbefestigt sein, seien Sie also vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket az erődből való leereszkedéshez.",
+          "Sisak viselése erősen ajánlott.",
+          "A városon kívüli utak némelyike burkolatlan lehet, ezért legyen felkészült.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkol.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkol."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele pentru coborârea de la cetate.",
+          "O cască este foarte recomandată.",
+          "Unele drumuri din afara orașului ar putea fi neasfaltate, așa că fiți pregătiți.",
+          "Încuietăți-vă întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes for the descent from the fortress.",
+          "A helmet is highly recommended.",
+          "Some roads outside the city might be unpaved, so be prepared.",
+          "Always lock your bike securely when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Stätte Imance",
+            "hu": "Imance régészeti lelőhely",
+            "ro": "Situl arheologic Imance",
+            "en": "Imance Archaeological Site"
+          },
+          "coords": [
+            22.55,
+            41.305
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie mit dem am weitesten entfernten Ziel. Es gibt normalerweise genügend Parkplätze.",
+            "hu": "Kezdje a legtávolabbi célponttal. Általában van elég parkolóhely.",
+            "ro": "Începeți cu cea mai îndepărtată destinație. De obicei, există suficient spațiu de parcare.",
+            "en": "Start with the furthest destination. There's usually ample parking space."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Hl. Georg",
+            "hu": "Szent György kolostor",
+            "ro": "Mănăstirea Sf. Gheorghe",
+            "en": "St. George Monastery"
+          },
+          "coords": [
+            22.58,
+            41.33
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber landschaftlich reizvoller Abstecher. Genießen Sie die Ruhe.",
+            "hu": "Egy rövid, de festői kitérő. Élvezze a csendet.",
+            "ro": "Un ocol scurt, dar pitoresc. Bucurați-vă de liniște.",
+            "en": "A short but scenic detour. Enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Isar",
+            "hu": "Isar erőd",
+            "ro": "Cetatea Isar",
+            "en": "Isar Fortress"
+          },
+          "coords": [
+            22.56,
+            41.311
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels und gehen Sie das letzte Stück zu Fuß.",
+            "hu": "Parkoljon a hegy lábánál, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Parcați la poalele dealului și mergeți pe jos ultima bucată.",
+            "en": "Park at the foot of the hill and walk the last part."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum & Mittagessen",
+            "hu": "Központ és ebéd",
+            "ro": "Centru și Prânz",
+            "en": "Center & Lunch"
+          },
+          "coords": [
+            22.565,
+            41.315
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die Gegend zu Fuß. Zeit für ein Mittagessen.",
+            "hu": "Parkolja le az autót a központban, és fedezze fel a környéket gyalog. Itt az ebéd ideje.",
+            "ro": "Parcați mașina în centru și explorați zona pe jos. E timpul pentru prânz.",
+            "en": "Park your car in the center and explore the area on foot. Time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.5678,
+            41.3148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mittagessen.",
+            "hu": "Egy rövid séta az ebédtől.",
+            "ro": "O scurtă plimbare de la locul de prânz.",
+            "en": "A short walk from your lunch spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum 25. Mai",
+            "hu": "Május 25. Kultúrközpont",
+            "ro": "Centrul Cultural 25 Mai",
+            "en": "May 25th Cultural Center"
+          },
+          "coords": [
+            22.5642,
+            41.316
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch das Stadtzentrum fort.",
+            "hu": "Folytassa sétáját a városközpontban.",
+            "ro": "Continuați-vă plimbarea prin centrul orașului.",
+            "en": "Continue your stroll through the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Anska Reka Promenade",
+            "hu": "Anska Reka sétány",
+            "ro": "Promenada Anska Reka",
+            "en": "Anska Reka Promenade"
+          },
+          "coords": [
+            22.571,
+            41.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang am Fluss, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja a napot egy pihentető sétával a folyóparton, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul râului înainte de a vă întoarce la mașină.",
+            "en": "End the day with a relaxing walk by the river before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, zuerst die weiter entfernten Juwelen zu entdecken. Sie beginnen an der archäologischen Stätte Imance und fahren dann zum ruhigen Kloster des Heiligen Georg. Mittags erreichen Sie die Festung Isar. Danach parken Sie im Stadtzentrum für ein wohlverdientes Mittagessen und erkunden den Rest des Nachmittags zu Fuß: die Kirche, das Kulturzentrum und schließlich die Promenade am Anska Reka.",
+        "hu": "Az autó rugalmasságot ad, hogy először a távolabbi gyöngyszemeket fedezze fel. Az Imance régészeti lelőhelyen kezdenek, majd a csendes Szent György-kolostorhoz hajtanak. Délben érik el az Isar erődöt. Ezután leparkolnak a városközpontban egy jól megérdemelt ebédre, és a délután hátralévő részét gyalog fedezik fel: a templomot, a kultúrközpontot és végül az Anska Reka sétányt.",
+        "ro": "Cu mașina, aveți flexibilitatea de a explora mai întâi bijuteriile mai îndepărtate. Începeți la situl arheologic Imance, apoi conduceți spre liniștita Mănăstire Sf. Gheorghe. La prânz ajungeți la Cetatea Isar. Apoi, parcați în centrul orașului pentru un prânz binemeritat și explorați restul după-amiezii pe jos: biserica, centrul cultural și, în final, promenada de pe Anska Reka.",
+        "en": "By car, you have the flexibility to explore the more distant gems first. You'll start at the Imance Archaeological Site, then drive to the tranquil St. George Monastery. At noon, you'll reach the Isar Fortress. Afterwards, you park in the city center for a well-deserved lunch and explore the rest of the afternoon on foot: the church, the cultural center, and finally the Anska Reka promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mazedonischer Eintopf",
+            "tip": "Ein wärmendes und sättigendes Gericht, ideal für ein gemütliches Mittagessen."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Ein herzhafter Kuchen aus Filoteig mit Käse und Eiern."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Probieren Sie nach dem Essen einen lokalen Obstbrand, aber fahren Sie danach vorsichtig!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macedón egytálétel",
+            "tip": "Melegítő és laktató étel, ideális egy kellemes ebédhez."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "Sós pite filotésztából, sajttal és tojással."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Étkezés után kóstoljon meg egy helyi gyümölcspálinkát, de utána vezessen óvatosan!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană macedoneană",
+            "tip": "Un fel de mâncare cald și sățios, ideal pentru un prânz confortabil."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "O plăcintă sărată făcută din foi de plăcintă cu brânză și ouă."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Încercați un rachiu local de fructe după masă, dar conduceți cu prudență după aceea!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Macedonian Stew",
+            "tip": "A warming and filling dish, ideal for a cozy lunch."
+          },
+          {
+            "name": "Gibanica",
+            "tip": "A savory pie made with filo pastry, cheese, and eggs."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Try a local fruit brandy after your meal, but drive carefully afterwards!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologische Stätte Imance",
+            "tip": "Besonders am Morgen ein Ort der Stille und Geschichte.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Kloster des Hl. Georg",
+            "tip": "Ein spiritueller Rückzugsort abseits des städtischen Trubels.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Festung",
+            "tip": "Auch mitten am Tag kann man hier einen ruhigen Moment mit Weitblick finden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Imance régészeti lelőhely",
+            "tip": "Különösen reggel a csend és a történelem helye.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Szent György kolostor",
+            "tip": "Egy spirituális menedék távol a városi nyüzsgéstől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás az erődről",
+            "tip": "Még a nap közepén is találhat itt egy csendes pillanatot a távoli kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Situl arheologic Imance",
+            "tip": "Un loc de liniște și istorie, mai ales dimineața.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Mănăstirea Sf. Gheorghe",
+            "tip": "Un refugiu spiritual departe de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la cetate",
+            "tip": "Chiar și în mijlocul zilei, puteți găsi aici un moment de liniște cu o priveliște largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Imance Archaeological Site",
+            "tip": "A place of tranquility and history, especially in the morning.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Monastery of St. George",
+            "tip": "A spiritual retreat away from the city hustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Fortress",
+            "tip": "Even in the middle of the day, you can find a quiet moment with a panoramic view here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter der Region",
+            "tip": "Machen Sie einen Abstecher zu einem Weingut, um Wein direkt vom Erzeuger zu kaufen."
+          },
+          {
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Halten Sie Ausschau nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A régió borászatai",
+            "tip": "Tegyen egy kitérőt egy borászathoz, hogy közvetlenül a termelőtől vásároljon bort."
+          },
+          {
+            "name": "Kézműves boltok a központban",
+            "tip": "Keressen egyedi, kézzel készített szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din regiune",
+            "tip": "Faceți un ocol la o cramă pentru a cumpăra vin direct de la producător."
+          },
+          {
+            "name": "Magazine de artizanat în centru",
+            "tip": "Căutați suveniruri unice, realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the region",
+            "tip": "Take a detour to a winery to buy wine directly from the producer."
+          },
+          {
+            "name": "Craft shops in the center",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die besten Routen zwischen den weiter entfernten Zielen zu finden.",
+          "Informieren Sie sich über Parkmöglichkeiten im Stadtzentrum, bevor Sie dorthin fahren.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Das Auto gibt Ihnen die Freiheit, spontan anzuhalten, wenn Sie etwas Interessantes sehen."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a legjobb útvonalak megtalálásához a távolabbi célpontok között.",
+          "Tájékozódjon a parkolási lehetőségekről a városközpontban, mielőtt odahajt.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan.",
+          "Az autó szabadságot ad, hogy spontán megálljon, ha valami érdekeset lát."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi cele mai bune rute între destinațiile mai îndepărtate.",
+          "Informați-vă despre opțiunile de parcare în centrul orașului înainte de a merge acolo.",
+          "Străzile pot fi înguste, așa că șofați cu atenție.",
+          "Mașina vă oferă libertatea de a opri spontan dacă vedeți ceva interesant."
+        ],
+        "en": [
+          "Use a navigation app to find the best routes between the more distant destinations.",
+          "Check for parking options in the city center before you drive there.",
+          "The streets can be narrow, so drive carefully.",
+          "The car gives you the freedom to make spontaneous stops if you see something interesting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof / Startpunkt",
+            "hu": "Központi buszpályaudvar / Kiindulópont",
+            "ro": "Autogară Centrală / Punct de Plecare",
+            "en": "Central Bus Station / Starting Point"
+          },
+          "coords": [
+            22.568,
+            41.318
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen des öffentlichen Verkehrsnetzes der Stadt.",
+            "hu": "Kezdje a napot a város tömegközlekedési hálózatának szívében.",
+            "ro": "Începeți ziua în inima rețelei de transport public a orașului.",
+            "en": "Start your day in the heart of the town's public transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum 25. Mai",
+            "hu": "Május 25. Kultúrközpont",
+            "ro": "Centrul Cultural 25 Mai",
+            "en": "May 25th Cultural Center"
+          },
+          "coords": [
+            22.5642,
+            41.316
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der ersten Haltestelle.",
+            "hu": "Rövid séta az első megállótól.",
+            "ro": "O scurtă plimbare de la prima stație.",
+            "en": "A short walk from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Valandovo",
+            "hu": "Valandovói Városi Park",
+            "ro": "Parcul Orașului Valandovo",
+            "en": "Valandovo City Park"
+          },
+          "coords": [
+            22.5655,
+            41.3175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Park, bevor Sie zum nächsten Cluster aufbrechen.",
+            "hu": "Sétáljon át a parkon, mielőtt a következő csoporthoz indulna.",
+            "ro": "Plimbați-vă prin parc înainte de a pleca spre următorul cluster.",
+            "en": "Stroll through the park before heading to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Isar",
+            "hu": "Isar erőd",
+            "ro": "Cetatea Isar",
+            "en": "Isar Fortress"
+          },
+          "coords": [
+            22.56,
+            41.311
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden. Möglicherweise müssen Sie das letzte Stück zu Fuß gehen.",
+            "hu": "Menjen busszal dél felé. Lehet, hogy az utolsó szakaszt gyalog kell megtennie.",
+            "ro": "Luați un autobuz spre sud. S-ar putea să trebuiască să mergeți pe jos ultima parte.",
+            "en": "Take a bus heading south. You might need to walk the last part."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            22.5678,
+            41.3148
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Abstieg von der Festung ein kurzer Spaziergang zur Kirche. Zeit für eine Mittagspause in der Nähe.",
+            "hu": "Miután lejött az erődből, egy rövid séta a templomhoz. Ideje ebédelni a közelben.",
+            "ro": "După coborârea de la cetate, o scurtă plimbare până la biserică. Timp pentru o pauză de prânz în apropiere.",
+            "en": "After descending from the fortress, a short walk to the church. Time for a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Anska Reka Promenade",
+            "hu": "Anska Reka sétány",
+            "ro": "Promenada Anska Reka",
+            "en": "Anska Reka Promenade"
+          },
+          "coords": [
+            22.571,
+            41.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 125,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der nach Norden fährt, um den Nachmittag am Fluss zu verbringen.",
+            "hu": "Menjen egy észak felé tartó busszal, hogy a délutánt a folyóparton töltse.",
+            "ro": "Luați un autobuz care merge spre nord pentru a petrece după-amiaza pe malul râului.",
+            "en": "Take a bus heading north to spend the afternoon by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Zentrum. Nach einem kurzen Spaziergang zum Kulturzentrum und durch den Stadtpark bringt Sie ein Bus zum ersten Hauptziel, der Festung Isar. Nach der Erkundung und dem Mittagessen in der Nähe geht es zu Fuß zur Kirche des Heiligen Nikolaus. Ein weiterer Bus bringt Sie am Nachmittag zur Anska Reka Promenade, wo Sie den Rest des Tages entspannt ausklingen lassen können.",
+        "hu": "A tömegközlekedési túra a központból indul. Egy rövid séta után a kultúrközponthoz és a városi parkon keresztül egy busz viszi az első fő célponthoz, az Isar erődhöz. A felfedezés és a közeli ebéd után gyalog megy tovább a Szent Miklós-templomhoz. Délután egy másik busz viszi az Anska Reka sétányra, ahol pihentetően zárhatja a napot.",
+        "ro": "Turul dumneavoastră cu transportul public începe din centru. După o scurtă plimbare la Centrul Cultural și prin Parcul Orașului, un autobuz vă duce la prima destinație principală, Cetatea Isar. După explorare și prânz în apropiere, mergeți pe jos la Biserica Sf. Nicolae. Un alt autobuz vă duce după-amiaza la Promenada Anska Reka, unde vă puteți încheia ziua într-un mod relaxant.",
+        "en": "Your public transit tour starts in the center. After a short walk to the Cultural Center and through the City Park, a bus takes you to the first main destination, Isar Fortress. After exploring and having lunch nearby, you'll walk to St. Nicholas Church. Another bus takes you to the Anska Reka Promenade in the afternoon, where you can end the day relaxing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein schnelles und leckeres Gebäck, perfekt für unterwegs."
+          },
+          {
+            "name": "Lokale Grillrestaurants (Kafana)",
+            "tip": "Suchen Sie nach einer traditionellen Kafana für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Mazedonischer Kaffee",
+            "tip": "Genießen Sie einen starken, nach türkischer Art zubereiteten Kaffee in einem der Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Gyors és finom péksütemény, tökéletes útközben."
+          },
+          {
+            "name": "Helyi grilléttermek (Kafana)",
+            "tip": "Keressen egy hagyományos kafanát egy autentikus ebédhez."
+          },
+          {
+            "name": "Macedón kávé",
+            "tip": "Élvezzen egy erős, török stílusú kávét az egyik kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "Un produs de patiserie rapid și delicios, perfect pentru a fi luat la pachet."
+          },
+          {
+            "name": "Restaurante locale cu grătar (Kafana)",
+            "tip": "Căutați o kafana tradițională pentru un prânz autentic."
+          },
+          {
+            "name": "Cafea macedoneană",
+            "tip": "Savurați o cafea tare, în stil turcesc, la una dintre cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A quick and delicious pastry, perfect for on the go."
+          },
+          {
+            "name": "Local Grill Restaurants (Kafana)",
+            "tip": "Look for a traditional kafana for an authentic lunch."
+          },
+          {
+            "name": "Macedonian Coffee",
+            "tip": "Enjoy a strong, Turkish-style coffee at one of the cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Inneres der Kirche des Hl. Nikolaus",
+            "tip": "Ein Moment der Stille und Kontemplation.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Morgens im Stadtpark",
+            "tip": "Bevor die Stadt erwacht, ist der Park ein Ort der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Festungshügel",
+            "tip": "Suchen Sie sich einen ruhigen Platz, um die Aussicht abseits der Hauptwege zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Miklós-templom belseje",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Reggel a városi parkban",
+            "tip": "Mielőtt a város felébred, a park a nyugalom helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várhegyről",
+            "tip": "Keressen egy csendes helyet, hogy a fő utaktól távol élvezhesse a kilátást.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii Sf. Nicolae",
+            "tip": "Un moment de liniște și contemplare.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Dimineața în Parcul Orașului",
+            "tip": "Înainte ca orașul să se trezească, parcul este un loc de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe dealul cetății",
+            "tip": "Găsiți un loc liniștit pentru a vă bucura de priveliște departe de potecile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inside St. Nicholas Church",
+            "tip": "A moment of silence and contemplation.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Morning in the City Park",
+            "tip": "Before the city wakes up, the park is a place of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the fortress hill",
+            "tip": "Find a quiet spot to enjoy the view away from the main paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in der Nähe von Bushaltestellen",
+            "tip": "Hier finden Sie Snacks, Getränke und manchmal auch Fahrkarten."
+          },
+          {
+            "name": "Souvenirstände an der Promenade",
+            "tip": "Halten Sie Ausschau nach kleinen Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállók közelében",
+            "tip": "Itt rágcsálnivalókat, italokat és néha jegyeket is talál."
+          },
+          {
+            "name": "Szuvenírstandok a sétányon",
+            "tip": "Keressen kis emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri lângă stațiile de autobuz",
+            "tip": "Aici veți găsi gustări, băuturi și uneori bilete."
+          },
+          {
+            "name": "Tarabe de suveniruri pe promenadă",
+            "tip": "Căutați mici amintiri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks near bus stops",
+            "tip": "You'll find snacks, drinks, and sometimes tickets here."
+          },
+          {
+            "name": "Souvenir stalls on the promenade",
+            "tip": "Look for small mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich einen Plan des Busnetzes oder nutzen Sie eine entsprechende App.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Beachten Sie die Fahrpläne, besonders für den letzten Bus zurück.",
+          "Fragen Sie Einheimische, wenn Sie unsicher sind, welchen Bus Sie nehmen sollen. Sie sind meist sehr hilfsbereit."
+        ],
+        "hu": [
+          "Szerezzen be egy buszhálózati térképet, vagy használjon egy megfelelő alkalmazást.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Vegye figyelembe a menetrendeket, különösen az utolsó visszabuszt.",
+          "Kérdezze meg a helyieket, ha bizonytalan, melyik buszra szálljon. Általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Obțineți o hartă a rețelei de autobuze sau utilizați o aplicație corespunzătoare.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz.",
+          "Fiți atenți la orare, în special pentru ultimul autobuz de întoarcere.",
+          "Întrebați localnicii dacă nu sunteți sigur ce autobuz să luați. De obicei sunt foarte de ajutor."
+        ],
+        "en": [
+          "Get a map of the bus network or use a corresponding app.",
+          "Have small change ready for bus tickets.",
+          "Pay attention to the timetables, especially for the last bus back.",
+          "Ask locals if you are unsure which bus to take. They are usually very helpful."
+        ]
+      }
+    }
+  }
+}

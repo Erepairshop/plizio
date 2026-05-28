@@ -1,0 +1,1253 @@
+{
+  "city_id": "balassagyarmat",
+  "anchor": {
+    "name": "Jahrmarkt",
+    "coords": [
+      19.2944,
+      48.0792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Civitas Fortissima Platz",
+            "hu": "Civitas Fortissima tér",
+            "ro": "Piața Civitas Fortissima",
+            "en": "Civitas Fortissima Square"
+          },
+          "coords": [
+            19.2944,
+            48.0792
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der „Platz der tapfersten Stadt“. Spüren Sie die Geschichte und beobachten Sie das lokale Leben.",
+            "hu": "A „Legbátrabb Város tere”. Érezd a történelmet és figyeld a helyi életet.",
+            "ro": "„Piața celui mai curajos oraș”. Simțiți istoria și observați viața locală.",
+            "en": "The 'Square of the Bravest Town'. Feel the history and watch local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            19.2935,
+            48.0795
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Details im Inneren, ein ruhiger Ort der Besinnung.",
+            "hu": "Figyeld meg a barokk részleteket odabent, a béke szigete.",
+            "ro": "Observați detaliile baroce din interior, un loc liniștit pentru reflecție.",
+            "en": "Notice the baroque details inside, a quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Komitatshaus",
+            "hu": "Régi Vármegyeháza",
+            "ro": "Vechea Casă a Comitatului",
+            "en": "Old County Hall"
+          },
+          "coords": [
+            19.2952,
+            48.0788
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes neoklassizistisches Gebäude. Achten Sie auf das Wappen über dem Eingang.",
+            "hu": "Impozáns klasszicista épület. Keresd a címert a bejárat felett.",
+            "ro": "O clădire neoclasică impresionantă. Căutați stema de deasupra intrării.",
+            "en": "An impressive neoclassical building. Look for the coat of arms above the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Serbisch-Orthodoxe Kirche",
+            "hu": "Szerb ortodox templom",
+            "ro": "Biserica Ortodoxă Sârbă",
+            "en": "Serbian Orthodox Church"
+          },
+          "coords": [
+            19.296,
+            48.0805
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine einzigartige Ikonostase und eine andere spirituelle Atmosphäre als in den katholischen Kirchen.",
+            "hu": "Egyedi ikonosztáz és a katolikus templomoktól eltérő spirituális légkör.",
+            "ro": "Un iconostas unic și o atmosferă spirituală diferită de bisericile catolice.",
+            "en": "A unique iconostasis and a different spiritual atmosphere from the Catholic churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Paloczen-Museum",
+            "hu": "Palóc Múzeum",
+            "ro": "Muzeul Palóc",
+            "en": "Paloc Museum"
+          },
+          "coords": [
+            19.2928,
+            48.0785
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die lokale Palóc-Kultur. Die Trachten sind besonders farbenfroh.",
+            "hu": "Tudj meg mindent a helyi palóc kultúráról. A népviseletek különösen színesek.",
+            "ro": "Aflați totul despre cultura locală Palóc. Costumele populare sunt deosebit de colorate.",
+            "en": "Learn all about the local Palóc culture. The folk costumes are especially colorful."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefängnismuseum",
+            "hu": "Börtönmúzeum",
+            "ro": "Muzeul Penitenciar",
+            "en": "Prison Museum"
+          },
+          "coords": [
+            19.2915,
+            48.0799
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ernüchterndes, aber faszinierendes Erlebnis im ehemaligen Bezirksgefängnis.",
+            "hu": "Kijózanító, de lenyűgöző élmény a volt megyei börtönben.",
+            "ro": "O experiență sobră, dar fascinantă în fosta închisoare a comitatului.",
+            "en": "A sobering but fascinating experience inside the former county prison."
+          }
+        },
+        {
+          "name": {
+            "de": "Pannonia Motorradmuseum",
+            "hu": "Pannónia Motorkerékpár Múzeum",
+            "ro": "Muzeul de Motociclete Pannonia",
+            "en": "Pannonia Motorcycle Museum"
+          },
+          "coords": [
+            18.289,
+            48.077
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber klassischer Motorräder, besonders der ungarischen Marken.",
+            "hu": "A klasszikus motorok, különösen a magyar márkák szerelmeseinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de motociclete clasice, în special mărcile maghiare.",
+            "en": "A must-visit for lovers of classic motorcycles, especially the Hungarian brands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, dem Civitas Fortissima Platz. Der Vormittag ist der Erkundung der historischen und religiösen Stätten im Stadtzentrum gewidmet. Nach einem Mittagessen in einem lokalen Restaurant tauchen Sie am Nachmittag in die einzigartigen Museen der Stadt ein, vom reichen Erbe im Paloczen-Museum bis zur ernüchternden Geschichte des Gefängnismuseums. Beenden Sie Ihren Tag mit einem längeren Spaziergang zum Motorradmuseum, um eine beeindruckende Sammlung zu sehen.",
+        "hu": "Kezdje a napot a város szívében, a Civitas Fortissima téren. A délelőtt a történelmi és vallási helyszínek felfedezésével telik a központban. Egy helyi étteremben elköltött ebéd után délután merüljön el a város egyedi múzeumaiban, a Palóc Múzeum gazdag örökségétől a Börtönmúzeum kijózanító történelméig. Zárja a napot egy hosszabb sétával a Motorkerékpár Múzeumhoz, ahol egy lenyűgöző gyűjteményt tekinthet meg.",
+        "ro": "Începeți ziua în inima orașului, Piața Civitas Fortissima. Dimineața este dedicată explorării siturilor istorice și religioase din centru. După prânz la un restaurant local, după-amiaza scufundați-vă în muzeele unice ale orașului, de la moștenirea bogată de la Muzeul Palóc la istoria sobră a Muzeului Penitenciar. Încheiați ziua cu o plimbare mai lungă până la Muzeul de Motociclete pentru a vedea o colecție impresionantă.",
+        "en": "Start your day in the heart of the city, Civitas Fortissima Square. The morning is dedicated to exploring the historic and religious sites in the center. After lunch at a local restaurant, the afternoon is for diving into the city's unique museums, from the rich heritage at the Paloc Museum to the sobering history of the Prison Museum. End your day with a longer walk to the Motorcycle Museum to see an impressive collection."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Ein herzhafter, dill-saurer Sahneeintopf. Probieren Sie ihn im 'Svejk Vendéglő'."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Ungarische Kartoffelpuffer, oft mit Knoblauch und saurer Sahne serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palócgulyás",
+            "tip": "Kiadós, kapros-tejfölös leves. Kóstold meg a 'Svejk Vendéglőben'."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Magyar burgonya lángos, gyakran fokhagymával és tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palócgulyás",
+            "tip": "O tocană consistentă, cu mărar și smântână. Încercați-o la 'Svejk Vendéglő'."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Clătite de cartofi maghiare, adesea servite cu usturoi și smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palóc goulash",
+            "tip": "A hearty dill and sour cream stew. Try it at 'Svejk Vendéglő'."
+          },
+          {
+            "name": "Tócsni",
+            "tip": "Hungarian potato pancakes, often served with garlic and sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ipoly",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der die Grenze zur Slowakei bildet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Serbisch-Orthodoxe Kirche Garten",
+            "tip": "Ein kleiner, friedlicher Garten, versteckt hinter der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ipoly-part",
+            "tip": "Csendes séta a folyó mentén, amely a szlovák határt képezi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szerb templom kertje",
+            "tip": "Kicsi, békés kert a templom mögött elrejtve.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ipoly",
+            "tip": "O plimbare liniștită de-a lungul râului care formează granița cu Slovacia.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii Ortodoxe Sârbe",
+            "tip": "O grădină mică și pașnică, ascunsă în spatele bisericii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Ipoly River",
+            "tip": "A quiet walk along the river that forms the border with Slovakia.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Serbian Orthodox Church Garden",
+            "tip": "A small, peaceful garden hidden behind the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach Palóc-Stickereien und lokalen Produkten auf dem Hauptmarkt."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop des Paloczen-Museums bietet einzigartige handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress palóc hímzést és helyi termékeket a fő piacon."
+          },
+          {
+            "name": "Múzeumbolt",
+            "tip": "A Palóc Múzeum boltja egyedi, kézzel készített ajándéktárgyakat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați broderii Palóc și produse locale în piața principală."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul Muzeului Palóc oferă suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for Palóc embroidery and local produce at the main market."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The Paloc Museum's shop offers unique handcrafted souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Stadtzentrum uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese variieren können.",
+          "Einige kleinere Orte akzeptieren möglicherweise nur Bargeld (Forint)."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a belvárosi macskakő egyenetlen lehet.",
+          "A legtöbb központi látnivaló sétatávolságra van egymástól.",
+          "Ellenőrizd a múzeumok nyitvatartási idejét, mert változhat.",
+          "Néhány kisebb helyen csak készpénzt (forintot) fogadnak el."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece piatra cubică din centrul orașului poate fi neuniformă.",
+          "Majoritatea atracțiilor din centru se află la distanță de mers pe jos.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Unele locuri mai mici pot accepta doar numerar (forinți)."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Most central attractions are within easy walking distance of each other.",
+          "Check museum opening times as they can vary.",
+          "Some smaller places might only accept cash (Forint)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Civitas Fortissima Platz",
+            "hu": "Civitas Fortissima tér",
+            "ro": "Piața Civitas Fortissima",
+            "en": "Civitas Fortissima Square"
+          },
+          "coords": [
+            19.2944,
+            48.0792
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt. Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre.",
+            "hu": "Ideális kiindulópont. Tedd le a biciklit és élvezd a hangulatot.",
+            "ro": "Un punct de plecare ideal. Parcați bicicleta și bucurați-vă de atmosferă.",
+            "en": "An ideal starting point. Park your bike and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Komitatshaus",
+            "hu": "Régi Vármegyeháza",
+            "ro": "Vechea Casă a Comitatului",
+            "en": "Old County Hall"
+          },
+          "coords": [
+            19.2952,
+            48.0788
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem architektonischen Juwel vorbei, um seine Größe zu bewundern.",
+            "hu": "Tekerj el ezen építészeti gyöngyszem előtt, hogy megcsodáld a nagyságát.",
+            "ro": "Treceți pe lângă această bijuterie arhitecturală pentru a-i admira măreția.",
+            "en": "Cycle past this architectural gem to admire its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Paloczen-Museum",
+            "hu": "Palóc Múzeum",
+            "ro": "Muzeul Palóc",
+            "en": "Paloc Museum"
+          },
+          "coords": [
+            19.2928,
+            48.0785
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Es gibt normalerweise Fahrradständer in der Nähe. Eine wichtige kulturelle Station.",
+            "hu": "Általában vannak a közelben kerékpártárolók. Fontos kulturális megálló.",
+            "ro": "De obicei, în apropiere există suporturi pentru biciclete. O oprire culturală esențială.",
+            "en": "There are usually bike racks nearby. An essential cultural stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefängnismuseum",
+            "hu": "Börtönmúzeum",
+            "ro": "Muzeul Penitenciar",
+            "en": "Prison Museum"
+          },
+          "coords": [
+            19.2915,
+            48.0799
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Paloczen-Museum entfernt. Schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "Rövid bicikliút a Palóc Múzeumtól. Zárd le biztonságosan a kerékpárod.",
+            "ro": "La o scurtă plimbare cu bicicleta de Muzeul Palóc. Asigurați-vă bicicleta în siguranță.",
+            "en": "A short bike ride from the Paloc Museum. Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Pannonia Motorradmuseum",
+            "hu": "Pannónia Motorkerékpár Múzeum",
+            "ro": "Muzeul de Motociclete Pannonia",
+            "en": "Pannonia Motorcycle Museum"
+          },
+          "coords": [
+            18.289,
+            48.077
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ironischerweise mit dem Fahrrad zu einem Motorradmuseum. Die Fahrt dorthin ist angenehm.",
+            "hu": "Ironikus módon biciklivel egy motormúzeumba. Az út odáig kellemes.",
+            "ro": "Ironic, mergând cu bicicleta la un muzeu de motociclete. Plimbarea până acolo este plăcută.",
+            "en": "Ironically, cycling to a motorcycle museum. The ride there is pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            19.294,
+            48.079
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum für eine wohlverdiente Mahlzeit.",
+            "hu": "Tekerj vissza a központba egy jól megérdemelt ebédért.",
+            "ro": "Întoarceți-vă în centru pentru o masă binemeritată.",
+            "en": "Cycle back to the center for a well-deserved meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyírjes Botanischer Garten",
+            "hu": "Nyírjesi Botanikus Kert",
+            "ro": "Grădina Botanică Nyírjes",
+            "en": "Nyírjes Botanical Garden"
+          },
+          "coords": [
+            19.315,
+            48.075
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Die längste Fahrt des Tages, aber der ruhige Garten ist die Belohnung.",
+            "hu": "A nap leghosszabb útja, de a békés kert a jutalom.",
+            "ro": "Cea mai lungă plimbare a zilei, dar grădina liniștită este recompensa.",
+            "en": "The longest ride of the day, but the peaceful garden is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Ipoly",
+            "hu": "Ipoly-part",
+            "ro": "Malul râului Ipoly",
+            "en": "Banks of the Ipoly River"
+          },
+          "coords": [
+            19.29,
+            48.082
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer entspannten Fahrt entlang des Flusses bei Sonnenuntergang.",
+            "hu": "Zárd a napot egy pihentető tekeréssel a folyó mentén naplementekor.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului la apus.",
+            "en": "End your day with a relaxing ride along the river at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Hauptplatz und erkunden Sie die zentralen Sehenswürdigkeiten. Am Vormittag besuchen Sie die wichtigsten Museen der Stadt. Nach dem Mittagessen unternehmen Sie eine längere Radtour zum ruhigen Botanischen Garten Nyírjes. Beenden Sie den Tag mit einer gemütlichen Fahrt entlang des Ipoly-Flusses, um die friedliche Abendatmosphäre zu genießen. Diese Tour kombiniert Kultur im Stadtzentrum mit entspannenden Fahrten in die Natur.",
+        "hu": "Indulj a főtérről, és fedezd fel a központi látnivalókat. Délelőtt látogass el a város legfontosabb múzeumaiba. Ebéd után tegyél egy hosszabb kerékpártúrát a békés Nyírjesi Botanikus Kertbe. A napot az Ipoly folyó mentén egy kellemes tekeréssel zárd, élvezve a békés esti hangulatot. Ez a túra ötvözi a belvárosi kultúrát a pihentető természeti kirándulásokkal.",
+        "ro": "Porniți din piața principală și explorați atracțiile centrale. Dimineața, vizitați cele mai importante muzee ale orașului. După prânz, faceți o plimbare mai lungă cu bicicleta până la liniștita Grădină Botanică Nyírjes. Încheiați ziua cu o plimbare pe îndelete de-a lungul râului Ipoly, bucurându-vă de atmosfera pașnică de seară. Acest tur combină cultura din centrul orașului cu plimbări relaxante în natură.",
+        "en": "Start from the main square and explore the central sights. In the morning, visit the city's most important museums. After lunch, take a longer bike ride to the peaceful Nyírjes Botanical Garden. End the day with a leisurely ride along the Ipoly River, enjoying the peaceful evening atmosphere. This tour combines city-center culture with relaxing rides into nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Frittierter Teig, oft mit Käse und saurer Sahne. Ein perfekter schneller Bissen."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Schornsteinkuchen, ein süßer Leckerbissen, um nach einer Radtour Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Sült tészta, gyakran sajttal és tejföllel. Tökéletes gyors harapnivaló."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, hogy energiát gyűjts egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "Aluat prăjit, adesea cu brânză și smântână. O gustare rapidă perfectă."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Cozonac secuiesc, un deliciu dulce pentru a vă reface energia după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "Fried dough, often with cheese and sour cream. A perfect quick bite."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Chimney cake, a sweet treat to refuel after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nyírjes Botanischer Garten",
+            "tip": "Finden Sie eine ruhige Bank zwischen den Bäumen, um sich nach Ihrer Fahrt auszuruhen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ipoly-Flussufer",
+            "tip": "Beobachten Sie, wie die Sonne untergeht und das Wasser spiegelt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyírjesi Botanikus Kert",
+            "tip": "Keress egy csendes padot a fák között, hogy megpihenj a tekerés után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ipoly-part",
+            "tip": "Nézd a naplementét és a víz tükröződését.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Nyírjes",
+            "tip": "Găsiți o bancă liniștită printre copaci pentru a vă odihni după plimbare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Ipoly",
+            "tip": "Urmăriți apusul soarelui și reflexia sa în apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nyírjes Botanical Garden",
+            "tip": "Find a quiet bench among the trees to rest after your ride.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ipoly Riverbank",
+            "tip": "Watch the sun set and reflect on the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Lokale Fahrradgeschäfte haben möglicherweise einzigartiges Zubehör oder lokale Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "A helyi kerékpárboltokban egyedi kiegészítők vagy helyi térképek lehetnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Magazinele locale de biciclete pot avea accesorii unice sau hărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Local bike shops might have unique accessories or local maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die Fahrt zum Botanischen Garten.",
+          "In der Stadt gibt es einige Fahrradwege, aber seien Sie auch auf gemischten Verkehr vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Mindig zárja le a kerékpárt egy szilárd tárgyhoz.",
+          "Vigyél magaddal egy üveg vizet, különösen a Botanikus Kertbe vezető útra.",
+          "A városban vannak kerékpárutak, de készülj fel a vegyes forgalomra is."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Legați întotdeauna bicicleta de un obiect fix.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre Grădina Botanică.",
+          "Există câteva piste de biciclete în oraș, dar fiți pregătiți și pentru trafic mixt."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Always lock your bike to a fixed object.",
+          "Bring a bottle of water, especially for the ride to the Botanical Garden.",
+          "There are some cycle paths in town, but be prepared for mixed traffic as well."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Kaffee",
+            "hu": "Parkolás a központban és kávé",
+            "ro": "Parcare în centru și cafea",
+            "en": "Central Parking & Coffee"
+          },
+          "coords": [
+            19.296,
+            48.079
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums. Suchen Sie sich einen zentralen Parkplatz für den Vormittag.",
+            "hu": "Parkolj a központ közelében. Keress egy központi parkolót a délelőttre.",
+            "ro": "Parcați aproape de centru. Găsiți o parcare centrală pentru dimineață.",
+            "en": "Park near the center. Find a central parking spot for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Civitas Fortissima Platz",
+            "hu": "Civitas Fortissima tér",
+            "ro": "Piața Civitas Fortissima",
+            "en": "Civitas Fortissima Square"
+          },
+          "coords": [
+            19.2944,
+            48.0792
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Das erste Ziel Ihres Rundgangs.",
+            "hu": "Rövid séta a parkolóból. A gyalogtúra első állomása.",
+            "ro": "O scurtă plimbare de la parcare. Prima oprire a turului dumneavoastră pietonal.",
+            "en": "A short walk from where you parked. The first stop on your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Paloczen-Museum",
+            "hu": "Palóc Múzeum",
+            "ro": "Muzeul Palóc",
+            "en": "Paloc Museum"
+          },
+          "coords": [
+            19.2928,
+            48.0785
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptpunkt Ihres Vormittagsspaziergangs. Planen Sie genügend Zeit ein.",
+            "hu": "A délelőtti séta fénypontja. Tervezz be elég időt.",
+            "ro": "Punctul culminant al plimbării de dimineață. Acordați-i suficient timp.",
+            "en": "The main point of your morning walk. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Pannonia Motorradmuseum",
+            "hu": "Pannónia Motorkerékpár Múzeum",
+            "ro": "Muzeul de Motociclete Pannonia",
+            "en": "Pannonia Motorcycle Museum"
+          },
+          "coords": [
+            18.289,
+            48.077
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Museum, das etwas außerhalb des unmittelbaren Zentrums liegt. Es gibt normalerweise Parkplätze.",
+            "hu": "Vezess el ehhez a múzeumhoz, amely kissé kívül esik a közvetlen központtól. Általában van parkoló.",
+            "ro": "Conduceți la acest muzeu, care este puțin în afara centrului imediat. De obicei, există parcare disponibilă.",
+            "en": "Drive to this museum, which is slightly outside the immediate center. There's usually parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            19.293,
+            48.078
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum oder suchen Sie sich ein Restaurant in der Nähe des Motorradmuseums.",
+            "hu": "Vezess vissza a központba, vagy keress egy éttermet a motormúzeum közelében.",
+            "ro": "Conduceți înapoi în centru sau găsiți un restaurant lângă Muzeul Motocicletelor.",
+            "en": "Drive back to the center or find a restaurant near the motorcycle museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyírjes Botanischer Garten",
+            "hu": "Nyírjesi Botanikus Kert",
+            "ro": "Grădina Botanică Nyírjes",
+            "en": "Nyírjes Botanical Garden"
+          },
+          "coords": [
+            19.315,
+            48.075
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie in die Ruhe des Botanischen Gartens. Ein perfekter Ort zum Entspannen.",
+            "hu": "A nap utolsó autózása a Botanikus Kert nyugalmába vezet. Tökéletes hely a kikapcsolódásra.",
+            "ro": "Ultima călătorie a zilei vă duce la liniștea Grădinii Botanice. Un loc perfect pentru a vă relaxa.",
+            "en": "The final drive of the day takes you to the tranquility of the Botanical Garden. A perfect place to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Garten",
+            "hu": "Séta a kertben",
+            "ro": "Plimbare în grădină",
+            "en": "Stroll in the Garden"
+          },
+          "coords": [
+            19.316,
+            48.074
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie die verschiedenen Wege des Gartens zu Fuß.",
+            "hu": "Hagyd az autót, és fedezd fel gyalog a kert különböző ösvényeit.",
+            "ro": "Lăsați mașina în urmă și explorați diferitele poteci ale grădinii pe jos.",
+            "en": "Leave the car and explore the various paths of the garden on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um Balassagyarmat vollständig zu erleben. Parken Sie am Morgen im Zentrum und erkunden Sie den historischen Kern zu Fuß. Am Vormittag besuchen Sie das Paloczen-Museum. Nach dem Mittagessen fahren Sie zu den etwas weiter entfernten Museen. Der Nachmittag ist für einen entspannten Besuch des wunderschönen Botanischen Gartens Nyírjes reserviert, ein perfekter Abschluss für Ihren Tag.",
+        "hu": "Használd ki az autó rugalmasságát, hogy teljes mértékben átéld Balassagyarmatot. Reggel parkolj a központban, és fedezd fel gyalog a történelmi magot, délelőtt a Palóc Múzeumot. Ebéd után vezess el a kissé távolabb eső múzeumokhoz. A délutánt a gyönyörű Nyírjesi Botanikus Kertben töltheted, ami tökéletes lezárása a napnak.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a experimenta pe deplin Balassagyarmat. Parcați în centru dimineața și explorați nucleul istoric pe jos, vizitând Muzeul Palóc. După prânz, conduceți la muzeele care sunt puțin mai departe. După-amiaza este rezervată unei vizite relaxante la frumoasa Grădină Botanică Nyírjes, o încheiere perfectă a zilei.",
+        "en": "Use the flexibility of the car to fully experience Balassagyarmat. Park in the center in the morning and explore the historic core on foot, visiting the Paloc Museum. After lunch, drive to the museums that are a bit further afield. The afternoon is reserved for a relaxing visit to the beautiful Nyírjes Botanical Garden, a perfect end to your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ipoly-parti Csárda",
+            "tip": "Ein Restaurant am Flussufer, das oft mit dem Auto erreichbar ist und eine tolle Aussicht bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ipoly-parti Csárda",
+            "tip": "Folyóparti étterem, gyakran autóval is megközelíthető, remek kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ipoly-parti Csárda",
+            "tip": "Un restaurant pe malul râului, adesea accesibil cu mașina, cu o priveliște minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ipoly-parti Csárda",
+            "tip": "A riverside restaurant, often accessible by car, with a great view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt auf dem Weg nach Nyírjes",
+            "tip": "Halten Sie an einem sicheren Ort an, um die Aussicht auf die umliegende Landschaft zu genießen.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Nyírjes felé vezető úton",
+            "tip": "Állj meg egy biztonságos helyen, és gyönyörködj a környező tájban.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe drumul spre Nyírjes",
+            "tip": "Opriți într-un loc sigur pentru a admira priveliștea peisajului înconjurător.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the way to Nyírjes",
+            "tip": "Pull over at a safe spot to take in the view of the surrounding landscape.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vidéken keresd a helyi termékeket árusító termelői boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole",
+            "tip": "În mediul rural, căutați magazinele agricole care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "In the countryside, look out for farm shops selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten.",
+          "Das Auto gibt Ihnen die Freiheit, auch nahe gelegene Dörfer zu erkunden, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "Előre tájékozódj a parkolási lehetőségekről és díjakról.",
+          "A GPS vagy egy navigációs alkalmazás elengedhetetlen.",
+          "Tartsd be a sebességhatárokat, különösen a lakóövezetekben.",
+          "Az autó szabadságot ad, hogy a közeli falvakat is felfedezd, ha van időd."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare și taxele.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Mașina vă oferă libertatea de a explora și satele din apropiere, dacă aveți timp."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS or navigation app is essential.",
+          "Be aware of speed limits, especially in residential areas.",
+          "The car gives you the freedom to explore nearby villages too, if you have time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Kaffee",
+            "hu": "Érkezés a buszpályaudvarra és kávé",
+            "ro": "Sosire la autogară și cafea",
+            "en": "Arrival at Bus Station & Coffee"
+          },
+          "coords": [
+            19.298,
+            48.077
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbusbahnhof. Holen Sie sich einen Fahrplan und einen Kaffee.",
+            "hu": "Kezdj a fő buszpályaudvaron. Szerezz be egy menetrendet és egy kávét.",
+            "ro": "Începeți de la autogara principală. Luați un orar și o cafea.",
+            "en": "Start at the main bus station. Grab a schedule and a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Civitas Fortissima & Kirchen",
+            "hu": "Belvárosi klaszter: Civitas Fortissima és templomok",
+            "ro": "Cluster central: Civitas Fortissima și biserici",
+            "en": "Center Cluster: Civitas Fortissima & Churches"
+          },
+          "coords": [
+            19.2944,
+            48.0792
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum. Erkunden Sie den Platz und die nahe gelegenen Kirchen zu Fuß.",
+            "hu": "Menj busszal a központba. Fedezd fel gyalog a teret és a közeli templomokat.",
+            "ro": "Luați un autobuz spre centru. Explorați piața și bisericile din apropiere pe jos.",
+            "en": "Take a bus to the center. Explore the square and nearby churches on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Paloczen-Museum",
+            "hu": "Séta a Palóc Múzeumhoz",
+            "ro": "Plimbare la Muzeul Palóc",
+            "en": "Walk to Paloc Museum"
+          },
+          "coords": [
+            19.2928,
+            48.0785
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Hauptplatz zum wichtigsten Museum der Stadt.",
+            "hu": "Kellemes séta a főtérről a város legfontosabb múzeumához.",
+            "ro": "O plimbare plăcută din piața principală la cel mai important muzeu al orașului.",
+            "en": "A pleasant walk from the main square to the city's most important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Bus zum Museumsviertel",
+            "hu": "Ebéd és busz a múzeumi negyedbe",
+            "ro": "Prânz și autobuz spre cartierul muzeelor",
+            "en": "Lunch and Bus to Museum Area"
+          },
+          "coords": [
+            19.293,
+            48.078
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Essen Sie im Zentrum zu Mittag, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Ebédelj a központban, mielőtt felszállnál a buszra a következő klaszterhez.",
+            "ro": "Luați prânzul în centru înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Have lunch in the center before catching the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster West: Gefängnis- & Motorradmuseum",
+            "hu": "Nyugati klaszter: Börtön- és Motormúzeum",
+            "ro": "Clusterul de vest: Muzeul Penitenciar și de Motociclete",
+            "en": "West Cluster: Prison & Motorcycle Museums"
+          },
+          "coords": [
+            18.2895,
+            48.0775
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden faszinierenden Museen, die nur einen kurzen Spaziergang voneinander entfernt sind.",
+            "hu": "Fedezd fel ezt a két lenyűgöző múzeumot, amelyek rövid sétára vannak egymástól.",
+            "ro": "Explorați aceste două muzee fascinante, la o scurtă plimbare unul de celălalt.",
+            "en": "Explore these two fascinating museums, a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus & Spaziergang zum Botanischen Garten",
+            "hu": "Busz és séta a Botanikus Kerthez",
+            "ro": "Autobuz și plimbare la Grădina Botanică",
+            "en": "Bus & Walk to Botanical Garden"
+          },
+          "coords": [
+            19.315,
+            48.075
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Busfahrt führt Sie an den Stadtrand für einen friedlichen Abschluss des Tages.",
+            "hu": "Az utolsó buszút a város szélére visz, a nap békés lezárásaként.",
+            "ro": "Ultima călătorie cu autobuzul vă duce la marginea orașului pentru o încheiere pașnică a zilei.",
+            "en": "The final bus ride takes you to the outskirts for a peaceful end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Balassagyarmat lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Beginnen Sie am Busbahnhof, fahren Sie ins Zentrum, um den historischen Kern zu Fuß zu erkunden. Nach dem Mittagessen nutzen Sie die Busse, um zwischen den verschiedenen 'Clustern' von Sehenswürdigkeiten zu wechseln – vom Kulturviertel im Zentrum bis zu den abgelegeneren Museen und schließlich dem entspannenden Botanischen Garten.",
+        "hu": "Balassagyarmat tömegközlekedéssel is jól felfedezhető. Kezdj a buszpályaudvaron, utazz be a központba, hogy gyalog fedezd fel a történelmi magot. Ebéd után használd a buszokat a különböző látnivaló-klaszterek közötti közlekedésre – a központi kulturális negyedtől a távolabbi múzeumokig, végül pedig a pihentető Botanikus Kertig.",
+        "ro": "Balassagyarmat poate fi explorat cu ușurință folosind transportul public. Începeți de la autogară, călătoriți în centru pentru a explora nucleul istoric pe jos. După prânz, folosiți autobuzele pentru a vă deplasa între diferitele 'clustere' de atracții - de la cartierul cultural central la muzeele mai îndepărtate și, în final, la relaxanta Grădină Botanică.",
+        "en": "Balassagyarmat is easily explored using public transit. Start at the bus station, travel to the center to explore the historic core on foot. After lunch, use the buses to hop between the different 'clusters' of attractions – from the central cultural quarter to the more distant museums, and finally to the relaxing Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kifli",
+            "tip": "Ein halbmondförmiges Gebäck, perfekt für einen Snack, während Sie auf den Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kifli",
+            "tip": "Félhold alakú péksütemény, tökéletes harapnivaló buszra várva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kifli",
+            "tip": "Un produs de patiserie în formă de semilună, perfect pentru o gustare în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kifli",
+            "tip": "A crescent-shaped pastry, perfect for a snack while waiting for the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus dem Fenster schauen",
+            "tip": "Beobachten Sie das tägliche Leben der Stadt, während Sie von einem Ort zum anderen fahren.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bámészkodás a busz ablakából",
+            "tip": "Figyeld a város mindennapi életét, miközben egyik helyről a másikra utazol.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Observați viața de zi cu zi a orașului în timp ce călătoriți dintr-un loc în altul.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Looking out the bus window",
+            "tip": "Observe the daily life of the city as you travel from one place to another.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine lokale Zeitung oder ein Magazin für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Vegyél egy helyi újságot vagy magazint az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă locală pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a local newspaper or magazine for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Behalten Sie den Busfahrplan im Auge, besonders für die letzte Fahrt des Tages.",
+          "Fragen Sie die Einheimischen, wenn Sie sich bei der richtigen Bushaltestelle nicht sicher sind.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásárolj napijegyet, ha elérhető, hogy pénzt takaríts meg.",
+          "Figyeld a buszmenetrendet, különösen a nap utolsó járatát.",
+          "Kérdezd meg a helyieket, ha nem vagy biztos a megfelelő buszmegállóban.",
+          "Érvényesítsd a jegyedet felszálláskor, hogy elkerüld a büntetést."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Fii cu ochii pe orarul autobuzelor, mai ales pentru ultima călătorie a zilei.",
+          "Întrebați localnicii dacă nu sunteți sigur de stația de autobuz corectă.",
+          "Validați biletul la urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass if available to save money.",
+          "Keep an eye on the bus schedule, especially for the last service of the day.",
+          "Ask locals if you're unsure about the right bus stop.",
+          "Validate your ticket when you board to avoid a fine."
+        ]
+      }
+    }
+  }
+}

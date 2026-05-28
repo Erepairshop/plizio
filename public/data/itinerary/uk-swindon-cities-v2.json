@@ -1,0 +1,1310 @@
+{
+  "city_id": "uk-swindon-cities-v2",
+  "anchor": {
+    "name": "Swindon",
+    "coords": [
+      -1.7797,
+      51.5558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Railway Village",
+            "hu": "Vasúti falu",
+            "ro": "Satul feroviar",
+            "en": "Railway Village"
+          },
+          "coords": [
+            -1.785,
+            51.558
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Architektur, die für die Arbeiter der Great Western Railway gebaut wurde.",
+            "hu": "Fedezze fel a Great Western Railway munkásai számára épített történelmi építészetet.",
+            "ro": "Explorați arhitectura istorică construită pentru muncitorii de la Great Western Railway.",
+            "en": "Explore the historic architecture built for the Great Western Railway workers."
+          }
+        },
+        {
+          "name": {
+            "de": "STEAM - Museum der Great Western Railway",
+            "hu": "STEAM - A Great Western Vasúttársaság Múzeuma",
+            "ro": "STEAM - Muzeul Great Western Railway",
+            "en": "STEAM - Museum of the Great Western Railway"
+          },
+          "coords": [
+            -1.794,
+            51.563
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Gelegenheit, auf dem Führerstand einer legendären Lokomotive zu stehen.",
+            "hu": "Ne hagyja ki a lehetőséget, hogy egy legendás mozdony vezetőállásában álljon.",
+            "ro": "Nu ratați șansa de a sta pe placa de picior a unei locomotive legendare.",
+            "en": "Don't miss the chance to stand on the footplate of a legendary locomotive."
+          }
+        },
+        {
+          "name": {
+            "de": "Der magische Kreisverkehr",
+            "hu": "A Mágikus Körforgalom",
+            "ro": "Girația magică",
+            "en": "The Magic Roundabout"
+          },
+          "coords": [
+            -1.771,
+            51.562
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das organisierte Chaos von einem sicheren Aussichtspunkt aus – versuchen Sie nicht, es zu Fuß zu überqueren!",
+            "hu": "Nézze a szervezett káoszt egy biztonságos pontról – ne próbáljon meg gyalog átkelni rajta!",
+            "ro": "Urmăriți haosul organizat dintr-un punct de observație sigur - nu încercați să-l traversați pe jos!",
+            "en": "Watch the organised chaos from a safe vantage point – don't try to cross it on foot!"
+          }
+        },
+        {
+          "name": {
+            "de": "Swindon Museum & Kunstgalerie",
+            "hu": "Swindoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Swindon",
+            "en": "Swindon Museum & Art Gallery"
+          },
+          "coords": [
+            -1.783,
+            51.556
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Sammlung moderner britischer Kunst, die Werke von Lowry und Henry Moore umfasst.",
+            "hu": "Összpontosítson a modern brit művészeti gyűjteményre, amelyben Lowry és Henry Moore művei is megtalálhatók.",
+            "ro": "Concentrează-te pe colecția de artă britanică modernă, care include lucrări de Lowry și Henry Moore.",
+            "en": "Focus on the Modern British art collection, which includes works by Lowry and Henry Moore."
+          }
+        },
+        {
+          "name": {
+            "de": "Wyvern Theatre",
+            "hu": "Wyvern Színház",
+            "ro": "Teatrul Wyvern",
+            "en": "Wyvern Theatre"
+          },
+          "coords": [
+            -1.773,
+            51.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schauen Sie sich den Spielplan für Abendvorstellungen an oder bewundern Sie einfach das moderne Design.",
+            "hu": "Nézze meg az esti előadások műsorát, vagy csak csodálja meg a modern dizájnt.",
+            "ro": "Verificați programul pentru spectacole de seară sau pur și simplu admirați designul modern.",
+            "en": "Check the schedule for evening performances or just admire its modern design."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -1.774,
+            51.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause am späten Nachmittag, mit einem schönen Garten und einem Zierteich.",
+            "hu": "Tökéletes hely egy késő délutáni szünethez, gyönyörű kerttel és dísztóval.",
+            "ro": "Un loc perfect pentru o pauză de după-amiază târzie, cu o grădină frumoasă și un iaz ornamental.",
+            "en": "A perfect spot for a late afternoon break, featuring a beautiful garden and ornamental pond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der industriellen Vergangenheit Swindons im Railway Village und dem STEAM Museum. Am Vormittag tauchen Sie tief in das goldene Zeitalter der Eisenbahn ein. Mittags erleben Sie das einzigartige Chaos des Magic Roundabout, bevor Sie sich in die Kunst und Kultur im Swindon Museum & Art Gallery vertiefen. Am Nachmittag genießen Sie die Ruhe im Queen's Park und bewundern die moderne Architektur des Wyvern Theatre. Der Abend lädt zu einem gemütlichen Essen in der Altstadt ein, wo Sie den Tag Revue passieren lassen können.",
+        "hu": "Kezdje a napot Swindon ipari múltjának felfedezésével a Vasúti faluban és a STEAM Múzeumban. A délelőtt folyamán merüljön el a vasút aranykorában. Délben legyen tanúja a Mágikus Körforgalom egyedülálló káoszának, mielőtt elmerülne a Swindon Múzeum és Művészeti Galéria művészetében és kultúrájában. Délután élvezze a Queen's Park nyugalmát és csodálja meg a Wyvern Színház modern építészetét. Az estét egy kellemes vacsorával zárhatja az Óvárosban, felidézve a nap élményeit.",
+        "ro": "Începeți ziua explorând trecutul industrial al Swindonului în Satul Feroviar și la Muzeul STEAM. Dimineața vă va cufunda în epoca de aur a căilor ferate. La prânz, fiți martor la haosul unic al Girației Magice înainte de a vă adânci în artă și cultură la Muzeul și Galeria de Artă Swindon. După-amiaza, bucurați-vă de liniștea din Parcul Queen's și admirați arhitectura modernă a Teatrului Wyvern. Seara, încheiați cu o masă relaxantă în Orașul Vechi, reflectând asupra zilei.",
+        "en": "Start your day exploring Swindon's industrial past at the Railway Village and the STEAM Museum. The morning will immerse you in the golden age of railways. At midday, witness the unique chaos of the Magic Roundabout before delving into art and culture at the Swindon Museum & Art Gallery. In the afternoon, enjoy the tranquility of Queen's Park and admire the modern architecture of the Wyvern Theatre. The evening concludes with a relaxing meal in the Old Town, reflecting on the day's journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lardy Cake",
+            "tip": "Ein traditionelles, reichhaltiges und klebriges Gebäck aus der Region."
+          },
+          {
+            "name": "Wiltshire Schinken",
+            "tip": "Probieren Sie den lokal gepökelten Schinken, eine berühmte Spezialität aus Wiltshire."
+          },
+          {
+            "name": "The Weighbridge Restaurant",
+            "tip": "Speisen Sie in einem Restaurant, das für seine Verbindung zur Eisenbahngeschichte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lardy Cake",
+            "tip": "Hagyományos, gazdag és ragacsos helyi sütemény."
+          },
+          {
+            "name": "Wiltshire-i sonka",
+            "tip": "Kóstolja meg a helyben pácolt sonkát, egy híres wiltshire-i specialitást."
+          },
+          {
+            "name": "The Weighbridge Restaurant",
+            "tip": "Étkezzen egy olyan étteremben, amely a vasúti történelméről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjitură Lardy",
+            "tip": "Un produs de patiserie tradițional, bogat și lipicios, specific zonei."
+          },
+          {
+            "name": "Șuncă Wiltshire",
+            "tip": "Încercați șunca maturată local, o specialitate renumită din Wiltshire."
+          },
+          {
+            "name": "Restaurantul The Weighbridge",
+            "tip": "Luați masa într-un restaurant cunoscut pentru legătura sa cu istoria feroviară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lardy Cake",
+            "tip": "A traditional, rich, and sticky pastry local to the area."
+          },
+          {
+            "name": "Wiltshire Ham",
+            "tip": "Try the locally cured ham, a famous Wiltshire specialty."
+          },
+          {
+            "name": "The Weighbridge Restaurant",
+            "tip": "Dine in a restaurant known for its connection to railway history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Queen's Park",
+            "tip": "Finden Sie eine ruhige Bank am Zierteich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christ Church",
+            "tip": "Ein friedlicher Kirchhof auf einem Hügel mit Blick auf die Altstadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Town Gardens",
+            "tip": "Wunderschöne viktorianische Gärten, die einen Moment der Ruhe bieten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Queen's Park",
+            "tip": "Keressen egy csendes padot a dísztó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christ Church",
+            "tip": "Békés templomkert egy dombon, kilátással az Óvárosra.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Town Gardens",
+            "tip": "Gyönyörű viktoriánus kertek, amelyek egy pillanatnyi nyugalmat kínálnak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Queen's",
+            "tip": "Găsiți o bancă liniștită lângă iazul ornamental.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Christ Church",
+            "tip": "Un cimitir pașnic pe un deal cu vedere la Orașul Vechi.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Grădinile Orașului",
+            "tip": "Grădini victoriene frumoase care oferă un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Queen's Park",
+            "tip": "Find a quiet bench by the ornamental pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christ Church",
+            "tip": "A peaceful churchyard on a hill overlooking the Old Town.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Town Gardens",
+            "tip": "Beautiful Victorian gardens offering a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "McArthurGlen Designer Outlet",
+            "tip": "Befindet sich in den restaurierten Gebäuden der Great Western Railway und bietet Designermarken zu reduzierten Preisen."
+          },
+          {
+            "name": "Old Town Geschäfte",
+            "tip": "Durchstöbern Sie die unabhängigen Boutiquen und Fachgeschäfte in der Altstadt von Swindon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "McArthurGlen Designer Outlet",
+            "tip": "A Great Western Railway felújított épületeiben található, dizájner márkákat kínál kedvezményes áron."
+          },
+          {
+            "name": "Óvárosi üzletek",
+            "tip": "Böngésszen Swindon óvárosának független butikjaiban és szaküzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "McArthurGlen Designer Outlet",
+            "tip": "Situat în clădirile restaurate ale Great Western Railway, oferind mărci de designer la prețuri reduse."
+          },
+          {
+            "name": "Magazinele din Orașul Vechi",
+            "tip": "Răsfoiți buticurile independente și magazinele specializate din Orașul Vechi al Swindonului."
+          }
+        ],
+        "en": [
+          {
+            "name": "McArthurGlen Designer Outlet",
+            "tip": "Located in the restored Great Western Railway buildings, offering designer brands at discounted prices."
+          },
+          {
+            "name": "Old Town Shops",
+            "tip": "Browse the independent boutiques and specialist shops in Swindon's Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Hauptattraktionen im Stadtzentrum sind zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison.",
+          "Die Altstadt bietet eine große Auswahl an Pubs und Restaurants für das Mittag- und Abendessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "A legtöbb főbb belvárosi látnivaló gyalogosan elérhető.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Az Óvárosban számos pub és étterem található ebédhez és vacsorához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor principale din centrul orașului sunt la distanță de mers pe jos.",
+          "Verificați orele de deschidere ale muzeelor în avans, în special în afara sezonului.",
+          "Orașul Vechi oferă o gamă largă de pub-uri și restaurante pentru prânz și cină."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most of the main town centre attractions are within walking distance of each other.",
+          "Check museum opening times in advance, especially out of season.",
+          "The Old Town offers a great selection of pubs and restaurants for lunch and dinner."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Coate Water Country Park",
+            "hu": "Coate Water Country Park",
+            "ro": "Parcul Național Coate Water",
+            "en": "Coate Water Country Park"
+          },
+          "coords": [
+            -1.75,
+            51.53
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot auf dem See oder genießen Sie einen Spaziergang auf dem Naturlehrpfad.",
+            "hu": "Béreljen vízibiciklit a tavon, vagy tegyen egy sétát a tanösvényen.",
+            "ro": "Închiriați o barcă cu pedale pe lac sau bucurați-vă de o plimbare pe traseul natural.",
+            "en": "Rent a paddle boat on the lake or enjoy a walk around the nature trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -1.774,
+            51.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp in diesem charmanten viktorianischen Park auf dem Weg ins Stadtzentrum.",
+            "hu": "Egy rövid megálló ebben a bájos viktoriánus parkban a városközpont felé vezető úton.",
+            "ro": "O oprire rapidă în acest parc victorian fermecător în drum spre centrul orașului.",
+            "en": "A quick stop at this charming Victorian park on your way into the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Swindon Museum & Kunstgalerie",
+            "hu": "Swindoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Swindon",
+            "en": "Swindon Museum & Art Gallery"
+          },
+          "coords": [
+            -1.783,
+            51.556
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die lokale Geschichte und Kunst.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a helyi történelemben és művészetben.",
+            "ro": "Legați-vă bicicleta în siguranță și scufundați-vă în istoria și arta locală.",
+            "en": "Lock up your bike securely and dive into some local history and art."
+          }
+        },
+        {
+          "name": {
+            "de": "Railway Village",
+            "hu": "Vasúti falu",
+            "ro": "Satul feroviar",
+            "en": "Railway Village"
+          },
+          "coords": [
+            -1.785,
+            51.558
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die historischen Straßen und stellen Sie sich das Leben im viktorianischen Zeitalter vor.",
+            "hu": "Kerékpározzon végig a történelmi utcákon, és képzelje el az életet a viktoriánus korban.",
+            "ro": "Pedalați pe străzile istorice și imaginați-vă viața în epoca victoriană.",
+            "en": "Cycle through the historic streets and imagine life in the Victorian era."
+          }
+        },
+        {
+          "name": {
+            "de": "STEAM - Museum der Great Western Railway",
+            "hu": "STEAM - A Great Western Vasúttársaság Múzeuma",
+            "ro": "STEAM - Muzeul Great Western Railway",
+            "en": "STEAM - Museum of the Great Western Railway"
+          },
+          "coords": [
+            -1.794,
+            51.563
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Eisenbahn-Enthusiasten, mit viel Platz zum Abstellen des Fahrrads.",
+            "hu": "Minden vasútrajongó számára kötelező, rengeteg hely van a kerékpár leparkolására.",
+            "ro": "O vizită obligatorie pentru orice pasionat de căi ferate, cu spațiu amplu pentru a vă parca bicicleta.",
+            "en": "A must-visit for any railway enthusiast, with plenty of space to park your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Lydiard Park",
+            "hu": "Lydiard Park",
+            "ro": "Parcul Lydiard",
+            "en": "Lydiard Park"
+          },
+          "coords": [
+            -1.86,
+            51.56
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:20",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt durch diesen wunderschönen Park und das Anwesen.",
+            "hu": "Zárja a napot egy pihentető tekeréssel ebben a gyönyörű parkban és birtokon.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă cu bicicleta prin acest frumos parc și domeniu.",
+            "en": "End the day with a relaxing ride through this beautiful park and estate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer morgendlichen Fahrt zum Coate Water Country Park. Genießen Sie die Natur, bevor Sie ins Stadtzentrum fahren. Am Mittag erkunden Sie die zentralen Sehenswürdigkeiten wie das Swindon Museum und das historische Railway Village. Am Nachmittag widmen Sie sich ganz der Eisenbahngeschichte im STEAM Museum. Schließen Sie den Tag mit einer längeren, aber lohnenden Fahrt zum Lydiard Park ab, um den Sonnenuntergang über dem georgianischen Anwesen zu genießen.",
+        "hu": "Kezdje a kerékpáros napot egy reggeli tekeréssel a Coate Water Country Parkba. Élvezze a természetet, mielőtt a városközpont felé veszi az irányt. Délben fedezze fel a központi látnivalókat, mint a Swindon Múzeum és a történelmi Vasúti falu. A délutánt szentelje teljes egészében a vasúttörténetnek a STEAM Múzeumban. A napot egy hosszabb, de megérő tekeréssel zárja a Lydiard Parkba, ahol megcsodálhatja a naplementét a György-korabeli birtok felett.",
+        "ro": "Începeți ziua pe bicicletă cu o plimbare de dimineață la Parcul Național Coate Water. Bucurați-vă de natură înainte de a vă îndrepta spre centrul orașului. La prânz, explorați atracțiile centrale, cum ar fi Muzeul Swindon și istoricul Sat Feroviar. După-amiaza este dedicată în întregime istoriei feroviare la Muzeul STEAM. Încheiați ziua cu o plimbare mai lungă, dar plină de satisfacții, la Parcul Lydiard, pentru a prinde apusul peste domeniul georgian.",
+        "en": "Start your cycling day with a morning ride to Coate Water Country Park. Enjoy nature before heading into the town centre. At midday, explore the central attractions like the Swindon Museum and the historic Railway Village. The afternoon is dedicated entirely to railway history at the STEAM Museum. Finish the day with a longer but rewarding ride to Lydiard Park to catch the sunset over the Georgian estate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Boathouse",
+            "tip": "Ein Pub mit Blick auf den See im Coate Water Park, ideal für eine Erfrischung."
+          },
+          {
+            "name": "Picnic in Lydiard Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Picknick auf dem weitläufigen Gelände."
+          },
+          {
+            "name": "The Glue Pot",
+            "tip": "Ein traditioneller Pub im Railway Village, perfekt für ein wohlverdientes Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Boathouse",
+            "tip": "Egy pub a Coate Water Park tavára néző kilátással, ideális egy frissítőre."
+          },
+          {
+            "name": "Piknik a Lydiard Parkban",
+            "tip": "Vásároljon helyi termékeket, és piknikezzen a hatalmas birtokon."
+          },
+          {
+            "name": "The Glue Pot",
+            "tip": "Hagyományos pub a Vasúti faluban, tökéletes egy jól megérdemelt sörre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Boathouse",
+            "tip": "Un pub cu vedere la lac în Parcul Coate Water, ideal pentru o băutură răcoritoare."
+          },
+          {
+            "name": "Picnic în Parcul Lydiard",
+            "tip": "Cumpărați produse locale și bucurați-vă de un picnic pe domeniul vast."
+          },
+          {
+            "name": "The Glue Pot",
+            "tip": "Un pub tradițional în Satul Feroviar, perfect pentru o halbă de bere binemeritată."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Boathouse",
+            "tip": "A pub overlooking the lake at Coate Water Park, ideal for a refreshment."
+          },
+          {
+            "name": "Picnic in Lydiard Park",
+            "tip": "Buy some local produce and enjoy a picnic on the vast grounds."
+          },
+          {
+            "name": "The Glue Pot",
+            "tip": "A traditional pub in the Railway Village, perfect for a well-earned pint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coate Water Nature Reserve",
+            "tip": "Beobachten Sie Vögel vom Versteck aus.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lydiard Park Walled Garden",
+            "tip": "Ein wunderschön restaurierter viktorianischer Garten, eine Oase der Ruhe.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Radweg am Wilts & Berks Canal",
+            "tip": "Folgen Sie dem restaurierten Kanal für eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coate Water Természetvédelmi Terület",
+            "tip": "Madárles a madárlesből.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lydiard Park fallal körülvett kertje",
+            "tip": "Gyönyörűen felújított viktoriánus kert, a béke oázisa.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Wilts & Berks csatorna melletti kerékpárút",
+            "tip": "Kövesse a felújított csatornát egy békés tekerésért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Coate Water",
+            "tip": "Observați păsările din ascunzătoare.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Grădina Îngrădită din Parcul Lydiard",
+            "tip": "O grădină victoriană frumos restaurată, o oază de pace.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Pista de biciclete de pe Canalul Wilts & Berks",
+            "tip": "Urmați canalul restaurat pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coate Water Nature Reserve",
+            "tip": "Go bird watching from the hide.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Lydiard Park Walled Garden",
+            "tip": "A beautifully restored Victorian garden, an oasis of peace.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Wilts & Berks Canal towpath",
+            "tip": "Follow the restored canal for a peaceful ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Attraktionen zu sichern.",
+          "Swindon ist Teil des National Cycle Network, mit gut ausgeschilderten Routen.",
+          "Einige Routen, insbesondere nach Lydiard Park, können hügelig sein, seien Sie also vorbereitet.",
+          "Prüfen Sie die Wettervorhersage und kleiden Sie sich entsprechend."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot, hogy lezárja a kerékpárját a látnivalóknál.",
+          "Swindon része a Nemzeti Kerékpárhálózatnak, jól kitáblázott útvonalakkal.",
+          "Néhány útvonal, különösen a Lydiard Park felé, dombos lehet, ezért készüljön fel.",
+          "Ellenőrizze az időjárás-előrejelzést, és öltözzön rétegesen."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru a vă asigura bicicleta la atracții.",
+          "Swindon face parte din Rețeaua Națională de Ciclism, cu rute bine semnalizate.",
+          "Unele rute, în special către Parcul Lydiard, pot fi deluroase, așa că fiți pregătiți.",
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi."
+        ],
+        "en": [
+          "Bring a good lock to secure your bike at attractions.",
+          "Swindon is part of the National Cycle Network, with well-signposted routes.",
+          "Some routes, especially to Lydiard Park, can be hilly, so be prepared.",
+          "Check the weather forecast and dress in layers."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 16.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lydiard Park",
+            "hu": "Lydiard Park",
+            "ro": "Parcul Lydiard",
+            "en": "Lydiard Park"
+          },
+          "coords": [
+            -1.86,
+            51.56
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und verbringen Sie den Morgen damit, das Haus, die Gärten und das Gelände zu erkunden.",
+            "hu": "Parkoljon le itt, és töltse a délelőttöt a ház, a kertek és a birtok felfedezésével.",
+            "ro": "Parcați aici și petreceți dimineața explorând casa, grădinile și domeniul.",
+            "en": "Park here and spend the morning exploring the house, gardens, and grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Lydiard",
+            "hu": "Ebéd Lydiard közelében",
+            "ro": "Prânz lângă Lydiard",
+            "en": "Lunch near Lydiard"
+          },
+          "coords": [
+            -1.855,
+            51.561
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Es gibt ein Café im Park oder Pubs nur eine kurze Autofahrt entfernt.",
+            "hu": "A parkban van egy kávézó, vagy rövid autóútra pubok találhatók.",
+            "ro": "Există o cafenea în parc sau pub-uri la o scurtă distanță cu mașina.",
+            "en": "There's a cafe within the park or pubs just a short drive away."
+          }
+        },
+        {
+          "name": {
+            "de": "STEAM - Museum der Great Western Railway",
+            "hu": "STEAM - A Great Western Vasúttársaság Múzeuma",
+            "ro": "STEAM - Muzeul Great Western Railway",
+            "en": "STEAM - Museum of the Great Western Railway"
+          },
+          "coords": [
+            -1.794,
+            51.563
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken Sie am Designer Outlet, das sich direkt neben dem Museum befindet.",
+            "hu": "Vezessen a következő klaszterhez. Parkoljon a Designer Outletnél, amely közvetlenül a múzeum mellett található.",
+            "ro": "Conduceți la următorul cluster. Parcați la Designer Outlet, care este chiar lângă muzeu.",
+            "en": "Drive to the next cluster. Park at the Designer Outlet, which is right next to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Railway Village",
+            "hu": "Vasúti falu",
+            "ro": "Satul feroviar",
+            "en": "Railway Village"
+          },
+          "coords": [
+            -1.785,
+            51.558
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom STEAM Museum. Erkunden Sie die gut erhaltenen viktorianischen Cottages zu Fuß.",
+            "hu": "Rövid séta a STEAM Múzeumtól. Fedezze fel gyalog a jól megőrzött viktoriánus házikókat.",
+            "ro": "O scurtă plimbare de la Muzeul STEAM. Explorați pe jos căsuțele victoriene bine conservate.",
+            "en": "A short walk from the STEAM museum. Explore the well-preserved Victorian cottages on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Coate Water Country Park",
+            "hu": "Coate Water Country Park",
+            "ro": "Parcul Național Coate Water",
+            "en": "Coate Water Country Park"
+          },
+          "coords": [
+            -1.75,
+            51.53
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang um den See.",
+            "hu": "Zárja a napot egy pihentető sétával a tó körül.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în jurul lacului.",
+            "en": "Finish the day with a relaxing walk around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Magic Roundabout vorbei",
+            "hu": "Elhajtás a Mágikus Körforgalom mellett",
+            "ro": "Trecere pe lângă Girația Magică",
+            "en": "Drive past the Magic Roundabout"
+          },
+          "coords": [
+            -1.771,
+            51.562
+          ],
+          "category": "landmark",
+          "arrive_at": "17:45",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erleben Sie Swindons berühmtesten (oder berüchtigtsten) Kreisverkehr aus der Sicherheit Ihres Autos.",
+            "hu": "Tapasztalja meg Swindon leghíresebb (vagy leghírhedtebb) körforgalmát autója biztonságából.",
+            "ro": "Experimentați cea mai faimoasă (sau infamă) girație din Swindon din siguranța mașinii dvs.",
+            "en": "Experience Swindon's most famous (or infamous) roundabout from the safety of your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Westen im weitläufigen Lydiard Park. Verbringen Sie den Vormittag damit, das Anwesen zu erkunden. Mittags fahren Sie in das Herz von Swindons Eisenbahngeschichte, parken und erkunden das STEAM Museum und das Railway Village zu Fuß. Am Nachmittag fahren Sie zum Coate Water Country Park im Südosten für einen erfrischenden Spaziergang in der Natur. Schließen Sie Ihr Abenteuer ab, indem Sie auf dem Weg aus der Stadt vorsichtig den berüchtigten Magic Roundabout umfahren.",
+        "hu": "Kezdje a napot nyugaton, a tágas Lydiard Parkban. Töltse a délelőttöt a birtok felfedezésével. Délben vezessen Swindon vasúti történelmének szívébe, parkoljon le, és fedezze fel gyalog a STEAM Múzeumot és a Vasúti falut. Délután irány a délkeleten fekvő Coate Water Country Park egy frissítő természeti sétáért. Zárja a kalandot azzal, hogy óvatosan megkerüli a hírhedt Mágikus Körforgalmat, miközben elhagyja a várost.",
+        "ro": "Începeți ziua în vest, la întinsul Parc Lydiard. Petreceți dimineața explorând domeniul. La prânz, conduceți în inima istoriei feroviare a Swindonului, parcați și explorați pe jos Muzeul STEAM și Satul Feroviar. După-amiaza, mergeți la Parcul Național Coate Water în sud-est pentru o plimbare revigorantă în natură. Încheiați-vă aventura navigând cu atenție în faimoasa Girație Magică la ieșirea din oraș.",
+        "en": "Start your day out west at the expansive Lydiard Park. Spend the morning exploring the estate. At midday, drive into the heart of Swindon's railway history, parking up and exploring the STEAM Museum and Railway Village on foot. In the afternoon, head to Coate Water Country Park in the south-east for a refreshing nature walk. End your adventure by carefully navigating the infamous Magic Roundabout on your way out of town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Lydiard House Hotel",
+            "tip": "Genießen Sie einen eleganten Nachmittagstee im historischen Haus."
+          },
+          {
+            "name": "The Baker's Arms, Badbury",
+            "tip": "Ein klassischer Country-Pub in der Nähe von Coate Water, ideal für ein herzhaftes Essen."
+          },
+          {
+            "name": "Fabio's, Old Town",
+            "tip": "Authentische italienische Küche in der charmanten Altstadt von Swindon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Lydiard House Hotel",
+            "tip": "Élvezzen egy elegáns délutáni teát a történelmi házban."
+          },
+          {
+            "name": "The Baker's Arms, Badbury",
+            "tip": "Klasszikus vidéki pub a Coate Water közelében, ideális egy kiadós étkezéshez."
+          },
+          {
+            "name": "Fabio's, Óváros",
+            "tip": "Autentikus olasz konyha Swindon bájos óvárosában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Lydiard House Hotel",
+            "tip": "Bucurați-vă de un ceai elegant de după-amiază în casa istorică."
+          },
+          {
+            "name": "The Baker's Arms, Badbury",
+            "tip": "Un pub clasic de la țară, aproape de Coate Water, excelent pentru o masă copioasă."
+          },
+          {
+            "name": "Fabio's, Orașul Vechi",
+            "tip": "Bucătărie italiană autentică în fermecătorul Oraș Vechi din Swindon."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Lydiard House Hotel",
+            "tip": "Enjoy an elegant afternoon tea in the historic house."
+          },
+          {
+            "name": "The Baker's Arms, Badbury",
+            "tip": "A classic country pub near Coate Water, great for a hearty meal."
+          },
+          {
+            "name": "Fabio's, Old Town",
+            "tip": "Authentic Italian food in Swindon's charming Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lydiard Park See",
+            "tip": "Ein ruhiger Spaziergang um den See am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coate Water Arboretum",
+            "tip": "Entdecken Sie die Sammlung seltener Bäume in einer ruhigen Ecke des Parks.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Mary's Church, Lydiard Tregoze",
+            "tip": "Eine atemberaubende mittelalterliche Kirche auf dem Gelände des Lydiard Park.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lydiard Park-tó",
+            "tip": "Csendes séta a tó körül kora reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coate Water Arborétum",
+            "tip": "Fedezze fel a ritka fák gyűjteményét a park egy csendes sarkában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent Mária-templom, Lydiard Tregoze",
+            "tip": "Lenyűgöző középkori templom a Lydiard Park területén.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din Parcul Lydiard",
+            "tip": "O plimbare liniștită în jurul lacului dimineața devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arboretul Coate Water",
+            "tip": "Descoperiți colecția de copaci rari într-un colț liniștit al parcului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Biserica St. Mary's, Lydiard Tregoze",
+            "tip": "O biserică medievală uimitoare pe terenul Parcului Lydiard.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lydiard Park Lake",
+            "tip": "A quiet walk around the lake early in the morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coate Water Arboretum",
+            "tip": "Discover the collection of rare trees in a quiet corner of the park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Mary's Church, Lydiard Tregoze",
+            "tip": "A stunning medieval church within the grounds of Lydiard Park.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Cluster, um das Parken und Fahren zu minimieren. Parken Sie einmal pro Cluster.",
+          "Die Parkgebühren können variieren, halten Sie also etwas Kleingeld bereit oder prüfen Sie die Zahlungs-Apps.",
+          "Der Verkehr in Swindon kann zu Stoßzeiten stark sein, planen Sie also zusätzliche Fahrzeit ein.",
+          "Verwenden Sie eine Satellitennavigation, um sich zurechtzufinden, insbesondere um den Magic Roundabout!"
+        ],
+        "hu": [
+          "Tervezze meg a klasztereket a parkolás és a vezetés minimalizálása érdekében. Parkoljon egyszer klaszterenként.",
+          "A parkolási díjak változhatnak, ezért tartson magánál aprópénzt, vagy ellenőrizze a fizetési alkalmazásokat.",
+          "A swindoni forgalom csúcsidőben sűrű lehet, ezért tervezzen plusz utazási időt.",
+          "Használjon GPS-t a navigációhoz, különösen a Mágikus Körforgalom környékén!"
+        ],
+        "ro": [
+          "Planificați-vă clusterele pentru a minimiza parcarea și condusul. Parcați o singură dată pe cluster.",
+          "Taxele de parcare pot varia, așa că aveți la îndemână monede sau verificați aplicațiile de plată.",
+          "Traficul din Swindon poate fi aglomerat la orele de vârf, așa că alocați timp suplimentar de călătorie.",
+          "Folosiți un navigator prin satelit pentru a vă orienta, în special în jurul Girației Magice!"
+        ],
+        "en": [
+          "Plan your clusters to minimise parking and driving. Park once per cluster.",
+          "Parking charges can vary, so have some change ready or check for payment apps.",
+          "Swindon traffic can be heavy during peak hours, so allow extra travel time.",
+          "Use a sat-nav to find your way around, especially for the Magic Roundabout!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "STEAM - Museum der Great Western Railway",
+            "hu": "STEAM - A Great Western Vasúttársaság Múzeuma",
+            "ro": "STEAM - Muzeul Great Western Railway",
+            "en": "STEAM - Museum of the Great Western Railway"
+          },
+          "coords": [
+            -1.794,
+            51.563
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Nähe des Designer Outlets, Ihr erster Cluster.",
+            "hu": "Vegyen egy buszt a Designer Outlet közelébe, ez az első klaszter.",
+            "ro": "Luați un autobuz aproape de Designer Outlet, primul dvs. cluster.",
+            "en": "Take a bus close to the Designer Outlet, your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Railway Village",
+            "hu": "Vasúti falu",
+            "ro": "Satul feroviar",
+            "en": "Railway Village"
+          },
+          "coords": [
+            -1.785,
+            51.558
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie vom STEAM Museum aus, um dieses historische Viertel zu erkunden.",
+            "hu": "Sétáljon át a STEAM Múzeumból, hogy felfedezze ezt a történelmi negyedet.",
+            "ro": "Mergeți pe jos de la Muzeul STEAM pentru a explora acest cartier istoric.",
+            "en": "Walk over from the STEAM museum to explore this historic neighbourhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Swindon Museum & Kunstgalerie",
+            "hu": "Swindoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Swindon",
+            "en": "Swindon Museum & Art Gallery"
+          },
+          "coords": [
+            -1.783,
+            51.556
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus in die Altstadt, um Ihren zweiten Cluster zu beginnen.",
+            "hu": "Vegyen egy rövid buszt az Óvárosba a második klaszter megkezdéséhez.",
+            "ro": "Luați un autobuz scurt spre Orașul Vechi pentru a începe al doilea cluster.",
+            "en": "Take a short bus to the Old Town to begin your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Wyvern Theatre",
+            "hu": "Wyvern Színház",
+            "ro": "Teatrul Wyvern",
+            "en": "Wyvern Theatre"
+          },
+          "coords": [
+            -1.773,
+            51.558
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Museum zum Kulturzentrum der Stadt.",
+            "hu": "Könnyű séta a múzeumtól a város kulturális központjáig.",
+            "ro": "O plimbare ușoară de la muzeu la centrul cultural al orașului.",
+            "en": "An easy walk from the museum to the town's cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen's Park",
+            "hu": "Queen's Park",
+            "ro": "Parcul Queen's",
+            "en": "Queen's Park"
+          },
+          "coords": [
+            -1.774,
+            51.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Entspannen in diesen nahegelegenen Park.",
+            "hu": "Sétáljon el ebbe a közeli parkba egy kis pihenésért.",
+            "ro": "Plimbați-vă până la acest parc din apropiere pentru a vă relaxa.",
+            "en": "Stroll over to this nearby park for some relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Coate Water Country Park",
+            "hu": "Coate Water Country Park",
+            "ro": "Parcul Național Coate Water",
+            "en": "Coate Water Country Park"
+          },
+          "coords": [
+            -1.75,
+            51.53
+          ],
+          "category": "natural features",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum für Ihren letzten Halt des Tages.",
+            "hu": "Vegyen egy buszt a városközpontból a nap utolsó állomásához.",
+            "ro": "Luați un autobuz din centrul orașului pentru ultima oprire a zilei.",
+            "en": "Take a bus from the town centre for your final stop of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus zu Swindons Eisenbahn-Cluster. Der Vormittag ist dem STEAM Museum und einem Spaziergang durch das Railway Village gewidmet. Mittags fahren Sie mit dem Bus in die Altstadt, um das Kunstmuseum und das Wyvern Theatre zu erkunden, gefolgt von einer Pause im Queen's Park. Am Nachmittag bringt Sie ein weiterer Bus zum Coate Water Country Park, wo Sie einen ruhigen Ausklang des Tages in der Natur genießen können.",
+        "hu": "Kezdje a napot egy buszozással Swindon vasúti klaszterébe. A délelőtt a STEAM Múzeumé és a Vasúti faluban tett sétáé. Délben buszozzon az Óvárosba a művészeti múzeum és a Wyvern Színház felfedezésére, majd tartson egy szünetet a Queen's Parkban. Délután egy újabb busz viszi a Coate Water Country Parkba egy békés, természetközeli napzáráshoz.",
+        "ro": "Începeți ziua luând autobuzul către clusterul feroviar din Swindon. Dimineața este dedicată Muzeului STEAM și unei plimbări prin Satul Feroviar. La prânz, luați autobuzul spre Orașul Vechi pentru a explora muzeul de artă și Teatrul Wyvern, urmat de o pauză în Parcul Queen's. După-amiaza, un alt autobuz vă va duce la Parcul Național Coate Water pentru un final de zi liniștit, înconjurat de natură.",
+        "en": "Start your day by taking a bus to Swindon's railway cluster. The morning is dedicated to the STEAM Museum and a walk through the Railway Village. At midday, take a bus to the Old Town to explore the art museum and Wyvern Theatre, followed by a break in Queen's Park. In the afternoon, another bus will take you to Coate Water Country Park for a peaceful end to the day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Platform",
+            "tip": "Ein Café im STEAM Museum, ideal für eine schnelle Stärkung."
+          },
+          {
+            "name": "The Core",
+            "tip": "Ein Saftbar im Stadtzentrum, die gesunde und schnelle Optionen bietet."
+          },
+          {
+            "name": "The Sun Inn, Coate",
+            "tip": "Ein Pub in der Nähe von Coate Water, der traditionelle Gerichte serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Platform",
+            "tip": "Kávézó a STEAM Múzeumban, ideális egy gyors feltöltődéshez."
+          },
+          {
+            "name": "The Core",
+            "tip": "Gyümölcslé bár a városközpontban, egészséges és gyors lehetőségeket kínál."
+          },
+          {
+            "name": "The Sun Inn, Coate",
+            "tip": "Pub a Coate Water közelében, hagyományos ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Platform",
+            "tip": "O cafenea în interiorul Muzeului STEAM, perfectă pentru o gustare rapidă."
+          },
+          {
+            "name": "The Core",
+            "tip": "Un bar de sucuri în centrul orașului, care oferă opțiuni sănătoase și rapide."
+          },
+          {
+            "name": "The Sun Inn, Coate",
+            "tip": "Un pub lângă Coate Water, care servește mâncăruri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Platform",
+            "tip": "A cafe inside the STEAM Museum, perfect for a quick refuel."
+          },
+          {
+            "name": "The Core",
+            "tip": "A juice bar in the town centre offering healthy and quick options."
+          },
+          {
+            "name": "The Sun Inn, Coate",
+            "tip": "A pub near Coate Water serving traditional fare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Swindon Central Library",
+            "tip": "Ein ruhiger Ort, um sich zu setzen und auszuruhen, mit moderner Architektur.",
+            "emoji": "📚"
+          },
+          {
+            "name": "GWR Park",
+            "tip": "Ein weiterer Park im Railway Village, der oft ruhiger ist als der Queen's Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Richard Jefferies Museum",
+            "tip": "Etwas außerhalb des Zentrums, aber mit dem Bus erreichbar, das ruhige Zuhause eines Naturschriftstellers.",
+            "emoji": "🏡"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Swindoni Központi Könyvtár",
+            "tip": "Csendes hely a leüléshez és pihenéshez, modern építészettel.",
+            "emoji": "📚"
+          },
+          {
+            "name": "GWR Park",
+            "tip": "Egy másik park a Vasúti faluban, gyakran csendesebb, mint a Queen's Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Richard Jefferies Múzeum",
+            "tip": "Kicsit a központon kívül, de busszal elérhető, egy természetíró csendes otthona.",
+            "emoji": "🏡"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Centrală Swindon",
+            "tip": "Un spațiu liniștit pentru a sta jos și a vă odihni, cu arhitectură modernă.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parcul GWR",
+            "tip": "Un alt parc în Satul Feroviar, adesea mai liniștit decât Parcul Queen's.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Muzeul Richard Jefferies",
+            "tip": "Puțin în afara centrului, dar accesibil cu autobuzul, casa liniștită a unui scriitor naturalist.",
+            "emoji": "🏡"
+          }
+        ],
+        "en": [
+          {
+            "name": "Swindon Central Library",
+            "tip": "A quiet space to sit and rest, with modern architecture.",
+            "emoji": "📚"
+          },
+          {
+            "name": "GWR Park",
+            "tip": "Another park in the Railway Village, often quieter than Queen's Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Richard Jefferies Museum",
+            "tip": "Slightly out of the centre but accessible by bus, the tranquil home of a nature writer.",
+            "emoji": "🏡"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Verwenden Sie eine Bus-App, um Routen und Live-Zeiten zu verfolgen.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also voraus.",
+          "Nicht alle Attraktionen (wie Lydiard Park) sind mit einem einzigen Bus leicht zu erreichen, konzentrieren Sie sich auf zentrale Cluster."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Használjon egy buszos alkalmazást az útvonalak és az élő menetrendek követéséhez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen előre.",
+          "Nem minden látnivaló (mint például a Lydiard Park) érhető el könnyen egyetlen busszal, ezért koncentráljon a központi klaszterekre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Utilizați o aplicație de autobuz pentru a urmări rutele și orele în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că planificați-vă din timp.",
+          "Nu toate atracțiile (cum ar fi Parcul Lydiard) sunt ușor accesibile cu un singur autobuz, concentrați-vă pe clusterele centrale."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel.",
+          "Use a bus app to track routes and live times.",
+          "Buses can be crowded during peak times, so plan ahead.",
+          "Not all attractions (like Lydiard Park) are easily reached by a single bus, so focus on central clusters."
+        ]
+      }
+    }
+  }
+}

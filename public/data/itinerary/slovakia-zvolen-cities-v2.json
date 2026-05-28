@@ -1,0 +1,1090 @@
+{
+  "city_id": "slovakia-zvolen-cities-v2",
+  "anchor": {
+    "name": "Zvolen",
+    "coords": [
+      19.1245,
+      48.5765
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Námestie SNP",
+            "hu": "SNP tér",
+            "ro": "Piața SNP",
+            "en": "SNP Square"
+          },
+          "coords": [
+            19.1278,
+            48.5745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Leben in der Stadt.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life unfold."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "Church of Saint Elizabeth"
+          },
+          "coords": [
+            19.1265,
+            48.5755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Jozef-Gregor-Tajovský-Theater",
+            "hu": "Jozef Gregor Tajovský Színház",
+            "ro": "Teatrul Jozef Gregor Tajovský",
+            "en": "Jozef Gregor Tajovský Theatre"
+          },
+          "coords": [
+            19.1255,
+            48.575
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:27",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15
+        },
+        {
+          "name_4lang": {
+            "de": "Evangelische Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság evangélikus templom",
+            "ro": "Biserica Evanghelică Sfânta Treime",
+            "en": "Evangelical Church of the Holy Trinity"
+          },
+          "coords": [
+            19.1299,
+            48.575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.45
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Zvolen",
+            "hu": "Zólyomi vár",
+            "ro": "Castelul Zvolen",
+            "en": "Zvolen Castle"
+          },
+          "coords": [
+            19.1285,
+            48.5729
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:42",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name_4lang": {
+            "de": "Panzerzug Hurban",
+            "hu": "Hurban páncélvonat",
+            "ro": "Trenul blindat Hurban",
+            "en": "Armoured Train Hurban"
+          },
+          "coords": [
+            19.129,
+            48.571
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Museum für Forstwirtschaft und Holz",
+            "hu": "Erdészeti és Faipari Múzeum",
+            "ro": "Muzeul Silviculturii și Industriei Lemnului",
+            "en": "Museum of Forestry and Wood Technology"
+          },
+          "coords": [
+            19.122,
+            48.578
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 0.95
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Zvolen beginnt am lebhaften SNP-Platz, dem Herzen der Stadt. Von dort aus schlendern Sie durch die Geschichte und besuchen die gotische Kirche St. Elisabeth und das nahegelegene Theater. Am Mittag erklimmen Sie das majestätische Schloss Zvolen, das eine beeindruckende Kunstsammlung und einen Panoramablick bietet. Nach dem Mittagessen tauchen Sie in die slowakische Geschichte ein mit einem Besuch des gepanzerten Zuges Hurban, einem Symbol des Nationalaufstands. Der Nachmittag ist der reichen Holzwirtschaft der Region im Museum für Forstwirtschaft und Holz gewidmet. Beenden Sie Ihren Tag mit einem entspannten Abendessen und lassen Sie die historischen Eindrücke auf sich wirken.",
+        "hu": "Zólyomi napja a város szívében, a nyüzsgő SNP téren kezdődik. Innen a történelembe sétálva fedezi fel a gótikus Szent Erzsébet-templomot és a közeli színházat. Délben a fenséges Zólyomi várat hódítja meg, amely lenyűgöző művészeti gyűjteményt és panorámát kínál. Ebéd után a szlovák történelembe merülhet a Hurban páncélvonatnál, a nemzeti felkelés szimbólumánál. A délután a régió gazdag faiparának van szentelve az Erdészeti és Faipari Múzeumban. Zárja a napot egy kellemes vacsorával, felidézve a történelmi benyomásokat.",
+        "ro": "Ziua dvs. în Zvolen începe în vibranta Piață SNP, inima orașului. De acolo, vă plimbați prin istorie, vizitând Biserica gotică Sf. Elisabeta și teatrul din apropiere. La prânz, cuceriți maiestuosul Castel Zvolen, care oferă o colecție de artă impresionantă și vederi panoramice. După prânz, vă adânciți în istoria slovacă la trenul blindat Hurban, un simbol al Revoltei Naționale. După-amiaza este dedicată bogatei industrii forestiere a regiunii la Muzeul Silviculturii și Industriei Lemnului. Încheiați ziua cu o cină relaxantă, reflectând asupra impresiilor istorice.",
+        "en": "Your day in Zvolen begins in the vibrant SNP Square, the heart of the city. From there, you'll stroll through history, visiting the Gothic Church of St. Elizabeth and the nearby theatre. At midday, you'll conquer the majestic Zvolen Castle, offering an impressive art collection and panoramic views. After lunch, delve into Slovak history at the Hurban armoured train, a symbol of the National Uprising. The afternoon is dedicated to the region's rich timber industry at the Museum of Forestry and Wood Technology. End your day with a relaxing dinner, reflecting on the historical impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Das Nationalgericht der Slowakei, probieren Sie es in einem lokalen Restaurant wie dem 'Slovenská reštaurácia' in der Nähe des Platzes."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "Eine herzhafte Sauerkrautsuppe, perfekt für ein stärkendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (Juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, kóstolja meg egy helyi étteremben, mint a 'Slovenská reštaurácia' a tér közelében."
+          },
+          {
+            "name": "Kapustnica (Káposztaleves)",
+            "tip": "Egy kiadós savanyúkáposzta-leves, tökéletes egy erősítő ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Mâncarea națională a Slovaciei, încercați-o la un restaurant local precum 'Slovenská reštaurácia' lângă piață."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "O ciorbă consistentă de varză murată, perfectă pentru un prânz revigorant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovakia's national dish, try it at a local restaurant like 'Slovenská reštaurácia' near the square."
+          },
+          {
+            "name": "Kapustnica",
+            "tip": "A hearty sauerkraut soup, perfect for a fortifying lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Hron",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom Trubel der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie eine ruhige Bank im Park rund um das Schloss Zvolen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Garam (Hron) partján",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a város nyüzsgéséből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várkert",
+            "tip": "Keressen egy csendes padot a Zólyomi várat körülvevő parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Hron",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți o bancă liniștită în parcul din jurul Castelului Zvolen.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Hron River",
+            "tip": "A quiet stroll along the river offers a break from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Find a quiet bench in the park surrounding Zvolen Castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Schloss",
+            "tip": "Kaufen Sie historische Nachbildungen und Bücher über die slowakische Geschichte."
+          },
+          {
+            "name": "Lokale Handwerkermärkte",
+            "tip": "Halten Sie Ausschau nach saisonalen Märkten auf dem SNP-Platz für handgemachte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a várban",
+            "tip": "Vásároljon történelmi másolatokat és szlovák történelemmel foglalkozó könyveket."
+          },
+          {
+            "name": "Helyi kézműves piacok",
+            "tip": "Keresse a szezonális piacokat az SNP téren, ahol kézzel készített termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la castel",
+            "tip": "Cumpărați replici istorice și cărți despre istoria Slovaciei."
+          },
+          {
+            "name": "Piețe de artizanat locale",
+            "tip": "Fiți atenți la piețele sezoniere din Piața SNP pentru produse artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Souvenir Shop",
+            "tip": "Purchase historical replicas and books about Slovak history."
+          },
+          {
+            "name": "Local Craft Markets",
+            "tip": "Look out for seasonal markets in SNP Square for handmade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses und des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Ellenőrizze előre a vár és a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans orele de funcționare ale castelului și muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central attractions are easily within walking distance.",
+          "Check the opening hours for the castle and museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Námestie SNP",
+            "hu": "SNP tér",
+            "ro": "Piața SNP",
+            "en": "SNP Square"
+          },
+          "coords": [
+            19.1278,
+            48.5745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Jozef-Gregor-Tajovský-Theater",
+            "hu": "Jozef Gregor Tajovský Színház",
+            "ro": "Teatrul Jozef Gregor Tajovský",
+            "en": "Jozef Gregor Tajovský Theatre"
+          },
+          "coords": [
+            19.1255,
+            48.575
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name_4lang": {
+            "de": "Museum für Forstwirtschaft und Holz",
+            "hu": "Erdészeti és Faipari Múzeum",
+            "ro": "Muzeul Silviculturii și Industriei Lemnului",
+            "en": "Museum of Forestry and Wood Technology"
+          },
+          "coords": [
+            19.122,
+            48.578
+          ],
+          "category": "museums",
+          "arrive_at": "09:59",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "Church of Saint Elizabeth"
+          },
+          "coords": [
+            19.1265,
+            48.5755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:34",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Zvolen",
+            "hu": "Zólyomi vár",
+            "ro": "Castelul Zvolen",
+            "en": "Zvolen Castle"
+          },
+          "coords": [
+            19.1285,
+            48.5729
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name_4lang": {
+            "de": "Panzerzug Hurban",
+            "hu": "Hurban páncélvonat",
+            "ro": "Trenul blindat Hurban",
+            "en": "Armoured Train Hurban"
+          },
+          "coords": [
+            19.129,
+            48.571
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name_4lang": {
+            "de": "Ausgangspunkt Pustý hrad (Wüste Burg)",
+            "hu": "Pusztavár kiindulópont",
+            "ro": "Punct de plecare spre Cetatea Pustý",
+            "en": "Pustý Hrad (Desolate Castle) Trailhead"
+          },
+          "coords": [
+            19.1155,
+            48.5685
+          ],
+          "category": "nature",
+          "arrive_at": "14:23",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Zvolen aufs Rad und starten Sie am SNP-Platz. Eine kurze Fahrt bringt Sie zum Theater und dem faszinierenden Forstmuseum. Zur Mittagszeit radeln Sie zurück ins Zentrum, um das Schloss Zvolen zu erkunden, ein kulturelles Juwel. Nach dem Mittagessen führt Sie Ihre Tour zum Panzerzug Hurban, einem wichtigen historischen Denkmal. Am Nachmittag unternehmen Sie eine längere Radtour zum Ausgangspunkt der Ruinen von Pustý Hrad. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt. Rollen Sie zurück in die Stadt für ein wohlverdientes Abendessen.",
+        "hu": "Pattanjon kerékpárra Zólyomban, és induljon az SNP térről. Egy rövid tekerés elvezeti a színházhoz és a lenyűgöző Erdészeti Múzeumhoz. Délidőben térjen vissza a központba, hogy felfedezze a Zólyomi várat, egy kulturális gyöngyszemet. Ebéd után a túra a Hurban páncélvonathoz, egy fontos történelmi emlékműhöz vezet. Délután egy hosszabb kerékpártúrára indul a Pusztavár romjainak kiindulópontjához. A mászásért lélegzetelállító kilátás a jutalom. Guruljon vissza a városba egy jól megérdemelt vacsorára.",
+        "ro": "Urcați-vă pe bicicletă în Zvolen și porniți din Piața SNP. O scurtă plimbare vă duce la teatru și la fascinantul Muzeu Forestier. La prânz, pedalați înapoi în centru pentru a explora Castelul Zvolen, o bijuterie culturală. După prânz, turul vă duce la trenul blindat Hurban, un monument istoric important. După-amiaza, faceți o plimbare mai lungă cu bicicleta până la punctul de plecare spre ruinele Cetății Pustý. Urcușul este răsplătit cu o priveliște uluitoare. Întoarceți-vă în oraș pentru o cină binemeritată.",
+        "en": "Hop on your bike in Zvolen and start from SNP Square. A short ride takes you to the theatre and the fascinating Forestry Museum. At midday, cycle back to the center to explore Zvolen Castle, a cultural gem. After lunch, your tour leads you to the Hurban armoured train, an important historical monument. In the afternoon, take a longer bike ride to the trailhead for the Pustý Hrad ruins. The climb is rewarded with a breathtaking view. Roll back into town for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokálne pivo (Bier)",
+            "tip": "Erfrischen Sie sich nach Ihrer Radtour mit einem lokalen slowakischen Bier."
+          },
+          {
+            "name": "Pečená klobása",
+            "tip": "Ein schneller und leckerer Snack von einem Straßenstand, perfekt für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör (pivo)",
+            "tip": "Frissítse fel magát egy helyi szlovák sörrel a kerékpártúra után."
+          },
+          {
+            "name": "Sült kolbász (Pečená klobása)",
+            "tip": "Gyors és ízletes falat egy utcai árustól, tökéletes a kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere locală (pivo)",
+            "tip": "Reîmprospătați-vă cu o bere locală slovacă după turul cu bicicleta."
+          },
+          {
+            "name": "Cârnați prăjiți (Pečená klobása)",
+            "tip": "O gustare rapidă și gustoasă de la o tarabă, perfectă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local beer (pivo)",
+            "tip": "Refresh yourself with a local Slovak beer after your bike tour."
+          },
+          {
+            "name": "Grilled sausage (Pečená klobása)",
+            "tip": "A quick and tasty snack from a street food stand, perfect for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von Pustý hrad",
+            "tip": "Die beste Panoramaaussicht auf Zvolen und das Hron-Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg am Hron",
+            "tip": "Genießen Sie die Ruhe auf dem Radweg entlang des Flusses, abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Pusztavárról",
+            "tip": "A legjobb panoráma Zólyomra és a Garam-völgyére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Garam mentén",
+            "tip": "Élvezze a csendet a folyó menti kerékpárúton, távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Cetatea Pustý",
+            "tip": "Cea mai bună vedere panoramică asupra Zvolenului și a văii Hronului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de pe malul Hronului",
+            "tip": "Bucurați-vă de liniște pe pista de biciclete de-a lungul râului, departe de traficul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Pustý Hrad",
+            "tip": "The best panoramic view of Zvolen and the Hron valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hron River Bike Path",
+            "tip": "Enjoy the tranquility on the riverside bike path, away from city traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigte Ersatzteile oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha alkatrészre vagy kiegészítőre lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice piese de schimb sau accesorii de care ați putea avea nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any spare parts or accessories you might need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut ab.",
+          "Nehmen Sie viel Wasser mit, besonders für den Aufstieg nach Pustý Hrad.",
+          "Einige Straßen in der Innenstadt haben möglicherweise keinen separaten Radweg."
+        ],
+        "hu": [
+          "Zárja le biztonságosan a kerékpárját a főbb látnivalóknál.",
+          "Vigyen magával sok vizet, különösen a Pusztavárra való feljutáshoz.",
+          "Néhány belvárosi utcában esetleg nincs külön kerékpársáv."
+        ],
+        "ro": [
+          "Asigurați-vă bicicleta corespunzător la principalele atracții.",
+          "Luați multă apă, mai ales pentru urcarea la Cetatea Pustý.",
+          "Este posibil ca unele străzi din centru să nu aibă piste de biciclete dedicate."
+        ],
+        "en": [
+          "Lock your bike securely at the main attractions.",
+          "Bring plenty of water, especially for the climb to Pustý Hrad.",
+          "Some city center streets may not have dedicated bike lanes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Parkplatz Zentrum & Námestie SNP",
+            "hu": "Parkoló a központban és SNP tér",
+            "ro": "Parcare Centru și Piața SNP",
+            "en": "City Center Parking & SNP Square"
+          },
+          "coords": [
+            19.1278,
+            48.5745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "Church of Saint Elizabeth"
+          },
+          "coords": [
+            19.1265,
+            48.5755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Zvolen",
+            "hu": "Zólyomi vár",
+            "ro": "Castelul Zvolen",
+            "en": "Zvolen Castle"
+          },
+          "coords": [
+            19.1285,
+            48.5729
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name_4lang": {
+            "de": "Parkplatz Pustý hrad & Wanderung",
+            "hu": "Pusztavár parkoló és túra",
+            "ro": "Parcare Cetatea Pustý și drumeție",
+            "en": "Pustý Hrad Parking & Hike"
+          },
+          "coords": [
+            19.1155,
+            48.5685
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:09",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5
+        },
+        {
+          "name_4lang": {
+            "de": "Panzerzug Hurban",
+            "hu": "Hurban páncélvonat",
+            "ro": "Trenul blindat Hurban",
+            "en": "Armoured Train Hurban"
+          },
+          "coords": [
+            19.129,
+            48.571
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:54",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8
+        },
+        {
+          "name_4lang": {
+            "de": "Museum für Forstwirtschaft und Holz",
+            "hu": "Erdészeti és Faipari Múzeum",
+            "ro": "Muzeul Silviculturii și Industriei Lemnului",
+            "en": "Museum of Forestry and Wood Technology"
+          },
+          "coords": [
+            19.122,
+            48.578
+          ],
+          "category": "museums",
+          "arrive_at": "15:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Zvolen beginnt mit dem Parken im Zentrum. Erkunden Sie zu Fuß den SNP-Platz, die St.-Elisabeth-Kirche und das beeindruckende Schloss Zvolen. Nach diesem historischen Spaziergang fahren Sie zu den Ruinen von Pustý Hrad. Die kurze Wanderung belohnt Sie mit einer spektakulären Aussicht und einem perfekten Ort für ein Picknick. Am Nachmittag fahren Sie zurück in die Stadt, um das Denkmal des Panzerzugs Hurban zu besichtigen. Ihr letzter Halt ist das Museum für Forstwirtschaft und Holz, das nur einen kurzen Spaziergang entfernt ist und einen Einblick in die lokale Industrie bietet.",
+        "hu": "Autós napja Zólyomban a központi parkolással kezdődik. Fedezze fel gyalog az SNP teret, a Szent Erzsébet-templomot és a lenyűgöző Zólyomi várat. A történelmi séta után vezessen a Pusztavár romjaihoz. A rövid túra látványos kilátással és tökéletes piknikezőhellyel jutalmazza. Délután hajtson vissza a városba, hogy megnézze a Hurban páncélvonat emlékművét. Utolsó megállója a közeli Erdészeti és Faipari Múzeum, amely bepillantást nyújt a helyi iparba.",
+        "ro": "Ziua dvs. cu mașina în Zvolen începe parcând în centru. Explorați pe jos Piața SNP, Biserica Sf. Elisabeta și impresionantul Castel Zvolen. După această plimbare istorică, conduceți spre ruinele Cetății Pustý. Scurta drumeție vă recompensează cu vederi spectaculoase și un loc perfect pentru picnic. După-amiaza, conduceți înapoi în oraș pentru a vizita monumentul trenului blindat Hurban. Ultima oprire este Muzeul Silviculturii și Industriei Lemnului, la o scurtă plimbare, oferind o perspectivă asupra industriei locale.",
+        "en": "Your car day in Zvolen starts by parking in the center. Explore SNP Square, St. Elizabeth's Church, and the impressive Zvolen Castle on foot. After this historical cluster, drive to the ruins of Pustý Hrad. The short hike rewards you with spectacular views and a perfect picnic spot. In the afternoon, drive back towards the city to visit the Hurban armoured train monument. Your final stop is the nearby Museum of Forestry and Wood Technology, just a short walk away, offering insight into the local industry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mittagessen in einer 'Koliba'",
+            "tip": "Suchen Sie nach einem traditionellen Hirtenrestaurant am Stadtrand für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Zlatý Bažant Bier",
+            "tip": "Ein beliebtes slowakisches Bier, das Sie fast überall finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebéd egy 'Kolibában'",
+            "tip": "Keressen egy hagyományos pásztoréttermet a város szélén az autentikus élményért."
+          },
+          {
+            "name": "Zlatý Bažant sör",
+            "tip": "Egy népszerű szlovák sör, amelyet szinte mindenhol megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la o 'Koliba'",
+            "tip": "Căutați un restaurant tradițional ciobănesc la marginea orașului pentru o experiență autentică."
+          },
+          {
+            "name": "Berea Zlatý Bažant",
+            "tip": "O bere slovacă populară pe care o puteți găsi aproape oriunde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lunch at a 'Koliba'",
+            "tip": "Look for a traditional shepherd-style restaurant on the outskirts of town for an authentic experience."
+          },
+          {
+            "name": "Zlatý Bažant beer",
+            "tip": "A popular Slovak beer you can find almost anywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel von Pustý hrad",
+            "tip": "Der ultimative ruhige Ort mit der besten Aussicht. Nehmen Sie sich Zeit, um die Landschaft zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wälder um Zvolen",
+            "tip": "Machen Sie auf dem Weg nach Pustý hrad einen kurzen Halt für einen Waldspaziergang.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pusztavár csúcsa",
+            "tip": "A tökéletes csendes hely a legjobb kilátással. Szánjon időt a táj élvezetére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdők Zólyom körül",
+            "tip": "Álljon meg egy rövid erdei sétára a Pusztavár felé vezető úton.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Cetății Pustý",
+            "tip": "Locul suprem de liniște cu cea mai bună priveliște. Luați-vă timp să admirați peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurile din jurul Zvolenului",
+            "tip": "Faceți o scurtă oprire pentru o plimbare prin pădure în drum spre Cetatea Pustý.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Pustý Hrad",
+            "tip": "The ultimate quiet spot with the best view. Take your time to soak in the scenery.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forests around Zvolen",
+            "tip": "Make a quick stop for a forest walk on your way to Pustý Hrad.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Suchen Sie nach handgefertigten Holzprodukten, die die lokale Industrie widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fafaragások",
+            "tip": "Keressen kézzel készített fatermékeket, amelyek a helyi ipart tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Căutați produse artizanale din lemn care reflectă industria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woodcarvings",
+            "tip": "Look for handmade wooden products, reflecting the local industry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann gebührenpflichtig sein.",
+          "Für Pustý Hrad sind feste Schuhe unerlässlich.",
+          "Planen Sie genügend Zeit für die Wanderung und die Aussicht ein."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet.",
+          "A Pusztavárhoz elengedhetetlen a strapabíró cipő.",
+          "Szánjon elegendő időt a túrára és a kilátás élvezetére."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Încălțămintea rezistentă este esențială pentru Cetatea Pustý.",
+          "Alocați suficient timp pentru drumeție și pentru a admira priveliștea."
+        ],
+        "en": [
+          "Parking in the city center may be paid.",
+          "Sturdy shoes are essential for Pustý Hrad.",
+          "Plan enough time for the hike and to enjoy the view."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Ankunft Námestie SNP",
+            "hu": "Érkezés az SNP térre",
+            "ro": "Sosire în Piața SNP",
+            "en": "Arrival at SNP Square"
+          },
+          "coords": [
+            19.1278,
+            48.5745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche der Heiligen Elisabeth",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "Church of Saint Elizabeth"
+          },
+          "coords": [
+            19.1265,
+            48.5755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Jozef-Gregor-Tajovský-Theater",
+            "hu": "Jozef Gregor Tajovský Színház",
+            "ro": "Teatrul Jozef Gregor Tajovský",
+            "en": "Jozef Gregor Tajovský Theatre"
+          },
+          "coords": [
+            19.1255,
+            48.575
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:22",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum Schloss Zvolen",
+            "hu": "Busszal a Zólyomi várhoz",
+            "ro": "Autobuz spre Castelul Zvolen",
+            "en": "Bus to Zvolen Castle"
+          },
+          "coords": [
+            19.1285,
+            48.5729
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name_4lang": {
+            "de": "Panzerzug Hurban",
+            "hu": "Hurban páncélvonat",
+            "ro": "Trenul blindat Hurban",
+            "en": "Armoured Train Hurban"
+          },
+          "coords": [
+            19.129,
+            48.571
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name_4lang": {
+            "de": "Bus zum Museum für Forstwirtschaft",
+            "hu": "Busszal az Erdészeti Múzeumhoz",
+            "ro": "Autobuz spre Muzeul Silviculturii",
+            "en": "Bus to the Forestry Museum"
+          },
+          "coords": [
+            19.122,
+            48.578
+          ],
+          "category": "museums",
+          "arrive_at": "13:39",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.05
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Zvolen für einen entspannten Tag. Beginnen Sie im Zentrum, erkunden Sie den SNP-Platz und die nahegelegenen Kirchen zu Fuß. Nehmen Sie dann einen Bus, der Sie näher zum Schloss Zvolen bringt. Verbringen Sie den Vormittag damit, die Ausstellungen und die Aussicht zu genießen. Nach dem Mittagessen ist der Panzerzug Hurban, der sich in der Nähe des Schlosses befindet, nur einen kurzen Spaziergang entfernt. Am Nachmittag bringt Sie eine weitere Busfahrt zum Museum für Forstwirtschaft und Holz, wo Sie den Rest des Tages verbringen und in die lokale Kultur eintauchen.",
+        "hu": "Használja Zólyom tömegközlekedését egy nyugodt naphoz. Kezdje a központban, fedezze fel gyalog az SNP teret és a közeli templomokat. Ezután szálljon buszra, amely közelebb viszi a Zólyomi várhoz. Töltse a délelőttöt a kiállítások és a kilátás élvezetével. Ebéd után a vár közelében található Hurban páncélvonat csak egy rövid séta. Délután egy újabb buszozás elviszi az Erdészeti és Faipari Múzeumhoz, ahol a nap hátralévő részét töltheti, elmerülve a helyi kultúrában.",
+        "ro": "Folosiți transportul public din Zvolen pentru o zi relaxantă. Începeți în centru, explorând Piața SNP și bisericile din apropiere pe jos. Apoi, luați un autobuz care vă va aduce mai aproape de Castelul Zvolen. Petreceți dimineața bucurându-vă de expoziții și de priveliști. După prânz, trenul blindat Hurban, situat lângă castel, este la o scurtă plimbare. După-amiaza, o altă călătorie cu autobuzul vă duce la Muzeul Silviculturii și Industriei Lemnului, unde vă puteți petrece restul zilei cufundându-vă în cultura locală.",
+        "en": "Use Zvolen's public transit for a relaxed day. Start in the center, exploring SNP Square and the nearby churches on foot. Then, catch a bus to take you closer to Zvolen Castle. Spend the late morning enjoying its exhibits and views. After lunch, the Hurban armoured train, located near the castle, is a short walk away. In the afternoon, another bus ride takes you to the Museum of Forestry and Wood Technology, where you can spend the rest of your day immersed in local culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein süßes Gebäck (ako buchty) für eine schnelle Energiequelle zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy édes péksüteményt (mint a buchty) egy gyors energiaforrásként a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați un produs de patiserie dulce (cum ar fi buchty) pentru o sursă rapidă de energie între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a sweet pastry (like buchty) for a quick source of energy between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Schlosshof",
+            "tip": "Ein ruhiger Ort, um die Atmosphäre aufzusaugen, bevor die nächste Besuchergruppe eintrifft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a várudvaron",
+            "tip": "Csendes hely, ahol magába szívhatja a hangulatot, mielőtt a következő turistacsoport megérkezik.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în curtea castelului",
+            "tip": "Un loc liniștit pentru a absorbi atmosfera înainte de sosirea următorului grup de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the castle courtyard",
+            "tip": "A quiet spot to absorb the atmosphere before the next tour group arrives.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für Ihre Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy rágcsálnivalót az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați reviste sau gustări pentru călătoriile dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy magazines or snacks for your rides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Beachten Sie, dass die Busse möglicherweise nicht direkt vor jeder Sehenswürdigkeit halten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Vegye figyelembe, hogy a buszok nem feltétlenül állnak meg minden látnivaló előtt."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, mai ales în weekend.",
+          "Rețineți că este posibil ca autobuzele să nu oprească exact în fața fiecărei atracții."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Be aware that buses may not stop directly in front of every attraction."
+        ]
+      }
+    }
+  }
+}

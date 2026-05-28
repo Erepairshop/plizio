@@ -1,0 +1,1508 @@
+{
+  "city_id": "spain-zuera-cities-v2",
+  "anchor": {
+    "name": "Zuera",
+    "coords": [
+      -0.781,
+      41.874
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Zuera",
+            "hu": "Zuerai Városháza",
+            "ro": "Primăria din Zuera",
+            "en": "Zuera Town Hall"
+          },
+          "coords": [
+            -0.781,
+            41.874
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aragonesische Architektur des Hauptplatzes.",
+            "hu": "Csodálja meg a főtér aragóniai stílusú építészetét.",
+            "ro": "Admirați arhitectura aragoneză din piața principală.",
+            "en": "Admire the Aragonese architecture of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -0.7825,
+            41.8751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf den Mudéjar-Glockenturm, ein lokales Wahrzeichen.",
+            "hu": "Keresse a mudéjar stílusú harangtornyot, a város jelképét.",
+            "ro": "Observați turnul clopotniță în stil Mudéjar, un reper local.",
+            "en": "Look for the Mudéjar bell tower, a local landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mauren-Bogen (Arco de la Mora)",
+            "hu": "Mór kapu (Arco de la Mora)",
+            "ro": "Arcul Maur (Arco de la Mora)",
+            "en": "Moorish Arch (Arco de la Mora)"
+          },
+          "coords": [
+            -0.7802,
+            41.873
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Überbleibsel der alten Stadtmauer, ideal für ein schnelles Foto.",
+            "hu": "A régi városfal maradványa, tökéletes egy gyors fotóhoz.",
+            "ro": "O rămășiță a vechilor ziduri ale orașului, perfectă pentru o fotografie rapidă.",
+            "en": "A remnant of the old city walls, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Reina Sofía",
+            "hu": "Zsófia Királyné Színház",
+            "ro": "Teatrul Reina Sofía",
+            "en": "Reina Sofía Theatre"
+          },
+          "coords": [
+            -0.783,
+            41.8725
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine lokale Vorstellung stattfindet.",
+            "hu": "Nézze meg, van-e helyi előadás a látogatása során.",
+            "ro": "Verificați dacă există un spectacol local în timpul vizitei dumneavoastră.",
+            "en": "Check if there's a local performance during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Portillo Park",
+            "hu": "Portillo park",
+            "ro": "Parcul Portillo",
+            "en": "Portillo Park"
+          },
+          "coords": [
+            -0.785,
+            41.876
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause im Schatten der Bäume.",
+            "hu": "Kellemes hely egy déli pihenőre a fák árnyékában.",
+            "ro": "Un loc plăcut pentru o pauză de prânz la umbra copacilor.",
+            "en": "A pleasant spot for a midday break under the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Gállego (Paseo del Gállego)",
+            "hu": "Gállego-folyó sétánya",
+            "ro": "Promenada Râului Gállego",
+            "en": "Gállego River Promenade"
+          },
+          "coords": [
+            -0.788,
+            41.872
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:13",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang entlang des Flusses.",
+            "hu": "Élvezze a pihentető sétát a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului.",
+            "en": "Enjoy a relaxing stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke (Puente Romano)",
+            "hu": "Római híd (Puente Romano)",
+            "ro": "Podul Roman (Puente Romano)",
+            "en": "Roman Bridge (Puente Romano)"
+          },
+          "coords": [
+            -0.79,
+            41.87
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bietet einen malerischen Blick auf den Fluss Gállego.",
+            "hu": "Festői kilátást nyújt a Gállego folyóra.",
+            "ro": "Oferă o priveliște pitorească asupra râului Gállego.",
+            "en": "Offers a picturesque view of the Gállego river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Zuera auf dem Hauptplatz und bewundern Sie das Rathaus. Erkunden Sie vormittags die historischen Schätze wie die Kirche San Pedro und den Mauren-Bogen. Nach dem Mittagessen im schattigen Portillo Park können Sie einen entspannten Nachmittag am Ufer des Gállego verbringen, über die Römische Brücke schlendern und die ruhige Atmosphäre aufsaugen. Den Abend lassen Sie in einem der lokalen Restaurants bei aragonesischer Küche ausklingen.",
+        "hu": "Kezdje a napot Zuera szívében, a főtéren, megcsodálva a Városházát. A délelőttöt a történelmi kincsek, mint a Szent Péter-templom és a Mór kapu felfedezésével töltse. Az árnyas Portillo parkban elköltött ebéd után egy pihentető délután vár a Gállego folyó partján, ahol átsétálhat a római hídon, és élvezheti a nyugodt légkört. Az estét egy helyi étteremben zárja, aragóniai specialitásokat kóstolva.",
+        "ro": "Începeți ziua în inima orașului Zuera, în piața principală, admirând primăria. Petreceți dimineața explorând comorile istorice, cum ar fi Biserica San Pedro și Arcul Maur. După prânzul în umbrosul Parc Portillo, bucurați-vă de o după-amiază relaxantă pe malurile râului Gállego, traversând Podul Roman și absorbind atmosfera liniștită. Încheiați seara într-un restaurant local, savurând bucătăria aragoneză.",
+        "en": "Start your day in the heart of Zuera at the main square, admiring the Town Hall. Spend the morning exploring historical treasures like the Church of San Pedro and the Moorish Arch. After lunch in the shady Portillo Park, enjoy a relaxing afternoon on the banks of the Gállego River, strolling across the Roman Bridge and soaking up the tranquil atmosphere. Conclude your evening at a local restaurant, savoring Aragonese cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie das berühmte Lammgericht, ein regionales Highlight."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, Chorizo und Trauben."
+          },
+          {
+            "name": "Restaurante El Patio",
+            "tip": "Bekannt für seine authentische aragonesische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg a híres bárányételt, egy regionális különlegességet."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel kenyérmorzsából, chorizóból és szőlőből."
+          },
+          {
+            "name": "Restaurante El Patio",
+            "tip": "Híres az autentikus aragóniai konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați faimosul preparat din miel, o specialitate regională."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet, chorizo și struguri."
+          },
+          {
+            "name": "Restaurante El Patio",
+            "tip": "Renumit pentru bucătăria sa aragoneză autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try the famous lamb dish, a regional highlight."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish of breadcrumbs, chorizo, and grapes."
+          },
+          {
+            "name": "Restaurante El Patio",
+            "tip": "Known for its authentic Aragonese cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Gállego",
+            "tip": "Ein Spaziergang entlang des Flusses am späten Nachmittag ist sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita del Salz",
+            "tip": "Obwohl etwas außerhalb, bietet die Umgebung der Kapelle große Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Gállego",
+            "tip": "Egy késő délutáni séta a folyó mentén nagyon békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita del Salz",
+            "tip": "Bár kicsit kiesik, a kápolna környéke nagy nyugalmat áraszt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Gállego",
+            "tip": "O plimbare de-a lungul râului după-amiaza târziu este foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita del Salz",
+            "tip": "Deși este puțin mai departe, zona din jurul schitului oferă multă liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Gállego",
+            "tip": "A walk along the river in the late afternoon is very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita del Salz",
+            "tip": "Although a bit outside, the area around the hermitage offers great tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten wie Olivenöl und Käse aus Aragón."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Kaufen Sie handgefertigte Keramik oder Textilien als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mint például aragóniai olívaolajat és sajtot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Vásároljon kézzel készített kerámiát vagy textíliát emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale, cum ar fi ulei de măsline și brânză din Aragón."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Cumpărați ceramică sau textile lucrate manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local products like olive oil and cheese from Aragon."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Purchase handmade ceramics or textiles as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, besonders an warmen Tagen.",
+          "Die meisten Geschäfte und einige Sehenswürdigkeiten können während der Siesta am frühen Nachmittag geschlossen sein.",
+          "Genießen Sie das gemächliche Tempo der Stadt; hetzen Sie nicht von einem Ort zum anderen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Vigyen magával újratölthető vizes palackot, különösen a meleg napokon.",
+          "A legtöbb üzlet és néhány látnivaló bezárhat a kora délutáni szieszta idején.",
+          "Élvezze a város lassú tempóját; ne rohanjon egyik helyről a másikra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă, mai ales în zilele calde.",
+          "Majoritatea magazinelor și unele atracții pot fi închise în timpul siestei de la începutul după-amiezii.",
+          "Bucurați-vă de ritmul lent al orașului; nu vă grăbiți de la un loc la altul."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Bring a reusable water bottle, especially on warm days.",
+          "Most shops and some attractions may close for siesta in the early afternoon.",
+          "Enjoy the leisurely pace of the town; don't rush from one spot to another."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Zuera",
+            "hu": "Zuerai Városháza",
+            "ro": "Primăria din Zuera",
+            "en": "Zuera Town Hall"
+          },
+          "coords": [
+            -0.781,
+            41.874
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Platz, um Ihr Fahrrad kurz abzustellen.",
+            "hu": "Jó kiindulópont, ahol van hely a bicikli lezárásához.",
+            "ro": "Un bun punct de plecare, cu spațiu pentru a vă parca bicicleta pentru scurt timp.",
+            "en": "A good starting point with space to lock your bike briefly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -0.7825,
+            41.8751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm, bevor Sie weiterfahren.",
+            "hu": "Csodálja meg a lenyűgöző harangtornyot, mielőtt tovább tekereg.",
+            "ro": "Admirați turnul impunător înainte de a merge mai departe.",
+            "en": "Admire the impressive bell tower before you cycle on."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Gállego (Paseo del Gállego)",
+            "hu": "Gállego-folyó sétánya",
+            "ro": "Promenada Râului Gállego",
+            "en": "Gállego River Promenade"
+          },
+          "coords": [
+            -0.788,
+            41.872
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:07",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist perfekt für eine malerische Fahrt.",
+            "hu": "A folyó menti kerékpárút tökéletes egy festői tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este perfectă pentru o plimbare pitorească.",
+            "en": "The cycle path along the river is perfect for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke (Puente Romano)",
+            "hu": "Római híd (Puente Romano)",
+            "ro": "Podul Roman (Puente Romano)",
+            "en": "Roman Bridge (Puente Romano)"
+          },
+          "coords": [
+            -0.79,
+            41.87
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:58",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie an, um die Aussicht zu genießen und ein paar Fotos zu machen.",
+            "hu": "Álljon meg, hogy élvezze a kilátást és készítsen pár fotót.",
+            "ro": "Opriți-vă pentru a admira priveliștea și a face câteva fotografii.",
+            "en": "Stop to admire the view and take some photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Portillo",
+            "hu": "Portillo park",
+            "ro": "Parcul Portillo",
+            "en": "Portillo Park"
+          },
+          "coords": [
+            -0.785,
+            41.876
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick-Mittagessen.",
+            "hu": "Ideális hely egy piknikebédhez.",
+            "ro": "Un loc ideal pentru un prânz la picnic.",
+            "en": "An ideal spot for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Salz",
+            "hu": "Salz-i Remetelak",
+            "ro": "Schitul Salz",
+            "en": "Ermita del Salz"
+          },
+          "coords": [
+            -0.77,
+            41.88
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt heraus lohnt sich für die Ruhe und die Aussicht.",
+            "hu": "Megéri kigurulni a városból a nyugalomért és a kilátásért.",
+            "ro": "Merită să ieșiți din oraș cu bicicleta pentru liniște și priveliști.",
+            "en": "The ride out of town is worth it for the tranquility and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Reina Sofía",
+            "hu": "Zsófia Királyné Színház",
+            "ro": "Teatrul Reina Sofía",
+            "en": "Reina Sofía Theatre"
+          },
+          "coords": [
+            -0.783,
+            41.8725
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour mit einem Hauch von Kultur ab.",
+            "hu": "Zárja a túrát egy kis kulturális élménnyel.",
+            "ro": "Încheiați turul cu o notă de cultură.",
+            "en": "End your tour with a touch of culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und beginnen Sie am Rathaus. Die Vormittagstour führt Sie zur historischen Kirche San Pedro und dann auf eine malerische Fahrt entlang des Flusses Gállego zur Römischen Brücke. Machen Sie eine Mittagspause im Parque del Portillo, bevor Sie am Nachmittag eine belebende Fahrt zur ruhigen Ermita del Salz unternehmen. Kehren Sie ins Zentrum zurück und beenden Sie Ihren Tag mit einem Blick auf das Theater Reina Sofía.",
+        "hu": "Pattanjon biciklire és induljon a Városházától. A délelőtti túra elvezeti a történelmi Szent Péter-templomhoz, majd egy festői tekerés következik a Gállego folyó mentén a római hídig. Tartson ebédszünetet a Portillo parkban, mielőtt délután egy frissítő útra indul a békés Salz-i remetelakhoz. Térjen vissza a központba, és zárja a napot a Zsófia Királyné Színház megtekintésével.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Primărie. Turul de dimineață vă va duce la istorica Biserică San Pedro și apoi la o plimbare pitorească de-a lungul râului Gállego până la Podul Roman. Luați o pauză de prânz în Parcul Portillo înainte de o plimbare revigorantă de după-amiază la liniștitul Schit Salz. Întoarceți-vă în centru pentru a încheia ziua cu o privire la Teatrul Reina Sofía.",
+        "en": "Hop on your bike and start at the Town Hall. The morning tour takes you to the historic Church of San Pedro, then for a scenic ride along the Gállego river to the Roman Bridge. Take a lunch break in Parque del Portillo before an invigorating afternoon ride to the tranquil Ermita del Salz. Return to the center to finish your day with a look at the Reina Sofía Theatre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Perfekt für ein schnelles und sättigendes Mittagessen für unterwegs."
+          },
+          {
+            "name": "Bodegas de la zona",
+            "tip": "Probieren Sie die lokalen Weine aus der Region Cariñena."
+          },
+          {
+            "name": "Bar La Plaza",
+            "tip": "Ein beliebter Ort für Tapas und ein kühles Getränk nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillók (szendvicsek)",
+            "tip": "Tökéletes egy gyors és laktató ebédhez útközben."
+          },
+          {
+            "name": "Helyi borászatok",
+            "tip": "Kóstolja meg a Cariñena borvidék helyi borait."
+          },
+          {
+            "name": "Bar La Plaza",
+            "tip": "Népszerű hely tapaszra és egy hideg italra a kerékpározás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos (sandvișuri)",
+            "tip": "Perfecte pentru un prânz rapid și sățios în mișcare."
+          },
+          {
+            "name": "Crame locale",
+            "tip": "Degustați vinurile locale din regiunea Cariñena."
+          },
+          {
+            "name": "Bar La Plaza",
+            "tip": "Un loc popular pentru tapas și o băutură rece după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos (sandwiches)",
+            "tip": "Perfect for a quick and filling lunch on the go."
+          },
+          {
+            "name": "Local Wineries",
+            "tip": "Sample the local wines from the Cariñena region."
+          },
+          {
+            "name": "Bar La Plaza",
+            "tip": "A popular spot for tapas and a cold drink after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gállego",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptpromenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel der Ermita del Salz",
+            "tip": "Die Aussicht und die Stille sind die Radtour wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Frühmorgens ist der Park besonders ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gállego folyó partja",
+            "tip": "Keressen egy csendes helyet a fő sétánytól távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ermita del Salz dombja",
+            "tip": "A kilátás és a csend megéri a kerékpártúrát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "A kora reggeli órákban a park különösen csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Gállego",
+            "tip": "Găsiți un loc liniștit departe de promenada principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Ermita del Salz",
+            "tip": "Priveliștea și liniștea merită plimbarea cu bicicleta.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Portillo",
+            "tip": "Dimineața devreme, parcul este deosebit de liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Gállego",
+            "tip": "Find a quiet spot away from the main promenade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Ermita del Salz",
+            "tip": "The views and silence are worth the cycle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Early in the morning, the park is especially peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für alle Last-Minute-Reparaturen oder Zubehörteile."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich energiereiche Snacks für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Minden utolsó pillanatban szükséges javításhoz vagy kiegészítőhöz."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Szerezzen be energiadús harapnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice reparații de ultim moment sau accesorii."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Luați niște gustări energizante pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any last-minute repairs or accessories."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Grab some high-energy snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie am Abend fahren.",
+          "Schließen Sie Ihr Fahrrad immer an sicheren Orten ab.",
+          "Achten Sie auf Fußgänger, insbesondere in den engen Straßen des Stadtzentrums."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárját indulás előtt, különösen a fékeket és a gumikat.",
+          "Viseljen sisakot, és használjon lámpákat, ha este teker.",
+          "Mindig biztonságos helyen zárja le a kerékpárját.",
+          "Vigyázzon a gyalogosokra, különösen a belváros szűk utcáin."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Purtați cască și folosiți lumini dacă mergeți cu bicicleta seara.",
+          "Încuietăți-vă întotdeauna bicicleta în locuri sigure.",
+          "Fiți atenți la pietoni, mai ales pe străzile înguste din centrul orașului."
+        ],
+        "en": [
+          "Check your bike before you start, especially brakes and tires.",
+          "Wear a helmet and use lights if you're riding in the evening.",
+          "Always lock your bike in secure locations.",
+          "Be mindful of pedestrians, especially in the narrow town center streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita del Salz",
+            "hu": "Salz-i Remetelak",
+            "ro": "Schitul Salz",
+            "en": "Ermita del Salz"
+          },
+          "coords": [
+            -0.77,
+            41.88
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer ruhigen Fahrt zu diesem Ort mit Panoramablick.",
+            "hu": "Kezdje a napot egy csendes autózással ehhez a panorámás helyhez.",
+            "ro": "Începeți ziua cu o călătorie liniștită spre acest loc panoramic.",
+            "en": "Start your day with a peaceful drive to this panoramic spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Fluss Gállego",
+            "hu": "Parkoló a Gállego-folyónál",
+            "ro": "Parcare lângă râul Gállego",
+            "en": "Parking near Gállego River"
+          },
+          "coords": [
+            -0.789,
+            41.871
+          ],
+          "category": "transport",
+          "arrive_at": "10:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Flussufer und die Brücke zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a folyópartot és a hidat.",
+            "ro": "Parcați aici pentru a explora malul râului și podul pe jos.",
+            "en": "Park here to explore the riverbank and bridge on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Brücke (Puente Romano)",
+            "hu": "Római híd (Puente Romano)",
+            "ro": "Podul Roman (Puente Romano)",
+            "en": "Roman Bridge (Puente Romano)"
+          },
+          "coords": [
+            -0.79,
+            41.87
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Gállego (Paseo del Gállego)",
+            "hu": "Gállego-folyó sétánya",
+            "ro": "Promenada Râului Gállego",
+            "en": "Gállego River Promenade"
+          },
+          "coords": [
+            -0.788,
+            41.872
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Besuch der Brücke am Fluss entlang.",
+            "hu": "Sétáljon a folyó mentén a híd megtekintése után.",
+            "ro": "Plimbați-vă de-a lungul râului după ce ați vizitat podul.",
+            "en": "Stroll along the river after visiting the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Town Center Parking"
+          },
+          "coords": [
+            -0.782,
+            41.8735
+          ],
+          "category": "transport",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier parken für den Rest des Tages. Mittagessen und Besichtigungen in der Nähe.",
+            "hu": "Parkoljon itt a nap hátralévő részére. Ebéd és látnivalók a közelben.",
+            "ro": "Parcați aici pentru restul zilei. Prânz și obiective turistice în apropiere.",
+            "en": "Park here for the rest of the day. Lunch and sights are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Plaza Mayor",
+            "hu": "Városháza és Főtér",
+            "ro": "Primăria și Plaza Mayor",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            -0.781,
+            41.874
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre und suchen Sie sich ein Restaurant zum Mittagessen.",
+            "hu": "Élvezze a hangulatot és keressen egy éttermet ebédre.",
+            "ro": "Bucurați-vă de atmosferă și găsiți un restaurant pentru prânz.",
+            "en": "Soak in the atmosphere and find a restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -0.7825,
+            41.8751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos und fahren Sie morgens zur ruhigen Ermita del Salz. Fahren Sie dann zum Fluss Gállego, parken Sie und erkunden Sie die Römische Brücke und die Promenade zu Fuß. Am späten Vormittag fahren Sie ins Zentrum, parken für den Rest des Tages und genießen ein gemütliches Mittagessen auf der Plaza Mayor. Der Nachmittag ist der Erkundung des historischen Herzens von Zuera gewidmet, einschließlich der beeindruckenden Kirche San Pedro, alles in Gehweite Ihres Parkplatzes.",
+        "hu": "Használja ki az autó rugalmasságát, és reggel hajtson el a békés Salz-i remetelakhoz. Ezután vezessen a Gállego folyóhoz, parkoljon le, és fedezze fel gyalog a római hidat és a sétányt. Késő délelőtt hajtson be a központba, parkoljon le a nap hátralévő részére, és élvezzen egy kellemes ebédet a Főtéren. A délutánt Zuera történelmi szívének felfedezésével töltse, beleértve a lenyűgöző Szent Péter-templomot, mindent a parkolótól sétatávolságra.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a conduce la liniștitul Schit Salz dimineața. Apoi, mergeți la râul Gállego, parcați și explorați pe jos Podul Roman și promenada. Spre sfârșitul dimineții, conduceți în centru, parcați pentru restul zilei și bucurați-vă de un prânz relaxat în Plaza Mayor. După-amiaza este dedicată explorării inimii istorice a orașului Zuera, inclusiv impunătoarea Biserică San Pedro, totul la distanță de mers pe jos de parcare.",
+        "en": "Use the car's flexibility to drive to the tranquil Ermita del Salz in the morning. Then, head to the Gállego River, park, and explore the Roman Bridge and promenade on foot. In the late morning, drive to the center, park for the rest of the day, and enjoy a leisurely lunch in the Plaza Mayor. The afternoon is for exploring Zuera's historic heart, including the impressive Church of San Pedro, all within walking distance of your parking spot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Las Piscinas",
+            "tip": "Etwas außerhalb, aber mit dem Auto gut erreichbar. Bekannt für gegrilltes Fleisch."
+          },
+          {
+            "name": "Borrajas con patatas",
+            "tip": "Ein typisches Gemüsegericht der Region, das Sie probieren sollten."
+          },
+          {
+            "name": "Vino de Cariñena",
+            "tip": "Begleiten Sie Ihr Essen mit einem Glas kräftigen Rotweins aus der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Las Piscinas",
+            "tip": "Kicsit kijjebb esik, de autóval könnyen elérhető. Grillezett húsairól ismert."
+          },
+          {
+            "name": "Borrajas con patatas",
+            "tip": "A régió tipikus zöldségétele, amelyet érdemes megkóstolni."
+          },
+          {
+            "name": "Cariñenai bor",
+            "tip": "Kísérje az ételt egy pohár testes vörösborral a közeli borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Las Piscinas",
+            "tip": "Puțin în afara orașului, dar ușor accesibil cu mașina. Cunoscut pentru carnea la grătar."
+          },
+          {
+            "name": "Borrajas con patatas",
+            "tip": "Un fel de mâncare tipic cu legume din regiune, pe care ar trebui să-l încercați."
+          },
+          {
+            "name": "Vin de Cariñena",
+            "tip": "Însoțiți masa cu un pahar de vin roșu corpolent din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Las Piscinas",
+            "tip": "A bit outside town but easily accessible by car. Known for grilled meats."
+          },
+          {
+            "name": "Borrajas con patatas",
+            "tip": "A typical vegetable dish from the region you should try."
+          },
+          {
+            "name": "Cariñena Wine",
+            "tip": "Accompany your meal with a glass of bold red wine from nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita del Salz",
+            "tip": "Der perfekte Start in den Tag in absoluter Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Landstraßen um Zuera",
+            "tip": "Genießen Sie die Fahrt durch die aragonesische Landschaft.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Nach dem Mittagessen ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita del Salz",
+            "tip": "Tökéletes napkezdés teljes csendben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vidéki utak Zuera körül",
+            "tip": "Élvezze az autózást az aragóniai tájon keresztül.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Ebéd után egy csendes hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita del Salz",
+            "tip": "Începutul perfect al zilei în liniște absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumuri de țară în jurul Zuera",
+            "tip": "Bucurați-vă de condus prin peisajul aragonez.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parcul Portillo",
+            "tip": "Un loc liniștit pentru a vă relaxa după prânz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita del Salz",
+            "tip": "The perfect start to the day in absolute silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Country roads around Zuera",
+            "tip": "Enjoy the drive through the Aragonese countryside.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "A quiet place to relax after lunch.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Ideal, um lokale Spezialitäten für zu Hause zu kaufen."
+          },
+          {
+            "name": "Olivenöl-Kooperativen",
+            "tip": "Suchen Sie nach Schildern für 'aceite de oliva' auf dem Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Periférikus szupermarketek",
+            "tip": "Ideális helyi specialitások beszerzésére otthonra."
+          },
+          {
+            "name": "Olívaolaj-szövetkezetek",
+            "tip": "Keresse az 'aceite de oliva' táblákat a vidéki utakon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Ideal pentru a cumpăra specialități locale pentru acasă."
+          },
+          {
+            "name": "Cooperative de ulei de măsline",
+            "tip": "Căutați indicatoare pentru 'aceite de oliva' în zonele rurale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Ideal for buying local specialties to take home."
+          },
+          {
+            "name": "Olive Oil Cooperatives",
+            "tip": "Look for 'aceite de oliva' signs in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie die ausgewiesenen Parkplätze.",
+          "Achten Sie auf Einbahnstraßen in den älteren Teilen der Stadt.",
+          "Ein Auto ermöglicht es Ihnen, auch nahe gelegene Dörfer oder Naturstätten zu erkunden.",
+          "Planen Sie Ihre Route im Voraus, um Zeit zu sparen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet; használja a kijelölt parkolókat.",
+          "Vigyázzon az egyirányú utcákra a város régebbi részein.",
+          "Az autó lehetővé teszi a közeli falvak vagy természeti helyek felfedezését is.",
+          "Tervezze meg előre az útvonalat, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Fiți atenți la străzile cu sens unic din părțile mai vechi ale orașului.",
+          "O mașină vă permite să explorați și satele din apropiere sau siturile naturale.",
+          "Planificați-vă ruta în avans pentru a economisi timp."
+        ],
+        "en": [
+          "Parking in the town center can be difficult; use the designated car parks.",
+          "Be aware of one-way streets in the older parts of town.",
+          "A car allows you to explore nearby villages or natural sites as well.",
+          "Plan your route in advance to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Nähe Rathaus)",
+            "hu": "Központi buszmegálló (Városháza közelében)",
+            "ro": "Stație centrală de autobuz (lângă Primărie)",
+            "en": "Central Bus Stop (near Town Hall)"
+          },
+          "coords": [
+            -0.78,
+            41.8745
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung des Stadtzentrums.",
+            "hu": "Kezdje itt a városközpont felfedezését.",
+            "ro": "Începeți explorarea centrului orașului de aici.",
+            "en": "Start your exploration of the town center from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Zuera",
+            "hu": "Zuerai Városháza",
+            "ro": "Primăria din Zuera",
+            "en": "Zuera Town Hall"
+          },
+          "coords": [
+            -0.781,
+            41.874
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            -0.7825,
+            41.8751
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt.",
+            "hu": "Rövid séta az óvárosban.",
+            "ro": "O scurtă plimbare prin orașul vechi.",
+            "en": "A short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Fluss",
+            "hu": "Buszmegálló a folyónál",
+            "ro": "Stație de autobuz lângă râu",
+            "en": "Bus Stop near River"
+          },
+          "coords": [
+            -0.787,
+            41.8725
+          ],
+          "category": "transport",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Cluster zu gelangen.",
+            "hu": "Vegyen egy helyi buszt a következő csoporthoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul grup de obiective.",
+            "en": "Take a local bus to get to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade am Gállego (Paseo del Gállego)",
+            "hu": "Gállego-folyó sétánya",
+            "ro": "Promenada Râului Gállego",
+            "en": "Gállego River Promenade"
+          },
+          "coords": [
+            -0.788,
+            41.872
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am Flussufer direkt von der Haltestelle aus.",
+            "hu": "Kezdje a sétát a folyóparton közvetlenül a megállótól.",
+            "ro": "Începeți plimbarea pe malul râului direct de la stație.",
+            "en": "Start your riverbank walk right from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Portillo",
+            "hu": "Portillo park",
+            "ro": "Parcul Portillo",
+            "en": "Portillo Park"
+          },
+          "coords": [
+            -0.785,
+            41.876
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang führt Sie zu diesem Park für eine ausgiebige Mittagspause.",
+            "hu": "Egy hosszabb séta vezet ehhez a parkhoz egy kiadós ebédszünetre.",
+            "ro": "O plimbare mai lungă vă va duce la acest parc pentru o pauză de prânz extinsă.",
+            "en": "A longer walk will take you to this park for an extended lunch break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle und erkunden Sie den ersten Cluster zu Fuß: das Rathaus und die Kirche San Pedro. Am Vormittag nehmen Sie einen Bus zum Flussufer für den zweiten Cluster. Verbringen Sie Zeit an der Promenade und genießen Sie ein Picknick-Mittagessen im weitläufigen Parque del Portillo. Am Nachmittag können Sie entweder zurück ins Zentrum spazieren oder einen Bus nehmen, um weitere Gassen zu erkunden, bevor Sie Ihre Reise beenden.",
+        "hu": "Kezdje a napot a központi buszmegállónál, és fedezze fel gyalog az első látnivalócsoportot: a Városházát és a Szent Péter-templomot. Délelőtt szálljon buszra a folyóparthoz, a második csoporthoz. Töltsön időt a sétányon, és piknikezzen egyet a tágas Portillo parkban. Délután vagy sétáljon vissza a központba, vagy szálljon buszra, hogy további utcákat fedezzen fel, mielőtt befejezi a kirándulást.",
+        "ro": "Începeți ziua la stația centrală de autobuz și explorați primul grup de obiective pe jos: Primăria și Biserica San Pedro. Dimineața, luați un autobuz până la malul râului pentru al doilea grup. Petreceți timp pe promenadă și bucurați-vă de un prânz la picnic în spațiosul Parc Portillo. După-amiaza, puteți merge înapoi în centru sau puteți lua un autobuz pentru a explora mai multe străduțe înainte de a vă încheia călătoria.",
+        "en": "Start your day at the central bus stop and explore the first cluster on foot: the Town Hall and the Church of San Pedro. In the morning, take a bus to the riverside for the second cluster. Spend time on the promenade and enjoy a picnic lunch in the spacious Parque del Portillo. In the afternoon, you can either walk back to the center or take a bus to explore more alleys before ending your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bars im Zentrum",
+            "tip": "In der Nähe der ersten Haltestelle finden Sie viele Möglichkeiten für einen schnellen Happen."
+          },
+          {
+            "name": "Panadería für Picknick",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für Ihr Mittagessen im Park."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein süßer Genuss am Nachmittag, um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bárok a központban",
+            "tip": "Az első megálló közelében számos lehetőséget talál egy gyors falatra."
+          },
+          {
+            "name": "Pékség a piknikhez",
+            "tip": "Vásároljon friss kenyeret és süteményeket az ebédjéhez a parkban."
+          },
+          {
+            "name": "Churros csokoládéval",
+            "tip": "Édes délutáni csemege az energia pótlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de tapas în centru",
+            "tip": "Lângă prima stație veți găsi multe opțiuni pentru o gustare rapidă."
+          },
+          {
+            "name": "Brutărie pentru picnic",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru prânzul în parc."
+          },
+          {
+            "name": "Churros cu ciocolată",
+            "tip": "Un deliciu dulce de după-amiază pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas Bars in the Center",
+            "tip": "Near the first stop, you'll find many options for a quick bite."
+          },
+          {
+            "name": "Bakery for a Picnic",
+            "tip": "Buy fresh bread and pastries for your lunch in the park."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A sweet afternoon treat to recharge your energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nebenstraßen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen Gassen abseits der Hauptwege.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Ein großer Park, in dem man immer eine ruhige Ecke findet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Flussufer",
+            "tip": "Das Geräusch des Wassers wirkt sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óváros mellékutcái",
+            "tip": "Vesszen el a csendes sikátorokban a fő útvonalaktól távol.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "Nagy park, ahol mindig talál egy csendes zugot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Folyópart",
+            "tip": "A víz hangja nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțele secundare ale orașului vechi",
+            "tip": "Pierdeți-vă pe aleile liniștite, departe de cărările principale.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Parcul Portillo",
+            "tip": "Un parc mare unde puteți găsi întotdeauna un colț liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului",
+            "tip": "Sunetul apei este foarte calmant.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Side Streets",
+            "tip": "Get lost in the quiet alleys away from the main paths.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Parque del Portillo",
+            "tip": "A large park where you can always find a quiet corner.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverbank",
+            "tip": "The sound of the water is very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie hier Ihre Bustickets und Snacks."
+          },
+          {
+            "name": "Lokale Geschäfte im Zentrum",
+            "tip": "Unterstützen Sie die lokale Wirtschaft, indem Sie in kleinen Läden einkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Itt vásárolhat buszjegyet és rágcsálnivalókat."
+          },
+          {
+            "name": "Helyi üzletek a központban",
+            "tip": "Támogassa a helyi gazdaságot azzal, hogy kis boltokban vásárol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați-vă biletele de autobuz și gustările de aici."
+          },
+          {
+            "name": "Magazine locale din centru",
+            "tip": "Susțineți economia locală cumpărând din magazinele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy your bus tickets and snacks here."
+          },
+          {
+            "name": "Local Shops in the Center",
+            "tip": "Support the local economy by shopping at small stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Busfahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht sehr häufig fahren.",
+          "Haben Sie Kleingeld für die Tickets dabei.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar, sodass Sie den Bus nur für größere Entfernungen benötigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több buszozást tervez.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Legyen nálad aprópénz a jegyekhez.",
+          "A központi látnivalók többsége könnyen elérhető gyalog, így a buszra csak nagyobb távolságokhoz lesz szüksége."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii cu autobuzul.",
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule foarte des.",
+          "Aveți la dumneavoastră mărunțiș pentru bilete.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos, deci veți avea nevoie de autobuz doar pentru distanțe mai mari."
+        ],
+        "en": [
+          "Buy a day pass if you plan on taking multiple bus rides.",
+          "Check the bus schedule in advance, as services might not be very frequent.",
+          "Have small change ready for tickets.",
+          "Most central sights are easily walkable, so you'll only need the bus for longer distances."
+        ]
+      }
+    }
+  }
+}

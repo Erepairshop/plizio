@@ -1,0 +1,1464 @@
+{
+  "city_id": "portugal-estremoz-cities-v2",
+  "anchor": {
+    "name": "Estremoz",
+    "coords": [
+      -7.5867,
+      38.8412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rossio Marquês de Pombal",
+            "hu": "Rossio Marquês de Pombal",
+            "ro": "Piața Rossio Marquês de Pombal",
+            "en": "Rossio Marquês de Pombal"
+          },
+          "coords": [
+            -7.5901,
+            38.8425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés und beobachten Sie das lokale Leben auf diesem riesigen Platz.",
+            "hu": "Igyon meg egy kávét a téren található kávézók egyikében, és figyelje a helyi életet.",
+            "ro": "Savurați o cafea la una dintre cafenelele din piață și observați viața locală.",
+            "en": "Enjoy a coffee at one of the square's cafes and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Paços do Concelho)",
+            "hu": "Városháza (Paços do Concelho)",
+            "ro": "Primăria (Paços do Concelho)",
+            "en": "Town Hall (Paços do Concelho)"
+          },
+          "coords": [
+            -7.5895,
+            38.8418
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Architektur, ein ehemaliges Kloster, das zum Verwaltungszentrum umgebaut wurde.",
+            "hu": "Figyelje meg az építészetet; egy egykori kolostor, amelyet közigazgatási központtá alakítottak át.",
+            "ro": "Observați arhitectura, o fostă mănăstire transformată în centru administrativ.",
+            "en": "Note the architecture, a former convent repurposed into the administrative center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Prof. Joaquim Vermelho",
+            "hu": "Prof. Joaquim Vermelho Városi Múzeum",
+            "ro": "Muzeul Municipal Prof. Joaquim Vermelho",
+            "en": "Municipal Museum Prof. Joaquim Vermelho"
+          },
+          "coords": [
+            -7.5898,
+            38.8431
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Sammlung von Töpferwaren und lokalen Artefakten ist beeindruckend. Ein Muss für Handwerksliebhaber.",
+            "hu": "A múzeum kerámia- és helyi műtárgygyűjteménye lenyűgöző. A kézművesség kedvelőinek kötelező.",
+            "ro": "Colecția de ceramică și artefacte locale este impresionantă. O vizită obligatorie pentru iubitorii de artizanat.",
+            "en": "The collection of pottery and local artifacts is impressive. A must-see for craft lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Estremoz",
+            "hu": "Estremozi vár",
+            "ro": "Castelul din Estremoz",
+            "en": "Castle of Estremoz"
+          },
+          "coords": [
+            -7.5867,
+            38.8412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine 360-Grad-Aussicht auf die Alentejo-Ebene. Der Aufstieg lohnt sich.",
+            "hu": "Másszon fel a toronyba a 360 fokos kilátásért az Alentejo-síkságra. Megéri a fáradságot.",
+            "ro": "Urcați în turn pentru o priveliște de 360 de grade asupra câmpiilor Alentejo. Urcușul merită.",
+            "en": "Climb the tower for a 360-degree view of the Alentejo plains. The climb is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm der drei Kronen",
+            "hu": "Három Korona tornya",
+            "ro": "Turnul celor Trei Coroane",
+            "en": "Tower of the Three Crowns"
+          },
+          "coords": [
+            -7.5865,
+            38.841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser Turm ist Teil der königlichen Legende von Estremoz. Ein großartiger Fotopunkt.",
+            "hu": "Ez a torony Estremoz királyi legendájának része. Nagyszerű fotóhelyszín.",
+            "ro": "Acest turn face parte din legenda regală a orașului Estremoz. Un punct foto excelent.",
+            "en": "This tower is part of the royal legend of Estremoz. A great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.587,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine einfache, aber elegante Kirche im gotischen Stil. Suchen Sie nach den Azulejo-Fliesen im Inneren.",
+            "hu": "Egyszerű, de elegáns gótikus stílusú templom. Keresse a belső azulejo csempéket.",
+            "ro": "O biserică simplă, dar elegantă, în stil gotic. Căutați panourile de azulejos în interior.",
+            "en": "A simple yet elegant Gothic-style church. Look for the azulejo tile panels inside."
+          }
+        },
+        {
+          "name": {
+            "de": "São Francisco Kloster",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea São Francisco",
+            "en": "Convent of São Francisco"
+          },
+          "coords": [
+            -7.5915,
+            38.842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Königsgräber und die beeindruckende Architektur machen dies zu einem wichtigen historischen Ort.",
+            "hu": "A királyi sírok és a lenyűgöző építészet teszi ezt a helyet fontos történelmi helyszínné.",
+            "ro": "Mormintele regale și arhitectura impresionantă fac din acest loc un sit istoric important.",
+            "en": "The royal tombs and impressive architecture make this a key historical site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Rossio-Platz. Am Vormittag erkunden Sie das Herz der Unterstadt, einschließlich des städtischen Museums. Nach dem Mittagessen steigen Sie zur mittelalterlichen Oberstadt hinauf, um die Burg und die alten Kirchen zu erkunden. Der späte Nachmittag ist für das ruhige São Francisco Kloster reserviert, bevor Sie den Abend bei einem Glas Alentejo-Wein ausklingen lassen.",
+        "hu": "Kezdje a napot a tágas Rossio téren. Délelőtt fedezze fel az alsóváros szívét, beleértve a városi múzeumot. Ebéd után másszon fel a középkori felsővárosba, hogy felfedezze a várat és a régi templomokat. A késő délutánt a csendes São Francisco kolostornak szentelje, mielőtt egy pohár Alentejo borral zárja az estét.",
+        "ro": "Începeți ziua în spațioasa Piață Rossio. Dimineața, explorați inima orașului de jos, inclusiv muzeul municipal. După prânz, urcați spre orașul medieval de sus pentru a explora castelul și bisericile vechi. După-amiaza târziu este rezervată pentru liniștita Mănăstire São Francisco, înainte de a încheia seara cu un pahar de vin de Alentejo.",
+        "en": "Start your day in the expansive Rossio square. In the morning, explore the heart of the lower town, including the municipal museum. After lunch, ascend to the medieval upper town to explore the castle and ancient churches. The late afternoon is reserved for the serene Convent of São Francisco before finishing the evening with a glass of Alentejo wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Schweinefleisch (Porco Preto)",
+            "tip": "Probieren Sie die gegrillten 'secretos' oder 'plumas' in einem lokalen Restaurant."
+          },
+          {
+            "name": "Lamm-Eintopf (Ensopado de Borrego)",
+            "tip": "Ein herzhaftes traditionelles Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein lokales Ei-Pudding-Dessert, oft mit Pflaumen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete sertés (Porco Preto)",
+            "tip": "Kóstolja meg a grillezett 'secretos'-t vagy 'plumas'-t egy helyi étteremben."
+          },
+          {
+            "name": "Báránypörkölt (Ensopado de Borrego)",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Helyi tojásos desszert, gyakran szilvával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de porc negru (Porco Preto)",
+            "tip": "Încercați 'secretos' sau 'plumas' la grătar la un restaurant local."
+          },
+          {
+            "name": "Tocăniță de miel (Ensopado de Borrego)",
+            "tip": "Un fel de mâncare tradițional consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert local cu ouă, adesea servit cu prune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Pork (Porco Preto)",
+            "tip": "Try the grilled 'secretos' or 'plumas' cuts at a local restaurant."
+          },
+          {
+            "name": "Lamb Stew (Ensopado de Borrego)",
+            "tip": "A hearty traditional dish, perfect after a long walk."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A local egg pudding dessert, often served with plums."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Burgturm",
+            "tip": "Die friedliche Aussicht über die Ebenen bei Sonnenuntergang ist unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Pousada",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten des Schlosshotels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Mauern",
+            "tip": "Ein ruhiger Spaziergang entlang der alten Stadtmauern am späten Nachmittag.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "A naplementekor a síkságra nyíló békés kilátás verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Pousada kertjei",
+            "tip": "Találjon egy csendes sarkot a várhotel kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a falak mentén",
+            "tip": "Késő délutáni csendes séta a régi városfalak mentén.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Priveliștea pașnică asupra câmpiilor la apus este de neegalat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Pousadei",
+            "tip": "Găsiți un colț liniștit în grădinile hotelului-castel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul zidurilor",
+            "tip": "O plimbare liniștită de-a lungul zidurilor vechi ale orașului, după-amiaza târziu.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Tower",
+            "tip": "The peaceful view over the plains at sunset is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Pousada",
+            "tip": "Find a quiet corner in the gardens of the castle hotel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the walls",
+            "tip": "A quiet walk along the old city walls in the late afternoon.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmorgegenstände",
+            "tip": "Suchen Sie nach kleinen Souvenirs aus dem berühmten Marmor von Estremoz."
+          },
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Die handbemalten Töpferwaren sind ein schönes und authentisches Andenken."
+          },
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, verpassen Sie nicht den großen Markt am Rossio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány tárgyak",
+            "tip": "Keressen apró ajándéktárgyakat a híres estremozi márványból."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "A kézzel festett kerámiák gyönyörű és autentikus emléktárgyak."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "Ha szombaton van itt, ne hagyja ki a nagy piacot a Rossión."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din marmură",
+            "tip": "Căutați mici suveniruri realizate din faimoasa marmură de Estremoz."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Dacă sunteți aici într-o sâmbătă, nu ratați piața mare din Rossio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble items",
+            "tip": "Look for small souvenirs made from the famous Estremoz marble."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "The hand-painted pottery makes for a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "If you're here on a Saturday, don't miss the huge market on the Rossio."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Aufstieg zur Oberstadt steil ist.",
+          "Viele Geschäfte schließen zur Mittagszeit, also planen Sie entsprechend.",
+          "Probieren Sie unbedingt den lokalen Wein.",
+          "Halten Sie Ausschau nach den 'bonecos de Estremoz', traditionellen Tonfiguren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a felsővárosba vezető út meredek.",
+          "Sok üzlet bezár ebédidőben, ezért tervezzen ennek megfelelően.",
+          "Mindenképpen kóstolja meg a helyi bort.",
+          "Keresse a 'bonecos de Estremoz'-t, a hagyományos agyagfigurákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece urcarea spre orașul de sus este abruptă.",
+          "Multe magazine se închid la prânz, așa că planificați-vă în consecință.",
+          "Asigurați-vă că gustați vinul local.",
+          "Căutați 'bonecos de Estremoz', figurine tradiționale din lut."
+        ],
+        "en": [
+          "Wear comfortable shoes as the climb to the upper town is steep.",
+          "Many shops close for lunch, so plan accordingly.",
+          "Be sure to taste the local wine.",
+          "Look out for the 'bonecos de Estremoz', traditional clay figurines."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rossio Marquês de Pombal",
+            "hu": "Rossio Marquês de Pombal",
+            "ro": "Piața Rossio Marquês de Pombal",
+            "en": "Rossio Marquês de Pombal"
+          },
+          "coords": [
+            -7.5901,
+            38.8425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt, um sich zu orientieren und die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Tökéletes kiindulópont a tájékozódáshoz és a város hangulatának magába szívásához.",
+            "ro": "Punctul de plecare perfect pentru a vă orienta și a absorbi atmosfera orașului.",
+            "en": "Perfect starting point to get your bearings and soak up the city's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Tore von Évora",
+            "hu": "Évorai kapuk",
+            "ro": "Porțile din Évora",
+            "en": "Gates of Évora"
+          },
+          "coords": [
+            -7.589,
+            38.8389
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eines der alten Tore der Stadt. Stellen Sie sich die Händler vor, die hier vor Jahrhunderten ankamen.",
+            "hu": "A város egyik régi kapuja. Képzelje el az évszázadokkal ezelőtt ide érkező kereskedőket.",
+            "ro": "Una dintre vechile porți ale orașului. Imaginați-vă negustorii care soseau aici cu secole în urmă.",
+            "en": "One of the old gates to the city. Imagine the traders arriving here centuries ago."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Prof. Joaquim Vermelho",
+            "hu": "Prof. Joaquim Vermelho Városi Múzeum",
+            "ro": "Muzeul Municipal Prof. Joaquim Vermelho",
+            "en": "Municipal Museum Prof. Joaquim Vermelho"
+          },
+          "coords": [
+            -7.5898,
+            38.8431
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine willkommene Pause vom Radfahren. Die Ausstellung ist faszinierend.",
+            "hu": "Kellemes pihenő a biciklizés után. A kiállítás lenyűgöző.",
+            "ro": "O pauză binevenită de la ciclism. Expoziția este fascinantă.",
+            "en": "A welcome break from cycling. The exhibition is fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Estremoz",
+            "hu": "Estremozi vár",
+            "ro": "Castelul din Estremoz",
+            "en": "Castle of Estremoz"
+          },
+          "coords": [
+            -7.5867,
+            38.8412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist eine Herausforderung, aber die Belohnung ist eine der besten Aussichten im Alentejo.",
+            "hu": "A hegymászás kihívást jelent, de a jutalom az egyik legjobb kilátás Alentejóban.",
+            "ro": "Urcușul este o provocare, dar recompensa este una dintre cele mai bune priveliști din Alentejo.",
+            "en": "The climb is a challenge, but the reward is one of the best views in Alentejo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.587,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Stille dieses alten Gotteshauses.",
+            "hu": "Parkolja le a biciklijét, és élvezze ennek a régi istenházának a csendjét.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniștea acestei vechi case de cult.",
+            "en": "Park your bike and enjoy the silence of this ancient house of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "São Francisco Kloster",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea São Francisco",
+            "en": "Convent of São Francisco"
+          },
+          "coords": [
+            -7.5915,
+            38.842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die reiche Geschichte der Stadt aufzusaugen, bevor Sie zurück ins Zentrum fahren.",
+            "hu": "Egy utolsó megálló, hogy magába szívja a város gazdag történelmét, mielőtt visszatér a központba.",
+            "ro": "O ultimă oprire pentru a absorbi istoria bogată a orașului înainte de a vă întoarce în centru.",
+            "en": "A final stop to soak in the city's rich history before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt auf dem Rossio-Platz. Am Morgen radeln Sie zu den alten Stadttoren, bevor Sie das Museum besuchen. Nach dem Mittagessen nehmen Sie den anspruchsvollen Anstieg zur Burg in Angriff, wo Sie mit einer atemberaubenden Aussicht belohnt werden. Der Nachmittag führt Sie zu den historischen Kirchen der Oberstadt und endet am São Francisco Kloster.",
+        "hu": "A kerékpártúra a Rossio téren kezdődik. Reggel tekerjen el a régi városkapukhoz, mielőtt meglátogatná a múzeumot. Ebéd után vágjon neki a kihívást jelentő emelkedőnek a várhoz, ahol lenyűgöző kilátás várja. A délután a felsőváros történelmi templomaihoz vezet, és a São Francisco kolostornál ér véget.",
+        "ro": "Turul cu bicicleta începe în Piața Rossio. Dimineața, pedalați spre vechile porți ale orașului înainte de a vizita muzeul. După prânz, abordați urcarea provocatoare spre castel, unde veți fi răsplătit cu priveliști uimitoare. După-amiaza vă poartă spre bisericile istorice din orașul de sus și se încheie la Mănăstirea São Francisco.",
+        "en": "Your bike tour starts in Rossio square. In the morning, you'll cycle to the old city gates before visiting the museum. After lunch, you'll tackle the challenging climb to the castle, where stunning views await. The afternoon takes you to the historic churches of the upper town, ending at the Convent of São Francisco."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Schweinefleisch (Porco Preto)",
+            "tip": "Probieren Sie die gegrillten 'secretos' oder 'plumas' in einem lokalen Restaurant."
+          },
+          {
+            "name": "Lamm-Eintopf (Ensopado de Borrego)",
+            "tip": "Ein herzhaftes traditionelles Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein lokales Ei-Pudding-Dessert, oft mit Pflaumen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete sertés (Porco Preto)",
+            "tip": "Kóstolja meg a grillezett 'secretos'-t vagy 'plumas'-t egy helyi étteremben."
+          },
+          {
+            "name": "Báránypörkölt (Ensopado de Borrego)",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Helyi tojásos desszert, gyakran szilvával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de porc negru (Porco Preto)",
+            "tip": "Încercați 'secretos' sau 'plumas' la grătar la un restaurant local."
+          },
+          {
+            "name": "Tocăniță de miel (Ensopado de Borrego)",
+            "tip": "Un fel de mâncare tradițional consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert local cu ouă, adesea servit cu prune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Pork (Porco Preto)",
+            "tip": "Try the grilled 'secretos' or 'plumas' cuts at a local restaurant."
+          },
+          {
+            "name": "Lamb Stew (Ensopado de Borrego)",
+            "tip": "A hearty traditional dish, perfect after a long walk."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A local egg pudding dessert, often served with plums."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Burgturm",
+            "tip": "Die friedliche Aussicht über die Ebenen bei Sonnenuntergang ist unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Pousada",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten des Schlosshotels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Mauern",
+            "tip": "Ein ruhiger Spaziergang entlang der alten Stadtmauern am späten Nachmittag.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "A naplementekor a síkságra nyíló békés kilátás verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Pousada kertjei",
+            "tip": "Találjon egy csendes sarkot a várhotel kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a falak mentén",
+            "tip": "Késő délutáni csendes séta a régi városfalak mentén.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Priveliștea pașnică asupra câmpiilor la apus este de neegalat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Pousadei",
+            "tip": "Găsiți un colț liniștit în grădinile hotelului-castel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul zidurilor",
+            "tip": "O plimbare liniștită de-a lungul zidurilor vechi ale orașului, după-amiaza târziu.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Tower",
+            "tip": "The peaceful view over the plains at sunset is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Pousada",
+            "tip": "Find a quiet corner in the gardens of the castle hotel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the walls",
+            "tip": "A quiet walk along the old city walls in the late afternoon.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmorgegenstände",
+            "tip": "Suchen Sie nach kleinen Souvenirs aus dem berühmten Marmor von Estremoz."
+          },
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Die handbemalten Töpferwaren sind ein schönes und authentisches Andenken."
+          },
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, verpassen Sie nicht den großen Markt am Rossio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány tárgyak",
+            "tip": "Keressen apró ajándéktárgyakat a híres estremozi márványból."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "A kézzel festett kerámiák gyönyörű és autentikus emléktárgyak."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "Ha szombaton van itt, ne hagyja ki a nagy piacot a Rossión."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din marmură",
+            "tip": "Căutați mici suveniruri realizate din faimoasa marmură de Estremoz."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Dacă sunteți aici într-o sâmbătă, nu ratați piața mare din Rossio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble items",
+            "tip": "Look for small souvenirs made from the famous Estremoz marble."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "The hand-painted pottery makes for a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "If you're here on a Saturday, don't miss the huge market on the Rossio."
+          }
+        ]
+      },
+      "tips": [
+        "Das Gelände ist hügelig, seien Sie also auf einige Anstiege vorbereitet.",
+        "Schließen Sie Ihr Fahrrad an den Hauptattraktionen sicher ab.",
+        "Nehmen Sie Wasser mit, besonders im Sommer.",
+        "Ein Mountainbike ist für das Kopfsteinpflaster besser geeignet als ein Rennrad."
+      ]
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Rossio Marquês de Pombal",
+            "hu": "Parkolás a Rossio Marquês de Pombalnál",
+            "ro": "Parcare la Rossio Marquês de Pombal",
+            "en": "Parking at Rossio Marquês de Pombal"
+          },
+          "coords": [
+            -7.5901,
+            38.8425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihre Erkundung der Unterstadt zu Fuß.",
+            "hu": "Parkoljon itt, és kezdje meg az alsóváros gyalogos felfedezését.",
+            "ro": "Parcați aici și începeți explorarea orașului de jos pe jos.",
+            "en": "Park here and start your exploration of the lower town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Prof. Joaquim Vermelho",
+            "hu": "Prof. Joaquim Vermelho Városi Múzeum",
+            "ro": "Muzeul Municipal Prof. Joaquim Vermelho",
+            "en": "Municipal Museum Prof. Joaquim Vermelho"
+          },
+          "coords": [
+            -7.5898,
+            38.8431
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rossio-Platz. Die Töpferwaren-Sammlung ist ein Highlight.",
+            "hu": "Rövid séta a Rossio térről. A kerámiagyűjtemény a fénypont.",
+            "ro": "La o scurtă plimbare de Piața Rossio. Colecția de ceramică este un punct culminant.",
+            "en": "A short walk from Rossio square. The pottery collection is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "São Francisco Kloster",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea São Francisco",
+            "en": "Convent of São Francisco"
+          },
+          "coords": [
+            -7.5915,
+            38.842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ebenfalls in der Unterstadt gelegen, ein Muss wegen seiner königlichen Gräber.",
+            "hu": "Szintén az alsóvárosban található, a királyi sírok miatt kihagyhatatlan.",
+            "ro": "Situată tot în orașul de jos, este o vizită obligatorie pentru mormintele sale regale.",
+            "en": "Also located in the lower town, a must-visit for its royal tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Burg von Estremoz",
+            "hu": "Autóval az Estremozi várhoz",
+            "ro": "Cu mașina la Castelul din Estremoz",
+            "en": "Drive to Castle of Estremoz"
+          },
+          "coords": [
+            -7.5867,
+            38.8412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach oben und parken Sie. Erkunden Sie den gesamten oberen Bereich zu Fuß.",
+            "hu": "Vezessen fel a hegyre és parkoljon. Fedezze fel az egész felső részt gyalog.",
+            "ro": "Conduceți până sus și parcați. Explorați întreaga zonă superioară pe jos.",
+            "en": "Drive up and park. Explore the entire upper area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm der drei Kronen",
+            "hu": "Három Korona tornya",
+            "ro": "Turnul celor Trei Coroane",
+            "en": "Tower of the Three Crowns"
+          },
+          "coords": [
+            -7.5865,
+            38.841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Hauptburg, leicht zu Fuß erreichbar.",
+            "hu": "Közvetlenül a fő vár mellett, könnyen megközelíthető gyalog.",
+            "ro": "Chiar lângă castelul principal, ușor de ajuns pe jos.",
+            "en": "Right next to the main castle, an easy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.587,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Oberstadt führt Sie zu dieser charmanten Kirche.",
+            "hu": "Egy rövid séta a felsővároson keresztül elvezeti ehhez a bájos templomhoz.",
+            "ro": "O scurtă plimbare prin orașul de sus vă va duce la această biserică fermecătoare.",
+            "en": "A short walk through the upper town will lead you to this charming church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Unterstadt und erkunden Sie am Morgen den Rossio-Platz und die nahegelegenen Museen und Klöster zu Fuß. Nach dem Mittagessen fahren Sie den Hügel hinauf zur Oberstadt. Parken Sie erneut und verbringen Sie den Nachmittag damit, die Burg, Türme und Kirchen dieses historischen Viertels zu Fuß zu erkunden, bevor Sie die Panoramablicke genießen.",
+        "hu": "Parkolja le autóját az alsóvárosban, és délelőtt gyalog fedezze fel a Rossio teret és a közeli múzeumokat, kolostorokat. Ebéd után vezessen fel a dombra a felsővárosba. Parkoljon le újra, és töltse a délutánt a vár, a tornyok és a templomok gyalogos felfedezésével, mielőtt gyönyörködne a panorámában.",
+        "ro": "Parcați mașina în orașul de jos și explorați pe jos Piața Rossio și muzeele și mănăstirile din apropiere dimineața. După prânz, conduceți pe deal spre orașul de sus. Parcați din nou și petreceți după-amiaza explorând pe jos castelul, turnurile și bisericile din acest cartier istoric, înainte de a vă bucura de priveliștile panoramice.",
+        "en": "Park your car in the lower town and explore Rossio square and the nearby museums and convents on foot in the morning. After lunch, drive up the hill to the upper town. Park again and spend the afternoon exploring the castle, towers, and churches of this historic quarter on foot before enjoying the panoramic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Schweinefleisch (Porco Preto)",
+            "tip": "Probieren Sie die gegrillten 'secretos' oder 'plumas' in einem lokalen Restaurant."
+          },
+          {
+            "name": "Lamm-Eintopf (Ensopado de Borrego)",
+            "tip": "Ein herzhaftes traditionelles Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein lokales Ei-Pudding-Dessert, oft mit Pflaumen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete sertés (Porco Preto)",
+            "tip": "Kóstolja meg a grillezett 'secretos'-t vagy 'plumas'-t egy helyi étteremben."
+          },
+          {
+            "name": "Báránypörkölt (Ensopado de Borrego)",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Helyi tojásos desszert, gyakran szilvával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de porc negru (Porco Preto)",
+            "tip": "Încercați 'secretos' sau 'plumas' la grătar la un restaurant local."
+          },
+          {
+            "name": "Tocăniță de miel (Ensopado de Borrego)",
+            "tip": "Un fel de mâncare tradițional consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert local cu ouă, adesea servit cu prune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Pork (Porco Preto)",
+            "tip": "Try the grilled 'secretos' or 'plumas' cuts at a local restaurant."
+          },
+          {
+            "name": "Lamb Stew (Ensopado de Borrego)",
+            "tip": "A hearty traditional dish, perfect after a long walk."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A local egg pudding dessert, often served with plums."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Burgturm",
+            "tip": "Die friedliche Aussicht über die Ebenen bei Sonnenuntergang ist unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Pousada",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten des Schlosshotels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Mauern",
+            "tip": "Ein ruhiger Spaziergang entlang der alten Stadtmauern am späten Nachmittag.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "A naplementekor a síkságra nyíló békés kilátás verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Pousada kertjei",
+            "tip": "Találjon egy csendes sarkot a várhotel kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a falak mentén",
+            "tip": "Késő délutáni csendes séta a régi városfalak mentén.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Priveliștea pașnică asupra câmpiilor la apus este de neegalat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Pousadei",
+            "tip": "Găsiți un colț liniștit în grădinile hotelului-castel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul zidurilor",
+            "tip": "O plimbare liniștită de-a lungul zidurilor vechi ale orașului, după-amiaza târziu.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Tower",
+            "tip": "The peaceful view over the plains at sunset is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Pousada",
+            "tip": "Find a quiet corner in the gardens of the castle hotel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the walls",
+            "tip": "A quiet walk along the old city walls in the late afternoon.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmorgegenstände",
+            "tip": "Suchen Sie nach kleinen Souvenirs aus dem berühmten Marmor von Estremoz."
+          },
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Die handbemalten Töpferwaren sind ein schönes und authentisches Andenken."
+          },
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, verpassen Sie nicht den großen Markt am Rossio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány tárgyak",
+            "tip": "Keressen apró ajándéktárgyakat a híres estremozi márványból."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "A kézzel festett kerámiák gyönyörű és autentikus emléktárgyak."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "Ha szombaton van itt, ne hagyja ki a nagy piacot a Rossión."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din marmură",
+            "tip": "Căutați mici suveniruri realizate din faimoasa marmură de Estremoz."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Dacă sunteți aici într-o sâmbătă, nu ratați piața mare din Rossio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble items",
+            "tip": "Look for small souvenirs made from the famous Estremoz marble."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "The hand-painted pottery makes for a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "If you're here on a Saturday, don't miss the huge market on the Rossio."
+          }
+        ]
+      },
+      "tips": [
+        "Das Parken in der Unterstadt ist einfacher. Der Aufstieg zu Fuß ist steil.",
+        "Beachten Sie die Einbahnstraßen in der Altstadt.",
+        "Mit dem Auto können Sie auch die nahegelegenen Marmorsteinbrüche besuchen.",
+        "Samstags ist der Rossio wegen des Marktes für den Verkehr gesperrt."
+      ]
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rossio Marquês de Pombal",
+            "hu": "Rossio Marquês de Pombal",
+            "ro": "Piața Rossio Marquês de Pombal",
+            "en": "Rossio Marquês de Pombal"
+          },
+          "coords": [
+            -7.5901,
+            38.8425
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, wo sich die wichtigsten Bushaltestellen befinden.",
+            "hu": "Kezdje itt, ahol a fő buszmegállók találhatók.",
+            "ro": "Începeți de aici, unde se află principalele stații de autobuz.",
+            "en": "Start here, where the main bus stops are located."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Prof. Joaquim Vermelho",
+            "hu": "Prof. Joaquim Vermelho Városi Múzeum",
+            "ro": "Muzeul Municipal Prof. Joaquim Vermelho",
+            "en": "Municipal Museum Prof. Joaquim Vermelho"
+          },
+          "coords": [
+            -7.5898,
+            38.8431
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Rossio aus zu erreichen. Ein tiefer Einblick in die lokale Kultur.",
+            "hu": "Könnyen megközelíthető gyalog a Rossio térről. Mély betekintés a helyi kultúrába.",
+            "ro": "Ușor de accesat pe jos din Rossio. O incursiune profundă în cultura locală.",
+            "en": "Easily walkable from the Rossio. A deep dive into local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Oberstadt (Castelo)",
+            "hu": "Busszal a Felsővárosba (Castelo)",
+            "ro": "Autobuz spre Orașul de Sus (Castelo)",
+            "en": "Bus to the Upper Town (Castelo)"
+          },
+          "coords": [
+            -7.5895,
+            38.842
+          ],
+          "category": "transit-stop",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Vegyen igénybe egy helyi buszt a meredek emelkedő elkerülése érdekében.",
+            "ro": "Luați un autobuz local pentru a evita urcușul abrupt.",
+            "en": "Take a local bus to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Estremoz",
+            "hu": "Estremozi vár",
+            "ro": "Castelul din Estremoz",
+            "en": "Castle of Estremoz"
+          },
+          "coords": [
+            -7.5867,
+            38.8412
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie aus und tauchen Sie direkt in das mittelalterliche Herz der Stadt ein.",
+            "hu": "Szálljon ki, és merüljön el közvetlenül a város középkori szívében.",
+            "ro": "Coborâți și plonjați direct în inima medievală a orașului.",
+            "en": "Hop off and dive straight into the medieval heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.587,
+            38.8408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die gesamte Oberstadt lässt sich am besten zu Fuß erkunden.",
+            "hu": "Az egész felsővárost a legjobb gyalog felfedezni.",
+            "ro": "Întregul oraș de sus este cel mai bine explorat pe jos.",
+            "en": "The entire upper town is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "São Francisco Kloster",
+            "hu": "Szent Ferenc-kolostor",
+            "ro": "Mănăstirea São Francisco",
+            "en": "Convent of São Francisco"
+          },
+          "coords": [
+            -7.5915,
+            38.842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie den Hügel hinunter oder nehmen Sie den Bus zurück, um dieses letzte Wahrzeichen zu besuchen.",
+            "hu": "Sétáljon le a hegyről, vagy vegye vissza a buszt, hogy meglátogassa ezt az utolsó nevezetességet.",
+            "ro": "Coborâți pe jos dealul sau luați autobuzul înapoi pentru a vizita acest ultim punct de reper.",
+            "en": "Walk down the hill or take the bus back to visit this final landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Tour am Rossio-Platz, dem Verkehrsknotenpunkt. Erkunden Sie die Unterstadt zu Fuß, bevor Sie einen Bus nehmen, der Sie bequem zur Oberstadt bringt. Verbringen Sie den Mittag und den frühen Nachmittag damit, die historischen Stätten rund um die Burg zu Fuß zu erkunden. Gehen Sie dann zu Fuß oder fahren Sie mit dem Bus zurück in die Unterstadt für einen letzten Besuch im São Francisco Kloster.",
+        "hu": "Kezdje a túrát a Rossio téren, a közlekedési csomópontban. Fedezze fel gyalog az alsóvárost, mielőtt busszal kényelmesen feljutna a felsővárosba. Töltse a délt és a kora délutánt a vár körüli történelmi helyszínek gyalogos felfedezésével. Ezután sétáljon vagy buszozzon vissza az alsóvárosba a São Francisco kolostor utolsó meglátogatásához.",
+        "ro": "Începeți turul în Piața Rossio, nodul de transport. Explorați orașul de jos pe jos înainte de a lua un autobuz care vă va duce confortabil în orașul de sus. Petreceți prânzul și după-amiaza devreme explorând pe jos siturile istorice din jurul castelului. Apoi, mergeți pe jos sau luați autobuzul înapoi în orașul de jos pentru o ultimă vizită la Mănăstirea São Francisco.",
+        "en": "Start your tour at Rossio square, the transport hub. Explore the lower town on foot before taking a bus to comfortably get to the upper town. Spend midday and early afternoon exploring the historic sites around the castle on foot. Then walk or bus back down to the lower town for a final visit to the Convent of São Francisco."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Schweinefleisch (Porco Preto)",
+            "tip": "Probieren Sie die gegrillten 'secretos' oder 'plumas' in einem lokalen Restaurant."
+          },
+          {
+            "name": "Lamm-Eintopf (Ensopado de Borrego)",
+            "tip": "Ein herzhaftes traditionelles Gericht, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Ein lokales Ei-Pudding-Dessert, oft mit Pflaumen serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete sertés (Porco Preto)",
+            "tip": "Kóstolja meg a grillezett 'secretos'-t vagy 'plumas'-t egy helyi étteremben."
+          },
+          {
+            "name": "Báránypörkölt (Ensopado de Borrego)",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Helyi tojásos desszert, gyakran szilvával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne de porc negru (Porco Preto)",
+            "tip": "Încercați 'secretos' sau 'plumas' la grătar la un restaurant local."
+          },
+          {
+            "name": "Tocăniță de miel (Ensopado de Borrego)",
+            "tip": "Un fel de mâncare tradițional consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "Un desert local cu ouă, adesea servit cu prune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Pork (Porco Preto)",
+            "tip": "Try the grilled 'secretos' or 'plumas' cuts at a local restaurant."
+          },
+          {
+            "name": "Lamb Stew (Ensopado de Borrego)",
+            "tip": "A hearty traditional dish, perfect after a long walk."
+          },
+          {
+            "name": "Sericaia",
+            "tip": "A local egg pudding dessert, often served with plums."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Burgturm",
+            "tip": "Die friedliche Aussicht über die Ebenen bei Sonnenuntergang ist unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Pousada",
+            "tip": "Finden Sie eine ruhige Ecke in den Gärten des Schlosshotels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang der Mauern",
+            "tip": "Ein ruhiger Spaziergang entlang der alten Stadtmauern am späten Nachmittag.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a vártoronyból",
+            "tip": "A naplementekor a síkságra nyíló békés kilátás verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Pousada kertjei",
+            "tip": "Találjon egy csendes sarkot a várhotel kertjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a falak mentén",
+            "tip": "Késő délutáni csendes séta a régi városfalak mentén.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere din turnul castelului",
+            "tip": "Priveliștea pașnică asupra câmpiilor la apus este de neegalat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Pousadei",
+            "tip": "Găsiți un colț liniștit în grădinile hotelului-castel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul zidurilor",
+            "tip": "O plimbare liniștită de-a lungul zidurilor vechi ale orașului, după-amiaza târziu.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Tower",
+            "tip": "The peaceful view over the plains at sunset is unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of the Pousada",
+            "tip": "Find a quiet corner in the gardens of the castle hotel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the walls",
+            "tip": "A quiet walk along the old city walls in the late afternoon.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marmorgegenstände",
+            "tip": "Suchen Sie nach kleinen Souvenirs aus dem berühmten Marmor von Estremoz."
+          },
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Die handbemalten Töpferwaren sind ein schönes und authentisches Andenken."
+          },
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, verpassen Sie nicht den großen Markt am Rossio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Márvány tárgyak",
+            "tip": "Keressen apró ajándéktárgyakat a híres estremozi márványból."
+          },
+          {
+            "name": "Helyi kerámiák",
+            "tip": "A kézzel festett kerámiák gyönyörű és autentikus emléktárgyak."
+          },
+          {
+            "name": "Szombati piac",
+            "tip": "Ha szombaton van itt, ne hagyja ki a nagy piacot a Rossión."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obiecte din marmură",
+            "tip": "Căutați mici suveniruri realizate din faimoasa marmură de Estremoz."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramica pictată manual este un suvenir frumos și autentic."
+          },
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Dacă sunteți aici într-o sâmbătă, nu ratați piața mare din Rossio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marble items",
+            "tip": "Look for small souvenirs made from the famous Estremoz marble."
+          },
+          {
+            "name": "Local Pottery",
+            "tip": "The hand-painted pottery makes for a beautiful and authentic souvenir."
+          },
+          {
+            "name": "Saturday Market",
+            "tip": "If you're here on a Saturday, don't miss the huge market on the Rossio."
+          }
+        ]
+      },
+      "tips": [
+        "Das lokale Busnetz ist nicht sehr umfangreich, aber nützlich für den Hügel.",
+        "Überprüfen Sie den Busfahrplan im Voraus.",
+        "Eine Tageskarte ist möglicherweise nicht verfügbar; planen Sie, für einzelne Fahrten zu bezahlen.",
+        "Taxis sind eine Alternative für den Aufstieg, wenn der Bus nicht verfügbar ist."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1447 @@
+{
+  "city_id": "sweden-boras-cities-v2",
+  "anchor": {
+    "name": "Borås",
+    "coords": [
+      12.9401,
+      57.721
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            12.942,
+            57.72
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt zwischen den wunderschönen Blumenbeeten und Skulpturen.",
+            "hu": "Kezdje a napot egy pihentető sétával a gyönyörű virágágyások és szobrok között.",
+            "ro": "Începeți ziua relaxat printre straturile de flori frumoase și sculpturi.",
+            "en": "Start your day with a relaxing stroll among the beautiful flowerbeds and sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Viskan-Promenade",
+            "hu": "Viskan promenád",
+            "ro": "Promenada Viskan",
+            "en": "Viskan Promenade"
+          },
+          "coords": [
+            12.9405,
+            57.719
+          ],
+          "category": "promenades",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre am Flussufer, ideal für Fotos.",
+            "hu": "Élvezze a folyópart csendes hangulatát, ideális fotózáshoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită de pe malul râului, ideală pentru fotografii.",
+            "en": "Enjoy the calm atmosphere on the riverbank, perfect for taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinocchio-Statue",
+            "hu": "Pinokkió-szobor",
+            "ro": "Statuia lui Pinocchio",
+            "en": "Pinocchio Statue"
+          },
+          "coords": [
+            12.939,
+            57.7215
+          ],
+          "category": "monuments",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein witziger und berühmter Fotostopp. Der offizielle Titel ist 'Walking to Borås'.",
+            "hu": "Egy vicces és híres fotómegálló. A hivatalos címe: 'Séta Boråsba'.",
+            "ro": "O oprire foto amuzantă și faimoasă. Titlul oficial este 'Mergând spre Borås'.",
+            "en": "A fun and famous photo stop. The official title is 'Walking to Borås'."
+          }
+        },
+        {
+          "name": {
+            "de": "Caroli Kirche",
+            "hu": "Caroli-templom",
+            "ro": "Biserica Caroli",
+            "en": "Caroli Church"
+          },
+          "coords": [
+            12.944,
+            57.723
+          ],
+          "category": "churches",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a belső csendes hangulatot.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera liniștită din interior.",
+            "en": "Admire the impressive architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Borås Konstmuseum",
+            "hu": "Boråsi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Borås",
+            "en": "Borås Konstmuseum"
+          },
+          "coords": [
+            12.938,
+            57.724
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fokussiert auf nordische Gegenwartskunst. Direkt neben dem Kulturhaus.",
+            "hu": "A kortárs északi művészetre fókuszál. Közvetlenül a Kultúrház mellett található.",
+            "ro": "Se concentrează pe arta contemporană nordică. Chiar lângă Casa de Cultură.",
+            "en": "Focuses on Nordic contemporary art. Located right next to the Culture House."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseet",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            12.932,
+            57.725
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss in Borås! Erfahren Sie alles über die Textilgeschichte der Stadt.",
+            "hu": "Kötelező látnivaló Boråsban! Tudjon meg mindent a város textil-történelméről.",
+            "ro": "O vizită obligatorie în Borås! Aflați totul despre istoria textilă a orașului.",
+            "en": "A must-see in Borås! Learn all about the city's textile history."
+          }
+        },
+        {
+          "name": {
+            "de": "No Limit Street Art",
+            "hu": "No Limit Street Art",
+            "ro": "No Limit Street Art",
+            "en": "No Limit Street Art"
+          },
+          "coords": [
+            12.935,
+            57.722
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Laden Sie eine Karte herunter und entdecken Sie die riesigen Wandgemälde in der ganzen Stadt.",
+            "hu": "Töltsön le egy térképet, és fedezze fel a hatalmas falfestményeket városszerte.",
+            "ro": "Descărcați o hartă și descoperiți picturile murale uriașe din tot orașul.",
+            "en": "Download a map and discover the huge murals scattered throughout the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt im grünen Herzen von Borås, dem Stadsparken. Entlang des ruhigen Flusses Viskan führt Sie der Weg zur ikonischen Pinocchio-Statue, einem Wahrzeichen der Stadt. Am Vormittag erkunden Sie die historische Caroli-Kirche, bevor Sie sich der Kunst widmen. Der Mittag gehört ganz der Kultur: Zuerst das Borås Konstmuseum mit nordischer Kunst, gefolgt von einem tiefen Einblick in die Identität der Stadt im Textilmuseet. Am Nachmittag tauchen Sie in die moderne Kreativität von Borås ein, indem Sie die beeindruckenden Wandgemälde des 'No Limit' Street Art Festivals entdecken. Der Tag endet mit einem Gefühl für die vielschichtige Identität der Stadt, von der Natur über die Geschichte bis zur innovativen Gegenwart.",
+        "hu": "Sétája Borås zöld szívében, a Stadsparkenben kezdődik. A csendes Viskan folyó mentén az út az ikonikus Pinokkió-szoborhoz, a város egyik jelképéhez vezet. Délelőtt a történelmi Caroli-templomot fedezi fel, mielőtt a művészetek felé veszi az irányt. A dél a kultúráé: először a Boråsi Művészeti Múzeum az északi művészettel, majd mélyreható betekintés a város identitásába a Textilmúzeumban. Délután elmerülhet Borås modern kreativitásában, felfedezve a 'No Limit' Street Art fesztivál lenyűgöző falfestményeit. A nap a város sokrétű identitásának megérzésével zárul, a természettől a történelmen át az innovatív jelenig.",
+        "ro": "Plimbarea dvs. începe în inima verde a orașului Borås, Stadsparken. De-a lungul râului liniștit Viskan, poteca vă duce la statuia iconică a lui Pinocchio, un simbol al orașului. În cursul dimineții, explorați biserica istorică Caroli înainte de a vă îndrepta spre artă. Amiaza este dedicată culturii: mai întâi Muzeul de Artă din Borås cu artă nordică, urmat de o incursiune profundă în identitatea orașului la Muzeul Textilelor. După-amiaza, vă scufundați în creativitatea modernă a orașului Borås, descoperind picturile murale impresionante ale festivalului de artă stradală 'No Limit'. Ziua se încheie cu o senzație a identității multiple a orașului, de la natură și istorie la prezentul inovator.",
+        "en": "Your walk begins in the green heart of Borås, Stadsparken. Along the tranquil River Viskan, the path leads you to the iconic Pinocchio statue, a city landmark. In the morning, you'll explore the historic Caroli Church before turning to the arts. Midday is all about culture: first, the Borås Konstmuseum with Nordic art, followed by a deep dive into the city's identity at the Textile Museum. In the afternoon, you immerse yourself in Borås's modern creativity by discovering the impressive murals of the 'No Limit' Street Art festival. The day concludes with a sense of the city's multifaceted identity, from nature and history to its innovative present."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Köttbullar med gräddsås",
+            "tip": "Probieren Sie die schwedischen Fleischbällchen in einem traditionellen Restaurant wie 'Babbel'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Machen Sie eine Kaffeepause mit Kanelbulle (Zimtschnecke) in einem gemütlichen Café, z.B. 'Café Bakgården'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, ein schwedischer Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köttbullar tejszínes mártással",
+            "tip": "Kóstolja meg a svéd húsgolyókat egy hagyományos étteremben, mint a 'Babbel'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Tartson egy kávészünetet fahéjas csigával (Kanelbulle) egy hangulatos kávézóban, pl. a 'Café Bakgården'-ben."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Egy nyitott szendvics garnélával, egy svéd klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Köttbullar cu sos de smântână",
+            "tip": "Încercați chiftelele suedeze la un restaurant tradițional ca 'Babbel'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Luați o pauză de cafea cu o ruladă cu scorțișoară (Kanelbulle) la o cafenea primitoare, de ex. 'Café Bakgården'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, un clasic suedez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köttbullar with cream sauce",
+            "tip": "Try the Swedish meatballs at a traditional restaurant like 'Babbel'."
+          },
+          {
+            "name": "Fika",
+            "tip": "Take a coffee break with a cinnamon bun (Kanelbulle) in a cozy café, e.g., 'Café Bakgården'."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a Swedish classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ramnasjön See",
+            "tip": "Ein ruhiger Spaziergang um den See, etwas außerhalb des direkten Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Annelundsparken",
+            "tip": "Ein weiterer schöner Park für eine stille Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Viskan",
+            "tip": "Finden Sie eine Bank entlang der Promenade und beobachten Sie das Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ramnasjön-tó",
+            "tip": "Egy csendes séta a tó körül, kissé a központtól kijjebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Annelundsparken",
+            "tip": "Egy másik szép park egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Viskan partja",
+            "tip": "Keressen egy padot a promenádon, és nézze a vizet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Ramnasjön",
+            "tip": "O plimbare liniștită în jurul lacului, puțin în afara centrului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Annelundsparken",
+            "tip": "Un alt parc frumos pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Viskan",
+            "tip": "Găsiți o bancă de-a lungul promenadei și priviți apa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Ramnasjön",
+            "tip": "A quiet walk around the lake, just outside the immediate center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Annelundsparken",
+            "tip": "Another beautiful park for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Viskan",
+            "tip": "Find a bench along the promenade and watch the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Textile Fashion Center",
+            "tip": "Hier finden Sie Design-Shops und erfahren mehr über die Textilindustrie."
+          },
+          {
+            "name": "Innenstadt-Boutiquen",
+            "tip": "Stöbern Sie in den kleinen Geschäften rund um den Stora Torget für einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Textile Fashion Center",
+            "tip": "Itt design boltokat talál, és többet megtudhat a textiliparról."
+          },
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Böngésszen a Stora Torget körüli kis üzletekben egyedi leletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Textile Fashion Center",
+            "tip": "Aici veți găsi magazine de design și veți afla mai multe despre industria textilă."
+          },
+          {
+            "name": "Buticuri din centrul orașului",
+            "tip": "Răsfoiți magazinele mici din jurul Stora Torget pentru descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Textile Fashion Center",
+            "tip": "Here you'll find designer shops and learn more about the textile industry."
+          },
+          {
+            "name": "City center boutiques",
+            "tip": "Browse the small shops around Stora Torget for unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Die meisten Museen haben montags geschlossen, prüfen Sie die Öffnungszeiten.",
+          "Eine Powerbank für Ihr Handy ist nützlich, um die Street-Art-Karte zu nutzen.",
+          "Viele Cafés bieten kostenloses WLAN an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "A legtöbb múzeum hétfőn zárva tart, ellenőrizze a nyitvatartást.",
+          "Egy power bank hasznos lehet a telefonjához, hogy használhassa a street art térképet.",
+          "Sok kávézó ingyenes Wi-Fi-t kínál."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi pe picioare toată ziua.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul.",
+          "O baterie externă pentru telefon este utilă pentru a folosi harta de artă stradală.",
+          "Multe cafenele oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Most museums are closed on Mondays, so check the opening hours.",
+          "A power bank for your phone is useful for using the street art map.",
+          "Many cafes offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ramnasjön",
+            "hu": "Ramnasjön-tó",
+            "ro": "Lacul Ramnasjön",
+            "en": "Ramnasjön"
+          },
+          "coords": [
+            12.955,
+            57.728
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einer Runde um den malerischen See.",
+            "hu": "Kezdje a napot egy körrel a festői tó körül.",
+            "ro": "Începeți ziua cu o tură în jurul lacului pitoresc.",
+            "en": "Start the day with a lap around the picturesque lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Borås Tierpark",
+            "hu": "Boråsi Állatkert",
+            "ro": "Grădina Zoologică Borås",
+            "en": "Borås Tierpark"
+          },
+          "coords": [
+            12.96,
+            57.745
+          ],
+          "category": "parks",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die nordischen Tiere zu sehen. Es gibt gute Fahrradständer am Eingang.",
+            "hu": "Szánjon elég időt az északi állatok megtekintésére. A bejáratnál jó kerékpártárolók vannak.",
+            "ro": "Planificați suficient timp pentru a vedea animalele nordice. Există suporturi bune pentru biciclete la intrare.",
+            "en": "Plan enough time to see the Nordic animals. There are good bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "No Limit Street Art",
+            "hu": "No Limit Street Art",
+            "ro": "No Limit Street Art",
+            "en": "No Limit Street Art"
+          },
+          "coords": [
+            12.935,
+            57.722
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Mit dem Fahrrad können Sie die weit verstreuten Wandgemälde leicht erreichen.",
+            "hu": "Kerékpárral könnyen elérheti a távolabb eső falfestményeket is.",
+            "ro": "Cu bicicleta, puteți ajunge cu ușurință la picturile murale mai îndepărtate.",
+            "en": "By bike, you can easily reach the more scattered murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseet",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            12.932,
+            57.725
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die faszinierende Welt der Textilien ein.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a textíliák lenyűgöző világában.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în lumea fascinantă a textilelor.",
+            "en": "Park your bike and dive into the fascinating world of textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi Park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            12.942,
+            57.72
+          ],
+          "category": "parks",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine entspannte Pause im Park, bevor Sie den Tag ausklingen lassen.",
+            "hu": "Egy pihentető szünet a parkban, mielőtt lezárná a napot.",
+            "ro": "O pauză relaxantă în parc înainte de a încheia ziua.",
+            "en": "A relaxing break in the park before winding down the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Viskan-Promenade",
+            "hu": "Viskan promenád",
+            "ro": "Promenada Viskan",
+            "en": "Viskan Promenade"
+          },
+          "coords": [
+            12.9405,
+            57.719
+          ],
+          "category": "promenades",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer ruhigen Fahrt entlang des Flusses.",
+            "hu": "Fejezze be a kerékpártúrát egy csendes tekeréssel a folyó mentén.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o plimbare liniștită de-a lungul râului.",
+            "en": "End your bike tour with a peaceful ride along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am idyllischen Ramnasjön-See, perfekt für eine erste Runde. Von dort aus radeln Sie zum Borås Tierpark, wo Sie den Vormittag mit der Erkundung der nordischen Tierwelt verbringen. Zur Mittagszeit geht es zurück ins Zentrum, wo Sie mit dem Rad flexibel die beeindruckenden 'No Limit' Street Art-Wandgemälde ansteuern können. Am Nachmittag widmen Sie sich der reichen Industriegeschichte im Textilmuseet. Zum Abschluss des Tages radeln Sie gemütlich durch den Stadsparken und entlang der Viskan-Promenade, um die entspannte Atmosphäre der Stadt aufzusaugen.",
+        "hu": "Kerékpártúrája az idilli Ramnasjön-tónál kezdődik, amely tökéletes egy bemelegítő körhöz. Onnan a Boråsi Állatkertbe teker, ahol a délelőttöt az északi állatvilág felfedezésével tölti. Ebédidőben visszatér a központba, ahol kerékpárral rugalmasan megközelítheti a lenyűgöző 'No Limit' street art falfestményeket. Délután a Textilmúzeumban a gazdag ipartörténetnek szentelheti magát. A nap végén kényelmesen átteker a Stadsparkenen és a Viskan promenádon, hogy magába szívja a város nyugodt légkörét.",
+        "ro": "Turul dvs. cu bicicleta începe la idilicul lac Ramnasjön, perfect pentru o primă tură. De acolo, pedalați spre Grădina Zoologică Borås, unde vă petreceți dimineața explorând fauna nordică. La prânz, vă întoarceți în centru, unde puteți ajunge flexibil cu bicicleta la impresionantele picturi murale 'No Limit' Street Art. După-amiaza este dedicată istoriei industriale bogate la Muzeul Textilelor. La sfârșitul zilei, pedalați agale prin Stadsparken și de-a lungul Promenadei Viskan pentru a absorbi atmosfera relaxată a orașului.",
+        "en": "Your bike tour starts at the idyllic Lake Ramnasjön, perfect for a first lap. From there, you'll cycle to Borås Tierpark, where you'll spend the morning exploring the Nordic fauna. At lunchtime, you head back to the city center, where you can flexibly access the impressive 'No Limit' Street Art murals by bike. The afternoon is dedicated to the rich industrial history at the Textile Museum. To cap off the day, you'll leisurely cycle through Stadsparken and along the Viskan Promenade to soak up the city's relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Eine herzhafte 'Sandwichtorte', perfekt für ein Mittagessen zum Teilen."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Besuchen Sie 'The Brewery' für ein lokal gebrautes Bier nach der Tour."
+          },
+          {
+            "name": "Våfflor med sylt och grädde",
+            "tip": "Schwedische Waffeln mit Marmelade und Sahne als süßer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Egy sós 'szendvicstorta', tökéletes egy megosztható ebédhez."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Látogasson el a 'The Brewery'-be egy helyi főzésű sörért a túra után."
+          },
+          {
+            "name": "Våfflor lekvárral és tejszínnel",
+            "tip": "Svéd gofri lekvárral és tejszínnel, édes uzsonnaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Un 'tort sandviș' sărat, perfect pentru un prânz de împărțit."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Vizitați 'The Brewery' pentru o bere produsă local după tur."
+          },
+          {
+            "name": "Våfflor cu gem și frișcă",
+            "tip": "Vafe suedeze cu gem și frișcă ca o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "A savory 'sandwich cake', perfect for a shared lunch."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Visit 'The Brewery' for a locally brewed beer after the tour."
+          },
+          {
+            "name": "Våfflor with jam and cream",
+            "tip": "Swedish waffles with jam and cream as a sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rya Åsar",
+            "tip": "Ein Naturschutzgebiet mit tollen Wegen, wenn Sie eine längere Radtour machen möchten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kypegården",
+            "tip": "Ein Freizeitzentrum mit See und Waldwegen, ideal für eine ruhige Pause.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang am Ramnasjön",
+            "tip": "Kehren Sie am Abend zum See zurück, um die Ruhe zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rya Åsar",
+            "tip": "Természetvédelmi terület remek utakkal, ha hosszabb biciklitúrára vágyik.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kypegården",
+            "tip": "Szabadidőközpont tóval és erdei ösvényekkel, ideális egy csendes pihenőhöz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a Ramnasjön-tónál",
+            "tip": "Térjen vissza este a tóhoz, hogy élvezze a csendet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rya Åsar",
+            "tip": "O rezervație naturală cu trasee excelente dacă doriți o plimbare mai lungă cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kypegården",
+            "tip": "Un centru de agrement cu lac și poteci forestiere, ideal pentru o pauză liniștită.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus la Ramnasjön",
+            "tip": "Întoarceți-vă la lac seara pentru a vă bucura de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rya Åsar",
+            "tip": "A nature reserve with great trails if you want a longer bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kypegården",
+            "tip": "A recreation center with a lake and forest trails, ideal for a quiet break.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at Ramnasjön",
+            "tip": "Return to the lake in the evening to enjoy the tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knalleland Shopping Center",
+            "tip": "Ein großes Einkaufszentrum mit einer Vielzahl von Geschäften, leicht mit dem Fahrrad erreichbar."
+          },
+          {
+            "name": "Gällstads",
+            "tip": "Etwas außerhalb, aber bekannt für seine Outlet-Stores, falls Sie eine längere Tour planen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knalleland bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont széles üzletválasztékkal, kerékpárral könnyen megközelíthető."
+          },
+          {
+            "name": "Gällstads",
+            "tip": "Kicsit kijjebb esik, de híres outlet üzleteiről, ha hosszabb túrát tervez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Knalleland",
+            "tip": "Un centru comercial mare cu o varietate de magazine, ușor accesibil cu bicicleta."
+          },
+          {
+            "name": "Gällstads",
+            "tip": "Puțin în afara orașului, dar renumit pentru magazinele sale outlet, dacă planificați un tur mai lung."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knalleland Shopping Center",
+            "tip": "A large shopping center with a variety of stores, easily accessible by bike."
+          },
+          {
+            "name": "Gällstads",
+            "tip": "A bit outside the city, but known for its outlet stores if you're planning a longer tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem der städtischen Anbieter.",
+          "Schweden hat eine Helmpflicht für Kinder unter 15 Jahren.",
+          "Achten Sie auf die gut ausgebauten Radwege.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városi szolgáltatók egyikétől.",
+          "Svédországban 15 év alatti gyermekek számára kötelező a sisak viselése.",
+          "Figyeljen a jól kiépített kerékpárutakra.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre furnizorii orașului.",
+          "Suedia are o lege privind purtarea obligatorie a căștii pentru copiii sub 15 ani.",
+          "Fiți atenți la pistele de biciclete bine dezvoltate.",
+          "Luați un lacăt pentru a vă asigura bicicleta."
+        ],
+        "en": [
+          "Rent a bike from one of the city's providers.",
+          "Sweden has a mandatory helmet law for children under 15.",
+          "Pay attention to the well-developed cycle paths.",
+          "Bring a lock to secure your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Borås Tierpark",
+            "hu": "Boråsi Állatkert",
+            "ro": "Grădina Zoologică Borås",
+            "en": "Borås Tierpark"
+          },
+          "coords": [
+            12.96,
+            57.745
+          ],
+          "category": "parks",
+          "arrive_at": "09:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie am Stadtrand. Es gibt ausreichend Parkplätze direkt am Zoo.",
+            "hu": "Kezdjen a város szélén. Az állatkertnél bőséges parkoló áll rendelkezésre.",
+            "ro": "Începeți la periferia orașului. Există o parcare amplă chiar la grădina zoologică.",
+            "en": "Start on the outskirts of the city. There is ample parking right at the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramnasjön",
+            "hu": "Ramnasjön-tó",
+            "ro": "Lacul Ramnasjön",
+            "en": "Ramnasjön"
+          },
+          "coords": [
+            12.955,
+            57.728
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum See und parken Sie dort. Machen Sie einen Spaziergang vor dem Mittagessen.",
+            "hu": "Vezessen a tóhoz és parkoljon le. Sétáljon egyet ebéd előtt.",
+            "ro": "Conduceți până la lac și parcați acolo. Faceți o plimbare înainte de prânz.",
+            "en": "Drive to the lake and park there. Take a walk before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Textile Fashion Center (Parkhaus)",
+            "hu": "Textile Fashion Center (Parkolóház)",
+            "ro": "Textile Fashion Center (Parcare)",
+            "en": "Textile Fashion Center (Parking)"
+          },
+          "coords": [
+            12.931,
+            57.726
+          ],
+          "category": "industry",
+          "arrive_at": "13:05",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Nachmittags. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt a délután hátralévő részére. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați aici pentru restul după-amiezii. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park here for the rest of the afternoon. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseet",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            12.932,
+            57.725
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist der erste Halt in Ihrem fußläufigen Museumscluster.",
+            "hu": "A múzeum az első megálló a gyalogos múzeumi negyedben.",
+            "ro": "Muzeul este prima oprire în clusterul muzeal pietonal.",
+            "en": "The museum is the first stop in your pedestrian museum cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Borås Konstmuseum & Kulturhuset",
+            "hu": "Boråsi Művészeti Múzeum és Kultúrház",
+            "ro": "Muzeul de Artă și Casa de Cultură Borås",
+            "en": "Borås Konstmuseum & Culture House"
+          },
+          "coords": [
+            12.938,
+            57.724
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Textilmuseum. Erkunden Sie beide Gebäude.",
+            "hu": "Rövid séta a Textilmúzeumtól. Fedezze fel mindkét épületet.",
+            "ro": "O scurtă plimbare de la Muzeul Textilelor. Explorați ambele clădiri.",
+            "en": "A short walk from the Textile Museum. Explore both buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Viskan-Promenade",
+            "hu": "Séta a Viskan promenádhoz",
+            "ro": "Plimbare spre Promenada Viskan",
+            "en": "Walk to Viskan Promenade"
+          },
+          "coords": [
+            12.9405,
+            57.719
+          ],
+          "category": "promenades",
+          "arrive_at": "17:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang entlang des Flusses, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja a napot egy sétával a folyó mentén, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați ziua cu o plimbare de-a lungul râului înainte de a vă întoarce la mașină.",
+            "en": "End the day with a walk along the river before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am Stadtrand beim Borås Tierpark, wo Sie den Vormittag verbringen. Nach dem Zoo fahren Sie zum malerischen Ramnasjön-See für einen erholsamen Spaziergang. Am frühen Nachmittag parken Sie Ihr Auto im zentralen Textilviertel. Von hier aus beginnt Ihr erster 'Walking Cluster': Sie besuchen das weltberühmte Textilmuseet. Ein kurzer Spaziergang führt Sie weiter zum Borås Konstmuseum und dem Kulturhuset, dem kulturellen Herzen der Stadt. Den Tag lassen Sie mit einem entspannten Spaziergang entlang der Viskan-Promenade ausklingen, bevor Sie zu Ihrem Auto zurückkehren. Diese Tour kombiniert die Flexibilität des Autos mit intensiven, fußläufigen Erkundungen der Stadt-Cluster.",
+        "hu": "Autós túrája a város szélén, a Boråsi Állatkertnél kezdődik, ahol a délelőttöt tölti. Az állatkert után a festői Ramnasjön-tóhoz hajt egy pihentető sétára. Kora délután leparkolja autóját a központi textilnegyedben. Innen indul az első 'sétáló klaszter': meglátogatja a világhírű Textilmúzeumot. Egy rövid séta elvezeti a Boråsi Művészeti Múzeumhoz és a Kultúrházhoz, a város kulturális szívéhez. A napot egy kellemes sétával zárja a Viskan promenádon, mielőtt visszatérne autójához. Ez a túra ötvözi az autó rugalmasságát a városi klaszterek intenzív, gyalogos felfedezésével.",
+        "ro": "Turul dvs. cu mașina începe la periferia orașului, la Grădina Zoologică Borås, unde vă petreceți dimineața. După grădina zoologică, conduceți spre pitorescul lac Ramnasjön pentru o plimbare relaxantă. La începutul după-amiezii, parcați mașina în cartierul central al textilelor. De aici începe primul dvs. 'cluster de mers pe jos': vizitați faimosul Muzeu al Textilelor. O scurtă plimbare vă duce mai departe la Muzeul de Artă Borås și la Casa de Cultură, inima culturală a orașului. Încheiați ziua cu o plimbare relaxantă de-a lungul Promenadei Viskan înainte de a vă întoarce la mașină. Acest tur combină flexibilitatea mașinii cu explorarea intensă, pietonală, a clusterelor urbane.",
+        "en": "Your car tour begins on the outskirts at Borås Tierpark, where you'll spend the morning. After the zoo, you drive to the picturesque Lake Ramnasjön for a relaxing walk. In the early afternoon, you park your car in the central textile district. From here, your first 'walking cluster' begins: you visit the world-famous Textile Museum. A short walk takes you further to the Borås Konstmuseum and the Culture House, the city's cultural heart. You end the day with a relaxing stroll along the Viskan Promenade before returning to your car. This tour combines the flexibility of the car with intensive, pedestrian explorations of the city's clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Textilmuseet",
+            "tip": "TheAbhayan ist bekannt für seine ausgezeichnete, nachhaltige Küche."
+          },
+          {
+            "name": "E-Street",
+            "tip": "Ein beliebtes Lokal in der Nähe des Kultur-Clusters für ein unkompliziertes Abendessen."
+          },
+          {
+            "name": "Tankstelle für 'Korv med mos'",
+            "tip": "Ein klassischer schwedischer Hotdog mit Kartoffelpüree für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Textilmúzeumban",
+            "tip": "A TheAbhayan híres kiváló, fenntartható konyhájáról."
+          },
+          {
+            "name": "E-Street",
+            "tip": "Népszerű hely a kulturális negyed közelében egy egyszerű vacsorához."
+          },
+          {
+            "name": "Benzinkút 'Korv med mos'-ért",
+            "tip": "Klasszikus svéd hot dog krumplipürével útközbenre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Muzeul Textilelor",
+            "tip": "TheAbhayan este renumit pentru bucătăria sa excelentă și sustenabilă."
+          },
+          {
+            "name": "E-Street",
+            "tip": "Un local popular lângă clusterul cultural pentru o cină necomplicată."
+          },
+          {
+            "name": "Benzinărie pentru 'Korv med mos'",
+            "tip": "Un hot dog suedez clasic cu piure de cartofi pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the Textile Museum",
+            "tip": "TheAbhayan is known for its excellent, sustainable cuisine."
+          },
+          {
+            "name": "E-Street",
+            "tip": "A popular spot near the cultural cluster for a straightforward dinner."
+          },
+          {
+            "name": "Gas station for 'Korv med mos'",
+            "tip": "A classic Swedish hot dog with mashed potatoes for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rya Åsar Aussichtspunkt",
+            "tip": "Mit dem Auto leicht erreichbar für eine atemberaubende Aussicht über die Region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Almenäs badplats",
+            "tip": "Ein schöner Badeplatz etwas außerhalb, perfekt für eine Sommerpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof St. Ansgars griftegård",
+            "tip": "Ein friedlicher und schön gestalteter Ort für einen stillen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rya Åsar kilátó",
+            "tip": "Autóval könnyen megközelíthető a régióra nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Almenäs badplats",
+            "tip": "Egy szép fürdőhely kicsit kijjebb, tökéletes egy nyári szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Ansgars griftegård temető",
+            "tip": "Békés és szépen kialakított hely egy csendes sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Rya Åsar",
+            "tip": "Ușor accesibil cu mașina pentru o priveliște uluitoare asupra regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Almenäs badplats",
+            "tip": "O plajă frumoasă puțin în afara orașului, perfectă pentru o pauză de vară.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul St. Ansgars griftegård",
+            "tip": "Un loc pașnic și frumos amenajat pentru o plimbare tăcută.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rya Åsar viewpoint",
+            "tip": "Easily accessible by car for a breathtaking view over the region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Almenäs badplats",
+            "tip": "A beautiful bathing spot just outside the city, perfect for a summer break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Ansgars griftegård cemetery",
+            "tip": "A peaceful and beautifully designed place for a quiet walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofsnäs Herrgård",
+            "tip": "Ein Herrenhaus mit Hofladen für lokale Delikatessen, ein kurzer Ausflug mit dem Auto."
+          },
+          {
+            "name": "Knalleland Shopping Center",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofsnäs Herrgård",
+            "tip": "Kúria farmbolttal helyi finomságokért, rövid autós kirándulás."
+          },
+          {
+            "name": "Knalleland bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén, sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hofsnäs Herrgård",
+            "tip": "Un conac cu un magazin de fermă pentru delicatese locale, o scurtă excursie cu mașina."
+          },
+          {
+            "name": "Centrul Comercial Knalleland",
+            "tip": "Un centru comercial mare la periferia orașului cu multă parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hofsnäs Herrgård",
+            "tip": "A manor house with a farm shop for local delicacies, a short trip by car."
+          },
+          {
+            "name": "Knalleland Shopping Center",
+            "tip": "A large shopping center on the outskirts with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Park-Apps wie EasyPark oder Parkster können nützlich sein.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Planen Sie Parkgebühren in Ihr Budget ein.",
+          "Ein GPS ist unerlässlich, um die verschiedenen Cluster zu finden."
+        ],
+        "hu": [
+          "A parkolóalkalmazások, mint az EasyPark vagy a Parkster, hasznosak lehetnek.",
+          "Tartsa be a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "Tervezze be a parkolási díjakat a költségvetésébe.",
+          "A GPS elengedhetetlen a különböző klaszterek megtalálásához."
+        ],
+        "ro": [
+          "Aplicațiile de parcare precum EasyPark sau Parkster pot fi utile.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Includeți taxele de parcare în bugetul dvs.",
+          "Un GPS este esențial pentru a găsi diferitele clustere."
+        ],
+        "en": [
+          "Parking apps like EasyPark or Parkster can be useful.",
+          "Obey the speed limits, especially in residential areas.",
+          "Factor parking fees into your budget.",
+          "A GPS is essential for finding the different clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralhaltestelle Södra Torget",
+            "hu": "Södra Torget központi megálló",
+            "ro": "Stația centrală Södra Torget",
+            "en": "Central stop Södra Torget"
+          },
+          "coords": [
+            12.941,
+            57.721
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptknotenpunkt für Busse. Starten Sie hier Ihr erstes Walking-Cluster.",
+            "hu": "A buszok fő csomópontja. Kezdje itt az első sétáló klasztert.",
+            "ro": "Principalul nod pentru autobuze. Începeți primul cluster de mers pe jos de aici.",
+            "en": "The main hub for buses. Start your first walking cluster here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken & Viskan-Promenade",
+            "hu": "Stadsparken és Viskan promenád",
+            "ro": "Stadsparken & Promenada Viskan",
+            "en": "Stadsparken & Viskan Promenade"
+          },
+          "coords": [
+            12.942,
+            57.72
+          ],
+          "category": "parks",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag zu beginnen.",
+            "hu": "Rövid séta a buszpályaudvartól a nap kezdéséhez.",
+            "ro": "O scurtă plimbare de la autogară pentru a începe ziua.",
+            "en": "A short walk from the bus station to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Caroli Kirche",
+            "hu": "Caroli-templom",
+            "ro": "Biserica Caroli",
+            "en": "Caroli Church"
+          },
+          "coords": [
+            12.944,
+            57.723
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie durch die Innenstadt zu dieser beeindruckenden Kirche.",
+            "hu": "Sétáljon át a belvároson ehhez a lenyűgöző templomhoz.",
+            "ro": "Plimbați-vă prin centrul orașului până la această biserică impresionantă.",
+            "en": "Walk through the city center to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle 'Textile Fashion Center'",
+            "hu": "'Textile Fashion Center' megálló",
+            "ro": "Stația 'Textile Fashion Center'",
+            "en": "Stop 'Textile Fashion Center'"
+          },
+          "coords": [
+            12.93,
+            57.727
+          ],
+          "category": "transit",
+          "arrive_at": "11:30",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Vegyen egy buszt a második klaszterhez. Innen minden gyalogosan elérhető.",
+            "ro": "Luați un autobuz spre al doilea cluster. Totul este la distanță de mers pe jos de aici.",
+            "en": "Take a bus to the second cluster. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseet & Konstmuseum",
+            "hu": "Textilmúzeum és Művészeti Múzeum",
+            "ro": "Muzeul Textilelor & Muzeul de Artă",
+            "en": "Textile Museum & Art Museum"
+          },
+          "coords": [
+            12.932,
+            57.725
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 210,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag mit der Erkundung beider Museen. Planen Sie auch eine Mittagspause ein.",
+            "hu": "Töltse a délutánt mindkét múzeum felfedezésével. Tervezzen be egy ebédszünetet is.",
+            "ro": "Petreceți după-amiaza explorând ambele muzee. Planificați și o pauză de prânz.",
+            "en": "Spend the afternoon exploring both museums. Plan for a lunch break as well."
+          }
+        },
+        {
+          "name": {
+            "de": "No Limit Street Art & Pinocchio",
+            "hu": "No Limit Street Art és Pinokkió",
+            "ro": "No Limit Street Art & Pinocchio",
+            "en": "No Limit Street Art & Pinocchio"
+          },
+          "coords": [
+            12.939,
+            57.7215
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum, um die berühmte Statue und die umliegende Straßenkunst zu sehen.",
+            "hu": "Buszozzon vissza a központba, hogy megnézze a híres szobrot és a környező street art alkotásokat.",
+            "ro": "Luați un autobuz înapoi în centru pentru a vedea celebra statuie și arta stradală din jur.",
+            "en": "Take a bus back to the center to see the famous statue and surrounding street art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Busknotenpunkt Södra Torget. Von hier aus erkunden Sie zu Fuß das erste Cluster: den Stadsparken, die Viskan-Promenade und die historische Caroli-Kirche. Anschließend nehmen Sie einen Bus, der Sie in das pulsierende Textilviertel bringt. Hier beginnt Ihr zweites Walking-Cluster des Tages. Sie verbringen den Großteil des Nachmittags damit, das weltberühmte Textilmuseet und das nahegelegene Konstmuseum zu erkunden. Für den späten Nachmittag bringt Sie ein weiterer Bus zurück ins Herz der Stadt, um die berühmte Pinocchio-Statue und die beeindruckenden 'No Limit' Wandgemälde zu entdecken, bevor Sie den Tag beenden.",
+        "hu": "Napja a központi buszcsomópontnál, a Södra Torget-nél kezdődik. Innen gyalogosan fedezi fel az első klasztert: a Stadsparkent, a Viskan promenádot és a történelmi Caroli-templomot. Ezután busszal jut el a pezsgő textilnegyedbe. Itt kezdődik a nap második sétáló klasztere. A délután nagy részét a világhírű Textilmúzeum és a közeli Művészeti Múzeum felfedezésével tölti. Késő délután egy másik busz visszaviszi a város szívébe, hogy felfedezze a híres Pinokkió-szobrot és a lenyűgöző 'No Limit' falfestményeket, mielőtt befejezné a napot.",
+        "ro": "Ziua dvs. începe la nodul central de autobuze Södra Torget. De aici, explorați pe jos primul cluster: Stadsparken, Promenada Viskan și biserica istorică Caroli. Apoi, luați un autobuz care vă duce în vibrantul cartier textil. Aici începe al doilea cluster de mers pe jos al zilei. Vă petreceți cea mai mare parte a după-amiezii explorând faimosul Muzeu al Textilelor și Muzeul de Artă din apropiere. Spre seară, un alt autobuz vă duce înapoi în inima orașului pentru a descoperi celebra statuie a lui Pinocchio și impresionantele picturi murale 'No Limit' înainte de a încheia ziua.",
+        "en": "Your day begins at the central bus hub, Södra Torget. From here, you explore the first cluster on foot: Stadsparken, the Viskan Promenade, and the historic Caroli Church. Afterwards, you take a bus that brings you to the vibrant textile district. This is where the second walking cluster of the day begins. You spend most of the afternoon exploring the world-famous Textile Museum and the nearby Art Museum. For the late afternoon, another bus takes you back to the heart of the city to discover the famous Pinocchio statue and the impressive 'No Limit' murals before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saluhallen (Markthalle)",
+            "tip": "Probieren Sie verschiedene lokale Spezialitäten an den Ständen. Perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Vinci",
+            "tip": "Ein gutes italienisches Restaurant in der Nähe von Södra Torget, falls Sie Lust auf etwas anderes haben."
+          },
+          {
+            "name": "Pressbyrån",
+            "tip": "An jeder Ecke zu finden, ideal für einen schnellen Kaffee und eine Kanelbulle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saluhallen (Vásárcsarnok)",
+            "tip": "Kóstoljon meg különböző helyi specialitásokat a standoknál. Tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Vinci",
+            "tip": "Jó olasz étterem a Södra Torget közelében, ha valami másra vágyik."
+          },
+          {
+            "name": "Pressbyrån",
+            "tip": "Minden sarkon megtalálható, ideális egy gyors kávéhoz és egy fahéjas csigához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saluhallen (Piața interioară)",
+            "tip": "Încercați diverse specialități locale la standuri. Perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Vinci",
+            "tip": "Un restaurant italian bun lângă Södra Torget, dacă aveți poftă de altceva."
+          },
+          {
+            "name": "Pressbyrån",
+            "tip": "Găsit la fiecare colț, ideal pentru o cafea rapidă și o ruladă cu scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saluhallen (Market Hall)",
+            "tip": "Try various local specialties at the stalls. Perfect for a quick lunch."
+          },
+          {
+            "name": "Vinci",
+            "tip": "A good Italian restaurant near Södra Torget if you're in the mood for something different."
+          },
+          {
+            "name": "Pressbyrån",
+            "tip": "Found on every corner, ideal for a quick coffee and a cinnamon bun."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberes Deck eines Busses",
+            "tip": "Genießen Sie die Aussicht und eine kurze Pause, während Sie zum nächsten Cluster fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Borås Övre kyrkogård",
+            "tip": "Ein alter, ruhiger Friedhof in der Nähe des Zentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leseecke im Kulturhuset",
+            "tip": "Finden Sie einen ruhigen Platz in der Bibliothek, um sich auszuruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz felső szintje",
+            "tip": "Élvezze a kilátást és egy rövid szünetet, miközben a következő klaszterhez utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Borås Övre kyrkogård",
+            "tip": "Régi, csendes temető a központ közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasósarok a Kulturhusetben",
+            "tip": "Keressen egy csendes helyet a könyvtárban a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Bucurați-vă de priveliște și de o scurtă pauză în timp ce călătoriți spre următorul cluster.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Borås Övre kyrkogård",
+            "tip": "Un cimitir vechi și liniștit, aproape de centru.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colț de lectură la Kulturhuset",
+            "tip": "Găsiți un loc liniștit în bibliotecă pentru a vă odihni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Enjoy the view and a short break while traveling to the next cluster.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Borås Övre kyrkogård",
+            "tip": "An old, quiet cemetery near the center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Reading corner in Kulturhuset",
+            "tip": "Find a quiet spot in the library to rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Åhléns",
+            "tip": "Ein schwedisches Kaufhaus in der Nähe von Södra Torget mit Mode, Design und Kosmetik."
+          },
+          {
+            "name": "Lagerhaus",
+            "tip": "Ein beliebter Laden für schwedisches Design und Haushaltswaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Åhléns",
+            "tip": "Svéd áruház a Södra Torget közelében, divattal, dizájnnal és kozmetikumokkal."
+          },
+          {
+            "name": "Lagerhaus",
+            "tip": "Népszerű üzlet svéd dizájnnal és háztartási cikkekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Åhléns",
+            "tip": "Un magazin universal suedez lângă Södra Torget, cu modă, design și cosmetice."
+          },
+          {
+            "name": "Lagerhaus",
+            "tip": "Un magazin popular pentru design suedez și articole de uz casnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Åhléns",
+            "tip": "A Swedish department store near Södra Torget with fashion, design, and cosmetics."
+          },
+          {
+            "name": "Lagerhaus",
+            "tip": "A popular store for Swedish design and household goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzt fahren zu können.",
+          "Die App 'Västtrafik To Go' ist unerlässlich für Fahrpläne und Ticketkauf.",
+          "Busse halten nicht automatisch an jeder Haltestelle, drücken Sie den 'Stopp'-Knopf.",
+          "Planen Sie etwas Pufferzeit für Busverbindungen ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a korlátlan utazáshoz.",
+          "A 'Västtrafik To Go' alkalmazás elengedhetetlen a menetrendekhez és a jegyvásárláshoz.",
+          "A buszok nem állnak meg automatikusan minden megállónál, nyomja meg a 'Stop' gombot.",
+          "Tervezzen némi pufferidőt a buszcsatlakozásokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+          "Aplicația 'Västtrafik To Go' este esențială pentru orare și achiziționarea de bilete.",
+          "Autobuzele nu opresc automat la fiecare stație, apăsați butonul 'Stop'.",
+          "Planificați un timp tampon pentru conexiunile de autobuz."
+        ],
+        "en": [
+          "Buy a day ticket for the bus for unlimited travel.",
+          "The 'Västtrafik To Go' app is essential for timetables and ticket purchases.",
+          "Buses do not stop automatically at every stop; press the 'Stop' button.",
+          "Plan for some buffer time for bus connections."
+        ]
+      }
+    }
+  }
+}

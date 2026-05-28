@@ -1,0 +1,1608 @@
+{
+  "city_id": "spain-vitoria-cities-v2",
+  "anchor": {
+    "name": "Vitoria-Gasteiz",
+    "coords": [
+      42.8467,
+      -2.6716
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:49",
+      "total_km": 2.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de la Virgen Blanca",
+          "coords": [
+            42.8465,
+            -2.6719
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh kommen: der Platz ist morgens am ruhigsten.",
+            "hu": "Reggel a legnyugodtabb, és innen könnyű indulni.",
+            "ro": "Vino devreme; dimineața e cea mai liniștită.",
+            "en": "Go early: the square is calmest in the morning."
+          }
+        },
+        {
+          "name": "Plaza del Machete",
+          "coords": [
+            42.8461,
+            -2.6726
+          ],
+          "category": "square",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achte auf die historischen Fassaden an der Nordseite.",
+            "hu": "Nézd meg az északi oldalon a régi homlokzatokat.",
+            "ro": "Privește fațadele istorice de pe latura nordică.",
+            "en": "Check the historic facades on the north side."
+          }
+        },
+        {
+          "name": "Palacio de Escoriaza-Esquivel",
+          "coords": [
+            42.8469,
+            -2.6732
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fassade wirkt klein, also langsam vorbeigehen.",
+            "hu": "Kicsi homlokzat, érdemes lassan elsétálni mellette.",
+            "ro": "Fațada e mică, mergi încet pe lângă ea.",
+            "en": "Small facade, so pass it slowly."
+          }
+        },
+        {
+          "name": "Catedral de Santa María",
+          "coords": [
+            42.8474,
+            -2.6738
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der beste Blick liegt kurz vor oder nach der Führung.",
+            "hu": "A legjobb nézőpont a vezetés előtt vagy után van.",
+            "ro": "Cel mai bun unghi e înainte sau după tur.",
+            "en": "Best views come before or after the guided visit."
+          }
+        },
+        {
+          "name": "Catedral Nueva",
+          "coords": [
+            42.8468,
+            -2.6699
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Innen ist es moderner, aber trotzdem sehr ruhig.",
+            "hu": "Belül modernebb, mégis nagyon nyugodt.",
+            "ro": "Interiorul e mai modern, dar rămâne liniștit.",
+            "en": "The interior feels modern but still calm."
+          }
+        },
+        {
+          "name": "Artium",
+          "coords": [
+            42.8479,
+            -2.6702
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nimm dir auch für Shop und Fassade Zeit.",
+            "hu": "A shopra és a homlokzatra is hagyj időt.",
+            "ro": "Lasă timp și pentru shop, și pentru fațadă.",
+            "en": "Leave time for the shop and the facade."
+          }
+        },
+        {
+          "name": "Museo Fournier de Naipes",
+          "coords": [
+            42.8481,
+            -2.6707
+          ],
+          "category": "museum",
+          "arrive_at": "15:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Kartensammlung ist klein, aber stark.",
+            "hu": "A kártyagyűjtemény kicsi, de nagyon jó.",
+            "ro": "Colecția de cărți e mică, dar foarte bună.",
+            "en": "The card collection is small but excellent."
+          }
+        },
+        {
+          "name": "Anillo Verde",
+          "coords": [
+            42.8398,
+            -2.658
+          ],
+          "category": "park",
+          "arrive_at": "18:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Am besten am späten Nachmittag, wenn es stiller wird.",
+            "hu": "A legjobb késő délután, amikor csendesebb.",
+            "ro": "Cel mai bine după-amiaza târziu, când e mai liniște.",
+            "en": "Best in late afternoon, when it gets quieter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens startest du an der Plaza de la Virgen Blanca und läufst weiter zur Plaza del Machete und zum Palacio de Escoriaza-Esquivel. Mittags setzen Santa María, Catedral Nueva und Artium den kulturellen Kern. Am Nachmittag entschleunigen Museo Fournier und der Anillo Verde den Tag. Abends passt noch ein kurzer Pintxo-Stopp in der Altstadt.",
+        "hu": "Reggel a Plaza de la Virgen Blancán indulj, majd jöhet a Plaza del Machete és az Escoriaza-Esquivel palota. Délben a Santa María, a Catedral Nueva és az Artium adja a nap magját. Délután a Museo Fournier és az Anillo Verde lassít le igazán. Estére egy pintxós kör zárja a várost.",
+        "ro": "Dimineața începe în Plaza de la Virgen Blanca, apoi mergi spre Plaza del Machete și Palacio de Escoriaza-Esquivel. La prânz, Santa María, Catedral Nueva și Artium dau ritmul zilei. După-amiaza încetinești la Museo Fournier și pe Anillo Verde. Seara merge perfect cu pintxos în centrul vechi.",
+        "en": "Start in Plaza de la Virgen Blanca, continue to Plaza del Machete and Palacio de Escoriaza-Esquivel. By noon, Santa María, Catedral Nueva and Artium set the cultural core. In the afternoon, Museo Fournier and Anillo Verde slow the pace. Finish with pintxos in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos de setas bei Sagartoki",
+            "tip": "Ideal für einen frühen Abend."
+          },
+          {
+            "name": "Bacalao al pil-pil im El Portalón",
+            "tip": "Klassisch baskisch, wenn du reservieren kannst."
+          },
+          {
+            "name": "Txuleta bei Zaldiaran",
+            "tip": "Perfekt für ein langes Mittagessen."
+          },
+          {
+            "name": "Gildas und Txakoli bei Toloño",
+            "tip": "Gut zum Teilen und zum schnellen Zwischenstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás pintxók a Sagartokiban",
+            "tip": "Korai estére a legjobb."
+          },
+          {
+            "name": "Pil-pil tőkehal az El Portalónban",
+            "tip": "Klasszikus baszk fogás, érdemes foglalni."
+          },
+          {
+            "name": "Txuleta a Zaldiaranban",
+            "tip": "Hosszú ebédhez ideális."
+          },
+          {
+            "name": "Gilda és txakoli a Toloñóban",
+            "tip": "Jó megosztani és gyorsan megállni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos cu ciuperci la Sagartoki",
+            "tip": "Buni pentru începutul serii."
+          },
+          {
+            "name": "Cod al pil-pil la El Portalón",
+            "tip": "Un clasic basc, rezervă dacă poți."
+          },
+          {
+            "name": "Txuleta la Zaldiaran",
+            "tip": "Ideală pentru un prânz lung."
+          },
+          {
+            "name": "Gildas și txakoli la Toloño",
+            "tip": "Bun de împărțit și de oprit rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mushroom pintxos at Sagartoki",
+            "tip": "Best for an early evening stop."
+          },
+          {
+            "name": "Pil-pil cod at El Portalón",
+            "tip": "A Basque classic if you can book ahead."
+          },
+          {
+            "name": "Txuleta at Zaldiaran",
+            "tip": "Great for a long lunch."
+          },
+          {
+            "name": "Gildas and txakoli at Toloño",
+            "tip": "Good for sharing and a quick stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Langer, ruhiger Spaziergang mit Abendlicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Am stillsten vor den Führungen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Früh am Morgen fast leer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Machete",
+            "tip": "Gegen Abend weich und ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Hosszú, nyugodt séta esti fénnyel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "A vezetett túrák előtt a legcsendesebb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Kora reggel szinte üres.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Machete",
+            "tip": "Estefelé puha és csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Plimbare lungă și liniștită la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Cel mai liniștit înainte de tururi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Dimineața devreme e aproape goală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Machete",
+            "tip": "Spre seară devine mai calmă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Long, quiet walk with evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Quietest before the tours begin.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Almost empty early in the morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaza del Machete",
+            "tip": "Soft and calm toward evening.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Für lokale Produkte und kleine Essensgeschenke."
+          },
+          {
+            "name": "Shop im Museo Fournier",
+            "tip": "Für Karten, Drucke und originelle Souvenirs."
+          },
+          {
+            "name": "Shop im Artium",
+            "tip": "Gut für Designbücher und moderne Prints."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi termékekhez és kis gasztroajándékokhoz."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "Kártyákhoz, nyomatokhoz és ötletes szuvenírekhez."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Designkönyvekhez és modern printekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Pentru produse locale și mici cadouri culinare."
+          },
+          {
+            "name": "Shop-ul Museo Fournier",
+            "tip": "Pentru cărți de joc și suveniruri originale."
+          },
+          {
+            "name": "Shop-ul Artium",
+            "tip": "Bun pentru cărți de design și printuri moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "For local produce and small edible gifts."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "For cards, prints and quirky souvenirs."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Good for design books and modern prints."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt, aber das Kopfsteinpflaster verlangt bequeme Schuhe.",
+          "Starte direkt um 09:10, damit du die Plätze ohne Gruppen siehst.",
+          "Heb dir den Anillo Verde für den späten Nachmittag auf, wenn das Licht weicher wird.",
+          "Wenn du müde wirst, streich einen Museumsteil und geh früher ins Grüne."
+        ],
+        "hu": [
+          "Az óváros kicsi, de a macskakő miatt kényelmes cipő kell.",
+          "Indulj pontosan 09:10-kor, így a terek még nyugodtak.",
+          "Az Anillo Verdét tedd a késő délutánra, mert akkor szebb a fény.",
+          "Ha elfáradsz, rövidítsd le az egyik múzeumot, és menj előbb zöldbe."
+        ],
+        "ro": [
+          "Centrul vechi e compact, dar piatra cubică cere pantofi comozi.",
+          "Pornește la 09:10 ca să prinzi piețele fără grupuri.",
+          "Păstrează Anillo Verde pentru după-amiază târziu, când lumina e mai caldă.",
+          "Dacă te obosești, scurtează un muzeu și mergi mai repede spre zona verde."
+        ],
+        "en": [
+          "The old town is compact, but cobbles reward proper shoes.",
+          "Start right at 09:10 so the squares stay calm.",
+          "Keep Anillo Verde for late afternoon, when the light is softer.",
+          "If you need to trim time, cut one museum stop and go green earlier."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 2.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Plaza de la Virgen Blanca",
+          "coords": [
+            42.8465,
+            -2.6719
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh anrollen: dann ist der Platz am leersten.",
+            "hu": "Korán érkezz: akkor a legszabadabb a tér.",
+            "ro": "Ajungi devreme: atunci piața e cea mai liberă.",
+            "en": "Roll in early: the square is emptiest then."
+          }
+        },
+        {
+          "name": "Plaza del Machete",
+          "coords": [
+            42.8461,
+            -2.6726
+          ],
+          "category": "square",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurz anhalten und die Fassaden auf der Nordseite ansehen.",
+            "hu": "Állj meg röviden, és nézd meg az északi homlokzatokat.",
+            "ro": "Oprește puțin și uită-te la fațadele nordice.",
+            "en": "Pause briefly and check the north-side facades."
+          }
+        },
+        {
+          "name": "Palacio de Escoriaza-Esquivel",
+          "coords": [
+            42.8469,
+            -2.6732
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die kleine Fassade wirkt besser, wenn du langsam fährst.",
+            "hu": "A kis homlokzat lassú haladásnál mutat a legjobban.",
+            "ro": "Fațada mică arată mai bine dacă te miști încet.",
+            "en": "The small facade looks best when you slow down."
+          }
+        },
+        {
+          "name": "Catedral de Santa María",
+          "coords": [
+            42.8474,
+            -2.6738
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parke das Rad in der Nähe und geh die letzten Meter zu Fuß.",
+            "hu": "Tedd le a biciklit a közelben, az utolsó métereket gyalogedd.",
+            "ro": "Lasă bicicleta aproape și mergi ultimii metri pe jos.",
+            "en": "Park nearby and walk the last few meters."
+          }
+        },
+        {
+          "name": "Catedral Nueva",
+          "coords": [
+            42.8468,
+            -2.6699
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der modernere Innenraum ist ein guter Kontrast zum Altstadtkern.",
+            "hu": "A modernebb belső jó kontraszt az óvárossal.",
+            "ro": "Interiorul mai modern contrastează bine cu centrul vechi.",
+            "en": "The more modern interior contrasts nicely with the old town."
+          }
+        },
+        {
+          "name": "Artium",
+          "coords": [
+            42.8479,
+            -2.6702
+          ],
+          "category": "museum",
+          "arrive_at": "13:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine längere Pause ohne Umwege.",
+            "hu": "Jó hely egy hosszabb megállóra, kerülő nélkül.",
+            "ro": "Loc bun pentru o pauză mai lungă, fără ocol.",
+            "en": "A good place for a longer break without detours."
+          }
+        },
+        {
+          "name": "Museo Fournier de Naipes",
+          "coords": [
+            42.8481,
+            -2.6707
+          ],
+          "category": "museum",
+          "arrive_at": "15:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Klein genug für einen ruhigen Stopp, stark genug fürs Gedächtnis.",
+            "hu": "Elég kicsi a nyugodt megállóhoz, elég erős az élményhez.",
+            "ro": "Destul de mic pentru o pauză liniștită, destul de bun pentru memorat.",
+            "en": "Small enough for a calm stop, strong enough to remember."
+          }
+        },
+        {
+          "name": "Anillo Verde",
+          "coords": [
+            42.8398,
+            -2.658
+          ],
+          "category": "park",
+          "arrive_at": "17:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ideal zum Ausrollen, wenn du die Beine lockern willst.",
+            "hu": "Ideális levezetés, ha lazítani akarod a lábad.",
+            "ro": "Ideal pentru relaxare și un final mai ușor.",
+            "en": "Ideal for winding down and loosening the legs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen rollst du sanft durch die Plaza de la Virgen Blanca und die Plaza del Machete. Zur Mittagszeit verbinden Santa María, Catedral Nueva und Artium Geschichte mit Kultur. Am Nachmittag bringt dich das Rad rasch zum Museo Fournier und weiter in den Anillo Verde. Abends bleibt genug Zeit für Pintxos und einen entspannten Rückweg.",
+        "hu": "Reggel finoman gördülj át a Plaza de la Virgen Blancán és a Plaza del Machetén. Délben a Santa María, a Catedral Nueva és az Artium köti össze a történelmet a kultúrával. Délután a bicikli gyorsan visz a Museo Fournierhez, majd az Anillo Verdébe. Estére marad idő pintxókra és egy nyugodt hazatérésre.",
+        "ro": "Dimineața aluneci ușor prin Plaza de la Virgen Blanca și Plaza del Machete. La prânz, Santa María, Catedral Nueva și Artium leagă istoria de cultură. După-amiaza, bicicleta te duce repede la Museo Fournier și apoi în Anillo Verde. Seara rămâne timp pentru pintxos și întoarcere relaxată.",
+        "en": "In the morning you roll gently through Plaza de la Virgen Blanca and Plaza del Machete. By noon, Santa María, Catedral Nueva and Artium connect history with culture. In the afternoon the bike gets you quickly to Museo Fournier and then to Anillo Verde. Evening still leaves room for pintxos and an easy ride back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos de setas bei Sagartoki",
+            "tip": "Perfekt nach einer langen Runde."
+          },
+          {
+            "name": "Bacalao al pil-pil im El Portalón",
+            "tip": "Gut, wenn du ein ruhiges Mittagessen willst."
+          },
+          {
+            "name": "Txuleta bei Zaldiaran",
+            "tip": "Ideal nach einem aktiven Tag auf dem Rad."
+          },
+          {
+            "name": "Gildas und Txakoli bei Toloño",
+            "tip": "Leicht, schnell und sehr lokal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás pintxók a Sagartokiban",
+            "tip": "Hosszú kör után különösen jó."
+          },
+          {
+            "name": "Pil-pil tőkehal az El Portalónban",
+            "tip": "Jó választás nyugodt ebédhez."
+          },
+          {
+            "name": "Txuleta a Zaldiaranban",
+            "tip": "Aktív nap után ideális."
+          },
+          {
+            "name": "Gilda és txakoli a Toloñóban",
+            "tip": "Könnyű, gyors és nagyon helyi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos cu ciuperci la Sagartoki",
+            "tip": "Foarte bune după un tur lung."
+          },
+          {
+            "name": "Cod al pil-pil la El Portalón",
+            "tip": "Bun pentru un prânz liniștit."
+          },
+          {
+            "name": "Txuleta la Zaldiaran",
+            "tip": "Ideală după o zi activă pe bicicletă."
+          },
+          {
+            "name": "Gildas și txakoli la Toloño",
+            "tip": "Ușor, rapid și foarte local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mushroom pintxos at Sagartoki",
+            "tip": "Great after a long ride."
+          },
+          {
+            "name": "Pil-pil cod at El Portalón",
+            "tip": "A good choice for a quiet lunch."
+          },
+          {
+            "name": "Txuleta at Zaldiaran",
+            "tip": "Ideal after an active day on the bike."
+          },
+          {
+            "name": "Gildas and txakoli at Toloño",
+            "tip": "Light, quick and very local."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Am besten vor Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Leise Stunde vor den Besuchen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Morgens besonders entspannt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Innen ruhig, gut für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Naplemente előtt a legjobb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Nyugodt óra a látogatások előtt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Reggel különösen pihentető.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Belül csendes, jó megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Cel mai bun înainte de apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Ora liniștită de dinaintea vizitelor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Dimineața e foarte relaxantă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Liniștit în interior, bun pentru pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Best before sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "A quiet hour before the visits.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Especially relaxing in the morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Quiet inside, good for a pause.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Für lokale Produkte und Mitbringsel."
+          },
+          {
+            "name": "Shop im Museo Fournier",
+            "tip": "Für Karten und kleine Sammlerstücke."
+          },
+          {
+            "name": "Artium Shop",
+            "tip": "Für Bücher und Designgeschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi termékekhez és ajándékokhoz."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "Kártyákhoz és kis gyűjtői darabokhoz."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Könyvekhez és designajándékokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Pentru produse locale și cadouri."
+          },
+          {
+            "name": "Shop-ul Museo Fournier",
+            "tip": "Pentru cărți și obiecte de colecție."
+          },
+          {
+            "name": "Shop-ul Artium",
+            "tip": "Pentru cărți și cadouri de design."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "For local products and gifts."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "For cards and small collector items."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "For books and design gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vitoria ist sehr fahrradfreundlich, aber im Zentrum langsam fahren.",
+          "Die gepflasterten Altstadtachsen sind kurz, also lieber präzise parken und dann rollen.",
+          "Für Anillo Verde lohnt sich ein spätes Zeitfenster mit ruhigerem Verkehr.",
+          "Nimm ein Schloss mit, denn bei den Museumshalten parkst du das Rad öfter."
+        ],
+        "hu": [
+          "Vitoria nagyon bringabarát, de a központban lassan tekerj.",
+          "Az óváros macskaköves utcái rövidek, ezért inkább pontosan parkolj, majd gurulj tovább.",
+          "Az Anillo Verde későbbi idősávban a legjobb, amikor kisebb a forgalom.",
+          "Vigyél lakatot, mert a múzeumoknál többször meg fogsz állni."
+        ],
+        "ro": [
+          "Vitoria este foarte prietenoasă cu bicicleta, dar în centru mergi încet.",
+          "Străzile pietruite din centrul vechi sunt scurte, deci parchează precis și apoi rulează.",
+          "Pentru Anillo Verde merită un interval mai târziu, când traficul e mai liniștit.",
+          "Ia un lacăt, fiindcă la muzee vei opri bicicleta de mai multe ori."
+        ],
+        "en": [
+          "Vitoria is very bike-friendly, but ride slowly in the center.",
+          "The old-town cobbles are short, so park cleanly and roll on.",
+          "Anillo Verde works best in a later slot when traffic is calmer.",
+          "Bring a lock, because you'll stop more than once at museum visits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza de la Virgen Blanca",
+          "coords": [
+            42.8465,
+            -2.6719
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hier parken nur kurz, dann direkt zu Fuß weiter.",
+            "hu": "Itt csak röviden állj meg, aztán gyalog folytasd.",
+            "ro": "Parchează doar scurt aici, apoi continuă pe jos.",
+            "en": "Park only briefly here, then continue on foot."
+          }
+        },
+        {
+          "name": "Plaza del Machete",
+          "coords": [
+            42.8461,
+            -2.6726
+          ],
+          "category": "square",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mit dem Auto nicht rangieren, einfach den Block zu Fuß machen.",
+            "hu": "Autóval ne manőverezz, inkább gyalog járd be a blokkot.",
+            "ro": "Nu manevra cu mașina; fă blocul pe jos.",
+            "en": "Don't maneuver by car; do this block on foot."
+          }
+        },
+        {
+          "name": "Palacio de Escoriaza-Esquivel",
+          "coords": [
+            42.8469,
+            -2.6732
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Straße ist schmal, also lieber abstellen und gehen.",
+            "hu": "Az utca szűk, jobb leparkolni és gyalog menni.",
+            "ro": "Strada e îngustă, așa că oprește și mergi pe jos.",
+            "en": "The street is narrow, so park and walk."
+          }
+        },
+        {
+          "name": "Catedral de Santa María",
+          "coords": [
+            42.8474,
+            -2.6738
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Für die Altstadt ist einmal parken besser als mehrmals fahren.",
+            "hu": "Az óvárosban jobb egyszer parkolni, mint sokszor autózni.",
+            "ro": "În centrul vechi e mai bine să parchezi o dată decât să tot conduci.",
+            "en": "In the old town, one parking stop beats driving around."
+          }
+        },
+        {
+          "name": "Artium",
+          "coords": [
+            42.8479,
+            -2.6702
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Hier lohnt sich der erste echte Auto-Hop zwischen Clustern.",
+            "hu": "Itt jön az első igazi autós ugrás a klaszterek között.",
+            "ro": "Aici merită primul hop adevărat cu mașina între clustere.",
+            "en": "This is the first real car hop between clusters."
+          }
+        },
+        {
+          "name": "Museo Fournier de Naipes",
+          "coords": [
+            42.8481,
+            -2.6707
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß ist der Sprung kurz, also das Auto stehen lassen.",
+            "hu": "Gyalog rövid az ugrás, az autót hagyd állni.",
+            "ro": "Pe jos e o distanță scurtă, lasă mașina.",
+            "en": "The hop is short on foot, so leave the car parked."
+          }
+        },
+        {
+          "name": "Anillo Verde",
+          "coords": [
+            42.8398,
+            -2.658
+          ],
+          "category": "park",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der grüne Schluss funktioniert am besten mit einer einzigen Fahrt.",
+            "hu": "A zöld lezárás akkor a legjobb, ha csak egyszer hajtasz oda.",
+            "ro": "Finalul verde merge cel mai bine cu o singură deplasare.",
+            "en": "The green finish works best with one single drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen parkst du einmal nahe der Altstadt und gehst die kurzen Wege zu Fuß. Zur Mittagszeit bleibt der Kern aus Santa María, Catedral Nueva und Artium kompakt und stressfrei. Am Nachmittag springst du mit dem Auto nur zwischen den Clustern und sparst dir unnötige Schleifen. Abends ist der Anillo Verde der ruhige Abschluss vor dem Essen.",
+        "hu": "Reggel egyszer parkolj az óváros közelében, és a rövid szakaszokat gyalog tedd meg. Délben a Santa María, a Catedral Nueva és az Artium magja kompakt és stresszmentes marad. Délután az autóval csak a klaszterek között ugorj, és ne csinálj fölös kanyarokat. Estére az Anillo Verde adja a nyugodt lezárást vacsora előtt.",
+        "ro": "Dimineața parchezi o singură dată lângă centrul vechi și mergi pe jos pe traseele scurte. La prânz, nucleul cu Santa María, Catedral Nueva și Artium rămâne compact și fără stres. După-amiaza, folosești mașina doar între clustere și eviți ocolurile inutile. Seara, Anillo Verde e finalul liniștit înainte de cină.",
+        "en": "In the morning, park once near the old town and walk the short stretches. By noon, the Santa María, Catedral Nueva and Artium core stays compact and low-stress. In the afternoon, use the car only between clusters and skip unnecessary loops. Evening ends quietly at Anillo Verde before dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos de setas bei Sagartoki",
+            "tip": "Guter Stopp nach dem Parken."
+          },
+          {
+            "name": "Bacalao al pil-pil im El Portalón",
+            "tip": "Passt gut zu einem entspannten Mittagessen."
+          },
+          {
+            "name": "Txuleta bei Zaldiaran",
+            "tip": "Ideal, wenn du das Auto stehen lässt."
+          },
+          {
+            "name": "Gildas und Txakoli bei Toloño",
+            "tip": "Schnell, lokal und ohne großes Timing."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás pintxók a Sagartokiban",
+            "tip": "Jó megálló a parkolás után."
+          },
+          {
+            "name": "Pil-pil tőkehal az El Portalónban",
+            "tip": "Nyugodt ebédhez jól illik."
+          },
+          {
+            "name": "Txuleta a Zaldiaranban",
+            "tip": "Akkor ideális, ha az autó áll."
+          },
+          {
+            "name": "Gilda és txakoli a Toloñóban",
+            "tip": "Gyors, helyi és kevés időt igényel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos cu ciuperci la Sagartoki",
+            "tip": "Oprire bună după parcare."
+          },
+          {
+            "name": "Cod al pil-pil la El Portalón",
+            "tip": "Se potrivește unui prânz relaxat."
+          },
+          {
+            "name": "Txuleta la Zaldiaran",
+            "tip": "Ideală când ai lăsat mașina."
+          },
+          {
+            "name": "Gildas și txakoli la Toloño",
+            "tip": "Rapid, local și fără multă planificare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mushroom pintxos at Sagartoki",
+            "tip": "A good stop after parking."
+          },
+          {
+            "name": "Pil-pil cod at El Portalón",
+            "tip": "Fits a relaxed lunch well."
+          },
+          {
+            "name": "Txuleta at Zaldiaran",
+            "tip": "Ideal when the car is parked."
+          },
+          {
+            "name": "Gildas and txakoli at Toloño",
+            "tip": "Quick, local and low-fuss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Ruhiger Schluss vor dem Abendessen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Am besten nach dem frühen Ankommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Kurz nach 09:10 noch angenehm leer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Kleiner, stiller Innenstopp.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Csendes zárás vacsora előtt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "A korai érkezés után a legjobb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "09:10 után még kellemesen üres.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Kicsi, csendes beltéri megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Final liniștit înainte de cină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Cel mai bun după sosirea devreme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "După 09:10 e încă plăcut de liberă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "O oprire mică și liniștită în interior.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Quiet finish before dinner.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Best after an early arrival.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Still pleasantly empty just after 09:10.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Small, quiet indoor stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Für lokale Produkte und Mitbringsel."
+          },
+          {
+            "name": "Artium Shop",
+            "tip": "Für Designbücher und moderne Geschenke."
+          },
+          {
+            "name": "Shop im Museo Fournier",
+            "tip": "Für Karten und originelle Kleinigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi termékekhez és ajándékokhoz."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Designkönyvekhez és modern ajándékokhoz."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "Kártyákhoz és ötletes apróságokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Pentru produse locale și cadouri."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Pentru cărți de design și cadouri moderne."
+          },
+          {
+            "name": "Shop-ul Museo Fournier",
+            "tip": "Pentru cărți și mici obiecte originale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "For local products and gifts."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "For design books and modern gifts."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "For cards and small original items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke einmal in der Nähe des Zentrums und vermeide Fahrten in den engen Altstadtgassen.",
+          "Die kurzen Fußwege zwischen den Kernstopps sind schneller als jede Umparkerei.",
+          "Für den Anillo Verde lohnt sich eine späte Rückfahrt, wenn der Verkehr ruhiger ist.",
+          "Wenn du ein Parkhaus nimmst, wähle eines am Rand der Altstadt, nicht mitten im Kern."
+        ],
+        "hu": [
+          "Parkolj egyszer a központ közelében, és kerüld a szűk óvárosi utcák autózását.",
+          "A fő megállók közötti rövid séták gyorsabbak, mint a folyamatos parkolás.",
+          "Az Anillo Verdéhez későbbi visszaút éri meg, amikor kisebb a forgalom.",
+          "Ha parkolóházat választasz, inkább az óváros szélén legyen, ne a közepén."
+        ],
+        "ro": [
+          "Parchează o singură dată lângă centru și evită străduțele înguste din centrul vechi.",
+          "Distanțele scurte dintre opriri sunt mai rapide decât mutarea constantă a mașinii.",
+          "Pentru Anillo Verde merită să revii mai târziu, când traficul e mai calm.",
+          "Dacă alegi o parcare, ia una la marginea centrului vechi, nu chiar în mijloc."
+        ],
+        "en": [
+          "Park once near the center and avoid driving in the narrow old-town lanes.",
+          "The short walks between core stops are faster than constantly moving the car.",
+          "For Anillo Verde, a later return works better when traffic is calmer.",
+          "If you use a garage, pick one on the edge of the old town, not in the middle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza de la Virgen Blanca",
+          "coords": [
+            42.8465,
+            -2.6719
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Startpunkt für den ganzen Innenstadtbogen.",
+            "hu": "Jó kiindulópont az egész belvárosi körhöz.",
+            "ro": "Punct bun de start pentru traseul din centru.",
+            "en": "A strong starting point for the whole inner-city loop."
+          }
+        },
+        {
+          "name": "Plaza del Machete",
+          "coords": [
+            42.8461,
+            -2.6726
+          ],
+          "category": "square",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mit dem Bus brauchst du hier nicht hin und her zu fahren.",
+            "hu": "Itt nem kell busszal ide-oda menni, csak sétálj.",
+            "ro": "Aici nu are rost să tot schimbi transportul, mergi pe jos.",
+            "en": "No need to bounce around by bus here; just walk."
+          }
+        },
+        {
+          "name": "Palacio de Escoriaza-Esquivel",
+          "coords": [
+            42.8469,
+            -2.6732
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fußwege sind kurz, also Transit nur für die Sprünge nutzen.",
+            "hu": "A séták rövidek, a tömegközlekedés csak az ugrásokra kell.",
+            "ro": "Distanțele pe jos sunt scurte, folosește transportul doar pentru salturi.",
+            "en": "The walks are short, so use transit only for the jumps."
+          }
+        },
+        {
+          "name": "Catedral de Santa María",
+          "coords": [
+            42.8474,
+            -2.6738
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Altstadt bleibt zu Fuß am angenehmsten.",
+            "hu": "Az óváros gyalog a legkényelmesebb.",
+            "ro": "Centrul vechi e cel mai plăcut pe jos.",
+            "en": "The old town is most pleasant on foot."
+          }
+        },
+        {
+          "name": "Artium",
+          "coords": [
+            42.8479,
+            -2.6702
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Hier wechselst du sinnvoll vom Fußkern in den östlichen Bezirk.",
+            "hu": "Itt váltasz okosan a gyalogos magról a keleti negyedre.",
+            "ro": "Aici treci logic de la nucleul pe jos la districtul estic.",
+            "en": "This is the smart switch from the walkable core to the east side."
+          }
+        },
+        {
+          "name": "Museo Fournier de Naipes",
+          "coords": [
+            42.8481,
+            -2.6707
+          ],
+          "category": "museum",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußabschnitt spart den zweiten Umstieg.",
+            "hu": "Egy rövid séta megspórolja a második átszállást.",
+            "ro": "O scurtă plimbare îți scutește a doua schimbare.",
+            "en": "A short walk saves you a second transfer."
+          }
+        },
+        {
+          "name": "Anillo Verde",
+          "coords": [
+            42.8398,
+            -2.658
+          ],
+          "category": "park",
+          "arrive_at": "16:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Den letzten Transit-Hüpfer für das Grün aufheben.",
+            "hu": "A legutolsó átszállást tartsd meg a zöld részre.",
+            "ro": "Păstrează ultimul hop de transport pentru zona verde.",
+            "en": "Save the last transit hop for the green section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen nutzt du den Transit nur für den Einstieg und gehst im Zentrum fast alles zu Fuß. Zur Mittagszeit verbinden Santa María, Catedral Nueva und Artium die wichtigsten Kulturpunkte ohne Umwege. Am Nachmittag nimmst du die Linie nur für den Wechsel zum Museo Fournier und weiter zum Anillo Verde. Abends bleibt der Rückweg entspannt, weil die Hauptstrecke schon erledigt ist.",
+        "hu": "Reggel a tömegközlekedést csak az induláshoz használod, utána a központban szinte mindent gyalog intézel. Délben a Santa María, a Catedral Nueva és az Artium adja a fő kulturális tengelyt kerülők nélkül. Délután csak a Museo Fournierhez és az Anillo Verdéhez ugrasz át. Estére a visszaút nyugodt marad, mert a fő távot már letudtad.",
+        "ro": "Dimineața folosești transportul doar pentru pornire, apoi în centru mergi aproape peste tot pe jos. La prânz, Santa María, Catedral Nueva și Artium formează axa culturală principală fără ocolișuri. După-amiaza schimbi doar pentru Museo Fournier și apoi pentru Anillo Verde. Seara drumul de întoarcere rămâne relaxat, fiindcă partea grea e deja făcută.",
+        "en": "In the morning, use transit only to get started and then walk almost everything in the center. By noon, Santa María, Catedral Nueva and Artium form the main cultural spine with no detours. In the afternoon, you switch only for Museo Fournier and then Anillo Verde. Evening stays easy because the main travel is already done."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pintxos de setas bei Sagartoki",
+            "tip": "Gut vor der Heimfahrt."
+          },
+          {
+            "name": "Bacalao al pil-pil im El Portalón",
+            "tip": "Passt zu einem ruhigen Mittagstermin."
+          },
+          {
+            "name": "Txuleta bei Zaldiaran",
+            "tip": "Wenn du später noch viel laufen willst, eher mittags essen."
+          },
+          {
+            "name": "Gildas und Txakoli bei Toloño",
+            "tip": "Schneller Klassiker zwischen zwei Halten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás pintxók a Sagartokiban",
+            "tip": "Jó a hazafelé indulás előtt."
+          },
+          {
+            "name": "Pil-pil tőkehal az El Portalónban",
+            "tip": "Nyugodt ebédidőhöz illik."
+          },
+          {
+            "name": "Txuleta a Zaldiaranban",
+            "tip": "Ha később még sokat sétálsz, inkább ebédre jó."
+          },
+          {
+            "name": "Gilda és txakoli a Toloñóban",
+            "tip": "Gyors klasszikus két megálló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pintxos cu ciuperci la Sagartoki",
+            "tip": "Bun înainte de întoarcere."
+          },
+          {
+            "name": "Cod al pil-pil la El Portalón",
+            "tip": "Merge bine la un prânz liniștit."
+          },
+          {
+            "name": "Txuleta la Zaldiaran",
+            "tip": "Dacă mai ai mult de mers, mai bine la prânz."
+          },
+          {
+            "name": "Gildas și txakoli la Toloño",
+            "tip": "Clasic rapid între două opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mushroom pintxos at Sagartoki",
+            "tip": "Good before heading back."
+          },
+          {
+            "name": "Pil-pil cod at El Portalón",
+            "tip": "Fits a quiet lunch slot."
+          },
+          {
+            "name": "Txuleta at Zaldiaran",
+            "tip": "If you still have lots of walking later, eat this at lunch."
+          },
+          {
+            "name": "Gildas and txakoli at Toloño",
+            "tip": "A quick classic between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Am ruhigsten gegen Tagesende.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Vor dem Nachmittagsansturm angenehm still.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Früh und mit wenig Verkehr.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Guter ruhiger Innenstopp.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anillo Verde",
+            "tip": "A nap végén a legcsendesebb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Délutáni roham előtt még nyugodt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Korán és kevés forgalommal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "Jó csendes beltéri megálló.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Cel mai liniștit spre finalul zilei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Plăcut de calmă înainte de aglomerația de după-amiază.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Devreme și cu trafic redus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "O oprire interioară liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anillo Verde",
+            "tip": "Quietest toward the end of the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedral de Santa María",
+            "tip": "Still calm before the afternoon crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaza de la Virgen Blanca",
+            "tip": "Early and with little traffic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Museo Fournier",
+            "tip": "A quiet indoor stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Für lokale Snacks und Mitbringsel."
+          },
+          {
+            "name": "Museo Fournier Shop",
+            "tip": "Für Karten und kleine Geschenke."
+          },
+          {
+            "name": "Artium Shop",
+            "tip": "Für moderne Souvenirs und Drucke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Helyi snackekhez és ajándékokhoz."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "Kártyákhoz és apró ajándékokhoz."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "Modern szuvenírekhez és printekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Pentru gustări locale și cadouri."
+          },
+          {
+            "name": "Shop-ul Museo Fournier",
+            "tip": "Pentru cărți de joc și cadouri mici."
+          },
+          {
+            "name": "Shop-ul Artium",
+            "tip": "Pentru suveniruri moderne și printuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "For local snacks and gifts."
+          },
+          {
+            "name": "Museo Fournier shop",
+            "tip": "For cards and small gifts."
+          },
+          {
+            "name": "Artium shop",
+            "tip": "For modern souvenirs and prints."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutze den Transit für die größeren Sprünge und geh die Altstadt konsequent zu Fuß.",
+          "Die wichtigste Regel ist: eine Linie, ein Cluster, dann wieder laufen.",
+          "Wenn du den Anillo Verde am Ende planst, bleibt der Rest des Tages entspannt.",
+          "Prüfe vor 18:00 die Rückfahrt, damit du nicht in einen längeren Taktfaktor läufst."
+        ],
+        "hu": [
+          "A tömegközlekedést a nagyobb ugrásokra használd, az óvárost pedig járd be gyalog.",
+          "A legfontosabb szabály: egy járat, egy klaszter, utána újra séta.",
+          "Ha az Anillo Verdét a végére teszed, a nap többi része nyugodt marad.",
+          "18:00 előtt nézd meg a visszajáratot, hogy ne csússz bele hosszabb követési időbe."
+        ],
+        "ro": [
+          "Folosește transportul pentru salturile mai mari, iar centrul vechi parcurge-l pe jos.",
+          "Regula principală: o cursă, un cluster, apoi iar mers pe jos.",
+          "Dacă pui Anillo Verde la final, restul zilei rămâne relaxat.",
+          "Verifică întoarcerea înainte de 18:00 ca să nu prinzi un interval prea rar."
+        ],
+        "en": [
+          "Use transit for the bigger jumps and walk the old town fully.",
+          "The main rule is: one ride, one cluster, then walk again.",
+          "If you leave Anillo Verde for the end, the rest of the day stays relaxed.",
+          "Check the return before 18:00 so you don't get caught in a sparse schedule."
+        ]
+      }
+    }
+  }
+}

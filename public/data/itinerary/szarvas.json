@@ -1,0 +1,1148 @@
+{
+  "city_id": "szarvas",
+  "anchor": {
+    "name": "Szarvas",
+    "coords": [
+      20.55,
+      46.8667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Kirche (Ótemplom)",
+            "hu": "Ótemplom",
+            "ro": "Biserica Veche (Ótemplom)",
+            "en": "Old Church (Ótemplom)"
+          },
+          "coords": [
+            20.5428,
+            46.8665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den schlichten, aber beeindruckenden lutherischen Barockbau aus dem Jahr 1788.",
+            "hu": "Csodáld meg az 1788-ban épült, egyszerű, mégis lenyűgöző evangélikus barokk templomot.",
+            "ro": "Admirați structura barocă luterană, simplă dar impresionantă, datând din 1788.",
+            "en": "Admire the simple yet impressive Lutheran Baroque building from 1788."
+          }
+        },
+        {
+          "name": {
+            "de": "Tessedik-Sámuel-Museum",
+            "hu": "Tessedik Sámuel Múzeum",
+            "ro": "Muzeul Tessedik Sámuel",
+            "en": "Tessedik Sámuel Museum"
+          },
+          "coords": [
+            20.5445,
+            46.8675
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die landwirtschaftlichen Innovationen von Tessedik und die Stadtgeschichte.",
+            "hu": "Ismerd meg Tessedik mezőgazdasági újításait és a város történetét.",
+            "ro": "Aflați despre inovațiile agricole ale lui Tessedik și istoria orașului.",
+            "en": "Learn about Tessedik's agricultural innovations and the history of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bolza",
+            "hu": "Bolza-kastély",
+            "ro": "Castelul Bolza",
+            "en": "Bolza Castle"
+          },
+          "coords": [
+            20.5411,
+            46.8711
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Schlosspark am Ufer des Körös-Flusses.",
+            "hu": "Sétálj egyet a kastély parkjában a Körös partján.",
+            "ro": "Plimbați-vă prin parcul castelului de pe malul râului Criș.",
+            "en": "Take a walk in the castle park on the banks of the Körös river."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassertheater",
+            "hu": "Vízi Színház",
+            "ro": "Teatrul pe Apă",
+            "en": "Water Theatre"
+          },
+          "coords": [
+            20.5398,
+            46.8725
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eine Abendvorstellung an diesem einzigartigen Ort.",
+            "hu": "Nézd meg a műsort, hátha elcsípsz egy esti előadást ezen az egyedi helyszínen.",
+            "ro": "Verificați programul pentru un spectacol de seară în această locație unică.",
+            "en": "Check the schedule for an evening performance at this unique venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-Ungarn",
+            "hu": "Mini Magyarország Makettpark",
+            "ro": "Parcul de Machete Mini Ungaria",
+            "en": "Mini Hungary Model Park"
+          },
+          "coords": [
+            20.528,
+            46.868
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Spaß für die ganze Familie, die berühmtesten Gebäude Ungarns im Kleinformat zu sehen.",
+            "hu": "Az egész családnak szórakoztató látni Magyarország híres épületeit miniatűrben.",
+            "ro": "Distractiv pentru întreaga familie să vadă cele mai faimoase clădiri din Ungaria în miniatură.",
+            "en": "Fun for the whole family to see Hungary's most famous buildings in miniature."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Szarvas",
+            "hu": "Szarvasi Arborétum",
+            "ro": "Arboretul din Szarvas",
+            "en": "Szarvas Arboretum"
+          },
+          "coords": [
+            20.525,
+            46.865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in einer der größten Pflanzensammlungen Ungarns. Perfekt für einen ruhigen Nachmittag.",
+            "hu": "Vessz el Magyarország egyik legnagyobb növénygyűjteményében. Tökéletes egy csendes délutánhoz.",
+            "ro": "Pierdeți-vă în una dintre cele mai mari colecții de plante din Ungaria. Perfect pentru o după-amiază liniștită.",
+            "en": "Get lost in one of Hungary's largest plant collections. Perfect for a quiet afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Szarvas mit der Erkundung der lutherischen Alten Kirche und dem Eintauchen in die lokale Geschichte im Tessedik-Museum. Am Nachmittag spazieren Sie entlang des Flusses zum Bolza-Schloss und dem einzigartigen Wassertheater, bevor Sie in die Miniaturwelt von Mini-Ungarn eintauchen. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang durch die üppigen Pfade des berühmten Arboretums.",
+        "hu": "Kezdje a napot Szarvas történelmi szívében, fedezze fel az evangélikus Ótemplomot, majd merüljön el a helytörténetben a Tessedik Múzeumban. Délután sétáljon a folyóparton a Bolza-kastélyhoz és az egyedülálló Vízi Színházhoz, mielőtt felfedezné Mini Magyarország miniatűr világát. Zárja a napot egy pihentető sétával a híres Arborétum buja ösvényein.",
+        "ro": "Începeți ziua în inima istorică a orașului Szarvas, explorând Biserica Veche luterană și aprofundând istoria locală la Muzeul Tessedik. După-amiaza, plimbați-vă pe malul râului până la Castelul Bolza și unicul Teatru pe Apă, înainte de a pătrunde în lumea miniaturală a parcului Mini Ungaria. Încheiați ziua cu o plimbare relaxantă pe cărările luxuriante ale faimosului Arboretum.",
+        "en": "Start your day in the historic heart of Szarvas, exploring the Lutheran Old Church and diving into local history at the Tessedik Museum. In the afternoon, stroll along the river to Bolza Castle and the unique Water Theatre before delving into the miniature world of Mini Hungary. End your day with a relaxing walk through the lush paths of the famous Arboretum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Probieren Sie die lokale Fischsuppe (halászlé), eine Spezialität der Region Theiß."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Kóstold meg a helyi halászlét, ami a tiszai régió specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halászcsárda",
+            "tip": "Încercați supa de pește locală (halászlé), o specialitate a regiunii Tisa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halászcsárda (Fisherman's Inn)",
+            "tip": "Try the local fish soup (halászlé), a specialty of the Tisza region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Körös-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer für einen friedlichen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "Die abgelegenen Pfade des Arboretums sind perfekt für eine stille Kontemplation.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Körös-part",
+            "tip": "Keress egy csendes padot a folyóparton egy békés pillanathoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arborétum",
+            "tip": "Az arborétum félreeső ösvényei tökéletesek a csendes elmélkedéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Criș",
+            "tip": "Găsiți o bancă liniștită pe malul râului pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "Cărările izolate ale arboretului sunt perfecte pentru contemplare în tăcere.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Körös Riverbank",
+            "tip": "Find a quiet bench along the riverbank for a peaceful moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arboretum",
+            "tip": "The secluded paths of the arboretum are perfect for quiet contemplation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgemachten Produkten und lokalen Erzeugnissen wie Paprika und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress kézműves termékeket és helyi finomságokat, mint a paprika és a méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați produse artizanale și produse locale, cum ar fi boia de ardei și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handcrafted goods and local produce like paprika and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an heißen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz gyalogolni.",
+          "Vigyél magaddal vizet, különösen a forró napokon.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu voi, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring water with you, especially on hot days.",
+          "Most city center sights are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mini-Ungarn",
+            "hu": "Mini Magyarország Makettpark",
+            "ro": "Parcul de Machete Mini Ungaria",
+            "en": "Mini Hungary Model Park"
+          },
+          "coords": [
+            20.528,
+            46.868
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer Radtour durch ganz Ungarn im Kleinformat.",
+            "hu": "Kezdd a napot egy biciklis körúttal egész Magyarországon – miniatűrben.",
+            "ro": "Începeți cu un tur cu bicicleta prin întreaga Ungarie în miniatură.",
+            "en": "Start with a bike tour of all of Hungary in miniature."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Szarvas",
+            "hu": "Szarvasi Arborétum",
+            "ro": "Arboretul din Szarvas",
+            "en": "Szarvas Arboretum"
+          },
+          "coords": [
+            20.525,
+            46.865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Arboretum ist riesig, ein Fahrrad ist ideal, um mehr davon zu erkunden.",
+            "hu": "Az Arborétum hatalmas, biciklivel ideális többet felfedezni belőle.",
+            "ro": "Arboretul este imens, o bicicletă este ideală pentru a explora mai mult din el.",
+            "en": "The arboretum is huge, a bike is ideal for exploring more of it."
+          }
+        },
+        {
+          "name": {
+            "de": "Körös-Maros Nationalpark Zentrum",
+            "hu": "Körös-Maros Nemzeti Park Látogatóközpont",
+            "ro": "Centrul de vizitare al Parcului Național Criș-Mureș",
+            "en": "Körös-Maros National Park Visitor Center"
+          },
+          "coords": [
+            20.57,
+            46.85
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einzigartige Tierwelt der Region, bevor Sie vielleicht eine Radtour in den Park unternehmen.",
+            "hu": "Ismerd meg a régió egyedi élővilágát, mielőtt esetleg teszel egy kerékpártúrát a parkban.",
+            "ro": "Aflați despre fauna sălbatică unică a regiunii înainte de a face o plimbare cu bicicleta în parc.",
+            "en": "Learn about the region's unique wildlife before perhaps taking a bike tour into the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockenmühle",
+            "hu": "Szárazmalom",
+            "ro": "Moara uscată",
+            "en": "Dry Mill"
+          },
+          "coords": [
+            20.56,
+            46.862
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Stück Industriegeschichte, das von Pferden angetrieben wurde.",
+            "hu": "Az ipari történelem egy lenyűgöző darabja, amelyet lovak hajtottak.",
+            "ro": "O piesă fascinantă de istorie industrială, care era acționată de cai.",
+            "en": "A fascinating piece of industrial history that was powered by horses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bolza",
+            "hu": "Bolza-kastély",
+            "ro": "Castelul Bolza",
+            "en": "Bolza Castle"
+          },
+          "coords": [
+            20.5411,
+            46.8711
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer eleganten Note im Park dieses neobarocken Schlosses.",
+            "hu": "Fejezd be a biciklitúrát elegáns módon ennek a neobarokk kastélynak a parkjában.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o notă elegantă în parcul acestui castel neobaroc.",
+            "en": "End your bike tour with an elegant touch in the park of this neo-baroque castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour ist perfekt, um die ausgedehnten Naturattraktionen von Szarvas zu erkunden. Beginnen Sie im Mini-Ungarn-Park und fahren Sie dann zum riesigen Arboretum. Nach dem Mittagessen führt Sie eine längere Fahrt zum Nationalparkzentrum Körös-Maros. Auf dem Rückweg ins Stadtzentrum entdecken Sie die historische Trockenmühle, bevor Sie den Tag entspannt im Park des Bolza-Schlosses ausklingen lassen.",
+        "hu": "A kerékpártúra tökéletes Szarvas kiterjedt természeti látnivalóinak felfedezéséhez. Kezdj a Mini Magyarország makettparkban, majd tekerj át a hatalmas Arborétumba. Ebéd után egy hosszabb út vezet a Körös-Maros Nemzeti Park központjába. Visszafelé a városközpontba fedezd fel a történelmi Szárazmalmot, mielőtt a napot a Bolza-kastély parkjában fejeznéd be.",
+        "ro": "Un tur cu bicicleta este perfect pentru a explora atracțiile naturale extinse din Szarvas. Începeți la parcul Mini Ungaria, apoi mergeți la imensul Arboretum. După prânz, o plimbare mai lungă vă va duce la centrul Parcului Național Criș-Mureș. Pe drumul de întoarcere spre centrul orașului, descoperiți istorica Moară uscată înainte de a încheia ziua relaxându-vă în parcul Castelului Bolza.",
+        "en": "A bike tour is perfect for exploring the extensive natural attractions of Szarvas. Start at the Mini Hungary park, then cycle to the vast Arboretum. After lunch, a longer ride takes you to the Körös-Maros National Park center. On the way back to the city center, discover the historic Dry Mill before finishing the day relaxing in the park of Bolza Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales 'Lángos'-Stand",
+            "tip": "Tanken Sie Energie mit einem frischen, heißen Lángos, einem ungarischen frittierten Fladenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lángosos",
+            "tip": "Töltődj fel energiával egy friss, forró lángossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand local de 'Lángos'",
+            "tip": "Realimentați-vă cu un lángos proaspăt și fierbinte, o plăcintp prăjită maghiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local 'Lángos' stand",
+            "tip": "Refuel with a fresh, hot lángos, a Hungarian fried dough."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anna-Hain",
+            "tip": "Ein ruhiger Hain im Arboretum, ideal für eine Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Uferweg des Körös",
+            "tip": "Ein friedlicher Radweg entlang des Flusses.",
+            "emoji": "🚴‍♀️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anna-liget",
+            "tip": "Egy csendes liget az Arborétumban, ideális egy kis pihenésre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Körös-parti kerékpárút",
+            "tip": "Békés kerékpárút a folyó mentén.",
+            "emoji": "🚴‍♀️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava Anna",
+            "tip": "O dumbravă liniștită în arboretum, ideală pentru o pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pista de biciclete de pe malul Crișului",
+            "tip": "O pistă de biciclete pașnică de-a lungul râului.",
+            "emoji": "🚴‍♀️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anna Grove",
+            "tip": "A quiet grove within the arboretum, ideal for a break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Körös riverbank bike path",
+            "tip": "A peaceful cycle path along the river.",
+            "emoji": "🚴‍♀️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Fahrradzubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásárolj helyi kerékpáros kiegészítőket vagy szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale pentru biciclete sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up some local cycling accessories or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Szarvas ist relativ flach, was das Radfahren erleichtert.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet.",
+          "Szarvas viszonylag sík, ami megkönnyíti a kerékpározást.",
+          "Mindig zárd le a biciklidet, amikor leteszed."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Szarvas este relativ plat, ceea ce face ciclismul ușor.",
+          "Întotdeauna încuiați-vă bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Szarvas is relatively flat, which makes for easy cycling.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Körös-Maros Nationalpark Zentrum",
+            "hu": "Körös-Maros Nemzeti Park Látogatóközpont",
+            "ro": "Centrul de vizitare al Parcului Național Criș-Mureș",
+            "en": "Körös-Maros National Park Visitor Center"
+          },
+          "coords": [
+            20.57,
+            46.85
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Natur. Es gibt gute Parkmöglichkeiten, bevor Sie die Ausstellungen erkunden.",
+            "hu": "Kezdd a napot a természetben! Jó parkolási lehetőségek vannak a kiállítások felfedezése előtt.",
+            "ro": "Începeți ziua cu natura. Există parcare bună înainte de a explora expozițiile.",
+            "en": "Start your day with nature. There's good parking before you explore the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trockenmühle",
+            "hu": "Szárazmalom",
+            "ro": "Moara uscată",
+            "en": "Dry Mill"
+          },
+          "coords": [
+            20.56,
+            46.862
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um dieses einzigartige Denkmal der Agrargeschichte zu sehen.",
+            "hu": "Egy gyors megálló, hogy megnézd ezt az egyedülálló agrár-történeti emléket.",
+            "ro": "O oprire scurtă pentru a vedea acest monument unic al istoriei agrare.",
+            "en": "A quick stop to see this unique monument of agrarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Szarvas",
+            "hu": "Szarvasi Arborétum",
+            "ro": "Arboretul din Szarvas",
+            "en": "Szarvas Arboretum"
+          },
+          "coords": [
+            20.525,
+            46.865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und erkunden Sie den ersten Cluster von Sehenswürdigkeiten.",
+            "hu": "Parkolj a bejáratnál, és fedezd fel az első látnivalócsoportot.",
+            "ro": "Parcați la intrare și explorați primul grup de atracții.",
+            "en": "Park at the entrance and explore the first cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-Ungarn",
+            "hu": "Mini Magyarország Makettpark",
+            "ro": "Parcul de Machete Mini Ungaria",
+            "en": "Mini Hungary Model Park"
+          },
+          "coords": [
+            20.528,
+            46.868
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Arboretum aus ist es nur ein kurzer Spaziergang.",
+            "hu": "Az Arborétumtól csak egy rövid séta.",
+            "ro": "Este la o scurtă plimbare de la Arboretum.",
+            "en": "It's just a short walk from the Arboretum."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Kirche (Ótemplom)",
+            "hu": "Ótemplom",
+            "ro": "Biserica Veche (Ótemplom)",
+            "en": "Old Church (Ótemplom)"
+          },
+          "coords": [
+            20.5428,
+            46.8665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und beginnen Sie Ihren Stadtrundgang hier.",
+            "hu": "Parkolj a központban, és kezdd itt a városnéző sétát.",
+            "ro": "Parcați în centru și începeți turul pietonal de aici.",
+            "en": "Park in the center and start your city walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tessedik-Sámuel-Museum",
+            "hu": "Tessedik Sámuel Múzeum",
+            "ro": "Muzeul Tessedik Sámuel",
+            "en": "Tessedik Sámuel Museum"
+          },
+          "coords": [
+            20.5445,
+            46.8675
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke der Kirche.",
+            "hu": "A templom sarkánál található.",
+            "ro": "Chiar la colțul bisericii.",
+            "en": "Just around the corner from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bolza",
+            "hu": "Bolza-kastély",
+            "ro": "Castelul Bolza",
+            "en": "Bolza Castle"
+          },
+          "coords": [
+            20.5411,
+            46.8711
+          ],
+          "arrive_at": "16:50",
+          "stay_min": 45,
+          "category": "famous residences",
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang zum Abschluss des Tages, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Egy kellemes séta a nap végén, mielőtt visszatérsz az autódhoz.",
+            "ro": "O plimbare plăcută pentru a încheia ziua înainte de a vă întoarce la mașină.",
+            "en": "A nice walk to end the day before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weiter entfernten Sehenswürdigkeiten von Szarvas bequem erreichen. Beginnen Sie im Nationalparkzentrum Körös-Maros, fahren Sie dann zur historischen Trockenmühle. Der nächste Cluster ist das Arboretum und Mini-Ungarn. Parken Sie dort und erkunden Sie beide zu Fuß. Schließlich fahren Sie ins Stadtzentrum, parken und beenden den Tag mit einem Spaziergang zur Alten Kirche, zum Tessedik-Museum und zum malerischen Bolza-Schloss.",
+        "hu": "Az autóval kényelmesen elérheted Szarvas távolabbi látnivalóit. Kezdj a Körös-Maros Nemzeti Park központjában, majd vezess a történelmi Szárazmalomhoz. A következő látnivalócsoport az Arborétum és a Mini Magyarország; parkolj le és fedezd fel mindkettőt gyalog. Végül vezess be a városközpontba, parkolj le, és fejezd be a napot egy sétával az Ótemplomhoz, a Tessedik Múzeumhoz és a festői Bolza-kastélyhoz.",
+        "ro": "Cu mașina, puteți ajunge convenabil la atracțiile mai îndepărtate din Szarvas. Începeți la centrul Parcului Național Criș-Mureș, apoi conduceți la istorica Moară uscată. Următorul grup este Arboretum și Mini Ungaria; parcați acolo și explorați ambele pe jos. În cele din urmă, conduceți spre centrul orașului, parcați și încheiați ziua cu o plimbare la Biserica Veche, Muzeul Tessedik și pitorescul Castel Bolza.",
+        "en": "By car, you can conveniently reach the more distant attractions of Szarvas. Start at the Körös-Maros National Park center, then drive to the historic Dry Mill. The next cluster is the Arboretum and Mini Hungary; park there and explore both on foot. Finally, drive to the city center, park, and finish the day with a walk to the Old Church, the Tessedik Museum, and the picturesque Bolza Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csárda a halászhoz",
+            "tip": "Ideal für ein herzhaftes Mittagessen nach dem Besuch des Nationalparks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csárda a halászhoz",
+            "tip": "Ideális egy kiadós ebédhez a Nemzeti Park meglátogatása után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Csárda a halászhoz",
+            "tip": "Ideal pentru un prânz copios după vizitarea parcului național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csárda a halászhoz (Inn to the Fisherman)",
+            "tip": "Ideal for a hearty lunch after visiting the national park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm im Nationalpark",
+            "tip": "Genießen Sie die weite Aussicht über die Puszta.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Paeonien-Garten im Arboretum",
+            "tip": "Ein besonders ruhiger und schöner Teil des Gartens zur Blütezeit.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Nemzeti Parkban",
+            "tip": "Élvezd a puszta fölötti széles kilátást.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Pünkösdirózsa-kert az Arborétumban",
+            "tip": "A kert egy különösen csendes és szép része virágzáskor.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turn de observație în parcul național",
+            "tip": "Bucurați-vă de priveliștea panoramică asupra pustei.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Grădina de bujori din Arboretum",
+            "tip": "O parte deosebit de liniștită și frumoasă a grădinii în timpul înfloririi.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookout Tower in the National Park",
+            "tip": "Enjoy the wide views over the puszta (steppe).",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Peony Garden in the Arboretum",
+            "tip": "An especially quiet and beautiful part of the garden during blooming season.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern, die lokale Produkte wie Wurst und Käse direkt vom Erzeuger verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környéken",
+            "tip": "Figyeld a táblákat, amelyek helyi termékeket, például kolbászt és sajtot árulnak közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă din zonă",
+            "tip": "Fiți atenți la indicatoarele care vând produse locale, cum ar fi cârnați și brânză, direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look out for signs selling local products like sausages and cheese directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Route im Voraus.",
+          "Parken ist in der Regel außerhalb des unmittelbaren Stadtzentrums leichter.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahegelegene Dörfer zu erkunden."
+        ],
+        "hu": [
+          "Tervezd meg előre az útvonaladat.",
+          "A parkolás általában könnyebb a közvetlen belvároson kívül.",
+          "Az autó rugalmasságot ad a közeli falvak felfedezéséhez is."
+        ],
+        "ro": [
+          "Planificați-vă traseul în avans.",
+          "Parcarea este de obicei mai ușoară în afara centrului imediat al orașului.",
+          "O mașină vă oferă flexibilitatea de a explora și satele din apropiere."
+        ],
+        "en": [
+          "Plan your route in advance.",
+          "Parking is generally easier outside the immediate city center.",
+          "A car gives you the flexibility to explore nearby villages as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Kirche (Ótemplom)",
+            "hu": "Ótemplom",
+            "ro": "Biserica Veche (Ótemplom)",
+            "en": "Old Church (Ótemplom)"
+          },
+          "coords": [
+            20.5428,
+            46.8665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Stadtzentrum, das von den meisten Buslinien angefahren wird.",
+            "hu": "Kezdj a városközpontban, amelyet a legtöbb buszjárat érint.",
+            "ro": "Începeți în centrul orașului, deservit de majoritatea liniilor de autobuz.",
+            "en": "Start in the city center, which is served by most bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Tessedik-Sámuel-Museum",
+            "hu": "Tessedik Sámuel Múzeum",
+            "ro": "Muzeul Tessedik Sámuel",
+            "en": "Tessedik Sámuel Museum"
+          },
+          "coords": [
+            20.5445,
+            46.8675
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus.",
+            "hu": "Egy rövid séta a templomtól.",
+            "ro": "La o scurtă plimbare de biserică.",
+            "en": "A short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassertheater",
+            "hu": "Vízi Színház",
+            "ro": "Teatrul pe Apă",
+            "en": "Water Theatre"
+          },
+          "coords": [
+            20.5398,
+            46.8725
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie am Flussufer entlang, um dieses Juwel zu finden.",
+            "hu": "Sétálj végig a folyóparton, hogy megtaláld ezt a gyöngyszemet.",
+            "ro": "Plimbați-vă pe malul râului pentru a găsi această bijuterie.",
+            "en": "Stroll along the riverbank to find this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Szarvas",
+            "hu": "Szarvasi Arborétum",
+            "ro": "Arboretul din Szarvas",
+            "en": "Szarvas Arboretum"
+          },
+          "coords": [
+            20.525,
+            46.865
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Arboretum. Die Haltestelle ist normalerweise direkt am Eingang.",
+            "hu": "Menj helyi busszal az Arborétumhoz. A megálló általában közvetlenül a bejáratnál van.",
+            "ro": "Luați un autobuz local spre Arboretum. Stația este de obicei chiar la intrare.",
+            "en": "Take a local bus to the Arboretum. The stop is usually right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini-Ungarn",
+            "hu": "Mini Magyarország Makettpark",
+            "ro": "Parcul de Machete Mini Ungaria",
+            "en": "Mini Hungary Model Park"
+          },
+          "coords": [
+            20.528,
+            46.868
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Arboretum-Eingang aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog az Arborétum bejáratától.",
+            "ro": "Ușor accesibil pe jos de la intrarea în Arboretum.",
+            "en": "Easily walkable from the Arboretum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Körös-Maros Nationalpark Zentrum",
+            "hu": "Körös-Maros Nemzeti Park Látogatóközpont",
+            "ro": "Centrul de vizitare al Parcului Național Criș-Mureș",
+            "en": "Körös-Maros National Park Visitor Center"
+          },
+          "coords": [
+            20.57,
+            46.85
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie einen Bus nehmen, der etwas außerhalb der Stadt fährt, um hierher zu gelangen.",
+            "hu": "Lehet, hogy egy kissé a városon kívülre közlekedő buszra kell szállnod, hogy idejuss.",
+            "ro": "S-ar putea să trebuiască să luați un autobuz care merge puțin în afara orașului pentru a ajunge aici.",
+            "en": "You might need to take a bus that goes slightly out of town to get here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Szarvas mit den lokalen Bussen. Beginnen Sie Ihren Tag mit einem Spaziergang im historischen Zentrum und besuchen Sie die Kirche, das Museum und das Wassertheater. Nehmen Sie dann einen Bus zum riesigen Arboretum und dem benachbarten Mini-Ungarn-Park. Eine weitere Busfahrt am Nachmittag bringt Sie zum Nationalparkzentrum, um mehr über die lokale Fauna und Flora zu erfahren, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Fedezd fel Szarvast a helyi buszokkal. Kezdd a napot egy sétával a történelmi központban, látogasd meg a templomot, a múzeumot és a Vízi Színházat. Ezután szállj buszra a hatalmas Arborétumhoz és a szomszédos Mini Magyarország parkhoz. Egy másik délutáni buszút elvisz a Nemzeti Park központjába, hogy többet megtudj a helyi állat- és növényvilágról, mielőtt visszatérnél a központba.",
+        "ro": "Descoperiți Szarvas folosind autobuzele locale. Începeți ziua cu un grup de atracții pietonale în centrul istoric, vizitând biserica, muzeul și Teatrul pe Apă. Apoi, luați un autobuz spre vastul Arboretum și parcul adiacent Mini Ungaria. O altă călătorie cu autobuzul după-amiaza vă va duce la centrul parcului național pentru a afla despre fauna și flora locală înainte de a vă întoarce în centru.",
+        "en": "Discover Szarvas using the local buses. Start your day with a walkable cluster in the historic center, visiting the church, museum and Water Theatre. Then take a bus to the vast Arboretum and the adjacent Mini Hungary park. Another bus ride in the afternoon will take you to the national park center to learn about local fauna and flora before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Hauptplatz",
+            "tip": "Ideal für ein schnelles Mittagessen zwischen den Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró a főtéren",
+            "tip": "Ideális egy gyors ebédhez a buszozások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro în piața principală",
+            "tip": "Ideal pentru un prânz rapid între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro in the main square",
+            "tip": "Ideal for a quick lunch between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Katalin II",
+            "tip": "Ein Ausflugsboot auf dem Körös-Fluss für eine entspannte Perspektive.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Leseecke im Arboretum",
+            "tip": "Finden Sie eine Bank in einem abgelegenen Teil des Arboretums und genießen Sie ein Buch.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalin II sétahajó",
+            "tip": "Tegyél egy kört a Körösön egy sétahajóval a pihentető perspektíváért.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Olvasósarok az Arborétumban",
+            "tip": "Keress egy padot az arborétum egy eldugott részén, és élvezz egy könyvet.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barca de agrement Katalin II",
+            "tip": "O barcă de agrement pe râul Criș pentru o perspectivă relaxantă.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Colț de lectură în Arboretum",
+            "tip": "Găsiți o bancă într-o parte retrasă a arboretului și bucurați-vă de o carte.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Katalin II tour boat",
+            "tip": "A pleasure boat on the Körös river for a relaxing perspective.",
+            "emoji": "🚤"
+          },
+          {
+            "name": "Reading corner in the Arboretum",
+            "tip": "Find a bench in a secluded part of the arboretum and enjoy a book.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Arboretum",
+            "tip": "Kaufen Sie pflanzenbezogene Souvenirs oder lokale Samen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt az Arborétumban",
+            "tip": "Vásárolj növényekkel kapcsolatos szuveníreket vagy helyi magokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Arboretum",
+            "tip": "Cumpărați suveniruri legate de plante sau semințe locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the Arboretum",
+            "tip": "Buy plant-related souvenirs or local seeds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für Strecken außerhalb der Stadt.",
+          "Beachten Sie, dass Busse am Wochenende möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, ha van.",
+          "Ellenőrizd előre a buszmenetrendet, különösen a városon kívüli járatok esetében.",
+          "Ne feledd, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, în special pentru rutele din afara orașului.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance, especially for routes out of town.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

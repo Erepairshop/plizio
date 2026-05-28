@@ -1,0 +1,1390 @@
+{
+  "city_id": "greece-giannitsa-cities-v2",
+  "anchor": {
+    "name": "Giannitsa",
+    "coords": [
+      40.79,
+      22.41
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrenturm von Giannitsa",
+            "hu": "Giannitsai óratorony",
+            "ro": "Turnul cu ceas din Giannitsa",
+            "en": "Clock Tower of Giannitsa"
+          },
+          "coords": [
+            22.4155,
+            40.7925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Treffpunkt der Stadt. Schnappen Sie sich einen Kaffee in einem der umliegenden Cafés.",
+            "hu": "A város találkozási pontja. Igyon egy kávét a környező kávézók egyikében.",
+            "ro": "Punctul de întâlnire al orașului. Luați o cafea la una dintre cafenelele din jur.",
+            "en": "The town's meeting point. Grab a coffee at one of the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue Alexanders des Großen",
+            "hu": "Nagy Sándor szobra",
+            "ro": "Statuia lui Alexandru cel Mare",
+            "en": "Statue of Alexander the Great"
+          },
+          "coords": [
+            22.413,
+            40.794
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für ein Foto mit dem berühmtesten Sohn der Region.",
+            "hu": "Kötelező fotó a régió leghíresebb szülöttével.",
+            "ro": "O fotografie obligatorie cu cel mai faimos fiu al regiunii.",
+            "en": "A must-have photo with the region's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Gazi Evrenos",
+            "hu": "Gazi Evrenos mauzóleuma",
+            "ro": "Mausoleul lui Gazi Evrenos",
+            "en": "Mausoleum of Gazi Evrenos"
+          },
+          "coords": [
+            22.418,
+            40.791
+          ],
+          "category": "historical",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das osmanische Erbe der Stadt an diesem wichtigen Grabmal.",
+            "hu": "Fedezze fel a város oszmán örökségét ennél a fontos síremléknél.",
+            "ro": "Descoperiți moștenirea otomană a orașului la acest mormânt important.",
+            "en": "Discover the city's Ottoman heritage at this important tomb."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Iskender Bey",
+            "hu": "Iskender Bey-mecset",
+            "ro": "Moscheea lui Iskender Bey",
+            "en": "Mosque of Iskender Bey"
+          },
+          "coords": [
+            22.419,
+            40.7905
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke des Mausoleums, ein weiteres Stück osmanischer Geschichte.",
+            "hu": "A mauzóleum sarkánál található, egy újabb darab az oszmán történelemből.",
+            "ro": "Chiar la colț de mausoleu, o altă bucată de istorie otomană.",
+            "en": "Just around the corner from the mausoleum, another piece of Ottoman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.41,
+            40.79
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eine beeindruckende orthodoxe Kathedrale, die einen Moment der Ruhe bietet.",
+            "hu": "Egy lenyűgöző ortodox katedrális, amely egy pillanatnyi nyugalmat kínál.",
+            "ro": "O catedrală ortodoxă impresionantă care oferă un moment de liniște.",
+            "en": "An impressive Orthodox cathedral offering a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            22.4145,
+            40.7915
+          ],
+          "category": "gastro",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie 'Soutzoukakia' oder 'Bougatsa'.",
+            "hu": "Kóstolja meg a helyi specialitásokat, mint a 'Soutzoukakia' vagy a 'Bougatsa'.",
+            "ro": "Încercați specialități locale precum 'Soutzoukakia' sau 'Bougatsa'.",
+            "en": "Try local specialties like 'Soutzoukakia' or 'Bougatsa'."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarze Statue (Mavro Agalma)",
+            "hu": "Fekete szobor (Mavro Agalma)",
+            "ro": "Statuia Neagră (Mavro Agalma)",
+            "en": "Black Statue (Mavro Agalma)"
+          },
+          "coords": [
+            22.417,
+            40.785
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Denkmal mit starker Symbolik für die lokale Geschichte. Ein guter Abschluss des Spaziergangs.",
+            "hu": "Egy emlékmű, amely erős szimbolikával bír a helyi történelem számára. Jó lezárása a sétának.",
+            "ro": "Un monument cu un simbolism puternic pentru istoria locală. O bună încheiere a plimbării.",
+            "en": "A monument with strong symbolism for local history. A good end to the walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am belebten Uhrenturm, dem Herzen von Giannitsa. Am Vormittag erkunden Sie das reiche osmanische und antike mazedonische Erbe der Stadt, von den Statuen bis zu den historischen Moscheen. Gönnen Sie sich am Mittag ein authentisches griechisches Mahl in einer Taverne im Zentrum. Der Nachmittag ist für einen ruhigen Besuch der Agios Georgios Kathedrale und einen besinnlichen Moment an der Schwarzen Statue reserviert, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot a nyüzsgő Óratoronynál, Giannitsa szívében. A délelőttöt szentelje a város gazdag oszmán és ókori makedón örökségének felfedezésére, a szobroktól a történelmi mecsetekig. Délben kényeztesse magát egy autentikus görög ebéddel egy központi tavernban. A délután a Szent György-székesegyház békés meglátogatására és egy elgondolkodtató pillanatra van fenntartva a Fekete szobornál, mielőtt lezárná a napot.",
+        "ro": "Începeți ziua la vibrantul Turn cu Ceas, inima orașului Giannitsa. Dimineața este dedicată explorării bogatei moșteniri otomane și macedonene antice a orașului, de la statui la moschei istorice. La prânz, răsfățați-vă cu o masă grecească autentică la o tavernă din centru. După-amiaza este rezervată pentru o vizită liniștită la Catedrala Agios Georgios și un moment de reflecție la Statuia Neagră, înainte de a încheia ziua.",
+        "en": "Start your day at the bustling Clock Tower, the heart of Giannitsa. The morning is for exploring the city's rich Ottoman and ancient Macedonian heritage, from statues to historic mosques. At midday, treat yourself to an authentic Greek meal at a central taverna. The afternoon is reserved for a peaceful visit to Agios Georgios Cathedral and a reflective moment at the Black Statue before winding down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bougatsa",
+            "tip": "Ein Muss zum Frühstück, süß oder herzhaft."
+          },
+          {
+            "name": "Soutzoukakia Smyrneika",
+            "tip": "Würzige Fleischbällchen in Tomatensauce."
+          },
+          {
+            "name": "Taverna Platanos",
+            "tip": "Bekannt für traditionelle griechische Gerichte in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bougatsa",
+            "tip": "Kötelező reggelire, édesen vagy sósan."
+          },
+          {
+            "name": "Soutzoukakia Smyrneika",
+            "tip": "Fűszeres húsgombócok paradicsomszószban."
+          },
+          {
+            "name": "Taverna Platanos",
+            "tip": "Hagyományos görög ételeiről és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bougatsa",
+            "tip": "O necesitate la micul dejun, dulce sau sărat."
+          },
+          {
+            "name": "Soutzoukakia Smyrneika",
+            "tip": "Chiftele picante în sos de roșii."
+          },
+          {
+            "name": "Taverna Platanos",
+            "tip": "Cunoscută pentru mâncăruri grecești tradiționale într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bougatsa",
+            "tip": "A must-try for breakfast, sweet or savory."
+          },
+          {
+            "name": "Soutzoukakia Smyrneika",
+            "tip": "Spicy meatballs in tomato sauce."
+          },
+          {
+            "name": "Taverna Platanos",
+            "tip": "Known for traditional Greek dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Loudias",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für etwas Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof der Agios Georgios Kirche",
+            "tip": "Ein friedlicher Ort zum Sitzen und Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loudias folyó partja",
+            "tip": "Egy rövid séta a központtól a nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az Agios Georgios templom udvara",
+            "tip": "Békés hely az ülésre és elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Loudias",
+            "tip": "O scurtă plimbare de la centru pentru puțină liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Bisericii Agios Georgios",
+            "tip": "Un loc pașnic pentru a sta și a reflecta.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loudias Riverbank",
+            "tip": "A short walk from the center for some peace and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Agios Georgios Church",
+            "tip": "A peaceful spot to sit and reflect.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Kaufen Sie lokale Produkte, Oliven und Honig."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásároljon helyi termékeket, olajbogyót és mézet."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, măsline și miere."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local produce, olives, and honey."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause, um das lokale Leben zu beobachten.",
+          "Respektieren Sie die religiösen Stätten und kleiden Sie sich angemessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a központ könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Szánjon időt egy kávészünetre, hogy megfigyelje a helyi életet.",
+          "Tartsa tiszteletben a vallási helyeket, és öltözzön megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Luați-vă timp pentru o pauză de cafea pentru a observa viața locală.",
+          "Respectați locurile religioase și îmbrăcați-vă corespunzător."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is easily walkable.",
+          "Most sights are located close to each other.",
+          "Take time for a coffee break to observe the local life.",
+          "Be respectful at religious sites and dress appropriately."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue Alexanders des Großen",
+            "hu": "Nagy Sándor szobra",
+            "ro": "Statuia lui Alexandru cel Mare",
+            "en": "Statue of Alexander the Great"
+          },
+          "coords": [
+            22.413,
+            40.794
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour mit einem Foto des legendären Eroberers.",
+            "hu": "Kezdje a biciklitúrát egy fotóval a legendás hódítóról.",
+            "ro": "Începeți turul cu bicicleta cu o fotografie a legendarului cuceritor.",
+            "en": "Start your bike tour with a photo of the legendary conqueror."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm von Giannitsa",
+            "hu": "Giannitsai óratorony",
+            "ro": "Turnul cu ceas din Giannitsa",
+            "en": "Clock Tower of Giannitsa"
+          },
+          "coords": [
+            22.4155,
+            40.7925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp am Hauptplatz, um die Atmosphäre aufzusaugen.",
+            "hu": "Egy rövid megálló a főtéren, hogy magába szívja a hangulatot.",
+            "ro": "O scurtă oprire în piața principală pentru a absorbi atmosfera.",
+            "en": "A quick stop in the main square to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Gazi Evrenos",
+            "hu": "Gazi Evrenos mauzóleuma",
+            "ro": "Mausoleul lui Gazi Evrenos",
+            "en": "Mausoleum of Gazi Evrenos"
+          },
+          "coords": [
+            22.418,
+            40.791
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit für dieses wichtige Denkmal.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt erre a fontos emlékműre.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru acest monument important.",
+            "en": "Lock up your bike and take some time for this important monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.41,
+            40.79
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zur Westseite der Innenstadt.",
+            "hu": "Kellemes tekerés a belváros nyugati oldalához.",
+            "ro": "O plimbare plăcută spre partea de vest a centrului orașului.",
+            "en": "A pleasant ride to the western side of the downtown area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtrand",
+            "hu": "Tekerés a város szélére",
+            "ro": "Plimbare la periferia orașului",
+            "en": "Ride to the outskirts"
+          },
+          "coords": [
+            22.43,
+            40.78
+          ],
+          "category": "nature",
+          "arrive_at": "11:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ländliche Umgebung und genießen Sie die frische Luft.",
+            "hu": "Fedezze fel a vidéki környezetet és élvezze a friss levegőt.",
+            "ro": "Explorați peisajul rural din jur și bucurați-vă de aerul curat.",
+            "en": "Explore the surrounding countryside and enjoy the fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit lokaler Aussicht",
+            "hu": "Ebéd helyi kilátással",
+            "ro": "Prânz cu vedere locală",
+            "en": "Lunch with a local view"
+          },
+          "coords": [
+            22.421,
+            40.785
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Finden Sie eine Taverne etwas außerhalb des Zentrums für ein authentisches Erlebnis.",
+            "hu": "Keressen egy tavernát kicsit a központon kívül egy autentikus élményért.",
+            "ro": "Găsiți o tavernă chiar în afara centrului pentru o experiență autentică.",
+            "en": "Find a taverna just outside the center for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarze Statue (Mavro Agalma)",
+            "hu": "Fekete szobor (Mavro Agalma)",
+            "ro": "Statuia Neagră (Mavro Agalma)",
+            "en": "Black Statue (Mavro Agalma)"
+          },
+          "coords": [
+            22.417,
+            40.785
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem symbolträchtigen Denkmal.",
+            "hu": "Fejezze be a túrát ennél a szimbolikus emlékműnél.",
+            "ro": "Încheiați turul la acest monument simbolic.",
+            "en": "End your tour at this symbolic monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag bei der Statue Alexanders des Großen. Der Vormittag führt Sie auf zwei Rädern durch das historische Herz von Giannitsa, vom Uhrturm bis zu den osmanischen Denkmälern. Wagen Sie sich mittags für eine malerische Fahrt und ein Mittagessen am Stadtrand. Kehren Sie am Nachmittag ins Zentrum zurück, um Ihre Tour an der ergreifenden Schwarzen Statue zu beenden, erfüllt von Geschichte und lokaler Landschaft.",
+        "hu": "Pattanjon biciklire, és kezdje a napot Nagy Sándor szobránál. A délelőtt két keréken vezet végig Giannitsa történelmi szívén, az Óratoronytól az oszmán emlékművekig. Délben merészkedjen ki a város szélére egy festői útra és ebédre. Délután térjen vissza a központba, hogy a megindító Fekete szobornál fejezze be a túrát, feltöltődve történelemmel és a helyi tájjal.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la statuia lui Alexandru cel Mare. Dimineața vă poartă pe două roți prin inima istorică a orașului Giannitsa, de la Turnul cu Ceas la monumentele otomane. La prânz, aventurați-vă la periferie pentru o plimbare pitorească și un prânz. Întoarceți-vă în centru după-amiaza pentru a încheia turul la emoționanta Statuie Neagră, plini de istorie și peisaj local.",
+        "en": "Hop on your bike and start the day at the statue of Alexander the Great. The morning takes you on two wheels through the historic heart of Giannitsa, from the Clock Tower to the Ottoman monuments. Venture to the outskirts for a scenic ride and lunch at midday. Return to the center in the afternoon to finish your tour at the poignant Black Statue, filled with history and local scenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Tanken Sie Energie mit einem herzhaften 'Pita'."
+          },
+          {
+            "name": "Gegrilltes Fleisch",
+            "tip": "Viele Restaurants sind auf 'Souvlaki' und 'Gyros' spezialisiert."
+          },
+          {
+            "name": "Ouzeri Agora",
+            "tip": "Ein traditioneller Ort für Meze und Ouzo nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Töltődjön fel energiával egy kiadós 'pitával'."
+          },
+          {
+            "name": "Grillezett húsok",
+            "tip": "Sok étterem specializálódott a 'szuvlakira' és a 'gyrosra'."
+          },
+          {
+            "name": "Ouzeri Agora",
+            "tip": "Hagyományos hely meze és ouzo fogyasztására a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Alimentați-vă cu o 'pita' consistentă."
+          },
+          {
+            "name": "Carne la grătar",
+            "tip": "Multe restaurante se specializează în 'souvlaki' și 'gyros'."
+          },
+          {
+            "name": "Ouzeri Agora",
+            "tip": "Un loc tradițional pentru meze și ouzo după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Fuel up with a hearty 'pita'."
+          },
+          {
+            "name": "Grilled Meats",
+            "tip": "Many restaurants specialize in 'souvlaki' and 'gyros'."
+          },
+          {
+            "name": "Ouzeri Agora",
+            "tip": "A traditional spot for meze and ouzo after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldwege",
+            "tip": "Die Wege außerhalb der Stadt bieten eine friedliche Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park am Kulturzentrum",
+            "tip": "Ein schattiger Ort für eine Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezei utak",
+            "tip": "A városon kívüli utak békés menekülést kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park a kulturális központnál",
+            "tip": "Árnyékos hely egy szünetre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri de țară",
+            "tip": "Căile din afara orașului oferă o evadare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de lângă centrul cultural",
+            "tip": "Un loc umbrit pentru o pauză.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Country lanes",
+            "tip": "The paths outside the city offer a peaceful escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park near the cultural center",
+            "tip": "A shady spot for a break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für alle Last-Minute-Bedürfnisse oder Zubehör."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie eingelegte Paprika oder lokalen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Minden utolsó pillanatban felmerülő igényre vagy kiegészítőre."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon savanyított paprikát vagy helyi bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice nevoi de ultim moment sau accesorii."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați ardei murați sau vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any last-minute needs or accessories."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Pick up some pickled peppers or local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Giannitsa ist relativ flach, aber am Stadtrand kann es leichte Steigungen geben.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten immer sicher ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Giannitsa viszonylag sík, de a város szélén lehetnek enyhe emelkedők.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "Mindig biztonságosan zárja le a kerékpárt a látnivalóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Giannitsa este relativ plat, dar pot exista pante ușoare la periferie.",
+          "Luați multă apă, mai ales vara.",
+          "Asigurați-vă întotdeauna bicicleta în siguranță la atracții."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Giannitsa is relatively flat, but there can be slight inclines on the outskirts.",
+          "Bring plenty of water, especially in summer.",
+          "Always lock your bike securely at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 26.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Giannitsa: Uhrenturm & Zentrum",
+            "hu": "Giannitsa-klaszter: Óratorony és központ",
+            "ro": "Cluster Giannitsa: Turnul cu Ceas și Centru",
+            "en": "Giannitsa Cluster: Clock Tower & Center"
+          },
+          "coords": [
+            22.4155,
+            40.7925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum. Der Uhrturm ist Ihr Ausgangspunkt für den Stadtrundgang.",
+            "hu": "Parkoljon a központban. Az Óratorony a kiindulópont a városi sétához.",
+            "ro": "Parcați în centru. Turnul cu Ceas este punctul dvs. de plecare pentru plimbarea prin oraș.",
+            "en": "Park in the center. The Clock Tower is your starting point for the city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Gazi Evrenos",
+            "hu": "Gazi Evrenos mauzóleuma",
+            "ro": "Mausoleul lui Gazi Evrenos",
+            "en": "Mausoleum of Gazi Evrenos"
+          },
+          "coords": [
+            22.418,
+            40.791
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Turm, um das osmanische Erbe zu sehen.",
+            "hu": "Egy rövid séta a toronytól az oszmán örökség megtekintéséhez.",
+            "ro": "O scurtă plimbare de la turn pentru a vedea moștenirea otomană.",
+            "en": "A short walk from the tower to see the Ottoman heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            22.41,
+            40.79
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 35,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Straßen zur Hauptkathedrale der Stadt.",
+            "hu": "Sétáljon végig az utcákon a város fő katedrálisához.",
+            "ro": "Plimbați-vă pe străzi până la catedrala principală a orașului.",
+            "en": "Stroll through the streets to the city's main cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Pella: Archäologisches Museum Pella",
+            "hu": "Pella-klaszter: Pellai Régészeti Múzeum",
+            "ro": "Cluster Pella: Muzeul Arheologic din Pella",
+            "en": "Pella Cluster: Archaeological Museum of Pella"
+          },
+          "coords": [
+            22.519,
+            40.762
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Pella, der Geburtsstätte Alexanders. Das Museum ist Weltklasse.",
+            "hu": "Vezessen Pellába, Nagy Sándor szülőhelyére. A múzeum világszínvonalú.",
+            "ro": "Conduceți la Pella, locul de naștere al lui Alexandru. Muzeul este de talie mondială.",
+            "en": "Drive to Pella, the birthplace of Alexander. The museum is world-class."
+          }
+        },
+        {
+          "name": {
+            "de": "Filippeion von Pella",
+            "hu": "Pellai Filippeion",
+            "ro": "Filippeion din Pella",
+            "en": "Filippeion of Pella"
+          },
+          "coords": [
+            22.521,
+            40.76
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur archäologischen Stätte.",
+            "hu": "Rövid séta a múzeumtól a régészeti lelőhelyig.",
+            "ro": "O scurtă plimbare de la muzeu la situl arheologic.",
+            "en": "A short walk from the museum to the archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen in Pella",
+            "hu": "Késői ebéd Pellában",
+            "ro": "Prânz târziu în Pella",
+            "en": "Late Lunch in Pella"
+          },
+          "coords": [
+            22.518,
+            40.763
+          ],
+          "category": "gastro",
+          "arrive_at": "14:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit mit Blick auf die antiken Ruinen.",
+            "hu": "Élvezze az ebédet az ókori romokra néző kilátással.",
+            "ro": "Bucurați-vă de o masă cu vedere la ruinele antice.",
+            "en": "Enjoy a meal with a view over the ancient ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Auto mit der Erkundung des Zentrums von Giannitsa. Parken Sie und entdecken Sie zu Fuß den Uhrturm und die osmanischen Wahrzeichen. Am späten Vormittag fahren Sie in die antike Stadt Pella, die Heimat Alexanders des Großen. Verbringen Sie den Mittag und den frühen Nachmittag damit, das erstklassige Museum und die archäologischen Stätten zu erkunden, bevor Sie in einer Taverne mit historischem Ambiente zu Mittag essen und dann nach Giannitsa zurückkehren.",
+        "hu": "Kezdje a napot autóval, Giannitsa központjának felfedezésével. Parkoljon le, és gyalog fedezze fel az Óratornyot és az oszmán látnivalókat. A késő délelőtt folyamán utazzon az ókori Pellába, Nagy Sándor otthonába. Töltse a délt és a kora délutánt a világszínvonalú múzeum és a régészeti lelőhelyek felfedezésével, mielőtt egy történelmi hangulatú tavernban ebédel, majd visszatér Giannitsába.",
+        "ro": "Începeți ziua cu mașina explorând centrul orașului Giannitsa. Parcați și descoperiți pe jos Turnul cu Ceas și reperele otomane. Spre sfârșitul dimineții, conduceți spre orașul antic Pella, casa lui Alexandru cel Mare. Petreceți prânzul și începutul după-amiezii explorând muzeul de clasă mondială și siturile arheologice, înainte de a lua prânzul la o tavernă cu o ambianță istorică și de a vă întoarce la Giannitsa.",
+        "en": "Start your day by car, exploring the center of Giannitsa. Park up and discover the Clock Tower and Ottoman landmarks on foot. In the late morning, drive to the ancient city of Pella, home of Alexander the Great. Spend the midday and early afternoon exploring the world-class museum and archaeological sites before having lunch at a taverna with a historic ambiance, then head back to Giannitsa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen in Pella",
+            "tip": "Viele bieten einen tollen Blick auf die Ausgrabungsstätte."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Fragen Sie nach 'Feta' oder 'Kaseri' aus der Region."
+          },
+          {
+            "name": "Gefülltes Gemüse",
+            "tip": "'Gemista' ist ein klassisches und sättigendes Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavernák Pellában",
+            "tip": "Sok helyről remek kilátás nyílik az ásatási területre."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Kérjen regionális 'fetát' vagy 'kaserit'."
+          },
+          {
+            "name": "Töltött zöldségek",
+            "tip": "A 'Gemista' egy klasszikus és laktató étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne în Pella",
+            "tip": "Multe oferă o priveliște minunată asupra sitului arheologic."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Întrebați de 'Feta' sau 'Kaseri' regional."
+          },
+          {
+            "name": "Legume umplute",
+            "tip": "'Gemista' este un fel de mâncare clasic și sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavernas in Pella",
+            "tip": "Many offer a great view of the archaeological site."
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Ask for regional 'Feta' or 'Kaseri'."
+          },
+          {
+            "name": "Stuffed Vegetables",
+            "tip": "'Gemista' is a classic and filling dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologische Stätte Pella",
+            "tip": "Abseits der Menschenmassen können die Ruinen sehr friedlich sein.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Landschaft um Giannitsa",
+            "tip": "Machen Sie auf dem Rückweg einen kurzen Halt auf dem Land.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pellai régészeti lelőhely",
+            "tip": "A tömegtől távol a romok nagyon békések lehetnek.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Giannitsa körüli táj",
+            "tip": "Visszafelé álljon meg egy rövid időre a vidéken.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Situl Arheologic Pella",
+            "tip": "Departe de mulțimi, ruinele pot fi foarte pașnice.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Peisajul rural din jurul Giannitsei",
+            "tip": "Faceți o scurtă oprire în mediul rural pe drumul de întoarcere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pella Archaeological Site",
+            "tip": "Away from the crowds, the ruins can be very peaceful.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Countryside around Giannitsa",
+            "tip": "Make a quick stop in the countryside on your way back.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop in Pella",
+            "tip": "Hochwertige Nachbildungen und Bücher."
+          },
+          {
+            "name": "Straßenverkäufer",
+            "tip": "Verkaufen oft lokale landwirtschaftliche Produkte wie Pfirsiche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt Pellában",
+            "tip": "Minőségi másolatok és könyvek."
+          },
+          {
+            "name": "Utcai árusok",
+            "tip": "Gyakran árulnak helyi mezőgazdasági termékeket, például őszibarackot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului din Pella",
+            "tip": "Replicas de înaltă calitate și cărți."
+          },
+          {
+            "name": "Vânzători ambulanți",
+            "tip": "Adesea vând produse agricole locale, cum ar fi piersicile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop in Pella",
+            "tip": "High-quality replicas and books."
+          },
+          {
+            "name": "Roadside stalls",
+            "tip": "Often sell local agricultural products like peaches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum von Giannitsa eine Herausforderung sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Fahrt nach Pella dauert etwa 20-25 Minuten.",
+          "Kaufen Sie ein Kombiticket für das Museum und die archäologische Stätte in Pella.",
+          "Planen Sie genügend Zeit für das Museum ein, es ist sehr umfangreich."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet Giannitsa központjában; keressen kijelölt parkolóhelyeket.",
+          "Az út Pellába körülbelül 20-25 percig tart.",
+          "Vásároljon kombinált jegyet a múzeumba és a régészeti lelőhelyre Pellában.",
+          "Szánjon elegendő időt a múzeumra, nagyon kiterjedt."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului Giannitsa; căutați parcări desemnate.",
+          "Drumul spre Pella durează aproximativ 20-25 de minute.",
+          "Cumpărați un bilet combinat pentru muzeu și situl arheologic din Pella.",
+          "Alocați suficient timp pentru muzeu, este foarte extins."
+        ],
+        "en": [
+          "Parking can be challenging in the center of Giannitsa; look for designated car parks.",
+          "The drive to Pella takes about 20-25 minutes.",
+          "Buy a combination ticket for the museum and archaeological site in Pella.",
+          "Allow plenty of time for the museum; it's extensive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 25.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Giannitsa Zentrum",
+            "hu": "Giannitsa központ klaszter",
+            "ro": "Cluster Centru Giannitsa",
+            "en": "Giannitsa Center Cluster"
+          },
+          "coords": [
+            22.415,
+            40.792
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Hauptplatz, um Ihre Erkundung zu beginnen.",
+            "hu": "Menjen helyi busszal a főtérre, hogy elkezdje a felfedezést.",
+            "ro": "Luați un autobuz local spre piața principală pentru a începe explorarea.",
+            "en": "Take a local bus to the main square to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm von Giannitsa",
+            "hu": "Giannitsai óratorony",
+            "ro": "Turnul cu ceas din Giannitsa",
+            "en": "Clock Tower of Giannitsa"
+          },
+          "coords": [
+            22.4155,
+            40.7925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zum Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a buszmegállótól a város jelképéhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la simbolul orașului.",
+            "en": "A short walk from the bus stop to the town's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum von Gazi Evrenos",
+            "hu": "Gazi Evrenos mauzóleuma",
+            "ro": "Mausoleul lui Gazi Evrenos",
+            "en": "Mausoleum of Gazi Evrenos"
+          },
+          "coords": [
+            22.418,
+            40.791
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das osmanische Viertel zu Fuß.",
+            "hu": "Fedezze fel gyalog az oszmán negyedet.",
+            "ro": "Explorați cartierul otoman pe jos.",
+            "en": "Explore the Ottoman quarter on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Pella: KTEL Bus nach Pella",
+            "hu": "Pella-klaszter: KTEL busz Pellába",
+            "ro": "Cluster Pella: Autobuz KTEL spre Pella",
+            "en": "Pella Cluster: KTEL Bus to Pella"
+          },
+          "coords": [
+            22.519,
+            40.762
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den regionalen KTEL-Bus. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen a regionális KTEL busszal. Előre ellenőrizze a menetrendet.",
+            "ro": "Luați autobuzul regional KTEL. Verificați programul în avans.",
+            "en": "Take the regional KTEL bus. Check the schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Filippeion & Archäologische Stätte",
+            "hu": "Filippeion és régészeti lelőhely",
+            "ro": "Filippeion și Situl Arheologic",
+            "en": "Filippeion & Archaeological Site"
+          },
+          "coords": [
+            22.521,
+            40.76
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum und die Stätte liegen nebeneinander, perfekt für einen Spaziergang.",
+            "hu": "A múzeum és a lelőhely egymás mellett fekszik, tökéletes egy sétához.",
+            "ro": "Muzeul și situl sunt adiacente, perfecte pentru o plimbare.",
+            "en": "The museum and site are adjacent, perfect for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Warten auf den Bus",
+            "hu": "Ebéd és buszra várás",
+            "ro": "Prânz și așteptarea autobuzului",
+            "en": "Lunch and wait for the bus"
+          },
+          "coords": [
+            22.5185,
+            40.7625
+          ],
+          "category": "gastro",
+          "arrive_at": "14:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in der Nähe der Bushaltestelle, um Ihre Rückfahrt nicht zu verpassen.",
+            "hu": "Ebédeljen a buszmegálló közelében, hogy ne késse le a visszautat.",
+            "ro": "Luați masa lângă stația de autobuz pentru a nu pierde călătoria de întoarcere.",
+            "en": "Have a meal near the bus stop so you don't miss your return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen abwechslungsreichen Tag. Beginnen Sie im Zentrum von Giannitsa und erkunden Sie die osmanischen Stätten zu Fuß. Nehmen Sie dann den regionalen Bus nach Pella. Verbringen Sie den Nachmittag damit, in die Welt Alexanders des Großen einzutauchen, indem Sie das Museum und die antiken Ruinen besuchen. Planen Sie Ihr spätes Mittagessen strategisch in der Nähe der Bushaltestelle für eine stressfreie Rückfahrt.",
+        "hu": "Használja a tömegközlekedést egy változatos naphoz. Kezdjen Giannitsa központjában, gyalogosan felfedezve az oszmán helyszíneket. Ezután szálljon fel a Pellába tartó regionális buszra. Töltse a délutánt Nagy Sándor világában elmerülve, meglátogatva a múzeumot és az ókori romokat. Stratégiailag tervezze meg késői ebédjét a buszmegálló közelében a stresszmentes visszaút érdekében.",
+        "ro": "Folosiți transportul public pentru o zi variată. Începeți în centrul orașului Giannitsa, explorând siturile otomane pe jos. Apoi, luați autobuzul regional spre Pella. Petreceți după-amiaza scufundându-vă în lumea lui Alexandru cel Mare, vizitând muzeul și ruinele antice. Planificați-vă strategic prânzul târziu lângă stația de autobuz pentru o călătorie de întoarcere fără stres.",
+        "en": "Use public transport for a varied day out. Start in Giannitsa's center, exploring the Ottoman sites on foot. Then, catch the regional bus to Pella. Spend the afternoon immersing yourself in the world of Alexander the Great, visiting the museum and ancient ruins. Strategically plan your late lunch near the bus stop for a stress-free return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe von Bushaltestellen",
+            "tip": "Perfekt für einen schnellen Snack vor der Fahrt."
+          },
+          {
+            "name": "Pita Gyros",
+            "tip": "Ein schnelles, günstiges und leckeres Mittagessen."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Trinken Sie einen griechischen Kaffee, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek buszmegállók közelében",
+            "tip": "Tökéletes egy gyors harapnivalóhoz az utazás előtt."
+          },
+          {
+            "name": "Pita Gyros",
+            "tip": "Gyors, olcsó és finom ebéd."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Igyon egy görög kávét, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării lângă stațiile de autobuz",
+            "tip": "Perfecte pentru o gustare rapidă înainte de călătorie."
+          },
+          {
+            "name": "Pita Gyros",
+            "tip": "Un prânz rapid, ieftin și delicios."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Beți o cafea grecească în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Perfect for a quick snack before your journey."
+          },
+          {
+            "name": "Pita Gyros",
+            "tip": "A quick, cheap, and delicious lunch."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Have a Greek coffee while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weniger besuchte Teile der Pella-Stätte",
+            "tip": "Finden Sie einen ruhigen Ort zwischen den Ruinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Nézze az elhaladó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Pella lelőhely kevésbé látogatott részei",
+            "tip": "Keressen egy csendes helyet a romok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți peisajul trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Părți mai puțin vizitate ale sitului Pella",
+            "tip": "Găsiți un loc liniștit printre ruine.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the landscape go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Less-visited parts of the Pella site",
+            "tip": "Find a quiet spot among the ruins.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und Snacks."
+          },
+          {
+            "name": "Souvenirs in Pella",
+            "tip": "Viele kleine Läden verkaufen Alexander-Themenartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon jegyeket, italokat és rágcsálnivalókat."
+          },
+          {
+            "name": "Szuvenírek Pellában",
+            "tip": "Sok kis bolt árul Nagy Sándor témájú tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați bilete, băuturi și gustări."
+          },
+          {
+            "name": "Suveniruri în Pella",
+            "tip": "Multe magazine mici vând articole cu tematică Alexandru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy tickets, drinks, and snacks."
+          },
+          {
+            "name": "Souvenirs in Pella",
+            "tip": "Many small shops sell Alexander-themed items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die KTEL-Busfahrpläne online, da sie nicht sehr häufig fahren.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Planen Sie Pufferzeit für mögliche Busverspätungen ein."
+        ],
+        "hu": [
+          "Tájékozódjon online a KTEL buszmenetrendekről, mivel nem járnak túl gyakran.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "Érvényesítse a jegyét a buszra szálláskor.",
+          "Tervezzen pufferidőt a lehetséges buszkésésekre."
+        ],
+        "ro": [
+          "Verificați online orarele autobuzelor KTEL, deoarece nu sunt foarte frecvente.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Validați-vă biletul la urcarea în autobuz.",
+          "Planificați timp tampon pentru posibile întârzieri ale autobuzului."
+        ],
+        "en": [
+          "Check the KTEL bus schedules online as they can be infrequent.",
+          "Have small change ready for bus tickets.",
+          "Validate your ticket when you board the bus.",
+          "Plan buffer time for potential bus delays."
+        ]
+      }
+    }
+  }
+}

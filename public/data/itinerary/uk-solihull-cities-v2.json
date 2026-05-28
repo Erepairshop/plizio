@@ -1,0 +1,1240 @@
+{
+  "city_id": "uk-solihull-cities-v2",
+  "anchor": {
+    "name": "Solihull",
+    "coords": [
+      -1.7781,
+      52.4128
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Touchwood Einkaufszentrum",
+            "hu": "Touchwood bevásárlóközpont",
+            "ro": "Centrul Comercial Touchwood",
+            "en": "Touchwood Shopping Centre"
+          },
+          "coords": [
+            -1.7775,
+            52.4132
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um den Tag zu planen.",
+            "hu": "Kezdje a napot egy kávéval, és tervezze meg az útvonalat.",
+            "ro": "Începeți ziua aici cu o cafea pentru a vă planifica turul.",
+            "en": "Start here with a coffee to plan your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Alphege's Kirche",
+            "hu": "Szent Alphege-templom",
+            "ro": "Biserica St Alphege",
+            "en": "St Alphege's Church"
+          },
+          "coords": [
+            -1.7761,
+            52.4125
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Architektur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura impresionantă și atmosfera liniștită.",
+            "en": "Look for the impressive architecture and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Core-Theater",
+            "hu": "The Core Színház",
+            "ro": "Teatrul The Core",
+            "en": "The Core Theatre"
+          },
+          "coords": [
+            -1.775,
+            52.4135
+          ],
+          "category": "theatres",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für Abendvorstellungen, falls Sie länger bleiben.",
+            "hu": "Nézze meg az esti műsort, ha tovább marad.",
+            "ro": "Verificați programul pentru spectacolele de seară, dacă stați mai mult.",
+            "en": "Check the schedule for evening shows if you're staying late."
+          }
+        },
+        {
+          "name": {
+            "de": "Malvern Park",
+            "hu": "Malvern Park",
+            "ro": "Parcul Malvern",
+            "en": "Malvern Park"
+          },
+          "coords": [
+            -1.7712,
+            52.4145
+          ],
+          "category": "parks",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick oder einen Spaziergang am See.",
+            "hu": "Ideális hely egy piknikhez vagy egy sétához a tó partján.",
+            "ro": "Un loc ideal pentru un picnic sau o plimbare pe malul lacului.",
+            "en": "An ideal spot for a picnic or a lakeside stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Brueton Park",
+            "hu": "Brueton Park",
+            "ro": "Parcul Brueton",
+            "en": "Brueton Park"
+          },
+          "coords": [
+            -1.765,
+            52.415
+          ],
+          "category": "parks",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbindet sich mit dem Malvern Park, erkunden Sie beide für ein volles Naturerlebnis.",
+            "hu": "A Malvern Parkkal összeköttetésben áll, fedezze fel mindkettőt a teljes élményért.",
+            "ro": "Conectat cu Parcul Malvern, explorați ambele pentru o experiență completă în natură.",
+            "en": "Connects to Malvern Park, explore both for a full nature experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Tudor Grange Park",
+            "hu": "Tudor Grange Park",
+            "ro": "Parcul Tudor Grange",
+            "en": "Tudor Grange Park"
+          },
+          "coords": [
+            -1.7855,
+            52.408
+          ],
+          "category": "parks",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag mit einem entspannten Spaziergang ausklingen zu lassen.",
+            "hu": "Szép hely a nap befejezéséhez egy pihentető sétával.",
+            "ro": "Un loc frumos pentru a încheia ziua cu o plimbare relaxantă.",
+            "en": "A lovely place to end the day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im modernen Herzen von Solihull, dem Touchwood-Zentrum. Von dort aus tauchen Sie in die lokale Geschichte in der St. Alphege's Kirche ein. Am Nachmittag können Sie die grünen Lungen der Stadt, die Malvern- und Brueton-Parks, erkunden. Beenden Sie Ihren Tag mit einer friedlichen Wanderung durch den Tudor Grange Park, ein perfekter Abschluss eines entspannten Tages.",
+        "hu": "Kezdje a sétát Solihull modern szívében, a Touchwood központban. Innen merüljön el a helyi történelemben a Szent Alphege-templomnál. Délután fedezze fel a város zöld tüdejét, a Malvern és Brueton parkokat. A napot a Tudor Grange Parkban tett békés sétával zárja, ami tökéletes lezárása egy pihentető napnak.",
+        "ro": "Începeți plimbarea în inima modernă a Solihull, centrul Touchwood. De acolo, pătrundeți în istoria locală la Biserica St Alphege. După-amiaza, explorați plămânii verzi ai orașului, parcurile Malvern și Brueton. Încheiați ziua cu o plimbare liniștită prin Parcul Tudor Grange, o încheiere perfectă a unei zile relaxante.",
+        "en": "Start your walking tour in the modern heart of Solihull, the Touchwood centre. From there, delve into local history at St Alphege's Church. The afternoon is for exploring the town's green lungs, Malvern and Brueton Parks. Finish your day with a peaceful wander through Tudor Grange Park, a perfect end to a relaxed day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jubilee Gardens",
+            "tip": "Ein klassischer Pub für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "The Woods",
+            "tip": "Bietet tolle Sandwiches und Kaffee in der Nähe der Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jubilee Gardens",
+            "tip": "Klasszikus pub egy kiadós ebédhez."
+          },
+          {
+            "name": "The Woods",
+            "tip": "Kiváló szendvicseket és kávét kínál a parkok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jubilee Gardens",
+            "tip": "Un pub clasic pentru un prânz copios."
+          },
+          {
+            "name": "The Woods",
+            "tip": "Oferă sandvișuri și cafea grozave lângă parcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jubilee Gardens",
+            "tip": "A classic pub for a hearty lunch."
+          },
+          {
+            "name": "The Woods",
+            "tip": "Offers great sandwiches and coffee near the parks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brueton Park Labyrinth",
+            "tip": "Finden Sie einen Moment der Ruhe in diesem meditativen Raum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Sees im Malvern Park",
+            "tip": "Ein friedlicher Ort, um die Vögel zu beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brueton Park labirintus",
+            "tip": "Találjon egy pillanatnyi nyugalmat ebben a meditatív térben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malvern Parki tópart",
+            "tip": "Békés hely a madarak megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Labirintul din Parcul Brueton",
+            "tip": "Găsiți un moment de liniște în acest spațiu meditativ.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului din Parcul Malvern",
+            "tip": "Un loc pașnic pentru a privi păsările.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brueton Park Labyrinth",
+            "tip": "Find a moment of peace in this meditative space.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lakeside in Malvern Park",
+            "tip": "A peaceful spot for birdwatching.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Touchwood Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Touchwood Központ",
+            "tip": "Nagy márkák és független üzletek keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Touchwood",
+            "tip": "Un amestec de mărci cunoscute și magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Touchwood Centre",
+            "tip": "A mix of high-street brands and independent stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die Parks können nach Regen matschig sein, also wählen Sie Ihr Schuhwerk entsprechend.",
+          "Prüfen Sie die Öffnungszeiten der St. Alphege's Kirche, da sie für Gottesdienste geschlossen sein kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyaloglással tölti.",
+          "A parkok eső után sárosak lehetnek, válasszon megfelelő lábbelit.",
+          "Ellenőrizze a Szent Alphege-templom nyitvatartását, mert istentiszteletek miatt zárva lehet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Parcurile pot fi noroioase după ploaie, așa că alegeți încălțăminte adecvată.",
+          "Verificați orele de deschidere ale Bisericii St Alphege, deoarece ar putea fi închisă pentru slujbe."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet for most of the day.",
+          "The parks can be muddy after rain, so choose your footwear accordingly.",
+          "Check St Alphege's Church opening times as it may be closed for services."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tudor Grange Park",
+            "hu": "Tudor Grange Park",
+            "ro": "Parcul Tudor Grange",
+            "en": "Tudor Grange Park"
+          },
+          "coords": [
+            -1.7855,
+            52.408
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, es gibt gute Radwege und Parkmöglichkeiten.",
+            "hu": "Kezdje itt a napot, jó kerékpárutak és parkolási lehetőségek vannak.",
+            "ro": "Începeți de aici, există piste bune pentru biciclete și parcare.",
+            "en": "Start here as there are good cycle paths and parking."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Alphege's Kirche",
+            "hu": "Szent Alphege-templom",
+            "ro": "Biserica St Alphege",
+            "en": "St Alphege's Church"
+          },
+          "coords": [
+            -1.7761,
+            52.4125
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Ruhe im Inneren.",
+            "hu": "Zárja le a kerékpárt a közelben, és élvezze a benti csendet.",
+            "ro": "Legați-vă bicicleta în apropiere și bucurați-vă de liniștea din interior.",
+            "en": "Lock your bike nearby and enjoy the peace inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchwood",
+            "hu": "Touchwood",
+            "ro": "Touchwood",
+            "en": "Touchwood"
+          },
+          "coords": [
+            -1.7775,
+            52.4132
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause mit vielen Essensmöglichkeiten.",
+            "hu": "Jó hely egy ebédszünetre, sok étkezési lehetőséggel.",
+            "ro": "Un loc bun pentru o pauză de prânz cu multe opțiuni de mâncare.",
+            "en": "A good spot for a lunch break with many food options."
+          }
+        },
+        {
+          "name": {
+            "de": "Malvern Park",
+            "hu": "Malvern Park",
+            "ro": "Parcul Malvern",
+            "en": "Malvern Park"
+          },
+          "coords": [
+            -1.7712,
+            52.4145
+          ],
+          "category": "parks",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie um den See oder entspannen Sie einfach auf dem Gras.",
+            "hu": "Kerékpározzon a tó körül, vagy csak pihenjen a füvön.",
+            "ro": "Pedalați în jurul lacului sau relaxați-vă pe iarbă.",
+            "en": "Cycle around the lake or just relax on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Brueton Park",
+            "hu": "Brueton Park",
+            "ro": "Parcul Brueton",
+            "en": "Brueton Park"
+          },
+          "coords": [
+            -1.765,
+            52.415
+          ],
+          "category": "parks",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Waldwege und halten Sie Ausschau nach dem Naturreservat.",
+            "hu": "Fedezze fel az erdei ösvényeket, és keresse a természetvédelmi területet.",
+            "ro": "Explorați potecile împădurite și căutați rezervația naturală.",
+            "en": "Explore the woodland trails and look for the nature reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Shirley Park",
+            "hu": "Shirley Park",
+            "ro": "Parcul Shirley",
+            "en": "Shirley Park"
+          },
+          "coords": [
+            -1.815,
+            52.408
+          ],
+          "category": "parks",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt, die sich aber für die Gärten und den Freiraum lohnt.",
+            "hu": "Hosszabb út, de megéri a kertek és a tágas tér miatt.",
+            "ro": "O plimbare mai lungă, dar merită pentru grădini și spațiul deschis.",
+            "en": "A longer ride but worth it for the gardens and open space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Solihull ist überraschend fahrradfreundlich. Beginnen Sie im Tudor Grange Park und fahren Sie ins Stadtzentrum, um die historische St. Alphege's Kirche und das lebhafte Touchwood zu besichtigen. Am Nachmittag führt Sie eine grüne Route durch die Malvern- und Brueton-Parks. Schließen Sie Ihr Abenteuer mit einer längeren Fahrt zum Shirley Park ab und genießen Sie die vielfältigen Landschaften, die die Stadt zu bieten hat.",
+        "hu": "Solihull meglepően kerékpárbarát. Kezdje a Tudor Grange Parkban, majd tekerjen be a városközpontba, hogy megnézze a történelmi Szent Alphege-templomot és a nyüzsgő Touchwoodot. Délután egy zöld útvonal vezet a Malvern és Brueton parkokon keresztül. Zárja a kalandot egy hosszabb tekeréssel a Shirley Parkba, élvezve a város változatos tájait.",
+        "ro": "Solihull este surprinzător de prietenos cu bicicletele. Începeți în Parcul Tudor Grange și pedalați spre centrul orașului pentru a vedea istorica Biserică St Alphege și vibrantul Touchwood. După-amiaza, un traseu verde vă va purta prin parcurile Malvern și Brueton. Încheiați aventura cu o plimbare mai lungă până la Parcul Shirley, bucurându-vă de peisajele diverse pe care le oferă orașul.",
+        "en": "Solihull is surprisingly bike-friendly. Start at Tudor Grange Park and cycle into the town centre to see the historic St Alphege's Church and the vibrant Touchwood. In the afternoon, a green route will take you through Malvern and Brueton Parks. Conclude your adventure with a longer ride to Shirley Park, enjoying the diverse landscapes the town has to offer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Encore Cafe",
+            "tip": "Ein Café im Tudor Grange Park, perfekt für einen Snack vor der Fahrt."
+          },
+          {
+            "name": "Caffe Nero",
+            "tip": "Zuverlässiger Kaffee und Gebäck im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Encore Cafe",
+            "tip": "Kávézó a Tudor Grange Parkban, tökéletes egy harapnivalóra tekerés előtt."
+          },
+          {
+            "name": "Caffe Nero",
+            "tip": "Megbízható kávé és sütemények a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Encore Cafe",
+            "tip": "O cafenea în Parcul Tudor Grange, perfectă pentru o gustare înainte de plimbare."
+          },
+          {
+            "name": "Caffe Nero",
+            "tip": "Cafea și produse de patiserie de încredere în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Encore Cafe",
+            "tip": "A cafe within Tudor Grange Park, perfect for a pre-ride snack."
+          },
+          {
+            "name": "Caffe Nero",
+            "tip": "Reliable coffee and pastries in the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Geometrische Garten",
+            "tip": "Ein verborgener Teil des Brueton Parks, ideal für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gedenkgarten der St. Alphege's Kirche",
+            "tip": "Ein friedlicher Ort neben der belebten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geometrikus Kert",
+            "tip": "A Brueton Park rejtett része, ideális egy csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Alphege-templom Emlékkertje",
+            "tip": "Békés hely a forgalmas templom mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Geometrică",
+            "tip": "O parte ascunsă a Parcului Brueton, ideală pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Memorială a Bisericii St Alphege",
+            "tip": "Un loc pașnic lângă biserica aglomerată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Geometric Garden",
+            "tip": "A hidden part of Brueton Park, great for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Alphege's Church Memorial Garden",
+            "tip": "A peaceful spot adjacent to the busy church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Geschäfte in Shirley",
+            "tip": "Entdecken Sie unabhängige Läden in der Nähe des Shirley Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi üzletek Shirley-ben",
+            "tip": "Fedezze fel a Shirley Park közelében lévő független boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale în Shirley",
+            "tip": "Descoperiți magazinele independente de lângă Parcul Shirley."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local shops in Shirley",
+            "tip": "Discover independent shops near Shirley Park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Schloss für Ihr Fahrrad mit, besonders im Stadtzentrum.",
+          "Einige Wege in den Parks werden gemeinsam genutzt, achten Sie also auf Fußgänger.",
+          "Planen Sie Ihre Route im Voraus, da einige Straßen stark befahren sein können."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárhoz, különösen a városközpontban.",
+          "Néhány parki ösvény megosztott, figyeljen a gyalogosokra.",
+          "Tervezze meg előre az útvonalat, mivel néhány út forgalmas lehet."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă, mai ales în centrul orașului.",
+          "Unele poteci din parcuri sunt partajate, așa că fiți atenți la pietoni.",
+          "Planificați-vă traseul în avans, deoarece unele drumuri pot fi aglomerate."
+        ],
+        "en": [
+          "Bring a good lock for your bike, especially in the town centre.",
+          "Some paths in the parks are shared, so be mindful of pedestrians.",
+          "Plan your route in advance as some roads can be busy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 35.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Baddesley Clinton",
+            "hu": "Baddesley Clinton",
+            "ro": "Baddesley Clinton",
+            "en": "Baddesley Clinton"
+          },
+          "coords": [
+            -1.716,
+            52.327
+          ],
+          "category": "castles",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Menschenmassen zu vermeiden und den Wassergraben in der Morgenstille zu sehen.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget, és láthassa a vizesárkot a reggeli csendben.",
+            "ro": "Ajungeți devreme pentru a evita mulțimile și pentru a vedea șanțul cu apă în liniștea dimineții.",
+            "en": "Arrive early to beat the crowds and see the moat in the morning quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Packwood House",
+            "hu": "Packwood House",
+            "ro": "Casa Packwood",
+            "en": "Packwood House"
+          },
+          "coords": [
+            -1.735,
+            52.336
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den berühmten Eiben-Garten – er ist wie aus einer anderen Welt.",
+            "hu": "Ne hagyja ki a híres tiszafa kertet – mintha egy másik világból lenne.",
+            "ro": "Nu ratați faimoasa grădină de tisa - este ca și cum ați fi într-o altă lume.",
+            "en": "Don't miss the famous Yew Garden - it's like something from another world."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Motorradmuseum",
+            "hu": "Nemzeti Motorkerékpár Múzeum",
+            "ro": "Muzeul Național al Motocicletelor",
+            "en": "National Motorcycle Museum"
+          },
+          "coords": [
+            -1.714,
+            52.438
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Motorrad-Enthusiasten. Planen Sie genug Zeit ein.",
+            "hu": "Minden motorrajongó számára kötelező. Tervezzen elegendő időt.",
+            "ro": "O vizită obligatorie pentru orice pasionat de motociclete. Alocați suficient timp.",
+            "en": "A must-see for any motorcycle enthusiast. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchwood Zentrum (Parken)",
+            "hu": "Touchwood központ (parkolás)",
+            "ro": "Centrul Touchwood (Parcare)",
+            "en": "Touchwood Centre (Parking)"
+          },
+          "coords": [
+            -1.778,
+            52.4135
+          ],
+          "category": "squares",
+          "arrive_at": "15:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
+            "en": "Park here to explore the town centre cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Alphege's Kirche",
+            "hu": "Szent Alphege-templom",
+            "ro": "Biserica St Alphege",
+            "en": "St Alphege's Church"
+          },
+          "coords": [
+            -1.7761,
+            52.4125
+          ],
+          "category": "churches",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolóból.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Malvern Park",
+            "hu": "Malvern Park",
+            "ro": "Parcul Malvern",
+            "en": "Malvern Park"
+          },
+          "coords": [
+            -1.7712,
+            52.4145
+          ],
+          "category": "parks",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang am See, um sich zu entspannen.",
+            "hu": "Zárja a napot egy tóparti sétával, hogy levezessen.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul lacului.",
+            "en": "End the day with a lakeside walk to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Stadtzentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centrul orașului",
+            "en": "Dinner in Town Centre"
+          },
+          "coords": [
+            -1.777,
+            52.414
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants in der Nähe des Touchwood-Zentrums.",
+            "hu": "Számos étterem a Touchwood központ közelében.",
+            "ro": "Multe restaurante în apropierea centrului Touchwood.",
+            "en": "Plenty of restaurant choices near the Touchwood centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Schätze rund um Solihull entdecken. Beginnen Sie mit den historischen Anwesen Baddesley Clinton und Packwood House. Nach dem Mittagessen tauchen Sie in die Welt der Zweiräder im Nationalen Motorradmuseum ein. Am späten Nachmittag fahren Sie ins Zentrum von Solihull, parken Ihr Auto und erkunden zu Fuß die St. Alphege's Kirche und den Malvern Park, bevor Sie den Tag mit einem Abendessen ausklingen lassen.",
+        "hu": "Az autóval felfedezheti a Solihull körüli kincseket. Kezdje a történelmi Baddesley Clinton és Packwood House birtokokkal. Ebéd után merüljön el a kétkerekűek világában a Nemzeti Motorkerékpár Múzeumban. Késő délután hajtson be Solihull központjába, parkoljon le, és fedezze fel gyalog a Szent Alphege-templomot és a Malvern Parkot, mielőtt egy vacsorával zárná a napot.",
+        "ro": "Cu mașina, puteți explora comorile din jurul Solihull. Începeți cu proprietățile istorice Baddesley Clinton și Packwood House. După prânz, scufundați-vă în lumea vehiculelor pe două roți la Muzeul Național al Motocicletelor. Spre seară, conduceți spre centrul Solihull, parcați și explorați pe jos Biserica St Alphege și Parcul Malvern înainte de a încheia ziua cu cina.",
+        "en": "The car allows you to explore the treasures surrounding Solihull. Start with the historic properties of Baddesley Clinton and Packwood House. After lunch, dive into the world of two-wheelers at the National Motorcycle Museum. In the late afternoon, drive into Solihull's centre, park up, and explore St Alphege's Church and Malvern Park on foot before finishing with dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Malt Shovel at Barston",
+            "tip": "Ein ausgezeichneter Pub auf dem Land in der Nähe der historischen Häuser."
+          },
+          {
+            "name": "The Farm",
+            "tip": "Hofladen und Café, ideal für ein frisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Malt Shovel at Barston",
+            "tip": "Kiváló vidéki pub a történelmi házak közelében."
+          },
+          {
+            "name": "The Farm",
+            "tip": "Termelői bolt és kávézó, ideális egy friss ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Malt Shovel at Barston",
+            "tip": "Un pub rural excelent, aproape de casele istorice."
+          },
+          {
+            "name": "The Farm",
+            "tip": "Magazin și cafenea la fermă, ideale pentru un prânz proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Malt Shovel at Barston",
+            "tip": "An excellent country pub near the historic houses."
+          },
+          {
+            "name": "The Farm",
+            "tip": "Farm shop and cafe, great for a fresh lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Packwood House",
+            "tip": "Wandern Sie über die Predigt des Berges für eine einzigartige, ruhige Aussicht.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Wassergraben von Baddesley Clinton",
+            "tip": "Ein friedlicher Rundweg um das historische Haus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Packwood House kertjei",
+            "tip": "Sétáljon végig a 'Hegyi beszéden' egy egyedi, csendes kilátásért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a Baddesley Clinton vizesárok mentén",
+            "tip": "Békés körséta a történelmi ház körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Casei Packwood",
+            "tip": "Plimbați-vă pe 'Predica de pe Munte' pentru o priveliște unică și liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe lângă șanțul Baddesley Clinton",
+            "tip": "Un circuit pașnic în jurul casei istorice.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Packwood House gardens",
+            "tip": "Wander the Sermon on the Mount for a unique, quiet view.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Baddesley Clinton moat walk",
+            "tip": "A peaceful circuit around the historic house.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeläden des National Trust",
+            "tip": "Sowohl Baddesley Clinton als auch Packwood haben ausgezeichnete Läden für einzigartige Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "National Trust ajándékboltok",
+            "tip": "Mind Baddesley Clinton, mind Packwood kiváló boltokkal rendelkezik egyedi ajándékokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de cadouri National Trust",
+            "tip": "Atât Baddesley Clinton, cât și Packwood au magazine excelente pentru cadouri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "National Trust Gift Shops",
+            "tip": "Both Baddesley Clinton and Packwood have excellent shops for unique gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für National Trust-Immobilien im Voraus, um Enttäuschungen zu vermeiden.",
+          "Prüfen Sie die Öffnungszeiten aller Attraktionen, da sie saisonal variieren können.",
+          "Planen Sie zusätzliches Geld für das Parken im Stadtzentrum und an den Sehenswürdigkeiten ein."
+        ],
+        "hu": [
+          "Foglaljon jegyet előre a National Trust birtokokra a csalódás elkerülése érdekében.",
+          "Ellenőrizze az összes látnivaló nyitvatartását, mivel szezonálisan változhatnak.",
+          "Tervezzen plusz pénzt a parkolásra a városközpontban és a látnivalóknál."
+        ],
+        "ro": [
+          "Rezervați biletele în avans pentru proprietățile National Trust pentru a evita dezamăgirile.",
+          "Verificați orele de deschidere ale tuturor atracțiilor, deoarece acestea pot varia sezonier.",
+          "Luați în calcul bani suplimentari pentru parcare în centrul orașului și la atracții."
+        ],
+        "en": [
+          "Book National Trust properties in advance to avoid disappointment.",
+          "Check opening times for all attractions as they can vary seasonally.",
+          "Factor in extra money for parking in the town centre and at attractions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Solihull Bahnhof",
+            "hu": "Solihull vasútállomás",
+            "ro": "Gara Solihull",
+            "en": "Solihull Station"
+          },
+          "coords": [
+            -1.785,
+            52.411
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Verbindungen in die ganze Stadt.",
+            "hu": "Jó kiindulópont, ahonnan a város minden részébe eljuthat.",
+            "ro": "Un punct de plecare bun, cu legături către tot orașul.",
+            "en": "A good starting point with connections across the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchwood (Zentrum)",
+            "hu": "Touchwood (központ)",
+            "ro": "Touchwood (centru)",
+            "en": "Touchwood (Centre)"
+          },
+          "coords": [
+            -1.7775,
+            52.4132
+          ],
+          "category": "squares",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof, um Ihren Erkundungstag zu beginnen.",
+            "hu": "Rövid séta az állomástól, hogy elkezdje a felfedező napot.",
+            "ro": "O scurtă plimbare de la gară pentru a începe explorarea.",
+            "en": "A short walk from the station to begin your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Alphege's Kirche & Malvern Park",
+            "hu": "Szent Alphege-templom és Malvern Park",
+            "ro": "Biserica St Alphege și Parcul Malvern",
+            "en": "St Alphege's Church & Malvern Park"
+          },
+          "coords": [
+            -1.773,
+            52.413
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden benachbarten Sehenswürdigkeiten zusammen.",
+            "hu": "Fedezze fel ezt a két szomszédos látnivalót együtt.",
+            "ro": "Explorați aceste două atracții adiacente împreună.",
+            "en": "Explore these two adjacent attractions together."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Motorradmuseum",
+            "hu": "Utazás a Motorkerékpár Múzeumhoz",
+            "ro": "Călătorie la Muzeul Motocicletelor",
+            "en": "Trip to Motorcycle Museum"
+          },
+          "coords": [
+            -1.714,
+            52.438
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus X12 oder einen ähnlichen Bus vom Stadtzentrum. Planen Sie die Fahrtzeit ein.",
+            "hu": "Menjen az X12-es vagy hasonló busszal a városközpontból. Számoljon az utazási idővel.",
+            "ro": "Luați autobuzul X12 sau un serviciu similar din centrul orașului. Luați în calcul timpul de călătorie.",
+            "en": "Take the X12 bus or similar service from the town centre. Allow for travel time."
+          }
+        },
+        {
+          "name": {
+            "de": "Brueton Park",
+            "hu": "Brueton Park",
+            "ro": "Parcul Brueton",
+            "en": "Brueton Park"
+          },
+          "coords": [
+            -1.765,
+            52.415
+          ],
+          "category": "parks",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und gehen Sie zu diesem entspannenden Park.",
+            "hu": "Menjen vissza busszal a központba, és sétáljon el ebbe a pihentető parkba.",
+            "ro": "Luați un autobuz înapoi spre centru și mergeți pe jos până la acest parc relaxant.",
+            "en": "Take a bus back towards the centre and walk to this relaxing park."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Nähe des Bahnhofs",
+            "hu": "Vacsora az állomás közelében",
+            "ro": "Cină lângă gară",
+            "en": "Dinner near the station"
+          },
+          "coords": [
+            -1.784,
+            52.412
+          ],
+          "category": "gastro",
+          "arrive_at": "17:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Möglichkeiten, um den Tag vor der Heimreise ausklingen zu lassen.",
+            "hu": "Sok lehetőség a nap lezárására a hazautazás előtt.",
+            "ro": "Multe opțiuni pentru a încheia ziua înainte de a pleca spre casă.",
+            "en": "Plenty of options to finish the day before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die öffentlichen Verkehrsmittel von Solihull ermöglichen es Ihnen, verschiedene Teile der Stadt zu erleben. Beginnen Sie im Zentrum mit einem Spaziergang von der Station zum Touchwood und der St. Alphege's Kirche. Am Nachmittag bringt Sie ein Bus zum beeindruckenden Nationalen Motorradmuseum. Kehren Sie für einen entspannten Spaziergang im Brueton Park zurück, bevor Sie Ihren Tag mit einem Abendessen in der Nähe des Bahnhofs beenden.",
+        "hu": "Solihull tömegközlekedésével a város különböző részeit is megtapasztalhatja. Kezdje a központban egy sétával az állomástól a Touchwoodig és a Szent Alphege-templomig. Délután egy busz elviszi a lenyűgöző Nemzeti Motorkerékpár Múzeumba. Térjen vissza egy pihentető sétára a Brueton Parkba, mielőtt a napot egy vacsorával zárná az állomás közelében.",
+        "ro": "Transportul public din Solihull vă permite să experimentați diferite părți ale orașului. Începeți în centru cu o plimbare de la gară la Touchwood și Biserica St Alphege. După-amiaza, un autobuz vă va duce la impresionantul Muzeu Național al Motocicletelor. Întoarceți-vă pentru o plimbare relaxantă în Parcul Brueton înainte de a încheia ziua cu o cină lângă gară.",
+        "en": "Solihull's public transport lets you experience different parts of the town. Start in the centre with a walk from the station to Touchwood and St Alphege's Church. In the afternoon, a bus will take you to the impressive National Motorcycle Museum. Return for a relaxing walk in Brueton Park before ending your day with dinner near the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The White Swan",
+            "tip": "Ein traditioneller Pub in der Nähe des Bahnhofs, ideal für ein Abschiedsessen."
+          },
+          {
+            "name": "Esabella's",
+            "tip": "Ein gemütliches italienisches Restaurant für ein entspanntes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The White Swan",
+            "tip": "Hagyományos pub az állomás közelében, ideális egy búcsúvacsorához."
+          },
+          {
+            "name": "Esabella's",
+            "tip": "Hangulatos olasz étterem egy pihentető vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The White Swan",
+            "tip": "Un pub tradițional lângă gară, perfect pentru o cină de rămas bun."
+          },
+          {
+            "name": "Esabella's",
+            "tip": "Un restaurant italian primitor pentru o cină relaxantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "The White Swan",
+            "tip": "A traditional pub near the station, perfect for a farewell meal."
+          },
+          {
+            "name": "Esabella's",
+            "tip": "A cosy Italian restaurant for a relaxed dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkridge Centre",
+            "tip": "Ein Naturreservat, das an den Brueton Park angrenzt, für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bibliothek im The Core",
+            "tip": "Ein ruhiger Ort, um sich auszuruhen und ein Buch zu lesen.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkridge Centre",
+            "tip": "Természetvédelmi terület a Brueton Park mellett, egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Könyvtár a The Core-ban",
+            "tip": "Csendes hely a pihenésre és egy könyv olvasására.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Parkridge",
+            "tip": "O rezervație naturală adiacentă Parcului Brueton pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biblioteca de la The Core",
+            "tip": "Un spațiu liniștit pentru a vă odihni și a citi o carte.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parkridge Centre",
+            "tip": "A nature reserve adjoining Brueton Park for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Library at The Core",
+            "tip": "A quiet space to rest and read a book.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mell Square",
+            "tip": "Ein Open-Air-Einkaufsbereich mit einer Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mell Square",
+            "tip": "Szabadtéri bevásárlónegyed, sokféle üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mell",
+            "tip": "O zonă de cumpărături în aer liber, cu o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mell Square",
+            "tip": "An open-air shopping area with a variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die letzte Rückfahrt vom Motorradmuseum.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Echtzeit-Informationen zu erhalten.",
+          "Seien Sie auf Spaziergänge zwischen den Haltestellen und den eigentlichen Attraktionen vorbereitet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arányért.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó járatot a Motorkerékpár Múzeumtól.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű információkért.",
+          "Készüljön fel sétákra a megállók és a látnivalók között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Verificați orarele autobuzelor în avans, în special pentru ultima cursă de la Muzeul Motocicletelor.",
+          "Descărcați o aplicație locală de transport public pentru informații în timp real.",
+          "Fiți pregătiți pentru plimbări între stații și atracțiile efective."
+        ],
+        "en": [
+          "Purchase a day rider bus ticket for the best value.",
+          "Check bus schedules in advance, especially for the last return from the Motorcycle Museum.",
+          "Download a local transport app for real-time information.",
+          "Be prepared for walks between bus stops and the actual attractions."
+        ]
+      }
+    }
+  }
+}

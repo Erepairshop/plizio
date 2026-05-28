@@ -1,0 +1,1471 @@
+{
+  "city_id": "cyprus-strovolos-cities-v2",
+  "anchor": {
+    "name": "Strovolos",
+    "coords": [
+      33.3444,
+      35.1537
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Strovolos",
+            "hu": "Sztrovolosz Városháza",
+            "ro": "Primăria Strovolos",
+            "en": "Strovolos Town Hall"
+          },
+          "coords": [
+            33.3438,
+            35.1529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Verwaltungszentrums der Stadt.",
+            "hu": "Csodálja meg a város közigazgatási központjának modern építészetét.",
+            "ro": "Admirați arhitectura modernă a centrului administrativ al orașului.",
+            "en": "Admire the modern architecture of the city's administrative heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater Strovolos",
+            "hu": "Sztrovolosz Városi Színház",
+            "ro": "Teatrul Municipal Strovolos",
+            "en": "Strovolos Municipal Theatre"
+          },
+          "coords": [
+            33.3451,
+            35.1545
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendvorstellungen – oft gibt es lokale Produktionen.",
+            "hu": "Nézze meg az esti előadások műsorát – gyakran vannak helyi produkciók.",
+            "ro": "Verificați programul pentru spectacolele de seară – adesea sunt producții locale.",
+            "en": "Check the schedule for evening performances; they often feature local productions."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Dimitrios Kirche",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Agios Dimitrios Church"
+          },
+          "coords": [
+            33.3412,
+            35.1558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző freskókat és a benti békés légkört.",
+            "ro": "Observați frescele impresionante și atmosfera liniștită din interior.",
+            "en": "Note the impressive frescoes and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis-Park",
+            "hu": "Akropolisz Park",
+            "ro": "Parcul Acropolis",
+            "en": "Acropolis Park"
+          },
+          "coords": [
+            33.355,
+            35.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick. Es gibt viele schattige Plätze.",
+            "hu": "Ideális hely egy déli piknikhez. Sok árnyékos hely van.",
+            "ro": "Un loc ideal pentru un picnic la prânz. Există multe locuri umbrite.",
+            "en": "An ideal spot for a midday picnic. There are plenty of shady areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedieos-Uferpark",
+            "hu": "Pedieos folyóparti park",
+            "ro": "Parcul de pe malul râului Pedieos",
+            "en": "Pedieos River Bank Park"
+          },
+          "coords": [
+            33.3389,
+            35.1611
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Fußweg entlang des Flusses für eine entspannende Pause vom Stadtleben.",
+            "hu": "Kövesse a folyó menti ösvényt egy pihentető szünetért a városi életből.",
+            "ro": "Urmați poteca de-a lungul râului pentru o pauză relaxantă de la viața urbană.",
+            "en": "Follow the footpath along the river for a relaxing break from city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Chryseleousa",
+            "hu": "Panagia Chryseleousa templom",
+            "ro": "Biserica Panagia Chryseleousa",
+            "en": "Church of Panagia Chryseleousa"
+          },
+          "coords": [
+            33.3355,
+            35.15
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vergessen Sie nicht, die nahe gelegene Höhle zu besuchen, die mit der Kirche verbunden ist.",
+            "hu": "Ne felejtse el meglátogatni a közeli barlangot, amely a templomhoz kapcsolódik.",
+            "ro": "Nu uitați să vizitați peștera din apropiere, care este legată de biserică.",
+            "en": "Don't forget to visit the nearby cave associated with the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Strovolos beginnt im Herzen der Gemeinde am Rathaus und dem Theater. Am Vormittag erkunden Sie das spirituelle Zentrum mit einem Besuch der Agios Dimitrios Kirche. Mittags entspannen Sie im weitläufigen Akropolis-Park, ein perfekter Ort für eine längere Pause. Am Nachmittag schlendern Sie durch den Pedieos-Uferpark und entdecken die historische Panagia Chryseleousa Kirche. Der Abend klingt in einem der lokalen Restaurants gemütlich aus.",
+        "hu": "A sztrovoloszi nap a közösség szívében, a városházánál és a színháznál kezdődik. Délelőtt a spirituális központot fedezi fel az Agios Dimitrios templom meglátogatásával. Délben a tágas Akropolisz Parkban pihen, ami tökéletes hely egy hosszabb szünetre. Délután a Pedieos folyóparti parkban sétál, és felfedezi a történelmi Panagia Chryseleousa templomot. Az estét egy helyi étteremben zárja kellemesen.",
+        "ro": "Ziua dvs. în Strovolos începe în inima comunității, la Primărie și la teatru. În cursul dimineții, explorați centrul spiritual cu o vizită la Biserica Agios Dimitrios. La prânz, vă relaxați în Parcul Acropolis, un loc perfect pentru o pauză mai lungă. După-amiaza, vă plimbați prin Parcul de pe malul râului Pedieos și descoperiți istorica Biserică Panagia Chryseleousa. Seara se încheie într-unul dintre restaurantele locale.",
+        "en": "Your day in Strovolos begins in the heart of the municipality at the Town Hall and theatre. In the morning, you'll explore the spiritual center with a visit to Agios Dimitrios Church. At midday, you'll relax in the spacious Acropolis Park, a perfect spot for a longer break. The afternoon is for strolling through Pedieos River Bank Park and discovering the historic Church of Panagia Chryseleousa. The evening concludes cozily at one of the local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlakia und Sheftalia",
+            "tip": "Probieren Sie diese gegrillten Fleischspieße in einer traditionellen Taverne."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Gegrillter oder frischer zyprischer Käse, ein Muss."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, das auf der Zunge zergeht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki és Seftalia",
+            "tip": "Kóstolja meg ezeket a grillezett húsnyársakat egy hagyományos tavernában."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Grillezett vagy friss ciprusi sajt, kihagyhatatlan."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan főtt bárányhús, amely elolvad a szájban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki și Sheftalia",
+            "tip": "Încercați aceste frigărui de carne la grătar într-o tavernă tradițională."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Brânză cipriotă la grătar sau proaspătă, un deliciu obligatoriu."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, care se topește în gură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlakia and Sheftalia",
+            "tip": "Try these grilled meat skewers in a traditional taverna."
+          },
+          {
+            "name": "Halloumi",
+            "tip": "Grilled or fresh Cypriot cheese, a must-try."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb that melts in your mouth."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akropolis-Park",
+            "tip": "Finden Sie eine ruhige Bank unter Pinien und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pedieos-Uferpark",
+            "tip": "Ein Spaziergang am frühen Morgen oder späten Nachmittag ist besonders friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Agios Dimitrios Kirche",
+            "tip": "Ein Ort der Besinnung abseits der städtischen Hektik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akropolisz Park",
+            "tip": "Keressen egy csendes padot a fenyők alatt, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pedieos folyóparti park",
+            "tip": "Egy kora reggeli vagy késő délutáni séta különösen békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agios Dimitrios templom udvara",
+            "tip": "Az elmélkedés helye a városi nyüzsgéstől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Acropolis",
+            "tip": "Găsiți o bancă liniștită sub pini și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de pe malul râului Pedieos",
+            "tip": "O plimbare dimineața devreme sau după-amiaza târziu este deosebit de pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Agios Dimitrios",
+            "tip": "Un loc de contemplare departe de agitația urbană.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Acropolis Park",
+            "tip": "Find a quiet bench under the pine trees and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pedieos River Bank Park",
+            "tip": "An early morning or late afternoon walk is especially peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of Agios Dimitrios Church",
+            "tip": "A place for contemplation away from the urban hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach Keramik und handgefertigtem Schmuck in kleinen Geschäften."
+          },
+          {
+            "name": "Zypriotische Weine",
+            "tip": "Besuchen Sie einen lokalen Spirituosenladen für eine Flasche Commandaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kerámiákat és kézzel készített ékszereket a kis boltokban."
+          },
+          {
+            "name": "Ciprusi borok",
+            "tip": "Látogasson el egy helyi italboltba egy üveg Commandariáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și bijuterii lucrate manual în magazinele mici."
+          },
+          {
+            "name": "Vinuri cipriote",
+            "tip": "Vizitați un magazin local de băuturi pentru o sticlă de Commandaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for pottery and handmade jewelry in small shops."
+          },
+          {
+            "name": "Cypriot Wines",
+            "tip": "Visit a local liquor store for a bottle of Commandaria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Kirchen verlangen eine respektvolle Kleidung, Schultern und Knie sollten bedeckt sein.",
+          "Einige kleinere Geschäfte und Cafés akzeptieren möglicherweise nur Bargeld."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb templom tisztelettudó öltözéket követel meg; a vállaknak és a térdeknek fedve kell lenniük.",
+          "Néhány kisebb üzlet és kávézó lehet, hogy csak készpénzt fogad el."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea bisericilor necesită o ținută respectuoasă; umerii și genunchii ar trebui să fie acoperiți.",
+          "Unele magazine și cafenele mai mici pot accepta doar numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most churches require respectful attire; shoulders and knees should be covered.",
+          "Some smaller shops and cafes may only accept cash."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pedieos-Uferpark",
+            "hu": "Pedieos folyóparti park",
+            "ro": "Parcul de pe malul râului Pedieos",
+            "en": "Pedieos River Bank Park"
+          },
+          "coords": [
+            33.3389,
+            35.1611
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Fahrt entlang des Flussufers.",
+            "hu": "Kezdje a napot egy könnyű tekeréssel a folyópart mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul malului râului.",
+            "en": "Start your day with a gentle ride along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "GSP-Stadion",
+            "hu": "GSP Stadion",
+            "ro": "Stadionul GSP",
+            "en": "GSP Stadium"
+          },
+          "coords": [
+            33.3615,
+            35.1125
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto vor dem Nationalstadion Zyperns.",
+            "hu": "Készítsen egy fotót Ciprus nemzeti stadionja előtt.",
+            "ro": "Faceți o fotografie în fața stadionului național al Ciprului.",
+            "en": "Take a photo outside Cyprus's national football stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis-Park",
+            "hu": "Akropolisz Park",
+            "ro": "Parcul Acropolis",
+            "en": "Acropolis Park"
+          },
+          "coords": [
+            33.355,
+            35.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Eingang stehen und machen Sie einen Spaziergang.",
+            "hu": "Hagyja a kerékpárt a bejáratnál, és tegyen egy sétát.",
+            "ro": "Lăsați bicicleta la intrare și faceți o plimbare.",
+            "en": "Leave your bike at the entrance and go for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater Strovolos",
+            "hu": "Sztrovolosz Városi Színház",
+            "ro": "Teatrul Municipal Strovolos",
+            "en": "Strovolos Municipal Theatre"
+          },
+          "coords": [
+            33.3451,
+            35.1545
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kultureller Boxenstopp im Zentrum der Stadt.",
+            "hu": "Egy kulturális boxkiállás a város központjában.",
+            "ro": "O oprire culturală în centrul orașului.",
+            "en": "A cultural pit stop in the center of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Strovolos",
+            "hu": "Sztrovolosz Városháza",
+            "ro": "Primăria Strovolos",
+            "en": "Strovolos Town Hall"
+          },
+          "coords": [
+            33.3438,
+            35.1529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das moderne Gebäude ist ein guter Orientierungspunkt.",
+            "hu": "A modern épület jó tájékozódási pont.",
+            "ro": "Clădirea modernă este un bun punct de reper.",
+            "en": "The modern building serves as a great landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Dimitrios Kirche",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Agios Dimitrios Church"
+          },
+          "coords": [
+            33.3412,
+            35.1558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die spirituelle Ruhe dieses Ortes auf sich wirken zu lassen.",
+            "hu": "Szánjon időt arra, hogy magába szívja a hely spirituális nyugalmát.",
+            "ro": "Luați-vă timp pentru a absorbi liniștea spirituală a acestui loc.",
+            "en": "Take some time to absorb the spiritual tranquility of this place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Chryseleousa",
+            "hu": "Panagia Chryseleousa templom",
+            "ro": "Biserica Panagia Chryseleousa",
+            "en": "Church of Panagia Chryseleousa"
+          },
+          "coords": [
+            33.3355,
+            35.15
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Legenden, die sich um diese alte Kirche und ihre Höhle ranken.",
+            "hu": "Fedezze fel az ősi templomhoz és barlangjához fűződő legendákat.",
+            "ro": "Descoperiți legendele din jurul acestei biserici vechi și a peșterii sale.",
+            "en": "Discover the legends surrounding this ancient church and its cave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt mit einer erfrischenden Fahrt entlang des Pedieos-Flusses. Am Vormittag machen Sie einen Abstecher zum beeindruckenden GSP-Stadion, bevor Sie im Akropolis-Park eine ausgiebige Mittagspause einlegen. Nachmittags erkunden Sie das kulturelle Zentrum rund um das Theater und das Rathaus. Anschließend tauchen Sie in die Geschichte ein mit Besuchen der Agios Dimitrios und Panagia Chryseleousa Kirchen. Die Tour endet mit der Erkundung der geheimnisvollen Höhle.",
+        "hu": "Kerékpártúrája egy frissítő tekeréssel kezdődik a Pedieos folyó mentén. Délelőtt kitérőt tesz a lenyűgöző GSP Stadionhoz, mielőtt egy kiadós ebédszünetet tartana az Akropolisz Parkban. Délután felfedezi a színház és a városháza körüli kulturális központot. Ezután elmerül a történelemben az Agios Dimitrios és a Panagia Chryseleousa templomok meglátogatásával. A túra a titokzatos barlang felfedezésével ér véget.",
+        "ro": "Turul dvs. cu bicicleta începe cu o plimbare revigorantă de-a lungul râului Pedieos. În timpul dimineții, faceți un ocol la impresionantul Stadion GSP înainte de a lua o pauză de prânz prelungită în Parcul Acropolis. După-amiaza, explorați centrul cultural din jurul teatrului și primăriei. Apoi, vă scufundați în istorie cu vizite la bisericile Agios Dimitrios și Panagia Chryseleousa. Turul se încheie cu explorarea peșterii misterioase.",
+        "en": "Your bike tour starts with a refreshing ride along the Pedieos River. In the morning, you'll make a detour to the impressive GSP Stadium before taking a long lunch break in Acropolis Park. The afternoon is for exploring the cultural center around the theatre and town hall. You'll then delve into history with visits to the Agios Dimitrios and Panagia Chryseleousa churches. The tour concludes with an exploration of the mysterious cave."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Holen Sie sich ein frisches Tiropita (Käsegebäck) für unterwegs."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Ein eisgekühlter Kaffee, perfekt für eine Pause an einem warmen Tag."
+          },
+          {
+            "name": "Meze",
+            "tip": "Bestellen Sie eine Auswahl kleiner Gerichte, um verschiedene Geschmäcker zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vegyen egy friss Tiropitát (sajtos péksütemény) útközben."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Egy jeges kávé, tökéletes egy meleg napi szünethez."
+          },
+          {
+            "name": "Meze",
+            "tip": "Rendeljen egy válogatást kis ételekből, hogy különböző ízeket kóstolhasson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Luați o Tiropita proaspătă (plăcintă cu brânză) pentru drum."
+          },
+          {
+            "name": "Frappé",
+            "tip": "O cafea cu gheață, perfectă pentru o pauză într-o zi călduroasă."
+          },
+          {
+            "name": "Meze",
+            "tip": "Comandați o selecție de mici feluri de mâncare pentru a gusta diverse arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Grab a fresh Tiropita (cheese pie) for the road."
+          },
+          {
+            "name": "Frappé",
+            "tip": "An iced coffee, perfect for a break on a warm day."
+          },
+          {
+            "name": "Meze",
+            "tip": "Order a selection of small dishes to sample a variety of flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pedieos-Uferweg",
+            "tip": "Der Radweg ist oft ruhig und bietet schöne Ausblicke auf die Natur.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Versteckte Gärten im Akropolis-Park",
+            "tip": "Suchen Sie nach den weniger besuchten Teilen des Parks für echte Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Höhle der Panagia Chryseleousa",
+            "tip": "Ein kühler, stiller Ort mit einer besonderen spirituellen Energie.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pedieos folyóparti út",
+            "tip": "A kerékpárút gyakran csendes és szép kilátást nyújt a természetre.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Rejtett kertek az Akropolisz Parkban",
+            "tip": "Keresse a park kevésbé látogatott részeit az igazi nyugalomért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Panagia Chryseleousa barlangja",
+            "tip": "Hűvös, csendes hely, különleges spirituális energiával.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Pedieos",
+            "tip": "Pista de biciclete este adesea liniștită și oferă priveliști frumoase ale naturii.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădinile ascunse din Parcul Acropolis",
+            "tip": "Căutați părțile mai puțin vizitate ale parcului pentru o liniște autentică.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Peștera Panagia Chryseleousa",
+            "tip": "Un loc răcoros și liniștit, cu o energie spirituală specială.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedieos River Path",
+            "tip": "The bike path is often quiet and offers beautiful views of nature.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Hidden gardens in Acropolis Park",
+            "tip": "Look for the less-visited parts of the park for true tranquility.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cave of Panagia Chryseleousa",
+            "tip": "A cool, silent place with a special spiritual energy.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Geschäfte könnten einzigartiges Zubehör oder Trikots anbieten."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie lokal produziertes Olivenöl als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi boltok egyedi kiegészítőket vagy mezeket kínálhatnak."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásároljon helyben termelt olívaolajat szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale ar putea oferi accesorii sau tricouri unice."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei de măsline produs local ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling Gear",
+            "tip": "Local shops might offer unique accessories or jerseys."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Buy some locally produced olive oil as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie bei Dämmerung fahren.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Planen Sie Ihre Route im Voraus, um fahrradfreundliche Wege zu nutzen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Viseljen sisakot, és használjon lámpákat, ha szürkületben teker.",
+          "Mindig zárja le jól a kerékpárt, amikor leparkolja.",
+          "Tervezze meg előre az útvonalat, hogy kerékpárbarát utakat használjon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Purtați cască și folosiți lumini dacă pedalați la amurg.",
+          "Încuiati-vă întotdeauna bicicleta bine când o parcați.",
+          "Planificați-vă traseul în avans pentru a utiliza căi prietenoase pentru bicicliști."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Wear a helmet and use lights if riding at dusk.",
+          "Always lock your bike securely when you park it.",
+          "Plan your route in advance to use bike-friendly paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "GSP-Stadion",
+            "hu": "GSP Stadion",
+            "ro": "Stadionul GSP",
+            "en": "GSP Stadium"
+          },
+          "coords": [
+            33.3615,
+            35.1125
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie am südlichen Rand. Es gibt normalerweise genügend Parkplätze am Morgen.",
+            "hu": "Kezdje a déli peremen. Reggel általában van elég parkolóhely.",
+            "ro": "Începeți la marginea de sud. De obicei, dimineața există suficiente locuri de parcare.",
+            "en": "Start at the southern edge. There's usually ample parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis-Park",
+            "hu": "Akropolisz Park",
+            "ro": "Parcul Acropolis",
+            "en": "Acropolis Park"
+          },
+          "coords": [
+            33.355,
+            35.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Haupteingangs und erkunden Sie den Park zu Fuß.",
+            "hu": "Parkoljon a főbejárat közelében, és fedezze fel a parkot gyalog.",
+            "ro": "Parcați lângă intrarea principală și explorați parcul pe jos.",
+            "en": "Park near the main entrance and explore the park on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedieos-Uferpark",
+            "hu": "Pedieos folyóparti park",
+            "ro": "Parcul de pe malul râului Pedieos",
+            "en": "Pedieos River Bank Park"
+          },
+          "coords": [
+            33.3525,
+            35.1488
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Akropolis-Park aus führt Sie direkt an den Fluss.",
+            "hu": "Egy rövid séta az Akropolisz Parkból egyenesen a folyóhoz vezet.",
+            "ro": "O scurtă plimbare de la Parcul Acropolis vă duce direct la râu.",
+            "en": "A short walk from Acropolis Park will lead you right to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Strovolos",
+            "hu": "Sztrovolosz Városháza",
+            "ro": "Primăria Strovolos",
+            "en": "Strovolos Town Hall"
+          },
+          "coords": [
+            33.3438,
+            35.1529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Umgebung für den nächsten Cluster von Sehenswürdigkeiten.",
+            "hu": "Keressen parkolóhelyet a környéken a következő látnivalócsoporthoz.",
+            "ro": "Găsiți un loc de parcare în zonă pentru următorul grup de atracții.",
+            "en": "Find a parking spot in the area for the next cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Dimitrios Kirche",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Agios Dimitrios Church"
+          },
+          "coords": [
+            33.3412,
+            35.1558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Rathaus aus ist die Kirche leicht zu Fuß erreichbar.",
+            "hu": "A városházától a templom könnyen megközelíthető gyalog.",
+            "ro": "Biserica este ușor accesibilă pe jos de la primărie.",
+            "en": "The church is an easy walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater Strovolos",
+            "hu": "Sztrovolosz Városi Színház",
+            "ro": "Teatrul Municipal Strovolos",
+            "en": "Strovolos Municipal Theatre"
+          },
+          "coords": [
+            33.3451,
+            35.1545
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Cafés rund um das Theater.",
+            "hu": "Ebédeljen a színház körüli kávézók egyikében.",
+            "ro": "Bucurați-vă de prânz la una dintre cafenelele din jurul teatrului.",
+            "en": "Enjoy lunch at one of the cafes surrounding the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche und Höhle Panagia Chryseleousa",
+            "hu": "Panagia Chryseleousa templom és barlang",
+            "ro": "Biserica și Peștera Panagia Chryseleousa",
+            "en": "Church and Cave of Panagia Chryseleousa"
+          },
+          "coords": [
+            33.3355,
+            35.15
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein Ort voller Geschichte und Legenden.",
+            "hu": "A nap utolsó állomása, egy történelemmel és legendákkal teli hely.",
+            "ro": "Ultima oprire a zilei, un loc plin de istorie și legende.",
+            "en": "The last stop of the day, a place full of history and legends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour durch Strovolos folgt einer Cluster-Strategie. Sie beginnen am GSP-Stadion und fahren dann zum ersten Cluster: dem Akropolis- und Pedieos-Park. Dort parken Sie und erkunden die grüne Lunge der Stadt zu Fuß. Mittags fahren Sie ins Zentrum, parken erneut und entdecken das Rathaus, die Agios Dimitrios Kirche und das Theater, während Sie in einem lokalen Café zu Mittag essen. Der Tag endet mit einer kurzen Fahrt zur historischen Panagia Chryseleousa Kirche, wo Sie genügend Zeit haben, in die Vergangenheit einzutauchen.",
+        "hu": "Az autós túrája Sztrovoloszban egy klaszter-stratégiát követ. A GSP Stadionnál kezd, majd az első klaszterhez hajt: az Akropolisz és Pedieos parkokhoz. Ott leparkol, és gyalog fedezi fel a város zöld tüdejét. Délben a központba hajt, újra parkol, és felfedezi a városházát, az Agios Dimitrios templomot és a színházat, miközben egy helyi kávézóban ebédel. A nap a történelmi Panagia Chryseleousa templomhoz való rövid autózással ér véget, ahol elegendő ideje van elmerülni a múltban.",
+        "ro": "Turul dvs. cu mașina prin Strovolos urmează o strategie de clustere. Începeți la Stadionul GSP, apoi conduceți spre primul cluster: Parcul Acropolis și Parcul Pedieos. Parcați acolo și explorați plămânul verde al orașului pe jos. La prânz, conduceți spre centru, parcați din nou și descoperiți Primăria, Biserica Agios Dimitrios și teatrul, în timp ce luați prânzul la o cafenea locală. Ziua se încheie cu o scurtă călătorie cu mașina la istorica Biserică Panagia Chryseleousa, unde aveți timp suficient să vă cufundați în trecut.",
+        "en": "Your car tour of Strovolos follows a cluster strategy. You start at the GSP Stadium, then drive to the first cluster: Acropolis and Pedieos Parks. You park there and explore the city's green lung on foot. At midday, you drive to the center, park again, and discover the Town Hall, Agios Dimitrios Church, and the theatre while having lunch at a local cafe. The day ends with a short drive to the historic Church of Panagia Chryseleousa, where you have ample time to immerse yourself in the past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen-Mittagessen",
+            "tip": "Wählen Sie eine Taverne etwas abseits der Hauptstraßen für ein authentisches Meze-Erlebnis."
+          },
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Genießen Sie einen starken, traditionell gebrühten Kaffee nach dem Mittagessen."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "An vielen Straßenecken frisch gepresst erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna ebéd",
+            "tip": "Válasszon egy tavernát a főutcáktól kicsit távolabb egy autentikus meze-élményért."
+          },
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Élvezzen egy erős, hagyományosan főzött kávét ebéd után."
+          },
+          {
+            "name": "Friss narancslé",
+            "tip": "Sok utcasarkon frissen facsarva kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la tavernă",
+            "tip": "Alegeți o tavernă puțin mai departe de străzile principale pentru o experiență meze autentică."
+          },
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Savurați o cafea tare, preparată tradițional, după prânz."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Disponibil proaspăt stors la multe colțuri de stradă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna Lunch",
+            "tip": "Choose a taverna slightly off the main roads for an authentic meze experience."
+          },
+          {
+            "name": "Cypriot Coffee",
+            "tip": "Enjoy a strong, traditionally brewed coffee after lunch."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Available freshly squeezed at many street corners."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten im Akropolis-Park",
+            "tip": "Ein ruhiger, lehrreicher Abschnitt des Parks.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Höhle der Panagia Chryseleousa",
+            "tip": "Ein einzigartiger, kühler und stiller Ort.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seitenstraßen",
+            "tip": "Erkunden Sie die Wohnviertel zu Fuß für einen Einblick in das lokale Leben.",
+            "emoji": "🏡"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert az Akropolisz Parkban",
+            "tip": "A park csendes, tanulságos része.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Panagia Chryseleousa barlangja",
+            "tip": "Egyedi, hűvös és csendes hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Fedezze fel a lakónegyedeket gyalog, hogy bepillantást nyerjen a helyi életbe.",
+            "emoji": "🏡"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Parcul Acropolis",
+            "tip": "O secțiune liniștită și educativă a parcului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Peștera Panagia Chryseleousa",
+            "tip": "Un loc unic, răcoros și tăcut.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străzi lăturalnice",
+            "tip": "Explorați cartierele rezidențiale pe jos pentru o privire asupra vieții locale.",
+            "emoji": "🏡"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden in Acropolis Park",
+            "tip": "A quiet, educational section of the park.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Cave of Panagia Chryseleousa",
+            "tip": "A unique, cool, and silent place.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Side Streets",
+            "tip": "Explore the residential neighborhoods on foot for a glimpse of local life.",
+            "emoji": "🏡"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte",
+            "tip": "Kaufen Sie lokale Produkte wie Oliven, Käse und Wein."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Nehmen Sie traditionelles Gebäck für die Heimreise mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek",
+            "tip": "Vásároljon helyi termékeket, mint olajbogyó, sajt és bor."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Vigyen haza hagyományos péksüteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri",
+            "tip": "Cumpărați produse locale precum măsline, brânză și vin."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Luați produse de patiserie tradiționale pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets",
+            "tip": "Stock up on local products like olives, cheese, and wine."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Pick up some traditional pastries for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum eine Herausforderung sein; seien Sie geduldig.",
+          "Achten Sie auf Einbahnstraßen und die lokalen Verkehrsregeln.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a központban; legyen türelmes.",
+          "Figyeljen az egyirányú utcákra és a helyi közlekedési szabályokra.",
+          "A GPS vagy egy navigációs alkalmazás elengedhetetlen.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru; aveți răbdare.",
+          "Fiți atenți la străzile cu sens unic și la regulile de circulație locale.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking can be challenging in the center; be patient.",
+          "Pay attention to one-way streets and local traffic rules.",
+          "A GPS or navigation app is essential.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Akropolis-Park",
+            "hu": "Akropolisz Park",
+            "ro": "Parcul Acropolis",
+            "en": "Acropolis Park"
+          },
+          "coords": [
+            33.355,
+            35.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in der Nähe des Parks hält, um den Tag zu beginnen.",
+            "hu": "Vegyen egy buszt, amely a park közelében áll meg, hogy elkezdje a napot.",
+            "ro": "Luați un autobuz care oprește lângă parc pentru a începe ziua.",
+            "en": "Take a bus that stops near the park to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedieos-Uferpark",
+            "hu": "Pedieos folyóparti park",
+            "ro": "Parcul de pe malul râului Pedieos",
+            "en": "Pedieos River Bank Park"
+          },
+          "coords": [
+            33.3525,
+            35.1488
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Akropolis-Park aus ist es ein angenehmer Spaziergang zum Flussufer.",
+            "hu": "Az Akropolisz Parkból kellemes séta vezet a folyóparthoz.",
+            "ro": "Este o plimbare plăcută de la Parcul Acropolis la malul râului.",
+            "en": "It's a pleasant walk from Acropolis Park to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater Strovolos",
+            "hu": "Sztrovolosz Városi Színház",
+            "ro": "Teatrul Municipal Strovolos",
+            "en": "Strovolos Municipal Theatre"
+          },
+          "coords": [
+            33.3451,
+            35.1545
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum. Hier können Sie zu Mittag essen.",
+            "hu": "Menjen busszal a központba. Itt ebédelhet.",
+            "ro": "Luați un autobuz spre centru. Aici puteți lua prânzul.",
+            "en": "Take a bus to the center. You can have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Strovolos",
+            "hu": "Sztrovolosz Városháza",
+            "ro": "Primăria Strovolos",
+            "en": "Strovolos Town Hall"
+          },
+          "coords": [
+            33.3438,
+            35.1529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus liegt nur einen kurzen Spaziergang vom Theater entfernt.",
+            "hu": "A városháza csak egy rövid sétára van a színháztól.",
+            "ro": "Primăria este la o scurtă plimbare de teatru.",
+            "en": "The town hall is just a short walk from the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Dimitrios Kirche",
+            "hu": "Agios Dimitrios templom",
+            "ro": "Biserica Agios Dimitrios",
+            "en": "Agios Dimitrios Church"
+          },
+          "coords": [
+            33.3412,
+            35.1558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen rund um die Kirche, um das lokale Flair zu spüren.",
+            "hu": "Fedezze fel a templom körüli sikátorokat, hogy átérezze a helyi hangulatot.",
+            "ro": "Explorați aleile din jurul bisericii pentru a simți atmosfera locală.",
+            "en": "Explore the alleyways around the church to feel the local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Panagia Chryseleousa",
+            "hu": "Panagia Chryseleousa templom",
+            "ro": "Biserica Panagia Chryseleousa",
+            "en": "Church of Panagia Chryseleousa"
+          },
+          "coords": [
+            33.3355,
+            35.15
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt bringt Sie zu diesem historischen Juwel.",
+            "hu": "Egy utolsó buszozás elviszi Önt ehhez a történelmi gyöngyszemhez.",
+            "ro": "O ultimă călătorie cu autobuzul vă va duce la această bijuterie istorică.",
+            "en": "A final bus ride takes you to this historical gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Strovolos in Clustern. Der Tag beginnt im grünen Cluster des Akropolis- und Pedieos-Parks, die Sie zu Fuß miteinander verbinden. Mittags bringt Sie ein Bus ins Stadtzentrum. Dort erkunden Sie das kulturelle Herz mit Theater, Rathaus und der Agios Dimitrios Kirche zu Fuß und genießen ein Mittagessen. Ein weiterer Bus bringt Sie am Nachmittag zur alten Panagia Chryseleousa Kirche, wo Sie den Tag mit einem tiefen Einblick in die Geschichte und Spiritualität der Region ausklingen lassen.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezi fel Sztrovoloszt. A nap az Akropolisz és a Pedieos parkok zöld klaszterében kezdődik, amelyeket gyalog köt össze. Délben egy busz viszi a városközpontba. Ott gyalog fedezi fel a kulturális szívet a színházzal, a városházával és az Agios Dimitrios templommal, és elfogyaszt egy ebédet. Délután egy másik busz viszi az ősi Panagia Chryseleousa templomhoz, ahol a napot a régió történelmébe és spiritualitásába való mély betekintéssel zárja.",
+        "ro": "Cu transportul public, explorați Strovolos în clustere. Ziua începe în clusterul verde al parcurilor Acropolis și Pedieos, pe care le conectați pe jos. La prânz, un autobuz vă duce în centrul orașului. Acolo, explorați inima culturală cu teatrul, primăria și Biserica Agios Dimitrios pe jos și savurați prânzul. Un alt autobuz vă duce după-amiaza la vechea Biserică Panagia Chryseleousa, unde încheiați ziua cu o incursiune profundă în istoria și spiritualitatea regiunii.",
+        "en": "Using public transport, you'll explore Strovolos in clusters. The day begins in the green cluster of Acropolis and Pedieos Parks, which you connect on foot. At midday, a bus takes you to the city center. There, you'll explore the cultural heart with the theatre, town hall, and Agios Dimitrios Church on foot and enjoy lunch. Another bus takes you in the afternoon to the ancient Church of Panagia Chryseleousa, where you end the day with a deep dive into the region's history and spirituality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein schneller, leckerer und günstiger Snack für zwischendurch."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine Flasche KEO oder Leon, die lokalen Biermarken."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kleine, in Honig getränkte Teigbällchen als süßer Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Gyors, finom és olcsó harapnivaló útközben."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy üveg KEO-t vagy Leont, a helyi sörmárkákat."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Kicsi, mézbe mártott tésztagolyók édes lezárásként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "O gustare rapidă, delicioasă și ieftină pentru drum."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o sticlă de KEO sau Leon, mărcile locale de bere."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Mici gogoși însiropate cu miere ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A quick, delicious, and affordable snack on the go."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a bottle of KEO or Leon, the local beer brands."
+          },
+          {
+            "name": "Loukoumades",
+            "tip": "Small honey-soaked dough balls for a sweet finish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf einer Bank im Akropolis-Park",
+            "tip": "Beobachten Sie das tägliche Leben der Einheimischen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eine ruhige Seitenkapelle",
+            "tip": "In den Kirchen finden sich oft stille Ecken zum Nachdenken.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Busfahrt durch Wohngebiete",
+            "tip": "Eine entspannte Art, die weniger touristischen Teile der Stadt zu sehen.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy padon az Akropolisz Parkban",
+            "tip": "Figyelje a helyiek mindennapi életét.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Egy csendes oldalkápolna",
+            "tip": "A templomokban gyakran találhatók csendes sarkok az elmélkedésre.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Buszozás a lakónegyedeken keresztül",
+            "tip": "Pihentető módja a város kevésbé turisztikai részeinek megtekintésének.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe o bancă în Parcul Acropolis",
+            "tip": "Observați viața de zi cu zi a localnicilor.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "O capelă laterală liniștită",
+            "tip": "În biserici se găsesc adesea colțuri tăcute pentru reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Călătorie cu autobuzul prin zone rezidențiale",
+            "tip": "O modalitate relaxantă de a vedea părțile mai puțin turistice ale orașului.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "On a bench in Acropolis Park",
+            "tip": "Observe the daily life of the locals.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A quiet side chapel",
+            "tip": "Churches often have silent corners for reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bus ride through residential areas",
+            "tip": "A relaxing way to see the less touristy parts of the city.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptero)",
+            "tip": "Hier finden Sie Getränke, Snacks und Bustickets."
+          },
+          {
+            "name": "Kleine Souvenirläden",
+            "tip": "In der Nähe der Kirchen gibt es oft Läden mit religiösen Ikonen und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptero)",
+            "tip": "Itt italokat, rágcsálnivalókat és buszjegyeket talál."
+          },
+          {
+            "name": "Kis ajándékboltok",
+            "tip": "A templomok közelében gyakran vannak boltok vallási ikonokkal és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptero)",
+            "tip": "Aici veți găsi băuturi, gustări și bilete de autobuz."
+          },
+          {
+            "name": "Mici magazine de suveniruri",
+            "tip": "Lângă biserici există adesea magazine cu icoane religioase și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptero)",
+            "tip": "You can find drinks, snacks, and bus tickets here."
+          },
+          {
+            "name": "Small Souvenir Shops",
+            "tip": "Near the churches, there are often shops with religious icons and handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Nutzen Sie eine ÖPNV-App, um Routen und Fahrpläne in Echtzeit zu verfolgen.",
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Seien Sie sich bewusst, dass Busse am Abend und an Wochenenden seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű követéséhez.",
+          "Minden utazásnál érvényesítse a jegyét.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Utilizați o aplicație de transport public pentru a urmări rutele și orarele în timp real.",
+          "Validați-vă biletul la fiecare călătorie.",
+          "Fiți conștienți că autobuzele pot circula mai rar seara și în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Use a public transport app to track routes and schedules in real time.",
+          "Validate your ticket each time you board.",
+          "Be aware that buses may run less frequently in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

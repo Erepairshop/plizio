@@ -1,0 +1,1412 @@
+{
+  "city_id": "montenegro-golubovci-cities-v2",
+  "anchor": {
+    "name": "Golubovci",
+    "coords": [
+      19.231,
+      42.368
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Golubovci",
+            "hu": "Golubovci főtere",
+            "ro": "Piața orașului Golubovci",
+            "en": "Golubovci Town Square"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day here with a coffee at one of the local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            19.233,
+            42.369
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus traditioneller und moderner Ikonographie.",
+            "hu": "Figyelje meg a hagyományos és modern ikonográfia keveredését.",
+            "ro": "Observați amestecul de iconografie tradițională și modernă.",
+            "en": "Look for the mix of traditional and modern iconography inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeta-Denkmal",
+            "hu": "Zeta emlékmű",
+            "ro": "Monumentul Zeta",
+            "en": "Zeta Monument"
+          },
+          "coords": [
+            19.229,
+            42.367
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:27",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um über die lokale Geschichte nachzudenken. Lesen Sie die Inschrift.",
+            "hu": "Jó hely a helyi történelemről való elmélkedésre. Olvassa el a feliratot!",
+            "ro": "Un loc bun pentru a reflecta asupra istoriei locale. Citiți inscripția.",
+            "en": "A good spot to reflect on local history. Read the inscription."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Morača-Delta",
+            "hu": "Séta a Morača-deltához",
+            "ro": "Plimbare spre Delta Morača",
+            "en": "Walk towards Morača Delta"
+          },
+          "coords": [
+            19.25,
+            42.35
+          ],
+          "category": "natural features",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas zur Vogelbeobachtung mit. Das Delta ist reich an Avifauna.",
+            "hu": "Hozzon távcsövet a madármegfigyeléshez. A delta gazdag madárvilággal rendelkezik.",
+            "ro": "Aduceți un binoclu pentru observarea păsărilor. Delta este bogată în avifaună.",
+            "en": "Bring binoculars for bird watching. The delta is rich in avifauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the River"
+          },
+          "coords": [
+            19.245,
+            42.355
+          ],
+          "category": "gastro",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den frisch gefangenen Karpfen, eine lokale Spezialität.",
+            "hu": "Kóstolja meg a frissen fogott pontyot, ami helyi specialitás.",
+            "ro": "Încercați crapul proaspăt prins, o specialitate locală.",
+            "en": "Try the freshly caught carp, a local specialty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Golubovci beginnt auf dem zentralen Platz, wo das Leben der Stadt pulsiert. Nach dem Besuch der spirituellen St. Georgs-Kirche und einem Moment des Nachdenkens am Zeta-Denkmal führt Sie ein belebender Spaziergang zum ruhigen Morača-Delta. Der Morgen ist eine Mischung aus städtischem Charme und natürlicher Schönheit. Am Mittag genießen Sie ein gemütliches Mittagessen in einem Restaurant am Flussufer und genießen die Aromen der Region. Am Nachmittag kehren Sie langsam ins Stadtzentrum zurück, erfüllt von den Eindrücken des einfachen, aber reichen Lebens in der Zeta-Ebene. Der Abend ist perfekt für einen entspannten Ausklang in einem der Cafés.",
+        "hu": "Golubovci-i napja a központi téren kezdődik, ahol a város élete lüktet. A spirituális Szent György-templom meglátogatása és a Zeta emlékműnél való elmélkedés után egy élénkítő séta vezet a nyugodt Morača-deltához. A délelőtt a városi báj és a természeti szépség keveréke. Délben egy kellemes ebédet fogyaszthat egy folyóparti étteremben, élvezve a régió ízeit. Délután lassan visszatér a városközpontba, telve a Zeta-síkság egyszerű, mégis gazdag életének benyomásaival. Az este tökéletes egy nyugodt levezetésre az egyik kávézóban.",
+        "ro": "Ziua dvs. în Golubovci începe în piața centrală, unde viața orașului pulsează. După vizitarea spiritualei Biserici Sfântul Gheorghe și un moment de reflecție la Monumentul Zeta, o plimbare revigorantă vă duce la liniștita Deltă a Moračăi. Dimineața este un amestec de farmec urban și frumusețe naturală. La prânz, vă bucurați de un prânz pe îndelete la un restaurant pe malul râului, savurând aromele regiunii. După-amiaza vă întoarceți încet în centrul orașului, plini de impresiile vieții simple, dar bogate din Câmpia Zeta. Seara este perfectă pentru o relaxare liniștită la una dintre cafenele.",
+        "en": "Your day in Golubovci begins in the central square, where the town's life pulses. After visiting the spiritual St. George's Church and a moment of reflection at the Zeta Monument, an invigorating walk leads you to the tranquil Morača Delta. The morning is a mix of urban charm and natural beauty. At noon, you enjoy a leisurely lunch at a riverside restaurant, savoring the region's flavors. In the afternoon, you slowly return to the town center, filled with the impressions of the simple yet rich life in the Zeta Plain. The evening is perfect for a quiet wind-down at one of the cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geräucherter Karpfen aus dem Skutarisee",
+            "tip": "Eine wahre Delikatesse, langsam über Buchenholz geräuchert. Am besten mit lokalem Wein genießen."
+          },
+          {
+            "name": "Kacamak",
+            "tip": "Ein herzhaftes Maismehlgericht, oft mit Käse und Kajmak serviert. Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Vranac Wein",
+            "tip": "Der berühmteste montenegrinische Rotwein. Besuchen Sie ein lokales Weingut für eine Verkostung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füstölt ponty a Shkodrai-tóból",
+            "tip": "Igazi csemege, lassan bükkfán füstölve. Helyi borral a legjobb."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Kiadós kukoricalisztből készült étel, gyakran sajttal és kajmakkal tálalva. Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Vranac bor",
+            "tip": "A leghíresebb montenegrói vörösbor. Látogasson el egy helyi pincészetbe egy kóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crap afumat din Lacul Skadar",
+            "tip": "O delicatesă adevărată, afumată lent deasupra lemnului de fag. Cel mai bun servit cu vin local."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "Un fel de mâncare consistent din mălai, adesea servit cu brânză și kajmak. Perfect după o plimbare lungă."
+          },
+          {
+            "name": "Vin Vranac",
+            "tip": "Cel mai faimos vin roșu muntenegrean. Vizitați o cramă locală pentru o degustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smoked Carp from Skadar Lake",
+            "tip": "A true delicacy, slowly smoked over beech wood. Best enjoyed with local wine."
+          },
+          {
+            "name": "Kačamak",
+            "tip": "A hearty cornmeal dish, often served with cheese and kajmak. Perfect after a long walk."
+          },
+          {
+            "name": "Vranac Wine",
+            "tip": "The most famous Montenegrin red wine. Visit a local winery for a tasting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Morača-Deltas",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Georg",
+            "tip": "Ein friedlicher Ort für einen Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über der Zeta-Ebene",
+            "tip": "Ein Spaziergang am späten Nachmittag bietet goldene Ausblicke über die Felder.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morača-delta partja",
+            "tip": "Keressen egy csendes helyet a vízparton, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent György-templom kertje",
+            "tip": "Békés hely egy csendes pillanatra és elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Zeta-síkság felett",
+            "tip": "Egy késő délutáni séta aranyló kilátást nyújt a mezőkre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Deltei Morača",
+            "tip": "Găsiți un loc liniștit lângă apă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sfântul Gheorghe",
+            "tip": "Un loc pașnic pentru un moment de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste Câmpia Zeta",
+            "tip": "O plimbare la sfârșitul după-amiezii oferă vederi aurii peste câmpuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Morača Delta",
+            "tip": "Find a quiet spot by the water and listen to the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. George's Churchyard",
+            "tip": "A peaceful place for a moment of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the Zeta Plain",
+            "tip": "A late afternoon walk offers golden views over the fields.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Kaufen Sie frisches Obst, Gemüse und den berühmten Zeta-Käse direkt von den Erzeugern."
+          },
+          {
+            "name": "Hausgemachter Honig",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokalen Honig verkaufen, ein süßes und gesundes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget és a híres Zeta sajtot közvetlenül a termelőktől."
+          },
+          {
+            "name": "Házi méz",
+            "tip": "Keresse a helyi mézet árusító standokat, édes és egészséges szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața agricolă locală",
+            "tip": "Cumpărați fructe proaspete, legume și faimoasa brânză Zeta direct de la producători."
+          },
+          {
+            "name": "Miere de casă",
+            "tip": "Căutați tarabe care vând miere locală, un suvenir dulce și sănătos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmer's Market",
+            "tip": "Buy fresh fruits, vegetables, and the famous Zeta cheese directly from the producers."
+          },
+          {
+            "name": "Homemade Honey",
+            "tip": "Look for stalls selling local honey, a sweet and healthy souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Die Einheimischen sind freundlich, zögern Sie nicht, nach dem Weg zu fragen.",
+          "Respektieren Sie die religiösen Stätten und kleiden Sie sich angemessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "A helyiek barátságosak, ne habozzon útbaigazítást kérni.",
+          "Tisztelje a vallási helyszíneket és öltözködjön megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Luați apă cu dvs., mai ales în lunile mai calde.",
+          "Localnicii sunt prietenoși, nu ezitați să cereți indicații.",
+          "Respectați locurile religioase și îmbrăcați-vă corespunzător."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be covering a few kilometers.",
+          "Bring water with you, especially during the warmer months.",
+          "The locals are friendly, don't hesitate to ask for directions.",
+          "Be respectful at religious sites and dress appropriately."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Golubovci",
+            "hu": "Golubovci főtere",
+            "ro": "Piața orașului Golubovci",
+            "en": "Golubovci Town Square"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad und starten Sie von hier aus in den Tag.",
+            "hu": "Béreljen kerékpárt, és innen induljon a napi túrára.",
+            "ro": "Închiriați bicicleta și începeți ziua de aici.",
+            "en": "Rent your bike and start your day's journey from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Morača-Delta",
+            "hu": "Morača-delta",
+            "ro": "Delta Morača",
+            "en": "Morača Delta"
+          },
+          "coords": [
+            19.25,
+            42.35
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die flachen Wege sind ideal für eine leichte Radtour. Halten Sie Ausschau nach Vögeln.",
+            "hu": "A sík utak ideálisak egy könnyű kerékpártúrához. Figyelje a madarakat!",
+            "ro": "Drumurile plate sunt ideale pentru o plimbare ușoară cu bicicleta. Fiți atenți la păsări.",
+            "en": "The flat paths are ideal for an easy bike ride. Look out for birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavnica Eco Resort",
+            "hu": "Plavnica Eco Resort",
+            "ro": "Plavnica Eco Resort",
+            "en": "Plavnica Eco Resort"
+          },
+          "coords": [
+            19.265,
+            42.345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:47",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und genießen Sie die Annehmlichkeiten. Ein toller Ort für ein Mittagessen.",
+            "hu": "Tartson szünetet és élvezze a kényelmet. Remek hely egy ebédhez.",
+            "ro": "Faceți o pauză și bucurați-vă de facilități. Un loc minunat pentru prânz.",
+            "en": "Take a break and enjoy the amenities. A great spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt in Richtung Skutarisee-Nationalpark",
+            "hu": "Tekerés a Shkodrai-tó Nemzeti Park felé",
+            "ro": "Plimbare cu bicicleta spre Parcul Național Lacul Skadar",
+            "en": "Ride towards Skadar Lake National Park"
+          },
+          "coords": [
+            19.28,
+            42.33
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sie müssen nicht den ganzen Weg fahren. Genießen Sie einfach die Landschaft am Rande des Parks.",
+            "hu": "Nem kell végigmenni. Csak élvezze a tájat a park szélén.",
+            "ro": "Nu trebuie să mergeți până la capăt. Doar bucurați-vă de peisajul de la marginea parcului.",
+            "en": "You don't have to go all the way. Just enjoy the scenery on the park's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            19.233,
+            42.369
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Halt am Ende Ihrer Radtour.",
+            "hu": "Egy csendes megálló a kerékpártúra végén.",
+            "ro": "O oprire liniștită la sfârșitul turului cu bicicleta.",
+            "en": "A peaceful stop at the end of your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschlussgetränk am Stadtplatz",
+            "hu": "Záró ital a főtéren",
+            "ro": "Băutură de încheiere în piața orașului",
+            "en": "Closing drink at the Town Square"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "gastro",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem kühlen Getränk.",
+            "hu": "Adja vissza a kerékpárt és jutalmazza meg magát egy hideg itallal.",
+            "ro": "Returnați bicicleta și răsplătiți-vă cu o băutură rece.",
+            "en": "Return your bike and reward yourself with a cool drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für einen Tag voller Entdeckungen rund um Golubovci. Vom Stadtzentrum aus radeln Sie durch die flache Zeta-Ebene zum malerischen Morača-Delta. Der Vormittag ist dem Eintauchen in die Natur gewidmet und gipfelt in einer entspannenden Pause im Plavnica Eco Resort. Am Mittag radeln Sie weiter am Rande des majestätischen Skutarisee-Nationalparks entlang und genießen die weiten Ausblicke. Am Nachmittag kehren Sie in die Stadt zurück, um die historische St. Georgs-Kirche zu besichtigen, bevor Sie Ihren aktiven Tag mit einem wohlverdienten Getränk auf dem Hauptplatz ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe egy felfedezésekkel teli napra Golubovci környékén. A városközpontból a sík Zeta-síkságon át tekerhet a festői Morača-deltához. A délelőtt a természetben való elmerülésről szól, ami a Plavnica Eco Resortban való pihenéssel csúcsosodik ki. Délben tovább teker a fenséges Shkodrai-tó Nemzeti Park szélén, élvezve a tágas kilátást. Délután visszatér a városba, hogy meglátogassa a történelmi Szent György-templomot, mielőtt egy jól megérdemelt itallal zárja aktív napját a főtéren.",
+        "ro": "Urcați-vă pe bicicletă pentru o zi de explorare în jurul Golubovci. Din centrul orașului, pedalați prin Câmpia Zeta plată până la pitoreasca Deltă a Moračăi. Dimineața este dedicată imersiunii în natură, culminând cu o pauză relaxantă la Plavnica Eco Resort. La prânz, continuați să pedalați de-a lungul marginii maiestuosului Parc Național Lacul Skadar, admirând priveliștile largi. După-amiaza vă întoarceți în oraș pentru a vizita istorica Biserică Sfântul Gheorghe, înainte de a încheia ziua activă cu o băutură binemeritată în piața principală.",
+        "en": "Get on your bike for a day of exploration around Golubovci. From the town center, you'll cycle through the flat Zeta Plain to the picturesque Morača Delta. The morning is dedicated to immersing yourself in nature, culminating in a relaxing break at Plavnica Eco Resort. At noon, you'll continue cycling along the edge of the majestic Skadar Lake National Park, enjoying the wide views. In the afternoon, you'll return to town to visit the historic St. George's Church before ending your active day with a well-deserved drink in the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch im Plavnica Resort",
+            "tip": "Frisch aus dem See und perfekt gegrillt, ist dies der ideale Mittagssnack für Radfahrer."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Suchen Sie nach kleinen Brauereien in der Region Podgorica für ein erfrischendes Getränk nach der Tour."
+          },
+          {
+            "name": "Priganice",
+            "tip": "Kleine, frittierte Teigbällchen, die oft mit Honig oder Käse serviert werden. Ein schneller Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal a Plavnica Resortban",
+            "tip": "Frissen a tóból és tökéletesen grillezve, ideális ebéd a kerékpárosoknak."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Keressen kis sörfőzdéket Podgorica környékén egy frissítő italért a túra után."
+          },
+          {
+            "name": "Priganice",
+            "tip": "Kicsi, sült tésztagolyók, gyakran mézzel vagy sajttal tálalva. Gyors energiaforrás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar la Plavnica Resort",
+            "tip": "Proaspăt din lac și perfect la grătar, este prânzul ideal pentru bicicliști."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Căutați mici berării în zona Podgorica pentru o băutură răcoritoare după tur."
+          },
+          {
+            "name": "Priganice",
+            "tip": "Mici gogoși prăjite, adesea servite cu miere sau brânză. Un impuls rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish at Plavnica Resort",
+            "tip": "Fresh from the lake and perfectly grilled, it's the ideal cyclist's lunch."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Look for small breweries in the Podgorica area for a refreshing post-tour drink."
+          },
+          {
+            "name": "Priganice",
+            "tip": "Small, fried dough balls often served with honey or cheese. A quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Wege im Morača-Delta",
+            "tip": "Verlassen Sie den Hauptweg und finden Sie Ihren eigenen friedlichen Ort am Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick auf den Skutarisee",
+            "tip": "Halten Sie an einem beliebigen Punkt Ihrer Fahrt an, um die Weite des Sees zu bewundern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nachmittagssonne in einem Café",
+            "tip": "Entspannen Sie sich nach Ihrer Tour und beobachten Sie das Treiben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett ösvények a Morača-deltában",
+            "tip": "Hagyja el a fő utat, és találjon saját békés helyet a vízparton.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Shkodrai-tóra",
+            "tip": "Álljon meg bárhol az út során, hogy megcsodálja a tó tágasságát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Délutáni napfény egy kávézóban",
+            "tip": "Pihenjen a túra után, és nézze a nyüzsgést.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărări ascunse în Delta Morača",
+            "tip": "Părăsiți poteca principală și găsiți-vă propriul loc pașnic lângă apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere spre Lacul Skadar",
+            "tip": "Opriți-vă în orice punct al plimbării pentru a admira imensitatea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Soarele de după-amiază la o cafenea",
+            "tip": "Relaxați-vă după tur și priviți agitația.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden paths in Morača Delta",
+            "tip": "Leave the main path and find your own peaceful spot by the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View of Skadar Lake",
+            "tip": "Stop at any point during your ride to admire the vastness of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Afternoon sun at a cafe",
+            "tip": "Relax after your tour and watch the world go by.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Viele Haushalte produzieren ihren eigenen Wein. Fragen Sie nach einer Flasche 'domaći vino'."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Die Region ist auch für ihr hochwertiges Olivenöl bekannt. Ein tolles Geschenk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Sok háztartás készít saját bort. Kérjen egy üveg 'domaći vino'-t."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "A régió a magas minőségű olívaolajáról is ismert. Nagyszerű ajándék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Multe gospodării își produc propriul vin. Cereți o sticlă de 'domaći vino'."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Regiunea este, de asemenea, cunoscută pentru uleiul de măsline de înaltă calitate. Un cadou minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Many households produce their own wine. Ask for a bottle of 'domaći vino'."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "The region is also known for its high-quality olive oil. A great gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig und achten Sie auf den Verkehr.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Landschaft ist flach, aber eine gewisse Grundfitness ist hilfreich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Az utak szűkek lehetnek, vezessen óvatosan és figyeljen a forgalomra.",
+          "Sisak viselése erősen ajánlott.",
+          "A táj sík, de némi alapvető fittség hasznos."
+        ],
+        "ro": [
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Drumurile pot fi înguste, conduceți cu atenție și fiți atenți la trafic.",
+          "O cască este foarte recomandată.",
+          "Terenul este plat, dar o anumită condiție fizică de bază este de ajutor."
+        ],
+        "en": [
+          "Check your bike before leaving, especially the brakes and tires.",
+          "The roads can be narrow, ride carefully and be aware of traffic.",
+          "A helmet is highly recommended.",
+          "The landscape is flat, but some basic fitness is helpful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 39.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Golubovci & Parken",
+            "hu": "Golubovci főtere és parkolás",
+            "ro": "Piața orașului Golubovci și parcare",
+            "en": "Golubovci Town Square & Parking"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel gyalog a központot.",
+            "ro": "Parcați aici și explorați centrul pe jos.",
+            "en": "Park your car here and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            19.233,
+            42.369
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:24",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz. Genießen Sie die Ruhe.",
+            "hu": "Rövid séta a térről. Élvezze a csendet.",
+            "ro": "O scurtă plimbare din piață. Bucurați-vă de liniște.",
+            "en": "A short walk from the square. Enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Lesendro",
+            "hu": "Lesendro erőd",
+            "ro": "Fortăreața Lesendro",
+            "en": "Lesendro Fortress"
+          },
+          "coords": [
+            19.3,
+            42.31
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Parken Sie am Damm und gehen Sie zur Festung. Tolle Fotomotive!",
+            "hu": "Parkoljon a gátnál és sétáljon el az erődhöz. Nagyszerű fotótéma!",
+            "ro": "Parcați la baraj și mergeți pe jos până la fortăreață. Oportunități foto grozave!",
+            "en": "Park on the causeway and walk to the fortress. Great photo opportunities!"
+          }
+        },
+        {
+          "name": {
+            "de": "Vranjina-Aussichtspunkt",
+            "hu": "Vranjina kilátó",
+            "ro": "Punct de belvedere Vranjina",
+            "en": "Vranjina Viewpoint"
+          },
+          "coords": [
+            19.33,
+            42.32
+          ],
+          "category": "natural features",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Bietet einen der besten Panoramablicke auf den Skutarisee.",
+            "hu": "Innen nyílik az egyik legjobb panoráma a Shkodrai-tóra.",
+            "ro": "Oferă una dintre cele mai bune vederi panoramice ale Lacului Skadar.",
+            "en": "Offers one of the best panoramic views of Skadar Lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Restaurant am See",
+            "hu": "Ebéd egy tóparti étteremben",
+            "ro": "Prânz la un restaurant pe malul lacului",
+            "en": "Lunch at a lakeside restaurant"
+          },
+          "coords": [
+            19.325,
+            42.325
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant in Vranjina für authentischen Seefisch.",
+            "hu": "Keressen egy éttermet Vranjinában az autentikus tavi halért.",
+            "ro": "Găsiți un restaurant în Vranjina pentru pește autentic de lac.",
+            "en": "Find a restaurant in Vranjina for authentic lake fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavnica Eco Resort",
+            "hu": "Plavnica Eco Resort",
+            "ro": "Plavnica Eco Resort",
+            "en": "Plavnica Eco Resort"
+          },
+          "coords": [
+            19.265,
+            42.345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 18,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittag. Nehmen Sie ein Bad im Pool oder im See.",
+            "hu": "Tökéletes hely egy pihentető délutánhoz. Ússzon egyet a medencében vagy a tóban.",
+            "ro": "Locul perfect pentru o după-amiază relaxantă. Faceți o baie în piscină sau în lac.",
+            "en": "The perfect place for a relaxing afternoon. Take a dip in the pool or the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Golubovci",
+            "hu": "Visszatérés Golubovciba",
+            "ro": "Întoarcere la Golubovci",
+            "en": "Return to Golubovci"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "gastro",
+          "arrive_at": "16:49",
+          "stay_min": 55,
+          "hop_mode": "car",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Kaffee oder einem leichten Abendessen im Stadtzentrum.",
+            "hu": "Zárja a napot egy kávéval vagy egy könnyű vacsorával a városközpontban.",
+            "ro": "Încheiați ziua cu o cafea sau o cină ușoară în centrul orașului.",
+            "en": "End the day with a coffee or a light dinner in the town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag kombiniert städtische Erkundung mit den Naturwundern des Skutarisees. Beginnen Sie im Zentrum von Golubovci, bevor Sie zur historischen Festung Lesendro fahren. Der Vormittag steht im Zeichen von Geschichte und atemberaubenden Ausblicken vom Vranjina-Aussichtspunkt. Zu Mittag genießen Sie die lokale Küche in einem Restaurant am Seeufer. Der Nachmittag ist der puren Entspannung im Plavnica Eco Resort gewidmet, wo Sie schwimmen und die Sonne genießen können. Schließlich kehren Sie nach Golubovci zurück und lassen einen Tag voller vielfältiger Eindrücke Revue passieren.",
+        "hu": "Autós napja a városi felfedezést a Shkodrai-tó természeti csodáival ötvözi. Induljon Golubovci központjából, mielőtt a történelmi Lesendro erődhöz hajt. A délelőtt a történelemről és a Vranjina kilátóból nyíló lélegzetelállító kilátásról szól. Ebédre élvezze a helyi konyhát egy tóparti étteremben. A délután a tiszta pihenésé a Plavnica Eco Resortban, ahol úszhat és napozhat. Végül térjen vissza Golubovciba, felidézve a változatos benyomásokkal teli napot.",
+        "ro": "Ziua dvs. cu mașina combină explorarea urbană cu minunile naturale ale Lacului Skadar. Începeți în centrul Golubovci înainte de a conduce la istorica Fortăreață Lesendro. Dimineața este dedicată istoriei și priveliștilor uluitoare de la Punctul de belvedere Vranjina. La prânz, savurați bucătăria locală la un restaurant pe malul lacului. După-amiaza este dedicată relaxării pure la Plavnica Eco Resort, unde puteți înota și vă puteți bucura de soare. În cele din urmă, vă întoarceți în Golubovci, reflectând la o zi plină de impresii diverse.",
+        "en": "Your car day combines urban exploration with the natural wonders of Skadar Lake. Start in the center of Golubovci before driving to the historic Lesendro Fortress. The morning is dedicated to history and breathtaking views from the Vranjina Viewpoint. For lunch, savor local cuisine at a lakeside restaurant. The afternoon is for pure relaxation at Plavnica Eco Resort, where you can swim and enjoy the sun. Finally, you return to Golubovci, reflecting on a day full of diverse impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seefisch in Vranjina",
+            "tip": "Restaurants in Vranjina sind berühmt für ihren frischen, auf traditionelle Weise zubereiteten Fisch."
+          },
+          {
+            "name": "Zeta-Käse",
+            "tip": "Ein pikanter, oft in Öl eingelegter Käse. Fragen Sie danach als Vorspeise."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Probieren Sie den lokalen Obstbrand, aber seien Sie vorsichtig – er ist stark!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi hal Vranjinában",
+            "tip": "A vranjinai éttermek híresek friss, hagyományosan elkészített halaikról."
+          },
+          {
+            "name": "Zeta sajt",
+            "tip": "Fűszeres, gyakran olajban pácolt sajt. Kérje előételként."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Kóstolja meg a helyi gyümölcspálinkát, de óvatosan – erős!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește de lac în Vranjina",
+            "tip": "Restaurantele din Vranjina sunt renumite pentru peștele lor proaspăt, preparat în mod tradițional."
+          },
+          {
+            "name": "Brânză Zeta",
+            "tip": "O brânză picantă, adesea murată în ulei. Cereți-o ca aperitiv."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Încercați rachiul local de fructe, dar fiți atenți - este puternic!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake fish in Vranjina",
+            "tip": "Restaurants in Vranjina are famous for their fresh fish, prepared in the traditional way."
+          },
+          {
+            "name": "Zeta cheese",
+            "tip": "A spicy cheese, often pickled in oil. Ask for it as an appetizer."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Try the local fruit brandy, but be careful – it's strong!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Lesendro",
+            "tip": "Abseits der Menschenmassen können Sie hier die Geschichte und die Aussicht in Ruhe genießen.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Vranjina-Aussichtspunkt am Morgen",
+            "tip": "Besuchen Sie ihn früh, um die beste Aussicht ohne Menschenmassen zu haben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pool im Plavnica Resort",
+            "tip": "Ein entspannter Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lesendro erőd",
+            "tip": "A tömegtől távol, itt békében élvezheti a történelmet és a kilátást.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Vranjina kilátó reggel",
+            "tip": "Látogasson el korán, hogy a legjobb kilátást élvezhesse tömeg nélkül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Medence a Plavnica Resortban",
+            "tip": "Pihentető hely a nyüzsgés elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortăreața Lesendro",
+            "tip": "Departe de mulțime, aici vă puteți bucura de istorie și de priveliște în liniște.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Punct de belvedere Vranjina dimineața",
+            "tip": "Vizitați-l devreme pentru a avea cea mai bună priveliște fără aglomerație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piscina de la Plavnica Resort",
+            "tip": "Un loc relaxant pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lesendro Fortress",
+            "tip": "Away from the crowds, you can enjoy the history and the view in peace here.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Vranjina Viewpoint in the morning",
+            "tip": "Visit early to get the best view without the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pool at Plavnica Resort",
+            "tip": "A relaxing place to escape the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter entlang der Straße",
+            "tip": "Halten Sie an einem der vielen kleinen Weingüter und kaufen Sie Vranac direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerk in Vranjina",
+            "tip": "Im Besucherzentrum finden Sie möglicherweise lokales Handwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borászatok az út mentén",
+            "tip": "Álljon meg a sok kis borászat egyikénél, és vásároljon Vranacot közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves termékek Vranjinában",
+            "tip": "A látogatóközpontban helyi kézműves termékeket és szuveníreket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame de-a lungul drumului",
+            "tip": "Opriți-vă la una dintre multele crame mici și cumpărați Vranac direct de la producător."
+          },
+          {
+            "name": "Artizanat în Vranjina",
+            "tip": "La centrul de vizitatori s-ar putea să găsiți artizanat local și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries along the road",
+            "tip": "Stop at one of the many small wineries and buy Vranac directly from the producer."
+          },
+          {
+            "name": "Handicrafts in Vranjina",
+            "tip": "You might find local handicrafts and souvenirs at the visitor center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen um den Skutarisee sind eng und kurvenreich. Fahren Sie vorsichtig.",
+          "Parkmöglichkeiten können an beliebten Orten begrenzt sein. Seien Sie geduldig.",
+          "Ein GPS ist sehr zu empfehlen, da die Beschilderung manchmal unklar sein kann.",
+          "Haben Sie immer etwas Bargeld für Parkgebühren oder kleine Einkäufe dabei."
+        ],
+        "hu": [
+          "A Shkodrai-tó körüli utak szűkek és kanyargósak. Vezessen óvatosan.",
+          "A parkolóhelyek korlátozottak lehetnek a népszerű helyeken. Legyen türelmes.",
+          "GPS használata erősen ajánlott, mivel a jelzések néha nem egyértelműek.",
+          "Mindig legyen Önnél készpénz parkolási díjakra vagy kisebb vásárlásokra."
+        ],
+        "ro": [
+          "Drumurile din jurul Lacului Skadar sunt înguste și sinuoase. Conduceți cu prudență.",
+          "Parcarea poate fi limitată în locurile populare. Aveți răbdare.",
+          "Un GPS este foarte recomandat, deoarece semnalizarea poate fi uneori neclară.",
+          "Aveți întotdeauna niște bani lichizi pentru taxele de parcare sau cumpărături mici."
+        ],
+        "en": [
+          "The roads around Skadar Lake are narrow and winding. Drive carefully.",
+          "Parking can be limited at popular spots. Be patient.",
+          "A GPS is highly recommended as signage can sometimes be unclear.",
+          "Always have some cash for parking fees or small purchases."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Busbahnhof Golubovci",
+            "hu": "Indulás a Golubovci buszpályaudvarról",
+            "ro": "Plecare de la autogara Golubovci",
+            "en": "Start at Golubovci Bus Station"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte, wenn verfügbar, oder fragen Sie nach den Tarifen zu den See-Dörfern.",
+            "hu": "Vásároljon napijegyet, ha elérhető, vagy érdeklődjön a tavi falvakba szóló díjakról.",
+            "ro": "Cumpărați un bilet de o zi, dacă este disponibil, sau întrebați despre tarifele către satele de pe lac.",
+            "en": "Buy a day pass if available, or ask for the fares to the lake villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Vranjina",
+            "hu": "Buszozás Vranjinába",
+            "ro": "Călătorie cu autobuzul spre Vranjina",
+            "en": "Bus ride to Vranjina"
+          },
+          "coords": [
+            19.325,
+            42.325
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht während der Fahrt. Der Bus hält direkt im Dorf.",
+            "hu": "Élvezze a kilátást az utazás során. A busz közvetlenül a faluban áll meg.",
+            "ro": "Bucurați-vă de priveliște în timpul călătoriei. Autobuzul oprește chiar în sat.",
+            "en": "Enjoy the views during the ride. The bus stops right in the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Vranjina-Aussichtspunkt",
+            "hu": "Vranjina kilátó",
+            "ro": "Punct de belvedere Vranjina",
+            "en": "Vranjina Viewpoint"
+          },
+          "coords": [
+            19.33,
+            42.32
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bus-Stopp. Nehmen Sie sich Zeit für das Panorama.",
+            "hu": "Rövid séta a buszmegállótól. Szánjon időt a panorámára.",
+            "ro": "O scurtă plimbare de la stația de autobuz. Luați-vă timp pentru panoramă.",
+            "en": "A short walk from the bus stop. Take your time for the panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang in Vranjina",
+            "hu": "Ebéd és séta Vranjinában",
+            "ro": "Prânz și plimbare în Vranjina",
+            "en": "Lunch and walk in Vranjina"
+          },
+          "coords": [
+            19.328,
+            42.323
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das kleine Dorf zu Fuß und finden Sie ein gemütliches Restaurant.",
+            "hu": "Fedezze fel a kis falut gyalog, és keressen egy hangulatos éttermet.",
+            "ro": "Explorați micul sat pe jos și găsiți un restaurant primitor.",
+            "en": "Explore the small village on foot and find a cozy restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt und Erkundung von Golubovci Zentrum",
+            "hu": "Visszaút és Golubovci központjának felfedezése",
+            "ro": "Întoarcere și explorarea centrului Golubovci",
+            "en": "Return ride and exploration of Golubovci center"
+          },
+          "coords": [
+            19.231,
+            42.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 154,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 12,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Nachmittag, um die Kirche und den Platz zu besichtigen, die Sie am Morgen ausgelassen haben.",
+            "hu": "Használja a délutánt a templom és a tér megtekintésére, amit reggel kihagyott.",
+            "ro": "Folosiți după-amiaza pentru a vizita biserica și piața pe care le-ați omis dimineața.",
+            "en": "Use the afternoon to visit the church and square you skipped in the morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie den Skutarisee aus der Perspektive der Einheimischen. Ihre Reise beginnt in Golubovci und führt Sie mit dem Bus direkt ins Herz des charmanten Fischerdorfes Vranjina. Der Vormittag ist der Erkundung der Insel gewidmet, vom atemberaubenden Aussichtspunkt bis zu den engen Gassen. Nach einem authentischen Mittagessen am Seeufer bringt Sie der Bus zurück nach Golubovci. Der Nachmittag steht Ihnen zur freien Verfügung, um das Stadtzentrum in Ihrem eigenen Tempo zu erkunden und den Tag bei einem Kaffee ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel a helyiek szemszögéből élheti át a Shkodrai-tavat. Utazása Golubovciból indul, és a busz egyenesen a bájos Vranjina halászfalu szívébe viszi. A délelőtt a sziget felfedezéséről szól, a lélegzetelállító kilátótól a szűk utcákig. Egy autentikus tóparti ebéd után a busz visszaviszi Önt Golubovciba. A délután szabadon áll rendelkezésére, hogy saját tempójában fedezze fel a városközpontot, és egy kávéval zárja a napot.",
+        "ro": "Folosind transportul public, veți experimenta Lacul Skadar din perspectiva localnicilor. Călătoria dvs. începe în Golubovci și vă duce cu autobuzul direct în inima fermecătorului sat pescăresc Vranjina. Dimineața este dedicată explorării insulei, de la punctul de belvedere uluitor la străduțele înguste. După un prânz autentic pe malul lacului, autobuzul vă aduce înapoi în Golubovci. După-amiaza este la dispoziția dvs. pentru a explora centrul orașului în propriul ritm și a încheia ziua cu o cafea.",
+        "en": "Using public transport, you'll experience Skadar Lake from a local's perspective. Your journey begins in Golubovci and takes you by bus straight to the heart of the charming fishing village of Vranjina. The morning is dedicated to exploring the island, from the breathtaking viewpoint to the narrow streets. After an authentic lakeside lunch, the bus takes you back to Golubovci. The afternoon is yours to explore the town center at your own pace, ending the day with a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek vom lokalen Bäcker",
+            "tip": "Ein perfekter, schneller Snack für unterwegs. Fragen Sie nach dem mit Käse ('sa sirom')."
+          },
+          {
+            "name": "Restaurant Konoba 'Vranjina'",
+            "tip": "Bekannt für seine Fischsuppe (riblja čorba) und die entspannte Atmosphäre am Wasser."
+          },
+          {
+            "name": "Crmničko Wein",
+            "tip": "Probieren Sie den Wein aus der nahegelegenen Crmnica-Region, der perfekt zum Fisch passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek a helyi pékségből",
+            "tip": "Tökéletes, gyors harapnivaló útközben. Kérje a sajtosat ('sa sirom')."
+          },
+          {
+            "name": "Konoba 'Vranjina' étterem",
+            "tip": "Híres a halleveséről (riblja čorba) és a nyugodt vízparti hangulatáról."
+          },
+          {
+            "name": "Crmničko bor",
+            "tip": "Kóstolja meg a közeli Crmnica régió borát, amely tökéletesen illik a halhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek de la brutăria locală",
+            "tip": "O gustare perfectă și rapidă pentru drum. Cereți cel cu brânză ('sa sirom')."
+          },
+          {
+            "name": "Restaurantul Konoba 'Vranjina'",
+            "tip": "Renumit pentru ciorba de pește (riblja čorba) și atmosfera relaxantă de pe malul apei."
+          },
+          {
+            "name": "Vin Crmničko",
+            "tip": "Încercați vinul din regiunea apropiată Crmnica, care se potrivește perfect cu peștele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek from a local bakery",
+            "tip": "A perfect, quick snack for the road. Ask for the one with cheese ('sa sirom')."
+          },
+          {
+            "name": "Restaurant Konoba 'Vranjina'",
+            "tip": "Famous for its fish soup (riblja čorba) and relaxed waterside atmosphere."
+          },
+          {
+            "name": "Crmničko wine",
+            "tip": "Try the wine from the nearby Crmnica region, which pairs perfectly with fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof auf Vranjina",
+            "tip": "Ein Spaziergang durch den alten Friedhof bietet Ruhe und einen Einblick in die Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt selbst ist eine Gelegenheit, die Landschaft in Ruhe zu betrachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank am Stadtplatz von Golubovci",
+            "tip": "Beobachten Sie am späten Nachmittag das ruhige Treiben der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető Vranjinán",
+            "tip": "Séta a régi temetőben nyugalmat és betekintést nyújt a történelembe.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Maga az utazás is lehetőség a táj csendes szemlélésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad Golubovci főterén",
+            "tip": "Figyelje a város csendes nyüzsgését késő délután.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Vranjina",
+            "tip": "O plimbare prin cimitirul vechi oferă liniște și o perspectivă asupra istoriei.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Priveliștea de pe geamul autobuzului",
+            "tip": "Călătoria în sine este o oportunitate de a contempla peisajul în liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă în piața orașului Golubovci",
+            "tip": "Priviți agitația liniștită a orașului la sfârșitul după-amiezii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery on Vranjina",
+            "tip": "A walk through the old cemetery offers tranquility and a glimpse into history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The journey itself is an opportunity to contemplate the landscape in peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench in Golubovci town square",
+            "tip": "Watch the quiet hustle and bustle of the town in the late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen und Kräuter",
+            "tip": "Auf lokalen Märkten oder bei Straßenhändlern finden Sie oft diese traditionellen Produkte."
+          },
+          {
+            "name": "Souvenirs im Besucherzentrum Vranjina",
+            "tip": "Kaufen Sie eine Postkarte oder ein kleines Andenken an Ihren Besuch am Skutarisee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított füge és gyógynövények",
+            "tip": "Helyi piacokon vagy utcai árusoknál gyakran talál ilyen hagyományos termékeket."
+          },
+          {
+            "name": "Szuvenírek a Vranjina Látogatóközpontban",
+            "tip": "Vásároljon egy képeslapot vagy egy kis emléket a Shkodrai-tavi látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate și ierburi aromatice",
+            "tip": "În piețele locale sau la vânzătorii ambulanți veți găsi adesea aceste produse tradiționale."
+          },
+          {
+            "name": "Suveniruri la Centrul de Vizitatori Vranjina",
+            "tip": "Cumpărați o carte poștală sau un mic suvenir al vizitei dvs. la Lacul Skadar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried figs and herbs",
+            "tip": "You can often find these traditional products in local markets or from street vendors."
+          },
+          {
+            "name": "Souvenirs at the Vranjina Visitor Center",
+            "tip": "Buy a postcard or a small memento of your visit to Skadar Lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Haben Sie Kleingeld für das Busticket parat.",
+          "Fragen Sie den Fahrer, wo Sie für Ihr Ziel aussteigen müssen.",
+          "Seien Sie flexibel. Die Fahrpläne können sich ändern oder Busse können Verspätung haben."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a buszok nem biztos, hogy gyakran közlekednek.",
+          "Készítsen aprópénzt a buszjegyhez.",
+          "Kérdezze meg a sofőrt, hol kell leszállnia a célállomáson.",
+          "Legyen rugalmas. A menetrendek változhatnak, vagy a buszok késhetnek."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca acestea să nu circule frecvent.",
+          "Pregătiți mărunțiș pentru biletul de autobuz.",
+          "Întrebați șoferul unde să coborâți pentru destinația dvs.",
+          "Fiți flexibil. Programele se pot schimba sau autobuzele pot avea întârzieri."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as buses may not run frequently.",
+          "Have small change ready for the bus ticket.",
+          "Ask the driver where you need to get off for your destination.",
+          "Be flexible. Schedules can change or buses can be delayed."
+        ]
+      }
+    }
+  }
+}

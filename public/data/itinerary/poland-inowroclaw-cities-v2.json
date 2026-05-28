@@ -1,0 +1,1324 @@
+{
+  "city_id": "poland-inowroclaw-cities-v2",
+  "anchor": {
+    "name": "Hohensalza",
+    "coords": [
+      18.2611,
+      52.7981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.259,
+            52.7965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Treiben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând agitația orașului.",
+            "en": "Start your day here with a coffee and watch the town come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolauskirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            18.2575,
+            52.7955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur, eine der ältesten in der Region.",
+            "hu": "Csodálja meg a román stílusú építészetet, az egyik legrégebbit a régióban.",
+            "ro": "Admirați arhitectura romanică, una dintre cele mai vechi din regiune.",
+            "en": "Admire the Romanesque architecture, one of the oldest in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Kasprowicz-Museum",
+            "hu": "Jan Kasprowicz Múzeum",
+            "ro": "Muzeul Jan Kasprowicz",
+            "en": "Jan Kasprowicz Museum"
+          },
+          "coords": [
+            18.256,
+            52.797
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben des berühmten lokalen Dichters und Schriftstellers.",
+            "hu": "Ismerje meg a híres helyi költő és író életét.",
+            "ro": "Aflați mai multe despre viața celebrului poet și scriitor local.",
+            "en": "Learn about the life of the famous local poet and writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche (Die Ruine)",
+            "hu": "Mária-templom (A rom)",
+            "ro": "Biserica Sf. Maria (Ruina)",
+            "en": "St. Mary's Church (The Ruin)"
+          },
+          "coords": [
+            18.2545,
+            52.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die gotischen Ruinen schaffen eine einzigartige, nachdenkliche Atmosphäre.",
+            "hu": "A gótikus romok egyedi, elgondolkodtató hangulatot teremtenek.",
+            "ro": "Ruinele gotice creează o atmosferă unică, reflexivă.",
+            "en": "The Gothic ruins create a unique, contemplative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Solankowy-Park (Kurpark)",
+            "hu": "Solankowy Park (Gyógyfürdőpark)",
+            "ro": "Parcul Solankowy (Parcul balnear)",
+            "en": "Solankowy Park (Spa Park)"
+          },
+          "coords": [
+            18.268,
+            52.801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen im Freien oder einen entspannten Spaziergang.",
+            "hu": "Ideális hely egy szabadtéri ebédhez vagy egy pihentető sétához.",
+            "ro": "Un loc ideal pentru un prânz în aer liber sau o plimbare relaxantă.",
+            "en": "An ideal spot for an open-air lunch or a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradierwerk (Tężnia Solankowa)",
+            "hu": "Sólepárló torony (Tężnia Solankowa)",
+            "ro": "Turnul de gradare a sării (Tężnia Solankowa)",
+            "en": "Graduation Tower (Tężnia Solankowa)"
+          },
+          "coords": [
+            18.272,
+            52.804
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die salzhaltige Luft tief ein, sie ist bekannt für ihre gesundheitlichen Vorteile.",
+            "hu": "Lélegezze be mélyen a sós levegőt, amely jótékony egészségügyi hatásairól ismert.",
+            "ro": "Respirați adânc aerul sărat, cunoscut pentru beneficiile sale pentru sănătate.",
+            "en": "Breathe in the salty air deeply; it's known for its health benefits."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómúzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            18.274,
+            52.802
+          ],
+          "category": "museums",
+          "arrive_at": "16:02",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleines, aber faszinierendes Museum, das die Geschichte des lokalen Salzabbaus zeigt.",
+            "hu": "Kicsi, de lenyűgöző múzeum a helyi sóbányászat történetéről.",
+            "ro": "Un muzeu mic, dar fascinant, care prezintă istoria mineritului de sare local.",
+            "en": "A small but fascinating museum showcasing the history of local salt mining."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hohensalza beginnt am lebhaften Marktplatz, dem Herzen der Altstadt. Von hier aus führt Sie ein Spaziergang zu den historischen Kirchen St. Nikolaus und der gotischen Marienruine, die von der reichen Vergangenheit der Stadt zeugen. Am Mittag tauchen Sie im Jan-Kasprowicz-Museum in die lokale Kultur ein. Der Nachmittag ist der Erholung im berühmten Kurpark gewidmet. Atmen Sie die heilende Luft am Gradierwerk ein und entdecken Sie die Geschichte des „weißen Goldes“ im Salzmuseum. Der Abend klingt entspannt im Grünen aus, eine perfekte Abrundung eines Tages voller Entdeckungen.",
+        "hu": "Hohensalzai napja a nyüzsgő Piactéren, az óváros szívében kezdődik. Innen egy séta elvezeti a történelmi Szent Miklós-templomhoz és a gótikus Mária-templom romjaihoz, melyek a város gazdag múltjáról tanúskodnak. Délben a Jan Kasprowicz Múzeumban merülhet el a helyi kultúrában. A délután a híres Gyógyfürdőparkban a pihenésé. Lélegezze be a gyógyító levegőt a sólepárló toronynál, és fedezze fel a „fehér arany” történetét a Sómúzeumban. Az este a zöldben, pihentetően zárul, tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Ziua dvs. în Hohensalza începe în Piața Centrală plină de viață, inima orașului vechi. De aici, o plimbare vă va duce la bisericile istorice Sf. Nicolae și ruinele gotice ale Bisericii Sf. Maria, care mărturisesc trecutul bogat al orașului. La prânz, vă veți cufunda în cultura locală la Muzeul Jan Kasprowicz. După-amiaza este dedicată relaxării în faimosul Parc Balnear. Respirați aerul vindecător la turnul de gradare a sării și descoperiți istoria „aurului alb” la Muzeul Sării. Seara se încheie relaxant în natură, o concluzie perfectă pentru o zi plină de descoperiri.",
+        "en": "Your day in Hohensalza begins at the lively Market Square, the heart of the old town. From here, a walk takes you to the historic St. Nicholas Church and the Gothic ruins of St. Mary's, testifying to the city's rich past. At midday, immerse yourself in local culture at the Jan Kasprowicz Museum. The afternoon is dedicated to relaxation in the famous Spa Park. Breathe in the healing air at the graduation tower and discover the history of the \"white gold\" at the Salt Museum. The evening ends relaxingly in the green, a perfect conclusion to a day full of discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kujawische Gänsebraten",
+            "tip": "Ein traditionelles Gericht der Region, besonders im Herbst. Suchen Sie nach Restaurants, die lokale Küche anbieten."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die mit Fleisch, Kohl oder Käse gefüllten Teigtaschen in einer der vielen „Pierogarnias“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kujáviai libasült",
+            "tip": "A régió hagyományos étele, különösen ősszel. Keressen helyi konyhát kínáló éttermeket."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hússal, káposztával vagy túróval töltött derelyét az egyik „Pierogarnia”-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâscă prăjită cujaviană",
+            "tip": "Un fel de mâncare tradițional din regiune, popular în special toamna. Căutați restaurante care servesc bucătărie locală."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute cu carne, varză sau brânză la una dintre numeroasele „Pierogarnias”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuyavian Roast Goose",
+            "tip": "A traditional dish of the region, especially popular in autumn. Look for restaurants serving local cuisine."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the dumplings filled with meat, cabbage, or cheese at one of the many 'Pierogarnias'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees Noteć",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, etwas abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Bereich des Kurparks",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Noteć-tó partja",
+            "tip": "Egy csendes séta a folyó mentén, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gyógyfürdőpark belső részei",
+            "tip": "Keressen egy félreeső padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Noteć",
+            "tip": "O plimbare liniștită de-a lungul râului, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zonele interioare ale Parcului Balnear",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Noteć",
+            "tip": "A quiet walk along the river, away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner areas of the Spa Park",
+            "tip": "Find a secluded bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Steinsalz",
+            "tip": "Ein authentisches Souvenir aus den Souvenirläden in der Nähe des Gradierwerks."
+          },
+          {
+            "name": "Handwerk vom Marktplatz",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokales Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kősó",
+            "tip": "Autentikus ajándéktárgy a sólepárló torony melletti ajándékboltokból."
+          },
+          {
+            "name": "Kézműves termékek a Piactérről",
+            "tip": "Keresse a helyi kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare gemă locală",
+            "tip": "Un suvenir autentic din magazinele de suveniruri de lângă turnul de gradare."
+          },
+          {
+            "name": "Artizanat din Piața Centrală",
+            "tip": "Căutați tarabe care vând produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Rock Salt",
+            "tip": "An authentic souvenir from the gift shops near the graduation tower."
+          },
+          {
+            "name": "Crafts from the Market Square",
+            "tip": "Look for stalls selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster und Parkwegen unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön és parki utakon fog sétálni.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavaj și alei de parc toată ziua.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking on cobblestones and park paths all day.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Check museum opening hours in advance as they may vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            18.259,
+            52.7965
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
+            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolauskirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            18.2575,
+            52.7955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um dieses romanische Juwel zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt a román kori ékszert.",
+            "ro": "O oprire scurtă pentru a admira această bijuterie romanică.",
+            "en": "A quick stop to admire this Romanesque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Kasprowicz-Museum",
+            "hu": "Jan Kasprowicz Múzeum",
+            "ro": "Muzeul Jan Kasprowicz",
+            "en": "Jan Kasprowicz Museum"
+          },
+          "coords": [
+            18.256,
+            52.797
+          ],
+          "category": "museums",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad in der Nähe und tauchen Sie in die Poesie ein.",
+            "hu": "Parkolja le a kerékpárt a közelben, és merüljön el a költészetben.",
+            "ro": "Parcați bicicleta în apropiere și cufundați-vă în poezie.",
+            "en": "Park your bike nearby and dive into the poetry."
+          }
+        },
+        {
+          "name": {
+            "de": "Solankowy-Park (Kurpark)",
+            "hu": "Solankowy Park (Gyógyfürdőpark)",
+            "ro": "Parcul Solankowy (Parcul balnear)",
+            "en": "Solankowy Park (Spa Park)"
+          },
+          "coords": [
+            18.268,
+            52.801
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Park hat ausgezeichnete Radwege. Genießen Sie eine gemütliche Fahrt.",
+            "hu": "A parkban kiváló kerékpárutak vannak. Élvezze a kényelmes tekerést.",
+            "ro": "Parcul are piste de biciclete excelente. Bucurați-vă de o plimbare relaxantă.",
+            "en": "The park has excellent bike paths. Enjoy a leisurely ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradierwerk (Tężnia Solankowa)",
+            "hu": "Sólepárló torony (Tężnia Solankowa)",
+            "ro": "Turnul de gradare a sării (Tężnia Solankowa)",
+            "en": "Graduation Tower (Tężnia Solankowa)"
+          },
+          "coords": [
+            18.272,
+            52.804
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie um die Anlage, um die salzige Luft einzuatmen.",
+            "hu": "Tegye le a kerékpárt, és sétáljon körbe a létesítmény körül, hogy belélegezze a sós levegőt.",
+            "ro": "Lăsați bicicleta și plimbați-vă în jurul structurii pentru a respira aerul sărat.",
+            "en": "Park your bike and walk around the structure to inhale the salty air."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Jan Kasprowicz",
+            "hu": "Jan Kasprowicz emlékműve",
+            "ro": "Monumentul lui Jan Kasprowicz",
+            "en": "Monument to Jan Kasprowicz"
+          },
+          "coords": [
+            18.265,
+            52.799
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp auf dem Rückweg ins Zentrum, um dem Dichter zu huldigen.",
+            "hu": "Egy rövid fotómegálló a központ felé vezető úton, hogy tisztelegjen a költő előtt.",
+            "ro": "O oprire rapidă pentru fotografii în drum spre centru pentru a aduce un omagiu poetului.",
+            "en": "A quick photo stop on your way back to the center to pay homage to the poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche (Die Ruine)",
+            "hu": "Mária-templom (A rom)",
+            "ro": "Biserica Sf. Maria (Ruina)",
+            "en": "St. Mary's Church (The Ruin)"
+          },
+          "coords": [
+            18.2545,
+            52.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:34",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ruine am späten Nachmittag für eine besonders stimmungsvolle Beleuchtung.",
+            "hu": "Látogasson el a romokhoz késő délután a különösen hangulatos megvilágításért.",
+            "ro": "Vizitați ruina după-amiaza târziu pentru o lumină deosebit de atmosferică.",
+            "en": "Visit the ruin in the late afternoon for particularly atmospheric lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Radtour durch Hohensalza. Starten Sie am Marktplatz, bevor Sie zu den alten Kirchen der Stadt radeln. Eine längere Pause im Jan-Kasprowicz-Museum bietet kulturelle Einblicke. Mittags erreichen Sie den weitläufigen Kurpark, ideal für eine Radtour und ein Picknick. Die Hauptattraktion, das Gradierwerk, ist nur eine kurze Fahrt entfernt. Am Nachmittag radeln Sie zurück ins Zentrum, vorbei am Denkmal des Dichters, und beenden den Tag bei den stimmungsvollen Ruinen der Marienkirche.",
+        "hu": "Pattanjon nyeregbe egy hohensalzai biciklitúrához. Induljon a Piactérről, mielőtt a város régi templomaihoz teker. Egy hosszabb pihenő a Jan Kasprowicz Múzeumban kulturális betekintést nyújt. Délben eléri a tágas Gyógyfürdőparkot, amely ideális egy kerékpártúrához és piknikhez. A fő látványosság, a sólepárló torony, csak egy rövid út. Délután visszateker a központba, elhaladva a költő emlékműve mellett, és a napot a Mária-templom hangulatos romjainál fejezi be.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Hohensalza. Începeți din Piața Centrală înainte de a pedala spre bisericile vechi ale orașului. O pauză mai lungă la Muzeul Jan Kasprowicz oferă perspective culturale. La prânz, ajungeți în vastul Parc Balnear, ideal pentru o plimbare cu bicicleta și un picnic. Atracția principală, turnul de gradare, este la o scurtă distanță. După-amiaza, pedalați înapoi spre centru, trecând pe lângă monumentul poetului, și încheiați ziua la ruinele atmosferice ale Bisericii Sf. Maria.",
+        "en": "Hop on your bike for a cycling tour of Hohensalza. Start at the Market Square before cycling to the city's old churches. A longer break at the Jan Kasprowicz Museum offers cultural insights. At noon, you'll reach the spacious Spa Park, ideal for a bike ride and a picnic. The main attraction, the graduation tower, is just a short ride away. In the afternoon, cycle back to the center, passing the poet's monument, and end the day at the atmospheric ruins of St. Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kujawische Gänsebraten",
+            "tip": "Ein traditionelles Gericht der Region, besonders im Herbst. Suchen Sie nach Restaurants, die lokale Küche anbieten."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die mit Fleisch, Kohl oder Käse gefüllten Teigtaschen in einer der vielen „Pierogarnias“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kujáviai libasült",
+            "tip": "A régió hagyományos étele, különösen ősszel. Keressen helyi konyhát kínáló éttermeket."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hússal, káposztával vagy túróval töltött derelyét az egyik „Pierogarnia”-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâscă prăjită cujaviană",
+            "tip": "Un fel de mâncare tradițional din regiune, popular în special toamna. Căutați restaurante care servesc bucătărie locală."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute cu carne, varză sau brânză la una dintre numeroasele „Pierogarnias”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuyavian Roast Goose",
+            "tip": "A traditional dish of the region, especially popular in autumn. Look for restaurants serving local cuisine."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the dumplings filled with meat, cabbage, or cheese at one of the many 'Pierogarnias'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees Noteć",
+            "tip": "Eine ruhige Radtour entlang des Flusses, etwas abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Bereich des Kurparks",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Noteć-tó partja",
+            "tip": "Egy csendes biciklitúra a folyó mentén, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gyógyfürdőpark belső részei",
+            "tip": "Keressen egy félreeső padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Noteć",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul râului, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zonele interioare ale Parcului Balnear",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Noteć",
+            "tip": "A quiet bike ride along the river, away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner areas of the Spa Park",
+            "tip": "Find a secluded bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Steinsalz",
+            "tip": "Ein authentisches Souvenir aus den Souvenirläden in der Nähe des Gradierwerks."
+          },
+          {
+            "name": "Handwerk vom Marktplatz",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokales Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kősó",
+            "tip": "Autentikus ajándéktárgy a sólepárló torony melletti ajándékboltokból."
+          },
+          {
+            "name": "Kézműves termékek a Piactérről",
+            "tip": "Keresse a helyi kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare gemă locală",
+            "tip": "Un suvenir autentic din magazinele de suveniruri de lângă turnul de gradare."
+          },
+          {
+            "name": "Artizanat din Piața Centrală",
+            "tip": "Căutați tarabe care vând produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Rock Salt",
+            "tip": "An authentic souvenir from the gift shops near the graduation tower."
+          },
+          {
+            "name": "Crafts from the Market Square",
+            "tip": "Look for stalls selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Fahrradschloss mit.",
+          "Nutzen Sie die Radwege im Kurpark für eine sichere und angenehme Fahrt.",
+          "Ein kleiner Rucksack ist nützlich für Wasser und Souvenirs."
+        ],
+        "hu": [
+          "Hozzon magával egy jó kerékpárzárat.",
+          "Használja a Gyógyfürdőpark kerékpárútjait a biztonságos és kellemes utazáshoz.",
+          "Egy kis hátizsák hasznos a víznek és az ajándéktárgyaknak."
+        ],
+        "ro": [
+          "Aduceți un antifurt bun pentru bicicletă.",
+          "Folosiți pistele de biciclete din Parcul Balnear pentru o plimbare sigură și plăcută.",
+          "Un rucsac mic este util pentru apă și suveniruri."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "Use the bike paths in the Spa Park for a safe and enjoyable ride.",
+          "A small backpack is useful for water and souvenirs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            18.258,
+            52.795
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag, um das historische Zentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon le délelőttre, és fedezze fel gyalog a történelmi központot.",
+            "ro": "Parcați aici pentru dimineață pentru a explora centrul istoric pe jos.",
+            "en": "Park here for the morning to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Nikolauskirche",
+            "hu": "Piactér és Szent Miklós-templom",
+            "ro": "Piața Centrală și Biserica Sf. Nicolae",
+            "en": "Market Square & St. Nicholas Church"
+          },
+          "coords": [
+            18.2585,
+            52.796
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:19",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser erste Cluster umfasst das Herz der Altstadt.",
+            "hu": "Ez az első klaszter magában foglalja az óváros szívét.",
+            "ro": "Acest prim grup include inima orașului vechi.",
+            "en": "This first cluster covers the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Kasprowicz-Museum & Marienkirche",
+            "hu": "Jan Kasprowicz Múzeum és Mária-templom",
+            "ro": "Muzeul Jan Kasprowicz și Biserica Sf. Maria",
+            "en": "Jan Kasprowicz Museum & St. Mary's Church"
+          },
+          "coords": [
+            18.255,
+            52.7975
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bringt Sie zu diesen beiden kulturellen Höhepunkten.",
+            "hu": "Egy rövid séta elvezeti ehhez a két kulturális látnivalóhoz.",
+            "ro": "O scurtă plimbare vă duce la aceste două atracții culturale.",
+            "en": "A short walk takes you to these two cultural highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Kurpark",
+            "hu": "Parkoló a Gyógyfürdőparknál",
+            "ro": "Parcare la Parcul Balnear",
+            "en": "Spa Park Parking"
+          },
+          "coords": [
+            18.267,
+            52.8
+          ],
+          "category": "transport",
+          "arrive_at": "12:35",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Hier können Sie für den Rest des Tages parken.",
+            "hu": "Vezessen a második klaszterhez. Itt parkolhat a nap hátralévő részére.",
+            "ro": "Conduceți la al doilea grup. Puteți parca aici pentru restul zilei.",
+            "en": "Drive to the second cluster. You can park here for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Solankowy-Park & Gradierwerk",
+            "hu": "Solankowy Park és Sólepárló torony",
+            "ro": "Parcul Solankowy și Turnul de gradare",
+            "en": "Solankowy Park & Graduation Tower"
+          },
+          "coords": [
+            18.27,
+            52.802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen langen Spaziergang und die heilende Luft dieses Bereichs.",
+            "hu": "Élvezze a hosszú sétát és a gyógyító levegőt ezen a területen.",
+            "ro": "Bucurați-vă de o plimbare lungă și de aerul vindecător din această zonă.",
+            "en": "Enjoy a long walk and the healing air of this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómúzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            18.274,
+            52.802
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang vom Gradierwerk entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a sólepárló toronytól.",
+            "ro": "Muzeul se află la o scurtă plimbare de turnul de gradare.",
+            "en": "The museum is just a short walk from the graduation tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Hohensalza in zwei Clustern. Parken Sie zuerst im Zentrum und entdecken Sie zu Fuß den historischen Kern mit dem Marktplatz und den alten Kirchen. Ein kurzer Spaziergang führt Sie weiter zum Museum und den gotischen Ruinen. Am Mittag fahren Sie zum Kurpark-Cluster. Parken Sie dort und verbringen Sie den Nachmittag im Grünen. Erleben Sie das berühmte Gradierwerk, spazieren Sie durch den Park und lernen Sie im Salzmuseum alles über die lokale Salzgeschichte. Diese Aufteilung maximiert Ihr Erlebnis und minimiert die Parkplatzsuche.",
+        "hu": "Autóval két klaszterben fedezheti fel Hohensalzát. Először parkoljon a központban, és gyalogosan fedezze fel a történelmi magot a Piactérrel és a régi templomokkal. Egy rövid séta elvezeti a múzeumhoz és a gótikus romokhoz. Délben hajtson át a Gyógyfürdőpark-klaszterhez. Parkoljon le, és töltse a délutánt a zöldben. Tapasztalja meg a híres sólepárló tornyot, sétáljon a parkban, és ismerje meg a helyi sótörténetet a Sómúzeumban. Ez a felosztás maximalizálja az élményt és minimalizálja a parkolóhely-keresést.",
+        "ro": "Cu mașina, explorați Hohensalza în două grupuri. Mai întâi, parcați în centru și explorați pe jos nucleul istoric cu Piața Centrală și bisericile vechi. O scurtă plimbare vă duce mai departe la muzeu și la ruinele gotice. La prânz, conduceți spre grupul Parcului Balnear. Parcați acolo și petreceți după-amiaza în natură. Experimentați faimosul turn de gradare, plimbați-vă prin parc și învățați totul despre istoria locală a sării la Muzeul Sării. Această împărțire maximizează experiența și minimizează căutarea unui loc de parcare.",
+        "en": "Explore Hohensalza by car in two clusters. First, park in the center and discover the historic core on foot, with the Market Square and old churches. A short walk takes you further to the museum and the Gothic ruins. At midday, drive to the Spa Park cluster. Park there and spend the afternoon in the green. Experience the famous graduation tower, stroll through the park, and learn all about local salt history at the Salt Museum. This division maximizes your experience and minimizes parking searches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kujawische Gänsebraten",
+            "tip": "Ein traditionelles Gericht der Region, besonders im Herbst. Suchen Sie nach Restaurants, die lokale Küche anbieten."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die mit Fleisch, Kohl oder Käse gefüllten Teigtaschen in einer der vielen „Pierogarnias“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kujáviai libasült",
+            "tip": "A régió hagyományos étele, különösen ősszel. Keressen helyi konyhát kínáló éttermeket."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hússal, káposztával vagy túróval töltött derelyét az egyik „Pierogarnia”-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâscă prăjită cujaviană",
+            "tip": "Un fel de mâncare tradițional din regiune, popular în special toamna. Căutați restaurante care servesc bucătărie locală."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute cu carne, varză sau brânză la una dintre numeroasele „Pierogarnias”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuyavian Roast Goose",
+            "tip": "A traditional dish of the region, especially popular in autumn. Look for restaurants serving local cuisine."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the dumplings filled with meat, cabbage, or cheese at one of the many 'Pierogarnias'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees Noteć",
+            "tip": "Mit dem Auto leicht erreichbar für einen ruhigen Moment am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Bereich des Kurparks",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Noteć-tó partja",
+            "tip": "Autóval könnyen megközelíthető egy csendes pillanatért a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gyógyfürdőpark belső részei",
+            "tip": "Keressen egy félreeső padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Noteć",
+            "tip": "Ușor accesibil cu mașina pentru un moment de liniște lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zonele interioare ale Parcului Balnear",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Noteć",
+            "tip": "Easily accessible by car for a quiet moment by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner areas of the Spa Park",
+            "tip": "Find a secluded bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Steinsalz",
+            "tip": "Ein authentisches Souvenir aus den Souvenirläden in der Nähe des Gradierwerks."
+          },
+          {
+            "name": "Handwerk vom Marktplatz",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokales Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kősó",
+            "tip": "Autentikus ajándéktárgy a sólepárló torony melletti ajándékboltokból."
+          },
+          {
+            "name": "Kézműves termékek a Piactérről",
+            "tip": "Keresse a helyi kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare gemă locală",
+            "tip": "Un suvenir autentic din magazinele de suveniruri de lângă turnul de gradare."
+          },
+          {
+            "name": "Artizanat din Piața Centrală",
+            "tip": "Căutați tarabe care vând produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Rock Salt",
+            "tip": "An authentic souvenir from the gift shops near the graduation tower."
+          },
+          {
+            "name": "Crafts from the Market Square",
+            "tip": "Look for stalls selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ausgewiesene Parkplätze. Das Parken im Zentrum kann eingeschränkt sein.",
+          "Planen Sie Ihre Route zwischen den beiden Clustern im Voraus.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch Orte etwas außerhalb der Stadt zu besuchen."
+        ],
+        "hu": [
+          "Használja a kijelölt parkolókat. A központi parkolás korlátozott lehet.",
+          "Tervezze meg előre az útvonalat a két klaszter között.",
+          "Az autó rugalmasságot ad, hogy a városon kívüli helyeket is meglátogassa."
+        ],
+        "ro": [
+          "Folosiți parcările desemnate. Parcarea în centru poate fi restricționată.",
+          "Planificați-vă ruta între cele două grupuri în avans.",
+          "O mașină vă oferă flexibilitatea de a vizita și locuri din afara orașului."
+        ],
+        "en": [
+          "Use designated parking areas. Parking in the center can be restricted.",
+          "Plan your route between the two clusters in advance.",
+          "A car gives you the flexibility to visit places just outside the city as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Rynek)",
+            "hu": "Központi buszmegálló (Rynek)",
+            "ro": "Stație centrală de autobuz (Rynek)",
+            "en": "Central Bus Stop (Rynek)"
+          },
+          "coords": [
+            18.2595,
+            52.797
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Das historische Zentrum ist nur wenige Schritte entfernt.",
+            "hu": "Itt kezdjen. A történelmi központ csak pár lépésre van.",
+            "ro": "Începeți de aici. Centrul istoric este la doar câțiva pași.",
+            "en": "Start here. The historic center is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Nikolauskirche",
+            "hu": "Piactér és Szent Miklós-templom",
+            "ro": "Piața Centrală și Biserica Sf. Nicolae",
+            "en": "Market Square & St. Nicholas Church"
+          },
+          "coords": [
+            18.2585,
+            52.796
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:19",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Fedezze fel az első klasztert gyalog.",
+            "ro": "Explorați primul grup pe jos.",
+            "en": "Explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan-Kasprowicz-Museum",
+            "hu": "Jan Kasprowicz Múzeum",
+            "ro": "Muzeul Jan Kasprowicz",
+            "en": "Jan Kasprowicz Museum"
+          },
+          "coords": [
+            18.256,
+            52.797
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kultureller Höhepunkt, leicht zu Fuß vom Marktplatz aus erreichbar.",
+            "hu": "Kulturális fénypont, gyalog könnyen elérhető a Piactérről.",
+            "ro": "Un punct culminant cultural, ușor accesibil pe jos din Piața Centrală.",
+            "en": "A cultural highlight, easily reachable on foot from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Kurpark",
+            "hu": "Buszmegálló a Gyógyfürdőparknál",
+            "ro": "Stație de autobuz la Parcul Balnear",
+            "en": "Bus Stop at the Spa Park"
+          },
+          "coords": [
+            18.2675,
+            52.8005
+          ],
+          "category": "transport",
+          "arrive_at": "12:25",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Fahrt ist kurz.",
+            "hu": "Menjen busszal a második klaszterhez. Az út rövid.",
+            "ro": "Luați un autobuz spre al doilea grup. Călătoria este scurtă.",
+            "en": "Take a bus to the second cluster. The ride is short."
+          }
+        },
+        {
+          "name": {
+            "de": "Solankowy-Park & Gradierwerk",
+            "hu": "Solankowy Park és Sólepárló torony",
+            "ro": "Parcul Solankowy și Turnul de gradare",
+            "en": "Solankowy Park & Graduation Tower"
+          },
+          "coords": [
+            18.27,
+            52.802
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:38",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Von der Haltestelle aus können Sie den gesamten Parkbereich erkunden.",
+            "hu": "A megállótól az egész park területét felfedezheti.",
+            "ro": "De la stație puteți explora întreaga zonă a parcului.",
+            "en": "From the bus stop, you can explore the entire park area."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Sómúzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            18.274,
+            52.802
+          ],
+          "category": "museums",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Park führt Sie zum letzten Halt des Tages.",
+            "hu": "Egy rövid séta a parkon keresztül elvezeti a nap utolsó állomásához.",
+            "ro": "O scurtă plimbare prin parc vă duce la ultima oprire a zilei.",
+            "en": "A short walk through the park takes you to the last stop of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln ist Hohensalza leicht zu erkunden. Beginnen Sie Ihren Tag im historischen Zentrum, das Sie von der zentralen Bushaltestelle aus zu Fuß erreichen. Entdecken Sie den Marktplatz, Kirchen und Museen. Zur Mittagszeit bringt Sie ein kurzer Bus-Hop zum Kurpark. Verbringen Sie den Nachmittag damit, den Park, das Gradierwerk und das Salzmuseum zu erkunden, alles bequem zu Fuß erreichbar. Diese Methode ist effizient, umweltfreundlich und lässt Sie die Stadt wie ein Einheimischer erleben.",
+        "hu": "Tömegközlekedéssel Hohensalza könnyen felfedezhető. Kezdje a napot a történelmi központban, amely a központi buszmegállótól gyalogosan elérhető. Fedezze fel a Piacteret, a templomokat és a múzeumokat. Délidőben egy rövid buszozás elviszi a Gyógyfürdőparkba. Töltse a délutánt a park, a sólepárló torony és a Sómúzeum felfedezésével, mindegyik kényelmesen gyalogosan elérhető. Ez a módszer hatékony, környezetbarát, és lehetővé teszi, hogy úgy élje át a várost, mint egy helyi.",
+        "ro": "Hohensalza este ușor de explorat cu transportul public. Începeți ziua în centrul istoric, accesibil pe jos de la stația centrală de autobuz. Descoperiți Piața Centrală, bisericile și muzeele. La prânz, o scurtă călătorie cu autobuzul vă va duce la Parcul Balnear. Petreceți după-amiaza explorând parcul, turnul de gradare și Muzeul Sării, toate accesibile confortabil pe jos. Această metodă este eficientă, ecologică și vă permite să experimentați orașul ca un localnic.",
+        "en": "Hohensalza is easy to explore using public transport. Start your day in the historic center, reachable on foot from the central bus stop. Discover the Market Square, churches, and museums. At midday, a short bus hop will take you to the Spa Park. Spend the afternoon exploring the park, the graduation tower, and the Salt Museum, all comfortably within walking distance. This method is efficient, eco-friendly, and lets you experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kujawische Gänsebraten",
+            "tip": "Ein traditionelles Gericht der Region, besonders im Herbst. Suchen Sie nach Restaurants, die lokale Küche anbieten."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die mit Fleisch, Kohl oder Käse gefüllten Teigtaschen in einer der vielen „Pierogarnias“."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kujáviai libasült",
+            "tip": "A régió hagyományos étele, különösen ősszel. Keressen helyi konyhát kínáló éttermeket."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hússal, káposztával vagy túróval töltött derelyét az egyik „Pierogarnia”-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâscă prăjită cujaviană",
+            "tip": "Un fel de mâncare tradițional din regiune, popular în special toamna. Căutați restaurante care servesc bucătărie locală."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute cu carne, varză sau brânză la una dintre numeroasele „Pierogarnias”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuyavian Roast Goose",
+            "tip": "A traditional dish of the region, especially popular in autumn. Look for restaurants serving local cuisine."
+          },
+          {
+            "name": "Pierogi",
+            "tip": "Try the dumplings filled with meat, cabbage, or cheese at one of the many 'Pierogarnias'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees Noteć",
+            "tip": "Möglicherweise mit einem Bus erreichbar, der aus dem Zentrum herausfährt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Bereich des Kurparks",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Noteć-tó partja",
+            "tip": "Elérhető lehet egy, a központból induló busszal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gyógyfürdőpark belső részei",
+            "tip": "Keressen egy félreeső padot, és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Noteć",
+            "tip": "Posibil accesibil cu un autobuz care pleacă din centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zonele interioare ale Parcului Balnear",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Lake Noteć",
+            "tip": "Possibly reachable by a bus heading out of the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner areas of the Spa Park",
+            "tip": "Find a secluded bench and listen to the sounds of nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Steinsalz",
+            "tip": "Ein authentisches Souvenir aus den Souvenirläden in der Nähe des Gradierwerks."
+          },
+          {
+            "name": "Handwerk vom Marktplatz",
+            "tip": "Halten Sie Ausschau nach Ständen, die lokales Kunsthandwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kősó",
+            "tip": "Autentikus ajándéktárgy a sólepárló torony melletti ajándékboltokból."
+          },
+          {
+            "name": "Kézműves termékek a Piactérről",
+            "tip": "Keresse a helyi kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare gemă locală",
+            "tip": "Un suvenir autentic din magazinele de suveniruri de lângă turnul de gradare."
+          },
+          {
+            "name": "Artizanat din Piața Centrală",
+            "tip": "Căutați tarabe care vând produse de artizanat locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Rock Salt",
+            "tip": "An authentic souvenir from the gift shops near the graduation tower."
+          },
+          {
+            "name": "Crafts from the Market Square",
+            "tip": "Look for stalls selling local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Kosten zu sparen.",
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Beachten Sie, dass Busse am Wochenende seltener fahren können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a költségek megtakarítása érdekében.",
+          "Előre tájékozódjon a buszjáratokról és a menetrendekről.",
+          "Vegye figyelembe, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați în avans rutele și orarele autobuzelor.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save on costs.",
+          "Check bus routes and schedules in advance.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1247 @@
+{
+  "city_id": "szombathely",
+  "anchor": {
+    "name": "Hauptplatz (Fő tér)",
+    "coords": [
+      16.6217,
+      47.2306
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.6215,
+            47.2308
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Dreifaltigkeitsbrunnen und die barocke Architektur.",
+            "hu": "Csodálja meg a Szentháromság-szobrot és a barokk építészetet.",
+            "ro": "Admirați Fântâna Sfintei Treimi și arhitectura barocă.",
+            "en": "Admire the Holy Trinity fountain and the baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinengarten",
+            "hu": "Romkert",
+            "ro": "Grădina cu ruine",
+            "en": "Ruin Garden"
+          },
+          "coords": [
+            16.6195,
+            47.2301
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der antiken römischen Stadt Savaria.",
+            "hu": "Fedezze fel az ókori római város, Savaria maradványait.",
+            "ro": "Descoperiți vestigiile orașului roman antic Savaria.",
+            "en": "Explore the remains of the ancient Roman city of Savaria."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Szombathely",
+            "hu": "Szombathelyi Székesegyház",
+            "ro": "Catedrala din Szombathely",
+            "en": "Cathedral of Szombathely"
+          },
+          "coords": [
+            16.6188,
+            47.2315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken von Maulbertsch.",
+            "hu": "Figyelje meg Maulbertsch lenyűgöző mennyezeti freskóit.",
+            "ro": "Observați frescele impresionante de pe tavan, pictate de Maulbertsch.",
+            "en": "Look for the impressive ceiling frescoes by Maulbertsch."
+          }
+        },
+        {
+          "name": {
+            "de": "Iseum Savariense",
+            "hu": "Iseum Savariense",
+            "ro": "Iseum Savariense",
+            "en": "Iseum Savariense"
+          },
+          "coords": [
+            16.6155,
+            47.232
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein einzigartiges rekonstruiertes Heiligtum, das der Göttin Isis gewidmet ist.",
+            "hu": "Egyedülálló, rekonstruált szentély, amelyet Ízisz istennőnek szenteltek.",
+            "ro": "Un sanctuar unic, reconstruit, dedicat zeiței Isis.",
+            "en": "A unique reconstructed sanctuary dedicated to the goddess Isis."
+          }
+        },
+        {
+          "name": {
+            "de": "Savaria-Museum",
+            "hu": "Savaria Múzeum",
+            "ro": "Muzeul Savaria",
+            "en": "Savaria Museum"
+          },
+          "coords": [
+            16.623,
+            47.2345
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte und Archäologie der Region.",
+            "hu": "Ismerje meg a régió gazdag történelmét és régészetét.",
+            "ro": "Aflați mai multe despre istoria bogată și arheologia regiunii.",
+            "en": "Learn about the rich history and archaeology of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul pentru bărci",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            16.629,
+            47.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am späten Nachmittag.",
+            "hu": "Tökéletes hely egy kellemes, késő délutáni sétához.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "A perfect spot for a relaxing late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Szombathely, am barocken Hauptplatz. Spüren Sie die 2000-jährige Geschichte im nahen Ruinengarten, wo die Überreste des römischen Savaria auf Sie warten. Die Kathedrale, ein Meisterwerk des Spätbarocks, bietet spirituelle und künstlerische Einkehr, bevor Sie im Iseum in die mystische Welt Ägyptens eintauchen. Nach dem Mittagessen vertiefen Sie sich im Savaria-Museum in die regionale Geschichte. Schließen Sie den Tag mit einem entspannten Spaziergang am malerischen Bootsteich ab, ein perfekter Ausklang für einen Tag voller Entdeckungen.",
+        "hu": "Kezdje a napot Szombathely szívében, a barokk Fő téren. Érezze a 2000 éves történelmet a közeli Romkertben, ahol a római Savaria maradványai várják. A Katedrális, egy késő barokk remekmű, spirituális és művészeti elmélyülést kínál, mielőtt az Iseumban elmerülne Egyiptom misztikus világában. Ebéd után a Savaria Múzeumban mélyedjen el a regionális történelemben. Zárja a napot egy pihentető sétával a festői Csónakázó-tónál, ami tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Începeți ziua în inima orașului Szombathely, în Piața Principală barocă. Simțiți istoria de 2000 de ani în Grădina cu ruine din apropiere, unde vă așteaptă vestigiile Savariei romane. Catedrala, o capodoperă a barocului târziu, oferă reculegere spirituală și artistică înainte de a vă cufunda în lumea mistică a Egiptului la Iseum. După prânz, aprofundați istoria regională la Muzeul Savaria. Încheiați ziua cu o plimbare relaxantă pe malul pitorescului Lac pentru bărci, o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Start your day in the heart of Szombathely, at the baroque Main Square. Feel 2000 years of history in the nearby Ruin Garden, where the remains of Roman Savaria await. The Cathedral, a late-baroque masterpiece, offers spiritual and artistic reflection before you delve into the mystical world of Egypt at the Iseum. After lunch, immerse yourself in regional history at the Savaria Museum. End the day with a relaxing walk by the picturesque Boating Lake, a perfect conclusion to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dödölle",
+            "tip": "Probieren Sie dieses traditionelle ungarische Kartoffelgericht."
+          },
+          {
+            "name": "Restaurant Pável",
+            "tip": "Bietet eine Mischung aus traditioneller und moderner ungarischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dödölle",
+            "tip": "Kóstolja meg ezt a hagyományos magyar burgonyás ételt."
+          },
+          {
+            "name": "Pável Étterem",
+            "tip": "A hagyományos és a modern magyar konyha keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dödölle",
+            "tip": "Încercați acest preparat tradițional maghiar din cartofi."
+          },
+          {
+            "name": "Restaurantul Pável",
+            "tip": "Oferă un amestec de bucătărie maghiară tradițională și modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dödölle",
+            "tip": "Try this traditional Hungarian potato dish."
+          },
+          {
+            "name": "Pável Restaurant",
+            "tip": "Offers a mix of traditional and modern Hungarian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsteich",
+            "tip": "Die Bänke am See sind ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein friedlicher Ort abseits des Trubels der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csónakázó-tó",
+            "tip": "A tóparti padok ideálisak egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Székesegyház udvara",
+            "tip": "Békés hely a város zajától távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul pentru bărci",
+            "tip": "Băncile de lângă lac sunt ideale pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Catedralei",
+            "tip": "Un loc pașnic, departe de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boating Lake",
+            "tip": "The benches by the lake are ideal for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A peaceful spot away from the city's hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie lokale Produkte und Handwerkskunst auf dem Markt in der Nähe des Hauptplatzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti Piac",
+            "tip": "Vásároljon helyi termékeket és kézműves árukat a Fő tér melletti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale și artizanat de la piața de lângă Piața Principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Shop for local produce and crafts at the market near the Main Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine Kaffeepause in einem der Cafés am Hauptplatz ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog sétálni.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Tervezzen be egy kávészünetet a Fő téri kávézók egyikébe."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați o pauză de cafea la una dintre cafenelele din Piața Principală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most attractions in the center are easily reachable on foot.",
+          "Plan a coffee break at one of the cafes in the Main Square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.6215,
+            47.2308
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour hier mit einem Kaffee in der Morgensonne.",
+            "hu": "Indítsa a biciklitúrát egy kávéval a reggeli napsütésben.",
+            "ro": "Începeți turul cu bicicleta de aici, cu o cafea la soarele de dimineață.",
+            "en": "Start your bike tour here with a coffee in the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinengarten & Kathedrale",
+            "hu": "Romkert és Székesegyház",
+            "ro": "Grădina cu ruine & Catedrala",
+            "en": "Ruin Garden & Cathedral"
+          },
+          "coords": [
+            16.619,
+            47.231
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beiden historischen Stätten zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két történelmi helyszínt gyalog.",
+            "ro": "Parcați bicicleta și explorați aceste două situri istorice pe jos.",
+            "en": "Park your bike and explore these two historical sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Iseum Savariense",
+            "hu": "Iseum Savariense",
+            "ro": "Iseum Savariense",
+            "en": "Iseum Savariense"
+          },
+          "coords": [
+            16.6155,
+            47.232
+          ],
+          "category": "museums",
+          "arrive_at": "11:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine kurze Radfahrt vom Zentrum zu einem beeindruckenden römischen Heiligtum.",
+            "hu": "Rövid biciklizés a központtól egy lenyűgöző római szentélyhez.",
+            "ro": "O scurtă plimbare cu bicicleta din centru până la un sanctuar roman impresionant.",
+            "en": "A short bike ride from the center to an impressive Roman sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul pentru bărci",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            16.629,
+            47.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie um den See und genießen Sie die Natur.",
+            "hu": "Tekerjen körbe a tó körül, és élvezze a természetet.",
+            "ro": "Faceți o plimbare cu bicicleta în jurul lacului și bucurați-vă de natură.",
+            "en": "Cycle around the lake and enjoy the natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfmuseum Vasi Skanzen",
+            "hu": "Vasi Skanzen",
+            "ro": "Muzeul Satului Vasi",
+            "en": "Vasi Village Museum"
+          },
+          "coords": [
+            16.602,
+            47.242
+          ],
+          "category": "museums",
+          "arrive_at": "15:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Radtour in die Vergangenheit und entdecken Sie das traditionelle Dorfleben.",
+            "hu": "Tegyen egy kerékpártúrát a múltba, és fedezze fel a hagyományos falusi életet.",
+            "ro": "Faceți o excursie cu bicicleta în trecut și descoperiți viața tradițională a satului.",
+            "en": "Take a bike trip to the past and discover traditional village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kámoni-Arboretum",
+            "hu": "Kámomi Arborétum",
+            "ro": "Arboretumul Kámon",
+            "en": "Kámon Arboretum"
+          },
+          "coords": [
+            16.608,
+            47.255
+          ],
+          "category": "natural features",
+          "arrive_at": "17:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um Ihre Radtour inmitten wunderschöner Pflanzen ausklingen zu lassen.",
+            "hu": "Tökéletes hely a kerékpártúra befejezéséhez, gyönyörű növények között.",
+            "ro": "Locul perfect pentru a încheia turul cu bicicleta în mijlocul unor plante frumoase.",
+            "en": "The perfect place to end your bike tour amidst beautiful plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the Center"
+          },
+          "coords": [
+            16.6217,
+            47.2306
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "18:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Zeit für ein wohlverdientes Abendessen nach einem aktiven Tag.",
+            "hu": "Itt az idő egy jól megérdemelt vacsorára egy aktív nap után.",
+            "ro": "E timpul pentru o cină binemeritată după o zi activă.",
+            "en": "Time for a well-deserved dinner after an active day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Hauptplatz. Die erste Etappe führt Sie zu den historischen Juwelen, dem Ruinengarten und der Kathedrale. Weiter geht es zum Iseum, einem Zeugnis der römischen Vergangenheit. Zur Mittagszeit erreichen Sie den Bootsteich, ideal für eine Pause im Grünen. Am Nachmittag radeln Sie weiter zum Vasi Skanzen, einem Freilichtmuseum, das Sie in eine andere Zeit versetzt. Den Abschluss bildet das Kámoni-Arboretum, eine grüne Oase, bevor Sie für das Abendessen ins Zentrum zurückkehren.",
+        "hu": "Pattanjon biciklire és induljon a Fő térről. Az első szakasz a történelmi ékszerekhez, a Romkerthez és a Székesegyházhoz vezet. Tovább az Iseumhoz, a római múlt tanújához. Délidőben érkezik a Csónakázó-tóhoz, amely ideális egy zöld pihenőre. Délután továbbteker a Vasi Skanzenbe, egy szabadtéri múzeumba, amely egy másik korba repíti. A napot a Kámomi Arborétum zárja, egy zöld oázis, mielőtt visszatérne a központba vacsorázni.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Principală. Prima etapă vă duce la bijuteriile istorice, Grădina cu ruine și Catedrala. Continuați spre Iseum, o mărturie a trecutului roman. La prânz, ajungeți la Lacul pentru bărci, ideal pentru o pauză în natură. După-amiaza, pedalați mai departe spre Muzeul Satului Vasi, un muzeu în aer liber care vă transportă într-o altă epocă. Turul se încheie la Arboretumul Kámon, o oază de verdeață, înainte de a vă întoarce în centru pentru cină.",
+        "en": "Get on your bike and start from the Main Square. The first leg takes you to the historical gems, the Ruin Garden and the Cathedral. Continue to the Iseum, a testament to the Roman past. At lunchtime, you'll reach the Boating Lake, ideal for a green break. In the afternoon, cycle on to the Vasi Village Museum, an open-air museum that transports you to another era. The tour concludes at the Kámon Arboretum, a green oasis, before returning to the center for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lángos",
+            "tip": "Ein herzhafter Snack, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Tóvendéglő",
+            "tip": "Genießen Sie eine Mahlzeit mit Blick auf den Bootsteich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Kiadós harapnivaló, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Tóvendéglő",
+            "tip": "Élvezze az ebédet a Csónakázó-tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lángos",
+            "tip": "O gustare consistentă, perfectă după o tură cu bicicleta."
+          },
+          {
+            "name": "Restaurantul Tó",
+            "tip": "Savurați o masă cu vedere la Lacul pentru bărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lángos",
+            "tip": "A hearty snack, perfect after a bike ride."
+          },
+          {
+            "name": "Lake Restaurant (Tóvendéglő)",
+            "tip": "Enjoy a meal with a view of the Boating Lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kámoni-Arboretum",
+            "tip": "Finden Sie einen ruhigen Platz unter den exotischen Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Gyöngyös-Bachs",
+            "tip": "Ein friedlicher Radweg führt entlang des Baches.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kámomi Arborétum",
+            "tip": "Találjon egy csendes helyet az egzotikus fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Gyöngyös-patak partja",
+            "tip": "Békés kerékpárút vezet a patak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretumul Kámon",
+            "tip": "Găsiți un loc liniștit sub copacii exotici.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul pârâului Gyöngyös",
+            "tip": "O pistă de biciclete liniștită duce de-a lungul pârâului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kámon Arboretum",
+            "tip": "Find a quiet spot under the exotic trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Banks of the Gyöngyös stream",
+            "tip": "A peaceful cycle path runs along the stream.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található kiegészítőkért vagy javításokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru accesorii sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in the city for accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Die Stadt ist relativ flach und fahrradfreundlich.",
+          "Achten Sie auf die ausgewiesenen Radwege."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A város viszonylag sík és kerékpárbarát.",
+          "Figyeljen a kijelölt kerékpárutakra."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Orașul este relativ plat și prietenos cu bicicliștii.",
+          "Fiți atenți la pistele de biciclete desemnate."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "The city is relatively flat and bike-friendly.",
+          "Pay attention to the designated cycle paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 14.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            16.62,
+            47.231
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hauptplatzes für den Vormittag.",
+            "hu": "Parkoljon a Fő tér közelében a délelőttre.",
+            "ro": "Parcați lângă Piața Principală pentru dimineață.",
+            "en": "Park near the Main Square for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.6215,
+            47.2308
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang im belebten Zentrum der Stadt.",
+            "hu": "Kezdje a sétát a város nyüzsgő központjában.",
+            "ro": "Începeți plimbarea în centrul plin de viață al orașului.",
+            "en": "Start your walk in the bustling center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinengarten & Kathedrale",
+            "hu": "Romkert és Székesegyház",
+            "ro": "Grădina cu ruine & Catedrala",
+            "en": "Ruin Garden & Cathedral"
+          },
+          "coords": [
+            16.619,
+            47.231
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két fő látnivaló csak pár lépésre van egymástól.",
+            "ro": "Aceste două atracții principale sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two main attractions are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Iseum Savariense",
+            "hu": "Iseum Savariense",
+            "ro": "Iseum Savariense",
+            "en": "Iseum Savariense"
+          },
+          "coords": [
+            16.6155,
+            47.232
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dom zum Isis-Heiligtum.",
+            "hu": "Rövid séta a Dómtól az Ízisz-szentélyig.",
+            "ro": "O scurtă plimbare de la Catedrală la sanctuarul lui Isis.",
+            "en": "A short walk from the Cathedral to the Isis sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Natur & Erholung",
+            "hu": "2. klaszter: Természet és pihenés",
+            "ro": "Cluster 2: Natură și recreere",
+            "en": "Cluster 2: Nature & Recreation"
+          },
+          "coords": [
+            16.629,
+            47.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Bootsteich und parken Sie für den Nachmittag.",
+            "hu": "Hajtson a Csónakázó-tóhoz és parkoljon le a délutánra.",
+            "ro": "Conduceți până la Lacul pentru bărci și parcați pentru după-amiază.",
+            "en": "Drive to the Boating Lake and park for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsteich",
+            "hu": "Csónakázó-tó",
+            "ro": "Lacul pentru bărci",
+            "en": "Boating Lake"
+          },
+          "coords": [
+            16.629,
+            47.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang um den See oder mieten Sie ein Tretboot.",
+            "hu": "Sétáljon egyet a tó körül, vagy béreljen vízibiciklit.",
+            "ro": "Bucurați-vă de o plimbare în jurul lacului sau închiriați o hidrobicicletă.",
+            "en": "Enjoy a walk around the lake or rent a paddle boat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Kultur & Botanik",
+            "hu": "3. klaszter: Kultúra és botanika",
+            "ro": "Cluster 3: Cultură și botanică",
+            "en": "Cluster 3: Culture & Botany"
+          },
+          "coords": [
+            16.602,
+            47.242
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 134,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die letzte Fahrt des Tages führt Sie zum Vasi Skanzen und dem Arboretum.",
+            "hu": "A nap utolsó autózása a Vasi Skanzenhez és az Arborétumhoz vezet.",
+            "ro": "Ultima călătorie a zilei vă duce la Muzeul Satului Vasi și la Arboretum.",
+            "en": "The last drive of the day takes you to the Vasi Village Museum and the Arboretum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Herzen der Stadt. Parken Sie und erkunden Sie den ersten Cluster zu Fuß: den Hauptplatz, den Ruinengarten und die Kathedrale. Das nahe gelegene Iseum rundet den historischen Vormittag ab. Nach dem Mittagessen fahren Sie zum zweiten Cluster, dem Bootsteich, für einen erholsamen Nachmittag. Die letzte Fahrt führt Sie zum Vasi Skanzen und dem Kámoni-Arboretum, einer perfekten Kombination aus Kultur und Natur, um Ihren Tag in Szombathely abzuschließen.",
+        "hu": "Kezdje a napot autóval a város szívében. Parkoljon le, és fedezze fel gyalog az első klasztert: a Fő teret, a Romkertet és a Székesegyházat. A közeli Iseum teszi teljessé a történelmi délelőttöt. Ebéd után autózzon a második klaszterhez, a Csónakázó-tóhoz egy pihentető délutánért. Az utolsó út a Vasi Skanzenhez és a Kámomi Arborétumhoz vezet, ami a kultúra és a természet tökéletes kombinációja a szombathelyi nap lezárásaként.",
+        "ro": "Începeți ziua cu mașina în inima orașului. Parcați și explorați pe jos primul cluster: Piața Principală, Grădina cu ruine și Catedrala. Iseumul din apropiere completează dimineața istorică. După prânz, conduceți spre al doilea cluster, Lacul pentru bărci, pentru o după-amiază relaxantă. Ultima călătorie vă duce la Muzeul Satului Vasi și la Arboretumul Kámon, o combinație perfectă de cultură și natură pentru a încheia ziua în Szombathely.",
+        "en": "Start your day by car in the heart of the city. Park and explore the first cluster on foot: the Main Square, the Ruin Garden, and the Cathedral. The nearby Iseum completes the historical morning. After lunch, drive to the second cluster, the Boating Lake, for a relaxing afternoon. The final drive takes you to the Vasi Village Museum and the Kámon Arboretum, a perfect combination of culture and nature to end your day in Szombathely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gerichte mit Kürbiskernöl",
+            "tip": "Eine lokale Spezialität, die oft in Salaten verwendet wird."
+          },
+          {
+            "name": "Bellagio Ristorante & Pizzeria",
+            "tip": "Gute Option für ein Mittagessen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tökmagolajos ételek",
+            "tip": "Helyi specialitás, gyakran használják salátákhoz."
+          },
+          {
+            "name": "Bellagio Ristorante & Pizzeria",
+            "tip": "Jó választás egy ebédre a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri cu ulei de dovleac",
+            "tip": "O specialitate locală, adesea folosită în salate."
+          },
+          {
+            "name": "Bellagio Ristorante & Pizzeria",
+            "tip": "O opțiune bună pentru prânz în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dishes with pumpkin seed oil",
+            "tip": "A local specialty, often used in salads."
+          },
+          {
+            "name": "Bellagio Ristorante & Pizzeria",
+            "tip": "Good option for lunch in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kámoni-Arboretum",
+            "tip": "Verlieren Sie sich auf den Wegen dieses riesigen botanischen Gartens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dorfmuseum Vasi Skanzen",
+            "tip": "Die alten Häuser und Gärten strahlen eine ruhige Atmosphäre aus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kámomi Arborétum",
+            "tip": "Vesszen el ennek a hatalmas botanikus kertnek az ösvényein.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vasi Skanzen",
+            "tip": "A régi házak és kertek békés hangulatot árasztanak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretumul Kámon",
+            "tip": "Pierdeți-vă pe potecile acestei grădini botanice imense.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Muzeul Satului Vasi",
+            "tip": "Casele și grădinile vechi emană o atmosferă liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kámon Arboretum",
+            "tip": "Get lost on the paths of this huge botanical garden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vasi Village Museum",
+            "tip": "The old houses and gardens exude a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Die Region ist für ihre Weine bekannt, suchen Sie nach lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "A régió híres borairól, keressen helyi termelőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Regiunea este cunoscută pentru vinurile sale, căutați producători locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wines",
+            "tip": "The region is known for its wines, look for local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Auto ermöglicht es Ihnen, auch die weiter entfernten Sehenswürdigkeiten bequem zu erreichen.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Az autó lehetővé teszi, hogy kényelmesen elérje a távolabbi látnivalókat is.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare și taxele.",
+          "O mașină vă permite să ajungeți confortabil și la atracțiile mai îndepărtate.",
+          "Planificați suficient timp pentru traficul dintre clustere."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A car allows you to comfortably reach the more distant attractions.",
+          "Allow enough time for traffic between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft im Zentrum",
+            "hu": "1. klaszter: Érkezés a központba",
+            "ro": "Cluster 1: Sosire în centru",
+            "en": "Cluster 1: Arrival in the Center"
+          },
+          "coords": [
+            16.6215,
+            47.2308
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, dem Startpunkt Ihres Tages.",
+            "hu": "Menjen busszal a Fő térre, a nap kiindulópontjára.",
+            "ro": "Luați un autobuz până la Piața Principală, punctul de plecare al zilei.",
+            "en": "Take a bus to the Main Square, the starting point of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Ruinengarten",
+            "hu": "Fő tér és Romkert",
+            "ro": "Piața Principală și Grădina cu ruine",
+            "en": "Main Square & Ruin Garden"
+          },
+          "coords": [
+            16.62,
+            47.2305
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die römischen Ruinen, die nur wenige Schritte entfernt sind.",
+            "hu": "Fedezze fel a teret és a római romokat, melyek csak pár lépésre vannak.",
+            "ro": "Explorați piața și ruinele romane, aflate la doar câțiva pași.",
+            "en": "Explore the square and the Roman ruins, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Szombathely",
+            "hu": "Szombathelyi Székesegyház",
+            "ro": "Catedrala din Szombathely",
+            "en": "Cathedral of Szombathely"
+          },
+          "coords": [
+            16.6188,
+            47.2315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zu diesem barocken Meisterwerk.",
+            "hu": "Rövid séta vezet ehhez a barokk remekműhöz.",
+            "ro": "O scurtă plimbare vă duce la această capodoperă barocă.",
+            "en": "A short walk takes you to this baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Iseum Savariense",
+            "hu": "Iseum Savariense",
+            "ro": "Iseum Savariense",
+            "en": "Iseum Savariense"
+          },
+          "coords": [
+            16.6155,
+            47.232
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das römische Erbe der Stadt ist von der Kathedrale aus leicht zu Fuß erreichbar.",
+            "hu": "A város római öröksége könnyen elérhető gyalog a Székesegyháztól.",
+            "ro": "Moștenirea romană a orașului este ușor accesibilă pe jos de la Catedrală.",
+            "en": "The city's Roman heritage is an easy walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Am See",
+            "hu": "2. klaszter: A tónál",
+            "ro": "Cluster 2: Lângă lac",
+            "en": "Cluster 2: By the Lake"
+          },
+          "coords": [
+            16.629,
+            47.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Bootsteich für eine entspannte Pause.",
+            "hu": "Menjen busszal a központból a Csónakázó-tóhoz egy pihentető szünetre.",
+            "ro": "Luați un autobuz din centru până la Lacul pentru bărci pentru o pauză relaxantă.",
+            "en": "Take a bus from the center to the Boating Lake for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Savaria-Museum",
+            "hu": "Savaria Múzeum",
+            "ro": "Muzeul Savaria",
+            "en": "Savaria Museum"
+          },
+          "coords": [
+            16.623,
+            47.2345
+          ],
+          "category": "museums",
+          "arrive_at": "16:17",
+          "stay_min": 92,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zum letzten Halt des Tages.",
+            "hu": "Egy újabb rövid buszút visz a nap utolsó állomásához.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la ultima oprire a zilei.",
+            "en": "Another short bus ride takes you to the last stop of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um bequem ins Zentrum zu gelangen. Der erste Cluster, der zu Fuß erkundet wird, umfasst den Hauptplatz, den Ruinengarten, die Kathedrale und das Iseum. Tauchen Sie ein in die reiche Geschichte der Stadt. Am Nachmittag bringt Sie ein Bus zum Bootsteich, einem perfekten Ort zum Entspannen. Eine letzte Busfahrt führt Sie zum Savaria-Museum, wo Sie Ihren Tag mit einem tiefen Einblick in die regionale Kultur und Archäologie beenden.",
+        "hu": "Használja a tömegközlekedést, hogy kényelmesen bejusson a központba. Az első, gyalogosan felfedezett klaszter magában foglalja a Fő teret, a Romkertet, a Székesegyházat és az Iseumot. Merüljön el a város gazdag történelmében. Délután egy busz elviszi a Csónakázó-tóhoz, amely tökéletes hely a pihenésre. Az utolsó buszút a Savaria Múzeumba vezet, ahol a napot a regionális kultúrába és régészetbe való mély betekintéssel zárhatja.",
+        "ro": "Folosiți transportul public pentru a ajunge confortabil în centru. Primul cluster, explorat pe jos, include Piața Principală, Grădina cu ruine, Catedrala și Iseumul. Cufundați-vă în istoria bogată a orașului. După-amiaza, un autobuz vă va duce la Lacul pentru bărci, un loc perfect pentru relaxare. O ultimă călătorie cu autobuzul vă duce la Muzeul Savaria, unde vă puteți încheia ziua cu o perspectivă profundă asupra culturii și arheologiei regionale.",
+        "en": "Use public transport to get to the center comfortably. The first cluster, explored on foot, includes the Main Square, the Ruin Garden, the Cathedral, and the Iseum. Immerse yourself in the city's rich history. In the afternoon, a bus will take you to the Boating Lake, a perfect place to relax. A final bus ride takes you to the Savaria Museum, where you can end your day with a deep insight into the regional culture and archaeology."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kürtőskalács (Baumstriezel)",
+            "tip": "Ein süßer Snack, den man oft an Ständen in der Stadt findet."
+          },
+          {
+            "name": "Molo Cafe & Restaurant",
+            "tip": "In der Nähe des Bootsteichs, ideal für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, amelyet gyakran találni a városi standoknál."
+          },
+          {
+            "name": "Molo Cafe & Restaurant",
+            "tip": "A Csónakázó-tó közelében, ideális egy kávészünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "O gustare dulce, adesea găsită la standurile din oraș."
+          },
+          {
+            "name": "Molo Cafe & Restaurant",
+            "tip": "Lângă Lacul pentru bărci, ideal pentru o pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kürtőskalács (Chimney Cake)",
+            "tip": "A sweet snack often found at stands around the city."
+          },
+          {
+            "name": "Molo Cafe & Restaurant",
+            "tip": "Near the Boating Lake, ideal for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Savaria-Museum",
+            "tip": "Ein ruhiger Ort, um nach dem Museumsbesuch zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine ruhige Seitenstraße",
+            "tip": "Verlassen Sie die Hauptwege und entdecken Sie den Charme der kleineren Gassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Savaria Múzeum melletti park",
+            "tip": "Csendes hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes mellékutca",
+            "tip": "Hagyja el a fő utakat, és fedezze fel a kisebb utcák varázsát.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Muzeul Savaria",
+            "tip": "Un loc liniștit pentru a vă relaxa după vizita la muzeu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O stradă laterală liniștită",
+            "tip": "Părăsiți drumurile principale și descoperiți farmecul aleilor mai mici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the Savaria Museum",
+            "tip": "A quiet place to relax after visiting the museum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet side street",
+            "tip": "Leave the main paths and discover the charm of the smaller alleys.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Savaria-Karneval-Souvenirs",
+            "tip": "Wenn Sie zur richtigen Zeit hier sind, finden Sie einzigartige Andenken an dieses berühmte Festival."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savaria Karnevál szuvenírek",
+            "tip": "Ha jókor jár itt, egyedi emléktárgyakat találhat erről a híres fesztiválról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la Carnavalul Savaria",
+            "tip": "Dacă sunteți aici la momentul potrivit, puteți găsi suveniruri unice de la acest faimos festival."
+          }
+        ],
+        "en": [
+          {
+            "name": "Savaria Carnival Souvenirs",
+            "tip": "If you are here at the right time, you can find unique mementos of this famous festival."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, um Wartezeiten zu minimieren.",
+          "Die meisten Busse sind modern und klimatisiert."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idő minimalizálása érdekében.",
+          "A legtöbb busz modern és légkondicionált."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans pentru a minimiza timpul de așteptare.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Check the bus schedule in advance to minimize waiting times.",
+          "Most buses are modern and air-conditioned."
+        ]
+      }
+    }
+  }
+}

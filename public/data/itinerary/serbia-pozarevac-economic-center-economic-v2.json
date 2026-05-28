@@ -1,0 +1,1444 @@
+{
+  "city_id": "serbia-pozarevac-economic-center-economic-v2",
+  "anchor": {
+    "name": "Wirtschaftsknotenpunkt Požarevac",
+    "coords": [
+      44.6208,
+      21.1894
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Statue von Fürst Miloš",
+            "hu": "Miloš Fejedelem szobra",
+            "ro": "Statuia Prințului Miloš",
+            "en": "Statue of Prince Miloš"
+          },
+          "coords": [
+            44.6215,
+            21.1878
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag am zentralen Treffpunkt der Stadt.",
+            "hu": "Kezdje a napot a város központi találkozóhelyénél.",
+            "ro": "Începeți ziua la punctul central de întâlnire al orașului.",
+            "en": "Start your day at the city's central meeting point."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale der Heiligen Erzengel",
+            "hu": "Szent Arkangyalok Katedrális",
+            "ro": "Catedrala Sfinților Arhangheli",
+            "en": "Cathedral of the Holy Archangels"
+          },
+          "coords": [
+            44.6222,
+            21.1865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonostase und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg az ikonosztázt és a békés légkört.",
+            "ro": "Admirați iconostasul și atmosfera liniștită.",
+            "en": "Admire the iconostasis and the serene atmosphere."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Nationalmuseum Požarevac",
+            "hu": "Požarevaci Nemzeti Múzeum",
+            "ro": "Muzeul Național Požarevac",
+            "en": "National Museum Požarevac"
+          },
+          "coords": [
+            44.6198,
+            21.1889
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die römischen Artefakte aus Viminacium.",
+            "hu": "Fókuszáljon a Viminaciumból származó római leletekre.",
+            "ro": "Concentrați-vă pe artefactele romane de la Viminacium.",
+            "en": "Focus on the Roman artifacts recovered from Viminacium."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Milena Pavlović Barilli Galerie",
+            "hu": "Milena Pavlović Barilli Galéria",
+            "ro": "Galeria Milena Pavlović Barilli",
+            "en": "Milena Pavlović Barilli Gallery"
+          },
+          "coords": [
+            44.6185,
+            21.1895
+          ],
+          "category": "museums",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die surrealistischen Werke dieser einzigartigen Künstlerin.",
+            "hu": "Fedezze fel ennek az egyedi művésznek a szürrealista alkotásait.",
+            "ro": "Descoperiți lucrările suprarealiste ale acestei artiste unice.",
+            "en": "Discover the surrealist works of this unique artist."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Tulba Ethno-Park",
+            "hu": "Tulba Néprajzi Park",
+            "ro": "Parcul Etnografic Tulba",
+            "en": "Tulba Ethno-Park"
+          },
+          "coords": [
+            44.6288,
+            21.2011
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle serbische Architektur und Lebensweise.",
+            "hu": "Ismerje meg a hagyományos szerb építészetet és életmódot.",
+            "ro": "Experimentați arhitectura și modul de viață tradițional sârbesc.",
+            "en": "Experience traditional Serbian architecture and way of life."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Čačalica Park",
+            "hu": "Čačalica Park",
+            "ro": "Parcul Čačalica",
+            "en": "Čačalica Park"
+          },
+          "coords": [
+            44.615,
+            21.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick und das Denkmal für die Gefallenen.",
+            "hu": "Élvezze a panorámát és az elesettek emlékművét.",
+            "ro": "Bucurați-vă de vederea panoramică și de monumentul dedicat celor căzuți.",
+            "en": "Enjoy the panoramic views and the monument to the fallen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Požarevac bei der Statue von Fürst Miloš. Spazieren Sie zur orthodoxen Kathedrale, bevor Sie in die reiche Geschichte im Nationalmuseum eintauchen. Am Nachmittag entdecken Sie die Kunst in der Milena Pavlović Barilli Galerie und das traditionelle Leben im Tulba Ethno-Park. Beenden Sie Ihren Tag mit einem entspannten Spaziergang und Panoramablick im Čačalica Park, einem Ort der Ruhe und des Gedenkens.",
+        "hu": "Kezdje a napot Požarevac szívében, Miloš fejedelem szobránál. Sétáljon el az ortodox katedrálishoz, mielőtt elmerülne a Nemzeti Múzeum gazdag történelmében. Délután fedezze fel a művészetet a Milena Pavlović Barilli Galériában és a hagyományos életet a Tulba Néprajzi Parkban. Zárja a napot egy pihentető sétával és panorámával a Čačalica Parkban, a béke és emlékezés helyén.",
+        "ro": "Începeți ziua în inima orașului Požarevac, la statuia Prințului Miloš. Plimbați-vă până la catedrala ortodoxă înainte de a vă cufunda în istoria bogată la Muzeul Național. După-amiaza, descoperiți arta la Galeria Milena Pavlović Barilli și viața tradițională la Parcul Etnografic Tulba. Încheiați ziua cu o plimbare relaxantă și vederi panoramice în Parcul Čačalica, un loc de liniște și comemorare.",
+        "en": "Start your day in the heart of Požarevac at the statue of Prince Miloš. Stroll to the Orthodox Cathedral before diving into the rich history at the National Museum. In the afternoon, discover the art at the Milena Pavlović Barilli Gallery and traditional life at the Tulba Ethno-Park. End your day with a relaxing walk and panoramic views in Čačalica Park, a place of peace and remembrance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Probieren Sie dieses lokale Gebäck, eine Spezialität der Stadt."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein klassisches serbisches gegrilltes Fleischgericht, das man überall findet."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Besuchen Sie eine traditionelle Kafana für ein authentisches kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Kóstolja meg ezt a helyi süteményt, a város specialitását."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Klasszikus szerb grillezett húsétel, mindenhol kapható."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Látogasson el egy hagyományos kafanába egy autentikus gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Încercați acest produs de patiserie local, o specialitate a orașului."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Un fel de mâncare clasic sârbesc din carne la grătar, găsit peste tot."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Vizitați o kafana tradițională pentru o experiență culinară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Try this local pastry, a specialty of the city."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A classic Serbian grilled meat dish, found everywhere."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Visit a traditional Kafana for an authentic culinary experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Gestüt",
+            "tip": "Beobachten Sie die Pferde in einer friedlichen, ländlichen Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Donauufer",
+            "tip": "Ein kurzer Ausflug zum nahegelegenen Donauufer für Ruhe und Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Ménes",
+            "tip": "Figyelje a lovakat egy békés, vidéki környezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Egy rövid kirándulás a közeli Duna-partra a csendért és a tágas térért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Čačalica",
+            "tip": "Găsiți o bancă liniștită cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herghelia Ljubičevo",
+            "tip": "Priviți caii într-un cadru rural și pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "O scurtă excursie pe malul Dunării din apropiere pentru liniște și spațiu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Find a quiet bench overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Stud Farm",
+            "tip": "Watch the horses in a peaceful, rural setting.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Danube Riverbank",
+            "tip": "A short trip to the nearby Danube riverbank for peace and space.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Käsesorten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Suchen Sie nach handgefertigten Gegenständen und Nachbildungen von Viminacium-Artefakten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtokat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Keressen kézműves termékeket és a Viminacium leletek másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Căutați obiecte de artizanat și replici ale artefactelor de la Viminacium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheeses."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Look for handmade crafts and replicas of Viminacium artifacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste zu Fuß erkundet wird.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Halten Sie Bargeld für kleine Einkäufe auf dem Markt bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a legtöbb látnivaló gyalogosan fedezhető fel.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Tartson magánál készpénzt a piaci apróbb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea explorării se face pe jos.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "Aveți numerar la îndemână pentru cumpărături mici în piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the exploration is on foot.",
+          "Check the opening hours of the museums in advance.",
+          "Keep some cash handy for small purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Statue von Fürst Miloš",
+            "hu": "Miloš Fejedelem szobra",
+            "ro": "Statuia Prințului Miloš",
+            "en": "Statue of Prince Miloš"
+          },
+          "coords": [
+            44.6215,
+            21.1878
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Platz, um Ihr Fahrrad abzustellen.",
+            "hu": "Jó kiindulópont, van hely a kerékpár lezárásához.",
+            "ro": "Un bun punct de plecare cu spațiu pentru a vă parca bicicleta.",
+            "en": "A good starting point with space to lock your bike."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Nationalmuseum Požarevac",
+            "hu": "Požarevaci Nemzeti Múzeum",
+            "ro": "Muzeul Național Požarevac",
+            "en": "National Museum Požarevac"
+          },
+          "coords": [
+            44.6198,
+            21.1889
+          ],
+          "category": "museums",
+          "arrive_at": "09:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte der Region.",
+            "hu": "Ismerje meg a régió gazdag történelmét.",
+            "ro": "Aflați despre istoria bogată a regiunii.",
+            "en": "Learn about the rich history of the region."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Čačalica Park",
+            "hu": "Čačalica Park",
+            "ro": "Parcul Čačalica",
+            "en": "Čačalica Park"
+          },
+          "coords": [
+            44.615,
+            21.205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die Wege hinauf für eine tolle Aussicht über die Stadt.",
+            "hu": "Tekerjen fel az ösvényeken a városra nyíló remek kilátásért.",
+            "ro": "Urcați pe poteci pentru o priveliște minunată asupra orașului.",
+            "en": "Ride up the paths for a great view over the city."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ljubičevo Gestüt",
+            "hu": "Ljubičevo Ménes",
+            "ro": "Herghelia Ljubičevo",
+            "en": "Ljubičevo Stud Farm"
+          },
+          "coords": [
+            44.6433,
+            21.1466
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zur berühmten Pferdefarm. Buchen Sie eine Tour.",
+            "hu": "Kellemes út a híres lófarmhoz. Foglaljon túrát.",
+            "ro": "O plimbare plăcută până la faimoasa fermă de cai. Rezervați un tur.",
+            "en": "A pleasant ride to the famous horse farm. Book a tour."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Tulba Ethno-Park",
+            "hu": "Tulba Néprajzi Park",
+            "ro": "Parcul Etnografic Tulba",
+            "en": "Tulba Ethno-Park"
+          },
+          "coords": [
+            44.6288,
+            21.2011
+          ],
+          "category": "museums",
+          "arrive_at": "15:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie zurück in die Stadt und tauchen Sie in die Vergangenheit ein.",
+            "hu": "Tekerjen vissza a városba, és merüljön el a múltban.",
+            "ro": "Întoarceți-vă cu bicicleta în oraș și scufundați-vă în trecut.",
+            "en": "Cycle back towards the city and step into the past."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Milena Pavlović Barilli Galerie",
+            "hu": "Milena Pavlović Barilli Galéria",
+            "ro": "Galeria Milena Pavlović Barilli",
+            "en": "Milena Pavlović Barilli Gallery"
+          },
+          "coords": [
+            44.6185,
+            21.1895
+          ],
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "category": "museums",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit den faszinierenden Werken dieser lokalen Künstlerin.",
+            "hu": "Fejezze be a túrát ennek a helyi művésznek a lenyűgöző alkotásaival.",
+            "ro": "Încheiați-vă turul cu lucrările fascinante ale acestei artiste locale.",
+            "en": "End your tour with the fascinating works of this local artist."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Miloš-Denkmal und radeln Sie zum Nationalmuseum. Erklimmen Sie den Čačalica-Hügel für eine atemberaubende Aussicht. Am Mittag führt Sie eine längere, aber lohnende Fahrt zum berühmten Ljubičevo-Gestüt. Nachmittags radeln Sie zurück, um im Tulba Ethno-Park in die serbische Tradition einzutauchen und Ihre kulturelle Reise in der Milena Pavlović Barilli Galerie abzuschließen.",
+        "hu": "Induljon a Miloš-emlékműtől, és tekerjen el a Nemzeti Múzeumig. Mássza meg a Čačalica-dombot a lélegzetelállító kilátásért. Délben egy hosszabb, de megérő út vezet a híres Ljubičevo méneshez. Délután tekerjen vissza, hogy elmerüljön a szerb hagyományokban a Tulba Néprajzi Parkban, és fejezze be kulturális utazását a Milena Pavlović Barilli Galériában.",
+        "ro": "Porniți de la monumentul lui Miloš și pedalați până la Muzeul Național. Urcați pe dealul Čačalica pentru o priveliște uluitoare. La prânz, o plimbare mai lungă, dar plină de satisfacții, vă duce la faimoasa herghelie Ljubičevo. După-amiaza, pedalați înapoi pentru a vă cufunda în tradiția sârbă la Parcul Etnografic Tulba și încheiați-vă călătoria culturală la Galeria Milena Pavlović Barilli.",
+        "en": "Start at the Miloš monument and cycle to the National Museum. Climb Čačalica hill for a breathtaking view. At noon, a longer but rewarding ride takes you to the famous Ljubičevo Stud Farm. In the afternoon, cycle back to immerse yourself in Serbian tradition at Tulba Ethno-Park and conclude your cultural journey at the Milena Pavlović Barilli Gallery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Probieren Sie dieses lokale Gebäck, eine Spezialität der Stadt."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein klassisches serbisches gegrilltes Fleischgericht, das man überall findet."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Besuchen Sie eine traditionelle Kafana für ein authentisches kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Kóstolja meg ezt a helyi süteményt, a város specialitását."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Klasszikus szerb grillezett húsétel, mindenhol kapható."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Látogasson el egy hagyományos kafanába egy autentikus gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Încercați acest produs de patiserie local, o specialitate a orașului."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Un fel de mâncare clasic sârbesc din carne la grătar, găsit peste tot."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Vizitați o kafana tradițională pentru o experiență culinară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Try this local pastry, a specialty of the city."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A classic Serbian grilled meat dish, found everywhere."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Visit a traditional Kafana for an authentic culinary experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Gestüt",
+            "tip": "Beobachten Sie die Pferde in einer friedlichen, ländlichen Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Donauufer",
+            "tip": "Ein kurzer Ausflug zum nahegelegenen Donauufer für Ruhe und Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Ménes",
+            "tip": "Figyelje a lovakat egy békés, vidéki környezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Egy rövid kirándulás a közeli Duna-partra a csendért és a tágas térért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Čačalica",
+            "tip": "Găsiți o bancă liniștită cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herghelia Ljubičevo",
+            "tip": "Priviți caii într-un cadru rural și pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "O scurtă excursie pe malul Dunării din apropiere pentru liniște și spațiu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Find a quiet bench overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Stud Farm",
+            "tip": "Watch the horses in a peaceful, rural setting.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Danube Riverbank",
+            "tip": "A short trip to the nearby Danube riverbank for peace and space.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Käsesorten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Suchen Sie nach handgefertigten Gegenständen und Nachbildungen von Viminacium-Artefakten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtokat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Keressen kézműves termékeket és a Viminacium leletek másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Căutați obiecte de artizanat și replici ale artefactelor de la Viminacium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheeses."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Look for handmade crafts and replicas of Viminacium artifacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Die Wege im Čačalica Park können steil sein.",
+          "Planen Sie genügend Zeit für die Fahrt zum und vom Gestüt ein."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárhoz.",
+          "A Čačalica Park ösvényei meredekek lehetnek.",
+          "Tervezzen elegendő időt a méneshez való oda- és visszautazásra."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Potecile din Parcul Čačalica pot fi abrupte.",
+          "Planificați suficient timp pentru drumul dus-întors la herghelie."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "The paths in Čačalica Park can be steep.",
+          "Plan enough time for the ride to and from the stud farm."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 36.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Stadtzentrum Požarevac (Parken)",
+            "hu": "Požarevac központ (Parkolás)",
+            "ro": "Centrul orașului Požarevac (Parcare)",
+            "en": "Požarevac City Center (Parking)"
+          },
+          "coords": [
+            44.62,
+            21.188
+          ],
+          "category": "travel",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Statue von Fürst Miloš & Kathedrale",
+            "hu": "Miloš Fejedelem szobra & Katedrális",
+            "ro": "Statuia Prințului Miloš & Catedrala",
+            "en": "Statue of Prince Miloš & Cathedral"
+          },
+          "coords": [
+            44.6218,
+            21.187
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei wichtige Sehenswürdigkeiten, nur wenige Schritte voneinander entfernt.",
+            "hu": "Két fontos látnivaló, csupán pár lépésre egymástól.",
+            "ro": "Două obiective turistice importante la doar câțiva pași unul de celălalt.",
+            "en": "Two major sights just a few steps from each other."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Nationalmuseum Požarevac",
+            "hu": "Požarevaci Nemzeti Múzeum",
+            "ro": "Muzeul Național Požarevac",
+            "en": "National Museum Požarevac"
+          },
+          "coords": [
+            44.6198,
+            21.1889
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück durch den Stadtkern zum Museum.",
+            "hu": "Sétáljon vissza a városközponton keresztül a múzeumhoz.",
+            "ro": "Mergeți înapoi prin centrul orașului la muzeu.",
+            "en": "Walk back through the city core to the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ljubičevo Gestüt",
+            "hu": "Ljubičevo Ménes",
+            "ro": "Herghelia Ljubičevo",
+            "en": "Ljubičevo Stud Farm"
+          },
+          "coords": [
+            44.6433,
+            21.1466
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu den berühmten Pferden Serbiens.",
+            "hu": "Egy rövid autóút Szerbia híres lovaihoz.",
+            "ro": "O scurtă călătorie cu mașina până la faimoșii cai ai Serbiei.",
+            "en": "A short drive to see Serbia's famous horses."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Archäologischer Park Viminacium",
+            "hu": "Viminacium Régészeti Park",
+            "ro": "Parcul Arheologic Viminacium",
+            "en": "Viminacium Archaeological Park"
+          },
+          "coords": [
+            44.7333,
+            21.2333
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Hauptattraktion des Tages. Planen Sie viel Zeit ein.",
+            "hu": "A nap fő attrakciója. Tervezzen bőséges időt.",
+            "ro": "Atracția principală a zilei. Planificați-vă mult timp.",
+            "en": "The main attraction of the day. Plan for plenty of time."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mammutpark (in Viminacium)",
+            "hu": "Mamutpark (Viminaciumban)",
+            "ro": "Parcul Mamut (în Viminacium)",
+            "en": "Mammoth Park (in Viminacium)"
+          },
+          "coords": [
+            44.734,
+            21.2345
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "17:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das lebensgroße Mammut-Skelett vor Ort.",
+            "hu": "Ne hagyja ki a helyszínen található életnagyságú mamutcsontvázat.",
+            "ro": "Nu ratați scheletul de mamut în mărime naturală de la fața locului.",
+            "en": "Don't miss the life-sized mammoth skeleton on site."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Čačalica Park",
+            "hu": "Čačalica Park",
+            "ro": "Parcul Čačalica",
+            "en": "Čačalica Park"
+          },
+          "coords": [
+            44.615,
+            21.205
+          ],
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "category": "parks/promenades/beaches",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt für einen Sonnenuntergangsblick.",
+            "hu": "Vezessen vissza a városba egy naplementés kilátásért.",
+            "ro": "Conduceți înapoi în oraș pentru o priveliște la apus.",
+            "en": "Drive back towards the city for a sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster: das Miloš-Denkmal, die Kathedrale und das Nationalmuseum zu Fuß. Steigen Sie dann ins Auto für eine kurze Fahrt zum Ljubičevo-Gestüt. Der Nachmittag ist der Höhepunkt: eine längere Fahrt zur antiken römischen Stadt Viminacium. Verbringen Sie dort Stunden. Auf dem Rückweg halten Sie im Čačalica Park an, um den Tag mit einem Panoramablick über Požarevac ausklingen zu lassen.",
+        "hu": "Parkoljon a központban, és fedezze fel gyalog az első látnivalócsoportot: a Miloš-emlékművet, a katedrálist és a Nemzeti Múzeumot. Ezután üljön autóba egy rövid útra a Ljubičevo méneshez. A délután a csúcspont: egy hosszabb út az ókori római városhoz, Viminaciumhoz. Töltsön ott órákat. Visszafelé álljon meg a Čačalica Parkban, hogy egy panorámás kilátással zárja a napot Požarevac felett.",
+        "ro": "Parcați în centru și explorați primul grup de atracții pe jos: monumentul lui Miloš, catedrala și Muzeul Național. Apoi, urcați-vă în mașină pentru o scurtă călătorie la Herghelia Ljubičevo. După-amiaza este punctul culminant: o călătorie mai lungă spre orașul roman antic Viminacium. Petreceți ore întregi acolo. La întoarcere, opriți-vă în Parcul Čačalica pentru a încheia ziua cu o vedere panoramică asupra orașului Požarevac.",
+        "en": "Park in the center and explore the first cluster on foot: the Miloš monument, the cathedral, and the National Museum. Then, get in the car for a short drive to the Ljubičevo Stud Farm. The afternoon is the highlight: a longer drive to the ancient Roman city of Viminacium. Spend hours there. On your way back, stop at Čačalica Park to end the day with a panoramic view over Požarevac."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Viminacium",
+            "tip": "Essen Sie in der Nähe der archäologischen Stätte zu Mittag."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein klassisches serbisches gegrilltes Fleischgericht, das man überall findet."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Besuchen Sie eine traditionelle Kafana für ein authentisches kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Viminaciumban",
+            "tip": "Ebédeljen a régészeti lelőhely közelében."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Klasszikus szerb grillezett húsétel, mindenhol kapható."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Látogasson el egy hagyományos kafanába egy autentikus gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Viminacium",
+            "tip": "Luați prânzul lângă situl arheologic."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Un fel de mâncare clasic sârbesc din carne la grătar, găsit peste tot."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Vizitați o kafana tradițională pentru o experiență culinară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Viminacium",
+            "tip": "Have lunch near the archaeological site."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A classic Serbian grilled meat dish, found everywhere."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Visit a traditional Kafana for an authentic culinary experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Gestüt",
+            "tip": "Beobachten Sie die Pferde in einer friedlichen, ländlichen Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Donauufer",
+            "tip": "Ein kurzer Ausflug zum nahegelegenen Donauufer für Ruhe und Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Ménes",
+            "tip": "Figyelje a lovakat egy békés, vidéki környezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Egy rövid kirándulás a közeli Duna-partra a csendért és a tágas térért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Čačalica",
+            "tip": "Găsiți o bancă liniștită cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herghelia Ljubičevo",
+            "tip": "Priviți caii într-un cadru rural și pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "O scurtă excursie pe malul Dunării din apropiere pentru liniște și spațiu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Find a quiet bench overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Stud Farm",
+            "tip": "Watch the horses in a peaceful, rural setting.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Danube Riverbank",
+            "tip": "A short trip to the nearby Danube riverbank for peace and space.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viminacium Souvenirladen",
+            "tip": "Kaufen Sie einzigartige Repliken und Bücher über römische Geschichte."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viminacium Ajándékbolt",
+            "tip": "Vásároljon egyedi másolatokat és könyveket a római történelemről."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Viminacium",
+            "tip": "Cumpărați replici unice și cărți despre istoria romană."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viminacium Souvenir Shop",
+            "tip": "Buy unique replicas and books on Roman history."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viminacium ist groß, tragen Sie bequeme Schuhe.",
+          "Prüfen Sie, ob für das Gestüt eine Reservierung erforderlich ist.",
+          "Tanken Sie vor der Fahrt nach Viminacium."
+        ],
+        "hu": [
+          "Viminacium nagy területen fekszik, viseljen kényelmes cipőt.",
+          "Ellenőrizze, hogy a ménes látogatásához szükséges-e előzetes bejelentkezés.",
+          "Tankoljon, mielőtt elindul Viminaciumba."
+        ],
+        "ro": [
+          "Viminacium este mare, purtați încălțăminte confortabilă.",
+          "Verificați dacă este necesară o rezervare pentru herghelie.",
+          "Alimentați cu combustibil înainte de a pleca spre Viminacium."
+        ],
+        "en": [
+          "Viminacium is large, wear comfortable shoes.",
+          "Check if the stud farm requires a reservation.",
+          "Fuel up before heading to Viminacium."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Zentralbushaltestelle",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            44.6225,
+            21.1855
+          ],
+          "category": "travel",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Kezdje itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Începeți de aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Start here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale & Miloš-Statue",
+            "hu": "Katedrális & Miloš-szobor",
+            "ro": "Catedrala & Statuia lui Miloš",
+            "en": "Cathedral & Miloš Statue"
+          },
+          "coords": [
+            44.6218,
+            21.187
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die beiden nahegelegenen Wahrzeichen.",
+            "hu": "Fedezze fel a két közeli nevezetességet.",
+            "ro": "Explorați cele două repere din apropiere.",
+            "en": "Explore the two nearby landmarks."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Milena Pavlović Barilli Galerie",
+            "hu": "Milena Pavlović Barilli Galéria",
+            "ro": "Galeria Milena Pavlović Barilli",
+            "en": "Milena Pavlović Barilli Gallery"
+          },
+          "coords": [
+            44.6185,
+            21.1895
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zur Heimat der berühmten Künstlerin.",
+            "hu": "Rövid séta a híres művész otthonához.",
+            "ro": "O scurtă plimbare până la casa faimoasei artiste.",
+            "en": "A short walk to the home of the famous artist."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Tulba Ethno-Park",
+            "hu": "Tulba Néprajzi Park",
+            "ro": "Parcul Etnografic Tulba",
+            "en": "Tulba Ethno-Park"
+          },
+          "coords": [
+            44.6288,
+            21.2011
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in den nördlichen Teil der Stadt.",
+            "hu": "Menjen busszal a város északi részébe.",
+            "ro": "Luați un autobuz spre partea de nord a orașului.",
+            "en": "Take a bus to the northern part of the city."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Nationalmuseum Požarevac",
+            "hu": "Požarevaci Nemzeti Múzeum",
+            "ro": "Muzeul Național Požarevac",
+            "en": "National Museum Požarevac"
+          },
+          "coords": [
+            44.6198,
+            21.1889
+          ],
+          "category": "museums",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für das Hauptmuseum.",
+            "hu": "Utazzon vissza busszal a központba a fő múzeumért.",
+            "ro": "Întoarceți-vă cu autobuzul în centru pentru muzeul principal.",
+            "en": "Take a bus back to the center for the main museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Čačalica Park",
+            "hu": "Čačalica Park",
+            "ro": "Parcul Čačalica",
+            "en": "Čačalica Park"
+          },
+          "coords": [
+            44.615,
+            21.205
+          ],
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "category": "parks/promenades/beaches",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang zum Park für eine tolle Aussicht.",
+            "hu": "Zárja a napot egy sétával a parkba a remek kilátásért.",
+            "ro": "Încheiați ziua cu o plimbare până la parc pentru o priveliște minunată.",
+            "en": "End the day with a walk up to the park for a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an einer zentralen Bushaltestelle und erkunden Sie den ersten Cluster – Kathedrale, Miloš-Statue und die Barilli-Galerie – zu Fuß. Nehmen Sie dann einen Bus zum Tulba Ethno-Park. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Zentrum, um das Nationalmuseum zu besuchen. Beenden Sie Ihren Tag mit einem belebenden Spaziergang zum Čačalica Park, um die Aussicht zu genießen.",
+        "hu": "Kezdje egy központi buszmegállónál, és fedezze fel gyalog az első látnivalócsoportot – a katedrálist, a Miloš-szobrot és a Barilli Galériát. Ezután szálljon buszra a Tulba Néprajzi Parkhoz. Délután egy másik busz visszaviszi a központba, hogy meglátogassa a Nemzeti Múzeumot. Zárja a napot egy frissítő sétával a Čačalica Parkba a kilátásért.",
+        "ro": "Începeți la o stație centrală de autobuz și explorați primul grup de atracții pe jos – catedrala, statuia lui Miloš și Galeria Barilli. Apoi, luați un autobuz către Parcul Etnografic Tulba. După-amiaza, un alt autobuz vă va duce înapoi în centru pentru a vizita Muzeul Național. Încheiați ziua cu o plimbare revigorantă până la Parcul Čačalica pentru a vă bucura de priveliște.",
+        "en": "Start at a central bus stop and explore the first cluster—cathedral, Miloš statue, and the Barilli gallery—on foot. Then, take a bus to the Tulba Ethno-Park. In the afternoon, another bus will take you back to the center to visit the National Museum. End your day with an invigorating walk up to Čačalica Park to enjoy the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Probieren Sie dieses lokale Gebäck, eine Spezialität der Stadt."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Ein klassisches serbisches gegrilltes Fleischgericht, das man überall findet."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Besuchen Sie eine traditionelle Kafana für ein authentisches kulinarisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Kóstolja meg ezt a helyi süteményt, a város specialitását."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Klasszikus szerb grillezett húsétel, mindenhol kapható."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Látogasson el egy hagyományos kafanába egy autentikus gasztronómiai élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Încercați acest produs de patiserie local, o specialitate a orașului."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "Un fel de mâncare clasic sârbesc din carne la grătar, găsit peste tot."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Vizitați o kafana tradițională pentru o experiență culinară autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Požarevački mir",
+            "tip": "Try this local pastry, a specialty of the city."
+          },
+          {
+            "name": "Pljeskavica",
+            "tip": "A classic Serbian grilled meat dish, found everywhere."
+          },
+          {
+            "name": "Kafana",
+            "tip": "Visit a traditional Kafana for an authentic culinary experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Gestüt",
+            "tip": "Beobachten Sie die Pferde in einer friedlichen, ländlichen Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Donauufer",
+            "tip": "Ein kurzer Ausflug zum nahegelegenen Donauufer für Ruhe und Weite.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Ménes",
+            "tip": "Figyelje a lovakat egy békés, vidéki környezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duna-part",
+            "tip": "Egy rövid kirándulás a közeli Duna-partra a csendért és a tágas térért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Čačalica",
+            "tip": "Găsiți o bancă liniștită cu vedere la oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Herghelia Ljubičevo",
+            "tip": "Priviți caii într-un cadru rural și pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Dunării",
+            "tip": "O scurtă excursie pe malul Dunării din apropiere pentru liniște și spațiu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Čačalica Park",
+            "tip": "Find a quiet bench overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ljubičevo Stud Farm",
+            "tip": "Watch the horses in a peaceful, rural setting.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Danube Riverbank",
+            "tip": "A short trip to the nearby Danube riverbank for peace and space.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Käsesorten."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Suchen Sie nach handgefertigten Gegenständen und Nachbildungen von Viminacium-Artefakten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi sajtokat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Keressen kézműves termékeket és a Viminacium leletek másolatait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Căutați obiecte de artizanat și replici ale artefactelor de la Viminacium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local cheeses."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Look for handmade crafts and replicas of Viminacium artifacts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Überprüfen Sie die Busfahrpläne im Voraus.",
+          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten zu Fuß zu gehen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra a legjobb ár-érték arány érdekében.",
+          "Előre ellenőrizze a buszmenetrendet.",
+          "Készüljön fel a buszmegállók és a látnivalók közötti gyaloglásra."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru cel mai bun raport calitate-preț.",
+          "Verificați în avans orarele autobuzelor.",
+          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și obiectivele turistice."
+        ],
+        "en": [
+          "Buy a day pass for the bus for the best value.",
+          "Check bus schedules in advance.",
+          "Be prepared for some walking between bus stops and the sights."
+        ]
+      }
+    }
+  }
+}

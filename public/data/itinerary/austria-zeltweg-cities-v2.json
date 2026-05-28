@@ -1,0 +1,1220 @@
+{
+  "city_id": "austria-zeltweg-cities-v2",
+  "anchor": {
+    "name": "Zeltweg",
+    "coords": [
+      14.7461,
+      47.1953
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Stadtpfarrkirche Zeltweg",
+            "hu": "Zeltwegi plébániatemplom",
+            "ro": "Biserica parohială Zeltweg",
+            "en": "Zeltweg Parish Church"
+          },
+          "coords": [
+            14.7465,
+            47.195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beachten Sie die modernen Buntglasfenster, die einen Kontrast zur traditionellen Architektur bilden.",
+            "hu": "Figyelje meg a modern ólomüveg ablakokat, amelyek kontrasztot alkotnak a hagyományos építészettel.",
+            "ro": "Observați vitraliile moderne, care contrastează cu arhitectura tradițională.",
+            "en": "Notice the modern stained glass windows, which contrast with the traditional architecture."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            14.746,
+            47.1945
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein Ort der stillen Einkehr, um über die Geschichte der Stadt nachzudenken.",
+            "hu": "Egy csendes hely az elmélkedésre a város történelméről.",
+            "ro": "Un loc de reflecție tăcută asupra istoriei orașului.",
+            "en": "A place for quiet reflection on the town's history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zeltweger Stadtpark",
+            "hu": "Zeltwegi Városi Park",
+            "ro": "Parcul orașului Zeltweg",
+            "en": "Zeltweg City Park"
+          },
+          "coords": [
+            14.748,
+            47.1965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ideal für eine kurze Pause oder ein Picknick. Halten Sie Ausschau nach lokalen Veranstaltungen.",
+            "hu": "Ideális egy rövid pihenőre vagy piknikre. Keresse a helyi rendezvényeket.",
+            "ro": "Ideal pentru o scurtă pauză sau un picnic. Fiți atenți la evenimentele locale.",
+            "en": "Ideal for a short break or a picnic. Look out for local events."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Sportzentrum Zeltweg",
+            "hu": "Zeltwegi Sportközpont",
+            "ro": "Centrul sportiv Zeltweg",
+            "en": "Zeltweg Sports Center"
+          },
+          "coords": [
+            14.74,
+            47.192
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_4lang": {
+            "de": "Hier findet man oft mehr als nur Sport – prüfen Sie das Programm auf kulturelle Veranstaltungen.",
+            "hu": "Itt gyakran többet talál, mint sportot – ellenőrizze a programot kulturális eseményekért.",
+            "ro": "Adesea găsiți mai mult decât sport aici – verificați programul pentru evenimente culturale.",
+            "en": "You'll often find more than just sports here – check the schedule for cultural events."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Murtalbahn Station",
+            "hu": "Murtalbahn állomás",
+            "ro": "Gara Murtalbahn",
+            "en": "Murtalbahn Station"
+          },
+          "coords": [
+            14.751,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Auch wenn Sie nicht mitfahren, ist die historische Atmosphäre der Schmalspurbahn ein Erlebnis.",
+            "hu": "Még ha nem is utazik vele, a keskeny nyomtávú vasút történelmi hangulata egy élmény.",
+            "ro": "Chiar dacă nu călătoriți cu el, atmosfera istorică a căii ferate cu ecartament îngust este o experiență.",
+            "en": "Even if you don't take a ride, the historical atmosphere of the narrow-gauge railway is an experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Zeltweg bei der modernen Stadtpfarrkirche und dem besinnlichen Kriegerdenkmal. Von hier aus ist es nur ein kurzer Spaziergang zur grünen Lunge der Stadt, dem Stadtpark. Am Mittag entdecken Sie das Sportzentrum, das oft unerwartete kulturelle Einblicke bietet. Der Nachmittag steht im Zeichen der Industriegeschichte mit einem Besuch der charmanten Murtalbahn-Station. Ein kompakter Spaziergang, der Ihnen das Wesen von Zeltweg näherbringt.",
+        "hu": "Kezdje a napot Zeltweg szívében a modern plébániatemplomnál és az elgondolkodtató háborús emlékműnél. Innen csak egy rövid séta a város zöld tüdeje, a Városi Park. Délben fedezze fel a Sportközpontot, amely gyakran váratlan kulturális betekintést nyújt. A délután az ipari történelem jegyében telik a bájos Murtalbahn állomás meglátogatásával. Egy kompakt séta, amely közelebb hozza Önhöz Zeltweg lényegét.",
+        "ro": "Începeți ziua în inima orașului Zeltweg la biserica parohială modernă și la monumentul comemorativ de război. De aici, este doar o scurtă plimbare până la plămânul verde al orașului, parcul orașului. La prânz, descoperiți centrul sportiv, care oferă adesea perspective culturale neașteptate. După-amiaza este dedicată istoriei industriale, cu o vizită la fermecătoarea gară Murtalbahn. O plimbare compactă care vă aduce mai aproape de esența orașului Zeltweg.",
+        "en": "Start your day in the heart of Zeltweg at the modern parish church and the contemplative war memorial. From here, it's just a short walk to the city's green lung, the Stadtpark. At noon, discover the sports center, which often offers unexpected cultural insights. The afternoon is dedicated to industrial history with a visit to the charming Murtalbahn station. A compact walk that brings you closer to the essence of Zeltweg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Murtaler Steirerkäse",
+            "tip": "Ein würziger, bröseliger Käse, der oft mit Butter und Zwiebeln serviert wird. Ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein aromatischer Schnaps aus den Zapfen der Zirbelkiefer. Perfekt als Digestif."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditionelles Gasthaus im Zentrum, bekannt für seine gutbürgerliche steirische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murtali stájer sajt",
+            "tip": "Fűszeres, morzsálódó sajt, amelyet gyakran vajjal és hagymával tálalnak. A sajtkedvelőknek kötelező."
+          },
+          {
+            "name": "Círmetfenyő pálinka",
+            "tip": "Aromás pálinka a cirbolyafenyő tobozából. Tökéletes emésztést segítő italként."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Hagyományos fogadó a központban, amely a polgári stájer konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză stiriană din Murtal",
+            "tip": "O brânză picantă și fărâmicioasă, adesea servită cu unt și ceapă. O necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Rachiu de pin de piatră",
+            "tip": "Un rachiu aromat din conurile de pin de piatră. Perfect ca digestiv."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Han tradițional în centru, cunoscut pentru bucătăria sa stiriană burgheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Murtal Styrian Cheese",
+            "tip": "A spicy, crumbly cheese often served with butter and onions. A must for cheese lovers."
+          },
+          {
+            "name": "Stone Pine Schnapps",
+            "tip": "An aromatic schnapps made from the cones of the stone pine. Perfect as a digestive."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditional inn in the center, known for its home-style Styrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mur",
+            "tip": "Ein Spaziergang entlang des Flusses Mur bietet eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank im hinteren Teil des Parks, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mura partja",
+            "tip": "Egy séta a Mura folyó mentén csendes kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Városi Parkban",
+            "tip": "Találjon egy csendes padot a park hátsó részében, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mur",
+            "tip": "O plimbare de-a lungul râului Mur oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită în spatele parcului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mur River",
+            "tip": "A walk along the Mur river offers a quiet escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the City Park",
+            "tip": "Find a quiet bench in the back of the park to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Zeltweg",
+            "tip": "Besuchen Sie den lokalen Wochenmarkt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeltwegi heti piac",
+            "tip": "Látogasson el a helyi heti piacra friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Zeltweg",
+            "tip": "Vizitați piața săptămânală locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeltweg Weekly Market",
+            "tip": "Visit the local weekly market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der ganze Tag zu Fuß verbracht wird.",
+          "Ein kleiner Rucksack mit Wasser und Snacks ist empfehlenswert.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten, insbesondere für das Sportzentrum und die Kirche."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az egész napot gyaloglással tölti.",
+          "Javasolt egy kis hátizsák vízzel és rágcsálnivalókkal.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Ellenőrizze a nyitvatartási időket, különösen a Sportközpont és a templom esetében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece întreaga zi se va petrece pe jos.",
+          "Este recomandat un rucsac mic cu apă și gustări.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați orele de deschidere, în special pentru centrul sportiv și biserică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the whole day will be spent on foot.",
+          "A small backpack with water and snacks is recommended.",
+          "Most sights in the center are easily accessible on foot.",
+          "Check opening times, especially for the sports center and the church."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Stadtpfarrkirche Zeltweg",
+            "hu": "Zeltwegi plébániatemplom",
+            "ro": "Biserica parohială Zeltweg",
+            "en": "Zeltweg Parish Church"
+          },
+          "coords": [
+            14.7465,
+            47.195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihre Tour im Herzen der Stadt.",
+            "hu": "Kezdje a túrát a város szívében.",
+            "ro": "Începeți turul în inima orașului.",
+            "en": "Start your tour in the heart of the city."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zeltweger Stadtpark",
+            "hu": "Zeltwegi Városi Park",
+            "ro": "Parcul orașului Zeltweg",
+            "en": "Zeltweg City Park"
+          },
+          "coords": [
+            14.748,
+            47.1965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Eine kurze Fahrt durch den Park, um die Natur zu genießen, bevor es weitergeht.",
+            "hu": "Egy rövid tekerés a parkon keresztül, hogy élvezze a természetet, mielőtt továbbmenne.",
+            "ro": "O scurtă plimbare cu bicicleta prin parc pentru a vă bucura de natură înainte de a merge mai departe.",
+            "en": "A short ride through the park to enjoy nature before moving on."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Farrach",
+            "hu": "Farrachi kastély",
+            "ro": "Castelul Farrach",
+            "en": "Farrach Palace"
+          },
+          "coords": [
+            14.759,
+            47.185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Die Fahrt dorthin ist angenehm und das Schloss selbst ist ein beeindruckendes Fotomotiv.",
+            "hu": "Az odavezető út kellemes, és maga a kastély lenyűgöző fotótéma.",
+            "ro": "Drumul până acolo este plăcut, iar castelul însuși este un subiect impresionant pentru fotografii.",
+            "en": "The ride there is pleasant and the palace itself is an impressive photo opportunity."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Murtalbahn Station",
+            "hu": "Murtalbahn állomás",
+            "ro": "Gara Murtalbahn",
+            "en": "Murtalbahn Station"
+          },
+          "coords": [
+            14.751,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die nostalgische Atmosphäre der alten Züge.",
+            "hu": "Tegye le a kerékpárt, és élvezze a régi vonatok nosztalgikus hangulatát.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de atmosfera nostalgică a trenurilor vechi.",
+            "en": "Park your bike and enjoy the nostalgic atmosphere of the old trains."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Militärluftfahrtmuseum",
+            "hu": "Katonai Repülési Múzeum",
+            "ro": "Muzeul Aviației Militare",
+            "en": "Military Aviation Museum"
+          },
+          "coords": [
+            14.789,
+            47.198
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Der Höhepunkt für Technikfans. Nehmen Sie sich viel Zeit, es gibt draußen und drinnen viel zu sehen.",
+            "hu": "A technika rajongóinak csúcspontja. Szánjon rá sok időt, rengeteg látnivaló van kint és bent is.",
+            "ro": "Punctul culminant pentru pasionații de tehnologie. Luați-vă mult timp, sunt multe de văzut atât afară, cât și înăuntru.",
+            "en": "The highlight for technology enthusiasts. Take plenty of time, there's a lot to see both outside and inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie Ihre Tour im Zentrum von Zeltweg. Nach einem kurzen Besuch in der Kirche und einer Runde durch den Stadtpark führt Sie der Weg zum eleganten Schloss Farrach. Mittags tauchen Sie in die Welt der Eisenbahn an der Murtalbahn-Station ein. Der Nachmittag ist dann ganz der Luftfahrt gewidmet, mit einem ausgiebigen Besuch im beeindruckenden Militärluftfahrtmuseum. Eine Tour, die Natur, Geschichte und Technik perfekt verbindet.",
+        "hu": "Pattanjon kerékpárra, és kezdje a túrát Zeltweg központjában. Egy rövid templomlátogatás és egy kör a városi parkban után az út az elegáns Farrach-kastélyhoz vezet. Délben merüljön el a vasút világában a Murtalbahn állomáson. A délután teljes egészében a repülésé, egy alapos látogatással a lenyűgöző Katonai Repülési Múzeumban. Egy túra, amely tökéletesen ötvözi a természetet, a történelmet és a technikát.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în centrul orașului Zeltweg. După o scurtă vizită la biserică și o tură prin parcul orașului, drumul vă duce la elegantul Castel Farrach. La prânz, pătrundeți în lumea căilor ferate la gara Murtalbahn. După-amiaza este apoi dedicată în întregime aviației, cu o vizită extinsă la impresionantul Muzeu al Aviației Militare. Un tur care combină perfect natura, istoria și tehnologia.",
+        "en": "Get on your bike and start your tour in the center of Zeltweg. After a short visit to the church and a round through the city park, the path leads you to the elegant Farrach Palace. At noon, immerse yourself in the world of railways at the Murtalbahn station. The afternoon is then entirely dedicated to aviation, with an extensive visit to the impressive Military Aviation Museum. A tour that perfectly combines nature, history, and technology."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Murtaler Steirerkäse",
+            "tip": "Ein würziger, bröseliger Käse, der oft mit Butter und Zwiebeln serviert wird. Ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein aromatischer Schnaps aus den Zapfen der Zirbelkiefer. Perfekt als Digestif."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditionelles Gasthaus im Zentrum, bekannt für seine gutbürgerliche steirische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murtali stájer sajt",
+            "tip": "Fűszeres, morzsálódó sajt, amelyet gyakran vajjal és hagymával tálalnak. A sajtkedvelőknek kötelező."
+          },
+          {
+            "name": "Círmetfenyő pálinka",
+            "tip": "Aromás pálinka a cirbolyafenyő tobozából. Tökéletes emésztést segítő italként."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Hagyományos fogadó a központban, amely a polgári stájer konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză stiriană din Murtal",
+            "tip": "O brânză picantă și fărâmicioasă, adesea servită cu unt și ceapă. O necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Rachiu de pin de piatră",
+            "tip": "Un rachiu aromat din conurile de pin de piatră. Perfect ca digestiv."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Han tradițional în centru, cunoscut pentru bucătăria sa stiriană burgheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Murtal Styrian Cheese",
+            "tip": "A spicy, crumbly cheese often served with butter and onions. A must for cheese lovers."
+          },
+          {
+            "name": "Stone Pine Schnapps",
+            "tip": "An aromatic schnapps made from the cones of the stone pine. Perfect as a digestive."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditional inn in the center, known for its home-style Styrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mur",
+            "tip": "Ein Spaziergang entlang des Flusses Mur bietet eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank im hinteren Teil des Parks, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mura partja",
+            "tip": "Egy séta a Mura folyó mentén csendes kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Városi Parkban",
+            "tip": "Találjon egy csendes padot a park hátsó részében, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mur",
+            "tip": "O plimbare de-a lungul râului Mur oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită în spatele parcului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mur River",
+            "tip": "A walk along the Mur river offers a quiet escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the City Park",
+            "tip": "Find a quiet bench in the back of the park to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Zeltweg",
+            "tip": "Besuchen Sie den lokalen Wochenmarkt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeltwegi heti piac",
+            "tip": "Látogasson el a helyi heti piacra friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Zeltweg",
+            "tip": "Vizitați piața săptămânală locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeltweg Weekly Market",
+            "tip": "Visit the local weekly market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Fahrradschloss ist unerlässlich.",
+          "Der Murradweg ist eine beliebte und gut ausgebaute Route, die durch die Nähe von Zeltweg führt.",
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "A kerékpárzár elengedhetetlen.",
+          "A Mura menti kerékpárút egy népszerű és jól kiépített útvonal, amely Zeltweg közelében halad el.",
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "O încuietoare pentru bicicletă este esențială.",
+          "Pista de biciclete de pe Mur este un traseu popular și bine dezvoltat, care trece prin apropierea orașului Zeltweg.",
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "O cască este puternic recomandată."
+        ],
+        "en": [
+          "A bike lock is essential.",
+          "The Mur Cycle Path is a popular and well-maintained route that passes near Zeltweg.",
+          "Check your tire pressure before you leave.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            14.747,
+            47.194
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie hier, um das erste Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első klasztert.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Stadtpfarrkirche & Kriegerdenkmal",
+            "hu": "Plébániatemplom és háborús emlékmű",
+            "ro": "Biserica parohială și Monumentul Eroilor",
+            "en": "Parish Church & War Memorial"
+          },
+          "coords": [
+            14.7465,
+            47.195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zwei wichtige Wahrzeichen, die direkt nebeneinander liegen.",
+            "hu": "Két fontos látnivaló, amelyek közvetlenül egymás mellett találhatók.",
+            "ro": "Două repere importante situate chiar unul lângă celălalt.",
+            "en": "Two important landmarks located right next to each other."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Zeltweger Stadtpark",
+            "hu": "Zeltwegi Városi Park",
+            "ro": "Parcul orașului Zeltweg",
+            "en": "Zeltweg City Park"
+          },
+          "coords": [
+            14.748,
+            47.1965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein entspannter Spaziergang nach der Besichtigung der Kirche.",
+            "hu": "Egy pihentető séta a templom megtekintése után.",
+            "ro": "O plimbare relaxantă după vizitarea bisericii.",
+            "en": "A relaxing walk after visiting the church."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Farrach",
+            "hu": "Farrachi kastély",
+            "ro": "Castelul Farrach",
+            "en": "Farrach Palace"
+          },
+          "coords": [
+            14.759,
+            47.185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.7,
+          "tip_4lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Das Schloss hat oft ein gutes Restaurant für die Mittagspause.",
+            "hu": "Vezessen a következő klaszterhez. A kastélyban gyakran van egy jó étterem az ebédidőre.",
+            "ro": "Conduceți la următorul cluster. Castelul are adesea un restaurant bun pentru pauza de prânz.",
+            "en": "Drive to the next cluster. The palace often has a good restaurant for a lunch break."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Militärluftfahrtmuseum",
+            "hu": "Katonai Repülési Múzeum",
+            "ro": "Muzeul Aviației Militare",
+            "en": "Military Aviation Museum"
+          },
+          "coords": [
+            14.789,
+            47.198
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Das größte Highlight. Es gibt ausreichend Parkplätze direkt vor dem Museum.",
+            "hu": "A legnagyobb attrakció. Elegendő parkolóhely van közvetlenül a múzeum előtt.",
+            "ro": "Cel mai mare punct de atracție. Există o parcare amplă chiar în fața muzeului.",
+            "en": "The biggest highlight. There is ample parking right in front of the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fliegerhorst Hinterstoisser (Aussichtspunkt)",
+            "hu": "Hinterstoisser légibázis (kilátópont)",
+            "ro": "Baza aeriană Hinterstoisser (punct de observare)",
+            "en": "Hinterstoisser Air Base (Viewpoint)"
+          },
+          "coords": [
+            14.785,
+            47.2
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Vom Museum aus können Sie einen Blick auf den aktiven Teil des Fliegerhorsts werfen.",
+            "hu": "A múzeumból bepillantást nyerhet a légibázis aktív részébe.",
+            "ro": "De la muzeu puteți arunca o privire la partea activă a bazei aeriene.",
+            "en": "From the museum, you can get a glimpse of the active part of the air base."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Zeltweg in Clustern. Parken Sie im Zentrum und entdecken Sie Kirche, Denkmal und Park zu Fuß. Nach diesem historischen Vormittag fahren Sie zum eleganten Schloss Farrach, ideal für eine Mittagspause. Der Nachmittag gehört ganz der Faszination des Fliegens: Sie fahren zum Militärluftfahrtmuseum und werfen von dort aus einen Blick auf den aktiven Fliegerhorst. Diese Tour kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
+        "hu": "Autóval klaszterekben fedezheti fel Zeltweget. Parkoljon a központban, és fedezze fel gyalog a templomot, az emlékművet és a parkot. A történelmi délelőtt után vezessen az elegáns Farrach-kastélyhoz, amely ideális egy ebédszünetre. A délután teljes egészében a repülés lenyűgöző világáé: elvezet a Katonai Repülési Múzeumba, és onnan bepillantást nyerhet az aktív légibázisra. Ez a túra ötvözi az autó rugalmasságát a pihentető sétákkal.",
+        "ro": "Cu mașina, explorați Zeltweg în grupuri. Parcați în centru și descoperiți biserica, monumentul și parcul pe jos. După această dimineață istorică, conduceți la elegantul Castel Farrach, ideal pentru o pauză de prânz. După-amiaza este dedicată în întregime fascinației zborului: conduceți la Muzeul Aviației Militare și de acolo aruncați o privire la baza aeriană activă. Acest tur combină flexibilitatea mașinii cu plimbări relaxante.",
+        "en": "Explore Zeltweg in clusters by car. Park in the center and discover the church, memorial, and park on foot. After this historical morning, drive to the elegant Farrach Palace, ideal for a lunch break. The afternoon is all about the fascination of flying: you drive to the Military Aviation Museum and from there get a glimpse of the active air base. This tour combines the flexibility of the car with relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Murtaler Steirerkäse",
+            "tip": "Ein würziger, bröseliger Käse, der oft mit Butter und Zwiebeln serviert wird. Ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein aromatischer Schnaps aus den Zapfen der Zirbelkiefer. Perfekt als Digestif."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditionelles Gasthaus im Zentrum, bekannt für seine gutbürgerliche steirische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murtali stájer sajt",
+            "tip": "Fűszeres, morzsálódó sajt, amelyet gyakran vajjal és hagymával tálalnak. A sajtkedvelőknek kötelező."
+          },
+          {
+            "name": "Círmetfenyő pálinka",
+            "tip": "Aromás pálinka a cirbolyafenyő tobozából. Tökéletes emésztést segítő italként."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Hagyományos fogadó a központban, amely a polgári stájer konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză stiriană din Murtal",
+            "tip": "O brânză picantă și fărâmicioasă, adesea servită cu unt și ceapă. O necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Rachiu de pin de piatră",
+            "tip": "Un rachiu aromat din conurile de pin de piatră. Perfect ca digestiv."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Han tradițional în centru, cunoscut pentru bucătăria sa stiriană burgheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Murtal Styrian Cheese",
+            "tip": "A spicy, crumbly cheese often served with butter and onions. A must for cheese lovers."
+          },
+          {
+            "name": "Stone Pine Schnapps",
+            "tip": "An aromatic schnapps made from the cones of the stone pine. Perfect as a digestive."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditional inn in the center, known for its home-style Styrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mur",
+            "tip": "Ein Spaziergang entlang des Flusses Mur bietet eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank im hinteren Teil des Parks, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mura partja",
+            "tip": "Egy séta a Mura folyó mentén csendes kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Városi Parkban",
+            "tip": "Találjon egy csendes padot a park hátsó részében, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mur",
+            "tip": "O plimbare de-a lungul râului Mur oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită în spatele parcului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mur River",
+            "tip": "A walk along the Mur river offers a quiet escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the City Park",
+            "tip": "Find a quiet bench in the back of the park to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Zeltweg",
+            "tip": "Besuchen Sie den lokalen Wochenmarkt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeltwegi heti piac",
+            "tip": "Látogasson el a helyi heti piacra friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Zeltweg",
+            "tip": "Vizitați piața săptămânală locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeltweg Weekly Market",
+            "tip": "Visit the local weekly market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren im Zentrum.",
+          "Die Cluster-Walking-Philosophie spart Zeit und Nerven bei der Parkplatzsuche.",
+          "Ein Navigationssystem ist hilfreich, um zwischen den Clustern zu wechseln.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders an Wochentagen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra a központban.",
+          "A klaszter-séta filozófia időt és idegeket takarít meg a parkolóhely-keresésnél.",
+          "A navigációs rendszer hasznos a klaszterek közötti váltáshoz.",
+          "Szánjon elegendő időt a forgalomra, különösen hétköznapokon."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centru.",
+          "Filozofia plimbării în clustere economisește timp și nervi la căutarea unui loc de parcare.",
+          "Un sistem de navigație este util pentru a comuta între clustere.",
+          "Planificați suficient timp pentru trafic, în special în zilele lucrătoare."
+        ],
+        "en": [
+          "Pay attention to parking fees in the center.",
+          "The cluster-walking philosophy saves time and nerves when looking for a parking space.",
+          "A navigation system is helpful for switching between clusters.",
+          "Allow enough time for traffic, especially on weekdays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Zeltweg Hauptplatz",
+            "hu": "Zeltweg főtér",
+            "ro": "Piața principală Zeltweg",
+            "en": "Zeltweg Main Square"
+          },
+          "coords": [
+            14.746,
+            47.1955
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Starten Sie an der zentralen Bushaltestelle.",
+            "hu": "Kezdje a központi buszmegállónál.",
+            "ro": "Începeți de la stația centrală de autobuz.",
+            "en": "Start at the central bus stop."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Stadtpfarrkirche & Stadtpark",
+            "hu": "Plébániatemplom és Városi Park",
+            "ro": "Biserica parohială și Parcul Orașului",
+            "en": "Parish Church & City Park"
+          },
+          "coords": [
+            14.747,
+            47.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Erkunden Sie das erste Cluster zu Fuß.",
+            "hu": "Fedezze fel gyalog az első klasztert.",
+            "ro": "Explorați primul cluster pe jos.",
+            "en": "Explore the first cluster on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Schloss Farrach",
+            "hu": "Farrachi kastély",
+            "ro": "Castelul Farrach",
+            "en": "Farrach Palace"
+          },
+          "coords": [
+            14.759,
+            47.185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus zum Schloss. Planen Sie Zeit für das Mittagessen in der Nähe ein.",
+            "hu": "Menjen busszal a kastélyhoz. Tervezzen időt a közeli ebédre.",
+            "ro": "Luați autobuzul până la castel. Planificați timp pentru prânz în apropiere.",
+            "en": "Take the bus to the palace. Plan time for lunch nearby."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Militärluftfahrtmuseum",
+            "hu": "Katonai Repülési Múzeum",
+            "ro": "Muzeul Aviației Militare",
+            "en": "Military Aviation Museum"
+          },
+          "coords": [
+            14.789,
+            47.198
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Die Hauptattraktion des Nachmittags, bequem mit dem Bus erreichbar.",
+            "hu": "A délután fő attrakciója, kényelmesen megközelíthető busszal.",
+            "ro": "Atracția principală a după-amiezii, ușor accesibilă cu autobuzul.",
+            "en": "The main attraction of the afternoon, easily accessible by bus."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Murtalbahn Station",
+            "hu": "Murtalbahn állomás",
+            "ro": "Gara Murtalbahn",
+            "en": "Murtalbahn Station"
+          },
+          "coords": [
+            14.751,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die Tour abzurunden.",
+            "hu": "Egy rövid séta a múzeumtól a túra befejezéseként.",
+            "ro": "O scurtă plimbare de la muzeu pentru a încheia turul.",
+            "en": "A short walk from the museum to round off the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Zeltweg mit öffentlichen Verkehrsmitteln. Beginnen Sie am Hauptplatz und erkunden Sie das Stadtzentrum zu Fuß. Ein Bus bringt Sie dann bequem zum Schloss Farrach für eine historische und kulinarische Mittagspause. Der Nachmittag ist der Technik gewidmet: Fahren Sie mit dem Bus zum Militärluftfahrtmuseum und beenden Sie den Tag mit einem kurzen Spaziergang zur nostalgischen Murtalbahn. Eine entspannte und umweltfreundliche Art, die Stadt zu erleben.",
+        "hu": "Fedezze fel Zeltweget tömegközlekedéssel. Kezdje a főtéren, és fedezze fel gyalog a városközpontot. Egy busz kényelmesen elviszi a Farrach-kastélyhoz egy történelmi és kulináris ebédszünetre. A délután a technikáé: utazzon busszal a Katonai Repülési Múzeumba, és fejezze be a napot egy rövid sétával a nosztalgikus Murtalbahnhoz. Egy pihentető és környezetbarát módja a város megismerésének.",
+        "ro": "Descoperiți Zeltweg cu transportul public. Începeți din piața principală și explorați centrul orașului pe jos. Un autobuz vă va duce apoi confortabil la Castelul Farrach pentru o pauză de prânz istorică și culinară. După-amiaza este dedicată tehnologiei: luați autobuzul până la Muzeul Aviației Militare și încheiați ziua cu o scurtă plimbare până la nostalgica Murtalbahn. Un mod relaxant și ecologic de a experimenta orașul.",
+        "en": "Discover Zeltweg by public transport. Start at the main square and explore the city center on foot. A bus will then take you comfortably to Farrach Palace for a historical and culinary lunch break. The afternoon is dedicated to technology: take the bus to the Military Aviation Museum and end the day with a short walk to the nostalgic Murtalbahn. A relaxed and environmentally friendly way to experience the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Murtaler Steirerkäse",
+            "tip": "Ein würziger, bröseliger Käse, der oft mit Butter und Zwiebeln serviert wird. Ein Muss für Käseliebhaber."
+          },
+          {
+            "name": "Zirbenschnaps",
+            "tip": "Ein aromatischer Schnaps aus den Zapfen der Zirbelkiefer. Perfekt als Digestif."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditionelles Gasthaus im Zentrum, bekannt für seine gutbürgerliche steirische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murtali stájer sajt",
+            "tip": "Fűszeres, morzsálódó sajt, amelyet gyakran vajjal és hagymával tálalnak. A sajtkedvelőknek kötelező."
+          },
+          {
+            "name": "Círmetfenyő pálinka",
+            "tip": "Aromás pálinka a cirbolyafenyő tobozából. Tökéletes emésztést segítő italként."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Hagyományos fogadó a központban, amely a polgári stájer konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză stiriană din Murtal",
+            "tip": "O brânză picantă și fărâmicioasă, adesea servită cu unt și ceapă. O necesitate pentru iubitorii de brânză."
+          },
+          {
+            "name": "Rachiu de pin de piatră",
+            "tip": "Un rachiu aromat din conurile de pin de piatră. Perfect ca digestiv."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Han tradițional în centru, cunoscut pentru bucătăria sa stiriană burgheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Murtal Styrian Cheese",
+            "tip": "A spicy, crumbly cheese often served with butter and onions. A must for cheese lovers."
+          },
+          {
+            "name": "Stone Pine Schnapps",
+            "tip": "An aromatic schnapps made from the cones of the stone pine. Perfect as a digestive."
+          },
+          {
+            "name": "Gasthof zum Löwen",
+            "tip": "Traditional inn in the center, known for its home-style Styrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Mur",
+            "tip": "Ein Spaziergang entlang des Flusses Mur bietet eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Stadtpark",
+            "tip": "Finden Sie eine ruhige Bank im hinteren Teil des Parks, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Mura partja",
+            "tip": "Egy séta a Mura folyó mentén csendes kikapcsolódást nyújt a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a Városi Parkban",
+            "tip": "Találjon egy csendes padot a park hátsó részében, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mur",
+            "tip": "O plimbare de-a lungul râului Mur oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în Parcul Orașului",
+            "tip": "Găsiți o bancă liniștită în spatele parcului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Mur River",
+            "tip": "A walk along the Mur river offers a quiet escape from the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the City Park",
+            "tip": "Find a quiet bench in the back of the park to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Zeltweg",
+            "tip": "Besuchen Sie den lokalen Wochenmarkt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zeltwegi heti piac",
+            "tip": "Látogasson el a helyi heti piacra friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Zeltweg",
+            "tip": "Vizitați piața săptămânală locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zeltweg Weekly Market",
+            "tip": "Visit the local weekly market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Informieren Sie sich vorab über die Busfahrpläne, um Wartezeiten zu minimieren.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Seien Sie pünktlich an den Haltestellen, besonders bei weniger frequentierten Linien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előzetesen tájékozódjon a buszmenetrendekről a várakozási idők minimalizálása érdekében.",
+          "Tartson aprópénzt a jegyekhez.",
+          "Legyen pontos a megállókban, különösen a kevésbé frekventált vonalakon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în prealabil orarele autobuzelor pentru a minimiza timpii de așteptare.",
+          "Aveți la îndemână mărunțiș pentru bilete.",
+          "Fiți punctuali la stații, în special pe liniile mai puțin frecventate."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Check the bus schedules in advance to minimize waiting times.",
+          "Have small change ready for tickets.",
+          "Be on time at the stops, especially on less frequent lines."
+        ]
+      }
+    }
+  }
+}

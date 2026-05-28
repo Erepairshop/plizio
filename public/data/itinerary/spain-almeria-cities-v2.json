@@ -1,0 +1,1556 @@
+{
+  "city_id": "spain-almeria-cities-v2",
+  "anchor": {
+    "name": "Almería",
+    "coords": [
+      -2.4637,
+      36.834
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerta de Purchena",
+            "hu": "Puerta de Purchena",
+            "ro": "Puerta de Purchena",
+            "en": "Puerta de Purchena"
+          },
+          "coords": [
+            -2.466,
+            36.84
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben von einem der Cafés aus.",
+            "hu": "Figyelje a város lüktetését az egyik kávézó teraszáról.",
+            "ro": "Priviți agitația orașului de la una dintre cafenele.",
+            "en": "Watch the city's hustle and bustle from one of the cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerkriegsbunker (Refugios)",
+            "hu": "Polgárháborús óvóhelyek (Refugios)",
+            "ro": "Adăposturile subterane din Războiul Civil (Refugios)",
+            "en": "Civil War Shelters (Refugios)"
+          },
+          "coords": [
+            -2.465,
+            36.841
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie die Führung im Voraus, um dieses unterirdische Labyrinth zu erleben.",
+            "hu": "Foglaljon vezetett túrát előre, hogy bejárhassa ezt a földalatti labirintust.",
+            "ro": "Rezervați turul ghidat în avans pentru a explora acest labirint subteran.",
+            "en": "Book the guided tour in advance to experience this underground labyrinth."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución",
+            "hu": "Alkotmány tér (Plaza de la Constitución)",
+            "ro": "Piața Constituției (Plaza de la Constitución)",
+            "en": "Constitution Square (Plaza de la Constitución)"
+          },
+          "coords": [
+            -2.468,
+            36.838
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus (Ayuntamiento) hat eine beeindruckende Fassade.",
+            "hu": "A Városháza (Ayuntamiento) homlokzata lenyűgöző.",
+            "ro": "Primăria (Ayuntamiento) are o fațadă impresionantă.",
+            "en": "The Town Hall (Ayuntamiento) has an impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Almería",
+            "hu": "Almeríai székesegyház",
+            "ro": "Catedrala din Almería",
+            "en": "Cathedral of Almería"
+          },
+          "coords": [
+            -2.4682,
+            36.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die festungsähnliche Struktur, die zum Schutz vor Piraten diente.",
+            "hu": "Figyelje meg az erődszerű építményt, ami a kalózok elleni védelemre szolgált.",
+            "ro": "Observați structura de fortăreață, concepută pentru a proteja împotriva piraților.",
+            "en": "Note the fortress-like structure, designed for protection against pirates."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -2.467,
+            36.837
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Tapas, besonders die mit frischem Fisch.",
+            "hu": "Kóstolja meg a helyi tapasokat, különösen a friss halból készülteket.",
+            "ro": "Încercați tapas-urile locale, în special cele cu pește proaspăt.",
+            "en": "Try the local tapas, especially those with fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Almería",
+            "hu": "Almeríai Alcazaba",
+            "ro": "Alcazaba din Almería",
+            "en": "Alcazaba of Almería"
+          },
+          "coords": [
+            -2.47,
+            36.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die Gärten. Tragen Sie bequeme Schuhe.",
+            "hu": "Megéri felmenni a kilátásért és a kertekért. Viseljen kényelmes cipőt.",
+            "ro": "Urcușul merită pentru priveliște și grădini. Purtați încălțăminte comodă.",
+            "en": "The climb is worth it for the views and gardens. Wear comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Juan",
+            "hu": "Szent János-templom",
+            "ro": "Biserica San Juan",
+            "en": "Church of San Juan"
+          },
+          "coords": [
+            -2.472,
+            36.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Halt auf dem Weg von der Alcazaba. Beachten Sie die Mischung aus Moschee und Kirche.",
+            "hu": "Kellemes megálló az Alcazabából lefelé jövet. Figyelje meg a mecset és templom keveredését.",
+            "ro": "O oprire plăcută la coborârea de la Alcazaba. Observați amestecul de moschee și biserică.",
+            "en": "A nice stop on the way down from the Alcazaba. Note the blend of mosque and church."
+          }
+        },
+        {
+          "name": {
+            "de": "English Cable (El Cable Inglés)",
+            "hu": "Angol Móló (El Cable Inglés)",
+            "ro": "Cheiul Englezesc (El Cable Inglés)",
+            "en": "The English Cable (El Cable Inglés)"
+          },
+          "coords": [
+            -2.459,
+            36.831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besonders bei Sonnenuntergang ein toller Fotospot. Ein Symbol des industriellen Erbes.",
+            "hu": "Nagyszerű fotóhelyszín, különösen naplementekor. Az ipari örökség szimbóluma.",
+            "ro": "Un loc excelent pentru fotografii, mai ales la apus. Un simbol al patrimoniului industrial.",
+            "en": "A great photo spot, especially at sunset. A symbol of industrial heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Platz Puerta de Purchena und führt Sie unter die Erde in die Bunker des Bürgerkriegs. Am Vormittag erkunden Sie das historische Herz mit der festungsartigen Kathedrale und der Plaza de la Constitución. Nach einem Tapas-Mittagessen erklimmen Sie die mächtige Alcazaba, die einen atemberaubenden Blick über die Stadt und das Meer bietet. Der Nachmittag ist der Erkundung der maurischen Festung gewidmet, bevor Sie zum industriellen Wahrzeichen, dem Cable Inglés, hinabsteigen, um den Sonnenuntergang zu genießen.",
+        "hu": "A nap a nyüzsgő Puerta de Purchena téren kezdődik, majd a föld alá vezet a polgárháborús óvóhelyekhez. Délelőtt a történelmi központot fedezi fel az erődszerű katedrálissal és a Plaza de la Constitución térrel. Egy tapas ebéd után megmássza a hatalmas Alcazabát, ahonnan lenyűgöző kilátás nyílik a városra és a tengerre. A délutánt a mór erőd felfedezésével tölti, mielőtt lesétálna az ipari örökség jelképéhez, a Cable Ingléshez, hogy élvezze a naplementét.",
+        "ro": "Ziua începe în vibranta Puerta de Purchena, apoi vă duce în subteran la adăposturile din Războiul Civil. Dimineața explorează inima istorică cu Catedrala-fortăreață și Plaza de la Constitución. După un prânz cu tapas, urcați la impunătoarea Alcazaba pentru vederi uimitoare asupra orașului și mării. După-amiaza este dedicată explorării fortăreței maure, înainte de a coborî la monumentul industrial, Cable Inglés, pentru a prinde apusul.",
+        "en": "Your day starts in the bustling Puerta de Purchena, then takes you underground into the Civil War shelters. The morning explores the historic heart with the fortress-like Cathedral and Plaza de la Constitución. After a tapas lunch, you'll climb the mighty Alcazaba for stunning views over the city and sea. The afternoon is for exploring the Moorish fortress before descending to the industrial landmark, the Cable Inglés, to catch the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas in der Calle Jovellanos",
+            "tip": "Ein Muss in Almería. Gehen Sie von Bar zu Bar und probieren Sie verschiedene kleine Gerichte."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus gebratenen Semmelbröseln, oft mit Chorizo und Paprika serviert."
+          },
+          {
+            "name": "Gambas rojas de Almería",
+            "tip": "Probieren Sie die berühmten roten Garnelen, am besten gegrillt (a la plancha)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a Calle Jovellanos utcában",
+            "tip": "Almeríában kötelező. Járjon bárról bárra, és kóstoljon bele a különböző kis fogásokba."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel sült kenyérmorzsából, gyakran chorizóval és paprikával tálalva."
+          },
+          {
+            "name": "Gambas rojas de Almería",
+            "tip": "Kóstolja meg a híres vörös garnélát, lehetőleg grillezve (a la plancha)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas pe Calle Jovellanos",
+            "tip": "O experiență obligatorie în Almería. Mergeți din bar în bar și gustați diverse preparate mici."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional din pesmet prăjit, adesea servit cu chorizo și ardei."
+          },
+          {
+            "name": "Gambas rojas de Almería",
+            "tip": "Încercați faimoșii creveți roșii, de preferință la grătar (a la plancha)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas on Calle Jovellanos",
+            "tip": "A must-do experience in Almería. Go from bar to bar and sample different small dishes."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish made from fried breadcrumbs, often served with chorizo and peppers."
+          },
+          {
+            "name": "Gambas rojas de Almería",
+            "tip": "Try the famous local red prawns, best served grilled (a la plancha)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Alcazaba",
+            "tip": "Finden Sie eine ruhige Ecke in den oberen Gärten mit Blick auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de San Miguel bei Sonnenuntergang",
+            "tip": "Ein Spaziergang am Strand, wenn die Menschenmassen nach Hause gehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kreuzgang der Kathedrale",
+            "tip": "Ein friedlicher Innenhof, um der Hitze der Stadt zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcazaba kertjei",
+            "tip": "Keressen egy csendes zugot a felső kertekben, kilátással a tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de San Miguel naplementekor",
+            "tip": "Sétáljon a tengerparton, miután a tömeg hazament.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "Békés belső udvar, ahol elmenekülhet a városi hőség elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Alcazaba",
+            "tip": "Găsiți un colț liniștit în grădinile superioare cu vedere la mare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja San Miguel la apus",
+            "tip": "O plimbare pe plajă după ce mulțimea pleacă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "O curte interioară pașnică pentru a scăpa de căldura orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Alcazaba",
+            "tip": "Find a quiet corner in the upper gardens overlooking the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Miguel Beach at sunset",
+            "tip": "A walk along the beach once the crowds have left.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A peaceful courtyard to escape the city heat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Central",
+            "tip": "Erleben Sie den lokalen Trubel und kaufen Sie frische Produkte oder Olivenöl."
+          },
+          {
+            "name": "Cerámica Almeriense",
+            "tip": "Suchen Sie nach traditioneller Keramik, insbesondere den Indalo-Figuren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Central (Központi Vásárcsarnok)",
+            "tip": "Élje át a helyi nyüzsgést, és vásároljon friss termékeket vagy olívaolajat."
+          },
+          {
+            "name": "Almeríai kerámia",
+            "tip": "Keressen hagyományos kerámiákat, különösen az Indalo figurákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Central",
+            "tip": "Experimentați agitația locală și cumpărați produse proaspete sau ulei de măsline."
+          },
+          {
+            "name": "Ceramică Almeriense",
+            "tip": "Căutați ceramică tradițională, în special figurinele Indalo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Central",
+            "tip": "Experience the local buzz and buy some fresh produce or olive oil."
+          },
+          {
+            "name": "Almerian Ceramics",
+            "tip": "Look for traditional pottery, especially the Indalo figures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Viele Geschäfte und Sehenswürdigkeiten schließen für eine Siesta am Nachmittag.",
+          "Genießen Sie die kostenlosen Tapas, die in den meisten Bars zu Ihrem Getränk serviert werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakövek egyenetlenek lehetnek.",
+          "Hozzon magával sok vizet, különösen nyáron.",
+          "Sok üzlet és látnivaló bezár délután a szieszta idejére.",
+          "Élvezze az ingyenes tapasokat, amelyeket a legtöbb bárban az ital mellé szolgálnak fel."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Luați multă apă cu dumneavoastră, mai ales vara.",
+          "Multe magazine și atracții se închid pentru siesta de după-amiază.",
+          "Bucurați-vă de tapas-urile gratuite servite cu băutura în majoritatea barurilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring plenty of water, especially during the summer.",
+          "Many shops and sights close for a siesta in the afternoon.",
+          "Enjoy the free tapas served with your drink in most bars."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Puerta de Purchena",
+            "hu": "Kerékpárkölcsönzés és Puerta de Purchena",
+            "ro": "Închiriere biciclete & Puerta de Purchena",
+            "en": "Bike Rental & Puerta de Purchena"
+          },
+          "coords": [
+            -2.466,
+            36.84
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag und starten Sie Ihre Tour im Herzen der Stadt.",
+            "hu": "Béreljen biciklit egy napra, és kezdje a túrát a város szívében.",
+            "ro": "Închiriați o bicicletă pentru o zi și începeți turul în inima orașului.",
+            "en": "Rent a bike for the day and start your tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Almería",
+            "hu": "Almeríai székesegyház",
+            "ro": "Catedrala din Almería",
+            "en": "Cathedral of Almería"
+          },
+          "coords": [
+            -2.4682,
+            36.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a katedrálist.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora Catedrala.",
+            "en": "Lock your bike securely before exploring the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba von Almería (unterer Eingang)",
+            "hu": "Almeríai Alcazaba (alsó bejárat)",
+            "ro": "Alcazaba din Almería (intrare inferioară)",
+            "en": "Alcazaba of Almería (lower entrance)"
+          },
+          "coords": [
+            -2.471,
+            36.839
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad unten und gehen Sie zu Fuß hinauf. Der Aufstieg ist steil.",
+            "hu": "Parkolja le a biciklit lent, és sétáljon fel. Az emelkedő meredek.",
+            "ro": "Parcați bicicleta jos și urcați pe jos. Urcușul este abrupt.",
+            "en": "Park your bike at the bottom and walk up. The climb is steep."
+          }
+        },
+        {
+          "name": {
+            "de": "English Cable (El Cable Inglés)",
+            "hu": "Angol Móló (El Cable Inglés)",
+            "ro": "Cheiul Englezesc (El Cable Inglés)",
+            "en": "The English Cable (El Cable Inglés)"
+          },
+          "coords": [
+            -2.459,
+            36.831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Halt entlang der Küste, der sich perfekt in eine Radtour einfügt.",
+            "hu": "Kellemes megálló a tengerparton, tökéletesen illik egy biciklitúrába.",
+            "ro": "O oprire frumoasă de-a lungul coastei, perfectă pentru un tur cu bicicleta.",
+            "en": "A beautiful stop along the coast, perfect to include in a bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Strand (Paseo Marítimo)",
+            "hu": "Ebéd a tengerparton (Paseo Marítimo)",
+            "ro": "Prânz pe plajă (Paseo Marítimo)",
+            "en": "Lunch on the Beach (Paseo Marítimo)"
+          },
+          "coords": [
+            -2.448,
+            36.828
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Chiringuito für frischen Fisch und Meerblick.",
+            "hu": "Válasszon egy chiringuitót friss halért és tengeri kilátásért.",
+            "ro": "Alegeți un chiringuito pentru pește proaspăt și vedere la mare.",
+            "en": "Choose a chiringuito for fresh fish and sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Almería",
+            "hu": "Almeríai Múzeum",
+            "ro": "Muzeul din Almería",
+            "en": "Museum of Almería"
+          },
+          "coords": [
+            -2.456,
+            36.839
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine großartige Möglichkeit, der Nachmittagssonne zu entfliehen und mehr über die reiche Geschichte der Region zu erfahren.",
+            "hu": "Nagyszerű módja a délutáni nap elől való menekülésnek, és többet megtudni a régió gazdag történelméről.",
+            "ro": "O modalitate excelentă de a scăpa de soarele de după-amiază și de a învăța despre istoria bogată a regiunii.",
+            "en": "A great way to escape the afternoon sun and learn about the region's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückgabe der Fahrräder & Tapas",
+            "hu": "Kerékpárok visszaadása és tapas",
+            "ro": "Returnarea bicicletelor & Tapas",
+            "en": "Bike Return & Tapas"
+          },
+          "coords": [
+            -2.466,
+            36.84
+          ],
+          "category": "gastro",
+          "arrive_at": "17:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit wohlverdienten kalten Getränken und Tapas in der Nähe des Fahrradverleihs.",
+            "hu": "Zárja a napot egy jól megérdemelt hideg itallal és tapasszal a kölcsönző közelében.",
+            "ro": "Încheiați ziua cu băuturi reci bine meritate și tapas lângă centrul de închirieri.",
+            "en": "End the day with some well-deserved cold drinks and tapas near the rental shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf zwei Rädern im Zentrum von Almería. Am Morgen radeln Sie durch die Altstadt, besuchen die Kathedrale und stellen sich dem Aufstieg zur Alcazaba. Nach der Erkundung der Festung führt Sie Ihre Route entlang der Küste zum industriellen Cable Inglés. Genießen Sie ein entspanntes Mittagessen am Meer an der Promenade. Der Nachmittag bietet eine kulturelle Abkühlung im Museum von Almería, bevor Sie zurück ins Zentrum radeln, um Ihren aktiven Tag mit köstlichen Tapas ausklingen zu lassen.",
+        "hu": "Kezdje a napot két keréken Almería központjában. Délelőtt végigteker az óvároson, meglátogatja a katedrálist, és nekivág az Alcazabához vezető emelkedőnek. Az erőd felfedezése után az útvonal a part mentén vezet az ipari Cable Ingléshez. Élvezzen egy laza ebédet a tengerparti sétányon. A délután kulturális felüdülést kínál az Almeríai Múzeumban, mielőtt visszatekerne a központba, hogy az aktív napot finom tapasokkal zárja.",
+        "ro": "Începeți ziua pe două roți în centrul Almeríei. Dimineața pedalați prin orașul vechi, vizitați Catedrala și înfruntați urcușul spre Alcazaba. După explorarea fortăreței, traseul vă duce de-a lungul coastei la industrialul Cable Inglés. Bucurați-vă de un prânz relaxant la malul mării, pe promenadă. După-amiaza oferă o răcorire culturală la Muzeul din Almería, înainte de a pedala înapoi în centru pentru a încheia ziua activă cu niște tapas delicioase.",
+        "en": "Start your day on two wheels in the center of Almería. In the morning, you'll cycle through the old town, visit the Cathedral, and tackle the climb to the Alcazaba. After exploring the fortress, your route takes you along the coast to the industrial Cable Inglés. Enjoy a relaxed lunch by the sea on the promenade. The afternoon offers a cultural cool-down at the Museum of Almería before you cycle back to the center to end your active day with delicious tapas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches spanisches Sandwich, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Chiringuitos am Strand",
+            "tip": "Diese Strandrestaurants sind auf frischen, gegrillten Fisch (Espetos) spezialisiert."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Eine erfrischende Alternative zu Sangria, hergestellt aus Rotwein und Zitronenlimonade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus spanyol szendvics, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Chiringuitók a tengerparton",
+            "tip": "Ezek a tengerparti éttermek friss, grillezett halakra (espetos) specializálódtak."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "Frissítő alternatívája a sangriának, vörösborból és citromos üdítőből készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș spaniol clasic, perfect pentru un prânz rapid."
+          },
+          {
+            "name": "Chiringuitos pe plajă",
+            "tip": "Aceste restaurante de pe plajă sunt specializate în pește proaspăt la grătar (espetos)."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "O alternativă răcoritoare la sangria, făcută din vin roșu și limonadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Spanish squid sandwich, perfect for a quick lunch."
+          },
+          {
+            "name": "Chiringuitos on the beach",
+            "tip": "These beachside restaurants specialize in fresh, grilled fish (espetos)."
+          },
+          {
+            "name": "Tinto de Verano",
+            "tip": "A refreshing alternative to sangria, made with red wine and lemon soda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo Marítimo am frühen Morgen",
+            "tip": "Genießen Sie die Ruhe der Küste, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Nicolás Salmerón",
+            "tip": "Ein schattiger Park, um eine Pause vom Radfahren einzulegen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Cerro de San Cristóbal",
+            "tip": "Eine zusätzliche Anstrengung mit dem Fahrrad für einen Panoramablick neben der Alcazaba.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo Marítimo kora reggel",
+            "tip": "Élvezze a tengerpart csendjét, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Nicolás Salmerón",
+            "tip": "Árnyékos park egy kis pihenőre a biciklizés közben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cerro de San Cristóbal kilátó",
+            "tip": "Egy extra erőfeszítés biciklivel egy panorámás kilátásért az Alcazaba mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo Marítimo dimineața devreme",
+            "tip": "Bucurați-vă de liniștea coastei înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Nicolás Salmerón",
+            "tip": "Un parc umbros pentru a lua o pauză de la pedalat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Cerro de San Cristóbal",
+            "tip": "Un efort suplimentar cu bicicleta pentru o vedere panoramică lângă Alcazaba.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo Marítimo in the early morning",
+            "tip": "Enjoy the tranquility of the coast before the city wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque de Nicolás Salmerón",
+            "tip": "A shady park to take a break from cycling.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cerro de San Cristóbal Viewpoint",
+            "tip": "An extra push on the bike for a panoramic view next to the Alcazaba.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rambla de Almería",
+            "tip": "Eine Haupt-Einkaufsstraße mit bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Indalo Souvenirs",
+            "tip": "Das prähistorische Symbol von Almería ist ein beliebtes Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rambla de Almería",
+            "tip": "Fő bevásárlóutca ismert márkákkal és helyi üzletekkel."
+          },
+          {
+            "name": "Indalo szuvenírek",
+            "tip": "Almería őskori szimbóluma népszerű ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rambla de Almería",
+            "tip": "O stradă comercială principală cu mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Suveniruri Indalo",
+            "tip": "Simbolul preistoric al Almeríei este un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rambla de Almería",
+            "tip": "A main shopping street with familiar brands and local shops."
+          },
+          {
+            "name": "Indalo Souvenirs",
+            "tip": "The prehistoric symbol of Almería makes for a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+          "Nutzen Sie die Radwege entlang der Küste, um den Verkehr zu meiden.",
+          "Ein Helm wird dringend empfohlen.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket és a gumikat.",
+          "Használja a tengerparti kerékpárutakat a forgalom elkerülése érdekében.",
+          "A sisak viselése erősen ajánlott.",
+          "Figyeljen az egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "Verificați frânele și anvelopele înainte de a porni.",
+          "Folosiți pistele de biciclete de-a lungul coastei pentru a evita traficul.",
+          "Casca este foarte recomandată.",
+          "Fiți atenți la străzile cu sens unic din orașul vechi."
+        ],
+        "en": [
+          "Check your brakes and tires before you set off.",
+          "Use the bike lanes along the coast to avoid traffic.",
+          "A helmet is highly recommended.",
+          "Be mindful of one-way streets in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Cluster Altstadt",
+            "hu": "Parkolás és Óváros Klaszter",
+            "ro": "Parcare & Cluster Centrul Vechi",
+            "en": "Parking & Old Town Cluster"
+          },
+          "coords": [
+            -2.463,
+            36.842
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem Parkhaus in der Nähe der Puerta de Purchena für den ersten Teil des Tages.",
+            "hu": "Parkoljon egy parkolóházban a Puerta de Purchena közelében a nap első felére.",
+            "ro": "Parcați într-o parcare subterană lângă Puerta de Purchena pentru prima parte a zilei.",
+            "en": "Park in a garage near Puerta de Purchena for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Purchena & Bürgerkriegsbunker",
+            "hu": "Puerta de Purchena és Polgárháborús Óvóhelyek",
+            "ro": "Puerta de Purchena & Adăposturile Războiului Civil",
+            "en": "Puerta de Purchena & Civil War Shelters"
+          },
+          "coords": [
+            -2.465,
+            36.841
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Platzbesuch mit einer Führung durch die unterirdischen Gänge.",
+            "hu": "Kombinálja a tér megtekintését egy vezetett túrával a földalatti járatokban.",
+            "ro": "Combinați vizita în piață cu un tur ghidat al tunelurilor subterane.",
+            "en": "Combine the square visit with a guided tour of the underground tunnels."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la Constitución & Kathedrale",
+            "hu": "Alkotmány tér és Székesegyház",
+            "ro": "Piața Constituției & Catedrala",
+            "en": "Constitution Square & Cathedral"
+          },
+          "coords": [
+            -2.468,
+            36.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die beeindruckende Kathedrale-Festung.",
+            "hu": "Fedezze fel a főteret és a lenyűgöző katedrális-erődöt.",
+            "ro": "Explorați piața principală și impresionanta catedrală-fortăreață.",
+            "en": "Explore the main square and the impressive cathedral-fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -2.467,
+            36.837
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine ausgiebige Mahlzeit, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Élvezzen egy kiadós ebédet, mielőtt a következő klaszterhez hajtana.",
+            "ro": "Bucurați-vă de o masă copioasă înainte de a conduce spre următorul cluster.",
+            "en": "Enjoy a hearty meal before you drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Cluster Alcazaba",
+            "hu": "Autózás és Alcazaba Klaszter",
+            "ro": "Condus & Cluster Alcazaba",
+            "en": "Drive & Alcazaba Cluster"
+          },
+          "coords": [
+            -2.472,
+            36.841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Parkplatz in der Nähe der Alcazaba und erkunden Sie die Festung zu Fuß.",
+            "hu": "Vezessen az Alcazaba közelében lévő parkolóhoz, és fedezze fel gyalog az erődöt.",
+            "ro": "Conduceți la o parcare de lângă Alcazaba și explorați fortăreața pe jos.",
+            "en": "Drive to a parking spot near the Alcazaba and explore the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Cluster Museum/Küste",
+            "hu": "Autózás és Múzeum/Part Klaszter",
+            "ro": "Condus & Cluster Muzeu/Coastă",
+            "en": "Drive & Museum/Coast Cluster"
+          },
+          "coords": [
+            -2.456,
+            36.839
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums für den letzten Teil Ihres Tages.",
+            "hu": "Parkoljon a múzeum közelében a nap utolsó részére.",
+            "ro": "Parcați lângă muzeu pentru ultima parte a zilei.",
+            "en": "Park near the museum for the final part of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "English Cable & Küstenspaziergang",
+            "hu": "Angol Móló és Tengerparti Séta",
+            "ro": "Cheiul Englezesc & Plimbare pe coastă",
+            "en": "English Cable & Coastal Walk"
+          },
+          "coords": [
+            -2.459,
+            36.831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "18:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Cable Inglés, um den Tag mit Meerblick ausklingen zu lassen.",
+            "hu": "Rövid séta a múzeumtól a Cable Ingléshez, hogy tengeri kilátással zárja a napot.",
+            "ro": "O scurtă plimbare de la muzeu la Cable Inglés pentru a încheia ziua cu o vedere la mare.",
+            "en": "A short walk from the museum to the English Cable to end the day with sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ist in drei Cluster aufgeteilt. Sie beginnen in der Altstadt, wo Sie parken und zu Fuß die Bunker, Plätze und die Kathedrale erkunden. Nach dem Mittagessen fahren Sie zum zweiten Cluster: der imposanten Alcazaba auf dem Hügel, die Sie ebenfalls zu Fuß entdecken. Der letzte Teil des Tages führt Sie mit dem Auto zum Museums- und Küstencluster im Osten. Dort besuchen Sie das Museum von Almería und beenden den Tag mit einem Spaziergang zum industriellen Wahrzeichen, dem Cable Inglés.",
+        "hu": "Autós napja három klaszterre oszlik. Az óvárosban kezd, ahol leparkol, és gyalog fedezi fel az óvóhelyeket, a tereket és a katedrálist. Ebéd után a második klaszterhez hajt: a dombon álló, impozáns Alcazabához, amelyet szintén gyalogosan jár be. A nap utolsó része autóval a keleti múzeum- és tengerparti klaszterhez vezet. Itt meglátogatja az Almeríai Múzeumot, és a napot egy sétával zárja az ipari műemlékhez, a Cable Ingléshez.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în orașul vechi, unde parcați și explorați pe jos adăposturile, piețele și catedrala. După prânz, conduceți spre al doilea cluster: impunătoarea Alcazaba de pe deal, pe care o explorați tot pe jos. Ultima parte a zilei vă duce cu mașina la clusterul muzeu-coastă din est. Acolo, vizitați Muzeul din Almería și încheiați ziua cu o plimbare la monumentul industrial, Cable Inglés.",
+        "en": "Your day by car is split into three clusters. You'll start in the old town, where you park and explore the shelters, squares, and cathedral on foot. After lunch, you drive to the second cluster: the imposing Alcazaba on the hill, which you also discover on foot. The final part of the day takes you by car to the museum and coastal cluster in the east. There, you'll visit the Museum of Almería and finish the day with a walk to the industrial landmark, the Cable Inglés."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Puga",
+            "tip": "Eine der ältesten und berühmtesten Tapas-Bars in Almería, ein Muss."
+          },
+          {
+            "name": "Potaje de vigilia",
+            "tip": "Ein herzhafter Eintopf aus Kichererbsen und Kabeljau, besonders in der Fastenzeit beliebt."
+          },
+          {
+            "name": "Restaurante El Jurelico",
+            "tip": "Bekannt für seine frischen Meeresfrüchte und traditionellen Reisgerichte (Arroces)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Puga",
+            "tip": "Almería egyik legrégebbi és leghíresebb tapas bárja, kötelező program."
+          },
+          {
+            "name": "Potaje de vigilia",
+            "tip": "Kiadós csicseriborsó- és tőkehal-egytálétel, különösen népszerű a böjti időszakban."
+          },
+          {
+            "name": "Restaurante El Jurelico",
+            "tip": "Friss tenger gyümölcseiről és hagyományos rizsételeiről (arroces) ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Puga",
+            "tip": "Unul dintre cele mai vechi și faimoase baruri de tapas din Almería, o vizită obligatorie."
+          },
+          {
+            "name": "Potaje de vigilia",
+            "tip": "O tocană consistentă de năut și cod, populară mai ales în timpul Postului Mare."
+          },
+          {
+            "name": "Restaurante El Jurelico",
+            "tip": "Renumit pentru fructele de mare proaspete și preparatele tradiționale din orez (arroces)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Puga",
+            "tip": "One of the oldest and most famous tapas bars in Almería, a must-visit."
+          },
+          {
+            "name": "Potaje de vigilia",
+            "tip": "A hearty chickpea and cod stew, especially popular during Lent."
+          },
+          {
+            "name": "Restaurante El Jurelico",
+            "tip": "Known for its fresh seafood and traditional rice dishes (arroces)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cala de San Pedro",
+            "tip": "Eine abgelegene Bucht, die mit dem Auto und einer kurzen Wanderung erreichbar ist (längerer Ausflug).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de la Alcazaba",
+            "tip": "Der beste Panoramablick über die Stadt, besonders friedlich am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque Natural Cabo de Gata-Níjar",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für atemberaubende Vulkanlandschaften und unberührte Strände.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cala de San Pedro",
+            "tip": "Egy eldugott öböl, amely autóval és egy rövid túrával érhető el (hosszabb kirándulás).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de la Alcazaba",
+            "tip": "A legjobb panorámás kilátás a városra, különösen békés késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cabo de Gata-Níjar Natúrpark",
+            "tip": "Rövid autóútra a várostól lenyűgöző vulkáni tájakért és érintetlen strandokért.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cala de San Pedro",
+            "tip": "Un golf retras, accesibil cu mașina și o scurtă drumeție (excursie mai lungă).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de la Alcazaba",
+            "tip": "Cea mai bună vedere panoramică asupra orașului, deosebit de liniștită după-amiaza târziu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Natural Cabo de Gata-Níjar",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru peisaje vulcanice uimitoare și plaje virgine.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cala de San Pedro",
+            "tip": "A secluded cove accessible by car and a short hike (longer trip).",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador de la Alcazaba",
+            "tip": "The best panoramic viewpoint over the city, especially peaceful in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cabo de Gata-Níjar Natural Park",
+            "tip": "A short drive from the city for stunning volcanic landscapes and pristine beaches.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paseo de Almería",
+            "tip": "Die Haupteinkaufsstraße, die sich gut mit dem Altstadt-Cluster kombinieren lässt."
+          },
+          {
+            "name": "Jarapas",
+            "tip": "Suchen Sie nach diesen farbenfrohen Teppichen und Textilien aus recycelten Materialien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de Almería",
+            "tip": "A fő bevásárlóutca, amely jól kombinálható az óvárosi klaszterrel."
+          },
+          {
+            "name": "Jarapas",
+            "tip": "Keressen ilyen színes, újrahasznosított anyagokból készült szőnyegeket és textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de Almería",
+            "tip": "Strada comercială principală, se combină bine cu clusterul orașului vechi."
+          },
+          {
+            "name": "Jarapas",
+            "tip": "Căutați aceste covoare și textile colorate, realizate din materiale reciclate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de Almería",
+            "tip": "The main shopping avenue, combines well with the old town cluster."
+          },
+          {
+            "name": "Jarapas",
+            "tip": "Look for these colorful rugs and textiles made from recycled materials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser sind die beste Option, da das Parken auf der Straße schwierig ist.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders im Sommer.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen.",
+          "Überprüfen Sie die Öffnungszeiten der Parkhäuser."
+        ],
+        "hu": [
+          "A parkolóházak a legjobb megoldás, mivel az utcai parkolás nehézkes.",
+          "Tervezzen extra időt a forgalomra, különösen nyáron.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "Ellenőrizze a parkolóházak nyitvatartási idejét."
+        ],
+        "ro": [
+          "Parcările subterane sunt cea mai bună opțiune, deoarece parcarea stradală este dificilă.",
+          "Planificați timp suplimentar pentru trafic, mai ales vara.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Verificați programul de funcționare al parcărilor."
+        ],
+        "en": [
+          "Parking garages are the best option as street parking is difficult.",
+          "Allow extra time for traffic, especially in summer.",
+          "Do not leave valuables visible in the car.",
+          "Check the opening hours of the parking garages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Cluster Altstadt",
+            "hu": "Érkezés és Óváros Klaszter",
+            "ro": "Sosire & Cluster Centrul Vechi",
+            "en": "Arrival & Old Town Cluster"
+          },
+          "coords": [
+            -2.466,
+            36.84
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Paseo de Almería' oder 'Puerta de Purchena'.",
+            "hu": "Menjen busszal a 'Paseo de Almería' vagy 'Puerta de Purchena' megállóig.",
+            "ro": "Luați un autobuz până la stația 'Paseo de Almería' sau 'Puerta de Purchena'.",
+            "en": "Take a bus to the 'Paseo de Almería' or 'Puerta de Purchena' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerkriegsbunker (Refugios)",
+            "hu": "Polgárháborús óvóhelyek (Refugios)",
+            "ro": "Adăposturile subterane din Războiul Civil (Refugios)",
+            "en": "Civil War Shelters (Refugios)"
+          },
+          "coords": [
+            -2.465,
+            36.841
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit diesem faszinierenden unterirdischen Erlebnis.",
+            "hu": "Kezdje ezzel a lenyűgöző földalatti élménnyel.",
+            "ro": "Începeți cu această experiență subterană fascinantă.",
+            "en": "Start with this fascinating underground experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Plaza de la Constitución",
+            "hu": "Székesegyház és Alkotmány tér",
+            "ro": "Catedrala & Piața Constituției",
+            "en": "Cathedral & Constitution Square"
+          },
+          "coords": [
+            -2.468,
+            36.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen direkt nebeneinander.",
+            "hu": "Ez a két fontos látnivaló közvetlenül egymás mellett található.",
+            "ro": "Aceste două atracții majore sunt situate chiar una lângă alta.",
+            "en": "These two major sights are located right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -2.467,
+            36.837
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie zu Fuß zur Alcazaba aufbrechen.",
+            "hu": "Erősítsen, mielőtt gyalog elindulna az Alcazabához.",
+            "ro": "Întăriți-vă înainte de a porni pe jos spre Alcazaba.",
+            "en": "Refuel before you set off on foot to the Alcazaba."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Alcazaba (zu Fuß)",
+            "hu": "Alcazaba Klaszter (gyalog)",
+            "ro": "Cluster Alcazaba (pe jos)",
+            "en": "Alcazaba Cluster (on foot)"
+          },
+          "coords": [
+            -2.47,
+            36.84
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang von der Kathedrale ist machbar und führt durch charmante Gassen.",
+            "hu": "A séta a katedrálistól megtehető és hangulatos sikátorokon vezet keresztül.",
+            "ro": "Plimbarea de la catedrală este fezabilă și trece prin alei fermecătoare.",
+            "en": "The walk from the cathedral is manageable and takes you through charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Cluster Museum/Küste",
+            "hu": "Buszozás és Múzeum/Part Klaszter",
+            "ro": "Călătorie cu autobuzul & Cluster Muzeu/Coastă",
+            "en": "Bus Ride & Museum/Coast Cluster"
+          },
+          "coords": [
+            -2.456,
+            36.839
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Nähe der Alcazaba oder dem Zentrum zum Museum.",
+            "hu": "Menjen busszal az Alcazaba közeléből vagy a központból a múzeumhoz.",
+            "ro": "Luați un autobuz din apropierea Alcazaba sau din centru către muzeu.",
+            "en": "Take a bus from near the Alcazaba or the center to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "English Cable & Küste",
+            "hu": "Angol Móló és Part",
+            "ro": "Cheiul Englezesc & Coasta",
+            "en": "English Cable & Coast"
+          },
+          "coords": [
+            -2.459,
+            36.831
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "18:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages führt Sie zum Wahrzeichen am Meer.",
+            "hu": "A nap utolsó sétája a tengerparti jelképhez vezet.",
+            "ro": "Ultima plimbare a zilei vă duce la monumentul de la malul mării.",
+            "en": "The final walk of the day takes you to the landmark by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Almería in Clustern. Sie beginnen im Herzen der Altstadt und besuchen die Bunker und die Kathedrale zu Fuß. Nach dem Mittagessen spazieren Sie zur Alcazaba. Von dort nehmen Sie einen Bus zum zweiten großen Cluster: dem Museum von Almería. Den Tag beenden Sie mit einem kurzen Spaziergang vom Museum zum Cable Inglés, von wo aus Sie bequem eine Busverbindung für Ihre Rückfahrt finden.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezheti fel Almeríát. Az óváros szívében kezd, gyalogosan meglátogatva az óvóhelyeket és a katedrálist. Ebéd után felsétál az Alcazabához. Onnan busszal jut el a második nagy klaszterhez: az Almeríai Múzeumhoz. A napot egy rövid sétával zárja a múzeumtól a Cable Ingléshez, ahonnan könnyen talál buszjáratot a visszautazáshoz.",
+        "ro": "Folosind transportul public, explorați Almería în clustere. Începeți în inima orașului vechi, vizitând pe jos adăposturile și catedrala. După prânz, urcați pe jos la Alcazaba. De acolo, luați un autobuz către al doilea cluster major: Muzeul din Almería. Încheiați ziua cu o scurtă plimbare de la muzeu la Cable Inglés, de unde puteți găsi cu ușurință o legătură de autobuz pentru călătoria de întoarcere.",
+        "en": "Using public transport, you'll explore Almería in clusters. You start in the heart of the old town, visiting the shelters and the cathedral on foot. After lunch, you'll walk up to the Alcazaba. From there, you take a bus to the second major cluster: the Museum of Almería. You'll end the day with a short walk from the museum to the Cable Inglés, from where you can easily find a bus connection for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cherigan",
+            "tip": "Ein lokaler Toast, typischerweise mit Aioli und verschiedenen Belägen wie Schinken oder Thunfisch."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "Holen Sie sich frisches Obst oder einen kleinen Snack an einem der Marktstände."
+          },
+          {
+            "name": "Patatas a lo pobre",
+            "tip": "Ein einfaches, aber köstliches Gericht aus langsam gekochten Kartoffeln, Zwiebeln und Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cherigan",
+            "tip": "Helyi pirítós, általában aiolival és különféle feltétekkel, például sonkával vagy tonhallal."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "Vegyen friss gyümölcsöt vagy egy kis harapnivalót az egyik piaci standnál."
+          },
+          {
+            "name": "Patatas a lo pobre",
+            "tip": "Egyszerű, de finom étel lassan főtt krumpliból, hagymából és paprikából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cherigan",
+            "tip": "O pâine prăjită locală, de obicei cu aioli și diverse topping-uri precum șuncă sau ton."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "Luați fructe proaspete sau o gustare mică de la una dintre tarabele din piață."
+          },
+          {
+            "name": "Patatas a lo pobre",
+            "tip": "Un fel de mâncare simplu, dar delicios, din cartofi, ceapă și ardei gătiți lent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cherigan",
+            "tip": "A local toasted bread, typically with aioli and various toppings like ham or tuna."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "Grab some fresh fruit or a small snack from one of the market stalls."
+          },
+          {
+            "name": "Patatas a lo pobre",
+            "tip": "A simple but delicious dish of slow-cooked potatoes, onions, and peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Alcazaba",
+            "tip": "Ein perfekter Ort, um sich nach dem Aufstieg auszuruhen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque de las Almadrabillas",
+            "tip": "Ein Park in der Nähe des Cable Inglés, um den Tag ausklingen zu lassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof des Museums von Almería",
+            "tip": "Eine ruhige Oase im Inneren des Museums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Alcazaba kertjei",
+            "tip": "Tökéletes hely a pihenésre a mászás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque de las Almadrabillas",
+            "tip": "Park a Cable Inglés közelében a nap lezárásához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az Almeríai Múzeum belső udvara",
+            "tip": "Csendes oázis a múzeum belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Alcazaba",
+            "tip": "Un loc perfect pentru a vă odihni după urcare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque de las Almadrabillas",
+            "tip": "Un parc lângă Cable Inglés pentru a încheia ziua.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Muzeului din Almería",
+            "tip": "O oază de liniște în interiorul muzeului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Alcazaba",
+            "tip": "A perfect place to rest after the climb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parque de las Almadrabillas",
+            "tip": "A park near the English Cable to wind down the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Almería Museum Courtyard",
+            "tip": "A quiet oasis inside the museum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien (Panaderías)",
+            "tip": "Kaufen Sie lokales Gebäck wie 'Mantecados' für unterwegs."
+          },
+          {
+            "name": "Kunsthandwerksläden in der Altstadt",
+            "tip": "Stöbern Sie nach handgefertigten Lederwaren oder Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek (Panaderías)",
+            "tip": "Vásároljon helyi süteményeket, például 'mantecados'-t útközben."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Böngésszen kézzel készített bőráruk vagy ékszerek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale (Panaderías)",
+            "tip": "Cumpărați produse de patiserie locale precum 'mantecados' pentru drum."
+          },
+          {
+            "name": "Magazine de artizanat din orașul vechi",
+            "tip": "Căutați articole din piele sau bijuterii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries (Panaderías)",
+            "tip": "Buy some local pastries like 'mantecados' for the road."
+          },
+          {
+            "name": "Artisan shops in the Old Town",
+            "tip": "Browse for handmade leather goods or jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'bonobús'-Karte für günstigere Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders am Wochenende.",
+          "Die Google Maps App bietet zuverlässige Informationen zu den öffentlichen Verkehrsmitteln.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon 'bonobús' kártyát az olcsóbb utazásokhoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A Google Maps alkalmazás megbízható tömegközlekedési információkat nyújt.",
+          "Érvényesítse a jegyét a buszra szálláskor."
+        ],
+        "ro": [
+          "Cumpărați un card 'bonobús' pentru călătorii mai ieftine.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Aplicația Google Maps oferă informații fiabile despre transportul public.",
+          "Validați biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a 'bonobús' card for cheaper fares.",
+          "Check bus schedules in advance, especially on weekends.",
+          "The Google Maps app provides reliable public transport information.",
+          "Validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

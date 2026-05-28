@@ -1,0 +1,1172 @@
+{
+  "city_id": "austria-schwechat-cities-v2",
+  "anchor": {
+    "name": "Schwechat",
+    "coords": [
+      16.4714,
+      48.1389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathauspark & Rathaus",
+            "hu": "Városháza Park és Városháza",
+            "ro": "Parcul Primăriei și Primăria",
+            "en": "City Hall Park & City Hall"
+          },
+          "coords": [
+            16.4722,
+            48.1395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, ideal für erste Fotos.",
+            "hu": "Kezdje a napot a város szívében, ideális hely az első fotókhoz.",
+            "ro": "Începeți ziua în inima orașului, ideal pentru primele fotografii.",
+            "en": "Start your day in the heart of the city, perfect for first photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Jakob",
+            "hu": "Szent Jakab plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "St. Jacob's Parish Church"
+          },
+          "coords": [
+            16.4735,
+            48.1388
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden barocken Details im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk részleteket a templom belsejében.",
+            "ro": "Observați detaliile baroce impresionante din interior.",
+            "en": "Pay attention to the impressive baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Schwechat",
+            "hu": "Schwechati Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate din Schwechat",
+            "en": "Schwechat Railway Museum"
+          },
+          "coords": [
+            16.4799,
+            48.1411
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Technikbegeisterte mit historischen Lokomotiven.",
+            "hu": "Technikai rajongóknak kötelező, történelmi mozdonyokkal.",
+            "ro": "O necesitate pentru pasionații de tehnologie, cu locomotive istorice.",
+            "en": "A must-see for technology enthusiasts with historic locomotives."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Schwechat",
+            "hu": "Schwechati Sörfőzde",
+            "ro": "Fabrica de bere Schwechat",
+            "en": "Schwechat Brewery"
+          },
+          "coords": [
+            16.478,
+            48.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um mehr über die Bierherstellung zu erfahren und zu verkosten.",
+            "hu": "Foglaljon túrát, hogy többet megtudjon a sörfőzésről és kóstoljon.",
+            "ro": "Rezervați un tur pentru a afla mai multe despre producția de bere și pentru a degusta.",
+            "en": "Book a tour to learn about beer production and have a tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rothmühle",
+            "hu": "Rothmühle kastély",
+            "ro": "Castelul Rothmühle",
+            "en": "Rothmühle Castle"
+          },
+          "coords": [
+            16.4602,
+            48.1345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Berühmt für seine Nestroy-Spiele im Sommer, ein kulturelles Highlight.",
+            "hu": "Nyáron a Nestroy Játékokról híres, ami egy kulturális fénypont.",
+            "ro": "Renumit pentru jocurile Nestroy din timpul verii, un punct culminant cultural.",
+            "en": "Famous for its Nestroy Theatre Festival in summer, a cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Felmayergarten",
+            "hu": "Felmayer-kert",
+            "ro": "Grădina Felmayer",
+            "en": "Felmayer Garden"
+          },
+          "coords": [
+            16.4625,
+            48.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Egy szép hely a nap pihentető befejezéséhez.",
+            "ro": "Un loc frumos pentru a încheia ziua într-un mod relaxant.",
+            "en": "A beautiful place to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Schwechat beginnt am belebten Rathauspark. Vormittags erkunden Sie die barocke Pracht der St.-Jakob-Kirche und tauchen dann in die technische Geschichte im Eisenbahnmuseum ein. Mittags steht die berühmte Brauerei Schwechat auf dem Programm, wo Sie mehr über das lokale Bier erfahren. Am Nachmittag schlendern Sie zum historischen Schloss Rothmühle. Ihren Tag beenden Sie mit einem entspannten Spaziergang durch den malerischen Felmayergarten.",
+        "hu": "Sétája Schwechaton a nyüzsgő Városháza Parknál kezdődik. Délelőtt felfedezi a Szent Jakab-templom barokk pompáját, majd elmerül a technika történetében a Vasúti Múzeumban. Délben a híres Schwechati Sörfőzde szerepel a programban, ahol többet tudhat meg a helyi sörről. Délután átsétál a történelmi Rothmühle kastélyhoz. A napot egy pihentető sétával zárja a festői Felmayer-kertben.",
+        "ro": "Plimbarea dumneavoastră prin Schwechat începe în animatul Parc al Primăriei. Dimineața explorați splendoarea barocă a Bisericii Sf. Iacob, apoi vă cufundați în istoria tehnică la Muzeul Căilor Ferate. La prânz, programul include faimoasa fabrică de bere Schwechat, unde veți afla mai multe despre berea locală. După-amiaza vă plimbați la istoricul Castel Rothmühle. Încheiați ziua cu o plimbare relaxantă prin pitoreasca Grădină Felmayer.",
+        "en": "Your walk through Schwechat begins at the bustling City Hall Park. In the morning, you'll explore the baroque splendor of St. Jacob's Church before diving into technical history at the Railway Museum. At midday, the famous Schwechat Brewery is on the agenda, where you'll learn about local beer. In the afternoon, you'll stroll to the historic Rothmühle Castle. You'll end your day with a relaxing walk through the picturesque Felmayer Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "Ein Muss in der Nähe von Wien. Suchen Sie nach einem traditionellen 'Gasthaus'."
+          },
+          {
+            "name": "Schwechater Bier",
+            "tip": "Probieren Sie das lokale Lager direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bécsi szelet",
+            "tip": "Kötelező Bécs környékén. Keressen egy hagyományos 'Gasthaus'-t."
+          },
+          {
+            "name": "Schwechati sör",
+            "tip": "Kóstolja meg a helyi világos sört egyenesen a forrásból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șnițel vienez",
+            "tip": "O necesitate în apropierea Vienei. Căutați un 'Gasthaus' tradițional."
+          },
+          {
+            "name": "Berea Schwechater",
+            "tip": "Gustați berea blondă locală direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Schnitzel",
+            "tip": "A must-try near Vienna. Look for a traditional 'Gasthaus'."
+          },
+          {
+            "name": "Schwechater Beer",
+            "tip": "Taste the local lager straight from the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felmayergarten",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Phönixpark",
+            "tip": "Ein weiterer friedlicher Ort für einen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felmayer-kert",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Phönixpark",
+            "tip": "Egy másik békés hely egy sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Felmayer",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Phönix",
+            "tip": "Un alt loc pașnic pentru o plimbare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Felmayer Garden",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Phönix Park",
+            "tip": "Another peaceful spot for a stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Gebäck oder Brot als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss péksüteményt vagy kenyeret emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie proaspete sau pâine ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some fresh pastries or bread as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Eisenbahnmuseums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Ellenőrizze előre a Vasúti Múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe drumuri toată ziua.",
+          "Verificați în avans programul de funcționare al Muzeului Căilor Ferate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check the opening hours of the Railway Museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathauspark & Rathaus",
+            "hu": "Városháza Park és Városháza",
+            "ro": "Parcul Primăriei și Primăria",
+            "en": "City Hall Park & City Hall"
+          },
+          "coords": [
+            16.4722,
+            48.1395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um Ihr Fahrrad zu überprüfen.",
+            "hu": "Jó kiindulópont a kerékpár ellenőrzéséhez.",
+            "ro": "Un punct bun de plecare pentru a vă verifica bicicleta.",
+            "en": "A good starting point to check your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Jakob",
+            "hu": "Szent Jakab plébániatemplom",
+            "ro": "Biserica parohială Sf. Iacob",
+            "en": "St. Jacob's Parish Church"
+          },
+          "coords": [
+            16.4735,
+            48.1388
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Securely lock your bike before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Schwechat",
+            "hu": "Schwechati Sörfőzde",
+            "ro": "Fabrica de bere Schwechat",
+            "en": "Schwechat Brewery"
+          },
+          "coords": [
+            16.478,
+            48.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Denken Sie daran: Don't drink and drive!",
+            "hu": "Ne feledje: ittasan ne vezessen!",
+            "ro": "Nu uitați: nu beți și conduceți!",
+            "en": "Remember: don't drink and drive!"
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Schwechat",
+            "hu": "Schwechati Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate din Schwechat",
+            "en": "Schwechat Railway Museum"
+          },
+          "coords": [
+            16.4799,
+            48.1411
+          ],
+          "category": "museums",
+          "arrive_at": "11:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viel zu sehen, planen Sie genügend Zeit ein.",
+            "hu": "Sok a látnivaló, tervezzen elegendő időt.",
+            "ro": "Multe de văzut, planificați suficient timp.",
+            "en": "Lots to see, so plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Phönixpark",
+            "hu": "Phönixpark",
+            "ro": "Parcul Phönix",
+            "en": "Phönix Park"
+          },
+          "coords": [
+            16.49,
+            48.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Pause und einen Snack.",
+            "hu": "Ideális egy rövid pihenőre és egy harapnivalóra.",
+            "ro": "Ideal pentru o scurtă pauză și o gustare.",
+            "en": "Ideal for a short break and a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rothmühle",
+            "hu": "Rothmühle kastély",
+            "ro": "Castelul Rothmühle",
+            "en": "Rothmühle Castle"
+          },
+          "coords": [
+            16.4602,
+            48.1345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch ruhigere Teile der Stadt.",
+            "hu": "Az ide vezető kerékpárút a város csendesebb részein halad át.",
+            "ro": "Plimbarea cu bicicleta până aici trece prin părți mai liniștite ale orașului.",
+            "en": "The bike ride here takes you through quieter parts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Felmayergarten",
+            "hu": "Felmayer-kert",
+            "ro": "Grădina Felmayer",
+            "en": "Felmayer Garden"
+          },
+          "coords": [
+            16.4625,
+            48.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss Ihrer Radtour.",
+            "hu": "A kerékpártúra pihentető befejezése.",
+            "ro": "O încheiere relaxantă a turului dumneavoastră cu bicicleta.",
+            "en": "A relaxing end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am Rathauspark. Der Vormittag führt Sie zur St.-Jakob-Kirche und zur berühmten Brauerei. Nach einem kurzen Stopp geht es weiter zum Eisenbahnmuseum. Mittags machen Sie eine Pause im Phönixpark. Der Nachmittag ist dem imposanten Schloss Rothmühle gewidmet, bevor Sie Ihre Tour im friedlichen Felmayergarten ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra és induljon a Városháza Parktól. A délelőtt a Szent Jakab-templomhoz és a híres sörfőzdéhez vezet. Egy rövid megálló után irány a Vasúti Múzeum. Délben tartson szünetet a Phönixparkban. A délután a lenyűgöző Rothmühle kastélyé, mielőtt a túrát a békés Felmayer-kertben fejezné be.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Parcul Primăriei. Dimineața vă duce la Biserica Sf. Iacob și la faimoasa fabrică de bere. După o scurtă oprire, continuați spre Muzeul Căilor Ferate. La prânz, faceți o pauză în Parcul Phönix. După-amiaza este dedicată impunătorului Castel Rothmühle, înainte de a încheia turul în liniștita Grădină Felmayer.",
+        "en": "Hop on your bike and start at the City Hall Park. The morning takes you to St. Jacob's Church and the famous brewery. After a short stop, continue to the Railway Museum. At noon, take a break in Phönix Park. The afternoon is dedicated to the imposing Rothmühle Castle before you end your tour in the peaceful Felmayer Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käsekrainer",
+            "tip": "Eine schnelle und herzhafte Wurst, perfekt für Radfahrer."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Belohnen Sie sich nach der Tour mit diesem Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtos kolbász (Käsekrainer)",
+            "tip": "Gyors és laktató kolbász, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Almásrétes",
+            "tip": "Jutalmazza meg magát a túra után ezzel a klasszikussal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käsekrainer",
+            "tip": "Un cârnat rapid și consistent, perfect pentru bicicliști."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Recompensați-vă cu acest clasic după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käsekrainer",
+            "tip": "A quick and hearty sausage, perfect for cyclists."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "Reward yourself with this classic dessert after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Flusses Schwechat",
+            "tip": "Folgen Sie dem Flussufer für eine ruhige Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felmayergarten",
+            "tip": "Ein perfekter Ort zum Entspannen nach der Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Schwechat folyó mentén",
+            "tip": "Kövesse a folyópartot egy csendes utazáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felmayer-kert",
+            "tip": "Tökéletes hely a pihenésre a tekerés után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul râului Schwechat",
+            "tip": "Urmați malul râului pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Felmayer",
+            "tip": "Un loc perfect pentru a vă relaxa după plimbare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Schwechat River",
+            "tip": "Follow the riverbank for a quiet ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felmayer Garden",
+            "tip": "A perfect spot to relax after the ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick fix."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schwechat ist relativ flach und daher gut für Radtouren geeignet.",
+          "Achten Sie auf Radwege und respektieren Sie die Verkehrsregeln."
+        ],
+        "hu": [
+          "Schwechat viszonylag sík, ezért kiválóan alkalmas kerékpártúrákra.",
+          "Figyeljen a kerékpárutakra és tartsa be a közlekedési szabályokat."
+        ],
+        "ro": [
+          "Schwechat este relativ plat și, prin urmare, potrivit pentru tururi cu bicicleta.",
+          "Fiți atenți la pistele de biciclete și respectați regulile de circulație."
+        ],
+        "en": [
+          "Schwechat is relatively flat, making it great for bike tours.",
+          "Look for cycle paths and respect traffic rules."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Rothmühle (Cluster A)",
+            "hu": "Rothmühle kastély (A csoport)",
+            "ro": "Castelul Rothmühle (Grupul A)",
+            "en": "Rothmühle Castle (Cluster A)"
+          },
+          "coords": [
+            16.4602,
+            48.1345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit Geschichte.",
+            "hu": "Parkoljon le itt, és kezdje a napot a történelemmel.",
+            "ro": "Parcați aici și începeți-vă ziua cu istorie.",
+            "en": "Park here and start your day with history."
+          }
+        },
+        {
+          "name": {
+            "de": "Felmayergarten (Cluster A)",
+            "hu": "Felmayer-kert (A csoport)",
+            "ro": "Grădina Felmayer (Grupul A)",
+            "en": "Felmayer Garden (Cluster A)"
+          },
+          "coords": [
+            16.4625,
+            48.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt für eine ruhige Pause.",
+            "hu": "Rövid séta a kastélytól, tökéletes egy csendes pihenőhöz.",
+            "ro": "O scurtă plimbare de la castel, perfectă pentru o pauză liniștită.",
+            "en": "A short walk from the castle, perfect for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Pfarrkirche (Cluster B)",
+            "hu": "Városháza és Plébániatemplom (B csoport)",
+            "ro": "Primăria și Biserica Parohială (Grupul B)",
+            "en": "City Hall & Parish Church (Cluster B)"
+          },
+          "coords": [
+            16.4722,
+            48.1395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den Hauptplatz und die Kirche zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel gyalog a főteret és a templomot.",
+            "ro": "Parcați în centru și explorați piața principală și biserica pe jos.",
+            "en": "Park in the center and explore the main square and church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum (Cluster C)",
+            "hu": "Vasúti Múzeum (C csoport)",
+            "ro": "Muzeul Căilor Ferate (Grupul C)",
+            "en": "Railway Museum (Cluster C)"
+          },
+          "coords": [
+            16.4799,
+            48.1411
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses detaillierte Museum ein. Parkplätze sind vorhanden.",
+            "hu": "Tervezzen elegendő időt erre a részletes múzeumra. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Planificați suficient timp pentru acest muzeu detaliat. Sunt disponibile locuri de parcare.",
+            "en": "Plan enough time for this detailed museum. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Schwechat (Cluster C)",
+            "hu": "Schwechati Sörfőzde (C csoport)",
+            "ro": "Fabrica de bere Schwechat (Grupul C)",
+            "en": "Schwechat Brewery (Cluster C)"
+          },
+          "coords": [
+            16.478,
+            48.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am Museum stehen und gehen Sie zur Brauerei.",
+            "hu": "Hagyja az autót a múzeumnál, és sétáljon el a sörfőzdébe.",
+            "ro": "Lăsați mașina la muzeu și mergeți pe jos până la fabrica de bere.",
+            "en": "Leave the car at the museum and walk to the brewery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Schwechat beginnt am historischen Schloss Rothmühle. Nach einem Spaziergang durch den nahen Felmayergarten fahren Sie ins Stadtzentrum, um das Rathaus und die Kirche zu besichtigen. Der Nachmittag ist der Technik gewidmet: Sie parken am Eisenbahnmuseum für eine ausführliche Besichtigung und spazieren von dort zur berühmten Brauerei, um den Tag bei einer Führung ausklingen zu lassen.",
+        "hu": "Autós napja Schwechaton a történelmi Rothmühle kastélynál kezdődik. A közeli Felmayer-kertben tett séta után a városközpontba hajt, hogy megnézze a városházát és a templomot. A délután a technikáé: leparkol a Vasúti Múzeumnál egy alapos látogatásra, és onnan átsétál a híres sörfőzdébe, hogy egy túrával zárja a napot.",
+        "ro": "Ziua dumneavoastră cu mașina în Schwechat începe la istoricul Castel Rothmühle. După o plimbare prin Grădina Felmayer din apropiere, conduceți spre centrul orașului pentru a vizita primăria și biserica. După-amiaza este dedicată tehnologiei: parcați la Muzeul Căilor Ferate pentru o vizită detaliată și de acolo mergeți pe jos la faimoasa fabrică de bere pentru a încheia ziua cu un tur.",
+        "en": "Your car tour in Schwechat starts at the historic Rothmühle Castle. After a walk through the nearby Felmayer Garden, you'll drive to the city center to visit the town hall and church. The afternoon is dedicated to technology: you park at the Railway Museum for a detailed visit and from there walk to the famous brewery to end the day with a tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tafelspitz",
+            "tip": "Ein klassisches österreichisches Rindfleischgericht, oft in Gasthäusern zu finden."
+          },
+          {
+            "name": "Marillenknödel",
+            "tip": "Süße Aprikosenknödel, eine köstliche Nachspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tafelspitz (főtt marhahús)",
+            "tip": "Klasszikus osztrák marhahúsétel, gyakran megtalálható a fogadókban."
+          },
+          {
+            "name": "Sárgabarackgombóc (Marillenknödel)",
+            "tip": "Édes gombóc, finom desszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tafelspitz",
+            "tip": "Un fel de mâncare clasic austriac din carne de vită, adesea găsit în hanuri."
+          },
+          {
+            "name": "Găluște cu caise (Marillenknödel)",
+            "tip": "Un desert delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tafelspitz",
+            "tip": "A classic Austrian boiled beef dish, often found in traditional inns."
+          },
+          {
+            "name": "Apricot Dumplings (Marillenknödel)",
+            "tip": "Sweet apricot dumplings, a delicious dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felmayergarten",
+            "tip": "Ein idealer Ort für eine Pause zwischen den Autofahrten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rathauspark",
+            "tip": "Eine kleine grüne Oase im Stadtzentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felmayer-kert",
+            "tip": "Ideális hely egy szünetre a vezetések között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városháza Park",
+            "tip": "Egy kis zöld oázis a városközpontban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Felmayer",
+            "tip": "Un loc ideal pentru o pauză între drumuri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Primăriei",
+            "tip": "O mică oază de verdeață în centrul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Felmayer Garden",
+            "tip": "An ideal place for a break between drives.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "City Hall Park",
+            "tip": "A small green oasis in the city center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Brauereishop",
+            "tip": "Kaufen Sie Bierspezialitäten oder Gläser als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sörfőzde boltja",
+            "tip": "Vásároljon sörkülönlegességeket vagy poharakat emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii de bere",
+            "tip": "Cumpărați specialități de bere sau pahare ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brewery Shop",
+            "tip": "Buy beer specialties or glasses as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Strategie, um Parkgebühren zu minimieren.",
+          "Überprüfen Sie die Parkmöglichkeiten an jedem Cluster-Startpunkt im Voraus."
+        ],
+        "hu": [
+          "Használja a csoportosítási stratégiát a parkolási díjak minimalizálására.",
+          "Előre ellenőrizze a parkolási lehetőségeket minden csoport kiindulópontjánál."
+        ],
+        "ro": [
+          "Utilizați strategia de grupare pentru a minimiza taxele de parcare.",
+          "Verificați în avans opțiunile de parcare la fiecare punct de plecare al grupului."
+        ],
+        "en": [
+          "Use the cluster strategy to minimize parking fees.",
+          "Check parking options at each cluster starting point in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schwechat Bahnhof (Ankunft)",
+            "hu": "Schwechat vasútállomás (Érkezés)",
+            "ro": "Gara Schwechat (Sosire)",
+            "en": "Schwechat Train Station (Arrival)"
+          },
+          "coords": [
+            16.4805,
+            48.142
+          ],
+          "category": "transit-hub",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un abonament de o zi pentru transportul public.",
+            "en": "Buy a day pass for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Schwechat (Cluster A)",
+            "hu": "Schwechati Vasúti Múzeum (A csoport)",
+            "ro": "Muzeul Căilor Ferate din Schwechat (Grupul A)",
+            "en": "Schwechat Railway Museum (Cluster A)"
+          },
+          "coords": [
+            16.4799,
+            48.1411
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Passenderweise direkt neben dem Bahnhof gelegen.",
+            "hu": "Kényelmesen, közvetlenül a vasútállomás mellett található.",
+            "ro": "Convenabil, situat chiar lângă gară.",
+            "en": "Conveniently located right next to the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Pfarrkirche (Cluster B)",
+            "hu": "Városháza és Plébániatemplom (B csoport)",
+            "ro": "Primăria și Biserica Parohială (Grupul B)",
+            "en": "City Hall & Parish Church (Cluster B)"
+          },
+          "coords": [
+            16.4722,
+            48.1395
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Menjen busszal a központba, és fedezze fel a környéket gyalog.",
+            "ro": "Luați un autobuz spre centru și explorați zona pe jos.",
+            "en": "Take a bus to the center and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauerei Schwechat (Cluster B)",
+            "hu": "Schwechati Sörfőzde (B csoport)",
+            "ro": "Fabrica de bere Schwechat (Grupul B)",
+            "en": "Schwechat Brewery (Cluster B)"
+          },
+          "coords": [
+            16.478,
+            48.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare din piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rothmühle (Cluster C)",
+            "hu": "Rothmühle kastély (C csoport)",
+            "ro": "Castelul Rothmühle (Grupul C)",
+            "en": "Rothmühle Castle (Cluster C)"
+          },
+          "coords": [
+            16.4602,
+            48.1345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem kulturellen Juwel.",
+            "hu": "Egy újabb rövid buszút visz el ehhez a kulturális gyöngyszemhez.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă va duce la această bijuterie culturală.",
+            "en": "Another short bus ride takes you to this cultural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof Schwechat. Nach dem Besuch des benachbarten Eisenbahnmuseums nehmen Sie einen Bus ins Zentrum. Dort erkunden Sie zu Fuß das Rathaus und die Kirche, gefolgt von einem Besuch der Brauerei. Am Nachmittag bringt Sie ein weiterer Bus zum Schloss Rothmühle, wo Sie in die lokale Kultur eintauchen, bevor Sie die Rückreise antreten.",
+        "hu": "A nap a schwechati vasútállomáson kezdődik. A szomszédos Vasúti Múzeum meglátogatása után busszal jut el a központba. Ott gyalog fedezi fel a Városházát és a templomot, majd ellátogat a sörfőzdébe. Délután egy másik busz elviszi a Rothmühle kastélyhoz, ahol elmerülhet a helyi kultúrában, mielőtt hazaindulna.",
+        "ro": "Ziua dumneavoastră începe la gara din Schwechat. După vizitarea Muzeului Căilor Ferate din apropiere, luați un autobuz spre centru. Acolo explorați pe jos primăria și biserica, urmate de o vizită la fabrica de bere. După-amiaza, un alt autobuz vă duce la Castelul Rothmühle, unde vă puteți cufunda în cultura locală înainte de a vă întoarce.",
+        "en": "Your day starts at Schwechat train station. After visiting the adjacent Railway Museum, you take a bus to the center. There you explore the City Hall and church on foot, followed by a visit to the brewery. In the afternoon, another bus takes you to Rothmühle Castle, where you can immerse yourself in local culture before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch",
+            "tip": "Ein wärmendes Gericht, ideal nach einer Busfahrt."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein zerrissener Pfannkuchen, der als Hauptgericht oder Dessert serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás",
+            "tip": "Melegítő étel, ideális egy buszozás után."
+          },
+          {
+            "name": "Császármorzsa (Kaiserschmarrn)",
+            "tip": "Tépett palacsinta, főételként vagy desszertként tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș",
+            "tip": "Un fel de mâncare încălzitor, ideal după o călătorie cu autobuzul."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită sfâșiată, servită ca fel principal sau desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash",
+            "tip": "A warming dish, ideal after a bus ride."
+          },
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A shredded pancake, served as a main course or dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rathauspark",
+            "tip": "Eine gute Gelegenheit, auf den nächsten Bus zu warten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Rothmühle",
+            "tip": "Genießen Sie die Ruhe um das Schloss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza Park",
+            "tip": "Jó lehetőség a következő buszra várni.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rothmühle kastélypark",
+            "tip": "Élvezze a csendet a kastély körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Primăriei",
+            "tip": "O bună oportunitate de a aștepta următorul autobuz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Rothmühle",
+            "tip": "Bucurați-vă de liniștea din jurul castelului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Hall Park",
+            "tip": "A good opportunity to wait for the next bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rothmühle Castle Park",
+            "tip": "Enjoy the tranquility around the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Für Last-Minute-Snacks oder eine Zeitung für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a pályaudvaron",
+            "tip": "Utolsó pillanatos harapnivalókért vagy egy újságért az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Pentru gustări de ultim moment sau un ziar pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "For last-minute snacks or a newspaper for the journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Fahrplan-App herunter, um die Bus- und Zugzeiten im Auge zu behalten.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets."
+        ],
+        "hu": [
+          "Töltsön le egy menetrend-alkalmazást, hogy nyomon kövesse a busz- és vonatidőket.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek."
+        ],
+        "ro": [
+          "Descărcați o aplicație de orare pentru a urmări orele de autobuz și de tren.",
+          "Un abonament de o zi este adesea mai ieftin decât biletele individuale."
+        ],
+        "en": [
+          "Download a timetable app to keep track of bus and train times.",
+          "A day pass is often cheaper than single tickets."
+        ]
+      }
+    }
+  }
+}

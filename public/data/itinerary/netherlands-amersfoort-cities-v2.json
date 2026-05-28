@@ -1,0 +1,1460 @@
+{
+  "city_id": "netherlands-amersfoort-cities-v2",
+  "anchor": {
+    "name": "Amersfoort",
+    "coords": [
+      5.3872,
+      52.1552
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Onze Lieve Vrouwetoren",
+            "hu": "Miasszonyunk-torony",
+            "ro": "Turnul Maicii Domnului",
+            "en": "Tower of Our Lady"
+          },
+          "coords": [
+            5.3873,
+            52.1555
+          ],
+          "category": "towers",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets im Voraus, um die 346 Stufen für die beste Aussicht zu erklimmen.",
+            "hu": "Vegyél jegyet előre a 346 lépcső megmászásához a legjobb kilátásért.",
+            "ro": "Cumpărați bilete în avans pentru a urca cele 346 de trepte pentru cea mai bună priveliște.",
+            "en": "Buy tickets in advance to climb the 346 steps for the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Joriskerk",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George's Church"
+          },
+          "coords": [
+            5.3888,
+            52.1565
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Orgel und die ruhige Atmosphäre.",
+            "hu": "Csodáld meg a lenyűgöző orgonát és a békés légkört.",
+            "ro": "Admirați orga impresionantă și atmosfera liniștită.",
+            "en": "Admire the impressive organ and the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Muurhuizen",
+            "hu": "Muurhuizen (Fal-házak)",
+            "ro": "Muurhuizen (Casele din zid)",
+            "en": "Muurhuizen (Wall Houses)"
+          },
+          "coords": [
+            5.3912,
+            52.158
+          ],
+          "category": "old-town",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie einfach der Straße, um die einzigartige Architektur zu genießen.",
+            "hu": "Csak kövesd az utcát, és élvezd az egyedi építészetet.",
+            "ro": "Pur și simplu urmați strada pentru a vă bucura de arhitectura unică.",
+            "en": "Simply follow the street to enjoy the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Koppelpoort",
+            "hu": "Koppelpoort (Városkapu)",
+            "ro": "Poarta Koppelpoort",
+            "en": "Koppelpoort (Gate)"
+          },
+          "coords": [
+            5.3945,
+            52.1591
+          ],
+          "category": "castles",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für Fotos ist von der kleinen Brücke gegenüber.",
+            "hu": "A legjobb fotóhely a szemközti kis hídról nyílik.",
+            "ro": "Cel mai bun loc pentru fotografii este de pe podul mic de vizavi.",
+            "en": "The best photo spot is from the small bridge opposite it."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondriaanhuis",
+            "hu": "Mondrian Ház",
+            "ro": "Casa Mondrian",
+            "en": "Mondriaan House"
+          },
+          "coords": [
+            5.3855,
+            52.1585
+          ],
+          "category": "museums",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber moderner Kunst; erleben Sie die Entwicklung von Mondrian.",
+            "hu": "A modern művészet kedvelőinek kötelező; tapasztalja meg Mondrian fejlődését.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă modernă; experimentați evoluția lui Mondrian.",
+            "en": "A must-visit for modern art lovers; experience Mondrian's evolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Flehite",
+            "hu": "Flehite Múzeum",
+            "ro": "Muzeul Flehite",
+            "en": "Museum Flehite"
+          },
+          "coords": [
+            5.392,
+            52.1575
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Amersfoort in diesem schönen Gebäude.",
+            "hu": "Fedezze fel Amersfoort gazdag történelmét ebben a gyönyörű épületben.",
+            "ro": "Descoperiți istoria bogată a Amersfoortului în această clădire frumoasă.",
+            "en": "Discover the rich history of Amersfoort in this beautiful building."
+          }
+        },
+        {
+          "name": {
+            "de": "Monnikendam",
+            "hu": "Monnikendam (Városkapu)",
+            "ro": "Poarta Monnikendam",
+            "en": "Monnikendam (Gate)"
+          },
+          "coords": [
+            5.3915,
+            52.1533
+          ],
+          "category": "castles",
+          "arrive_at": "17:03",
+          "stay_min": 37,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen, heute ein Restaurant.",
+            "hu": "Egy csendes hely a nap befejezéséhez, ma étterem működik benne.",
+            "ro": "Un loc liniștit pentru a încheia ziua, acum este un restaurant.",
+            "en": "A quiet spot to end the day, it's now a restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Aufstieg auf den Onze Lieve Vrouwetoren für einen atemberaubenden Blick über die mittelalterliche Stadt. Am Vormittag erkunden Sie die historische Sint-Joriskerk und schlendern entlang der einzigartigen Muurhuizen. Am Mittag genießen Sie die malerische Koppelpoort, bevor Sie am Nachmittag in die Welt der Kunst im Mondriaanhuis und der lokalen Geschichte im Museum Flehite eintauchen. Beenden Sie Ihren Spaziergang am ruhigen Monnikendam-Tor und genießen Sie die abendliche Atmosphäre der Kanäle.",
+        "hu": "Kezdje a napot az Onze Lieve Vrouwetoren megmászásával, ahonnan lenyűgöző kilátás nyílik a középkori városra. Délelőtt fedezze fel a történelmi Sint-Joriskerk-et és sétáljon végig az egyedülálló Muurhuizen mentén. Délben csodálja meg a festői Koppelpoort-ot, majd délután merüljön el a művészet világában a Mondriaanhuis-ban és a helytörténetben a Flehite Múzeumban. Fejezze be a sétát a békés Monnikendam kapunál, élvezve a csatornák esti hangulatát.",
+        "ro": "Începeți ziua urcând în Onze Lieve Vrouwetoren pentru o priveliște uluitoare asupra orașului medieval. În cursul dimineții, explorați istorica Sint-Joriskerk și plimbați-vă de-a lungul unicei Muurhuizen. La prânz, admirați pitoreasca Koppelpoort, înainte de a vă scufunda în lumea artei la Mondriaanhuis și în istoria locală la Muzeul Flehite după-amiaza. Încheiați plimbarea la poarta liniștită Monnikendam, bucurându-vă de atmosfera de seară a canalelor.",
+        "en": "Start your day by climbing the Onze Lieve Vrouwetoren for a breathtaking view of the medieval city. In the morning, explore the historic Sint-Joriskerk and wander along the unique Muurhuizen. At midday, admire the picturesque Koppelpoort before diving into the world of art at Mondriaanhuis and local history at Museum Flehite in the afternoon. End your walking tour at the tranquil Monnikendam gate, enjoying the evening atmosphere of the canals."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Probieren Sie sie frisch und warm auf einem der Märkte."
+          },
+          {
+            "name": "Amersfoortse Kei",
+            "tip": "Ein lokales Schokoladendessert, benannt nach einem berühmten Felsbrocken."
+          },
+          {
+            "name": "Restaurant De Hof",
+            "tip": "Genießen Sie ein Abendessen auf dem belebten und malerischen Hof-Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stroopwafel",
+            "tip": "Kóstold meg frissen és melegen valamelyik piacon."
+          },
+          {
+            "name": "Amersfoorti Kavics",
+            "tip": "Egy helyi csokoládédesszert, egy híres szikláról elnevezve."
+          },
+          {
+            "name": "De Hof étterem",
+            "tip": "Élvezz egy vacsorát a nyüzsgő és festői Hof téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Încercați-le proaspete și calde de la una dintre piețe."
+          },
+          {
+            "name": "Amersfoortse Kei",
+            "tip": "Un desert local de ciocolată, numit după un bolovan faimos."
+          },
+          {
+            "name": "Restaurant De Hof",
+            "tip": "Bucurați-vă de o cină în piața plină de viață și pitorească Hof."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stroopwafels",
+            "tip": "Try them fresh and warm from one of the markets."
+          },
+          {
+            "name": "Amersfoortse Kei",
+            "tip": "A local chocolate dessert, named after a famous boulder."
+          },
+          {
+            "name": "Restaurant De Hof",
+            "tip": "Enjoy dinner in the lively and picturesque Hof square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Grachten",
+            "tip": "Finden Sie eine ruhige Bank entlang der weniger belebten Kanäle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hofjes (Innenhöfe)",
+            "tip": "Entdecken Sie versteckte Innenhöfe für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Randenbroek",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für eine grüne Oase.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a csatornák mentén",
+            "tip": "Találj egy csendes padot a kevésbé forgalmas csatornák mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hofjes (Belső udvarok)",
+            "tip": "Fedezz fel rejtett udvarokat egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Randenbroek Park",
+            "tip": "Rövid sétára a központtól egy zöld oázisért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul canalelor",
+            "tip": "Găsiți o bancă liniștită de-a lungul canalelor mai puțin aglomerate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hofjes (curți interioare)",
+            "tip": "Descoperiți curți ascunse pentru un moment de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Randenbroek",
+            "tip": "O scurtă plimbare de centru pentru o oază de verdeață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the canals",
+            "tip": "Find a quiet bench along the less busy canals.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hofjes (Courtyards)",
+            "tip": "Discover hidden courtyards for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Randenbroek Park",
+            "tip": "A short walk from the center for a green oasis.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krommestraat",
+            "tip": "Bekannt für ihre einzigartigen Boutiquen und unabhängigen Geschäfte."
+          },
+          {
+            "name": "Wochenmarkt an der Hof",
+            "tip": "Besuchen Sie freitags oder samstags für lokale Produkte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krommestraat",
+            "tip": "Egyedi butikjairól és független üzleteiről ismert."
+          },
+          {
+            "name": "Heti piac a Hof-on",
+            "tip": "Látogass el pénteken vagy szombaton helyi termékekért és sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Krommestraat",
+            "tip": "Cunoscută pentru buticurile sale unice și magazinele independente."
+          },
+          {
+            "name": "Piața săptămânală de la Hof",
+            "tip": "Vizitați vinerea sau sâmbăta pentru produse locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krommestraat",
+            "tip": "Known for its unique boutiques and independent shops."
+          },
+          {
+            "name": "Weekly Market at De Hof",
+            "tip": "Visit on Friday or Saturday for local produce and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die alten Straßen Kopfsteinpflaster haben.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Verlieren Sie sich in den kleinen Gassen; dort finden Sie die besten Entdeckungen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a régi utcák macskakövesek.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Vigyél magaddal újratölthető vizes palackot; vannak nyilvános kutak.",
+          "Tévedj el a kis sikátorokban; ott találod a legjobb felfedezéseket."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile vechi au piatră cubică.",
+          "Majoritatea atracțiilor din centrul orașului sunt la distanță mică de mers pe jos.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Pierdeți-vă pe aleile mici; acolo veți găsi cele mai bune descoperiri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old streets are cobblestoned.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "Get lost in the small alleyways; that's where you'll find the best discoveries."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Koppelpoort",
+            "hu": "Koppelpoort (Városkapu)",
+            "ro": "Poarta Koppelpoort",
+            "en": "Koppelpoort (Gate)"
+          },
+          "coords": [
+            5.3945,
+            52.1591
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ikonischer Startpunkt für Ihre Radtour durch Amersfoort.",
+            "hu": "Ikonikus kiindulópont az amersfoorti biciklitúrához.",
+            "ro": "Un punct de plecare iconic pentru turul cu bicicleta prin Amersfoort.",
+            "en": "An iconic starting point for your cycling tour of Amersfoort."
+          }
+        },
+        {
+          "name": {
+            "de": "Muurhuizen",
+            "hu": "Muurhuizen (Fal-házak)",
+            "ro": "Muurhuizen (Casele din zid)",
+            "en": "Muurhuizen (Wall Houses)"
+          },
+          "coords": [
+            5.3912,
+            52.158
+          ],
+          "category": "old-town",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie langsam oder schieben Sie Ihr Fahrrad, um die Atmosphäre aufzusaugen.",
+            "hu": "Tekerj lassan, vagy told a biciklit, hogy magadba szívd a hangulatot.",
+            "ro": "Pedalați încet sau împingeți bicicleta pentru a absorbi atmosfera.",
+            "en": "Cycle slowly or push your bike to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze Lieve Vrouwetoren",
+            "hu": "Miasszonyunk-torony",
+            "ro": "Turnul Maicii Domnului",
+            "en": "Tower of Our Lady"
+          },
+          "coords": [
+            5.3873,
+            52.1555
+          ],
+          "category": "towers",
+          "arrive_at": "10:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie den zentralen Platz der Stadt.",
+            "hu": "Parkold le a biciklidet és élvezd a város központi terét.",
+            "ro": "Parcați bicicleta și bucurați-vă de piața centrală a orașului.",
+            "en": "Park your bike and enjoy the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthal KAdE",
+            "hu": "KAdE Művészeti Csarnok",
+            "ro": "Galeria de Artă KAdE",
+            "en": "Kunsthal KAdE"
+          },
+          "coords": [
+            5.3984,
+            52.1611
+          ],
+          "category": "museums",
+          "arrive_at": "11:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderne Kunst am Wasser, eine erfrischende Abwechslung.",
+            "hu": "Modern művészet a vízparton, frissítő változatosság.",
+            "ro": "Artă modernă pe malul apei, o schimbare revigorantă.",
+            "en": "Modern art by the waterside, a refreshing change of pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamp Amersfoort",
+            "hu": "Amersfoorti láger",
+            "ro": "Lagărul Amersfoort",
+            "en": "Camp Amersfoort"
+          },
+          "coords": [
+            5.3601,
+            52.1333
+          ],
+          "category": "monuments",
+          "arrive_at": "13:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine nachdenkliche Fahrt zu einem wichtigen historischen Ort.",
+            "hu": "Elgondolkodtató út egy fontos történelmi helyszínre.",
+            "ro": "O călătorie sobră spre un sit istoric important.",
+            "en": "A somber ride out to an important historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariënhof",
+            "hu": "Mariënhof",
+            "ro": "Mariënhof",
+            "en": "Mariënhof"
+          },
+          "coords": [
+            5.3902,
+            52.1548
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:23",
+          "stay_min": 52,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem ehemaligen Kloster, heute ein kulinarisches Zentrum.",
+            "hu": "Fejezd be a túrát ebben a volt kolostorban, amely ma kulináris központ.",
+            "ro": "Încheiați turul la această fostă mănăstire, acum un centru culinar.",
+            "en": "End your tour at this former monastery, now a culinary hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am ikonischen Koppelpoort. Am Vormittag fahren Sie durch die charmanten Muurhuizen und halten am Onze Lieve Vrouwetoren, dem Herzen der Stadt. Mittags besuchen Sie die moderne Kunst in der Kunsthal KAdE am Wasser. Der Nachmittag ist einer besinnlichen Fahrt zum Kamp Amersfoort gewidmet, einem Ort des Gedenkens. Kehren Sie ins Zentrum zurück, um den Tag im historischen und kulinarischen Ambiente des Mariënhof ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát az ikonikus Koppelpoort-nál. Délelőtt tekerjen át a bájos Muurhuizen-en, és álljon meg a város szívében, az Onze Lieve Vrouwetoren-nél. Délben látogasson el a vízparti Kunsthal KAdE modern művészeti kiállítására. A délutánt egy elgondolkodtató utazásnak szenteljük a Kamp Amersfoort emlékhelyre. Térjen vissza a központba, hogy a napot a Mariënhof történelmi és kulináris hangulatában fejezze be.",
+        "ro": "Începeți turul cu bicicleta de la iconica poartă Koppelpoort. Dimineața, pedalați prin fermecătoarele Muurhuizen și opriți-vă la Onze Lieve Vrouwetoren, inima orașului. La prânz, vizitați arta modernă de la Kunsthal KAdE, pe malul apei. După-amiaza este dedicată unei călătorii sobre la Kamp Amersfoort, un loc de comemorare. Întoarceți-vă în centru pentru a încheia ziua în ambianța istorică și culinară de la Mariënhof.",
+        "en": "Start your cycling tour at the iconic Koppelpoort gate. In the morning, ride through the charming Muurhuizen and stop at the Onze Lieve Vrouwetoren, the heart of the city. At midday, visit the modern art at Kunsthal KAdE by the water. The afternoon is dedicated to a somber ride to Kamp Amersfoort, a place of remembrance. Return to the center to end the day in the historic and culinary ambiance of Mariënhof."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchen (Pannenkoeken)",
+            "tip": "Tanken Sie Energie in einem der vielen Pfannkuchenhäuser nach einer langen Fahrt."
+          },
+          {
+            "name": "Brouwerij de Drie Ringen",
+            "tip": "Eine lokale Brauerei, um nach der Tour ein handwerklich gebrautes Bier zu probieren."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Holländische Pommes mit einer Vielzahl von Saucen, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsinta (Pannenkoeken)",
+            "tip": "Töltődj fel energiával egy hosszú tekerés után a sok palacsintázó egyikében."
+          },
+          {
+            "name": "De Drie Ringen Sörfőzde",
+            "tip": "Helyi sörfőzde, ahol megkóstolhatsz egy kézműves sört a túra után."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Holland sültkrumpli különféle szószokkal, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite (Pannenkoeken)",
+            "tip": "Refaceți-vă energia la una dintre numeroasele case de clătite după o plimbare lungă."
+          },
+          {
+            "name": "Berăria de Drie Ringen",
+            "tip": "O berărie locală pentru a gusta o bere artizanală după tur."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Cartofi prăjiți olandezi cu o varietate de sosuri, perfecți pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancakes (Pannenkoeken)",
+            "tip": "Refuel at one of the many pancake houses after a long ride."
+          },
+          {
+            "name": "De Drie Ringen Brewery",
+            "tip": "A local brewery to sample a craft beer after your tour."
+          },
+          {
+            "name": "Friet met",
+            "tip": "Dutch fries with a variety of sauces, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Flusses Eem",
+            "tip": "Folgen Sie dem Radweg entlang des Flusses für eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Treek-Henschoten",
+            "tip": "Ein großes Wald- und Heidegebiet südlich von Amersfoort für längere, ruhige Fahrten.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang am Eemmeer",
+            "tip": "Eine längere Fahrt, aber die Aussicht auf den Sonnenuntergang ist es wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Eem folyó mentén",
+            "tip": "Kövesd a folyó menti kerékpárutat egy békés kikapcsolódásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Treek-Henschoten",
+            "tip": "Nagy erdős és fenyéres terület Amersfoorttól délre hosszabb, csendes túrákhoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente az Eemmeernél",
+            "tip": "Hosszabb út, de a naplemente látványa megéri.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul râului Eem",
+            "tip": "Urmați pista de biciclete de-a lungul râului pentru o evadare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Treek-Henschoten",
+            "tip": "O zonă mare de pădure și stepă la sud de Amersfoort pentru plimbări mai lungi și liniștite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la Eemmeer",
+            "tip": "O plimbare mai lungă, dar priveliștea apusului merită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Eem River",
+            "tip": "Follow the cycle path along the river for a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Treek-Henschoten",
+            "tip": "A large forest and heathland area south of Amersfoort for longer, quiet rides.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at Eemmeer",
+            "tip": "A longer ride, but the sunset views are worth it.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehörgeschäfte",
+            "tip": "Finden Sie einzigartige niederländische Fahrradaccessoires als Souvenir."
+          },
+          {
+            "name": "Bauernläden am Stadtrand",
+            "tip": "Fahren Sie zu einem 'Boerderijwinkel' für frischen Käse oder Obst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találj egyedi holland kerékpár-kiegészítőket szuvenírként."
+          },
+          {
+            "name": "Tanyasi boltok a külvárosban",
+            "tip": "Tekerj el egy 'Boerderijwinkel'-be friss sajtért vagy gyümölcsért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de accesorii pentru biciclete",
+            "tip": "Găsiți accesorii unice olandeze pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Magazine de fermă la periferie",
+            "tip": "Pedalați până la un 'Boerderijwinkel' pentru brânză proaspătă sau fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessory Shops",
+            "tip": "Find unique Dutch cycling accessories as a souvenir."
+          },
+          {
+            "name": "Farm shops on the outskirts",
+            "tip": "Cycle to a 'Boerderijwinkel' for fresh cheese or fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein 'omafiets' (traditionelles holländisches Fahrrad) für das authentische Erlebnis.",
+          "Achten Sie immer auf die Vorfahrtsregeln für Radfahrer, die sich von denen für Autos unterscheiden können.",
+          "Benutzen Sie Handzeichen, um Ihre Absichten anderen Radfahrern und Fußgängern mitzuteilen.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab, auch für kurze Zeit."
+        ],
+        "hu": [
+          "Bérelj egy 'omafiets'-et (hagyományos holland kerékpár) az autentikus élményért.",
+          "Mindig figyelj a kerékpáros elsőbbségi szabályokra, amelyek eltérhetnek az autósokétól.",
+          "Használj kézjeleket, hogy jelezd szándékaidat a többi kerékpárosnak és gyalogosnak.",
+          "Mindig zárd le a kerékpárodat egy fix tárgyhoz, még rövid időre is."
+        ],
+        "ro": [
+          "Închiriați un 'omafiets' (bicicletă tradițională olandeză) pentru o experiență autentică.",
+          "Fiți întotdeauna atenți la regulile de prioritate pentru bicicliști, care pot fi diferite de cele pentru mașini.",
+          "Folosiți semnale cu mâna pentru a vă indica intențiile celorlalți bicicliști și pietoni.",
+          "Legați-vă întotdeauna bicicleta de un obiect fix, chiar și pentru o perioadă scurtă de timp."
+        ],
+        "en": [
+          "Rent an 'omafiets' (traditional Dutch bike) for the authentic experience.",
+          "Always be aware of cyclist priority rules, which can differ from cars.",
+          "Use hand signals to indicate your intentions to other cyclists and pedestrians.",
+          "Always lock your bike to a fixed object, even for a short time."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Koestraat & Altstadt-Spaziergang",
+            "hu": "Koestraat Parkolóház és Óvárosi Séta",
+            "ro": "Parcare Koestraat & Plimbare în Centrul Vechi",
+            "en": "Koestraat Parking & Old Town Walk"
+          },
+          "coords": [
+            5.39,
+            52.153
+          ],
+          "category": "cluster",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Es ist ein guter Ausgangspunkt für das historische Zentrum.",
+            "hu": "Parkolj le itt egész napra. Jó kiindulópont a történelmi központhoz.",
+            "ro": "Parcați aici pentru o zi. Este un bun punct de plecare pentru centrul istoric.",
+            "en": "Park here for the day. It's a good starting point for the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze Lieve Vrouwetoren",
+            "hu": "Miasszonyunk-torony",
+            "ro": "Turnul Maicii Domnului",
+            "en": "Tower of Our Lady"
+          },
+          "coords": [
+            5.3873,
+            52.1555
+          ],
+          "category": "towers",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus zum zentralen Platz der Stadt.",
+            "hu": "Rövid séta a parkolóháztól a város központi teréig.",
+            "ro": "O scurtă plimbare de la parcare la piața centrală a orașului.",
+            "en": "A short walk from the parking garage to the city's central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Muurhuizen",
+            "hu": "Muurhuizen (Fal-házak)",
+            "ro": "Muurhuizen (Casele din zid)",
+            "en": "Muurhuizen (Wall Houses)"
+          },
+          "coords": [
+            5.3912,
+            52.158
+          ],
+          "category": "old-town",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese einzigartigen Straßen, die auf den alten Stadtmauern gebaut wurden.",
+            "hu": "Sétálj végig ezeken az egyedi utcákon, amelyek a régi városfalakra épültek.",
+            "ro": "Plimbați-vă pe aceste străzi unice construite pe vechile ziduri ale orașului.",
+            "en": "Wander through these unique streets built on the old city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Koppelpoort & Eemplein Cluster",
+            "hu": "Koppelpoort és Eemplein Klaszter",
+            "ro": "Cluster Koppelpoort & Eemplein",
+            "en": "Koppelpoort & Eemplein Cluster"
+          },
+          "coords": [
+            5.397,
+            52.1615
+          ],
+          "category": "cluster",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkhaus Eemplein und erkunden Sie das moderne Viertel.",
+            "hu": "Vezess az Eemplein parkolóházhoz és fedezd fel a modern negyedet.",
+            "ro": "Conduceți la parcarea Eemplein și explorați cartierul modern.",
+            "en": "Drive to the Eemplein parking garage and explore the modern quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthal KAdE",
+            "hu": "KAdE Művészeti Csarnok",
+            "ro": "Galeria de Artă KAdE",
+            "en": "Kunsthal KAdE"
+          },
+          "coords": [
+            5.3984,
+            52.1611
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Parkhaus, ein einfacher erster Halt in diesem Cluster.",
+            "hu": "Közvetlenül a parkolóház mellett, könnyű első megálló ebben a klaszterben.",
+            "ro": "Chiar lângă parcare, o primă oprire ușoară în acest cluster.",
+            "en": "Right next to the parking garage, an easy first stop in this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamp Amersfoort",
+            "hu": "Amersfoorti láger",
+            "ro": "Lagărul Amersfoort",
+            "en": "Camp Amersfoort"
+          },
+          "coords": [
+            5.3601,
+            52.1333
+          ],
+          "category": "monuments",
+          "arrive_at": "14:40",
+          "stay_min": 155,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein wichtiger und nachdenklicher Abschluss Ihrer Reise. Planen Sie genügend Zeit ein.",
+            "hu": "Utazásának fontos és elgondolkodtató befejezése. Tervezzen elegendő időt.",
+            "ro": "O concluzie importantă și sobră a călătoriei dumneavoastră. Alocați suficient timp.",
+            "en": "An important and somber conclusion to your trip. Allow plenty of time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum parken und zu Fuß den Onze Lieve Vrouwetoren und die charmanten Muurhuizen erkunden. Am Vormittag erleben Sie das mittelalterliche Herz der Stadt. Gegen Mittag fahren Sie zum Eemplein-Viertel, einem modernen Kontrast, und besuchen die Kunsthal KAdE. Der Nachmittag ist einem besinnlichen Besuch des Kamp Amersfoort gewidmet, einem wichtigen historischen Ort etwas außerhalb der Stadt. Diese Route kombiniert bequemes Parken mit Spaziergängen und ermöglicht es Ihnen, sowohl das historische als auch das moderne Amersfoort zu erleben.",
+        "hu": "Kezdje a napot a központban parkolva, majd gyalogosan fedezze fel az Onze Lieve Vrouwetoren-t és a bájos Muurhuizen-t. Délelőtt tapasztalja meg a város középkori szívét. Dél körül autózzon az Eemplein negyedbe, egy modern kontrasztként, és látogasson el a Kunsthal KAdE-be. A délutánt a Kamp Amersfoort meglátogatásának szenteljük, amely egy fontos történelmi helyszín a városon kívül. Ez az útvonal ötvözi a kényelmes parkolást a sétákkal, lehetővé téve mind a történelmi, mind a modern Amersfoort megismerését.",
+        "ro": "Începeți ziua parcând în centru și explorând pe jos Onze Lieve Vrouwetoren și fermecătoarele Muurhuizen. În cursul dimineții, experimentați inima medievală a orașului. În jurul prânzului, conduceți spre cartierul Eemplein, un contrast modern, și vizitați Kunsthal KAdE. După-amiaza este dedicată unei vizite sobre la Kamp Amersfoort, un sit istoric important situat chiar în afara orașului. Acest traseu combină parcarea convenabilă cu plimbările, permițându-vă să experimentați atât Amersfoort-ul istoric, cât și cel modern.",
+        "en": "Start your day by parking in the center and exploring the Onze Lieve Vrouwetoren and the charming Muurhuizen on foot. In the morning, experience the medieval heart of the city. Around noon, drive to the Eemplein quarter, a modern contrast, and visit the Kunsthal KAdE. The afternoon is dedicated to a somber visit to Kamp Amersfoort, an important historical site just outside the city. This route combines convenient parking with walking clusters, allowing you to experience both historic and modern Amersfoort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Zuiver",
+            "tip": "Ein Restaurant in der Nähe von Kamp Amersfoort für ein ruhiges Essen nach Ihrem Besuch."
+          },
+          {
+            "name": "Koe-loe",
+            "tip": "Ein chinesisches Restaurant im Mariënhof, für ein einzigartiges kulinarisches Erlebnis."
+          },
+          {
+            "name": "Drive-through Snack",
+            "tip": "Nutzen Sie das Auto für einen schnellen holländischen Snack aus einer 'Automatiek'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zuiver Étterem",
+            "tip": "Étterem a Kamp Amersfoort közelében egy csendes ebédhez a látogatás után."
+          },
+          {
+            "name": "Koe-loe",
+            "tip": "Kínai étterem a Mariënhofban, egyedi kulináris élményért."
+          },
+          {
+            "name": "Autós snack",
+            "tip": "Használd ki az autót egy gyors holland harapnivalóért egy 'Automatiek'-ből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Zuiver",
+            "tip": "Un restaurant lângă Kamp Amersfoort pentru o masă liniștită după vizită."
+          },
+          {
+            "name": "Koe-loe",
+            "tip": "Un restaurant chinezesc în Mariënhof, pentru o experiență culinară unică."
+          },
+          {
+            "name": "Gustare la volan",
+            "tip": "Folosiți mașina pentru o gustare rapidă olandeză de la un 'Automatiek'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Zuiver",
+            "tip": "A restaurant near Kamp Amersfoort for a quiet meal after your visit."
+          },
+          {
+            "name": "Koe-loe",
+            "tip": "A chinese restaurant in the Mariënhof, for a unique dining experience."
+          },
+          {
+            "name": "Drive-through Snack",
+            "tip": "Take advantage of the car for a quick Dutch snack from an 'Automatiek'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soesterduinen",
+            "tip": "Ein kurzes Stück Fahrt zu den größten Sanddünen der Provinz Utrecht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Landgoed Schothorst",
+            "tip": "Fahren Sie zu diesem Anwesen für einen ruhigen Spaziergang und mittelalterliche Gärten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Amersfoortse Bos",
+            "tip": "Ein großer Wald am Rande der Stadt, ideal für eine Pause von der Stadt.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soesterduinen",
+            "tip": "Rövid autóútra Utrecht tartomány legnagyobb homokdűnéihez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schothorst birtok",
+            "tip": "Autózz el ehhez a birtokhoz egy csendes sétáért és középkori kertekért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Amersfoorti erdő",
+            "tip": "Nagy erdő a város szélén, ideális egy kis pihenésre a várostól.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soesterduinen",
+            "tip": "O scurtă călătorie cu mașina până la cele mai mari dune de nisip din provincia Utrecht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Domeniul Schothorst",
+            "tip": "Conduceți până la acest domeniu pentru o plimbare liniștită și grădini medievale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pădurea Amersfoort",
+            "tip": "O pădure mare la marginea orașului, perfectă pentru o pauză de la oraș.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soesterduinen",
+            "tip": "A short drive to the largest sand dunes in the Utrecht province.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Landgoed Schothorst",
+            "tip": "Drive to this estate for a quiet walk and medieval gardens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Amersfoort Forest",
+            "tip": "A large forest on the edge of the city, perfect for a break from town.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Möbelboulevard",
+            "tip": "Wenn Sie an niederländischem Design interessiert sind, fahren Sie zu diesem großen Möbelgeschäftsbereich."
+          },
+          {
+            "name": "Gartencenter",
+            "tip": "Die Niederlande sind berühmt für ihre Blumen; besuchen Sie ein großes Gartencenter am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bútor körút",
+            "tip": "Ha érdekel a holland dizájn, autózz el ehhez a nagy bútorbolt-negyedhez."
+          },
+          {
+            "name": "Kertészeti áruházak",
+            "tip": "Hollandia híres a virágairól; látogass el egy nagy kertészeti központba a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul mobilei",
+            "tip": "Dacă sunteți interesat de designul olandez, conduceți spre această zonă mare de magazine de mobilă."
+          },
+          {
+            "name": "Centre de grădinărit",
+            "tip": "Olanda este renumită pentru flori; vizitați un centru mare de grădinărit la periferie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Furniture Boulevard",
+            "tip": "If you're interested in Dutch design, drive to this large area of furniture stores."
+          },
+          {
+            "name": "Garden Centers",
+            "tip": "The Netherlands is famous for flowers; visit a large garden center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; das Parken im Zentrum kann teuer sein.",
+          "Achten Sie auf 'P+R' (Park and Ride) Schilder für günstigere Parkmöglichkeiten am Stadtrand.",
+          "Das Stadtzentrum ist eine Umweltzone; stellen Sie sicher, dass Ihr Fahrzeug die Anforderungen erfüllt.",
+          "Das Fahren in der Altstadt ist aufgrund der engen Gassen und der vielen Fußgänger nicht zu empfehlen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; a központban a parkolás drága lehet.",
+          "Keresse a 'P+R' (Parkolj és Utazz) táblákat az olcsóbb parkolási lehetőségekért a külvárosban.",
+          "A belváros környezetvédelmi övezet; győződjön meg róla, hogy járműve megfelel az előírásoknak.",
+          "Az óvárosban nem ajánlott vezetni a szűk utcák és a sok gyalogos miatt."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; parcarea în centru poate fi costisitoare.",
+          "Căutați semnele 'P+R' (Park and Ride) pentru opțiuni de parcare mai ieftine la periferie.",
+          "Centrul orașului este o zonă cu emisii scăzute; asigurați-vă că vehiculul dvs. respectă cerințele.",
+          "Conducerea în centrul vechi nu este recomandată din cauza străzilor înguste și a numeroșilor pietoni."
+        ],
+        "en": [
+          "Check parking fees in advance; city center parking can be expensive.",
+          "Look for 'P+R' (Park and Ride) signs for cheaper parking options on the outskirts.",
+          "The city center is a low-emission zone; ensure your vehicle complies.",
+          "Driving in the old city center is not recommended due to narrow streets and many pedestrians."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 12.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralbahnhof & Bus zum Zentrum",
+            "hu": "Központi pályaudvar és busz a központba",
+            "ro": "Gara Centrală & Autobuz spre Centru",
+            "en": "Central Station & Bus to Center"
+          },
+          "coords": [
+            5.3769,
+            52.1525
+          ],
+          "category": "cluster",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen beliebigen Bus in Richtung 'Centrum' vom Hauptbahnhof.",
+            "hu": "Szállj fel bármelyik buszra a 'Centrum' felé a főpályaudvarról.",
+            "ro": "Luați orice autobuz spre 'Centrum' de la gara principală.",
+            "en": "Take any bus towards 'Centrum' from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze Lieve Vrouwetoren",
+            "hu": "Miasszonyunk-torony",
+            "ro": "Turnul Maicii Domnului",
+            "en": "Tower of Our Lady"
+          },
+          "coords": [
+            5.3873,
+            52.1555
+          ],
+          "category": "towers",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Centrum' aus und Sie sind nur wenige Schritte entfernt.",
+            "hu": "Szállj le a 'Centrum' megállónál, és már csak pár lépésre vagy.",
+            "ro": "Coborâți la stația 'Centrum' și sunteți la câțiva pași.",
+            "en": "Get off at the 'Centrum' stop and you are just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Flehite",
+            "hu": "Flehite Múzeum",
+            "ro": "Muzeul Flehite",
+            "en": "Museum Flehite"
+          },
+          "coords": [
+            5.392,
+            52.1575
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Turm durch die historischen Straßen.",
+            "hu": "Kellemes séta a toronytól a történelmi utcákon át.",
+            "ro": "O plimbare plăcută de la turn prin străzile istorice.",
+            "en": "A pleasant walk from the tower through the historic streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Koppelpoort",
+            "hu": "Koppelpoort (Városkapu)",
+            "ro": "Poarta Koppelpoort",
+            "en": "Koppelpoort (Gate)"
+          },
+          "coords": [
+            5.3945,
+            52.1591
+          ],
+          "category": "castles",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses ikonische Tor verbindet die beiden Bereiche Ihrer Tour.",
+            "hu": "Ez az ikonikus kapu köti össze a túra két területét.",
+            "ro": "Această poartă iconică leagă cele două zone ale turului dumneavoastră.",
+            "en": "This iconic gate connects the two areas of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamp Amersfoort",
+            "hu": "Amersfoorti láger",
+            "ro": "Lagărul Amersfoort",
+            "en": "Camp Amersfoort"
+          },
+          "coords": [
+            5.3601,
+            52.1333
+          ],
+          "category": "monuments",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Haltestelle 'De Kei', die Fahrt dauert etwa 20 Minuten.",
+            "hu": "Szállj buszra a 'De Kei' megállóból; az út körülbelül 20 percig tart.",
+            "ro": "Luați un autobuz de la stația 'De Kei'; călătoria durează aproximativ 20 de minute.",
+            "en": "Take a bus from the 'De Kei' stop; the journey takes about 20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariënhof",
+            "hu": "Mariënhof",
+            "ro": "Mariënhof",
+            "en": "Mariënhof"
+          },
+          "coords": [
+            5.3902,
+            52.1548
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und beenden Sie den Tag an diesem historischen Ort.",
+            "hu": "Menj vissza busszal a központba, és fejezd be a napot ezen a történelmi helyen.",
+            "ro": "Luați autobuzul înapoi spre centru și încheiați ziua la acest loc istoric.",
+            "en": "Take the bus back towards the center and end your day at this historic venue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Hauptbahnhof aus bringt Sie ein kurzer Bus Sie ins Herz der Stadt. Beginnen Sie Ihren Morgen mit dem Onze Lieve Vrouwetoren und schlendern Sie dann zum Museum Flehite für eine Dosis Geschichte. Zu Mittag überqueren Sie die Koppelpoort. Der Nachmittag ist einem nachdenklichen Besuch im Kamp Amersfoort gewidmet, das mit dem Bus erreichbar ist. Kehren Sie am späten Nachmittag ins Zentrum zurück, um den Tag im historischen Mariënhof ausklingen zu lassen, bevor Sie mit dem Bus zum Bahnhof zurückkehren.",
+        "hu": "A főpályaudvarról egy rövid buszút visz a város szívébe. Kezdje a reggelt az Onze Lieve Vrouwetoren-nél, majd sétáljon át a Flehite Múzeumba egy adag történelemért. Délben keljen át a Koppelpoort-on. A délutánt egy elgondolkodtató látogatásnak szenteljük a busszal elérhető Kamp Amersfoortban. Késő délután térjen vissza a központba, hogy a napot a történelmi Mariënhofban fejezze be, mielőtt visszatérne busszal az állomásra.",
+        "ro": "De la gara principală, o scurtă călătorie cu autobuzul vă duce în inima orașului. Începeți dimineața la Onze Lieve Vrouwetoren, apoi plimbați-vă la Muzeul Flehite pentru o doză de istorie. La prânz, traversați Koppelpoort. După-amiaza este dedicată unei vizite sobre la Kamp Amersfoort, accesibil cu autobuzul. Întoarceți-vă în centru după-amiaza târziu pentru a încheia ziua la istoricul Mariënhof înainte de a lua autobuzul înapoi la gară.",
+        "en": "From the central station, a short bus ride takes you to the city's heart. Start your morning at the Onze Lieve Vrouwetoren, then stroll to Museum Flehite for a dose of history. At midday, cross the Koppelpoort. The afternoon is for a somber visit to Kamp Amersfoort, reachable by bus. Return to the center in the late afternoon to end the day at the historic Mariënhof before taking a bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Schnappen Sie sich einen Kaffee und ein Gebäck, bevor Sie in den Bus steigen."
+          },
+          {
+            "name": "Bier-Café 't Kantoor",
+            "tip": "Ein gemütliches Pub im Zentrum für ein lokales Bier und einen Snack."
+          },
+          {
+            "name": "Supermarkt am Bahnhof",
+            "tip": "Stellen Sie sich ein Picknick für den Tag zusammen, bevor Sie die Stadt erkunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kávézó",
+            "tip": "Kapj be egy kávét és egy péksüteményt, mielőtt buszra szállsz."
+          },
+          {
+            "name": "'t Kantoor söröző",
+            "tip": "Hangulatos pub a központban egy helyi sörre és harapnivalóra."
+          },
+          {
+            "name": "Szupermarket a pályaudvaron",
+            "tip": "Állíts össze egy pikniket a napra, mielőtt felfedeznéd a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua din gară",
+            "tip": "Luați o cafea și un produs de patiserie înainte de a vă urca în autobuz."
+          },
+          {
+            "name": "Berăria 't Kantoor",
+            "tip": "Un pub primitor în centru pentru o bere locală și o gustare."
+          },
+          {
+            "name": "Supermarket la gară",
+            "tip": "Pregătiți un picnic pentru o zi înainte de a explora orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Café",
+            "tip": "Grab a coffee and a pastry before you hop on the bus."
+          },
+          {
+            "name": "Beer Café 't Kantoor",
+            "tip": "A cozy pub in the center for a local beer and a snack."
+          },
+          {
+            "name": "Supermarket at the station",
+            "tip": "Assemble a picnic for the day before you start exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Aegtenkapel",
+            "tip": "Eine ruhige, oft übersehene Kapelle im Stadtzentrum.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ufer der Eem",
+            "tip": "Nehmen Sie einen Bus in Richtung 'Eemplein' und spazieren Sie am Wasser entlang.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Friedhof Rusthof",
+            "tip": "In der Nähe von Kamp Amersfoort, ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Aegten-kápolna",
+            "tip": "Csendes, gyakran figyelmen kívül hagyott kápolna a városközpontban.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Az Eem partja",
+            "tip": "Szállj buszra az 'Eemplein' felé, és sétálj a vízparton.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Rusthof temető",
+            "tip": "A Kamp Amersfoort közelében, békés hely az elmélkedésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Aegten",
+            "tip": "O capelă liniștită, adesea trecută cu vederea, în centrul orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Malul râului Eem",
+            "tip": "Luați un autobuz spre 'Eemplein' și plimbați-vă pe malul apei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimitirul Rusthof",
+            "tip": "Aproape de Kamp Amersfoort, un loc pașnic pentru reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Aegtenkapel",
+            "tip": "A quiet, often overlooked chapel in the city center.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Banks of the Eem",
+            "tip": "Take a bus towards 'Eemplein' and walk by the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Rusthof Cemetery",
+            "tip": "Near Kamp Amersfoort, a peaceful place for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Utrechtse- und Langestraat",
+            "tip": "Die Haupteinkaufsstraßen, leicht erreichbar von den zentralen Bushaltestellen."
+          },
+          {
+            "name": "Geschäfte rund um den Bahnhof",
+            "tip": "Praktisch für Last-Minute-Souvenirs, bevor Sie die Stadt verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utrechtse- és Langestraat",
+            "tip": "A fő bevásárlóutcák, könnyen megközelíthetők a központi buszmegállókból."
+          },
+          {
+            "name": "Boltok a pályaudvar környékén",
+            "tip": "Praktikus az utolsó pillanatban beszerzett ajándéktárgyakhoz, mielőtt elhagynád a várost."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Utrechtse- și Langestraat",
+            "tip": "Principalele străzi comerciale, ușor accesibile de la stațiile de autobuz centrale."
+          },
+          {
+            "name": "Magazine în jurul gării",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de a părăsi orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Utrechtse- and Langestraat",
+            "tip": "The main shopping streets, easily accessible from the central bus stops."
+          },
+          {
+            "name": "Shops around the station",
+            "tip": "Convenient for last-minute souvenirs before leaving town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'OV-chipkaart' oder verwenden Sie Ihre kontaktlose Debitkarte für einfaches Ein- und Auschecken.",
+          "Eine Tageskarte für den Bus kann günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Busfahrpläne sind an den Haltestellen und online verfügbar.",
+          "Drücken Sie den 'Stopp'-Knopf rechtzeitig, bevor Ihre Haltestelle kommt."
+        ],
+        "hu": [
+          "Vásárolj 'OV-chipkaart'-ot vagy használd az érintés nélküli bankkártyádat a könnyű be- és kijelentkezéshez.",
+          "Egy buszos napijegy olcsóbb lehet, ha több utat tervezel.",
+          "A buszmenetrendek elérhetők a megállókban és online.",
+          "Nyomd meg a 'Stop' gombot jóval a megállód előtt."
+        ],
+        "ro": [
+          "Cumpărați un 'OV-chipkaart' sau folosiți cardul de debit contactless pentru check-in și check-out ușor.",
+          "Un bilet de o zi pentru autobuz poate fi mai ieftin dacă plănuiți mai multe călătorii.",
+          "Programele autobuzelor sunt disponibile la stații și online.",
+          "Apăsați butonul 'Stop' cu mult înainte de stația dvs."
+        ],
+        "en": [
+          "Buy an 'OV-chipkaart' or use your contactless debit card for easy check-in and check-out.",
+          "A day pass for the bus might be cheaper if you plan multiple trips.",
+          "Bus schedules are available at the stops and online.",
+          "Press the 'Stop' button well before your stop approaches."
+        ]
+      }
+    }
+  }
+}

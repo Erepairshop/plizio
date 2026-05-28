@@ -1,0 +1,1685 @@
+{
+  "city_id": "spain-caceres-cities-v2",
+  "anchor": {
+    "name": "Cáceres",
+    "coords": [
+      -6.3724,
+      39.4753
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -6.3718,
+            39.4746
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Kaffee zu beginnen und die Atmosphäre aufzusaugen.",
+            "hu": "Tökéletes hely a napkezdéshez egy kávéval, magába szívva a hangulatot.",
+            "ro": "Locul perfect pentru a începe ziua cu o cafea și a absorbi atmosfera.",
+            "en": "The perfect spot to start your day with a coffee and soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bujaco-Turm",
+            "hu": "Bujaco-torony",
+            "ro": "Turnul Bujaco",
+            "en": "Bujaco Tower"
+          },
+          "coords": [
+            -6.3712,
+            39.4749
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen unschlagbaren Blick über die Plaza Mayor und die Altstadt.",
+            "hu": "Menj fel a tetejére a Plaza Mayorra és az óvárosra nyíló verhetetlen kilátásért.",
+            "ro": "Urcați pentru o priveliște imbatabilă asupra Plaza Mayor și a orașului vechi.",
+            "en": "Climb to the top for an unbeatable view over the Plaza Mayor and the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Sternenbogen (Arco de la Estrella)",
+            "hu": "Csillag-kapu (Arco de la Estrella)",
+            "ro": "Arcul Stelei (Arco de la Estrella)",
+            "en": "Arch of the Star (Arco de la Estrella)"
+          },
+          "coords": [
+            -6.3714,
+            39.4752
+          ],
+          "category": "historical",
+          "arrive_at": "10:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dies ist das Haupttor zur Monumentalstadt. Achten Sie auf die barocke Verzierung.",
+            "hu": "Ez a főkapu a műemlékvárosba. Figyeld meg a barokk díszítést.",
+            "ro": "Aceasta este poarta principală către orașul monumental. Observați ornamentația barocă.",
+            "en": "This is the main gate into the Monumental City. Notice the baroque ornamentation."
+          }
+        },
+        {
+          "name": {
+            "de": "Co-Kathedrale Santa María",
+            "hu": "Santa María társszékesegyház",
+            "ro": "Concatedrala Santa María",
+            "en": "Co-cathedral of Santa María"
+          },
+          "coords": [
+            -6.3728,
+            39.4755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der schwarzen Christusfigur. Das Innere ist eine Mischung aus Romanik und Gotik.",
+            "hu": "Keresd a fekete Krisztus szobrot. A belső tér a román és a gótikus stílus keveréke.",
+            "ro": "Căutați figura lui Hristos Negru. Interiorul este un amestec de romanic și gotic.",
+            "en": "Look for the Black Christ figure. The interior is a mix of Romanesque and Gothic styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Golfines de Abajo",
+            "hu": "Palacio de los Golfines de Abajo",
+            "ro": "Palatul Golfines de Abajo",
+            "en": "Palace of the Golfines de Abajo"
+          },
+          "coords": [
+            -6.3735,
+            39.475
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die reich verzierten Räume und die Rüstkammer zu sehen.",
+            "hu": "Foglalj vezetett túrát, hogy lásd a gazdagon díszített szobákat és a fegyvertárat.",
+            "ro": "Rezervați un tur ghidat pentru a vedea camerele bogat decorate și armurăria.",
+            "en": "Book a guided tour to see the richly decorated rooms and the armoury."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de las Veletas (Museum von Cáceres)",
+            "hu": "Palacio de las Veletas (Cáceres Múzeum)",
+            "ro": "Palatul Veletas (Muzeul din Cáceres)",
+            "en": "Palacio de las Veletas (Museum of Cáceres)"
+          },
+          "coords": [
+            -6.3745,
+            39.4765
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Aljibe (Zisterne) aus dem 12. Jahrhundert im Keller – ein beeindruckendes maurisches Erbe.",
+            "hu": "Ne hagyd ki a 12. századi Aljibét (ciszternát) az alagsorban – lenyűgöző mór örökség.",
+            "ro": "Nu ratați Aljibe (cisterna) din secolul al XII-lea din subsol – o moștenire maură impresionantă.",
+            "en": "Don't miss the 12th-century Aljibe (cistern) in the basement—an impressive Moorish legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Judería Vieja)",
+            "hu": "Zsidónegyed (Judería Vieja)",
+            "ro": "Cartierul Evreiesc (Judería Vieja)",
+            "en": "Jewish Quarter (Judería Vieja)"
+          },
+          "coords": [
+            -6.3752,
+            39.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und entdecken Sie die kleine, aber bedeutende Synagoge.",
+            "hu": "Vessz el a szűk sikátorokban, és fedezd fel a kicsi, de jelentős zsinagógát.",
+            "ro": "Pierdeți-vă pe aleile înguste și descoperiți sinagoga mică, dar importantă.",
+            "en": "Get lost in the narrow alleys and discover the small but significant synagogue."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Francisco Javier",
+            "hu": "San Francisco Javier-templom",
+            "ro": "Biserica San Francisco Javier",
+            "en": "Church of San Francisco Javier"
+          },
+          "coords": [
+            -6.374,
+            39.4758
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Türme für einen anderen, aber ebenso schönen Blick auf die Altstadt.",
+            "hu": "Mássz fel a tornyokba egy másik, de ugyanolyan szép kilátásért az óvárosra.",
+            "ro": "Urcați în turnuri pentru o perspectivă diferită, dar la fel de frumoasă asupra orașului vechi.",
+            "en": "Climb the towers for a different but equally beautiful perspective of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der belebten Plaza Mayor, dem Tor zur Geschichte. Der Vormittag ist der Erkundung der mittelalterlichen Mauern gewidmet, vom Bujaco-Turm bis zur majestätischen Co-Kathedrale Santa María. Nach einem herzhaften Mittagessen tauchen Sie im Museum von Cáceres in die tiefere Geschichte der Region ein und entdecken im Palacio de las Veletas verborgene maurische Zisternen. Der Nachmittag führt Sie durch die stillen Gassen des alten jüdischen Viertels. Beenden Sie den Tag mit einem letzten Aufstieg auf die Türme von San Francisco Javier bei Sonnenuntergang und kehren Sie dann zur Plaza Mayor zurück, um die lebhafte Abendatmosphäre bei Tapas zu genießen.",
+        "hu": "Kezdje a napot a nyüzsgő Plaza Mayoron, a történelem kapujában. A délelőtt a középkori falak felfedezésével telik, a Bujaco-toronytól a fenséges Santa María társszékesegyházig. Egy kiadós ebéd után merüljön el a régió mélyebb történelmében a Cáceres Múzeumban, rejtett mór ciszternákat fedezve fel a Palacio de las Veletasban. A délután a régi zsidónegyed csendes sikátorain vezet keresztül. Zárja a napot egy utolsó mászással a San Francisco Javier tornyaihoz naplementekor, majd térjen vissza a Plaza Mayorra, hogy élvezze az élénk esti hangulatot tapas mellett.",
+        "ro": "Începeți ziua în vibranta Plaza Mayor, poarta către istorie. Dimineața este dedicată explorării zidurilor medievale, de la Turnul Bujaco la majestuoasa Concatedrală Santa María. După un prânz copios, scufundați-vă în istoria mai profundă a regiunii la Muzeul din Cáceres, descoperind cisterne maure ascunse la Palatul Veletas. După-amiaza vă poartă pe aleile liniștite ale vechiului Cartier Evreiesc. Încheiați ziua cu o ultimă urcare în turnurile bisericii San Francisco Javier la apus, apoi reveniți în Plaza Mayor pentru a vă bucura de atmosfera animată de seară cu tapas.",
+        "en": "Start your day in the bustling Plaza Mayor, the gateway to history. The morning is for exploring the medieval walls, from the Bujaco Tower to the majestic Co-cathedral of Santa María. After a hearty lunch, delve into the region's deeper history at the Museum of Cáceres, discovering hidden Moorish cisterns at the Palacio de las Veletas. The afternoon takes you through the quiet alleys of the old Jewish Quarter. End your day with a final climb up the towers of San Francisco Javier at sunset, then return to the Plaza Mayor to enjoy the lively evening atmosphere over tapas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Ein cremiger, kräftiger Schafskäse, der oft als Dip serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, gebraten mit Knoblauch, Paprika und Fleisch. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Der lokale Ibérico-Schinken ist weltberühmt. Probieren Sie ihn im Restaurant Atrio oder auf dem lokalen Markt."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Eine weiche Wurst aus Kartoffeln und Ibérico-Schweinefett, gewürzt mit Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Krémes, erős juhsajt, amelyet gyakran mártásként szolgálnak fel. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Hagyományos étel kenyérmorzsából, fokhagymával, paprikával és hússal sütve. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "A helyi Ibérico sonka világhírű. Kóstolja meg az Atrio étteremben vagy a helyi piacon."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Puha kolbász burgonyából és Ibérico sertészsírból, paprikával fűszerezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta del Casar",
+            "tip": "O brânză cremoasă și puternică din lapte de oaie, adesea servită ca dip. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Un fel de mâncare tradițional din pesmet prăjit cu usturoi, boia și carne. Perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Șunca locală Ibérico este renumită în întreaga lume. Încercați-o la restaurantul Atrio sau la piața locală."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Un cârnat moale făcut din cartofi și grăsime de porc Ibérico, asezonat cu boia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta del Casar",
+            "tip": "A creamy, strong sheep's cheese, often served as a dip. A must-try!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "A traditional dish of breadcrumbs fried with garlic, paprika, and meat. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "The local Ibérico ham is world-famous. Try it at Atrio restaurant or in the local market."
+          },
+          {
+            "name": "Patatera",
+            "tip": "A soft sausage made from potatoes and Ibérico pork fat, seasoned with paprika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Palacio de Carvajal",
+            "tip": "Eine kleine grüne Oase im Herzen der Altstadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Santuario de la Montaña",
+            "tip": "Etwas außerhalb der Stadt, aber der Panoramablick bei Sonnenuntergang ist die Mühe wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Ein breiter, von Bäumen gesäumter Boulevard außerhalb der Mauern für einen entspannten Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacio de Carvajal kertjei",
+            "tip": "Egy kis zöld oázis az óváros szívében, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Santuario de la Montañáról",
+            "tip": "Kicsit a városon kívül van, de a naplementés panoráma megéri a fáradságot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Széles, fákkal szegélyezett sétány a falakon kívül egy pihentető sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Carvajal",
+            "tip": "O mică oază de verdeață în inima orașului vechi, perfectă pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Sanctuarul de la Montaña",
+            "tip": "Puțin în afara orașului, dar vederea panoramică la apus merită efortul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Un bulevard larg, mărginit de copaci, în afara zidurilor, pentru o plimbare relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Palacio de Carvajal",
+            "tip": "A small green oasis in the heart of the old town, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Santuario de la Montaña",
+            "tip": "A bit outside the city, but the panoramic sunset view is worth the effort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "A wide, tree-lined boulevard outside the walls for a relaxing stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach Lederwaren und Keramik, die typisch für die Extremadura sind."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Schinken und Olivenöl direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Pintores",
+            "tip": "A fő bevásárlóutca, ahol nemzeti márkák és helyi butikok keverednek."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Keressen Extremadurára jellemző bőrárukat és kerámiákat."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint sajtot, sonkát és olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Principala stradă comercială cu un amestec de mărci naționale și buticuri locale."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Căutați articole din piele și ceramică, tipice pentru Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum brânză, șuncă și ulei de măsline direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Pintores",
+            "tip": "The main shopping street with a mix of national brands and local boutiques."
+          },
+          {
+            "name": "Craft Shops in the Old Town",
+            "tip": "Look for leather goods and ceramics, typical of Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local products like cheese, ham, and olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe. Das Kopfsteinpflaster der Altstadt kann uneben sein.",
+          "Die meisten Sehenswürdigkeiten befinden sich in einem kompakten, zu Fuß erreichbaren Bereich.",
+          "Planen Sie eine Siesta am Nachmittag ein, da viele kleinere Geschäfte schließen könnten.",
+          "Probieren Sie die lokalen Tapas-Bars rund um die Plaza Mayor für ein authentisches Erlebnis.",
+          "Kaufen Sie ein Kombiticket, wenn verfügbar, um mehrere Monumente zu einem günstigeren Preis zu besichtigen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt. Az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb látnivaló egy kompakt, gyalogosan bejárható területen található.",
+          "Tervezz be egy délutáni sziesztát, mivel sok kisebb üzlet bezárhat.",
+          "Próbáld ki a helyi tapas bárokat a Plaza Mayor környékén egy autentikus élményért.",
+          "Vásárolj kombinált jegyet, ha elérhető, hogy több műemléket kedvezőbb áron látogathass meg."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă. Pietruiala din orașul vechi poate fi denivelată.",
+          "Majoritatea atracțiilor sunt într-o zonă compactă, ușor de parcurs pe jos.",
+          "Planificați o siestă după-amiaza, deoarece multe magazine mici s-ar putea închide.",
+          "Încercați barurile locale de tapas din jurul Plaza Mayor pentru o experiență autentică.",
+          "Cumpărați un bilet combinat, dacă este disponibil, pentru a vizita mai multe monumente la un preț redus."
+        ],
+        "en": [
+          "Wear comfortable shoes. The cobblestones in the old town can be uneven.",
+          "Most sights are within a compact, walkable area.",
+          "Plan for a siesta in the afternoon, as many smaller shops might close.",
+          "Try the local tapas bars around Plaza Mayor for an authentic experience.",
+          "Buy a combined ticket if available to visit multiple monuments at a reduced price."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rund um die Stadtmauern",
+            "hu": "Városfalak körüli kerékpárút",
+            "ro": "Turul zidurilor orașului",
+            "en": "Cycle Around the City Walls"
+          },
+          "coords": [
+            -6.37,
+            39.473
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Radtour um die beeindruckenden almohadischen Mauern, um ein Gefühl für die Größe der Stadt zu bekommen.",
+            "hu": "Kezdd egy kerékpártúrával a lenyűgöző almohád falak körül, hogy átérezd a város méretét.",
+            "ro": "Începeți cu un tur cu bicicleta în jurul impresionantelor ziduri almohade pentru a vă face o idee despre scara orașului.",
+            "en": "Start with a cycle around the impressive Almohad walls to get a feel for the city's scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor (Fahrrad parken)",
+            "hu": "Plaza Mayor (Kerékpár parkolás)",
+            "ro": "Plaza Mayor (Parcare biciclete)",
+            "en": "Plaza Mayor (Park Bike)"
+          },
+          "coords": [
+            -6.3718,
+            39.4746
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:52",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad hier sicher ab. Der Rest der Erkundung erfolgt zu Fuß.",
+            "hu": "Zárd le itt biztonságosan a kerékpárodat. A felfedezés többi része gyalog történik.",
+            "ro": "Legați-vă bicicleta în siguranță aici. Restul explorării se face pe jos.",
+            "en": "Securely lock your bike here. The rest of the exploration is on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de la Estrella & Bujaco-Turm",
+            "hu": "Arco de la Estrella & Bujaco-torony",
+            "ro": "Arco de la Estrella & Turnul Bujaco",
+            "en": "Arco de la Estrella & Bujaco Tower"
+          },
+          "coords": [
+            -6.3713,
+            39.475
+          ],
+          "category": "historical",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie die Altstadt durch das Haupttor und erklimmen Sie sofort den Turm für eine tolle Aussicht.",
+            "hu": "Lépj be az óvárosba a főkapun keresztül, és azonnal mássz fel a toronyba a nagyszerű kilátásért.",
+            "ro": "Intrați în orașul vechi prin poarta principală și urcați imediat în turn pentru o priveliște minunată.",
+            "en": "Enter the old town through the main gate and immediately climb the tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Co-Kathedrale Santa María",
+            "hu": "Santa María társszékesegyház",
+            "ro": "Concatedrala Santa María",
+            "en": "Co-cathedral of Santa María"
+          },
+          "coords": [
+            -6.3728,
+            39.4755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kunstvolle Retabel und die Mischung der Baustile.",
+            "hu": "Csodáld meg a díszes oltárképet és az építészeti stílusok keveredését.",
+            "ro": "Admirați retablul elaborat și amestecul de stiluri arhitecturale.",
+            "en": "Admire the ornate altarpiece and the mix of architectural styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de las Veletas (Museum von Cáceres)",
+            "hu": "Palacio de las Veletas (Cáceres Múzeum)",
+            "ro": "Palatul Veletas (Muzeul din Cáceres)",
+            "en": "Palacio de las Veletas (Museum of Cáceres)"
+          },
+          "coords": [
+            -6.3745,
+            39.4765
+          ],
+          "category": "museums",
+          "arrive_at": "12:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für das Museum und die beeindruckende arabische Zisterne ein.",
+            "hu": "Szánj elegendő időt a múzeumra és a lenyűgöző arab ciszternára.",
+            "ro": "Alocați suficient timp pentru muzeu și pentru impresionanta cisternă arabă.",
+            "en": "Allow plenty of time for the museum and the impressive Arab cistern."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel (Judería Vieja)",
+            "hu": "Zsidónegyed (Judería Vieja)",
+            "ro": "Cartierul Evreiesc (Judería Vieja)",
+            "en": "Jewish Quarter (Judería Vieja)"
+          },
+          "coords": [
+            -6.3752,
+            39.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch diese engen Gassen fühlt sich an wie eine Zeitreise.",
+            "hu": "Séta ezeken a szűk sikátorokon olyan, mintha visszautaznál az időben.",
+            "ro": "O plimbare pe aceste alei înguste este ca o călătorie înapoi în timp.",
+            "en": "A stroll through these narrow alleys feels like a journey back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zur Plaza Mayor",
+            "hu": "Vissza a Plaza Mayorra",
+            "ro": "Întoarcere la Plaza Mayor",
+            "en": "Return to Plaza Mayor"
+          },
+          "coords": [
+            -6.3718,
+            39.4746
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Holen Sie Ihr Fahrrad ab und genießen Sie einen letzten Drink auf dem Platz, bevor Sie losfahren.",
+            "hu": "Veddd fel a kerékpárodat, és igyál meg egy utolsó italt a téren, mielőtt elindulsz.",
+            "ro": "Recuperați-vă bicicleta și bucurați-vă de o ultimă băutură în piață înainte de a pleca.",
+            "en": "Pick up your bike and enjoy a final drink in the square before you head off."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Cáceres-Abenteuer mit einer belebenden Radtour um die alten Stadtmauern. Nachdem Sie Ihr Fahrrad an der Plaza Mayor abgestellt haben, tauchen Sie zu Fuß in das Herz der Geschichte ein. Der Vormittag ist dem Erklimmen von Türmen und dem Bewundern von Kathedralen gewidmet. Nach dem Mittagessen bietet das Museum von Cáceres im Palacio de las Veletas einen tiefen Einblick in die Vergangenheit, insbesondere die erstaunliche arabische Zisterne. Der Nachmittag ist für einen Spaziergang durch die verwinkelten Gassen des jüdischen Viertels reserviert. Beenden Sie den Tag, indem Sie Ihr Fahrrad abholen und die Abendstimmung auf der Plaza Mayor genießen.",
+        "hu": "Kezdje Cáceres-i kalandját egy élénkítő kerékpártúrával az ősi városfalak körül. Miután leparkolta a kerékpárt a Plaza Mayoron, merüljön el gyalog a történelem szívében. A délelőtt a tornyok megmászásáról és a katedrálisok megcsodálásáról szól. Ebéd után a Cáceres Múzeum a Palacio de las Veletasban mély betekintést nyújt a múltba, különösen a lenyűgöző arab ciszternával. A délután a zsidónegyed kanyargós sikátorainak bejárására van fenntartva. Zárja a napot a kerékpár felvételével és az esti hangulat élvezetével a Plaza Mayoron.",
+        "ro": "Începeți aventura în Cáceres cu un tur revigorant cu bicicleta în jurul zidurilor vechi ale orașului. După ce parcați bicicleta în Plaza Mayor, pătrundeți în inima istoriei pe jos. Dimineața este dedicată urcării în turnuri și admirării catedralelor. După prânz, Muzeul din Cáceres de la Palatul Veletas oferă o incursiune profundă în trecut, în special cu uimitoarea sa cisternă arabă. După-amiaza este rezervată unei plimbări pe aleile întortocheate ale Cartierului Evreiesc. Încheiați ziua recuperându-vă bicicleta și bucurându-vă de atmosfera de seară din Plaza Mayor.",
+        "en": "Kick off your Cáceres adventure with an invigorating cycle around the ancient city walls. After parking your bike at Plaza Mayor, dive into the heart of history on foot. The morning is for climbing towers and admiring cathedrals. After lunch, the Museum of Cáceres at Palacio de las Veletas offers a deep dive into the past, especially its amazing Arab cistern. The afternoon is reserved for a walk through the winding alleys of the Jewish Quarter. End your day by collecting your bike and enjoying the evening ambiance in Plaza Mayor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Ein cremiger, kräftiger Schafskäse, der oft als Dip serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, gebraten mit Knoblauch, Paprika und Fleisch. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Der lokale Ibérico-Schinken ist weltberühmt. Probieren Sie ihn im Restaurant Atrio oder auf dem lokalen Markt."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Eine weiche Wurst aus Kartoffeln und Ibérico-Schweinefett, gewürzt mit Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Krémes, erős juhsajt, amelyet gyakran mártásként szolgálnak fel. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Hagyományos étel kenyérmorzsából, fokhagymával, paprikával és hússal sütve. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "A helyi Ibérico sonka világhírű. Kóstolja meg az Atrio étteremben vagy a helyi piacon."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Puha kolbász burgonyából és Ibérico sertészsírból, paprikával fűszerezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta del Casar",
+            "tip": "O brânză cremoasă și puternică din lapte de oaie, adesea servită ca dip. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Un fel de mâncare tradițional din pesmet prăjit cu usturoi, boia și carne. Perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Șunca locală Ibérico este renumită în întreaga lume. Încercați-o la restaurantul Atrio sau la piața locală."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Un cârnat moale făcut din cartofi și grăsime de porc Ibérico, asezonat cu boia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta del Casar",
+            "tip": "A creamy, strong sheep's cheese, often served as a dip. A must-try!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "A traditional dish of breadcrumbs fried with garlic, paprika, and meat. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "The local Ibérico ham is world-famous. Try it at Atrio restaurant or in the local market."
+          },
+          {
+            "name": "Patatera",
+            "tip": "A soft sausage made from potatoes and Ibérico pork fat, seasoned with paprika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Palacio de Carvajal",
+            "tip": "Eine kleine grüne Oase im Herzen der Altstadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Santuario de la Montaña",
+            "tip": "Etwas außerhalb der Stadt, aber der Panoramablick bei Sonnenuntergang ist die Mühe wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Ein breiter, von Bäumen gesäumter Boulevard außerhalb der Mauern für einen entspannten Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacio de Carvajal kertjei",
+            "tip": "Egy kis zöld oázis az óváros szívében, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Santuario de la Montañáról",
+            "tip": "Kicsit a városon kívül van, de a naplementés panoráma megéri a fáradságot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Széles, fákkal szegélyezett sétány a falakon kívül egy pihentető sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Carvajal",
+            "tip": "O mică oază de verdeață în inima orașului vechi, perfectă pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Sanctuarul de la Montaña",
+            "tip": "Puțin în afara orașului, dar vederea panoramică la apus merită efortul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Un bulevard larg, mărginit de copaci, în afara zidurilor, pentru o plimbare relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Palacio de Carvajal",
+            "tip": "A small green oasis in the heart of the old town, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Santuario de la Montaña",
+            "tip": "A bit outside the city, but the panoramic sunset view is worth the effort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "A wide, tree-lined boulevard outside the walls for a relaxing stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach Lederwaren und Keramik, die typisch für die Extremadura sind."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Schinken und Olivenöl direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Pintores",
+            "tip": "A fő bevásárlóutca, ahol nemzeti márkák és helyi butikok keverednek."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Keressen Extremadurára jellemző bőrárukat és kerámiákat."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint sajtot, sonkát és olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Principala stradă comercială cu un amestec de mărci naționale și buticuri locale."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Căutați articole din piele și ceramică, tipice pentru Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum brânză, șuncă și ulei de măsline direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Pintores",
+            "tip": "The main shopping street with a mix of national brands and local boutiques."
+          },
+          {
+            "name": "Craft Shops in the Old Town",
+            "tip": "Look for leather goods and ceramics, typical of Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local products like cheese, ham, and olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist größtenteils eine Fußgängerzone; das Fahrradfahren ist innerhalb der Mauern stark eingeschränkt.",
+          "Finden Sie einen sicheren Parkplatz für Ihr Fahrrad, bevor Sie die Monumentalstadt betreten.",
+          "Eine Radtour um die Mauern ist eine großartige Möglichkeit, die Verteidigungsanlagen der Stadt zu würdigen.",
+          "Tragen Sie auch für die Spaziergänge bequeme Schuhe.",
+          "Füllen Sie Ihre Wasserflasche auf, bevor Sie losfahren, besonders an heißen Tagen."
+        ],
+        "hu": [
+          "Az óváros nagyrészt sétálóövezet; a falakon belül erősen korlátozott a kerékpározás.",
+          "Találj egy biztonságos parkolót a kerékpárodnak, mielőtt belépsz a műemlékvárosba.",
+          "A falak körüli kerékpártúra nagyszerű módja a város védelmi rendszerének méltatására.",
+          "Viselj kényelmes cipőt a gyalogos részekhez is.",
+          "Töltsd fel a vizes palackodat indulás előtt, különösen forró napokon."
+        ],
+        "ro": [
+          "Orașul vechi este în mare parte pietonal; ciclismul este foarte restricționat în interiorul zidurilor.",
+          "Găsiți un loc sigur pentru a vă parca bicicleta înainte de a intra în orașul monumental.",
+          "Un tur cu bicicleta în jurul zidurilor este o modalitate excelentă de a aprecia apărarea orașului.",
+          "Purtați încălțăminte confortabilă și pentru porțiunile de mers pe jos.",
+          "Umpleți-vă sticla de apă înainte de a porni, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "The old town is mostly pedestrian; cycling is highly restricted inside the walls.",
+          "Find a secure place to park your bike before entering the monumental city.",
+          "A bike tour around the walls is a great way to appreciate the city's defenses.",
+          "Wear comfortable shoes for the walking parts as well.",
+          "Fill up your water bottle before you set off, especially on hot days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus am Plaza Mayor",
+            "hu": "Parkolóház a Plaza Mayor mellett",
+            "ro": "Parcare lângă Plaza Mayor",
+            "en": "Parking near Plaza Mayor"
+          },
+          "coords": [
+            -6.3695,
+            39.474
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag. Die Altstadt ist ein autofreier Bereich und am besten zu Fuß zu erkunden.",
+            "hu": "Parkolj le itt egész napra. Az óváros autómentes övezet, és a legjobb gyalog felfedezni.",
+            "ro": "Parcați aici pentru întreaga zi. Orașul vechi este o zonă fără mașini și se explorează cel mai bine pe jos.",
+            "en": "Park here for the day. The old town is a car-free zone and best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Bujaco-Turm",
+            "hu": "Plaza Mayor & Bujaco-torony",
+            "ro": "Plaza Mayor & Turnul Bujaco",
+            "en": "Plaza Mayor & Bujaco Tower"
+          },
+          "coords": [
+            -6.3718,
+            39.4746
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung auf dem Hauptplatz und besteigen Sie den Turm für eine erste Orientierung.",
+            "hu": "Kezdje a felfedezést a főtéren, és másszon fel a toronyba egy első tájékozódásért.",
+            "ro": "Începeți explorarea în piața principală și urcați în turn pentru o orientare inițială.",
+            "en": "Start your exploration in the main square and climb the tower for an initial orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Co-Kathedrale Santa María",
+            "hu": "Santa María társszékesegyház",
+            "ro": "Concatedrala Santa María",
+            "en": "Co-cathedral of Santa María"
+          },
+          "coords": [
+            -6.3728,
+            39.4755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses romanisch-gotische Meisterwerk ist das religiöse Herz der Stadt.",
+            "hu": "Ez a román-gótikus remekmű a város vallási szíve.",
+            "ro": "Această capodoperă romanico-gotică este inima religioasă a orașului.",
+            "en": "This Romanesque-Gothic masterpiece is the religious heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Golfines de Abajo",
+            "hu": "Palacio de los Golfines de Abajo",
+            "ro": "Palatul Golfines de Abajo",
+            "en": "Palace of the Golfines de Abajo"
+          },
+          "coords": [
+            -6.3735,
+            39.475
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel für die Palastarchitektur von Cáceres.",
+            "hu": "A cáceresi palotaépítészet pazar példája.",
+            "ro": "Un exemplu splendid de arhitectură palațială din Cáceres.",
+            "en": "A splendid example of Cáceres' palatial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de las Veletas (Museum von Cáceres)",
+            "hu": "Palacio de las Veletas (Cáceres Múzeum)",
+            "ro": "Palatul Veletas (Muzeul din Cáceres)",
+            "en": "Palacio de las Veletas (Museum of Cáceres)"
+          },
+          "coords": [
+            -6.3745,
+            39.4765
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die arabische Zisterne im Untergeschoss ist ein absolutes Highlight.",
+            "hu": "Az alagsorban található arab ciszterna abszolút fénypont.",
+            "ro": "Cisterna arabă de la subsol este un punct de atracție absolut.",
+            "en": "The Arab cistern in the basement is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Kirche San Francisco Javier",
+            "hu": "Zsidónegyed & San Francisco Javier-templom",
+            "ro": "Cartierul Evreiesc & Biserica San Francisco Javier",
+            "en": "Jewish Quarter & San Francisco Javier Church"
+          },
+          "coords": [
+            -6.3748,
+            39.4759
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie einen Spaziergang durch die engen Gassen mit einem Aufstieg auf die Kirchtürme für eine letzte Aussicht.",
+            "hu": "Kombináld a szűk sikátorokban tett sétát a templomtornyokba való felmászással egy utolsó kilátásért.",
+            "ro": "Combinați o plimbare pe aleile înguste cu o urcare în turnurile bisericii pentru o ultimă priveliște.",
+            "en": "Combine a walk through the narrow alleys with a climb up the church towers for one last view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Parkhaus",
+            "hu": "Vissza a parkolóházba",
+            "ro": "Întoarcere la parcare",
+            "en": "Return to Parking"
+          },
+          "coords": [
+            -6.3695,
+            39.474
+          ],
+          "category": "transport",
+          "arrive_at": "16:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang zurück zum Auto.",
+            "hu": "Zárja a napot egy kellemes sétával vissza az autóhoz.",
+            "ro": "Încheiați-vă ziua cu o plimbare relaxantă înapoi la mașină.",
+            "en": "End your day with a leisurely stroll back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu einem Parkplatz in der Nähe der Plaza Mayor und lassen Sie das Auto für den Tag stehen. Der gesamte monumentale Komplex ist eine Fußgängerzone. Der Morgen ist der Erkundung des Herzens der Altstadt gewidmet, von der Plaza Mayor bis zu den Palästen und der Kathedrale. Nach einem traditionellen Mittagessen in der Altstadt, tauchen Sie im Museum von Cáceres tief in die Archäologie ein. Der Nachmittag ist einem Spaziergang durch das historische jüdische Viertel gewidmet. Am Ende des Tages schlendern Sie gemütlich zurück zu Ihrem Auto, erfüllt von der zeitlosen Schönheit von Cáceres.",
+        "hu": "Vezessen a Plaza Mayor melletti parkolóba, és hagyja ott az autót egész napra. Az egész műemléki komplexum sétálóövezet. A délelőtt az óváros szívének felfedezésével telik, a Plaza Mayortól a palotákig és a katedrálisig. Egy hagyományos óvárosi ebéd után merüljön el mélyen az archeológiában a Cáceres Múzeumban. A délután a történelmi zsidónegyedben tett sétának van szentelve. A nap végén sétáljon vissza kényelmesen az autójához, eltelve Cáceres időtlen szépségével.",
+        "ro": "Conduceți la o parcare de lângă Plaza Mayor și lăsați mașina pentru restul zilei; întregul complex monumental este pietonal. Dimineața este dedicată explorării inimii orașului vechi, de la Plaza Mayor la palate și catedrală. După un prânz tradițional în orașul vechi, faceți o incursiune profundă în arheologie la Muzeul din Cáceres. După-amiaza este dedicată unei plimbări prin cartierul evreiesc istoric. La sfârșitul zilei, plimbați-vă agale înapoi la mașină, plini de frumusețea atemporală a orașului Cáceres.",
+        "en": "Drive to a car park near Plaza Mayor and leave the car for the day; the entire monumental complex is a pedestrian zone. The morning is dedicated to exploring the heart of the old town, from Plaza Mayor to the palaces and cathedral. After a traditional lunch within the old town, take a deep dive into archaeology at the Museum of Cáceres. The afternoon is for a walk through the historic Jewish quarter. At the end of the day, stroll leisurely back to your car, filled with the timeless beauty of Cáceres."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Ein cremiger, kräftiger Schafskäse, der oft als Dip serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, gebraten mit Knoblauch, Paprika und Fleisch. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Der lokale Ibérico-Schinken ist weltberühmt. Probieren Sie ihn im Restaurant Atrio oder auf dem lokalen Markt."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Eine weiche Wurst aus Kartoffeln und Ibérico-Schweinefett, gewürzt mit Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Krémes, erős juhsajt, amelyet gyakran mártásként szolgálnak fel. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Hagyományos étel kenyérmorzsából, fokhagymával, paprikával és hússal sütve. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "A helyi Ibérico sonka világhírű. Kóstolja meg az Atrio étteremben vagy a helyi piacon."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Puha kolbász burgonyából és Ibérico sertészsírből, paprikával fűszerezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta del Casar",
+            "tip": "O brânză cremoasă și puternică din lapte de oaie, adesea servită ca dip. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Un fel de mâncare tradițional din pesmet prăjit cu usturoi, boia și carne. Perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Șunca locală Ibérico este renumită în întreaga lume. Încercați-o la restaurantul Atrio sau la piața locală."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Un cârnat moale făcut din cartofi și grăsime de porc Ibérico, asezonat cu boia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta del Casar",
+            "tip": "A creamy, strong sheep's cheese, often served as a dip. A must-try!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "A traditional dish of breadcrumbs fried with garlic, paprika, and meat. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "The local Ibérico ham is world-famous. Try it at Atrio restaurant or in the local market."
+          },
+          {
+            "name": "Patatera",
+            "tip": "A soft sausage made from potatoes and Ibérico pork fat, seasoned with paprika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Palacio de Carvajal",
+            "tip": "Eine kleine grüne Oase im Herzen der Altstadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Santuario de la Montaña",
+            "tip": "Etwas außerhalb der Stadt, aber der Panoramablick bei Sonnenuntergang ist die Mühe wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Ein breiter, von Bäumen gesäumter Boulevard außerhalb der Mauern für einen entspannten Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacio de Carvajal kertjei",
+            "tip": "Egy kis zöld oázis az óváros szívében, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Santuario de la Montañáról",
+            "tip": "Kicsit a városon kívül van, de a naplementés panoráma megéri a fáradságot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Széles, fákkal szegélyezett sétány a falakon kívül egy pihentető sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Carvajal",
+            "tip": "O mică oază de verdeață în inima orașului vechi, perfectă pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Sanctuarul de la Montaña",
+            "tip": "Puțin în afara orașului, dar vederea panoramică la apus merită efortul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Un bulevard larg, mărginit de copaci, în afara zidurilor, pentru o plimbare relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Palacio de Carvajal",
+            "tip": "A small green oasis in the heart of the old town, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Santuario de la Montaña",
+            "tip": "A bit outside the city, but the panoramic sunset view is worth the effort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "A wide, tree-lined boulevard outside the walls for a relaxing stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach Lederwaren und Keramik, die typisch für die Extremadura sind."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Schinken und Olivenöl direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Pintores",
+            "tip": "A fő bevásárlóutca, ahol nemzeti márkák és helyi butikok keverednek."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Keressen Extremadurára jellemző bőrárukat és kerámiákat."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint sajtot, sonkát és olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Principala stradă comercială cu un amestec de mărci naționale și buticuri locale."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Căutați articole din piele și ceramică, tipice pentru Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum brânză, șuncă și ulei de măsline direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Pintores",
+            "tip": "The main shopping street with a mix of national brands and local boutiques."
+          },
+          {
+            "name": "Craft Shops in the Old Town",
+            "tip": "Look for leather goods and ceramics, typical of Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local products like cheese, ham, and olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann teuer sein, aber es ist die bequemste Option.",
+          "Die Altstadt ist eine Fußgängerzone. Sobald Sie geparkt haben, werden Sie nicht mehr fahren.",
+          "Überprüfen Sie die Öffnungszeiten der Parkhäuser, besonders wenn Sie planen, spät zu bleiben.",
+          "Behalten Sie Ihr Parkticket an einem sicheren Ort.",
+          "Einmal geparkt, folgen Sie einfach dem Fußgänger-Tagesplan."
+        ],
+        "hu": [
+          "A parkolás drága lehet, de ez a legkényelmesebb lehetőség.",
+          "Az óváros sétálóövezet. Miután leparkoltál, nem fogsz vezetni.",
+          "Ellenőrizd a parkolóházak nyitvatartási idejét, különösen, ha késő estig tervezel maradni.",
+          "Tartsd a parkolójegyet biztonságos helyen.",
+          "Miután leparkoltál, egyszerűen kövesd a gyalogos útitervet."
+        ],
+        "ro": [
+          "Parcarea poate fi costisitoare, dar este cea mai convenabilă opțiune.",
+          "Orașul vechi este o zonă pietonală. Odată ce ați parcat, nu veți mai conduce.",
+          "Verificați orele de funcționare ale parcărilor, mai ales dacă plănuiți să stați până târziu.",
+          "Păstrați biletul de parcare într-un loc sigur.",
+          "Odată parcat, pur și simplu urmați itinerariul pietonal."
+        ],
+        "en": [
+          "Parking can be expensive, but it's the most convenient option.",
+          "The old town is a pedestrian zone. Once you park, you won't be driving.",
+          "Check the opening hours of the car parks, especially if you plan to stay late.",
+          "Keep your parking ticket in a safe place.",
+          "Once parked, simply follow the walking itinerary."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle an der Plaza de América",
+            "hu": "Buszmegálló a Plaza de Américánál",
+            "ro": "Stație de autobuz la Plaza de América",
+            "en": "Bus Stop at Plaza de América"
+          },
+          "coords": [
+            -6.381,
+            39.4715
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Zentrum. Von hier aus ist es ein kurzer Spaziergang zur Plaza Mayor.",
+            "hu": "Menj busszal a központba. Innen rövid séta a Plaza Mayor.",
+            "ro": "Luați un autobuz spre centru. De aici este o scurtă plimbare până la Plaza Mayor.",
+            "en": "Take a bus to the center. It's a short walk to Plaza Mayor from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Bujaco-Turm",
+            "hu": "Plaza Mayor & Bujaco-torony",
+            "ro": "Plaza Mayor & Turnul Bujaco",
+            "en": "Plaza Mayor & Bujaco Tower"
+          },
+          "coords": [
+            -6.3718,
+            39.4746
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung auf dem Hauptplatz und besteigen Sie den Turm für eine erste Orientierung.",
+            "hu": "Kezdje a felfedezést a főtéren, és másszon fel a toronyba egy első tájékozódásért.",
+            "ro": "Începeți explorarea în piața principală și urcați în turn pentru o orientare inițială.",
+            "en": "Start your exploration in the main square and climb the tower for an initial orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Co-Kathedrale Santa María",
+            "hu": "Santa María társszékesegyház",
+            "ro": "Concatedrala Santa María",
+            "en": "Co-cathedral of Santa María"
+          },
+          "coords": [
+            -6.3728,
+            39.4755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses romanisch-gotische Meisterwerk ist das religiöse Herz der Stadt.",
+            "hu": "Ez a román-gótikus remekmű a város vallási szíve.",
+            "ro": "Această capodoperă romanico-gotică este inima religioasă a orașului.",
+            "en": "This Romanesque-Gothic masterpiece is the religious heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Golfines de Abajo",
+            "hu": "Palacio de los Golfines de Abajo",
+            "ro": "Palatul Golfines de Abajo",
+            "en": "Palace of the Golfines de Abajo"
+          },
+          "coords": [
+            -6.3735,
+            39.475
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel für die Palastarchitektur von Cáceres.",
+            "hu": "A cáceresi palotaépítészet pazar példája.",
+            "ro": "Un exemplu splendid de arhitectură palațială din Cáceres.",
+            "en": "A splendid example of Cáceres' palatial architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de las Veletas (Museum von Cáceres)",
+            "hu": "Palacio de las Veletas (Cáceres Múzeum)",
+            "ro": "Palatul Veletas (Muzeul din Cáceres)",
+            "en": "Palacio de las Veletas (Museum of Cáceres)"
+          },
+          "coords": [
+            -6.3745,
+            39.4765
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die arabische Zisterne im Untergeschoss ist ein absolutes Highlight.",
+            "hu": "Az alagsorban található arab ciszterna abszolút fénypont.",
+            "ro": "Cisterna arabă de la subsol este un punct de atracție absolut.",
+            "en": "The Arab cistern in the basement is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Viertel & Kirche San Francisco Javier",
+            "hu": "Zsidónegyed & San Francisco Javier-templom",
+            "ro": "Cartierul Evreiesc & Biserica San Francisco Javier",
+            "en": "Jewish Quarter & San Francisco Javier Church"
+          },
+          "coords": [
+            -6.3748,
+            39.4759
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie einen Spaziergang durch die engen Gassen mit einem Aufstieg auf die Kirchtürme für eine letzte Aussicht.",
+            "hu": "Kombináld a szűk sikátorokban tett sétát a templomtornyokba való felmászással egy utolsó kilátásért.",
+            "ro": "Combinați o plimbare pe aleile înguste cu o urcare în turnurile bisericii pentru o ultimă priveliște.",
+            "en": "Combine a walk through the narrow alleys with a climb up the church towers for one last view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zur Bushaltestelle",
+            "hu": "Vissza a buszmegállóba",
+            "ro": "Întoarcere la stația de autobuz",
+            "en": "Return to Bus Stop"
+          },
+          "coords": [
+            -6.381,
+            39.4715
+          ],
+          "category": "transport",
+          "arrive_at": "16:27",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zur Bushaltestelle, um Ihre Reise nach Hause anzutreten.",
+            "hu": "Sétálj vissza a buszmegállóhoz, hogy hazaindulj.",
+            "ro": "Mergeți înapoi la stația de autobuz pentru a începe călătoria spre casă.",
+            "en": "Walk back to the bus stop to begin your journey home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz, um das Zentrum von Cáceres zu erreichen, und steigen Sie in der Nähe der Plaza Mayor aus. Von diesem Punkt an sind Ihre Füße Ihr bestes Transportmittel. Der Morgen ist der Erkundung des Herzens der Altstadt gewidmet. Nach einem traditionellen Mittagessen tauchen Sie im Museum von Cáceres tief in die Archäologie ein, bevor Sie am Nachmittag durch das historische jüdische Viertel schlendern. Wenn der Tag zu Ende geht, kehren Sie einfach zur Bushaltestelle zurück, bereichert durch die historischen Schätze, die Sie entdeckt haben.",
+        "hu": "Használja a tömegközlekedést Cáceres központjának eléréséhez, szálljon le a Plaza Mayor közelében. Ettől a ponttól kezdve a lába a legjobb közlekedési eszköz. A délelőtt az óváros szívének felfedezésével telik. Egy hagyományos ebéd után merüljön el mélyen az archeológiában a Cáceres Múzeumban, mielőtt délután a történelmi zsidónegyedben sétálna. Ahogy a nap véget ér, egyszerűen térjen vissza a buszmegállóhoz, gazdagodva a felfedezett történelmi kincsekkel.",
+        "ro": "Folosiți transportul public pentru a ajunge în centrul orașului Cáceres, coborând lângă Plaza Mayor. Din acest punct, picioarele dumneavoastră sunt cel mai bun mijloc de transport. Dimineața este dedicată explorării inimii orașului vechi. După un prânz tradițional, faceți o incursiune profundă în arheologie la Muzeul din Cáceres înainte de a vă plimba prin cartierul evreiesc istoric după-amiaza. Pe măsură ce ziua se încheie, pur și simplu reveniți la stația de autobuz, îmbogățiți de comorile istorice pe care le-ați descoperit.",
+        "en": "Use public transit to reach the center of Cáceres, getting off near Plaza Mayor. From that point on, your feet are your best mode of transport. The morning is dedicated to exploring the heart of the old town. After a traditional lunch, take a deep dive into archaeology at the Museum of Cáceres before strolling through the historic Jewish quarter in the afternoon. As the day ends, simply return to the bus stop, enriched by the historical treasures you've discovered."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Ein cremiger, kräftiger Schafskäse, der oft als Dip serviert wird. Ein Muss!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, gebraten mit Knoblauch, Paprika und Fleisch. Perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Der lokale Ibérico-Schinken ist weltberühmt. Probieren Sie ihn im Restaurant Atrio oder auf dem lokalen Markt."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Eine weiche Wurst aus Kartoffeln und Ibérico-Schweinefett, gewürzt mit Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta del Casar",
+            "tip": "Krémes, erős juhsajt, amelyet gyakran mártásként szolgálnak fel. Kötelező megkóstolni!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Hagyományos étel kenyérmorzsából, fokhagymával, paprikával és hússal sütve. Tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "A helyi Ibérico sonka világhírű. Kóstolja meg az Atrio étteremben vagy a helyi piacon."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Puha kolbász burgonyából és Ibérico sertészsírből, paprikával fűszerezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta del Casar",
+            "tip": "O brânză cremoasă și puternică din lapte de oaie, adesea servită ca dip. O delicatesă obligatorie!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "Un fel de mâncare tradițional din pesmet prăjit cu usturoi, boia și carne. Perfect pentru un prânz consistent."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "Șunca locală Ibérico este renumită în întreaga lume. Încercați-o la restaurantul Atrio sau la piața locală."
+          },
+          {
+            "name": "Patatera",
+            "tip": "Un cârnat moale făcut din cartofi și grăsime de porc Ibérico, asezonat cu boia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta del Casar",
+            "tip": "A creamy, strong sheep's cheese, often served as a dip. A must-try!"
+          },
+          {
+            "name": "Migas Extremeñas",
+            "tip": "A traditional dish of breadcrumbs fried with garlic, paprika, and meat. Perfect for a hearty lunch."
+          },
+          {
+            "name": "Jamon Ibérico Dehesa de Extremadura",
+            "tip": "The local Ibérico ham is world-famous. Try it at Atrio restaurant or in the local market."
+          },
+          {
+            "name": "Patatera",
+            "tip": "A soft sausage made from potatoes and Ibérico pork fat, seasoned with paprika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Palacio de Carvajal",
+            "tip": "Eine kleine grüne Oase im Herzen der Altstadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Santuario de la Montaña",
+            "tip": "Etwas außerhalb der Stadt, aber der Panoramablick bei Sonnenuntergang ist die Mühe wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Ein breiter, von Bäumen gesäumter Boulevard außerhalb der Mauern für einen entspannten Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacio de Carvajal kertjei",
+            "tip": "Egy kis zöld oázis az óváros szívében, tökéletes egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Santuario de la Montañáról",
+            "tip": "Kicsit a városon kívül van, de a naplementés panoráma megéri a fáradságot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Széles, fákkal szegélyezett sétány a falakon kívül egy pihentető sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Carvajal",
+            "tip": "O mică oază de verdeață în inima orașului vechi, perfectă pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Sanctuarul de la Montaña",
+            "tip": "Puțin în afara orașului, dar vederea panoramică la apus merită efortul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "Un bulevard larg, mărginit de copaci, în afara zidurilor, pentru o plimbare relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Palacio de Carvajal",
+            "tip": "A small green oasis in the heart of the old town, perfect for a short break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Santuario de la Montaña",
+            "tip": "A bit outside the city, but the panoramic sunset view is worth the effort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo de Cánovas",
+            "tip": "A wide, tree-lined boulevard outside the walls for a relaxing stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach Lederwaren und Keramik, die typisch für die Extremadura sind."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Kaufen Sie lokale Produkte wie Käse, Schinken und Olivenöl direkt von den Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Pintores",
+            "tip": "A fő bevásárlóutca, ahol nemzeti márkák és helyi butikok keverednek."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Keressen Extremadurára jellemző bőrárukat és kerámiákat."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Vásároljon helyi termékeket, mint sajtot, sonkát és olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Pintores",
+            "tip": "Principala stradă comercială cu un amestec de mărci naționale și buticuri locale."
+          },
+          {
+            "name": "Magazine de artizanat în Orașul Vechi",
+            "tip": "Căutați articole din piele și ceramică, tipice pentru Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Cumpărați produse locale precum brânză, șuncă și ulei de măsline direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Pintores",
+            "tip": "The main shopping street with a mix of national brands and local boutiques."
+          },
+          {
+            "name": "Craft Shops in the Old Town",
+            "tip": "Look for leather goods and ceramics, typical of Extremadura."
+          },
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Buy local products like cheese, ham, and olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt.",
+          "Sobald Sie im Zentrum sind, ist alles zu Fuß erreichbar.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Beachten Sie, dass der Service am Abend weniger häufig sein kann."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, ha több utazást tervezel.",
+          "Ellenőrizd előre a buszmenetrendet, különösen a visszaútra.",
+          "Amint a központban vagy, minden gyalogosan elérhető.",
+          "Érvényesítsd a jegyed a buszra szálláskor.",
+          "Ne feledd, hogy az esti járatok ritkábbak lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Verificați programul autobuzelor în avans, mai ales pentru călătoria de întoarcere.",
+          "Odată ajuns în centru, totul este la distanță de mers pe jos.",
+          "Validați biletul la urcarea în autobuz.",
+          "Rețineți că serviciul poate fi mai puțin frecvent seara."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Check the bus schedule in advance, especially for the return trip.",
+          "Once you're in the center, everything is within walking distance.",
+          "Validate your ticket when you board the bus.",
+          "Be aware that service may be less frequent in the evening."
+        ]
+      }
+    }
+  }
+}

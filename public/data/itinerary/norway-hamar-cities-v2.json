@@ -1,0 +1,1443 @@
+{
+  "city_id": "norway-hamar-cities-v2",
+  "anchor": {
+    "name": "Hamar",
+    "coords": [
+      11.068,
+      60.7945
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basaren",
+            "hu": "Basaren (Vásárcsarnok)",
+            "ro": "Basaren",
+            "en": "Basaren"
+          },
+          "coords": [
+            11.0695,
+            60.7942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
+            "en": "Start your day with a coffee at one of the charming cafes in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamar Domkirke",
+            "hu": "Hamari dóm",
+            "ro": "Catedrala din Hamar",
+            "en": "Hamar Cathedral"
+          },
+          "coords": [
+            11.0721,
+            60.7953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die moderne Architektur, die sich von traditionellen norwegischen Kirchen unterscheidet.",
+            "hu": "Figyelje meg a modern építészetet, amely eltér a hagyományos norvég templomoktól.",
+            "ro": "Observați arhitectura modernă, diferită de bisericile tradiționale norvegiene.",
+            "en": "Note the modern architecture, which is different from traditional Norwegian churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjøsa-Promenade",
+            "hu": "Mjøsa-tó sétánya",
+            "ro": "Promenada Mjøsa",
+            "en": "Mjøsa Promenade"
+          },
+          "coords": [
+            11.065,
+            60.792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen gemütlichen Spaziergang mit Blick auf Norwegens größten See.",
+            "hu": "Tökéletes hely egy kellemes sétához, kilátással Norvégia legnagyobb tavára.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă cu vedere la cel mai mare lac din Norvegia.",
+            "en": "A perfect spot for a leisurely walk overlooking Norway's largest lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Koigen",
+            "hu": "Koigen park",
+            "ro": "Parcul Koigen",
+            "en": "Koigen Park"
+          },
+          "coords": [
+            11.05,
+            60.793
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Sommer ein beliebter Badeplatz. Bringen Sie ein Handtuch mit!",
+            "hu": "Nyáron népszerű fürdőhely. Hozzon magával törölközőt!",
+            "ro": "Un loc popular pentru înot vara. Aduceți un prosop!",
+            "en": "A popular swimming spot in the summer. Bring a towel!"
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirkeodden",
+            "hu": "Domkirkeodden (Dóm-fok)",
+            "ro": "Domkirkeodden",
+            "en": "Domkirkeodden"
+          },
+          "coords": [
+            11.045,
+            60.795
+          ],
+          "category": "museums",
+          "arrive_at": "13:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Glasgebäude über den Ruinen ist architektonisch beeindruckend und schützt die Geschichte.",
+            "hu": "A romok fölötti üvegépület építészetileg lenyűgöző és védi a történelmet.",
+            "ro": "Clădirea de sticlă de deasupra ruinelor este impresionantă din punct de vedere arhitectural și protejează istoria.",
+            "en": "The glass building over the ruins is architecturally stunning and protects the history within."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirsten Flagstad Museum",
+            "hu": "Kirsten Flagstad Múzeum",
+            "ro": "Muzeul Kirsten Flagstad",
+            "en": "Kirsten Flagstad Museum"
+          },
+          "coords": [
+            11.074,
+            60.793
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Opernliebhaber, gewidmet einer der größten Wagner-Sopranistinnen.",
+            "hu": "Az opera szerelmeseinek kötelező, a világ egyik legnagyobb Wagner-szopránjának szentelve.",
+            "ro": "O vizită obligatorie pentru iubitorii de operă, dedicată uneia dintre cele mai mari soprane wagneriene.",
+            "en": "A must for opera lovers, dedicated to one of the greatest Wagnerian sopranos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Hamar am Basaren, bevor Sie die moderne Domkirke bewundern. Am Vormittag schlendern Sie entlang der Mjøsa-Promenade und genießen die frische Seeluft. Der Nachmittag ist dem kulturellen Erbe gewidmet, mit einem langen Besuch im faszinierenden Domkirkeodden-Museum, das mittelalterliche Ruinen unter einem spektakulären Glasdach beherbergt. Später erfahren Sie mehr über die Opernlegende Kirsten Flagstad. Schließen Sie den Tag mit einem entspannten Abendessen in der Innenstadt ab.",
+        "hu": "Kezdje a sétát Hamar szívében, a Basarennél, majd csodálja meg a modern dómot. A délelőttöt a Mjøsa-tó sétányán töltse, élvezve a friss tavi levegőt. A délután a kulturális örökségé, egy hosszú látogatással a lenyűgöző Domkirkeodden múzeumban, ahol középkori romokat őriznek egy látványos üvegkupola alatt. Később ismerje meg Kirsten Flagstad opera-legenda életét. Zárja a napot egy kellemes vacsorával a belvárosban.",
+        "ro": "Începeți plimbarea în inima orașului Hamar, la Basaren, înainte de a admira catedrala modernă. Dimineața, plimbați-vă de-a lungul promenadei Mjøsa, bucurându-vă de aerul proaspăt al lacului. După-amiaza este dedicată patrimoniului cultural, cu o vizită lungă la fascinantul muzeu Domkirkeodden, care adăpostește ruine medievale sub un acoperiș de sticlă spectaculos. Mai târziu, aflați despre legenda operei, Kirsten Flagstad. Încheiați ziua cu o cină relaxantă în centrul orașului.",
+        "en": "Start your walking tour in the heart of Hamar at Basaren before admiring the modern cathedral. In the morning, stroll along the Mjøsa Promenade, enjoying the fresh lake air. The afternoon is dedicated to cultural heritage with a long visit to the fascinating Domkirkeodden museum, housing medieval ruins under a spectacular glass roof. Later, learn about the opera legend Kirsten Flagstad. End the day with a relaxing dinner downtown."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Laks (Lachs)",
+            "tip": "Probieren Sie frisch geräucherten oder gegrillten Lachs aus dem Mjøsa-See."
+          },
+          {
+            "name": "Elg (Elch)",
+            "tip": "Für ein wahres norwegisches Erlebnis probieren Sie Elch-Eintopf oder Steak."
+          },
+          {
+            "name": "Basarene Restaurant",
+            "tip": "Bietet eine großartige Atmosphäre und eine Mischung aus norwegischer und internationaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laks (lazac)",
+            "tip": "Kóstolja meg a frissen füstölt vagy grillezett lazacot a Mjøsa-tóból."
+          },
+          {
+            "name": "Elg (jávorszarvas)",
+            "tip": "Egy igazi norvég élményért kóstolja meg a jávorszarvas-pörköltet vagy steaket."
+          },
+          {
+            "name": "Basarene Étterem",
+            "tip": "Nagyszerű hangulatot és norvég, valamint nemzetközi ételek keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laks (Somon)",
+            "tip": "Încercați somon proaspăt afumat sau la grătar din lacul Mjøsa."
+          },
+          {
+            "name": "Elg (Elan)",
+            "tip": "Pentru o adevărată experiență norvegiană, încercați tocană sau friptură de elan."
+          },
+          {
+            "name": "Restaurantul Basarene",
+            "tip": "Oferă o atmosferă grozavă și un amestec de bucătărie norvegiană și internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Laks (Salmon)",
+            "tip": "Try freshly smoked or grilled salmon from Lake Mjøsa."
+          },
+          {
+            "name": "Elg (Moose)",
+            "tip": "For a true Norwegian experience, try moose stew or steak."
+          },
+          {
+            "name": "Basarene Restaurant",
+            "tip": "Offers a great atmosphere and a mix of Norwegian and international cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen in Domkirkeodden",
+            "tip": "Finden Sie einen ruhigen Moment inmitten der mittelalterlichen Steine.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mjøsa-Promenade bei Sonnenuntergang",
+            "tip": "Beobachten Sie, wie die Sonne über dem größten See Norwegens untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Koigen Park",
+            "tip": "Ein einfacher, aber friedlicher Ort, um die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Romok a Domkirkeoddenben",
+            "tip": "Találjon egy csendes pillanatot a középkori kövek között."
+          },
+          {
+            "name": "Mjøsa sétány naplementekor",
+            "tip": "Nézze, ahogy a nap lenyugszik Norvégia legnagyobb tava felett."
+          },
+          {
+            "name": "Egy pad a Koigen parkban",
+            "tip": "Egyszerű, de békés hely a táj élvezetére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele de la Domkirkeodden",
+            "tip": "Găsiți un moment de liniște printre pietrele medievale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada Mjøsa la apus",
+            "tip": "Priviți soarele apunând peste cel mai mare lac din Norvegia.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Koigen",
+            "tip": "Un loc simplu, dar pașnic pentru a vă bucura de peisaj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ruins at Domkirkeodden",
+            "tip": "Find a quiet moment amidst the medieval stones.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mjøsa Promenade at sunset",
+            "tip": "Watch the sun set over Norway's largest lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in Koigen Park",
+            "tip": "A simple yet peaceful spot to enjoy the scenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk im Basaren",
+            "tip": "Suchen Sie nach einzigartigen lokalen Handwerksprodukten und Designs."
+          },
+          {
+            "name": "Museumsshop Domkirkeodden",
+            "tip": "Bietet Bücher und Repliken zur Wikinger- und Mittelaltergeschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek a Basarenben",
+            "tip": "Keressen egyedi helyi kézműves termékeket és dizájntárgyakat."
+          },
+          {
+            "name": "Domkirkeodden múzeumi bolt",
+            "tip": "Viking és középkori történelemmel kapcsolatos könyveket és másolatokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat la Basaren",
+            "tip": "Căutați obiecte de artizanat și design local unice."
+          },
+          {
+            "name": "Magazinul muzeului Domkirkeodden",
+            "tip": "Oferă cărți și replici legate de istoria vikingă și medievală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts at Basaren",
+            "tip": "Look for unique local handicrafts and design items."
+          },
+          {
+            "name": "Domkirkeodden Museum Shop",
+            "tip": "Offers books and replicas related to Viking and medieval history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen, insbesondere außerhalb der Saison.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, da es in der Stadt Trinkbrunnen gibt.",
+          "Nehmen Sie eine leichte Regenjacke mit, das Wetter kann sich schnell ändern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen a főszezonon kívül.",
+          "Egy újratölthető vizes palack hasznos, mivel a városban vannak ivókutak.",
+          "Vigyen magával egy könnyű esőkabátot, az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați orele de deschidere ale muzeelor, în special în afara sezonului.",
+          "O sticlă de apă reutilizabilă este utilă, deoarece există fântâni publice în oraș.",
+          "Luați o jachetă de ploaie ușoară, vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours for museums, especially outside of the main season.",
+          "A reusable water bottle is useful as there are public water fountains.",
+          "Bring a light rain jacket; the weather can change quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basaren",
+            "hu": "Basaren (Vásárcsarnok)",
+            "ro": "Basaren",
+            "en": "Basaren"
+          },
+          "coords": [
+            11.0695,
+            60.7942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie die Geschäfte zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel gyalog az üzleteket.",
+            "ro": "Parcați bicicleta în apropiere și explorați magazinele pe jos.",
+            "en": "Park your bike nearby and explore the shops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Norsk Jernbanemuseum",
+            "hu": "Norvég Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate Norvegiene",
+            "en": "Norwegian Railway Museum"
+          },
+          "coords": [
+            11.085,
+            60.798
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine faszinierende Reise durch die norwegische Eisenbahngeschichte, toll für alle Altersgruppen.",
+            "hu": "Lenyűgöző utazás a norvég vasúttörténetben, minden korosztály számára nagyszerű.",
+            "ro": "O călătorie fascinantă prin istoria feroviară norvegiană, excelentă pentru toate vârstele.",
+            "en": "A fascinating journey through Norwegian railway history, great for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirkeodden",
+            "hu": "Domkirkeodden (Dóm-fok)",
+            "ro": "Domkirkeodden",
+            "en": "Domkirkeodden"
+          },
+          "coords": [
+            11.045,
+            60.795
+          ],
+          "category": "museums",
+          "arrive_at": "11:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Sees zum Museum ist wunderschön.",
+            "hu": "A tó menti kerékpárút a múzeumhoz gyönyörű.",
+            "ro": "Pista de biciclete de-a lungul lacului până la muzeu este superbă.",
+            "en": "The bike path along the lake to get to the museum is beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjøsa-Promenade",
+            "hu": "Mjøsa-tó sétánya",
+            "ro": "Promenada Mjøsa",
+            "en": "Mjøsa Promenade"
+          },
+          "coords": [
+            11.065,
+            60.792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie langsam und genießen Sie die Aussicht. Halten Sie für Fotos an.",
+            "hu": "Tekerjen lassan és élvezze a kilátást. Álljon meg fotózni.",
+            "ro": "Pedalați încet și bucurați-vă de priveliște. Opriți-vă pentru fotografii.",
+            "en": "Ride slowly and enjoy the view. Stop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamar Domkirke",
+            "hu": "Hamari dóm",
+            "ro": "Catedrala din Hamar",
+            "en": "Hamar Cathedral"
+          },
+          "coords": [
+            11.0721,
+            60.7953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die einzigartige moderne religiöse Architektur zu schätzen.",
+            "hu": "Rövid megálló, hogy értékelje az egyedi, modern vallási építészetet.",
+            "ro": "O oprire scurtă pentru a aprecia arhitectura religioasă modernă unică.",
+            "en": "A quick stop to appreciate the unique modern religious architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingskipet",
+            "hu": "Vikingskipet (Vikinghajó)",
+            "ro": "Vikingskipet (Nava Vikingă)",
+            "en": "Vikingskipet (The Viking Ship)"
+          },
+          "coords": [
+            11.098,
+            60.785
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 7.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überprüfen Sie, ob Veranstaltungen stattfinden. Die Architektur ist auch von außen beeindruckend.",
+            "hu": "Ellenőrizze, hogy vannak-e rendezvények. Az épület kívülről is lenyűgöző.",
+            "ro": "Verificați dacă au loc evenimente. Arhitectura este impresionantă chiar și din exterior.",
+            "en": "Check if there are any events scheduled. The architecture is impressive even from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Stadtzentrum, bevor Sie eine interessante Fahrt zum Norwegischen Eisenbahnmuseum unternehmen. Am späten Vormittag fahren Sie am Seeufer entlang zur historischen Stätte Domkirkeodden für eine ausgiebige Erkundung. Nach dem Mittagessen führt Sie eine gemütliche Fahrt entlang der Mjøsa-Promenade zurück ins Zentrum. Am Nachmittag machen Sie einen letzten langen Ausflug zur ikonischen Vikingskipet-Arena, einem Meisterwerk der modernen Architektur, bevor Sie für den Abend ins Zentrum zurückkehren.",
+        "hu": "A kerékpártúra a városközpontban kezdődik, mielőtt egy érdekes tekerésre indulna a Norvég Vasúti Múzeumhoz. Késő délelőtt a tóparton haladva jut el a történelmi Domkirkeoddenhez, ahol alaposan körülnézhet. Ebéd után egy kellemes út vezet a Mjøsa sétányon vissza a központba. Délután egy utolsó, hosszabb kirándulást tesz az ikonikus Vikingskipet arénához, a modern építészet remekművéhez, mielőtt estére visszatérne a központba.",
+        "ro": "Turul cu bicicleta începe în centrul orașului, înainte de o plimbare interesantă la Muzeul Căilor Ferate Norvegiene. Spre sfârșitul dimineții, veți pedala pe malul lacului până la situl istoric Domkirkeodden pentru o explorare aprofundată. După prânz, o plimbare relaxantă de-a lungul promenadei Mjøsa vă duce înapoi în centru. După-amiaza, faceți o ultimă excursie lungă la arena iconică Vikingskipet, o capodoperă a arhitecturii moderne, înainte de a vă întoarce în centru pentru seară.",
+        "en": "Your bike tour starts in the city center before an interesting ride to the Norwegian Railway Museum. In the late morning, you'll cycle along the lakeside to the historic site of Domkirkeodden for a thorough exploration. After lunch, a leisurely ride along the Mjøsa Promenade takes you back towards the center. In the afternoon, you'll take a final long trip to the iconic Vikingskipet arena, a masterpiece of modern architecture, before returning to the center for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "Eine norwegische Zimtschnecke, perfekt für eine Energiepause."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein norwegischer Hotdog in einem dünnen Kartoffelfladenbrot, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Fiskesuppe (Fischsuppe)",
+            "tip": "Eine cremige, wärmende Suppe, ideal nach einer windigen Fahrt am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "Norvég fahéjas csiga, tökéletes egy energiát adó szünetre."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Norvég hot dog vékony burgonyalepényben, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Fiskesuppe (halleves)",
+            "tip": "Krémes, melegítő leves, ideális egy szeles tavi tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "Un rulou norvegian cu scorțișoară, perfect pentru o pauză energizantă."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian într-o lipie subțire de cartofi, o gustare rapidă și gustoasă."
+          },
+          {
+            "name": "Fiskesuppe (Supă de pește)",
+            "tip": "O supă cremoasă și încălzitoare, ideală după o plimbare vântoasă pe lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skillingsbolle",
+            "tip": "A Norwegian cinnamon bun, perfect for an energy break."
+          },
+          {
+            "name": "Pølse i lompe",
+            "tip": "A Norwegian hot dog in a thin potato flatbread, a quick and tasty snack."
+          },
+          {
+            "name": "Fiskesuppe (Fish soup)",
+            "tip": "A creamy, warming soup, ideal after a windy ride by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Mjøsa-See",
+            "tip": "Finden Sie einen abgelegenen Platz am Ufer und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Kräutergarten in Domkirkeodden",
+            "tip": "Ein duftender und friedlicher Teil des Museums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Vikingskipet-Brücke",
+            "tip": "Ein guter Ort, um das Bauwerk und die Landschaft zu betrachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Mjøsa-tó mentén",
+            "tip": "Keressen egy félreeső helyet a parton, és élvezze a csendet."
+          },
+          {
+            "name": "A gyógynövénykert a Domkirkeoddenben",
+            "tip": "A múzeum illatos és békés része."
+          },
+          {
+            "name": "Kilátás a Vikingskipet hídjáról",
+            "tip": "Jó hely az építmény és a táj szemlélésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul lacului Mjøsa",
+            "tip": "Găsiți un loc retras pe mal și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de ierburi de la Domkirkeodden",
+            "tip": "O parte parfumată și pașnică a muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe podul Vikingskipet",
+            "tip": "Un loc bun pentru a contempla structura și peisajul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path by Lake Mjøsa",
+            "tip": "Find a secluded spot on the shore and enjoy the quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The herb garden at Domkirkeodden",
+            "tip": "A fragrant and peaceful part of the museum grounds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Vikingskipet bridge",
+            "tip": "A good spot to contemplate the structure and the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Suchen Sie nach norwegischer Radsportausrüstung oder Zubehör."
+          },
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Wenn Sie weiter radeln, finden Sie oft frische Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárüzletek",
+            "tip": "Keressen norvég kerékpáros felszerelést vagy kiegészítőket."
+          },
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Ha tovább teker, gyakran talál friss termékeket közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Căutați echipament sau accesorii norvegiene pentru ciclism."
+          },
+          {
+            "name": "Magazine de fermă în afara orașului",
+            "tip": "Dacă pedalați mai departe, veți găsi adesea produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shops",
+            "tip": "Look for some Norwegian cycling gear or accessories."
+          },
+          {
+            "name": "Farm shops outside the city",
+            "tip": "If you cycle further out, you'll often find fresh produce straight from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit guter Gangschaltung, da es einige leichte Steigungen gibt.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie am Abend fahren.",
+          "Viele Cafés sind fahrradfreundlich und bieten Plätze zum Abstellen Ihres Fahrrads.",
+          "Die Radwege sind gut ausgeschildert, aber eine Offline-Karte ist immer eine gute Idee."
+        ],
+        "hu": [
+          "Béreljen jó sebességváltóval ellátott kerékpárt, mivel vannak enyhe emelkedők.",
+          "Viseljen sisakot és használjon lámpát, ha este teker.",
+          "Sok kávézó kerékpárbarát, és helyet biztosít a kerékpár leállítására.",
+          "A kerékpárutak jól ki vannak táblázva, de egy offline térkép mindig jó ötlet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze bune, deoarece există câteva pante ușoare.",
+          "Purtați cască și folosiți lumini dacă pedalați seara.",
+          "Multe cafenele sunt prietenoase cu bicicliștii și au locuri unde vă puteți lăsa bicicleta.",
+          "Pistele de biciclete sunt bine semnalizate, dar o hartă offline este întotdeauna o idee bună."
+        ],
+        "en": [
+          "Rent a bike with good gears as there are some gentle hills.",
+          "Wear a helmet and use lights if riding in the evening.",
+          "Many cafes are bike-friendly and have places to park your bike.",
+          "The bike paths are well-marked, but having an offline map is always a good idea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vikingskipet",
+            "hu": "Vikingskipet (Vikinghajó)",
+            "ro": "Vikingskipet (Nava Vikingă)",
+            "en": "Vikingskipet (The Viking Ship)"
+          },
+          "coords": [
+            11.098,
+            60.785
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, da es am weitesten vom Zentrum entfernt ist und über gute Parkmöglichkeiten verfügt.",
+            "hu": "Kezdje itt, mivel ez van a legmesszebb a központtól, és jó parkolási lehetőségekkel rendelkezik.",
+            "ro": "Începeți de aici, deoarece este cel mai departe de centru și are parcare bună.",
+            "en": "Start here as it's furthest from the center and has ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Norsk Jernbanemuseum",
+            "hu": "Norvég Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate Norvegiene",
+            "en": "Norwegian Railway Museum"
+          },
+          "coords": [
+            11.085,
+            60.798
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein weiteres Ziel mit eigenem Parkplatz. Der Minizug ist ein Highlight für Kinder.",
+            "hu": "Egy másik célpont saját parkolóval. A kisvonat a gyerekek fénypontja.",
+            "ro": "O altă destinație cu parcare proprie. Trenulețul este un punct de atracție pentru copii.",
+            "en": "Another destination with its own parking lot. The mini train is a highlight for kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirkeodden",
+            "hu": "Domkirkeodden (Dóm-fok)",
+            "ro": "Domkirkeodden",
+            "en": "Domkirkeodden"
+          },
+          "coords": [
+            11.045,
+            60.795
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich auf den Rundgang des Nachmittags vor. Dies ist Ihr westlichster Punkt.",
+            "hu": "Parkoljon le itt, és készüljön fel a délutáni séta-klaszterre. Ez a legnyugatibb pontja.",
+            "ro": "Parcați aici și pregătiți-vă pentru clusterul de mers pe jos de după-amiază. Acesta este cel mai vestic punct.",
+            "en": "Park here and get ready for the afternoon's walking cluster. This is your westernmost point."
+          }
+        },
+        {
+          "name": {
+            "de": "Koigen",
+            "hu": "Koigen park",
+            "ro": "Parcul Koigen",
+            "en": "Koigen Park"
+          },
+          "coords": [
+            11.05,
+            60.793
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, um die Beine zu vertreten und die Seeluft zu genießen.",
+            "hu": "Rövid séta a múzeumtól, hogy kinyújtóztassa a lábát és élvezze a tavi levegőt.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vă întinde picioarele și a vă bucura de aerul lacului.",
+            "en": "A short walk from the museum to stretch your legs and enjoy the lake air."
+          }
+        },
+        {
+          "name": {
+            "de": "Basaren",
+            "hu": "Basaren (Vásárcsarnok)",
+            "ro": "Basaren",
+            "en": "Basaren"
+          },
+          "coords": [
+            11.0695,
+            60.7942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie in einem Parkhaus. Dies ist Ihr letzter Cluster.",
+            "hu": "Hajtson a központba, és parkoljon egy parkolóházban. Ez az utolsó klaszter.",
+            "ro": "Conduceți spre centru și parcați într-o parcare supraetajată. Acesta este ultimul cluster.",
+            "en": "Drive to the center and park in a parking garage. This is your final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamar Domkirke",
+            "hu": "Hamari dóm",
+            "ro": "Catedrala din Hamar",
+            "en": "Hamar Cathedral"
+          },
+          "coords": [
+            11.0721,
+            60.7953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Basaren entfernt, ein einfacher Spaziergang.",
+            "hu": "Csak pár perc sétára a Basarentől, könnyű séta.",
+            "ro": "La doar câteva minute de mers pe jos de Basaren, o plimbare ușoară.",
+            "en": "Just a few minutes' walk from Basaren, an easy stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjøsa-Promenade",
+            "hu": "Mjøsa-tó sétánya",
+            "ro": "Promenada Mjøsa",
+            "en": "Mjøsa Promenade"
+          },
+          "coords": [
+            11.065,
+            60.792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:04",
+          "stay_min": 35,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang am Wasser, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Zárja a napot egy sétával a vízparton, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați ziua cu o plimbare pe malul apei înainte de a vă întoarce la mașină.",
+            "en": "End the day with a walk by the water before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Maximieren Sie Ihre Zeit, indem Sie zu den entfernteren Sehenswürdigkeiten fahren. Beginnen Sie am Morgen am ikonischen Vikingskipet und fahren Sie dann zum Eisenbahnmuseum. Am Nachmittag fahren Sie zum Domkirkeodden, parken dort und erkunden das Museum und den Koigen-Park zu Fuß. Zum Abschluss des Tages fahren Sie ins Stadtzentrum, parken erneut und genießen einen Abendspaziergang durch das Basaren-Viertel und entlang der Mjøsa-Promenade, um die zentrale Atmosphäre aufzusaugen.",
+        "hu": "Maximalizálja az idejét azzal, hogy a távolabbi látnivalókhoz autóval megy. Kezdje a reggelt az ikonikus Vikingskipetnél, majd hajtson tovább a vasúti múzeumhoz. Délután vezessen a Domkirkeoddenhez, parkoljon le, és fedezze fel gyalog a múzeumot és a Koigen parkot. A nap végén hajtson be a városközpontba, parkoljon le ismét, és élvezze az esti sétát a Basaren negyedben és a Mjøsa sétányon, magába szívva a központi hangulatot.",
+        "ro": "Maximizați-vă timpul conducând la atracțiile mai îndepărtate. Începeți dimineața la iconicul Vikingskipet, apoi mergeți la Muzeul Căilor Ferate. După-amiaza, conduceți la Domkirkeodden, parcați și explorați muzeul și parcul Koigen pe jos. Pentru a încheia ziua, conduceți în centrul orașului, parcați din nou și bucurați-vă de o plimbare de seară prin zona Basaren și de-a lungul promenadei Mjøsa pentru a absorbi atmosfera centrală.",
+        "en": "Maximize your time by driving between the more distant sights. Start your morning at the iconic Vikingskipet, then head to the Railway Museum. In the afternoon, drive to Domkirkeodden, park, and explore the museum and Koigen park on foot. To finish the day, drive to the city center, park again, and enjoy an evening stroll through the Basaren area and along the Mjøsa Promenade to soak up the central atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raspeballer",
+            "tip": "Ein traditioneller norwegischer Kartoffelknödel, oft mit gesalzenem Fleisch serviert."
+          },
+          {
+            "name": "Kransekake",
+            "tip": "Ein festlicher Mandelringkuchen, den man in vielen Bäckereien findet."
+          },
+          {
+            "name": "Restaurants am Straßenrand",
+            "tip": "Halten Sie Ausschau nach 'Kro' (Gasthäusern) für eine herzhafte, hausgemachte Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raspeballer",
+            "tip": "Hagyományos norvég burgonyagombóc, gyakran sózott hússal tálalva."
+          },
+          {
+            "name": "Kransekake",
+            "tip": "Ünnepi mandulagyűrűs sütemény, amelyet sok pékségben megtalál."
+          },
+          {
+            "name": "Útszéli éttermek",
+            "tip": "Keresse a 'Kro' (vendéglő) feliratot egy kiadós, házias ételért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raspeballer",
+            "tip": "O gălușcă tradițională norvegiană din cartofi, adesea servită cu carne sărată."
+          },
+          {
+            "name": "Kransekake",
+            "tip": "Un tort festiv cu inele de migdale, găsit în multe brutării."
+          },
+          {
+            "name": "Restaurante de pe marginea drumului",
+            "tip": "Căutați 'Kro' (hanuri) pentru o masă consistentă, gătită în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raspeballer",
+            "tip": "A traditional Norwegian potato dumpling, often served with salted meats."
+          },
+          {
+            "name": "Kransekake",
+            "tip": "A celebratory almond ring cake, you can find it in many bakeries."
+          },
+          {
+            "name": "Roadside eateries",
+            "tip": "Look for a 'Kro' (inn) for a hearty, home-style meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang des Mjøsa-Sees",
+            "tip": "Finden Sie einen Parkplatz mit Aussicht und genießen Sie die Landschaft von Ihrem Auto aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Stille in der Domkirke",
+            "tip": "Treten Sie für einen Moment der Besinnung in die moderne Kathedrale ein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abend am Koigen Strand",
+            "tip": "Ein friedlicher Ort, um den Tag ausklingen zu lassen, nachdem die Menschenmassen gegangen sind.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a Mjøsa-tó mentén",
+            "tip": "Keressen egy kilátással rendelkező parkolóhelyet, és élvezze a tájat az autójából."
+          },
+          {
+            "name": "Csend a dómban",
+            "tip": "Lépjen be a modern katedrálisba egy pillanatnyi elmélkedésre."
+          },
+          {
+            "name": "Este a Koigen strandon",
+            "tip": "Békés hely a nap befejezéséhez, miután a tömeg elvonult."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de-a lungul lacului Mjøsa",
+            "tip": "Găsiți o parcare cu vedere și bucurați-vă de peisaj din mașină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Liniștea din interiorul Catedralei",
+            "tip": "Intrați în catedrala modernă pentru un moment de contemplare."
+          },
+          {
+            "name": "Seara pe plaja Koigen",
+            "tip": "Un loc pașnic pentru a încheia ziua după ce mulțimile au plecat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along Lake Mjøsa",
+            "tip": "Find a parking spot with a view and enjoy the scenery from your car.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The quiet inside the Domkirke",
+            "tip": "Step inside the modern cathedral for a moment of contemplation."
+          },
+          {
+            "name": "Evening at Koigen beach",
+            "tip": "A peaceful place to end the day after the crowds have left.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "CC Stadion",
+            "tip": "Ein Einkaufszentrum etwas außerhalb des Zentrums für alle Ihre Bedürfnisse."
+          },
+          {
+            "name": "Norwegische Wollprodukte",
+            "tip": "Suchen Sie nach Pullovern oder Decken in Souvenirläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "CC Stadion",
+            "tip": "Egy bevásárlóközpont kissé a központon kívül, minden igényt kielégítve."
+          },
+          {
+            "name": "Norvég gyapjútermékek",
+            "tip": "Keressen pulóvereket vagy takarókat a szuvenírboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "CC Stadion",
+            "tip": "Un centru comercial chiar în afara centrului pentru toate nevoile dumneavoastră."
+          },
+          {
+            "name": "Produse norvegiene din lână",
+            "tip": "Căutați pulovere sau pături în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "CC Stadion",
+            "tip": "A shopping mall just outside the center for all your needs."
+          },
+          {
+            "name": "Norwegian wool products",
+            "tip": "Look for sweaters or blankets in souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkgebühren im Stadtzentrum; die Verwendung einer App wie EasyPark kann hilfreich sein.",
+          "Die Geschwindigkeitsbegrenzungen sind streng, achten Sie auf Schilder.",
+          "Planen Sie Ihre Route im Voraus, um unnötiges Fahren im Stadtzentrum zu vermeiden.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahe gelegene Sehenswürdigkeiten außerhalb von Hamar zu erkunden."
+        ],
+        "hu": [
+          "Vegye figyelembe a parkolási díjakat a városközpontban; egy olyan alkalmazás, mint az EasyPark, hasznos lehet.",
+          "A sebességkorlátozások szigorúak, figyeljen a táblákra.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a felesleges autózást a városközpontban.",
+          "Az autó rugalmasságot biztosít a Hamaron kívüli közeli látnivalók felfedezéséhez is."
+        ],
+        "ro": [
+          "Fiți conștienți de taxele de parcare din centrul orașului; utilizarea unei aplicații precum EasyPark poate fi de ajutor.",
+          "Limitele de viteză sunt stricte, fiți atenți la indicatoare.",
+          "Planificați-vă traseul în avans pentru a evita conducerea inutilă în centrul orașului.",
+          "O mașină vă oferă flexibilitatea de a explora și atracțiile din apropiere, în afara Hamarului."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center; using an app like EasyPark can be helpful.",
+          "Speed limits are strict, pay attention to signs.",
+          "Plan your route in advance to avoid unnecessary driving in the city center.",
+          "A car gives you the flexibility to also explore nearby sights outside of Hamar."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basaren",
+            "hu": "Basaren (Vásárcsarnok)",
+            "ro": "Basaren",
+            "en": "Basaren"
+          },
+          "coords": [
+            11.0695,
+            60.7942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptbusbahnhof ist in der Nähe, was dies zu einem idealen Ausgangspunkt macht.",
+            "hu": "A fő buszpályaudvar a közelben van, így ez ideális kiindulópont.",
+            "ro": "Autogara principală este în apropiere, ceea ce face din acest loc un punct de plecare ideal.",
+            "en": "The main bus terminal is nearby, making this an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamar Domkirke",
+            "hu": "Hamari dóm",
+            "ro": "Catedrala din Hamar",
+            "en": "Hamar Cathedral"
+          },
+          "coords": [
+            11.0721,
+            60.7953
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom zentralen Platz aus, um Ihren ersten Cluster zu erkunden.",
+            "hu": "Rövid séta a központi térről, hogy felfedezze az első klasztert.",
+            "ro": "O scurtă plimbare de la piața centrală pentru a explora primul cluster.",
+            "en": "A short walk from the central square to explore your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Vikingskipet",
+            "hu": "Vikingskipet (Vikinghajó)",
+            "ro": "Vikingskipet (Nava Vikingă)",
+            "en": "Vikingskipet (The Viking Ship)"
+          },
+          "coords": [
+            11.098,
+            60.785
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Die Fahrt selbst bietet einen Blick auf die Stadt.",
+            "hu": "Menjen busszal a központból. Maga az utazás kilátást nyújt a városra.",
+            "ro": "Luați un autobuz din centru. Călătoria în sine oferă o priveliște a orașului.",
+            "en": "Take a bus from the center. The ride itself offers some city views."
+          }
+        },
+        {
+          "name": {
+            "de": "Domkirkeodden",
+            "hu": "Domkirkeodden (Dóm-fok)",
+            "ro": "Domkirkeodden",
+            "en": "Domkirkeodden"
+          },
+          "coords": [
+            11.045,
+            60.795
+          ],
+          "category": "museums",
+          "arrive_at": "12:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie im Zentrum umsteigen, um hierher zu gelangen. Planen Sie entsprechend.",
+            "hu": "Lehet, hogy a központban át kell szállnia, hogy idejusson. Tervezzen ennek megfelelően.",
+            "ro": "S-ar putea să trebuiască să schimbați autobuzul în centru pentru a ajunge aici. Planificați în consecință.",
+            "en": "You may need to transfer buses in the center to get here. Plan accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Koigen",
+            "hu": "Koigen park",
+            "ro": "Parcul Koigen",
+            "en": "Koigen Park"
+          },
+          "coords": [
+            11.05,
+            60.793
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Museum, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Pihentető séta a múzeum után, mielőtt visszamenne busszal a központba.",
+            "ro": "O plimbare relaxantă după muzeu înainte de a lua autobuzul înapoi în centru.",
+            "en": "A relaxing walk after the museum before you catch the bus back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Norsk Jernbanemuseum",
+            "hu": "Norvég Vasúti Múzeum",
+            "ro": "Muzeul Căilor Ferate Norvegiene",
+            "en": "Norwegian Railway Museum"
+          },
+          "coords": [
+            11.085,
+            60.798
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihre letzte Busfahrt des Tages zu einem der besten Museen Norwegens.",
+            "hu": "A nap utolsó buszútja Norvégia egyik legjobb múzeumához.",
+            "ro": "Ultima călătorie cu autobuzul a zilei către unul dintre cele mai bune muzee din Norvegia.",
+            "en": "Your final bus ride of the day to one of Norway's top museums."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Hamars öffentliches Verkehrssystem, um die Stadt zu erkunden. Beginnen Sie im zentralen Cluster mit dem Basaren und der Domkirke, die zu Fuß erreichbar sind. Nehmen Sie am Vormittag einen Bus zum beeindruckenden Vikingskipet. Am Nachmittag bringt Sie ein weiterer Bus zum weitläufigen Gelände von Domkirkeodden, wo Sie auch den Koigen-Park erkunden können. Ihre letzte Fahrt führt Sie zum faszinierenden Eisenbahnmuseum, bevor Sie für den Abend ins Zentrum zurückkehren.",
+        "hu": "Használja Hamar tömegközlekedési rendszerét a város felfedezéséhez. Kezdje a központi klaszterben a gyalogosan elérhető Basarennel és a dómkal. Délelőtt szálljon buszra a lenyűgöző Vikingskipethez. Délután egy másik busz elviszi a Domkirkeodden tágas területére, ahol a Koigen parkot is felfedezheti. Az utolsó útja a lenyűgöző vasúti múzeumhoz vezet, mielőtt estére visszatérne a központba.",
+        "ro": "Folosiți sistemul de transport public din Hamar pentru a explora orașul. Începeți în clusterul central cu Basaren și catedrala, accesibile pe jos. Dimineața, luați un autobuz către impresionantul Vikingskipet. După-amiaza, un alt autobuz vă va duce la terenurile extinse ale Domkirkeodden, unde puteți explora și parcul Koigen. Ultima călătorie vă va duce la fascinantul Muzeu al Căilor Ferate înainte de a vă întoarce în centru pentru seară.",
+        "en": "Use Hamar's public transit system to navigate the city. Start in the central cluster with Basaren and the cathedral, accessible on foot. In the morning, take a bus to the impressive Vikingskipet. In the afternoon, another bus will take you to the expansive grounds of Domkirkeodden, where you can also explore Koigen park. Your final transit leg takes you to the fascinating Railway Museum before you head back to the center for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler (Waffeln)",
+            "tip": "Norwegische Waffeln sind herzförmig und werden oft mit Marmelade und Sauerrahm serviert."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Frikadellen, ein Hausmannskost-Klassiker, den man in vielen Cafeterias findet."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach Bieren von örtlichen Brauereien für einen Vorgeschmack auf die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler (gofri)",
+            "tip": "A norvég gofri szív alakú, és gyakran lekvárral és tejföllel tálalják."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombóc, egy házias klasszikus, amelyet sok étkezdében megtalál."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen helyi sörfőzdék söreit, hogy ízelítőt kapjon a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafele",
+            "tip": "Vafelele norvegiene au formă de inimă și sunt adesea servite cu gem și smântână."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene, un clasic al mâncărurilor gătite în casă, găsit în multe cantine."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați de berile de la fabricile locale pentru a gusta din specificul regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vafler (Waffles)",
+            "tip": "Norwegian waffles are heart-shaped and often served with jam and sour cream."
+          },
+          {
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs, a home-style classic found in many cafeterias."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Ask for beers from local breweries for a taste of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Genießen Sie die wechselnde Landschaft zwischen den Haltestellen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Die obere Etage des Eisenbahnmuseums",
+            "tip": "Oft ruhiger als der Hauptbereich, mit detaillierten Ausstellungen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Spaziergang abseits der Promenade",
+            "tip": "Erkunden Sie die Wohnstraßen in der Nähe des Sees für einen ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Élvezze a változó tájat a megállók között."
+          },
+          {
+            "name": "A vasúti múzeum felső emelete",
+            "tip": "Gyakran csendesebb, mint a fő terület, részletes kiállításokkal."
+          },
+          {
+            "name": "Séta a sétánytól távolabb",
+            "tip": "Fedezze fel a tóhoz közeli lakóutcákat egy csendes sétáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Privind pe geamul autobuzului",
+            "tip": "Bucurați-vă de peisajul în schimbare între opriri.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Etajul superior al Muzeului Căilor Ferate",
+            "tip": "Adesea mai liniștit decât zona principală, cu exponate detaliate."
+          },
+          {
+            "name": "O plimbare în afara promenadei",
+            "tip": "Explorați străzile rezidențiale de lângă lac pentru o plimbare liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Enjoy the changing scenery between stops."
+          },
+          {
+            "name": "The upper floor of the Railway Museum",
+            "tip": "Often quieter than the main area, with detailed exhibits."
+          },
+          {
+            "name": "A walk away from the promenade",
+            "tip": "Explore the residential streets near the lake for a quiet stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torggata",
+            "tip": "Die Haupteinkaufsstraße im Zentrum von Hamar."
+          },
+          {
+            "name": "Gebrauchtwarenläden (Bruktbutikk)",
+            "tip": "Suchen Sie nach einzigartigen Funden und Vintage-Artikeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torggata",
+            "tip": "Hamar fő bevásárlóutcája a központban."
+          },
+          {
+            "name": "Használtcikk-boltok (Bruktbutikk)",
+            "tip": "Keressen egyedi leleteket és vintage tárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torggata",
+            "tip": "Principala stradă comercială din centrul orașului Hamar."
+          },
+          {
+            "name": "Magazine second-hand (Bruktbutikk)",
+            "tip": "Căutați descoperiri unice și articole vintage."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torggata",
+            "tip": "The main shopping street in the center of Hamar."
+          },
+          {
+            "name": "Second-hand shops (Bruktbutikk)",
+            "tip": "Look for unique finds and vintage items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die 'Entur'-App herunter, um Busfahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die Busse verkehren am Wochenende möglicherweise seltener, planen Sie also im Voraus.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück ins Zentrum nicht zu verpassen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le az 'Entur' alkalmazást a buszmenetrendek és útvonalak valós idejű követéséhez.",
+          "A buszok hétvégén ritkábban közlekedhetnek, ezért tervezzen előre.",
+          "Figyeljen az időre, hogy ne késsen le az utolsó buszról vissza a központba."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația 'Entur' pentru a urmări orarele și rutele autobuzelor în timp real.",
+          "Autobuzele pot circula mai rar în weekend, așa că planificați din timp.",
+          "Fiți atenți la timp pentru a nu pierde ultimul autobuz înapoi spre centru."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the 'Entur' app to track bus schedules and routes in real-time.",
+          "Buses may run less frequently on weekends, so plan ahead.",
+          "Keep an eye on the time so you don't miss the last bus back to the center."
+        ]
+      }
+    }
+  }
+}

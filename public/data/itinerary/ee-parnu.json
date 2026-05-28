@@ -1,0 +1,1476 @@
+{
+  "city_id": "ee-parnu",
+  "anchor": {
+    "name": "Pärnu",
+    "coords": [
+      24.4971,
+      58.3859
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Rathaus Pärnu",
+            "hu": "Pärnui városháza",
+            "ro": "Primăria din Pärnu",
+            "en": "Pärnu Town Hall"
+          },
+          "coords": [
+            24.5052,
+            58.3855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade von 1797. Ein toller Startpunkt!",
+            "hu": "Csodálja meg az 1797-es klasszicista homlokzatot. Nagyszerű kiindulópont!",
+            "ro": "Admirați fațada clasicistă din 1797. Un punct de plecare excelent!",
+            "en": "Admire the classicist facade from 1797. A great starting point!"
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Roter Turm",
+            "hu": "Vörös-torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            24.5025,
+            58.3841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das älteste erhaltene Bauwerk in Pärnu, ein Überbleibsel der mittelalterlichen Stadtmauer.",
+            "hu": "Pärnu legrégebbi fennmaradt épülete, a középkori városfal maradványa.",
+            "ro": "Cea mai veche structură supraviețuitoare din Pärnu, o rămășiță a zidului medieval al orașului.",
+            "en": "The oldest surviving structure in Pärnu, a remnant of the medieval city wall."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Elisabeth-Kirche",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sf. Elisabeta",
+            "en": "St. Elisabeth's Church"
+          },
+          "coords": [
+            24.5001,
+            58.3872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Orgel, eine der besten in Estland.",
+            "hu": "Figyelje meg a lenyűgöző orgonát, az egyik legjobbat Észtországban.",
+            "ro": "Fiți atenți la orga impresionantă, una dintre cele mai bune din Estonia.",
+            "en": "Pay attention to the impressive organ, one of the best in Estonia."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Museum",
+            "hu": "Pärnui Múzeum",
+            "ro": "Muzeul Pärnu",
+            "en": "Pärnu Museum"
+          },
+          "coords": [
+            24.498,
+            58.384
+          ],
+          "category": "museums",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen führen durch 11.000 Jahre estnischer Geschichte.",
+            "hu": "Interaktív kiállítások vezetnek végig Észtország 11 000 éves történelmén.",
+            "ro": "Expoziții interactive vă poartă prin 11.000 de ani de istorie estoniană.",
+            "en": "Interactive exhibits guide you through 11,000 years of Estonian history."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ammende Villa",
+            "hu": "Ammende Villa",
+            "ro": "Vila Ammende",
+            "en": "Ammende Villa"
+          },
+          "coords": [
+            24.4945,
+            58.3805
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Juwel des Jugendstils. Gönnen Sie sich einen Kaffee im Café des Hauses.",
+            "hu": "A szecesszió ékköve. Kényeztesse magát egy kávéval a ház kávézójában. Itt ebédelhet is.",
+            "ro": "O bijuterie Art Nouveau. Savurați o cafea la cafeneaua vilei. Puteți lua prânzul aici.",
+            "en": "A gem of Art Nouveau. Treat yourself to a coffee at the villa's café. You can have lunch here."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Schlammbad",
+            "hu": "Pärnui iszapfürdő",
+            "ro": "Băile de nămol din Pärnu",
+            "en": "Pärnu Mud Baths"
+          },
+          "coords": [
+            24.4921,
+            58.3783
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:33",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das neoklassizistische Gebäude ist ein Wahrzeichen. Heute ein modernes Spa.",
+            "hu": "A neoklasszicista épület egy jelkép. Ma egy modern gyógyfürdő működik benne.",
+            "ro": "Clădirea neoclasică este un simbol. Astăzi este un spa modern.",
+            "en": "The neoclassical building is a landmark. Today it's a modern spa."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Strand von Pärnu",
+            "hu": "Pärnu strandja",
+            "ro": "Plaja din Pärnu",
+            "en": "Pärnu Beach"
+          },
+          "coords": [
+            24.5005,
+            58.375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Weißer Sand und flaches Wasser, perfekt zum Entspannen. Finden Sie die berühmte Strandschaukel.",
+            "hu": "Fehér homok és sekély víz, tökéletes a pihenéshez. Keresse meg a híres strandhintát.",
+            "ro": "Nisip alb și apă puțin adâncă, perfecte pentru relaxare. Găsiți faimosul leagăn de pe plajă.",
+            "en": "White sand and shallow water, perfect for relaxing. Find the famous beach swing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in der Sommerhauptstadt Estlands beginnt im Herzen der Altstadt am Rathaus. Am Vormittag erkunden Sie mittelalterliche Türme und barocke Kirchen, bevor Sie im Pärnu Museum tief in die Geschichte eintauchen. Nach dem Mittagessen in der eleganten Ammende Villa führt Sie ein kurzer Spaziergang zum historischen Schlammbad, dem Symbol des Kurortes. Der Nachmittag gehört ganz dem berühmten Strand von Pärnu. Lassen Sie den Tag mit einem Spaziergang entlang der Promenade ausklingen und genießen Sie die Meeresbrise.",
+        "hu": "Az észt nyári fővárosban töltött napja az óváros szívében, a Városházánál kezdődik. Délelőtt középkori tornyokat és barokk templomokat fedez fel, mielőtt a Pärnui Múzeumban elmerül a történelemben. Az elegáns Ammende Villában elköltött ebéd után egy rövid séta vezet a történelmi iszapfürdőhöz, a fürdőváros szimbólumához. A délután teljes egészében a híres pärnui strandé. Zárja a napot egy sétával a promenádon, élvezve a tengeri szellőt.",
+        "ro": "Ziua dvs. în capitala de vară a Estoniei începe în inima orașului vechi, la Primărie. Dimineața explorați turnuri medievale și biserici baroce înainte de a vă cufunda în istorie la Muzeul Pärnu. După prânzul la eleganta Vilă Ammende, o scurtă plimbare vă duce la istoricele băi de nămol, simbolul stațiunii balneare. După-amiaza este dedicată în întregime faimoasei plaje din Pärnu. Încheiați ziua cu o plimbare de-a lungul promenadei, bucurându-vă de briza mării.",
+        "en": "Your day in the summer capital of Estonia begins in the heart of the old town at the Town Hall. In the morning, you'll explore medieval towers and baroque churches before delving into history at the Pärnu Museum. After lunch at the elegant Ammende Villa, a short walk takes you to the historic Mud Baths, the symbol of the spa town. The afternoon is all about the famous Pärnu beach. End the day with a stroll along the promenade, enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Räim",
+            "tip": "Gebratener Ostseehering, ein lokaler Klassiker."
+          },
+          {
+            "name": "Leib",
+            "tip": "Dunkles Roggenbrot, oft hausgemacht in Restaurants serviert."
+          },
+          {
+            "name": "Supelsaksad",
+            "tip": "Ein charmantes Café mit köstlichen Kuchen und leichtem Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Räim",
+            "tip": "Sült balti-tengeri hering, egy helyi klasszikus."
+          },
+          {
+            "name": "Leib",
+            "tip": "Sötét rozskenyér, gyakran házi készítésű az éttermekben."
+          },
+          {
+            "name": "Supelsaksad",
+            "tip": "Egy bájos kávézó finom süteményekkel és könnyű ebéddel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Räim",
+            "tip": "Hering de Baltica prăjit, un clasic local."
+          },
+          {
+            "name": "Leib",
+            "tip": "Pâine neagră de secară, adesea servită proaspătă în restaurante."
+          },
+          {
+            "name": "Supelsaksad",
+            "tip": "O cafenea fermecătoare cu prăjituri delicioase și prânzuri ușoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Räim",
+            "tip": "Fried Baltic herring, a local classic."
+          },
+          {
+            "name": "Leib",
+            "tip": "Dark rye bread, often served homemade in restaurants."
+          },
+          {
+            "name": "Supelsaksad",
+            "tip": "A charming cafe with delicious cakes and light lunches."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallikäär",
+            "tip": "Spazieren Sie entlang des alten Wassergrabens, ein ruhiger Ort abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Der Pier ist der beste Ort, um den Sonnenuntergang über der Bucht von Pärnu zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchgärten",
+            "tip": "Die Gärten um die St. Elisabeth- und St. Katharinen-Kirche bieten friedliche Momente.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallikäär",
+            "tip": "Sétáljon végig a régi vizesárok mentén, egy csendes hely a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a strandon",
+            "tip": "A móló a legjobb hely a naplemente megtekintésére a Pärnui-öböl felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Templomkertek",
+            "tip": "A Szent Erzsébet és Szent Katalin templomok körüli kertek békés pillanatokat kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vallikäär",
+            "tip": "Plimbați-vă de-a lungul vechiului șanț, un loc liniștit departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la plajă",
+            "tip": "Debarcaderul este cel mai bun loc pentru a privi apusul peste Golful Pärnu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile bisericilor",
+            "tip": "Grădinile din jurul bisericilor Sf. Elisabeta și Sf. Ecaterina oferă momente de pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallikäär",
+            "tip": "Stroll along the old moat, a quiet spot away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the beach",
+            "tip": "The pier is the best place to watch the sunset over the Bay of Pärnu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church Gardens",
+            "tip": "The gardens around St. Elisabeth's and St. Catherine's churches offer peaceful moments.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rüütli Straße",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen und Souvenirläden."
+          },
+          {
+            "name": "Gildenhäuser",
+            "tip": "Suchen Sie nach Handwerksläden in den historischen Gildenhäusern für einzigartige estnische Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rüütli utca",
+            "tip": "A fő bevásárlóutca butikokkal és ajándékboltokkal."
+          },
+          {
+            "name": "Céhházak",
+            "tip": "Keressen kézműves boltokat a történelmi céhházakban egyedi észt kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Rüütli",
+            "tip": "Principala stradă comercială cu buticuri și magazine de suveniruri."
+          },
+          {
+            "name": "Casele breslelor",
+            "tip": "Căutați ateliere de meșteșugari în casele istorice ale breslelor pentru artizanat estonian unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rüütli Street",
+            "tip": "The main shopping street with boutiques and souvenir shops."
+          },
+          {
+            "name": "Guild Houses",
+            "tip": "Look for artisan workshops in the historic guild houses for unique Estonian crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die Altstadt ist kompakt und leicht zu Fuß zu erkunden.",
+          "Nehmen Sie Sonnencreme und eine Kopfbedeckung für den Strand mit, auch an bewölkten Tagen.",
+          "Viele Cafés bieten kostenloses WLAN an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Az óváros kompakt és könnyen felfedezhető gyalog.",
+          "Vigyen magával naptejet és kalapot a strandra, még felhős napokon is.",
+          "Sok kávézó kínál ingyenes Wi-Fi-t."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Orașul vechi este compact și ușor de explorat pe jos.",
+          "Luați cremă de soare și o pălărie pentru plajă, chiar și în zilele înnorate.",
+          "Multe cafenele oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "The Old Town is compact and easily explored on foot.",
+          "Bring sunscreen and a hat for the beach, even on cloudy days.",
+          "Many cafes offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Roter Turm",
+            "hu": "Vörös-torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            24.5025,
+            58.3841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am ältesten Gebäude der Stadt.",
+            "hu": "Kezdje a túrát a város legrégebbi épületénél.",
+            "ro": "Începeți turul de la cea mai veche clădire din oraș.",
+            "en": "Start your tour at the city's oldest building."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Katharinen-Kirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sf. Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            24.5041,
+            58.3832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Architektur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg az egyedi építészetet és a csendes légkört.",
+            "ro": "Observați arhitectura unică și atmosfera liniștită.",
+            "en": "Notice the unique architecture and quiet atmosphere."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Museum",
+            "hu": "Pärnui Múzeum",
+            "ro": "Muzeul Pärnu",
+            "en": "Pärnu Museum"
+          },
+          "coords": [
+            24.498,
+            58.384
+          ],
+          "category": "museums",
+          "arrive_at": "10:17",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie die kühle Abwechslung im Museum.",
+            "hu": "Parkolja le a kerékpárt kint, és élvezze a hűsítő változatosságot a múzeumban.",
+            "ro": "Parcați bicicleta afară și bucurați-vă de o pauză răcoroasă în muzeu.",
+            "en": "Park your bike outside and enjoy a cool break inside the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Vallikäär",
+            "hu": "Vallikäär",
+            "ro": "Vallikäär",
+            "en": "Vallikäär"
+          },
+          "coords": [
+            24.4951,
+            58.383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für ein Picknick-Mittagessen. Es gibt viele Bänke mit Aussicht.",
+            "hu": "Szép hely egy piknikebédhez. Sok pad van kilátással.",
+            "ro": "Un loc frumos pentru un prânz la picnic. Există multe bănci cu priveliște.",
+            "en": "A lovely spot for a picnic lunch. There are many benches with a view."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ammende Villa",
+            "hu": "Ammende Villa",
+            "ro": "Vila Ammende",
+            "en": "Ammende Villa"
+          },
+          "coords": [
+            24.4945,
+            58.3805
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:54",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause, um dieses Jugendstil-Meisterwerk von außen zu bewundern.",
+            "hu": "Tartson egy rövid szünetet, hogy megcsodálhassa ezt a szecessziós remekművet kívülről.",
+            "ro": "Luați o scurtă pauză pentru a admira această capodoperă Art Nouveau din exterior.",
+            "en": "Take a short break to admire this Art Nouveau masterpiece from the outside."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            24.498,
+            58.376
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:28",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie die Promenade entlang und genießen Sie die Aussicht auf die Bucht.",
+            "hu": "Kerékpározzon végig a sétányon, és élvezze az öbölre nyíló kilátást.",
+            "ro": "Mergeți cu bicicleta de-a lungul promenadei și bucurați-vă de vederea golfului.",
+            "en": "Cycle along the promenade and enjoy the views of the bay."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Pier und Strand",
+            "hu": "Pärnu móló és strand",
+            "ro": "Debarcaderul și plaja din Pärnu",
+            "en": "Pärnu Pier and Beach"
+          },
+          "coords": [
+            24.478,
+            58.374
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie bis zum Ende des Piers für ein ikonisches Foto. Danach ist es Zeit für den Strand!",
+            "hu": "Kerékpározzon el a móló végéig egy ikonikus fotóért. Utána jöhet a strandolás!",
+            "ro": "Mergeți cu bicicleta până la capătul debarcaderului pentru o fotografie emblematică. Apoi, e timpul de plajă!",
+            "en": "Cycle to the end of the pier for an iconic photo. After that, it's beach time!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Roten Turm. Der Vormittag führt Sie durch die charmanten Straßen der Altstadt, vorbei an historischen Kirchen zum Pärnu Museum. Nach einer Mittagspause im grünen Vallikäär-Park radeln Sie in Richtung Küste, vorbei an der prächtigen Ammende Villa. Der Nachmittag steht im Zeichen des Meeres: eine entspannte Fahrt entlang der Strandpromenade, gekrönt von einem langen Aufenthalt am berühmten Pärnu-Strand und dem Pier.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Vörös-toronynál. A délelőtt az óváros bájos utcáin vezet keresztül, történelmi templomok mellett a Pärnui Múzeumig. A zöld Vallikäär parkban tartott ebédszünet után a part felé veszi az irányt, elhaladva a csodálatos Ammende Villa mellett. A délután a tengerről szól: egy laza tekerés a tengerparti sétányon, amit a híres pärnui strandon és a mólónál töltött hosszú pihenő koronáz meg.",
+        "ro": "Urcați pe bicicletă și începeți turul de la Turnul Roșu. Dimineața vă poartă pe străzile fermecătoare ale orașului vechi, pe lângă biserici istorice, până la Muzeul Pärnu. După o pauză de prânz în parcul verde Vallikäär, pedalați spre coastă, trecând pe lângă magnifica Vilă Ammende. După-amiaza este despre mare: o plimbare relaxată de-a lungul promenadei de pe plajă, încununată de o ședere lungă la faimoasa plajă și debarcader din Pärnu.",
+        "en": "Hop on your bike and start your tour at the Red Tower. The morning takes you through the charming streets of the Old Town, past historic churches to the Pärnu Museum. After a lunch break in the green Vallikäär park, you'll cycle towards the coast, passing the magnificent Ammende Villa. The afternoon is all about the sea: a relaxed ride along the beach promenade, topped off with a long stay at the famous Pärnu beach and pier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrötchen",
+            "tip": "Ein schneller und leckerer Snack, erhältlich in Strandnähe."
+          },
+          {
+            "name": "Kali",
+            "tip": "Ein traditionelles fermentiertes Getränk, ähnlich wie Kwas. Sehr erfrischend."
+          },
+          {
+            "name": "Steffani Pizzarestoran",
+            "tip": "Berühmt in ganz Estland, perfekt für eine herzhafte Mahlzeit nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas szendvics",
+            "tip": "Gyors és ízletes harapnivaló a strand közelében."
+          },
+          {
+            "name": "Kali",
+            "tip": "Hagyományos erjesztett ital, hasonló a kvaszhoz. Nagyon frissítő."
+          },
+          {
+            "name": "Steffani Pizzarestoran",
+            "tip": "Egész Észtországban híres, tökéletes egy kiadós étkezéshez biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu pește",
+            "tip": "O gustare rapidă și delicioasă, disponibilă lângă plajă."
+          },
+          {
+            "name": "Kali",
+            "tip": "O băutură tradițională fermentată, asemănătoare cu cvasul. Foarte răcoritoare."
+          },
+          {
+            "name": "Steffani Pizzarestoran",
+            "tip": "Faimos în toată Estonia, perfect pentru o masă copioasă după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish sandwich",
+            "tip": "A quick and tasty snack available near the beach."
+          },
+          {
+            "name": "Kali",
+            "tip": "A traditional fermented drink, similar to kvass. Very refreshing."
+          },
+          {
+            "name": "Steffani Pizzarestoran",
+            "tip": "Famous throughout Estonia, perfect for a hearty meal after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pärnu River North Bank",
+            "tip": "Radfahren Sie auf der anderen Seite des Flusses für eine ruhigere Perspektive auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vogelbeobachtungstürme",
+            "tip": "In der Nähe des Strandes gibt es Türme, die sich perfekt zur Vogelbeobachtung eignen.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Rannapark",
+            "tip": "Der Strandpark hinter den Dünen ist ein friedlicher Ort zum Ausruhen im Schatten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Pärnu-folyó északi partja",
+            "tip": "Kerékpározzon a folyó másik oldalán a város csendesebb perspektívájáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Madármegfigyelő tornyok",
+            "tip": "A strand közelében tornyok találhatók, amelyek tökéletesek a madármegfigyeléshez.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Rannapark",
+            "tip": "A dűnék mögötti strandpark békés hely a pihenésre az árnyékban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul de nord al râului Pärnu",
+            "tip": "Mergeți cu bicicleta pe cealaltă parte a râului pentru o perspectivă mai liniștită asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Turnuri de observare a păsărilor",
+            "tip": "Există turnuri lângă plajă, perfecte pentru observarea păsărilor.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Rannapark",
+            "tip": "Parcul de pe plajă din spatele dunelor este un loc pașnic pentru a vă odihni la umbră.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pärnu River North Bank",
+            "tip": "Cycle on the other side of the river for a quieter perspective of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Birdwatching towers",
+            "tip": "There are towers near the beach perfect for birdwatching.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Rannapark",
+            "tip": "The beach park behind the dunes is a peaceful place to rest in the shade.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pärnu Keskus",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie etwas vergessen haben."
+          },
+          {
+            "name": "Bernsteinschmuck",
+            "tip": "Halten Sie in den Souvenirläden Ausschau nach lokalem Bernsteinschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pärnu Keskus",
+            "tip": "Modern bevásárlóközpont, ha valamit elfelejtett volna."
+          },
+          {
+            "name": "Borostyán ékszerek",
+            "tip": "Keresse a helyi borostyán ékszereket az ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pärnu Keskus",
+            "tip": "Un centru comercial modern în caz că ați uitat ceva."
+          },
+          {
+            "name": "Bijuterii din chihlimbar",
+            "tip": "Căutați bijuterii locale din chihlimbar în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pärnu Keskus",
+            "tip": "A modern shopping center in case you forgot anything."
+          },
+          {
+            "name": "Amber jewelry",
+            "tip": "Look for local amber jewelry in the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pärnu ist sehr fahrradfreundlich mit vielen Radwegen.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps.",
+          "Ein Fahrradverleih ist in der Nähe des Busbahnhofs und in vielen Hotels verfügbar.",
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Pärnu nagyon kerékpárbarát, sok kerékpárúttal.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is.",
+          "Kerékpárkölcsönző a buszpályaudvar közelében és sok szállodában elérhető.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Pärnu este foarte prietenos cu bicicletele, cu multe piste de ciclism.",
+          "Încuiați întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Închirierea de biciclete este disponibilă lângă autogară și la multe hoteluri.",
+          "Verificați presiunea anvelopelor înainte de a porni."
+        ],
+        "en": [
+          "Pärnu is very bike-friendly with many cycle paths.",
+          "Always lock your bike, even for short stops.",
+          "Bike rentals are available near the bus station and at many hotels.",
+          "Check your tire pressure before setting off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 10.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Parkplatz bei Vallikäär",
+            "hu": "Parkoló a Vallikäär-nél",
+            "ro": "Parcare lângă Vallikäär",
+            "en": "Parking at Vallikäär"
+          },
+          "coords": [
+            24.494,
+            58.3835
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden. Tagsüber gebührenpflichtig.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot. Napközben fizetős.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos. Se aplică taxe în timpul zilei.",
+            "en": "Park here to explore the first cluster on foot. Fees apply during the day."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Roter Turm",
+            "hu": "Vörös-torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            24.5025,
+            58.3841
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:27",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum ältesten Gebäude der Stadt.",
+            "hu": "Rövid séta a parkolótól a város legrégebbi épületéig.",
+            "ro": "O scurtă plimbare de la parcare la cea mai veche clădire din oraș.",
+            "en": "A short walk from the parking lot to the city's oldest building."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rathaus Pärnu",
+            "hu": "Pärnui városháza",
+            "ro": "Primăria din Pärnu",
+            "en": "Pärnu Town Hall"
+          },
+          "coords": [
+            24.5052,
+            58.3855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:18",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Spaziergang führt Sie durch das Herz der Altstadt.",
+            "hu": "A séta az óváros szívén vezet keresztül.",
+            "ro": "Plimbarea vă duce prin inima orașului vechi.",
+            "en": "The walk takes you through the heart of the Old Town."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Museum",
+            "hu": "Pärnui Múzeum",
+            "ro": "Muzeul Pärnu",
+            "en": "Pärnu Museum"
+          },
+          "coords": [
+            24.498,
+            58.384
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zum Auto gelegen. Ein Muss für Geschichtsinteressierte.",
+            "hu": "Az autóhoz visszafelé úton található. A történelem iránt érdeklődőknek kötelező.",
+            "ro": "Situat în drum spre mașină. O vizită obligatorie pentru pasionații de istorie.",
+            "en": "Located on the way back to the car. A must-visit for history buffs."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Parkplatz am Strand",
+            "hu": "Parkoló a strandnál",
+            "ro": "Parcare la plajă",
+            "en": "Beach Parking"
+          },
+          "coords": [
+            24.493,
+            58.379
+          ],
+          "category": "transport",
+          "arrive_at": "13:08",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Dieser Parkplatz ist ideal für den Strandbereich.",
+            "hu": "Vezessen a második látnivaló-csoporthoz. Ez a parkoló ideális a strand területéhez.",
+            "ro": "Conduceți spre al doilea grup de atracții. Această parcare este ideală pentru zona plajei.",
+            "en": "Drive to the second cluster. This parking lot is ideal for the beach area."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Schlammbad & Ammende Villa",
+            "hu": "Pärnui iszapfürdő & Ammende Villa",
+            "ro": "Băile de nămol & Vila Ammende",
+            "en": "Pärnu Mud Baths & Ammende Villa"
+          },
+          "coords": [
+            24.4933,
+            58.3793
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:16",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie beide Wahrzeichen und essen Sie in einem der nahegelegenen Restaurants zu Mittag.",
+            "hu": "Csodálja meg mindkét jelképet, és ebédeljen az egyik közeli étteremben.",
+            "ro": "Admirați ambele repere și luați prânzul la unul dintre restaurantele din apropiere.",
+            "en": "Admire both landmarks and have lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Strand von Pärnu",
+            "hu": "Pärnu strandja",
+            "ro": "Plaja din Pärnu",
+            "en": "Pärnu Beach"
+          },
+          "coords": [
+            24.5005,
+            58.375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:54",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zur Hauptattraktion. Verbringen Sie den Rest des Nachmittags hier.",
+            "hu": "Rövid séta a fő látványossághoz. Töltse itt a délután hátralévő részét.",
+            "ro": "O scurtă plimbare până la atracția principală. Petreceți restul după-amiezii aici.",
+            "en": "A short walk to the main attraction. Spend the rest of the afternoon here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt bequem mit dem Auto. Parken Sie in der Nähe von Vallikäär und erkunden Sie den ersten Cluster – die historische Altstadt – zu Fuß. Entdecken Sie den Roten Turm und das Rathaus, bevor Sie im Pärnu Museum in die Vergangenheit eintauchen. Nach der Rückkehr zum Auto fahren Sie zum zweiten Cluster: dem berühmten Strandbereich. Nach dem Mittagessen in der Nähe der Ammende Villa und des Schlammbads gehört der gesamte Nachmittag dem Sonnenbaden, Schwimmen und Entspannen am weiten Sandstrand von Pärnu.",
+        "hu": "A napja kényelmesen, autóval kezdődik. Parkoljon a Vallikäär közelében, és fedezze fel gyalog az első látnivaló-csoportot – a történelmi óvárost. Fedezze fel a Vörös-tornyot és a Városházát, mielőtt elmerülne a múltban a Pärnui Múzeumban. Miután visszatért az autóhoz, hajtson a második csoporthoz: a híres strandterülethez. Az Ammende Villa és az iszapfürdő közelében elköltött ebéd után az egész délután a napozásról, úszásról és pihenésről szól Pärnu tágas homokos strandján.",
+        "ro": "Ziua dvs. începe confortabil cu mașina. Parcați lângă Vallikäär și explorați primul grup de atracții – centrul istoric – pe jos. Descoperiți Turnul Roșu și Primăria înainte de a vă cufunda în trecut la Muzeul Pärnu. După ce vă întoarceți la mașină, conduceți spre al doilea grup: faimoasa zonă a plajei. După prânz lângă Vila Ammende și băile de nămol, întreaga după-amiază este dedicată plajei, înotului și relaxării pe întinsa plajă de nisip din Pärnu.",
+        "en": "Your day starts comfortably by car. Park near Vallikäär and explore the first cluster – the historic old town – on foot. Discover the Red Tower and the Town Hall before delving into the past at the Pärnu Museum. After returning to your car, you'll drive to the second cluster: the famous beach area. After lunch near the Ammende Villa and Mud Baths, the entire afternoon is for sunbathing, swimming, and relaxing on Pärnu's vast sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rannahoone",
+            "tip": "Das historische Strandgebäude beherbergt Restaurants mit toller Aussicht."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Ein mit Schokolade überzogener Quark-Snack, den man in jedem Supermarkt findet. Ein estnischer Favorit."
+          },
+          {
+            "name": "Villa Wesset",
+            "tip": "Ein gutes Restaurant für ein gehobenes Abendessen nach einem Tag am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rannahoone",
+            "tip": "A történelmi strandépületben remek kilátással rendelkező éttermek találhatók."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Csokoládéval bevont túrós snack, minden szupermarketben megtalálható. Észt kedvenc."
+          },
+          {
+            "name": "Villa Wesset",
+            "tip": "Jó étterem egy elegánsabb vacsorához egy strandon töltött nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rannahoone",
+            "tip": "Clădirea istorică a plajei găzduiește restaurante cu priveliști minunate."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "O gustare de brânză de vaci acoperită cu ciocolată, găsită în orice supermarket. Un favorit estonian."
+          },
+          {
+            "name": "Villa Wesset",
+            "tip": "Un restaurant bun pentru o cină elegantă după o zi la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rannahoone",
+            "tip": "The historic beach building houses restaurants with great views."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "A chocolate-covered curd snack found in any supermarket. An Estonian favorite."
+          },
+          {
+            "name": "Villa Wesset",
+            "tip": "A fine restaurant for an upscale dinner after a day at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Machen Sie eine kurze Fahrt südlich von Pärnu für andere, ruhigere Strandabschnitte.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Sonnenuntergang vom Auto aus",
+            "tip": "Finden Sie einen Parkplatz mit Meerblick und genießen Sie den Sonnenuntergang bequem von Ihrem Auto aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a part mentén",
+            "tip": "Tegyen egy rövid autós kirándulást Pärnutól délre más, csendesebb strandszakaszokért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Naplemente az autóból",
+            "tip": "Keressen egy tengerre néző parkolóhelyet, és élvezze a naplementét kényelmesen az autójából.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Condus de-a lungul coastei",
+            "tip": "Faceți o scurtă călătorie cu mașina la sud de Pärnu pentru alte secțiuni de plajă mai liniștite.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Apus de soare din mașină",
+            "tip": "Găsiți un loc de parcare cu vedere la mare și bucurați-vă de apus confortabil din mașină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the coast",
+            "tip": "Take a short drive south of Pärnu for other, quieter beach sections.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Sunset from the car",
+            "tip": "Find a parking spot with a sea view and enjoy the sunset from the comfort of your car.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaubamajakas",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand, leicht mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Lokale Produkte",
+            "tip": "Halten Sie an Bauernmärkten außerhalb der Stadt für frische Beeren und geräucherten Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaubamajakas",
+            "tip": "Nagy bevásárlóközpont a város szélén, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Álljon meg a városon kívüli termelői piacokon friss bogyókért és füstölt halért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaubamajakas",
+            "tip": "Un centru comercial mare la marginea orașului, ușor accesibil cu mașina."
+          },
+          {
+            "name": "Produse locale",
+            "tip": "Opriți-vă la piețele fermierilor din afara orașului pentru fructe de pădure proaspete și pește afumat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaubamajakas",
+            "tip": "A large shopping center on the outskirts of town, easily accessible by car."
+          },
+          {
+            "name": "Local produce",
+            "tip": "Stop at farmers' markets outside the city for fresh berries and smoked fish."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen und -gebühren, besonders im Sommer.",
+          "Das Autofahren in der Altstadt selbst ist eingeschränkt und nicht zu empfehlen.",
+          "Tanken Sie außerhalb des Stadtzentrums, dort sind die Preise oft günstiger.",
+          "Die Straßenverhältnisse sind im Allgemeinen gut."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és díjakra, különösen nyáron.",
+          "Az óvárosban korlátozott a vezetés, és nem ajánlott.",
+          "Tankoljon a városközponton kívül, ott gyakran olcsóbbak az árak.",
+          "Az útviszonyok általában jók."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxe, mai ales în timpul verii.",
+          "Conducerea în centrul vechi este restricționată și nerecomandată.",
+          "Alimentați în afara centrului orașului, prețurile sunt adesea mai mici acolo.",
+          "Starea drumurilor este în general bună."
+        ],
+        "en": [
+          "Pay attention to parking zones and fees, especially in summer.",
+          "Driving in the old town itself is restricted and not recommended.",
+          "Refuel outside the city center, prices are often cheaper there.",
+          "Road conditions are generally good."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name_4lang": {
+            "de": "Bushaltestelle 'Teater'",
+            "hu": "'Teater' buszmegálló",
+            "ro": "Stația de autobuz 'Teater'",
+            "en": "'Teater' Bus Stop"
+          },
+          "coords": [
+            24.507,
+            58.386
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein zentraler Knotenpunkt, um Ihren Rundgang durch die Altstadt zu beginnen.",
+            "hu": "Központi csomópont az óvárosi séta megkezdéséhez.",
+            "ro": "Un nod central pentru a începe turul pe jos al orașului vechi.",
+            "en": "A central hub to start your walking tour of the Old Town."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Rathaus Pärnu",
+            "hu": "Pärnui városháza",
+            "ro": "Primăria din Pärnu",
+            "en": "Pärnu Town Hall"
+          },
+          "coords": [
+            24.5052,
+            58.3855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:18",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von der Bushaltestelle entfernt.",
+            "hu": "Csak egy kőhajításnyira a buszmegállótól.",
+            "ro": "La doar o aruncătură de băț de stația de autobuz.",
+            "en": "Just a stone's throw from the bus stop."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "St. Elisabeth-Kirche",
+            "hu": "Szent Erzsébet-templom",
+            "ro": "Biserica Sf. Elisabeta",
+            "en": "St. Elisabeth's Church"
+          },
+          "coords": [
+            24.5001,
+            58.3872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die schönen Straßen der Altstadt.",
+            "hu": "Rövid séta az óváros gyönyörű utcáin.",
+            "ro": "O scurtă plimbare pe străzile frumoase ale orașului vechi.",
+            "en": "A short walk through the beautiful streets of the Old Town."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Museum",
+            "hu": "Pärnui Múzeum",
+            "ro": "Muzeul Pärnu",
+            "en": "Pärnu Museum"
+          },
+          "coords": [
+            24.498,
+            58.384
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vervollständigen Sie Ihren Rundgang durch die Altstadt mit einem Besuch im Museum.",
+            "hu": "Fejezze be óvárosi sétáját a múzeum meglátogatásával.",
+            "ro": "Completați-vă turul orașului vechi cu o vizită la muzeu.",
+            "en": "Complete your tour of the Old Town with a visit to the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bushaltestelle 'Rannapark'",
+            "hu": "'Rannapark' buszmegálló",
+            "ro": "Stația de autobuz 'Rannapark'",
+            "en": "'Rannapark' Bus Stop"
+          },
+          "coords": [
+            24.4925,
+            58.38
+          ],
+          "category": "transport",
+          "arrive_at": "12:39",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von 'Bussijaam' (Busbahnhof), um zum Strandbereich zu gelangen.",
+            "hu": "Menjen busszal a 'Bussijaam' (buszpályaudvar) megállótól a strand területére.",
+            "ro": "Luați un autobuz de la 'Bussijaam' (autogară) pentru a ajunge în zona plajei.",
+            "en": "Take a bus from 'Bussijaam' (Bus Station) to get to the beach area."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Pärnu Schlammbad",
+            "hu": "Pärnui iszapfürdő",
+            "ro": "Băile de nămol din Pärnu",
+            "en": "Pärnu Mud Baths"
+          },
+          "coords": [
+            24.4921,
+            58.3783
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:47",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das beeindruckende Gebäude ist nicht zu übersehen. Zeit für das Mittagessen in der Nähe.",
+            "hu": "A lenyűgöző épületet nem lehet nem észrevenni. Itt az ideje a közeli ebédnek.",
+            "ro": "Clădirea impresionantă nu poate fi ratată. E timpul pentru prânz în apropiere.",
+            "en": "The impressive building is unmissable. Time for lunch nearby."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Strand von Pärnu",
+            "hu": "Pärnu strandja",
+            "ro": "Plaja din Pärnu",
+            "en": "Pärnu Beach"
+          },
+          "coords": [
+            24.5005,
+            58.375
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 240,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Hauptgrund, Pärnu im Sommer zu besuchen! Genießen Sie den Sand und das Meer.",
+            "hu": "A fő ok, amiért nyáron Pärnuba látogatnak! Élvezze a homokot és a tengert.",
+            "ro": "Principalul motiv pentru a vizita Pärnu vara! Bucurați-vă de nisip și de mare.",
+            "en": "The main reason to visit Pärnu in summer! Enjoy the sand and the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle 'Teater' und erkunden Sie den ersten Cluster, die Altstadt, zu Fuß. Am Vormittag schlendern Sie vom Rathaus zur Elisabeth-Kirche und beenden Ihren Rundgang im Pärnu Museum. Nach dieser Dosis Kultur bringt Sie eine kurze Busfahrt zum zweiten Cluster: dem Strand. Nach dem Mittagessen in der Nähe des ikonischen Schlammbads ist der Rest des Tages für die pure Entspannung am berühmten Sandstrand von Pärnu reserviert.",
+        "hu": "Kezdje a napot a központi 'Teater' buszmegállónál, és fedezze fel gyalog az első látnivaló-csoportot, az óvárost. Délelőtt a Városházától a Szent Erzsébet-templomig sétál, és a Pärnui Múzeumban fejezi be a körutat. A kulturális feltöltődés után egy rövid buszozás elviszi a második csoporthoz: a strandhoz. Az ikonikus iszapfürdő közelében elköltött ebéd után a nap hátralévő része a tiszta kikapcsolódásé Pärnu híres homokos strandján.",
+        "ro": "Începeți ziua la stația centrală de autobuz 'Teater' și explorați primul grup de atracții, orașul vechi, pe jos. Dimineața, vă plimbați de la Primărie la Biserica Sf. Elisabeta, încheindu-vă turul la Muzeul Pärnu. După această doză de cultură, o scurtă călătorie cu autobuzul vă duce la al doilea grup: plaja. După prânz, lângă iconicele băi de nămol, restul zilei este rezervat pentru relaxare pură pe faimoasa plajă de nisip din Pärnu.",
+        "en": "Start your day at the central 'Teater' bus stop and explore the first cluster, the Old Town, on foot. In the morning, you'll stroll from the Town Hall to St. Elisabeth's Church, ending your tour at the Pärnu Museum. After this dose of culture, a short bus ride takes you to the second cluster: the beach. After lunch near the iconic Mud Baths, the rest of the day is reserved for pure relaxation on Pärnu's famous sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sõõrikubaar",
+            "tip": "In der Nähe des Busbahnhofs, berühmt für seine frischen, warmen Donuts. Ein billiger und leckerer Genuss."
+          },
+          {
+            "name": "Estonian Craft Beer",
+            "tip": "Suchen Sie nach lokalen Bieren von Pühaste oder Põhjala in den Bars."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sõõrikubaar",
+            "tip": "A buszpályaudvar közelében található, híres a friss, meleg fánkjairól. Olcsó és finom csemege."
+          },
+          {
+            "name": "Észt kézműves sör",
+            "tip": "Keresse a helyi söröket a Pühaste vagy a Põhjala főzdéktől a bárokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sõõrikubaar",
+            "tip": "Lângă autogară, faimos pentru gogoșile proaspete și calde. Un deliciu ieftin și gustos."
+          },
+          {
+            "name": "Bere artizanală estoniană",
+            "tip": "Căutați beri locale de la Pühaste sau Põhjala în baruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sõõrikubaar",
+            "tip": "Near the bus station, famous for its fresh, warm doughnuts. A cheap and tasty treat."
+          },
+          {
+            "name": "Estonian Craft Beer",
+            "tip": "Look for local beers from Pühaste or Põhjala in the bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in einer Bibliothek",
+            "tip": "Die Zentralbibliothek von Pärnu ist ein modernes Gebäude und ein ruhiger Ort zum Entspannen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Fahrt mit dem Bus in einen Vorort",
+            "tip": "Nehmen Sie einen zufälligen Bus für ein paar Haltestellen aus dem Zentrum heraus, um das lokale Leben zu sehen.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok egy könyvtárban",
+            "tip": "A Pärnui Központi Könyvtár modern épület és csendes hely a pihenésre.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Buszozás egy külvárosba",
+            "tip": "Szálljon fel egy véletlenszerű buszra néhány megállóra a központból, hogy lássa a helyi életet.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colț de lectură într-o bibliotecă",
+            "tip": "Biblioteca Centrală din Pärnu este o clădire modernă și un loc liniștit pentru relaxare.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Călătorie cu autobuzul într-o suburbie",
+            "tip": "Luați un autobuz la întâmplare pentru câteva stații în afara centrului pentru a vedea viața locală.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in a library",
+            "tip": "The Pärnu Central Library is a modern building and a quiet place to relax.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Bus ride to a suburb",
+            "tip": "Take a random bus for a few stops out of the center to see local life.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pärnu Market",
+            "tip": "Ein authentischer Markt in der Nähe des Busbahnhofs, wo Einheimische einkaufen."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Estland ist bekannt für hochwertiges Leinen. Ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pärnui piac",
+            "tip": "Autentikus piac a buszpályaudvar közelében, ahol a helyiek vásárolnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Észtország híres a kiváló minőségű vászonról. Nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Pärnu",
+            "tip": "O piață autentică lângă autogară, unde localnicii își fac cumpărăturile."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Estonia este cunoscută pentru inul de înaltă calitate. Un suvenir minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pärnu Market",
+            "tip": "An authentic market near the bus station where locals shop."
+          },
+          {
+            "name": "Linen products",
+            "tip": "Estonia is known for high-quality linen. A great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte oder nutzen Sie die kontaktlose Zahlung im Bus.",
+          "Die Busrouten sind auf Google Maps gut abgebildet.",
+          "Die Busse sind im Sommer oft voll, planen Sie etwas mehr Zeit ein.",
+          "Der Hauptbusbahnhof (Bussijaam) ist der zentrale Knotenpunkt für die meisten Linien."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, vagy használja az érintés nélküli fizetést a buszon.",
+          "A buszútvonalak jól feltérképezhetők a Google Térképen.",
+          "A buszok nyáron gyakran zsúfoltak, tervezzen egy kicsit több időt.",
+          "A fő buszpályaudvar (Bussijaam) a legtöbb vonal központi csomópontja."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau folosiți plata contactless în autobuz.",
+          "Rutele de autobuz sunt bine mapate pe Google Maps.",
+          "Autobuzele sunt adesea aglomerate vara, așa că alocați-vă timp suplimentar.",
+          "Autogara principală (Bussijaam) este nodul central pentru majoritatea liniilor."
+        ],
+        "en": [
+          "Buy a day ticket or use contactless payment on the bus.",
+          "Bus routes are well-mapped on Google Maps.",
+          "Buses are often crowded in the summer, so allow for some extra time.",
+          "The main bus station (Bussijaam) is the central hub for most lines."
+        ]
+      }
+    }
+  }
+}

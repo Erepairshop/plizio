@@ -1,0 +1,1206 @@
+{
+  "city_id": "slovakia-nove-zamky-cities-v2",
+  "anchor": {
+    "name": "Nové Zámky",
+    "coords": [
+      18.1614,
+      47.985
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Rathaus und Hauptplatz",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Piața Principală",
+            "en": "Town Hall and Main Square"
+          },
+          "coords": [
+            18.1645,
+            47.9855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafes here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitssäule",
+            "hu": "Szentháromság-szobor",
+            "ro": "Statuia Sfintei Treimi",
+            "en": "Holy Trinity Column"
+          },
+          "coords": [
+            18.1648,
+            47.9857
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv im Herzen der Stadt.",
+            "hu": "Nagyszerű fotótéma a város szívében.",
+            "ro": "Un subiect frumos pentru fotografii în inima orașului.",
+            "en": "A beautiful photo opportunity in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Kreuzerhöhung",
+            "hu": "Szent Kereszt Felmagasztalása templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Exaltation of the Holy Cross"
+          },
+          "coords": [
+            18.163,
+            47.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Details im Inneren.",
+            "hu": "Figyeljen a belső barokk részletekre.",
+            "ro": "Observați detaliile baroce din interior.",
+            "en": "Pay attention to the baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            18.1625,
+            47.9865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der angrenzende Garten ist eine Oase der Ruhe.",
+            "hu": "A szomszédos kert a nyugalom oázisa.",
+            "ro": "Grădina adiacentă este o oază de liniște.",
+            "en": "The adjacent garden is an oasis of calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernest Zmeták Kunstgalerie",
+            "hu": "Zmeták Ernő Művészeti Galéria",
+            "ro": "Galeria de Artă Ernest Zmeták",
+            "en": "Ernest Zmeták Art Gallery"
+          },
+          "coords": [
+            18.166,
+            47.985
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentriert sich auf slowakische Kunst des 20. Jahrhunderts.",
+            "hu": "A 20. századi szlovák művészetre összpontosít.",
+            "ro": "Se concentrează pe arta slovacă din secolul al XX-lea.",
+            "en": "Focuses on 20th-century Slovak art."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton-Bernolák-Denkmal",
+            "hu": "Bernolák Antal emlékmű",
+            "ro": "Monumentul Anton Bernolák",
+            "en": "Anton Bernolák Monument"
+          },
+          "coords": [
+            18.1655,
+            47.9845
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gewidmet einem wichtigen slowakischen Sprachreformer.",
+            "hu": "Egy fontos szlovák nyelvújítónak szentelve.",
+            "ro": "Dedicat unui important reformator al limbii slovace.",
+            "en": "Dedicated to an important Slovak language reformer."
+          }
+        },
+        {
+          "name": {
+            "de": "Sihoť-Park",
+            "hu": "Sihoť park",
+            "ro": "Parcul Sihoť",
+            "en": "Sihoť Park"
+          },
+          "coords": [
+            18.171,
+            47.982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am lebhaften Hauptplatz von Neuhäusel, wo Sie das Rathaus und die Dreifaltigkeitssäule bewundern können. Am Vormittag erkunden Sie das sakrale Erbe der Stadt mit einem Besuch der Heilig-Kreuz-Kirche und des ruhigen Franziskanerklosters. Der Nachmittag ist der Kultur gewidmet, mit einem ausführlichen Besuch der Ernest Zmeták Kunstgalerie, die einen tiefen Einblick in die slowakische Kunst bietet. Schließen Sie den Tag mit einem entspannten Spaziergang durch den grünen Sihoť-Park ab, ein perfekter Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
+        "hu": "Kezdje sétáját Érsekújvár nyüzsgő főterén, megcsodálva a Városházát és a Szentháromság-szobrot. A délelőtt folyamán fedezze fel a város szakrális örökségét a Szent Kereszt Felmagasztalása templom és a békés Ferences kolostor meglátogatásával. A délután a kultúráé: egy alapos látogatás a Zmeták Ernő Művészeti Galériában, amely mély betekintést nyújt a szlovák művészetbe. Zárja a napot egy pihentető sétával a zöldellő Sihoť parkban, amely tökéletes hely a napi élmények átgondolására.",
+        "ro": "Începeți plimbarea în piața principală plină de viață din Nové Zámky, admirând Primăria și Statuia Sfintei Treimi. În cursul dimineții, explorați moștenirea sacră a orașului vizitând Biserica Înălțarea Sfintei Cruci și liniștita Mănăstire Franciscană. După-amiaza este dedicată culturii, cu o vizită extinsă la Galeria de Artă Ernest Zmeták, care oferă o perspectivă profundă asupra artei slovace. Încheiați ziua cu o plimbare relaxantă prin Parcul Sihoť, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "Start your walk in the lively main square of Nové Zámky, admiring the Town Hall and the Holy Trinity Column. In the morning, explore the city's sacred heritage by visiting the Church of the Exaltation of the Holy Cross and the peaceful Franciscan Monastery. The afternoon is dedicated to culture, with an extensive visit to the Ernest Zmeták Art Gallery, offering deep insight into Slovak art. End your day with a relaxing stroll through the verdant Sihoť Park, a perfect place to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Probieren Sie das slowakische Nationalgericht in einem der traditionellen Restaurants."
+          },
+          {
+            "name": "Irish Castle Pub",
+            "tip": "Für ein herzhaftes Mittagessen und eine gute Bierauswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Kóstolja meg Szlovákia nemzeti ételét egy hagyományos étteremben."
+          },
+          {
+            "name": "Irish Castle Pub",
+            "tip": "Egy kiadós ebédért és jó sörválasztékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Încercați mâncarea națională slovacă într-unul dintre restaurantele tradiționale."
+          },
+          {
+            "name": "Irish Castle Pub",
+            "tip": "Pentru un prânz copios și o selecție bună de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Try the Slovak national dish in one of the traditional restaurants."
+          },
+          {
+            "name": "Irish Castle Pub",
+            "tip": "For a hearty lunch and a good selection of beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Franziskanerklosters",
+            "tip": "Ein stiller Ort zum Nachdenken im Stadtzentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sihoť-Park",
+            "tip": "Weitläufige Grünflächen für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Ferences kolostor kertje",
+            "tip": "Csendes hely az elmélkedésre a városközpontban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sihoť park",
+            "tip": "Tágas zöldterületek egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Franciscane",
+            "tip": "Un loc tăcut pentru reflecție în centrul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Sihoť",
+            "tip": "Spații verzi extinse pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Franciscan Monastery Garden",
+            "tip": "A quiet spot for reflection in the city center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sihoť Park",
+            "tip": "Expansive green spaces for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach regionalen Produkten und Handwerk auf den Plätzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen regionális termékeket és kézműves árukat a város terein."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse regionale și artizanat în piețele orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for regional products and crafts in the city's squares."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie genügend Zeit für die Kunstgalerie ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városközpont könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen elegendő időt a művészeti galériára."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, centrul orașului este ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Planificați suficient timp pentru galeria de artă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is easily explored on foot.",
+          "Most sights are located close to each other.",
+          "Allow plenty of time for the art gallery."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            18.1645,
+            47.9855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Hauptplatz zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a főteret.",
+            "ro": "Legați-vă bicicleta și explorați piața principală pe jos.",
+            "en": "Lock up your bike and explore the main square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche und Kloster",
+            "hu": "Templom és kolostor",
+            "ro": "Biserica și Mănăstirea",
+            "en": "Church and Monastery"
+          },
+          "coords": [
+            18.1627,
+            47.9862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Heilig-Kreuz-Kirche und das Franziskanerkloster zusammen.",
+            "hu": "Látogassa meg együtt a Szent Kereszt Felmagasztalása templomot és a Ferences kolostort.",
+            "ro": "Vizitați Biserica Înălțarea Sfintei Cruci și Mănăstirea Franciscană împreună.",
+            "en": "Visit the Church of the Holy Cross and the Franciscan Monastery together."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernest Zmeták Kunstgalerie",
+            "hu": "Zmeták Ernő Művészeti Galéria",
+            "ro": "Galeria de Artă Ernest Zmeták",
+            "en": "Ernest Zmeták Art Gallery"
+          },
+          "coords": [
+            18.166,
+            47.985
+          ],
+          "category": "museums",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber moderner slowakischer Kunst.",
+            "hu": "A modern szlovák művészet kedvelőinek kötelező.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă modernă slovacă.",
+            "en": "A must-see for lovers of modern Slovak art."
+          }
+        },
+        {
+          "name": {
+            "de": "Anton-Bernolák-Denkmal",
+            "hu": "Bernolák Antal emlékmű",
+            "ro": "Monumentul Anton Bernolák",
+            "en": "Anton Bernolák Monument"
+          },
+          "coords": [
+            18.1655,
+            47.9845
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Eine kurze Pause, um mehr über die slowakische Geschichte zu erfahren.",
+            "hu": "Rövid pihenő, hogy többet tudjon meg a szlovák történelemről.",
+            "ro": "O scurtă pauză pentru a afla mai multe despre istoria slovacă.",
+            "en": "A quick stop to learn about Slovak history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            18.165,
+            47.986
+          ],
+          "category": "gastro",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zeit für eine Stärkung mit lokalen Spezialitäten.",
+            "hu": "Ideje feltöltődni a helyi specialitásokkal.",
+            "ro": "Timpul pentru a vă reîncărca cu specialități locale.",
+            "en": "Time to refuel with some local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Sihoť-Park",
+            "hu": "Sihoť park",
+            "ro": "Parcul Sihoť",
+            "en": "Sihoť Park"
+          },
+          "coords": [
+            18.171,
+            47.982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den größten Park der Stadt.",
+            "hu": "Kerékpározzon át a város legnagyobb parkján.",
+            "ro": "Plimbați-vă cu bicicleta prin cel mai mare parc din oraș.",
+            "en": "Cycle through the city's largest park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária",
+            "ro": "Calvariul",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            18.158,
+            47.989
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht und die ruhige Atmosphäre.",
+            "hu": "Megéri felmenni a kilátásért és a csendes légkörért.",
+            "ro": "Urcarea merită pentru priveliște și atmosfera liniștită.",
+            "en": "The climb is worth it for the view and the quiet atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Neuhäusel beginnt im historischen Zentrum, wo Sie das Rathaus und die nahegelegenen Kirchen entdecken. Am Vormittag tauchen Sie in der Ernest Zmeták Kunstgalerie in die Welt der Kunst ein. Nach einer Mittagspause radeln Sie am Nachmittag entspannt durch den weitläufigen Sihoť-Park. Zum Abschluss der Tour erklimmen Sie den Kalvarienberg, der nicht nur ein spiritueller Ort ist, sondern auch eine schöne Aussicht über die Umgebung bietet und einen perfekten, aktiven Ausklang des Tages darstellt.",
+        "hu": "Érsekújvári kerékpártúrája a történelmi központban kezdődik, ahol felfedezheti a Városházát és a közeli templomokat. Délelőtt merüljön el a művészet világában a Zmeták Ernő Művészeti Galériában. Egy ebédszünet után délután pihenjen egyet a tágas Sihoť parkban kerékpározva. A túra befejezéseként másszon fel a Kálváriára, amely nemcsak spirituális hely, hanem gyönyörű kilátást is nyújt a környékre, tökéletes aktív lezárása a napnak.",
+        "ro": "Turul cu bicicleta prin Nové Zámky începe în centrul istoric, unde explorați Primăria și bisericile din apropiere. Dimineața, vă scufundați în lumea artei la Galeria Ernest Zmeták. După o pauză de prânz, după-amiaza vă relaxați pedalând prin vastul Parc Sihoť. Pentru a încheia turul, urcați pe Dealul Calvariului, care nu este doar un loc spiritual, ci oferă și o priveliște frumoasă asupra zonei înconjurătoare, fiind o încheiere perfectă și activă a zilei.",
+        "en": "Your bike tour of Nové Zámky starts in the historic center, exploring the Town Hall and nearby churches. In the morning, immerse yourself in the art world at the Ernest Zmeták Gallery. After a lunch break, enjoy a relaxed afternoon ride through the spacious Sihoť Park. To conclude the tour, climb Calvary Hill, which is not only a spiritual place but also offers a beautiful view over the surroundings, providing a perfect, active end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Holen Sie sich Energie bei einer lokalen Bäckerei."
+          },
+          {
+            "name": "Restaurant Phoenix",
+            "tip": "Bekannt für seine gute Küche und angenehme Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi péksütemény",
+            "tip": "Merítsen energiát egy helyi pékségben."
+          },
+          {
+            "name": "Phoenix étterem",
+            "tip": "Jó konyhájáról és kellemes hangulatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Luați o gustare energizantă de la o brutărie locală."
+          },
+          {
+            "name": "Restaurant Phoenix",
+            "tip": "Cunoscut pentru bucătăria sa bună și atmosfera plăcută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pastries",
+            "tip": "Get some energy at a local bakery."
+          },
+          {
+            "name": "Phoenix Restaurant",
+            "tip": "Known for its good cuisine and pleasant atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalvarienberg",
+            "tip": "Ein friedlicher Ort mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Nitra",
+            "tip": "Ein ruhiger Radweg etwas außerhalb des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária",
+            "tip": "Békés hely panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nyitra folyó partja",
+            "tip": "Csendes kerékpárút kicsit a központon kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Calvariului",
+            "tip": "Un loc pașnic cu vederi panoramice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Nitra",
+            "tip": "O pistă de biciclete liniștită chiar în afara centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvary Hill",
+            "tip": "A peaceful spot with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Nitra River",
+            "tip": "A quiet cycle path just outside the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szükséges kiegészítőkért vagy javításokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice accesorii sau reparații necesare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any needed accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Die Stadt ist relativ flach, aber der Anstieg zum Kalvarienberg ist steil.",
+          "Nutzen Sie die Radwege, wo immer möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "A város viszonylag sík, de a Kálváriára vezető emelkedő meredek.",
+          "Használja a kerékpárutakat, ahol csak lehetséges."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Orașul este relativ plat, dar urcarea la Calvariu este abruptă.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your bike's condition before setting off.",
+          "The city is relatively flat, but the climb to Calvary Hill is steep.",
+          "Use bike paths wherever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Rathaus",
+            "hu": "Parkolás a központban és Városháza",
+            "ro": "Parcare în centru & Primărie",
+            "en": "Parking in the Center & Town Hall"
+          },
+          "coords": [
+            18.1645,
+            47.9855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, és fedezze fel gyalog az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Kreuzerhöhung",
+            "hu": "Szent Kereszt Felmagasztalása templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Exaltation of the Holy Cross"
+          },
+          "coords": [
+            18.163,
+            47.986
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            18.1625,
+            47.9865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe direkt neben der Kirche.",
+            "hu": "Fedezze fel a spirituális nyugalmat közvetlenül a templom mellett.",
+            "ro": "Descoperiți liniștea spirituală chiar lângă biserică.",
+            "en": "Discover the spiritual tranquility right next to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Kunstgalerie & Parken",
+            "hu": "Utazás a Művészeti Galériához és parkolás",
+            "ro": "Deplasare la Galeria de Artă & Parcare",
+            "en": "Drive to the Art Gallery & Parking"
+          },
+          "coords": [
+            18.166,
+            47.985
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Parkplatz für den zweiten Besichtigungscluster.",
+            "hu": "Új parkoló a második látnivaló-csoporthoz.",
+            "ro": "O nouă parcare pentru al doilea grup de vizitare.",
+            "en": "New parking spot for the second sightseeing cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Sihoť-Park",
+            "hu": "Sihoť park",
+            "ro": "Parcul Sihoť",
+            "en": "Sihoť Park"
+          },
+          "coords": [
+            18.171,
+            47.982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang nach dem Museumsbesuch, um frische Luft zu schnappen.",
+            "hu": "Séta a múzeumlátogatás után, hogy friss levegőt szívjon.",
+            "ro": "O plimbare după vizita la muzeu pentru a lua o gură de aer proaspăt.",
+            "en": "A walk after the museum visit to get some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kalvarienberg",
+            "hu": "Utazás a Kálváriához",
+            "ro": "Deplasare la Calvariu",
+            "en": "Drive to Calvary Hill"
+          },
+          "coords": [
+            18.158,
+            47.989
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum höchsten Punkt für eine tolle Aussicht.",
+            "hu": "Vezessen fel a legmagasabb pontra a nagyszerű kilátásért.",
+            "ro": "Conduceți până la cel mai înalt punct pentru o priveliște minunată.",
+            "en": "Drive to the highest point for a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Neuhäusel in bequemen Clustern. Parken Sie zuerst im Zentrum, um den Hauptplatz und die historischen Kirchen zu Fuß zu entdecken. Am Vormittag fahren Sie dann weiter zur Ernest Zmeták Kunstgalerie, wo Sie in die lokale Kunstszene eintauchen und anschließend im nahegelegenen Sihoť-Park entspannen. Der Nachmittag führt Sie zum Kalvarienberg, einem spirituellen Ort mit Panoramablick, der bequem mit dem Auto erreichbar ist und einen unvergesslichen Abschluss Ihres Besuchs bildet.",
+        "hu": "Autóval kényelmesen, látnivaló-csoportonként fedezheti fel Érsekújvárt. Parkoljon le a központban, hogy gyalogosan fedezze fel a főteret és a történelmi templomokat. Délelőtt vezessen tovább a Zmeták Ernő Művészeti Galériához, ahol elmerülhet a helyi művészeti életben, majd pihenhet a közeli Sihoť parkban. A délután a Kálváriára vezet, egy panorámás kilátást nyújtó spirituális helyre, amely autóval könnyen megközelíthető, és felejthetetlen lezárása a látogatásnak.",
+        "ro": "Cu mașina, explorați Nové Zámky în grupuri convenabile. Mai întâi, parcați în centru pentru a descoperi piața principală și bisericile istorice pe jos. Dimineața, continuați cu mașina spre Galeria de Artă Ernest Zmeták, unde vă puteți cufunda în scena artistică locală și apoi vă puteți relaxa în Parcul Sihoť din apropiere. După-amiaza vă duce la Dealul Calvariului, un loc spiritual cu vederi panoramice, ușor accesibil cu mașina, oferind o concluzie memorabilă vizitei dumneavoastră.",
+        "en": "By car, explore Nové Zámky in convenient clusters. First, park in the center to discover the main square and historic churches on foot. In the morning, drive on to the Ernest Zmeták Art Gallery to immerse yourself in the local art scene and then relax in the nearby Sihoť Park. The afternoon takes you to Calvary Hill, a spiritual site with panoramic views, easily accessible by car, providing a memorable conclusion to your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapustnica",
+            "tip": "Eine traditionelle Sauerkrautsuppe, besonders in den kühleren Monaten."
+          },
+          {
+            "name": "Restaurant Fontana",
+            "tip": "Bietet eine Mischung aus slowakischer und internationaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapustnica (káposztaleves)",
+            "tip": "Hagyományos savanyúkáposzta-leves, különösen a hűvösebb hónapokban."
+          },
+          {
+            "name": "Fontana Étterem",
+            "tip": "Szlovák és nemzetközi ételek keverékét kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapustnica",
+            "tip": "O supă tradițională de varză acră, în special în lunile mai reci."
+          },
+          {
+            "name": "Restaurant Fontana",
+            "tip": "Oferă un amestec de bucătărie slovacă și internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapustnica",
+            "tip": "A traditional sauerkraut soup, especially in the cooler months."
+          },
+          {
+            "name": "Fontana Restaurant",
+            "tip": "Offers a mix of Slovak and international cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalvarienberg",
+            "tip": "Der beste Ort für Ruhe und eine weite Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Sihoť-Park",
+            "tip": "Finden Sie einen ruhigen Platz zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kálvária",
+            "tip": "A legjobb hely a csendért és a messzire nyúló kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Sihoť parkban",
+            "tip": "Keressen egy csendes helyet a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Calvariului",
+            "tip": "Cel mai bun loc pentru liniște și vederi ample.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Sihoť",
+            "tip": "Găsiți un loc liniștit pentru a vă odihni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvary Hill",
+            "tip": "The best place for quiet and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in Sihoť Park",
+            "tip": "Find a quiet spot to rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden",
+            "tip": "In der Nähe des Hauptplatzes finden Sie kleine Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok",
+            "tip": "A főtér közelében talál apró emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Veți găsi mici suveniruri lângă piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops",
+            "tip": "You can find small mementos near the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten und -gebühren im Voraus.",
+          "Das Auto ist ideal, um auch etwas weiter entfernte Ziele wie den Kalvarienberg zu erreichen.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Az autó ideális a távolabbi célpontok, például a Kálvária eléréséhez.",
+          "Vigyázzon az egyirányú utcákra a városközpontban."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Mașina este ideală pentru a ajunge la destinații mai îndepărtate, cum ar fi Dealul Calvariului.",
+          "Atenție la străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The car is ideal for reaching more distant destinations like Calvary Hill.",
+          "Pay attention to one-way streets in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            18.1645,
+            47.9855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie an der zentralen Bushaltestelle und erkunden Sie den Platz.",
+            "hu": "Induljon a központi buszmegállótól és fedezze fel a teret.",
+            "ro": "Începeți de la stația centrală de autobuz și explorați piața.",
+            "en": "Start at the central bus stop and explore the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Kreuzerhöhung & Kloster",
+            "hu": "Szent Kereszt Felmagasztalása templom és Kolostor",
+            "ro": "Biserica Înălțarea Sfintei Cruci și Mănăstirea",
+            "en": "Church of the Exaltation of the Holy Cross & Monastery"
+          },
+          "coords": [
+            18.1627,
+            47.9862
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden heiligen Stätten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két szent hely csak pár perc sétára van egymástól.",
+            "ro": "Aceste două situri sacre sunt la doar câteva minute de mers pe jos unul de celălalt.",
+            "en": "These two sacred sites are just a few minutes' walk apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Kunstgalerie",
+            "hu": "Utazás a Művészeti Galériához",
+            "ro": "Deplasare la Galeria de Artă",
+            "en": "Trip to the Art Gallery"
+          },
+          "coords": [
+            18.166,
+            47.985
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Kulturcluster zu gelangen.",
+            "hu": "Menjen helyi busszal a következő kulturális csoporthoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul grup cultural.",
+            "en": "Take a local bus to get to the next cultural cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Sihoť-Park",
+            "hu": "Séta a Sihoť parkban",
+            "ro": "Plimbare în Parcul Sihoť",
+            "en": "Walk in Sihoť Park"
+          },
+          "coords": [
+            18.171,
+            47.982
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Kunst ist ein Spaziergang im Park eine willkommene Abwechslung.",
+            "hu": "A művészet után egy séta a parkban kellemes felüdülést jelent.",
+            "ro": "După artă, o plimbare în parc este o schimbare binevenită.",
+            "en": "After the art, a walk in the park is a welcome change."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kalvarienberg",
+            "hu": "Utazás a Kálváriához",
+            "ro": "Deplasare la Calvariu",
+            "en": "Trip to Calvary Hill"
+          },
+          "coords": [
+            18.158,
+            47.989
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Busfahrt bringt Sie in die Nähe des Hügels für den letzten Aufstieg.",
+            "hu": "Egy buszút elviszi a hegy közelébe az utolsó emelkedőhöz.",
+            "ro": "O călătorie cu autobuzul vă va duce aproape de deal pentru urcarea finală.",
+            "en": "A bus ride will take you near the hill for the final climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Neuhäusel mit öffentlichen Verkehrsmitteln, die Sie effizient zwischen den Sehenswürdigkeiten transportieren. Der Tag beginnt im Herzen der Stadt am Hauptplatz, von wo aus Sie die Kirchen zu Fuß erreichen. Anschließend bringt Sie ein Bus zur Ernest Zmeták Kunstgalerie, dem kulturellen Höhepunkt des Tages. Nach einem Spaziergang im Sihoť-Park fahren Sie zum Kalvarienberg. Diese Tour kombiniert kurze Spaziergänge innerhalb der Cluster mit bequemen Busfahrten und bietet eine umweltfreundliche Möglichkeit, die Stadt zu erkunden.",
+        "hu": "Fedezze fel Érsekújvárt tömegközlekedéssel, amely hatékonyan szállítja a látnivalók között. A nap a város szívében, a Fő téren kezdődik, ahonnan gyalogosan elérheti a templomokat. Ezután egy busz elviszi a Zmeták Ernő Művészeti Galériához, a nap kulturális fénypontjához. A Sihoť parkban tett séta után a Kálváriához utazik. Ez a túra a látnivaló-csoportokon belüli rövid sétákat kényelmes buszutakkal ötvözi, környezetbarát módon fedezve fel a várost.",
+        "ro": "Descoperiți Nové Zámky cu transportul public, care vă transportă eficient între atracții. Ziua începe în inima orașului, în Piața Principală, de unde puteți ajunge pe jos la biserici. Apoi, un autobuz vă duce la Galeria de Artă Ernest Zmeták, punctul culminant cultural al zilei. După o plimbare în Parcul Sihoť, călătoriți spre Dealul Calvariului. Acest tur combină plimbări scurte în interiorul grupurilor cu călătorii confortabile cu autobuzul, oferind o modalitate ecologică de a explora orașul.",
+        "en": "Discover Nové Zámky using public transport, which efficiently moves you between sights. The day starts in the heart of the city at the Main Square, from where you can walk to the churches. A bus then takes you to the Ernest Zmeták Art Gallery, the day's cultural highlight. After a stroll in Sihoť Park, you'll travel to Calvary Hill. This tour combines short walks within clusters with convenient bus rides, offering an eco-friendly way to explore the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Fast Food",
+            "tip": "Schnappen Sie sich unterwegs einen schnellen Imbiss in der Nähe einer Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gyorsétterem",
+            "tip": "Kapjon be egy gyors falatot útközben egy buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast-food local",
+            "tip": "Luați o gustare rapidă pe drum, lângă o stație de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local fast food",
+            "tip": "Grab a quick bite on the go near a bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Während der Busfahrt",
+            "tip": "Nutzen Sie die Zeit zwischen den Stopps, um die Stadt an sich vorbeiziehen zu sehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kalvarienberg",
+            "tip": "Genießen Sie die Stille nach der Fahrt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A buszút alatt",
+            "tip": "Használja ki a megállók közötti időt, hogy nézze a várost.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kálvária",
+            "tip": "Élvezze a csendet az utazás után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În timpul călătoriei cu autobuzul",
+            "tip": "Folosiți timpul dintre opriri pentru a privi orașul.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Dealul Calvariului",
+            "tip": "Bucurați-vă de liniște după călătorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "During the bus ride",
+            "tip": "Use the time between stops to watch the city go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Calvary Hill",
+            "tip": "Enjoy the silence after the ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie Fahrkarten und kleine Snacks an den Kiosken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Vásároljon jegyeket és apró harapnivalókat a kioszkokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați bilete și mici gustări de la chioșcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy tickets and small snacks at the kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Überprüfen Sie den Busfahrplan im Voraus, um Wartezeiten zu minimieren.",
+          "Halten Sie Kleingeld für Fahrkarten bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idők minimalizálása érdekében.",
+          "Tartson magánál aprópénzt a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Verificați programul autobuzelor în avans pentru a minimiza timpii de așteptare.",
+          "Aveți la îndemână mărunțiș pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Check the bus schedule in advance to minimize waiting times.",
+          "Keep small change handy for tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1312 @@
+{
+  "city_id": "poland-nowy-sacz-cities-v2",
+  "anchor": {
+    "name": "Neu Sandez",
+    "coords": [
+      20.6973,
+      49.6218
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            20.6973,
+            49.6218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der Cafés und beobachten Sie das morgendliche Treiben.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți cu o cafea la una dintre cafenele și priviți agitația de dimineață.",
+            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Nowy Sącz",
+            "hu": "Újszandeci városháza",
+            "ro": "Primăria din Nowy Sącz",
+            "en": "Nowy Sącz Town Hall"
+          },
+          "coords": [
+            20.697,
+            49.622
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des 19. Jahrhunderts und achten Sie auf das Wappen der Stadt.",
+            "hu": "Csodálja meg a 19. századi építészetet, és keresse a város címerét.",
+            "ro": "Admirați arhitectura din secolul al XIX-lea și căutați stema orașului.",
+            "en": "Admire the 19th-century architecture and look for the city's coat of arms."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Margareta",
+            "hu": "Szent Margit-bazilika",
+            "ro": "Bazilica Sf. Margareta",
+            "en": "St. Margaret's Basilica"
+          },
+          "coords": [
+            20.7001,
+            49.6232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den gotischen Fresken und dem beeindruckenden Hauptaltar.",
+            "hu": "Keresse meg a gótikus freskókat és a lenyűgöző főoltárt.",
+            "ro": "Căutați frescele gotice și altarul principal impresionant.",
+            "en": "Look for the Gothic frescoes and the impressive main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum (Luberadzki-Haus)",
+            "hu": "Körzeti Múzeum (Luberadzki-ház)",
+            "ro": "Muzeul Districtual (Casa Luberadzki)",
+            "en": "District Museum (Luberadzki House)"
+          },
+          "coords": [
+            20.695,
+            49.6225
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Stadtgeschichte, um ein tieferes Verständnis zu erlangen.",
+            "hu": "Koncentráljon a város történetét bemutató kiállításokra a mélyebb megértés érdekében.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria orașului pentru o înțelegere mai profundă.",
+            "en": "Focus on the city history exhibitions for a deeper understanding of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Königsschlosses",
+            "hu": "Királyi vár romjai",
+            "ro": "Ruinele Castelului Regal",
+            "en": "Ruins of the Royal Castle"
+          },
+          "coords": [
+            20.693,
+            49.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den Fluss Dunajec vom Schlosshügel aus.",
+            "hu": "Élvezze a Dunajec folyóra nyíló kilátást a várdombról.",
+            "ro": "Bucurați-vă de priveliștea râului Dunajec de pe dealul castelului.",
+            "en": "Enjoy the view of the Dunajec River from the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Sądecker Ethnographenpark",
+            "hu": "Szandeci Néprajzi Park",
+            "ro": "Parcul Etnografic Sądecki",
+            "en": "Sądecki Ethnographic Park"
+          },
+          "coords": [
+            20.715,
+            49.628
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Innenräume der Holzhäuser, um das ländliche Leben zu spüren.",
+            "hu": "Szánjon időt a faházak belső tereire, hogy átérezze a vidéki életet.",
+            "ro": "Luați-vă timp să explorați interioarele caselor de lemn pentru a simți viața rurală.",
+            "en": "Take your time to explore the interiors of the wooden houses to feel the rural life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Nowy Sącz beginnt auf dem belebten Marktplatz, dem Herzen der Stadt. Am Vormittag erkunden Sie die gotische Basilika und das historische Rathaus. Nach einem tiefen Einblick in die Regionalgeschichte im Bezirksmuseum spazieren Sie am Nachmittag zu den malerischen Ruinen des Königsschlosses. Den Abschluss bildet ein ausgedehnter Besuch im Freilichtmuseum, das Ihnen das ländliche Polen näherbringt.",
+        "hu": "Az Ön napja Újszandecben a nyüzsgő Piactéren, a város szívében kezdődik. Délelőtt felfedezi a gótikus bazilikát és a történelmi városházát. Miután a Körzeti Múzeumban elmélyült a helytörténetben, délután elsétál a festői Királyi Vár romjaihoz. A napot egy kiadós látogatás zárja a skanzenben, amely közelebb hozza Önhöz a vidéki Lengyelországot.",
+        "ro": "Ziua dvs. în Nowy Sącz începe în Piața plină de viață, inima orașului. Dimineața explorați bazilica gotică și primăria istorică. După o incursiune în istoria regională la Muzeul Districtual, după-amiaza vă plimbați la ruinele pitorești ale Castelului Regal. Încheiați ziua cu o vizită extinsă la muzeul în aer liber, care vă va apropia de Polonia rurală.",
+        "en": "Your day in Nowy Sącz begins in the bustling Market Square, the heart of the city. In the morning, you'll explore the Gothic basilica and the historic Town Hall. After a deep dive into regional history at the District Museum, you'll stroll to the picturesque ruins of the Royal Castle in the afternoon. The day concludes with an extensive visit to the open-air museum, bringing rural Poland closer to you."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die 'Ruskie'-Version mit Kartoffeln und Käse."
+          },
+          {
+            "name": "Oscypek",
+            "tip": "Gegrillter geräucherter Schafskäse, oft mit Preiselbeermarmelade serviert."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, perfekt für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a 'ruskie' változatot burgonyával és túróval."
+          },
+          {
+            "name": "Oscypek",
+            "tip": "Grillezett, füstölt juhsajt, gyakran áfonyalekvárral tálalva."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanyú rozslisztes leves, tökéletes egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați versiunea 'ruskie' cu cartofi și brânză."
+          },
+          {
+            "name": "Oscypek",
+            "tip": "Brânză de oaie afumată la grătar, adesea servită cu dulceață de merișoare."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, perfectă pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the 'ruskie' version with potatoes and cheese."
+          },
+          {
+            "name": "Oscypek",
+            "tip": "Grilled smoked sheep cheese, often served with cranberry jam."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, perfect for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Dunajec",
+            "tip": "Ein Spaziergang entlang des Flusses bei den Schlossruinen bietet Ruhe und schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park bei den Schlossruinen",
+            "tip": "Finden Sie eine Bank im Schatten und genießen Sie die friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dunajec partja",
+            "tip": "A várromok melletti folyóparti séta nyugalmat és szép kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a várromoknál",
+            "tip": "Keressen egy padot az árnyékban, és élvezze a békés hangulatot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Dunajec",
+            "tip": "O plimbare de-a lungul râului lângă ruinele castelului oferă liniște și priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de la ruinele castelului",
+            "tip": "Găsiți o bancă la umbră și bucurați-vă de atmosfera pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Dunajec River",
+            "tip": "A walk along the river near the castle ruins offers tranquility and beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park at the Castle Ruins",
+            "tip": "Find a bench in the shade and enjoy the peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände am Rynek",
+            "tip": "Hier finden Sie lokale Handwerkskunst und Andenken an Nowy Sącz."
+          },
+          {
+            "name": "Museumsshop im Ethnographenpark",
+            "tip": "Authentische handgemachte Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a Ryneken",
+            "tip": "Itt helyi kézműves termékeket és Újszandecra emlékeztető szuveníreket talál."
+          },
+          {
+            "name": "Múzeumi bolt a Néprajzi Parkban",
+            "tip": "Autentikus, kézzel készített termékek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de suveniruri la Rynek",
+            "tip": "Aici veți găsi artizanat local și suveniruri din Nowy Sącz."
+          },
+          {
+            "name": "Magazinul muzeului din Parcul Etnografic",
+            "tip": "Produse autentice, lucrate manual, din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir stalls at the Rynek",
+            "tip": "Here you will find local crafts and souvenirs of Nowy Sącz."
+          },
+          {
+            "name": "Museum shop at the Ethnographic Park",
+            "tip": "Authentic handmade products from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Planen Sie genügend Zeit für den Ethnographenpark ein, das Gelände ist weitläufig.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese variieren können.",
+          "Ein kleiner Rucksack für Wasser und Snacks ist empfehlenswert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Szánjon elegendő időt a Néprajzi Parkra, a területe nagy.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat.",
+          "Javasolt egy kis hátizsák víznek és harapnivalóknak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Planificați suficient timp pentru Parcul Etnografic, zona este extinsă.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Este recomandat un rucsac mic pentru apă și gustări."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the old town can be uneven.",
+          "Allow enough time for the Ethnographic Park, the area is extensive.",
+          "Check the opening hours of the museums, as they may vary.",
+          "A small backpack for water and snacks is recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Rynek)",
+            "hu": "Piactér (Rynek)",
+            "ro": "Piața Centrală (Rynek)",
+            "en": "Market Square (Rynek)"
+          },
+          "coords": [
+            20.6973,
+            49.6218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Margareta",
+            "hu": "Szent Margit-bazilika",
+            "ro": "Bazilica Sf. Margareta",
+            "en": "St. Margaret's Basilica"
+          },
+          "coords": [
+            20.7001,
+            49.6232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Inneren als Kontrast zur Radtour.",
+            "hu": "Élvezze a benti csendet a kerékpártúra kontrasztjaként.",
+            "ro": "Bucurați-vă de liniștea din interior ca un contrast cu turul cu bicicleta.",
+            "en": "Enjoy the tranquility inside as a contrast to the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum (Luberadzki-Haus)",
+            "hu": "Körzeti Múzeum (Luberadzki-ház)",
+            "ro": "Muzeul Districtual (Casa Luberadzki)",
+            "en": "District Museum (Luberadzki House)"
+          },
+          "coords": [
+            20.695,
+            49.6225
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine willkommene Pause vom Radfahren, um in die Kultur einzutauchen.",
+            "hu": "Üdvözlő szünet a kerékpározásban, hogy elmerüljön a kultúrában.",
+            "ro": "O pauză binevenită de la ciclism pentru a vă cufunda în cultură.",
+            "en": "A welcome break from cycling to immerse yourself in culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Königsschlosses",
+            "hu": "Királyi vár romjai",
+            "ro": "Ruinele Castelului Regal",
+            "en": "Ruins of the Royal Castle"
+          },
+          "coords": [
+            20.693,
+            49.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig den Hügel hinauf; die Aussicht ist die Belohnung.",
+            "hu": "Óvatosan hajtson fel a dombra; a kilátás a jutalom.",
+            "ro": "Urcați dealul cu prudență; priveliștea este recompensa.",
+            "en": "Ride up the hill carefully; the view is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Weißes Kloster",
+            "hu": "Fehér kolostor",
+            "ro": "Mănăstirea Albă",
+            "en": "White Monastery"
+          },
+          "coords": [
+            20.705,
+            49.625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, ideal für eine kurze Pause und Besinnung.",
+            "hu": "Békés hely, ideális egy rövid szünetre és elmélkedésre.",
+            "ro": "Un loc pașnic, ideal pentru o scurtă pauză și reflecție.",
+            "en": "A peaceful place, ideal for a short break and reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Sądecker Ethnographenpark",
+            "hu": "Szandeci Néprajzi Park",
+            "ro": "Parcul Etnografic Sądecki",
+            "en": "Sądecki Ethnographic Park"
+          },
+          "coords": [
+            20.715,
+            49.628
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Fahrradfahren auf dem Gelände ist nicht gestattet, aber es gibt Fahrradständer am Eingang.",
+            "hu": "A park területén nem szabad kerékpározni, de a bejáratnál vannak kerékpártárolók.",
+            "ro": "Ciclismul nu este permis în interiorul parcului, dar există suporturi pentru biciclete la intrare.",
+            "en": "Cycling is not allowed inside the park, but there are bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Galizisches Städtchen",
+            "hu": "Galíciai kisváros",
+            "ro": "Micul Oraș Galițian",
+            "en": "Galician Town"
+          },
+          "coords": [
+            20.716,
+            49.627
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Ethnographenpark, ein Spaziergang zurück in die Zeit der k.u.k. Monarchie.",
+            "hu": "Közvetlenül a Néprajzi Park mellett, egy séta vissza az Osztrák-Magyar Monarchia idejébe.",
+            "ro": "Chiar lângă Parcul Etnografic, o plimbare înapoi în timp, în Imperiul Austro-Ungar.",
+            "en": "Right next to the Ethnographic Park, a walk back in time to the Austro-Hungarian Empire."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Nowy Sącz flexibel und hautnah. Am Morgen starten Sie am Rynek und radeln zu den heiligen Stätten der Stadt. Mittags führt Sie Ihr Weg zu den historischen Schlossruinen mit Blick auf den Fluss. Der Nachmittag ist für eine längere Tour zum faszinierenden Ethnographenpark reserviert, wo Sie in die ländliche Kultur eintauchen und das Rad für einen Spaziergang durch das Galizische Städtchen abstellen.",
+        "hu": "Kerékpárral rugalmasan és testközelből fedezheti fel Újszandecet. Reggel a Rynekről indul, és a város szent helyeihez teker. Délben az útja a történelmi várromokhoz vezet, kilátással a folyóra. A délután egy hosszabb túrára van fenntartva a lenyűgöző Néprajzi Parkhoz, ahol elmerülhet a vidéki kultúrában, és leteheti a kerékpárt egy sétára a Galíciai kisvárosban.",
+        "ro": "Cu bicicleta, explorați Nowy Sącz în mod flexibil și de aproape. Dimineața porniți din Rynek și pedalați către locurile sacre ale orașului. La prânz, drumul vă duce la ruinele istorice ale castelului cu vedere la râu. După-amiaza este rezervată pentru un tur mai lung la fascinantul Parc Etnografic, unde vă puteți cufunda în cultura rurală și lăsa bicicleta pentru o plimbare prin Micul Oraș Galițian.",
+        "en": "By bike, you can explore Nowy Sącz flexibly and up close. In the morning, you'll start at the Rynek and cycle to the city's sacred sites. At noon, your path leads to the historic castle ruins with a view of the river. The afternoon is reserved for a longer tour to the fascinating Ethnographic Park, where you can immerse yourself in rural culture and park your bike for a walk through the Galician Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Eine perfekte Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Kompott",
+            "tip": "Ein erfrischendes, nicht-alkoholisches Fruchtgetränk."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Gegrillte Wurst, oft an Ständen im Freien erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Tökéletes feltöltődés egy kerékpártúra után."
+          },
+          {
+            "name": "Kompót",
+            "tip": "Frissítő, alkoholmentes gyümölcsital."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grillezett kolbász, gyakran kapható szabadtéri standokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "O masă perfectă pentru a vă reface energia după un tur cu bicicleta."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură răcoritoare, non-alcoolică, din fructe."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Cârnați la grătar, adesea disponibili la standurile în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "A perfect refuel after a bike ride."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A refreshing, non-alcoholic fruit drink."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grilled sausage, often available at outdoor stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Dunajec",
+            "tip": "Folgen Sie dem Fluss für eine entspannte Fahrt abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Hof des Weißen Klosters",
+            "tip": "Ein Ort der Stille und Einkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Dunajec mentén",
+            "tip": "Kövesse a folyót egy pihentető tekerésért a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Fehér kolostor belső udvara",
+            "tip": "A csend és az elmélyülés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Dunajecului",
+            "tip": "Urmați râul pentru o plimbare relaxantă departe de traficul urban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Albe",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Dunajec",
+            "tip": "Follow the river for a relaxing ride away from city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner courtyard of the White Monastery",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem Bauernmarkt für frische Produkte und regionalen Käse."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Stöbern Sie nach handgeschnitzten Holzfiguren und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy termelői piacot friss termékekért és regionális sajtokért."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Böngésszen a kézzel faragott fafigurák és kerámiák között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață agricolă pentru produse proaspete și brânzeturi regionale."
+          },
+          {
+            "name": "Magazine de artizanat în orașul vechi",
+            "tip": "Căutați figurine din lemn sculptate manual și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Look for a farmer's market for fresh produce and regional cheese."
+          },
+          {
+            "name": "Craft shops in the Old Town",
+            "tip": "Browse for hand-carved wooden figures and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads vor der Abfahrt.",
+          "Einige Straßen in der Altstadt sind für den Radverkehr gesperrt, beachten Sie die Schilder.",
+          "Nutzen Sie die vorhandenen Radwege, besonders entlang des Flusses.",
+          "Ein Helm wird zur Sicherheit empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Néhány óvárosi utca le van zárva a kerékpáros forgalom elől, figyeljen a táblákra.",
+          "Használja a meglévő kerékpárutakat, különösen a folyó mentén.",
+          "A biztonság érdekében sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a pleca.",
+          "Unele străzi din orașul vechi sunt închise traficului de biciclete, fiți atenți la semne.",
+          "Utilizați pistele de biciclete existente, în special de-a lungul râului.",
+          "Se recomandă purtarea unei căști pentru siguranță."
+        ],
+        "en": [
+          "Check the condition of your bicycle before setting off.",
+          "Some streets in the old town are closed to bicycle traffic, pay attention to the signs.",
+          "Use the existing bike paths, especially along the river.",
+          "A helmet is recommended for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt & Spaziergang zum Marktplatz",
+            "hu": "Parkoló az Óvárosnál és séta a Piactérre",
+            "ro": "Parcare Centrul Vechi & plimbare spre Piață",
+            "en": "Old Town Car Park & walk to Market Square"
+          },
+          "coords": [
+            20.692,
+            49.621
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb des direkten Zentrums. Der erste Spaziergang zum Rynek stimmt Sie auf den Tag ein.",
+            "hu": "Parkoljon a központtól kissé távolabb. Az első séta a Rynekre ráhangolja a napra.",
+            "ro": "Parcați în afara centrului direct. Prima plimbare până la Rynek vă pregătește pentru zi.",
+            "en": "Park outside the immediate center. The first walk to the Rynek gets you in the mood for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Basilika St. Margareta",
+            "hu": "Városháza és Szent Margit-bazilika",
+            "ro": "Primăria & Bazilica Sf. Margareta",
+            "en": "Town Hall & St. Margaret's Basilica"
+          },
+          "coords": [
+            20.697,
+            49.6225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen so nah beieinander, dass Sie sie als eine Einheit erkunden können.",
+            "hu": "Ez a két nevezetesség olyan közel van egymáshoz, hogy egy egységként fedezheti fel őket.",
+            "ro": "Aceste două repere sunt atât de apropiate încât le puteți explora ca pe o singură unitate.",
+            "en": "These two landmarks are so close together you can explore them as one unit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Königsschlosses",
+            "hu": "Királyi vár romjai",
+            "ro": "Ruinele Castelului Regal",
+            "en": "Ruins of the Royal Castle"
+          },
+          "coords": [
+            20.693,
+            49.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rynek, der Sie aus dem Trubel in eine grüne Oase führt.",
+            "hu": "Egy rövid séta a Rynekről, amely a nyüzsgésből egy zöld oázisba vezet.",
+            "ro": "O scurtă plimbare de la Rynek care vă duce din agitație într-o oază de verdeață.",
+            "en": "A short walk from the Rynek that takes you from the hustle and bustle into a green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            20.696,
+            49.6215
+          ],
+          "category": "gastro",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zu Fuß zum Auto zurück und stärken Sie sich auf dem Weg in einem der vielen Restaurants.",
+            "hu": "Sétáljon vissza az autóhoz, útközben pedig erősítse meg magát a számos étterem egyikében.",
+            "ro": "Întoarceți-vă pe jos la mașină, oprindu-vă la unul dintre numeroasele restaurante pe drum.",
+            "en": "Walk back towards the car, stopping for lunch at one of the many restaurants on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Sądecker Ethnographenpark",
+            "hu": "Utazás a Szandeci Néprajzi Parkhoz",
+            "ro": "Cu mașina la Parcul Etnografic Sądecki",
+            "en": "Drive to Sądecki Ethnographic Park"
+          },
+          "coords": [
+            20.715,
+            49.628
+          ],
+          "category": "museums",
+          "arrive_at": "13:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der Park verfügt über einen eigenen Parkplatz. Dies ist der Hauptcluster-Wechsel des Tages.",
+            "hu": "A parknak saját parkolója van. Ez a nap fő klaszterváltása.",
+            "ro": "Parcul are propria parcare. Aceasta este principala schimbare de cluster a zilei.",
+            "en": "The park has its own car park. This is the main cluster change of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Galizisches Städtchen",
+            "hu": "Galíciai kisváros",
+            "ro": "Micul Oraș Galițian",
+            "en": "Galician Town"
+          },
+          "coords": [
+            20.716,
+            49.627
+          ],
+          "category": "museums",
+          "arrive_at": "15:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses rekonstruierte Dorf zu Fuß, nachdem Sie das Auto am Hauptparkplatz abgestellt haben.",
+            "hu": "Fedezze fel ezt az újjáépített falut gyalog, miután leparkolta az autót a fő parkolóban.",
+            "ro": "Explorați acest sat reconstruit pe jos după ce ați lăsat mașina în parcarea principală.",
+            "en": "Explore this reconstructed village on foot after leaving the car at the main car park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Nowy Sącz in zwei Kapiteln. Am Morgen parken Sie zentral und erkunden den historischen Kern – vom Rynek über die Basilika bis zu den Schlossruinen – komplett zu Fuß. Nach dem Mittagessen fahren Sie zum zweiten Cluster, dem weitläufigen Ethnographenpark. Dort parken Sie erneut und tauchen zu Fuß in die Welt des alten Galiziens ein, eine perfekte Kombination aus urbanem Spaziergang und ländlicher Entdeckung.",
+        "hu": "Autóval két fejezetben ismerheti meg Újszandecet. Reggel a központban parkol, és gyalog fedezi fel a történelmi magot – a Rynektől a bazilikán át a várromokig. Ebéd után a második klaszterhez, a tágas Néprajzi Parkhoz hajt. Ott újra leparkol, és gyalog merül el a régi Galícia világában – a városi séta és a vidéki felfedezés tökéletes kombinációja.",
+        "ro": "Cu mașina, experimentați Nowy Sącz în două capitole. Dimineața parcați central și explorați nucleul istoric – de la Rynek la bazilică și ruinele castelului – complet pe jos. După prânz, conduceți către al doilea cluster, vastul Parc Etnografic. Acolo parcați din nou și vă cufundați pe jos în lumea vechii Galiții, o combinație perfectă de plimbare urbană și descoperire rurală.",
+        "en": "With a car, you experience Nowy Sącz in two chapters. In the morning, you park centrally and explore the historic core—from the Rynek to the basilica to the castle ruins—entirely on foot. After lunch, you drive to the second cluster, the expansive Ethnographic Park. There, you park again and immerse yourself on foot in the world of old Galicia, a perfect combination of urban stroll and rural discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Regionalna",
+            "tip": "Suchen Sie nach einem Gasthaus (Karczma) für authentische, deftige polnische Küche."
+          },
+          {
+            "name": "Oscypek z żurawiną",
+            "tip": "Ein Muss in dieser Region, probieren Sie ihn warm vom Grill."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Ein warmer Apfelkuchen, oft mit einer Kugel Eis serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Regionalna",
+            "tip": "Keressen egy csárdát (Karczma) az autentikus, kiadós lengyel konyháért."
+          },
+          {
+            "name": "Oscypek z żurawiną",
+            "tip": "Kötelező ebben a régióban, kóstolja meg melegen a grillről."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Meleg almás pite, gyakran egy gombóc fagyival tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Regionalna",
+            "tip": "Căutați un han (Karczma) pentru bucătărie poloneză autentică și consistentă."
+          },
+          {
+            "name": "Oscypek z żurawiną",
+            "tip": "O necesitate în această regiune, încercați-l cald de pe grătar."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "O plăcintă caldă cu mere, adesea servită cu o cupă de înghețată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Regionalna",
+            "tip": "Look for a regional inn (Karczma) for authentic, hearty Polish cuisine."
+          },
+          {
+            "name": "Oscypek z żurawiną",
+            "tip": "A must-try in this region, have it warm from the grill."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "A warm apple pie, often served with a scoop of ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Im Ethnographenpark",
+            "tip": "Zwischen den alten Holzhäusern finden Sie viele ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von den Schlossruinen",
+            "tip": "Ein Panoramablick, der zum Innehalten einlädt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Néprajzi Parkban",
+            "tip": "A régi faházak között számos csendes zugot talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a várromokról",
+            "tip": "Egy panoráma, amely megállásra késztet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În Parcul Etnografic",
+            "tip": "Veți găsi multe colțuri liniștite printre casele vechi de lemn.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la ruinele castelului",
+            "tip": "O panoramă care invită la contemplare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "In the Ethnographic Park",
+            "tip": "You will find many quiet corners among the old wooden houses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the castle ruins",
+            "tip": "A panorama that invites you to pause.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk im Galizischen Städtchen",
+            "tip": "Die Werkstätten und Läden bieten einzigartige, vor Ort hergestellte Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézművesség a Galíciai kisvárosban",
+            "tip": "A műhelyek és boltok egyedi, helyben készült termékeket kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat în Micul Oraș Galițian",
+            "tip": "Atelierele și magazinele oferă bunuri unice, produse local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crafts in the Galician Town",
+            "tip": "The workshops and shops offer unique, locally made goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe der Cluster zu finden.",
+          "In Polen ist es obligatorisch, auch tagsüber mit Abblendlicht zu fahren.",
+          "Parkgebühren können an Automaten oft nur mit Münzen oder einer App bezahlt werden.",
+          "Planen Sie die Fahrt zwischen den Clustern außerhalb der Stoßzeiten."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közelében lévő parkolók megtalálásához.",
+          "Lengyelországban kötelező a tompított fényszóró használata napközben is.",
+          "A parkolási díjakat az automatáknál gyakran csak érmével vagy alkalmazással lehet fizetni.",
+          "A klaszterek közötti utazást a csúcsforgalmon kívülre időzítse."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigație pentru a găsi parcări în apropierea clusterelor.",
+          "În Polonia, este obligatoriu să conduceți cu faza scurtă aprinsă chiar și în timpul zilei.",
+          "Taxele de parcare la automate pot fi adesea plătite doar cu monede sau cu o aplicație.",
+          "Planificați călătoria între clustere în afara orelor de vârf."
+        ],
+        "en": [
+          "Use a navigation app to find car parks near the clusters.",
+          "In Poland, it is mandatory to drive with dipped headlights on even during the day.",
+          "Parking fees at machines can often only be paid with coins or an app.",
+          "Plan your drive between clusters outside of peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Marktplatz (Rynek)",
+            "hu": "Érkezés a Piactérre (Rynek)",
+            "ro": "Sosire în Piața Centrală (Rynek)",
+            "en": "Arrival at Market Square (Rynek)"
+          },
+          "coords": [
+            20.6973,
+            49.6218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Suchen Sie die nächste Bushaltestelle, um sich für den späteren Cluster-Wechsel zu orientieren.",
+            "hu": "Keresse meg a legközelebbi buszmegállót, hogy tájékozódjon a későbbi klaszterváltáshoz.",
+            "ro": "Localizați cea mai apropiată stație de autobuz pentru a vă orienta pentru schimbarea ulterioară a clusterului.",
+            "en": "Locate the nearest bus stop to get your bearings for the later cluster change."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Basilika St. Margareta",
+            "hu": "Városháza és Szent Margit-bazilika",
+            "ro": "Primăria & Bazilica Sf. Margareta",
+            "en": "Town Hall & St. Margaret's Basilica"
+          },
+          "coords": [
+            20.698,
+            49.6225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen des ersten Clusters sind nur einen Steinwurf voneinander entfernt.",
+            "hu": "Az első klaszter e két fő látványossága csak egy kőhajításnyira van egymástól.",
+            "ro": "Aceste două atracții principale ale primului cluster sunt la o aruncătură de băț una de cealaltă.",
+            "en": "These two main attractions of the first cluster are just a stone's throw from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum (Luberadzki-Haus)",
+            "hu": "Körzeti Múzeum (Luberadzki-ház)",
+            "ro": "Muzeul Districtual (Casa Luberadzki)",
+            "en": "District Museum (Luberadzki House)"
+          },
+          "coords": [
+            20.695,
+            49.6225
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für die Mittagszeit, um der Hektik zu entfliehen und in die Geschichte einzutauchen.",
+            "hu": "Tökéletes ebédidőben, hogy elmeneküljön a nyüzsgés elől és elmerüljön a történelemben.",
+            "ro": "Perfect pentru amiază pentru a scăpa de agitație și a vă cufunda în istorie.",
+            "en": "Perfect for midday to escape the hustle and bustle and delve into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Königsschlosses",
+            "hu": "Királyi vár romjai",
+            "ro": "Ruinele Castelului Regal",
+            "en": "Ruins of the Royal Castle"
+          },
+          "coords": [
+            20.693,
+            49.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt im ersten Cluster, bevor Sie den Bus zum nächsten Ziel nehmen.",
+            "hu": "Az első klaszter utolsó állomása, mielőtt buszra szállna a következő célponthoz.",
+            "ro": "Ultima oprire din primul cluster înainte de a lua autobuzul spre următoarea destinație.",
+            "en": "The last stop in the first cluster before you take the bus to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Sądecker Ethnographenpark",
+            "hu": "Buszozás a Szandeci Néprajzi Parkhoz",
+            "ro": "Călătorie cu autobuzul la Parcul Etnografic",
+            "en": "Bus ride to the Sądecki Ethnographic Park"
+          },
+          "coords": [
+            20.715,
+            49.628
+          ],
+          "category": "transport",
+          "arrive_at": "14:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie Ihr Ticket im Voraus an einem Kiosk oder per App.",
+            "hu": "Vásárolja meg a jegyét előre egy kioszkban vagy alkalmazáson keresztül.",
+            "ro": "Cumpărați-vă biletul în avans de la un chioșc sau prin aplicație.",
+            "en": "Buy your ticket in advance at a kiosk or via an app."
+          }
+        },
+        {
+          "name": {
+            "de": "Galizisches Städtchen",
+            "hu": "Galíciai kisváros",
+            "ro": "Micul Oraș Galițian",
+            "en": "Galician Town"
+          },
+          "coords": [
+            20.716,
+            49.627
+          ],
+          "category": "museums",
+          "arrive_at": "16:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein nahtloser Übergang vom Ethnographenpark, alles zu Fuß erreichbar.",
+            "hu": "Zökkenőmentes átmenet a Néprajzi Parkból, minden gyalogosan elérhető.",
+            "ro": "O tranziție fără probleme de la Parcul Etnografic, totul fiind la distanță de mers pe jos.",
+            "en": "A seamless transition from the Ethnographic Park, all within walking distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie Nowy Sącz wie ein Einheimischer. Sie beginnen im Herzen der Stadt, dem Rynek, und erkunden den ersten Cluster mit historischen Gebäuden zu Fuß. Am Nachmittag bringt Sie ein lokaler Bus bequem zum zweiten Cluster, dem Ethnographenpark. Dort tauchen Sie wieder als Fußgänger in die Vergangenheit ein. Diese Methode ist effizient, günstig und bietet authentische Einblicke in das Stadtleben.",
+        "hu": "Tömegközlekedéssel úgy fedezheti fel Újszandecet, mint egy helyi. A város szívében, a Ryneken kezd, és gyalog fedezi fel az első klasztert a történelmi épületekkel. Délután egy helyi busz kényelmesen elviszi a második klaszterhez, a Néprajzi Parkhoz. Ott ismét gyalogosként merül el a múltban. Ez a módszer hatékony, olcsó és autentikus betekintést nyújt a városi életbe.",
+        "ro": "Cu transportul public, descoperiți Nowy Sącz ca un localnic. Începeți în inima orașului, Rynek, și explorați pe jos primul cluster de clădiri istorice. După-amiaza, un autobuz local vă duce confortabil la al doilea cluster, Parcul Etnografic. Acolo, vă cufundați din nou în trecut ca pieton. Această metodă este eficientă, ieftină și oferă o perspectivă autentică asupra vieții urbane.",
+        "en": "Using public transport, you'll discover Nowy Sącz like a local. You start in the heart of the city, the Rynek, and explore the first cluster of historic buildings on foot. In the afternoon, a local bus comfortably takes you to the second cluster, the Ethnographic Park. There, you once again immerse yourself in the past as a pedestrian. This method is efficient, affordable, and offers authentic insights into city life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Für ein schnelles, günstiges und authentisches polnisches Mittagessen."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein langes, geröstetes Baguette mit Käse und Pilzen, ein beliebter Straßensnack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny (Tejbár)",
+            "tip": "Egy gyors, olcsó és autentikus lengyel ebédhez."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Hosszú, pirított bagett sajttal és gombával, népszerű utcai étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "Pentru un prânz polonez rapid, ieftin și autentic."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă lungă, prăjită, cu brânză și ciuperci, o gustare populară de stradă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "For a quick, cheap, and authentic Polish lunch."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "A long, toasted baguette with cheese and mushrooms, a popular street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben dem Weißen Kloster",
+            "tip": "Historische Friedhöfe in Polen sind oft parkähnlich und sehr friedlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a Fehér kolostor mellett",
+            "tip": "A lengyelországi történelmi temetők gyakran parkszerűek és nagyon békések.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Mănăstirea Albă",
+            "tip": "Cimitirele istorice din Polonia sunt adesea asemănătoare parcurilor și foarte pașnice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the White Monastery",
+            "tip": "Historic cemeteries in Poland are often park-like and very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Ruch)",
+            "tip": "Hier können Sie Bustickets, Zeitungen und kleine Snacks kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Ruch)",
+            "tip": "Itt buszjegyeket, újságokat és apró harapnivalókat vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Ruch)",
+            "tip": "Aici puteți cumpăra bilete de autobuz, ziare și gustări mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Ruch)",
+            "tip": "Here you can buy bus tickets, newspapers, and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen zu überprüfen.",
+          "Ein Tagesticket ist oft günstiger als mehrere Einzelfahrscheine.",
+          "Beachten Sie die Stoßzeiten am Morgen und am späten Nachmittag.",
+          "Geben Sie älteren Menschen im Bus immer Ihren Sitzplatz."
+        ],
+        "hu": [
+          "Töltse le a helyi tömegközlekedési alkalmazást a menetrendek és útvonalak ellenőrzéséhez.",
+          "Egy napijegy gyakran olcsóbb, mint több vonaljegy.",
+          "Vegye figyelembe a reggeli és késő délutáni csúcsidőt.",
+          "Mindig adja át a helyét az idősebbeknek a buszon."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de transport public pentru a verifica orarele și rutele.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la orele de vârf dimineața și după-amiaza târziu.",
+          "Cedați întotdeauna locul persoanelor în vârstă în autobuz."
+        ],
+        "en": [
+          "Download the local public transport app to check schedules and routes.",
+          "A day ticket is often cheaper than several single tickets.",
+          "Be aware of rush hours in the morning and late afternoon.",
+          "Always give up your seat to elderly people on the bus."
+        ]
+      }
+    }
+  }
+}

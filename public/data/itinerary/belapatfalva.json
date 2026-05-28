@@ -1,0 +1,1236 @@
+{
+  "city_id": "belapatfalva",
+  "anchor": {
+    "name": "Bélapátfalva",
+    "coords": [
+      48.05,
+      20.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Heimatmuseum Bélapátfalva",
+            "hu": "Bélapátfalvai Tájház",
+            "ro": "Muzeul Satului din Bélapátfalva",
+            "en": "Bélapátfalva Folk Museum"
+          },
+          "coords": [
+            20.3512,
+            48.0521
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fragen Sie nach den traditionellen Werkzeugen der Zementherstellung.",
+            "hu": "Érdeklődj a régi, cementgyártáshoz használt eszközökről!",
+            "ro": "Întrebați despre uneltele tradiționale folosite la fabricarea cimentului.",
+            "en": "Ask about the traditional tools used in cement manufacturing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-domb",
+            "ro": "Dealul Calvarului",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            20.3545,
+            48.0555
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der kurze, steile Aufstieg wird mit einer friedlichen Atmosphäre belohnt.",
+            "hu": "A rövid, meredek séta jutalma a békés atmoszféra.",
+            "ro": "Urcușul scurt și abrupt este răsplătit cu o atmosferă pașnică.",
+            "en": "The short, steep climb is rewarded with a peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienbrunnen",
+            "hu": "Mária-forrás",
+            "ro": "Fântâna Maria",
+            "en": "Mary's Spring"
+          },
+          "coords": [
+            20.3588,
+            48.0591
+          ],
+          "category": "natural features",
+          "arrive_at": "11:07",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflasche mit dem kühlen, erfrischenden Quellwasser.",
+            "hu": "Töltsd meg a kulacsodat a hűs, frissítő forrásvízzel!",
+            "ro": "Umpleți-vă sticla de apă cu apa rece și răcoritoare a izvorului.",
+            "en": "Fill your water bottle with the cool, refreshing spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Zisterzienserabtei",
+            "hu": "Ciszterci apátság",
+            "ro": "Abația Cisterciană",
+            "en": "Cistercian Abbey"
+          },
+          "coords": [
+            20.3683,
+            48.0615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige romanisch-gotische Architektur, eine Seltenheit in Ungarn.",
+            "hu": "Figyeld meg az egyedülálló román-gótikus stílusjegyeket, ami ritkaság Magyarországon.",
+            "ro": "Observați arhitectura unică romanico-gotică, o raritate în Ungaria.",
+            "en": "Notice the unique Romanesque-Gothic architecture, a rarity in Hungary."
+          }
+        },
+        {
+          "name": {
+            "de": "Gilitka-Kapelle",
+            "hu": "Gilitka-kápolna",
+            "ro": "Capela Gilitka",
+            "en": "Gilitka Chapel"
+          },
+          "coords": [
+            20.3701,
+            48.0688
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.75,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Besinnung, etwas abseits der Hauptwege.",
+            "hu": "A csend és a elmélkedés helye, kissé távolabb a főbb útvonalaktól.",
+            "ro": "Un loc de liniște și reflecție, puțin departe de cărările principale.",
+            "en": "A place of silence and reflection, slightly off the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bél-kő-Berg",
+            "hu": "Bél-kő hegy",
+            "ro": "Muntele Bél-kő",
+            "en": "Bél-kő Mountain"
+          },
+          "coords": [
+            20.3755,
+            48.0795
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Lehrpfad an der Spitze erklärt die einzigartige Geologie des Berges.",
+            "hu": "A hegytetőn lévő tanösvény bemutatja a hegy egyedi geológiáját.",
+            "ro": "Poteca educativă din vârf explică geologia unică a muntelui.",
+            "en": "The educational trail at the summit explains the mountain's unique geology."
+          }
+        },
+        {
+          "name": {
+            "de": "Lak-völgy-See",
+            "hu": "Lak-völgyi-tó",
+            "ro": "Lacul din Valea Lak",
+            "en": "Lak Valley Lake"
+          },
+          "coords": [
+            20.3455,
+            48.0451
+          ],
+          "category": "natural features",
+          "arrive_at": "16:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannenden Spaziergang zum Abschluss des Tages.",
+            "hu": "Tökéletes hely egy pihentető sétára a nap végén.",
+            "ro": "Perfect pentru o plimbare relaxantă la sfârșitul zilei.",
+            "en": "Perfect for a relaxing stroll to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit lokaler Geschichte im Heimatmuseum, bevor Sie zum Kalvarienberg für einen Moment der Ruhe aufsteigen. Am Vormittag entdecken Sie die spirituelle Seite der Stadt bei der Marienquelle, der beeindruckenden Zisterzienserabtei und der abgelegenen Gilitka-Kapelle. Der Nachmittag ist der Natur gewidmet. Erklimmen Sie den geologisch faszinierenden Bél-kő-Berg und genießen Sie die atemberaubende Aussicht. Schließen Sie den Tag mit einem entspannten Spaziergang um den malerischen Lak-völgy-See ab, wo das sanfte Licht des späten Nachmittags eine idyllische Atmosphäre schafft.",
+        "hu": "Kezdje a napot a helyi történelemmel a Tájházban, majd másszon fel a Kálvária-dombra egy békés pillanatért. A délelőtt folyamán fedezze fel a város spirituális oldalát a Mária-forrásnál, a lenyűgöző ciszterci apátságnál és az eldugott Gilitka-kápolnánál. A délután a természeté. Hódítsa meg a geológiailag is lenyűgöző Bél-kő hegyet, és gyönyörködjön a lélegzetelállító kilátásban. Zárja a napot egy pihentető sétával a festői Lak-völgyi-tó körül, ahol a késő délutáni fények idilli hangulatot teremtenek.",
+        "ro": "Începeți ziua cu istoria locală la Muzeul Satului, înainte de a urca pe Dealul Calvarului pentru un moment de liniște. Dimineața, descoperiți latura spirituală a orașului la Fântâna Maria, impresionanta Abație Cisterciană și capela retrasă Gilitka. După-amiaza este dedicată naturii. Urcați pe Muntele Bél-kő, fascinant din punct de vedere geologic, și bucurați-vă de priveliștile uluitoare. Încheiați ziua cu o plimbare relaxantă în jurul pitorescului Lac din Valea Lak, unde lumina blândă a după-amiezii târzii creează o atmosferă idilică.",
+        "en": "Start your day with local history at the Folk Museum before ascending Calvary Hill for a peaceful moment. In the morning, discover the town's spiritual side at Mary's Spring, the impressive Cistercian Abbey, and the secluded Gilitka Chapel. The afternoon is dedicated to nature. Conquer the geologically fascinating Bél-kő Mountain and enjoy the breathtaking views. Conclude your day with a relaxing stroll around the picturesque Lak Valley Lake, where the gentle late afternoon light creates an idyllic atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Szalajka-Tal Forelle",
+            "tip": "Probieren Sie die lokal geräucherte oder gebratene Forelle, eine Spezialität der Region."
+          },
+          {
+            "name": "Tó-parti Étterem",
+            "tip": "Genießen Sie klassische ungarische Gerichte mit Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalajka-völgyi pisztráng",
+            "tip": "Kóstold meg a helyben füstölt vagy sült pisztrángot, a régió specialitását."
+          },
+          {
+            "name": "Tó-parti Étterem",
+            "tip": "Élvezd a klasszikus magyar ételeket a tóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv din Valea Szalajka",
+            "tip": "Încercați păstrăvul afumat sau prăjit local, o specialitate a regiunii."
+          },
+          {
+            "name": "Restaurantul de pe malul lacului",
+            "tip": "Savurați mâncăruri maghiare clasice cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Szalajka Valley Trout",
+            "tip": "Try the locally smoked or fried trout, a regional specialty."
+          },
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Enjoy classic Hungarian dishes with a view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lak-völgy-Sees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Stille des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel des Bél-kő",
+            "tip": "Nach dem Aufstieg bietet sich ein weiter, ruhiger Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gilitka-Kapelle",
+            "tip": "Ein Ort der inneren Einkehr, abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lak-völgyi-tó partja",
+            "tip": "Keress egy csendes padot, és élvezd a víz nyugalmát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bél-kő csúcsa",
+            "tip": "A mászás után tágas, csendes panoráma tárul eléd.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gilitka-kápolna",
+            "tip": "A belső béke helye, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Valea Lak",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de calmul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Bél-kő",
+            "tip": "După urcare, vă așteaptă o panoramă vastă și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Gilitka",
+            "tip": "Un loc de reculegere interioară, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lak Valley Lake",
+            "tip": "Find a quiet bench and enjoy the tranquility of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summit of Bél-kő",
+            "tip": "After the climb, a wide, quiet panoramic view unfolds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gilitka Chapel",
+            "tip": "A place for inner reflection, away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgemachtem Honig und Marmeladen aus der Region."
+          },
+          {
+            "name": "Souvenirladen der Abtei",
+            "tip": "Finden Sie Bücher und kleine Andenken im Zusammenhang mit der Geschichte der Abtei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress kézműves mézet és lekvárokat a környékről."
+          },
+          {
+            "name": "Apátsági ajándékbolt",
+            "tip": "Találj könyveket és apró emléktárgyakat az apátság történetével kapcsolatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați miere și gemuri artizanale din regiune."
+          },
+          {
+            "name": "Magazinul de suveniruri al abației",
+            "tip": "Găsiți cărți și mici suveniruri legate de istoria abației."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade honey and jams from the region."
+          },
+          {
+            "name": "Abbey Gift Shop",
+            "tip": "Find books and small souvenirs related to the abbey's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie für den Aufstieg zum Bél-kő festes Schuhwerk.",
+          "Eine Wasserflasche ist unerlässlich, besonders an warmen Tagen.",
+          "Planen Sie genügend Zeit für die Abtei ein; ihre Geschichte ist faszinierend.",
+          "Der Weg zur Gilitka-Kapelle ist nicht immer gut ausgeschildert, fragen Sie Einheimische."
+        ],
+        "hu": [
+          "Viselj strapabíró cipőt a Bél-kőre való feljutáshoz.",
+          "Egy vizes palack elengedhetetlen, különösen meleg napokon.",
+          "Szánj elég időt az apátságra, a történelme lenyűgöző.",
+          "A Gilitka-kápolnához vezető út nincs mindig jól kitáblázva, kérj útbaigazítást a helyiektől."
+        ],
+        "ro": [
+          "Purtați încălțăminte rezistentă pentru urcarea pe Bél-kő.",
+          "O sticlă de apă este esențială, mai ales în zilele calde.",
+          "Planificați suficient timp pentru abație; istoria sa este fascinantă.",
+          "Calea către Capela Gilitka nu este întotdeauna bine semnalizată, întrebați localnicii."
+        ],
+        "en": [
+          "Wear sturdy shoes for the climb up Bél-kő.",
+          "A water bottle is essential, especially on warm days.",
+          "Allow plenty of time for the abbey; its history is fascinating.",
+          "The path to Gilitka Chapel is not always well-marked, ask locals for directions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lak-völgy-See",
+            "hu": "Lak-völgyi-tó",
+            "ro": "Lacul din Valea Lak",
+            "en": "Lak Valley Lake"
+          },
+          "coords": [
+            20.3455,
+            48.0451
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer entspannten Runde um den See.",
+            "hu": "Kezd a napot egy pihentető körrel a tó körül.",
+            "ro": "Începeți ziua cu o tură relaxantă în jurul lacului.",
+            "en": "Start the day with a relaxing lap around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Bélapátfalva",
+            "hu": "Bélapátfalvai Tájház",
+            "ro": "Muzeul Satului din Bélapátfalva",
+            "en": "Bélapátfalva Folk Museum"
+          },
+          "coords": [
+            20.3512,
+            48.0521
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die lokale Geschichte ein.",
+            "hu": "Zárd le biztonságosan a biciklidet, és merülj el a helyi történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria locală.",
+            "en": "Park your bike securely and dive into the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienbrunnen",
+            "hu": "Mária-forrás",
+            "ro": "Fântâna Maria",
+            "en": "Mary's Spring"
+          },
+          "coords": [
+            20.3588,
+            48.0591
+          ],
+          "category": "natural features",
+          "arrive_at": "11:24",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Halt, um Ihre Wasserflasche aufzufüllen.",
+            "hu": "Tökéletes megálló a kulacs újratöltéséhez.",
+            "ro": "O oprire perfectă pentru a vă reumple sticla de apă.",
+            "en": "A perfect stop to refill your water bottle."
+          }
+        },
+        {
+          "name": {
+            "de": "Zisterzienserabtei",
+            "hu": "Ciszterci apátság",
+            "ro": "Abația Cisterciană",
+            "en": "Cistercian Abbey"
+          },
+          "coords": [
+            20.3683,
+            48.0615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckende romanische Architektur zu bewundern.",
+            "hu": "Szánj időt a lenyűgöző román stílusú építészet megcsodálására.",
+            "ro": "Luați-vă timp pentru a admira arhitectura romanică impresionantă.",
+            "en": "Take your time to admire the impressive Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliges Zementwerk",
+            "hu": "Egykori Cementgyár",
+            "ro": "Fosta Fabrică de Ciment",
+            "en": "Former Cement Works"
+          },
+          "coords": [
+            20.3715,
+            48.0711
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Region.",
+            "hu": "Lenyűgöző bepillantás a régió ipari múltjába.",
+            "ro": "O privire fascinantă asupra trecutului industrial al regiunii.",
+            "en": "A fascinating glimpse into the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderweg zum Bél-kő",
+            "hu": "Bél-kő tanösvény",
+            "ro": "Potecă spre Bél-kő",
+            "en": "Trailhead to Bél-kő"
+          },
+          "coords": [
+            20.3755,
+            48.0795
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad am Anfang des Weges an und wandern Sie zum Gipfel.",
+            "hu": "Zárd le a kerékpárt az ösvény elején, és sétálj fel a csúcsra.",
+            "ro": "Legați-vă bicicleta la începutul potecii și urcați pe jos până în vârf.",
+            "en": "Lock your bike at the trailhead and hike to the summit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer ruhigen Runde um den Lak-völgy-See. Fahren Sie dann ins Stadtzentrum, um im Heimatmuseum in die Geschichte einzutauchen. Am Vormittag führt Sie Ihre Route weiter bergauf zur Marienquelle und der prächtigen Zisterzienserabtei. Entdecken Sie anschließend ein Stück Industriegeschichte beim ehemaligen Zementwerk. Der Höhepunkt des Nachmittags ist die Ankunft am Fuße des Bél-kő. Stellen Sie Ihr Rad ab und unternehmen Sie eine Wanderung zum Gipfel, um die spektakuläre Aussicht zu genießen, bevor Sie den Rückweg antreten.",
+        "hu": "A kerékpártúra a Lak-völgyi-tó körüli nyugodt tekeréssel kezdődik. Ezután irány a városközpont, hogy elmerülj a Tájház történelmében. A délelőtt folyamán az útvonal a Mária-forráshoz és a csodálatos Ciszterci Apátsághoz vezet. Ezt követően fedezd fel az ipari múlt egy darabját az egykori Cementgyárnál. A délután csúcspontja a Bél-kő lábához való megérkezés. Tedd le a biciklit, és tegyél egy túrát a csúcsra a látványos kilátásért, mielőtt visszaindulsz.",
+        "ro": "Turul pe bicicletă începe cu o plimbare liniștită în jurul Lacului din Valea Lak. Apoi pedalați spre centrul orașului pentru a vă cufunda în istorie la Muzeul Satului. Dimineața, traseul vă duce mai departe la Fântâna Maria și la magnifica Abație Cisterciană. Apoi, descoperiți o bucată de istorie industrială la fosta Fabrică de Ciment. Punctul culminant al după-amiezii este sosirea la poalele muntelui Bél-kő. Lăsați bicicleta și faceți o drumeție până în vârf pentru a vă bucura de priveliștea spectaculoasă înainte de a vă întoarce.",
+        "en": "Your bike tour starts with a peaceful ride around Lak Valley Lake. Then, pedal into the town center to immerse yourself in history at the Folk Museum. In the morning, your route continues to Mary's Spring and the magnificent Cistercian Abbey. Afterwards, discover a piece of industrial history at the former Cement Works. The highlight of the afternoon is arriving at the foot of Bél-kő mountain. Park your bike and take a hike to the summit to enjoy the spectacular view before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Szalajka-Tal Forelle",
+            "tip": "Eine herzhafte Belohnung nach einer Radtour."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein frisches Pogatschen für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalajka-völgyi pisztráng",
+            "tip": "Kiadós jutalom egy biciklitúra után."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyél egy friss pogácsát útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv din Valea Szalajka",
+            "tip": "O recompensă consistentă după o tură cu bicicleta."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați o pogăcică proaspătă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Szalajka Valley Trout",
+            "tip": "A hearty reward after a bike ride."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a fresh 'pogatschen' (scone) for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Bél-kő",
+            "tip": "Die ultimative Belohnung mit weitem Blick über das Bükk-Gebirge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldweg zur Gilitka-Kapelle",
+            "tip": "Ein ruhiger, schattiger Abschnitt Ihrer Radtour.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Bél-kőről",
+            "tip": "A végső jutalom, pazar kilátással a Bükk-hegységre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei út a Gilitka-kápolnához",
+            "tip": "A bringatúra csendes, árnyékos szakasza.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe Bél-kő",
+            "tip": "Recompensa supremă cu o priveliște vastă asupra Munților Bükk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Potecă prin pădure spre Capela Gilitka",
+            "tip": "O secțiune liniștită și umbrită a turului dumneavoastră cu bicicleta.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Bél-kő",
+            "tip": "The ultimate reward with a vast view over the Bükk Mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest path to Gilitka Chapel",
+            "tip": "A quiet, shaded section of your bike tour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für den Fall, dass Sie einen Ersatzschlauch oder Zubehör benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha szükséged lenne egy pótgumira vagy kiegészítőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de o cameră de rezervă sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need a spare tube or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Abschnitte sind steil; schalten Sie rechtzeitig.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Der Weg zum Bél-kő ist ein Wanderweg, kein Radweg."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Néhány szakasz meredek, időben válts sebességet.",
+          "Vigyél magaddal egy jó lakatot, hogy lezárd a biciklit a megállóknál.",
+          "A Bél-kőre túraösvény vezet, nem kerékpárút."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Unele secțiuni sunt abrupte; schimbați vitezele la timp.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la opriri.",
+          "Potecă spre Bél-kő este pentru drumeții, nu pentru ciclism."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "Some sections are steep; shift gears in time.",
+          "Bring a good lock to secure your bike at stops.",
+          "The path to Bél-kő is a hiking trail, not a bike path."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Lak-völgy-See",
+            "hu": "Parkoló a Lak-völgyi-tónál",
+            "ro": "Parcare la Lacul din Valea Lak",
+            "en": "Parking at Lak Valley Lake"
+          },
+          "coords": [
+            20.345,
+            48.0445
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um Ihre Erkundung des Seengebiets zu beginnen.",
+            "hu": "Parkolj le itt, és indulj a tó körüli felfedezőútra.",
+            "ro": "Parcați aici pentru a începe explorarea zonei lacului.",
+            "en": "Park here to start your exploration of the lake area."
+          }
+        },
+        {
+          "name": {
+            "de": "Lak-völgy-See",
+            "hu": "Lak-völgyi-tó",
+            "ro": "Lacul din Valea Lak",
+            "en": "Lak Valley Lake"
+          },
+          "coords": [
+            20.3455,
+            48.0451
+          ],
+          "category": "natural features",
+          "arrive_at": "09:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang um den See ist der perfekte Start in den Tag.",
+            "hu": "Egy séta a tó körül tökéletes kezdése a napnak.",
+            "ro": "O plimbare în jurul lacului este începutul perfect al zilei.",
+            "en": "A walk around the lake is the perfect start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz an der Abtei",
+            "hu": "Parkoló az Apátságnál",
+            "ro": "Parcare la Abație",
+            "en": "Abbey Parking Area"
+          },
+          "coords": [
+            20.3675,
+            48.0605
+          ],
+          "category": "transport",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt für den historischen Teil Ihres Besuchs.",
+            "hu": "Jó kiindulópont a látogatás történelmi részéhez.",
+            "ro": "Un bun punct de plecare pentru partea istorică a vizitei dumneavoastră.",
+            "en": "A good starting point for the historical part of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zisterzienserabtei",
+            "hu": "Ciszterci apátság",
+            "ro": "Abația Cisterciană",
+            "en": "Cistercian Abbey"
+          },
+          "coords": [
+            20.3683,
+            48.0615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, um die Architektur und die spirituelle Atmosphäre auf sich wirken zu lassen.",
+            "hu": "Szánj elég időt arra, hogy magadba szívd az építészet és a spirituális légkör hangulatát.",
+            "ro": "Acordați-vă suficient timp pentru a absorbi arhitectura și atmosfera spirituală.",
+            "en": "Allow enough time to absorb the architecture and the spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliges Zementwerk",
+            "hu": "Egykori Cementgyár",
+            "ro": "Fosta Fabrică de Ciment",
+            "en": "Former Cement Works"
+          },
+          "coords": [
+            20.3715,
+            48.0711
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang hierher bietet einen interessanten Kontrast zur mittelalterlichen Abtei.",
+            "hu": "Egy séta ide érdekes kontrasztot nyújt a középkori apátsággal.",
+            "ro": "O plimbare aici oferă un contrast interesant cu abația medievală.",
+            "en": "A walk here offers an interesting contrast to the medieval abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Wanderweg zum Bél-kő",
+            "hu": "Parkoló a Bél-kő tanösvénynél",
+            "ro": "Parcare la poteca spre Bél-kő",
+            "en": "Parking at Bél-kő Trailhead"
+          },
+          "coords": [
+            20.375,
+            48.0785
+          ],
+          "category": "natural features",
+          "arrive_at": "13:07",
+          "stay_min": 240,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier stehen und genießen Sie die mehrstündige Wanderung.",
+            "hu": "Hagyd itt az autót, és élvezd a többórás túrát.",
+            "ro": "Lăsați mașina aici și bucurați-vă de drumeția de câteva ore.",
+            "en": "Leave the car here and enjoy the multi-hour hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt am Lak-völgy-See. Nach einem Spaziergang fahren Sie zum historischen Herzen der Region, dem Cluster um die Zisterzienserabtei. Parken Sie Ihr Auto und erkunden Sie zu Fuß die monumentale Abtei und das nahegelegene ehemalige Zementwerk, das einen Einblick in die industrielle Vergangenheit gibt. Der Nachmittag ist für das größte Abenteuer reserviert: eine Fahrt zum Ausgangspunkt des Wanderwegs auf den Bél-kő. Von dort aus erwandern Sie den Gipfel und werden mit einer unvergesslichen Aussicht belohnt.",
+        "hu": "Kezdje a napot pihentetően a Lak-völgyi-tónál. Egy séta után vezessen a régió történelmi szívéhez, a ciszterci apátság körüli klaszterhez. Parkolja le az autót, és fedezze fel gyalog a monumentális apátságot és a közeli egykori cementgyárat, amely bepillantást enged az ipari múltba. A délután a legnagyobb kalandra van fenntartva: egy autós utazás a Bél-kőre vezető túraösvény kiindulópontjához. Onnan mássza meg a csúcsot, és felejthetetlen kilátásban lesz része.",
+        "ro": "Începeți ziua relaxat la Lacul din Valea Lak. După o plimbare, conduceți spre inima istorică a regiunii, grupul de obiective din jurul Abației Cisterciene. Parcați mașina și explorați pe jos abația monumentală și fosta fabrică de ciment din apropiere, care oferă o perspectivă asupra trecutului industrial. După-amiaza este rezervată celei mai mari aventuri: o călătorie cu mașina până la punctul de plecare al potecii spre Muntele Bél-kő. De acolo, urcați pe vârf și veți fi răsplătit cu o priveliște de neuitat.",
+        "en": "Start your day relaxed at Lak Valley Lake. After a walk, drive to the historical heart of the region, the cluster around the Cistercian Abbey. Park your car and explore on foot the monumental abbey and the nearby former cement works, which offers a glimpse into the industrial past. The afternoon is reserved for the biggest adventure: a drive to the starting point of the hiking trail to Bél-kő Mountain. From there, hike to the summit and be rewarded with an unforgettable view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Szilvásvárad",
+            "tip": "Kombinieren Sie Ihren Ausflug mit einem Mittagessen im nahegelegenen Szilvásvárad, das für seine Forellengerichte berühmt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Szilvásváradon",
+            "tip": "Kombináld a kirándulást egy ebéddel a közeli Szilvásváradon, amely pisztrángételeiről híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Szilvásvárad",
+            "tip": "Combinați excursia cu un prânz în apropiatul Szilvásvárad, renumit pentru preparatele sale din păstrăv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Szilvásvárad",
+            "tip": "Combine your trip with lunch in nearby Szilvásvárad, famous for its trout dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Bél-kő",
+            "tip": "Absolute Stille und ein 360-Grad-Panorama.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frühmorgens am Lak-völgy-See",
+            "tip": "Bevor andere Besucher ankommen, ist der See ein Ort der vollkommenen Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bél-kő csúcsa",
+            "tip": "Abszolút csend és 360 fokos panoráma.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Lak-völgyi-tónál",
+            "tip": "Mielőtt a többi látogató megérkezik, a tó a teljes nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Bél-kő",
+            "tip": "Liniște absolută și o panoramă de 360 de grade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la Lacul din Valea Lak",
+            "tip": "Înainte de sosirea altor vizitatori, lacul este un loc de o liniște totală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Bél-kő",
+            "tip": "Absolute silence and a 360-degree panorama.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning at Lak Valley Lake",
+            "tip": "Before other visitors arrive, the lake is a place of complete tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in den umliegenden Dörfern",
+            "tip": "Halten Sie Ausschau nach Schildern, die frische Produkte oder hausgemachte Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok a környező falvakban",
+            "tip": "Figyeld a táblákat, ahol friss termékeket vagy házi készítésű árukat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă în satele învecinate",
+            "tip": "Fiți atenți la panourile care vând produse proaspete sau produse de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the surrounding villages",
+            "tip": "Keep an eye out for signs selling fresh produce or homemade goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der Abtei, bevor Sie losfahren.",
+          "Parkgebühren können an beliebten Orten anfallen.",
+          "Tanken Sie Ihr Auto voll, da Tankstellen in den Bergen selten sind.",
+          "Wanderschuhe sind für den Bél-kő unerlässlich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd az apátság nyitvatartását.",
+          "A népszerű helyeken parkolási díj lehet.",
+          "Tankold tele az autót, a hegyekben ritkák a benzinkutak.",
+          "A Bél-kőhöz elengedhetetlen a túracipő."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al abației înainte de a pleca.",
+          "Se pot aplica taxe de parcare în locurile populare.",
+          "Faceți plinul mașinii, benzinăriile sunt rare la munte.",
+          "Încălțămintea de drumeție este esențială pentru Bél-kő."
+        ],
+        "en": [
+          "Check the abbey's opening hours before you go.",
+          "Parking fees may apply at popular spots.",
+          "Fill up your car, as gas stations are scarce in the mountains.",
+          "Hiking boots are essential for Bél-kő."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Bélapátfalva, Központ",
+            "hu": "Bélapátfalva, Központ buszmegálló",
+            "ro": "Stația de autobuz Bélapátfalva, Centru",
+            "en": "Bélapátfalva, Center Bus Stop"
+          },
+          "coords": [
+            20.352,
+            48.0515
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt.",
+            "hu": "Kezd a napot a város szívében.",
+            "ro": "Începeți ziua în inima orașului.",
+            "en": "Start your day in the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Bélapátfalva",
+            "hu": "Bélapátfalvai Tájház",
+            "ro": "Muzeul Satului din Bélapátfalva",
+            "en": "Bélapátfalva Folk Museum"
+          },
+          "coords": [
+            20.3512,
+            48.0521
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg",
+            "hu": "Kálvária-domb",
+            "ro": "Dealul Calvarului",
+            "en": "Calvary Hill"
+          },
+          "coords": [
+            20.3545,
+            48.0555
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort, leicht zu Fuß vom Museum aus erreichbar.",
+            "hu": "Békés hely, a múzeumtól könnyen megközelíthető gyalog.",
+            "ro": "Un loc pașnic, ușor accesibil pe jos de la muzeu.",
+            "en": "A peaceful place, easily reachable on foot from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Zisterzienserabtei",
+            "hu": "Ciszterci Apátság buszmegálló",
+            "ro": "Stația de autobuz Abația Cisterciană",
+            "en": "Cistercian Abbey Bus Stop"
+          },
+          "coords": [
+            20.367,
+            48.06
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum nächsten großen Highlight.",
+            "hu": "Vegyél buszt a következő nagy látványossághoz.",
+            "ro": "Luați autobuzul spre următorul obiectiv important.",
+            "en": "Take the bus to the next major highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Zisterzienserabtei",
+            "hu": "Ciszterci apátság",
+            "ro": "Abația Cisterciană",
+            "en": "Cistercian Abbey"
+          },
+          "coords": [
+            20.3683,
+            48.0615
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier ausreichend Zeit, inklusive einer Mittagspause in der Nähe.",
+            "hu": "Tölts itt elegendő időt, beleértve egy ebédszünetet a közelben.",
+            "ro": "Petreceți suficient timp aici, inclusiv o pauză de prânz în apropiere.",
+            "en": "Spend enough time here, including a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Lak-völgyi-tó",
+            "hu": "Lak-völgyi-tó buszmegálló",
+            "ro": "Stația de autobuz Lacul din Valea Lak",
+            "en": "Lak Valley Lake Bus Stop"
+          },
+          "coords": [
+            20.346,
+            48.046
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 125,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem entspannenden Spaziergang am See ab.",
+            "hu": "Zárja a napot egy pihentető sétával a tónál.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul lacului.",
+            "en": "End the day with a relaxing walk by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Bélapátfalva. Erkunden Sie zu Fuß das Heimatmuseum und den Kalvarienberg. Ein kurzer Bus-Hop bringt Sie dann zum spirituellen Zentrum, der Zisterzienserabtei. Nehmen Sie sich hier Zeit für die Besichtigung und eine Mittagspause. Am Nachmittag bringt Sie ein weiterer Bus zum Lak-völgy-See. Genießen Sie die friedliche Natur und einen langen Spaziergang am Ufer, bevor Sie die Rückfahrt antreten.",
+        "hu": "A tömegközlekedéssel töltött nap Bélapátfalva központjában kezdődik. Fedezze fel gyalog a Tájházat és a Kálvária-dombot. Egy rövid buszozás után eljut a spirituális központhoz, a Ciszterci Apátsághoz. Szánjon időt a látogatásra és egy ebédszünetre. Délután egy másik busz a Lak-völgyi-tóhoz viszi. Élvezze a békés természetet és egy hosszú sétát a parton, mielőtt visszaindulna.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în centrul orașului Bélapátfalva. Explorați pe jos Muzeul Satului și Dealul Calvarului. O scurtă călătorie cu autobuzul vă va duce apoi la centrul spiritual, Abația Cisterciană. Acordați-vă timp pentru vizită și o pauză de prânz. După-amiaza, un alt autobuz vă va duce la Lacul din Valea Lak. Bucurați-vă de natura pașnică și de o plimbare lungă pe mal înainte de a vă întoarce.",
+        "en": "Your day using public transport begins in the center of Bélapátfalva. Explore the Folk Museum and Calvary Hill on foot. A short bus hop will then take you to the spiritual center, the Cistercian Abbey. Take your time for the visit and a lunch break here. In the afternoon, another bus will take you to Lak Valley Lake. Enjoy the peaceful nature and a long walk along the shore before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales 'Lángos'-Stand",
+            "tip": "Ein schneller und leckerer ungarischer Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lángosos",
+            "tip": "Gyors és finom magyar harapnivaló útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand local de 'Lángos'",
+            "tip": "O gustare maghiară rapidă și delicioasă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local 'Lángos' stand",
+            "tip": "A quick and delicious Hungarian snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank am Lak-völgy-See",
+            "tip": "Der perfekte Ort, um auf den Bus zu warten und die Natur zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Lak-völgyi-tónál",
+            "tip": "Tökéletes hely, hogy a buszra várva élvezd a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă la Lacul din Valea Lak",
+            "tip": "Locul perfect pentru a aștepta autobuzul și a te bucura de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench at Lak Valley Lake",
+            "tip": "The perfect spot to wait for the bus and enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie ein Getränk oder einen Snack für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vegyél egy italt vagy egy snacket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați o băutură sau o gustare pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a drink or a snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden.",
+          "Kaufen Sie Ihr Ticket beim Fahrer oder an einem Kiosk.",
+          "Halten Sie Kleingeld für die Tickets bereit.",
+          "Die Busse fahren möglicherweise nicht häufig, planen Sie Ihre Zeit entsprechend."
+        ],
+        "hu": [
+          "Előre tájékozódj a buszmenetrendről, különösen hétvégén.",
+          "A jegyet a sofőrnél vagy egy kioszkban tudod megvenni.",
+          "Készíts elő aprópénzt a jegyekhez.",
+          "A buszok ritkán járhatnak, tervezd meg az idődet ennek megfelelően."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, mai ales în weekend.",
+          "Cumpărați biletul de la șofer sau de la un chioșc.",
+          "Pregătiți mărunțiș pentru bilete.",
+          "Autobuzele pot circula mai rar, planificați-vă timpul în consecință."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially on weekends.",
+          "Buy your ticket from the driver or at a kiosk.",
+          "Have small change ready for tickets.",
+          "Buses may not run frequently, so plan your time accordingly."
+        ]
+      }
+    }
+  }
+}

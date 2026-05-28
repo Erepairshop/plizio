@@ -1,0 +1,1132 @@
+{
+  "city_id": "portugal-feira-cities-v2",
+  "anchor": {
+    "name": "Santa Maria da Feira",
+    "coords": [
+      -8.5333,
+      40.9333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi piac (Mercado Municipal)",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.543,
+            40.925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Architektur von Fernando Távora aus dem 20. Jahrhundert.",
+            "hu": "Fernando Távora által tervezett, 20. századi épület.",
+            "ro": "Arhitectură de Fernando Távora din secolul XX.",
+            "en": "Mid-20th-century architecture by Fernando Távora."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Misericórdia",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -8.541,
+            40.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Azulejo-Fliesen aus dem 17. Jahrhundert.",
+            "hu": "Érdemes megfigyelni a 17. századi azulejo csempéket.",
+            "ro": "Căutați faianța azulejo din secolul al XVII-lea.",
+            "en": "Look out for the 17th-century azulejo tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento dos Lóios",
+            "hu": "Lóios-kolostor",
+            "ro": "Mănăstirea Lóios",
+            "en": "Lóios Convent"
+          },
+          "coords": [
+            -8.542,
+            40.927
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Renaissance-Kreuzgang aus dem 16. Jahrhundert ist der Höhepunkt.",
+            "hu": "A 16. századi reneszánsz kerengő a komplexum fénypontja.",
+            "ro": "Mănăstirea renascentistă din secolul al XVI-lea este punctul culminant.",
+            "en": "The 16th-century Renaissance cloister is the main highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta do Castelo",
+            "hu": "Quinta do Castelo park",
+            "ro": "Parcul Quinta do Castelo",
+            "en": "Quinta do Castelo Park"
+          },
+          "coords": [
+            -8.54,
+            40.922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Landschaftsgarten aus dem 19. Jahrhundert mit kleinen Seen und Grotten.",
+            "hu": "19. századi tájkert kis tavakkal és mesterséges barlangokkal.",
+            "ro": "Grădină peisagistică din secolul al XIX-lea cu lacuri și grote.",
+            "en": "19th-century landscaped garden featuring lakes and grottos."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Santa Maria da Feira",
+            "hu": "Santa Maria da Feira vára",
+            "ro": "Castelul din Santa Maria da Feira",
+            "en": "Castle of Santa Maria da Feira"
+          },
+          "coords": [
+            -8.5415,
+            40.9213
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der intaktesten mittelalterlichen Festungen Portugals (11. Jh.).",
+            "hu": "Portugália egyik legépebb középkori erődítménye (11. sz.).",
+            "ro": "Una dintre cele mai intacte cetăți medievale din Portugalia (sec. XI).",
+            "en": "One of Portugal's most intact medieval fortresses (11th century)."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Papel",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            -8.538,
+            40.916
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In restaurierten Papiermühlen aus dem 18. Jahrhundert untergebracht.",
+            "hu": "A 18. századi, restaurált papírmalmok épületeiben kapott helyet.",
+            "ro": "Găzduit în mori de hârtie restaurate din secolul al XVIII-lea.",
+            "en": "Housed within restored 18th-century paper mills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das historische Herz von Santa Maria da Feira zu Fuß. Der Spaziergang beginnt am lebhaften Mercado Municipal und führt zur historischen Igreja da Misericórdia. Nach dem Besuch des Convento dos Lóios können Sie in der Quinta do Castelo entspannen. Der Höhepunkt ist die imposante mittelalterliche Burg, bevor der Tag im Papiermuseum ausklingt.",
+        "hu": "Fedezze fel Santa Maria da Feira történelmi szívét gyalog. A séta a nyüzsgő Mercado Municipal piacon kezdődik, majd az Igreja da Misericórdia templomhoz vezet. A Convento dos Lóios kolostor után pihenjen meg a Quinta do Castelo parkban. A nap fénypontja az impozáns középkori vár, majd a Papírmúzeumban zárjuk a napot.",
+        "ro": "Descoperiți centrul istoric al orașului Santa Maria da Feira pe jos. Plimbarea începe la Mercado Municipal și duce la istorica Igreja da Misericórdia. După vizitarea Convento dos Lóios, relaxați-vă în parcul Quinta do Castelo. Punctul culminant este impunătorul castel medieval, înainte de a încheia ziua la Muzeul Hârtiei.",
+        "en": "Discover the historic heart of Santa Maria da Feira on foot. The walk begins at the lively Mercado Municipal and leads to the historic Igreja da Misericórdia. After visiting the Convento dos Lóios, relax in the Quinta do Castelo park. The highlight is the imposing medieval castle, before winding down the day at the Paper Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Traditionelles süßes Brot in Form eines Schlossturms."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Portugiesische Kohlsuppe, oft als Vorspeise in lokalen Tavernen serviert."
+          },
+          {
+            "name": "Bacalhau assado",
+            "tip": "Gebackener Kabeljau mit Olivenöl und Kartoffeln in den Altstadtrestaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Hagyományos édes kenyér, amely a vár tornyait formázza."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Klasszikus portugál káposztaleves, helyi előételként népszerű."
+          },
+          {
+            "name": "Bacalhau assado",
+            "tip": "Sült tőkehal olívaolajjal és burgonyával az óvárosi éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Pâine dulce tradițională în formă de turn de castel."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Supă tradițională de varză, adesea servită ca antreu în taverne."
+          },
+          {
+            "name": "Bacalhau assado",
+            "tip": "Cod la cuptor cu ulei de măsline și cartofi în restaurantele din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Traditional sweet bread shaped like the castle towers."
+          },
+          {
+            "name": "Caldo Verde",
+            "tip": "Classic Portuguese cabbage soup, served in local taverns."
+          },
+          {
+            "name": "Bacalhau assado",
+            "tip": "Baked codfish with olive oil and potatoes in old town restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quinta do Castelo",
+            "tip": "Die Grotten im Park bieten ruhige Schattenplätze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burgmauern",
+            "tip": "Weitblick über die Stadt vom alten Wehrgang aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quinta do Castelo",
+            "tip": "A park barlangjai hűs és csendes árnyékot adnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várfalak",
+            "tip": "Panorámás kilátás a városra a régi védművekről.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quinta do Castelo",
+            "tip": "Grotele din parc oferă locuri umbrite și liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zidurile castelului",
+            "tip": "Vedere panoramică asupra orașului de pe vechile metereze.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quinta do Castelo",
+            "tip": "The park's grottos provide quiet, shaded spots.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Walls",
+            "tip": "Panoramic views over the city from the old ramparts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Frisches Obst und lokale Käsesorten am Vormittag."
+          },
+          {
+            "name": "Padarias locais",
+            "tip": "Kaufen Sie frische Fogaça direkt aus dem Ofen der Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Friss gyümölcsök és helyi sajtok a délelőtti órákban."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon frissen sült Fogaça-t közvetlenül a kemencéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Fructe proaspete și brânzeturi locale dimineața."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați Fogaça proaspăt scoasă din cuptor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Fresh fruits and local cheeses in the morning."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Buy freshly baked Fogaça straight from the oven."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Burgmauern sind uneben, tragen Sie feste Schuhe.",
+          "Im August findet hier das große Mittelalterfest (Viagem Medieval) statt.",
+          "Die Fogaça da Feira ist das perfekte Souvenir für Naschkatzen.",
+          "Der Mercado Municipal schließt oft am frühen Nachmittag."
+        ],
+        "hu": [
+          "A várfalak egyenetlenek, viseljen stabil cipőt.",
+          "Augusztusban rendezik itt a hatalmas Középkori Utazás (Viagem Medieval) fesztivált.",
+          "A Fogaça da Feira tökéletes ehető szuvenír.",
+          "A Mercado Municipal piaccsarnok kora délután gyakran bezár."
+        ],
+        "ro": [
+          "Zidurile castelului sunt denivelate, purtați încălțăminte comodă.",
+          "În luna august are loc aici marele festival Călătorie Medievală (Viagem Medieval).",
+          "Fogaça da Feira este suvenirul perfect pentru pofticioși.",
+          "Piața Municipală se închide adesea la începutul după-amiezii."
+        ],
+        "en": [
+          "The castle walls are uneven, wear sturdy walking shoes.",
+          "August hosts the massive Medieval Journey (Viagem Medieval) festival here.",
+          "The Fogaça da Feira makes for a perfect edible souvenir.",
+          "The Municipal Market often closes in the early afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi piac (Mercado Municipal)",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.543,
+            40.925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt im Herzen der Stadt.",
+            "hu": "Központi indulási pont a város szívében.",
+            "ro": "Punct central de plecare în inima orașului.",
+            "en": "Central starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Misericórdia",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -8.541,
+            40.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Markt entfernt.",
+            "hu": "Csak egy rövid útra a piactól.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short ride from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Santa Maria da Feira",
+            "hu": "Santa Maria da Feira vára",
+            "ro": "Castelul din Santa Maria da Feira",
+            "en": "Castle of Santa Maria da Feira"
+          },
+          "coords": [
+            -8.5415,
+            40.9213
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Burg erfordert etwas Beinkraft.",
+            "hu": "A várhoz vezető emelkedő némi lábmunkát igényel.",
+            "ro": "Urcarea spre castel necesită un efort fizic.",
+            "en": "The climb to the castle requires some leg power."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta do Castelo",
+            "hu": "Quinta do Castelo park",
+            "ro": "Parcul Quinta do Castelo",
+            "en": "Quinta do Castelo Park"
+          },
+          "coords": [
+            -8.54,
+            40.922
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch den Park.",
+            "hu": "Kösse le a kerékpárt, és tegyen egy sétát a parkban.",
+            "ro": "Parcați bicicleta și plimbați-vă prin parc.",
+            "en": "Lock up your bike and take a walk through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Papel",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            -8.538,
+            40.916
+          ],
+          "category": "museums",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Flache Fahrt nach Süden zum historischen Papiermuseum.",
+            "hu": "Sík terepen haladhatunk dél felé a történelmi papírmúzeumhoz.",
+            "ro": "Drum plat spre sud către muzeul istoric al hârtiei.",
+            "en": "Flat ride south to the historical paper museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Europarque",
+            "hu": "Europarque",
+            "ro": "Europarque",
+            "en": "Europarque"
+          },
+          "coords": [
+            -8.552,
+            40.945
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Längere Etappe zum modernen Kulturkomplex am Stadtrand.",
+            "hu": "Hosszabb szakasz a város szélén található modern kulturális komplexumhoz.",
+            "ro": "Etapă mai lungă spre complexul cultural modern de la marginea orașului.",
+            "en": "Longer ride to the modern cultural complex on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erweitern Sie Ihren Aktionsradius. Starten Sie im Zentrum beim Markt und der Kirche, bevor Sie den Anstieg zur Burg meistern. Nach einer Pause im Park Quinta do Castelo rollen Sie südwärts zum historischen Papiermuseum. Den Abschluss bildet eine flottere Fahrt in den Norden zum modernen Europarque.",
+        "hu": "Kerékpárral kibővítheti a hatósugarát. Induljon a központban a piacnál és a templomnál, mielőtt leküzdi a várhoz vezető emelkedőt. A Quinta do Castelo parkban tett pihenő után dél felé gurulhat a történelmi Papírmúzeumhoz. A napot egy lendületesebb tekerés zárja északra, a modern Europarque felé.",
+        "ro": "Bicicleta vă permite să acoperiți mai mult teren. Începeți în centru, la piață și biserică, înainte de a urca la castel. După o pauză în parcul Quinta do Castelo, pedalați spre sud la Muzeul Hârtiei. Încheiați ziua cu o cursă mai rapidă spre nord, spre modernul Europarque.",
+        "en": "A bike allows you to expand your radius. Start in the center by the market and church before tackling the climb to the castle. After a break in the Quinta do Castelo park, cruise south to the historic Paper Museum. Finish with a brisk ride north to the modern Europarque."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana-Sandwich",
+            "tip": "Schneller Snack für Radfahrer in den lokalen Cafés."
+          },
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Kohlenhydrate aus dem traditionellen süßen Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana szendvics",
+            "tip": "Gyors és laktató harapnivaló kerékpárosoknak a helyi kávézókban."
+          },
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Szénhidrátpótlás a hagyományos édes kenyérből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș Bifana",
+            "tip": "O gustare rapidă pentru bicicliști în cafenelele locale."
+          },
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Carbohidrați din pâinea dulce tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana Sandwich",
+            "tip": "A quick and filling snack for cyclists in local cafes."
+          },
+          {
+            "name": "Fogaça da Feira",
+            "tip": "Carbs refuel from the traditional sweet bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Europarque See",
+            "tip": "Ruhige Grünflächen um den Stausee des Komplexes.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Europarque tó",
+            "tip": "Csendes zöldterületek a komplexum tava körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Europarque",
+            "tip": "Spații verzi liniștite în jurul lacului complexului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Europarque Lake",
+            "tip": "Quiet green areas around the complex's lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Bäckereien",
+            "tip": "Packen Sie lokales Gebäck in den Fahrradkorb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális pékségek",
+            "tip": "Tegyél helyi péksüteményeket a kerékpárkosárba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării regionale",
+            "tip": "Puneți produse de patiserie locale în coșul bicicletei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional bakeries",
+            "tip": "Pack local pastries into your bike basket."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt hat einige Kopfsteinpflasterstraßen, fahren Sie vorsichtig.",
+          "Die Straße hinauf zur Burg ist steil, Schieben ist keine Schande.",
+          "Der Weg zum Europarque verläuft teilweise auf größeren Ausfallstraßen."
+        ],
+        "hu": [
+          "Az óvárosban sok a macskaköves utca, vezessen óvatosan.",
+          "A várhoz vezető út meredek, tolni sem szégyen.",
+          "Az Europarque felé vezető út részben forgalmasabb utakon halad."
+        ],
+        "ro": [
+          "Orașul vechi are străzi pietruite, circulați cu prudență.",
+          "Drumul spre castel este abrupt, puteți merge pe lângă bicicletă.",
+          "Traseul spre Europarque include porțiuni de drumuri mai circulate."
+        ],
+        "en": [
+          "The old town features cobblestone streets, ride carefully.",
+          "The road up to the castle is steep, pushing the bike is fine.",
+          "The route to Europarque partially runs on busier outbound roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi piac (Mercado Municipal)",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.543,
+            40.925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um die Altstadt zu Fuß zu erkunden (Cluster A).",
+            "hu": "Parkoljon le itt, hogy gyalog fedezze fel az óvárost (A klaszter).",
+            "ro": "Parcați aici pentru a explora centrul vechi pe jos (Cluster A).",
+            "en": "Park here to explore the old town on foot (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Misericórdia",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -8.541,
+            40.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Auto bleibt geparkt, kurzer Spaziergang durch die Gassen.",
+            "hu": "Az autó parkolva marad, rövid séta az utcákon.",
+            "ro": "Mașina rămâne parcată, o scurtă plimbare pe străduțe.",
+            "en": "Leave the car parked, a short walk through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Santa Maria da Feira",
+            "hu": "Santa Maria da Feira vára",
+            "ro": "Castelul din Santa Maria da Feira",
+            "en": "Castle of Santa Maria da Feira"
+          },
+          "coords": [
+            -8.5415,
+            40.9213
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Weiterhin zu Fuß innerhalb der Altstadt zur Burg hinauf.",
+            "hu": "Továbbra is gyalog indulunk felfelé a várhoz.",
+            "ro": "Continuăm pe jos în centrul vechi urcând spre castel.",
+            "en": "Continuing on foot within the old town up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Papel",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            -8.538,
+            40.916
+          ],
+          "category": "museums",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Cluster B im Süden. Eigener Parkplatz vorhanden.",
+            "hu": "Autózás a B klaszterhez délre. Saját parkolóval rendelkezik.",
+            "ro": "Condus spre Cluster B în sud. Parcare proprie disponibilă.",
+            "en": "Drive to Cluster B in the south. Dedicated parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Visionarium",
+            "hu": "Visionarium",
+            "ro": "Visionarium",
+            "en": "Visionarium"
+          },
+          "coords": [
+            -8.551,
+            40.9455
+          ],
+          "category": "museums",
+          "arrive_at": "14:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum nördlichen Cluster C beim Europarque.",
+            "hu": "Autózás az északi C klaszterhez, az Europarque területére.",
+            "ro": "Condus spre Cluster C în nord, la Europarque.",
+            "en": "Drive to the northern Cluster C at Europarque."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route teilt Santa Maria da Feira in drei bequeme Cluster. Sie parken zunächst im Zentrum, um den Markt, die Kirchen und die historische Burg zu Fuß zu erleben. Mittags fahren Sie in den Süden zum Papiermuseum. Den Nachmittag verbringen Sie im modernen Wissenschaftszentrum Visionarium (Europarque), das ebenfalls gut mit dem Auto erreichbar ist.",
+        "hu": "Ez az útvonal három kényelmes klaszterre osztja Santa Maria da Feirát. Először a központban parkol, hogy gyalog fedezze fel a piacot, a templomokat és a történelmi várat. Délben dél felé autózik a Papírmúzeumhoz. A délutánt a modern Visionarium tudományos központban (Europarque) töltheti, amely szintén könnyen megközelíthető autóval.",
+        "ro": "Acest traseu împarte Santa Maria da Feira în trei zone. Mai întâi parcați în centru pentru a vizita piața, bisericile și castelul istoric pe jos. La prânz, conduceți spre sud la Muzeul Hârtiei. După-amiaza o petreceți la modernul centru de știință Visionarium (Europarque), accesibil cu mașina.",
+        "en": "This route divides Santa Maria da Feira into three convenient clusters. You'll first park in the center to explore the market, churches, and historic castle on foot. At noon, drive south to the Paper Museum. Spend the afternoon at the modern Visionarium science center (Europarque), which is easily accessible by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Probieren Sie dieses klassische Fischgericht in einem Restaurant am Stadtrand."
+          },
+          {
+            "name": "Leitão assado",
+            "tip": "Auf dem Weg in die Region Bairrada ist Spanferkel ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Kóstolja meg ezt a klasszikus halételt egy külvárosi étteremben."
+          },
+          {
+            "name": "Leitão assado",
+            "tip": "A Bairrada régió felé autózva a sült malac kihagyhatatlan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Încercați acest fel de mâncare clasic din pește la un restaurant de la periferie."
+          },
+          {
+            "name": "Leitão assado",
+            "tip": "Spre regiunea Bairrada, purcelușul la proțap este obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Try this classic fish dish at a restaurant on the outskirts."
+          },
+          {
+            "name": "Leitão assado",
+            "tip": "Heading towards the Bairrada region, roast suckling pig is a must."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Europarque Gärten",
+            "tip": "Große Parkflächen, ideal für einen Spaziergang fernab des Verkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Europarque kertek",
+            "tip": "Nagy parkosított területek, ideálisak a forgalomtól távoli sétákhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Europarque",
+            "tip": "Parcuri mari, ideale pentru o plimbare departe de trafic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Europarque Gardens",
+            "tip": "Large park areas, ideal for a walk away from traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korkprodukte",
+            "tip": "Nordportugal ist bekannt für Kork, suchen Sie nach lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parafa termékek",
+            "tip": "Észak-Portugália híres a parafáról, keressen helyi butikokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din plută",
+            "tip": "Nordul Portugaliei este cunoscut pentru plută, căutați buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cork products",
+            "tip": "Northern Portugal is famous for cork, look for local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Nähe der Burg kann eng sein, nutzen Sie den Parkplatz am Markt.",
+          "Achten Sie auf die Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A vár környékén szűkös lehet a parkolás, használja a piac melletti parkolót.",
+          "Figyeljen az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Parcarea lângă castel poate fi dificilă, folosiți parcarea de la piață.",
+          "Acordați atenție străzilor cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Parking near the castle can be tight, use the lot near the market.",
+          "Pay attention to the one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 9.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi piac (Mercado Municipal)",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.543,
+            40.925
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft im Zentrum (Cluster A) mit dem Bus.",
+            "hu": "Érkezés busszal a központba (A klaszter).",
+            "ro": "Sosire în centru (Cluster A) cu autobuzul.",
+            "en": "Arrive in the center (Cluster A) by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Misericórdia",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -8.541,
+            40.926
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Markt aus gut erreichbar.",
+            "hu": "Gyalog könnyen megközelíthető a piactól.",
+            "ro": "Ușor de ajuns pe jos de la piață.",
+            "en": "Easily reachable on foot from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Santa Maria da Feira",
+            "hu": "Santa Maria da Feira vára",
+            "ro": "Castelul din Santa Maria da Feira",
+            "en": "Castle of Santa Maria da Feira"
+          },
+          "coords": [
+            -8.5415,
+            40.9213
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang den Hügel hinauf.",
+            "hu": "Rövid séta fel a dombra.",
+            "ro": "O scurtă plimbare pe jos în susul dealului.",
+            "en": "A short walk up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Papel",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            -8.538,
+            40.916
+          ],
+          "category": "museums",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus in den Süden (Cluster B) nach Paços de Brandão.",
+            "hu": "Buszozás délre (B klaszter) Paços de Brandão felé.",
+            "ro": "Autobuz spre sud (Cluster B) la Paços de Brandão.",
+            "en": "Bus ride south (Cluster B) to Paços de Brandão."
+          }
+        },
+        {
+          "name": {
+            "de": "Europarque",
+            "hu": "Europarque",
+            "ro": "Europarque",
+            "en": "Europarque"
+          },
+          "coords": [
+            -8.552,
+            40.945
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Öffentliche Verkehrsmittel zum nördlichen Cluster C.",
+            "hu": "Tömegközlekedéssel az északi C klaszterhez.",
+            "ro": "Transport public spre Cluster C în nord.",
+            "en": "Public transport to the northern Cluster C."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die verschiedenen Stadtteile mit den lokalen Bussen. Sie beginnen den Vormittag mit einem Spaziergang durch das Zentrum, vom Markt hinauf zur Burg. Danach nehmen Sie den Bus in den Süden zum historischen Papiermuseum. Am Nachmittag bringt Sie eine weitere Busfahrt in den Norden zum modernen Europarque.",
+        "hu": "Fedezze fel a különböző városrészeket a helyi buszokkal. A délelőttöt a központban sétálva kezdi, a piactól fel a várig. Ezután busszal délre utazik a történelmi Papírmúzeumhoz. Délután egy újabb buszút visz északra, a modern Europarque felé.",
+        "ro": "Explorați diferitele cartiere cu autobuzele locale. Începeți dimineața cu o plimbare prin centru, de la piață până la castel. Apoi luați autobuzul spre sud, la istoricul Muzeu al Hârtiei. După-amiaza, un alt autobuz vă duce la nord, spre modernul Europarque.",
+        "en": "Explore the different districts using local buses. You begin the morning walking through the center, from the market up to the castle. Afterwards, take the bus south to the historic Paper Museum. In the afternoon, another bus ride takes you north to the modern Europarque."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bolo Rei",
+            "tip": "In der Weihnachtszeit ein Muss in lokalen Bäckereien."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Herzhaftes Sandwich, eine Spezialität aus dem nahen Porto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bolo Rei",
+            "tip": "Karácsonykor kihagyhatatlan a helyi pékségekben."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Kiadós szendvics, a közeli Porto specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bolo Rei",
+            "tip": "De Crăciun este obligatoriu în brutăriile locale."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent, o specialitate din Porto din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bolo Rei",
+            "tip": "During Christmas time, a must-have in local bakeries."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Hearty sandwich, a specialty from nearby Porto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz der Misericórdia",
+            "tip": "Ein ruhiger Moment auf den Bänken vor der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Irgalmasság templomának tere",
+            "tip": "Egy csendes pillanat a templom előtti padokon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii Misericórdia",
+            "tip": "Un moment de liniște pe băncile din fața bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square of Misericórdia",
+            "tip": "A quiet moment on the benches in front of the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein (Vinho Verde)",
+            "tip": "Kaufen Sie eine Flasche regionalen Vinho Verde in kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor (Vinho Verde)",
+            "tip": "Vásároljon egy üveg regionális Vinho Verde bort a kisboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local (Vinho Verde)",
+            "tip": "Cumpărați o sticlă de Vinho Verde regional din magazinele mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine (Vinho Verde)",
+            "tip": "Buy a bottle of regional Vinho Verde in small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, sie fahren nicht immer im engen Takt.",
+          "Kaufen Sie Tickets idealerweise vorher oder haben Sie Kleingeld parat."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendeket, nem mindig járnak sűrűn.",
+          "A jegyeket lehetőleg előre vegye meg, vagy legyen aprópénze."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, nu circulă mereu des.",
+          "Cumpărați biletele în avans sau aveți bani potriviți."
+        ],
+        "en": [
+          "Check bus schedules in advance, they don't always run frequently.",
+          "Ideally buy tickets beforehand or have exact change ready."
+        ]
+      }
+    }
+  }
+}

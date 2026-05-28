@@ -1,0 +1,1269 @@
+{
+  "city_id": "czechrepublic-litvinov-cities-v2",
+  "anchor": {
+    "name": "Oberleutensdorf",
+    "coords": [
+      13.6108,
+      50.6011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Litvínov",
+            "hu": "Litvínovi Városháza",
+            "ro": "Primăria Litvínov",
+            "en": "Litvínov Town Hall"
+          },
+          "coords": [
+            13.6115,
+            50.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Hauptplatz und bewundern Sie die Architektur des Rathauses.",
+            "hu": "Kezdje a napot a főtéren, és csodálja meg a városháza építészetét.",
+            "ro": "Începeți ziua în piața principală și admirați arhitectura primăriei.",
+            "en": "Start your day in the main square, admiring the town hall's architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            13.6122,
+            50.6008
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Barockfresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk freskókat a templom belsejében.",
+            "ro": "Observați frescele baroce impresionante din interior.",
+            "en": "Pay attention to the impressive baroque frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Voigt-Haus",
+            "hu": "Voigt-ház",
+            "ro": "Casa Voigt",
+            "en": "Voigt House"
+          },
+          "coords": [
+            13.6105,
+            50.6005
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die historische bürgerliche Architektur der Stadt.",
+            "hu": "A város történelmi polgári építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură burgheză istorică a orașului.",
+            "en": "A fine example of the town's historic bourgeois architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Valdštejn",
+            "hu": "Valdštejn-kastély",
+            "ro": "Castelul Valdštejn",
+            "en": "Valdštejn Chateau"
+          },
+          "coords": [
+            13.6211,
+            50.5989
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um mehr über die Adelsfamilie zu erfahren.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy többet tudjon meg a nemesi családról.",
+            "ro": "Participați la un tur ghidat pentru a afla mai multe despre familia nobiliară.",
+            "en": "Join a guided tour to learn more about the noble family."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadela",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadela"
+          },
+          "coords": [
+            13.6145,
+            50.5971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendvorstellungen oder Konzerte.",
+            "hu": "Nézze meg a műsort, hátha van esti előadás vagy koncert.",
+            "ro": "Verificați programul pentru spectacole de seară sau concerte.",
+            "en": "Check the schedule for evening performances or concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer des Bergbaus",
+            "hu": "A bányászat áldozatainak emlékműve",
+            "ro": "Monumentul Victimelor Mineritului",
+            "en": "Monument to the Victims of Mining"
+          },
+          "coords": [
+            13.6088,
+            50.6045
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der an die industrielle Geschichte der Region erinnert.",
+            "hu": "Megrendítő hely, amely a régió ipari történelmére emlékeztet.",
+            "ro": "Un loc emoționant care comemorează istoria industrială a regiunii.",
+            "en": "A poignant spot commemorating the region's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            13.605,
+            50.603
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine entspannte Pause am Nachmittag.",
+            "hu": "Tökéletes hely egy pihentető délutáni szünethez.",
+            "ro": "Locul perfect pentru o pauză relaxantă de după-amiază.",
+            "en": "The perfect spot for a relaxing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Litvínov beginnt am belebten Hauptplatz. Von dort aus tauchen Sie in die sakrale Atmosphäre der St.-Michael-Kirche ein. Der Vormittag führt Sie weiter durch die charmanten Gassen zum historischen Voigt-Haus und dem imposanten Schloss Valdštejn, das die Geschichte der Stadt erzählt. Nach dem Mittagessen erkunden Sie das Kulturzentrum Citadela und gedenken der Bergbaugeschichte am Denkmal. Der Nachmittag klingt entspannt im grünen Stadtpark aus, ein idealer Ort, um die gesammelten Eindrücke Revue passieren zu lassen und sich auszuruhen.",
+        "hu": "Sétája Litvínovban a nyüzsgő főtéren kezdődik. Innen merüljön el a Szent Mihály-templom szakrális hangulatában. A délelőtt a bájos utcákon át a történelmi Voigt-házhoz és a város múltjáról mesélő impozáns Valdštejn-kastélyhoz vezet. Ebéd után fedezze fel a Citadela kulturális központot, és emlékezzen meg a bányászat történetéről az emlékműnél. A délután a zöld városi parkban zárul, amely ideális hely a benyomások feldolgozására és a pihenésre.",
+        "ro": "Plimbarea dvs. prin Litvínov începe în piața principală plină de viață. De acolo, pătrundeți în atmosfera sacră a Bisericii Sf. Mihail. Dimineața vă poartă pe străduțele fermecătoare spre istorica Casă Voigt și impunătorul Castel Valdštejn, care povestește istoria orașului. După prânz, explorați centrul cultural Citadela și comemorați istoria minieră la monument. După-amiaza se încheie relaxant în parcul verde al orașului, un loc ideal pentru a reflecta asupra impresiilor și a vă odihni.",
+        "en": "Your walk through Litvínov begins in the bustling main square. From there, immerse yourself in the sacred atmosphere of St. Michael's Church. The morning leads you through charming streets to the historic Voigt House and the imposing Valdštejn Chateau, which tells the city's story. After lunch, explore the Citadela cultural center and commemorate the mining history at the monument. The afternoon concludes relaxing in the green City Park, an ideal place to reflect on your impressions and rest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Ein klassisches tschechisches Gericht: Rinderbraten in einer cremigen Gemüsesoße, serviert mit Knödeln."
+          },
+          {
+            "name": "Restaurace Elixír",
+            "tip": "Bekannt für seine traditionelle tschechische Küche in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Klasszikus cseh étel: vadas marhaszelet tejszínes zöldségmártással, knédlivel tálalva."
+          },
+          {
+            "name": "Restaurace Elixír",
+            "tip": "Hagyományos cseh konyhájáról ismert, hangulatos étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Un fel de mâncare ceh clasic: friptură de vită într-un sos cremos de legume, servită cu găluște."
+          },
+          {
+            "name": "Restaurace Elixír",
+            "tip": "Renumit pentru bucătăria sa tradițională cehă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "A classic Czech dish: beef sirloin in a creamy vegetable sauce, served with dumplings."
+          },
+          {
+            "name": "Restaurace Elixír",
+            "tip": "Known for its traditional Czech cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Stadtparkteichs",
+            "tip": "Finden Sie eine ruhige Bank am Teich und beobachten Sie die Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Valdštejn",
+            "tip": "Nach der Besichtigung des Schlosses bietet der Park einen friedlichen Rückzugsort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A városi parki tó partja",
+            "tip": "Keressen egy csendes padot a tónál, és figyelje a kacsákat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valdštejn kastélypark",
+            "tip": "A kastély megtekintése után a park békés menedéket nyújt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul iazului din parcul orașului",
+            "tip": "Găsiți o bancă liniștită lângă iaz și priviți rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Valdštejn",
+            "tip": "După vizitarea castelului, parcul oferă un refugiu pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the City Park pond",
+            "tip": "Find a quiet bench by the pond and watch the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valdštejn Chateau Park",
+            "tip": "After visiting the chateau, the park offers a peaceful retreat.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach kleinen Märkten, auf denen lokale Produkte und Handwerkskunst angeboten werden."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Ein traditioneller tschechischer Kräuterlikör, ein perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a kis piacokat, ahol helyi termékeket és kézműves árukat kínálnak."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Hagyományos cseh gyógynövénylikőr, tökéletes ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați piețe mici care oferă produse locale și artizanat."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "Un lichior tradițional ceh din plante, un suvenir perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for small markets offering local produce and handicrafts."
+          },
+          {
+            "name": "Becherovka",
+            "tip": "A traditional Czech herbal liqueur, a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Ihr Mittagessen in der Nähe des Schlosses Valdštejn, um Zeit zu sparen.",
+          "Prüfen Sie die Öffnungszeiten der Sehenswürdigkeiten im Voraus, insbesondere außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyaloglással tölti.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Tervezze az ebédet a Valdštejn-kastély közelébe, hogy időt takarítson meg.",
+          "Előre ellenőrizze a látnivalók nyitvatartási idejét, különösen szezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați-vă prânzul în apropierea Castelului Valdštejn pentru a economisi timp.",
+          "Verificați în avans orele de deschidere ale atracțiilor, mai ales în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Plan your lunch near Valdštejn Chateau to save time.",
+          "Check the opening hours of attractions in advance, especially outside the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            13.605,
+            50.603
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einer erfrischenden Runde durch den Park.",
+            "hu": "Kezdje a napot egy frissítő körrel a parkban.",
+            "ro": "Începeți cu o plimbare revigorantă prin parc.",
+            "en": "Start with a refreshing loop around the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollektivhaus (Koldům)",
+            "hu": "Kollektív Ház (Koldům)",
+            "ro": "Casa Colectivă (Koldům)",
+            "en": "Collective House (Koldům)"
+          },
+          "coords": [
+            13.628,
+            50.6055
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein faszinierendes Beispiel für funktionalistische Architektur und soziales Wohnen.",
+            "hu": "A funkcionalista építészet és a szociális lakhatás lenyűgöző példája.",
+            "ro": "Un exemplu fascinant de arhitectură funcționalistă și locuințe sociale.",
+            "en": "A fascinating example of functionalist architecture and social housing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Valdštejn",
+            "hu": "Valdštejn-kastély",
+            "ro": "Castelul Valdštejn",
+            "en": "Valdštejn Chateau"
+          },
+          "coords": [
+            13.6211,
+            50.5989
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Schlossgelände erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a kastély területét.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora terenul castelului.",
+            "en": "Lock your bike securely before exploring the chateau grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Litvínov",
+            "hu": "Litvínovi Városháza",
+            "ro": "Primăria Litvínov",
+            "en": "Litvínov Town Hall"
+          },
+          "coords": [
+            13.6115,
+            50.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine Mittagspause in einem der umliegenden Cafés.",
+            "hu": "Tökéletes hely egy ebédszünetre a környező kávézók egyikében.",
+            "ro": "Locul perfect pentru o pauză de prânz la una dintre cafenelele din jur.",
+            "en": "The perfect spot for a lunch break at one of the surrounding cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            13.6122,
+            50.6008
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die ruhige Atmosphäre im Inneren.",
+            "hu": "Tegye le a biciklit, és élvezze a templom csendes hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera liniștită din interior.",
+            "en": "Park your bike and enjoy the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadela",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadela"
+          },
+          "coords": [
+            13.6145,
+            50.5971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kultureller Abschluss Ihrer Radtour durch die Stadt.",
+            "hu": "Városi kerékpártúrájának kulturális befejezése.",
+            "ro": "O concluzie culturală a turului cu bicicleta prin oraș.",
+            "en": "A cultural conclusion to your bike tour of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im grünen Stadtpark, bevor Sie zum architektonisch bedeutenden Kollektivhaus radeln. Der Vormittag gipfelt im Besuch des Schlosses Valdštejn, wo Sie in die Geschichte eintauchen. Nach einer längeren Fahrt erreichen Sie zur Mittagszeit das Stadtzentrum am Rathaus. Am Nachmittag erkunden Sie die St.-Michael-Kirche und beenden Ihre Tour im Kulturzentrum Citadela. Diese Route verbindet Natur, einzigartige Architektur und das historische Herz von Litvínov.",
+        "hu": "Kerékpártúrája a zöld városi parkban kezdődik, mielőtt az építészetileg jelentős Kollektív Házhoz teker. A délelőtt a Valdštejn-kastély meglátogatásával csúcsosodik ki, ahol elmerülhet a történelemben. Egy hosszabb út után délben érkezik a városközpontba, a városházához. Délután felfedezi a Szent Mihály-templomot, és a Citadela kulturális központban fejezi be a túrát. Ez az útvonal összeköti a természetet, az egyedi építészetet és Litvínov történelmi szívét.",
+        "ro": "Turul cu bicicleta începe în parcul verde al orașului, înainte de a pedala spre Casa Colectivă, importantă din punct de vedere arhitectural. Dimineața culminează cu o vizită la Castelul Valdštejn, unde vă veți cufunda în istorie. După o plimbare mai lungă, ajungeți în centrul orașului la primărie, la prânz. După-amiaza, explorați Biserica Sf. Mihail și încheiați turul la centrul cultural Citadela. Acest traseu combină natura, arhitectura unică și inima istorică a orașului Litvínov.",
+        "en": "Your bike tour starts in the green City Park before you cycle to the architecturally significant Collective House. The morning culminates in a visit to Valdštejn Chateau, where you'll delve into history. After a longer ride, you'll reach the city center at the Town Hall for lunchtime. In the afternoon, you'll explore St. Michael's Church and finish your tour at the Citadela cultural center. This route combines nature, unique architecture, and the historic heart of Litvínov."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pivní sýr",
+            "tip": "Ein pikanter Käse, der mit Zwiebeln, Senf und Bier zu einer Paste vermischt wird. Perfekt mit frischem Brot."
+          },
+          {
+            "name": "Pivovar Koliba",
+            "tip": "Eine lokale Brauerei mit Restaurant, ideal um nach der Radtour ein kühles Bier zu genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pivní sýr (Sörsajt)",
+            "tip": "Fűszeres sajt, amit hagymával, mustárral és sörrel kevernek pasztává. Tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Pivovar Koliba",
+            "tip": "Helyi sörfőzde étteremmel, ideális egy hűsítő sörre a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pivní sýr (Brânză cu bere)",
+            "tip": "O brânză picantă amestecată cu ceapă, muștar și bere pentru a forma o pastă. Perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Pivovar Koliba",
+            "tip": "O berărie locală cu restaurant, ideală pentru a savura o bere rece după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pivní sýr (Beer cheese)",
+            "tip": "A pungent cheese mixed with onion, mustard, and beer to form a paste. Perfect with fresh bread."
+          },
+          {
+            "name": "Pivovar Koliba",
+            "tip": "A local brewery with a restaurant, ideal for enjoying a cold beer after the bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wege im Schlosspark Valdštejn",
+            "tip": "Radfahren Sie langsam durch die alten Alleen des Parks.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aussicht vom Koldům",
+            "tip": "Genießen Sie den Blick über die Stadt von diesem einzigartigen Gebäude aus.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétányok a Valdštejn kastélyparkban",
+            "tip": "Tekerjen lassan a park öreg fasorai között.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a Koldům-ról",
+            "tip": "Élvezze a városra nyíló kilátást erről az egyedülálló épületről.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleile din Parcul Castelului Valdštejn",
+            "tip": "Pedalați încet pe aleile vechi ale parcului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere de la Koldům",
+            "tip": "Bucurați-vă de vederea asupra orașului de la această clădire unică.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paths in Valdštejn Chateau Park",
+            "tip": "Cycle slowly through the old avenues of the park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from the Koldům",
+            "tip": "Enjoy the view over the city from this unique building.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Regionale Delikatessen",
+            "tip": "Suchen Sie nach Geschäften, die lokale Wurst- und Käsespezialitäten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészre vagy kiegészítőre lenne szüksége."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen boltokat, ahol helyi kolbász- és sajtkülönlegességeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Delicatese regionale",
+            "tip": "Căutați magazine care vând specialități locale de cârnați și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Regional Delicacies",
+            "tip": "Look for shops selling local sausage and cheese specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Strecken können Steigungen aufweisen, seien Sie also vorbereitet.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen.",
+          "Respektieren Sie die Verkehrsregeln und seien Sie vorsichtig im Stadtverkehr."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Néhány szakaszon emelkedők lehetnek, készüljön fel rá.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "Tartsa be a közlekedési szabályokat, és legyen óvatos a városi forgalomban."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele secțiuni pot avea pante, așa că fiți pregătiți.",
+          "Luați suficientă apă cu dvs., mai ales în zilele calde.",
+          "Respectați regulile de circulație și fiți atenți în traficul urban."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some sections may have inclines, so be prepared.",
+          "Bring enough water with you, especially on warm days.",
+          "Respect traffic rules and be careful in city traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Valdštejn",
+            "hu": "Valdštejn-kastély",
+            "ro": "Castelul Valdštejn",
+            "en": "Valdštejn Chateau"
+          },
+          "coords": [
+            13.6211,
+            50.5989
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Schloss. Es gibt normalerweise genügend Parkplätze am Morgen.",
+            "hu": "Kezdje a napot a kastélynál. Reggel általában van elég parkolóhely.",
+            "ro": "Începeți la castel. De obicei, dimineața există suficiente locuri de parcare.",
+            "en": "Start at the chateau. There's usually enough parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer des Bergbaus",
+            "hu": "A bányászat áldozatainak emlékműve",
+            "ro": "Monumentul Victimelor Mineritului",
+            "en": "Monument to the Victims of Mining"
+          },
+          "coords": [
+            13.619,
+            50.5975
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, um der Industriegeschichte zu gedenken.",
+            "hu": "Rövid séta a kastélytól az ipartörténeti emlékműhöz.",
+            "ro": "O scurtă plimbare de la castel pentru a comemora istoria industrială.",
+            "en": "A short walk from the chateau to commemorate the industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Litvínov & Stadtzentrum",
+            "hu": "Litvínovi Városháza és Városközpont",
+            "ro": "Primăria Litvínov și Centrul Orașului",
+            "en": "Litvínov Town Hall & City Center"
+          },
+          "coords": [
+            13.6115,
+            50.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den Hauptplatz. Hier finden Sie auch gute Restaurants für das Mittagessen.",
+            "hu": "Parkoljon le a központban, és fedezze fel a főteret. Itt jó éttermeket is talál ebédre.",
+            "ro": "Parcați în centru și explorați piața principală. Aici veți găsi și restaurante bune pentru prânz.",
+            "en": "Park in the center and explore the main square. You'll also find good lunch options here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            13.6122,
+            50.6008
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Rathausplatz entfernt, ein Muss für Liebhaber sakraler Kunst.",
+            "hu": "Csak pár lépésre a városháza tértől, a szakrális művészet kedvelőinek kötelező.",
+            "ro": "La doar câțiva pași de piața primăriei, o vizită obligatorie pentru iubitorii de artă sacră.",
+            "en": "Just a few steps from the town hall square, a must-see for lovers of sacred art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollektivhaus (Koldům)",
+            "hu": "Kollektív Ház (Koldům)",
+            "ro": "Casa Colectivă (Koldům)",
+            "en": "Collective House (Koldům)"
+          },
+          "coords": [
+            13.628,
+            50.6055
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem architektonischen Juwel, um einen anderen Aspekt der Stadtgeschichte zu sehen.",
+            "hu": "Vezessen el ehhez az építészeti gyöngyszemhez, hogy megismerje a város történetének egy másik oldalát.",
+            "ro": "Conduceți la această bijuterie arhitecturală pentru a vedea o altă fațetă a istoriei orașului.",
+            "en": "Drive to this architectural gem to see a different facet of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            13.605,
+            50.603
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park, bevor Sie die Stadt verlassen.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt elhagyja a várost.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de a părăsi orașul.",
+            "en": "End the day with a relaxing walk in the park before leaving the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Vormittagscluster am Schloss Valdštejn, wo Sie auch das nahegelegene Bergbaudenkmal zu Fuß erkunden. Danach fahren Sie ins Stadtzentrum, parken Ihr Auto und entdecken den Hauptplatz und die St.-Michael-Kirche während Ihres Mittagsclusters. Am Nachmittag fahren Sie zum architektonisch einzigartigen Kollektivhaus (Koldům), bevor Sie den Tag entspannt im weitläufigen Stadtpark ausklingen lassen. Diese Route kombiniert bequemes Parken mit fokussierten Spaziergängen.",
+        "hu": "Autós napja a Valdštejn-kastélynál kezdődik, ahol a közeli bányászati emlékművet is gyalogosan fedezi fel. Ezután a városközpontba hajt, leparkol, és az ebéd körüli időszakban felfedezi a főteret és a Szent Mihály-templomot. Délután ellátogat az építészetileg egyedülálló Kollektív Házhoz (Koldům), mielőtt a napot a tágas városi parkban zárná. Ez az útvonal a kényelmes parkolást célzott sétákkal ötvözi.",
+        "ro": "Ziua cu mașina începe cu un grup de obiective dimineața la Castelul Valdštejn, unde explorați și monumentul minier din apropiere pe jos. Apoi, conduceți spre centrul orașului, parcați și descoperiți piața principală și Biserica Sf. Mihail în timpul grupului de prânz. După-amiaza, conduceți spre unica Casă Colectivă (Koldům) din punct de vedere arhitectural, înainte de a încheia ziua relaxându-vă în parcul spațios al orașului. Acest traseu combină parcarea convenabilă cu plimbări concentrate.",
+        "en": "Your car day starts with a morning cluster at Valdštejn Chateau, where you also explore the nearby mining monument on foot. Afterward, you drive to the city center, park, and discover the main square and St. Michael's Church during your lunch cluster. In the afternoon, you drive to the architecturally unique Collective House (Koldům) before ending the day relaxing in the spacious City Park. This route combines convenient parking with focused walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Guláš",
+            "tip": "Ein herzhafter Rindfleischeintopf, gewürzt mit Paprika, oft mit Knödeln serviert."
+          },
+          {
+            "name": "Restaurace U Zvonu",
+            "tip": "Ein traditionelles Restaurant im Stadtzentrum, ideal für eine Mittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guláš (Gulyás)",
+            "tip": "Kiadós marhapörkölt, paprikával fűszerezve, gyakran knédlivel tálalva."
+          },
+          {
+            "name": "Restaurace U Zvonu",
+            "tip": "Hagyományos étterem a városközpontban, ideális egy ebédszünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Guláš (Gulaș)",
+            "tip": "O tocană consistentă de vită, asezonată cu boia, adesea servită cu găluște."
+          },
+          {
+            "name": "Restaurace U Zvonu",
+            "tip": "Un restaurant tradițional în centrul orașului, ideal pentru o pauză de prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guláš (Goulash)",
+            "tip": "A hearty beef stew seasoned with paprika, often served with dumplings."
+          },
+          {
+            "name": "Restaurace U Zvonu",
+            "tip": "A traditional restaurant in the city center, ideal for a lunch break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Schloss Valdštejn",
+            "tip": "Spazieren Sie durch die gepflegten Gärten für einen Moment der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Abgelegene Wege im Stadtpark",
+            "tip": "Entdecken Sie die weniger besuchten Teile des Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Valdštejn-kastély kertjei",
+            "tip": "Sétáljon a gondozott kertekben egy pillanatnyi békéért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Félreeső ösvények a városi parkban",
+            "tip": "Fedezze fel a park kevésbé látogatott részeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Valdštejn",
+            "tip": "Plimbați-vă prin grădinile îngrijite pentru un moment de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cărări retrase în parcul orașului",
+            "tip": "Descoperiți părțile mai puțin vizitate ale parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdštejn Chateau Gardens",
+            "tip": "Stroll through the manicured gardens for a moment of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Secluded paths in the City Park",
+            "tip": "Discover the less-visited parts of the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kristallglas aus Böhmen",
+            "tip": "Die Region ist berühmt für ihre Glasherstellung. Suchen Sie nach authentischen Stücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cseh kristályüveg",
+            "tip": "A régió híres üveggyártásáról. Keressen autentikus darabokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlă de cristal de Boemia",
+            "tip": "Regiunea este renumită pentru producția de sticlă. Căutați piese autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohemian Crystal Glass",
+            "tip": "The region is famous for its glass production. Look for authentic pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, falls verfügbar, um den Stadtverkehr zu meiden.",
+          "Achten Sie auf Parkgebühren und -beschränkungen im Stadtzentrum.",
+          "Ein GPS ist hilfreich, um zwischen den verschiedenen Clustern zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, ha rendelkezésre állnak, a városi forgalom elkerülése érdekében.",
+          "Figyeljen a parkolási díjakra és korlátozásokra a városközpontban.",
+          "GPS hasznos a különböző klaszterek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți facilitățile de tip park-and-ride, dacă sunt disponibile, pentru a evita traficul din oraș.",
+          "Fiți atenți la taxele și restricțiile de parcare din centrul orașului.",
+          "Un GPS este util pentru a naviga între diferitele grupuri de obiective.",
+          "Planificați timp suplimentar pentru trafic, în special în timpul orelor de vârf."
+        ],
+        "en": [
+          "Use park-and-ride facilities if available to avoid city traffic.",
+          "Be mindful of parking fees and restrictions in the city center.",
+          "A GPS is helpful for navigating between the different clusters.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus & Stadtzentrum",
+            "hu": "Városháza és Városközpont",
+            "ro": "Primăria și Centrul Orașului",
+            "en": "Town Hall & City Center"
+          },
+          "coords": [
+            13.6115,
+            50.6015
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Verkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a napot a város központi közlekedési csomópontjánál.",
+            "ro": "Începeți la nodul central de transport al orașului.",
+            "en": "Start at the city's central transit hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            13.6122,
+            50.6008
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare de la piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadela",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadela"
+          },
+          "coords": [
+            13.6145,
+            50.5971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bleiben Sie im Zentrum für diesen kulturellen Höhepunkt.",
+            "hu": "Maradjon a központban ezért a kulturális fénypontért.",
+            "ro": "Rămâneți în centru pentru acest punct culminant cultural.",
+            "en": "Stay in the center for this cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Valdštejn",
+            "hu": "Valdštejn-kastély",
+            "ro": "Castelul Valdštejn",
+            "en": "Valdštejn Chateau"
+          },
+          "coords": [
+            13.6211,
+            50.5989
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Schloss. Die Haltestelle ist meist gut ausgeschildert.",
+            "hu": "Menjen busszal a kastély irányába. A megálló általában jól ki van táblázva.",
+            "ro": "Luați un autobuz spre castel. Stația este de obicei bine semnalizată.",
+            "en": "Take a bus towards the chateau. The stop is usually well-signposted."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollektivhaus (Koldům)",
+            "hu": "Kollektív Ház (Koldům)",
+            "ro": "Casa Colectivă (Koldům)",
+            "en": "Collective House (Koldům)"
+          },
+          "coords": [
+            13.628,
+            50.6055
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem einzigartigen Gebäude.",
+            "hu": "Egy másik buszút vezet ehhez az egyedülálló épülethez.",
+            "ro": "O altă călătorie cu autobuzul vă va duce la această clădire unică.",
+            "en": "Another bus ride will take you to this unique building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            13.605,
+            50.603
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einige Buslinien halten in der Nähe des Parks, ein idealer Ort zum Entspannen am Ende des Tages.",
+            "hu": "Néhány buszjárat a park közelében áll meg, ideális hely a nap végi pihenéshez.",
+            "ro": "Unele linii de autobuz opresc lângă parc, un loc ideal pentru a vă relaxa la sfârșitul zilei.",
+            "en": "Some bus lines stop near the park, an ideal place to relax at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit öffentlichen Verkehrsmitteln im Herzen von Litvínov. Der erste Cluster umfasst einen Spaziergang vom Rathaus zur St.-Michael-Kirche und zum Kulturzentrum Citadela. Am späten Vormittag nehmen Sie einen Bus zum Schloss Valdštejn, Ihrem zweiten großen Ziel. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum architektonisch interessanten Kollektivhaus. Den Abschluss bildet ein entspannter Spaziergang im Stadtpark, der von einer nahegelegenen Haltestelle aus leicht zu erreichen ist.",
+        "hu": "Kezdje a napot a tömegközlekedéssel Litvínov szívében. Az első klaszter egy sétát foglal magában a városházától a Szent Mihály-templomig és a Citadela kulturális központig. Késő délelőtt busszal juthat el a Valdštejn-kastélyhoz, a második fő célponthoz. Ebéd után egy másik buszjárattal eljuthat az építészetileg érdekes Kollektív Házhoz. A napot egy pihentető séta zárja a városi parkban, amely egy közeli megállóból könnyen elérhető.",
+        "ro": "Începeți ziua folosind transportul public în inima orașului Litvínov. Primul grup de obiective include o plimbare de la primărie la Biserica Sf. Mihail și centrul cultural Citadela. Spre sfârșitul dimineții, luați un autobuz spre Castelul Valdštejn, a doua destinație majoră. După prânz, o altă călătorie cu autobuzul vă va duce la interesanta Casă Colectivă. Ziua se încheie cu o plimbare relaxantă în parcul orașului, ușor accesibil de la o stație din apropiere.",
+        "en": "Start your day using public transport in the heart of Litvínov. The first cluster includes a walk from the Town Hall to St. Michael's Church and the Citadela cultural center. In the late morning, take a bus to Valdštejn Chateau, your second major destination. After lunch, another bus ride will take you to the architecturally interesting Collective House. The day concludes with a relaxing walk in the City Park, easily accessible from a nearby stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Knedlíky",
+            "tip": "Probieren Sie verschiedene Arten von tschechischen Knödeln, sowohl herzhaft als auch süß (z.B. mit Früchten gefüllt)."
+          },
+          {
+            "name": "Jídelna",
+            "tip": "Suchen Sie nach einer 'Jídelna' (Kantine) für ein schnelles, günstiges und authentisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knedlíky (Gombóc)",
+            "tip": "Kóstolja meg a cseh gombócok különböző fajtáit, sós és édes változatban is (pl. gyümölccsel töltve)."
+          },
+          {
+            "name": "Jídelna (Étkezde)",
+            "tip": "Keressen egy 'Jídelna'-t (étkezdét) egy gyors, olcsó és autentikus ebédért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knedlíky (Găluște)",
+            "tip": "Încercați diferite tipuri de găluște cehe, atât sărate, cât și dulci (de exemplu, umplute cu fructe)."
+          },
+          {
+            "name": "Jídelna (Cantină)",
+            "tip": "Căutați o 'Jídelna' (cantină) pentru un prânz rapid, ieftin și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knedlíky (Dumplings)",
+            "tip": "Try different types of Czech dumplings, both savory and sweet (e.g., filled with fruit)."
+          },
+          {
+            "name": "Jídelna (Canteen)",
+            "tip": "Look for a 'Jídelna' (canteen) for a quick, cheap, and authentic lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck eines Busses",
+            "tip": "Wenn verfügbar, bietet das Oberdeck eine andere Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof neben der St.-Michael-Kirche",
+            "tip": "Ein Ort der Stille und Geschichte direkt im Zentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy busz emelete",
+            "tip": "Ha van, az emelet más perspektívát nyújt a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A Szent Mihály-templom melletti temető",
+            "tip": "A csend és a történelem helye a központban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a unui autobuz",
+            "tip": "Dacă este disponibil, puntea superioară oferă o perspectivă diferită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Mihail",
+            "tip": "Un loc de liniște și istorie chiar în centru.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a bus",
+            "tip": "If available, the upper deck offers a different perspective of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery next to St. Michael's Church",
+            "tip": "A place of quiet and history right in the center.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Haltestellen",
+            "tip": "Hier finden Sie oft Zeitungen, Getränke und kleine Snacks für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a megállókban",
+            "tip": "Gyakran talál itt újságokat, italokat és apró harapnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stații",
+            "tip": "Aici veți găsi adesea ziare, băuturi și mici gustări pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You'll often find newspapers, drinks, and small snacks for the road here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an der Haltestelle.",
+          "Beachten Sie, dass Busse auf dem Land seltener fahren könnten, planen Sie also entsprechend.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Töltse le a menetrendi alkalmazást, vagy fotózza le a menetrendet a megállóban.",
+          "Vegye figyelembe, hogy a vidéki buszok ritkábban közlekedhetnek, ezért tervezzen ennek megfelelően.",
+          "Érvényesítse a jegyét felszálláskor a bírság elkerülése érdekében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orarul sau faceți o fotografie a orarului din stație.",
+          "Rețineți că autobuzele din zonele rurale pot circula mai rar, așa că planificați-vă în consecință.",
+          "Validați biletul la urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the timetable app or take a photo of the schedule at the stop.",
+          "Note that buses in rural areas may run less frequently, so plan accordingly.",
+          "Validate your ticket upon boarding to avoid a fine."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1420 @@
+{
+  "city_id": "czechrepublic-hodonin-cities-v2",
+  "anchor": {
+    "name": "Göding",
+    "coords": [
+      17.1303,
+      48.8489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.13,
+            48.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            17.1295,
+            48.8492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und das Glockenspiel zur vollen Stunde.",
+            "hu": "Csodálja meg az építészetet és a harangjátékot minden egész órában.",
+            "ro": "Admirați arhitectura și ascultați carilonul la oră fixă.",
+            "en": "Admire the architecture and listen to the carillon on the hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Laurentiuskirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sf. Laurențiu",
+            "en": "St. Lawrence Church"
+          },
+          "coords": [
+            17.1315,
+            48.8478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach den barocken Details und genießen Sie die Stille.",
+            "hu": "Keresse a barokk részleteket és élvezze a csendet.",
+            "ro": "Căutați detaliile baroce și bucurați-vă de liniște.",
+            "en": "Look for the baroque details and enjoy the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der bildenden Künste",
+            "hu": "Képzőművészeti Galéria",
+            "ro": "Galeria de Arte Plastice",
+            "en": "Gallery of Fine Arts"
+          },
+          "coords": [
+            17.1288,
+            48.8465
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fokus auf mährische Künstler. Ein Muss für Kunstliebhaber.",
+            "hu": "A fókusz a morva művészeken van. Kötelező a művészetkedvelőknek.",
+            "ro": "Concentrați-vă pe artiștii moravi. O vizită obligatorie pentru iubitorii de artă.",
+            "en": "Focus on Moravian artists. A must-visit for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Museum",
+            "hu": "Masaryk Múzeum",
+            "ro": "Muzeul Masaryk",
+            "en": "Masaryk Museum"
+          },
+          "coords": [
+            17.1275,
+            48.851
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die Ausstellung über den ersten Präsidenten ein.",
+            "hu": "Szánjon elég időt az első elnökről szóló kiállításra.",
+            "ro": "Planificați suficient timp pentru expoziția despre primul președinte.",
+            "en": "Plan enough time for the exhibition about the first president."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilbad Hodonín",
+            "hu": "Hodoníni Gyógyfürdő",
+            "ro": "Băile Termale Hodonín",
+            "en": "Spa Hodonín"
+          },
+          "coords": [
+            17.1125,
+            48.8555
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannendes Bad im jodhaltigen Wasser ist eine Wohltat.",
+            "hu": "Egy pihentető fürdő a jódozott vízben igazi felüdülés.",
+            "ro": "O baie relaxantă în apa iodată este o binecuvântare.",
+            "en": "A relaxing bath in the iodine water is a real treat."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Hodonín",
+            "hu": "Hodoníni Állatkert",
+            "ro": "Zoo Hodonín",
+            "en": "Zoo Hodonín"
+          },
+          "coords": [
+            17.0988,
+            48.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Pavillon der weißen Tiger ist das Highlight des Zoos.",
+            "hu": "A fehér tigrisek pavilonja az állatkert fénypontja.",
+            "ro": "Pavilionul tigrilor albi este punctul culminant al grădinii zoologice.",
+            "en": "The white tiger pavilion is the highlight of the zoo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Göding beginnt auf dem lebhaften Masaryk-Platz. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich des Rathauses und der ehrwürdigen Laurentiuskirche. Mittags tauchen Sie in die mährische Kultur ein, mit Besuchen in der Kunstgalerie und dem dem berühmten Sohn der Stadt gewidmeten Masaryk-Museum. Der Nachmittag steht ganz im Zeichen der Entspannung: Zuerst regenerieren Sie im Heilbad, bevor Sie den Tag mit einem gemütlichen Spaziergang durch den bekannten Zoo von Göding ausklingen lassen. Am Abend genießen Sie die lokale Gastfreundschaft in einem der traditionellen Restaurants.",
+        "hu": "A gödingi séta a nyüzsgő Masaryk téren kezdődik. Délelőtt a város történelmi szívét fedezi fel, beleértve a Városházát és a tiszteletreméltó Szent Lőrinc-templomot. Délben elmerül a morva kultúrában a Művészeti Galéria és a város híres szülöttének szentelt Masaryk Múzeum meglátogatásával. A délután a pihenésé: először a gyógyfürdőben regenerálódik, majd egy kellemes sétával zárja a napot Göding híres állatkertjében. Este élvezze a helyi vendégszeretetet egy hagyományos étteremben.",
+        "ro": "Plimbarea dvs. prin Hodonín începe în vibranta Piață Masaryk. Dimineața explorați inima istorică a orașului, inclusiv Primăria și venerabila Biserică Sf. Laurențiu. La prânz, vă scufundați în cultura moravă cu vizite la Galeria de Artă și Muzeul Masaryk, dedicat faimosului fiu al orașului. După-amiaza este dedicată relaxării: mai întâi vă regenerați la băile termale, înainte de a încheia ziua cu o plimbare agale prin renumita grădină zoologică din Hodonín. Seara, bucurați-vă de ospitalitatea locală la unul dintre restaurantele tradiționale.",
+        "en": "Your walk through Hodonín begins in the lively Masaryk Square. In the morning, you'll explore the historic heart of the city, including the Town Hall and the venerable St. Lawrence Church. At noon, you'll immerse yourself in Moravian culture with visits to the Art Gallery and the Masaryk Museum, dedicated to the city's famous son. The afternoon is all about relaxation: first, you'll rejuvenate at the spa, then conclude the day with a leisurely stroll through Hodonín's renowned zoo. In the evening, enjoy the local hospitality at a traditional restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mährischer Spatz (Moravský vrabec)",
+            "tip": "Schweinebraten mit Knödeln und Kraut – ein herzhaftes, lokales Gericht."
+          },
+          {
+            "name": "Zwiebelkuchen (Cibulový koláč)",
+            "tip": "Ein pikanter Kuchen, der perfekt zu einem Glas Wein aus der Region passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morva veréb (Moravský vrabec)",
+            "tip": "Sertéssült knédlivel és káposztával – egy kiadós helyi étel."
+          },
+          {
+            "name": "Hagymás lepény (Cibulový koláč)",
+            "tip": "Sós lepény, amely tökéletesen illik egy pohár helyi borhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vrăbiuța moravă (Moravský vrabec)",
+            "tip": "Friptură de porc cu găluște și varză – un fel de mâncare local consistent."
+          },
+          {
+            "name": "Plăcintă cu ceapă (Cibulový koláč)",
+            "tip": "O plăcintă savuroasă care se potrivește perfect cu un pahar de vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moravian Sparrow (Moravský vrabec)",
+            "tip": "Roast pork with dumplings and cabbage – a hearty, local dish."
+          },
+          {
+            "name": "Onion Pie (Cibulový koláč)",
+            "tip": "A savory pie that pairs perfectly with a glass of local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Heilbad",
+            "tip": "Nach dem Bad eine Runde durch den ruhigen Park drehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der March",
+            "tip": "Ein Spaziergang entlang des Flusses bietet Ruhe und Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Laurentiuskirche",
+            "tip": "Ein Moment der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A gyógyfürdő parkja",
+            "tip": "Fürdés után tegyen egy kört a csendes parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Morva folyó partja",
+            "tip": "A folyó menti séta nyugalmat és természetet kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szent Lőrinc-templom belseje",
+            "tip": "A csend és az elmélkedés pillanata.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la băile termale",
+            "tip": "După baie, faceți o plimbare prin parcul liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Morava",
+            "tip": "O plimbare de-a lungul râului oferă liniște și natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Bisericii Sf. Laurențiu",
+            "tip": "Un moment de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spa Park",
+            "tip": "Take a stroll through the quiet park after your bath.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Morava River",
+            "tip": "A walk along the river offers peace and nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside St. Lawrence Church",
+            "tip": "A moment of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist für ihren Wein bekannt. Kaufen Sie eine Flasche als Souvenir."
+          },
+          {
+            "name": "Handwerkskunst",
+            "tip": "Suchen Sie nach handgemachten Produkten auf lokalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "A régió a borairól ismert. Vegyen egy üveggel szuvenírként."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keressen kézzel készített termékeket a helyi piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru vinul său. Cumpărați o sticlă ca suvenir."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Căutați produse realizate manual în piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "The region is known for its wine. Buy a bottle as a souvenir."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Look for handmade products at local markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Planen Sie genügend Zeit für das Heilbad ein, es ist sehr entspannend.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Die beste Zeit für einen Besuch ist im späten Frühling oder frühen Herbst."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Szánjon elég időt a gyógyfürdőre, nagyon pihentető.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "A látogatásra a legjobb idő a késő tavasz vagy a kora ősz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Rezervați suficient timp pentru băile termale, sunt foarte relaxante.",
+          "Verificați în avans programul de funcționare al muzeelor.",
+          "Cel mai bun moment pentru a vizita este primăvara târziu sau toamna devreme."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Allow plenty of time for the spa, it is very relaxing.",
+          "Check the opening hours of the museums in advance.",
+          "The best time to visit is in late spring or early autumn."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.13,
+            48.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Încuietoarea bicicletei și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der bildenden Künste",
+            "hu": "Képzőművészeti Galéria",
+            "ro": "Galeria de Arte Plastice",
+            "en": "Gallery of Fine Arts"
+          },
+          "coords": [
+            17.1288,
+            48.8465
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle Dosis Kultur, bevor die Radtour richtig losgeht.",
+            "hu": "Egy gyors adag kultúra, mielőtt a biciklitúra igazán elkezdődik.",
+            "ro": "O doză rapidă de cultură înainte de a începe cu adevărat turul cu bicicleta.",
+            "en": "A quick dose of culture before the bike tour really kicks off."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Museum",
+            "hu": "Masaryk Múzeum",
+            "ro": "Muzeul Masaryk",
+            "en": "Masaryk Museum"
+          },
+          "coords": [
+            17.1275,
+            48.851
+          ],
+          "category": "museums",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren zum Museum ist eine gute Möglichkeit, die Stadt zu sehen.",
+            "hu": "A múzeumhoz biciklizni remek módja a városnézésnek.",
+            "ro": "Mersul cu bicicleta la muzeu este o modalitate excelentă de a vedea orașul.",
+            "en": "Cycling to the museum is a great way to see the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Denkmal",
+            "hu": "Masaryk-emlékmű",
+            "ro": "Monumentul Masaryk",
+            "en": "Masaryk Monument"
+          },
+          "coords": [
+            17.126,
+            48.8515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um dem Gründungspräsidenten die Ehre zu erweisen.",
+            "hu": "Egy rövid megálló, hogy tisztelegjünk az alapító elnök előtt.",
+            "ro": "O scurtă oprire pentru a aduce un omagiu președintelui fondator.",
+            "en": "A quick stop to pay respects to the founding president."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilbad Hodonín",
+            "hu": "Hodoníni Gyógyfürdő",
+            "ro": "Băile Termale Hodonín",
+            "en": "Spa Hodonín"
+          },
+          "coords": [
+            17.1125,
+            48.8555
+          ],
+          "category": "natural features",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und um die Muskeln zu entspannen.",
+            "hu": "Tökéletes egy ebédszünetre és az izmok ellazítására.",
+            "ro": "Perfect pentru o pauză de prânz și pentru a vă relaxa mușchii.",
+            "en": "Perfect for a lunch break and to relax your muscles."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Hodonín",
+            "hu": "Hodoníni Állatkert",
+            "ro": "Zoo Hodonín",
+            "en": "Zoo Hodonín"
+          },
+          "coords": [
+            17.0988,
+            48.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Zoo ist weitläufig, das Fahrrad hilft, von A nach B zu kommen.",
+            "hu": "Az állatkert tágas, a bicikli segít eljutni A-ból B-be.",
+            "ro": "Grădina zoologică este întinsă, bicicleta vă ajută să ajungeți de la A la B.",
+            "en": "The zoo is spacious, the bike helps to get from A to B."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Masaryk-Platz",
+            "hu": "Vissza a Masaryk térre",
+            "ro": "Înapoi în Piața Masaryk",
+            "en": "Return to Masaryk Square"
+          },
+          "coords": [
+            17.13,
+            48.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour, wo sie begann, und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Fejezze be a túrát ott, ahol kezdődött, és élvezzen egy jól megérdemelt vacsorát.",
+            "ro": "Încheiați turul acolo unde a început și bucurați-vă de o cină binemeritată.",
+            "en": "End the tour where it began and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad für eine dynamische Tour durch Göding. Der Vormittag führt Sie vom Masaryk-Platz zu kulturellen Höhepunkten wie der Kunstgalerie und dem Masaryk-Museum, mit einem kurzen Stopp am Denkmal. Die Mittagszeit ist für eine ausgiebige Erholungspause im berühmten Heilbad reserviert – eine perfekte Stärkung für die zweite Tageshälfte. Am Nachmittag radeln Sie zum weitläufigen Zoo, um die Tierwelt zu erkunden. Die Tour schließt den Kreis mit der Rückkehr zum Masaryk-Platz, wo Sie den Abend ausklingen lassen können.",
+        "hu": "Pattanjon biciklire egy dinamikus gödingi túrához. A délelőtt a Masaryk térről kulturális fénypontokhoz, például a Művészeti Galériához és a Masaryk Múzeumhoz vezet, egy rövid megállóval az emlékműnél. Az ebédidő a híres gyógyfürdőben való kiadós pihenésre van fenntartva – tökéletes feltöltődés a nap második felére. Délután a tágas állatkertbe teker, hogy felfedezze az állatvilágot. A túra a Masaryk térre való visszatéréssel zárul, ahol az estét töltheti.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur dinamic prin Hodonín. Dimineața vă poartă din Piața Masaryk la obiective culturale precum Galeria de Artă și Muzeul Masaryk, cu o scurtă oprire la monument. Pauza de prânz este rezervată pentru o relaxare extinsă la faimoasele băi termale – o modalitate perfectă de a vă reîncărca pentru a doua jumătate a zilei. După-amiaza, pedalați spre întinsa grădină zoologică pentru a explora fauna. Turul se încheie cu întoarcerea în Piața Masaryk, unde puteți petrece seara.",
+        "en": "Hop on your bike for a dynamic tour of Hodonín. The morning takes you from Masaryk Square to cultural highlights like the Art Gallery and the Masaryk Museum, with a brief stop at the monument. Lunchtime is reserved for an extensive relaxation break at the famous spa – a perfect recharge for the second half of the day. In the afternoon, you'll cycle to the spacious zoo to explore the wildlife. The tour comes full circle with a return to Masaryk Square, where you can round off the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Bier",
+            "tip": "Nach einer Radtour schmeckt ein kühles tschechisches Bier besonders gut."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse mit Pommes und Tatarsauce – ein Klassiker, der Energie gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör",
+            "tip": "Egy biciklitúra után különösen jól esik egy hideg cseh sör."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt hasábburgonyával és tartármártással – egy klasszikus, ami energiát ad."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea locală",
+            "tip": "După un tur cu bicicleta, o bere cehă rece este deosebit de bună."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Cașcaval pane cu cartofi prăjiți și sos tartar – un clasic care îți dă energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beer",
+            "tip": "A cold Czech beer tastes especially good after a bike ride."
+          },
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese with fries and tartar sauce – a classic that gives you energy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der March",
+            "tip": "Folgen Sie dem Fluss für eine friedliche Fahrt abseits der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo in den ruhigeren Stunden",
+            "tip": "Besuchen Sie den Zoo am späten Nachmittag für weniger Andrang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parkbank am Masaryk-Platz",
+            "tip": "Beobachten Sie das Treiben aus der Ferne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Morva mentén",
+            "tip": "Kövesse a folyót egy békés útra a várostól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Állatkert a csendesebb órákban",
+            "tip": "Látogasson el az állatkertbe késő délután, amikor kevesebb a tömeg.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pad a Masaryk téren",
+            "tip": "Figyelje a nyüzsgést távolról.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Morava",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina zoologică în orele mai liniștite",
+            "tip": "Vizitați grădina zoologică după-amiaza târziu pentru a evita aglomerația.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Piața Masaryk",
+            "tip": "Priviți agitația de la distanță.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Morava River",
+            "tip": "Follow the river for a peaceful ride away from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo during quieter hours",
+            "tip": "Visit the zoo in the late afternoon for fewer crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in Masaryk Square",
+            "tip": "Watch the hustle and bustle from a distance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Radfahrer."
+          },
+          {
+            "name": "Regionale Produkte",
+            "tip": "Halten Sie Ausschau nach kleinen Läden, die lokale Spezialitäten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban több kerékpáros bolt is található."
+          },
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen kis boltokat, amelyek helyi specialitásokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "În oraș există mai multe magazine pentru bicicliști."
+          },
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine mici care vând specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling accessories",
+            "tip": "There are several shops for cyclists in the city."
+          },
+          {
+            "name": "Regional products",
+            "tip": "Look out for small shops selling local specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie eine Wasserflasche mit.",
+          "Die Wege sind größtenteils flach, aber seien Sie auf einige leichte Steigungen vorbereitet.",
+          "Achten Sie auf Fußgänger in der Innenstadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Vigyen magával egy üveg vizet.",
+          "Az utak többnyire síkak, de készüljön fel néhány enyhe emelkedőre.",
+          "Vigyázzon a gyalogosokra a belvárosban."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați cu voi o sticlă de apă.",
+          "Traseele sunt în mare parte plate, dar fiți pregătiți pentru câteva urcări ușoare.",
+          "Fiți atenți la pietoni în centrul orașului."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Take a water bottle with you.",
+          "The paths are mostly flat, but be prepared for some slight inclines.",
+          "Watch out for pedestrians in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Zentrum (Cluster A)",
+            "hu": "Parkolás a központban (A klaszter)",
+            "ro": "Parcare în centru (Cluster A)",
+            "en": "Parking at the Center (Cluster A)"
+          },
+          "coords": [
+            17.1325,
+            48.8495
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt délelőttre, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru dimineață și explorați centrul pe jos.",
+            "en": "Park here for the morning and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            17.13,
+            48.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, umgeben von wichtigen Gebäuden.",
+            "hu": "A város szíve, fontos épületekkel körülvéve.",
+            "ro": "Inima orașului, înconjurată de clădiri importante.",
+            "en": "The heart of the city, surrounded by important buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Laurentiuskirche & Rathaus",
+            "hu": "Szent Lőrinc-templom és Városháza",
+            "ro": "Biserica Sf. Laurențiu & Primăria",
+            "en": "St. Lawrence Church & Town Hall"
+          },
+          "coords": [
+            17.1305,
+            48.8485
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két nevezetesség közel van egymáshoz, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două repere sunt apropiate și ușor de accesat pe jos.",
+            "en": "These two landmarks are close to each other and easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der bildenden Künste",
+            "hu": "Képzőművészeti Galéria",
+            "ro": "Galeria de Arte Plastice",
+            "en": "Gallery of Fine Arts"
+          },
+          "coords": [
+            17.1288,
+            48.8465
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Sammlung mährischer Kunst.",
+            "hu": "Fedezze fel a gazdag morva művészeti gyűjteményt.",
+            "ro": "Descoperiți bogata colecție de artă moravă.",
+            "en": "Discover the rich collection of Moravian art."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Zoo (Cluster B)",
+            "hu": "Utazás az állatkerthez (B klaszter)",
+            "ro": "Călătorie la Zoo (Cluster B)",
+            "en": "Drive to the Zoo (Cluster B)"
+          },
+          "coords": [
+            17.0988,
+            48.854
+          ],
+          "category": "transport",
+          "arrive_at": "12:28",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit für einen Szenenwechsel. Parken Sie am Zoo für den Nachmittag.",
+            "hu": "Ideje a helyszínváltoztatásnak. Parkoljon le az állatkertnél délutánra.",
+            "ro": "Timpul pentru o schimbare de decor. Parcați la grădina zoologică pentru după-amiază.",
+            "en": "Time for a change of scenery. Park at the zoo for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Hodonín & Mittagessen",
+            "hu": "Hodoníni Állatkert és ebéd",
+            "ro": "Zoo Hodonín & Prânz",
+            "en": "Zoo Hodonín & Lunch"
+          },
+          "coords": [
+            17.0995,
+            48.8542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 240,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag hier, essen Sie im Zoo-Restaurant zu Mittag.",
+            "hu": "Töltse itt a délutánt, ebédeljen az állatkerti étteremben.",
+            "ro": "Petreceți după-amiaza aici, luați prânzul la restaurantul grădinii zoologice.",
+            "en": "Spend the afternoon here, have lunch at the zoo restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Göding beginnt bequem mit dem Auto. Parken Sie im Zentrum (Cluster A) und entdecken Sie vormittags zu Fuß den Masaryk-Platz, die Laurentiuskirche und die Kunstgalerie. Gegen Mittag fahren Sie zum Cluster B. Der Nachmittag gehört ganz dem berühmten Zoo von Göding, wo Sie in aller Ruhe die Tiere beobachten und auch zu Mittag essen können. Diese Route kombiniert städtische Kultur mit entspannter Natur und minimiert den Parkstress.",
+        "hu": "A gödingi nap kényelmesen, autóval kezdődik. Parkoljon a központban (A klaszter), és délelőtt gyalog fedezze fel a Masaryk teret, a Szent Lőrinc-templomot és a Művészeti Galériát. Dél körül autózzon át a B klaszterbe. A délután teljes egészében Göding híres állatkertjének szentelt, ahol nyugodtan megfigyelheti az állatokat és ebédelhet is. Ez az útvonal a városi kultúrát a pihentető természettel ötvözi, és minimalizálja a parkolási stresszt.",
+        "ro": "Ziua în Hodonín începe confortabil cu mașina. Parcați în centru (Cluster A) și explorați pe jos dimineața Piața Masaryk, Biserica Sf. Laurențiu și Galeria de Artă. În jurul prânzului, conduceți spre Cluster B. După-amiaza este dedicată în întregime faimoasei grădini zoologice din Hodonín, unde puteți observa animalele în tihnă și puteți lua prânzul. Acest traseu combină cultura urbană cu natura relaxantă și minimizează stresul parcării.",
+        "en": "Your day in Hodonín starts comfortably by car. Park in the center (Cluster A) and explore Masaryk Square, St. Lawrence Church, and the Art Gallery on foot in the morning. Around noon, drive to Cluster B. The afternoon is entirely dedicated to Hodonín's famous zoo, where you can leisurely observe the animals and have lunch. This route combines urban culture with relaxing nature and minimizes parking stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Zoo",
+            "tip": "Praktisch für ein Mittagessen ohne die Tour zu unterbrechen."
+          },
+          {
+            "name": "Klobása (Wurst)",
+            "tip": "Ein schneller und leckerer Snack, den man oft auf Märkten findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem az állatkertben",
+            "tip": "Praktikus egy ebédhez anélkül, hogy megszakítaná a túrát."
+          },
+          {
+            "name": "Klobása (kolbász)",
+            "tip": "Gyors és finom harapnivaló, amelyet gyakran találni a piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Zoo",
+            "tip": "Practic pentru un prânz fără a întrerupe turul."
+          },
+          {
+            "name": "Klobása (cârnat)",
+            "tip": "O gustare rapidă și delicioasă, adesea găsită în piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the Zoo",
+            "tip": "Practical for lunch without interrupting the tour."
+          },
+          {
+            "name": "Klobása (sausage)",
+            "tip": "A quick and tasty snack often found at markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Teich im Zoo",
+            "tip": "Ein ruhiger Ort, um die Wasservögel zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht auf dem Weg zwischen den Clustern.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Ein ruhiger Winkel in der Kunstgalerie",
+            "tip": "Finden Sie eine Bank und betrachten Sie ein Kunstwerk in Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A tó az állatkertben",
+            "tip": "Csendes hely a vízimadarak megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Autózás a tájon keresztül",
+            "tip": "Élvezze a kilátást a klaszterek közötti úton.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Egy csendes sarok a művészeti galériában",
+            "tip": "Keressen egy padot, és szemléljen egy műalkotást nyugalomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul de la grădina zoologică",
+            "tip": "Un loc liniștit pentru a observa păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare cu mașina prin peisaj",
+            "tip": "Bucurați-vă de priveliște pe drumul dintre clustere.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Un colț liniștit în galeria de artă",
+            "tip": "Găsiți o bancă și contemplați o operă de artă în liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The pond at the zoo",
+            "tip": "A quiet place to watch the water birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drive through the countryside",
+            "tip": "Enjoy the view on the way between clusters.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "A quiet corner in the art gallery",
+            "tip": "Find a bench and contemplate a work of art in peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zoo-Souvenirladen",
+            "tip": "Finden Sie ein Andenken an die weißen Tiger."
+          },
+          {
+            "name": "Tankstellenshops",
+            "tip": "Gut für Snacks und Getränke für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állatkerti ajándékbolt",
+            "tip": "Találjon egy emléket a fehér tigrisekről."
+          },
+          {
+            "name": "Benzinkút boltok",
+            "tip": "Jó rágcsálnivalókhoz és italokhoz útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri de la Zoo",
+            "tip": "Găsiți un suvenir cu tigrii albi."
+          },
+          {
+            "name": "Magazinele de la benzinării",
+            "tip": "Bune pentru gustări și băuturi pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo souvenir shop",
+            "tip": "Find a souvenir of the white tigers."
+          },
+          {
+            "name": "Gas station shops",
+            "tip": "Good for snacks and drinks on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach einem Tagesparkplatz, das ist oft günstiger.",
+          "Stellen Sie das Navi vor der Fahrt zum nächsten Cluster ein.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche.",
+          "Nehmen Sie Kleingeld für Parkautomaten mit."
+        ],
+        "hu": [
+          "Keressen egy egész napos parkolót, ez gyakran olcsóbb.",
+          "Állítsa be a GPS-t, mielőtt a következő klaszterhez hajt.",
+          "A klaszter-stratégia időt és idegeket takarít meg a parkolóhely-keresésnél.",
+          "Vigyen magával aprópénzt a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Căutați o parcare de o zi, este adesea mai ieftină.",
+          "Setați GPS-ul înainte de a conduce spre următorul cluster.",
+          "Strategia clusterelor economisește timp și nervi în căutarea unui loc de parcare.",
+          "Luați cu voi mărunțiș pentru automatele de parcare."
+        ],
+        "en": [
+          "Look for a day parking lot, it's often cheaper.",
+          "Set the GPS before driving to the next cluster.",
+          "The cluster strategy saves time and nerves when looking for a parking space.",
+          "Bring change for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Masaryk-Platz (Cluster A)",
+            "hu": "Érkezés a Masaryk térre (A klaszter)",
+            "ro": "Sosire în Piața Masaryk (Cluster A)",
+            "en": "Arrival at Masaryk Square (Cluster A)"
+          },
+          "coords": [
+            17.13,
+            48.8485
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public.",
+            "en": "Buy a day ticket for public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            17.1295,
+            48.8492
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a tértől.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Museum",
+            "hu": "Masaryk Múzeum",
+            "ro": "Muzeul Masaryk",
+            "en": "Masaryk Museum"
+          },
+          "coords": [
+            17.1275,
+            48.851
+          ],
+          "category": "museums",
+          "arrive_at": "10:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den berühmtesten Sohn der Stadt.",
+            "hu": "Tudjon meg mindent a város leghíresebb szülöttéről.",
+            "ro": "Aflați totul despre cel mai faimos fiu al orașului.",
+            "en": "Learn all about the city's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Heilbad (Cluster B)",
+            "hu": "Utazás a gyógyfürdőhöz (B klaszter)",
+            "ro": "Călătorie la Băile Termale (Cluster B)",
+            "en": "Trip to the Spa (Cluster B)"
+          },
+          "coords": [
+            17.1125,
+            48.8555
+          ],
+          "category": "transport",
+          "arrive_at": "12:11",
+          "stay_min": 0,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, um bequem zum Spa-Bereich zu gelangen.",
+            "hu": "Menjen busszal, hogy kényelmesen eljusson a fürdő területére.",
+            "ro": "Luați autobuzul pentru a ajunge confortabil la zona spa.",
+            "en": "Take the bus to get to the spa area comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilbad Hodonín",
+            "hu": "Hodoníni Gyógyfürdő",
+            "ro": "Băile Termale Hodonín",
+            "en": "Spa Hodonín"
+          },
+          "coords": [
+            17.113,
+            48.855
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für eine ausgedehnte Mittagspause inklusive Entspannung.",
+            "hu": "Ideális egy hosszabb ebédszünethez, pihenéssel egybekötve.",
+            "ro": "Ideal pentru o pauză de prânz prelungită, inclusiv relaxare.",
+            "en": "Ideal for an extended lunch break, including relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Hodonín",
+            "hu": "Hodoníni Állatkert",
+            "ro": "Zoo Hodonín",
+            "en": "Zoo Hodonín"
+          },
+          "coords": [
+            17.0988,
+            48.854
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Spa aus ist es nur ein kurzer Spaziergang zum Zoo.",
+            "hu": "A fürdőtől csak egy rövid séta az állatkert.",
+            "ro": "De la spa este doar o scurtă plimbare până la grădina zoologică.",
+            "en": "It's just a short walk from the spa to the zoo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Göding entspannt und effizient. Starten Sie am Masaryk-Platz (Cluster A) und besichtigen Sie die Highlights des Stadtzentrums zu Fuß. Ein Bus bringt Sie mittags bequem zum zweiten Cluster, der ganz im Zeichen von Wellness und Natur steht. Gönnen Sie sich eine lange Pause im Heilbad, bevor Sie den Nachmittag bei den Tieren im nahen Zoo verbringen. Diese Tour ist ideal, um ohne Auto das Beste aus Kultur und Erholung zu verbinden.",
+        "hu": "A tömegközlekedéssel Gödinget pihentetően és hatékonyan fedezheti fel. Kezdje a Masaryk téren (A klaszter), és gyalog tekintse meg a városközpont nevezetességeit. Délben egy busz kényelmesen elviszi a második klaszterhez, amely a wellness és a természet jegyében telik. Engedjen meg magának egy hosszú szünetet a gyógyfürdőben, mielőtt a délutánt az állatok között tölti a közeli állatkertben. Ez a túra ideális arra, hogy autó nélkül összekapcsolja a kultúra és a pihenés legjavát.",
+        "ro": "Cu transportul public, explorați Hodonín într-un mod relaxat și eficient. Începeți din Piața Masaryk (Cluster A) și vizitați pe jos atracțiile din centrul orașului. La prânz, un autobuz vă va duce confortabil la al doilea cluster, dedicat wellness-ului și naturii. Acordați-vă o pauză lungă la băile termale înainte de a petrece după-amiaza printre animalele de la grădina zoologică din apropiere. Acest tur este ideal pentru a combina ce e mai bun din cultură și relaxare fără mașină.",
+        "en": "Explore Hodonín in a relaxed and efficient way using public transport. Start at Masaryk Square (Cluster A) and visit the city center highlights on foot. A bus will comfortably take you to the second cluster at lunchtime, which is dedicated to wellness and nature. Treat yourself to a long break at the spa before spending the afternoon with the animals at the nearby zoo. This tour is ideal for combining the best of culture and relaxation without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das man oft an Straßenständen findet – perfekt für unterwegs."
+          },
+          {
+            "name": "Restaurant in der Nähe einer Haltestelle",
+            "tip": "Wählen Sie ein Lokal, das gut erreichbar ist, um keine Zeit zu verlieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács (Trdelník)",
+            "tip": "Édes sütemény, amelyet gyakran találni az utcai árusoknál – tökéletes útközben."
+          },
+          {
+            "name": "Étterem egy megálló közelében",
+            "tip": "Válasszon egy könnyen megközelíthető helyet, hogy ne veszítsen időt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozonac secuiesc (Trdelník)",
+            "tip": "Un produs de patiserie dulce, adesea găsit la standurile stradale – perfect pentru drum."
+          },
+          {
+            "name": "Restaurant lângă o stație",
+            "tip": "Alegeți un local ușor accesibil pentru a nu pierde timp."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry often found at street stalls – perfect for on the go."
+          },
+          {
+            "name": "Restaurant near a bus stop",
+            "tip": "Choose a place that is easily accessible so you don't waste time."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Beobachten Sie das Stadtleben auf der Fahrt zwischen den Clustern.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Spa-Garten",
+            "tip": "Ein Ort der Ruhe vor oder nach dem Bad.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die weniger besuchten Gehege im Zoo",
+            "tip": "Entdecken Sie die ruhigeren Ecken des Parks.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Figyelje a városi életet a klaszterek közötti utazás során.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a fürdő kertjében",
+            "tip": "A nyugalom helye fürdés előtt vagy után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A kevésbé látogatott kifutók az állatkertben",
+            "tip": "Fedezze fel a park csendesebb sarkait.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Observați viața orașului în timpul călătoriei între clustere.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în grădina spa-ului",
+            "tip": "Un loc de liniște înainte sau după baie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Incinctele mai puțin vizitate de la zoo",
+            "tip": "Descoperiți colțurile mai liniștite ale parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the bus window",
+            "tip": "Watch city life go by as you travel between clusters.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the spa garden",
+            "tip": "A place of peace before or after your bath.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The less visited enclosures at the zoo",
+            "tip": "Discover the quieter corners of the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in der Innenstadt",
+            "tip": "Abseits der Hauptstraßen finden sich oft einzigartige Geschäfte."
+          },
+          {
+            "name": "Broschüren und Karten",
+            "tip": "Sammeln Sie Informationen für Ihren nächsten Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok a belvárosban",
+            "tip": "A főutcáktól távol gyakran találni egyedi üzleteket."
+          },
+          {
+            "name": "Brossúrák és térképek",
+            "tip": "Gyűjtsön információt a következő látogatásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine mici în centrul orașului",
+            "tip": "Departe de străzile principale, veți găsi adesea magazine unice."
+          },
+          {
+            "name": "Broșuri și hărți",
+            "tip": "Colectați informații pentru următoarea vizită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small shops in the city center",
+            "tip": "You can often find unique shops off the main streets."
+          },
+          {
+            "name": "Brochures and maps",
+            "tip": "Collect information for your next visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App herunter oder fotografieren Sie den Plan an der Haltestelle.",
+          "Eine Tageskarte ist meist die beste Option.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum.",
+          "Planen Sie etwas Pufferzeit für eventuelle Verspätungen ein."
+        ],
+        "hu": [
+          "Töltse le a menetrend-alkalmazást, vagy fotózza le a tervet a megállóban.",
+          "A napijegy általában a legjobb választás.",
+          "Figyeljen az utolsó buszjáratra vissza a központba.",
+          "Számoljon némi pufferidővel az esetleges késésekre."
+        ],
+        "ro": [
+          "Descărcați aplicația cu orare sau fotografiați orarul din stație.",
+          "Un bilet de o zi este de obicei cea mai bună opțiune.",
+          "Fiți atenți la ultimul autobuz înapoi spre centru.",
+          "Planificați un timp tampon pentru posibile întârzieri."
+        ],
+        "en": [
+          "Download the timetable app or take a photo of the schedule at the bus stop.",
+          "A day ticket is usually the best option.",
+          "Pay attention to the last bus connection back to the center.",
+          "Allow some buffer time for possible delays."
+        ]
+      }
+    }
+  }
+}

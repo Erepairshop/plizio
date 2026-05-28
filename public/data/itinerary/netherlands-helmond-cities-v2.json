@@ -1,0 +1,1460 @@
+{
+  "city_id": "netherlands-helmond-cities-v2",
+  "anchor": {
+    "name": "Helmond",
+    "coords": [
+      5.6611,
+      51.4811
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Helmond",
+            "hu": "Helmondi kastély",
+            "ro": "Castelul Helmond",
+            "en": "Kasteel Helmond"
+          },
+          "coords": [
+            5.663,
+            51.4805
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das größte Wasserschloss der Niederlande, erkunden Sie die Keller!",
+            "hu": "Hollandia legnagyobb vízikastélya, fedezze fel a pincéjét!",
+            "ro": "Cel mai mare castel pe apă din Olanda, explorați pivnițele!",
+            "en": "The largest water castle in the Netherlands, explore the cellars!"
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Lambertuskerk",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Sf. Lambertus",
+            "en": "Sint-Lambertuskerk"
+          },
+          "coords": [
+            5.659,
+            51.479
+          ],
+          "category": "churches",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a neogótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică și vitraliile impresionante.",
+            "en": "Admire the neo-Gothic architecture and the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kubuswohnungen (Würfelhäuser)",
+            "hu": "Kockaházak (Kubuswoningen)",
+            "ro": "Casele cubice (Kubuswoningen)",
+            "en": "Cube Houses (Kubuswoningen)"
+          },
+          "coords": [
+            5.654,
+            51.478
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ikonisches Beispiel für moderne Architektur. Fotografieren Sie aus verschiedenen Blickwinkeln.",
+            "hu": "A modern építészet ikonikus példája. Fotózza le több szögből is!",
+            "ro": "Un exemplu iconic de arhitectură modernă. Faceți fotografii din unghiuri diferite.",
+            "en": "An iconic example of modern architecture. Take photos from different angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Helmond",
+            "hu": "Helmond Múzeum",
+            "ro": "Muzeul Helmond",
+            "en": "Museum Helmond"
+          },
+          "coords": [
+            5.6625,
+            51.4808
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich teilweise im Schloss und in der Kunsthal.",
+            "hu": "A múzeum részben a kastélyban, részben a Kunsthalban található.",
+            "ro": "Muzeul este situat parțial în castel și în Kunsthal.",
+            "en": "The museum is partly located in the castle and in the Kunsthal."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielles Atrium",
+            "hu": "Ipari Átrium",
+            "ro": "Atriumul Industrial",
+            "en": "Industrieel Atrium"
+          },
+          "coords": [
+            5.668,
+            51.484
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Helmonds industrielle Vergangenheit in diesem einzigartigen Raum.",
+            "hu": "Ismerje meg Helmond ipari múltját ebben az egyedülálló térben.",
+            "ro": "Aflați despre trecutul industrial al Helmondului în acest spațiu unic.",
+            "en": "Learn about Helmond's industrial past in this unique space."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark",
+            "hu": "Warandepark",
+            "ro": "Parcul Warande",
+            "en": "Warandepark"
+          },
+          "coords": [
+            5.645,
+            51.485
+          ],
+          "category": "parks",
+          "arrive_at": "15:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort zum Entspannen. Suchen Sie nach den Skulpturen im Park.",
+            "hu": "Egy szép hely a pihenésre. Keresse meg a szobrokat a parkban.",
+            "ro": "Un loc frumos pentru relaxare. Căutați sculpturile din parc.",
+            "en": "A beautiful place to relax. Look for the sculptures scattered in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am majestätischen Wasserschloss von Helmond. Der Morgen ist der Erkundung des historischen Herzens der Stadt gewidmet, einschließlich der gotischen Pracht der Sint-Lambertuskerk. Am Mittag tauchen Sie in die moderne Architektur bei den berühmten Kubushäusern ein, bevor Sie die Kunst und Geschichte im Museum Helmond genießen. Am Nachmittag erleben Sie das industrielle Erbe der Stadt im Atrium und finden anschließend Ruhe und Grün im weitläufigen Warandepark. Schließen Sie den Tag mit einem gemütlichen Spaziergang durch die belebten Straßen ab und genießen Sie ein lokales Gericht.",
+        "hu": "Kezdje a napot Helmond fenséges vízikastélyánál. A délelőtt a város történelmi szívének felfedezésével telik, beleértve a Szent Lambert-templom gótikus pompáját. Délben merüljön el a modern építészetben a híres Kockaházaknál, mielőtt a Helmond Múzeum művészetét és történelmét élvezné. Délután fedezze fel a város ipari örökségét az Átriumban, majd találjon nyugalmat és zöldet a tágas Warandeparkban. Zárja a napot egy kellemes sétával a nyüzsgő utcákon, és kóstoljon meg egy helyi ételt.",
+        "ro": "Începeți ziua la maiestuosul castel pe apă din Helmond. Dimineața este dedicată explorării inimii istorice a orașului, inclusiv splendorii gotice a Bisericii Sf. Lambertus. La prânz, scufundați-vă în arhitectura modernă la faimoasele Case Cubice, înainte de a vă bucura de artă și istorie la Muzeul Helmond. După-amiaza, experimentați patrimoniul industrial al orașului la Atrium, apoi găsiți liniște și verdeață în vastul Parc Warande. Încheiați ziua cu o plimbare pe străzile pline de viață și savurați un fel de mâncare local.",
+        "en": "Start your day at Helmond's majestic water castle. The morning is for exploring the historic heart of the city, including the Gothic splendor of Sint-Lambertuskerk. At midday, immerse yourself in modern architecture at the famous Cube Houses before enjoying the art and history at Museum Helmond. In the afternoon, experience the city's industrial heritage at the Atrium and then find peace and greenery in the expansive Warandepark. End the day with a leisurely stroll through the bustling streets and enjoy a local dish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brabander Worstenbroodje",
+            "tip": "Ein herzhafter Snack, perfekt für zwischendurch. In fast jeder Bäckerei erhältlich."
+          },
+          {
+            "name": "De Rozario",
+            "tip": "Ein indonesisches Restaurant mit Michelin-Stern für ein besonderes Abendessen."
+          },
+          {
+            "name": "L'Oceaan",
+            "tip": "Frische Meeresfrüchte und Fischgerichte in einem stilvollen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brabanti kolbászos tekercs",
+            "tip": "Kiadós harapnivaló, tökéletes útközben. Szinte minden pékségben kapható."
+          },
+          {
+            "name": "De Rozario",
+            "tip": "Michelin-csillagos indonéz étterem egy különleges vacsorához."
+          },
+          {
+            "name": "L'Oceaan",
+            "tip": "Friss tenger gyümölcsei és halételek stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat în foietaj de Brabant",
+            "tip": "O gustare consistentă, perfectă pentru drum. Disponibilă la aproape orice brutărie."
+          },
+          {
+            "name": "De Rozario",
+            "tip": "Un restaurant indonezian cu stea Michelin pentru o cină specială."
+          },
+          {
+            "name": "L'Oceaan",
+            "tip": "Fructe de mare proaspete și preparate din pește într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brabant Sausage Roll (Worstenbroodje)",
+            "tip": "A savory snack, perfect on the go. Available at almost any bakery."
+          },
+          {
+            "name": "De Rozario",
+            "tip": "A Michelin-starred Indonesian restaurant for a special dinner."
+          },
+          {
+            "name": "L'Oceaan",
+            "tip": "Fresh seafood and fish dishes in a stylish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warandepark",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang entlang des Kanals",
+            "tip": "Die ruhigen Wege entlang des Zuid-Willemsvaart sind perfekt für einen besinnlichen Moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlossgarten",
+            "tip": "Der Bereich um das Schloss ist oft ruhiger als das Innere.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warandepark",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a csatorna mentén",
+            "tip": "A Zuid-Willemsvaart csatorna menti csendes ösvények tökéletesek egy elmélkedő pillanathoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélykert",
+            "tip": "A kastély körüli terület gyakran csendesebb, mint a belseje.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Warande",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare de-a lungul canalului",
+            "tip": "Căile liniștite de-a lungul Zuid-Willemsvaart sunt perfecte pentru un moment de reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina castelului",
+            "tip": "Zona din jurul castelului este adesea mai liniștită decât interiorul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Warandepark",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stroll along the canal",
+            "tip": "The quiet paths along the Zuid-Willemsvaart are perfect for a reflective moment.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Garden",
+            "tip": "The area around the castle is often quieter than the inside.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt Helmond",
+            "tip": "Besuchen Sie den Wochenmarkt am Samstag für lokale Produkte und eine lebhafte Atmosphäre."
+          },
+          {
+            "name": "Elzaspassage",
+            "tip": "Ein modernes Einkaufszentrum mit einer Vielzahl von Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helmondi piac",
+            "tip": "Látogasson el a szombati hetipiacra helyi termékekért és élénk hangulatért."
+          },
+          {
+            "name": "Elzaspassage",
+            "tip": "Modern bevásárlóközpont, üzletek széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Helmond",
+            "tip": "Vizitați piața săptămânală de sâmbătă pentru produse locale și o atmosferă plină de viață."
+          },
+          {
+            "name": "Elzaspassage",
+            "tip": "Un centru comercial modern cu o varietate de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Helmond Market",
+            "tip": "Visit the weekly market on Saturday for local produce and a lively atmosphere."
+          },
+          {
+            "name": "Elzaspassage",
+            "tip": "A modern shopping mall with a variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Attraktionen im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog sétálni.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Vigyen magával újratölthető vizes palackot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Verificați în avans programul de funcționare al muzeelor.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most attractions in the center are within easy walking distance.",
+          "Check the opening hours of museums in advance.",
+          "Bring a reusable water bottle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Helmond",
+            "hu": "Helmondi kastély",
+            "ro": "Castelul Helmond",
+            "en": "Kasteel Helmond"
+          },
+          "coords": [
+            5.663,
+            51.4805
+          ],
+          "category": "castles",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Schloss betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a kastélyba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în castel.",
+            "en": "Lock your bike securely before entering the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Lambertuskerk",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Sf. Lambertus",
+            "en": "Sint-Lambertuskerk"
+          },
+          "coords": [
+            5.659,
+            51.479
+          ],
+          "category": "churches",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt an der Kirche vorbei.",
+            "hu": "A kerékpárút közvetlenül a templom mellett vezet el.",
+            "ro": "Pista de biciclete trece chiar pe lângă biserică.",
+            "en": "The cycle path passes right by the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kubuswohnungen",
+            "hu": "Kockaházak",
+            "ro": "Casele cubice",
+            "en": "Cube Houses"
+          },
+          "coords": [
+            5.654,
+            51.478
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein toller Fotostopp auf Ihrer Radtour.",
+            "hu": "Nagyszerű fotómegálló a kerékpártúrán.",
+            "ro": "O oprire foto excelentă în turul cu bicicleta.",
+            "en": "A great photo stop on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Het Speelhuis",
+            "hu": "Het Speelhuis Színház",
+            "ro": "Teatrul Het Speelhuis",
+            "en": "Het Speelhuis Theatre"
+          },
+          "coords": [
+            5.653,
+            51.4785
+          ],
+          "category": "theatres",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur des wiederaufgebauten Theaters.",
+            "hu": "Csodálja meg az újjáépített színház egyedi építészetét.",
+            "ro": "Admirați arhitectura unică a teatrului reconstruit.",
+            "en": "Admire the unique architecture of the rebuilt theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrielles Atrium",
+            "hu": "Ipari Átrium",
+            "ro": "Atriumul Industrial",
+            "en": "Industrieel Atrium"
+          },
+          "coords": [
+            5.668,
+            51.484
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Kanals führt Sie fast direkt dorthin.",
+            "hu": "A csatorna menti kerékpárút szinte egyenesen odavezet.",
+            "ro": "Pista de biciclete de-a lungul canalului vă duce aproape direct acolo.",
+            "en": "The bike path along the canal leads you almost directly there."
+          }
+        },
+        {
+          "name": {
+            "de": "Jan Visser Museum",
+            "hu": "Jan Visser Múzeum",
+            "ro": "Muzeul Jan Visser",
+            "en": "Jan Visser Museum"
+          },
+          "coords": [
+            5.675,
+            51.492
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kleines, aber feines Museum über lokales Handwerk.",
+            "hu": "Kicsi, de remek múzeum a helyi kézművességről.",
+            "ro": "Un muzeu mic, dar rafinat, despre meșteșugurile locale.",
+            "en": "A small but fine museum about local crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark",
+            "hu": "Warandepark",
+            "ro": "Parcul Warande",
+            "en": "Warandepark"
+          },
+          "coords": [
+            5.645,
+            51.485
+          ],
+          "category": "parks",
+          "arrive_at": "14:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Radpause. Es gibt viele Wege zum Erkunden.",
+            "hu": "Tökéletes egy kerékpáros pihenőhöz. Számos ösvényt fedezhet fel.",
+            "ro": "Perfect pentru o pauză de ciclism. Există multe cărări de explorat.",
+            "en": "Perfect for a bike break. There are plenty of paths to explore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Schloss Helmond. Radeln Sie durch das historische Zentrum zur Sint-Lambertuskerk und den futuristischen Kubushäusern. Nach einem kurzen Blick auf das Theater Het Speelhuis führt Sie Ihre Route entlang der Wasserwege zum industriellen Erbe der Stadt. Am Mittag entdecken Sie im Jan Visser Museum traditionelles Handwerk. Am Nachmittag radeln Sie zum weitläufigen Warandepark für eine ausgedehnte Pause im Grünen. Der Radweg zurück ins Zentrum ist ideal, um den Tag ausklingen zu lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Helmondi kastélynál. Tekerjen át a történelmi központon a Szent Lambert-templomhoz és a futurisztikus Kockaházakhoz. Miután vetett egy pillantást a Het Speelhuis színházra, az útvonal a vízi utak mentén a város ipari örökségéhez vezet. Délben fedezze fel a hagyományos mesterségeket a Jan Visser Múzeumban. Délután tekerjen el a tágas Warandeparkba egy hosszabb zöld pihenőre. A központba visszavezető kerékpárút ideális a nap lezárásához.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul la Castelul Helmond. Pedalați prin centrul istoric până la Biserica Sf. Lambertus și futuristele Case Cubice. După o scurtă privire la Teatrul Het Speelhuis, traseul vă duce de-a lungul căilor navigabile către patrimoniul industrial al orașului. La prânz, descoperiți meșteșugurile tradiționale la Muzeul Jan Visser. După-amiaza, pedalați spre vastul Parc Warande pentru o pauză lungă în natură. Pista de biciclete înapoi spre centru este ideală pentru a încheia ziua.",
+        "en": "Hop on your bike and start your tour at Kasteel Helmond. Cycle through the historic center to Sint-Lambertuskerk and the futuristic Cube Houses. After a quick look at Het Speelhuis theatre, your route takes you along the waterways to the city's industrial heritage. At noon, discover traditional crafts at the Jan Visser Museum. In the afternoon, cycle to the expansive Warandepark for an extended green break. The cycle path back to the center is ideal for winding down the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frietjes met Stoofvlees",
+            "tip": "Pommes mit einem reichhaltigen Rindereintopf, ein Klassiker aus Brabant."
+          },
+          {
+            "name": "Pannekoekenhuis De Coeckepanne",
+            "tip": "Riesige Auswahl an süßen und herzhaften Pfannkuchen."
+          },
+          {
+            "name": "Bobby's Bar",
+            "tip": "Gute Burger und eine große Auswahl an Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült krumpli pörkölttel (Stoofvlees)",
+            "tip": "Sült krumpli gazdag marhapörkölttel, egy brabanti klasszikus."
+          },
+          {
+            "name": "Pannekoekenhuis De Coeckepanne",
+            "tip": "Hatalmas választék édes és sós palacsintákból."
+          },
+          {
+            "name": "Bobby's Bar",
+            "tip": "Jó hamburgerek és nagy sörválaszték."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți cu tocană de vită (Stoofvlees)",
+            "tip": "Cartofi prăjiți cu o tocană bogată de vită, un clasic din Brabant."
+          },
+          {
+            "name": "Pannekoekenhuis De Coeckepanne",
+            "tip": "O selecție uriașă de clătite dulci și sărate."
+          },
+          {
+            "name": "Bobby's Bar",
+            "tip": "Burgeri buni și o selecție largă de beri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fries with Beef Stew (Stoofvlees)",
+            "tip": "Fries with a rich beef stew, a Brabant classic."
+          },
+          {
+            "name": "Pannekoekenhuis De Coeckepanne",
+            "tip": "Huge selection of sweet and savory pancakes."
+          },
+          {
+            "name": "Bobby's Bar",
+            "tip": "Good burgers and a wide selection of beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Kanals radeln",
+            "tip": "Die Wege sind flach und bieten eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warandepark",
+            "tip": "Es gibt viele abgelegene Plätze zum Ausruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frühmorgens am Schloss",
+            "tip": "Vor der Öffnung ist die Atmosphäre magisch und friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpározás a csatorna mentén",
+            "tip": "Az utak síkak és csendes menekülést kínálnak a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warandepark",
+            "tip": "Sok félreeső hely van a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a kastélynál",
+            "tip": "Nyitás előtt a hangulat varázslatos és békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pedalând de-a lungul canalului",
+            "tip": "Căile sunt plate și oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Warande",
+            "tip": "Există multe locuri retrase pentru odihnă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la castel",
+            "tip": "Înainte de deschidere, atmosfera este magică și pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling along the canal",
+            "tip": "The paths are flat and offer a quiet escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Warandepark",
+            "tip": "There are many secluded spots to rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the castle",
+            "tip": "Before it opens, the atmosphere is magical and peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Suchen Sie nach Geschäften, die Käse aus der Region Brabant verkaufen."
+          },
+          {
+            "name": "Veestraat",
+            "tip": "Eine der Haupteinkaufsstraßen mit Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtok",
+            "tip": "Keressen olyan üzleteket, amelyek brabanti sajtot árulnak."
+          },
+          {
+            "name": "Veestraat",
+            "tip": "Az egyik fő bevásárlóutca butikokkal és ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Căutați magazine care vând brânzeturi din regiunea Brabant."
+          },
+          {
+            "name": "Veestraat",
+            "tip": "Una dintre principalele străzi comerciale, cu buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shops",
+            "tip": "Look for shops selling cheese from the Brabant region."
+          },
+          {
+            "name": "Veestraat",
+            "tip": "One of the main shopping streets with boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Helmond ist sehr fahrradfreundlich.",
+          "Verwenden Sie eine Fahrradnavigations-App, um die besten Routen zu finden.",
+          "Tragen Sie einen Helm für die Sicherheit.",
+          "Achten Sie auf die komplizierten Kreuzungen in der Innenstadt."
+        ],
+        "hu": [
+          "Helmond nagyon kerékpárbarát.",
+          "Használjon kerékpáros navigációs alkalmazást a legjobb útvonalak megtalálásához.",
+          "Viseljen sisakot a biztonság érdekében.",
+          "Vigyázzon a bonyolult kereszteződésekre a belvárosban."
+        ],
+        "ro": [
+          "Helmond este foarte prietenos cu bicicletele.",
+          "Utilizați o aplicație de navigație pentru biciclete pentru a găsi cele mai bune rute.",
+          "Purtați o cască pentru siguranță.",
+          "Aveți grijă la intersecțiile complicate din centrul orașului."
+        ],
+        "en": [
+          "Helmond is very bike-friendly.",
+          "Use a bike navigation app to find the best routes.",
+          "Wear a helmet for safety.",
+          "Be mindful of the complex intersections in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Cluster 1)",
+            "hu": "Parkoló - Központ (1. Klaszter)",
+            "ro": "Parcare Centru (Cluster 1)",
+            "en": "Parking City Center (Cluster 1)"
+          },
+          "coords": [
+            5.66,
+            51.481
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag.",
+            "hu": "Parkoljon itt a délelőttre.",
+            "ro": "Parcați aici pentru dimineață.",
+            "en": "Park here for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Helmond",
+            "hu": "Helmondi kastély",
+            "ro": "Castelul Helmond",
+            "en": "Kasteel Helmond"
+          },
+          "coords": [
+            5.663,
+            51.4805
+          ],
+          "category": "castles",
+          "arrive_at": "09:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Lambertuskerk",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Sf. Lambertus",
+            "en": "Sint-Lambertuskerk"
+          },
+          "coords": [
+            5.659,
+            51.479
+          ],
+          "category": "churches",
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche dominiert die Skyline des Zentrums.",
+            "hu": "A templom uralja a központ látképét.",
+            "ro": "Biserica domină orizontul centrului.",
+            "en": "The church dominates the downtown skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kubuswohnungen",
+            "hu": "Kockaházak",
+            "ro": "Casele cubice",
+            "en": "Cube Houses"
+          },
+          "coords": [
+            5.654,
+            51.478
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie um den Komplex herum, um die beste Perspektive zu finden.",
+            "hu": "Sétálja körbe az épületegyüttest a legjobb perspektíva megtalálásához.",
+            "ro": "Plimbați-vă în jurul complexului pentru a găsi cea mai bună perspectivă.",
+            "en": "Walk around the complex to find the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Warandepark (Cluster 2)",
+            "hu": "Parkoló - Warandepark (2. Klaszter)",
+            "ro": "Parcare Warandepark (Cluster 2)",
+            "en": "Parking Warandepark (Cluster 2)"
+          },
+          "coords": [
+            5.646,
+            51.484
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Hier parken Sie für den Nachmittag. Es ist kostenlos.",
+            "hu": "Parkoljon itt délutánra. Ingyenes.",
+            "ro": "Parcați aici pentru după-amiază. Este gratuit.",
+            "en": "Park here for the afternoon. It's free."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark & Mittagessen",
+            "hu": "Warandepark és ebéd",
+            "ro": "Parcul Warande & Prânz",
+            "en": "Warandepark & Lunch"
+          },
+          "coords": [
+            5.645,
+            51.485
+          ],
+          "category": "parks",
+          "arrive_at": "12:18",
+          "stay_min": 150,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick oder besuchen Sie ein Café in der Nähe.",
+            "hu": "Piknikezzen vagy látogasson el egy közeli kávézóba.",
+            "ro": "Faceți un picnic sau vizitați o cafenea din apropiere.",
+            "en": "Have a picnic or visit a nearby café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens ins Zentrum von Helmond, parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß. Beginnen Sie am imposanten Schloss, schlendern Sie zur Sint-Lambertuskerk und bewundern Sie die architektonische Kühnheit der Kubushäuser. Mittags fahren Sie zum zweiten Cluster. Parken Sie in der Nähe des Warandeparks, wo Sie einen entspannten Nachmittag verbringen können. Genießen Sie ein Mittagessen in der Natur oder in einem nahegelegenen Restaurant, gefolgt von einem langen Spaziergang durch den Park. Am späten Nachmittag fahren Sie zurück, erfrischt von der Kombination aus urbaner Erkundung und Natur.",
+        "hu": "Reggel vezessen Helmond központjába, parkolja le az autót, és fedezze fel gyalog az első klasztert. Kezdje a lenyűgöző kastélynál, sétáljon el a Szent Lambert-templomhoz, és csodálja meg a Kockaházak építészeti merészségét. Délben hajtson át a második klaszterhez. Parkoljon a Warandepark közelében, ahol egy pihentető délutánt tölthet. Ebédeljen a természetben vagy egy közeli étteremben, majd tegyen egy hosszú sétát a parkban. Késő délután induljon vissza, felfrissülve a városi felfedezés és a természet kombinációjától.",
+        "ro": "Dimineața, conduceți spre centrul orașului Helmond, parcați mașina și explorați primul cluster pe jos. Începeți de la impunătorul castel, plimbați-vă până la Biserica Sf. Lambertus și admirați îndrăzneala arhitecturală a Caselor Cubice. La prânz, conduceți spre al doilea cluster. Parcați lângă Parcul Warande, unde puteți petrece o după-amiază relaxantă. Bucurați-vă de un prânz în natură sau la un restaurant din apropiere, urmat de o plimbare lungă prin parc. Spre sfârșitul după-amiezii, porniți înapoi, înviorați de combinația dintre explorarea urbană și natură.",
+        "en": "In the morning, drive to the center of Helmond, park your car, and explore the first cluster on foot. Start at the imposing castle, stroll to Sint-Lambertuskerk, and admire the architectural audacity of the Cube Houses. At noon, drive to the second cluster. Park near Warandepark, where you can spend a relaxing afternoon. Enjoy lunch in nature or at a nearby restaurant, followed by a long walk through the park. In the late afternoon, head back, refreshed by the combination of urban exploration and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant De Warande",
+            "tip": "Direkt am Park gelegen, ideal für ein Mittagessen nach dem Spaziergang."
+          },
+          {
+            "name": "Brasserie de Keizer",
+            "tip": "Klassische niederländische Gerichte in der Nähe des Zentrums."
+          },
+          {
+            "name": "Koffie-en eethuis 't Bels Lijntje",
+            "tip": "Ein gemütlicher Ort für Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant De Warande",
+            "tip": "Közvetlenül a park mellett található, ideális ebédre a séta után."
+          },
+          {
+            "name": "Brasserie de Keizer",
+            "tip": "Klasszikus holland ételek a központ közelében."
+          },
+          {
+            "name": "Koffie-en eethuis 't Bels Lijntje",
+            "tip": "Hangulatos hely egy kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant De Warande",
+            "tip": "Situat chiar lângă parc, ideal pentru prânz după o plimbare."
+          },
+          {
+            "name": "Brasserie de Keizer",
+            "tip": "Mâncăruri olandeze clasice în apropierea centrului."
+          },
+          {
+            "name": "Koffie-en eethuis 't Bels Lijntje",
+            "tip": "Un loc primitor pentru o cafea și o prăjitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant De Warande",
+            "tip": "Located right by the park, ideal for lunch after a walk."
+          },
+          {
+            "name": "Brasserie de Keizer",
+            "tip": "Classic Dutch dishes near the center."
+          },
+          {
+            "name": "Koffie-en eethuis 't Bels Lijntje",
+            "tip": "A cozy spot for coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hortensia-Garten im Warandepark",
+            "tip": "Ein farbenfroher und ruhiger Teil des Parks.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Ufer des Zuid-Willemsvaart",
+            "tip": "Fahren Sie ein Stück aus der Stadt heraus für absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen im Zentrum",
+            "tip": "Bevor die Geschäfte öffnen, gehört die Stadt Ihnen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hortenzia kert a Warandeparkban",
+            "tip": "A park színes és csendes része.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "A Zuid-Willemsvaart partja",
+            "tip": "Vezessen ki egy kicsit a városból a teljes csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a központban",
+            "tip": "Mielőtt kinyitnak a boltok, a város az öné.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cu hortensii din Parcul Warande",
+            "tip": "O parte colorată și liniștită a parcului.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Malul canalului Zuid-Willemsvaart",
+            "tip": "Conduceți puțin în afara orașului pentru o liniște absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în centru",
+            "tip": "Înainte de deschiderea magazinelor, orașul este al dumneavoastră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hydrangea Garden in Warandepark",
+            "tip": "A colorful and quiet part of the park.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Banks of the Zuid-Willemsvaart",
+            "tip": "Drive a little out of town for absolute tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the center",
+            "tip": "Before the shops open, the city is yours.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen de Warande",
+            "tip": "Kaufen Sie frische, lokale Produkte direkt vom Bauernhof am Park."
+          },
+          {
+            "name": "Design-Läden",
+            "tip": "Suchen Sie nach kleinen Boutiquen mit niederländischem Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Warande farm bolt",
+            "tip": "Vásároljon friss, helyi termékeket közvetlenül a park melletti gazdaságból."
+          },
+          {
+            "name": "Dizájn üzletek",
+            "tip": "Keressen kis butikokat holland dizájnnal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei De Warande",
+            "tip": "Cumpărați produse proaspete, locale, direct de la ferma de lângă parc."
+          },
+          {
+            "name": "Magazine de design",
+            "tip": "Căutați mici buticuri cu design olandez."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Warande Farm Shop",
+            "tip": "Buy fresh, local produce directly from the farm next to the park."
+          },
+          {
+            "name": "Design Shops",
+            "tip": "Look for small boutiques featuring Dutch design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten, wenn verfügbar.",
+          "Die Parkgebühren im Zentrum können hoch sein.",
+          "Planen Sie Ihre Route, um den Verkehr zur Hauptverkehrszeit zu vermeiden.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch die Umgebung von Helmond zu erkunden."
+        ],
+        "hu": [
+          "Ha van, használja a P+R lehetőségeket.",
+          "A központi parkolási díjak magasak lehetnek.",
+          "Tervezze meg az útvonalat, hogy elkerülje a csúcsforgalmat.",
+          "Az autó rugalmasságot ad Helmond környékének felfedezéséhez is."
+        ],
+        "ro": [
+          "Utilizați facilitățile Park and Ride, dacă sunt disponibile.",
+          "Taxele de parcare în centru pot fi mari.",
+          "Planificați-vă traseul pentru a evita traficul la orele de vârf.",
+          "O mașină vă oferă flexibilitatea de a explora și împrejurimile Helmondului."
+        ],
+        "en": [
+          "Use Park and Ride facilities if available.",
+          "Parking fees in the center can be high.",
+          "Plan your route to avoid rush hour traffic.",
+          "A car gives you the flexibility to also explore the surroundings of Helmond."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Kasteel Traverse (Cluster 1)",
+            "hu": "Kasteel Traverse buszmegálló (1. Klaszter)",
+            "ro": "Stația de autobuz Kasteel Traverse (Cluster 1)",
+            "en": "Bus Stop Kasteel Traverse (Cluster 1)"
+          },
+          "coords": [
+            5.664,
+            51.4815
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Startpunkt für die Erkundung des Zentrums.",
+            "hu": "A központ felfedezésének kiindulópontja.",
+            "ro": "Punct de plecare pentru explorarea centrului.",
+            "en": "Starting point for exploring the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Helmond",
+            "hu": "Helmondi kastély",
+            "ro": "Castelul Helmond",
+            "en": "Kasteel Helmond"
+          },
+          "coords": [
+            5.663,
+            51.4805
+          ],
+          "category": "castles",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Lambertuskerk",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Sf. Lambertus",
+            "en": "Sint-Lambertuskerk"
+          },
+          "coords": [
+            5.659,
+            51.479
+          ],
+          "category": "churches",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Einkaufsstraßen führt Sie hierher.",
+            "hu": "Egy rövid séta a bevásárlóutcákon keresztül ide vezet.",
+            "ro": "O scurtă plimbare pe străzile comerciale vă va aduce aici.",
+            "en": "A short walk through the shopping streets will lead you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Julianalaan (Cluster 2)",
+            "hu": "Julianalaan buszmegálló (2. Klaszter)",
+            "ro": "Stația de autobuz Julianalaan (Cluster 2)",
+            "en": "Bus Stop Julianalaan (Cluster 2)"
+          },
+          "coords": [
+            5.648,
+            51.486
+          ],
+          "category": "transport",
+          "arrive_at": "11:53",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Parkviertel.",
+            "hu": "Menjen busszal a park negyedbe.",
+            "ro": "Luați autobuzul spre cartierul parcului.",
+            "en": "Take the bus to the park district."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark",
+            "hu": "Warandepark",
+            "ro": "Parcul Warande",
+            "en": "Warandepark"
+          },
+          "coords": [
+            5.645,
+            51.485
+          ],
+          "category": "parks",
+          "arrive_at": "11:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick und eine lange Pause.",
+            "hu": "Ideális egy ebédpiknikhez és egy hosszú szünethez.",
+            "ro": "Ideal pentru un picnic la prânz și o pauză lungă.",
+            "en": "Ideal for a lunch picnic and a long break."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrieel Atrium",
+            "hu": "Ipari Átrium",
+            "ro": "Atriumul Industrial",
+            "en": "Industrieel Atrium"
+          },
+          "coords": [
+            5.668,
+            51.484
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Bus-Hop, um die industrielle Seite von Helmond zu sehen.",
+            "hu": "Egy utolsó buszozás, hogy megnézze Helmond ipari oldalát.",
+            "ro": "O ultimă călătorie cu autobuzul pentru a vedea latura industrială a Helmondului.",
+            "en": "One last bus hop to see the industrial side of Helmond."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Helmond. Starten Sie im Zentrum (Cluster 1), wo Sie das Schloss und die Lambertuskirche zu Fuß erkunden. Ein kurzer Spaziergang führt Sie von einer Sehenswürdigkeit zur nächsten. Gegen Mittag nehmen Sie einen Bus zum zweiten Cluster, dem grünen Viertel um den Warandepark. Verbringen Sie hier den frühen Nachmittag mit Entspannung und einem Mittagessen. Ein weiterer Bus bringt Sie am Nachmittag zum Industrieel Atrium, einem Zeugnis der Vergangenheit der Stadt, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Használja ki Helmond hatékony buszhálózatát. Kezdjen a központban (1. klaszter), ahol gyalog fedezheti fel a kastélyt és a Lambert-templomot. Egy rövid séta vezet egyik látnivalótól a másikig. Dél körül szálljon buszra a második klaszterhez, a Warandepark körüli zöld negyedhez. Töltse itt a kora délutánt pihenéssel és ebéddel. Délután egy másik busz elviszi az Ipari Átriumba, a város múltjának tanújához, mielőtt visszatérne a központba.",
+        "ro": "Profitați de rețeaua eficientă de autobuze din Helmond. Începeți în centru (Cluster 1), unde explorați castelul și Biserica Lambertus pe jos. O scurtă plimbare vă duce de la o atracție la alta. În jurul prânzului, luați un autobuz spre al doilea cluster, cartierul verde din jurul Parcului Warande. Petreceți după-amiaza devreme aici, relaxându-vă și luând prânzul. Un alt autobuz vă duce după-amiaza la Atriumul Industrial, o mărturie a trecutului orașului, înainte de a vă întoarce în centru.",
+        "en": "Make use of Helmond's efficient bus network. Start in the center (Cluster 1), where you explore the castle and Lambertus church on foot. A short walk takes you from one sight to the next. Around noon, take a bus to the second cluster, the green district around Warandepark. Spend the early afternoon here relaxing and having lunch. Another bus will take you to the Industrieel Atrium in the afternoon, a testament to the city's past, before you return to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snackbar bei der Bushaltestelle",
+            "tip": "Schnappen Sie sich eine schnelle 'Frikandel Speciaal' während Sie auf den Bus warten."
+          },
+          {
+            "name": "Il Borgo",
+            "tip": "Gute italienische Küche, leicht mit dem Bus zu erreichen."
+          },
+          {
+            "name": "Lunchroom 't Zusje",
+            "tip": "Tapas-ähnliche Mittagsgerichte, perfekt zum Teilen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyorsbüfé a buszmegállónál",
+            "tip": "Kapjon be egy gyors 'Frikandel Speciaal'-t, amíg a buszra vár."
+          },
+          {
+            "name": "Il Borgo",
+            "tip": "Jó olasz konyha, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Lunchroom 't Zusje",
+            "tip": "Tapas-szerű ebéd ételek, tökéletes megosztásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snack bar la stația de autobuz",
+            "tip": "Luați un 'Frikandel Speciaal' rapid în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Il Borgo",
+            "tip": "Bucătărie italiană bună, ușor accesibilă cu autobuzul."
+          },
+          {
+            "name": "Lunchroom 't Zusje",
+            "tip": "Mâncăruri de prânz în stil tapas, perfecte pentru a fi împărțite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snackbar at the bus stop",
+            "tip": "Grab a quick 'Frikandel Speciaal' while waiting for the bus."
+          },
+          {
+            "name": "Il Borgo",
+            "tip": "Good Italian food, easily accessible by bus."
+          },
+          {
+            "name": "Lunchroom 't Zusje",
+            "tip": "Tapas-style lunch dishes, perfect for sharing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf einer Bank im Warandepark",
+            "tip": "Beobachten Sie die Welt, während Sie auf Ihren nächsten Bus warten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Eine Fahrt durch die Vororte kann überraschend beruhigend sein.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchplatz an einem Wochentag",
+            "tip": "Außerhalb der Stoßzeiten ein Ort der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy padon a Warandeparkban",
+            "tip": "Nézze a világot, amíg a következő buszra vár.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A busz emelete",
+            "tip": "Egy utazás a külvárosokon keresztül meglepően megnyugtató lehet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A templom tér egy hétköznap",
+            "tip": "Csúcsidőn kívül a nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe o bancă în Parcul Warande",
+            "tip": "Priviți lumea în timp ce așteptați următorul autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Puntea superioară a autobuzului",
+            "tip": "O călătorie prin suburbii poate fi surprinzător de calmantă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Piața bisericii într-o zi de lucru",
+            "tip": "În afara orelor de vârf, un loc de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "On a bench in Warandepark",
+            "tip": "Watch the world go by while waiting for your next bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Upper deck of the bus",
+            "tip": "A ride through the suburbs can be surprisingly calming.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Church square on a weekday",
+            "tip": "Outside of peak hours, a place of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Bahnhof",
+            "tip": "Praktisch für Last-Minute-Souvenirs, bevor Sie die Stadt verlassen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn es ein Markttag ist, steigen Sie in der Nähe aus und stöbern Sie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomáson",
+            "tip": "Praktikus az utolsó pillanatban beszerzett ajándéktárgyakhoz, mielőtt elhagyja a várost."
+          },
+          {
+            "name": "Hetipiac",
+            "tip": "Ha piacnap van, szálljon le a közelben és nézelődjön."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la gară",
+            "tip": "Convenabil pentru suveniruri de ultim moment înainte de a părăsi orașul."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă este zi de piață, coborâți în apropiere și aruncați o privire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the train station",
+            "tip": "Convenient for last-minute souvenirs before leaving town."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If it's market day, get off nearby and have a browse."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine ÖPNV-App, um Fahrpläne in Echtzeit zu sehen.",
+          "Busse fahren möglicherweise nicht so häufig am Abend oder am Wochenende.",
+          "Behalten Sie Ihre Sachen an belebten Haltestellen im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Használjon tömegközlekedési alkalmazást a valós idejű menetrendek megtekintéséhez.",
+          "A buszok este vagy hétvégén ritkábban közlekedhetnek.",
+          "Tartsa szemmel a holmiját a forgalmas megállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație de transport public pentru a vedea orarele în timp real.",
+          "Autobuzele pot circula mai rar seara sau în weekend.",
+          "Fiți cu ochii pe bunurile dumneavoastră în stațiile aglomerate."
+        ],
+        "en": [
+          "Buy a day ticket for unlimited travel.",
+          "Use a public transport app to see real-time schedules.",
+          "Buses may not run as frequently in the evening or on weekends.",
+          "Keep an eye on your belongings at busy stops."
+        ]
+      }
+    }
+  }
+}

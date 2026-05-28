@@ -1,0 +1,1324 @@
+{
+  "city_id": "romania-sinaia-cities-v2",
+  "anchor": {
+    "name": "Sinaia",
+    "coords": [
+      45.35,
+      25.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dimitrie Ghica Park",
+            "hu": "Dimitrie Ghica park",
+            "ro": "Parcul Dimitrie Ghica",
+            "en": "Dimitrie Ghica Park"
+          },
+          "coords": [
+            25.5515,
+            45.3528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und bewundern Sie die gepflegten Blumenbeete.",
+            "hu": "Kezdje a napot egy pihentető sétával, és csodálja meg a gondozott virágágyásokat.",
+            "ro": "Începeți ziua cu o plimbare relaxantă, admirând aranjamentele florale îngrijite.",
+            "en": "Start your day with a relaxing stroll, admiring the well-kept flower arrangements."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Sinaia",
+            "hu": "Szinajai Kaszinó",
+            "ro": "Cazinoul Sinaia",
+            "en": "Sinaia Casino"
+          },
+          "coords": [
+            25.5531,
+            45.3535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:04",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht spielen, lohnt sich ein Blick auf die beeindruckende Architektur des Gebäudes.",
+            "hu": "Még ha nem is játszik, érdemes megnézni az épület lenyűgöző építészetét.",
+            "ro": "Chiar dacă nu jucați, arhitectura impresionantă a clădirii merită admirată.",
+            "en": "Even if you don't gamble, the building's impressive architecture is worth admiring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sinaia",
+            "hu": "Szinajai kolostor",
+            "ro": "Mănăstirea Sinaia",
+            "en": "Sinaia Monastery"
+          },
+          "coords": [
+            25.552,
+            45.3561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie sowohl die alte als auch die neue Kirche, um die Entwicklung der religiösen Kunst zu sehen.",
+            "hu": "Látogassa meg a régi és az új templomot is, hogy lássa a vallási művészet fejlődését.",
+            "ro": "Vizitați atât biserica veche, cât și cea nouă pentru a vedea evoluția artei religioase.",
+            "en": "Visit both the old and new churches to see the evolution of religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Peleș",
+            "hu": "Peleș-kastély",
+            "ro": "Castelul Peleș",
+            "en": "Peleș Castle"
+          },
+          "coords": [
+            25.5425,
+            45.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:27",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie Ihre Tickets online, um lange Warteschlangen zu vermeiden, besonders im Sommer.",
+            "hu": "Vásárolja meg a jegyeket online, hogy elkerülje a hosszú sorokat, különösen nyáron.",
+            "ro": "Cumpărați biletele online pentru a evita cozile lungi, mai ales în timpul verii.",
+            "en": "Buy your tickets online to avoid long queues, especially during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pelișor",
+            "hu": "Pelișor-kastély",
+            "ro": "Castelul Pelișor",
+            "en": "Pelișor Castle"
+          },
+          "coords": [
+            25.5441,
+            45.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Jugendstildetails, die Königin Marie selbst entworfen hat.",
+            "hu": "Figyeljen a szecessziós részletekre, amelyeket maga Mária királyné tervezett.",
+            "ro": "Fiți atenți la detaliile Art Nouveau, multe concepute chiar de Regina Maria.",
+            "en": "Pay attention to the Art Nouveau details, many designed by Queen Marie herself."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinaia Bahnhof",
+            "hu": "Szinajai vasútállomás",
+            "ro": "Gara Sinaia",
+            "en": "Sinaia Train Station"
+          },
+          "coords": [
+            25.5583,
+            45.351
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:38",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den speziellen königlichen Bahnsteig, der für die königliche Familie gebaut wurde.",
+            "hu": "Ne hagyja ki a különleges királyi peront, amelyet a királyi család számára építettek.",
+            "ro": "Nu ratați peronul regal special, construit pentru familia regală.",
+            "en": "Don't miss the special royal platform, built for the royal family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Sinaia, im Dimitrie Ghica Park. Nach der Erkundung des eleganten Casinos und des historischen Klosters führt Sie ein stetiger Aufstieg zu den königlichen Schlössern Peleș und Pelișor, den Höhepunkten des Tages. Der Nachmittag ist der Erkundung dieser architektonischen Juwelen gewidmet. Der Abstieg zurück in die Stadt führt Sie zum königlichen Bahnhof, einem charmanten Abschluss Ihrer Reise durch die Geschichte.",
+        "hu": "A nap Szinaia szívében, a Dimitrie Ghica parkban kezdődik. Az elegáns kaszinó és a történelmi kolostor felfedezése után egyenletes emelkedő vezet a királyi kastélyokhoz, a Peleș-hez és a Pelișor-hoz, a nap fénypontjaihoz. A délután ezen építészeti gyöngyszemek felfedezésével telik. A városba való visszaereszkedés a királyi vasútállomáshoz vezet, amely bájos lezárása a történelmi utazásnak.",
+        "ro": "Ziua începe în inima Sinaiei, în Parcul Dimitrie Ghica. După explorarea elegantului Cazinou și a istoricei Mănăstiri, o urcare constantă vă duce la castelele regale, Peleș și Pelișor, punctele culminante ale zilei. După-amiaza este dedicată explorării acestor bijuterii arhitecturale. Coborârea înapoi în oraș vă aduce la Gara Regală, o încheiere fermecătoare a călătoriei în istorie.",
+        "en": "Your day begins in the heart of Sinaia, at Dimitrie Ghica Park. After exploring the elegant Casino and the historic Monastery, a steady uphill walk takes you to the royal castles, Peleș and Pelișor, the day's highlights. The afternoon is dedicated to exploring these architectural gems. The descent back to town brings you to the royal train station, a charming end to your journey through history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein traditionelles Gericht aus Polenta, Käse und oft mit einem Ei. Probieren Sie es im 'La Cerdac'."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein Muss in Rumänien! Ein frittierter Donut mit Sauerrahm und Marmelade. 'Cabana Schiorilor' ist bekannt dafür."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Hagyományos pásztorétel polentából, sajttal, gyakran tojással. Kóstolja meg a 'La Cerdac'-ban."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Románia kötelező desszertje! Fánk tejföllel és lekvárral. A 'Cabana Schiorilor' híres róla."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "O mămăligă tradițională cu brânză și adesea un ou deasupra. Încercați la 'La Cerdac'."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Un desert obligatoriu în România! Gogoși prăjite cu smântână și dulceață. 'Cabana Schiorilor' este renumită pentru ei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "A traditional shepherd's dish of polenta, cheese, and often a fried egg. Try it at 'La Cerdac'."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A must-try dessert in Romania! Fried doughnuts with sour cream and jam. 'Cabana Schiorilor' is famous for them."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Peleș",
+            "tip": "Nach der Schlossbesichtigung finden Sie ruhige Ecken im umliegenden Wald.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klosterhof",
+            "tip": "Der Innenhof des Klosters ist oft ein Ort der Ruhe und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peleș-kastély parkja",
+            "tip": "A kastélylátogatás után találjon csendes zugokat a környező erdőben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostor udvara",
+            "tip": "A kolostor belső udvara gyakran a béke és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Peleș",
+            "tip": "După vizitarea castelului, găsiți colțuri liniștite în pădurea înconjurătoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii",
+            "tip": "Curtea interioară a mănăstirii este adesea un loc de pace și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peleș Castle Park",
+            "tip": "After the castle tour, find quiet corners in the surrounding forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Courtyard",
+            "tip": "The inner courtyard of the monastery is often a place of peace and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "In der Nähe des Klosters und der Schlösser finden Sie Stände, die handgemachte Souvenirs und traditionelle rumänische Blusen ('ie') verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A kolostor és a kastélyok közelében standokat talál, ahol kézzel készített ajándéktárgyakat és hagyományos román blúzokat ('ie') árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat Local",
+            "tip": "În apropierea mănăstirii și a castelelor, veți găsi tarabe care vând suveniruri lucrate manual și ii tradiționale românești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Near the monastery and castles, you'll find stalls selling handmade souvenirs and traditional Romanian blouses ('ie')."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Weg zu den Schlössern steil ist.",
+          "Nehmen Sie Wasser mit, besonders im Sommer.",
+          "Prüfen Sie die Öffnungszeiten der Schlösser im Voraus, da sie variieren können.",
+          "Einige Wege können rutschig sein, besonders nach Regen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a kastélyokhoz vezető út meredek.",
+          "Vigyen magával vizet, különösen nyáron.",
+          "Előre ellenőrizze a kastélyok nyitvatartási idejét, mert változhat.",
+          "Néhány ösvény csúszós lehet, főleg eső után."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece drumul spre castele este abrupt.",
+          "Luați apă cu dumneavoastră, mai ales vara.",
+          "Verificați în prealabil programul de vizitare al castelelor, deoarece poate varia.",
+          "Unele poteci pot fi alunecoase, mai ales după ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk to the castles is steep.",
+          "Bring water with you, especially in summer.",
+          "Check the opening hours for the castles in advance, as they can vary.",
+          "Some paths can be slippery, especially after rain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sinaia Bahnhof",
+            "hu": "Szinajai vasútállomás",
+            "ro": "Gara Sinaia",
+            "en": "Sinaia Train Station"
+          },
+          "coords": [
+            25.5583,
+            45.351
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Startpunkt, um die königliche Geschichte der Stadt zu spüren.",
+            "hu": "Nagyszerű kiindulópont, hogy átérezze a város királyi történelmét.",
+            "ro": "Un punct de plecare excelent pentru a simți istoria regală a orașului.",
+            "en": "A great starting point to feel the city's royal history."
+          }
+        },
+        {
+          "name": {
+            "de": "Dimitrie Ghica Park",
+            "hu": "Dimitrie Ghica park",
+            "ro": "Parcul Dimitrie Ghica",
+            "en": "Dimitrie Ghica Park"
+          },
+          "coords": [
+            25.5515,
+            45.3528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang zum Casino.",
+            "hu": "Tegye le a biciklit, és tegyen egy rövid sétát a kaszinóhoz.",
+            "ro": "Parcați bicicleta și faceți o scurtă plimbare până la Cazinou.",
+            "en": "Park your bike and take a short stroll to the Casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sinaia",
+            "hu": "Szinajai kolostor",
+            "ro": "Mănăstirea Sinaia",
+            "en": "Sinaia Monastery"
+          },
+          "coords": [
+            25.552,
+            45.3561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist kurz, aber spürbar. Der ruhige Innenhof ist die Belohnung.",
+            "hu": "Az emelkedő rövid, de érezhető. A csendes belső udvar a jutalom.",
+            "ro": "Urcușul este scurt, dar se simte. Curtea liniștită este recompensa.",
+            "en": "The climb is short but noticeable. The quiet courtyard is your reward."
+          }
+        },
+        {
+          "name": {
+            "de": "George Enescu Museum",
+            "hu": "George Enescu Múzeum",
+            "ro": "Muzeul George Enescu",
+            "en": "George Enescu Museum"
+          },
+          "coords": [
+            25.545,
+            45.3581
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Halt auf dem Weg zu den Schlössern.",
+            "hu": "Rövid, de érdemes megálló a kastélyok felé vezető úton.",
+            "ro": "O oprire scurtă, dar meritată, în drum spre castele.",
+            "en": "A short but worthwhile stop on the way to the castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Peleș",
+            "hu": "Peleș-kastély",
+            "ro": "Castelul Peleș",
+            "en": "Peleș Castle"
+          },
+          "coords": [
+            25.5425,
+            45.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:16",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für die Besichtigung und das Mittagessen.",
+            "hu": "Zárja le biztonságosan a kerékpárt, és szánjon időt a látogatásra és az ebédre.",
+            "ro": "Legați-vă bine bicicleta și luați-vă timp pentru tur și prânz.",
+            "en": "Lock your bike securely and take your time for the tour and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pelișor",
+            "hu": "Pelișor-kastély",
+            "ro": "Castelul Pelișor",
+            "en": "Pelișor Castle"
+          },
+          "coords": [
+            25.5441,
+            45.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das kleinere 'Juwel' liegt nur einen Steinwurf von Peleș entfernt.",
+            "hu": "A kisebb 'ékszer' csak egy kőhajításnyira van a Peleștől.",
+            "ro": "Micul 'giuvaier' este la o aruncătură de băț de Peleș.",
+            "en": "The smaller 'jewel' is just a stone's throw from Peleș."
+          }
+        },
+        {
+          "name": {
+            "de": "Franz-Joseph-Felsen",
+            "hu": "Ferenc József-sziklák",
+            "ro": "Stâncile Franz Joseph",
+            "en": "Franz Joseph Cliffs"
+          },
+          "coords": [
+            25.538,
+            45.362
+          ],
+          "category": "natural features",
+          "arrive_at": "15:24",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages wird mit einer großartigen Aussicht belohnt.",
+            "hu": "A nap utolsó emelkedőjét nagyszerű kilátás jutalmazza.",
+            "ro": "Ultima urcare a zilei este recompensată cu o priveliște minunată.",
+            "en": "The last climb of the day is rewarded with a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am historischen Bahnhof und führt Sie durch den Ghica-Park zum Kloster. Der Hauptteil der Tour ist der Aufstieg zum Schlosskomplex, mit einem kulturellen Zwischenstopp im George-Enescu-Museum. Sie verbringen den Mittag damit, die Pracht der Schlösser Peleș und Pelișor zu erkunden. Zum Abschluss radeln Sie noch etwas höher zu den Franz-Joseph-Felsen für einen Panoramablick, bevor Sie entspannt zurück ins Tal rollen.",
+        "hu": "A kerékpártúra a történelmi vasútállomásnál kezdődik, majd a Ghica parkon keresztül a kolostorhoz vezet. A túra fő része a kastélykomplexumhoz való feljutás, kulturális megállóval a George Enescu Múzeumban. A délt a Peleș és Pelișor kastélyok pompájának felfedezésével tölti. Végül egy kicsit feljebb teker a Ferenc József-sziklákhoz egy panorámás kilátásért, mielőtt kényelmesen visszagurulna a völgybe.",
+        "ro": "Turul pe bicicletă începe de la gara istorică, ducându-vă prin Parcul Ghica spre Mănăstire. Partea principală a turului este urcarea spre complexul castelelor, cu o oprire culturală la Muzeul George Enescu. Veți petrece amiaza explorând splendoarea castelelor Peleș și Pelișor. La final, pedalați puțin mai sus, la Stâncile Franz Joseph, pentru o vedere panoramică, înainte de a coborî relaxat înapoi în vale.",
+        "en": "Your bike tour starts at the historic train station, taking you through Ghica Park towards the Monastery. The main part of the tour is the climb to the castle complex, with a cultural stop at the George Enescu Museum. You'll spend midday exploring the splendor of Peleș and Pelișor castles. To finish, you'll pedal a bit higher to the Franz Joseph Cliffs for a panoramic view before a relaxed roll back down into the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, ein herzhaftes Gericht für nach der Radtour. 'Taverna Sârbului' hat eine gute Version."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein salziger Käsekuchen, perfekt für einen schnellen Energieschub. In vielen Bäckereien erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba de burta",
+            "tip": "Hagyományos pacalleves, kiadós étel a kerékpártúra után. A 'Taverna Sârbului'-ban jó változatot kínálnak."
+          },
+          {
+            "name": "Sajtos pite",
+            "tip": "Sós túrós pite, tökéletes egy gyors energiafeltöltéshez. Sok pékségben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, consistentă, perfectă după o tură de ciclism. 'Taverna Sârbului' are o versiune bună."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă sărată, perfectă pentru un impuls rapid de energie. Disponibilă la multe patiserii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "A traditional tripe soup, a hearty meal for after your bike ride. 'Taverna Sârbului' has a good version."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "A savory cheese pie, perfect for a quick energy boost. Available at many bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege um Peleș",
+            "tip": "Nehmen Sie einen der weniger begangenen Wege rund um die Schlösser für eine ruhige Minute.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von den Felsen",
+            "tip": "Die Franz-Joseph-Felsen bieten eine ruhige Atempause mit herrlicher Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei ösvények a Peleș körül",
+            "tip": "Válasszon egy kevésbé járt ösvényt a kastélyok körül egy csendes percre.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a sziklákról",
+            "tip": "A Ferenc József-sziklák csendes pihenőt kínálnak csodálatos kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci forestiere în jurul Peleșului",
+            "tip": "Alegeți una dintre potecile mai puțin circulate din jurul castelelor pentru un moment de liniște.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Priveliștea de la Stânci",
+            "tip": "Stâncile Franz Joseph oferă un răgaz liniștit cu o priveliște superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths around Peleș",
+            "tip": "Take one of the less-traveled paths around the castles for a quiet minute.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from the Cliffs",
+            "tip": "The Franz Joseph Cliffs offer a quiet respite with a superb view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig & Marmelade",
+            "tip": "Halten Sie Ausschau nach lokalen Produzenten, die Honig und hausgemachte Marmeladen verkaufen, oft an Ständen entlang der Hauptstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és lekvár",
+            "tip": "Keresse a helyi termelőket, akik mézet és házi lekvárokat árulnak, gyakran a főutak menti standokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și gem local",
+            "tip": "Căutați producători locali care vând miere și gemuri de casă, adesea la tarabe de-a lungul drumurilor principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey & Jam",
+            "tip": "Look for local producers selling honey and homemade jams, often at stalls along the main roads."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sinaia ist hügelig; seien Sie auf Anstiege vorbereitet. Ein E-Bike könnte eine gute Option sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Achten Sie auf den Verkehr, besonders auf der Hauptstraße DN1.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Szinaia dombos; készüljön fel az emelkedőkre. Az e-bike jó választás lehet.",
+          "Mindig zárja le jól a kerékpárját.",
+          "Vigyázzon a forgalomra, különösen a DN1-es főúton.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Sinaia este un oraș deluros; fiți pregătiți pentru urcări. O bicicletă electrică ar putea fi o opțiune bună.",
+          "Legați-vă întotdeauna bine bicicleta.",
+          "Fiți atenți la trafic, mai ales pe drumul principal, DN1.",
+          "Casca este foarte recomandată."
+        ],
+        "en": [
+          "Sinaia is hilly; be prepared for climbs. An e-bike might be a good option.",
+          "Always lock your bike securely.",
+          "Be mindful of traffic, especially on the main road, DN1.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Sinaia",
+            "hu": "Szinajai kolostor",
+            "ro": "Mănăstirea Sinaia",
+            "en": "Sinaia Monastery"
+          },
+          "coords": [
+            25.552,
+            45.3561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit diesem spirituellen und historischen Zentrum.",
+            "hu": "Parkoljon itt, és kezdje a napot ezzel a spirituális és történelmi központtal.",
+            "ro": "Parcați aici și începeți ziua cu acest centru spiritual și istoric.",
+            "en": "Park here and start your day at this spiritual and historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Dimitrie Ghica Park",
+            "hu": "Dimitrie Ghica park",
+            "ro": "Parcul Dimitrie Ghica",
+            "en": "Dimitrie Ghica Park"
+          },
+          "coords": [
+            25.5515,
+            45.3528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:18",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster zum eleganten Park und Casino.",
+            "hu": "Rövid séta a kolostortól az elegáns parkig és a kaszinóig.",
+            "ro": "O scurtă plimbare de la mănăstire la elegantul parc și cazinou.",
+            "en": "A short walk from the monastery to the elegant park and casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Sinaia",
+            "hu": "Szinajai Kaszinó",
+            "ro": "Cazinoul Sinaia",
+            "en": "Sinaia Casino"
+          },
+          "coords": [
+            25.5531,
+            45.3535
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses architektonischen Symbols, bevor Sie zum Auto zurückkehren.",
+            "hu": "Csodálja meg ennek az építészeti szimbólumnak a homlokzatát, mielőtt visszatér az autóhoz.",
+            "ro": "Admirați fațada acestui simbol arhitectural înainte de a vă întoarce la mașină.",
+            "en": "Admire the facade of this architectural symbol before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Peleș",
+            "hu": "Peleș-kastély",
+            "ro": "Castelul Peleș",
+            "en": "Peleș Castle"
+          },
+          "coords": [
+            25.5425,
+            45.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:32",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz des Schlosses. Dies ist Ihr zweiter Hauptcluster für den Tag.",
+            "hu": "Hajtson a kastély fő parkolójába. Ez a nap második fő állomása.",
+            "ro": "Conduceți spre parcarea principală a castelului. Acesta este al doilea cluster principal al zilei.",
+            "en": "Drive to the main castle parking area. This is your second main cluster for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pelișor",
+            "hu": "Pelișor-kastély",
+            "ro": "Castelul Pelișor",
+            "en": "Pelișor Castle"
+          },
+          "coords": [
+            25.5441,
+            45.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:38",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang von Peleș, um das intimere Zuhause von König Ferdinand und Königin Marie zu sehen.",
+            "hu": "Könnyű séta a Peleș-től, hogy megnézze Ferdinánd király és Mária királyné intimebb otthonát.",
+            "ro": "O plimbare ușoară de la Peleș pentru a vedea casa mai intimă a Regelui Ferdinand și a Reginei Maria.",
+            "en": "An easy walk from Peleș to see the more intimate home of King Ferdinand and Queen Marie."
+          }
+        },
+        {
+          "name": {
+            "de": "George Enescu Museum",
+            "hu": "George Enescu Múzeum",
+            "ro": "Muzeul George Enescu",
+            "en": "George Enescu Museum"
+          },
+          "coords": [
+            25.545,
+            45.3581
+          ],
+          "category": "museums",
+          "arrive_at": "14:56",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab vom Schloss Pelișor.",
+            "hu": "Rövid séta lefelé a Pelișor-kastélytól.",
+            "ro": "O scurtă plimbare la vale de la Castelul Pelișor.",
+            "en": "A short walk downhill from Pelișor Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinaia-Seilbahn",
+            "hu": "Szinajai drótkötélpálya",
+            "ro": "Telegondola Sinaia",
+            "en": "Sinaia Gondola"
+          },
+          "coords": [
+            25.545,
+            45.349
+          ],
+          "category": "natural features",
+          "arrive_at": "15:59",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Basis der Gondel für den letzten Teil Ihres Tages.",
+            "hu": "Hajtson a felvonó aljához a nap utolsó részére.",
+            "ro": "Conduceți la baza telegondolei pentru ultima parte a zilei.",
+            "en": "Drive to the base of the gondola for the final part of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cota 1400",
+            "hu": "Cota 1400",
+            "ro": "Cota 1400",
+            "en": "Cota 1400"
+          },
+          "coords": [
+            25.5295,
+            45.3551
+          ],
+          "category": "natural features",
+          "arrive_at": "16:29",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Gondel nach oben für eine atemberaubende Aussicht und einen erfrischenden Spaziergang.",
+            "hu": "Menjen fel a felvonóval a lélegzetelállító kilátásért és egy frissítő sétáért.",
+            "ro": "Luați telegondola până sus pentru o priveliște uluitoare și o plimbare revigorantă.",
+            "en": "Take the gondola up for a breathtaking view and a refreshing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto ist in drei Cluster aufgeteilt. Beginnen Sie im Stadtzentrum, wo Sie parken, um das Kloster und den Ghica-Park zu Fuß zu erkunden. Fahren Sie dann zum zweiten Cluster, dem Schlosskomplex. Parken Sie erneut und widmen Sie den Mittag den prächtigen Schlössern Peleș, Pelișor und dem Enescu-Museum. Der letzte Autotrip führt Sie zur Gondelbahn. Lassen Sie das Auto stehen und schweben Sie zum Cota 1400, um den Tag mit einer spektakulären Aussicht auf die Berge abzuschließen.",
+        "hu": "Autós napja három részre oszlik. Kezdje a városközpontban, ahol leparkolva gyalog fedezheti fel a kolostort és a Ghica parkot. Ezután vezessen a második csoporthoz, a kastélykomplexumhoz. Parkoljon le újra, és szentelje a délt a csodálatos Peleș, Pelișor kastélyoknak és az Enescu Múzeumnak. Az utolsó autós út a felvonóhoz vezet. Hagyja ott az autót, és emelkedjen fel a Cota 1400-ra, hogy a napot egy látványos hegyi kilátással zárja.",
+        "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în centrul orașului, unde parcați pentru a explora pe jos Mănăstirea și Parcul Ghica. Apoi, conduceți către al doilea cluster, complexul castelelor. Parcați din nou și dedicați amiaza magnificelor castele Peleș, Pelișor și Muzeului Enescu. Ultima călătorie cu mașina vă duce la telegondolă. Lăsați mașina și urcați la Cota 1400 pentru a încheia ziua cu o priveliște montană spectaculoasă.",
+        "en": "Your day by car is split into three clusters. Start in the town center, parking to explore the Monastery and Ghica Park on foot. Then, drive to the second cluster, the castle complex. Park again and dedicate your midday to the magnificent Peleș, Pelișor castles, and the Enescu Museum. The final car trip takes you to the gondola. Leave the car and ascend to Cota 1400 to end the day with a spectacular mountain view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildgerichte",
+            "tip": "Die Bergregion ist bekannt für Wild. Suchen Sie nach Restaurants, die Hirsch- oder Wildschweingerichte anbieten, wie 'Restaurant Vânătoresc'."
+          },
+          {
+            "name": "Țuică",
+            "tip": "Ein starker Pflaumenschnaps. Beginnen Sie Ihr Essen mit einem kleinen Glas, um den Appetit anzuregen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadhúsételek",
+            "tip": "A hegyvidék híres a vadhúsokról. Keressen olyan éttermeket, amelyek szarvas- vagy vaddisznóételeket kínálnak, mint például a 'Restaurant Vânătoresc'."
+          },
+          {
+            "name": "Cujka",
+            "tip": "Erős szilvapálinka. Kezdje az étkezést egy kis pohárral az étvágygerjesztéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri din vânat",
+            "tip": "Regiunea montană este renumită pentru vânat. Căutați restaurante care servesc preparate din cerb sau mistreț, precum 'Restaurant Vânătoresc'."
+          },
+          {
+            "name": "Țuică",
+            "tip": "O băutură spirtoasă puternică din prune. Începeți masa cu un păhărel pentru a stimula pofta de mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Game Meats",
+            "tip": "The mountain region is known for game. Look for restaurants serving deer or wild boar, like 'Restaurant Vânătoresc'."
+          },
+          {
+            "name": "Țuică",
+            "tip": "A strong plum brandy. Start your meal with a small glass to stimulate the appetite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cota 1400",
+            "tip": "Oben auf dem Berg finden Sie abseits der Hauptplattform ruhige Pfade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Schloss Peleș",
+            "tip": "Die Terrassen hinter dem Schloss sind oft weniger überlaufen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cota 1400",
+            "tip": "A hegy tetején, a fő platformtól távolabb csendes ösvényeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peleș-kastély kertjei",
+            "tip": "A kastély mögötti teraszok gyakran kevésbé zsúfoltak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cota 1400",
+            "tip": "Sus pe munte, veți găsi poteci liniștite departe de platforma principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Peleș",
+            "tip": "Terasele din spatele castelului sunt adesea mai puțin aglomerate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cota 1400",
+            "tip": "Up on the mountain, you'll find quiet paths away from the main platform.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peleș Castle Gardens",
+            "tip": "The terraces behind the castle are often less crowded.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käsespezialitäten",
+            "tip": "Suchen Sie nach 'Brânză de burduf', einem traditionellen rumänischen Käse, der oft in den umliegenden Dörfern hergestellt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtkülönlegességek",
+            "tip": "Keresse a 'Brânză de burduf'-ot, egy hagyományos román sajtot, amelyet gyakran a környező falvakban készítenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități de brânză",
+            "tip": "Căutați 'Brânză de burduf', o brânză tradițională românească, adesea produsă în satele din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Specialties",
+            "tip": "Look for 'Brânză de burduf', a traditional Romanian cheese often produced in the surrounding villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum und in der Nähe der Schlösser eine Herausforderung sein. Seien Sie geduldig.",
+          "Prüfen Sie den Betriebsstatus der Gondel, da sie bei starkem Wind schließt.",
+          "Die Straßen zu den Schlössern können eng und kurvenreich sein.",
+          "Kaufen Sie Schlosstickets online, um Zeit zu sparen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban és a kastélyok közelében. Legyen türelmes.",
+          "Ellenőrizze a felvonó működési állapotát, mivel erős szélben leáll.",
+          "A kastélyokhoz vezető utak szűkek és kanyargósak lehetnek.",
+          "Vásároljon kastélyjegyeket online, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului și lângă castele. Aveți răbdare.",
+          "Verificați starea de funcționare a telegondolei, deoarece se închide în condiții de vânt puternic.",
+          "Drumurile către castele pot fi înguste și șerpuite.",
+          "Cumpărați biletele la castel online pentru a economisi timp."
+        ],
+        "en": [
+          "Parking can be challenging in the town center and near the castles. Be patient.",
+          "Check the gondola's operating status, as it closes in high winds.",
+          "The roads to the castles can be narrow and winding.",
+          "Buy castle tickets online to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sinaia Bahnhof",
+            "hu": "Szinajai vasútállomás",
+            "ro": "Gara Sinaia",
+            "en": "Sinaia Train Station"
+          },
+          "coords": [
+            25.5583,
+            45.351
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr Ankunftsort ist auch Ihre erste Sehenswürdigkeit.",
+            "hu": "Az érkezési hely egyben az első látnivaló is.",
+            "ro": "Locul sosirii este și primul obiectiv turistic.",
+            "en": "Your arrival point is also your first sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Dimitrie Ghica Park",
+            "hu": "Dimitrie Ghica park",
+            "ro": "Parcul Dimitrie Ghica",
+            "en": "Dimitrie Ghica Park"
+          },
+          "coords": [
+            25.5515,
+            45.3528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:47",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Spaziergang vom Bahnhof ins grüne Herz der Stadt.",
+            "hu": "Kényelmes séta az állomástól a város zöld szívébe.",
+            "ro": "O plimbare lejeră de la gară în inima verde a orașului.",
+            "en": "A leisurely walk from the station into the green heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Sinaia",
+            "hu": "Szinajai kolostor",
+            "ro": "Mănăstirea Sinaia",
+            "en": "Sinaia Monastery"
+          },
+          "coords": [
+            25.552,
+            45.3561
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Park entfernt, bildet dies den Abschluss Ihres ersten Rundgangs.",
+            "hu": "Csak pár lépésre a parktól, ezzel zárul az első séta.",
+            "ro": "La doar câțiva pași de parc, acest obiectiv încheie primul dvs. cluster de mers pe jos.",
+            "en": "Just a few steps from the park, this concludes your first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Peleș",
+            "hu": "Peleș-kastély",
+            "ro": "Castelul Peleș",
+            "en": "Peleș Castle"
+          },
+          "coords": [
+            25.5425,
+            45.36
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:58",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum hinauf zum Schlosskomplex.",
+            "hu": "Vegyen egy helyi buszt a városközpontból a kastélykomplexumhoz.",
+            "ro": "Luați un autobuz local din centrul orașului până la complexul castelului.",
+            "en": "Take a local bus from the town center up to the castle complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pelișor",
+            "hu": "Pelișor-kastély",
+            "ro": "Castelul Pelișor",
+            "en": "Pelișor Castle"
+          },
+          "coords": [
+            25.5441,
+            45.3615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang, um das zweite königliche Juwel zu entdecken.",
+            "hu": "Nagyon rövid séta a második királyi ékszer felfedezéséhez.",
+            "ro": "O plimbare foarte scurtă pentru a descoperi a doua bijuterie regală.",
+            "en": "A very short walk to discover the second royal gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinaia-Seilbahn",
+            "hu": "Szinajai drótkötélpálya",
+            "ro": "Telegondola Sinaia",
+            "en": "Sinaia Gondola"
+          },
+          "coords": [
+            25.545,
+            45.349
+          ],
+          "category": "natural features",
+          "arrive_at": "15:24",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Schlossbereich zurück ins Tal zur Gondelstation.",
+            "hu": "Vegyen egy buszt a kastélytól vissza a völgybe a felvonóállomáshoz.",
+            "ro": "Luați un autobuz de la zona castelului înapoi în vale, la stația de telegondolă.",
+            "en": "Take a bus from the castle area back down the valley to the gondola station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cota 1400",
+            "hu": "Cota 1400",
+            "ro": "Cota 1400",
+            "en": "Cota 1400"
+          },
+          "coords": [
+            25.5295,
+            45.3551
+          ],
+          "category": "natural features",
+          "arrive_at": "15:54",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Gondelfahrt selbst ist Teil des Erlebnisses. Genießen Sie die Aussicht von oben!",
+            "hu": "Maga a felvonózás is az élmény része. Élvezze a kilátást fentről!",
+            "ro": "Călătoria cu telegondola este în sine o parte a experienței. Bucurați-vă de priveliștea de sus!",
+            "en": "The gondola ride itself is part of the experience. Enjoy the view from the top!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Spaziergang vom Bahnhof durch den Ghica-Park zum Kloster. Danach bringt Sie ein lokaler Bus zum zweiten Cluster: den Schlössern Peleș und Pelișor, wo Sie den Mittag verbringen. Ein weiterer Bus bringt Sie am Nachmittag zum letzten Cluster des Tages, der Gondelstation. Von dort aus schweben Sie nach Cota 1400, um den Tag mit einem unvergesslichen Panoramablick auf die Karpaten abzuschließen, bevor Sie mit den öffentlichen Verkehrsmitteln ins Zentrum zurückkehren.",
+        "hu": "A nap a vasútállomástól a Ghica parkon át a kolostorig tartó sétával kezdődik. Ezután egy helyi busz viszi a második állomásra: a Peleș és Pelișor kastélyokhoz, ahol a délt tölti. Délután egy másik busz viszi a nap utolsó állomásához, a felvonóállomáshoz. Onnan a Cota 1400-ra emelkedik, hogy a napot a Kárpátok felejthetetlen panorámájával zárja, mielőtt tömegközlekedéssel visszatérne a központba.",
+        "ro": "Ziua începe cu un cluster de mers pe jos de la gară, prin Parcul Ghica, până la Mănăstire. Apoi, un autobuz local vă duce la al doilea cluster: castelele Peleș și Pelișor, unde vă petreceți amiaza. După-amiază, un alt autobuz vă transportă la ultimul cluster al zilei, stația de telegondolă. De acolo, urcați la Cota 1400 pentru a încheia ziua cu o panoramă de neuitat a Carpaților, înainte de a reveni în centru cu transportul public.",
+        "en": "Your day starts with a walking cluster from the train station, through Ghica Park to the Monastery. Afterward, a local bus takes you to the second cluster: Peleș and Pelișor castles, where you'll spend midday. In the afternoon, another bus transports you to the day's final cluster, the gondola station. From there, you'll ascend to Cota 1400, ending the day with an unforgettable panorama of the Carpathian Mountains before returning to the center via public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein rumänischer Brezel, oft mit Mohn oder Sesam bestreut. Perfekt als Snack für unterwegs."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen. Ein beliebtes Streetfood, das Sie in der Nähe von Märkten finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec",
+            "tip": "Román perec, gyakran mákkal vagy szezámmaggal megszórva. Tökéletes útközbeni snack."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett darált hús tekercsek. Népszerű street food, amelyet a piacok közelében találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un snack perfect pentru drum, adesea presărat cu mac sau susan."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar. Un street-food popular pe care îl puteți găsi în apropierea piețelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A Romanian pretzel, often topped with poppy or sesame seeds. A perfect on-the-go snack."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls. A popular street food you can find near markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bergpfade bei Cota 1400",
+            "tip": "Wenn Sie oben sind, gehen Sie ein paar hundert Meter vom Restaurant weg für absolute Stille.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Friedhof des Klosters",
+            "tip": "Ein ruhiger und nachdenklicher Ort neben dem Kloster.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi ösvények a Cota 1400-nál",
+            "tip": "Amikor fent van, sétáljon pár száz métert az étteremtől a teljes csendért.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "A kolostor temetője",
+            "tip": "Csendes és elgondolkodtató hely a kolostor mellett.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci montane la Cota 1400",
+            "tip": "Odată ajuns sus, îndepărtați-vă câteva sute de metri de restaurant pentru o liniște absolută.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Cimitirul Mănăstirii",
+            "tip": "Un loc tăcut și plin de reculegere, lângă mănăstire.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain paths at Cota 1400",
+            "tip": "Once at the top, walk a few hundred meters away from the restaurant for absolute silence.",
+            "emoji": "⛰️"
+          },
+          {
+            "name": "Monastery Cemetery",
+            "tip": "A quiet and reflective spot adjacent to the monastery.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wollprodukte",
+            "tip": "In den Bergen finden Sie oft hochwertige Wollsocken, -mützen und -pullover, die von Einheimischen handgestrickt werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjútermékek",
+            "tip": "A hegyekben gyakran talál minőségi gyapjúzoknit, sapkát és pulóvert, amelyeket helyiek kézzel kötöttek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lână",
+            "tip": "În zona montană, veți găsi adesea șosete, căciuli și pulovere de lână de înaltă calitate, tricotate manual de localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Woolen Goods",
+            "tip": "In the mountains, you'll often find high-quality wool socks, hats, and sweaters hand-knitted by locals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Buslinien und Fahrpläne. Die Linie T1 verbindet das Zentrum mit den Schlössern.",
+          "Haben Sie Kleingeld für Bustickets bereit.",
+          "Die Gondel kann eine separate Gebühr haben.",
+          "Planen Sie Pufferzeiten für Wartezeiten auf den Bus ein."
+        ],
+        "hu": [
+          "Tájékozódjon a buszvonalakról és a menetrendekről. A T1-es vonal köti össze a központot a kastélyokkal.",
+          "Készítsen aprópénzt a buszjegyekhez.",
+          "A felvonónak külön díja lehet.",
+          "Tervezzen pufferidőt a buszra való várakozáshoz."
+        ],
+        "ro": [
+          "Interesați-vă de rutele și orarele autobuzelor. Linia T1 leagă centrul de castele.",
+          "Pregătiți bani mărunți pentru biletele de autobuz.",
+          "Telegondola poate avea o taxă separată.",
+          "Planificați timp suplimentar pentru așteptarea autobuzului."
+        ],
+        "en": [
+          "Check the bus routes and schedules. The T1 line connects the center to the castles.",
+          "Have small change ready for bus tickets.",
+          "The gondola may have a separate fee.",
+          "Plan for buffer time for bus waits."
+        ]
+      }
+    }
+  }
+}

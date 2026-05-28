@@ -1,0 +1,1532 @@
+{
+  "city_id": "uk-rochdale-cities-v2",
+  "anchor": {
+    "name": "Rochdale",
+    "coords": [
+      -2.1601,
+      53.6136
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pioniermuseum",
+            "hu": "Úttörők Múzeuma",
+            "ro": "Muzeul Pionierilor",
+            "en": "Pioneers Museum"
+          },
+          "coords": [
+            -2.158,
+            53.615
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geburtsstätte der modernen Genossenschaftsbewegung.",
+            "hu": "Fedezze fel a modern szövetkezeti mozgalom szülőhelyét.",
+            "ro": "Descoperiți locul de naștere al mișcării cooperative moderne.",
+            "en": "Discover the birthplace of the modern co-operative movement."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchstones Rochdale",
+            "hu": "Touchstones Rochdale",
+            "ro": "Touchstones Rochdale",
+            "en": "Touchstones Rochdale"
+          },
+          "coords": [
+            -2.155,
+            53.616
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lokale Kunst und Erbe unter einem Dach.",
+            "hu": "Helyi művészet és örökség egy fedél alatt.",
+            "ro": "Artă locală și patrimoniu sub același acoperiș.",
+            "en": "Local art and heritage under one roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Rochdale",
+            "hu": "Rochdale-i Városháza",
+            "ro": "Primăria Rochdale",
+            "en": "Rochdale Town Hall"
+          },
+          "coords": [
+            -2.1595,
+            53.614
+          ],
+          "category": "monuments",
+          "arrive_at": "12:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie eines der schönsten Beispiele neugotischer Architektur in Großbritannien.",
+            "hu": "Csodálja meg a brit gótikus újjászületés egyik legszebb példáját.",
+            "ro": "Admirați unul dintre cele mai bune exemple de arhitectură neogotică din Marea Britanie.",
+            "en": "Admire one of the UK's finest examples of Gothic Revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Chad's Kirche",
+            "hu": "Szent Chad-templom",
+            "ro": "Biserica Sf. Chad",
+            "en": "St Chad's Church"
+          },
+          "coords": [
+            -2.1585,
+            53.613
+          ],
+          "category": "churches",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie die 124 Stufen für einen Blick auf die Stadt.",
+            "hu": "Másszon fel a 124 lépcsőn a városra nyíló kilátásért.",
+            "ro": "Urcați cele 124 de trepte pentru o priveliște asupra orașului.",
+            "en": "Climb the 124 steps for a view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Broadfield Park",
+            "hu": "Broadfield Park",
+            "ro": "Parcul Broadfield",
+            "en": "Broadfield Park"
+          },
+          "coords": [
+            -2.163,
+            53.612
+          ],
+          "category": "parks",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger viktorianischer Park, perfekt für eine Nachmittagspause.",
+            "hu": "Egy csendes viktoriánus park, tökéletes egy délutáni szünethez.",
+            "ro": "Un parc victorian liniștit, perfect pentru o pauză de după-amiază.",
+            "en": "A peaceful Victorian park perfect for an afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum",
+            "hu": "Tűzoltó Múzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Service Museum"
+          },
+          "coords": [
+            -2.155,
+            53.6135
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie historische Feuerwehrautos in einer viktorianischen Feuerwache.",
+            "hu": "Fedezzen fel történelmi tűzoltóautókat egy viktoriánus tűzoltóállomáson.",
+            "ro": "Explorați mașini de pompieri de epocă într-o stație victoriană.",
+            "en": "Explore vintage fire engines in a Victorian fire station."
+          }
+        },
+        {
+          "name": {
+            "de": "Gracie Fields Theatre",
+            "hu": "Gracie Fields Színház",
+            "ro": "Teatrul Gracie Fields",
+            "en": "Gracie Fields Theatre"
+          },
+          "coords": [
+            -2.159,
+            53.617
+          ],
+          "category": "theatres",
+          "arrive_at": "17:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für eine mögliche Abendvorstellung.",
+            "hu": "Nézze meg a műsort egy esetleges esti előadásra.",
+            "ro": "Verificați programul pentru un posibil spectacol de seară.",
+            "en": "Check the schedule for a potential evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag zu Fuß durch Rochdale beginnt mit einer tiefen Eintauchen in seine kooperative und künstlerische Geschichte. Der Vormittag ist dem Pioneers Museum und der Galerie Touchstones gewidmet, die das Fundament des sozialen und kulturellen Erbes der Stadt legen. Mittags stehen Sie vor dem prächtigen Rathaus, einem Meisterwerk der Architektur, bevor Sie in der historischen St. Chad's Kirche Ruhe finden. Der Nachmittag bietet eine grüne Zuflucht im Broadfield Park, gefolgt von der faszinierenden Welt der Brandbekämpfung im Feuerwehrmuseum. Ihr Spaziergang endet am Gracie Fields Theatre, einem Leuchtfeuer der darstellenden Künste der Stadt, das einen perfekten Abschluss für einen Tag voller Entdeckungen bietet.",
+        "hu": "Rochdale-i gyalogos napja a város szövetkezeti és művészeti történelmében való elmélyüléssel kezdődik. A délelőttöt az Úttörők Múzeumának és a Touchstones galériának szenteljük, megalapozva a város társadalmi és kulturális örökségét. Délben a csodálatos Városháza előtt áll, amely egy építészeti remekmű, mielőtt békére lel a történelmi Szent Chad-templomban. A délután zöld menedéket kínál a Broadfield Parkban, majd a tűzoltás lenyűgöző világát ismerheti meg a Tűzoltó Múzeumban. Sétája a Gracie Fields Színháznál ér véget, a város előadóművészetének jelzőfényénél, amely tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Ziua dumneavoastră pe jos prin Rochdale începe cu o incursiune profundă în istoria sa cooperatistă și artistică. Dimineața este dedicată Muzeului Pionierilor și galeriei Touchstones, punând bazele moștenirii sociale și culturale a orașului. La prânz, vă veți afla în fața magnificei Primării, o capodoperă arhitecturală, înainte de a găsi liniștea în istorica Biserică Sf. Chad. După-amiaza oferă un refugiu verde în Parcul Broadfield, urmat de lumea fascinantă a stingerii incendiilor la Muzeul Pompierilor. Plimbarea se încheie la Teatrul Gracie Fields, un far al artelor spectacolului din oraș, oferind o încheiere perfectă pentru o zi de explorare.",
+        "en": "Your day on foot in Rochdale begins with a deep dive into its co-operative and artistic history. The morning is dedicated to the Pioneers Museum and Touchstones gallery, laying the foundation of the town's social and cultural heritage. By midday, you'll stand before the magnificent Town Hall, a masterpiece of architecture, before finding peace in the historic St Chad's Church. The afternoon offers a green refuge in Broadfield Park, followed by the fascinating world of firefighting at the Fire Service Museum. Your walk concludes at the Gracie Fields Theatre, a beacon of the town's performing arts, providing a perfect end to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Ein herzhaftes lokales Gericht aus Hackfleisch und Zwiebeln, eingewickelt in einen Suet-Teig."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Ein preisgekrönter Pub mit einer großen Auswahl an Real Ales und herzhaftem Pub-Essen."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Ein klassischer, langsam gekochter Lammeintopf mit Kartoffelscheiben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Helyi specialitás: darált hús és hagyma faggyútésztába göngyölve."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Díjnyertes pub, valódi ale-ek széles választékával és kiadós ételekkel."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Klasszikus, lassan főzött bárányragu burgonyaszeletekkel a tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Budincă Rag",
+            "tip": "Un fel de mâncare local consistent, cu carne tocată și ceapă învelite într-un aluat de seu."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Un pub premiat cu o selecție vastă de beri artizanale și mâncare consistentă."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "O tocană clasică de miel, gătită lent, acoperită cu felii de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rag Pudding",
+            "tip": "A savoury local dish of minced meat and onions wrapped in a suet pastry."
+          },
+          {
+            "name": "The Baum",
+            "tip": "An award-winning pub with a huge selection of real ales and hearty pub food."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "A classic slow-cooked lamb stew topped with sliced potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Broadfield Park Rosengarten",
+            "tip": "Finden Sie eine ruhige Bank zwischen den historischen Rosenbeeten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Roch",
+            "tip": "Ein kurzer Spaziergang entlang des Flusses Roch bietet einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von St. Chad",
+            "tip": "Der alte Kirchhof ist ein friedlicher Ort mit viel Geschichte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broadfield Park rózsakertje",
+            "tip": "Keressen egy csendes padot a történelmi rózsaágyások között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Roch folyó partja",
+            "tip": "Egy rövid séta a Roch folyó mentén nyugalmat ad.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Chad-templom kertje",
+            "tip": "A régi templomkert egy békés, történelmi hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri din Parcul Broadfield",
+            "tip": "Găsiți o bancă liniștită printre straturile istorice de trandafiri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Roch",
+            "tip": "O scurtă plimbare de-a lungul râului Roch oferă un moment de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Sf. Chad",
+            "tip": "Vechea curte a bisericii este un spațiu pașnic, încărcat de istorie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Broadfield Park Rose Garden",
+            "tip": "Find a quiet bench among the historic rose beds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the River Roch",
+            "tip": "A short walk along the River Roch can offer a moment of calm.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Chad's Churchyard",
+            "tip": "The old churchyard is a peaceful space steeped in history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Erleben Sie einen traditionellen Lancashire-Markt mit lokalen Produkten und Waren."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochdale-i piac",
+            "tip": "Tapasztalja meg a hagyományos lancashire-i piacot helyi termékekkel."
+          },
+          {
+            "name": "The Wheatsheaf Bevásárlóközpont",
+            "tip": "Nagy márkák és független üzletek keveréke a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rochdale",
+            "tip": "Experimentați o piață tradițională din Lancashire cu produse și mărfuri locale."
+          },
+          {
+            "name": "Centrul Comercial The Wheatsheaf",
+            "tip": "Un amestec de branduri cunoscute și magazine independente în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Experience a traditional Lancashire market with local produce and goods."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "A mix of high-street brands and independent shops in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf den Beinen sein werden.",
+          "Überprüfen Sie die Öffnungszeiten der Museen, da einige saisonabhängig sein können.",
+          "Ein leichter Regenmantel ist immer eine gute Idee im Norden Englands.",
+          "Nutzen Sie die Mittagspause für ein herzhaftes Pub-Mittagessen in der Nähe des Rathauses."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét talpon tölti.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel némelyik szezonális lehet.",
+          "Egy könnyű esőkabát mindig jó ötlet Észak-Angliában.",
+          "Használja ki az ebédszünetet egy kiadós pub-ebédre a Városháza közelében."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți petrece cea mai mare parte a zilei în picioare.",
+          "Verificați orele de deschidere ale muzeelor, deoarece unele pot avea program sezonier.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în nordul Angliei.",
+          "Folosiți pauza de prânz pentru o masă consistentă la un pub lângă Primărie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet for most of the day.",
+          "Check the opening times for the museums, as some can be seasonal.",
+          "A light raincoat is always a good idea in the North of England.",
+          "Take advantage of the lunch break to have a hearty pub lunch near the Town Hall."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:41",
+      "total_km": 9.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Rochdale",
+            "hu": "Rochdale-i Városháza",
+            "ro": "Primăria Rochdale",
+            "en": "Rochdale Town Hall"
+          },
+          "coords": [
+            -2.1595,
+            53.614
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut, bevor Sie das prächtige Innere erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a pazar belső tereket.",
+            "ro": "Asigurați-vă bine bicicleta înainte de a explora interiorul magnific.",
+            "en": "Secure your bike well before exploring the magnificent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Chad's Kirche",
+            "hu": "Szent Chad-templom",
+            "ro": "Biserica Sf. Chad",
+            "en": "St Chad's Church"
+          },
+          "coords": [
+            -2.1585,
+            53.613
+          ],
+          "category": "churches",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus entfernt, lassen Sie Ihr Fahrrad am Hauptplatz.",
+            "hu": "Rövid séta a Városházától, hagyja a biciklit a főtéren.",
+            "ro": "O scurtă plimbare de la Primărie, lăsați bicicleta în piața principală.",
+            "en": "A short walk from the town hall, leave your bike in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pioniermuseum",
+            "hu": "Úttörők Múzeuma",
+            "ro": "Muzeul Pionierilor",
+            "en": "Pioneers Museum"
+          },
+          "coords": [
+            -2.158,
+            53.615
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß zur Toad Lane, um die Wurzeln der kooperativen Bewegung zu sehen.",
+            "hu": "Sétáljon át a Toad Lane-re, hogy megnézze a szövetkezeti mozgalom gyökereit.",
+            "ro": "Mergeți pe jos până la Toad Lane pentru a vedea rădăcinile mișcării cooperative.",
+            "en": "Walk over to Toad Lane to see the roots of the co-operative movement."
+          }
+        },
+        {
+          "name": {
+            "de": "Ellenroad Dampfmaschinenhaus",
+            "hu": "Ellenroad Gőzgépház",
+            "ro": "Casa Motoarelor Ellenroad",
+            "en": "Ellenroad Engine House"
+          },
+          "coords": [
+            -2.179,
+            53.593
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es ein „Steaming Day“ ist, um die riesigen Motoren in Aktion zu sehen.",
+            "hu": "Ellenőrizze, hogy „Gőzölő Nap” van-e, hogy működés közben lássa az óriási motorokat.",
+            "ro": "Verificați dacă este o „zi cu aburi” pentru a vedea motoarele gigantice în acțiune.",
+            "en": "Check if it's a 'steaming day' to see the giant engines in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Broadfield Park",
+            "hu": "Broadfield Park",
+            "ro": "Parcul Broadfield",
+            "en": "Broadfield Park"
+          },
+          "coords": [
+            -2.163,
+            53.612
+          ],
+          "category": "parks",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an und genießen Sie einen Spaziergang durch den viktorianischen Park.",
+            "hu": "Zárja le a kerékpárját a bejáratnál, és élvezze a sétát a viktoriánus parkban.",
+            "ro": "Legați-vă bicicleta la intrare și bucurați-vă de o plimbare prin parcul victorian.",
+            "en": "Lock your bike at the entrance and enjoy a stroll through the Victorian park."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchstones Rochdale",
+            "hu": "Touchstones Rochdale",
+            "ro": "Touchstones Rochdale",
+            "en": "Touchstones Rochdale"
+          },
+          "coords": [
+            -2.155,
+            53.616
+          ],
+          "category": "museums",
+          "arrive_at": "16:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um mehr über die lokale Geschichte zu erfahren, nachdem Sie die Stadt erkundet haben.",
+            "hu": "Nagyszerű hely a helyi történelem megismerésére a város felfedezése után.",
+            "ro": "Un loc minunat pentru a învăța despre istoria locală după ce ați explorat orașul.",
+            "en": "A great place to learn about local history after exploring the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum",
+            "hu": "Tűzoltó Múzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Service Museum"
+          },
+          "coords": [
+            -2.155,
+            53.6135
+          ],
+          "category": "museums",
+          "arrive_at": "17:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender letzter Halt, der die Geschichte des Mutes zeigt.",
+            "hu": "Egy lenyűgöző utolsó állomás, amely a bátorság történetét mutatja be.",
+            "ro": "O ultimă oprire fascinantă, care prezintă istoria curajului.",
+            "en": "A fascinating final stop showcasing a history of bravery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Rochdale verbindet städtische Erkundung mit industriellem Erbe. Sie beginnen im Herzen der Stadt, am prächtigen Rathaus, gefolgt von kurzen Spaziergängen zur St. Chad's Kirche und dem Pioneers Museum. Dann steigen Sie aufs Rad für eine längere Fahrt zum Ellenroad Dampfmaschinenhaus, einem Denkmal für die industrielle Revolution. Der Nachmittag führt Sie zurück ins Grüne des Broadfield Parks für eine wohlverdiente Pause. Die Tour geht weiter mit einem Besuch bei Touchstones, wo Kunst und Geschichte zusammenkommen, und endet im einzigartigen Feuerwehrmuseum. Dieser Tag auf zwei Rädern bietet eine dynamische Mischung aus Rochdales Vergangenheit und Gegenwart.",
+        "hu": "A rochdale-i kerékpártúra összekapcsolja a városi felfedezést az ipari örökséggel. A város szívében, a csodálatos Városházánál kezd, majd rövid sétákat tesz a Szent Chad-templomhoz és az Úttörők Múzeumához. Ezután biciklire pattan egy hosszabb útra az Ellenroad Gőzgépházhoz, az ipari forradalom emlékművéhez. A délután visszavezeti a Broadfield Park zöldjébe egy jól megérdemelt szünetre. A túra a Touchstones meglátogatásával folytatódik, ahol a művészet és a történelem találkozik, és az egyedülálló Tűzoltó Múzeumban ér véget. Ez a két keréken töltött nap dinamikus keverékét kínálja Rochdale múltjának és jelenének.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Rochdale combină explorarea urbană cu patrimoniul industrial. Începeți în inima orașului, la magnifica Primărie, urmată de plimbări scurte la Biserica Sf. Chad și Muzeul Pionierilor. Apoi, urcați pe bicicletă pentru o călătorie mai lungă la Casa Motoarelor Ellenroad, un monument al revoluției industriale. După-amiaza vă aduce înapoi în verdele Parcului Broadfield pentru o pauză binemeritată. Turul continuă cu o vizită la Touchstones, unde arta și istoria se întâlnesc, și se încheie la unicul Muzeu al Pompierilor. Această zi pe două roți oferă un amestec dinamic al trecutului și prezentului din Rochdale.",
+        "en": "Your cycling tour of Rochdale blends urban exploration with industrial heritage. You'll start in the heart of town at the magnificent Town Hall, followed by short walks to St Chad's Church and the Pioneers Museum. Then, you'll hop on your bike for a longer ride to the Ellenroad Engine House, a monument to the industrial revolution. The afternoon brings you back to the greenery of Broadfield Park for a well-deserved break. The tour continues with a visit to Touchstones, where art and history converge, and finishes at the unique Fire Service Museum. This day on two wheels offers a dynamic mix of Rochdale's past and present."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Ein herzhaftes lokales Gericht aus Hackfleisch und Zwiebeln, eingewickelt in einen Suet-Teig."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Ein preisgekrönter Pub mit einer großen Auswahl an Real Ales und herzhaftem Pub-Essen."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Ein klassischer, langsam gekochter Lammeintopf mit Kartoffelscheiben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Helyi specialitás: darált hús és hagyma faggyútésztába göngyölve."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Díjnyertes pub, valódi ale-ek széles választékával és kiadós ételekkel."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Klasszikus, lassan főzött bárányragu burgonyaszeletekkel a tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Budincă Rag",
+            "tip": "Un fel de mâncare local consistent, cu carne tocată și ceapă învelite într-un aluat de seu."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Un pub premiat cu o selecție vastă de beri artizanale și mâncare consistentă."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "O tocană clasică de miel, gătită lent, acoperită cu felii de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rag Pudding",
+            "tip": "A savoury local dish of minced meat and onions wrapped in a suet pastry."
+          },
+          {
+            "name": "The Baum",
+            "tip": "An award-winning pub with a huge selection of real ales and hearty pub food."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "A classic slow-cooked lamb stew topped with sliced potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Healey Dell Nature Reserve",
+            "tip": "Obwohl nicht auf dieser Route, eine kurze Radtour entfernt für echte Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Finden Sie einen abgelegenen Pfad abseits des Hauptwegs.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof von St. Chad",
+            "tip": "Ein friedlicher Ort, um nachzudenken, bevor Sie Ihre Fahrt fortsetzen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Healey Dell Természetvédelmi Terület",
+            "tip": "Bár nincs ezen az útvonalon, egy rövid bicikliútra található az igazi békéért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Keressen egy eldugott ösvényt a főúttól távolabb.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Chad-templom kertje",
+            "tip": "Békés hely az elmélkedésre, mielőtt folytatná útját.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Healey Dell",
+            "tip": "Deși nu este pe acest traseu, este la o scurtă plimbare cu bicicleta pentru o liniște adevărată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Broadfield",
+            "tip": "Găsiți o cărare retrasă, departe de aleea principală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Chad",
+            "tip": "Un loc pașnic pentru a reflecta înainte de a continua călătoria.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Healey Dell Nature Reserve",
+            "tip": "Although not on this route, it's a short bike ride away for true tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Find a secluded path away from the main walkway.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Chad's Churchyard",
+            "tip": "A peaceful spot to reflect before continuing your ride.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Erleben Sie einen traditionellen Lancashire-Markt mit lokalen Produkten und Waren."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochdale-i piac",
+            "tip": "Tapasztalja meg a hagyományos lancashire-i piacot helyi termékekkel."
+          },
+          {
+            "name": "The Wheatsheaf Bevásárlóközpont",
+            "tip": "Nagy márkák és független üzletek keveréke a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rochdale",
+            "tip": "Experimentați o piață tradițională din Lancashire cu produse și mărfuri locale."
+          },
+          {
+            "name": "Centrul Comercial The Wheatsheaf",
+            "tip": "Un amestec de branduri cunoscute și magazine independente în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Experience a traditional Lancashire market with local produce and goods."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "A mix of high-street brands and independent shops in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Einige Strecken können hügelig sein, seien Sie also auf etwas Anstrengung vorbereitet.",
+          "Planen Sie Ihre Route im Voraus, da einige Gebiete fahrradfreundlicher sind als andere.",
+          "Eine Wasserflasche und Snacks sind für die längeren Fahrten unerlässlich."
+        ],
+        "hu": [
+          "Hozzon magával egy jó lakatot a kerékpárjához.",
+          "Néhány szakasz dombos lehet, ezért készüljön fel némi erőfeszítésre.",
+          "Tervezze meg előre az útvonalát, mivel egyes területek kerékpárbarátabbak, mint mások.",
+          "Egy kulacs víz és némi harapnivaló elengedhetetlen a hosszabb túrákhoz."
+        ],
+        "ro": [
+          "Aduceți un lacăt bun pentru bicicletă.",
+          "Unele porțiuni pot fi deluroase, așa că fiți pregătiți pentru puțin efort.",
+          "Planificați-vă traseul în avans, deoarece unele zone sunt mai prietenoase cu bicicletele decât altele.",
+          "O sticlă de apă și gustări sunt esențiale pentru călătoriile mai lungi."
+        ],
+        "en": [
+          "Bring a good lock for your bicycle.",
+          "Some of the routes can be hilly, so be prepared for a bit of a workout.",
+          "Plan your route in advance, as some areas are more bike-friendly than others.",
+          "A water bottle and snacks are essential for the longer rides."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:21",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pioniermuseum",
+            "hu": "Úttörők Múzeuma",
+            "ro": "Muzeul Pionierilor",
+            "en": "Pioneers Museum"
+          },
+          "coords": [
+            -2.158,
+            53.615
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Parkoljon a városközpontban, és kezdje a felfedezést gyalog.",
+            "ro": "Parcați în centrul orașului și începeți explorarea pe jos.",
+            "en": "Park in the town centre and start your cluster exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchstones Rochdale",
+            "hu": "Touchstones Rochdale",
+            "ro": "Touchstones Rochdale",
+            "en": "Touchstones Rochdale"
+          },
+          "coords": [
+            -2.155,
+            53.616
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Pioneers Museum.",
+            "hu": "Rövid séta az Úttörők Múzeumától.",
+            "ro": "O scurtă plimbare de la Muzeul Pionierilor.",
+            "en": "A short walk from the Pioneers Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Rochdale",
+            "hu": "Rochdale-i Városháza",
+            "ro": "Primăria Rochdale",
+            "en": "Rochdale Town Hall"
+          },
+          "coords": [
+            -2.1595,
+            53.614
+          ],
+          "category": "monuments",
+          "arrive_at": "12:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück des Stadtzentrums, das Sie nicht verpassen dürfen.",
+            "hu": "A városközpont kihagyhatatlan ékköve.",
+            "ro": "Piesa centrală a centrului orașului, care nu trebuie ratată.",
+            "en": "The unmissable centrepiece of the town centre."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Chad's Kirche",
+            "hu": "Szent Chad-templom",
+            "ro": "Biserica Sf. Chad",
+            "en": "St Chad's Church"
+          },
+          "coords": [
+            -2.1585,
+            53.613
+          ],
+          "category": "churches",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese alte Kirche überblickt das Rathaus.",
+            "hu": "Ez az ősi templom a Városházára néz.",
+            "ro": "Această biserică veche are vedere la Primărie.",
+            "en": "This ancient church overlooks the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Hollingworth Lake",
+            "hu": "Hollingworth-tó",
+            "ro": "Lacul Hollingworth",
+            "en": "Hollingworth Lake"
+          },
+          "coords": [
+            -2.09,
+            53.62
+          ],
+          "category": "lakes",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit, ins Auto zu steigen und zur Landschaft zu fahren. Perfekt für ein Mittagessen am See.",
+            "hu": "Ideje autóba ülni és a vidék felé venni az irányt. Tökéletes egy tóparti ebédhez.",
+            "ro": "E timpul să urcați în mașină și să vă îndreptați spre peisajul rural. Perfect pentru un prânz pe malul lacului.",
+            "en": "Time to get in the car and head for the countryside. Perfect for a lakeside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ellenroad Dampfmaschinenhaus",
+            "hu": "Ellenroad Gőzgépház",
+            "ro": "Casa Motoarelor Ellenroad",
+            "en": "Ellenroad Engine House"
+          },
+          "coords": [
+            -2.179,
+            53.593
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt, um in die industrielle Vergangenheit der Region einzutauchen.",
+            "hu": "Egy rövid autóút, hogy elmerüljön a régió ipari múltjában.",
+            "ro": "O scurtă călătorie cu mașina pentru a pătrunde în trecutul industrial al zonei.",
+            "en": "A short drive to delve into the area's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Healey Dell",
+            "hu": "Healey Dell",
+            "ro": "Healey Dell",
+            "en": "Healey Dell"
+          },
+          "coords": [
+            -2.18,
+            53.64
+          ],
+          "category": "natural features",
+          "arrive_at": "17:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem friedlichen Spaziergang in diesem wunderschönen Naturreservat.",
+            "hu": "Zárja a napot egy békés sétával ebben a gyönyörű természetvédelmi területen.",
+            "ro": "Încheiați ziua cu o plimbare liniștită în această frumoasă rezervație naturală.",
+            "en": "End the day with a peaceful walk in this beautiful nature reserve."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Rochdale ist so konzipiert, dass er das städtische Erbe mit der natürlichen Schönheit der Umgebung verbindet. Sie beginnen den Morgen damit, Ihr Auto im Zentrum abzustellen und zu Fuß ein Cluster von Schlüsselstätten zu erkunden: das Pioneers Museum, Touchstones, das Rathaus und die St. Chad's Kirche. Dies gibt Ihnen einen konzentrierten Einblick in die Geschichte der Stadt. Am Nachmittag fahren Sie zum malerischen Hollingworth Lake für eine Mittagspause und einen Szenenwechsel. Weitere kurze Fahrten bringen Sie zum industriellen Wunder des Ellenroad Dampfmaschinenhauses und schließlich zur ruhigen Schönheit von Healey Dell, wo Sie Ihren Tag inmitten der Natur ausklingen lassen.",
+        "hu": "Az autós nap Rochdale-ben úgy van kialakítva, hogy ötvözze a városi örökséget a környező természeti szépséggel. A reggelt a központban parkolva kezdi, és gyalogosan fedezi fel a legfontosabb helyszíneket: az Úttörők Múzeumát, a Touchstones-t, a Városházát és a Szent Chad-templomot. Ez koncentrált betekintést nyújt a város történelmébe. Délután a festői Hollingworth-tóhoz hajt egy ebédszünetre és tájváltásra. További rövid utak vezetnek az Ellenroad Gőzgépház ipari csodájához, és végül a Healey Dell csendes szépségéhez, ahol a természetben fejezheti be a napot.",
+        "ro": "Ziua dumneavoastră cu mașina în Rochdale este concepută pentru a combina patrimoniul urban cu frumusețea naturală din jur. Începeți dimineața parcând în centru și explorând pe jos un grup de situri cheie: Muzeul Pionierilor, Touchstones, Primăria și Biserica Sf. Chad. Acest lucru vă oferă o doză concentrată din istoria orașului. După-amiaza, conduceți la pitorescul Lac Hollingworth pentru o pauză de prânz și o schimbare de peisaj. Alte călătorii scurte cu mașina vă duc la minunea industrială a Casei Motoarelor Ellenroad și, în final, la frumusețea liniștită din Healey Dell, unde vă puteți încheia ziua înconjurați de natură.",
+        "en": "Your car tour of Rochdale is designed to blend urban heritage with surrounding natural beauty. You'll start the morning by parking in the centre and exploring a cluster of key sites on foot: the Pioneers Museum, Touchstones, the Town Hall, and St Chad's Church. This gives you a concentrated dose of the town's history. In the afternoon, you'll drive to the scenic Hollingworth Lake for a lunch break and a change of scenery. Further short drives take you to the industrial marvel of Ellenroad Engine House and finally to the tranquil beauty of Healey Dell, where you can end your day surrounded by nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Ein herzhaftes lokales Gericht aus Hackfleisch und Zwiebeln, eingewickelt in einen Suet-Teig."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Ein preisgekrönter Pub mit einer großen Auswahl an Real Ales und herzhaftem Pub-Essen."
+          },
+          {
+            "name": "The Wine Press",
+            "tip": "Ein Restaurant am Hollingworth Lake, das eine großartige Aussicht mit seinem Essen bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Helyi specialitás: darált hús és hagyma faggyútésztába göngyölve."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Díjnyertes pub, valódi ale-ek széles választékával és kiadós ételekkel."
+          },
+          {
+            "name": "The Wine Press",
+            "tip": "Étterem a Hollingworth-tónál, amely nagyszerű kilátást kínál az ételek mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Budincă Rag",
+            "tip": "Un fel de mâncare local consistent, cu carne tocată și ceapă învelite într-un aluat de seu."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Un pub premiat cu o selecție vastă de beri artizanale și mâncare consistentă."
+          },
+          {
+            "name": "The Wine Press",
+            "tip": "Un restaurant lângă Lacul Hollingworth care oferă vederi minunate alături de mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rag Pudding",
+            "tip": "A savoury local dish of minced meat and onions wrapped in a suet pastry."
+          },
+          {
+            "name": "The Baum",
+            "tip": "An award-winning pub with a huge selection of real ales and hearty pub food."
+          },
+          {
+            "name": "The Wine Press",
+            "tip": "A restaurant by Hollingworth Lake, offering great views with its food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Healey Dell Viadukt",
+            "tip": "Stehen Sie auf dem Viadukt für einen atemberaubenden Blick auf das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hollingworth Lake",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer, um die Wasservögel zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Auch mit dem Auto leicht erreichbar für einen kurzen, ruhigen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Healey Dell viadukt",
+            "tip": "Álljon a viadukton a völgyre nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hollingworth-tó",
+            "tip": "Keressen egy csendes helyet a parton a vízimadarak megfigyeléséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Autóval is könnyen megközelíthető egy rövid, csendes sétáért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viaductul Healey Dell",
+            "tip": "Stați pe viaduct pentru o priveliște uluitoare asupra văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Hollingworth",
+            "tip": "Găsiți un loc liniștit pe mal pentru a privi păsările de apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Broadfield",
+            "tip": "Ușor accesibil și cu mașina pentru o plimbare scurtă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Healey Dell Viaduct",
+            "tip": "Stand on top of the viaduct for a stunning view of the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hollingworth Lake",
+            "tip": "Find a quiet spot on the shore to watch the waterfowl.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Easily accessible by car too for a short, quiet stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Erleben Sie einen traditionellen Lancashire-Markt mit lokalen Produkten und Waren."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochdale-i piac",
+            "tip": "Tapasztalja meg a hagyományos lancashire-i piacot helyi termékekkel."
+          },
+          {
+            "name": "The Wheatsheaf Bevásárlóközpont",
+            "tip": "Nagy márkák és független üzletek keveréke a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rochdale",
+            "tip": "Experimentați o piață tradițională din Lancashire cu produse și mărfuri locale."
+          },
+          {
+            "name": "Centrul Comercial The Wheatsheaf",
+            "tip": "Un amestec de branduri cunoscute și magazine independente în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Experience a traditional Lancashire market with local produce and goods."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "A mix of high-street brands and independent shops in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein Navigationssystem ist hilfreich, um zwischen den weiter entfernten Orten zu navigieren.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere zu Stoßzeiten.",
+          "Die Cluster-Walking-Methode ist der beste Weg, das Stadtzentrum ohne Parkprobleme zu erleben."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "A GPS hasznos a távolabbi helyszínek közötti navigációhoz.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "A „cluster walking” módszer a legjobb módja a belváros megismerésének parkolási gondok nélkül."
+        ],
+        "ro": [
+          "Verificați opțiunile și taxele de parcare în avans.",
+          "Un GPS este util pentru a naviga între locațiile mai îndepărtate.",
+          "Luați în calcul timp suplimentar pentru trafic, în special la orele de vârf.",
+          "Metoda de mers pe jos în grupuri este cea mai bună modalitate de a experimenta centrul orașului fără bătăi de cap cu parcarea."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is helpful for navigating between the more distant locations.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "The cluster-walking method is the best way to experience the town centre without parking hassles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 12.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Rochdale",
+            "hu": "Rochdale-i Városháza",
+            "ro": "Primăria Rochdale",
+            "en": "Rochdale Town Hall"
+          },
+          "coords": [
+            -2.1595,
+            53.614
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof, der nur einen kurzen Spaziergang entfernt ist.",
+            "hu": "Kezdje a központi buszpályaudvartól, amely csak egy rövid sétára van.",
+            "ro": "Începeți de la autogara centrală, care este la o scurtă plimbare.",
+            "en": "Start from the central bus interchange, which is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Chad's Kirche",
+            "hu": "Szent Chad-templom",
+            "ro": "Biserica Sf. Chad",
+            "en": "St Chad's Church"
+          },
+          "coords": [
+            -2.1585,
+            53.613
+          ],
+          "category": "churches",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Rathaus durch den Stadtplatz.",
+            "hu": "Könnyű séta a Városházától a főtéren keresztül.",
+            "ro": "O plimbare ușoară de la Primărie prin piața orașului.",
+            "en": "An easy walk from the town hall across the town square."
+          }
+        },
+        {
+          "name": {
+            "de": "Touchstones Rochdale",
+            "hu": "Touchstones Rochdale",
+            "ro": "Touchstones Rochdale",
+            "en": "Touchstones Rochdale"
+          },
+          "coords": [
+            -2.155,
+            53.616
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Zentrum als Teil Ihrer Wanderung durch das Stadtzentrum.",
+            "hu": "Fedezze fel ezt a kulturális központot a belvárosi séta részeként.",
+            "ro": "Explorați acest centru cultural ca parte a plimbării dumneavoastră prin centrul orașului.",
+            "en": "Explore this cultural hub as part of your town centre walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Pioniermuseum",
+            "hu": "Úttörők Múzeuma",
+            "ro": "Muzeul Pionierilor",
+            "en": "Pioneers Museum"
+          },
+          "coords": [
+            -2.158,
+            53.615
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt in Ihrem zentralen Wandercluster.",
+            "hu": "Az utolsó megálló a központi sétaútvonalon.",
+            "ro": "Ultima oprire în grupul de plimbare central.",
+            "en": "The final stop in your central walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Hollingworth Lake",
+            "hu": "Hollingworth-tó",
+            "ro": "Lacul Hollingworth",
+            "en": "Hollingworth Lake"
+          },
+          "coords": [
+            -2.09,
+            53.62
+          ],
+          "category": "lakes",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum nach Littleborough für den See.",
+            "hu": "Menjen busszal a városközpontból Littleborough-ba a tóhoz.",
+            "ro": "Luați un autobuz din centrul orașului spre Littleborough pentru lac.",
+            "en": "Take a bus from the town centre towards Littleborough for the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Ellenroad Dampfmaschinenhaus",
+            "hu": "Ellenroad Gőzgépház",
+            "ro": "Casa Motoarelor Ellenroad",
+            "en": "Ellenroad Engine House"
+          },
+          "coords": [
+            -2.179,
+            53.593
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, um diesen Ort zu erreichen, planen Sie also entsprechend.",
+            "hu": "Lehet, hogy át kell szállnia, hogy elérje ezt a helyet, ezért tervezzen ennek megfelelően.",
+            "ro": "S-ar putea să fie nevoie să schimbați autobuzul pentru a ajunge la această locație, așa că planificați-vă în consecință.",
+            "en": "You may need to change buses to reach this location, so plan accordingly."
+          }
+        },
+        {
+          "name": {
+            "de": "Broadfield Park",
+            "hu": "Broadfield Park",
+            "ro": "Parcul Broadfield",
+            "en": "Broadfield Park"
+          },
+          "coords": [
+            -2.163,
+            53.612
+          ],
+          "category": "parks",
+          "arrive_at": "18:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer kurzen Busfahrt zurück ins Zentrum und einem entspannenden Spaziergang.",
+            "hu": "Zárja a napot egy rövid buszúttal vissza a központba és egy pihentető sétával.",
+            "ro": "Încheiați-vă ziua cu o scurtă călătorie cu autobuzul înapoi în centru și o plimbare relaxantă.",
+            "en": "End your day with a short bus ride back towards the centre and a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundung von Rochdale mit öffentlichen Verkehrsmitteln nutzt die Cluster-Walking-Methode für maximale Effizienz. Der Morgen ist der Erkundung des kompakten Stadtzentrums zu Fuß gewidmet, einschließlich des Rathauses, der Kirche, Touchstones und des Pioneers Museums, die alle von einem zentralen Busknotenpunkt aus erreichbar sind. Am Nachmittag bringt Sie ein Bus zum ruhigen Hollingworth Lake, der einen Kontrast zur Stadt bietet. Eine weitere Busfahrt führt Sie zum industriellen Erbe des Ellenroad Dampfmaschinenhauses. Der Tag endet mit einer Rückfahrt ins Zentrum, um im Broadfield Park zu entspannen, was die Leichtigkeit zeigt, mit der man das vielfältige Angebot von Rochdale mit dem Bus erkunden kann.",
+        "hu": "A tömegközlekedéssel történő rochdale-i felfedezés a „cluster walking” módszert használja a maximális hatékonyság érdekében. A délelőtt a kompakt városközpont gyalogos felfedezésének van szentelve, beleértve a Városházát, a templomot, a Touchstones-t és az Úttörők Múzeumát, mind elérhető a központi buszpályaudvartól. Délután egy busz viszi a nyugodt Hollingworth-tóhoz, amely kontrasztot nyújt a várossal. Egy másik buszút vezet az Ellenroad Gőzgépház ipari örökségéhez. A nap a központba való visszatéréssel zárul, hogy pihenjen a Broadfield Parkban, bemutatva, milyen könnyen felfedezhetők Rochdale változatos kínálatai busszal.",
+        "ro": "Explorarea dumneavoastră a Rochdale cu transportul public folosește metoda de mers pe jos în grupuri pentru eficiență maximă. Dimineața este dedicată explorării pe jos a centrului compact al orașului, inclusiv Primăria, biserica, Touchstones și Muzeul Pionierilor, toate accesibile de la un nod central de autobuz. După-amiaza, un autobuz vă duce la liniștitul Lac Hollingworth, oferind un contrast cu orașul. O altă călătorie cu autobuzul vă poartă spre patrimoniul industrial al Casei Motoarelor Ellenroad. Ziua se încheie cu o călătorie înapoi în centru pentru a vă relaxa în Parcul Broadfield, demonstrând ușurința cu care se pot explora diversele oferte ale Rochdale cu autobuzul.",
+        "en": "Your exploration of Rochdale by public transport uses the cluster-walking method for maximum efficiency. The morning is dedicated to exploring the compact town centre on foot, including the Town Hall, church, Touchstones and Pioneers Museum, all accessible from a central bus hub. In the afternoon, a bus takes you to the tranquil Hollingworth Lake, providing a contrast to the town. Another bus journey carries you to the industrial heritage of Ellenroad Engine House. The day concludes with a trip back to the centre to unwind in Broadfield Park, showcasing the ease of exploring Rochdale's diverse offerings by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Ein herzhaftes lokales Gericht aus Hackfleisch und Zwiebeln, eingewickelt in einen Suet-Teig."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Ein preisgekrönter Pub mit einer großen Auswahl an Real Ales und herzhaftem Pub-Essen."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Ein klassischer, langsam gekochter Lammeintopf mit Kartoffelscheiben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rag Pudding",
+            "tip": "Helyi specialitás: darált hús és hagyma faggyútésztába göngyölve."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Díjnyertes pub, valódi ale-ek széles választékával és kiadós ételekkel."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Klasszikus, lassan főzött bárányragu burgonyaszeletekkel a tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Budincă Rag",
+            "tip": "Un fel de mâncare local consistent, cu carne tocată și ceapă învelite într-un aluat de seu."
+          },
+          {
+            "name": "The Baum",
+            "tip": "Un pub premiat cu o selecție vastă de beri artizanale și mâncare consistentă."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "O tocană clasică de miel, gătită lent, acoperită cu felii de cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rag Pudding",
+            "tip": "A savoury local dish of minced meat and onions wrapped in a suet pastry."
+          },
+          {
+            "name": "The Baum",
+            "tip": "An award-winning pub with a huge selection of real ales and hearty pub food."
+          },
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "A classic slow-cooked lamb stew topped with sliced potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hollingworth Lake",
+            "tip": "Nehmen Sie den Bus und entfliehen Sie dem Trubel der Stadt für einen ruhigen Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Ein leicht erreichbarer grüner Ort, um am Ende des Tages zu entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof von St. Chad",
+            "tip": "Ein ruhiger Ort im Herzen der Stadt, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hollingworth-tó",
+            "tip": "Szálljon buszra, és meneküljön el a város nyüzsgésétől egy csendes vízparti sétára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "Könnyen megközelíthető zöld terület a nap végi pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Chad-templom kertje",
+            "tip": "Egy csendes hely a város szívében, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Hollingworth",
+            "tip": "Luați autobuzul și evadați din agitația orașului pentru o plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Broadfield",
+            "tip": "Un spațiu verde ușor accesibil pentru a vă relaxa la sfârșitul zilei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Chad",
+            "tip": "Un loc liniștit în inima orașului, perfect pentru o pauză rapidă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hollingworth Lake",
+            "tip": "Take the bus and escape the town bustle for a quiet waterside walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Broadfield Park",
+            "tip": "An easily accessible green space to unwind at the end of the day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St Chad's Churchyard",
+            "tip": "A quiet spot in the heart of town, perfect for a quick break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Erleben Sie einen traditionellen Lancashire-Markt mit lokalen Produkten und Waren."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "Eine Mischung aus bekannten Marken und unabhängigen Geschäften im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochdale-i piac",
+            "tip": "Tapasztalja meg a hagyományos lancashire-i piacot helyi termékekkel."
+          },
+          {
+            "name": "The Wheatsheaf Bevásárlóközpont",
+            "tip": "Nagy márkák és független üzletek keveréke a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rochdale",
+            "tip": "Experimentați o piață tradițională din Lancashire cu produse și mărfuri locale."
+          },
+          {
+            "name": "Centrul Comercial The Wheatsheaf",
+            "tip": "Un amestec de branduri cunoscute și magazine independente în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochdale Market",
+            "tip": "Experience a traditional Lancashire market with local produce and goods."
+          },
+          {
+            "name": "The Wheatsheaf Shopping Centre",
+            "tip": "A mix of high-street brands and independent shops in the town centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit dem Bus.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Routen und Fahrpläne in Echtzeit zu verfolgen.",
+          "Berücksichtigen Sie die Wartezeiten auf Busse in Ihrem Zeitplan.",
+          "Überprüfen Sie die letzte Busverbindung zurück ins Zentrum, wenn Sie abends unterwegs sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Töltsön le egy tömegközlekedési alkalmazást az útvonalak és menetrendek valós idejű követéséhez.",
+          "Számoljon a buszokra való várakozási idővel az ütemtervében.",
+          "Ellenőrizze az utolsó buszjáratot vissza a központba, ha este van úton."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Descărcați o aplicație de transport public pentru a urmări rutele și orarele în timp real.",
+          "Luați în considerare timpii de așteptare pentru autobuze în programul dumneavoastră.",
+          "Verificați ultimul autobuz înapoi spre centru dacă stați afară seara târziu."
+        ],
+        "en": [
+          "Purchase a day rider ticket for unlimited bus travel.",
+          "Download a local transit app to track routes and timetables in real-time.",
+          "Factor in waiting times for buses into your schedule.",
+          "Check the last bus time back to the centre if you're out in the evening."
+        ]
+      }
+    }
+  }
+}

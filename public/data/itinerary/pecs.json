@@ -1,10 +1,10 @@
 {
   "city_id": "pecs",
   "anchor": {
-    "name": "Széchenyi tér",
+    "name": "Széchenyi-Platz",
     "coords": [
-      18.228,
-      46.076
+      18.2323,
+      46.0727
     ]
   },
   "modes": {
@@ -12,231 +12,388 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 2.2,
-      "stop_count": 6,
+      "end_estimate": "17:40",
+      "total_km": 4.1,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Széchenyi tér",
+          "name": {
+            "de": "Széchenyi-Platz und Moschee des Pascha Kassim",
+            "hu": "Széchenyi tér és Gázi Kászim pasa dzsámija",
+            "ro": "Piața Széchenyi și Moscheea Pașei Qasim",
+            "en": "Széchenyi Square and Mosque of Pasha Qasim"
+          },
           "coords": [
-            18.228,
-            46.076
+            18.2328,
+            46.0735
           ],
-          "category": "square",
-          "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Der älteste Platz der Stadt, umgeben von barocken Häusern.",
-            "hu": "A város legrégebbi tere, barokk házakkal övezve.",
-            "ro": "Cea mai veche piață a orașului, înconjurată de case baroce.",
-            "en": "The oldest square in the city, surrounded by baroque buildings."
+            "de": "Bewundern Sie die Mischung aus osmanischer und christlicher Architektur am Hauptplatz.",
+            "hu": "Csodálja meg az oszmán és keresztény építészet keveredését a város főterén.",
+            "ro": "Admirați amestecul de arhitectură otomană și creștină din piața principală.",
+            "en": "Admire the blend of Ottoman and Christian architecture in the main square."
           }
         },
         {
-          "name": "Pécsi Bazilika",
+          "name": {
+            "de": "Frühchristliche Nekropole",
+            "hu": "Ókeresztény sírkamrák",
+            "ro": "Necropola paleocreștină",
+            "en": "Early Christian Necropolis"
+          },
           "coords": [
-            18.223,
-            46.078
+            18.225,
+            46.074
           ],
-          "category": "cathedral",
-          "arrive_at": "09:31",
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Bedeutung der bemalten Gräber zu verstehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megértse a festett sírkamrák jelentőségét.",
+            "ro": "Participați la un tur ghidat pentru a înțelege semnificația mormintelor pictate.",
+            "en": "Take a guided tour to understand the significance of the painted tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Szent Pál-székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.226,
+            46.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
           "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf einen der Türme, um einen Panoramablick auf die Stadt zu genießen.",
+            "hu": "Menjen fel az egyik toronyba a városra nyíló panorámáért.",
+            "ro": "Urcați într-unul dintre turnuri pentru o vedere panoramică a orașului.",
+            "en": "Climb one of the towers for a panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbakan",
+            "hu": "Barbakan",
+            "ro": "Barbacanul",
+            "en": "Barbican"
+          },
+          "coords": [
+            18.224,
+            46.076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 30,
           "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Besuchen Sie die Krypta mit den Gräbern der Bischöfe.",
-            "hu": "Látogassa meg a kriptát a püspökök sírjaival.",
-            "ro": "Vizitați cripta cu mormintele episcopilor.",
-            "en": "Visit the crypt with the bishops’ tombs."
+            "de": "Spazieren Sie auf den alten Stadtmauern neben dem Barbakan.",
+            "hu": "Sétáljon egyet a Barbakán melletti régi városfalakon.",
+            "ro": "Plimbați-vă pe vechile ziduri ale orașului de lângă Barbacan.",
+            "en": "Walk on the old city walls adjacent to the Barbican."
           }
         },
         {
-          "name": "Püspöki Palota",
+          "name": {
+            "de": "Vasarely-Museum",
+            "hu": "Vasarely Múzeum",
+            "ro": "Muzeul Vasarely",
+            "en": "Vasarely Museum"
+          },
           "coords": [
-            18.225,
-            46.077
-          ],
-          "category": "historical",
-          "arrive_at": "10:50",
-          "stay_min": 80,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Bewundern Sie den Innenhof und die Fresken im Festsaal.",
-            "hu": "Csodálja meg a belső udvart és a díszterem freskóit.",
-            "ro": "Admirați curtea interioară și frescele din sala de festivități.",
-            "en": "Admire the inner courtyard and the frescoes in the banquet hall."
-          }
-        },
-        {
-          "name": "Zsolnay Múzeum",
-          "coords": [
-            18.237,
-            46.071
-          ],
-          "category": "museum",
-          "arrive_at": "12:20",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Die Zsolnay-Keramik ist weltberühmt – das Museum zeigt die schönsten Stücke.",
-            "hu": "A Zsolnay-kerámia világhírű – a múzeum a legszebb darabokat mutatja be.",
-            "ro": "Ceramica Zsolnay este renumită în lume – muzeul expune cele mai frumoase piese.",
-            "en": "Zsolnay porcelain is world-famous – the museum displays the finest pieces."
-          }
-        },
-        {
-          "name": "Tettye Park",
-          "coords": [
-            18.247,
-            46.084
-          ],
-          "category": "park",
-          "arrive_at": "14:16",
-          "stay_min": 75,
-          "hop_from_prev_min": 16,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Genießen Sie die Ruhe und den Blick auf das Mecsek-Gebirge.",
-            "hu": "Élvezze a csendet és a Mecsek-hegységre nyíló kilátást.",
-            "ro": "Bucurați-vă de liniște și de priveliștea munților Mecsek.",
-            "en": "Enjoy the tranquility and the view of the Mecsek Mountains."
-          }
-        },
-        {
-          "name": "Pécsi Corso Étterem",
-          "coords": [
-            18.23,
+            18.228,
             46.075
           ],
-          "category": "gastro",
-          "arrive_at": "15:39",
-          "stay_min": 80,
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 70,
           "hop_from_prev_min": 8,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Probieren Sie die regionale Küche mit frischen Zutaten aus der Baranya.",
-            "hu": "Kóstolja meg a régió helyi ételeit, friss baranyai alapanyagokból.",
-            "ro": "Încercați bucătăria regională cu ingrediente proaspete din Baranya.",
-            "en": "Try the regional cuisine with fresh ingredients from Baranya."
+            "de": "Verlieren Sie sich in den optischen Illusionen von Victor Vasarelys Op-Art.",
+            "hu": "Vesszen el Victor Vasarely op-art művészetének optikai illúzióiban.",
+            "ro": "Pierdeți-vă în iluziile optice ale artei Op a lui Victor Vasarely.",
+            "en": "Get lost in the optical illusions of Victor Vasarely's Op Art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.231,
+            46.074
+          ],
+          "category": "gastro",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Restaurant in einer der charmanten Seitengassen.",
+            "hu": "Próbáljon ki egy helyi éttermet az egyik hangulatos mellékutcában.",
+            "ro": "Încercați un restaurant local pe una dintre străduțele laterale fermecătoare.",
+            "en": "Try a local restaurant in one of the charming side alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Zsolnay-Kulturviertel",
+            "hu": "Zsolnay Kulturális Negyed",
+            "ro": "Cartierul Cultural Zsolnay",
+            "en": "Zsolnay Cultural Quarter"
+          },
+          "coords": [
+            18.243,
+            46.075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die eosin-glasierten Keramiken, die im Sonnenlicht schimmern.",
+            "hu": "Ne hagyja ki a napfényben csillogó eozinmázas kerámiákat.",
+            "ro": "Nu ratați ceramica glazurată cu eozină care strălucește în lumina soarelui.",
+            "en": "Don't miss the eosin-glazed ceramics shimmering in the sunlight."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Der Vormittag beginnt auf dem Széchenyi Platz, umgeben von pastellfarbenen Fassaden. Ein kurzer Spaziergang führt zur beeindruckenden Kathedrale, wo Sie die Krypta erkunden. Danach geht es zum Bischofspalast mit seinen kunstvollen Fresken. Nach einem Besuch des Zsolnay-Museums erwartet Sie ein entspannter Nachmittag im Tettye-Park. Den Abend lassen Sie im Pécsi Corso mit regionalen Spezialitäten ausklingen.",
-        "hu": "A délelőtt a Széchenyi téren kezdődik, pasztellszínű homlokzatok között. Rövid séta vezet a lenyűgöző Bazilikához, ahol felfedezheti a kriptát. Ezután a Püspöki Palota következik díszes freskóival. A Zsolnay Múzeum meglátogatása után egy pihentető délután vár a Tettye parkban. Az estét a Pécsi Corsóban fejezze be regionális specialitásokkal.",
-        "ro": "Dimineața începe în Piața Széchenyi, înconjurată de fațade în culori pastelate. O scurtă plimbare duce la impresionanta Catedrală, unde puteți explora cripta. Apoi urmează Palatul Episcopal cu frescele sale ornamentate. După vizita la Muzeul Zsolnay, vă așteaptă o după-amiază relaxantă în Parcul Tettye. Seara o încheiați la restaurantul Pécsi Corso cu specialități regionale.",
-        "en": "The morning begins at Széchenyi Square, surrounded by pastel facades. A short walk leads to the impressive Cathedral, where you can explore the crypt. Next is the Bishop’s Palace with its ornate frescoes. After visiting the Zsolnay Museum, a relaxing afternoon awaits in Tettye Park. End the evening at Pécsi Corso with regional specialties."
+        "de": "Ihr Tag in Pécs beginnt am pulsierenden Széchenyi-Platz, wo osmanische und ungarische Geschichte aufeinandertreffen. Am Vormittag erkunden Sie das unterirdische UNESCO-Weltkulturerbe, die frühchristliche Nekropole. Gegen Mittag besteigen Sie die Türme der Kathedrale und spazieren entlang der mittelalterlichen Mauern am Barbakan. Der Nachmittag ist der Kunst gewidmet, von Vasarelys Op-Art bis zur einzigartigen Keramik im Zsolnay-Viertel, wo Ihr Tag voller Kultur ausklingt.",
+        "hu": "Pécsi napja a nyüzsgő Széchenyi téren kezdődik, ahol az oszmán és a magyar történelem találkozik. Délelőtt a földalatti UNESCO világörökségi helyszínt, az ókeresztény sírkamrákat fedezi fel. Dél körül megmássza a székesegyház tornyait és sétál a középkori falak mentén a Barbakánnál. A délután a művészeté, Vasarely op-artjától a Zsolnay-negyed egyedi kerámiáiig, ahol a kultúrával teli napja véget ér.",
+        "ro": "Ziua dvs. în Pécs începe în vibranta Piață Széchenyi, unde istoria otomană și maghiară se întâlnesc. În cursul dimineții, explorați situl subteran al Patrimoniului Mondial UNESCO, Necropola paleocreștină. Spre prânz, urcați în turnurile Catedralei și plimbați-vă de-a lungul zidurilor medievale de la Barbacan. După-amiaza este dedicată artei, de la arta optică a lui Vasarely la ceramica unică din Cartierul Zsolnay, unde se încheie ziua dvs. plină de cultură.",
+        "en": "Your day in Pécs begins in the vibrant Széchenyi Square, where Ottoman and Hungarian history meet. In the morning, you'll explore the underground UNESCO World Heritage site, the Early Christian Necropolis. Around midday, climb the Cathedral's towers and walk along the medieval walls at the Barbican. The afternoon is dedicated to art, from Vasarely's Op Art to the unique ceramics in the Zsolnay Quarter, where your culture-filled day concludes."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Halászlé",
-            "tip": "Fischsuppe aus der Nahe gelegenen Donau"
+            "name": "Mecseki Kürtőskalács",
+            "tip": "Ein süßer, gegrillter Kuchen, perfekt für einen Snack."
+          },
+          {
+            "name": "Villányer Rotwein",
+            "tip": "Probieren Sie einen lokalen Wein aus der nahegelegenen berühmten Weinregion."
+          },
+          {
+            "name": "Reggeli",
+            "tip": "Ein beliebtes Restaurant mit moderner ungarischer Küche."
           }
         ],
         "hu": [
           {
-            "name": "Halászlé",
-            "tip": "A közeli Dunából származó halászlé"
+            "name": "Mecseki Kürtőskalács",
+            "tip": "Édes, faszénen sült sütemény, tökéletes uzsonnára."
+          },
+          {
+            "name": "Villányi vörösbor",
+            "tip": "Kóstoljon meg egy helyi bort a közeli híres borvidékről."
+          },
+          {
+            "name": "Reggeli",
+            "tip": "Népszerű étterem modern magyar konyhával."
           }
         ],
         "ro": [
           {
-            "name": "Halászlé",
-            "tip": "Supa de pește din Dunărea din apropiere"
+            "name": "Cozonac secuiesc din Mecsek",
+            "tip": "O prăjitură dulce, la grătar, perfectă pentru o gustare."
+          },
+          {
+            "name": "Vin roșu de Villány",
+            "tip": "Gustați un vin local din faimoasa regiune viticolă din apropiere."
+          },
+          {
+            "name": "Reggeli",
+            "tip": "Un restaurant popular cu bucătărie maghiară modernă."
           }
         ],
         "en": [
           {
-            "name": "Fisherman’s Soup",
-            "tip": "Fish soup from the nearby Danube"
+            "name": "Mecsek Chimney Cake",
+            "tip": "A sweet, grilled pastry perfect for a snack."
+          },
+          {
+            "name": "Villány Red Wine",
+            "tip": "Taste a local wine from the nearby famous wine region."
+          },
+          {
+            "name": "Reggeli",
+            "tip": "A popular restaurant with modern Hungarian cuisine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Tettye-Kilátó",
-            "tip": "Ein ruhiger Ort mit Panoramablick",
-            "emoji": "🌅"
+            "name": "Bischofsgarten (Püspöki Kert)",
+            "tip": "Ein ruhiger Garten hinter der Kathedrale, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tettye Park & Ruinen",
+            "tip": "Etwas bergauf, aber die Ruinen und der Park bieten eine friedliche Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Havihegyi-Kapelle",
+            "tip": "Ein kurzer Spaziergang zu dieser Kapelle bietet eine tolle Aussicht und Ruhe.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Tettye-kilátó",
-            "tip": "Nyugodt hely panorámás kilátással",
-            "emoji": "🌅"
+            "name": "Püspöki Kert",
+            "tip": "Csendes kert a székesegyház mögött, ideális egy kis pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tettye Park és romok",
+            "tip": "Kicsit hegynek felfelé, de a romok és a park békés menedéket nyújtanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Havihegyi-kápolna",
+            "tip": "Egy rövid séta ehhez a kápolnához nagyszerű kilátást és nyugalmat kínál.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Terasa Tettye",
-            "tip": "Un loc liniștit cu vedere panoramică",
-            "emoji": "🌅"
+            "name": "Grădina Episcopală (Püspöki Kert)",
+            "tip": "O grădină liniștită în spatele Catedralei, perfectă pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul și Ruinele Tettye",
+            "tip": "Puțin la deal, dar ruinele și parcul oferă o evadare pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Havihegy",
+            "tip": "O scurtă plimbare până la această capelă oferă priveliști grozave și liniște.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Tettye Viewpoint",
-            "tip": "A quiet spot with panoramic views",
-            "emoji": "🌅"
+            "name": "Bishop's Garden (Püspöki Kert)",
+            "tip": "A quiet garden behind the Cathedral, perfect for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tettye Park & Ruins",
+            "tip": "A bit uphill, but the ruins and park offer a peaceful escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Havihegy Chapel",
+            "tip": "A short walk to this chapel provides great views and tranquility.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Zsolnay Porzellanmanufaktur",
-            "tip": "Echtes ungarisches Porzellan als Souvenir"
+            "name": "Zsolnay Markenshop",
+            "tip": "Kaufen Sie authentische Zsolnay-Porzellan- und Eosin-Stücke."
+          },
+          {
+            "name": "Pécsi Kesztyű",
+            "tip": "Berühmte, handgefertigte Lederhandschuhe, ein traditionelles lokales Produkt."
+          },
+          {
+            "name": "Markthalle (Vásárcsarnok)",
+            "tip": "Entdecken Sie lokale Produkte, Paprika und handwerkliche Erzeugnisse."
           }
         ],
         "hu": [
           {
-            "name": "Zsolnay Porcelánmanufaktúra",
-            "tip": "Eredeti magyar porcelán ajándékba"
+            "name": "Zsolnay Márkabolt",
+            "tip": "Vásároljon autentikus Zsolnay porcelánt és eozin tárgyakat."
+          },
+          {
+            "name": "Pécsi Kesztyű",
+            "tip": "Híres, kézzel készített bőrkesztyű, egy hagyományos helyi termék."
+          },
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Fedezze fel a helyi termékeket, paprikát és kézműves árukat."
           }
         ],
         "ro": [
           {
-            "name": "Manufactura de Porțelan Zsolnay",
-            "tip": "Porțelan autentic maghiar ca suvenir"
+            "name": "Magazin de marcă Zsolnay",
+            "tip": "Cumpărați porțelan autentic Zsolnay și piese cu eozină."
+          },
+          {
+            "name": "Mănuși Pécs (Pécsi Kesztyű)",
+            "tip": "Mănuși de piele renumite, realizate manual, un produs local tradițional."
+          },
+          {
+            "name": "Hala Pieței (Vásárcsarnok)",
+            "tip": "Explorați produse locale, boia de ardei și produse artizanale."
           }
         ],
         "en": [
           {
-            "name": "Zsolnay Porcelain Manufactory",
-            "tip": "Authentic Hungarian porcelain as a souvenir"
+            "name": "Zsolnay Brand Shop",
+            "tip": "Purchase authentic Zsolnay porcelain and eosin pieces."
+          },
+          {
+            "name": "Pécs Gloves (Pécsi Kesztyű)",
+            "tip": "Famous handmade leather gloves, a traditional local product."
+          },
+          {
+            "name": "Market Hall (Vásárcsarnok)",
+            "tip": "Explore local produce, paprika, and artisan goods."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
-          "Planen Sie genug Zeit für die Kathedrale und das Museum ein.",
-          "Der Tettye Park ist ideal für eine Picknickpause.",
-          "Probieren Sie den lokalen Wein in einer der Weinstuben."
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind zu Fuß erreichbar.",
+          "Kaufen Sie eine Flasche Wasser, besonders im Sommer.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a macskaköves utcák miatt.",
-          "Szánjon elég időt a Bazilikára és a Múzeumra.",
-          "A Tettye park ideális piknik szünetre.",
-          "Kóstolja meg a helyi bort valamelyik borozóban."
+          "Viseljen kényelmes cipőt, a belváros macskaköves.",
+          "A legtöbb központi látnivaló gyalogosan elérhető.",
+          "Vigyen magával egy üveg vizet, különösen nyáron.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze a nyitvatartást előre."
         ],
         "ro": [
-          "Purtați încălțăminte comodă pentru pavajul de piatră.",
-          "Acordați suficient timp pentru Catedrală și Muzeu.",
-          "Parcul Tettye este ideal pentru o pauză de picnic.",
-          "Încercați vinul local într-una dintre cârciumi."
+          "Purtați pantofi confortabili, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor centrale sunt la distanță de mers pe jos.",
+          "Luați o sticlă de apă, mai ales în timpul verii.",
+          "Multe muzee sunt închise lunea, verificați programul în avans."
         ],
         "en": [
-          "Wear comfortable shoes for the cobblestone streets.",
-          "Allow enough time for the Cathedral and the Museum.",
-          "Tettye Park is ideal for a picnic break.",
-          "Try the local wine in one of the wine cellars."
+          "Wear comfortable shoes as the city center is cobblestoned.",
+          "Most central attractions are within easy walking distance.",
+          "Carry a bottle of water, especially during the summer.",
+          "Many museums are closed on Mondays, so check opening hours in advance."
         ]
       }
     },
@@ -244,177 +401,279 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 12.5,
-      "stop_count": 7,
+      "end_estimate": "16:47",
+      "total_km": 7.5,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Széchenyi tér",
+          "name": {
+            "de": "Széchenyi-Platz",
+            "hu": "Széchenyi tér",
+            "ro": "Piața Széchenyi",
+            "en": "Széchenyi Square"
+          },
           "coords": [
-            18.228,
-            46.076
+            18.2323,
+            46.0727
           ],
-          "category": "square",
-          "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Fahrradparkplätze gibt es am Rand des Platzes.",
-            "hu": "Kerékpárparkolók a tér szélén találhatók.",
-            "ro": "Parcări pentru biciclete se află la marginea pieței.",
-            "en": "Bicycle parking is available at the edge of the square."
+            "de": "Beginnen Sie Ihren Tag hier, wo die wichtigsten Straßen der Stadt zusammenlaufen.",
+            "hu": "Kezdje a napot itt, ahol a város főbb útjai összefutnak.",
+            "ro": "Începeți ziua aici, unde se întâlnesc străzile principale ale orașului.",
+            "en": "Start your day here, where the city's main streets converge."
           }
         },
         {
-          "name": "Pécsi Bazilika",
+          "name": {
+            "de": "Zsolnay-Kulturviertel",
+            "hu": "Zsolnay Kulturális Negyed",
+            "ro": "Cartierul Cultural Zsolnay",
+            "en": "Zsolnay Cultural Quarter"
+          },
           "coords": [
-            18.223,
-            46.078
+            18.243,
+            46.075
           ],
-          "category": "cathedral",
-          "arrive_at": "09:28",
-          "stay_min": 75,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.3,
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
           "tip_5lang": {
-            "de": "Stellen Sie das Rad neben dem Hauptportal ab.",
-            "hu": "Tegye le a biciklijét a főbejárat mellett.",
-            "ro": "Lăsați bicicleta lângă intrarea principală.",
-            "en": "Park your bike next to the main entrance."
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die vielen Galerien und Werkstätten zu Fuß.",
+            "hu": "Zárja le a biciklit, és fedezze fel gyalog a számos galériát és műhelyt.",
+            "ro": "Parcați bicicleta și explorați pe jos numeroasele galerii și ateliere.",
+            "en": "Lock up your bike and explore the many galleries and workshops on foot."
           }
         },
         {
-          "name": "Püspöki Palota",
+          "name": {
+            "de": "Moschee des Pascha Kassim",
+            "hu": "Gázi Kászim pasa dzsámija",
+            "ro": "Moscheea Pașei Qasim",
+            "en": "Mosque of Pasha Qasim"
+          },
+          "coords": [
+            18.2328,
+            46.0735
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Das größte türkische Bauwerk in Ungarn, heute eine katholische Kirche.",
+            "hu": "Magyarország legnagyobb török kori építménye, ma katolikus templom.",
+            "ro": "Cea mai mare structură turcească din Ungaria, acum o biserică catolică.",
+            "en": "The largest Turkish structure in Hungary, now a Catholic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Barbakan",
+            "hu": "Székesegyház és Barbakán",
+            "ro": "Catedrala și Barbacanul",
+            "en": "Cathedral and Barbican"
+          },
           "coords": [
             18.225,
-            46.077
+            46.0755
           ],
-          "category": "historical",
-          "arrive_at": "10:47",
-          "stay_min": 80,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.2,
+          "category": "churches/cathedrals",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Achtung: Kopfsteinpflaster im Innenhof.",
-            "hu": "Figyelem: macskakő az udvaron.",
-            "ro": "Atenție: piatră cubică în curte.",
-            "en": "Caution: cobblestones in the courtyard."
+            "de": "Erkunden Sie den Domplatz und die nahegelegenen mittelalterlichen Befestigungen.",
+            "hu": "Fedezze fel a Dóm teret és a közeli középkori erődítményeket.",
+            "ro": "Explorați Piața Catedralei și fortificațiile medievale din apropiere.",
+            "en": "Explore the Cathedral square and the nearby medieval fortifications."
           }
         },
         {
-          "name": "Zsolnay Múzeum",
+          "name": {
+            "de": "Mittagessen und Vasarely-Museum",
+            "hu": "Ebéd és Vasarely Múzeum",
+            "ro": "Prânz și Muzeul Vasarely",
+            "en": "Lunch and Vasarely Museum"
+          },
           "coords": [
-            18.237,
-            46.071
-          ],
-          "category": "museum",
-          "arrive_at": "12:11",
-          "stay_min": 100,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.7,
-          "tip_5lang": {
-            "de": "Radweg bis zum Museum gut ausgeschildert.",
-            "hu": "A múzeumig jól kiépített kerékpárút vezet.",
-            "ro": "Pistă de biciclete bine semnalizată până la muzeu.",
-            "en": "A well-signposted bike path leads to the museum."
-          }
-        },
-        {
-          "name": "Tettye Park",
-          "coords": [
-            18.247,
-            46.084
-          ],
-          "category": "park",
-          "arrive_at": "14:00",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.9,
-          "tip_5lang": {
-            "de": "Der Aufstieg zum Park ist etwas steil – schieben Sie das Rad.",
-            "hu": "A parkba vezető út meredek – tolja a biciklit.",
-            "ro": "Drumul spre parc este abrupt – împingeți bicicleta.",
-            "en": "The road to the park is steep – push your bike."
-          }
-        },
-        {
-          "name": "Pécsi Corso Étterem",
-          "coords": [
-            18.23,
+            18.228,
             46.075
           ],
           "category": "gastro",
-          "arrive_at": "15:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.6,
+          "arrive_at": "14:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Fahrradständer vor dem Restaurant vorhanden.",
-            "hu": "Az étterem előtt kerékpártároló van.",
-            "ro": "Suport pentru biciclete în fața restaurantului.",
-            "en": "Bicycle rack available outside the restaurant."
+            "de": "Kombinieren Sie ein Mittagessen mit einer Dosis faszinierender Op-Art.",
+            "hu": "Kombinálja az ebédet egy adag lenyűgöző op-arttal.",
+            "ro": "Combinați prânzul cu o doză de artă optică fascinantă.",
+            "en": "Combine lunch with a dose of mesmerizing Op Art."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Tettye Park",
+            "hu": "Tekerés a Tettye parkba",
+            "ro": "Plimbare cu bicicleta spre Parcul Tettye",
+            "en": "Ride to Tettye Park"
+          },
+          "coords": [
+            18.226,
+            46.084
+          ],
+          "category": "natural features",
+          "arrive_at": "16:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein etwas ansteigender, aber lohnender Ritt zu einem Park mit Ruinen und Aussicht.",
+            "hu": "Kissé emelkedő, de megéri feltekerni a romokkal és kilátással rendelkező parkba.",
+            "ro": "O plimbare puțin în pantă, dar plină de satisfacții, spre un parc cu ruine și priveliști.",
+            "en": "A slightly uphill but rewarding ride to a park with ruins and views."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Perfekt für eine Fahrradtour: Start am Széchenyi Platz, dann zur Kathedrale und zum Bischofspalast. Die Fahrt zum Zsolnay-Museum führt durch ruhige Straßen. Der Tettye Park ist eine sportliche Herausforderung, aber die Aussicht lohnt sich. Zum Abschluss ein gemütliches Abendessen im Pécsi Corso.",
-        "hu": "Tökéletes kerékpártúrához: indulás a Széchenyi térről, majd a Bazilika és a Püspöki Palota. A Zsolnay Múzeumhoz csendes utcákon tekerhet. A Tettye park sportos kihívás, de a kilátás megéri. Végül egy kényelmes vacsora a Pécsi Corsóban.",
-        "ro": "Perfect pentru un tur cu bicicleta: start în Piața Széchenyi, apoi Catedrala și Palatul Episcopal. Drumul spre Muzeul Zsolnay trece pe străzi liniștite. Parcul Tettye este o provocare sportivă, dar priveliștea merită. La final, o cină confortabilă la Pécsi Corso.",
-        "en": "Perfect for a bike tour: start at Széchenyi Square, then the Cathedral and Bishop’s Palace. The ride to the Zsolnay Museum goes through quiet streets. Tettye Park is a sporty challenge but the view is worth it. End with a cozy dinner at Pécsi Corso."
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Széchenyi-Platz. Die erste Etappe führt Sie ostwärts zum weitläufigen Zsolnay-Viertel, wo Sie Kunst und Architektur genießen. Zurück im Zentrum, widmen Sie sich den historischen Schätzen: der Moschee, der prächtigen Kathedrale und dem Barbakan. Nach einer Mittagspause mit einem Hauch von Op-Art im Vasarely-Museum, unternehmen Sie eine letzte, belebende Fahrt bergauf zum Tettye-Park, um den Tag mit einer schönen Aussicht abzuschließen.",
+        "hu": "Pattanjon biciklire és induljon a Széchenyi térről. Az első szakasz kelet felé, a tágas Zsolnay-negyedbe vezet, ahol a művészetet és építészetet élvezheti. Visszatérve a központba, szentelje idejét a történelmi kincseknek: a dzsáminak, a pompás székesegyháznak és a Barbakánnak. Egy ebédszünet és egy kis op-art után a Vasarely Múzeumban, tegyen egy utolsó, élénkítő utat felfelé a Tettye parkba, hogy a napot egy gyönyörű kilátással zárja.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Széchenyi. Prima etapă vă duce spre est, în vastul Cartier Zsolnay, unde vă puteți bucura de artă și arhitectură. Înapoi în centru, dedicați-vă comorilor istorice: moscheea, catedrala magnifică și Barbacanul. După o pauză de prânz cu o doză de artă optică la Muzeul Vasarely, faceți o ultimă plimbare revigorantă la deal, spre Parcul Tettye, pentru a încheia ziua cu o priveliște frumoasă.",
+        "en": "Hop on your bike and start from Széchenyi Square. The first leg takes you east to the expansive Zsolnay Quarter to enjoy art and architecture. Back in the center, dedicate your time to the historical treasures: the mosque, the magnificent cathedral, and the Barbican. After a lunch break with a dose of Op Art at the Vasarely Museum, take a final, invigorating ride uphill to Tettye Park to end the day with a beautiful view."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Langos",
-            "tip": "Frittierter Teig mit Sauerrahm und Käse – ideal nach der Radtour"
+            "name": "Pécsi Sör",
+            "tip": "Probieren Sie ein lokales Bier nach einer langen Radtour."
+          },
+          {
+            "name": "Zsolnay Étterem",
+            "tip": "Speisen Sie stilvoll im Kulturviertel."
+          },
+          {
+            "name": "Főispán",
+            "tip": "Eine Weinbar mit großer Auswahl an lokalen und nationalen Weinen."
           }
         ],
         "hu": [
           {
-            "name": "Lángos",
-            "tip": "Sült tészta tejföllel és sajttal – tökéletes a kerékpározás után"
+            "name": "Pécsi Sör",
+            "tip": "Kóstoljon meg egy helyi sört egy hosszú biciklizés után."
+          },
+          {
+            "name": "Zsolnay Étterem",
+            "tip": "Étkezzen stílusosan a Kulturális Negyedben."
+          },
+          {
+            "name": "Főispán",
+            "tip": "Borozó helyi és országos borok széles választékával."
           }
         ],
         "ro": [
           {
-            "name": "Langos",
-            "tip": "Aluat prăjit cu smântână și brânză – ideal după plimbarea cu bicicleta"
+            "name": "Pécsi Sör (Berea Pécs)",
+            "tip": "Gustați o bere locală după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Restaurantul Zsolnay",
+            "tip": "Luați masa în stil în Cartierul Cultural."
+          },
+          {
+            "name": "Főispán",
+            "tip": "Un bar de vinuri cu o selecție largă de vinuri locale și naționale."
           }
         ],
         "en": [
           {
-            "name": "Langos",
-            "tip": "Fried dough with sour cream and cheese – perfect after cycling"
+            "name": "Pécsi Sör (Pécs Beer)",
+            "tip": "Try a local beer after a long bike ride."
+          },
+          {
+            "name": "Zsolnay Restaurant",
+            "tip": "Dine in style within the Cultural Quarter."
+          },
+          {
+            "name": "Főispán",
+            "tip": "A wine bar with a great selection of local and national wines."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Mecsek-Waldweg",
-            "tip": "Abgelegener Pfad mit Blick auf die Stadt",
+            "name": "Botanischer Garten der Universität Pécs",
+            "tip": "Ein friedlicher Ort, um sich zu entspannen und die Pflanzenvielfalt zu bewundern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mandulás Spielplatz & Wald",
+            "tip": "Radfahren Sie zu diesem Gebiet am Rande der Stadt für eine Naturpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mecsek-Hügel",
+            "tip": "Für erfahrene Radfahrer bieten die Hügel anspruchsvolle Routen und Stille.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Mecseki erdei út",
-            "tip": "Félreeső ösvény a városra nyíló kilátással",
+            "name": "PTE Botanikus Kert",
+            "tip": "Békés hely a pihenésre és a növények sokféleségének csodálatára.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mandulás játszótér és erdő",
+            "tip": "Tekerjen el erre a város széli területre egy kis természetközeli pihenőért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mecsek",
+            "tip": "Tapasztalt kerékpárosoknak a hegyvidék kihívást jelentő útvonalakat és csendet kínál.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Drumul forestier Mecsek",
-            "tip": "Potecă retrasă cu vedere spre oraș",
+            "name": "Grădina Botanică a Universității din Pécs",
+            "tip": "Un loc pașnic pentru a vă relaxa și a admira diversitatea plantelor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Loc de joacă și pădure Mandulás",
+            "tip": "Mergeți cu bicicleta în această zonă de la marginea orașului pentru o pauză în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile Mecsek",
+            "tip": "Pentru bicicliștii experimentați, dealurile oferă trasee provocatoare și liniște.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Mecsek Forest Path",
-            "tip": "Secluded trail with city view",
+            "name": "Botanical Garden of the University of Pécs",
+            "tip": "A peaceful spot to relax and admire plant diversity.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mandulás Playground & Forest",
+            "tip": "Cycle to this area on the edge of the city for a nature break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mecsek Hills",
+            "tip": "For experienced cyclists, the hills offer challenging routes and silence.",
             "emoji": "🌅"
           }
         ]
@@ -422,53 +681,70 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Handwerkermarkt",
-            "tip": "Am Samstagmorgen unter den Arkaden"
+            "name": "Kiraly Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen und Cafés.",
+            "tip_de": "Die Haupteinkaufsstraße mit vielen Boutiquen und Cafés."
+          },
+          {
+            "name": "Pécsi Vásár (Pécser Markt)",
+            "tip": "Wenn Sie an einem Sonntag dort sind, ist dieser riesige Flohmarkt ein einzigartiges Erlebnis."
           }
         ],
         "hu": [
           {
-            "name": "Kézműves piac",
-            "tip": "Szombat délelőtt az árkádok alatt"
+            "name": "Király utca",
+            "tip": "A fő bevásárlóutca számos butikkal és kávézóval."
+          },
+          {
+            "name": "Pécsi Vásár",
+            "tip": "Ha vasárnap érkezik, ez a hatalmas bolhapiac egyedülálló élmény."
           }
         ],
         "ro": [
           {
-            "name": "Piața meșteșugarilor",
-            "tip": "Sâmbătă dimineața sub arcade"
+            "name": "Strada Kiraly",
+            "tip": "Principala stradă comercială cu multe buticuri și cafenele."
+          },
+          {
+            "name": "Târgul din Pécs (Pécsi Vásár)",
+            "tip": "Dacă sunteți acolo într-o duminică, acest imens târg de vechituri este o experiență unică."
           }
         ],
         "en": [
           {
-            "name": "Handicraft Market",
-            "tip": "Saturday morning under the arcades"
+            "name": "Kiraly Street",
+            "tip": "The main shopping street with many boutiques and cafes."
+          },
+          {
+            "name": "Pécs Fair (Pécsi Vásár)",
+            "tip": "If you are there on a Sunday, this huge flea market is a unique experience."
           }
         ]
       },
       "tips": {
         "de": [
-          "Planen Sie eine Radroute abseits der Hauptstraßen.",
-          "Nehmen Sie ausreichend Wasser mit für die Anstiege.",
-          "Schließen Sie das Fahrrad immer ab.",
-          "Ein Helm ist empfehlenswert."
+          "Leihen Sie sich ein Fahrrad bei einem der städtischen Anbieter.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum.",
+          "Der Anstieg zu den Mecsek-Hügeln ist anspruchsvoll; E-Bikes sind eine gute Option.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
         ],
         "hu": [
-          "Tervezzen kerékpárutat a főutaktól távol.",
-          "Vigyen elegendő vizet az emelkedőkhöz.",
-          "Zárja le a biciklijét minden alkalommal.",
-          "Sisak viselése ajánlott."
+          "Béreljen kerékpárt a városi szolgáltatók egyikétől.",
+          "Vigyázzon az egyirányú utcákra a belvárosban.",
+          "A Mecsekre való feljutás kihívást jelent; az e-bike jó opció.",
+          "Mindig gondosan zárja le a kerékpárját."
         ],
         "ro": [
-          "Planificați un traseu pentru biciclete departe de drumurile principale.",
-          "Luați suficientă apă pentru urcări.",
-          "Încuiați bicicleta de fiecare dată.",
-          "Purtarea căștii este recomandată."
+          "Închiriați o bicicletă de la unul dintre furnizorii din oraș.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Urcarea pe dealurile Mecsek este dificilă; bicicletele electrice sunt o opțiune bună.",
+          "Încuietăți întotdeauna bicicleta în siguranță."
         ],
         "en": [
-          "Plan a bike route away from main roads.",
-          "Bring enough water for the climbs.",
-          "Always lock your bike.",
-          "A helmet is recommended."
+          "Rent a bike from one of the city's providers.",
+          "Be aware of one-way streets in the city center.",
+          "The climb to the Mecsek Hills is challenging; e-bikes are a good option.",
+          "Always lock your bike securely."
         ]
       }
     },
@@ -476,249 +752,330 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:00",
-      "total_km": 35.0,
-      "stop_count": 8,
+      "end_estimate": "17:54",
+      "total_km": 16.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Széchenyi tér (Cluster A)",
+          "name": {
+            "de": "Fernsehturm Pécs",
+            "hu": "Pécsi TV-torony",
+            "ro": "Turnul TV din Pécs",
+            "en": "Pécs TV Tower"
+          },
           "coords": [
-            18.228,
-            46.076
+            18.229,
+            46.103
           ],
-          "category": "square",
-          "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
           "tip_5lang": {
-            "de": "Parken Sie am besten am nahe gelegenen Parkhaus am Domplatz.",
-            "hu": "A legjobb a közeli dóm téri parkolóházban parkolni.",
-            "ro": "Parchează cel mai bine în parcarea de lângă Domul.",
-            "en": "Best to park in the nearby parking garage at Cathedral Square."
+            "de": "Beginnen Sie Ihren Tag mit einem atemberaubenden Panoramablick über die Stadt und die Region.",
+            "hu": "Kezdje a napot a városra és a régióra nyíló lélegzetelállító panorámával.",
+            "ro": "Începeți ziua cu o priveliște panoramică uluitoare asupra orașului și a regiunii.",
+            "en": "Start your day with a breathtaking panoramic view over the city and the region."
           }
         },
         {
-          "name": "Pécsi Bazilika (Cluster A)",
+          "name": {
+            "de": "Zsolnay-Kulturviertel (Cluster 1)",
+            "hu": "Zsolnay Kulturális Negyed (1. klaszter)",
+            "ro": "Cartierul Cultural Zsolnay (Cluster 1)",
+            "en": "Zsolnay Cultural Quarter (Cluster 1)"
+          },
           "coords": [
-            18.223,
-            46.078
+            18.243,
+            46.075
           ],
-          "category": "cathedral",
-          "arrive_at": "09:31",
-          "stay_min": 75,
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und verbringen Sie den Vormittag damit, die Galerien und Gärten zu erkunden.",
+            "hu": "Parkoljon le itt, és töltse a délelőttöt a galériák és kertek felfedezésével.",
+            "ro": "Parcați aici și petreceți dimineața explorând galeriile și grădinile.",
+            "en": "Park here and spend the morning exploring the galleries and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Széchenyi-Platz (Cluster 2)",
+            "hu": "Széchenyi tér (2. klaszter)",
+            "ro": "Piața Széchenyi (Cluster 2)",
+            "en": "Széchenyi Square (Cluster 2)"
+          },
+          "coords": [
+            18.2323,
+            46.0727
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in einer Tiefgarage und beginnen Sie Ihre Erkundung der Innenstadt zu Fuß.",
+            "hu": "Parkoljon egy mélygarázsban, és kezdje meg a belváros gyalogos felfedezését.",
+            "ro": "Parcați într-o parcare subterană și începeți explorarea centrului orașului pe jos.",
+            "en": "Park in an underground garage and begin your walking tour of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee und Mittagessen",
+            "hu": "Dzsámi és ebéd",
+            "ro": "Moscheea și Prânzul",
+            "en": "Mosque and Lunch"
+          },
+          "coords": [
+            18.2328,
+            46.0735
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nach der Besichtigung des Hauptplatzes finden Sie zahlreiche Restaurants in der Nähe.",
+            "hu": "A főtér megtekintése után számos éttermet talál a közelben.",
+            "ro": "După ce vizitați piața principală, veți găsi numeroase restaurante în apropiere.",
+            "en": "After visiting the main square, find numerous restaurants nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Nekropole",
+            "hu": "Ókeresztény sírkamrák",
+            "ro": "Necropola paleocreștină",
+            "en": "Early Christian Necropolis"
+          },
+          "coords": [
+            18.225,
+            46.074
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem faszinierenden unterirdischen Ort.",
+            "hu": "Rövid séta a főtértől ehhez a lenyűgöző földalatti helyszínhez.",
+            "ro": "O scurtă plimbare de la piața principală la acest sit subteran fascinant.",
+            "en": "A short walk from the main square to this fascinating underground site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Peter und Paul",
+            "hu": "Szent Péter és Szent Pál-székesegyház",
+            "ro": "Catedrala Sf. Petru și Pavel",
+            "en": "Cathedral of St. Peter and St. Paul"
+          },
+          "coords": [
+            18.226,
+            46.075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die vier Türme der Kathedrale sind ein Wahrzeichen von Pécs.",
+            "hu": "A székesegyház négy tornya Pécs egyik jelképe.",
+            "ro": "Cele patru turnuri ale catedralei sunt un punct de reper al orașului Pécs.",
+            "en": "The cathedral's four towers are a landmark of Pécs."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbakan",
+            "hu": "Barbakan",
+            "ro": "Barbacanul",
+            "en": "Barbican"
+          },
+          "coords": [
+            18.224,
+            46.076
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:23",
+          "stay_min": 30,
           "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Vom Parkhaus aus zu Fuß erreichbar.",
-            "hu": "A parkolóházból gyalogosan elérhető.",
-            "ro": "Accesibil pe jos din parcare.",
-            "en": "Walkable from the parking garage."
-          }
-        },
-        {
-          "name": "Püspöki Palota (Cluster A)",
-          "coords": [
-            18.225,
-            46.077
-          ],
-          "category": "historical",
-          "arrive_at": "10:50",
-          "stay_min": 80,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Schauen Sie in den Innenhof, oft kostenlos zugänglich.",
-            "hu": "Nézzen be az udvarba, gyakran ingyenesen látogatható.",
-            "ro": "Uitați-vă în curte, adesea accesibilă gratuit.",
-            "en": "Peek into the courtyard, often free to visit."
-          }
-        },
-        {
-          "name": "Zsolnay Múzeum (Cluster B)",
-          "coords": [
-            18.237,
-            46.071
-          ],
-          "category": "museum",
-          "arrive_at": "12:30",
-          "stay_min": 100,
-          "hop_from_prev_min": 16,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Parken Sie am Zsolnay-Kulturviertel, gebührenpflichtig.",
-            "hu": "Parkoljon a Zsolnay Kulturális Negyedben, fizetős.",
-            "ro": "Parchează în Cartierul Cultural Zsolnay, cu taxă.",
-            "en": "Park at the Zsolnay Cultural Quarter, paid."
-          }
-        },
-        {
-          "name": "Tettye Park (Cluster C)",
-          "coords": [
-            18.247,
-            46.084
-          ],
-          "category": "park",
-          "arrive_at": "14:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Kostenfreier Parkplatz am unteren Eingang des Parks.",
-            "hu": "Ingyenes parkoló a park alsó bejáratánál.",
-            "ro": "Parcare gratuită la intrarea inferioară a parcului.",
-            "en": "Free parking at the lower entrance of the park."
-          }
-        },
-        {
-          "name": "Tettye Kilátó (Cluster C)",
-          "coords": [
-            18.25,
-            46.087
-          ],
-          "category": "viewpoint",
-          "arrive_at": "15:50",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Gegen Abend besonders schön für Fotos.",
-            "hu": "Estefelé különösen szép fotók készíthetők.",
-            "ro": "Spre seară este deosebit de frumos pentru fotografii.",
-            "en": "Especially beautiful for photos towards evening."
-          }
-        },
-        {
-          "name": "Pécsi Corso Étterem (Cluster C: Rückfahrt)",
-          "coords": [
-            18.23,
-            46.075
-          ],
-          "category": "gastro",
-          "arrive_at": "16:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Reservieren Sie am besten vorab, besonders am Wochenende.",
-            "hu": "Érdemes előre asztalt foglalni, főleg hétvégén.",
-            "ro": "Este mai bine să rezervați în avans, mai ales în weekend.",
-            "en": "Best to reserve in advance, especially on weekends."
+            "de": "Beenden Sie Ihren Rundgang mit einem Besuch der besterhaltenen mittelalterlichen Festung der Stadt.",
+            "hu": "Fejezze be a gyalogtúrát a város legjobb állapotban fennmaradt középkori erődjének meglátogatásával.",
+            "ro": "Încheiați turul pietonal cu o vizită la cea mai bine conservată fortăreață medievală a orașului.",
+            "en": "Finish your walking tour with a visit to the city's best-preserved medieval fortress."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nach dem Parken im Zentrum erkunden Sie zu Fuß den Széchenyi Platz, die Kathedrale und den Bischofspalast. Dann fahren Sie mit dem Auto zum Zsolnay-Museum (Cluster B). Nach dem Museumsbesuch geht es weiter zum Tettye Park (Cluster C), wo Sie den Aussichtsturm besteigen können. Den Tag beenden Sie mit einem Abendessen im Pécsi Corso, bevor Sie zurückfahren.",
-        "hu": "A központban parkolva gyalog fedezi fel a Széchenyi teret, a Bazilikát és a Püspöki Palotát. Ezután autóval megy a Zsolnay Múzeumhoz (B klaszter). A múzeum után a Tettye parkba (C klaszter) hajt, ahol felmászhat a kilátóba. A napot a Pécsi Corsóban vacsorázva zárja, mielőtt visszaindul.",
-        "ro": "După parcarea în centru, explorați pe jos Piața Széchenyi, Catedrala și Palatul Episcopal. Apoi mergeți cu mașina la Muzeul Zsolnay (cluster B). După vizită, continuați spre Parcul Tettye (cluster C), unde puteți urca în turnul de observație. Încheiați ziua cu o cină la Pécsi Corso înainte de a vă întoarce.",
-        "en": "After parking downtown, explore Széchenyi Square, the Cathedral, and the Bishop’s Palace on foot. Then drive to the Zsolnay Museum (Cluster B). After the museum, continue to Tettye Park (Cluster C), where you can climb the lookout tower. End the day with dinner at Pécsi Corso before driving back."
+        "de": "Ihr Autotag beginnt hoch oben auf dem Mecsek-Hügel am Fernsehturm, wo Sie die beste Aussicht genießen. Danach fahren Sie zum Zsolnay-Viertel für einen Vormittag voller Kunst. Gegen Mittag parken Sie im Stadtzentrum, um den historischen Kern zu Fuß zu erkunden. Sie beginnen am Széchenyi-Platz, essen zu Mittag und tauchen dann in die unterirdische Welt der Nekropole ein. Der Tag endet mit der Erkundung des Domplatzes und des Barbakans, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autós napja magasan a Mecsek-hegyen, a TV-toronynál kezdődik, ahonnan a legjobb kilátás nyílik. Ezután a Zsolnay-negyedbe hajt, egy művészettel teli délelőttért. Dél körül a belvárosban parkol, hogy gyalogosan fedezze fel a történelmi magot. A Széchenyi téren kezd, megebédel, majd elmerül a nekropolisz földalatti világában. A napot a Dóm tér és a Barbakán felfedezésével zárja, mielőtt visszatérne az autójához.",
+        "ro": "Ziua cu mașina începe sus, pe Dealul Mecsek, la Turnul TV, pentru cele mai bune priveliști. Apoi, conduceți spre Cartierul Zsolnay pentru o dimineață de artă. La prânz, parcați în centrul orașului pentru a explora nucleul istoric pe jos. Începeți din Piața Széchenyi, luați prânzul și apoi pătrundeți în lumea subterană a Necropolei. Ziua se încheie cu explorarea zonei Catedralei și a Barbacanului înainte de a vă întoarce la mașină.",
+        "en": "Your car day starts high up on Mecsek Hill at the TV Tower for the best views. You'll then drive down to the Zsolnay Quarter for a morning of art. At midday, you'll park in the city center to explore the historic core on foot. You'll start at Széchenyi Square, have lunch, and then delve into the underground world of the Necropolis. The day finishes by exploring the Cathedral area and the Barbican before returning to your car."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Gulaschsuppe",
-            "tip": "Herzhafte Suppe mit Rindfleisch und Paprika"
+            "name": "Tettye Étterem",
+            "tip": "Ein Restaurant mit toller Aussicht, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Blöff Bisztró",
+            "tip": "Beliebt bei Einheimischen für seine kreative Speisekarte und Atmosphäre."
+          },
+          {
+            "name": "Peppe's",
+            "tip": "Wenn Sie Lust auf Pizza haben, ist dies eine der besten in der Stadt."
           }
         ],
         "hu": [
           {
-            "name": "Gulyásleves",
-            "tip": "Laktató leves marhahússal és paprikával"
+            "name": "Tettye Étterem",
+            "tip": "Nagyszerű kilátással rendelkező étterem, kissé a központon kívül."
+          },
+          {
+            "name": "Blöff Bisztró",
+            "tip": "A helyiek körében népszerű kreatív étlapja és hangulata miatt."
+          },
+          {
+            "name": "Peppe's",
+            "tip": "Ha pizzára vágyik, ez az egyik legjobb a városban."
           }
         ],
         "ro": [
           {
-            "name": "Ciorbă de vită",
-            "tip": "Supă consistentă cu carne de vită și ardei"
+            "name": "Restaurantul Tettye",
+            "tip": "Un restaurant cu priveliști minunate, puțin în afara centrului."
+          },
+          {
+            "name": "Blöff Bisztró",
+            "tip": "Popular printre localnici pentru meniul său creativ și atmosferă."
+          },
+          {
+            "name": "Peppe's",
+            "tip": "Dacă aveți poftă de pizza, aceasta este una dintre cele mai bune din oraș."
           }
         ],
         "en": [
           {
-            "name": "Goulash Soup",
-            "tip": "Hearty soup with beef and paprika"
+            "name": "Tettye Restaurant",
+            "tip": "A restaurant with great views, slightly outside the center."
+          },
+          {
+            "name": "Blöff Bisztró",
+            "tip": "Popular with locals for its creative menu and atmosphere."
+          },
+          {
+            "name": "Peppe's",
+            "tip": "If you're in the mood for pizza, this is one of the best in town."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Mecsek-Aussichtspunkt",
-            "tip": "Einsamer Platz mit Blick auf die Ebener",
+            "name": "Mecsek-Wald",
+            "tip": "Machen Sie eine kurze Fahrt in den Wald für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flomarkt Pécs (Sonntags)",
+            "tip": "Überraschend ruhig am frühen Morgen, bevor die Menschenmassen kommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtspunkt Niké-Statue",
+            "tip": "Ein weiterer großartiger Aussichtspunkt auf dem Mecsek-Hügel, erreichbar mit dem Auto.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Mecseki kilátóhely",
-            "tip": "Magányos hely a síkságra nyíló kilátással",
+            "name": "Mecseki erdő",
+            "tip": "Tegyen egy rövid autózást az erdőbe egy békés sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pécsi Vásár (vasárnap)",
+            "tip": "Meglepően csendes kora reggel, a tömeg érkezése előtt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Niké-szobor kilátó",
+            "tip": "Egy másik nagyszerű kilátópont a Mecsek-hegyen, autóval megközelíthető.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Punct de belvedere Mecsek",
-            "tip": "Loc solitar cu vedere spre câmpie",
+            "name": "Pădurea Mecsek",
+            "tip": "Faceți o scurtă plimbare cu mașina în pădure pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Târgul de vechituri din Pécs (duminica)",
+            "tip": "Surprinzător de liniștit dimineața devreme, înainte de a veni mulțimile.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punct de belvedere Statuia Nike",
+            "tip": "Un alt punct de belvedere excelent pe Dealul Mecsek, accesibil cu mașina.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Mecsek Lookout",
-            "tip": "Secluded spot with view over the plains",
+            "name": "Mecsek Forest",
+            "tip": "Take a short drive into the forest for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pécs Flea Market (Sundays)",
+            "tip": "Surprisingly quiet early in the morning before the crowds arrive.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Niké Statue Viewpoint",
+            "tip": "Another great viewpoint on Mecsek Hill, accessible by car.",
             "emoji": "🌅"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Zsolnay-Outlet",
-            "tip": "Günstige Zweite-Wahl-Ware im Fabrikverkauf"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Zsolnay outlet",
-            "tip": "Olcsóbb másodosztályú termékek a gyári boltban"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Outlet Zsolnay",
-            "tip": "Produse de calitate secundară la preț redus în magazinul fabricii"
-          }
-        ],
-        "en": [
-          {
-            "name": "Zsolnay Outlet",
-            "tip": "Discounted seconds in the factory store"
           }
         ]
       },
       "tips": {
         "de": [
-          "Parken Sie strategisch in der Nähe der ersten Sehenswürdigkeiten.",
-          "Die Fahrt zwischen den Clustern dauert nur wenige Minuten.",
-          "Kombinieren Sie die Parkbesuche mit Spaziergängen.",
-          "Achten Sie auf die Öffnungszeiten des Museums."
+          "Das Parken im Stadtzentrum kann schwierig und teuer sein; nutzen Sie Tiefgaragen.",
+          "Die Straßen im Mecsek-Gebirge können eng und kurvenreich sein.",
+          "Planen Sie Ihre Parkstrategie, bevor Sie von einem Cluster zum nächsten fahren.",
+          "Achten Sie auf Fußgängerzonen im historischen Zentrum."
         ],
         "hu": [
-          "Stratégiailag parkoljon az első látnivalók közelében.",
-          "A klaszterek közötti autózás csak néhány perc.",
-          "A parklátogatásokat sétákkal kombinálja.",
-          "Figyeljen a múzeum nyitvatartására."
+          "A belvárosi parkolás nehézkes és drága lehet; használjon mélygarázsokat.",
+          "A mecseki utak szűkek és kanyargósak lehetnek.",
+          "Tervezze meg a parkolási stratégiát, mielőtt egyik helyszínről a másikra hajt.",
+          "Vigyázzon a sétálóövezetekre a történelmi központban."
         ],
         "ro": [
-          "Parchează strategic aproape de primele obiective turistice.",
-          "Condusul între clustere durează doar câteva minute.",
-          "Combinați vizitele în parc cu plimbări.",
-          "Atenție la programul muzeului."
+          "Parcarea în centrul orașului poate fi dificilă și costisitoare; utilizați parcările subterane.",
+          "Drumurile din dealurile Mecsek pot fi înguste și sinuoase.",
+          "Planificați-vă strategia de parcare înainte de a conduce de la un cluster la altul.",
+          "Fiți atenți la zonele pietonale din centrul istoric."
         ],
         "en": [
-          "Park strategically near the first attractions.",
-          "Driving between clusters takes only a few minutes.",
-          "Combine park visits with walks.",
-          "Check museum opening hours."
+          "Parking in the city center can be difficult and expensive; use underground garages.",
+          "The roads in the Mecsek hills can be narrow and winding.",
+          "Plan your parking strategy before driving from one cluster to the next.",
+          "Be aware of pedestrian-only zones in the historic center."
         ]
       }
     },
@@ -726,249 +1083,307 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 18.0,
-      "stop_count": 8,
+      "end_estimate": "17:49",
+      "total_km": 10.4,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Széchenyi tér (Distrikt A)",
+          "name": {
+            "de": "Zsolnay-Kulturviertel (Cluster 1)",
+            "hu": "Zsolnay Kulturális Negyed (1. klaszter)",
+            "ro": "Cartierul Cultural Zsolnay (Cluster 1)",
+            "en": "Zsolnay Cultural Quarter (Cluster 1)"
+          },
           "coords": [
-            18.228,
-            46.076
+            18.243,
+            46.075
           ],
-          "category": "square",
-          "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Die Bushaltestelle ist direkt am Platz. Kaufen Sie ein Tagesticket.",
-            "hu": "A buszmegálló közvetlenül a téren van. Vegyen napijegyet.",
-            "ro": "Stația de autobuz este chiar în piață. Cumpărați un bilet zilnic.",
-            "en": "The bus stop is right on the square. Buy a day ticket."
+            "de": "Nehmen Sie einen Bus vom Bahnhof oder Zentrum und verbringen Sie den Vormittag hier.",
+            "hu": "Menjen busszal az állomásról vagy a központból, és töltse itt a délelőttöt.",
+            "ro": "Luați un autobuz de la gară sau din centru și petreceți dimineața aici.",
+            "en": "Take a bus from the station or center and spend the morning here."
           }
         },
         {
-          "name": "Pécsi Bazilika (Distrikt A)",
+          "name": {
+            "de": "Széchenyi-Platz (Cluster 2)",
+            "hu": "Széchenyi tér (2. klaszter)",
+            "ro": "Piața Széchenyi (Cluster 2)",
+            "en": "Széchenyi Square (Cluster 2)"
+          },
           "coords": [
-            18.223,
-            46.078
+            18.2323,
+            46.0727
           ],
-          "category": "cathedral",
-          "arrive_at": "09:31",
-          "stay_min": 75,
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Von Zsolnay bringen Sie mehrere Buslinien zurück ins Herz der Stadt.",
+            "hu": "A Zsolnay-negyedből több buszjárat is visszavisz a város szívébe.",
+            "ro": "Mai multe linii de autobuz vă duc înapoi în inima orașului din Zsolnay.",
+            "en": "Several bus lines take you back to the heart of the city from Zsolnay."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee, Kathedrale und Mittagessen",
+            "hu": "Dzsámi, Székesegyház és ebéd",
+            "ro": "Moscheea, Catedrala și Prânzul",
+            "en": "Mosque, Cathedral and Lunch"
+          },
+          "coords": [
+            18.229,
+            46.074
+          ],
+          "category": "gastro",
+          "arrive_at": "12:11",
+          "stay_min": 150,
           "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Fußweg vom Platz etwa 5 Minuten.",
-            "hu": "Gyalog a tértől kb. 5 perc.",
-            "ro": "Mers pe jos din piață aproximativ 5 minute.",
-            "en": "Walk from the square about 5 minutes."
+            "de": "Erkunden Sie diesen Cluster zu Fuß, alles liegt nahe beieinander.",
+            "hu": "Fedezze fel ezt a területet gyalog, minden közel van egymáshoz.",
+            "ro": "Explorați acest cluster pe jos, totul este aproape.",
+            "en": "Explore this cluster on foot, everything is close together."
           }
         },
         {
-          "name": "Püspöki Palota (Distrikt A)",
+          "name": {
+            "de": "Frühchristliche Nekropole",
+            "hu": "Ókeresztény sírkamrák",
+            "ro": "Necropola paleocreștină",
+            "en": "Early Christian Necropolis"
+          },
           "coords": [
             18.225,
-            46.077
+            46.074
           ],
           "category": "historical",
-          "arrive_at": "10:50",
+          "arrive_at": "14:49",
           "stay_min": 80,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Eintritt frei für den Innenhof.",
-            "hu": "Az udvar ingyenesen látogatható.",
-            "ro": "Accesul în curte este gratuit.",
-            "en": "Free entry to the courtyard."
-          }
-        },
-        {
-          "name": "Zsolnay Múzeum (Distrikt B)",
-          "coords": [
-            18.237,
-            46.071
-          ],
-          "category": "museum",
-          "arrive_at": "12:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Buslinie 30 fährt direkt vom Zentrum zum Museum. Haltestelle „Zsolnay Negyed”.",
-            "hu": "A 30-as busz közvetlenül a központból megy a múzeumhoz. „Zsolnay Negyed” megálló.",
-            "ro": "Linia de autobuz 30 circulă direct din centru la muzeu. Stația „Zsolnay Negyed”.",
-            "en": "Bus line 30 goes directly from the center to the museum. Stop „Zsolnay Negyed”."
-          }
-        },
-        {
-          "name": "Tettye Park (Distrikt C)",
-          "coords": [
-            18.247,
-            46.084
-          ],
-          "category": "park",
-          "arrive_at": "13:50",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Bus 33 fährt vom Zsolnay-Viertel zum Tettye Park. Steigen Sie an der Endstation aus.",
-            "hu": "A 33-as busz a Zsolnay negyedből megy a Tettye parkba. Szálljon le a végállomáson.",
-            "ro": "Autobuzul 33 circulă din cartierul Zsolnay până la Parcul Tettye. Coborâți la capăt de linie.",
-            "en": "Bus 33 goes from the Zsolnay quarter to Tettye Park. Get off at the terminus."
-          }
-        },
-        {
-          "name": "Tettye Kilátó (Distrikt C)",
-          "coords": [
-            18.25,
-            46.087
-          ],
-          "category": "viewpoint",
-          "arrive_at": "15:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Der Aufstieg vom Parkeingang ist kurz, aber steil.",
-            "hu": "A park bejáratától rövid, de meredek az emelkedő.",
-            "ro": "Urcarea de la intrarea în parc este scurtă, dar abruptă.",
-            "en": "The climb from the park entrance is short but steep."
-          }
-        },
-        {
-          "name": "Pécsi Corso Étterem (Distrikt A, Rückweg)",
-          "coords": [
-            18.23,
-            46.075
-          ],
-          "category": "gastro",
-          "arrive_at": "15:45",
-          "stay_min": 80,
-          "hop_from_prev_min": 2,
+          "hop_from_prev_min": 8,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Reservierung empfohlen. Vom Busbahnhof 5 Minuten zu Fuß.",
-            "hu": "Asztalfoglalás ajánlott. A buszpályaudvartól 5 perc gyalog.",
-            "ro": "Rezervare recomandată. La 5 minute de mers pe jos de la autogară.",
-            "en": "Reservation recommended. 5-minute walk from the bus station."
+            "de": "Ein kurzer Spaziergang vom Domplatz zum Eingang des UNESCO-Geländes.",
+            "hu": "Rövid séta a Dóm tértől az UNESCO helyszín bejáratáig.",
+            "ro": "O scurtă plimbare de la Piața Catedralei la intrarea sitului UNESCO.",
+            "en": "A short walk from Cathedral Square to the entrance of the UNESCO site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fernsehturm Pécs (Cluster 3)",
+            "hu": "Pécsi TV-torony (3. klaszter)",
+            "ro": "Turnul TV din Pécs (Cluster 3)",
+            "en": "Pécs TV Tower (Cluster 3)"
+          },
+          "coords": [
+            18.229,
+            46.103
+          ],
+          "category": "natural features",
+          "arrive_at": "16:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 35 vom Stadtzentrum. Die Fahrt auf den Hügel ist ein Erlebnis für sich.",
+            "hu": "Menjen a 35-ös busszal a központból. Az út a hegyre már önmagában is élmény.",
+            "ro": "Luați autobuzul 35 din centrul orașului. Călătoria pe deal este o experiență în sine.",
+            "en": "Take bus 35 from the city center. The ride up the hill is an experience in itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszaút a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            18.2323,
+            46.0727
+          ],
+          "category": "transit",
+          "arrive_at": "17:49",
+          "stay_min": 0,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit der Rückfahrt ins Zentrum zum Abendessen oder zur Abreise.",
+            "hu": "Zárja a napot a központba való visszatéréssel vacsorára vagy induláshoz.",
+            "ro": "Încheiați ziua întorcându-vă în centru pentru cină sau plecare.",
+            "en": "End the day by returning to the center for dinner or departure."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Tagesticket erkunden Sie zunächst den zentralen Distrikt A: Széchenyi Platz, Kathedrale und Bischofspalast. Mit dem Bus geht es zum Distrikt B, dem Zsolnay-Museum. Nach dem Museum fahren Sie weiter zum Distrikt C, dem Tettye Park und Aussichtsturm. Den Abschluss bildet ein Abendessen im Distrikt A, bevor Sie den Bus zurücknehmen.",
-        "hu": "A napijeggyel először az A körzetet fedezze fel: Széchenyi tér, Bazilika, Püspöki Palota. Busszal megy a B körzetbe, a Zsolnay Múzeumba. A múzeum után tovább utazik a C körzetbe, a Tettye parkba és kilátóba. Végül vacsora az A körzetben, mielőtt visszaszánna a buszra.",
-        "ro": "Cu biletul zilnic explorați mai întâi districtul A central: Piața Széchenyi, Catedrala, Palatul Episcopal. Cu autobuzul mergeți la districtul B, Muzeul Zsolnay. După muzeu, continuați spre districtul C, Parcul Tettye și turnul de observație. Încheiați cu o cină în districtul A înainte de a lua autobuzul înapoi.",
-        "en": "With a day ticket, first explore central District A: Széchenyi Square, Cathedral, Bishop’s Palace. Take the bus to District B, the Zsolnay Museum. After the museum, continue to District C, Tettye Park and lookout tower. Finish with dinner in District A before taking the bus back."
+        "de": "Mit dem Bus geht es zuerst ins Zsolnay-Viertel, um den Vormittag inmitten von Kunst und Gärten zu verbringen. Eine kurze Busfahrt bringt Sie dann ins historische Herz, zum Széchenyi-Platz. Von hier aus erkunden Sie zu Fuß die Kathedrale, essen zu Mittag und besuchen die unterirdische Nekropole. Am späten Nachmittag nehmen Sie einen weiteren Bus, der Sie auf den Mecsek-Hügel zum Fernsehturm bringt, um einen letzten Panoramablick zu genießen, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Busszal először a Zsolnay-negyedbe utazik, hogy a délelőttöt művészet és kertek között töltse. Egy rövid buszút után a történelmi szívbe, a Széchenyi térre érkezik. Innen gyalogosan fedezi fel a székesegyházat, megebédel, és meglátogatja a földalatti nekropoliszt. Késő délután egy másik buszra száll, amely felviszi a Mecsek-hegyre a TV-toronyhoz, hogy egy utolsó panorámában gyönyörködjön, mielőtt visszatérne a központba.",
+        "ro": "Folosind transportul public, mergeți mai întâi în Cartierul Zsolnay pentru a petrece dimineața printre artă și grădini. O scurtă călătorie cu autobuzul vă va duce apoi în inima istorică, Piața Széchenyi. De aici, explorați pe jos Catedrala, luați prânzul și vizitați Necropola subterană. Spre sfârșitul după-amiezii, luați un alt autobuz care urcă pe Dealul Mecsek până la Turnul TV pentru o ultimă priveliște panoramică înainte de a vă întoarce în centru.",
+        "en": "Using public transport, you'll first head to the Zsolnay Quarter to spend the morning amidst art and gardens. A short bus ride will then take you to the historic heart, Széchenyi Square. From here, you'll explore the Cathedral on foot, have lunch, and visit the underground Necropolis. In the late afternoon, you'll catch another bus up Mecsek Hill to the TV Tower for a final panoramic view before returning to the center."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pörkölt",
-            "tip": "Schmorgericht mit Rindfleisch und Zwiebeln, serviert mit Nockerln"
+            "name": "Lángos",
+            "tip": "Ein frittierter Teigfladen, oft an kleinen Ständen in der Nähe von Busbahnhöfen erhältlich."
+          },
+          {
+            "name": "Morzsa Bisztró",
+            "tip": "Ein großartiger Ort für ein schnelles und leckeres Mittagessen im Zentrum."
+          },
+          {
+            "name": "Nappali Bár",
+            "tip": "Eine bei Studenten beliebte Bar mit entspannter Atmosphäre."
           }
         ],
         "hu": [
           {
-            "name": "Pörkölt",
-            "tip": "Marhapörkölt hagymával, nokedlivel tálalva"
+            "name": "Lángos",
+            "tip": "Sült tészta, gyakran kapható a buszpályaudvarok közelében lévő kis bódékban."
+          },
+          {
+            "name": "Morzsa Bisztró",
+            "tip": "Nagyszerű hely egy gyors és finom ebédhez a központban."
+          },
+          {
+            "name": "Nappali Bár",
+            "tip": "A diákok körében népszerű bár, laza hangulattal."
           }
         ],
         "ro": [
           {
-            "name": "Tocăniță de vită",
-            "tip": "Carne de vită înăbușită cu ceapă, servită cu găluște"
+            "name": "Lángos",
+            "tip": "O plăcintă prăjită, adesea disponibilă la standuri mici lângă stațiile de autobuz."
+          },
+          {
+            "name": "Morzsa Bisztró",
+            "tip": "Un loc minunat pentru un prânz rapid și delicios în centru."
+          },
+          {
+            "name": "Nappali Bár",
+            "tip": "Un bar popular printre studenți, cu o atmosferă relaxată."
           }
         ],
         "en": [
           {
-            "name": "Pörkölt",
-            "tip": "Beef stew with onions, served with dumplings"
+            "name": "Lángos",
+            "tip": "A deep-fried dough, often available at small stands near bus stations."
+          },
+          {
+            "name": "Morzsa Bisztró",
+            "tip": "A great spot for a quick and delicious lunch in the center."
+          },
+          {
+            "name": "Nappali Bár",
+            "tip": "A popular bar with students with a relaxed atmosphere."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Tettye-See",
-            "tip": "Kleiner See im Park, ideal zum Verweilen",
-            "emoji": "🌅"
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Die Busfahrt selbst kann eine entspannende Möglichkeit sein, die Stadt außerhalb des Zentrums zu sehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pintér-Garten Arboretum",
+            "tip": "Mit dem Bus erreichbar, ein wunderschöner Ort, um der Hektik der Stadt zu entfliehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gärten des Zsolnay-Viertels",
+            "tip": "Finden Sie eine ruhige Bank in den weitläufigen Gärten des Kulturviertels.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Tettye-tó",
-            "tip": "Kis tó a parkban, ideális pihenésre",
-            "emoji": "🌅"
+            "name": "Buszozás a külvárosban",
+            "tip": "Maga a buszozás is pihentető módja lehet a központon kívüli város megismerésének.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pintér-kert Arborétum",
+            "tip": "Busszal elérhető, gyönyörű hely a városi nyüzsgés elől való menekülésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Zsolnay-negyed kertjei",
+            "tip": "Keressen egy csendes padot a kulturális negyed tágas kertjeiben.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Lacul Tettye",
-            "tip": "Lac mic în parc, ideal pentru relaxare",
-            "emoji": "🌅"
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Călătoria cu autobuzul în sine poate fi o modalitate relaxantă de a vedea orașul dincolo de centru.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Arboretumul Grădina Pintér",
+            "tip": "Accesibil cu autobuzul, un loc frumos pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Cartierului Zsolnay",
+            "tip": "Găsiți o bancă liniștită în grădinile extinse ale cartierului cultural.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Tettye Lake",
-            "tip": "Small lake in the park, ideal for relaxing",
-            "emoji": "🌅"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
+            "name": "Bus ride through the suburbs",
+            "tip": "The bus ride itself can be a relaxing way to see the city beyond the center.",
+            "emoji": "🧘"
+          },
           {
-            "name": "Markthalle (Vásárcsarnok)",
-            "tip": "Frische Produkte und Souvenirs aus der Region"
-          }
-        ],
-        "hu": [
+            "name": "Pintér Garden Arboretum",
+            "tip": "Accessible by bus, a beautiful place to escape the city bustle.",
+            "emoji": "🍃"
+          },
           {
-            "name": "Vásárcsarnok",
-            "tip": "Friss termékek és ajándéktárgyak a régióból"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Hala de piață (Vásárcsarnok)",
-            "tip": "Produse proaspete și suveniruri din regiune"
-          }
-        ],
-        "en": [
-          {
-            "name": "Market Hall (Vásárcsarnok)",
-            "tip": "Fresh produce and souvenirs from the region"
+            "name": "The Gardens of the Zsolnay Quarter",
+            "tip": "Find a quiet bench within the expansive gardens of the cultural quarter.",
+            "emoji": "🏞️"
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie ein Tagesticket für unbegrenzte Fahrten.",
-          "Beachten Sie die Fahrpläne – Busse fahren etwa alle 15 Minuten.",
-          "Steigen Sie immer am richtigen Eingang des Museums aus.",
-          "Abends fahren weniger Busse – planen Sie die Rückfahrt rechtzeitig."
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Die Busse können zu Stoßzeiten voll sein.",
+          "Validieren Sie Ihr Ticket beim Einsteigen, um eine Strafe zu vermeiden."
         ],
         "hu": [
-          "Vegyen napijegyet a korlátlan utazáshoz.",
-          "Figyelje a menetrendeket – a buszok kb. 15 percenként járnak.",
-          "Mindig a múzeum megfelelő bejáratánál szálljon le.",
-          "Este kevesebb busz jár – tervezze meg időben a visszautat."
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi közlekedési alkalmazást a valós idejű menetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Érvényesítse a jegyét felszálláskor, hogy elkerülje a büntetést."
         ],
         "ro": [
-          "Cumpărați un bilet zilnic pentru călătorii nelimitate.",
-          "Atenție la orare – autobuzele circulă la fiecare 15 minute.",
-          "Coborâți întotdeauna la intrarea corectă a muzeului.",
-          "Seara circulă mai puține autobuze – planificați întoarcerea din timp."
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Validați-vă biletul la urcare pentru a evita o amendă."
         ],
         "en": [
-          "Buy a day ticket for unlimited rides.",
-          "Check the schedules – buses run about every 15 minutes.",
-          "Always get off at the correct museum entrance.",
-          "Fewer buses run in the evening – plan your return in time."
+          "Purchase a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules.",
+          "Buses can be crowded during peak hours.",
+          "Validate your ticket when boarding to avoid a fine."
         ]
       }
     }

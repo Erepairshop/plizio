@@ -1,0 +1,1352 @@
+{
+  "city_id": "uk-high-wycombe-cities-v2",
+  "anchor": {
+    "name": "High Wycombe",
+    "coords": [
+      -0.7482,
+      51.6287
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Guildhall",
+            "hu": "A céhes ház",
+            "ro": "The Guildhall",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -0.7489,
+            51.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die achteckige Kuppel, ein Wahrzeichen der Stadt.",
+            "hu": "Csodálja meg a nyolcszögletű kupolát, a város egyik jelképét.",
+            "ro": "Admirați cupola octogonală, un reper al orașului.",
+            "en": "Admire the octagonal cupola, a town landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            -0.7478,
+            51.6278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den mittelalterlichen Wandmalereien im Inneren.",
+            "hu": "Keresse a középkori falfestményeket a templom belsejében.",
+            "ro": "Căutați picturile murale medievale din interior.",
+            "en": "Look for the medieval wall paintings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wycombe Museum",
+            "hu": "Wycombe Múzeum",
+            "ro": "Muzeul Wycombe",
+            "en": "Wycombe Museum"
+          },
+          "coords": [
+            -0.751,
+            51.6255
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur Stuhlmacherei, dem historischen Handwerk der Stadt.",
+            "hu": "Fókuszáljon a székgyártásról szóló kiállításokra, a város történelmi iparágára.",
+            "ro": "Concentrați-vă pe expozițiile despre fabricarea scaunelor, meșteșugul istoric al orașului.",
+            "en": "Focus on the chair-making exhibits, the town's historic trade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Centre"
+          },
+          "coords": [
+            -0.7495,
+            51.6265
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie einen traditionellen Pub für ein herzhaftes britisches Essen.",
+            "hu": "Próbáljon ki egy hagyományos pubot egy kiadós brit ebédre.",
+            "ro": "Încercați un pub tradițional pentru o masă britanică copioasă.",
+            "en": "Try a traditional pub for a hearty British meal."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rye",
+            "hu": "The Rye park",
+            "ro": "The Rye",
+            "en": "The Rye"
+          },
+          "coords": [
+            -0.745,
+            51.624
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 125,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Flusses Wye oder mieten Sie ein Boot auf dem See.",
+            "hu": "Sétáljon egyet a Wye folyó mentén, vagy béreljen csónakot a tavon.",
+            "ro": "Faceți o plimbare de-a lungul râului Wye sau închiriați o barcă pe lac.",
+            "en": "Take a walk along the River Wye or hire a boat on the lido."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Guildhall und der Allerheiligenkirche, um die Architektur des Stadtzentrums zu genießen. Am Mittag tauchen Sie im Wycombe Museum in die lokale Geschichte ein und erfahren mehr über das berühmte Handwerk der Stuhlmacherei. Verbringen Sie den Nachmittag entspannt im The Rye, einem weitläufigen Park mit einem See und dem Fluss Wye, perfekt für einen gemütlichen Spaziergang. Schließen Sie den Tag mit einem erfrischenden Getränk in einem der nahegelegenen Cafés ab und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Kezdje a napot a történelmi Céhháznál és a Mindenszentek-templomnál, hogy magába szívja a városközpont építészeti hangulatát. Délben merüljön el a helyi történelemben a Wycombe Múzeumban, megismerve a híres székgyártó ipart. A délutánt töltse pihenéssel a The Rye parkban, egy tágas parkban tóval és a Wye folyóval, amely tökéletes egy kellemes sétához. Zárja a napot egy frissítő itallal egy közeli kávézóban, élvezve a békés légkört.",
+        "ro": "Începeți ziua la istoricul Guildhall și Biserica All Saints pentru a absorbi arhitectura centrului orașului. La prânz, pătrundeți în istoria locală la Muzeul Wycombe, învățând despre faimoasa sa industrie de fabricare a scaunelor. Petreceți după-amiaza relaxându-vă la The Rye, un parc întins cu un lac și râul Wye, perfect pentru o plimbare liniștită. Încheiați ziua cu o băutură răcoritoare la una dintre cafenelele din apropiere, bucurându-vă de atmosfera liniștită.",
+        "en": "Start your day at the historic Guildhall and All Saints Church to absorb the town centre's architecture. At midday, delve into local history at the Wycombe Museum, learning about its famous chair-making industry. Spend the afternoon relaxing at The Rye, a vast park with a lido and the River Wye, perfect for a leisurely stroll. Conclude your day with a refreshing drink at one of the nearby cafes, enjoying the peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches britisches Gericht, das man am besten in einem traditionellen „chippy“ genießt."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist ein Braten mit allem Drum und Dran ein Muss."
+          },
+          {
+            "name": "Buckinghamshire „Badger“ Pie",
+            "tip": "Ein herzhafter lokaler Kuchen, der normalerweise kein echtes Dachsfleisch enthält!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus brit étel, amelyet a legjobb egy hagyományos „chippy”-ben élvezni."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Ha vasárnap látogat ide, a sült hús minden körettel kihagyhatatlan."
+          },
+          {
+            "name": "Buckinghamshire „Badger” pite",
+            "tip": "Egy kiadós helyi pite, amely általában nem tartalmaz valódi borzhúst!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare britanic clasic, cel mai bine savurat la un „chippy” tradițional."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Dacă vizitați într-o duminică, o friptură de duminică cu toate garniturile este o necesitate."
+          },
+          {
+            "name": "Plăcintă „Badger” din Buckinghamshire",
+            "tip": "O plăcintă locală consistentă care, de obicei, nu conține bursuc adevărat!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic British dish, best enjoyed from a traditional 'chippy'."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "If visiting on a Sunday, a roast with all the trimmings is a must-have."
+          },
+          {
+            "name": "Buckinghamshire 'Badger' Pie",
+            "tip": "A savoury local pie that doesn't usually contain actual badger!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Wye",
+            "tip": "Folgen Sie dem Pfad durch The Rye für friedliche Momente am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von All Saints",
+            "tip": "Ein ruhiger, historischer Ort direkt im Stadtzentrum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wycombe Museum Gärten",
+            "tip": "Die Gärten rund um das Museum sind ein schöner Ort zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Wye folyó mentén",
+            "tip": "Kövesse az ösvényt a The Rye parkon keresztül a békés vízparti pillanatokért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mindenszentek-templom kertje",
+            "tip": "Egy csendes, történelmi hely a város központjában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wycombe Múzeum kertje",
+            "tip": "A múzeum körüli kertek kellemes helyet biztosítanak a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Wye",
+            "tip": "Urmați poteca prin The Rye pentru momente pașnice lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii All Saints",
+            "tip": "Un loc liniștit și istoric chiar în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Muzeului Wycombe",
+            "tip": "Grădinile din jurul muzeului sunt un loc minunat pentru a vă relaxa.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Wye Walk",
+            "tip": "Follow the path through The Rye for peaceful moments by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "All Saints Churchyard",
+            "tip": "A quiet, historic spot right in the town centre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wycombe Museum Gardens",
+            "tip": "The gardens surrounding the museum are a lovely place to relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eden Shopping Centre",
+            "tip": "Ein modernes Einkaufszentrum mit einer großen Auswahl an bekannten Marken."
+          },
+          {
+            "name": "High Wycombe Market",
+            "tip": "Finden Sie lokale Produkte, Street Food und einzigartige Waren auf dem Freiluftmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eden Bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont népszerű márkák széles választékával."
+          },
+          {
+            "name": "High Wycombe-i piac",
+            "tip": "Keressen helyi termékeket, street foodot és egyedi árukat a szabadtéri piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Eden",
+            "tip": "Un centru comercial modern cu o gamă largă de mărci cunoscute."
+          },
+          {
+            "name": "Piața High Wycombe",
+            "tip": "Găsiți produse locale, mâncare stradală și bunuri unice la piața în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eden Shopping Centre",
+            "tip": "A modern shopping centre with a wide range of high-street brands."
+          },
+          {
+            "name": "High Wycombe Market",
+            "tip": "Find local produce, street food, and unique goods at the open-air market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum einige leichte Steigungen aufweist.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Der Park The Rye ist groß; planen Sie genügend Zeit ein, um ihn zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontban vannak enyhe emelkedők.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A The Rye park nagy; szánjon elég időt a felfedezésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are câteva pante ușoare.",
+          "Majoritatea atracțiilor din centru sunt ușor de parcurs pe jos.",
+          "Verificați în prealabil programul de funcționare al muzeului.",
+          "Parcul Rye este mare; alocați-vă suficient timp pentru a-l explora."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre has some gentle slopes.",
+          "Most central attractions are within easy walking distance of each other.",
+          "Check the museum's opening times in advance.",
+          "The Rye park is large; allow plenty of time to explore it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Rye",
+            "hu": "The Rye park",
+            "ro": "The Rye",
+            "en": "The Rye"
+          },
+          "coords": [
+            -0.745,
+            51.624
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Radtour durch den Park, um sich aufzuwärmen.",
+            "hu": "Kezdje a napot egy bemelegítő kerékpártúrával a parkon keresztül.",
+            "ro": "Începeți ziua cu o plimbare cu bicicleta prin parc pentru a vă încălzi.",
+            "en": "Start your day with a cycle through the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "Hughenden Manor",
+            "hu": "Hughenden Manor",
+            "ro": "Conacul Hughenden",
+            "en": "Hughenden Manor"
+          },
+          "coords": [
+            -0.75,
+            51.649
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie das Haus und die Gärten von Disraeli.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel Disraeli otthonát és kertjeit.",
+            "ro": "Asigurați-vă bicicleta și explorați casa și grădinile lui Disraeli.",
+            "en": "Lock your bike securely and explore Disraeli's home and gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe von Hughenden",
+            "hu": "Ebédszünet Hughenden közelében",
+            "ro": "Prânz lângă Hughenden",
+            "en": "Lunch near Hughenden"
+          },
+          "coords": [
+            -0.752,
+            51.647
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Café des National Trust vor Ort ist eine gute Wahl.",
+            "hu": "A helyszínen található National Trust kávézó remek választás.",
+            "ro": "Cafeneaua National Trust de la fața locului este o opțiune excelentă.",
+            "en": "The on-site National Trust cafe is a great option."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            -0.7478,
+            51.6278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine willkommene Pause nach der Rückfahrt in die Stadt.",
+            "hu": "Üdvözlendő pihenő a városba való visszatérés után.",
+            "ro": "O pauză binevenită după ce v-ați întors în oraș.",
+            "en": "A welcome rest after the cycle back into town."
+          }
+        },
+        {
+          "name": {
+            "de": "The Guildhall",
+            "hu": "A céhes ház",
+            "ro": "The Guildhall",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -0.7489,
+            51.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour auf dem Marktplatz und genießen Sie einen Kaffee.",
+            "hu": "Fejezze be a túrát a piactéren és igyon egy kávét.",
+            "ro": "Încheiați-vă turul în piață cu o cafea.",
+            "en": "Finish your tour in the market square with a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im The Rye Park, bevor Sie nach Norden zum beeindruckenden Hughenden Manor radeln. Erkunden Sie das Anwesen des ehemaligen Premierministers Disraeli und genießen Sie dort Ihr Mittagessen. Am Nachmittag fahren Sie zurück ins Stadtzentrum, um die historische Allerheiligenkirche und das belebte Guildhall zu besichtigen. Diese Route kombiniert Natur, Geschichte und städtisches Leben und bietet einen umfassenden Überblick über High Wycombe.",
+        "hu": "Kezdje a kerékpártúrát a The Rye parkban, mielőtt észak felé veszi az irányt a lenyűgöző Hughenden Manorhoz. Fedezze fel Disraeli volt miniszterelnök birtokát és ebédeljen ott. Délután tekerjen vissza a városközpontba, hogy megnézze a történelmi Mindenszentek-templomot és a nyüzsgő Céhházat. Ez az útvonal ötvözi a természetet, a történelmet és a városi életet, átfogó képet nyújtva High Wycombe-ról.",
+        "ro": "Începeți turul cu bicicleta în parcul The Rye înainte de a vă îndrepta spre nord, spre impresionantul Conac Hughenden. Explorați moșia fostului prim-ministru Disraeli și bucurați-vă de prânz acolo. După-amiaza, pedalați înapoi în centrul orașului pentru a vizita istorica Biserică All Saints și animatul Guildhall. Acest traseu combină natura, istoria și viața urbană, oferind o imagine cuprinzătoare a High Wycombe.",
+        "en": "Kick off your cycling tour at The Rye park before heading north to the impressive Hughenden Manor. Explore the estate of former Prime Minister Disraeli and enjoy your lunch there. In the afternoon, cycle back to the town centre to visit the historic All Saints Church and the bustling Guildhall. This route combines nature, history, and urban life, providing a comprehensive overview of High Wycombe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Ein klassisches Pub-Gericht mit Käse, Brot, Chutney und Salat."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Scones mit Clotted Cream und Marmelade, serviert mit Tee – perfekt für eine Nachmittagspause."
+          },
+          {
+            "name": "Lokale Biere",
+            "tip": "Fragen Sie in den Pubs nach Bieren aus Brauereien in Buckinghamshire."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "Klasszikus pub-ebéd sajttal, kenyérrel, chutney-val és salátával."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Scone tejszínnel és lekvárral, teával tálalva – tökéletes egy délutáni szünethez."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Kérjen a pubokban Buckinghamshire-i sörfőzdékből származó söröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânzul plugarului",
+            "tip": "O masă clasică de pub cu brânză, pâine, chutney și salată."
+          },
+          {
+            "name": "Ceai cu frișcă",
+            "tip": "Scones cu cremă de lapte bătută și gem, servit cu ceai – perfect pentru o pauză de după-amiază."
+          },
+          {
+            "name": "Beri locale",
+            "tip": "Întrebați în pub-uri despre berile de la fabricile de bere din Buckinghamshire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ploughman's Lunch",
+            "tip": "A classic pub lunch of cheese, bread, chutney and salad."
+          },
+          {
+            "name": "Cream Tea",
+            "tip": "Scones with clotted cream and jam, served with tea – perfect for an afternoon break."
+          },
+          {
+            "name": "Local Ales",
+            "tip": "Ask in the pubs for ales from Buckinghamshire breweries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten von Hughenden",
+            "tip": "Finden Sie eine ruhige Bank in den formellen Gärten oder im Waldgebiet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ufer des Dyke in The Rye",
+            "tip": "Ein weniger überfüllter Bereich des Parks, ideal zum Beobachten der Enten.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Blick von der Hughenden-Anhöhe",
+            "tip": "Genießen Sie die Aussicht auf die Chiltern Hills vom Anwesen aus.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hughenden kertjei",
+            "tip": "Keressen egy csendes padot a formális kertekben vagy az erdős területen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A gát a The Rye-ban",
+            "tip": "A park egy kevésbé zsúfolt része, ideális a kacsák figyelésére.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Kilátás a Hughenden-dombról",
+            "tip": "Élvezze a Chiltern-dombságra nyíló kilátást a birtokról.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Hughenden",
+            "tip": "Găsiți o bancă liniștită în grădinile formale sau în zona împădurită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul digului din The Rye",
+            "tip": "O zonă mai puțin aglomerată a parcului, ideală pentru a privi rațele.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "Vedere de pe dealul Hughenden",
+            "tip": "Bucurați-vă de priveliștea spre Chiltern Hills de pe moșie.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hughenden Gardens",
+            "tip": "Find a quiet bench in the formal gardens or the woodland estate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bank of the Dyke at The Rye",
+            "tip": "A less crowded area of the park, great for watching the ducks.",
+            "emoji": "🦆"
+          },
+          {
+            "name": "View from Hughenden Rise",
+            "tip": "Enjoy the views across the Chiltern Hills from the estate.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "National Trust Shop in Hughenden",
+            "tip": "Kaufen Sie einzigartige Geschenke, Bücher und lokale Produkte."
+          },
+          {
+            "name": "Unabhängige Geschäfte in der Altstadt",
+            "tip": "Erkunden Sie die Gassen in der Nähe des Guildhall für einzigartige Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "National Trust bolt Hughendenben",
+            "tip": "Vásároljon egyedi ajándékokat, könyveket és helyi termékeket."
+          },
+          {
+            "name": "Független boltok az óvárosban",
+            "tip": "Fedezze fel a Céhház körüli sikátorokat egyedi leletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul National Trust de la Hughenden",
+            "tip": "Cumpărați cadouri unice, cărți și produse locale."
+          },
+          {
+            "name": "Magazine independente în Orașul Vechi",
+            "tip": "Explorați străduțele de lângă Guildhall pentru descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "National Trust Shop at Hughenden",
+            "tip": "Shop for unique gifts, books, and local produce."
+          },
+          {
+            "name": "Independent Shops in the Old Town",
+            "tip": "Explore the lanes near the Guildhall for unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt nach Hughenden beinhaltet einen stetigen Anstieg; seien Sie darauf vorbereitet.",
+          "Einige Straßen im Stadtzentrum können stark befahren sein, fahren Sie also vorsichtig.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit, besonders für den Aufenthalt in Hughenden.",
+          "Packen Sie Wasser und Snacks für die längeren Radfahrabschnitte ein."
+        ],
+        "hu": [
+          "A Hughenden felé vezető út egyenletes emelkedőt tartalmaz; készüljön fel rá.",
+          "Néhány belvárosi utca forgalmas lehet, ezért óvatosan közlekedjen.",
+          "Hozzon magával egy jó lakatot a kerékpárjához, különösen a Hughenden-i tartózkodáshoz.",
+          "Csomagoljon vizet és rágcsálnivalót a hosszabb kerékpáros szakaszokra."
+        ],
+        "ro": [
+          "Drumul spre Hughenden implică o urcare constantă; fiți pregătit.",
+          "Unele străzi din centrul orașului pot fi aglomerate, așa că pedalați cu atenție.",
+          "Aduceți un lacăt bun pentru bicicletă, mai ales pentru oprirea la Hughenden.",
+          "Împachetați apă și gustări pentru segmentele mai lungi de ciclism."
+        ],
+        "en": [
+          "The ride to Hughenden involves a steady climb; be prepared.",
+          "Some town centre roads can be busy, so cycle with care.",
+          "Bring a good lock for your bike, especially for the stop at Hughenden.",
+          "Pack water and snacks for the longer cycling segments."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "West Wycombe Park",
+            "hu": "West Wycombe Park",
+            "ro": "Parcul West Wycombe",
+            "en": "West Wycombe Park"
+          },
+          "coords": [
+            -0.809,
+            51.642
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit der Erkundung des Anwesens aus dem 18. Jahrhundert.",
+            "hu": "Parkoljon itt, és kezdje a napot a 18. századi birtok felfedezésével.",
+            "ro": "Parcați aici și începeți ziua explorând moșia din secolul al XVIII-lea.",
+            "en": "Park here and start your day exploring the 18th-century estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Dashwood-Mausoleum",
+            "hu": "Dashwood-mauzóleum",
+            "ro": "Mausoleul Dashwood",
+            "en": "Dashwood Mausoleum"
+          },
+          "coords": [
+            -0.811,
+            51.646
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Park bietet eine großartige Aussicht.",
+            "hu": "Egy rövid séta felfelé a parkból, ahonnan remek kilátás nyílik.",
+            "ro": "O scurtă plimbare la deal de parc pentru priveliști minunate.",
+            "en": "A short walk uphill from the park for great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Hellfire-Höhlen",
+            "hu": "Hellfire-barlangok",
+            "ro": "Peșterile Hellfire",
+            "en": "Hellfire Caves"
+          },
+          "coords": [
+            -0.81,
+            51.645
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die unheimlichen, von Menschenhand geschaffenen Höhlen. Es kann kühl sein, bringen Sie eine Jacke mit.",
+            "hu": "Fedezze fel a hátborzongató, ember alkotta barlangokat. Hűvös lehet, hozzon kabátot.",
+            "ro": "Explorați peșterile sinistre create de om. Poate fi răcoare, aduceți o jachetă.",
+            "en": "Explore the eerie man-made caves. It can be cool, bring a jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Hughenden Manor",
+            "hu": "Hughenden Manor",
+            "ro": "Conacul Hughenden",
+            "en": "Hughenden Manor"
+          },
+          "coords": [
+            -0.75,
+            51.649
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster des Tages. Mittagessen im Café vor Ort.",
+            "hu": "Vezessen a nap második helyszíncsoportjához. Ebédeljen a helyi kávézóban.",
+            "ro": "Conduceți spre al doilea grup de atracții al zilei. Prânz la cafeneaua de la fața locului.",
+            "en": "Drive to the second cluster of the day. Have lunch at the on-site cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            -0.7478,
+            51.6278
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und erkunden Sie den letzten Cluster zu Fuß.",
+            "hu": "Parkoljon a városközpontban, és fedezze fel gyalog az utolsó helyszíncsoportot.",
+            "ro": "Parcați în centrul orașului și explorați ultimul grup de atracții pe jos.",
+            "en": "Park in the town centre to explore the final cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Guildhall",
+            "hu": "A céhes ház",
+            "ro": "The Guildhall",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -0.7489,
+            51.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag auf dem historischen Marktplatz der Stadt.",
+            "hu": "Fejezze be a napot a város történelmi piacterén.",
+            "ro": "Încheiați ziua în piața istorică a orașului.",
+            "en": "End your day in the town's historic market square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Westen im West Wycombe Park. Nach der Erkundung des Anwesens und der Hellfire-Höhlen fahren Sie nach Norden zum Hughenden Manor, dem ehemaligen Zuhause von Disraeli, wo Sie zu Mittag essen. Am Nachmittag fahren Sie ins Stadtzentrum von High Wycombe. Parken Sie Ihr Auto und beenden Sie Ihren Tag mit einem Spaziergang zur Allerheiligenkirche und dem Guildhall. Dieser auto-gestützte Plan ermöglicht es Ihnen, die verstreuten historischen Juwelen der Region zu erleben.",
+        "hu": "Kezdje a napot nyugaton, a West Wycombe Parkban. A birtok és a Hellfire-barlangok felfedezése után vezessen északra a Hughenden Manorhoz, Disraeli egykori otthonához, ahol megebédelhet. Délután irány High Wycombe városközpontja. Parkolja le az autót, és fejezze be a napot egy sétával a Mindenszentek-templomhoz és a Céhházhoz. Ez az autós útiterv lehetővé teszi a régió szétszórt történelmi gyöngyszemeinek felfedezését.",
+        "ro": "Începeți ziua la vest, în Parcul West Wycombe. După ce explorați moșia și Peșterile Hellfire, conduceți spre nord la Conacul Hughenden, fosta casă a lui Disraeli, pentru prânz. După-amiaza, mergeți în centrul orașului High Wycombe. Parcați mașina și încheiați ziua cu o plimbare la Biserica All Saints și Guildhall. Acest plan bazat pe mașină vă permite să experimentați bijuteriile istorice dispersate ale zonei.",
+        "en": "Start your day out west at West Wycombe Park. After exploring the estate and the Hellfire Caves, drive north to Hughenden Manor, Disraeli's former home, for lunch. In the afternoon, head into High Wycombe's town centre. Park the car and finish your day with a walk to All Saints Church and the Guildhall. This car-based plan allows you to experience the area's scattered historical gems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The George and Dragon",
+            "tip": "Ein historischer Gasthof in West Wycombe, perfekt für ein Mittagessen nach den Höhlen."
+          },
+          {
+            "name": "Afternoon Tea",
+            "tip": "Viele Landhäuser und Hotels in der Umgebung bieten einen eleganten Nachmittagstee an."
+          },
+          {
+            "name": "Lokale Produkte vom Bauernhof",
+            "tip": "Halten Sie Ausschau nach Hofläden, die frische Produkte aus Chiltern verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The George and Dragon",
+            "tip": "Történelmi fogadó West Wycombe-ban, tökéletes ebédhez a barlangok után."
+          },
+          {
+            "name": "Délutáni tea",
+            "tip": "A környéken számos udvarház és szálloda kínál elegáns délutáni teát."
+          },
+          {
+            "name": "Helyi termékek a farmról",
+            "tip": "Keresse a farmboltokat, amelyek friss Chiltern-termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The George and Dragon",
+            "tip": "Un han istoric din West Wycombe, perfect pentru prânz după peșteri."
+          },
+          {
+            "name": "Ceaiul de după-amiază",
+            "tip": "Multe case de la țară și hoteluri din zonă oferă un ceai elegant de după-amiază."
+          },
+          {
+            "name": "Produse locale de la fermă",
+            "tip": "Fiți atenți la magazinele de la ferme care vând produse proaspete din Chilterns."
+          }
+        ],
+        "en": [
+          {
+            "name": "The George and Dragon",
+            "tip": "A historic inn in West Wycombe, perfect for a post-caves lunch."
+          },
+          {
+            "name": "Afternoon Tea",
+            "tip": "Many country houses and hotels in the area offer an elegant afternoon tea."
+          },
+          {
+            "name": "Local Farm Produce",
+            "tip": "Look out for farm shops selling fresh Chilterns produce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Dashwood-Mausoleum",
+            "tip": "Ein Panoramablick über das Anwesen und die Landschaft von Buckinghamshire.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Die Wälder von Hughenden",
+            "tip": "Machen Sie einen ruhigen Spaziergang auf einem der markierten Wanderwege.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Der Schwanenhimmel im West Wycombe Park",
+            "tip": "Ein wunderschöner See, der oft von Schwänen besucht wird.",
+            "emoji": "🦢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Dashwood-mauzóleumtól",
+            "tip": "Panorámás kilátás a birtokra és Buckinghamshire vidékére.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Hughenden erdei",
+            "tip": "Tegyen egy csendes sétát a kijelölt ösvények egyikén.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Hattyú Mennyország a West Wycombe Parkban",
+            "tip": "Egy gyönyörű tó, amelyet gyakran látogatnak hattyúk.",
+            "emoji": "🦢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Mausoleul Dashwood",
+            "tip": "O priveliște panoramică asupra moșiei și a peisajului rural din Buckinghamshire.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Pădurile din Hughenden",
+            "tip": "Faceți o plimbare liniștită pe una dintre potecile marcate.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paradisul lebedelor din Parcul West Wycombe",
+            "tip": "Un lac frumos, frecventat adesea de lebede.",
+            "emoji": "🦢"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Dashwood Mausoleum",
+            "tip": "A panoramic viewpoint over the estate and Buckinghamshire countryside.",
+            "emoji": "🌄"
+          },
+          {
+            "name": "Hughenden's Woodlands",
+            "tip": "Take a quiet walk on one of the marked trails.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The Swan Heaven at West Wycombe Park",
+            "tip": "A beautiful lake often frequented by swans.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "West Wycombe Dorf",
+            "tip": "Das Dorf hat einige malerische Antiquitäten- und Handwerksläden."
+          },
+          {
+            "name": "Geschenkeladen der Hellfire-Höhlen",
+            "tip": "Einzigartige Souvenirs im Zusammenhang mit der seltsamen Geschichte des Ortes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "West Wycombe falu",
+            "tip": "A faluban található néhány hangulatos régiség- és kézművesbolt."
+          },
+          {
+            "name": "Hellfire-barlangok ajándékboltja",
+            "tip": "Egyedi szuvenírek a hely furcsa történelmével kapcsolatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul West Wycombe",
+            "tip": "Satul are câteva magazine de antichități și meșteșuguri pitorești."
+          },
+          {
+            "name": "Magazinul de cadouri Hellfire Caves",
+            "tip": "Suveniruri unice legate de istoria ciudată a locului."
+          }
+        ],
+        "en": [
+          {
+            "name": "West Wycombe Village",
+            "tip": "The village has some quaint antique and craft shops."
+          },
+          {
+            "name": "Hellfire Caves Gift Shop",
+            "tip": "Unique souvenirs related to the site's strange history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten von West Wycombe Park und Hughenden Manor, da sie saisonal sind.",
+          "Kaufen Sie Tickets für die Hellfire Caves online, um Wartezeiten zu vermeiden.",
+          "Das Parken im Stadtzentrum kann kostenpflichtig sein.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Standorten ein, insbesondere während der Stoßzeiten."
+        ],
+        "hu": [
+          "Ellenőrizze a West Wycombe Park és a Hughenden Manor nyitvatartási idejét, mivel azok szezonálisak.",
+          "Vásároljon jegyet a Hellfire-barlangokba online, hogy elkerülje a sorban állást.",
+          "A belvárosi parkolás fizetős lehet.",
+          "Szánjon elegendő időt a helyszínek közötti utazásra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Verificați programul de funcționare pentru West Wycombe Park și Hughenden Manor, deoarece acestea sunt sezoniere.",
+          "Cumpărați bilete online pentru Hellfire Caves pentru a evita cozile.",
+          "Parcarea în centrul orașului poate fi contra cost.",
+          "Alocați suficient timp pentru deplasarea între locații, în special în orele de vârf."
+        ],
+        "en": [
+          "Check opening times for West Wycombe Park and Hughenden Manor as they are seasonal.",
+          "Buy tickets for the Hellfire Caves online to avoid queues.",
+          "Parking in the town centre can be paid.",
+          "Allow plenty of time for driving between locations, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The Guildhall",
+            "hu": "A céhes ház",
+            "ro": "The Guildhall",
+            "en": "The Guildhall"
+          },
+          "coords": [
+            -0.7489,
+            51.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Busbahnhof, nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje a központi buszpályaudvarnál, amely csak egy rövid sétára van.",
+            "ro": "Începeți de la autogara centrală, la o scurtă plimbare.",
+            "en": "Start at the central bus station, a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Wycombe Museum",
+            "hu": "Wycombe Múzeum",
+            "ro": "Muzeul Wycombe",
+            "en": "Wycombe Museum"
+          },
+          "coords": [
+            -0.751,
+            51.6255
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Stadtzentrum durch den Friedhof.",
+            "hu": "Kellemes séta a városközpontból a temetőn keresztül.",
+            "ro": "O plimbare plăcută din centrul orașului prin cimitir.",
+            "en": "A pleasant walk from the town centre through the churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Hughenden Manor",
+            "hu": "Hughenden Manor",
+            "ro": "Conacul Hughenden",
+            "en": "Hughenden Manor"
+          },
+          "coords": [
+            -0.75,
+            51.649
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Planen Sie Zeit für das Mittagessen hier ein.",
+            "hu": "Szálljon buszra a városközpontból. Tervezzen itt időt az ebédre.",
+            "ro": "Luați un autobuz din centrul orașului. Planificați-vă timp pentru prânz aici.",
+            "en": "Take a bus from the town centre. Plan time for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rye",
+            "hu": "The Rye park",
+            "ro": "The Rye",
+            "en": "The Rye"
+          },
+          "coords": [
+            -0.745,
+            51.624
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück in die Stadt und steigen Sie in einen Bus zum Park.",
+            "hu": "Menjen busszal vissza a városba, és szálljon át egy másikra a park felé.",
+            "ro": "Luați un autobuz înapoi în oraș și schimbați cu unul spre parc.",
+            "en": "Take the bus back into town and change for one to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschlussgetränk am Fluss",
+            "hu": "Búcsúital a folyóparton",
+            "ro": "Băutură de final la râu",
+            "en": "Final Drink by the River"
+          },
+          "coords": [
+            -0.743,
+            51.623
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Pub oder Café am Rande von The Rye.",
+            "hu": "Keressen egy pubot vagy kávézót a The Rye szélén.",
+            "ro": "Găsiți un pub sau o cafenea la marginea parcului The Rye.",
+            "en": "Find a pub or cafe at the edge of The Rye."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von High Wycombe und gehen Sie vom Busbahnhof zum Guildhall und zum Wycombe Museum. Am späten Vormittag nehmen Sie einen Bus nach Norden zum Hughenden Manor für eine Dosis Geschichte und ein Mittagessen. Am Nachmittag fahren Sie mit dem Bus zurück in die Stadt und weiter zum The Rye Park für einen entspannten Spaziergang. Beenden Sie Ihren Tag mit einem Getränk in einem Pub mit Blick auf den Park, bevor Sie den Bus zurück nehmen.",
+        "hu": "Kezdje a napot High Wycombe központjában, sétáljon el a buszpályaudvartól a Céhházhoz és a Wycombe Múzeumhoz. Késő délelőtt szálljon buszra észak felé a Hughenden Manorhoz egy adag történelemért és egy ebédért. Délután utazzon vissza busszal a városba, majd tovább a The Rye parkba egy pihentető sétára. Zárja a napot egy itallal egy parkra néző pubban, mielőtt visszaszállna a buszra.",
+        "ro": "Începeți ziua în centrul orașului High Wycombe, mergând de la autogară la Guildhall și Muzeul Wycombe. Spre sfârșitul dimineții, luați un autobuz spre nord, la Conacul Hughenden, pentru o doză de istorie și prânz. După-amiaza, luați autobuzul înapoi în oraș și apoi spre Parcul The Rye pentru o plimbare relaxantă. Încheiați ziua cu o băutură la un pub cu vedere la parc înainte de a lua autobuzul înapoi.",
+        "en": "Start your day in central High Wycombe, walking from the bus station to the Guildhall and Wycombe Museum. In the late morning, take a bus north to Hughenden Manor for a dose of history and lunch. In the afternoon, travel by bus back into town and onwards to The Rye park for a relaxing stroll. Finish your day with a drink at a pub overlooking the park before catching your bus home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich zum Mitnehmen",
+            "tip": "Kaufen Sie ein Sandwich in der Stadt, um es in den Gärten von Hughenden zu essen."
+          },
+          {
+            "name": "Pub-Essen",
+            "tip": "Viele Pubs in der Nähe des Busbahnhofs bieten preiswerte und schnelle Mahlzeiten an."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Gönnen Sie sich eine Pause in einem der vielen Cafés im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvihető szendvics",
+            "tip": "Vegyen egy szendvicset a városban, és egye meg a Hughenden kertjében."
+          },
+          {
+            "name": "Pub-ételek",
+            "tip": "Sok pub a buszpályaudvar közelében kínál jó ár-érték arányú, gyors ételeket."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson egy szünetet a belváros számos kávézójának egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș la pachet",
+            "tip": "Cumpărați un sandviș din oraș pentru a-l mânca în grădinile Hughenden."
+          },
+          {
+            "name": "Mâncare de pub",
+            "tip": "Multe pub-uri de lângă autogară oferă mese rapide și cu un bun raport calitate-preț."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Luați o pauză la una dintre numeroasele cafenele din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Takeaway Sandwich",
+            "tip": "Grab a sandwich in town to eat in the gardens at Hughenden."
+          },
+          {
+            "name": "Pub Grub",
+            "tip": "Many pubs near the bus station offer good value, quick meals."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Take a break at one of the many coffee shops in the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Sitzen Sie vorne im Oberdeck für eine tolle Aussicht auf die Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Die ruhigen Ecken von The Rye",
+            "tip": "Gehen Sie weg von der Hauptpromenade, um ruhigere Plätze am Fluss zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Leseecke im Wycombe Museum",
+            "tip": "Das Museum hat oft ruhige Ecken, die sich perfekt für eine kurze Pause eignen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Üljön az emelet elejébe a tájra nyíló remek kilátásért.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A The Rye csendes zugai",
+            "tip": "Menjen távolabb a fő sétánytól, hogy csendesebb helyeket találjon a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Olvasósarok a Wycombe Múzeumban",
+            "tip": "A múzeumban gyakran vannak csendes sarkok, amelyek tökéletesek egy rövid pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Stați în față la etaj pentru vederi minunate ale peisajului rural.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Colțurile liniștite din The Rye",
+            "tip": "Îndepărtați-vă de promenada principală pentru a găsi locuri mai liniștite lângă râu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțul de lectură al Muzeului Wycombe",
+            "tip": "Muzeul are adesea colțuri liniștite, perfecte pentru o pauză scurtă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top Deck of the Bus",
+            "tip": "Sit at the front of the top deck for great views of the countryside.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "The Quiet Corners of The Rye",
+            "tip": "Walk away from the main promenade to find quieter spots by the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wycombe Museum's Reading Nook",
+            "tip": "The museum often has quiet corners perfect for a short rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Holen Sie sich alle wichtigen Dinge, bevor Sie Ihre Reise beginnen."
+          },
+          {
+            "name": "Der High Street Market",
+            "tip": "Wenn es Markttag ist, stöbern Sie zwischen den Busfahrten in den Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "Szerezzen be minden szükséges dolgot, mielőtt elkezdi az utazást."
+          },
+          {
+            "name": "A Fő utcai piac",
+            "tip": "Ha piacnap van, nézelődjön a standok között a buszutak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Luați toate lucrurile esențiale înainte de a începe călătoria."
+          },
+          {
+            "name": "Piața de pe High Street",
+            "tip": "Dacă este zi de piață, răsfoiți tarabele între călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the Bus Station",
+            "tip": "Pick up any essentials before you start your journey."
+          },
+          {
+            "name": "The High Street Market",
+            "tip": "If it's market day, browse the stalls in between bus trips."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu erhalten.",
+          "Prüfen Sie die Busfahrpläne im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Laden Sie eine lokale Bus-App herunter, um die Ankunftszeiten in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse nach Hughenden möglicherweise nicht so häufig fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat.",
+          "Töltsön le egy helyi buszos alkalmazást a valós idejű érkezések követéséhez.",
+          "Vegye figyelembe, hogy a Hughendenbe közlekedő buszok ritkábban járhatnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați din timp orarele autobuzelor, în special pentru ultimul autobuz de întoarcere.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări sosirile în timp real.",
+          "Rețineți că autobuzele către Hughenden pot fi mai puțin frecvente."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for unlimited travel.",
+          "Check bus timetables in advance, especially for the last bus back.",
+          "Download a local bus app to track real-time arrivals.",
+          "Be aware that services to Hughenden might be less frequent."
+        ]
+      }
+    }
+  }
+}

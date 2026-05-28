@@ -1,0 +1,1404 @@
+{
+  "city_id": "austria-hermagor-cities-v2",
+  "anchor": {
+    "name": "Hermagor-Pressegger See",
+    "coords": [
+      46.6267,
+      13.3644
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Hermagoras",
+            "hu": "Szent Hermagórasz plébániatemplom",
+            "ro": "Biserica parohială Sf. Hermagoras",
+            "en": "Parish Church of St. Hermagoras"
+          },
+          "coords": [
+            13.3681,
+            46.6275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken und den gotischen Chor.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a gótikus kórust.",
+            "ro": "Observați frescele impresionante de pe tavan și corul gotic.",
+            "en": "Pay attention to the impressive ceiling frescoes and the Gothic choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Gailtaler Heimatmuseum im Schloss Lerchenhof",
+            "hu": "Gail-völgyi Helytörténeti Múzeum a Lerchenhof kastélyban",
+            "ro": "Muzeul de istorie locală Gailtal la Castelul Lerchenhof",
+            "en": "Gailtal Heritage Museum in Lerchenhof Castle"
+          },
+          "coords": [
+            13.363,
+            46.629
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ausstellung über den Gailtaler Paternschmied, eine lokale Legende.",
+            "hu": "Ismerje meg a Gail-völgyi Paternschmiedről, egy helyi legendáról szóló kiállítást.",
+            "ro": "Descoperiți expoziția despre Paternschmied din Gailtal, o legendă locală.",
+            "en": "Discover the exhibition about the Gailtal Paternschmied, a local legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem lokalen Gasthof",
+            "hu": "Ebéd egy helyi fogadóban",
+            "ro": "Prânz la un han local",
+            "en": "Lunch at a local inn"
+          },
+          "coords": [
+            13.365,
+            46.627
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die Gailtaler Speck- oder Käsnudeln.",
+            "hu": "Kóstolja meg a Gail-völgyi szalonnát vagy a „Käsnudelnt”.",
+            "ro": "Încercați șunca Gailtal sau găluștele cu brânză „Käsnudeln”.",
+            "en": "Try the Gailtal bacon or the 'Käsnudeln' cheese dumplings."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Gail",
+            "hu": "Séta a Gail folyó partján",
+            "ro": "Plimbare de-a lungul râului Gail",
+            "en": "Walk along the Gail River"
+          },
+          "coords": [
+            13.372,
+            46.625
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannender Weg, um die Natur zu genießen und die frische Bergluft einzuatmen.",
+            "hu": "Pihentető útvonal a természet élvezetére és a friss hegyi levegő belélegzésére.",
+            "ro": "O modalitate relaxantă de a vă bucura de natură și de a respira aerul proaspăt de munte.",
+            "en": "A relaxing path to enjoy nature and breathe in the fresh mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Malenthein",
+            "hu": "Malenthein várrom",
+            "ro": "Ruinele Castelului Malenthein",
+            "en": "Malenthein Castle Ruins"
+          },
+          "coords": [
+            13.4,
+            46.635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist etwas steil, aber die Aussicht auf das Tal ist die Mühe wert.",
+            "hu": "Az emelkedő kissé meredek, de a völgyre nyíló kilátás megéri a fáradozást.",
+            "ro": "Urcușul este puțin abrupt, dar priveliștea asupra văii merită efortul.",
+            "en": "The climb is a bit steep, but the view of the valley is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Hermagor an der historischen Stadtpfarrkirche. Am Vormittag tauchen Sie im Heimatmuseum in die lokale Kultur ein. Nach einem traditionellen Mittagessen führt Sie ein Spaziergang entlang des Flusses Gail in die ruhige Natur. Den Nachmittag verbringen Sie damit, die alten Mauern der Burgruine Malenthein zu erkunden und die Aussicht zu genießen.",
+        "hu": "Kezdje a napot Hermagor szívében, a történelmi plébániatemplomnál. Délelőtt merüljön el a helyi kultúrában a helytörténeti múzeumban. Egy hagyományos ebéd után a Gail folyó menti séta a csendes természetbe vezet. A délutánt Malenthein várromjának ősi falai felfedezésével és a kilátás élvezetével töltse.",
+        "ro": "Începeți ziua în inima orașului Hermagor la biserica parohială istorică. Dimineața, scufundați-vă în cultura locală la muzeul patrimoniului. După un prânz tradițional, o plimbare de-a lungul râului Gail vă va conduce în natura liniștită. Petreceți după-amiaza explorând zidurile vechi ale ruinelor castelului Malenthein și bucurându-vă de priveliște.",
+        "en": "Start your day in the heart of Hermagor at the historic parish church. In the morning, immerse yourself in local culture at the heritage museum. After a traditional lunch, a walk along the Gail river will lead you into the quiet nature. Spend the afternoon exploring the ancient walls of the Malenthein castle ruins and enjoying the view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gailtaler Käsnudeln",
+            "tip": "Handgemachte Teigtaschen gefüllt mit Kartoffeln und Topfen, serviert mit brauner Butter."
+          },
+          {
+            "name": "Gailtaler Speck",
+            "tip": "Luftgetrockneter Schinken, perfekt für eine Jause nach einer Wanderung."
+          },
+          {
+            "name": "Gasthof-Restaurant Biedermeier-Schlössl Lerchenhof",
+            "tip": "Regionale Slow-Food-Küche in elegantem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gail-völgyi „Käsnudeln”",
+            "tip": "Kézzel készített tésztabatyu, burgonyával és túróval töltve, barna vajjal tálalva."
+          },
+          {
+            "name": "Gail-völgyi szalonna",
+            "tip": "Levegőn szárított sonka, tökéletes uzsonnára egy túra után."
+          },
+          {
+            "name": "Biedermeier-Schlössl Lerchenhof Étterem",
+            "tip": "Regionális slow food konyha elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște cu brânză din Gailtal (Käsnudeln)",
+            "tip": "Găluște făcute manual umplute cu cartofi și brânză de vaci, servite cu unt rumenit."
+          },
+          {
+            "name": "Șuncă din Gailtal",
+            "tip": "Șuncă uscată la aer, perfectă pentru o gustare după o drumeție."
+          },
+          {
+            "name": "Restaurantul Gasthof Biedermeier-Schlössl Lerchenhof",
+            "tip": "Bucătărie regională slow food într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gailtal Cheese Dumplings (Käsnudeln)",
+            "tip": "Handmade pasta pockets filled with potatoes and curd cheese, served with brown butter."
+          },
+          {
+            "name": "Gailtal Bacon",
+            "tip": "Air-dried ham, perfect for a snack after a hike."
+          },
+          {
+            "name": "Gasthof-Restaurant Biedermeier-Schlössl Lerchenhof",
+            "tip": "Regional slow food cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gail-Flussufer",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Rauschen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Ruine Malenthein",
+            "tip": "Ein friedlicher Ort, um über das Tal zu blicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof bei der Stadtpfarrkirche",
+            "tip": "Ein stiller, historischer Ort zur Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gail folyópart",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz zúgását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Malenthein romokról",
+            "tip": "Békés hely a völgyre néző kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Temető a plébániatemplomnál",
+            "tip": "Csendes, történelmi hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gail",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la Ruinele Malenthein",
+            "tip": "Un loc pașnic pentru a privi peste vale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă biserica parohială",
+            "tip": "Un loc tăcut, istoric, pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gail Riverbank",
+            "tip": "Find a quiet bench and listen to the sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Malenthein Ruins",
+            "tip": "A peaceful spot to look out over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery at the Parish Church",
+            "tip": "A quiet, historic place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt in Hermagor",
+            "tip": "Kaufen Sie freitags lokale Produkte wie Käse, Honig und Wurst."
+          },
+          {
+            "name": "Heimatwerk-Laden",
+            "tip": "Finden Sie traditionelles Kunsthandwerk und Souvenirs aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hetipiac Hermagorban",
+            "tip": "Vásároljon helyi termékeket, például sajtot, mézet és kolbászt péntekenként."
+          },
+          {
+            "name": "Helyi kézműves bolt",
+            "tip": "Találjon hagyományos kézműves termékeket és ajándéktárgyakat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Hermagor",
+            "tip": "Cumpărați produse locale precum brânză, miere și cârnați în zilele de vineri."
+          },
+          {
+            "name": "Magazin de artizanat local",
+            "tip": "Găsiți obiecte de artizanat tradiționale și suveniruri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market in Hermagor",
+            "tip": "Shop for local products like cheese, honey, and sausages on Fridays."
+          },
+          {
+            "name": "Local Craft Store",
+            "tip": "Find traditional handicrafts and souvenirs from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Stadt uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Burgruine.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a város macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával vizet, különösen a várromhoz való feljutáshoz.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pietrele din oraș pot fi denivelate.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea la ruinele castelului.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in town can be uneven.",
+          "Bring water, especially for the climb to the castle ruins.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start in Hermagor",
+            "hu": "Kerékpárkölcsönzés és indulás Hermagorból",
+            "ro": "Închiriere de biciclete și start în Hermagor",
+            "en": "Bike Rental & Start in Hermagor"
+          },
+          "coords": [
+            13.366,
+            46.626
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein E-Bike für eine entspanntere Fahrt zum See.",
+            "hu": "Válasszon e-biciklit a tóhoz vezető kényelmesebb utazáshoz.",
+            "ro": "Alegeți o bicicletă electrică pentru o plimbare mai relaxată spre lac.",
+            "en": "Choose an e-bike for a more relaxed ride to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Gailtal-Radwegs R3",
+            "hu": "Utazás a Gail-völgyi R3-as kerékpárúton",
+            "ro": "Plimbare pe pista de biciclete R3 din Valea Gail",
+            "en": "Ride along the Gailtal Cycle Path R3"
+          },
+          "coords": [
+            13.43,
+            46.615
+          ],
+          "category": "route",
+          "arrive_at": "10:10",
+          "stay_min": 0,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Der Weg ist meist flach und gut ausgeschildert, ideal für Familien.",
+            "hu": "Az út többnyire sík és jól jelzett, ideális családok számára.",
+            "ro": "Traseul este în mare parte plat și bine semnalizat, ideal pentru familii.",
+            "en": "The path is mostly flat and well-signposted, ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Pressegger See",
+            "hu": "Pressegger-tó",
+            "ro": "Lacul Pressegger",
+            "en": "Lake Pressegger"
+          },
+          "coords": [
+            13.485,
+            46.619
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das warme Wasser, mieten Sie ein Tretboot oder entspannen Sie einfach am Ufer.",
+            "hu": "Élvezze a meleg vizet, béreljen vízibiciklit, vagy csak pihenjen a parton.",
+            "ro": "Bucurați-vă de apa caldă, închiriați o hidrobicicletă sau pur și simplu relaxați-vă pe mal.",
+            "en": "Enjoy the warm water, rent a pedal boat, or just relax on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am See",
+            "hu": "Ebéd a tónál",
+            "ro": "Prânz la lac",
+            "en": "Lunch by the lake"
+          },
+          "coords": [
+            13.488,
+            46.621
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten frischen Fisch aus dem See an.",
+            "hu": "Sok étterem kínál friss halat a tóból.",
+            "ro": "Multe restaurante oferă pește proaspăt din lac.",
+            "en": "Many restaurants offer fresh fish from the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Hermagor",
+            "hu": "Visszaút Hermagorba",
+            "ro": "Întoarcere la Hermagor",
+            "en": "Return ride to Hermagor"
+          },
+          "coords": [
+            13.366,
+            46.626
+          ],
+          "category": "route",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 155,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit und genießen Sie die Landschaft auf dem Rückweg.",
+            "hu": "Szánjon időt és élvezze a tájat a visszaúton.",
+            "ro": "Nu vă grăbiți și bucurați-vă de peisaj la întoarcere.",
+            "en": "Take your time and enjoy the scenery on the way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Hermagor aufs Rad und folgen Sie dem malerischen Gailtal-Radweg. Der Vormittag führt Sie direkt zum Pressegger See, der „Badewanne des Gailtals“. Verbringen Sie die Mittagszeit mit Schwimmen und Entspannen, gefolgt von einem Mittagessen mit Seeblick. Gut erholt treten Sie am Nachmittag die gemütliche Rückfahrt an und genießen die ländliche Idylle.",
+        "hu": "Pattanjon kerékpárra Hermagorban, és kövesse a festői Gail-völgyi kerékpárutat. A délelőtt közvetlenül a Pressegger-tóhoz, a „Gail-völgy fürdőkádjához” vezet. Töltse a déli órákat úszással és pihenéssel, majd ebédeljen tóparti kilátással. Kipihenten induljon vissza délután a kényelmes úton, és élvezze a vidéki idillt.",
+        "ro": "Urcați-vă pe bicicletă în Hermagor și urmați pitoreasca pistă de biciclete din Valea Gail. Dimineața vă duce direct la Lacul Pressegger, „cada de baie a Văii Gail”. Petreceți amiaza înotând și relaxându-vă, urmată de un prânz cu vedere la lac. Odihnit, porniți pe drumul de întoarcere lejer după-amiaza și bucurați-vă de idila rurală.",
+        "en": "Hop on your bike in Hermagor and follow the scenic Gailtal Cycle Path. The morning takes you directly to Lake Pressegger, the 'bathtub of the Gailtal'. Spend midday swimming and relaxing, followed by lunch with a lake view. Well-rested, you'll start the leisurely ride back in the afternoon, enjoying the rural idyll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seerestaurant Pressegger See",
+            "tip": "Probieren Sie den frisch gefangenen Saibling oder die Forelle."
+          },
+          {
+            "name": "Gailtaler Frigga",
+            "tip": "Ein herzhaftes Gericht aus Speck, Eiern und Käse, perfekt für hungrige Radler."
+          },
+          {
+            "name": "Hofschank, Bauernhofladen",
+            "tip": "Kaufen Sie regionale Produkte direkt vom Erzeuger für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pressegger See Étterem",
+            "tip": "Kóstolja meg a frissen fogott szaiblingot vagy pisztrángot."
+          },
+          {
+            "name": "Gail-völgyi „Frigga”",
+            "tip": "Kiadós étel szalonnából, tojásból és sajtból, tökéletes éhes kerékpárosoknak."
+          },
+          {
+            "name": "Tanyasi csárda, gazdabolt",
+            "tip": "Vásároljon regionális termékeket közvetlenül a termelőtől egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul de pe malul lacului Pressegger",
+            "tip": "Încercați păstrăvul fântânel sau păstrăvul curcubeu proaspăt prins."
+          },
+          {
+            "name": "Frigga din Gailtal",
+            "tip": "Un fel de mâncare consistent din șuncă, ouă și brânză, perfect pentru bicicliștii înfometați."
+          },
+          {
+            "name": "Magazin la fermă",
+            "tip": "Cumpărați produse regionale direct de la producător pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Restaurant Pressegger See",
+            "tip": "Try the freshly caught char or trout."
+          },
+          {
+            "name": "Gailtal Frigga",
+            "tip": "A hearty dish of bacon, eggs, and cheese, perfect for hungry cyclists."
+          },
+          {
+            "name": "Farm Shop",
+            "tip": "Buy regional products directly from the producer for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schilfgürtel am Pressegger See",
+            "tip": "Beobachten Sie Vögel und genießen Sie die Stille abseits der Strandbäder.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rastplatz am Radweg R3",
+            "tip": "Viele Bänke laden zu einer Pause im Grünen ein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am See",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nádas a Pressegger-tónál",
+            "tip": "Figyelje a madarakat és élvezze a csendet a strandoktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pihenőhely az R3-as kerékpárúton",
+            "tip": "Sok pad invitál egy szünetre a zöldben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a tónál",
+            "tip": "Tökéletes hely a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stufărișul de pe Lacul Pressegger",
+            "tip": "Observați păsările și bucurați-vă de liniște departe de zonele de plajă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zonă de odihnă pe pista de biciclete R3",
+            "tip": "Multe bănci vă invită să luați o pauză în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare la lac",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reed Belt at Lake Pressegger",
+            "tip": "Watch birds and enjoy the silence away from the lidos.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rest stop on the R3 cycle path",
+            "tip": "Many benches invite you to take a break in the green.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the lake",
+            "tip": "The perfect place to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte in Hermagor",
+            "tip": "Finden Sie Radzubehör oder Outdoor-Bekleidung."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Nehmen Sie sich ein Stück Gailtaler Käse für zu Hause mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok Hermagorban",
+            "tip": "Találjon kerékpáros kiegészítőket vagy outdoor ruházatot."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Vigyen haza egy darab Gail-völgyi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport în Hermagor",
+            "tip": "Găsiți accesorii pentru biciclete sau îmbrăcăminte de exterior."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Luați acasă o bucată de brânză din Gailtal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops in Hermagor",
+            "tip": "Find cycling accessories or outdoor clothing."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Take a piece of Gailtal cheese home with you."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Badesachen für den See mit.",
+          "Der Radweg ist sehr beliebt; fahren Sie an Wochenenden vorausschauend.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Vigyen magával fürdőruhát a tóhoz.",
+          "A kerékpárút nagyon népszerű; hétvégén vezessen előrelátóan.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Luați cu dvs. un costum de baie pentru lac.",
+          "Pista de biciclete este foarte populară; fiți prudenți în weekend.",
+          "Se recomandă insistent purtarea căștii de protecție."
+        ],
+        "en": [
+          "Bring swimwear for the lake.",
+          "The cycle path is very popular; ride with foresight on weekends.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Altstadt Hermagor",
+            "hu": "Parkolás és Hermagor óvárosa",
+            "ro": "Parcare și centrul vechi Hermagor",
+            "en": "Parking and Old Town Hermagor"
+          },
+          "coords": [
+            13.367,
+            46.627
+          ],
+          "category": "service",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați în centru și explorați primul cluster pe jos.",
+            "en": "Park in the center and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Heimatmuseum",
+            "hu": "Plébániatemplom és Helytörténeti Múzeum",
+            "ro": "Biserica parohială și Muzeul de istorie locală",
+            "en": "Parish Church & Heritage Museum"
+          },
+          "coords": [
+            13.368,
+            46.628
+          ],
+          "category": "cluster",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Mindkét látnivaló csak néhány perc sétára van egymástól.",
+            "ro": "Ambele atracții sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "Both sights are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Pressegger See",
+            "hu": "Utazás a Pressegger-tóhoz",
+            "ro": "Drum spre Lacul Pressegger",
+            "en": "Drive to Lake Pressegger"
+          },
+          "coords": [
+            13.485,
+            46.619
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe eines Strandbads für den besten Zugang.",
+            "hu": "Találjon parkolóhelyet egy strandfürdő közelében a legjobb hozzáférés érdekében.",
+            "ro": "Găsiți un loc de parcare lângă o zonă de plajă pentru cel mai bun acces.",
+            "en": "Find a parking spot near a lido for the best access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Entspannung am See",
+            "hu": "Ebéd és pihenés a tónál",
+            "ro": "Prânz și relaxare la lac",
+            "en": "Lunch and relaxation by the lake"
+          },
+          "coords": [
+            13.488,
+            46.621
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und die ruhige Atmosphäre.",
+            "hu": "Élvezze a kilátást és a nyugodt légkört.",
+            "ro": "Bucurați-vă de priveliște și de atmosfera liniștită.",
+            "en": "Enjoy the view and the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Talstation Millennium-Express",
+            "hu": "Utazás a Millennium-Express völgyállomásához",
+            "ro": "Drum spre stația de vale Millennium-Express",
+            "en": "Drive to Millennium-Express valley station"
+          },
+          "coords": [
+            13.265,
+            46.598
+          ],
+          "category": "service",
+          "arrive_at": "15:30",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Die Fahrt führt durch das malerische Gailtal.",
+            "hu": "Az út a festői Gail-völgyön keresztül vezet.",
+            "ro": "Drumul trece prin pitoreasca Vale Gail.",
+            "en": "The drive takes you through the scenic Gailtal valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Auffahrt zum Nassfeld",
+            "hu": "Felvonózás Nassfeldre",
+            "ro": "Urcare la Nassfeld",
+            "en": "Ascent to Nassfeld"
+          },
+          "coords": [
+            13.277,
+            46.564
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht auf die Karnischen und Gailtaler Alpen.",
+            "hu": "Élvezze a Karni- és Gail-völgyi Alpokra nyíló látványos kilátást.",
+            "ro": "Bucurați-vă de priveliștea spectaculoasă a Alpilor Carnici și Gailtal.",
+            "en": "Enjoy the spectacular views of the Carnic and Gailtal Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Garnitzenklamm (optionaler kurzer Stopp)",
+            "hu": "Garnitzenklamm (opcionális rövid megálló)",
+            "ro": "Cheile Garnitzen (oprire scurtă opțională)",
+            "en": "Garnitzenklamm (optional short stop)"
+          },
+          "coords": [
+            13.342,
+            46.6
+          ],
+          "category": "natural features",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 17.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang am Eingang der Klamm gibt einen Eindruck von ihrer Schönheit.",
+            "hu": "Egy rövid séta a szurdok bejáratánál ízelítőt ad a szépségéből.",
+            "ro": "O scurtă plimbare la intrarea în chei vă va da o idee despre frumusețea lor.",
+            "en": "A short walk at the entrance of the gorge gives an impression of its beauty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im historischen Zentrum von Hermagor. Nach der Erkundung des ersten Clusters fahren Sie zum idyllischen Pressegger See für eine ausgiebige Mittagspause. Am Nachmittag erleben Sie alpine Höhenluft: Der Millennium-Express bringt Sie aufs Nassfeld mit seinen atemberaubenden Panoramen. Ein kurzer Blick in die beeindruckende Garnitzenklamm rundet auf dem Rückweg einen abwechslungsreichen Tag ab.",
+        "hu": "A nap Hermagor történelmi központjában kezdődik. Az első klaszter felfedezése után az idilli Pressegger-tóhoz utazik egy kiadós ebédszünetre. Délután alpesi magasságokat tapasztalhat meg: a Millennium-Express felviszi Nassfeldre, ahonnan lélegzetelállító panoráma nyílik. Visszafelé egy rövid pillantás a lenyűgöző Garnitzenklamm szurdokba zárja a változatos napot.",
+        "ro": "Ziua începe în centrul istoric al orașului Hermagor. După explorarea primului cluster, conduceți spre idilicul Lac Pressegger pentru o pauză de prânz prelungită. După-amiaza, experimentați altitudinile alpine: Millennium-Express vă duce la Nassfeld cu panoramele sale uluitoare. O privire scurtă la impresionantele Chei Garnitzen pe drumul de întoarcere încheie o zi variată.",
+        "en": "The day begins in the historic center of Hermagor. After exploring the first cluster, you drive to the idyllic Lake Pressegger for an extended lunch break. In the afternoon, you'll experience alpine heights: the Millennium-Express takes you up to Nassfeld with its breathtaking panoramas. A brief look into the impressive Garnitzenklamm gorge on the way back rounds off a varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Almrauschhütte auf dem Nassfeld",
+            "tip": "Genießen Sie eine herzhafte Brettljause mit Panoramablick."
+          },
+          {
+            "name": "Seerestaurant am Pressegger See",
+            "tip": "Fischspezialitäten direkt vom See."
+          },
+          {
+            "name": "Kärntner Reindling",
+            "tip": "Ein süßer Hefekuchen mit Zimt und Rosinen, ideal zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Almrauschhütte Nassfelden",
+            "tip": "Élvezzen egy kiadós uzsonnát panorámás kilátással."
+          },
+          {
+            "name": "Tóparti étterem a Pressegger-tónál",
+            "tip": "Halkülönlegességek közvetlenül a tóból."
+          },
+          {
+            "name": "Karintiai „Reindling”",
+            "tip": "Édes kelt tészta fahéjjal és mazsolával, ideális kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabana Almrausch de pe Nassfeld",
+            "tip": "Bucurați-vă de o gustare consistentă cu o priveliște panoramică."
+          },
+          {
+            "name": "Restaurantul de pe malul lacului Pressegger",
+            "tip": "Specialități din pește direct din lac."
+          },
+          {
+            "name": "Prăjitura Reindling din Carintia",
+            "tip": "O prăjitură dulce cu drojdie, scorțișoară și stafide, ideală cu cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almrauschhütte on Nassfeld",
+            "tip": "Enjoy a hearty snack platter with a panoramic view."
+          },
+          {
+            "name": "Lakeside restaurant at Pressegger See",
+            "tip": "Fish specialties straight from the lake."
+          },
+          {
+            "name": "Carinthian Reindling",
+            "tip": "A sweet yeast cake with cinnamon and raisins, ideal with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Nassfelds",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege und genießen Sie die Stille der Berge.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Ostufer des Pressegger Sees",
+            "tip": "Weniger frequentiert und ideal für ruhige Momente.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldwege um die Burgruine Malenthein",
+            "tip": "Spazieren Sie durch den kühlen Wald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nassfeld csúcsa",
+            "tip": "Keressen egy csendes helyet a főutaktól távol, és élvezze a hegyek csendjét.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "A Pressegger-tó keleti partja",
+            "tip": "Kevésbé látogatott és ideális a csendes pillanatokhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei ösvények a Malenthein várrom körül",
+            "tip": "Sétáljon a hűvös erdőben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Nassfeld",
+            "tip": "Găsiți un loc liniștit departe de potecile principale și bucurați-vă de tăcerea munților.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Malul de est al Lacului Pressegger",
+            "tip": "Mai puțin aglomerat și ideal pentru momente de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecile din pădurea din jurul ruinelor castelului Malenthein",
+            "tip": "Plimbați-vă prin pădurea răcoroasă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Nassfeld",
+            "tip": "Find a quiet spot away from the main paths and enjoy the silence of the mountains.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "East shore of Lake Pressegger",
+            "tip": "Less frequented and ideal for quiet moments.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest paths around Malenthein Castle Ruins",
+            "tip": "Take a walk through the cool forest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nassfeld Shop",
+            "tip": "Souvenirs und Sportbekleidung direkt am Berg."
+          },
+          {
+            "name": "Gailtaler Speck-Laden",
+            "tip": "Kaufen Sie den berühmten Speck als Mitbringsel."
+          },
+          {
+            "name": "Schnapsbrennerei",
+            "tip": "Probieren und kaufen Sie lokale Obstbrände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nassfeld üzlet",
+            "tip": "Ajándéktárgyak és sportruházat közvetlenül a hegyen."
+          },
+          {
+            "name": "Gail-völgyi szalonna bolt",
+            "tip": "Vásárolja meg a híres szalonnát ajándékba."
+          },
+          {
+            "name": "Pálinkafőzde",
+            "tip": "Kóstoljon és vásároljon helyi gyümölcspálinkákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Nassfeld",
+            "tip": "Suveniruri și îmbrăcăminte sportivă direct pe munte."
+          },
+          {
+            "name": "Magazin de șuncă din Gailtal",
+            "tip": "Cumpărați faimoasa șuncă ca suvenir."
+          },
+          {
+            "name": "Distilerie de rachiu",
+            "tip": "Degustați și cumpărați rachiuri locale din fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nassfeld Shop",
+            "tip": "Souvenirs and sportswear right on the mountain."
+          },
+          {
+            "name": "Gailtal Bacon Shop",
+            "tip": "Buy the famous bacon as a souvenir."
+          },
+          {
+            "name": "Schnapps Distillery",
+            "tip": "Taste and buy local fruit brandies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Betriebszeiten des Millennium-Express, besonders in der Nebensaison.",
+          "An sonnigen Tagen kann der Parkplatz am See voll werden; kommen Sie früh.",
+          "Nehmen Sie sowohl Wander- als auch Badesachen mit."
+        ],
+        "hu": [
+          "Ellenőrizze a Millennium-Express nyitvatartási idejét, különösen a mellékszezonban.",
+          "Napsütéses napokon a tóparti parkoló megtelhet; érkezzen korán.",
+          "Vigyen magával túra- és fürdőfelszerelést is."
+        ],
+        "ro": [
+          "Verificați programul de funcționare al Millennium-Express, mai ales în extrasezon.",
+          "În zilele însorite, parcarea de la lac poate fi plină; veniți devreme.",
+          "Luați cu dvs. atât echipament de drumeție, cât și de înot."
+        ],
+        "en": [
+          "Check the operating times of the Millennium-Express, especially in the off-season.",
+          "On sunny days, the parking lot at the lake can get full; arrive early.",
+          "Bring both hiking gear and swimwear."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Hermagor & Kirche",
+            "hu": "Hermagor városközpont és templom",
+            "ro": "Centrul orașului Hermagor și Biserica",
+            "en": "Hermagor Town Center & Church"
+          },
+          "coords": [
+            13.3681,
+            46.6275
+          ],
+          "category": "cluster",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Busbahnhof und gehen Sie zur nahegelegenen Kirche.",
+            "hu": "Induljon a buszpályaudvarról, és sétáljon el a közeli templomhoz.",
+            "ro": "Porniți de la autogară și mergeți pe jos până la biserica din apropiere.",
+            "en": "Start at the bus station and walk to the nearby church."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Pressegger See",
+            "hu": "Buszozás a Pressegger-tóhoz",
+            "ro": "Călătorie cu autobuzul la Lacul Pressegger",
+            "en": "Bus ride to Lake Pressegger"
+          },
+          "coords": [
+            13.483,
+            46.618
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Die Busse fahren regelmäßig vom Busbahnhof Hermagor.",
+            "hu": "A buszok rendszeresen indulnak a hermagori buszpályaudvarról.",
+            "ro": "Autobuzele pleacă regulat de la autogara Hermagor.",
+            "en": "Buses run regularly from Hermagor bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang am See",
+            "hu": "Ebéd és séta a tónál",
+            "ro": "Prânz și plimbare pe malul lacului",
+            "en": "Lunch and walk by the lake"
+          },
+          "coords": [
+            13.486,
+            46.62
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Seerundweg, bevor Sie sich für ein Restaurant entscheiden.",
+            "hu": "Fedezze fel a tó körüli sétányt, mielőtt éttermet választana.",
+            "ro": "Explorați poteca de pe malul lacului înainte de a alege un restaurant.",
+            "en": "Explore the lakeside path before choosing a restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Garnitzenklamm",
+            "hu": "Buszozás a Garnitzenklammhoz",
+            "ro": "Călătorie cu autobuzul la Cheile Garnitzen",
+            "en": "Bus ride to Garnitzenklamm"
+          },
+          "coords": [
+            13.342,
+            46.6
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Der Bus hält in der Nähe des Eingangs zur Klamm.",
+            "hu": "A busz a szurdok bejáratának közelében áll meg.",
+            "ro": "Autobuzul oprește lângă intrarea în chei.",
+            "en": "The bus stops near the entrance to the gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Hermagor",
+            "hu": "Visszautazás Hermagorba",
+            "ro": "Întoarcere la Hermagor",
+            "en": "Return trip to Hermagor"
+          },
+          "coords": [
+            13.367,
+            46.626
+          ],
+          "category": "service",
+          "arrive_at": "17:40",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Planen Sie die letzte Busfahrt des Tages sorgfältig.",
+            "hu": "Gondosan tervezze meg a nap utolsó buszútját.",
+            "ro": "Planificați cu atenție ultima călătorie cu autobuzul a zilei.",
+            "en": "Plan the last bus ride of the day carefully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus erkunden Sie bequem die Highlights der Region. Starten Sie im Zentrum von Hermagor und nehmen Sie dann den Bus zum Pressegger See. Genießen Sie dort den Vormittag und ein Mittagessen am Wasser. Am Nachmittag bringt Sie der Bus zur beeindruckenden Garnitzenklamm, wo Sie eine kurze Wanderung unternehmen können, bevor Sie am späten Nachmittag nach Hermagor zurückkehren.",
+        "hu": "A helyi busszal kényelmesen felfedezheti a régió legfontosabb látnivalóit. Induljon Hermagor központjából, majd szálljon buszra a Pressegger-tóhoz. Élvezze a délelőttöt és egy ebédet a vízparton. Délután a busz elviszi a lenyűgöző Garnitzenklamm szurdokhoz, ahol egy rövid túrát tehet, mielőtt késő délután visszatérne Hermagorba.",
+        "ro": "Cu autobuzul public, puteți explora convenabil atracțiile de top ale regiunii. Porniți din centrul orașului Hermagor, apoi luați autobuzul spre Lacul Pressegger. Bucurați-vă de dimineață și de un prânz la malul apei. După-amiaza, autobuzul vă va duce la impresionantele Chei Garnitzen, unde puteți face o scurtă drumeție înainte de a vă întoarce la Hermagor după-amiaza târziu.",
+        "en": "Using the public bus, you can comfortably explore the region's top highlights. Start in the center of Hermagor, then take the bus to Lake Pressegger. Enjoy the morning and a waterside lunch there. In the afternoon, the bus will take you to the impressive Garnitzenklamm gorge, where you can take a short hike before returning to Hermagor in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buschenschank",
+            "tip": "Probieren Sie eine Jause mit regionalen Produkten bei einer Einkehr entlang der Busroute."
+          },
+          {
+            "name": "Gailtaler Holzknechtfrigga",
+            "tip": "Ein deftiges Pfannengericht, das Energie für den ganzen Tag gibt."
+          },
+          {
+            "name": "Eisdiele in Hermagor",
+            "tip": "Belohnen Sie sich nach der Rückkehr mit einem handgemachten Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buschenschank (borozó)",
+            "tip": "Kóstoljon meg egy uzsonnát regionális termékekkel egy megállóban a buszút mentén."
+          },
+          {
+            "name": "Gail-völgyi favágó frigga",
+            "tip": "Kiadós serpenyős étel, amely egész napra energiát ad."
+          },
+          {
+            "name": "Fagylaltozó Hermagorban",
+            "tip": "Jutalmazza meg magát egy kézműves fagylalttal a visszaérkezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buschenschank (tavernă)",
+            "tip": "Încercați o gustare cu produse regionale la o oprire de-a lungul traseului autobuzului."
+          },
+          {
+            "name": "Frigga pădurarului din Gailtal",
+            "tip": "Un fel de mâncare consistent la tigaie care vă dă energie pentru toată ziua."
+          },
+          {
+            "name": "Gelaterie în Hermagor",
+            "tip": "Recompensați-vă cu o înghețată artizanală la întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buschenschank (wine tavern)",
+            "tip": "Try a snack with regional products at a stop along the bus route."
+          },
+          {
+            "name": "Gailtal lumberjack's frigga",
+            "tip": "A hearty pan-fried dish that gives you energy for the whole day."
+          },
+          {
+            "name": "Ice cream parlor in Hermagor",
+            "tip": "Reward yourself with a handmade ice cream upon your return."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durchs Gailtal",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster und lassen Sie die Landschaft an sich vorbeiziehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wanderweg in der Garnitzenklamm",
+            "tip": "Das Rauschen des Wassers hat eine beruhigende Wirkung.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Kirchplatz in Hermagor",
+            "tip": "Setzen Sie sich auf eine Bank und beobachten Sie das ruhige Treiben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a Gail-völgyön keresztül",
+            "tip": "Élvezze a kilátást az ablakból, és hagyja, hogy a táj elsuhanjon Ön mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Túraútvonal a Garnitzenklammban",
+            "tip": "A víz zúgása nyugtató hatású.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Templom tér Hermagorban",
+            "tip": "Üljön le egy padra, és figyelje a csendes nyüzsgést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin Valea Gail",
+            "tip": "Bucurați-vă de priveliștea de la fereastră și lăsați peisajul să treacă pe lângă dumneavoastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de drumeție în Cheile Garnitzen",
+            "tip": "Sunetul apei are un efect calmant.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Piața bisericii din Hermagor",
+            "tip": "Așezați-vă pe o bancă și priviți agitația liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the Gailtal",
+            "tip": "Enjoy the view from the window and let the scenery pass you by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hiking trail in the Garnitzenklamm",
+            "tip": "The sound of the water has a calming effect.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Church square in Hermagor",
+            "tip": "Sit on a bench and watch the quiet hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Busbahnhof",
+            "tip": "Kaufen Sie Proviant für den Tag."
+          },
+          {
+            "name": "Souvenirshop am Pressegger See",
+            "tip": "Finden Sie kleine Andenken an Ihren Ausflug."
+          },
+          {
+            "name": "Bäckerei in Hermagor",
+            "tip": "Probieren Sie lokales Gebäck vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a buszpályaudvaron",
+            "tip": "Vásároljon elemózsiát a napra."
+          },
+          {
+            "name": "Ajándékbolt a Pressegger-tónál",
+            "tip": "Találjon apró emléktárgyakat a kirándulásáról."
+          },
+          {
+            "name": "Pékség Hermagorban",
+            "tip": "Kóstoljon helyi péksüteményeket indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la autogară",
+            "tip": "Cumpărați provizii pentru o zi."
+          },
+          {
+            "name": "Magazin de suveniruri la Lacul Pressegger",
+            "tip": "Găsiți mici amintiri din excursia dumneavoastră."
+          },
+          {
+            "name": "Brutărie în Hermagor",
+            "tip": "Încercați produsele de patiserie locale înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket at the bus station",
+            "tip": "Buy provisions for the day."
+          },
+          {
+            "name": "Souvenir shop at Lake Pressegger",
+            "tip": "Find small mementos of your trip."
+          },
+          {
+            "name": "Bakery in Hermagor",
+            "tip": "Try local pastries before you leave."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Prüfen Sie den Busfahrplan online im Voraus, besonders für die letzte Rückfahrt.",
+          "Seien Sie pünktlich an der Haltestelle, die Busse in ländlichen Gebieten warten nicht."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet online, különösen az utolsó visszaút esetében.",
+          "Legyen pontosan a megállóban, a buszok a vidéki területeken nem várnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor online în avans, mai ales pentru ultima călătorie de întoarcere.",
+          "Fiți la timp în stație, autobuzele din zonele rurale nu așteaptă."
+        ],
+        "en": [
+          "Buy a day ticket for the bus to save money.",
+          "Check the bus schedule online in advance, especially for the last return trip.",
+          "Be at the bus stop on time, buses in rural areas do not wait."
+        ]
+      }
+    }
+  }
+}

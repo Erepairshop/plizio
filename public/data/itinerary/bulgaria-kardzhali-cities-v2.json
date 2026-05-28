@@ -1,0 +1,1212 @@
+{
+  "city_id": "bulgaria-kardzhali-cities-v2",
+  "anchor": {
+    "name": "Kardschali",
+    "coords": [
+      25.3667,
+      41.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városi park",
+            "ro": "Parcul orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            25.3715,
+            41.6441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang entlang der Arda.",
+            "hu": "Kezdje a napot egy pihentető sétával az Arda folyó partján.",
+            "ro": "Începeți ziua cu o plimbare relaxantă de-a lungul râului Arda.",
+            "en": "Start your day with a relaxing stroll along the Arda River."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie 'Stanka Dimitrova'",
+            "hu": "'Sztanka Dimitrova' Művészeti Galéria",
+            "ro": "Galeria de Artă 'Stanka Dimitrova'",
+            "en": "Art Gallery 'Stanka Dimitrova'"
+          },
+          "coords": [
+            25.3742,
+            41.6485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke lokaler Künstler aus den Rhodopen.",
+            "hu": "Fókuszáljon a rodopei helyi művészek alkotásaira.",
+            "ro": "Concentrați-vă pe lucrările artiștilor locali din Munții Rodopi.",
+            "en": "Focus on the works of local artists from the Rhodope Mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            25.3791,
+            41.6512
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die archäologischen Funde aus Perperikon.",
+            "hu": "Ne hagyja ki a perperikoni régészeti leleteket.",
+            "ro": "Nu ratați descoperirile arheologice de la Perperikon.",
+            "en": "Don't miss the archaeological finds from Perperikon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            25.3855,
+            41.6499
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur, eine der ältesten Kirchen der Region.",
+            "hu": "Csodálja meg a középkori építészetet, a régió egyik legrégebbi templomát.",
+            "ro": "Admirați arhitectura medievală, una dintre cele mai vechi biserici din regiune.",
+            "en": "Admire the medieval architecture, one of the oldest churches in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            25.376,
+            41.647
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie 'Patatnik', einen traditionellen Kartoffelauflauf aus den Rhodopen.",
+            "hu": "Kóstolja meg a 'Patatnik'-ot, egy hagyományos rodopei burgonyás ételt.",
+            "ro": "Încercați 'Patatnik', o plăcintâ tradițională cu cartofi din Rodopi.",
+            "en": "Try 'Patatnik', a traditional Rhodopean potato bake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kardschali beginnt mit einem ruhigen Morgenspaziergang im Stadtpark, bevor Sie in die lokale Kultur in der Kunstgalerie eintauchen. Am Mittag erkunden Sie die reiche Geschichte der Region im beeindruckenden Historischen Museum, das in einem prächtigen Gebäude untergebracht ist. Der Nachmittag ist der spirituellen Einkehr in der mittelalterlichen Kirche St. Johannes gewidmet, einem architektonischen Juwel. Zum Abschluss genießen Sie die authentische rhodopische Küche in einem traditionellen Restaurant im Herzen der Stadt.",
+        "hu": "Kardzsali napja egy csendes reggeli sétával kezdődik a Városi parkban, mielőtt elmerülne a helyi kultúrában a Művészeti Galériában. Délben a régió gazdag történelmét fedezi fel a lenyűgöző Történeti Múzeumban, amely egy csodálatos épületben kapott helyet. A délután a spirituális elmélyülésé a középkori Keresztelő Szent János templomban, egy építészeti gyöngyszemben. A napot egy autentikus rodopei konyhát kínáló, hagyományos étteremben zárja a város szívében.",
+        "ro": "Ziua dvs. în Kardzhali începe cu o plimbare liniștită de dimineață în Parcul Orașului, înainte de a vă cufunda în cultura locală la Galeria de Artă. La amiază, explorați istoria bogată a regiunii la impresionantul Muzeu de Istorie, găzduit într-o clădire magnifică. După-amiaza este dedicată reflecției spirituale la biserica medievală Sf. Ioan, o bijuterie arhitecturală. Încheiați ziua savurând bucătăria autentică din Rodopi la un restaurant tradițional din inima orașului.",
+        "en": "Your day in Kardzhali begins with a quiet morning stroll in the City Park before immersing yourself in local culture at the Art Gallery. At midday, you'll explore the region's rich history at the impressive Historical Museum, housed in a magnificent building. The afternoon is for spiritual reflection at the medieval Church of St. John, an architectural gem. You'll conclude your day by savoring authentic Rhodopean cuisine at a traditional restaurant in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Friends",
+            "tip": "Bekannt für seine traditionelle bulgarische Küche und gemütliche Atmosphäre."
+          },
+          {
+            "name": "Mehana 'Starata Kashta'",
+            "tip": "Probieren Sie den Patatnik (Kartoffelauflauf) oder Cheverme (gegrilltes Lamm)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friends Étterem",
+            "tip": "Hagyományos bolgár konyhájáról és hangulatos légköréről ismert."
+          },
+          {
+            "name": "Mehana 'Sztarata Kasta'",
+            "tip": "Kóstolja meg a patatnikot (burgonyás rakottas) vagy a csevermét (grillezett bárány)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Friends",
+            "tip": "Renumit pentru bucătăria tradițională bulgară și atmosfera sa primitoare."
+          },
+          {
+            "name": "Mehana 'Starata Kashta'",
+            "tip": "Încercați Patatnik (plăcintă cu cartofi) sau Cheverme (miel la proțap)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Friends",
+            "tip": "Known for its traditional Bulgarian cuisine and cozy atmosphere."
+          },
+          {
+            "name": "Mehana 'Starata Kashta'",
+            "tip": "Try the Patatnik (potato bake) or Cheverme (grilled lamb)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Kardschali-Stausees",
+            "tip": "Finden Sie eine ruhige Bank am Rande der Stadt mit Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel nahe der Kirche St. Johannes",
+            "tip": "Ein kurzer Spaziergang bergauf bietet eine friedliche Aussicht über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kardzsali-víztározó partja",
+            "tip": "Keressen egy csendes padot a város szélén, kilátással a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Keresztelő Szent János templom melletti domb",
+            "tip": "Egy rövid séta felfelé békés kilátást nyújt a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului de acumulare Kardzhali",
+            "tip": "Găsiți o bancă liniștită la marginea orașului cu vedere la apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul de lângă Biserica Sf. Ioan",
+            "tip": "O scurtă plimbare în sus pe deal oferă o priveliște pașnică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Kardzhali Reservoir",
+            "tip": "Find a quiet bench on the edge of the city overlooking the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill near St. John's Church",
+            "tip": "A short walk uphill offers a peaceful view over the town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokalen Honig, Kräuter und handgemachten bulgarischen Käse (Sirene)."
+          },
+          {
+            "name": "Souvenirläden nahe dem Museum",
+            "tip": "Finden Sie Repliken thrakischer Artefakte und Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac",
+            "tip": "Vásároljon helyi mézet, gyógynövényeket és kézzel készített bolgár sajtot (szirene)."
+          },
+          {
+            "name": "Ajándékboltok a múzeum közelében",
+            "tip": "Találjon trák műtárgymásolatokat és kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați miere locală, ierburi și brânză bulgărească artizanală (Sirene)."
+          },
+          {
+            "name": "Magazine de suveniruri lângă muzeu",
+            "tip": "Găsiți replici ale artefactelor trace și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local honey, herbs, and handmade Bulgarian cheese (Sirene)."
+          },
+          {
+            "name": "Souvenir shops near the museum",
+            "tip": "Find replicas of Thracian artifacts and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber nehmen Sie Wasser mit, besonders im Sommer.",
+          "Planen Sie genügend Zeit für das Historische Museum ein; es ist größer als es scheint."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "A legtöbb látnivaló gyalogosan elérhető, de vigyen magával vizet, különösen nyáron.",
+          "Szánjon elegendő időt a Történeti Múzeumra; nagyobb, mint amilyennek látszik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului poate fi deluros.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, dar luați apă cu dvs., mai ales vara.",
+          "Alocați suficient timp pentru Muzeul de Istorie; este mai mare decât pare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center can be hilly.",
+          "Most sights are within walking distance, but carry water, especially in summer.",
+          "Plan enough time for the Historical Museum; it's larger than it appears."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Regionales Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            25.3791,
+            41.6512
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie die umfangreichen Ausstellungen erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a kiterjedt kiállításokat.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a explora expozițiile vaste.",
+            "en": "Park your bike securely before exploring the extensive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Johannes der Täufer",
+            "hu": "Keresztelő Szent János templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint John the Baptist"
+          },
+          "coords": [
+            25.3855,
+            41.6499
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Museum entfernt, genießen Sie die Ruhe dieses historischen Ortes.",
+            "hu": "Egy rövid biciklizésre a múzeumtól, élvezze e történelmi hely csendjét.",
+            "ro": "La o scurtă plimbare cu bicicleta de muzeu, bucurați-vă de liniștea acestui loc istoric.",
+            "en": "A short bike ride from the museum, enjoy the tranquility of this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kardschali-Stausee",
+            "hu": "Kerékpározás a Kardzsali-víztározóhoz",
+            "ro": "Plimbare cu bicicleta la Lacul Kardzhali",
+            "en": "Ride to the Kardzhali Reservoir"
+          },
+          "coords": [
+            25.405,
+            41.63
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Route und die Aussicht auf das Wasser. Ideal für ein Picknick.",
+            "hu": "Élvezze a festői útvonalat és a vízre nyíló kilátást. Ideális egy piknikhez.",
+            "ro": "Bucurați-vă de traseul pitoresc și de vederea spre apă. Ideal pentru un picnic.",
+            "en": "Enjoy the scenic route and the views of the water. Great for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie 'Stanka Dimitrova'",
+            "hu": "'Sztanka Dimitrova' Művészeti Galéria",
+            "ro": "Galeria de Artă 'Stanka Dimitrova'",
+            "en": "Art Gallery 'Stanka Dimitrova'"
+          },
+          "coords": [
+            25.3742,
+            41.6485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie nach der Rückkehr in die Stadt die bulgarische Kunst.",
+            "hu": "Miután visszatért a városba, fedezze fel a bolgár művészetet.",
+            "ro": "Explorați arta bulgară la întoarcerea în oraș.",
+            "en": "Explore Bulgarian art upon your return to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung im Stadtpark",
+            "hu": "Pihenés a Városi parkban",
+            "ro": "Relaxare în Parcul Orașului",
+            "en": "Relaxation in the City Park"
+          },
+          "coords": [
+            25.3715,
+            41.6441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour dort, wo der Tag für die Wanderer begann.",
+            "hu": "Fejezze be a kerékpártúrát ott, ahol a gyalogosok napja kezdődött.",
+            "ro": "Încheiați turul cu bicicleta acolo unde a început ziua pentru pietoni.",
+            "en": "End your bike tour where the walkers' day began."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag mit einem tiefen Einblick in die Geschichte im Regionalen Museum. Eine kurze Fahrt führt Sie zur ruhigen mittelalterlichen Kirche. Am Mittag unternehmen Sie eine landschaftlich reizvolle Radtour zum Kardschali-Stausee, perfekt für eine Pause am Wasser. Auf dem Rückweg tauchen Sie in der Kunstgalerie in die Kreativität der Region ein. Schließen Sie den Tag mit einer entspannten Fahrt durch den Stadtpark ab und genießen Sie die grüne Lunge der Stadt.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a történelem mélyére merülve a Regionális Múzeumban. Egy rövid tekerés elvezeti a csendes középkori templomhoz. Délben egy festői biciklitúrát tesz a Kardzsali-víztározóhoz, amely tökéletes egy vízparti pihenőhöz. Visszafelé elmerülhet a régió kreativitásában a Művészeti Galériában. A napot egy pihentető tekeréssel zárja a Városi parkon keresztül, élvezve a város zöld tüdejét.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o incursiune adâncă în istorie la Muzeul Regional. O scurtă pedalare vă duce la biserica medievală liniștită. La amiază, faceți o plimbare pitorească cu bicicleta la Lacul Kardzhali, perfectă pentru o pauză lângă apă. La întoarcere, cufundați-vă în creativitatea regiunii la Galeria de Artă. Încheiați ziua cu o plimbare relaxantă prin Parcul Orașului, bucurându-vă de plămânul verde al orașului.",
+        "en": "Hop on your bike and start the day with a deep dive into history at the Regional Museum. A short ride takes you to the tranquil medieval church. At midday, take a scenic cycle to the Kardzhali Reservoir, perfect for a break by the water. On your way back, immerse yourself in the region's creativity at the Art Gallery. End your day with a relaxing ride through the City Park, enjoying the city's green lung."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Stausee",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf das Wasser."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Ein schneller Kaffee und ein Banitsa (Blätterteiggebäck), um neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a víztározónál",
+            "tip": "Élvezze a friss halat a vízre néző kilátással."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "Egy gyors kávé és egy banica (leveles tészta), hogy feltöltődjön energiával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului",
+            "tip": "Savurați pește proaspăt cu vedere la apă."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "O cafea rapidă și o banitsa (plăcintă cu foi) pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant by the Reservoir",
+            "tip": "Enjoy fresh fish with a view of the water."
+          },
+          {
+            "name": "Kafeneio",
+            "tip": "A quick coffee and a banitsa (phyllo pastry) to refuel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Buchten am Stausee",
+            "tip": "Radfahren Sie ein Stück weiter entlang des Ufers, um einen abgelegenen Platz zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinterhof der Kunstgalerie",
+            "tip": "Ein oft übersehener, ruhiger Ort zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett öblök a víztározónál",
+            "tip": "Tekerjen kicsit tovább a part mentén, hogy egy eldugott helyet találjon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Művészeti Galéria hátsó udvara",
+            "tip": "Egy gyakran figyelmen kívül hagyott, csendes hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golfuri ascunse la lacul de acumulare",
+            "tip": "Pedalați puțin mai departe de-a lungul malului pentru a găsi un loc retras.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea din spate a Galeriei de Artă",
+            "tip": "Un loc liniștit, adesea trecut cu vederea, pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden coves at the reservoir",
+            "tip": "Cycle a little further along the shore to find a secluded spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Backyard of the Art Gallery",
+            "tip": "An often overlooked, quiet place to rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen im Zentrum",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Kaufen Sie handgemachte Souvenirs als Andenken an Ihre Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a központban",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Vásároljon kézzel készített ajándéktárgyakat a biciklitúra emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în centru",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Cumpărați suveniruri lucrate manual ca amintire a turului dvs. cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop in the center",
+            "tip": "In case you need any accessories or a quick repair."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Buy handmade souvenirs as a memento of your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand der Radwege, besonders außerhalb des Stadtzentrums.",
+          "Ein Helm wird empfohlen, insbesondere für die Fahrt zum Stausee.",
+          "Schließen Sie Ihr Fahrrad an allen Haltestellen sicher ab."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárutak állapotát, különösen a városközponton kívül.",
+          "Sisak viselése ajánlott, főleg a víztározóhoz vezető úton.",
+          "Minden megállónál gondosan zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Verificați starea pistelor de biciclete, mai ales în afara centrului orașului.",
+          "Se recomandă cască, în special pentru drumul spre lacul de acumulare.",
+          "Asigurați-vă bicicleta corespunzător la toate opririle."
+        ],
+        "en": [
+          "Check the condition of the bike paths, especially outside the city center.",
+          "A helmet is recommended, particularly for the ride to the reservoir.",
+          "Securely lock your bike at all stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Perperikon",
+            "hu": "Perperikon",
+            "ro": "Perperikon",
+            "en": "Perperikon"
+          },
+          "coords": [
+            25.467,
+            41.717
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk; das Gelände der antiken thrakischen Stadt ist weitläufig und uneben.",
+            "hu": "Viseljen erős cipőt; az ókori trák város területe kiterjedt és egyenetlen.",
+            "ro": "Purtați încălțăminte rezistentă; situl antic trac este vast și denivelat.",
+            "en": "Wear sturdy shoes; the terrain of the ancient Thracian city is vast and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Pilze",
+            "hu": "Kőgombák",
+            "ro": "Ciupercile de Piatră",
+            "en": "The Stone Mushrooms"
+          },
+          "coords": [
+            25.438,
+            41.713
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein einzigartiges Fotomotiv. Am besten bei Morgen- oder Abendlicht.",
+            "hu": "Egy gyors megálló egy egyedi fotó kedvéért. A legjobb reggeli vagy esti fényben.",
+            "ro": "O oprire scurtă pentru o fotografie unică. Cel mai bun moment este la lumina dimineții sau a serii.",
+            "en": "A quick stop for a unique photo opportunity. Best in the morning or evening light."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinerne Hochzeit",
+            "hu": "Kőesküvő",
+            "ro": "Nunta de Piatră",
+            "en": "The Stone Wedding"
+          },
+          "coords": [
+            25.421,
+            41.666
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz führt Sie zu diesen faszinierenden Felsformationen.",
+            "hu": "Egy rövid séta a parkolóból vezet ezekhez a lenyűgöző sziklaalakzatokhoz.",
+            "ro": "O scurtă plimbare de la parcare vă duce la aceste formațiuni stâncoase fascinante.",
+            "en": "A short walk from the parking area leads you to these fascinating rock formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Kardschali",
+            "hu": "Ebéd Kardzsaliban",
+            "ro": "Prânz în Kardzhali",
+            "en": "Lunch in Kardzhali"
+          },
+          "coords": [
+            25.378,
+            41.648
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und genießen Sie eine wohlverdiente Pause mit lokaler Küche.",
+            "hu": "Parkoljon le a központban, és élvezze a jól megérdemelt pihenőt a helyi konyhával.",
+            "ro": "Parcați în centru și bucurați-vă de o pauză binemeritată cu bucătărie locală.",
+            "en": "Park in the center and enjoy a well-deserved break with local cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Historisches Museum (Cluster)",
+            "hu": "Regionális Történeti Múzeum (Klaszter)",
+            "ro": "Muzeul Regional de Istorie (Cluster)",
+            "en": "Regional Historical Museum (Cluster)"
+          },
+          "coords": [
+            25.3791,
+            41.6512
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen tauchen Sie zu Fuß in die Geschichte der Stadt ein.",
+            "hu": "Ebéd után gyalogosan merüljön el a város történelmében.",
+            "ro": "După prânz, scufundați-vă în istoria orașului pe jos.",
+            "en": "After lunch, dive into the city's history on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf den Kardschali-Stausee",
+            "hu": "Kilátás a Kardzsali-víztározóra",
+            "ro": "Vedere spre Lacul Kardzhali",
+            "en": "View of the Kardzhali Reservoir"
+          },
+          "coords": [
+            25.39,
+            41.635
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Panoramablick auf den Sonnenuntergang über dem Wasser.",
+            "hu": "Zárja a napot egy panorámás kilátással a naplementére a víz felett.",
+            "ro": "Încheiați ziua cu o vedere panoramică la apusul soarelui peste apă.",
+            "en": "End the day with a panoramic sunset view over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt in die Vergangenheit nach Perperikon, der majestätischen thrakischen Stadt. Verbringen Sie den Morgen damit, die alten Ruinen zu erkunden. Gegen Mittag fahren Sie zu den Naturwundern der Steinernen Pilze und der Steinernen Hochzeit, einzigartigen Felsformationen, die von der Natur geformt wurden. Am Nachmittag kehren Sie nach Kardschali zurück, um im Zentrum zu Mittag zu essen und das reichhaltige Historische Museum zu besuchen. Der Tag endet mit einer kurzen Fahrt zu einem Aussichtspunkt, um den atemberaubenden Sonnenuntergang über dem Kardschali-Stausee zu erleben.",
+        "hu": "A nap egy utazással kezdődik a múltba, Perperikonba, a fenséges trák városba. Töltse a délelőttöt az ősi romok felfedezésével. Dél körül autózzon el a Kőgombák és a Kőesküvő természeti csodáihoz, a természet által formált egyedi sziklaalakzatokhoz. Délután térjen vissza Kardzsaliba egy központi ebédre és a gazdag Történeti Múzeum meglátogatására. A nap egy rövid autózással zárul egy kilátóponthoz, hogy szemtanúja legyen a lélegzetelállító naplementének a Kardzsali-víztározó felett.",
+        "ro": "Ziua dvs. începe cu o călătorie înapoi în timp la Perperikon, majestuosul oraș trac. Petreceți dimineața explorând ruinele antice. Spre amiază, conduceți spre minunile naturale ale Ciupercilor de Piatră și ale Nunții de Piatră, formațiuni stâncoase unice sculptate de natură. După-amiaza vă întoarceți în Kardzhali pentru prânz în centru și o vizită la bogatul Muzeu de Istorie. Ziua se încheie cu o scurtă călătorie cu mașina la un punct de belvedere pentru a asista la apusul uimitor peste Lacul Kardzhali.",
+        "en": "Your day starts with a drive back in time to Perperikon, the majestic Thracian city. Spend the morning exploring the ancient ruins. Around noon, drive to the natural wonders of the Stone Mushrooms and the Stone Wedding, unique rock formations sculpted by nature. In the afternoon, return to Kardzhali for lunch in the center and a visit to the rich Historical Museum. The day concludes with a short drive to a viewpoint to witness the stunning sunset over the Kardzhali Reservoir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gorska Kashta",
+            "tip": "Ein ländliches Restaurant in der Nähe von Perperikon, ideal für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Hotel-Restaurant 'Kardjali'",
+            "tip": "Bietet eine Mischung aus bulgarischer und internationaler Küche im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gorska Kasta",
+            "tip": "Vidéki étterem Perperikon közelében, ideális egy autentikus ebédhez."
+          },
+          {
+            "name": "Hotel-Étterem 'Kardjali'",
+            "tip": "Bolgár és nemzetközi ételek keverékét kínálja a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gorska Kashta",
+            "tip": "Un restaurant rustic lângă Perperikon, ideal pentru un prânz autentic."
+          },
+          {
+            "name": "Hotel-Restaurant 'Kardjali'",
+            "tip": "Oferă un amestec de bucătărie bulgară și internațională în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorska Kashta",
+            "tip": "A rustic restaurant near Perperikon, ideal for an authentic lunch."
+          },
+          {
+            "name": "Hotel-Restaurant 'Kardjali'",
+            "tip": "Offers a mix of Bulgarian and international cuisine in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thrakischer Schrein bei Perperikon",
+            "tip": "Finden Sie einen ruhigen Moment der Besinnung inmitten der alten Steine.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Stausees bei Sonnenuntergang",
+            "tip": "Der perfekte Ort, um den Tag in Ruhe ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trák szentély Perperikonban",
+            "tip": "Találjon egy csendes pillanatot az elmélkedésre az ősi kövek között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A víztározó partja naplementekor",
+            "tip": "Tökéletes hely a nap békés befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanctuarul trac de la Perperikon",
+            "tip": "Găsiți un moment liniștit de reflecție printre pietrele antice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul lacului la apus",
+            "tip": "Locul perfect pentru a încheia ziua în pace.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thracian shrine at Perperikon",
+            "tip": "Find a quiet moment of reflection among the ancient stones.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reservoir shore at sunset",
+            "tip": "The perfect place to end the day in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verkäufer bei Perperikon",
+            "tip": "Kaufen Sie Bücher über thrakische Geschichte und handgefertigten Schmuck."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Rhodopen-Honig und Kräutertees."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árusok Perperikonban",
+            "tip": "Vásároljon könyveket a trák történelemről és kézzel készített ékszereket."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen rodopei mézet és gyógyteákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzătorii de la Perperikon",
+            "tip": "Cumpărați cărți despre istoria tracilor și bijuterii lucrate manual."
+          },
+          {
+            "name": "Piețele locale",
+            "tip": "Căutați miere din Rodopi și ceaiuri din plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vendors at Perperikon",
+            "tip": "Buy books on Thracian history and handmade jewelry."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Look for Rhodope honey and herbal teas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie früh los, um die Menschenmassen in Perperikon zu vermeiden.",
+          "Parken ist in der Nähe der Natursehenswürdigkeiten verfügbar, aber möglicherweise begrenzt.",
+          "Die Straßen zu den Sehenswürdigkeiten außerhalb der Stadt können eng sein; fahren Sie vorsichtig.",
+          "Kombinieren Sie die Besuche der Steinernen Pilze und der Steinernen Hochzeit, da sie relativ nahe beieinander liegen."
+        ],
+        "hu": [
+          "Induljon korán, hogy elkerülje a tömeget Perperikonban.",
+          "Parkolás elérhető a természeti látnivalók közelében, de korlátozott lehet.",
+          "A városon kívüli látnivalókhoz vezető utak szűkek lehetnek; vezessen óvatosan.",
+          "Kombinálja a Kőgombák és a Kőesküvő látogatását, mivel viszonylag közel vannak egymáshoz."
+        ],
+        "ro": [
+          "Porniți devreme pentru a evita aglomerația de la Perperikon.",
+          "Parcarea este disponibilă lângă atracțiile naturale, dar poate fi limitată.",
+          "Drumurile către obiectivele din afara orașului pot fi înguste; conduceți cu prudență.",
+          "Combinați vizitele la Ciupercile de Piatră și Nunta de Piatră, deoarece sunt relativ apropiate."
+        ],
+        "en": [
+          "Start early to avoid the crowds at Perperikon.",
+          "Parking is available near the natural sights but might be limited.",
+          "Roads to the sights outside the city can be narrow; drive carefully.",
+          "Combine the visits to the Stone Mushrooms and Stone Wedding as they are relatively close to each other."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum (Cluster A)",
+            "hu": "Utazás a városközpontba (A klaszter)",
+            "ro": "Călătorie spre centrul orașului (Cluster A)",
+            "en": "Trip to City Center (Cluster A)"
+          },
+          "coords": [
+            25.378,
+            41.648
+          ],
+          "category": "transit",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihren Erkundungstag zu beginnen.",
+            "hu": "Menjen busszal a központi térre, hogy elkezdje a felfedező napot.",
+            "ro": "Luați un autobuz până în piața centrală pentru a începe ziua de explorare.",
+            "en": "Take a bus to the central square to start your day of exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionales Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            25.3791,
+            41.6512
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a buszmegállótól.",
+            "ro": "Muzeul este la o scurtă plimbare de stația de autobuz.",
+            "en": "The museum is a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie 'Stanka Dimitrova'",
+            "hu": "'Sztanka Dimitrova' Művészeti Galéria",
+            "ro": "Galeria de Artă 'Stanka Dimitrova'",
+            "en": "Art Gallery 'Stanka Dimitrova'"
+          },
+          "coords": [
+            25.3742,
+            41.6485
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das Stadtzentrum zur nächsten kulturellen Attraktion.",
+            "hu": "Sétáljon át a városközponton a következő kulturális látnivalóhoz.",
+            "ro": "Plimbați-vă prin centrul orașului până la următoarea atracție culturală.",
+            "en": "Stroll through the city center to the next cultural attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kardschali-Stausee (Cluster B)",
+            "hu": "Utazás a Kardzsali-víztározóhoz (B klaszter)",
+            "ro": "Călătorie la Lacul Kardzhali (Cluster B)",
+            "en": "Trip to Kardzhali Reservoir (Cluster B)"
+          },
+          "coords": [
+            25.395,
+            41.632
+          ],
+          "category": "transit",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der zum Stausee fährt. Genießen Sie die Aussicht und ein Mittagessen am Wasser.",
+            "hu": "Menjen egy helyi busszal, amely a víztározóhoz megy. Élvezze a kilátást és egy ebédet a vízparton.",
+            "ro": "Luați un autobuz local care merge spre lac. Bucurați-vă de priveliște și de un prânz lângă apă.",
+            "en": "Take a local bus heading towards the reservoir. Enjoy the views and have lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Stadtpark",
+            "hu": "Séta a Városi parkban",
+            "ro": "Plimbare în Parcul Orașului",
+            "en": "Walk in the City Park"
+          },
+          "coords": [
+            25.3715,
+            41.6441
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und beenden Sie den Tag mit einem entspannenden Spaziergang.",
+            "hu": "Menjen busszal vissza a központba, és fejezze be a napot egy pihentető sétával.",
+            "ro": "Luați un autobuz înapoi în centru și încheiați ziua cu o plimbare relaxantă.",
+            "en": "Take a bus back to the center and finish the day with a relaxing walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Herz von Kardschali. Sie erkunden zu Fuß das historische Zentrum und besuchen das Museum und die Kunstgalerie. Gegen Mittag bringt Sie ein weiterer Bus zum malerischen Kardschali-Stausee, wo Sie die Natur genießen und zu Mittag essen können. Am Nachmittag fahren Sie mit dem Bus zurück in die Stadt, um den Tag mit einem gemütlichen Spaziergang durch den grünen Stadtpark ausklingen zu lassen, ein perfekter Abschluss für einen Tag voller Kultur und Natur.",
+        "hu": "A nap egy buszúttal kezdődik Kardzsali szívébe. Gyalogosan fedezi fel a történelmi központot, meglátogatja a múzeumot és a művészeti galériát. Dél körül egy másik busz elviszi a festői Kardzsali-víztározóhoz, ahol élvezheti a természetet és megebédelhet. Délután busszal tér vissza a városba, hogy a napot egy kellemes sétával zárja a zöld Városi parkban, tökéletes befejezése egy kultúrával és természettel teli napnak.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul în inima orașului Kardzhali. Explorați pe jos centrul istoric, vizitând muzeul și galeria de artă. Spre prânz, un alt autobuz vă duce la pitorescul Lac Kardzhali, unde vă puteți bucura de natură și puteți lua prânzul. După-amiaza, vă întoarceți cu autobuzul în oraș pentru a încheia ziua cu o plimbare agale prin Parcul Orașului, o încheiere perfectă a unei zile pline de cultură și natură.",
+        "en": "Your day starts with a bus ride into the heart of Kardzhali. You'll explore the historic center on foot, visiting the museum and art gallery. Around noon, another bus takes you to the scenic Kardzhali Reservoir, where you can enjoy nature and have lunch. In the afternoon, you'll bus back to the city to end your day with a leisurely stroll through the verdant City Park, a perfect conclusion to a day of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie eine Banitsa zum Frühstück, bevor Sie in den Bus steigen."
+          },
+          {
+            "name": "Restaurant 'Kukeri'",
+            "tip": "Ein guter Ort im Zentrum für ein herzhaftes bulgarisches Abendessen nach Ihrem Ausflug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstoljon meg egy banicát reggelire, mielőtt felszáll a buszra."
+          },
+          {
+            "name": "Kukeri Étterem",
+            "tip": "Jó hely a központban egy kiadós bolgár vacsorához a kirándulás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați o banitsa la micul dejun înainte de a urca în autobuz."
+          },
+          {
+            "name": "Restaurant 'Kukeri'",
+            "tip": "Un loc bun în centru pentru o cină bulgărească copioasă după excursia dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Try a banitsa for breakfast before you get on the bus."
+          },
+          {
+            "name": "Restaurant 'Kukeri'",
+            "tip": "A good spot in the center for a hearty Bulgarian dinner after your day out."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Ort am Stausee",
+            "tip": "Gehen Sie ein wenig vom Hauptbereich weg, um die Stille zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Bänke im Stadtpark",
+            "tip": "Bietet eine schöne Aussicht und mehr Ruhe als die Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes hely a víztározónál",
+            "tip": "Sétáljon kicsit távolabb a fő területtől, hogy élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felső padok a Városi parkban",
+            "tip": "Szép kilátást és több csendet kínál, mint a főbb utak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc liniștit la lacul de acumulare",
+            "tip": "Îndepărtați-vă puțin de zona principală pentru a vă bucura de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Băncile superioare din Parcul Orașului",
+            "tip": "Oferă o priveliște frumoasă și mai multă liniște decât aleile principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet spot by the reservoir",
+            "tip": "Walk a little away from the main area to enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper benches in the City Park",
+            "tip": "Offers a nice view and more quiet than the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Tickets und vielleicht einen kleinen Snack für die Fahrt."
+          },
+          {
+            "name": "Geschäfte entlang der Hauptstraße",
+            "tip": "Stöbern Sie nach Souvenirs, während Sie zwischen den Bushaltestellen spazieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon jegyeket és esetleg egy kis harapnivalót az útra."
+          },
+          {
+            "name": "Boltok a főutca mentén",
+            "tip": "Böngésszen ajándéktárgyak után, miközben a buszmegállók között sétál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați bilete și poate o mică gustare pentru drum."
+          },
+          {
+            "name": "Magazine de-a lungul străzii principale",
+            "tip": "Căutați suveniruri în timp ce vă plimbați între stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy tickets and maybe a small snack for the ride."
+          },
+          {
+            "name": "Shops along the main street",
+            "tip": "Browse for souvenirs while walking between bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt vom Stausee.",
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Beachten Sie, dass Busse zu den Natursehenswürdigkeiten wie Perperikon nicht fahren.",
+          "Halten Sie Kleingeld für Bustickets bereit."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszajáratot a víztározótól.",
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Vegye figyelembe, hogy buszok nem közlekednek olyan természeti látnivalókhoz, mint Perperikon.",
+          "Tartson magánál aprópénzt a buszjegyekhez."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă de întoarcere de la lac.",
+          "Cumpărați un bilet de o zi dacă este disponibil pentru a economisi bani.",
+          "Rețineți că autobuzele nu circulă către obiective naturale precum Perperikon.",
+          "Păstrați mărunțiș pentru biletele de autobuz."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last return trip from the reservoir.",
+          "Buy a day pass if available to save money.",
+          "Be aware that buses do not go to natural sites like Perperikon.",
+          "Keep small change handy for bus tickets."
+        ]
+      }
+    }
+  }
+}

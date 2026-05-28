@@ -1,0 +1,1420 @@
+{
+  "city_id": "switzerland-neuchatel-cities-v2",
+  "anchor": {
+    "name": "Neuenburg",
+    "coords": [
+      6.931,
+      46.991
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Halles",
+            "hu": "Place des Halles",
+            "ro": "Place des Halles",
+            "en": "Place des Halles"
+          },
+          "coords": [
+            6.9319,
+            46.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Markttreiben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a piaci nyüzsgést.",
+            "ro": "Începeți ziua aici cu o cafea, observând agitația pieței.",
+            "en": "Start your day here with a coffee and watch the market bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.9325,
+            46.9921
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur dieses eleganten Gebäudes.",
+            "hu": "Csodálja meg ennek az elegáns épületnek a neoklasszicista építészetét.",
+            "ro": "Admirați arhitectura neoclasică a acestei clădiri elegante.",
+            "en": "Admire the neoclassical architecture of this elegant building."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine de la Justice",
+            "hu": "Igazságosság-kútja",
+            "ro": "Fântâna Justiției",
+            "en": "Fountain of Justice"
+          },
+          "coords": [
+            6.9311,
+            46.9923
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:18",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine der berühmten Renaissance-Brunnenfiguren der Stadt, ein tolles Fotomotiv.",
+            "hu": "A város egyik híres reneszánsz kútfigurája, remek fotótéma.",
+            "ro": "Una dintre faimoasele fântâni renascentiste ale orașului, un subiect excelent pentru fotografii.",
+            "en": "One of the city's famous Renaissance fountains, a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatskirche & Schloss Neuenburg",
+            "hu": "Kollégiumi templom és Neuenburgi kastély",
+            "ro": "Biserica Colegială și Castelul Neuchâtel",
+            "en": "Collegiate Church & Neuchâtel Castle"
+          },
+          "coords": [
+            6.9298,
+            46.9928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:43",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Aussicht von der Schlossterrasse – sie ist atemberaubend.",
+            "hu": "Szánjon időt a kastély teraszáról nyíló kilátásra – lélegzetelállító.",
+            "ro": "Luați-vă timp pentru priveliștea de pe terasa castelului - este uluitoare.",
+            "en": "Take your time for the view from the castle terrace – it's breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'art et d'histoire",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            6.9345,
+            46.9935
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die berühmten Jaquet-Droz-Automaten. Die Vorführungen sind faszinierend.",
+            "hu": "Ne hagyja ki a híres Jaquet-Droz automatákat. Az előadások lenyűgözőek.",
+            "ro": "Nu ratați faimoasele automate Jaquet-Droz. Demonstrațiile sunt fascinante.",
+            "en": "Don't miss the famous Jaquet-Droz automata. The demonstrations are fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Laténium",
+            "hu": "Laténium",
+            "ro": "Laténium",
+            "en": "Laténium"
+          },
+          "coords": [
+            6.9688,
+            47.0053
+          ],
+          "category": "museums",
+          "arrive_at": "15:51",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Planen Sie auch einen Spaziergang durch den archäologischen Park am See ein.",
+            "hu": "Tervezzen egy sétát a tóparti régészeti parkban is.",
+            "ro": "Planificați și o plimbare prin parcul arheologic de pe malul lacului.",
+            "en": "Plan a walk through the archaeological park on the lakefront as well."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Neuenburg beginnt am lebhaften Place des Halles. Am Vormittag erkunden Sie die historische Altstadt, erklimmen den Hügel zur Kollegiatskirche und zum Schloss und genießen die herrliche Aussicht. Nach dem Mittagessen in einem der vielen Bistros tauchen Sie im Musée d'art et d'histoire in die lokale Kultur ein. Der Nachmittag führt Sie entlang des Seeufers zum faszinierenden Laténium, dem größten Archäologiemuseum der Schweiz. Lassen Sie den Abend bei einem Glas lokalen Weins ausklingen.",
+        "hu": "A nap Neuenburgban a nyüzsgő Place des Halles-on kezdődik. Délelőtt felfedezi a történelmi óvárost, megmássza a dombot a Kollégiumi templomhoz és a kastélyhoz, és gyönyörködik a csodálatos kilátásban. Ebéd után egy bisztróban elmerülhet a helyi kultúrában a Művészeti és Történeti Múzeumban. A délután a tóparton vezet a lenyűgöző Laténiumhoz, Svájc legnagyobb régészeti múzeumához. Zárja az estét egy pohár helyi borral.",
+        "ro": "Ziua dvs. în Neuchâtel începe în animata Place des Halles. Dimineața explorați orașul vechi istoric, urcați dealul până la Biserica Colegială și castel și bucurați-vă de priveliștea magnifică. După prânz la unul dintre numeroasele bistro-uri, vă scufundați în cultura locală la Muzeul de Artă și Istorie. După-amiaza vă poartă de-a lungul malului lacului până la fascinantul Laténium, cel mai mare muzeu arheologic din Elveția. Încheiați seara cu un pahar de vin local.",
+        "en": "Your day in Neuchâtel begins at the lively Place des Halles. In the morning, you'll explore the historic old town, climb the hill to the Collegiate Church and the castle, and enjoy the magnificent view. After lunch in one of the many bistros, immerse yourself in local culture at the Museum of Art and History. The afternoon takes you along the lake shore to the fascinating Laténium, Switzerland's largest archaeological museum. End the evening with a glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Eine lokale Wurstspezialität, oft mit Gemüse serviert."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Ein Klassiker, den man am besten in einem traditionellen Restaurant wie dem 'Le Jura' genießt."
+          },
+          {
+            "name": "Filets de perche",
+            "tip": "Zarte Barschfilets aus dem See, eine Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "Helyi kolbászkülönlegesség, gyakran zöldségekkel tálalva."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Klasszikus, amelyet a legjobb egy hagyományos étteremben, például a 'Le Jura'-ban elfogyasztani."
+          },
+          {
+            "name": "Sügérfilé",
+            "tip": "Tóból származó omlós sügérfilé, igazi csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "O specialitate locală de cârnați, adesea servită cu legume."
+          },
+          {
+            "name": "Fondue",
+            "tip": "Un clasic, cel mai bine savurat la un restaurant tradițional precum 'Le Jura'."
+          },
+          {
+            "name": "File de biban",
+            "tip": "Fileuri fragede de biban din lac, o delicatesă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saucisson neuchâtelois",
+            "tip": "A local sausage specialty, often served with vegetables."
+          },
+          {
+            "name": "Fondue",
+            "tip": "A classic best enjoyed at a traditional restaurant like 'Le Jura'."
+          },
+          {
+            "name": "Perch fillets",
+            "tip": "Tender perch fillets from the lake, a delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Anglais",
+            "tip": "Ein ruhiger Park am Seeufer, ideal für eine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlossterrasse",
+            "tip": "Genießen Sie die Stille und den Panoramablick über die Stadt und den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quai Osterwald",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers bei Sonnenuntergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angolkert",
+            "tip": "Csendes park a tóparton, ideális egy szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyterasz",
+            "tip": "Élvezze a csendet és a panorámás kilátást a városra és a tóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quai Osterwald",
+            "tip": "Békés séta a víz mentén naplementekor.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Anglais",
+            "tip": "Un parc liniștit pe malul lacului, ideal pentru o pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa castelului",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra orașului și a lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quai Osterwald",
+            "tip": "O plimbare liniștită de-a lungul apei la apus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Anglais (English Garden)",
+            "tip": "A quiet park on the lakefront, ideal for a break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Terrace",
+            "tip": "Enjoy the silence and the panoramic view over the city and the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Quai Osterwald",
+            "tip": "A peaceful walk along the water at sunset.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue du Seyon",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Findet dienstags, donnerstags und samstags am Place des Halles statt und bietet lokale Produkte an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Seyon",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Kedden, csütörtökön és szombaton a Place des Halles-on, helyi termékeket kínálva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue du Seyon",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Are loc marți, joi și sâmbătă în Place des Halles, oferind produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue du Seyon",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Held on Tuesdays, Thursdays, and Saturdays at Place des Halles, offering local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat und der Weg zum Schloss steil ist.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Eine Flasche Wasser ist an warmen Tagen unerlässlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves, és a kastélyhoz vezető út meredek.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze előre a nyitvatartási időt.",
+          "Egy üveg víz elengedhetetlen a meleg napokon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi are pavele și drumul spre castel este abrupt.",
+          "Multe muzee sunt închise lunea, verificați programul în avans.",
+          "O sticlă de apă este esențială în zilele calde."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones and the path to the castle is steep.",
+          "Many museums are closed on Mondays, check opening hours in advance.",
+          "A bottle of water is essential on warm days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Halles",
+            "hu": "Place des Halles",
+            "ro": "Place des Halles",
+            "en": "Place des Halles"
+          },
+          "coords": [
+            6.9319,
+            46.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt. In der Nähe gibt es mehrere Fahrradverleihe.",
+            "hu": "Ideális kiindulópont. A közelben több kerékpárkölcsönző is található.",
+            "ro": "Un punct de plecare ideal. Există mai multe centre de închiriere de biciclete în apropiere.",
+            "en": "An ideal starting point. There are several bike rental shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatskirche & Schloss Neuenburg",
+            "hu": "Kollégiumi templom és Neuenburgi kastély",
+            "ro": "Biserica Colegială și Castelul Neuchâtel",
+            "en": "Collegiate Church & Neuchâtel Castle"
+          },
+          "coords": [
+            6.9298,
+            46.9928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie zu Fuß nach oben.",
+            "hu": "Zárja le a kerékpárt a domb alján, és sétáljon fel.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați pe jos.",
+            "en": "Lock your bike at the bottom of the hill and walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'art et d'histoire",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            6.9345,
+            46.9935
+          ],
+          "category": "museums",
+          "arrive_at": "11:16",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt vor dem Museum gibt es gute Abstellmöglichkeiten für Fahrräder.",
+            "hu": "A múzeum előtt jó kerékpártárolási lehetőségek vannak.",
+            "ro": "Există locuri bune de parcare pentru biciclete chiar în fața muzeului.",
+            "en": "There are good bike parking facilities right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Seeufer",
+            "hu": "Ebéd a tóparton",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch at the Lakefront"
+          },
+          "coords": [
+            6.942,
+            46.992
+          ],
+          "category": "gastro",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Felchenfilets in einem Restaurant mit Seeblick.",
+            "hu": "Élvezze a friss sügérfilét egy tóparti étteremben.",
+            "ro": "Savurați fileuri proaspete de biban la un restaurant cu vedere la lac.",
+            "en": "Enjoy fresh perch fillets at a restaurant with a lake view."
+          }
+        },
+        {
+          "name": {
+            "de": "Laténium",
+            "hu": "Laténium",
+            "ro": "Laténium",
+            "en": "Laténium"
+          },
+          "coords": [
+            6.9688,
+            47.0053
+          ],
+          "category": "museums",
+          "arrive_at": "14:59",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Radtour entlang des Sees zum Museum ist wunderschön und größtenteils flach.",
+            "hu": "A tó menti kerékpárút a múzeumhoz gyönyörű és többnyire sík.",
+            "ro": "Plimbarea cu bicicleta de-a lungul lacului până la muzeu este frumoasă și în mare parte plată.",
+            "en": "The bike ride along the lake to the museum is beautiful and mostly flat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaumont-Aussichtsturm",
+            "hu": "Chaumont-kilátó",
+            "ro": "Turnul de observație Chaumont",
+            "en": "Chaumont Lookout Tower"
+          },
+          "coords": [
+            6.974,
+            47.025
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:34",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die 360°-Aussicht auf die Alpen und den Jura ist die Mühe wert.",
+            "hu": "A mászás kihívást jelent, de a 360°-os kilátás az Alpokra és a Jurára megéri a fáradozást.",
+            "ro": "Urcușul este solicitant, dar priveliștea de 360° asupra Alpilor și a Jurei merită efortul.",
+            "en": "The climb is challenging, but the 360° view of the Alps and the Jura is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Place des Halles. Am Vormittag erklimmen Sie den Schlossberg, bevor Sie im Kunst- und Geschichtsmuseum in die Kultur eintauchen. Zum Mittagessen genießen Sie die Seeluft in einem Uferrestaurant. Der Nachmittag führt Sie auf einem malerischen Radweg zum Laténium. Für die Sportlichen endet der Tag mit dem anspruchsvollen Anstieg zum Chaumont-Turm, wo Sie mit einer unvergesslichen Aussicht belohnt werden. Ein perfekter Abschluss für einen aktiven Tag.",
+        "hu": "Pattanjon kerékpárra és induljon a Place des Halles-ról. Délelőtt megmássza a kastélydombot, mielőtt elmerülne a kultúrában a Művészeti és Történeti Múzeumban. Ebédre élvezze a tavi levegőt egy tóparti étteremben. A délután egy festői kerékpárúton vezet a Laténiumhoz. A sportosabbak számára a nap a Chaumont-toronyhoz vezető kihívást jelentő emelkedővel zárul, ahol felejthetetlen kilátás a jutalom. Tökéletes lezárása egy aktív napnak.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Place des Halles. Dimineața, urcați pe dealul castelului înainte de a vă scufunda în cultură la Muzeul de Artă și Istorie. La prânz, bucurați-vă de aerul lacului la un restaurant pe mal. După-amiaza vă poartă pe o pistă de biciclete pitorească spre Laténium. Pentru cei sportivi, ziua se încheie cu urcarea solicitantă la Turnul Chaumont, unde veți fi răsplătiți cu o priveliște de neuitat. O încheiere perfectă pentru o zi activă.",
+        "en": "Hop on your bike and start at Place des Halles. In the morning, you'll climb the castle hill before delving into culture at the Museum of Art and History. For lunch, enjoy the lake air at a lakeside restaurant. The afternoon takes you on a scenic bike path to the Laténium. For the sporty, the day ends with the challenging climb to the Chaumont Tower, where you'll be rewarded with an unforgettable view. A perfect end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette am See",
+            "tip": "Viele kleine 'Buvettes' (Snackbars) entlang des Sees bieten schnelle und leckere Mahlzeiten."
+          },
+          {
+            "name": "Torche-pot",
+            "tip": "Ein lokaler Eintopf, perfekt zur Stärkung nach einer langen Radtour."
+          },
+          {
+            "name": "Absinth",
+            "tip": "Probieren Sie das legendäre Getränk aus dem nahen Val-de-Travers (aber fahren Sie danach vorsichtig!)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a tónál",
+            "tip": "Sok kis 'Buvette' (büfé) a tó mentén gyors és finom ételeket kínál."
+          },
+          {
+            "name": "Torche-pot",
+            "tip": "Helyi egytálétel, tökéletes erősítés egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Abszint",
+            "tip": "Kóstolja meg a közeli Val-de-Travers legendás italát (de utána óvatosan vezessen!)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvetă pe lac",
+            "tip": "Multe 'Buvettes' (snack-baruri) mici de-a lungul lacului oferă mese rapide și delicioase."
+          },
+          {
+            "name": "Torche-pot",
+            "tip": "O tocană locală, perfectă pentru a vă reface forțele după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Absint",
+            "tip": "Încercați băutura legendară din apropiatul Val-de-Travers (dar conduceți cu grijă după aceea!)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette by the lake",
+            "tip": "Many small 'Buvettes' (snack bars) along the lake offer quick and tasty meals."
+          },
+          {
+            "name": "Torche-pot",
+            "tip": "A local stew, perfect for refueling after a long bike ride."
+          },
+          {
+            "name": "Absinthe",
+            "tip": "Try the legendary drink from the nearby Val-de-Travers (but ride carefully afterwards!)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg nach Hauterive",
+            "tip": "Der Radweg zum Laténium ist eine friedliche Strecke mit stetigem Blick auf den See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Abstecher oberhalb der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick vom Chaumont",
+            "tip": "Nach dem Anstieg die ultimative Belohnung: Stille und ein Alpenpanorama.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út Hauterive felé",
+            "tip": "A Laténiumhoz vezető kerékpárút egy békés szakasz, állandó kilátással a tóra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Csendes kitérő a város felett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Chaumontról",
+            "tip": "A mászás után a végső jutalom: csend és alpesi panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea de pe mal spre Hauterive",
+            "tip": "Pista de biciclete spre Laténium este un traseu liniștit cu vedere constantă la lac.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un ocol liniștit deasupra orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de pe Chaumont",
+            "tip": "După urcare, recompensa supremă: liniște și o panoramă alpină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeshore path to Hauterive",
+            "tip": "The bike path to the Laténium is a peaceful stretch with constant lake views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet detour above the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Chaumont",
+            "tip": "After the climb, the ultimate reward: silence and an Alpine panorama.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Halten Sie an einem Hofladen für ein Stück 'Tomme neuchâteloise'."
+          },
+          {
+            "name": "Schokolade von Suchard",
+            "tip": "Eine historische Schokoladenmarke aus Neuenburg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Álljon meg egy termelői boltban egy darab 'Tomme neuchâteloise'-ért."
+          },
+          {
+            "name": "Suchard csokoládé",
+            "tip": "Történelmi csokoládémárka Neuenburgból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Opriți-vă la un magazin de fermă pentru o bucată de 'Tomme neuchâteloise'."
+          },
+          {
+            "name": "Ciocolată Suchard",
+            "tip": "O marcă istorică de ciocolată din Neuchâtel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese",
+            "tip": "Stop at a farm shop for a piece of 'Tomme neuchâteloise'."
+          },
+          {
+            "name": "Suchard chocolate",
+            "tip": "A historic chocolate brand from Neuchâtel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike kann den Anstieg zum Chaumont erheblich erleichtern.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Achten Sie in der Altstadt auf Fußgänger und Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Egy e-bike jelentősen megkönnyítheti a Chaumontra való feljutást.",
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyázzon a gyalogosokra és a macskakövekre az óvárosban."
+        ],
+        "ro": [
+          "O bicicletă electrică poate face urcarea la Chaumont mult mai ușoară.",
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Fiți atenți la pietoni și la pavelele din orașul vechi."
+        ],
+        "en": [
+          "An e-bike can make the climb to Chaumont much easier.",
+          "Check your tire pressure before you set off.",
+          "Watch out for pedestrians and cobblestones in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus am Place Pury (Cluster Altstadt)",
+            "hu": "Place Pury parkolóház (Óváros klaszter)",
+            "ro": "Parcarea Place Pury (Cluster Orașul Vechi)",
+            "en": "Place Pury Car Park (Old Town Cluster)"
+          },
+          "coords": [
+            6.933,
+            46.991
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral, um die Altstadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt központilag, hogy gyalog fedezze fel az óvárost.",
+            "ro": "Parcați aici central pentru a explora orașul vechi pe jos.",
+            "en": "Park here centrally to explore the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Halles & Hôtel de Ville",
+            "hu": "Place des Halles és Városháza",
+            "ro": "Place des Halles și Primăria",
+            "en": "Place des Halles & Town Hall"
+          },
+          "coords": [
+            6.9319,
+            46.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den Platz und bewundern Sie die umliegende Architektur.",
+            "hu": "Sétáljon végig a téren, és csodálja meg a környező építészetet.",
+            "ro": "Plimbați-vă prin piață și admirați arhitectura înconjurătoare.",
+            "en": "Stroll across the square and admire the surrounding architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatskirche & Schloss Neuenburg",
+            "hu": "Kollégiumi templom és Neuenburgi kastély",
+            "ro": "Biserica Colegială și Castelul Neuchâtel",
+            "en": "Collegiate Church & Neuchâtel Castle"
+          },
+          "coords": [
+            6.9298,
+            46.9928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Spaziergang durch die Gassen hinauf ist Teil des Erlebnisses.",
+            "hu": "A sikátorokon felfelé vezető séta az élmény része.",
+            "ro": "Plimbarea pe aleile în sus face parte din experiență.",
+            "en": "The walk up through the narrow streets is part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Laténium (Cluster Seeufer)",
+            "hu": "Laténium (Tóparti klaszter)",
+            "ro": "Laténium (Cluster Malul Lacului)",
+            "en": "Laténium (Lakefront Cluster)"
+          },
+          "coords": [
+            6.9688,
+            47.0053
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Das Museum verfügt über einen großen Parkplatz. Planen Sie Zeit für den Park und ein Mittagessen ein.",
+            "hu": "A múzeumnak nagy parkolója van. Tervezzen időt a parkra és egy ebédre is.",
+            "ro": "Muzeul are o parcare mare. Planificați timp pentru parc și pentru prânz.",
+            "en": "The museum has a large car park. Plan time for the park and for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaumont-Aussichtsturm (Cluster Berg)",
+            "hu": "Chaumont-kilátó (Hegyi klaszter)",
+            "ro": "Turnul de observație Chaumont (Cluster Munte)",
+            "en": "Chaumont Lookout Tower (Mountain Cluster)"
+          },
+          "coords": [
+            6.974,
+            47.025
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe der Standseilbahn-Bergstation. Von dort ist es ein kurzer Spaziergang zum Turm.",
+            "hu": "Hajtson a sikló hegyi állomása melletti parkolóba. Onnan rövid séta a torony.",
+            "ro": "Conduceți până la parcarea de lângă stația superioară a funicularului. De acolo este o scurtă plimbare până la turn.",
+            "en": "Drive to the car park near the funicular top station. It's a short walk to the tower from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            6.931,
+            46.992
+          ],
+          "category": "gastro",
+          "arrive_at": "17:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kehren Sie zum Parkhaus zurück und genießen Sie ein wohlverdientes Abendessen.",
+            "hu": "Térjen vissza a parkolóházba, és élvezze a jól megérdemelt vacsorát.",
+            "ro": "Întoarceți-vă la parcare și bucurați-vă de o cină binemeritată.",
+            "en": "Return to the car park and enjoy a well-deserved dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Flexibilität, die Highlights von Neuenburg und Umgebung zu kombinieren. Parken Sie im Zentrum und widmen Sie den Vormittag dem historischen Kern mit seinem Schloss und den engen Gassen. Nach dem ersten Erkundungs-Cluster fahren Sie zum Mittagessen und für eine Dosis Archäologie zum Laténium am See. Der Nachmittag ist für den majestätischen Ausblick vom Chaumont-Berg reserviert. Diese Cluster-Route kombiniert städtisches Flair mit Naturerlebnissen und vermeidet ständigen Parkstress.",
+        "hu": "Autóval rugalmasan kombinálhatja Neuenburg és környéke fénypontjait. Parkoljon a központban, és szentelje a délelőttöt a történelmi városmagnak a kastéllyal és a szűk utcákkal. Az első felfedező klaszter után ebédelni és egy adag régészetért a tóparti Laténiumba hajt. A délután a Chaumont-hegy fenséges kilátásának van fenntartva. Ez a klaszter-útvonal ötvözi a városi hangulatot a természeti élményekkel, és elkerüli az állandó parkolási stresszt.",
+        "ro": "Cu mașina, aveți flexibilitatea de a combina atracțiile din Neuchâtel și împrejurimi. Parcați în centru și dedicați dimineața centrului istoric, cu castelul și străduțele sale înguste. După primul cluster de explorare, mergeți cu mașina la Laténium, pe malul lacului, pentru prânz și o doză de arheologie. După-amiaza este rezervată pentru priveliștea maiestuoasă de pe muntele Chaumont. Acest traseu pe clustere combină farmecul urban cu experiențele în natură și evită stresul constant al parcării.",
+        "en": "By car, you have the flexibility to combine the highlights of Neuchâtel and its surroundings. Park in the center and dedicate the morning to the historic core with its castle and narrow streets. After the first exploration cluster, drive to the Laténium on the lake for lunch and a dose of archaeology. The afternoon is reserved for the majestic view from Chaumont mountain. This cluster route combines urban flair with natural experiences and avoids constant parking stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant du Pymont",
+            "tip": "In der Nähe des Chaumont gelegen, bietet es eine gute Küche mit Aussicht."
+          },
+          {
+            "name": "Café du Cerf",
+            "tip": "Ein traditionelles Bistro in der Altstadt für ein authentisches Abendessen."
+          },
+          {
+            "name": "Neuenburger Wein",
+            "tip": "Kaufen Sie eine Flasche Oeil-de-Perdrix direkt bei einem Winzer in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant du Pymont",
+            "tip": "A Chaumont közelében található, jó konyhát kínál kilátással."
+          },
+          {
+            "name": "Café du Cerf",
+            "tip": "Hagyományos bisztró az óvárosban egy autentikus vacsorához."
+          },
+          {
+            "name": "Neuenburgi bor",
+            "tip": "Vásároljon egy üveg Oeil-de-Perdrix-t közvetlenül egy helyi borásztól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant du Pymont",
+            "tip": "Situat lângă Chaumont, oferă bucătărie bună cu priveliște."
+          },
+          {
+            "name": "Café du Cerf",
+            "tip": "Un bistro tradițional în orașul vechi pentru o cină autentică."
+          },
+          {
+            "name": "Vin de Neuchâtel",
+            "tip": "Cumpărați o sticlă de Oeil-de-Perdrix direct de la un vinificator din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant du Pymont",
+            "tip": "Located near Chaumont, it offers good cuisine with a view."
+          },
+          {
+            "name": "Café du Cerf",
+            "tip": "A traditional bistro in the old town for an authentic dinner."
+          },
+          {
+            "name": "Neuchâtel Wine",
+            "tip": "Buy a bottle of Oeil-de-Perdrix directly from a local winemaker."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gorges de l'Areuse",
+            "tip": "Eine kurze Autofahrt entfernt, bietet diese Schlucht spektakuläre und ruhige Wanderwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chaumont-Gipfel",
+            "tip": "Abseits des Turms finden Sie ruhige Plätze mit Blick auf die drei Seen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Laténium Park",
+            "tip": "Der Park um das Museum ist weitläufig und ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Areuse-szurdok",
+            "tip": "Rövid autóútra található, ez a szurdok látványos és csendes túraútvonalakat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chaumont-csúcs",
+            "tip": "A toronytól távolabb csendes helyeket talál a három tóra néző kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Laténium Park",
+            "tip": "A múzeum körüli park tágas és ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Areuse",
+            "tip": "La o scurtă distanță cu mașina, aceste chei oferă trasee de drumeție spectaculoase și liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Chaumont",
+            "tip": "Departe de turn, veți găsi locuri liniștite cu vedere la cele trei lacuri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Laténium",
+            "tip": "Parcul din jurul muzeului este spațios și ideal pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorges de l'Areuse",
+            "tip": "A short drive away, these gorges offer spectacular and quiet hiking trails.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chaumont Peak",
+            "tip": "Away from the tower, you'll find quiet spots overlooking the three lakes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Laténium Park",
+            "tip": "The park surrounding the museum is spacious and ideal for a relaxing walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Halle du Terroir",
+            "tip": "Ein Geschäft, das sich auf lokale Produkte spezialisiert hat, von Käse bis Wein."
+          },
+          {
+            "name": "Uhrengeschäfte",
+            "tip": "Als Herz der Schweizer Uhrenindustrie finden Sie hier exklusive Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Halle du Terroir",
+            "tip": "Helyi termékekre specializálódott üzlet, a sajttól a borig."
+          },
+          {
+            "name": "Óraboltok",
+            "tip": "A svájci óraipar szívében exkluzív butikokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Halle du Terroir",
+            "tip": "Un magazin specializat în produse locale, de la brânzeturi la vin."
+          },
+          {
+            "name": "Magazine de ceasuri",
+            "tip": "Ca inima industriei elvețiene de ceasuri, veți găsi buticuri exclusive aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Halle du Terroir",
+            "tip": "A shop specializing in local products, from cheese to wine."
+          },
+          {
+            "name": "Watch shops",
+            "tip": "As the heart of the Swiss watch industry, you'll find exclusive boutiques here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie eine Park-App, um die Parkgebühren einfach zu bezahlen.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, besonders in Wohngebieten.",
+          "Die Straße zum Chaumont kann eng und kurvig sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Használjon parkolási alkalmazást a parkolási díjak egyszerű fizetéséhez.",
+          "Vegye figyelembe a sebességkorlátozásokat, különösen a lakóövezetekben.",
+          "A Chaumontra vezető út szűk és kanyargós lehet, vezessen óvatosan."
+        ],
+        "ro": [
+          "Utilizați o aplicație de parcare pentru a plăti cu ușurință taxele de parcare.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale.",
+          "Drumul spre Chaumont poate fi îngust și sinuos, conduceți cu prudență."
+        ],
+        "en": [
+          "Use a parking app to easily pay for parking fees.",
+          "Be aware of speed limits, especially in residential areas.",
+          "The road to Chaumont can be narrow and winding, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Pury (Startpunkt Cluster Altstadt)",
+            "hu": "Place Pury (Óváros klaszter kiindulópont)",
+            "ro": "Place Pury (Punct de plecare Cluster Orașul Vechi)",
+            "en": "Place Pury (Old Town Cluster Starting Point)"
+          },
+          "coords": [
+            6.933,
+            46.991
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein wichtiger Verkehrsknotenpunkt, an dem viele Buslinien halten.",
+            "hu": "Fontos közlekedési csomópont, ahol számos buszjárat megáll.",
+            "ro": "Un nod important de transport unde opresc multe linii de autobuz.",
+            "en": "A major transport hub where many bus lines stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Halles & Hôtel de Ville",
+            "hu": "Place des Halles és Városháza",
+            "ro": "Place des Halles și Primăria",
+            "en": "Place des Halles & Town Hall"
+          },
+          "coords": [
+            6.9319,
+            46.9915
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak néhány lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatskirche & Schloss Neuenburg",
+            "hu": "Kollégiumi templom és Neuenburgi kastély",
+            "ro": "Biserica Colegială și Castelul Neuchâtel",
+            "en": "Collegiate Church & Neuchâtel Castle"
+          },
+          "coords": [
+            6.9298,
+            46.9928
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Aufstieg zu Fuß oder nehmen Sie den kleinen Touristenzug.",
+            "hu": "Élvezze a gyalogos emelkedőt, vagy szálljon fel a kis turistavonatra.",
+            "ro": "Bucurați-vă de urcarea pe jos sau luați trenulețul turistic.",
+            "en": "Enjoy the walk up or take the little tourist train."
+          }
+        },
+        {
+          "name": {
+            "de": "Laténium (Cluster Seeufer)",
+            "hu": "Laténium (Tóparti klaszter)",
+            "ro": "Laténium (Cluster Malul Lacului)",
+            "en": "Laténium (Lakefront Cluster)"
+          },
+          "coords": [
+            6.9688,
+            47.0053
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 160,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 101 Richtung Marin. Die Haltestelle Laténium ist direkt vor dem Museum.",
+            "hu": "Menjen a 101-es busszal Marin irányába. A Laténium megálló közvetlenül a múzeum előtt van.",
+            "ro": "Luați autobuzul 101 spre Marin. Stația Laténium este chiar în fața muzeului.",
+            "en": "Take bus 101 towards Marin. The Laténium stop is right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaumont (Cluster Berg)",
+            "hu": "Chaumont (Hegyi klaszter)",
+            "ro": "Chaumont (Cluster Munte)",
+            "en": "Chaumont (Mountain Cluster)"
+          },
+          "coords": [
+            6.97,
+            47.02
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und steigen Sie in die Standseilbahn 'Funiculaire' nach Chaumont um.",
+            "hu": "Menjen vissza busszal a központba, és szálljon át a Chaumont-ra tartó 'Funiculaire' siklóra.",
+            "ro": "Luați autobuzul înapoi în centru și schimbați la funicularul 'Funiculaire' spre Chaumont.",
+            "en": "Take the bus back to the center and change to the 'Funiculaire' to Chaumont."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm",
+            "hu": "Kilátótorony",
+            "ro": "Turn de observație",
+            "en": "Lookout Tower"
+          },
+          "coords": [
+            6.974,
+            47.025
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, malerischer Spaziergang von der Bergstation der Seilbahn.",
+            "hu": "Rövid, festői séta a sikló hegyi állomásától.",
+            "ro": "O scurtă plimbare pitorească de la stația superioară a funicularului.",
+            "en": "A short, scenic walk from the funicular top station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das effiziente öffentliche Verkehrsnetz von Neuenburg macht das Erkunden einfach. Beginnen Sie Ihren Tag im historischen Herzen der Stadt, das Sie von der zentralen Haltestelle Place Pury aus leicht zu Fuß erreichen. Nachdem Sie das Schloss erobert haben, bringt Sie ein Bus bequem zum Laténium am anderen Ende der Bucht. Der Höhepunkt des Nachmittags ist die Fahrt mit der Standseilbahn auf den Chaumont, die eine spektakuläre Belohnung bietet. Diese Route zeigt, wie man mit Bus und Bahn Stadt, See und Berg an einem einzigen Tag erleben kann.",
+        "hu": "Neuenburg hatékony tömegközlekedési hálózata megkönnyíti a felfedezést. Kezdje a napot a város történelmi szívében, amely a központi Place Pury megállótól könnyen elérhető gyalog. Miután meghódította a kastélyt, egy busz kényelmesen elviszi az öböl másik végén lévő Laténiumba. A délután fénypontja a siklóút a Chaumontra, amely látványos jutalmat kínál. Ez az útvonal megmutatja, hogyan lehet busszal és vonattal megtapasztalni a várost, a tavat és a hegyet egyetlen nap alatt.",
+        "ro": "Rețeaua eficientă de transport public din Neuchâtel face explorarea ușoară. Începeți ziua în inima istorică a orașului, ușor accesibilă pe jos de la stația centrală Place Pury. După ce ați cucerit castelul, un autobuz vă duce confortabil la Laténium, la celălalt capăt al golfului. Punctul culminant al după-amiezii este călătoria cu funicularul spre Chaumont, care oferă o recompensă spectaculoasă. Acest traseu arată cum puteți experimenta orașul, lacul și muntele într-o singură zi folosind autobuzul și trenul.",
+        "en": "Neuchâtel's efficient public transport network makes exploring easy. Start your day in the historic heart of the city, easily accessible on foot from the central Place Pury stop. After conquering the castle, a bus will comfortably take you to the Laténium at the other end of the bay. The highlight of the afternoon is the funicular ride up to Chaumont, which offers a spectacular reward. This route shows how you can experience the city, lake, and mountain in a single day using buses and trains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snacks am Bahnhof",
+            "tip": "Für den schnellen Hunger zwischendurch gibt es an Bahnhöfen und größeren Haltestellen gute Bäckereien."
+          },
+          {
+            "name": "Restaurant Le Banneret",
+            "tip": "In der Altstadt gelegen, leicht mit dem Bus zu erreichen."
+          },
+          {
+            "name": "Picknick",
+            "tip": "Kaufen Sie lokale Spezialitäten auf dem Markt und genießen Sie ein Picknick am See oder auf dem Chaumont."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snackek a pályaudvaron",
+            "tip": "Ha gyorsan éhes, a pályaudvarokon és a nagyobb megállókban jó pékségek vannak."
+          },
+          {
+            "name": "Le Banneret Étterem",
+            "tip": "Az óvárosban található, busszal könnyen megközelíthető."
+          },
+          {
+            "name": "Piknik",
+            "tip": "Vásároljon helyi specialitásokat a piacon, és piknikezzen a tónál vagy a Chaumont-on."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări la gară",
+            "tip": "Pentru o foame rapidă, există brutării bune în gări și stații mai mari."
+          },
+          {
+            "name": "Restaurant Le Banneret",
+            "tip": "Situat în orașul vechi, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Cumpărați specialități locale de la piață și bucurați-vă de un picnic pe malul lacului sau pe Chaumont."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snacks at the station",
+            "tip": "For a quick bite, there are good bakeries at train stations and major stops."
+          },
+          {
+            "name": "Restaurant Le Banneret",
+            "tip": "Located in the old town, easily accessible by bus."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Buy local specialties at the market and enjoy a picnic by the lake or on Chaumont."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt entlang des Sees",
+            "tip": "Die Fahrt zum Laténium bietet entspannende Ausblicke über das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt mit der Standseilbahn",
+            "tip": "Eine ruhige und meditative Fahrt den Berg hinauf.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abendstimmung am Quai",
+            "tip": "Nach der Rückkehr ins Zentrum ist ein Spaziergang am Seeufer die perfekte Abrundung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszút a tó mentén",
+            "tip": "A Laténiumba vezető út pihentető kilátást nyújt a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utazás a siklóval",
+            "tip": "Csendes és meditatív utazás fel a hegyre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti hangulat a rakparton",
+            "tip": "A központba való visszatérés után egy séta a tóparton a tökéletes befejezés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul de-a lungul lacului",
+            "tip": "Călătoria spre Laténium oferă priveliști relaxante asupra apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătorie cu funicularul",
+            "tip": "O călătorie liniștită și meditativă pe munte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Atmosfera de seară pe chei",
+            "tip": "După întoarcerea în centru, o plimbare pe malul lacului este finalul perfect.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride along the lake",
+            "tip": "The ride to the Laténium offers relaxing views over the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Funicular ride",
+            "tip": "A quiet and meditative journey up the mountain.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening atmosphere on the quay",
+            "tip": "After returning to the center, a walk along the lakefront is the perfect end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wenger-Messer",
+            "tip": "Ein klassisches Schweizer Souvenir, erhältlich in vielen Geschäften in der Innenstadt."
+          },
+          {
+            "name": "Confiserie Walder",
+            "tip": "Probieren Sie die 'Boutons de Chasselas', eine lokale Schokoladenspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wenger kés",
+            "tip": "Klasszikus svájci szuvenír, kapható a belváros számos üzletében."
+          },
+          {
+            "name": "Confiserie Walder",
+            "tip": "Kóstolja meg a 'Boutons de Chasselas'-t, egy helyi csokoládékülönlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuțit Wenger",
+            "tip": "Un suvenir elvețian clasic, disponibil în multe magazine din centrul orașului."
+          },
+          {
+            "name": "Confiserie Walder",
+            "tip": "Încercați 'Boutons de Chasselas', o specialitate locală de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wenger knife",
+            "tip": "A classic Swiss souvenir, available in many downtown shops."
+          },
+          {
+            "name": "Confiserie Walder",
+            "tip": "Try the 'Boutons de Chasselas', a local chocolate specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte ('carte journalière') für unbegrenzte Fahrten.",
+          "Laden Sie die 'transN' App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Beachten Sie, dass die Standseilbahn zum Chaumont einen eigenen Fahrplan hat."
+        ],
+        "hu": [
+          "Vásároljon napijegyet ('carte journalière') a korlátlan utazáshoz.",
+          "Töltse le a 'transN' alkalmazást a valós idejű menetrendekért.",
+          "Vegye figyelembe, hogy a Chaumont-ra közlekedő siklónak saját menetrendje van."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi ('carte journalière') pentru călătorii nelimitate.",
+          "Descărcați aplicația 'transN' pentru a vedea orarele în timp real.",
+          "Rețineți că funicularul spre Chaumont are propriul său orar."
+        ],
+        "en": [
+          "Buy a day pass ('carte journalière') for unlimited travel.",
+          "Download the 'transN' app for real-time schedules.",
+          "Note that the funicular to Chaumont has its own schedule."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1540 @@
+{
+  "city_id": "poland-radom-cities-v2",
+  "anchor": {
+    "name": "Radom",
+    "coords": [
+      21.1471,
+      51.4027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            21.1475,
+            51.4025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier, um die Atmosphäre des alten Radom aufzusaugen.",
+            "hu": "Kezdje a napot itt, hogy magába szívja a régi Radom hangulatát.",
+            "ro": "Începeți ziua aici pentru a absorbi atmosfera vechiului Radom.",
+            "en": "Start your day here to soak up the atmosphere of old Radom."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            21.1488,
+            51.4018
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Details und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a gótikus részleteket és a csendes belső hangulatot.",
+            "ro": "Observați detaliile gotice și atmosfera liniștită din interior.",
+            "en": "Pay attention to the Gothic details and the quiet atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Malczewski-Museum",
+            "hu": "Malczewski Múzeum",
+            "ro": "Muzeul Malczewski",
+            "en": "Malczewski Museum"
+          },
+          "coords": [
+            21.1465,
+            51.4015
+          ],
+          "category": "museums",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke von Jacek Malczewski, dem berühmtesten Künstler der Stadt.",
+            "hu": "Koncentráljon Jacek Malczewski, a város leghíresebb művészének alkotásaira.",
+            "ro": "Concentrați-vă pe lucrările lui Jacek Malczewski, cel mai faimos artist al orașului.",
+            "en": "Focus on the works of Jacek Malczewski, the city's most famous artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Żeromski-Straße",
+            "hu": "Żeromski utca",
+            "ro": "Strada Żeromski",
+            "en": "Żeromski Street"
+          },
+          "coords": [
+            21.145,
+            51.403
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen Mittagsspaziergang und um ein Café zu finden.",
+            "hu": "Tökéletes egy ebéd utáni sétához és egy kávézó felkutatásához.",
+            "ro": "Perfect pentru o plimbare de prânz și pentru a găsi o cafenea.",
+            "en": "Perfect for a midday stroll and to find a lunch cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Schutzbringenden Jungfrau Maria",
+            "hu": "Oltalmazó Szűz Mária-székesegyház",
+            "ro": "Catedrala Sfânta Fecioară Maria",
+            "en": "Cathedral of the Protection of the Virgin Mary"
+          },
+          "coords": [
+            21.151,
+            51.404
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur, ein markantes Wahrzeichen der Stadt.",
+            "hu": "Csodálja meg a neogótikus építészetet, a város jellegzetes épületét.",
+            "ro": "Admirați arhitectura neo-gotică, un punct de reper proeminent al orașului.",
+            "en": "Admire the neo-Gothic architecture, a prominent landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernhardinerkloster und Kirche",
+            "hu": "Bernát-kolostor és templom",
+            "ro": "Mănăstirea și Biserica Bernardină",
+            "en": "Bernardine Monastery and Church"
+          },
+          "coords": [
+            21.153,
+            51.4
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:23",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und Geschichte, etwas abseits des Haupttrubels.",
+            "hu": "A nyugalom és a történelem helye, kissé távolabb a fő nyüzsgéstől.",
+            "ro": "Un loc de pace și istorie, puțin departe de agitația principală.",
+            "en": "A place of peace and history, slightly away from the main hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Moderne Kunst",
+            "hu": "Modern Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Modernă",
+            "en": "Museum of Modern Art"
+          },
+          "coords": [
+            21.143,
+            51.399
+          ],
+          "category": "museums",
+          "arrive_at": "16:27",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische polnische Kunst als Kontrast zur historischen Altstadt.",
+            "hu": "Fedezze fel a kortárs lengyel művészetet a történelmi óváros kontrasztjaként.",
+            "ro": "Descoperiți arta poloneză contemporană ca un contrast cu orașul vechi istoric.",
+            "en": "Discover contemporary Polish art as a contrast to the historic old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Radom beginnt auf dem historischen Marktplatz, wo das Alte Rathaus Zeugnis von der reichen Vergangenheit der Stadt ablegt. Von dort aus schlendern Sie durch die kopfsteingepflasterten Gassen zur gotischen St.-Johannes-Kirche. Der Vormittag ist der Kunst gewidmet, mit einem tiefen Einblick in das Werk von Jacek Malczewski, dem symbolistischen Meister, dessen Museum ein Muss ist. \n\nDer Mittag führt Sie auf die belebte Żeromski-Straße, die Hauptschlagader der Stadt. Hier finden Sie zahlreiche Restaurants, um traditionelle polnische Gerichte zu probieren. Nach dem Mittagessen bietet ein Spaziergang entlang dieser eleganten Straße die perfekte Gelegenheit, das lokale Leben zu beobachten und die Architektur aus dem 19. Jahrhundert zu bewundern.\n\nDer Nachmittag wird majestätisch mit einem Besuch der beeindruckenden neugotischen Kathedrale, deren Türme die Skyline von Radom dominieren. Anschließend suchen Sie die Ruhe im historischen Bernhardinerkloster. Dieser Komplex bietet eine friedliche Flucht und einen Moment der Besinnung abseits der belebteren Gegenden.\n\nSie beenden Ihren Tag mit einem Hauch von Moderne im Museum für Moderne Kunst. Dieser Besuch bietet einen faszinierenden Kontrast zu den historischen Stätten, die Sie zuvor erkundet haben, und zeigt die dynamische zeitgenössische Kunstszene Polens. Es ist der perfekte Abschluss eines Tages voller Geschichte, Kunst und Kultur.",
+        "hu": "A radomi nap a történelmi Piactéren kezdődik, ahol a Régi Városháza tanúskodik a város gazdag múltjáról. Innen a macskaköves utcákon át a gótikus Szent János-templomhoz sétálhat. A délelőttöt a művészetnek szenteljük, mélyrehatóan megismerkedve Jacek Malczewski, a szimbolista mester munkásságával, akinek múzeuma kihagyhatatlan. \n\nAz ebédidő a nyüzsgő Żeromski utcára, a város fő ütőerére vezet. Itt számos éttermet talál, ahol megkóstolhatja a hagyományos lengyel ételeket. Ebéd után egy séta ezen az elegáns utcán tökéletes alkalom a helyi élet megfigyelésére és a 19. századi építészet csodálatára.\n\nDélután fenséges látogatást teszünk a lenyűgöző neogótikus székesegyházban, melynek tornyai uralják Radom látképét. Ezután a történelmi Bernát-kolostorban keresünk nyugalmat. Ez a komplexum békés menedéket és egy pillanatnyi elmélkedést kínál a forgalmasabb területektől távol.\n\nA napot a modernitás jegyében a Modern Művészetek Múzeumában zárja. Ez a látogatás lenyűgöző kontrasztot kínál a korábban felfedezett történelmi helyszínekkel, és bemutatja Lengyelország dinamikus kortárs művészeti színterét. Tökéletes lezárása egy történelemmel, művészettel és kultúrával teli napnak.",
+        "ro": "Ziua ta în Radom începe în Piața istorică a Pieței, unde Primăria Veche stă mărturie a trecutului bogat al orașului. De acolo, te plimbi pe străduțele pietruite până la Biserica gotică Sfântul Ioan. Dimineața este dedicată artei, cu o incursiune profundă în opera lui Jacek Malczewski, maestrul simbolist al cărui muzeu este o necesitate. \n\nLa prânz, te îndrepți spre vibranta Stradă Żeromski, artera principală a orașului. Aici vei găsi numeroase restaurante pentru a gusta mâncăruri tradiționale poloneze. După prânz, o plimbare pe această stradă elegantă oferă ocazia perfectă de a observa viața locală și de a admira arhitectura secolului al XIX-lea.\n\nDupă-amiaza devine maiestuoasă cu o vizită la impunătoarea Catedrală neo-gotică, ale cărei turle domină orizontul Radomului. Apoi, cauți liniștea la Mănăstirea istorică Bernardină. Acest complex oferă o evadare pașnică și un moment de reflecție, departe de zonele mai aglomerate.\n\nÎți închei ziua cu o notă de modernitate la Muzeul de Artă Modernă. Această vizită oferă un contrast fascinant cu siturile istorice pe care le-ai explorat mai devreme, prezentând scena artistică contemporană dinamică a Poloniei. Este încheierea perfectă pentru o zi plină de istorie, artă și cultură.",
+        "en": "Your day in Radom begins in the historic Market Square, where the Old Town Hall stands as a testament to the city's rich past. From there, you'll stroll through cobblestone streets to the Gothic St. John's Church. The morning is dedicated to art, with a deep dive into the work of Jacek Malczewski, the symbolist master whose museum is a must-see. \n\nMidday takes you to the vibrant Żeromski Street, the city's main artery. Here, you'll find numerous restaurants to sample traditional Polish dishes. After lunch, a walk along this elegant street provides the perfect opportunity to observe local life and admire the 19th-century architecture.\n\nThe afternoon becomes majestic with a visit to the impressive neo-Gothic Cathedral, whose spires dominate the Radom skyline. Afterwards, you'll seek tranquility at the historic Bernardine Monastery. This complex offers a peaceful escape and a moment of reflection away from the busier areas.\n\nYou'll end your day with a touch of modernity at the Museum of Modern Art. This visit provides a fascinating contrast to the historic sites you've explored earlier, showcasing Poland's dynamic contemporary art scene. It's the perfect conclusion to a day filled with history, art, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' (mit Kartoffeln und Käse)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Bekannt für ihre elegante Interpretation der polnischen Küche in der Nähe des Theaters."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t (burgonyával és túróval)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "A színház közelében található, a lengyel konyha elegáns értelmezéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute clasice, în special cele 'ruskie' (cu cartofi și brânză)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Cunoscut pentru interpretarea sa elegantă a bucătăriei poloneze, situat lângă teatru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings, especially the 'ruskie' (with potatoes and cheese)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Known for its elegant interpretation of Polish cuisine, located near the theatre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Kościuszki",
+            "tip": "Ein großer, alter Park, ideal für einen ruhigen Spaziergang unter Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innerer Hof des Bernhardinerklosters",
+            "tip": "Ein abgeschiedener Ort, um dem Stadtlärm für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Mleczna",
+            "tip": "Finden Sie eine Bank am Flussufer für einen friedlichen Moment in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Egy nagy, régi park, ideális egy csendes sétához a fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Bernát-kolostor belső udvara",
+            "tip": "Egy eldugott hely, ahol egy pillanatra elmenekülhet a város zaja elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Mleczna folyó partja",
+            "tip": "Keressen egy padot a folyóparton egy békés természeti pillanathoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszki",
+            "tip": "Un parc mare, vechi, ideal pentru o plimbare liniștită sub copaci.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Bernardine",
+            "tip": "Un loc retras pentru a scăpa de zgomotul orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Mleczna",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment pașnic în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszki Park",
+            "tip": "A large, old park ideal for a quiet walk under the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Inner courtyard of the Bernardine Monastery",
+            "tip": "A secluded spot to escape the city noise for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Mleczna River",
+            "tip": "Find a bench by the riverside for a peaceful moment in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Żeromski-Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Ein modernes Einkaufszentrum für ein umfassendes Einkaufserlebnis, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Souvenirs im Malczewski-Museum",
+            "tip": "Der Museumsshop bietet Kunstdrucke und Bücher, die mit dem lokalen Erbe verbunden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żeromski utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Modern bevásárlóközpont egy átfogó vásárlási élményért, kissé a központon kívül."
+          },
+          {
+            "name": "Ajándéktárgyak a Malczewski Múzeumban",
+            "tip": "A múzeumi bolt a helyi örökséghez kapcsolódó művészeti nyomatokat és könyveket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Żeromski",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Un centru comercial modern pentru o experiență completă de cumpărături, puțin în afara centrului."
+          },
+          {
+            "name": "Suveniruri la Muzeul Malczewski",
+            "tip": "Magazinul muzeului oferă printuri de artă și cărți legate de patrimoniul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żeromski Street",
+            "tip": "The main shopping street with a mix of local boutiques and well-known brands."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "A modern shopping mall for a comprehensive shopping experience, slightly outside the center."
+          },
+          {
+            "name": "Souvenirs at the Malczewski Museum",
+            "tip": "The museum shop offers art prints and books related to the local heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit für das Malczewski-Museum ein; es ist größer als es scheint.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da diese für Gottesdienste geschlossen sein können.",
+          "Ein leichter Regenmantel ist immer eine gute Idee, da das Wetter in Polen unvorhersehbar sein kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A belváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Szánjon több időt a Malczewski Múzeumra; nagyobb, mint amilyennek látszik.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel istentiszteletek miatt zárva lehetnek.",
+          "Egy könnyű esőkabát mindig jó ötlet, mivel a lengyelországi időjárás kiszámíthatatlan lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru Muzeul Malczewski; este mai mare decât pare.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea pot fi închise pentru slujbe.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună, deoarece vremea în Polonia poate fi imprevizibilă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most attractions in the city center are easily within walking distance.",
+          "Allow extra time for the Malczewski Museum; it's larger than it appears.",
+          "Check the opening hours for churches, as they may be closed for services.",
+          "A light raincoat is always a good idea as Polish weather can be unpredictable."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            21.1475,
+            51.4025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a biciklit és fedezze fel a teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața pe jos.",
+            "en": "Park your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Żeromski-Straße",
+            "hu": "Żeromski utca",
+            "ro": "Strada Żeromski",
+            "en": "Żeromski Street"
+          },
+          "coords": [
+            21.145,
+            51.403
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radfahren ist hier erlaubt, aber passen Sie auf Fußgänger auf. Ideal für eine Kaffeepause.",
+            "hu": "A kerékpározás megengedett, de figyeljen a gyalogosokra. Ideális egy kávészünetre.",
+            "ro": "Ciclismul este permis aici, dar aveți grijă la pietoni. Ideal pentru o pauză de cafea.",
+            "en": "Cycling is permitted here, but watch out for pedestrians. Ideal for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Schutzbringenden Jungfrau Maria",
+            "hu": "Oltalmazó Szűz Mária-székesegyház",
+            "ro": "Catedrala Sfânta Fecioară Maria",
+            "en": "Cathedral of the Protection of the Virgin Mary"
+          },
+          "coords": [
+            21.151,
+            51.404
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die beeindruckende Kathedrale betreten.",
+            "hu": "Gondosan zárja le a kerékpárt, mielőtt belép a lenyűgöző székesegyházba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în catedrala impresionantă.",
+            "en": "Lock your bike securely before entering the impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Bernhardinerkloster und Kirche",
+            "hu": "Bernát-kolostor és templom",
+            "ro": "Mănăstirea și Biserica Bernardină",
+            "en": "Bernardine Monastery and Church"
+          },
+          "coords": [
+            21.153,
+            51.4
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour vom Stadtzentrum zu diesem friedlichen Ort.",
+            "hu": "Kellemes biciklitúra a városközpontból ehhez a békés helyhez.",
+            "ro": "O plimbare plăcută cu bicicleta din centrul orașului până la acest loc pașnic.",
+            "en": "A pleasant bike ride from the city center to this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Malczewski-Museum",
+            "hu": "Malczewski Múzeum",
+            "ro": "Muzeul Malczewski",
+            "en": "Malczewski Museum"
+          },
+          "coords": [
+            21.1465,
+            51.4015
+          ],
+          "category": "museums",
+          "arrive_at": "12:39",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihr Mittagessen in der Nähe, nach dem Kunstgenuss.",
+            "hu": "Tervezze ide a közeli ebédjét a művészeti élmény után.",
+            "ro": "Planificați-vă prânzul în apropiere aici, după ce vă bucurați de artă.",
+            "en": "Plan your lunch nearby here after enjoying the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Radom-Dorf-Museum (Skansen)",
+            "hu": "Radomi Falumúzeum (Skanzen)",
+            "ro": "Muzeul Satului Radom (Skansen)",
+            "en": "Radom Village Museum (Skansen)"
+          },
+          "coords": [
+            21.195,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist eine großartige Möglichkeit, die Landschaft zu sehen. Planen Sie viel Zeit für die Erkundung ein.",
+            "hu": "A biciklitúra ide remek lehetőség a táj megtekintésére. Tervezzen sok időt a felfedezésre.",
+            "ro": "Plimbarea cu bicicleta aici este o modalitate excelentă de a vedea peisajul rural. Alocați mult timp pentru explorare.",
+            "en": "The bike ride out here is a great way to see the countryside. Allow plenty of time for exploring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Marktplatz von Radom. Die morgendliche Route führt Sie durch das Herz der Stadt, entlang der belebten Żeromski-Straße und hinauf zur prächtigen Kathedrale. Die Flexibilität des Fahrrads ermöglicht es Ihnen, die architektonischen Details aus nächster Nähe zu betrachten und schnell zwischen den Sehenswürdigkeiten zu wechseln.\n\nZur Mittagszeit, nach dem Besuch des ruhigen Bernhardinerklosters, radeln Sie zurück ins Zentrum zum Malczewski-Museum. Nachdem Sie in die Welt der Kunst eingetaucht sind, ist es Zeit für eine wohlverdiente Pause. Die Gegend um das Museum bietet viele Möglichkeiten für ein authentisches polnisches Mittagessen, um neue Energie zu tanken.\n\nDer Nachmittag ist einem Abenteuer gewidmet. Eine längere, aber lohnende Radtour führt Sie aus der Stadt hinaus zum Radom-Dorf-Museum. Dieser Skansen ist eine Zeitreise in die ländliche Vergangenheit Polens. Radeln Sie zwischen den historischen Gebäuden und genießen Sie die frische Luft und die offene Landschaft.\n\nWenn der Tag zu Ende geht, führt Sie eine gemütliche Fahrt zurück in die Stadt. Diese Fahrradtour bietet eine perfekte Mischung aus städtischer Kultur, Kunstgeschichte und ländlichem Charme und zeigt die Vielfalt, die Radom und seine Umgebung zu bieten haben.",
+        "hu": "Pattanjon biciklire, és induljon a radomi Piactérről. A reggeli útvonal a város szívén vezet keresztül, a nyüzsgő Żeromski utcán és fel a csodálatos székesegyházhoz. A kerékpár rugalmassága lehetővé teszi, hogy közelről szemlélje meg az építészeti részleteket, és gyorsan váltson a látnivalók között.\n\nEbédidőben, a csendes Bernát-kolostor meglátogatása után, tekerjen vissza a központba a Malczewski Múzeumhoz. Miután elmerült a művészet világában, itt az ideje egy jól megérdemelt pihenőnek. A múzeum környéke számos lehetőséget kínál egy autentikus lengyel ebédre, hogy feltöltődjön energiával.\n\nDélután egy kaland vár. Egy hosszabb, de megérő kerékpártúra vezet ki a városból a Radomi Falumúzeumhoz. Ez a skanzen egy időutazás Lengyelország vidéki múltjába. Kerékpározzon a történelmi épületek között, és élvezze a friss levegőt és a nyílt tájat.\n\nAhogy a nap a végéhez közeledik, egy kellemes tekerés vezet vissza a városba. Ez a kerékpártúra a városi kultúra, a művészettörténet és a vidéki báj tökéletes keverékét kínálja, bemutatva Radom és környékének sokszínűségét.",
+        "ro": "Urcă-te pe bicicletă și pornește din Piața Centrală a Radomului. Traseul de dimineață te poartă prin inima orașului, de-a lungul vibrantei străzi Żeromski și până la magnifica Catedrală. Flexibilitatea bicicletei îți permite să admiri detaliile arhitecturale de aproape și să te deplasezi rapid între obiective.\n\nLa prânz, după ce ai vizitat liniștita Mănăstire Bernardină, pedalezi înapoi în centru la Muzeul Malczewski. După ce te-ai cufundat în lumea artei, este timpul pentru o pauză binemeritată. Zona din jurul muzeului oferă multe opțiuni pentru un prânz polonez autentic pentru a-ți reîncărca bateriile.\n\nDupă-amiaza este dedicată unei aventuri. O plimbare mai lungă, dar plină de satisfacții, te scoate din oraș la Muzeul Satului Radom. Acest skansen este o călătorie în timp în trecutul rural al Poloniei. Pedalează printre clădirile istorice și bucură-te de aerul curat și de peisajul deschis.\n\nPe măsură ce ziua se apropie de sfârșit, o plimbare relaxantă te aduce înapoi în oraș. Acest tur cu bicicleta oferă un amestec perfect de cultură urbană, istoria artei și farmec rural, prezentând diversitatea pe care Radom și împrejurimile sale o au de oferit.",
+        "en": "Hop on your bike and start from Radom's Market Square. The morning route takes you through the heart of the city, along the vibrant Żeromski Street and up to the magnificent Cathedral. The flexibility of the bike allows you to admire architectural details up close and move quickly between sights.\n\nAt lunchtime, after visiting the peaceful Bernardine Monastery, you'll cycle back to the center to the Malczewski Museum. After immersing yourself in the world of art, it's time for a well-deserved break. The area around the museum offers many options for an authentic Polish lunch to recharge.\n\nThe afternoon is dedicated to an adventure. A longer but rewarding bike ride takes you out of the city to the Radom Village Museum. This open-air skansen is a journey back in time to Poland's rural past. Cycle among the historic buildings and enjoy the fresh air and open landscape.\n\nAs the day draws to a close, a leisurely ride brings you back to the city. This bike tour offers a perfect blend of urban culture, art history, and rural charm, showcasing the diversity that Radom and its surroundings have to offer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' (mit Kartoffeln und Käse)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Bekannt für ihre elegante Interpretation der polnischen Küche in der Nähe des Theaters."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t (burgonyával és túróval)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "A színház közelében található, a lengyel konyha elegáns értelmezéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute clasice, în special cele 'ruskie' (cu cartofi și brânză)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Cunoscut pentru interpretarea sa elegantă a bucătăriei poloneze, situat lângă teatru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings, especially the 'ruskie' (with potatoes and cheese)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Known for its elegant interpretation of Polish cuisine, located near the theatre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Kościuszki",
+            "tip": "Ein großer, alter Park, ideal für einen ruhigen Spaziergang unter Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innerer Hof des Bernhardinerklosters",
+            "tip": "Ein abgeschiedener Ort, um dem Stadtlärm für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Mleczna",
+            "tip": "Finden Sie eine Bank am Flussufer für einen friedlichen Moment in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Egy nagy, régi park, ideális egy csendes sétához a fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Bernát-kolostor belső udvara",
+            "tip": "Egy eldugott hely, ahol egy pillanatra elmenekülhet a város zaja elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Mleczna folyó partja",
+            "tip": "Keressen egy padot a folyóparton egy békés természeti pillanathoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszki",
+            "tip": "Un parc mare, vechi, ideal pentru o plimbare liniștită sub copaci.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Bernardine",
+            "tip": "Un loc retras pentru a scăpa de zgomotul orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Mleczna",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment pașnic în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszki Park",
+            "tip": "A large, old park ideal for a quiet walk under the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Inner courtyard of the Bernardine Monastery",
+            "tip": "A secluded spot to escape the city noise for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Mleczna River",
+            "tip": "Find a bench by the riverside for a peaceful moment in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Żeromski-Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Ein modernes Einkaufszentrum für ein umfassendes Einkaufserlebnis, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Souvenirs im Malczewski-Museum",
+            "tip": "Der Museumsshop bietet Kunstdrucke und Bücher, die mit dem lokalen Erbe verbunden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żeromski utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Modern bevásárlóközpont egy átfogó vásárlási élményért, kissé a központon kívül."
+          },
+          {
+            "name": "Ajándéktárgyak a Malczewski Múzeumban",
+            "tip": "A múzeumi bolt a helyi örökséghez kapcsolódó művészeti nyomatokat és könyveket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Żeromski",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Un centru comercial modern pentru o experiență completă de cumpărături, puțin în afara centrului."
+          },
+          {
+            "name": "Suveniruri la Muzeul Malczewski",
+            "tip": "Magazinul muzeului oferă printuri de artă și cărți legate de patrimoniul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żeromski Street",
+            "tip": "The main shopping street with a mix of local boutiques and well-known brands."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "A modern shopping mall for a comprehensive shopping experience, slightly outside the center."
+          },
+          {
+            "name": "Souvenirs at the Malczewski Museum",
+            "tip": "The museum shop offers art prints and books related to the local heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Radom ist relativ flach, was das Radfahren angenehm macht.",
+          "Achten Sie darauf, Ihr Fahrrad an ausgewiesenen Plätzen sicher abzuschließen.",
+          "Einige Fußgängerzonen sind möglicherweise für Radfahrer gesperrt; steigen Sie in diesen Bereichen ab.",
+          "Die Radtour zum Dorf-Museum ist schön, aber überprüfen Sie die Route im Voraus auf Radwege.",
+          "Nehmen Sie eine Flasche Wasser mit, besonders für die längere Fahrt am Nachmittag."
+        ],
+        "hu": [
+          "Radom viszonylag sík, ami kellemessé teszi a kerékpározást.",
+          "Ügyeljen arra, hogy a kerékpárt a kijelölt helyeken biztonságosan lezárja.",
+          "Néhány sétálóutca le lehet zárva a kerékpárosok elől; ezeken a területeken szálljon le.",
+          "A Falumúzeumba vezető kerékpártúra szép, de előzetesen ellenőrizze az útvonalat a kerékpárutak miatt.",
+          "Vigyen magával egy üveg vizet, különösen a délutáni hosszabb útra."
+        ],
+        "ro": [
+          "Radom este relativ plat, ceea ce face ciclismul plăcut.",
+          "Asigurați-vă că vă legați bicicleta în siguranță în zonele desemnate.",
+          "Unele zone pietonale pot fi interzise bicicletelor; descălecați în aceste zone.",
+          "Plimbarea cu bicicleta la Muzeul Satului este frumoasă, dar verificați în prealabil traseul pentru piste de biciclete.",
+          "Luați o sticlă de apă, mai ales pentru plimbarea mai lungă de după-amiază."
+        ],
+        "en": [
+          "Radom is relatively flat, which makes for pleasant cycling.",
+          "Be sure to lock your bike securely in designated areas.",
+          "Some pedestrian zones may be off-limits to cyclists; dismount in these areas.",
+          "The ride to the Village Museum is nice, but check the route for bike paths beforehand.",
+          "Bring a bottle of water, especially for the longer ride in the afternoon."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Marktplatz",
+            "hu": "Parkoló a Piactérnél",
+            "ro": "Parcare lângă Piața Centrală",
+            "en": "Parking near Market Square"
+          },
+          "coords": [
+            21.149,
+            51.403
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist ein guter Ausgangspunkt für den ersten Cluster.",
+            "hu": "Parkoljon itt a délelőttre. Jó kiindulópont az első fürthöz.",
+            "ro": "Parcați aici pentru dimineață. Este un bun punct de plecare pentru primul cluster.",
+            "en": "Park here for the morning. It's a good starting point for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            21.1475,
+            51.4025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:19",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs, nur wenige Schritte vom Parkplatz entfernt.",
+            "hu": "A séta első állomása, csak pár lépésre a parkolótól.",
+            "ro": "Prima oprire a plimbării dvs., la doar câțiva pași de parcare.",
+            "en": "The first stop on your walking tour, just a few steps from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-Kirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            21.1488,
+            51.4018
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz führt Sie zu diesem gotischen Juwel.",
+            "hu": "Egy rövid séta a térről elvezeti ehhez a gótikus gyöngyszemhez.",
+            "ro": "O scurtă plimbare din piață vă duce la această bijuterie gotică.",
+            "en": "A short walk from the square takes you to this Gothic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Malczewski-Museum",
+            "hu": "Malczewski Múzeum",
+            "ro": "Muzeul Malczewski",
+            "en": "Malczewski Museum"
+          },
+          "coords": [
+            21.1465,
+            51.4015
+          ],
+          "category": "museums",
+          "arrive_at": "10:36",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Highlight des Vormittags. Planen Sie hier ein, um sich in der Kunst zu verlieren.",
+            "hu": "A délelőtt fénypontja. Tervezze úgy, hogy elmerülhessen a művészetben.",
+            "ro": "Punctul culminant al dimineții. Planificați să vă pierdeți în artă aici.",
+            "en": "The highlight of the morning. Plan to lose yourself in art here."
+          }
+        },
+        {
+          "name": {
+            "de": "Radom-Dorf-Museum (Skansen)",
+            "hu": "Radomi Falumúzeum (Skanzen)",
+            "ro": "Muzeul Satului Radom (Skansen)",
+            "en": "Radom Village Museum (Skansen)"
+          },
+          "coords": [
+            21.195,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "12:47",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Hier gibt es viel zu sehen, also nehmen Sie sich Zeit. Es gibt auch ein Restaurant vor Ort.",
+            "hu": "Vezessen a második fürthöz. Itt sok a látnivaló, szánjon rá időt. Helyben étterem is található.",
+            "ro": "Conduceți la al doilea cluster. Există multe de văzut aici, așa că nu vă grăbiți. Există și un restaurant la fața locului.",
+            "en": "Drive to the second cluster. There's a lot to see here, so take your time. There is also a restaurant on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Bernhardinerkloster",
+            "hu": "Székesegyház és Bernát-kolostor",
+            "ro": "Catedrala și Mănăstirea Bernardină",
+            "en": "Cathedral and Bernardine Monastery"
+          },
+          "coords": [
+            21.152,
+            51.402
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:17",
+          "stay_min": 95,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der letzte Stopp. Parken Sie in der Nähe und besuchen Sie beide heiligen Stätten, die nahe beieinander liegen.",
+            "hu": "Az utolsó megálló. Parkoljon a közelben, és látogassa meg mindkét szent helyet, közel vannak egymáshoz.",
+            "ro": "Ultima oprire. Parcați în apropiere și vizitați ambele lăcașuri sfinte, care sunt apropiate.",
+            "en": "The final stop. Park nearby and visit both holy sites, which are close to each other."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Radom beginnt mit dem Parken im Herzen der Stadt. Der erste Cluster konzentriert sich auf das historische Zentrum. Sie erkunden zu Fuß den Marktplatz, die St.-Johannes-Kirche und tauchen tief in die Kunst im Malczewski-Museum ein. Dieser Vormittagsspaziergang gibt Ihnen ein Gefühl für den Puls der Altstadt.\n\nNachdem Sie die Kunst und Geschichte aufgesogen haben, steigen Sie wieder ins Auto. Es ist Zeit für einen Szenenwechsel. Die Fahrt führt Sie zum weitläufigen Radom-Dorf-Museum am Stadtrand. Hier verbringen Sie den Mittag und den frühen Nachmittag, wandern zwischen historischen Holzbauten und erleben das ländliche Polen vergangener Zeiten. Es ist eine erfrischende Flucht aus dem städtischen Umfeld.\n\nAm späten Nachmittag kehren Sie mit dem Auto in die Stadt zurück, aber zu einem anderen Viertel. Der letzte Cluster des Tages ist den großen Sakralbauten gewidmet. Sie parken in der Nähe der imposanten neugotischen Kathedrale und des ruhigen Bernhardinerklosters. Ein kurzer Spaziergang verbindet diese beiden Orte der Ruhe und des Glaubens.\n\nDieser auto-gestützte Plan kombiniert die Bequemlichkeit des Fahrens zwischen Clustern mit der Freude am Entdecken zu Fuß. Er ermöglicht es Ihnen, sowohl das kompakte historische Zentrum als auch die weitläufigeren Attraktionen am Rande von Radom effizient und entspannt zu erleben.",
+        "hu": "Az autós nap Radomban a város szívében való parkolással kezdődik. Az első klaszter a történelmi központra fókuszál. Gyalog fedezi fel a Piacteret, a Szent János-templomot, és mélyen elmerül a művészetben a Malczewski Múzeumban. Ez a délelőtti séta átadja az óváros lüktetését.\n\nMiután magába szívta a művészetet és a történelmet, visszaül az autóba. Ideje a helyszínváltásnak. Az út a város szélén található tágas Radomi Falumúzeumhoz vezet. Itt tölti az ebédet és a kora délutánt, sétálva a történelmi faépületek között, és megtapasztalva a múlt vidéki Lengyelországát. Frissítő menekülés a városi környezetből.\n\nKéső délután autóval tér vissza a városba, de egy másik negyedbe. A nap utolsó klasztere a nagy szakrális épületeknek van szentelve. Az impozáns neogótikus székesegyház és a csendes Bernát-kolostor közelében parkol. Egy rövid séta köti össze ezt a két, nyugalmat és hitet sugárzó helyet.\n\nEz az autós terv ötvözi a klaszterek közötti kényelmes közlekedést a gyalogos felfedezés örömével. Lehetővé teszi, hogy hatékonyan és nyugodtan tapasztalja meg mind a kompakt történelmi központot, mind a Radom szélén található tágasabb látnivalókat.",
+        "ro": "Ziua ta cu mașina în Radom începe parcând în inima orașului. Primul cluster se concentrează pe centrul istoric. Explorezi pe jos Piața, Biserica Sf. Ioan și te adâncești în artă la Muzeul Malczewski. Această plimbare de dimineață îți oferă o senzație a pulsului orașului vechi.\n\nDupă ce ai absorbit arta și istoria, te urci din nou în mașină. E timpul pentru o schimbare de decor. Drumul te duce la vastul Muzeu al Satului Radom, la periferia orașului. Aici îți petreci prânzul și începutul după-amiezii, plimbându-te printre clădiri istorice din lemn și experimentând Polonia rurală de altădată. Este o evadare revigorantă din mediul urban.\n\nSpre sfârșitul după-amiezii, te întorci în oraș cu mașina, dar într-un alt cartier. Ultimul cluster al zilei este dedicat marilor edificii sacre. Parchezi lângă impunătoarea Catedrală neo-gotică și liniștita Mănăstire Bernardină. O scurtă plimbare leagă aceste două locuri de pace și credință.\n\nAcest plan asistat de mașină combină comoditatea condusului între clustere cu bucuria explorării pe jos. Îți permite să experimentezi eficient și relaxat atât centrul istoric compact, cât și atracțiile mai extinse de la marginea Radomului.",
+        "en": "Your car-based day in Radom begins by parking in the heart of the city. The first cluster focuses on the historic center. You'll explore the Market Square and St. John's Church on foot, and dive deep into art at the Malczewski Museum. This morning walk gives you a feel for the pulse of the old town.\n\nAfter soaking up the art and history, you get back in the car. It's time for a change of scenery. The drive takes you to the expansive Radom Village Museum on the outskirts. Here you'll spend midday and early afternoon, wandering among historic wooden buildings and experiencing the rural Poland of yesteryear. It's a refreshing escape from the urban environment.\n\nIn the late afternoon, you return to the city by car, but to a different district. The day's final cluster is dedicated to the grand sacred buildings. You park near the imposing neo-Gothic Cathedral and the tranquil Bernardine Monastery. A short walk connects these two sites of peace and faith.\n\nThis car-assisted plan combines the convenience of driving between clusters with the joy of discovering on foot. It allows you to experience both the compact historic center and the more sprawling attractions on the edge of Radom efficiently and in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' (mit Kartoffeln und Käse)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Karczma w Skansenie",
+            "tip": "Essen Sie im Restaurant des Dorf-Museums für ein authentisches, rustikales Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t (burgonyával és túróval)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Karczma a Skanzenben",
+            "tip": "Egyen a Falumúzeum éttermében egy autentikus, rusztikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute clasice, în special cele 'ruskie' (cu cartofi și brânză)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Karczma w Skansenie",
+            "tip": "Mâncați la restaurantul de la Muzeul Satului pentru o experiență autentică, rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings, especially the 'ruskie' (with potatoes and cheese)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Karczma w Skansenie",
+            "tip": "Eat at the Village Museum's restaurant for an authentic, rustic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radom-Dorf-Museum",
+            "tip": "Die Weitläufigkeit des Geländes bietet viele ruhige Ecken zwischen den alten Gebäuden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innerer Hof des Bernhardinerklosters",
+            "tip": "Ein abgeschiedener Ort, um dem Stadtlärm für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park Stary Ogród",
+            "tip": "Ein weiterer schöner Park, den Sie auf dem Weg zum oder vom Stadtzentrum passieren können.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radomi Falumúzeum",
+            "tip": "A terület tágassága sok csendes zugot kínál a régi épületek között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Bernát-kolostor belső udvara",
+            "tip": "Egy eldugott hely, ahol egy pillanatra elmenekülhet a város zaja elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stary Ogród Park",
+            "tip": "Egy másik szép park, amelyen áthaladhat a városközpont felé vagy onnan visszafelé.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Satului Radom",
+            "tip": "Întinderea terenului oferă multe colțuri liniștite printre clădirile vechi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Bernardine",
+            "tip": "Un loc retras pentru a scăpa de zgomotul orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Stary Ogród",
+            "tip": "Un alt parc frumos pe care îl puteți traversa în drum spre sau dinspre centrul orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Radom Village Museum",
+            "tip": "The vastness of the grounds offers many quiet corners among the old buildings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inner courtyard of the Bernardine Monastery",
+            "tip": "A secluded spot to escape the city noise for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stary Ogród Park",
+            "tip": "Another lovely park you might pass on your way to or from the city center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Żeromski-Straße",
+            "tip": "Besuchen Sie die Geschäfte hier während Ihres Spaziergangs am Vormittag."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Mit dem Auto leicht zu erreichen, wenn Sie ein umfassendes Einkaufserlebnis suchen."
+          },
+          {
+            "name": "Handwerk im Dorf-Museum",
+            "tip": "Der Laden im Skansen verkauft oft einzigartige, handgefertigte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żeromski utca",
+            "tip": "Látogassa meg az itteni üzleteket a délelőtti séta során."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Autóval könnyen megközelíthető, ha átfogó vásárlási élményre vágyik."
+          },
+          {
+            "name": "Kézműves termékek a Falumúzeumban",
+            "tip": "A skanzen boltja gyakran árul egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Żeromski",
+            "tip": "Vizitați magazinele de aici în timpul plimbării de dimineață."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Ușor de ajuns cu mașina dacă doriți o experiență completă de cumpărături."
+          },
+          {
+            "name": "Artizanat la Muzeul Satului",
+            "tip": "Magazinul de la skansen vinde adesea suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żeromski Street",
+            "tip": "Visit the shops here during your morning walking tour."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Easily accessible by car if you're looking for a full shopping mall experience."
+          },
+          {
+            "name": "Crafts at the Village Museum",
+            "tip": "The shop at the skansen often sells unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann gebührenpflichtig sein; halten Sie Münzen bereit.",
+          "Nutzen Sie eine GPS-App, um zwischen den Clustern zu navigieren, insbesondere zum Dorf-Museum.",
+          "Überprüfen Sie die Öffnungszeiten des Dorf-Museums, da diese saisonal variieren können.",
+          "Die Cluster-Strategie spart Parkgebühren und den Stress, für jede Sehenswürdigkeit einen neuen Parkplatz zu finden.",
+          "Bewahren Sie Wertsachen im Auto außer Sichtweite auf, wenn Sie parken."
+        ],
+        "hu": [
+          "A belvárosi parkolás díjköteles lehet; készítsen elő érméket.",
+          "Használjon GPS-alkalmazást a klaszterek közötti navigáláshoz, különösen a Falumúzeumhoz.",
+          "Ellenőrizze a Falumúzeum nyitvatartási idejét, mivel az szezonálisan változhat.",
+          "A klaszterstratégia parkolási díjakat és a minden látnivalóhoz új parkolóhely keresésével járó stresszt takarít meg.",
+          "Parkoláskor az értékeket ne hagyja látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost; aveți la îndemână monede.",
+          "Utilizați o aplicație GPS pentru a naviga între clustere, în special spre Muzeul Satului.",
+          "Verificați orele de deschidere ale Muzeului Satului, deoarece acestea pot varia sezonier.",
+          "Strategia clusterelor economisește taxele de parcare și stresul de a găsi un nou loc pentru fiecare atracție.",
+          "Păstrați obiectele de valoare ascunse în mașină atunci când parcați."
+        ],
+        "en": [
+          "Parking in the city center may require payment; have coins ready.",
+          "Use a GPS app to navigate between clusters, especially to the Village Museum.",
+          "Check the opening hours for the Village Museum as they can be seasonal.",
+          "The cluster strategy saves on parking fees and the stress of finding a new spot for every sight.",
+          "Keep valuables out of sight in your car when parked."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 11.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptbahnhof / Zentrum",
+            "hu": "Érkezés a főpályaudvarra / központba",
+            "ro": "Sosire la Gara Centrală / Centru",
+            "en": "Arrival at Main Station / Center"
+          },
+          "coords": [
+            21.16,
+            51.405
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für die beste Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a legjobb rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru cea mai bună flexibilitate.",
+            "en": "Buy a day pass for public transport for the best flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus und Marktplatz",
+            "hu": "Régi Városháza és Piactér",
+            "ro": "Primăria Veche și Piața Centrală",
+            "en": "Old Town Hall and Market Square"
+          },
+          "coords": [
+            21.1475,
+            51.4025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:21",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang hier nach einer kurzen Busfahrt oder einem Spaziergang vom Bahnhof.",
+            "hu": "Kezdje a sétát itt egy rövid buszozás vagy séta után az állomástól.",
+            "ro": "Începeți plimbarea de aici după o scurtă călătorie cu autobuzul sau o plimbare de la gară.",
+            "en": "Start your walking tour here after a short bus ride or walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Johannes-Kirche und Malczewski-Museum",
+            "hu": "Szent János-templom és Malczewski Múzeum",
+            "ro": "Biserica Sf. Ioan și Muzeul Malczewski",
+            "en": "St. John's Church and Malczewski Museum"
+          },
+          "coords": [
+            21.147,
+            51.4016
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:52",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden liegen nahe beieinander, perfekt für einen kombinierten Besuch.",
+            "hu": "Ez a kettő közel van egymáshoz, tökéletes egy közös látogatáshoz.",
+            "ro": "Aceste două sunt apropiate, perfecte pentru o vizită combinată.",
+            "en": "These two are close together, perfect for a combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Radom-Dorf-Museum (Skansen)",
+            "hu": "Radomi Falumúzeum (Skanzen)",
+            "ro": "Muzeul Satului Radom (Skansen)",
+            "en": "Radom Village Museum (Skansen)"
+          },
+          "coords": [
+            21.195,
+            51.385
+          ],
+          "category": "museums",
+          "arrive_at": "12:57",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt gibt Ihnen einen Einblick in die Vororte von Radom.",
+            "hu": "Vegyen egy buszt a városközpontból. Az utazás bepillantást enged Radom külvárosaiba.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria vă oferă o privire asupra suburbiilor Radomului.",
+            "en": "Take a bus from the city center. The journey gives you a glimpse of Radom's suburbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Schutzbringenden Jungfrau Maria",
+            "hu": "Oltalmazó Szűz Mária-székesegyház",
+            "ro": "Catedrala Sfânta Fecioară Maria",
+            "en": "Cathedral of the Protection of the Virgin Mary"
+          },
+          "coords": [
+            21.151,
+            51.404
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:32",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und steigen Sie in der Nähe dieses Wahrzeichens aus.",
+            "hu": "Buszozzon vissza a központba, és szálljon le ezen nevezetesség közelében.",
+            "ro": "Luați autobuzul înapoi în centru și coborâți lângă acest punct de reper.",
+            "en": "Take the bus back to the center and get off near this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Żeromski-Straße",
+            "hu": "Żeromski utca",
+            "ro": "Strada Żeromski",
+            "en": "Żeromski Street"
+          },
+          "coords": [
+            21.145,
+            51.403
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:38",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang und Abendessen auf der Hauptstraße der Stadt.",
+            "hu": "Zárja a napot egy sétával és vacsorával a város főutcáján.",
+            "ro": "Încheiați ziua cu o plimbare și o cină pe strada principală a orașului.",
+            "en": "End the day with a stroll and dinner on the city's main street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Ankunft im Herzen von Radom, ausgestattet mit einer Tageskarte für den Nahverkehr. Eine kurze Fahrt oder ein Spaziergang bringt Sie zu Ihrem ersten Cluster, dem historischen Marktplatz. Von hier aus erkunden Sie zu Fuß die gotische Kirche und das berühmte Malczewski-Museum, alles in Reichweite und im eigenen Tempo.\n\nZur Mittagszeit beginnt Ihr Abenteuer außerhalb des Zentrums. Sie steigen in einen Bus zum Radom-Dorf-Museum. Die Fahrt selbst ist eine Gelegenheit, die Stadt über ihre touristischen Grenzen hinaus zu sehen. Im Freilichtmuseum angekommen, verbringen Sie Stunden damit, durch die Geschichte zu wandern, bevor Sie für eine späte Mittagspause in der dortigen Karczma einkehren.\n\nNachdem Sie die ländliche Atmosphäre genossen haben, bringt Sie eine weitere Busfahrt zurück in die Hektik der Stadt, aber zu einem neuen Ziel. Sie steigen in der Nähe der monumentalen Kathedrale aus und widmen den späten Nachmittag der Erkundung ihrer Pracht. Der Tag neigt sich dem Ende zu, während Sie zu Fuß zur Żeromski-Straße schlendern.\n\nDer Abend gehört Ihnen, um die Hauptpromenade zu genießen, ein spätes Abendessen zu sich zu nehmen oder Souvenirs zu kaufen. Dieser transit-orientierte Plan zeigt, wie Sie mit öffentlichen Verkehrsmitteln sowohl die zentralen als auch die weiter entfernten Highlights von Radom effektiv verbinden können, was eine umfassende und dennoch entspannte Erkundung ermöglicht.",
+        "hu": "A nap Radom szívébe érkezéssel kezdődik, egy tömegközlekedési napijeggyel felszerelkezve. Egy rövid utazás vagy séta eljuttatja az első klaszterhez, a történelmi Piactérhez. Innen gyalogosan fedezi fel a gótikus templomot és a híres Malczewski Múzeumot, mindent a saját tempójában.\n\nEbédidőben kezdődik a kaland a központon kívül. Felszáll egy buszra a Radomi Falumúzeum felé. Maga az utazás is egy lehetőség, hogy a várost a turisztikai határain túl is megismerje. A skanzenbe érve órákat tölt a történelemben való barangolással, mielőtt egy késői ebédre betérne az ottani karczmába.\n\nMiután élvezte a vidéki hangulatot, egy újabb buszút viszi vissza a város forgatagába, de egy új célponthoz. A monumentális székesegyház közelében száll le, és a késő délutánt annak pompájának felfedezésére szenteli. A nap a végéhez közeledik, miközben a Żeromski utcára sétál.\n\nAz este az Öné, hogy élvezze a fő sétányt, elfogyasszon egy késői vacsorát vagy ajándéktárgyakat vásároljon. Ez a tömegközlekedés-orientált terv megmutatja, hogyan lehet hatékonyan összekapcsolni Radom központi és távolabbi látnivalóit, lehetővé téve egy átfogó, mégis nyugodt felfedezést.",
+        "ro": "Ziua ta începe cu sosirea în inima Radomului, echipat cu un bilet de o zi pentru transportul public. O scurtă călătorie sau plimbare te duce la primul tău cluster, Piața istorică. De aici, explorezi pe jos biserica gotică și faimosul Muzeu Malczewski, toate la îndemână și în ritmul tău.\n\nLa prânz, aventura ta în afara centrului începe. Te urci într-un autobuz spre Muzeul Satului Radom. Călătoria în sine este o oportunitate de a vedea orașul dincolo de granițele sale turistice. Odată ajuns la skansen, petreci ore întregi plimbându-te prin istorie, înainte de a te opri pentru un prânz târziu la karczma de acolo.\n\nDupă ce te-ai bucurat de atmosfera rurală, o altă călătorie cu autobuzul te aduce înapoi în agitația orașului, dar la o nouă destinație. Cobori lângă monumentala Catedrală, dedicând sfârșitul după-amiezii explorării splendorii sale. Ziua se apropie de sfârșit în timp ce te plimbi pe jos spre strada Żeromski.\n\nSeara îți aparține pentru a te bucura de promenada principală, pentru a lua o cină târzie sau pentru a cumpăra suveniruri. Acest plan orientat spre tranzit demonstrează cum poți conecta eficient atât punctele de atracție centrale, cât și cele îndepărtate ale Radomului folosind transportul public, permițând o explorare cuprinzătoare, dar relaxată.",
+        "en": "Your day begins arriving in the heart of Radom, equipped with a public transport day pass. A short ride or walk brings you to your first cluster, the historic Market Square. From here, you explore the Gothic church and the famed Malczewski Museum on foot, all within easy reach and at your own pace.\n\nAt midday, your out-of-center adventure begins. You board a bus bound for the Radom Village Museum. The journey itself is an opportunity to see the city beyond its tourist core. Once at the skansen, you spend hours wandering through history, before stopping for a late lunch at the on-site karczma (inn).\n\nAfter enjoying the rural atmosphere, another bus journey takes you back to the city's bustle, but to a new destination. You alight near the monumental Cathedral, dedicating the late afternoon to exploring its splendor. The day winds down as you stroll on foot towards Żeromski Street.\n\nThe evening is yours to enjoy the main promenade, have a late dinner, or shop for souvenirs. This transit-oriented plan demonstrates how you can effectively connect both the central and outlying highlights of Radom using public transport, allowing for a comprehensive yet relaxed exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' (mit Kartoffeln und Käse)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Bekannt für ihre elegante Interpretation der polnischen Küche in der Nähe des Theaters."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t (burgonyával és túróval)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "A színház közelében található, a lengyel konyha elegáns értelmezéséről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele umplute clasice, în special cele 'ruskie' (cu cartofi și brânză)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă tradițională acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Cunoscut pentru interpretarea sa elegantă a bucătăriei poloneze, situat lângă teatru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic filled dumplings, especially the 'ruskie' (with potatoes and cheese)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Restauracja 'Teatralna'",
+            "tip": "Known for its elegant interpretation of Polish cuisine, located near the theatre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Kościuszki",
+            "tip": "Ein großer, alter Park, ideal für einen ruhigen Spaziergang unter Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innerer Hof des Bernhardinerklosters",
+            "tip": "Ein abgeschiedener Ort, um dem Stadtlärm für einen Moment zu entfliehen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Mleczna",
+            "tip": "Finden Sie eine Bank am Flussufer für einen friedlichen Moment in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kościuszko Park",
+            "tip": "Egy nagy, régi park, ideális egy csendes sétához a fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A Bernát-kolostor belső udvara",
+            "tip": "Egy eldugott hely, ahol egy pillanatra elmenekülhet a város zaja elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Mleczna folyó partja",
+            "tip": "Keressen egy padot a folyóparton egy békés természeti pillanathoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kościuszki",
+            "tip": "Un parc mare, vechi, ideal pentru o plimbare liniștită sub copaci.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea interioară a Mănăstirii Bernardine",
+            "tip": "Un loc retras pentru a scăpa de zgomotul orașului pentru un moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Mleczna",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment pașnic în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kościuszki Park",
+            "tip": "A large, old park ideal for a quiet walk under the trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Inner courtyard of the Bernardine Monastery",
+            "tip": "A secluded spot to escape the city noise for a moment.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Mleczna River",
+            "tip": "Find a bench by the riverside for a peaceful moment in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Żeromski-Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Ein modernes Einkaufszentrum für ein umfassendes Einkaufserlebnis, etwas außerhalb des Zentrums."
+          },
+          {
+            "name": "Souvenirs im Malczewski-Museum",
+            "tip": "Der Museumsshop bietet Kunstdrucke und Bücher, die mit dem lokalen Erbe verbunden sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żeromski utca",
+            "tip": "A fő bevásárlóutca helyi butikok és ismert márkák keverékével."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Modern bevásárlóközpont egy átfogó vásárlási élményért, kissé a központon kívül."
+          },
+          {
+            "name": "Ajándéktárgyak a Malczewski Múzeumban",
+            "tip": "A múzeumi bolt a helyi örökséghez kapcsolódó művészeti nyomatokat és könyveket kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Żeromski",
+            "tip": "Principala stradă comercială cu un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "Un centru comercial modern pentru o experiență completă de cumpărături, puțin în afara centrului."
+          },
+          {
+            "name": "Suveniruri la Muzeul Malczewski",
+            "tip": "Magazinul muzeului oferă printuri de artă și cărți legate de patrimoniul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żeromski Street",
+            "tip": "The main shopping street with a mix of local boutiques and well-known brands."
+          },
+          {
+            "name": "Galeria Słoneczna",
+            "tip": "A modern shopping mall for a comprehensive shopping experience, slightly outside the center."
+          },
+          {
+            "name": "Souvenirs at the Malczewski Museum",
+            "tip": "The museum shop offers art prints and books related to the local heritage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tages- oder 24-Stunden-Karte ist in der Regel die günstigste Option.",
+          "Nutzen Sie eine ÖPNV-App wie 'Jakdojade', um Routen und Fahrpläne in Echtzeit zu prüfen.",
+          "Busse halten möglicherweise nicht automatisch an jeder Haltestelle; drücken Sie den 'Stop'-Knopf.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um eine Strafe zu vermeiden.",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können."
+        ],
+        "hu": [
+          "A napi vagy 24 órás jegy általában a legköltséghatékonyabb megoldás.",
+          "Használjon egy tömegközlekedési alkalmazást, mint a 'Jakdojade', az útvonalak és menetrendek valós idejű ellenőrzéséhez.",
+          "A buszok nem feltétlenül állnak meg minden megállóban; nyomja meg a 'Stop' gombot.",
+          "Érvényesítse a jegyét azonnal felszállás után, hogy elkerülje a büntetést.",
+          "Vegye figyelembe, hogy a buszok sűrűsége este és hétvégén ritkább lehet."
+        ],
+        "ro": [
+          "Un bilet de o zi sau de 24 de ore este de obicei cea mai rentabilă opțiune.",
+          "Utilizați o aplicație de transport public precum 'Jakdojade' pentru a verifica rutele și orarele în timp real.",
+          "Autobuzele s-ar putea să nu oprească automat la fiecare stație; apăsați butonul 'Stop'.",
+          "Validați-vă biletul imediat după urcare pentru a evita o amendă.",
+          "Rețineți că frecvența autobuzelor poate fi mai redusă seara și în weekend."
+        ],
+        "en": [
+          "A day-pass or 24-hour ticket is usually the most cost-effective option.",
+          "Use a public transport app like 'Jakdojade' to check routes and timetables in real time.",
+          "Buses may not stop automatically at every stop; press the 'Stop' button.",
+          "Validate your ticket immediately upon boarding to avoid a fine.",
+          "Be aware that bus frequencies may be lower in the evenings and on weekends."
+        ]
+      }
+    }
+  }
+}

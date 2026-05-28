@@ -1,0 +1,1326 @@
+{
+  "city_id": "norway-kristiansund-cities-v2",
+  "anchor": {
+    "name": "Kristiansund",
+    "coords": [
+      7.73,
+      63.11
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenviertel und Sundbåten-Pier",
+            "hu": "Kikötőnegyed és a Sundbåten móló",
+            "ro": "Cartierul portuar și debarcaderul Sundbåten",
+            "en": "Harbor Quarter and Sundbåten Pier"
+          },
+          "coords": [
+            7.7265,
+            63.1121
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beobachten Sie das Kommen und Gehen der berühmten Hafenfähren.",
+            "hu": "Figyelje a híres kikötői kompok jövés-menését.",
+            "ro": "Urmăriți du-te-vino-ul celebrelor feriboturi din port.",
+            "en": "Watch the coming and going of the famous harbor ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Klippfischmuseum",
+            "hu": "Sózott Tőkehal Múzeum",
+            "ro": "Muzeul Peștelui Uscat și Sărat (Klippfisk)",
+            "en": "Norwegian Clipfish Museum"
+          },
+          "coords": [
+            7.7251,
+            63.1102
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Erfahren Sie alles über die Geschichte, die Kristiansund reich gemacht hat.",
+            "hu": "Tudjon meg mindent a város gazdagságának alapjául szolgáló történetről.",
+            "ro": "Aflați totul despre istoria care a îmbogățit orașul Kristiansund.",
+            "en": "Learn all about the history that made Kristiansund rich."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkelandet Kirche",
+            "hu": "Kirkelandet-templom",
+            "ro": "Biserica Kirkelandet",
+            "en": "Kirkelandet Church"
+          },
+          "coords": [
+            7.7283,
+            63.1115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Bewundern Sie die kühne, moderne Architektur – ein starker Kontrast zur alten Stadt.",
+            "hu": "Csodálja meg a merész, modern építészetet – éles ellentétben a régi várossal.",
+            "ro": "Admirați arhitectura îndrăzneață, modernă - un contrast puternic cu orașul vechi.",
+            "en": "Admire the bold, modern architecture—a strong contrast to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Festiviteten - Kristiansund Oper",
+            "hu": "Festiviteten - Kristiansundi Operaház",
+            "ro": "Festiviteten - Opera din Kristiansund",
+            "en": "Festiviteten - Kristiansund Opera"
+          },
+          "coords": [
+            7.7311,
+            63.1095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Nachmittagsvorstellung oder eine Führung.",
+            "hu": "Nézze meg a műsort, hátha van egy délutáni előadás vagy egy vezetett túra.",
+            "ro": "Verificați programul, poate prindeți o reprezentație de după-amiază sau un tur ghidat.",
+            "en": "Check the schedule; you might catch an afternoon performance or a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Varden Aussichtspunkt",
+            "hu": "Varden kilátó",
+            "ro": "Punctul de belvedere Varden",
+            "en": "Varden Viewpoint"
+          },
+          "coords": [
+            7.735,
+            63.114
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:02",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Der beste Panoramablick über die vier Inseln der Stadt. Perfekt für Fotos.",
+            "hu": "A legjobb panoráma a város négy szigetére. Tökéletes fotókhoz.",
+            "ro": "Cea mai bună vedere panoramică asupra celor patru insule ale orașului. Perfect pentru fotografii.",
+            "en": "The best panoramic view over the city's four islands. Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Innlandet (Altstadt)",
+            "hu": "Innlandet (Óváros)",
+            "ro": "Innlandet (Orașul Vechi)",
+            "en": "Innlandet (Old Town)"
+          },
+          "coords": [
+            7.7225,
+            63.1155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:57",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Spazieren Sie über die Brücke und verlieren Sie sich in den engen Gassen mit bunten Holzhäusern.",
+            "hu": "Sétáljon át a hídon, és vesszen el a szűk utcákban a színes faházak között.",
+            "ro": "Traversați podul și pierdeți-vă pe străduțele înguste cu case colorate din lemn.",
+            "en": "Walk across the bridge and get lost in the narrow streets with colorful wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mellemværftet Werftmuseum",
+            "hu": "Mellemværftet hajógyár-múzeum",
+            "ro": "Muzeul șantierului naval Mellemværftet",
+            "en": "Mellemværftet Shipyard Museum"
+          },
+          "coords": [
+            7.7201,
+            63.1162
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Eine lebendige Werft, auf der noch immer alte Schiffe restauriert werden. Ein Muss für Technikfans.",
+            "hu": "Egy élő hajógyár, ahol még mindig régi hajókat restaurálnak. Kötelező a technika szerelmeseinek.",
+            "ro": "Un șantier naval viu unde încă se restaurează nave vechi. O necesitate pentru fanii tehnologiei.",
+            "en": "A living shipyard where old ships are still being restored. A must for technology fans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am pulsierenden Hafen von Kirkelandet, der Hauptinsel. Am Vormittag tauchen Sie in die Geschichte des Klippfischs ein, der die Stadt geprägt hat, und bewundern die moderne Kirkelandet-Kirche. Nach dem Mittagessen und einem Kulturstopp in der Oper führt ein belebender Spaziergang zum Varden-Turm, von wo aus Sie eine spektakuläre Aussicht genießen. Der Nachmittag ist dem charmanten Innlandet gewidmet, der Altstadt mit ihren engen Gassen und dem historischen Werftmuseum. Ein Tag voller Kontraste zwischen Alt und Neu, Industrie und Idylle.",
+        "hu": "A nap a fő sziget, Kirkelandet nyüzsgő kikötőjében kezdődik. Délelőtt elmerül a várost formáló sózott tőkehal történetében, és megcsodálja a modern Kirkelandet-templomot. Ebéd és egy kulturális megálló után az Operában egy élénkítő séta vezet a Varden-toronyhoz, ahonnan látványos kilátás nyílik. A délután a bájos Innlandeté, az óvárosé, szűk utcáival és történelmi hajógyár-múzeumával. A régi és az új, az ipar és az idill kontrasztjainak napja.",
+        "ro": "Ziua dvs. începe în portul vibrant din Kirkelandet, insula principală. Dimineața vă scufundați în istoria peștelui uscat care a modelat orașul și admirați biserica modernă Kirkelandet. După prânz și o oprire culturală la Operă, o plimbare revigorantă vă duce la Turnul Varden pentru vederi spectaculoase. După-amiaza este dedicată fermecătorului Innlandet, orașul vechi cu străduțele sale înguste și muzeul istoric al șantierului naval. O zi a contrastelor între vechi și nou, industrie și idilă.",
+        "en": "Your day starts at the vibrant harbor of Kirkelandet, the main island. In the morning, you'll dive into the history of the clipfish that shaped the city and admire the modern Kirkelandet Church. After lunch and a cultural stop at the Opera, an invigorating walk takes you up to the Varden tower for spectacular views. The afternoon is dedicated to the charming Innlandet, the old town with its narrow streets and historic shipyard museum. A day of contrasts between old and new, industry and idyll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalao",
+            "tip": "Der lokale Eintopf aus Klippfisch, Tomaten und Kartoffeln. Ein Muss in Kristiansund."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Eine cremige Suppe mit frischem Fisch und Meeresfrüchten aus der Region."
+          },
+          {
+            "name": "Svele",
+            "tip": "Ein dicker, weicher Pfannkuchen, der oft mit Buttercreme und Zucker serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalao",
+            "tip": "Helyi egytálétel sózott tőkehalból, paradicsommal és burgonyával. Kötelező Kristiansundban."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Krémes leves friss helyi halakkal és tenger gyümölcseivel."
+          },
+          {
+            "name": "Svele",
+            "tip": "Vastag, puha palacsinta, gyakran vajkrémmel és cukorral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalao",
+            "tip": "Tocănița locală din pește uscat, roșii și cartofi. O necesitate în Kristiansund."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "O supă cremoasă cu pește proaspăt și fructe de mare din regiune."
+          },
+          {
+            "name": "Svele",
+            "tip": "O clătită groasă și pufoasă, adesea servită cu cremă de unt și zahăr."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalao",
+            "tip": "The local stew made from clipfish, tomatoes, and potatoes. A must-try in Kristiansund."
+          },
+          {
+            "name": "Fish Soup",
+            "tip": "A creamy soup with fresh local fish and seafood."
+          },
+          {
+            "name": "Svele",
+            "tip": "A thick, soft pancake often served with buttercream and sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varden Aussichtspunkt",
+            "tip": "Abseits des Trubels bietet der Turm einen Moment der Ruhe mit weitem Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang auf Innlandet",
+            "tip": "Die alten Straßen sind abseits der Hauptwege sehr friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hafenbänke",
+            "tip": "Finden Sie eine Bank und beobachten Sie einfach das Wasser und die Boote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varden kilátó",
+            "tip": "A nyüzsgéstől távol a torony egy pillanatnyi nyugalmat kínál, messzire nyúló kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta Innlandeten",
+            "tip": "A régi utcák nagyon békések a főbb utaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kikötői padok",
+            "tip": "Keressen egy padot, és csak figyelje a vizet és a hajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Varden",
+            "tip": "Departe de agitație, turnul oferă un moment de liniște cu vederi ample.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe Innlandet",
+            "tip": "Străzile vechi sunt foarte pașnice departe de căile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile din port",
+            "tip": "Găsiți o bancă și priviți pur și simplu apa și bărcile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varden Viewpoint",
+            "tip": "Away from the hustle, the tower offers a moment of peace with expansive views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk on Innlandet",
+            "tip": "The old streets are very peaceful away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Harbor Benches",
+            "tip": "Find a bench and just watch the water and the boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klippfisch",
+            "tip": "Kaufen Sie ein Stück des berühmten getrockneten und gesalzenen Kabeljaus als kulinarisches Souvenir."
+          },
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Suchen Sie in den kleinen Läden auf Innlandet nach handgemachten Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sózott tőkehal (Klippfisk)",
+            "tip": "Vásároljon egy darabot a híres szárított és sózott tőkehalból kulináris szuvenírként."
+          },
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített árukat az Innlandet kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klippfisk",
+            "tip": "Cumpărați o bucată din celebrul cod uscat și sărat ca suvenir culinar."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați produse artizanale în micile magazine de pe Innlandet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Clipfish (Klippfisk)",
+            "tip": "Buy a piece of the famous dried and salted cod as a culinary souvenir."
+          },
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for handmade goods in the small shops on Innlandet."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann, besonders der Weg zum Varden.",
+          "Eine wind- und wasserdichte Jacke ist auch an sonnigen Tagen eine gute Idee, da das Wetter schnell umschlagen kann.",
+          "Die Brücke nach Innlandet ist ein Erlebnis für sich, bleiben Sie kurz stehen für die Aussicht.",
+          "Planen Sie Zeit für ein Mittagessen in einem der Restaurants am Hafen ein, um frischen Fisch zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep dombos lehet, különösen a Vardenhez vezető út.",
+          "Egy szél- és vízálló dzseki még napos napokon is jó ötlet, mivel az időjárás gyorsan változhat.",
+          "Az Innlandetre vezető híd önmagában is élmény, álljon meg egy pillanatra a kilátásért.",
+          "Tervezzen időt egy ebédre a kikötői éttermek egyikében, hogy friss halat élvezhessen."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece terenul poate fi deluros, în special urcarea spre Varden.",
+          "O jachetă rezistentă la vânt și apă este o idee bună chiar și în zilele însorite, deoarece vremea se poate schimba rapid.",
+          "Podul spre Innlandet este o experiență în sine, opriți-vă pentru o clipă pentru a admira priveliștea.",
+          "Planificați timp pentru prânz la unul dintre restaurantele din port pentru a savura pește proaspăt."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly, especially the walk up to Varden.",
+          "A wind and waterproof jacket is a good idea even on sunny days, as the weather can change quickly.",
+          "The bridge to Innlandet is an experience in itself; stop for a moment to take in the view.",
+          "Plan time for lunch at one of the harbor-side restaurants to enjoy fresh fish."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Fahrradverleih am Hafen",
+            "hu": "Indulás: Kerékpárkölcsönző a kikötőben",
+            "ro": "Start: Închiriere de biciclete în port",
+            "en": "Start: Bike Rental at the Harbor"
+          },
+          "coords": [
+            7.727,
+            63.112
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Stellen Sie sicher, dass Ihr Fahrrad Lichter und eine gute Gangschaltung für die Hügel hat.",
+            "hu": "Győződjön meg róla, hogy a kerékpárján van lámpa és jó sebességváltó a dombokhoz.",
+            "ro": "Asigurați-vă că bicicleta are lumini și un schimbător bun pentru dealuri.",
+            "en": "Make sure your bike has lights and a good gear shift for the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordlandet Kirche",
+            "hu": "Nordlandet-templom",
+            "ro": "Biserica Nordlandet",
+            "en": "Nordlandet Church"
+          },
+          "coords": [
+            7.745,
+            63.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Eine beeindruckende Fahrt über die Brücke mit toller Aussicht. Die Kirche selbst ist ein Juwel.",
+            "hu": "Lenyűgöző út a hídon át, nagyszerű kilátással. Maga a templom egy ékszer.",
+            "ro": "O plimbare impresionantă peste pod cu vederi minunate. Biserica în sine este o bijuterie.",
+            "en": "An impressive ride over the bridge with great views. The church itself is a gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Varden Aussichtspunkt",
+            "hu": "Varden kilátó",
+            "ro": "Punctul de belvedere Varden",
+            "en": "Varden Viewpoint"
+          },
+          "coords": [
+            7.735,
+            63.114
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Der Anstieg ist eine kleine Herausforderung, aber die Aussicht belohnt jede Anstrengung.",
+            "hu": "A hegymászás egy kis kihívás, de a kilátás minden erőfeszítést megér.",
+            "ro": "Urcușul este o mică provocare, dar priveliștea răsplătește fiecare efort.",
+            "en": "The climb is a bit of a challenge, but the view rewards every effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkelandet Kirche",
+            "hu": "Kirkelandet-templom",
+            "ro": "Biserica Kirkelandet",
+            "en": "Kirkelandet Church"
+          },
+          "coords": [
+            7.7283,
+            63.1115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit für die Architektur und ein Mittagessen in der Nähe.",
+            "hu": "Tegye le a biciklit, és szánjon időt az építészetre és egy közeli ebédre.",
+            "ro": "Parcați bicicleta și acordați-vă timp pentru arhitectură și un prânz în apropiere.",
+            "en": "Park your bike and take time for the architecture and lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Innlandet & Mellemværftet",
+            "hu": "Innlandet és Mellemværftet",
+            "ro": "Innlandet & Mellemværftet",
+            "en": "Innlandet & Mellemværftet"
+          },
+          "coords": [
+            7.721,
+            63.1158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:21",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Fahren Sie langsam durch die engen Gassen und genießen Sie die Atmosphäre der alten Werft.",
+            "hu": "Tekerjen lassan a szűk utcákon, és élvezze a régi hajógyár hangulatát.",
+            "ro": "Pedalați încet pe străduțele înguste și bucurați-vă de atmosfera vechiului șantier naval.",
+            "en": "Ride slowly through the narrow streets and enjoy the atmosphere of the old shipyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Klippfischmuseum",
+            "hu": "Sózott Tőkehal Múzeum",
+            "ro": "Muzeul Peștelui Uscat și Sărat",
+            "en": "Clipfish Museum"
+          },
+          "coords": [
+            7.7251,
+            63.1102
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 77,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ein passender Abschluss, um die wirtschaftliche Grundlage der Stadt zu verstehen.",
+            "hu": "Megfelelő befejezés a város gazdasági alapjainak megértéséhez.",
+            "ro": "Un final potrivit pentru a înțelege fundamentul economic al orașului.",
+            "en": "A fitting end to understand the city's economic foundation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und erkunden Sie Kristiansund auf zwei Rädern. Die Tour beginnt mit einer Fahrt über die Brücke nach Nordlandet, um die dortige Kirche zu bewundern. Dann geht es bergauf zum Varden, wo Ihre Anstrengung mit einer grandiosen Aussicht belohnt wird. Nach dem Mittagessen im Zentrum von Kirkelandet radeln Sie durch die Zeit, indem Sie die moderne Hauptkirche besuchen und anschließend in die charmante Altstadt von Innlandet mit ihrer lebendigen Werft eintauchen. Die Tour endet mit einem tiefen Einblick in die Klippfisch-Tradition, die alles zusammenhält.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Kristiansundot két keréken. A túra a Nordlandet-szigetre vezető hídon átkeléssel kezdődik, hogy megcsodálja az ottani templomot. Ezután felfelé veszi az irányt a Vardenhez, ahol erőfeszítéseit egy csodálatos kilátás jutalmazza. A Kirkelandet központjában elköltött ebéd után átteker az időn, meglátogatja a modern főtemplomot, majd elmerül Innlandet bájos óvárosában és annak élő hajógyárában. A túra a mindent összetartó sózott tőkehal hagyományainak mély megismerésével zárul.",
+        "ro": "Urcați-vă pe bicicletă și explorați Kristiansund pe două roți. Turul începe cu o plimbare peste pod spre Nordlandet pentru a admira biserica de acolo. Apoi, urcați spre Varden, unde efortul vă este răsplătit cu o priveliște magnifică. După prânz în centrul Kirkelandet, pedalați prin timp vizitând biserica principală modernă și apoi scufundându-vă în fermecătorul oraș vechi Innlandet cu șantierul său naval plin de viață. Turul se încheie cu o incursiune profundă în tradiția peștelui uscat care leagă totul.",
+        "en": "Get on your bike and explore Kristiansund on two wheels. The tour starts with a ride across the bridge to Nordlandet to admire the church there. Then it's uphill to Varden, where your effort is rewarded with a magnificent view. After lunch in the center of Kirkelandet, you'll cycle through time by visiting the modern main church and then diving into the charming old town of Innlandet with its living shipyard. The tour concludes with a deep dive into the clipfish tradition that holds it all together."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smoked Salmon Sandwich",
+            "tip": "Ein leichtes, aber sättigendes Mittagessen, perfekt für eine Radtour."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer der lokalen Brauereien als Belohnung am Ende des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füstölt lazacos szendvics",
+            "tip": "Könnyű, de laktató ebéd, tökéletes egy kerékpártúrához."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a helyi sörfőzdék egyikéből jutalomként a nap végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu somon afumat",
+            "tip": "Un prânz ușor, dar sățios, perfect pentru un tur cu bicicleta."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre berăriile locale ca recompensă la sfârșitul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smoked Salmon Sandwich",
+            "tip": "A light but filling lunch, perfect for a bike tour."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the local breweries as a reward at the end of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer von Nordlandet",
+            "tip": "Nach der Brückenfahrt gibt es ruhige Abschnitte am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Brücke",
+            "tip": "Halten Sie (sicher) an, um den Blick auf das Wasser zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nordlandet partja",
+            "tip": "A hídon való átkelés után csendes szakaszok vannak a víz mellett."
+          },
+          {
+            "name": "Kilátás a hídról",
+            "tip": "Álljon meg (biztonságosan), hogy élvezze a vízre nyíló kilátást."
+          },
+          {
+            "name": "Panorama de pe pod",
+            "tip": "Opriți-vă (în siguranță) pentru a vă bucura de priveliștea apei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul din Nordlandet",
+            "tip": "După traversarea podului, există secțiuni liniștite de-a lungul apei."
+          },
+          {
+            "name": "Panorama de pe pod",
+            "tip": "Opriți-vă (în siguranță) pentru a vă bucura de priveliștea apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nordlandet Shore",
+            "tip": "After the bridge ride, there are quiet sections along the water."
+          },
+          {
+            "name": "View from the bridge",
+            "tip": "Stop (safely) to enjoy the view over the water."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Souvenirs",
+            "tip": "Einige Sportgeschäfte verkaufen lokale Trikots oder Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros ajándéktárgyak",
+            "tip": "Néhány sportbolt helyi mezeket vagy kiegészítőket árul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pentru bicicliști",
+            "tip": "Unele magazine de sport vând tricouri sau accesorii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling Souvenirs",
+            "tip": "Some sports shops sell local jerseys or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist hügelig; ein Fahrrad mit guter Gangschaltung ist unerlässlich.",
+          "Achten Sie auf den Verkehr auf den Brücken, es kann eng werden.",
+          "Planen Sie zusätzliche Zeit für Fotostopps ein, die Aussichten sind es wert.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten immer gut ab."
+        ],
+        "hu": [
+          "A város dombos; elengedhetetlen egy jó sebességváltóval rendelkező kerékpár.",
+          "Vigyázzon a forgalomra a hidakon, szűkös lehet.",
+          "Tervezzen plusz időt a fotómegállókra, a kilátás megéri.",
+          "Mindig zárja le jól a kerékpárját a főbb látnivalóknál."
+        ],
+        "ro": [
+          "Orașul este deluros; o bicicletă cu un schimbător bun este esențială.",
+          "Fiți atenți la trafic pe poduri, poate fi îngust.",
+          "Planificați timp suplimentar pentru opriri foto, priveliștile merită.",
+          "Întotdeauna încuiați-vă bine bicicleta la atracțiile principale."
+        ],
+        "en": [
+          "The city is hilly; a bike with good gears is essential.",
+          "Be mindful of traffic on the bridges, it can be narrow.",
+          "Plan extra time for photo stops; the views are worth it.",
+          "Always lock your bike securely at the main sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Parken auf Kirkelandet",
+            "hu": "A csoport: Parkolás Kirkelandeten",
+            "ro": "Cluster A: Parcare în Kirkelandet",
+            "en": "Cluster A: Parking on Kirkelandet"
+          },
+          "coords": [
+            7.73,
+            63.11
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um die Hauptinsel zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a fő szigetet.",
+            "ro": "Găsiți o parcare centrală pentru a explora insula principală pe jos.",
+            "en": "Find a central parking spot to explore the main island on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkelandet Kirche",
+            "hu": "Kirkelandet-templom",
+            "ro": "Biserica Kirkelandet",
+            "en": "Kirkelandet Church"
+          },
+          "coords": [
+            7.7283,
+            63.1115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum architektonischen Wahrzeichen der Stadt.",
+            "hu": "Rövid séta a parkolótól a város építészeti jelképéhez.",
+            "ro": "O scurtă plimbare de la parcare la reperul arhitectural al orașului.",
+            "en": "A short walk from the parking lot to the city's architectural landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Klippfischmuseum",
+            "hu": "Sózott Tőkehal Múzeum",
+            "ro": "Muzeul Peștelui Uscat și Sărat",
+            "en": "Clipfish Museum"
+          },
+          "coords": [
+            7.7251,
+            63.1102
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Spaziergang zum Museum führt Sie durch das Herz des wiederaufgebauten Stadtzentrums.",
+            "hu": "A múzeumhoz vezető séta az újjáépített városközpont szívén vezet keresztül.",
+            "ro": "Plimbarea spre muzeu vă poartă prin inima centrului reconstruit al orașului.",
+            "en": "The walk to the museum takes you through the heart of the rebuilt city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt & Parken auf Nordlandet",
+            "hu": "B csoport: Autózás és parkolás Nordlandeten",
+            "ro": "Cluster B: Condus și parcare în Nordlandet",
+            "en": "Cluster B: Drive & Park on Nordlandet"
+          },
+          "coords": [
+            7.744,
+            63.117
+          ],
+          "category": "other",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Genießen Sie die Fahrt über die hohe Brücke für eine andere Perspektive.",
+            "hu": "Élvezze az utazást a magas hídon át egy másik perspektíváért.",
+            "ro": "Bucurați-vă de drumul peste podul înalt pentru o altă perspectivă.",
+            "en": "Enjoy the drive over the high bridge for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordlandet Kirche",
+            "hu": "Nordlandet-templom",
+            "ro": "Biserica Nordlandet",
+            "en": "Nordlandet Church"
+          },
+          "coords": [
+            7.745,
+            63.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für die Kirche und einen Spaziergang mit Mittagessen in der Umgebung.",
+            "hu": "Szánjon időt a templomra és egy sétára ebéddel a környéken.",
+            "ro": "Acordați-vă timp pentru biserică și o plimbare cu prânz în zonă.",
+            "en": "Take time for the church and a walk with lunch in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt & Parken auf Innlandet",
+            "hu": "C csoport: Autózás és parkolás Innlandeten",
+            "ro": "Cluster C: Condus și parcare în Innlandet",
+            "en": "Cluster C: Drive & Park on Innlandet"
+          },
+          "coords": [
+            7.723,
+            63.115
+          ],
+          "category": "other",
+          "arrive_at": "14:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Parken Sie am Rande der Altstadt, um die engen Gassen zu Fuß zu erkunden.",
+            "hu": "Parkoljon az óváros szélén, hogy gyalog fedezze fel a szűk utcákat.",
+            "ro": "Parcați la marginea orașului vechi pentru a explora străduțele înguste pe jos.",
+            "en": "Park on the edge of the old town to explore the narrow streets on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mellemværftet & Altstadt-Spaziergang",
+            "hu": "Mellemværftet és séta az óvárosban",
+            "ro": "Mellemværftet și plimbare în orașul vechi",
+            "en": "Mellemværftet & Old Town Walk"
+          },
+          "coords": [
+            7.7201,
+            63.1162
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 190,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Verlieren Sie sich in der Zeit zwischen alten Holzhäusern und der historischen Werft.",
+            "hu": "Vesszen el az időben a régi faházak és a történelmi hajógyár között.",
+            "ro": "Pierdeți-vă în timp printre casele vechi din lemn și șantierul naval istoric.",
+            "en": "Get lost in time between old wooden houses and the historic shipyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Kristiansunds Inseln flexibel. Der Tag beginnt auf Kirkelandet, wo Sie die Hauptattraktionen zu Fuß entdecken. Ein kurzer Spaziergang führt Sie von der modernen Kirche zum Klippfischmuseum. Mittags fahren Sie über die beeindruckende Brücke nach Nordlandet, um dessen Kirche zu besichtigen und die Aussicht zu genießen. Der Nachmittag gehört ganz dem Charme von Innlandet. Sie parken Ihr Auto und tauchen zu Fuß in die Atmosphäre der Altstadt und der historischen Mellemværftet-Werft ein. So kombinieren Sie die Reichweite des Autos mit intensiven Spaziergängen in den schönsten Ecken der Stadt.",
+        "hu": "Autóval rugalmasan fedezheti fel Kristiansund szigeteit. A nap Kirkelandeten kezdődik, ahol gyalogosan fedezi fel a fő látnivalókat. Egy rövid séta vezet a modern templomtól a sózott tőkehal múzeumáig. Délben átkel a lenyűgöző hídon Nordlandetre, hogy megnézze annak templomát és élvezze a kilátást. A délután teljes egészében Innlandet varázsának szentelődik. Leteszi az autót, és gyalogosan merül el az óváros és a történelmi Mellemværftet hajógyár hangulatában. Így ötvözi az autó adta szabadságot az intenzív sétákkal a város legszebb zugaiban.",
+        "ro": "Cu mașina explorați insulele din Kristiansund în mod flexibil. Ziua începe pe Kirkelandet, unde descoperiți principalele atracții pe jos. O scurtă plimbare vă duce de la biserica modernă la muzeul peștelui uscat. La prânz, traversați podul impresionant spre Nordlandet pentru a vizita biserica și a vă bucura de priveliște. După-amiaza este dedicată în întregime farmecului din Innlandet. Parcați mașina și vă cufundați pe jos în atmosfera orașului vechi și a șantierului naval istoric Mellemværftet. Astfel, combinați raza de acțiune a mașinii cu plimbări intense în cele mai frumoase colțuri ale orașului.",
+        "en": "Explore Kristiansund's islands flexibly by car. The day begins on Kirkelandet, where you'll discover the main attractions on foot. A short walk takes you from the modern church to the clipfish museum. At midday, you drive over the impressive bridge to Nordlandet to visit its church and enjoy the view. The afternoon is dedicated entirely to the charm of Innlandet. You park your car and immerse yourself on foot in the atmosphere of the old town and the historic Mellemværftet shipyard. This way, you combine the reach of the car with intense walks in the most beautiful corners of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Meer",
+            "tip": "Nutzen Sie das Auto, um ein abgelegeneres Restaurant mit toller Aussicht zu finden."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Halten Sie für ein frisches 'Skoleboller' (Schulbrötchen) für unterwegs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti étterem",
+            "tip": "Használja az autót, hogy találjon egy eldugottabb éttermet nagyszerű kilátással."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Álljon meg egy friss 'Skoleboller'-re (iskolai zsemle) útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul mării",
+            "tip": "Folosiți mașina pentru a găsi un restaurant mai retras, cu o priveliște superbă."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Opriți-vă pentru un 'Skoleboller' (pâinică școlară) proaspăt pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seaside Restaurant",
+            "tip": "Use the car to find a more remote restaurant with a great view."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Stop for a fresh 'Skoleboller' (school bun) for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt über die Brücken",
+            "tip": "Die Fahrt selbst bietet ruhige Momente mit weitem Blick über das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abgelegene Bucht auf Nordlandet",
+            "tip": "Suchen Sie mit dem Auto eine kleine Bucht für eine private Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a hidakon",
+            "tip": "Maga az utazás csendes pillanatokat kínál, messzire nyúló kilátással a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Elhagyatott öböl Nordlandeten",
+            "tip": "Keressen autóval egy kis öblöt egy privát pihenőre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traversarea podurilor",
+            "tip": "Călătoria în sine oferă momente de liniște cu vederi ample asupra apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golf izolat în Nordlandet",
+            "tip": "Căutați cu mașina un mic golf pentru o pauză privată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive across the bridges",
+            "tip": "The drive itself offers quiet moments with expansive views over the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Secluded cove on Nordlandet",
+            "tip": "Use the car to find a small cove for a private break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Mit dem Auto können Sie leicht Hofläden erreichen, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok a városon kívül",
+            "tip": "Autóval könnyen elérhetők a helyi termékeket árusító farmboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme în afara orașului",
+            "tip": "Cu mașina puteți ajunge ușor la magazinele de la ferme care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "By car, you can easily reach farm shops selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren sind in Norwegen üblich, haben Sie eine Kreditkarte oder App bereit.",
+          "Die Brücken können bei starkem Wind beeindruckend sein, fahren Sie vorsichtig.",
+          "Planen Sie Ihre Cluster: Parken Sie einmal und laufen Sie so viel wie möglich.",
+          "Die Insel Grip ist ein fantastischer Tagesausflug mit der Fähre, wenn Sie einen zusätzlichen Tag haben, aber nicht für diesen Plan."
+        ],
+        "hu": [
+          "A parkolási díjak gyakoriak Norvégiában, legyen kéznél hitelkártya vagy alkalmazás.",
+          "A hidak lenyűgözőek lehetnek erős szélben, vezessen óvatosan.",
+          "Tervezze meg a csoportokat: parkoljon egyszer, és sétáljon, amennyit csak lehetséges.",
+          "A Grip-sziget egy fantasztikus egynapos kirándulás komppal, ha van egy plusz napja, de nem ehhez a tervhez."
+        ],
+        "ro": [
+          "Taxele de parcare sunt obișnuite în Norvegia, aveți la îndemână un card de credit sau o aplicație.",
+          "Podurile pot fi impresionante pe vânt puternic, conduceți cu prudență.",
+          "Planificați-vă clusterele: parcați o dată și mergeți pe jos cât mai mult posibil.",
+          "Insula Grip este o excursie fantastică de o zi cu feribotul dacă aveți o zi în plus, dar nu pentru acest plan."
+        ],
+        "en": [
+          "Parking fees are common in Norway; have a credit card or app ready.",
+          "The bridges can be impressive in strong winds; drive carefully.",
+          "Plan your clusters: park once and walk as much as possible.",
+          "Grip island is a fantastic day trip by ferry if you have an extra day, but not for this itinerary."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Start auf Kirkelandet",
+            "hu": "A csoport: Indulás Kirkelandeten",
+            "ro": "Cluster A: Start pe Kirkelandet",
+            "en": "Cluster A: Start on Kirkelandet"
+          },
+          "coords": [
+            7.728,
+            63.112
+          ],
+          "category": "other",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, in der Nähe des Sundbåten-Piers.",
+            "hu": "Kezdje a napot a város szívében, a Sundbåten móló közelében.",
+            "ro": "Începeți ziua în inima orașului, lângă debarcaderul Sundbåten.",
+            "en": "Start your day in the heart of the city, near the Sundbåten pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Klippfischmuseum",
+            "hu": "Sózott Tőkehal Múzeum",
+            "ro": "Muzeul Peștelui Uscat și Sărat",
+            "en": "Clipfish Museum"
+          },
+          "coords": [
+            7.7251,
+            63.1102
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang, um in die lokale Geschichte einzutauchen.",
+            "hu": "Egy rövid séta, hogy elmerüljön a helyi történelemben.",
+            "ro": "O scurtă plimbare pentru a vă cufunda în istoria locală.",
+            "en": "A short walk to immerse yourself in local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkelandet Kirche",
+            "hu": "Kirkelandet-templom",
+            "ro": "Biserica Kirkelandet",
+            "en": "Kirkelandet Church"
+          },
+          "coords": [
+            7.7283,
+            63.1115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bestaunen Sie die moderne Architektur, bevor Sie den Sundbåten nehmen.",
+            "hu": "Csodálja meg a modern építészetet, mielőtt felszállna a Sundbåtenre.",
+            "ro": "Admirați arhitectura modernă înainte de a lua Sundbåten.",
+            "en": "Marvel at the modern architecture before taking the Sundbåten."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Sundbåten nach Innlandet",
+            "hu": "B csoport: Sundbåten Innlandetre",
+            "ro": "Cluster B: Sundbåten spre Innlandet",
+            "en": "Cluster B: Sundbåten to Innlandet"
+          },
+          "coords": [
+            7.7225,
+            63.1155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Die Fährfahrt ist eine Attraktion für sich. Erkunden Sie dann die Altstadt und essen Sie zu Mittag.",
+            "hu": "A kompút önmagában is látványosság. Ezután fedezze fel az óvárost és ebédeljen.",
+            "ro": "Călătoria cu feribotul este o atracție în sine. Apoi explorați orașul vechi și luați prânzul.",
+            "en": "The ferry ride is an attraction in itself. Then explore the old town and have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mellemværftet Werftmuseum",
+            "hu": "Mellemværftet hajógyár-múzeum",
+            "ro": "Muzeul șantierului naval Mellemværftet",
+            "en": "Mellemværftet Shipyard Museum"
+          },
+          "coords": [
+            7.7201,
+            63.1162
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Anlegestelle Innlandet.",
+            "hu": "Rövid séta az Innlandet mólótól.",
+            "ro": "O scurtă plimbare de la debarcaderul din Innlandet.",
+            "en": "A short walk from the Innlandet pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Sundbåten nach Nordlandet",
+            "hu": "C csoport: Sundbåten Nordlandetre",
+            "ro": "Cluster C: Sundbåten spre Nordlandet",
+            "en": "Cluster C: Sundbåten to Nordlandet"
+          },
+          "coords": [
+            7.745,
+            63.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag mit einer weiteren malerischen Bootsfahrt und dem Besuch der Nordlandet-Kirche.",
+            "hu": "Zárja a napot egy újabb festői hajókirándulással és a Nordlandet-templom meglátogatásával.",
+            "ro": "Încheiați ziua cu o altă plimbare pitorească cu barca și o vizită la Biserica Nordlandet.",
+            "en": "End the day with another scenic boat ride and a visit to the Nordlandet Church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Sundbåten, die älteste öffentliche Verkehrsverbindung der Welt, ist Ihr Schlüssel zur Stadt. Sie starten auf Kirkelandet und erkunden das Klippfischmuseum und die Hauptkirche zu Fuß. Anschließend bringt Sie das Boot nach Innlandet, dem historischen Herzen der Stadt. Nach einem Spaziergang durch die Gassen und einem Besuch der Werft nehmen Sie erneut den Sundbåten, um die Insel Nordlandet und ihre charmante Kirche zu entdecken. Diese Tour ist eine Hommage an die maritime Seele Kristiansunds und verbindet Sightseeing mit unvergesslichen Bootsfahrten.",
+        "hu": "A Sundbåten, a világ legrégebbi tömegközlekedési eszköze, a város kulcsa. Kirkelandeten indul, és gyalogosan fedezi fel a sózott tőkehal múzeumát és a főtemplomot. Ezután a hajó elviszi Önt Innlandetre, a város történelmi szívébe. A sikátorokban tett séta és a hajógyár meglátogatása után ismét a Sundbåtenre száll, hogy felfedezze Nordlandet szigetét és annak bájos templomát. Ez a túra Kristiansund tengeri lelkének tiszteleg, és a városnézést felejthetetlen hajókirándulásokkal ötvözi.",
+        "ro": "Sundbåten, cel mai vechi serviciu de transport public din lume, este cheia dvs. către oraș. Începeți pe Kirkelandet și explorați pe jos muzeul peștelui uscat și biserica principală. Apoi, barca vă duce la Innlandet, inima istorică a orașului. După o plimbare pe alei și o vizită la șantierul naval, luați din nou Sundbåten pentru a descoperi insula Nordlandet și biserica sa fermecătoare. Acest tur este un omagiu adus sufletului maritim al Kristiansundului, combinând vizitarea obiectivelor turistice cu plimbări de neuitat cu barca.",
+        "en": "The Sundbåten, the world's oldest public transport service, is your key to the city. You start on Kirkelandet, exploring the clipfish museum and the main church on foot. Then, the boat takes you to Innlandet, the historical heart of the city. After a walk through the alleys and a visit to the shipyard, you take the Sundbåten again to discover the island of Nordlandet and its charming church. This tour is a tribute to Kristiansund's maritime soul, combining sightseeing with unforgettable boat trips."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café an Bord",
+            "tip": "Genießen Sie einen Kaffee und ein Svele auf dem Sundbåten zwischen den Inseln."
+          },
+          {
+            "name": "Fish & Chips am Pier",
+            "tip": "Ein schneller und leckerer Happen in der Nähe der Anlegestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a fedélzeten",
+            "tip": "Élvezzen egy kávét és egy svele-t a Sundbåtenen a szigetek között."
+          },
+          {
+            "name": "Fish & Chips a mólónál",
+            "tip": "Gyors és finom falat a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea la bord",
+            "tip": "Bucurați-vă de o cafea și un svele pe Sundbåten între insule."
+          },
+          {
+            "name": "Fish & Chips la debarcader",
+            "tip": "O gustare rapidă și delicioasă lângă chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café on board",
+            "tip": "Enjoy a coffee and a svele on the Sundbåten between islands."
+          },
+          {
+            "name": "Fish & Chips at the pier",
+            "tip": "A quick and tasty bite near the piers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf dem Sundbåten",
+            "tip": "Die Fahrt selbst ist eine entspannende Pause mit toller Aussicht.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Bank auf Innlandet",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf Kirkelandet.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sundbåtenen",
+            "tip": "Maga az utazás egy pihentető szünet nagyszerű kilátással.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Pad Innlandeten",
+            "tip": "Keressen egy csendes padot, ahonnan kilátás nyílik Kirkelandetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe Sundbåten",
+            "tip": "Călătoria în sine este o pauză relaxantă cu priveliști minunate.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Bancă pe Innlandet",
+            "tip": "Găsiți o bancă liniștită cu vedere spre Kirkelandet.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the Sundbåten",
+            "tip": "The ride itself is a relaxing break with great views.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Bench on Innlandet",
+            "tip": "Find a quiet bench with a view back to Kirkelandet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sundbåten-Ticket",
+            "tip": "Das Ticket selbst ist ein schönes Souvenir an einen einzigartigen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sundbåten jegy",
+            "tip": "Maga a jegy is szép emlék egy egyedi napról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bilet Sundbåten",
+            "tip": "Biletul în sine este un suvenir frumos al unei zile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sundbåten Ticket",
+            "tip": "The ticket itself is a nice souvenir of a unique day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Sundbåten, um unbegrenzt zwischen den Inseln zu pendeln.",
+          "Überprüfen Sie den Fahrplan, um Ihre Übergänge zu planen, besonders am späten Nachmittag.",
+          "Die Boote fahren häufig, aber eine kurze Wartezeit ist eine gute Gelegenheit für Fotos.",
+          "Der Sundbåten ist nicht nur ein Transportmittel, sondern ein lebendiges Stück Geschichte."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Sundbåtenre, hogy korlátlanul utazhasson a szigetek között.",
+          "Ellenőrizze a menetrendet az átszállások megtervezéséhez, különösen késő délután.",
+          "A hajók gyakran közlekednek, de egy rövid várakozás jó alkalom a fotózásra.",
+          "A Sundbåten nem csak egy közlekedési eszköz, hanem a történelem élő darabja."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru Sundbåten pentru a face naveta nelimitat între insule.",
+          "Verificați orarul pentru a vă planifica transferurile, mai ales după-amiaza târziu.",
+          "Bărcile circulă frecvent, dar o scurtă așteptare este o bună ocazie pentru fotografii.",
+          "Sundbåten nu este doar un mijloc de transport, ci o bucată vie de istorie."
+        ],
+        "en": [
+          "Buy a day pass for the Sundbåten for unlimited hopping between the islands.",
+          "Check the schedule to plan your transitions, especially in the late afternoon.",
+          "The boats run frequently, but a short wait is a good opportunity for photos.",
+          "The Sundbåten is not just transport, but a living piece of history."
+        ]
+      }
+    }
+  }
+}

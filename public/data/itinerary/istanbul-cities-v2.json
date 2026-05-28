@@ -1,0 +1,1202 @@
+{
+  "city_id": "istanbul-cities-v2",
+  "anchor": {
+    "name": "Hagia Sophia",
+    "coords": [
+      41.0082,
+      28.9784
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blaue Moschee",
+            "hu": "Kék Mecset",
+            "ro": "Moscheea Albastră",
+            "en": "Blue Mosque"
+          },
+          "coords": [
+            28.9769,
+            41.0053
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Hagia Sophia",
+            "hu": "Hagia Sophia",
+            "ro": "Hagia Sofia",
+            "en": "Hagia Sophia"
+          },
+          "coords": [
+            28.9799,
+            41.0086
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Basilika-Zisterne",
+            "hu": "Bazilika Ciszterna",
+            "ro": "Cisterna Bazilică",
+            "en": "Basilica Cistern"
+          },
+          "coords": [
+            28.978,
+            41.0084
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Topkapı-Palast",
+            "hu": "Topkapı Palota",
+            "ro": "Palatul Topkapî",
+            "en": "Topkapı Palace"
+          },
+          "coords": [
+            28.9834,
+            41.0116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Großer Basar",
+            "hu": "Nagy Bazár",
+            "ro": "Marele Bazar",
+            "en": "Grand Bazaar"
+          },
+          "coords": [
+            28.9687,
+            41.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Ägyptischer Basar (Gewürzbasar)",
+            "hu": "Egyiptomi Bazár (Fűszerbazár)",
+            "ro": "Bazarul Egiptean (Bazarul de Mirodenii)",
+            "en": "Egyptian Bazaar (Spice Bazaar)"
+          },
+          "coords": [
+            28.9711,
+            41.0163
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1
+        },
+        {
+          "name": {
+            "de": "Süleymaniye-Moschee",
+            "hu": "Szulejmán-mecset",
+            "ro": "Moscheea Süleymaniye",
+            "en": "Süleymaniye Mosque"
+          },
+          "coords": [
+            28.9642,
+            41.0161
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Sultanahmet, wo Sie die Pracht der Blauen Moschee und der Hagia Sophia erleben. Nach der Erkundung der unterirdischen Basilika-Zisterne tauchen Sie mittags in die opulente Welt des Topkapı-Palastes ein. Der Nachmittag ist dem geschäftigen Treiben gewidmet: Verlieren Sie sich in den Gassen des Großen Basars, bevor Sie die duftende Atmosphäre des Gewürzbasars genießen. Der Tag endet mit dem atemberaubenden Panoramablick von der Süleymaniye-Moschee bei Sonnenuntergang, ein perfekter Abschluss.",
+        "hu": "A reggel Sultanahmet szívében indul, a Kék Mecset és a Hagia Sophia pompájának felfedezésével. Az elsüllyedt Bazilika Ciszterna után délben a Topkapı Palota fényűző világába merülhet. A délután a nyüzsgésé: elvész a Nagy Bazár sikátoraiban, majd élvezi a Fűszerbazár illatos légkörét. A nap a Szulejmán-mecset dombjáról nyíló lenyűgöző panorámával zárul naplementekor, ami tökéletes befejezés.",
+        "ro": "Dimineața începe în inima cartierului Sultanahmet, explorând splendoarea Moscheii Albastre și a Hagiei Sofia. După ce vizitați misterioasa Cisternă Bazilică, la prânz vă cufundați în lumea opulentă a Palatului Topkapî. După-amiaza este dedicată agitației: pierdeți-vă pe aleile Marelui Bazar înainte de a savura atmosfera parfumată a Bazarului de Mirodenii. Ziua se încheie cu o panoramă superbă de la Moscheea Süleymaniye la apus, o încheiere perfectă.",
+        "en": "The morning starts in the heart of Sultanahmet, experiencing the grandeur of the Blue Mosque and Hagia Sophia. After exploring the subterranean Basilica Cistern, you'll dive into the opulent world of Topkapı Palace at midday. The afternoon is for bustling energy: get lost in the alleys of the Grand Bazaar before enjoying the fragrant atmosphere of the Spice Bazaar. The day concludes with the stunning panoramic view from the Süleymaniye Mosque at sunset, a perfect ending."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Testi Kebab",
+            "tip": "Ein in einem Tonkrug langsam gegarter Fleischeintopf. Probieren Sie es im 'Old Ottoman Cafe & Restaurant' in der Nähe von Sultanahmet."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Ein gegrilltes Fischsandwich, am besten frisch von den Booten in Eminönü."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Testi Kebab",
+            "tip": "Agyagedényben lassan főtt húsos ragu. Próbálja ki az 'Old Ottoman Cafe & Restaurant'-ban, Sultanahmet közelében."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Grillezett halas szendvics, a legjobb frissen az eminönüi hajókról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Testi Kebab",
+            "tip": "O tocană de carne gătită lent într-un vas de lut. Încercați-l la 'Old Ottoman Cafe & Restaurant' lângă Sultanahmet."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "Un sandviș cu pește la grătar, cel mai bun proaspăt de pe bărcile din Eminönü."
+          }
+        ],
+        "en": [
+          {
+            "name": "Testi Kebab",
+            "tip": "A meat stew slow-cooked in a clay pot. Try it at 'Old Ottoman Cafe & Restaurant' near Sultanahmet."
+          },
+          {
+            "name": "Balık Ekmek",
+            "tip": "A grilled fish sandwich, best enjoyed fresh from the boats at Eminönü."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gülhane Park",
+            "tip": "Ein ruhiger Spaziergang durch die ehemaligen Gärten des Topkapı-Palastes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof der Süleymaniye-Moschee",
+            "tip": "Finden Sie einen ruhigen Moment mit Blick auf das Goldene Horn.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gülhane Park",
+            "tip": "Egy csendes séta a Topkapı Palota egykori kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szulejmán-mecset udvara",
+            "tip": "Találjon egy csendes pillanatot az Aranyszarv-öbölre néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gülhane",
+            "tip": "O plimbare liniștită prin fostele grădini ale Palatului Topkapî.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Moscheii Süleymaniye",
+            "tip": "Găsiți un moment de liniște cu vedere la Cornul de Aur.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gülhane Park",
+            "tip": "A peaceful walk through the former outer gardens of Topkapı Palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Süleymaniye Mosque Courtyard",
+            "tip": "Find a quiet moment overlooking the Golden Horn.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Großer Basar",
+            "tip": "Feilschen Sie um handgefertigte Teppiche, Laternen und Keramik."
+          },
+          {
+            "name": "Ägyptischer Basar",
+            "tip": "Kaufen Sie türkischen Honig (Lokum), Gewürze und Trockenfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagy Bazár",
+            "tip": "Aludjon kézzel készített szőnyegekre, lámpákra és kerámiákra."
+          },
+          {
+            "name": "Egyiptomi Bazár",
+            "tip": "Vásároljon török mézet (lokum), fűszereket és szárított gyümölcsöket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marele Bazar",
+            "tip": "Negociați pentru covoare lucrate manual, felinare și ceramică."
+          },
+          {
+            "name": "Bazarul Egiptean",
+            "tip": "Cumpărați rahat (lokum), mirodenii și fructe uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Bazaar",
+            "tip": "Haggle for handmade carpets, lanterns, and ceramics."
+          },
+          {
+            "name": "Egyptian Bazaar",
+            "tip": "Shop for Turkish delight (lokum), spices, and dried fruits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster anstrengend sein kann.",
+          "Achten Sie beim Besuch von Moscheen auf angemessene Kleidung (Schultern und Knie bedeckt, Frauen benötigen eine Kopfbedeckung).",
+          "Nehmen Sie immer etwas Bargeld für kleine Einkäufe und Toiletten mit.",
+          "Laden Sie eine Offline-Karte herunter, um sich in den verwinkelten Gassen des Basars zurechtzufinden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakövek fárasztóak lehetnek.",
+          "A mecsetek látogatásakor ügyeljen a megfelelő öltözékre (vállak és térdek takarva, nőknek fejkendő).",
+          "Mindig tartson magánál készpénzt apróbb vásárlásokhoz és mosdóhasználathoz.",
+          "Töltsön le egy offline térképet, hogy eligazodjon a bazár kanyargós sikátoraiban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi obositor.",
+          "Respectați codul vestimentar la vizitarea moscheilor (umeri și genunchi acoperiți, femeile au nevoie de eșarfă).",
+          "Aveți întotdeauna numerar la dumneavoastră pentru cumpărături mici și toalete.",
+          "Descărcați o hartă offline pentru a naviga pe aleile întortocheate ale bazarului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be tiring.",
+          "Be mindful of the dress code when visiting mosques (shoulders and knees covered, women need a headscarf).",
+          "Always carry some cash for small purchases and restrooms.",
+          "Download an offline map to help navigate the winding alleys of the bazaar."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hagia Sophia",
+            "hu": "Hagia Sophia",
+            "ro": "Hagia Sofia",
+            "en": "Hagia Sophia"
+          },
+          "coords": [
+            28.9799,
+            41.0086
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Topkapı-Palast Gärten",
+            "hu": "Topkapı Palota Kertjei",
+            "ro": "Grădinile Palatului Topkapî",
+            "en": "Topkapı Palace Gardens"
+          },
+          "coords": [
+            28.9834,
+            41.0116
+          ],
+          "category": "garden",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Eminönü-Platz & Gewürzbasar",
+            "hu": "Eminönü tér és Fűszerbazár",
+            "ro": "Piața Eminönü & Bazarul de Mirodenii",
+            "en": "Eminönü Square & Spice Bazaar"
+          },
+          "coords": [
+            28.9711,
+            41.0163
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Galatabrücke",
+            "hu": "Galata híd",
+            "ro": "Podul Galata",
+            "en": "Galata Bridge"
+          },
+          "coords": [
+            28.9748,
+            41.0191
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Galataturm",
+            "hu": "Galata-torony",
+            "ro": "Turnul Galata",
+            "en": "Galata Tower"
+          },
+          "coords": [
+            28.9744,
+            41.0256
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Chora-Kirche (Kariye-Moschee)",
+            "hu": "Chora-templom (Kariye-mecset)",
+            "ro": "Biserica Chora (Moscheea Kariye)",
+            "en": "Chora Church (Kariye Mosque)"
+          },
+          "coords": [
+            28.9392,
+            41.0313
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 140,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit dem Rad zur Hagia Sophia und genießen Sie die Ruhe der Gärten des Topkapı-Palastes. Mittags fahren Sie hinunter zum lebhaften Eminönü-Platz, überqueren die Galatabrücke mit ihren Anglern und erklimmen den Hügel zum ikonischen Galataturm für eine fantastische Aussicht. Der Nachmittag führt Sie auf eine längere Fahrt in die historischen Viertel Fener und Balat, um die unglaublichen Mosaiken der Chora-Kirche zu bewundern. Beenden Sie den Tag in einem lokalen Café in dieser charmanten Gegend.",
+        "hu": "Indítsa a napot egy biciklizéssel a Hagia Sophiához, majd élvezze a Topkapı palota kertjeinek nyugalmát. Délben tekerjen le a nyüzsgő Eminönü térre, keljen át a horgászokkal teli Galata hídon, és másszon fel a dombra az ikonikus Galata-toronyhoz a fantasztikus kilátásért. A délután egy hosszabb útra visz Fener és Balat történelmi negyedeibe, hogy megcsodálja a Chora-templom hihetetlen mozaikjait. Zárja a napot egy helyi kávézóban ebben a bájos környékben.",
+        "ro": "Începeți ziua pedalând spre Hagia Sofia și bucurându-vă de liniștea grădinilor Palatului Topkapî. La prânz, coborâți spre Piața plină de viață Eminönü, traversați Podul Galata plin de pescari și urcați dealul spre emblematicul Turn Galata pentru o priveliște fantastică. După-amiaza vă poartă într-o plimbare mai lungă spre cartierele istorice Fener și Balat pentru a admira mozaicurile incredibile ale Bisericii Chora. Încheiați ziua la o cafenea locală din această zonă fermecătoare.",
+        "en": "Kick off the day by cycling to Hagia Sophia and enjoying the tranquility of the Topkapı Palace gardens. At noon, ride down to the vibrant Eminönü Square, cross the fisherman-lined Galata Bridge, and climb the hill to the iconic Galata Tower for a fantastic view. The afternoon takes you on a longer ride to the historic Fener and Balat districts to admire the incredible mosaics of the Chora Church. End the day at a local café in this charming area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit",
+            "tip": "Ein mit Sesam überzogener Brotring, perfekt als schneller Snack von einem Straßenverkäufer."
+          },
+          {
+            "name": "Meze-Gerichte in Karaköy",
+            "tip": "Probieren Sie eine Auswahl kleiner kalter und warmer Vorspeisen in einem der vielen trendigen Restaurants in der Nähe des Galataturms."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit",
+            "tip": "Szezámmaggal borított perec, tökéletes gyors harapnivaló egy utcai árustól."
+          },
+          {
+            "name": "Meze ételek Karaköy-ben",
+            "tip": "Kóstoljon meg egy válogatást hideg és meleg előételekből a Galata-torony közelében található számos trendi étterem egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Simit",
+            "tip": "Un covrig acoperit cu susan, perfect pentru o gustare rapidă de la un vânzător ambulant."
+          },
+          {
+            "name": "Meze în Karaköy",
+            "tip": "Încercați o selecție de aperitive mici, reci și calde, la unul dintre numeroasele restaurante la modă de lângă Turnul Galata."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit",
+            "tip": "A sesame-covered bread ring, perfect for a quick snack from a street vendor."
+          },
+          {
+            "name": "Meze platters in Karaköy",
+            "tip": "Try a selection of small cold and hot appetizers in one of the many trendy restaurants near Galata Tower."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fener & Balat Straßen",
+            "tip": "Verirren Sie sich in den farbenfrohen, steilen Gassen, abseits der Haupttouristenpfade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pierre Loti Hügel (mit der Seilbahn)",
+            "tip": "Ein klassischer Ort für einen Tee mit Panoramablick auf das Goldene Horn.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fener és Balat utcái",
+            "tip": "Tévedjen el a színes, meredek sikátorokban, távol a fő turistaútvonalaktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pierre Loti-domb (felvonóval)",
+            "tip": "Klasszikus hely egy teára, panorámás kilátással az Aranyszarv-öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străzile din Fener & Balat",
+            "tip": "Pierdeți-vă pe străduțele colorate și abrupte, departe de traseele turistice principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Pierre Loti (cu telecabina)",
+            "tip": "Un loc clasic pentru un ceai cu o vedere panoramică asupra Cornului de Aur.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fener & Balat Streets",
+            "tip": "Get lost in the colorful, steep alleyways, away from the main tourist crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pierre Loti Hill (by cable car)",
+            "tip": "A classic spot for a tea with a panoramic view of the Golden Horn.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen in Galata",
+            "tip": "Stöbern Sie nach einzigartiger Mode und Designartikeln in den kleinen Geschäften rund um den Turm."
+          },
+          {
+            "name": "Antiquitätenläden in Çukurcuma",
+            "tip": "Ein kurzer Abstecher von Galata, um nach Vintage-Schätzen zu suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butikok Galatában",
+            "tip": "Böngésszen egyedi divat- és dizájntermékek között a torony körüli kis üzletekben."
+          },
+          {
+            "name": "Antikváriumok Çukurcumában",
+            "tip": "Egy rövid kitérő Galatából, hogy vintage kincsekre vadásszon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri în Galata",
+            "tip": "Căutați articole de modă și design unice în magazinele mici din jurul turnului."
+          },
+          {
+            "name": "Magazine de antichități în Çukurcuma",
+            "tip": "O mică deviere de la Galata pentru a căuta comori de epocă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutiques in Galata",
+            "tip": "Browse unique fashion and design items in the small shops surrounding the tower."
+          },
+          {
+            "name": "Antique shops in Çukurcuma",
+            "tip": "A short detour from Galata to hunt for vintage treasures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen, da die Hügel steil sein können.",
+          "Ein Fahrrad in Istanbul zu mieten kann schwierig sein; suchen Sie nach Verleihern in der Nähe von Sultanahmet oder Karaköy.",
+          "Seien Sie im Verkehr vorsichtig; bleiben Sie nach Möglichkeit auf weniger befahrenen Straßen.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, auch bei kurzen Stopps."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a biciklijét, különösen a fékeket, mivel a dombok meredekek lehetnek.",
+          "Biciklit bérelni Isztambulban nehézkes lehet; keressen kölcsönzőket Sultanahmet vagy Karaköy közelében.",
+          "Legyen óvatos a forgalomban; ha lehetséges, maradjon a kevésbé forgalmas utakon.",
+          "Mindig zárja le biztonságosan a kerékpárját, még rövid megállók esetén is."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele, deoarece dealurile pot fi abrupte.",
+          "Închirierea unei biciclete în Istanbul poate fi dificilă; căutați magazine de închirieri lângă Sultanahmet sau Karaköy.",
+          "Fiți precauți în trafic; rămâneți pe străzile mai puțin aglomerate atunci când este posibil.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes, as the hills can be steep.",
+          "Renting a bike in Istanbul can be tricky; look for rental shops near Sultanahmet or Karaköy.",
+          "Be cautious in traffic; stick to less busy roads where possible.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 36.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hagia Sophia",
+            "hu": "Hagia Sophia",
+            "ro": "Hagia Sofia",
+            "en": "Hagia Sophia"
+          },
+          "coords": [
+            28.9799,
+            41.0086
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Blaue Moschee",
+            "hu": "Kék Mecset",
+            "ro": "Moscheea Albastră",
+            "en": "Blue Mosque"
+          },
+          "coords": [
+            28.9769,
+            41.0053
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Topkapı-Palast",
+            "hu": "Topkapı Palota",
+            "ro": "Palatul Topkapî",
+            "en": "Topkapı Palace"
+          },
+          "coords": [
+            28.9834,
+            41.0116
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9
+        },
+        {
+          "name": {
+            "de": "Dolmabahçe-Palast",
+            "hu": "Dolmabahçe Palota",
+            "ro": "Palatul Dolmabahçe",
+            "en": "Dolmabahçe Palace"
+          },
+          "coords": [
+            29.0006,
+            41.0392
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0
+        },
+        {
+          "name": {
+            "de": "Rumeli Hisarı",
+            "hu": "Rumeli Hisarı",
+            "ro": "Rumeli Hisarı",
+            "en": "Rumeli Hisarı"
+          },
+          "coords": [
+            29.0558,
+            41.0847
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0
+        },
+        {
+          "name": {
+            "de": "Bosporus-Brücke Aussichtspunkt (Ortaköy)",
+            "hu": "Boszporusz-híd kilátópont (Ortaköy)",
+            "ro": "Punct de vedere Podul Bosfor (Ortaköy)",
+            "en": "Bosphorus Bridge Viewpoint (Ortaköy)"
+          },
+          "coords": [
+            29.0255,
+            41.0471
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0
+        },
+        {
+          "name": {
+            "de": "Abendessen in Ortaköy",
+            "hu": "Vacsora Ortaköyben",
+            "ro": "Cină în Ortaköy",
+            "en": "Dinner in Ortaköy"
+          },
+          "coords": [
+            29.0238,
+            41.0478
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt damit, dass Sie Ihr Auto in Sultanahmet parken, dem ersten Cluster. Hier erkunden Sie zu Fuß die Hagia Sophia, die Blaue Moschee und den Topkapı-Palast. Gegen Mittag fahren Sie entlang des Bosporus zum prächtigen Dolmabahçe-Palast, Ihrem zweiten Cluster. Am Nachmittag geht die Fahrt weiter nach Norden zur imposanten Festung Rumeli Hisarı. Der Tag endet im dritten Cluster, dem charmanten Viertel Ortaköy, wo Sie die Aussicht auf die Bosporus-Brücke genießen und in einem der vielen Restaurants am Wasser zu Abend essen.",
+        "hu": "A nap azzal indul, hogy leparkolja autóját Sultanahmetben, az első központban. Itt gyalogosan fedezi fel a Hagia Sophiát, a Kék Mecsetet és a Topkapı Palotát. Dél körül a Boszporusz mentén haladva a csodálatos Dolmabahçe Palotához hajt, a második központhoz. Délután az út észak felé folytatódik a lenyűgöző Rumeli Hisarı erődhöz. A nap a harmadik központban, a bájos Ortaköy negyedben zárul, ahol a Boszporusz-hídra nyíló kilátást élvezheti és megvacsorázhat a számos vízparti étterem egyikében.",
+        "ro": "Ziua începe parcând mașina în Sultanahmet, primul cluster. Aici explorați pe jos Hagia Sofia, Moscheea Albastră și Palatul Topkapî. Pe la prânz, conduceți de-a lungul Bosforului până la magnificul Palat Dolmabahçe, al doilea cluster. După-amiaza, călătoria continuă spre nord, la formidabila fortăreață Rumeli Hisarı. Ziua se încheie în al treilea cluster, cartierul fermecător Ortaköy, bucurându-vă de priveliștea Podului Bosfor și luând cina la unul dintre multele restaurante de pe malul apei.",
+        "en": "The day starts by parking your car in Sultanahmet, the first cluster. Here, you'll explore Hagia Sophia, the Blue Mosque, and Topkapı Palace on foot. Around noon, you drive along the Bosphorus to the magnificent Dolmabahçe Palace, your second cluster. In the afternoon, the journey continues north to the formidable Rumeli Hisarı fortress. The day concludes in the third cluster, the charming Ortaköy neighborhood, enjoying the Bosphorus Bridge view and having dinner at one of the many waterfront restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kumpir in Ortaköy",
+            "tip": "Eine riesige Ofenkartoffel mit einer Vielzahl von Füllungen Ihrer Wahl."
+          },
+          {
+            "name": "Frühstück am Bosporus",
+            "tip": "Genießen Sie ein traditionelles türkisches Frühstück ('kahvaltı') in einem Café mit Blick auf das Wasser in der Nähe von Rumeli Hisarı."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kumpir Ortaköyben",
+            "tip": "Hatalmas sült krumpli, tetszés szerinti töltelékekkel."
+          },
+          {
+            "name": "Reggeli a Boszporusznál",
+            "tip": "Élvezzen egy hagyományos török reggelit ('kahvaltı') egy vízparti kávézóban Rumeli Hisarı közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kumpir în Ortaköy",
+            "tip": "Un cartof copt imens cu o varietate de umpluturi la alegere."
+          },
+          {
+            "name": "Mic dejun pe Bosfor",
+            "tip": "Bucurați-vă de un mic dejun tradițional turcesc ('kahvaltı') la o cafenea cu vedere la apă, lângă Rumeli Hisarı."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kumpir in Ortaköy",
+            "tip": "A giant baked potato with a variety of fillings of your choice."
+          },
+          {
+            "name": "Bosphorus Breakfast",
+            "tip": "Enjoy a traditional Turkish breakfast ('kahvaltı') at a cafe with a water view near Rumeli Hisarı."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Emirgan Park (in der Nähe von Rumeli Hisarı)",
+            "tip": "Besonders schön während des Tulpenfestivals im April.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bebek Küste",
+            "tip": "Machen Sie einen Spaziergang entlang der schicken Uferpromenade zwischen Dolmabahçe und Rumeli Hisarı.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emirgan Park (Rumeli Hisarı közelében)",
+            "tip": "Különösen szép az áprilisi tulipánfesztivál idején.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bebek part",
+            "tip": "Sétáljon egyet a sikkes vízparti sétányon Dolmabahçe és Rumeli Hisarı között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Emirgan (lângă Rumeli Hisarı)",
+            "tip": "Deosebit de frumos în timpul Festivalului Lalelelor din aprilie.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Coasta Bebek",
+            "tip": "Faceți o plimbare de-a lungul promenadei șic de pe malul apei, între Dolmabahçe și Rumeli Hisarı.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Emirgan Park (near Rumeli Hisarı)",
+            "tip": "Especially beautiful during the Tulip Festival in April.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bebek Coastline",
+            "tip": "Take a stroll along the chic waterfront promenade between Dolmabahçe and Rumeli Hisarı.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksmarkt in Ortaköy",
+            "tip": "Stöbern Sie am Wochenende nach Schmuck und einzigartigen Souvenirs."
+          },
+          {
+            "name": "Akmerkez oder Zorlu Center",
+            "tip": "Luxuriöse Einkaufszentren, wenn Sie Lust auf Markeneinkäufe haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves piac Ortaköyben",
+            "tip": "Böngésszen ékszereket és egyedi szuveníreket a hétvégén."
+          },
+          {
+            "name": "Akmerkez vagy Zorlu Center",
+            "tip": "Luxus bevásárlóközpontok, ha márkás vásárláshoz van kedve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de artizanat din Ortaköy",
+            "tip": "Căutați bijuterii și suveniruri unice în weekend."
+          },
+          {
+            "name": "Akmerkez sau Zorlu Center",
+            "tip": "Mall-uri de lux dacă aveți chef de cumpărături de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ortaköy Craft Market",
+            "tip": "Browse for jewelry and unique souvenirs on the weekend."
+          },
+          {
+            "name": "Akmerkez or Zorlu Center",
+            "tip": "Luxury shopping malls if you're in the mood for brand shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Autofahren in Istanbul ist eine Herausforderung. Nutzen Sie GPS und seien Sie auf starken Verkehr vorbereitet.",
+          "Parken ist teuer und schwer zu finden. Suchen Sie nach 'otopark' Schildern für bewachte Parkplätze.",
+          "Vermeiden Sie das Fahren während der Stoßzeiten (07:00-10:00, 16:00-20:00).",
+          "Beachten Sie die Mautgebühren für Brücken und Tunnel; ein HGS-Aufkleber ist erforderlich."
+        ],
+        "hu": [
+          "Isztambulban vezetni kihívást jelent. Használjon GPS-t, és készüljön fel a sűrű forgalomra.",
+          "A parkolás drága és nehézkes. Keressen 'otopark' táblákat az őrzött parkolókhoz.",
+          "Kerülje a vezetést csúcsidőben (07:00-10:00, 16:00-20:00).",
+          "Vegye figyelembe a hidak és alagutak útdíjait; HGS matrica szükséges."
+        ],
+        "ro": [
+          "Conducerea în Istanbul este o provocare. Utilizați GPS-ul și fiți pregătiți pentru trafic intens.",
+          "Parcarea este scumpă și greu de găsit. Căutați indicatoare 'otopark' pentru parcări păzite.",
+          "Evitați să conduceți în orele de vârf (07:00-10:00, 16:00-20:00).",
+          "Fiți conștienți de taxele de trecere pentru poduri și tuneluri; este necesar un autocolant HGS."
+        ],
+        "en": [
+          "Driving in Istanbul is challenging. Use GPS and be prepared for heavy traffic.",
+          "Parking is expensive and difficult to find. Look for 'otopark' signs for paid parking lots.",
+          "Avoid driving during rush hours (07:00-10:00, 16:00-20:00).",
+          "Be aware of tolls on bridges and tunnels; an HGS sticker is required."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blaue Moschee",
+            "hu": "Kék Mecset",
+            "ro": "Moscheea Albastră",
+            "en": "Blue Mosque"
+          },
+          "coords": [
+            28.9769,
+            41.0053
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Hagia Sophia",
+            "hu": "Hagia Sophia",
+            "ro": "Hagia Sofia",
+            "en": "Hagia Sophia"
+          },
+          "coords": [
+            28.9799,
+            41.0086
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Großer Basar",
+            "hu": "Nagy Bazár",
+            "ro": "Marele Bazar",
+            "en": "Grand Bazaar"
+          },
+          "coords": [
+            28.9687,
+            41.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Galataturm",
+            "hu": "Galata-torony",
+            "ro": "Turnul Galata",
+            "en": "Galata Tower"
+          },
+          "coords": [
+            28.9744,
+            41.0256
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0
+        },
+        {
+          "name": {
+            "de": "Istiklal Caddesi",
+            "hu": "İstiklal utca",
+            "ro": "Bulevardul İstiklal",
+            "en": "İstiklal Avenue"
+          },
+          "coords": [
+            28.978,
+            41.0336
+          ],
+          "category": "shopping",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Dolmabahçe-Palast",
+            "hu": "Dolmabahçe Palota",
+            "ro": "Palatul Dolmabahçe",
+            "en": "Dolmabahçe Palace"
+          },
+          "coords": [
+            29.0006,
+            41.0392
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0
+        },
+        {
+          "name": {
+            "de": "Bosporus-Fähre ab Kabataş",
+            "hu": "Boszporusz komp Kabataş-ból",
+            "ro": "Feribotul Bosfor de la Kabataş",
+            "en": "Bosphorus Ferry from Kabataş"
+          },
+          "coords": [
+            28.9945,
+            41.036
+          ],
+          "category": "port",
+          "arrive_at": "17:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Sultanahmet-Cluster mit der Blauen Moschee, der Hagia Sophia und einem Spaziergang zum Großen Basar. Am Mittag nehmen Sie die Straßenbahn T1 von Beyazıt über die Galatabrücke nach Karaköy, Ihrem zweiten Cluster. Erklimmen Sie den Hügel zum Galataturm und schlendern Sie die berühmte Istiklal-Straße entlang. Am Nachmittag bringt Sie eine Standseilbahn vom Taksim-Platz hinunter nach Kabataş, wo Sie den Dolmabahçe-Palast besuchen. Beenden Sie den Tag mit einer entspannenden Bosporus-Fährfahrt bei Sonnenuntergang vom nahegelegenen Pier aus.",
+        "hu": "Kezdje a napot a Sultanahmet negyedben a Kék Mecsettel, a Hagia Sophiával, majd sétáljon el a Nagy Bazárba. Délben szálljon fel a T1-es villamosra Beyazıtnál, keljen át a Galata-hídon Karaköybe, a második központba. Másszon fel a Galata-toronyhoz, majd sétáljon végig a híres İstiklal sugárúton. Délután egy siklóval juthat le a Taksim térről Kabataşba, ahol meglátogatja a Dolmabahçe palotát. A napot egy pihentető naplementés kompozással zárja a közeli kikötőből.",
+        "ro": "Începeți ziua în clusterul Sultanahmet, cu Moscheea Albastră, Hagia Sofia și o plimbare până la Marele Bazar. La prânz, luați tramvaiul T1 de la Beyazıt peste Podul Galata până la Karaköy, al doilea cluster. Urcați dealul până la Turnul Galata și plimbați-vă pe faimosul Bulevard İstiklal. După-amiaza, un funicular de la Piața Taksim vă duce la Kabataş pentru a vizita Palatul Dolmabahçe. Încheiați ziua cu o croazieră relaxantă pe Bosfor la apus, de la debarcaderul din apropiere.",
+        "en": "Start the day in the Sultanahmet cluster with the Blue Mosque, Hagia Sophia, and a walk to the Grand Bazaar. At noon, take the T1 tram from Beyazıt across the Galata Bridge to Karaköy, your second cluster. Climb the hill to Galata Tower and stroll down the famous İstiklal Avenue. In the afternoon, a funicular from Taksim Square takes you down to Kabataş to visit Dolmabahçe Palace. End your day with a relaxing sunset Bosphorus ferry ride from the nearby pier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Islak Burger (Nasser Burger)",
+            "tip": "Ein einzigartiger, in Tomatensoße getränkter Burger, den man am besten am Taksim-Platz isst."
+          },
+          {
+            "name": "Türkischer Kaffee",
+            "tip": "Genießen Sie einen starken, traditionellen Kaffee in einem 'kahvehane' in der Nähe der Istiklal-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Islak Burger (Nedves Burger)",
+            "tip": "Egyedülálló, paradicsomszószba áztatott hamburger, a legjobb a Taksim téren."
+          },
+          {
+            "name": "Török kávé",
+            "tip": "Élvezzen egy erős, hagyományos kávét egy 'kahvehane'-ban az İstiklal utca közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Islak Burger (Burger umed)",
+            "tip": "Un burger unic, înmuiat în sos de roșii, cel mai bun în Piața Taksim."
+          },
+          {
+            "name": "Cafea turcească",
+            "tip": "Savurați o cafea tare, tradițională, la o 'kahvehane' de lângă Bulevardul İstiklal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Islak Burger (Wet Burger)",
+            "tip": "A unique burger soaked in tomato sauce, best had around Taksim Square."
+          },
+          {
+            "name": "Turkish Coffee",
+            "tip": "Enjoy a strong, traditional coffee at a 'kahvehane' near İstiklal Avenue."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kısa Boğaz Turu (Kurze Bosporus-Tour)",
+            "tip": "Eine 90-minütige Fährfahrt ist eine großartige Möglichkeit, die Stadt vom Wasser aus zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Historische Passagen auf der Istiklal",
+            "tip": "Treten Sie von der belebten Straße in wunderschöne, ruhige Arkaden wie die Çiçek Pasajı ein.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kısa Boğaz Turu (Rövid Boszporusz-túra)",
+            "tip": "Egy 90 perces kompozás remek módja annak, hogy a vízről lássa a várost.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Történelmi passzázsok az İstiklalon",
+            "tip": "Lépjen be a nyüzsgő utcáról a gyönyörű, csendes árkádokba, mint a Çiçek Pasajı.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kısa Boğaz Turu (Tur scurt pe Bosfor)",
+            "tip": "O plimbare de 90 de minute cu feribotul este o modalitate excelentă de a vedea orașul de pe apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pasajele istorice de pe İstiklal",
+            "tip": "Pășiți de pe strada aglomerată în arcade frumoase și liniștite, precum Çiçek Pasajı.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kısa Boğaz Turu (Short Bosphorus Tour)",
+            "tip": "A 90-minute ferry ride is a great way to see the city from the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Historic Passages on İstiklal",
+            "tip": "Step off the busy street into beautiful, quiet arcades like the Çiçek Pasajı.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istiklal Caddesi",
+            "tip": "Eine Mischung aus internationalen Marken und lokalen türkischen Geschäften."
+          },
+          {
+            "name": "Musikgeschäfte in Tünel",
+            "tip": "Stöbern Sie am Ende der Istiklal-Straße nach traditionellen türkischen Instrumenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "İstiklal utca",
+            "tip": "Nemzetközi márkák és helyi török üzletek keveréke."
+          },
+          {
+            "name": "Hangszerboltok Tünelben",
+            "tip": "Böngésszen hagyományos török hangszereket az İstiklal utca végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul İstiklal",
+            "tip": "Un amestec de mărci internaționale și magazine locale turcești."
+          },
+          {
+            "name": "Magazine de muzică în Tünel",
+            "tip": "Căutați instrumente tradiționale turcești la capătul Bulevardului İstiklal."
+          }
+        ],
+        "en": [
+          {
+            "name": "İstiklal Avenue",
+            "tip": "A mix of international brands and local Turkish shops."
+          },
+          {
+            "name": "Music shops in Tünel",
+            "tip": "Browse traditional Turkish instruments at the end of İstiklal Avenue."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Istanbulkart an einem Kiosk für einfachen Zugang zu allen öffentlichen Verkehrsmitteln.",
+          "Die Straßenbahn T1 ist oft überfüllt; achten Sie auf Ihre Sachen.",
+          "Die Marmaray- und Metro-Linien sind schneller, um große Entfernungen zu überwinden, insbesondere um den Verkehr zu vermeiden.",
+          "Fähren sind nicht nur Transportmittel, sondern auch ein landschaftlich reizvolles Erlebnis. Nutzen Sie sie!"
+        ],
+        "hu": [
+          "Vásároljon egy Istanbulkart-ot egy kioszkban, hogy könnyen használhassa az összes tömegközlekedési eszközt.",
+          "A T1-es villamos gyakran zsúfolt; vigyázzon az értékeire.",
+          "A Marmaray és a metróvonalak gyorsabbak a nagy távolságok leküzdésére, különösen a forgalom elkerülése érdekében.",
+          "A kompok nemcsak közlekedési eszközök, hanem egyben festői élményt is nyújtanak. Használja ki őket!"
+        ],
+        "ro": [
+          "Cumpărați un Istanbulkart de la un chioșc pentru acces ușor la toate mijloacele de transport public.",
+          "Tramvaiul T1 este adesea aglomerat; fiți atenți la bunurile dumneavoastră.",
+          "Liniile Marmaray și de metrou sunt mai rapide pentru a acoperi distanțe mari, în special pentru a evita traficul.",
+          "Feriboturile nu sunt doar transport, ci și o experiență pitorească. Folosiți-le!"
+        ],
+        "en": [
+          "Buy an Istanbulkart at a kiosk for easy access to all public transport.",
+          "The T1 tram is often crowded; be mindful of your belongings.",
+          "Marmaray and Metro lines are faster for covering long distances, especially to avoid traffic.",
+          "Ferries are not just transport, but also a scenic experience. Make use of them!"
+        ]
+      }
+    }
+  }
+}

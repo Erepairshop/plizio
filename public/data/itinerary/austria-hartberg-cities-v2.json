@@ -1,0 +1,1264 @@
+{
+  "city_id": "austria-hartberg-cities-v2",
+  "anchor": {
+    "name": "Hartberg",
+    "coords": [
+      15.9686,
+      47.28
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz Hartberg",
+            "hu": "Hartbergi főtér",
+            "ro": "Piața Principală Hartberg",
+            "en": "Hartberg Main Square"
+          },
+          "coords": [
+            15.9683,
+            47.281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Mariensäule in der Mitte des Platzes.",
+            "hu": "Csodálja meg a tér közepén álló barokk Mária-oszlopot!",
+            "ro": "Admirați coloana mariană barocă din centrul pieței.",
+            "en": "Admire the baroque Marian column in the center of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "Parish Church of St. Martin"
+          },
+          "coords": [
+            15.9695,
+            47.2818
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende spätgotische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző késő gótikus építészetet!",
+            "ro": "Observați arhitectura impresionantă gotică târzie.",
+            "en": "Pay attention to the impressive late Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Hartberger Karner",
+            "hu": "Hartbergi csontház",
+            "ro": "Osuarul din Hartberg",
+            "en": "Hartberg Charnel House"
+          },
+          "coords": [
+            15.9698,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die romanischen Fresken im Inneren sind ein absolutes Muss.",
+            "hu": "A belső román kori freskók kihagyhatatlanok.",
+            "ro": "Frescele romanice din interior sunt absolut obligatoriu de văzut.",
+            "en": "The Romanesque frescoes inside are an absolute must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hartberg",
+            "hu": "Hartbergi kastély",
+            "ro": "Castelul Hartberg",
+            "en": "Hartberg Castle"
+          },
+          "coords": [
+            15.967,
+            47.2835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den Schlosshof versetzt Sie in eine andere Zeit.",
+            "hu": "Sétáljon egyet a kastély udvarán, és repüljön vissza az időben!",
+            "ro": "O plimbare prin curtea castelului vă va transporta în altă epocă.",
+            "en": "A walk through the castle courtyard takes you back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hartberg",
+            "hu": "Hartbergi Múzeum",
+            "ro": "Muzeul Hartberg",
+            "en": "Hartberg Museum"
+          },
+          "coords": [
+            15.9675,
+            47.2805
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die römische Sammlung im Keller ein.",
+            "hu": "Szánjon elég időt a pincében található római gyűjteményre!",
+            "ro": "Planificați suficient timp pentru colecția romană de la subsol.",
+            "en": "Allow enough time for the Roman collection in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Gmoos",
+            "hu": "Gmoos",
+            "ro": "Gmoos",
+            "en": "Gmoos"
+          },
+          "coords": [
+            15.98,
+            47.275
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine entspannte Pause in der Natur.",
+            "hu": "Ideális hely egy pihentető szünetre a természetben.",
+            "ro": "Un loc ideal pentru o pauză relaxantă în natură.",
+            "en": "An ideal place for a relaxing break in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Hauptplatz von Hartberg, dem Herzen der Stadt. Am Vormittag erkunden Sie die historischen und religiösen Schätze, wie die Stadtpfarrkirche und den geheimnisvollen Karner. Nach dem Mittagessen im Schloss Hartberg, wo Sie sich wie ein Adliger fühlen, tauchen Sie im Museum in die reiche Geschichte der Region ein. Der Nachmittag gehört der Natur: Ein entspannter Spaziergang durch das nahegelegene Gmoos bietet den perfekten Ausklang für einen Tag voller Entdeckungen. Am Abend genießen Sie die steirische Gastfreundschaft in einem der gemütlichen Restaurants.",
+        "hu": "Kezdje a napot Hartberg nyüzsgő főterén, a város szívében. A délelőtt folyamán fedezze fel a történelmi és vallási kincseket, mint a plébániatemplomot és a titokzatos csontházat. Ebédeljen a Hartberg kastélyban, ahol nemesnek érezheti magát, majd merüljön el a régió gazdag történelmében a múzeumban. A délután a természeté: egy pihentető séta a közeli Gmoos területén tökéletes lezárása a felfedezésekkel teli napnak. Este élvezze a stájer vendégszeretetet az egyik hangulatos étteremben.",
+        "ro": "Începeți ziua în vibranta Piață Principală din Hartberg, inima orașului. Dimineața explorați comorile istorice și religioase, cum ar fi biserica parohială și misteriosul osuar. După prânzul la Castelul Hartberg, unde vă veți simți ca un nobil, scufundați-vă în istoria bogată a regiunii la muzeu. După-amiaza este dedicată naturii: o plimbare relaxantă prin zona Gmoos din apropiere oferă finalul perfect pentru o zi plină de descoperiri. Seara, bucurați-vă de ospitalitatea stiriană într-unul dintre restaurantele primitoare.",
+        "en": "Start your day at the vibrant main square of Hartberg, the heart of the city. In the morning, explore the historical and religious treasures, like the parish church and the mysterious charnel house. After lunch at Hartberg Castle, where you'll feel like nobility, delve into the region's rich history at the museum. The afternoon is for nature: a relaxing walk through the nearby Gmoos provides the perfect conclusion to a day full of discoveries. In the evening, enjoy Styrian hospitality in one of the cozy restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Goldenen Greif",
+            "tip": "Probieren Sie das steirische Backhendl, ein regionaler Klassiker."
+          },
+          {
+            "name": "Das alte Gericht",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Goldenen Greif",
+            "tip": "Kóstolja meg a stájer rántott csirkét, egy helyi klasszikust!"
+          },
+          {
+            "name": "Das alte Gericht",
+            "tip": "Elegáns konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Goldenen Greif",
+            "tip": "Încercați puiul prăjit stirian (Backhendl), un clasic regional."
+          },
+          {
+            "name": "Das alte Gericht",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Goldenen Greif",
+            "tip": "Try the Styrian fried chicken (Backhendl), a regional classic."
+          },
+          {
+            "name": "Das alte Gericht",
+            "tip": "Fine dining in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gmoos",
+            "tip": "Spazierwege durch das Feuchtbiotop bieten Ruhe und Vogelbeobachtung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Eine stille Bank im Schatten alter Bäume.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gmoos",
+            "tip": "A vizes élőhelyen átvezető sétautak nyugalmat és madármegfigyelési lehetőséget kínálnak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Egy csendes pad az öreg fák árnyékában.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gmoos",
+            "tip": "Căile de plimbare prin biotopul umed oferă liniște și observarea păsărilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "O bancă liniștită la umbra copacilor bătrâni.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gmoos",
+            "tip": "Walking paths through the wetland offer tranquility and bird watching.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "A quiet bench in the shade of old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Jeden Freitagvormittag am Hauptplatz für lokale Spezialitäten."
+          },
+          {
+            "name": "Innenstadt-Boutiquen",
+            "tip": "Kleine, inhabergeführte Geschäfte rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Minden péntek délelőtt a főtéren helyi specialitásokért."
+          },
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Kis, tulajdonos által vezetett üzletek a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața fermierilor",
+            "tip": "În fiecare vineri dimineață în piața principală pentru specialități locale."
+          },
+          {
+            "name": "Buticuri din centrul orașului",
+            "tip": "Magazine mici, administrate de proprietari, în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers' Market",
+            "tip": "Every Friday morning on the main square for local specialties."
+          },
+          {
+            "name": "City Center Boutiques",
+            "tip": "Small, owner-run shops around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster unterwegs sein werden.",
+          "Viele Sehenswürdigkeiten liegen sehr nah beieinander, ein Stadtplan ist aber dennoch hilfreich.",
+          "Nehmen Sie sich Zeit, die kleinen Gassen abseits des Hauptplatzes zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön fog sétálni.",
+          "Sok látnivaló nagyon közel van egymáshoz, de egy térkép mégis hasznos lehet.",
+          "Szánjon időt a főtérről leágazó kis utcák felfedezésére is."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe piatră cubică toată ziua.",
+          "Multe atracții sunt foarte apropiate, dar o hartă a orașului este totuși utilă.",
+          "Acordați-vă timp pentru a explora străduțele înguste de lângă piața principală."
+        ],
+        "en": [
+          "Wear comfortable shoes, as you will be walking on cobblestones all day.",
+          "Many sights are very close to each other, but a city map is still helpful.",
+          "Take time to explore the small alleys off the main square."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz Hartberg",
+            "hu": "Hartbergi főtér",
+            "ro": "Piața Principală Hartberg",
+            "en": "Hartberg Main Square"
+          },
+          "coords": [
+            15.9683,
+            47.281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt, um sich mit dem Fahrrad vertraut zu machen.",
+            "hu": "Tökéletes kiindulópont a kerékpárral való ismerkedéshez.",
+            "ro": "Punct de plecare perfect pentru a vă familiariza cu bicicleta.",
+            "en": "Perfect starting point to get familiar with the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringkogel Aussichtsturm",
+            "hu": "Ringkogel kilátó",
+            "ro": "Turnul de observație Ringkogel",
+            "en": "Ringkogel Observation Tower"
+          },
+          "coords": [
+            15.998,
+            47.3
+          ],
+          "category": "natural features",
+          "arrive_at": "09:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist anspruchsvoll, aber die Aussicht belohnt jede Mühe.",
+            "hu": "A feljutás kihívást jelent, de a kilátás minden fáradságot megér.",
+            "ro": "Urcarea este solicitantă, dar priveliștea răsplătește tot efortul.",
+            "en": "The ascent is challenging, but the view rewards every effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hartberg",
+            "hu": "Hartbergi kastély",
+            "ro": "Castelul Hartberg",
+            "en": "Hartberg Castle"
+          },
+          "coords": [
+            15.967,
+            47.2835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad im Hof ab und erkunden Sie die Anlage zu Fuß.",
+            "hu": "Parkolja le a biciklit az udvaron, és fedezze fel a komplexumot gyalog!",
+            "ro": "Parcați bicicleta în curte și explorați complexul pe jos.",
+            "en": "Park your bike in the courtyard and explore the complex on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Karner",
+            "hu": "Plébániatemplom és Csontház",
+            "ro": "Biserica Parohială și Osuarul",
+            "en": "Parish Church & Charnel House"
+          },
+          "coords": [
+            15.9698,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um zwei der wichtigsten Sakralbauten zu sehen.",
+            "hu": "Egy rövid megálló a két legfontosabb szakrális épület megtekintésére.",
+            "ro": "O oprire scurtă pentru a vedea două dintre cele mai importante clădiri sacre.",
+            "en": "A short stop to see two of the most important sacred buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Gmoos",
+            "hu": "Gmoos",
+            "ro": "Gmoos",
+            "en": "Gmoos"
+          },
+          "coords": [
+            15.98,
+            47.275
+          ],
+          "category": "natural features",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen durch das Naturreservat und genießen Sie die Stille.",
+            "hu": "Kerékpározzon végig a természetvédelmi terület ösvényein, és élvezze a csendet!",
+            "ro": "Plimbați-vă cu bicicleta pe potecile din rezervația naturală și bucurați-vă de liniște.",
+            "en": "Cycle along the paths through the nature reserve and enjoy the silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rustica Löffelbach",
+            "hu": "Villa Rustica Löffelbach",
+            "ro": "Villa Rustica Löffelbach",
+            "en": "Villa Rustica Löffelbach"
+          },
+          "coords": [
+            15.938,
+            47.253
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:27",
+          "stay_min": 78,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine faszinierende Zeitreise in die Römerzeit, leicht mit dem Rad erreichbar.",
+            "hu": "Lenyűgöző időutazás a római korba, könnyen elérhető kerékpárral.",
+            "ro": "O călătorie fascinantă înapoi în epoca romană, ușor accesibilă cu bicicleta.",
+            "en": "A fascinating journey back to Roman times, easily accessible by bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Hartberg aufs Rad und starten Sie den Tag mit einer Herausforderung: der Fahrt zum Ringkogel Aussichtsturm. Die Panoramaaussicht ist die Belohnung. Zurück in der Stadt erkunden Sie die historischen Juwelen wie Schloss Hartberg und die beeindruckenden Kirchen. Nach einer Mittagspause führt Sie die Tour in die grüne Oase des Gmoos, ein perfekter Ort zum Durchatmen. Zum Abschluss radeln Sie gemütlich zur Villa Rustica in Löffelbach und tauchen in die römische Vergangenheit der Region ein, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra Hartbergben, és kezdje a napot egy kihívással: egy túrával a Ringkogel kilátóhoz. A panoráma kárpótol mindenért. Visszatérve a városba, fedezze fel a történelmi ékköveket, mint a Hartberg kastélyt és a lenyűgöző templomokat. Egy ebédszünet után a túra a Gmoos zöld oázisába vezet, amely tökéletes hely a kikapcsolódásra. Végül tekerjen el kényelmesen a löffelbachi Villa Rusticához, és merüljön el a régió római múltjában, mielőtt lezárja a napot.",
+        "ro": "Urcați-vă pe bicicletă în Hartberg și începeți ziua cu o provocare: o plimbare până la Turnul de Observație Ringkogel. Priveliștea panoramică este recompensa. Înapoi în oraș, explorați bijuteriile istorice precum Castelul Hartberg și bisericile impresionante. După o pauză de prânz, turul vă duce în oaza verde Gmoos, un loc perfect pentru a respira adânc. În cele din urmă, pedalați agale până la Villa Rustica din Löffelbach și cufundați-vă în trecutul roman al regiunii înainte de a încheia ziua.",
+        "en": "Hop on your bike in Hartberg and start the day with a challenge: the ride to the Ringkogel Observation Tower. The panoramic view is your reward. Back in town, explore the historical gems like Hartberg Castle and the impressive churches. After a lunch break, the tour takes you to the green oasis of Gmoos, a perfect place to take a breath. Finally, cycle leisurely to the Villa Rustica in Löffelbach and immerse yourself in the region's Roman past before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buschenschank",
+            "tip": "In der Umgebung gibt es viele, die eine deftige Jause anbieten."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Für eine süße Abkühlung nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buschenschank (borozó)",
+            "tip": "A környéken számos helyen kínálnak kiadós uzsonnát."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Egy édes hűsítő a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buschenschank (tavernă de vin)",
+            "tip": "Există multe în zonă care oferă o gustare consistentă."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "Pentru o răcorire dulce după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buschenschank (wine tavern)",
+            "tip": "There are many in the area offering a hearty snack."
+          },
+          {
+            "name": "Eis-Greissler",
+            "tip": "For a sweet cool-down after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ringkogel",
+            "tip": "Nach dem Aufstieg die Stille und die Weitsicht genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Entlang der Hartberger Safen",
+            "tip": "Ein ruhiger Radweg am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ringkogel",
+            "tip": "A mászás után élvezze a csendet és a távoli kilátást.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Hartberger Safen mentén",
+            "tip": "Csendes kerékpárút a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ringkogel",
+            "tip": "După urcare, bucurați-vă de liniște și de priveliștea panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "De-a lungul râului Hartberger Safen",
+            "tip": "O pistă de biciclete liniștită de-a lungul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ringkogel",
+            "tip": "After the climb, enjoy the silence and the distant view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Along the Hartberger Safen",
+            "tip": "A quiet cycle path along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Radwege finden sich oft kleine Läden mit regionalen Produkten."
+          },
+          {
+            "name": "Kernöl-Mühlen",
+            "tip": "Kaufen Sie das 'schwarze Gold' der Steiermark direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Udvari boltok",
+            "tip": "A kerékpárutak mentén gyakran találhatók kis boltok helyi termékekkel."
+          },
+          {
+            "name": "Tökmagolaj-malmok",
+            "tip": "Vásárolja meg Stájerország 'fekete aranyát' közvetlenül a termelőtől!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine cu produse regionale."
+          },
+          {
+            "name": "Prese de ulei de dovleac",
+            "tip": "Cumpărați 'aurul negru' al Stiriei direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Along the cycle paths, you will often find small shops with regional products."
+          },
+          {
+            "name": "Pumpkin seed oil mills",
+            "tip": "Buy the 'black gold' of Styria directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für den Anstieg zum Ringkogel empfehlenswert.",
+          "Prüfen Sie die Öffnungszeiten der Villa Rustica vorab.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "E-bike ajánlott a Ringkogelre való feljutáshoz.",
+          "Előzetesen ellenőrizze a Villa Rustica nyitvatartási idejét.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru urcarea pe Ringkogel.",
+          "Verificați în prealabil programul de funcționare al Villa Rustica.",
+          "Luați suficientă apă cu voi, mai ales în zilele călduroase."
+        ],
+        "en": [
+          "An e-bike is recommended for the climb to the Ringkogel.",
+          "Check the opening hours of the Villa Rustica in advance.",
+          "Bring enough water, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 25.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Hauptplatz",
+            "hu": "Belvárosi parkoló és Főtér",
+            "ro": "Parcare Centru & Piața Principală",
+            "en": "City Center Parking & Main Square"
+          },
+          "coords": [
+            15.9683,
+            47.281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und beginnen Sie die Erkundung des ersten Clusters zu Fuß.",
+            "hu": "Parkoljon a központban, és kezdje meg az első klaszter felfedezését gyalog.",
+            "ro": "Parcați central și începeți explorarea primului cluster pe jos.",
+            "en": "Park centrally and start exploring the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Karner",
+            "hu": "Plébániatemplom és Csontház",
+            "ro": "Biserica Parohială și Osuarul",
+            "en": "Parish Church & Charnel House"
+          },
+          "coords": [
+            15.9698,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Highlights liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két látványosság csak pár lépésre van egymástól.",
+            "ro": "Aceste două atracții sunt la doar câțiva pași una de cealaltă.",
+            "en": "These two highlights are just a few steps apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss & Museum Hartberg",
+            "hu": "Hartbergi kastély és múzeum",
+            "ro": "Castelul și Muzeul Hartberg",
+            "en": "Hartberg Castle & Museum"
+          },
+          "coords": [
+            15.967,
+            47.2835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur und Geschichte an einem Ort. Mittagessen im Schlossrestaurant!",
+            "hu": "Kombinálja a kultúrát és a történelmet egy helyen. Ebédeljen a kastély éttermében!",
+            "ro": "Combinați cultura și istoria într-un singur loc. Prânz la restaurantul castelului!",
+            "en": "Combine culture and history in one place. Have lunch at the castle restaurant!"
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rustica Löffelbach",
+            "hu": "Villa Rustica Löffelbach",
+            "ro": "Villa Rustica Löffelbach",
+            "en": "Villa Rustica Löffelbach"
+          },
+          "coords": [
+            15.938,
+            47.253
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Autofahrt bringt Sie 2000 Jahre in die Vergangenheit.",
+            "hu": "Egy rövid autóút 2000 évet repít vissza a múltba.",
+            "ro": "O scurtă călătorie cu mașina vă duce cu 2000 de ani înapoi în timp.",
+            "en": "A short drive takes you 2000 years back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Ringkogel Aussichtsturm",
+            "hu": "Ringkogel kilátó",
+            "ro": "Turnul de observație Ringkogel",
+            "en": "Ringkogel Observation Tower"
+          },
+          "coords": [
+            15.998,
+            47.3
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und genießen Sie den kurzen Spaziergang zum Turm.",
+            "hu": "Hajtson a parkolóig, és élvezze a rövid sétát a toronyhoz.",
+            "ro": "Conduceți până la parcare și bucurați-vă de scurta plimbare până la turn.",
+            "en": "Drive to the car park and enjoy the short walk to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Gmoos",
+            "hu": "Gmoos",
+            "ro": "Gmoos",
+            "en": "Gmoos"
+          },
+          "coords": [
+            15.98,
+            47.275
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Stopp des Tages für einen entspannten Spaziergang.",
+            "hu": "A nap utolsó állomása egy pihentető sétára.",
+            "ro": "Ultima oprire a zilei pentru o plimbare relaxantă.",
+            "en": "The last stop of the day for a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsessen in der Altstadt",
+            "hu": "Búcsúvacsora az óvárosban",
+            "ro": "Cină de rămas bun în orașul vechi",
+            "en": "Farewell Dinner in the Old Town"
+          },
+          "coords": [
+            15.967,
+            47.28
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einem der ausgezeichneten Restaurants ausklingen.",
+            "hu": "Zárja a napot az egyik kiváló étteremben.",
+            "ro": "Încheiați ziua la unul dintre restaurantele excelente.",
+            "en": "End the day in one of the excellent restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Hartberg kombiniert städtisches Flair mit ländlichen Entdeckungen. Starten Sie im Zentrum, wo Sie Ihr Auto abstellen und zu Fuß das historische Herz mit Hauptplatz, Kirchen und Schloss erkunden. Nach dem Mittagessen führt Sie eine kurze Fahrt zur faszinierenden Villa Rustica. Am Nachmittag geht es hoch hinaus zum Ringkogel Aussichtsturm für atemberaubende Panoramen. Den Abschluss bildet ein ruhiger Spaziergang im Naturgebiet Gmoos, bevor Sie zum Abendessen ins Zentrum zurückkehren. Dieses Cluster-System minimiert die Parkplatzsuche und maximiert das Erlebnis.",
+        "hu": "Autós napja Hartbergben a városi hangulatot vidéki felfedezésekkel ötvözi. Kezdjen a központban, ahol leparkolhatja autóját, és gyalog fedezheti fel a történelmi belvárost a főtérrel, a templomokkal és a kastéllyal. Ebéd után egy rövid autóút vezet a lenyűgöző Villa Rusticához. Délután irány a magaslat, a Ringkogel kilátó, ahonnan lélegzetelállító panoráma nyílik. A napot egy csendes séta zárja a Gmoos természetvédelmi területen, mielőtt visszatérne a központba vacsorázni. Ez a klaszteres megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az élményt.",
+        "ro": "Ziua cu mașina în Hartberg combină farmecul urban cu descoperirile rurale. Începeți în centru, unde parcați mașina și explorați pe jos inima istorică cu piața principală, bisericile și castelul. După prânz, o scurtă călătorie cu mașina vă duce la fascinanta Villa Rustica. După-amiaza, urcați la Turnul de Observație Ringkogel pentru panorame uluitoare. Ziua se încheie cu o plimbare liniștită în rezervația naturală Gmoos, înainte de a vă întoarce în centru pentru cină. Acest sistem de clustere minimizează căutarea parcării și maximizează experiența.",
+        "en": "Your car day in Hartberg combines urban flair with rural discoveries. Start in the center, where you park your car and explore the historic heart on foot, including the main square, churches, and castle. After lunch, a short drive takes you to the fascinating Villa Rustica. In the afternoon, head up to the Ringkogel Observation Tower for breathtaking panoramas. The day concludes with a quiet walk in the Gmoos nature area before returning to the center for dinner. This cluster system minimizes parking searches and maximizes the experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Der Spitz",
+            "tip": "Moderne steirische Küche mit toller Aussicht."
+          },
+          {
+            "name": "Gasthaus Pack 'Zur Lebing'",
+            "tip": "Traditionelle Gerichte in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Der Spitz",
+            "tip": "Modern stájer konyha, nagyszerű kilátással."
+          },
+          {
+            "name": "Gasthaus Pack 'Zur Lebing'",
+            "tip": "Hagyományos ételek hangulatos légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Der Spitz",
+            "tip": "Bucătărie stiriană modernă cu o priveliște minunată."
+          },
+          {
+            "name": "Gasthaus Pack 'Zur Lebing'",
+            "tip": "Mâncăruri tradiționale într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Der Spitz",
+            "tip": "Modern Styrian cuisine with a great view."
+          },
+          {
+            "name": "Gasthaus Pack 'Zur Lebing'",
+            "tip": "Traditional dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brühl-Park",
+            "tip": "Ein kleiner, ruhiger Park direkt hinter dem Schloss.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aussichtsplattform Ringkogel",
+            "tip": "Der beste Ort für einen weiten Blick über das oststeirische Hügelland.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brühl-Park",
+            "tip": "Kis, csendes park közvetlenül a kastély mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ringkogel kilátóterasz",
+            "tip": "A legjobb hely, ahonnan belátható a kelet-stájer dombvidék.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Brühl",
+            "tip": "Un parc mic și liniștit chiar în spatele castelului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Platforma de observație Ringkogel",
+            "tip": "Cel mai bun loc pentru o vedere panoramică asupra dealurilor din estul Stiriei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brühl Park",
+            "tip": "A small, quiet park right behind the castle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Ringkogel Observation Platform",
+            "tip": "The best place for a wide view over the East Styrian hill country.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle Fandler",
+            "tip": "Etwas außerhalb, aber perfekt für den Kauf von hochwertigen Ölen."
+          },
+          {
+            "name": "Regio-Laden",
+            "tip": "Finden Sie handgemachte Souvenirs und regionale Köstlichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fandler olajmalom",
+            "tip": "Kicsit kiesik, de tökéletes hely minőségi olajok vásárlására."
+          },
+          {
+            "name": "Régió-bolt",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és regionális finomságokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara de ulei Fandler",
+            "tip": "Puțin în afara orașului, dar perfect pentru a cumpăra uleiuri de înaltă calitate."
+          },
+          {
+            "name": "Magazin Regional",
+            "tip": "Găsiți suveniruri lucrate manual și delicatese regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fandler Oil Mill",
+            "tip": "A bit outside the city, but perfect for buying high-quality oils."
+          },
+          {
+            "name": "Regio-Laden (Regional Shop)",
+            "tip": "Find handmade souvenirs and regional delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die zentralen Parkgaragen, um das historische Zentrum stressfrei zu Fuß zu erkunden.",
+          "Ein Navigationsgerät ist hilfreich, um die ländlichen Ziele wie die Villa Rustica zu finden.",
+          "Kombinieren Sie den Ausflug mit einem Besuch bei einem der vielen Weinbauern der Region."
+        ],
+        "hu": [
+          "Használja a központi parkolóházakat, hogy stresszmentesen fedezhesse fel a történelmi központot gyalog.",
+          "Navigációs eszköz hasznos a vidéki célpontok, például a Villa Rustica megtalálásához.",
+          "Kösse össze a kirándulást a régió számos borászának egyikénél tett látogatással."
+        ],
+        "ro": [
+          "Folosiți parcările centrale pentru a explora centrul istoric pe jos, fără stres.",
+          "Un sistem de navigație este util pentru a găsi destinațiile rurale, cum ar fi Villa Rustica.",
+          "Combinați excursia cu o vizită la unul dintre numeroșii viticultori din regiune."
+        ],
+        "en": [
+          "Use the central parking garages to explore the historic center on foot without stress.",
+          "A navigation device is helpful for finding rural destinations like the Villa Rustica.",
+          "Combine the trip with a visit to one of the many winegrowers in the region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Gang zum Hauptplatz",
+            "hu": "Érkezés a buszpályaudvarra és séta a Főtérre",
+            "ro": "Sosire la autogară & plimbare spre Piața Principală",
+            "en": "Arrival at Bus Station & Walk to Main Square"
+          },
+          "coords": [
+            15.972,
+            47.28
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der erste Cluster ist das gesamte historische Zentrum, alles ist zu Fuß erreichbar.",
+            "hu": "Az első klaszter a teljes történelmi központ, minden gyalogosan elérhető.",
+            "ro": "Primul cluster este întregul centru istoric, totul este accesibil pe jos.",
+            "en": "The first cluster is the entire historic center, everything is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Karner",
+            "hu": "Plébániatemplom és Csontház",
+            "ro": "Biserica Parohială și Osuarul",
+            "en": "Parish Church & Charnel House"
+          },
+          "coords": [
+            15.9698,
+            47.282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Geschichts- und Architekturliebhaber.",
+            "hu": "Minden történelem- és építészetkedvelő számára kötelező.",
+            "ro": "O necesitate pentru orice iubitor de istorie și arhitectură.",
+            "en": "A must-see for any history and architecture enthusiast."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hartberg",
+            "hu": "Hartbergi kastély",
+            "ro": "Castelul Hartberg",
+            "en": "Hartberg Castle"
+          },
+          "coords": [
+            15.967,
+            47.2835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die verschiedenen Ausstellungen im Schloss zu besuchen.",
+            "hu": "Szánjon időt a kastélyban található különböző kiállítások megtekintésére.",
+            "ro": "Acordați-vă timp pentru a vizita diversele expoziții din castel.",
+            "en": "Take your time to visit the various exhibitions in the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Gmoos",
+            "hu": "Buszozás a Gmooshoz",
+            "ro": "Călătorie cu autobuzul spre Gmoos",
+            "en": "Bus ride to Gmoos"
+          },
+          "coords": [
+            15.98,
+            47.275
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Hop bringt Sie in eine andere Welt. Ideal für ein Picknick.",
+            "hu": "Egy rövid buszozás egy másik világba repít. Ideális piknikezéshez.",
+            "ro": "O scurtă călătorie cu autobuzul vă duce într-o altă lume. Ideal pentru un picnic.",
+            "en": "A short bus hop takes you to another world. Ideal for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum & Museum",
+            "hu": "Visszatérés a központba és Múzeum",
+            "ro": "Întoarcere în centru & Muzeu",
+            "en": "Return to the Center & Museum"
+          },
+          "coords": [
+            15.9675,
+            47.2805
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit einem tiefen Einblick in die lokale Geschichte ab.",
+            "hu": "Zárja a napot a helyi történelem mélyebb megismerésével.",
+            "ro": "Încheiați ziua cu o incursiune profundă în istoria locală.",
+            "en": "End the day with a deep dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Hartberg lässt sich auch ohne Auto wunderbar entdecken. Nach der Ankunft am Busbahnhof bildet das historische Zentrum Ihr erstes, großes Walking-Cluster. Alle wichtigen Sehenswürdigkeiten wie die Kirchen und das Schloss sind bequem zu Fuß erreichbar. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop in die Naturidylle des Gmoos, Ihr zweites Cluster für den Nachmittag. Hier können Sie spazieren gehen und entspannen. Anschließend fahren Sie mit dem Bus zurück ins Zentrum, um den Tag mit einem Besuch im Museum Hartberg abzurunden.",
+        "hu": "Hartberg autó nélkül is csodálatosan felfedezhető. A buszpályaudvarra érkezés után a történelmi központ alkotja az első, nagy sétáló klasztert. Minden fontos látnivaló, mint a templomok és a kastély, kényelmesen elérhető gyalog. Ebéd után egy rövid buszozás elvisz a Gmoos természeti idilljébe, a délutáni második klaszterbe. Itt sétálhat és pihenhet. Ezután busszal térhet vissza a központba, hogy a napot a Hartbergi Múzeum meglátogatásával zárja.",
+        "ro": "Hartberg poate fi descoperit minunat și fără mașină. După sosirea la autogară, centrul istoric formează primul dvs. mare cluster de mers pe jos. Toate atracțiile importante, cum ar fi bisericile și castelul, sunt ușor accesibile pe jos. După prânz, o scurtă călătorie cu autobuzul vă duce la idila naturală Gmoos, al doilea cluster pentru după-amiază. Aici vă puteți plimba și relaxa. Apoi, luați autobuzul înapoi în centru pentru a încheia ziua cu o vizită la Muzeul Hartberg.",
+        "en": "Hartberg can also be wonderfully discovered without a car. After arriving at the bus station, the historic center forms your first large walking cluster. All important sights such as the churches and the castle are easily accessible on foot. After lunch, a short bus hop takes you to the natural idyll of Gmoos, your second cluster for the afternoon. Here you can walk and relax. Afterwards, you take the bus back to the center to round off the day with a visit to the Hartberg Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Hauptplatz",
+            "tip": "Für eine schnelle und leckere Käsekrainer-Wurst."
+          },
+          {
+            "name": "Café-Konditorei",
+            "tip": "Probieren Sie die lokalen Mehlspeisen zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a főtéren",
+            "tip": "Egy gyors és finom Käsekrainer kolbászért."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Kóstolja meg a helyi süteményeket a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în Piața Principală",
+            "tip": "Pentru un cârnat Käsekrainer rapid și gustos."
+          },
+          {
+            "name": "Cafenea-Cofetărie",
+            "tip": "Încercați prăjiturile locale cu o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack stand on the main square",
+            "tip": "For a quick and tasty Käsekrainer sausage."
+          },
+          {
+            "name": "Café-Confectionery",
+            "tip": "Try the local pastries with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Eine grüne Lunge mitten in der Stadt, gut zu Fuß erreichbar.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Wenn das Wetter schlecht ist, ein ruhiger Rückzugsort.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Zöld oázis a város közepén, könnyen megközelíthető gyalog.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "Ha rossz az idő, egy csendes menedékhely.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Orașului",
+            "tip": "Un plămân verde în mijlocul orașului, ușor accesibil pe jos.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Colțul de lectură din biblioteca orașului",
+            "tip": "Dacă vremea este rea, un refugiu liniștit.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green lung in the middle of the city, easily accessible on foot.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reading corner in the city library",
+            "tip": "If the weather is bad, a quiet retreat.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trafik",
+            "tip": "Kaufen Sie hier Ihre Busfahrkarten und eine lokale Zeitung."
+          },
+          {
+            "name": "Buchhandlung",
+            "tip": "Ein gutes Buch für die Busfahrt oder eine ruhige Stunde im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trafik (dohánybolt)",
+            "tip": "Itt vásárolja meg a buszjegyét és egy helyi újságot."
+          },
+          {
+            "name": "Könyvesbolt",
+            "tip": "Egy jó könyv a buszútra vagy egy csendes órára a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabac",
+            "tip": "Cumpărați biletele de autobuz și un ziar local de aici."
+          },
+          {
+            "name": "Librărie",
+            "tip": "O carte bună pentru călătoria cu autobuzul sau o oră liniștită în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trafik (Tobacconist)",
+            "tip": "Buy your bus tickets and a local newspaper here."
+          },
+          {
+            "name": "Bookstore",
+            "tip": "A good book for the bus ride or a quiet hour in the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich vorab über die Busfahrpläne, besonders am Wochenende.",
+          "Die meisten Busse sind barrierefrei zugänglich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előzetesen tájékozódjon a buszmenetrendekről, különösen hétvégén.",
+          "A legtöbb busz akadálymentesített."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Informați-vă în prealabil despre orarele autobuzelor, în special în weekend.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you are planning several trips.",
+          "Check the bus schedules in advance, especially on weekends.",
+          "Most buses are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

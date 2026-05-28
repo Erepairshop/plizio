@@ -1,0 +1,1404 @@
+{
+  "city_id": "estonia-keila-cities-v2",
+  "anchor": {
+    "name": "Keila",
+    "coords": [
+      24.4172,
+      59.3089
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark Keila",
+            "hu": "Keila Központi Park",
+            "ro": "Parcul Central Keila",
+            "en": "Keila Central Park"
+          },
+          "coords": [
+            24.4175,
+            59.3092
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem ruhigen Spaziergang durch das Herz der Stadt.",
+            "hu": "Kezdje a napot egy békés sétával a város szívében.",
+            "ro": "Începeți ziua cu o plimbare liniștită prin inima orașului.",
+            "en": "Start your day with a peaceful stroll through the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            24.4155,
+            59.3085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur und den historischen Friedhof.",
+            "hu": "Csodálja meg a középkori építészetet és a történelmi temetőkertet.",
+            "ro": "Admirați arhitectura medievală și cimitirul istoric.",
+            "en": "Admire the medieval architecture and the historic churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Harju-Kreismuseum",
+            "hu": "Harjumaa Múzeum",
+            "ro": "Muzeul Județean Harju",
+            "en": "Harju County Museum"
+          },
+          "coords": [
+            24.414,
+            59.3075
+          ],
+          "category": "museums",
+          "arrive_at": "10:44",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die lokale Geschichte und Kultur der Region Harju.",
+            "hu": "Mélyedjen el Harju megye helyi történelmében és kultúrájában.",
+            "ro": "O incursiune profundă în istoria și cultura locală a regiunii Harju.",
+            "en": "A deep dive into the local history and culture of the Harju region."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Keila",
+            "hu": "Keilai uradalom",
+            "ro": "Conacul Keila",
+            "en": "Keila Manor"
+          },
+          "coords": [
+            24.406,
+            59.315
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von der eleganten Fassade und dem umliegenden Park.",
+            "hu": "Készítsen fotókat az elegáns homlokzatról és a környező parkról.",
+            "ro": "Fotografiați fațada elegantă și parcul înconjurător.",
+            "en": "Take photos of the elegant facade and the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Restaurant „Veski Kõrts“",
+            "hu": "Ebéd a „Veski Kõrts” étteremben",
+            "ro": "Prânz la Restaurantul „Veski Kõrts”",
+            "en": "Lunch at 'Veski Kõrts' Restaurant"
+          },
+          "coords": [
+            24.41,
+            59.309
+          ],
+          "category": "gastro",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie die traditionelle estnische Küche in einem gemütlichen Ambiente.",
+            "hu": "Kóstolja meg a hagyományos észt konyhát egy hangulatos környezetben.",
+            "ro": "Încercați bucătăria tradițională estoniană într-o atmosferă primitoare.",
+            "en": "Taste traditional Estonian cuisine in a cozy atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Bahnhofsgebäude",
+            "hu": "Történelmi vasútállomás épülete",
+            "ro": "Clădirea istorică a gării",
+            "en": "Historic Train Station Building"
+          },
+          "coords": [
+            24.425,
+            59.305
+          ],
+          "category": "historical",
+          "arrive_at": "15:59",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ein charmantes Beispiel für die Eisenbahnarchitektur des frühen 20. Jahrhunderts.",
+            "hu": "A 20. század eleji vasúti építészet bájos példája.",
+            "ro": "Un exemplu fermecător de arhitectură feroviară de la începutul secolului XX.",
+            "en": "A charming example of early 20th-century railway architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Keila beginnt im grünen Herzen der Stadt, dem Zentralpark. Von dort aus führt Sie ein kurzer Spaziergang zur mittelalterlichen St.-Michaels-Kirche und zum Harju-Kreismuseum, wo Sie tief in die estnische Geschichte eintauchen. Am Nachmittag schlendern Sie zum eleganten Herrenhaus Keila, ein perfekter Ort für Fotos. Nach einem herzhaften Mittagessen mit lokalen Spezialitäten entdecken Sie das historische Bahnhofsgebäude. Der Abend klingt bei einem entspannten Spaziergang aus, während Sie die ruhige Atmosphäre dieser charmanten Stadt genießen.",
+        "hu": "Keilai napja a város zöld szívében, a Központi Parkban kezdődik. Innen egy rövid séta vezet a középkori Szent Mihály-templomhoz és a Harjumaa Múzeumhoz, ahol elmerülhet Észtország történelmében. Délután átsétál az elegáns Keilai uradalomhoz, amely tökéletes fotóhelyszín. Egy helyi specialitásokból álló kiadós ebéd után felfedezi a történelmi vasútállomás épületét. Az estét egy pihentető sétával zárja, élvezve ennek a bájos városnak a nyugodt légkörét.",
+        "ro": "Ziua dumneavoastră în Keila începe în inima verde a orașului, Parcul Central. De acolo, o scurtă plimbare vă duce la Biserica medievală Sf. Mihail și la Muzeul Județean Harju, unde veți pătrunde în istoria estoniană. După-amiaza, vă plimbați spre elegantul Conac Keila, un loc perfect pentru fotografii. După un prânz copios cu specialități locale, explorați clădirea istorică a gării. Seara se încheie cu o plimbare relaxantă, bucurându-vă de atmosfera liniștită a acestui oraș fermecător.",
+        "en": "Your day in Keila begins in the green heart of the town, the Central Park. From there, a short walk takes you to the medieval St. Michael's Church and the Harju County Museum for a deep dive into Estonian history. In the afternoon, you'll stroll to the elegant Keila Manor, a perfect spot for photos. After a hearty lunch of local specialties, you'll discover the historic train station building. The evening concludes with a relaxing walk, soaking in the quiet atmosphere of this charming town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seljanka Suppe",
+            "tip": "Eine herzhafte, leicht säuerliche Suppe, perfekt für ein stärkendes Mittagessen."
+          },
+          {
+            "name": "Kama",
+            "tip": "Ein traditionelles estnisches Dessert aus geröstetem Getreide, oft mit Kefir serviert."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "Ein Restaurant in einer alten Mühle, das für seine authentische estnische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seljanka leves",
+            "tip": "Kiadós, enyhén savanykás leves, tökéletes egy erősítő ebédhez."
+          },
+          {
+            "name": "Kama",
+            "tip": "Hagyományos észt desszert pörkölt gabonafélékből, gyakran kefirrel tálalva."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "Egy régi malomban található étterem, amely autentikus észt konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă Seljanka",
+            "tip": "O supă consistentă și ușor acrișoară, perfectă pentru un prânz revigorant."
+          },
+          {
+            "name": "Kama",
+            "tip": "Un desert tradițional estonian din cereale prăjite, adesea servit cu chefir."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "Un restaurant într-o moară veche, cunoscut pentru bucătăria sa estoniană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seljanka Soup",
+            "tip": "A hearty, slightly sour soup, perfect for a strengthening lunch."
+          },
+          {
+            "name": "Kama",
+            "tip": "A traditional Estonian dessert made from roasted grains, often served with kefir."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "A restaurant in an old mill, known for its authentic Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Keila-Flusses",
+            "tip": "Ein friedlicher Ort für einen Spaziergang, besonders in der Nähe des Herrenhauses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof der St.-Michaels-Kirche",
+            "tip": "Ein ruhiger und historischer Ort, der zum Nachdenken anregt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Keila-folyó partja",
+            "tip": "Békés hely egy sétához, különösen az uradalmi kastély közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Mihály-templom temetője",
+            "tip": "Csendes és történelmi hely, amely elgondolkodtat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Keila",
+            "tip": "Un loc pașnic pentru o plimbare, mai ales în apropierea conacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Mihail",
+            "tip": "Un loc liniștit și istoric care invită la reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Keila River",
+            "tip": "A peaceful spot for a walk, especially near the manor house.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Michael's Churchyard",
+            "tip": "A quiet and historic place for contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgestrickten Wollwaren und Holzarbeiten."
+          },
+          {
+            "name": "Keila Markt",
+            "tip": "Kaufen Sie frische lokale Produkte und hausgemachte Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel kötött gyapjútermékeket és fafaragásokat."
+          },
+          {
+            "name": "Keilai piac",
+            "tip": "Vásároljon friss helyi termékeket és házi lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați articole din lână tricotate manual și obiecte din lemn."
+          },
+          {
+            "name": "Piața Keila",
+            "tip": "Cumpărați produse locale proaspete și gemuri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Artisan Shops",
+            "tip": "Look for hand-knitted woolens and wooden crafts."
+          },
+          {
+            "name": "Keila Market",
+            "tip": "Shop for fresh local produce and homemade jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Überprüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Obwohl die Stadt klein ist, sind die Wege zwischen dem Herrenhaus und dem Stadtzentrum länger."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Bár a város kicsi, az uradalom és a városközpont közötti séta hosszabb időt vesz igénybe."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Deși orașul este mic, plimbarea dintre conac și centrul orașului este mai lungă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Bring a reusable water bottle.",
+          "Check the museum's opening hours in advance.",
+          "Although the town is small, the walk between the manor and the town center is longer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Bahnhofsgebäude",
+            "hu": "Történelmi vasútállomás épülete",
+            "ro": "Clădirea istorică a gării",
+            "en": "Historic Train Station Building"
+          },
+          "coords": [
+            24.425,
+            59.305
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die Atmosphäre der Stadt aufzusaugen.",
+            "hu": "Jó kiindulópont a város hangulatának megismeréséhez.",
+            "ro": "Un punct de plecare bun pentru a absorbi atmosfera orașului.",
+            "en": "A good starting point to soak up the town's atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralpark Keila & St.-Michaels-Kirche",
+            "hu": "Keila Központi Park és Szent Mihály-templom",
+            "ro": "Parcul Central Keila și Biserica Sf. Mihail",
+            "en": "Keila Central Park & St. Michael's Church"
+          },
+          "coords": [
+            24.416,
+            59.309
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie den Park und die Kirche zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a parkot és a templomot gyalog.",
+            "ro": "Parcați bicicleta și explorați parcul și biserica pe jos.",
+            "en": "Park your bike and explore both the park and the church on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Harju-Kreismuseum",
+            "hu": "Harjumaa Múzeum",
+            "ro": "Muzeul Județean Harju",
+            "en": "Harju County Museum"
+          },
+          "coords": [
+            24.414,
+            59.3075
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "A múzeumba lépés előtt biztonságosan zárja le a kerékpárját.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Secure your bike before you enter the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Keila",
+            "hu": "Keilai uradalom",
+            "ro": "Conacul Keila",
+            "en": "Keila Manor"
+          },
+          "coords": [
+            24.406,
+            59.315
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:06",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch den Park zum Herrenhaus.",
+            "hu": "Élvezze a kerékpározást a parkon keresztül az uradalomhoz.",
+            "ro": "Bucurați-vă de plimbarea cu bicicleta prin parc până la conac.",
+            "en": "Enjoy the ride through the park leading to the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Keila-Wasserfall",
+            "hu": "Keila-vízesés",
+            "ro": "Cascada Keila",
+            "en": "Keila Waterfall"
+          },
+          "coords": [
+            24.401,
+            59.325
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Höhepunkt Ihrer Radtour. Ein wunderschöner Ort zum Entspannen.",
+            "hu": "A kerékpártúra csúcspontja. Gyönyörű hely a pihenésre.",
+            "ro": "Punctul culminant al turului cu bicicleta. Un loc frumos pentru relaxare.",
+            "en": "The highlight of your bike tour. A beautiful spot to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            24.403,
+            59.324
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick in der Nähe des Wasserfalls.",
+            "hu": "Piknikezzen egyet a vízesés közelében.",
+            "ro": "Faceți un picnic lângă cascadă.",
+            "en": "Have a picnic near the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Keila Gesundheitspfad",
+            "hu": "Keila egészségösvény",
+            "ro": "Traseul de sănătate Keila",
+            "en": "Keila Health Track"
+          },
+          "coords": [
+            24.415,
+            59.301
+          ],
+          "category": "natural features",
+          "arrive_at": "16:18",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer leichten Fahrt auf diesem schönen Pfad.",
+            "hu": "Zárja a túrát egy könnyű tekeréssel ezen a szép ösvényen.",
+            "ro": "Încheiați turul cu o plimbare ușoară pe această potecă frumoasă.",
+            "en": "End your tour with a light ride on this pleasant track."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am historischen Bahnhof von Keila. Ihre Route führt Sie durch den Zentralpark zur St.-Michaels-Kirche und zum Museum. Am Mittag radeln Sie zum eleganten Herrenhaus Keila und weiter zum beeindruckenden Keila-Wasserfall, dem natürlichen Juwel der Region. Genießen Sie ein Picknick mit malerischer Aussicht, bevor Sie den Tag auf dem ruhigen Keila Gesundheitspfad ausklingen lassen. Diese Tour verbindet Kultur mit der erfrischenden estnischen Natur.",
+        "hu": "Pattanjon kerékpárra, és induljon Keila történelmi vasútállomásától! Útvonala a Központi Parkon keresztül a Szent Mihály-templomhoz és a múzeumhoz vezet. Délben tekerjen el az elegáns Keilai uradalomhoz, majd tovább a lenyűgöző Keila-vízeséshez, a régió természeti ékkövéhez. Élvezzen egy festői kilátással egybekötött pikniket, mielőtt a napot a békés Keila egészségösvényen zárja. Ez a túra ötvözi a kultúrát a frissítő észt természettel.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la gara istorică din Keila. Traseul vă va purta prin Parcul Central până la Biserica Sf. Mihail și muzeu. La amiază, pedalați spre elegantul Conac Keila și apoi spre impresionanta Cascadă Keila, bijuteria naturală a regiunii. Bucurați-vă de un picnic cu o priveliște pitorească înainte de a încheia ziua pe liniștitul Traseu de Sănătate Keila. Acest tur îmbină cultura cu natura estoniană revigorantă.",
+        "en": "Hop on your bike and start at Keila's historic train station. Your route will take you through the Central Park to St. Michael's Church and the museum. At midday, you'll cycle to the elegant Keila Manor and onwards to the impressive Keila Waterfall, the region's natural gem. Enjoy a picnic with a scenic view before ending your day on the peaceful Keila Health Track. This tour combines culture with refreshing Estonian nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Wasserfall",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt für ein unvergessliches Mittagessen im Freien."
+          },
+          {
+            "name": "Pirukad (Pasteten)",
+            "tip": "Ein perfekter Snack zum Mitnehmen, gefüllt mit Fleisch, Kohl oder Karotten."
+          },
+          {
+            "name": "Joogikoda Baar",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem lokalen Craft-Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a vízesésnél",
+            "tip": "Vásároljon helyi termékeket a piacon egy felejthetetlen szabadtéri ebédhez."
+          },
+          {
+            "name": "Pirukad (piték)",
+            "tip": "Tökéletes elvihető snack, hússal, káposztával vagy sárgarépával töltve."
+          },
+          {
+            "name": "Joogikoda bár",
+            "tip": "Jutalmazza meg magát egy helyi kézműves sörrel a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la cascadă",
+            "tip": "Cumpărați produse locale de la piață pentru un prânz de neuitat în aer liber."
+          },
+          {
+            "name": "Pirukad (plăcinte)",
+            "tip": "O gustare perfectă la pachet, umplută cu carne, varză sau morcovi."
+          },
+          {
+            "name": "Barul Joogikoda",
+            "tip": "Recompensați-vă cu o bere artizanală locală după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at the Waterfall",
+            "tip": "Buy local products from the market for a memorable outdoor lunch."
+          },
+          {
+            "name": "Pirukad (Pies)",
+            "tip": "A perfect on-the-go snack, filled with meat, cabbage, or carrots."
+          },
+          {
+            "name": "Joogikoda Bar",
+            "tip": "Reward yourself with a local craft beer after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsplattform am Keila-Wasserfall",
+            "tip": "Der beste Ort, um die Kraft und Schönheit des Wassers zu bewundern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sängerfestplatz Keila",
+            "tip": "Ein weitläufiger, offener Bereich, der außerhalb von Veranstaltungen sehr ruhig ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Keila-vízesésnél",
+            "tip": "A legjobb hely a víz erejének és szépségének megcsodálására.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keilai dalosfesztivál helyszíne",
+            "tip": "Tágas, nyitott terület, amely rendezvényeken kívül nagyon csendes.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare de la Cascada Keila",
+            "tip": "Cel mai bun loc pentru a admira puterea și frumusețea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terenul Festivalului Cântecului din Keila",
+            "tip": "O zonă vastă, deschisă, foarte liniștită în afara evenimentelor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewing Platform at Keila Waterfall",
+            "tip": "The best spot to admire the power and beauty of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Keila Song Festival Grounds",
+            "tip": "A vast, open area that is very quiet outside of events.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Zubehör für Ihr Fahrrad benötigen."
+          },
+          {
+            "name": "Souvenirs am Museum",
+            "tip": "Finden Sie Bücher und kleine Geschenke zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpárjához kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Ajándéktárgyak a múzeumban",
+            "tip": "Találjon könyveket és apró ajándékokat a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Suveniruri la muzeu",
+            "tip": "Găsiți cărți și mici cadouri despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "In case you need any accessories for your bike."
+          },
+          {
+            "name": "Souvenirs at the Museum",
+            "tip": "Find books and small gifts related to local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Der Weg zum Wasserfall kann einige Steigungen haben.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "A vízeséshez vezető út emelkedőket tartalmazhat.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Traseul către cascadă poate avea câteva pante.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you start.",
+          "Bring a lock to secure your bike at the stops.",
+          "The path to the waterfall may have some inclines.",
+          "A helmet is strongly recommended for your safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Keila-Wasserfall",
+            "hu": "Parkoló a Keila-vízesésnél",
+            "ro": "Parcare la Cascada Keila",
+            "en": "Parking at Keila Waterfall"
+          },
+          "coords": [
+            24.402,
+            59.326
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Naturhighlight. Der Parkplatz ist morgens meist leer.",
+            "hu": "Kezdje a napot a természeti látványosságnál. A parkoló reggel általában üres.",
+            "ro": "Începeți cu atracția naturală. Parcarea este de obicei goală dimineața.",
+            "en": "Start at the natural highlight. The parking lot is usually empty in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Keila-Wasserfall",
+            "hu": "Keila-vízesés",
+            "ro": "Cascada Keila",
+            "en": "Keila Waterfall"
+          },
+          "coords": [
+            24.401,
+            59.325
+          ],
+          "category": "natural features",
+          "arrive_at": "09:11",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verschiedenen Aussichtspunkte und den umliegenden Park.",
+            "hu": "Fedezze fel a különböző kilátópontokat és a környező parkot.",
+            "ro": "Explorați diferitele puncte de observare și parcul înconjurător.",
+            "en": "Explore the different viewpoints and the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Keila",
+            "hu": "Keilai uradalom",
+            "ro": "Conacul Keila",
+            "en": "Keila Manor"
+          },
+          "coords": [
+            24.406,
+            59.315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Wasserfallpark durch eine malerische Landschaft.",
+            "hu": "Rövid séta a vízesés parkjától egy festői tájon keresztül.",
+            "ro": "O scurtă plimbare de la parcul cascadei printr-un peisaj pitoresc.",
+            "en": "A short walk from the waterfall park through a scenic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im Stadtzentrum",
+            "hu": "Parkoló a városközpontban",
+            "ro": "Parcare în centrul orașului",
+            "en": "Parking in the Town Center"
+          },
+          "coords": [
+            24.417,
+            59.308
+          ],
+          "category": "transport",
+          "arrive_at": "11:32",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Auto hier für den Rest des Vormittags ab.",
+            "hu": "Parkolja le itt az autót a délelőtt hátralévő részére.",
+            "ro": "Parcați mașina aici pentru restul dimineții.",
+            "en": "Park the car here for the rest of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Kirche und Zentralpark",
+            "hu": "Szent Mihály-templom és Központi Park",
+            "ro": "Biserica Sf. Mihail și Parcul Central",
+            "en": "St. Michael's Church and Central Park"
+          },
+          "coords": [
+            24.4155,
+            59.3085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Herz der Stadt zu Fuß.",
+            "hu": "Fedezze fel a város történelmi szívét gyalog.",
+            "ro": "Explorați pe jos inima istorică a orașului.",
+            "en": "Explore the historic heart of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Harju-Kreismuseum",
+            "hu": "Harjumaa Múzeum",
+            "ro": "Muzeul Județean Harju",
+            "en": "Harju County Museum"
+          },
+          "coords": [
+            24.414,
+            59.3075
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Exponate vollständig zu würdigen.",
+            "hu": "Szánjon elegendő időt a kiállítási tárgyak teljes megtekintésére.",
+            "ro": "Planificați suficient timp pentru a aprecia pe deplin exponatele.",
+            "en": "Plan enough time to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen und Bahnhofsviertel",
+            "hu": "Késői ebéd és a pályaudvar negyede",
+            "ro": "Prânz târziu și cartierul gării",
+            "en": "Late Lunch and Station Quarter"
+          },
+          "coords": [
+            24.424,
+            59.306
+          ],
+          "category": "gastro",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Bahnhof, um dort zu Mittag zu essen und das historische Gebäude zu sehen.",
+            "hu": "Vezessen a pályaudvarhoz, ebédeljen, és nézze meg a történelmi épületet.",
+            "ro": "Conduceți spre gară pentru a lua prânzul și a vedea clădirea istorică.",
+            "en": "Drive to the station area to have lunch and see the historic building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Keila flexibel. Beginnen Sie Ihren Tag am beeindruckenden Keila-Wasserfall und spazieren Sie von dort zum eleganten Herrenhaus. Nach diesem Natur- und Architekturerlebnis fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie den historischen Kern mit der St.-Michaels-Kirche und dem Harju-Kreismuseum zu Fuß. Zum Abschluss des Tages fahren Sie in die Nähe des Bahnhofs für ein spätes Mittagessen und einen Blick auf die charmante Eisenbahnarchitektur. Dieser Tag kombiniert kurze Fahrten mit ausgedehnten Spaziergängen.",
+        "hu": "Autóval rugalmasan fedezheti fel Keilát. Kezdje a napot a lenyűgöző Keila-vízesésnél, ahonnan átsétálhat az elegáns uradalomhoz. E természeti és építészeti élmény után vezessen a városközpontba. Parkolja le autóját, és fedezze fel gyalog a történelmi magot a Szent Mihály-templommal és a Harjumaa Múzeummal. A nap végén vezessen a pályaudvar közelébe egy késői ebédre, és vessen egy pillantást a bájos vasúti építészetre. Ez a nap rövid autózásokat kombinál hosszabb sétákkal.",
+        "ro": "Cu mașina, explorați Keila în mod flexibil. Începeți ziua la impresionanta Cascadă Keila și plimbați-vă de acolo până la elegantul conac. După această experiență de natură și arhitectură, conduceți spre centrul orașului. Parcați mașina și explorați pe jos nucleul istoric, cu Biserica Sf. Mihail și Muzeul Județean Harju. La sfârșitul zilei, conduceți spre zona gării pentru un prânz târziu și o privire asupra arhitecturii feroviare fermecătoare. Această zi combină călătorii scurte cu mașina cu plimbări extinse pe jos.",
+        "en": "Explore Keila flexibly by car. Start your day at the impressive Keila Waterfall and walk from there to the elegant manor. After this nature and architecture experience, drive to the town center. Park your car and explore the historic core on foot, including St. Michael's Church and the Harju County Museum. To end the day, drive to the station area for a late lunch and a look at the charming railway architecture. This day combines short drives with extensive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Roggenbrot (Leib)",
+            "tip": "Ein Grundnahrungsmittel in Estland. Kaufen Sie einen Laib als Souvenir oder für Ihr Picknick."
+          },
+          {
+            "name": "Kohvik Gnoom",
+            "tip": "Ein kleines Café in der Nähe des Zentrums, ideal für Kaffee und Kuchen."
+          },
+          {
+            "name": "Verivorst (Blutwurst)",
+            "tip": "Wenn Sie zur richtigen Jahreszeit (Winter) hier sind, ist dies eine traditionelle Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rozskenyér (Leib)",
+            "tip": "Észtország alapvető élelmiszere. Vegyen egy veknit szuvenírként vagy a piknikhez."
+          },
+          {
+            "name": "Kohvik Gnoom",
+            "tip": "Egy kis kávézó a központ közelében, ideális kávézáshoz és süteményezéshez."
+          },
+          {
+            "name": "Verivorst (véres hurka)",
+            "tip": "Ha a megfelelő évszakban (télen) jár itt, ez egy hagyományos finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pâine neagră de secară (Leib)",
+            "tip": "Un aliment de bază în Estonia. Cumpărați o pâine ca suvenir sau pentru picnic."
+          },
+          {
+            "name": "Kohvik Gnoom",
+            "tip": "O mică cafenea lângă centru, perfectă pentru o cafea și o prăjitură."
+          },
+          {
+            "name": "Verivorst (sângerete)",
+            "tip": "Dacă sunteți aici în sezonul potrivit (iarna), aceasta este o delicatesă tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Rye Bread (Leib)",
+            "tip": "A staple food in Estonia. Buy a loaf as a souvenir or for your picnic."
+          },
+          {
+            "name": "Kohvik Gnoom",
+            "tip": "A small cafe near the center, perfect for coffee and cake."
+          },
+          {
+            "name": "Verivorst (Blood Sausage)",
+            "tip": "If you're here at the right time of year (winter), this is a traditional delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Keila Gesundheitspfad",
+            "tip": "Fahren Sie zu einem der Ausgangspunkte für einen kurzen, ruhigen Spaziergang im Wald.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park am Herrenhaus",
+            "tip": "Ein ruhiger, weitläufiger Park, der zum Verweilen einlädt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keila egészségösvény",
+            "tip": "Vezessen az egyik kiindulóponthoz egy rövid, csendes erdei sétára.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park az uradalmi kastélynál",
+            "tip": "Csendes, tágas park, amely pihenésre csábít.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul de sănătate Keila",
+            "tip": "Conduceți până la unul dintre punctele de plecare pentru o plimbare scurtă și liniștită în pădure.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Conacului",
+            "tip": "Un parc liniștit și vast, perfect pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keila Health Track",
+            "tip": "Drive to one of the trailheads for a short, quiet walk in the woods.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Manor Park",
+            "tip": "A quiet, expansive park that invites you to linger.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Ideal, um sich mit estnischen Snacks und Getränken einzudecken."
+          },
+          {
+            "name": "Rimi Supermarket",
+            "tip": "Hier finden Sie eine große Auswahl an lokalen und internationalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Ideális hely észt rágcsálnivalók és italok beszerzésére."
+          },
+          {
+            "name": "Rimi Szupermarket",
+            "tip": "Helyi és nemzetközi termékek széles választékát találja itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferia orașului",
+            "tip": "Ideal pentru a vă aproviziona cu gustări și băuturi estoniene."
+          },
+          {
+            "name": "Supermarket Rimi",
+            "tip": "Aici veți găsi o selecție largă de produse locale și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Ideal for stocking up on Estonian snacks and drinks."
+          },
+          {
+            "name": "Rimi Supermarket",
+            "tip": "You'll find a wide selection of local and international products here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie GPS, um die Parkplätze leicht zu finden.",
+          "Achten Sie auf Parkgebühren im Stadtzentrum.",
+          "Das Auto ermöglicht es Ihnen, auch abgelegenere Orte wie den Gesundheitspfad leicht zu erreichen.",
+          "Planen Sie Ihre Fahrten zwischen den Hauptverkehrszeiten, um Staus zu vermeiden."
+        ],
+        "hu": [
+          "Használjon GPS-t a parkolók könnyű megtalálásához.",
+          "Figyeljen a parkolási díjakra a városközpontban.",
+          "Az autó lehetővé teszi a távolabbi helyek, például az egészségösvény könnyű elérését is.",
+          "Tervezze az utazásokat a csúcsforgalmi időszakon kívülre a dugók elkerülése érdekében."
+        ],
+        "ro": [
+          "Utilizați GPS-ul pentru a găsi cu ușurință parcările.",
+          "Fiți atenți la taxele de parcare în centrul orașului.",
+          "Mașina vă permite să ajungeți cu ușurință la locuri mai îndepărtate, cum ar fi traseul de sănătate.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita aglomerația."
+        ],
+        "en": [
+          "Use GPS to find the parking lots easily.",
+          "Be mindful of parking fees in the town center.",
+          "The car allows you to easily reach more remote spots like the health track.",
+          "Plan your drives between rush hours to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Keila",
+            "hu": "Érkezés a Keila pályaudvarra",
+            "ro": "Sosire la Gara Keila",
+            "en": "Arrival at Keila Train Station"
+          },
+          "coords": [
+            24.425,
+            59.305
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour am Verkehrsknotenpunkt der Stadt.",
+            "hu": "Kezdje a túrát a város közlekedési csomópontjánál.",
+            "ro": "Începeți turul la nodul de transport al orașului.",
+            "en": "Start your tour at the town's transportation hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Stadtzentrum",
+            "hu": "Buszozás a városközpontba",
+            "ro": "Călătorie cu autobuzul spre centrul orașului",
+            "en": "Bus to the Town Center"
+          },
+          "coords": [
+            24.417,
+            59.309
+          ],
+          "category": "transport",
+          "arrive_at": "09:33",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum zentralen Platz zu gelangen.",
+            "hu": "Menjen helyi busszal a központi térre.",
+            "ro": "Luați un autobuz local pentru a ajunge în piața centrală.",
+            "en": "Take a local bus to get to the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Michaels-Kirche und Zentralpark",
+            "hu": "Szent Mihály-templom és Központi Park",
+            "ro": "Biserica Sf. Mihail și Parcul Central",
+            "en": "St. Michael's Church and Central Park"
+          },
+          "coords": [
+            24.4155,
+            59.3085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:34",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Cluster aus Kirche und Park zu Fuß.",
+            "hu": "Fedezze fel gyalog a templomból és parkból álló együttest.",
+            "ro": "Explorați pe jos grupul format din biserică și parc.",
+            "en": "Explore the church and park cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Harju-Kreismuseum",
+            "hu": "Harjumaa Múzeum",
+            "ro": "Muzeul Județean Harju",
+            "en": "Harju County Museum"
+          },
+          "coords": [
+            24.414,
+            59.3075
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang von der Kirche entfernt.",
+            "hu": "A múzeum csak egy rövid sétára van a templomtól.",
+            "ro": "Muzeul se află la o scurtă plimbare de biserică.",
+            "en": "The museum is just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Wasserfall",
+            "hu": "Buszozás a vízeséshez",
+            "ro": "Călătorie cu autobuzul la cascadă",
+            "en": "Bus to the Waterfall"
+          },
+          "coords": [
+            24.402,
+            59.326
+          ],
+          "category": "transport",
+          "arrive_at": "12:42",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus in Richtung Wasserfall für das nächste Abenteuer.",
+            "hu": "Menjen busszal a vízesés irányába a következő kalandhoz.",
+            "ro": "Luați autobuzul spre cascadă pentru următoarea aventură.",
+            "en": "Take the bus towards the waterfall for the next adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Keila-Wasserfall & Mittagessen",
+            "hu": "Keila-vízesés és ebéd",
+            "ro": "Cascada Keila și prânz",
+            "en": "Keila Waterfall & Lunch"
+          },
+          "coords": [
+            24.401,
+            59.325
+          ],
+          "category": "natural features",
+          "arrive_at": "12:43",
+          "stay_min": 170,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und essen Sie in einem Café in der Nähe zu Mittag.",
+            "hu": "Élvezze a természetet, és ebédeljen egy közeli kávézóban.",
+            "ro": "Bucurați-vă de natură și luați prânzul la o cafenea din apropiere.",
+            "en": "Enjoy the nature and have lunch at a nearby cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Keila mit öffentlichen Verkehrsmitteln, beginnend am Bahnhof. Eine kurze Busfahrt bringt Sie ins Herz der Stadt, wo Sie den ersten Cluster aus Park, Kirche und Museum zu Fuß erkunden. Tauchen Sie in die lokale Kultur ein, bevor Sie wieder in den Bus steigen. Ihr nächstes Ziel ist der zweite Cluster: der beeindruckende Keila-Wasserfall. Verbringen Sie den Nachmittag in der Natur, genießen Sie ein Mittagessen mit Aussicht und lassen Sie die Seele baumeln, bevor Sie die Rückreise antreten.",
+        "hu": "Fedezze fel Keilát tömegközlekedéssel, a pályaudvarról indulva. Egy rövid buszút a város szívébe visz, ahol gyalogosan fedezheti fel az első látnivalócsoportot: a parkot, a templomot és a múzeumot. Merüljön el a helyi kultúrában, mielőtt újra buszra száll. A következő cél a második csoport: a lenyűgöző Keila-vízesés. Töltse a délutánt a természetben, ebédeljen a kilátásban gyönyörködve, és pihenjen, mielőtt visszaindul.",
+        "ro": "Descoperiți Keila cu transportul public, pornind de la gară. O scurtă călătorie cu autobuzul vă duce în inima orașului, unde explorați pe jos primul grup de atracții: parcul, biserica și muzeul. Pătrundeți în cultura locală înainte de a vă urca din nou în autobuz. Următoarea destinație este al doilea grup: impresionanta Cascadă Keila. Petreceți după-amiaza în natură, bucurați-vă de un prânz cu priveliște și relaxați-vă înainte de a vă întoarce.",
+        "en": "Discover Keila using public transport, starting from the train station. A short bus ride takes you to the heart of the town, where you'll explore the first cluster of the park, church, and museum on foot. Immerse yourself in local culture before hopping on a bus again. Your next destination is the second cluster: the impressive Keila Waterfall. Spend the afternoon in nature, enjoy lunch with a view, and relax before making your way back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Legends Pub",
+            "tip": "Ein beliebter Ort für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "Kringel (Kranzkuchen)",
+            "tip": "Suchen Sie in einer Bäckerei nach diesem süßen oder herzhaften estnischen Gebäck."
+          },
+          {
+            "name": "Scottish House Pub",
+            "tip": "Eine weitere gute Option für ein herzhaftes Pub-Essen nach einem langen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Legends Pub",
+            "tip": "Népszerű hely egy gyors és finom ebédhez."
+          },
+          {
+            "name": "Kringel (fonott kalács)",
+            "tip": "Keressen egy pékségben ezt az édes vagy sós észt süteményt."
+          },
+          {
+            "name": "Scottish House Pub",
+            "tip": "Egy másik jó lehetőség egy kiadós pub-vacsorához egy hosszú nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Legends Pub",
+            "tip": "Un loc popular pentru un prânz rapid și gustos."
+          },
+          {
+            "name": "Kringel (colac)",
+            "tip": "Căutați într-o brutărie acest produs de patiserie estonian dulce sau sărat."
+          },
+          {
+            "name": "Scottish House Pub",
+            "tip": "O altă opțiune bună pentru o masă consistentă la pub după o zi lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Legends Pub",
+            "tip": "A popular spot for a quick and tasty lunch."
+          },
+          {
+            "name": "Kringel (Wreath Cake)",
+            "tip": "Look for this sweet or savory Estonian pastry in a bakery."
+          },
+          {
+            "name": "Scottish House Pub",
+            "tip": "Another good option for a hearty pub meal after a long day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Zentralpark",
+            "tip": "Beobachten Sie das tägliche Leben, während Sie sich eine Pause gönnen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Wanderwege am Wasserfall",
+            "tip": "Abseits der Hauptplattform finden Sie ruhigere Pfade entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Központi Parkban",
+            "tip": "Figyelje a mindennapi életet, miközben szünetet tart.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Túraösvények a vízesésnél",
+            "tip": "A fő kilátótól távolabb csendesebb ösvényeket talál a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Priviți viața de zi cu zi în timp ce luați o pauză.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poteci de drumeție la cascadă",
+            "tip": "Departe de platforma principală, veți găsi poteci mai liniștite de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the Central Park",
+            "tip": "Watch daily life go by while you take a break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hiking trails at the waterfall",
+            "tip": "Away from the main platform, you'll find quieter paths along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keila Tarbijate Ühistu",
+            "tip": "Ein lokaler Genossenschaftsladen, in dem Sie authentische Produkte finden können."
+          },
+          {
+            "name": "Kioske am Bahnhof",
+            "tip": "Praktisch für einen schnellen Snack oder ein Getränk vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keila Tarbijate Ühistu",
+            "tip": "Helyi szövetkezeti bolt, ahol autentikus termékeket találhat."
+          },
+          {
+            "name": "Kioszkok a pályaudvaron",
+            "tip": "Kényelmes egy gyors harapnivalóhoz vagy italhoz indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Keila Tarbijate Ühistu",
+            "tip": "Un magazin cooperativ local unde puteți găsi produse autentice."
+          },
+          {
+            "name": "Chioșcuri la gară",
+            "tip": "Convenabil pentru o gustare rapidă sau o băutură înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Keila Tarbijate Ühistu",
+            "tip": "A local cooperative store where you can find authentic products."
+          },
+          {
+            "name": "Kiosks at the station",
+            "tip": "Convenient for a quick snack or drink before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, falls verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt vom Wasserfall.",
+          "Laden Sie eine Offline-Karte auf Ihr Handy, um sich zurechtzufinden.",
+          "Halten Sie Kleingeld für Bustickets bereit, falls Kartenzahlung nicht möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a vízeséstől való visszautazáshoz.",
+          "Töltsön le egy offline térképet a telefonjára a tájékozódáshoz.",
+          "Tartson magánál aprópénzt a buszjegyekhez, ha a kártyás fizetés nem lehetséges."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de la cascadă.",
+          "Descărcați o hartă offline pe telefon pentru a vă orienta.",
+          "Aveți la îndemână mărunțiș pentru biletele de autobuz, în cazul în care plata cu cardul nu este posibilă."
+        ],
+        "en": [
+          "Buy a day pass for public transport if available.",
+          "Check the bus schedule in advance, especially for the return trip from the waterfall.",
+          "Download an offline map to your phone to help you navigate.",
+          "Keep small change ready for bus tickets in case card payment is not an option."
+        ]
+      }
+    }
+  }
+}

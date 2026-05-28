@@ -1,0 +1,1532 @@
+{
+  "city_id": "czechrepublic-plzen-cities-v2",
+  "anchor": {
+    "name": "Pilsen",
+    "coords": [
+      13.3775,
+      49.7475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Republik",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            13.3775,
+            49.7475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Pestsäule und die bunten Fassaden der Bürgerhäuser.",
+            "hu": "Csodálja meg a pestisoszlopot és a polgárházak színes homlokzatait!",
+            "ro": "Admirați Coloana Ciumei și fațadele colorate ale caselor burgheze.",
+            "en": "Admire the Plague Column and the colorful facades of the burgher houses."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kathedrale",
+            "hu": "Szent Bertalan-katedrális",
+            "ro": "Catedrala Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Cathedral"
+          },
+          "coords": [
+            13.3778,
+            49.7476
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den höchsten Kirchturm Tschechiens für eine fantastische Aussicht.",
+            "hu": "Másszon fel Csehország legmagasabb templomtornyába a fantasztikus kilátásért!",
+            "ro": "Urcați în cel mai înalt turn de biserică din Cehia pentru o priveliște fantastică.",
+            "en": "Climb the highest church tower in the Czech Republic for a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            13.377,
+            49.748
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Sgraffito-Dekorationen, die tschechische Herrscher darstellen.",
+            "hu": "Figyelje meg a cseh uralkodókat ábrázoló sgraffito díszítést!",
+            "ro": "Observați decorațiunile sgraffito care înfățișează conducători cehi.",
+            "en": "Look for the sgraffito decorations depicting Czech rulers."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum",
+            "hu": "Sörfőzde Múzeum",
+            "ro": "Muzeul Berii",
+            "en": "Brewery Museum"
+          },
+          "coords": [
+            13.38,
+            49.7485
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Ticket beinhaltet einen Gutschein für ein ungefiltertes Pilsner Urquell.",
+            "hu": "A jegy tartalmaz egy utalványt egy szűretlen Pilsner Urquell sörre.",
+            "ro": "Biletul include un voucher pentru o bere Pilsner Urquell nefiltrată.",
+            "en": "The ticket includes a voucher for an unfiltered Pilsner Urquell beer."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Untergrund",
+            "hu": "Történelmi földalatti folyosórendszer",
+            "ro": "Subteranul istoric",
+            "en": "Historical Underground"
+          },
+          "coords": [
+            13.3785,
+            49.7472
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie feste Schuhe und eine Jacke, es ist kühl und feucht.",
+            "hu": "Viseljen erős cipőt és kabátot, hűvös és nedves a levegő.",
+            "ro": "Purtați încălțăminte rezistentă și o jachetă, este răcoros și umed.",
+            "en": "Wear sturdy shoes and a jacket; it's cool and damp down there."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            13.3708,
+            49.7455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die zweitgrößte Synagoge Europas. Überprüfen Sie die Öffnungszeiten für Konzerte.",
+            "hu": "Európa második legnagyobb zsinagógája. Ellenőrizze a nyitvatartást a koncertek miatt.",
+            "ro": "A doua cea mai mare sinagogă din Europa. Verificați programul pentru concerte.",
+            "en": "The second largest synagogue in Europe. Check its schedule for concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilsner Urquell Brauerei",
+            "hu": "Pilsner Urquell Sörgyár",
+            "ro": "Fabrica de bere Pilsner Urquell",
+            "en": "Pilsner Urquell Brewery"
+          },
+          "coords": [
+            13.3888,
+            49.746
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:03",
+          "stay_min": 152,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie die Kellertour im Voraus, es lohnt sich absolut.",
+            "hu": "Foglalja le előre a pincetúrát, abszolút megéri.",
+            "ro": "Rezervați turul pivniței în avans, merită absolut.",
+            "en": "Book the cellar tour in advance; it's absolutely worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Pilsen beginnt auf dem belebten Platz der Republik, dem Herzen der Altstadt. Sie erklimmen den Turm der St.-Bartholomäus-Kathedrale und genießen den Panoramablick. Der Vormittag ist der reichen Geschichte gewidmet, mit Besuchen im Rathaus und dem einzigartigen Brauereimuseum, wo Sie die Ursprünge des weltberühmten Bieres entdecken. Nach einem herzhaften böhmischen Mittagessen erkunden Sie das geheimnisvolle Labyrinth des historischen Untergrunds. Am Nachmittag führt Sie ein kurzer Spaziergang zur beeindruckenden Großen Synagoge, einem Zeugnis der vielfältigen Vergangenheit der Stadt. Der Höhepunkt des Tages ist der Besuch der legendären Pilsner Urquell Brauerei. Sie nehmen an einer Führung durch die historischen Keller teil und verkosten das frische, ungefilterte Bier direkt aus dem Eichenfass. Der Abend klingt in einem traditionellen Pub aus, wo Sie die entspannte Atmosphäre der Bierhauptstadt genießen.",
+        "hu": "Pilseni napja a nyüzsgő Köztársaság téren, az óváros szívében kezdődik. Megmássza a Szent Bertalan-katedrális tornyát, ahonnan panorámás kilátás nyílik. A délelőtt a gazdag történelemé, ellátogat a Városházára és az egyedülálló Sörfőzde Múzeumba, ahol felfedezheti a világhírű sör eredetét. Egy kiadós cseh ebéd után felfedezi a történelmi földalatti folyosók titokzatos labirintusát. Délután egy rövid séta vezet az impozáns Nagy Zsinagógához, a város sokszínű múltjának tanújához. A nap fénypontja a legendás Pilsner Urquell Sörgyár meglátogatása. Részt vesz egy vezetett túrán a történelmi pincékben, és megkóstolja a friss, szűretlen sört egyenesen a tölgyfahordóból. Az este egy hagyományos kocsmában ér véget, ahol élvezheti a sörfőváros laza hangulatát.",
+        "ro": "Ziua dumneavoastră în Plzeň începe în vibranta Piață a Republicii, inima orașului vechi. Urcați în turnul Catedralei Sf. Bartolomeu pentru vederi panoramice. Dimineața este dedicată istoriei bogate, cu vizite la Primărie și la unicul Muzeu al Berii, descoperind originile berii de renume mondial. După un prânz boem consistent, explorați labirintul misterios al subteranului istoric. După-amiaza, o scurtă plimbare vă duce la impresionanta Mare Sinagogă, o mărturie a trecutului divers al orașului. Punctul culminant al zilei este vizita la legendara fabrică de bere Pilsner Urquell. Participați la un tur ghidat al pivnițelor istorice și degustați bere proaspătă, nefiltrată, direct din butoaiele de stejar. Seara se încheie într-un pub tradițional, savurând atmosfera relaxată a capitalei berii.",
+        "en": "Your day in Pilsen begins in the bustling Republic Square, the heart of the Old Town. You'll climb the tower of St. Bartholomew's Cathedral for panoramic views. The morning is dedicated to rich history, with visits to the Town Hall and the unique Brewery Museum, discovering the origins of the world-famous beer. After a hearty Bohemian lunch, you'll explore the mysterious labyrinth of the Historical Underground. In the afternoon, a short walk takes you to the impressive Great Synagogue, a testament to the city's diverse past. The highlight of the day is a visit to the legendary Pilsner Urquell Brewery. You'll join a guided tour of the historic cellars and taste fresh, unfiltered beer straight from the oak barrels. The evening concludes in a traditional pub, soaking up the relaxed atmosphere of the beer capital."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Rinderbraten in Sahnesauce mit Knödeln, ein tschechischer Klassiker."
+          },
+          {
+            "name": "Na Spilce",
+            "tip": "Riesiges Bierrestaurant direkt auf dem Gelände der Pilsner Urquell Brauerei."
+          },
+          {
+            "name": "U Salzmannů",
+            "tip": "Eines der ältesten Pubs in Pilsen mit traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Vadas marhaszelet tejszínes mártással és knédlivel, egy cseh klasszikus."
+          },
+          {
+            "name": "Na Spilce",
+            "tip": "Hatalmas söröző étterem közvetlenül a Pilsner Urquell sörgyár területén."
+          },
+          {
+            "name": "U Salzmannů",
+            "tip": "Pilsen egyik legrégebbi kocsmája, hagyományos konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Friptură de vită în sos de smântână cu găluște, un clasic ceh."
+          },
+          {
+            "name": "Na Spilce",
+            "tip": "Un restaurant imens, situat chiar în incinta fabricii de bere Pilsner Urquell."
+          },
+          {
+            "name": "U Salzmannů",
+            "tip": "Unul dintre cele mai vechi pub-uri din Plzeň, cu bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Beef sirloin in cream sauce with dumplings, a Czech classic."
+          },
+          {
+            "name": "Na Spilce",
+            "tip": "Huge beer restaurant right on the Pilsner Urquell Brewery grounds."
+          },
+          {
+            "name": "U Salzmannů",
+            "tip": "One of the oldest pubs in Pilsen with traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Müller'scher Garten (Mlýnská strouha)",
+            "tip": "Eine ruhige grüne Oase entlang der ehemaligen Stadtmauer, perfekt für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bolevaz-Teiche",
+            "tip": "Ein System von Teichen am Stadtrand, ideal für einen längeren Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Domturm",
+            "tip": "Früh am Morgen ist es hier oben ruhig und die Aussicht ist am klarsten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Müller-kert (Mlýnská strouha)",
+            "tip": "Csendes zöld oázis az egykori városfal mentén, tökéletes egy kis szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bolevaz-tavak",
+            "tip": "Tórendszer a város szélén, ideális egy hosszabb sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a dóm tornyából",
+            "tip": "Kora reggel csend van itt fent, és a kilátás a legtisztább.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina lui Müller (Mlýnská strouha)",
+            "tip": "O oază de verdeață liniștită de-a lungul fostelor ziduri ale orașului, perfectă pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Iazurile Bolevaz",
+            "tip": "Un sistem de iazuri la marginea orașului, ideal pentru o plimbare mai lungă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din turnul catedralei",
+            "tip": "Dimineața devreme este liniște aici sus și priveliștea este cea mai clară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Müller's Garden (Mlýnská strouha)",
+            "tip": "A quiet green oasis along the former city walls, perfect for a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bolevec Ponds",
+            "tip": "A system of ponds on the outskirts of the city, ideal for a longer walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Cathedral Tower",
+            "tip": "Early in the morning it is quiet up here and the view is clearest.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pilsner Urquell Souvenirshop",
+            "tip": "Markenartikel, von Gläsern bis zu Kleidung, direkt an der Quelle."
+          },
+          {
+            "name": "Bauernmarkt (náměstí Republiky)",
+            "tip": "Lokale Produkte, Käse und Handwerk, oft an Wochenenden auf dem Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pilsner Urquell Ajándékbolt",
+            "tip": "Márkás termékek, poharaktól a ruházatig, közvetlenül a forrásnál."
+          },
+          {
+            "name": "Termelői piac (náměstí Republiky)",
+            "tip": "Helyi termékek, sajtok és kézműves áruk, gyakran hétvégén a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Pilsner Urquell",
+            "tip": "Produse de marcă, de la pahare la îmbrăcăminte, chiar la sursă."
+          },
+          {
+            "name": "Piața fermierilor (náměstí Republiky)",
+            "tip": "Produse locale, brânzeturi și artizanat, adesea în weekend în piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pilsner Urquell Souvenir Shop",
+            "tip": "Branded merchandise, from glasses to clothing, right at the source."
+          },
+          {
+            "name": "Farmers' Market (náměstí Republiky)",
+            "tip": "Local produce, cheese, and crafts, often on weekends in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Buchen Sie die Tour der Pilsner Urquell Brauerei online, um lange Wartezeiten zu vermeiden.",
+          "Halten Sie etwas Bargeld für kleinere Einkäufe oder Trinkgelder bereit, obwohl Karten weit verbreitet sind."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Foglalja le online a Pilsner Urquell sörgyártúrát a hosszú várakozás elkerülése érdekében.",
+          "Tartson magánál némi készpénzt a kisebb vásárlásokhoz vagy borravalóhoz, bár a kártyás fizetés elterjedt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Rezervați online turul fabricii de bere Pilsner Urquell pentru a evita așteptările lungi.",
+          "Păstrați niște numerar pentru cumpărături mici sau bacșișuri, deși cardurile sunt acceptate pe scară largă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Book the Pilsner Urquell Brewery tour online to avoid long queues.",
+          "Keep some cash handy for smaller purchases or tips, although cards are widely accepted."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Republik",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            13.3775,
+            49.7475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kathedrale",
+            "hu": "Szent Bertalan-katedrális",
+            "ro": "Catedrala Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Cathedral"
+          },
+          "coords": [
+            13.3778,
+            49.7476
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Turm besteigen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felmászik a toronyba.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a urca în turn.",
+            "en": "Lock your bike securely before climbing the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            13.3708,
+            49.7455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die maurische Architektur und die beeindruckende Größe.",
+            "hu": "Csodálja meg a mór építészetet és a lenyűgöző méreteket!",
+            "ro": "Admirați arhitectura maură și dimensiunea impresionantă.",
+            "en": "Admire the Moorish architecture and the impressive size."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum",
+            "hu": "Sörfőzde Múzeum",
+            "ro": "Muzeul Berii",
+            "en": "Brewery Museum"
+          },
+          "coords": [
+            13.38,
+            49.7485
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Bierliebhaber. Die Ausstellung ist sehr informativ.",
+            "hu": "Minden sörkedvelőnek kötelező. A kiállítás nagyon informatív.",
+            "ro": "O vizită obligatorie pentru orice iubitor de bere. Expoziția este foarte informativă.",
+            "en": "A must-visit for any beer lover. The exhibition is very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilsner Urquell Brauerei",
+            "hu": "Pilsner Urquell Sörgyár",
+            "ro": "Fabrica de bere Pilsner Urquell",
+            "en": "Pilsner Urquell Brewery"
+          },
+          "coords": [
+            13.3888,
+            49.746
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die geführte Tour ist der beste Weg, die Brauerei zu erleben.",
+            "hu": "A vezetett túra a legjobb módja a sörgyár megismerésének.",
+            "ro": "Turul ghidat este cel mai bun mod de a experimenta fabrica de bere.",
+            "en": "The guided tour is the best way to experience the brewery."
+          }
+        },
+        {
+          "name": {
+            "de": "Techmania Science Center",
+            "hu": "Techmania Tudományos Központ",
+            "ro": "Centrul de Știință Techmania",
+            "en": "Techmania Science Center"
+          },
+          "coords": [
+            13.365,
+            49.739
+          ],
+          "category": "museums",
+          "arrive_at": "15:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Interaktive Exponate für alle Altersgruppen. Planen Sie genügend Zeit ein.",
+            "hu": "Interaktív kiállítások minden korosztálynak. Tervezzen elég időt!",
+            "ro": "Exponate interactive pentru toate vârstele. Planificați suficient timp.",
+            "en": "Interactive exhibits for all ages. Plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            13.3765,
+            49.7478
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zum Hauptplatz zurück und wählen Sie eines der vielen Restaurants.",
+            "hu": "Térjen vissza a főtérre, és válasszon a számos étterem közül.",
+            "ro": "Întoarceți-vă în piața principală și alegeți unul dintre multele restaurante.",
+            "en": "Return to the main square area and choose from one of the many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Pilsen auf dynamische Weise. Sie starten am zentralen Platz der Republik, bevor Sie zur beeindruckenden Großen Synagoge radeln. Der Vormittag ist dem Bier gewidmet: Nach einem Besuch im Brauereimuseum führt Sie eine kurze Fahrt zum weltberühmten Pilsner Urquell Gelände für eine ausgiebige Tour. Nach dem Mittagessen überqueren Sie den Fluss und tauchen in die Welt der Wissenschaft im interaktiven Techmania Science Center ein, ein Kontrast zur historischen Altstadt. Der Nachmittag gehört der modernen Seite Pilsens. Sie radeln durch die neueren Stadtteile und entlang des Flusses Radbuza. Am späten Nachmittag kehren Sie ins Zentrum zurück. Sie beschließen den Tag mit einem wohlverdienten Abendessen in einem traditionellen Restaurant in der Altstadt und lassen die Eindrücke des Tages Revue passieren.",
+        "hu": "Kerékpárral dinamikusan fedezheti fel Pilsent. A központi Köztársaság térről indul, majd az impozáns Nagy Zsinagógához teker. A délelőtt a söré: a Sörfőzde Múzeum után egy rövid út vezet a világhírű Pilsner Urquell telephelyére egy alapos túrára. Ebéd után átkel a folyón, és elmerül a tudomány világában az interaktív Techmania Tudományos Központban, amely kontrasztot képez a történelmi óvárossal. A délután Pilsen modern oldaláé. Átteker az újabb városrészeken és a Radbuza folyó mentén. Késő délután visszatér a központba. A napot egy jól megérdemelt vacsorával zárja egy hagyományos óvárosi étteremben, felidézve a nap élményeit.",
+        "ro": "Explorați Plzeň într-un mod dinamic cu bicicleta. Porniți din Piața centrală a Republicii înainte de a pedala spre impresionanta Mare Sinagogă. Dimineața este dedicată berii: după o vizită la Muzeul Berii, o scurtă plimbare vă duce la renumita fabrică Pilsner Urquell pentru un tur extins. După prânz, traversați râul și pătrundeți în lumea științei la centrul interactiv Techmania, un contrast cu centrul istoric. După-amiaza aparține laturii moderne a orașului Plzeň. Pedalați prin cartierele mai noi și de-a lungul râului Radbuza. Spre seară, vă întoarceți în centru. Încheiați ziua cu o cină binemeritată la un restaurant tradițional din orașul vechi, rememorând impresiile zilei.",
+        "en": "Explore Pilsen dynamically by bike. You start at the central Republic Square before cycling to the impressive Great Synagogue. The morning is dedicated to beer: after a visit to the Brewery Museum, a short ride takes you to the world-famous Pilsner Urquell grounds for an extensive tour. After lunch, you cross the river and delve into the world of science at the interactive Techmania Science Center, a contrast to the historic old town. The afternoon belongs to Pilsen's modern side. You'll cycle through the newer districts and along the Radbuza River. In the late afternoon, you return to the center. You end the day with a well-deserved dinner at a traditional restaurant in the old town, reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gulasch mit Knödeln",
+            "tip": "Ein herzhaftes Gericht, das perfekt zu einem kalten Bier passt."
+          },
+          {
+            "name": "Pivstro",
+            "tip": "Moderne Bistroküche mit einer großen Auswahl an Craft-Bieren."
+          },
+          {
+            "name": "Lokál Pod Divadlem",
+            "tip": "Serviert frisches Tankbier und klassische tschechische Gerichte in einer lebhaften Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gulyás knédlivel",
+            "tip": "Kiadós étel, amely tökéletesen illik egy hideg sörhöz."
+          },
+          {
+            "name": "Pivstro",
+            "tip": "Modern bisztrókonyha kézműves sörök nagy választékával."
+          },
+          {
+            "name": "Lokál Pod Divadlem",
+            "tip": "Friss tank sört és klasszikus cseh ételeket szolgál fel élénk légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș cu găluște",
+            "tip": "Un fel de mâncare consistent, perfect cu o bere rece."
+          },
+          {
+            "name": "Pivstro",
+            "tip": "Bucătărie modernă de bistro cu o selecție largă de beri artizanale."
+          },
+          {
+            "name": "Lokál Pod Divadlem",
+            "tip": "Servește bere proaspătă la halbă și mâncăruri cehe clasice într-o atmosferă plină de viață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goulash with dumplings",
+            "tip": "A hearty dish that pairs perfectly with a cold beer."
+          },
+          {
+            "name": "Pivstro",
+            "tip": "Modern bistro cuisine with a wide selection of craft beers."
+          },
+          {
+            "name": "Lokál Pod Divadlem",
+            "tip": "Serves fresh tank beer and classic Czech dishes in a lively atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westböhmisches Museum",
+            "tip": "Ein ruhiger Ort, um in die Geschichte und Kunst der Region einzutauchen.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Štruncovy Sady Park",
+            "tip": "Ein Park in der Nähe des Fußballstadions, ideal für eine kurze Radpause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer der Radbuza",
+            "tip": "Eine entspannte Radtour entlang des Flusses weg vom Trubel der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyugat-Csehországi Múzeum",
+            "tip": "Csendes hely, ahol elmerülhet a régió történelmében és művészetében.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Štruncovy Sady Park",
+            "tip": "Park a futballstadion közelében, ideális egy rövid kerékpáros szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Radbuza folyó partja",
+            "tip": "Egy pihentető kerékpártúra a folyó mentén, távol a város nyüzsgésétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Boemiei de Vest",
+            "tip": "Un loc liniștit pentru a aprofunda istoria și arta regiunii.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Parcul Štruncovy Sady",
+            "tip": "Un parc lângă stadionul de fotbal, ideal pentru o scurtă pauză de ciclism.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Radbuza",
+            "tip": "O plimbare relaxantă cu bicicleta de-a lungul râului, departe de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum of West Bohemia",
+            "tip": "A quiet place to delve into the history and art of the region.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Štruncovy Sady Park",
+            "tip": "A park near the football stadium, ideal for a short bike break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radbuza Riverbank",
+            "tip": "A relaxing bike ride along the river away from the city bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bedna Plná Piv",
+            "tip": "Ein Fachgeschäft für tschechische Craft-Biere, perfekt zum Mitnehmen."
+          },
+          {
+            "name": "Plzeň Plaza",
+            "tip": "Ein modernes Einkaufszentrum, wenn Sie nach bekannten Marken suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bedna Plná Piv",
+            "tip": "Cseh kézműves sörökre szakosodott üzlet, tökéletes elvitelre."
+          },
+          {
+            "name": "Plzeň Plaza",
+            "tip": "Modern bevásárlóközpont, ha ismert márkákat keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bedna Plná Piv",
+            "tip": "Un magazin specializat în beri artizanale cehe, perfect de luat la pachet."
+          },
+          {
+            "name": "Plzeň Plaza",
+            "tip": "Un centru comercial modern dacă sunteți în căutarea unor mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bedna Plná Piv",
+            "tip": "A specialty shop for Czech craft beers, perfect for taking some home."
+          },
+          {
+            "name": "Plzeň Plaza",
+            "tip": "A modern shopping mall if you are looking for well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pilsen ist relativ flach, aber einige Brücken haben leichte Steigungen.",
+          "Nutzen Sie die markierten Radwege, besonders entlang der Flüsse.",
+          "Viele Restaurants und Cafés erlauben es, das Fahrrad in Sichtweite abzustellen.",
+          "Ein Fahrradschloss ist unerlässlich, besonders an belebten Orten wie der Brauerei."
+        ],
+        "hu": [
+          "Pilsen viszonylag sík, de néhány hídnak enyhe emelkedője van.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyók mentén.",
+          "Sok étterem és kávézó megengedi, hogy a kerékpárt látótávolságon belül helyezze el.",
+          "A kerékpárzár elengedhetetlen, különösen forgalmas helyeken, mint a sörgyár."
+        ],
+        "ro": [
+          "Plzeň este relativ plat, dar unele poduri au pante ușoare.",
+          "Folosiți pistele de biciclete marcate, în special de-a lungul râurilor.",
+          "Multe restaurante și cafenele permit parcarea bicicletei la vedere.",
+          "Un lacăt de bicicletă este esențial, mai ales în locuri aglomerate precum fabrica de bere."
+        ],
+        "en": [
+          "Pilsen is relatively flat, but some bridges have slight inclines.",
+          "Use the marked bike paths, especially along the rivers.",
+          "Many restaurants and cafes will allow you to park your bike within sight.",
+          "A bike lock is essential, especially in busy places like the brewery."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus am Platz der Republik",
+            "hu": "Parkolóház a Köztársaság térnél",
+            "ro": "Parcare la Piața Republicii",
+            "en": "Parking at Republic Square"
+          },
+          "coords": [
+            13.375,
+            49.749
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon itt a délelőttre. Innen gyalog fedezheti fel az óvárost.",
+            "ro": "Parcați aici pentru dimineață. De aici explorați orașul vechi pe jos.",
+            "en": "Park here for the morning. You'll explore the Old Town on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der Republik & Rathaus",
+            "hu": "Köztársaság tér és Városháza",
+            "ro": "Piața Republicii și Primăria",
+            "en": "Republic Square & Town Hall"
+          },
+          "coords": [
+            13.3775,
+            49.7475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Cluster beginnt hier. Genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Az első klaszter itt kezdődik. Élvezze a főtér hangulatát!",
+            "ro": "Primul cluster începe aici. Bucurați-vă de atmosfera pieței principale.",
+            "en": "The first cluster starts here. Enjoy the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kathedrale",
+            "hu": "Szent Bertalan-katedrális",
+            "ro": "Catedrala Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Cathedral"
+          },
+          "coords": [
+            13.3778,
+            49.7476
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turmaufstieg ist ein Muss, aber planen Sie genügend Zeit ein.",
+            "hu": "A toronymászás kötelező, de tervezzen rá elég időt.",
+            "ro": "Urcarea în turn este obligatorie, dar planificați suficient timp.",
+            "en": "The tower climb is a must, but plan enough time for it."
+          }
+        },
+        {
+          "name": {
+            "de": "Brauereimuseum & Mittagessen",
+            "hu": "Sörfőzde Múzeum és ebéd",
+            "ro": "Muzeul Berii și prânz",
+            "en": "Brewery Museum & Lunch"
+          },
+          "coords": [
+            13.38,
+            49.7485
+          ],
+          "category": "museums",
+          "arrive_at": "11:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem traditionellen Mittagessen in der Nähe.",
+            "hu": "Kombinálja a múzeumlátogatást egy hagyományos ebéddel a közelben!",
+            "ro": "Combinați vizita la muzeu cu un prânz tradițional în apropiere.",
+            "en": "Combine the museum visit with a traditional lunch nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilsner Urquell Brauerei",
+            "hu": "Pilsner Urquell Sörgyár",
+            "ro": "Fabrica de bere Pilsner Urquell",
+            "en": "Pilsner Urquell Brewery"
+          },
+          "coords": [
+            13.3888,
+            49.746
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Besucherparkplatz. Der zweite Cluster konzentriert sich auf die Brauerei.",
+            "hu": "Hajtson a látogatói parkolóba. A második klaszter a sörgyárra összpontosít.",
+            "ro": "Conduceți la parcarea pentru vizitatori. Al doilea cluster se concentrează pe fabrică.",
+            "en": "Drive to the visitor parking lot. The second cluster focuses on the brewery."
+          }
+        },
+        {
+          "name": {
+            "de": "Techmania Science Center",
+            "hu": "Techmania Tudományos Központ",
+            "ro": "Centrul de Știință Techmania",
+            "en": "Techmania Science Center"
+          },
+          "coords": [
+            13.365,
+            49.739
+          ],
+          "category": "museums",
+          "arrive_at": "16:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Cluster für den Tag. Parken Sie direkt am Zentrum. Ideal für Familien.",
+            "hu": "Az utolsó klaszter a napra. Parkoljon közvetlenül a központnál. Ideális családoknak.",
+            "ro": "Ultimul cluster al zilei. Parcați chiar la centru. Ideal pentru familii.",
+            "en": "The final cluster for the day. Park right at the center. Ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Škoda Park",
+            "hu": "Séta a Škoda Parkban",
+            "ro": "Plimbare în Parcul Škoda",
+            "en": "Walk in Škoda Park"
+          },
+          "coords": [
+            13.363,
+            49.7405
+          ],
+          "category": "park",
+          "arrive_at": "18:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um nach dem Museumsbesuch frische Luft zu schnappen.",
+            "hu": "Rövid séta a múzeumlátogatás utáni friss levegőért.",
+            "ro": "O scurtă plimbare pentru a lua aer curat după vizita la muzeu.",
+            "en": "A short walk to get some fresh air after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Flexibilität, verschiedene Stadtteile Pilsens zu erkunden. Sie parken im Zentrum und entdecken den ersten Cluster zu Fuß: den Platz der Republik, die Kathedrale und das Brauereimuseum. Der Vormittag ist eine Mischung aus majestätischer Architektur und der reichen Geschichte des Bierbrauens. Nach einem Mittagessen in der Altstadt holen Sie Ihr Auto für den zweiten Teil des Tages. Sie fahren zum berühmten Gelände der Pilsner Urquell Brauerei. Hier tauchen Sie tief in die Welt des Bieres ein, nehmen an einer Führung teil und genießen die Atmosphäre dieses legendären Ortes. Der Nachmittag führt Sie zu einem Kontrastprogramm. Eine kurze Fahrt bringt Sie zum Techmania Science Center, einem modernen Komplex voller interaktiver Exponate, der besonders für Familien ein Highlight ist. Der Tag endet mit einem entspannten Spaziergang im nahegelegenen Park, bevor Sie Ihre Weiter- oder Heimreise antreten.",
+        "hu": "Autóval kihasználhatja a rugalmasságot, hogy Pilsen különböző részeit is felfedezze. A központban parkol, és gyalog fedezi fel az első klasztert: a Köztársaság teret, a katedrálist és a Sörfőzde Múzeumot. A délelőtt a fenséges építészet és a sörfőzés gazdag történelmének keveréke. Az óvárosi ebéd után autóba pattan a nap második felére. Elhajt a híres Pilsner Urquell sörgyár területére. Itt mélyen elmerül a sör világában, részt vesz egy vezetett túrán, és élvezi e legendás hely hangulatát. A délután egy kontrasztos programot kínál. Egy rövid autóút a Techmania Tudományos Központba vezet, egy modern, interaktív kiállításokkal teli komplexumba, amely különösen a családok számára jelent fénypontot. A nap egy közeli parkban tett pihentető sétával zárul, mielőtt továbbutazna vagy hazaindulna.",
+        "ro": "Cu mașina, profitați de flexibilitatea de a explora diferite cartiere din Plzeň. Parcați în centru și explorați primul cluster pe jos: Piața Republicii, catedrala și Muzeul Berii. Dimineața este un amestec de arhitectură maiestuoasă și istoria bogată a fabricării berii. După prânz în Orașul Vechi, vă recuperați mașina pentru a doua parte a zilei. Conduceți la faimosul complex al fabricii de bere Pilsner Urquell. Aici vă cufundați adânc în lumea berii, participând la un tur ghidat și bucurându-vă de atmosfera acestui loc legendar. După-amiaza vă aduce un program de contrast. O scurtă călătorie cu mașina vă duce la Centrul de Știință Techmania, un complex modern plin de exponate interactive, un punct de atracție în special pentru familii. Ziua se încheie cu o plimbare relaxantă în parcul din apropiere înainte de a vă continua călătoria sau de a vă întoarce acasă.",
+        "en": "With a car, you have the flexibility to explore different districts of Pilsen. You park in the center and explore the first cluster on foot: Republic Square, the cathedral, and the Brewery Museum. The morning is a mix of majestic architecture and the rich history of brewing. After lunch in the Old Town, you retrieve your car for the second part of the day. You drive to the famous Pilsner Urquell Brewery grounds. Here, you'll dive deep into the world of beer, joining a guided tour and enjoying the atmosphere of this legendary place. The afternoon brings a contrasting program. A short drive takes you to the Techmania Science Center, a modern complex full of interactive exhibits, which is a highlight especially for families. The day ends with a relaxing walk in the nearby park before you continue your journey or head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramboráky",
+            "tip": "Tschechische Kartoffelpuffer, oft mit Sauerkraut serviert. Ein leckerer Snack."
+          },
+          {
+            "name": "Restaurace a penzion U Mže",
+            "tip": "In der Nähe des Techmania Centers, gut für eine Mahlzeit nach dem Museumsbesuch."
+          },
+          {
+            "name": "Na Parkánu",
+            "tip": "Direkt neben dem Brauereimuseum, serviert ausgezeichnetes Bier und Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramboráky",
+            "tip": "Cseh burgonya lángos, gyakran savanyú káposztával tálalva. Finom harapnivaló."
+          },
+          {
+            "name": "Restaurace a penzion U Mže",
+            "tip": "A Techmania központ közelében, jó választás egy étkezésre a múzeumlátogatás után."
+          },
+          {
+            "name": "Na Parkánu",
+            "tip": "Közvetlenül a Sörfőzde Múzeum mellett, kiváló sört és ételeket szolgál fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite de cartofi cehești, adesea servite cu varză murată. O gustare delicioasă."
+          },
+          {
+            "name": "Restaurace a penzion U Mže",
+            "tip": "Aproape de Centrul Techmania, bun pentru o masă după vizitarea muzeului."
+          },
+          {
+            "name": "Na Parkánu",
+            "tip": "Chiar lângă Muzeul Berii, servește bere și mâncare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramboráky",
+            "tip": "Czech potato pancakes, often served with sauerkraut. A delicious snack."
+          },
+          {
+            "name": "Restaurace a penzion U Mže",
+            "tip": "Near the Techmania Center, good for a meal after the museum visit."
+          },
+          {
+            "name": "Na Parkánu",
+            "tip": "Right next to the Brewery Museum, serves excellent beer and food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patton Memorial Pilsen",
+            "tip": "Ein ruhiges Museum, das der Befreiung der Stadt durch die US-Armee gewidmet ist.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Meditationsgarten (Luft's Garden)",
+            "tip": "Ein verstecktes Juwel mit Denkmälern für die Opfer des Bösen, etwas außerhalb des Zentrums.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Flusses Mže",
+            "tip": "Ein friedlicher Weg, um dem städtischen Trubel zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patton Emlékmúzeum",
+            "tip": "Csendes múzeum, amelyet a város amerikai hadsereg általi felszabadításának szenteltek.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Meditációs kert (Luft-kert)",
+            "tip": "Rejtett gyöngyszem a gonosz áldozatainak emlékműveivel, kissé a központon kívül.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Mže folyó mentén",
+            "tip": "Békés útvonal a városi nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Memorialul Patton din Plzeň",
+            "tip": "Un muzeu liniștit dedicat eliberării orașului de către armata americană.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Grădina de Meditație (Grădina lui Luft)",
+            "tip": "O bijuterie ascunsă cu monumente pentru victimele răului, puțin în afara centrului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Mže",
+            "tip": "O modalitate pașnică de a scăpa de agitația urbană.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Patton Memorial Pilsen",
+            "tip": "A quiet museum dedicated to the liberation of the city by the US Army.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Meditation Garden (Luft's Garden)",
+            "tip": "A hidden gem with memorials to victims of evil, slightly outside the center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Mže river",
+            "tip": "A peaceful way to escape the urban hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Becherovka",
+            "tip": "Obwohl aus Karlsbad, ist dieser berühmte tschechische Kräuterlikör in jedem Spirituosengeschäft erhältlich."
+          },
+          {
+            "name": "Kristallglas",
+            "tip": "Halten Sie Ausschau nach böhmischem Kristallglas in den Souvenirläden der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Becherovka",
+            "tip": "Bár Karlovy Vary-ból származik, ez a híres cseh gyógynövénylikőr minden italboltban kapható."
+          },
+          {
+            "name": "Kristályüveg",
+            "tip": "Keresse a cseh kristályüveget az óvárosi ajándékboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Becherovka",
+            "tip": "Deși provine din Karlovy Vary, acest faimos lichior de plante ceh este disponibil în orice magazin de băuturi alcoolice."
+          },
+          {
+            "name": "Cristal de Boemia",
+            "tip": "Căutați cristal de Boemia în magazinele de suveniruri din Orașul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Becherovka",
+            "tip": "Although from Karlovy Vary, this famous Czech herbal liqueur is available in any liquor store."
+          },
+          {
+            "name": "Crystal Glass",
+            "tip": "Look for Bohemian crystal glass in the souvenir shops of the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus, da diese variieren können.",
+          "Die Altstadt ist eine Umweltzone; achten Sie auf die Beschilderung.",
+          "Planen Sie zusätzliche Zeit für den Verkehr und die Parkplatzsuche ein, besonders an Wochentagen.",
+          "Verwenden Sie eine Navigations-App, um die Parkhäuser in der Nähe Ihrer Zielcluster zu finden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat, mert azok változhatnak.",
+          "Az óváros környezetvédelmi zóna; figyeljen a táblákra.",
+          "Tervezzen plusz időt a forgalomra és a parkolóhely-keresésre, különösen hétköznapokon.",
+          "Használjon navigációs alkalmazást, hogy megtalálja a célklaszterekhez közeli parkolóházakat."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans, deoarece acestea pot varia.",
+          "Orașul vechi este o zonă cu emisii scăzute; fiți atenți la semnalizare.",
+          "Planificați timp suplimentar pentru trafic și găsirea unui loc de parcare, în special în timpul săptămânii.",
+          "Utilizați o aplicație de navigare pentru a găsi parcări în apropierea clusterelor țintă."
+        ],
+        "en": [
+          "Check parking fees in advance as they can vary.",
+          "The Old Town is a low-emission zone; pay attention to the signage.",
+          "Plan extra time for traffic and finding parking, especially on weekdays.",
+          "Use a navigation app to find parking garages near your target clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Platz der Republik",
+            "hu": "Érkezés a Köztársaság térre",
+            "ro": "Sosire în Piața Republicii",
+            "en": "Arrival at Republic Square"
+          },
+          "coords": [
+            13.3775,
+            49.7475
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahnlinien 1 oder 2 bis zur Haltestelle 'Náměstí Republiky'.",
+            "hu": "Menjen az 1-es vagy 2-es villamossal a 'Náměstí Republiky' megállóig.",
+            "ro": "Luați tramvaiele 1 sau 2 până la stația 'Náměstí Republiky'.",
+            "en": "Take tram lines 1 or 2 to the 'Náměstí Republiky' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kathedrale",
+            "hu": "Szent Bertalan-katedrális",
+            "ro": "Catedrala Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Cathedral"
+          },
+          "coords": [
+            13.3778,
+            49.7476
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang direkt im Zentrum des Platzes.",
+            "hu": "Kezdje a sétát közvetlenül a tér közepén!",
+            "ro": "Începeți turul pietonal chiar din centrul pieței.",
+            "en": "Start your walking tour right in the center of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Untergrund",
+            "hu": "Történelmi földalatti folyosórendszer",
+            "ro": "Subteranul istoric",
+            "en": "Historical Underground"
+          },
+          "coords": [
+            13.3785,
+            49.7472
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eingang befindet sich im Brauereimuseumsgebäude.",
+            "hu": "A bejárat a Sörfőzde Múzeum épületében található.",
+            "ro": "Intrarea este situată în clădirea Muzeului Berii.",
+            "en": "The entrance is located in the Brewery Museum building."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Synagoge",
+            "hu": "Nagy Zsinagóga",
+            "ro": "Marea Sinagogă",
+            "en": "Great Synagogue"
+          },
+          "coords": [
+            13.3708,
+            49.7455
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.75,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a főtérről ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la piața principală la această bijuterie arhitecturală.",
+            "en": "A short walk from the main square to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilsner Urquell Brauerei",
+            "hu": "Pilsner Urquell Sörgyár",
+            "ro": "Fabrica de bere Pilsner Urquell",
+            "en": "Pilsner Urquell Brewery"
+          },
+          "coords": [
+            13.3888,
+            49.746
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:59",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn 1 vom Sady Pětatřicátníků zur Haltestelle 'Prazdroj'.",
+            "hu": "Menjen az 1-es villamossal a Sady Pětatřicátníků-tól a 'Prazdroj' megállóig.",
+            "ro": "Luați tramvaiul 1 de la Sady Pětatřicátníků până la stația 'Prazdroj'.",
+            "en": "Take tram 1 from Sady Pětatřicátníků to the 'Prazdroj' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Techmania Science Center",
+            "hu": "Techmania Tudományos Központ",
+            "ro": "Centrul de Știință Techmania",
+            "en": "Techmania Science Center"
+          },
+          "coords": [
+            13.365,
+            49.739
+          ],
+          "category": "museums",
+          "arrive_at": "15:49",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 22 von der Brauerei oder gehen Sie zur nächsten Straßenbahnhaltestelle.",
+            "hu": "Menjen a 22-es busszal a sörgyártól, vagy sétáljon a legközelebbi villamosmegállóig.",
+            "ro": "Luați autobuzul 22 de la fabrică sau mergeți pe jos până la următoarea stație de tramvai.",
+            "en": "Take bus 22 from the brewery or walk to the nearest tram stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss im DEPO2015",
+            "hu": "Zárás a DEPO2015-ben",
+            "ro": "Încheiere la DEPO2015",
+            "en": "Wrap-up at DEPO2015"
+          },
+          "coords": [
+            13.368,
+            49.74
+          ],
+          "category": "landmark",
+          "arrive_at": "17:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag im nahegelegenen Kreativzentrum DEPO2015 bei einem Kaffee.",
+            "hu": "Zárja a napot a közeli DEPO2015 kreatív központban egy kávé mellett.",
+            "ro": "Încheiați ziua la centrul creativ din apropiere, DEPO2015, cu o cafea.",
+            "en": "End the day at the nearby DEPO2015 creative hub with a coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pilsens effizientes öffentliches Verkehrsnetz macht die Erkundung einfach. Ihr Tag beginnt im Herzen der Stadt, dem Platz der Republik, den Sie bequem mit der Straßenbahn erreichen. Der Vormittag ist ein Spaziergang durch den ersten Cluster: Sie besuchen die Kathedrale, tauchen in den historischen Untergrund ein und bewundern die Große Synagoge. Alles liegt nur wenige Gehminuten voneinander entfernt. Nach einem stärkenden Mittagessen in der Altstadt bringt Sie eine kurze Straßenbahnfahrt zum zweiten Cluster des Tages: der weltberühmten Pilsner Urquell Brauerei. Sie nehmen an einer Führung teil und erleben die Braukunst hautnah. Am Nachmittag bringt Sie ein Bus oder eine Straßenbahn zum dritten Cluster, der die moderne und kreative Seite Pilsens zeigt. Sie besuchen das interaktive Techmania Science Center. Der Tag klingt im nahegelegenen Kulturzentrum DEPO2015 aus, einem perfekten Ort, um die vielfältigen Eindrücke der Stadt bei einem Getränk zu verarbeiten.",
+        "hu": "Pilsen hatékony tömegközlekedési hálózata megkönnyíti a felfedezést. A nap a város szívében, a Köztársaság téren kezdődik, amelyet kényelmesen elérhet villamossal. A délelőtt egy séta az első klaszteren keresztül: meglátogatja a katedrálist, elmerül a történelmi földalatti világban, és megcsodálja a Nagy Zsinagógát. Minden csak pár perc sétára van egymástól. Az óvárosi ebéd után egy rövid villamosút visz a nap második klaszteréhez: a világhírű Pilsner Urquell sörgyárhoz. Részt vesz egy vezetett túrán, és testközelből tapasztalja meg a sörfőzés művészetét. Délután egy busz vagy villamos viszi a harmadik klaszterhez, amely Pilsen modern és kreatív oldalát mutatja be. Meglátogatja az interaktív Techmania Tudományos Központot. A nap a közeli DEPO2015 kulturális központban ér véget, amely tökéletes hely a város sokszínű benyomásainak feldolgozására egy ital mellett.",
+        "ro": "Rețeaua eficientă de transport public din Plzeň facilitează explorarea. Ziua dvs. începe în inima orașului, Piața Republicii, ușor accesibilă cu tramvaiul. Dimineața este o plimbare prin primul cluster: vizitați catedrala, pătrundeți în subteranul istoric și admirați Marea Sinagogă. Totul este la câteva minute de mers pe jos. După un prânz revigorant în Orașul Vechi, o scurtă călătorie cu tramvaiul vă duce la al doilea cluster al zilei: faimoasa fabrică de bere Pilsner Urquell. Participați la un tur ghidat și experimentați arta berii de aproape. După-amiaza, un autobuz sau tramvai vă duce la al treilea cluster, care prezintă latura modernă și creativă a orașului Plzeň. Vizitați centrul interactiv Techmania. Ziua se încheie la centrul cultural DEPO2015 din apropiere, un loc perfect pentru a procesa impresiile diverse ale orașului la o băutură.",
+        "en": "Pilsen's efficient public transport network makes exploration easy. Your day begins in the heart of the city, Republic Square, easily reached by tram. The morning is a walking tour through the first cluster: visiting the cathedral, delving into the historical underground, and admiring the Great Synagogue. Everything is within a few minutes' walk. After a refreshing lunch in the Old Town, a short tram ride takes you to the day's second cluster: the world-famous Pilsner Urquell Brewery. You'll join a guided tour and experience the art of brewing up close. In the afternoon, a bus or tram takes you to the third cluster, showcasing Pilsen's modern and creative side. You'll visit the interactive Techmania Science Center. The day winds down at the nearby DEPO2015 cultural hub, a perfect spot to process the city's diverse impressions over a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das über offener Flamme gebacken wird. Ein beliebter Straßenimbiss."
+          },
+          {
+            "name": "Kčm.",
+            "tip": "Ein vegetarisches Restaurant in der Nähe des Zentrums, das eine Abwechslung zur traditionellen Küche bietet."
+          },
+          {
+            "name": "Café Regner",
+            "tip": "Ein gemütliches Café für eine Pause zwischen den Besichtigungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trdelník",
+            "tip": "Édes sütemény, nyílt lángon sütve. Népszerű utcai étel."
+          },
+          {
+            "name": "Kčm.",
+            "tip": "Vegetáriánus étterem a központ közelében, változatosságot kínál a hagyományos konyhához képest."
+          },
+          {
+            "name": "Café Regner",
+            "tip": "Hangulatos kávézó egy szünetre a látnivalók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, copt pe foc deschis. O gustare populară de stradă."
+          },
+          {
+            "name": "Kčm.",
+            "tip": "Un restaurant vegetarian lângă centru, oferind o schimbare față de bucătăria tradițională."
+          },
+          {
+            "name": "Café Regner",
+            "tip": "O cafenea primitoare pentru o pauză între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry baked over an open flame. A popular street food snack."
+          },
+          {
+            "name": "Kčm.",
+            "tip": "A vegetarian restaurant near the center, offering a change from traditional cuisine."
+          },
+          {
+            "name": "Café Regner",
+            "tip": "A cozy cafe for a break between sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Puppentheater-Museum",
+            "tip": "Ein charmantes und ruhiges Museum, das der reichen Puppentradition der Stadt gewidmet ist.",
+            "emoji": "🎭"
+          },
+          {
+            "name": "Ufer der Radbuza",
+            "tip": "Eine ruhige Gegend für einen Spaziergang, leicht mit der Straßenbahn zu erreichen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sitzplatz in der Großen Synagoge",
+            "tip": "Nehmen Sie sich einen Moment Zeit, um die friedliche und beeindruckende Atmosphäre im Inneren zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bábmúzeum",
+            "tip": "Bájos és csendes múzeum, a város gazdag bábhagyományának szentelve.",
+            "emoji": "🎭"
+          },
+          {
+            "name": "A Radbuza partja",
+            "tip": "Csendes környék egy sétához, villamossal könnyen megközelíthető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ülőhely a Nagy Zsinagógában",
+            "tip": "Szánjon egy percet a békés és lenyűgöző belső légkör élvezetére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul de Păpuși",
+            "tip": "Un muzeu fermecător și liniștit, dedicat bogatei tradiții de păpușari a orașului.",
+            "emoji": "🎭"
+          },
+          {
+            "name": "Malul râului Radbuza",
+            "tip": "O zonă liniștită pentru o plimbare, ușor accesibilă cu tramvaiul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un loc în Marea Sinagogă",
+            "tip": "Luați-vă un moment pentru a vă bucura de atmosfera pașnică și impresionantă din interior.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Puppet Museum",
+            "tip": "A charming and quiet museum dedicated to the city's rich puppet tradition.",
+            "emoji": "🎭"
+          },
+          {
+            "name": "Radbuza Riverbank",
+            "tip": "A quiet area for a walk, easily accessible by tram.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A seat in the Great Synagogue",
+            "tip": "Take a moment to enjoy the peaceful and impressive atmosphere inside.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pilsen Card",
+            "tip": "Kaufen Sie diese Karte in einem Touristeninformationszentrum für Ermäßigungen und kostenlose öffentliche Verkehrsmittel."
+          },
+          {
+            "name": "Original Pivní Kosmetika",
+            "tip": "Einzigartige Bierkosmetik, ein originelles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pilsen Kártya",
+            "tip": "Vásárolja meg ezt a kártyát egy turisztikai információs központban kedvezményekért és ingyenes tömegközlekedésért."
+          },
+          {
+            "name": "Original Pivní Kosmetika",
+            "tip": "Egyedi sörkozmetikumok, eredeti ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cardul Plzeň",
+            "tip": "Cumpărați acest card de la un centru de informare turistică pentru reduceri și transport public gratuit."
+          },
+          {
+            "name": "Original Pivní Kosmetika",
+            "tip": "Cosmetice unice pe bază de bere, un suvenir original."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pilsen Card",
+            "tip": "Purchase this card at a tourist information center for discounts and free public transport."
+          },
+          {
+            "name": "Original Pivní Kosmetika",
+            "tip": "Unique beer cosmetics, an original souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, sie ist kostengünstig.",
+          "Die App 'IDOS' ist sehr nützlich für die Planung von Routen mit öffentlichen Verkehrsmitteln.",
+          "Straßenbahnen haben Vorrang. Seien Sie vorsichtig beim Überqueren der Gleise.",
+          "Validieren Sie Ihr Ticket sofort nach dem Einsteigen, um eine Strafe zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, költséghatékony.",
+          "Az 'IDOS' alkalmazás nagyon hasznos a tömegközlekedési útvonalak tervezéséhez.",
+          "A villamosoknak elsőbbségük van. Legyen óvatos a sínek átlépésekor.",
+          "A büntetés elkerülése érdekében felszállás után azonnal érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este rentabil.",
+          "Aplicația 'IDOS' este foarte utilă pentru planificarea rutelor de transport public.",
+          "Tramvaiele au prioritate. Fiți atenți când traversați șinele.",
+          "Validați biletul imediat după urcare pentru a evita o amendă."
+        ],
+        "en": [
+          "Buy a one-day public transport ticket; it's cost-effective.",
+          "The 'IDOS' app is very useful for planning public transport routes.",
+          "Trams have priority. Be careful when crossing the tracks.",
+          "Validate your ticket immediately after boarding to avoid a fine."
+        ]
+      }
+    }
+  }
+}

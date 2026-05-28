@@ -1,0 +1,1470 @@
+{
+  "city_id": "greece-kozani-cities-v2",
+  "anchor": {
+    "name": "Kozani",
+    "coords": [
+      21.7885,
+      40.3006
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Kozani",
+            "hu": "Kozani óratornya",
+            "ro": "Turnul cu ceas din Kozani",
+            "en": "Kozani Clock Tower"
+          },
+          "coords": [
+            21.7895,
+            40.3012
+          ],
+          "category": "towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen tollen Blick über die Dächer der Stadt.",
+            "hu": "Mássz fel a toronyba, ahonnan remek kilátás nyílik a város háztetőire.",
+            "ro": "Urcați pentru o priveliște superbă asupra acoperișurilor orașului.",
+            "en": "Climb up for a great view over the city's rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            21.789,
+            40.301
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Ikonostase und die Wandmalereien.",
+            "hu": "Figyeld meg a lenyűgöző ikonosztázt és a falfestményeket.",
+            "ro": "Observați iconostasul impresionant și picturile murale.",
+            "en": "Note the impressive iconostasis and the wall paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Lassani",
+            "hu": "Lassani-kúria",
+            "ro": "Conacul Lassani",
+            "en": "Lassani Mansion"
+          },
+          "coords": [
+            21.787,
+            40.302
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel mazedonischer Architektur aus dem 18. Jahrhundert.",
+            "hu": "A 18. századi macedón építészet csodálatos példája.",
+            "ro": "Un exemplu splendid de arhitectură macedoneană din secolul al XVIII-lea.",
+            "en": "A splendid example of 18th-century Macedonian architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.788,
+            40.3
+          ],
+          "category": "museums",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle Kostüme, Werkzeuge und Alltagsgegenstände der Region.",
+            "hu": "Fedezd fel a régió hagyományos viseleteit, eszközeit és mindennapi tárgyait.",
+            "ro": "Descoperiți costume tradiționale, unelte și obiecte de zi cu zi din regiune.",
+            "en": "Discover traditional costumes, tools, and everyday objects from the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Koventareios-Bibliothek",
+            "hu": "Koventareios Könyvtár",
+            "ro": "Biblioteca Municipală Koventareios",
+            "en": "Koventareios Municipal Library"
+          },
+          "coords": [
+            21.79,
+            40.299
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der wichtigsten Bibliotheken in Griechenland, werfen Sie einen Blick auf das Gebäude.",
+            "hu": "Görögország egyik legfontosabb könyvtára, vess egy pillantást az épületére.",
+            "ro": "Una dintre cele mai importante biblioteci din Grecia, aruncați o privire la clădire.",
+            "en": "One of the most important libraries in Greece, take a look at the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Aiani",
+            "hu": "Aiani Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Aiani",
+            "en": "Archaeological Museum of Aiani"
+          },
+          "coords": [
+            21.792,
+            40.303
+          ],
+          "category": "museums",
+          "arrive_at": "14:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Obwohl etwas weiter entfernt, beherbergt es Funde von unschätzbarem Wert aus der antiken Stadt Aiani.",
+            "hu": "Bár kicsit messzebb van, felbecsülhetetlen értékű leleteket őriz az ókori Aiani városából.",
+            "ro": "Deși este puțin mai departe, găzduiește descoperiri de neprețuit din orașul antic Aiani.",
+            "en": "Although a bit further, it houses priceless finds from the ancient city of Aiani."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Kozani",
+            "hu": "Kozani Városliget",
+            "ro": "Parcul Municipal din Kozani",
+            "en": "Kozani Municipal Park"
+          },
+          "coords": [
+            21.785,
+            40.298
+          ],
+          "category": "parks",
+          "arrive_at": "16:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen nach einem langen Tag voller Besichtigungen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú, városnézéssel töltött nap után.",
+            "ro": "Un loc perfect pentru a vă relaxa după o zi lungă de vizitare a obiectivelor turistice.",
+            "en": "A perfect place to relax after a long day of sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kozani am Uhrturm und der Agios-Nikolaos-Kirche. Spüren Sie die historische Atmosphäre, während Sie durch die Straßen schlendern. Am Mittag tauchen Sie im Volkskundemuseum tief in die lokale Kultur ein, gefolgt von einem Besuch der beeindruckenden Lassani-Residenz. Der Nachmittag ist der antiken Geschichte im Archäologischen Museum gewidmet. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang im Stadtpark und genießen Sie die friedliche Umgebung, bevor Sie sich ein traditionelles Abendessen gönnen.",
+        "hu": "Kezdje a napot Kozani szívében, az Óratoronynál és az Agios Nikolaos-templomnál. Érezze a történelmi hangulatot, miközben az utcákon sétál. Délben merüljön el a helyi kultúrában a Néprajzi Múzeumban, majd látogasson el a lenyűgöző Lassani-kúriához. A délután az ókori történelemé a Régészeti Múzeumban. Zárja a napot egy pihentető sétával a Városligetben, élvezve a békés környezetet, mielőtt elfogyasztana egy hagyományos vacsorát.",
+        "ro": "Începeți ziua în inima orașului Kozani, la Turnul cu Ceas și Biserica Agios Nikolaos. Simțiți atmosfera istorică în timp ce vă plimbați pe străzi. La prânz, aprofundați cultura locală la Muzeul de Folclor, urmat de o vizită la impresionanta reședință Lassani. După-amiaza este dedicată istoriei antice la Muzeul Arheologic. Încheiați ziua cu o plimbare relaxantă în Parcul Municipal, bucurându-vă de atmosfera liniștită înainte de o cină tradițională.",
+        "en": "Start your day in the heart of Kozani at the Clock Tower and Agios Nikolaos Church. Feel the historical atmosphere as you stroll through the streets. At noon, delve deep into local culture at the Folklore Museum, followed by a visit to the impressive Lassani Mansion. The afternoon is dedicated to ancient history at the Archaeological Museum. End your day with a relaxing walk in the Municipal Park, enjoying the peaceful environment before a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kichi",
+            "tip": "Probieren Sie diese traditionelle Kozani-Käsepastete, ein lokaler Favorit."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Gefüllte Kohlrouladen, ein herzhaftes und köstliches Gericht."
+          },
+          {
+            "name": "Lokales Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Bekannt für seine authentische griechische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kichi",
+            "tip": "Kóstold meg ezt a hagyományos kozani sajtos pitét, a helyiek kedvencét."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Töltött káposztatekercs, egy kiadós és ízletes étel."
+          },
+          {
+            "name": "Helyi étterem 'To Koutouki tou Nikola'",
+            "tip": "Híres az autentikus görög konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kichi",
+            "tip": "Încercați această plăcintă tradițională cu brânză din Kozani, o favorită locală."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Sarmale de varză umplute, un fel de mâncare consistent și delicios."
+          },
+          {
+            "name": "Restaurantul local 'To Koutouki tou Nikola'",
+            "tip": "Renumit pentru bucătăria sa grecească autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kichi",
+            "tip": "Try this traditional Kozani cheese pie, a local favorite."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Stuffed cabbage rolls, a hearty and delicious dish."
+          },
+          {
+            "name": "Local Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Known for its authentic Greek cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Kozani",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Xenia",
+            "tip": "Ein kurzer Spaziergang bietet einen Panoramablick auf die Stadt und ist besonders bei Sonnenuntergang schön.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios-Bibliothek",
+            "tip": "Auch wenn Sie nicht lesen, ist die ruhige Atmosphäre des Gebäudes entspannend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozani Városliget",
+            "tip": "Keress egy csendes padot, és élvezd a természetet a város közepén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Xenia-domb",
+            "tip": "Egy rövid séta panorámás kilátást nyújt a városra, különösen naplementekor gyönyörű.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Könyvtár",
+            "tip": "Még ha nem is olvasol, az épület csendes légköre pihentető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal din Kozani",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Xenia",
+            "tip": "O scurtă plimbare oferă vederi panoramice ale orașului, deosebit de frumoase la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca Municipală Koventareios",
+            "tip": "Chiar dacă nu citiți, atmosfera liniștită a clădirii este relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozani Municipal Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Xenia",
+            "tip": "A short walk offers panoramic views of the city, especially beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Library",
+            "tip": "Even if you don't read, the quiet atmosphere of the building is relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokale Produkte, darunter den berühmten Krokos Kozanis (Safran)."
+          },
+          {
+            "name": "Pavlau Mela Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásárolj helyi termékeket, beleértve a híres Krokos Kozanis-t (sáfrányt)."
+          },
+          {
+            "name": "Pavlau Mela utca",
+            "tip": "A fő bevásárlóutca helyi boltok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, inclusiv faimosul Krokos Kozanis (șofran)."
+          },
+          {
+            "name": "Strada Pavlau Mela",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local products, including the famous Krokos Kozanis (saffron)."
+          },
+          {
+            "name": "Pavlau Mela Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum viele Kopfsteinpflasterstraßen hat.",
+          "Die meisten Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Nehmen Sie sich Zeit für einen Kaffee in einem der vielen Cafés am Hauptplatz.",
+          "Die Einheimischen sind freundlich, zögern Sie nicht, nach dem Weg zu fragen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a városközpontban sok a macskaköves utca.",
+          "A legtöbb múzeum hétfőn zárva tart, ellenőrizd a nyitvatartást előre.",
+          "Szánj időt egy kávéra a főtér egyik kávézójában.",
+          "A helyiek barátságosak, ne habozz útbaigazítást kérni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are multe străzi pietruite.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul în avans.",
+          "Luați-vă timp pentru o cafea la una dintre numeroasele cafenele din piața principală.",
+          "Localnicii sunt prietenoși, nu ezitați să cereți indicații."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has many cobblestone streets.",
+          "Most museums are closed on Mondays, check opening hours in advance.",
+          "Take time for a coffee at one of the many cafes in the main square.",
+          "Locals are friendly, don't hesitate to ask for directions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark von Kozani",
+            "hu": "Kozani Városliget",
+            "ro": "Parcul Municipal din Kozani",
+            "en": "Kozani Municipal Park"
+          },
+          "coords": [
+            21.785,
+            40.298
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour durch den Park.",
+            "hu": "Kezdje a napot egy könnyű biciklizéssel a parkban.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta prin parc.",
+            "en": "Start the day with a light bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Aiani",
+            "hu": "Aiani Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Aiani",
+            "en": "Archaeological Museum of Aiani"
+          },
+          "coords": [
+            21.792,
+            40.303
+          ],
+          "category": "museums",
+          "arrive_at": "10:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die antike Geschichte.",
+            "hu": "Zárd le biztonságosan a kerékpárodat, és merülj el az ókori történelemben.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria antică.",
+            "en": "Lock your bike securely and dive into ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Koventareios-Bibliothek",
+            "hu": "Koventareios Könyvtár",
+            "ro": "Biblioteca Municipală Koventareios",
+            "en": "Koventareios Municipal Library"
+          },
+          "coords": [
+            21.79,
+            40.299
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine schnelle und flache Fahrt vom Museum entfernt.",
+            "hu": "Gyors és sík út a múzeumtól.",
+            "ro": "O plimbare rapidă și plată de la muzeu.",
+            "en": "A quick and flat ride from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Kozani",
+            "hu": "Kozani óratornya",
+            "ro": "Turnul cu ceas din Kozani",
+            "en": "Kozani Clock Tower"
+          },
+          "coords": [
+            21.7895,
+            40.3012
+          ],
+          "category": "towers",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und steigen Sie für die Aussicht hinauf.",
+            "hu": "Zárd le a biciklidet, és mássz fel a kilátásért.",
+            "ro": "Legați-vă bicicleta și urcați pentru priveliște.",
+            "en": "Lock up your bike and climb up for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            21.789,
+            40.301
+          ],
+          "category": "churches",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Uhrturm entfernt, eine einfache Fahrt.",
+            "hu": "Csak egy kőhajításnyira az Óratoronytól, könnyű út.",
+            "ro": "La o aruncătură de băț de Turnul cu Ceas, o plimbare ușoară.",
+            "en": "Just a stone's throw from the Clock Tower, an easy ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.788,
+            40.3
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen um das Museum mit dem Fahrrad.",
+            "hu": "Fedezd fel kerékpárral a múzeum körüli sikátorokat.",
+            "ro": "Explorați aleile din jurul muzeului cu bicicleta.",
+            "en": "Explore the alleyways around the museum by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kourtoglou",
+            "hu": "Kourtoglou-kúria",
+            "ro": "Conacul Kourtoglou",
+            "en": "Kourtoglou Mansion"
+          },
+          "coords": [
+            21.786,
+            40.3015
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein letzter Halt an einem weiteren schönen Herrenhaus, um Ihre Radtour abzurunden.",
+            "hu": "Egy utolsó megálló egy másik gyönyörű kúriánál, hogy lezárja a kerékpártúrát.",
+            "ro": "O ultimă oprire la un alt conac frumos pentru a încheia turul cu bicicleta.",
+            "en": "A final stop at another beautiful mansion to round off your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im grünen Stadtpark, um sich aufzuwärmen. Fahren Sie dann zum Archäologischen Museum, um in die tiefere Geschichte der Region einzutauchen. Gegen Mittag radeln Sie ins Stadtzentrum, um die Koventareios-Bibliothek und den ikonischen Uhrturm zu bewundern. Am Nachmittag erkunden Sie das kulturelle Herz mit einem Besuch der Agios-Nikolaos-Kirche und des Volkskundemuseums. Beenden Sie die Tour am Herrenhaus Kourtoglou und genießen Sie die architektonische Schönheit, bevor Sie sich auf den Weg zum Abendessen machen.",
+        "hu": "Kezdje a kerékpáros napot a zöld Városligetben egy kis bemelegítéssel. Tekerjen tovább a Régészeti Múzeumhoz, hogy elmerüljön a régió mélyebb történelmében. Dél körül kerekezzen be a városközpontba, hogy megcsodálja a Koventareios Könyvtárat és az ikonikus Óratornyot. Délután fedezze fel a kulturális központot az Agios Nikolaos-templom és a Néprajzi Múzeum meglátogatásával. Fejezze be a túrát a Kourtoglou-kúriánál, élvezve az építészeti szépséget, mielőtt vacsorázni indulna.",
+        "ro": "Începeți ziua de ciclism în Parcul Municipal verde pentru o încălzire. Apoi, pedalați spre Muzeul Arheologic pentru o incursiune în istoria profundă a regiunii. În jurul prânzului, mergeți cu bicicleta în centrul orașului pentru a admira Biblioteca Koventareios și emblematicul Turn cu Ceas. După-amiaza, explorați inima culturală cu o vizită la Biserica Agios Nikolaos și Muzeul de Folclor. Încheiați turul la Conacul Kourtoglou, bucurându-vă de frumusețea arhitecturală înainte de a vă îndrepta spre cină.",
+        "en": "Start your cycling day in the green Municipal Park to warm up. Then, pedal to the Archaeological Museum for a deep dive into the region's history. Around noon, cycle into the city center to admire the Koventareios Library and the iconic Clock Tower. In the afternoon, explore the cultural heart with a visit to Agios Nikolaos Church and the Folklore Museum. Finish the tour at the Kourtoglou Mansion, enjoying the architectural beauty before heading for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kichi",
+            "tip": "Probieren Sie diese traditionelle Kozani-Käsepastete, ein lokaler Favorit."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Gefüllte Kohlrouladen, ein herzhaftes und köstliches Gericht."
+          },
+          {
+            "name": "Lokales Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Bekannt für seine authentische griechische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kichi",
+            "tip": "Kóstold meg ezt a hagyományos kozani sajtos pitét, a helyiek kedvencét."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Töltött káposztatekercs, egy kiadós és ízletes étel."
+          },
+          {
+            "name": "Helyi étterem 'To Koutouki tou Nikola'",
+            "tip": "Híres az autentikus görög konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kichi",
+            "tip": "Încercați această plăcintă tradițională cu brânză din Kozani, o favorită locală."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Sarmale de varză umplute, un fel de mâncare consistent și delicios."
+          },
+          {
+            "name": "Restaurantul local 'To Koutouki tou Nikola'",
+            "tip": "Renumit pentru bucătăria sa grecească autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kichi",
+            "tip": "Try this traditional Kozani cheese pie, a local favorite."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Stuffed cabbage rolls, a hearty and delicious dish."
+          },
+          {
+            "name": "Local Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Known for its authentic Greek cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Kozani",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Xenia",
+            "tip": "Ein kurzer Spaziergang bietet einen Panoramablick auf die Stadt und ist besonders bei Sonnenuntergang schön.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios-Bibliothek",
+            "tip": "Auch wenn Sie nicht lesen, ist die ruhige Atmosphäre des Gebäudes entspannend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozani Városliget",
+            "tip": "Keress egy csendes padot, és élvezd a természetet a város közepén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Xenia-domb",
+            "tip": "Egy rövid séta panorámás kilátást nyújt a városra, különösen naplementekor gyönyörű.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Könyvtár",
+            "tip": "Még ha nem is olvasol, az épület csendes légköre pihentető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal din Kozani",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Xenia",
+            "tip": "O scurtă plimbare oferă vederi panoramice ale orașului, deosebit de frumoase la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca Municipală Koventareios",
+            "tip": "Chiar dacă nu citiți, atmosfera liniștită a clădirii este relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozani Municipal Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Xenia",
+            "tip": "A short walk offers panoramic views of the city, especially beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Library",
+            "tip": "Even if you don't read, the quiet atmosphere of the building is relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokale Produkte, darunter den berühmten Krokos Kozanis (Safran)."
+          },
+          {
+            "name": "Pavlau Mela Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásárolj helyi termékeket, beleértve a híres Krokos Kozanis-t (sáfrányt)."
+          },
+          {
+            "name": "Pavlau Mela utca",
+            "tip": "A fő bevásárlóutca helyi boltok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, inclusiv faimosul Krokos Kozanis (șofran)."
+          },
+          {
+            "name": "Strada Pavlau Mela",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local products, including the famous Krokos Kozanis (saffron)."
+          },
+          {
+            "name": "Pavlau Mela Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum.",
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Kozani ist relativ flach, aber einige Straßen können leicht ansteigen.",
+          "Ein Helm wird für die Sicherheit empfohlen."
+        ],
+        "hu": [
+          "Figyelj az egyirányú utcákra a belvárosban.",
+          "Vigyél magaddal egy jó lakatot a biciklidhez.",
+          "Kozani viszonylag sík, de néhány utca enyhén emelkedhet.",
+          "A biztonság érdekében ajánlott a sisak viselése."
+        ],
+        "ro": [
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Luați un lacăt bun pentru bicicletă.",
+          "Kozani este relativ plat, dar unele străzi pot avea o ușoară pantă.",
+          "Se recomandă purtarea unei căști pentru siguranță."
+        ],
+        "en": [
+          "Be aware of one-way streets in the city center.",
+          "Bring a good lock for your bike.",
+          "Kozani is relatively flat, but some streets can have a slight incline.",
+          "A helmet is recommended for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Aiani",
+            "hu": "Aiani Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Aiani",
+            "en": "Archaeological Museum of Aiani"
+          },
+          "coords": [
+            21.792,
+            40.303
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie hier, es gibt normalerweise gute Parkmöglichkeiten am Morgen.",
+            "hu": "Kezdje itt a napot, reggel általában jó parkolási lehetőségek vannak.",
+            "ro": "Începeți aici, de obicei există parcare bună dimineața.",
+            "en": "Start here, there's usually good parking in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Kozani",
+            "hu": "Kozani Városliget",
+            "ro": "Parcul Municipal din Kozani",
+            "en": "Kozani Municipal Park"
+          },
+          "coords": [
+            21.785,
+            40.298
+          ],
+          "category": "parks",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, um frische Luft zu schnappen.",
+            "hu": "Egy rövid séta a múzeumtól, hogy friss levegőt szívjon.",
+            "ro": "O scurtă plimbare de la muzeu pentru a lua o gură de aer proaspăt.",
+            "en": "A short walk from the museum to get some fresh air."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz & Uhrturm",
+            "hu": "Főtér és Óratorony",
+            "ro": "Piața Centrală și Turnul cu Ceas",
+            "en": "Central Square & Clock Tower"
+          },
+          "coords": [
+            21.7895,
+            40.3012
+          ],
+          "category": "towers",
+          "arrive_at": "12:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Seitenstraßen und erkunden Sie den Kern zu Fuß.",
+            "hu": "Parkolj le az egyik mellékutcában, és fedezd fel gyalog a központot.",
+            "ro": "Parcați pe o stradă laterală și explorați centrul pe jos.",
+            "en": "Park on a side street and explore the core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            21.789,
+            40.301
+          ],
+          "category": "churches",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Hauptplatz, ein Muss, während Sie dort sind.",
+            "hu": "Közvetlenül a főtéren található, kötelező program, ha már ott vagy.",
+            "ro": "Chiar în piața principală, o vizită obligatorie în timp ce sunteți acolo.",
+            "en": "Right in the main square, a must-see while you're there."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.788,
+            40.3
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Altstadt zu diesem faszinierenden Museum.",
+            "hu": "Sétálj át az óvároson ehhez a lenyűgöző múzeumhoz.",
+            "ro": "Plimbați-vă prin orașul vechi până la acest muzeu fascinant.",
+            "en": "Stroll through the old town to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Lassani",
+            "hu": "Lassani-kúria",
+            "ro": "Conacul Lassani",
+            "en": "Lassani Mansion"
+          },
+          "coords": [
+            21.787,
+            40.302
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss Ihres Rundgangs durch das Zentrum.",
+            "hu": "A belvárosi séta méltó befejezése.",
+            "ro": "O modalitate excelentă de a încheia turul pe jos al centrului.",
+            "en": "A fine way to end your walking tour of the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zum Archäologischen Museum, um dem Verkehr zu entgehen und in die Geschichte einzutauchen. Machen Sie dann einen kurzen Spaziergang zum Stadtpark für eine Pause. Am Mittag fahren Sie ins Zentrum, parken Ihr Auto und erkunden zu Fuß den historischen Kern: den Uhrturm, die Agios-Nikolaos-Kirche und das Volkskundemuseum. Am Nachmittag schlendern Sie zum prächtigen Lassani-Herrenhaus. Diese Cluster-Tour kombiniert den Komfort des Autos mit dem Vergnügen, die charmanten Straßen von Kozani zu Fuß zu entdecken.",
+        "hu": "Reggel vezessen egyenesen a Régészeti Múzeumhoz, hogy elkerülje a forgalmat és elmerüljön a történelemben. Tegyen egy rövid sétát a Városligetbe egy kis szünetért. Délben hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: az Óratornyot, az Agios Nikolaos-templomot és a Néprajzi Múzeumot. Délután sétáljon el a csodálatos Lassani-kúriához. Ez a klaszteres túra ötvözi az autó kényelmét Kozani bájos utcáinak gyalogos felfedezésének örömével.",
+        "ro": "Dimineața, conduceți direct la Muzeul Arheologic pentru a evita traficul și a vă cufunda în istorie. Apoi, faceți o scurtă plimbare până la Parcul Municipal pentru o pauză. La prânz, conduceți spre centru, parcați mașina și explorați pe jos nucleul istoric: Turnul cu Ceas, Biserica Agios Nikolaos și Muzeul de Folclor. După-amiaza, plimbați-vă până la magnificul Conac Lassani. Acest tur grupat combină confortul mașinii cu plăcerea de a descoperi pe jos străzile fermecătoare din Kozani.",
+        "en": "In the morning, drive directly to the Archaeological Museum to beat the traffic and immerse yourself in history. Then, take a short walk to the Municipal Park for a break. At noon, drive to the center, park your car, and explore the historic core on foot: the Clock Tower, Agios Nikolaos Church, and the Folklore Museum. In the afternoon, stroll to the magnificent Lassani Mansion. This clustered tour combines the convenience of the car with the pleasure of discovering Kozani's charming streets on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kichi",
+            "tip": "Probieren Sie diese traditionelle Kozani-Käsepastete, ein lokaler Favorit."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Gefüllte Kohlrouladen, ein herzhaftes und köstliches Gericht."
+          },
+          {
+            "name": "Lokales Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Bekannt für seine authentische griechische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kichi",
+            "tip": "Kóstold meg ezt a hagyományos kozani sajtos pitét, a helyiek kedvencét."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Töltött káposztatekercs, egy kiadós és ízletes étel."
+          },
+          {
+            "name": "Helyi étterem 'To Koutouki tou Nikola'",
+            "tip": "Híres az autentikus görög konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kichi",
+            "tip": "Încercați această plăcintă tradițională cu brânză din Kozani, o favorită locală."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Sarmale de varză umplute, un fel de mâncare consistent și delicios."
+          },
+          {
+            "name": "Restaurantul local 'To Koutouki tou Nikola'",
+            "tip": "Renumit pentru bucătăria sa grecească autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kichi",
+            "tip": "Try this traditional Kozani cheese pie, a local favorite."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Stuffed cabbage rolls, a hearty and delicious dish."
+          },
+          {
+            "name": "Local Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Known for its authentic Greek cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Kozani",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Xenia",
+            "tip": "Ein kurzer Spaziergang bietet einen Panoramablick auf die Stadt und ist besonders bei Sonnenuntergang schön.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios-Bibliothek",
+            "tip": "Auch wenn Sie nicht lesen, ist die ruhige Atmosphäre des Gebäudes entspannend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozani Városliget",
+            "tip": "Keress egy csendes padot, és élvezd a természetet a város közepén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Xenia-domb",
+            "tip": "Egy rövid séta panorámás kilátást nyújt a városra, különösen naplementekor gyönyörű.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Könyvtár",
+            "tip": "Még ha nem is olvasol, az épület csendes légköre pihentető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal din Kozani",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Xenia",
+            "tip": "O scurtă plimbare oferă vederi panoramice ale orașului, deosebit de frumoase la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca Municipală Koventareios",
+            "tip": "Chiar dacă nu citiți, atmosfera liniștită a clădirii este relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozani Municipal Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Xenia",
+            "tip": "A short walk offers panoramic views of the city, especially beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Library",
+            "tip": "Even if you don't read, the quiet atmosphere of the building is relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokale Produkte, darunter den berühmten Krokos Kozanis (Safran)."
+          },
+          {
+            "name": "Pavlau Mela Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásárolj helyi termékeket, beleértve a híres Krokos Kozanis-t (sáfrányt)."
+          },
+          {
+            "name": "Pavlau Mela utca",
+            "tip": "A fő bevásárlóutca helyi boltok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, inclusiv faimosul Krokos Kozanis (șofran)."
+          },
+          {
+            "name": "Strada Pavlau Mela",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local products, including the famous Krokos Kozanis (saffron)."
+          },
+          {
+            "name": "Pavlau Mela Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Ihre Cluster, um das Ein- und Aussteigen aus dem Auto zu minimieren.",
+          "Achten Sie auf verkehrsberuhigte Zonen (ZTLs), die für Nicht-Anwohner gesperrt sein könnten.",
+          "Ein GPS ist unerlässlich, um sich in den kleineren Straßen zurechtzufinden."
+        ],
+        "hu": [
+          "A központban nehéz lehet parkolni, használja a kijelölt parkolókat.",
+          "Tervezze meg a klasztereket, hogy minimalizálja a ki- és beszállást az autóból.",
+          "Vigyázz a korlátozott forgalmú zónákra (ZTL), amelyek le lehetnek zárva a nem helyi lakosok előtt.",
+          "A kisebb utcákon való navigáláshoz elengedhetetlen a GPS."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcările desemnate.",
+          "Planificați-vă grupurile pentru a minimiza intrarea și ieșirea din mașină.",
+          "Fiți atenți la zonele cu trafic limitat (ZTL) care ar putea fi restricționate pentru nerezidenți.",
+          "Un GPS este esențial pentru a naviga pe străzile mai mici."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use designated car parks.",
+          "Plan your clusters to minimize getting in and out of the car.",
+          "Be aware of limited traffic zones (ZTLs) which might be restricted for non-residents.",
+          "A GPS is essential for navigating the smaller streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Aiani",
+            "hu": "Aiani Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Aiani",
+            "en": "Archaeological Museum of Aiani"
+          },
+          "coords": [
+            21.792,
+            40.303
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen frühen Bus, um den Menschenmassen zu entgehen.",
+            "hu": "Menj egy korai busszal, hogy elkerüld a tömeget.",
+            "ro": "Luați un autobuz devreme pentru a evita aglomerația.",
+            "en": "Take an early bus to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Kozani",
+            "hu": "Kozani Városliget",
+            "ro": "Parcul Municipal din Kozani",
+            "en": "Kozani Municipal Park"
+          },
+          "coords": [
+            21.785,
+            40.298
+          ],
+          "category": "parks",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Museum aus ist es ein angenehmer Spaziergang zum Park.",
+            "hu": "A múzeumtól kellemes séta vezet a parkba.",
+            "ro": "Este o plimbare plăcută de la muzeu la parc.",
+            "en": "It's a pleasant walk from the museum to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz & Uhrturm",
+            "hu": "Főtér és Óratorony",
+            "ro": "Piața Centrală și Turnul cu Ceas",
+            "en": "Central Square & Clock Tower"
+          },
+          "coords": [
+            21.7895,
+            40.3012
+          ],
+          "category": "towers",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der zentralen Bushaltestelle aus und Sie sind mitten im Geschehen.",
+            "hu": "Szállj le a központi buszmegállónál, és máris az események sűrűjében vagy.",
+            "ro": "Coborâți la stația centrală de autobuz și veți fi în mijlocul acțiunii.",
+            "en": "Get off at the central bus stop and you're in the heart of the action."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            21.789,
+            40.301
+          ],
+          "category": "churches",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Uhrturm über den Platz.",
+            "hu": "Csak egy rövid séta az Óratoronytól a téren át.",
+            "ro": "La doar o scurtă plimbare de Turnul cu Ceas, peste piață.",
+            "en": "Just a short walk from the clock tower across the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            21.788,
+            40.3
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen, während Sie zu Fuß zum Museum gehen.",
+            "hu": "Fedezze fel a sikátorokat, miközben a múzeum felé sétál.",
+            "ro": "Explorați aleile în timp ce vă plimbați spre muzeu.",
+            "en": "Explore the alleyways as you walk towards the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Koventareios-Bibliothek",
+            "hu": "Koventareios Könyvtár",
+            "ro": "Biblioteca Municipală Koventareios",
+            "en": "Koventareios Municipal Library"
+          },
+          "coords": [
+            21.79,
+            40.299
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Abschluss für Ihren Tag der Erkundung.",
+            "hu": "Egy szép, csendes befejezése a felfedező napnak.",
+            "ro": "Un final frumos și liniștit pentru ziua dvs. de explorare.",
+            "en": "A nice, quiet end to your day of exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Busfahrt zum Archäologischen Museum. Nach einem tiefen Einblick in die Geschichte machen Sie einen Spaziergang zum Stadtpark. Am Mittag bringt Sie ein weiterer Bus ins Herz der Stadt. Hier erkunden Sie zu Fuß den Hauptplatz, den Uhrturm und die Agios-Nikolaos-Kirche. Der Nachmittag ist der Kultur gewidmet, mit Besuchen im Volkskundemuseum und der Koventareios-Bibliothek, alles leicht zu Fuß erreichbar. Diese Methode nutzt den öffentlichen Nahverkehr, um die Distanzen zu überbrücken und das Zentrum entspannt zu Fuß zu genießen.",
+        "hu": "Kezdje a napot egy buszúttal a Régészeti Múzeumhoz. A történelembe való mély betekintés után sétáljon el a Városligetbe. Délben egy másik busz a város szívébe viszi. Itt gyalog fedezheti fel a főteret, az Óratornyot és az Agios Nikolaos-templomot. A délután a kultúráé, a Néprajzi Múzeum és a Koventareios Könyvtár meglátogatásával, mindez könnyen elérhető gyalog. Ez a módszer a tömegközlekedést használja a távolságok áthidalására, és lehetővé teszi a központ nyugodt, gyalogos élvezetét.",
+        "ro": "Începeți ziua cu o călătorie cu autobuzul la Muzeul Arheologic. După o incursiune profundă în istorie, faceți o plimbare până la Parcul Municipal. La prânz, un alt autobuz vă va duce în inima orașului. Aici, explorați pe jos piața principală, Turnul cu Ceas și Biserica Agios Nikolaos. După-amiaza este dedicată culturii, cu vizite la Muzeul de Folclor și la Biblioteca Koventareios, toate ușor accesibile pe jos. Această metodă folosește transportul public pentru a acoperi distanțele și pentru a vă bucura de centrul orașului într-un mod relaxat, pe jos.",
+        "en": "Start your day with a bus ride to the Archaeological Museum. After a deep dive into history, take a walk to the Municipal Park. At noon, another bus will take you to the heart of the city. Here, explore the main square, the Clock Tower, and Agios Nikolaos Church on foot. The afternoon is dedicated to culture, with visits to the Folklore Museum and the Koventareios Library, all within easy walking distance. This method uses public transit to cover the distances and allows for a relaxed enjoyment of the center on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kichi",
+            "tip": "Probieren Sie diese traditionelle Kozani-Käsepastete, ein lokaler Favorit."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Gefüllte Kohlrouladen, ein herzhaftes und köstliches Gericht."
+          },
+          {
+            "name": "Lokales Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Bekannt für seine authentische griechische Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kichi",
+            "tip": "Kóstold meg ezt a hagyományos kozani sajtos pitét, a helyiek kedvencét."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Töltött káposztatekercs, egy kiadós és ízletes étel."
+          },
+          {
+            "name": "Helyi étterem 'To Koutouki tou Nikola'",
+            "tip": "Híres az autentikus görög konyhájáról és hangulatos légköréről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kichi",
+            "tip": "Încercați această plăcintă tradițională cu brânză din Kozani, o favorită locală."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Sarmale de varză umplute, un fel de mâncare consistent și delicios."
+          },
+          {
+            "name": "Restaurantul local 'To Koutouki tou Nikola'",
+            "tip": "Renumit pentru bucătăria sa grecească autentică și atmosfera primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kichi",
+            "tip": "Try this traditional Kozani cheese pie, a local favorite."
+          },
+          {
+            "name": "Giaprakia",
+            "tip": "Stuffed cabbage rolls, a hearty and delicious dish."
+          },
+          {
+            "name": "Local Restaurant 'To Koutouki tou Nikola'",
+            "tip": "Known for its authentic Greek cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark von Kozani",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur mitten in der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Xenia",
+            "tip": "Ein kurzer Spaziergang bietet einen Panoramablick auf die Stadt und ist besonders bei Sonnenuntergang schön.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios-Bibliothek",
+            "tip": "Auch wenn Sie nicht lesen, ist die ruhige Atmosphäre des Gebäudes entspannend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozani Városliget",
+            "tip": "Keress egy csendes padot, és élvezd a természetet a város közepén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Xenia-domb",
+            "tip": "Egy rövid séta panorámás kilátást nyújt a városra, különösen naplementekor gyönyörű.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Könyvtár",
+            "tip": "Még ha nem is olvasol, az épület csendes légköre pihentető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal din Kozani",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură în mijlocul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Xenia",
+            "tip": "O scurtă plimbare oferă vederi panoramice ale orașului, deosebit de frumoase la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biblioteca Municipală Koventareios",
+            "tip": "Chiar dacă nu citiți, atmosfera liniștită a clădirii este relaxantă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozani Municipal Park",
+            "tip": "Find a quiet bench and enjoy nature in the middle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hill of Xenia",
+            "tip": "A short walk offers panoramic views of the city, especially beautiful at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Koventareios Library",
+            "tip": "Even if you don't read, the quiet atmosphere of the building is relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Markt",
+            "tip": "Kaufen Sie lokale Produkte, darunter den berühmten Krokos Kozanis (Safran)."
+          },
+          {
+            "name": "Pavlau Mela Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen Geschäften und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Vásárolj helyi termékeket, beleértve a híres Krokos Kozanis-t (sáfrányt)."
+          },
+          {
+            "name": "Pavlau Mela utca",
+            "tip": "A fő bevásárlóutca helyi boltok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Cumpărați produse locale, inclusiv faimosul Krokos Kozanis (șofran)."
+          },
+          {
+            "name": "Strada Pavlau Mela",
+            "tip": "Principala stradă comercială cu un amestec de magazine locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Shop for local products, including the famous Krokos Kozanis (saffron)."
+          },
+          {
+            "name": "Pavlau Mela Street",
+            "tip": "The main shopping street with a mix of local shops and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders an Wochenenden.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie entsprechend.",
+          "Haben Sie Kleingeld für Tickets bereit, falls Sie an Bord kaufen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a buszra, hogy pénzt takaríts meg.",
+          "Ellenőrizd előre a buszmenetrendet, különösen hétvégén.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezz ennek megfelelően.",
+          "Legyen nálad aprópénz a jegyekhez, ha a fedélzeten vásárolsz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați în consecință.",
+          "Aveți la îndemână mărunțiș pentru bilete în cazul în care cumpărați la bord."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Buses can be crowded during peak hours, plan accordingly.",
+          "Have small change ready for tickets if buying on board."
+        ]
+      }
+    }
+  }
+}

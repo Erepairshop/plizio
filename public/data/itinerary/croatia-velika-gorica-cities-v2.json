@@ -1,0 +1,950 @@
+{
+  "city_id": "croatia-velika-gorica-cities-v2",
+  "anchor": {
+    "name": "Velika Gorica",
+    "coords": [
+      16.071,
+      45.713
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.4,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Park der Turopolje-Gemeinde",
+          "coords": [
+            16.073,
+            45.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen morgendlichen Spaziergang.",
+            "hu": "Tökéletes egy reggeli sétához a fák alatt.",
+            "ro": "Perfect pentru o plimbare matinală sub copaci.",
+            "en": "Perfect for a morning stroll under the trees."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Turopolje-Museum",
+          "coords": [
+            16.072,
+            45.714
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die traditionellen Trachten an.",
+            "hu": "Nézze meg a hagyományos népviseleteket.",
+            "ro": "Verificați costumele tradiționale locale.",
+            "en": "Check out the traditional local costumes."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Verkündigungskirche",
+          "coords": [
+            16.07,
+            45.715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die wunderschönen Fresken im Inneren.",
+            "hu": "Figyelje meg a gyönyörű belső freskókat.",
+            "ro": "Observați frescele interioare frumoase.",
+            "en": "Notice the beautiful interior frescoes."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Kirche St. Laurentius",
+          "coords": [
+            16.065,
+            45.72
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein ruhiger spiritueller Ort am Rande des Zentrums.",
+            "hu": "Csendes spirituális hely a központ peremén.",
+            "ro": "Un loc spiritual liniștit la marginea centrului.",
+            "en": "A quiet spiritual spot on the edge of the center."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein gemütlicher Spaziergang durch das Herz von Velika Gorica. Wir erkunden die reiche Geschichte im Turopolje-Museum und entspannen in den grünen Parks, bevor wir die historische Architektur der Stadtkirchen bewundern.",
+        "hu": "Egy kellemes séta Velika Gorica szívében. Felfedezzük a gazdag történelmet a Turopolje Múzeumban, pihenünk a zöld parkokban, majd megcsodáljuk a városi templomok történelmi építészetét.",
+        "ro": "O plimbare relaxantă prin inima orașului Velika Gorica. Explorăm istoria bogată la Muzeul Turopolje și ne relaxăm în parcurile verzi, înainte de a admira arhitectura bisericilor locale.",
+        "en": "A leisurely stroll through the heart of Velika Gorica. We explore rich history at the Turopolje Museum, relax in the green parks, and admire the historic architecture of the city's churches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Probieren Sie hier die authentischen Turopolje-Gerichte."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Perfekt für ein frisches Gebäck am Morgen."
+          },
+          {
+            "name": "Kaffeehauskultur",
+            "tip": "Genießen Sie kroatischen Kaffee in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Kóstolja meg az autentikus turopoljei fogásokat."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Tökéletes egy friss reggeli péksüteményhez."
+          },
+          {
+            "name": "Kávéházak",
+            "tip": "Élvezze a horvát kávét a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Încercați mâncărurile autentice din Turopolje."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Perfect pentru o patiserie proaspătă dimineața."
+          },
+          {
+            "name": "Cafenele locale",
+            "tip": "Bucurați-vă de cafeaua croată în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Try the authentic Turopolje dishes here."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Perfect for a fresh morning pastry."
+          },
+          {
+            "name": "Café culture",
+            "tip": "Enjoy Croatian coffee in the pedestrian zone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Turopolje-Park",
+            "tip": "Finden Sie eine schattige Bank zum Lesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rund um die St. Laurentius",
+            "tip": "Abseits des Trubels der Hauptstraße.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turopolje Park",
+            "tip": "Keressen egy árnyékos padot olvasáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Lőrinc környéke",
+            "tip": "Távol a főutca zajától.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Turopolje",
+            "tip": "Găsiți o bancă la umbră pentru lectură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zona Sf. Laurențiu",
+            "tip": "Departe de agitația străzii principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Turopolje Park",
+            "tip": "Find a shaded bench for reading.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Lawrence area",
+            "tip": "Away from the hustle of the main street.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt",
+            "tip": "Frisches lokales Obst und traditioneller Honig."
+          },
+          {
+            "name": "Zentrum",
+            "tip": "Kleine Boutiquen für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "Friss helyi gyümölcsök és hagyományos méz."
+          },
+          {
+            "name": "Központ",
+            "tip": "Kis butikok ajándéktárgyakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului",
+            "tip": "Fructe locale proaspete și miere tradițională."
+          },
+          {
+            "name": "Centru",
+            "tip": "Mici buticuri pentru suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Market",
+            "tip": "Fresh local fruits and traditional honey."
+          },
+          {
+            "name": "Center",
+            "tip": "Small boutiques for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum ist sehr fußgängerfreundlich.",
+          "Nehmen Sie eine Wasserflasche für warme Tage mit.",
+          "Die Museen sind montags oft geschlossen.",
+          "Achten Sie auf die Holzarchitekturdetails."
+        ],
+        "hu": [
+          "A központ nagyon gyalogosbarát.",
+          "Vigyen magával vizet a meleg napokon.",
+          "A múzeumok hétfőnként gyakran zárva tartanak.",
+          "Figyelje meg a faépítészet finom részleteit."
+        ],
+        "ro": [
+          "Centrul este foarte prietenos cu pietonii.",
+          "Luați o sticlă de apă pentru zilele călduroase.",
+          "Muzeele sunt adesea închise lunea.",
+          "Fiți atenți la detaliile arhitecturii din lemn."
+        ],
+        "en": [
+          "The center is very pedestrian-friendly.",
+          "Bring a water bottle for warm days.",
+          "Museums are often closed on Mondays.",
+          "Pay attention to the wooden architectural details."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 14.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Park der Turopolje-Gemeinde",
+          "coords": [
+            16.073,
+            45.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt, um die Fahrräder bereitzumachen.",
+            "hu": "Jó kiindulópont a kerékpárok felkészítéséhez.",
+            "ro": "Punct bun de pornire pentru a pregăti bicicletele.",
+            "en": "Good starting point to get the bikes ready."
+          },
+          "hop_mode": "bike"
+        },
+        {
+          "name": "Turopolje-Museum",
+          "coords": [
+            16.072,
+            45.714
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lernen Sie die Region kennen, bevor Sie hinausfahren.",
+            "hu": "Ismerje meg a régiót, mielőtt útnak indul.",
+            "ro": "Cunoașteți regiunea înainte de a pleca la drum.",
+            "en": "Get to know the region before heading out."
+          },
+          "hop_mode": "bike"
+        },
+        {
+          "name": "Holzkapelle St. Barbara",
+          "coords": [
+            16.021,
+            45.725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der lokalen Holzbaukunst.",
+            "hu": "A helyi faépítészet igazi remekműve.",
+            "ro": "O capodoperă a arhitecturii locale din lemn.",
+            "en": "A masterpiece of local wooden architecture."
+          },
+          "hop_mode": "bike"
+        },
+        {
+          "name": "Kurija Modić-Bedeković",
+          "coords": [
+            16.015,
+            45.72
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre dieses historischen Anwesens.",
+            "hu": "Élvezze ennek a történelmi birtoknak a hangulatát.",
+            "ro": "Bucurați-vă de atmosfera acestei moșii istorice.",
+            "en": "Enjoy the atmosphere of this historic estate."
+          },
+          "hop_mode": "bike"
+        },
+        {
+          "name": "Schloss Lukavec",
+          "coords": [
+            16.008,
+            45.715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die alte Festung bietet tolle Fotomotive.",
+            "hu": "A régi erőd nagyszerű fotótémákat kínál.",
+            "ro": "Vechea fortăreață oferă oportunități foto excelente.",
+            "en": "The old fortress offers great photo opportunities."
+          },
+          "hop_mode": "bike"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die flache Umgebung von Velika Gorica ist ideal für Radtouren. Wir radeln von den Museen im Zentrum hinaus in die grünen Vororte, um faszinierende Holzkapellen und alte Festungen zu entdecken.",
+        "hu": "Velika Gorica sík környéke ideális kerékpározáshoz. A központi múzeumoktól a zöldellő külvárosok felé tekerünk, hogy lenyűgöző fatemplomokat és ősi erődöket fedezzünk fel.",
+        "ro": "Împrejurimile plate din Velika Gorica sunt ideale pentru ciclism. Pedalăm de la muzeele din centru spre suburbiile verzi pentru a descoperi capele de lemn fascinante și fortărețe vechi.",
+        "en": "The flat surroundings of Velika Gorica are ideal for cycling. We ride from the central museums out into the green suburbs to discover fascinating wooden chapels and ancient fortresses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ausflugsziele",
+            "tip": "Lokale Tavernen auf dem Landweg bieten deftige Jausen."
+          },
+          {
+            "name": "Picknick",
+            "tip": "Nehmen Sie Snacks mit für eine Pause bei der Kapelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki étkezdék",
+            "tip": "A vidéki fogadók laktató uzsonnákat kínálnak az úton."
+          },
+          {
+            "name": "Piknik",
+            "tip": "Vigyen magával rágcsálnivalót a kápolna melletti pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne de țară",
+            "tip": "Hanurile rurale oferă gustări consistente pe drum."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Luați gustări pentru o pauză lângă capelă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country taverns",
+            "tip": "Rural inns along the way offer hearty snacks."
+          },
+          {
+            "name": "Picnic",
+            "tip": "Bring snacks for a break near the chapel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Lukavec",
+            "tip": "Eine ruhige Wiese zum Entspannen nach der Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lukavec kastélypark",
+            "tip": "Egy csendes rét a pihenéshez tekerés után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Lukavec",
+            "tip": "O pajiște liniștită pentru relaxare după plimbare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lukavec Castle Park",
+            "tip": "A quiet meadow for relaxing after the ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie lokalen Käse bei Bauernhöfen auf der Route."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vásároljon helyi sajtot az útvonal menti gazdaságokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Cumpărați brânză locală de la fermele de pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Buy local cheese at farms along the route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorher den Reifendruck.",
+          "Die Straßen in die Vororte sind meist ruhig.",
+          "Tragen Sie einen Helm zur Sicherheit.",
+          "Sonnencreme nicht vergessen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a guminyomást.",
+          "A külvárosokba vezető utak többnyire csendesek.",
+          "Viseljen sisakot a biztonság kedvéért.",
+          "Ne felejtse el a naptejet."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor în prealabil.",
+          "Drumurile spre suburbii sunt în mare parte liniștite.",
+          "Purtați cască pentru siguranță.",
+          "Nu uitați crema de protecție solară."
+        ],
+        "en": [
+          "Check your tire pressure beforehand.",
+          "Roads to the suburbs are mostly quiet.",
+          "Wear a helmet for safety.",
+          "Don't forget sunscreen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 19.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Archäologischer Park Andautonia",
+          "coords": [
+            16.118,
+            45.766
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe für das römische Gelände.",
+            "hu": "Viseljen kényelmes cipőt a római romokhoz.",
+            "ro": "Purtați pantofi comozi pentru ruinele romane.",
+            "en": "Wear comfortable shoes for the Roman ruins."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "Turopolje-Museum",
+          "coords": [
+            16.072,
+            45.714
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums.",
+            "hu": "Parkoljon le a központ közelében.",
+            "ro": "Parcați mașina aproape de centru.",
+            "en": "Park your car near the center."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "Verkündigungskirche",
+          "coords": [
+            16.07,
+            45.715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Museum entfernt.",
+            "hu": "Csak egy rövid sétára van a múzeumtól.",
+            "ro": "Doar o scurtă plimbare de la muzeu.",
+            "en": "Just a short walk from the museum."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Schloss Lukavec",
+          "coords": [
+            16.008,
+            45.715
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Die alte Burg ist ideal für Fotopausen.",
+            "hu": "A régi kastély ideális fotós szünetekhez.",
+            "ro": "Vechiul castel este ideal pentru pauze foto.",
+            "en": "The old castle is ideal for photo breaks."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": "Kurija Modić-Bedeković",
+          "coords": [
+            16.015,
+            45.72
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein authentisches Holzanwesen aus dem 19. Jahrhundert.",
+            "hu": "Egy autentikus 19. századi faudvarház.",
+            "ro": "Un conac autentic din lemn din secolul al XIX-lea.",
+            "en": "An authentic 19th-century wooden manor."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir das Zentrum von Velika Gorica und fahren dann zu den faszinierenden Ausgrabungen von Andautonia sowie den abgelegenen Schlössern. Wir parken in strategischen Clustern und spazieren vor Ort.",
+        "hu": "Autóval fedezzük fel Velika Gorica központját, majd Andautonia lenyűgöző ásatásaihoz és a távolabbi kastélyokhoz autózunk. Stratégiai csomópontokban parkolunk, és helyben sétálunk.",
+        "ro": "Cu mașina explorăm centrul Velika Gorica și apoi ne îndreptăm spre săpăturile fascinante de la Andautonia și castelele izolate. Parcăm în grupuri strategice și ne plimbăm la fața locului.",
+        "en": "By car, we explore the center of Velika Gorica and then drive to the fascinating excavations of Andautonia and the remote castles. We park in strategic clusters and walk locally."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Mittagessen im Zentrum."
+          },
+          {
+            "name": "Landgasthöfe",
+            "tip": "Auf dem Weg nach Andautonia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Ebéd a központban."
+          },
+          {
+            "name": "Vidéki fogadók",
+            "tip": "Andautonia felé menet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Prânz în centru."
+          },
+          {
+            "name": "Hanuri rurale",
+            "tip": "Pe drum spre Andautonia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Babriga",
+            "tip": "Lunch in the center."
+          },
+          {
+            "name": "Country inns",
+            "tip": "On the way to Andautonia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schloss Lukavec Umgebung",
+            "tip": "Ein ruhiger Ort für den späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lukavec kastély környéke",
+            "tip": "Egy csendes hely késő délutánra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Castelului Lukavec",
+            "tip": "Un loc liniștit pentru după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lukavec Castle surroundings",
+            "tip": "A quiet place for the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Schnitzereien",
+            "tip": "Halten Sie Ausschau nach kleinen Holzwerkstätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fafaragások",
+            "tip": "Keressen apró faműhelyeket az úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sculpturi locale",
+            "tip": "Căutați mici ateliere de prelucrare a lemnului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local woodcarvings",
+            "tip": "Look out for small woodworking shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze im Zentrum können mittags voll sein.",
+          "Planen Sie etwas Extra-Zeit für die Fahrt nach Andautonia ein.",
+          "Navigieren Sie sorgfältig auf den Nebenstraßen.",
+          "Prüfen Sie die Öffnungszeiten des Schlosses vorab."
+        ],
+        "hu": [
+          "A központi parkolók délben tele lehetnek.",
+          "Tervezzen be egy kis extra időt az Andautonia felé vezető útra.",
+          "Óvatosan navigáljon a mellékutakon.",
+          "Előre ellenőrizze a kastély nyitvatartását."
+        ],
+        "ro": [
+          "Parcările din centru pot fi pline la prânz.",
+          "Planificați timp suplimentar pentru drumul spre Andautonia.",
+          "Navigați cu grijă pe drumurile lăturalnice.",
+          "Verificați în prealabil orele de deschidere ale castelului."
+        ],
+        "en": [
+          "Parking lots in the center can be full at noon.",
+          "Plan some extra time for the drive to Andautonia.",
+          "Navigate carefully on the side roads.",
+          "Check the castle's opening hours in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 6.7,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Park der Turopolje-Gemeinde",
+          "coords": [
+            16.073,
+            45.713
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenluft im Park.",
+            "hu": "Élvezze a reggeli levegőt a parkban.",
+            "ro": "Bucurați-vă de aerul dimineții în parc.",
+            "en": "Enjoy the morning air in the park."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Turopolje-Museum",
+          "coords": [
+            16.072,
+            45.714
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "A múzeum csak egy rövid sétára található.",
+            "ro": "Muzeul se află la o scurtă plimbare distanță.",
+            "en": "The museum is just a short walk away."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Verkündigungskirche",
+          "coords": [
+            16.07,
+            45.715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt in der Nähe des Museums gelegen.",
+            "hu": "Közvetlenül a múzeum közelében található.",
+            "ro": "Situată chiar lângă muzeu.",
+            "en": "Located right near the museum."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Holzkapelle St. Barbara",
+          "coords": [
+            16.021,
+            45.725
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Nachbardorf Velika Mlaka.",
+            "hu": "Busszal utazzon a szomszédos Velika Mlaka faluba.",
+            "ro": "Luați autobuzul spre satul vecin Velika Mlaka.",
+            "en": "Take the bus to the neighboring village of Velika Mlaka."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Velika Gorica lässt sich gut mit Bussen erkunden. Wir spazieren durch die zentralen Attraktionen und Museen, bevor wir den Nahverkehr nutzen, um zur faszinierenden Holzkapelle im Nachbarort zu fahren.",
+        "hu": "Velika Gorica kiválóan felfedezhető busszal. Végigsétálunk a központi látványosságokon és múzeumokon, majd a helyi közlekedést használva elutazunk a szomszédos település lenyűgöző fatemplomához.",
+        "ro": "Velika Gorica este ușor de explorat cu autobuzele. Ne plimbăm prin atracțiile centrale și muzee, înainte de a folosi transportul public pentru a vizita fascinanta capelă din lemn din satul vecin.",
+        "en": "Velika Gorica is easy to explore with buses. We stroll through the central attractions and museums before using local transit to visit the fascinating wooden chapel in the neighboring village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien am Busbahnhof",
+            "tip": "Für einen schnellen Snack vor der Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a buszállomásnál",
+            "tip": "Egy gyors harapnivalóhoz a buszozás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării la autogară",
+            "tip": "Pentru o gustare rapidă înainte de a lua autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near the bus station",
+            "tip": "For a quick snack before taking the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rund um die St. Barbara Kapelle",
+            "tip": "Ein friedlicher historischer Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Borbála kápolna környéke",
+            "tip": "Egy békés történelmi helyszín.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "În jurul Capelei Sf. Barbara",
+            "tip": "Un loc istoric liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Around St. Barbara Chapel",
+            "tip": "A peaceful historic spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs im Zentrum",
+            "tip": "Kaufen Sie ein, bevor Sie den Bus nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándéktárgyak a központban",
+            "tip": "Vásároljon be, mielőtt felszáll a buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în centru",
+            "tip": "Cumpărați înainte de a lua autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in the center",
+            "tip": "Shop before you catch the bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, sie fahren nicht immer regelmäßig.",
+          "Kaufen Sie Tickets am Kiosk.",
+          "Die Bushaltestellen sind gut beschildert.",
+          "Haben Sie Kleingeld für das Busticket bereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, nem mindig járnak sűrűn.",
+          "Vegye meg a jegyet a helyi újságosnál.",
+          "A buszmegállók jól ki vannak táblázva.",
+          "Készítsen elő aprópénzt a buszjegyre."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în prealabil, nu circulă mereu des.",
+          "Cumpărați bilete de la chioșcurile locale.",
+          "Stațiile de autobuz sunt bine semnalizate.",
+          "Pregătiți mărunt pentru biletul de autobuz."
+        ],
+        "en": [
+          "Check bus schedules in advance, they don't always run frequently.",
+          "Buy tickets at the local kiosk.",
+          "Bus stops are well signposted.",
+          "Have small change ready for the bus ticket."
+        ]
+      }
+    }
+  }
+}

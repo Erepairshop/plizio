@@ -1,0 +1,1217 @@
+{
+  "city_id": "switzerland-dubendorf-cities-v2",
+  "anchor": {
+    "name": "Dübendorf",
+    "coords": [
+      8.621,
+      47.398
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Obere Mühle",
+            "hu": "Obere Mühle (Felső Malom)",
+            "ro": "Obere Mühle (Moara de Sus)",
+            "en": "Obere Mühle (Upper Mill)"
+          },
+          "coords": [
+            8.6235,
+            47.3971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine Nachmittagsvorstellung oder eine Ausstellung.",
+            "hu": "Nézze meg a programot, hátha van egy délutáni előadás vagy kiállítás.",
+            "ro": "Verificați programul, s-ar putea să existe un spectacol de după-amiază sau o expoziție.",
+            "en": "Check the schedule, there might be an afternoon performance or an exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Lazariterkirche Gfenn",
+            "hu": "Gfenni Lazarita templom",
+            "ro": "Biserica Lazariților din Gfenn",
+            "en": "Lazarite Church Gfenn"
+          },
+          "coords": [
+            8.618,
+            47.3895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf die romanischen Fresken im Inneren – sie sind bemerkenswert gut erhalten.",
+            "hu": "Keresse a román kori freskókat a belsejében – bámulatosan jó állapotban maradtak fenn.",
+            "ro": "Căutați frescele romanice din interior – sunt remarcabil de bine conservate.",
+            "en": "Look for the Romanesque frescoes inside – they are remarkably well preserved."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldmannsburg",
+            "hu": "Waldmannsburg kastély",
+            "ro": "Castelul Waldmannsburg",
+            "en": "Waldmannsburg Castle"
+          },
+          "coords": [
+            8.628,
+            47.395
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Obwohl es sich in Privatbesitz befindet, ist das Äußere des Schlosses von der Straße aus ein tolles Fotomotiv.",
+            "hu": "Bár magántulajdonban van, a kastély külseje remek fotótéma az utcáról.",
+            "ro": "Deși este proprietate privată, exteriorul castelului este un subiect fotografic excelent de pe stradă.",
+            "en": "Although it's private property, the castle's exterior makes for a great photo opportunity from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Glatt-Uferweg",
+            "hu": "Glatt folyóparti sétány",
+            "ro": "Promenada de pe malul râului Glatt",
+            "en": "Glatt Riverside Path"
+          },
+          "coords": [
+            8.635,
+            47.402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:36",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick. Bringen Sie eine Decke mit und genießen Sie die Ruhe am Wasser.",
+            "hu": "Ideális egy ebédpiknikhez. Hozzon egy pokrócot, és élvezze a vízparti csendet.",
+            "ro": "Ideal pentru un picnic la prânz. Aduceți o pătură și bucurați-vă de liniștea de lângă apă.",
+            "en": "Perfect for a midday picnic. Bring a blanket and enjoy the tranquility by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Milandia Greifensee",
+            "hu": "Milandia Greifensee",
+            "ro": "Milandia Greifensee",
+            "en": "Milandia Greifensee"
+          },
+          "coords": [
+            8.66,
+            47.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Pedalo oder versuchen Sie sich im Minigolf, um den Nachmittag aktiv ausklingen zu lassen.",
+            "hu": "Béreljen vízibiciklit vagy próbálja ki a minigolfot, hogy aktívan zárja a délutánt.",
+            "ro": "Închiriați o hidrobicicletă sau încercați mini-golful pentru a încheia după-amiaza într-un mod activ.",
+            "en": "Rent a paddle boat or try some mini-golf to actively round off the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Dübendorf beginnt kulturell in der Oberen Mühle, einem Zentrum des lokalen Lebens. Von dort aus führt ein kurzer Spaziergang in die Vergangenheit zur ehrwürdigen Lazariterkirche Gfenn, wo Sie mittelalterliche Fresken bewundern können. Ein Spaziergang durch die ruhigen Straßen enthüllt bald die historische Waldmannsburg. Am Nachmittag lassen Sie die Zivilisation hinter sich und folgen dem Glatt-Uferweg, der Sie durch grüne Landschaften führt. Der Tag endet entspannt im Freizeitpark Milandia am Greifensee, wo Sie die Natur und vielleicht einen wunderschönen Sonnenuntergang genießen können.",
+        "hu": "Dübendorfi napja kulturális élménnyel kezdődik az Obere Mühle központban. Innen egy rövid séta vezet a múltba, a tiszteletreméltó gfenni lazarita templomhoz, ahol középkori freskókat csodálhat meg. A csendes utcákon sétálva hamarosan feltárul a történelmi Waldmannsburg. Délután hagyja maga mögött a civilizációt, és kövesse a Glatt folyóparti sétányt, amely zöld tájakon vezet keresztül. A nap a Greifensee melletti Milandia szabadidőparkban ér véget, ahol élvezheti a természetet és talán egy gyönyörű naplementét.",
+        "ro": "Ziua dvs. în Dübendorf începe cultural la Obere Mühle, un centru al vieții locale. De acolo, o scurtă plimbare vă duce înapoi în timp la venerabila Biserică a Lazariților din Gfenn, unde puteți admira fresce medievale. O plimbare pe străzile liniștite dezvăluie în curând istoricul Castel Waldmannsburg. După-amiaza, lăsați civilizația în urmă și urmați promenada de pe malul râului Glatt, care vă poartă prin peisaje verzi. Ziua se încheie relaxant la parcul de agrement Milandia de lângă Greifensee, unde vă puteți bucura de natură și poate de un apus de soare frumos.",
+        "en": "Your day in Dübendorf starts culturally at the Obere Mühle, a center of local life. A short walk from there takes you back in time to the venerable Lazarite Church in Gfenn, where you can admire medieval frescoes. A stroll through the quiet streets soon reveals the historic Waldmannsburg. In the afternoon, leave civilization behind and follow the Glatt riverside path, which takes you through green landscapes. The day ends with relaxation at the Milandia leisure park by Greifensee, where you can enjoy nature and perhaps a beautiful sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Probieren Sie dieses klassische Kalbfleischgericht in einem der traditionellen Gasthöfe."
+          },
+          {
+            "name": "Restaurant zum Rössli",
+            "tip": "Bekannt für seine gutbürgerliche Schweizer Küche und gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Kóstolja meg ezt a klasszikus borjúételt egy hagyományos vendéglőben."
+          },
+          {
+            "name": "Restaurant zum Rössli",
+            "tip": "Hagyományos svájci konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Încercați acest fel de mâncare clasic din carne de vițel într-unul dintre hanurile tradiționale."
+          },
+          {
+            "name": "Restaurant zum Rössli",
+            "tip": "Cunoscut pentru bucătăria sa elvețiană tradițională și atmosfera sa primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Try this classic veal dish in one of the traditional inns."
+          },
+          {
+            "name": "Restaurant zum Rössli",
+            "tip": "Known for its traditional Swiss cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Greifensees",
+            "tip": "Finden Sie eine ruhige Bank am Seeufer und beobachten Sie die Vögel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang entlang der Glatt",
+            "tip": "Das sanfte Plätschern des Flusses ist perfekt, um zu entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greifensee partja",
+            "tip": "Keressen egy csendes padot a tóparton, és figyelje a madarakat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Glatt mentén",
+            "tip": "A folyó halk csobogása tökéletes a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Greifensee",
+            "tip": "Găsiți o bancă liniștită pe malul lacului și priviți păsările.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Glatt",
+            "tip": "Sunetul blând al râului este perfect pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of Greifensee",
+            "tip": "Find a quiet bench on the lake shore and watch the birds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Glatt",
+            "tip": "The gentle sound of the river is perfect for relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Dübendorf",
+            "tip": "Finden Sie lokale Produkte und Schweizer Käse auf dem Markt im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dübendorfi heti piac",
+            "tip": "Találjon helyi termékeket és svájci sajtot a városközpont piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Dübendorf",
+            "tip": "Găsiți produse locale și brânză elvețiană la piața din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dübendorf Weekly Market",
+            "tip": "Find local produce and Swiss cheese at the market in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie einige Kilometer zurücklegen werden.",
+          "Ein kleiner Rucksack mit Wasser und Snacks ist empfehlenswert.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können.",
+          "Nehmen Sie eine Kamera mit, um die malerischen Landschaften festzuhalten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel jó néhány kilométert fog gyalogolni.",
+          "Ajánlott egy kis hátizsák vízzel és rágcsálnivalóval.",
+          "Ellenőrizze a templom nyitvatartási idejét, mivel az változhat.",
+          "Hozzon magával fényképezőgépet a festői tájak megörökítéséhez."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți parcurge câțiva kilometri.",
+          "Se recomandă un rucsac mic cu apă și gustări.",
+          "Verificați programul de funcționare al bisericii, deoarece acesta poate varia.",
+          "Luați un aparat foto pentru a surprinde peisajele pitorești."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be covering several kilometers.",
+          "A small backpack with water and snacks is recommended.",
+          "Check the opening hours of the church as they can vary.",
+          "Bring a camera to capture the picturesque landscapes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Innovationspark Zürich",
+            "hu": "Zürichi Innovációs Park",
+            "ro": "Parcul de Inovații Zürich",
+            "en": "Innovation Park Zurich"
+          },
+          "coords": [
+            8.638,
+            47.41
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht hineingehen, ist die moderne Architektur von außen beeindruckend.",
+            "hu": "Még ha nem is megy be, a modern építészet kívülről is lenyűgöző.",
+            "ro": "Chiar dacă nu intrați, arhitectura modernă este impresionantă din exterior.",
+            "en": "Even if you don't go inside, the modern architecture is impressive from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Force Center",
+            "hu": "Légierő Központ",
+            "ro": "Centrul Forțelor Aeriene",
+            "en": "Air Force Center"
+          },
+          "coords": [
+            8.632,
+            47.408
+          ],
+          "category": "museums",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Ihren Besuch mit dem Flieger-Flab-Museum, das sich direkt daneben befindet.",
+            "hu": "Kombinálja látogatását a közvetlenül mellette található Flieger-Flab Múzeummal.",
+            "ro": "Combinați vizita cu Muzeul Aviației (Flieger-Flab-Museum), care se află chiar alături.",
+            "en": "Combine your visit with the Flieger-Flab-Museum, located right next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Flieger-Flab-Museum",
+            "hu": "Flieger-Flab Repülési Múzeum",
+            "ro": "Muzeul Aviației Flieger-Flab",
+            "en": "Flieger-Flab-Museum (Aviation Museum)"
+          },
+          "coords": [
+            8.63,
+            47.408
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, die Sammlung ist riesig. Der Flugsimulator ist ein Muss!",
+            "hu": "Tervezzen elég időt, a gyűjtemény hatalmas. A repülőgép-szimulátor kihagyhatatlan!",
+            "ro": "Planificați suficient timp, colecția este uriașă. Simulatorul de zbor este o necesitate!",
+            "en": "Plan enough time, the collection is huge. The flight simulator is a must-try!"
+          }
+        },
+        {
+          "name": {
+            "de": "Obere Mühle",
+            "hu": "Obere Mühle (Felső Malom)",
+            "ro": "Obere Mühle (Moara de Sus)",
+            "en": "Obere Mühle (Upper Mill)"
+          },
+          "coords": [
+            8.6235,
+            47.3971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Kaffeepause, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Szép hely egy kávészünetre, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Un loc frumos pentru o pauză de cafea înainte de a continua turul cu bicicleta.",
+            "en": "A lovely spot for a coffee break before continuing your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Glatt-Uferweg",
+            "hu": "Glatt folyóparti sétány",
+            "ro": "Promenada de pe malul râului Glatt",
+            "en": "Glatt Riverside Path"
+          },
+          "coords": [
+            8.635,
+            47.402
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg ist gut ausgebaut und flach, ideal für eine entspannte Fahrt.",
+            "hu": "A kerékpárút jól kiépített és sík, ideális egy pihentető tekeréshez.",
+            "ro": "Pista de biciclete este bine întreținută și plată, ideală pentru o plimbare relaxantă.",
+            "en": "The bike path is well-maintained and flat, ideal for a relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Milandia Greifensee",
+            "hu": "Milandia Greifensee",
+            "ro": "Milandia Greifensee",
+            "en": "Milandia Greifensee"
+          },
+          "coords": [
+            8.66,
+            47.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 51,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um den Tag mit einem Bad im See (im Sommer) oder einem Drink mit Aussicht ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy fürdőzéssel a tóban (nyáron) vagy egy itallal a kilátás mellett.",
+            "ro": "Locul perfect pentru a încheia ziua cu o baie în lac (vara) sau o băutură cu priveliște.",
+            "en": "The perfect place to end the day with a swim in the lake (in summer) or a drink with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie am Innovationspark Zürich, einem Symbol für die Zukunft. Von dort aus radeln Sie zur Wiege der Schweizer Luftfahrt, dem Air Force Center und dem beeindruckenden Flieger-Flab-Museum. Nach einem Vormittag voller Technik und Geschichte geht es ins kulturelle Herz von Dübendorf, die Obere Mühle. Stärken Sie sich, bevor Sie dem malerischen Glatt-Uferweg folgen, einem grünen Band, das sich durch die Landschaft schlängelt. Ihr Ziel ist das Freizeitparadies Milandia am Greifensee, wo Sie sich nach einem aktiven Tag entspannen können.",
+        "hu": "Pattanjon kerékpárra, és induljon a Zürichi Innovációs Parktól, a jövő szimbólumától. Innen tekerjen el a svájci repülés bölcsőjéhez, a Légierő Központhoz és a lenyűgöző Flieger-Flab Múzeumhoz. A technológiával és történelemmel teli délelőtt után irány Dübendorf kulturális szíve, az Obere Mühle. Frissüljön fel, mielőtt a festői Glatt folyóparti úton haladna, egy zöld szalagon, amely a tájon kanyarog. Célja a Greifensee melletti Milandia szabadidőparadicsom, ahol egy aktív nap után pihenhet.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Parcul de Inovații din Zürich, un simbol al viitorului. De acolo, pedalați spre leagănul aviației elvețiene, Centrul Forțelor Aeriene și impresionantul Muzeu Flieger-Flab. După o dimineață plină de tehnologie și istorie, mergeți spre inima culturală a Dübendorf-ului, Obere Mühle. Întăriți-vă înainte de a urma pitoreasca promenadă de pe malul râului Glatt, o panglică verde care șerpuiește prin peisaj. Destinația dvs. este paradisul de agrement Milandia de pe malul lacului Greifensee, unde vă puteți relaxa după o zi activă.",
+        "en": "Hop on your bike and start at the Innovation Park Zurich, a symbol of the future. From there, pedal to the cradle of Swiss aviation, the Air Force Center and the impressive Flieger-Flab-Museum. After a morning full of technology and history, head to the cultural heart of Dübendorf, the Obere Mühle. Refresh yourself before following the picturesque Glatt riverside path, a green ribbon winding through the landscape. Your destination is the Milandia leisure paradise on Greifensee, where you can relax after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Greifensee",
+            "tip": "Ein kühles Bier und eine Wurst mit Blick auf den See nach einer langen Radtour."
+          },
+          {
+            "name": "Café im Flieger-Flab-Museum",
+            "tip": "Für eine schnelle Stärkung zwischen den Ausstellungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sörkert a Greifensee-nél",
+            "tip": "Egy hideg sör és egy kolbász a tóra néző kilátással egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Kávézó a Flieger-Flab Múzeumban",
+            "tip": "Egy gyors frissítőre a kiállítások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădină de bere la Greifensee",
+            "tip": "O bere rece și un cârnat cu vedere la lac după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Cafenea la Muzeul Flieger-Flab",
+            "tip": "Pentru o gustare rapidă între expoziții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer garden at Greifensee",
+            "tip": "A cold beer and a sausage with a view of the lake after a long bike ride."
+          },
+          {
+            "name": "Café at the Flieger-Flab-Museum",
+            "tip": "For a quick refreshment between the exhibitions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturschutzgebiet am Greifensee",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze zur Vogelbeobachtung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abschnitt des Glatt-Uferwegs",
+            "tip": "Halten Sie an und lauschen Sie einfach nur den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Természetvédelmi terület a Greifensee-nél",
+            "tip": "A fő utaktól távol csendes helyeket talál a madármegfigyeléshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Glatt folyóparti sétány egy szakasza",
+            "tip": "Álljon meg, és csak hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația naturală de la Greifensee",
+            "tip": "Departe de potecile principale veți găsi locuri liniștite pentru observarea păsărilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O secțiune a promenadei de pe malul râului Glatt",
+            "tip": "Opriți-vă și ascultați pur și simplu sunetele naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nature reserve at Greifensee",
+            "tip": "Away from the main paths, you will find quiet spots for bird watching.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A section of the Glatt riverside path",
+            "tip": "Stop and just listen to the sounds of nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen vor Ort",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bike shop",
+            "tip": "In case you need accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und den Reifendruck.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Wege sind meist flach, aber eine Gangschaltung ist nützlich.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen, während Sie die Museen besuchen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze kerékpárját, különösen a fékeket és a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Az utak többnyire síkak, de a sebességváltó hasznos.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárja a kerékpárt a múzeumok látogatása közben."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și presiunea din anvelope.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Traseele sunt în mare parte plate, dar un schimbător de viteze este util.",
+          "Luați un lacăt pentru a vă asigura bicicleta în timp ce vizitați muzeele."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tire pressure.",
+          "A helmet is strongly recommended.",
+          "The paths are mostly flat, but gears are useful.",
+          "Bring a lock to secure your bike while you visit the museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Flieger-Flab-Museum",
+            "hu": "1. klaszter: Flieger-Flab Repülési Múzeum",
+            "ro": "Cluster 1: Muzeul Aviației Flieger-Flab",
+            "en": "Cluster 1: Flieger-Flab Aviation Museum"
+          },
+          "coords": [
+            8.63,
+            47.408
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier. Das Air Force Center und der Innovationspark sind zu Fuß erreichbar.",
+            "hu": "Parkoljon itt. A Légierő Központ és az Innovációs Park gyalogosan is elérhető.",
+            "ro": "Parcați aici. Centrul Forțelor Aeriene și Parcul de Inovații sunt la distanță de mers pe jos.",
+            "en": "Park here. The Air Force Center and Innovation Park are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Force Center",
+            "hu": "Légierő Központ",
+            "ro": "Centrul Forțelor Aeriene",
+            "en": "Air Force Center"
+          },
+          "coords": [
+            8.632,
+            47.408
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Oft gibt es Sonderausstellungen zur Geschichte der Schweizer Luftwaffe.",
+            "hu": "Gyakran vannak különleges kiállítások a svájci légierő történetéről.",
+            "ro": "Adesea există expoziții speciale despre istoria Forțelor Aeriene Elvețiene.",
+            "en": "There are often special exhibitions on the history of the Swiss Air Force."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovationspark Zürich",
+            "hu": "Zürichi Innovációs Park",
+            "ro": "Parcul de Inovații Zürich",
+            "en": "Innovation Park Zurich"
+          },
+          "coords": [
+            8.638,
+            47.41
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um die moderne Architektur und die dynamische Atmosphäre zu erleben.",
+            "hu": "Egy rövid séta, hogy megtapasztalja a modern építészetet és a dinamikus légkört.",
+            "ro": "O scurtă plimbare pentru a experimenta arhitectura modernă și atmosfera dinamică.",
+            "en": "A short walk to experience the modern architecture and dynamic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Lazariterkirche Gfenn",
+            "hu": "2. klaszter: Gfenni Lazarita templom",
+            "ro": "Cluster 2: Biserica Lazariților din Gfenn",
+            "en": "Cluster 2: Lazarite Church Gfenn"
+          },
+          "coords": [
+            8.618,
+            47.3895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Dorf Gfenn. Die Waldmannsburg und die Obere Mühle sind von hier aus zu Fuss erreichbar.",
+            "hu": "Parkoljon Gfenn faluban. A Waldmannsburg és az Obere Mühle innen gyalogosan elérhető.",
+            "ro": "Parcați în satul Gfenn. Castelul Waldmannsburg și Obere Mühle sunt accesibile pe jos de aici.",
+            "en": "Park in the village of Gfenn. Waldmannsburg Castle and the Obere Mühle are reachable on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldmannsburg",
+            "hu": "Waldmannsburg kastély",
+            "ro": "Castelul Waldmannsburg",
+            "en": "Waldmannsburg Castle"
+          },
+          "coords": [
+            8.628,
+            47.395
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch ein ruhiges Wohngebiet führt Sie zu diesem historischen Ort.",
+            "hu": "Egy kellemes séta egy csendes lakónegyeden keresztül vezet ehhez a történelmi helyhez.",
+            "ro": "O plimbare plăcută printr-o zonă rezidențială liniștită vă va duce la acest sit istoric.",
+            "en": "A pleasant walk through a quiet residential area will lead you to this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Obere Mühle",
+            "hu": "Obere Mühle (Felső Malom)",
+            "ro": "Obere Mühle (Moara de Sus)",
+            "en": "Obere Mühle (Upper Mill)"
+          },
+          "coords": [
+            8.6235,
+            47.3971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Geniessen Sie hier einen Kaffee und Kuchen, bevor Sie zum letzten Cluster aufbrechen.",
+            "hu": "Fogyasszon el itt egy kávét és süteményt, mielőtt elindulna az utolsó klaszterhez.",
+            "ro": "Bucurați-vă de o cafea și o prăjitură aici înainte de a porni spre ultimul cluster.",
+            "en": "Enjoy a coffee and cake here before setting off for the final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Milandia Greifensee",
+            "hu": "3. klaszter: Milandia Greifensee",
+            "ro": "Cluster 3: Milandia Greifensee",
+            "en": "Cluster 3: Milandia Greifensee"
+          },
+          "coords": [
+            8.66,
+            47.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Es gibt genügend Parkplätze. Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Rengeteg parkolóhely van. Tökéletes hely a nap pihentető befejezéséhez.",
+            "ro": "Există o mulțime de locuri de parcare. Locul perfect pentru a încheia ziua într-un mod relaxat.",
+            "en": "There is plenty of parking. The perfect place to end the day in a relaxed way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Dübendorf beginnt mit einem Technik-Cluster: Parken Sie am Flieger-Flab-Museum und erkunden Sie zu Fuß das Air Force Center und den nahen Innovationspark. Nach diesem Eintauchen in die Welt der Luft- und Raumfahrt fahren Sie zum historischen Herzen im Ortsteil Gfenn. Hier bilden die Lazariterkirche und die Waldmannsburg ein zweites Cluster, das Sie bequem zu Fuß erkunden. Zum Abschluss des Tages fahren Sie zum Greifensee, wo das Milandia-Freizeitzentrum als drittes Cluster mit Spaziergängen am Wasser und Entspannung lockt. Diese Tour kombiniert kurze Fahrten mit angenehmen Spaziergängen.",
+        "hu": "Autós napja Dübendorfban egy technikai klaszterrel kezdődik: parkoljon a Flieger-Flab Múzeumnál, és fedezze fel gyalog a Légierő Központot és a közeli Innovációs Parkot. Miután elmerült a repülés és az űrhajózás világában, hajtson a történelmi szívbe, Gfenn kerületébe. Itt a lazarita templom és a Waldmannsburg alkot egy második klasztert, amelyet kényelmesen felfedezhet gyalog. A nap végén hajtson a Greifensee-hez, ahol a Milandia szabadidőközpont harmadik klaszterként vízparti sétákkal és pihenéssel csábít. Ez a túra rövid autóutakat kombinál kellemes sétákkal.",
+        "ro": "Ziua dvs. cu mașina în Dübendorf începe cu un cluster tehnologic: parcați la Muzeul Aviației Flieger-Flab și explorați pe jos Centrul Forțelor Aeriene și Parcul de Inovații din apropiere. După această imersiune în lumea aerospațială, conduceți spre inima istorică din districtul Gfenn. Aici, Biserica Lazariților și Castelul Waldmannsburg formează un al doilea cluster pe care îl puteți explora confortabil pe jos. La sfârșitul zilei, conduceți spre lacul Greifensee, unde centrul de agrement Milandia vă atrage ca un al treilea cluster cu plimbări pe malul apei și relaxare. Acest tur combină călătorii scurte cu mașina cu plimbări plăcute.",
+        "en": "Your car day in Dübendorf begins with a technology cluster: park at the Flieger-Flab Museum and explore the Air Force Center and the nearby Innovation Park on foot. After this immersion in the world of aerospace, drive to the historic heart in the Gfenn district. Here, the Lazarite Church and Waldmannsburg Castle form a second cluster that you can comfortably explore on foot. At the end of the day, drive to Greifensee, where the Milandia leisure center beckons as a third cluster with waterfront walks and relaxation. This tour combines short drives with pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Hecht",
+            "tip": "Ein traditionelles Restaurant in der Nähe des Greifensees, bekannt für Fischgerichte."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Solide Schweizer Küche im Herzen von Gfenn, ideal für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Hecht",
+            "tip": "Hagyományos étterem a Greifensee közelében, halételeiről ismert."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Szolid svájci konyha Gfenn szívében, ideális ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Hecht",
+            "tip": "Un restaurant tradițional lângă Greifensee, renumit pentru preparatele din pește."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Bucătărie elvețiană solidă în inima Gfenn, ideală pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Hecht",
+            "tip": "A traditional restaurant near Greifensee, known for fish dishes."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Solid Swiss cuisine in the heart of Gfenn, ideal for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Waldmannsburg",
+            "tip": "Ein ruhiger Ort, um über die Stadt zu blicken.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferweg am Greifensee",
+            "tip": "Abseits des Hauptbereichs von Milandia finden Sie absolute Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Waldmannsburgnál",
+            "tip": "Csendes hely, ahonnan rálátni a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parti sétány a Greifensee-nél",
+            "tip": "A Milandia fő területétől távolabb abszolút nyugalmat talál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere lângă Castelul Waldmannsburg",
+            "tip": "Un loc liniștit pentru a privi peste oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada de pe malul lacului Greifensee",
+            "tip": "Departe de zona principală a Milandiei, veți găsi o liniște absolută.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint near Waldmannsburg Castle",
+            "tip": "A quiet spot to look out over the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shore path at Greifensee",
+            "tip": "Away from the main area of Milandia, you'll find absolute peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Flieger-Flab-Museum",
+            "tip": "Einzigartige Souvenirs zum Thema Luftfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt a Flieger-Flab Múzeumban",
+            "tip": "Egyedi, repüléssel kapcsolatos szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului Flieger-Flab",
+            "tip": "Suveniruri unice pe tema aviației."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at the Flieger-Flab-Museum",
+            "tip": "Unique aviation-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus, einige Parkplätze sind kostenpflichtig.",
+          "Ein Navigationsgerät erleichtert das Finden der Parkplätze für die Cluster.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkplatzsuche.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási díjakat, néhány parkoló fizetős.",
+          "A navigációs eszköz megkönnyíti a klaszterek parkolóinak megtalálását.",
+          "A klaszter-séta módszer időt és parkolóhely-keresést takarít meg.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans, unele parcări sunt cu plată.",
+          "Un sistem de navigație facilitează găsirea parcărilor pentru clustere.",
+          "Metoda de plimbare în clustere economisește timp și căutarea locurilor de parcare.",
+          "Planificați suficient timp pentru traficul dintre clustere."
+        ],
+        "en": [
+          "Check parking fees in advance, some car parks charge a fee.",
+          "A navigation device makes it easier to find the parking lots for the clusters.",
+          "The cluster walking method saves time and the search for parking spaces.",
+          "Allow enough time for traffic between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Obere Mühle",
+            "hu": "1. klaszter: Obere Mühle",
+            "ro": "Cluster 1: Obere Mühle",
+            "en": "Cluster 1: Obere Mühle"
+          },
+          "coords": [
+            8.6235,
+            47.3971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus bis zur Haltestelle 'Dübendorf, Stadtmitte'. Von hier aus erkunden Sie das Zentrum zu Fuss.",
+            "hu": "Menjen busszal a 'Dübendorf, Stadtmitte' megállóig. Innen fedezze fel a központot gyalog.",
+            "ro": "Luați autobuzul până la stația 'Dübendorf, Stadtmitte'. De aici, explorați centrul pe jos.",
+            "en": "Take the bus to the 'Dübendorf, Stadtmitte' stop. From here, explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lazariterkirche Gfenn",
+            "hu": "Gfenni Lazarita templom",
+            "ro": "Biserica Lazariților din Gfenn",
+            "en": "Lazarite Church Gfenn"
+          },
+          "coords": [
+            8.618,
+            47.3895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Zentrum durch ruhige Gassen.",
+            "hu": "Kellemes séta a központból csendes sikátorokon keresztül.",
+            "ro": "O plimbare plăcută din centru pe alei liniștite.",
+            "en": "A pleasant walk from the center through quiet alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Flieger-Flab-Museum",
+            "hu": "2. klaszter: Flieger-Flab Repülési Múzeum",
+            "ro": "Cluster 2: Muzeul Aviației Flieger-Flab",
+            "en": "Cluster 2: Flieger-Flab Aviation Museum"
+          },
+          "coords": [
+            8.63,
+            47.408
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 150,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Flugplatz. Die Haltestelle ist direkt vor dem Museum.",
+            "hu": "Menjen busszal a repülőtér irányába. A megálló közvetlenül a múzeum előtt van.",
+            "ro": "Luați un autobuz spre aerodrom. Stația este chiar în fața muzeului.",
+            "en": "Take a bus towards the airfield. The stop is right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Innovationspark Zürich",
+            "hu": "Zürichi Innovációs Park",
+            "ro": "Parcul de Inovații Zürich",
+            "en": "Innovation Park Zurich"
+          },
+          "coords": [
+            8.638,
+            47.41
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museumsgelände aus.",
+            "hu": "Egy rövid séta a múzeum területéről.",
+            "ro": "O scurtă plimbare de la complexul muzeal.",
+            "en": "A short walk from the museum grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Glatt-Uferweg",
+            "hu": "3. klaszter: Glatt folyóparti sétány",
+            "ro": "Cluster 3: Promenada de pe malul râului Glatt",
+            "en": "Cluster 3: Glatt Riverside Path"
+          },
+          "coords": [
+            8.64,
+            47.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien bringen Sie in die Nähe des Flusses. Steigen Sie aus und genießen Sie die Natur.",
+            "hu": "Több buszjárat is elvisz a folyó közelébe. Szálljon le és élvezze a természetet.",
+            "ro": "Mai multe linii de autobuz vă vor duce aproape de râu. Coborâți și bucurați-vă de natură.",
+            "en": "Several bus lines will take you close to the river. Get off and enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Milandia Greifensee",
+            "hu": "Milandia Greifensee",
+            "ro": "Milandia Greifensee",
+            "en": "Milandia Greifensee"
+          },
+          "coords": [
+            8.66,
+            47.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 79,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang entlang des Flusses und am Seeufer führt Sie direkt dorthin.",
+            "hu": "Egy hosszabb séta a folyó mentén és a tóparton egyenesen odavezet.",
+            "ro": "O plimbare mai lungă de-a lungul râului și pe malul lacului vă va duce direct acolo.",
+            "en": "A longer walk along the river and the lake shore will lead you directly there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Dübendorf effizient. Starten Sie im Zentrum beim Kulturzentrum Obere Mühle und spazieren Sie zur historischen Lazariterkirche. Anschließend bringt Sie ein Bus zum zweiten Cluster, dem Luftfahrt-Zentrum, wo das Flieger-Flab-Museum und der Innovationspark auf Sie warten. Nach einem Mittagessen voller Eindrücke nehmen Sie erneut den Bus zum Glatt-Uferweg, Ihrem dritten Cluster. Von hier aus ist es nur ein entspannter Spaziergang entlang des Wassers zum Milandia-Freizeitzentrum, wo Ihr Tag in der Natur ausklingt.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Dübendorfot. Kezdje a központban, az Obere Mühle kulturális központnál, és sétáljon el a történelmi lazarita templomhoz. Ezután egy busz elviszi a második klaszterhez, a repülési központhoz, ahol a Flieger-Flab Múzeum és az Innovációs Park várja Önt. Egy élményekkel teli ebéd után ismét buszra száll, hogy eljusson a Glatt folyóparti sétányhoz, a harmadik klaszterhez. Innen már csak egy pihentető séta a víz mentén a Milandia szabadidőközpontig, ahol a nap a természetben ér véget.",
+        "ro": "Explorați eficient Dübendorf cu transportul public. Începeți în centru, la centrul cultural Obere Mühle, și plimbați-vă până la istorica Biserică a Lazariților. Apoi, un autobuz vă va duce la al doilea cluster, centrul de aviație, unde vă așteaptă Muzeul Flieger-Flab și Parcul de Inovații. După un prânz plin de impresii, luați din nou autobuzul spre promenada de pe malul râului Glatt, al treilea cluster. De aici, este doar o plimbare relaxantă de-a lungul apei până la centrul de agrement Milandia, unde ziua dvs. se încheie în natură.",
+        "en": "Explore Dübendorf efficiently by public transport. Start in the center at the Obere Mühle cultural center and walk to the historic Lazarite Church. A bus will then take you to the second cluster, the aviation center, where the Flieger-Flab Museum and the Innovation Park await you. After a lunch full of impressions, take the bus again to the Glatt riverside path, your third cluster. From here, it's just a relaxing walk along the water to the Milandia leisure center, where your day ends in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbiss am Bahnhof",
+            "tip": "Für eine schnelle und günstige Mahlzeit zwischen den Busfahrten."
+          },
+          {
+            "name": "Restaurant in Milandia",
+            "tip": "Belohnen Sie sich am Ende des Tages mit einem schönen Abendessen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a vasútállomáson",
+            "tip": "Egy gyors és olcsó étkezéshez a buszutak között."
+          },
+          {
+            "name": "Étterem a Milandiában",
+            "tip": "Jutalmazza meg magát a nap végén egy kellemes vacsorával a kilátás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare la gară",
+            "tip": "Pentru o masă rapidă și ieftină între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Restaurant la Milandia",
+            "tip": "Recompensați-vă la sfârșitul zilei cu o cină frumoasă cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bar at the train station",
+            "tip": "For a quick and cheap meal between bus rides."
+          },
+          {
+            "name": "Restaurant in Milandia",
+            "tip": "Reward yourself at the end of the day with a nice dinner with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof Gfenn",
+            "tip": "Neben der Kirche gelegen, ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Schauen Sie aus dem Fenster und lassen Sie die Landschaft an sich vorbeiziehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gfenni temető",
+            "tip": "A templom mellett található, a csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszút a városból kifelé",
+            "tip": "Nézzen ki az ablakon, és hagyja, hogy elsuhanjon a táj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Gfenn",
+            "tip": "Situat lângă biserică, un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți pe fereastră și lăsați peisajul să treacă pe lângă dvs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gfenn Cemetery",
+            "tip": "Located next to the church, a place of silence and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride out of town",
+            "tip": "Look out the window and let the landscape pass you by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Getränk für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a vasútállomáson",
+            "tip": "Vásároljon újságot vagy italt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați un ziar sau o băutură pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the train station",
+            "tip": "Buy a newspaper or a drink for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, das ist am günstigsten.",
+          "Laden Sie die Fahrplan-App herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Achten Sie auf die letzte Busverbindung zurück, besonders am Abend.",
+          "Einige Busse verkehren am Wochenende seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedésre, az a legolcsóbb.",
+          "Töltse le a menetrend alkalmazást a valós idejű kapcsolatok ellenőrzéséhez.",
+          "Figyeljen az utolsó buszjáratra visszafelé, különösen este.",
+          "Néhány busz ritkábban közlekedik hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este cel mai ieftin.",
+          "Descărcați aplicația cu orare pentru a verifica conexiunile în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi, mai ales seara.",
+          "Unele autobuze circulă mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, it's the cheapest option.",
+          "Download the timetable app to check connections in real time.",
+          "Pay attention to the last bus connection back, especially in the evening.",
+          "Some buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

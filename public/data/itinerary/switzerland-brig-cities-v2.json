@@ -1,0 +1,1250 @@
+{
+  "city_id": "switzerland-brig-cities-v2",
+  "anchor": {
+    "name": "Brig-Glis",
+    "coords": [
+      7.9861,
+      46.3155
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Briger Altstadt",
+            "hu": "Brig óvárosa",
+            "ro": "Centrul vechi din Brig",
+            "en": "Brig Old Town"
+          },
+          "coords": [
+            7.986,
+            46.316
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee an der lebhaften Bahnhofstrasse.",
+            "hu": "Kezdje a napot egy kávéval a nyüzsgő Bahnhofstrassén.",
+            "ro": "Începeți ziua cu o cafea pe animata stradă Bahnhofstrasse.",
+            "en": "Start your day with a coffee on the lively Bahnhofstrasse."
+          }
+        },
+        {
+          "name": {
+            "de": "Sebastianskapelle",
+            "hu": "Szent Sebestyén-kápolna",
+            "ro": "Capela Sfântul Sebastian",
+            "en": "St. Sebastian's Chapel"
+          },
+          "coords": [
+            7.9845,
+            46.3165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kollegiumskirche Spiritus Sanctus",
+            "hu": "Spiritus Sanctus Kollégiumi Templom",
+            "ro": "Biserica colegială Spiritus Sanctus",
+            "en": "Collegiate Church of the Holy Spirit"
+          },
+          "coords": [
+            7.985,
+            46.317
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Stockalperschloss",
+            "hu": "Stockalper-kastély",
+            "ro": "Castelul Stockalper",
+            "en": "Stockalper Palace"
+          },
+          "coords": [
+            7.99,
+            46.315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Stockalpergarten",
+            "hu": "Stockalper-kert",
+            "ro": "Grădina Stockalper",
+            "en": "Stockalper Garden"
+          },
+          "coords": [
+            7.991,
+            46.314
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Mariä Himmelfahrt",
+            "hu": "Glis-i Mária Mennybemenetele Zarándoktemplom",
+            "ro": "Biserica de pelerinaj Adormirea Maicii Domnului din Glis",
+            "en": "Pilgrimage Church of the Assumption in Glis"
+          },
+          "coords": [
+            7.995,
+            46.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Brig beginnt in der historischen Altstadt und führt Sie zum prächtigen Stockalperschloss. Mittags können Sie in den Schlossgärten entspannen. Der Nachmittag ist für einen Spaziergang zur Wallfahrtskirche in Glis reserviert, die einen schönen Blick auf die Stadt bietet. Beenden Sie den Tag mit einem Walliser Abendessen in einem der traditionellen Restaurants.",
+        "hu": "A reggel Brigben a történelmi óvárosban indul, majd a csodálatos Stockalper-kastélyhoz vezet. Délben a kastély kertjében pihenhet. A délután a glisi zarándoktemplomhoz tett sétáé, ahonnan gyönyörű kilátás nyílik a városra. Zárja a napot egy wallisi vacsorával egy hagyományos étteremben.",
+        "ro": "Dimineața în Brig începe în centrul vechi istoric și vă duce la magnificul Castel Stockalper. La prânz, vă puteți relaxa în grădinile castelului. După-amiaza este rezervată unei plimbări la biserica de pelerinaj din Glis, care oferă o priveliște frumoasă asupra orașului. Încheiați ziua cu o cină valaisană la unul dintre restaurantele tradiționale.",
+        "en": "The morning in Brig starts in the historic old town and leads you to the magnificent Stockalper Palace. At noon, you can relax in the palace gardens. The afternoon is reserved for a walk to the pilgrimage church in Glis, offering a beautiful view of the city. End the day with a Valaisian dinner in one of the traditional restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raclette",
+            "tip": "Geschmolzener Käse, serviert mit Kartoffeln, Gurken und Zwiebeln."
+          },
+          {
+            "name": "Walliser Teller",
+            "tip": "Eine Platte mit lokalem Trockenfleisch, Speck und Wurst."
+          },
+          {
+            "name": "Käseschnitte",
+            "tip": "Ein herzhaftes Gericht aus Brot, das mit Käse und oft mit einem Ei überbacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raclette",
+            "tip": "Olvadt sajt, burgonyával, uborkával és hagymával tálalva."
+          },
+          {
+            "name": "Wallisi tál",
+            "tip": "Helyi szárított húsokból, szalonnából és kolbászból álló tál."
+          },
+          {
+            "name": "Käseschnitte",
+            "tip": "Sajttal és gyakran tojással gratinírozott kenyérből készült kiadós étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raclette",
+            "tip": "Brânză topită servită cu cartofi, castraveți murați și ceapă."
+          },
+          {
+            "name": "Platou Valaisan",
+            "tip": "Un platou cu carne uscată locală, slănină și cârnați."
+          },
+          {
+            "name": "Käseschnitte",
+            "tip": "Un fel de mâncare consistent din pâine, acoperit cu brânză și adesea un ou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raclette",
+            "tip": "Melted cheese served with potatoes, gherkins, and onions."
+          },
+          {
+            "name": "Valaisian Platter",
+            "tip": "A platter of local dried meat, bacon, and sausage."
+          },
+          {
+            "name": "Käseschnitte",
+            "tip": "A hearty dish of bread topped with cheese and often a fried egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stockalpergarten",
+            "tip": "Finden Sie eine ruhige Bank inmitten der barocken Gärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer der Saltina",
+            "tip": "Ein friedlicher Ort, um dem Rauschen des Flusses zuzuhören.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchplatz von Glis",
+            "tip": "Genießen Sie die Ruhe rund um die historische Wallfahrtskirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stockalper-kert",
+            "tip": "Keressen egy csendes padot a barokk kert közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saltina partja",
+            "tip": "Békés hely a folyó zúgásának hallgatására.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glisi templomtér",
+            "tip": "Élvezze a csendet a történelmi zarándoktemplom körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Stockalper",
+            "tip": "Găsiți o bancă liniștită în mijlocul grădinilor baroce.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Saltina",
+            "tip": "Un loc pașnic pentru a asculta susurul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața bisericii din Glis",
+            "tip": "Bucurați-vă de liniștea din jurul bisericii istorice de pelerinaj.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stockalper Garden",
+            "tip": "Find a quiet bench amidst the baroque gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Saltina",
+            "tip": "A peaceful spot to listen to the rushing river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glis Church Square",
+            "tip": "Enjoy the tranquility around the historic pilgrimage church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Die Haupteinkaufsstraße mit einer Vielzahl von Geschäften und Boutiquen."
+          },
+          {
+            "name": "Briger Wochenmarkt",
+            "tip": "Kaufen Sie freitags lokalen Käse, Wurst und handwerkliche Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "A fő bevásárlóutca, üzletek és butikok sokaságával."
+          },
+          {
+            "name": "Brigi heti piac",
+            "tip": "Pénteken vásároljon helyi sajtot, kolbászt és kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "Strada principală de cumpărături, cu o varietate de magazine și buticuri."
+          },
+          {
+            "name": "Piața săptămânală din Brig",
+            "tip": "Cumpărați brânzeturi locale, cârnați și produse artizanale în zilele de vineri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstrasse",
+            "tip": "The main shopping street with a variety of shops and boutiques."
+          },
+          {
+            "name": "Brig Weekly Market",
+            "tip": "Shop for local cheese, sausages, and artisan products on Fridays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für eine Führung durch das Stockalperschloss, um die reiche Geschichte zu verstehen.",
+          "Ein kleiner Umweg zum Ufer der Saltina oder Rhone bietet eine erfrischende Pause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Szánjon időt a Stockalper-kastély vezetett túrájára, hogy megismerje gazdag történelmét.",
+          "Egy kis kitérő a Saltina vagy a Rhone partjára frissítő szünetet kínál."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Rezervați-vă timp pentru un tur ghidat la Castelul Stockalper pentru a înțelege istoria bogată.",
+          "Un mic ocol pe malurile râului Saltina sau Ron oferă o pauză revigorantă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most sights in the city center are within easy walking distance.",
+          "Take time for a guided tour of Stockalper Palace to understand its rich history.",
+          "A short detour to the banks of the Saltina or Rhone rivers offers a refreshing break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Briger Altstadt & Schloss",
+            "hu": "Brig óvárosa és kastély",
+            "ro": "Centrul vechi și castelul din Brig",
+            "en": "Brig Old Town & Palace"
+          },
+          "coords": [
+            7.988,
+            46.3155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gassen und das Schloss zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel gyalog a sikátorokat és a kastélyt.",
+            "ro": "Încuietoarea bicicletei și explorați aleile și castelul pe jos.",
+            "en": "Lock up your bike and explore the alleys and the palace on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallfahrtskirche Glis",
+            "hu": "Glis-i Zarándoktemplom",
+            "ro": "Biserica de pelerinaj din Glis",
+            "en": "Pilgrimage Church of Glis"
+          },
+          "coords": [
+            7.995,
+            46.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Rhone",
+            "hu": "Kerékpározás a Rhone mentén",
+            "ro": "Plimbare de-a lungul Ronului",
+            "en": "Ride along the Rhone"
+          },
+          "coords": [
+            7.96,
+            46.32
+          ],
+          "category": "natural features",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Naters",
+            "hu": "Ebéd Natersben",
+            "ro": "Prânz în Naters",
+            "en": "Lunch in Naters"
+          },
+          "coords": [
+            7.98,
+            46.325
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Stockalpergarten",
+            "hu": "Stockalper-kert",
+            "ro": "Grădina Stockalper",
+            "en": "Stockalper Garden"
+          },
+          "coords": [
+            7.991,
+            46.314
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Brig kombiniert Kultur und Natur. Der Vormittag gehört der Erkundung der Altstadt und des Stockalperschlosses. Gegen Mittag fahren Sie zur Wallfahrtskirche in Glis, bevor Sie eine entspannte Fahrt entlang der Rhone genießen. Nach einem Mittagessen im benachbarten Naters kehren Sie für einen ruhigen Nachmittag in die Gärten des Schlosses zurück.",
+        "hu": "A brigi kerékpártúra a kultúrát és a természetet ötvözi. A délelőtt az óváros és a Stockalper-kastély felfedezésével telik. Dél körül tekerjen el a glisi zarándoktemplomhoz, mielőtt egy pihentető utat tenne a Rhone mentén. Egy natersi ebéd után térjen vissza a kastély kertjébe egy csendes délutánra.",
+        "ro": "Un tur cu bicicleta prin Brig combină cultura și natura. Dimineața este dedicată explorării centrului vechi și a Castelului Stockalper. Spre prânz, pedalați spre biserica de pelerinaj din Glis, înainte de a vă bucura de o plimbare relaxantă de-a lungul Ronului. După prânz în Naters, vă întoarceți la grădinile castelului pentru o după-amiază liniștită.",
+        "en": "A bike tour through Brig combines culture and nature. The morning is for exploring the old town and Stockalper Palace. Around noon, you'll cycle to the pilgrimage church in Glis before enjoying a relaxing ride along the Rhone. After lunch in neighboring Naters, you return to the palace gardens for a quiet afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cholera",
+            "tip": "Ein herzhafter Gemüsekuchen, eine Walliser Spezialität."
+          },
+          {
+            "name": "Aprikosenkuchen",
+            "tip": "Probieren Sie einen Kuchen aus den berühmten Walliser Aprikosen."
+          },
+          {
+            "name": "Walliser Wein",
+            "tip": "Begleiten Sie Ihr Essen mit einem Glas Fendant oder Pinot Noir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cholera",
+            "tip": "Kiadós zöldségpite, wallisi specialitás."
+          },
+          {
+            "name": "Sárgabarackos sütemény",
+            "tip": "Kóstoljon meg egy süteményt a híres wallisi sárgabarackból."
+          },
+          {
+            "name": "Wallisi bor",
+            "tip": "Kísérje ételét egy pohár helyi Fendant vagy Pinot Noir borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cholera",
+            "tip": "O plăcintă savuroasă cu legume, o specialitate valaisană."
+          },
+          {
+            "name": "Prăjitură cu caise",
+            "tip": "Încercați o prăjitură făcută cu faimoasele caise din Valais."
+          },
+          {
+            "name": "Vin valaisan",
+            "tip": "Însoțiți masa cu un pahar de Fendant sau Pinot Noir local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cholera",
+            "tip": "A savory vegetable pie, a Valais specialty."
+          },
+          {
+            "name": "Apricot Tart",
+            "tip": "Try a tart made from the famous Valais apricots."
+          },
+          {
+            "name": "Valaisian Wine",
+            "tip": "Accompany your meal with a glass of local Fendant or Pinot Noir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rhoneuferweg",
+            "tip": "Finden Sie eine ruhige Stelle am Flussufer, um die Alpen zu bewundern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosswald-Aussichtspunkt",
+            "tip": "Eine anspruchsvollere Fahrt für einen atemberaubenden Blick über das Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Kollegiums",
+            "tip": "Ein kleiner, friedlicher Garten neben der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rhone-parti út",
+            "tip": "Keressen egy csendes helyet a folyóparton, hogy megcsodálja az Alpokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosswaldi kilátó",
+            "tip": "Egy nagyobb kihívást jelentő út a völgyre nyíló lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kollégiumi kertek",
+            "tip": "Egy kis, békés kert a templom mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul Ronului",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a admira Alpii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Rosswald",
+            "tip": "O plimbare mai dificilă pentru o priveliște uluitoare asupra văii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Colegiului",
+            "tip": "O grădină mică și pașnică lângă biserică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhone River Path",
+            "tip": "Find a quiet spot on the riverbank to admire the Alps.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosswald Viewpoint",
+            "tip": "A more challenging ride for a breathtaking view over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "College Gardens",
+            "tip": "A small, peaceful garden next to the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Mieten Sie ein Fahrrad oder kaufen Sie Zubehör in einem der örtlichen Geschäfte."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern für frische Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Béreljen kerékpárt vagy vásároljon kiegészítőket a helyi üzletek egyikében."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keresse a friss termékeket kínáló táblákat közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Închiriați o bicicletă sau cumpărați accesorii de la unul dintre magazinele locale."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Rent a bike or buy accessories at one of the local shops."
+          },
+          {
+            "name": "Farm Shops in the area",
+            "tip": "Look out for signs for fresh produce direct from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Radwege entlang der Rhone sind meist flach und für alle Fitnesslevel geeignet.",
+          "Prüfen Sie die Wettervorhersage, da der Wind im Rhonetal stark sein kann.",
+          "Ein E-Bike ist eine gute Option, um die leichten Steigungen nach Glis oder in die Weinberge mühelos zu bewältigen.",
+          "Viele Restaurants heißen Radfahrer willkommen und bieten sichere Abstellmöglichkeiten."
+        ],
+        "hu": [
+          "A Rhone menti kerékpárutak többnyire síkak és minden edzettségi szintnek megfelelnek.",
+          "Ellenőrizze az időjárás-előrejelzést, mivel a szél a Rhone-völgyben erős lehet.",
+          "Az e-bike jó választás a Glisbe vagy a szőlőültetvényekre vezető enyhe emelkedők könnyed leküzdéséhez.",
+          "Sok étterem szívesen látja a kerékpárosokat, és biztonságos tárolási lehetőséget kínál."
+        ],
+        "ro": [
+          "Pistele de biciclete de-a lungul Ronului sunt în mare parte plate și potrivite pentru toate nivelurile de fitness.",
+          "Verificați prognoza meteo, deoarece vântul poate fi puternic în Valea Ronului.",
+          "O bicicletă electrică este o opțiune bună pentru a aborda fără efort pantele ușoare spre Glis sau spre podgorii.",
+          "Multe restaurante primesc bicicliștii și oferă spații sigure de parcare."
+        ],
+        "en": [
+          "The bike paths along the Rhone are mostly flat and suitable for all fitness levels.",
+          "Check the weather forecast as the wind in the Rhone valley can be strong.",
+          "An e-bike is a good option to tackle the gentle slopes to Glis or into the vineyards effortlessly.",
+          "Many restaurants welcome cyclists and offer safe places to park your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 11.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Brig Zentrum: Parkhaus Altstadt",
+            "hu": "Brig Központ Klaszter: Óvárosi Parkolóház",
+            "ro": "Cluster Centru Brig: Parcare Centrul Vechi",
+            "en": "Brig Center Cluster: Old Town Parking"
+          },
+          "coords": [
+            7.987,
+            46.314
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Briger Altstadt & Kollegiumskirche",
+            "hu": "Brig óvárosa és Kollégiumi templom",
+            "ro": "Centrul vechi din Brig și Biserica Colegială",
+            "en": "Brig Old Town & Collegiate Church"
+          },
+          "coords": [
+            7.986,
+            46.3165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Stockalperschloss & Gärten",
+            "hu": "Stockalper-kastély és kertek",
+            "ro": "Castelul și Grădinile Stockalper",
+            "en": "Stockalper Palace & Gardens"
+          },
+          "coords": [
+            7.99,
+            46.315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Cluster Brigerbad: Fahrt zum Thermalbad",
+            "hu": "Brigerbad Klaszter: Utazás a termálfürdőhöz",
+            "ro": "Cluster Brigerbad: Drumul spre băile termale",
+            "en": "Brigerbad Cluster: Drive to the Thermal Baths"
+          },
+          "coords": [
+            7.93,
+            46.31
+          ],
+          "category": "transport",
+          "arrive_at": "12:43",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5
+        },
+        {
+          "name": {
+            "de": "Thermalbad Brigerbad",
+            "hu": "Brigerbad Termálfürdő",
+            "ro": "Băile termale Brigerbad",
+            "en": "Brigerbad Thermal Baths"
+          },
+          "coords": [
+            7.929,
+            46.3105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 240,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Brig und seine entspannende Umgebung. Parken Sie im Zentrum und widmen Sie den Vormittag dem historischen Herzen der Stadt, einschließlich des Stockalperschlosses. Nach dem Mittagessen fahren Sie eine kurze Strecke zum Thermalbad Brigerbad. Verbringen Sie den Nachmittag mit Entspannung in den warmen Becken und genießen Sie die alpine Kulisse. Ein perfekter Ausklang für einen erlebnisreichen Tag.",
+        "hu": "Autóval fedezze fel Briget és pihentető környezetét. Parkoljon a központban, és szentelje a délelőttöt a város történelmi szívének, beleértve a Stockalper-kastélyt. Ebéd után tegyen egy rövid utat a Brigerbad termálfürdőbe. Töltse a délutánt a meleg medencékben pihenve, élvezve az alpesi tájat. Tökéletes lezárása egy eseménydús napnak.",
+        "ro": "Cu mașina, explorați Brigul și împrejurimile sale relaxante. Parcați în centru și dedicați dimineața inimii istorice a orașului, inclusiv Castelului Stockalper. După prânz, faceți o scurtă călătorie cu mașina până la băile termale Brigerbad. Petreceți după-amiaza relaxându-vă în bazinele calde și bucurându-vă de peisajul alpin. O încheiere perfectă pentru o zi plină de evenimente.",
+        "en": "By car, explore Brig and its relaxing surroundings. Park in the center and dedicate the morning to the historic heart of the city, including Stockalper Palace. After lunch, take a short drive to the Brigerbad thermal baths. Spend the afternoon relaxing in the warm pools and enjoying the alpine scenery. A perfect end to an eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Brigerbad",
+            "tip": "Kombinieren Sie Entspannung mit einem bequemen Mittagessen direkt im Thermalbad."
+          },
+          {
+            "name": "Picknick am Simplonpass",
+            "tip": "Kaufen Sie lokale Produkte und machen Sie einen Abstecher für ein Picknick mit Aussicht."
+          },
+          {
+            "name": "Grotto-Restaurant",
+            "tip": "Suchen Sie nach einem traditionellen Grotto für ein authentisches Walliser Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Brigerbadban",
+            "tip": "Kombinálja a pihenést egy kényelmes ebéddel közvetlenül a termálfürdőben."
+          },
+          {
+            "name": "Piknik a Simplon-hágón",
+            "tip": "Vásároljon helyi termékeket, és tegyen egy kitérőt egy kilátással egybekötött piknikre."
+          },
+          {
+            "name": "Grotto étterem",
+            "tip": "Keressen egy hagyományos grottót egy autentikus wallisi vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Brigerbad",
+            "tip": "Combinați relaxarea cu un prânz convenabil chiar la băile termale."
+          },
+          {
+            "name": "Picnic la Pasul Simplon",
+            "tip": "Cumpărați produse locale și faceți un ocol pentru un picnic cu priveliște."
+          },
+          {
+            "name": "Restaurant Grotto",
+            "tip": "Căutați un grotto tradițional pentru o cină valaisană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Brigerbad",
+            "tip": "Combine relaxation with a convenient lunch right at the thermal baths."
+          },
+          {
+            "name": "Picnic at Simplon Pass",
+            "tip": "Buy local products and take a detour for a picnic with a view."
+          },
+          {
+            "name": "Grotto Restaurant",
+            "tip": "Look for a traditional grotto for an authentic Valaisian dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruhebereich im Brigerbad",
+            "tip": "Genießen Sie die Stille und den Blick auf die Berge vom Ruhebereich des Spas aus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Simplonpass",
+            "tip": "Eine kurze Autofahrt bringt Sie zu weiten Landschaften und alpiner Stille.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Belalp",
+            "tip": "Fahren Sie zur Seilbahn und genießen Sie die Aussicht auf den Aletschgletscher.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pihenőterület Brigerbadban",
+            "tip": "Élvezze a csendet és a hegyekre nyíló kilátást a fürdő pihenőterületéről.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Simplon-hágó",
+            "tip": "Egy rövid autóút tágas tájakra és alpesi csendbe visz.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Belalp",
+            "tip": "Vezessen a felvonóhoz, és élvezze az Aletsch-gleccserre nyíló kilátást.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zonă de relaxare la Brigerbad",
+            "tip": "Bucurați-vă de liniște și de priveliștea munților din zona de relaxare a spa-ului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pasul Simplon",
+            "tip": "O scurtă călătorie cu mașina vă duce la peisaje vaste și liniște alpină.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Belalp",
+            "tip": "Conduceți până la telecabină și bucurați-vă de vederea la ghețarul Aletsch.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiet Zone at Brigerbad",
+            "tip": "Enjoy the silence and the mountain view from the spa's relaxation area.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Simplon Pass",
+            "tip": "A short drive takes you to vast landscapes and alpine silence.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Belalp",
+            "tip": "Drive to the cable car and enjoy the view of the Aletsch Glacier.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Simplon Center",
+            "tip": "Ein modernes Einkaufszentrum am Stadtrand für alle Bedürfnisse."
+          },
+          {
+            "name": "Käsereien im Tal",
+            "tip": "Halten Sie an einer lokalen Käserei an, um authentischen Walliser Käse zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simplon Center bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont a város szélén, minden igényt kielégítve."
+          },
+          {
+            "name": "Sajtkészítők a völgyben",
+            "tip": "Álljon meg egy helyi sajtkészítőnél, hogy autentikus wallisi sajtot vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Simplon Center",
+            "tip": "Un centru comercial modern la periferia orașului pentru toate nevoile."
+          },
+          {
+            "name": "Fabrici de brânză din vale",
+            "tip": "Opriți-vă la o fabrică de brânză locală pentru a cumpăra brânză valaisană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simplon Center Mall",
+            "tip": "A modern shopping mall on the outskirts of town for all your needs."
+          },
+          {
+            "name": "Dairies in the valley",
+            "tip": "Stop at a local dairy to buy authentic Valais cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Möglichkeiten am Stadtrand, um den Verkehr im Zentrum zu meiden.",
+          "Parkhäuser in der Nähe des Bahnhofs oder des Schlosses sind ideal für die Erkundung des Zentrums.",
+          "Planen Sie genügend Zeit für die Fahrt zu den Bädern oder in die Berge ein, um die Landschaft zu genießen.",
+          "Die Straßen in den Alpen können eng und kurvig sein; fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket a város szélén, hogy elkerülje a belvárosi forgalmat.",
+          "A pályaudvar vagy a kastély közelében lévő parkolóházak ideálisak a központ felfedezéséhez.",
+          "Tervezzen elegendő időt a fürdőkhöz vagy a hegyekbe való utazásra, hogy élvezhesse a tájat.",
+          "Az alpesi utak szűkek és kanyargósak lehetnek; vezessen óvatosan."
+        ],
+        "ro": [
+          "Folosiți opțiunile de Park and Ride de la periferie pentru a evita traficul din centru.",
+          "Parcările de lângă gară sau castel sunt ideale pentru a explora centrul.",
+          "Planificați suficient timp pentru drumul spre băi sau spre munți pentru a vă bucura de peisaj.",
+          "Drumurile din Alpi pot fi înguste și sinuoase; conduceți cu prudență."
+        ],
+        "en": [
+          "Use the Park and Ride options on the outskirts to avoid city center traffic.",
+          "Parking garages near the train station or the palace are ideal for exploring the center.",
+          "Plan enough time for the drive to the baths or into the mountains to enjoy the scenery.",
+          "The roads in the Alps can be narrow and winding; drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 12.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Brig Zentrum: Ankunft am Bahnhof",
+            "hu": "Brig Központ Klaszter: Érkezés a pályaudvarra",
+            "ro": "Cluster Centru Brig: Sosire la gară",
+            "en": "Brig Center Cluster: Arrival at Train Station"
+          },
+          "coords": [
+            7.988,
+            46.318
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Briger Altstadt & Stockalperschloss",
+            "hu": "Brig óvárosa és Stockalper-kastély",
+            "ro": "Centrul vechi și Castelul Stockalper",
+            "en": "Brig Old Town & Stockalper Palace"
+          },
+          "coords": [
+            7.988,
+            46.3155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:16",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Cluster Glis: Fahrt zur Wallfahrtskirche",
+            "hu": "Glis Klaszter: Buszozás a zarándoktemplomhoz",
+            "ro": "Cluster Glis: Călătorie cu autobuzul la biserica de pelerinaj",
+            "en": "Glis Cluster: Bus to the Pilgrimage Church"
+          },
+          "coords": [
+            7.995,
+            46.318
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Cluster Brigerbad: Fahrt zum Thermalbad",
+            "hu": "Brigerbad Klaszter: Buszozás a termálfürdőhöz",
+            "ro": "Cluster Brigerbad: Călătorie cu autobuzul la băile termale",
+            "en": "Brigerbad Cluster: Bus to the Thermal Baths"
+          },
+          "coords": [
+            7.93,
+            46.31
+          ],
+          "category": "transport",
+          "arrive_at": "13:26",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10
+        },
+        {
+          "name": {
+            "de": "Thermalbad Brigerbad",
+            "hu": "Brigerbad Termálfürdő",
+            "ro": "Băile termale Brigerbad",
+            "en": "Brigerbad Thermal Baths"
+          },
+          "coords": [
+            7.929,
+            46.3105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:31",
+          "stay_min": 240,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Brig flexibel erkunden. Starten Sie am Bahnhof, dem zentralen Knotenpunkt, und entdecken Sie die Altstadt zu Fuß. Ein kurzer Bus bringt Sie nach Glis zur Wallfahrtskirche. Der Hauptteil des Nachmittags ist für eine Busfahrt nach Brigerbad und pure Entspannung im Thermalwasser reserviert, bevor Sie am Abend nach Brig zurückkehren.",
+        "hu": "Tömegközlekedéssel rugalmasan felfedezhető Brig. Induljon a központi csomópontnak számító pályaudvarról, és fedezze fel gyalog az óvárost. Egy rövid buszozás elviszi Glisbe a zarándoktemplomhoz. A délután nagy része a brigerbadi buszozásra és a termálvízben való tiszta pihenésre van fenntartva, mielőtt este visszatérne Brigbe.",
+        "ro": "Cu transportul public, Brig poate fi explorat flexibil. Începeți de la gară, nodul central, și descoperiți centrul vechi pe jos. Un autobuz scurt vă duce la Glis, la biserica de pelerinaj. Partea principală a după-amiezii este rezervată unei călătorii cu autobuzul la Brigerbad și relaxării pure în apa termală, înainte de a vă întoarce la Brig seara.",
+        "en": "Using public transport, Brig can be explored flexibly. Start at the train station, the central hub, and discover the old town on foot. A short bus ride takes you to Glis to the pilgrimage church. The main part of the afternoon is reserved for a bus trip to Brigerbad and pure relaxation in the thermal water before returning to Brig in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofbuffet",
+            "tip": "Ein schneller und praktischer Ort für ein Mittagessen zwischen den Verbindungen."
+          },
+          {
+            "name": "Bäckerei-Café",
+            "tip": "Holen Sie sich ein Sandwich und ein Gebäck für unterwegs."
+          },
+          {
+            "name": "Restaurant in Glis",
+            "tip": "Probieren Sie ein lokales Restaurant in der Nähe der Kirche für eine ruhigere Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari büfé",
+            "tip": "Gyors és praktikus hely egy ebédre a csatlakozások között."
+          },
+          {
+            "name": "Pékség-kávézó",
+            "tip": "Vegyen egy szendvicset és egy süteményt útközben."
+          },
+          {
+            "name": "Étterem Glisben",
+            "tip": "Próbáljon ki egy helyi éttermet a templom közelében egy csendesebb étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bufetul gării",
+            "tip": "Un loc rapid și convenabil pentru prânz între conexiuni."
+          },
+          {
+            "name": "Brutărie-cafenea",
+            "tip": "Luați un sandviș și un produs de patiserie pentru drum."
+          },
+          {
+            "name": "Restaurant în Glis",
+            "tip": "Încercați un restaurant local lângă biserică pentru o masă mai liniștită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Buffet",
+            "tip": "A quick and convenient place for lunch between connections."
+          },
+          {
+            "name": "Bakery-Café",
+            "tip": "Grab a sandwich and a pastry for the road."
+          },
+          {
+            "name": "Restaurant in Glis",
+            "tip": "Try a local restaurant near the church for a quieter meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit der Matterhorn-Gotthard-Bahn",
+            "tip": "Nehmen Sie einen Zug für eine kurze Strecke talaufwärts für spektakuläre Ausblicke.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Lesesaal in der Mediathek Wallis",
+            "tip": "Ein moderner, ruhiger Ort zum Entspannen im Stadtzentrum.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Spaziergang in Glis",
+            "tip": "Erkunden Sie die ruhigen Straßen rund um die Wallfahrtskirche.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utazás a Matterhorn-Gotthard vasúton",
+            "tip": "Vonatozzon egy rövid szakaszon a völgyben felfelé a látványos kilátásért.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Olvasóterem a Wallisi Médiatárban",
+            "tip": "Modern, csendes hely a pihenésre a városközpontban.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Séta Glisben",
+            "tip": "Fedezze fel a zarándoktemplom körüli csendes utcákat.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie cu trenul Matterhorn-Gotthard",
+            "tip": "Luați un tren pe o distanță scurtă în susul văii pentru priveliști spectaculoase.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Sala de lectură la Mediateca Valais",
+            "tip": "Un loc modern și liniștit pentru a vă relaxa în centrul orașului.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Plimbare în Glis",
+            "tip": "Explorați străzile liniștite din jurul bisericii de pelerinaj.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "A ride on the Matterhorn-Gotthard Railway",
+            "tip": "Take a train for a short stretch up the valley for spectacular views.",
+            "emoji": "🚂"
+          },
+          {
+            "name": "Reading room at Mediathek Wallis",
+            "tip": "A modern, quiet place to relax in the city center.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Walk in Glis",
+            "tip": "Explore the quiet streets around the pilgrimage church.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Kaufen Sie Souvenirs und Reisezubehör direkt am Verkehrsknotenpunkt."
+          },
+          {
+            "name": "Lokale Produkte im Dorf Glis",
+            "tip": "Suchen Sie nach kleinen Geschäften, die lokale Spezialitäten anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Vásároljon szuveníreket és utazási kiegészítőket közvetlenül a közlekedési csomópontban."
+          },
+          {
+            "name": "Helyi termékek Glis faluban",
+            "tip": "Keressen kis boltokat, amelyek helyi specialitásokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Cumpărați suveniruri și accesorii de călătorie chiar la nodul de transport."
+          },
+          {
+            "name": "Produse locale în satul Glis",
+            "tip": "Căutați magazine mici care oferă specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the station",
+            "tip": "Buy souvenirs and travel accessories right at the transport hub."
+          },
+          {
+            "name": "Local products in Glis village",
+            "tip": "Look for small shops offering local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bahnhof Brig ist der Hauptknotenpunkt für Züge und Postautos in der Region.",
+          "Kaufen Sie eine Tageskarte für das lokale Busnetz, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über die Abfahrtszeiten, insbesondere für den letzten Bus zurück aus Brigerbad.",
+          "Die SBB Mobile App ist sehr nützlich für die Planung von Routen und den Kauf von Tickets."
+        ],
+        "hu": [
+          "A brigi pályaudvar a régió vonatai és postabuszai számára a fő csomópont.",
+          "Vásároljon napijegyet a helyi buszhálózatra, ha több utazást tervez.",
+          "Tájékozódjon az indulási időkről, különösen az utolsó buszról, amely Brigerbadból tér vissza.",
+          "Az SBB Mobile alkalmazás nagyon hasznos az útvonaltervezéshez és a jegyvásárláshoz."
+        ],
+        "ro": [
+          "Gara din Brig este principalul nod pentru trenuri și autobuze poștale din regiune.",
+          "Cumpărați un bilet de o zi pentru rețeaua locală de autobuze dacă planificați mai multe călătorii.",
+          "Verificați orarele, în special pentru ultimul autobuz care se întoarce de la Brigerbad.",
+          "Aplicația mobilă SBB este foarte utilă pentru planificarea rutelor și achiziționarea biletelor."
+        ],
+        "en": [
+          "Brig train station is the main hub for trains and post buses in the region.",
+          "Buy a day pass for the local bus network if you plan on making multiple trips.",
+          "Check the timetables, especially for the last bus back from Brigerbad.",
+          "The SBB Mobile app is very useful for planning routes and buying tickets."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1307 @@
+{
+  "city_id": "greece-grevena-cities-v2",
+  "anchor": {
+    "name": "Grevena",
+    "coords": [
+      40.0845,
+      21.4277
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eleftheria-Platz",
+            "hu": "Eleftheria tér",
+            "ro": "Piața Eleftheria",
+            "en": "Eleftheria Square"
+          },
+          "coords": [
+            21.4275,
+            40.0842
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Grevena",
+            "hu": "Grevena óratornya",
+            "ro": "Turnul cu Ceas din Grevena",
+            "en": "Clock Tower of Grevena"
+          },
+          "coords": [
+            21.4268,
+            40.0848
+          ],
+          "category": "towers",
+          "arrive_at": "09:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt, perfekt für ein schnelles Foto.",
+            "hu": "A város jelképe, tökéletes egy gyors fotó elkészítéséhez.",
+            "ro": "Emblema orașului, perfectă pentru o fotografie rapidă.",
+            "en": "The town's landmark, perfect for a quick photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            21.4281,
+            40.0855
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Ikonen und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző ikonokat és a belső tér békés hangulatát.",
+            "ro": "Observați icoanele impresionante și atmosfera liniștită din interior.",
+            "en": "Note the impressive icons and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek",
+            "hu": "Városi Könyvtár",
+            "ro": "Biblioteca Municipală",
+            "en": "Municipal Library"
+          },
+          "coords": [
+            21.429,
+            40.0862
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein moderner Ort der Kultur, der einen Einblick in das lokale Leben bietet.",
+            "hu": "A kultúra modern helyszíne, bepillantást nyújt a helyi életbe.",
+            "ro": "Un spațiu cultural modern ce oferă o perspectivă asupra vieții locale.",
+            "en": "A modern cultural space offering a glimpse into local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            21.4225,
+            40.088
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bekannt für seine beeindruckende Sammlung von Mammutfossilien aus der Region.",
+            "hu": "Híres a régióból származó lenyűgöző mamutkövület-gyűjteményéről.",
+            "ro": "Renumit pentru colecția sa impresionantă de fosile de mamut din regiune.",
+            "en": "Famous for its impressive collection of mammoth fossils found in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Gousios",
+            "hu": "Gousios-malom",
+            "ro": "Moara Gousios",
+            "en": "Gousios Mill"
+          },
+          "coords": [
+            21.418,
+            40.0865
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein restauriertes Industriedenkmal, das heute als Kulturzentrum dient.",
+            "hu": "Egy felújított ipari műemlék, amely ma kulturális központként működik.",
+            "ro": "Un monument industrial restaurat care acum servește drept centru cultural.",
+            "en": "A restored industrial monument that now serves as a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Emilianos-Platz",
+            "hu": "Emilianos tér",
+            "ro": "Piața Emilianos",
+            "en": "Emilianos Square"
+          },
+          "coords": [
+            21.4288,
+            40.0835
+          ],
+          "category": "squares",
+          "arrive_at": "15:07",
+          "stay_min": 118,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ende des Tages und genießen Sie die lokale Atmosphäre. Zeit für ein spätes Mittagessen!",
+            "hu": "Pihenjen a nap végén és élvezze a helyi hangulatot. Itt az ideje egy késői ebédnek!",
+            "ro": "Relaxați-vă la sfârșitul zilei și bucurați-vă de atmosfera locală. Timp pentru un prânz târziu!",
+            "en": "Relax at the end of the day and enjoy the local atmosphere. Time for a late lunch!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Grevena beginnt auf dem zentralen Eleftheria-Platz, dem pulsierenden Herzen der Stadt. Von hier aus führt ein kurzer Spaziergang zum historischen Uhrturm und zur stillen Agios-Georgios-Kirche, die tiefe Einblicke in die lokale Kultur bieten. Der Vormittag ist eine Mischung aus städtischem Leben und spiritueller Einkehr.\nDer Mittag führt Sie ins Wissen und in die Natur. Nach einem Besuch in der modernen Stadtbibliothek tauchen Sie im Naturkundemuseum in die prähistorische Vergangenheit der Region ein, die für ihre Mammutfunde berühmt ist. Dies ist die perfekte Zeit, um sich für ein traditionelles griechisches Mittagessen niederzulassen.\nAm Nachmittag erkunden Sie das industrielle Erbe Grevenas an der Gousios-Mühle, einem umfunktionierten Kulturzentrum, das die Geschichte der Stadt erzählt. Die Atmosphäre hier ist ruhig und lädt zum Nachdenken ein, bevor Sie in den belebteren Teil der Stadt zurückkehren.\nIhren Abend verbringen Sie auf dem Emilianos-Platz. Hier, inmitten von Einheimischen, können Sie den Tag bei einem Glas Wein oder einem gemütlichen Abendessen ausklingen lassen und die einzigartige Gastfreundschaft von Grevena, der „Stadt der Pilze“, erleben.",
+        "hu": "Grevenai napja a város lüktető szívében, a központi Eleftheria téren kezdődik. Innen egy rövid séta vezet a történelmi Óratoronyhoz és a csendes Szent György-templomhoz, amelyek mély betekintést nyújtanak a helyi kultúrába. A délelőtt a városi élet és a spirituális elmélyülés keveréke.\nAz ebédidő a tudás és a természet jegyében telik. A modern Városi Könyvtár meglátogatása után a Természettudományi Múzeumban elmerülhet a régió őskori múltjában, amely mamutleleteiről híres. Ez a tökéletes alkalom egy hagyományos görög ebédre.\nA délután folyamán felfedezheti Grevena ipari örökségét a Gousios-malomnál, egy kulturális központtá alakított épületnél, amely a város történetét meséli el. Az itteni légkör nyugodt és elgondolkodtató, mielőtt visszatérne a város nyüzsgőbb részébe.\nAz estét az Emilianos téren tölti. Itt, a helyiek között, egy pohár bor vagy egy hangulatos vacsora mellett fejezheti be a napot, és megtapasztalhatja Grevena, a „gombák városának” egyedülálló vendégszeretetét.",
+        "ro": "Ziua dvs. în Grevena începe în Piața centrală Eleftheria, inima vibrantă a orașului. De aici, o scurtă plimbare vă duce la istoricul Turn cu Ceas și la liniștita Biserică Agios Georgios, oferind perspective profunde asupra culturii locale. Dimineața este un amestec de viață urbană și reculegere spirituală.\nMiaza zilei vă poartă spre cunoaștere și natură. După o vizită la Biblioteca Municipală modernă, vă veți scufunda în trecutul preistoric al regiunii la Muzeul de Istorie Naturală, renumit pentru descoperirile de mamuți. Acesta este momentul perfect pentru a vă așeza la un prânz tradițional grecesc.\nDupă-amiaza, explorați patrimoniul industrial al Grevenei la Moara Gousios, un centru cultural reconvertit care spune povestea orașului. Atmosfera aici este calmă și contemplativă, înainte de a vă întoarce în partea mai aglomerată a orașului.\nSeara o veți petrece în Piața Emilianos. Aici, printre localnici, puteți încheia ziua cu un pahar de vin sau o cină relaxantă, experimentând ospitalitatea unică a Grevenei, „orașul ciupercilor”.",
+        "en": "Your day in Grevena begins in the central Eleftheria Square, the vibrant heart of the city. From here, a short walk takes you to the historic Clock Tower and the quiet Church of Agios Georgios, offering deep insights into the local culture. The morning is a mix of urban life and spiritual reflection.\nMidday leads you into knowledge and nature. After a visit to the modern Municipal Library, you'll delve into the region's prehistoric past at the Natural History Museum, famous for its mammoth discoveries. This is the perfect time to settle down for a traditional Greek lunch.\nIn the afternoon, you'll explore Grevena's industrial heritage at the Gousios Mill, a repurposed cultural center that tells the city's story. The atmosphere here is calm and contemplative before you return to the more bustling part of town.\nYou'll spend your evening in Emilianos Square. Here, amidst the locals, you can wind down the day with a glass of wine or a leisurely dinner, experiencing the unique hospitality of Grevena, the 'city of mushrooms'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pilzgerichte",
+            "tip": "Grevena ist als 'Stadt der Pilze' bekannt. Probieren Sie unbedingt lokale Spezialitäten."
+          },
+          {
+            "name": "A Pindos",
+            "tip": "Ein beliebtes Restaurant für authentische griechische Küche und lokale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombás ételek",
+            "tip": "Grevena a 'gombák városa'-ként ismert. Feltétlenül kóstolja meg a helyi specialitásokat."
+          },
+          {
+            "name": "A Pindos",
+            "tip": "Népszerű étterem autentikus görög konyhával és helyi ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri cu ciuperci",
+            "tip": "Grevena este cunoscut ca 'orașul ciupercilor'. Asigurați-vă că încercați specialitățile locale."
+          },
+          {
+            "name": "A Pindos",
+            "tip": "Un restaurant popular pentru bucătăria grecească autentică și mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mushroom Dishes",
+            "tip": "Grevena is known as the 'city of mushrooms'. Be sure to try local specialties."
+          },
+          {
+            "name": "A Pindos",
+            "tip": "A popular restaurant for authentic Greek cuisine and local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Grevenitis Fluss",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal für eine Pause vom Stadttrubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park bei der Gousios-Mühle",
+            "tip": "Der Bereich um die Mühle bietet eine friedliche Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Grevenitis folyó mentén",
+            "tip": "Csendes ösvény a folyó partján, ideális a városi nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park a Gousios-malomnál",
+            "tip": "A malom körüli terület békés hangulatot áraszt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Grevenitis",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Moara Gousios",
+            "tip": "Zona din jurul morii oferă o atmosferă pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Grevenitis River",
+            "tip": "A quiet path along the river, ideal for a break from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park near Gousios Mill",
+            "tip": "The area around the mill offers a peaceful atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte, insbesondere die berühmten Pilze und Käsesorten."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Finden Sie handgefertigte Souvenirs und traditionelle griechische Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, különösen a híres gombákat és sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon kézzel készített ajándéktárgyakat és hagyományos görög árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale, în special faimoasele ciuperci și brânzeturi."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți suveniruri lucrate manual și produse tradiționale grecești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local products, especially the famous mushrooms and cheeses."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Find handmade souvenirs and traditional Greek goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause auf einem der Plätze, um das lokale Leben zu beobachten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét gyalog fogja tölteni.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Szánjon időt egy kávészünetre az egyik téren, hogy megfigyelje a helyi életet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați-vă timp pentru o pauză de cafea într-una dintre piețe pentru a observa viața locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "Most attractions in the city center are easily reachable on foot.",
+          "Take time for a coffee break in one of the squares to observe the local life."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Eleftheria-Platz",
+            "hu": "Eleftheria tér",
+            "ro": "Piața Eleftheria",
+            "en": "Eleftheria Square"
+          },
+          "coords": [
+            21.4275,
+            40.0842
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
+            "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
+            "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
+            "en": "An ideal starting point for exploring the city by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Grevena",
+            "hu": "Grevena óratornya",
+            "ro": "Turnul cu Ceas din Grevena",
+            "en": "Clock Tower of Grevena"
+          },
+          "coords": [
+            21.4268,
+            40.0848
+          ],
+          "category": "towers",
+          "arrive_at": "09:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und machen Sie ein schnelles Foto dieses Wahrzeichens.",
+            "hu": "Zárja le a kerékpárt, és készítsen egy gyors fotót erről a jelképről.",
+            "ro": "Legați-vă bicicleta și faceți o fotografie rapidă a acestui reper.",
+            "en": "Lock up your bike and take a quick photo of this landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Gousios",
+            "hu": "Gousios-malom",
+            "ro": "Moara Gousios",
+            "en": "Gousios Mill"
+          },
+          "coords": [
+            21.418,
+            40.0865
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt vom Stadtzentrum zu diesem Kulturdenkmal.",
+            "hu": "Kellemes út a városközpontból ehhez a kulturális emlékhelyhez.",
+            "ro": "O plimbare plăcută de la centrul orașului la acest monument cultural.",
+            "en": "A pleasant ride from the city center to this cultural monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            21.4225,
+            40.088
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Hier gibt es Fahrradständer, sodass Sie die Mammuts in Ruhe bestaunen können.",
+            "hu": "Vannak kerékpártárolók, így nyugodtan megcsodálhatja a mamutokat.",
+            "ro": "Există suporturi pentru biciclete, astfel încât să puteți admira mamuții în liniște.",
+            "en": "There are bike racks available, so you can admire the mammoths in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            21.4281,
+            40.0855
+          ],
+          "category": "churches",
+          "arrive_at": "12:21",
+          "stay_min": 35,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich einen Moment der Stille.",
+            "hu": "Hagyja a kerékpárt a közelben, és szánjon egy percet a csendre.",
+            "ro": "Lăsați-vă bicicleta în apropiere și acordați-vă un moment de liniște.",
+            "en": "Park your bike nearby and take a moment of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek",
+            "hu": "Városi Könyvtár",
+            "ro": "Biblioteca Municipală",
+            "en": "Municipal Library"
+          },
+          "coords": [
+            21.429,
+            40.0862
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause in der Nähe, bevor Sie weiterfahren.",
+            "hu": "Jó hely egy közeli ebédszünetre, mielőtt tovább indulna.",
+            "ro": "Un loc bun pentru o pauză de prânz în apropiere înainte de a continua.",
+            "en": "A good spot for a lunch break nearby before you continue."
+          }
+        },
+        {
+          "name": {
+            "de": "Portitsa-Brücke (Aussichtspunkt)",
+            "hu": "Portitsa-híd (kilátópont)",
+            "ro": "Podul Portitsa (punct de belvedere)",
+            "en": "Portitsa Bridge (Viewpoint)"
+          },
+          "coords": [
+            21.3283,
+            40.0544
+          ],
+          "category": "bridges",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Fahrt aus der Stadt heraus zu diesem atemberaubenden Ort ist die Anstrengung wert.",
+            "hu": "A városból kivezető út ehhez a lélegzetelállító helyhez megéri a fáradságot.",
+            "ro": "Călătoria în afara orașului către acest loc uimitor merită efortul.",
+            "en": "The ride out of town to this breathtaking spot is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich in Grevena aufs Rad, beginnend am Eleftheria-Platz. Die erste Etappe führt Sie schnell zum Uhrturm und dann weiter zur Gousios-Mühle am Rande der Stadt. Diese morgendliche Tour verbindet städtische Wahrzeichen mit einem Hauch von industrieller Geschichte.\nZur Mittagszeit radeln Sie zum Naturkundemuseum, um die berühmten Mammutfossilien zu bestaunen. Nach diesem kulturellen Höhepunkt fahren Sie zurück ins Zentrum, zur ruhigen Agios-Georgios-Kirche. Suchen Sie sich in der Nähe ein nettes Plätzchen für ein stärkendes Mittagessen.\nDer Nachmittag ist einem Abenteuer gewidmet. Nach einem kurzen Halt in der Stadtbibliothek unternehmen Sie eine längere, aber lohnende Radtour zum Aussichtspunkt der Portitsa-Brücke. Die spektakuläre Schlucht und die historische Steinbrücke sind ein unvergesslicher Anblick.\nBeenden Sie Ihren Radtag mit der Rückfahrt in die Stadt. Genießen Sie die Abenddämmerung bei einem wohlverdienten Abendessen in einer der Tavernen von Grevena, wo Sie die lokalen Pilzspezialitäten probieren können, die dieser Region ihren Ruhm verleihen.",
+        "hu": "Pattanjon kerékpárra Grevenában, az Eleftheria térről indulva. Az első szakasz gyorsan elvezeti az Óratoronyhoz, majd tovább a város szélén található Gousios-malomhoz. Ez a reggeli túra ötvözi a városi nevezetességeket egy csipetnyi ipartörténettel.\nEbédidőben tekerjen el a Természettudományi Múzeumhoz, hogy megcsodálja a híres mamutkövületeket. E kulturális csúcspont után visszatér a központba, a csendes Szent György-templomhoz. Keressen a közelben egy kedves helyet egy frissítő ebédhez.\nA délután egy kalandnak van szentelve. A Városi Könyvtárban tett rövid megálló után egy hosszabb, de annál inkább megérő kerékpártúrát tesz a Portitsa-híd kilátópontjához. A látványos szurdok és a történelmi kőhíd felejthetetlen látványt nyújt.\nZárja a kerékpáros napot a városba való visszatéréssel. Élvezze az alkonyt egy jól megérdemelt vacsora mellett Grevena egyik tavernájában, ahol megkóstolhatja a helyi gombakülönlegességeket, amelyek híressé tették ezt a régiót.",
+        "ro": "Urcați-vă pe bicicletă în Grevena, pornind din Piața Eleftheria. Prima etapă vă duce rapid la Turnul cu Ceas și apoi mai departe la Moara Gousios, la marginea orașului. Acest tur de dimineață combină reperele urbane cu o notă de istorie industrială.\nLa prânz, pedalați spre Muzeul de Istorie Naturală pentru a admira faimoasele fosile de mamut. După acest punct culminant cultural, vă întoarceți în centru, la liniștita Biserică Agios Georgios. Căutați un loc drăguț în apropiere pentru un prânz revigorant.\nDupă-amiaza este dedicată aventurii. După o scurtă oprire la Biblioteca Municipală, faceți o plimbare cu bicicleta mai lungă, dar plină de satisfacții, până la punctul de belvedere al Podului Portitsa. Canionul spectaculos și podul istoric de piatră sunt o priveliște de neuitat.\nÎncheiați ziua de ciclism cu întoarcerea în oraș. Bucurați-vă de amurg cu o cină binemeritată la una dintre tavernele din Grevena, unde puteți gusta specialitățile locale de ciuperci care au adus faimă acestei regiuni.",
+        "en": "Hop on your bike in Grevena, starting from Eleftheria Square. The first leg takes you quickly to the Clock Tower and then on to the Gousios Mill on the edge of town. This morning tour combines urban landmarks with a touch of industrial history.\nAt lunchtime, you'll cycle to the Natural History Museum to admire the famous mammoth fossils. After this cultural highlight, you'll head back to the center, to the tranquil Church of Agios Georgios. Find a nice spot nearby for a refreshing lunch.\nThe afternoon is dedicated to adventure. After a brief stop at the Municipal Library, you'll take a longer but rewarding bike ride to the Portitsa Bridge viewpoint. The spectacular gorge and the historic stone bridge are an unforgettable sight.\nEnd your cycling day with the ride back into town. Enjoy the twilight with a well-deserved dinner at one of Grevena's tavernas, where you can sample the local mushroom specialties that give this region its fame."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Kuchen",
+            "tip": "Probieren Sie 'Pites', herzhafte Kuchen, die perfekt für einen schnellen Energieschub sind."
+          },
+          {
+            "name": "Fasouli",
+            "tip": "Ein traditionelles Restaurant mit einer großen Auswahl an hausgemachten griechischen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piték",
+            "tip": "Kóstolja meg a 'pites'-t, a sós pitéket, amelyek tökéletesek egy gyors energiabevitelhez."
+          },
+          {
+            "name": "Fasouli",
+            "tip": "Hagyományos étterem, házi készítésű görög ételek széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcinte locale",
+            "tip": "Încercați 'pites', plăcinte sărate perfecte pentru o reîncărcare rapidă cu energie."
+          },
+          {
+            "name": "Fasouli",
+            "tip": "Un restaurant tradițional cu o selecție largă de mâncăruri grecești de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pies",
+            "tip": "Try 'pites', savory pies that are perfect for a quick energy boost."
+          },
+          {
+            "name": "Fasouli",
+            "tip": "A traditional restaurant with a wide selection of homemade Greek dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Venetikos Flusses",
+            "tip": "In der Nähe der Portitsa-Brücke finden Sie ruhige Plätze am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Ein kleiner, aber feiner Park für eine kurze Rast im Schatten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venetikos folyó partja",
+            "tip": "A Portitsa-híd közelében csendes helyeket talál a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Kicsi, de szép park egy rövid, árnyékos pihenőhöz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Venetikos",
+            "tip": "Lângă Podul Portitsa, veți găsi locuri liniștite pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Un parc mic, dar frumos, pentru o scurtă odihnă la umbră.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venetikos River",
+            "tip": "Near the Portitsa Bridge, you'll find quiet spots on the riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Park",
+            "tip": "A small but nice park for a short rest in the shade.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Pilze",
+            "tip": "Ein perfektes Souvenir aus Grevena, um den Geschmack der Region mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Bergregion um Grevena ist bekannt für ihren hochwertigen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított gomba",
+            "tip": "Tökéletes ajándéktárgy Grevenából, hogy hazavigye a régió ízét."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "A Grevena körüli hegyvidék híres a kiváló minőségű mézéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciuperci uscate",
+            "tip": "Un suvenir perfect din Grevena pentru a lua acasă gustul regiunii."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Regiunea muntoasă din jurul Grevenei este cunoscută pentru mierea sa de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Mushrooms",
+            "tip": "A perfect souvenir from Grevena to take the taste of the region home."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "The mountainous region around Grevena is known for its high-quality honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können Kopfsteinpflaster haben, fahren Sie also vorsichtig.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt zur Portitsa-Brücke."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány út macskaköves lehet, ezért óvatosan közlekedjen.",
+          "Vigyen magával elegendő vizet, különösen a Portitsa-hídhoz vezető útra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Unele străzi pot avea piatră cubică, așa că mergeți cu prudență.",
+          "Luați suficientă apă, mai ales pentru drumul spre Podul Portitsa."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the brakes and tires.",
+          "Some streets can be cobbled, so ride with care.",
+          "Bring plenty of water, especially for the ride to Portitsa Bridge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Eleftheria-Platz",
+            "hu": "Parkoló az Eleftheria térnél",
+            "ro": "Parcare Piața Eleftheria",
+            "en": "Parking at Eleftheria Square"
+          },
+          "coords": [
+            21.4285,
+            40.084
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster von Sehenswürdigkeiten zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster of sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Eleftheria-Platz",
+            "hu": "Óratorony és Eleftheria tér",
+            "ro": "Turnul cu Ceas & Piața Eleftheria",
+            "en": "Clock Tower & Eleftheria Square"
+          },
+          "coords": [
+            21.4272,
+            40.0845
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz und sein historisches Wahrzeichen.",
+            "hu": "Fedezze fel a központi teret és történelmi jelképét.",
+            "ro": "Explorați piața centrală și reperul său istoric.",
+            "en": "Explore the central square and its historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            21.4281,
+            40.0855
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zu dieser beeindruckenden Kirche.",
+            "hu": "Rövid séta a tértől ehhez a lenyűgöző templomhoz.",
+            "ro": "O scurtă plimbare din piață până la această biserică impresionantă.",
+            "en": "A short walk from the square to this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            21.4225,
+            40.088
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es gute Parkmöglichkeiten.",
+            "hu": "Vezessen a következő látnivaló-csoporthoz. Itt jó parkolási lehetőségek vannak.",
+            "ro": "Conduceți la următorul grup de atracții. Există locuri bune de parcare aici.",
+            "en": "Drive to the next cluster. There are good parking facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Portitsa-Brücke und Schlucht",
+            "hu": "Portitsa-híd és szurdok",
+            "ro": "Podul și Cheile Portitsa",
+            "en": "Portitsa Bridge and Gorge"
+          },
+          "coords": [
+            21.3283,
+            40.0544
+          ],
+          "category": "bridges",
+          "arrive_at": "13:23",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Der Höhepunkt des Tages. Planen Sie Zeit für Fotos und ein Picknick ein.",
+            "hu": "A nap fénypontja. Tervezzen időt a fotózásra és egy piknikre.",
+            "ro": "Punctul culminant al zilei. Planificați timp pentru fotografii și un picnic.",
+            "en": "The highlight of the day. Plan time for photos and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen im Dorf Spileo",
+            "hu": "Késői ebéd Spileo faluban",
+            "ro": "Prânz târziu în satul Spileo",
+            "en": "Late Lunch in Spileo Village"
+          },
+          "coords": [
+            21.331,
+            40.056
+          ],
+          "category": "gastro",
+          "arrive_at": "16:03",
+          "stay_min": 112,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nach der Brücke können Sie in diesem charmanten Dorf eine Mahlzeit genießen.",
+            "hu": "A híd után élvezzen egy étkezést ebben a bájos faluban.",
+            "ro": "După pod, bucurați-vă de o masă în acest sat fermecător.",
+            "en": "After the bridge, enjoy a meal in this charming village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Grevena. Parken Sie in der Nähe des Eleftheria-Platzes und erkunden Sie den ersten Cluster zu Fuß: den Platz selbst, den markanten Uhrturm und die spirituelle Agios-Georgios-Kirche. Dies ist ein entspannter Start, um die städtische Atmosphäre aufzusaugen.\nSteigen Sie wieder ins Auto für eine kurze Fahrt zum zweiten Cluster, dem Naturkundemuseum. Tauchen Sie tief in die prähistorische Welt der Mammuts ein. Nehmen Sie sich Zeit für die faszinierenden Ausstellungen, bevor Sie sich auf das größte Abenteuer des Tages begeben.\nDer Nachmittag ist für ein Naturwunder reserviert. Eine malerische Fahrt bringt Sie zur atemberaubenden Portitsa-Brücke, die sich über eine dramatische Schlucht spannt. Dieser Ort ist perfekt für Wanderungen, Fotografie und um die unberührte Natur der Region zu genießen.\nZum Abschluss Ihres Ausflugs fahren Sie in das nahegelegene Dorf Spileo. Nach einem kurzen Spaziergang von der Brücke können Sie hier ein spätes, herzhaftes Mittagessen in einer traditionellen Taverne genießen. Es ist der perfekte Ausklang eines Tages voller Kultur und spektakulärer Landschaften, bevor Sie nach Grevena zurückkehren.",
+        "hu": "Autós napja Grevena szívében kezdődik. Parkoljon le az Eleftheria tér közelében, és fedezze fel gyalog az első látnivaló-csoportot: magát a teret, a jellegzetes Óratornyot és a spirituális Szent György-templomot. Ez egy nyugodt kezdet a városi hangulat befogadására.\nSzálljon vissza az autóba egy rövid útra a második látnivaló-csoporthoz, a Természettudományi Múzeumhoz. Merüljön el mélyen a mamutok őskori világában. Szánjon időt a lenyűgöző kiállításokra, mielőtt a nap legnagyobb kalandjára indulna.\nA délután egy természeti csodának van fenntartva. Egy festői autózás elviszi a lélegzetelállító Portitsa-hídhoz, amely egy drámai szurdok felett ível át. Ez a hely tökéletes túrázásra, fotózásra és a régió érintetlen természetének élvezetére.\nKirándulása befejezéseként hajtson a közeli Spileo faluba. A hídtól tett rövid séta után itt egy késői, kiadós ebédet fogyaszthat egy hagyományos tavernában. Ez a tökéletes befejezése egy kultúrával és látványos tájakkal teli napnak, mielőtt visszatérne Grevenába.",
+        "ro": "Ziua dvs. cu mașina începe în inima Grevenei. Parcați lângă Piața Eleftheria și explorați pe jos primul grup de atracții: piața însăși, impunătorul Turn cu Ceas și spirituala Biserică Agios Georgios. Acesta este un început relaxat pentru a absorbi atmosfera urbană.\nUrcați din nou în mașină pentru o scurtă călătorie către al doilea grup, Muzeul de Istorie Naturală. Scufundați-vă adânc în lumea preistorică a mamuților. Luați-vă timp pentru exponatele fascinante înainte de a vă îmbarca în cea mai mare aventură a zilei.\nDupă-amiaza este rezervată unei minuni naturale. O călătorie pitorească cu mașina vă duce la uimitorul Pod Portitsa, care se întinde peste un canion dramatic. Acest loc este perfect pentru drumeții, fotografie și pentru a vă bucura de natura neatinsă a regiunii.\nPentru a încheia excursia, conduceți spre satul din apropiere, Spileo. După o scurtă plimbare de la pod, vă puteți bucura aici de un prânz târziu și copios la o tavernă tradițională. Este finalul perfect pentru o zi plină de cultură și peisaje spectaculoase, înainte de a vă întoarce în Grevena.",
+        "en": "Your car day begins in the heart of Grevena. Park near Eleftheria Square and explore the first cluster on foot: the square itself, the iconic Clock Tower, and the spiritual Church of Agios Georgios. This is a relaxed start to soak up the urban atmosphere.\nGet back in the car for a short drive to the second cluster, the Natural History Museum. Dive deep into the prehistoric world of mammoths. Take your time with the fascinating exhibits before embarking on the day's biggest adventure.\nThe afternoon is reserved for a natural wonder. A scenic drive takes you to the breathtaking Portitsa Bridge, spanning a dramatic gorge. This spot is perfect for hiking, photography, and enjoying the region's unspoiled nature.\nTo conclude your excursion, drive to the nearby village of Spileo. After a short walk from the bridge, you can enjoy a late, hearty lunch at a traditional taverna here. It's the perfect end to a day filled with culture and spectacular landscapes before heading back to Grevena."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne in Spileo",
+            "tip": "Genießen Sie authentische, hausgemachte Speisen mit Blick auf die Berge."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Ein herzhafter Fleischkuchen, den Sie auf lokalen Märkten oder in Bäckereien finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna Spileo-ban",
+            "tip": "Élvezze az autentikus, házi készítésű ételeket hegyi kilátással."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Kiadós húsos pite, amelyet a helyi piacokon vagy pékségekben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă în Spileo",
+            "tip": "Bucurați-vă de mâncare autentică, de casă, cu vedere la munte."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "O plăcintă consistentă cu carne pe care o puteți găsi în piețele locale sau la brutării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna in Spileo",
+            "tip": "Enjoy authentic, homemade food with a mountain view."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "A hearty meat pie you can find at local markets or bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Venetikos-Schlucht",
+            "tip": "Wandern Sie ein Stück entlang des Flusses für absolute Ruhe und Stille.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Aussichtspunkte um Spileo",
+            "tip": "Das Dorf bietet mehrere Punkte mit fantastischem Blick auf die Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venetikos-szurdok",
+            "tip": "Túrázzon egy kicsit a folyó mentén a teljes béke és csend érdekében.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kilátópontok Spileo környékén",
+            "tip": "A falu több pontot is kínál fantasztikus kilátással a tájra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheile Venetikos",
+            "tip": "Faceți o drumeție de-a lungul râului pentru pace și liniște absolută.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Puncte de belvedere în jurul Spileo",
+            "tip": "Satul oferă mai multe puncte cu vederi fantastice ale peisajului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Venetikos Gorge",
+            "tip": "Hike a bit along the river for absolute peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Viewpoints around Spileo",
+            "tip": "The village offers several spots with fantastic views of the landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Teigwaren (Trachanas)",
+            "tip": "Eine traditionelle Suppenbasis, die ein tolles Souvenir ist."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Entdecken Sie lokale Weingüter oder Geschäfte, die Weine aus Westmakedonien anbieten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tészta (Trachanas)",
+            "tip": "Hagyományos levesalap, amely remek ajándéktárgy."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Fedezze fel a helyi pincészeteket vagy boltokat, amelyek nyugat-macedóniai borokat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste locale (Trachanas)",
+            "tip": "O bază tradițională pentru supă care este un suvenir excelent."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Descoperiți cramele locale sau magazinele care oferă vinuri din Macedonia de Vest."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pasta (Trachanas)",
+            "tip": "A traditional soup base that makes a great souvenir."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Discover local wineries or shops offering wines from Western Macedonia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Auto vollgetankt ist, bevor Sie die Stadt verlassen.",
+          "Die Straßen zur Portitsa-Brücke können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Nutzen Sie Park-Apps oder fragen Sie Einheimische nach den besten Parkplätzen."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy tele van a tank, mielőtt elhagyja a várost.",
+          "A Portitsa-hídhoz vezető utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Használjon parkolási alkalmazásokat, vagy kérdezze meg a helyieket a legjobb parkolóhelyekről."
+        ],
+        "ro": [
+          "Asigurați-vă că aveți rezervorul plin înainte de a părăsi orașul.",
+          "Drumurile spre Podul Portitsa pot fi înguste și sinuoase, conduceți cu atenție.",
+          "Folosiți aplicații de parcare sau întrebați localnicii despre cele mai bune locuri de parcare."
+        ],
+        "en": [
+          "Make sure your car is fully fueled before leaving the city.",
+          "The roads to Portitsa Bridge can be narrow and winding, drive carefully.",
+          "Use parking apps or ask locals for the best parking spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof / Eleftheria-Platz",
+            "hu": "Központi buszpályaudvar / Eleftheria tér",
+            "ro": "Autogara Centrală / Piața Eleftheria",
+            "en": "Central Bus Station / Eleftheria Square"
+          },
+          "coords": [
+            21.4279,
+            40.0841
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Zentrum. Kaufen Sie eine Tageskarte, falls verfügbar.",
+            "hu": "Kezdje a napot a központban. Ha van, vegyen napijegyet.",
+            "ro": "Începeți ziua în centru. Cumpărați un bilet de o zi, dacă este disponibil.",
+            "en": "Start your day in the center. Buy a day pass if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Grevena",
+            "hu": "Grevena óratornya",
+            "ro": "Turnul cu Ceas din Grevena",
+            "en": "Clock Tower of Grevena"
+          },
+          "coords": [
+            21.4268,
+            40.0848
+          ],
+          "category": "towers",
+          "arrive_at": "09:25",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz zu diesem ikonischen Wahrzeichen.",
+            "hu": "Rövid séta a tértől ehhez az ikonikus jelképhez.",
+            "ro": "O scurtă plimbare din piață până la acest reper iconic.",
+            "en": "A short walk from the square to this iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Gousios",
+            "hu": "Gousios-malom",
+            "ro": "Moara Gousios",
+            "en": "Gousios Mill"
+          },
+          "coords": [
+            21.418,
+            40.0865
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zu diesem Kulturzentrum am Stadtrand.",
+            "hu": "Menjen helyi busszal ehhez a város szélén található kulturális központhoz.",
+            "ro": "Luați un autobuz local către acest centru cultural de la periferia orașului.",
+            "en": "Take a local bus to this cultural center on the outskirts of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkundemuseum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            21.4225,
+            40.088
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Vom Mühlen-Cluster aus ist das Museum leicht zu Fuß erreichbar.",
+            "hu": "A malom-csoporttól a múzeum könnyen megközelíthető gyalog.",
+            "ro": "Muzeul este la o distanță de mers pe jos de la clusterul morii.",
+            "en": "The museum is within walking distance from the mill cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Georgios",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Agios Georgios",
+            "en": "Church of Agios Georgios"
+          },
+          "coords": [
+            21.4281,
+            40.0855
+          ],
+          "category": "churches",
+          "arrive_at": "13:03",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für die Kirche und das Mittagessen.",
+            "hu": "Menjen vissza busszal a központba a templomhoz és ebédelni.",
+            "ro": "Luați autobuzul înapoi în centru pentru biserică și prânz.",
+            "en": "Take the bus back to the center for the church and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Emilianos-Platz",
+            "hu": "Emilianos tér",
+            "ro": "Piața Emilianos",
+            "en": "Emilianos Square"
+          },
+          "coords": [
+            21.4288,
+            40.0835
+          ],
+          "category": "squares",
+          "arrive_at": "14:38",
+          "stay_min": 147,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein entspannter Ort, um den Nachmittag zu verbringen und die Eindrücke zu verarbeiten.",
+            "hu": "Nyugodt hely a délután eltöltésére és az élmények feldolgozására.",
+            "ro": "Un loc relaxant pentru a petrece după-amiaza și a procesa impresiile.",
+            "en": "A relaxing place to spend the afternoon and process the impressions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Grevena beginnt am zentralen Busknotenpunkt am Eleftheria-Platz. Von hier aus erkunden Sie den ersten Cluster zu Fuß, einschließlich des Uhrturms, und genießen die morgendliche Atmosphäre der Stadt, bevor Sie in den Bus steigen.\nAls Nächstes bringt Sie eine kurze Busfahrt zum Stadtrand, wo sich die Gousios-Mühle befindet. Nach der Erkundung dieses industriellen Erbes spazieren Sie zum nahegelegenen Naturkundemuseum, um in die faszinierende Welt der Mammuts einzutauchen. Dieser Cluster bietet eine Mischung aus Geschichte und Wissenschaft.\nAm Nachmittag fahren Sie mit dem Bus zurück ins Stadtzentrum. Steigen Sie in der Nähe der Agios-Georgios-Kirche aus und nehmen Sie sich Zeit für einen Besuch und ein spätes Mittagessen in einer der nahegelegenen Tavernen. Dies ist die perfekte Gelegenheit, die lokale Küche zu probieren.\nDen Rest des Tages verbringen Sie mit einem gemütlichen Spaziergang zum Emilianos-Platz. Beobachten Sie das Treiben, genießen Sie einen letzten griechischen Kaffee und lassen Sie die vielfältigen Eindrücke des Tages auf sich wirken, bevor Sie zum zentralen Knotenpunkt zurückkehren.",
+        "hu": "Tömegközlekedéssel töltött napja Grevenában az Eleftheria téri központi buszcsomópontnál kezdődik. Innen gyalogosan fedezi fel az első látnivaló-csoportot, beleértve az Óratornyot, és élvezi a város reggeli hangulatát, mielőtt buszra szállna.\nEzután egy rövid buszút elviszi a város szélére, ahol a Gousios-malom található. Az ipari örökség felfedezése után átsétál a közeli Természettudományi Múzeumba, hogy elmerüljön a mamutok lenyűgöző világában. Ez a látnivaló-csoport a történelem és a tudomány keverékét kínálja.\nDélután busszal tér vissza a városközpontba. Szálljon le a Szent György-templom közelében, és szánjon időt a látogatásra és egy késői ebédre a közeli tavernák egyikében. Ez a tökéletes alkalom a helyi konyha megkóstolására.\nA nap hátralévő részét egy kellemes sétával tölti az Emilianos térre. Figyelje a nyüzsgést, élvezzen egy utolsó görög kávét, és hagyja, hogy a nap változatos benyomásai hassanak Önre, mielőtt visszatérne a központi csomóponthoz.",
+        "ro": "Ziua dvs. cu transportul public în Grevena începe la nodul central de autobuze din Piața Eleftheria. De aici, explorați pe jos primul grup de atracții, inclusiv Turnul cu Ceas, și bucurați-vă de atmosfera de dimineață a orașului înainte de a vă urca în autobuz.\nÎn continuare, o scurtă călătorie cu autobuzul vă duce la marginea orașului, unde se află Moara Gousios. După ce explorați acest patrimoniu industrial, mergeți pe jos la Muzeul de Istorie Naturală din apropiere pentru a vă cufunda în lumea fascinantă a mamuților. Acest grup oferă un amestec de istorie și știință.\nDupă-amiaza, luați autobuzul înapoi în centrul orașului. Coborâți lângă Biserica Agios Georgios și acordați-vă timp pentru o vizită și un prânz târziu la una dintre tavernele din apropiere. Aceasta este ocazia perfectă de a gusta bucătăria locală.\nPetreceți restul zilei cu o plimbare relaxantă spre Piața Emilianos. Priviți agitația, savurați o ultimă cafea grecească și lăsați impresiile diverse ale zilei să se așeze înainte de a vă întoarce la nodul central.",
+        "en": "Your day on public transport in Grevena begins at the central bus hub at Eleftheria Square. From here, you'll explore the first cluster on foot, including the Clock Tower, and enjoy the city's morning atmosphere before hopping on a bus.\nNext, a short bus ride takes you to the outskirts of town where the Gousios Mill is located. After exploring this industrial heritage site, you'll walk to the nearby Natural History Museum to immerse yourself in the fascinating world of mammoths. This cluster offers a mix of history and science.\nIn the afternoon, you'll take a bus back to the city center. Get off near the Church of Agios Georgios and take time for a visit and a late lunch at one of the nearby tavernas. This is the perfect opportunity to sample the local cuisine.\nSpend the rest of the day on a leisurely stroll to Emilianos Square. Watch the hustle and bustle, enjoy one last Greek coffee, and let the day's diverse impressions sink in before heading back to the central hub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki-Stand",
+            "tip": "Ein schneller und leckerer Happen für zwischendurch in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Zithopsitopolio",
+            "tip": "Ein Ort, an dem Sie Bier (Zithos) und gegrillte Speisen (Psito) genießen können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki-sütöde",
+            "tip": "Gyors és finom falat a buszpályaudvar közelében."
+          },
+          {
+            "name": "Zithopsitopolio",
+            "tip": "Hely, ahol sört (Zithos) és grillezett ételeket (Psito) fogyaszthat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand Souvlaki",
+            "tip": "O gustare rapidă și delicioasă lângă autogară."
+          },
+          {
+            "name": "Zithopsitopolio",
+            "tip": "Un loc unde vă puteți bucura de bere (Zithos) și mâncare la grătar (Psito)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki Stand",
+            "tip": "A quick and delicious bite to eat near the bus station."
+          },
+          {
+            "name": "Zithopsitopolio",
+            "tip": "A place where you can enjoy beer (Zithos) and grilled food (Psito)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof von Agios Georgios",
+            "tip": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Bänke am Eleftheria-Platz",
+            "tip": "Beobachten Sie am späten Nachmittag das Leben bei nachlassender Hektik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent György-templom kertje",
+            "tip": "Békés hely egy pillanatnyi elgondolkodásra."
+          },
+          {
+            "name": "Padok az Eleftheria téren",
+            "tip": "Figyelje az életet a késő délutáni órákban, amikor a nyüzsgés alábbhagy.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Agios Georgios",
+            "tip": "Un loc pașnic pentru un moment de reflecție."
+          },
+          {
+            "name": "Băncile din Piața Eleftheria",
+            "tip": "Priviți viața la sfârșitul după-amiezii, când agitația se diminuează.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchyard of Agios Georgios",
+            "tip": "A peaceful place for a moment of reflection."
+          },
+          {
+            "name": "Benches in Eleftheria Square",
+            "tip": "Watch life go by in the late afternoon as the hustle and bustle subsides.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Kaufen Sie kalte Getränke, Snacks und Bustickets."
+          },
+          {
+            "name": "Geschäfte in der Hauptstraße",
+            "tip": "Stöbern Sie nach Kleidung und Souvenirs, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk (Periptero)",
+            "tip": "Vásároljon hideg italokat, rágcsálnivalókat és buszjegyeket."
+          },
+          {
+            "name": "Boltok a főutcán",
+            "tip": "Böngésszen ruhák és ajándéktárgyak között, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc (Periptero)",
+            "tip": "Cumpărați băuturi reci, gustări și bilete de autobuz."
+          },
+          {
+            "name": "Magazine pe strada principală",
+            "tip": "Căutați haine și suveniruri în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk (Periptero)",
+            "tip": "Buy cold drinks, snacks, and bus tickets."
+          },
+          {
+            "name": "Shops on the main street",
+            "tip": "Browse for clothes and souvenirs while waiting for your bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld für Tickets bereit, falls Sie an Bord kaufen.",
+          "Planen Sie zusätzliche Zeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok sűrűsége változhat.",
+          "Készítsen aprópénzt a jegyekhez, ha a fedélzeten vásárol.",
+          "Tervezzen plusz időt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot varia.",
+          "Pregătiți mărunțiș pentru bilete dacă cumpărați la bord.",
+          "Planificați timp suplimentar pentru așteptarea în stații."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies may vary.",
+          "Have small change ready for tickets if buying on board.",
+          "Plan for extra time for waiting at the stops."
+        ]
+      }
+    }
+  }
+}

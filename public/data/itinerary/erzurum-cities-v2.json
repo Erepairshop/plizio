@@ -1,0 +1,1580 @@
+{
+  "city_id": "erzurum-cities-v2",
+  "anchor": {
+    "name": "Erzurum",
+    "coords": [
+      41.2689,
+      39.9043
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Yakutiye-Medrese",
+            "hu": "Jakutije Medresze",
+            "ro": "Medresa Yakutiye",
+            "en": "Yakutiye Madrasa"
+          },
+          "coords": [
+            41.2721,
+            39.9085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Steinschnitzereien am Portal.",
+            "hu": "Csodálja meg a portál részletgazdag kőfaragásait!",
+            "ro": "Admirați sculpturile detaliate în piatră de la portal.",
+            "en": "Admire the detailed stone carvings on the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Çifte-Minareli-Medrese",
+            "hu": "Kétminaretes Medresze",
+            "ro": "Medresa cu Minarete Gemene",
+            "en": "Twin Minaret Madrasa"
+          },
+          "coords": [
+            41.2735,
+            39.9051
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie (falls möglich) eines der Minarette für die Aussicht.",
+            "hu": "Ha lehetséges, másszon fel az egyik minaretbe a kilátásért!",
+            "ro": "Urcați într-unul dintre minarete pentru priveliște, dacă este posibil.",
+            "en": "Climb one of the minarets for the view, if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Grand Mosque (Ulu Cami)"
+          },
+          "coords": [
+            41.2741,
+            39.9044
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartige Holzdecke im Inneren.",
+            "hu": "Figyelje meg az egyedi, fából készült mennyezetet!",
+            "ro": "Observați tavanul unic din lemn din interior.",
+            "en": "Pay attention to the unique wooden ceiling inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Erzurum & Uhrturm",
+            "hu": "Erzurumi Vár és Óratorony",
+            "ro": "Cetatea Erzurum și Turnul cu Ceas",
+            "en": "Erzurum Castle & Clock Tower"
+          },
+          "coords": [
+            41.2755,
+            39.9038
+          ],
+          "category": "castles",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg zum Turm wird mit einer 360-Grad-Aussicht belohnt.",
+            "hu": "A toronyba való felmászás 360 fokos kilátással jutalmaz.",
+            "ro": "Urcarea în turn este recompensată cu o vedere panoramică de 360 de grade.",
+            "en": "The climb up the tower is rewarded with a 360-degree view."
+          }
+        },
+        {
+          "name": {
+            "de": "Üç Kümbetler (Drei Kuppelgräber)",
+            "hu": "Három Türbe (Üç Kümbetler)",
+            "ro": "Trei Mausolee (Üç Kümbetler)",
+            "en": "Three Tombs (Üç Kümbetler)"
+          },
+          "coords": [
+            41.2728,
+            39.9032
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie das Grab mit den Tiermotiven, es ist das älteste.",
+            "hu": "Keresse az állatmotívumokkal díszített síremléket, az a legrégebbi.",
+            "ro": "Căutați mormântul cu motive de animale; este cel mai vechi.",
+            "en": "Look for the tomb with the animal motifs; it's the oldest one."
+          }
+        },
+        {
+          "name": {
+            "de": "Taşhan (Rüstem Pascha Karawanserei)",
+            "hu": "Taşhan (Rüstem Paşa Karavánszeráj)",
+            "ro": "Taşhan (Caravanseraiul Rüstem Paşa)",
+            "en": "Taşhan (Rüstem Pasha Caravanserai)"
+          },
+          "coords": [
+            41.2705,
+            39.9069
+          ],
+          "category": "shopping",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Teepause und den Kauf von Oltu-Stein-Schmuck.",
+            "hu": "Tökéletes egy teára és Oltu-kő ékszerek vásárlására.",
+            "ro": "Perfect pentru o pauză de ceai și pentru a cumpăra bijuterii din piatră Oltu.",
+            "en": "Perfect for a tea break and shopping for Oltu stone jewelry."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus-Museum",
+            "hu": "Atatürk Emlékmúzeum",
+            "ro": "Casa Memorială Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            41.2675,
+            39.8972
+          ],
+          "category": "museums",
+          "arrive_at": "16:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die Bedeutung Erzurums für die Republik zu verstehen.",
+            "hu": "Kötelező látnivaló, hogy megértsük Erzurum szerepét a köztársaság történetében.",
+            "ro": "O vizită esențială pentru a înțelege importanța Erzurumului pentru Republică.",
+            "en": "A must-visit to understand Erzurum's importance to the Republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Aziziye-Bastion",
+            "hu": "Aziziye Bástya",
+            "ro": "Bastionul Aziziye",
+            "en": "Aziziye Bastion"
+          },
+          "coords": [
+            41.2911,
+            39.8955
+          ],
+          "category": "historical",
+          "arrive_at": "17:53",
+          "stay_min": 42,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort, um den Sonnenuntergang über der Stadt zu beobachten.",
+            "hu": "A legjobb hely a naplemente megcsodálására a város felett.",
+            "ro": "Cel mai bun loc pentru a privi apusul peste oraș.",
+            "en": "The best place to watch the sunset over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen des seldschukischen Erbes bei der Yakutiye- und der Çifte-Minareli-Medrese. Am Morgen erkunden Sie die Große Moschee und die alte Burg und genießen den Panoramablick. Der Nachmittag ist den geheimnisvollen Drei Kuppelgräbern und einer ausgiebigen Pause im historischen Taşhan gewidmet, ideal zum Einkaufen und für eine Tasse Tee. Den Abschluss bildet ein Spaziergang zum Atatürk-Haus, gefolgt von einem atemberaubenden Sonnenuntergang an der Aziziye-Bastion, die an die heldenhafte Verteidigung der Stadt erinnert.",
+        "hu": "A nap a szeldzsuk örökség szívében, a Jakutije és a Kétminaretes Medresze felfedezésével kezdődik. Délelőtt a Nagymecsetet és a régi várat járja be, gyönyörködve a panorámában. A délután a rejtélyes Három Türbéé és egy kiadós pihenőé a történelmi Taşhanban, ami ideális vásárlásra és teázásra. A napot az Atatürk Emlékmúzeumhoz tett séta zárja, majd egy lélegzetelállító naplemente az Aziziye bástyánál, amely a város hősies védelmére emlékeztet.",
+        "ro": "Ziua dvs. începe în inima moștenirii selgiucide la Medresa Yakutiye și Medresa cu Minarete Gemene. Dimineața explorați Marea Moschee și vechea cetate, bucurându-vă de priveliștile panoramice. După-amiaza este dedicată misterioaselor Trei Mausolee și unei pauze relaxante la istoricul Taşhan, ideal pentru cumpărături și un ceai. Turul se încheie cu o plimbare la Casa Atatürk, urmată de un apus de soare uluitor la Bastionul Aziziye, care comemorează apărarea eroică a orașului.",
+        "en": "Your day begins in the heart of Seljuk heritage at the Yakutiye and Twin Minaret Madrasas. In the morning, you'll explore the Grand Mosque and the old castle, enjoying panoramic views. The afternoon is for the mysterious Three Tombs and a relaxing break at the historic Taşhan, perfect for shopping and tea. The tour concludes with a walk to the Atatürk House, followed by a stunning sunset at the Aziziye Bastion, commemorating the city's heroic defense."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Probieren Sie dieses Lamm-Kebab, das horizontal gegrillt wird. Ein lokales Muss!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Ein süßes Gebäck aus zerkleinertem Teig mit Walnussfüllung, frittiert und in Sirup getaucht."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Bekannt für authentische lokale Gerichte in traditionellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Kóstolja meg ezt a vízszintesen grillezett báránykebabot. Helyi kötelező!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Darált tésztából készült, dióval töltött édesség, kisütve és szirupba mártva."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Híres az autentikus helyi ételeiről, hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Încercați acest kebab de miel gătit orizontal. O specialitate locală de neratat!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Un desert dulce făcut din tăiței mărunțiți umpluți cu nuci, prăjiți și însiropați."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Renumit pentru mâncărurile locale autentice într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Try this lamb kebab grilled horizontally. A local must-have!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "A sweet pastry made of shredded dough filled with walnuts, fried and dipped in syrup."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Known for authentic local dishes in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aziziye-Bastion bei Sonnenuntergang",
+            "tip": "Die weite Aussicht und die historische Stille machen dies zum perfekten Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof der Ulu Cami",
+            "tip": "Außerhalb der Gebetszeiten ein Ort friedlicher Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Palandöken",
+            "tip": "Nehmen Sie ein Taxi zum Stadtrand für einen kurzen Spaziergang am Fuße des Berges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aziziye bástya naplementekor",
+            "tip": "A tágas kilátás és a történelmi csend tökéletes hely a megnyugvásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Ulu Cami udvara",
+            "tip": "Imádkozási időkön kívül a békés elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Palandöken lábánál",
+            "tip": "Taxival menjen a város szélére egy rövid sétára a hegy lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul Aziziye la apus",
+            "tip": "Priveliștea vastă și liniștea istorică îl fac locul perfect pentru calm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Ulu Cami",
+            "tip": "În afara orelor de rugăciune, este un loc de contemplare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la poalele Palandöken",
+            "tip": "Luați un taxi la marginea orașului pentru o scurtă plimbare la poalele muntelui.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aziziye Bastion at sunset",
+            "tip": "The vast view and historical silence make it the perfect quiet spot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Ulu Cami",
+            "tip": "Outside of prayer times, it's a place for peaceful contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk at the base of Palandöken",
+            "tip": "Take a taxi to the city outskirts for a short walk at the foot of the mountain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taşhan",
+            "tip": "Der beste Ort für traditionelles Handwerk, insbesondere für Oltu-Stein (schwarzer Bernstein)."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokalen Honig, Käse und Gewürze auf den Märkten rund um die Cumhuriyet-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taşhan",
+            "tip": "A legjobb hely a hagyományos kézműves termékekhez, különösen az Oltu-kőhöz (fekete borostyán)."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi mézet, sajtot és fűszereket a Cumhuriyet utca körüli piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taşhan",
+            "tip": "Cel mai bun loc pentru artizanat tradițional, în special pentru piatra Oltu (un tip de chihlimbar negru)."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați miere locală, brânză și mirodenii din piețele din jurul străzii Cumhuriyet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taşhan",
+            "tip": "The best place for traditional handicrafts, especially Oltu stone (a type of black amber)."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local honey, cheese, and spices in the markets around Cumhuriyet Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe und Teestuben dabei.",
+          "Frauen sollten ein Kopftuch für den Besuch von Moscheen mitführen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Legyen Önnél készpénz a kisebb vásárlásokhoz és a teázókhoz.",
+          "A nők vigyenek magukkal kendőt a mecsetek látogatásához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Aveți la dvs. numerar pentru cumpărături mici și ceainării.",
+          "Femeile ar trebui să aibă o eșarfă pentru a vizita moscheile."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Have some cash on hand for small purchases and tea houses.",
+          "Women should carry a headscarf for visiting mosques."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Yakutiye-Medrese",
+            "hu": "Jakutije Medresze",
+            "ro": "Medresa Yakutiye",
+            "en": "Yakutiye Madrasa"
+          },
+          "coords": [
+            41.2721,
+            39.9085
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Securely lock your bike before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Çifte-Minareli-Medrese",
+            "hu": "Kétminaretes Medresze",
+            "ro": "Medresa cu Minarete Gemene",
+            "en": "Twin Minaret Madrasa"
+          },
+          "coords": [
+            41.2735,
+            39.9051
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Fotostopp. Parken Sie Ihr Fahrrad gegenüber für die beste Aufnahme.",
+            "hu": "Nagyszerű fotómegálló. Parkolja le a biciklit szemben a legjobb képért.",
+            "ro": "O oprire excelentă pentru fotografii. Parcați bicicleta vizavi pentru cea mai bună perspectivă.",
+            "en": "A great photo stop. Park your bike opposite for the best shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagy Mecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Grand Mosque (Ulu Cami)"
+          },
+          "coords": [
+            41.2741,
+            39.9044
+          ],
+          "category": "churches",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe des Eingangs ab und genießen Sie die Ruhe.",
+            "hu": "Hagyja a kerékpárt a bejárat közelében, és élvezze a csendet.",
+            "ro": "Lăsați bicicleta lângă intrare și bucurați-vă de liniște.",
+            "en": "Leave your bike near the entrance and enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Erzurum",
+            "hu": "Erzurumi Vár",
+            "ro": "Cetatea Erzurum",
+            "en": "Erzurum Castle"
+          },
+          "coords": [
+            41.2755,
+            39.9038
+          ],
+          "category": "castles",
+          "arrive_at": "11:56",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Auffahrt ist kurz, aber steil. Es lohnt sich für die Aussicht!",
+            "hu": "A felhajtó rövid, de meredek. Megéri a kilátásért!",
+            "ro": "Urcarea este scurtă, dar abruptă. Merită pentru priveliște!",
+            "en": "The ride up is short but steep. It's worth it for the view!"
+          }
+        },
+        {
+          "name": {
+            "de": "Üç Kümbetler",
+            "hu": "Három Türbe",
+            "ro": "Trei Mausolee",
+            "en": "Three Tombs"
+          },
+          "coords": [
+            41.2728,
+            39.9032
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 35,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schnelle und einfache Fahrt vom Schloss aus. Ein ruhiger Ort.",
+            "hu": "Gyors és könnyű út a vártól. Csendes hely.",
+            "ro": "O plimbare rapidă și ușoară de la castel. Un loc liniștit.",
+            "en": "A quick and easy ride from the castle. A quiet spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Taşhan",
+            "hu": "Taşhan",
+            "ro": "Taşhan",
+            "en": "Taşhan"
+          },
+          "coords": [
+            41.2705,
+            39.9069
+          ],
+          "category": "shopping",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Innenhof ist ein sicherer Ort, um Ihr Fahrrad abzustellen, während Sie zu Mittag essen.",
+            "hu": "Az udvar biztonságos hely a kerékpár leparkolására ebéd közben.",
+            "ro": "Curtea interioară este un loc sigur pentru a vă lăsa bicicleta în timp ce luați prânzul.",
+            "en": "The inner courtyard is a safe place to park your bike while you have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus-Museum",
+            "hu": "Atatürk Emlékmúzeum",
+            "ro": "Casa Memorială Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            41.2675,
+            39.8972
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine flache Fahrt vom Stadtzentrum, die eine schöne Abwechslung bietet.",
+            "hu": "Könnyed tekerés a városközpontból, kellemes kikapcsolódás.",
+            "ro": "O plimbare plată din centrul orașului, oferind o schimbare plăcută de peisaj.",
+            "en": "A flat ride from the city center, offering a nice change of pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Aziziye-Bastion",
+            "hu": "Aziziye Bástya",
+            "ro": "Bastionul Aziziye",
+            "en": "Aziziye Bastion"
+          },
+          "coords": [
+            41.2911,
+            39.8955
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die längste Fahrt des Tages, planen Sie entsprechend. Belohnung ist die Aussicht.",
+            "hu": "A nap leghosszabb útja, tervezzen ennek megfelelően. A jutalom a kilátás.",
+            "ro": "Cea mai lungă cursă a zilei, planificați-vă în consecință. Recompensa este priveliștea.",
+            "en": "The longest ride of the day, plan accordingly. The reward is the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Tour durch Erzurum! Der Vormittag führt Sie schnell zwischen den seldschukischen Meisterwerken wie der Yakutiye- und der Çifte-Minareli-Medrese hin und her. Erklimmen Sie mit dem Rad den Burghügel für eine fantastische Aussicht. Nach dem Mittagessen im historischen Taşhan radeln Sie zum Atatürk-Haus. Die letzte Etappe ist eine längere, aber lohnende Fahrt zur Aziziye-Bastion, um den Tag mit einem weiten Blick über die Ebene von Erzurum abzuschließen.",
+        "hu": "Pattanjon nyeregbe egy erzurumi túrára! A délelőtt gyorsan elrepül a szeldzsuk mesterművek, a Jakutije és a Kétminaretes Medresze között. Tekerjen fel a Várhegyre a fantasztikus kilátásért! Ebéd után a történelmi Taşhanban, tekerjen el az Atatürk Emlékmúzeumhoz. Az utolsó szakasz egy hosszabb, de megéri az erőfeszítést: az Aziziye bástyához vezet, hogy a napot az erzurumi síkságra nyíló pazar kilátással zárja.",
+        "ro": "Urcați în șa pentru un tur al Erzurumului! Dimineața vă poartă rapid între capodoperele selgiucide, Medresa Yakutiye și Medresa cu Minarete Gemene. Urcați cu bicicleta pe dealul cetății pentru o priveliște fantastică. După prânzul la istoricul Taşhan, pedalați spre Casa Atatürk. Ultima etapă este o cursă mai lungă, dar plină de satisfacții, spre Bastionul Aziziye, pentru a încheia ziua cu o priveliște panoramică asupra câmpiei Erzurum.",
+        "en": "Hop on your bike for a tour of Erzurum! The morning takes you quickly between Seljuk masterpieces like the Yakutiye and Twin Minaret Madrasas. Cycle up the castle hill for a fantastic view. After lunch at the historic Taşhan, you'll pedal to the Atatürk House. The final leg is a longer but rewarding ride to the Aziziye Bastion to end the day with a sweeping view over the Erzurum plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Probieren Sie dieses Lamm-Kebab, das horizontal gegrillt wird. Ein lokales Muss!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Ein süßes Gebäck aus zerkleinertem Teig mit Walnussfüllung, frittiert und in Sirup getaucht."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Bekannt für authentische lokale Gerichte in traditionellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Kóstolja meg ezt a vízszintesen grillezett báránykebabot. Helyi kötelező!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Darált tésztából készült, dióval töltött édesség, kisütve és szirupba mártva."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Híres az autentikus helyi ételeiről, hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Încercați acest kebab de miel gătit orizontal. O specialitate locală de neratat!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Un desert dulce făcut din tăiței mărunțiți umpluți cu nuci, prăjiți și însiropați."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Renumit pentru mâncărurile locale autentice într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Try this lamb kebab grilled horizontally. A local must-have!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "A sweet pastry made of shredded dough filled with walnuts, fried and dipped in syrup."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Known for authentic local dishes in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aziziye-Bastion bei Sonnenuntergang",
+            "tip": "Die weite Aussicht und die historische Stille machen dies zum perfekten Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof der Ulu Cami",
+            "tip": "Außerhalb der Gebetszeiten ein Ort friedlicher Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Palandöken",
+            "tip": "Nehmen Sie ein Taxi zum Stadtrand für einen kurzen Spaziergang am Fuße des Berges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aziziye bástya naplementekor",
+            "tip": "A tágas kilátás és a történelmi csend tökéletes hely a megnyugvásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Ulu Cami udvara",
+            "tip": "Imádkozási időkön kívül a békés elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Palandöken lábánál",
+            "tip": "Taxival menjen a város szélére egy rövid sétára a hegy lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul Aziziye la apus",
+            "tip": "Priveliștea vastă și liniștea istorică îl fac locul perfect pentru calm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Ulu Cami",
+            "tip": "În afara orelor de rugăciune, este un loc de contemplare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la poalele Palandöken",
+            "tip": "Luați un taxi la marginea orașului pentru o scurtă plimbare la poalele muntelui.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aziziye Bastion at sunset",
+            "tip": "The vast view and historical silence make it the perfect quiet spot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Ulu Cami",
+            "tip": "Outside of prayer times, it's a place for peaceful contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk at the base of Palandöken",
+            "tip": "Take a taxi to the city outskirts for a short walk at the foot of the mountain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taşhan",
+            "tip": "Der beste Ort für traditionelles Handwerk, insbesondere für Oltu-Stein (schwarzer Bernstein)."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokalen Honig, Käse und Gewürze auf den Märkten rund um die Cumhuriyet-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taşhan",
+            "tip": "A legjobb hely a hagyományos kézműves termékekhez, különösen az Oltu-kőhöz (fekete borostyán)."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi mézet, sajtot és fűszereket a Cumhuriyet utca körüli piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taşhan",
+            "tip": "Cel mai bun loc pentru artizanat tradițional, în special pentru piatra Oltu (un tip de chihlimbar negru)."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați miere locală, brânză și mirodenii din piețele din jurul străzii Cumhuriyet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taşhan",
+            "tip": "The best place for traditional handicrafts, especially Oltu stone (a type of black amber)."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local honey, cheese, and spices in the markets around Cumhuriyet Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck am Morgen.",
+          "Einige Straßen können verkehrsreich sein, fahren Sie defensiv.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Eine leichte Jacke ist auch im Sommer für die Abende zu empfehlen."
+        ],
+        "hu": [
+          "Ellenőrizze a keréknyomást reggel.",
+          "Néhány utca forgalmas lehet, vezessen védekezően.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához.",
+          "Nyáron is ajánlott egy könnyű dzseki az estékre."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope dimineața.",
+          "Unele străzi pot fi aglomerate, conduceți defensiv.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta.",
+          "O jachetă subțire este recomandată chiar și vara, pentru serile răcoroase."
+        ],
+        "en": [
+          "Check your tire pressure in the morning.",
+          "Some streets can be busy, ride defensively.",
+          "Bring a lock to secure your bike.",
+          "A light jacket is recommended even in summer for the evenings."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aziziye-Bastion",
+            "hu": "Aziziye Bástya",
+            "ro": "Bastionul Aziziye",
+            "en": "Aziziye Bastion"
+          },
+          "coords": [
+            41.2911,
+            39.8955
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für eine tolle Morgenansicht und um den Stadtverkehr zu meiden.",
+            "hu": "Kezdje itt a napot a nagyszerű reggeli kilátásért és a városi forgalom elkerüléséért.",
+            "ro": "Începeți de aici pentru o priveliște matinală grozavă și pentru a evita traficul din oraș.",
+            "en": "Start here for a great morning view and to avoid city traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus-Museum",
+            "hu": "Atatürk Emlékmúzeum",
+            "ro": "Casa Memorială Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            41.2675,
+            39.8972
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie diesen wichtigen historischen Ort.",
+            "hu": "Parkoljon a közelben, és fedezze fel ezt a fontos történelmi helyet.",
+            "ro": "Parcați în apropiere și explorați acest important sit istoric.",
+            "en": "Park nearby and explore this important historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul Istoric",
+            "en": "Cluster: Historic Center"
+          },
+          "coords": [
+            41.274,
+            39.904
+          ],
+          "category": "castles",
+          "arrive_at": "11:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für die nächsten Stunden.",
+            "hu": "Parkoljon le itt a következő pár órára.",
+            "ro": "Parcați aici pentru următoarele ore.",
+            "en": "Park here for the next few hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg & Üç Kümbetler",
+            "hu": "Vár és Három Türbe",
+            "ro": "Cetatea și Trei Mausolee",
+            "en": "Castle & Three Tombs"
+          },
+          "coords": [
+            41.275,
+            39.9035
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden liegen nebeneinander, perfekt für einen kurzen Spaziergang.",
+            "hu": "Ez a kettő egymás mellett van, tökéletes egy rövid sétához.",
+            "ro": "Aceste două sunt una lângă alta, perfecte pentru o scurtă plimbare.",
+            "en": "These two are next to each other, perfect for a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee & Taşhan (Mittagessen)",
+            "hu": "Nagy Mecset és Taşhan (Ebéd)",
+            "ro": "Marea Moschee și Taşhan (Prânz)",
+            "en": "Grand Mosque & Taşhan (Lunch)"
+          },
+          "coords": [
+            41.2725,
+            39.9055
+          ],
+          "category": "shopping",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Cağ Kebabı im Taşhan nach dem Besuch der Moschee.",
+            "hu": "Élvezze a Cağ Kebabot a Taşhanban a mecset látogatása után.",
+            "ro": "Savurați Cağ Kebabı la Taşhan după ce vizitați moscheea.",
+            "en": "Enjoy Cağ Kebabı at Taşhan after visiting the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Çifte-Minareli-Medrese",
+            "hu": "Kétminaretes Medresze",
+            "ro": "Medresa cu Minarete Gemene",
+            "en": "Twin Minaret Madrasa"
+          },
+          "coords": [
+            41.2735,
+            39.9051
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das prächtige Portal ist ein Muss auf Ihrem Rundgang.",
+            "hu": "A csodálatos portál kötelező látnivaló a sétája során.",
+            "ro": "Portalul magnific este o vizită obligatorie în turul dvs. pietonal.",
+            "en": "The magnificent portal is a must-see on your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Yakutiye-Medrese",
+            "hu": "Jakutije Medresze",
+            "ro": "Medresa Yakutiye",
+            "en": "Yakutiye Madrasa"
+          },
+          "coords": [
+            41.2721,
+            39.9085
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.15,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag mit dem Museum für türkische und islamische Kunst ab.",
+            "hu": "Zárja a napot a Török és Iszlám Művészetek Múzeumával.",
+            "ro": "Încheiați-vă ziua la Muzeul de Artă Turcă și Islamică.",
+            "en": "End your day at the Museum of Turkish and Islamic Arts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Erzurum effizient. Beginnen Sie den Tag an der Aziziye-Bastion für eine ruhige Aussicht, bevor Sie zum Atatürk-Haus fahren. Parken Sie dann im Zentrum und erkunden Sie zu Fuß den Hauptcluster: die Burg, die Drei Kuppelgräber und die Große Moschee. Genießen Sie ein Mittagessen im historischen Taşhan. Am Nachmittag spazieren Sie zu den beeindruckenden Medresen Çifte Minareli und Yakutiye, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Autóval hatékonyan fedezheti fel Erzurumot. Kezdje a napot az Aziziye bástyánál a csendes kilátásért, mielőtt az Atatürk-házhoz hajt. Ezután parkoljon le a központban, és fedezze fel gyalog a fő látnivalókat: a várat, a Három Türbét és a Nagymecsetet. Ebédeljen a történelmi Taşhanban. Délután sétáljon el a lenyűgöző Çifte Minareli és Jakutije medreszékhez, mielőtt visszatérne az autójához.",
+        "ro": "Cu mașina, explorați Erzurum eficient. Începeți ziua la Bastionul Aziziye pentru o priveliște liniștită, apoi conduceți la Casa Atatürk. Apoi, parcați în centru și explorați pe jos grupul principal: Cetatea, Cele Trei Mausolee și Marea Moschee. Savurați prânzul la istoricul Taşhan. După-amiaza, plimbați-vă la impresionantele medrese Çifte Minareli și Yakutiye înainte de a vă întoarce la mașină.",
+        "en": "With a car, you can explore Erzurum efficiently. Start your day at the Aziziye Bastion for a quiet view before driving to the Atatürk House. Then, park in the center and explore the main cluster on foot: the Castle, the Three Tombs, and the Grand Mosque. Enjoy lunch at the historic Taşhan. In the afternoon, stroll to the impressive Çifte Minareli and Yakutiye madrasas before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Probieren Sie dieses Lamm-Kebab, das horizontal gegrillt wird. Ein lokales Muss!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Ein süßes Gebäck aus zerkleinertem Teig mit Walnussfüllung, frittiert und in Sirup getaucht."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Bekannt für authentische lokale Gerichte in traditionellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Kóstolja meg ezt a vízszintesen grillezett báránykebabot. Helyi kötelező!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Darált tésztából készült, dióval töltött édesség, kisütve és szirupba mártva."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Híres az autentikus helyi ételeiről, hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Încercați acest kebab de miel gătit orizontal. O specialitate locală de neratat!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Un desert dulce făcut din tăiței mărunțiți umpluți cu nuci, prăjiți și însiropați."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Renumit pentru mâncărurile locale autentice într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Try this lamb kebab grilled horizontally. A local must-have!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "A sweet pastry made of shredded dough filled with walnuts, fried and dipped in syrup."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Known for authentic local dishes in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aziziye-Bastion bei Sonnenuntergang",
+            "tip": "Die weite Aussicht und die historische Stille machen dies zum perfekten Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof der Ulu Cami",
+            "tip": "Außerhalb der Gebetszeiten ein Ort friedlicher Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Palandöken",
+            "tip": "Nehmen Sie ein Taxi zum Stadtrand für einen kurzen Spaziergang am Fuße des Berges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aziziye bástya naplementekor",
+            "tip": "A tágas kilátás és a történelmi csend tökéletes hely a megnyugvásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Ulu Cami udvara",
+            "tip": "Imádkozási időkön kívül a békés elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Palandöken lábánál",
+            "tip": "Taxival menjen a város szélére egy rövid sétára a hegy lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul Aziziye la apus",
+            "tip": "Priveliștea vastă și liniștea istorică îl fac locul perfect pentru calm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Ulu Cami",
+            "tip": "În afara orelor de rugăciune, este un loc de contemplare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la poalele Palandöken",
+            "tip": "Luați un taxi la marginea orașului pentru o scurtă plimbare la poalele muntelui.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aziziye Bastion at sunset",
+            "tip": "The vast view and historical silence make it the perfect quiet spot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Ulu Cami",
+            "tip": "Outside of prayer times, it's a place for peaceful contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk at the base of Palandöken",
+            "tip": "Take a taxi to the city outskirts for a short walk at the foot of the mountain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taşhan",
+            "tip": "Der beste Ort für traditionelles Handwerk, insbesondere für Oltu-Stein (schwarzer Bernstein)."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokalen Honig, Käse und Gewürze auf den Märkten rund um die Cumhuriyet-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taşhan",
+            "tip": "A legjobb hely a hagyományos kézműves termékekhez, különösen az Oltu-kőhöz (fekete borostyán)."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi mézet, sajtot és fűszereket a Cumhuriyet utca körüli piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taşhan",
+            "tip": "Cel mai bun loc pentru artizanat tradițional, în special pentru piatra Oltu (un tip de chihlimbar negru)."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați miere locală, brânză și mirodenii din piețele din jurul străzii Cumhuriyet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taşhan",
+            "tip": "The best place for traditional handicrafts, especially Oltu stone (a type of black amber)."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local honey, cheese, and spices in the markets around Cumhuriyet Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in ausgewiesenen Bereichen, um Strafzettel zu vermeiden.",
+          "Der Verkehr kann zur Hauptverkehrszeit stark sein, planen Sie entsprechend.",
+          "Ein GPS ist hilfreich, um sich in den kleineren Straßen zurechtzufinden.",
+          "Achten Sie auf Fußgänger in den historischen Gassen."
+        ],
+        "hu": [
+          "Parkoljon a kijelölt helyeken a büntetések elkerülése érdekében.",
+          "A forgalom csúcsidőben erős lehet, tervezzen ennek megfelelően.",
+          "A GPS hasznos a kisebb utcákban való navigáláshoz.",
+          "Vigyázzon a gyalogosokra a történelmi sikátorokban."
+        ],
+        "ro": [
+          "Parcați în zonele desemnate pentru a evita amenzile.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați-vă în consecință.",
+          "Un GPS este util pentru a naviga pe străzile mai mici.",
+          "Fiți atenți la pietoni pe aleile istorice."
+        ],
+        "en": [
+          "Park in designated areas to avoid fines.",
+          "Traffic can be heavy during peak hours, plan accordingly.",
+          "A GPS is helpful for navigating the smaller streets.",
+          "Watch out for pedestrians in the historic alleys."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul Istoric",
+            "en": "Cluster: Historic Center"
+          },
+          "coords": [
+            41.2721,
+            39.9085
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz 'Meydan'.",
+            "hu": "Menjen busszal a központi 'Meydan' térre.",
+            "ro": "Luați un autobuz până în piața centrală 'Meydan'.",
+            "en": "Take a bus to the central 'Meydan' square."
+          }
+        },
+        {
+          "name": {
+            "de": "Yakutiye & Çifte-Minareli Medrese",
+            "hu": "Jakutije és Kétminaretes Medresze",
+            "ro": "Medresa Yakutiye și cu Minarete Gemene",
+            "en": "Yakutiye & Twin Minaret Madrasas"
+          },
+          "coords": [
+            41.2728,
+            39.9068
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden prächtigen Bauten liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két csodálatos épület csak egy rövid sétára van egymástól.",
+            "ro": "Aceste două structuri magnifice sunt la o scurtă plimbare una de cealaltă.",
+            "en": "These two magnificent structures are just a short walk apart."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee & Taşhan (Mittagessen)",
+            "hu": "Nagy Mecset és Taşhan (Ebéd)",
+            "ro": "Marea Moschee și Taşhan (Prânz)",
+            "en": "Grand Mosque & Taşhan (Lunch)"
+          },
+          "coords": [
+            41.2725,
+            39.9055
+          ],
+          "category": "shopping",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach der Moschee ist der Taşhan der perfekte Ort für ein authentisches Mittagessen.",
+            "hu": "A mecset után a Taşhan a tökéletes hely egy autentikus ebédhez.",
+            "ro": "După moschee, Taşhan este locul perfect pentru un prânz autentic.",
+            "en": "After the mosque, Taşhan is the perfect spot for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Burgviertel",
+            "hu": "Klaszter: Várnegyed",
+            "ro": "Cluster: Cartierul Cetății",
+            "en": "Cluster: Castle Quarter"
+          },
+          "coords": [
+            41.2755,
+            39.9038
+          ],
+          "category": "castles",
+          "arrive_at": "13:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein kurzer Bus oder Dolmuş bringt Sie zum Fuß des Burghügels.",
+            "hu": "Egy rövid busz- vagy dolmuş-út elviszi a Várhegy lábához.",
+            "ro": "Un autobuz sau dolmuș scurt vă va duce la poalele dealului cetății.",
+            "en": "A short bus or dolmuş ride will take you to the base of the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg & Üç Kümbetler",
+            "hu": "Vár és Három Türbe",
+            "ro": "Cetatea și Trei Mausolee",
+            "en": "Castle & Three Tombs"
+          },
+          "coords": [
+            41.2742,
+            39.9034
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Burg und besuchen Sie anschließend die nahegelegenen Gräber.",
+            "hu": "Mássza meg a várat, majd látogassa meg a közeli síremlékeket.",
+            "ro": "Urcați la cetate și apoi vizitați mormintele din apropiere.",
+            "en": "Climb the castle and then visit the nearby tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk-Haus-Museum",
+            "hu": "Atatürk Emlékmúzeum",
+            "ro": "Casa Memorială Atatürk",
+            "en": "Atatürk House Museum"
+          },
+          "coords": [
+            41.2675,
+            39.8972
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten in der Nähe dieses wichtigen Museums.",
+            "hu": "Sok buszjárat megáll e fontos múzeum közelében.",
+            "ro": "Multe linii de autobuz opresc lângă acest muzeu important.",
+            "en": "Many bus lines stop near this important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aziziye-Bastion",
+            "hu": "Aziziye Bástya",
+            "ro": "Bastionul Aziziye",
+            "en": "Aziziye Bastion"
+          },
+          "coords": [
+            41.2911,
+            39.8955
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag hier mit dem Bus für eine unvergessliche Aussicht.",
+            "hu": "Zárja itt a napot busszal egy felejthetetlen kilátásért.",
+            "ro": "Încheiați ziua aici luând autobuzul pentru o priveliște de neuitat.",
+            "en": "End your day by taking a bus here for an unforgettable view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Erzurum wie ein Einheimischer. Fahren Sie ins Zentrum und entdecken Sie den ersten Cluster zu Fuß: die Medresen und den Taşhan für das Mittagessen. Ein kurzer Bus bringt Sie zum zweiten Cluster, dem Burgviertel. Erkunden Sie die Burg und die Drei Kuppelgräber. Weitere Busfahrten führen Sie am Nachmittag zum Atatürk-Haus und schließlich zur Aziziye-Bastion, um den Panoramablick zu genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Tömegközlekedéssel úgy fedezheti fel Erzurumot, mint egy helyi. Utazzon a központba, és fedezze fel az első látnivalócsoportot gyalog: a medreszéket és a Taşhant ebédre. Egy rövid buszozás elviszi a második csoporthoz, a Várnegyedhez. Fedezze fel a várat és a Három Türbét. Délután további buszokkal juthat el az Atatürk-házhoz és végül az Aziziye bástyához, hogy élvezze a panorámát, mielőtt visszatérne a városba.",
+        "ro": "Folosind transportul public, explorați Erzurum ca un localnic. Călătoriți în centru și descoperiți primul grup pe jos: medresele și Taşhan pentru prânz. O scurtă călătorie cu autobuzul vă duce la al doilea grup, cartierul cetății. Explorați cetatea și Cele Trei Mausolee. Alte călătorii cu autobuzul vă vor duce după-amiaza la Casa Atatürk și, în final, la Bastionul Aziziye pentru a admira priveliștea panoramică înainte de a vă întoarce în oraș.",
+        "en": "Using public transport, you'll explore Erzurum like a local. Travel to the center and discover the first cluster on foot: the madrasas and Taşhan for lunch. A short bus ride takes you to the second cluster, the Castle quarter. Explore the castle and the Three Tombs. Further bus rides in the afternoon will take you to the Atatürk House and finally to the Aziziye Bastion to enjoy the panoramic view before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Probieren Sie dieses Lamm-Kebab, das horizontal gegrillt wird. Ein lokales Muss!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Ein süßes Gebäck aus zerkleinertem Teig mit Walnussfüllung, frittiert und in Sirup getaucht."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Bekannt für authentische lokale Gerichte in traditionellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Kóstolja meg ezt a vízszintesen grillezett báránykebabot. Helyi kötelező!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Darált tésztából készült, dióval töltött édesség, kisütve és szirupba mártva."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Híres az autentikus helyi ételeiről, hagyományos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Încercați acest kebab de miel gătit orizontal. O specialitate locală de neratat!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "Un desert dulce făcut din tăiței mărunțiți umpluți cu nuci, prăjiți și însiropați."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Renumit pentru mâncărurile locale autentice într-un cadru tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cağ Kebabı",
+            "tip": "Try this lamb kebab grilled horizontally. A local must-have!"
+          },
+          {
+            "name": "Kadayıf Dolması",
+            "tip": "A sweet pastry made of shredded dough filled with walnuts, fried and dipped in syrup."
+          },
+          {
+            "name": "Güzelyurt Restoran",
+            "tip": "Known for authentic local dishes in a traditional setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aziziye-Bastion bei Sonnenuntergang",
+            "tip": "Die weite Aussicht und die historische Stille machen dies zum perfekten Ort der Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof der Ulu Cami",
+            "tip": "Außerhalb der Gebetszeiten ein Ort friedlicher Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Palandöken",
+            "tip": "Nehmen Sie ein Taxi zum Stadtrand für einen kurzen Spaziergang am Fuße des Berges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aziziye bástya naplementekor",
+            "tip": "A tágas kilátás és a történelmi csend tökéletes hely a megnyugvásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Ulu Cami udvara",
+            "tip": "Imádkozási időkön kívül a békés elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Palandöken lábánál",
+            "tip": "Taxival menjen a város szélére egy rövid sétára a hegy lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul Aziziye la apus",
+            "tip": "Priveliștea vastă și liniștea istorică îl fac locul perfect pentru calm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Ulu Cami",
+            "tip": "În afara orelor de rugăciune, este un loc de contemplare pașnică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare la poalele Palandöken",
+            "tip": "Luați un taxi la marginea orașului pentru o scurtă plimbare la poalele muntelui.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aziziye Bastion at sunset",
+            "tip": "The vast view and historical silence make it the perfect quiet spot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Ulu Cami",
+            "tip": "Outside of prayer times, it's a place for peaceful contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk at the base of Palandöken",
+            "tip": "Take a taxi to the city outskirts for a short walk at the foot of the mountain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Taşhan",
+            "tip": "Der beste Ort für traditionelles Handwerk, insbesondere für Oltu-Stein (schwarzer Bernstein)."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie lokalen Honig, Käse und Gewürze auf den Märkten rund um die Cumhuriyet-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taşhan",
+            "tip": "A legjobb hely a hagyományos kézműves termékekhez, különösen az Oltu-kőhöz (fekete borostyán)."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon helyi mézet, sajtot és fűszereket a Cumhuriyet utca körüli piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taşhan",
+            "tip": "Cel mai bun loc pentru artizanat tradițional, în special pentru piatra Oltu (un tip de chihlimbar negru)."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați miere locală, brânză și mirodenii din piețele din jurul străzii Cumhuriyet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taşhan",
+            "tip": "The best place for traditional handicrafts, especially Oltu stone (a type of black amber)."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Shop for local honey, cheese, and spices in the markets around Cumhuriyet Street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Erzurum Kart' für einfaches Ein- und Aussteigen.",
+          "Die Busse können voll sein, halten Sie Ihre Wertsachen im Auge.",
+          "Dolmuş-Minibusse fahren feste Routen, haben aber keine festen Haltestellen - einfach winken.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, sie sind meist sehr hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon 'Erzurum Kart'-ot a könnyű utazáshoz.",
+          "A buszok zsúfoltak lehetnek, figyeljen az értékeire.",
+          "A dolmuş minibuszok kötött útvonalon járnak, de nincsenek fix megállóik - csak intsen nekik.",
+          "Kérdezze a helyieket a megfelelő buszjáratról, általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un 'Erzurum Kart' pentru a urca și coborî ușor.",
+          "Autobuzele pot fi aglomerate, fiți cu ochii pe bunurile de valoare.",
+          "Microbuzele Dolmuş au rute fixe, dar nu și stații fixe - doar faceți-le cu mâna.",
+          "Întrebați localnicii despre linia de autobuz corectă; de obicei sunt foarte amabili."
+        ],
+        "en": [
+          "Buy an 'Erzurum Kart' for easy tapping on and off.",
+          "Buses can be crowded, keep an eye on your valuables.",
+          "Dolmuş minibuses follow fixed routes but don't have fixed stops - just wave them down.",
+          "Ask locals for the right bus line; they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1373 @@
+{
+  "city_id": "belgium-sint-niklaas-cities-v2",
+  "anchor": {
+    "name": "Sint-Niklaas",
+    "coords": [
+      4.1394,
+      51.1647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt",
+            "hu": "Fő tér",
+            "ro": "Piața Mare",
+            "en": "Grote Markt (Main Square)"
+          },
+          "coords": [
+            4.1401,
+            51.1645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Gildehäuser und genießen Sie einen Kaffee in einem der vielen Cafés.",
+            "hu": "Csodálja meg a történelmi céhházakat és igyon egy kávét a számos kávézó egyikében.",
+            "ro": "Admirați casele istorice ale breslelor și savurați o cafea la una dintre numeroasele cafenele.",
+            "en": "Admire the historic guild houses and enjoy a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Sint-Niklaas",
+            "hu": "Sint-Niklaas városháza",
+            "ro": "Primăria din Sint-Niklaas",
+            "en": "Sint-Niklaas Town Hall"
+          },
+          "coords": [
+            4.1415,
+            51.1655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie den imposanten Glockenturm, der zum UNESCO-Weltkulturerbe gehört.",
+            "hu": "Figyelje meg a lenyűgöző harangtornyot, amely az UNESCO Világörökség része.",
+            "ro": "Observați impresionantul turn cu clopot, un sit al Patrimoniului Mondial UNESCO.",
+            "en": "Note the imposing belfry, a UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            4.1422,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem Schatz der Kirche, einer Reliquie des Heiligen Nikolaus.",
+            "hu": "Keresse meg a templom kincsét, Szent Miklós egy ereklyéjét.",
+            "ro": "Căutați comoara bisericii, o relicvă a Sfântului Nicolae.",
+            "en": "Look for the church's treasure, a relic of Saint Nicholas."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerardus Mercator Museum",
+            "hu": "Gerardus Mercator Múzeum",
+            "ro": "Muzeul Gerardus Mercator",
+            "en": "Gerardus Mercator Museum"
+          },
+          "coords": [
+            4.1378,
+            51.1681
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen machen die Geschichte der Kartographie für alle Altersgruppen lebendig.",
+            "hu": "Az interaktív kiállítások minden korosztály számára életre keltik a térképészet történetét.",
+            "ro": "Expozițiile interactive aduc la viață istoria cartografiei pentru toate vârstele.",
+            "en": "Interactive exhibits bring the history of cartography to life for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Doamna Noastră",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.1319,
+            51.1664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Kuppel und die byzantinisch inspirierten Mosaike.",
+            "hu": "Csodálja meg a lenyűgöző kupolát és a bizánci ihletésű mozaikokat.",
+            "ro": "Admirați cupola impresionantă și mozaicurile de inspirație bizantină.",
+            "en": "Admire the impressive dome and the Byzantine-inspired mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Walburg",
+            "hu": "Walburg kastély",
+            "ro": "Castelul Walburg",
+            "en": "Walburg Castle"
+          },
+          "coords": [
+            4.1485,
+            51.1602
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Obwohl es nicht öffentlich zugänglich ist, ist das Schloss von außen ein großartiges Fotomotiv.",
+            "hu": "Bár nem látogatható, a kastély kívülről remek fotótéma.",
+            "ro": "Deși nu este deschis publicului, castelul este un subiect excelent pentru fotografii din exterior.",
+            "en": "Although not open to the public, the castle is a great photo subject from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Romain De Vidts Park",
+            "hu": "Romain De Vidts Park",
+            "ro": "Parcul Romain De Vidts",
+            "en": "Romain De Vidts Park"
+          },
+          "coords": [
+            4.1472,
+            51.1595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag, direkt neben dem Schloss.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához, közvetlenül a kastély mellett.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază, chiar lângă castel.",
+            "en": "A perfect spot for a relaxing afternoon walk, right next to the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem weitläufigen Grote Markt, einem der größten in Belgien. Nach der Erkundung der historischen Gebäude und Kirchen im Stadtzentrum tauchen Sie im Mercator-Museum in die Welt der Kartographie ein. Am Nachmittag spazieren Sie durch den ruhigen Romain De Vidts Park, der sich neben dem malerischen Schloss Walburg befindet, und beenden den Tag mit einem Gefühl der Gelassenheit und historischen Entdeckung.",
+        "hu": "Kezdje a napot Belgium egyik legnagyobb terén, a tágas Grote Markton. A városközpont történelmi épületeinek és templomainak felfedezése után merüljön el a térképészet világában a Mercator Múzeumban. Délután sétáljon a csendes Romain De Vidts Parkban, a festői Walburg kastély mellett, és fejezze be a napot a nyugalom és a történelmi felfedezés érzésével.",
+        "ro": "Începeți ziua în spațiosul Grote Markt, una dintre cele mai mari piețe din Belgia. După ce explorați clădirile istorice și bisericile din centrul orașului, pătrundeți în lumea cartografiei la Muzeul Mercator. După-amiaza, plimbați-vă prin liniștitul Parc Romain De Vidts, adiacent pitorescului Castel Walburg, încheind ziua cu un sentiment de seninătate și descoperire istorică.",
+        "en": "Start your day in the spacious Grote Markt, one of Belgium's largest squares. After exploring the historic buildings and churches in the city center, delve into the world of cartography at the Mercator Museum. In the afternoon, stroll through the tranquil Romain De Vidts Park, adjacent to the picturesque Walburg Castle, ending the day with a sense of serenity and historical discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reynaertgebak",
+            "tip": "Probieren Sie dieses lokale mandelbasierte Gebäck, das nach der berühmten Fabel benannt ist."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Ein herzhafter flämischer Rindereintopf, oft mit Bier zubereitet und mit Pommes serviert."
+          },
+          {
+            "name": "Wase Polders",
+            "tip": "Genießen Sie lokale Biere in einer traditionellen Kneipe in der Nähe des Grote Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reynaertgebak",
+            "tip": "Kóstolja meg ezt a helyi, mandula alapú süteményt, amelyet a híres meséről neveztek el."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "Egy kiadós flamand marharagu, amelyet gyakran sörrel készítenek és sült krumplival tálalnak."
+          },
+          {
+            "name": "Wase Polders",
+            "tip": "Élvezze a helyi söröket egy hagyományos kocsmában a Grote Markt közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reynaertgebak",
+            "tip": "Încercați această prăjitură locală pe bază de migdale, numită după celebra fabulă."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "O tocană flamandă consistentă de vită, adesea preparată cu bere și servită cu cartofi prăjiți."
+          },
+          {
+            "name": "Wase Polders",
+            "tip": "Bucurați-vă de berile locale într-un pub tradițional lângă Grote Markt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reynaertgebak",
+            "tip": "Try this local almond-based pastry named after the famous fable."
+          },
+          {
+            "name": "Stoofvlees",
+            "tip": "A hearty Flemish beef stew, often made with beer and served with fries."
+          },
+          {
+            "name": "Wase Polders",
+            "tip": "Enjoy local beers at a traditional pub near the Grote Markt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Romain De Vidts Park",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castrohof",
+            "tip": "Ein versteckter Innenhof, der einen Moment der Ruhe bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der alten Stadtmauern",
+            "tip": "Folgen Sie den Überresten der alten Befestigungsanlagen für eine friedliche Reflexion.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Romain De Vidts Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castrohof",
+            "tip": "Egy rejtett udvar, amely egy pillanatnyi nyugalmat kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a régi városfalak mentén",
+            "tip": "Kövesse a régi erődítmények maradványait egy békés elmélkedésért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Romain De Vidts",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castrohof",
+            "tip": "O curte ascunsă care oferă un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul vechilor ziduri ale orașului",
+            "tip": "Urmați rămășițele vechilor fortificații pentru o reflecție pașnică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Romain De Vidts Park",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castrohof",
+            "tip": "A hidden courtyard offering a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the old city walls",
+            "tip": "Follow the remnants of the old fortifications for a peaceful reflection.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stationsstraat",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus großen Marken und lokalen Boutiquen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie am Donnerstag den Markt auf dem Grote Markt für lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stationsstraat",
+            "tip": "A város fő bevásárlóutcája, ahol nagy márkák és helyi butikok keverednek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökön látogasson el a Grote Markton tartott piacra helyi termékekért és specialitásokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stationsstraat",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de mărci mari și buticuri locale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața de joi din Grote Markt pentru produse locale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stationsstraat",
+            "tip": "The main shopping street in the city, with a mix of major brands and local boutiques."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the Thursday market on the Grote Markt for local produce and specialities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das meiste auf Kopfsteinpflasterstraßen erkundet wird.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind nur wenige Gehminuten voneinander entfernt.",
+          "Halten Sie Ausschau nach den kleinen Gassen, die vom Hauptplatz abzweigen.",
+          "Prüfen Sie die Öffnungszeiten des Mercator-Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a felfedezés nagy része macskaköves utakon történik.",
+          "A városközpont legtöbb látnivalója sétatávolságra van egymástól.",
+          "Figyelje a főtérről leágazó kis sikátorokat.",
+          "Előre ellenőrizze a Mercator Múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece majoritatea explorării se face pe străzi pietruite.",
+          "Cele mai multe atracții din centrul orașului sunt la distanță de mers pe jos una de cealaltă.",
+          "Fiți atenți la aleile mici care pornesc din piața principală.",
+          "Verificați în avans programul de funcționare al Muzeului Mercator."
+        ],
+        "en": [
+          "Wear comfortable shoes as most of the exploration is on cobblestone streets.",
+          "Most city center attractions are within easy walking distance of each other.",
+          "Keep an eye out for the small alleys branching off the main square.",
+          "Check the opening hours for the Mercator Museum in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grote Markt & Rathaus",
+            "hu": "Fő tér és Városháza",
+            "ro": "Piața Mare și Primăria",
+            "en": "Grote Markt & Town Hall"
+          },
+          "coords": [
+            4.1401,
+            51.1645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie den Platz und die umliegenden Gebäude zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a teret és a környező épületeket gyalog.",
+            "ro": "Încuiați-vă bicicleta și explorați piața și clădirile din jur pe jos.",
+            "en": "Lock up your bike and explore the square and surrounding buildings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas' Church"
+          },
+          "coords": [
+            4.1422,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Bestaunen Sie die gotische Architektur.",
+            "hu": "Rövid séta a Városházától. Csodálja meg a gótikus építészetet.",
+            "ro": "O scurtă plimbare de la Primărie. Admirați arhitectura gotică.",
+            "en": "A short walk from the town hall. Marvel at the gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Doamna Noastră",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.1319,
+            51.1664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ihre beeindruckende byzantinische Kuppel ist schon von weitem sichtbar.",
+            "hu": "Lenyűgöző bizánci kupolája már messziről látható.",
+            "ro": "Cupola sa impresionantă în stil bizantin este vizibilă de la distanță.",
+            "en": "Its impressive Byzantine-style dome is visible from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerardus Mercator Museum",
+            "hu": "Gerardus Mercator Múzeum",
+            "ro": "Muzeul Gerardus Mercator",
+            "en": "Gerardus Mercator Museum"
+          },
+          "coords": [
+            4.1378,
+            51.1681
+          ],
+          "category": "museums",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die Welt der Globen und Karten zu erkunden.",
+            "hu": "Tervezzen elegendő időt a földgömbök és térképek világának felfedezésére.",
+            "ro": "Alocați suficient timp pentru a explora lumea globurilor și hărților.",
+            "en": "Plan enough time to explore the world of globes and maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrohof",
+            "hu": "Castrohof",
+            "ro": "Castrohof",
+            "en": "Castrohof"
+          },
+          "coords": [
+            4.136,
+            51.163
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:07",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein ruhiger, historischer Innenhof, ideal für eine kurze Pause.",
+            "hu": "Egy csendes, történelmi udvar, ideális egy rövid szünetre.",
+            "ro": "O curte istorică liniștită, ideală pentru o scurtă pauză.",
+            "en": "A quiet, historic courtyard ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Walburg",
+            "hu": "Walburg kastély",
+            "ro": "Castelul Walburg",
+            "en": "Walburg Castle"
+          },
+          "coords": [
+            4.1485,
+            51.1602
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Radtour um den Wassergraben, der das Schloss umgibt.",
+            "hu": "Tegyen egy kerékpártúrát a kastélyt körülvevő vizesárok körül.",
+            "ro": "Faceți o plimbare cu bicicleta în jurul șanțului cu apă care înconjoară castelul.",
+            "en": "Take a bike ride around the moat surrounding the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Romain De Vidts Park",
+            "hu": "Romain De Vidts Park",
+            "ro": "Parcul Romain De Vidts",
+            "en": "Romain De Vidts Park"
+          },
+          "coords": [
+            4.1472,
+            51.1595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrer Radtour auf den Wiesen dieses schönen Parks.",
+            "hu": "Pihenjen a kerékpártúra után ennek a szép parknak a rétjein.",
+            "ro": "Relaxați-vă pe peluzele acestui parc frumos după turul cu bicicleta.",
+            "en": "Relax on the lawns of this beautiful park after your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad für eine Tour durch Sint-Niklaas. Beginnen Sie im Herzen der Stadt, dem Grote Markt, bevor Sie zu den beeindruckenden Kirchen radeln. Die Hauptattraktion ist das Mercator-Museum, eine Hommage an den berühmten Kartographen. Die Tour führt Sie dann zum ruhigen Castrohof und zum prächtigen Schloss Walburg. Beenden Sie Ihren aktiven Tag mit einer wohlverdienten Pause im grünen Romain De Vidts Park.",
+        "hu": "Pattanjon kerékpárra egy Sint-Niklaas-i túrához. Kezdje a város szívében, a Grote Markton, majd tekerjen el a lenyűgöző templomokhoz. A fő látnivaló a Mercator Múzeum, amely a híres térképész előtt tiszteleg. A túra ezután a csendes Castrohofhoz és a csodálatos Walburg kastélyhoz vezet. Zárja aktív napját egy jól megérdemelt pihenővel a zöldellő Romain De Vidts Parkban.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Sint-Niklaas. Începeți în inima orașului, Grote Markt, înainte de a pedala spre bisericile impresionante. Punctul culminant este Muzeul Mercator, un omagiu adus celebrului cartograf. Turul vă duce apoi la liniștitul Castrohof și la magnificul Castel Walburg. Încheiați-vă ziua activă cu o pauză binemeritată în verdele Parc Romain De Vidts.",
+        "en": "Get on your bike for a tour of Sint-Niklaas. Start in the heart of the city, the Grote Markt, before cycling to the impressive churches. The main highlight is the Mercator Museum, a tribute to the famous cartographer. The tour then takes you to the quiet Castrohof and the magnificent Walburg Castle. End your active day with a well-deserved break in the green Romain De Vidts Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie 't Heerehuys",
+            "tip": "Ein großartiger Ort für ein Mittagessen mit Blick auf das Schloss Walburg."
+          },
+          {
+            "name": "Lokale Brauerei",
+            "tip": "Probieren Sie ein 'Bier van de Maand' (Bier des Monats) in einer der örtlichen Kneipen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie 't Heerehuys",
+            "tip": "Remek hely egy ebédhez, kilátással a Walburg kastélyra."
+          },
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Kóstolja meg a 'Bier van de Maand' (A hónap söre) sört a helyi kocsmák egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie 't Heerehuys",
+            "tip": "Un loc excelent pentru prânz cu vedere la Castelul Walburg."
+          },
+          {
+            "name": "Berărie locală",
+            "tip": "Încercați o 'Bier van de Maand' (Berea lunii) într-unul dintre puburile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie 't Heerehuys",
+            "tip": "A great spot for lunch with a view of Walburg Castle."
+          },
+          {
+            "name": "Local Brewery",
+            "tip": "Try a 'Bier van de Maand' (Beer of the Month) in one of the local pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Ufer des Schlossteichs",
+            "tip": "Ein friedlicher Ort, um die Schwäne zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Leseecke im Romain De Vidts Park",
+            "tip": "Finden Sie einen abgelegenen Platz für eine ruhige Lektüre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kastélytó partja",
+            "tip": "Békés hely a hattyúk megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Olvasósarok a Romain De Vidts Parkban",
+            "tip": "Keressen egy félreeső helyet egy csendes olvasáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile iazului castelului",
+            "tip": "Un loc pașnic pentru a privi lebedele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț de lectură în Parcul Romain De Vidts",
+            "tip": "Găsiți un loc retras pentru o lectură liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The banks of the castle pond",
+            "tip": "A peaceful spot to watch the swans.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Reading corner in Romain De Vidts Park",
+            "tip": "Find a secluded spot for some quiet reading.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Suchen Sie nach einzigartigem Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Senf oder Käse aus der Region Waasland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen egyedi kerékpáros kiegészítőket szuvenírként."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon Waasland régióból származó mustárt vagy sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Căutați accesorii unice pentru biciclete ca suvenir."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați muștar sau brânză din regiunea Waasland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Look for unique cycling accessories as a souvenir."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some Waasland regional mustard or cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sint-Niklaas ist relativ flach und fahrradfreundlich.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich.",
+          "Vergessen Sie nicht, Ihr Fahrrad abzuschließen, wenn Sie es abstellen.",
+          "Einige Bereiche des Grote Markt können für Radfahrer gesperrt sein, also steigen Sie ab und gehen Sie zu Fuß."
+        ],
+        "hu": [
+          "Sint-Niklaas viszonylag sík és kerékpárbarát.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Ne felejtse el lezárni a kerékpárját, amikor leteszi.",
+          "A Grote Markt egyes területei le lehetnek zárva a kerékpárosok elől, ezért szálljon le és sétáljon."
+        ],
+        "ro": [
+          "Sint-Niklaas este relativ plat și prietenos cu bicicletele.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Nu uitați să vă încuiați bicicleta atunci când o lăsați nesupravegheată.",
+          "Unele zone din Grote Markt pot fi restricționate pentru bicicliști, așa că descălecați și mergeți pe jos."
+        ],
+        "en": [
+          "Sint-Niklaas is relatively flat and bike-friendly.",
+          "Use the designated bike lanes wherever possible.",
+          "Don't forget to lock your bike when leaving it unattended.",
+          "Some areas of the Grote Markt may be restricted for cyclists, so dismount and walk."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Grote Markt",
+            "hu": "Parkoló a központban és Fő tér",
+            "ro": "Parcare Centru și Piața Mare",
+            "en": "City Center Parking & Grote Markt"
+          },
+          "coords": [
+            4.1448,
+            51.1661
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage unter dem Platz für leichten Zugang.",
+            "hu": "Parkoljon a tér alatti mélygarázsban a könnyű hozzáférés érdekében.",
+            "ro": "Parcați în parcarea subterană de sub piață pentru acces ușor.",
+            "en": "Park in the underground garage beneath the square for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Sankt-Nikolaus-Kirche",
+            "hu": "Városháza és Szent Miklós-templom",
+            "ro": "Primăria și Biserica Sf. Nicolae",
+            "en": "Town Hall & St. Nicholas' Church"
+          },
+          "coords": [
+            4.1415,
+            51.1655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen befinden sich direkt am Grote Markt.",
+            "hu": "Ez a két nevezetesség közvetlenül a Fő téren található.",
+            "ro": "Aceste două repere sunt situate chiar în Grote Markt.",
+            "en": "These two landmarks are located right on the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerardus Mercator Museum",
+            "hu": "Gerardus Mercator Múzeum",
+            "ro": "Muzeul Gerardus Mercator",
+            "en": "Gerardus Mercator Museum"
+          },
+          "coords": [
+            4.1378,
+            51.1681
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptparkplatz, der Sie in die Vergangenheit entführt.",
+            "hu": "Rövid séta a fő parkolótól, amely visszarepíti az időben.",
+            "ro": "O scurtă plimbare de la parcarea principală care vă va transporta înapoi în timp.",
+            "en": "A short walk from the main parking area that will transport you back in time."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Walburg & Schloss",
+            "hu": "Walburg Parkoló és Kastély",
+            "ro": "Parcare Walburg și Castel",
+            "en": "Walburg Parking & Castle"
+          },
+          "coords": [
+            4.1485,
+            51.1602
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster. Es gibt spezielle Parkplätze in der Nähe des Schlossparks.",
+            "hu": "Vezessen a második fürthöz. A kastélypark közelében külön parkolóhelyek találhatók.",
+            "ro": "Conduceți spre al doilea cluster. Există locuri de parcare dedicate lângă parcul castelului.",
+            "en": "Drive to the second cluster. There is dedicated parking near the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Romain De Vidts Park",
+            "hu": "Romain De Vidts Park",
+            "ro": "Parcul Romain De Vidts",
+            "en": "Romain De Vidts Park"
+          },
+          "coords": [
+            4.1472,
+            51.1595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Schloss aus ist es nur ein kurzer Spaziergang zu diesem grünen Fleckchen.",
+            "hu": "A kastélytól csak egy rövid séta ez a zöld terület.",
+            "ro": "Este doar o scurtă plimbare de la castel la această oază de verdeață.",
+            "en": "It's just a short walk from the castle to this patch of green."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Doamna Noastră",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.1319,
+            51.1664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Halt des Tages, um die beeindruckende Kuppel zu bewundern.",
+            "hu": "Vezessen a nap utolsó állomásához, hogy megcsodálja a lenyűgöző kupolát.",
+            "ro": "Conduceți la ultima oprire a zilei pentru a admira cupola impresionantă.",
+            "en": "Drive to the last stop of the day to admire its impressive dome."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Sint-Niklaas effizient erkunden. Parken Sie im Zentrum und entdecken Sie den Grote Markt und das Mercator-Museum zu Fuß. Am Nachmittag fahren Sie zum zweiten Cluster, dem Schloss Walburg und dem angrenzenden Park, einem perfekten Ort für einen entspannten Spaziergang. Die Tour endet mit einer kurzen Fahrt zur prächtigen Liebfrauenkirche und lässt Ihnen bleibende Eindrücke von der Vielfalt der Stadt.",
+        "hu": "Autóval hatékonyan fedezheti fel Sint-Niklaast. Parkoljon a központban, és fedezze fel gyalog a Grote Marktot és a Mercator Múzeumot. Délután vezessen a második fürthöz, a Walburg kastélyhoz és a szomszédos parkhoz, amely tökéletes hely egy pihentető sétához. A túra egy rövid autózással ér véget a csodálatos Miasszonyunk-templomhoz, maradandó benyomást hagyva a város sokszínűségéről.",
+        "ro": "Explorați eficient Sint-Niklaas cu mașina. Parcați în centru pentru a descoperi Grote Markt și Muzeul Mercator pe jos. După-amiaza, conduceți spre al doilea cluster, Castelul Walburg și parcul adiacent, un loc perfect pentru o plimbare relaxantă. Turul se încheie cu o scurtă călătorie cu mașina până la magnifica Biserică a Doamnei Noastre, lăsându-vă cu impresii de durată despre diversitatea orașului.",
+        "en": "Efficiently explore Sint-Niklaas by car. Park in the center to discover the Grote Markt and the Mercator Museum on foot. In the afternoon, drive to the second cluster, Walburg Castle and its adjacent park, a perfect spot for a relaxing walk. The tour concludes with a short drive to the magnificent Church of Our Lady, leaving you with lasting impressions of the city's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "'t Zonneken",
+            "tip": "Ein bekanntes Restaurant, das traditionelle belgische Küche mit einem modernen Touch anbietet."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Kein Belgien-Besuch ist komplett ohne eine Portion authentischer belgischer Pommes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'t Zonneken",
+            "tip": "Hagyományos belga konyhát modern köntösben kínáló, elismert étterem."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Egyetlen belgiumi látogatás sem teljes egy adag eredeti belga sült krumpli nélkül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "'t Zonneken",
+            "tip": "Un restaurant renumit care oferă bucătărie tradițională belgiană cu o notă modernă."
+          },
+          {
+            "name": "Frituur",
+            "tip": "Nicio vizită în Belgia nu este completă fără o porție de cartofi prăjiți belgieni autentici."
+          }
+        ],
+        "en": [
+          {
+            "name": "'t Zonneken",
+            "tip": "A renowned restaurant offering traditional Belgian cuisine with a modern twist."
+          },
+          {
+            "name": "Frituur",
+            "tip": "No visit to Belgium is complete without a portion of authentic Belgian fries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtfriedhof Tereken",
+            "tip": "Ein historischer und ruhiger Ort für einen nachdenklichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten von Schloss Walburg",
+            "tip": "Obwohl das Schloss privat ist, ist der umliegende Park öffentlich und friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tereken városi temető",
+            "tip": "Történelmi és csendes hely egy elgondolkodtató sétához."
+          },
+          {
+            "name": "A Walburg kastély kertjei",
+            "tip": "Bár a kastély magánterület, a környező park nyilvános és békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Municipal Tereken",
+            "tip": "Un loc istoric și liniștit pentru o plimbare contemplativă."
+          },
+          {
+            "name": "Grădinile Castelului Walburg",
+            "tip": "Deși castelul este privat, parcul înconjurător este public și pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tereken Municipal Cemetery",
+            "tip": "A historic and quiet place for a contemplative walk."
+          },
+          {
+            "name": "The gardens of Walburg Castle",
+            "tip": "Although the castle is private, the surrounding park is public and peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Waasland Shopping Center",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für ein umfassendes Einkaufserlebnis."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie in den kleinen Läden nach einzigartigen Fundstücken und Sammlerstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waasland Bevásárlóközpont",
+            "tip": "Egy nagy bevásárlóközpont a város szélén egy átfogó vásárlási élményért."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen a kis boltokban egyedi leletekért és gyűjtői darabokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Waasland",
+            "tip": "Un centru comercial mare la marginea orașului pentru o experiență de cumpărături completă."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați prin magazinele mici descoperiri unice și obiecte de colecție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waasland Shopping Center",
+            "tip": "A large shopping mall on the outskirts of the city for a comprehensive shopping experience."
+          },
+          {
+            "name": "Antique Shops",
+            "tip": "Browse the small shops for unique finds and collectibles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist in den Tiefgaragen im Stadtzentrum am einfachsten, kann aber gebührenpflichtig sein.",
+          "Beachten Sie die 'blaue Zone' für das Parken auf der Straße, wo eine Parkscheibe erforderlich ist.",
+          "Der Verkehr kann während der Stoßzeiten zunehmen.",
+          "Planen Sie Ihre Route zwischen den Clustern, um die Fahrzeit zu minimieren."
+        ],
+        "hu": [
+          "A parkolás a legegyszerűbb a városközponti mélygarázsokban, de díjköteles lehet.",
+          "Figyeljen a 'kék zónára' az utcai parkolásnál, ahol parkolótárcsa szükséges.",
+          "A forgalom csúcsidőben megnövekedhet.",
+          "Tervezze meg az útvonalat a fürtök között a vezetési idő minimalizálása érdekében."
+        ],
+        "ro": [
+          "Parcarea este cea mai ușoară în garajele subterane din centrul orașului, dar poate fi contra cost.",
+          "Fiți atenți la 'zona albastră' pentru parcarea pe stradă, unde este necesar un disc de parcare.",
+          "Traficul poate fi aglomerat în orele de vârf.",
+          "Planificați-vă traseul între clustere pentru a minimiza timpul de condus."
+        ],
+        "en": [
+          "Parking is easiest in the underground garages in the city center, but can be paid.",
+          "Be aware of the 'blue zone' for street parking, where a parking disc is required.",
+          "Traffic can be busy during peak hours.",
+          "Plan your route between clusters to minimize driving time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Grote Markt",
+            "hu": "Főpályaudvar és Fő tér",
+            "ro": "Gara Centrală și Piața Mare",
+            "en": "Central Station & Grote Markt"
+          },
+          "coords": [
+            4.1401,
+            51.1645
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus sind es nur wenige Minuten mit dem Bus oder ein kurzer Spaziergang zum Grote Markt.",
+            "hu": "A pályaudvartól csak néhány perc busszal vagy egy rövid séta a Fő tér.",
+            "ro": "De la gară sunt doar câteva minute cu autobuzul sau o scurtă plimbare până la Grote Markt.",
+            "en": "From the station, it's just a few minutes by bus or a short walk to the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Sankt-Nikolaus-Kirche",
+            "hu": "Városháza és Szent Miklós-templom",
+            "ro": "Primăria și Biserica Sf. Nicolae",
+            "en": "Town Hall & St. Nicholas' Church"
+          },
+          "coords": [
+            4.1415,
+            51.1655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Herz der Stadt, bevor Sie zum nächsten Cluster aufbrechen.",
+            "hu": "Fedezze fel a város szívét, mielőtt a következő fürthöz indulna.",
+            "ro": "Explorați inima orașului înainte de a pleca spre următorul cluster.",
+            "en": "Explore the heart of the city before heading to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerardus Mercator Museum",
+            "hu": "Gerardus Mercator Múzeum",
+            "ro": "Muzeul Gerardus Mercator",
+            "en": "Gerardus Mercator Museum"
+          },
+          "coords": [
+            4.1378,
+            51.1681
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum ist vom Grote Markt aus leicht zu Fuß erreichbar.",
+            "hu": "A múzeum könnyen megközelíthető gyalog a Fő térről.",
+            "ro": "Muzeul este la o distanță ușoară de mers pe jos de Grote Markt.",
+            "en": "The museum is within easy walking distance from the Grote Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Park & Schloss Walburg",
+            "hu": "Park megálló és Walburg kastély",
+            "ro": "Stația Parc și Castelul Walburg",
+            "en": "Park Stop & Walburg Castle"
+          },
+          "coords": [
+            4.1485,
+            51.1602
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Die Haltestelle ist nur wenige Schritte vom Park entfernt.",
+            "hu": "Vegyen buszt a központból. A megálló csak néhány lépésre van a parktól.",
+            "ro": "Luați un autobuz din centru. Stația este la doar câțiva pași de parc.",
+            "en": "Take a bus from the center. The stop is just a few steps from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Romain De Vidts Park",
+            "hu": "Romain De Vidts Park",
+            "ro": "Parcul Romain De Vidts",
+            "en": "Romain De Vidts Park"
+          },
+          "coords": [
+            4.1472,
+            51.1595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Élvezze a nyugalmat, mielőtt visszaindulna a buszra a központba.",
+            "ro": "Bucurați-vă de liniște înainte de a lua autobuzul înapoi spre centru.",
+            "en": "Enjoy the tranquility before catching the bus back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Doamna Noastră",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            4.1319,
+            51.1664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein letzter Bus bringt Sie in die Nähe dieses architektonischen Juwels.",
+            "hu": "Egy utolsó busz visz el ennek az építészeti gyöngyszemnek a közelébe.",
+            "ro": "O ultimă călătorie cu autobuzul vă va duce aproape de această bijuterie arhitecturală.",
+            "en": "A final bus ride will take you close to this architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sint-Niklaas mit den öffentlichen Verkehrsmitteln. Beginnen Sie im historischen Zentrum rund um den Grote Markt, das leicht zu Fuß erreichbar ist. Ein Bus bringt Sie dann bequem zum zweiten Cluster, dem Schloss Walburg und seinem Park. Nach einem entspannten Nachmittag im Grünen bringt Sie ein weiterer Bus zum letzten Höhepunkt des Tages, der Liebfrauenkirche, und vervollständigt so Ihren umfassenden Eindruck von der Stadt.",
+        "hu": "Fedezze fel Sint-Niklaast tömegközlekedéssel. Kezdje a történelmi központban, a Grote Markt környékén, amely gyalogosan könnyen bejárható. Ezután egy busz kényelmesen elviszi a második fürthöz, a Walburg kastélyhoz és parkjához. A zöldben töltött pihentető délután után egy másik busz viszi el a nap utolsó fénypontjához, a Miasszonyunk-templomhoz, teljessé téve a városról alkotott átfogó benyomását.",
+        "ro": "Explorați Sint-Niklaas folosind transportul public. Începeți în centrul istoric din jurul Grote Markt, ușor de explorat pe jos. Un autobuz vă va duce apoi confortabil la al doilea cluster, Castelul Walburg și parcul său. După o după-amiază relaxantă în verdeață, un alt autobuz vă va duce la ultimul punct culminant al zilei, Biserica Doamna Noastră, completându-vă impresia cuprinzătoare despre oraș.",
+        "en": "Explore Sint-Niklaas using public transport. Start in the historic center around the Grote Markt, which is easily walkable. A bus will then comfortably take you to the second cluster, Walburg Castle and its park. After a relaxing afternoon in the green, another bus will take you to the final highlight of the day, the Church of Our Lady, completing your comprehensive impression of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snacks am Bahnhof",
+            "tip": "Holen Sie sich eine Waffel oder ein Sandwich für unterwegs."
+          },
+          {
+            "name": "Café Cipierskelder",
+            "tip": "Ein gemütliches Café im alten Gefängniskeller des Rathauses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snackek a pályaudvaron",
+            "tip": "Vegyen egy gofrit vagy szendvicset útközben."
+          },
+          {
+            "name": "Café Cipierskelder",
+            "tip": "Hangulatos kávézó a Városháza régi börtönpincéjében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări la gară",
+            "tip": "Luați o vafă sau un sandviș pentru drum."
+          },
+          {
+            "name": "Café Cipierskelder",
+            "tip": "O cafenea primitoare în vechea pivniță a închisorii de la Primărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snacks at the station",
+            "tip": "Grab a waffle or a sandwich for the road."
+          },
+          {
+            "name": "Café Cipierskelder",
+            "tip": "A cozy café in the old prison cellar of the Town Hall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Busfahrt",
+            "tip": "Nutzen Sie die Fahrt zwischen den Clustern, um die Vororte zu beobachten und sich auszuruhen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bank im Castrohof",
+            "tip": "Ein versteckter Innenhof für eine kurze Flucht aus der Hektik.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes buszút",
+            "tip": "Használja ki a fürtök közötti utazást a külvárosok megfigyelésére és a pihenésre.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Pad a Castrohofban",
+            "tip": "Egy rejtett udvar egy rövid meneküléshez a nyüzsgésből.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O călătorie liniștită cu autobuzul",
+            "tip": "Folosiți călătoria între clustere pentru a observa suburbiile și a vă odihni.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bancă în Castrohof",
+            "tip": "O curte ascunsă pentru o scurtă evadare din agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bus ride",
+            "tip": "Use the journey between clusters to observe the suburbs and rest.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bench in Castrohof",
+            "tip": "A hidden courtyard for a short escape from the hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe von Haltestellen",
+            "tip": "Entdecken Sie kleine, unabhängige Geschäfte, während Sie auf Ihren Bus warten."
+          },
+          {
+            "name": "Mercator-Souvenirs",
+            "tip": "Der Museumsshop ist der beste Ort für kartenbezogene Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a megállók közelében",
+            "tip": "Fedezzen fel kis, független boltokat, amíg a buszra vár."
+          },
+          {
+            "name": "Mercator szuvenírek",
+            "tip": "A múzeumi bolt a legjobb hely térkép témájú ajándékok beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stații",
+            "tip": "Descoperiți magazine mici, independente, în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Suveniruri Mercator",
+            "tip": "Magazinul muzeului este cel mai bun loc pentru cadouri legate de hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near stops",
+            "tip": "Discover small, independent shops while waiting for your bus."
+          },
+          {
+            "name": "Mercator souvenirs",
+            "tip": "The museum shop is the best place for map-related gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten mit den De Lijn-Bussen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere an Wochenenden.",
+          "Die meisten Busse sind barrierefrei.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie diese an Bord kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a De Lijn buszokon való korlátlan utazáshoz.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb busz akadálymentesített.",
+          "Tartson aprópénzt a jegyekhez, ha a fedélzeten vásárolja meg őket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzele De Lijn.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile.",
+          "Păstrați mărunțiș pentru bilete dacă le cumpărați la bord."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel on De Lijn buses.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most buses are wheelchair accessible.",
+          "Keep change handy for tickets if buying on board."
+        ]
+      }
+    }
+  }
+}

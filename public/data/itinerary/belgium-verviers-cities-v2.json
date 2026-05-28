@@ -1,0 +1,1358 @@
+{
+  "city_id": "belgium-verviers-cities-v2",
+  "anchor": {
+    "name": "Verviers",
+    "coords": [
+      5.8631,
+      50.5932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 4.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            5.8631,
+            50.5932
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade am Morgen.",
+            "hu": "Nézze meg a klasszicista homlokzatot a reggeli fényben.",
+            "ro": "Admirați fațada neoclasică în lumina dimineții.",
+            "en": "Admire the neoclassical facade in the morning light."
+          }
+        },
+        {
+          "name": "Fontaine Ortmans",
+          "coords": [
+            5.865,
+            50.5925
+          ],
+          "category": "monument",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine beeindruckende Wasserquelle aus dem 19. Jahrhundert.",
+            "hu": "Látványos 19. századi szökőkút a város szívében.",
+            "ro": "O fântână impresionantă din secolul al XIX-lea.",
+            "en": "An impressive 19th-century water feature."
+          }
+        },
+        {
+          "name": "Escalier de la Paix",
+          "coords": [
+            5.862,
+            50.591
+          ],
+          "category": "landmark",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Malerische Treppe mit schönem Blick von oben.",
+            "hu": "Festői lépcsősor, fentről remek kilátással.",
+            "ro": "O scară pitorească cu o priveliște minunată de sus.",
+            "en": "Scenic staircase offering great views from the top."
+          }
+        },
+        {
+          "name": "Centre de la Laine et de la Mode",
+          "coords": [
+            5.858,
+            50.59
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung über die Wollindustrie.",
+            "hu": "Interaktív kiállítás a város gyapjúipari múltjáról.",
+            "ro": "O expoziție interactivă despre industria lânii.",
+            "en": "Interactive exhibition on the local wool industry."
+          }
+        },
+        {
+          "name": "Chocolaterie Darcis",
+          "coords": [
+            5.85,
+            50.589
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten belgischen Pralinen und Macarons.",
+            "hu": "Kóstolja meg a híres belga pralinékat és macaronokat.",
+            "ro": "Gustați celebrele praline și macarons belgiene.",
+            "en": "Taste the famous Belgian pralines and macarons."
+          }
+        },
+        {
+          "name": "Église Saint-Remacle",
+          "coords": [
+            5.866,
+            50.594
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Große Kirche im neoromanischen Stil mit ruhigem Interieur.",
+            "hu": "Hatalmas neoromán stílusú templom csendes belsővel.",
+            "ro": "Biserică masivă în stil neoromanic, cu un interior liniștit.",
+            "en": "Massive neo-Romanesque church with a quiet interior."
+          }
+        },
+        {
+          "name": "Grand Théâtre de Verviers",
+          "coords": [
+            5.8645,
+            50.595
+          ],
+          "category": "theatre",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderschönes, historisches Gebäude aus dem 19. Jahrhundert.",
+            "hu": "Gyönyörű 19. századi színházépület kiváló arányokkal.",
+            "ro": "O clădire de teatru frumoasă și istorică din secolul al XIX-lea.",
+            "en": "A beautiful historic theatre building from the 19th century."
+          }
+        },
+        {
+          "name": "Parc de l'Harmonie",
+          "coords": [
+            5.87,
+            50.59
+          ],
+          "category": "park",
+          "arrive_at": "16:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idyllischer Park, perfekt für einen entspannten Nachmittag.",
+            "hu": "Idillikus park zöld gyeppel, tökéletes a pihenéshez.",
+            "ro": "Un parc idilic, perfect pentru o după-amiază relaxantă.",
+            "en": "An idyllic park, perfect for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am eleganten Hôtel de Ville und entdecken Sie die imposante Fontaine Ortmans. Spazieren Sie über die historische Escalier de la Paix in Richtung des Textilzentrums. Mittags tauchen Sie im Centre de la Laine in die Industriegeschichte ein, bevor Sie bei Darcis erstklassige Schokolade kosten. Der Nachmittag gehört der prächtigen Église Saint-Remacle und dem alten Theater. Schließen Sie den Tag im ruhigen Parc de l'Harmonie ab.",
+        "hu": "Kezdje a napot az elegáns Városházánál, majd fedezze fel a lenyűgöző Ortmans-kút vízsugarait. Sétáljon fel a Békepaloták lépcsőin, mielőtt belemerül a helyi történelembe. Délben a Gyapjú- és Divatközpont várja, utána a Darcis csokoládégyár édes ízei. Délután a neoromán Saint-Remacle templom és a klasszikus Grand Théâtre épülete következik. Zárja a napot egy pihentető sétával a Parc de l'Harmonie-ban.",
+        "ro": "Începeți ziua la elegantul Hôtel de Ville și descoperiți impresionanta Fontaine Ortmans. Urcați treptele pitorești de la Escalier de la Paix. La prânz, vizitați Centrul Lânii pentru a afla istoria industrială, urmat de o oprire dulce la Darcis pentru ciocolată. După-amiaza este dedicată somptuoasei Église Saint-Remacle și vechiului teatru. Încheiați ziua liniștit în Parc de l'Harmonie.",
+        "en": "Start your day at the elegant Hôtel de Ville and discover the impressive Fontaine Ortmans. Walk up the historic Escalier de la Paix towards the cultural district. At midday, dive into the industrial past at the Wool and Fashion Centre, followed by sweet treats at Darcis chocolate factory. Spend the afternoon admiring the grand Église Saint-Remacle and the classic theatre. End peacefully in Parc de l'Harmonie."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Probieren Sie hier preisgekrönte Pralinen und frische Macarons."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Genießen Sie herzhafte Fleischbällchen (Boulet à la liégeoise) mit belgischen Pommes."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Holen Sie sich ein Stück traditionelle Tarte au riz (Milchreistorte)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Kóstolja meg a díjnyertes pralinékat és friss macaronokat."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Hagyományos liège-i húsgombóc (Boulet à la liégeoise) ropogós sült krumplival."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Vegyél egy szelet klasszikus Tarte au riz-t (rizstortát) a kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Degustați pralinele premiate și macarons proaspete."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Încercați chiftelele locale (Boulet à la liégeoise) cu cartofi prăjiți belgieni."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Comandați o felie de Tarte au riz tradițională pentru desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Taste award-winning pralines and fresh macarons right here."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Enjoy savory local meatballs (Boulet à la liégeoise) with Belgian fries."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Pick up a slice of traditional Tarte au riz (rice tart) for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Grüne Oase im Zentrum der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre-Ufer",
+            "tip": "Spazieren Sie gemütlich entlang des Flusses.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix (Oben)",
+            "tip": "Ruhiger Aussichtspunkt am späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Zöld oázis a város sűrűjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre folyópart",
+            "tip": "Tegyen egy nyugodt sétát a folyó mellett.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix (Teteje)",
+            "tip": "Csendes kilátópont a késő délutáni fényekben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Oază verde în centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Vesdre",
+            "tip": "O plimbare relaxantă de-a lungul apei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix (Sus)",
+            "tip": "Un punct de observație liniștit spre seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "A green oasis in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre Riverbanks",
+            "tip": "Take a peaceful stroll along the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix (Top)",
+            "tip": "Quiet viewpoint in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue du Brou",
+            "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen und Cafés."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Perfekt für essbare Souvenirs aus Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Brou",
+            "tip": "A fő bevásárlóutca számos butikkal és kávézóval."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Tökéletes hely csokoládé alapú szuvenírek beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue du Brou",
+            "tip": "Strada principală de cumpărături, plină de buticuri."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Ideal pentru suveniruri dulci și rafinate din ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue du Brou",
+            "tip": "The main shopping street filled with boutiques and cafes."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Perfect spot to pick up edible chocolate souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt lässt sich sehr gut zu Fuß erkunden, tragen Sie bequeme Schuhe.",
+          "Verviers liegt in einem Tal, einige Straßen weisen Steigungen auf.",
+          "Probieren Sie unbedingt die lokalen Biersorten in den Brasserien um den Hauptplatz.",
+          "Die Schokoladenfabrik ist ein Highlight, planen Sie hier genügend Zeit ein."
+        ],
+        "hu": [
+          "A belváros ideális gyalogos felfedezésre, de a kényelmes cipő elengedhetetlen.",
+          "Verviers völgyben fekszik, készüljön néhány emelkedős utcára.",
+          "A főtér körüli sörözőkben érdemes megkóstolni a helyi belga söröket.",
+          "A csokoládégyár látogatására szánjon elegendő időt, mert sokat lehet tanulni és kóstolni."
+        ],
+        "ro": [
+          "Centrul orașului este excelent pentru explorat pe jos, purtați încălțăminte comodă.",
+          "Verviers se află într-o vale, așa că unele străzi au înclinație.",
+          "Nu ratați berile locale servite la braserii din jurul pieței centrale.",
+          "Fabrica de ciocolată este o atracție principală, alocați suficient timp pentru vizită."
+        ],
+        "en": [
+          "The city center is very walkable, but comfortable shoes are a must.",
+          "Verviers is located in a valley, so expect some uphill streets.",
+          "Be sure to try local Belgian beers in the brasseries around the main square.",
+          "The chocolate factory is a major highlight; allocate plenty of time to enjoy it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            5.8631,
+            50.5932
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am beeindruckenden Rathausplatz.",
+            "hu": "Indítsa a biciklitúrát a látványos városháza teréről.",
+            "ro": "Începeți turul cu bicicleta din piața impresionantă a primăriei.",
+            "en": "Start your bike tour at the impressive city hall square."
+          }
+        },
+        {
+          "name": "Fontaine Ortmans",
+          "coords": [
+            5.865,
+            50.5925
+          ],
+          "category": "monument",
+          "arrive_at": "09:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp am monumentalen Brunnen für ein Foto.",
+            "hu": "Rövid megálló a monumentális kútnál egy fotó erejéig.",
+            "ro": "O scurtă oprire la fântâna monumentală pentru o fotografie.",
+            "en": "Short stop at the monumental fountain for a quick photo."
+          }
+        },
+        {
+          "name": "Église Saint-Remacle",
+          "coords": [
+            5.866,
+            50.594
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad und bewundern Sie das gewaltige Innere.",
+            "hu": "Parkolja le a bringát és csodálja meg a hatalmas belső teret.",
+            "ro": "Parcați bicicleta și admirați interiorul imens al bisericii.",
+            "en": "Park your bike and marvel at the massive church interior."
+          }
+        },
+        {
+          "name": "Grand Théâtre de Verviers",
+          "coords": [
+            5.8645,
+            50.595
+          ],
+          "category": "theatre",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem architektonischen Juwel vorbei.",
+            "hu": "Tekerjen el emellett az építészeti ékszerdoboz mellett.",
+            "ro": "Pedalați pe lângă această bijuterie arhitecturală.",
+            "en": "Cycle past this architectural gem in the city center."
+          }
+        },
+        {
+          "name": "Parc de l'Harmonie",
+          "coords": [
+            5.87,
+            50.59
+          ],
+          "category": "park",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Picknickpause im Schatten der Bäume.",
+            "hu": "Tökéletes helyszín egy kis piknikhez a fák árnyékában.",
+            "ro": "Locul perfect pentru un picnic la umbra copacilor bătrâni.",
+            "en": "Perfect spot for a picnic break in the shade of the trees."
+          }
+        },
+        {
+          "name": "Centre de la Laine et de la Mode",
+          "coords": [
+            5.858,
+            50.59
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die spannende Textilgeschichte der Stadt.",
+            "hu": "Merüljön el a város izgalmas textilipari történelmében.",
+            "ro": "Pătrundeți în istoria fascinantă a textilelor din oraș.",
+            "en": "Dive into the fascinating textile history of the city."
+          }
+        },
+        {
+          "name": "Chocolaterie Darcis",
+          "coords": [
+            5.85,
+            50.589
+          ],
+          "category": "gastro",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit feinster Schokolade nach dem Radeln.",
+            "hu": "Jutalmazza meg magát finom csokoládéval a tekerés után.",
+            "ro": "Recompensați-vă cu ciocolată fină după ce ați pedalat.",
+            "en": "Reward yourself with fine chocolate after some cycling."
+          }
+        },
+        {
+          "name": "Escalier de la Paix",
+          "coords": [
+            5.862,
+            50.591
+          ],
+          "category": "landmark",
+          "arrive_at": "16:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von oben als Abschluss der Tour.",
+            "hu": "Élvezze a kilátást fentről, tökéletes zárása a túrának.",
+            "ro": "Bucurați-vă de priveliștea de sus ca final de tur.",
+            "en": "Enjoy the view from the top as a lovely end to the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Verviers beginnt am eleganten Hôtel de Ville und führt Sie schnell zur prächtigen Fontaine Ortmans. Weiter geht es zur Église Saint-Remacle und vorbei am historischen Theater. Gegen Mittag entspannen Sie im grünen Parc de l'Harmonie. Am Nachmittag radeln Sie zum informativen Centre de la Laine und zur verführerischen Chocolaterie Darcis. Der Ausflug endet mit einem schönen Blick an der Escalier de la Paix.",
+        "hu": "A verviers-i biciklitúra az elegáns Városházától indul, és hamar eléri a lenyűgöző Ortmans-kutat. Ezután a hatalmas Saint-Remacle templomhoz tekerhet, érintve a klasszikus színházat is. Délben pihenjen egyet a Parc de l'Harmonie árnyas fái alatt. Délután a helyi textilipari múzeumot (Centre de la Laine) és a csábító Darcis csokoládégyárat érdemes meglátogatni. A túra a Békepaloták lépcsőinél zárul remek panorámával.",
+        "ro": "Turul dumneavoastră pe bicicletă în Verviers începe la elegantul Hôtel de Ville și continuă spre uimitoarea Fontaine Ortmans. Apoi pedalați spre masiva Église Saint-Remacle și teatrul istoric. La prânz, relaxați-vă în verdele Parc de l'Harmonie. După-amiaza este rezervată Centrului Lânii și delicioasei ciocolaterii Darcis. Ziua se încheie cu o priveliște minunată la Escalier de la Paix.",
+        "en": "Your bike tour through Verviers starts at the elegant Hôtel de Ville and quickly leads to the magnificent Fontaine Ortmans. Continue to the massive Église Saint-Remacle and past the historic theater. Around midday, relax in the leafy Parc de l'Harmonie. In the afternoon, cycle to the informative Wool Centre and the tempting Darcis chocolate factory. The trip concludes with a fine view at the Escalier de la Paix."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Süße Energie für Radfahrer."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Probieren Sie hier Tarte au riz für unterwegs."
+          },
+          {
+            "name": "Cafés am Platz",
+            "tip": "Erfrischen Sie sich mit einem lokalen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Édes energia a kerékpározáshoz."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Vigyen magával egy kis rizstortát az útra."
+          },
+          {
+            "name": "Főtéri kávézók",
+            "tip": "Frissítse fel magát egy pohár belga sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Energie dulce perfectă pentru bicicliști."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Luați la pachet o Tarte au riz tradițională."
+          },
+          {
+            "name": "Cafenele în piață",
+            "tip": "Răcoriți-vă cu o bere locală delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Sweet energy boost for cyclists."
+          },
+          {
+            "name": "Boulangerie locale",
+            "tip": "Pick up a Tarte au riz to take on your ride."
+          },
+          {
+            "name": "Square cafes",
+            "tip": "Refresh yourself with a cold local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Perfekt für eine ausgiebige Radpause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre-Radweg",
+            "tip": "Entspannte Strecke entlang des Wassers.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Ruhiger Aussichtspunkt für den späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Tökéletes helyszín egy hosszabb biciklis pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre folyóparti út",
+            "tip": "Kellemes, nyugodt szakasz a víz mentén.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Csendes kilátópont a késő délutáni órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Loc excelent pentru o pauză lungă de la pedalat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pista de biciclete Vesdre",
+            "tip": "Un traseu relaxant pe malul apei.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Punct de belvedere liniștit spre finalul zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Perfect spot for a long cycling break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vesdre cycle path",
+            "tip": "Relaxed route right along the water.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Peaceful viewpoint in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Schokolade sicher im Rucksack verstauen!"
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte, wenn Sie vormittags radeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "A csokoládét biztonságosan pakolja a hátizsákba!"
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek frissen, délelőtti látogatás esetén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Asigurați ciocolata în rucsac la loc răcoros!"
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale proaspete dacă mergeți dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Stow your chocolate safely in a cool backpack!"
+          },
+          {
+            "name": "Weekly market",
+            "tip": "Fresh local produce if you are riding in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt gute Radwege, aber Vorsicht beim Überqueren der belebten Straßen.",
+          "Einige Steigungen machen E-Bikes zu einer guten Wahl.",
+          "Schließen Sie Ihr Rad immer gut ab, besonders in der Innenstadt.",
+          "Die Uferwege an der Vesdre sind flach und sehr angenehm zu fahren."
+        ],
+        "hu": [
+          "A városban jó kerékpárutak vannak, de a forgalmas csomópontoknál legyen óvatos.",
+          "Az emelkedők miatt az e-bike nagyon praktikus választás lehet Verviers-ben.",
+          "Mindig zárja le biztonságosan a kerékpárt a belvárosban.",
+          "A Vesdre folyó menti utak síkak és kellemes tekerést biztosítanak."
+        ],
+        "ro": [
+          "Există piste bune pentru biciclete, dar atenție la intersecțiile aglomerate.",
+          "Datorită dealurilor, bicicletele electrice sunt o alegere înțeleaptă.",
+          "Asigurați-vă întotdeauna bicicleta cu un antifurt solid în centru.",
+          "Căile de-a lungul râului Vesdre sunt plate și foarte plăcute pentru pedalat."
+        ],
+        "en": [
+          "There are good cycle paths, but take care when crossing busy intersections.",
+          "Due to some hills, e-bikes are a highly recommended choice here.",
+          "Always lock your bike securely when exploring the city center.",
+          "The paths along the Vesdre river are flat and offer a very pleasant ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            5.8631,
+            50.5932
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier zentral und erkunden Sie den historischen Platz.",
+            "hu": "Parkoljon le központilag, és fedezze fel a történelmi teret.",
+            "ro": "Parcați central aici și explorați piața istorică.",
+            "en": "Park centrally here to explore the historic main square."
+          }
+        },
+        {
+          "name": "Fontaine Ortmans",
+          "coords": [
+            5.865,
+            50.5925
+          ],
+          "category": "monument",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Rathaus zu diesem prächtigen Brunnen.",
+            "hu": "Rövid séta a városházától ehhez a pompás szökőkúthoz.",
+            "ro": "O scurtă plimbare de la primărie până la această fântână.",
+            "en": "A short walk from the town hall to this magnificent fountain."
+          }
+        },
+        {
+          "name": "Église Saint-Remacle",
+          "coords": [
+            5.866,
+            50.594
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Noch immer im selben Viertel, bewundern Sie das Kircheninnere.",
+            "hu": "Ugyanabban a negyedben csodálja meg a hatalmas templombelsőt.",
+            "ro": "Rămâneți în același cartier și admirați interiorul bisericii.",
+            "en": "Still in the same cluster, admire the grand church interior."
+          }
+        },
+        {
+          "name": "Centre de la Laine et de la Mode",
+          "coords": [
+            5.858,
+            50.59
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Viertel, Parkplätze am Museum vorhanden.",
+            "hu": "Vezessen át a következő negyedbe, a múzeumnál van parkoló.",
+            "ro": "Conduceți spre următorul cartier, există parcare la muzeu.",
+            "en": "Drive to the next district; parking is available at the museum."
+          }
+        },
+        {
+          "name": "Chocolaterie Darcis",
+          "coords": [
+            5.85,
+            50.589
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Museum hierher für eine süße Pause.",
+            "hu": "Sétáljon át a múzeumtól egy kis édes pihenőre.",
+            "ro": "Faceți o scurtă plimbare de la muzeu pentru o pauză dulce.",
+            "en": "Walk over from the museum for a sweet chocolate break."
+          }
+        },
+        {
+          "name": "Escalier de la Paix",
+          "coords": [
+            5.862,
+            50.591
+          ],
+          "category": "landmark",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum südlichen Viertel, tolle Aussicht von den Treppen.",
+            "hu": "Utazás a déli negyedbe, nagyszerű kilátás a lépcsőkről.",
+            "ro": "Conduceți spre zona sudică, vedere excelentă de pe trepte.",
+            "en": "Drive to the southern cluster, great view from the stairs."
+          }
+        },
+        {
+          "name": "Parc de l'Harmonie",
+          "coords": [
+            5.87,
+            50.59
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt im nahegelegenen Park.",
+            "hu": "Zárja a napot nyugodtan a közeli zöld parkban.",
+            "ro": "Încheiați ziua relaxându-vă în parcul din apropiere.",
+            "en": "End the day peacefully with a stroll in the nearby park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Verviers in praktischen Etappen. Sie starten im Zentrum am Hôtel de Ville, wo Sie zu Fuß die Fontaine Ortmans und die imposante Église Saint-Remacle besichtigen. Anschließend fahren Sie zum westlichen Viertel und besuchen das Centre de la Laine sowie die nahegelegene Chocolaterie Darcis. Der Nachmittag bringt Sie zu einem Aussichtspunkt an der Escalier de la Paix und endet mit einem ruhigen Spaziergang im Parc de l'Harmonie.",
+        "hu": "Autóval praktikus klaszterekben fedezheti fel Verviers-t. A központban, a Városházánál parkolva sétálhat el az Ortmans-kúthoz és a Saint-Remacle templomhoz. Ezután vezessen át a nyugati negyedbe, ahol a Gyapjúközpont és a közeli Darcis csokoládégyár várja. Délután utazzon a Békepaloták lépcsőihez a szép kilátásért, majd zárja a napot egy levezető sétával a Parc de l'Harmonie zöldjében.",
+        "ro": "Cu mașina, explorați Verviers în etape convenabile. Începeți în centru, parcând la Hôtel de Ville pentru a vedea Fontaine Ortmans și Église Saint-Remacle pe jos. Apoi, conduceți spre zona de vest pentru a vizita Centrul Lânii și ciocolateria Darcis. După-amiaza, o scurtă călătorie vă duce la Escalier de la Paix pentru priveliști, terminând ziua liniștit în Parc de l'Harmonie.",
+        "en": "Using your car, you'll explore Verviers in convenient clusters. Start downtown at the Hôtel de Ville, where you can walk to the Fontaine Ortmans and the impressive Église Saint-Remacle. Next, drive to the western district to visit the Wool Centre and the nearby Darcis chocolate factory. In the afternoon, a short drive brings you to the Escalier de la Paix for great views, ending peacefully in Parc de l'Harmonie."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Schokolade ist das beste Souvenir für Zuhause."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Typische regionale Fleischbällchen für ein deftiges Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "A csokoládé a legjobb szuvenír hazavinni."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Tipikus regionális húsgombócok egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Ciocolata este cel mai bun suvenir pentru acasă."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Chiftele regionale tipice pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Chocolate makes the perfect souvenir to take home."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Typical regional meatballs for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Entspannung abseits der belebten Straßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Ruhiger Blick über die Stadt am Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Pihenés távol a forgalmas utaktól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Nyugodt panoráma a város felett délután.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Relaxare departe de străzile aglomerate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "O priveliște liniștită a orașului după-amiaza.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Relaxation away from the busy streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Escalier de la Paix",
+            "tip": "Quiet afternoon panorama over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Hochwertige Pralinen direkt vom Meister."
+          },
+          {
+            "name": "Rue du Brou",
+            "tip": "Zentrale Einkaufsstraße, am besten zu Fuß vom Rathaus aus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Prémium pralinék egyenesen a mestertől."
+          },
+          {
+            "name": "Rue du Brou",
+            "tip": "Központi bevásárlóutca, a városházától sétálva érdemes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Praline premium direct de la maestru."
+          },
+          {
+            "name": "Rue du Brou",
+            "tip": "Strada centrală de magazine, accesibilă pe jos de la primărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Darcis Boutique",
+            "tip": "Premium pralines straight from the master."
+          },
+          {
+            "name": "Rue du Brou",
+            "tip": "Central shopping street, best accessed on foot from City Hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parksystem in Verviers nutzt Zonen, achten Sie auf die Beschilderung.",
+          "Lassen Sie das Auto an den Clustern stehen, das Zentrum ist kompakt genug für Fußwege.",
+          "An Wochenenden kann die Parkplatzsuche in der Innenstadt etwas Zeit erfordern.",
+          "Planen Sie für den Besuch der Schokoladenfabrik genug Platz im Kofferraum ein."
+        ],
+        "hu": [
+          "A város parkolási zónákat használ, mindig ellenőrizze a táblákat.",
+          "Hagyja az autót a csomópontoknál, a központ elég kompakt a sétához.",
+          "Hétvégén a belvárosi parkolóhelyek gyorsan betelnek, érkezzen korán.",
+          "A csokoládégyár látogatása után jól jön a hűvös csomagtartó a vásárolt édességeknek."
+        ],
+        "ro": [
+          "Sistemul de parcare din Verviers folosește zone tarifare, verificați indicatoarele.",
+          "Lăsați mașina la punctele de oprire; centrul este destul de compact pentru mersul pe jos.",
+          "În weekend, găsirea unui loc de parcare central poate dura ceva timp.",
+          "Pentru cumpărăturile de la fabrica de ciocolată, păstrați portbagajul răcoros."
+        ],
+        "en": [
+          "The parking system in Verviers uses paid zones; always check the signs.",
+          "Leave your car at the cluster points; the central area is compact enough for walking.",
+          "On weekends, finding central parking might require a bit of patience.",
+          "Ensure your car is cool before loading up on edible souvenirs from the chocolate factory."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Grand Théâtre de Verviers",
+          "coords": [
+            5.8645,
+            50.595
+          ],
+          "category": "theatre",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am historischen Theatergebäude im Zentrum.",
+            "hu": "Kezdje a túrát a történelmi színházépületnél a városközpontban.",
+            "ro": "Începeți turul la clădirea istorică a teatrului din centru.",
+            "en": "Start your tour at the historic theatre building in the center."
+          }
+        },
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            5.8631,
+            50.5932
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang entfernt liegt das imposante Rathaus.",
+            "hu": "Csak egy rövid sétára található a lenyűgöző városháza.",
+            "ro": "La o scurtă plimbare se află primăria impresionantă.",
+            "en": "Just a short walk away is the impressive city hall."
+          }
+        },
+        {
+          "name": "Fontaine Ortmans",
+          "coords": [
+            5.865,
+            50.5925
+          ],
+          "category": "monument",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Stopp im Zentrum bei dieser grandiosen Wasserquelle.",
+            "hu": "Még egy utolsó megálló a központban ennél a nagyszerű szökőkútnál.",
+            "ro": "O ultimă oprire în centru la această fântână grandioasă.",
+            "en": "One last central stop at this grandiose water feature."
+          }
+        },
+        {
+          "name": "Centre de la Laine et de la Mode",
+          "coords": [
+            5.858,
+            50.59
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins südwestliche Viertel zur Textilgeschichte.",
+            "hu": "Busszal utazzon a délnyugati negyedbe a textilipari múzeumhoz.",
+            "ro": "Luați autobuzul spre sud-vest pentru istoria textilelor.",
+            "en": "Take the bus to the southwest district for textile history."
+          }
+        },
+        {
+          "name": "Chocolaterie Darcis",
+          "coords": [
+            5.85,
+            50.589
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß zur Schokoladenfabrik für eine wohlverdiente Pause.",
+            "hu": "Sétáljon át a csokoládégyárhoz egy jól megérdemelt pihenőre.",
+            "ro": "Mergeți pe jos la fabrica de ciocolată pentru o pauză dulce.",
+            "en": "Walk over to the chocolate factory for a well-deserved break."
+          }
+        },
+        {
+          "name": "Église Saint-Remacle",
+          "coords": [
+            5.866,
+            50.594
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahrt zurück Richtung Osten zur riesigen neoromanischen Kirche.",
+            "hu": "Utazás vissza kelet felé a hatalmas neoromán templomhoz.",
+            "ro": "Mergeți înapoi spre est către biserica uriașă neoromanică.",
+            "en": "Transit back eastward to the massive neo-Romanesque church."
+          }
+        },
+        {
+          "name": "Parc de l'Harmonie",
+          "coords": [
+            5.87,
+            50.59
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannender Spaziergang zum Park, um den Tag ausklingen zu lassen.",
+            "hu": "Levezető séta a parkba a nap nyugodt lezárásaként.",
+            "ro": "O plimbare relaxantă până în parc pentru a încheia ziua.",
+            "en": "A relaxing walk to the park to peacefully wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Nahverkehr, um Verviers bequem zu besichtigen. Ihr Tag beginnt zentral am Grand Théâtre, woraufhin Sie das Hôtel de Ville und die Fontaine Ortmans zu Fuß entdecken. Mittags bringt Sie der Bus entspannt zum Centre de la Laine und zur nahegelegenen Chocolaterie Darcis. Am Nachmittag fahren Sie in den östlichen Teil, um die prächtige Église Saint-Remacle zu bewundern, und beenden den Ausflug mit einem Spaziergang im Parc de l'Harmonie.",
+        "hu": "A helyi buszokkal kényelmesen felfedezheti Verviers látnivalóit. A nap a központi Grand Théâtre-nál kezdődik, ahonnan elsétálhat a Városházához és az Ortmans-kúthoz. Délben busszal utazhat át a délnyugati városrészbe, ahol a Gyapjúközpont és a közeli Darcis csokoládégyár várja. Délután utazzon vissza a keleti részbe a hatalmas Saint-Remacle templomhoz, majd zárja a napot a Parc de l'Harmonie árnyékában.",
+        "ro": "Folosind transportul public, vizitați Verviers confortabil. Ziua începe central la Grand Théâtre, de unde mergeți la Hôtel de Ville și Fontaine Ortmans. La prânz, autobuzul vă duce la Centrul Lânii și la ciocolateria Darcis. După-amiaza, călătoriți în partea de est pentru a admira impresionanta Église Saint-Remacle și a vă relaxa în Parc de l'Harmonie.",
+        "en": "Using local transit is a convenient way to see Verviers. Start centrally at the Grand Théâtre, walking easily to the Hôtel de Ville and Fontaine Ortmans. At midday, take a bus to the southwest district for the Wool Centre and a sweet stop at the Darcis chocolate factory. In the afternoon, transit to the eastern side to admire the grand Église Saint-Remacle before ending your trip in Parc de l'Harmonie."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Perfektes Ziel nach einer Busfahrt aus dem Zentrum."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Gute traditionelle Gerichte nahe der zentralen Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Tökéletes célpont egy rövid buszozás után."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Hagyományos fogások a központi megállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "Destinația perfectă după o călătorie scurtă cu autobuzul."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Mâncăruri tradiționale bune lângă stațiile centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolaterie Darcis",
+            "tip": "A perfect destination after a short bus ride from the center."
+          },
+          {
+            "name": "Brasserie des Ardennes",
+            "tip": "Good traditional dishes near the main central stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Viel Grün am Ende eines ereignisreichen Tages.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchenschiff St. Remacle",
+            "tip": "Beeindruckende Stille im Inneren der Kirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Rengeteg zöldfelület egy eseménydús nap végén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Remacle hajója",
+            "tip": "Lenyűgöző csend a templom belsejében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Mult verdeț la sfârșitul unei zile pline.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nava St. Remacle",
+            "tip": "O liniște impresionantă în interiorul bisericii.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Harmonie",
+            "tip": "Lots of greenery at the end of a busy day.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Remacle Nave",
+            "tip": "Impressive silence inside the massive church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue du Brou",
+            "tip": "Die meisten Geschäfte liegen direkt an den zentralen Buslinien."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Nehmen Sie edle Pralinen direkt mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Brou",
+            "tip": "A legtöbb üzlet a központi buszvonalak mentén található."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Vigyen haza finom pralinékat közvetlenül a gyárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue du Brou",
+            "tip": "Majoritatea magazinelor sunt chiar pe rutele centrale de autobuz."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Luați acasă praline rafinate direct din fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue du Brou",
+            "tip": "Most shops are located right along the central bus routes."
+          },
+          {
+            "name": "Darcis Boutique",
+            "tip": "Take home fine pralines directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Busse (TEC), um flexibel zu bleiben.",
+          "Die Busfrequenzen sind an Wochentagen am höchsten, am Wochenende seltener.",
+          "Die Bushaltestellen im Zentrum decken fast alle wichtigen Sehenswürdigkeiten ab.",
+          "Planen Sie etwas Wartezeit bei den Verbindungen zwischen den Vierteln ein."
+        ],
+        "hu": [
+          "Érdemes napijegyet venni a helyi (TEC) buszokra a rugalmasság érdekében.",
+          "Hétköznap sűrűbben járnak a buszok, hétvégén ellenőrizze a menetrendet.",
+          "A központi buszmegállók szinte minden fontosabb látnivalót lefednek.",
+          "A különböző negyedek közötti utazásnál számoljon egy kis várakozási idővel."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuzele locale (TEC) pentru flexibilitate.",
+          "Autobuzele sunt mai frecvente în timpul săptămânii, verificați orarul în weekend.",
+          "Stațiile centrale de autobuz acoperă aproape toate obiectivele majore.",
+          "Alocați timp de așteptare pentru conexiunile dintre diferitele cartiere."
+        ],
+        "en": [
+          "Consider buying a day pass for the local buses (TEC) for ultimate flexibility.",
+          "Bus frequencies are higher on weekdays; be sure to check weekend schedules.",
+          "Central bus stops cover almost all major sights conveniently.",
+          "Factor in a little waiting time when connecting between different districts."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1215 @@
+{
+  "city_id": "gaziantep-cities-v2",
+  "anchor": {
+    "name": "Gaziantep",
+    "coords": [
+      37.3833,
+      37.0662
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "hu": "Bakırcılar Çarşısı (Rézműves Bazár)",
+            "ro": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "en": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)"
+          },
+          "coords": [
+            37.0675,
+            37.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Feilschen Sie respektvoll; es gehört zur Kultur.",
+            "hu": "Alkuozz tisztelettudóan, ez a kultúra része.",
+            "ro": "Negociați cu respect; face parte din cultură.",
+            "en": "Bargain respectfully; it's part of the culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zincirli Bedesten",
+            "hu": "Zincirli Bedesten",
+            "ro": "Zincirli Bedesten",
+            "en": "Zincirli Bedesten"
+          },
+          "coords": [
+            37.0682,
+            37.3848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach handgemachten Gewürzen und Pistazien.",
+            "hu": "Keress kézműves fűszereket és pisztáciát.",
+            "ro": "Căutați condimente artizanale și fistic.",
+            "en": "Look for handmade spices and pistachios."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulinarisches Museum Emine Göğüş",
+            "hu": "Emine Göğüş Kulináris Múzeum",
+            "ro": "Muzeul Culinar Emine Göğüş",
+            "en": "Emine Göğüş Culinary Museum"
+          },
+          "coords": [
+            37.0695,
+            37.3875
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie Ihr Mittagessen nach dem Besuch, es wird Sie inspirieren!",
+            "hu": "A látogatás utánra tervezd az ebédet, inspirálni fog!",
+            "ro": "Planificați-vă prânzul după vizită, vă va inspira!",
+            "en": "Plan your lunch after the visit; it will inspire you!"
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gaziantep",
+            "hu": "Gaziantep Vára",
+            "ro": "Castelul din Gaziantep",
+            "en": "Gaziantep Castle"
+          },
+          "coords": [
+            37.0667,
+            37.3833
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Panoramablick von den Mauern ist bei Sonnenuntergang am besten.",
+            "hu": "A falakról nyíló panoráma naplementekor a legszebb.",
+            "ro": "Priveliștea panoramică de pe ziduri este cea mai frumoasă la apus.",
+            "en": "The panoramic view from the walls is best at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeugma-Mosaik-Museum",
+            "hu": "Zeugma Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Zeugma",
+            "en": "Zeugma Mosaic Museum"
+          },
+          "coords": [
+            37.0581,
+            37.3851
+          ],
+          "category": "museums",
+          "arrive_at": "14:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das berühmte 'Zigeunermädchen'-Mosaik.",
+            "hu": "Ne hagyd ki a híres 'Cigánylány' mozaikot.",
+            "ro": "Nu ratați faimosul mozaic 'Fata țigancă'.",
+            "en": "Don't miss the famous 'Gypsy Girl' mosaic."
+          }
+        },
+        {
+          "name": {
+            "de": "Befreiungsmoschee",
+            "hu": "Felszabadulás Mecset",
+            "ro": "Moscheea Eliberării",
+            "en": "Liberation Mosque"
+          },
+          "coords": [
+            37.063,
+            37.389
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die Umwandlung von einer Kirche in eine Moschee.",
+            "hu": "Figyeld meg, hogyan alakították át templomból mecsetté.",
+            "ro": "Observați transformarea dintr-o biserică într-o moschee.",
+            "en": "Notice the transformation from a church to a mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayazhan-Museum",
+            "hu": "Bayazhan Múzeum",
+            "ro": "Muzeul Bayazhan",
+            "en": "Bayazhan Museum"
+          },
+          "coords": [
+            37.0592,
+            37.3812
+          ],
+          "category": "museums",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bleiben Sie für ein Abendessen im Innenhof des Restaurants.",
+            "hu": "Maradj vacsorára az étterem udvarán.",
+            "ro": "Rămâneți pentru cină în curtea restaurantului.",
+            "en": "Stay for dinner in the restaurant's courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Labyrinth des Bakırcılar Çarşısı, wo der Klang von Hämmern auf Kupfer die Luft erfüllt. Erkunden Sie den historischen Zincirli Bedesten und tauchen Sie im Kulinarischen Museum in die Aromen von Gaziantep ein. Am Nachmittag steigen Sie zur majestätischen Burg von Gaziantep hinauf und bewundern die atemberaubenden Mosaike im Zeugma-Museum. Beenden Sie Ihren Tag mit einem Moment der Besinnung in der Befreiungsmoschee und einem köstlichen Abendessen im historischen Bayazhan.",
+        "hu": "Kezdje a napot a Bakırcılar Çarşısı labirintusában, ahol a rézkalapácsok hangja tölti be a levegőt. Fedezze fel a történelmi Zincirli Bedesten-t és merüljön el Gaziantep ízeiben a Kulináris Múzeumban. Délután másszon fel a fenséges Gaziantep Várába, majd csodálja meg a lélegzetelállító mozaikokat a Zeugma Múzeumban. Zárja a napot egy csendes pillanattal a Felszabadulás Mecsetben és egy finom vacsorával a történelmi Bayazhan-ban.",
+        "ro": "Începeți ziua în labirintul din Bakırcılar Çarşısı, unde sunetul ciocanelor pe cupru umple aerul. Explorați istoricul Zincirli Bedesten și pătrundeți în aromele din Gaziantep la Muzeul Culinar. După-amiaza, urcați la majestuosul Castel Gaziantep și admirați mozaicurile uimitoare de la Muzeul Zeugma. Încheiați-vă ziua cu un moment de reflecție la Moscheea Eliberării și o cină delicioasă la istoricul Bayazhan.",
+        "en": "Start your day in the labyrinth of Bakırcılar Çarşısı, where the sound of hammers on copper fills the air. Explore the historic Zincirli Bedesten and dive into Gaziantep's flavors at the Culinary Museum. In the afternoon, ascend to the majestic Gaziantep Castle and marvel at the stunning mosaics in the Zeugma Museum. End your day with a moment of reflection at the Liberation Mosque and a delicious dinner at the historic Bayazhan."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ali Nazik Kebab",
+            "tip": "Zartes Lamm auf einem Bett aus rauchigem Auberginenpüree mit Joghurt. Ein lokaler Favorit."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Gaziantep ist die Hauptstadt des Baklavas. Probieren Sie es bei İmam Çağdaş."
+          },
+          {
+            "name": "Beyran Çorbası",
+            "tip": "Eine würzige Lammsuppe, die oft zum Frühstück gegessen wird, um den Tag zu beginnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ali Nazik Kebab",
+            "tip": "Omlós bárányhús füstös padlizsánpürén, joghurttal. Helyi kedvenc."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Gaziantep a baklava fővárosa. Kóstold meg az İmam Çağdaş-nál."
+          },
+          {
+            "name": "Beyran Çorbası",
+            "tip": "Fűszeres bárányleves, amit gyakran reggelire esznek a nap indításaként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ali Nazik Kebab",
+            "tip": "Miel fraged pe un pat de piure de vinete afumate cu iaurt. Un favorit local."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Gaziantep este capitala baklavei. Încercați-o la İmam Çağdaş."
+          },
+          {
+            "name": "Beyran Çorbası",
+            "tip": "O supă picantă de miel, adesea consumată la micul dejun pentru a începe ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ali Nazik Kebab",
+            "tip": "Tender lamb on a bed of smoky eggplant puree with yogurt. A local favorite."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Gaziantep is the capital of baklava. Try it at İmam Çağdaş."
+          },
+          {
+            "name": "Beyran Çorbası",
+            "tip": "A spicy lamb soup, often eaten for breakfast to start the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gaziantep Burg",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern, um die Stadt von oben zu betrachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaziantep Vára",
+            "tip": "Keress egy csendes zugot a falakon, ahonnan fentről szemlélheted a várost.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Gaziantep",
+            "tip": "Găsiți un colț liniștit pe ziduri pentru a privi orașul de sus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaziantep Castle",
+            "tip": "Find a quiet corner on the walls to watch the city from above.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kupferwaren",
+            "tip": "Handgefertigte Töpfe, Tabletts und Dekorationen vom Kupferschmiedebasar."
+          },
+          {
+            "name": "Pistazien",
+            "tip": "Die besten Pistazien der Türkei finden Sie hier in jeder Form."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rézáruk",
+            "tip": "Kézzel készített edények, tálcák és dísztárgyak a Rézműves Bazárból."
+          },
+          {
+            "name": "Pisztácia",
+            "tip": "Törökország legjobb pisztáciáját itt minden formában megtalálod."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din cupru",
+            "tip": "Oale, tăvi și decorațiuni lucrate manual din Bazarul Arămarilor."
+          },
+          {
+            "name": "Fistic",
+            "tip": "Cel mai bun fistic din Turcia poate fi găsit aici sub toate formele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Copperware",
+            "tip": "Handmade pots, trays, and decorations from the Coppersmiths' Bazaar."
+          },
+          {
+            "name": "Pistachios",
+            "tip": "The best pistachios in Turkey can be found here in every form."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Bleiben Sie hydriert, besonders in den Sommermonaten.",
+          "Verlieren Sie sich in den kleineren Gassen rund um die Hauptbasare für unerwartete Entdeckungen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "Fogyassz elegendő folyadékot, különösen a nyári hónapokban.",
+          "Vessz el a fő bazárok körüli kisebb sikátorokban a váratlan felfedezésekért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pietrele pot fi denivelate.",
+          "Rămâneți hidratat, mai ales în lunile de vară.",
+          "Pierdeți-vă pe aleile mai mici din jurul bazarelor principale pentru descoperiri neașteptate."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Stay hydrated, especially during the summer months.",
+          "Get lost in the smaller alleys around the main bazaars for unexpected finds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zeugma-Mosaik-Museum",
+            "hu": "Zeugma Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Zeugma",
+            "en": "Zeugma Mosaic Museum"
+          },
+          "coords": [
+            37.0581,
+            37.3851
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Details; jedes Mosaik erzählt eine Geschichte.",
+            "hu": "Szánj időt a részletekre, minden mozaik egy történetet mesél el.",
+            "ro": "Acordați-vă timp pentru detalii; fiecare mozaic spune o poveste.",
+            "en": "Take time for the details; each mosaic tells a story."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayazhan-Museum",
+            "hu": "Bayazhan Múzeum",
+            "ro": "Muzeul Bayazhan",
+            "en": "Bayazhan Museum"
+          },
+          "coords": [
+            37.0592,
+            37.3812
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Stadtgeschichte in diesem wunderschön restaurierten Gasthaus.",
+            "hu": "Ismerd meg a város történetét ebben a gyönyörűen felújított karavánszerájban.",
+            "ro": "Aflați despre istoria orașului în acest han frumos restaurat.",
+            "en": "Learn about the city's history in this beautifully restored inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gaziantep",
+            "hu": "Gaziantep Vára",
+            "ro": "Castelul din Gaziantep",
+            "en": "Gaziantep Castle"
+          },
+          "coords": [
+            37.0667,
+            37.3833
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Verteidigungs- und Heldenpanorama-Museum im Inneren.",
+            "hu": "Látogass el a benne található Védelmi és Hősi Panoráma Múzeumba.",
+            "ro": "Vizitați Muzeul Panoramic al Apărării și Eroismului din interior.",
+            "en": "Visit the Defense and Heroism Panoramic Museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "hu": "Bakırcılar Çarşısı (Rézműves Bazár)",
+            "ro": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "en": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)"
+          },
+          "coords": [
+            37.0675,
+            37.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause in einem der vielen kleinen Lokale.",
+            "hu": "Ideális egy ebédszünetre a sok kis étkezde egyikében.",
+            "ro": "Ideal pentru o pauză de prânz la una dintre numeroasele mici restaurante.",
+            "en": "Perfect for a lunch break at one of the many small eateries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulinarisches Museum Emine Göğüş",
+            "hu": "Emine Göğüş Kulináris Múzeum",
+            "ro": "Muzeul Culinar Emine Göğüş",
+            "en": "Emine Göğüş Culinary Museum"
+          },
+          "coords": [
+            37.0695,
+            37.3875
+          ],
+          "category": "museums",
+          "arrive_at": "15:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse der weltberühmten Küche von Gaziantep.",
+            "hu": "Fedezd fel Gaziantep világhírű konyhájának titkait.",
+            "ro": "Descoperiți secretele bucătăriei de renume mondial din Gaziantep.",
+            "en": "Discover the secrets of Gaziantep's world-famous cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Befreiungsmoschee",
+            "hu": "Felszabadulás Mecset",
+            "ro": "Moscheea Eliberării",
+            "en": "Liberation Mosque"
+          },
+          "coords": [
+            37.063,
+            37.389
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Respektieren Sie die Gebetszeiten; der Eintritt ist für Besucher sonst frei.",
+            "hu": "Tartsd tiszteletben az imaidőket; egyébként a belépés ingyenes a látogatóknak.",
+            "ro": "Respectați orele de rugăciune; intrarea este altfel gratuită pentru vizitatori.",
+            "en": "Respect prayer times; entry is otherwise free for visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am beeindruckenden Zeugma-Mosaik-Museum und radeln Sie dann zum historischen Bayazhan. Erklimmen Sie den Hügel zur Burg von Gaziantep für eine Geschichtsstunde und einen Panoramablick. Gönnen Sie sich eine lange Mittagspause und Shopping auf dem lebhaften Kupferschmiedebasar. Tauchen Sie anschließend im Kulinarischen Museum tiefer in die lokale Gastronomie ein und beenden Sie den Tag in der ruhigen Atmosphäre der Befreiungsmoschee.",
+        "hu": "Kezdje a kerékpártúrát a lenyűgöző Zeugma Mozaikmúzeumnál, majd tekerjen el a történelmi Bayazhan-hoz. Másszon fel a hegyre a Gaziantep Várához egy történelemlecke és panorámás kilátás érdekében. Tartson egy hosszú ebédszünetet és vásároljon a nyüzsgő Rézműves Bazárban. Ezután merüljön el mélyebben a helyi gasztronómiában a Kulináris Múzeumban, és fejezze be a napot a Felszabadulás Mecset békés légkörében.",
+        "ro": "Începeți turul pe bicicletă la impresionantul Muzeu de Mozaic Zeugma, apoi pedalați spre istoricul Bayazhan. Urcați dealul până la Castelul Gaziantep pentru o lecție de istorie și vederi panoramice. Acordați-vă o pauză lungă de prânz și cumpărături în animatul Bazar al Arămarilor. Apoi, aprofundați gastronomia locală la Muzeul Culinar și încheiați ziua în atmosfera liniștită a Moscheei Eliberării.",
+        "en": "Start your bike tour at the impressive Zeugma Mosaic Museum, then cycle to the historic Bayazhan. Climb the hill to Gaziantep Castle for a history lesson and panoramic views. Treat yourself to a long lunch break and shopping at the bustling Coppersmiths' Bazaar. Afterwards, delve deeper into local gastronomy at the Culinary Museum and end the day in the peaceful atmosphere of the Liberation Mosque."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katmer",
+            "tip": "Ein dünnes, flockiges Gebäck mit Pistazien und Clotted Cream, traditionell zum Frühstück gegessen."
+          },
+          {
+            "name": "Simit Kebabı",
+            "tip": "Ein einzigartiger Kebab aus Bulgur und Hackfleisch, der auf einem Spieß gegrillt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katmer",
+            "tip": "Vékony, pelyhes tészta pisztáciával és 'clotted cream'-mel, hagyományosan reggelire fogyasztják."
+          },
+          {
+            "name": "Simit Kebabı",
+            "tip": "Egyedülálló kebab bulgurból és darált húsból, nyárson grillezve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Katmer",
+            "tip": "O patiserie subțire, foietaj, cu fistic și smântână, consumată tradițional la micul dejun."
+          },
+          {
+            "name": "Simit Kebabı",
+            "tip": "Un kebab unic făcut din bulgur și carne tocată, la grătar pe o frigăruie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Katmer",
+            "tip": "A thin, flaky pastry with pistachios and clotted cream, traditionally eaten for breakfast."
+          },
+          {
+            "name": "Simit Kebabı",
+            "tip": "A unique kebab made with bulgur and minced meat, grilled on a skewer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Innenhof der Befreiungsmoschee",
+            "tip": "Ein friedlicher Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Felszabadulás Mecset udvara",
+            "tip": "Békés hely a város nyüzsgésétől való elvonulásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Moscheei Eliberării",
+            "tip": "Un loc pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The courtyard of the Liberation Mosque",
+            "tip": "A peaceful spot to escape the city's hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Yemeni-Sandalen",
+            "tip": "Handgefertigte Lederschuhe, ein traditionelles Handwerk der Region."
+          },
+          {
+            "name": "Lokale Gewürze",
+            "tip": "Kaufen Sie Sumach und Isot-Pfeffer direkt von der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Yemeni szandál",
+            "tip": "Kézzel készített bőrcipő, a régió hagyományos mestersége."
+          },
+          {
+            "name": "Helyi fűszerek",
+            "tip": "Vásárolj szumákot és isot paprikát egyenesen a forrásból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandale Yemeni",
+            "tip": "Pantofi din piele lucrați manual, o meșteșug tradițional al regiunii."
+          },
+          {
+            "name": "Condimente locale",
+            "tip": "Cumpărați sumac și piper isot direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yemeni sandals",
+            "tip": "Handmade leather shoes, a traditional craft of the region."
+          },
+          {
+            "name": "Local spices",
+            "tip": "Buy sumac and isot pepper straight from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Seien Sie im Verkehr vorsichtig; die Regeln können flexibel sein.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab, besonders in der Nähe von Touristenattraktionen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat.",
+          "Légy óvatos a forgalomban; a szabályok rugalmasak lehetnek.",
+          "Zárd le a kerékpárodat biztonságos helyen, különösen a turisztikai látványosságok közelében."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Fiți atenți în trafic; regulile pot fi flexibile.",
+          "Încuiați-vă bicicleta în locuri sigure, mai ales în apropierea atracțiilor turistice."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Be cautious in traffic; rules can be flexible.",
+          "Lock your bike in secure places, especially near tourist attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zeugma-Mosaik-Museum",
+            "hu": "Zeugma Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Zeugma",
+            "en": "Zeugma Mosaic Museum"
+          },
+          "coords": [
+            37.0581,
+            37.3851
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Früh ankommen, um die Menschenmassen zu vermeiden und die Mosaike in Ruhe zu betrachten.",
+            "hu": "Érkezz korán, hogy elkerüld a tömeget és nyugalomban nézhesd a mozaikokat.",
+            "ro": "Ajungeți devreme pentru a evita mulțimile și a privi mozaicurile în liniște.",
+            "en": "Arrive early to avoid the crowds and view the mosaics in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayazhan-Museum",
+            "hu": "Bayazhan Múzeum",
+            "ro": "Muzeul Bayazhan",
+            "en": "Bayazhan Museum"
+          },
+          "coords": [
+            37.0592,
+            37.3812
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner kurzer Spaziergang vom Mosaikmuseum.",
+            "hu": "Kellemes, rövid séta a Mozaikmúzeumtól.",
+            "ro": "O plimbare scurtă și plăcută de la Muzeul de Mozaic.",
+            "en": "A lovely short walk from the Mosaic Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gaziantep",
+            "hu": "Gaziantep Vára",
+            "ro": "Castelul din Gaziantep",
+            "en": "Gaziantep Castle"
+          },
+          "coords": [
+            37.0667,
+            37.3833
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb des Schlosses und gehen Sie den Rest des Weges.",
+            "hu": "Parkolj a vár alatt, és sétálj fel a maradék úton.",
+            "ro": "Parcați sub castel și mergeți pe jos restul drumului.",
+            "en": "Park below the castle and walk the rest of the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulinarisches Museum Emine Göğüş",
+            "hu": "Emine Göğüş Kulináris Múzeum",
+            "ro": "Muzeul Culinar Emine Göğüş",
+            "en": "Emine Göğüş Culinary Museum"
+          },
+          "coords": [
+            37.0695,
+            37.3875
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie Ihr Mittagessen in der Umgebung nach dem Besuch.",
+            "hu": "A látogatás utánra tervezz ebédet a környéken.",
+            "ro": "Planificați-vă prânzul în zonă după vizită.",
+            "en": "Plan your lunch in the area after your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "hu": "Bakırcılar Çarşısı (Rézműves Bazár)",
+            "ro": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "en": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)"
+          },
+          "coords": [
+            37.0675,
+            37.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen und beobachten Sie die Handwerker bei der Arbeit.",
+            "hu": "Vessz el a sikátorokban, és figyeld a kézműveseket munka közben.",
+            "ro": "Pierdeți-vă pe alei și priviți artizanii la lucru.",
+            "en": "Get lost in the alleys and watch the artisans at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Zincirli Bedesten",
+            "hu": "Zincirli Bedesten",
+            "ro": "Zincirli Bedesten",
+            "en": "Zincirli Bedesten"
+          },
+          "coords": [
+            37.0682,
+            37.3848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um authentische Souvenirs zu kaufen.",
+            "hu": "Nagyszerű hely autentikus szuvenírek vásárlására.",
+            "ro": "Un loc minunat pentru a cumpăra suveniruri autentice.",
+            "en": "A great place to buy authentic souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Naib-Hamam",
+            "hu": "Naib Hamam",
+            "ro": "Hammamul Naib",
+            "en": "Naib Hamam"
+          },
+          "coords": [
+            37.07,
+            37.386
+          ],
+          "category": "historical",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Erwägen Sie ein entspannendes Bad am Ende des Tages.",
+            "hu": "Fontold meg egy pihentető fürdőt a nap végén.",
+            "ro": "Luați în considerare o baie relaxantă la sfârșitul zilei.",
+            "en": "Consider a relaxing bath at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ersten Cluster, dem Museumsviertel. Beginnen Sie mit den weltberühmten Mosaiken im Zeugma-Museum und spazieren Sie dann zum Bayazhan. Fahren Sie als Nächstes zur historischen Burg, parken Sie und erkunden Sie die Festung und die umliegende Altstadt zu Fuß, einschließlich des Kulinarischen Museums und der geschäftigen Basare. Schließen Sie den Tag mit einer kurzen Fahrt und einem entspannenden Erlebnis im historischen Naib-Hamam ab, eine perfekte Möglichkeit, sich nach einem erlebnisreichen Tag zu erholen.",
+        "hu": "Vezessen az első klaszterhez, a múzeumi negyedhez. Kezdje a világhírű mozaikokkal a Zeugma Múzeumban, majd sétáljon át a Bayazhan-hoz. Ezután vezessen a történelmi várhoz, parkoljon le, és fedezze fel gyalog az erődöt és a környező óvárost, beleértve a Kulináris Múzeumot és a nyüzsgő bazárokat. A napot egy rövid autózással és egy pihentető élménnyel zárja a történelmi Naib Hamamban, ami tökéletes kikapcsolódás egy mozgalmas nap után.",
+        "ro": "Conduceți spre primul grup, cartierul muzeelor. Începeți cu mozaicurile de renume mondial de la Muzeul Zeugma, apoi faceți o plimbare până la Bayazhan. Apoi, conduceți la castelul istoric, parcați și explorați cetatea și orașul vechi înconjurător pe jos, inclusiv Muzeul Culinar și bazarele aglomerate. Încheiați ziua cu o scurtă călătorie cu mașina și o experiență relaxantă la istoricul Hammam Naib, o modalitate perfectă de a vă relaxa după o zi plină.",
+        "en": "Drive to the first cluster, the museum district. Start with the world-famous mosaics at the Zeugma Museum, then take a stroll to Bayazhan. Next, drive to the historic castle, park, and explore the fortress and the surrounding old town on foot, including the Culinary Museum and the bustling bazaars. End the day with a short drive and a relaxing experience at the historic Naib Hamam, a perfect way to unwind after a busy day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lahmacun",
+            "tip": "Eine dünne, knusprige Pizza mit Hackfleisch, Tomaten und Kräutern. Probieren Sie sie bei Halil Usta."
+          },
+          {
+            "name": "Küşleme",
+            "tip": "Ein sehr zartes Lammfilet, eine seltene und geschätzte Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lahmacun",
+            "tip": "Vékony, ropogós 'pizza' darált hússal, paradicsommal és fűszernövényekkel. Kóstold meg a Halil Usta-nál."
+          },
+          {
+            "name": "Küşleme",
+            "tip": "Nagyon omlós báránybélszín, ritka és nagyra becsült finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lahmacun",
+            "tip": "O 'pizza' subțire și crocantă cu carne tocată, roșii și ierburi. Încercați-o la Halil Usta."
+          },
+          {
+            "name": "Küşleme",
+            "tip": "Un mușchi de miel foarte fraged, o delicatesă rară și prețuită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lahmacun",
+            "tip": "A thin, crispy 'pizza' with minced meat, tomatoes, and herbs. Try it at Halil Usta."
+          },
+          {
+            "name": "Küşleme",
+            "tip": "A very tender lamb fillet, a rare and prized delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Alleben-Teich",
+            "tip": "Eine kurze Autofahrt vom Zentrum entfernt, ein friedlicher Ort für einen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta az Alleben-tó körül",
+            "tip": "Rövid autóútra a központtól, békés hely egy sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe lângă iazul Alleben",
+            "tip": "La o scurtă călătorie cu mașina de centru, un loc pașnic pentru o plimbare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk by the Alleben Pond",
+            "tip": "A short drive from the center, a peaceful place for a walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Baklava-Boxen",
+            "tip": "Kaufen Sie Geschenkboxen mit verschiedenen Baklava-Sorten, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baklava dobozok",
+            "tip": "Vásárolj ajándékdobozokat különböző baklava fajtákkal, hogy hazavidd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cutii de Baklava",
+            "tip": "Cumpărați cutii cadou cu diverse sortimente de baklava pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baklava boxes",
+            "tip": "Buy gift boxes with assorted types of baklava to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in der Altstadt eine Herausforderung sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Laden Sie Offline-Karten herunter.",
+          "Achten Sie auf Einbahnstraßen in den engen Gassen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet az óvárosban; használj kijelölt parkolókat.",
+          "Tölts le offline térképeket.",
+          "Figyelj az egyirányú utcákra a szűk sikátorokban."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în orașul vechi; folosiți parcările desemnate.",
+          "Descărcați hărți offline.",
+          "Fiți atenți la străzile cu sens unic pe aleile înguste."
+        ],
+        "en": [
+          "Parking can be challenging in the old town; use designated parking lots.",
+          "Download offline maps.",
+          "Be aware of one-way streets in the narrow alleys."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "hu": "Bakırcılar Çarşısı (Rézműves Bazár)",
+            "ro": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "en": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)"
+          },
+          "coords": [
+            37.0675,
+            37.3855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, im Herzen des alten Gaziantep.",
+            "hu": "Kezdje itt, a régi Gaziantep szívében.",
+            "ro": "Începeți aici, în inima vechiului Gaziantep.",
+            "en": "Start here, in the heart of old Gaziantep."
+          }
+        },
+        {
+          "name": {
+            "de": "Zincirli Bedesten",
+            "hu": "Zincirli Bedesten",
+            "ro": "Zincirli Bedesten",
+            "en": "Zincirli Bedesten"
+          },
+          "coords": [
+            37.0682,
+            37.3848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptbasar, perfekt für Gewürze.",
+            "hu": "Rövid séta a fő bazártól, tökéletes fűszerekért.",
+            "ro": "O scurtă plimbare de la bazarul principal, perfect pentru condimente.",
+            "en": "A short walk from the main bazaar, perfect for spices."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Gaziantep",
+            "hu": "Gaziantep Vára",
+            "ro": "Castelul din Gaziantep",
+            "en": "Gaziantep Castle"
+          },
+          "coords": [
+            37.0667,
+            37.3833
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die Geschichte.",
+            "hu": "Megéri felmászni a kilátásért és a történelemért.",
+            "ro": "Urcușul merită pentru priveliște și istorie.",
+            "en": "The climb is worth it for the views and the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeugma-Mosaik-Museum",
+            "hu": "Zeugma Mozaikmúzeum",
+            "ro": "Muzeul de Mozaic Zeugma",
+            "en": "Zeugma Mosaic Museum"
+          },
+          "coords": [
+            37.0581,
+            37.3851
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus oder die Straßenbahn; es ist ein Muss.",
+            "hu": "Menj busszal vagy villamossal; ez egy kötelező látnivaló.",
+            "ro": "Luați autobuzul sau tramvaiul; este o vizită obligatorie.",
+            "en": "Take the bus or tram; it's a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayazhan-Museum",
+            "hu": "Bayazhan Múzeum",
+            "ro": "Muzeul Bayazhan",
+            "en": "Bayazhan Museum"
+          },
+          "coords": [
+            37.0592,
+            37.3812
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die neuere Geschichte von Gaziantep.",
+            "hu": "Ismerd meg Gaziantep újabbkori történelmét.",
+            "ro": "Aflați despre istoria mai recentă a Gaziantepului.",
+            "en": "Learn about Gaziantep's more recent history."
+          }
+        },
+        {
+          "name": {
+            "de": "Befreiungsmoschee",
+            "hu": "Felszabadulás Mecset",
+            "ro": "Moscheea Eliberării",
+            "en": "Liberation Mosque"
+          },
+          "coords": [
+            37.063,
+            37.389
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für architektonische Wiederverwendung.",
+            "hu": "Az építészeti újrahasznosítás szép példája.",
+            "ro": "Un exemplu frumos de reutilizare arhitecturală.",
+            "en": "A beautiful example of architectural reuse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie die öffentlichen Verkehrsmittel ins Herz der Altstadt. Beginnen Sie Ihren Rundgang am Kupferschmiedebasar, schlendern Sie zum Zincirli Bedesten und erklimmen Sie die Burg. Fahren Sie am Nachmittag mit dem Bus zum weltberühmten Zeugma-Mosaik-Museum und spazieren Sie zum nahegelegenen Bayazhan. Ein letzter Bus bringt Sie zur Befreiungsmoschee, einem friedlichen Abschluss Ihres Erkundungstages in Gaziantep.",
+        "hu": "Utazzon tömegközlekedéssel az óváros szívébe. Kezdje a sétát a Rézműves Bazárnál, sétáljon át a Zincirli Bedestenhez, és másszon fel a várhoz. Délután buszozzon el a világhírű Zeugma Mozaikmúzeumhoz, és tegyen egy sétát a közeli Bayazhan-hoz. Egy utolsó buszút elviszi a Felszabadulás Mecsethez, ami békés lezárása a gaziantepi felfedezőútnak.",
+        "ro": "Luați transportul public în inima orașului vechi. Începeți turul pietonal la Bazarul Arămarilor, plimbați-vă la Zincirli Bedesten și urcați la castel. După-amiaza, luați autobuzul spre renumitul Muzeu de Mozaic Zeugma și faceți o plimbare până la Bayazhan din apropiere. O ultimă călătorie cu autobuzul vă va duce la Moscheea Eliberării, o încheiere pașnică a zilei de explorare a Gaziantepului.",
+        "en": "Take public transport to the heart of the old city. Start your walking tour at the Coppersmiths' Bazaar, wander over to Zincirli Bedesten, and climb the castle. In the afternoon, take a bus to the world-renowned Zeugma Mosaic Museum and stroll to the nearby Bayazhan. One final bus ride will take you to the Liberation Mosque, a peaceful end to your day of exploring Gaziantep."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menengiç Kahvesi",
+            "tip": "Ein koffeinfreier Kaffee aus gerösteten Pistazien-Terpentin-Früchten."
+          },
+          {
+            "name": "Nohut Dürüm",
+            "tip": "Ein Kichererbsen-Wrap, ein beliebtes und sättigendes Streetfood."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menengiç Kahvesi",
+            "tip": "Koffeinmentes kávé pörkölt pisztácia-terpentin termésből."
+          },
+          {
+            "name": "Nohut Dürüm",
+            "tip": "Csicseriborsós wrap, népszerű és laktató utcai étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menengiç Kahvesi",
+            "tip": "O cafea fără cofeină făcută din fructe de terebentină de fistic prăjite."
+          },
+          {
+            "name": "Nohut Dürüm",
+            "tip": "O lipie cu năut, un fel de mâncare stradală popular și sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menengiç Kahvesi",
+            "tip": "A caffeine-free coffee made from roasted pistachio terebinth fruits."
+          },
+          {
+            "name": "Nohut Dürüm",
+            "tip": "A chickpea wrap, a popular and filling street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Teehaus im Zincirli Bedesten",
+            "tip": "Machen Sie eine Pause vom Einkaufen und beobachten Sie das Treiben.",
+            "emoji": "🍵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy teaház a Zincirli Bedestenben",
+            "tip": "Tarts szünetet a vásárlásban és figyeld a forgatagot.",
+            "emoji": "🍵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O ceainărie în Zincirli Bedesten",
+            "tip": "Luați o pauză de la cumpărături și priviți agitația.",
+            "emoji": "🍵"
+          }
+        ],
+        "en": [
+          {
+            "name": "A teahouse inside Zincirli Bedesten",
+            "tip": "Take a break from shopping and watch the world go by.",
+            "emoji": "🍵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Lebensmittel",
+            "tip": "Getrocknete Auberginen, Paprika und Minze sind lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított élelmiszerek",
+            "tip": "A szárított padlizsán, paprika és menta helyi specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri uscate",
+            "tip": "Vinetele, ardeii și menta uscate sunt specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried foods",
+            "tip": "Dried eggplants, peppers, and mint are local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Gaziantep Kart (Transportkarte) für eine einfache Nutzung.",
+          "Buslinien können verwirrend sein, fragen Sie einen Einheimischen oder nutzen Sie eine App.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg."
+        ],
+        "hu": [
+          "Vásárolj egy Gaziantep Kart-ot (közlekedési kártya) az egyszerű használatért.",
+          "A buszjáratok zavaróak lehetnek, kérdezz meg egy helyit vagy használj egy alkalmazást.",
+          "Minden felszálláskor érvényesítsd a jegyedet."
+        ],
+        "ro": [
+          "Cumpărați un Gaziantep Kart (card de transport) pentru o utilizare ușoară.",
+          "Rutele de autobuz pot fi confuze, întrebați un localnic sau folosiți o aplicație.",
+          "Validați-vă biletul la fiecare îmbarcare."
+        ],
+        "en": [
+          "Buy a Gaziantep Kart (transport card) for easy use.",
+          "Bus routes can be confusing, ask a local or use an app.",
+          "Validate your ticket each time you board."
+        ]
+      }
+    }
+  }
+}

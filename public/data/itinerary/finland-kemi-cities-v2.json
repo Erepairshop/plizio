@@ -1,0 +1,1309 @@
+{
+  "city_id": "finland-kemi-cities-v2",
+  "anchor": {
+    "name": "Kemi",
+    "coords": [
+      24.5667,
+      65.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kemi",
+            "hu": "Kemi temploma",
+            "ro": "Biserica din Kemi",
+            "en": "Kemi Church"
+          },
+          "coords": [
+            24.565,
+            65.735
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beachten Sie die neugotische Architektur und die friedliche Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a neogótikus építészetet és a békés belső atmoszférát.",
+            "ro": "Observați arhitectura neogotică și atmosfera pașnică din interior.",
+            "en": "Note the neo-Gothic architecture and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kemi",
+            "hu": "Kemi Kulturális Központ",
+            "ro": "Centrul Cultural Kemi",
+            "en": "Kemi Cultural Centre"
+          },
+          "coords": [
+            24.568,
+            65.736
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für mögliche Konzerte oder Ausstellungen.",
+            "hu": "Nézze meg az eseménynaptárat esetleges koncertekért vagy kiállításokért.",
+            "ro": "Verificați programul evenimentelor pentru posibile concerte sau expoziții.",
+            "en": "Check the event schedule for any ongoing concerts or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Innenhafen",
+            "hu": "Belső kikötő",
+            "ro": "Portul Interior",
+            "en": "Inner Harbour"
+          },
+          "coords": [
+            24.569,
+            65.731
+          ],
+          "category": "promenades",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Ein schöner Ort für einen kurzen Spaziergang, um die Boote zu beobachten.",
+            "hu": "Remek hely egy rövid sétára és a hajók megfigyelésére.",
+            "ro": "Un loc frumos pentru o scurtă plimbare și pentru a privi bărcile.",
+            "en": "A lovely spot for a short walk to watch the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Edelsteinmuseum",
+            "hu": "Drágakőmúzeum",
+            "ro": "Muzeul de Pietre Prețioase",
+            "en": "Gemstone Museum"
+          },
+          "coords": [
+            24.563,
+            65.733
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Verpassen Sie nicht die Replik der Krone des Königs von Finnland.",
+            "hu": "Ne hagyja ki a finn király koronájának másolatát.",
+            "ro": "Nu ratați replica coroanei Regelui Finlandei.",
+            "en": "Don't miss the replica of the Crown of the King of Finland."
+          }
+        },
+        {
+          "name": {
+            "de": "Schneeschloss Kemi",
+            "hu": "Kemi Hóvár",
+            "ro": "Castelul de Zăpadă Kemi",
+            "en": "Kemi SnowCastle"
+          },
+          "coords": [
+            24.558,
+            65.728
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_4lang": {
+            "de": "Auch im Sommer geöffnet, mit Ausstellungen über die Winterattraktion.",
+            "hu": "Nyáron is nyitva, a téli attrakcióról szóló kiállításokkal.",
+            "ro": "Deschis și vara, cu expoziții despre atracția de iarnă.",
+            "en": "Open even in summer, with exhibitions about the winter attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisbrecher Sampo",
+            "hu": "Sampo jégtörő",
+            "ro": "Spărgătorul de gheață Sampo",
+            "en": "Icebreaker Sampo"
+          },
+          "coords": [
+            24.557,
+            65.727
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Buchen Sie eine Kreuzfahrt im Winter, um das Eisbrechen in Aktion zu erleben.",
+            "hu": "Télen foglaljon hajóutat, hogy működés közben láthassa a jégtörést.",
+            "ro": "Rezervați o croazieră iarna pentru a experimenta spargerea gheții în acțiune.",
+            "en": "Book a cruise in winter to experience the icebreaking in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauvosaari Sportpark",
+            "hu": "Sauvosaari Sportpark",
+            "ro": "Parcul Sportiv Sauvosaari",
+            "en": "Sauvosaari Sports Park"
+          },
+          "coords": [
+            24.575,
+            65.73
+          ],
+          "category": "parks",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein entspannender Abschluss des Tages, bei dem Sie den Einheimischen beim Sport zusehen können.",
+            "hu": "Pihentető befejezése a napnak, miközben a helyieket sportolás közben nézi.",
+            "ro": "O încheiere relaxantă a zilei, urmărind localnicii făcând sport.",
+            "en": "A relaxing end to the day, watching locals engage in sports."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kemi beginnt mit der gotischen Pracht der Kemi Kirche, gefolgt von einem kulturellen Einblick im Kulturzentrum. Mittags schlendern Sie durch den Innenhafen, bevor Sie in die funkelnde Welt des Edelsteinmuseums eintauchen. Der Nachmittag ist den maritimen Giganten gewidmet: dem ganzjährig geöffneten Schneeschloss und dem mächtigen Eisbrecher Sampo. Den Tag lassen Sie im Sauvosaari Sportpark ausklingen und beobachten das lokale Leben.",
+        "hu": "A kemi nap a gótikus Kemi templom pompájával kezdődik, majd kulturális betekintést nyerhet a Kulturális Központban. Délben a belső kikötőben sétálgat, mielőtt elmerülne a Drágakőmúzeum csillogó világában. A délután a tengeri óriásoké: az egész évben nyitva tartó Hóváré és a hatalmas Sampo jégtörőé. A napot a Sauvosaari Sportparkban zárja, figyelve a helyi életet.",
+        "ro": "Ziua dvs. în Kemi începe cu splendoarea gotică a Bisericii din Kemi, urmată de o incursiune culturală la Centrul Cultural. La prânz, vă plimbați prin Portul Interior înainte de a vă scufunda în lumea sclipitoare a Muzeului de Pietre Prețioase. După-amiaza este dedicată giganților maritimi: Castelul de Zăpadă deschis tot anul și puternicul spărgător de gheață Sampo. Încheiați ziua în Parcul Sportiv Sauvosaari, observând viața locală.",
+        "en": "Your day in Kemi starts with the Gothic splendor of Kemi Church, followed by a cultural dive at the Cultural Centre. At midday, you'll stroll through the Inner Harbour before delving into the sparkling world of the Gemstone Museum. The afternoon is dedicated to maritime giants: the year-round SnowCastle and the mighty Icebreaker Sampo. You'll wind down the day at Sauvosaari Sports Park, observing local life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachs-Suppe (Lohikeitto)",
+            "tip": "Eine cremige, wärmende Suppe, perfekt für das finnische Klima. Probieren Sie sie im Restaurant Merihovi."
+          },
+          {
+            "name": "Rentier-Eintopf (Poronkäristys)",
+            "tip": "Ein traditionelles Gericht aus Lappland, oft mit Kartoffelpüree und Preiselbeeren serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazacleves (Lohikeitto)",
+            "tip": "Krémes, melegítő leves, tökéletes a finn éghajlathoz. Kóstolja meg a Merihovi étteremben."
+          },
+          {
+            "name": "Rénszarvaspörkölt (Poronkäristys)",
+            "tip": "Hagyományos lappföldi étel, gyakran krumplipürével és vörösáfonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de somon (Lohikeitto)",
+            "tip": "O supă cremoasă și încălzitoare, perfectă pentru climatul finlandez. Încercați-o la Restaurant Merihovi."
+          },
+          {
+            "name": "Tocăniță de ren (Poronkäristys)",
+            "tip": "Un fel de mâncare tradițional din Laponia, adesea servit cu piure de cartofi și merișoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon Soup (Lohikeitto)",
+            "tip": "A creamy, warming soup perfect for the Finnish climate. Try it at Restaurant Merihovi."
+          },
+          {
+            "name": "Sautéed Reindeer (Poronkäristys)",
+            "tip": "A traditional Lappish dish, often served with mashed potatoes and lingonberries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade von Mansikkanokka",
+            "tip": "Ein ruhiger Spaziergang entlang des Strandes bei Sonnenuntergang bietet eine herrliche Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sauvosaari Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Atmosphäre abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mansikkanokka parti sétánya",
+            "tip": "Egy csendes séta a tengerparton naplementekor csodálatos kilátást nyújt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sauvosaari Park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés légkört a városközponttól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul mării Mansikkanokka",
+            "tip": "O plimbare liniștită de-a lungul plajei la apus oferă priveliști superbe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Sauvosaari",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de atmosfera pașnică, departe de centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mansikkanokka seaside promenade",
+            "tip": "A quiet walk along the beach at sunset offers lovely views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sauvosaari Park",
+            "tip": "Find a quiet bench and enjoy the peaceful atmosphere away from the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edelsteinmuseum-Shop",
+            "tip": "Kaufen Sie einzigartigen Schmuck und polierte Edelsteine aus der Region."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach Handwerkskunst und Souvenirs mit arktischem Thema."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drágakőmúzeum boltja",
+            "tip": "Vásároljon egyedi ékszereket és csiszolt drágaköveket a régióból."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézműves termékeket és sarkvidéki témájú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului de Pietre Prețioase",
+            "tip": "Cumpărați bijuterii unice și pietre prețioase șlefuite din regiune."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați obiecte de artizanat și suveniruri cu tematică arctică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gemstone Museum Shop",
+            "tip": "Purchase unique jewelry and polished gemstones from the region."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for artisan crafts and arctic-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Die meisten Attraktionen liegen nahe beieinander, was diesen Spaziergang sehr angenehm macht.",
+          "Prüfen Sie die Öffnungszeiten des Schneeschlosses und des Sampo, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "A legtöbb látnivaló közel van egymáshoz, ami nagyon kellemessé teszi ezt a sétát.",
+          "Ellenőrizze a Hóvár és a Sampo nyitvatartási idejét, mivel ezek szezonálisan változhatnak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos în cea mai mare parte a zilei.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, ceea ce face această plimbare foarte plăcută.",
+          "Verificați orele de program ale Castelului de Zăpadă și ale Sampo, deoarece acestea pot varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Most attractions are close to each other, making this a very pleasant walk.",
+          "Check the opening hours for the SnowCastle and Sampo as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kemi",
+            "hu": "Kemi temploma",
+            "ro": "Biserica din Kemi",
+            "en": "Kemi Church"
+          },
+          "coords": [
+            24.565,
+            65.735
+          ],
+          "category": "churches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ein kurzer Stopp, um die beeindruckende neugotische Fassade zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző neogótikus homlokzatot.",
+            "ro": "O oprire scurtă pentru a admira impresionanta fațadă neogotică.",
+            "en": "A quick stop to admire the impressive neo-Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Kemi",
+            "hu": "Kemi Kulturális Központ",
+            "ro": "Centrul Cultural Kemi",
+            "en": "Kemi Cultural Centre"
+          },
+          "coords": [
+            24.568,
+            65.736
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und schauen Sie, ob eine Kunstausstellung stattfindet.",
+            "hu": "Parkolja le a kerékpárját, és nézze meg, van-e művészeti kiállítás.",
+            "ro": "Parcați bicicleta și vedeți dacă există vreo expoziție de artă.",
+            "en": "Park your bike and see if there's an art exhibition on."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauvosaari Sportpark",
+            "hu": "Sauvosaari Sportpark",
+            "ro": "Parcul Sportiv Sauvosaari",
+            "en": "Sauvosaari Sports Park"
+          },
+          "coords": [
+            24.575,
+            65.73
+          ],
+          "category": "parks",
+          "arrive_at": "10:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Eine angenehme Radtour durch den Park, um die grüne Lunge der Stadt zu sehen.",
+            "hu": "Egy kellemes biciklitúra a parkon keresztül, hogy megnézze a város zöld tüdejét.",
+            "ro": "O plimbare plăcută cu bicicleta prin parc pentru a vedea plămânul verde al orașului.",
+            "en": "A pleasant cycle through the park to see the city's green lung."
+          }
+        },
+        {
+          "name": {
+            "de": "Innenhafen",
+            "hu": "Belső kikötő",
+            "ro": "Portul Interior",
+            "en": "Inner Harbour"
+          },
+          "coords": [
+            24.569,
+            65.731
+          ],
+          "category": "promenades",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Fahren Sie am Wasser entlang und genießen Sie die maritime Atmosphäre.",
+            "hu": "Kerékpározzon a víz mentén, és élvezze a tengeri hangulatot.",
+            "ro": "Pedalați pe malul apei și bucurați-vă de atmosfera maritimă.",
+            "en": "Cycle along the water and enjoy the maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Edelsteinmuseum",
+            "hu": "Drágakőmúzeum",
+            "ro": "Muzeul de Pietre Prețioase",
+            "en": "Gemstone Museum"
+          },
+          "coords": [
+            24.563,
+            65.733
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für die beeindruckende Sammlung, eine gute Pause vom Radfahren.",
+            "hu": "Szánjon időt a lenyűgöző gyűjteményre, jó szünet a biciklizésben.",
+            "ro": "Acordați-vă timp pentru colecția impresionantă, o pauză bună de la pedalat.",
+            "en": "Take your time with the impressive collection, a good break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Schneeschloss & Eisbrecher Sampo",
+            "hu": "Hóvár és Sampo Jégtörő",
+            "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
+            "en": "SnowCastle & Icebreaker Sampo"
+          },
+          "coords": [
+            24.558,
+            65.728
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Kombinieren Sie diese beiden Attraktionen, da sie direkt nebeneinander liegen.",
+            "hu": "Kombinálja ezt a két látnivalót, mivel közvetlenül egymás mellett vannak.",
+            "ro": "Combinați aceste două atracții, deoarece sunt chiar una lângă alta.",
+            "en": "Combine these two attractions as they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mansikkanokka Strand",
+            "hu": "Mansikkanokka strand",
+            "ro": "Plaja Mansikkanokka",
+            "en": "Mansikkanokka Beach"
+          },
+          "coords": [
+            24.545,
+            65.725
+          ],
+          "category": "beaches",
+          "arrive_at": "15:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Der perfekte Ort, um sich nach einer langen Radtour zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú kerékpártúra után.",
+            "ro": "Locul perfect pentru a vă relaxa după o tură lungă cu bicicleta.",
+            "en": "The perfect place to relax after a long bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            24.5667,
+            65.7333
+          ],
+          "category": "gastro",
+          "arrive_at": "17:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Radeln Sie zurück ins Zentrum, um Ihren Tag mit einem wohlverdienten Essen ausklingen zu lassen.",
+            "hu": "Tekerjen vissza a központba, hogy egy jól megérdemelt vacsorával zárja a napot.",
+            "ro": "Pedalați înapoi în centru pentru a încheia ziua cu o masă binemeritată.",
+            "en": "Cycle back to the center to end your day with a well-deserved meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie bei der Kemi Kirche. Radeln Sie weiter zum Kulturzentrum und durch den grünen Sauvosaari Park. Gegen Mittag erkunden Sie den Innenhafen, bevor Sie im Edelsteinmuseum eine Pause einlegen. Der Nachmittag führt Sie zu den maritimen Wahrzeichen am Meer, dem Schneeschloss und dem Sampo. Danach entspannen Sie am Strand von Mansikkanokka, bevor Sie für ein herzhaftes Abendessen ins Zentrum zurückkehren.",
+        "hu": "Pattanjon nyeregbe, és kezdjen a Kemi templomnál. Tekerjen tovább a Kulturális Központba és a zöld Sauvosaari Parkon keresztül. Dél körül fedezze fel a belső kikötőt, mielőtt szünetet tartana a Drágakőmúzeumban. A délután a tengerparti nevezetességekhez, a Hóvárhoz és a Sampo-hoz vezet. Ezután pihenjen a Mansikkanokka strandon, mielőtt visszatérne a központba egy kiadós vacsorára.",
+        "ro": "Urcați-vă pe bicicletă și începeți de la Biserica Kemi. Pedalați mai departe spre Centrul Cultural și prin Parcul verde Sauvosaari. În jurul prânzului, explorați Portul Interior înainte de a face o pauză la Muzeul de Pietre Prețioase. După-amiaza vă duce la reperele maritime, Castelul de Zăpadă și Sampo. Apoi relaxați-vă pe plaja Mansikkanokka înainte de a vă întoarce în centru pentru o cină copioasă.",
+        "en": "Hop on your bike and start at Kemi Church. Cycle on to the Cultural Centre and through the green Sauvosaari Park. Around noon, explore the Inner Harbour before taking a break at the Gemstone Museum. The afternoon takes you to the maritime landmarks by the sea, the SnowCastle and the Sampo. Afterwards, relax at Mansikkanokka Beach before heading back to the center for a hearty dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Lachs",
+            "tip": "Frisch aus der Ostsee, oft auf einem Holzbrett serviert. Suchen Sie nach Restaurants in der Nähe des Hafens."
+          },
+          {
+            "name": "Karelische Piroggen (Karjalanpiirakka)",
+            "tip": "Ein herzhafter Snack, perfekt für eine schnelle Energieaufladung während Ihrer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett lazac",
+            "tip": "Frissen a Balti-tengerből, gyakran fatálon tálalva. Keressen éttermeket a kikötő közelében."
+          },
+          {
+            "name": "Karéliai pirog (Karjalanpiirakka)",
+            "tip": "Kiadós harapnivaló, tökéletes egy gyors energiabevitelhez a kerékpártúra során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon la grătar",
+            "tip": "Proaspăt din Marea Baltică, adesea servit pe o scândură de lemn. Căutați restaurante lângă port."
+          },
+          {
+            "name": "Plăcinte careliene (Karjalanpiirakka)",
+            "tip": "O gustare consistentă, perfectă pentru o reîncărcare rapidă cu energie în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Salmon",
+            "tip": "Fresh from the Baltic Sea, often served on a wooden plank. Look for restaurants near the harbour."
+          },
+          {
+            "name": "Karelian Pies (Karjalanpiirakka)",
+            "tip": "A savory snack, perfect for a quick energy boost during your bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küste bei Mansikkanokka",
+            "tip": "Die Weite des Meeres und der Klang der Wellen sind unglaublich beruhigend.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Pfad im Sauvosaari Park",
+            "tip": "Ein versteckter Pfad abseits der Hauptwege für einen Moment der Einsamkeit.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mansikkanokka partvidéke",
+            "tip": "A tenger tágassága és a hullámok hangja hihetetlenül megnyugtató.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ösvény a Sauvosaari Parkban",
+            "tip": "Egy rejtett ösvény a fő utaktól távol egy pillanatnyi magányért.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de la Mansikkanokka",
+            "tip": "Întinderea mării și sunetul valurilor sunt incredibil de liniștitoare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Potecă în Parcul Sauvosaari",
+            "tip": "O potecă ascunsă, departe de aleile principale, pentru un moment de singurătate.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastline at Mansikkanokka",
+            "tip": "The expanse of the sea and the sound of the waves are incredibly calming.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Path in Sauvosaari Park",
+            "tip": "A hidden path away from the main trails for a moment of solitude.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sampo Souvenirshop",
+            "tip": "Kaufen Sie ein Modell des Eisbrechers oder Kleidung mit Sampo-Logo."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "Finden Sie handgemachte Wollprodukte und Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sampo ajándékbolt",
+            "tip": "Vásároljon egy jégtörő modellt vagy Sampo logóval ellátott ruházatot."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Találjon kézzel készített gyapjútermékeket és fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri Sampo",
+            "tip": "Cumpărați un model al spărgătorului de gheață sau haine cu logo-ul Sampo."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Găsiți produse de lână lucrate manual și sculpturi în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sampo Souvenir Shop",
+            "tip": "Buy a model of the icebreaker or Sampo-branded apparel."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Find handmade wool products and wood carvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Stadtzentrum oder bringen Sie Ihr eigenes mit.",
+          "Die Wege sind größtenteils flach, was das Radfahren einfach macht.",
+          "Tragen Sie einen Helm und bringen Sie Wasser mit, besonders für die längere Fahrt zum Strand."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban, vagy hozza a sajátját.",
+          "Az utak többnyire síkak, ami megkönnyíti a kerékpározást.",
+          "Viseljen sisakot, és vigyen magával vizet, különösen a hosszabb, strandra vezető útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din centrul orașului sau aduceți-vă propria.",
+          "Traseele sunt în mare parte plate, ceea ce face ciclismul ușor.",
+          "Purtați cască și aduceți apă, în special pentru drumul mai lung până la plajă."
+        ],
+        "en": [
+          "Rent a bike from the city center or bring your own.",
+          "The paths are mostly flat, making for easy cycling.",
+          "Wear a helmet and bring water, especially for the longer ride to the beach."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Parken)",
+            "hu": "1. klaszter: Városközpont (Parkolás)",
+            "ro": "Cluster 1: Centrul Orașului (Parcare)",
+            "en": "Cluster 1: City Center (Parking)"
+          },
+          "coords": [
+            24.5675,
+            65.7345
+          ],
+          "category": "parking",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie in der Nähe der Kirche und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a templom közelében, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați lângă biserică și explorați primul cluster pe jos.",
+            "en": "Park near the church and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemi",
+            "hu": "Kemi temploma",
+            "ro": "Biserica din Kemi",
+            "en": "Kemi Church"
+          },
+          "coords": [
+            24.565,
+            65.735
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from where you parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum & Edelsteinmuseum",
+            "hu": "Kultúrközpont és Drágakőmúzeum",
+            "ro": "Centrul Cultural & Muzeul de Pietre",
+            "en": "Cultural Centre & Gemstone Museum"
+          },
+          "coords": [
+            24.566,
+            65.7345
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Diese beiden Attraktionen liegen nahe beieinander, perfekt für einen längeren Stopp.",
+            "hu": "Ez a két látnivaló közel van egymáshoz, tökéletes egy hosszabb megállóhoz.",
+            "ro": "Aceste două atracții sunt apropiate, perfecte pentru o oprire mai lungă.",
+            "en": "These two attractions are close together, perfect for one longer stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hafenbereich (Fahrt)",
+            "hu": "2. klaszter: Kikötő (Autózás)",
+            "ro": "Cluster 2: Zona Portuară (Condus)",
+            "en": "Cluster 2: Harbour Area (Drive)"
+          },
+          "coords": [
+            24.5585,
+            65.7285
+          ],
+          "category": "parking",
+          "arrive_at": "12:05",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Hafen und parken Sie erneut. Zeit für das Mittagessen und maritime Erkundungen.",
+            "hu": "Hajtson a kikötőbe és parkoljon le újra. Ebédidő és tengeri felfedezés.",
+            "ro": "Conduceți spre port și parcați din nou. Timp pentru prânz și explorare maritimă.",
+            "en": "Drive to the harbour and park again. Time for lunch and maritime exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Schneeschloss & Eisbrecher Sampo",
+            "hu": "Hóvár és Sampo Jégtörő",
+            "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
+            "en": "SnowCastle & Icebreaker Sampo"
+          },
+          "coords": [
+            24.5575,
+            65.7275
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für beide Attraktionen und ein Mittagessen in einem der Restaurants am Meer.",
+            "hu": "Szánjon időt mindkét látnivalóra és egy ebédre a tengerparti éttermek egyikében.",
+            "ro": "Acordați-vă timp pentru ambele atracții și un prânz la unul dintre restaurantele de la malul mării.",
+            "en": "Take your time for both attractions and lunch at one of the seaside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Erholung (Fahrt)",
+            "hu": "3. klaszter: Rekreáció (Autózás)",
+            "ro": "Cluster 3: Recreere (Condus)",
+            "en": "Cluster 3: Recreation (Drive)"
+          },
+          "coords": [
+            24.545,
+            65.725
+          ],
+          "category": "beaches",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Eine kurze Fahrt zum Strand Mansikkanokka, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Egy rövid út a Mansikkanokka strandra, hogy pihentetően zárja a napot.",
+            "ro": "O scurtă călătorie cu mașina până la plaja Mansikkanokka pentru a încheia ziua într-un mod relaxant.",
+            "en": "A short drive to Mansikkanokka beach to end the day with some relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Kemi ist in Cluster unterteilt. Beginnen Sie im Zentrum, wo Sie parken und die Kirche, das Kulturzentrum und das Edelsteinmuseum zu Fuß erkunden. Mittags fahren Sie zum Hafenbereich für ein maritimes Erlebnis mit dem Schneeschloss und dem Eisbrecher Sampo, einschließlich einer Mittagspause. Den späten Nachmittag verbringen Sie mit einer kurzen Fahrt zum Strand von Mansikkanokka, wo Sie sich entspannen und die Meeresbrise genießen können, bevor Sie den Tag beenden.",
+        "hu": "Az autós napja Kemiben klaszterekre van osztva. Kezdje a központban, ahol leparkol, és gyalog fedezi fel a templomot, a kulturális központot és a drágakőmúzeumot. Délben áthajt a kikötő területére egy tengeri élményért a Hóvárral és a Sampo jégtörővel, ebédszünettel együtt. A késő délutánt egy rövid autózással a Mansikkanokka strandon tölti, ahol pihenhet és élvezheti a tengeri szellőt a nap befejezése előtt.",
+        "ro": "Ziua dvs. cu mașina în Kemi este împărțită în clustere. Începeți în centru, unde parcați și explorați pe jos biserica, centrul cultural și muzeul de pietre prețioase. La prânz, conduceți spre zona portuară pentru o experiență maritimă la Castelul de Zăpadă și spărgătorul Sampo, inclusiv o pauză de masă. După-amiaza târziu o petreceți cu o scurtă călătorie cu mașina la plaja Mansikkanokka pentru relaxare și pentru a vă bucura de briza mării înainte de a încheia ziua.",
+        "en": "Your car day in Kemi is divided into clusters. Start in the center, where you'll park and explore the church, cultural center, and gemstone museum on foot. At midday, you drive to the harbour area for a maritime experience at the SnowCastle and Icebreaker Sampo, including a lunch break. The late afternoon is spent with a short drive to Mansikkanokka beach for some relaxation and to enjoy the sea breeze before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Lumihiutale",
+            "tip": "Befindet sich im Schneeschloss-Bereich und bietet einen Panoramablick auf das Meer und lokale Spezialitäten."
+          },
+          {
+            "name": "Café im Stadtzentrum",
+            "tip": "Genießen Sie Kaffee und ein traditionelles finnisches Gebäck (Pulla) während Ihres Spaziergangs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lumihiutale Étterem",
+            "tip": "A Hóvár területén található, panorámás kilátást nyújt a tengerre és helyi specialitásokat kínál."
+          },
+          {
+            "name": "Kávézó a városközpontban",
+            "tip": "Élvezzen egy kávét és egy hagyományos finn péksüteményt (Pulla) a séta során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Lumihiutale",
+            "tip": "Situat în zona Castelului de Zăpadă, oferă vederi panoramice la mare și specialități locale."
+          },
+          {
+            "name": "Cafenea în centrul orașului",
+            "tip": "Savurați o cafea și un produs de patiserie tradițional finlandez (Pulla) în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Lumihiutale",
+            "tip": "Located in the SnowCastle area, it offers panoramic sea views and local specialties."
+          },
+          {
+            "name": "City center café",
+            "tip": "Enjoy a coffee and a traditional Finnish pastry (Pulla) during your city walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Mansikkanokka",
+            "tip": "Schauen Sie über die Bottenwiek und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Kemi Kirche",
+            "tip": "Ein Moment der stillen Besinnung an Ihrem ersten Halt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont Mansikkanokkán",
+            "tip": "Nézzen ki a Botteni-öbölre, és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kemi templom belseje",
+            "tip": "Egy pillanatnyi csendes elmélkedés az első megállónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Mansikkanokka",
+            "tip": "Priviți peste Golful Botnic și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Kemi",
+            "tip": "Un moment de reflecție tăcută la prima oprire.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Mansikkanokka",
+            "tip": "Look out over the Bothnian Bay and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside Kemi Church",
+            "tip": "A moment of quiet reflection at your first stop.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen des Schneeschlosses",
+            "tip": "Hier finden Sie alles von Eisskulpturen bis hin zu warmer Kleidung."
+          },
+          {
+            "name": "Innenstadt-Boutiquen",
+            "tip": "Stöbern Sie nach finnischem Design und lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Hóvár ajándékboltja",
+            "tip": "Itt mindent megtalál a jégszobroktól a meleg ruházatig."
+          },
+          {
+            "name": "Belvárosi butikok",
+            "tip": "Böngésszen a finn design és a helyi termékek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Castelului de Zăpadă",
+            "tip": "Găsiți totul, de la sculpturi de gheață la haine călduroase."
+          },
+          {
+            "name": "Buticuri din centrul orașului",
+            "tip": "Răsfoiți design finlandez și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "SnowCastle Gift Shop",
+            "tip": "Find everything from ice sculptures to warm clothing."
+          },
+          {
+            "name": "Downtown Boutiques",
+            "tip": "Browse for Finnish design and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken ist in Kemi im Allgemeinen einfach, aber achten Sie auf eventuelle Gebühren.",
+          "Die Cluster-Strategie spart Zeit und Parkplatzsuche.",
+          "Planen Sie genügend Zeit für den Hafenbereich ein, da es dort viel zu sehen gibt."
+        ],
+        "hu": [
+          "A parkolás általában könnyű Kemiben, de figyeljen az esetleges díjakra.",
+          "A klaszter stratégia időt és parkolóhely-keresést takarít meg.",
+          "Szánjon elegendő időt a kikötő területére, mivel ott sok a látnivaló."
+        ],
+        "ro": [
+          "Parcarea este în general ușoară în Kemi, dar fiți atenți la eventualele taxe.",
+          "Strategia pe clustere economisește timp și căutarea locurilor de parcare.",
+          "Planificați suficient timp pentru zona portuară, deoarece sunt multe de văzut acolo."
+        ],
+        "en": [
+          "Parking is generally easy in Kemi, but be mindful of any fees.",
+          "The cluster strategy saves time and the hassle of finding parking multiple times.",
+          "Allow plenty of time for the harbour area as there's a lot to see."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Ankunft)",
+            "hu": "1. klaszter: Városközpont (Érkezés)",
+            "ro": "Cluster 1: Centrul Orașului (Sosire)",
+            "en": "Cluster 1: City Center (Arrival)"
+          },
+          "coords": [
+            24.567,
+            65.734
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Starten Sie an einer zentralen Bushaltestelle.",
+            "hu": "Induljon egy központi buszmegállóból.",
+            "ro": "Începeți de la o stație de autobuz centrală.",
+            "en": "Start at a central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kemi & Kulturzentrum",
+            "hu": "Kemi templom és Kultúrközpont",
+            "ro": "Biserica Kemi și Centrul Cultural",
+            "en": "Kemi Church & Cultural Centre"
+          },
+          "coords": [
+            24.5665,
+            65.7355
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Diese beiden Sehenswürdigkeiten können leicht zu Fuß vom Bus aus erreicht werden.",
+            "hu": "Ez a két látnivaló könnyen elérhető gyalog a buszmegállótól.",
+            "ro": "Aceste două atracții pot fi ușor accesate pe jos de la stația de autobuz.",
+            "en": "These two sights are an easy walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Edelsteinmuseum",
+            "hu": "Drágakőmúzeum",
+            "ro": "Muzeul de Pietre Prețioase",
+            "en": "Gemstone Museum"
+          },
+          "coords": [
+            24.563,
+            65.733
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang durch das Zentrum führt Sie zu den funkelnden Schätzen.",
+            "hu": "Egy rövid séta a központon keresztül elvezeti a csillogó kincsekhez.",
+            "ro": "O scurtă plimbare prin centru vă duce la comorile sclipitoare.",
+            "en": "A short walk through the center brings you to the sparkling treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hafenbereich (Busfahrt)",
+            "hu": "2. klaszter: Kikötő (Buszozás)",
+            "ro": "Cluster 2: Zona Portuară (Călătorie cu autobuzul)",
+            "en": "Cluster 2: Harbour Area (Bus Ride)"
+          },
+          "coords": [
+            24.5585,
+            65.7285
+          ],
+          "category": "transit",
+          "arrive_at": "12:50",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus zum Hafen für den nächsten Teil Ihres Abenteuers.",
+            "hu": "Vegyen egy buszt a kikötőbe a kaland következő részéhez.",
+            "ro": "Luați un autobuz spre port pentru următoarea parte a aventurii.",
+            "en": "Take a bus to the harbour for the next part of your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Schneeschloss & Eisbrecher Sampo",
+            "hu": "Hóvár és Sampo Jégtörő",
+            "ro": "Castelul de Zăpadă și Spărgătorul Sampo",
+            "en": "SnowCastle & Icebreaker Sampo"
+          },
+          "coords": [
+            24.5575,
+            65.7275
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 220,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Verbringen Sie den ganzen Nachmittag hier, inklusive Mittagessen und Erkundung beider Attraktionen.",
+            "hu": "Töltse itt az egész délutánt, beleértve az ebédet és mindkét látnivaló felfedezését.",
+            "ro": "Petreceți întreaga după-amiază aici, incluzând prânzul și explorarea ambelor atracții.",
+            "en": "Spend the whole afternoon here, including lunch and exploring both attractions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln beginnt Ihr Tag im Herzen von Kemi, wo Sie die Kirche, das Kulturzentrum und das Edelsteinmuseum zu Fuß erkunden. Gegen Mittag bringt Sie ein Bus bequem zum Hafen. Dort verbringen Sie einen langen, entspannten Nachmittag mit der Erkundung des Schneeschlosses und des Eisbrechers Sampo und genießen ein Mittagessen am Meer. Am späten Nachmittag nehmen Sie einfach einen Bus zurück ins Zentrum.",
+        "hu": "Tömegközlekedéssel a napja Kemi szívében kezdődik, ahol gyalog fedezi fel a templomot, a kulturális központot és a drágakőmúzeumot. Dél körül egy busz kényelmesen elviszi a kikötőbe. Ott egy hosszú, pihentető délutánt tölt a Hóvár és a Sampo jégtörő felfedezésével, és élvezi az ebédet a tengerparton. Késő délután egyszerűen busszal tér vissza a központba.",
+        "ro": "Folosind transportul public, ziua dvs. începe în inima orașului Kemi, explorând pe jos biserica, centrul cultural și muzeul de pietre prețioase. În jurul prânzului, un autobuz vă duce confortabil în port. Acolo veți petrece o după-amiază lungă și relaxantă explorând Castelul de Zăpadă și spărgătorul Sampo, savurând prânzul pe malul mării. La sfârșitul după-amiezii, luați pur și simplu un autobuz înapoi în centru.",
+        "en": "Using public transit, your day starts in the heart of Kemi, exploring the church, cultural center, and gemstone museum on foot. Around noon, a bus takes you comfortably to the harbour. There, you'll spend a long, relaxed afternoon exploring the SnowCastle and Icebreaker Sampo, enjoying lunch by the sea. In the late afternoon, you simply take a bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Markthalle Kemi",
+            "tip": "Holen Sie sich einen schnellen und authentischen Happen zu essen von einem der lokalen Anbieter."
+          },
+          {
+            "name": "Hafenrestaurant",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf die Boote, leicht erreichbar von der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kemi Vásárcsarnok",
+            "tip": "Kapjon be egy gyors és autentikus falatot az egyik helyi árustól."
+          },
+          {
+            "name": "Kikötői étterem",
+            "tip": "Élvezze a friss halat a hajókra néző kilátással, könnyen megközelíthető a buszmegállótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței Kemi",
+            "tip": "Luați o gustare rapidă și autentică de la unul dintre vânzătorii locali."
+          },
+          {
+            "name": "Restaurantul din port",
+            "tip": "Savurați pește proaspăt cu vedere la bărci, ușor accesibil de la stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kemi Market Hall",
+            "tip": "Grab a quick and authentic bite to eat from one of the local vendors."
+          },
+          {
+            "name": "Harbour Restaurant",
+            "tip": "Enjoy fresh fish with a view of the boats, easily accessible from the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Sauvosaari Park",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie einen Bus dorthin für eine ruhige Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Uferpromenade in der Nähe des Sampo",
+            "tip": "Abseits der Hauptattraktion finden Sie ruhige Plätze, um auf das Eis zu blicken.",
+            "emoji": "❄️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Sauvosaari Parkban",
+            "tip": "Ha van ideje, menjen oda busszal egy csendes szünetre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A sétány a Sampo közelében",
+            "tip": "A fő attrakciótól távol csendes helyeket talál, ahonnan a jégre nézhet.",
+            "emoji": "❄️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Sauvosaari",
+            "tip": "Dacă aveți timp, luați un autobuz până acolo pentru o pauză liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Promenada de lângă Sampo",
+            "tip": "Departe de atracția principală, puteți găsi locuri liniștite pentru a privi gheața.",
+            "emoji": "❄️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Sauvosaari Park",
+            "tip": "If you have time, take a bus there for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The waterfront near the Sampo",
+            "tip": "Away from the main attraction, you can find quiet spots to gaze at the ice.",
+            "emoji": "❄️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Fußgängerzone",
+            "tip": "Leicht zu Fuß von den zentralen Bushaltestellen aus erreichbar."
+          },
+          {
+            "name": "Souvenirs am Hafen",
+            "tip": "Kaufen Sie maritime Geschenke, bevor Sie den Bus zurück nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a sétálóutcában",
+            "tip": "Könnyen megközelíthető gyalog a központi buszmegállóktól."
+          },
+          {
+            "name": "Ajándéktárgyak a kikötőben",
+            "tip": "Vásároljon tengeri ajándékokat, mielőtt visszamenne a buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada pietonală",
+            "tip": "Ușor de accesat pe jos de la stațiile centrale de autobuz."
+          },
+          {
+            "name": "Suveniruri în port",
+            "tip": "Cumpărați cadouri maritime înainte de a lua autobuzul înapoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the pedestrian street",
+            "tip": "Easily walkable from the central bus stops."
+          },
+          {
+            "name": "Souvenirs at the harbour",
+            "tip": "Buy maritime gifts before you take the bus back."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Rückfahrt vom Hafen.",
+          "Die Busse sind eine effiziente Möglichkeit, die etwas weiter entfernten Attraktionen zu erreichen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a kikötőből való visszaútra.",
+          "A buszok hatékony módszert jelentenek a kissé távolabbi látnivalók elérésére."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere din port.",
+          "Autobuzele sunt o modalitate eficientă de a ajunge la atracțiile puțin mai îndepărtate."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Check the bus schedule in advance, especially for the return trip from the harbour.",
+          "Buses are an efficient way to cover the slightly longer distances to the main attractions."
+        ]
+      }
+    }
+  }
+}

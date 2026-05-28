@@ -1,0 +1,1317 @@
+{
+  "city_id": "romania-turda-cities-v2",
+  "anchor": {
+    "name": "Turda",
+    "coords": [
+      23.7745,
+      46.5709
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralpark 'Teilor'",
+            "hu": "Központi 'Teilor' Park",
+            "ro": "Parcul Central 'Teilor'",
+            "en": "Central Park 'Teilor'"
+          },
+          "coords": [
+            23.789,
+            46.5715
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem entspannten Spaziergang und genießen Sie die morgendliche Ruhe.",
+            "hu": "Kezdje a napot egy pihentető sétával, és élvezze a reggeli nyugalmat.",
+            "ro": "Începeți ziua cu o plimbare relaxantă și bucurați-vă de liniștea dimineții.",
+            "en": "Start your day with a relaxing stroll and enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kathedrale der Heiligen Erzengel Michael und Gabriel",
+            "hu": "Szent Mihály és Gábriel arkangyalok ortodox katedrálisa",
+            "ro": "Catedrala Ortodoxă 'Sfinții Arhangheli Mihail și Gavriil'",
+            "en": "Orthodox Cathedral of the Holy Archangels Michael and Gabriel"
+          },
+          "coords": [
+            23.784,
+            46.5705
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden byzantinischen Fresken im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző bizánci freskókat a katedrális belsejében.",
+            "ro": "Admirați frescele impresionante în stil bizantin din interior.",
+            "en": "Admire the impressive Byzantine-style frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Turda",
+            "hu": "Tordai Történeti Múzeum",
+            "ro": "Muzeul de Istorie Turda",
+            "en": "Turda History Museum"
+          },
+          "coords": [
+            23.7855,
+            46.5721
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Artefakte aus der römischen Zeit von Potaissa.",
+            "hu": "Fedezze fel a Potaissa római korából származó leleteket.",
+            "ro": "Descoperiți artefacte din perioada romană a Potaissa.",
+            "en": "Discover artifacts from the Roman period of Potaissa."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată-Calvină din Turda-Veche",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            23.786,
+            46.573
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf den mittelalterlichen Wehrturm, ein Symbol der Stadt.",
+            "hu": "Keresse a középkori őrtornyot, a város egyik szimbólumát.",
+            "ro": "Observați turnul medieval de apărare, un simbol al orașului.",
+            "en": "Look for the medieval defensive tower, a symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerkastell Potaissa",
+            "hu": "Potaissa római castrum",
+            "ro": "Castrul roman Potaissa",
+            "en": "Roman Castrum Potaissa"
+          },
+          "coords": [
+            23.787,
+            46.579
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die Legionen vor, die einst auf diesen Gründen marschierten.",
+            "hu": "Képzelje el a légiókat, amelyek egykor ezen a területen masíroztak.",
+            "ro": "Imaginați-vă legiunile care mărșăluiau odinioară pe acest teren.",
+            "en": "Imagine the legions that once marched on these grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Salina Turda",
+            "hu": "Tordai sóbánya",
+            "ro": "Salina Turda",
+            "en": "Salina Turda"
+          },
+          "coords": [
+            23.7875,
+            46.5879
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:15",
+          "stay_min": 115,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für eine Bootsfahrt auf dem unterirdischen See.",
+            "hu": "Szánjon időt egy csónakázásra a föld alatti tavon.",
+            "ro": "Acordați-vă timp pentru o plimbare cu barca pe lacul subteran.",
+            "en": "Take time for a boat ride on the underground lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im grünen Herzen von Turda, dem Zentralpark. Am Vormittag erkunden Sie die spirituelle Seite der Stadt mit Besuchen der imposanten orthodoxen Kathedrale und der historischen reformierten Kirche. Der Nachmittag ist der reichen Geschichte gewidmet, vom Römischen Reich im Castrum Potaissa bis zur industriellen Macht im unterirdischen Wunderland der Salina Turda. Zum Abschluss genießen Sie die einzigartige Atmosphäre tief unter der Erde.",
+        "hu": "Kezdje a sétát Torda zöld szívében, a Központi Parkban. A délelőtt folyamán fedezze fel a város spirituális oldalát a lenyűgöző ortodox katedrális és a történelmi református templom meglátogatásával. A délután a gazdag történelemé, a Római Birodalomtól a Potaissa castrumban egészen az ipari hatalomig a Tordai Sóbánya földalatti csodavilágában. Végül élvezze a mélyen a föld alatt uralkodó egyedi hangulatot.",
+        "ro": "Începeți plimbarea în inima verde a Turdei, Parcul Central. Dimineața explorați latura spirituală a orașului vizitând impunătoarea Catedrală Ortodoxă și istorica Biserică Reformată. După-amiaza este dedicată istoriei bogate, de la Imperiul Roman la Castrul Potaissa până la puterea industrială din minunata lume subterană a Salinei Turda. Încheiați ziua bucurându-vă de atmosfera unică din adâncuri.",
+        "en": "Start your walk in the green heart of Turda, the Central Park. In the morning, explore the city's spiritual side by visiting the impressive Orthodox Cathedral and the historic Reformed Church. The afternoon is dedicated to rich history, from the Roman Empire at Castrul Potaissa to the industrial might in the underground wonderland of Salina Turda. Conclude your day enjoying the unique atmosphere deep underground."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Kuttelsuppe, oft in lokalen Restaurants wie dem 'Restaurant Rapsodia' serviert."
+          },
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Kohlrouladen mit Polenta, ein herzhaftes Gericht, das Sie in der 'Potaissa-Stube' finden können."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Ein köstlicher frittierter Käse-Donut, serviert mit Sauerrahm und Marmelade. Ein Muss zum Nachtisch!"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba (pacalleves)",
+            "tip": "Hagyományos román pacalleves, amelyet gyakran szolgálnak fel helyi éttermekben, mint például a 'Restaurant Rapsodia'."
+          },
+          {
+            "name": "Sarmale puliszkával",
+            "tip": "Töltött káposzta puliszkával, egy kiadós étel, amelyet a 'Potaissa Stube'-ban találhat."
+          },
+          {
+            "name": "Papanasi (túrós fánk)",
+            "tip": "Ízletes, sült túrós fánk tejföllel és lekvárral tálalva. Kötelező desszert!"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O ciorbă tradițională românească, servită adesea la restaurante locale precum 'Restaurant Rapsodia'."
+          },
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Un fel de mâncare consistent pe care îl puteți găsi la 'Pivnița lui Potaissa'."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Gogoși delicioase din brânză prăjită, servite cu smântână și gem. Un desert de neratat!"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe Soup)",
+            "tip": "A traditional Romanian tripe soup, often served at local restaurants like 'Restaurant Rapsodia'."
+          },
+          {
+            "name": "Sarmale cu mămăliguță (Cabbage Rolls with Polenta)",
+            "tip": "A hearty dish that you can find at 'Potaissa Inn'."
+          },
+          {
+            "name": "Papanași",
+            "tip": "A delicious fried cheese donut served with sour cream and jam. A must-try dessert!"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Arieș-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer für eine friedliche Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Salzseen von Durgău",
+            "tip": "Die Gegend um die Salzseen kann außerhalb der Hauptsaison sehr ruhig sein.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zentralpark am frühen Morgen",
+            "tip": "Erleben Sie den Park, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aranyos folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton egy békés pihenőhöz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Durgói-sóstavak",
+            "tip": "A sóstavak környéke főszezonon kívül nagyon csendes lehet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Központi Park kora reggel",
+            "tip": "Tapasztalja meg a parkot, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Arieș",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru o pauză pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lacurile Sărate de la Durgău",
+            "tip": "Zona din jurul lacurilor sărate poate fi foarte liniștită în afara sezonului de vârf.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Central dimineața devreme",
+            "tip": "Experimentați parcul înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Arieș River",
+            "tip": "Find a quiet spot along the riverbank for a peaceful break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Durgău Salt Lakes",
+            "tip": "The area around the salt lakes can be very quiet outside of peak season.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Central Park in the early morning",
+            "tip": "Experience the park before the city awakens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salzprodukte aus Salina Turda",
+            "tip": "Kaufen Sie therapeutische Salze oder einzigartige Salzlampen als Souvenir."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und traditionelle rumänische Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sóból készült termékek a Tordai Sóbányából",
+            "tip": "Vásároljon terápiás sókat vagy egyedi sólámpákat szuvenírként."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi piacokat friss termékekért és hagyományos román kézműves termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din sare de la Salina Turda",
+            "tip": "Cumpărați săruri terapeutice sau lămpi de sare unice ca suvenir."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și meșteșuguri tradiționale românești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt products from Salina Turda",
+            "tip": "Buy therapeutic salts or unique salt lamps as a souvenir."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and traditional Romanian crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine Jacke für Salina Turda mit, da die Temperatur dort konstant bei 10-12°C liegt.",
+          "Überprüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus.",
+          "Probieren Sie unbedingt die lokalen Spezialitäten in einem traditionellen Restaurant."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Vigyen magával kabátot a Tordai Sóbányába, mivel a hőmérséklet állandóan 10-12°C.",
+          "Előre ellenőrizze a múzeumok és templomok nyitvatartási idejét.",
+          "Feltétlenül kóstolja meg a helyi specialitásokat egy hagyományos étteremben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați o jachetă pentru Salina Turda, deoarece temperatura este constantă la 10-12°C.",
+          "Verificați în prealabil programul de funcționare al muzeelor și bisericilor.",
+          "Asigurați-vă că încercați specialitățile locale la un restaurant tradițional."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a jacket for Salina Turda as the temperature is a constant 10-12°C (50-54°F).",
+          "Check the opening hours of museums and churches in advance.",
+          "Be sure to try the local specialties at a traditional restaurant."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Römerkastell Potaissa",
+            "hu": "Potaissa római castrum",
+            "ro": "Castrul roman Potaissa",
+            "en": "Roman Castrum Potaissa"
+          },
+          "coords": [
+            23.787,
+            46.579
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre historische Radtour an den alten römischen Mauern.",
+            "hu": "Indítsa a történelmi kerékpártúrát az ókori római falaknál.",
+            "ro": "Începeți turul istoric pe bicicletă de la vechile ziduri romane.",
+            "en": "Start your historical bike tour at the ancient Roman walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum (Kathedrale & Museum)",
+            "hu": "Történelmi központ (Katedrális és Múzeum)",
+            "ro": "Centrul Istoric (Catedrală și Muzeu)",
+            "en": "Historic Center (Cathedral & Museum)"
+          },
+          "coords": [
+            23.785,
+            46.571
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die Kirchen und das Museum zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel a templomokat és a múzeumot gyalog.",
+            "ro": "Parcați bicicleta și explorați bisericile și muzeul pe jos.",
+            "en": "Park your bike and explore the churches and museum on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Salina Turda",
+            "hu": "Tordai sóbánya",
+            "ro": "Salina Turda",
+            "en": "Salina Turda"
+          },
+          "coords": [
+            23.7875,
+            46.5879
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kühle Pause von der Radtour in der unterirdischen Welt. Perfekt für die Mittagszeit.",
+            "hu": "Hűsítő szünet a kerékpártúra közben a földalatti világban. Tökéletes ebédidőre.",
+            "ro": "O pauză răcoroasă de la turul cu bicicleta în lumea subterană. Perfect pentru prânz.",
+            "en": "A cool break from the bike ride in the underground world. Perfect for midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Salina",
+            "hu": "Ebéd a Sóbánya közelében",
+            "ro": "Prânz lângă Salină",
+            "en": "Lunch near the Salina"
+          },
+          "coords": [
+            23.788,
+            46.587
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit lokalen Gerichten, bevor Sie die große Fahrt antreten.",
+            "hu": "Erősítsen helyi ételekkel a nagy út előtt.",
+            "ro": "Întăriți-vă cu preparate locale înainte de marea plimbare.",
+            "en": "Refuel with local dishes before the big ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Turda-Schlucht (Cheile Turzii)",
+            "hu": "Tordai-hasadék (Cheile Turzii)",
+            "ro": "Cheile Turzii",
+            "en": "Turda Gorge (Cheile Turzii)"
+          },
+          "coords": [
+            23.571,
+            46.559
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 125,
+          "hop_from_prev_km": 24.8,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist anspruchsvoll, aber die Aussicht ist die Belohnung. Schließen Sie Ihr Fahrrad gut an!",
+            "hu": "A kerékpárút ide kihívást jelent, de a kilátás a jutalom. Zárja le jól a kerékpárját!",
+            "ro": "Plimbarea cu bicicleta până aici este solicitantă, dar priveliștea este recompensa. Asigurați-vă bine bicicleta!",
+            "en": "The bike ride here is challenging, but the view is the reward. Lock your bike securely!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour ist für aktive Entdecker. Beginnen Sie mit einem Sprung in die römische Geschichte im Castrum Potaissa. Am Vormittag radeln Sie ins Herz der Stadt, um die wichtigsten religiösen und kulturellen Stätten zu erkunden. Gegen Mittag tauchen Sie in die kühle, fremde Welt der Salina Turda ein. Der Nachmittag hält die größte Herausforderung und Belohnung bereit: eine lange Fahrt zur spektakulären Turda-Schlucht, wo Sie den Tag inmitten atemberaubender Natur ausklingen lassen.",
+        "hu": "Ez a kerékpártúra az aktív felfedezőknek szól. Kezdje egy ugrással a római történelembe a Potaissa castrumban. Délelőtt tekerjen be a város szívébe, hogy felfedezze a főbb vallási és kulturális helyszíneket. Dél körül merüljön el a Tordai Sóbánya hűvös, idegen világában. A délután tartogatja a legnagyobb kihívást és jutalmat: egy hosszú utat a látványos Tordai-hasadékhoz, ahol a napot lenyűgöző természet közepette zárhatja.",
+        "ro": "Acest tur cu bicicleta este pentru exploratorii activi. Începeți cu o incursiune în istoria romană la Castrul Potaissa. Dimineața pedalați în inima orașului pentru a explora principalele situri religioase și culturale. La prânz, scufundați-vă în lumea răcoroasă și extraterestră a Salinei Turda. După-amiaza vă rezervă cea mai mare provocare și recompensă: o plimbare lungă până la spectaculoasele Chei ale Turzii, unde vă veți încheia ziua în mijlocul unei naturi uimitoare.",
+        "en": "This bike tour is for active explorers. Start with a leap into Roman history at Castrul Potaissa. In the morning, cycle into the heart of the city to explore the main religious and cultural sites. Around noon, delve into the cool, alien world of Salina Turda. The afternoon holds the biggest challenge and reward: a long ride to the spectacular Turda Gorge, where you'll end the day amidst stunning nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kurtoskalacs (Baumstriezel)",
+            "tip": "Ein süßer Snack, perfekt für einen Energieschub während der Radtour."
+          },
+          {
+            "name": "Gulasch",
+            "tip": "Ein herzhaftes Gulasch in einem Restaurant in der Innenstadt gibt Kraft für die nächste Etappe."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Belohnen Sie sich nach der Tour mit einem kühlen rumänischen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes snack, tökéletes energiafröccs a kerékpártúra során."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Egy kiadós gulyás egy belvárosi étteremben erőt ad a következő szakaszhoz."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Jutalmazza meg magát a túra után egy hideg román sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kurtoskalacs",
+            "tip": "O gustare dulce, perfectă pentru un plus de energie în timpul turului cu bicicleta."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Un gulaș consistent la un restaurant din centru vă va da putere pentru următoarea etapă."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Recompensați-vă după tur cu o bere românească rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurtoskalacs (Chimney Cake)",
+            "tip": "A sweet snack, perfect for an energy boost during the bike ride."
+          },
+          {
+            "name": "Goulash",
+            "tip": "A hearty goulash at a downtown restaurant will give you strength for the next stage."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Reward yourself after the tour with a cold Romanian beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Turda-Schlucht",
+            "tip": "Nach der anstrengenden Fahrt ist dies der perfekte Ort für Stille und eine unglaubliche Aussicht. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de Argint (Silberwald)",
+            "tip": "Machen Sie einen kurzen Abstecher in diesen Wald für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a Tordai-hasadéknál",
+            "tip": "A megerőltető út után ez a tökéletes hely a csendre és a hihetetlen kilátásra. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ezüst-erdő (Pădurea de Argint)",
+            "tip": "Tegyen egy rövid kitérőt ebbe az erdőbe egy csendes pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Cheile Turzii",
+            "tip": "După o plimbare obositoare, acesta este locul perfect pentru liniște și o priveliște incredibilă. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de Argint",
+            "tip": "Faceți un scurt ocol prin această pădure pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Turda Gorge",
+            "tip": "After the strenuous ride, this is the perfect place for silence and an incredible view. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de Argint (Silver Forest)",
+            "tip": "Take a short detour into this forest for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "In der Stadt gibt es möglicherweise kleine Läden für dringende Fahrradreparaturen oder Zubehör."
+          },
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Suchen Sie in der Nähe der touristischen Ziele nach Ständen, die lokale Handwerkskunst verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A városban lehetnek kisebb boltok sürgős kerékpárjavításhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Kézzel készített szuvenírek",
+            "tip": "Keressen a turisztikai célpontok közelében helyi kézműves termékeket árusító standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "S-ar putea să existe mici magazine în oraș pentru reparații urgente la bicicletă sau accesorii."
+          },
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați tarabe care vând produse de artizanat local în apropierea obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike accessories",
+            "tip": "There might be small shops in town for urgent bike repairs or accessories."
+          },
+          {
+            "name": "Handmade souvenirs",
+            "tip": "Look for stalls selling local crafts near the tourist objectives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad in gutem Zustand ist, insbesondere für die Fahrt zur Turda-Schlucht.",
+          "Nehmen Sie viel Wasser und Snacks mit.",
+          "Ein Helm und ein Fahrradschloss sind unerlässlich.",
+          "Die Straßen können hügelig sein, seien Sie also auf Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja jó állapotban van, különösen a Tordai-hasadékhoz vezető útra.",
+          "Vigyen magával sok vizet és harapnivalót.",
+          "A sisak és a kerékpárzár elengedhetetlen.",
+          "Az utak dombosak lehetnek, ezért készüljön fel az emelkedőkre."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este în stare bună, mai ales pentru drumul spre Cheile Turzii.",
+          "Luați multă apă și gustări.",
+          "O cască și un antifurt pentru bicicletă sunt esențiale.",
+          "Drumurile pot fi deluroase, așa că fiți pregătiți pentru urcări."
+        ],
+        "en": [
+          "Ensure your bike is in good condition, especially for the ride to Turda Gorge.",
+          "Bring plenty of water and snacks.",
+          "A helmet and a bike lock are essential.",
+          "The roads can be hilly, so be prepared for climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 30.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Turda-Schlucht (Cheile Turzii)",
+            "hu": "Tordai-hasadék (Cheile Turzii)",
+            "ro": "Cheile Turzii",
+            "en": "Turda Gorge (Cheile Turzii)"
+          },
+          "coords": [
+            23.571,
+            46.559
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Starten Sie früh, um die kühle Morgenluft und die beeindruckende Landschaft zu genießen. Es gibt Parkplätze vor Ort.",
+            "hu": "Induljon korán, hogy élvezze a hűvös reggeli levegőt és a lenyűgöző tájat. Parkolási lehetőség a helyszínen.",
+            "ro": "Începeți devreme pentru a vă bucura de aerul răcoros al dimineții și de peisajul impresionant. Există parcare la fața locului.",
+            "en": "Start early to enjoy the cool morning air and the impressive landscape. Parking is available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Salina Turda",
+            "hu": "Tordai sóbánya",
+            "ro": "Salina Turda",
+            "en": "Salina Turda"
+          },
+          "coords": [
+            23.7875,
+            46.5879
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 28.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und tauchen Sie in eine andere Welt ein. Planen Sie hier auch Ihr Mittagessen ein.",
+            "hu": "Parkoljon a bejáratnál, és merüljön el egy másik világban. Tervezze ide az ebédjét is.",
+            "ro": "Parcați la intrare și scufundați-vă într-o altă lume. Planificați-vă și prânzul aici.",
+            "en": "Park at the entrance and immerse yourself in another world. Plan your lunch here as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz im historischen Zentrum",
+            "hu": "Parkoló a történelmi központban",
+            "ro": "Parcare în Centrul Istoric",
+            "en": "Parking in the Historic Center"
+          },
+          "coords": [
+            23.788,
+            46.57
+          ],
+          "category": "transport",
+          "arrive_at": "14:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier für den Rest des Tages ab und erkunden Sie den Rest zu Fuß.",
+            "hu": "Hagyja itt az autóját a nap hátralévő részére, és fedezze fel a többit gyalog.",
+            "ro": "Lăsați mașina aici pentru restul zilei și explorați restul pe jos.",
+            "en": "Leave your car here for the rest of the day and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerkastell Potaissa",
+            "hu": "Potaissa római castrum",
+            "ro": "Castrul roman Potaissa",
+            "en": "Roman Castrum Potaissa"
+          },
+          "coords": [
+            23.787,
+            46.579
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu den antiken Ruinen.",
+            "hu": "Rövid séta a parkolótól az ókori romokig.",
+            "ro": "O scurtă plimbare de la parcare la ruinele antice.",
+            "en": "A short walk from the parking lot to the ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Reformierte Kirche",
+            "hu": "Történeti Múzeum és Református Templom",
+            "ro": "Muzeul de Istorie & Biserica Reformată",
+            "en": "History Museum & Reformed Church"
+          },
+          "coords": [
+            23.7855,
+            46.5725
+          ],
+          "category": "cluster",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser zentrale Bereich lässt sich am besten zu Fuß erkunden.",
+            "hu": "Ezt a központi területet a legjobb gyalog felfedezni.",
+            "ro": "Această zonă centrală este cel mai bine explorată pe jos.",
+            "en": "This central area is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            23.784,
+            46.5705
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem wohlverdienten Abendessen in einem der traditionellen Restaurants.",
+            "hu": "Zárja a napot egy jól megérdemelt vacsorával az egyik hagyományos étteremben.",
+            "ro": "Încheiați ziua cu o cină binemeritată la unul dintre restaurantele tradiționale.",
+            "en": "End the day with a well-deserved dinner at one of the traditional restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Roadtrip kombiniert Naturwunder mit städtischer Erkundung. Beginnen Sie Ihren Tag mit einer Fahrt zur atemberaubenden Turda-Schlucht. Nach diesem Naturerlebnis fahren Sie zum weltberühmten Salzbergwerk Salina Turda, einem unterirdischen Vergnügungspark. Am Nachmittag parken Sie Ihr Auto im Zentrum und erkunden den historischen Kern von Turda zu Fuß – von den römischen Ruinen bis zu den mittelalterlichen Kirchen. So erleben Sie das Beste aus beiden Welten: die Freiheit des Autos und die Intimität eines Stadtspaziergangs.",
+        "hu": "Ez az autós túra a természeti csodákat ötvözi a városi felfedezéssel. Kezdje a napot egy utazással a lélegzetelállító Tordai-hasadékhoz. A természetjárás után vezessen el a világhírű Tordai Sóbányához, egy földalatti vidámparkhoz. Délután parkolja le autóját a központban, és fedezze fel gyalog Torda történelmi magját – a római romoktól a középkori templomokig. Így mindkét világból a legjobbat kapja: az autó szabadságát és a városi séta intimitását.",
+        "ro": "Această excursie cu mașina combină minunile naturii cu explorarea urbană. Începeți ziua cu o călătorie la uimitoarele Chei ale Turzii. După această experiență în natură, conduceți la faimoasa Salină Turda, un parc de distracții subteran. După-amiaza, parcați mașina în centru și explorați pe jos nucleul istoric al Turdei – de la ruinele romane la bisericile medievale. Astfel, veți experimenta ce e mai bun din ambele lumi: libertatea mașinii și intimitatea unei plimbări prin oraș.",
+        "en": "This road trip combines natural wonders with urban exploration. Start your day with a drive to the stunning Turda Gorge. After this nature experience, drive to the world-famous Salina Turda, an underground amusement park. In the afternoon, park your car in the center and explore Turda's historic core on foot – from the Roman ruins to the medieval churches. This way, you get the best of both worlds: the freedom of the car and the intimacy of a city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Varză à la Cluj",
+            "tip": "Ein geschichteter Krautauflauf, ähnlich wie Lasagne, eine Spezialität aus der nahen Großstadt Cluj."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein salziger Käsekuchen, perfekt als Snack für unterwegs."
+          },
+          {
+            "name": "Restaurant Sarea-n Bucate",
+            "tip": "Ein Restaurant in der Nähe der Salina, das traditionelle Gerichte in modernem Ambiente serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolozsvári rakott káposzta",
+            "tip": "Réteges káposzta-rakottas, hasonló a lasagnéhoz, a közeli Kolozsvár specialitása."
+          },
+          {
+            "name": "Túrós pite (Plăcintă)",
+            "tip": "Sós túrós pite, tökéletes harapnivaló útközben."
+          },
+          {
+            "name": "Sarea-n Bucate étterem",
+            "tip": "A Sóbánya közelében található étterem, amely hagyományos ételeket szolgál fel modern környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varză à la Cluj",
+            "tip": "O specialitate din apropiatul Cluj, similară cu lasagna."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O gustare sărată perfectă pentru drum."
+          },
+          {
+            "name": "Restaurant Sarea-n Bucate",
+            "tip": "Un restaurant lângă Salină care servește mâncăruri tradiționale într-un cadru modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varză à la Cluj (Layered Cabbage)",
+            "tip": "A layered cabbage casserole, similar to lasagna, a specialty from the nearby city of Cluj."
+          },
+          {
+            "name": "Plăcintă cu brânză (Cheese Pie)",
+            "tip": "A savory cheese pie, perfect as a snack on the go."
+          },
+          {
+            "name": "Sarea-n Bucate Restaurant",
+            "tip": "A restaurant near the Salina that serves traditional dishes in a modern setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege in der Turda-Schlucht",
+            "tip": "Finden Sie einen abgelegenen Pfad, um dem Trubel zu entkommen. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Therapiebereiche in Salina Turda",
+            "tip": "Die tieferen, ruhigeren Bereiche der Mine sind ideal zur Entspannung. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Túraútvonalak a Tordai-hasadékban",
+            "tip": "Keressen egy eldugott ösvényt, hogy elmeneküljön a nyüzsgés elől. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Terápiás területek a Tordai Sóbányában",
+            "tip": "A bánya mélyebb, csendesebb részei ideálisak a pihenésre. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție în Cheile Turzii",
+            "tip": "Găsiți o potecă izolată pentru a scăpa de agitație. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zonele de tratament din Salina Turda",
+            "tip": "Zonele mai adânci și mai liniștite ale minei sunt ideale pentru relaxare. 🧘",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking trails in Turda Gorge",
+            "tip": "Find a secluded path to escape the hustle and bustle. 🌅",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Therapy areas in Salina Turda",
+            "tip": "The deeper, quieter areas of the mine are ideal for relaxation. 🧘",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden an der Turda-Schlucht",
+            "tip": "Kaufen Sie handgefertigte Waren und lokale Produkte."
+          },
+          {
+            "name": "Salz-Souvenirs",
+            "tip": "In der Salina Turda finden Sie alles von Badesalz bis zu dekorativen Salzlampen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a Tordai-hasadéknál",
+            "tip": "Vásároljon kézműves termékeket és helyi árukat."
+          },
+          {
+            "name": "Sós szuvenírek",
+            "tip": "A Tordai Sóbányában mindent megtalál a fürdősóktól a díszes sólámpákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri la Cheile Turzii",
+            "tip": "Cumpărați produse artizanale și produse locale."
+          },
+          {
+            "name": "Suveniruri din sare",
+            "tip": "La Salina Turda veți găsi de la săruri de baie la lămpi decorative din sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at Turda Gorge",
+            "tip": "Buy handmade goods and local products."
+          },
+          {
+            "name": "Salt souvenirs",
+            "tip": "At Salina Turda, you'll find everything from bath salts to decorative salt lamps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie genügend Zeit für Fahrten zwischen den Standorten ein, insbesondere während der Hauptverkehrszeiten.",
+          "Ein GPS oder eine Navigations-App ist sehr zu empfehlen.",
+          "Denken Sie an eine Jacke für das Salzbergwerk."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Tervezzen elegendő időt a helyszínek közötti utazásra, különösen csúcsidőben.",
+          "GPS vagy navigációs alkalmazás erősen ajánlott.",
+          "Ne felejtsen el kabátot vinni a sóbányába."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare și taxele în avans.",
+          "Planificați suficient timp pentru deplasarea între locații, mai ales în orele de vârf.",
+          "Un GPS sau o aplicație de navigație este foarte recomandată.",
+          "Nu uitați o jachetă pentru salină."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Allow enough time for driving between locations, especially during peak hours.",
+          "A GPS or navigation app is highly recommended.",
+          "Remember a jacket for the salt mine."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salina Turda",
+            "hu": "Tordai sóbánya",
+            "ro": "Salina Turda",
+            "en": "Salina Turda"
+          },
+          "coords": [
+            23.7875,
+            46.5879
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen frühen Bus direkt zur Salina, um den Menschenmassen zuvorzukommen.",
+            "hu": "Menjen korai busszal közvetlenül a Sóbányához, hogy megelőzze a tömeget.",
+            "ro": "Luați un autobuz devreme direct la Salină pentru a evita aglomerația.",
+            "en": "Take an early bus directly to the Salina to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt ins Stadtzentrum",
+            "hu": "Buszút a városközpontba",
+            "ro": "Călătorie cu autobuzul spre centrul orașului",
+            "en": "Bus ride to the city center"
+          },
+          "coords": [
+            23.788,
+            46.572
+          ],
+          "category": "transport",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum für den zweiten Teil Ihres Tages.",
+            "hu": "Utazzon vissza busszal a központba a nap második részére.",
+            "ro": "Luați autobuzul înapoi în centru pentru a doua parte a zilei.",
+            "en": "Take the bus back to the center for the second part of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang im Zentrum",
+            "hu": "Ebéd és séta a központban",
+            "ro": "Prânz și plimbare în centru",
+            "en": "Lunch and walk in the center"
+          },
+          "coords": [
+            23.786,
+            46.571
+          ],
+          "category": "cluster",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant in der Nähe der Bushaltestelle und spazieren Sie anschließend durch den Zentralpark.",
+            "hu": "Keressen egy éttermet a buszmegálló közelében, majd sétáljon át a Központi Parkon.",
+            "ro": "Găsiți un restaurant lângă stația de autobuz și apoi plimbați-vă prin Parcul Central.",
+            "en": "Find a restaurant near the bus stop and then stroll through the Central Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Orthodoxe Kathedrale & Historisches Museum",
+            "hu": "Ortodox Katedrális és Történeti Múzeum",
+            "ro": "Catedrala Ortodoxă & Muzeul de Istorie",
+            "en": "Orthodox Cathedral & History Museum"
+          },
+          "coords": [
+            23.785,
+            46.5713
+          ],
+          "category": "cluster",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két látnivaló közel van egymáshoz, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții sunt apropiate și ușor de explorat pe jos.",
+            "en": "These two attractions are close to each other and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerkastell Potaissa",
+            "hu": "Potaissa római castrum",
+            "ro": "Castrul roman Potaissa",
+            "en": "Roman Castrum Potaissa"
+          },
+          "coords": [
+            23.787,
+            46.579
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein etwas längerer Spaziergang, der Sie durch die nördlichen Teile der Stadt führt.",
+            "hu": "Egy kicsit hosszabb séta, amely a város északi részein vezet keresztül.",
+            "ro": "O plimbare puțin mai lungă care vă va purta prin părțile nordice ale orașului.",
+            "en": "A slightly longer walk that will take you through the northern parts of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen effizienten und stressfreien Tag. Am Morgen bringt Sie ein Bus direkt zum Hauptereignis, der Salina Turda. Verbringen Sie dort den Vormittag. Mittags fahren Sie zurück ins Stadtzentrum, um dort zu essen und den Rest des Tages damit zu verbringen, den historischen Kern zu Fuß zu erkunden. Diese Tour kombiniert die Bequemlichkeit des Transports zu weiter entfernten Zielen mit der Freude, das kompakte Zentrum in Ihrem eigenen Tempo zu entdecken.",
+        "hu": "Használja a tömegközlekedést egy hatékony és stresszmentes naphoz. Reggel egy busz egyenesen a fő eseményhez, a Tordai Sóbányához viszi. Töltse ott a délelőttöt. Délben utazzon vissza a városközpontba ebédelni, és töltse a nap hátralévő részét a történelmi mag gyalogos felfedezésével. Ez a túra ötvözi a távolabbi célpontokhoz való eljutás kényelmét a kompakt központ saját tempóban történő felfedezésének örömével.",
+        "ro": "Folosiți transportul public pentru o zi eficientă și fără stres. Dimineața, un autobuz vă duce direct la evenimentul principal, Salina Turda. Petreceți-vă dimineața acolo. La prânz, întoarceți-vă în centrul orașului pentru a mânca și petreceți restul zilei explorând nucleul istoric pe jos. Acest tur combină comoditatea transportului către destinații mai îndepărtate cu bucuria de a descoperi centrul compact în ritmul propriu.",
+        "en": "Use public transport for an efficient and stress-free day. In the morning, a bus takes you directly to the main event, Salina Turda. Spend your morning there. At noon, travel back to the city center for lunch and spend the rest of the day exploring the historic core on foot. This tour combines the convenience of transport to farther destinations with the joy of discovering the compact center at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, salziger Brezel, ein perfekter Snack von einem Straßenverkäufer."
+          },
+          {
+            "name": "Ciorbă în pâine",
+            "tip": "Suppe, die in einem Brotlaib serviert wird, sättigend und köstlich."
+          },
+          {
+            "name": "Restaurant Potaissa",
+            "tip": "Ein gutes Ziel für ein traditionelles Mittagessen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Meleg, sós perec, tökéletes harapnivaló egy utcai árustól."
+          },
+          {
+            "name": "Csorba kenyérben",
+            "tip": "Cipóban tálalt leves, laktató és finom."
+          },
+          {
+            "name": "Potaissa étterem",
+            "tip": "Jó célpont egy hagyományos ebédhez a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald și sărat, o gustare perfectă de la un vânzător ambulant."
+          },
+          {
+            "name": "Ciorbă în pâine",
+            "tip": "Supă servită într-o pâine, sățioasă și delicioasă."
+          },
+          {
+            "name": "Restaurant Potaissa",
+            "tip": "O destinație bună pentru un prânz tradițional în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (Pretzel)",
+            "tip": "A warm, salty pretzel, a perfect snack from a street vendor."
+          },
+          {
+            "name": "Ciorbă în pâine (Soup in bread)",
+            "tip": "Soup served in a bread bowl, filling and delicious."
+          },
+          {
+            "name": "Potaissa Restaurant",
+            "tip": "A good destination for a traditional lunch in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben der reformierten Kirche",
+            "tip": "Ein historischer und ruhiger Ort für einen Moment der Besinnung. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Zentralpark",
+            "tip": "Beobachten Sie das tägliche Leben von einer ruhigen Ecke des Parks aus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a református templom mellett",
+            "tip": "Történelmi és csendes hely egy pillanatnyi elmélkedéshez. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Központi Parkban",
+            "tip": "Figyelje a mindennapi életet a park egy csendes sarkából.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Reformată",
+            "tip": "Un loc istoric și liniștit pentru un moment de reflecție. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Central",
+            "tip": "Priviți viața de zi cu zi dintr-un colț liniștit al parcului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the Reformed Church",
+            "tip": "A historic and quiet place for a moment of reflection. 🧘",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in the Central Park",
+            "tip": "Watch the daily life from a quiet corner of the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Marktplatz",
+            "tip": "Finden Sie lokale Produkte, Honig und Käse."
+          },
+          {
+            "name": "Kleine Boutiquen",
+            "tip": "Halten Sie in den Straßen des Zentrums Ausschau nach einzigartigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piactér",
+            "tip": "Keressen helyi termékeket, mézet és sajtot."
+          },
+          {
+            "name": "Kis butikok",
+            "tip": "Keresgéljen egyedi üzleteket a központ utcáin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Găsiți produse locale, miere și brânză."
+          },
+          {
+            "name": "Mici buticuri",
+            "tip": "Căutați magazine unice pe străzile din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market Square",
+            "tip": "Find local produce, honey, and cheese."
+          },
+          {
+            "name": "Small boutiques",
+            "tip": "Look for unique shops on the streets of the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, insbesondere für den letzten Bus zurück.",
+          "Haben Sie Kleingeld für die Bustickets dabei.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar, sobald Sie dort sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha rendelkezésre áll, hogy pénzt takarítson meg.",
+          "Előre tájékozódjon a buszmenetrendekről, különösen az utolsó visszainduló buszról.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "A legtöbb látnivaló a központban könnyen megközelíthető gyalog, ha már ott van."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați orarele autobuzelor în avans, în special pentru ultimul autobuz de întoarcere.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Majoritatea atracțiilor din centru sunt ușor de parcurs pe jos odată ce ajungeți acolo."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check bus schedules in advance, especially for the last bus back.",
+          "Have small change ready for bus tickets.",
+          "Most attractions in the center are within easy walking distance once you're there."
+        ]
+      }
+    }
+  }
+}

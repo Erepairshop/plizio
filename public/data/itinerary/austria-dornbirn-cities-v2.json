@@ -1,0 +1,1364 @@
+{
+  "city_id": "austria-dornbirn-cities-v2",
+  "anchor": {
+    "name": "Dornbirn",
+    "coords": [
+      9.7417,
+      47.4125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz und Rotes Haus",
+            "hu": "Piactér és a Vörös Ház",
+            "ro": "Piața Centrală și Casa Roșie",
+            "en": "Market Square and Red House"
+          },
+          "coords": [
+            9.7422,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés und beobachten Sie das Treiben.",
+            "hu": "Igyon meg egy kávét az egyik kávézóban, és figyelje a nyüzsgést.",
+            "ro": "Savurați o cafea la una dintre cafenele și priviți agitația pieței.",
+            "en": "Enjoy a coffee at one of the cafés and watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Martin",
+            "hu": "Szent Márton plébániatemplom",
+            "ro": "Biserica parohială Sf. Martin",
+            "en": "St. Martin Parish Church"
+          },
+          "coords": [
+            9.7441,
+            47.4135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende neoklassizistische Architektur und die Deckenfresken.",
+            "hu": "Figyelje meg a lenyűgöző neoklasszicista építészetet és a mennyezeti freskókat.",
+            "ro": "Observați arhitectura neoclasică impresionantă și frescele de pe tavan.",
+            "en": "Note the impressive neoclassical architecture and the ceiling frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Inatura Erlebnis Naturschau",
+            "hu": "Inatura Interaktív Természetrajzi Múzeum",
+            "ro": "Inatura - Spectacolul Naturii",
+            "en": "Inatura Experience Nature Show"
+          },
+          "coords": [
+            9.7311,
+            47.4168
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für Familien! Planen Sie genug Zeit für die interaktiven Stationen ein.",
+            "hu": "Tökéletes családoknak! Tervezzen elég időt az interaktív állomásokra.",
+            "ro": "Perfect pentru familii! Planificați suficient timp pentru secțiunile interactive.",
+            "en": "Perfect for families! Allow plenty of time for the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            9.742,
+            47.413
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Kässpätzle, eine regionale Spezialität.",
+            "hu": "Kóstolja meg a Kässpätzle-t, a régió specialitását.",
+            "ro": "Încercați Kässpätzle, o specialitate regională.",
+            "en": "Try Kässpätzle, a regional specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Rolls-Royce Museum",
+            "hu": "Rolls-Royce Múzeum",
+            "ro": "Muzeul Rolls-Royce",
+            "en": "Rolls-Royce Museum"
+          },
+          "coords": [
+            9.7615,
+            47.3995
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Autofans. Die Sammlung ist weltweit einzigartig.",
+            "hu": "Autórajongóknak kötelező. A gyűjtemény világszerte egyedülálló.",
+            "ro": "O necesitate pentru fanii mașinilor. Colecția este unică în lume.",
+            "en": "A must for car enthusiasts. The collection is unique in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohren Biererlebniswelt",
+            "hu": "Mohren Sörélményvilág",
+            "ro": "Lumea Berii Mohren",
+            "en": "Mohren Brewery World of Beer"
+          },
+          "coords": [
+            9.7408,
+            47.4077
+          ],
+          "category": "museums",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer Führung und einer Bierverkostung.",
+            "hu": "Zárja a napot egy vezetéssel és sörkóstolóval.",
+            "ro": "Încheiați ziua cu un tur și o degustare de bere.",
+            "en": "End the day with a tour and a beer tasting session."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Marktplatz, dem Herzen von Dornbirn, bewundern Sie das ikonische Rote Haus und die St.-Martins-Kirche. Am Vormittag erwartet Sie die interaktive Welt der Inatura, eine faszinierende Reise durch die Natur Vorarlbergs. Nach einem stärkenden Mittagessen tauchen Sie in die Luxuswelt des Rolls-Royce Museums ein, ein Paradies für Automobilliebhaber. Zum Abschluss des Tages entdecken Sie die Braukunst in der Mohren Biererlebniswelt und lassen den Tag bei einem kühlen Bier ausklingen.",
+        "hu": "Kezdje a napot Dornbirn szívében, a nyüzsgő piactéren, csodálja meg az ikonikus Vörös Házat és a Szent Márton-templomot. Délelőtt az Inatura interaktív világa várja, egy lenyűgöző utazás Vorarlberg természetén keresztül. Egy kiadós ebéd után merüljön el a Rolls-Royce Múzeum luxusvilágában, amely az autórajongók paradicsoma. A nap végén fedezze fel a sörfőzés művészetét a Mohren Sörélményvilágban, és zárja a napot egy hűs sörrel.",
+        "ro": "Începeți ziua în inima orașului Dornbirn, în Piața plină de viață, admirând emblematica Casă Roșie și Biserica Sf. Martin. Dimineața vă așteaptă lumea interactivă a Inatura, o călătorie fascinantă prin natura din Vorarlberg. După un prânz copios, scufundați-vă în lumea de lux a Muzeului Rolls-Royce, un paradis pentru pasionații de mașini. La finalul zilei, descoperiți arta berii la Mohren Biererlebniswelt și încheiați ziua cu o bere rece.",
+        "en": "Start your day in the heart of Dornbirn at the lively Market Square, admiring the iconic Red House and St. Martin's Church. In the morning, the interactive world of Inatura awaits, a fascinating journey through the nature of Vorarlberg. After a hearty lunch, immerse yourself in the luxury world of the Rolls-Royce Museum, a paradise for car enthusiasts. At the end of the day, discover the art of brewing at the Mohren World of Beer and round off the day with a cool beer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Herzhafte Eiernudeln mit geriebenem Käse und Röstzwiebeln."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Ein traditionelles Gericht aus Mais- und Weizengrieß."
+          },
+          {
+            "name": "Gasthaus Schiffle",
+            "tip": "Für authentische Vorarlberger Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Kiadós sajtos tészta pirított hagymával."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Hagyományos étel kukorica- és búzadarából."
+          },
+          {
+            "name": "Gasthaus Schiffle",
+            "tip": "Autentikus vorarlbergi konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Găluște consistente cu brânză rasă și ceapă prăjită."
+          },
+          {
+            "name": "Riebel",
+            "tip": "Un fel de mâncare tradițional din mălai de porumb și grâu."
+          },
+          {
+            "name": "Gasthaus Schiffle",
+            "tip": "Pentru bucătărie autentică din Vorarlberg într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Hearty egg noodles with grated cheese and fried onions."
+          },
+          {
+            "name": "Riebel",
+            "tip": "A traditional dish made from corn and wheat semolina."
+          },
+          {
+            "name": "Gasthaus Schiffle",
+            "tip": "For authentic Vorarlberg cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Dornbirner Ach",
+            "tip": "Ein ruhiger Weg entlang des Flusses, ideal zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtgarten",
+            "tip": "Eine grüne Oase mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Dornbirner Ach mentén",
+            "tip": "Csendes ösvény a folyó mentén, ideális a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park (Stadtgarten)",
+            "tip": "Zöld oázis a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Dornbirner Ach",
+            "tip": "O potecă liniștită de-a lungul râului, ideală pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Publică (Stadtgarten)",
+            "tip": "O oază de verdeață în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Dornbirner Ach",
+            "tip": "A quiet path along the river, ideal for relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Garden (Stadtgarten)",
+            "tip": "A green oasis in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Marktplatz",
+            "tip": "Jeden Mittwoch- und Samstagvormittag für lokale Produkte."
+          },
+          {
+            "name": "Messepark",
+            "tip": "Das größte Einkaufszentrum der Region für eine breite Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Piactéren",
+            "tip": "Minden szerda és szombat délelőtt helyi termékekért."
+          },
+          {
+            "name": "Messepark",
+            "tip": "A régió legnagyobb bevásárlóközpontja széles választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Marktplatz",
+            "tip": "În fiecare miercuri și sâmbătă dimineața pentru produse locale."
+          },
+          {
+            "name": "Messepark",
+            "tip": "Cel mai mare centru comercial din regiune pentru o selecție largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market at Marktplatz",
+            "tip": "Every Wednesday and Saturday morning for local products."
+          },
+          {
+            "name": "Messepark",
+            "tip": "The largest shopping center in the region for a wide selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Check the opening hours of the museums in advance.",
+          "Most sights in the center are easily accessible on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz und Rotes Haus",
+            "hu": "Piactér és a Vörös Ház",
+            "ro": "Piața Centrală și Casa Roșie",
+            "en": "Market Square and Red House"
+          },
+          "coords": [
+            9.7422,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Radtour. Viele Radwege beginnen in der Nähe.",
+            "hu": "Indítsa innen a kerékpártúrát. Sok kerékpárút indul a közelből.",
+            "ro": "Începeți turul cu bicicleta de aici. Multe piste de biciclete pornesc din apropiere.",
+            "en": "Start your bike tour here. Many cycle paths start nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Inatura Erlebnis Naturschau",
+            "hu": "Inatura Interaktív Természetrajzi Múzeum",
+            "ro": "Inatura - Spectacolul Naturii",
+            "en": "Inatura Experience Nature Show"
+          },
+          "coords": [
+            9.7311,
+            47.4168
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gute Fahrradparkplätze direkt vor dem Eingang.",
+            "hu": "Jó kerékpártárolók közvetlenül a bejárat előtt.",
+            "ro": "Parcare bună pentru biciclete chiar în fața intrării.",
+            "en": "Good bicycle parking right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rolls-Royce Museum",
+            "hu": "Rolls-Royce Múzeum",
+            "ro": "Muzeul Rolls-Royce",
+            "en": "Rolls-Royce Museum"
+          },
+          "coords": [
+            9.7615,
+            47.3995
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin führt durch ruhige Wohngebiete.",
+            "hu": "Az odavezető út csendes lakónegyedeken keresztül vezet.",
+            "ro": "Traseul până acolo trece prin zone rezidențiale liniștite.",
+            "en": "The ride there takes you through quiet residential areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the museum"
+          },
+          "coords": [
+            9.76,
+            47.4005
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt einige nette kleine Restaurants in der Umgebung.",
+            "hu": "Van néhány kedves kis étterem a környéken.",
+            "ro": "Există câteva restaurante mici și drăguțe în zonă.",
+            "en": "There are some nice little restaurants in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohren Biererlebniswelt",
+            "hu": "Mohren Sörélményvilág",
+            "ro": "Lumea Berii Mohren",
+            "en": "Mohren Brewery World of Beer"
+          },
+          "coords": [
+            9.7408,
+            47.4077
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine Belohnung nach der Radtour. Denken Sie daran: Don't drink and drive!",
+            "hu": "Jutalom a kerékpártúra után. Ne feledje: Ne igyon, ha vezet!",
+            "ro": "O recompensă după turul cu bicicleta. Nu uitați: nu beți și conduceți!",
+            "en": "A reward after the bike tour. Remember: don't drink and drive!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum/Ausklang",
+            "hu": "Visszatérés a központba/Levezetés",
+            "ro": "Întoarcere în centru/Relaxare",
+            "en": "Return to the center/Wind down"
+          },
+          "coords": [
+            9.7425,
+            47.4125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie einen letzten Spaziergang.",
+            "hu": "Adja le a kerékpárt, és tegyen egy utolsó sétát.",
+            "ro": "Returnați bicicleta și bucurați-vă de o ultimă plimbare.",
+            "en": "Return your bike and enjoy one last stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Marktplatz. Eine kurze Fahrt bringt Sie zur Inatura, wo Naturwissenschaft lebendig wird. Nach diesem interaktiven Erlebnis radeln Sie weiter zum weltberühmten Rolls-Royce Museum. Gönnen Sie sich ein Mittagessen, bevor Sie zur Mohren Brauerei fahren, um mehr über die lokale Bierkultur zu erfahren. Die Tour endet mit einer gemütlichen Rückfahrt ins Stadtzentrum, wo Sie den Tag Revue passieren lassen können.",
+        "hu": "Pattanjon kerékpárra, és induljon a piactérről. Egy rövid tekerés után eljut az Inaturához, ahol a természettudomány életre kel. Ezen interaktív élmény után tekerjen tovább a világhírű Rolls-Royce Múzeumba. Ebédeljen meg, mielőtt a Mohren Sörfőzdébe indulna, hogy többet tudjon meg a helyi sörkultúráról. A túra egy kényelmes visszaúttal zárul a városközpontba, ahol felidézheti a nap eseményeit.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Centrală. O scurtă plimbare vă duce la Inatura, unde științele naturii prind viață. După această experiență interactivă, pedalați mai departe spre faimosul Muzeu Rolls-Royce. Savurați un prânz înainte de a vă îndrepta spre Fabrica de Bere Mohren pentru a afla mai multe despre cultura locală a berii. Turul se încheie cu o plimbare relaxantă înapoi în centrul orașului, unde puteți rememora ziua.",
+        "en": "Hop on your bike and start at the Market Square. A short ride takes you to Inatura, where natural science comes to life. After this interactive experience, pedal on to the world-famous Rolls-Royce Museum. Treat yourself to lunch before heading to the Mohren Brewery to learn about local beer culture. The tour ends with a leisurely ride back to the city center, where you can reflect on the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Die perfekte Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Ein süßer Klassiker mit Vanillesauce."
+          },
+          {
+            "name": "Radler",
+            "tip": "Ein erfrischendes Getränk aus Bier und Limonade, passend zum Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Tökéletes feltöltődés egy kerékpártúra után."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Édes klasszikus vaníliaszósszal."
+          },
+          {
+            "name": "Radler",
+            "tip": "Frissítő ital sörből és limonádéból, illik a naphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Refacerea perfectă după un tur cu bicicleta."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Un desert clasic dulce cu sos de vanilie."
+          },
+          {
+            "name": "Radler",
+            "tip": "O băutură răcoritoare din bere și limonadă, potrivită pentru această zi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kässpätzle",
+            "tip": "The perfect fuel-up after a bike ride."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "A sweet classic with vanilla sauce."
+          },
+          {
+            "name": "Radler",
+            "tip": "A refreshing drink of beer and lemonade, fitting for the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg an der Dornbirner Ach",
+            "tip": "Ein flacher, ruhiger Weg entlang des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von den oberen Stadtteilen",
+            "tip": "Genießen Sie die Aussicht auf die Stadt und das Rheintal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Dornbirner Ach mentén",
+            "tip": "Sík, csendes út a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a felső városrészekből",
+            "tip": "Élvezze a városra és a Rajna-völgyre nyíló kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul Dornbirner Ach",
+            "tip": "O potecă plată și liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere din cartierele superioare",
+            "tip": "Bucurați-vă de priveliștea asupra orașului și a Văii Rinului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Dornbirner Ach",
+            "tip": "A flat, quiet path along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the upper districts",
+            "tip": "Enjoy the view over the city and the Rhine Valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Entlang der Radwege finden sich oft kleine Läden mit regionalen Produkten."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder ein Souvenir für Radsport-Fans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "A kerékpárutak mentén gyakran találni kis boltokat regionális termékekkel."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy szuvenírért a kerékpársport rajongóinak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole locale",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine cu produse regionale."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau un suvenir pentru fanii ciclismului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Along the cycle paths you can often find small shops with regional products."
+          },
+          {
+            "name": "Bike shops",
+            "tip": "For accessories or a souvenir for cycling fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dornbirn und Umgebung sind sehr fahrradfreundlich.",
+          "Achten Sie auf die Beschilderung der Radwege.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Dornbirn és környéke nagyon kerékpárbarát.",
+          "Figyeljen a kerékpárutak jelzéseire.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Dornbirn și împrejurimile sale sunt foarte prietenoase cu bicicliștii.",
+          "Fiți atenți la semnalizarea pistelor de biciclete.",
+          "O cască este puternic recomandată."
+        ],
+        "en": [
+          "Dornbirn and its surroundings are very bike-friendly.",
+          "Pay attention to the cycle path signs.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 21.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum & Spaziergang zum Marktplatz",
+            "hu": "Parkolóház a központban és séta a Piactérre",
+            "ro": "Parcare centrală și plimbare spre Piața Centrală",
+            "en": "City Center Parking & Walk to Market Square"
+          },
+          "coords": [
+            9.7435,
+            47.414
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum (z.B. Stadtgarage) für den ersten Teil des Tages.",
+            "hu": "Parkoljon a központban (pl. Stadtgarage) a nap első részére.",
+            "ro": "Parcați în centru (de ex. Stadtgarage) pentru prima parte a zilei.",
+            "en": "Park in the city center (e.g., Stadtgarage) for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotes Haus & Stadtpfarrkirche St. Martin",
+            "hu": "Vörös Ház és Szent Márton plébániatemplom",
+            "ro": "Casa Roșie & Biserica parohială Sf. Martin",
+            "en": "Red House & St. Martin Parish Church"
+          },
+          "coords": [
+            9.7422,
+            47.4128
+          ],
+          "category": "landmark",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt beieinander am Marktplatz.",
+            "hu": "Ez a két nevezetesség közvetlenül egymás mellett található a Piactéren.",
+            "ro": "Aceste două repere sunt situate chiar unul lângă celălalt în piață.",
+            "en": "These two landmarks are located right next to each other on the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Karrenseilbahn & Bergfahrt",
+            "hu": "Utazás a Karren felvonóhoz és hegyi menet",
+            "ro": "Drumul spre telecabina Karren și urcarea pe munte",
+            "en": "Drive to Karren Cable Car & Mountain Ride"
+          },
+          "coords": [
+            9.7631,
+            47.3945
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die Talstation hat einen eigenen Parkplatz. Die Fahrt nach oben dauert nur wenige Minuten.",
+            "hu": "A völgyállomásnak saját parkolója van. A felfelé út csak néhány percig tart.",
+            "ro": "Stația de la bază are propria parcare. Urcarea durează doar câteva minute.",
+            "en": "The valley station has its own parking lot. The ride up takes only a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Karren-Gipfel & Panoramarestaurant",
+            "hu": "Karren-csúcs és Panoráma Étterem",
+            "ro": "Vârful Karren și Restaurantul Panoramic",
+            "en": "Karren Summit & Panorama Restaurant"
+          },
+          "coords": [
+            9.7689,
+            47.3888
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von der spektakulären Aussichtsplattform und essen Sie im Panoramarestaurant zu Mittag.",
+            "hu": "Élvezze a kilátást a látványos kilátóteraszról és ebédeljen a panorámaétteremben.",
+            "ro": "Bucurați-vă de priveliștea de pe platforma spectaculoasă și luați prânzul la restaurantul panoramic.",
+            "en": "Enjoy the view from the spectacular viewing platform and have lunch at the panoramic restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Rappenlochschlucht",
+            "hu": "Utazás a Rappenloch-szurdokhoz",
+            "ro": "Drumul spre Cheile Rappenloch",
+            "en": "Drive to Rappenloch Gorge"
+          },
+          "coords": [
+            9.782,
+            47.3855
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Naturerlebnis. Festes Schuhwerk ist erforderlich.",
+            "hu": "Lenyűgöző természeti élmény. Szilárd lábbeli szükséges.",
+            "ro": "O experiență naturală impresionantă. Este necesară încălțăminte rezistentă.",
+            "en": "An impressive nature experience. Sturdy footwear is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel: Inatura",
+            "hu": "Utazás a múzeumi negyedbe: Inatura",
+            "ro": "Drumul spre cartierul muzeelor: Inatura",
+            "en": "Drive to the Museum Quarter: Inatura"
+          },
+          "coords": [
+            9.7311,
+            47.4168
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie beim Messegelände und erkunden Sie das Museum.",
+            "hu": "Parkoljon a vásárterületen, és fedezze fel a múzeumot.",
+            "ro": "Parcați la centrul expozițional și explorați muzeul.",
+            "en": "Park at the exhibition grounds and explore the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rolls-Royce Museum",
+            "hu": "Rolls-Royce Múzeum",
+            "ro": "Muzeul Rolls-Royce",
+            "en": "Rolls-Royce Museum"
+          },
+          "coords": [
+            9.7615,
+            47.3995
+          ],
+          "category": "museums",
+          "arrive_at": "17:35",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Inatura, wenn Sie im richtigen Bereich parken.",
+            "hu": "Rövid séta az Inaturától, ha a megfelelő helyen parkol.",
+            "ro": "O scurtă plimbare de la Inatura dacă parcați în zona potrivită.",
+            "en": "A short walk from Inatura if you park in the right area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen der Stadt am Marktplatz, nachdem Sie Ihr Auto sicher geparkt haben. Am Vormittag fahren Sie hoch hinaus: Die Karrenseilbahn bringt Sie zu einem atemberaubenden Panoramablick über das Rheintal, wo Sie auch zu Mittag essen. Am Nachmittag erleben Sie die wilde Natur der Rappenlochschlucht hautnah. Später fahren Sie zurück in die Stadt, um in die Welt der Inatura und den Luxus des Rolls-Royce Museums einzutauchen. Ein Tag voller Kontraste zwischen Stadt, Natur und Technik.",
+        "hu": "Kezdje a napot a város szívében, a Piactéren, miután biztonságosan leparkolta az autóját. Délelőtt magasan a város fölé emelkedik: a Karren felvonó lélegzetelállító panorámát kínál a Rajna-völgyre, ahol ebédelhet is. Délután testközelből élheti át a Rappenloch-szurdok vad természetét. Később visszautazik a városba, hogy elmerüljön az Inatura világában és a Rolls-Royce Múzeum luxusában. Egy kontrasztokkal teli nap a város, a természet és a technológia között.",
+        "ro": "Începeți în inima orașului, în Piața Centrală, după ce ați parcat mașina în siguranță. Dimineața, urcați la înălțime: telecabina Karren vă duce la o panoramă uluitoare asupra Văii Rinului, unde puteți lua și prânzul. După-amiaza, experimentați natura sălbatică a Cheilor Rappenloch. Mai târziu, vă întoarceți în oraș pentru a vă cufunda în lumea Inatura și în luxul Muzeului Rolls-Royce. O zi plină de contraste între oraș, natură și tehnologie.",
+        "en": "Start in the heart of the city at the Market Square after parking your car safely. In the morning, you'll head up high: the Karren cable car takes you to a breathtaking panoramic view over the Rhine Valley, where you can also have lunch. In the afternoon, experience the wild nature of the Rappenloch Gorge up close. Later, you'll drive back into town to immerse yourself in the world of Inatura and the luxury of the Rolls-Royce Museum. A day full of contrasts between city, nature, and technology."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panoramarestaurant Karren",
+            "tip": "Mittagessen mit der besten Aussicht der Stadt."
+          },
+          {
+            "name": "Gässele",
+            "tip": "Ein gemütliches Restaurant im Zentrum für den Abend."
+          },
+          {
+            "name": "Jausenstation Rappenloch",
+            "tip": "Für eine kleine Stärkung nach der Schluchtwanderung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panoramarestaurant Karren",
+            "tip": "Ebéd a város legjobb kilátásával."
+          },
+          {
+            "name": "Gässele",
+            "tip": "Hangulatos étterem a központban estére."
+          },
+          {
+            "name": "Jausenstation Rappenloch",
+            "tip": "Egy kis harapnivaló a szurdoktúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Panoramic Karren",
+            "tip": "Prânz cu cea mai bună priveliște din oraș."
+          },
+          {
+            "name": "Gässele",
+            "tip": "Un restaurant primitor în centru pentru cină."
+          },
+          {
+            "name": "Jausenstation Rappenloch",
+            "tip": "Pentru o gustare mică după drumeția prin chei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karren Panoramic Restaurant",
+            "tip": "Lunch with the best view in town."
+          },
+          {
+            "name": "Gässele",
+            "tip": "A cozy restaurant in the center for the evening."
+          },
+          {
+            "name": "Jausenstation Rappenloch",
+            "tip": "For a small snack after the gorge hike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Karren-Gipfel",
+            "tip": "Abseits der Plattform gibt es ruhige Wege mit toller Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Staufensee",
+            "tip": "Ein Stausee in der Nähe der Rappenlochschlucht, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karren-csúcs",
+            "tip": "A kilátón túl csendes ösvények vezetnek nagyszerű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Staufensee",
+            "tip": "Egy víztározó a Rappenloch-szurdok közelében, ideális egy csendes pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Karren",
+            "tip": "Departe de platformă, există poteci liniștite cu priveliști minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lacul Staufensee",
+            "tip": "Un lac de acumulare lângă Cheile Rappenloch, ideal pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karren Summit",
+            "tip": "Away from the platform, there are quiet paths with great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Staufensee",
+            "tip": "A reservoir near the Rappenloch Gorge, ideal for a quiet break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sennerei-Läden",
+            "tip": "Kaufen Sie lokalen Käse direkt vom Erzeuger in den umliegenden Dörfern."
+          },
+          {
+            "name": "Souvenirshop Karren",
+            "tip": "Für Andenken mit Bergpanorama."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtkészítő boltok (Sennerei)",
+            "tip": "Vásároljon helyi sajtot közvetlenül a termelőtől a környező falvakban."
+          },
+          {
+            "name": "Karren szuvenírbolt",
+            "tip": "Emléktárgyak hegyi panorámával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de brânzeturi (Sennerei)",
+            "tip": "Cumpărați brânză locală direct de la producător în satele învecinate."
+          },
+          {
+            "name": "Magazin de suveniruri Karren",
+            "tip": "Pentru suveniruri cu panoramă montană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dairy shops (Sennerei)",
+            "tip": "Buy local cheese directly from the producer in the surrounding villages."
+          },
+          {
+            "name": "Karren Souvenir Shop",
+            "tip": "For souvenirs with a mountain panorama."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Parkgebühren ein.",
+          "Überprüfen Sie den Status der Rappenlochschlucht, da sie manchmal wegen Wartungsarbeiten geschlossen ist.",
+          "Das Auto gibt Ihnen die Flexibilität, auch abgelegenere Orte zu besuchen."
+        ],
+        "hu": [
+          "Számoljon a parkolási díjakkal.",
+          "Ellenőrizze a Rappenloch-szurdok állapotát, mert néha karbantartás miatt zárva van.",
+          "Az autó rugalmasságot ad az eldugottabb helyek meglátogatásához is."
+        ],
+        "ro": [
+          "Planificați taxele de parcare.",
+          "Verificați starea Cheilor Rappenloch, deoarece uneori sunt închise pentru întreținere.",
+          "Mașina vă oferă flexibilitatea de a vizita și locuri mai îndepărtate."
+        ],
+        "en": [
+          "Plan for parking fees.",
+          "Check the status of the Rappenloch Gorge, as it is sometimes closed for maintenance.",
+          "The car gives you the flexibility to visit more remote places."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Bus zum Marktplatz",
+            "hu": "Érkezés a pályaudvarra és busz a Piactérre",
+            "ro": "Sosire la gară și autobuz spre Piața Centrală",
+            "en": "Arrival at the train station & bus to Market Square"
+          },
+          "coords": [
+            9.7422,
+            47.4128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru flexibilitate maximă.",
+            "en": "Buy a day pass for public transport for maximum flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotes Haus & Stadtpfarrkirche St. Martin",
+            "hu": "Vörös Ház és Szent Márton plébániatemplom",
+            "ro": "Casa Roșie & Biserica parohială Sf. Martin",
+            "en": "Red House & St. Martin Parish Church"
+          },
+          "coords": [
+            9.7441,
+            47.4135
+          ],
+          "category": "landmark",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bus-Stopp am Marktplatz.",
+            "hu": "Rövid séta a piactéri buszmegállótól.",
+            "ro": "O scurtă plimbare de la stația de autobuz din Piața Centrală.",
+            "en": "A short walk from the bus stop at the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Inatura",
+            "hu": "Busz az Inaturához",
+            "ro": "Autobuz spre Inatura",
+            "en": "Bus to Inatura"
+          },
+          "coords": [
+            9.7311,
+            47.4168
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien verbinden das Zentrum mit dem Messegelände.",
+            "hu": "Több buszjárat köti össze a központot a vásárterülettel.",
+            "ro": "Mai multe linii de autobuz leagă centrul de zona expozițională.",
+            "en": "Several bus lines connect the center with the exhibition grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe der Inatura",
+            "hu": "Ebéd az Inatura közelében",
+            "ro": "Prânz lângă Inatura",
+            "en": "Lunch near Inatura"
+          },
+          "coords": [
+            9.732,
+            47.416
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt ein Restaurant direkt im Gebäude der Inatura.",
+            "hu": "Van egy étterem közvetlenül az Inatura épületében.",
+            "ro": "Există un restaurant chiar în clădirea Inatura.",
+            "en": "There is a restaurant right inside the Inatura building."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Rolls-Royce Museum",
+            "hu": "Busz a Rolls-Royce Múzeumhoz",
+            "ro": "Autobuz spre Muzeul Rolls-Royce",
+            "en": "Bus to the Rolls-Royce Museum"
+          },
+          "coords": [
+            9.7615,
+            47.3995
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Möglicherweise müssen Sie umsteigen, um dieses Museum zu erreichen.",
+            "hu": "Lehet, hogy át kell szállnia, hogy elérje ezt a múzeumot.",
+            "ro": "S-ar putea să trebuiască să schimbați autobuzul pentru a ajunge la acest muzeu.",
+            "en": "You may need to change buses to reach this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mohren Biererlebniswelt",
+            "hu": "Mohren Sörélményvilág",
+            "ro": "Lumea Berii Mohren",
+            "en": "Mohren Brewery World of Beer"
+          },
+          "coords": [
+            9.7408,
+            47.4077
+          ],
+          "category": "museums",
+          "arrive_at": "16:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, ein schöner Abschluss des Tages.",
+            "hu": "Rövid séta a múzeumtól, szép lezárása a napnak.",
+            "ro": "O scurtă plimbare de la muzeu, o modalitate plăcută de a încheia ziua.",
+            "en": "A short walk from the museum, a nice end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Dornbirns effizientes Busnetz, um den Tag zu gestalten. Vom Bahnhof geht es direkt ins Herz der Stadt zum Marktplatz. Nach der Erkundung des Zentrums bringt Sie ein Bus zur faszinierenden Inatura. Nach einem Mittagessen vor Ort fahren Sie weiter zum glänzenden Rolls-Royce Museum. Der Tag endet mit einem Einblick in die Braukunst bei Mohren, bevor Sie bequem mit dem Bus zurück zum Bahnhof oder Ihrem Hotel fahren. Ein entspannter und lehrreicher Tag ohne Parkplatzsuche.",
+        "hu": "Használja ki Dornbirn hatékony buszhálózatát a nap megtervezéséhez. A pályaudvarról közvetlenül a város szívébe, a Piactérre juthat. A központ felfedezése után egy busz elviszi a lenyűgöző Inaturához. Egy helyi ebéd után utazzon tovább a csillogó Rolls-Royce Múzeumba. A nap a Mohren sörfőzdében tett látogatással zárul, mielőtt kényelmesen visszabuszozna a pályaudvarra vagy a szállodájába. Egy pihentető és tanulságos nap parkolóhely-keresés nélkül.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Dornbirn pentru a vă planifica ziua. De la gară, ajungeți direct în inima orașului, în Piața Centrală. După explorarea centrului, un autobuz vă duce la fascinanta Inatura. După un prânz local, călătoriți mai departe la strălucitorul Muzeu Rolls-Royce. Ziua se încheie cu o incursiune în arta berii la Mohren, înainte de a lua autobuzul confortabil înapoi la gară sau la hotel. O zi relaxantă și educativă, fără stresul căutării unui loc de parcare.",
+        "en": "Use Dornbirn's efficient bus network to shape your day. From the train station, head straight to the heart of the city at the Market Square. After exploring the center, a bus will take you to the fascinating Inatura. After lunch on site, continue to the gleaming Rolls-Royce Museum. The day ends with an insight into the art of brewing at Mohren before you take a comfortable bus ride back to the train station or your hotel. A relaxed and educational day without the stress of finding parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Auch mit öffentlichen Verkehrsmitteln leicht zu findende Restaurants servieren diese Spezialität."
+          },
+          {
+            "name": "Leberkäse-Semmel",
+            "tip": "Ein schneller und leckerer Snack von einem lokalen Metzger."
+          },
+          {
+            "name": "Ein-Topf-Gerichte",
+            "tip": "Viele Gasthäuser bieten deftige Eintöpfe als Tagesmenü an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Tömegközlekedéssel is könnyen megközelíthető éttermek is kínálják ezt a specialitást."
+          },
+          {
+            "name": "Leberkäse-zsemle",
+            "tip": "Gyors és finom falat egy helyi hentestől."
+          },
+          {
+            "name": "Egytálételek",
+            "tip": "Sok vendéglő kínál kiadós egytálételeket napi menüként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Chiar și restaurantele ușor accesibile cu transportul public servesc această specialitate."
+          },
+          {
+            "name": "Chiflă cu Leberkäse",
+            "tip": "O gustare rapidă și delicioasă de la o măcelărie locală."
+          },
+          {
+            "name": "Mâncăruri la oală",
+            "tip": "Multe hanuri oferă tocănițe consistente ca meniu al zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kässpätzle",
+            "tip": "Even restaurants easily accessible by public transport serve this specialty."
+          },
+          {
+            "name": "Leberkäse roll",
+            "tip": "A quick and tasty snack from a local butcher."
+          },
+          {
+            "name": "One-pot dishes",
+            "tip": "Many inns offer hearty stews as a daily menu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Eine grüne Lunge, die von mehreren Bushaltestellen aus leicht erreichbar ist.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhofskirche zum Hl. Sebastian",
+            "tip": "Eine ruhige, oft übersehene Kirche mit einem friedlichen Friedhof.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park (Stadtgarten)",
+            "tip": "Zöld terület, amely több buszmegállóból is könnyen elérhető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Sebestyén temetőkápolna",
+            "tip": "Csendes, gyakran figyelmen kívül hagyott templom békés temetővel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Publică (Stadtgarten)",
+            "tip": "Un plămân verde ușor accesibil de la mai multe stații de autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica cimitirului Sf. Sebastian",
+            "tip": "O biserică liniștită, adesea trecută cu vederea, cu un cimitir pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden (Stadtgarten)",
+            "tip": "A green lung easily accessible from several bus stops.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemetery Church of St. Sebastian",
+            "tip": "A quiet, often overlooked church with a peaceful cemetery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Ideal für lokale Produkte und Souvenirs, direkt an der zentralen Bushaltestelle."
+          },
+          {
+            "name": "Bahnhofsgegend",
+            "tip": "Geschäfte für den täglichen Bedarf und kleine Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Ideális helyi termékekhez és szuvenírekhez, közvetlenül a központi buszmegállónál."
+          },
+          {
+            "name": "Pályaudvar környéke",
+            "tip": "Boltok a mindennapi szükségletekre és apró ajándéktárgyakra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Ideal pentru produse locale și suveniruri, chiar lângă stația centrală de autobuz."
+          },
+          {
+            "name": "Zona gării",
+            "tip": "Magazine pentru nevoi zilnice și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Ideal for local products and souvenirs, right next to the central bus stop."
+          },
+          {
+            "name": "Train station area",
+            "tip": "Shops for daily needs and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VVV (Verkehrsverbund Vorarlberg) App herunter für Fahrpläne und Tickets.",
+          "Die Busse fahren regelmäßig, aber überprüfen Sie den Fahrplan für den Abend.",
+          "Viele Sehenswürdigkeiten sind nur einen kurzen Spaziergang von einer Bushaltestelle entfernt."
+        ],
+        "hu": [
+          "Töltse le a VVV (Vorarlbergi Közlekedési Szövetség) alkalmazást a menetrendekhez és jegyekhez.",
+          "A buszok rendszeresen járnak, de ellenőrizze az esti menetrendet.",
+          "Sok látnivaló csak rövid sétára van egy buszmegállótól."
+        ],
+        "ro": [
+          "Descărcați aplicația VVV (Asociația de Transport Vorarlberg) pentru orare și bilete.",
+          "Autobuzele circulă regulat, dar verificați programul de seară.",
+          "Multe atracții sunt la o scurtă plimbare de o stație de autobuz."
+        ],
+        "en": [
+          "Download the VVV (Vorarlberg Transport Association) app for timetables and tickets.",
+          "Buses run regularly, but check the schedule for the evening.",
+          "Many sights are just a short walk from a bus stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "city_id": "poland-opole-cities-v2",
+  "anchor": {
+    "name": "Oppeln",
+    "coords": [
+      17.9213,
+      50.6751
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Opole",
+            "hu": "Opolei Városháza",
+            "ro": "Primăria Opole",
+            "en": "Opole Town Hall"
+          },
+          "coords": [
+            17.9213,
+            50.6751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die florentinische Architektur und warten Sie auf den mittäglichen Trompeter.",
+            "hu": "Csodálja meg a firenzei stílusú építészetet, és várja meg a déli trombitást.",
+            "ro": "Admirați arhitectura florentină și așteptați trompetistul de la amiază.",
+            "en": "Admire the Florentine architecture and wait for the noon trumpeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuz-Kathedrale",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfânta Cruce",
+            "en": "Cathedral of the Holy Cross"
+          },
+          "coords": [
+            17.925,
+            50.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Piastenkapelle, der Begräbnisstätte der örtlichen Herzöge.",
+            "hu": "Keresse a Piast-kápolnát, a helyi hercegek temetkezési helyét.",
+            "ro": "Căutați Capela Piast, locul de înmormântare al ducilor locali.",
+            "en": "Look for the Piast Chapel, the burial place of the local dukes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Polnischen Liedes",
+            "hu": "Lengyel Dal Múzeuma",
+            "ro": "Muzeul Cântecului Polonez",
+            "en": "Museum of Polish Song"
+          },
+          "coords": [
+            17.9265,
+            50.673
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen machen dies auch für Nicht-Polnischsprachige interessant.",
+            "hu": "Az interaktív kiállítások a nem lengyelül beszélők számára is érdekessé teszik.",
+            "ro": "Expozițiile interactive îl fac interesant chiar și pentru vorbitorii non-polonezi.",
+            "en": "Interactive exhibits make this engaging even for non-Polish speakers."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenturm",
+            "hu": "Piast-torony",
+            "ro": "Turnul Piast",
+            "en": "Piast Tower"
+          },
+          "coords": [
+            17.9225,
+            50.67
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für den besten Panoramablick über die Altstadt und die Oder.",
+            "hu": "Másszon fel a legjobb panorámáért az óvárosra és az Odera folyóra.",
+            "ro": "Urcați pentru cea mai bună vedere panoramică a Orașului Vechi și a râului Odra.",
+            "en": "Climb to the top for the best panoramic view over the Old Town and the Odra River."
+          }
+        },
+        {
+          "name": {
+            "de": "Opoler Venedig",
+            "hu": "Opolei Velence",
+            "ro": "Veneția Opole",
+            "en": "Opole Venice"
+          },
+          "coords": [
+            17.92,
+            50.668
+          ],
+          "category": "natural features",
+          "arrive_at": "13:16",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Mittagessen mit Blick auf den Młynówka-Kanal.",
+            "hu": "Tökéletes hely egy ebédhez a Młynówka-csatornára néző kilátással.",
+            "ro": "Un loc perfect pentru prânz cu vedere la canalul Młynówka.",
+            "en": "A perfect spot for lunch with a view over the Młynówka Canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Bolko",
+            "hu": "Bolko-sziget",
+            "ro": "Insula Bolko",
+            "en": "Bolko Island"
+          },
+          "coords": [
+            17.928,
+            50.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke (Most Groszowy) für einen schönen Spaziergang.",
+            "hu": "Sétáljon át a gyaloghídon (Most Groszowy) egy kellemes sétáért.",
+            "ro": "Traversați podul pietonal (Most Groszowy) pentru o plimbare plăcută.",
+            "en": "Cross the footbridge (Most Groszowy) for a lovely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Opole",
+            "hu": "Opolei Állatkert",
+            "ro": "Zoo Opole",
+            "en": "Opole Zoo"
+          },
+          "coords": [
+            17.931,
+            50.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:31",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besonders bekannt für seine kalifornischen Seelöwen und Gorillas.",
+            "hu": "Különösen híres a kaliforniai oroszlánfókáiról és gorilláiról.",
+            "ro": "Renumit în special pentru leii de mare din California și gorilele sale.",
+            "en": "Especially known for its Californian sea lions and gorillas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Oppeln beginnt am charmanten Marktplatz mit seinem Rathaus im florentinischen Stil. Von dort aus schlendern Sie zur hoch aufragenden Heiligkreuz-Kathedrale und tauchen dann in die Welt der polnischen Musik im interaktiven Museum des Polnischen Liedes ein. Am Mittag erklimmen Sie den Piastenturm für einen atemberaubenden Blick über die Stadt. Nach dem Abstieg erwartet Sie das malerische Opoler Venedig, ein idealer Ort für eine entspannte Mittagspause am Kanal. Am Nachmittag überqueren Sie die Oder zur grünen Insel Bolko, einem perfekten Ort für einen erholsamen Spaziergang. Sie beenden Ihren Tag mit einem Besuch des berühmten Oppelner Zoos, bevor Sie zum Abendessen in die Altstadt zurückkehren.",
+        "hu": "Az opolei nap a bájos piactéren kezdődik a firenzei stílusú városházával. Innen sétáljon el a tornyosuló Szent Kereszt-székesegyházhoz, majd merüljön el a lengyel zene világában az interaktív Lengyel Dal Múzeumában. Délben mássza meg a Piast-tornyot a városra nyíló lélegzetelállító kilátásért. Leereszkedve a festői Opolei Velence várja, ideális hely egy pihentető ebédhez a csatorna mentén. Délután átkel az Odera folyón a zöld Bolko-szigetre, amely tökéletes egy pihentető sétához. A napot a híres opolei állatkert meglátogatásával zárja, mielőtt visszatérne az óvárosba vacsorázni.",
+        "ro": "Ziua dvs. în Opole începe în fermecătoarea Piață a Pieței, cu Primăria sa în stil florentin. De acolo, vă plimbați până la impunătoarea Catedrală a Sfintei Cruci, apoi pătrundeți în lumea muzicii poloneze la interactivul Muzeu al Cântecului Polonez. La prânz, urcați în Turnul Piast pentru o priveliște uluitoare asupra orașului. După coborâre, vă așteaptă pitoreasca Veneție Opole, un loc ideal pentru o pauză de prânz relaxantă pe malul canalului. După-amiaza, traversați râul Odra spre Insula Bolko, un loc perfect pentru o plimbare odihnitoare. Vă încheiați ziua cu o vizită la renumita Grădină Zoologică din Opole, înainte de a vă întoarce în Orașul Vechi pentru cină.",
+        "en": "Your day in Opole begins in the charming Market Square with its Florentine-style Town Hall. From there, stroll to the towering Cathedral of the Holy Cross, then dive into the world of Polish music at the interactive Museum of Polish Song. At noon, climb the Piast Tower for a breathtaking view of the city. After descending, the picturesque Opole Venice awaits, an ideal spot for a relaxing lunch break by the canal. In the afternoon, cross the Odra River to the green Bolko Island, a perfect place for a restful walk. You'll end your day with a visit to the famous Opole Zoo before returning to the Old Town for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlesische Klöße (Kluski śląskie)",
+            "tip": "Weiche Kartoffelknödel, oft mit Soße und Fleisch serviert. Ein lokaler Klassiker."
+          },
+          {
+            "name": "Restaurant Starka",
+            "tip": "Bekannt für traditionelle schlesische und polnische Gerichte in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai gombóc (Kluski śląskie)",
+            "tip": "Puha burgonyagombócok, gyakran mártással és hússal tálalva. Helyi klasszikus."
+          },
+          {
+            "name": "Starka Étterem",
+            "tip": "Hagyományos sziléziai és lengyel ételeiről ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște sileziene (Kluski śląskie)",
+            "tip": "Găluște moi de cartofi, adesea servite cu sos și carne. Un clasic local."
+          },
+          {
+            "name": "Restaurant Starka",
+            "tip": "Renumit pentru bucătăria tradițională sileziană și poloneză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Dumplings (Kluski śląskie)",
+            "tip": "Soft potato dumplings, often served with gravy and meat. A local classic."
+          },
+          {
+            "name": "Starka Restaurant",
+            "tip": "Known for traditional Silesian and Polish cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Młynówka-Kanals",
+            "tip": "Finden Sie eine ruhige Bank im 'Opoler Venedig' und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Insel Bolko Park",
+            "tip": "Abseits der Hauptwege bietet der Park viele ruhige Ecken zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Oderufer",
+            "tip": "Der Blick auf die Kathedrale bei Sonnenuntergang ist besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Młynówka-csatorna partja",
+            "tip": "Keressen egy csendes padot az 'Opolei Velencében', és nézze a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bolko-szigeti park",
+            "tip": "A fő utaktól távol a park számos csendes zugot kínál a pihenéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente az Odera partján",
+            "tip": "A székesegyház látványa naplementekor különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului Młynówka",
+            "tip": "Găsiți o bancă liniștită în 'Veneția Opole' și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Insula Bolko",
+            "tip": "Departe de căile principale, parcul oferă multe colțuri liniștite pentru relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe malul Odrei",
+            "tip": "Priveliștea catedralei la apus este deosebit de pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Młynówka Canal",
+            "tip": "Find a quiet bench in 'Opole Venice' and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bolko Island Park",
+            "tip": "Away from the main paths, the park offers many quiet corners to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the Odra bank",
+            "tip": "The view of the cathedral at sunset is particularly peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Opplauer Porzellan",
+            "tip": "Suchen Sie nach handbemaltem Porzellan, einem traditionellen Produkt der Region."
+          },
+          {
+            "name": "Marktplatz (Rynek)",
+            "tip": "Lokale Handwerksläden und Souvenirstände rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Opolei porcelán",
+            "tip": "Keressen kézzel festett porcelánt, a régió hagyományos termékét."
+          },
+          {
+            "name": "Piactér (Rynek)",
+            "tip": "Helyi kézműves boltok és ajándéktárgy-standok a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porțelan de Opole",
+            "tip": "Căutați porțelan pictat manual, un produs tradițional al regiunii."
+          },
+          {
+            "name": "Piața Centrală (Rynek)",
+            "tip": "Magazine de artizanat local și standuri de suveniruri în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Opole Porcelain",
+            "tip": "Look for hand-painted porcelain, a traditional product of the region."
+          },
+          {
+            "name": "Market Square (Rynek)",
+            "tip": "Local craft shops and souvenir stalls around the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie etwas Bargeld für kleine Einkäufe auf dem Markt mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A belváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Vigyen magával némi készpénzt a piaci apróbb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavajul din Orașul Vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Luați niște bani lichizi pentru cumpărături mici în piață."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Bring some cash for small purchases at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Opole",
+            "hu": "Opolei Városháza",
+            "ro": "Primăria Opole",
+            "en": "Opole Town Hall"
+          },
+          "coords": [
+            17.9213,
+            50.6751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Rande des Platzes ab, um das Zentrum zu erkunden.",
+            "hu": "Zárja le a biciklijét a tér szélén, hogy felfedezhesse a központot.",
+            "ro": "Încuiați-vă bicicleta la marginea pieței pentru a explora centrul.",
+            "en": "Lock your bike at the edge of the square to explore the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberes Schloss",
+            "hu": "Felső kastély",
+            "ro": "Castelul de Sus",
+            "en": "Upper Castle"
+          },
+          "coords": [
+            17.915,
+            50.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Obwohl nur noch Überreste erhalten sind, bietet es einen Einblick in die mittelalterliche Stadt.",
+            "hu": "Bár már csak maradványai vannak meg, bepillantást enged a középkori városba.",
+            "ro": "Deși au rămas doar ruine, oferă o imagine a orașului medieval.",
+            "en": "Although only remains are left, it offers a glimpse into the medieval city."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuz-Kathedrale",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfânta Cruce",
+            "en": "Cathedral of the Holy Cross"
+          },
+          "coords": [
+            17.925,
+            50.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die gotische Architektur ist beeindruckend, selbst von außen betrachtet.",
+            "hu": "A gótikus építészet lenyűgöző, még kívülről is.",
+            "ro": "Arhitectura gotică este impresionantă, chiar și privită din exterior.",
+            "en": "The Gothic architecture is impressive, even when viewed from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Piastenturm",
+            "hu": "Piast-torony",
+            "ro": "Turnul Piast",
+            "en": "Piast Tower"
+          },
+          "coords": [
+            17.9225,
+            50.67
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Mühe wert. Eine tolle Ergänzung zur Kathedralen-Besichtigung.",
+            "hu": "A mászás megéri a fáradságot. Nagyszerű kiegészítője a székesegyház látogatásának.",
+            "ro": "Urcușul merită efortul. O completare excelentă la vizitarea catedralei.",
+            "en": "The climb is worth the effort. A great addition to the cathedral visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Opoler Venedig",
+            "hu": "Opolei Velence",
+            "ro": "Veneția Opole",
+            "en": "Opole Venice"
+          },
+          "coords": [
+            17.92,
+            50.668
+          ],
+          "category": "natural features",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad entlang des Kanals, um die Atmosphäre voll auszukosten.",
+            "hu": "Biciklizzen végig a csatorna mentén, hogy teljes mértékben átélje a hangulatot.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului pentru a absorbi pe deplin atmosfera.",
+            "en": "Cycle along the canal to fully absorb the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Bolko",
+            "hu": "Bolko-sziget",
+            "ro": "Insula Bolko",
+            "en": "Bolko Island"
+          },
+          "coords": [
+            17.928,
+            50.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine gemütliche Radtour. Die Insel ist größtenteils autofrei.",
+            "hu": "Ideális egy kellemes biciklitúrához. A sziget nagyrészt autómentes.",
+            "ro": "Ideal pentru o plimbare liniștită cu bicicleta. Insula este în mare parte fără mașini.",
+            "en": "Ideal for a leisurely bike ride. The island is mostly car-free."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Opole",
+            "hu": "Opolei Állatkert",
+            "ro": "Zoo Opole",
+            "en": "Opole Zoo"
+          },
+          "coords": [
+            17.931,
+            50.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, der Zoo ist weitläufig und hat viele moderne Gehege.",
+            "hu": "Tervezzen elegendő időt, az állatkert tágas és sok modern kifutóval rendelkezik.",
+            "ro": "Planificați-vă suficient timp, grădina zoologică este extinsă și are multe incinte moderne.",
+            "en": "Plan enough time, the zoo is extensive and has many modern enclosures."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Polnischen Liedes",
+            "hu": "Lengyel Dal Múzeuma",
+            "ro": "Muzeul Cântecului Polonez",
+            "en": "Museum of Polish Song"
+          },
+          "coords": [
+            17.9265,
+            50.673
+          ],
+          "category": "museums",
+          "arrive_at": "16:16",
+          "stay_min": 85,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ein großartiger Abschluss des Tages, besonders wenn Sie Musikfestivals mögen.",
+            "hu": "Nagyszerű befejezése a napnak, különösen, ha szereti a zenei fesztiválokat.",
+            "ro": "O modalitate excelentă de a încheia ziua, mai ales dacă vă plac festivalurile de muzică.",
+            "en": "A great way to end the day, especially if you enjoy music festivals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Rathaus von Oppeln. Eine kurze Fahrt führt Sie zu den Überresten des Oberen Schlosses, bevor Sie zur prächtigen Heiligkreuz-Kathedrale radeln. Erklimmen Sie den nahegelegenen Piastenturm für eine fantastische Aussicht. Zur Mittagszeit gleiten Sie entlang des malerischen 'Opoler Venedigs' und genießen die Atmosphäre am Kanal. Am Nachmittag radeln Sie über die Brücke zur grünen Insel Bolko, die zu einer entspannten Rundfahrt einlädt. Verbringen Sie einige Zeit im ausgedehnten Oppelner Zoo, bevor Sie den Tag im interaktiven Museum des Polnischen Liedes ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát az opolei városházánál. Egy rövid tekerés a Felső kastély maradványaihoz vezet, mielőtt a csodálatos Szent Kereszt-székesegyházhoz kerekezik. Mássza meg a közeli Piast-tornyot a fantasztikus kilátásért. Délben sikljon végig a festői 'Opolei Velencén', és élvezze a csatorna hangulatát. Délután tekerjen át a hídon a zöld Bolko-szigetre, amely egy pihentető körútra csábít. Töltsön el egy kis időt a tágas opolei állatkertben, mielőtt a napot az interaktív Lengyel Dal Múzeumában zárja.",
+        "ro": "Urcați-vă în șa și începeți turul la Primăria din Opole. O scurtă plimbare vă duce la rămășițele Castelului de Sus, înainte de a pedala spre magnifica Catedrală a Sfintei Cruci. Urcați în apropiatul Turn Piast pentru o priveliște fantastică. La prânz, alunecați de-a lungul pitoreștii 'Veneții Opole' și bucurați-vă de atmosfera canalului. După-amiaza, pedalați peste pod spre insula verde Bolko, care vă invită la un tur relaxant. Petreceți ceva timp la extinsa Grădină Zoologică din Opole înainte de a încheia ziua la interactivul Muzeu al Cântecului Polonez.",
+        "en": "Get in the saddle and start your tour at Opole's Town Hall. A short ride takes you to the remains of the Upper Castle before you cycle to the magnificent Cathedral of the Holy Cross. Climb the nearby Piast Tower for a fantastic view. At noon, glide along the picturesque 'Opole Venice' and enjoy the canal atmosphere. In the afternoon, pedal across the bridge to the green Bolko Island, which invites you for a relaxing circular tour. Spend some time at the extensive Opole Zoo before ending the day at the interactive Museum of Polish Song."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie verschiedene Füllungen dieser klassischen polnischen Teigtaschen."
+          },
+          {
+            "name": "Restauracja Maska",
+            "tip": "Bietet moderne polnische Küche und ist bei Radfahrern wegen seiner Lage beliebt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus lengyel táskák különböző töltelékeit."
+          },
+          {
+            "name": "Maska Étterem",
+            "tip": "Modern lengyel konyhát kínál, és elhelyezkedése miatt népszerű a kerékpárosok körében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați diferite umpluturi ale acestor găluște poloneze clasice."
+          },
+          {
+            "name": "Restaurant Maska",
+            "tip": "Oferă bucătărie poloneză modernă și este popular printre bicicliști pentru locația sa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try different fillings of these classic Polish dumplings."
+          },
+          {
+            "name": "Maska Restaurant",
+            "tip": "Offers modern Polish cuisine and is popular with cyclists for its location."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park auf der Insel Bolko",
+            "tip": "Finden Sie einen abgelegenen Weg für eine ruhige Radtour.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grüne Brücke (Zielony Mostek)",
+            "tip": "Ein malerischer Ort, um innezuhalten und den Blick auf den Kanal zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung am Piastenturm",
+            "tip": "Der Blick von der Basis des Turms auf die beleuchtete Stadt.",
+            "emoji": "🌃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a Bolko-szigeten",
+            "tip": "Keressen egy félreeső ösvényt egy csendes biciklitúrához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zöld híd (Zielony Mostek)",
+            "tip": "Festői hely, ahol megállhat és élvezheti a csatornára nyíló kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a Piast-toronynál",
+            "tip": "A torony lábától nyíló kilátás a kivilágított városra.",
+            "emoji": "🌃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe Insula Bolko",
+            "tip": "Găsiți o potecă retrasă pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podul Verde (Zielony Mostek)",
+            "tip": "Un loc pitoresc pentru a face o pauză și a vă bucura de priveliștea canalului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosferă de seară la Turnul Piast",
+            "tip": "Priveliștea orașului luminat de la baza turnului.",
+            "emoji": "🌃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park on Bolko Island",
+            "tip": "Find a secluded path for a quiet bike ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Green Bridge (Zielony Mostek)",
+            "tip": "A picturesque spot to pause and enjoy the canal view.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening mood at the Piast Tower",
+            "tip": "The view of the illuminated city from the base of the tower.",
+            "emoji": "🌃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cepelia",
+            "tip": "Eine Kette, die sich auf polnisches Kunsthandwerk spezialisiert hat, ideal für authentische Souvenirs."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Nähe der Universität gibt es mehrere Geschäfte für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cepelia",
+            "tip": "Lengyel kézműves termékekre szakosodott üzletlánc, ideális autentikus ajándéktárgyakhoz."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Az egyetem közelében több üzlet is található kiegészítőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cepelia",
+            "tip": "Un lanț specializat în artizanat polonez, ideal pentru suveniruri autentice."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine de accesorii în apropierea universității."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cepelia",
+            "tip": "A chain specializing in Polish handicrafts, ideal for authentic souvenirs."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops for accessories near the university."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Oppeln ist relativ flach und fahrradfreundlich, aber achten Sie auf Fußgängerzonen.",
+          "Viele Brücken sind auch für Radfahrer zugänglich.",
+          "Nehmen Sie ein gutes Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen."
+        ],
+        "hu": [
+          "Opole viszonylag sík és biciklibarát, de figyeljen a sétálóutcákra.",
+          "Sok híd kerékpárral is járható.",
+          "Vigyen magával egy jó lakatot, hogy biztonságosan lezárhassa a biciklijét a látnivalóknál."
+        ],
+        "ro": [
+          "Opole este relativ plat și prietenos cu bicicletele, dar fiți atenți la zonele pietonale.",
+          "Multe poduri sunt accesibile și pentru bicicliști.",
+          "Luați un lacăt bun pentru a vă asigura bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "Opole is relatively flat and bike-friendly, but watch out for pedestrian zones.",
+          "Many bridges are also accessible to cyclists.",
+          "Bring a good lock to secure your bike at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            17.918,
+            50.6745
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Das meiste ist zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A legtöbb hely gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Majoritatea locurilor sunt la distanță de mers pe jos.",
+            "en": "Park here for the morning. Most things are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Opole",
+            "hu": "Opolei Városháza",
+            "ro": "Primăria Opole",
+            "en": "Opole Town Hall"
+          },
+          "coords": [
+            17.9213,
+            50.6751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Beginn Ihres Stadtrundgangs. Genießen Sie die Atmosphäre des Rynek.",
+            "hu": "A városnéző séta kezdete. Élvezze a Rynek hangulatát.",
+            "ro": "Începutul turului dvs. pietonal. Bucurați-vă de atmosfera din Rynek.",
+            "en": "The start of your walking tour. Enjoy the atmosphere of the Rynek."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligkreuz-Kathedrale",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfânta Cruce",
+            "en": "Cathedral of the Holy Cross"
+          },
+          "coords": [
+            17.925,
+            50.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz durch die historischen Gassen.",
+            "hu": "Rövid séta a piactérről a történelmi sikátorokon keresztül.",
+            "ro": "O scurtă plimbare de la Piața Pieței prin aleile istorice.",
+            "en": "A short walk from the Market Square through the historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Opoler Venedig & Piastenturm",
+            "hu": "Opolei Velence és Piast-torony",
+            "ro": "Veneția Opole și Turnul Piast",
+            "en": "Opole Venice & Piast Tower"
+          },
+          "coords": [
+            17.921,
+            50.669
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Aufstieg auf den Turm mit einem Mittagessen am Kanal.",
+            "hu": "Kombinálja a toronymászást egy ebéddel a csatorna partján.",
+            "ro": "Combinați urcarea în turn cu un prânz pe malul canalului.",
+            "en": "Combine the climb up the tower with lunch by the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zoo/Insel Bolko",
+            "hu": "Parkoló Állatkert/Bolko-sziget",
+            "ro": "Parcare Zoo/Insula Bolko",
+            "en": "Car Park Zoo/Bolko Island"
+          },
+          "coords": [
+            17.93,
+            50.659
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hierher für den zweiten Teil Ihres Tages. Genügend Parkplätze vorhanden.",
+            "hu": "Vezessen ide a nap második részére. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Conduceți aici pentru a doua parte a zilei. Există suficiente locuri de parcare.",
+            "en": "Drive here for the second part of your day. Plenty of parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Bolko",
+            "hu": "Bolko-sziget",
+            "ro": "Insula Bolko",
+            "en": "Bolko Island"
+          },
+          "coords": [
+            17.928,
+            50.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang durch den Park, um sich nach dem Mittagessen die Beine zu vertreten.",
+            "hu": "Egy pihentető séta a parkban, hogy ebéd után kinyújtóztassa a lábát.",
+            "ro": "O plimbare relaxantă prin parc pentru a vă dezmorți picioarele după prânz.",
+            "en": "A relaxing walk through the park to stretch your legs after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Opole",
+            "hu": "Opolei Állatkert",
+            "ro": "Zoo Opole",
+            "en": "Opole Zoo"
+          },
+          "coords": [
+            17.931,
+            50.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit. Der Zoo ist eine der Hauptattraktionen und sehr weitläufig.",
+            "hu": "Szánjon rá időt. Az állatkert az egyik fő látványosság és nagyon tágas.",
+            "ro": "Luați-vă timp. Grădina zoologică este una dintre atracțiile principale și este foarte extinsă.",
+            "en": "Take your time. The zoo is one of the main attractions and is very spacious."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto in der Nähe der Altstadt parken. Der erste Teil des Tages ist ein Spaziergang: vom Rathaus am Marktplatz zur Heiligkreuz-Kathedrale. Gegen Mittag erkunden Sie das charmante 'Opoler Venedig', besteigen den Piastenturm für eine großartige Aussicht und genießen ein Mittagessen am Kanal. Am Nachmittag fahren Sie zur Insel Bolko, einem großen Stadtpark. Dort parken Sie erneut und verbringen den Rest des Tages mit einem Spaziergang durch den Park und einem ausgiebigen Besuch des modernen Oppelner Zoos, dem Juwel der Insel. Am Abend fahren Sie zurück in die Stadt oder zu Ihrem Hotel.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros közelében. A nap első része egy séta: a piactéri városházától a Szent Kereszt-székesegyházig. Dél körül fedezze fel a bájos 'Opolei Velencét', mássza meg a Piast-tornyot a nagyszerű kilátásért, és ebédeljen a csatorna partján. Délután vezessen a Bolko-szigetre, egy nagy városi parkba. Ott parkoljon le újra, és töltse a nap hátralévő részét egy sétával a parkban és egy hosszabb látogatással a modern opolei állatkertben, a sziget ékkövében. Este vezessen vissza a városba vagy a szállodájába.",
+        "ro": "Începeți ziua parcând mașina lângă Orașul Vechi. Prima parte a zilei este o plimbare: de la Primărie în Piața Pieței la Catedrala Sfânta Cruce. În jurul prânzului, explorați fermecătoarea 'Veneție Opole', urcați în Turnul Piast pentru o priveliște minunată și bucurați-vă de prânz pe malul canalului. După-amiaza, conduceți spre Insula Bolko, un parc mare al orașului. Acolo, parcați din nou și petreceți restul zilei plimbându-vă prin parc și cu o vizită extinsă la moderna Grădină Zoologică Opole, bijuteria insulei. Seara, conduceți înapoi în oraș sau la hotelul dvs.",
+        "en": "Start your day by parking your car near the Old Town. The first part of the day is a walking cluster: from the Town Hall in the Market Square to the Cathedral of the Holy Cross. Around noon, explore the charming 'Opole Venice', climb the Piast Tower for a great view, and enjoy lunch by the canal. In the afternoon, drive to Bolko Island, a large city park. There, you'll park again and spend the rest of the day walking through the park and enjoying an extensive visit to the modern Opole Zoo, the island's jewel. In the evening, drive back to the city or your hotel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek w chlebie",
+            "tip": "Eine traditionelle saure Roggensuppe, serviert in einem Brotlaib. Herzhaft und perfekt für die Mittagszeit."
+          },
+          {
+            "name": "Karczma Opolska Strzecha",
+            "tip": "Rustikales Restaurant in der Nähe der Insel Bolko, ideal für ein Abendessen nach dem Zoobesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek kenyérben",
+            "tip": "Hagyományos savanyú rozsleves, kenyércipóban tálalva. Kiadós és tökéletes ebédre."
+          },
+          {
+            "name": "Karczma Opolska Strzecha",
+            "tip": "Rusztikus étterem a Bolko-sziget közelében, ideális vacsorához az állatkerti látogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek în pâine",
+            "tip": "O ciorbă tradițională de secară acră, servită într-o pâine. Consistentă și perfectă pentru prânz."
+          },
+          {
+            "name": "Karczma Opolska Strzecha",
+            "tip": "Restaurant rustic lângă Insula Bolko, ideal pentru cină după vizita la zoo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek in bread",
+            "tip": "A traditional sour rye soup served in a bread bowl. Hearty and perfect for lunchtime."
+          },
+          {
+            "name": "Karczma Opolska Strzecha",
+            "tip": "Rustic restaurant near Bolko Island, ideal for dinner after the zoo visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Oder",
+            "tip": "Die Straßen am Flussufer bieten oft schöne, ruhige Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof an der Damrota-Straße",
+            "tip": "Ein historischer und friedlicher Ort für einen Moment der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Oberen Schloss",
+            "tip": "Obwohl es eine Ruine ist, ist der Ort oft ruhig und bietet einen anderen Blickwinkel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás az Odera mentén",
+            "tip": "A folyóparti utak gyakran gyönyörű, csendes kilátást nyújtanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Damrota utcában",
+            "tip": "Történelmi és békés hely egy csendes pillanathoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Felső kastélyból",
+            "tip": "Bár rom, a hely gyakran csendes és más perspektívát kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina de-a lungul Odrei",
+            "tip": "Drumurile de pe malul râului oferă adesea priveliști frumoase și liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de pe strada Damrota",
+            "tip": "Un loc istoric și pașnic pentru un moment de reculegere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Castelul de Sus",
+            "tip": "Deși este o ruină, locul este adesea liniștit și oferă o perspectivă diferită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the Odra River",
+            "tip": "The riverside roads often offer beautiful, quiet views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery on Damrota Street",
+            "tip": "A historic and peaceful place for a moment of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Upper Castle",
+            "tip": "Although a ruin, the spot is often quiet and offers a different perspective.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Solaris Center",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie etwas vergessen haben oder eine Pause vom Sightseeing brauchen."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie Opolskie pierniki (Lebkuchen) als leckeres Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solaris Center",
+            "tip": "Modern bevásárlóközpont, ha elfelejtett valamit, vagy szünetet tartana a városnézésben."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon opolei mézeskalácsot (Opolskie pierniki) finom ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Solaris Center",
+            "tip": "Un centru comercial modern dacă ați uitat ceva sau aveți nevoie de o pauză de la vizitarea obiectivelor turistice."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați turtă dulce de Opole (Opolskie pierniki) ca suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solaris Center",
+            "tip": "A modern shopping mall in case you forgot something or need a break from sightseeing."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy Opole gingerbread (Opolskie pierniki) as a tasty souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Voraus; einige Bereiche sind teurer als andere.",
+          "Das Fahren in der Altstadt selbst wird nicht empfohlen; nutzen Sie die Parkplätze am Rand.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders am späten Nachmittag."
+        ],
+        "hu": [
+          "Ellenőrizze előre a parkolási díjakat; egyes területek drágábbak, mint mások.",
+          "Az óvárosban nem ajánlott vezetni; használja a szélén lévő parkolókat.",
+          "Tervezzen plusz időt a forgalomra, különösen késő délután."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în avans; unele zone sunt mai scumpe decât altele.",
+          "Nu se recomandă condusul în Orașul Vechi; folosiți parcările de la periferie.",
+          "Planificați timp suplimentar pentru trafic, mai ales după-amiaza târziu."
+        ],
+        "en": [
+          "Check parking fees in advance; some areas are more expensive than others.",
+          "Driving in the Old Town itself is not recommended; use the car parks on the edge.",
+          "Plan for extra time for traffic, especially in the late afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Opole",
+            "hu": "Opolei Városháza",
+            "ro": "Primăria Opole",
+            "en": "Opole Town Hall"
+          },
+          "coords": [
+            17.9213,
+            50.6751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe des Rynek. Ein idealer Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat a Rynek közelében áll meg. Ideális kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc lângă Rynek. Un punct de plecare ideal.",
+            "en": "Most bus lines stop near the Rynek. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Polnischen Liedes",
+            "hu": "Lengyel Dal Múzeuma",
+            "ro": "Muzeul Cântecului Polonez",
+            "en": "Museum of Polish Song"
+          },
+          "coords": [
+            17.9265,
+            50.673
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Folgen Sie den Schildern zum Amphitheater.",
+            "hu": "Rövid séta a Városházától. Kövesse az amfiteátrum felé mutató táblákat.",
+            "ro": "O scurtă plimbare de la Primărie. Urmați indicatoarele către amfiteatru.",
+            "en": "A short walk from the Town Hall. Follow the signs for the amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Opoler Venedig",
+            "hu": "Opolei Velence",
+            "ro": "Veneția Opole",
+            "en": "Opole Venice"
+          },
+          "coords": [
+            17.92,
+            50.668
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause. Viele Cafés und Restaurants sind hier zu finden.",
+            "hu": "Ideális ebédszünetre. Számos kávézó és étterem található itt.",
+            "ro": "Ideal pentru o pauză de prânz. Aici se găsesc multe cafenele și restaurante.",
+            "en": "Ideal for a lunch break. Many cafes and restaurants can be found here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle am Zoo",
+            "hu": "Buszmegálló az állatkertnél",
+            "ro": "Stația de autobuz de la Zoo",
+            "en": "Bus Stop at the Zoo"
+          },
+          "coords": [
+            17.932,
+            50.66
+          ],
+          "category": "transport",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert etwa 10-15 Minuten.",
+            "hu": "Menjen busszal a városközpontból. Az út körülbelül 10-15 percig tart.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria durează aproximativ 10-15 minute.",
+            "en": "Take a bus from the city center. The journey takes about 10-15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Bolko",
+            "hu": "Bolko-sziget",
+            "ro": "Insula Bolko",
+            "en": "Bolko Island"
+          },
+          "coords": [
+            17.928,
+            50.658
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang durch den Park, bevor Sie den Zoo betreten.",
+            "hu": "Tegyen egy rövid sétát a parkban, mielőtt belépne az állatkertbe.",
+            "ro": "Faceți o scurtă plimbare prin parc înainte de a intra la grădina zoologică.",
+            "en": "Take a short walk through the park before entering the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Opole",
+            "hu": "Opolei Állatkert",
+            "ro": "Zoo Opole",
+            "en": "Opole Zoo"
+          },
+          "coords": [
+            17.931,
+            50.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 160,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Hauptgrund für den Ausflug auf die Insel. Genießen Sie die modernen Anlagen.",
+            "hu": "A szigeti kirándulás fő oka. Élvezze a modern létesítményeket.",
+            "ro": "Principalul motiv pentru excursia pe insulă. Bucurați-vă de facilitățile moderne.",
+            "en": "The main reason for the trip to the island. Enjoy the modern facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Oppeln, am Rathaus. Ein Spaziergang führt Sie zum Museum des Polnischen Liedes und dann zum malerischen 'Opoler Venedig' für eine ausgiebige Mittagspause. Am frühen Nachmittag nehmen Sie einen Bus vom Stadtzentrum, der Sie über den Fluss zur Insel Bolko bringt. Dieser Cluster ist dem Genuss der Natur gewidmet. Sie schlendern durch den Park und verbringen den größten Teil des Nachmittags im beeindruckenden Oppelner Zoo. Am späten Nachmittag bringt Sie ein Bus bequem zurück ins Zentrum, wo Sie den Abend ausklingen lassen können.",
+        "hu": "A napja Opole szívében, a Városházánál kezdődik. Egy séta elvezeti a Lengyel Dal Múzeumához, majd a festői 'Opolei Velencébe' egy kiadós ebédszünetre. Kora délután busszal indul a városközpontból, amely átviszi a folyón a Bolko-szigetre. Ez a klaszter a természet élvezetének szentelődik. Sétál a parkban, és a délután nagy részét a lenyűgöző opolei állatkertben tölti. Késő délután egy busz kényelmesen visszaviszi a központba, ahol lezárhatja az estét.",
+        "ro": "Ziua dvs. începe în inima orașului Opole, la Primărie. O plimbare vă duce la Muzeul Cântecului Polonez și apoi la pitoreasca 'Veneție Opole' pentru o pauză de prânz prelungită. La începutul după-amiezii, luați un autobuz din centrul orașului care vă duce peste râu pe Insula Bolko. Acest grup este dedicat bucuriei naturii. Vă plimbați prin parc și petreceți cea mai mare parte a după-amiezii la impresionanta Grădină Zoologică din Opole. La sfârșitul după-amiezii, un autobuz vă duce confortabil înapoi în centru, unde vă puteți încheia seara.",
+        "en": "Your day starts in the heart of Opole, at the Town Hall. A walking cluster takes you to the Museum of Polish Song and then to the picturesque 'Opole Venice' for a leisurely lunch break. In the early afternoon, you take a bus from the city center, which brings you across the river to Bolko Island. This cluster is dedicated to enjoying nature. You stroll through the park and spend most of the afternoon at the impressive Opole Zoo. In the late afternoon, a bus will comfortably take you back to the center, where you can end your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rolada śląska",
+            "tip": "Eine Rinderroulade, gefüllt mit Speck, Gurken und Zwiebeln. Ein sehr traditionelles Gericht."
+          },
+          {
+            "name": "Pod Arkadami",
+            "tip": "Ein beliebtes Restaurant am Marktplatz, leicht zu erreichen, bevor Sie den Bus nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziléziai tekercs (Rolada śląska)",
+            "tip": "Marhahústekercs szalonnával, uborkával és hagymával töltve. Nagyon hagyományos étel."
+          },
+          {
+            "name": "Pod Arkadami",
+            "tip": "Népszerű étterem a piactéren, könnyen elérhető, mielőtt buszra szállna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruladă sileziană (Rolada śląska)",
+            "tip": "O ruladă de vită umplută cu slănină, castraveți și ceapă. Un fel de mâncare foarte tradițional."
+          },
+          {
+            "name": "Pod Arkadami",
+            "tip": "Un restaurant popular în Piața Pieței, ușor accesibil înainte de a lua autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silesian Roulade (Rolada śląska)",
+            "tip": "A beef roulade filled with bacon, pickles, and onions. A very traditional dish."
+          },
+          {
+            "name": "Pod Arkadami",
+            "tip": "A popular restaurant in the Market Square, easy to reach before you catch the bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pascheke-Insel",
+            "tip": "Eine kleinere, ruhigere Insel neben Bolko, ideal für eine kurze Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kapelle auf dem St. Adalbert-Hügel",
+            "tip": "Ein erhöhter, friedlicher Ort mit historischer Bedeutung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Fahrt über die Oderbrücke bietet einen schönen, kurzen Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pascheke-sziget",
+            "tip": "Kisebb, csendesebb sziget Bolko mellett, ideális egy rövid meneküléshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kápolna a Szent Adalbert-dombon",
+            "tip": "Magaslati, békés hely, történelmi jelentőséggel.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "Az Odera-hídon való átkelés szép, rövid panorámát nyújt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Pascheke",
+            "tip": "O insulă mai mică și mai liniștită lângă Bolko, ideală pentru o scurtă evadare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capela de pe Dealul Sf. Adalbert",
+            "tip": "Un loc înălțat, pașnic, cu semnificație istorică.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Călătoria peste podul Odra oferă o priveliște panoramică frumoasă și scurtă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pascheke Island",
+            "tip": "A smaller, quieter island next to Bolko, ideal for a short escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Chapel on St. Adalbert's Hill",
+            "tip": "An elevated, peaceful spot with historical significance.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The ride over the Odra bridge offers a nice, short panoramic view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hala Kupców",
+            "tip": "Eine Markthalle, in der Sie lokale Produkte und Alltagsgegenstände finden können."
+          },
+          {
+            "name": "Księgarnia 'Na piętrze'",
+            "tip": "Eine charmante Buchhandlung mit einer guten Auswahl an Büchern über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hala Kupców",
+            "tip": "Vásárcsarnok, ahol helyi termékeket és mindennapi cikkeket találhat."
+          },
+          {
+            "name": "Księgarnia 'Na piętrze'",
+            "tip": "Bájos könyvesbolt, jó választékkal a régióról szóló könyvekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Kupców",
+            "tip": "O hală de piață unde puteți găsi produse locale și articole de zi cu zi."
+          },
+          {
+            "name": "Księgarnia 'Na piętrze'",
+            "tip": "O librărie fermecătoare cu o selecție bună de cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hala Kupców",
+            "tip": "A market hall where you can find local products and everyday items."
+          },
+          {
+            "name": "Księgarnia 'Na piętrze'",
+            "tip": "A charming bookstore with a good selection of books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt von der Insel Bolko.",
+          "Apps für den öffentlichen Nahverkehr können sehr hilfreich sein, um Routen in Echtzeit zu planen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a Bolko-szigetről való visszautazáshoz.",
+          "A tömegközlekedési alkalmazások nagyon hasznosak lehetnek az útvonalak valós idejű tervezésében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere de pe Insula Bolko.",
+          "Aplicațiile de transport public pot fi foarte utile pentru planificarea rutelor în timp real."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the return trip from Bolko Island.",
+          "Public transport apps can be very helpful for planning routes in real time."
+        ]
+      }
+    }
+  }
+}

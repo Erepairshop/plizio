@@ -1,0 +1,1292 @@
+{
+  "city_id": "bulgaria-yambol-cities-v2",
+  "anchor": {
+    "name": "Jambol",
+    "coords": [
+      26.5,
+      42.4833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Besisten",
+            "hu": "Besziszten",
+            "ro": "Besisten",
+            "en": "The Bezisten"
+          },
+          "coords": [
+            26.5045,
+            42.484
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur und spüren Sie die Marktatmosphäre.",
+            "hu": "Csodálja meg az oszmán építészetet és érezze a piaci hangulatot.",
+            "ro": "Admirați arhitectura otomană și simțiți atmosfera pieței.",
+            "en": "Admire the Ottoman architecture and feel the market atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.507,
+            42.4855
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Ikonostase und die Wandmalereien.",
+            "hu": "Figyelje meg a lenyűgöző ikonosztázt és a falfestményeket.",
+            "ro": "Observați iconostasul impresionant și picturile murale.",
+            "en": "Note the impressive iconostasis and the murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.502,
+            42.486
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen über die thrakische Geschichte der Region.",
+            "hu": "Összpontosítson a régió trák történelmét bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria tracică a regiunii.",
+            "en": "Focus on the exhibitions about the Thracian history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Newena Kokanowa",
+            "hu": "Nevena Kokanova Színház",
+            "ro": "Teatrul Dramatic Nevena Kokanova",
+            "en": "Nevena Kokanova Drama Theatre"
+          },
+          "coords": [
+            26.505,
+            42.487
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:31",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee im Theatercafé, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Fogyasszon el egy kávét a színházi kávézóban, még ha nem is megy előadásra.",
+            "ro": "Savurați o cafea la cafeneaua teatrului, chiar dacă nu vizionați un spectacol.",
+            "en": "Enjoy a coffee at the theatre café, even if you're not seeing a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Jambol",
+            "hu": "Jamboli Városi Park",
+            "ro": "Parcul orașului Yambol",
+            "en": "Yambol City Park"
+          },
+          "coords": [
+            26.495,
+            42.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:21",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause oder einen entspannten Spaziergang am Fluss Tundscha.",
+            "hu": "Tökéletes egy ebédszünetre vagy egy pihentető sétára a Tundzsa folyó mentén.",
+            "ro": "Perfect pentru o pauză de prânz sau o plimbare relaxantă pe malul râului Tundzha.",
+            "en": "Perfect for a lunch break or a relaxing stroll along the Tundzha River."
+          }
+        },
+        {
+          "name": {
+            "de": "Borowez-Hügel",
+            "hu": "Borovec-hegy",
+            "ro": "Dealul Borovets",
+            "en": "Borovets Hill"
+          },
+          "coords": [
+            26.48,
+            42.48
+          ],
+          "category": "natural features",
+          "arrive_at": "16:57",
+          "stay_min": 48,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf die Stadt bei Sonnenuntergang.",
+            "hu": "A legjobb hely a város panorámájának megcsodálására naplementekor.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică a orașului la apus.",
+            "en": "The best spot for a panoramic view of the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der osmanischen Geschichte Jambols, dem Besisten. Nach der Erkundung der religiösen Kunst in der St.-Nikolaus-Kirche tauchen Sie tief in die Vergangenheit im Historischen Museum ein. Der Nachmittag bietet eine kulturelle Pause im Theaterviertel, gefolgt von einer ausgedehnten Entspannungsphase im grünen Stadtpark. Den perfekten Abschluss bildet der Aufstieg auf den Borowez-Hügel, um den Sonnenuntergang über der Stadt zu erleben.",
+        "hu": "Kezdje a napot Jambol oszmán történelmének szívében, a Beszisztennél. A Szent Miklós-templom vallási művészetének felfedezése után merüljön el a múltban a Történeti Múzeumban. A délután kulturális szünetet kínál a színházi negyedben, majd egy hosszú pihenést a zöld Városi Parkban. A napot a Borovec-hegy megmászása koronázza meg, ahonnan megcsodálhatja a naplementét a város felett.",
+        "ro": "Începeți ziua în inima istoriei otomane din Yambol, la Bezisten. După ce explorați arta religioasă la Biserica Sf. Nicolae, adânciți-vă în trecut la Muzeul de Istorie. După-amiaza oferă o pauză culturală în cartierul teatrelor, urmată de o perioadă extinsă de relaxare în Parcul verde al orașului. Încheiați perfect ziua urcând pe Dealul Borovets pentru a admira apusul peste oraș.",
+        "en": "Start your day in the heart of Yambol's Ottoman history at the Bezisten. After exploring the religious art at St. Nicholas Church, delve deep into the past at the Historical Museum. The afternoon offers a cultural break in the theatre district, followed by an extended period of relaxation in the green City Park. The perfect end to the day is a climb up Borovets Hill to watch the sunset over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Djolan",
+            "tip": "Probieren Sie traditionelle bulgarische Gerichte in einer authentischen Atmosphäre."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gekochter Eintopf mit Schweine- oder Hühnerfleisch und Gemüse, ein lokaler Favorit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Djolan",
+            "tip": "Kóstolja meg a hagyományos bolgár ételeket autentikus környezetben."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főzött sertés- vagy csirkehúsos, zöldséges ragu, a helyiek kedvence."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Djolan",
+            "tip": "Încercați mâncăruri tradiționale bulgărești într-o atmosferă autentică."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "O tocană gătită lent, cu carne de porc sau pui și legume, un favorit local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Djolan",
+            "tip": "Try traditional Bulgarian dishes in an authentic atmosphere."
+          },
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked stew with pork or chicken and vegetables, a local favourite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Jambol",
+            "tip": "Finden Sie eine ruhige Bank am Fluss Tundscha.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borowez-Hügel",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamboli Városi Park",
+            "tip": "Keressen egy csendes padot a Tundzsa folyó partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borovec-hegy",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Yambol",
+            "tip": "Găsiți o bancă liniștită lângă râul Tundzha.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Borovets",
+            "tip": "Bucurați-vă de liniște și de priveliștea largă asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Yambol City Park",
+            "tip": "Find a quiet bench by the Tundzha River.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Borovets Hill",
+            "tip": "Enjoy the silence and the wide view over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentraler Bauernmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte, Honig und traditionellen bulgarischen Käse (Sirene)."
+          },
+          {
+            "name": "Souvenirläden um den Besisten",
+            "tip": "Finden Sie handgefertigte Keramik und Textilien mit lokalen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Termelői Piac",
+            "tip": "Vásároljon friss helyi termékeket, mézet és hagyományos bolgár sajtot (szirene)."
+          },
+          {
+            "name": "Ajándékboltok a Besziszten körül",
+            "tip": "Keressen kézzel készített kerámiákat és textíliákat helyi motívumokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală a Fermierilor",
+            "tip": "Cumpărați produse locale proaspete, miere și brânză tradițională bulgărească (Sirene)."
+          },
+          {
+            "name": "Magazine de suveniruri în jurul Bezistenului",
+            "tip": "Găsiți ceramică și textile lucrate manual, cu motive locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Farmers' Market",
+            "tip": "Buy fresh local produce, honey, and traditional Bulgarian cheese (Sirene)."
+          },
+          {
+            "name": "Souvenir shops around the Bezisten",
+            "tip": "Find handmade pottery and textiles with local motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zum Borowez-Hügel.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie Ihre Mittagspause im Stadtpark für eine entspannte Atmosphäre."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek az óvárosban.",
+          "Vigyen magával vizet, különösen a Borovec-hegyre való feljutáshoz.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezze az ebédszünetet a Városi Parkba a pihentető hangulatért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Luați apă cu dumneavoastră, în special pentru urcarea pe Dealul Borovets.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați-vă pauza de prânz în Parcul Orașului pentru o atmosferă relaxantă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring water with you, especially for the climb to Borovets Hill.",
+          "Most central sights are within easy walking distance.",
+          "Plan your lunch break in the City Park for a relaxing atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Jambol",
+            "hu": "Jamboli Városi Park",
+            "ro": "Parcul orașului Yambol",
+            "en": "Yambol City Park"
+          },
+          "coords": [
+            26.495,
+            42.483
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer leichten Radtour entlang des Flusses.",
+            "hu": "Kezdje a napot egy könnyű kerékpártúrával a folyó mentén.",
+            "ro": "Începeți ziua cu o plimbare ușoară cu bicicleta de-a lungul râului.",
+            "en": "Start the day with a gentle bike ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Borowez-Hügel",
+            "hu": "Borovec-hegy",
+            "ro": "Dealul Borovets",
+            "en": "Borovets Hill"
+          },
+          "coords": [
+            26.48,
+            42.48
+          ],
+          "category": "natural features",
+          "arrive_at": "10:11",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert. Ein guter Test für Ihre Ausdauer am Morgen.",
+            "hu": "A kilátás megéri a mászást. Jó állóképességi teszt reggelre.",
+            "ro": "Urcușul merită priveliștea. Un test bun pentru rezistența de dimineață.",
+            "en": "The climb is worth the view. A good test for your morning stamina."
+          }
+        },
+        {
+          "name": {
+            "de": "Besisten",
+            "hu": "Besziszten",
+            "ro": "Besisten",
+            "en": "The Bezisten"
+          },
+          "coords": [
+            26.5045,
+            42.484
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:56",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie den Markt zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel a piacot gyalog.",
+            "ro": "Parcați bicicleta în apropiere și explorați piața pe jos.",
+            "en": "Park your bike nearby and explore the market on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            26.508,
+            42.482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die bulgarische Wiedergeburtsarchitektur.",
+            "hu": "A bolgár nemzeti újjászületés építészetének szép példája.",
+            "ro": "Un exemplu frumos de arhitectură renascentistă bulgară.",
+            "en": "A fine example of Bulgarian National Revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.502,
+            42.486
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause ein und tauchen Sie in die Geschichte ein.",
+            "hu": "Tervezze ide az ebédszünetet, és merüljön el a történelemben.",
+            "ro": "Planificați-vă pauza de prânz aici și scufundați-vă în istorie.",
+            "en": "Plan your lunch break around here and dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Kabiyle",
+            "hu": "Kabile Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Kabile",
+            "en": "Kabile Archaeological Reserve"
+          },
+          "coords": [
+            26.58,
+            42.53
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Die Radtour lohnt sich. Dies ist eine der wichtigsten antiken Stätten Bulgariens.",
+            "hu": "Megéri a kerékpártúrát. Ez Bulgária egyik legfontosabb ókori lelőhelye.",
+            "ro": "Plimbarea cu bicicleta merită. Acesta este unul dintre cele mai importante situri antice din Bulgaria.",
+            "en": "The bike ride is worth it. This is one of Bulgaria's most important ancient sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück im Stadtzentrum",
+            "hu": "Vissza a városközpontba",
+            "ro": "Înapoi în centrul orașului",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            26.5045,
+            42.484
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:51",
+          "stay_min": 0,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zeit für ein wohlverdientes Abendessen nach einem langen Radtag.",
+            "hu": "Ideje egy jól megérdemelt vacsorának egy hosszú kerékpáros nap után.",
+            "ro": "Timpul pentru o cină binemeritată după o zi lungă de ciclism.",
+            "en": "Time for a well-deserved dinner after a long day of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einer entspannten Fahrt durch den Stadtpark und einem morgendlichen Anstieg zum Borowez-Hügel für eine tolle Aussicht. Danach rollen Sie ins historische Zentrum, um den Besisten und die St.-Georgs-Kirche zu erkunden. Nach einer ausgiebigen Mittagspause und einem tiefen Einblick in die Geschichte im Museum führt Sie die Hauptetappe des Tages zum beeindruckenden Archäologischen Reservat Kabiyle. Die Rückfahrt ins Zentrum rundet einen sportlichen und kulturellen Tag ab.",
+        "hu": "A kerékpártúra egy pihentető tekeréssel kezdődik a Városi Parkon keresztül, majd egy reggeli emelkedővel a Borovec-hegyre a nagyszerű kilátásért. Ezután a történelmi központba gurul, hogy felfedezze a Besziszten-t és a Szent György-templomot. Egy kiadós ebédszünet és a múzeumban szerzett mély történelmi betekintés után a nap fő szakasza a lenyűgöző Kabile Régészeti Rezervátumhoz vezet. A központba való visszatekerés zárja a sportos és kulturális napot.",
+        "ro": "Turul cu bicicleta începe cu o plimbare relaxantă prin Parcul Orașului și o urcare matinală pe Dealul Borovets pentru o priveliște minunată. Apoi, vă îndreptați spre centrul istoric pentru a explora Bezistenul și Biserica Sf. Gheorghe. După o pauză de prânz consistentă și o incursiune profundă în istorie la muzeu, etapa principală a zilei vă duce la impresionanta Rezervație Arheologică Kabile. Drumul înapoi spre centru încheie o zi sportivă și culturală.",
+        "en": "Your bike tour starts with a relaxing ride through the City Park and a morning climb up Borovets Hill for a great view. You'll then roll into the historic center to explore the Bezisten and St. George Church. After a hearty lunch break and a deep dive into history at the museum, the day's main leg takes you to the impressive Kabile Archaeological Reserve. The ride back to the center completes a sporty and cultural day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Zlaten Rog",
+            "tip": "Ein beliebter Ort bei Einheimischen, der für seine Grillgerichte bekannt ist."
+          },
+          {
+            "name": "Shkembe Chorba",
+            "tip": "Eine traditionelle Kuttelsuppe, die oft als Katermittel gegessen wird, aber auch sonst sehr lecker ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zlaten Rog Étterem",
+            "tip": "A helyiek körében népszerű hely, amely grillételeiről ismert."
+          },
+          {
+            "name": "Shkembe Chorba",
+            "tip": "Hagyományos pacalleves, amelyet gyakran másnaposság ellen fogyasztanak, de egyébként is nagyon finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Zlaten Rog",
+            "tip": "Un loc popular printre localnici, cunoscut pentru preparatele sale la grătar."
+          },
+          {
+            "name": "Shkembe Chorba",
+            "tip": "O ciorbă tradițională de burtă, adesea consumată ca remediu pentru mahmureală, dar delicioasă oricând."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zlaten Rog Restaurant",
+            "tip": "A popular spot with locals, known for its grilled meats."
+          },
+          {
+            "name": "Shkembe Chorba",
+            "tip": "A traditional tripe soup, often eaten as a hangover cure but also delicious anytime."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Tundscha",
+            "tip": "Finden Sie einen ruhigen Ort entlang des Radweges im Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gelände von Kabiyle",
+            "tip": "Abseits der Hauptruinen finden Sie ruhige Ecken mit einer besonderen historischen Atmosphäre.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tundzsa folyó partja",
+            "tip": "Keressen egy csendes helyet a park kerékpárútja mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kabile területe",
+            "tip": "A fő romoktól távolabb csendes sarkokat találhat különleges történelmi hangulattal.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tundzha",
+            "tip": "Găsiți un loc liniștit de-a lungul pistei de biciclete din parc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Situl Kabile",
+            "tip": "Departe de ruinele principale, puteți găsi colțuri liniștite cu o atmosferă istorică specială.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tundzha River",
+            "tip": "Find a quiet spot along the bike path in the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grounds of Kabile",
+            "tip": "Away from the main ruins, you can find quiet corners with a special historical atmosphere.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen, gibt es einige kleine Läden im Stadtzentrum."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Kaufen Sie Energie für die Fahrt in Form von frischem Obst oder Nüssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége, a városközpontban talál néhány kis üzletet."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Vásároljon energiát az úthoz friss gyümölcs vagy diófélék formájában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Dacă aveți nevoie de piese de schimb sau accesorii, există câteva magazine mici în centrul orașului."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Cumpărați energie pentru drum sub formă de fructe proaspete sau nuci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "If you need any spare parts or accessories, there are a few small shops in the city center."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Buy some energy for the ride in the form of fresh fruit or nuts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere vor der längeren Fahrt nach Kabiyle.",
+          "Ein Schloss ist unerlässlich, um Ihr Fahrrad sicher abzustellen, während Sie die Sehenswürdigkeiten besichtigen.",
+          "Die Straßen können außerhalb des Zentrums uneben sein, fahren Sie vorsichtig.",
+          "Nehmen Sie ausreichend Wasser und Snacks für die Tour nach Kabiyle mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a Kabilébe vezető hosszabb út előtt.",
+          "A lakat elengedhetetlen a kerékpár biztonságos lezárásához a látnivalók megtekintése közben.",
+          "Az utak a központon kívül egyenetlenek lehetnek, vezessen óvatosan.",
+          "Vigyen magával elegendő vizet és harapnivalót a kabilei túrára."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special înainte de călătoria mai lungă spre Kabile.",
+          "Un lacăt este esențial pentru a vă asigura bicicleta în timp ce vizitați obiectivele turistice.",
+          "Drumurile pot fi denivelate în afara centrului, conduceți cu prudență.",
+          "Luați suficientă apă și gustări pentru turul la Kabile."
+        ],
+        "en": [
+          "Check your bike before you leave, especially before the longer ride to Kabile.",
+          "A lock is essential to secure your bike while you visit the sights.",
+          "Roads can be uneven outside the center, ride with care.",
+          "Take enough water and snacks for the tour to Kabile."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 21.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Reservat Kabiyle",
+            "hu": "Kabile Régészeti Rezervátum",
+            "ro": "Rezervația Arheologică Kabile",
+            "en": "Kabile Archaeological Reserve"
+          },
+          "coords": [
+            26.58,
+            42.53
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den größten Andrang zu vermeiden. Es gibt einen großen Parkplatz.",
+            "hu": "Kezdje itt, hogy elkerülje a legnagyobb tömeget. Nagy parkoló áll rendelkezésre.",
+            "ro": "Începeți de aici pentru a evita aglomerația. Există o parcare mare.",
+            "en": "Start here to avoid the biggest crowds. There is a large car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken im Stadtzentrum (Cluster A)",
+            "hu": "Parkolás a városközpontban (A-klaszter)",
+            "ro": "Parcare în centrul orașului (Cluster A)",
+            "en": "Parking in the City Center (Cluster A)"
+          },
+          "coords": [
+            26.503,
+            42.485
+          ],
+          "category": "transport",
+          "arrive_at": "11:50",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe des Museums und erkunden Sie den Rest zu Fuß.",
+            "hu": "Keressen egy parkolót a múzeum közelében, a többit pedig fedezze fel gyalog.",
+            "ro": "Găsiți o parcare lângă muzeu și explorați restul pe jos.",
+            "en": "Find a parking spot near the museum and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum & Mittagessen",
+            "hu": "Történeti Múzeum és ebéd",
+            "ro": "Muzeul de Istorie și Prânz",
+            "en": "Historical Museum & Lunch"
+          },
+          "coords": [
+            26.502,
+            42.486
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verbinden Sie den Museumsbesuch mit einer Mittagspause in einem nahegelegenen Restaurant.",
+            "hu": "Kösse össze a múzeumlátogatást egy ebédszünettel egy közeli étteremben.",
+            "ro": "Combinați vizita la muzeu cu o pauză de prânz la un restaurant din apropiere.",
+            "en": "Combine the museum visit with a lunch break at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Besisten",
+            "hu": "Besziszten",
+            "ro": "Besisten",
+            "en": "The Bezisten"
+          },
+          "coords": [
+            26.5045,
+            42.484
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum. Der zentrale Treffpunkt der Stadt.",
+            "hu": "Rövid séta a múzeumtól. A város központi találkozóhelye.",
+            "ro": "O scurtă plimbare de la muzeu. Punctul central de întâlnire al orașului.",
+            "en": "A short walk from the museum. The city's central meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            26.508,
+            42.482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die letzte Station im Stadtzentrum, bevor Sie zu einem anderen Aussichtspunkt fahren.",
+            "hu": "Az utolsó megálló a városközpontban, mielőtt egy másik kilátóponthoz hajtana.",
+            "ro": "Ultima oprire în centrul orașului înainte de a conduce spre un alt punct de belvedere.",
+            "en": "The last stop in the city center before driving to another viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Borowez-Hügel (Cluster B)",
+            "hu": "Borovec-hegy (B-klaszter)",
+            "ro": "Dealul Borovets (Cluster B)",
+            "en": "Borovets Hill (Cluster B)"
+          },
+          "coords": [
+            26.48,
+            42.48
+          ],
+          "category": "natural features",
+          "arrive_at": "15:48",
+          "stay_min": 82,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11,
+          "tip_5lang": {
+            "de": "Fahren Sie hierher für den besten Panoramablick am späten Nachmittag. Parkplätze sind vorhanden.",
+            "hu": "Hajtson ide a legjobb késő délutáni panorámáért. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Conduceți aici pentru cea mai bună vedere panoramică la sfârșitul după-amiezii. Parcarea este disponibilă.",
+            "en": "Drive here for the best late afternoon panoramic view. Parking is available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der weitesten Fahrt zum beeindruckenden Archäologischen Reservat Kabiyle. Nach einem intensiven Vormittag fahren Sie ins Zentrum von Jambol, parken Ihr Auto und erkunden den ersten Stadtcluster zu Fuß: das Historische Museum, den Besisten und die St.-Georgs-Kirche. Nach diesem historischen Spaziergang nehmen Sie das Auto für eine kurze Fahrt zum Borowez-Hügel, dem zweiten Cluster des Tages, um den Nachmittag mit einem atemberaubenden Panoramablick ausklingen zu lassen.",
+        "hu": "A nap a legtávolabbi utazással kezdődik a lenyűgöző Kabile Régészeti Rezervátumhoz. Egy intenzív délelőtt után hajtson be Jambol központjába, parkolja le az autót, és fedezze fel gyalog az első városi klasztert: a Történeti Múzeumot, a Besziszten-t és a Szent György-templomot. E történelmi séta után üljön autóba egy rövid útra a Borovec-hegyre, a nap második klaszteréhez, hogy a délutánt egy lélegzetelállító panorámával zárja.",
+        "ro": "Ziua începe cu cea mai lungă călătorie spre impresionanta Rezervație Arheologică Kabile. După o dimineață intensă, conduceți spre centrul Yambolului, parcați mașina și explorați primul cluster urban pe jos: Muzeul de Istorie, Bezistenul și Biserica Sf. Gheorghe. După această plimbare istorică, luați mașina pentru o scurtă călătorie spre Dealul Borovets, al doilea cluster al zilei, pentru a încheia după-amiaza cu o priveliște panoramică uluitoare.",
+        "en": "Your day starts with the longest drive to the impressive Kabile Archaeological Reserve. After an intense morning, you drive to the center of Yambol, park your car, and explore the first city cluster on foot: the Historical Museum, the Bezisten, and St. George Church. After this historical walk, you take the car for a short drive to Borovets Hill, the day's second cluster, to end the afternoon with a breathtaking panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stop & Go Grill",
+            "tip": "Schnell, lecker und ideal für einen schnellen Happen zwischen den Besichtigungen."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein bulgarisches Gebäck mit Käse, perfekt für ein schnelles Frühstück oder einen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stop & Go Grill",
+            "tip": "Gyors, finom és ideális egy gyors falásra a látnivalók között."
+          },
+          {
+            "name": "Banica",
+            "tip": "Bolgár sajtos péksütemény, tökéletes egy gyors reggelihez vagy uzsonnához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stop & Go Grill",
+            "tip": "Rapid, delicios și ideal pentru o gustare rapidă între vizite."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă bulgărească cu brânză, perfectă pentru un mic dejun rapid sau o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stop & Go Grill",
+            "tip": "Fast, delicious, and ideal for a quick bite between sightseeing."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A Bulgarian pastry with cheese, perfect for a quick breakfast or snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologisches Reservat Kabiyle",
+            "tip": "Weitläufiges Gelände, auf dem man leicht ruhige Ecken zum Nachdenken finden kann.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Borowez-Hügel",
+            "tip": "Der Ort für Ruhe und einen weiten Blick über die Stadt hinaus.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kabile Régészeti Rezervátum",
+            "tip": "Tágas terület, ahol könnyen találhat csendes sarkokat az elmélyüléshez.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Borovec-hegy",
+            "tip": "A nyugalom és a városon túli széles kilátás helye.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Arheologică Kabile",
+            "tip": "Un sit vast unde puteți găsi cu ușurință colțuri liniștite pentru contemplare.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Dealul Borovets",
+            "tip": "Locul pentru liniște și o priveliște largă dincolo de oraș.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kabile Archaeological Reserve",
+            "tip": "A spacious site where you can easily find quiet corners for contemplation.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Borovets Hill",
+            "tip": "The place for tranquility and a wide view beyond the city.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop in Kabiyle",
+            "tip": "Finden Sie Repliken von Artefakten und Bücher über thrakische Geschichte."
+          },
+          {
+            "name": "Geschäfte in der Hauptfußgängerzone",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt Kabilében",
+            "tip": "Keressen műtárgymásolatokat és a trák történelemmel foglalkozó könyveket."
+          },
+          {
+            "name": "Üzletek a fő sétálóutcán",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului din Kabile",
+            "tip": "Găsiți replici ale artefactelor și cărți despre istoria tracică."
+          },
+          {
+            "name": "Magazine pe strada pietonală principală",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop at Kabile",
+            "tip": "Find replicas of artifacts and books on Thracian history."
+          },
+          {
+            "name": "Shops on the main pedestrian street",
+            "tip": "A mix of local boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um die besten Routen und Parkplätze zu finden.",
+          "Parken im Stadtzentrum kann an Wochentagen eine Herausforderung sein. Planen Sie Zeit für die Parkplatzsuche ein.",
+          "Der Cluster-Ansatz spart Zeit und Nerven. Parken Sie einmal und gehen Sie zu Fuß.",
+          "Kabiyle ist am besten mit dem Auto zu erreichen und ein absolutes Muss in der Region."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a legjobb útvonalak és parkolóhelyek megtalálásához.",
+          "A városközpontban való parkolás hétköznap kihívást jelenthet. Tervezzen időt a parkolóhely keresésére.",
+          "A klaszter-megközelítés időt és idegeket takarít meg. Parkoljon le egyszer, és sétáljon.",
+          "Kabile a legjobban autóval érhető el, és a régió kihagyhatatlan látnivalója."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi cele mai bune rute și locuri de parcare.",
+          "Parcarea în centrul orașului poate fi o provocare în timpul săptămânii. Alocați timp pentru a căuta un loc.",
+          "Abordarea pe clustere economisește timp și nervi. Parcați o dată și mergeți pe jos.",
+          "Kabile este cel mai bine accesibil cu mașina și este o atracție obligatorie în regiune."
+        ],
+        "en": [
+          "Use a navigation app to find the best routes and parking spots.",
+          "Parking in the city center can be challenging on weekdays. Allow time to find a spot.",
+          "The cluster approach saves time and hassle. Park once and walk.",
+          "Kabile is best reached by car and is an absolute must-see in the region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 19.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Archäologischen Reservat Kabiyle (Cluster A)",
+            "hu": "Utazás a Kabile Régészeti Rezervátumhoz (A-klaszter)",
+            "ro": "Călătorie la Rezervația Arheologică Kabile (Cluster A)",
+            "en": "Trip to Kabile Archaeological Reserve (Cluster A)"
+          },
+          "coords": [
+            26.58,
+            42.53
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom zentralen Busbahnhof. Planen Sie die Fahrtzeit großzügig ein.",
+            "hu": "Menjen busszal a központi buszpályaudvarról. Tervezzen bőséges utazási időt.",
+            "ro": "Luați un autobuz de la autogara centrală. Planificați-vă timpul de călătorie cu generozitate.",
+            "en": "Take a bus from the central bus station. Plan your travel time generously."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum (Cluster B)",
+            "hu": "Vissza a városközpontba (B-klaszter)",
+            "ro": "Întoarcere în centrul orașului (Cluster B)",
+            "en": "Return to City Center (Cluster B)"
+          },
+          "coords": [
+            26.505,
+            42.487
+          ],
+          "category": "transport",
+          "arrive_at": "12:28",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Theaters aus, um den zweiten Teil Ihres Tages zu beginnen.",
+            "hu": "Szálljon le a színház közelében, hogy megkezdje a nap második részét.",
+            "ro": "Coborâți lângă teatru pentru a începe a doua parte a zilei.",
+            "en": "Get off near the theatre to start the second part of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Newena Kokanowa & Mittagessen",
+            "hu": "Nevena Kokanova Színház és ebéd",
+            "ro": "Teatrul Nevena Kokanova și Prânz",
+            "en": "Nevena Kokanova Theatre & Lunch"
+          },
+          "coords": [
+            26.505,
+            42.487
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:29",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Viertel um das Theater bietet viele Möglichkeiten für ein schnelles Mittagessen.",
+            "hu": "A színház környéke számos lehetőséget kínál egy gyors ebédre.",
+            "ro": "Zona din jurul teatrului oferă multe opțiuni pentru un prânz rapid.",
+            "en": "The area around the theatre offers many options for a quick lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.502,
+            42.486
+          ],
+          "category": "museums",
+          "arrive_at": "14:02",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater, um tiefer in die lokale Geschichte einzutauchen.",
+            "hu": "Rövid séta a színháztól, hogy mélyebbre merüljön a helyi történelemben.",
+            "ro": "O scurtă plimbare de la teatru pentru a aprofunda istoria locală.",
+            "en": "A short walk from the theatre to delve deeper into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Besisten und Stadtpark",
+            "hu": "Besziszten és Városi Park",
+            "ro": "Bezisten și Parcul Orașului",
+            "en": "Bezisten and City Park"
+          },
+          "coords": [
+            26.5,
+            42.4835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:37",
+          "stay_min": 123,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang vom Besisten zum entspannenden Stadtpark.",
+            "hu": "Zárja a napot egy sétával a Besziszten-től a pihentető Városi Parkig.",
+            "ro": "Încheiați ziua cu o plimbare de la Bezisten la relaxantul Parc al Orașului.",
+            "en": "End the day with a walk from the Bezisten to the relaxing City Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt öffentliche Verkehrsmittel für die längeren Strecken. Der Vormittag ist ganz dem beeindruckenden Archäologischen Reservat Kabiyle gewidmet, das Sie mit dem Bus erreichen. Nach der Rückkehr ins Zentrum erkunden Sie den fußgängerfreundlichen Cluster aus Theater, Museum, Besisten und Stadtpark. Dieser Spaziergang füllt den Nachmittag mit einem reichen Mix aus Kultur, Geschichte und Entspannung, bevor Sie den Bus für die Heimfahrt nehmen.",
+        "hu": "Ez a terv a hosszabb távolságokra a tömegközlekedést használja. A délelőttöt teljes egészében a lenyűgöző Kabile Régészeti Rezervátumnak szenteljük, amelyet busszal érhet el. A központba való visszatérés után felfedezheti a gyalogosbarát klasztert, amely a színházból, múzeumból, Beszisztenből és a Városi Parkból áll. Ez a séta gazdag kulturális, történelmi és pihentető keverékkel tölti ki a délutánt, mielőtt buszra szállna hazafelé.",
+        "ro": "Acest plan folosește transportul public pentru distanțe mai lungi. Dimineața este dedicată în întregime impresionantei Rezervații Arheologice Kabile, la care ajungeți cu autobuzul. După întoarcerea în centru, explorați clusterul pietonal format din teatru, muzeu, Bezisten și Parcul Orașului. Această plimbare umple după-amiaza cu un amestec bogat de cultură, istorie și relaxare, înainte de a lua autobuzul spre casă.",
+        "en": "This plan utilizes public transport for the longer distances. The morning is entirely dedicated to the impressive Kabile Archaeological Reserve, which you reach by bus. After returning to the center, you'll explore the pedestrian-friendly cluster of the theatre, museum, Bezisten, and City Park. This walk fills the afternoon with a rich mix of culture, history, and relaxation before you take the bus home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Perfekt für einen schnellen und günstigen Snack, während Sie auf den Bus warten."
+          },
+          {
+            "name": "Restaurant Kapri",
+            "tip": "Ein Restaurant mit gutem Ruf in der Nähe des Stadtparks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Tökéletes egy gyors és olcsó harapnivalóhoz, amíg a buszra vár."
+          },
+          {
+            "name": "Kapri Étterem",
+            "tip": "Jó hírű étterem a Városi Park közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Perfect pentru o gustare rapidă și ieftină în timp ce așteptați autobuzul."
+          },
+          {
+            "name": "Restaurant Kapri",
+            "tip": "Un restaurant cu o bună reputație, aproape de Parcul Orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Perfect for a quick and cheap snack while waiting for the bus."
+          },
+          {
+            "name": "Kapri Restaurant",
+            "tip": "A well-regarded restaurant near the City Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Stadtpark",
+            "tip": "Beobachten Sie das Leben, während Sie auf das Rauschen des Flusses lauschen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die stilleren Ecken von Kabiyle",
+            "tip": "Entfliehen Sie den Hauptwegen und spüren Sie die Jahrtausende alte Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Városi Parkban",
+            "tip": "Figyelje az életet, miközben a folyó zúgását hallgatja.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kabile csendesebb sarkai",
+            "tip": "Meneküljön el a fő útvonalakról, és érezze az évezredes történelmet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Orașului",
+            "tip": "Priviți viața cum trece în timp ce ascultați sunetul râului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțurile mai liniștite din Kabile",
+            "tip": "Evadați de pe cărările principale și simțiți istoria de mii de ani.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the City Park",
+            "tip": "Watch life go by while listening to the sound of the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The quieter corners of Kabile",
+            "tip": "Escape the main paths and feel the millennia of history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske am Busbahnhof",
+            "tip": "Nützlich für Getränke, Snacks und Zeitungen für die Fahrt."
+          },
+          {
+            "name": "Markt in der Nähe des Besisten",
+            "tip": "Eine gute Gelegenheit, lokale Spezialitäten zu entdecken und zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszpályaudvaron",
+            "tip": "Hasznos italok, harapnivalók és újságok vásárlásához az útra."
+          },
+          {
+            "name": "Piac a Besziszten közelében",
+            "tip": "Jó lehetőség a helyi specialitások felfedezésére és megkóstolására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la autogară",
+            "tip": "Utile pentru băuturi, gustări și ziare pentru călătorie."
+          },
+          {
+            "name": "Piața de lângă Bezisten",
+            "tip": "O bună oportunitate de a descoperi și gusta specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at the bus station",
+            "tip": "Useful for drinks, snacks, and newspapers for the journey."
+          },
+          {
+            "name": "Market near the Bezisten",
+            "tip": "A good opportunity to discover and taste local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne nach Kabiyle, da diese möglicherweise nicht häufig verkehren.",
+          "Kaufen Sie Fahrkarten im Voraus oder haben Sie Kleingeld für den Busfahrer bereit.",
+          "Eine Tageskarte kann günstiger sein, wenn Sie mehrere Fahrten planen.",
+          "Kombinieren Sie Busfahrten mit Spaziergängen, um das Beste aus Ihrem Tag zu machen."
+        ],
+        "hu": [
+          "Előre tájékozódjon a Kabilébe tartó buszmenetrendről, mivel lehet, hogy nem közlekednek sűrűn.",
+          "Vásároljon jegyet előre, vagy készítsen aprópénzt a buszsofőrnek.",
+          "Egy napijegy olcsóbb lehet, ha több utazást tervez.",
+          "Kombinálja a buszozást sétákkal, hogy a legtöbbet hozza ki a napjából."
+        ],
+        "ro": [
+          "Verificați în avans orarele autobuzelor spre Kabile, deoarece s-ar putea să nu fie frecvente.",
+          "Cumpărați bilete în avans sau pregătiți bani mărunți pentru șoferul autobuzului.",
+          "Un bilet de o zi poate fi mai ieftin dacă plănuiți mai multe călătorii.",
+          "Combinați călătoriile cu autobuzul cu plimbările pe jos pentru a profita la maximum de ziua dumneavoastră."
+        ],
+        "en": [
+          "Check the bus schedules to Kabile in advance, as they may not be frequent.",
+          "Buy tickets in advance or have small change ready for the bus driver.",
+          "A day pass might be cheaper if you plan on taking multiple trips.",
+          "Combine bus rides with walking to make the most of your day."
+        ]
+      }
+    }
+  }
+}

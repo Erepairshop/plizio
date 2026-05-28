@@ -1,0 +1,1287 @@
+{
+  "city_id": "sweden-helsingborg-cities-v2",
+  "anchor": {
+    "name": "Helsingborg",
+    "coords": [
+      12.6945,
+      56.0465
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Henry Dunkers Plats",
+            "hu": "Henry Dunkers tér",
+            "ro": "Piața Henry Dunker",
+            "en": "Henry Dunkers Plats"
+          },
+          "coords": [
+            12.691,
+            56.048
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Meeresbrise und dem Blick auf den Jachthafen.",
+            "hu": "Kezdje a napot a tengeri szellővel és a kikötő látványával.",
+            "ro": "Începeți ziua cu o briză marină și priveliștea portului de agrement.",
+            "en": "Start your day with a sea breeze and views of the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunkers Kulturhus",
+            "hu": "Dunkers Kultúrház",
+            "ro": "Centrul Cultural Dunkers",
+            "en": "Dunkers Kulturhus"
+          },
+          "coords": [
+            12.692,
+            56.049
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Wechselausstellungen; oft gibt es überraschende lokale Kunst.",
+            "hu": "Nézze meg az időszaki kiállításokat; gyakran vannak meglepő helyi művészeti alkotások.",
+            "ro": "Verificați expozițiile temporare; adesea există artă locală surprinzătoare.",
+            "en": "Check the temporary exhibitions; there's often surprising local art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Rådhuset)",
+            "hu": "Városháza (Rådhuset)",
+            "ro": "Primăria (Rådhuset)",
+            "en": "City Hall (Rådhuset)"
+          },
+          "coords": [
+            12.694,
+            56.046
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die Glasmalereien.",
+            "hu": "Csodálja meg a neogótikus építészetet és az ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică și vitraliile.",
+            "en": "Admire the neo-Gothic architecture and the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrasstrapporna",
+            "hu": "Terrasstrapporna",
+            "ro": "Scările Terasate (Terrasstrapporna)",
+            "en": "The Terrace Stairs (Terrasstrapporna)"
+          },
+          "coords": [
+            12.697,
+            56.046
+          ],
+          "category": "monuments",
+          "arrive_at": "12:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zählen Sie die Stufen nicht, genießen Sie einfach den Aufstieg und die Aussicht.",
+            "hu": "Ne számolja a lépcsőket, csak élvezze a feljutást és a kilátást.",
+            "ro": "Nu numărați treptele, bucurați-vă de urcare și de priveliște.",
+            "en": "Don't count the steps, just enjoy the climb and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kärnan",
+            "hu": "Kärnan",
+            "ro": "Turnul Kärnan",
+            "en": "Kärnan"
+          },
+          "coords": [
+            12.698,
+            56.047
+          ],
+          "category": "castles",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Turmspitze ist die beste Panoramaaussicht auf die Stadt und Dänemark wert.",
+            "hu": "A torony tetejére való felmászás megéri a legjobb panorámáért a városra és Dániára.",
+            "ro": "Urcarea în vârful turnului merită pentru cea mai bună vedere panoramică asupra orașului și a Danemarcei.",
+            "en": "The climb to the top of the tower is worth it for the best panoramic view of the city and Denmark."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Marien Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            12.696,
+            56.044
+          ],
+          "category": "churches",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem beeindruckenden astronomischen Uhrwerk aus dem 15. Jahrhundert.",
+            "hu": "Keresse meg a lenyűgöző 15. századi csillagászati órát.",
+            "ro": "Căutați impresionantul ceas astronomic din secolul al XV-lea.",
+            "en": "Look for the impressive 15th-century astronomical clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Öresundsparken",
+            "hu": "Öresundsparken",
+            "ro": "Parcul Öresund",
+            "en": "Öresundsparken"
+          },
+          "coords": [
+            12.705,
+            56.039
+          ],
+          "category": "parks",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine entspannte Pause am Nachmittag, bevor Sie zum Abendessen gehen.",
+            "hu": "Tökéletes hely egy pihentető délutáni szünetre, mielőtt vacsorázni indulna.",
+            "ro": "Un loc perfect pentru o pauză relaxantă de după-amiază înainte de a merge la cină.",
+            "en": "A perfect spot for a relaxing afternoon break before heading to dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr morgendlicher Spaziergang beginnt am Wasser am Henry Dunkers Plats und führt Sie in die Welt der Kunst im Dunkers Kulturhus. Mittags erklimmen Sie historische Höhen, vom neugotischen Rathaus über die Terrasstrapporna bis zum mittelalterlichen Kärnan-Turm. Der Nachmittag wird besinnlich in der St. Marien Kirche, bevor ein längerer Spaziergang zum Öresundsparken führt, um die Seele baumeln zu lassen. Der Abend lockt mit den Aromen der Kullagatan, wo Sie sich in einem der gemütlichen Restaurants für Ihre Wanderleistung belohnen.",
+        "hu": "Reggeli sétája a vízparton, a Henry Dunkers Plats-nál kezdődik, majd a Dunkers Kultúrház művészeti világába vezet. Délben történelmi magasságokba emelkedik, a neogótikus Városházától a Terrasstrappornán át a középkori Kärnan toronyig. A délután elmélkedéssel telik a Szent Mária-templomban, mielőtt egy hosszabb séta az Öresundsparkenbe vezet, ahol kikapcsolódhat. Az este a Kullagatan illataival csábít, ahol egy hangulatos étteremben jutalmazhatja meg magát a gyaloglásért.",
+        "ro": "Plimbarea de dimineață începe pe malul apei, la Piața Henry Dunker, și vă duce în lumea artei la Centrul Cultural Dunkers. La prânz, urcați pe înălțimi istorice, de la Primăria neogotică, pe Scările Terasate, până la turnul medieval Kärnan. După-amiaza devine contemplativă la Biserica Sf. Maria, înainte ca o plimbare mai lungă să vă ducă la Parcul Öresund pentru relaxare. Seara vă ademenește cu aromele de pe Kullagatan, unde vă puteți răsplăti pentru efortul depus la unul dintre restaurantele primitoare.",
+        "en": "Your morning walk begins at the waterfront at Henry Dunkers Plats, leading you into the world of art at Dunkers Kulturhus. At midday, you'll climb historical heights, from the neo-Gothic City Hall via the Terrace Stairs to the medieval Kärnan tower. The afternoon turns contemplative at St. Mary's Church before a longer stroll takes you to Öresundsparken to unwind. The evening beckons with the aromas of Kullagatan, where you can reward yourself for your walking efforts at a cozy restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sillen & Makrillen",
+            "tip": "Fisch und Meeresfrüchte mit unschlagbarem Blick auf den Öresund."
+          },
+          {
+            "name": "Kroppkaka",
+            "tip": "Probieren Sie diese traditionellen schwedischen Kartoffelklöße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sillen & Makrillen",
+            "tip": "Hal és tenger gyümölcsei, verhetetlen kilátással az Öresundra."
+          },
+          {
+            "name": "Kroppkaka",
+            "tip": "Kóstolja meg ezt a hagyományos svéd burgonyagombócot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sillen & Makrillen",
+            "tip": "Pește și fructe de mare cu o vedere imbatabilă la strâmtoarea Öresund."
+          },
+          {
+            "name": "Kroppkaka",
+            "tip": "Încercați aceste găluște tradiționale suedeze din cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sillen & Makrillen",
+            "tip": "Fish and seafood with an unbeatable view of the Öresund sound."
+          },
+          {
+            "name": "Kroppkaka",
+            "tip": "Try this traditional Swedish potato dumpling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Öresundsparken",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Fähren nach Dänemark.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Marien Kirche",
+            "tip": "Ein Moment der Stille in einem historischen Juwel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öresundsparken",
+            "tip": "Keressen egy csendes padot, és nézze a Dániába tartó kompokat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Mária-templom",
+            "tip": "Egy csendes pillanat egy történelmi gyöngyszemben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Öresund",
+            "tip": "Găsiți o bancă liniștită și priviți feriboturile spre Danemarca.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Maria",
+            "tip": "Un moment de liniște într-o bijuterie istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Öresundsparken",
+            "tip": "Find a quiet bench and watch the ferries to Denmark.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Mary's Church",
+            "tip": "A moment of peace inside a historical gem.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kullagatan",
+            "tip": "Schwedens älteste Fußgängerzone, ideal für Mode und Design."
+          },
+          {
+            "name": "Marias Torg",
+            "tip": "Ein charmanter Platz mit kleinen Boutiquen und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kullagatan",
+            "tip": "Svédország legrégebbi sétálóutcája, ideális divat- és dizájnboltokhoz."
+          },
+          {
+            "name": "Marias Torg",
+            "tip": "Bájos tér kis butikokkal és kávézókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kullagatan",
+            "tip": "Cea mai veche stradă pietonală din Suedia, ideală pentru modă și design."
+          },
+          {
+            "name": "Piața Maria (Marias Torg)",
+            "tip": "O piață fermecătoare cu buticuri mici și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kullagatan",
+            "tip": "Sweden's oldest pedestrian street, great for fashion and design."
+          },
+          {
+            "name": "Marias Torg",
+            "tip": "A charming square with small boutiques and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann ermüdend sein.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich, es gibt öffentliche Brunnen.",
+          "Behalten Sie die Fährpläne im Auge, es macht Spaß, die großen Schiffe ein- und auslaufen zu sehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő fárasztó lehet.",
+          "Egy újratölthető vizes palack hasznos, vannak nyilvános kutak.",
+          "Figyelje a kompok menetrendjét, szórakoztató nézni a nagy hajók érkezését és indulását."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul poate fi obositor.",
+          "O sticlă de apă reutilizabilă este utilă, există fântâni publice.",
+          "Urmăriți orarul feriboturilor, este distractiv să priviți navele mari intrând și ieșind din port."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones can be tiring.",
+          "A reusable water bottle is useful as there are public fountains.",
+          "Keep an eye on the ferry schedules; it's fun to watch the large ships come and go."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Rådhuset)",
+            "hu": "Városháza (Rådhuset)",
+            "ro": "Primăria (Rådhuset)",
+            "en": "City Hall (Rådhuset)"
+          },
+          "coords": [
+            12.694,
+            56.046
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein großartiger, zentraler Startpunkt für Ihre Radtour.",
+            "hu": "Nagyszerű, központi kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare excelent și central pentru turul cu bicicleta.",
+            "en": "A great, central starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kärnan",
+            "hu": "Kärnan",
+            "ro": "Turnul Kärnan",
+            "en": "Kärnan"
+          },
+          "coords": [
+            12.698,
+            56.047
+          ],
+          "category": "castles",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuß des Hügels an und machen Sie den kurzen Aufstieg.",
+            "hu": "Zárja le a kerékpárt a domb alján, és tegye meg a rövid emelkedőt.",
+            "ro": "Legați-vă bicicleta la poalele dealului și faceți scurta urcare.",
+            "en": "Lock your bike at the bottom of the hill and make the short climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredriksdal Museen und Gärten",
+            "hu": "Fredriksdal Múzeumok és Kertek",
+            "ro": "Muzeele și Grădinile Fredriksdal",
+            "en": "Fredriksdal Museums and Gardens"
+          },
+          "coords": [
+            12.723,
+            56.059
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, das Freilichtmuseum ist weitläufig und faszinierend.",
+            "hu": "Tervezzen elég időt, a skanzen tágas és lenyűgöző.",
+            "ro": "Planificați suficient timp, muzeul în aer liber este extins și fascinant.",
+            "en": "Plan enough time; the open-air museum is extensive and fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sofiero",
+            "hu": "Sofiero kastély",
+            "ro": "Castelul Sofiero",
+            "en": "Sofiero Palace"
+          },
+          "coords": [
+            12.689,
+            56.085
+          ],
+          "category": "castles",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Berühmt für seine Rhododendronblüte im späten Frühling. Die Gärten sind spektakulär.",
+            "hu": "Híres a rododendron virágzásáról késő tavasszal. A kertek látványosak.",
+            "ro": "Renumit pentru rododendronii săi înfloriți la sfârșitul primăverii. Grădinile sunt spectaculoase.",
+            "en": "Famous for its rhododendron bloom in late spring. The gardens are spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropical Beach",
+            "hu": "Trópusi strand",
+            "ro": "Plaja Tropicală",
+            "en": "Tropical Beach"
+          },
+          "coords": [
+            12.688,
+            56.055
+          ],
+          "category": "parks",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine schöne Belohnung am Ende des Tages. Entspannen Sie sich im Sand.",
+            "hu": "Szép jutalom a nap végén. Pihenjen a homokban.",
+            "ro": "O recompensă plăcută la sfârșitul zilei. Relaxați-vă pe nisip.",
+            "en": "A nice reward at the end of the day. Relax on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunkers Kulturhus",
+            "hu": "Dunkers Kultúrház",
+            "ro": "Centrul Cultural Dunkers",
+            "en": "Dunkers Kulturhus"
+          },
+          "coords": [
+            12.692,
+            56.049
+          ],
+          "category": "cultural centres",
+          "arrive_at": "17:38",
+          "stay_min": 0,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour hier und genießen Sie einen Kaffee mit Blick auf den Hafen.",
+            "hu": "Fejezze be itt a túrát, és igyon egy kávét a kikötőre néző kilátással.",
+            "ro": "Încheiați turul aici și savurați o cafea cu vedere la port.",
+            "en": "End your tour here and enjoy a coffee overlooking the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie vom Herzen der Stadt, dem Rathaus, hinauf zum historischen Kärnan. Danach führt Sie eine längere Fahrt ins Grüne zu den Fredriksdal Museen und Gärten. Mittags geht es weiter nach Norden zum königlichen Schloss Sofiero, wo Sie durch preisgekrönte Gärten schlendern. Der Nachmittag bringt Sie entlang der Küste zurück, mit einer wohlverdienten Pause am Tropical Beach. Die Tour endet am Dunkers Kulturhus, wo Sie die Eindrücke des Tages bei einem Kaffee am Meer verarbeiten können.",
+        "hu": "Reggel a város szívéből, a Városházától teker fel a történelmi Kärnan-hoz. Ezután egy hosszabb út vezet a zöldbe, a Fredriksdal Múzeumokhoz és Kertekhez. Délben észak felé veszi az irányt a királyi Sofiero kastélyhoz, ahol díjnyertes kertekben sétálhat. A délután a part mentén hozza vissza, egy jól megérdemelt pihenővel a Trópusi strandon. A túra a Dunkers Kultúrháznál ér véget, ahol egy tengerparti kávé mellett dolgozhatja fel a nap élményeit.",
+        "ro": "Dimineața pedalați din inima orașului, de la Primărie, până la istoricul turn Kärnan. Apoi, o plimbare mai lungă vă duce în natură, la Muzeele și Grădinile Fredriksdal. La prânz, continuați spre nord, la castelul regal Sofiero, unde vă puteți plimba prin grădini premiate. După-amiaza vă aduce înapoi de-a lungul coastei, cu o pauză binemeritată la Plaja Tropicală. Turul se încheie la Centrul Cultural Dunkers, unde puteți procesa impresiile zilei cu o cafea lângă mare.",
+        "en": "In the morning, you'll cycle from the heart of the city, the City Hall, up to the historic Kärnan. Afterwards, a longer ride takes you into the countryside to Fredriksdal Museums and Gardens. At midday, you'll continue north to the royal Sofiero Palace, where you can stroll through award-winning gardens. The afternoon brings you back along the coast, with a well-deserved break at Tropical Beach. The tour concludes at Dunkers Kulturhus, where you can process the day's impressions over a coffee by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Holy Greens",
+            "tip": "Ein gesunder und schneller Stopp für Salate und Bowls, perfekt für Radfahrer."
+          },
+          {
+            "name": "Fria bad & bar",
+            "tip": "Direkt am Strand gelegen, ideal für einen Drink nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holy Greens",
+            "tip": "Egészséges és gyors megálló salátákhoz és tálakhoz, tökéletes kerékpárosoknak."
+          },
+          {
+            "name": "Fria bad & bar",
+            "tip": "Közvetlenül a strandon található, ideális egy italra a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holy Greens",
+            "tip": "O oprire sănătoasă și rapidă pentru salate și boluri, perfectă pentru bicicliști."
+          },
+          {
+            "name": "Fria bad & bar",
+            "tip": "Situat chiar pe plajă, ideal pentru o băutură după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Holy Greens",
+            "tip": "A healthy and quick stop for salads and bowls, perfect for cyclists."
+          },
+          {
+            "name": "Fria bad & bar",
+            "tip": "Located right on the beach, ideal for a drink after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Sofiero",
+            "tip": "Verlieren Sie sich in den ruhigen Wegen abseits der Hauptblumenbeete.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pålsjö skog",
+            "tip": "Ein Waldgebiet nördlich von Sofiero, wenn Sie die Tour verlängern möchten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sofiero kertjei",
+            "tip": "Vesszen el a csendes ösvényeken, távol a fő virágágyásoktól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pålsjö skog",
+            "tip": "Egy erdős terület Sofierótól északra, ha meg akarja hosszabbítani a túrát.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sofiero",
+            "tip": "Pierdeți-vă pe cărările liniștite, departe de straturile principale de flori.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pădurea Pålsjö",
+            "tip": "O zonă forestieră la nord de Sofiero, dacă doriți să extindeți turul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Sofiero",
+            "tip": "Get lost on the quiet paths away from the main flower beds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pålsjö skog",
+            "tip": "A forest area north of Sofiero if you want to extend the tour.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sofiero Gårdshandel",
+            "tip": "Kaufen Sie lokale Köstlichkeiten und Pflanzen im Schlossladen."
+          },
+          {
+            "name": "Väla Centrum",
+            "tip": "Ein großes Einkaufszentrum außerhalb der Stadt, leicht mit dem Fahrrad erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sofiero Gårdshandel",
+            "tip": "Vásároljon helyi finomságokat és növényeket a kastélyboltban."
+          },
+          {
+            "name": "Väla Centrum",
+            "tip": "Nagy bevásárlóközpont a városon kívül, kerékpárral könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Sofiero",
+            "tip": "Cumpărați delicatese locale și plante de la magazinul castelului."
+          },
+          {
+            "name": "Väla Centrum",
+            "tip": "Un mare centru comercial în afara orașului, ușor accesibil cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sofiero Farm Shop",
+            "tip": "Buy local delicacies and plants at the palace shop."
+          },
+          {
+            "name": "Väla Centrum",
+            "tip": "A large shopping center outside the city, easily accessible by bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Küste.",
+          "Ein Helm wird empfohlen, ist aber nicht gesetzlich vorgeschrieben.",
+          "Viele Orte haben Fahrradständer, schließen Sie Ihr Rad aber immer gut ab."
+        ],
+        "hu": [
+          "Használja ki a jól kiépített tengerparti kerékpárutakat.",
+          "A sisak ajánlott, de nem kötelező.",
+          "Sok helyen van kerékpártároló, de mindig zárja le jól a kerékpárt."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul coastei.",
+          "Casca este recomandată, dar nu obligatorie prin lege.",
+          "Multe locuri au suporturi pentru biciclete, dar asigurați-vă întotdeauna bicicleta bine."
+        ],
+        "en": [
+          "Take advantage of the well-maintained cycle paths along the coast.",
+          "A helmet is recommended but not legally required.",
+          "Many places have bike racks, but always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 19.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Sofiero",
+            "hu": "Sofiero kastély",
+            "ro": "Castelul Sofiero",
+            "en": "Sofiero Palace"
+          },
+          "coords": [
+            12.689,
+            56.085
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um die besten Parkplätze zu bekommen und die Gärten in Ruhe zu genießen.",
+            "hu": "Érkezzen korán a legjobb parkolóhelyekért, és hogy nyugalomban élvezhesse a kerteket.",
+            "ro": "Ajungeți devreme pentru a obține cele mai bune locuri de parcare și pentru a vă bucura de grădini în liniște.",
+            "en": "Arrive early to get the best parking spots and enjoy the gardens in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredriksdal Museen und Gärten",
+            "hu": "Fredriksdal Múzeumok és Kertek",
+            "ro": "Muzeele și Grădinile Fredriksdal",
+            "en": "Fredriksdal Museums and Gardens"
+          },
+          "coords": [
+            12.723,
+            56.059
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein riesiges Gelände. Nehmen Sie die Karte am Eingang mit, um sich zu orientieren.",
+            "hu": "Hatalmas terület. Vigye magával a bejáratnál kapott térképet a tájékozódáshoz.",
+            "ro": "O zonă uriașă. Luați harta de la intrare pentru a vă orienta.",
+            "en": "A huge area. Take the map at the entrance to find your way around."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus am Kärnan",
+            "hu": "Parkolóház a Kärnannál",
+            "ro": "Parcare la Kärnan",
+            "en": "Parking at Kärnan"
+          },
+          "coords": [
+            12.699,
+            56.048
+          ],
+          "category": "transport",
+          "arrive_at": "14:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Stadtzentrum zu Fuß.",
+            "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel a városközpontot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul orașului pe jos.",
+            "en": "Park here for the rest of the day and explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kärnan",
+            "hu": "Kärnan",
+            "ro": "Turnul Kärnan",
+            "en": "Kärnan"
+          },
+          "coords": [
+            12.698,
+            56.047
+          ],
+          "category": "castles",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt nach dem Parken. Genießen Sie die Aussicht!",
+            "hu": "Az első megálló a parkolás után. Élvezze a kilátást!",
+            "ro": "Prima oprire după parcare. Bucurați-vă de priveliște!",
+            "en": "Your first stop after parking. Enjoy the view!"
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Rådhuset)",
+            "hu": "Városháza (Rådhuset)",
+            "ro": "Primăria (Rådhuset)",
+            "en": "City Hall (Rådhuset)"
+          },
+          "coords": [
+            12.694,
+            56.046
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab vom Kärnan.",
+            "hu": "Rövid séta lefelé a Kärnan-tól.",
+            "ro": "O scurtă plimbare la vale de la Kärnan.",
+            "en": "A short walk downhill from Kärnan."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunkers Kulturhus",
+            "hu": "Dunkers Kultúrház",
+            "ro": "Centrul Cultural Dunkers",
+            "en": "Dunkers Kulturhus"
+          },
+          "coords": [
+            12.692,
+            56.049
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit Kunst und Kultur am Hafen.",
+            "hu": "Szép befejezése a napnak művészettel és kultúrával a kikötőben.",
+            "ro": "Un final frumos de zi cu artă și cultură în port.",
+            "en": "A nice end to the day with art and culture by the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum königlichen Schloss Sofiero, wo Sie den Vormittag in den Gärten verbringen. Die nächste Fahrt bringt Sie zum weitläufigen Freilichtmuseum Fredriksdal für einen tiefen Einblick in die schwedische Geschichte. Am Nachmittag parken Sie Ihr Auto im Zentrum und erkunden den historischen Kern zu Fuß: vom Kärnan-Turm spazieren Sie zum Rathaus und weiter zum modernen Dunkers Kulturhus am Wasser. Dieser Mix aus Fahren und Gehen bietet Ihnen das Beste aus Natur, Geschichte und Stadtleben.",
+        "hu": "A nap a királyi Sofiero kastélyhoz való autózással kezdődik, ahol a délelőttöt a kertekben tölti. A következő út a tágas Fredriksdal skanzenbe vezet, ahol mély betekintést nyerhet a svéd történelembe. Délután leparkolja az autót a központban, és gyalog fedezi fel a történelmi magot: a Kärnan-toronytól a Városházához sétál, majd tovább a modern Dunkers Kultúrházhoz a vízparton. Ez az autózás és gyaloglás keveréke a természet, a történelem és a városi élet legjavát nyújtja.",
+        "ro": "Ziua începe cu o călătorie cu mașina la castelul regal Sofiero, unde petreceți dimineața în grădini. Următoarea călătorie vă duce la vastul muzeu în aer liber Fredriksdal pentru o incursiune profundă în istoria Suediei. După-amiaza, parcați mașina în centru și explorați nucleul istoric pe jos: de la turnul Kärnan vă plimbați la Primărie și mai departe la modernul Centru Cultural Dunkers de pe malul apei. Acest amestec de condus și mers pe jos vă oferă ce este mai bun din natură, istorie și viața urbană.",
+        "en": "Your day begins with a drive to the royal Sofiero Palace, where you'll spend the morning in the gardens. The next drive takes you to the expansive Fredriksdal open-air museum for a deep dive into Swedish history. In the afternoon, you park your car in the center and explore the historic core on foot: from the Kärnan tower, you'll walk to the City Hall and on to the modern Dunkers Kulturhus by the water. This mix of driving and walking offers you the best of nature, history, and city life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sofiero Slottsrestaurang",
+            "tip": "Speisen Sie wie ein König im Schlossrestaurant. Reservierung empfohlen."
+          },
+          {
+            "name": "Gastro Gaspari",
+            "tip": "Italienische Küche im Herzen von Helsingborg für das Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sofiero Slottsrestaurang",
+            "tip": "Étkezzen királyként a kastély éttermében. Asztalfoglalás ajánlott."
+          },
+          {
+            "name": "Gastro Gaspari",
+            "tip": "Olasz konyha Helsingborg szívében vacsorára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sofiero Slottsrestaurang",
+            "tip": "Luați masa ca un rege la restaurantul castelului. Rezervarea este recomandată."
+          },
+          {
+            "name": "Gastro Gaspari",
+            "tip": "Bucătărie italiană în inima Helsingborgului pentru cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sofiero Slottsrestaurang",
+            "tip": "Dine like royalty at the palace restaurant. Reservations recommended."
+          },
+          {
+            "name": "Gastro Gaspari",
+            "tip": "Italian cuisine in the heart of Helsingborg for dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten Fredriksdal",
+            "tip": "Ein ruhiger, abgelegener Teil des Museums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Strand bei Sofiero",
+            "tip": "Ein kurzer Spaziergang vom Schloss für einen ruhigen Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fredriksdal botanikus kertje",
+            "tip": "A múzeum egy csendes, eldugott része.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A strand Sofierónál",
+            "tip": "Rövid séta a kastélytól egy csendes tengeri kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Fredriksdal",
+            "tip": "O parte liniștită și retrasă a muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja de lângă Sofiero",
+            "tip": "O scurtă plimbare de la castel pentru o priveliște liniștită la mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fredriksdal Botanical Garden",
+            "tip": "A quiet, secluded part of the museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The beach near Sofiero",
+            "tip": "A short walk from the palace for a quiet sea view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fredriksdal Gårdsbutik",
+            "tip": "Kaufen Sie handgemachte Produkte und altmodische Süßigkeiten."
+          },
+          {
+            "name": "Lakritsfabriken Ramlösa",
+            "tip": "Ein Muss für Lakritzliebhaber, etwas außerhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fredriksdal Gårdsbutik",
+            "tip": "Vásároljon kézműves termékeket és régimódi édességeket."
+          },
+          {
+            "name": "Lakritsfabriken Ramlösa",
+            "tip": "Kötelező a medvecukor-rajongóknak, kissé a városon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Fredriksdal",
+            "tip": "Cumpărați produse artizanale și dulciuri de modă veche."
+          },
+          {
+            "name": "Lakritsfabriken Ramlösa",
+            "tip": "O necesitate pentru iubitorii de lemn dulce, chiar în afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fredriksdal Farm Shop",
+            "tip": "Buy handmade products and old-fashioned sweets."
+          },
+          {
+            "name": "Lakritsfabriken Ramlösa",
+            "tip": "A must-visit for licorice lovers, just outside the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können in der Innenstadt hoch sein, Parkhäuser sind oft günstiger.",
+          "Planen Sie die Fahrzeiten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Achten Sie auf Umweltzonen (Miljözon) im Stadtzentrum."
+        ],
+        "hu": [
+          "A parkolási díjak magasak lehetnek a belvárosban, a parkolóházak gyakran olcsóbbak.",
+          "Tervezze az utazási időket a csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "Figyeljen a környezetvédelmi zónákra (Miljözon) a városközpontban."
+        ],
+        "ro": [
+          "Taxele de parcare pot fi mari în centrul orașului, parcările supraetajate sunt adesea mai ieftine.",
+          "Planificați timpii de condus în afara orelor de vârf pentru a evita traficul.",
+          "Fiți atenți la zonele de mediu (Miljözon) din centrul orașului."
+        ],
+        "en": [
+          "Parking fees can be high downtown; parking garages are often cheaper.",
+          "Plan driving times outside of rush hours to avoid traffic.",
+          "Be aware of environmental zones (Miljözon) in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Helsingborg Hauptbahnhof (Knutpunkten)",
+            "hu": "Helsingborg főpályaudvar (Knutpunkten)",
+            "ro": "Gara Centrală Helsingborg (Knutpunkten)",
+            "en": "Helsingborg Central Station (Knutpunkten)"
+          },
+          "coords": [
+            12.694,
+            56.043
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a tömegközlekedéshez a korlátlan utazásért.",
+            "ro": "Cumpărați un bilet de o zi pentru transportul public pentru călătorii nelimitate.",
+            "en": "Buy a one-day public transport ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Rådhuset)",
+            "hu": "Városháza (Rådhuset)",
+            "ro": "Primăria (Rådhuset)",
+            "en": "City Hall (Rådhuset)"
+          },
+          "coords": [
+            12.694,
+            56.046
+          ],
+          "category": "historical",
+          "arrive_at": "09:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof aus, um Ihren Tag zu beginnen.",
+            "hu": "Rövid séta az állomástól a nap megkezdéséhez.",
+            "ro": "O scurtă plimbare de la gară pentru a începe ziua.",
+            "en": "A short walk from the station to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kärnan",
+            "hu": "Kärnan",
+            "ro": "Turnul Kärnan",
+            "en": "Kärnan"
+          },
+          "coords": [
+            12.698,
+            56.047
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hügel ist steiler als er aussieht, aber die Aussicht ist es wert.",
+            "hu": "A domb meredekebb, mint amilyennek látszik, de a kilátás megéri.",
+            "ro": "Dealul este mai abrupt decât pare, dar priveliștea merită.",
+            "en": "The hill is steeper than it looks, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredriksdal Museen und Gärten",
+            "hu": "Fredriksdal Múzeumok és Kertek",
+            "ro": "Muzeele și Grădinile Fredriksdal",
+            "en": "Fredriksdal Museums and Gardens"
+          },
+          "coords": [
+            12.723,
+            56.059
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mehrere Buslinien halten direkt vor dem Eingang. Sehr einfach zu erreichen.",
+            "hu": "Több buszjárat is megáll közvetlenül a bejárat előtt. Nagyon könnyen megközelíthető.",
+            "ro": "Mai multe linii de autobuz opresc chiar în fața intrării. Foarte ușor de ajuns.",
+            "en": "Several bus lines stop right outside the entrance. Very easy to get to."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunkers Kulturhus",
+            "hu": "Dunkers Kultúrház",
+            "ro": "Centrul Cultural Dunkers",
+            "en": "Dunkers Kulturhus"
+          },
+          "coords": [
+            12.692,
+            56.049
+          ],
+          "category": "cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und steigen Sie in der Nähe des Hafens aus.",
+            "hu": "Menjen busszal vissza a központba, és szálljon le a kikötő közelében.",
+            "ro": "Luați un autobuz înapoi în centru și coborâți lângă port.",
+            "en": "Take a bus back to the center and get off near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropical Beach",
+            "hu": "Trópusi strand",
+            "ro": "Plaja Tropicală",
+            "en": "Tropical Beach"
+          },
+          "coords": [
+            12.688,
+            56.055
+          ],
+          "category": "parks",
+          "arrive_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturzentrum, um den Tag am Meer ausklingen zu lassen.",
+            "hu": "Rövid séta a kulturális központtól, hogy a napot a tengernél fejezze be.",
+            "ro": "O scurtă plimbare de la centrul cultural pentru a încheia ziua pe malul mării.",
+            "en": "A short walk from the cultural center to end the day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen am Hauptbahnhof und erkunden das historische Herz von Helsingborg zu Fuß, vom Rathaus bis zum Kärnan. Dann bringt Sie ein Bus ins Grüne nach Fredriksdal, wo Sie in die Vergangenheit Schwedens eintauchen. Am Nachmittag fahren Sie mit dem Bus zurück ins Zentrum, um im Dunkers Kulturhus moderne Kunst zu genießen. Ein kurzer Spaziergang zum Tropical Beach rundet Ihren Tag ab, bevor Sie bequem vom Hauptbahnhof aus die Heimreise antreten. Diese Tour kombiniert städtische Erkundungen zu Fuß mit bequemen Busfahrten zu weiter entfernten Zielen.",
+        "hu": "A főpályaudvarról indulva gyalog fedezi fel Helsingborg történelmi szívét, a Városházától a Kärnanig. Ezután egy busz kiviszi a zöldbe, Fredriksdalba, ahol elmerülhet Svédország múltjában. Délután busszal tér vissza a központba, hogy a Dunkers Kultúrházban élvezze a modern művészetet. Egy rövid séta a Trópusi strandra teszi teljessé a napot, mielőtt kényelmesen hazautazna a főpályaudvarról. Ez a túra ötvözi a gyalogos városnézést a távolabbi célpontokhoz való kényelmes buszozással.",
+        "ro": "Începeți de la Gara Centrală și explorați pe jos inima istorică a Helsingborgului, de la Primărie la Kärnan. Apoi, un autobuz vă duce în natură la Fredriksdal, unde vă cufundați în trecutul Suediei. După-amiaza, luați autobuzul înapoi în centru pentru a vă bucura de artă modernă la Centrul Cultural Dunkers. O scurtă plimbare la Plaja Tropicală vă completează ziua înainte de a vă întoarce acasă confortabil de la Gara Centrală. Acest tur combină explorarea urbană pe jos cu călătorii confortabile cu autobuzul către destinații mai îndepărtate.",
+        "en": "You start at the Central Station and explore Helsingborg's historic heart on foot, from the City Hall to Kärnan. Then, a bus takes you to the green oasis of Fredriksdal, where you can immerse yourself in Sweden's past. In the afternoon, you'll take a bus back to the center to enjoy modern art at Dunkers Kulturhus. A short walk to Tropical Beach completes your day before you comfortably head home from the Central Station. This tour combines urban exploration on foot with convenient bus rides to more distant destinations."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": " Helsingborgs Bryggeri",
+            "tip": "Probieren Sie lokales Craft-Bier in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Ebbas Fik",
+            "tip": "Ein klassisches schwedisches Café (Fika) mit Retro-Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helsingborgs Bryggeri",
+            "tip": "Kóstoljon helyi kézműves sört az állomás közelében."
+          },
+          {
+            "name": "Ebbas Fik",
+            "tip": "Klasszikus svéd kávézó (Fika) retro hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Helsingborgs Bryggeri",
+            "tip": "Încercați berea artizanală locală lângă gară."
+          },
+          {
+            "name": "Ebbas Fik",
+            "tip": "O cafenea suedeză clasică (Fika) cu o atmosferă retro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Helsingborgs Bryggeri",
+            "tip": "Try local craft beer near the station."
+          },
+          {
+            "name": "Ebbas Fik",
+            "tip": "A classic Swedish café (Fika) with a retro vibe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Friedhof von Fredriksdal",
+            "tip": "Ein überraschend friedlicher und schöner Teil des Museums.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die Bänke am Norra Hamnen",
+            "tip": "Beobachten Sie die Boote in der Abendsonne.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fredriksdal régi temetője",
+            "tip": "A múzeum meglepően békés és szép része.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Norra Hamnen padjai",
+            "tip": "Nézze a hajókat az esti napfényben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vechiul cimitir din Fredriksdal",
+            "tip": "O parte surprinzător de pașnică și frumoasă a muzeului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Băncile din Norra Hamnen",
+            "tip": "Priviți bărcile în soarele de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fredriksdal's old cemetery",
+            "tip": "A surprisingly peaceful and beautiful part of the museum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The benches at Norra Hamnen",
+            "tip": "Watch the boats in the evening sun.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadsbiblioteket Shop",
+            "tip": "Finden Sie Bücher und einzigartige Geschenke in der Stadtbibliothek."
+          },
+          {
+            "name": "Gåsebäck",
+            "tip": "Ein aufstrebendes Viertel mit Vintage-Läden und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadsbiblioteket bolt",
+            "tip": "Találjon könyveket és egyedi ajándékokat a városi könyvtárban."
+          },
+          {
+            "name": "Gåsebäck",
+            "tip": "Feltörekvő negyed vintage boltokkal és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Bibliotecii Orășenești",
+            "tip": "Găsiți cărți și cadouri unice la biblioteca orașului."
+          },
+          {
+            "name": "Gåsebäck",
+            "tip": "Un cartier în curs de dezvoltare, cu magazine de epocă și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadsbiblioteket Shop",
+            "tip": "Find books and unique gifts at the city library."
+          },
+          {
+            "name": "Gåsebäck",
+            "tip": "An up-and-coming neighborhood with vintage shops and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Skånetrafiken'-App herunter, um Tickets zu kaufen und Routen zu planen.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Die meisten Busse sind bargeldlos, also verwenden Sie die App oder eine Kreditkarte."
+        ],
+        "hu": [
+          "Töltse le a 'Skånetrafiken' alkalmazást jegyvásárláshoz és útvonaltervezéshez.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "A legtöbb busz készpénzmentes, használja az alkalmazást vagy bankkártyát."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Skånetrafiken' pentru a cumpăra bilete și a planifica rute.",
+          "Autobuzele sunt punctuale, așa că ajungeți la stație la timp.",
+          "Majoritatea autobuzelor nu acceptă numerar, așa că folosiți aplicația sau un card de credit."
+        ],
+        "en": [
+          "Download the 'Skånetrafiken' app to buy tickets and plan routes.",
+          "Buses are punctual, so be at the stop on time.",
+          "Most buses are cashless, so use the app or a credit card."
+        ]
+      }
+    }
+  }
+}

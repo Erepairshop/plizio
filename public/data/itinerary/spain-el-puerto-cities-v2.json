@@ -1,0 +1,1407 @@
+{
+  "city_id": "spain-el-puerto-cities-v2",
+  "anchor": {
+    "name": "El Puerto de Santa María",
+    "coords": [
+      -6.2289,
+      36.5939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de Toros",
+            "hu": "Plaza de Toros (Aréna)",
+            "ro": "Plaza de Toros",
+            "en": "Plaza de Toros (Bullring)"
+          },
+          "coords": [
+            -6.2345,
+            36.5991
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die schiere Größe einer der größten Stierkampfarenen Spaniens.",
+            "hu": "Csodálja meg Spanyolország egyik legnagyobb bikaviadal-arénájának méreteit.",
+            "ro": "Admirați dimensiunea impresionantă a uneia dintre cele mai mari arene de coridă din Spania.",
+            "en": "Admire the sheer scale of one of the largest bullrings in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von San Marcos",
+            "hu": "San Marcos vára",
+            "ro": "Castelul San Marcos",
+            "en": "Castle of San Marcos"
+          },
+          "coords": [
+            -6.2268,
+            36.5958
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Suchen Sie nach der Moschee, die in die Burgmauern integriert ist.",
+            "hu": "Keresse meg a vár falaiba beépített mecsetet, egy mór örökséget.",
+            "ro": "Căutați moscheea încorporată în zidurile castelului, o moștenire maură.",
+            "en": "Look for the mosque incorporated within the castle walls, a Moorish legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Mayor Prioral",
+            "hu": "Iglesia Mayor Prioral (Főtemplom)",
+            "ro": "Biserica Mare Priorală",
+            "en": "Priory Major Church"
+          },
+          "coords": [
+            -6.2251,
+            36.5942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Beachten Sie die kunstvollen Portale, insbesondere das Sonnentor.",
+            "hu": "Figyelje meg a díszes kapuzatokat, különösen a Napkaput (Puerta del Sol).",
+            "ro": "Observați portalurile elaborate, în special Poarta Soarelui.",
+            "en": "Note the ornate portals, especially the Sun Gate (Puerta del Sol)."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Leones",
+            "hu": "Oroszlánok Háza",
+            "ro": "Casa Leilor",
+            "en": "House of the Lions"
+          },
+          "coords": [
+            -6.2245,
+            36.5929
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein perfektes Beispiel für die barocke Palastarchitektur des 18. Jahrhunderts.",
+            "hu": "A 18. századi barokk palotaépítészet tökéletes példája.",
+            "ro": "Un exemplu perfect de arhitectură barocă de palat din secolul al XVIII-lea.",
+            "en": "A perfect example of 18th-century baroque palace architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Osborne",
+            "hu": "Osborne Borászat",
+            "ro": "Cramele Osborne",
+            "en": "Osborne Wineries"
+          },
+          "coords": [
+            -6.2381,
+            36.6041
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Buchen Sie eine Führung mit Verkostung, um den berühmten Sherry und Brandy zu probieren.",
+            "hu": "Foglaljon vezetett túrát kóstolóval, hogy megízlelhesse a híres sherryt és brandyt.",
+            "ro": "Rezervați un tur ghidat cu degustare pentru a încerca faimosul sherry și brandy.",
+            "en": "Book a guided tour with tasting to sample the famous sherry and brandy."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftung Rafael Alberti",
+            "hu": "Rafael Alberti Alapítvány",
+            "ro": "Fundația Rafael Alberti",
+            "en": "Rafael Alberti Foundation"
+          },
+          "coords": [
+            -6.2265,
+            36.5925
+          ],
+          "category": "museums",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_4lang": {
+            "de": "Entdecken Sie das Leben und Werk eines der größten Dichter der Generation von '27.",
+            "hu": "Fedezze fel a '27-es generáció egyik legnagyobb költőjének életét és munkásságát.",
+            "ro": "Descoperiți viața și opera unuia dintre cei mai mari poeți ai Generației '27.",
+            "en": "Discover the life and work of one of the greatest poets of the Generation of '27."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade am Guadalete",
+            "hu": "Guadalete folyóparti sétány",
+            "ro": "Promenada de pe malul râului Guadalete",
+            "en": "Guadalete Riverside Promenade"
+          },
+          "coords": [
+            -6.2248,
+            36.591
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:51",
+          "stay_min": 84,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Genießen Sie den Sonnenuntergang über den Fischerbooten und der Bucht von Cádiz.",
+            "hu": "Élvezze a naplementét a halászhajók és a Cádizi-öböl felett.",
+            "ro": "Bucurați-vă de apusul peste bărcile de pescuit și Golful Cádiz.",
+            "en": "Enjoy the sunset view over the fishing boats and the Bay of Cádiz."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der monumentalen Plaza de Toros, gefolgt von der Erkundung des historischen Herzens der Stadt rund um die Burg San Marcos und die Prioral-Kirche. Am Morgen tauchen Sie tief in die Geschichte und Architektur von El Puerto ein. Nach einem kurzen Blick auf die barocke Fassade der Casa de los Leones ist es Zeit für das Mittagessen und eine Sherry-Verkostung in der weltberühmten Bodegas Osborne, ein wesentlicher Bestandteil der lokalen Kultur. Am Nachmittag widmen Sie sich der Poesie in der Rafael-Alberti-Stiftung, bevor Sie den Tag mit einem entspannten Spaziergang entlang des Flusses Guadalete ausklingen lassen, während die Sonne über der Bucht von Cádiz untergeht. Es ist ein Tag voller Geschichte, Wein und Poesie.",
+        "hu": "A napot a monumentális Plaza de Toros arénánál kezdi, majd felfedezi a város történelmi szívét a San Marcos vár és a Főtemplom körül. A délelőtt folyamán mélyen elmerül El Puerto történelmében és építészetében. Miután vetett egy pillantást a Casa de los Leones barokk homlokzatára, ideje ebédelni és sherry-t kóstolni a világhírű Osborne Pincészetben, ami a helyi kultúra elengedhetetlen része. A délutánt a költészetnek szenteli a Rafael Alberti Alapítványnál, mielőtt egy pihentető sétával zárja a napot a Guadalete folyó partján, figyelve a naplementét a Cádizi-öböl felett. Ez a történelem, a bor és a költészet napja lesz.",
+        "ro": "Ziua începe la monumentala Plaza de Toros, urmată de explorarea inimii istorice a orașului în jurul Castelului San Marcos și a Bisericii Priorale. Dimineața vă scufundați adânc în istoria și arhitectura din El Puerto. După o privire rapidă la fațada barocă a Casei Leilor, este timpul pentru prânz și o degustare de sherry la faimoasele Crame Osborne, o parte esențială a culturii locale. După-amiaza este dedicată poeziei la Fundația Rafael Alberti, înainte de a încheia ziua cu o plimbare relaxantă de-a lungul râului Guadalete, urmărind apusul peste Golful Cádiz. Este o zi plină de istorie, vin și poezie.",
+        "en": "Your day starts at the monumental Plaza de Toros, followed by exploring the city's historic heart around San Marcos Castle and the Priory Church. The morning is a deep dive into El Puerto's history and architecture. After a quick look at the baroque facade of the Casa de los Leones, it's time for lunch and a sherry tasting at the world-famous Bodegas Osborne, an essential part of the local culture. The afternoon is dedicated to poetry at the Rafael Alberti Foundation before ending the day with a relaxing stroll along the Guadalete river, watching the sunset over the Bay of Cádiz. It's a day of history, wine, and poetry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Eine Auswahl an leicht paniertem und frittiertem frischem Fisch, ein Grundnahrungsmittel in Andalusien. Probieren Sie es im Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Knusprige, hauchdünne Garnelen-Fritters. Ein lokaler Favorit."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Verpassen Sie nicht, die lokalen Sherry-Weine zu probieren, von trockenem Fino bis zu süßem Pedro Ximénez."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Könnyedén panírozott és sült friss halak válogatása, Andalúzia alapétele. Kóstolja meg a Romerijo étteremben."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Ropogós, papírvékony garnélarákos fánk. Helyi kedvenc."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Ne hagyja ki a helyi sherry borok kóstolását, a száraz Finótól az édes Pedro Ximénez-ig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito frito",
+            "tip": "O varietate de pește proaspăt, ușor pane și prăjit, un aliment de bază în Andaluzia. Încercați-l la Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Chiftele de creveți crocante și subțiri ca hârtia. Un favorit local."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Nu ratați degustarea vinurilor locale de sherry, de la Fino sec la dulcele Pedro Ximénez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito frito",
+            "tip": "An assortment of lightly battered and fried fresh fish, a staple of Andalusia. Try it at Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Crispy, paper-thin shrimp fritters. A local favorite."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Don't miss tasting the local sherry wines, from dry Fino to sweet Pedro Ximénez."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Valdelagrana",
+            "tip": "Machen Sie einen langen Spaziergang entlang dieses weitläufigen Strandes, besonders bei Ebbe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster La Victoria",
+            "tip": "Ein friedlicher Ort abseits der belebteren zentralen Bereiche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "Ein schattiger Park im Herzen der Stadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdelagrana strand",
+            "tip": "Tegyen egy hosszú sétát ezen a tágas strandon, különösen apály idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Victoria kolostor",
+            "tip": "Egy békés hely a forgalmasabb központi területektől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Calderón park",
+            "tip": "Egy árnyas park a város szívében, tökéletes egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Valdelagrana",
+            "tip": "Faceți o plimbare lungă de-a lungul acestei plaje întinse, mai ales la reflux.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea La Victoria",
+            "tip": "Un loc pașnic, departe de zonele centrale mai aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Calderón",
+            "tip": "Un parc umbros în inima orașului, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdelagrana Beach",
+            "tip": "Take a long walk along this expansive beach, especially during low tide.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of La Victoria",
+            "tip": "A peaceful spot away from the busier central areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "A shady park in the heart of the city, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Erleben Sie den lokalen Trubel und kaufen Sie frische Produkte, Meeresfrüchte und lokale Spezialitäten."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos (Piac)",
+            "tip": "Élje át a helyi nyüzsgést, és vásároljon friss termékeket, tenger gyümölcseit és helyi különlegességeket."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "A fő bevásárlóutcák, ahol nemzeti márkák és helyi butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos (Piața Centrală)",
+            "tip": "Experimentați agitația locală și cumpărați produse proaspete, fructe de mare și specialități locale."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Principalele străzi comerciale cu un amestec de mărci naționale și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos (Central Market)",
+            "tip": "Experience the local buzz and shop for fresh produce, seafood, and local delicacies."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "The main shopping streets with a mix of national brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum mit Kopfsteinpflaster gepflastert ist.",
+          "Viele Orte halten eine Siesta, planen Sie also Ihre Besuche am späten Nachmittag entsprechend.",
+          "Genießen Sie ein Glas Fino-Sherry in einer lokalen Tabanco für ein authentisches Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ macskaköves.",
+          "Sok helyen sziesztát tartanak, ezért tervezze meg a késő délutáni látogatásokat ennek megfelelően.",
+          "Élvezzen egy pohár Fino sherryt egy helyi 'tabancóban' az autentikus élményért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric este pavat cu piatră cubică.",
+          "Multe locuri țin siesta, așa că planificați-vă vizitele de după-amiază târziu în consecință.",
+          "Savurați un pahar de sherry Fino într-un 'tabanco' local pentru o experiență autentică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center is cobblestoned.",
+          "Many places observe a siesta, so plan your late afternoon visits accordingly.",
+          "Enjoy a glass of Fino sherry at a local 'tabanco' for an authentic experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand von Valdelagrana",
+            "hu": "Valdelagrana strand",
+            "ro": "Plaja Valdelagrana",
+            "en": "Valdelagrana Beach"
+          },
+          "coords": [
+            -6.2015,
+            36.579
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer erfrischenden Fahrt entlang der Promenade.",
+            "hu": "Kezdje a napot egy frissítő tekeréssel a tengerparti sétányon.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul promenadei.",
+            "en": "Start your day with a refreshing ride along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Osborne",
+            "hu": "Osborne Borászat",
+            "ro": "Cramele Osborne",
+            "en": "Osborne Wineries"
+          },
+          "coords": [
+            -6.2381,
+            36.6041
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Eine großartige Möglichkeit, die Hitze des Mittagessens mit einer kühlen Kellerführung zu überbrücken.",
+            "hu": "Nagyszerű módja annak, hogy a déli hőséget egy hűvös pincerendszerben tett túrával vészelje át.",
+            "ro": "O modalitate excelentă de a învinge căldura amiezii cu un tur răcoros al pivniței.",
+            "en": "A great way to beat the midday heat with a cool cellar tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros",
+            "hu": "Plaza de Toros (Aréna)",
+            "ro": "Plaza de Toros",
+            "en": "Plaza de Toros (Bullring)"
+          },
+          "coords": [
+            -6.2345,
+            36.5991
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:07",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Machen Sie ein Foto vor diesem beeindruckenden Bauwerk.",
+            "hu": "Készítsen egy fényképet e lenyűgöző építmény előtt.",
+            "ro": "Faceți o fotografie în fața acestei structuri impresionante.",
+            "en": "Take a photo in front of this impressive structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von San Marcos",
+            "hu": "San Marcos vára",
+            "ro": "Castelul San Marcos",
+            "en": "Castle of San Marcos"
+          },
+          "coords": [
+            -6.2268,
+            36.5958
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die Festung, die einst Christoph Kolumbus beherbergte.",
+            "hu": "Zárja le a biciklit, és fedezze fel az erődöt, amely egykor Kolumbusz Kristófot is vendégül látta.",
+            "ro": "Legați-vă bicicleta și explorați fortăreața care l-a găzduit odată pe Cristofor Columb.",
+            "en": "Lock up your bike and explore the fortress that once hosted Christopher Columbus."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Mayor Prioral",
+            "hu": "Iglesia Mayor Prioral (Főtemplom)",
+            "ro": "Biserica Mare Priorală",
+            "en": "Priory Major Church"
+          },
+          "coords": [
+            -6.2251,
+            36.5942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Eine kurze Fahrt vom Schloss entfernt, bewundern Sie die Mischung aus gotischen und barocken Stilen.",
+            "hu": "Csak egy rövid tekerésre a vártól; csodálja meg a gótikus és barokk stílusok keveredését.",
+            "ro": "La o scurtă plimbare cu bicicleta de castel, admirați amestecul de stiluri gotic și baroc.",
+            "en": "A short ride from the castle, admire the mix of Gothic and Baroque styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Natural Bahía de Cádiz",
+            "hu": "Cádizi-öböl Természeti Park",
+            "ro": "Parcul Natural Golful Cádiz",
+            "en": "Bay of Cádiz Natural Park"
+          },
+          "coords": [
+            -6.265,
+            36.568
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:16",
+          "stay_min": 144,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.7,
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag mit einer Fahrt durch die Salzwiesen und beobachten Sie die Vögel bei Sonnenuntergang.",
+            "hu": "Zárja a napot egy biciklizéssel a sólepárlók között, és figyelje a madarakat naplementekor.",
+            "ro": "Încheiați ziua cu o plimbare prin mlaștinile sărate, observând păsările la apus.",
+            "en": "End the day with a ride through the salt marshes, watching the birds at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit der Meeresbrise am Strand von Valdelagrana. Von dort aus radeln Sie landeinwärts zu den berühmten Osborne-Kellern für eine Sherry-Verkostung, eine perfekte Pause am Mittag. Am frühen Nachmittag erkunden Sie das historische Zentrum, beginnend mit einem Fotostopp an der Plaza de Toros, gefolgt von Besuchen der Burg San Marcos und der Hauptkirche. Die kompakte Größe des Zentrums ist ideal für eine kurze Radtour. Der Höhepunkt des Tages ist eine längere Fahrt in den Naturpark der Bucht von Cádiz, wo Sie durch eine einzigartige Landschaft aus Salzwiesen radeln und den Tag mit Vogelbeobachtung bei Sonnenuntergang beenden. Es ist eine perfekte Mischung aus Strand, Kultur und Natur.",
+        "hu": "A kerékpáros nap a tengeri szellővel kezdődik a Valdelagrana strandon. Innen befelé teker a híres Osborne pincészet felé egy sherry-kóstolóra, ami tökéletes déli pihenő. Kora délután felfedezi a történelmi központot, kezdve egy fotómegállóval a Plaza de Torosnál, majd meglátogatja a San Marcos várat és a Főtemplomot. A központ kompakt mérete ideális egy rövid kerékpáros felfedezéshez. A nap fénypontja egy hosszabb tekerés a Cádizi-öböl Természeti Parkba, ahol egyedülálló sólepárló tájon kerekezhet, és a napot madármegfigyeléssel zárja naplementekor. Ez a strand, a kultúra és a természet tökéletes keveréke.",
+        "ro": "Ziua pe bicicletă începe cu briza mării la Plaja Valdelagrana. De acolo, pedalați spre interior către faimoasele crame Osborne pentru o degustare de sherry, o pauză perfectă la prânz. La începutul după-amiezii, explorați centrul istoric, începând cu o oprire foto la Plaza de Toros, urmată de vizite la Castelul San Marcos și Biserica Mare. Dimensiunea compactă a centrului este ideală pentru o scurtă explorare pe bicicletă. Punctul culminant al zilei este o plimbare mai lungă în Parcul Natural Golful Cádiz, unde veți pedala printr-un peisaj unic de mlaștini sărate, încheind ziua cu observarea păsărilor la apus. Este un amestec perfect de plajă, cultură și natură.",
+        "en": "Your cycling day starts with the sea breeze at Valdelagrana Beach. From there, you'll cycle inland to the famous Osborne cellars for a sherry tasting, a perfect midday break. In the early afternoon, you explore the historic center, starting with a photo stop at the Plaza de Toros, followed by visits to San Marcos Castle and the Priory Church. The center's compact size is ideal for a quick bike exploration. The highlight of the day is a longer ride into the Bay of Cádiz Natural Park, where you'll pedal through a unique landscape of salt marshes, ending the day with birdwatching at sunset. It's a perfect mix of beach, culture, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Eine Auswahl an leicht paniertem und frittiertem frischem Fisch, ein Grundnahrungsmittel in Andalusien. Probieren Sie es im Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Knusprige, hauchdünne Garnelen-Fritters. Ein lokaler Favorit."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Verpassen Sie nicht, die lokalen Sherry-Weine zu probieren, von trockenem Fino bis zu süßem Pedro Ximénez."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Könnyedén panírozott és sült friss halak válogatása, Andalúzia alapétele. Kóstolja meg a Romerijo étteremben."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Ropogós, papírvékony garnélarákos fánk. Helyi kedvenc."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Ne hagyja ki a helyi sherry borok kóstolását, a száraz Finótól az édes Pedro Ximénez-ig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito frito",
+            "tip": "O varietate de pește proaspăt, ușor pane și prăjit, un aliment de bază în Andaluzia. Încercați-l la Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Chiftele de creveți crocante și subțiri ca hârtia. Un favorit local."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Nu ratați degustarea vinurilor locale de sherry, de la Fino sec la dulcele Pedro Ximénez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito frito",
+            "tip": "An assortment of lightly battered and fried fresh fish, a staple of Andalusia. Try it at Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Crispy, paper-thin shrimp fritters. A local favorite."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Don't miss tasting the local sherry wines, from dry Fino to sweet Pedro Ximénez."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Valdelagrana",
+            "tip": "Machen Sie einen langen Spaziergang entlang dieses weitläufigen Strandes, besonders bei Ebbe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster La Victoria",
+            "tip": "Ein friedlicher Ort abseits der belebteren zentralen Bereiche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "Ein schattiger Park im Herzen der Stadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdelagrana strand",
+            "tip": "Tegyen egy hosszú sétát ezen a tágas strandon, különösen apály idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Victoria kolostor",
+            "tip": "Egy békés hely a forgalmasabb központi területektől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Calderón park",
+            "tip": "Egy árnyas park a város szívében, tökéletes egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Valdelagrana",
+            "tip": "Faceți o plimbare lungă de-a lungul acestei plaje întinse, mai ales la reflux.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea La Victoria",
+            "tip": "Un loc pașnic, departe de zonele centrale mai aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Calderón",
+            "tip": "Un parc umbros în inima orașului, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdelagrana Beach",
+            "tip": "Take a long walk along this expansive beach, especially during low tide.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of La Victoria",
+            "tip": "A peaceful spot away from the busier central areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "A shady park in the heart of the city, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Erleben Sie den lokalen Trubel und kaufen Sie frische Produkte, Meeresfrüchte und lokale Spezialitäten."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos (Piac)",
+            "tip": "Élje át a helyi nyüzsgést, és vásároljon friss termékeket, tenger gyümölcseit és helyi különlegességeket."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "A fő bevásárlóutcák, ahol nemzeti márkák és helyi butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos (Piața Centrală)",
+            "tip": "Experimentați agitația locală și cumpărați produse proaspete, fructe de mare și specialități locale."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Principalele străzi comerciale cu un amestec de mărci naționale și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos (Central Market)",
+            "tip": "Experience the local buzz and shop for fresh produce, seafood, and local delicacies."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "The main shopping streets with a mix of national brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Strandes, um den besten Start zu haben.",
+          "Bringen Sie Wasser mit, besonders für die Fahrt zum Naturpark.",
+          "Überprüfen Sie die Öffnungszeiten der Bodega im Voraus, da diese variieren können."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a strand közelében a legjobb induláshoz.",
+          "Vigyen magával vizet, különösen a természeti parkba vezető útra.",
+          "Előzetesen ellenőrizze a borászat nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă plajă pentru cel mai bun început.",
+          "Aduceți apă, mai ales pentru plimbarea spre parcul natural.",
+          "Verificați dinainte programul de funcționare al cramei, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Rent a bike near the beach for the best start.",
+          "Bring water, especially for the ride to the natural park.",
+          "Check the bodega's opening hours in advance as they can vary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Strand von Valdelagrana",
+            "hu": "Parkolás a Valdelagrana strandnál",
+            "ro": "Parcare la Plaja Valdelagrana",
+            "en": "Parking at Valdelagrana Beach"
+          },
+          "coords": [
+            -6.201,
+            36.5795
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Fahrt zum Strand, parken Sie das Auto und genießen Sie einen Morgenspaziergang.",
+            "hu": "Kezdje a napot egy autózással a partra, parkolja le az autót, és élvezze a reggeli sétát.",
+            "ro": "Începeți ziua cu o plimbare cu mașina până la plajă, parcați și bucurați-vă de o plimbare de dimineață.",
+            "en": "Start your day with a drive to the beach, park the car, and enjoy a morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Valdelagrana",
+            "hu": "Valdelagrana strand",
+            "ro": "Plaja Valdelagrana",
+            "en": "Valdelagrana Beach"
+          },
+          "coords": [
+            -6.2015,
+            36.579
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein riesiger Sandstrand, ideal, um die Meeresluft zu genießen, bevor die Menschenmassen eintreffen.",
+            "hu": "Hatalmas homokos part, ideális a tengeri levegő élvezetére, mielőtt a tömeg megérkezik.",
+            "ro": "O plajă vastă de nisip, perfectă pentru a vă bucura de briza mării înainte de aglomerație.",
+            "en": "A vast sandy beach, perfect for enjoying the sea air before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus im Zentrum (z.B. Plaza de Toros)",
+            "hu": "Parkolóház a központban (pl. Plaza de Toros)",
+            "ro": "Parcare în centru (ex. Plaza de Toros)",
+            "en": "Parking in the Center (e.g., Plaza de Toros)"
+          },
+          "coords": [
+            -6.234,
+            36.5985
+          ],
+          "category": "transport",
+          "arrive_at": "10:52",
+          "stay_min": 1,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie ins Zentrum, parken Sie und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Vezessen be a központba, parkoljon le, és fedezze fel a történelmi magot gyalog.",
+            "ro": "Conduceți în centru, parcați și explorați nucleul istoric pe jos.",
+            "en": "Drive to the center, park, and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von San Marcos",
+            "hu": "San Marcos vára",
+            "ro": "Castelul San Marcos",
+            "en": "Castle of San Marcos"
+          },
+          "coords": [
+            -6.2268,
+            36.5958
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Parkplatz aus ist es ein kurzer Spaziergang zu diesem beeindruckenden Schloss.",
+            "hu": "A parkolóból rövid séta vezet ehhez a lenyűgöző várhoz.",
+            "ro": "De la parcare, este o scurtă plimbare până la acest castel impresionant.",
+            "en": "From the parking lot, it's a short walk to this impressive castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Mayor Prioral & Mittagessen",
+            "hu": "Főtemplom és Ebéd",
+            "ro": "Biserica Mare și Prânz",
+            "en": "Priory Church & Lunch"
+          },
+          "coords": [
+            -6.2251,
+            36.5942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:33",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Besuchen Sie die Kirche und genießen Sie anschließend ein Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Látogassa meg a templomot, majd ebédeljen az egyik közeli étteremben.",
+            "ro": "Vizitați biserica și apoi savurați prânzul la unul dintre restaurantele din apropiere.",
+            "en": "Visit the church and then enjoy lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodegas Osborne",
+            "hu": "Osborne Borászat",
+            "ro": "Cramele Osborne",
+            "en": "Osborne Wineries"
+          },
+          "coords": [
+            -6.2381,
+            36.6041
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:48",
+          "stay_min": 184,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.7,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zu Ihrem letzten Halt für eine Sherry-Tour und Verkostung, um den Tag ausklingen zu lassen.",
+            "hu": "Vezessen az utolsó megállóhoz egy sherry-túrára és kóstolóra, hogy lezárja a napot.",
+            "ro": "Conduceți la ultima oprire pentru un tur al cramelor și o degustare de sherry pentru a încheia ziua.",
+            "en": "Drive to your final stop for a sherry tour and tasting to cap off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser auto-gestützte Ausflug nutzt das Fahrzeug, um zwei Hauptbereiche zu verbinden. Sie beginnen am Morgen am weitläufigen Strand von Valdelagrana, wo Sie parken und die Küste zu Fuß genießen. Nach der Meeresbrise fahren Sie ins historische Zentrum, parken Ihr Auto für mehrere Stunden und erkunden den ersten Cluster: die Burg San Marcos und die Prioral-Kirche. In dieser Gegend genießen Sie auch ein gemütliches Mittagessen. Am Nachmittag bringt Sie eine kurze Fahrt zum zweiten Cluster, der ikonischen Bodegas Osborne, wo Sie den Rest des Tages mit einer Tour und einer Verkostung verbringen und in die weltberühmte Sherry-Kultur eintauchen. Dieser Plan optimiert das Parken und minimiert den Fahrstress im Stadtzentrum.",
+        "hu": "Ez az autós útiterv a járművet két fő terület összekötésére használja. A reggelt a tágas Valdelagrana strandnál kezdi, ahol leparkol, és gyalog élvezi a partot. A tengeri szellő után a történelmi központba hajt, több órára leteszi az autót, és felfedezi az első látnivaló-csoportot: a San Marcos várat és a Főtemplomot. Ebben a negyedben egy kényelmes ebédet is elfogyaszthat. Délután egy rövid autóút viszi a második csoporthoz, az ikonikus Osborne Pincészethez, ahol a nap hátralévő részét egy túrával és kóstolóval tölti, elmerülve a világhírű sherry kultúrában. Ez a terv optimalizálja a parkolást és minimalizálja a városközponti vezetéssel járó stresszt.",
+        "ro": "Acest itinerar cu mașina folosește vehiculul pentru a conecta două zone principale. Începeți dimineața la plaja expansivă Valdelagrana, unde parcați și vă bucurați de coastă pe jos. După briza mării, conduceți spre centrul istoric, parcați mașina pentru câteva ore și explorați primul grup de atracții: Castelul San Marcos și Biserica Priorală. De asemenea, vă veți bucura de un prânz relaxat în această zonă. După-amiaza, o scurtă călătorie cu mașina vă duce la al doilea grup, iconicele Crame Osborne, unde vă petreceți restul zilei cu un tur și o degustare, cufundându-vă în cultura sherry-ului de renume mondial. Acest plan optimizează parcarea și minimizează stresul condusului în centrul orașului.",
+        "en": "This car-assisted itinerary uses the vehicle to connect two main areas. You start the morning at the expansive Valdelagrana Beach, where you park and enjoy the coast on foot. After the sea breeze, you drive to the historic center, park your car for several hours, and explore the first cluster: San Marcos Castle and the Priory Church. You'll also enjoy a leisurely lunch in this area. In the afternoon, a short drive takes you to the second cluster, the iconic Bodegas Osborne, where you spend the rest of the day on a tour and tasting, immersing yourself in the world-famous sherry culture. This plan optimizes parking and minimizes city-center driving stress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Eine Auswahl an leicht paniertem und frittiertem frischem Fisch, ein Grundnahrungsmittel in Andalusien. Probieren Sie es im Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Knusprige, hauchdünne Garnelen-Fritters. Ein lokaler Favorit."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Verpassen Sie nicht, die lokalen Sherry-Weine zu probieren, von trockenem Fino bis zu süßem Pedro Ximénez."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Könnyedén panírozott és sült friss halak válogatása, Andalúzia alapétele. Kóstolja meg a Romerijo étteremben."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Ropogós, papírvékony garnélarákos fánk. Helyi kedvenc."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Ne hagyja ki a helyi sherry borok kóstolását, a száraz Finótól az édes Pedro Ximénez-ig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito frito",
+            "tip": "O varietate de pește proaspăt, ușor pane și prăjit, un aliment de bază în Andaluzia. Încercați-l la Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Chiftele de creveți crocante și subțiri ca hârtia. Un favorit local."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Nu ratați degustarea vinurilor locale de sherry, de la Fino sec la dulcele Pedro Ximénez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito frito",
+            "tip": "An assortment of lightly battered and fried fresh fish, a staple of Andalusia. Try it at Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Crispy, paper-thin shrimp fritters. A local favorite."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Don't miss tasting the local sherry wines, from dry Fino to sweet Pedro Ximénez."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Valdelagrana",
+            "tip": "Machen Sie einen langen Spaziergang entlang dieses weitläufigen Strandes, besonders bei Ebbe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster La Victoria",
+            "tip": "Ein friedlicher Ort abseits der belebteren zentralen Bereiche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "Ein schattiger Park im Herzen der Stadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdelagrana strand",
+            "tip": "Tegyen egy hosszú sétát ezen a tágas strandon, különösen apály idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Victoria kolostor",
+            "tip": "Egy békés hely a forgalmasabb központi területektől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Calderón park",
+            "tip": "Egy árnyas park a város szívében, tökéletes egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Valdelagrana",
+            "tip": "Faceți o plimbare lungă de-a lungul acestei plaje întinse, mai ales la reflux.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea La Victoria",
+            "tip": "Un loc pașnic, departe de zonele centrale mai aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Calderón",
+            "tip": "Un parc umbros în inima orașului, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdelagrana Beach",
+            "tip": "Take a long walk along this expansive beach, especially during low tide.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of La Victoria",
+            "tip": "A peaceful spot away from the busier central areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "A shady park in the heart of the city, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Erleben Sie den lokalen Trubel und kaufen Sie frische Produkte, Meeresfrüchte und lokale Spezialitäten."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos (Piac)",
+            "tip": "Élje át a helyi nyüzsgést, és vásároljon friss termékeket, tenger gyümölcseit és helyi különlegességeket."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "A fő bevásárlóutcák, ahol nemzeti márkák és helyi butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos (Piața Centrală)",
+            "tip": "Experimentați agitația locală și cumpărați produse proaspete, fructe de mare și specialități locale."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Principalele străzi comerciale cu un amestec de mărci naționale și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos (Central Market)",
+            "tip": "Experience the local buzz and shop for fresh produce, seafood, and local delicacies."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "The main shopping streets with a mix of national brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die großen Parkplätze am Stadtrand und in der Nähe der Hauptattraktionen.",
+          "Das Fahren im historischen Zentrum kann schwierig sein, daher ist die 'Park & Walk'-Strategie am besten.",
+          "Buchen Sie Ihre Bodega-Tour im Voraus, besonders in der Hochsaison."
+        ],
+        "hu": [
+          "Használja a város szélén és a fő látnivalók közelében található nagy parkolókat.",
+          "A történelmi központban a vezetés nehézkes lehet, ezért a 'parkolj és sétálj' stratégia a legjobb.",
+          "Foglalja le előre a borászati túrát, különösen a főszezonban."
+        ],
+        "ro": [
+          "Utilizați parcările mari de la periferia orașului și de lângă atracțiile principale.",
+          "Conducerea în centrul istoric poate fi dificilă, așa că strategia 'parchează și mergi' este cea mai bună.",
+          "Rezervați-vă turul la cramă în avans, mai ales în sezonul de vârf."
+        ],
+        "en": [
+          "Use the large parking lots on the outskirts and near major attractions.",
+          "Driving in the historic center can be tricky, so the 'park & walk' strategy is best.",
+          "Book your bodega tour in advance, especially during peak season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 6.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof",
+            "hu": "Érkezés a vasútállomásra",
+            "ro": "Sosire la gară",
+            "en": "Arrival at Train Station"
+          },
+          "coords": [
+            -6.2372,
+            36.5968
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag im gut angebundenen Bahnhof von El Puerto.",
+            "hu": "Kezdje a napot El Puerto jól megközelíthető vasútállomásán.",
+            "ro": "Începeți-vă ziua la gara bine conectată din El Puerto.",
+            "en": "Start your day at El Puerto's well-connected train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros & Burg von San Marcos",
+            "hu": "Plaza de Toros & San Marcos vára",
+            "ro": "Plaza de Toros & Castelul San Marcos",
+            "en": "Plaza de Toros & Castle of San Marcos"
+          },
+          "coords": [
+            -6.2307,
+            36.5974
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof bringt Sie zu den ersten beiden Sehenswürdigkeiten.",
+            "hu": "Rövid séta a vasútállomástól az első két látnivalóhoz.",
+            "ro": "O scurtă plimbare de la gară vă duce la primele două atracții.",
+            "en": "A short walk from the station brings you to the first two sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Centro Histórico",
+            "hu": "Busz a történelmi központba",
+            "ro": "Autobuz spre Centrul Istoric",
+            "en": "Bus to Historic Center"
+          },
+          "coords": [
+            -6.2255,
+            36.594
+          ],
+          "category": "transport",
+          "arrive_at": "11:53",
+          "stay_min": 1,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um in das Herz des alten Viertels zu gelangen.",
+            "hu": "Szálljon helyi buszra, hogy eljusson az óváros szívébe.",
+            "ro": "Luați un autobuz local pentru a ajunge în inima cartierului vechi.",
+            "en": "Take a local bus to get to the heart of the old quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Mayor Prioral & Mittagessen",
+            "hu": "Főtemplom és ebéd",
+            "ro": "Biserica Mare și Prânz",
+            "en": "Priory Church & Lunch"
+          },
+          "coords": [
+            -6.2251,
+            36.5942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Steigen Sie aus und erkunden Sie die Kirche und die umliegenden Gassen, bevor Sie zu Mittag essen.",
+            "hu": "Szálljon le, fedezze fel a templomot és a környező sikátorokat ebéd előtt.",
+            "ro": "Coborâți și explorați biserica și aleile înconjurătoare înainte de prânz.",
+            "en": "Hop off and explore the church and surrounding alleys before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Strand von Valdelagrana",
+            "hu": "Busz a Valdelagrana strandra",
+            "ro": "Autobuz spre Plaja Valdelagrana",
+            "en": "Bus to Valdelagrana Beach"
+          },
+          "coords": [
+            -6.2015,
+            36.579
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:12",
+          "stay_min": 177,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.9,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Beenden Sie den Tag mit einer Busfahrt zum Strand für einen entspannten Nachmittag am Meer.",
+            "hu": "Zárja a napot egy buszozással a strandra egy pihentető tengerparti délutánért.",
+            "ro": "Încheiați ziua cu o călătorie cu autobuzul la plajă pentru o după-amiază relaxantă la malul mării.",
+            "en": "End the day with a bus ride to the beach for a relaxing afternoon by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof. Von dort aus erreichen Sie zu Fuß einen Cluster von Sehenswürdigkeiten, darunter die Plaza de Toros und die Burg San Marcos. Nach der Erkundung dieses Bereichs bringt Sie eine kurze Busfahrt in das Herz des historischen Zentrums, wo sich die Prioral-Kirche befindet und Sie gemütlich zu Mittag essen können. Am Nachmittag bringt Sie eine weitere Busfahrt zum weitläufigen Strand von Valdelagrana, wo Sie sich entspannen, spazieren gehen und die Meeresbrise genießen können. Dieser Plan minimiert das Gehen über weite Strecken und nutzt das lokale Busnetz effizient, um verschiedene Stadtteile zu verbinden.",
+        "hu": "A tömegközlekedési túra a vasútállomáson kezdődik. Innen gyalogosan elérheti a látnivalók egy csoportját, köztük a Plaza de Torost és a San Marcos várat. A terület felfedezése után egy rövid buszút elviszi a történelmi központ szívébe, ahol a Főtemplom található, és ahol kényelmesen megebédelhet. Délután egy másik buszjárattal eljuthat a tágas Valdelagrana strandra, ahol pihenhet, sétálhat és élvezheti a tengeri szellőt. Ez a terv minimalizálja a hosszú gyaloglást, és hatékonyan használja a helyi buszhálózatot a város különböző részei közötti közlekedésre.",
+        "ro": "Turul dvs. cu transportul public începe la gară. De acolo, puteți ajunge pe jos la un grup de atracții, inclusiv Plaza de Toros și Castelul San Marcos. După ce explorați această zonă, o scurtă călătorie cu autobuzul vă va duce în inima centrului istoric, unde se află Biserica Priorală și unde puteți lua un prânz relaxat. După-amiaza, o altă călătorie cu autobuzul vă va duce la plaja expansivă Valdelagrana, unde vă puteți relaxa, plimba și bucura de briza mării. Acest plan minimizează mersul pe jos pe distanțe lungi și utilizează eficient rețeaua locală de autobuze pentru a conecta diferite părți ale orașului.",
+        "en": "Your public transit tour starts at the train station. From there, you'll walk to a cluster of sights including the Plaza de Toros and San Marcos Castle. After exploring this area, a short bus ride takes you to the heart of the historic center for the Priory Church and a leisurely lunch. In the afternoon, another bus trip whisks you away to the expansive Valdelagrana Beach, where you can relax, stroll, and enjoy the sea breeze. This plan minimizes long-distance walking and makes efficient use of the local bus network to connect different parts of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Eine Auswahl an leicht paniertem und frittiertem frischem Fisch, ein Grundnahrungsmittel in Andalusien. Probieren Sie es im Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Knusprige, hauchdünne Garnelen-Fritters. Ein lokaler Favorit."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Verpassen Sie nicht, die lokalen Sherry-Weine zu probieren, von trockenem Fino bis zu süßem Pedro Ximénez."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaito frito",
+            "tip": "Könnyedén panírozott és sült friss halak válogatása, Andalúzia alapétele. Kóstolja meg a Romerijo étteremben."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Ropogós, papírvékony garnélarákos fánk. Helyi kedvenc."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Ne hagyja ki a helyi sherry borok kóstolását, a száraz Finótól az édes Pedro Ximénez-ig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaito frito",
+            "tip": "O varietate de pește proaspăt, ușor pane și prăjit, un aliment de bază în Andaluzia. Încercați-l la Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Chiftele de creveți crocante și subțiri ca hârtia. Un favorit local."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Nu ratați degustarea vinurilor locale de sherry, de la Fino sec la dulcele Pedro Ximénez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaito frito",
+            "tip": "An assortment of lightly battered and fried fresh fish, a staple of Andalusia. Try it at Romerijo."
+          },
+          {
+            "name": "Tortillitas de Camarones",
+            "tip": "Crispy, paper-thin shrimp fritters. A local favorite."
+          },
+          {
+            "name": "Vinos de Jerez (Sherry)",
+            "tip": "Don't miss tasting the local sherry wines, from dry Fino to sweet Pedro Ximénez."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Valdelagrana",
+            "tip": "Machen Sie einen langen Spaziergang entlang dieses weitläufigen Strandes, besonders bei Ebbe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster La Victoria",
+            "tip": "Ein friedlicher Ort abseits der belebteren zentralen Bereiche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "Ein schattiger Park im Herzen der Stadt, perfekt für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valdelagrana strand",
+            "tip": "Tegyen egy hosszú sétát ezen a tágas strandon, különösen apály idején.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "La Victoria kolostor",
+            "tip": "Egy békés hely a forgalmasabb központi területektől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Calderón park",
+            "tip": "Egy árnyas park a város szívében, tökéletes egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Valdelagrana",
+            "tip": "Faceți o plimbare lungă de-a lungul acestei plaje întinse, mai ales la reflux.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea La Victoria",
+            "tip": "Un loc pașnic, departe de zonele centrale mai aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Calderón",
+            "tip": "Un parc umbros în inima orașului, perfect pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valdelagrana Beach",
+            "tip": "Take a long walk along this expansive beach, especially during low tide.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of La Victoria",
+            "tip": "A peaceful spot away from the busier central areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Calderón",
+            "tip": "A shady park in the heart of the city, perfect for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Abastos",
+            "tip": "Erleben Sie den lokalen Trubel und kaufen Sie frische Produkte, Meeresfrüchte und lokale Spezialitäten."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus nationalen Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Abastos (Piac)",
+            "tip": "Élje át a helyi nyüzsgést, és vásároljon friss termékeket, tenger gyümölcseit és helyi különlegességeket."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "A fő bevásárlóutcák, ahol nemzeti márkák és helyi butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Abastos (Piața Centrală)",
+            "tip": "Experimentați agitația locală și cumpărați produse proaspete, fructe de mare și specialități locale."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "Principalele străzi comerciale cu un amestec de mărci naționale și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Abastos (Central Market)",
+            "tip": "Experience the local buzz and shop for fresh produce, seafood, and local delicacies."
+          },
+          {
+            "name": "Calle Luna & Calle Larga",
+            "tip": "The main shopping streets with a mix of national brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für Bequemlichkeit und potenziell niedrigere Fahrpreise.",
+          "Google Maps oder die lokale Transit-App können bei den Busfahrplänen sehr hilfreich sein.",
+          "Behalten Sie die Zeit für den letzten Bus zurück zum Bahnhof im Auge, um Ihren Zug nicht zu verpassen."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát a kényelem és az esetlegesen alacsonyabb viteldíjak érdekében.",
+          "A Google Maps vagy a helyi közlekedési alkalmazás nagy segítség lehet a buszmenetrendekben.",
+          "Tartsa szemmel az utolsó busz indulási idejét a vasútállomásra, nehogy lekésse a vonatot."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru comoditate și tarife potențial mai mici.",
+          "Google Maps sau aplicația locală de transport în comun pot fi de mare ajutor pentru orarele autobuzelor.",
+          "Fiți cu ochii pe ora ultimului autobuz înapoi la gară pentru a nu pierde trenul."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for convenience and potentially lower fares.",
+          "Google Maps or the local transit app can be very helpful for bus schedules.",
+          "Keep an eye on the time for the last bus back to the train station so you don't miss your train."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1508 @@
+{
+  "city_id": "latvia-skrunda-cities-v2",
+  "anchor": {
+    "name": "Skrunda",
+    "coords": [
+      22.0125,
+      56.6717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus Skrunda",
+            "hu": "Skrundai Kultúrház",
+            "ro": "Casa de Cultură Skrunda",
+            "en": "Skrunda Culture House"
+          },
+          "coords": [
+            22.0151,
+            56.6738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den lokalen Veranstaltungsplan, vielleicht gibt es eine Ausstellung.",
+            "hu": "Nézd meg a helyi programajánlót, hátha van valamilyen kiállítás.",
+            "ro": "Verificați programul local de evenimente, s-ar putea să existe o expoziție.",
+            "en": "Check the local event schedule, there might be an exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Skrunda",
+            "hu": "Skrundai udvarház",
+            "ro": "Conacul Skrunda",
+            "en": "Skrunda Manor"
+          },
+          "coords": [
+            22.0183,
+            56.6761
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das restaurierte Herrenhaus ist heute ein Hotel, aber der Park ist zugänglich.",
+            "hu": "A felújított udvarház ma szálloda, de a parkja látogatható.",
+            "ro": "Conacul restaurat este acum un hotel, dar parcul este accesibil.",
+            "en": "The restored manor is a hotel now, but its park is accessible."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            22.0195,
+            56.6769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für einen kurzen Spaziergang im Schatten alter Bäume.",
+            "hu": "Csendes hely egy rövid sétára az öreg fák árnyékában.",
+            "ro": "Un loc liniștit pentru o scurtă plimbare la umbra copacilor bătrâni.",
+            "en": "A quiet place for a short walk in the shade of old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Skrunda",
+            "hu": "Skrundai Evangélikus Templom",
+            "ro": "Biserica Luterană din Skrunda",
+            "en": "Skrunda Lutheran Church"
+          },
+          "coords": [
+            22.0112,
+            56.6744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beachten Sie die schlichte Eleganz des Innenraums.",
+            "hu": "Figyeld meg a belső tér egyszerű eleganciáját.",
+            "ro": "Observați eleganța simplă a interiorului.",
+            "en": "Notice the simple elegance of the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Venta-Brücke",
+            "hu": "Venta híd",
+            "ro": "Podul peste Venta",
+            "en": "Venta Bridge"
+          },
+          "coords": [
+            22.0075,
+            56.671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:43",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotospot mit Blick auf den Fluss Venta.",
+            "hu": "Nagyszerű fotóhely, kilátással a Venta folyóra.",
+            "ro": "Un loc excelent pentru fotografii, cu vedere la râul Venta.",
+            "en": "A great photo spot with a view of the Venta River."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade",
+            "hu": "Folyóparti sétány",
+            "ro": "Promenada Râului",
+            "en": "River Promenade"
+          },
+          "coords": [
+            22.0061,
+            56.6698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:07",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagspicknick am Flussufer.",
+            "hu": "Ideális egy ebédpiknikhez a folyóparton.",
+            "ro": "Ideal pentru un picnic la prânz pe malul râului.",
+            "en": "Ideal for a lunch picnic on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesenstühle",
+            "hu": "Az Óriásszékek",
+            "ro": "Scaunele Uriașe",
+            "en": "The Giant Chairs"
+          },
+          "coords": [
+            21.9965,
+            56.6685
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:11",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein lustiger Ort für ein Erinnerungsfoto. Klettern Sie für die beste Pose hinauf!",
+            "hu": "Mókás hely egy emlékfotóhoz. Mássz fel a legjobb pózért!",
+            "ro": "Un loc amuzant pentru o fotografie suvenir. Urcați-vă pentru cea mai bună poză!",
+            "en": "A fun spot for a souvenir photo. Climb up for the best pose!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Skrunda mit einem Hauch von Kultur im Kulturhaus, bevor Sie durch den historischen Schlosspark zum eleganten Herrenhaus Skrunda schlendern. Am Vormittag entdecken Sie die ruhige Schönheit der Lutherischen Kirche, ein Zeugnis des reichen Erbes der Stadt. Gönnen Sie sich mittags eine Pause an der malerischen Flusspromenade und genießen Sie die Aussicht von der Venta-Brücke. Am Nachmittag lassen Sie sich von den skurrilen Riesenstühlen verzaubern, einer einzigartigen Installation, die perfekt für Fotos ist. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Flusses und genießen Sie die friedliche Atmosphäre der lettischen Landschaft.",
+        "hu": "Kezdje a napot Skrundában egy csipetnyi kultúrával a Kultúrházban, mielőtt átsétálna a történelmi Kastélyparkon az elegáns Skrundai udvarházhoz. Délelőtt fedezze fel az Evangélikus Templom csendes szépségét, amely a város gazdag örökségének tanúja. Délben tartson szünetet a festői Folyóparti sétányon, és élvezze a kilátást a Venta hídról. Délután hagyja, hogy elvarázsolják a különc Óriásszékek, egy egyedi installáció, amely tökéletes fotótéma. Zárja a napot egy kellemes sétával a folyó mentén, magába szívva a lett vidék békés hangulatát.",
+        "ro": "Începeți ziua în Skrunda cu o notă de cultură la Casa de Cultură, înainte de a vă plimba prin istoricul Parc al Castelului până la elegantul Conac Skrunda. În cursul dimineții, descoperiți frumusețea liniștită a Bisericii Luterane, o mărturie a bogatei moșteniri a orașului. La prânz, luați o pauză pe pitoreasca Promenadă a Râului, admirând priveliștea de pe Podul Venta. După-amiaza, lăsați-vă fermecați de excentricele Scaune Uriașe, o instalație unică, perfectă pentru fotografii. Încheiați-vă ziua cu o plimbare relaxantă de-a lungul râului, absorbind atmosfera pașnică a peisajului leton.",
+        "en": "Start your day in Skrunda with a touch of culture at the Culture House before strolling through the historic Castle Park to the elegant Skrunda Manor. In the morning, discover the quiet beauty of the Lutheran Church, a testament to the town's rich heritage. At midday, take a break on the scenic River Promenade, enjoying the view from the Venta Bridge. In the afternoon, be charmed by the quirky Giant Chairs, a unique installation perfect for photos. End your day with a leisurely walk along the river, soaking in the peaceful atmosphere of the Latvian countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen traditionellen lettischen süßen Kuchen aus Roggenteig mit Kartoffel- und Karottenfüllung."
+          },
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes Nationalgericht, besonders beliebt in den kälteren Monaten."
+          },
+          {
+            "name": "Roggenbrot-Suppe (Maizes zupa)",
+            "tip": "Ein überraschendes Dessert aus süßem Roggenbrot, Früchten und Schlagsahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstold meg ezt a hagyományos lett édes pitét, amely rozstésztából, burgonya- és sárgarépatöltelékkel készül."
+          },
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Laktató nemzeti étel, különösen a hidegebb hónapokban népszerű."
+          },
+          {
+            "name": "Rozskenyérleves (Maizes zupa)",
+            "tip": "Meglepő desszert édes rozskenyérből, gyümölcsökből és tejszínhabból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încercați această plăcintă dulce tradițională letonă, făcută din aluat de secară cu umplutură de cartofi și morcovi."
+          },
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național consistent, popular mai ales în lunile mai reci."
+          },
+          {
+            "name": "Supă de pâine de secară (Maizes zupa)",
+            "tip": "Un desert surprinzător făcut din pâine de secară dulce, fructe și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this traditional Latvian sweet pie made from rye dough with a potato and carrot filling."
+          },
+          {
+            "name": "Grey Peas with Bacon",
+            "tip": "A hearty national dish, especially popular in the colder months."
+          },
+          {
+            "name": "Rye Bread Soup (Maizes zupa)",
+            "tip": "A surprising dessert made from sweet rye bread, fruits, and whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Venta",
+            "tip": "Finden Sie eine ruhige Bank entlang der Flusspromenade, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark am Morgen",
+            "tip": "Erleben Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Venta-Brücke",
+            "tip": "Ein friedlicher Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta folyó partja",
+            "tip": "Keress egy csendes padot a folyóparti sétányon, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark reggel",
+            "tip": "Tapasztald meg a park csendjét, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Venta hídról",
+            "tip": "Békés hely a naplemente megcsodálására a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Venta",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului dimineața",
+            "tip": "Experimentați liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliște de pe Podul Venta",
+            "tip": "Un loc pașnic pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venta River",
+            "tip": "Find a quiet bench along the river promenade to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park in the morning",
+            "tip": "Experience the silence of the park before the town wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Venta Bridge",
+            "tip": "A peaceful spot to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Waren und lettische Leckereien."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für hochwertiges Leinen; halten Sie Ausschau nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat, ahol kézműves termékeket és lett finomságokat árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Lettország híres a minőségi vászonról; keress asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse artizanale și delicatese letone."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade goods and Latvian treats."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for high-quality linen; look for tablecloths or clothes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Ein kleiner Rucksack mit Wasser und Snacks ist eine gute Idee.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was den Spaziergang sehr angenehm macht.",
+          "Prüfen Sie die Öffnungszeiten der Kirche, da diese variieren können."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel a nap nagy részében gyalogolni fogsz.",
+          "Jó ötlet egy kis hátizsák vízzel és rágcsálnivalóval.",
+          "A legtöbb látnivaló közel van egymáshoz, ami nagyon kellemessé teszi a sétát.",
+          "Ellenőrizd a templom nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Un rucsac mic cu apă și gustări este o idee bună.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, ceea ce face plimbarea foarte plăcută.",
+          "Verificați orele de deschidere ale bisericii, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking for most of the day.",
+          "A small backpack with water and snacks is a good idea.",
+          "Most sights are close to each other, making the walk very pleasant.",
+          "Check the opening hours of the church as they may vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Venta-Brücke",
+            "hu": "Venta híd",
+            "ro": "Podul peste Venta",
+            "en": "Venta Bridge"
+          },
+          "coords": [
+            22.0075,
+            56.671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Morgenbrise am Fluss zu genießen.",
+            "hu": "Kezdd itt a napot, hogy élvezd a reggeli szellőt a folyónál.",
+            "ro": "Începeți de aici pentru a vă bucura de briza dimineții de pe râu.",
+            "en": "Start here to enjoy the morning breeze by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade",
+            "hu": "Folyóparti sétány",
+            "ro": "Promenada Râului",
+            "en": "River Promenade"
+          },
+          "coords": [
+            22.0061,
+            56.6698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:26",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Flusses ist perfekt für eine entspannte Fahrt.",
+            "hu": "A folyó menti kerékpárút tökéletes egy nyugodt tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este perfectă pentru o plimbare relaxantă.",
+            "en": "The cycle path along the river is perfect for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesenstühle",
+            "hu": "Az Óriásszékek",
+            "ro": "Scaunele Uriașe",
+            "en": "The Giant Chairs"
+          },
+          "coords": [
+            21.9965,
+            56.6685
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:02",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein lustiges Foto, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "Egy gyors megálló egy vicces fotóért, könnyen elérhető biciklivel.",
+            "ro": "O oprire scurtă pentru o fotografie amuzantă, ușor accesibilă cu bicicleta.",
+            "en": "A quick stop for a fun photo, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegsfriedhof",
+            "hu": "Katonai temető",
+            "ro": "Cimitirul Militar",
+            "en": "War Cemetery"
+          },
+          "coords": [
+            21.99,
+            56.6715
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:27",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung. Bitte seien Sie respektvoll und parken Sie Ihr Fahrrad am Eingang.",
+            "hu": "Az elmélkedés helye. Kérjük, légy tisztelettudó, és a biciklidet a bejáratnál parkold le.",
+            "ro": "Un loc de reflecție. Vă rugăm să fiți respectuoși și să vă parcați bicicleta la intrare.",
+            "en": "A place for reflection. Please be respectful and park your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Skrunda",
+            "hu": "Skrundai Evangélikus Templom",
+            "ro": "Biserica Luterană din Skrunda",
+            "en": "Skrunda Lutheran Church"
+          },
+          "coords": [
+            22.0112,
+            56.6744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein zentraler Punkt der Stadt, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "A város központi pontja, biciklivel könnyen megközelíthető.",
+            "ro": "Un punct central al orașului, ușor de ajuns cu bicicleta.",
+            "en": "A central point of the town, easy to reach by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Skrunda",
+            "hu": "Skrundai Kultúrház",
+            "ro": "Casa de Cultură Skrunda",
+            "en": "Skrunda Culture House"
+          },
+          "coords": [
+            22.0151,
+            56.6738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:42",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier können Sie Ihr Fahrrad sicher abstellen und zu Mittag essen.",
+            "hu": "Itt biztonságban le tudod tenni a biciklidet, amíg megebédelsz.",
+            "ro": "Puteți lăsa bicicleta în siguranță aici în timp ce luați prânzul.",
+            "en": "You can safely leave your bike here while you have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Skrunda",
+            "hu": "Skrundai udvarház",
+            "ro": "Conacul Skrunda",
+            "en": "Skrunda Manor"
+          },
+          "coords": [
+            22.0183,
+            56.6761
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den schönen Park, der das Herrenhaus umgibt.",
+            "hu": "Tekerj át a kastélyt körülvevő gyönyörű parkon.",
+            "ro": "Plimbați-vă cu bicicleta prin parcul frumos care înconjoară conacul.",
+            "en": "Ride your bike through the beautiful park surrounding the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            22.0195,
+            56.6769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:18",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem grünen Park.",
+            "hu": "Fejezd be a biciklitúrát egy pihentető időtöltéssel ebben a zöld parkban.",
+            "ro": "Încheiați-vă turul cu bicicleta cu un moment de relaxare în acest parc verde.",
+            "en": "End your bike tour with some relaxing time in this green park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Venta-Brücke und folgen Sie der Flusspromenade für eine malerische Fahrt. Ein kurzer Abstecher führt Sie zu den einzigartigen Riesenstühlen und dem besinnlichen Kriegsfriedhof. Am Vormittag radeln Sie ins Zentrum, um die Lutherische Kirche und das Kulturhaus zu besichtigen. Gönnen Sie sich hier eine Mittagspause. Am Nachmittag erkunden Sie das prächtige Herrenhaus Skrunda und seinen weitläufigen Park. Lassen Sie den Tag mit einer entspannten Fahrt durch den Schlosspark ausklingen, der perfekte Abschluss für ein aktives Abenteuer.",
+        "hu": "Kezdje a kerékpártúrát a Venta hídnál, és kövesse a Folyóparti sétányt egy festői úton. Egy rövid kitérő elvezeti az egyedi Óriásszékekhez és az elgondolkodtató Katonai temetőhöz. Délelőtt tekerjen be a központba, hogy megnézze az Evangélikus templomot és a Kultúrházat. Itt tartson ebédszünetet. Délután fedezze fel a pompás Skrundai udvarházat és tágas parkját. Zárja a napot egy pihentető tekeréssel a Kastélyparkban, amely tökéletes lezárása egy aktív kalandnak.",
+        "ro": "Începeți turul cu bicicleta de la Podul Venta și urmați Promenada Râului pentru o plimbare pitorească. Un scurt ocol vă va duce la unicele Scaune Uriașe și la Cimitirul Militar, un loc de reculegere. În cursul dimineții, pedalați spre centru pentru a vizita Biserica Luterană și Casa de Cultură. Luați o pauză de prânz aici. După-amiaza, explorați magnificul Conac Skrunda și parcul său întins. Încheiați ziua cu o plimbare relaxantă prin Parcul Castelului, finalul perfect pentru o aventură activă.",
+        "en": "Start your bike tour at the Venta Bridge and follow the River Promenade for a scenic ride. A short detour will take you to the unique Giant Chairs and the contemplative War Cemetery. In the morning, cycle to the center to visit the Lutheran Church and the Culture House. Take a lunch break here. In the afternoon, explore the magnificent Skrunda Manor and its spacious park. End the day with a relaxing ride through the Castle Park, the perfect conclusion to an active adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen traditionellen lettischen süßen Kuchen aus Roggenteig mit Kartoffel- und Karottenfüllung."
+          },
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes Nationalgericht, besonders beliebt in den kälteren Monaten."
+          },
+          {
+            "name": "Roggenbrot-Suppe (Maizes zupa)",
+            "tip": "Ein überraschendes Dessert aus süßem Roggenbrot, Früchten und Schlagsahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstold meg ezt a hagyományos lett édes pitét, amely rozstésztából, burgonya- és sárgarépatöltelékkel készül."
+          },
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Laktató nemzeti étel, különösen a hidegebb hónapokban népszerű."
+          },
+          {
+            "name": "Rozskenyérleves (Maizes zupa)",
+            "tip": "Meglepő desszert édes rozskenyérből, gyümölcsökből és tejszínhabból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încercați această plăcintă dulce tradițională letonă, făcută din aluat de secară cu umplutură de cartofi și morcovi."
+          },
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național consistent, popular mai ales în lunile mai reci."
+          },
+          {
+            "name": "Supă de pâine de secară (Maizes zupa)",
+            "tip": "Un desert surprinzător făcut din pâine de secară dulce, fructe și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this traditional Latvian sweet pie made from rye dough with a potato and carrot filling."
+          },
+          {
+            "name": "Grey Peas with Bacon",
+            "tip": "A hearty national dish, especially popular in the colder months."
+          },
+          {
+            "name": "Rye Bread Soup (Maizes zupa)",
+            "tip": "A surprising dessert made from sweet rye bread, fruits, and whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Venta",
+            "tip": "Finden Sie eine ruhige Bank entlang der Flusspromenade, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark am Morgen",
+            "tip": "Erleben Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Venta-Brücke",
+            "tip": "Ein friedlicher Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta folyó partja",
+            "tip": "Keress egy csendes padot a folyóparti sétányon, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark reggel",
+            "tip": "Tapasztald meg a park csendjét, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Venta hídról",
+            "tip": "Békés hely a naplemente megcsodálására a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Venta",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului dimineața",
+            "tip": "Experimentați liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliște de pe Podul Venta",
+            "tip": "Un loc pașnic pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venta River",
+            "tip": "Find a quiet bench along the river promenade to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park in the morning",
+            "tip": "Experience the silence of the park before the town wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Venta Bridge",
+            "tip": "A peaceful spot to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Waren und lettische Leckereien."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für hochwertiges Leinen; halten Sie Ausschau nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat, ahol kézműves termékeket és lett finomságokat árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Lettország híres a minőségi vászonról; keress asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse artizanale și delicatese letone."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade goods and Latvian treats."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for high-quality linen; look for tablecloths or clothes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird für Ihre Sicherheit empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Viele Wege sind flach und einfach zu befahren, aber achten Sie auf den Verkehr in der Stadt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat, különösen a fékeket és a gumikat.",
+          "A biztonságod érdekében sisak viselése ajánlott.",
+          "Mindig zárd le a kerékpárodat, amikor leparkolsz.",
+          "Sok út sík és könnyen járható, de figyelj a városi forgalomra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Se recomandă purtarea unei căști pentru siguranța dumneavoastră.",
+          "Încuietăți-vă întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Multe trasee sunt plate și ușor de parcurs, dar fiți atenți la trafic în oraș."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is recommended for your safety.",
+          "Always lock your bike when you leave it.",
+          "Many paths are flat and easy to ride, but be aware of traffic in the town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Skrunda",
+            "hu": "Skrundai udvarház",
+            "ro": "Conacul Skrunda",
+            "en": "Skrunda Manor"
+          },
+          "coords": [
+            22.0183,
+            56.6761
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Dies ist der erste Stopp Ihres Clusters im Stadtzentrum.",
+            "hu": "Parkolj le itt. Ez a belvárosi klaszter első megállója.",
+            "ro": "Parcați aici. Aceasta este prima oprire a clusterului din centrul orașului.",
+            "en": "Park here. This is the first stop of your town center cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            22.0195,
+            56.6769
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus entfernt.",
+            "hu": "Rövid séta az udvarháztól.",
+            "ro": "O scurtă plimbare de la conac.",
+            "en": "A short walk from the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Skrunda",
+            "hu": "Skrundai Evangélikus Templom",
+            "ro": "Biserica Luterană din Skrunda",
+            "en": "Skrunda Lutheran Church"
+          },
+          "coords": [
+            22.0112,
+            56.6744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Stadt zu diesem zentralen Wahrzeichen.",
+            "hu": "Sétálj át a városon ehhez a központi nevezetességhez.",
+            "ro": "Plimbați-vă prin oraș până la acest punct de reper central.",
+            "en": "Stroll through the town to this central landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Venta-Brücke",
+            "hu": "Venta híd",
+            "ro": "Podul peste Venta",
+            "en": "Venta Bridge"
+          },
+          "coords": [
+            22.0075,
+            56.671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:03",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer und parken Sie. Beginn des zweiten Clusters.",
+            "hu": "Vezess le a folyóparthoz és parkolj le. A második klaszter kezdete.",
+            "ro": "Conduceți până la malul râului și parcați. Începutul celui de-al doilea cluster.",
+            "en": "Drive to the riverbank and park. Start of the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade",
+            "hu": "Folyóparti sétány",
+            "ro": "Promenada Râului",
+            "en": "River Promenade"
+          },
+          "coords": [
+            22.0061,
+            56.6698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Mittagsspaziergang.",
+            "hu": "Szép hely egy déli sétához.",
+            "ro": "Un loc frumos pentru o plimbare la prânz.",
+            "en": "A lovely spot for a midday walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesenstühle",
+            "hu": "Az Óriásszékek",
+            "ro": "Scaunele Uriașe",
+            "en": "The Giant Chairs"
+          },
+          "coords": [
+            21.9965,
+            56.6685
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:41",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages zu diesem lustigen Denkmal.",
+            "hu": "A nap utolsó sétája ehhez a mókás emlékműhöz.",
+            "ro": "Ultima plimbare a zilei la acest monument amuzant.",
+            "en": "The last walk of the day to this fun monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag, indem Sie am Herrenhaus Skrunda parken, dem Herzstück Ihres ersten Erkundungsclusters. Schlendern Sie von hier aus durch den angrenzenden Schlosspark und weiter zur Lutherischen Kirche. Am Vormittag erleben Sie das historische Zentrum zu Fuß. Mittags fahren Sie zum Ufer der Venta und beginnen Ihr zweites Cluster an der Venta-Brücke. Genießen Sie eine entspannte Zeit an der Flusspromenade. Am Nachmittag führt Sie ein kurzer Spaziergang zu den skurrilen Riesenstühlen. Dieser Tag kombiniert die Bequemlichkeit des Autos mit der Freude an gemütlichen Spaziergängen.",
+        "hu": "Kezdje az autós napot a Skrundai udvarháznál parkolva, amely az első felfedező klaszter központja. Innen sétáljon át a szomszédos Kastélyparkon, majd tovább az Evangélikus templomhoz. Délelőtt fedezze fel gyalog a történelmi központot. Délben vezessen le a Venta partjára, és kezdje a második klasztert a Venta hídnál. Élvezze a pihentető időt a Folyóparti sétányon. Délután egy rövid séta elvezeti a különc Óriásszékekhez. Ez a nap ötvözi az autó kényelmét a kellemes séták örömével.",
+        "ro": "Începeți ziua cu mașina parcând la Conacul Skrunda, inima primului dumneavoastră cluster de explorare. De aici, plimbați-vă prin Parcul Castelului adiacent și mai departe la Biserica Luterană. În timpul dimineții, experimentați centrul istoric pe jos. La prânz, conduceți până pe malul râului Venta și începeți al doilea cluster la Podul Venta. Bucurați-vă de un timp relaxant pe Promenada Râului. După-amiaza, o scurtă plimbare vă va duce la excentricele Scaune Uriașe. Această zi combină confortul mașinii cu bucuria plimbărilor relaxante.",
+        "en": "Start your car day by parking at Skrunda Manor, the heart of your first exploration cluster. From here, stroll through the adjacent Castle Park and on to the Lutheran Church. In the morning, experience the historic center on foot. At noon, drive to the banks of the Venta River and start your second cluster at the Venta Bridge. Enjoy some relaxing time on the River Promenade. In the afternoon, a short walk will take you to the quirky Giant Chairs. This day combines the convenience of the car with the joy of leisurely walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen traditionellen lettischen süßen Kuchen aus Roggenteig mit Kartoffel- und Karottenfüllung."
+          },
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes Nationalgericht, besonders beliebt in den kälteren Monaten."
+          },
+          {
+            "name": "Roggenbrot-Suppe (Maizes zupa)",
+            "tip": "Ein überraschendes Dessert aus süßem Roggenbrot, Früchten und Schlagsahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstold meg ezt a hagyományos lett édes pitét, amely rozstésztából, burgonya- és sárgarépatöltelékkel készül."
+          },
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Laktató nemzeti étel, különösen a hidegebb hónapokban népszerű."
+          },
+          {
+            "name": "Rozskenyérleves (Maizes zupa)",
+            "tip": "Meglepő desszert édes rozskenyérből, gyümölcsökből és tejszínhabból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încercați această plăcintă dulce tradițională letonă, făcută din aluat de secară cu umplutură de cartofi și morcovi."
+          },
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național consistent, popular mai ales în lunile mai reci."
+          },
+          {
+            "name": "Supă de pâine de secară (Maizes zupa)",
+            "tip": "Un desert surprinzător făcut din pâine de secară dulce, fructe și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this traditional Latvian sweet pie made from rye dough with a potato and carrot filling."
+          },
+          {
+            "name": "Grey Peas with Bacon",
+            "tip": "A hearty national dish, especially popular in the colder months."
+          },
+          {
+            "name": "Rye Bread Soup (Maizes zupa)",
+            "tip": "A surprising dessert made from sweet rye bread, fruits, and whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Venta",
+            "tip": "Finden Sie eine ruhige Bank entlang der Flusspromenade, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark am Morgen",
+            "tip": "Erleben Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Venta-Brücke",
+            "tip": "Ein friedlicher Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta folyó partja",
+            "tip": "Keress egy csendes padot a folyóparti sétányon, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark reggel",
+            "tip": "Tapasztald meg a park csendjét, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Venta hídról",
+            "tip": "Békés hely a naplemente megcsodálására a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Venta",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului dimineața",
+            "tip": "Experimentați liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliște de pe Podul Venta",
+            "tip": "Un loc pașnic pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venta River",
+            "tip": "Find a quiet bench along the river promenade to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park in the morning",
+            "tip": "Experience the silence of the park before the town wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Venta Bridge",
+            "tip": "A peaceful spot to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Waren und lettische Leckereien."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für hochwertiges Leinen; halten Sie Ausschau nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat, ahol kézműves termékeket és lett finomságokat árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Lettország híres a minőségi vászonról; keress asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse artizanale și delicatese letone."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade goods and Latvian treats."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for high-quality linen; look for tablecloths or clothes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkbeschränkungen, besonders im Stadtzentrum.",
+          "Ein GPS ist nützlich, um die Parkplätze in der Nähe der Cluster zu finden.",
+          "Lassen Sie keine Wertsachen im Auto zurück.",
+          "Die Straßen in der Umgebung sind möglicherweise schmal, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Figyelj a parkolási korlátozásokra, különösen a városközpontban.",
+          "GPS hasznos lehet a klaszterek közelében lévő parkolók megtalálásához.",
+          "Ne hagyj értéktárgyakat az autóban.",
+          "A környező utak szűkek lehetnek, ezért vezess óvatosan."
+        ],
+        "ro": [
+          "Fiți atenți la restricțiile de parcare, mai ales în centrul orașului.",
+          "Un GPS este util pentru a găsi locuri de parcare lângă clustere.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "Drumurile din zonă pot fi înguste, așa că conduceți cu prudență."
+        ],
+        "en": [
+          "Pay attention to parking restrictions, especially in the town center.",
+          "A GPS is useful for finding the parking spots near the clusters.",
+          "Do not leave valuables in the car.",
+          "The surrounding roads might be narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus Skrunda",
+            "hu": "Skrundai Kultúrház",
+            "ro": "Casa de Cultură Skrunda",
+            "en": "Skrunda Culture House"
+          },
+          "coords": [
+            22.0151,
+            56.6738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie an einer zentralen Bushaltestelle in der Nähe des Kulturhauses.",
+            "hu": "Kezdje a napot egy központi buszmegállónál a Kultúrház közelében.",
+            "ro": "Începeți de la o stație de autobuz centrală, lângă Casa de Cultură.",
+            "en": "Start at a central bus stop near the Culture House."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherische Kirche Skrunda",
+            "hu": "Skrundai Evangélikus Templom",
+            "ro": "Biserica Luterană din Skrunda",
+            "en": "Skrunda Lutheran Church"
+          },
+          "coords": [
+            22.0112,
+            56.6744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom ersten Halt.",
+            "hu": "Rövid séta az első megállótól.",
+            "ro": "O scurtă plimbare de la prima oprire.",
+            "en": "A short walk from the first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Skrunda",
+            "hu": "Skrundai udvarház",
+            "ro": "Conacul Skrunda",
+            "en": "Skrunda Manor"
+          },
+          "coords": [
+            22.0183,
+            56.6761
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Stadt zum Herrenhaus.",
+            "hu": "Sétálj át a városon az udvarházhoz.",
+            "ro": "Plimbați-vă prin oraș până la conac.",
+            "en": "Stroll through the town to the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Venta-Brücke",
+            "hu": "Venta híd",
+            "ro": "Podul peste Venta",
+            "en": "Venta Bridge"
+          },
+          "coords": [
+            22.0075,
+            56.671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:51",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Fluss. Dies ist Ihr zweites Cluster.",
+            "hu": "Szállj fel egy helyi buszra a folyóhoz. Ez a második klasztered.",
+            "ro": "Luați un autobuz local spre râu. Acesta este al doilea cluster.",
+            "en": "Take a local bus to the river. This is your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade",
+            "hu": "Folyóparti sétány",
+            "ro": "Promenada Râului",
+            "en": "River Promenade"
+          },
+          "coords": [
+            22.0061,
+            56.6698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang und eine Mittagspause am Fluss.",
+            "hu": "Élvezd a sétát és tarts ebédszünetet a folyónál.",
+            "ro": "Bucurați-vă de o plimbare și o pauză de prânz lângă râu.",
+            "en": "Enjoy a walk and a lunch break by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Riesenstühle",
+            "hu": "Az Óriásszékek",
+            "ro": "Scaunele Uriașe",
+            "en": "The Giant Chairs"
+          },
+          "coords": [
+            21.9965,
+            56.6685
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:21",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang zum Abschluss Ihres Tages.",
+            "hu": "Egy rövid, kellemes séta a nap befejezéseként.",
+            "ro": "O plimbare scurtă și plăcută pentru a încheia ziua.",
+            "en": "A short, pleasant walk to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit öffentlichen Verkehrsmitteln an einer zentralen Haltestelle in der Nähe des Kulturhauses. Von hier aus erkunden Sie das historische Zentrum von Skrunda zu Fuß und besuchen die Lutherische Kirche und das Herrenhaus. Am Vormittag erleben Sie die wichtigsten Sehenswürdigkeiten der Stadt in einem gemütlichen Tempo. Mittags nehmen Sie einen lokalen Bus, der Sie zur Venta-Brücke bringt, dem Ausgangspunkt Ihres zweiten Erkundungsclusters. Verbringen Sie eine entspannte Zeit an der Flusspromenade. Ein letzter kurzer Spaziergang führt Sie zu den Riesenstühlen. Dieser Plan zeigt, wie Sie Skrunda auch ohne Auto effizient erkunden können.",
+        "hu": "Kezdje a napot tömegközlekedéssel egy központi megállóban a Kultúrház közelében. Innen gyalog fedezze fel Skrunda történelmi központját, meglátogatva az Evangélikus templomot és az Udvarházat. Délelőtt kényelmes tempóban ismerkedjen meg a város főbb nevezetességeivel. Délben szálljon fel egy helyi buszra, amely elviszi a Venta hídhoz, a második felfedező klaszter kiindulópontjához. Töltsön el egy pihentető időt a Folyóparti sétányon. Egy utolsó rövid séta elvezeti az Óriásszékekhez. Ez a terv megmutatja, hogyan lehet Skrundát hatékonyan felfedezni autó nélkül is.",
+        "ro": "Începeți ziua folosind transportul public de la o stație centrală lângă Casa de Cultură. De aici, explorați centrul istoric al Skrundei pe jos, vizitând Biserica Luterană și Conacul. În timpul dimineții, experimentați principalele atracții ale orașului într-un ritm lejer. La prânz, luați un autobuz local care vă va duce la Podul Venta, punctul de plecare al celui de-al doilea cluster de explorare. Petreceți un timp relaxant pe Promenada Râului. O ultimă plimbare scurtă vă va duce la Scaunele Uriașe. Acest plan demonstrează cum puteți explora eficient Skrunda chiar și fără mașină.",
+        "en": "Start your day using public transport at a central stop near the Culture House. From here, explore Skrunda's historic center on foot, visiting the Lutheran Church and the Manor. In the morning, experience the town's main sights at a leisurely pace. At noon, take a local bus to the Venta Bridge, the starting point of your second exploration cluster. Spend some relaxing time on the River Promenade. A final short walk takes you to the Giant Chairs. This plan shows how you can efficiently explore Skrunda even without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Probieren Sie diesen traditionellen lettischen süßen Kuchen aus Roggenteig mit Kartoffel- und Karottenfüllung."
+          },
+          {
+            "name": "Graue Erbsen mit Speck",
+            "tip": "Ein herzhaftes Nationalgericht, besonders beliebt in den kälteren Monaten."
+          },
+          {
+            "name": "Roggenbrot-Suppe (Maizes zupa)",
+            "tip": "Ein überraschendes Dessert aus süßem Roggenbrot, Früchten und Schlagsahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Kóstold meg ezt a hagyományos lett édes pitét, amely rozstésztából, burgonya- és sárgarépatöltelékkel készül."
+          },
+          {
+            "name": "Szürke borsó szalonnával",
+            "tip": "Laktató nemzeti étel, különösen a hidegebb hónapokban népszerű."
+          },
+          {
+            "name": "Rozskenyérleves (Maizes zupa)",
+            "tip": "Meglepő desszert édes rozskenyérből, gyümölcsökből és tejszínhabból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Încercați această plăcintă dulce tradițională letonă, făcută din aluat de secară cu umplutură de cartofi și morcovi."
+          },
+          {
+            "name": "Mazăre gri cu șuncă",
+            "tip": "Un fel de mâncare național consistent, popular mai ales în lunile mai reci."
+          },
+          {
+            "name": "Supă de pâine de secară (Maizes zupa)",
+            "tip": "Un desert surprinzător făcut din pâine de secară dulce, fructe și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sklandrausis",
+            "tip": "Try this traditional Latvian sweet pie made from rye dough with a potato and carrot filling."
+          },
+          {
+            "name": "Grey Peas with Bacon",
+            "tip": "A hearty national dish, especially popular in the colder months."
+          },
+          {
+            "name": "Rye Bread Soup (Maizes zupa)",
+            "tip": "A surprising dessert made from sweet rye bread, fruits, and whipped cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Venta",
+            "tip": "Finden Sie eine ruhige Bank entlang der Flusspromenade, um dem Wasser zu lauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark am Morgen",
+            "tip": "Erleben Sie die Stille des Parks, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Venta-Brücke",
+            "tip": "Ein friedlicher Ort, um den Sonnenuntergang über dem Fluss zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta folyó partja",
+            "tip": "Keress egy csendes padot a folyóparti sétányon, és hallgasd a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark reggel",
+            "tip": "Tapasztald meg a park csendjét, mielőtt a város felébred.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Venta hídról",
+            "tip": "Békés hely a naplemente megcsodálására a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Venta",
+            "tip": "Găsiți o bancă liniștită de-a lungul promenadei râului pentru a asculta apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului dimineața",
+            "tip": "Experimentați liniștea parcului înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliște de pe Podul Venta",
+            "tip": "Un loc pașnic pentru a privi apusul peste râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Venta River",
+            "tip": "Find a quiet bench along the river promenade to listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park in the morning",
+            "tip": "Experience the silence of the park before the town wakes up.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Venta Bridge",
+            "tip": "A peaceful spot to watch the sunset over the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für handgemachte Waren und lettische Leckereien."
+          },
+          {
+            "name": "Leinenprodukte",
+            "tip": "Lettland ist bekannt für hochwertiges Leinen; halten Sie Ausschau nach Tischdecken oder Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat, ahol kézműves termékeket és lett finomságokat árulnak."
+          },
+          {
+            "name": "Vászontárgyak",
+            "tip": "Lettország híres a minőségi vászonról; keress asztalterítőket vagy ruhákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse artizanale și delicatese letone."
+          },
+          {
+            "name": "Produse din in",
+            "tip": "Letonia este renumită pentru inul de înaltă calitate; căutați fețe de masă sau haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for handmade goods and Latvian treats."
+          },
+          {
+            "name": "Linen Products",
+            "tip": "Latvia is known for high-quality linen; look for tablecloths or clothes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese möglicherweise nicht häufig verkehren.",
+          "Eine Tageskarte könnte günstiger sein als Einzelfahrscheine.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus zurück nicht zu verpassen.",
+          "Fragen Sie Einheimische nach der richtigen Haltestelle; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Tájékozódj előre a buszmenetrendről, mert lehet, hogy nem járnak sűrűn.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Figyelj az időre, hogy ne késs le az utolsó buszról visszafelé.",
+          "Kérdezd meg a helyieket a megfelelő megállóról; általában segítőkészek."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece este posibil să nu circule frecvent.",
+          "Un abonament de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți cu ochii pe ceas pentru a nu pierde ultimul autobuz înapoi.",
+          "Întrebați localnicii despre stația corectă; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Check the bus schedules in advance, as they might not be frequent.",
+          "A day pass might be cheaper than single tickets.",
+          "Keep an eye on the time so you don't miss the last bus back.",
+          "Ask locals for the right stop; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

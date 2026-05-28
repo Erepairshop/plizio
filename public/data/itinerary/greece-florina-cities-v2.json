@@ -1,0 +1,999 @@
+{
+  "city_id": "greece-florina-cities-v2",
+  "anchor": {
+    "name": "Florina",
+    "coords": [
+      21.4098,
+      40.7819
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Aristoteles-Platz",
+          "coords": [
+            21.408,
+            40.781
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Morgenkaffee.",
+            "hu": "Tökéletes helyszín egy reggeli kávéhoz.",
+            "ro": "Locul perfect pentru o cafea de dimineață.",
+            "en": "Perfect spot for a morning coffee."
+          }
+        },
+        {
+          "name": "Zentrale Fußgängerzone",
+          "coords": [
+            21.4085,
+            40.7815
+          ],
+          "category": "promenades",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal zum Bummeln und Einkaufen.",
+            "hu": "Ideális sétához és vásárláshoz.",
+            "ro": "Ideal pentru plimbări și cumpărături.",
+            "en": "Ideal for strolling and shopping."
+          }
+        },
+        {
+          "name": "Kirche Agios Georgios",
+          "coords": [
+            21.41,
+            40.782
+          ],
+          "category": "churches",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur.",
+            "hu": "Csodálja meg a hagyományos építészetet.",
+            "ro": "Admirați arhitectura tradițională.",
+            "en": "Admire the traditional architecture."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            21.4075,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tolle Einblicke in das lokale Leben von früher.",
+            "hu": "Remek bepillantás a korábbi helyi életbe.",
+            "ro": "O perspectivă excelentă asupra vieții locale de altădată.",
+            "en": "Great insights into local life from the past."
+          }
+        },
+        {
+          "name": "Ufer des Sakoulevas",
+          "coords": [
+            21.412,
+            40.7805
+          ],
+          "category": "promenades",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Tavernen direkt am Wasser für das Mittagessen.",
+            "hu": "Sok vízparti taverna várja ebédre.",
+            "ro": "Multe taverne chiar pe malul apei pentru prânz.",
+            "en": "Many waterside taverns for lunch."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            21.413,
+            40.781
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interessante Artefakte aus der gesamten Region.",
+            "hu": "Érdekes leletek az egész régióból.",
+            "ro": "Artefacte interesante din întreaga regiune.",
+            "en": "Interesting artifacts from the entire region."
+          }
+        },
+        {
+          "name": "Museum für Moderne Kunst",
+          "coords": [
+            21.414,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spannende Werke griechischer Künstler.",
+            "hu": "Görög művészek izgalmas alkotásai.",
+            "ro": "Lucrări fascinante ale artiștilor greci.",
+            "en": "Fascinating works by Greek artists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am belebten Aristoteles-Platz, dem perfekten Ort für einen ersten Kaffee. Danach schlendern Sie durch die malerische Fußgängerzone. Mittags lockt das Ufer des Sakoulevas mit gemütlichen Tavernen und alten Herrenhäusern. Am Nachmittag tauchen Sie in den Museen in die reiche Geschichte und Kunst der Region ein. Der Abend klingt bei einem entspannten Spaziergang aus.",
+        "hu": "A reggel a nyüzsgő Arisztotelész téren indul, amely tökéletes hely egy kávéra. Ezután fedezze fel a hangulatos sétálóutcát és a helyi üzleteket. Délben a Szakoulevasz folyó partja hívogat a régi kúriákkal és kiváló tavernák étlapjával. Délután a múzeumokban elmerülhet a régió gazdag történelmében és művészetében. Az este egy pihentető sétával zárul a kivilágított folyóparton.",
+        "ro": "Dimineața începe în animata Piață Aristotel, locul perfect pentru o primă cafea. Apoi, explorați zona pietonală pitorească. La prânz, malul râului Sakoulevas vă atrage cu taverne confortabile și conace vechi. După-amiaza, descoperiți istoria și arta regiunii în muzeele fascinante din apropiere. Seara se încheie cu o plimbare relaxantă de-a lungul râului frumos luminat.",
+        "en": "The morning starts at the bustling Aristotle Square, perfect for a first coffee. Afterwards, stroll through the picturesque pedestrian zone. At midday, the banks of the Sakoulevas river beckon with cozy taverns and old mansions. In the afternoon, immerse yourself in the region's rich history and art at the local museums. The evening ends with a relaxing walk along the illuminated riverside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Gegrillte rote Paprika, eine lokale Spezialität."
+          },
+          {
+            "name": "Kebapia",
+            "tip": "Traditionelle, würzige Fleischröllchen der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Grillezett piros paprika, helyi különlegesség."
+          },
+          {
+            "name": "Kebapia",
+            "tip": "Hagyományos fűszeres hústekercsek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Ardei grași roșii la grătar, o specialitate locală."
+          },
+          {
+            "name": "Kebapia",
+            "tip": "Rulouri tradiționale din carne condimentată din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Grilled red peppers, a local specialty."
+          },
+          {
+            "name": "Kebapia",
+            "tip": "Traditional spiced meat rolls from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sakoulevas",
+            "tip": "Entspannter Ort am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szakoulevasz folyópartja",
+            "tip": "Pihentető hely a víz mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sakoulevas",
+            "tip": "Un loc relaxant lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sakoulevas River Banks",
+            "tip": "Relaxing spot by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Ideal für frisches Obst, Honig und lokale Gewürze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Ideális friss gyümölcsök, méz és helyi fűszerek vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Ideal pentru fructe proaspete, miere și condimente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Ideal for fresh fruit, honey, and local spices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen.",
+          "Probieren Sie unbedingt die lokalen Paprika in den Tavernen.",
+          "Im Winter kann es hier recht kalt werden, bringen Sie warme Kleidung mit.",
+          "Die Museen sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákon.",
+          "Mindenképp kóstolja meg a helyi paprikát a tavernákban.",
+          "Télen meglehetősen hideg lehet errefelé, hozzon meleg ruhát.",
+          "A múzeumok könnyen megközelíthetők gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile cu piatră cubică.",
+          "Nu ratați ardeii locali în taverne.",
+          "Iarna poate fi destul de frig aici, aduceți haine călduroase.",
+          "Muzeele sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Be sure to try the local peppers in the taverns.",
+          "It can get quite cold here in winter, bring warm clothes.",
+          "The museums are easily accessible on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Aristoteles-Platz",
+          "coords": [
+            21.408,
+            40.781
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Frappé.",
+            "hu": "Kezdje a túrát itt egy frappéval.",
+            "ro": "Începeți turul aici cu un frappé.",
+            "en": "Start your tour here with a frappé."
+          }
+        },
+        {
+          "name": "Kirche Agios Georgios",
+          "coords": [
+            21.41,
+            40.782
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei der schönen Kirche.",
+            "hu": "Rövid megálló a gyönyörű templomnál.",
+            "ro": "Scurtă oprire la frumoasa biserică.",
+            "en": "Short stop at the beautiful church."
+          }
+        },
+        {
+          "name": "Ufer des Sakoulevas",
+          "coords": [
+            21.412,
+            40.7805
+          ],
+          "category": "promenades",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich am Fluss entlang.",
+            "hu": "Kerékpározzon kényelmesen a folyó mentén.",
+            "ro": "Pedalați pe îndelete de-a lungul râului.",
+            "en": "Cycle leisurely along the river."
+          }
+        },
+        {
+          "name": "Museum für Moderne Kunst",
+          "coords": [
+            21.414,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und genießen Sie die Kunst.",
+            "hu": "Parkolja le a bringát és élvezze a művészetet.",
+            "ro": "Parcați bicicleta și bucurați-vă de artă.",
+            "en": "Park your bike and enjoy the art."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            21.413,
+            40.781
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mittagspause in der Nähe des Museums.",
+            "hu": "Ebédszünet a múzeum közelében.",
+            "ro": "Pauză de prânz în apropierea muzeului.",
+            "en": "Lunch break near the museum."
+          }
+        },
+        {
+          "name": "Hügel Agios Panteleimon",
+          "coords": [
+            21.395,
+            40.775
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Etwas anstrengender Aufstieg, der sich lohnt.",
+            "hu": "Kissé fárasztó emelkedő, de megéri.",
+            "ro": "Urcuș puțin obositor, dar merită efortul.",
+            "en": "Slightly strenuous climb, but worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour durch Florina startet zentral und führt Sie zuerst zu den architektonischen Highlights. Entlang des Sakoulevas-Flusses lässt es sich besonders entspannt radeln. Nach dem Besuch der Museen wartet eine sportliche Herausforderung: Der Aufstieg zum Agios Panteleimon Hügel belohnt Sie mit einer fantastischen Aussicht.",
+        "hu": "A florinai kerékpártúra a központból indul, és először az építészeti látnivalókhoz vezet. A Szakoulevasz folyó mentén különösen pihentető a tekerés. A múzeumok meglátogatása után egy sportos kihívás vár: az Agiosz Panteleimon domb megmászása fantasztikus kilátással jutalmazza.",
+        "ro": "Turul cu bicicleta prin Florina începe central și vă conduce mai întâi la atracțiile arhitecturale. Ciclismul de-a lungul râului Sakoulevas este deosebit de relaxant. După vizitarea muzeelor, vă așteaptă o provocare sportivă: urcarea pe dealul Agios Panteleimon vă răsplătește cu o priveliște fantastică.",
+        "en": "The bike tour through Florina starts centrally and first takes you to the architectural highlights. Cycling along the Sakoulevas river is particularly relaxing. After visiting the museums, a sporty challenge awaits: the climb to Agios Panteleimon hill rewards you with a fantastic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Tavernen",
+            "tip": "Probieren Sie herzhafte Grillgerichte nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tavernák",
+            "tip": "Kóstolja meg a kiadós grillételeket a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne locale",
+            "tip": "Încercați preparatele copioase la grătar după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverns",
+            "tip": "Try the hearty grilled dishes after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Agios Panteleimon",
+            "tip": "Perfekt für eine Pause mit Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agiosz Panteleimon domb",
+            "tip": "Tökéletes egy pihenőhöz kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Agios Panteleimon",
+            "tip": "Perfect pentru o pauză cu priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agios Panteleimon Hill",
+            "tip": "Perfect for a break with a view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flusspromenade",
+            "tip": "Kleine Boutiquen und Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti sétány",
+            "tip": "Kis butikok és kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului",
+            "tip": "Buticuri mici și meșteșuguri."
+          }
+        ],
+        "en": [
+          {
+            "name": "River Promenade",
+            "tip": "Small boutiques and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Fußgänger entlang der Flusspromenade.",
+          "Der Weg zum Aussichtshügel hat eine spürbare Steigung.",
+          "Nutzen Sie die vielen Cafés für kurze Pausen.",
+          "Schließen Sie Ihr Fahrrad bei den Museen gut ab."
+        ],
+        "hu": [
+          "Vigyázzon a gyalogosokra a folyóparti sétányon.",
+          "A kilátóhoz vezető út érezhetően emelkedik.",
+          "Használja ki a sok kávézót rövid pihenőkre.",
+          "A múzeumoknál gondosan zárja le a kerékpárt."
+        ],
+        "ro": [
+          "Atenție la pietonii de-a lungul promenadei râului.",
+          "Drumul către dealul de belvedere are o pantă vizibilă.",
+          "Profitați de numeroasele cafenele pentru pauze scurte.",
+          "Asigurați-vă bine bicicleta la muzee."
+        ],
+        "en": [
+          "Watch out for pedestrians along the river promenade.",
+          "The path to the viewpoint hill has a noticeable incline.",
+          "Use the many cafes for short breaks.",
+          "Lock your bike securely at the museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Aristoteles-Platz",
+          "coords": [
+            21.408,
+            40.781
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral für den ersten Cluster.",
+            "hu": "Parkoljon központilag az első klaszterhez.",
+            "ro": "Parcați central pentru primul grup de atracții.",
+            "en": "Park centrally for the first cluster."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            21.4075,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Platz entfernt.",
+            "hu": "Csak egy rövid sétára a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": "Ufer des Sakoulevas",
+          "coords": [
+            21.412,
+            40.7805
+          ],
+          "category": "promenades",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Cluster: Parken Sie am Fluss für Mittagessen.",
+            "hu": "Új klaszter: parkoljon a folyónál az ebédhez.",
+            "ro": "Nou grup: parcați lângă râu pentru prânz.",
+            "en": "New cluster: park by the river for lunch."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            21.413,
+            40.781
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gemütlicher Spaziergang nach dem Essen.",
+            "hu": "Kellemes séta étkezés után.",
+            "ro": "Plimbare plăcută după masă.",
+            "en": "Pleasant walk after the meal."
+          }
+        },
+        {
+          "name": "Museum für Moderne Kunst",
+          "coords": [
+            21.414,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt nebenan im gleichen Bereich.",
+            "hu": "Közvetlenül a szomszédban, ugyanabban a zónában.",
+            "ro": "Chiar alături, în aceeași zonă.",
+            "en": "Right next door in the same area."
+          }
+        },
+        {
+          "name": "Hügel Agios Panteleimon",
+          "coords": [
+            21.395,
+            40.775
+          ],
+          "category": "viewpoints",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt auf den Hügel für den besten Blick.",
+            "hu": "Autóút a dombra a legjobb kilátásért.",
+            "ro": "Conduceți pe deal pentru cea mai bună priveliște.",
+            "en": "Drive up the hill for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag teilt Florina in drei entspannte Zonen. Wir starten im historischen Zentrum, wo Sie das Auto abstellen und den Aristoteles-Platz sowie das Volkskundemuseum zu Fuß erkunden. Danach fahren wir ans malerische Ufer des Sakoulevas, dem perfekten Ort für ein ausgiebiges Mittagessen und Spaziergänge zu den weiteren Museen. Zum Tagesabschluss fahren Sie bequem auf den Agios Panteleimon Hügel.",
+        "hu": "Ez az autós nap három kényelmes zónára osztja Florinát. A történelmi központban kezdünk, ahol leparkolva gyalog fedezheti fel az Arisztotelész teret és a Néprajzi Múzeumot. Ezután a festői Szakoulevasz folyó partjára autózunk, amely tökéletes egy bőséges ebédhez és a többi múzeum bejárásához. A nap végén kényelmesen felhajthat az Agiosz Panteleimon dombra.",
+        "ro": "Această zi cu mașina împarte Florina în trei zone relaxante. Începem în centrul istoric, unde lăsați mașina și explorați pe jos Piața Aristotel și Muzeul de Etnografie. Apoi, conducem spre malul pitoresc al râului Sakoulevas, locul perfect pentru un prânz copios și plimbări către celelalte muzee. Pentru a încheia ziua, conduceți confortabil până pe dealul Agios Panteleimon.",
+        "en": "This car day divides Florina into three relaxing zones. We start in the historic center, where you leave the car and explore Aristotle Square and the Folklore Museum on foot. Then we drive to the picturesque banks of the Sakoulevas, the perfect place for a hearty lunch and walks to the other museums. To end the day, drive comfortably up Agios Panteleimon Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Probieren Sie diese lokalen, roten Paprikaschoten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Kóstolja meg ezeket a helyi, piros paprikákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Încercați acești ardei roșii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pipéries Florínis",
+            "tip": "Try these local, red peppers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Agios Panteleimon",
+            "tip": "Genießen Sie den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agiosz Panteleimon kilátó",
+            "tip": "Élvezze a naplementét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Agios Panteleimon",
+            "tip": "Bucurați-vă de apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Agios Panteleimon Viewpoint",
+            "tip": "Enjoy the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum",
+            "tip": "Regionale Spezialitäten in den Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központ",
+            "tip": "Regionális specialitások a kis utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru",
+            "tip": "Specialități regionale pe străduțe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center",
+            "tip": "Regional specialties in the alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie das Auto innerhalb der Stadtviertel stehen und gehen Sie zu Fuß.",
+          "Die Straßen am Fluss können schmal sein, fahren Sie vorsichtig.",
+          "Am Aussichtspunkt gibt es ausreichend Parkplätze.",
+          "Florinas Museen sind in Clustern angeordnet, ideal für dieses Konzept."
+        ],
+        "hu": [
+          "Hagyja az autót a negyedeken belül, és sétáljon gyalog.",
+          "A folyó melletti utcák szűkek lehetnek, vezessen óvatosan.",
+          "A kilátónál elegendő parkolóhely áll rendelkezésre.",
+          "Florina múzeumai klaszterekben helyezkednek el, ideális ehhez a koncepcióhoz."
+        ],
+        "ro": [
+          "Lăsați mașina în cartiere și mergeți pe jos.",
+          "Străzile de lângă râu pot fi înguste, conduceți cu atenție.",
+          "La punctul de belvedere există suficiente locuri de parcare.",
+          "Muzeele din Florina sunt grupate, ideal pentru acest concept."
+        ],
+        "en": [
+          "Leave the car within the neighborhoods and walk.",
+          "The streets by the river can be narrow, drive carefully.",
+          "There is plenty of parking at the viewpoint.",
+          "Florina's museums are arranged in clusters, ideal for this concept."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Aristoteles-Platz",
+          "coords": [
+            21.408,
+            40.781
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt im Herzen der Stadt.",
+            "hu": "Központi kiindulópont a város szívében.",
+            "ro": "Punct central de pornire în inima orașului.",
+            "en": "Central starting point in the heart of the city."
+          }
+        },
+        {
+          "name": "Zentrale Fußgängerzone",
+          "coords": [
+            21.4085,
+            40.7815
+          ],
+          "category": "promenades",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Platz erreichbar.",
+            "hu": "Könnyen elérhető gyalog a térről.",
+            "ro": "Ușor de ajuns pe jos de la piață.",
+            "en": "Easily reached on foot from the square."
+          }
+        },
+        {
+          "name": "Kirche Agios Georgios",
+          "coords": [
+            21.41,
+            40.782
+          ],
+          "category": "churches",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schöner Zwischenstopp im historischen Viertel.",
+            "hu": "Szép megálló a történelmi negyedben.",
+            "ro": "O oprire frumoasă în cartierul istoric.",
+            "en": "Nice stop in the historic district."
+          }
+        },
+        {
+          "name": "Ufer des Sakoulevas",
+          "coords": [
+            21.412,
+            40.7805
+          ],
+          "category": "promenades",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Flussbereich für das Mittagessen.",
+            "hu": "Utazzon busszal a folyópartra ebédelni.",
+            "ro": "Luați autobuzul spre zona râului pentru prânz.",
+            "en": "Take the bus to the river area for lunch."
+          }
+        },
+        {
+          "name": "Archäologisches Museum",
+          "coords": [
+            21.413,
+            40.781
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Promenade gelegen.",
+            "hu": "Közvetlenül a sétány mellett található.",
+            "ro": "Situat chiar lângă promenadă.",
+            "en": "Located right next to the promenade."
+          }
+        },
+        {
+          "name": "Volkskundemuseum",
+          "coords": [
+            21.4075,
+            40.78
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Fahrt zurück Richtung Zentrum.",
+            "hu": "Rövid út vissza a központ felé.",
+            "ro": "O scurtă călătorie înapoi spre centru.",
+            "en": "Short ride back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Florina lässt sich wunderbar in kleinen Zonen erkunden. Starten Sie im Zentrum am Aristoteles-Platz und erkunden Sie die Fußgängerzone zu Fuß. Danach überbrücken Sie eine kurze Distanz zum malerischen Ufer des Sakoulevas. Hier flanieren Sie entspannt zwischen den Tavernen und dem Archäologischen Museum. Am späten Nachmittag geht es unkompliziert zurück zum letzten Highlight.",
+        "hu": "Florina csodálatosan felfedezhető kis zónákban. Kezdje a központban az Arisztotelész téren, és gyalog járja be a sétálóutcát. Ezután tegyen meg egy rövid távolságot a Szakoulevasz festői partjáig. Itt kényelmesen sétálhat a tavernák és a Régészeti Múzeum között. Késő délután egyszerűen visszatérhet az utolsó látnivalóhoz.",
+        "ro": "Florina poate fi explorată minunat în zone mici. Începeți în centru, în Piața Aristotel, și explorați zona pietonală pe jos. Apoi, parcurgeți o distanță scurtă până pe malul pitoresc al râului Sakoulevas. Aici vă puteți plimba relaxat printre taverne și Muzeul Arheologic. După-amiaza târziu, vă puteți întoarce ușor la ultima atracție.",
+        "en": "Florina is wonderful to explore in small zones. Start in the center at Aristotle Square and explore the pedestrian zone on foot. Then cover a short distance to the picturesque banks of the Sakoulevas. Here you can stroll in a relaxed manner between the taverns and the Archaeological Museum. In the late afternoon, easily return to the final highlight."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Tavernen am Fluss",
+            "tip": "Probieren Sie Kebapia mit Aussicht aufs Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi tavernák a folyónál",
+            "tip": "Kóstolja meg a kebapiát vízparti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne locale pe râu",
+            "tip": "Încercați kebapia cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverns by the River",
+            "tip": "Try kebapia with a view of the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sakoulevas",
+            "tip": "Perfekt für eine kleine Pause am Nachmittag.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szakoulevasz folyópartja",
+            "tip": "Tökéletes egy kis délutáni pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sakoulevas",
+            "tip": "Perfect pentru o scurtă pauză după-amiaza.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sakoulevas River Banks",
+            "tip": "Perfect for a short break in the afternoon.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Fußgängerzone",
+            "tip": "Gute Auswahl an lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi sétálóutca",
+            "tip": "Jó választék helyi termékekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală centrală",
+            "tip": "O selecție bună de produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Pedestrian Zone",
+            "tip": "Good selection of local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Busnetz verbindet das Zentrum gut mit den Randbereichen.",
+          "Laufen Sie die kurzen Strecken zwischen den Museen zu Fuß.",
+          "Informieren Sie sich vorab über die Abfahrtszeiten.",
+          "Tragen Sie bequeme Schuhe für die Fußwege."
+        ],
+        "hu": [
+          "A buszhálózat jól összeköti a központot a peremkerületekkel.",
+          "A múzeumok közötti rövid távolságokat gyalog tegye meg.",
+          "Előre tájékozódjon az indulási időkről.",
+          "Viseljen kényelmes cipőt a sétákhoz."
+        ],
+        "ro": [
+          "Rețeaua de autobuze conectează bine centrul cu zonele periferice.",
+          "Parcurgeți distanțele scurte dintre muzee pe jos.",
+          "Informați-vă în prealabil despre orele de plecare.",
+          "Purtați încălțăminte confortabilă pentru plimbări."
+        ],
+        "en": [
+          "The bus network connects the center well with the outskirts.",
+          "Walk the short distances between the museums on foot.",
+          "Check departure times in advance.",
+          "Wear comfortable shoes for walking."
+        ]
+      }
+    }
+  }
+}

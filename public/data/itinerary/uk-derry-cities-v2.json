@@ -1,0 +1,1596 @@
+{
+  "city_id": "uk-derry-cities-v2",
+  "anchor": {
+    "name": "Derry",
+    "coords": [
+      -7.3086,
+      54.9966
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Guildhall",
+            "hu": "Céhek háza",
+            "ro": "Guildhall",
+            "en": "Guildhall"
+          },
+          "coords": [
+            -7.3071,
+            54.9975
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster, die die Geschichte der Stadt erzählen.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, amelyek a város történetét mesélik el.",
+            "ro": "Admirați vitraliile impresionante care spun povestea orașului.",
+            "en": "Admire the impressive stained-glass windows that tell the story of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile Orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            -7.3095,
+            54.9962
+          ],
+          "category": "fortresses",
+          "arrive_at": "10:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang auf den kompletten Mauern dauert etwa eine Stunde und bietet die besten Aussichten.",
+            "hu": "Egy teljes séta a falakon körülbelül egy órát vesz igénybe, és a legjobb kilátást nyújtja.",
+            "ro": "O plimbare completă pe ziduri durează aproximativ o oră și oferă cele mai bune priveliști.",
+            "en": "A full walk on the walls takes about an hour and offers the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Columb's Cathedral",
+            "hu": "Szent Kolumba-székesegyház",
+            "ro": "Catedrala Sf. Columba",
+            "en": "St. Columb's Cathedral"
+          },
+          "coords": [
+            -7.3115,
+            54.9942
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Originalschlüssel der Stadt, die im Inneren ausgestellt sind.",
+            "hu": "Keresse meg a város eredeti kulcsait, amelyeket a székesegyházban állítottak ki.",
+            "ro": "Căutați cheile originale ale orașului expuse în interior.",
+            "en": "Look for the original keys of the city displayed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tower Museum",
+            "hu": "Toronymúzeum",
+            "ro": "Muzeul Turnului",
+            "en": "Tower Museum"
+          },
+          "coords": [
+            -7.3089,
+            54.9981
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Ausstellung zur spanischen Armada ist ein Muss.",
+            "hu": "A spanyol Armada kiállítás kihagyhatatlan.",
+            "ro": "Expoziția despre Armada Spaniolă este de neratat.",
+            "en": "The Spanish Armada exhibition is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Free Derry Corner",
+            "hu": "Szabad Derry Sarok",
+            "ro": "Colțul Derry Liber",
+            "en": "Free Derry Corner"
+          },
+          "coords": [
+            -7.3185,
+            54.9955
+          ],
+          "category": "monuments",
+          "arrive_at": "14:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein starkes Symbol der jüngeren Geschichte der Stadt; lesen Sie die Informationstafeln in der Nähe.",
+            "hu": "A város közelmúltbeli történelmének erőteljes szimbóluma; olvassa el a közeli információs táblákat.",
+            "ro": "Un simbol puternic al istoriei recente a orașului; citiți panourile informative din apropiere.",
+            "en": "A powerful symbol of the city's recent history; read the nearby info panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogside Murals",
+            "hu": "Bogside falfestményei",
+            "ro": "Picturile Murale din Bogside",
+            "en": "Bogside Murals"
+          },
+          "coords": [
+            -7.3195,
+            54.9965
+          ],
+          "category": "monuments",
+          "arrive_at": "15:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erwägen Sie eine geführte Tour, um die tiefere Bedeutung jedes Wandgemäldes zu verstehen.",
+            "hu": "Fontolja meg egy vezetett túrát, hogy megértse az egyes falfestmények mélyebb jelentését.",
+            "ro": "Luați în considerare un tur ghidat pentru a înțelege semnificația mai profundă a fiecărei picturi murale.",
+            "en": "Consider taking a guided tour to understand the deeper meaning of each mural."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Bridge",
+            "hu": "Béke híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            -7.303,
+            54.998
+          ],
+          "category": "bridges",
+          "arrive_at": "16:21",
+          "stay_min": 64,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke bei Sonnenuntergang für eine spektakuläre Aussicht.",
+            "hu": "Naplementekor keljen át a hídon a látványos kilátásért.",
+            "ro": "Traversați podul la apus pentru o priveliște spectaculoasă.",
+            "en": "Cross the bridge at sunset for a spectacular view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt an der Guildhall. Der Vormittag ist dem Erklimmen der historischen Stadtmauern und dem Besuch der St. Columb's Cathedral gewidmet. Nach dem Mittagessen, das Sie im Zentrum finden, tauchen Sie im Tower Museum in die Geschichte ein. Der Nachmittag führt Sie zu den ergreifenden Bogside Murals und dem Free Derry Corner. Beenden Sie Ihren Spaziergang mit einem hoffnungsvollen Schritt über die Peace Bridge, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a város szívében, a Céhek házánál. A délelőtt a történelmi városfalak megmászásáról és a Szent Kolumba-székesegyház meglátogatásáról szól. Ebéd után, amelyet a központban fogyaszthat el, merüljön el a történelemben a Toronymúzeumban. A délután a megrendítő Bogside falfestményekhez és a Szabad Derry Sarokhoz vezet. Zárja a sétát egy reményteli lépéssel a Béke hídon, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua în inima orașului la Guildhall. Dimineața este dedicată urcării pe zidurile istorice ale orașului și vizitării Catedralei Sf. Columba. După prânzul în centru, scufundați-vă în istorie la Muzeul Turnului. După-amiaza vă duce la picturile murale emoționante din Bogside și la Colțul Derry Liber. Încheiați plimbarea cu un pas plin de speranță peste Podul Păcii, în timp ce soarele apune.",
+        "en": "Start your day in the heart of the city at the Guildhall. The morning is for scaling the historic city walls and visiting St. Columb's Cathedral. After lunch in the centre, delve into history at the Tower Museum. The afternoon takes you to the poignant Bogside Murals and Free Derry Corner. End your walk with a hopeful step across the Peace Bridge as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein traditionelles Frühstück, das Sie den ganzen Tag über satt hält. Suchen Sie es in lokalen Cafés."
+          },
+          {
+            "name": "Derry Stew",
+            "tip": "Ein herzhafter Eintopf, perfekt für einen kühleren Tag. Oft in Pubs zu finden."
+          },
+          {
+            "name": "Browns Bonds Hill",
+            "tip": "Für ein gehobenes kulinarisches Erlebnis mit Blick auf den Fluss Foyle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulsteri reggeli",
+            "tip": "Hagyományos reggeli, amely egész napra jóllakat. Keresse a helyi kávézókban."
+          },
+          {
+            "name": "Derry-ragu",
+            "tip": "Kiadós ragu, tökéletes egy hűvösebb napra. Gyakran megtalálható a pubokban."
+          },
+          {
+            "name": "Browns Bonds Hill",
+            "tip": "Egy elegánsabb vacsoraélményért, kilátással a Foyle folyóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Un mic dejun tradițional care vă va menține sătul toată ziua. Căutați-l în cafenelele locale."
+          },
+          {
+            "name": "Tocăniță Derry",
+            "tip": "O tocană consistentă, perfectă pentru o zi mai răcoroasă. Adesea găsită în pub-uri."
+          },
+          {
+            "name": "Browns Bonds Hill",
+            "tip": "Pentru o experiență culinară de lux, cu vedere la râul Foyle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A traditional breakfast to keep you going all day. Look for it in local cafes."
+          },
+          {
+            "name": "Derry Stew",
+            "tip": "A hearty stew, perfect for a cooler day. Often found in pubs."
+          },
+          {
+            "name": "Browns Bonds Hill",
+            "tip": "For an upscale dining experience with views of the River Foyle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Columb's Park",
+            "tip": "Überqueren Sie die Peace Bridge und finden Sie Ruhe in diesem weitläufigen Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Spaziergang am Fluss Foyle",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der St. Columb's Cathedral",
+            "tip": "Ein ruhiger Ort im Herzen der befestigten Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Kolumba park",
+            "tip": "Keljen át a Béke hídon, és találjon nyugalmat ebben a tágas parkban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Séta a Foyle folyó mentén",
+            "tip": "Békés kora reggeli séta a folyóparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szent Kolumba-székesegyház kertjei",
+            "tip": "Csendes hely a fallal körülvett város szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul St. Columb",
+            "tip": "Traversați Podul Păcii și găsiți liniște în acest parc întins.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plimbare pe malul râului Foyle",
+            "tip": "O plimbare liniștită de-a lungul râului dimineața devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Catedralei St. Columba",
+            "tip": "Un loc liniștit în inima orașului fortificat.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Columb's Park",
+            "tip": "Cross the Peace Bridge and find tranquility in this expansive park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "River Foyle Walk",
+            "tip": "A peaceful stroll along the river in the early morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of St. Columb's Cathedral",
+            "tip": "A quiet spot within the heart of the walled city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Craft Village",
+            "tip": "Einzigartige handgefertigte Waren und Geschenke von lokalen Handwerkern."
+          },
+          {
+            "name": "Foyleside Shopping Centre",
+            "tip": "Die größte Einkaufsdestination der Stadt mit vielen bekannten Marken."
+          },
+          {
+            "name": "Bedlam Market",
+            "tip": "Ein eklektischer Markt mit Vintage-Kleidung, Büchern und Kuriositäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves falu",
+            "tip": "Egyedi, kézzel készített termékek és ajándékok helyi kézművesektől."
+          },
+          {
+            "name": "Foyleside Bevásárlóközpont",
+            "tip": "A város legnagyobb bevásárlóközpontja, számos ismert márkával."
+          },
+          {
+            "name": "Bedlam Market",
+            "tip": "Eklektikus piac vintage ruhákkal, könyvekkel és érdekességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Meșteșugăresc",
+            "tip": "Bunuri și cadouri unice, realizate manual de artizani locali."
+          },
+          {
+            "name": "Centrul Comercial Foyleside",
+            "tip": "Cea mai mare destinație de cumpărături din oraș, cu multe branduri cunoscute."
+          },
+          {
+            "name": "Piața Bedlam",
+            "tip": "O piață eclectică cu haine vintage, cărți și curiozități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Village",
+            "tip": "Unique handcrafted goods and gifts from local artisans."
+          },
+          {
+            "name": "Foyleside Shopping Centre",
+            "tip": "The city's main shopping destination with many high-street brands."
+          },
+          {
+            "name": "Bedlam Market",
+            "tip": "An eclectic market with vintage clothing, books, and curiosities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster und unebenen Wegen laufen werden.",
+          "Das Wetter in Derry kann unvorhersehbar sein, packen Sie also eine wasserdichte Jacke ein, auch an einem sonnigen Tag.",
+          "Die Stadt ist kompakt und die meisten Hauptattraktionen sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit auf den Mauern, die Perspektiven ändern sich ständig und bieten großartige Fotomöglichkeiten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön és egyenetlen utakon sétálni.",
+          "Derryben az időjárás kiszámíthatatlan lehet, ezért csomagoljon be egy vízálló dzsekit, még egy napsütéses napon is.",
+          "A város kompakt, és a legtöbb fő látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon időt a falakon, a perspektívák folyamatosan változnak, és nagyszerű fotózási lehetőségeket kínálnak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică și cărări denivelate.",
+          "Vremea în Derry poate fi imprevizibilă, așa că împachetați o geacă impermeabilă, chiar și într-o zi însorită.",
+          "Orașul este compact și majoritatea atracțiilor principale sunt ușor accesibile pe jos.",
+          "Luați-vă timp pe ziduri, perspectivele se schimbă constant și oferă oportunități excelente pentru fotografii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking on cobblestones and uneven paths.",
+          "The weather in Derry can be unpredictable, so pack a waterproof jacket, even on a sunny day.",
+          "The city is compact, and most major attractions are easily within walking distance.",
+          "Take your time on the walls; the perspectives constantly change and offer great photo opportunities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Peace Bridge",
+            "hu": "Béke híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            -7.303,
+            54.998
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für eine symbolische und malerische Einführung in die Stadt.",
+            "hu": "Kezdje itt a város szimbolikus és festői bemutatását.",
+            "ro": "Începeți de aici pentru o introducere simbolică și pitorească a orașului.",
+            "en": "Start here for a symbolic and scenic introduction to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebrington Square",
+            "hu": "Ebrington tér",
+            "ro": "Piața Ebrington",
+            "en": "Ebrington Square"
+          },
+          "coords": [
+            -7.299,
+            54.997
+          ],
+          "category": "squares",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großer öffentlicher Raum, der einst eine Militärbaracke war; jetzt ein Ort für Konzerte und Veranstaltungen.",
+            "hu": "Nagy közterület, amely egykor katonai laktanya volt; ma koncertek és rendezvények helyszíne.",
+            "ro": "Un spațiu public mare care a fost odată o baracă militară; acum un loc pentru concerte și evenimente.",
+            "en": "A large public space that was once a military barracks; now a venue for concerts and events."
+          }
+        },
+        {
+          "name": {
+            "de": "Guildhall",
+            "hu": "Céhek háza",
+            "ro": "Guildhall",
+            "en": "Guildhall"
+          },
+          "coords": [
+            -7.3071,
+            54.9975
+          ],
+          "category": "historical",
+          "arrive_at": "10:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie das atemberaubende Innere dieses neugotischen Gebäudes.",
+            "hu": "Parkolja le a kerékpárját, és fedezze fel ennek a neogótikus épületnek a lenyűgöző belsejét.",
+            "ro": "Parcați bicicleta și explorați interiorul uimitor al acestei clădiri neo-gotice.",
+            "en": "Park your bike and explore the stunning interior of this neo-Gothic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Tower Museum",
+            "hu": "Toronymúzeum",
+            "ro": "Muzeul Turnului",
+            "en": "Tower Museum"
+          },
+          "coords": [
+            -7.3089,
+            54.9981
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche Geschichte von Derry, von der Gründung bis zur Gegenwart.",
+            "hu": "Ismerje meg Derry gazdag történelmét az alapítástól napjainkig.",
+            "ro": "Aflați despre istoria bogată a orașului Derry, de la întemeierea sa până în prezent.",
+            "en": "Learn about the rich history of Derry, from its foundation to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Columb's Cathedral",
+            "hu": "Szent Kolumba-székesegyház",
+            "ro": "Catedrala Sf. Columba",
+            "en": "St. Columb's Cathedral"
+          },
+          "coords": [
+            -7.3115,
+            54.9942
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und treten Sie ein, um die älteste Sehenswürdigkeit der Stadt zu sehen.",
+            "hu": "Zárja le a kerékpárt, és lépjen be a város legrégebbi nevezetességének megtekintéséhez.",
+            "ro": "Legați-vă bicicleta și intrați pentru a vedea cel mai vechi monument din oraș.",
+            "en": "Lock up your bike and step inside to see the city's oldest monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Free Derry Corner & Bogside Murals",
+            "hu": "Szabad Derry Sarok és Bogside falfestmények",
+            "ro": "Colțul Derry Liber și Picturile Murale din Bogside",
+            "en": "Free Derry Corner & Bogside Murals"
+          },
+          "coords": [
+            -7.3185,
+            54.9955
+          ],
+          "category": "monuments",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um diese kraftvollen politischen Kunstwerke aufzunehmen.",
+            "hu": "Szánjon időt ezeknek az erőteljes politikai műalkotásoknak a befogadására.",
+            "ro": "Luați-vă timp pentru a absorbi aceste opere de artă politică puternice.",
+            "en": "Take your time to absorb these powerful pieces of political art."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Eugene's Cathedral",
+            "hu": "Szent Jenő-székesegyház",
+            "ro": "Catedrala Sf. Eugen",
+            "en": "St. Eugene's Cathedral"
+          },
+          "coords": [
+            -7.3245,
+            54.9995
+          ],
+          "category": "cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a neogótikus építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura neogotică și atmosfera liniștită.",
+            "en": "Admire the neo-Gothic architecture and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Forum",
+            "hu": "Millennium Fórum",
+            "ro": "Forumul Millennium",
+            "en": "Millennium Forum"
+          },
+          "coords": [
+            -7.312,
+            54.997
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:28",
+          "stay_min": 73,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Show oder Veranstaltung stattfindet.",
+            "hu": "Ellenőrizze, hogy van-e előadás vagy rendezvény a látogatása alatt.",
+            "ro": "Verificați dacă există un spectacol sau un eveniment în timpul vizitei dvs.",
+            "en": "Check to see if there's a show or event on during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der symbolischen Peace Bridge und radeln Sie zum modernen Ebrington Square. Am Vormittag überqueren Sie den Fluss, um die historische Guildhall und das Tower Museum zu erkunden. Nach dem Mittagessen führt Sie Ihre Route zur St. Columb's Cathedral, bevor Sie in die politische Geschichte bei den Bogside Murals eintauchen. Erklimmen Sie den Hügel zur St. Eugene's Cathedral und beenden Sie den Tag mit Kultur im Millennium Forum.",
+        "hu": "Kezdje a kerékpártúrát a jelképes Béke hídnál, és tekerjen a modern Ebrington térre. A délelőtt folyamán keljen át a folyón, hogy felfedezze a történelmi Céhek házát és a Toronymúzeumot. Ebéd után az útvonal a Szent Kolumba-székesegyházhoz vezet, mielőtt elmerülne a politikai történelemben a Bogside falfestményeknél. Másszon fel a dombra a Szent Jenő-székesegyházhoz, és zárja a napot kultúrával a Millennium Fórumban.",
+        "ro": "Începeți turul cu bicicleta de la simbolic Pod al Păcii și pedalați spre Piața modernă Ebrington. Dimineața, traversați râul pentru a explora istoricul Guildhall și Muzeul Turnului. După prânz, traseul vă duce la Catedrala Sf. Columba înainte de a vă cufunda în istoria politică la Picturile Murale din Bogside. Urcați dealul până la Catedrala Sf. Eugen și încheiați ziua cu cultură la Forumul Millennium.",
+        "en": "Kick off your bike tour at the symbolic Peace Bridge and cycle to the modern Ebrington Square. The morning involves crossing the river to explore the historic Guildhall and Tower Museum. After lunch, your route takes you to St. Columb's Cathedral before delving into political history at the Bogside Murals. Climb the hill to St. Eugene's Cathedral and finish the day with culture at the Millennium Forum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Doherty's Meats",
+            "tip": "Kein Restaurant, aber probieren Sie ihre berühmten Würstchen von einem lokalen Anbieter."
+          },
+          {
+            "name": "The Walled City Brewery",
+            "tip": "Kombinieren Sie lokales Bier mit ausgezeichnetem Essen direkt gegenüber der Peace Bridge."
+          },
+          {
+            "name": "Soda Farls",
+            "tip": "Ein lokales Brot, das oft mit dem Ulster Fry serviert wird, aber auch allein köstlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doherty's Meats",
+            "tip": "Nem étterem, de kóstolja meg híres kolbászukat egy helyi árustól."
+          },
+          {
+            "name": "The Walled City Brewery",
+            "tip": "Párosítsa a helyi sört kiváló ételekkel, közvetlenül a Béke híd mellett."
+          },
+          {
+            "name": "Szódás kenyér (Soda Farls)",
+            "tip": "Helyi kenyér, amelyet gyakran az Ulsteri reggelivel szolgálnak fel, de önmagában is finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Doherty's Meats",
+            "tip": "Nu este un restaurant, dar încercați cârnații lor faimoși de la un vânzător local."
+          },
+          {
+            "name": "The Walled City Brewery",
+            "tip": "Asortați berea locală cu mâncare excelentă chiar vizavi de Podul Păcii."
+          },
+          {
+            "name": "Soda Farls",
+            "tip": "O pâine locală adesea servită cu Ulster Fry, dar delicioasă și singură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Doherty's Meats",
+            "tip": "Not a restaurant, but try their famous sausages from a local vendor."
+          },
+          {
+            "name": "The Walled City Brewery",
+            "tip": "Pair local craft beer with excellent food just across the Peace Bridge."
+          },
+          {
+            "name": "Soda Farls",
+            "tip": "A local bread often served with the Ulster Fry, but delicious on its own."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brooke Park",
+            "tip": "Ein viktorianischer Park mit Gärten und einem Teich, etwas abseits des Haupttouristenpfads.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Foyle Valley Cycle Route",
+            "tip": "Radeln Sie einen Teil dieses Weges für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bishop's Gate",
+            "tip": "Eine ruhigere Ecke der Stadtmauern mit schöner Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brooke Park",
+            "tip": "Viktoriánus park kertekkel és tóval, kissé távolabb a fő turistaútvonaltól.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Foyle-völgyi kerékpárút",
+            "tip": "Tekerjen végig egy szakaszon, hogy békésen elmeneküljön a városból.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Püspöki kapu",
+            "tip": "A városfalak egy csendesebb sarka, gyönyörű kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Brooke",
+            "tip": "Un parc victorian cu grădini și un iaz, puțin în afara traseului turistic principal.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Traseul de ciclism Foyle Valley",
+            "tip": "Pedalați o parte din acest traseu pentru o evadare liniștită din oraș.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Poarta Episcopului",
+            "tip": "Un colț mai liniștit al zidurilor orașului cu priveliști frumoase.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brooke Park",
+            "tip": "A Victorian park with gardens and a pond, slightly off the main tourist trail.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Foyle Valley Cycle Route",
+            "tip": "Cycle a portion of this path for a quiet escape from the city.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bishop's Gate",
+            "tip": "A quieter corner of the city walls with lovely views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Craft Village",
+            "tip": "Ein Muss für authentische, lokal gefertigte Souvenirs."
+          },
+          {
+            "name": "Richmond Centre",
+            "tip": "Ein weiteres zentrales Einkaufszentrum mit einer guten Mischung an Geschäften."
+          },
+          {
+            "name": "Derry City Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves Falu",
+            "tip": "Kötelező hely az autentikus, helyben készült ajándéktárgyakért."
+          },
+          {
+            "name": "Richmond Centre",
+            "tip": "Egy másik központi bevásárlóközpont, jó üzletkeverékkel."
+          },
+          {
+            "name": "Derry Városi Piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és finomságokat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Meșteșugăresc",
+            "tip": "O vizită obligatorie pentru suveniruri autentice, realizate local."
+          },
+          {
+            "name": "Centrul Richmond",
+            "tip": "Un alt centru comercial central cu o bună varietate de magazine."
+          },
+          {
+            "name": "Piața orașului Derry",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse și bunătăți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Craft Village",
+            "tip": "A must-visit for authentic, locally-made souvenirs."
+          },
+          {
+            "name": "Richmond Centre",
+            "tip": "Another central shopping centre with a good mix of stores."
+          },
+          {
+            "name": "Derry City Market",
+            "tip": "If you're here on a market day, look for local produce and treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Derry ist hügelig, seien Sie also auf einige Anstiege vorbereitet, besonders um die Kathedralen herum.",
+          "Nutzen Sie die Radwege entlang des Flusses Foyle für eine flache und landschaftlich reizvolle Fahrt.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, auch wenn Sie es nur für kurze Zeit abstellen.",
+          "Einige Bereiche innerhalb der Stadtmauern haben Kopfsteinpflaster, das für Fahrräder holprig sein kann."
+        ],
+        "hu": [
+          "Derry dombos, ezért készüljön fel néhány emelkedőre, különösen a székesegyházak környékén.",
+          "Használja a Foyle folyó menti kerékpárutakat egy sík és festői úthoz.",
+          "Mindig biztonságosan zárja le a kerékpárt, még ha csak rövid időre is hagyja ott.",
+          "A városfalakon belüli egyes területeken macskakő van, ami rázós lehet a kerékpárok számára."
+        ],
+        "ro": [
+          "Derry este deluros, așa că fiți pregătiți pentru câteva urcușuri, în special în jurul catedralelor.",
+          "Folosiți pistele de biciclete de-a lungul râului Foyle pentru o plimbare plată și pitorească.",
+          "Încuiati întotdeauna bicicleta în siguranță, chiar dacă o lăsați doar pentru o perioadă scurtă.",
+          "Unele zone din interiorul zidurilor orașului au piatră cubică, ceea ce poate fi zdruncinător pentru biciclete."
+        ],
+        "en": [
+          "Derry is hilly, so be prepared for some climbs, especially around the cathedrals.",
+          "Make use of the cycle paths along the River Foyle for a flat and scenic ride.",
+          "Always lock your bike securely, even if leaving it for just a short time.",
+          "Some areas within the city walls have cobblestones which can be bumpy for bikes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz an den Stadtmauern (Cluster 1)",
+            "hu": "Parkoló a városfalaknál (1. klaszter)",
+            "ro": "Parcare la Zidurile Orașului (Cluster 1)",
+            "en": "City Walls Car Park (Cluster 1)"
+          },
+          "coords": [
+            -7.315,
+            54.993
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist ein guter Ausgangspunkt für die ummauerten Stadtattraktionen.",
+            "hu": "Parkoljon itt délelőttre. Jó kiindulópont a fallal körülvett város látnivalóihoz.",
+            "ro": "Parcați aici pentru dimineață. Este un bun punct de plecare pentru atracțiile orașului fortificat.",
+            "en": "Park here for the morning. It's a good base for the walled city attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Columb's Cathedral",
+            "hu": "Szent Kolumba-székesegyház",
+            "ro": "Catedrala Sf. Columba",
+            "en": "St. Columb's Cathedral"
+          },
+          "coords": [
+            -7.3115,
+            54.9942
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus zu diesem historischen Juwel.",
+            "hu": "Rövid séta a parkolótól ehhez a történelmi gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la parcare la această bijuterie istorică.",
+            "en": "A short walk from the car park to this historic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern-Spaziergang",
+            "hu": "Séta a városfalakon",
+            "ro": "Plimbare pe Zidurile Orașului",
+            "en": "City Walls Walk"
+          },
+          "coords": [
+            -7.3095,
+            54.9962
+          ],
+          "category": "fortresses",
+          "arrive_at": "10:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kathedrale zu den Mauern und genießen Sie die Aussicht.",
+            "hu": "Sétáljon a székesegyháztól a falakig, és élvezze a kilátást.",
+            "ro": "Plimbați-vă de la catedrală la ziduri și bucurați-vă de priveliști.",
+            "en": "Walk from the cathedral up onto the walls and enjoy the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Guildhall",
+            "hu": "Céhek háza",
+            "ro": "Guildhall",
+            "en": "Guildhall"
+          },
+          "coords": [
+            -7.3071,
+            54.9975
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Am Ende Ihres Mauerrundgangs ist die Guildhall nur einen Steinwurf entfernt.",
+            "hu": "A falakon tett séta végén a Céhek háza csak egy kőhajításnyira van.",
+            "ro": "La sfârșitul plimbării pe ziduri, Guildhall este la o aruncătură de băț.",
+            "en": "At the end of your wall circuit, the Guildhall is a stone's throw away."
+          }
+        },
+        {
+          "name": {
+            "de": "Free Derry Corner (Cluster 2)",
+            "hu": "Szabad Derry Sarok (2. klaszter)",
+            "ro": "Colțul Derry Liber (Cluster 2)",
+            "en": "Free Derry Corner (Cluster 2)"
+          },
+          "coords": [
+            -7.3185,
+            54.9955
+          ],
+          "category": "monuments",
+          "arrive_at": "13:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Bogside und finden Sie einen Parkplatz, um dieses berühmte Wahrzeichen zu sehen.",
+            "hu": "Vezessen a Bogside-ba, és keressen egy parkolóhelyet, hogy megnézze ezt a híres nevezetességet.",
+            "ro": "Conduceți spre Bogside și găsiți un loc de parcare pentru a vedea acest punct de reper faimos.",
+            "en": "Drive to the Bogside area and find parking to see this famous landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogside Murals",
+            "hu": "Bogside falfestményei",
+            "ro": "Picturile Murale din Bogside",
+            "en": "Bogside Murals"
+          },
+          "coords": [
+            -7.3195,
+            54.9965
+          ],
+          "category": "monuments",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Straßen, um die Open-Air-Kunstgalerie zu erleben.",
+            "hu": "Sétáljon végig az utcákon, hogy megtapasztalja a szabadtéri művészeti galériát.",
+            "ro": "Plimbați-vă pe străzi pentru a experimenta galeria de artă în aer liber.",
+            "en": "Stroll through the streets to experience the open-air art gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Bridge & Ebrington (Cluster 3)",
+            "hu": "Béke híd és Ebrington (3. klaszter)",
+            "ro": "Podul Păcii și Ebrington (Cluster 3)",
+            "en": "Peace Bridge & Ebrington (Cluster 3)"
+          },
+          "coords": [
+            -7.301,
+            54.9975
+          ],
+          "category": "bridges",
+          "arrive_at": "15:01",
+          "stay_min": 124,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Wasser, gehen Sie über die Brücke und erkunden Sie den Platz.",
+            "hu": "Vezessen a vízparti parkolóhoz, sétáljon át a hídon, és fedezze fel a teret.",
+            "ro": "Conduceți spre parcarea de pe malul apei, traversați podul pe jos și explorați piața.",
+            "en": "Drive to the waterside car park, walk across the bridge, and explore the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe der Stadtmauern parken und in das historische Herz von Derry eintauchen. Erkunden Sie die St. Columb's Cathedral und spazieren Sie auf den Mauern, bevor Sie die Guildhall bewundern. Am Nachmittag fahren Sie zum Bogside-Viertel, um die ergreifenden Wandgemälde zu sehen. Schließlich fahren Sie zum Flussufer, parken und genießen einen hoffnungsvollen Spaziergang über die Peace Bridge zum Ebrington Square, um den Tag ausklingen zu lassen.",
+        "hu": "Kezdje a napot a városfalak közelében parkolva, és merüljön el Derry történelmi szívében. Fedezze fel a Szent Kolumba-székesegyházat és sétáljon a falakon, mielőtt megcsodálná a Céhek házát. Délután vezessen át a Bogside negyedbe, hogy megnézze a megrendítő falfestményeket. Végül hajtson le a folyóparthoz, parkoljon le, és élvezzen egy reményteli sétát a Béke hídon át az Ebrington térre, hogy lezárja a napot.",
+        "ro": "Începeți ziua parcând lângă zidurile orașului și pătrunzând în inima istorică a Derry. Explorați Catedrala Sf. Columba și plimbați-vă pe ziduri înainte de a admira Guildhall. După-amiază, conduceți spre zona Bogside pentru a vedea picturile murale emoționante. În cele din urmă, conduceți spre malul râului, parcați și bucurați-vă de o plimbare plină de speranță peste Podul Păcii spre Piața Ebrington pentru a încheia ziua.",
+        "en": "Start your day by parking near the city walls and diving into the historic heart of Derry. Explore St. Columb's Cathedral and walk the walls before admiring the Guildhall. In the afternoon, drive to the Bogside area to witness the poignant murals. Finally, drive to the riverside, park up, and enjoy a hopeful walk across the Peace Bridge to Ebrington Square to round off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peake's Quay",
+            "tip": "Ein beliebter Ort am Flussufer mit klassischem Pub-Essen."
+          },
+          {
+            "name": "The Sooty Olive",
+            "tip": "Ein Restaurant, das für seine moderne irische Küche und die Verwendung lokaler Produkte bekannt ist."
+          },
+          {
+            "name": "Ein '99' Softeis",
+            "tip": "Ein klassischer irischer Genuss, den Sie an einem sonnigen Tag an der Uferpromenade finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peake's Quay",
+            "tip": "Népszerű folyóparti hely klasszikus pub ételekkel."
+          },
+          {
+            "name": "The Sooty Olive",
+            "tip": "Modern ír konyhájáról és helyi termékek használatáról ismert étterem."
+          },
+          {
+            "name": "Egy '99'-es lágy fagylalt",
+            "tip": "Klasszikus ír csemege, amelyet egy napsütéses napon találhat a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peake's Quay",
+            "tip": "Un loc popular pe malul râului, cu mâncare clasică de pub."
+          },
+          {
+            "name": "The Sooty Olive",
+            "tip": "Un restaurant cunoscut pentru bucătăria sa irlandeză modernă și utilizarea produselor locale."
+          },
+          {
+            "name": "O înghețată moale '99'",
+            "tip": "O delicatesă irlandeză clasică pe care o puteți găsi pe malul apei într-o zi însorită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peake's Quay",
+            "tip": "A popular riverside spot with classic pub grub."
+          },
+          {
+            "name": "The Sooty Olive",
+            "tip": "A restaurant known for its modern Irish cuisine and use of local produce."
+          },
+          {
+            "name": "A '99' soft-serve ice cream",
+            "tip": "A classic Irish treat you can find by the waterfront on a sunny day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ness Country Park",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für einen schönen Waldspaziergang und Wasserfälle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Foyle Bridge",
+            "tip": "Fahren Sie über die größere Brücke für einen Panoramablick auf die Stadt.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Prehen Wood",
+            "tip": "Ein alter Wald, der sich perfekt für eine ruhige Pause von der Stadt eignet.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ness Country Park",
+            "tip": "Rövid autóútra a várostól egy gyönyörű erdei sétáért és vízesésekért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Foyle hídról",
+            "tip": "Hajtson át a nagyobb hídon a város panorámájáért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Prehen Wood",
+            "tip": "Ősi erdő, amely tökéletes egy csendes pihenőre a városból.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Ness",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru o plimbare frumoasă prin pădure și cascade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Podul Foyle",
+            "tip": "Conduceți peste podul mai mare pentru o vedere panoramică a orașului.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Pădurea Prehen",
+            "tip": "O pădure veche, perfectă pentru o pauză liniștită de oraș.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ness Country Park",
+            "tip": "A short drive out of the city for a beautiful woodland walk and waterfalls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Foyle Bridge",
+            "tip": "Drive over the larger bridge for a panoramic view of the city.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Prehen Wood",
+            "tip": "An ancient woodland perfect for a quiet break from the city.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lisnagelvin Shopping Centre",
+            "tip": "Auf der Waterside gelegen, eine weitere Option für Shopping."
+          },
+          {
+            "name": "The Yellow Yard",
+            "tip": "Ein Kollektiv von unabhängigen Händlern und Künstlern."
+          },
+          {
+            "name": "Veritas",
+            "tip": "Ein Geschäft, das sich auf religiöse Bücher und Geschenke spezialisiert hat, in der Nähe der Kathedralen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisnagelvin Bevásárlóközpont",
+            "tip": "A Waterside oldalon található, egy másik vásárlási lehetőség."
+          },
+          {
+            "name": "The Yellow Yard",
+            "tip": "Független kereskedők és művészek kollektívája."
+          },
+          {
+            "name": "Veritas",
+            "tip": "Vallási könyvekre és ajándékokra szakosodott üzlet a székesegyházak közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Lisnagelvin",
+            "tip": "Situat pe malul apei, o altă opțiune pentru cumpărături."
+          },
+          {
+            "name": "The Yellow Yard",
+            "tip": "Un colectiv de comercianți și artiști independenți."
+          },
+          {
+            "name": "Veritas",
+            "tip": "Un magazin specializat în cărți și cadouri religioase, aproape de catedrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisnagelvin Shopping Centre",
+            "tip": "Located on the Waterside, another option for retail therapy."
+          },
+          {
+            "name": "The Yellow Yard",
+            "tip": "A collective of independent traders and artists."
+          },
+          {
+            "name": "Veritas",
+            "tip": "A shop specializing in religious books and gifts, near the cathedrals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Derry kann teuer sein, und Parkplätze sind im Zentrum begrenzt. Planen Sie, in ausgewiesenen Parkhäusern zu parken.",
+          "Der Verkehr kann zu Stoßzeiten, insbesondere auf den Brücken, stark sein.",
+          "Achten Sie auf die Parkbeschränkungen; viele Bereiche sind nur für Anwohner.",
+          "Die Cluster-Walking-Strategie spart Ihnen Zeit und Geld beim Parken."
+        ],
+        "hu": [
+          "A parkolás Derryben drága lehet, és a helyek korlátozottak a központban. Tervezze meg, hogy kijelölt parkolóházakban parkol.",
+          "A forgalom csúcsidőben, különösen a hidakon, nagy lehet.",
+          "Figyeljen a parkolási korlátozásokra; sok terület csak a lakosok számára van fenntartva.",
+          "A klaszteres séta stratégia időt és pénzt takarít meg a parkoláson."
+        ],
+        "ro": [
+          "Parcarea în Derry poate fi scumpă, iar spațiile sunt limitate în centru. Planificați să parcați în parcări desemnate.",
+          "Traficul poate fi aglomerat la orele de vârf, în special pe poduri.",
+          "Fiți atenți la restricțiile de parcare; multe zone sunt doar pentru rezidenți.",
+          "Strategia de plimbare în grupuri vă va economisi timp și bani la parcare."
+        ],
+        "en": [
+          "Parking in Derry can be expensive and spaces are limited in the centre. Plan to park in designated car parks.",
+          "Traffic can be heavy during peak hours, especially on the bridges.",
+          "Pay attention to parking restrictions; many areas are for residents only.",
+          "The cluster-walking strategy will save you time and money on parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guildhall (Cluster 1)",
+            "hu": "Céhek háza (1. klaszter)",
+            "ro": "Guildhall (Cluster 1)",
+            "en": "Guildhall (Cluster 1)"
+          },
+          "coords": [
+            -7.3071,
+            54.9975
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Foyle Street Buscentre, das sich direkt neben der Guildhall befindet.",
+            "hu": "Menjen busszal a Foyle Street buszpályaudvarra, amely közvetlenül a Céhek háza mellett található.",
+            "ro": "Luați un autobuz până la autogara Foyle Street, care este chiar lângă Guildhall.",
+            "en": "Take a bus to the Foyle Street Buscentre, located right beside the Guildhall."
+          }
+        },
+        {
+          "name": {
+            "de": "Tower Museum",
+            "hu": "Toronymúzeum",
+            "ro": "Muzeul Turnului",
+            "en": "Tower Museum"
+          },
+          "coords": [
+            -7.3089,
+            54.9981
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Guildhall aus, um in die Geschichte der Stadt einzutauchen.",
+            "hu": "Rövid séta a Céhek házától, hogy elmerüljön a város történelmében.",
+            "ro": "O scurtă plimbare de la Guildhall pentru a vă cufunda în istoria orașului.",
+            "en": "A short stroll from the Guildhall to dive into the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Columb's Cathedral",
+            "hu": "Szent Kolumba-székesegyház",
+            "ro": "Catedrala Sf. Columba",
+            "en": "St. Columb's Cathedral"
+          },
+          "coords": [
+            -7.3115,
+            54.9942
+          ],
+          "category": "cathedrals",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie innerhalb der Mauern zu diesem wichtigen historischen Ort.",
+            "hu": "Sétáljon a falakon belül ehhez a fontos történelmi helyhez.",
+            "ro": "Plimbați-vă în interiorul zidurilor până la acest sit istoric important.",
+            "en": "Walk within the walls to this key historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bogside Murals (Cluster 2)",
+            "hu": "Bogside falfestményei (2. klaszter)",
+            "ro": "Picturile Murale din Bogside (Cluster 2)",
+            "en": "Bogside Murals (Cluster 2)"
+          },
+          "coords": [
+            -7.3195,
+            54.9965
+          ],
+          "category": "monuments",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum, der Sie in die Nähe des Bogside bringt.",
+            "hu": "Menjen busszal a városközpontból, amely a Bogside közelébe visz.",
+            "ro": "Luați un autobuz din centrul orașului care vă va duce aproape de Bogside.",
+            "en": "Take a bus from the city centre which will get you close to the Bogside."
+          }
+        },
+        {
+          "name": {
+            "de": "Free Derry Corner",
+            "hu": "Szabad Derry Sarok",
+            "ro": "Colțul Derry Liber",
+            "en": "Free Derry Corner"
+          },
+          "coords": [
+            -7.3185,
+            54.9955
+          ],
+          "category": "monuments",
+          "arrive_at": "14:24",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach den Wandgemälden ist dieses Wahrzeichen nur einen kurzen Spaziergang entfernt.",
+            "hu": "A falfestmények után ez a nevezetesség csak egy rövid sétára van.",
+            "ro": "După picturile murale, acest punct de reper este la o scurtă plimbare.",
+            "en": "After the murals, this landmark is just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Bridge (Cluster 3)",
+            "hu": "Béke híd (3. klaszter)",
+            "ro": "Podul Păcii (Cluster 3)",
+            "en": "Peace Bridge (Cluster 3)"
+          },
+          "coords": [
+            -7.303,
+            54.998
+          ],
+          "category": "bridges",
+          "arrive_at": "15:23",
+          "stay_min": 156,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und beenden Sie den Tag mit einem Spaziergang über die Brücke.",
+            "hu": "Menjen busszal vissza a központba, és fejezze be a napot egy sétával a hídon.",
+            "ro": "Luați un autobuz înapoi spre centru și încheiați ziua cu o plimbare peste pod.",
+            "en": "Catch a bus back towards the centre and end your day with a walk across the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Bus, um mühelos ins Herz der Stadt zu gelangen. Verbringen Sie den Vormittag damit, das Cluster um die Guildhall, das Tower Museum und die St. Columb's Cathedral zu Fuß zu erkunden. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie in die Nähe des Bogside, wo Sie die berühmten Wandgemälde und den Free Derry Corner entdecken können. Ein weiterer Bus bringt Sie zurück zum Flussufer, um den Tag mit einem symbolischen Spaziergang über die Peace Bridge abzuschließen.",
+        "hu": "Használja a buszt, hogy könnyedén eljusson a város szívébe. Töltse a délelőttöt a Céhek háza, a Toronymúzeum és a Szent Kolumba-székesegyház körüli klaszter gyalogos felfedezésével. Ebéd után egy rövid buszút elviszi a Bogside közelébe, ahol felfedezheti a híres falfestményeket és a Szabad Derry Sarkot. Egy másik busz visszaviszi a folyóparthoz, hogy egy szimbolikus sétával zárja a napot a Béke hídon.",
+        "ro": "Folosiți autobuzul pentru a ajunge în inima orașului fără efort. Petreceți dimineața explorând pe jos grupul de atracții din jurul Guildhall, Muzeului Turnului și Catedralei Sf. Columba. După prânz, o scurtă călătorie cu autobuzul vă va duce aproape de Bogside pentru a descoperi faimoasele picturi murale și Colțul Derry Liber. Un alt autobuz vă va duce înapoi pe malul râului pentru a încheia ziua cu o plimbare simbolică peste Podul Păcii.",
+        "en": "Use the bus to get into the heart of the city effortlessly. Spend the morning exploring the cluster around the Guildhall, Tower Museum and St. Columb's Cathedral on foot. After lunch, a short bus ride will take you near the Bogside to discover the famous murals and Free Derry Corner. Another bus will take you back to the riverside to finish the day with a symbolic walk across the Peace Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Guapo",
+            "tip": "Schnappen Sie sich einen schnellen und leckeren Burrito in der Nähe des Busbahnhofs für ein einfaches Mittagessen."
+          },
+          {
+            "name": "The Scullery",
+            "tip": "Ein gemütliches Café, das bekannt für seine hausgemachten Scones und Suppen ist."
+          },
+          {
+            "name": "Fiorentini's",
+            "tip": "Ein lokaler Favorit für Fish and Chips, perfekt nach einem langen Tag voller Besichtigungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guapo",
+            "tip": "Kapjon be egy gyors és finom burritót a buszpályaudvar közelében egy egyszerű ebédért."
+          },
+          {
+            "name": "The Scullery",
+            "tip": "Hangulatos kávézó, amely házi készítésű pogácsáiról és leveseiről ismert."
+          },
+          {
+            "name": "Fiorentini's",
+            "tip": "Helyi kedvenc a fish and chips-re, tökéletes egy hosszú városnéző nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Guapo",
+            "tip": "Luați un burrito rapid și gustos lângă autogară pentru un prânz ușor."
+          },
+          {
+            "name": "The Scullery",
+            "tip": "O cafenea confortabilă, renumită pentru scones și supele de casă."
+          },
+          {
+            "name": "Fiorentini's",
+            "tip": "Un favorit local pentru fish and chips, perfect după o zi lungă de vizitare a obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guapo",
+            "tip": "Grab a quick and tasty burrito near the bus station for an easy lunch."
+          },
+          {
+            "name": "The Scullery",
+            "tip": "A cosy cafe known for its homemade scones and soups."
+          },
+          {
+            "name": "Fiorentini's",
+            "tip": "A local favourite for fish and chips, perfect after a long day of sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesen in der Derry Central Library",
+            "tip": "Eine moderne und ruhige Bibliothek, um sich eine Stunde lang auszuruhen.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Grafton Street",
+            "tip": "Abseits der Hauptstraßen, ein ruhiger Spaziergang durch ein Wohngebiet innerhalb der Mauern.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Bank am Fluss Foyle",
+            "tip": "Finden Sie eine Bank entlang des Ufers und beobachten Sie, wie die Welt vorbeizieht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasás a Derry Központi Könyvtárban",
+            "tip": "Modern és csendes könyvtár, ahol egy órát pihenhet.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Grafton Street",
+            "tip": "Távol a főutcáktól, egy csendes séta egy lakónegyedben a falakon belül.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Pad a Foyle folyó partján",
+            "tip": "Keressen egy padot a parton, és nézze a világot.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citind la Biblioteca Centrală Derry",
+            "tip": "O bibliotecă modernă și liniștită pentru a vă odihni o oră.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Strada Grafton",
+            "tip": "Departe de străzile principale, o plimbare liniștită printr-o zonă rezidențială din interiorul zidurilor.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Bancă pe malul râului Foyle",
+            "tip": "Găsiți o bancă de-a lungul malului și priviți lumea trecând.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading at Derry Central Library",
+            "tip": "A modern and quiet library to rest your feet for an hour.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Grafton Street",
+            "tip": "Away from the main thoroughfares, a quiet walk through a residential area within the walls.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Bench on the River Foyle",
+            "tip": "Find a bench along the bank and watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shipquay Street",
+            "tip": "Bekannt für seine unabhängigen Boutiquen und Geschäfte."
+          },
+          {
+            "name": "Austins",
+            "tip": "Ein historisches Kaufhaus, das einen Blick wert ist."
+          },
+          {
+            "name": "The Verbal Arts Centre",
+            "tip": "Eine Buchhandlung und ein Kulturzentrum mit einer großen Auswahl an irischer Literatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shipquay Street",
+            "tip": "Független butikjairól és üzleteiről ismert."
+          },
+          {
+            "name": "Austins",
+            "tip": "Történelmi áruház, amelyet érdemes megnézni."
+          },
+          {
+            "name": "The Verbal Arts Centre",
+            "tip": "Könyvesbolt és kulturális központ, amely ír irodalom széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Shipquay",
+            "tip": "Renumită pentru buticurile și magazinele sale independente."
+          },
+          {
+            "name": "Austins",
+            "tip": "Un magazin universal istoric care merită vizitat."
+          },
+          {
+            "name": "Centrul de Arte Verbale",
+            "tip": "O librărie și un centru cultural cu o selecție excelentă de literatură irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shipquay Street",
+            "tip": "Known for its independent boutiques and shops."
+          },
+          {
+            "name": "Austins",
+            "tip": "A historic department store that's worth a look."
+          },
+          {
+            "name": "The Verbal Arts Centre",
+            "tip": "A bookshop and cultural centre with a great selection of Irish literature."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im städtischen Busnetz.",
+          "Busse fahren möglicherweise nicht immer pünktlich, planen Sie also etwas Pufferzeit zwischen den Stopps ein.",
+          "Laden Sie die App des lokalen Busunternehmens herunter, um Fahrpläne und Echtzeit-Tracking zu erhalten.",
+          "Die meisten Busse sind für Rollstühle und Kinderwagen zugänglich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz a városi buszhálózaton.",
+          "A buszok nem mindig indulnak időben, ezért tervezzen némi pufferidőt a megállók között.",
+          "Töltse le a helyi busztársaság alkalmazását a menetrendekért és a valós idejű követésért.",
+          "A legtöbb busz akadálymentesített kerekesszékek és babakocsik számára."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate în rețeaua de autobuze a orașului.",
+          "Autobuzele s-ar putea să nu circule întotdeauna la timp, așa că planificați un timp suplimentar între opriri.",
+          "Descărcați aplicația companiei locale de autobuze pentru orare și urmărire în timp real.",
+          "Majoritatea autobuzelor sunt accesibile pentru scaune cu rotile și cărucioare."
+        ],
+        "en": [
+          "Buy a day-pass for unlimited travel on the city's bus network.",
+          "Buses may not always run on time, so plan for some buffer time between your stops.",
+          "Download the local bus company's app for timetables and real-time tracking.",
+          "Most buses are accessible for wheelchairs and pushchairs."
+        ]
+      }
+    }
+  }
+}

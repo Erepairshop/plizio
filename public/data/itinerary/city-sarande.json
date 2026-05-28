@@ -1,0 +1,1412 @@
+{
+  "city_id": "city-sarande",
+  "anchor": {
+    "name": "Saranda",
+    "coords": [
+      39.8739,
+      20.0049
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Saranda",
+            "hu": "Sarandai kikötő",
+            "ro": "Portul Sarandë",
+            "en": "Port of Saranda"
+          },
+          "coords": [
+            20.0011,
+            39.8745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote, die am Morgen ein- und auslaufen.",
+            "hu": "Figyelje a reggel ki- és befutó halászhajókat.",
+            "ro": "Urmăriți bărcile pescarilor care intră și ies dimineața.",
+            "en": "Watch the fishing boats coming in and out in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Saranda",
+            "hu": "Sarandai parti sétány",
+            "ro": "Promenada de pe faleza din Sarandë",
+            "en": "Saranda Embankment"
+          },
+          "coords": [
+            20.0049,
+            39.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen Morgenkaffee mit Blick auf das Ionische Meer.",
+            "hu": "Tökéletes egy reggeli kávéhoz a Jón-tengerre néző kilátással.",
+            "ro": "Perfect pentru o cafea de dimineață cu vedere la Marea Ionică.",
+            "en": "Perfect for a morning coffee with a view of the Ionian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagogen-Komplex",
+            "hu": "Zsinagóga-komplexum",
+            "ro": "Complexul Sinagogii",
+            "en": "Synagogue Complex"
+          },
+          "coords": [
+            20.0065,
+            39.8733
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Mosaikböden sind bemerkenswert gut erhalten.",
+            "hu": "A mozaikpadlók figyelemre méltóan jó állapotban maradtak fenn.",
+            "ro": "Podelele din mozaic sunt remarcabil de bine conservate.",
+            "en": "The mosaic floors are remarkably well-preserved."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            20.0072,
+            39.8715
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentriert sich auf Funde aus der antiken Stadt Onchesmos.",
+            "hu": "Az ókori Onchesmos városából származó leletekre összpontosít.",
+            "ro": "Se concentrează pe artefacte din orașul antic Onchesmos.",
+            "en": "Focuses on findings from the ancient city of Onchesmos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster der 40 Heiligen",
+            "hu": "A 40 szent kolostora",
+            "ro": "Mănăstirea celor 40 de Sfinți",
+            "en": "Monastery of 40 Saints"
+          },
+          "coords": [
+            20.021,
+            39.878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht und die Geschichte sind es wert.",
+            "hu": "Meredek a kaptató, de a kilátás és a történelem megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea și istoria merită.",
+            "en": "The climb is steep, but the views and history are worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Hafen von Saranda und schlendern Sie die sonnige Uferpromenade entlang. Am Vormittag erkunden Sie das historische Herz der Stadt, indem Sie die antiken Ruinen des Synagogen-Komplexes und die Artefakte im Archäologischen Museum entdecken. Der Nachmittag ist einem spirituellen Aufstieg gewidmet: Wandern Sie zum Kloster der 40 Heiligen, wo Sie mit Panoramablicken und einer tiefen historischen Atmosphäre belohnt werden. Beenden Sie Ihren Erkundungstag mit einem entspannten Abendessen in einer der vielen Tavernen am Meer und genießen Sie den Sonnenuntergang über dem Ionischen Meer.",
+        "hu": "Kezdje a napot Saranda nyüzsgő kikötőjében, majd sétáljon végig a napsütötte parti sétányon. Délelőtt fedezze fel a város történelmi szívét a zsinagóga-komplexum ókori romjainál és a Régészeti Múzeum leleteinél. A délután egy spirituális emelkedőé: másszon fel a 40 Szent Kolostorához, ahol panorámás kilátás és mély történelmi hangulat fogadja. A felfedezéssel töltött napot egy nyugodt vacsorával zárja a tengerparti tavernák egyikében, élvezve a naplementét a Jón-tenger felett.",
+        "ro": "Începeți ziua în portul plin de viață din Sarandë și plimbați-vă pe promenada însorită. Dimineața, explorați inima istorică a orașului descoperind ruinele antice ale Complexului Sinagogii și artefactele de la Muzeul de Arheologie. După-amiaza este dedicată unei ascensiuni spirituale: urcați la Mănăstirea celor 40 de Sfinți, unde veți fi răsplătit cu vederi panoramice și o atmosferă istorică profundă. Încheiați ziua de explorare cu o cină relaxantă la una dintre numeroasele taverne de pe malul mării, bucurându-vă de apusul peste Marea Ionică.",
+        "en": "Start your day at the vibrant Port of Saranda and stroll along the sunny embankment. In the morning, explore the historical heart of the city by discovering the ancient ruins of the Synagogue Complex and the artifacts at the Archaeological Museum. The afternoon is dedicated to a spiritual ascent: hike up to the Monastery of 40 Saints, where you'll be rewarded with panoramic views and a deep historical atmosphere. Conclude your day of exploration with a relaxed dinner at one of the many seaside tavernas, enjoying the sunset over the Ionian Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus dem Ionischen Meer, ein lokaler Favorit."
+          },
+          {
+            "name": "Muscheln Saganaki",
+            "tip": "Muscheln in einer reichen Tomaten-Feta-Sauce."
+          },
+          {
+            "name": "Fëgesë",
+            "tip": "Ein traditioneller albanischer gebackener Gericht mit Paprika, Tomaten und Hüttenkäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen a Jón-tengerből, helyi kedvenc."
+          },
+          {
+            "name": "Kagyló Saganaki",
+            "tip": "Kagyló gazdag paradicsomos-feta szószban."
+          },
+          {
+            "name": "Fëgesë",
+            "tip": "Hagyományos albán sült étel paprikával, paradicsommal és túróval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Ionică, un favorit local."
+          },
+          {
+            "name": "Midii Saganaki",
+            "tip": "Midii într-un sos bogat de roșii și brânză feta."
+          },
+          {
+            "name": "Fëgesë",
+            "tip": "Un fel de mâncare tradițional albanez la cuptor, cu ardei, roșii și brânză de vaci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Ionian Sea, a local favorite."
+          },
+          {
+            "name": "Mussels Saganaki",
+            "tip": "Mussels in a rich tomato and feta sauce."
+          },
+          {
+            "name": "Fëgesë",
+            "tip": "A traditional Albanian baked dish with peppers, tomatoes, and cottage cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Klosters der 40 Heiligen",
+            "tip": "Ein ruhiger Ort nach dem Aufstieg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein abgelegener Teil der Uferpromenade",
+            "tip": "Finden Sie eine Bank abseits der Menschenmassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von den oberen Straßen",
+            "tip": "Gehen Sie bergauf für eine ungestörte Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A 40 Szent Kolostorának kertje",
+            "tip": "Csendes hely a hegymászás után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A sétány egy eldugott része",
+            "tip": "Keressen egy padot a tömegtől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a felső utcákról",
+            "tip": "Menjen felfelé a zavartalan kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii celor 40 de Sfinți",
+            "tip": "Un loc liniștit după urcare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O parte retrasă a promenadei",
+            "tip": "Găsiți o bancă departe de mulțime.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de pe străzile superioare",
+            "tip": "Urcați pentru o priveliște neîntreruptă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Monastery of 40 Saints",
+            "tip": "A quiet spot after the climb.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A secluded part of the embankment",
+            "tip": "Find a bench away from the crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from the upper streets",
+            "tip": "Head uphill for an undisturbed view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Souvenirläden",
+            "tip": "Entlang der Uferpromenade finden Sie handgefertigte Waren und Olivenöl."
+          },
+          {
+            "name": "Kleiner Bauernmarkt",
+            "tip": "Suchen Sie nach Ständen, die lokalen Honig und Bergtee verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szuvenírboltok",
+            "tip": "A sétány mentén kézműves termékeket és olívaolajat talál."
+          },
+          {
+            "name": "Kis termelői piac",
+            "tip": "Keressen standokat, ahol helyi mézet és hegyi teát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de suveniruri",
+            "tip": "De-a lungul promenadei veți găsi produse artizanale și ulei de măsline."
+          },
+          {
+            "name": "Piața mică a fermierilor",
+            "tip": "Căutați tarabe care vând miere locală și ceai de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Souvenir Shops",
+            "tip": "Along the embankment, you'll find handmade goods and olive oil."
+          },
+          {
+            "name": "Small Farmer's Market",
+            "tip": "Look for stalls selling local honey and mountain tea."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände variiert und der Aufstieg zum Kloster steil ist.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Achten Sie auf unebene Bürgersteige in den älteren Teilen der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep változatos és a kolostorhoz vezető út meredek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A városközpont legtöbb helye könnyen megközelíthető gyalog.",
+          "Vigyázzon az egyenetlen járdákra a város régebbi részein."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul variază, iar urcarea la mănăstire este abruptă.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Fiți atenți la trotuarele denivelate din părțile mai vechi ale orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain varies and the climb to the monastery is steep.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most places in the city center are easily within walking distance.",
+          "Be mindful of uneven pavements in the older parts of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Saranda",
+            "hu": "Sarandai kikötő",
+            "ro": "Portul Sarandë",
+            "en": "Port of Saranda"
+          },
+          "coords": [
+            20.0011,
+            39.8745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie hier Ihre Tour.",
+            "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát.",
+            "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Saranda",
+            "hu": "Sarandai parti sétány",
+            "ro": "Promenada de pe faleza din Sarandë",
+            "en": "Saranda Embankment"
+          },
+          "coords": [
+            20.0049,
+            39.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie die gesamte Länge entlang, um die Atmosphäre aufzusaugen.",
+            "hu": "Tekerjen végig a teljes hosszán, hogy magába szívja a hangulatot.",
+            "ro": "Pedalați pe toată lungimea pentru a absorbi atmosfera.",
+            "en": "Cycle the entire length to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster St. Georg",
+            "hu": "Szent György kolostor",
+            "ro": "Mănăstirea Sfântul Gheorghe",
+            "en": "Monastery of St. George"
+          },
+          "coords": [
+            19.975,
+            39.895
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Fahrt zu einem ruhigen Ort.",
+            "hu": "Kihívást jelentő, de hálás út egy békés helyre.",
+            "ro": "O plimbare provocatoare, dar plină de satisfacții, spre un loc liniștit.",
+            "en": "A challenging but rewarding ride to a peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Strandtaverne",
+            "hu": "Ebéd egy tengerparti tavernában",
+            "ro": "Prânz la o tavernă pe plajă",
+            "en": "Lunch at a beachside taverna"
+          },
+          "coords": [
+            20.015,
+            39.865
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte mit den Füßen fast im Sand.",
+            "hu": "Élvezze a friss tenger gyümölcseit, szinte homokban álló lábakkal.",
+            "ro": "Bucurați-vă de fructe de mare proaspete cu picioarele aproape în nisip.",
+            "en": "Enjoy fresh seafood with your feet almost in the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen am Mango Beach",
+            "hu": "Pihenés a Mango Beachen",
+            "ro": "Relaxare la Mango Beach",
+            "en": "Relax at Mango Beach"
+          },
+          "coords": [
+            20.018,
+            39.862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 155,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beliebter Strand, um den Nachmittag zu verbringen und zu schwimmen.",
+            "hu": "Népszerű strand a délután eltöltésére és úszásra.",
+            "ro": "O plajă populară pentru a petrece după-amiaza și a înota.",
+            "en": "A popular beach to spend the afternoon and swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Hafen und fahren Sie die lebhafte Promenade entlang. Am Vormittag führt Sie eine anspruchsvollere Fahrt zum ruhigen Kloster St. Georg, das friedliche Ausblicke bietet. Zum Mittagessen fahren Sie zurück in Richtung Süden zu einer charmanten Strandtaverne, wo Sie lokale Köstlichkeiten genießen können. Verbringen Sie den Rest des Nachmittags entspannt am Mango Beach, sonnen Sie sich und schwimmen Sie im klaren Wasser, bevor Sie gemütlich ins Stadtzentrum zurückkehren.",
+        "hu": "Kezdje a kerékpártúrát a kikötőnél, majd tekerjen végig a nyüzsgő sétányon. A délelőtt folyamán egy nagyobb kihívást jelentő út vezet a békés Szent György kolostorhoz, ahonnan gyönyörű kilátás nyílik. Ebédre tekerjen vissza dél felé egy bájos tengerparti tavernába, ahol helyi finomságokat kóstolhat. A délután hátralévő részét a Mango Beachen pihenve, napozva és a tiszta vízben úszva töltse, mielőtt kényelmesen visszatérne a városközpontba.",
+        "ro": "Începeți turul cu bicicleta din port și pedalați de-a lungul promenadei animate. Dimineața, o plimbare mai provocatoare vă va duce la liniștita Mănăstire Sfântul Gheorghe pentru priveliști pașnice. Pentru prânz, întoarceți-vă spre sud, la o tavernă fermecătoare pe plajă, pentru a savura deliciile locale. Petreceți restul după-amiezii relaxându-vă la Mango Beach, făcând plajă și înotând în apele limpezi, înainte de o plimbare lejeră înapoi în centrul orașului.",
+        "en": "Kick off your bike tour from the port, cycling along the animated embankment. In the morning, a more challenging ride will take you to the serene Monastery of St. George for peaceful views. For lunch, cycle back south to a charming beachside taverna to enjoy local delicacies. Spend the rest of the afternoon relaxing at Mango Beach, sunbathing and swimming in the clear waters, before a leisurely ride back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Eine herzhafte Mahlzeit, um nach dem Radfahren wieder zu Kräften zu kommen."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Leicht, erfrischend und perfekt für ein Mittagessen am Strand."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Tanken Sie Vitamine an einem der vielen Strandcafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Kiadós étel az energiapótláshoz a biciklizés után."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Könnyű, frissítő és tökéletes egy tengerparti ebédhez."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Töltődjön fel vitaminokkal a számos tengerparti kávézó egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "O masă consistentă pentru a vă reface energia după pedalat."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Ușoară, răcoritoare și perfectă pentru un prânz pe plajă."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Realimentați-vă cu vitamine la una dintre multele cafenele de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "A hearty meal to refuel after cycling."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Light, refreshing, and perfect for a beachside lunch."
+          },
+          {
+            "name": "Freshly Squeezed Orange Juice",
+            "tip": "Refuel on vitamins at one of the many beach cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster St. Georg",
+            "tip": "Ein Ort der Ruhe abseits der Hektik der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein ruhigeres Ende von Mango Beach",
+            "tip": "Gehen Sie weiter weg vom Haupteingang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendliche Fahrt entlang der Küste",
+            "tip": "Die Promenade ist am späten Nachmittag ruhiger.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent György kolostor",
+            "tip": "A béke szigete a város nyüzsgésétől távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Mango Beach csendesebb vége",
+            "tip": "Sétáljon távolabb a főbejárattól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti tekerés a parton",
+            "tip": "A sétány késő délután csendesebb.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Sfântul Gheorghe",
+            "tip": "Un loc de liniște departe de agitația orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un capăt mai liniștit al plajei Mango",
+            "tip": "Mergeți mai departe de intrarea principală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare de seară pe coastă",
+            "tip": "Promenada este mai liniștită după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery of St. George",
+            "tip": "A place of tranquility away from the city bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quieter end of Mango Beach",
+            "tip": "Walk further from the main entrance.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening ride along the coast",
+            "tip": "The embankment is quieter in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Viele Geschäfte bieten auch Zubehör wie Helme und Schlösser an."
+          },
+          {
+            "name": "Strandverkäufer",
+            "tip": "Verkaufen oft handgemachten Schmuck und kleine Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "Sok üzlet kínál kiegészítőket is, például sisakot és zárat."
+          },
+          {
+            "name": "Parti árusok",
+            "tip": "Gyakran árulnak kézzel készített ékszereket és apró harapnivalókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de închirieri de biciclete",
+            "tip": "Multe magazine oferă și accesorii precum căști și lacăte."
+          },
+          {
+            "name": "Vânzători ambulanți pe plajă",
+            "tip": "Adesea vând bijuterii artizanale și gustări mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Shops",
+            "tip": "Many shops also offer accessories like helmets and locks."
+          },
+          {
+            "name": "Beach vendors",
+            "tip": "Often sell handmade jewelry and small snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Kloster St. Georg ist hügelig; seien Sie auf einen Anstieg vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es unbeaufsichtigt lassen.",
+          "Der Verkehr kann im Stadtzentrum stark sein, fahren Sie defensiv.",
+          "Die Küstenstraße südlich von Saranda bietet wunderschöne Ausblicke, kann aber eng sein."
+        ],
+        "hu": [
+          "A Szent György kolostorhoz vezető út dombos; készüljön fel egy emelkedőre.",
+          "Mindig zárja le a kerékpárt, ha felügyelet nélkül hagyja.",
+          "A városközpontban nagy lehet a forgalom, vezessen védekezően.",
+          "A Sarandától délre vezető tengerparti út gyönyörű kilátást nyújt, de szűk lehet."
+        ],
+        "ro": [
+          "Drumul spre Mănăstirea Sfântul Gheorghe este deluros; fiți pregătiți pentru o urcare.",
+          "Încuietăți întotdeauna bicicleta când o lăsați nesupravegheată.",
+          "Traficul poate fi aglomerat în centrul orașului, conduceți defensiv.",
+          "Drumul de coastă la sud de Sarandë oferă priveliști frumoase, dar poate fi îngust."
+        ],
+        "en": [
+          "The road to the Monastery of St. George is hilly; be prepared for a climb.",
+          "Always lock your bike when leaving it unattended.",
+          "Traffic can be heavy in the city center, ride defensively.",
+          "The coastal road south of Saranda offers beautiful views but can be narrow."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:25",
+      "total_km": 45.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Lëkurësi",
+            "hu": "Lëkurësi vár",
+            "ro": "Castelul Lëkurësi",
+            "en": "Lëkurësi Castle"
+          },
+          "coords": [
+            20.0175,
+            39.8705
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf Saranda und die Bucht.",
+            "hu": "A legjobb hely a Sarandára és az öbölre nyíló panorámás kilátáshoz.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică a orașului Sarandë și a golfului.",
+            "en": "The best spot for a panoramic view of Saranda and the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Butrint",
+            "hu": "Butrinti Nemzeti Park",
+            "ro": "Parcul Național Butrint",
+            "en": "Butrint National Park"
+          },
+          "coords": [
+            20.023,
+            39.746
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Planen Sie mindestens 3 Stunden ein, um diese UNESCO-Stätte vollständig zu erkunden.",
+            "hu": "Szánjon legalább 3 órát ennek az UNESCO világörökségi helyszínnek a teljes felfedezésére.",
+            "ro": "Planificați cel puțin 3 ore pentru a explora pe deplin acest sit UNESCO.",
+            "en": "Plan for at least 3 hours to fully explore this UNESCO site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Ksamil",
+            "hu": "Ebéd Ksamilban",
+            "ro": "Prânz în Ksamil",
+            "en": "Lunch in Ksamil"
+          },
+          "coords": [
+            19.998,
+            39.767
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Blick auf die berühmten Inseln.",
+            "hu": "Válasszon egy éttermet, ahonnan kilátás nyílik a híres szigetekre.",
+            "ro": "Alegeți un restaurant cu vedere la faimoasele insule.",
+            "en": "Choose a restaurant with a view of the famous islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Ksamil-Inseln",
+            "hu": "Ksamili-szigetek",
+            "ro": "Insulele Ksamil",
+            "en": "Ksamil Islands"
+          },
+          "coords": [
+            19.995,
+            39.764
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Tretboot oder nehmen Sie ein kleines Boot, um die Zwillingsinseln zu erreichen.",
+            "hu": "Béreljen vízibiciklit vagy szálljon kis hajóra az ikerszigetek eléréséhez.",
+            "ro": "Închiriați o hidrobicicletă sau luați o barcă mică pentru a ajunge la insulele gemene.",
+            "en": "Rent a paddleboat or take a small boat to reach the twin islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirror Beach",
+            "hu": "Tükör-part (Mirror Beach)",
+            "ro": "Plaja Oglinzii (Mirror Beach)",
+            "en": "Mirror Beach"
+          },
+          "coords": [
+            19.975,
+            39.789
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel, perfekt für ein erfrischendes Bad am späten Nachmittag.",
+            "hu": "Rejtett gyöngyszem, tökéletes egy késő délutáni frissítő fürdőzéshez.",
+            "ro": "O bijuterie ascunsă, perfectă pentru o baie răcoritoare la sfârșitul după-amiezii.",
+            "en": "A hidden gem, perfect for a late afternoon refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Saranda",
+            "hu": "Sarandai parti sétány",
+            "ro": "Promenada de pe faleza din Sarandë",
+            "en": "Saranda Embankment"
+          },
+          "coords": [
+            20.0049,
+            39.8721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:45",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und genießen Sie einen Abendspaziergang.",
+            "hu": "Parkolja le az autót, és élvezze az esti sétát.",
+            "ro": "Parcați mașina și bucurați-vă de o plimbare de seară.",
+            "en": "Park your car and enjoy an evening stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Meer",
+            "hu": "Vacsora a tengernél",
+            "ro": "Cină pe malul mării",
+            "en": "Dinner by the sea"
+          },
+          "coords": [
+            20.0035,
+            39.873
+          ],
+          "category": "gastro",
+          "arrive_at": "19:30",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss eines Tages voller Entdeckungen.",
+            "hu": "A felfedezéssel teli nap tökéletes lezárása.",
+            "ro": "Finalul perfect pentru o zi plină de explorări.",
+            "en": "The perfect end to a day of exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autoabenteuer beginnt mit einem atemberaubenden Blick von der Burg Lëkurësi. Anschließend fahren Sie nach Süden zum UNESCO-Weltkulturerbe Butrint, wo Sie den Vormittag damit verbringen, durch die Schichten der Geschichte zu wandern. Zum Mittagessen fahren Sie ins malerische Ksamil, gefolgt von der Erkundung der berühmten Inseln und einem erfrischenden Bad am abgelegenen Mirror Beach. Kehren Sie am späten Nachmittag nach Saranda zurück, um einen entspannten Abendspaziergang entlang der Promenade zu machen und den Tag mit einem köstlichen Abendessen am Meer abzuschließen.",
+        "hu": "Autós kalandja a Lëkurësi várból nyíló lélegzetelállító kilátással kezdődik. Ezután délre hajt az UNESCO világörökség részét képező Butrintba, ahol a délelőttöt a történelem rétegei között sétálva tölti. Ebédre a festői Ksamilba utazik, majd felfedezi a híres szigeteket és megmártózik az eldugott Tükör-parton. Késő délután térjen vissza Sarandába egy pihentető esti sétára a sétányon, és zárja a napot egy finom tengerparti vacsorával.",
+        "ro": "Aventura cu mașina începe cu o priveliște uluitoare de la Castelul Lëkurësi. Apoi, conduceți spre sud către situl UNESCO Butrint, unde veți petrece dimineața plimbându-vă prin straturile istoriei. Pentru prânz, mergeți în pitorescul Ksamil, urmat de explorarea faimoaselor sale insule și o baie revigorantă la Plaja Oglinzii. Întoarceți-vă în Sarandë după-amiaza târziu pentru o plimbare relaxantă de seară de-a lungul promenadei, încheind ziua cu o cină delicioasă pe malul mării.",
+        "en": "Your car adventure starts with a breathtaking view from Lëkurësi Castle. Then, drive south to the UNESCO World Heritage site of Butrint, where you'll spend the morning walking through layers of history. For lunch, head to picturesque Ksamil, followed by exploring its famous islands and a refreshing swim at the secluded Mirror Beach. Return to Saranda in the late afternoon for a relaxing evening stroll along the embankment, finishing the day with a delicious seaside dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Ein herzhaftes albanisches Nationalgericht aus Lamm und Joghurt."
+          },
+          {
+            "name": "Meeresfrüchte-Risotto in Butrint",
+            "tip": "Viele Restaurants in der Nähe des Parks servieren ausgezeichnete Meeresfrüchte."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Gebratener Teig, oft mit Honig oder Feta serviert, ein köstlicher Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Kiadós albán nemzeti étel bárányhúsból és joghurtból."
+          },
+          {
+            "name": "Tenger gyümölcsei rizottó Butrintban",
+            "tip": "A park közelében számos étterem kínál kiváló tengeri ételeket."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Sült tészta, gyakran mézzel vagy fetával tálalva, finom harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "Un fel de mâncare național albanez consistent, făcut cu miel și iaurt."
+          },
+          {
+            "name": "Risotto cu fructe de mare în Butrint",
+            "tip": "Multe restaurante de lângă parc servesc fructe de mare excelente."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Aluat prăjit, adesea servit cu miere sau brânză feta, o gustare delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavë Kosi",
+            "tip": "A hearty Albanian national dish of lamb and yogurt."
+          },
+          {
+            "name": "Seafood Risotto in Butrint",
+            "tip": "Many restaurants near the park serve excellent seafood."
+          },
+          {
+            "name": "Petulla",
+            "tip": "Fried dough, often served with honey or feta, a delicious snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang von der Burg Lëkurësi",
+            "tip": "Der Himmel färbt sich oft dramatisch.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Das Amphitheater in Butrint",
+            "tip": "Sitzen Sie auf den alten Steinen und stellen Sie sich die Vergangenheit vor.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Ein ruhiger Ort am Mirror Beach",
+            "tip": "Gehen Sie zu den Felsen an beiden Enden des Strandes.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Lëkurësi várból",
+            "tip": "Az ég gyakran drámai színekben pompázik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az amfiteátrum Butrintban",
+            "tip": "Üljön le az ősi kövekre, és képzelje el a múltat.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Egy csendes hely a Tükör-parton",
+            "tip": "Menjen a sziklákhoz a part mindkét végén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare de la Castelul Lëkurësi",
+            "tip": "Cerul capătă adesea culori dramatice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Amfiteatrul din Butrint",
+            "tip": "Stați pe pietrele antice și imaginați-vă trecutul.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Un loc liniștit pe Plaja Oglinzii",
+            "tip": "Mergeți spre stâncile de la oricare capăt al plajei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset from Lëkurësi Castle",
+            "tip": "The sky often turns dramatic colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The Amphitheater in Butrint",
+            "tip": "Sit on the ancient stones and imagine the past.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "A quiet spot on Mirror Beach",
+            "tip": "Head to the rocks at either end of the beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Butrint Souvenirladen",
+            "tip": "Bücher und Repliken im Zusammenhang mit der archäologischen Stätte."
+          },
+          {
+            "name": "Handwerksläden in Saranda",
+            "tip": "Suchen Sie nach Teppichen und Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butrinti szuvenírbolt",
+            "tip": "Könyvek és a régészeti lelőhellyel kapcsolatos másolatok."
+          },
+          {
+            "name": "Kézműves boltok Sarandában",
+            "tip": "Keressen szőnyegeket és fafaragásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri din Butrint",
+            "tip": "Cărți și replici legate de situl arheologic."
+          },
+          {
+            "name": "Magazine de artizanat în Sarandë",
+            "tip": "Căutați covoare și sculpturi în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Butrint Souvenir Shop",
+            "tip": "Books and replicas related to the archaeological site."
+          },
+          {
+            "name": "Artisan shops in Saranda",
+            "tip": "Look for rugs and wood carvings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Butrint ist gut, kann aber im Sommer stark befahren sein. Fahren Sie früh los.",
+          "Parkplätze können in Ksamil und an beliebten Stränden begrenzt sein.",
+          "Achten Sie auf die Beschilderung, da Google Maps in ländlichen Gebieten manchmal unzuverlässig sein kann.",
+          "Tanken Sie, bevor Sie Saranda verlassen, da die Tankstellen im Süden seltener sind."
+        ],
+        "hu": [
+          "A Butrintba vezető út jó, de nyáron forgalmas lehet. Induljon korán.",
+          "A parkolóhelyek korlátozottak lehetnek Ksamilban és a népszerű strandokon.",
+          "Figyelje a táblákat, mivel a Google Maps néha megbízhatatlan lehet a vidéki területeken.",
+          "Tankoljon, mielőtt elhagyja Sarandát, mivel délen ritkábbak a benzinkutak."
+        ],
+        "ro": [
+          "Drumul spre Butrint este bun, dar poate fi aglomerat vara. Plecați devreme.",
+          "Parcarea poate fi limitată în Ksamil și la plajele populare.",
+          "Fiți atenți la indicatoare, deoarece Google Maps poate fi uneori nesigur în zonele rurale.",
+          "Alimentați înainte de a părăsi Sarandë, deoarece benzinăriile sunt mai rare în sud."
+        ],
+        "en": [
+          "The road to Butrint is good but can be busy in summer. Leave early.",
+          "Parking can be limited in Ksamil and at popular beaches.",
+          "Pay attention to road signs, as Google Maps can sometimes be unreliable in rural areas.",
+          "Fill up on gas before leaving Saranda, as stations are less frequent to the south."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 36.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt nach Butrint",
+            "hu": "Utazás Butrintba",
+            "ro": "Călătorie spre Butrint",
+            "en": "Trip to Butrint"
+          },
+          "coords": [
+            20.023,
+            39.746
+          ],
+          "category": "transit",
+          "arrive_at": "10:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Saranda-Butrint. Er fährt stündlich.",
+            "hu": "Szálljon a Saranda-Butrint buszra. Óránként indul.",
+            "ro": "Luați autobuzul Sarandë-Butrint. Pleacă din oră în oră.",
+            "en": "Take the Saranda-Butrint bus. It leaves hourly."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Butrint",
+            "hu": "Butrinti Nemzeti Park",
+            "ro": "Parcul Național Butrint",
+            "en": "Butrint National Park"
+          },
+          "coords": [
+            20.023,
+            39.746
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Eingang befindet sich direkt an der Bushaltestelle.",
+            "hu": "A bejárat közvetlenül a buszmegállónál van.",
+            "ro": "Intrarea este chiar lângă stația de autobuz.",
+            "en": "The entrance is right by the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Ksamil",
+            "hu": "Utazás Ksamilba",
+            "ro": "Călătorie spre Ksamil",
+            "en": "Trip to Ksamil"
+          },
+          "coords": [
+            19.998,
+            39.767
+          ],
+          "category": "transit",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie denselben Bus zurück in Richtung Saranda und steigen Sie in Ksamil aus.",
+            "hu": "Szálljon ugyanarra a buszra Saranda felé, és szálljon le Ksamilban.",
+            "ro": "Luați același autobuz înapoi spre Sarandë și coborâți în Ksamil.",
+            "en": "Take the same bus back towards Saranda and get off at Ksamil."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Strandzeit in Ksamil",
+            "hu": "Ebéd és strandolás Ksamilban",
+            "ro": "Prânz și plajă în Ksamil",
+            "en": "Lunch and beach time in Ksamil"
+          },
+          "coords": [
+            19.998,
+            39.767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, schwimmen Sie und genießen Sie die lebhafte Atmosphäre.",
+            "hu": "Pihenjen, ússzon és élvezze az élénk hangulatot.",
+            "ro": "Relaxați-vă, înotați și bucurați-vă de atmosfera plină de viață.",
+            "en": "Relax, swim, and enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zurück nach Saranda",
+            "hu": "Visszaút Sarandába",
+            "ro": "Călătorie înapoi la Sarandë",
+            "en": "Trip back to Saranda"
+          },
+          "coords": [
+            20.0049,
+            39.8739
+          ],
+          "category": "transit",
+          "arrive_at": "17:30",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Achten Sie darauf, den letzten Bus nicht zu verpassen, der normalerweise am späten Nachmittag fährt.",
+            "hu": "Ügyeljen arra, hogy ne késse le az utolsó buszt, amely általában késő délután indul.",
+            "ro": "Asigurați-vă că nu pierdeți ultimul autobuz, care de obicei pleacă după-amiaza târziu.",
+            "en": "Be sure not to miss the last bus, which usually runs in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen an der Uferpromenade",
+            "hu": "Vacsora a sétányon",
+            "ro": "Cină pe promenadă",
+            "en": "Dinner on the Embankment"
+          },
+          "coords": [
+            20.004,
+            39.8725
+          ],
+          "category": "gastro",
+          "arrive_at": "17:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach einem langen Reisetag.",
+            "hu": "Jutalmazza meg magát egy hosszú utazási nap után.",
+            "ro": "Răsplătiți-vă după o zi lungă de călătorie.",
+            "en": "Reward yourself after a long day of travel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer malerischen Busfahrt entlang der Küste zum antiken Butrint. Verbringen Sie den Vormittag damit, dieses weitläufige UNESCO-Weltkulturerbe zu erkunden. Nehmen Sie anschließend den Bus zurück ins pulsierende Ksamil, wo Sie ein köstliches Mittagessen am Meer und einen Nachmittag mit Schwimmen und Entspannen an den berühmten Stränden verbringen. Am späten Nachmittag nehmen Sie den Bus zurück nach Saranda und beenden Ihren Tag mit einem wohlverdienten Abendessen an der Promenade.",
+        "hu": "A nap egy festői buszúttal kezdődik a tengerpart mentén az ókori Butrintba. Töltse a délelőttöt ennek a kiterjedt UNESCO világörökségi helyszínnek a felfedezésével. Ezután busszal térjen vissza a vibráló Ksamilba egy finom tengerparti ebédre és egy délutáni úszásra és pihenésre a híres strandokon. Késő délután busszal térjen vissza Sarandába, a napot pedig egy jól megérdemelt vacsorával zárja a sétányon.",
+        "ro": "Ziua începe cu o călătorie pitorească cu autobuzul de-a lungul coastei spre anticul Butrint. Petreceți dimineața explorând acest vast sit al Patrimoniului Mondial UNESCO. Apoi, luați autobuzul înapoi în vibrantul Ksamil pentru un prânz delicios pe malul mării și o după-amiază de înot și relaxare pe faimoasele sale plaje. Luați autobuzul înapoi în Sarandë după-amiaza târziu, încheind ziua cu o cină binemeritată pe promenadă.",
+        "en": "Your day starts with a scenic bus ride along the coast to ancient Butrint. Spend the morning exploring this vast UNESCO World Heritage site. Then, hop on the bus back to vibrant Ksamil for a delicious seaside lunch and an afternoon of swimming and relaxing on its famous beaches. Catch the bus back to Saranda in the late afternoon, ending your day with a well-deserved dinner on the embankment."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Byrek",
+            "tip": "Ein perfekter, schneller Snack, den man an Straßenständen findet. Gefüllt mit Käse, Spinat oder Fleisch."
+          },
+          {
+            "name": "Gegrillter Fisch in Ksamil",
+            "tip": "Frisch gefangen und einfach zubereitet, der Geschmack des Meeres."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein 'Korça' oder 'Tirana', um sich nach der Erkundung von Butrint abzukühlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Byrek",
+            "tip": "Tökéletes, gyors harapnivaló az utcai árusoknál. Sajttal, spenóttal vagy hússal töltve."
+          },
+          {
+            "name": "Grillezett hal Ksamilban",
+            "tip": "Frissen fogott és egyszerűen elkészített, a tenger íze."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy 'Korça'-t vagy 'Tirana'-t, hogy lehűtse magát Butrint felfedezése után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Byrek",
+            "tip": "O gustare perfectă și rapidă găsită la vânzătorii ambulanți. Umplut cu brânză, spanac sau carne."
+          },
+          {
+            "name": "Pește la grătar în Ksamil",
+            "tip": "Proaspăt prins și preparat simplu, gustul mării."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o 'Korça' sau 'Tirana' pentru a vă răcori după explorarea Butrintului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Byrek",
+            "tip": "A perfect, quick snack found at street stalls. Filled with cheese, spinach, or meat."
+          },
+          {
+            "name": "Grilled fish in Ksamil",
+            "tip": "Freshly caught and simply prepared, the taste of the sea."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a 'Korça' or 'Tirana' to cool down after exploring Butrint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Wald von Butrint",
+            "tip": "Die schattigen Wege bieten eine kühle Zuflucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick aus dem Busfenster",
+            "tip": "Die Küstenlandschaft ist wunderschön.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein ruhigerer Strand in Ksamil",
+            "tip": "Gehen Sie vom Hauptbereich weg, um mehr Platz zu finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Butrinti erdő",
+            "tip": "Az árnyékos ösvények hűs menedéket nyújtanak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a busz ablakából",
+            "tip": "A tengerparti táj gyönyörű.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendesebb strand Ksamilban",
+            "tip": "Menjen távolabb a központi résztől, hogy több helyet találjon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea din Butrint",
+            "tip": "Cărările umbrite oferă un refugiu răcoros.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Priveliștea de la fereastra autobuzului",
+            "tip": "Peisajul de coastă este frumos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O plajă mai liniștită în Ksamil",
+            "tip": "Îndepărtați-vă de zona principală pentru a găsi mai mult spațiu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The forest of Butrint",
+            "tip": "The shaded paths offer a cool refuge.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the bus window",
+            "tip": "The coastal scenery is beautiful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quieter beach in Ksamil",
+            "tip": "Walk away from the main area to find more space.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bustickets",
+            "tip": "Kaufen Sie sie direkt beim Schaffner im Bus. Halten Sie Kleingeld bereit."
+          },
+          {
+            "name": "Ksamil Strandläden",
+            "tip": "Verkaufen Strandtücher, Sonnencreme und aufblasbare Spielzeuge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszjegyek",
+            "tip": "Vásárolja meg közvetlenül a kalauztól a buszon. Készítsen elő aprópénzt."
+          },
+          {
+            "name": "Ksamili strandboltok",
+            "tip": "Strandtörölközőket, naptejet és felfújható játékokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bilete de autobuz",
+            "tip": "Cumpărați-le direct de la conductor în autobuz. Pregătiți mărunțiș."
+          },
+          {
+            "name": "Magazinele de pe plaja Ksamil",
+            "tip": "Vând prosoape de plajă, cremă de soare și jucării gonflabile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Tickets",
+            "tip": "Buy them directly from the conductor on the bus. Have small change ready."
+          },
+          {
+            "name": "Ksamil beach shops",
+            "tip": "Sell beach towels, sunscreen, and inflatables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Die Busse können im Sommer überfüllt sein, seien Sie also früh an der Haltestelle.",
+          "Halten Sie albanische Lek in kleinen Scheinen für Tickets und Snacks bereit.",
+          "Die Fahrt selbst ist eine großartige Möglichkeit, die Küste zu sehen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó visszautat illetően.",
+          "A buszok nyáron zsúfoltak lehetnek, ezért érkezzen korán a megállóba.",
+          "Készítsen elő albán lek-et kis címletekben a jegyekhez és a harapnivalókhoz.",
+          "Maga az utazás remek lehetőség a partvidék megtekintésére."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Autobuzele pot fi aglomerate vara, așa că ajungeți devreme la stație.",
+          "Pregătiți lek albanez în bancnote mici pentru bilete și gustări.",
+          "Călătoria în sine este o modalitate excelentă de a vedea coasta."
+        ],
+        "en": [
+          "Verify the bus schedule in advance, especially for the last return trip.",
+          "Buses can get crowded in the summer, so be at the stop early.",
+          "Have Albanian Lek in small denominations ready for tickets and snacks.",
+          "The journey itself is a great way to see the coastline."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1429 @@
+{
+  "city_id": "greece-hydra-town-cities-v2",
+  "anchor": {
+    "name": "Hydra Stadt",
+    "coords": [
+      23.4667,
+      37.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Hydra",
+            "hu": "Hydra kikötője",
+            "ro": "Portul din Hydra",
+            "en": "Hydra Harbour"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "harbor",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Esel, die als Taxis dienen – das Haupttransportmittel der Insel.",
+            "hu": "Figyeld a szamarakat, a sziget fő közlekedési eszközeit, ahogy teszik a dolgukat.",
+            "ro": "Urmăriți măgarii care servesc drept taxiuri – principalul mijloc de transport pe insulă.",
+            "en": "Watch the donkeys that serve as taxis – the island's main mode of transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Basteien mit Kanonen",
+            "hu": "Bástyák az ágyúkkal",
+            "ro": "Bastioanele cu tunuri",
+            "en": "Bastions with Cannons"
+          },
+          "coords": [
+            23.463,
+            37.3525
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Panoramablick auf die Ägäis und den Sonnenuntergang.",
+            "hu": "Tökéletes hely a naplemente és az égei-tengeri panoráma megcsodálására.",
+            "ro": "Locul perfect pentru o vedere panoramică la Marea Egee și pentru apus.",
+            "en": "Perfect spot for a panoramic view of the Aegean and for watching the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Archivmuseum",
+            "hu": "Történelmi Levéltár Múzeum",
+            "ro": "Muzeul Arhivelor Istorice",
+            "en": "Historical Archive Museum"
+          },
+          "coords": [
+            23.464,
+            37.351
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Seefahrtsgeschichte Hydras, die im griechischen Unabhängigkeitskrieg entscheidend war.",
+            "hu": "Ismerd meg Hydra gazdag tengerészeti múltját, ami kulcsfontosságú volt a görög szabadságharcban.",
+            "ro": "Explorați istoria navală bogată a insulei Hydra, crucială în Războiul de Independență al Greciei.",
+            "en": "Explore Hydra's rich naval history, which was crucial in the Greek War of Independence."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kloster",
+            "hu": "Mária Mennybemenetele kolostor",
+            "ro": "Mănăstirea Adormirea Maicii Domnului",
+            "en": "Monastery of the Assumption of the Virgin Mary"
+          },
+          "coords": [
+            23.4658,
+            37.3505
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf den beeindruckenden Glockenturm aus Marmor und die ruhige Atmosphäre im Innenhof.",
+            "hu": "Figyeld meg a lenyűgöző márvány harangtornyot és a belső udvar békés hangulatát.",
+            "ro": "Observați clopotnița impresionantă de marmură și atmosfera liniștită din curtea interioară.",
+            "en": "Notice the impressive marble bell tower and the serene atmosphere in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Griechisches Mittagessen",
+            "hu": "Görög ebéd",
+            "ro": "Prânz grecesc",
+            "en": "Greek Lunch"
+          },
+          "coords": [
+            23.4665,
+            37.35
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Oktopus oder einen klassischen griechischen Salat in einer Taverne am Hafen.",
+            "hu": "Kóstolj friss polipot vagy egy klasszikus görög salátát egy kikötői tavernában.",
+            "ro": "Încercați caracatiță proaspătă sau o salată grecească clasică la o tavernă din port.",
+            "en": "Try fresh octopus or a classic Greek salad at a harbourside taverna."
+          }
+        },
+        {
+          "name": {
+            "de": "Lazaros-Kountouriotis-Haus",
+            "hu": "Lazaros Kountouriotis-ház",
+            "ro": "Casa Lazaros Kountouriotis",
+            "en": "Lazaros Kountouriotis Mansion"
+          },
+          "coords": [
+            23.467,
+            37.3495
+          ],
+          "category": "museum",
+          "arrive_at": "15:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg durch die Gassen lohnt sich für die Einblicke in das Leben eines Reeders aus dem 19. Jahrhundert.",
+            "hu": "Megéri a kaptatót a szűk utcákon, hogy bepillantást nyerj egy 19. századi hajótulajdonos életébe.",
+            "ro": "Urcarea pe străduțe merită pentru a vedea cum trăia un armator din secolul al XIX-lea.",
+            "en": "The climb through the alleys is worth it for the glimpse into a 19th-century shipowner's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Spaziergang",
+            "hu": "Naplemente séta",
+            "ro": "Plimbare la apus",
+            "en": "Sunset Stroll"
+          },
+          "coords": [
+            23.462,
+            37.353
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:06",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück zu den Basteien oder finden Sie einen Platz in der Sunset Bar für die beste Aussicht.",
+            "hu": "Sétálj vissza a bástyákhoz, vagy keress egy helyet a Sunset bárban a legjobb kilátásért.",
+            "ro": "Întoarceți-vă la bastioane sau găsiți un loc la Sunset Bar pentru cea mai bună priveliște.",
+            "en": "Walk back towards the bastions or find a spot at the Sunset Bar for the best views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im pulsierenden Hafen von Hydra, dem Herzen der Insel, wo Esel und Boote das Tempo vorgeben. Am Vormittag erkunden Sie die westliche Uferpromenade, entdecken Seefahrtsgeschichte und genießen den Blick von den alten Basteien. Der Mittag führt Sie in die kühlen Gassen der Stadt, zum spirituellen Zentrum im Kloster und zu einem authentischen griechischen Mahl. Am Nachmittag steigen Sie zu einem historischen Herrenhaus auf, um in das Leben des 19. Jahrhunderts einzutauchen, bevor Sie den Tag mit einem unvergesslichen Sonnenuntergang über der Ägäis ausklingen lassen.",
+        "hu": "Kezdje a napot Hydra nyüzsgő kikötőjében, a sziget szívében, ahol a szamarak és a csónakok diktálják a tempót. Délelőtt fedezze fel a nyugati parti sétányt, ismerje meg a tengerészeti történelmet, és gyönyörködjön a kilátásban a régi bástyákról. Délben a város hűvös sikátorai, a kolostor spirituális központja és egy autentikus görög ebéd várja. Délután másszon fel egy történelmi kúriához, hogy bepillantást nyerjen a 19. századi életbe, mielőtt a napot egy felejthetetlen égei-tengeri naplementével zárja.",
+        "ro": "Începeți ziua în vibrantul port din Hydra, inima insulei, unde măgarii și bărcile stabilesc ritmul. Dimineața, explorați promenada vestică, descoperiți istoria maritimă și bucurați-vă de priveliștea de la vechile bastioane. La prânz, veți ajunge pe aleile răcoroase ale orașului, la centrul spiritual de la mănăstire și la o masă grecească autentică. După-amiaza, urcați la un conac istoric pentru a arunca o privire în viața secolului al XIX-lea, înainte de a încheia ziua cu un apus de soare de neuitat peste Marea Egee.",
+        "en": "Start your day in the vibrant Hydra Harbour, the heart of the island, where donkeys and boats set the pace. In the morning, explore the western promenade, discovering maritime history and enjoying the views from the old bastions. Midday takes you into the cool alleys of the town, to the spiritual center at the monastery, and for an authentic Greek meal. In the afternoon, ascend to a historic mansion for a glimpse into 19th-century life, before ending the day with an unforgettable sunset over the Aegean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch in einer Hafentaverne",
+            "tip": "Fragen Sie nach dem 'Fang des Tages' für ein wirklich lokales Erlebnis."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Probieren Sie dieses traditionelle Mandelgebäck in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Einfach, aber mit sonnengereiften Tomaten und lokalem Feta unschlagbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal egy kikötői tavernában",
+            "tip": "Kérdezd a 'nap fogását' egy igazán helyi élményért."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Kóstold meg ezt a hagyományos mandulás sütit egy helyi pékségben."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Egyszerű, de verhetetlen napérlelte paradicsommal és helyi feta sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt la o tavernă din port",
+            "tip": "Întrebați care este 'captura zilei' pentru o experiență cu adevărat locală."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Încercați această prăjitură tradițională cu migdale la o brutărie locală."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Simplă, dar imbatabilă cu roșii coapte la soare și brânză feta locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh fish at a harbour taverna",
+            "tip": "Ask for the 'catch of the day' for a truly local experience."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Try this traditional almond pastry from a local bakery."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Simple, but unbeatable with sun-ripened tomatoes and local feta cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfad zum Kloster des Propheten Elias",
+            "tip": "Schon der Anfang des Weges bietet Stille und eine tolle Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Gassen",
+            "tip": "Verirren Sie sich abseits des Hafens in den ruhigen, blumengeschmückten Gassen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang bei den Kanonen",
+            "tip": "Ein klassischer Ort, um das Ende des Tages in Ruhe zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvény a Próféta Illés kolostorhoz",
+            "tip": "Már az ösvény eleje is csendet és nagyszerű kilátást kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rejtett sikátorok",
+            "tip": "Tévedj el a kikötőtől távolabb eső, csendes, virágos sikátorokban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente az ágyúknál",
+            "tip": "Klasszikus hely, hogy békében élvezd a nap végét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea spre Mănăstirea Profetul Ilie",
+            "tip": "Chiar și începutul cărării oferă liniște și o priveliște minunată.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Străduțe ascunse",
+            "tip": "Pierdeți-vă departe de port, pe aleile liniștite, decorate cu flori.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la tunuri",
+            "tip": "Un loc clasic pentru a vă bucura de sfârșitul zilei în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to the Prophet Elias Monastery",
+            "tip": "Even the start of the path offers silence and great views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden Alleys",
+            "tip": "Get lost away from the harbour in the quiet, flower-adorned alleys.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Cannons",
+            "tip": "A classic spot to enjoy the end of the day in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Viele kleine Boutiquen verkaufen einzigartige Stücke, die von der Insel inspiriert sind."
+          },
+          {
+            "name": "Leinenkleidung",
+            "tip": "Perfekt für das griechische Klima, finden Sie stilvolle und luftige Kleidung."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handbemalten Keramiken mit traditionellen griechischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Sok kis butik árul egyedi, a sziget által ihletett darabokat."
+          },
+          {
+            "name": "Vászonruhák",
+            "tip": "Tökéletes a görög éghajlathoz, stílusos és szellős ruhákat találhatsz."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keress hagyományos görög motívumokkal kézzel festett kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Multe buticuri mici vând piese unice inspirate de insulă."
+          },
+          {
+            "name": "Haine de in",
+            "tip": "Perfecte pentru clima grecească, veți găsi haine elegante și vaporoase."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual cu motive tradiționale grecești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Jewellery",
+            "tip": "Many small boutiques sell unique pieces inspired by the island."
+          },
+          {
+            "name": "Linen clothing",
+            "tip": "Perfect for the Greek climate, you can find stylish and airy clothes."
+          },
+          {
+            "name": "Local ceramics",
+            "tip": "Look for hand-painted ceramics with traditional Greek motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe. Die Kopfsteinpflasterstraßen sind uneben.",
+          "Hydra ist für seine vielen Katzen bekannt. Seien Sie freundlich, aber füttern Sie sie nicht unbedingt.",
+          "Nehmen Sie viel Wasser mit, besonders wenn Sie vorhaben, bergauf zu gehen.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta. Planen Sie Ihren Einkauf entsprechend.",
+          "Respektieren Sie die Ruhe in den Wohngegenden abseits des Hafens."
+        ],
+        "hu": [
+          "Viselj nagyon kényelmes cipőt. A macskaköves utcák egyenetlenek.",
+          "Hydra a sok macskájáról ismert. Légy barátságos, de ne feltétlenül etesd őket.",
+          "Vigyél magaddal sok vizet, különösen, ha emelkedőn tervezel menni.",
+          "A legtöbb üzlet délután bezár egy sziesztára. Tervezd a vásárlást ennek megfelelően.",
+          "Tartsd tiszteletben a csendet a kikötőtől távolabb eső lakónegyedekben."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă. Străzile pavate sunt denivelate.",
+          "Hydra este cunoscută pentru numeroasele sale pisici. Fiți prietenoși, dar nu le hrăniți neapărat.",
+          "Luați multă apă cu voi, mai ales dacă plănuiți să urcați dealuri.",
+          "Majoritatea magazinelor se închid după-amiaza pentru o siestă. Planificați-vă cumpărăturile în consecință.",
+          "Respectați liniștea în zonele rezidențiale, departe de port."
+        ],
+        "en": [
+          "Wear very comfortable shoes. The cobblestone streets are uneven.",
+          "Hydra is known for its many cats. Be friendly, but don't necessarily feed them.",
+          "Bring plenty of water, especially if you plan on walking uphill.",
+          "Most shops close in the afternoon for a siesta. Plan your shopping accordingly.",
+          "Respect the quiet in the residential areas away from the port."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Hydra",
+            "hu": "Hydra kikötője",
+            "ro": "Portul din Hydra",
+            "en": "Hydra Harbour"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "harbor",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrräder sind in der Stadt unpraktisch. Diese 'Bike'-Tour ist eine Küstenwanderung.",
+            "hu": "A biciklizés nem praktikus a városban. Ez a 'biciklis' túra valójában egy parti gyalogtúra.",
+            "ro": "Bicicletele sunt impracticabile în oraș. Acest tur 'cu bicicleta' este o drumeție de coastă.",
+            "en": "Bikes are impractical in town. This 'bike' tour is a coastal walking hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenweg nach Westen",
+            "hu": "Parti ösvény nyugatra",
+            "ro": "Poteca de coastă spre vest",
+            "en": "Coastal Path West"
+          },
+          "coords": [
+            23.46,
+            37.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf das Festland und die Felsenstrände.",
+            "hu": "Élvezd a kilátást a szárazföldre és a sziklás partokra.",
+            "ro": "Bucurați-vă de priveliștea spre continent și plajele stâncoase.",
+            "en": "Enjoy the views of the mainland and the rocky beaches below."
+          }
+        },
+        {
+          "name": {
+            "de": "Vlychos Strand",
+            "hu": "Vlychos strand",
+            "ro": "Plaja Vlychos",
+            "en": "Vlychos Beach"
+          },
+          "coords": [
+            23.448,
+            37.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Kieselstrand, perfekt für eine lange Pause und ein Mittagessen in der Taverne.",
+            "hu": "Egy csendesebb, kavicsos strand, tökéletes egy hosszú szünetre és ebédre a tavernában.",
+            "ro": "O plajă cu pietriș mai liniștită, perfectă pentru o pauză lungă și prânz la tavernă.",
+            "en": "A quieter pebble beach, perfect for a long break and lunch at the taverna."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Vlychos",
+            "hu": "Ebéd Vlychos-ban",
+            "ro": "Prânz în Vlychos",
+            "en": "Lunch in Vlychos"
+          },
+          "coords": [
+            23.4485,
+            37.3465
+          ],
+          "category": "gastro",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die kleine Taverne am Strand serviert ausgezeichnete lokale Gerichte.",
+            "hu": "A kis tengerparti taverna kiváló helyi ételeket szolgál fel.",
+            "ro": "Mica tavernă de pe plajă servește mâncăruri locale excelente.",
+            "en": "The small taverna by the beach serves excellent local dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückweg nach Hydra-Stadt",
+            "hu": "Visszaút Hydra városába",
+            "ro": "Întoarcere în orașul Hydra",
+            "en": "Return to Hydra Town"
+          },
+          "coords": [
+            23.46,
+            37.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Weg zurück bietet eine andere Perspektive auf die Stadt, die im Nachmittagslicht leuchtet.",
+            "hu": "A visszaút más perspektívát kínál a délutáni fényben úszó városra.",
+            "ro": "Drumul înapoi oferă o perspectivă diferită asupra orașului, care strălucește în lumina după-amiezii.",
+            "en": "The walk back offers a different perspective of the town glowing in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Eis am Hafen",
+            "hu": "Fagyi a kikötőben",
+            "ro": "Înghețată în port",
+            "en": "Ice Cream at the Harbour"
+          },
+          "coords": [
+            23.465,
+            37.351
+          ],
+          "category": "gastro",
+          "arrive_at": "16:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich nach der Wanderung mit einem handgemachten Eis.",
+            "hu": "Jutalmazd meg magad egy kézműves fagyival a túra után.",
+            "ro": "Recompensați-vă cu o înghețată artizanală după drumeție.",
+            "en": "Reward yourself with a handmade ice cream after the hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese 'Fahrrad'-Tour ist eine belebende Küstenwanderung, da das Radfahren in Hydra-Stadt nicht praktikabel ist. Sie beginnen im Hafen und folgen dem malerischen Pfad nach Westen. Der Vormittag ist dem Weg nach Vlychos gewidmet, einem charmanten Strand, wo Sie die Ruhe genießen. Nach einem entspannten Mittagessen am Meer treten Sie den Rückweg an. Der Nachmittag belohnt Sie mit neuen Ausblicken auf die Stadt und endet mit einer süßen Erfrischung im lebhaften Hafen.",
+        "hu": "Ez a 'biciklis' túra egy frissítő parti gyalogtúra, mivel Hydra városában a kerékpározás nem praktikus. A kikötőből indulva a festői nyugati ösvényen halad. A délelőttöt a Vlychosba vezető útnak szenteli, egy bájos strandnak, ahol élvezheti a nyugalmat. Egy pihentető tengerparti ebéd után indul vissza. A délután új kilátással ajándékozza meg a városra, és egy édes frissítővel zárul az élénk kikötőben.",
+        "ro": "Acest tur 'cu bicicleta' este o drumeție de coastă revigorantă, deoarece mersul pe bicicletă nu este practic în orașul Hydra. Porniți din port și urmați poteca pitorească spre vest. Dimineața este dedicată drumului spre Vlychos, o plajă fermecătoare unde vă puteți bucura de liniște. După un prânz relaxant pe malul mării, porniți pe drumul de întoarcere. După-amiaza vă răsplătește cu noi priveliști ale orașului și se încheie cu o băutură dulce și răcoritoare în portul animat.",
+        "en": "This 'bike' tour is an invigorating coastal hike, as cycling is not practical in Hydra town. You start in the harbour and follow the scenic path west. The morning is dedicated to the trail to Vlychos, a charming beach where you can enjoy the tranquility. After a relaxing lunch by the sea, you start the journey back. The afternoon rewards you with new views of the town and ends with a sweet refreshment in the lively harbour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne am Vlychos Strand",
+            "tip": "Genießen Sie einfache, aber köstliche griechische Hausmannskost mit den Füßen fast im Sand."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Ein perfekter leichter Snack oder eine Vorspeise."
+          },
+          {
+            "name": "Handgemachtes Eis",
+            "tip": "Suchen Sie nach 'The Cool Mule' für eine große Auswahl an Geschmacksrichtungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taverna a Vlychos strandon",
+            "tip": "Élvezd az egyszerű, de finom görög házias ételeket, szinte a homokban ülve."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Tökéletes könnyű snack vagy előétel."
+          },
+          {
+            "name": "Kézműves fagylalt",
+            "tip": "Keresd a 'The Cool Mule'-t a széles ízválasztékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna de pe plaja Vlychos",
+            "tip": "Bucurați-vă de mâncăruri grecești simple, dar delicioase, gătite ca acasă, cu picioarele aproape în nisip."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "O gustare ușoară sau un aperitiv perfect."
+          },
+          {
+            "name": "Înghețată artizanală",
+            "tip": "Căutați 'The Cool Mule' pentru o mare varietate de arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna at Vlychos Beach",
+            "tip": "Enjoy simple but delicious Greek home cooking with your feet almost in the sand."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A perfect light snack or appetizer."
+          },
+          {
+            "name": "Handmade Ice Cream",
+            "tip": "Look for 'The Cool Mule' for a wide variety of flavours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Avlaki Bucht",
+            "tip": "Eine winzige, oft übersehene Bucht auf dem Weg nach Vlychos. Perfekt für eine kurze, ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Brücke von Vlychos",
+            "tip": "Eine alte Steinbrücke kurz vor dem Strand, ein malerischer, ruhiger Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Später Nachmittag am Hafen",
+            "tip": "Sobald die Tagesausflügler weg sind, kehrt eine friedliche Atmosphäre zurück.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avlaki-öböl",
+            "tip": "Egy apró, gyakran figyelmen kívül hagyott öböl a Vlychos felé vezető úton. Tökéletes egy rövid, csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vlychos hídja",
+            "tip": "Egy régi kőhíd közvetlenül a strand előtt, festői, csendes hely.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Késő délután a kikötőben",
+            "tip": "Amint a napos kirándulók elmennek, békés hangulat tér vissza.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Avlaki",
+            "tip": "Un golf mic, adesea trecut cu vederea, în drum spre Vlychos. Perfect pentru o scurtă pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podul din Vlychos",
+            "tip": "Un pod vechi de piatră chiar înainte de plajă, un loc pitoresc și liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "După-amiază târziu în port",
+            "tip": "Odată ce excursioniștii de o zi pleacă, se instalează o atmosferă pașnică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Avlaki Cove",
+            "tip": "A tiny, often-overlooked cove on the way to Vlychos. Perfect for a short, quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Bridge of Vlychos",
+            "tip": "An old stone bridge just before the beach, a picturesque, quiet spot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Late afternoon at the harbour",
+            "tip": "Once the day-trippers have left, a peaceful atmosphere returns.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Naturschwämme",
+            "tip": "Ein klassisches griechisches Souvenir, das in mehreren Geschäften am Hafen verkauft wird."
+          },
+          {
+            "name": "Lokale Kunst",
+            "tip": "Hydra hat eine lebendige Kunstszene. Besuchen Sie eine Galerie für ein einzigartiges Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Természetes szivacsok",
+            "tip": "Klasszikus görög szuvenír, amelyet több kikötői üzletben is árusítanak."
+          },
+          {
+            "name": "Helyi művészet",
+            "tip": "Hydrán élénk művészeti élet zajlik. Látogass el egy galériába egy egyedi emlékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bureți naturali",
+            "tip": "Un suvenir grecesc clasic vândut în mai multe magazine din port."
+          },
+          {
+            "name": "Artă locală",
+            "tip": "Hydra are o scenă artistică vibrantă. Vizitați o galerie pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Natural sponges",
+            "tip": "A classic Greek souvenir sold in several shops around the harbour."
+          },
+          {
+            "name": "Local art",
+            "tip": "Hydra has a vibrant arts scene. Visit a gallery for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Diese Tour ist eine Wanderung, keine Radtour. Tragen Sie Wanderschuhe.",
+          "Der Küstenweg kann steinig sein. Achten Sie auf Ihren Tritt.",
+          "Im Sommer kann es sehr heiß werden. Starten Sie früh und nehmen Sie einen Hut und Sonnencreme mit.",
+          "Prüfen Sie die Öffnungszeiten der Taverne in Vlychos außerhalb der Saison.",
+          "Ein Wassertaxi ist eine Option für den Rückweg, wenn Sie zu müde zum Laufen sind."
+        ],
+        "hu": [
+          "Ez a túra egy gyalogtúra, nem biciklitúra. Viselj túracipőt.",
+          "A tengerparti ösvény köves lehet. Vigyázz, hova lépsz.",
+          "Nyáron nagyon meleg lehet. Indulj korán, és vigyél kalapot és naptejet.",
+          "Szezonon kívül ellenőrizd a vlychosi taverna nyitvatartását.",
+          "A vízitaxi egy lehetőség a visszaútra, ha túl fáradt vagy a gyalogláshoz."
+        ],
+        "ro": [
+          "Acest tur este o drumeție, nu un tur cu bicicleta. Purtați pantofi de drumeție.",
+          "Poteca de coastă poate fi stâncoasă. Fiți atenți pe unde călcați.",
+          "Vara poate fi foarte cald. Începeți devreme și luați o pălărie și cremă de soare.",
+          "Verificați programul tavernei din Vlychos în afara sezonului.",
+          "Un taxi pe apă este o opțiune pentru drumul de întoarcere dacă sunteți prea obosit pentru a merge pe jos."
+        ],
+        "en": [
+          "This tour is a hike, not a bike ride. Wear hiking shoes.",
+          "The coastal path can be rocky. Watch your step.",
+          "It can get very hot in summer. Start early and bring a hat and sunscreen.",
+          "Check the opening times of the taverna in Vlychos during the off-season.",
+          "A water taxi is an option for the return trip if you are too tired to walk."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Wassertaxi vom Hafen",
+            "hu": "Vízitaxi a kikötőből",
+            "ro": "Taxi pe apă din port",
+            "en": "Water Taxi from the Harbour"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Da Hydra autofrei ist, dient ein Wassertaxi als 'Auto' für diesen Plan.",
+            "hu": "Mivel Hydra autómentes, a vízitaxi szolgál 'autóként' ehhez a tervhez.",
+            "ro": "Deoarece Hydra este o insulă fără mașini, un taxi pe apă servește drept 'mașină' pentru acest plan.",
+            "en": "As Hydra is car-free, a water taxi serves as the 'car' for this plan."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandraki Strand",
+            "hu": "Mandraki strand",
+            "ro": "Plaja Mandraki",
+            "en": "Mandraki Beach"
+          },
+          "coords": [
+            23.48,
+            37.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der einzige Sandstrand der Insel, der mit dem Wassertaxi erreichbar ist. Sehr organisiert.",
+            "hu": "A sziget egyetlen homokos strandja, amely vízitaxival elérhető. Jól szervezett.",
+            "ro": "Singura plajă cu nisip de pe insulă accesibilă cu taxiul pe apă. Foarte organizată.",
+            "en": "The island's only sandy beach accessible by water taxi. Very organized."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Mandraki",
+            "hu": "Ebéd Mandrakiban",
+            "ro": "Prânz în Mandraki",
+            "en": "Lunch in Mandraki"
+          },
+          "coords": [
+            23.4795,
+            37.3535
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein gehobenes Mittagessen im Strandrestaurant mit Blick auf die Bucht.",
+            "hu": "Élvezd a színvonalas ebédet a tengerparti étteremben, kilátással az öbölre.",
+            "ro": "Bucurați-vă de un prânz rafinat la restaurantul de pe plajă, cu vedere la golf.",
+            "en": "Enjoy an upscale lunch at the beach restaurant overlooking the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück in Hydra-Stadt",
+            "hu": "Vissza Hydra városába",
+            "ro": "Înapoi în orașul Hydra",
+            "en": "Back in Hydra Town"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "harbor",
+          "arrive_at": "13:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zeit, die Gassen von Hydra-Stadt zu erkunden.",
+            "hu": "Ideje felfedezni Hydra városának sikátorait.",
+            "ro": "Este timpul să explorați aleile din orașul Hydra.",
+            "en": "Time to explore the alleys of Hydra town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lazaros-Kountouriotis-Haus",
+            "hu": "Lazaros Kountouriotis-ház",
+            "ro": "Casa Lazaros Kountouriotis",
+            "en": "Lazaros Kountouriotis Mansion"
+          },
+          "coords": [
+            23.467,
+            37.3495
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Strandleben bietet dieses Museum einen tiefen Einblick in die Geschichte.",
+            "hu": "A strandolás után ez a múzeum mély betekintést nyújt a történelembe.",
+            "ro": "După viața de plajă, acest muzeu oferă o perspectivă profundă asupra istoriei.",
+            "en": "After the beach life, this museum offers a deep dive into history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Hydra autofrei ist, ersetzt ein Wassertaxi das 'Auto' für einen Ausflug. Der Morgen beginnt mit einer Bootsfahrt nach Mandraki, dem einzigen Sandstrand der Insel. Hier verbringen Sie den Vormittag mit Schwimmen und Entspannen, gefolgt von einem stilvollen Mittagessen am Wasser. Am Nachmittag kehren Sie in die geschäftige Stadt Hydra zurück, um mit einem Museumsbesuch in die aristokratische Vergangenheit der Insel einzutauchen und den Kontrast zwischen entspanntem Strandleben und reicher Geschichte zu erleben.",
+        "hu": "Mivel Hydra autómentes, egy vízitaxi helyettesíti az 'autót' egy kiránduláshoz. A reggel egy hajóúttal kezdődik Mandrakiba, a sziget egyetlen homokos strandjára. Itt tölti a délelőttöt úszással és pihenéssel, majd egy stílusos ebéd következik a vízparton. Délután visszatér a nyüzsgő Hydra városába, hogy egy múzeumlátogatással elmerüljön a sziget arisztokratikus múltjában, és megtapasztalja a laza strandélet és a gazdag történelem közötti kontrasztot.",
+        "ro": "Deoarece Hydra este fără mașini, un taxi pe apă înlocuiește 'mașina' pentru o excursie. Dimineața începe cu o plimbare cu barca spre Mandraki, singura plajă cu nisip de pe insulă. Aici vă veți petrece dimineața înotând și relaxându-vă, urmată de un prânz elegant pe malul apei. După-amiaza, vă întoarceți în aglomeratul oraș Hydra pentru a vă cufunda în trecutul aristocratic al insulei cu o vizită la muzeu, experimentând contrastul dintre viața relaxată de pe plajă și istoria bogată.",
+        "en": "As Hydra is car-free, a water taxi replaces the 'car' for an excursion. The morning begins with a boat trip to Mandraki, the island's only sandy beach. You'll spend the morning here swimming and relaxing, followed by a stylish lunch by the water. In the afternoon, you return to bustling Hydra town to delve into the island's aristocratic past with a museum visit, experiencing the contrast between relaxed beach life and rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mandraki Beach Resort Restaurant",
+            "tip": "Erwarten Sie moderne mediterrane Küche in einer schicken Umgebung."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Ein Muss in jeder griechischen Taverne, aber besonders frisch hier."
+          },
+          {
+            "name": "Cocktail bei Sonnenuntergang",
+            "tip": "Kehren Sie für einen Drink in eine der Bars am Hafen zurück, um den Tag ausklingen zu lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandraki Beach Resort Étterem",
+            "tip": "Modern mediterrán konyhára számíthatsz elegáns környezetben."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Minden görög tavernában kötelező, de itt különösen friss."
+          },
+          {
+            "name": "Koktél naplementekor",
+            "tip": "Térj vissza egy italra a kikötői bárok egyikébe, hogy lezárd a napot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Mandraki Beach Resort",
+            "tip": "Așteptați-vă la bucătărie mediteraneană modernă într-un cadru șic."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O necesitate în orice tavernă grecească, dar deosebit de proaspătă aici."
+          },
+          {
+            "name": "Cocktail la apus",
+            "tip": "Întoarceți-vă la unul dintre barurile din port pentru o băutură pentru a încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mandraki Beach Resort Restaurant",
+            "tip": "Expect modern Mediterranean cuisine in a chic setting."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "A must-try in any Greek taverna, but especially fresh here."
+          },
+          {
+            "name": "Sunset cocktail",
+            "tip": "Return to one of the bars in the harbour for a drink to end the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Bootsfahrt selbst",
+            "tip": "Genießen Sie die Perspektive vom Meer aus auf die Küste von Hydra.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ein abgelegener Platz am Mandraki Strand",
+            "tip": "Gehen Sie ein wenig vom Hauptbereich weg, um mehr Ruhe zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Lazaros-Kountouriotis-Hauses",
+            "tip": "Ein kühler, ruhiger Ort nach dem Aufstieg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maga a hajóút",
+            "tip": "Élvezd a kilátást a tengerről Hydra partvonalára.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Egy eldugott hely a Mandraki strandon",
+            "tip": "Sétálj egy kicsit távolabb a fő területtől a nagyobb nyugalomért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Lazaros Kountouriotis-ház udvara",
+            "tip": "Hűvös, csendes hely a mászás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbarea cu barca în sine",
+            "tip": "Bucurați-vă de perspectiva de pe mare a coastei insulei Hydra.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Un loc retras pe plaja Mandraki",
+            "tip": "Mergeți puțin mai departe de zona principală pentru mai multă liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Casei Lazaros Kountouriotis",
+            "tip": "Un loc răcoros și liniștit după urcare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The boat ride itself",
+            "tip": "Enjoy the perspective of the Hydra coastline from the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A secluded spot on Mandraki Beach",
+            "tip": "Walk a little away from the main area to find more peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Lazaros Kountouriotis Mansion",
+            "tip": "A cool, quiet spot after the climb.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Designer-Boutiquen",
+            "tip": "In Hydra-Stadt gibt es mehrere gehobene Boutiquen, die griechische und internationale Designer führen."
+          },
+          {
+            "name": "Maritime Souvenirs",
+            "tip": "Suchen Sie nach Modellschiffen oder Drucken, die die Seefahrtsgeschichte der Insel widerspiegeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dizájner butikok",
+            "tip": "Hydra városában számos felsőkategóriás butik található, amelyek görög és nemzetközi tervezőket kínálnak."
+          },
+          {
+            "name": "Tengerészeti szuvenírek",
+            "tip": "Keress modellhajókat vagy nyomatokat, amelyek a sziget tengerészeti történelmét tükrözik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri de designer",
+            "tip": "Orașul Hydra are mai multe buticuri de lux care prezintă designeri greci și internaționali."
+          },
+          {
+            "name": "Suveniruri maritime",
+            "tip": "Căutați modele de nave sau printuri care reflectă istoria navală a insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Designer Boutiques",
+            "tip": "Hydra town has several high-end boutiques featuring Greek and international designers."
+          },
+          {
+            "name": "Maritime Souvenirs",
+            "tip": "Look for model ships or prints that reflect the island's naval history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Handeln Sie den Preis für das Wassertaxi aus, bevor Sie an Bord gehen.",
+          "In der Hochsaison kann es ratsam sein, das Wassertaxi im Voraus zu buchen.",
+          "Mandraki Beach ist organisiert, was bedeutet, dass für Liegen und Sonnenschirme Gebühren anfallen können.",
+          "Auch auf einer Bootsfahrt ist Sonnenschutz unerlässlich.",
+          "Diese Reiseroute kombiniert Entspannung am Strand mit Kultur in der Stadt."
+        ],
+        "hu": [
+          "Alkudj meg a vízitaxi áráról, mielőtt felszállsz.",
+          "Főszezonban tanácsos lehet előre lefoglalni a vízitaxit.",
+          "A Mandraki strand szervezett, ami azt jelenti, hogy a napozóágyakért és napernyőkért díjat számíthatnak fel.",
+          "A napvédelem még egy hajókiránduláson is elengedhetetlen.",
+          "Ez az útiterv ötvözi a tengerparti pihenést a városi kultúrával."
+        ],
+        "ro": [
+          "Negociați prețul pentru taxiul pe apă înainte de a vă îmbarca.",
+          "În sezonul de vârf, ar putea fi înțelept să rezervați taxiul pe apă în avans.",
+          "Plaja Mandraki este organizată, ceea ce înseamnă că se pot percepe taxe pentru șezlonguri și umbrele.",
+          "Protecția solară este esențială chiar și într-o excursie cu barca.",
+          "Acest itinerar combină relaxarea pe plajă cu cultura în oraș."
+        ],
+        "en": [
+          "Negotiate the price for the water taxi before you board.",
+          "In high season, it might be wise to book the water taxi in advance.",
+          "Mandraki Beach is organized, which means there may be fees for sunbeds and umbrellas.",
+          "Sun protection is essential even on a boat trip.",
+          "This itinerary combines beach relaxation with in-town culture."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen Hydra (Wassertaxi-Station)",
+            "hu": "Hydra kikötő (Vízitaxi állomás)",
+            "ro": "Portul Hydra (stația de taxi pe apă)",
+            "en": "Hydra Harbour (Water Taxi Stop)"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese 'Transit'-Route nutzt Wassertaxis, um verschiedene Küstenabschnitte zu verbinden.",
+            "hu": "Ez a 'tranzit' útvonal vízitaxikat használ a különböző parti szakaszok összekötésére.",
+            "ro": "Această rută de 'tranzit' folosește taxiuri pe apă pentru a conecta diferite secțiuni de coastă.",
+            "en": "This 'transit' route uses water taxis to connect different coastal sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Vlychos Strand",
+            "hu": "Vlychos strand",
+            "ro": "Plaja Vlychos",
+            "en": "Vlychos Beach"
+          },
+          "coords": [
+            23.448,
+            37.346
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie mit einer Bootsfahrt zu diesem ruhigen Kieselstrand.",
+            "hu": "Kezdje egy hajókirándulással ehhez a csendes, kavicsos strandhoz.",
+            "ro": "Începeți cu o plimbare cu barca spre această plajă liniștită cu pietriș.",
+            "en": "Start with a boat ride to this quiet pebble beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Taverne",
+            "hu": "Ebéd egy tavernában",
+            "ro": "Prânz la o tavernă",
+            "en": "Lunch at a Taverna"
+          },
+          "coords": [
+            23.4485,
+            37.3465
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die authentische Atmosphäre direkt am Wasser.",
+            "hu": "Élvezd az autentikus hangulatot közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de atmosfera autentică chiar lângă apă.",
+            "en": "Enjoy the authentic atmosphere right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Zurück nach Hydra-Stadt",
+            "hu": "Vissza Hydra városába",
+            "ro": "Înapoi în orașul Hydra",
+            "en": "Back to Hydra Town"
+          },
+          "coords": [
+            23.466,
+            37.3515
+          ],
+          "category": "harbor",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück im Trubel, bereit für den kulturellen Teil des Tages.",
+            "hu": "Vissza a nyüzsgésbe, készen a nap kulturális részére.",
+            "ro": "Înapoi în agitație, gata pentru partea culturală a zilei.",
+            "en": "Back in the bustle, ready for the cultural part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Archivmuseum",
+            "hu": "Történelmi Levéltár Múzeum",
+            "ro": "Muzeul Arhivelor Istorice",
+            "en": "Historical Archive Museum"
+          },
+          "coords": [
+            23.464,
+            37.351
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie nach dem entspannten Vormittag in die maritime Macht Hydras ein.",
+            "hu": "Merülj el Hydra tengeri hatalmában a pihentető délelőtt után.",
+            "ro": "Scufundați-vă în puterea maritimă a insulei Hydra după o dimineață relaxantă.",
+            "en": "Immerse yourself in Hydra's maritime power after a relaxing morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan nutzt Wassertaxis als öffentliches Verkehrsmittel, um die Küste zu erkunden. Der Tag beginnt mit einer kurzen Bootsfahrt zum ruhigen Strand von Vlychos, perfekt für einen entspannten Vormittag und ein Mittagessen am Meer. Am Nachmittag bringt Sie das 'Transit'-Boot zurück ins Herz von Hydra-Stadt. Dort tauschen Sie die Strandatmosphäre gegen die reiche Geschichte im Archivmuseum und beenden den Tag mit einem Spaziergang durch die belebten Gassen des Hafens.",
+        "hu": "Ez a terv vízitaxikat használ tömegközlekedésként a part felfedezéséhez. A nap egy rövid hajóúttal kezdődik a csendes Vlychos strandra, amely tökéletes egy pihentető délelőtthöz és egy tengerparti ebédhez. Délután a 'tranzit' hajó visszaviszi Hydra városának szívébe. Ott a strand hangulatát a Levéltár Múzeum gazdag történelmére cseréli, és a napot egy sétával fejezi be a kikötő nyüzsgő sikátoraiban.",
+        "ro": "Acest plan folosește taxiurile pe apă ca transport public pentru a explora coasta. Ziua începe cu o scurtă plimbare cu barca spre plaja liniștită Vlychos, perfectă pentru o dimineață relaxantă și un prânz pe malul mării. După-amiaza, barca de 'tranzit' vă aduce înapoi în inima orașului Hydra. Acolo, schimbați atmosfera de plajă cu istoria bogată de la Muzeul Arhivelor și încheiați ziua cu o plimbare pe aleile aglomerate ale portului.",
+        "en": "This plan uses water taxis as public transport to explore the coast. The day starts with a short boat ride to the quiet Vlychos beach, perfect for a relaxing morning and a seaside lunch. In the afternoon, the 'transit' boat takes you back to the heart of Hydra town. There, you swap the beach atmosphere for the rich history at the Archive Museum and end the day with a stroll through the bustling alleys of the harbour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Griechischer Kaffee (Freddo Cappuccino)",
+            "tip": "Genießen Sie einen erfrischenden Eiskaffee in einem Café am Hafen."
+          },
+          {
+            "name": "Oktopus in Essig (Oktapodi Xidato)",
+            "tip": "Eine köstliche Vorspeise, die man in fast jeder Taverne findet."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einem Glas lokalen Weißweins, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Görög kávé (Freddo Cappuccino)",
+            "tip": "Élvezz egy frissítő jeges kávét egy kikötői kávézóban."
+          },
+          {
+            "name": "Ecetes polip (Oktapodi Xidato)",
+            "tip": "Finom előétel, amelyet szinte minden tavernában megtalálsz."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérj egy pohár helyi fehérbort, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea grecească (Freddo Cappuccino)",
+            "tip": "Bucurați-vă de o cafea cu gheață răcoritoare la o cafenea din port."
+          },
+          {
+            "name": "Caracatiță în oțet (Oktapodi Xidato)",
+            "tip": "Un aperitiv delicios găsit în aproape orice tavernă."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți un pahar de vin alb local, care se potrivește perfect cu fructele de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Greek Coffee (Freddo Cappuccino)",
+            "tip": "Enjoy a refreshing iced coffee at a cafe in the harbour."
+          },
+          {
+            "name": "Octopus in Vinegar (Oktapodi Xidato)",
+            "tip": "A delicious appetizer found in almost any taverna."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for a glass of local white wine, which pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Felsen am Ende von Vlychos",
+            "tip": "Klettern Sie für eine private Aussicht und die Geräusche der Wellen ein wenig über den Strand hinaus.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kirchenhof",
+            "tip": "Finden Sie eine kleine, offene Kirche und genießen Sie die Stille im Inneren oder im Hof.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Der Blick zurück vom Wassertaxi",
+            "tip": "Sehen Sie zu, wie die Stadt kleiner wird, während Sie auf das Meer hinausfahren.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklák Vlychos végén",
+            "tip": "Mássz egy kicsit a strand fölé egy privát kilátásért és a hullámok hangjáért.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Keress egy kis, nyitott templomot, és élvezd a csendet bent vagy az udvaron.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Visszapillantás a vízitaxiról",
+            "tip": "Nézd, ahogy a város egyre kisebb lesz, ahogy kihajózol a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile de la capătul plajei Vlychos",
+            "tip": "Urcați puțin deasupra plajei pentru o priveliște privată și sunetul valurilor.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Curtea unei biserici",
+            "tip": "Găsiți o biserică mică, deschisă, și bucurați-vă de liniștea din interior sau din curte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Privirea înapoi de pe taxiul pe apă",
+            "tip": "Urmăriți cum orașul devine tot mai mic pe măsură ce vă îndepărtați pe mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The rocks at the end of Vlychos",
+            "tip": "Climb a little beyond the beach for a private view and the sound of the waves.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "A church courtyard",
+            "tip": "Find a small, open church and enjoy the silence inside or in its courtyard.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The view back from the water taxi",
+            "tip": "Watch the town get smaller as you head out to sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leinenhandtücher",
+            "tip": "Ein leichtes und praktisches Souvenir, das in vielen Geschäften verkauft wird."
+          },
+          {
+            "name": "Hydra-Postkarten oder Drucke",
+            "tip": "Nehmen Sie die Schönheit der Insel mit nach Hause, eingefangen von einem lokalen Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vászon törölközők",
+            "tip": "Könnyű és praktikus szuvenír, amelyet sok üzletben árulnak."
+          },
+          {
+            "name": "Hydra képeslapok vagy nyomatok",
+            "tip": "Vidd haza a sziget szépségét egy helyi művész által megörökítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prosoape de in",
+            "tip": "Un suvenir ușor și practic, vândut în multe magazine."
+          },
+          {
+            "name": "Cărți poștale sau printuri din Hydra",
+            "tip": "Luați acasă frumusețea insulei, surprinsă de un artist local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Linen towels",
+            "tip": "A light and practical souvenir sold in many shops."
+          },
+          {
+            "name": "Hydra postcards or prints",
+            "tip": "Take home the beauty of the island captured by a local artist."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wassertaxis verkehren häufig, aber fragen Sie nach der letzten Rückfahrt von den Stränden.",
+          "Diese Route ist ideal für diejenigen, die eine Mischung aus Strand und Stadt ohne lange Spaziergänge wünschen.",
+          "Auch für kurze Bootsfahrten kann eine leichte Jacke nützlich sein, da es auf dem Wasser windig sein kann.",
+          "Halten Sie Kleingeld für Wassertaxis und kleine Einkäufe bereit.",
+          "Seien Sie flexibel; Wassertaxis können bei sehr rauhem Wetter den Betrieb einstellen."
+        ],
+        "hu": [
+          "A vízitaxik gyakran közlekednek, de kérdezd meg az utolsó visszautat a strandokról.",
+          "Ez az útvonal ideális azoknak, akik a strand és a város keverékét szeretnék hosszú séták nélkül.",
+          "Még rövid hajóutakra is hasznos lehet egy könnyű dzseki, mivel a vízen szeles lehet az idő.",
+          "Tarts magadnál aprópénzt a vízitaxikhoz és a kisebb vásárlásokhoz.",
+          "Légy rugalmas; a vízitaxik nagyon viharos időben leállhatnak."
+        ],
+        "ro": [
+          "Taxiurile pe apă circulă frecvent, dar întrebați despre ultima cursă de întoarcere de la plaje.",
+          "Această rută este ideală pentru cei care doresc o combinație de plajă și oraș fără plimbări lungi.",
+          "Chiar și pentru excursiile scurte cu barca, o jachetă ușoară poate fi utilă, deoarece poate fi vânt pe apă.",
+          "Aveți la îndemână bani mărunți pentru taxiurile pe apă și cumpărăturile mici.",
+          "Fiți flexibili; taxiurile pe apă pot înceta să funcționeze pe vreme foarte rea."
+        ],
+        "en": [
+          "Water taxis run frequently, but ask about the last return trip from the beaches.",
+          "This route is ideal for those who want a mix of beach and town without long walks.",
+          "Even for short boat trips, a light jacket can be useful as it can be windy on the water.",
+          "Keep small change handy for water taxis and small purchases.",
+          "Be flexible; water taxis may stop running in very rough weather."
+        ]
+      }
+    }
+  }
+}

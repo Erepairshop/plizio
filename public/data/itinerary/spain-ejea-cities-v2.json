@@ -1,0 +1,970 @@
+{
+  "city_id": "spain-ejea-cities-v2",
+  "anchor": {
+    "name": "Ejea de los Caballeros",
+    "coords": [
+      -1.1333,
+      42.1283
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Barrio del Cinto",
+          "coords": [
+            -1.133,
+            42.1285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Schuhe für die mittelalterlichen Gassen.",
+            "hu": "Kényelmes cipő ajánlott a középkori macskaköves utcákon.",
+            "ro": "Purtați încălțăminte comodă pentru străduțele medievale.",
+            "en": "Wear comfortable shoes for the medieval cobblestone streets."
+          }
+        },
+        {
+          "name": "Plaza de la Villa",
+          "coords": [
+            -1.134,
+            42.128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück der Altstadt, perfekt für einen Kaffee.",
+            "hu": "Az óváros szíve, tökéletes hely egy kávéra.",
+            "ro": "Inima orașului vechi, perfectă pentru o cafea.",
+            "en": "The heart of the old town, perfect for a coffee."
+          }
+        },
+        {
+          "name": "Haus der fünf Villen",
+          "coords": [
+            -1.1335,
+            42.1282
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die traditionelle aragonesische Architektur.",
+            "hu": "Figyelje meg a hagyományos aragóniai építészetet.",
+            "ro": "Observați arhitectura tradițională aragoneză.",
+            "en": "Notice the traditional Aragonese architecture."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -1.1325,
+            42.129
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die romanische Architektur ist beeindruckend erhalten.",
+            "hu": "A román kori építészet lenyűgözően maradt fenn.",
+            "ro": "Arhitectura romanică este impresionant de bine păstrată.",
+            "en": "The Romanesque architecture is impressively preserved."
+          }
+        },
+        {
+          "name": "Kirche Santa María",
+          "coords": [
+            -1.1345,
+            42.1275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Portikus ist ein Meisterwerk der Steinmetzkunst.",
+            "hu": "A főkapu a kőfaragóművészet igazi mesterműve.",
+            "ro": "Porticul este o capodoperă a artei sculpturii în piatră.",
+            "en": "The portico is a masterpiece of stonemasonry."
+          }
+        },
+        {
+          "name": "Parque Lineal del Gancho",
+          "coords": [
+            -1.13,
+            42.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Idealer Ort für ein Picknick am Nachmittag.",
+            "hu": "Ideális helyszín egy délutáni piknikhez.",
+            "ro": "Locul ideal pentru un picnic de după-amiază.",
+            "en": "Ideal spot for an afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ejea de los Caballeros, die Hauptstadt der Cinco Villas, bietet eine faszinierende Mischung aus Geschichte und Moderne. Der Tag beginnt in den verwinkelten Gassen des Barrio del Cinto und führt zu eindrucksvollen romanischen Kirchen. Nach der Besichtigung historischer Residenzen und steinerner Portale bietet der Parque Lineal del Gancho eine grüne Oase zur Entspannung.",
+        "hu": "Ejea de los Caballeros, a Cinco Villas régió történelmi központja, izgalmas építészeti örökséggel bír. A séta a Barrio del Cinto ódon utcáin indul, majd robusztus román kori templomok felé halad. A gazdag múltú nemesi rezidenciák és kőfaragványok felfedezése után a Parque Lineal del Gancho zöld sétányain pihenhetünk meg.",
+        "ro": "Ejea de los Caballeros, capitala regiunii Cinco Villas, oferă o moștenire arhitecturală deosebită. Plimbarea începe pe străduțele din Barrio del Cinto, ducând spre biserici romanice masive. După explorarea reședințelor istorice și a sculpturilor detaliate în piatră, Parque Lineal del Gancho oferă oaza verde perfectă pentru relaxare.",
+        "en": "Ejea de los Caballeros, the historical capital of the Cinco Villas region, boasts a rich architectural heritage. The walk begins in the ancient streets of Barrio del Cinto, leading to robust Romanesque churches. After exploring noble residences and intricate stone carvings, the Parque Lineal del Gancho provides a green haven for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Traditioneller Lammbraten aus der Region."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Herzhaftes Bauerngericht mit Brotkrumen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Hagyományos aragóniai báránysült."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Kiadós pásztorétel pirított kenyérmorzsából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Friptură tradițională de miel din regiune."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Mâncare rustică pe bază de firimituri de pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco asado",
+            "tip": "Traditional roasted Aragonese lamb."
+          },
+          {
+            "name": "Migas aragonesas",
+            "tip": "Hearty rustic dish made with breadcrumbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Ruhige Wege unter Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaza de la Villa",
+            "tip": "Entspannter Nachmittagskaffee.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Csendes, fás sétányok.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaza de la Villa",
+            "tip": "Nyugodt délutáni kávézás.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Cărări liniștite printre copaci.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaza de la Villa",
+            "tip": "O cafea relaxantă după-amiaza.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Quiet tree-lined paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaza de la Villa",
+            "tip": "Relaxed afternoon coffee spot.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Hochwertiges Öl aus den Cinco Villas."
+          },
+          {
+            "name": "Traditionelles Gebäck",
+            "tip": "Süße Mandelleckereien aus örtlichen Bäckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Prémium minőségű olaj a régióból."
+          },
+          {
+            "name": "Hagyományos sütemények",
+            "tip": "Helyi pékségek édes mandulás finomságai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ulei de înaltă calitate din regiune."
+          },
+          {
+            "name": "Patiserie tradițională",
+            "tip": "Dulciuri cu migdale din brutăriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "High-quality oil from the Cinco Villas."
+          },
+          {
+            "name": "Traditional pastries",
+            "tip": "Sweet almond treats from local bakeries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ejea ist bekannt für seine starke landwirtschaftliche Prägung.",
+          "Probieren Sie unbedingt die lokalen Wurst- und Fleischwaren.",
+          "Das Barrio del Cinto hat steile Gassen, bequemes Schuhwerk ist wichtig.",
+          "Im Sommer wird es nachmittags sehr heiß, planen Sie Pausen ein."
+        ],
+        "hu": [
+          "Ejea erős mezőgazdasági gyökerekkel rendelkezik, kóstolja meg a helyi termékeket.",
+          "A Barrio del Cinto macskaköves, meredek utcáin a kényelmes cipő elengedhetetlen.",
+          "Nyáron a délutánok nagyon forróak lehetnek, érdemes árnyékba húzódni.",
+          "A történelmi központ gyalogosan fedezhető fel a legjobban."
+        ],
+        "ro": [
+          "Ejea are rădăcini agricole puternice, încercați produsele locale.",
+          "Barrio del Cinto are străzi abrupte și pietruite, pantofii comozi sunt esențiali.",
+          "Verile pot fi foarte fierbinți, planificați pauze la prânz.",
+          "Centrul istoric se explorează cel mai bine la pas."
+        ],
+        "en": [
+          "Ejea has strong agricultural roots; be sure to try local produce.",
+          "The Barrio del Cinto features steep cobblestone streets, so comfy shoes are a must.",
+          "Summers get very hot in the afternoon, plan your walks for the morning.",
+          "The historical center is very compact and best explored on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Plaza de la Villa",
+          "coords": [
+            -1.134,
+            42.128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem kurzen Rundblick.",
+            "hu": "Kezdje a napot itt egy rövid körbetekintéssel.",
+            "ro": "Începeți aici cu o scurtă privire de ansamblu.",
+            "en": "Start here with a quick overview of the square."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -1.1325,
+            42.129
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad sicher vor der Kirche abstellen.",
+            "hu": "A templom előtt biztonságosan lezárhatja a biciklit.",
+            "ro": "Legați bicicleta în siguranță în fața bisericii.",
+            "en": "Lock your bike safely in front of the church."
+          }
+        },
+        {
+          "name": "Parque Lineal del Gancho",
+          "coords": [
+            -1.13,
+            42.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege entlang der Grünflächen.",
+            "hu": "Kiváló kerékpárutak futnak a zöldterületek mentén.",
+            "ro": "Piste de biciclete frumoase de-a lungul zonelor verzi.",
+            "en": "Nice cycling paths along the green areas."
+          }
+        },
+        {
+          "name": "Museum Aquagraria",
+          "coords": [
+            -1.125,
+            42.122
+          ],
+          "category": "museums",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die riesigen alten Traktoren sind faszinierend.",
+            "hu": "A hatalmas régi traktorok lenyűgöző látványt nyújtanak.",
+            "ro": "Vechile tractoare uriașe sunt fascinante.",
+            "en": "The giant vintage tractors are a fascinating sight."
+          }
+        },
+        {
+          "name": "Ermita de la Virgen de la Oliva",
+          "coords": [
+            -1.14,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt aus der Stadt hinaus.",
+            "hu": "Kellemes tekerés a városból kifelé haladva.",
+            "ro": "O plimbare plăcută cu bicicleta în afara orașului.",
+            "en": "A pleasant ride heading out of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Ejea wunderbar erkunden. Nach den historischen Kirchen im Zentrum radeln wir entspannt in den Parque Lineal del Gancho. Von dort geht es weiter zum Museum Aquagraria, bevor ein kleiner Ausflug zur Ermita de la Virgen de la Oliva den Tag abschließt.",
+        "hu": "Ejea kerékpárral kényelmesen bejárható. A központ történelmi templomai után kellemes tekerés vár a Parque Lineal del Gancho parkba. Innen az Aquagraria Múzeum felé vesszük az irányt, végül a város szélén álló Ermita de la Virgen de la Oliva kápolnához kerekezünk.",
+        "ro": "Explorarea orașului Ejea cu bicicleta este ideală. După bisericile istorice, pedalăm spre Parque Lineal del Gancho. Urmează impresionantul muzeu Aquagraria, iar ziua se încheie cu o scurtă ieșire din oraș către Ermita de la Virgen de la Oliva.",
+        "en": "Exploring Ejea by bike is highly recommended. After visiting the historical churches, enjoy a relaxed ride through the Parque Lineal del Gancho. Next up is the vast Aquagraria Museum, concluding with a short trip outside town to the Ermita de la Virgen de la Oliva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aragonesischer Schinken",
+            "tip": "Perfekter Snack für zwischendurch."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Herzhafte lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aragóniai sonka",
+            "tip": "Tökéletes gyors uzsonna."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Kiadós helyi húsétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă de Aragon",
+            "tip": "Gustare perfectă pentru energie."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Specialitate locală consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aragonese Ham",
+            "tip": "Perfect quick snack for energy."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "A hearty local meat specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de la Virgen de la Oliva",
+            "tip": "Friedlicher Ort abseits des Trubels.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de la Virgen de la Oliva",
+            "tip": "Békés hely távol a nyüzsgéstől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de la Virgen de la Oliva",
+            "tip": "Loc pașnic departe de agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita de la Virgen de la Oliva",
+            "tip": "Peaceful spot away from the hustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Süßes Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Édes szuvenír a vidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Suvenir dulce din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Sweet souvenir from the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Distanzen sind kurz, perfekt für gemütliches Radeln.",
+          "Nehmen Sie ausreichend Wasser für den Ausflug zur Ermita mit."
+        ],
+        "hu": [
+          "A távolságok rövidek, kiváló laza tempójú kerékpározáshoz.",
+          "Vigyen magával vizet az Ermita kápolnához vezető útra."
+        ],
+        "ro": [
+          "Distanțele sunt scurte, perfecte pentru mersul pe bicicletă relaxat.",
+          "Luați suficientă apă pentru traseul spre Ermita."
+        ],
+        "en": [
+          "Distances are short, making it perfect for leisurely cycling.",
+          "Bring enough water when riding out to the Ermita."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plaza de la Villa",
+          "coords": [
+            -1.134,
+            42.128
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier in der Nähe für den ersten Rundgang.",
+            "hu": "Parkoljon le a közelben az első sétához.",
+            "ro": "Parcați în apropiere pentru prima plimbare.",
+            "en": "Park nearby for your first walking cluster."
+          }
+        },
+        {
+          "name": "Kirche Santa María",
+          "coords": [
+            -1.1345,
+            42.1275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Platz entfernt.",
+            "hu": "Csak néhány lépésre a főtértől.",
+            "ro": "La doar câțiva pași de piața centrală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": "Barrio del Cinto",
+          "coords": [
+            -1.133,
+            42.1285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das historische Viertel erkundet man am besten zu Fuß.",
+            "hu": "A történelmi negyed gyalog a leghangulatosabb.",
+            "ro": "Cartierul istoric este cel mai bine explorat pe jos.",
+            "en": "The historic quarter is best explored on foot."
+          }
+        },
+        {
+          "name": "Museum Aquagraria",
+          "coords": [
+            -1.125,
+            42.122
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum zweiten Cluster. Großzügige Parkplätze am Museum.",
+            "hu": "Utazás a második klaszterbe. Bőséges parkoló a múzeumnál.",
+            "ro": "Conduceți spre al doilea cluster. Parcare generoasă la muzeu.",
+            "en": "Drive to the second cluster. Generous parking at the museum."
+          }
+        },
+        {
+          "name": "Parque Lineal del Gancho",
+          "coords": [
+            -1.13,
+            42.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und laufen Sie in den Park.",
+            "hu": "Hagyja az autót a múzeumnál, és sétáljon át a parkba.",
+            "ro": "Lăsați mașina la muzeu și faceți o plimbare până în parc.",
+            "en": "Leave the car parked and stroll over to the park."
+          }
+        },
+        {
+          "name": "Ermita de la Virgen de la Oliva",
+          "coords": [
+            -1.14,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Autofahrt zum Abschluss des Tages.",
+            "hu": "Rövid autóút a nap zárásaként a kápolnához.",
+            "ro": "O scurtă călătorie cu mașina pentru încheierea zilei.",
+            "en": "A short drive to conclude your day trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Kombination aus kurzen Autofahrten und Spaziergängen ist hier ideal. Nach dem Parken im Zentrum erkunden Sie die historische Plaza de la Villa und das Barrio del Cinto zu Fuß. Später fahren Sie zum Aquagraria-Museum, von wo aus sich ein Spaziergang im angrenzenden Park anbietet. Den Abschluss bildet die Ermita außerhalb.",
+        "hu": "Az autós és gyalogos szakaszok kombinációja ideális Ejea felfedezéséhez. A központban parkolva sétálja be a történelmi Plaza de la Villa-t és a Barrio del Cinto-t. Ezután vezessen át az Aquagraria Múzeumhoz, ahonnan elsétálhat a szomszédos parkba. A napot az agglomerációban lévő Ermita kápolna zárja.",
+        "ro": "Combinația de scurte călătorii cu mașina și plimbări este ideală aici. Parcați în centru pentru a explora Plaza de la Villa și Barrio del Cinto pe jos. Apoi conduceți spre Muzeul Aquagraria, urmat de o plimbare în parcul alăturat. Ziua se încheie cu o scurtă deplasare spre Ermita.",
+        "en": "Combining short drives with walking clusters is perfect for Ejea. Park in the center to explore the historic Plaza de la Villa and Barrio del Cinto on foot. Later, drive to the Aquagraria Museum, taking a stroll to the adjacent park afterwards. Conclude with a scenic drive to the Ermita."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boliches (Bohnen)",
+            "tip": "Probieren Sie diesen lokalen Eintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boliches",
+            "tip": "Helyi fehérbab pörkölt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boliches",
+            "tip": "O tocană locală delicioasă din fasole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boliches",
+            "tip": "A hearty local white bean stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de la Virgen",
+            "tip": "Toller Ausblick in ruhiger Lage.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de la Virgen",
+            "tip": "Kiváló kilátás csendes környezetben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermita de la Virgen",
+            "tip": "Priveliște minunată într-o zonă liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermita de la Virgen",
+            "tip": "Great view in a tranquil setting.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus Aragón",
+            "tip": "Eine Flasche Garnacha als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aragóniai bor",
+            "tip": "Egy üveg helyi Garnacha tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin din Aragon",
+            "tip": "O sticlă de Garnacha ca amintire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aragonese Wine",
+            "tip": "A bottle of local Garnacha makes a great gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie das Auto im Zentrum stehen und laufen Sie zwischen den Kirchen.",
+          "Die Straßen im alten Barrio sind für große Autos sehr eng."
+        ],
+        "hu": [
+          "Hagyja a központban az autót, és sétáljon a templomok között.",
+          "A régi negyed utcái meglehetősen szűkek a nagyobb autók számára."
+        ],
+        "ro": [
+          "Lăsați mașina în centru și plimbați-vă între biserici.",
+          "Străzile din vechiul cartier sunt prea înguste pentru mașinile mari."
+        ],
+        "en": [
+          "Leave the car centrally parked and walk between the historical churches.",
+          "The streets in the old Barrio are quite narrow for large vehicles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Barrio del Cinto",
+          "coords": [
+            -1.133,
+            42.1285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Stadtbummel direkt an der Bushaltestelle im Zentrum.",
+            "hu": "Kezdje a városnézést egyenesen a központi buszmegállóból.",
+            "ro": "Începeți plimbarea din stația de autobuz centrală.",
+            "en": "Start your walk straight from the central bus stop."
+          }
+        },
+        {
+          "name": "Haus der fünf Villen",
+          "coords": [
+            -1.1335,
+            42.1282
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zu diesem architektonischen Highlight.",
+            "hu": "Rövid séta ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare până la această atracție arhitecturală.",
+            "en": "A short walk to this architectural highlight."
+          }
+        },
+        {
+          "name": "Kirche San Salvador",
+          "coords": [
+            -1.1325,
+            42.129
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das massive Äußere verbirgt ein wunderschönes Portal.",
+            "hu": "A masszív külső egy csodálatos portálét rejt.",
+            "ro": "Exteriorul masiv ascunde un portal superb.",
+            "en": "The massive exterior hides a beautiful portal."
+          }
+        },
+        {
+          "name": "Museum Aquagraria",
+          "coords": [
+            -1.125,
+            42.122
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus, um zum Museum zu gelangen.",
+            "hu": "Szálljon fel a helyi buszra a múzeum felé.",
+            "ro": "Luați autobuzul local pentru a ajunge la muzeu.",
+            "en": "Take the local bus to reach the agricultural museum."
+          }
+        },
+        {
+          "name": "Parque Lineal del Gancho",
+          "coords": [
+            -1.13,
+            42.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Museum in den Park schlendern.",
+            "hu": "Sétáljon át a múzeumból ebbe a tágas parkba.",
+            "ro": "Plimbați-vă de la muzeu până în parc.",
+            "en": "Stroll down from the museum into this spacious park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich die Stadt im Cluster-Prinzip gut erleben. Man startet im alten Zentrum, das man bequem erläuft. Für die etwas längere Strecke zum Landwirtschaftsmuseum Aquagraria nutzt man den Stadtbus, wonach man den Nachmittag mit einem Spaziergang im angrenzenden Park ausklingen lässt.",
+        "hu": "A tömegközlekedés és a sétálós klaszterek jól kombinálhatók Ejeában. A történelmi városmag gyalogosan fedezhető fel leginkább, míg az Aquagraria Múzeumhoz érdemes a helyi buszjáratot választani. A tartalmas nap végén egy rövid sétával jutunk át a közeli, zöldellő parkba.",
+        "ro": "Transportul public combinat cu plimbări în zonele de interes funcționează de minune aici. Explorați centrul istoric pe jos, apoi luați autobuzul spre Muzeul Aquagraria. Mai târziu, vă puteți relaxa mergând pe jos până la parcul învecinat, perfect pentru finalul zilei.",
+        "en": "Public transit and walking clusters blend perfectly in Ejea. Explore the dense historic center entirely on foot before hopping on a local bus out to the vast Aquagraria Museum. Afterwards, a short walk brings you to the neighboring park, a great place to wind down."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas-Bar im Zentrum",
+            "tip": "Holen Sie sich kleine Snacks nahe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas bár a központban",
+            "tip": "Gyors falatok a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar de tapas în centru",
+            "tip": "Gustări rapide lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Tapas Bar",
+            "tip": "Grab quick bites right near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Sitzbänke im Schatten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Árnyas padok a fák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Bănci la umbră perfecte pentru citit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque Lineal del Gancho",
+            "tip": "Shady benches perfect for a rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frisches lokales Obst und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss helyi zöldségek és gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete de la fermieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh local fruits and vegetables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Buszeiten zum Museum, da sie mittags seltener fahren.",
+          "Ein Tagesticket lohnt sich oft nicht für nur eine Fahrt."
+        ],
+        "hu": [
+          "Előre ellenőrizze a múzeumhoz közlekedő buszok menetrendjét.",
+          "Néhány vonaljárat délben ritkábban közlekedhet a szieszta miatt."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor spre muzeu, pot fi mai rare la prânz.",
+          "S-ar putea ca abonamentul de o zi să nu fie necesar pentru o singură cursă."
+        ],
+        "en": [
+          "Check bus schedules to the museum in advance, as midday service can be sparse.",
+          "A day pass might not be worth it if you are only taking one transit ride."
+        ]
+      }
+    }
+  }
+}

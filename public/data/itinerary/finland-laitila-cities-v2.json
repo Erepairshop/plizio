@@ -1,0 +1,1519 @@
+{
+  "city_id": "finland-laitila-cities-v2",
+  "anchor": {
+    "name": "Laitila",
+    "coords": [
+      60.875,
+      21.6917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirkkopuisto Park",
+            "hu": "Kirkkopuisto Park",
+            "ro": "Parcul Kirkkopuisto",
+            "en": "Kirkkopuisto Park"
+          },
+          "coords": [
+            60.876,
+            21.692
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang und genießen Sie die morgendliche Stille.",
+            "hu": "Kezdje a napot egy csendes sétával, és élvezze a reggeli nyugalmat.",
+            "ro": "Începeți ziua cu o plimbare liniștită și bucurați-vă de calmul dimineții.",
+            "en": "Start your day with a quiet walk and enjoy the morning tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            60.8765,
+            21.6935
+          ],
+          "category": "churches",
+          "arrive_at": "10:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Steindetails und die einzigartige Deckenmalerei.",
+            "hu": "Figyelje meg a középkori kő részleteket és az egyedi mennyezetfestményeket.",
+            "ro": "Fiți atenți la detaliile medievale din piatră și la picturile unice de pe tavan.",
+            "en": "Look for the medieval stone details and the unique ceiling paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Friedhof",
+            "hu": "Régi temető",
+            "ro": "Cimitirul Vechi",
+            "en": "Old Cemetery"
+          },
+          "coords": [
+            60.877,
+            21.695
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Geschichte. Viele alte Grabsteine erzählen Geschichten vergangener Zeiten.",
+            "hu": "A csend és a történelem helye. Sok régi sírkő mesél a régmúlt időkről.",
+            "ro": "Un loc al tăcerii și istoriei. Multe pietre funerare vechi spun poveștile timpurilor trecute.",
+            "en": "A place of silence and history. Many old tombstones tell tales of past times."
+          }
+        },
+        {
+          "name": {
+            "de": "Poukan Talo",
+            "hu": "Pouka-ház",
+            "ro": "Casa Pouka",
+            "en": "Pouka House"
+          },
+          "coords": [
+            60.878,
+            21.69
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erleben Sie, wie eine wohlhabende Bauernfamilie im 19. Jahrhundert lebte.",
+            "hu": "Tapasztalja meg, hogyan élt egy jómódú gazda család a 19. században.",
+            "ro": "Experimentați cum trăia o familie de țărani înstăriți în secolul al XIX-lea.",
+            "en": "Experience how a wealthy peasant family lived in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauppila Geschlossener Hof",
+            "hu": "Kauppila Zárt Udvar Múzeum",
+            "ro": "Curtea-fermă Kauppila",
+            "en": "Kauppila Enclosed Farmstead"
+          },
+          "coords": [
+            60.885,
+            21.7
+          ],
+          "category": "museums",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um alle Gebäude dieses einzigartigen Hofmuseums zu erkunden.",
+            "hu": "Tervezzen elegendő időt, hogy felfedezze ennek az egyedülálló udvarmúzeumnak minden épületét.",
+            "ro": "Planificați suficient timp pentru a explora toate clădirile acestui muzeu unic.",
+            "en": "Allow enough time to explore all the buildings of this unique farmstead museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Untamala Dorf",
+            "hu": "Untamala Falu",
+            "ro": "Satul arheologic Untamala",
+            "en": "Untamala Village"
+          },
+          "coords": [
+            60.925,
+            21.71
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch dieses archäologische Dorf fühlt sich an wie eine Zeitreise in die Eisenzeit.",
+            "hu": "Egy séta ebben a régészeti faluban olyan, mint egy időutazás a vaskorba.",
+            "ro": "O plimbare prin acest sat arheologic se simte ca o călătorie înapoi în Epoca Fierului.",
+            "en": "A walk through this archaeological village feels like a journey back to the Iron Age."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Laitila beginnt im grünen Herzen der Stadt, dem Kirkkopuisto Park, gefolgt von der Erkundung der mittelalterlichen St. Michael-Kirche. Der Vormittag führt Sie weiter durch die Geschichte, vorbei am Alten Friedhof zum beeindruckenden Poukan Talo, das Einblicke in das Leben des 19. Jahrhunderts bietet. Nach dem Mittagessen tauchen Sie im Hofmuseum Kauppila tief in die bäuerliche Kultur ein. Der Nachmittag ist einer Zeitreise in die Eisenzeit im archäologischen Dorf Untamala gewidmet, ein faszinierender Abschluss. Am Abend lassen Sie die Eindrücke bei einem lokalen Abendessen Revue passieren.",
+        "hu": "Laitilai napja a város zöld szívében, a Kirkkopuisto Parkban kezdődik, majd a középkori Szent Mihály-templom felfedezésével folytatódik. A délelőtt a történelmen vezeti keresztül, elhaladva a Régi temető mellett a lenyűgöző Pouka-házig, amely bepillantást enged a 19. századi életbe. Ebéd után a Kauppila udvarmúzeumban mélyül el a paraszti kultúrában. A délután egy időutazás a vaskorba az Untamala régészeti faluban, ami lenyűgöző befejezés. Este egy helyi vacsora mellett eleveníti fel az élményeket.",
+        "ro": "Ziua dumneavoastră în Laitila începe în inima verde a orașului, Parcul Kirkkopuisto, urmată de explorarea bisericii medievale Sf. Mihail. Dimineața vă poartă mai departe prin istorie, trecând pe lângă Cimitirul Vechi spre impresionanta Casă Pouka, care oferă o perspectivă asupra vieții din secolul al XIX-lea. După prânz, vă veți cufunda în cultura țărănească la muzeul fermă Kauppila. După-amiaza este dedicată unei călătorii în timp în Epoca Fierului în satul arheologic Untamala, un final fascinant. Seara, rememorați impresiile la o cină locală.",
+        "en": "Your day in Laitila starts in the green heart of the city, Kirkkopuisto Park, followed by exploring the medieval St. Michael's Church. The morning takes you further through history, past the Old Cemetery to the impressive Pouka House, offering a glimpse into 19th-century life. After lunch, delve deep into peasant culture at the Kauppila farmstead museum. The afternoon is dedicated to a journey back to the Iron Age in the Untamala archaeological village, a fascinating conclusion. In the evening, review the day's impressions over a local dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kalakukko",
+            "tip": "Ein traditioneller finnischer Fisch-im-Brot-Kuchen. Suchen Sie nach lokalen Bäckereien."
+          },
+          {
+            "name": "Lihapiirakka",
+            "tip": "Ein herzhafter Fleischpastete, perfekt für ein schnelles Mittagessen."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Zimtschnecken, die Sie in jedem Café finden und die perfekt zu einer Tasse Kaffee passen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalakukko",
+            "tip": "Hagyományos finn, kenyérben sült halas pite. Keresse a helyi pékségekben."
+          },
+          {
+            "name": "Lihapiirakka",
+            "tip": "Kiadós húsos pite, tökéletes egy gyors ebédhez."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Fahéjas csiga, amit minden kávézóban megtalál, és tökéletesen illik egy csésze kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kalakukko",
+            "tip": "O plăcintă tradițională finlandeză cu pește în crustă de pâine. Căutați-o la brutăriile locale."
+          },
+          {
+            "name": "Lihapiirakka",
+            "tip": "O plăcintă cu carne sățioasă, perfectă pentru un prânz rapid."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Rulouri cu scorțișoară pe care le veți găsi în orice cafenea, perfecte cu o ceașcă de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalakukko",
+            "tip": "A traditional Finnish fish-in-a-loaf pie. Look for it in local bakeries."
+          },
+          {
+            "name": "Lihapiirakka",
+            "tip": "A hearty meat pie, perfect for a quick lunch."
+          },
+          {
+            "name": "Korvapuusti",
+            "tip": "Cinnamon buns you'll find in any café, perfect with a cup of coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Laitilanjoki",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein Ort der Stille, umgeben von Geschichte und alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abend im Kirkkopuisto",
+            "tip": "Finden Sie eine Bank und genießen Sie die friedliche Abendstimmung im Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laitilanjoki folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "A csend helye, történelemmel és öreg fákkal körülvéve.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Este a Kirkkopuistóban",
+            "tip": "Keressen egy padot, és élvezze a park békés esti hangulatát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Laitilanjoki",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un loc de liniște, înconjurat de istorie și copaci bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seara în Kirkkopuisto",
+            "tip": "Găsiți o bancă și bucurați-vă de atmosfera pașnică a serii în parc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Laitilanjoki River",
+            "tip": "A quiet walk along the river that flows through the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A place of silence, surrounded by history and old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening in Kirkkopuisto",
+            "tip": "Find a bench and enjoy the peaceful evening atmosphere in the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach kleinen Geschäften, die handgefertigte Waren aus der Region anbieten."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Falls einer stattfindet, ist der Markt der beste Ort, um lokale Produkte und Delikatessen zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis boltokat, amelyek helyi, kézzel készített árukat kínálnak."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha van, a piac a legjobb hely a helyi termékek és finomságok megtalálására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați magazine mici care oferă produse artizanale din regiune."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă este deschisă, piața este cel mai bun loc pentru a găsi produse și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for small shops offering handmade goods from the region."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If one is happening, the market is the best place to find local produce and delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages auf den Beinen sein werden.",
+          "Ein kleiner Regenschirm ist immer eine gute Idee, das finnische Wetter kann unvorhersehbar sein.",
+          "Nehmen Sie sich Zeit für eine Kaffeepause (kahvitauko) mit einem Korvapuusti, das ist ein Muss in Finnland.",
+          "Die meisten Museen haben montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részét talpon fogja tölteni.",
+          "Egy kis esernyő mindig jó ötlet, a finn időjárás kiszámíthatatlan lehet.",
+          "Szánjon időt egy kávészünetre (kahvitauko) egy Korvapuusti-val, ez kötelező Finnországban.",
+          "A legtöbb múzeum hétfőn zárva tart, előre ellenőrizze a nyitvatartási időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare cea mai mare parte a zilei.",
+          "O umbrelă mică este întotdeauna o idee bună, vremea finlandeză poate fi imprevizibilă.",
+          "Faceți-vă timp pentru o pauză de cafea (kahvitauko) cu un Korvapuusti, este o necesitate în Finlanda.",
+          "Majoritatea muzeelor sunt închise lunea, verificați programul în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet for most of the day.",
+          "A small umbrella is always a good idea; Finnish weather can be unpredictable.",
+          "Make time for a coffee break (kahvitauko) with a Korvapuusti, it's a must in Finland.",
+          "Most museums are closed on Mondays, so check opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtbibliothek Laitila",
+            "hu": "Laitilai Városi Könyvtár",
+            "ro": "Biblioteca Municipală Laitila",
+            "en": "Laitila Town Library"
+          },
+          "coords": [
+            60.8785,
+            21.689
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein moderner Treffpunkt. Werfen Sie einen Blick auf die finnische Architektur.",
+            "hu": "Modern találkozóhely. Vessen egy pillantást a finn építészetre.",
+            "ro": "Un loc de întâlnire modern. Aruncați o privire la arhitectura finlandeză.",
+            "en": "A modern meeting point. Take a look at the Finnish architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Poukan Talo",
+            "hu": "Pouka-ház",
+            "ro": "Casa Pouka",
+            "en": "Pouka House"
+          },
+          "coords": [
+            60.878,
+            21.69
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Fahrrad kurz stehen und tauchen Sie ein in das bäuerliche Leben des 19. Jahrhunderts.",
+            "hu": "Tegye le a biciklit egy percre, és merüljön el a 19. századi paraszti életben.",
+            "ro": "Lăsați bicicleta pentru o clipă și cufundați-vă în viața țărănească din secolul al XIX-lea.",
+            "en": "Leave the bike for a moment and immerse yourself in 19th-century peasant life."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            60.8765,
+            21.6935
+          ],
+          "category": "churches",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese mittelalterliche Steinkirche ist ein Muss für Geschichtsliebhaber.",
+            "hu": "Ez a középkori kőtemplom kötelező a történelem kedvelőinek.",
+            "ro": "Această biserică medievală din piatră este o necesitate pentru iubitorii de istorie.",
+            "en": "This medieval stone church is a must-see for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirkkopuisto Park",
+            "hu": "Kirkkopuisto Park",
+            "ro": "Parcul Kirkkopuisto",
+            "en": "Kirkkopuisto Park"
+          },
+          "coords": [
+            60.876,
+            21.692
+          ],
+          "category": "parks",
+          "arrive_at": "11:18",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine kurze Pause im Grünen, bevor die Radtour weitergeht.",
+            "hu": "Egy rövid pihenő a zöldben, mielőtt a kerékpártúra folytatódik.",
+            "ro": "O scurtă pauză în parc înainte de a continua turul cu bicicleta.",
+            "en": "A short break in the green before the bike tour continues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauppila Geschlossener Hof",
+            "hu": "Kauppila Zárt Udvar Múzeum",
+            "ro": "Curtea-fermă Kauppila",
+            "en": "Kauppila Enclosed Farmstead"
+          },
+          "coords": [
+            60.885,
+            21.7
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Hier können Sie leicht zwei Stunden verbringen, um die reiche Geschichte zu entdecken.",
+            "hu": "Könnyen eltölthet itt két órát, hogy felfedezze a gazdag történelmet.",
+            "ro": "Puteți petrece cu ușurință două ore aici pentru a descoperi istoria bogată.",
+            "en": "You can easily spend two hours here discovering the rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Untamala Dorf",
+            "hu": "Untamala Falu",
+            "ro": "Satul arheologic Untamala",
+            "en": "Untamala Village"
+          },
+          "coords": [
+            60.925,
+            21.71
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher lohnt sich. Die Atmosphäre ist einzigartig.",
+            "hu": "Megéri ide elkerekezni. A hangulat egyedülálló.",
+            "ro": "Merită să veniți cu bicicleta până aici. Atmosfera este unică.",
+            "en": "The bike ride here is worth it. The atmosphere is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Soukainen Siedlung",
+            "hu": "Soukainen ősi település",
+            "ro": "Așezarea Soukainen",
+            "en": "Soukainen Settlement"
+          },
+          "coords": [
+            60.935,
+            21.72
+          ],
+          "category": "historical",
+          "arrive_at": "16:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste einer noch älteren Siedlung und genießen Sie die Aussicht.",
+            "hu": "Fedezze fel egy még régebbi település maradványait és élvezze a kilátást.",
+            "ro": "Descoperiți rămășițele unei așezări și mai vechi și bucurați-vă de priveliște.",
+            "en": "Discover the remains of an even older settlement and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet bei der modernen Bibliothek, bevor Sie zum historischen Poukan Talo und der St. Michael-Kirche weiterradeln. Eine kurze Pause im Kirkkopuisto bietet Erfrischung. Der Vormittag gipfelt im faszinierenden Hofmuseum Kauppila. Nach dem Mittagessen unternehmen Sie eine längere Radtour in die Vergangenheit, zum archäologischen Dorf Untamala. Der Höhepunkt des Nachmittags ist die Erkundung der alten Soukainen-Siedlung, die mit einer tollen Aussicht belohnt. Der Abend klingt gemütlich im Stadtzentrum aus.",
+        "hu": "Kerékpártúrája a modern könyvtárnál kezdődik, mielőtt a történelmi Pouka-házhoz és a Szent Mihály-templomhoz teker. Egy rövid pihenő a Kirkkopuistóban felüdülést nyújt. A délelőtt a lenyűgöző Kauppila udvarmúzeumban csúcsosodik ki. Ebéd után egy hosszabb kerékpártúrát tesz a múltba, az Untamala régészeti faluhoz. A délután csúcspontja az ősi Soukainen település felfedezése, amelyet remek kilátás jutalmaz. Az este hangulatosan ér véget a városközpontban.",
+        "ro": "Turul cu bicicleta începe la biblioteca modernă, înainte de a pedala spre istorica Casă Pouka și Biserica Sf. Mihail. O scurtă pauză în Parcul Kirkkopuisto oferă o gură de aer proaspăt. Dimineața culminează la fascinantul muzeu fermă Kauppila. După prânz, faceți o plimbare mai lungă cu bicicleta în trecut, la satul arheologic Untamala. Punctul culminant al după-amiezii este explorarea vechii așezări Soukainen, care vă recompensează cu o priveliște superbă. Seara se încheie plăcut în centrul orașului.",
+        "en": "Your bike tour starts at the modern library before cycling on to the historic Pouka House and St. Michael's Church. A short break in Kirkkopuisto Park offers refreshment. The morning culminates at the fascinating Kauppila farmstead museum. After lunch, you'll take a longer bike ride into the past, to the Untamala archaeological village. The highlight of the afternoon is exploring the ancient Soukainen settlement, which rewards you with great views. The evening ends comfortably in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grillimakkara",
+            "tip": "Finnische Grillwurst, oft auf Märkten oder bei Outdoor-Veranstaltungen erhältlich."
+          },
+          {
+            "name": "Roggenbrot (Ruisleipä)",
+            "tip": "Ein Grundnahrungsmittel. Probieren Sie es mit lokaler Butter und Käse."
+          },
+          {
+            "name": "Beerenkuchen",
+            "tip": "Im Sommer finden Sie überall Kuchen mit frischen finnischen Beeren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillimakkara",
+            "tip": "Finn grillkolbász, gyakran kapható piacokon vagy szabadtéri rendezvényeken."
+          },
+          {
+            "name": "Rozskenyér (Ruisleipä)",
+            "tip": "Alapvető élelmiszer. Próbálja ki helyi vajjal és sajttal."
+          },
+          {
+            "name": "Bogyós pite",
+            "tip": "Nyáron mindenhol talál pitéket friss finn bogyókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grillimakkara",
+            "tip": "Cârnați la grătar finlandezi, adesea disponibili la piețe sau evenimente în aer liber."
+          },
+          {
+            "name": "Pâine de secară (Ruisleipä)",
+            "tip": "Un aliment de bază. Încercați-o cu unt și brânză locală."
+          },
+          {
+            "name": "Plăcintă cu fructe de pădure",
+            "tip": "Vara veți găsi peste tot plăcinte cu fructe de pădure proaspete finlandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grillimakkara",
+            "tip": "Finnish grilled sausage, often available at markets or outdoor events."
+          },
+          {
+            "name": "Rye Bread (Ruisleipä)",
+            "tip": "A staple food. Try it with local butter and cheese."
+          },
+          {
+            "name": "Berry Pie",
+            "tip": "In summer, you'll find pies made with fresh Finnish berries everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg nach Untamala",
+            "tip": "Die Fahrt durch die finnische Landschaft ist an sich schon ein friedliches Erlebnis.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Soukainen Aussichtspunkt",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einem weiten Blick belohnt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Später Nachmittag im Kirkkopuisto",
+            "tip": "Der Park ist später am Tag oft ruhiger, ideal für eine letzte Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút Untamala felé",
+            "tip": "Az út a finn tájon keresztül önmagában is békés élmény.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Soukainen kilátópont",
+            "tip": "A mászás után csend és széles kilátás a jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Késő délután a Kirkkopuistóban",
+            "tip": "A park később gyakran csendesebb, ideális egy utolsó pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete spre Untamala",
+            "tip": "Plimbarea prin peisajul finlandez este o experiență pașnică în sine.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Punct de belvedere Soukainen",
+            "tip": "După urcare, veți fi răsplătit cu liniște și o priveliște vastă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "După-amiază târzie în Kirkkopuisto",
+            "tip": "Parcul este adesea mai liniștit mai târziu în zi, ideal pentru o ultimă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path to Untamala",
+            "tip": "The ride through the Finnish countryside is a peaceful experience in itself.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Soukainen viewpoint",
+            "tip": "After the climb, you are rewarded with silence and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Late afternoon in Kirkkopuisto",
+            "tip": "The park is often quieter later in the day, ideal for a final break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Vielleicht finden Sie in einem lokalen Geschäft ein nützliches Souvenir für Ihre Radtouren zu Hause."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes und authentisches Mitbringsel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros kiegészítők",
+            "tip": "Talán talál egy helyi boltban egy hasznos emléktárgyat az otthoni kerékpártúrákhoz."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes és autentikus ajándék a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Poate găsiți un suvenir util pentru tururile cu bicicleta de acasă într-un magazin local."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce și autentic din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling accessories",
+            "tip": "You might find a useful souvenir for your bike tours back home in a local shop."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "A sweet and authentic souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ausreichend Wasser und ein paar Snacks für die längeren Strecken mit.",
+          "Finnland ist fahrradfreundlich, aber achten Sie immer auf den Verkehr, besonders auf Landstraßen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "A sisak viselése erősen ajánlott.",
+          "Vigyen elegendő vizet és néhány harapnivalót a hosszabb szakaszokra.",
+          "Finnország kerékpárbarát, de mindig figyeljen a forgalomra, különösen az országutakon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Se recomandă insistent purtarea unei căști.",
+          "Luați suficientă apă și câteva gustări pentru porțiunile mai lungi.",
+          "Finlanda este prietenoasă cu bicicliștii, dar fiți întotdeauna atenți la trafic, mai ales pe drumurile de țară."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is strongly recommended.",
+          "Bring enough water and some snacks for the longer stretches.",
+          "Finland is bike-friendly, but always be aware of traffic, especially on country roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 21.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Laitila Zentrum",
+            "hu": "1. klaszter: Laitila központ",
+            "ro": "Cluster 1: Centrul Laitila",
+            "en": "Cluster 1: Laitila Center"
+          },
+          "coords": [
+            60.877,
+            21.691
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und erkunden Sie die Sehenswürdigkeiten des Zentrums zu Fuß.",
+            "hu": "Parkoljon le a közelben, és fedezze fel gyalog a központ látnivalóit.",
+            "ro": "Parcați mașina în apropiere și explorați atracțiile din centru pe jos.",
+            "en": "Park your car nearby and explore the central sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            60.8765,
+            21.6935
+          ],
+          "category": "churches",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Kirche ist oft der Ausgangspunkt für einen historischen Spaziergang durch die Stadt.",
+            "hu": "A templom gyakran a kiindulópontja a városon átvezető történelmi sétának.",
+            "ro": "Biserica este adesea punctul de plecare pentru o plimbare istorică prin oraș.",
+            "en": "The church is often the starting point for a historical walk through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Poukan Talo",
+            "hu": "Pouka-ház",
+            "ro": "Casa Pouka",
+            "en": "Pouka House"
+          },
+          "coords": [
+            60.878,
+            21.69
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche entfernt, bietet dieses Haus einen tiefen Einblick in die Vergangenheit.",
+            "hu": "A templomtól rövid sétára található ház mély betekintést nyújt a múltba.",
+            "ro": "La o scurtă plimbare de biserică, această casă oferă o perspectivă profundă asupra trecutului.",
+            "en": "A short walk from the church, this house offers a deep insight into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kauppila & Umgebung",
+            "hu": "2. klaszter: Kauppila és környéke",
+            "ro": "Cluster 2: Kauppila și împrejurimile",
+            "en": "Cluster 2: Kauppila & Surroundings"
+          },
+          "coords": [
+            60.885,
+            21.7
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hofmuseum und parken Sie dort für den nächsten Teil Ihrer Erkundung.",
+            "hu": "Hajtson az udvarmúzeumhoz, és parkoljon le a felfedezés következő részéhez.",
+            "ro": "Conduceți la muzeul fermă și parcați acolo pentru următoarea parte a explorării.",
+            "en": "Drive to the farmstead museum and park there for the next part of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauppila Geschlossener Hof",
+            "hu": "Kauppila Zárt Udvar Múzeum",
+            "ro": "Curtea-fermă Kauppila",
+            "en": "Kauppila Enclosed Farmstead"
+          },
+          "coords": [
+            60.885,
+            21.701
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist ein idealer Ort für eine Mittagspause, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Ideális hely egy ebédszünetre, mielőtt folytatná útját.",
+            "ro": "Acesta este un loc ideal pentru o pauză de prânz înainte de a vă continua călătoria.",
+            "en": "This is an ideal spot for a lunch break before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Eisenzeitliche Geschichte",
+            "hu": "3. klaszter: Vaskori történelem",
+            "ro": "Cluster 3: Istoria Epocii Fierului",
+            "en": "Cluster 3: Iron Age History"
+          },
+          "coords": [
+            60.925,
+            21.71
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 0,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine längere Fahrt bringt Sie tief in die Geschichte der Region. Parken Sie und bereiten Sie sich auf einen Spaziergang vor.",
+            "hu": "Egy hosszabb út mélyen a régió történelmébe vezet. Parkoljon le, és készüljön egy sétára.",
+            "ro": "O călătorie mai lungă vă va duce adânc în istoria regiunii. Parcați și pregătiți-vă pentru o plimbare.",
+            "en": "A longer drive takes you deep into the region's history. Park and prepare for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Untamala Dorf",
+            "hu": "Untamala Falu",
+            "ro": "Satul arheologic Untamala",
+            "en": "Untamala Village"
+          },
+          "coords": [
+            60.9255,
+            21.711
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre dieses alten Ortes, während Sie durch die rekonstruierten Gebäude wandern.",
+            "hu": "Érezze át ennek az ősi helynek a hangulatát, miközben a rekonstruált épületek között sétál.",
+            "ro": "Simțiți atmosfera acestui loc vechi în timp ce vă plimbați printre clădirile reconstruite.",
+            "en": "Feel the atmosphere of this ancient place as you wander through the reconstructed buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Soukainen Siedlung",
+            "hu": "Soukainen ősi település",
+            "ro": "Așezarea Soukainen",
+            "en": "Soukainen Settlement"
+          },
+          "coords": [
+            60.935,
+            21.72
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang hierher lohnt sich für die Aussicht und das Gefühl, auf historischem Boden zu stehen.",
+            "hu": "Megéri ide elsétálni a kilátásért és azért az érzésért, hogy történelmi földön áll.",
+            "ro": "Plimbarea până aici merită pentru priveliște și pentru sentimentul de a fi pe un teren istoric.",
+            "en": "The walk here is worth it for the view and the feeling of standing on historic ground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Zentrum von Laitila, wo Sie parken und zu Fuß die St. Michael-Kirche und das Poukan Talo erkunden. Dieser erste Spaziergang gibt Ihnen ein Gefühl für die Stadt. Anschließend fahren Sie zum Hofmuseum Kauppila, einem idealen Ort für das Mittagessen und eine tiefe Auseinandersetzung mit der lokalen Kultur. Der Nachmittag steht im Zeichen der Archäologie: eine längere Fahrt führt Sie zum Cluster Untamala und Soukainen, wo Sie zwischen eisenzeitlichen Siedlungen spazieren. Dieser Kontrast zwischen Stadtzentrum und ländlicher Geschichte macht den Tag aus. Beenden Sie den Tag mit einer Rückfahrt ins Zentrum für ein entspanntes Abendessen.",
+        "hu": "Autós napja Laitila központjában kezdődik, ahol leparkol, és gyalog fedezi fel a Szent Mihály-templomot és a Pouka-házat. Ez az első séta megadja a város hangulatát. Ezután a Kauppila udvarmúzeumhoz hajt, amely ideális hely ebédre és a helyi kultúra mélyebb megismerésére. A délután a régészet jegyében telik: egy hosszabb út vezet az Untamala és Soukainen klaszterhez, ahol vaskori települések között sétálhat. A városközpont és a vidéki történelem kontrasztja teszi különlegessé a napot. Zárja a napot egy visszaúttal a központba egy pihentető vacsorára.",
+        "ro": "Ziua cu mașina începe în centrul orașului Laitila, unde parcați și explorați pe jos Biserica Sf. Mihail și Casa Pouka. Această primă plimbare vă va oferi o imagine a orașului. Apoi, conduceți la muzeul fermă Kauppila, un loc ideal pentru prânz și o imersiune profundă în cultura locală. După-amiaza este dedicată arheologiei: o călătorie mai lungă vă duce la clusterul Untamala și Soukainen, unde vă veți plimba printre așezări din Epoca Fierului. Acest contrast între centrul orașului și istoria rurală definește ziua. Încheiați ziua întorcându-vă în centru pentru o cină relaxantă.",
+        "en": "Your car day begins in the center of Laitila, where you park and explore St. Michael's Church and Pouka House on foot. This first walk gives you a feel for the town. Then, drive to the Kauppila farmstead museum, an ideal place for lunch and a deep dive into local culture. The afternoon is all about archaeology: a longer drive takes you to the Untamala and Soukainen cluster, where you'll walk among Iron Age settlements. This contrast between the town center and rural history makes the day. End the day by driving back to the center for a relaxed dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rentier-Eintopf",
+            "tip": "Ein herzhaftes und traditionelles Gericht, suchen Sie nach Restaurants mit finnischer Küche."
+          },
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Karelische Piroggen, oft mit Eibutter serviert. Ein leckerer Snack."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach regionalen Brauereien, um einen authentischen Geschmack zu bekommen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rénszarvaspörkölt",
+            "tip": "Kiadós és hagyományos étel, keressen finn konyhával rendelkező éttermeket."
+          },
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Karéliai pirog, gyakran tojásvajjal tálalva. Finom snack."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérdezzen rá a regionális sörfőzdékre, hogy autentikus ízt kapjon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocană de ren",
+            "tip": "Un fel de mâncare consistent și tradițional, căutați restaurante cu specific finlandez."
+          },
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Gogoși careliene, adesea servite cu unt de ou. O gustare delicioasă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați despre berăriile regionale pentru a obține un gust autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reindeer Stew",
+            "tip": "A hearty and traditional dish, look for restaurants with Finnish cuisine."
+          },
+          {
+            "name": "Karjalanpiirakka",
+            "tip": "Karelian pasties, often served with egg butter. A delicious snack."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask about regional breweries to get an authentic taste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Landschaft",
+            "tip": "Die Fahrt zwischen den Clustern bietet eine wunderbare Gelegenheit, die ruhige finnische Natur zu genießen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Soukainen Hügel",
+            "tip": "Ein perfekter Ort, um die Weite der Landschaft auf sich wirken zu lassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang in Untamala",
+            "tip": "Die historische Stätte strahlt eine besondere Ruhe aus, besonders am späten Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a tájon át",
+            "tip": "A klaszterek közötti út csodálatos lehetőséget nyújt a csendes finn természet élvezetére.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Soukainen domb",
+            "tip": "Tökéletes hely, hogy magába szívja a táj tágasságát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta Untamalában",
+            "tip": "A történelmi helyszín különleges nyugalmat áraszt, különösen késő délután.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Condus prin peisaj",
+            "tip": "Drumul între clustere oferă o oportunitate minunată de a vă bucura de natura liniștită a Finlandei.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Dealul Soukainen",
+            "tip": "Un loc perfect pentru a admira întinderea peisajului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare în Untamala",
+            "tip": "Situl istoric emană o liniște specială, mai ales după-amiaza târziu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Driving through the countryside",
+            "tip": "The drive between clusters offers a wonderful opportunity to enjoy the quiet Finnish nature.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Soukainen Hill",
+            "tip": "A perfect place to take in the vastness of the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk in Untamala",
+            "tip": "The historical site exudes a special tranquility, especially in the late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf den Landstraßen Ausschau nach Schildern für Hofläden, die frische Produkte verkaufen."
+          },
+          {
+            "name": "Archäologie-Bücher",
+            "tip": "Im Souvenirshop von Untamala finden Sie möglicherweise interessante Bücher über die Eisenzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Az országutakon figyelje a friss termékeket árusító tanyasi boltok tábláit."
+          },
+          {
+            "name": "Régészeti könyvek",
+            "tip": "Az Untamala ajándékboltjában érdekes könyveket találhat a vaskorról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele de pe drumurile de țară pentru magazinele de fermă care vând produse proaspete."
+          },
+          {
+            "name": "Cărți de arheologie",
+            "tip": "S-ar putea să găsiți cărți interesante despre Epoca Fierului în magazinul de suveniruri din Untamala."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Keep an eye out for signs for farm shops selling fresh produce on the country roads."
+          },
+          {
+            "name": "Archaeology books",
+            "tip": "You might find interesting books about the Iron Age in the Untamala souvenir shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein GPS oder eine Navigations-App ist unerlässlich, um die abgelegeneren Orte zu finden.",
+          "Parken ist im Stadtzentrum möglicherweise gebührenpflichtig.",
+          "Planen Sie genügend Zeit für die Fahrten zwischen den Clustern ein.",
+          "Die Cluster-Walking-Philosophie hilft, Parkprobleme zu minimieren und mehr zu Fuß zu entdecken."
+        ],
+        "hu": [
+          "GPS vagy navigációs alkalmazás elengedhetetlen a távolabbi helyek megtalálásához.",
+          "A parkolás a városközpontban díjköteles lehet.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásokra.",
+          "A klaszter-séta filozófia segít minimalizálni a parkolási problémákat és többet felfedezni gyalog."
+        ],
+        "ro": [
+          "Un GPS sau o aplicație de navigație este esențială pentru a găsi locațiile mai îndepărtate.",
+          "Parcarea poate fi cu plată în centrul orașului.",
+          "Planificați suficient timp pentru călătoriile între clustere.",
+          "Filozofia plimbării în clustere ajută la minimizarea problemelor de parcare și la explorarea mai multor locuri pe jos."
+        ],
+        "en": [
+          "A GPS or navigation app is essential for finding the more remote locations.",
+          "Parking may be subject to a fee in the city center.",
+          "Allow enough time for the drives between clusters.",
+          "The cluster-walking philosophy helps minimize parking issues and allows for more exploration on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Zentrum Haltestelle",
+            "hu": "1. klaszter: Központi megálló",
+            "ro": "Cluster 1: Stația centrală",
+            "en": "Cluster 1: Central Stop"
+          },
+          "coords": [
+            60.878,
+            21.688
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie im Zentrum aus und beginnen Sie Ihre Erkundung von hier aus zu Fuß.",
+            "hu": "Szálljon le a központban, és innen kezdje a felfedezést gyalog.",
+            "ro": "Coborâți în centru și începeți explorarea pe jos de aici.",
+            "en": "Get off in the center and start your exploration on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbibliothek Laitila",
+            "hu": "Laitilai Városi Könyvtár",
+            "ro": "Biblioteca Municipală Laitila",
+            "en": "Laitila Town Library"
+          },
+          "coords": [
+            60.8785,
+            21.689
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Bibliothek liegt direkt an der Haltestelle und ist ein guter, warmer Startpunkt.",
+            "hu": "A könyvtár közvetlenül a megállónál található, jó, meleg kiindulópont.",
+            "ro": "Biblioteca este chiar lângă stație și este un punct de plecare bun și călduros.",
+            "en": "The library is right by the stop and makes for a good, warm starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael Kirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            60.8765,
+            21.6935
+          ],
+          "category": "churches",
+          "arrive_at": "10:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Stadt führt Sie zu diesem historischen Juwel.",
+            "hu": "Egy rövid séta a városon keresztül elvezeti ehhez a történelmi gyöngyszemhez.",
+            "ro": "O scurtă plimbare prin oraș vă va duce la această bijuterie istorică.",
+            "en": "A short walk through town will lead you to this historical gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Haltestelle Kauppila",
+            "hu": "2. klaszter: Kauppila megálló",
+            "ro": "Cluster 2: Stația Kauppila",
+            "en": "Cluster 2: Kauppila Stop"
+          },
+          "coords": [
+            60.884,
+            21.698
+          ],
+          "category": "transit",
+          "arrive_at": "11:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum nächsten Cluster. Steigen Sie in der Nähe des Museums aus.",
+            "hu": "Menjen busszal a következő klaszterhez. Szálljon le a múzeum közelében.",
+            "ro": "Luați autobuzul spre următorul cluster. Coborâți lângă muzeu.",
+            "en": "Take the bus to the next cluster. Get off near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauppila Geschlossener Hof",
+            "hu": "Kauppila Zárt Udvar Múzeum",
+            "ro": "Curtea-fermă Kauppila",
+            "en": "Kauppila Enclosed Farmstead"
+          },
+          "coords": [
+            60.885,
+            21.7
+          ],
+          "category": "museums",
+          "arrive_at": "11:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für alle, die sich für die finnische Geschichte und Lebensweise interessieren.",
+            "hu": "Kötelező mindenkinek, aki érdeklődik a finn történelem és életmód iránt.",
+            "ro": "O vizită obligatorie pentru oricine este interesat de istoria și modul de viață finlandez.",
+            "en": "A must-visit for anyone interested in Finnish history and way of life."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Haltestelle Untamala",
+            "hu": "3. klaszter: Untamala megálló",
+            "ro": "Cluster 3: Stația Untamala",
+            "en": "Cluster 3: Untamala Stop"
+          },
+          "coords": [
+            60.923,
+            21.708
+          ],
+          "category": "transit",
+          "arrive_at": "14:26",
+          "stay_min": 0,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die letzte Busfahrt des Tages führt Sie in die Eisenzeit.",
+            "hu": "A nap utolsó buszútja a vaskorba vezet.",
+            "ro": "Ultima călătorie cu autobuzul a zilei vă duce în Epoca Fierului.",
+            "en": "The last bus ride of the day takes you to the Iron Age."
+          }
+        },
+        {
+          "name": {
+            "de": "Untamala Dorf",
+            "hu": "Untamala Falu",
+            "ro": "Satul arheologic Untamala",
+            "en": "Untamala Village"
+          },
+          "coords": [
+            60.925,
+            21.71
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich viel Zeit, um das Gelände zu erkunden und die Atmosphäre aufzusaugen.",
+            "hu": "Szánjon bőven időt a terület felfedezésére és a hangulat magába szívására.",
+            "ro": "Luați-vă mult timp pentru a explora zona și a absorbi atmosfera.",
+            "en": "Take plenty of time to explore the grounds and soak up the atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln startet im Zentrum, wo Sie nach einem Besuch der Bibliothek und der St. Michael-Kirche zu Fuß unterwegs sind. Ein kurzer Bus-Hop bringt Sie zum Hofmuseum Kauppila, dem zweiten Cluster, wo Sie den Mittag verbringen. Hier tauchen Sie tief in die Kulturgeschichte ein. Am Nachmittag folgt eine längere Busfahrt zum archäologischen Dorf Untamala. Dieser letzte Stopp bietet einen faszinierenden Einblick in die ferne Vergangenheit Finnlands. Planen Sie Ihre Rückfahrt mit dem Bus sorgfältig, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Tömegközlekedési napja a központban kezdődik, ahol a könyvtár és a Szent Mihály-templom gyalogos meglátogatása után kel útra. Egy rövid buszozás elviszi a Kauppila udvarmúzeumhoz, a második klaszterhez, ahol a déli időt tölti. Itt mélyen elmerül a kultúrtörténetben. Délután egy hosszabb buszút következik az Untamala régészeti faluhoz. Ez az utolsó megálló lenyűgöző bepillantást nyújt Finnország távoli múltjába. Gondosan tervezze meg a buszos visszautat, hogy a napot pihentetően zárhassa.",
+        "ro": "Ziua cu transportul public începe în centru, unde veți explora pe jos după o vizită la bibliotecă și la Biserica Sf. Mihail. O scurtă călătorie cu autobuzul vă duce la muzeul fermă Kauppila, al doilea cluster, unde veți petrece prânzul. Aici vă veți cufunda în istoria culturală. După-amiaza, urmează o călătorie mai lungă cu autobuzul spre satul arheologic Untamala. Această ultimă oprire oferă o perspectivă fascinantă asupra trecutului îndepărtat al Finlandei. Planificați-vă cu atenție călătoria de întoarcere cu autobuzul pentru a încheia ziua într-un mod relaxat.",
+        "en": "Your day on public transport starts in the center, where you'll explore on foot after visiting the library and St. Michael's Church. A short bus hop takes you to the Kauppila farmstead museum, the second cluster, where you'll spend midday. Here, you'll dive deep into cultural history. In the afternoon, a longer bus ride follows to the Untamala archaeological village. This final stop offers a fascinating glimpse into Finland's distant past. Plan your return bus journey carefully to end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café-Snacks",
+            "tip": "Perfekt für eine schnelle Stärkung zwischen zwei Busfahrten. Suchen Sie nach lokalen Cafés."
+          },
+          {
+            "name": "Salat mit geräuchertem Fisch",
+            "tip": "Eine leichtere, aber sehr finnische Option für das Mittagessen."
+          },
+          {
+            "name": "Beeren-Saft (Marjamehu)",
+            "tip": "Ein erfrischendes und gesundes Getränk, das Sie überall finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávéházi snackek",
+            "tip": "Tökéletes egy gyors harapnivalóra két buszút között. Keressen helyi kávézókat."
+          },
+          {
+            "name": "Saláta füstölt hallal",
+            "tip": "Könnyebb, de nagyon finn opció ebédre."
+          },
+          {
+            "name": "Bogyós gyümölcslé (Marjamehu)",
+            "tip": "Frissítő és egészséges ital, amelyet mindenhol megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de cafenea",
+            "tip": "Perfect pentru o gustare rapidă între două călătorii cu autobuzul. Căutați cafenele locale."
+          },
+          {
+            "name": "Salată cu pește afumat",
+            "tip": "O opțiune mai ușoară, dar foarte finlandeză pentru prânz."
+          },
+          {
+            "name": "Suc de fructe de pădure (Marjamehu)",
+            "tip": "O băutură răcoritoare și sănătoasă pe care o veți găsi peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café snacks",
+            "tip": "Perfect for a quick bite between two bus rides. Look for local cafés."
+          },
+          {
+            "name": "Smoked fish salad",
+            "tip": "A lighter but very Finnish option for lunch."
+          },
+          {
+            "name": "Berry juice (Marjamehu)",
+            "tip": "A refreshing and healthy drink you'll find everywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt über Land",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Ein stiller Winkel in Untamala",
+            "tip": "Suchen Sie sich einen abgelegenen Platz auf dem weitläufigen Gelände, um nachzudenken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lese-Ecke in der Bibliothek",
+            "tip": "Beginnen oder beenden Sie den Tag in der ruhigen Atmosphäre der Stadtbibliothek.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a vidéken",
+            "tip": "Nézzen ki az ablakon, és élvezze az elhaladó tájat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy csendes zug Untamalában",
+            "tip": "Keressen egy félreeső helyet a tágas területen, hogy elgondolkodjon.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olvasósarok a könyvtárban",
+            "tip": "Kezdje vagy fejezze be a napot a városi könyvtár csendes légkörében.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin țară",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Un colț liniștit în Untamala",
+            "tip": "Găsiți un loc retras pe terenul vast pentru a reflecta.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colț de lectură în bibliotecă",
+            "tip": "Începeți sau încheiați ziua în atmosfera liniștită a bibliotecii orașului.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the country",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A quiet corner in Untamala",
+            "tip": "Find a secluded spot on the vast grounds to reflect.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reading corner in the library",
+            "tip": "Start or end the day in the quiet atmosphere of the town library.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus dem Museum",
+            "tip": "Die Museumsshops haben oft eine gute Auswahl an einzigartigen Geschenken."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße von den historischen Stätten, die Sie besucht haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi ajándéktárgyak",
+            "tip": "A múzeumi boltokban gyakran jó választék van egyedi ajándékokból."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldjön üdvözletet a meglátogatott történelmi helyszínekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la muzeu",
+            "tip": "Magazinele muzeelor au adesea o selecție bună de cadouri unice."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți felicitări de la siturile istorice pe care le-ați vizitat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum souvenirs",
+            "tip": "Museum shops often have a good selection of unique gifts."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the historical sites you've visited."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, besonders für die Rückfahrt von den Außenbezirken.",
+          "Eine Tageskarte könnte günstiger sein als Einzeltickets.",
+          "Achten Sie auf die letzte Abfahrtszeit, um nicht in den Außenbezirken stecken zu bleiben.",
+          "Seien Sie pünktlich an der Haltestelle; Busse in ländlichen Gebieten fahren möglicherweise nicht oft."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, különösen a külvárosokból való visszautazáshoz.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Figyeljen az utolsó indulási időpontra, hogy ne ragadjon a külvárosban.",
+          "Legyen pontosan a megállóban; a vidéki buszok nem feltétlenül járnak sűrűn."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, mai ales pentru călătoria de întoarcere din suburbii.",
+          "Un abonament de o zi ar putea fi mai ieftin decât biletele individuale.",
+          "Fiți atenți la ora ultimei plecări pentru a nu rămâne blocați în suburbii.",
+          "Fiți la timp la stație; autobuzele din zonele rurale s-ar putea să nu circule des."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip from the outskirts.",
+          "A day pass might be cheaper than single tickets.",
+          "Pay attention to the last departure time to avoid getting stranded in the outskirts.",
+          "Be at the bus stop on time; buses in rural areas may not run frequently."
+        ]
+      }
+    }
+  }
+}

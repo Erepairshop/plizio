@@ -1,0 +1,1444 @@
+{
+  "city_id": "ireland-ballymena-cities-v2",
+  "anchor": {
+    "name": "Ballymena",
+    "coords": [
+      -6.2758,
+      54.8624
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "The Braid Kunst- und Museumszentrum",
+            "hu": "The Braid Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu The Braid",
+            "en": "The Braid Arts & Museum Centre"
+          },
+          "coords": [
+            -6.2782,
+            54.8645
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan; oft gibt es lokale Ausstellungen.",
+            "hu": "Nézd meg a programot, gyakran vannak helyi kiállítások.",
+            "ro": "Verificați programul evenimentelor; adesea găzduiesc expoziții locale.",
+            "en": "Check the event schedule; they often host local exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal von Ballymena",
+            "hu": "Ballymenai Háborús Emlékmű",
+            "ro": "Memorialul de Război din Ballymena",
+            "en": "Ballymena War Memorial"
+          },
+          "coords": [
+            -6.2771,
+            54.8651
+          ],
+          "category": "monuments",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um über die lokale Geschichte nachzudenken.",
+            "hu": "Csendes hely a helyi történelemről való elmélkedésre.",
+            "ro": "Un loc liniștit pentru a reflecta asupra istoriei locale.",
+            "en": "A quiet spot to reflect on the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2805,
+            54.8662
+          ],
+          "category": "churches",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Buntglasfenster, die lokale Geschichten erzählen.",
+            "hu": "Figyeld a helyi történeteket ábrázoló ólomüveg ablakokat.",
+            "ro": "Observați vitraliile care povestesc istorii locale.",
+            "en": "Notice the stained-glass windows depicting local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Centre"
+          },
+          "coords": [
+            -6.279,
+            54.864
+          ],
+          "category": "gastro",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Café für ein herzhaftes Ulster Fry.",
+            "hu": "Próbálj ki egy helyi kávézót egy kiadós Ulster Fry reggelire.",
+            "ro": "Încercați o cafenea locală pentru un Ulster Fry consistent.",
+            "en": "Try a local cafe for a hearty Ulster Fry."
+          }
+        },
+        {
+          "name": {
+            "de": "People's Park",
+            "hu": "People's Park (Néppark)",
+            "ro": "Parcul People's",
+            "en": "People's Park"
+          },
+          "coords": [
+            -6.2883,
+            54.8631
+          ],
+          "category": "parks",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am See.",
+            "hu": "Tökéletes egy pihentető sétához a tó körül.",
+            "ro": "Perfect pentru o plimbare relaxantă în jurul lacului.",
+            "en": "Perfect for a relaxing stroll around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecos Centre und Parklandschaft",
+            "hu": "Ecos Központ és Park",
+            "ro": "Centrul și Parcul Ecos",
+            "en": "Ecos Centre and Parklands"
+          },
+          "coords": [
+            -6.2751,
+            54.8725
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:04",
+          "stay_min": 66,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Wanderwege hier sind ideal, um die lokale Flora und Fauna zu beobachten.",
+            "hu": "A túraösvények ideálisak a helyi növény- és állatvilág megfigyelésére.",
+            "ro": "Traseele de aici sunt minunate pentru a observa flora și fauna locală.",
+            "en": "The walking trails here are great for spotting local flora and fauna."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Ballymena, dem Braid Centre. Spazieren Sie durch die Geschichte, vorbei am Kriegerdenkmal zur St. Patrick's Kirche. Nach dem Mittagessen lädt der People's Park zur Entspannung ein. Schließen Sie Ihren Tag mit einem längeren Spaziergang zum Ecos Centre ab, einem Zentrum für Nachhaltigkeit inmitten einer wunderschönen Parklandschaft.",
+        "hu": "Kezdje a napot Ballymena kulturális szívében, a Braid Központban. Sétáljon át a történelmen a háborús emlékmű mellett a Szent Patrik-templomig. Ebéd után a People's Park hívogat pihenésre. Zárja a napot egy hosszabb sétával az Ecos Központba, a fenntarthatóság központjába, melyet gyönyörű park vesz körül.",
+        "ro": "Începeți ziua în inima culturală a orașului Ballymena, la Centrul Braid. Plimbați-vă prin istorie, pe lângă memorialul de război, până la Biserica Sf. Patrick. După prânz, Parcul People's vă invită la relaxare. Încheiați ziua cu o plimbare mai lungă până la Centrul Ecos, un centru pentru sustenabilitate, înconjurat de un parc superb.",
+        "en": "Start your day in Ballymena's cultural heart, The Braid Centre. Stroll through history, passing the war memorial to St. Patrick's Church. After lunch, People's Park invites you to relax. End your day with a longer walk to the Ecos Centre, a hub of sustainability set in beautiful parkland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Ein Muss für ein herzhaftes Frühstück oder Mittagessen, erhältlich in vielen Cafés im Stadtzentrum."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Eine lokale süße Leckerei aus Keksen, Kirschen und Marshmallows. Suchen Sie danach in Bäckereien."
+          },
+          {
+            "name": "Frischer Fisch aus der Region",
+            "tip": "Genießen Sie frische Meeresfrüchte in Restaurants, die Produkte aus den nahegelegenen Küstenstädten beziehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kihagyhatatlan, kiadós reggeli vagy ebéd, a belvárosi kávézókban kapható."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Helyi édesség kekszből, cseresznyéből és pillecukorból. Keresd a pékségekben."
+          },
+          {
+            "name": "Helyi friss hal",
+            "tip": "Élvezd a közeli tengerparti városokból származó friss tenger gyümölcseit az éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "O necesitate pentru un mic dejun sau prânz copios, disponibil în multe cafenele din centrul orașului."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "Un deliciu dulce local făcut din biscuiți, cireșe și bezele. Căutați-l în brutării."
+          },
+          {
+            "name": "Pește proaspăt local",
+            "tip": "Savurați fructe de mare proaspete la restaurantele care se aprovizionează din orașele de coastă din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "A must-try for a hearty breakfast or lunch, available at many town centre cafes."
+          },
+          {
+            "name": "Fifteens",
+            "tip": "A local sweet treat made of digestive biscuits, cherries, and marshmallows. Look for it in bakeries."
+          },
+          {
+            "name": "Local Fresh Fish",
+            "tip": "Enjoy fresh seafood in restaurants that source produce from the nearby coastal towns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Braid River im Ecos Park",
+            "tip": "Finden Sie eine Bank am Fluss für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rosengarten im People's Park",
+            "tip": "Ein duftender, friedlicher Bereich abseits der Hauptwege.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof der St. Patrick's Kirche",
+            "tip": "Ein historischer und ruhiger Ort zum Nachdenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Braid-folyó partja az Ecos Parkban",
+            "tip": "Keress egy padot a folyó mellett egy csendes pillanatra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsakert a People's Parkban",
+            "tip": "Illatos, békés rész a fő utaktól távol.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Patrik-templom temetője",
+            "tip": "Történelmi és csendes hely az elmélkedésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Braid la Ecos Park",
+            "tip": "Găsiți o bancă lângă râu pentru un moment de pace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de trandafiri din People's Park",
+            "tip": "O zonă parfumată și liniștită, departe de aleile principale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Patrick",
+            "tip": "Un loc istoric și liniștit pentru reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Braid River at Ecos Park",
+            "tip": "Find a bench by the river for a moment of peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rose Garden in People's Park",
+            "tip": "A fragrant, peaceful section away from the main paths.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Patrick's Church Graveyard",
+            "tip": "A historic and quiet space for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tower Centre",
+            "tip": "Das Haupteinkaufszentrum der Stadt mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie in den Straßen um das Braid Centre nach Läden, die lokale Kunst und Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tower Centre",
+            "tip": "A város fő bevásárlóközpontja, ahol ismert márkák és helyi üzletek keverednek."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress helyi művészetet és kézműves termékeket áruló boltokat a Braid Központ körüli utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tower Centre",
+            "tip": "Principalul centru comercial al orașului, cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine care vând artă și meșteșuguri locale pe străzile din jurul Centrului Braid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tower Centre",
+            "tip": "The town's main shopping centre with a mix of high-street brands and local stores."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for shops selling local art and crafts on the streets around The Braid Centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Spaziergang zum Ecos Centre recht lang ist.",
+          "Prüfen Sie die Wettervorhersage; ein Regenschirm ist in Nordirland immer eine gute Idee.",
+          "Die meisten Geschäfte schließen gegen 17:30 Uhr, planen Sie Ihr Einkaufen also entsprechend."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az Ecos Központig tartó séta elég hosszú.",
+          "Ellenőrizd az időjárás-előrejelzést; egy esernyő mindig jó ötlet Észak-Írországban.",
+          "A legtöbb üzlet 17:30 körül bezár, tervezd a vásárlást ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece plimbarea până la Centrul Ecos este destul de lungă.",
+          "Verificați prognoza meteo; o umbrelă este întotdeauna o idee bună în Irlanda de Nord.",
+          "Majoritatea magazinelor se închid în jurul orei 17:30, așa că planificați-vă cumpărăturile în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes as the walk to the Ecos Centre is quite long.",
+          "Check the weather forecast; an umbrella is always a good idea in Northern Ireland.",
+          "Most shops close around 5:30 PM, so plan your shopping accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am People's Park",
+            "hu": "Indulás a People's Parkból",
+            "ro": "Start la People's Park",
+            "en": "Start at People's Park"
+          },
+          "coords": [
+            -6.2883,
+            54.8631
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Runde durch den Park, um sich aufzuwärmen.",
+            "hu": "Tegyél egy gyors kört a parkban bemelegítésként.",
+            "ro": "Faceți o tură scurtă a parcului pentru a vă încălzi.",
+            "en": "Do a quick loop of the park to warm up."
+          }
+        },
+        {
+          "name": {
+            "de": "The Braid Kunst- und Museumszentrum",
+            "hu": "The Braid Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu The Braid",
+            "en": "The Braid Arts & Museum Centre"
+          },
+          "coords": [
+            -6.2782,
+            54.8645
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2805,
+            54.8662
+          ],
+          "category": "churches",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das Innere erkunden.",
+            "hu": "Zárd le biztonságosan a biciklidet, amíg felfedezed a templom belsejét.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați interiorul.",
+            "en": "Lock your bike securely while you explore inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecos Centre und Parklandschaft",
+            "hu": "Ecos Központ és Park",
+            "ro": "Centrul și Parcul Ecos",
+            "en": "Ecos Centre and Parklands"
+          },
+          "coords": [
+            -6.2751,
+            54.8725
+          ],
+          "category": "parks",
+          "arrive_at": "11:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen auf dem Gelände.",
+            "hu": "Remek hely egy piknikebédhez a park területén.",
+            "ro": "Un loc excelent pentru un prânz la picnic pe teren.",
+            "en": "A great spot for a picnic lunch on the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galgorm Castle & Golf Club (Außenansicht)",
+            "hu": "Galgorm Kastély és Golfklub (külső nézet)",
+            "ro": "Castelul și Clubul de Golf Galgorm (vedere exterioară)",
+            "en": "Galgorm Castle & Golf Club (External View)"
+          },
+          "coords": [
+            -6.31,
+            54.875
+          ],
+          "category": "castles",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Zufahrtsstraßen bieten einen guten Blick auf das Schloss für ein Foto.",
+            "hu": "A bekötőutakról jó kilátás nyílik a kastélyra egy fotó erejéig.",
+            "ro": "Drumurile de acces oferă o priveliște bună a castelului pentru o fotografie.",
+            "en": "The approach roads offer a good view of the castle for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum zum Ausklang",
+            "hu": "Visszatérés a városközpontba levezetésként",
+            "ro": "Întoarcere în centrul orașului pentru relaxare",
+            "en": "Return to Town Centre for wind-down"
+          },
+          "coords": [
+            -6.279,
+            54.864
+          ],
+          "category": "gastro",
+          "arrive_at": "15:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Kaffee und Kuchen in einem der zentralen Cafés.",
+            "hu": "Jutalmazd meg magad egy kávéval és sütivel az egyik központi kávézóban.",
+            "ro": "Recompensați-vă cu o cafea și o prăjitură la una dintre cafenelele centrale.",
+            "en": "Reward yourself with a coffee and cake at one of the central cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie im People's Park. Radeln Sie ins Zentrum, um das Braid Centre und die St. Patrick's Kirche zu erkunden. Weiter geht es nach Norden zum weitläufigen Ecos Park für eine Mittagspause. Am Nachmittag führt Sie eine längere Fahrt nach Westen für einen Blick auf das historische Galgorm Castle, bevor Sie für einen wohlverdienten Kaffee ins Stadtzentrum zurückkehren.",
+        "hu": "Pattanj biciklire, és kezdj a People's Parkban. Tekerj be a központba, hogy felfedezd a Braid Központot és a Szent Patrik-templomot. Haladj tovább északra a tágas Ecos Parkba egy ebédszünetre. Délután egy hosszabb út vezet nyugatra, hogy megnézd a történelmi Galgorm kastélyt, mielőtt visszatérnél a belvárosba egy jól megérdemelt kávéra.",
+        "ro": "Luați o bicicletă și începeți din Parcul People's. Pedalați spre centru pentru a explora Centrul Braid și Biserica Sf. Patrick. Continuați spre nord, la vastul Parc Ecos, pentru o pauză de prânz. După-amiaza, o plimbare mai lungă vă duce spre vest pentru o priveliște a Castelului istoric Galgorm, înainte de a vă întoarce în centrul orașului pentru o cafea binemeritată.",
+        "en": "Grab a bike and start at People's Park. Cycle into the centre to explore The Braid and St. Patrick's Church. Continue north to the expansive Ecos Park for a lunch break. In the afternoon, a longer ride takes you west for a view of the historic Galgorm Castle before returning to the town centre for a well-earned coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich ein paar Scones oder ein Sodabrot für ein Picknick im Ecos Park."
+          },
+          {
+            "name": "Carvery Lunch",
+            "tip": "Viele Hotels und Pubs in der Umgebung bieten am Sonntag ein traditionelles Fleischbuffet an."
+          },
+          {
+            "name": "Eiscreme",
+            "tip": "An einem sonnigen Tag gibt es nichts Besseres als ein lokales Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyél pogácsát vagy szódás kenyeret az Ecos Parkban tartott piknikhez."
+          },
+          {
+            "name": "Carvery ebéd",
+            "tip": "Sok helyi hotel és pub kínál hagyományos sült húsos ebédet vasárnap."
+          },
+          {
+            "name": "Fagylalt",
+            "tip": "Egy napsütéses napon nincs is jobb egy helyi fagyinál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați niște scones sau pâine cu bicarbonat pentru un picnic în Parcul Ecos."
+          },
+          {
+            "name": "Prânz Carvery",
+            "tip": "Multe hoteluri și pub-uri din zonă oferă un prânz tradițional cu friptură duminica."
+          },
+          {
+            "name": "Înghețată",
+            "tip": "Într-o zi însorită, nimic nu se compară cu o înghețată locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab some scones or soda bread for a picnic lunch in Ecos Park."
+          },
+          {
+            "name": "Carvery Lunch",
+            "tip": "Many area hotels and pubs offer a traditional carvery lunch on a Sunday."
+          },
+          {
+            "name": "Ice Cream",
+            "tip": "On a sunny day, you can't beat a local ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Galgorm Castle Grounds",
+            "tip": "Die Gegend um das Schloss ist friedlich und bietet tolle Fotomöglichkeiten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Entlang des Flusses Braid",
+            "tip": "Folgen Sie dem Fluss weg von den Hauptparkbereichen für mehr Abgeschiedenheit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt in Richtung Slemish",
+            "tip": "Finden Sie einen hohen Punkt auf Ihrer Route, um in die Ferne auf den Berg zu blicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galgorm kastély területe",
+            "tip": "A kastély környéke békés és remek fotózási lehetőségeket kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Braid-folyó mentén",
+            "tip": "Kövesd a folyót a fő parkterületektől távolabb a nagyobb csendért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a Slemish felé",
+            "tip": "Keress egy magas pontot az útvonaladon, hogy a távolba, a hegy felé tekints.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domeniul Castelului Galgorm",
+            "tip": "Zona din jurul castelului este liniștită și oferă oportunități excelente pentru fotografii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "De-a lungul râului Braid",
+            "tip": "Urmați râul departe de zonele principale ale parcului pentru mai multă liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere spre Slemish",
+            "tip": "Găsiți un punct înalt pe traseul dvs. pentru a privi în depărtare spre munte.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Galgorm Castle Grounds",
+            "tip": "The area around the castle is peaceful and offers great photo opportunities.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Along the River Braid",
+            "tip": "Follow the river away from the main park areas for more seclusion.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint towards Slemish",
+            "tip": "Find a high point on your route to look out towards the mountain in the distance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für alle Last-Minute-Bedürfnisse oder um sich nach den besten lokalen Routen zu erkundigen."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Wenn Sie an einem Markttag dort sind, können Sie lokale Produkte und Handwerksprodukte kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Bármilyen utolsó pillanatban felmerülő igényre, vagy hogy érdeklődj a legjobb helyi útvonalakról."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Ha piacnapon jársz ott, vásárolhatsz helyi termékeket és kézműves árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice nevoi de ultim moment sau pentru a întreba despre cele mai bune rute locale."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Dacă vizitați într-o zi de piață, puteți cumpăra produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any last-minute needs or to ask about the best local routes."
+          },
+          {
+            "name": "Farmer's Market",
+            "tip": "If visiting on a market day, you can pick up local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen können stark befahren sein; seien Sie vorsichtig und benutzen Sie nach Möglichkeit Radwege.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die Fahrt zum Galgorm Castle.",
+          "Schließen Sie Ihr Fahrrad an jedem Halt immer sicher ab."
+        ],
+        "hu": [
+          "Néhány út forgalmas lehet; légy óvatos és használj kerékpárutakat, ahol lehetséges.",
+          "Vigyél vizet és harapnivalót, különösen a Galgorm kastélyhoz vezető útra.",
+          "Minden megállónál mindig biztonságosan zárd le a biciklidet."
+        ],
+        "ro": [
+          "Unele drumuri pot fi aglomerate; fiți prudenți și folosiți pistele de biciclete acolo unde sunt disponibile.",
+          "Luați apă și gustări, mai ales pentru drumul spre Castelul Galgorm.",
+          "Asigurați-vă întotdeauna bicicleta la fiecare oprire."
+        ],
+        "en": [
+          "Some roads can be busy; be cautious and use cycle lanes where available.",
+          "Bring water and snacks, especially for the ride out to Galgorm Castle.",
+          "Always lock your bike securely at each stop."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 43.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arthur Cottage",
+            "hu": "Arthur Cottage",
+            "ro": "Cabana Arthur",
+            "en": "Arthur Cottage"
+          },
+          "coords": [
+            -6.22,
+            54.84
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das restaurierte Haus der Vorfahren des US-Präsidenten. Überprüfen Sie die Öffnungszeiten im Voraus.",
+            "hu": "Az amerikai elnök felmenőinek felújított háza. Előre ellenőrizd a nyitvatartást.",
+            "ro": "Casa ancestrală restaurată a președintelui american. Verificați orele de deschidere în avans.",
+            "en": "The restored ancestral home of a US President. Check opening times in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung am Slemish Mountain",
+            "hu": "Túra a Slemish-hegyen",
+            "ro": "Drumeție pe Muntele Slemish",
+            "en": "Hike at Slemish Mountain"
+          },
+          "coords": [
+            -6.12,
+            54.87
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine steile, aber lohnende Wanderung. Tragen Sie festes Schuhwerk.",
+            "hu": "Meredek, de hálás túra. Viselj erős cipőt.",
+            "ro": "O drumeție abruptă, dar plină de satisfacții. Purtați încălțăminte rezistentă.",
+            "en": "A steep but rewarding hike. Wear sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Broughshane",
+            "hu": "Ebéd Broughshane-ben",
+            "ro": "Prânz în Broughshane",
+            "en": "Lunch in Broughshane"
+          },
+          "coords": [
+            -6.205,
+            54.878
+          ],
+          "category": "gastro",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das 'Gartendorf' in der Nähe von Slemish bietet charmante Pubs für eine Mahlzeit.",
+            "hu": "A Slemish melletti 'kerti falu' hangulatos pubokat kínál egy étkezéshez.",
+            "ro": "'Satul grădină' de lângă Slemish are pub-uri fermecătoare pentru o masă.",
+            "en": "The 'garden village' near Slemish has charming pubs for a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Ballymena Stadtzentrum (Parken)",
+            "hu": "Klaszter: Ballymena belváros (Parkolás)",
+            "ro": "Cluster: Centrul orașului Ballymena (Parcare)",
+            "en": "Cluster: Ballymena Town Centre (Park)"
+          },
+          "coords": [
+            -6.277,
+            54.863
+          ],
+          "category": "transport",
+          "arrive_at": "15:43",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 13.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Langzeitparkplätze und erkunden Sie zu Fuß.",
+            "hu": "Parkolj le az egyik hosszú távú parkolóban, és fedezd fel a környéket gyalog.",
+            "ro": "Parcați într-una din parcările pe termen lung și explorați pe jos.",
+            "en": "Park in one of the long-stay car parks and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Braid Kunst- und Museumszentrum",
+            "hu": "The Braid Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu The Braid",
+            "en": "The Braid Arts & Museum Centre"
+          },
+          "coords": [
+            -6.2782,
+            54.8645
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schneller Besuch, um die Hauptausstellungen zu sehen.",
+            "hu": "Egy gyors látogatás a fő kiállítások megtekintésére.",
+            "ro": "O vizită rapidă pentru a vedea expozițiile principale.",
+            "en": "A quick visit to see the main exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2805,
+            54.8662
+          ],
+          "category": "churches",
+          "arrive_at": "16:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur zu bewundern.",
+            "hu": "Egy rövid megálló az építészet megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira arhitectura.",
+            "en": "A brief stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galgorm Castle (Gelände)",
+            "hu": "Galgorm kastély (terület)",
+            "ro": "Castelul Galgorm (Domeniu)",
+            "en": "Galgorm Castle (Grounds)"
+          },
+          "coords": [
+            -6.31,
+            54.875
+          ],
+          "category": "castles",
+          "arrive_at": "17:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit einem Spaziergang auf dem Schlossgelände.",
+            "hu": "Szép lezárása a napnak egy sétával a kastély területén.",
+            "ro": "O încheiere frumoasă a zilei cu o plimbare pe domeniul castelului.",
+            "en": "A lovely end to the day with a stroll around the castle grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Auto gibt Ihnen die Freiheit, die Umgebung von Ballymena zu erkunden. Beginnen Sie mit einem Stück amerikanischer Geschichte im Arthur Cottage. Wagen Sie sich dann zum ikonischen Slemish Mountain für eine unvergessliche Wanderung. Nach dem Mittagessen im malerischen Broughshane fahren Sie ins Zentrum von Ballymena, um die wichtigsten Sehenswürdigkeiten zu Fuß zu erkunden. Beenden Sie den Tag mit einem Besuch des majestätischen Galgorm Castle.",
+        "hu": "Az autó szabadságot ad Ballymena környékének felfedezéséhez. Kezdje egy darabka amerikai történelemmel az Arthur Cottage-ban. Merészkedjen el az ikonikus Slemish-hegyhez egy felejthetetlen túrára. A festői Broughshane-ben elfogyasztott ebéd után hajtson be Ballymena központjába, hogy gyalog fedezze fel a főbb látnivalókat. Zárja a napot a fenséges Galgorm kastély meglátogatásával.",
+        "ro": "O mașină vă oferă libertatea de a explora împrejurimile orașului Ballymena. Începeți cu o bucată de istorie americană la Cabana Arthur. Apoi, aventurați-vă la emblematicul Munte Slemish pentru o drumeție memorabilă. După prânzul în pitorescul Broughshane, conduceți spre centrul Ballymena pentru a explora atracțiile sale cheie pe jos. Încheiați ziua cu o vizită la maiestuosul Castel Galgorm.",
+        "en": "A car gives you the freedom to explore Ballymena's surroundings. Start with a piece of American history at Arthur Cottage. Then venture to the iconic Slemish Mountain for a memorable hike. After lunch in picturesque Broughshane, drive into Ballymena's centre to explore its key sights on foot. End the day with a visit to the majestic Galgorm Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Essen in Broughshane",
+            "tip": "Genießen Sie nach Ihrer Wanderung eine herzhafte, traditionelle Mahlzeit."
+          },
+          {
+            "name": "Afternoon Tea im Galgorm Resort",
+            "tip": "Für ein luxuriöses Erlebnis buchen Sie einen Nachmittagstee im nahegelegenen Resort."
+          },
+          {
+            "name": "Lokale Farm-Shops",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Hofläden, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pub ebéd Broughshane-ben",
+            "tip": "Élvezz egy kiadós, hagyományos ételt a túra után."
+          },
+          {
+            "name": "Délutáni tea a Galgorm Resortban",
+            "tip": "Egy luxus élményért foglalj délutáni teát a közeli üdülőhelyen."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Útközben keress friss termékeket árusító farmboltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Masă la pub în Broughshane",
+            "tip": "Bucurați-vă de o masă consistentă și tradițională după drumeție."
+          },
+          {
+            "name": "Ceaiul de după-amiază la Galgorm Resort",
+            "tip": "Pentru o experiență de lux, rezervați un ceai de după-amiază la stațiunea din apropiere."
+          },
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Fiți atenți la magazinele agricole care vând produse proaspete în timpul călătoriilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub grub in Broughshane",
+            "tip": "Enjoy a hearty, traditional meal after your hike."
+          },
+          {
+            "name": "Afternoon Tea at Galgorm Resort",
+            "tip": "For a luxurious experience, book an afternoon tea at the nearby resort."
+          },
+          {
+            "name": "Local Farm Shops",
+            "tip": "Look out for farm shops selling fresh produce on your drives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Slemish Mountain",
+            "tip": "Die Aussicht und das Gefühl der Errungenschaft sind unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Braid bei Arthur Cottage",
+            "tip": "Ein ruhiger Ort, um die ländliche Umgebung zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galgorm Castle Waldspaziergang",
+            "tip": "Spazieren Sie durch die Wälder auf dem Anwesen für etwas Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slemish-hegy csúcsa",
+            "tip": "A kilátás és a teljesítmény érzése verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Braid-folyó partja az Arthur Cottage-nál",
+            "tip": "Csendes hely a vidéki környezet élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei séta a Galgorm kastélynál",
+            "tip": "Sétálj az erdőben a birtokon egy kis csendért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Muntelui Slemish",
+            "tip": "Priveliștile și sentimentul de realizare sunt imbatabile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Braid lângă Cabana Arthur",
+            "tip": "Un loc liniștit pentru a admira peisajul rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare prin pădurea Castelului Galgorm",
+            "tip": "Plimbați-vă prin pădurile de pe domeniu pentru puțină pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Slemish Mountain",
+            "tip": "The views and sense of achievement are unbeatable.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of River Braid near Arthur Cottage",
+            "tip": "A quiet spot to take in the rural surroundings.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Galgorm Castle forest walk",
+            "tip": "Stroll through the woodlands on the estate for some peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Woolen Mill in Broughshane",
+            "tip": "Ein großartiger Ort, um traditionelle irische Wollwaren zu kaufen."
+          },
+          {
+            "name": "Geschenkeladen im The Braid",
+            "tip": "Bietet eine Auswahl an lokal hergestellten Geschenken und Büchern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjúmalom Broughshane-ben",
+            "tip": "Remek hely hagyományos ír gyapjútermékek vásárlására."
+          },
+          {
+            "name": "Ajándékbolt a The Braidben",
+            "tip": "Helyi készítésű ajándékok és könyvek választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara de lână din Broughshane",
+            "tip": "Un loc excelent pentru a cumpăra articole tradiționale irlandeze din lână."
+          },
+          {
+            "name": "Magazinul de cadouri de la The Braid",
+            "tip": "Oferă o selecție de cadouri și cărți realizate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Woolen Mill in Broughshane",
+            "tip": "A great place to buy traditional Irish woollens."
+          },
+          {
+            "name": "Gift Shop at The Braid",
+            "tip": "Stocks a selection of locally made gifts and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten für ländliche Attraktionen wie Arthur Cottage, da diese saisonal sein können.",
+          "Für Slemish sind Wanderschuhe unerlässlich.",
+          "Das Parken in der Innenstadt von Ballymena ist gebührenpflichtig, halten Sie also Münzen bereit."
+        ],
+        "hu": [
+          "Ellenőrizd a vidéki látnivalók, mint az Arthur Cottage nyitvatartását, mert szezonális lehet.",
+          "A Slemish-hegyhez elengedhetetlen a túrabakancs.",
+          "Ballymena belvárosában a parkolás fizetős, legyen nálad apró."
+        ],
+        "ro": [
+          "Verificați programul de funcționare pentru atracțiile rurale precum Cabana Arthur, deoarece acestea pot fi sezoniere.",
+          "Bocancii de drumeție sunt esențiali pentru Slemish.",
+          "Parcarea în centrul orașului Ballymena este cu plată, așa că aveți la îndemână monede."
+        ],
+        "en": [
+          "Check opening times for rural attractions like Arthur Cottage as they can be seasonal.",
+          "Hiking boots are essential for Slemish.",
+          "Parking in Ballymena town centre is paid, so have coins ready."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum (Ankunft Bushaltestelle)",
+            "hu": "Klaszter: Belváros (Érkezés buszmegálló)",
+            "ro": "Cluster: Centrul orașului (Sosire stație de autobuz)",
+            "en": "Cluster: Town Centre (Arrive at Bus Station)"
+          },
+          "coords": [
+            -6.275,
+            54.863
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist ein guter Ausgangspunkt, um das Zentrum zu erkunden.",
+            "hu": "A buszpályaudvar jó kiindulópont a központ felfedezéséhez.",
+            "ro": "Stația de autobuz este un punct de plecare bun pentru a explora centrul.",
+            "en": "The bus station is a good starting point for exploring the centre."
+          }
+        },
+        {
+          "name": {
+            "de": "The Braid Kunst- und Museumszentrum",
+            "hu": "The Braid Művészeti és Múzeumi Központ",
+            "ro": "Centrul de Artă și Muzeu The Braid",
+            "en": "The Braid Arts & Museum Centre"
+          },
+          "coords": [
+            -6.2782,
+            54.8645
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Csak egy rövid séta a buszpályaudvartól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2805,
+            54.8662
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur.",
+            "hu": "Csodáld meg a történelmi építészetet.",
+            "ro": "Admirați arhitectura istorică.",
+            "en": "Admire the historic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Einkaufen im Zentrum",
+            "hu": "Ebéd és vásárlás a központban",
+            "ro": "Prânz și cumpărături în centru",
+            "en": "Lunch and shopping in the centre"
+          },
+          "coords": [
+            -6.278,
+            54.863
+          ],
+          "category": "gastro",
+          "arrive_at": "11:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Zeit, um das Tower Centre zu erkunden.",
+            "hu": "Használd ki az időt a Tower Centre felfedezésére.",
+            "ro": "Folosiți acest timp pentru a explora Tower Centre.",
+            "en": "Use this time to explore the Tower Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Ecos Park (Busfahrt)",
+            "hu": "Klaszter: Ecos Park (buszozás)",
+            "ro": "Cluster: Parcul Ecos (călătorie cu autobuzul)",
+            "en": "Cluster: Ecos Park (Bus Ride)"
+          },
+          "coords": [
+            -6.2751,
+            54.8725
+          ],
+          "category": "parks",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Erkunden Sie die Wanderwege.",
+            "hu": "Szállj buszra a központból. Fedezd fel a túraösvényeket.",
+            "ro": "Luați un autobuz din centru. Explorați traseele de mers pe jos.",
+            "en": "Take a bus from the centre. Explore the walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "People's Park (Spaziergang)",
+            "hu": "People's Park (séta)",
+            "ro": "Parcul People's (plimbare)",
+            "en": "People's Park (walk)"
+          },
+          "coords": [
+            -6.2883,
+            54.8631
+          ],
+          "category": "parks",
+          "arrive_at": "16:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am See, um den Tag ausklingen zu lassen.",
+            "hu": "Pihentető séta a tó körül a nap lezárásaként.",
+            "ro": "O plimbare relaxantă în jurul lacului pentru a încheia ziua.",
+            "en": "A relaxing walk around the lake to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ballymenas Busnetz, um sich fortzubewegen. Beginnen Sie Ihren ersten Cluster im Stadtzentrum, wo Sie das Braid Centre und die St. Patrick's Kirche zu Fuß erreichen können. Nach dem Mittagessen bringt Sie eine Busfahrt zum zweiten Cluster, dem Ecos Park, wo Sie die Natur genießen können. Ein weiterer kurzer Bus-Hop oder ein flotter Spaziergang führt Sie zum People's Park, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Használd Ballymena buszhálózatát a közlekedéshez. Kezd az első klasztert a városközpontban, ahol gyalog elérhető a Braid Központ és a Szent Patrik-templom. Ebéd után egy buszozás elvisz a második klaszterbe, az Ecos Parkba, ahol élvezheted a természetet. Egy újabb rövid buszozás vagy egy lendületes séta eljuttat a People's Parkba, hogy lazán zárd a napot.",
+        "ro": "Folosiți rețeaua de autobuze din Ballymena pentru a vă deplasa. Începeți primul cluster în centrul orașului, cu acces pietonal la Centrul Braid și Biserica Sf. Patrick. După prânz, o călătorie cu autobuzul vă duce la al doilea cluster, Parcul Ecos, pentru o imersiune în natură. O altă scurtă călătorie cu autobuzul sau o plimbare vioaie vă va aduce la Parcul People's pentru o încheiere relaxantă a zilei.",
+        "en": "Use Ballymena's bus network to get around. Start your first cluster in the town centre, with walking access to The Braid and St. Patrick's Church. After lunch, a bus ride takes you to the second cluster, Ecos Park, for some nature immersion. Another short bus hop or a brisk walk will get you to People's Park for a relaxing end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwich-Bar",
+            "tip": "Holen Sie sich ein Sandwich zum Mitnehmen für ein Picknick im Ecos Park."
+          },
+          {
+            "name": "Café im Tower Centre",
+            "tip": "Ein praktischer Ort für einen Kaffee und eine Pause vom Einkaufen."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches schnelles Abendessen, das Sie in vielen lokalen Imbissen finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsbár",
+            "tip": "Vegyél egy szendvicset elvitelre az Ecos Parkban tartott piknikhez."
+          },
+          {
+            "name": "Kávézó a Tower Centre-ben",
+            "tip": "Kényelmes hely egy kávéra és egy kis pihenésre a vásárlás közben."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus gyors vacsora, amit sok helyi kifőzdében megtalálsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich Bar",
+            "tip": "Luați un sandviș la pachet pentru un picnic în Parcul Ecos."
+          },
+          {
+            "name": "Cafenea în Tower Centre",
+            "tip": "Un loc convenabil pentru o cafea și o pauză de la cumpărături."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "O cină rapidă clasică, pe care o puteți găsi la multe localuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich Bar",
+            "tip": "Grab a takeaway sandwich for a picnic in Ecos Park."
+          },
+          {
+            "name": "Cafe in the Tower Centre",
+            "tip": "A convenient spot for a coffee and a break from shopping."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic quick dinner you can find at many local takeaways."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ecos Park Feuchtgebiete",
+            "tip": "Die Holzstege über die Feuchtgebiete sind besonders friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage des Busbahnhofs",
+            "tip": "Bietet eine überraschend ruhige Aussicht über die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gedenkgarten",
+            "tip": "Finden Sie einen ruhigen Gedenkgarten in der Nähe einer der Kirchen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ecos Park vizes élőhelyei",
+            "tip": "A vizes élőhelyek feletti fapallók különösen békések.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Buszpályaudvar felső szintje",
+            "tip": "Meglepően csendes kilátást nyújt a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Emlékkert",
+            "tip": "Keress egy csendes emlékkertet az egyik templom közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zonele umede din Parcul Ecos",
+            "tip": "Pasarelele de lemn peste zonele umede sunt deosebit de pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al stației de autobuz",
+            "tip": "Oferă o priveliște surprinzător de liniștită asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădina memorială",
+            "tip": "Găsiți o grădină memorială liniștită lângă una dintre biserici.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ecos Park wetlands",
+            "tip": "The wooden boardwalks over the wetlands are particularly peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper floor of the bus station",
+            "tip": "Offers a surprisingly quiet view over the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Memorial Garden",
+            "tip": "Find a quiet memorial garden near one of the churches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Praktisch für Last-Minute-Einkäufe vor der Abfahrt."
+          },
+          {
+            "name": "Charity-Läden",
+            "tip": "Ballymena hat mehrere gute Charity-Läden, in denen man einzigartige Fundstücke entdecken kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "Kényelmes az utolsó pillanatban történő vásárlásokhoz indulás előtt."
+          },
+          {
+            "name": "Adományboltok",
+            "tip": "Ballymenában több jó adománybolt is található, ahol egyedi kincsekre bukkanhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stația de autobuz",
+            "tip": "Convenabil pentru cumpărături de ultim moment înainte de a pleca."
+          },
+          {
+            "name": "Magazine de caritate",
+            "tip": "Ballymena are mai multe magazine de caritate bune unde puteți găsi articole unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus station",
+            "tip": "Convenient for any last-minute purchases before you leave."
+          },
+          {
+            "name": "Charity Shops",
+            "tip": "Ballymena has several good charity shops where you can find unique items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn dies kostengünstiger ist.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für den letzten Bus zurück.",
+          "Haben Sie einen Plan B für den Fall, dass ein Bus ausfällt; einige Orte sind zu Fuß erreichbar, wenn Sie Zeit haben."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra, ha olcsóbb.",
+          "Ellenőrizd előre a buszmenetrendet, különösen az utolsó buszét.",
+          "Legyen B-terved, ha egy busz kimarad; néhány hely gyalog is elérhető, ha van időd."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă este mai rentabil.",
+          "Verificați din timp orarele autobuzelor, în special pentru ultimul autobuz înapoi.",
+          "Aveți un plan B în caz că un autobuz este anulat; unele locuri sunt la distanță de mers pe jos dacă aveți timp."
+        ],
+        "en": [
+          "Buy a day-pass for the bus if it's more cost-effective.",
+          "Check bus timetables in advance, especially for the last bus back.",
+          "Have a backup plan in case a bus is cancelled; some locations are walkable if you have time."
+        ]
+      }
+    }
+  }
+}

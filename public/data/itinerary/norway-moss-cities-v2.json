@@ -1,0 +1,1316 @@
+{
+  "city_id": "norway-moss-cities-v2",
+  "anchor": {
+    "name": "Moss",
+    "coords": [
+      10.658,
+      59.434
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Kanalparken",
+            "hu": "Érkezés a Kanalparkenbe",
+            "ro": "Sosire la Kanalparken",
+            "en": "Arrival at Kanalparken"
+          },
+          "coords": [
+            10.662,
+            59.437
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Finden Sie eine Bank mit Blick auf den Kanal für einen ruhigen Start in den Tag.",
+            "hu": "Keressen egy padot a csatornára néző kilátással, hogy békésen induljon a nap.",
+            "ro": "Găsiți o bancă cu vedere la canal pentru un început de zi liniștit.",
+            "en": "Find a bench overlooking the canal for a peaceful start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebyen (Mühlenstadt)",
+            "hu": "Møllebyen (Malomváros)",
+            "ro": "Møllebyen (Orașul Morilor)",
+            "en": "Møllebyen (The Mill Town)"
+          },
+          "coords": [
+            10.665,
+            59.436
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die alten Wasserfälle, die einst die Mühlen antrieben.",
+            "hu": "Figyelje meg a régi vízeséseket, amelyek egykor a malmokat hajtották.",
+            "ro": "Fiți atenți la cascadele vechi care alimentau odinioară morile.",
+            "en": "Look for the old waterfalls that once powered the mills."
+          }
+        },
+        {
+          "name": {
+            "de": "Konventionsgården",
+            "hu": "Konventionsgården",
+            "ro": "Konventionsgården",
+            "en": "Konventionsgården"
+          },
+          "coords": [
+            10.658,
+            59.434
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie sich die historischen Verhandlungen vor, die in diesen Mauern stattfanden.",
+            "hu": "Képzelje el a falak között zajló történelmi tárgyalásokat.",
+            "ro": "Imaginați-vă negocierile istorice care au avut loc între acești pereți.",
+            "en": "Imagine the historic negotiations that took place within these walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Moss",
+            "hu": "Moss-templom",
+            "ro": "Biserica din Moss",
+            "en": "Moss Church"
+          },
+          "coords": [
+            10.655,
+            59.435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das neugotische Design ist von außen beeindruckender als von innen.",
+            "hu": "A neogótikus dizájn kívülről lenyűgözőbb, mint belülről.",
+            "ro": "Designul neogotic este mai impresionant la exterior decât la interior.",
+            "en": "The neo-Gothic design is more impressive from the outside than inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleri Moss",
+            "hu": "Galleri Moss",
+            "ro": "Galeria Moss",
+            "en": "Galleri Moss"
+          },
+          "coords": [
+            10.659,
+            59.433
+          ],
+          "category": "museums",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konzentriert sich auf zeitgenössische norwegische Kunst. Überprüfen Sie die aktuelle Ausstellung.",
+            "hu": "A kortárs norvég művészetre összpontosít. Ellenőrizze az aktuális kiállítást.",
+            "ro": "Se concentrează pe arta norvegiană contemporană. Verificați expoziția curentă.",
+            "en": "Focuses on contemporary Norwegian art. Check the current exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Verket",
+            "hu": "Verket",
+            "ro": "Verket",
+            "en": "Verket"
+          },
+          "coords": [
+            10.667,
+            59.431
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Kulturzentrum in einer alten Fabrik. Oft gibt es Märkte oder Konzerte.",
+            "hu": "Egy régi gyárban található kulturális központ. Gyakran vannak piacok vagy koncertek.",
+            "ro": "Un centru cultural într-o veche fabrică. Adesea găzduiește piețe sau concerte.",
+            "en": "A cultural hub in an old factory. Often hosts markets or concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Moss Sjøbad (Seebad)",
+            "hu": "Moss Sjøbad (Tengeri fürdő)",
+            "ro": "Moss Sjøbad (Baia maritimă)",
+            "en": "Moss Sjøbad (Sea Bath)"
+          },
+          "coords": [
+            10.651,
+            59.438
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:20",
+          "stay_min": 110,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Perfekt für ein erfrischendes Bad im Fjord oder um den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes egy frissítő úszásra a fjordban vagy a naplemente megtekintésére.",
+            "ro": "Perfect pentru o baie răcoritoare în fiord sau pentru a privi apusul.",
+            "en": "Perfect for a refreshing dip in the fjord or to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ruhigen Kanalparken und spüren Sie die industrielle Vergangenheit von Moss in Møllebyen. Erkunden Sie das historische Herz der Stadt rund um die Konventionsgården und die Kirche. Am Nachmittag tauchen Sie in die lokale Kunst in der Galleri Moss und der kreativen Atmosphäre von Verket ein. Beenden Sie Ihren Tag mit einem entspannenden Spaziergang zum Seebad Moss Sjøbad, wo Sie die frische Meeresbrise genießen können.",
+        "hu": "Kezdje a napot a békés Kanalparkennél, majd érezze át Moss ipari múltját Møllebyenben. Fedezze fel a város történelmi szívét a Konventionsgården és a templom környékén. Délután merüljön el a helyi művészetben a Galleri Mossban és a Verket kreatív légkörében. Zárja a napot egy pihentető sétával a Moss Sjøbad tengeri fürdőhöz, élvezve a friss tengeri szellőt.",
+        "ro": "Începeți ziua la liniștitul Kanalparken și simțiți trecutul industrial al orașului Moss la Møllebyen. Explorați inima istorică a orașului în jurul Konventionsgården și a bisericii. După-amiaza, pătrundeți în arta locală la Galleri Moss și în atmosfera creativă de la Verket. Încheiați ziua cu o plimbare relaxantă la baia maritimă Moss Sjøbad, bucurându-vă de briza proaspătă a mării.",
+        "en": "Start your day at the serene Kanalparken and feel Moss's industrial past at Møllebyen. Explore the historic heart of the city around Konventionsgården and the church. In the afternoon, immerse yourself in local art at Galleri Moss and the creative atmosphere of Verket. End your day with a relaxing stroll to the Moss Sjøbad sea bath, enjoying the fresh sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Probieren Sie norwegische Waffeln mit süßem braunem Käse in einem Café in der Innenstadt."
+          },
+          {
+            "name": "Fiskesuppe",
+            "tip": "Eine cremige Fischsuppe ist perfekt für ein herzhaftes Mittagessen in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Kóstolja meg a norvég gofrit édes barna sajttal egy belvárosi kávézóban."
+          },
+          {
+            "name": "Fiskesuppe",
+            "tip": "Egy krémes halleves tökéletes egy kiadós ebédhez a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Încercați vafele norvegiene cu brânză maro dulce la o cafenea din centrul orașului."
+          },
+          {
+            "name": "Fiskesuppe",
+            "tip": "O supă cremă de pește este perfectă pentru un prânz consistent lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vafler med brunost",
+            "tip": "Try Norwegian waffles with sweet brown cheese at a downtown café."
+          },
+          {
+            "name": "Fiskesuppe",
+            "tip": "A creamy fish soup is perfect for a hearty lunch near the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jeløya Küste",
+            "tip": "Ein längerer Spaziergang, aber die Küstenpfade bieten Ruhe und atemberaubende Ausblicke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanalparken",
+            "tip": "Besonders am Morgen ein Ort der Ruhe und des Friedens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jeløya partvonala",
+            "tip": "Hosszabb séta, de a parti ösvények nyugalmat és lenyűgöző kilátást kínálnak.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanalparken",
+            "tip": "Különösen reggelente a béke és a nyugalom helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Jeløya",
+            "tip": "O plimbare mai lungă, dar potecile de coastă oferă liniște și priveliști uimitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanalparken",
+            "tip": "Un loc de pace și liniște, mai ales dimineața.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jeløya coastline",
+            "tip": "A longer walk, but the coastal paths offer tranquility and stunning views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanalparken",
+            "tip": "A place of peace and quiet, especially in the morning.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verket",
+            "tip": "Suchen Sie nach einzigartigem Kunsthandwerk von lokalen Künstlern."
+          },
+          {
+            "name": "Geschäfte in der Innenstadt",
+            "tip": "Stöbern Sie in den kleinen Boutiquen nach norwegischem Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verket",
+            "tip": "Keressen egyedi kézműves termékeket helyi művészektől."
+          },
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Böngésszen a kis butikokban norvég dizájnért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verket",
+            "tip": "Căutați obiecte de artizanat unice de la artiștii locali."
+          },
+          {
+            "name": "Magazinele din centrul orașului",
+            "tip": "Răsfoiți micile buticuri pentru design norvegian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verket",
+            "tip": "Look for unique handicrafts from local artists."
+          },
+          {
+            "name": "Downtown shops",
+            "tip": "Browse the small boutiques for Norwegian design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee.",
+          "Die meisten Orte im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Überprüfen Sie die Wettervorhersage und kleiden Sie sich entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Egy újratölthető vizes palack jó ötlet.",
+          "A legtöbb belvárosi helyszín könnyen megközelíthető gyalog.",
+          "Ellenőrizze az időjárás-előrejelzést és öltözzön rétegesen."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe jos toată ziua.",
+          "O sticlă de apă reutilizabilă este o idee bună.",
+          "Majoritatea locurilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Verificați prognoza meteo și îmbrăcați-vă în straturi."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking all day.",
+          "A reusable water bottle is a good idea.",
+          "Most places in the city center are within easy walking distance.",
+          "Check the weather forecast and dress in layers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Møllebyen",
+            "hu": "Møllebyen",
+            "ro": "Møllebyen",
+            "en": "Møllebyen"
+          },
+          "coords": [
+            10.665,
+            59.436
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im Herzen des industriellen Erbes von Moss.",
+            "hu": "Kezdje a kerékpártúrát Moss ipari örökségének szívében.",
+            "ro": "Începeți turul cu bicicleta în inima patrimoniului industrial din Moss.",
+            "en": "Start your bike tour in the heart of Moss's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Konventionsgården",
+            "hu": "Konventionsgården",
+            "ro": "Konventionsgården",
+            "en": "Konventionsgården"
+          },
+          "coords": [
+            10.658,
+            59.434
+          ],
+          "category": "historical",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich Zeit, die Geschichte dieses Ortes aufzusaugen.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt a hely történelmének megismerésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a absorbi istoria acestui loc.",
+            "en": "Lock up your bike and take time to absorb the history of this place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Moss",
+            "hu": "Moss-templom",
+            "ro": "Biserica din Moss",
+            "en": "Moss Church"
+          },
+          "coords": [
+            10.655,
+            59.435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die Architektur zu bewundern, bevor Sie weiterfahren.",
+            "hu": "Egy rövid megálló, hogy megcsodálja az építészetet, mielőtt továbbhalad.",
+            "ro": "O oprire scurtă pentru a admira arhitectura înainte de a merge mai departe.",
+            "en": "A quick stop to admire the architecture before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Verket",
+            "hu": "Verket",
+            "ro": "Verket",
+            "en": "Verket"
+          },
+          "coords": [
+            10.667,
+            59.431
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:04",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Möglicherweise gibt es einen Pop-up-Markt oder eine Veranstaltung, die Sie erkunden können.",
+            "hu": "Lehet, hogy van egy pop-up piac vagy rendezvény, amit felfedezhet.",
+            "ro": "S-ar putea să existe o piață pop-up sau un eveniment de explorat.",
+            "en": "There might be a pop-up market or event to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Torderød Gård",
+            "hu": "Torderød Gård",
+            "ro": "Torderød Gård",
+            "en": "Torderød Gård"
+          },
+          "coords": [
+            10.635,
+            59.43
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Fahrt über die Brücke nach Jeløya ist malerisch.",
+            "hu": "A hídon átvezető út Jeløya szigetére festői.",
+            "ro": "Plimbarea peste pod spre Jeløya este pitorească.",
+            "en": "The ride over the bridge to Jeløya is scenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Alby Gård",
+            "hu": "Alby Gård",
+            "ro": "Alby Gård",
+            "en": "Alby Gård"
+          },
+          "coords": [
+            10.63,
+            59.415
+          ],
+          "category": "museums",
+          "arrive_at": "14:46",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Beherbergt die Galerie F15. Ein Muss für Kunst- und Naturliebhaber.",
+            "hu": "Itt található a Galleri F15. Kötelező a művészet és a természet szerelmeseinek.",
+            "ro": "Găzduiește Galeria F15. O vizită obligatorie pentru iubitorii de artă și natură.",
+            "en": "Houses Gallery F15. A must-visit for art and nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Moss Sjøbad",
+            "hu": "Moss Sjøbad",
+            "ro": "Moss Sjøbad",
+            "en": "Moss Sjøbad"
+          },
+          "coords": [
+            10.651,
+            59.438
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:44",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein wohlverdientes Bad nach einem Tag Radfahren.",
+            "hu": "Jól megérdemelt pihenés egy napos kerékpározás után.",
+            "ro": "O baie binemeritată după o zi de ciclism.",
+            "en": "A well-deserved dip after a day of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im industriellen Møllebyen und führt Sie ins historische Zentrum. Nach einem Halt bei der Kirche radeln Sie über die Brücke zur wunderschönen Insel Jeløya. Dort erkunden Sie die prächtigen Anwesen Torderød und Alby Gård, umgeben von Natur. Am Ende des Tages kehren Sie zurück in die Stadt, um sich am Moss Sjøbad zu entspannen und die Aussicht zu genießen.",
+        "hu": "A kerékpártúra az ipari Møllebyenből indul a történelmi központ felé. A templomnál tett megálló után átteker a gyönyörű Jeløya szigetére. Ott felfedezi a Torderød és Alby Gård birtokokat, természettel körülvéve. A nap végén visszatér a városba, hogy pihenjen a Moss Sjøbadnál és élvezze a kilátást.",
+        "ro": "Turul cu bicicleta începe în zona industrială Møllebyen și vă duce în centrul istoric. După o oprire la biserică, pedalați peste pod spre frumoasa insulă Jeløya. Acolo explorați moșiile Torderød și Alby Gård, înconjurate de natură. La sfârșitul zilei, reveniți în oraș pentru a vă relaxa la Moss Sjøbad și a vă bucura de priveliște.",
+        "en": "Your bike tour starts in industrial Møllebyen and takes you to the historic center. After a stop at the church, you'll cycle across the bridge to the beautiful island of Jeløya. There, you'll explore the Torderød and Alby Gård estates, surrounded by nature. At the end of the day, you'll return to the city to relax at Moss Sjøbad and enjoy the view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Reker",
+            "tip": "Frische Garnelen direkt vom Boot, genossen auf einem Picknick am Strand."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer lokalen Brauerei in einer der Kneipen in Verket."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reker",
+            "tip": "Friss garnélarák közvetlenül a hajóról, egy tengerparti pikniken elfogyasztva."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört egy helyi sörfőzdéből a Verket egyik kocsmájában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reker",
+            "tip": "Creveți proaspeți direct de pe barcă, savurați la un picnic pe plajă."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la o fabrică locală la unul dintre pub-urile din Verket."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reker",
+            "tip": "Fresh shrimp straight from the boat, enjoyed at a picnic on the beach."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from a local brewery at one of the pubs in Verket."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alby Naturreservat",
+            "tip": "Die Wege rund um Alby Gård sind perfekt für eine ruhige Radtour in der Natur.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang am Sjøbad",
+            "tip": "Der beste Ort in der Stadt, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alby természetvédelmi terület",
+            "tip": "Az Alby Gård körüli ösvények tökéletesek egy csendes kerékpártúrához a természetben.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a Sjøbadnál",
+            "tip": "A legjobb hely a városban a nap befejezéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Alby",
+            "tip": "Potecile din jurul Alby Gård sunt perfecte pentru o plimbare liniștită cu bicicleta în natură.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus la Sjøbad",
+            "tip": "Cel mai bun loc din oraș pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alby Nature Reserve",
+            "tip": "The paths around Alby Gård are perfect for a quiet bike ride in nature.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset at Sjøbad",
+            "tip": "The best spot in town to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galleri F15 (Alby Gård)",
+            "tip": "Der Museumsshop bietet oft Drucke und Bücher von norwegischen Künstlern an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galleri F15 (Alby Gård)",
+            "tip": "A múzeumi bolt gyakran kínál norvég művészek nyomatait és könyveit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galleri F15 (Alby Gård)",
+            "tip": "Magazinul muzeului oferă adesea printuri și cărți ale artiștilor norvegieni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallery F15 (Alby Gård)",
+            "tip": "The museum shop often offers prints and books by Norwegian artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad im Stadtzentrum oder bringen Sie Ihr eigenes mit.",
+          "Ein Helm wird empfohlen, besonders auf den Straßen.",
+          "Nehmen Sie Snacks und Wasser für die Fahrt nach Jeløya mit.",
+          "Die meisten Wege sind gut gepflegt, aber seien Sie auf einige Hügel vorbereitet."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a városközpontban, vagy hozza a sajátját.",
+          "Sisak viselése ajánlott, különösen az utakon.",
+          "Vigyen magával harapnivalót és vizet a Jeløya-i útra.",
+          "A legtöbb út jól karbantartott, de készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Închiriați o bicicletă din centrul orașului sau aduceți-vă propria.",
+          "Se recomandă casca de protecție, mai ales pe drumuri.",
+          "Luați gustări și apă pentru plimbarea pe Jeløya.",
+          "Majoritatea potecilor sunt bine întreținute, dar fiți pregătiți pentru câteva dealuri."
+        ],
+        "en": [
+          "Rent a bike in the city center or bring your own.",
+          "A helmet is recommended, especially on the roads.",
+          "Bring snacks and water for the trip to Jeløya.",
+          "Most paths are well-maintained, but be prepared for some hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:52",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt nach Jeløya & Alby Gård",
+            "hu": "Utazás Jeløyába és Alby Gårdba",
+            "ro": "Cu mașina spre Jeløya și Alby Gård",
+            "en": "Drive to Jeløya & Alby Gård"
+          },
+          "coords": [
+            10.63,
+            59.415
+          ],
+          "category": "museums",
+          "arrive_at": "09:19",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihr Inselabenteuer. Das ist Ihr erster Cluster.",
+            "hu": "Parkoljon itt, és kezdje meg a szigeti kalandot. Ez az első állomás-csoport.",
+            "ro": "Parcați aici și începeți aventura pe insulă. Acesta este primul dvs. cluster.",
+            "en": "Park here and start your island adventure. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Torderød Gård",
+            "hu": "Torderød Gård",
+            "ro": "Torderød Gård",
+            "en": "Torderød Gård"
+          },
+          "coords": [
+            10.635,
+            59.43
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Alby Gård durch die ländliche Landschaft.",
+            "hu": "Egy kellemes séta az Alby Gårdtól a vidéki tájon keresztül.",
+            "ro": "O plimbare frumoasă de la Alby Gård prin peisajul rural.",
+            "en": "A lovely walk from Alby Gård through the rural landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Jeløya",
+            "hu": "Jeløya kilátó",
+            "ro": "Punct de belvedere Jeløya",
+            "en": "Jeløya Viewpoint"
+          },
+          "coords": [
+            10.625,
+            59.42
+          ],
+          "category": "natural features",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Punkt mit Blick auf den Fjord, bevor Sie zum Auto zurückkehren.",
+            "hu": "Keressen egy pontot, ahonnan kilátás nyílik a fjordra, mielőtt visszatérne az autóhoz.",
+            "ro": "Căutați un punct cu vedere la fiord înainte de a vă întoarce la mașină.",
+            "en": "Find a spot overlooking the fjord before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum & Konventionsgården",
+            "hu": "Utazás a központba és a Konventionsgårdenhez",
+            "ro": "Cu mașina spre centru și Konventionsgården",
+            "en": "Drive to Center & Konventionsgården"
+          },
+          "coords": [
+            10.658,
+            59.434
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz für den zweiten Cluster des Tages.",
+            "hu": "Keressen egy központi parkolót a nap második állomás-csoportjához.",
+            "ro": "Găsiți o parcare centrală pentru al doilea cluster al zilei.",
+            "en": "Find a central parking spot for the day's second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Moss",
+            "hu": "Moss-templom",
+            "ro": "Biserica din Moss",
+            "en": "Moss Church"
+          },
+          "coords": [
+            10.655,
+            59.435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Konventionsgården entfernt.",
+            "hu": "Csak egy rövid sétára a Konventionsgårdentől.",
+            "ro": "La doar o scurtă plimbare de Konventionsgården.",
+            "en": "Just a short walk from Konventionsgården."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebyen",
+            "hu": "Møllebyen",
+            "ro": "Møllebyen",
+            "en": "Møllebyen"
+          },
+          "coords": [
+            10.665,
+            59.436
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:48",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie am Wasser entlang, um dieses restaurierte Viertel zu erreichen.",
+            "hu": "Sétáljon a víz mentén, hogy elérje ezt a felújított negyedet.",
+            "ro": "Plimbați-vă de-a lungul apei pentru a ajunge în acest cartier restaurat.",
+            "en": "Stroll along the water to reach this restored district."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Moss Sjøbad",
+            "hu": "Utazás a Moss Sjøbadhoz",
+            "ro": "Cu mașina la Moss Sjøbad",
+            "en": "Drive to Moss Sjøbad"
+          },
+          "coords": [
+            10.651,
+            59.438
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:52",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Sprung mit dem Auto, um den Tag am Meer ausklingen zu lassen.",
+            "hu": "Egy utolsó rövid autózás, hogy a tengernél fejezze be a napot.",
+            "ro": "O ultimă scurtă călătorie cu mașina pentru a încheia ziua la mare.",
+            "en": "One last short hop in the car to end the day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zur malerischen Insel Jeløya, parken Sie Ihr Auto und erkunden Sie zu Fuß die Kunst im Alby Gård und die Geschichte des Torderød Gård. Nach dem Eintauchen in die Natur fahren Sie zurück ins Stadtzentrum von Moss. Parken Sie erneut und entdecken Sie den historischen Kern zu Fuß, von der Konventionsgården bis zur Møllebyen. Ein kurzer letzter Trip mit dem Auto bringt Sie zum Moss Sjøbad, dem perfekten Ort, um den Sonnenuntergang zu genießen.",
+        "hu": "Reggel vezessen egyenesen a festői Jeløya szigetére, parkolja le az autót, és gyalog fedezze fel az Alby Gård művészetét és a Torderød Gård történelmét. Miután elmerült a természetben, térjen vissza Moss városközpontjába. Parkoljon le újra, és gyalogosan fedezze fel a történelmi magot, a Konventionsgårdentől Møllebyenig. Egy utolsó rövid autózás elviszi a Moss Sjøbadhoz, amely tökéletes hely a naplemente élvezetére.",
+        "ro": "Dimineața, conduceți direct spre pitoreasca insulă Jeløya, parcați mașina și explorați pe jos arta de la Alby Gård și istoria de la Torderød Gård. După ce v-ați cufundat în natură, întoarceți-vă în centrul orașului Moss. Parcați din nou și descoperiți nucleul istoric pe jos, de la Konventionsgården la Møllebyen. O ultimă scurtă călătorie cu mașina vă va duce la Moss Sjøbad, locul perfect pentru a vă bucura de apus.",
+        "en": "In the morning, drive directly to the scenic island of Jeløya, park your car, and explore the art at Alby Gård and the history of Torderød Gård on foot. After immersing yourself in nature, drive back to Moss city center. Park again and discover the historic core on foot, from Konventionsgården to Møllebyen. A final short car trip takes you to Moss Sjøbad, the perfect spot to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café F15",
+            "tip": "Das Café im Alby Gård ist berühmt für seinen Kuchen, bekannt als „Albykringle“."
+          },
+          {
+            "name": "Restaurant am Hafen",
+            "tip": "Zurück in der Stadt, gönnen Sie sich ein Abendessen mit Meeresfrüchten und Blick auf die Boote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café F15",
+            "tip": "Az Alby Gård-i kávézó híres a süteményéről, az „Albykringle”-ről."
+          },
+          {
+            "name": "Étterem a kikötőben",
+            "tip": "Visszatérve a városba, kényeztesse magát egy tengeri herkentyűs vacsorával, kilátással a hajókra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café F15",
+            "tip": "Cafeneaua de la Alby Gård este renumită pentru prăjitura sa, cunoscută sub numele de „Albykringle”."
+          },
+          {
+            "name": "Restaurant în port",
+            "tip": "Înapoi în oraș, răsfățați-vă cu o cină cu fructe de mare cu vedere la bărci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café F15",
+            "tip": "The café at Alby Gård is famous for its pastry, known as the 'Albykringle'."
+          },
+          {
+            "name": "Harbor Restaurant",
+            "tip": "Back in town, treat yourself to a seafood dinner with a view of the boats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Søndre Jeløy Landschaftsschutzgebiet",
+            "tip": "Das Gebiet um Alby Gård bietet kilometerlange ruhige Wanderwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Sjøbad",
+            "tip": "Am späten Nachmittag ist es ein wunderbarer Ort, um sich zu entspannen und dem Wasser zu lauschen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Søndre Jeløy tájvédelmi körzet",
+            "tip": "Az Alby Gård körüli terület kilométernyi csendes túraútvonalat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sjøbad strand",
+            "tip": "Késő délután csodálatos hely a pihenésre és a víz hallgatására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona de peisaj protejat Søndre Jeløy",
+            "tip": "Zona din jurul Alby Gård oferă kilometri de trasee de drumeții liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Sjøbad",
+            "tip": "Un loc minunat pentru a vă relaxa și a asculta apa după-amiaza târziu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Søndre Jeløy Landscape Protection Area",
+            "tip": "The area around Alby Gård offers kilometers of quiet hiking trails.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sjøbad Beach",
+            "tip": "A wonderful place to relax and listen to the water in the late afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Alby Gård",
+            "tip": "Kaufen Sie lokale Produkte und Kunsthandwerk, bevor Sie die Insel verlassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alby Gård farmbolt",
+            "tip": "Vásároljon helyi termékeket és kézműves árukat, mielőtt elhagyja a szigetet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Alby Gård",
+            "tip": "Cumpărați produse locale și artizanat înainte de a părăsi insula."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alby Gård Farm Shop",
+            "tip": "Buy local produce and crafts before you leave the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum kostenpflichtig sein.",
+          "Die Cluster-Walking-Methode spart Zeit beim Parken.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in Wohngebieten auf Jeløya.",
+          "Haben Sie Kleingeld oder eine Park-App für die Parkautomaten bereit."
+        ],
+        "hu": [
+          "A parkolás a városközpontban díjköteles lehet.",
+          "A klaszteres séta módszer időt takarít meg a parkolással.",
+          "Tartsa be a sebességkorlátozásokat, különösen Jeløya lakóövezeteiben.",
+          "Készítsen elő aprópénzt vagy parkolóalkalmazást a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Parcarea poate fi contra cost în centrul orașului.",
+          "Metoda de plimbare în cluster economisește timp la parcare.",
+          "Respectați limitele de viteză, în special în zonele rezidențiale de pe Jeløya.",
+          "Pregătiți monede sau o aplicație de parcare pentru automatele de parcare."
+        ],
+        "en": [
+          "Parking can be paid in the city center.",
+          "The cluster-walking method saves time on parking.",
+          "Obey the speed limits, especially in residential areas on Jeløya.",
+          "Have coins or a parking app ready for the parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Konventionsgården",
+            "hu": "Konventionsgården",
+            "ro": "Konventionsgården",
+            "en": "Konventionsgården"
+          },
+          "coords": [
+            10.658,
+            59.434
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt, leicht erreichbar von der Hauptbushaltestelle.",
+            "hu": "Kezdje a város szívében, amely könnyen elérhető a fő buszmegállótól.",
+            "ro": "Începeți în inima orașului, ușor accesibil de la autogara principală.",
+            "en": "Start in the heart of the city, easily accessible from the main bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Moss",
+            "hu": "Moss-templom",
+            "ro": "Biserica din Moss",
+            "en": "Moss Church"
+          },
+          "coords": [
+            10.655,
+            59.435
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um die Beine zu vertreten.",
+            "hu": "Egy rövid séta a lábak nyújtóztatására.",
+            "ro": "O scurtă plimbare pentru a vă dezmorți picioarele.",
+            "en": "A short walk to stretch your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Møllebyen",
+            "hu": "Møllebyen",
+            "ro": "Møllebyen",
+            "en": "Møllebyen"
+          },
+          "coords": [
+            10.665,
+            59.436
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ersten Cluster zu Fuß, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel az első állomás-csoportot gyalog, mielőtt buszra szállna.",
+            "ro": "Explorați primul cluster pe jos înainte de a lua autobuzul.",
+            "en": "Explore the first cluster on foot before you take the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Jeløya & Torderød Gård",
+            "hu": "Busz Jeløyába és a Torderød Gårdhoz",
+            "ro": "Autobuz spre Jeløya și Torderød Gård",
+            "en": "Bus to Jeløya & Torderød Gård"
+          },
+          "coords": [
+            10.635,
+            59.43
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Busfahrt bietet eine andere Perspektive auf die Stadt und die Brücke.",
+            "hu": "A buszozás más perspektívát nyújt a városra és a hídra.",
+            "ro": "Călătoria cu autobuzul oferă o perspectivă diferită asupra orașului și podului.",
+            "en": "The bus ride gives a different perspective of the city and bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Alby Gård",
+            "hu": "Séta az Alby Gårdhoz",
+            "ro": "Plimbare spre Alby Gård",
+            "en": "Walk to Alby Gård"
+          },
+          "coords": [
+            10.63,
+            59.415
+          ],
+          "category": "museums",
+          "arrive_at": "14:44",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang auf der Insel, das ist der zweite Cluster.",
+            "hu": "Élvezze a sétát a szigeten, ez a második állomás-csoport.",
+            "ro": "Bucurați-vă de plimbarea pe insulă, acesta este al doilea cluster.",
+            "en": "Enjoy the walk on the island, this is the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Moss Sjøbad",
+            "hu": "Busz a Moss Sjøbadhoz",
+            "ro": "Autobuz spre Moss Sjøbad",
+            "en": "Bus to Moss Sjøbad"
+          },
+          "coords": [
+            10.651,
+            59.438
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:08",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in die Stadt und steigen Sie in der Nähe des Strandes aus, um den Tag ausklingen zu lassen.",
+            "hu": "Vegyen egy buszt vissza a városba, és szálljon le a strand közelében a nap befejezéséhez.",
+            "ro": "Luați un autobuz înapoi în oraș și coborâți lângă plajă pentru a încheia ziua.",
+            "en": "Take a bus back to town and get off near the beach to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Moss, das Sie zu Fuß erkunden. Nachdem Sie die Atmosphäre von Konventionsgården und Møllebyen aufgesogen haben, nehmen Sie einen Bus zur Insel Jeløya. Dort spazieren Sie zwischen den Anwesen Torderød und Alby Gård und genießen die Natur. Ein weiterer Bus bringt Sie zurück in die Stadt, wo Sie den Abend am entspannenden Moss Sjøbad ausklingen lassen.",
+        "hu": "A nap Moss történelmi központjában kezdődik, amelyet gyalogosan fedez fel. Miután magába szívta a Konventionsgården és Møllebyen hangulatát, buszra száll Jeløya szigetére. Ott sétáljon a Torderød és Alby Gård birtokok között, élvezve a természetet. Egy másik busz visszaviszi a városba, ahol az estét a pihentető Moss Sjøbadnál zárhatja.",
+        "ro": "Ziua dvs. începe în centrul istoric al orașului Moss, pe care îl explorați pe jos. După ce ați absorbit atmosfera din Konventionsgården și Møllebyen, luați un autobuz spre insula Jeløya. Acolo, vă plimbați între moșiile Torderød și Alby Gård, bucurându-vă de natură. Un alt autobuz vă duce înapoi în oraș, unde puteți încheia seara la relaxantul Moss Sjøbad.",
+        "en": "Your day starts in the historic center of Moss, which you explore on foot. After soaking up the atmosphere of Konventionsgården and Møllebyen, you'll take a bus to the island of Jeløya. There, you'll walk between the Torderød and Alby Gård estates, enjoying the nature. Another bus will take you back to the city, where you can end the evening at the relaxing Moss Sjøbad."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kringler",
+            "tip": "Probieren Sie das berühmte Gebäck aus dem Café bei Alby Gård."
+          },
+          {
+            "name": "Pølse",
+            "tip": "Ein schneller norwegischer Hotdog von einem Kiosk ist ein einfacher, aber leckerer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kringler",
+            "tip": "Kóstolja meg a híres péksüteményt az Alby Gård-i kávézóból."
+          },
+          {
+            "name": "Pølse",
+            "tip": "Egy gyors norvég hot dog egy kioszkból egyszerű, de finom harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kringler",
+            "tip": "Încercați faimosul produs de patiserie de la cafeneaua de la Alby Gård."
+          },
+          {
+            "name": "Pølse",
+            "tip": "Un hotdog norvegian rapid de la un chioșc este o gustare simplă, dar gustoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kringler",
+            "tip": "Try the famous pastry from the café at Alby Gård."
+          },
+          {
+            "name": "Pølse",
+            "tip": "A quick Norwegian hot dog from a kiosk is a simple but tasty snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt-Fensterplatz",
+            "tip": "Genießen Sie die ruhige Aussicht auf die Landschaft von Ihrem Sitz aus.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang auf Jeløya",
+            "tip": "Der Weg zwischen Torderød und Alby ist abgeschieden und friedlich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze a táj csendes látványát az üléséből.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta Jeløyán",
+            "tip": "A Torderød és Alby közötti út eldugott és békés.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Bucurați-vă de priveliștea liniștită a peisajului de pe scaunul dvs.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare pe Jeløya",
+            "tip": "Calea dintre Torderød și Alby este retrasă și pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window seat",
+            "tip": "Enjoy the quiet views of the landscape from your seat.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Walk on Jeløya",
+            "tip": "The path between Torderød and Alby is secluded and peaceful.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Supermärkte",
+            "tip": "Kaufen Sie norwegische Schokolade und Snacks für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szupermarketek",
+            "tip": "Vásároljon norvég csokoládét és rágcsálnivalókat a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri locale",
+            "tip": "Cumpărați ciocolată și gustări norvegiene pentru călătoria spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local supermarkets",
+            "tip": "Buy some Norwegian chocolate and snacks for the trip home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu erhalten.",
+          "Beachten Sie die Abfahrtszeiten des letzten Busses, besonders von Jeløya.",
+          "Einige Busse fahren am Wochenende möglicherweise seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Figyeljen az utolsó busz indulási idejére, különösen Jeløyáról.",
+          "Néhány busz ritkábban közlekedhet hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți atenți la orele de plecare ale ultimului autobuz, în special de pe Jeløya.",
+          "Unele autobuze pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app for real-time schedules.",
+          "Be aware of the last bus departure times, especially from Jeløya.",
+          "Some buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

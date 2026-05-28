@@ -1,0 +1,1604 @@
+{
+  "city_id": "slovakia-trencin-cities-v2",
+  "anchor": {
+    "name": "Trenčín",
+    "coords": [
+      18.0415,
+      48.8944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mierové námestie (Friedensplatz)",
+            "hu": "Mierové námestie (Béke tér)",
+            "ro": "Mierové námestie (Piața Păcii)",
+            "en": "Mierové námestie (Peace Square)"
+          },
+          "coords": [
+            18.0411,
+            48.8946
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day with a coffee at one of the many cafés lining the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            18.0423,
+            48.8953
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eng, aber die Aussicht auf den Platz und die Burg ist es wert.",
+            "hu": "A lépcsőház szűk, de a kilátás a térre és a várra megéri a fáradságot.",
+            "ro": "Urcușul este îngust, dar priveliștea asupra pieței și a castelului merită efortul.",
+            "en": "The climb is narrow, but the view of the square and the castle is well worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche des Heiligen Franz Xaver",
+            "hu": "Xavéri Szent Ferenc Piarista Templom",
+            "ro": "Biserica Piaristă Sfântul Francisc Xaveriu",
+            "en": "Piarist Church of St. Francis Xavier"
+          },
+          "coords": [
+            18.0418,
+            48.8951
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Deckenfresken und den ruhigen Innenhof.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a békés belső udvart.",
+            "ro": "Observați frescele impresionante de pe tavan și curtea interioară liniștită.",
+            "en": "Take note of the impressive ceiling frescoes and the quiet inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            18.0395,
+            48.8938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das restaurierte Gebäude wird heute als Kulturzentrum genutzt; prüfen Sie den Veranstaltungsplan.",
+            "hu": "A felújított épület ma kulturális központként működik; ellenőrizze a programot!",
+            "ro": "Clădirea restaurată este acum folosită ca centru cultural; verificați programul evenimentelor.",
+            "en": "The restored building is now a cultural center; check for any ongoing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Inschrift auf dem Burgfelsen",
+            "hu": "Római kori felirat a várhegyen",
+            "ro": "Inscripția Romană de pe stânca castelului",
+            "en": "Roman Inscription on the castle rock"
+          },
+          "coords": [
+            18.0435,
+            48.8936
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Inschrift ist am besten vom Hotel Tatra aus sichtbar.",
+            "hu": "A felirat a legjobban a Tatra Hotelből látható.",
+            "ro": "Inscripția este cel mai bine vizibilă de la Hotelul Tatra.",
+            "en": "The inscription is best viewed from the Hotel Tatra building."
+          }
+        },
+        {
+          "name": {
+            "de": "Henkerhaus",
+            "hu": "Hóhér háza",
+            "ro": "Casa Călăului",
+            "en": "Executioner's House"
+          },
+          "coords": [
+            18.0439,
+            48.8956
+          ],
+          "category": "museums",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber faszinierendes Museum über das mittelalterliche Rechtssystem. Nichts für schwache Nerven.",
+            "hu": "Kicsi, de lenyűgöző múzeum a középkori igazságszolgáltatásról. Nem a gyenge idegzetűeknek.",
+            "ro": "Un muzeu mic, dar fascinant, despre sistemul juridic medieval. Nu pentru cei slabi de înger.",
+            "en": "A small but fascinating museum about the city's medieval law. Not for the faint of heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrtreppe",
+            "hu": "Plébánia-lépcső",
+            "ro": "Scările Parohiei",
+            "en": "Parish Staircase"
+          },
+          "coords": [
+            18.0432,
+            48.8959
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese überdachte Treppe aus dem 16. Jahrhundert ist der stimmungsvollste Weg zur Burg.",
+            "hu": "Ez a 16. századi fedett lépcsősor a leghangulatosabb út a várhoz.",
+            "ro": "Aceste scări acoperite din secolul al XVI-lea sunt cea mai atmosferică cale spre castel.",
+            "en": "This covered 16th-century staircase is the most atmospheric way to get to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Trenčín",
+            "hu": "Trencséni vár",
+            "ro": "Castelul Trenčín",
+            "en": "Trenčín Castle"
+          },
+          "coords": [
+            18.0445,
+            48.895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:57",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für den Matúš-Turm ein, die Aussicht ist unschlagbar.",
+            "hu": "Szánjon elég időt a Máté-toronyra, a kilátás verhetetlen.",
+            "ro": "Planificați suficient timp pentru Turnul lui Matúš, priveliștea este imbatabilă.",
+            "en": "Allow plenty of time for the Matúš Tower; the views are unbeatable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Mierové námestie, dem Herzen von Trenčín. Am Vormittag erkunden Sie die historischen Juwelen des Platzes, darunter den Stadtturm und die Piaristenkirche. Gegen Mittag tauchen Sie in die jüdische Geschichte in der Synagoge und die römische Vergangenheit am Burgfelsen ein. Der Nachmittag ist ganz der majestätischen Burg gewidmet, die über der Stadt thront. Erklimmen Sie die alten Mauern und genießen Sie die atemberaubende Aussicht, bevor Sie den Abend in der Altstadt ausklingen lassen.",
+        "hu": "Kezdje a napot Trencsén szívében, a nyüzsgő Béke téren. A délelőtt folyamán fedezze fel a tér történelmi ékköveit, köztük a Várostornyot és a Piarista templomot. Dél körül merüljön el a zsinagóga zsidó történelmében és a várhegy római múltjában. A délután teljes egészében a város fölé magasodó fenséges váré. Mássza meg az ősi falakat, és élvezze a lélegzetelállító kilátást, mielőtt az óvárosban zárja az estét.",
+        "ro": "Începeți ziua în inima orașului Trenčín, în vibranta Piață a Păcii. În timpul dimineții, explorați bijuteriile istorice ale pieței, inclusiv Turnul Orașului și Biserica Piaristă. La prânz, aprofundați istoria evreiască la Sinagogă și trecutul roman la stânca castelului. După-amiaza este dedicată în întregime castelului maiestuos care domină orașul. Urcați pe zidurile antice și bucurați-vă de priveliștile uluitoare înainte de a încheia seara în orașul vechi.",
+        "en": "Start your day in the heart of Trenčín at the vibrant Peace Square. In the morning, explore the square's historical gems, including the City Tower and the Piarist Church. Around noon, delve into the Jewish history at the Synagogue and the Roman past at the castle rock. The afternoon is entirely dedicated to the majestic castle towering over the city. Climb the ancient walls and enjoy the breathtaking views before ending your evening back in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Schafskäsenockerl, ein absolutes Muss."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "Ein würziger Käseaufstrich, perfekt mit frischem Brot."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Direkt unter der Burg mit traditioneller Küche und toller Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, kötelező megkóstolni."
+          },
+          {
+            "name": "Liptói túrókrém",
+            "tip": "Fűszeres túrókrém, tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Fatima étterem",
+            "tip": "Közvetlenül a vár alatt, hagyományos konyhával és remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, o specialitate slovacă de neratat."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "O cremă de brânză picantă, perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Situat chiar sub castel, cu bucătărie tradițională și o atmosferă minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak sheep cheese dumplings, an absolute must-try."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "A spicy cheese spread, perfect with fresh bread."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Located right under the castle, offering traditional cuisine and a great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauern am späten Nachmittag",
+            "tip": "Weniger Menschen und goldenes Licht für Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Fluss Váh",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Piaristenkirche",
+            "tip": "Eine kleine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak késő délután",
+            "tip": "Kevesebb ember és aranyló fények a fotózáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Vág folyó partján",
+            "tip": "Egy rövid séta a központtól a csendes kikapcsolódásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Piarista templom belső udvara",
+            "tip": "A nyugalom kis oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile castelului după-amiaza târziu",
+            "tip": "Mai puțini oameni și lumină aurie pentru fotografii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Váh",
+            "tip": "La o scurtă plimbare de centru pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Bisericii Piariste",
+            "tip": "O mică oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle walls in the late afternoon",
+            "tip": "Fewer people and golden light for photos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Váh River",
+            "tip": "A short stroll from the center for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Piarist Church",
+            "tip": "A small oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach traditioneller Keramik und Holzschnitzereien in den Gassen der Altstadt."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Ein Geschäft für lokale Delikatessen, ideal für essbare Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen hagyományos kerámiákat és fafaragásokat az óváros sikátoraiban."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Helyi finomságokat árusító bolt, ideális ehető szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică tradițională și sculpturi în lemn pe străduțele din orașul vechi."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Un magazin cu delicatese locale, ideal pentru suveniruri comestibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for traditional pottery and woodcarvings in the old town's alleys."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "A shop for local delicacies, great for edible souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Der Aufstieg zur Burg ist steil; nehmen Sie sich Zeit.",
+          "Viele Museen sind montags geschlossen, prüfen Sie die Öffnungszeiten im Voraus.",
+          "Halten Sie Bargeld für kleinere Einkäufe und Trinkgelder bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "A várhoz vezető út meredek, szánjon rá időt.",
+          "Sok múzeum zárva tart hétfőn, előre ellenőrizze a nyitvatartást.",
+          "Tartson magánál készpénzt a kisebb vásárlásokhoz és a borravalóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pavajul poate fi denivelat.",
+          "Urcușul la castel este abrupt; nu vă grăbiți.",
+          "Multe muzee sunt închise lunea, verificați programul în avans.",
+          "Aveți la dumneavoastră numerar pentru cumpărături mici și bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "The climb to the castle is steep; take your time.",
+          "Many museums are closed on Mondays, so check opening hours in advance.",
+          "Keep some cash handy for smaller purchases and tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mierové námestie (Friedensplatz)",
+            "hu": "Mierové námestie (Béke tér)",
+            "ro": "Mierové námestie (Piața Păcii)",
+            "en": "Mierové námestie (Peace Square)"
+          },
+          "coords": [
+            18.0411,
+            48.8946
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz zu Fuß erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt gyalog felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața pe jos.",
+            "en": "Lock your bike securely before exploring the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            18.0395,
+            48.8938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Hauptplatz entfernt, bewundern Sie die orientalische Architektur.",
+            "hu": "Csak egy rövid tekerés a főtértől, csodálja meg az orientális stílusú építészetet.",
+            "ro": "La o scurtă plimbare cu bicicleta de piața principală, admirați arhitectura orientală.",
+            "en": "A short ride from the main square, admire the oriental-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche des Heiligen Franz Xaver",
+            "hu": "Xavéri Szent Ferenc Piarista Templom",
+            "ro": "Biserica Piaristă Sfântul Francisc Xaveriu",
+            "en": "Piarist Church of St. Francis Xavier"
+          },
+          "coords": [
+            18.0418,
+            48.8951
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Ruhe im Inneren.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a templom belső csendjét.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniștea din interior.",
+            "en": "Park your bike and enjoy the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            18.0423,
+            48.8953
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erklimmen Sie den Turm für eine Vogelperspektive.",
+            "hu": "Tegye le a biciklit és másszon fel a toronyba a madártávlati panorámáért.",
+            "ro": "Lăsați bicicleta și urcați în turn pentru o vedere panoramică.",
+            "en": "Leave your bike and climb the tower for a bird's-eye view."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Inschrift auf dem Burgfelsen",
+            "hu": "Római kori felirat a várhegyen",
+            "ro": "Inscripția Romană de pe stânca castelului",
+            "en": "Roman Inscription on the castle rock"
+          },
+          "coords": [
+            18.0435,
+            48.8936
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:34",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hotel Tatra, um den besten Blick auf dieses antike Zeugnis zu erhalten.",
+            "hu": "Tekerjen el a Tatra Hotelhez, onnan nyílik a legjobb kilátás az ókori leletre.",
+            "ro": "Mergeți cu bicicleta până la Hotelul Tatra pentru cea mai bună vedere a acestei mărturii antice.",
+            "en": "Cycle towards the Hotel Tatra for the best view of this ancient testimony."
+          }
+        },
+        {
+          "name": {
+            "de": "Henkerhaus",
+            "hu": "Hóhér háza",
+            "ro": "Casa Călăului",
+            "en": "Executioner's House"
+          },
+          "coords": [
+            18.0439,
+            48.8956
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort, um das Rad abzustellen, bevor man den Aufstieg zur Burg beginnt.",
+            "hu": "Jó hely a kerékpár lezárására, mielőtt megkezdené a mászást a várhoz.",
+            "ro": "Un loc bun pentru a lăsa bicicleta înainte de a începe urcușul spre castel.",
+            "en": "A good place to park the bike before starting the climb to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrtreppe",
+            "hu": "Plébánia-lépcső",
+            "ro": "Scările Parohiei",
+            "en": "Parish Staircase"
+          },
+          "coords": [
+            18.0432,
+            48.8959
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad hier oder lassen Sie es unten, da die Treppen steil sind.",
+            "hu": "Itt tolja a biciklit, vagy hagyja lent, mivel a lépcsők meredekek.",
+            "ro": "Împingeți bicicleta pe scări sau lăsați-o jos, deoarece treptele sunt abrupte.",
+            "en": "You'll have to walk your bike up here, or leave it at the bottom as the stairs are steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Trenčín",
+            "hu": "Trencséni vár",
+            "ro": "Castelul Trenčín",
+            "en": "Trenčín Castle"
+          },
+          "coords": [
+            18.0445,
+            48.895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Belohnung für den Aufstieg. Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A jutalom a hegymenetért. A bejárat közelében vannak kerékpártárolók.",
+            "ro": "Recompensa pentru urcuș. Există suporturi pentru biciclete lângă intrare.",
+            "en": "The reward for the uphill ride. There are bike racks near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Friedensplatz. Die Vormittagsroute führt Sie durch die kompakte Altstadt, vorbei an der Synagoge und der Piaristenkirche. Gegen Mittag erreichen Sie den Fuß des Burgbergs. Nach einer Stärkung und dem Besuch des Henkerhauses ist es Zeit, den Aufstieg zur Burg zu wagen. Der Nachmittag gehört der Erkundung der riesigen Festung, bevor Sie gemütlich zurück ins Zentrum rollen.",
+        "hu": "Pattanjon kerékpárra, és induljon a Béke térről. A délelőtti útvonal a kompakt óvároson keresztül vezet, elhaladva a zsinagóga és a piarista templom mellett. Dél körül érje el a Várhegy lábát. Ebéd és a Hóhér házának megtekintése után ideje nekivágni a vár megmászásának. A délután a hatalmas erődítmény felfedezéséről szól, mielőtt kényelmesen visszagurul a központba.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Păcii. Traseul de dimineață vă poartă prin centrul vechi compact, trecând pe lângă Sinagogă și Biserica Piaristă. La prânz, ajungeți la poalele dealului castelului. După prânz și o vizită la Casa Călăului, este timpul să abordați urcarea spre castel. După-amiaza este dedicată explorării fortăreței vaste înainte de a vă întoarce agale în centru.",
+        "en": "Hop on your bike and start from Peace Square. The morning route takes you through the compact old town, past the Synagogue and the Piarist Church. Around noon, you'll reach the foot of the castle hill. After lunch and a visit to the Executioner's House, it's time to tackle the climb to the castle. The afternoon is for exploring the vast fortress before rolling comfortably back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Schafskäsenockerl, ein absolutes Muss."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "Ein würziger Käseaufstrich, perfekt mit frischem Brot."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Direkt unter der Burg mit traditioneller Küche und toller Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, kötelező megkóstolni."
+          },
+          {
+            "name": "Liptói túrókrém",
+            "tip": "Fűszeres túrókrém, tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Fatima étterem",
+            "tip": "Közvetlenül a vár alatt, hagyományos konyhával és remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, o specialitate slovacă de neratat."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "O cremă de brânză picantă, perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Situat chiar sub castel, cu bucătărie tradițională și o atmosferă minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak sheep cheese dumplings, an absolute must-try."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "A spicy cheese spread, perfect with fresh bread."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Located right under the castle, offering traditional cuisine and a great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauern am späten Nachmittag",
+            "tip": "Weniger Menschen und goldenes Licht für Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg am Fluss Váh",
+            "tip": "Perfekt für eine entspannte Fahrt abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Piaristenkirche",
+            "tip": "Eine kleine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak késő délután",
+            "tip": "Kevesebb ember és aranyló fények a fotózáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kerékpárút a Vág folyó partján",
+            "tip": "Tökéletes egy nyugodt tekeréshez a nyüzsgéstől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Piarista templom belső udvara",
+            "tip": "A nyugalom kis oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile castelului după-amiaza târziu",
+            "tip": "Mai puțini oameni și lumină aurie pentru fotografii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului Váh",
+            "tip": "Perfectă pentru o plimbare relaxantă departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Bisericii Piariste",
+            "tip": "O mică oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle walls in the late afternoon",
+            "tip": "Fewer people and golden light for photos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bike path along the Váh River",
+            "tip": "Perfect for a relaxed ride away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Piarist Church",
+            "tip": "A small oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach traditioneller Keramik und Holzschnitzereien in den Gassen der Altstadt."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Ein Geschäft für lokale Delikatessen, ideal für essbare Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen hagyományos kerámiákat és fafaragásokat az óváros sikátoraiban."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Helyi finomságokat árusító bolt, ideális ehető szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică tradițională și sculpturi în lemn pe străduțele din orașul vechi."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Un magazin cu delicatese locale, ideal pentru suveniruri comestibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for traditional pottery and woodcarvings in the old town's alleys."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "A shop for local delicacies, great for edible souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine Fußgängerzone; das Fahrrad muss oft geschoben werden.",
+          "Der Aufstieg zur Burg ist eine Herausforderung, aber machbar.",
+          "Ein gutes Schloss ist unerlässlich.",
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Az óváros gyalogos zóna, a kerékpárt gyakran tolni kell.",
+          "A várhoz való feljutás kihívás, de teljesíthető.",
+          "Egy jó kerékpárzár elengedhetetlen.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Centrul vechi este o zonă pietonală; va trebui să împingeți bicicleta des.",
+          "Urcușul la castel este o provocare, dar realizabil.",
+          "O încuietoare bună pentru bicicletă este esențială.",
+          "Verificați presiunea în anvelope înainte de a porni."
+        ],
+        "en": [
+          "The old town is a pedestrian zone; you'll often have to walk your bike.",
+          "The climb to the castle is challenging but manageable.",
+          "A good bike lock is essential.",
+          "Check your tire pressure before you set off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Parkoló, Óváros",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            18.0388,
+            48.8935
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus ist die gesamte Altstadt zu Fuß erreichbar.",
+            "hu": "Parkoljon le itt a délelőttre. Innen az egész óváros gyalogosan bejárható.",
+            "ro": "Parcați aici pentru prima parte a zilei. Întregul centru vechi este accesibil pe jos.",
+            "en": "Park here for the morning. The entire old town is accessible on foot from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Mierové námestie & Stadtturm",
+            "hu": "Béke tér és Várostorony",
+            "ro": "Piața Păcii și Turnul Orașului",
+            "en": "Peace Square & City Tower"
+          },
+          "coords": [
+            18.0411,
+            48.8946
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und besteigen Sie den Turm für eine erste Orientierung.",
+            "hu": "Fedezze fel a teret, és másszon fel a toronyba az első eligazodáshoz.",
+            "ro": "Explorați piața și urcați în turn pentru o primă orientare.",
+            "en": "Explore the square and climb the tower for an initial orientation."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche & Synagoge",
+            "hu": "Piarista templom és Zsinagóga",
+            "ro": "Biserica Piaristă și Sinagoga",
+            "en": "Piarist Church & Synagogue"
+          },
+          "coords": [
+            18.0406,
+            48.8945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwei architektonisch unterschiedliche, aber gleichermaßen beeindruckende Sakralbauten.",
+            "hu": "Két építészetileg eltérő, de egyformán lenyűgöző szakrális épület.",
+            "ro": "Două clădiri sacre diferite din punct de vedere arhitectural, dar la fel de impresionante.",
+            "en": "Two architecturally different but equally impressive sacred buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Inschrift & Henkerhaus",
+            "hu": "Római felirat és Hóhér háza",
+            "ro": "Inscripția Romană și Casa Călăului",
+            "en": "Roman Inscription & Executioner's House"
+          },
+          "coords": [
+            18.0437,
+            48.8946
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch 2000 Jahre Geschichte, von den Römern bis zum Mittelalter.",
+            "hu": "Séta 2000 év történelmén keresztül, a rómaiaktól a középkorig.",
+            "ro": "O plimbare prin 2000 de ani de istorie, de la romani la Evul Mediu.",
+            "en": "A walk through 2000 years of history, from the Romans to the Middle Ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Burg",
+            "hu": "Parkoló, Vár",
+            "ro": "Parcare Castel",
+            "en": "Castle Parking"
+          },
+          "coords": [
+            18.045,
+            48.8965
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz näher an der Burg für den Nachmittagsteil.",
+            "hu": "Hajtson át a várhoz közelebbi parkolóba a délutáni programhoz.",
+            "ro": "Conduceți spre parcarea mai apropiată de castel pentru partea de după-amiază.",
+            "en": "Drive to the parking lot closer to the castle for the afternoon part."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrtreppe",
+            "hu": "Plébánia-lépcső",
+            "ro": "Scările Parohiei",
+            "en": "Parish Staircase"
+          },
+          "coords": [
+            18.0432,
+            48.8959
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum historischen Aufgang.",
+            "hu": "Rövid séta a parkolótól a történelmi lépcsősorhoz.",
+            "ro": "O scurtă plimbare de la parcare la scările istorice.",
+            "en": "A short walk from the parking lot to the historic staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Trenčín",
+            "hu": "Trencséni vár",
+            "ro": "Castelul Trenčín",
+            "en": "Trenčín Castle"
+          },
+          "coords": [
+            18.0445,
+            48.895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:24",
+          "stay_min": 240,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich den ganzen Nachmittag Zeit, um die weitläufige Anlage zu erkunden.",
+            "hu": "Szánja az egész délutánt a kiterjedt komplexum felfedezésére.",
+            "ro": "Rezervați-vă întreaga după-amiază pentru a explora complexul vast.",
+            "en": "Take the whole afternoon to explore the extensive complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto in der Nähe der Altstadt parken. Der Vormittag ist einem Spaziergang gewidmet, der Sie vom Friedensplatz zu den wichtigsten Kirchen und historischen Stätten führt. Gegen Mittag holen Sie Ihr Auto und fahren zu einem Parkplatz näher an der Burg. Der gesamte Nachmittag steht im Zeichen der Erkundung dieser beeindruckenden Festung, von den untersten Mauern bis zum höchsten Turm, bevor Sie die Rückreise antreten.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros közelében. A délelőtt egy gyalogos körúttal telik, amely a Béke tértől a legfontosabb templomokhoz és történelmi helyszínekhez vezet. Dél körül szálljon vissza az autóba, és hajtson egy, a várhoz közelebbi parkolóba. Az egész délután ennek a lenyűgöző erődítménynek a felfedezésével telik, a legalsó falaktól a legmagasabb toronyig, mielőtt hazaindulna.",
+        "ro": "Începeți ziua parcând mașina lângă orașul vechi. Dimineața este dedicată unei plimbări pe jos, de la Piața Păcii la principalele biserici și situri istorice. La prânz, luați mașina și mergeți la o parcare mai apropiată de castel. Întreaga după-amiază este dedicată explorării acestei fortărețe impresionante, de la zidurile de jos până la cel mai înalt turn, înainte de a vă întoarce.",
+        "en": "Start your day by parking your car near the old town. The morning is dedicated to a walking tour from Peace Square to the main churches and historical sites. Around noon, get back in your car and drive to a parking lot closer to the castle. The entire afternoon is for exploring this impressive fortress, from the lowest walls to the highest tower, before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Schafskäsenockerl, ein absolutes Muss."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "Ein würziger Käseaufstrich, perfekt mit frischem Brot."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Direkt unter der Burg mit traditioneller Küche und toller Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, kötelező megkóstolni."
+          },
+          {
+            "name": "Liptói túrókrém",
+            "tip": "Fűszeres túrókrém, tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Fatima étterem",
+            "tip": "Közvetlenül a vár alatt, hagyományos konyhával és remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, o specialitate slovacă de neratat."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "O cremă de brânză picantă, perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Situat chiar sub castel, cu bucătărie tradițională și o atmosferă minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak sheep cheese dumplings, an absolute must-try."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "A spicy cheese spread, perfect with fresh bread."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Located right under the castle, offering traditional cuisine and a great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauern am späten Nachmittag",
+            "tip": "Weniger Menschen und goldenes Licht für Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fahrt entlang des Flusses Váh",
+            "tip": "Eine kurze Autofahrt für eine andere Perspektive der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Piaristenkirche",
+            "tip": "Eine kleine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak késő délután",
+            "tip": "Kevesebb ember és aranyló fények a fotózáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Autózás a Vág folyó mentén",
+            "tip": "Egy rövid autós út a város más szemszögből való megtekintéséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Piarista templom belső udvara",
+            "tip": "A nyugalom kis oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile castelului după-amiaza târziu",
+            "tip": "Mai puțini oameni și lumină aurie pentru fotografii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare cu mașina pe malul râului Váh",
+            "tip": "O scurtă călătorie cu mașina pentru o perspectivă diferită asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Bisericii Piariste",
+            "tip": "O mică oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle walls in the late afternoon",
+            "tip": "Fewer people and golden light for photos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drive along the Váh River",
+            "tip": "A short drive for a different perspective of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Piarist Church",
+            "tip": "A small oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach traditioneller Keramik und Holzschnitzereien in den Gassen der Altstadt."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Ein Geschäft für lokale Delikatessen, ideal für essbare Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen hagyományos kerámiákat és fafaragásokat az óváros sikátoraiban."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Helyi finomságokat árusító bolt, ideális ehető szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică tradițională și sculpturi în lemn pe străduțele din orașul vechi."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Un magazin cu delicatese locale, ideal pentru suveniruri comestibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for traditional pottery and woodcarvings in the old town's alleys."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "A shop for local delicacies, great for edible souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können variieren, halten Sie Münzen bereit.",
+          "Die Altstadt ist eine Fußgängerzone, das Auto ist hier nutzlos.",
+          "Planen Sie den Parkplatzwechsel zur Mittagszeit ein, um Staus zu vermeiden.",
+          "Achten Sie auf die Parkbeschilderung, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "A parkolási díjak változhatnak, tartson magánál aprópénzt.",
+          "Az óváros gyalogos zóna, az autó itt haszontalan.",
+          "Tervezze be a parkolóváltást ebédidőre, hogy elkerülje a forgalmi dugókat.",
+          "Figyeljen a parkolási táblákra a büntetések elkerülése érdekében."
+        ],
+        "ro": [
+          "Taxele de parcare pot varia, pregătiți monede.",
+          "Centrul vechi este zonă pietonală, mașina este inutilă aici.",
+          "Planificați schimbarea parcării la prânz pentru a evita aglomerația.",
+          "Fiți atenți la semnele de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Parking fees can vary, so have coins ready.",
+          "The old town is a pedestrian zone, so the car is useless here.",
+          "Plan your parking change around lunchtime to avoid traffic.",
+          "Pay attention to parking signs to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at the bus station"
+          },
+          "coords": [
+            18.0375,
+            48.8915
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof ist es nur ein kurzer Spaziergang ins Stadtzentrum.",
+            "hu": "A buszpályaudvartól csak egy rövid séta a városközpont.",
+            "ro": "De la autogară, este doar o scurtă plimbare până în centrul orașului.",
+            "en": "From the bus station, it's just a short walk to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mierové námestie (Friedensplatz)",
+            "hu": "Mierové námestie (Béke tér)",
+            "ro": "Mierové námestie (Piața Păcii)",
+            "en": "Mierové námestie (Peace Square)"
+          },
+          "coords": [
+            18.0411,
+            48.8946
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt für Ihren Rundgang.",
+            "hu": "Tökéletes kiindulópont a gyalogtúrához.",
+            "ro": "Punctul de plecare perfect pentru turul dumneavoastră pietonal.",
+            "en": "The perfect starting point for your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm",
+            "hu": "Várostorony",
+            "ro": "Turnul Orașului",
+            "en": "City Tower"
+          },
+          "coords": [
+            18.0423,
+            48.8953
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für den besten Überblick über die Altstadt.",
+            "hu": "Kötelező program a legjobb óvárosi kilátásért.",
+            "ro": "O necesitate pentru cea mai bună priveliște asupra orașului vechi.",
+            "en": "A must-do for the best overview of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Piaristenkirche des Heiligen Franz Xaver",
+            "hu": "Xavéri Szent Ferenc Piarista Templom",
+            "ro": "Biserica Piaristă Sfântul Francisc Xaveriu",
+            "en": "Piarist Church of St. Francis Xavier"
+          },
+          "coords": [
+            18.0418,
+            48.8951
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und beeindruckender barocker Kunst.",
+            "hu": "A csend és a lenyűgöző barokk művészet helye.",
+            "ro": "Un loc de liniște și artă barocă impresionantă.",
+            "en": "A place of silence and impressive baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            18.0395,
+            48.8938
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein architektonisches Juwel, das eine andere Facette der Stadtgeschichte zeigt.",
+            "hu": "Építészeti gyöngyszem, amely a város történelmének egy másik oldalát mutatja be.",
+            "ro": "O bijuterie arhitecturală care arată o altă fațetă a istoriei orașului.",
+            "en": "An architectural gem showing another facet of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Inschrift & Henkerhaus",
+            "hu": "Római felirat és Hóhér háza",
+            "ro": "Inscripția Romană și Casa Călăului",
+            "en": "Roman Inscription & Executioner's House"
+          },
+          "coords": [
+            18.0437,
+            48.8946
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Cluster am Fuße des Burgbergs.",
+            "hu": "A Várhegy lábánál található látnivalók csoportja.",
+            "ro": "Grupul de atracții de la poalele dealului castelului.",
+            "en": "The cluster of sights at the foot of the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrtreppe",
+            "hu": "Plébánia-lépcső",
+            "ro": "Scările Parohiei",
+            "en": "Parish Staircase"
+          },
+          "coords": [
+            18.0432,
+            48.8959
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg beginnt.",
+            "hu": "Kezdődik a mászás.",
+            "ro": "Începe urcușul.",
+            "en": "The ascent begins."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Trenčín",
+            "hu": "Trencséni vár",
+            "ro": "Castelul Trenčín",
+            "en": "Trenčín Castle"
+          },
+          "coords": [
+            18.0445,
+            48.895
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:34",
+          "stay_min": 210,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das große Finale des Tages. Planen Sie viel Zeit ein.",
+            "hu": "A nap nagy fináléja. Tervezzen bőséges időt a bejárására.",
+            "ro": "Marele final al zilei. Planificați-vă mult timp aici.",
+            "en": "The grand finale of the day. Plan for plenty of time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Busbahnhof führt Sie ein kurzer Spaziergang direkt ins Herz der Stadt. Der gesamte Tag ist als umfassender Rundgang konzipiert. Vom Friedensplatz aus erkunden Sie systematisch die Sehenswürdigkeiten der Altstadt. Der Höhepunkt ist der Nachmittag, den Sie vollständig der Erkundung der Burg widmen, bevor Sie sich auf den kurzen Rückweg zum Busbahnhof machen.",
+        "hu": "Miután megérkezett a buszpályaudvarra, egy rövid séta egyenesen a város szívébe vezet. Az egész nap egy átfogó gyalogtúraként van megtervezve. A Béke térről kiindulva szisztematikusan fedezi fel az óváros nevezetességeit. A csúcspont a délután, amelyet teljes egészében a vár felfedezésének szentel, mielőtt elindulna a rövid úton vissza a buszpályaudvarra.",
+        "ro": "După sosirea la autogară, o scurtă plimbare vă duce direct în inima orașului. Întreaga zi este concepută ca un tur pietonal cuprinzător. Pornind din Piața Păcii, explorați sistematic atracțiile din orașul vechi. Punctul culminant este după-amiaza, dedicată în întregime explorării castelului, înainte de a face scurta plimbare înapoi la autogară.",
+        "en": "After arriving at the bus station, a short walk takes you right into the heart of the city. The entire day is designed as a comprehensive walking tour. Starting from Peace Square, you systematically explore the old town's sights. The highlight is the afternoon, which you'll dedicate entirely to exploring the castle before making the short walk back to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slowakische Schafskäsenockerl, ein absolutes Muss."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "Ein würziger Käseaufstrich, perfekt mit frischem Brot."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Direkt unter der Burg mit traditioneller Küche und toller Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bryndzové halušky (juhtúrós galuska)",
+            "tip": "Szlovákia nemzeti étele, kötelező megkóstolni."
+          },
+          {
+            "name": "Liptói túrókrém",
+            "tip": "Fűszeres túrókrém, tökéletes friss kenyérrel."
+          },
+          {
+            "name": "Fatima étterem",
+            "tip": "Közvetlenül a vár alatt, hagyományos konyhával és remek hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Găluște cu brânză de oaie, o specialitate slovacă de neratat."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "O cremă de brânză picantă, perfectă cu pâine proaspătă."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Situat chiar sub castel, cu bucătărie tradițională și o atmosferă minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bryndzové halušky",
+            "tip": "Slovak sheep cheese dumplings, an absolute must-try."
+          },
+          {
+            "name": "Liptauer",
+            "tip": "A spicy cheese spread, perfect with fresh bread."
+          },
+          {
+            "name": "Restaurant Fatima",
+            "tip": "Located right under the castle, offering traditional cuisine and a great atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauern am späten Nachmittag",
+            "tip": "Weniger Menschen und goldenes Licht für Fotos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Fluss Váh",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Piaristenkirche",
+            "tip": "Eine kleine Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfalak késő délután",
+            "tip": "Kevesebb ember és aranyló fények a fotózáshoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Vág folyó partján",
+            "tip": "Egy rövid séta a központtól a csendes kikapcsolódásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Piarista templom belső udvara",
+            "tip": "A nyugalom kis oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile castelului după-amiaza târziu",
+            "tip": "Mai puțini oameni și lumină aurie pentru fotografii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Váh",
+            "tip": "La o scurtă plimbare de centru pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a Bisericii Piariste",
+            "tip": "O mică oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle walls in the late afternoon",
+            "tip": "Fewer people and golden light for photos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Váh River",
+            "tip": "A short stroll from the center for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Piarist Church",
+            "tip": "A small oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach traditioneller Keramik und Holzschnitzereien in den Gassen der Altstadt."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Ein Geschäft für lokale Delikatessen, ideal für essbare Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen hagyományos kerámiákat és fafaragásokat az óváros sikátoraiban."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Helyi finomságokat árusító bolt, ideális ehető szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică tradițională și sculpturi în lemn pe străduțele din orașul vechi."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "Un magazin cu delicatese locale, ideal pentru suveniruri comestibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for traditional pottery and woodcarvings in the old town's alleys."
+          },
+          {
+            "name": "Šmak slovenský",
+            "tip": "A shop for local delicacies, great for edible souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, auch wenn Sie wahrscheinlich nicht viele Fahrten benötigen.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+          "Prüfen Sie den Busfahrplan für Ihre Rückfahrt im Voraus.",
+          "Behalten Sie die Zeit im Auge, um den letzten Bus nicht zu verpassen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, bár valószínűleg nem lesz szüksége sok utazásra.",
+          "A legtöbb látnivaló gyalogosan elérhető.",
+          "Előre ellenőrizze a busz menetrendjét a visszaúthoz.",
+          "Figyelje az időt, hogy ne késse le az utolsó buszt."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, chiar dacă probabil nu veți avea nevoie de multe călătorii.",
+          "Majoritatea atracțiilor sunt accesibile pe jos.",
+          "Verificați din timp programul autobuzului pentru călătoria de întoarcere.",
+          "Fiți cu ochii pe ceas pentru a nu pierde ultimul autobuz."
+        ],
+        "en": [
+          "Buy a day ticket, even though you probably won't need many rides.",
+          "Most sights are within walking distance.",
+          "Check the bus schedule for your return trip in advance.",
+          "Keep an eye on the time so you don't miss the last bus."
+        ]
+      }
+    }
+  }
+}

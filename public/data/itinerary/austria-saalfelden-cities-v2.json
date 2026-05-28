@@ -1,0 +1,1188 @@
+{
+  "city_id": "austria-saalfelden-cities-v2",
+  "anchor": {
+    "name": "Saalfelden",
+    "coords": [
+      12.8481,
+      47.4269
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            12.8481,
+            47.4269
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a téren található egyik kávézóban.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Saalfelden",
+            "hu": "Saalfeldeni Városi Plébániatemplom",
+            "ro": "Biserica Parohială Saalfelden",
+            "en": "Saalfelden Parish Church"
+          },
+          "coords": [
+            12.8475,
+            47.4275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Deckenfresken und den gotischen Chor.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a gótikus kórust.",
+            "ro": "Observați frescele impresionante de pe tavan și corul gotic.",
+            "en": "Look for the impressive ceiling frescoes and the Gothic choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászmúzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            12.8468,
+            47.4281
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein, um die interaktiven Ausstellungen zu erkunden.",
+            "hu": "Szánjon elég időt az interaktív kiállítások felfedezésére.",
+            "ro": "Planificați suficient timp pentru a explora expozițiile interactive.",
+            "en": "Allow enough time to explore the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ritzen & Museum",
+            "hu": "Ritzen-kastély és Múzeum",
+            "ro": "Castelul și Muzeul Ritzen",
+            "en": "Ritzen Castle & Museum"
+          },
+          "coords": [
+            12.8395,
+            47.424
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum zeigt eine berühmte Krippensammlung, besonders zur Weihnachtszeit sehenswert.",
+            "hu": "A múzeum híres jászolgyűjteményt mutat be, különösen karácsonykor érdemes megnézni.",
+            "ro": "Muzeul găzduiește o faimoasă colecție de iesle, care merită vizitată în special de Crăciun.",
+            "en": "The museum features a famous nativity scene collection, especially worth seeing at Christmas time."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritzensee",
+            "hu": "Ritzensee-tó",
+            "ro": "Lacul Ritzen",
+            "en": "Lake Ritzensee"
+          },
+          "coords": [
+            12.836,
+            47.423
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause oder einen entspannten Spaziergang am Ufer.",
+            "hu": "Ideális hely egy ebédszünetre vagy egy pihentető sétára a tóparton.",
+            "ro": "Un loc ideal pentru o pauză de prânz sau o plimbare relaxantă pe mal.",
+            "en": "An ideal spot for a lunch break or a relaxing walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauernmuseum",
+            "hu": "Paraszti Múzeum",
+            "ro": "Muzeul Fermei",
+            "en": "Farm Museum"
+          },
+          "coords": [
+            12.8385,
+            47.4245
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das traditionelle bäuerliche Leben in der Region.",
+            "hu": "Tudjon meg többet a régió hagyományos paraszti életéről.",
+            "ro": "Aflați mai multe despre viața rurală tradițională din regiune.",
+            "en": "Learn about the traditional rural life of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Saalfelden am Rathausplatz. Der Vormittag ist der Geschichte gewidmet, mit Besuchen der Stadtpfarrkirche und des Bergbaumuseums. Nach einem Spaziergang zum Schloss Ritzen verbringen Sie den Nachmittag am malerischen Ritzensee, bevor Sie im Bauernmuseum in die lokale Kultur eintauchen. Ein Spaziergang zurück ins Zentrum rundet diesen erlebnisreichen Tag ab.",
+        "hu": "Kezdje a napot Saalfelden szívében, a Városháza téren. A délelőtt a történelemé, a városi plébániatemplom és a Bányászmúzeum meglátogatásával. Egy séta után a Ritzen-kastélyhoz a délutánt a festői Ritzensee tónál tölti, mielőtt a Paraszti Múzeumban elmerülne a helyi kultúrában. Egy séta vissza a központba teszi teljessé ezt az eseménydús napot.",
+        "ro": "Începeți ziua în inima orașului Saalfelden, în Piața Primăriei. Dimineața este dedicată istoriei, cu vizite la biserica parohială și la muzeul minier. După o plimbare la Castelul Ritzen, petreceți după-amiaza la pitorescul lac Ritzensee înainte de a vă cufunda în cultura locală la Muzeul Fermei. O plimbare înapoi în centru încheie această zi plină de evenimente.",
+        "en": "Start your day in the heart of Saalfelden at the Town Hall Square. The morning is dedicated to history with visits to the parish church and the mining museum. After a walk to Ritzen Castle, spend the afternoon at the picturesque Lake Ritzensee before delving into local culture at the Farm Museum. A walk back to the center completes this eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pinzgauer Kasnocken",
+            "tip": "Ein herzhaftes lokales Gericht mit Käsespätzle, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Genießen Sie ein warmes Stück mit Vanillesauce in einem der traditionellen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinzgauer Kasnocken",
+            "tip": "Kiadós helyi étel sajtos galuskával, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Fogyasszon el egy meleg szeletet vaníliasodóval egy hagyományos kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinzgauer Kasnocken",
+            "tip": "Un fel de mâncare local consistent, cu găluște cu brânză, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Savurați o felie caldă cu sos de vanilie la una dintre cafenelele tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinzgauer Kasnocken",
+            "tip": "A hearty local cheese spaetzle dish, perfect after a long walk."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "Enjoy a warm slice with vanilla sauce in one of the traditional cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Ritzensees",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie den Blick auf die Berge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchengarten",
+            "tip": "Ein friedlicher Ort abseits des Trubels der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ritzensee partja",
+            "tip": "Keressen egy csendes padot, és élvezze a hegyekre nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a város nyüzsgésétől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Ritzensee",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de priveliștea munților.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc pașnic, departe de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Ritzensee",
+            "tip": "Find a quiet bench and enjoy the view of the mountains.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church Garden",
+            "tip": "A peaceful spot away from the hustle and bustle of the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Probieren Sie lokale Produkte und finden Sie handgemachte Souvenirs (normalerweise freitags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kóstoljon helyi termékeket és találjon kézzel készített ajándéktárgyakat (általában péntekenként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Gustați produse locale și găsiți suveniruri artizanale (de obicei vinerea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Sample local products and find handmade souvenirs (usually on Fridays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Verificați în prealabil programul de funcționare al muzeelor, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Bring a reusable water bottle.",
+          "Check museum opening times in advance, as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            12.8481,
+            47.4269
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das Zentrum erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a központot.",
+            "ro": "Încuiați-vă bicicleta în siguranță în timp ce explorați centrul.",
+            "en": "Lock your bike securely while exploring the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Saalfelden",
+            "hu": "Saalfeldeni Városi Plébániatemplom",
+            "ro": "Biserica Parohială Saalfelden",
+            "en": "Saalfelden Parish Church"
+          },
+          "coords": [
+            12.8475,
+            47.4275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Egy rövid megálló, hogy élvezze a csendes légkört.",
+            "ro": "O scurtă oprire pentru a vă bucura de atmosfera liniștită.",
+            "en": "A quick stop to enjoy the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Dorfheim",
+            "hu": "Dorfheim-kastély",
+            "ro": "Castelul Dorfheim",
+            "en": "Dorfheim Castle"
+          },
+          "coords": [
+            12.862,
+            47.435
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Schloss ist in Privatbesitz, aber von außen gut zu fotografieren.",
+            "hu": "A kastély magántulajdonban van, de kívülről jól fotózható.",
+            "ro": "Castelul este proprietate privată, dar poate fi fotografiat bine din exterior.",
+            "en": "The castle is privately owned but can be photographed well from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lichtenberg",
+            "hu": "Lichtenberg-kastély",
+            "ro": "Castelul Lichtenberg",
+            "en": "Lichtenberg Castle"
+          },
+          "coords": [
+            12.871,
+            47.419
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Auffahrt ist etwas steil, aber die Aussicht ist es wert.",
+            "hu": "Az út kissé meredek, de a kilátás megéri.",
+            "ro": "Urcușul este puțin abrupt, dar priveliștea merită.",
+            "en": "The ride up is a bit steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritzensee",
+            "hu": "Ritzensee-tó",
+            "ro": "Lacul Ritzen",
+            "en": "Lake Ritzensee"
+          },
+          "coords": [
+            12.836,
+            47.423
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine ausgedehnte Mittagspause und vielleicht ein kurzes Bad im Sommer.",
+            "hu": "Tökéletes egy hosszabb ebédszünetre és nyáron talán egy rövid fürdőzésre.",
+            "ro": "Perfect pentru o pauză de prânz prelungită și poate o baie rapidă vara.",
+            "en": "Perfect for an extended lunch break and maybe a quick swim in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ritzen & Museum",
+            "hu": "Ritzen-kastély és Múzeum",
+            "ro": "Castelul și Muzeul Ritzen",
+            "en": "Ritzen Castle & Museum"
+          },
+          "coords": [
+            12.8395,
+            47.424
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Heimatmuseum im Schloss gibt Einblicke in die regionale Geschichte.",
+            "hu": "A kastélyban található helytörténeti múzeum bepillantást enged a régió történelmébe.",
+            "ro": "Muzeul local din castel oferă o perspectivă asupra istoriei regionale.",
+            "en": "The local history museum in the castle provides insights into regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászmúzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            12.8468,
+            47.4281
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein faszinierender Abschluss der Tour mit Einblicken in die Bergbautradition.",
+            "hu": "A túra lenyűgöző befejezése a bányászati hagyományok megismerésével.",
+            "ro": "O încheiere fascinantă a turului cu o perspectivă asupra tradiției miniere.",
+            "en": "A fascinating end to the tour with insights into the mining tradition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am Rathausplatz. Nach einem kurzen Blick in die Kirche radeln Sie zu den Schlössern Dorfheim und Lichtenberg, die etwas außerhalb liegen. Die Belohnung ist eine lange Mittagspause am Ritzensee. Gestärkt erkunden Sie das Schloss Ritzen und das Bergbaumuseum, bevor Sie die Tour im Stadtzentrum ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra és induljon a Városháza térről. Egy rövid templomi látogatás után tekerjen el a kissé távolabb eső Dorfheim és Lichtenberg kastélyokhoz. A jutalom egy hosszú ebédszünet a Ritzensee-tónál. Felfrissülve fedezze fel a Ritzen-kastélyt és a Bányászmúzeumot, mielőtt a túrát a városközpontban fejezi be.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Primăriei. După o scurtă privire la biserică, pedalați spre castelele Dorfheim și Lichtenberg, situate puțin mai departe. Răsplata este o pauză lungă de prânz la lacul Ritzensee. Revigorat, explorați Castelul Ritzen și Muzeul Mineritului înainte de a încheia turul în centrul orașului.",
+        "en": "Hop on your bike and start at the Town Hall Square. After a quick look at the church, cycle to the slightly outlying castles of Dorfheim and Lichtenberg. The reward is a long lunch break at Lake Ritzensee. Refreshed, explore Ritzen Castle and the Mining Museum before ending the tour in the town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "Ein süßer, zerrissener Pfannkuchen, der nach einer Radtour Energie gibt."
+          },
+          {
+            "name": "Radler",
+            "tip": "Ein erfrischendes Getränk aus Bier und Limonade, ideal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Császármorzsa",
+            "tip": "Édes, tépett palacsinta, amely energiát ad egy kerékpártúra után."
+          },
+          {
+            "name": "Radler",
+            "tip": "Sör és limonádé frissítő keveréke, ideális kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "O clătită dulce, sfărâmată, care vă dă energie după un tur cu bicicleta."
+          },
+          {
+            "name": "Radler",
+            "tip": "O băutură răcoritoare din bere și limonadă, ideală pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserschmarrn",
+            "tip": "A sweet, shredded pancake that provides energy after a bike tour."
+          },
+          {
+            "name": "Radler",
+            "tip": "A refreshing mix of beer and lemonade, ideal for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Saalach",
+            "tip": "Ein ruhiger Abschnitt abseits der Hauptstraßen mit schöner Landschaft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von Schloss Lichtenberg",
+            "tip": "Ein Panoramablick über das Tal nach dem Anstieg.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Saalach mentén",
+            "tip": "Csendes szakasz a főutaktól távol, gyönyörű tájjal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Lichtenberg-kastélyból",
+            "tip": "Panorámás kilátás a völgyre a hegymászás után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Saalach",
+            "tip": "O secțiune liniștită, departe de drumurile principale, cu peisaje frumoase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Castelul Lichtenberg",
+            "tip": "O priveliște panoramică asupra văii după urcare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Saalach river",
+            "tip": "A quiet section away from the main roads with beautiful scenery.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Lichtenberg Castle",
+            "tip": "A panoramic view over the valley after the climb.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie lokale Ausrüstung oder Zubehör für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon helyi felszerelést vagy kiegészítőket a túrájához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți echipament local sau accesorii pentru turul dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Find local gear or accessories for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Radwege sind gut ausgeschildert, aber eine Karte oder GPS ist hilfreich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Sisak viselése erősen ajánlott.",
+          "A kerékpárutak jól ki vannak táblázva, de egy térkép vagy GPS hasznos lehet."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "O cască este foarte recomandată.",
+          "Pistele de biciclete sunt bine semnalizate, dar o hartă sau un GPS este de ajutor."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "A helmet is strongly recommended.",
+          "The bike paths are well-signposted, but a map or GPS is helpful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei Schloss Lichtenberg",
+            "hu": "Parkoló a Lichtenberg-kastélynál",
+            "ro": "Parcare la Castelul Lichtenberg",
+            "en": "Parking at Lichtenberg Castle"
+          },
+          "coords": [
+            12.87,
+            47.418
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer tollen Aussicht. Der Parkplatz ist der Ausgangspunkt für den ersten Cluster.",
+            "hu": "Kezdje a napot egy remek kilátással. A parkoló az első csoport kiindulópontja.",
+            "ro": "Începeți ziua cu o priveliște minunată. Parcarea este punctul de plecare pentru primul grup.",
+            "en": "Start the day with a great view. The car park is the starting point for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lichtenberg",
+            "hu": "Lichtenberg-kastély",
+            "ro": "Castelul Lichtenberg",
+            "en": "Lichtenberg Castle"
+          },
+          "coords": [
+            12.871,
+            47.419
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe und den Panoramablick, bevor die meisten Touristen ankommen.",
+            "hu": "Élvezze a csendet és a panorámás kilátást, mielőtt a legtöbb turista megérkezik.",
+            "ro": "Bucurați-vă de liniște și de vederea panoramică înainte de sosirea majorității turiștilor.",
+            "en": "Enjoy the peace and the panoramic view before most tourists arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Dorfheim",
+            "hu": "Dorfheim-kastély",
+            "ro": "Castelul Dorfheim",
+            "en": "Dorfheim Castle"
+          },
+          "coords": [
+            12.862,
+            47.435
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Fotostopp auf dem Weg ins Zentrum.",
+            "hu": "Egy gyors fotómegálló a központ felé vezető úton.",
+            "ro": "O scurtă oprire pentru fotografii în drum spre centru.",
+            "en": "A quick photo stop on the way to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            12.849,
+            47.426
+          ],
+          "category": "transport",
+          "arrive_at": "11:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Auto hier für den Rest des Tages ab und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkolja le itt az autóját a nap hátralévő részére, és fedezze fel a többit gyalog.",
+            "ro": "Parcați-vă mașina aici pentru restul zilei și explorați restul pe jos.",
+            "en": "Park your car here for the rest of the day and explore the rest on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz & Mittagessen",
+            "hu": "Városháza tér és ebéd",
+            "ro": "Piața Primăriei și prânz",
+            "en": "Town Hall Square & Lunch"
+          },
+          "coords": [
+            12.8481,
+            47.4269
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant am Platz für ein traditionelles Mittagessen.",
+            "hu": "Válasszon egy éttermet a téren egy hagyományos ebédhez.",
+            "ro": "Alegeți un restaurant în piață pentru un prânz tradițional.",
+            "en": "Choose a restaurant on the square for a traditional lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászmúzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            12.8468,
+            47.4281
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss, um die industrielle Vergangenheit der Region zu verstehen.",
+            "hu": "Kötelező látnivaló a régió ipari múltjának megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege trecutul industrial al regiunii.",
+            "en": "A must-see to understand the region's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Ritzensee",
+            "hu": "Séta a Ritzensee-tóhoz",
+            "ro": "Plimbare la Lacul Ritzen",
+            "en": "Walk to Lake Ritzensee"
+          },
+          "coords": [
+            12.836,
+            47.423
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Verdauungsspaziergang zum See und zurück.",
+            "hu": "Egy pihentető emésztő séta a tóhoz és vissza.",
+            "ro": "O plimbare digestivă relaxantă la lac și înapoi.",
+            "en": "A relaxing digestive walk to the lake and back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt zum Schloss Lichtenberg für einen atemberaubenden Ausblick. Nach einem kurzen Halt bei Schloss Dorfheim parken Sie im Zentrum. Der Rest des Tages ist ein Spaziergang: Mittagessen am Rathausplatz, gefolgt von einem Besuch im Bergbaumuseum. Ein längerer Spaziergang zum und um den Ritzensee bildet den entspannten Abschluss, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Reggel vezessen közvetlenül a Lichtenberg-kastélyhoz a lélegzetelállító kilátásért. Egy rövid megálló után a Dorfheim-kastélynál parkoljon le a központban. A nap hátralévő része séta: ebéd a Városháza téren, majd látogatás a Bányászmúzeumban. Egy hosszabb séta a Ritzensee-tóhoz és körülötte jelenti a pihentető befejezést, mielőtt visszatérne az autójához.",
+        "ro": "Dimineața, conduceți direct la Castelul Lichtenberg pentru o priveliște uluitoare. După o scurtă oprire la Castelul Dorfheim, parcați în centru. Restul zilei este o plimbare: prânz în Piața Primăriei, urmat de o vizită la Muzeul Mineritului. O plimbare mai lungă la și în jurul lacului Ritzensee formează finalul relaxant înainte de a vă întoarce la mașină.",
+        "en": "In the morning, drive directly to Lichtenberg Castle for a breathtaking view. After a brief stop at Dorfheim Castle, park in the center. The rest of the day is a walk: lunch at the Town Hall Square, followed by a visit to the Mining Museum. A longer walk to and around Lake Ritzensee provides a relaxing conclusion before you return to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brettljause",
+            "tip": "Eine kalte Platte mit regionalem Speck, Wurst und Käse. Ideal für ein Picknick am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brettljause",
+            "tip": "Hidegtál regionális szalonnával, kolbásszal és sajttal. Ideális egy tóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brettljause",
+            "tip": "Un platou rece cu slănină, cârnați și brânză regională. Ideal pentru un picnic pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brettljause",
+            "tip": "A cold platter with regional bacon, sausage, and cheese. Ideal for a picnic by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schloss Lichtenberg am Morgen",
+            "tip": "Genießen Sie die Stille und die Aussicht, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lichtenberg-kastély reggel",
+            "tip": "Élvezze a csendet és a kilátást, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Lichtenberg dimineața",
+            "tip": "Bucurați-vă de liniște și de priveliște înainte de a sosi mulțimea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lichtenberg Castle in the morning",
+            "tip": "Enjoy the silence and the view before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Suchen Sie nach Schildern für 'Ab-Hof-Verkauf', um frische Produkte direkt vom Bauernhof zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keresse az 'Ab-Hof-Verkauf' táblákat, hogy friss termékeket vásároljon közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Căutați indicatoarele „Ab-Hof-Verkauf” pentru a cumpăra produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for 'Ab-Hof-Verkauf' signs to buy fresh produce directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -zeiten im Zentrum.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders in der Hochsaison.",
+          "Einige Bergstraßen können eng sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és időket a központban.",
+          "Tervezzen némi pufferidőt a forgalomra, különösen főszezonban.",
+          "Néhány hegyi út szűk lehet, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați taxele și orele de parcare în centru.",
+          "Planificați un timp tampon pentru trafic, mai ales în sezonul de vârf.",
+          "Unele drumuri de munte pot fi înguste, conduceți cu prudență."
+        ],
+        "en": [
+          "Check parking fees and times in the center.",
+          "Allow some buffer time for traffic, especially in high season.",
+          "Some mountain roads can be narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Fahrt ins Zentrum",
+            "hu": "Érkezés a buszpályaudvarra és utazás a központba",
+            "ro": "Sosire la autogară și călătorie spre centru",
+            "en": "Arrival at the bus station & ride to the center"
+          },
+          "coords": [
+            12.8485,
+            47.4265
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Vásároljon napijegyet a rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Buy a day ticket for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            12.8481,
+            47.4269
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für viele Buslinien.",
+            "hu": "Sok buszjárat központi csomópontja.",
+            "ro": "Nodul central pentru multe linii de autobuz.",
+            "en": "The central hub for many bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche Saalfelden",
+            "hu": "Saalfeldeni Városi Plébániatemplom",
+            "ro": "Biserica Parohială Saalfelden",
+            "en": "Saalfelden Parish Church"
+          },
+          "coords": [
+            12.8475,
+            47.4275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Rathausplatz entfernt.",
+            "hu": "Csak egy rövid sétára a Városháza tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Primăriei.",
+            "en": "Just a short walk from the Town Hall Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Ritzensee",
+            "hu": "Utazás a Ritzensee-tóhoz",
+            "ro": "Călătorie la Lacul Ritzen",
+            "en": "Ride to Lake Ritzensee"
+          },
+          "coords": [
+            12.837,
+            47.4225
+          ],
+          "category": "transport",
+          "arrive_at": "10:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, der in Richtung des Sees fährt.",
+            "hu": "Válassza a tó irányába tartó buszt.",
+            "ro": "Luați autobuzul care merge în direcția lacului.",
+            "en": "Take the bus that heads towards the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ritzen & Museum",
+            "hu": "Ritzen-kastély és Múzeum",
+            "ro": "Castelul și Muzeul Ritzen",
+            "en": "Ritzen Castle & Museum"
+          },
+          "coords": [
+            12.8395,
+            47.424
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle aus leicht zu Fuß erreichbar.",
+            "hu": "A buszmegállóból könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos de la stația de autobuz.",
+            "en": "Easily accessible on foot from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritzensee & Mittagessen",
+            "hu": "Ritzensee-tó és ebéd",
+            "ro": "Lacul Ritzen și prânz",
+            "en": "Lake Ritzensee & Lunch"
+          },
+          "coords": [
+            12.836,
+            47.423
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine lange Pause am See. Es gibt Restaurants oder Sie können picknicken.",
+            "hu": "Élvezzen egy hosszú szünetet a tónál. Vannak éttermek, de piknikezhet is.",
+            "ro": "Bucurați-vă de o pauză lungă pe malul lacului. Există restaurante sau puteți face un picnic.",
+            "en": "Enjoy a long break by the lake. There are restaurants or you can have a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Saalfelden zu erkunden. Starten Sie im Zentrum mit dem Rathausplatz und der Kirche. Ein Bus bringt Sie dann bequem zum Ritzensee-Cluster. Dort können Sie das Schloss Ritzen erkunden und eine lange, entspannte Mittagspause am Seeufer genießen. Ein Spaziergang in der Umgebung rundet den Nachmittag ab, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "Használja a tömegközlekedést Saalfelden felfedezéséhez. Kezdje a központban a Városháza térrel és a templommal. Egy busz kényelmesen elviszi a Ritzensee-tó környékére. Ott felfedezheti a Ritzen-kastélyt és egy hosszú, pihentető ebédszünetet tarthat a tóparton. Egy séta a környéken teszi teljessé a délutánt, mielőtt visszabuszozna a központba.",
+        "ro": "Folosiți transportul public pentru a explora Saalfelden. Începeți în centru cu Piața Primăriei și biserica. Un autobuz vă va duce apoi confortabil la clusterul Lacul Ritzen. Acolo puteți explora Castelul Ritzen și vă puteți bucura de o pauză de prânz lungă și relaxantă pe malul lacului. O plimbare în zonă completează după-amiaza înainte de a lua autobuzul înapoi spre centru.",
+        "en": "Use public transport to explore Saalfelden. Start in the center with the Town Hall Square and the church. A bus will then take you comfortably to the Lake Ritzensee cluster. There you can explore Ritzen Castle and enjoy a long, relaxing lunch break on the lake shore. A walk in the area completes the afternoon before you take the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forelle vom See",
+            "tip": "Probieren Sie frischen Fisch in einem der Restaurants am Ritzensee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi pisztráng",
+            "tip": "Kóstoljon friss halat a Ritzensee-tó egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv de lac",
+            "tip": "Gustați pește proaspăt la unul dintre restaurantele de pe malul lacului Ritzensee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trout from the lake",
+            "tip": "Try fresh fish at one of the restaurants on Lake Ritzensee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke am Ritzensee",
+            "tip": "Entfliehen Sie dem Trubel und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Ritzensee-nél",
+            "tip": "Meneküljön el a nyüzsgés elől, és hallgassa a természet hangjait.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit pe lacul Ritzensee",
+            "tip": "Evadați din agitație și ascultați sunetele naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner on Lake Ritzensee",
+            "tip": "Escape the hustle and bustle and listen to the sounds of nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Museum",
+            "tip": "Finden Sie Bücher und kleine Geschenke zur lokalen Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a múzeumban",
+            "tip": "Találjon könyveket és apró ajándékokat a helytörténetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Găsiți cărți și mici cadouri despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the museum",
+            "tip": "Find books and small gifts about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Busfahrplan herunter oder machen Sie einen Screenshot davon.",
+          "Achten Sie auf die letzte Busverbindung zurück ins Zentrum.",
+          "Eine Tageskarte ist oft günstiger als Einzelfahrscheine."
+        ],
+        "hu": [
+          "Töltse le vagy készítsen képernyőképet a buszmenetrendről.",
+          "Figyeljen az utolsó buszjáratra vissza a központba.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegyek."
+        ],
+        "ro": [
+          "Descărcați sau faceți o captură de ecran a programului autobuzelor.",
+          "Fiți atenți la ultima legătură de autobuz înapoi spre centru.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale."
+        ],
+        "en": [
+          "Download or take a screenshot of the bus schedule.",
+          "Pay attention to the last bus connection back to the center.",
+          "A day ticket is often cheaper than single tickets."
+        ]
+      }
+    }
+  }
+}

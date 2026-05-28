@@ -1,0 +1,1530 @@
+{
+  "city_id": "poland-konin-cities-v2",
+  "anchor": {
+    "name": "Konin",
+    "coords": [
+      18.2512,
+      52.2235
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 3.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Konin",
+            "hu": "Konini Városháza",
+            "ro": "Primăria din Konin",
+            "en": "Konin Town Hall"
+          },
+          "coords": [
+            18.2505,
+            52.2238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Atmosphäre des Hauptplatzes der Stadt aufzusaugen.",
+            "hu": "Kezdje itt a napot, hogy magába szívja a főtér hangulatát.",
+            "ro": "Începeți aici pentru a absorbi atmosfera pieței principale a orașului.",
+            "en": "Start here to soak up the atmosphere of the city's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.2488,
+            52.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf den romanischen Meilenstein direkt neben der Kirche.",
+            "hu": "Keresse a templom mellett található román kori mérföldkövet.",
+            "ro": "Fiți atenți la piatra de hotar romanică chiar lângă biserică.",
+            "en": "Look for the Romanesque Milestone located right next to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Romanischer Meilenstein",
+            "hu": "Román kori mérföldkő",
+            "ro": "Piatra de hotar romanică",
+            "en": "Romanesque Milestone"
+          },
+          "coords": [
+            18.2485,
+            52.2242
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein seltenes Relikt aus dem 12. Jahrhundert, das die Entfernung nach Kalisz anzeigt.",
+            "hu": "Egy ritka, 12. századi ereklye, amely a Kaliszba vezető távolságot mutatja.",
+            "ro": "O relicvă rară din secolul al XII-lea, indicând distanța până la Kalisz.",
+            "en": "A rare 12th-century relic indicating the distance to Kalisz."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformatenkloster",
+            "hu": "Református kolostor",
+            "ro": "Mănăstirea Reformată",
+            "en": "Reformed Monastery"
+          },
+          "coords": [
+            18.255,
+            52.221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort mit einer schönen barocken Innenausstattung.",
+            "hu": "Egy békés hely, gyönyörű barokk belsővel.",
+            "ro": "Un loc liniștit, cu un interior baroc frumos.",
+            "en": "A peaceful spot with a beautiful baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.2515,
+            52.2225
+          ],
+          "category": "gastro",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die Pierogi in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a pierogit az egyik hagyományos étteremben.",
+            "ro": "Încercați pierogi la unul dintre restaurantele tradiționale.",
+            "en": "Try the pierogi in one of the traditional restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der jüdischen Gemeinde",
+            "hu": "A Zsidó Közösség Emlékműve",
+            "ro": "Monumentul Comunității Evreiești",
+            "en": "Memorial to the Jewish Community"
+          },
+          "coords": [
+            18.252,
+            52.219
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ergreifender Moment des Gedenkens an die Geschichte der Stadt.",
+            "hu": "A város történelmére való emlékezés megindító pillanata.",
+            "ro": "Un moment emoționant de comemorare a istoriei orașului.",
+            "en": "A poignant moment of remembrance for the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chopin-Park",
+            "hu": "Chopin Park",
+            "ro": "Parcul Chopin",
+            "en": "Chopin Park"
+          },
+          "coords": [
+            18.26,
+            52.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Ideális hely egy pihentető délutáni sétához.",
+            "ro": "Un loc ideal pentru o plimbare relaxantă de după-amiază.",
+            "en": "An ideal place for a relaxing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk am Fluss",
+            "hu": "Búcsúital a folyóparton",
+            "ro": "Băutură de rămas bun pe malul râului",
+            "en": "Farewell Drink by the River"
+          },
+          "coords": [
+            18.2625,
+            52.2265
+          ],
+          "category": "gastro",
+          "arrive_at": "15:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Warthe, bevor Sie den Tag beenden.",
+            "hu": "Élvezze a Warta folyóra nyíló kilátást, mielőtt befejezi a napot.",
+            "ro": "Bucurați-vă de vederea spre râul Warta înainte de a încheia ziua.",
+            "en": "Enjoy the view of the Warta river before ending your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Konin ist eine Reise durch die Zeit. Der Morgen beginnt im Herzen der Altstadt, wo das Rathaus und die gotische Bartholomäuskirche von der reichen Geschichte der Stadt zeugen. Mittags erkunden Sie ruhigere Ecken wie das Reformatenkloster und gedenken am jüdischen Denkmal. Der Nachmittag gehört der Entspannung im grünen Chopin-Park, einem perfekten Kontrast zur städtischen Erkundung. Der Tag endet sanft am Ufer der Warthe, wo Sie die Eindrücke bei einem Getränk Revue passieren lassen.",
+        "hu": "Egy séta Koninban egy időutazás. A reggel az óváros szívében kezdődik, ahol a városháza és a gótikus Szent Bertalan-templom tanúskodik a város gazdag történelméről. Délben csendesebb zugokat fedezhet fel, mint a református kolostor, és megemlékezhet a zsidó emlékműnél. A délután a pihenésé a zöldellő Chopin parkban, amely tökéletes kontrasztot képez a városi felfedezéssel. A nap lágyan ér véget a Warta folyó partján, ahol egy ital mellett idézheti fel az élményeket.",
+        "ro": "O plimbare prin Konin este o călătorie în timp. Dimineața începe în inima Centrului Vechi, unde Primăria și gotica Biserică a Sfântului Bartolomeu stau mărturie a istoriei bogate a orașului. La prânz, explorați colțuri mai liniștite, cum ar fi Mănăstirea Reformată, și comemorați la memorialul evreiesc. După-amiaza este dedicată relaxării în Parcul Chopin, un contrast perfect cu explorarea urbană. Ziua se încheie lin pe malul râului Warta, unde puteți rememora impresiile la o băutură.",
+        "en": "A walk through Konin is a journey through time. The morning starts in the heart of the Old Town, where the Town Hall and the Gothic St. Bartholomew's Church testify to the city's rich history. At midday, you explore quieter corners like the Reformed Monastery and commemorate at the Jewish memorial. The afternoon is for relaxation in the green Chopin Park, a perfect contrast to the urban exploration. The day ends gently on the banks of the Warta river, where you can reflect on your impressions over a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Klassische polnische Teigtaschen mit Kartoffel-Käse-Füllung."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert."
+          },
+          {
+            "name": "Restauracja Staromiejska",
+            "tip": "Ein Restaurant in der Altstadt, das für seine authentische polnische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Klasszikus lengyel derelye burgonya-sajt töltelékkel."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva."
+          },
+          {
+            "name": "Restauracja Staromiejska",
+            "tip": "Egy óvárosi étterem, amely autentikus lengyel konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Găluște poloneze clasice umplute cu cartofi și brânză."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O supă acră tradițională de secară, adesea servită cu cârnați și ou."
+          },
+          {
+            "name": "Restauracja Staromiejska",
+            "tip": "Un restaurant din Centrul Vechi, cunoscut pentru bucătăria sa poloneză autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi Ruskie",
+            "tip": "Classic Polish dumplings with a potato and cheese filling."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg."
+          },
+          {
+            "name": "Restauracja Staromiejska",
+            "tip": "A restaurant in the Old Town known for its authentic Polish cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Warthe",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses für einen Moment der Besinnung.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof des Reformatenklosters",
+            "tip": "Eine Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Chopin-Park",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Ecken zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warta folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén egy pillanatnyi elmélkedésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A református kolostor udvara",
+            "tip": "A csend oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Chopin Park",
+            "tip": "A fő utaktól távol békés zugokat talál a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Warta",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului pentru un moment de reflecție.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Reformate",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Chopin",
+            "tip": "Departe de aleile principale, veți găsi colțuri pașnice pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Warta River",
+            "tip": "Find a quiet bench along the river for a moment of reflection.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Reformed Monastery",
+            "tip": "An oasis of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Chopin Park",
+            "tip": "Away from the main paths, you'll find peaceful corners to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Souvenirläden",
+            "tip": "Kleine Geschäfte mit lokalen Handwerksprodukten und Andenken."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem lokalen Markt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi szuvenírboltok",
+            "tip": "Kis üzletek helyi kézműves termékekkel és ajándéktárgyakkal."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy helyi piacot friss termékekért és regionális különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din Centrul Vechi",
+            "tip": "Mici magazine cu artizanat local și suveniruri."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Small shops offering local crafts and souvenirs."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for a local market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf Kopfsteinpflaster unterwegs sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Planen Sie zusätzliche Zeit für Fotos ein, besonders in der malerischen Altstadt.",
+          "Prüfen Sie die Öffnungszeiten der Kirchen, da sie für Gottesdienste geschlossen sein können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap macskakövön fog sétálni.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "Tervezzen plusz időt a fotózásra, különösen a festői óvárosban.",
+          "Ellenőrizze a templomok nyitvatartási idejét, mivel istentiszteletek idején zárva lehetnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge pe pavaj toată ziua.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Planificați timp suplimentar pentru fotografii, în special în pitorescul Centru Vechi.",
+          "Verificați orele de deschidere ale bisericilor, deoarece acestea pot fi închise pentru slujbe."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobblestones all day.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Allow extra time for photos, especially in the picturesque Old Town.",
+          "Check the opening hours of the churches, as they may be closed for services."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start am Rathaus",
+            "hu": "Kerékpárkölcsönzés és indulás a Városházától",
+            "ro": "Închiriere de biciclete și start de la Primărie",
+            "en": "Bike Rental & Start at the Town Hall"
+          },
+          "coords": [
+            18.2505,
+            52.2238
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Secure your bike before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche & Meilenstein",
+            "hu": "Szent Bertalan-templom és Mérföldkő",
+            "ro": "Biserica Sfântul Bartolomeu și Piatra de hotar",
+            "en": "St. Bartholomew's Church & Milestone"
+          },
+          "coords": [
+            18.2488,
+            52.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch der Kirche mit dem historischen Meilenstein.",
+            "hu": "Kombinálja a templomlátogatást a történelmi mérföldkő megtekintésével.",
+            "ro": "Combinați vizita la biserică cu cea la piatra de hotar istorică.",
+            "en": "Combine the visit to the church with the historic milestone."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformatenkloster",
+            "hu": "Református kolostor",
+            "ro": "Mănăstirea Reformată",
+            "en": "Reformed Monastery"
+          },
+          "coords": [
+            18.255,
+            52.221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Stadtzentrum zu diesem friedlichen Ort.",
+            "hu": "Egy rövid út a városközponttól ehhez a békés helyhez.",
+            "ro": "O scurtă plimbare cu bicicleta din centrul orașului până la acest loc pașnic.",
+            "en": "A short ride from the city center to this peaceful place."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Blick auf den Fluss",
+            "hu": "Ebéd folyóra néző kilátással",
+            "ro": "Prânz cu vedere la râu",
+            "en": "Lunch with a River View"
+          },
+          "coords": [
+            18.261,
+            52.227
+          ],
+          "category": "gastro",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant am Ufer der Warthe für eine malerische Mahlzeit.",
+            "hu": "Keressen egy éttermet a Warta partján egy festői ebédhez.",
+            "ro": "Căutați un restaurant pe malul râului Warta pentru o masă pitorească.",
+            "en": "Find a restaurant on the banks of the Warta for a scenic meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt durch den Chopin-Park",
+            "hu": "Kerékpározás a Chopin Parkon keresztül",
+            "ro": "Plimbare cu bicicleta prin Parcul Chopin",
+            "en": "Ride through Chopin Park"
+          },
+          "coords": [
+            18.26,
+            52.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Wege im Park eignen sich hervorragend für eine gemütliche Radtour.",
+            "hu": "A park útjai kiválóan alkalmasak egy kellemes kerékpártúrára.",
+            "ro": "Căile din parc sunt excelente pentru o plimbare relaxantă cu bicicleta.",
+            "en": "The paths in the park are great for a leisurely bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der jüdischen Gemeinde",
+            "hu": "A Zsidó Közösség Emlékműve",
+            "ro": "Monumentul Comunității Evreiești",
+            "en": "Memorial to the Jewish Community"
+          },
+          "coords": [
+            18.252,
+            52.219
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt zum Nachdenken auf dem Rückweg ins Zentrum.",
+            "hu": "Egy rövid megálló elmélkedésre a központ felé vezető úton.",
+            "ro": "O scurtă oprire pentru reflecție în drum spre centru.",
+            "en": "A short stop for reflection on the way back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee und Kuchen am Alten Markt",
+            "hu": "Kávé és sütemény a Régi Piactéren",
+            "ro": "Cafea și prăjitură în Piața Veche",
+            "en": "Coffee and Cake at the Old Market Square"
+          },
+          "coords": [
+            18.249,
+            52.223
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 51,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer süßen Belohnung in einem der Cafés.",
+            "hu": "Zárja a kerékpártúrát egy édes jutalommal az egyik kávézóban.",
+            "ro": "Încheiați turul cu bicicleta cu o recompensă dulce la una dintre cafenele.",
+            "en": "End your bike tour with a sweet reward at one of the cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Konin wunderbar flexibel erkunden. Nach dem Start in der Altstadt führt die Tour zu den wichtigsten Sakralbauten wie der Bartholomäuskirche und dem Reformatenkloster. Mittags genießen Sie eine Mahlzeit mit Blick auf die Warthe – eine wohlverdiente Pause. Am Nachmittag radeln Sie entspannt durch den grünen Chopin-Park, bevor Sie über das jüdische Denkmal nachdenkend ins Zentrum zurückkehren. Ein gemütlicher Kaffee am Alten Markt rundet diesen aktiven Tag perfekt ab.",
+        "hu": "Kerékpárral csodálatosan rugalmasan fedezhető fel Konin. Az óvárosban való indulás után a túra a legfontosabb szakrális épületekhez, például a Szent Bertalan-templomhoz és a református kolostorhoz vezet. Délben elfogyaszthat egy ebédet a Warta folyóra néző kilátással – egy megérdemelt szünet. Délután lazán kerékpározhat a zöld Chopin parkon keresztül, mielőtt a zsidó emlékműnél elgondolkodva visszatér a központba. Egy kellemes kávé a Régi Piactéren tökéletesen lezárja ezt az aktív napot.",
+        "ro": "Explorarea Koninului pe bicicletă oferă o flexibilitate minunată. După pornirea din Centrul Vechi, turul duce la cele mai importante clădiri sacre, cum ar fi Biserica Sf. Bartolomeu și Mănăstirea Reformată. La prânz, vă bucurați de o masă cu vedere la râul Warta - o pauză binemeritată. După-amiaza, pedalați relaxat prin Parcul verde Chopin, înainte de a vă întoarce în centru, reflectând la memorialul evreiesc. O cafea confortabilă în Piața Veche încheie perfect această zi activă.",
+        "en": "Exploring Konin by bike offers wonderful flexibility. After starting in the Old Town, the tour leads to the most important sacred buildings, such as St. Bartholomew's Church and the Reformed Monastery. At noon, you enjoy a meal with a view of the Warta River – a well-deserved break. In the afternoon, you cycle relaxed through the green Chopin Park before returning to the center, reflecting at the Jewish memorial. A cozy coffee in the Old Market Square perfectly rounds off this active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barszcz",
+            "tip": "Eine Rote-Bete-Suppe, die leicht und erfrischend ist – perfekt für eine Mittagspause.",
+            "emoji": "🍲"
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Ein polnischer Donut, ideal für einen schnellen Energieschub am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barszcz",
+            "tip": "Céklaleves, amely könnyű és frissítő – tökéletes egy ebédszünethez."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Hússal és rizzsel töltött káposztatekercs, egy kiadós étel."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Lengyel fánk, ideális egy gyors délutáni energialökethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barszcz",
+            "tip": "O supă de sfeclă roșie, ușoară și răcoritoare - perfectă pentru o pauză de prânz."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale umplute cu carne și orez, o masă consistentă."
+          },
+          {
+            "name": "Pączek",
+            "tip": "O gogoașă poloneză, ideală pentru un impuls rapid de energie după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barszcz",
+            "tip": "A beetroot soup that's light and refreshing – perfect for a lunch break."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Cabbage rolls stuffed with meat and rice, a hearty meal."
+          },
+          {
+            "name": "Pączek",
+            "tip": "A Polish donut, ideal for a quick afternoon energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Warthe",
+            "tip": "Der Radweg am Flussufer ist perfekt, um dem Stadttrubel zu entfliehen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Eine Bank im Chopin-Park",
+            "tip": "Halten Sie an und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am See Gosławskie",
+            "tip": "Wenn Sie Zeit haben, ist eine längere Fahrt zum See für den Sonnenuntergang lohnenswert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Warta mentén",
+            "tip": "A folyóparti kerékpárút tökéletes a városi nyüzsgés elől való meneküléshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Egy pad a Chopin Parkban",
+            "tip": "Álljon meg és hallgassa a természet hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Gosławskie-tónál",
+            "tip": "Ha van ideje, egy hosszabb út a tóhoz naplementekor megéri.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Warta",
+            "tip": "Pista de biciclete de pe malul râului este perfectă pentru a scăpa de agitația orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "O bancă în Parcul Chopin",
+            "tip": "Opriți-vă și ascultați sunetele naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Lacul Gosławskie",
+            "tip": "Dacă aveți timp, o plimbare mai lungă cu bicicleta la lac pentru apus merită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ride along the Warta River",
+            "tip": "The riverside bike path is perfect for escaping the city bustle.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "A bench in Chopin Park",
+            "tip": "Stop and listen to the sounds of nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Gosławskie Lake",
+            "tip": "If you have time, a longer ride to the lake for sunset is worthwhile.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Falls Sie Fahrradzubehör benötigen."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Kaufen Sie ein einzigartiges, handgefertigtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha kerékpár-kiegészítőkre lenne szüksége."
+          },
+          {
+            "name": "Kézműves boltok az Óvárosban",
+            "tip": "Vásároljon egyedi, kézzel készített emléktárgyat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În caz că aveți nevoie de accesorii pentru bicicletă."
+          },
+          {
+            "name": "Magazine de artizanat în Centrul Vechi",
+            "tip": "Cumpărați un suvenir unic, realizat manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "In case you need any cycling accessories."
+          },
+          {
+            "name": "Craft Shops in the Old Town",
+            "tip": "Buy a unique, handmade souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand des Fahrrads, bevor Sie losfahren.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps.",
+          "Achten Sie auf den Verkehr, besonders beim Verlassen der Radwege.",
+          "Eine Karte oder GPS ist nützlich, um sich nicht zu verfahren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Mindig gondosan zárja le a kerékpárt, még rövid megállók esetén is.",
+          "Vigyázzon a forgalomra, különösen, ha elhagyja a kerékpárutakat.",
+          "Egy térkép vagy GPS hasznos lehet, hogy ne tévedjen el."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni la drum.",
+          "Încuietăți întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Fiți atenți la trafic, mai ales când părăsiți pistele de biciclete.",
+          "O hartă sau un GPS este util pentru a nu vă rătăci."
+        ],
+        "en": [
+          "Check the condition of the bike before you set off.",
+          "Always lock your bike securely, even for short stops.",
+          "Be mindful of traffic, especially when leaving bike paths.",
+          "A map or GPS is useful to avoid getting lost."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Parken in der Altstadt",
+            "hu": "Érkezés és parkolás az Óvárosban",
+            "ro": "Sosire și parcare în Centrul Vechi",
+            "en": "Arrival and Parking in the Old Town"
+          },
+          "coords": [
+            18.251,
+            52.2235
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie einen zentralen Parkplatz, um das erste Cluster zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel az első klasztert.",
+            "ro": "Găsiți o parcare centrală pentru a explora primul cluster pe jos.",
+            "en": "Find a central parking spot to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Altes Rathaus",
+            "hu": "Városháza és Régi Városháza",
+            "ro": "Primăria și Primăria Veche",
+            "en": "Town Hall & Old Town Hall"
+          },
+          "coords": [
+            18.25,
+            52.224
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die beiden Rathäuser liegen nahe beieinander am Hauptplatz.",
+            "hu": "A két városháza közel van egymáshoz a főtéren.",
+            "ro": "Cele două primării sunt aproape una de cealaltă în piața principală.",
+            "en": "The two town halls are close to each other in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "St. Bartholomew's Church"
+          },
+          "coords": [
+            18.2488,
+            52.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für dieses gotische Meisterwerk ein.",
+            "hu": "Tervezzen elegendő időt erre a gótikus remekműre.",
+            "ro": "Planificați suficient timp pentru această capodoperă gotică.",
+            "en": "Plan enough time for this Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.2515,
+            52.2225
+          ],
+          "category": "gastro",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Stärken Sie sich vor der Fahrt zum nächsten Ziel.",
+            "hu": "Erősítse meg magát a következő úti cél előtt.",
+            "ro": "Întăriți-vă înainte de a conduce la următoarea destinație.",
+            "en": "Fortify yourself before driving to the next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Bezirksmuseum (Schloss Gosławice)",
+            "hu": "Járási Múzeum (Gosławicei kastély)",
+            "ro": "Muzeul Regional (Castelul Gosławice)",
+            "en": "District Museum (Gosławice Castle)"
+          },
+          "coords": [
+            18.275,
+            52.26
+          ],
+          "category": "museums",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber. Das Schloss selbst ist schon beeindruckend.",
+            "hu": "Történelemkedvelőknek kötelező. Maga a kastély is lenyűgöző.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie. Castelul în sine este impresionant.",
+            "en": "A must-see for history lovers. The castle itself is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Chopin-Park",
+            "hu": "Chopin Park",
+            "ro": "Parcul Chopin",
+            "en": "Chopin Park"
+          },
+          "coords": [
+            18.26,
+            52.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und genießen Sie einen entspannten Spaziergang.",
+            "hu": "Parkoljon a közelben, és élvezze a pihentető sétát.",
+            "ro": "Parcați în apropiere și bucurați-vă de o plimbare relaxantă.",
+            "en": "Park nearby and enjoy a relaxing walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Stroll by the Riverbank"
+          },
+          "coords": [
+            18.262,
+            52.227
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:24",
+          "stay_min": 37,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang, um den Tag ausklingen zu lassen.",
+            "hu": "Egy utolsó rövid séta a nap lezárásaként.",
+            "ro": "O ultimă plimbare scurtă pentru a încheia ziua.",
+            "en": "A final short walk to round off the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto bietet die Freiheit, Konin und seine Umgebung zu entdecken. Der Vormittag gehört dem historischen Zentrum, das Sie bequem zu Fuß erkunden, nachdem Sie Ihr Auto geparkt haben. Ein Spaziergang führt Sie vom Rathaus zur prächtigen Bartholomäuskirche. Nach dem Mittagessen fahren Sie zum beeindruckenden Schloss Gosławice, das das Bezirksmuseum beherbergt – ein kulturelles Highlight. Der Nachmittag wird entspannter mit einem Besuch im Chopin-Park und einem abschließenden Spaziergang am Flussufer, bevor Sie die Heimreise antreten.",
+        "hu": "Az autó szabadságot ad Konin és környéke felfedezéséhez. A délelőtt a történelmi központé, amelyet kényelmesen, gyalogosan fedezhet fel, miután leparkolta az autóját. Egy séta a városházától a csodálatos Szent Bertalan-templomhoz vezet. Ebéd után az impozáns Gosławice-kastélyhoz hajt, amely a Járási Múzeumnak ad otthont – egy kulturális fénypont. A délután lazább a Chopin park meglátogatásával és egy záró sétával a folyóparton, mielőtt hazaindulna.",
+        "ro": "Mașina oferă libertatea de a explora Konin și împrejurimile sale. Dimineața este dedicată centrului istoric, pe care îl explorați confortabil pe jos după ce ați parcat mașina. O plimbare vă duce de la Primărie la magnifica Biserică Sfântul Bartolomeu. După prânz, conduceți la impresionantul Castel Gosławice, care găzduiește Muzeul Regional - un punct culminant cultural. După-amiaza devine mai relaxată cu o vizită la Parcul Chopin și o plimbare finală pe malul râului înainte de a porni spre casă.",
+        "en": "The car offers the freedom to discover Konin and its surroundings. The morning is dedicated to the historic center, which you can comfortably explore on foot after parking your car. A walk takes you from the Town Hall to the magnificent St. Bartholomew's Church. After lunch, you drive to the impressive Gosławice Castle, which houses the District Museum – a cultural highlight. The afternoon becomes more relaxed with a visit to Chopin Park and a final stroll along the riverbank before you head home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos",
+            "tip": "Ein traditioneller polnischer Eintopf aus Sauerkraut und Fleisch."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Ein rustikales Gasthaus außerhalb des Zentrums, ideal für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Kawa i ciasto",
+            "tip": "Genießen Sie nach dem Museumsbesuch Kaffee und Kuchen in einem lokalen Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos",
+            "tip": "Hagyományos lengyel egytálétel savanyú káposztából és húsból."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Egy rusztikus fogadó a központon kívül, ideális egy autentikus élményhez."
+          },
+          {
+            "name": "Kawa i ciasto",
+            "tip": "Élvezzen egy kávét és süteményt egy helyi kávézóban a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos",
+            "tip": "O tocană tradițională poloneză din varză murată și carne."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "Un han rustic în afara centrului, ideal pentru o experiență autentică."
+          },
+          {
+            "name": "Kawa i ciasto",
+            "tip": "Bucurați-vă de cafea și prăjitură la o cafenea locală după vizita la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos",
+            "tip": "A traditional Polish stew made from sauerkraut and meat."
+          },
+          {
+            "name": "Karczma pod Strzechą",
+            "tip": "A rustic inn outside the center, ideal for an authentic experience."
+          },
+          {
+            "name": "Kawa i ciasto",
+            "tip": "Enjoy coffee and cake in a local café after the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "See Gosławskie",
+            "tip": "Machen Sie einen kurzen Abstecher zum See in der Nähe des Schlosses für einen Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Schlosses Gosławice",
+            "tip": "Spazieren Sie durch die ruhigen Gärten rund um das Museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt über der Stadt",
+            "tip": "Suchen Sie einen erhöhten Punkt für einen Blick über Konin bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gosławskie-tó",
+            "tip": "Tegyen egy rövid kitérőt a kastély melletti tóhoz egy panorámás kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Gosławice-kastély kertjei",
+            "tip": "Sétáljon a múzeum körüli csendes kertekben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a város felett",
+            "tip": "Keressen egy magaslati pontot, ahonnan naplementekor rápillanthat Koninra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Gosławskie",
+            "tip": "Faceți un scurt ocol la lacul de lângă castel pentru o vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Gosławice",
+            "tip": "Plimbați-vă prin grădinile liniștite din jurul muzeului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere deasupra orașului",
+            "tip": "Căutați un punct înalt pentru o privire asupra Koninului la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gosławskie Lake",
+            "tip": "Take a short detour to the lake near the castle for a panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Gosławice Castle",
+            "tip": "Stroll through the quiet gardens surrounding the museum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint over the city",
+            "tip": "Look for an elevated spot for a view over Konin at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop im Schloss",
+            "tip": "Hier finden Sie Bücher und einzigartige Souvenirs zur Regionalgeschichte."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach lokalen Produkten auf dem Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt a kastélyban",
+            "tip": "Keresse a helyi termékeket vidéken.",
+            "hu": "Helyi termékeket árusító boltok a környéken"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului din castel",
+            "tip": "Aici veți găsi cărți și suveniruri unice legate de istoria regională."
+          },
+          {
+            "name": "Magazine agricole din zonă",
+            "tip": "Căutați produse locale la țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum shop in the castle",
+            "tip": "Here you will find books and unique souvenirs related to regional history."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for local produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein GPS ist unerlässlich, um zwischen den verschiedenen Zielen zu navigieren.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders zu Stoßzeiten.",
+          "Kombinieren Sie kurze Fahrten mit längeren Spaziergängen, um das Beste aus dem Tag zu machen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A GPS elengedhetetlen a különböző célpontok közötti navigáláshoz.",
+          "Tervezzen némi pufferidőt a forgalomra, különösen csúcsidőben.",
+          "Kombinálja a rövid autóutakat hosszabb sétákkal, hogy a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Verificați dinainte opțiunile de parcare și taxele.",
+          "Un GPS este esențial pentru a naviga între diferitele destinații.",
+          "Planificați timp suplimentar pentru trafic, mai ales la orele de vârf.",
+          "Combinați călătoriile scurte cu mașina cu plimbări mai lungi pentru a profita la maximum de zi."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A GPS is essential for navigating between the different destinations.",
+          "Plan some buffer time for traffic, especially during peak hours.",
+          "Combine short drives with longer walks to make the most of the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptplatz (Cluster Altstadt)",
+            "hu": "Érkezés a Fő térre (Óváros klaszter)",
+            "ro": "Sosire în Piața Principală (Cluster Centrul Vechi)",
+            "en": "Arrival at the Main Square (Old Town Cluster)"
+          },
+          "coords": [
+            18.251,
+            52.2235
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Orientieren Sie sich an der zentralen Bushaltestelle.",
+            "hu": "Tájékozódjon a központi buszmegállónál.",
+            "ro": "Orientați-vă la stația centrală de autobuz.",
+            "en": "Get your bearings at the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche & Meilenstein",
+            "hu": "Szent Bertalan-templom és Mérföldkő",
+            "ro": "Biserica Sfântul Bartolomeu și Piatra de hotar",
+            "en": "St. Bartholomew's Church & Milestone"
+          },
+          "coords": [
+            18.2488,
+            52.2245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten sind nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két történelmi helyszín csak egy rövid sétára van egymástól.",
+            "ro": "Aceste două situri istorice sunt la o scurtă plimbare una de cealaltă.",
+            "en": "These two historic sites are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            18.2515,
+            52.2225
+          ],
+          "category": "gastro",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine herzhafte polnische Mahlzeit, bevor Sie den Bus nehmen.",
+            "hu": "Élvezzen egy kiadós lengyel ebédet, mielőtt buszra száll.",
+            "ro": "Bucurați-vă de o masă poloneză consistentă înainte de a lua autobuzul.",
+            "en": "Enjoy a hearty Polish meal before you take the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Cluster Park/Kloster",
+            "hu": "Buszút a Park/Kolostor klaszterhez",
+            "ro": "Călătorie cu autobuzul la Clusterul Parc/Mănăstire",
+            "en": "Bus Ride to the Park/Monastery Cluster"
+          },
+          "coords": [
+            18.256,
+            52.2215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe des Reformatenklosters aus.",
+            "hu": "Szálljon le a református kolostor közelében.",
+            "ro": "Coborâți lângă Mănăstirea Reformată.",
+            "en": "Get off near the Reformed Monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der jüdischen Gemeinde",
+            "hu": "A Zsidó Közösség Emlékműve",
+            "ro": "Monumentul Comunității Evreiești",
+            "en": "Memorial to the Jewish Community"
+          },
+          "coords": [
+            18.252,
+            52.219
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster zu diesem wichtigen Denkmal.",
+            "hu": "Egy rövid séta a kolostortól ehhez a fontos emlékműhöz.",
+            "ro": "O scurtă plimbare de la mănăstire la acest monument important.",
+            "en": "A short walk from the monastery to this important memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Chopin-Park",
+            "hu": "Chopin Park",
+            "ro": "Parcul Chopin",
+            "en": "Chopin Park"
+          },
+          "coords": [
+            18.26,
+            52.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park ist der perfekte Ort, um den Nachmittag entspannt ausklingen zu lassen.",
+            "hu": "A park tökéletes hely a délutáni pihenéshez.",
+            "ro": "Parcul este locul perfect pentru a vă relaxa după-amiaza.",
+            "en": "The park is the perfect place to relax in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedskaffee",
+            "hu": "Búcsúkávé",
+            "ro": "Cafea de rămas bun",
+            "en": "Farewell Coffee"
+          },
+          "coords": [
+            18.258,
+            52.227
+          ],
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Café in der Nähe der Bushaltestelle für die Rückfahrt.",
+            "hu": "Keressen egy kávézót a visszaúti buszmegálló közelében.",
+            "ro": "Găsiți o cafenea lângă stația de autobuz pentru călătoria de întoarcere.",
+            "en": "Find a cafe near the bus stop for the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Konin effizient in Clustern erkunden. Der Morgen ist dem historischen Kern gewidmet, wo Sie die wichtigsten Sehenswürdigkeiten wie die Bartholomäuskirche zu Fuß erreichen. Nach dem Mittagessen bringt Sie ein kurzer Bus-Hop zu einem anderen Stadtteil, wo das Reformatenkloster und der entspannende Chopin-Park auf Sie warten. Diese Methode kombiniert die Bequemlichkeit des Transports zwischen den Vierteln mit der Freude, die einzelnen Bereiche intensiv zu Fuß zu erleben.",
+        "hu": "Tömegközlekedéssel Konin hatékonyan, klaszterekben fedezhető fel. A reggel a történelmi magnak van szentelve, ahol a legfontosabb látnivalókat, mint a Szent Bertalan-templomot, gyalogosan érheti el. Ebéd után egy rövid buszozás egy másik városrészbe viszi, ahol a református kolostor és a pihentető Chopin park várja. Ez a módszer ötvözi a negyedek közötti közlekedés kényelmét az egyes területek intenzív gyalogos felfedezésének örömével.",
+        "ro": "Folosind transportul public, Konin poate fi explorat eficient în clustere. Dimineața este dedicată nucleului istoric, unde puteți ajunge pe jos la principalele atracții, cum ar fi Biserica Sfântul Bartolomeu. După prânz, o scurtă călătorie cu autobuzul vă duce într-un alt cartier, unde vă așteaptă Mănăstirea Reformată și relaxantul Parc Chopin. Această metodă combină confortul transportului între cartiere cu bucuria de a explora intensiv fiecare zonă pe jos.",
+        "en": "Using public transport, Konin can be explored efficiently in clusters. The morning is dedicated to the historic core, where you can reach the main attractions like St. Bartholomew's Church on foot. After lunch, a short bus hop takes you to another district, where the Reformed Monastery and the relaxing Chopin Park await. This method combines the convenience of transport between districts with the joy of intensively exploring each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein überbackenes Baguette, ein beliebter polnischer Straßensnack."
+          },
+          {
+            "name": "Bistro Konin",
+            "tip": "Ein modernes Bistro in der Nähe einer Bushaltestelle, perfekt für eine schnelle Mahlzeit."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polnischer Käsekuchen, ein köstlicher Abschluss für jede Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Sült bagett, egy népszerű lengyel utcai étel."
+          },
+          {
+            "name": "Bistro Konin",
+            "tip": "Egy modern bisztró egy buszmegálló közelében, tökéletes egy gyors étkezéshez."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Lengyel sajttorta, bármely étkezés finom befejezése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă gratinată, o gustare stradală poloneză populară."
+          },
+          {
+            "name": "Bistro Konin",
+            "tip": "Un bistro modern lângă o stație de autobuz, perfect pentru o masă rapidă."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Cheesecake polonez, un final delicios pentru orice masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A baked open-faced baguette, a popular Polish street food."
+          },
+          {
+            "name": "Bistro Konin",
+            "tip": "A modern bistro near a bus stop, perfect for a quick meal."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Polish cheesecake, a delicious end to any meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof neben dem Kloster",
+            "tip": "Ein Ort der Stille und des Gedenkens.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine Fahrt aus der Stadt hinaus",
+            "tip": "Nehmen Sie einen Bus, der Sie zu den grüneren Rändern der Stadt bringt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Lesen im Park",
+            "tip": "Bringen Sie ein Buch mit und genießen Sie die Ruhe im Chopin-Park.",
+            "emoji": "📖"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a kolostor mellett",
+            "tip": "A csend és az emlékezés helye."
+          },
+          {
+            "name": "Buszozás kifelé a városból",
+            "tip": "Szálljon fel egy buszra, amely a város zöldebb széleihez viszi."
+          },
+          {
+            "name": "Olvasás a parkban",
+            "tip": "Hozzon magával egy könyvet, és élvezze a csendet a Chopin parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă mănăstire",
+            "tip": "Un loc de liniște și comemorare."
+          },
+          {
+            "name": "O călătorie cu autobuzul în afara orașului",
+            "tip": "Luați un autobuz care vă duce la marginile mai verzi ale orașului."
+          },
+          {
+            "name": "Lectură în parc",
+            "tip": "Aduceți o carte și bucurați-vă de liniștea din Parcul Chopin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery next to the monastery",
+            "tip": "A place of silence and remembrance."
+          },
+          {
+            "name": "A bus ride out of town",
+            "tip": "Take a bus that takes you to the greener edges of the city."
+          },
+          {
+            "name": "Reading in the park",
+            "tip": "Bring a book and enjoy the peace and quiet in Chopin Park."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie Zeitungen, Snacks und manchmal auch kleine Souvenirs."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Hauptplatzes",
+            "tip": "Kombinieren Sie Sightseeing mit einem kleinen Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt újságokat, rágcsálnivalókat és néha apró ajándéktárgyakat is talál."
+          },
+          {
+            "name": "Boltok a Fő tér közelében",
+            "tip": "Kombinálja a városnézést egy kis vásárlással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Aici veți găsi ziare, gustări și uneori mici suveniruri."
+          },
+          {
+            "name": "Magazine lângă Piața Principală",
+            "tip": "Combinați vizitarea obiectivelor turistice cu o mică sesiune de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Here you'll find newspapers, snacks, and sometimes small souvenirs."
+          },
+          {
+            "name": "Shops near the Main Square",
+            "tip": "Combine sightseeing with a little shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Fahrplan-App herunter oder machen Sie ein Foto vom Fahrplan an der Haltestelle.",
+          "Haben Sie Kleingeld für Tickets bereit, falls Sie diese beim Fahrer kaufen müssen.",
+          "Achten Sie auf die letzte Abfahrtszeit, um nicht stranded zu sein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a menetrendi alkalmazást, vagy készítsen fotót a megállóban lévő menetrendről.",
+          "Készítsen aprópénzt a jegyekhez, ha a sofőrtől kell megvásárolnia.",
+          "Figyeljen az utolsó indulási időre, hogy ne ragadjon ott."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația cu orare sau faceți o fotografie a orarului din stație.",
+          "Pregătiți mărunțiș pentru bilete, în caz că trebuie să le cumpărați de la șofer.",
+          "Fiți atenți la ora ultimei plecări pentru a nu rămâne blocat."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the timetable app or take a photo of the schedule at the stop.",
+          "Have small change ready for tickets in case you need to buy them from the driver.",
+          "Pay attention to the last departure time to avoid getting stranded."
+        ]
+      }
+    }
+  }
+}

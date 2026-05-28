@@ -1,0 +1,1446 @@
+{
+  "city_id": "van-cities-v2",
+  "anchor": {
+    "name": "Van",
+    "coords": [
+      43.3764,
+      38.4946
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Frühstück im Kultur-Haus",
+            "hu": "Reggeli a Kultúra Házában",
+            "ro": "Micul dejun la Casa de Cultură",
+            "en": "Breakfast at the Culture House"
+          },
+          "coords": [
+            43.398,
+            38.485
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte Van-Frühstück mit über 20 verschiedenen lokalen Spezialitäten.",
+            "hu": "Kóstolja meg a híres Van reggelit, több mint 20 különböző helyi specialitással.",
+            "ro": "Încercați renumitul mic dejun Van, cu peste 20 de specialități locale diferite.",
+            "en": "Try the famous Van breakfast, featuring over 20 different local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Van-Museum",
+            "hu": "Van Múzeum",
+            "ro": "Muzeul Van",
+            "en": "Van Museum"
+          },
+          "coords": [
+            43.395,
+            38.482
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die urartäischen Artefakte, die die alte Geschichte der Region zeigen.",
+            "hu": "Fókuszáljon az urartui leletekre, amelyek a régió ókori történelmét mutatják be.",
+            "ro": "Concentrați-vă pe artefactele urartiene, care prezintă istoria antică a regiunii.",
+            "en": "Focus on the Urartian artifacts, which showcase the region's ancient history."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Van-Katzen",
+            "hu": "Van macskák háza",
+            "ro": "Casa pisicilor Van",
+            "en": "Van Cat House"
+          },
+          "coords": [
+            43.388,
+            38.475
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "12:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie die berühmten Katzen mit verschiedenfarbigen Augen in einer geschützten Umgebung.",
+            "hu": "Figyelje meg a híres, különböző színű szemű macskákat egy védett környezetben.",
+            "ro": "Observați faimoasele pisici cu ochi de culori diferite într-un mediu protejat.",
+            "en": "Observe the famous cats with different colored eyes in a protected environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Seeufer",
+            "hu": "Ebéd a tóparton",
+            "ro": "Prânz pe malul lacului",
+            "en": "Lunch by the Lakeside"
+          },
+          "coords": [
+            43.352,
+            38.46
+          ],
+          "category": "gastro",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie frischen Fisch aus dem Van-See mit Blick auf das Wasser.",
+            "hu": "Élvezze a friss halat a Van-tóból, kilátással a vízre.",
+            "ro": "Savurați pește proaspăt din Lacul Van, cu vedere la apă.",
+            "en": "Enjoy fresh fish from Lake Van with a view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Van-Burg (Festung)",
+            "hu": "Van vára",
+            "ro": "Cetatea Van",
+            "en": "Van Fortress (Castle)"
+          },
+          "coords": [
+            43.336,
+            38.503
+          ],
+          "category": "castles",
+          "arrive_at": "15:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Klettern Sie zur Spitze für einen Panoramablick auf die Stadt und den See bei Sonnenuntergang.",
+            "hu": "Másszon fel a csúcsra a városra és a tóra nyíló panorámás kilátásért naplementekor.",
+            "ro": "Urcați în vârf pentru o vedere panoramică a orașului și a lacului la apus.",
+            "en": "Climb to the top for a panoramic view of the city and lake at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Tee am Fuße der Burg",
+            "hu": "Teázás a vár lábánál",
+            "ro": "Ceai la poalele cetății",
+            "en": "Tea at the base of the Castle"
+          },
+          "coords": [
+            43.338,
+            38.502
+          ],
+          "category": "gastro",
+          "arrive_at": "17:18",
+          "stay_min": 47,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Abstieg in einem der traditionellen Teegärten.",
+            "hu": "Pihenjen meg a leereszkedés után egy hagyományos teakertben.",
+            "ro": "Relaxați-vă după coborâre într-una dintre grădinile de ceai tradiționale.",
+            "en": "Relax in one of the traditional tea gardens after your descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem berühmten Van-Frühstück, einem Festmahl, das Sie für die Erkundung der Stadt stärkt. Anschließend tauchen Sie im Van-Museum in die urartäische Geschichte ein, bevor Sie die einzigartigen Van-Katzen mit ihren faszinierenden Augen besuchen.\nAm Mittag spazieren Sie zum Ufer des Van-Sees für ein entspanntes Mittagessen mit frischem Fisch und herrlicher Aussicht. Der Spaziergang bietet Einblicke in das lokale Leben und die weite Landschaft, die die Stadt umgibt.\nAm Nachmittag steht der Aufstieg zur imposanten Van-Burg an. Der Weg mag anspruchsvoll sein, aber die Belohnung ist ein atemberaubender Panoramablick, besonders bei Sonnenuntergang, der die antiken Mauern in goldenes Licht taucht.\nBeenden Sie Ihren Tag in einem gemütlichen Teegarten am Fuße der Burg. Lassen Sie die Eindrücke des Tages bei einem Glas türkischen Tees Revue passieren und genießen Sie die friedliche Abendatmosphäre.",
+        "hu": "Kezdje a napot a híres Van reggelivel, egy lakomával, amely energiát ad a város felfedezéséhez. Merüljön el az urartui történelemben a Van Múzeumban, majd látogassa meg az egyedülálló, lenyűgöző szemű Van macskákat.\nDélben sétáljon le a Van-tó partjára egy pihentető ebédre, friss hallal és csodálatos kilátással. A séta bepillantást enged a helyi életbe és a várost körülvevő hatalmas tájba.\nDélután következik a mászás a lenyűgöző Van várához. Az út kihívást jelenthet, de a jutalom lélegzetelállító panoráma, különösen naplementekor, amikor az ősi falakat arany fénybe vonja a nap.\nZárja a napot egy hangulatos teakertben a vár lábánál. Idézze fel a nap élményeit egy pohár török tea mellett, és élvezze a békés esti hangulatot.",
+        "ro": "Începeți ziua cu renumitul mic dejun din Van, un festin care vă va energiza pentru explorarea orașului. Apoi, scufundați-vă în istoria urartiană la Muzeul Van înainte de a vizita pisicile unice din Van cu ochii lor fascinanți.\nLa prânz, faceți o plimbare pe malul lacului Van pentru un prânz relaxant cu pește proaspăt și priveliști superbe. Plimbarea oferă o imagine a vieții locale și a peisajului vast care înconjoară orașul.\nDupă-amiaza este dedicată urcării la impunătoarea Cetate Van. Drumul poate fi solicitant, dar recompensa este o priveliște panoramică uluitoare, mai ales la apus, care scaldă zidurile antice în lumină aurie.\nÎncheiați ziua într-o grădină de ceai confortabilă la poalele cetății. Rememorați impresiile zilei savurând un pahar de ceai turcesc și bucurându-vă de atmosfera liniștită de seară.",
+        "en": "Start your day with the famous Van breakfast, a feast that will energize you for exploring the city. Then delve into Urartian history at the Van Museum before visiting the unique Van cats with their mesmerizing eyes.\nAt midday, stroll to the shores of Lake Van for a relaxing lunch of fresh fish and splendid views. The walk offers a glimpse into local life and the vast landscape surrounding the city.\nThe afternoon is for the ascent to the imposing Van Fortress. The path may be challenging, but the reward is a breathtaking panoramic view, especially at sunset, which bathes the ancient walls in golden light.\nEnd your day in a cozy tea garden at the foot of the fortress. Reflect on the day's experiences over a glass of Turkish tea and enjoy the peaceful evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "Der Inbegriff des Van-Frühstücks. Planen Sie viel Zeit ein!"
+          },
+          {
+            "name": "Aşiyan Ev Yemekleri",
+            "tip": "Für authentische, hausgemachte anatolische Gerichte zum Mittagessen."
+          },
+          {
+            "name": "Balıkçı Kenan",
+            "tip": "Probieren Sie den İnci Kefalı (Perlenmullet), eine Fischart, die nur im Van-See vorkommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "A Van reggeli megtestesítője. Szánjon rá bőségesen időt!"
+          },
+          {
+            "name": "Aşiyan Ev Yemekleri",
+            "tip": "Autentikus, házias anatóliai ételekért ebédidőben."
+          },
+          {
+            "name": "Balıkçı Kenan",
+            "tip": "Kóstolja meg az İnci Kefalı-t (gyöngyös márna), egy csak a Van-tóban élő halfajtát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "Chintesența micului dejun din Van. Alocați-vă mult timp!"
+          },
+          {
+            "name": "Aşiyan Ev Yemekleri",
+            "tip": "Pentru mâncăruri anatoliene autentice, de casă, la prânz."
+          },
+          {
+            "name": "Balıkçı Kenan",
+            "tip": "Încercați İnci Kefalı (chefalul perlat), o specie de pește care trăiește doar în Lacul Van."
+          }
+        ],
+        "en": [
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "The epitome of the Van breakfast experience. Allow plenty of time!"
+          },
+          {
+            "name": "Aşiyan Ev Yemekleri",
+            "tip": "For authentic, home-cooked Anatolian dishes at lunchtime."
+          },
+          {
+            "name": "Balıkçı Kenan",
+            "tip": "Try the İnci Kefalı (Pearl Mullet), a fish species found only in Lake Van."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spitze der Van-Burg",
+            "tip": "Der beste Ort für einen Panoramablick und einen ruhigen Moment bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Van-Sees",
+            "tip": "Finden Sie eine abgelegene Stelle am Ufer, um die Weite des Sees zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teegarten bei der Burg",
+            "tip": "Nach dem Trubel der Stadt ein friedlicher Ort zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Van várának csúcsa",
+            "tip": "A legjobb hely a panorámás kilátáshoz és egy csendes pillanathoz naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Van-tó partja",
+            "tip": "Keressen egy félreeső helyet a parton, hogy élvezze a tó végtelenségét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Teakert a várnál",
+            "tip": "A város nyüzsgése után egy békés hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Cetății Van",
+            "tip": "Cel mai bun loc pentru o vedere panoramică și un moment de liniște la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Lacului Van",
+            "tip": "Găsiți un loc retras pe mal pentru a vă bucura de imensitatea lacului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de ceai de lângă cetate",
+            "tip": "Un loc pașnic pentru relaxare după agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of Van Fortress",
+            "tip": "The best spot for panoramic views and a quiet moment at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Shore of Lake Van",
+            "tip": "Find a secluded spot along the shore to appreciate the vastness of the lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tea garden near the fortress",
+            "tip": "A peaceful place to unwind after the hustle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Van-Basar",
+            "tip": "Suchen Sie nach lokalen Käsesorten wie Otlu Peynir und handgewebten Kelims."
+          },
+          {
+            "name": "Russischer Markt (Rus Pazarı)",
+            "tip": "Ein einzigartiger Ort, um alles von Kleidung bis zu Haushaltswaren zu durchstöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Van bazár",
+            "tip": "Keressen helyi sajtokat, mint az Otlu Peynir, és kézzel szőtt kilimeket."
+          },
+          {
+            "name": "Orosz piac (Rus Pazarı)",
+            "tip": "Egyedülálló hely, ahol a ruháktól a háztartási cikkekig mindent megtalál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul din Van",
+            "tip": "Căutați brânzeturi locale precum Otlu Peynir și covoare kilim țesute manual."
+          },
+          {
+            "name": "Piața Rusească (Rus Pazarı)",
+            "tip": "Un loc unic pentru a răsfoi de la haine la articole de uz casnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Van Bazaar",
+            "tip": "Look for local cheeses like Otlu Peynir and handwoven kilim rugs."
+          },
+          {
+            "name": "Russian Market (Rus Pazarı)",
+            "tip": "A unique place to browse for everything from clothing to household goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da der Aufstieg zur Burg steil sein kann.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an heißen Tagen.",
+          "Handeln Sie auf den Märkten höflich, um einen fairen Preis zu erzielen.",
+          "Achten Sie auf unebenes Pflaster in den älteren Teilen der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a várhoz való feljutás meredek lehet.",
+          "Vigyen magával elegendő vizet, különösen forró napokon.",
+          "Alkudjon udvariasan a piacokon a méltányos árért.",
+          "Vigyázzon az egyenetlen macskakövekre a város régebbi részein."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece urcarea la cetate poate fi abruptă.",
+          "Luați suficientă apă cu dumneavoastră, mai ales în zilele caniculare.",
+          "Negociați politicos în piețe pentru a obține un preț corect.",
+          "Fiți atenți la pavajul denivelat din părțile mai vechi ale orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the climb to the fortress can be steep.",
+          "Bring plenty of water, especially on hot days.",
+          "Bargain politely in the markets to get a fair price.",
+          "Be mindful of uneven pavement in the older parts of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Van-Museum",
+            "hu": "Van Múzeum",
+            "ro": "Muzeul Van",
+            "en": "Van Museum"
+          },
+          "coords": [
+            43.395,
+            38.482
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den historischen Kontext für den Rest des Tages zu erhalten.",
+            "hu": "Kezdje itt, hogy megkapja a történelmi kontextust a nap hátralévő részére.",
+            "ro": "Începeți aici pentru a obține contextul istoric pentru restul zilei.",
+            "en": "Start here to get the historical context for the rest of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Van-Katzen",
+            "hu": "Van macskák háza",
+            "ro": "Casa pisicilor Van",
+            "en": "Van Cat House"
+          },
+          "coords": [
+            43.388,
+            38.475
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "10:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Stopp, der sich leicht in eine Radtour integrieren lässt.",
+            "hu": "Egy rövid, de megérő megálló, amely könnyen beilleszthető egy biciklitúrába.",
+            "ro": "O oprire scurtă, dar care merită, ușor de integrat într-un tur cu bicicleta.",
+            "en": "A short but rewarding stop that is easy to fit into a bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Radfahrt zum Yedi Kilise (Varagavank)",
+            "hu": "Biciklizés a Yedi Kilise-hez (Varagavank)",
+            "ro": "Plimbare cu bicicleta la Yedi Kilise (Varagavank)",
+            "en": "Bike ride to Yedi Kilise (Varagavank)"
+          },
+          "coords": [
+            43.431,
+            38.568
+          ],
+          "category": "churches",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Die Radtour zum Klosterkomplex ist landschaftlich reizvoll und führt durch ländliche Gebiete.",
+            "hu": "A kerékpártúra a kolostorkomplexumhoz festői szépségű, vidéki területeken vezet keresztül.",
+            "ro": "Plimbarea cu bicicleta până la complexul mănăstirii este pitorească, trecând prin zone rurale.",
+            "en": "The bike ride to the monastery complex is scenic, passing through rural areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Dorfrestaurant",
+            "hu": "Ebéd egy falusi étteremben",
+            "ro": "Prânz într-un restaurant sătesc",
+            "en": "Lunch at a village restaurant"
+          },
+          "coords": [
+            43.428,
+            38.565
+          ],
+          "category": "gastro",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie authentische lokale Küche abseits der Touristenpfade.",
+            "hu": "Élvezze az autentikus helyi konyhát a turistaösvényektől távol.",
+            "ro": "Bucurați-vă de bucătăria locală autentică, departe de traseele turistice.",
+            "en": "Enjoy authentic local cuisine away from the tourist trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Van-Burg",
+            "hu": "Utazás a Van várhoz",
+            "ro": "Drumul spre Cetatea Van",
+            "en": "Ride to Van Fortress"
+          },
+          "coords": [
+            43.336,
+            38.503
+          ],
+          "category": "castles",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 52,
+          "hop_from_prev_km": 8.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße der Burg ab und bereiten Sie sich auf den Aufstieg vor.",
+            "hu": "Zárja le a kerékpárját a vár lábánál, és készüljön fel a mászásra.",
+            "ro": "Legați-vă bicicleta la poalele cetății și pregătiți-vă pentru urcare.",
+            "en": "Lock your bike at the base of the fortress and prepare for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Seeufer",
+            "hu": "Naplemente a tóparton",
+            "ro": "Apus de soare pe malul lacului",
+            "en": "Sunset at the Lakeside"
+          },
+          "coords": [
+            43.315,
+            38.48
+          ],
+          "category": "viewpoints",
+          "arrive_at": "17:33",
+          "stay_min": 58,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu einem ruhigen Ort am Ufer, um zu beobachten, wie die Sonne hinter dem Berg Artos untergeht.",
+            "hu": "Tekerjen el egy csendes helyre a parton, hogy megnézze, ahogy a nap lemegy az Artos-hegy mögött.",
+            "ro": "Pedalați spre un loc liniștit de pe mal pentru a privi soarele apunând în spatele Muntelui Artos.",
+            "en": "Cycle to a quiet spot on the shore to watch the sun set behind Mount Artos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag im Van-Museum, um einen Einblick in die reiche Geschichte der Region zu bekommen. Ein kurzer Abstecher führt Sie zum Haus der Van-Katzen, bevor Sie sich auf eine längere, malerische Fahrt zum historischen Kloster Varagavank (Yedi Kilise) begeben.\nDie Mittagszeit verbringen Sie in einem charmanten Dorfrestaurant in der Nähe des Klosters, wo Sie die authentische lokale Küche genießen können. Die ländliche Atmosphäre bietet eine willkommene Abwechslung zum städtischen Trubel und stärkt Sie für die nächste Etappe.\nFrisch gestärkt radeln Sie zurück in Richtung Stadt, mit dem Ziel der majestätischen Van-Burg. Der Anblick der riesigen Festung, die über der Stadt thront, ist schon von weitem beeindruckend. Schließen Sie Ihr Rad an und erklimmen Sie die alten Mauern zu Fuß.\nBeenden Sie Ihre Radtour mit einer entspannten Fahrt entlang des Seeufers. Suchen Sie sich einen perfekten Platz, um den spektakulären Sonnenuntergang über dem Van-See und hinter dem Berg Artos zu beobachten – ein unvergesslicher Abschluss eines aktiven Tages.",
+        "hu": "Pattanjon kerékpárra, és kezdje a napot a Van Múzeumban, hogy bepillantást nyerjen a régió gazdag történelmébe. Egy rövid kitérővel eljuthat a Van macskák házához, mielőtt egy hosszabb, festői útra indulna a történelmi Varagavank (Yedi Kilise) kolostorhoz.\nAz ebédidőt a kolostor közelében, egy bájos falusi étteremben töltse, ahol megkóstolhatja az autentikus helyi ételeket. A vidéki hangulat kellemes felüdülést nyújt a városi nyüzsgés után, és erőt ad a következő szakaszhoz.\nFelfrissülve tekerjen vissza a város felé, a fenséges Van várát megcélozva. A város fölé magasodó hatalmas erőd látványa már messziről is lenyűgöző. Zárja le a kerékpárt, és mássza meg gyalog az ősi falakat.\nFejezze be a kerékpártúrát egy pihentető tekeréssel a tópart mentén. Keressen egy tökéletes helyet, hogy megcsodálhassa a látványos naplementét a Van-tó felett és az Artos-hegy mögött – egy aktív nap felejthetetlen lezárása.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua la Muzeul Van pentru o perspectivă asupra istoriei bogate a regiunii. O scurtă deviere vă duce la Casa Pisicilor Van înainte de a porni într-o plimbare mai lungă și pitorească spre mănăstirea istorică Varagavank (Yedi Kilise).\nPetreceți pauza de prânz la un restaurant fermecător de la țară, lângă mănăstire, unde puteți savura bucătăria locală autentică. Atmosfera rurală oferă o schimbare binevenită față de agitația orașului și vă încarcă bateriile pentru următoarea etapă.\nRevigorat, pedalați înapoi spre oraș, țintind spre majestuoasa Cetate Van. Priveliștea fortăreței uriașe care se înalță deasupra orașului este impresionantă chiar și de la distanță. Legați-vă bicicleta și urcați pe zidurile antice pe jos.\nÎncheiați turul cu bicicleta cu o plimbare relaxantă de-a lungul malului lacului. Găsiți un loc perfect pentru a privi apusul spectaculos peste Lacul Van și în spatele Muntelui Artos - o încheiere de neuitat a unei zile active.",
+        "en": "Hop on your bike and start the day at the Van Museum for a glimpse into the region's rich history. A short detour takes you to the Van Cat House before you embark on a longer, scenic ride to the historic Varagavank Monastery (Yedi Kilise).\nSpend your lunch break at a charming village restaurant near the monastery, where you can savor authentic local cuisine. The rural atmosphere provides a welcome change from the city bustle and energizes you for the next leg.\nRefreshed, pedal back towards the city, aiming for the majestic Van Fortress. The sight of the huge fortress towering over the city is impressive even from a distance. Lock up your bike and climb the ancient walls on foot.\nConclude your bike tour with a relaxing ride along the lake shore. Find a perfect spot to watch the spectacular sunset over Lake Van and behind Mount Artos—an unforgettable end to an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dorf-Gözleme-Stände",
+            "tip": "Halten Sie auf dem Land Ausschau nach Frauen, die frisches Gözleme (gefülltes Fladenbrot) zubereiten."
+          },
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "Wenn Sie kein Frühstück hatten, ist dies auch ein toller Ort für ein spätes, herzhaftes Mittagessen."
+          },
+          {
+            "name": "İskele Caddesi Restaurants",
+            "tip": "Entlang der Straße zum Fähranleger gibt es viele Restaurants mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi Gözleme standok",
+            "tip": "Vidéken keresse azokat a nőket, akik friss Gözleme-t (töltött lepénykenyeret) készítenek."
+          },
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "Ha nem reggelizett, ez egy remek hely egy késői, kiadós ebédhez is."
+          },
+          {
+            "name": "İskele Caddesi éttermek",
+            "tip": "A kompkikötőhöz vezető út mentén számos tóra néző étterem található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de Gözleme sătești",
+            "tip": "În mediul rural, căutați femeile care fac Gözleme proaspăt (plăcintă umplută)."
+          },
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "Dacă nu ați luat micul dejun, acesta este și un loc minunat pentru un prânz târziu și copios."
+          },
+          {
+            "name": "Restaurante pe İskele Caddesi",
+            "tip": "Există multe restaurante cu vedere la lac de-a lungul drumului spre debarcader."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Gözleme stands",
+            "tip": "In the countryside, look for women making fresh Gözleme (stuffed flatbread)."
+          },
+          {
+            "name": "Van Kahvaltı Sarayı",
+            "tip": "If you missed breakfast, this is also a great spot for a late, hearty lunch."
+          },
+          {
+            "name": "İskele Caddesi Restaurants",
+            "tip": "Along the road to the ferry pier, there are many restaurants with lake views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Varagavank-Kloster",
+            "tip": "Der Klosterkomplex strahlt eine tiefe Ruhe und spirituelle Atmosphäre aus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Westufer des Van-Sees",
+            "tip": "Perfekt für einen ruhigen Moment, um den Sonnenuntergang über dem See zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gipfel des Berges Artos (aus der Ferne)",
+            "tip": "Die Aussicht auf den Berg von der Küste aus ist majestätisch und beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Varagavank kolostor",
+            "tip": "A kolostorkomplexum mély nyugalmat és spirituális légkört áraszt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Van-tó nyugati partja",
+            "tip": "Tökéletes egy csendes pillanatra, hogy megnézze a naplementét a tó felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Artos-hegy csúcsa (távolról)",
+            "tip": "A hegy látványa a partról fenséges és megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Varagavank",
+            "tip": "Complexul mănăstirii emană o liniște profundă și o atmosferă spirituală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul vestic al Lacului Van",
+            "tip": "Perfect pentru un moment de liniște privind apusul peste lac.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Muntelui Artos (de la distanță)",
+            "tip": "Priveliștea muntelui de pe coastă este maiestuoasă și liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Varagavank Monastery",
+            "tip": "The monastery complex exudes a deep tranquility and spiritual atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Western shore of Lake Van",
+            "tip": "Perfect for a quiet moment watching the sunset over the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peak of Mount Artos (from a distance)",
+            "tip": "The view of the mountain from the coast is majestic and calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Honigverkäufer",
+            "tip": "Entlang der Landstraßen finden Sie oft Stände, die köstlichen lokalen Honig verkaufen."
+          },
+          {
+            "name": "Kunsthandwerksläden in der Innenstadt",
+            "tip": "Suchen Sie nach Silberschmuck und Savat-Arbeiten, einer lokalen Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi mézárusok",
+            "tip": "A vidéki utak mentén gyakran találhat standokat, ahol finom helyi mézet árulnak."
+          },
+          {
+            "name": "Kézműves boltok a belvárosban",
+            "tip": "Keressen ezüst ékszereket és Savat-munkákat, egy helyi specialitást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători locali de miere",
+            "tip": "De-a lungul drumurilor de țară, veți găsi adesea standuri care vând miere locală delicioasă."
+          },
+          {
+            "name": "Magazine de artizanat din centrul orașului",
+            "tip": "Căutați bijuterii din argint și lucrări Savat, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey sellers",
+            "tip": "Along the country roads, you'll often find stalls selling delicious local honey."
+          },
+          {
+            "name": "Craft shops in the city center",
+            "tip": "Look for silver jewelry and Savat work, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie zu längeren Fahrten aufbrechen.",
+          "Nehmen Sie ein Reparaturset für den Fall einer Reifenpanne mit.",
+          "Die Straßen können außerhalb der Stadt uneben sein, fahren Sie also vorsichtig.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárját, mielőtt hosszabb útra indulna.",
+          "Vigyen magával javítókészletet defekt esetére.",
+          "Az utak a városon kívül egyenetlenek lehetnek, ezért óvatosan vezessen.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni în călătorii mai lungi.",
+          "Luați un kit de reparații în caz de pană.",
+          "Drumurile pot fi denivelate în afara orașului, așa că mergeți cu prudență.",
+          "O cască este puternic recomandată."
+        ],
+        "en": [
+          "Check your bike before heading out on longer rides.",
+          "Carry a repair kit in case of a flat tire.",
+          "Roads can be uneven outside the city, so ride with caution.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 154.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zur Çavuştepe-Burg",
+            "hu": "Utazás a Çavuştepe várhoz",
+            "ro": "Drumul spre Cetatea Çavuştepe",
+            "en": "Drive to Çavuştepe Castle"
+          },
+          "coords": [
+            43.256,
+            38.397
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie früh, um die urartäische Festung und ihre Keilschrifttafeln in Ruhe zu erkunden.",
+            "hu": "Induljon korán, hogy nyugodtan felfedezhesse az urartui erődöt és ékírásos tábláit.",
+            "ro": "Porniți devreme pentru a explora în liniște fortăreața urartiană și inscripțiile sale cuneiforme.",
+            "en": "Start early to explore the Urartian fortress and its cuneiform inscriptions in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Hoşap",
+            "hu": "Hoşap vára",
+            "ro": "Cetatea Hoșap",
+            "en": "Hoşap Castle"
+          },
+          "coords": [
+            43.123,
+            38.07
+          ],
+          "category": "castles",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 67,
+          "hop_from_prev_km": 31.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende mittelalterliche Festung und ihr verziertes Eingangstor.",
+            "hu": "Csodálja meg a lenyűgöző középkori erődöt és díszes bejárati kapuját.",
+            "ro": "Admirați impresionanta fortăreață medievală și poarta sa de intrare ornamentată.",
+            "en": "Admire the impressive medieval fortress and its ornate entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Akdamar-Fähranleger & Mittagessen",
+            "hu": "Utazás az Akdamar kompkikötőhöz és ebéd",
+            "ro": "Drumul spre debarcaderul Akdamar și prânz",
+            "en": "Drive to Akdamar Ferry Pier & Lunch"
+          },
+          "coords": [
+            42.998,
+            38.209
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 83,
+          "hop_from_prev_km": 38.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Essen Sie in einem der Restaurants am Pier zu Mittag, bevor Sie die Fähre nehmen.",
+            "hu": "Ebédeljen a kikötő egyik éttermében, mielőtt kompra szállna.",
+            "ro": "Luați prânzul la unul dintre restaurantele de la debarcader înainte de a lua feribotul.",
+            "en": "Have lunch at one of the pier-side restaurants before taking the ferry."
+          }
+        },
+        {
+          "name": {
+            "de": "Fährfahrt zur Insel Akdamar",
+            "hu": "Kompút az Akdamar-szigetre",
+            "ro": "Călătorie cu feribotul spre Insula Akdamar",
+            "en": "Ferry trip to Akdamar Island"
+          },
+          "coords": [
+            43.023,
+            38.199
+          ],
+          "category": "transport",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf den See und den Berg Artos während der Überfahrt.",
+            "hu": "Élvezze a tóra és az Artos-hegyre nyíló kilátást az átkelés során.",
+            "ro": "Bucurați-vă de priveliștea lacului și a Muntelui Artos în timpul traversării.",
+            "en": "Enjoy the views of the lake and Mount Artos during the crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Kreuzes, Akdamar",
+            "hu": "Szent Kereszt-templom, Akdamar",
+            "ro": "Biserica Sfânta Cruce, Akdamar",
+            "en": "Church of the Holy Cross, Akdamar"
+          },
+          "coords": [
+            43.025,
+            38.201
+          ],
+          "category": "churches",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die unglaublichen biblischen Reliefs an den Außenwänden zu studieren.",
+            "hu": "Szánjon időt a külső falakon található hihetetlen bibliai domborművek tanulmányozására.",
+            "ro": "Luați-vă timp pentru a studia incredibilele basoreliefuri biblice de pe pereții exteriori.",
+            "en": "Take your time studying the incredible biblical reliefs on the exterior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf der Insel",
+            "hu": "Séta a szigeten",
+            "ro": "Plimbare pe insulă",
+            "en": "Island Walk"
+          },
+          "coords": [
+            43.027,
+            38.205
+          ],
+          "category": "viewpoints",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie auf den Hügel hinter der Kirche für eine noch bessere Aussicht auf den See.",
+            "hu": "Menjen fel a templom mögötti dombra a még jobb kilátásért a tóra.",
+            "ro": "Urcați pe dealul din spatele bisericii pentru o priveliște și mai bună asupra lacului.",
+            "en": "Walk up the hill behind the church for an even better view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Van",
+            "hu": "Visszaút Vanba",
+            "ro": "Întoarcere la Van",
+            "en": "Return Drive to Van"
+          },
+          "coords": [
+            43.3764,
+            38.4946
+          ],
+          "category": "transport",
+          "arrive_at": "17:15",
+          "stay_min": 93,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 83.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die Abenddämmerung über dem See, während Sie in die Stadt zurückkehren.",
+            "hu": "Élvezze az esti szürkületet a tó felett, miközben visszatér a városba.",
+            "ro": "Bucurați-vă de amurgul peste lac în timp ce vă întoarceți în oraș.",
+            "en": "Enjoy the twilight over the lake as you head back to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist eine Reise durch die Jahrtausende. Beginnen Sie früh am Morgen bei der urartäischen Festung Çavuştepe und fahren Sie dann weiter zur imposanten mittelalterlichen Burg Hoşap. Diese beiden Stätten bilden Ihren ersten historischen Cluster, der die antike und mittelalterliche Macht der Region zeigt.\nAm Mittag fahren Sie nach Süden zum Ufer des Van-Sees. Parken Sie am Fähranleger nach Akdamar und genießen Sie ein Mittagessen mit Seeblick. Dies ist Ihr zweiter Cluster. Nach dem Essen bringt Sie eine kurze Fährfahrt zur Insel Akdamar, wo Sie den Rest des Nachmittags verbringen.\nDer Nachmittag ist ganz der Insel Akdamar gewidmet. Erkunden Sie die atemberaubende Kirche des Heiligen Kreuzes mit ihren berühmten Steinreliefs. Machen Sie danach einen Spaziergang auf der Insel, um die Ruhe und die 360-Grad-Aussicht auf den türkisfarbenen See zu genießen.\nAm späten Nachmittag nehmen Sie die Fähre zurück zum Festland und beginnen die Rückfahrt nach Van. Die Fahrt entlang des Sees in der Abenddämmerung ist ein wunderschöner Abschluss eines Tages voller historischer Wunder und natürlicher Schönheit.",
+        "hu": "Ez az autós nap egy utazás az évezredeken át. Kezdje kora reggel az urartui Çavuştepe erődnél, majd vezessen tovább a lenyűgöző középkori Hoşap várához. Ez a két helyszín alkotja az első történelmi klasztert, bemutatva a régió ókori és középkori hatalmát.\nDélben vezessen délre a Van-tó partjára. Parkoljon le az Akdamar kompkikötőnél, és ebédeljen tóparti kilátással. Ez a második klaszter. Ebéd után egy rövid kompút visz az Akdamar-szigetre, ahol a délután hátralévő részét tölti.\nA délután teljes egészében az Akdamar-szigeté. Fedezze fel a lélegzetelállító Szent Kereszt-templomot híres kődomborműveivel. Ezután sétáljon egyet a szigeten, hogy élvezze a nyugalmat és a 360 fokos kilátást a türkizkék tóra.\nKéső délután szálljon vissza a kompra a szárazföldre, és induljon vissza Vanba. Az esti szürkületben a tó mentén való autózás gyönyörű lezárása a történelmi csodákkal és természeti szépséggel teli napnak.",
+        "ro": "Această zi cu mașina este o călătorie prin milenii. Începeți dimineața devreme la cetatea urartiană Çavuştepe, apoi continuați spre impunătoarea cetate medievală Hoșap. Aceste două situri formează primul dvs. cluster istoric, prezentând puterea antică și medievală a regiunii.\nLa prânz, conduceți spre sud, pe malul lacului Van. Parcați la debarcaderul pentru Akdamar și bucurați-vă de un prânz cu vedere la lac. Acesta este al doilea cluster. După masă, o scurtă călătorie cu feribotul vă va duce pe Insula Akdamar, unde veți petrece restul după-amiezii.\nDupă-amiaza este dedicată în întregime Insulei Akdamar. Explorați uimitoarea Biserică a Sfintei Cruci, cu faimoasele sale basoreliefuri în piatră. Apoi, faceți o plimbare pe insulă pentru a vă bucura de liniște și de priveliștile de 360 de grade ale lacului turcoaz.\nSpre seară, luați feribotul înapoi pe continent și începeți drumul de întoarcere spre Van. Călătoria de-a lungul lacului în amurg este o concluzie frumoasă a unei zile pline de minuni istorice și frumusețe naturală.",
+        "en": "This car day is a journey through millennia. Start early in the morning at the Urartian fortress of Çavuştepe, then drive on to the imposing medieval Hoşap Castle. These two sites form your first historical cluster, showcasing the region's ancient and medieval power.\nAt midday, drive south to the shore of Lake Van. Park at the ferry pier for Akdamar and enjoy a lakeside lunch. This is your second cluster. After your meal, a short ferry ride will take you to Akdamar Island, where you'll spend the rest of the afternoon.\nThe afternoon is entirely dedicated to Akdamar Island. Explore the stunning Church of the Holy Cross with its famous stone reliefs. Afterwards, take a walk around the island to enjoy the tranquility and the 360-degree views of the turquoise lake.\nIn the late afternoon, take the ferry back to the mainland and begin the drive back to Van. The drive along the lake at twilight is a beautiful conclusion to a day filled with historical wonders and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurants am Akdamar Pier",
+            "tip": "Probieren Sie den gegrillten Fisch, während Sie auf die Fähre warten."
+          },
+          {
+            "name": "Lokanta in Gürpınar",
+            "tip": "Ein guter Zwischenstopp für ein authentisches Mittagessen zwischen den Burgen Çavuştepe und Hoşap."
+          },
+          {
+            "name": "Teegärten in Van",
+            "tip": "Nach Ihrer Rückkehr können Sie sich bei einem Tee entspannen und die Erlebnisse des Tages Revue passieren lassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Éttermek az Akdamar kikötőnél",
+            "tip": "Kóstolja meg a grillezett halat, amíg a kompra vár."
+          },
+          {
+            "name": "Lokanta Gürpınarban",
+            "tip": "Jó megálló egy autentikus ebédre a Çavuştepe és Hoşap várak között."
+          },
+          {
+            "name": "Teakertek Vanban",
+            "tip": "Visszaérkezése után pihenjen meg egy tea mellett, és idézze fel a nap élményeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante la debarcaderul Akdamar",
+            "tip": "Încercați peștele la grătar în timp ce așteptați feribotul."
+          },
+          {
+            "name": "Lokanta în Gürpınar",
+            "tip": "O oprire bună pentru un prânz autentic între cetățile Çavuştepe și Hoșap."
+          },
+          {
+            "name": "Grădini de ceai în Van",
+            "tip": "După întoarcere, relaxați-vă cu un ceai și rememorați experiențele zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurants at Akdamar Pier",
+            "tip": "Try the grilled fish while waiting for the ferry."
+          },
+          {
+            "name": "Lokanta in Gürpınar",
+            "tip": "A good stop for an authentic lunch between Çavuştepe and Hoşap castles."
+          },
+          {
+            "name": "Tea Gardens in Van",
+            "tip": "Upon your return, relax with a tea and reflect on the day's journey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Akdamar",
+            "tip": "Abseits der Kirche ist die Insel ein Ort der Stille und des Friedens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von der Burg Hoşap",
+            "tip": "Der Blick über das Tal ist atemberaubend und ruhig.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fährfahrt auf dem Van-See",
+            "tip": "Das Gleiten über das Wasser ist eine sehr beruhigende Erfahrung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akdamar-sziget",
+            "tip": "A templomtól távol a sziget a csend és a béke helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Hoşap várból",
+            "tip": "A völgyre nyíló kilátás lélegzetelállító és nyugodt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kompút a Van-tavon",
+            "tip": "A vízen siklás nagyon megnyugtató élmény.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Akdamar",
+            "tip": "Departe de biserică, insula este un loc de liniște și pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Cetatea Hoșap",
+            "tip": "Vederea asupra văii este uluitoare și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătoria cu feribotul pe Lacul Van",
+            "tip": "Plutirea pe apă este o experiență foarte calmantă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Akdamar Island",
+            "tip": "Away from the church, the island is a place of silence and peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Hoşap Castle",
+            "tip": "The view over the valley is breathtaking and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ferry ride on Lake Van",
+            "tip": "Gliding over the water is a very calming experience.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen auf der Insel Akdamar",
+            "tip": "Kaufen Sie Miniaturen der Kirche und Bücher über ihre Geschichte."
+          },
+          {
+            "name": "Lokale Produkte in Gevaş",
+            "tip": "Die Stadt in der Nähe des Fähranlegers ist bekannt für ihre Walnüsse und Aprikosen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt az Akdamar-szigeten",
+            "tip": "Vásároljon miniatűröket a templomról és könyveket a történetéről."
+          },
+          {
+            "name": "Helyi termékek Gevaşban",
+            "tip": "A kompkikötő közelében lévő város híres diójáról és sárgabarackjáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri pe Insula Akdamar",
+            "tip": "Cumpărați miniaturi ale bisericii și cărți despre istoria ei."
+          },
+          {
+            "name": "Produse locale în Gevaș",
+            "tip": "Orașul de lângă debarcader este renumit pentru nuci și caise."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop on Akdamar Island",
+            "tip": "Buy miniatures of the church and books about its history."
+          },
+          {
+            "name": "Local produce in Gevaş",
+            "tip": "The town near the ferry pier is known for its walnuts and apricots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt verlassen.",
+          "Überprüfen Sie die Abfahrtszeiten der Fähre nach Akdamar im Voraus, da diese saisonal variieren können.",
+          "Nehmen Sie Bargeld mit, da nicht alle ländlichen Orte Kreditkarten akzeptieren.",
+          "Seien Sie auf kurvige und manchmal enge Straßen in den Bergregionen vorbereitet."
+        ],
+        "hu": [
+          "Töltse tele az autóját, mielőtt elhagyja a várost.",
+          "Ellenőrizze előre az Akdamar kompok indulási idejét, mivel azok szezonálisan változhatnak.",
+          "Vigyen magával készpénzt, mivel nem minden vidéki helyen fogadnak el hitelkártyát.",
+          "Készüljön fel a kanyargós és néha szűk utakra a hegyvidéki régiókban."
+        ],
+        "ro": [
+          "Faceți plinul mașinii înainte de a părăsi orașul.",
+          "Verificați în avans orele de plecare ale feribotului spre Akdamar, deoarece acestea pot varia în funcție de sezon.",
+          "Luați numerar cu dumneavoastră, deoarece nu toate localitățile rurale acceptă carduri de credit.",
+          "Fiți pregătiți pentru drumuri sinuoase și uneori înguste în regiunile montane."
+        ],
+        "en": [
+          "Fill up your car with gas before leaving the city.",
+          "Check the ferry departure times for Akdamar in advance as they can vary seasonally.",
+          "Bring cash, as not all rural places may accept credit cards.",
+          "Be prepared for winding and sometimes narrow roads in the mountain regions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 21.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zur Van-Burg",
+            "hu": "Utazás a Van várhoz",
+            "ro": "Călătorie spre Cetatea Van",
+            "en": "Trip to Van Fortress"
+          },
+          "coords": [
+            43.336,
+            38.503
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Dolmuş (Sammeltaxi) vom Stadtzentrum. Die Fahrt ist kurz und günstig.",
+            "hu": "Menjen dolmuş-sal (iránytaxi) a városközpontból. Az út rövid és olcsó.",
+            "ro": "Luați un dolmuș (microbuz) din centrul orașului. Călătoria este scurtă și ieftină.",
+            "en": "Take a dolmuş (shared taxi) from the city center. The ride is short and cheap."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zu den alten Van-Häusern",
+            "hu": "Séta a régi Van házakhoz",
+            "ro": "Plimbare la vechile case din Van",
+            "en": "Walk to the Old Van Houses"
+          },
+          "coords": [
+            43.339,
+            38.505
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der Altstadt am Fuße der Burg, um ein Gefühl für das Leben vor dem 20. Jahrhundert zu bekommen.",
+            "hu": "Fedezze fel az óváros romjait a vár lábánál, hogy képet kapjon a 20. század előtti életről.",
+            "ro": "Explorați ruinele orașului vechi de la poalele cetății pentru a vă face o idee despre viața de dinainte de secolul al XX-lea.",
+            "en": "Explore the ruins of the old city at the base of the fortress to get a feel for pre-20th-century life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Van-Museum & Mittagessen",
+            "hu": "Utazás a Van Múzeumhoz és ebéd",
+            "ro": "Călătorie la Muzeul Van și prânz",
+            "en": "Trip to Van Museum & Lunch"
+          },
+          "coords": [
+            43.395,
+            38.482
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und essen Sie in der Nähe des Museums zu Mittag.",
+            "hu": "Menjen busszal vissza a központba, és ebédeljen a múzeum közelében.",
+            "ro": "Luați un autobuz înapoi în centru și luați prânzul lângă muzeu.",
+            "en": "Take a bus back to the center and have lunch near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Van-Katzen",
+            "hu": "Van macskák háza",
+            "ro": "Casa pisicilor Van",
+            "en": "Van Cat House"
+          },
+          "coords": [
+            43.388,
+            38.475
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, ein Muss für Tierliebhaber.",
+            "hu": "Rövid séta a múzeumtól, kötelező állatbarátoknak.",
+            "ro": "La o scurtă plimbare de muzeu, o vizită obligatorie pentru iubitorii de animale.",
+            "en": "A short walk from the museum, a must-visit for animal lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Yedi Kilise (Varagavank)",
+            "hu": "Buszút a Yedi Kilise-hez (Varagavank)",
+            "ro": "Călătorie cu autobuzul la Yedi Kilise (Varagavank)",
+            "en": "Bus Trip to Yedi Kilise (Varagavank)"
+          },
+          "coords": [
+            43.431,
+            38.568
+          ],
+          "category": "churches",
+          "arrive_at": "15:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 11.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Erkundigen Sie sich nach den Buslinien, die in Richtung des Dorfes Bakraçlı fahren, wo sich das Kloster befindet.",
+            "hu": "Érdeklődjön a Bakraçlı falu felé közlekedő buszjáratokról, ahol a kolostor található.",
+            "ro": "Întrebați despre rutele de autobuz care merg spre satul Bakraçlı, unde se află mănăstirea.",
+            "en": "Ask about the bus routes heading towards Bakraçlı village, where the monastery is located."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Stadtzentrum",
+            "hu": "Visszatérés a városközpontba",
+            "ro": "Întoarcere în centrul orașului",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            43.3764,
+            38.4946
+          ],
+          "category": "transport",
+          "arrive_at": "16:31",
+          "stay_min": 39,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Planen Sie Ihre Rückfahrt, da die Busse am späten Nachmittag seltener fahren könnten.",
+            "hu": "Tervezze meg a visszautat, mivel a buszok késő délután ritkábban közlekedhetnek.",
+            "ro": "Planificați-vă călătoria de întoarcere, deoarece autobuzele pot circula mai rar după-amiaza târziu.",
+            "en": "Plan your return trip, as buses may be less frequent in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einer Fahrt zur majestätischen Van-Burg. Ein Dolmuş bringt Sie schnell zum ersten Cluster des Tages. Erkunden Sie die Festung und die Ruinen der Altstadt zu Fuß, um in die Geschichte einzutauchen.\nAm Vormittag fahren Sie mit dem Bus zurück ins Stadtzentrum, um Ihr zweites Cluster zu erkunden. Besuchen Sie das umfassende Van-Museum, um mehr über die urartäische Zivilisation zu erfahren, und genießen Sie ein Mittagessen in der Nähe, bevor Sie einen kurzen Spaziergang zum Haus der Van-Katzen machen.\nAm Nachmittag steht ein Ausflug in die ländliche Umgebung auf dem Programm. Nehmen Sie einen Bus zum historischen armenischen Kloster Varagavank (Yedi Kilise). Diese Fahrt bietet einen Kontrast zur Stadt und zeigt die landschaftliche Schönheit der Region.\nKehren Sie am späten Nachmittag ins Stadtzentrum zurück. Verbringen Sie den Rest des Tages damit, durch die Basare zu schlendern oder in einem Café zu entspannen und die lebhafte Atmosphäre der Stadt auf sich wirken zu lassen.",
+        "hu": "A tömegközlekedéssel töltött nap egy utazással kezdődik a fenséges Van várhoz. Egy dolmuş gyorsan elviszi a nap első klaszteréhez. Fedezze fel gyalog az erődöt és az óváros romjait, hogy elmerüljön a történelemben.\nDélelőtt busszal utazzon vissza a városközpontba, hogy felfedezze a második klasztert. Látogasson el az átfogó Van Múzeumba, hogy többet tudjon meg az urartui civilizációról, ebédeljen a közelben, majd tegyen egy rövid sétát a Van macskák házához.\nDélután egy kirándulás következik a vidéki környezetbe. Menjen busszal a történelmi örmény Varagavank (Yedi Kilise) kolostorhoz. Ez az utazás kontrasztot nyújt a várossal, és bemutatja a régió festői szépségét.\nKéső délután térjen vissza a városközpontba. Töltse a nap hátralévő részét a bazárokban sétálva vagy egy kávézóban pihenve, magába szívva a város élénk hangulatát.",
+        "ro": "Ziua dvs. cu transportul public începe cu o călătorie la majestuoasa Cetate Van. Un dolmuș vă va duce rapid la primul cluster al zilei. Explorați cetatea și ruinele orașului vechi pe jos pentru o imersiune în istorie.\nÎn cursul dimineții, luați un autobuz înapoi în centrul orașului pentru al doilea cluster. Vizitați cuprinzătorul Muzeu Van pentru a afla despre civilizația urartiană și bucurați-vă de un prânz în apropiere, înainte de o scurtă plimbare până la Casa Pisicilor Van.\nDupă-amiaza este rezervată unei excursii în mediul rural. Luați un autobuz spre mănăstirea istorică armeană Varagavank (Yedi Kilise). Această călătorie oferă un contrast cu orașul și prezintă frumusețea pitorească a regiunii.\nÎntoarceți-vă în centrul orașului după-amiaza târziu. Petreceți restul zilei plimbându-vă prin bazaruri sau relaxându-vă la o cafenea, absorbind atmosfera vibrantă a orașului.",
+        "en": "Your day on public transport begins with a trip to the majestic Van Fortress. A dolmuş will quickly take you to the first cluster of the day. Explore the fortress and the ruins of the old city on foot for a historical immersion.\nIn the mid-morning, take a bus back to the city center for your second cluster. Visit the comprehensive Van Museum to learn about the Urartian civilization, and enjoy lunch nearby before a short walk to the Van Cat House.\nThe afternoon is for a trip to the rural surroundings. Take a bus to the historic Armenian monastery of Varagavank (Yedi Kilise). This journey provides a contrast to the city and showcases the scenic beauty of the region.\nReturn to the city center in the late afternoon. Spend the rest of your day strolling through the bazaars or relaxing in a café, soaking up the city's vibrant atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Simit-Verkäufer",
+            "tip": "Ein schneller und leckerer Snack für unterwegs. Perfekt für einen Tag mit öffentlichen Verkehrsmitteln."
+          },
+          {
+            "name": "Lokantas in der Innenstadt",
+            "tip": "Bieten eine große Auswahl an erschwinglichen und köstlichen türkischen Gerichten."
+          },
+          {
+            "name": "Sütçü Fevzi",
+            "tip": "Ein weiterer großartiger Ort für das Van-Frühstück, falls Sie es morgens verpasst haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simit árusok",
+            "tip": "Gyors és finom harapnivaló útközben. Tökéletes egy tömegközlekedéssel töltött naphoz."
+          },
+          {
+            "name": "Lokanták a belvárosban",
+            "tip": "Megfizethető és ízletes török ételek széles választékát kínálják."
+          },
+          {
+            "name": "Sütçü Fevzi",
+            "tip": "Egy másik nagyszerű hely a Van reggelihez, ha reggel lemaradt róla."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători de Simit",
+            "tip": "O gustare rapidă și delicioasă din mers. Perfect pentru o zi cu transportul public."
+          },
+          {
+            "name": "Lokantas în centrul orașului",
+            "tip": "Oferă o mare varietate de feluri de mâncare turcești la prețuri accesibile și delicioase."
+          },
+          {
+            "name": "Sütçü Fevzi",
+            "tip": "Un alt loc minunat pentru micul dejun din Van dacă l-ați ratat dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Simit vendors",
+            "tip": "A quick and delicious snack on the go. Perfect for a day on public transport."
+          },
+          {
+            "name": "Downtown Lokantas",
+            "tip": "Offer a wide variety of affordable and delicious Turkish dishes."
+          },
+          {
+            "name": "Sütçü Fevzi",
+            "tip": "Another great spot for the Van breakfast if you missed it in the morning."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hintere Mauern der Van-Burg",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptaussichtspunkte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Varagavank-Klosterhof",
+            "tip": "Ein Ort der Kontemplation und Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Teegarten in einer Seitenstraße",
+            "tip": "Entfliehen Sie dem Trubel der Hauptstraßen für eine ruhige Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Van várának hátsó falai",
+            "tip": "Keressen egy csendes helyet a fő kilátópontoktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Varagavank kolostor udvara",
+            "tip": "Az elmélkedés és a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy teakert egy mellékutcában",
+            "tip": "Meneküljön el a főutcák nyüzsgésétől egy csendes szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile din spate ale Cetății Van",
+            "tip": "Găsiți un loc liniștit, departe de principalele puncte de belvedere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Mănăstirii Varagavank",
+            "tip": "Un loc de contemplare și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O grădină de ceai pe o stradă laterală",
+            "tip": "Evadați din agitația străzilor principale pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rear walls of Van Fortress",
+            "tip": "Find a quiet spot away from the main viewpoints.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Varagavank Monastery courtyard",
+            "tip": "A place for contemplation and silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A tea garden on a side street",
+            "tip": "Escape the hustle of the main streets for a quiet break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käsemarkt",
+            "tip": "Ein Paradies für Käseliebhaber, besonders für den lokalen Otlu Peynir (Kräuterkäse)."
+          },
+          {
+            "name": "Teppichhändler im Basar",
+            "tip": "Stöbern Sie nach authentischen, handgeknüpften anatolischen Kelims und Teppichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtpiac",
+            "tip": "A sajtkedvelők paradicsoma, különösen a helyi Otlu Peynir (fűszeres sajt) miatt."
+          },
+          {
+            "name": "Szőnyegkereskedők a bazárban",
+            "tip": "Böngésszen az autentikus, kézzel csomózott anatóliai kilimek és szőnyegek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de brânzeturi",
+            "tip": "Un paradis pentru iubitorii de brânză, în special pentru Otlu Peynir (brânză cu ierburi) locală."
+          },
+          {
+            "name": "Comercianți de covoare în bazar",
+            "tip": "Răsfoiți printre kilimuri și covoare anatoliene autentice, înnodate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Market",
+            "tip": "A paradise for cheese lovers, especially for the local Otlu Peynir (herbed cheese)."
+          },
+          {
+            "name": "Carpet dealers in the bazaar",
+            "tip": "Browse for authentic, hand-knotted Anatolian kilims and carpets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Kent Kart für eine einfache Nutzung der öffentlichen Busse.",
+          "Fragen Sie die Einheimischen oder den Fahrer nach den richtigen Haltestellen; sie sind oft sehr hilfsbereit.",
+          "Dolmuş-Routen sind nicht immer festgelegt; sagen Sie dem Fahrer, wohin Sie möchten.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon Kent Kart-ot a tömegközlekedési buszok egyszerű használatához.",
+          "Kérdezze meg a helyieket vagy a sofőrt a megfelelő megállókról; gyakran nagyon segítőkészek.",
+          "A dolmuş útvonalak nem mindig fixek; mondja meg a sofőrnek, hova szeretne menni.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un Kent Kart pentru utilizarea ușoară a autobuzelor publice.",
+          "Întrebați localnicii sau șoferul despre stațiile corecte; aceștia sunt adesea foarte de ajutor.",
+          "Rutele de dolmuș nu sunt întotdeauna fixe; spuneți șoferului unde doriți să ajungeți.",
+          "Rețineți că autobuzele circulă mai rar seara."
+        ],
+        "en": [
+          "Purchase a Kent Kart for easy use of public buses.",
+          "Ask locals or the driver for the correct stops; they are often very helpful.",
+          "Dolmuş routes are not always fixed; tell the driver where you want to go.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

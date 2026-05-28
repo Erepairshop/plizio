@@ -1,0 +1,1250 @@
+{
+  "city_id": "belgium-mons-cities-v2",
+  "anchor": {
+    "name": "Mons",
+    "coords": [
+      3.9567,
+      50.4542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand-Place",
+            "hu": "Fő tér (Grand-Place)",
+            "ro": "Grand-Place",
+            "en": "Grand-Place"
+          },
+          "coords": [
+            3.9525,
+            50.4545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Berühren Sie den Kopf des Affen am Rathaus für Glück.",
+            "hu": "Érintse meg a városházán lévő majom fejét, szerencsét hoz!",
+            "ro": "Atingeți capul maimuței de la primărie pentru noroc.",
+            "en": "Touch the head of the monkey at the Town Hall for good luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            3.952,
+            50.4548
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Fassade und suchen Sie nach dem Affen des Grand Garde.",
+            "hu": "Csodálja meg a gótikus homlokzatot, és keresse meg az őrség majmát.",
+            "ro": "Admirați fațada gotică și căutați maimuța Grand Garde.",
+            "en": "Admire the Gothic facade and look for the Monkey of the Grand Garde."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Sankt Waltrudis",
+            "hu": "Szent Waltrudis társaskáptalani templom",
+            "ro": "Colegiata Sfânta Waudru",
+            "en": "Collegiate Church of Saint Waltrudis"
+          },
+          "coords": [
+            3.95,
+            50.4555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den Goldenen Wagen (Car d'Or) und die Statuen von Jacques du Broeucq.",
+            "hu": "Nézze meg az Arany Kocsit (Car d'Or) és Jacques du Broeucq szobrait.",
+            "ro": "Vedeți Carul de Aur (Car d'Or) și statuile lui Jacques du Broeucq.",
+            "en": "See the Golden Coach (Car d'Or) and the statues by Jacques du Broeucq."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Mons",
+            "hu": "Mons-i harangtorony (Beffroi)",
+            "ro": "Beffroi din Mons",
+            "en": "Belfry of Mons (Beffroi)"
+          },
+          "coords": [
+            3.9505,
+            50.4535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie für die beste Aussicht auf die Stadt hinauf. Der einzige barocke Belfried in Belgien!",
+            "hu": "Másszon fel a város legjobb kilátásáért. Belgium egyetlen barokk harangtornya!",
+            "ro": "Urcați pentru cea mai bună priveliște a orașului. Singurul beffroi baroc din Belgia!",
+            "en": "Climb up for the best view of the city. The only baroque belfry in Belgium!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark (Parc du Château)",
+            "ro": "Parcul Castelului (Parc du Château)",
+            "en": "Castle Park (Parc du Château)"
+          },
+          "coords": [
+            3.951,
+            50.453
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Mittagspicknick mit Blick auf den Belfried.",
+            "hu": "Tökéletes hely egy ebédpiknikhez a harangtoronyra néző kilátással.",
+            "ro": "Un loc perfect pentru un picnic la prânz cu vedere la beffroi.",
+            "en": "A perfect spot for a lunch picnic with a view of the belfry."
+          }
+        },
+        {
+          "name": {
+            "de": "BAM (Beaux-Arts Mons)",
+            "hu": "BAM (Szépművészeti Múzeum)",
+            "ro": "BAM (Muzeul de Arte Frumoase)",
+            "en": "BAM (Fine Arts Museum)"
+          },
+          "coords": [
+            3.948,
+            50.4565
+          ],
+          "category": "museums",
+          "arrive_at": "13:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die aktuellen Ausstellungen, die oft von internationaler Bedeutung sind.",
+            "hu": "Ellenőrizze az aktuális, gyakran nemzetközi szintű kiállításokat.",
+            "ro": "Verificați expozițiile actuale, adesea de talie internațională.",
+            "en": "Check for the current exhibitions, which are often of international standing."
+          }
+        },
+        {
+          "name": {
+            "de": "Mundaneum",
+            "hu": "Mundaneum",
+            "ro": "Mundaneum",
+            "en": "Mundaneum"
+          },
+          "coords": [
+            3.947,
+            50.457
+          ],
+          "category": "museums",
+          "arrive_at": "15:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das „Papier-Google“, ein Archiv, das das Wissen der Welt sammeln sollte.",
+            "hu": "Fedezze fel a 'papír Google-t', egy archívumot, amely a világ tudását akarta összegyűjteni.",
+            "ro": "Descoperiți „Google-ul pe hârtie”, o arhivă menită să adune cunoștințele lumii.",
+            "en": "Discover the 'paper Google,' an archive designed to collect the world's knowledge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mons beginnt am belebten Grand-Place. Der Vormittag ist der Erkundung des historischen Herzens der Stadt gewidmet, von der gotischen Pracht des Rathauses und der Stiftskirche bis zum Panoramablick vom barocken Belfried. Gönnen Sie sich am Mittag eine Pause im ruhigen Parc du Château, dem perfekten Ort, um die morgendlichen Eindrücke zu verarbeiten. Der Nachmittag ist der Kunst und dem Wissen gewidmet, mit Besuchen im BAM, dem Zentrum für zeitgenössische Kunst, und dem faszinierenden Mundaneum, dem Vorläufer des Internets. Der Abend lädt dazu ein, durch die charmanten Straßen zu schlendern und eine lokale Spezialität zu genießen.",
+        "hu": "A mons-i nap a nyüzsgő Grand-Place-on kezdődik. A délelőtt a város történelmi szívének felfedezésével telik, a Városháza és a Szent Waltrudis-templom gótikus pompájától a barokk harangtoronyból nyíló panorámáig. Délben pihenjen egyet a csendes Kastélyparkban, amely tökéletes hely a délelőtti élmények feldolgozására. A délután a művészeté és a tudásé: látogasson el a BAM kortárs művészeti központba és a lenyűgöző Mundaneumba, az internet előfutárába. Este sétáljon a bájos utcákon, és kóstoljon meg egy helyi specialitást.",
+        "ro": "Ziua dumneavoastră în Mons începe în animata Grand-Place. Dimineața este dedicată explorării inimii istorice a orașului, de la splendoarea gotică a Primăriei și a Colegiatei până la priveliștile panoramice din beffroi-ul baroc. La prânz, faceți o pauză în liniștitul Parc du Château, locul perfect pentru a reflecta la explorările de dimineață. După-amiaza este dedicată artei și cunoașterii, cu vizite la BAM, centrul de artă contemporană, și la fascinantul Mundaneum, precursorul internetului. Seara vă invită să vă plimbați pe străzile fermecătoare și să savurați o specialitate locală.",
+        "en": "Your day in Mons begins at the bustling Grand-Place. The morning is for exploring the city's historic heart, from the Gothic splendor of the Town Hall and Collegiate Church to the panoramic views from the baroque Belfry. At midday, take a break in the tranquil Parc du Château, the perfect spot to reflect on the morning's explorations. The afternoon is dedicated to art and knowledge, with visits to BAM, the contemporary arts center, and the fascinating Mundaneum, the internet's precursor. The evening invites you to wander the charming streets and enjoy a local specialty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-frites",
+            "tip": "Probieren Sie Muscheln mit Pommes, ein belgischer Klassiker."
+          },
+          {
+            "name": "Le Tass'Express",
+            "tip": "Guter Kaffee und Gebäck, um den Tag zu beginnen, in der Nähe des Grand-Place."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-frites",
+            "tip": "Kóstolja meg a kagylót sült krumplival, egy belga klasszikust."
+          },
+          {
+            "name": "Le Tass'Express",
+            "tip": "Kiváló kávé és péksütemények a nap indításához a Fő tér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-frites",
+            "tip": "Încercați scoici cu cartofi prăjiți, un clasic belgian."
+          },
+          {
+            "name": "Le Tass'Express",
+            "tip": "Cafea bună și produse de patiserie pentru a începe ziua, lângă Grand-Place."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-frites",
+            "tip": "Try mussels with fries, a Belgian classic."
+          },
+          {
+            "name": "Le Tass'Express",
+            "tip": "Good coffee and pastries to start the day, near the Grand-Place."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Château",
+            "tip": "Ein friedlicher Ort zum Entspannen nach dem Aufstieg auf den Belfried.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin du Mayeur",
+            "tip": "Ein versteckter Garten hinter dem Rathaus, ideal für eine ruhige Minute.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark (Parc du Château)",
+            "tip": "Békés hely a pihenésre a harangtorony megmászása után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin du Mayeur",
+            "tip": "Rejtett kert a Városháza mögött, ideális egy csendes percre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un loc pașnic pentru a vă relaxa după urcarea în beffroi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin du Mayeur",
+            "tip": "O grădină ascunsă în spatele Primăriei, perfectă pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "A peaceful spot to relax after climbing the belfry.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin du Mayeur",
+            "tip": "A hidden garden behind the Town Hall, perfect for a quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Chaussée",
+            "tip": "Die Haupteinkaufsstraße der Stadt mit einer Mischung aus bekannten Marken und lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Chaussée",
+            "tip": "A város fő bevásárlóutcája, ismert márkák és helyi butikok keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Chaussée",
+            "tip": "Principala stradă comercială a orașului, cu un amestec de mărci cunoscute și buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Chaussée",
+            "tip": "The city's main shopping street with a mix of known brands and local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Einige Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Genießen Sie eine belgische Waffel von einem Straßenverkäufer als süßen Snack."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belváros macskaköves.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Néhány múzeum hétfőn zárva tart, ellenőrizze előre a nyitvatartási időt.",
+          "Élvezzen egy belga gofrit egy utcai árustól édes falatként."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este pavat cu piatră cubică.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Unele muzee sunt închise lunea, verificați programul în avans.",
+          "Savurați o vafă belgiană de la un vânzător ambulant ca o gustare dulce."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center is cobblestoned.",
+          "Most attractions in the city center are within easy walking distance.",
+          "Some museums are closed on Mondays, check opening hours in advance.",
+          "Enjoy a Belgian waffle from a street vendor for a sweet snack."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand-Place",
+            "hu": "Fő tér (Grand-Place)",
+            "ro": "Grand-Place",
+            "en": "Grand-Place"
+          },
+          "coords": [
+            3.9525,
+            50.4545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie über den Platz.",
+            "hu": "Zárja le a biciklit, és sétáljon körbe a téren.",
+            "ro": "Încuietoarea bicicletei și plimbați-vă prin piață.",
+            "en": "Lock up your bike and take a stroll around the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mons Memorial Museum",
+            "hu": "Mons-i Emlékmúzeum",
+            "ro": "Muzeul Memorial Mons",
+            "en": "Mons Memorial Museum"
+          },
+          "coords": [
+            3.958,
+            50.451
+          ],
+          "category": "museums",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, das die Rolle von Mons in den Weltkriegen beleuchtet.",
+            "hu": "Történelemrajongóknak kötelező, bemutatja Mons szerepét a világháborúkban.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie, care explorează rolul Mons-ului în războaiele mondiale.",
+            "en": "A must-visit for history buffs, exploring Mons's role in the World Wars."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Mons",
+            "hu": "Mons-i harangtorony (Beffroi)",
+            "ro": "Beffroi din Mons",
+            "en": "Belfry of Mons (Beffroi)"
+          },
+          "coords": [
+            3.9505,
+            50.4535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad unten und nehmen Sie die Herausforderung des Aufstiegs an.",
+            "hu": "Parkolja le a kerékpárt lent, és vállalja a mászás kihívását.",
+            "ro": "Parcați bicicleta la bază și acceptați provocarea urcării.",
+            "en": "Park your bike at the bottom and take on the challenge of the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Sankt Waltrudis",
+            "hu": "Szent Waltrudis társaskáptalani templom",
+            "ro": "Colegiata Sfânta Waudru",
+            "en": "Collegiate Church of Saint Waltrudis"
+          },
+          "coords": [
+            3.95,
+            50.4555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Radausflug vom Belfried, aber achten Sie auf das Kopfsteinpflaster.",
+            "hu": "Rövid bicikliút a harangtoronytól, de vigyázzon a macskakővel.",
+            "ro": "O scurtă plimbare cu bicicleta de la beffroi, dar atenție la piatra cubică.",
+            "en": "A quick bike ride from the belfry, but be mindful of the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "BAM (Beaux-Arts Mons)",
+            "hu": "BAM (Szépművészeti Múzeum)",
+            "ro": "BAM (Muzeul de Arte Frumoase)",
+            "en": "BAM (Fine Arts Museum)"
+          },
+          "coords": [
+            3.948,
+            50.4565
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Nachmittagspause von der Radtour, um in die Kunst einzutauchen.",
+            "hu": "Tökéletes egy délutáni pihenőre a biciklizésből, hogy elmerüljön a művészetben.",
+            "ro": "Perfect pentru o pauză de după-amiază de la ciclism pentru a vă cufunda în artă.",
+            "en": "Perfect for an afternoon break from cycling to immerse yourself in art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mundaneum",
+            "hu": "Mundaneum",
+            "ro": "Mundaneum",
+            "en": "Mundaneum"
+          },
+          "coords": [
+            3.947,
+            50.457
+          ],
+          "category": "museums",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur einen Katzensprung vom BAM entfernt, ein faszinierender intellektueller Abstecher.",
+            "hu": "Csak egy kőhajításnyira a BAM-tól, egy lenyűgöző intellektuális kitérő.",
+            "ro": "La o aruncătură de băț de BAM, un ocol intelectual fascinant.",
+            "en": "Just a stone's throw from BAM, a fascinating intellectual detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Losseau",
+            "hu": "Losseau-ház",
+            "ro": "Maison Losseau",
+            "en": "Maison Losseau"
+          },
+          "coords": [
+            3.959,
+            50.4525
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit diesem Juwel des Jugendstils.",
+            "hu": "Zárja a túrát ezzel a szecessziós gyöngyszemmel.",
+            "ro": "Încheiați-vă turul cu această bijuterie Art Nouveau.",
+            "en": "End your tour with this Art Nouveau jewel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am Grand-Place, bevor Sie zum Mons Memorial Museum radeln, um in die Geschichte einzutauchen. Der Vormittag gipfelt im Aufstieg auf den Belfried für eine atemberaubende Aussicht. Nach dem Mittagessen führt Sie Ihre Route zur Stiftskirche und dann zu den kulturellen Hotspots BAM und Mundaneum. Die Radtour ermöglicht es Ihnen, auch etwas weiter entfernte Orte wie die elegante Maison Losseau zu entdecken. Der Abend ist perfekt, um in einem Café im Stadtzentrum zu entspannen.",
+        "hu": "Kezdje a biciklis napot a Grand-Place-on, mielőtt a Mons-i Emlékmúzeumhoz tekerne egy kis történelmi elmélyülésért. A délelőtt a harangtorony megmászásával csúcsosodik ki, ahonnan lenyűgöző kilátás nyílik. Ebéd után az útvonal a társaskáptalani templomhoz, majd a BAM és a Mundaneum kulturális központjaihoz vezet. A kerékpáros túra lehetővé teszi a kissé távolabbi helyek, például az elegáns Losseau-ház felfedezését is. Az este tökéletes a pihenésre egy belvárosi kávézóban.",
+        "ro": "Începeți ziua pe bicicletă în Grand-Place înainte de a pedala spre Muzeul Memorial Mons pentru o incursiune în istorie. Dimineața culminează cu urcarea în beffroi pentru priveliști uluitoare. După prânz, traseul vă duce la Colegiată, apoi la punctele culturale de atracție BAM și Mundaneum. Turul cu bicicleta vă permite să explorați și locuri puțin mai îndepărtate, cum ar fi eleganta Maison Losseau. Seara este perfectă pentru a vă relaxa la o cafenea din centrul orașului.",
+        "en": "Start your cycling day at the Grand-Place before biking to the Mons Memorial Museum for a dive into history. The morning culminates with the climb up the Belfry for stunning views. After lunch, your route takes you to the Collegiate Church and then to the cultural hotspots of BAM and Mundaneum. The bike tour allows you to explore slightly further afield, discovering gems like the elegant Maison Losseau. The evening is perfect for relaxing at a city-center café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgisches Bier",
+            "tip": "Probieren Sie ein lokales Bier in einer der vielen Bars der Stadt."
+          },
+          {
+            "name": "La Cervoise",
+            "tip": "Eine Bar mit einer großen Auswahl an belgischen Bieren, ideal für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga sör",
+            "tip": "Kóstoljon meg egy helyi sört a város számos bárjának egyikében."
+          },
+          {
+            "name": "La Cervoise",
+            "tip": "Bár széles belga sörválasztékkal, ideális egy délutáni pihenőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere belgiană",
+            "tip": "Încercați o bere locală într-unul dintre numeroasele baruri ale orașului."
+          },
+          {
+            "name": "La Cervoise",
+            "tip": "Un bar cu o selecție excelentă de beri belgiene, perfect pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Beer",
+            "tip": "Try a local beer at one of the city's many bars."
+          },
+          {
+            "name": "La Cervoise",
+            "tip": "A bar with a great selection of Belgian beers, perfect for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Haine",
+            "tip": "Eine ruhige Radtour entlang des Flusses, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Waux-Hall",
+            "tip": "Ein größerer Park, etwas außerhalb des Zentrums, ideal für eine längere Radpause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haine folyó partja",
+            "tip": "Csendes biciklizés a folyó mentén, hogy elmeneküljön a város nyüzsgésétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waux-Hall park",
+            "tip": "Nagyobb park a központon kívül, ideális egy hosszabb biciklis pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Haine",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul râului pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Waux-Hall",
+            "tip": "Un parc mai mare, puțin în afara centrului, ideal pentru o pauză mai lungă de ciclism.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Haine",
+            "tip": "A peaceful bike ride along the river to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waux-Hall Park",
+            "tip": "A larger park just outside the center, great for a longer biking break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Mons gibt es mehrere Geschäfte, in denen Sie Zubehör oder Souvenirs mit Fahrradmotiven finden können."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Monsban több bolt is található, ahol kiegészítőket vagy kerékpáros témájú ajándéktárgyakat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Mons are mai multe magazine unde puteți găsi accesorii sau suveniruri tematice pentru ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Mons has several shops where you can find accessories or cycling-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem der örtlichen Verleiher, wenn Sie keins haben.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum, die für Fahrräder möglicherweise anders geregelt sind.",
+          "Das Gelände ist größtenteils flach, aber es gibt einige leichte Steigungen in der Nähe des Belfrieds.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi kölcsönzőben, ha nincs sajátja.",
+          "Figyeljen az egyirányú utcákra a belvárosban, amelyekre a kerékpárokra eltérő szabályok vonatkozhatnak.",
+          "A terep többnyire sík, de a harangtorony közelében vannak enyhe emelkedők.",
+          "Mindig zárja le biztonságosan a kerékpárt, amikor leparkolja."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale dacă nu aveți una.",
+          "Fiți atenți la străzile cu sens unic din centrul orașului, care pot avea reguli diferite pentru biciclete.",
+          "Terenul este în mare parte plat, dar există câteva pante ușoare lângă beffroi.",
+          "Încuietoarea întotdeauna bicicleta în siguranță când o lăsați."
+        ],
+        "en": [
+          "Rent a bike from one of the local rental shops if you don't have one.",
+          "Be aware of one-way streets in the city center, which may have different rules for bikes.",
+          "The terrain is mostly flat, but there are some gentle slopes near the belfry.",
+          "Always lock your bike securely when leaving it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 17.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neolithische Feuersteinminen von Spiennes (Silex's)",
+            "hu": "Spiennes-i újkőkori kovakőbányák (Silex's)",
+            "ro": "Minele neolitice de silex de la Spiennes (Silex's)",
+            "en": "Neolithic Flint Mines of Spiennes (Silex's)"
+          },
+          "coords": [
+            3.988,
+            50.412
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Tour im Voraus, um in die prähistorischen Minen hinabzusteigen. Ein einzigartiges UNESCO-Erbe.",
+            "hu": "Foglaljon túrát előre, hogy leereszkedhessen a történelem előtti bányákba. Egyedülálló UNESCO örökség.",
+            "ro": "Rezervați un tur în avans pentru a coborî în minele preistorice. Un sit unic al patrimoniului UNESCO.",
+            "en": "Book a tour in advance to descend into the prehistoric mines. A unique UNESCO heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mons Memorial Museum",
+            "hu": "Mons-i Emlékmúzeum",
+            "ro": "Muzeul Memorial Mons",
+            "en": "Mons Memorial Museum"
+          },
+          "coords": [
+            3.958,
+            50.451
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und tauchen Sie ein in die Militärgeschichte der Region.",
+            "hu": "Parkoljon a közelben, és merüljön el a régió hadtörténetében.",
+            "ro": "Parcați în apropiere și cufundați-vă în istoria militară a regiunii.",
+            "en": "Park nearby and immerse yourself in the region's military history."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Place (Park & Walk Cluster)",
+            "hu": "Fő tér (Parkolj és Sétálj klaszter)",
+            "ro": "Grand-Place (Cluster Parcare și Plimbare)",
+            "en": "Grand-Place (Park & Walk Cluster)"
+          },
+          "coords": [
+            3.9525,
+            50.4545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz für den Nachmittag und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Keressen egy parkolóhelyet a délutánra, és fedezze fel a központot gyalog.",
+            "ro": "Găsiți o parcare pentru după-amiază și explorați centrul pe jos.",
+            "en": "Find a parking spot for the afternoon and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Sankt Waltrudis",
+            "hu": "Szent Waltrudis társaskáptalani templom",
+            "ro": "Colegiata Sfânta Waudru",
+            "en": "Collegiate Church of Saint Waltrudis"
+          },
+          "coords": [
+            3.95,
+            50.4555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Grand-Place, bewundern Sie die beeindruckende Architektur.",
+            "hu": "Rövid séta a Fő térről, csodálja meg a lenyűgöző építészetet.",
+            "ro": "O scurtă plimbare de la Grand-Place, admirați arhitectura impresionantă.",
+            "en": "A short walk from the Grand-Place, admire the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Mons",
+            "hu": "Mons-i harangtorony (Beffroi)",
+            "ro": "Beffroi din Mons",
+            "en": "Belfry of Mons (Beffroi)"
+          },
+          "coords": [
+            3.9505,
+            50.4535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Spaziergang bergauf lohnt sich für die Aussicht. Lassen Sie das Auto geparkt.",
+            "hu": "Megéri a hegyi séta a kilátásért. Hagyja az autót leparkolva.",
+            "ro": "Plimbarea la deal merită pentru priveliște. Lăsați mașina parcată.",
+            "en": "The uphill walk is worth it for the view. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Kastélypark (Parc du Château)",
+            "ro": "Parcul Castelului (Parc du Château)",
+            "en": "Castle Park (Parc du Château)"
+          },
+          "coords": [
+            3.951,
+            50.453
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ende des Tages in diesem friedlichen Park, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Pihenjen a nap végén ebben a békés parkban, mielőtt visszatérne az autójához.",
+            "ro": "Relaxați-vă la sfârșitul zilei în acest parc liniștit înainte de a vă întoarce la mașină.",
+            "en": "Relax at the end of the day in this peaceful park before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Reise in die Vergangenheit bei den Silex-Minen von Spiennes, einem UNESCO-Weltkulturerbe. Am Vormittag fahren Sie zurück nach Mons, um das Mons Memorial Museum zu besuchen und mehr über die jüngere Geschichte zu erfahren. Am Nachmittag parken Sie Ihr Auto im Stadtzentrum und erkunden zu Fuß ein Cluster von Sehenswürdigkeiten: den Grand-Place, die prächtige Stiftskirche und den ikonischen Belfried. Der Tag endet mit einer entspannten Zeit im Parc du Château, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Az autós nap egy múltbeli utazással kezdődik a spiennes-i kovakőbányáknál, egy UNESCO világörökségi helyszínen. A délelőtt folyamán visszautazik Monsba, hogy meglátogassa a Mons-i Emlékmúzeumot a közelebbi történelemért. Délután parkolja le az autót a belvárosban, és fedezzen fel gyalog egy látnivaló-csoportot: a Fő teret, a csodálatos társaskáptalani templomot és az ikonikus harangtornyot. A nap egy pihentető időtöltéssel zárul a Kastélyparkban, mielőtt folytatná útját.",
+        "ro": "Ziua cu mașina începe cu o călătorie înapoi în timp la minele de silex de la Spiennes, un sit al Patrimoniului Mondial UNESCO. Înainte de prânz, vă întoarceți cu mașina în Mons pentru a vizita Muzeul Memorial Mons pentru o istorie mai recentă. După-amiaza, parcați mașina în centru și explorați pe jos un grup de atracții: Grand-Place, magnifica Colegiată și iconicul beffroi. Ziua se încheie cu un moment de relaxare în Parcul Castelului înainte de a vă continua călătoria.",
+        "en": "Your car day starts with a trip back in time at the Silex's mines in Spiennes, a UNESCO World Heritage site. Mid-morning, you'll drive back into Mons to visit the Mons Memorial Museum for more recent history. In the afternoon, park your car in the center and explore a cluster of sites on foot: the Grand-Place, the magnificent Collegiate Church, and the iconic Belfry. The day concludes with some relaxing time in the Castle Park before you continue your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Ein herzhafter Rindfleisch- und Zwiebeleintopf, der in Bier gekocht wird. Perfekt nach einem langen Tag."
+          },
+          {
+            "name": "L'Envers",
+            "tip": "Ein beliebtes Restaurant, das moderne belgische Küche serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "Kiadós marha- és hagymaragu sörben főzve. Tökéletes egy hosszú nap után."
+          },
+          {
+            "name": "L'Envers",
+            "tip": "Népszerű étterem, amely modern belga konyhát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "O tocană consistentă de vită și ceapă, gătită în bere. Perfectă după o zi lungă."
+          },
+          {
+            "name": "L'Envers",
+            "tip": "Un restaurant popular care servește bucătărie belgiană modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonnade flamande",
+            "tip": "A hearty beef and onion stew cooked in beer. Perfect after a long day."
+          },
+          {
+            "name": "L'Envers",
+            "tip": "A popular restaurant serving modern Belgian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Landschaft um Spiennes",
+            "tip": "Genießen Sie die Ruhe der Landschaft, bevor Sie in die Stadt fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Mons",
+            "tip": "Ein historischer und friedlicher Ort östlich des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spiennes környéki vidék",
+            "tip": "Élvezze a vidék csendjét, mielőtt a városba hajtana.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mons-i temető",
+            "tip": "Történelmi és békés hely a központtól keletre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peisajul rural din jurul Spiennes",
+            "tip": "Bucurați-vă de liniștea peisajului rural înainte de a vă îndrepta spre oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul din Mons",
+            "tip": "Un loc istoric și pașnic la est de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The countryside around Spiennes",
+            "tip": "Enjoy the quiet of the countryside before heading into the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery of Mons",
+            "tip": "A historic and peaceful spot east of the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmärkte",
+            "tip": "Halten Sie Ausschau nach lokalen Märkten in den Dörfern außerhalb von Mons für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piacok",
+            "tip": "Keresse a helyi piacokat Monson kívüli falvakban friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe agricole",
+            "tip": "Căutați piețele locale din satele din afara Mons pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Markets",
+            "tip": "Look for local markets in the villages outside Mons for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein; nutzen Sie ausgewiesene Parkhäuser.",
+          "Überprüfen Sie die Öffnungszeiten von Silex's und buchen Sie im Voraus, da es sich um eine beliebte Attraktion handelt.",
+          "Ein Auto ermöglicht es Ihnen, Sehenswürdigkeiten außerhalb des Stadtzentrums zu kombinieren.",
+          "Beachten Sie die Umweltzonen in und um belgische Städte."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet; használja a kijelölt parkolóházakat.",
+          "Ellenőrizze a Silex's nyitvatartási idejét és foglaljon előre, mivel népszerű látnivaló.",
+          "Az autó lehetővé teszi a belvároson kívüli látnivalók kombinálását.",
+          "Vegye figyelembe a belga városokban és azok környékén található környezetvédelmi zónákat."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările desemnate.",
+          "Verificați orele de deschidere ale Silex's și rezervați în avans, deoarece este o atracție populară.",
+          "O mașină vă permite să combinați atracții din afara centrului orașului.",
+          "Fiți conștienți de zonele cu emisii scăzute din și în jurul orașelor belgiene."
+        ],
+        "en": [
+          "Parking in the city center can be challenging; use designated parking garages.",
+          "Check the opening times for Silex's and book in advance as it's a popular attraction.",
+          "A car allows you to combine sights outside the immediate city center.",
+          "Be aware of low-emission zones in and around Belgian cities."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand-Place (Zentrum Cluster)",
+            "hu": "Fő tér (Központi klaszter)",
+            "ro": "Grand-Place (Cluster Centru)",
+            "en": "Grand-Place (Center Cluster)"
+          },
+          "coords": [
+            3.9525,
+            50.4545
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen von Mons. Der Hauptbahnhof ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Kezdje a napot Mons szívében. A főpályaudvar rövid sétatávolságra van.",
+            "ro": "Începeți ziua în inima orașului Mons. Gara principală este la o scurtă plimbare.",
+            "en": "Start your day in the heart of Mons. The main train station is a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Mons",
+            "hu": "Mons-i harangtorony (Beffroi)",
+            "ro": "Beffroi din Mons",
+            "en": "Belfry of Mons (Beffroi)"
+          },
+          "coords": [
+            3.9505,
+            50.4535
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Grand-Place.",
+            "hu": "Rövid séta hegynek fel a Fő térről.",
+            "ro": "O scurtă plimbare la deal de la Grand-Place.",
+            "en": "A short uphill walk from the Grand-Place."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Sankt Waltrudis",
+            "hu": "Szent Waltrudis társaskáptalani templom",
+            "ro": "Colegiata Sfânta Waudru",
+            "en": "Collegiate Church of Saint Waltrudis"
+          },
+          "coords": [
+            3.95,
+            50.4555
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Belfried aus um den Hügel herum, um dieses gotische Meisterwerk zu finden.",
+            "hu": "Sétáljon körbe a dombon a harangtoronytól, hogy megtalálja ezt a gótikus remekművet.",
+            "ro": "Mergeți pe jos în jurul dealului de la beffroi pentru a găsi această capodoperă gotică.",
+            "en": "Walk around the hill from the Belfry to find this Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "BAM (Museums-Cluster)",
+            "hu": "BAM (Múzeumi klaszter)",
+            "ro": "BAM (Cluster Muzee)",
+            "en": "BAM (Museums Cluster)"
+          },
+          "coords": [
+            3.948,
+            50.4565
+          ],
+          "category": "museums",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum, um dieses Kunstzentrum zu erreichen.",
+            "hu": "Menjen busszal a központból, hogy elérje ezt a művészeti központot.",
+            "ro": "Luați un autobuz din centru pentru a ajunge la acest centru de artă.",
+            "en": "Take a bus from the center to reach this hub of art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mundaneum",
+            "hu": "Mundaneum",
+            "ro": "Mundaneum",
+            "en": "Mundaneum"
+          },
+          "coords": [
+            3.947,
+            50.457
+          ],
+          "category": "museums",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom BAM entfernt, setzen Sie Ihre kulturelle Erkundung fort.",
+            "hu": "Csak néhány lépésre a BAM-tól, folytassa a kulturális felfedezést.",
+            "ro": "La câțiva pași de BAM, continuați explorarea culturală.",
+            "en": "Just a few steps from BAM, continue your cultural exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mons Memorial Museum (Memorial-Cluster)",
+            "hu": "Mons-i Emlékmúzeum (Emlék-klaszter)",
+            "ro": "Muzeul Memorial Mons (Cluster Memorial)",
+            "en": "Mons Memorial Museum (Memorial Cluster)"
+          },
+          "coords": [
+            3.958,
+            50.451
+          ],
+          "category": "museums",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zu diesem wichtigen historischen Ort.",
+            "hu": "Egy rövid buszút elviszi Önt ehhez a fontos történelmi helyhez.",
+            "ro": "O scurtă călătorie cu autobuzul vă va duce la acest important sit istoric.",
+            "en": "A short bus ride will take you to this important historical site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Mons, dem Grand-Place, der leicht vom Bahnhof aus erreichbar ist. Der Vormittag ist ein Spaziergang durch den historischen Kern, bei dem Sie den Belfried und die Stiftskirche besuchen. Am Mittag nehmen Sie einen Bus zum Museums-Cluster, wo Sie das BAM und das Mundaneum erkunden. Eine weitere kurze Busfahrt am Nachmittag bringt Sie zum Mons Memorial Museum. Diese Reiseroute nutzt die öffentlichen Verkehrsmittel, um verschiedene Stadtteile effizient zu verbinden, während Sie die einzelnen Bereiche zu Fuß erkunden.",
+        "hu": "A tömegközlekedéssel töltött nap Mons szívében, a Grand-Place-on kezdődik, amely könnyen megközelíthető a pályaudvarról. A délelőtt egy séta a történelmi magban, a harangtorony és a társaskáptalani templom meglátogatásával. Délben busszal utazik a múzeumi negyedbe, ahol felfedezi a BAM-ot és a Mundaneumot. Egy másik rövid buszút délután elviszi a Mons-i Emlékmúzeumhoz. Ez az útiterv a tömegközlekedést használja a különböző városrészek hatékony összekötésére, miközben az egyes területeket gyalog fedezi fel.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în inima orașului Mons, Grand-Place, ușor accesibilă de la gară. Dimineața este o plimbare prin nucleul istoric, vizitând beffroi-ul și colegiata. La prânz, luați un autobuz către clusterul de muzee pentru a explora BAM și Mundaneum. O altă scurtă călătorie cu autobuzul după-amiaza vă duce la Muzeul Memorial Mons. Acest itinerar folosește transportul public pentru a conecta eficient diferite cartiere, în timp ce explorați fiecare zonă pe jos.",
+        "en": "Your public transport day begins in the heart of Mons, the Grand-Place, easily accessible from the train station. The morning is a walking tour of the historic core, visiting the Belfry and the Collegiate Church. At midday, you'll take a bus to the museum cluster to explore BAM and the Mundaneum. Another short bus ride in the afternoon takes you to the Mons Memorial Museum. This itinerary uses transit to efficiently connect different districts while you explore each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Probieren Sie eine Lütticher Waffel, die dicker ist und Zuckerkristalle enthält."
+          },
+          {
+            "name": "Friteries",
+            "tip": "Halten Sie an einer der vielen „Friteries“ für authentische belgische Pommes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liège-i gofri",
+            "tip": "Kóstolja meg a liège-i gofrit, ami vastagabb és cukorkristályokat tartalmaz."
+          },
+          {
+            "name": "Friteries (Sültkrumplizók)",
+            "tip": "Álljon meg az egyik „friterie”-ben egy autentikus belga sült krumpliért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Încercați o vafă de Liège, mai groasă și cu cristale de zahăr."
+          },
+          {
+            "name": "Friteries",
+            "tip": "Opriți-vă la una dintre numeroasele „friterii” pentru cartofi prăjiți belgieni autentici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Try a Liège waffle, which is thicker and contains sugar crystals."
+          },
+          {
+            "name": "Friteries",
+            "tip": "Stop at one of the many 'friteries' for authentic Belgian fries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Passage Victor Hugo",
+            "tip": "Eine ruhige, überdachte Passage mit einigen kleinen Geschäften, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhöfe",
+            "tip": "Die Gärten rund um die Stiftskirche bieten einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Victor Hugo átjáró",
+            "tip": "Csendes, fedett átjáró néhány kis üzlettel, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkertek",
+            "tip": "A társaskáptalani templom körüli kertek nyugalmat nyújtanak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Victor Hugo",
+            "tip": "Un pasaj acoperit liniștit, cu câteva magazine mici, pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile bisericii",
+            "tip": "Grădinile din jurul Colegiatei oferă un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Passage Victor Hugo",
+            "tip": "A quiet covered passage with some small shops to escape the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyards",
+            "tip": "The gardens surrounding the Collegiate Church offer a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché aux Herbes",
+            "tip": "Ein kleiner Platz mit Cafés und manchmal einem Markt, in der Nähe des Grand-Place."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché aux Herbes",
+            "tip": "Kis tér kávézókkal és néha piaccal, a Fő tér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché aux Herbes",
+            "tip": "O piață mică cu cafenele și uneori o piață, aproape de Grand-Place."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché aux Herbes",
+            "tip": "A small square with cafes and sometimes a market, near the Grand-Place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie die App des lokalen Verkehrsunternehmens (TEC) für Fahrpläne und Routen herunter.",
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen in den Bus.",
+          "Die meisten Busse fahren vom Bahnhof ab, was ihn zu einem guten Ausgangspunkt macht."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Töltse le a helyi közlekedési vállalat (TEC) alkalmazását a menetrendekért és útvonalakért.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll a buszra.",
+          "A legtöbb busz a pályaudvarról indul, ami jó kiindulóponttá teszi."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii.",
+          "Descărcați aplicația companiei locale de transport (TEC) pentru orare și rute.",
+          "Validați biletul de fiecare dată când urcați în autobuz.",
+          "Majoritatea autobuzelor pleacă de la gară, ceea ce o face un bun punct de plecare."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Download the local transport company's app (TEC) for schedules and routes.",
+          "Validate your ticket each time you board a bus.",
+          "Most buses depart from the train station, making it a good hub to start from."
+        ]
+      }
+    }
+  }
+}

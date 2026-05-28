@@ -1,0 +1,1294 @@
+{
+  "city_id": "uk-stockport-cities-v2",
+  "anchor": {
+    "name": "Stockport",
+    "coords": [
+      -2.1494,
+      53.4083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Mary's Kirche im Marktplatz",
+            "hu": "St. Mary's templom a Piactéren",
+            "ro": "Biserica St Mary's în Piața Centrală",
+            "en": "St Mary's Church in the Marketplace"
+          },
+          "coords": [
+            -2.1581,
+            53.4103
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden normannischen und gotischen Architekturelemente.",
+            "hu": "Figyelje meg a lenyűgöző normann és gótikus építészeti elemeket.",
+            "ro": "Observați elementele arhitecturale normande și gotice impresionante.",
+            "en": "Look out for the impressive Norman and Gothic architectural features."
+          }
+        },
+        {
+          "name": {
+            "de": "Staircase House",
+            "hu": "Staircase House",
+            "ro": "Staircase House",
+            "en": "Staircase House"
+          },
+          "coords": [
+            -2.1586,
+            53.4106
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein echtes Eintauchen in die Geschichte, vom Mittelalter bis zum Zweiten Weltkrieg.",
+            "hu": "Valódi elmerülés a történelemben, a középkortól a második világháborúig.",
+            "ro": "O imersiune autentică în istorie, din Evul Mediu până la Al Doilea Război Mondial.",
+            "en": "A true immersion in history, from medieval times to World War II."
+          }
+        },
+        {
+          "name": {
+            "de": "Underbank Hall",
+            "hu": "Underbank Hall",
+            "ro": "Underbank Hall",
+            "en": "Underbank Hall"
+          },
+          "coords": [
+            -2.1598,
+            53.4095
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkfassade dieses beeindruckenden Tudor-Gebäudes.",
+            "hu": "Csodálja meg ennek a lenyűgöző Tudor-stílusú épületnek a fagerendás homlokzatát.",
+            "ro": "Admirați fațada cu grinzi de lemn a acestei clădiri impresionante în stil Tudor.",
+            "en": "Admire the timber-framed facade of this impressive Tudor building."
+          }
+        },
+        {
+          "name": {
+            "de": "Hat Works Museum",
+            "hu": "Kalapgyár Múzeum",
+            "ro": "Muzeul Pălăriilor (Hat Works)",
+            "en": "Hat Works Museum"
+          },
+          "coords": [
+            -2.1611,
+            53.4074
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Vorführung der Hutmachermaschinen.",
+            "hu": "Ne hagyja ki a kalapkészítő gépek bemutatóját.",
+            "ro": "Nu ratați demonstrația mașinilor de fabricat pălării.",
+            "en": "Don't miss the demonstration of the hat-making machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Viadukt",
+            "hu": "Stockport-viadukt",
+            "ro": "Viaductul Stockport",
+            "en": "Stockport Viaduct"
+          },
+          "coords": [
+            -2.1543,
+            53.4061
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der beste Blick auf das Viadukt bietet sich vom Mersey Square aus.",
+            "hu": "A legjobb kilátás a viaduktra a Mersey térről nyílik.",
+            "ro": "Cea mai bună priveliște a viaductului este din Piața Mersey.",
+            "en": "The best view of the viaduct can be found from Mersey Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Rathaus",
+            "hu": "Stockporti Városháza",
+            "ro": "Primăria Stockport",
+            "en": "Stockport Town Hall"
+          },
+          "coords": [
+            -2.1569,
+            53.4044
+          ],
+          "category": "monuments",
+          "arrive_at": "15:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bekannt als 'The Wedding Cake' wegen seiner aufwendigen weißen Fassade.",
+            "hu": "„Az esküvői torta” néven ismert a díszes fehér homlokzata miatt.",
+            "ro": "Cunoscută drept „Tortul de nuntă” datorită fațadei sale albe elaborate.",
+            "en": "Known as 'The Wedding Cake' for its elaborate white facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Plaza",
+            "hu": "Stockport Plaza",
+            "ro": "Stockport Plaza",
+            "en": "Stockport Plaza"
+          },
+          "coords": [
+            -2.1533,
+            53.4079
+          ],
+          "category": "theatres",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Vorstellung oder eine Kinovorführung stattfindet.",
+            "hu": "Nézze meg, van-e előadás vagy filmvetítés a látogatása során.",
+            "ro": "Verificați dacă există un spectacol sau o proiecție de film în timpul vizitei dvs.",
+            "en": "Check if there's a performance or a cinema screening during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Stockport mit einem Besuch der St. Mary's Kirche. Erkunden Sie die reiche Geschichte der Stadt im Staircase House und bewundern Sie die Tudor-Architektur des Underbank Hall. Am Nachmittag tauchen Sie im Hat Works Museum in das industrielle Erbe ein. Später schlendern Sie zum beeindruckenden Stockport Viadukt und zum 'Wedding Cake' Rathaus. Beenden Sie Ihren Tag mit einer Show oder einem Film im wunderschön restaurierten Stockport Plaza.",
+        "hu": "Kezdje a napot Stockport történelmi szívében, a St. Mary's templom meglátogatásával. Fedezze fel a város gazdag múltját a Staircase House-ban, és csodálja meg az Underbank Hall Tudor stílusú építészetét. Délután merüljön el az ipari örökségben a Kalapgyár Múzeumban. Később sétáljon el a lenyűgöző Stockport-viadukthoz és az „Esküvői Torta” Városházához. Zárja a napot egy előadással vagy filmmel a gyönyörűen felújított Stockport Plazában.",
+        "ro": "Începeți ziua în inima istorică a orașului Stockport, vizitând Biserica St Mary's. Explorați istoria bogată a orașului la Staircase House și admirați arhitectura Tudor a Underbank Hall. După-amiaza, pătrundeți în patrimoniul industrial la Muzeul Pălăriilor. Mai târziu, plimbați-vă până la impresionantul Viaduct Stockport și Primăria „Tortul de nuntă”. Încheiați ziua cu un spectacol sau un film la splendid restauratul Stockport Plaza.",
+        "en": "Start your day in Stockport's historic heart by visiting St Mary's Church. Explore the town's rich history at Staircase House and admire the Tudor architecture of Underbank Hall. In the afternoon, delve into the industrial heritage at the Hat Works Museum. Later, stroll to the impressive Stockport Viaduct and the 'Wedding Cake' Town Hall. End your day with a show or a film at the beautifully restored Stockport Plaza."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheshire-Käse",
+            "tip": "Probieren Sie den lokalen krümeligen Käse in einem Ploughman's Lunch in einem traditionellen Pub."
+          },
+          {
+            "name": "Stockport Pie",
+            "tip": "Ein herzhafter Fleischkuchen, den man am besten in einer örtlichen Bäckerei oder einem Café genießt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire sajt",
+            "tip": "Kóstolja meg a helyi, morzsálódó sajtot egy hagyományos pubban egy „ploughman's lunch” részeként."
+          },
+          {
+            "name": "Stockporti pite",
+            "tip": "Egy kiadós húsos pite, amelyet a legjobb egy helyi pékségben vagy kávézóban elfogyasztani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Cheshire",
+            "tip": "Încercați brânza locală sfărâmicioasă într-un prânz „ploughman's” la un pub tradițional."
+          },
+          {
+            "name": "Plăcintă Stockport",
+            "tip": "O plăcintă consistentă cu carne, savurată cel mai bine la o brutărie sau cafenea locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Cheese",
+            "tip": "Try the local crumbly cheese in a ploughman's lunch at a traditional pub."
+          },
+          {
+            "name": "Stockport Pie",
+            "tip": "A hearty meat pie, best enjoyed from a local bakery or cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Mary's Kirchhof",
+            "tip": "Ein ruhiger Ort, um die Architektur zu bewundern und dem Trubel der Stadt zu entfliehen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Ufer des Flusses Mersey",
+            "tip": "Machen Sie einen kurzen Spaziergang entlang des Flusses in der Nähe des Viadukts für eine friedliche Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St. Mary's templomkert",
+            "tip": "Csendes hely, ahol megcsodálhatja az építészetet és elmenekülhet a városi nyüzsgés elől.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Mersey folyó partja",
+            "tip": "Tegyen egy rövid sétát a folyó mentén a viadukt közelében egy békés pihenőért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii St. Mary's",
+            "tip": "Un loc liniștit pentru a admira arhitectura și a evada din agitația orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Malurile râului Mersey",
+            "tip": "Faceți o scurtă plimbare de-a lungul râului lângă viaduct pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary's Churchyard",
+            "tip": "A quiet spot to admire the architecture and escape the bustle of the town.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Banks of the River Mersey",
+            "tip": "Take a short walk along the river near the viaduct for a peaceful break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stockport Market Hall",
+            "tip": "Stöbern Sie nach lokalen Produkten, Handwerk und einzigartigen Fundstücken in diesem viktorianischen Markt."
+          },
+          {
+            "name": "Underbanks",
+            "tip": "Entdecken Sie unabhängige Boutiquen und Fachgeschäfte in diesem historischen Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stockporti Vásárcsarnok",
+            "tip": "Böngésszen helyi termékek, kézműves áruk és egyedi leletek között ebben a viktoriánus csarnokban."
+          },
+          {
+            "name": "Underbanks",
+            "tip": "Fedezzen fel független butikokat és szaküzleteket ebben a történelmi negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Pieței Stockport",
+            "tip": "Căutați produse locale, artizanat și descoperiri unice în această piață victoriană."
+          },
+          {
+            "name": "Underbanks",
+            "tip": "Explorați buticuri independente și magazine specializate în acest cartier istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stockport Market Hall",
+            "tip": "Browse for local produce, crafts, and unique finds in this Victorian market hall."
+          },
+          {
+            "name": "The Underbanks",
+            "tip": "Explore independent boutiques and specialist shops in this historic area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Der Marktplatz ist ein großartiger Ort für eine Mittagspause mit vielen Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
+          "A Piactér remek hely egy ebédszünetre, sok kávézóval."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului poate fi deluros.",
+          "Verificați în avans orele de deschidere ale muzeelor, deoarece acestea pot varia.",
+          "Piața este un loc minunat pentru o pauză de prânz, cu multe cafenele."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town centre can be hilly.",
+          "Check museum opening times in advance as they can vary.",
+          "The Marketplace is a great spot for a lunch break with plenty of cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stockport Rathaus",
+            "hu": "Stockporti Városháza",
+            "ro": "Primăria Stockport",
+            "en": "Stockport Town Hall"
+          },
+          "coords": [
+            -2.1569,
+            53.4044
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein großartiger Startpunkt mit beeindruckender Architektur.",
+            "hu": "Nagyszerű kiindulópont lenyűgöző építészettel.",
+            "ro": "Un punct de plecare excelent, cu o arhitectură impresionantă.",
+            "en": "A great starting point with impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Viadukt",
+            "hu": "Stockport-viadukt",
+            "ro": "Viaductul Stockport",
+            "en": "Stockport Viaduct"
+          },
+          "coords": [
+            -2.1543,
+            53.4061
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren Sie unter den Bögen hindurch, um die schiere Größe zu schätzen.",
+            "hu": "Biciklizzen át az ívek alatt, hogy igazán felmérje a méreteit.",
+            "ro": "Pedalați pe sub arcade pentru a aprecia scara sa imensă.",
+            "en": "Cycle underneath the arches to appreciate the sheer scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Hat Works Museum",
+            "hu": "Kalapgyár Múzeum",
+            "ro": "Muzeul Pălăriilor (Hat Works)",
+            "en": "Hat Works Museum"
+          },
+          "coords": [
+            -2.1611,
+            53.4074
+          ],
+          "category": "museums",
+          "arrive_at": "10:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete lângă intrare.",
+            "en": "There are bicycle racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche im Marktplatz",
+            "hu": "St. Mary's templom a Piactéren",
+            "ro": "Biserica St Mary's în Piața Centrală",
+            "en": "St Mary's Church in the Marketplace"
+          },
+          "coords": [
+            -2.1581,
+            53.4103
+          ],
+          "category": "churches",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den historischen Marktplatz.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a történelmi Piacteret.",
+            "ro": "Legați-vă bicicleta și explorați piața istorică.",
+            "en": "Lock up your bike and explore the historic marketplace area."
+          }
+        },
+        {
+          "name": {
+            "de": "Reddish Vale Country Park",
+            "hu": "Reddish Vale Country Park",
+            "ro": "Parcul Reddish Vale",
+            "en": "Reddish Vale Country Park"
+          },
+          "coords": [
+            -2.133,
+            53.428
+          ],
+          "category": "parks",
+          "arrive_at": "13:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und eine entspannte Fahrt auf den Wegen.",
+            "hu": "Tökéletes egy ebédszünetre és egy pihentető tekerésre az ösvényeken.",
+            "ro": "Perfect pentru o pauză de prânz și o plimbare relaxantă pe alei.",
+            "en": "Perfect for a lunch break and a leisurely ride around the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Robinson's Brewery",
+            "hu": "Robinson sörfőzde",
+            "ro": "Berăria Robinson's",
+            "en": "Robinson's Brewery"
+          },
+          "coords": [
+            -2.158,
+            53.409
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Brauereiführung und genießen Sie anschließend eine wohlverdiente Kostprobe.",
+            "hu": "Foglaljon egy sörfőzde-túrát, majd élvezze a jól megérdemelt kóstolót.",
+            "ro": "Rezervați un tur al berăriei și bucurați-vă de o degustare binemeritată după aceea.",
+            "en": "Book a brewery tour and enjoy a well-deserved tasting afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am prachtvollen Rathaus von Stockport. Fahren Sie unter dem gigantischen Viadukt hindurch zum Hat Works Museum, um mehr über die lokale Industrie zu erfahren. Anschließend geht es bergauf zum historischen Marktplatz und der St. Mary's Kirche. Am Nachmittag entfliehen Sie dem Stadtzentrum für eine erfrischende Pause im Reddish Vale Country Park. Schließen Sie Ihren Tag mit einer Tour und einer Kostprobe in der berühmten Robinson's Brewery ab, einem echten Geschmack von Stockport.",
+        "hu": "Kezdje a biciklitúrát a csodálatos Stockporti Városházánál. Tekerjen át a gigantikus viadukt alatt a Kalapgyár Múzeumhoz, hogy megismerje a helyi ipart. Ezután irány a dombtetőn lévő történelmi Piactér és a St. Mary's templom. Délután meneküljön el a városközpontból egy frissítő pihenőre a Reddish Vale Country Parkba. Zárja a napot egy túrával és kóstolóval a híres Robinson sörfőzdében, Stockport igazi ízével.",
+        "ro": "Începeți turul pe bicicletă de la grandioasa Primărie Stockport. Pedalați pe sub giganticul viaduct până la Muzeul Pălăriilor pentru o lecție de industrie locală. Apoi, urcați spre piața istorică și Biserica St Mary's. După-amiaza, evadați din centrul orașului pentru o pauză revigorantă în Parcul Reddish Vale. Încheiați ziua cu un tur și o degustare la faimoasa Berărie Robinson's, un gust autentic al orașului Stockport.",
+        "en": "Kick off your cycling tour at the grand Stockport Town Hall. Pedal beneath the gigantic viaduct to the Hat Works Museum for a lesson in local industry. Afterwards, head uphill to the historic Marketplace and St Mary's Church. In the afternoon, escape the town centre for a refreshing break in Reddish Vale Country Park. Finish your day with a tour and a tasting at the famous Robinson's Brewery, a true taste of Stockport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ein Pint von Robinson's Unicorn",
+            "tip": "Das charakteristische Bier der Stadt, am besten frisch vom Fass in einem Pub in der Nähe der Brauerei."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches britisches Gericht, perfekt, um nach einer langen Radtour neue Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy korsó Robinson's Unicorn",
+            "tip": "A város jellegzetes söre, a legjobb frissen csapolva egy, a sörfőzde közelében lévő pubban."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus brit étel, tökéletes feltöltődés egy hosszú biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O halbă de Robinson's Unicorn",
+            "tip": "Berea emblematică a orașului, cel mai bine savurată proaspătă de la robinet la un pub de lângă berărie."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare britanic clasic, perfect pentru a vă reîncărca bateriile după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "A pint of Robinson's Unicorn",
+            "tip": "The town's signature ale, best enjoyed fresh from the tap at a pub near the brewery."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic British dish, perfect for refueling after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reddish Vale Viaduct",
+            "tip": "Ein ruhigerer, kleinerer Viadukt im Park, umgeben von Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vernon Park",
+            "tip": "Ein weiterer nahegelegener Park mit schönen Gärten, ideal für eine kurze Rast.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reddish Vale viadukt",
+            "tip": "Csendesebb, kisebb viadukt a parkban, természettel körülvéve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vernon Park",
+            "tip": "Egy másik közeli park gyönyörű kertekkel, ideális egy rövid pihenőre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viaductul Reddish Vale",
+            "tip": "Un viaduct mai mic și mai liniștit în interiorul parcului, înconjurat de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Vernon",
+            "tip": "Un alt parc din apropiere, cu grădini frumoase, ideal pentru o scurtă oprire.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reddish Vale Viaduct",
+            "tip": "A quieter, smaller viaduct within the park, surrounded by nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vernon Park",
+            "tip": "Another nearby park with beautiful gardens, great for a quick rest stop.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Robinson's Brewery Shop",
+            "tip": "Kaufen Sie Flaschenbiere, Gläser und andere Souvenirs."
+          },
+          {
+            "name": "Lokale Fahrradgeschäfte",
+            "tip": "Suchen Sie nach einzigartigem Zubehör oder lokaler Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Robinson sörfőzde boltja",
+            "tip": "Vásároljon palackozott sört, poharakat és más ajándéktárgyakat."
+          },
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Keressen egyedi kiegészítőket vagy helyi felszerelést."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Berăriei Robinson's",
+            "tip": "Cumpărați beri la sticlă, pahare și alte suveniruri."
+          },
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Căutați accesorii unice sau echipament local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Robinson's Brewery Shop",
+            "tip": "Pick up some bottled ales, glassware, and other souvenirs."
+          },
+          {
+            "name": "Local Bike Shops",
+            "tip": "Look for unique accessories or local gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stockport hat einige steile Hügel, seien Sie also auf ein paar Anstiege vorbereitet.",
+          "Ein Helm wird empfohlen.",
+          "Schließen Sie Ihr Fahrrad immer an sicheren Orten ab.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Fahrt zum Reddish Vale."
+        ],
+        "hu": [
+          "Stockportban vannak meredek dombok, tehát készüljön fel néhány emelkedőre.",
+          "Sisak viselése ajánlott.",
+          "Mindig biztonságos helyen zárja le a kerékpárját.",
+          "Vigyen magával egy vizes palackot, különösen a Reddish Vale-be vezető útra."
+        ],
+        "ro": [
+          "Stockport are câteva dealuri abrupte, așa că fiți pregătit pentru câteva urcări.",
+          "Se recomandă casca de protecție.",
+          "Legați-vă întotdeauna bicicleta în locații sigure.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre Reddish Vale."
+        ],
+        "en": [
+          "Stockport has some steep hills, so be prepared for a few climbs.",
+          "A helmet is recommended.",
+          "Always lock your bike in secure locations.",
+          "Bring a water bottle, especially for the ride out to Reddish Vale."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bramall Hall",
+            "hu": "Bramall Hall",
+            "ro": "Bramall Hall",
+            "en": "Bramall Hall"
+          },
+          "coords": [
+            -2.18,
+            53.36
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer der besten Tudor-Herrenhäuser des Landes. Parken Sie hier.",
+            "hu": "Kezdje az ország egyik legszebb Tudor-kori udvarházával. Parkoljon itt.",
+            "ro": "Începeți cu una dintre cele mai bune conace în stil Tudor din țară. Parcați aici.",
+            "en": "Start with one of the finest Tudor manor houses in the country. Park here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Bramhall",
+            "hu": "Ebéd Bramhallban",
+            "ro": "Prânz în Bramhall",
+            "en": "Lunch in Bramhall"
+          },
+          "coords": [
+            -2.178,
+            53.362
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hall zu einem lokalen Pub oder Café.",
+            "hu": "Rövid séta a Halltól egy helyi pubig vagy kávézóig.",
+            "ro": "O scurtă plimbare de la conac la un pub sau o cafenea locală.",
+            "en": "A short walk from the Hall to a local pub or cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum: Hat Works Museum",
+            "hu": "Városközpont Klaszter: Kalapgyár Múzeum",
+            "ro": "Cluster Centru: Muzeul Pălăriilor",
+            "en": "Town Centre Cluster: Hat Works Museum"
+          },
+          "coords": [
+            -2.1611,
+            53.4074
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und parken Sie in der Nähe. Dies ist Ihr Basislager für den Nachmittag.",
+            "hu": "Vezessen be a központba, és parkoljon a közelben. Ez lesz a délutáni bázisa.",
+            "ro": "Conduceți spre centru și parcați în apropiere. Aceasta este baza dvs. pentru după-amiază.",
+            "en": "Drive into the centre and park nearby. This is your base for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Viadukt",
+            "hu": "Stockport-viadukt",
+            "ro": "Viaductul Stockport",
+            "en": "Stockport Viaduct"
+          },
+          "coords": [
+            -2.1543,
+            53.4061
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hutmuseum, um dieses Meisterwerk der Ingenieurskunst zu sehen.",
+            "hu": "Rövid séta a Kalap Múzeumtól, hogy megnézze ezt a mérnöki remekművet.",
+            "ro": "O scurtă plimbare de la muzeul pălăriilor pentru a vedea această capodoperă inginerească.",
+            "en": "A short walk from the Hat Works to see this masterpiece of engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche & Marktplatz",
+            "hu": "St. Mary's templom és Piactér",
+            "ro": "Biserica St. Mary's și Piața",
+            "en": "St Mary's Church & Marketplace"
+          },
+          "coords": [
+            -2.1581,
+            53.4103
+          ],
+          "category": "churches",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie bergauf zum historischen Herzen der Stadt.",
+            "hu": "Sétáljon fel a dombra a város történelmi szívébe.",
+            "ro": "Urcați dealul până în inima istorică a orașului.",
+            "en": "Walk uphill to the historic heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Reddish Vale",
+            "hu": "Reddish Vale Klaszter",
+            "ro": "Cluster Reddish Vale",
+            "en": "Reddish Vale Cluster"
+          },
+          "coords": [
+            -2.133,
+            53.428
+          ],
+          "category": "parks",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer kurzen Fahrt und einem entspannenden Spaziergang in der Natur.",
+            "hu": "Zárja a napot egy rövid autózással és egy pihentető sétával a természetben.",
+            "ro": "Încheiați ziua cu o scurtă călătorie cu mașina și o plimbare relaxantă în natură.",
+            "en": "End the day with a short drive and a relaxing walk in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Fahrt zur prächtigen Bramall Hall, einem Juwel der Tudor-Architektur. Nach der Erkundung des Hauses und der Gärten fahren Sie in die Innenstadt von Stockport. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß: das Hat Works Museum und das hoch aufragende Stockport Viadukt. Spazieren Sie dann zum historischen Marktplatz. Für den letzten Teil des Tages fahren Sie zum Reddish Vale Country Park für eine Dosis Natur und Ruhe, die einen perfekten Kontrast zur städtischen Erkundung bietet.",
+        "hu": "Kezdje a napot egy autózással a csodálatos Bramall Hall-hoz, a Tudor építészet gyöngyszeméhez. Miután felfedezte a házat és a kerteket, vezessen be Stockport központjába. Parkolja le az autót, és fedezze fel az első klasztert gyalog: a Kalapgyár Múzeumot és a toronymagas Stockport-viaduktot. Sétáljon fel a történelmi Piactérre. A nap utolsó részében vezessen a Reddish Vale Country Parkba egy adag természetért és nyugalomért, ami tökéletes kontrasztot képez a városi felfedezéssel.",
+        "ro": "Începeți ziua cu o excursie la magnificul Bramall Hall, o bijuterie a arhitecturii Tudor. După ce explorați casa și grădinile, conduceți spre centrul orașului Stockport. Parcați mașina și explorați primul cluster pe jos: Muzeul Pălăriilor și impunătorul Viaduct Stockport. Urcați pe jos până în Piața istorică. Pentru ultima parte a zilei, conduceți spre Parcul Reddish Vale pentru o doză de natură și liniște, oferind un contrast perfect cu explorarea urbană.",
+        "en": "Start your day with a drive to the magnificent Bramall Hall, a gem of Tudor architecture. After exploring the house and gardens, drive into Stockport's town centre. Park the car and explore the first cluster on foot: the Hat Works Museum and the towering Stockport Viaduct. Walk up to the historic Marketplace. For the final leg of the day, drive to Reddish Vale Country Park for a dose of nature and tranquility, providing a perfect contrast to the urban exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pub-Mittagessen in Bramhall",
+            "tip": "Genießen Sie traditionelle britische Gerichte in einem Pub in der Nähe von Bramall Hall."
+          },
+          {
+            "name": "Café im Hat Works Museum",
+            "tip": "Ein praktischer Ort für einen Kaffee und Kuchen, bevor Sie Ihre Erkundung fortsetzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pub ebéd Bramhallban",
+            "tip": "Élvezze a hagyományos brit ételeket egy Bramall Hall közeli pubban."
+          },
+          {
+            "name": "Kávézó a Kalapgyár Múzeumban",
+            "tip": "Kényelmes hely egy kávéra és süteményre, mielőtt folytatná a felfedezést."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la pub în Bramhall",
+            "tip": "Bucurați-vă de mâncăruri britanice tradiționale la un pub de lângă Bramall Hall."
+          },
+          {
+            "name": "Cafenea la Muzeul Pălăriilor",
+            "tip": "Un loc convenabil pentru o cafea și o prăjitură înainte de a vă continua explorarea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pub lunch in Bramhall",
+            "tip": "Enjoy traditional British fare at a pub near Bramall Hall."
+          },
+          {
+            "name": "Cafe at Hat Works Museum",
+            "tip": "A convenient spot for a coffee and cake before continuing your exploration."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Bramall Hall",
+            "tip": "Schlendern Sie durch die wunderschön gepflegten Gärten für einen Moment der Ruhe.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Ufer des Flusses Goyt",
+            "tip": "Finden Sie einen ruhigen Weg im Reddish Vale Country Park.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramall Hall kertjei",
+            "tip": "Sétáljon a gyönyörűen gondozott kertekben egy pillanatnyi békéért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Goyt folyó partja",
+            "tip": "Keressen egy csendes ösvényt a Reddish Vale Country Parkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Bramall Hall",
+            "tip": "Plimbați-vă prin grădinile frumos întreținute pentru un moment de liniște.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malurile râului Goyt",
+            "tip": "Găsiți o potecă liniștită în Parcul Reddish Vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramall Hall Gardens",
+            "tip": "Stroll through the beautifully maintained gardens for a moment of peace.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The banks of the River Goyt",
+            "tip": "Find a quiet trail within Reddish Vale Country Park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bramall Hall Gift Shop",
+            "tip": "Ein großartiger Ort für einzigartige Geschenke und Souvenirs im Tudor-Stil."
+          },
+          {
+            "name": "Stockport Market Hall",
+            "tip": "Wenn Sie Zeit haben, ist es eine kurze Abweichung von Ihrer Wanderroute wert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramall Hall ajándékboltja",
+            "tip": "Remek hely egyedi, Tudor-stílusú ajándékok és szuvenírek vásárlására."
+          },
+          {
+            "name": "Stockporti Vásárcsarnok",
+            "tip": "Ha van ideje, megér egy rövid kitérőt a gyalogos útvonalról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri Bramall Hall",
+            "tip": "Un loc excelent pentru cadouri unice și suveniruri cu tematică Tudor."
+          },
+          {
+            "name": "Hala Pieței Stockport",
+            "tip": "Dacă aveți timp, merită o mică deviere de la traseul dvs. de mers pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramall Hall Gift Shop",
+            "tip": "A great place for unique Tudor-themed gifts and souvenirs."
+          },
+          {
+            "name": "Stockport Market Hall",
+            "tip": "If you have time, it's worth a short deviation from your walking route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus, insbesondere in der Innenstadt.",
+          "Planen Sie Ihre Fahrten außerhalb der Stoßzeiten, um Verkehr zu vermeiden.",
+          "Ein Navigationsgerät oder eine Karten-App ist unerlässlich, um sich zwischen den Clustern zurechtzufinden."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat, különösen a városközpontban.",
+          "Tervezze az utazásokat a csúcsidőn kívülre a forgalom elkerülése érdekében.",
+          "A klaszterek közötti navigációhoz elengedhetetlen egy GPS vagy térképalkalmazás."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele, în special în centrul orașului.",
+          "Planificați-vă călătoriile în afara orelor de vârf pentru a evita traficul.",
+          "Un GPS sau o aplicație de hărți este esențială pentru a naviga între clustere."
+        ],
+        "en": [
+          "Check parking options and fees in advance, especially for the town centre.",
+          "Plan your drives outside of peak hours to avoid traffic.",
+          "A GPS or map app is essential for navigating between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Bahnhof: Stockport Viadukt",
+            "hu": "Vasútállomás Klaszter: Stockport-viadukt",
+            "ro": "Cluster Gară: Viaductul Stockport",
+            "en": "Train Station Cluster: Stockport Viaduct"
+          },
+          "coords": [
+            -2.1543,
+            53.4061
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der Nähe des Bahnhofs mit einem atemberaubenden Blick auf das Viadukt.",
+            "hu": "Kezdje a napot a vasútállomás közelében, a viaduktra nyíló lenyűgöző kilátással.",
+            "ro": "Începeți ziua lângă gară, cu o priveliște uluitoare a viaductului.",
+            "en": "Start your day near the train station with a stunning view of the viaduct."
+          }
+        },
+        {
+          "name": {
+            "de": "Hat Works Museum",
+            "hu": "Kalapgyár Múzeum",
+            "ro": "Muzeul Pălăriilor (Hat Works)",
+            "en": "Hat Works Museum"
+          },
+          "coords": [
+            -2.1611,
+            53.4074
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Viadukt zu diesem faszinierenden Museum.",
+            "hu": "Könnyű séta a viadukttól ehhez a lenyűgöző múzeumhoz.",
+            "ro": "O plimbare ușoară de la viaduct la acest muzeu fascinant.",
+            "en": "An easy walk from the viaduct to this fascinating museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Marktplatz: St. Mary's Kirche",
+            "hu": "Piactér Klaszter: St. Mary's templom",
+            "ro": "Cluster Piață: Biserica St. Mary's",
+            "en": "Marketplace Cluster: St Mary's Church"
+          },
+          "coords": [
+            -2.1581,
+            53.4103
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus vom Bahnhofsviertel zum Marktplatz.",
+            "hu": "Menjen egy rövid buszúttal a vasútállomás környékéről a Piactérre.",
+            "ro": "Luați un autobuz pe o distanță scurtă din zona gării până în Piață.",
+            "en": "Take a short bus ride from the station area up to the Marketplace."
+          }
+        },
+        {
+          "name": {
+            "de": "Staircase House",
+            "hu": "Staircase House",
+            "ro": "Staircase House",
+            "en": "Staircase House"
+          },
+          "coords": [
+            -2.1586,
+            53.4106
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben der Kirche gelegen, tauchen Sie tief in die lokale Geschichte ein.",
+            "hu": "Közvetlenül a templom mellett található, merüljön el a helyi történelemben.",
+            "ro": "Situată chiar lângă biserică, pătrundeți adânc în istoria locală.",
+            "en": "Located right next to the church, take a deep dive into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Rathaus: Stockport Rathaus",
+            "hu": "Városháza Klaszter: Stockporti Városháza",
+            "ro": "Cluster Primărie: Primăria Stockport",
+            "en": "Town Hall Cluster: Stockport Town Hall"
+          },
+          "coords": [
+            -2.1569,
+            53.4044
+          ],
+          "category": "monuments",
+          "arrive_at": "14:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus den Hügel hinunter, um die 'Hochzeitstorte' zu bewundern.",
+            "hu": "Menjen busszal le a dombról, hogy megcsodálhassa az „Esküvői Tortát”.",
+            "ro": "Luați un autobuz la vale pentru a admira „Tortul de nuntă”.",
+            "en": "Take a bus down the hill to admire the 'Wedding Cake'."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockport Plaza",
+            "hu": "Stockport Plaza",
+            "ro": "Stockport Plaza",
+            "en": "Stockport Plaza"
+          },
+          "coords": [
+            -2.1533,
+            53.4079
+          ],
+          "category": "theatres",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Tour oder einer Vorstellung in diesem Art-déco-Kino.",
+            "hu": "Zárja a napot egy túrával vagy előadással ebben az art deco moziban.",
+            "ro": "Încheiați-vă ziua cu un tur sau un spectacol la acest cinematograf art deco.",
+            "en": "End your day with a tour or show at this art deco cinema."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre öffentliche Verkehrsreise in der Nähe des Bahnhofs, wo Sie sofort auf das massive Stockport Viadukt treffen. Ein kurzer Spaziergang führt Sie zum Hat Works Museum. Als Nächstes nehmen Sie einen Bus zum historischen Marktplatz-Cluster, um die St. Mary's Kirche und das Staircase House zu erkunden. Ein weiterer Bus bringt Sie zum Rathaus-Cluster, wo Sie das architektonische Wunder des Rathauses besichtigen können. Beenden Sie Ihren Tag mit einem Spaziergang zum Stockport Plaza für einen Hauch von Glamour der 1930er Jahre.",
+        "hu": "Kezdje a tömegközlekedési utazást a vasútállomás közelében, ahol azonnal megpillantja a hatalmas Stockport-viaduktot. Egy rövid séta elvezeti a Kalapgyár Múzeumhoz. Ezután szálljon buszra a történelmi Piactér klaszterhez, hogy felfedezze a St. Mary's templomot és a Staircase House-t. Egy másik busz elviszi a Városháza klaszterhez, ahol megcsodálhatja a Városháza építészeti csodáját. Zárja a napot egy sétával a Stockport Plazához, egy kis 1930-as évekbeli csillogásért.",
+        "ro": "Începeți călătoria cu transportul public în apropierea gării, unde veți fi imediat întâmpinat de masivul Viaduct Stockport. O scurtă plimbare vă duce la Muzeul Pălăriilor. Apoi, luați un autobuz până la clusterul istoric al Pieței pentru a explora Biserica St. Mary's și Staircase House. O altă călătorie cu autobuzul vă va duce la clusterul Primăriei pentru a vedea minunea arhitecturală a Primăriei. Încheiați ziua cu o plimbare până la Stockport Plaza pentru un strop de farmec din anii 1930.",
+        "en": "Start your public transport journey near the train station, where you're immediately met by the massive Stockport Viaduct. A short walk takes you to the Hat Works Museum. Next, hop on a bus to the historic Marketplace cluster to explore St Mary's Church and Staircase House. Another bus ride will take you to the Town Hall cluster to see the architectural wonder of the Town Hall. Finish your day with a walk to Stockport Plaza for a touch of 1930s glamour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Essen auf dem Markt",
+            "tip": "Probieren Sie Street Food von den Ständen in und um die Markthalle."
+          },
+          {
+            "name": "Pre-Theater-Menü",
+            "tip": "Viele Restaurants in der Nähe des Plaza bieten vor den Vorstellungen preiswerte Menüs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piacon enni",
+            "tip": "Kóstolja meg az utcai ételeket a vásárcsarnokban és környékén lévő standoknál."
+          },
+          {
+            "name": "Színház előtti menü",
+            "tip": "Sok étterem a Plaza közelében kínál kedvező árú menüket az előadások előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare de la piață",
+            "tip": "Încercați mâncarea stradală de la tarabele din și din jurul Halei Pieței."
+          },
+          {
+            "name": "Meniu înainte de teatru",
+            "tip": "Multe restaurante de lângă Plaza oferă meniuri cu preț fix înainte de spectacole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marketplace food",
+            "tip": "Try some street food from the stalls in and around the Market Hall."
+          },
+          {
+            "name": "Pre-theatre menu",
+            "tip": "Many restaurants near the Plaza offer set-price menus before shows."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Peters Square",
+            "tip": "Ein überraschend ruhiger Platz direkt im Stadtzentrum.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Die Spitze von Bridge Street",
+            "tip": "Bietet einen guten Blick über das Stadtzentrum und das Viadukt.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter tér",
+            "tip": "Meglepően csendes tér a városközpontban."
+          },
+          {
+            "name": "Bridge Street teteje",
+            "tip": "Jó kilátást nyújt a városközpontra és a viaduktra.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața St. Peter's",
+            "tip": "O piață surprinzător de liniștită, chiar în centrul orașului.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Vârful străzii Bridge",
+            "tip": "Oferă o priveliște bună asupra centrului orașului și a viaductului.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Peters Square",
+            "tip": "A surprisingly quiet square right in the town centre.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Top of Bridge Street",
+            "tip": "Offers a good viewpoint over the town centre and the viaduct.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Merseyway Shopping Centre",
+            "tip": "Ein moderner Einkaufskomplex in der Nähe des Bahnhofs für alle wichtigen Einkäufe."
+          },
+          {
+            "name": "Vintage Village",
+            "tip": "Im ersten Stock der Markthalle finden Sie Vintage-Kleidung und Sammlerstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merseyway bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont a vasútállomás közelében a fontosabb beszerzésekhez."
+          },
+          {
+            "name": "Vintage Village",
+            "tip": "A vásárcsarnok első emeletén vintage ruhákat és gyűjteményi tárgyakat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Merseyway",
+            "tip": "Un complex comercial modern lângă gară pentru orice nevoie esențială de cumpărături."
+          },
+          {
+            "name": "Vintage Village",
+            "tip": "Găsit la primul etaj al Halei Pieței, pentru haine vintage și obiecte de colecție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Merseyway Shopping Centre",
+            "tip": "A modern shopping complex near the station for any essential purchases."
+          },
+          {
+            "name": "Vintage Village",
+            "tip": "Found on the first floor of the Market Hall for vintage clothing and collectables."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzt fahren zu können.",
+          "Laden Sie eine lokale Bus-App herunter, um die Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass einige Dienste abends seltener fahren.",
+          "Die meisten Busse sind für kontaktlose Zahlungen ausgestattet."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan buszozáshoz.",
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Vegye figyelembe, hogy néhány járat ritkábban közlekedik este.",
+          "A legtöbb busz fel van szerelve érintés nélküli fizetésre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate cu autobuzul.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele și rutele în timp real.",
+          "Fiți conștienți de faptul că unele servicii pot fi mai puțin frecvente seara.",
+          "Majoritatea autobuzelor sunt echipate pentru plăți contactless."
+        ],
+        "en": [
+          "Purchase a day-rider bus ticket for unlimited travel.",
+          "Download a local bus app to track live timetables and routes.",
+          "Be aware that some services can be less frequent in the evening.",
+          "Most buses are equipped for contactless payments."
+        ]
+      }
+    }
+  }
+}

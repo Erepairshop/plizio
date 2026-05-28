@@ -1,0 +1,1292 @@
+{
+  "city_id": "luxembourg-esch-sur-alzette-cities-v2",
+  "anchor": {
+    "name": "Esch an der Alzette",
+    "coords": [
+      5.9814,
+      49.4969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rue de l'Alzette",
+            "hu": "Rue de l'Alzette",
+            "ro": "Rue de l'Alzette",
+            "en": "Rue de l'Alzette"
+          },
+          "coords": [
+            5.982,
+            49.4955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés entlang der Fußgängerzone.",
+            "hu": "Kezdje a napot egy kávéval a sétálóutca egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe această stradă pietonală.",
+            "en": "Start your day with a coffee at one of the many cafés along the pedestrian street."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Joseph-Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint Joseph's Church"
+          },
+          "coords": [
+            5.9805,
+            49.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Buntglasfenster, die biblische Szenen darstellen.",
+            "hu": "Figyelje meg a bibliai jeleneteket ábrázoló lenyűgöző ólomüveg ablakokat.",
+            "ro": "Observați vitraliile impresionante care înfățișează scene biblice.",
+            "en": "Pay attention to the impressive stained-glass windows depicting biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Resistenzmuseum",
+            "hu": "Nemzeti Ellenállási Múzeum",
+            "ro": "Muzeul Național al Rezistenței",
+            "en": "National Museum of the Resistance"
+          },
+          "coords": [
+            5.979,
+            49.4975
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die detaillierten Ausstellungen über Luxemburg im Zweiten Weltkrieg ein.",
+            "hu": "Szánjon elegendő időt a Luxemburg második világháborús szerepét bemutató részletes kiállításokra.",
+            "ro": "Planificați suficient timp pentru expozițiile detaliate despre Luxemburg în Al Doilea Război Mondial.",
+            "en": "Plan enough time for the detailed exhibitions about Luxembourg during World War II."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaalgebierg-Park",
+            "hu": "Gaalgebierg Park",
+            "ro": "Parcul Gaalgebierg",
+            "en": "Gaalgebierg Park"
+          },
+          "coords": [
+            5.975,
+            49.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Es gibt einen Rosengarten und einen Tierpark.",
+            "hu": "Tökéletes hely egy ebédszünetre. Található itt rózsakert és egy kis állatkert is.",
+            "ro": "Perfect pentru o pauză de prânz. Parcul are o grădină de trandafiri și o mică grădină zoologică.",
+            "en": "Perfect for a lunch break. The park has a rose garden and a small animal park."
+          }
+        },
+        {
+          "name": {
+            "de": "Belval-Hochöfen",
+            "hu": "Belval kohói",
+            "ro": "Furnalul Belval",
+            "en": "Belval Blast Furnaces"
+          },
+          "coords": [
+            5.947,
+            49.501
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie am geführten Rundgang teil, um auf die Spitze des Hochofens zu gelangen – die Aussicht ist es wert.",
+            "hu": "Vegyen részt a vezetett túrán, hogy feljusson a nagyolvasztó tetejére – a kilátás megéri.",
+            "ro": "Participați la turul ghidat pentru a ajunge în vârful furnalului – priveliștea merită efortul.",
+            "en": "Take the guided tour to get to the top of the blast furnace – the view is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Esch beginnt im Herzen der Stadt, der belebten Einkaufsstraße Rue de l'Alzette. Nach einem kurzen Spaziergang erreichen Sie die neugotische Sankt-Joseph-Kirche. Der Vormittag ist der Geschichte gewidmet, mit einem tiefen Einblick in die luxemburgische Vergangenheit im Nationalen Resistenzmuseum. Zum Mittagessen und Entspannen geht es in den weitläufigen Gaalgebierg-Park, eine grüne Oase. Der Nachmittag steht im Zeichen des industriellen Erbes von Esch mit einem längeren Marsch zu den monumentalen Hochöfen von Belval, die einen Einblick in die Stahlgeschichte der Region geben. Der Tag endet mit einem Gefühl für die Verwandlung der Stadt von einem Industriezentrum zu einem kulturellen Hotspot.",
+        "hu": "Az eschi nap a város szívében, a nyüzsgő Rue de l'Alzette bevásárlóutcán kezdődik. Egy rövid séta után eléri a neogótikus Szent József-templomot. A délelőtt a történelemé, a Nemzeti Ellenállási Múzeumban mély betekintést nyerhet Luxemburg múltjába. Ebédre és pihenésre a tágas Gaalgebierg Park, egy zöld oázis felé veszi az irányt. A délután Esch ipari örökségéről szól egy hosszabb sétával a Belval monumentális kohóihoz, amelyek bepillantást engednek a régió acélgyártó történelmébe. A nap a város átalakulásának érzésével zárul, egy ipari központból kulturális csomóponttá válva.",
+        "ro": "Ziua dvs. în Esch începe în inima orașului, pe strada comercială plină de viață Rue de l'Alzette. După o scurtă plimbare, ajungeți la biserica neogotică Sfântul Iosif. Dimineața este dedicată istoriei, cu o incursiune profundă în trecutul Luxemburgului la Muzeul Național al Rezistenței. Pentru prânz și relaxare, vă îndreptați spre vastul Parc Gaalgebierg, o oază de verdeață. După-amiaza este dedicată moștenirii industriale a Esch-ului, cu o plimbare mai lungă spre furnalele monumentale din Belval, care oferă o privire asupra istoriei oțelului din regiune. Ziua se încheie cu sentimentul transformării orașului dintr-un centru industrial într-un punct cultural fierbinte.",
+        "en": "Your day in Esch begins in the heart of the city, the bustling Rue de l'Alzette shopping street. After a short walk, you'll reach the neo-Gothic Saint Joseph's Church. The morning is dedicated to history, with a deep dive into Luxembourg's past at the National Museum of the Resistance. For lunch and relaxation, head to the spacious Gaalgebierg Park, a green oasis. The afternoon is all about Esch's industrial heritage with a longer trek to the monumental Belval Blast Furnaces, offering a glimpse into the region's steel history. The day concludes with a sense of the city's transformation from an industrial hub to a cultural hotspot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Probieren Sie diese Kartoffelpuffer auf einem lokalen Markt oder Fest."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Eine herzhafte grüne Bohnensuppe, oft mit Kartoffeln und Speck serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Kóstolja meg ezeket a burgonyalepényeket egy helyi piacon vagy fesztiválon."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "Kiadós zöldbableves, gyakran krumplival és szalonnával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Încercați aceste clătite de cartofi la o piață locală sau un festival."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "O supă consistentă de fasole verde, adesea servită cu cartofi și slănină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gromperekichelcher",
+            "tip": "Try these potato pancakes at a local market or festival."
+          },
+          {
+            "name": "Bouneschlupp",
+            "tip": "A hearty green bean soup, often served with potatoes and bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten im Gaalgebierg",
+            "tip": "Ein friedlicher Ort, umgeben von duftenden Rosen, ideal für eine ruhige Pause.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Ufer der Alzette",
+            "tip": "Ein Spaziergang entlang des Flusses bietet eine entspannende Auszeit vom städtischen Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Gaalgebierg parkban",
+            "tip": "Békés hely, illatos rózsákkal körülvéve, ideális egy csendes pihenőhöz.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Az Alzette partja",
+            "tip": "A folyó menti séta pihentető kikapcsolódást nyújt a városi nyüzsgésből.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri din Gaalgebierg",
+            "tip": "Un loc pașnic înconjurat de trandafiri parfumați, ideal pentru o pauză liniștită.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Malurile râului Alzette",
+            "tip": "O plimbare de-a lungul râului oferă o evadare relaxantă din agitația orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in Gaalgebierg Park",
+            "tip": "A peaceful spot surrounded by fragrant roses, ideal for a quiet break.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Banks of the Alzette River",
+            "tip": "A walk along the river offers a relaxing escape from the city hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de l'Alzette",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus internationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Halten Sie Ausschau nach Wochenmärkten für frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de l'Alzette",
+            "tip": "A fő bevásárlóutca, ahol nemzetközi márkák és helyi üzletek keverednek."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keresse a hetipiacokat friss termékekért és helyi különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de l'Alzette",
+            "tip": "Principala stradă comercială cu un amestec de mărci internaționale și magazine locale."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Fiți atenți la piețele săptămânale pentru produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de l'Alzette",
+            "tip": "The main shopping street with a mix of international brands and local shops."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look out for weekly markets for fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Einige Wege im Park können uneben sein.",
+          "Der Weg nach Belval ist lang, nehmen Sie Wasser mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "Néhány ösvény a parkban egyenetlen lehet.",
+          "A Belvalba vezető út hosszú, vigyen magával vizet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați programul muzeului în avans.",
+          "Unele poteci din parc pot fi denivelate.",
+          "Drumul spre Belval este lung, luați apă cu voi."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the museum's opening hours in advance.",
+          "Some paths in the park can be uneven.",
+          "The walk to Belval is long, so bring water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rue de l'Alzette",
+            "hu": "Rue de l'Alzette",
+            "ro": "Rue de l'Alzette",
+            "en": "Rue de l'Alzette"
+          },
+          "coords": [
+            5.982,
+            49.4955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die Fußgängerzone, um die Atmosphäre aufzusaugen.",
+            "hu": "Tolja a kerékpárt a sétálóutcán, hogy magába szívja a hangulatot.",
+            "ro": "Împingeți bicicleta pe strada pietonală pentru a absorbi atmosfera.",
+            "en": "Push your bike through the pedestrian zone to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Joseph-Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint Joseph's Church"
+          },
+          "coords": [
+            5.9805,
+            49.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das beeindruckende Innere erkunden.",
+            "hu": "Biztonságosan zárja le a kerékpárját, mielőtt felfedezné a lenyűgöző belső teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora interiorul impresionant.",
+            "en": "Lock your bike securely before exploring the impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaalgebierg-Park",
+            "hu": "Gaalgebierg Park",
+            "ro": "Parcul Gaalgebierg",
+            "en": "Gaalgebierg Park"
+          },
+          "coords": [
+            5.975,
+            49.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Radwege im Park für eine entspannte Fahrt durch das Grüne.",
+            "hu": "Használja a park kerékpárútjait egy pihentető tekeréshez a zöldben.",
+            "ro": "Folosiți pistele de biciclete din parc pentru o plimbare relaxantă prin verdeață.",
+            "en": "Use the bike paths in the park for a relaxing ride through the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Resistenzmuseum",
+            "hu": "Nemzeti Ellenállási Múzeum",
+            "ro": "Muzeul Național al Rezistenței",
+            "en": "National Museum of the Resistance"
+          },
+          "coords": [
+            5.979,
+            49.4975
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
+            "hu": "A bejárat közelében kerékpártárolók találhatók.",
+            "ro": "Există suporturi pentru biciclete în apropierea intrării.",
+            "en": "There are bike racks available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Belval-Hochöfen",
+            "hu": "Belval kohói",
+            "ro": "Furnalul Belval",
+            "en": "Belval Blast Furnaces"
+          },
+          "coords": [
+            5.947,
+            49.501
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour nach Belval führt Sie durch das sich wandelnde Stadtbild von Esch.",
+            "hu": "A Belvalba vezető kerékpártúra Esch változó városképén vezet keresztül.",
+            "ro": "Traseul cu bicicleta spre Belval vă poartă prin peisajul urban în schimbare al Esch-ului.",
+            "en": "The bike ride to Belval takes you through Esch's changing urban landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Rockhal",
+            "hu": "Rockhal",
+            "ro": "Rockhal",
+            "en": "Rockhal"
+          },
+          "coords": [
+            5.9485,
+            49.5
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schauen Sie sich das Programm an, vielleicht findet abends ein Konzert statt, das Sie interessiert.",
+            "hu": "Nézze meg a programot, hátha este van egy koncert, ami érdekli.",
+            "ro": "Verificați programul, poate are loc un concert care vă interesează seara.",
+            "en": "Check the schedule, there might be a concert in the evening that interests you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern beginnt Ihr Esch-Abenteuer im Zentrum und führt Sie schnell zur Sankt-Joseph-Kirche. Von dort aus radeln Sie in den Gaalgebierg-Park, um die Natur zu genießen. Der Vormittag wird mit einem Besuch des geschichtsträchtigen Nationalen Resistenzmuseums fortgesetzt. Nach dieser Dosis Kultur schwingen Sie sich wieder auf den Sattel für die Fahrt nach Belval. Dort angekommen, erkunden Sie die beeindruckenden Hochöfen, Zeugen der industriellen Vergangenheit. Zum Abschluss des Tages werfen Sie einen Blick auf die Rockhal, das moderne musikalische Herz Luxemburgs, das einen starken Kontrast zum industriellen Erbe bildet.",
+        "hu": "Két keréken kezdődik az eschi kaland a központban, majd gyorsan eljut a Szent József-templomhoz. Onnan a Gaalgebierg parkba teker, hogy élvezze a természetet. A délelőtt a történelmi jelentőségű Nemzeti Ellenállási Múzeum meglátogatásával folytatódik. A kulturális feltöltődés után ismét nyeregbe pattan a Belval felé vezető útra. Ott felfedezi a lenyűgöző kohókat, az ipari múlt tanúit. A nap végén vet egy pillantást a Rockhalra, Luxemburg modern zenei szívére, amely erős kontrasztot alkot az ipari örökséggel.",
+        "ro": "Aventura dvs. pe două roți în Esch începe în centru și vă duce rapid la Biserica Sfântul Iosif. De acolo, pedalați spre Parcul Gaalgebierg pentru a vă bucura de natură. Dimineața continuă cu o vizită la Muzeul Național al Rezistenței, încărcat de istorie. După această doză de cultură, vă urcați din nou în șa pentru drumul spre Belval. Odată ajunși, explorați furnalele impresionante, martori ai trecutului industrial. La finalul zilei, aruncați o privire la Rockhal, inima muzicală modernă a Luxemburgului, care contrastează puternic cu moștenirea industrială.",
+        "en": "Your two-wheeled adventure in Esch starts in the center and quickly takes you to Saint Joseph's Church. From there, you'll cycle to Gaalgebierg Park to enjoy nature. The morning continues with a visit to the historic National Museum of the Resistance. After this dose of culture, you get back in the saddle for the ride to Belval. Once there, you'll explore the impressive blast furnaces, witnesses of the industrial past. To end the day, take a look at the Rockhal, Luxembourg's modern musical heart, which provides a stark contrast to the industrial heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Eine Fleischpastete in Teig mit Riesling-Gelee, ideal für ein Picknick."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Ein gekochter Käse, der oft mit Senf auf Brot serviert wird – ein Muss für Käseliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "Húspástétom tésztában, rizlingzselével, ideális piknikhez."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "Főtt sajt, amelyet gyakran mustárral, kenyéren tálalnak – kötelező a sajtok kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "O plăcintă cu carne în aluat cu jeleu de Riesling, ideală pentru un picnic."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "O brânză gătită, adesea servită cu muștar pe pâine – un deliciu pentru iubitorii de brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rieslingspaschtéit",
+            "tip": "A meat pie in pastry with Riesling jelly, ideal for a picnic."
+          },
+          {
+            "name": "Kachkéis",
+            "tip": "A cooked cheese often served with mustard on bread – a must-try for cheese lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tierpark Escher Déierepark",
+            "tip": "Ein ruhiger Spaziergang durch den kleinen Zoo im Gaalgebierg-Park.",
+            "emoji": "🐾"
+          },
+          {
+            "name": "Aussichtsplattform Hochofen Belval",
+            "tip": "Genießen Sie die Stille und den Panoramablick über die Region.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Escher Déierepark Állatkert",
+            "tip": "Egy csendes séta a Gaalgebierg park kis állatkertjében.",
+            "emoji": "🐾"
+          },
+          {
+            "name": "Belval kilátóterasz",
+            "tip": "Élvezze a csendet és a panorámás kilátást a régióra.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Zoologică Escher Déierepark",
+            "tip": "O plimbare liniștită prin mica grădină zoologică din Parcul Gaalgebierg.",
+            "emoji": "🐾"
+          },
+          {
+            "name": "Platforma de observare a furnalului Belval",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra regiunii.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Escher Déierepark Zoo",
+            "tip": "A quiet walk through the small zoo in Gaalgebierg Park.",
+            "emoji": "🐾"
+          },
+          {
+            "name": "Belval Blast Furnace Observation Deck",
+            "tip": "Enjoy the silence and the panoramic view over the region.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe der Hochöfen mit vielen Geschäften und Restaurants."
+          },
+          {
+            "name": "Velo-Geschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Modern bevásárlóközpont a kohók közelében, számos üzlettel és étteremmel."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belval Plaza",
+            "tip": "Un centru comercial modern lângă furnale, cu multe magazine și restaurante."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belval Plaza",
+            "tip": "A modern shopping center near the blast furnaces with many shops and restaurants."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick repair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Einige Strecken können Steigungen aufweisen.",
+          "Prüfen Sie den Luftdruck Ihrer Reifen vor der Abfahrt.",
+          "Der Radweg nach Belval ist gut ausgebaut."
+        ],
+        "hu": [
+          "Hozzon magával egy jó kerékpárzárat.",
+          "Néhány szakasz emelkedőket tartalmazhat.",
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "A Belvalba vezető kerékpárút jól kiépített."
+        ],
+        "ro": [
+          "Luați cu voi un antifurt bun pentru bicicletă.",
+          "Unele secțiuni pot avea pante.",
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Pista de biciclete spre Belval este bine dezvoltată."
+        ],
+        "en": [
+          "Bring a good bike lock.",
+          "Some sections may have inclines.",
+          "Check your tire pressure before you leave.",
+          "The bike path to Belval is well-developed."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum",
+            "hu": "Parkolóház a központban",
+            "ro": "Parcare centrală",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            5.984,
+            49.4965
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Stadtzentrum bequem zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy kényelmesen felfedezhesse a városközpontot gyalog.",
+            "ro": "Parcați aici pentru a explora centrul orașului confortabil pe jos.",
+            "en": "Park here to comfortably explore the city center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue de l'Alzette",
+            "hu": "Rue de l'Alzette",
+            "ro": "Rue de l'Alzette",
+            "en": "Rue de l'Alzette"
+          },
+          "coords": [
+            5.982,
+            49.4955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Bummel durch die Hauptschlagader der Stadt.",
+            "hu": "Élvezze a sétát a város fő ütőerén.",
+            "ro": "Bucurați-vă de o plimbare pe artera principală a orașului.",
+            "en": "Enjoy a stroll down the city's main artery."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Joseph-Kirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sfântul Iosif",
+            "en": "Saint Joseph's Church"
+          },
+          "coords": [
+            5.9805,
+            49.4945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Einkaufsstraße entfernt, ein Ort der Ruhe.",
+            "hu": "Csak egy rövid sétára a bevásárlóutcától, a nyugalom szigete.",
+            "ro": "La doar o scurtă plimbare de strada comercială, un loc de liniște.",
+            "en": "Just a short walk from the shopping street, a place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Resistenzmuseum",
+            "hu": "Nemzeti Ellenállási Múzeum",
+            "ro": "Muzeul Național al Rezistenței",
+            "en": "National Museum of the Resistance"
+          },
+          "coords": [
+            5.979,
+            49.4975
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, das die Besatzungszeit beleuchtet.",
+            "hu": "Kötelező a történelem iránt érdeklődőknek, bemutatja a megszállás időszakát.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie, care aruncă lumină asupra perioadei de ocupație.",
+            "en": "A must-visit for history enthusiasts, shedding light on the period of occupation."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaalgebierg-Park",
+            "hu": "Gaalgebierg Park",
+            "ro": "Parcul Gaalgebierg",
+            "en": "Gaalgebierg Park"
+          },
+          "coords": [
+            5.975,
+            49.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Park und genießen Sie einen ausgedehnten Spaziergang.",
+            "hu": "Hajtson a park melletti parkolóba, és élvezzen egy kiadós sétát.",
+            "ro": "Conduceți până la parcarea de lângă parc și bucurați-vă de o plimbare lungă.",
+            "en": "Drive to the parking lot by the park and enjoy an extensive walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Belval-Hochöfen",
+            "hu": "Belval kohói",
+            "ro": "Furnalul Belval",
+            "en": "Belval Blast Furnaces"
+          },
+          "coords": [
+            5.947,
+            49.501
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Autoweg bringt Sie zu diesem beeindruckenden Industriedenkmal.",
+            "hu": "Egy rövid autóút vezet ehhez a lenyűgöző ipari műemlékhez.",
+            "ro": "Un drum scurt cu mașina vă duce la acest monument industrial impresionant.",
+            "en": "A short drive takes you to this impressive industrial monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Rockhal",
+            "hu": "Rockhal",
+            "ro": "Rockhal",
+            "en": "Rockhal"
+          },
+          "coords": [
+            5.9485,
+            49.5
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Liegt direkt neben den Hochöfen, ein Symbol für den Wandel von Industrie zu Kultur.",
+            "hu": "Közvetlenül a kohók mellett található, az iparból a kultúrába való átmenet szimbóluma.",
+            "ro": "Situat chiar lângă furnale, un simbol al tranziției de la industrie la cultură.",
+            "en": "Located right next to the blast furnaces, a symbol of the transition from industry to culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Esch flexibel. Starten Sie mit dem Parken im Zentrum, um den ersten Cluster zu Fuß zu erkunden: die Rue de l'Alzette, die Sankt-Joseph-Kirche und das aufschlussreiche Resistenzmuseum. Gegen Mittag fahren Sie zum zweiten Cluster, dem Gaalgebierg-Park, ideal für eine Pause im Grünen. Der Nachmittag führt Sie dann zum dritten Cluster, dem Belval-Viertel. Dort parken Sie erneut und entdecken zu Fuß das industrielle Erbe bei den Hochöfen und den modernen Puls der Stadt in der Rockhal. Diese Tour kombiniert kurze Autofahrten zwischen den Vierteln mit entspannten Spaziergängen vor Ort.",
+        "hu": "Autóval rugalmasan fedezheti fel Esch-t. Kezdje a parkolással a központban, hogy gyalogosan fedezze fel az első látnivalócsoportot: a Rue de l'Alzette-t, a Szent József-templomot és a tanulságos Ellenállási Múzeumot. Dél körül autózzon a második csoporthoz, a Gaalgebierg parkhoz, amely ideális egy zöldövezeti pihenőhöz. A délután a harmadik csoporthoz, a Belval negyedhez vezet. Ott ismét parkoljon, és fedezze fel gyalog az ipari örökséget a kohóknál és a város modern lüktetését a Rockhalban. Ez a túra rövid autóutakat kombinál a negyedek között, helyi, pihentető sétákkal.",
+        "ro": "Cu mașina, explorați Esch în mod flexibil. Începeți prin a parca în centru pentru a explora primul grup de atracții pe jos: Rue de l'Alzette, Biserica Sfântul Iosif și Muzeul Rezistenței. În jurul prânzului, conduceți spre al doilea grup, Parcul Gaalgebierg, ideal pentru o pauză în natură. După-amiaza vă duce la al treilea grup, cartierul Belval. Acolo, parcați din nou și descoperiți pe jos moștenirea industrială la furnale și pulsul modern al orașului la Rockhal. Acest tur combină călătorii scurte cu mașina între cartiere cu plimbări relaxante la fața locului.",
+        "en": "Exploring Esch by car offers great flexibility. Start by parking in the center to explore the first cluster on foot: Rue de l'Alzette, Saint Joseph's Church, and the insightful Resistance Museum. Around noon, drive to the second cluster, Gaalgebierg Park, perfect for a green break. The afternoon takes you to the third cluster, the Belval district. Park again and discover the industrial heritage at the blast furnaces and the city's modern pulse at the Rockhal on foot. This tour combines short car trips between districts with relaxed local walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Geräucherter Schweinehals mit Saubohnen, Luxemburgs Nationalgericht."
+          },
+          {
+            "name": "Brasserie K116",
+            "tip": "Ein stilvolles Restaurant in einem alten Schlachthaus, das moderne Küche anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Füstölt sertésnyak lóbabbal, Luxemburg nemzeti étele."
+          },
+          {
+            "name": "Brasserie K116",
+            "tip": "Stílusos étterem egy régi vágóhídban, amely modern konyhát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Ceafă de porc afumată cu bob, mâncarea națională a Luxemburgului."
+          },
+          {
+            "name": "Brasserie K116",
+            "tip": "Un restaurant elegant într-un fost abator, care oferă bucătărie modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Judd mat Gaardebounen",
+            "tip": "Smoked pork collar with broad beans, Luxembourg's national dish."
+          },
+          {
+            "name": "Brasserie K116",
+            "tip": "A stylish restaurant in an old slaughterhouse, offering modern cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berwart-Turm",
+            "tip": "Ein verstecktes historisches Juwel im Park, das Ruhe und einen Hauch von Geschichte bietet.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Spaziergang am Abend in Belval",
+            "tip": "Die beleuchteten Hochöfen schaffen eine einzigartige, fast surreale Atmosphäre.",
+            "emoji": "🌃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berwart-torony",
+            "tip": "Rejtett történelmi gyöngyszem a parkban, nyugalmat és egy csipetnyi történelmet kínál.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Esti séta Belvalban",
+            "tip": "A kivilágított kohók egyedi, szinte szürreális hangulatot teremtenek.",
+            "emoji": "🌃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Berwart",
+            "tip": "O bijuterie istorică ascunsă în parc, oferind liniște și o notă de istorie.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Plimbare de seară în Belval",
+            "tip": "Furnalele iluminate creează o atmosferă unică, aproape suprarealistă.",
+            "emoji": "🌃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Berwart Tower",
+            "tip": "A hidden historical gem in the park, offering tranquility and a touch of history.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Evening walk in Belval",
+            "tip": "The illuminated blast furnaces create a unique, almost surreal atmosphere.",
+            "emoji": "🌃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cactus Supermarkt",
+            "tip": "Eine lokale Kette, in der Sie luxemburgische Produkte als Souvenirs finden können."
+          },
+          {
+            "name": "Fromages & Vins",
+            "tip": "Ein Fachgeschäft für Käse und Wein, um lokale Delikatessen zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cactus szupermarket",
+            "tip": "Helyi lánc, ahol luxemburgi termékeket találhat szuvenírként."
+          },
+          {
+            "name": "Fromages & Vins",
+            "tip": "Sajt- és borszaküzlet, ahol helyi finomságokat kóstolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketul Cactus",
+            "tip": "Un lanț local unde puteți găsi produse luxemburgheze ca suveniruri."
+          },
+          {
+            "name": "Fromages & Vins",
+            "tip": "Un magazin specializat în brânzeturi și vinuri pentru a degusta delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cactus Supermarket",
+            "tip": "A local chain where you can find Luxembourgish products as souvenirs."
+          },
+          {
+            "name": "Fromages & Vins",
+            "tip": "A specialty cheese and wine shop to taste local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können variieren, halten Sie Münzen bereit.",
+          "Planen Sie Ihre Route zwischen den Clustern, um Verkehr zu vermeiden.",
+          "Achten Sie auf Parkbeschränkungen und -zonen.",
+          "Das Auto gibt Ihnen die Freiheit, auch Orte außerhalb des Zentrums leicht zu erreichen."
+        ],
+        "hu": [
+          "A parkolási díjak változhatnak, tartson magánál aprópénzt.",
+          "Tervezze meg az útvonalat a klaszterek között a forgalom elkerülése érdekében.",
+          "Ügyeljen a parkolási korlátozásokra és zónákra.",
+          "Az autó szabadságot ad, hogy a központon kívüli helyeket is könnyen elérje."
+        ],
+        "ro": [
+          "Taxele de parcare pot varia, pregătiți monede.",
+          "Planificați-vă ruta între grupuri pentru a evita traficul.",
+          "Fiți atenți la restricțiile și zonele de parcare.",
+          "Mașina vă oferă libertatea de a ajunge cu ușurință în locuri din afara centrului."
+        ],
+        "en": [
+          "Parking fees can vary, have coins ready.",
+          "Plan your route between clusters to avoid traffic.",
+          "Pay attention to parking restrictions and zones.",
+          "The car gives you the freedom to easily reach places outside the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Esch-sur-Alzette Bahnhof",
+            "hu": "Esch-sur-Alzette vasútállomás",
+            "ro": "Gara Esch-sur-Alzette",
+            "en": "Esch-sur-Alzette train station"
+          },
+          "coords": [
+            5.985,
+            49.493
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um die Stadt mit öffentlichen Verkehrsmitteln zu erkunden.",
+            "hu": "Tökéletes kiindulópont a város tömegközlekedéssel történő felfedezéséhez.",
+            "ro": "Punctul de plecare perfect pentru a explora orașul cu transportul public.",
+            "en": "The perfect starting point for exploring the city by public transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue de l'Alzette",
+            "hu": "Rue de l'Alzette",
+            "ro": "Rue de l'Alzette",
+            "en": "Rue de l'Alzette"
+          },
+          "coords": [
+            5.982,
+            49.4955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Az állomásról gyalog könnyen megközelíthető.",
+            "ro": "Ușor de accesat pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Resistenzmuseum",
+            "hu": "Nemzeti Ellenállási Múzeum",
+            "ro": "Muzeul Național al Rezistenței",
+            "en": "National Museum of the Resistance"
+          },
+          "coords": [
+            5.979,
+            49.4975
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Innenstadt führt Sie zu diesem wichtigen Museum.",
+            "hu": "Egy rövid séta a belvároson keresztül elvezeti ehhez a fontos múzeumhoz.",
+            "ro": "O scurtă plimbare prin centrul orașului vă duce la acest muzeu important.",
+            "en": "A short walk through the city center takes you to this important museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Belval-Université",
+            "hu": "Belval-Université vasútállomás",
+            "ro": "Gara Belval-Université",
+            "en": "Belval-Université train station"
+          },
+          "coords": [
+            5.949,
+            49.502
+          ],
+          "category": "transport",
+          "arrive_at": "11:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug vom Hauptbahnhof Esch, um schnell nach Belval zu gelangen.",
+            "hu": "Vonattal utazzon Esch főpályaudvaráról, hogy gyorsan eljusson Belvalba.",
+            "ro": "Luați trenul de la gara principală din Esch pentru a ajunge rapid la Belval.",
+            "en": "Take the train from Esch main station to get to Belval quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Belval-Hochöfen",
+            "hu": "Belval kohói",
+            "ro": "Furnalul Belval",
+            "en": "Belval Blast Furnaces"
+          },
+          "coords": [
+            5.947,
+            49.501
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Hochöfen sind vom Bahnhof Belval aus nicht zu übersehen.",
+            "hu": "A kohókat nem lehet eltéveszteni a Belval állomásról.",
+            "ro": "Furnalele sunt imposibil de ratat de la gara Belval.",
+            "en": "The blast furnaces are impossible to miss from Belval station."
+          }
+        },
+        {
+          "name": {
+            "de": "Gaalgebierg-Park",
+            "hu": "Gaalgebierg Park",
+            "ro": "Parcul Gaalgebierg",
+            "en": "Gaalgebierg Park"
+          },
+          "coords": [
+            5.975,
+            49.501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von Belval zurück ins Zentrum und steigen Sie in der Nähe des Parks aus.",
+            "hu": "Busszal utazzon vissza Belvalból a központba, és szálljon le a park közelében.",
+            "ro": "Luați un autobuz din Belval înapoi în centru și coborâți lângă parc.",
+            "en": "Take a bus from Belval back to the center and get off near the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln startet am Bahnhof Esch. Von hier aus ist es nur ein kurzer Fußweg zum ersten Cluster: der Rue de l'Alzette und dem Nationalen Resistenzmuseum. Am späten Vormittag nehmen Sie den Zug nach Belval, dem zweiten Cluster. Dort tauchen Sie in die industrielle Vergangenheit bei den Hochöfen ein. Nach diesem Erlebnis fahren Sie mit dem Bus zum dritten und letzten Cluster des Tages, dem Gaalgebierg-Park. Hier können Sie sich entspannen und die Natur genießen, bevor Sie zum Bahnhof zurückkehren. Diese Route optimiert die Nutzung des ausgezeichneten öffentlichen Verkehrsnetzes von Luxemburg.",
+        "hu": "A tömegközlekedési túra az eschi vasútállomáson kezdődik. Innen csak egy rövid séta az első látnivalócsoport: a Rue de l'Alzette és a Nemzeti Ellenállási Múzeum. Késő délelőtt vonattal utazik Belvalba, a második csoporthoz. Ott elmerülhet az ipari múltban a kohóknál. Ezt az élményt követően busszal utazik a nap harmadik és egyben utolsó csoportjához, a Gaalgebierg parkhoz. Itt pihenhet és élvezheti a természetet, mielőtt visszatérne az állomásra. Ez az útvonal optimalizálja Luxemburg kiváló tömegközlekedési hálózatának használatát.",
+        "ro": "Turul dvs. cu transportul public începe la gara din Esch. De aici, este doar o scurtă plimbare până la primul grup de atracții: Rue de l'Alzette și Muzeul Național al Rezistenței. Spre sfârșitul dimineții, luați trenul spre Belval, al doilea grup. Acolo, vă veți cufunda în trecutul industrial la furnale. După această experiență, luați autobuzul spre al treilea și ultimul grup al zilei, Parcul Gaalgebierg. Aici vă puteți relaxa și bucura de natură înainte de a vă întoarce la gară. Acest traseu optimizează utilizarea rețelei excelente de transport public din Luxemburg.",
+        "en": "Your public transport tour starts at the Esch train station. From here, it's just a short walk to the first cluster: Rue de l'Alzette and the National Museum of the Resistance. In the late morning, you take the train to Belval, the second cluster. There, you'll dive into the industrial past at the blast furnaces. After this experience, you take a bus to the third and final cluster of the day, Gaalgebierg Park. Here you can relax and enjoy nature before returning to the station. This route optimizes the use of Luxembourg's excellent public transport network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thüringer",
+            "tip": "Eine Art Bratwurst, die auf der Straße oder in einfachen Restaurants verkauft wird."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Ein Pflaumenkuchen, der besonders im Spätsommer beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thüringer",
+            "tip": "Egyfajta sült kolbász, amelyet az utcán vagy egyszerű éttermekben árulnak."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "Szilvás pite, amely különösen a nyár végén népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thüringer",
+            "tip": "Un tip de cârnat prăjit, vândut pe stradă sau în restaurante simple."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "O tartă cu prune, populară în special la sfârșitul verii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thüringer",
+            "tip": "A type of bratwurst sold on the street or in simple restaurants."
+          },
+          {
+            "name": "Quetschentaart",
+            "tip": "A plum tart that is especially popular in late summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseratten im Park",
+            "tip": "Finden Sie eine ruhige Bank im Gaalgebierg-Park und lesen Sie ein Buch.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Fensterplatz im Zug",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft auf der kurzen Fahrt nach Belval.",
+            "emoji": "🚆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvmolyok a parkban",
+            "tip": "Keressen egy csendes padot a Gaalgebierg parkban, és olvasson egy könyvet.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Ablak melletti hely a vonaton",
+            "tip": "Élvezze az elsuhanó tájat a rövid vonatút során Belvalba.",
+            "emoji": "🚆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Citind în parc",
+            "tip": "Găsiți o bancă liniștită în Parcul Gaalgebierg și citiți o carte.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Loc la fereastră în tren",
+            "tip": "Bucurați-vă de peisajul care trece în timpul scurtei călătorii cu trenul spre Belval.",
+            "emoji": "🚆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookworms in the park",
+            "tip": "Find a quiet bench in Gaalgebierg Park and read a book.",
+            "emoji": "📖"
+          },
+          {
+            "name": "Window seat on the train",
+            "tip": "Enjoy the passing scenery on the short train ride to Belval.",
+            "emoji": "🚆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Kaufen Sie Zeitschriften oder einen schnellen Snack für die Fahrt."
+          },
+          {
+            "name": "Uni-Shop in Belval",
+            "tip": "Finden Sie Souvenirs der Universität Luxemburg in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Vásároljon magazinokat vagy egy gyors harapnivalót az útra."
+          },
+          {
+            "name": "Egyetemi bolt Belvalban",
+            "tip": "Keressen a Luxemburgi Egyetem szuvenírjeit az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Cumpărați reviste sau o gustare rapidă pentru călătorie."
+          },
+          {
+            "name": "Magazinul universitar din Belval",
+            "tip": "Găsiți suveniruri de la Universitatea din Luxemburg lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station kiosk",
+            "tip": "Buy magazines or a quick snack for the ride."
+          },
+          {
+            "name": "University shop in Belval",
+            "tip": "Find souvenirs from the University of Luxembourg near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Luxemburg sind alle öffentlichen Verkehrsmittel kostenlos!",
+          "Laden Sie die 'mobiliteit.lu' App für Fahrpläne herunter.",
+          "Achten Sie auf die Zug- und Busnummern, um die richtige Verbindung zu finden.",
+          "Die Züge nach Belval fahren regelmäßig."
+        ],
+        "hu": [
+          "Luxemburgban minden tömegközlekedési eszköz ingyenes!",
+          "Töltse le a 'mobiliteit.lu' alkalmazást a menetrendekért.",
+          "Figyeljen a vonat- és buszszámokra, hogy megtalálja a megfelelő járatot.",
+          "A Belvalba tartó vonatok rendszeresen közlekednek."
+        ],
+        "ro": [
+          "În Luxemburg, tot transportul public este gratuit!",
+          "Descărcați aplicația 'mobiliteit.lu' pentru orare.",
+          "Fiți atenți la numerele trenurilor și autobuzelor pentru a găsi legătura corectă.",
+          "Trenurile spre Belval circulă regulat."
+        ],
+        "en": [
+          "In Luxembourg, all public transport is free!",
+          "Download the 'mobiliteit.lu' app for schedules.",
+          "Pay attention to the train and bus numbers to find the right connection.",
+          "The trains to Belval run regularly."
+        ]
+      }
+    }
+  }
+}

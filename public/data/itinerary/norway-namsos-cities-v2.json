@@ -1,0 +1,1143 @@
+{
+  "city_id": "norway-namsos-cities-v2",
+  "anchor": {
+    "name": "Namsos",
+    "coords": [
+      11.49,
+      64.46
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Namsos",
+            "hu": "Namsos kikötője",
+            "ro": "Portul Namsos",
+            "en": "Namsos Harbour"
+          },
+          "coords": [
+            11.495,
+            64.465
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote und genießen Sie die frische Meeresbrise.",
+            "hu": "Figyeld a halászhajókat és élvezd a friss tengeri szellőt.",
+            "ro": "Urmăriți bărcile pescarilor și bucurați-vă de briza proaspătă a mării.",
+            "en": "Watch the fishing boats and enjoy the fresh sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Sjöfartsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            11.498,
+            64.467
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des Bootsbaus und der Schifffahrt in der Region.",
+            "hu": "Ismerd meg a régió gazdag hajóépítő és tengerészeti történelmét.",
+            "ro": "Descoperiți istoria bogată a construcțiilor navale și a navigației din regiune.",
+            "en": "Discover the rich history of boat building and shipping in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Namsos Kirche",
+            "hu": "Namsos-templom",
+            "ro": "Biserica din Namsos",
+            "en": "Namsos Church"
+          },
+          "coords": [
+            11.505,
+            64.468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige moderne Architektur und das markante Backsteindesign.",
+            "hu": "Csodáld meg az egyedi modern építészetet és a jellegzetes tégladizájnt.",
+            "ro": "Admirați arhitectura modernă unică și designul distinctiv din cărămidă.",
+            "en": "Admire the unique modern architecture and distinctive brick design."
+          }
+        },
+        {
+          "name": {
+            "de": "Namdalsmuseet",
+            "hu": "Namdal Múzeum",
+            "ro": "Muzeul Namdal",
+            "en": "Namdal Museum"
+          },
+          "coords": [
+            11.515,
+            64.472
+          ],
+          "category": "museums",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum, das das Leben in der Region Namdalen vom 17. Jahrhundert bis heute zeigt.",
+            "hu": "Szabadtéri múzeum, amely a Namdalen régió életét mutatja be a 17. századtól napjainkig.",
+            "ro": "Un muzeu în aer liber ce prezintă viața în regiunea Namdalen din secolul al XVII-lea până astăzi.",
+            "en": "An open-air museum showcasing life in the Namdalen region from the 17th century to today."
+          }
+        },
+        {
+          "name": {
+            "de": "Rock City",
+            "hu": "Rock City",
+            "ro": "Rock City",
+            "en": "Rock City"
+          },
+          "coords": [
+            11.513,
+            64.471
+          ],
+          "category": "museums",
+          "arrive_at": "14:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Geschichte des Trønder-Rock und interaktive Ausstellungen.",
+            "hu": "Ismerd meg a Trønder-rock történetét interaktív kiállításokon keresztül.",
+            "ro": "Experimentați istoria rockului Trønder și expozițiile interactive.",
+            "en": "Experience the history of Trønder rock and interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasen Schwimmbad",
+            "hu": "Oasen Uszoda",
+            "ro": "Piscina Oasen",
+            "en": "Oasen Swimming Pool"
+          },
+          "coords": [
+            11.5,
+            64.475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen nach einem langen Spaziergang, mit Rutschen und Saunen.",
+            "hu": "Tökéletes hely a pihenésre egy hosszú séta után, csúszdákkal és szaunákkal.",
+            "ro": "Un loc perfect pentru relaxare după o plimbare lungă, cu tobogane și saune.",
+            "en": "A perfect place to relax after a long walk, with slides and saunas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der salzigen Luft am Hafen von Namsos. Spazieren Sie zum Maritimen Museum und der modernen Kirche, die das Stadtbild prägt. Am Nachmittag tauchen Sie in die lokale Kultur im Freilichtmuseum Namdalsmuseet und im Rock City ein. Schließen Sie den Tag mit einem entspannenden Bad im Oasen Schwimmbad ab und genießen Sie die ruhige Atmosphäre der Stadt.",
+        "hu": "Kezdje a napot a sós levegővel Namsos kikötőjében. Sétáljon el a Tengerészeti Múzeumhoz és a városképet meghatározó modern templomhoz. Délután merüljön el a helyi kultúrában a Namdalsmuseet skanzenben és a Rock Cityben. Zárja a napot egy pihentető fürdőzéssel az Oasen uszodában, élvezve a város nyugodt hangulatát.",
+        "ro": "Începeți ziua cu aerul sărat din portul Namsos. Plimbați-vă la Muzeul Maritim și la biserica modernă care definește peisajul urban. După-amiaza, scufundați-vă în cultura locală la muzeul în aer liber Namdalsmuseet și la Rock City. Încheiați ziua cu o baie relaxantă la piscina Oasen, bucurându-vă de atmosfera liniștită a orașului.",
+        "en": "Start your day with the salty air at Namsos Harbour. Stroll to the Maritime Museum and the modern church that defines the cityscape. In the afternoon, immerse yourself in local culture at the Namdalsmuseet open-air museum and Rock City. End the day with a relaxing dip at the Oasen Swimming Pool, enjoying the town's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachs aus dem Namsen",
+            "tip": "Probieren Sie frisch gefangenen Lachs, der im Fluss Namsen heimisch ist, in einem der örtlichen Restaurants."
+          },
+          {
+            "name": "Tørrfisk",
+            "tip": "Getrockneter Kabeljau, eine norwegische Delikatesse, die oft als Snack oder in Eintöpfen serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazac a Namsen folyóból",
+            "tip": "Kóstold meg a frissen fogott lazacot a Namsen folyóból egy helyi étteremben."
+          },
+          {
+            "name": "Tørrfisk",
+            "tip": "Szárított tőkehal, egy norvég csemege, amelyet gyakran snackként vagy ragukban szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon din râul Namsen",
+            "tip": "Încercați somon proaspăt prins, nativ din râul Namsen, la unul dintre restaurantele locale."
+          },
+          {
+            "name": "Tørrfisk",
+            "tip": "Cod uscat, o delicatesă norvegiană, adesea servită ca gustare sau în tocănițe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon from the Namsen river",
+            "tip": "Try freshly caught salmon, native to the Namsen river, at one of the local restaurants."
+          },
+          {
+            "name": "Tørrfisk",
+            "tip": "Dried cod, a Norwegian delicacy, often served as a snack or in stews."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Namsen bietet eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hafenkai am Abend",
+            "tip": "Der Hafen wird am Abend ruhig und bietet einen friedlichen Blick auf das Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Egy csendes séta a Namsen folyó mentén pihentető kikapcsolódást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kikötő este",
+            "tip": "A kikötő estére elcsendesedik, békés kilátást nyújtva a vízre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "O plimbare liniștită de-a lungul râului Namsen oferă o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cheiul portului seara",
+            "tip": "Portul devine tăcut seara, oferind o priveliște pașnică asupra apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank walk",
+            "tip": "A quiet stroll along the Namsen river offers a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harbour quay in the evening",
+            "tip": "The harbour gets quiet in the evening, offering a peaceful view over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie in den kleinen Läden im Zentrum nach handgefertigten Wollwaren und Holzschnitzereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keress kézzel készített gyapjúárut és fafaragásokat a központ kis üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de artizanat local",
+            "tip": "Căutați articole din lână și sculpturi în lemn realizate manual în magazinele mici din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Look for handmade woolen goods and wood carvings in the small shops in the centre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese saisonal variieren können.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel egész nap talpon leszel.",
+          "Ellenőrizd előre a múzeumok nyitvatartási idejét, mert szezonálisan változhat.",
+          "Egy újratölthető vizes palack praktikus, hogy hidratált maradj."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi în picioare toată ziua.",
+          "Verificați în prealabil orele de deschidere ale muzeelor, deoarece acestea pot varia sezonier.",
+          "O sticlă de apă reutilizabilă este la îndemână pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Check museum opening times in advance as they can vary seasonally.",
+          "A reusable water bottle is handy to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fredriksberg Ruinen",
+            "hu": "Fredriksberg romjai",
+            "ro": "Ruinele Fredriksberg",
+            "en": "Fredriksberg Ruins"
+          },
+          "coords": [
+            11.48,
+            64.46
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser alten Befestigungsanlage und genießen Sie die Aussicht.",
+            "hu": "Fedezd fel ennek az ősi erődítménynek a maradványait, és élvezd a kilátást.",
+            "ro": "Explorați rămășițele acestei vechi fortificații și bucurați-vă de priveliște.",
+            "en": "Explore the remains of this ancient fortification and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Namsos",
+            "hu": "Namsos kikötője",
+            "ro": "Portul Namsos",
+            "en": "Namsos Harbour"
+          },
+          "coords": [
+            11.495,
+            64.465
+          ],
+          "category": "port",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause und beobachten Sie das Kommen und Gehen am Wasser.",
+            "hu": "Tarts egy rövid szünetet és figyeld a kikötő nyüzsgését.",
+            "ro": "Faceți o scurtă pauză și priviți agitația de pe malul apei.",
+            "en": "Take a short break and watch the comings and goings on the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Namsos Kirche",
+            "hu": "Namsos-templom",
+            "ro": "Biserica din Namsos",
+            "en": "Namsos Church"
+          },
+          "coords": [
+            11.505,
+            64.468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die moderne Architektur ist aus jedem Blickwinkel ein beeindruckender Anblick.",
+            "hu": "A modern építészet minden szögből lenyűgöző látványt nyújt.",
+            "ro": "Arhitectura modernă este o priveliște impresionantă din orice unghi.",
+            "en": "The modern architecture is an impressive sight from any angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Namdalsmuseet",
+            "hu": "Namdal Múzeum",
+            "ro": "Muzeul Namdal",
+            "en": "Namdal Museum"
+          },
+          "coords": [
+            11.515,
+            64.472
+          ],
+          "category": "museums",
+          "arrive_at": "11:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich Zeit, die historischen Gebäude zu erkunden.",
+            "hu": "Parkold le a biciklidet, és szánj időt a történelmi épületek felfedezésére.",
+            "ro": "Parcați bicicleta și acordați-vă timp pentru a explora clădirile istorice.",
+            "en": "Park your bike and take your time to explore the historical buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Rock City",
+            "hu": "Rock City",
+            "ro": "Rock City",
+            "en": "Rock City"
+          },
+          "coords": [
+            11.513,
+            64.471
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich nebenan – ein Muss für jeden Musikliebhaber.",
+            "hu": "Rögtön a szomszédban – minden zenerajongónak kötelező.",
+            "ro": "Chiar alături - o vizită obligatorie pentru orice iubitor de muzică.",
+            "en": "Right next door – a must-visit for any music lover."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasen Schwimmbad",
+            "hu": "Oasen Uszoda",
+            "ro": "Piscina Oasen",
+            "en": "Oasen Swimming Pool"
+          },
+          "coords": [
+            11.5,
+            64.475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine erfrischende Abwechslung nach der Radtour.",
+            "hu": "Frissítő változatosság a biciklitúra után.",
+            "ro": "O pauză răcoritoare după turul cu bicicleta.",
+            "en": "A refreshing change of pace after the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bjørumsklumpen",
+            "hu": "Bjørumsklumpen",
+            "ro": "Bjørumsklumpen",
+            "en": "Bjørumsklumpen"
+          },
+          "coords": [
+            11.53,
+            64.46
+          ],
+          "category": "natural features",
+          "arrive_at": "15:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die letzte Anstrengung lohnt sich für den Panoramablick über die Stadt und den Fjord.",
+            "hu": "Az utolsó erőfeszítés megéri a panorámás kilátásért a városra és a fjordra.",
+            "ro": "Efortul final merită pentru vederea panoramică asupra orașului și fiordului.",
+            "en": "The final effort is worth it for the panoramic view over the city and the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch Namsos. Beginnen Sie bei den historischen Ruinen von Fredriksberg und radeln Sie dann zum belebten Hafen. Erkunden Sie das Zentrum mit seiner markanten Kirche, bevor Sie den Hügel zu den Museen Namdalsmuseet und Rock City erklimmen. Nach einer erfrischenden Pause im Oasen-Bad beenden Sie den Tag mit einer anspruchsvollen, aber lohnenden Fahrt zum Aussichtspunkt Bjørumsklumpen.",
+        "hu": "Pattanj biciklire egy namsosi túrához. Kezdd a történelmi Fredriksberg romjainál, majd tekerj el a nyüzsgő kikötőbe. Fedezd fel a központot a jellegzetes templomával, mielőtt felkapaszkodsz a dombra a Namdalsmuseet és a Rock City múzeumokhoz. Egy frissítő pihenő után az Oasen uszodában fejezd be a napot egy kihívást jelentő, de annál kifizetődőbb tekeréssel a Bjørumsklumpen kilátóhoz.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Namsos. Începeți de la ruinele istorice Fredriksberg, apoi pedalați spre portul plin de viață. Explorați centrul cu biserica sa distinctivă înainte de a urca dealul spre muzeele Namdalsmuseet și Rock City. După o pauză răcoritoare la piscina Oasen, încheiați ziua cu o plimbare provocatoare, dar plină de satisfacții, până la punctul de belvedere Bjørumsklumpen.",
+        "en": "Hop on your bike for a tour of Namsos. Start at the historic Fredriksberg ruins, then pedal to the bustling harbour. Explore the centre with its distinctive church before climbing the hill to the Namdalsmuseet and Rock City museums. After a refreshing break at the Oasen pool, end the day with a challenging but rewarding ride to the Bjørumsklumpen viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier von einer der lokalen Brauereien, um Ihren Durst zu stillen."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Eine cremige Fischsuppe (Fiskesuppe) ist perfekt, um sich nach einer Radtour aufzuwärmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstolj meg egy sört a helyi sörfőzdék egyikéből a szomjad oltására."
+          },
+          {
+            "name": "Halleves",
+            "tip": "Egy krémes halleves (Fiskesuppe) tökéletes felmelegedés a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere locală",
+            "tip": "Încercați o bere de la una dintre berăriile locale pentru a vă potoli setea."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "O supă cremă de pește (Fiskesuppe) este perfectă pentru a vă încălzi după o tură cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the local breweries to quench your thirst."
+          },
+          {
+            "name": "Fish Soup",
+            "tip": "A creamy fish soup (Fiskesuppe) is perfect for warming up after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bjørumsklumpen Gipfel",
+            "tip": "Der Gipfel bietet nicht nur eine tolle Aussicht, sondern auch einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Namsen",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um die Natur zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bjørumsklumpen csúcsa",
+            "tip": "A csúcs nemcsak nagyszerű kilátást, hanem egy pillanatnyi nyugalmat is kínál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Namsen folyó partja",
+            "tip": "Találj egy csendes helyet a folyóparton, hogy élvezd a természetet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Bjørumsklumpen",
+            "tip": "Vârful nu oferă doar o priveliște minunată, ci și un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Namsen",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă bucura de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bjørumsklumpen Summit",
+            "tip": "The summit offers not only a great view but also a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Namsen",
+            "tip": "Find a quiet spot on the riverbank to enjoy nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradzubehör",
+            "tip": "Lokale Sportgeschäfte bieten möglicherweise einzigartiges Fahrradzubehör oder Kleidung an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "A helyi sportboltok egyedi kerékpár-kiegészítőket vagy ruházatot kínálhatnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Magazinele locale de sport pot oferi accesorii sau îmbrăcăminte unice pentru biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling gear",
+            "tip": "Local sports shops might offer unique cycling accessories or apparel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und seien Sie auf einige Hügel vorbereitet.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen sicher ab.",
+          "Nehmen Sie Snacks und Wasser mit, besonders für die Fahrt zum Bjørumsklumpen."
+        ],
+        "hu": [
+          "Viselj sisakot, és készülj fel néhány emelkedőre.",
+          "Zárd le biztonságosan a kerékpárodat a fő látványosságoknál.",
+          "Vigyél magaddal rágcsálnivalót és vizet, különösen a Bjørumsklumpenre való feljutáshoz."
+        ],
+        "ro": [
+          "Purtați cască și fiți pregătiți pentru câteva dealuri.",
+          "Asigurați-vă bicicleta în siguranță la principalele atracții.",
+          "Luați gustări și apă, mai ales pentru urcarea la Bjørumsklumpen."
+        ],
+        "en": [
+          "Wear a helmet and be prepared for some hills.",
+          "Lock your bike securely at the main attractions.",
+          "Bring snacks and water, especially for the ride to Bjørumsklumpen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Parken: Hafen",
+            "hu": "Parkoló klaszter: Kikötő",
+            "ro": "Parcare cluster: Port",
+            "en": "Cluster Parking: Harbour"
+          },
+          "coords": [
+            11.494,
+            64.464
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das Hafenviertel und das Stadtzentrum zu erkunden.",
+            "hu": "Parkolj le itt a kikötőnegyed és a városközpont felfedezéséhez.",
+            "ro": "Parcați aici pentru a explora zona portuară și centrul orașului.",
+            "en": "Park here to explore the harbour area and city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Namsos",
+            "hu": "Namsos kikötője",
+            "ro": "Portul Namsos",
+            "en": "Namsos Harbour"
+          },
+          "coords": [
+            11.495,
+            64.465
+          ],
+          "category": "port",
+          "arrive_at": "09:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Sjöfartsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            11.498,
+            64.467
+          ],
+          "category": "museums",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster Parken: Museumshügel",
+            "hu": "Parkoló klaszter: Múzeumdomb",
+            "ro": "Parcare cluster: Dealul Muzeelor",
+            "en": "Cluster Parking: Museum Hill"
+          },
+          "coords": [
+            11.516,
+            64.473
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 0,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Namdalsmuseet",
+            "hu": "Namdal Múzeum",
+            "ro": "Muzeul Namdal",
+            "en": "Namdal Museum"
+          },
+          "coords": [
+            11.515,
+            64.472
+          ],
+          "category": "museums",
+          "arrive_at": "11:19",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Rock City",
+            "hu": "Rock City",
+            "ro": "Rock City",
+            "en": "Rock City"
+          },
+          "coords": [
+            11.513,
+            64.471
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Bjørumsklumpen",
+            "hu": "Bjørumsklumpen",
+            "ro": "Bjørumsklumpen",
+            "en": "Bjørumsklumpen"
+          },
+          "coords": [
+            11.53,
+            64.46
+          ],
+          "category": "natural features",
+          "arrive_at": "15:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Fredriksberg Ruinen",
+            "hu": "Fredriksberg romjai",
+            "ro": "Ruinele Fredriksberg",
+            "en": "Fredriksberg Ruins"
+          },
+          "coords": [
+            11.48,
+            64.46
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um Namsos effizient zu erkunden. Parken Sie im ersten Cluster am Hafen, um das maritime Erbe der Stadt zu Fuß zu entdecken. Fahren Sie dann zum zweiten Cluster, dem Museumshügel, und tauchen Sie in die Kultur und Musikgeschichte ein. Der Nachmittag ist für die Natur reserviert: Fahren Sie zum Aussichtspunkt Bjørumsklumpen für atemberaubende Panoramen und beenden Sie den Tag mit einem Besuch der historischen Fredriksberg-Ruinen.",
+        "hu": "Használd az autódat Namsos hatékony felfedezéséhez. Parkolj az első klaszterben a kikötőnél, hogy gyalog fedezd fel a város tengerészeti örökségét. Ezután vezess a második klaszterhez, a Múzeumdombhoz, és merülj el a kultúrában és a zenei történelemben. A délután a természeté: hajts fel a Bjørumsklumpen kilátóhoz a lélegzetelállító panorámáért, és fejezd be a napot a történelmi Fredriksberg romok meglátogatásával.",
+        "ro": "Folosiți mașina pentru a explora eficient Namsos. Parcați în primul cluster, la port, pentru a descoperi moștenirea maritimă a orașului pe jos. Apoi, conduceți spre al doilea cluster, Dealul Muzeelor, pentru o imersiune în cultură și istoria muzicii. După-amiaza este rezervată naturii: conduceți la punctul de belvedere Bjørumsklumpen pentru panorame uluitoare și încheiați ziua cu o vizită la ruinele istorice Fredriksberg.",
+        "en": "Use your car to explore Namsos efficiently. Park in the first cluster at the harbour to discover the city's maritime heritage on foot. Then, drive to the second cluster, Museum Hill, for an immersion in culture and music history. The afternoon is reserved for nature: drive to the Bjørumsklumpen viewpoint for breathtaking panoramas and end the day with a visit to the historic Fredriksberg ruins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Machen Sie eine Pause in einem der gemütlichen Cafés im Stadtzentrum zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tarts szünetet egy hangulatos belvárosi kávézóban a vezetések között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Faceți o pauză la una dintre cafenelele primitoare din centrul orașului între drumuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coffee and cake",
+            "tip": "Take a break at one of the cozy cafes in the city centre between drives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Bjørumsklumpen",
+            "tip": "Genießen Sie die Ruhe und die Aussicht, bevor Sie wieder ins Auto steigen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bjørumsklumpen parkoló",
+            "tip": "Élvezd a csendet és a kilátást, mielőtt visszaülsz az autóba.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Bjørumsklumpen",
+            "tip": "Bucurați-vă de liniște și de priveliște înainte de a vă urca din nou în mașină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bjørumsklumpen parking",
+            "tip": "Enjoy the quiet and the view before getting back in the car.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresd a helyi termékeket árusító tanyasi boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "În mediul rural, fiți atenți la magazinele de fermă care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "In the countryside, look out for farm shops selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch bei schlechtem Wetter trocken zu bleiben."
+        ],
+        "hu": [
+          "Ellenőrizd előre a parkolási lehetőségeket és díjakat.",
+          "Tervezz elegendő időt a klaszterek közötti forgalomra.",
+          "Az autó rugalmasságot ad, hogy rossz időben is szárazon maradj."
+        ],
+        "ro": [
+          "Verificați în prealabil opțiunile de parcare și taxele.",
+          "Planificați suficient timp pentru traficul dintre clustere.",
+          "O mașină vă oferă flexibilitatea de a rămâne uscat chiar și pe vreme rea."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Plan enough time for traffic between clusters.",
+          "A car gives you the flexibility to stay dry even in bad weather."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Hafen/Zentrum",
+            "hu": "Klaszter: Kikötő/Központ",
+            "ro": "Cluster: Port/Centru",
+            "en": "Cluster: Harbour/Centre"
+          },
+          "coords": [
+            11.496,
+            64.466
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Busbahnhof, um das Herz von Namsos zu Fuß zu erkunden.",
+            "hu": "Indulj a központi buszmegállótól, hogy gyalog fedezd fel Namsos szívét.",
+            "ro": "Începeți de la stația centrală de autobuz pentru a explora inima orașului Namsos pe jos.",
+            "en": "Start at the central bus stop to explore the heart of Namsos on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Namsos",
+            "hu": "Namsos kikötője",
+            "ro": "Portul Namsos",
+            "en": "Namsos Harbour"
+          },
+          "coords": [
+            11.495,
+            64.465
+          ],
+          "category": "port",
+          "arrive_at": "09:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Namsos Kirche",
+            "hu": "Namsos-templom",
+            "ro": "Biserica din Namsos",
+            "en": "Namsos Church"
+          },
+          "coords": [
+            11.505,
+            64.468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Cluster: Museumshügel",
+            "hu": "Klaszter: Múzeumdomb",
+            "ro": "Cluster: Dealul Muzeelor",
+            "en": "Cluster: Museum Hill"
+          },
+          "coords": [
+            11.514,
+            64.47
+          ],
+          "category": "museums",
+          "arrive_at": "10:51",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Namdalsmuseet",
+            "hu": "Namdal Múzeum",
+            "ro": "Muzeul Namdal",
+            "en": "Namdal Museum"
+          },
+          "coords": [
+            11.515,
+            64.472
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Rock City",
+            "hu": "Rock City",
+            "ro": "Rock City",
+            "en": "Rock City"
+          },
+          "coords": [
+            11.513,
+            64.471
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Oasen Schwimmbad",
+            "hu": "Oasen Uszoda",
+            "ro": "Piscina Oasen",
+            "en": "Oasen Swimming Pool"
+          },
+          "coords": [
+            11.5,
+            64.475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Namsos mit den öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum und am Hafen, die Sie bequem zu Fuß erreichen können. Nehmen Sie dann einen Bus zum Museumshügel, wo Sie Stunden in die lokale Geschichte und Musik eintauchen können. Eine weitere kurze Busfahrt bringt Sie zum Oasen Schwimmbad, dem perfekten Ort, um den Tag entspannt ausklingen zu lassen, bevor Sie zurück ins Zentrum fahren.",
+        "hu": "Fedezd fel Namsost a tömegközlekedéssel. Kezdd a központban és a kikötőben, amelyeket könnyen bejárhatsz gyalog. Ezután szállj buszra a Múzeumdombra, ahol órákat tölthetsz a helyi történelem és zene világában. Egy másik rövid buszút elvisz az Oasen uszodához, amely tökéletes hely a nap levezetésére, mielőtt visszatérnél a központba.",
+        "ro": "Descoperiți Namsos cu transportul public. Începeți în centru și în port, ușor de explorat pe jos. Apoi, luați un autobuz spre Dealul Muzeelor pentru ore de imersiune în istoria și muzica locală. O altă scurtă călătorie cu autobuzul vă va duce la piscina Oasen, locul perfect pentru a încheia ziua într-un mod relaxant înainte de a vă întoarce în centru.",
+        "en": "Discover Namsos using public transport. Start in the centre and the harbour, easily explored on foot. Then, take a bus to Museum Hill for hours of immersion in local history and music. Another short bus ride will take you to the Oasen Swimming Pool, the perfect place to end the day in a relaxing way before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Holen Sie sich ein süßes Gebäck (Bolle) in einer Bäckerei in der Nähe einer Bushaltestelle für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vegyél egy édes péksüteményt (Bolle) egy buszmegálló melletti pékségben egy gyors harapnivalóért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Luați un produs de patiserie dulce (Bolle) de la o brutărie de lângă o stație de autobuz pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Grab a sweet pastry (Bolle) from a bakery near a bus stop for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf den Bus warten",
+            "tip": "Nutzen Sie die Wartezeit an der Bushaltestelle, um die Umgebung zu beobachten und durchzuatmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Használd ki a buszmegállóban töltött várakozási időt a környezet megfigyelésére és egy mély lélegzetvételre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Folosiți timpul de așteptare în stația de autobuz pentru a observa împrejurimile și a respira adânc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waiting for the bus",
+            "tip": "Use the time waiting at the bus stop to observe your surroundings and take a breath.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie norwegische Schokolade oder Snacks in einem Supermarkt, den Sie auf Ihrem Weg passieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket",
+            "tip": "Vásárolj norvég csokoládét vagy rágcsálnivalót egy útba eső szupermarketben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați ciocolată norvegiană sau gustări de la un supermarket pe care îl întâlniți în drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket",
+            "tip": "Buy some Norwegian chocolate or snacks from a supermarket you pass on your way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Bus-App herunter oder prüfen Sie den Fahrplan online.",
+          "Eine Tageskarte ist möglicherweise günstiger als Einzeltickets.",
+          "Beachten Sie, dass die Busse am Wochenende möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Töltsd le a helyi buszos alkalmazást, vagy ellenőrizd a menetrendet online.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Ne feledd, hogy a buszok hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Descărcați aplicația locală de autobuz sau verificați orarul online.",
+          "Un bilet de o zi poate fi mai ieftin decât biletele individuale.",
+          "Rețineți că autobuzele pot circula mai rar în weekend."
+        ],
+        "en": [
+          "Download the local bus app or check the schedule online.",
+          "A day pass might be cheaper than single tickets.",
+          "Be aware that buses may run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

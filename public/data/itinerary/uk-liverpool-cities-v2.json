@@ -1,0 +1,1463 @@
+{
+  "city_id": "uk-liverpool-cities-v2",
+  "anchor": {
+    "name": "Liverpool",
+    "coords": [
+      -2.9916,
+      53.4084
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pier Head",
+            "hu": "Pier Head",
+            "ro": "Pier Head",
+            "en": "Pier Head"
+          },
+          "coords": [
+            -2.9963,
+            53.4064
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der ikonischen Uferpromenade und den Three Graces.",
+            "hu": "Kezdje a napot az ikonikus vízparton, a Három Grácia épületeinél.",
+            "ro": "Începeți ziua la malul apei, admirând cele Trei Grații.",
+            "en": "Start your day at the iconic waterfront, admiring the Three Graces."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Liverpool",
+            "hu": "Liverpool Múzeuma",
+            "ro": "Muzeul din Liverpool",
+            "en": "Museum of Liverpool"
+          },
+          "coords": [
+            -2.9945,
+            53.405
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur lokalen Geschichte und zur Beatles-Ära.",
+            "hu": "Fókuszáljon a helytörténeti és a Beatles-korszakot bemutató kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile despre istoria locală și epoca Beatles.",
+            "en": "Focus on the exhibits covering local history and The Beatles era."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Dock",
+            "hu": "Royal Albert Dock",
+            "ro": "Docul Royal Albert",
+            "en": "Royal Albert Dock"
+          },
+          "coords": [
+            -2.992,
+            53.401
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unabhängigen Geschäfte und genießen Sie einen Kaffee am Wasser.",
+            "hu": "Fedezze fel a független üzleteket és igyon egy kávét a vízparton.",
+            "ro": "Explorați magazinele independente și savurați o cafea la malul apei.",
+            "en": "Explore the independent shops and enjoy a coffee by the waterside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cavern Club",
+            "hu": "The Cavern Club",
+            "ro": "Clubul Cavern",
+            "en": "The Cavern Club"
+          },
+          "coords": [
+            -2.987,
+            53.406
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Saugen Sie die Atmosphäre auf, auch wenn Sie nur für ein schnelles Foto hineingehen.",
+            "hu": "Szippantson a hangulatból, még ha csak egy gyors fotóra ugrik is be.",
+            "ro": "Absorbiți atmosfera, chiar dacă intrați doar pentru o fotografie rapidă.",
+            "en": "Soak up the atmosphere, even if you just pop in for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "St George's Hall",
+            "hu": "St George's Hall",
+            "ro": "Sala St George's",
+            "en": "St George's Hall"
+          },
+          "coords": [
+            -2.979,
+            53.408
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur und überprüfen Sie den Bodenbelag des Minton-Fliesensaals.",
+            "hu": "Csodálja meg a neoklasszikus építészetet és ellenőrizze a Minton csempepadló állapotát.",
+            "ro": "Admirați arhitectura neoclasică și verificați podeaua din gresie Minton.",
+            "en": "Admire the neoclassical architecture and check for the Minton tile floor reveal."
+          }
+        },
+        {
+          "name": {
+            "de": "Walker Kunstgalerie",
+            "hu": "Walker Művészeti Galéria",
+            "ro": "Galeria de Artă Walker",
+            "en": "Walker Art Gallery"
+          },
+          "coords": [
+            -2.9795,
+            53.4095
+          ],
+          "category": "museums",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung präraffaelitischer Gemälde.",
+            "hu": "Ne hagyja ki a preraffaelita festmények gyűjteményét.",
+            "ro": "Nu ratați colecția de picturi prerafaelite.",
+            "en": "Don't miss the collection of Pre-Raphaelite paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Liverpool Kathedrale",
+            "hu": "Liverpooli Katedrális",
+            "ro": "Catedrala din Liverpool",
+            "en": "Liverpool Cathedral"
+          },
+          "coords": [
+            -2.973,
+            53.397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Steigen Sie für eine atemberaubende Aussicht auf die Stadt auf den Turm.",
+            "hu": "Menjen fel a toronyba a városra nyíló lélegzetelállító kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște uluitoare asupra orașului.",
+            "en": "Go up the tower for a breathtaking view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Liverpooler Spaziergang am Pier Head, wo die Geschichte der Stadt auf den Mersey trifft. Am Vormittag tauchen Sie im Museum of Liverpool und im Royal Albert Dock in das maritime und kulturelle Erbe ein. Am Nachmittag führt Sie Ihr Weg durch das Herz der Stadt, vorbei an der musikalischen Pilgerstätte The Cavern Club, hin zur Pracht der St. George's Hall und der Kunst in der Walker Art Gallery. Beenden Sie Ihren Tag mit dem Aufstieg zur Liverpool Cathedral, wo Sie bei Sonnenuntergang einen Panoramablick auf die Stadt genießen können, die Sie gerade erkundet haben.",
+        "hu": "Indítsa liverpooli sétáját a Pier Headnél, ahol a város történelme találkozik a Mersey folyóval. Délelőtt merüljön el a tengeri és kulturális örökségben a Liverpool Múzeumban és a Royal Albert Dockban. Délután az út a város szívén át vezet, elhaladva a zenei zarándokhely, a Cavern Club mellett, a St. George's Hall pompájához és a Walker Művészeti Galéria művészetéhez. A napot a Liverpooli Katedrális megmászásával zárja, ahonnan naplementekor panorámás kilátás nyílik az éppen bejárt városra.",
+        "ro": "Începeți plimbarea prin Liverpool la Pier Head, unde istoria orașului se întâlnește cu râul Mersey. Dimineața, scufundați-vă în patrimoniul maritim și cultural la Muzeul din Liverpool și la Docul Royal Albert. După-amiaza, drumul vă duce prin inima orașului, trecând pe lângă locul de pelerinaj muzical The Cavern Club, spre splendoarea Sălii St George's și arta de la Galeria de Artă Walker. Încheiați-vă ziua urcând la Catedrala din Liverpool pentru o priveliște panoramică la apus asupra orașului pe care tocmai l-ați explorat.",
+        "en": "Start your Liverpool walking tour at Pier Head, where the city's history meets the River Mersey. In the morning, delve into maritime and cultural heritage at the Museum of Liverpool and the Royal Albert Dock. In the afternoon, your path takes you through the heart of the city, past the musical pilgrimage site of The Cavern Club, to the grandeur of St George's Hall and the art within the Walker Art Gallery. End your day with the ascent of Liverpool Cathedral for a sunset panoramic view of the city you've just explored."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scouse",
+            "tip": "Probieren Sie diesen herzhaften Lammeintopf, das typische Gericht der Stadt, im The Philharmonic Dining Rooms."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "Ein Klassiker am Kai, am besten frisch bei Docklands Fish and Chips."
+          },
+          {
+            "name": "Balti",
+            "tip": "Erkunden Sie die lebhafte Bold Street für einige der besten Currys der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scouse",
+            "tip": "Kóstolja meg ezt a kiadós bárányragut, a város jellegzetes ételét a The Philharmonic Dining Rooms-ban."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "Klasszikus a rakparton, a legjobb frissen a Docklands Fish and Chips-nél."
+          },
+          {
+            "name": "Balti",
+            "tip": "Fedezze fel a nyüzsgő Bold Street-et a város legjobb curry-jeiért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scouse",
+            "tip": "Încercați această tocană consistentă de miel, felul de mâncare emblematic al orașului, la The Philharmonic Dining Rooms."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "Un clasic de pe chei, cel mai bun proaspăt de la Docklands Fish and Chips."
+          },
+          {
+            "name": "Balti",
+            "tip": "Explorați vibranta Bold Street pentru unele dintre cele mai bune curry-uri din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scouse",
+            "tip": "Try this hearty lamb or beef stew, the city's signature dish, at The Philharmonic Dining Rooms."
+          },
+          {
+            "name": "Fish & Chips",
+            "tip": "A quayside classic, best enjoyed fresh from Docklands Fish and Chips."
+          },
+          {
+            "name": "Balti",
+            "tip": "Explore the vibrant Bold Street for some of the best curries in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Liverpool Cathedral Tower",
+            "tip": "Fahren Sie nach oben für eine ruhige Panoramaaussicht, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. James's Gärten",
+            "tip": "Ein friedlicher, versunkener Garten und Friedhof im Schatten der Kathedrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Mersey",
+            "tip": "Machen Sie einen langsamen Spaziergang entlang des Flusses weg von den Hauptdocks für einen Moment der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liverpooli Katedrális tornya",
+            "tip": "Menjen fel egy csendes panorámáért, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Jakab kertek",
+            "tip": "Békés, süllyesztett kert és temető a katedrális árnyékában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mersey folyópart",
+            "tip": "Tegyen egy lassú sétát a folyó mentén, távol a fő dokkoktól egy csendes pillanatért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Catedralei din Liverpool",
+            "tip": "Urcați pentru o priveliște panoramică liniștită, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile St. James",
+            "tip": "O grădină și un cimitir scufundat pașnic, la umbra catedralei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Mersey",
+            "tip": "Faceți o plimbare lentă de-a lungul râului, departe de docurile principale, pentru un moment de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liverpool Cathedral Tower",
+            "tip": "Head up for a quiet panoramic view, especially around sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. James's Gardens",
+            "tip": "A peaceful, sunken garden and cemetery in the shadow of the cathedral.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mersey Riverside",
+            "tip": "Take a slow walk along the river away from the main docks for a moment of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Liverpool ONE",
+            "tip": "Das wichtigste Einkaufsziel für bekannte Marken und Kaufhäuser."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Bekannt für ihre unabhängigen Boutiquen, Vintage-Läden und Plattenläden."
+          },
+          {
+            "name": "Albert Dock Geschäfte",
+            "tip": "Finden Sie einzigartige Geschenke, Kunst und Beatles-Souvenirs in dieser historischen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liverpool ONE",
+            "tip": "A fő bevásárlóhely a népszerű márkák és áruházak számára."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Független butikjairól, vintage üzleteiről és lemezboltjairól ismert."
+          },
+          {
+            "name": "Albert Dock üzletei",
+            "tip": "Találjon egyedi ajándékokat, művészeti alkotásokat és Beatles-emléktárgyakat ebben a történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liverpool ONE",
+            "tip": "Destinația principală de cumpărături pentru mărci de renume și magazine universale."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Renumită pentru buticurile sale independente, magazinele vintage și magazinele de discuri."
+          },
+          {
+            "name": "Magazinele din Albert Dock",
+            "tip": "Găsiți cadouri unice, artă și suveniruri Beatles în acest cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liverpool ONE",
+            "tip": "The main shopping destination for high-street brands and department stores."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Known for its independent boutiques, vintage shops, and record stores."
+          },
+          {
+            "name": "Albert Dock Shops",
+            "tip": "Find unique gifts, art, and Beatles memorabilia in this historic setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe; das Kopfsteinpflaster an den Docks kann uneben sein.",
+          "Viele Museen sind kostenlos, aber für Sonderausstellungen kann eine Gebühr anfallen.",
+          "Buchen Sie Tickets für The Cavern Club im Voraus, besonders für Abendvorstellungen.",
+          "Prüfen Sie, ob in der St. George's Hall eine Veranstaltung stattfindet, da dies den Zugang einschränken kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt; a dokkok macskakövei egyenetlenek lehetnek.",
+          "Sok múzeum ingyenes, de a különleges kiállításokért fizetni kell.",
+          "Foglaljon jegyet a Cavern Clubba előre, különösen az esti előadásokra.",
+          "Ellenőrizze, hogy van-e valamilyen esemény a St. George's Hallban, mert ez korlátozhatja a bejutást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă; pavelele de la docuri pot fi denivelate.",
+          "Multe muzee sunt gratuite, dar se poate percepe o taxă pentru expozițiile speciale.",
+          "Rezervați bilete pentru The Cavern Club în avans, mai ales pentru spectacolele de seară.",
+          "Verificați dacă există evenimente la St. George's Hall, deoarece accesul ar putea fi restricționat."
+        ],
+        "en": [
+          "Wear comfortable shoes; the cobblestones at the docks can be uneven.",
+          "Many museums are free to enter, but special exhibitions may have a charge.",
+          "Book tickets for The Cavern Club in advance, especially for evening shows.",
+          "Check for any events at St George's Hall as it might restrict access."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pier Head",
+            "hu": "Pier Head",
+            "ro": "Pier Head",
+            "en": "Pier Head"
+          },
+          "coords": [
+            -2.9963,
+            53.4064
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein perfekter Startpunkt mit viel Platz, um Ihr Fahrrad vorzubereiten.",
+            "hu": "Tökéletes kiindulópont, bőséges hellyel a kerékpár előkészítéséhez.",
+            "ro": "Un punct de plecare perfect, cu mult spațiu pentru a vă pregăti bicicleta.",
+            "en": "A perfect starting point with plenty of space to prep your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Dock",
+            "hu": "Royal Albert Dock",
+            "ro": "Docul Royal Albert",
+            "en": "Royal Albert Dock"
+          },
+          "coords": [
+            -2.992,
+            53.401
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und schlendern Sie durch die Kolonnaden.",
+            "hu": "Zárja le a biciklit és sétáljon végig a kolonnádokon.",
+            "ro": "Încuiați-vă bicicleta și plimbați-vă pe sub colonade.",
+            "en": "Lock up your bike and wander through the colonnades."
+          }
+        },
+        {
+          "name": {
+            "de": "Liverpool Kathedrale",
+            "hu": "Liverpooli Katedrális",
+            "ro": "Catedrala din Liverpool",
+            "en": "Liverpool Cathedral"
+          },
+          "coords": [
+            -2.973,
+            53.397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Fahrt bergauf lohnt sich für die Aussicht und die beeindruckende Architektur.",
+            "hu": "Az emelkedő megéri a kilátásért és a lenyűgöző építészetért.",
+            "ro": "Urcușul merită efortul pentru priveliște și arhitectura impresionantă.",
+            "en": "The uphill ride is worth it for the views and the awe-inspiring architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St George's Hall",
+            "hu": "St George's Hall",
+            "ro": "Sala St George's",
+            "en": "St George's Hall"
+          },
+          "coords": [
+            -2.979,
+            53.408
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und bewundern Sie die Fassade dieses neoklassizistischen Meisterwerks.",
+            "hu": "Parkolja le a kerékpárt és csodálja meg ennek a neoklasszikus remekműnek a homlokzatát.",
+            "ro": "Parcați-vă bicicleta și admirați fațada acestei capodopere neoclasice.",
+            "en": "Park your bike and admire the facade of this neoclassical masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "World Museum",
+            "hu": "Világmúzeum",
+            "ro": "Muzeul Mondial",
+            "en": "World Museum"
+          },
+          "coords": [
+            -2.9805,
+            53.4099
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um für eine Weile der Hektik zu entfliehen, mit vielfältigen Ausstellungen.",
+            "hu": "Remek hely a nyüzsgés elől való elmenekülésre, változatos kiállításokkal.",
+            "ro": "Un loc excelent pentru a scăpa de agitație pentru o vreme, cu expoziții diverse.",
+            "en": "A great place to escape the bustle for a while, with diverse exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cavern Club",
+            "hu": "The Cavern Club",
+            "ro": "Clubul Cavern",
+            "en": "The Cavern Club"
+          },
+          "coords": [
+            -2.987,
+            53.406
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem legendären Musikort. Es gibt Fahrradständer in der Nähe.",
+            "hu": "Zárja a túrát ennél a legendás zenei helyszínnél. A közelben vannak kerékpártárolók.",
+            "ro": "Încheiați-vă turul la acest loc muzical legendar. Există suporturi pentru biciclete în apropiere.",
+            "en": "End your tour at this legendary music venue. There are bike racks nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Liverpool-Radtour beginnt am weitläufigen Pier Head. Am Morgen radeln Sie entlang der Uferpromenade zum historischen Albert Dock, bevor Sie den Anstieg zur majestätischen Liverpool Cathedral in Angriff nehmen. Am Nachmittag gleiten Sie bergab in das Kulturviertel, um die Pracht der St. George's Hall und die globalen Schätze im World Museum zu bewundern. Beenden Sie Ihre Reise im Herzen des musikalischen Erbes von Liverpool, am weltberühmten Cavern Club, und genießen Sie die Atmosphäre.",
+        "hu": "Liverpooli kerékpártúrája a tágas Pier Headnél kezdődik. Reggel tekerjen végig a vízparton a történelmi Albert Dockhoz, mielőtt nekivág az emelkedőnek a fenséges Liverpooli Katedrálishoz. Délután guruljon le a kulturális negyedbe, hogy megcsodálja a St. George's Hall pompáját és a Világmúzeum globális kincseit. Fejezze be útját Liverpool zenei örökségének szívében, a világhírű Cavern Clubnál, és szívja magába a hangulatot.",
+        "ro": "Turul cu bicicleta prin Liverpool începe la vastul Pier Head. Dimineața, pedalați de-a lungul malului apei până la istoricul Albert Dock, înainte de a aborda urcușul spre majestuoasa Catedrală din Liverpool. După-amiaza, coborâți spre cartierul cultural pentru a admira grandoarea Sălii St George's și comorile globale din Muzeul Mondial. Încheiați-vă călătoria în inima moștenirii muzicale a Liverpoolului, la faimosul Cavern Club, pentru a vă bucura de atmosferă.",
+        "en": "Your Liverpool cycling tour begins at the expansive Pier Head. In the morning, pedal along the waterfront to the historic Albert Dock before tackling the climb up to the majestic Liverpool Cathedral. In the afternoon, glide downhill into the cultural quarter to admire the grandeur of St George's Hall and the global treasures inside the World Museum. Finish your journey in the heart of Liverpool's musical heritage at the world-famous Cavern Club to soak up the atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scouse",
+            "tip": "Tanken Sie mit diesem lokalen Eintopf in einem traditionellen Pub auf."
+          },
+          {
+            "name": "Frühstücks-Bap",
+            "tip": "Holen Sie sich ein schnelles und sättigendes Frühstücksbrötchen von einem der vielen Cafés."
+          },
+          {
+            "name": "Craft Beer",
+            "tip": "Belohnen Sie sich mit einem lokalen Bier in der Gegend des Baltic Triangle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scouse",
+            "tip": "Töltődjön fel ezzel a helyi egytálétellel egy hagyományos kocsmában."
+          },
+          {
+            "name": "Reggeli zsemle",
+            "tip": "Kapjon be egy gyors és laktató reggeli zsemlét a számos kávézó egyikében."
+          },
+          {
+            "name": "Kézműves sör",
+            "tip": "Jutalmazza meg magát egy helyi sörrel a Baltic Triangle negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scouse",
+            "tip": "Realimentați-vă cu această tocană locală într-un pub tradițional."
+          },
+          {
+            "name": "Chiflă pentru micul dejun",
+            "tip": "Luați o chiflă rapidă și sățioasă pentru micul dejun de la una dintre numeroasele cafenele."
+          },
+          {
+            "name": "Bere artizanală",
+            "tip": "Recompensați-vă cu o bere locală în zona Triunghiului Baltic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scouse",
+            "tip": "Refuel with this local stew in a traditional pub."
+          },
+          {
+            "name": "Breakfast Bap",
+            "tip": "Grab a quick and filling breakfast roll from one of the many cafes."
+          },
+          {
+            "name": "Craft Beer",
+            "tip": "Reward your efforts with a local brew in the Baltic Triangle area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sefton Park",
+            "tip": "Wenn Sie zu einer längeren Fahrt bereit sind, bietet dieser Park wunderschöne Wege und einen ruhigen See.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Fahren Sie weiter entlang der Uferpromenade, weg vom Zentrum, für eine friedliche Fahrt am Meer.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Chinatown Torbogen",
+            "tip": "Ein kurzer Stopp, um die komplizierten Details des größten Torbogens außerhalb Chinas zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sefton Park",
+            "tip": "Ha vállal egy hosszabb tekerést, ez a park gyönyörű ösvényeket és egy csendes tavat kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vízparti sétány",
+            "tip": "Tekerjen tovább a vízparton, távol a központtól, egy békés tengerparti útra.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kínai negyed kapuja",
+            "tip": "Egy rövid megálló, hogy megcsodálja a Kínán kívüli legnagyobb kapu bonyolult részleteit.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Sefton",
+            "tip": "Dacă sunteți pregătit pentru o plimbare mai lungă, acest parc oferă poteci frumoase și un lac liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada de la malul apei",
+            "tip": "Pedalați mai departe de-a lungul malului apei, departe de centru, pentru o plimbare liniștită pe malul mării.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Arcul din Chinatown",
+            "tip": "O oprire scurtă pentru a admira detaliile complexe ale celui mai mare arc din afara Chinei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sefton Park",
+            "tip": "If you're up for a longer ride, this park offers beautiful paths and a serene lake.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waterfront Promenade",
+            "tip": "Cycle further along the waterfront away from the centre for a peaceful seaside ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Chinatown Arch",
+            "tip": "A quick stop to admire the intricate details of the largest arch outside of China.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "69A",
+            "tip": "Ein vielseitiger Laden voller Antiquitäten, Kuriositäten und Vintage-Kleidung."
+          },
+          {
+            "name": "Probe Records",
+            "tip": "Ein legendärer Plattenladen für Musikliebhaber."
+          }
+        ],
+        "hu": [
+          {
+            "name": "69A",
+            "tip": "Eklektikus üzlet tele régiségekkel, érdekességekkel és vintage ruhákkal."
+          },
+          {
+            "name": "Probe Records",
+            "tip": "Legendás lemezbolt a zene szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "69A",
+            "tip": "Un magazin eclectic plin de antichități, curiozități și haine vintage."
+          },
+          {
+            "name": "Probe Records",
+            "tip": "Un magazin de discuri legendar pentru iubitorii de muzică."
+          }
+        ],
+        "en": [
+          {
+            "name": "69A",
+            "tip": "An eclectic shop filled with antiques, curios, and vintage clothing."
+          },
+          {
+            "name": "Probe Records",
+            "tip": "A legendary record shop for music lovers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Radwege, besonders entlang der Hauptstraßen.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie die Sehenswürdigkeiten zu Fuß erkunden.",
+          "Der Wind am Mersey kann stark sein, seien Sie also vorbereitet.",
+          "Hügel sind Teil des Charmes von Liverpool; seien Sie bereit für ein paar Anstiege."
+        ],
+        "hu": [
+          "Legyen tisztában a kerékpárutakkal, különösen a főutak mentén.",
+          "Egy jó lakat elengedhetetlen, ha gyalog fedezi fel a látnivalókat.",
+          "A szél a Mersey-n erős lehet, ezért legyen felkészült.",
+          "A dombok Liverpool varázsának részei; készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Fiți conștienți de pistele de biciclete, în special de-a lungul drumurilor principale.",
+          "Un lacăt bun este esențial atunci când explorați atracțiile pe jos.",
+          "Vântul de pe Mersey poate fi puternic, așa că fiți pregătit.",
+          "Dealurile fac parte din farmecul Liverpoolului; fiți pregătit pentru câteva urcări."
+        ],
+        "en": [
+          "Be aware of the cycle lanes, especially along main roads.",
+          "A good lock is essential for when you're exploring attractions on foot.",
+          "The wind along the Mersey can be strong, so be prepared.",
+          "Hills are part of Liverpool's charm; be ready for a few climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St George's Hall (Parken in der Nähe)",
+            "hu": "St George's Hall (parkolás a közelben)",
+            "ro": "Sala St George (Parcare în apropiere)",
+            "en": "St George's Hall (Park Nearby)"
+          },
+          "coords": [
+            -2.979,
+            53.408
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Kulturviertel. Nutzen Sie den St Johns Shopping Centre Parkplatz.",
+            "hu": "Kezdje a kulturális negyedben. Használja a St Johns bevásárlóközpont parkolóját.",
+            "ro": "Începeți în Cartierul Cultural. Folosiți parcarea centrului comercial St Johns.",
+            "en": "Start in the Cultural Quarter. Use the St Johns Shopping Centre car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Walker Kunstgalerie",
+            "hu": "Walker Művészeti Galéria",
+            "ro": "Galeria de Artă Walker",
+            "en": "Walker Art Gallery"
+          },
+          "coords": [
+            -2.9795,
+            53.4095
+          ],
+          "category": "museums",
+          "arrive_at": "09:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Halle. Ein Muss für Liebhaber britischer Kunst.",
+            "hu": "Rövid séta a csarnoktól. A brit művészet kedvelőinek kötelező.",
+            "ro": "O scurtă plimbare de la sală. O vizită obligatorie pentru iubitorii de artă britanică.",
+            "en": "A short walk from the Hall. A must-visit for British art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "World Museum",
+            "hu": "Világmúzeum",
+            "ro": "Muzeul Mondial",
+            "en": "World Museum"
+          },
+          "coords": [
+            -2.9805,
+            53.4099
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt nebenan, ideal für Familien, mit Planetarium und Aquarium.",
+            "hu": "Közvetlenül mellette, ideális családoknak, planetáriummal és akváriummal.",
+            "ro": "Chiar alături, excelent pentru familii, cu un planetariu și un acvariu.",
+            "en": "Right next door, great for families, with a planetarium and aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Liverpool Kathedrale (Parken in der Nähe)",
+            "hu": "Liverpooli Katedrális (parkolás a közelben)",
+            "ro": "Catedrala din Liverpool (Parcare în apropiere)",
+            "en": "Liverpool Cathedral (Park Nearby)"
+          },
+          "coords": [
+            -2.973,
+            53.397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Es gibt einen eigenen Parkplatz bei der Kathedrale.",
+            "hu": "Vezessen a következő klaszterhez. A katedrálisnak saját parkolója van.",
+            "ro": "Conduceți spre următorul grup. Există o parcare dedicată la catedrală.",
+            "en": "Drive to the next cluster. There's a dedicated car park at the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Dock (Parken in der Nähe)",
+            "hu": "Royal Albert Dock (parkolás a közelben)",
+            "ro": "Docul Royal Albert (Parcare în apropiere)",
+            "en": "Royal Albert Dock (Park Nearby)"
+          },
+          "coords": [
+            -2.992,
+            53.401
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Autowechsel. Parken Sie und erkunden Sie die gesamte Uferpromenade zu Fuß.",
+            "hu": "Utolsó autóváltás. Parkoljon le és fedezze fel az egész vízpartot gyalog.",
+            "ro": "Ultima schimbare de mașină. Parcați și explorați întreaga zonă de la malul apei pe jos.",
+            "en": "Final car move. Park and explore the entire waterfront area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pier Head",
+            "hu": "Pier Head",
+            "ro": "Pier Head",
+            "en": "Pier Head"
+          },
+          "coords": [
+            -2.9963,
+            53.4064
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:26",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag dort, wo die Fähren über den Mersey fahren.",
+            "hu": "Fejezze be a napot ott, ahol a kompok átszelik a Mersey-t.",
+            "ro": "Încheiați-vă ziua acolo de unde pleacă feriboturile peste Mersey.",
+            "en": "End your day where the ferries cross the Mersey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im Kulturviertel von Liverpool, parken Sie in der Nähe der St. George's Hall und erkunden Sie die benachbarte Walker Art Gallery und das World Museum zu Fuß. Am Mittag fahren Sie zur beeindruckenden Liverpool Cathedral, einem eigenen architektonischen Cluster. Am Nachmittag fahren Sie zum letzten Mal zum Royal Albert Dock. Von hier aus ist der Rest des Tages eine fußläufige Erkundung des UNESCO-Weltkulturerbes am Wasser, die am symbolträchtigen Pier Head endet.",
+        "hu": "Kezdje autós napját Liverpool kulturális negyedében, parkoljon a St. George's Hall közelében, és fedezze fel gyalog a szomszédos Walker Művészeti Galériát és a Világmúzeumot. Délben vezessen át a lenyűgöző Liverpooli Katedrálishoz, egy önálló építészeti egységhez. Délután tegye meg utolsó útját a Royal Albert Dockhoz. Innen a nap hátralévő része a vízparti UNESCO Világörökség gyalogos felfedezése, amely az ikonikus Pier Headnél ér véget.",
+        "ro": "Începeți ziua cu mașina în Cartierul Cultural din Liverpool, parcați lângă St George's Hall și explorați pe jos Galeria de Artă Walker și Muzeul Mondial adiacente. La prânz, conduceți spre impunătoarea Catedrală din Liverpool, un grup arhitectural de sine stătător. După-amiaza, faceți ultima deplasare cu mașina la Royal Albert Dock. De aici, restul zilei este o explorare pietonală a malului apei, inclus în patrimoniul UNESCO, care se încheie la emblematicul Pier Head.",
+        "en": "Start your day by car in Liverpool's Cultural Quarter, parking near St George's Hall and exploring the adjacent Walker Art Gallery and World Museum on foot. At midday, drive to the awe-inspiring Liverpool Cathedral, a cluster of its own. In the afternoon, make your final car journey to the Royal Albert Dock. From here, the rest of the day is a pedestrian exploration of the UNESCO waterfront, ending at the iconic Pier Head."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Art School Restaurant",
+            "tip": "Für ein gehobenes kulinarisches Erlebnis in der Nähe des Kulturviertels."
+          },
+          {
+            "name": "Maray, Albert Dock",
+            "tip": "Kreative kleine Gerichte mit nahöstlichem Einfluss und Blick aufs Wasser."
+          },
+          {
+            "name": "The Philharmonic Dining Rooms",
+            "tip": "Ein Muss für Scouse und um die verzierten viktorianischen Innenräume zu bewundern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Art School Restaurant",
+            "tip": "Kifinomult étkezési élményért a kulturális negyed közelében."
+          },
+          {
+            "name": "Maray, Albert Dock",
+            "tip": "Kreatív, közel-keleti ihletésű kis fogások, kilátással a vízre."
+          },
+          {
+            "name": "The Philharmonic Dining Rooms",
+            "tip": "Kötelező a Scouse-ért és a díszes viktoriánus belső terek megcsodálásáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul The Art School",
+            "tip": "Pentru o experiență culinară rafinată lângă Cartierul Cultural."
+          },
+          {
+            "name": "Maray, Albert Dock",
+            "tip": "Mâncăruri creative mici cu influențe din Orientul Mijlociu, cu vedere la apă."
+          },
+          {
+            "name": "The Philharmonic Dining Rooms",
+            "tip": "O vizită obligatorie pentru Scouse și pentru a admira interioarele victoriene ornamentate."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Art School Restaurant",
+            "tip": "For a fine dining experience near the Cultural Quarter."
+          },
+          {
+            "name": "Maray, Albert Dock",
+            "tip": "Creative small plates with a Middle-Eastern influence, overlooking the water."
+          },
+          {
+            "name": "The Philharmonic Dining Rooms",
+            "tip": "A must-visit for Scouse and to admire the ornate Victorian interiors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Formby Beach",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für eine dramatische Küstenlandschaft und Rothörnchen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "St. James's Gärten",
+            "tip": "Ein ruhiger Spaziergang unterhalb der Kathedrale nach Ihrem Besuch.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von der Kathedrale",
+            "tip": "Die Fahrt nach oben ist die ruhigste Art, die ganze Stadt zu überblicken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Formby Beach",
+            "tip": "Rövid autóútra a várostól a drámai tengerparti tájért és a vörös mókusokért.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Szent Jakab kertek",
+            "tip": "Csendes séta a katedrális alatt a látogatás után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a katedrálisból",
+            "tip": "A feljutás a legcsendesebb módja annak, hogy az egész várost áttekintse.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Formby",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru peisaje de coastă dramatice și veverițe roșii.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Grădinile St. James",
+            "tip": "O plimbare liniștită sub catedrală după vizita dumneavoastră.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la Catedrală",
+            "tip": "Urcarea este cel mai liniștit mod de a admira întregul oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Formby Beach",
+            "tip": "A short drive out of the city for dramatic coastal scenery and red squirrels.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "St. James's Gardens",
+            "tip": "A quiet walk below the Cathedral after your visit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Cathedral",
+            "tip": "The ride up is the quietest way to survey the whole city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "Eine kurze Fahrt für Marken-Schnäppchen."
+          },
+          {
+            "name": "Metquarter",
+            "tip": "Ein gehobenes Einkaufszentrum mit Designer-Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "Rövid autóútra a márkás akciókért."
+          },
+          {
+            "name": "Metquarter",
+            "tip": "Felső kategóriás bevásárlóközpont dizájner butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "La o scurtă distanță cu mașina pentru chilipiruri de marcă."
+          },
+          {
+            "name": "Metquarter",
+            "tip": "Un centru comercial de lux cu buticuri de designer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Oaks Designer Outlet",
+            "tip": "A short drive for brand-name bargains."
+          },
+          {
+            "name": "Metquarter",
+            "tip": "An upmarket shopping centre with designer boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist teuer; die Verwendung von Park-and-Ride-Diensten könnte eine Option sein.",
+          "Achten Sie auf Busspuren, die zu bestimmten Zeiten aktiv sind.",
+          "Die Navigation durch die Einbahnstraßen im Stadtzentrum kann eine Herausforderung sein; verwenden Sie ein Navi.",
+          "Buchen Sie Parkplätze in der Nähe von Hauptattraktionen im Voraus für bessere Preise."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága; fontolja meg a Park and Ride szolgáltatások használatát.",
+          "Legyen tisztában a buszsávokkal, amelyek bizonyos időpontokban aktívak.",
+          "A belváros egyirányú utcáin való navigálás kihívást jelenthet; használjon GPS-t.",
+          "Foglaljon parkolót a főbb látnivalók közelében előre a jobb árakért."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este scumpă; utilizați serviciile Park and Ride ca opțiune.",
+          "Fiți atenți la benzile de autobuz care sunt active la anumite ore.",
+          "Navigarea pe sistemul de străzi cu sens unic din centrul orașului poate fi o provocare; folosiți un GPS.",
+          "Rezervați parcarea lângă atracțiile majore în avans pentru prețuri mai bune."
+        ],
+        "en": [
+          "City centre parking is expensive; using Park and Ride services could be an option.",
+          "Be aware of bus lanes which are active during certain hours.",
+          "Navigating the city centre's one-way system can be challenging; use a sat-nav.",
+          "Pre-book parking near major attractions for better rates."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pier Head",
+            "hu": "Pier Head",
+            "ro": "Pier Head",
+            "en": "Pier Head"
+          },
+          "coords": [
+            -2.9963,
+            53.4064
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Viele Buslinien halten in der Nähe. Ein idealer Ausgangspunkt.",
+            "hu": "Sok buszjárat megáll a közelben. Ideális kiindulópont.",
+            "ro": "Multe rute de autobuz opresc în apropiere. Un punct de plecare ideal.",
+            "en": "Many bus routes stop nearby. An ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Liverpool",
+            "hu": "Liverpool Múzeuma",
+            "ro": "Muzeul din Liverpool",
+            "en": "Museum of Liverpool"
+          },
+          "coords": [
+            -2.9945,
+            53.405
+          ],
+          "category": "museums",
+          "arrive_at": "09:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf entfernt, erkunden Sie die Geschichte der Stadt.",
+            "hu": "Csak egy kőhajításnyira, fedezze fel a város történelmét.",
+            "ro": "La o aruncătură de băț, explorați istoria orașului.",
+            "en": "Just a stone's throw away, explore the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Albert Dock",
+            "hu": "Royal Albert Dock",
+            "ro": "Docul Royal Albert",
+            "en": "Royal Albert Dock"
+          },
+          "coords": [
+            -2.992,
+            53.401
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang entlang der Uferpromenade vom Museum aus.",
+            "hu": "Könnyű séta a vízparton a múzeumtól.",
+            "ro": "O plimbare ușoară de-a lungul malului apei de la muzeu.",
+            "en": "An easy walk along the waterfront from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "St George's Hall",
+            "hu": "St George's Hall",
+            "ro": "Sala St George's",
+            "en": "St George's Hall"
+          },
+          "coords": [
+            -2.979,
+            53.408
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Busbahnhof Liverpool ONE zum Queen Square.",
+            "hu": "Szálljon buszra a Liverpool ONE buszpályaudvarról a Queen Square-re.",
+            "ro": "Luați un autobuz de la stația de autobuz Liverpool ONE la Queen Square.",
+            "en": "Take a bus from Liverpool ONE bus station to Queen Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Walker Kunstgalerie",
+            "hu": "Walker Művészeti Galéria",
+            "ro": "Galeria de Artă Walker",
+            "en": "Walker Art Gallery"
+          },
+          "coords": [
+            -2.9795,
+            53.4095
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie einfach die Straße, um dieses Kunstjuwel zu betreten.",
+            "hu": "Csak menjen át az úton, hogy belépjen ebbe a művészeti gyöngyszembe.",
+            "ro": "Traversați strada pentru a intra în această bijuterie de artă.",
+            "en": "Simply cross the road to enter this artistic gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Liverpool Kathedrale",
+            "hu": "Liverpooli Katedrális",
+            "ro": "Catedrala din Liverpool",
+            "en": "Liverpool Cathedral"
+          },
+          "coords": [
+            -2.973,
+            53.397
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 82 oder 86 von der Elliot Street zur Kathedrale.",
+            "hu": "Szálljon a 82-es vagy 86-os buszra az Elliot Streetről a katedrálishoz.",
+            "ro": "Luați autobuzul 82 sau 86 de pe Elliot Street până la catedrală.",
+            "en": "Catch the 82 or 86 bus from Elliot Street to the Cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt an der gut angebundenen Uferpromenade von Liverpool am Pier Head. Erkunden Sie diesen Bereich, einschließlich des Museums und des Albert Dock, zu Fuß. Am Mittag bringt Sie ein kurzer Bus Sie ins Herz des Kulturviertels, wo Sie die St. George's Hall und die Walker Art Gallery besuchen. Ihre letzte Fahrt mit dem Bus am Nachmittag führt Sie hinauf zur hoch aufragenden Liverpool Cathedral. Von dort aus ist es ein gemütlicher Spaziergang bergab zurück ins Stadtzentrum, der über das Erbe und die Pracht des Tages nachdenkt.",
+        "hu": "Tömegközlekedési napja Liverpool jól összekapcsolt vízpartján, a Pier Headnél kezdődik. Fedezze fel ezt a területet gyalog, beleértve a múzeumot és az Albert Dockot is. Délben egy rövid buszozás elviszi Önt a kulturális negyed szívébe, ahol meglátogathatja a St. George's Hallt és a Walker Művészeti Galériát. Délutáni utolsó buszútja a magasba törő Liverpooli Katedrálishoz viszi fel. Onnan kényelmes séta vezet lefelé a városközpontba, elmélkedve a nap örökségén és pompáján.",
+        "ro": "Ziua dvs. de tranzit începe la malul apei bine conectat din Liverpool, la Pier Head. Explorați această zonă, inclusiv muzeul și Albert Dock, pe jos. La prânz, o scurtă călătorie cu autobuzul vă duce în inima Cartierului Cultural pentru St George's Hall și Galeria de Artă Walker. Ultima dvs. călătorie cu autobuzul din după-amiază vă duce la impunătoarea Catedrală din Liverpool. De acolo, este o plimbare relaxantă la vale înapoi în centrul orașului, reflectând asupra moștenirii și grandorii zilei.",
+        "en": "Your transit-powered day begins at Liverpool's well-connected waterfront at Pier Head. Explore this cluster, including the museum and Albert Dock, on foot. At midday, a short bus ride takes you to the heart of the Cultural Quarter for St George's Hall and the Walker Art Gallery. Your final transit hop of the afternoon takes you up to the towering Liverpool Cathedral. From there, it's a leisurely downhill walk back into the city centre, reflecting on the day's heritage and grandeur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ropes & Twines",
+            "tip": "Ein Café und eine Weinbar in der Nähe der Kathedrale, ideal für einen Kaffee vor oder nach dem Besuch."
+          },
+          {
+            "name": "Queens Square",
+            "tip": "Viele schnelle und einfache Essensmöglichkeiten in der Nähe des Busbahnhofs für einen schnellen Happen."
+          },
+          {
+            "name": "The Baltic Market",
+            "tip": "Eine kurze Busfahrt entfernt, bietet dieser Lebensmittelmarkt eine riesige Auswahl an Streetfood-Ständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ropes & Twines",
+            "tip": "Kávézó és borbár a katedrális közelében, ideális egy kávéra a látogatás előtt vagy után."
+          },
+          {
+            "name": "Queens Square",
+            "tip": "Sok gyors és egyszerű étkezési lehetőség a buszpályaudvar közelében egy gyors falathoz."
+          },
+          {
+            "name": "The Baltic Market",
+            "tip": "Rövid buszútra található ez az élelmiszerpiac, ahol hatalmas a street food standok választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ropes & Twines",
+            "tip": "O cafenea și un bar de vinuri lângă catedrală, perfecte pentru o cafea înainte sau după vizită."
+          },
+          {
+            "name": "Queens Square",
+            "tip": "Multe opțiuni de mâncare rapidă și ușoară lângă stația de autobuz pentru o gustare rapidă."
+          },
+          {
+            "name": "Piața Baltică",
+            "tip": "La o scurtă călătorie cu autobuzul, această piață alimentară are o varietate imensă de standuri cu mâncare stradală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ropes & Twines",
+            "tip": "A coffee shop and wine bar near the Cathedral, perfect for a pre or post-visit coffee."
+          },
+          {
+            "name": "Queens Square",
+            "tip": "Lots of quick and easy food options near the bus station for a fast bite."
+          },
+          {
+            "name": "The Baltic Market",
+            "tip": "A short bus ride away, this food market has a huge variety of street food stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Central Library",
+            "tip": "Gleich neben dem World Museum befindet sich der atemberaubende Picton-Lesesaal.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Oratorienfriedhof St. James",
+            "tip": "Gehen Sie von der Kathedrale hinunter in diese versunkene Oase der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mersey Fähre",
+            "tip": "Nehmen Sie eine Fähre für eine andere, ruhigere Perspektive auf die Stadt vom Wasser aus.",
+            "emoji": "⛴️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Könyvtár",
+            "tip": "A Világmúzeum mellett található a lenyűgöző Picton olvasóterem.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Szent Jakab Oratórium temetője",
+            "tip": "Sétáljon le a katedrálistól ebbe a süllyesztett béke oázisába.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mersey komp",
+            "tip": "Szálljon kompra egy másik, csendesebb perspektíváért a városra a vízről.",
+            "emoji": "⛴️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Centrală",
+            "tip": "Chiar lângă Muzeul Mondial, uimitoarea Sală de Lectură Picton este un refugiu liniștit.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Cimitirul Oratoriului St. James",
+            "tip": "Coborâți de la catedrală în această oază scufundată de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Feribotul Mersey",
+            "tip": "Luați un feribot pentru o perspectivă diferită și mai liniștită asupra orașului de pe apă.",
+            "emoji": "⛴️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Library",
+            "tip": "Right next to the World Museum, the stunning Picton Reading Room is a quiet haven.",
+            "emoji": "📚"
+          },
+          {
+            "name": "St. James's Oratory Cemetery",
+            "tip": "Walk down from the Cathedral into this sunken oasis of calm.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mersey Ferry",
+            "tip": "Take a ferry for a different, quieter perspective of the city from the water.",
+            "emoji": "⛴️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen der Kathedrale",
+            "tip": "Einzigartige Geschenke und Bücher über die Geschichte der Kathedrale."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Leicht zu Fuß vom Hauptbusbereich aus erreichbar, für unabhängige Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális ajándékboltja",
+            "tip": "Egyedi ajándékok és könyvek a katedrális történetéről."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Könnyen megközelíthető gyalog a fő buszpályaudvartól, független üzletekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Catedralei",
+            "tip": "Cadouri unice și cărți despre istoria catedralei."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Accesibil pe jos din zona principală a autobuzelor pentru magazine independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Gift Shop",
+            "tip": "Unique gifts and books about the cathedral's history."
+          },
+          {
+            "name": "Bold Street",
+            "tip": "Easily walkable from the main bus area for independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Saveaway-Tageskarte für unbegrenzte Fahrten mit Bussen, Zügen und Fähren.",
+          "Laden Sie die Merseytravel-App für Echtzeit-Busfahrpläne herunter.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also zusätzliche Zeit ein.",
+          "Die meisten Busse sind kontaktlos, aber es ist gut, etwas Kleingeld dabei zu haben."
+        ],
+        "hu": [
+          "Vásároljon egy Saveaway napijegyet a korlátlan utazáshoz buszokon, vonatokon és kompokon.",
+          "Töltse le a Merseytravel alkalmazást a valós idejű buszmenetrendekért.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen plusz időt.",
+          "A legtöbb busz érintésmentes, de jó, ha van nálunk némi aprópénz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi Saveaway pentru călătorii nelimitate cu autobuzele, trenurile și feriboturile.",
+          "Descărcați aplicația Merseytravel pentru orarele autobuzelor în timp real.",
+          "Autobuzele pot fi aglomerate în timpul orelor de vârf, așa că lăsați-vă timp suplimentar.",
+          "Majoritatea autobuzelor sunt contactless, dar este bine să aveți și niște mărunțiș la îndemână."
+        ],
+        "en": [
+          "Buy a Saveaway day ticket for unlimited travel on buses, trains, and ferries.",
+          "Download the Merseytravel app for real-time bus schedules.",
+          "Buses can be crowded during peak hours, so allow for extra time.",
+          "Most buses are contactless, but having some change is a good backup."
+        ]
+      }
+    }
+  }
+}

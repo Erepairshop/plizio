@@ -1,0 +1,1316 @@
+{
+  "city_id": "czechrepublic-kolin-cities-v2",
+  "anchor": {
+    "name": "Kolin",
+    "coords": [
+      15.2006,
+      50.0281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Karlsplatz",
+          "coords": [
+            15.2016,
+            50.0281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen barocken Fassaden.",
+            "hu": "Csodálja meg a történelmi barokk homlokzatokat.",
+            "ro": "Admirați fațadele istorice în stil baroc.",
+            "en": "Admire the historical baroque facades."
+          }
+        },
+        {
+          "name": "Rathaus Kolín",
+          "coords": [
+            15.2018,
+            50.0282
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus ist das Zentrum des städtischen Lebens.",
+            "hu": "A városháza a városi élet igazi központja.",
+            "ro": "Primăria este centrul vieții urbane locale.",
+            "en": "The town hall is the center of local civic life."
+          }
+        },
+        {
+          "name": "St.-Bartholomäus-Kathedrale",
+          "coords": [
+            15.2005,
+            50.027
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der gotischen Architektur, entworfen von Peter Parler.",
+            "hu": "Peter Parler által tervezett gótikus építészeti remekmű.",
+            "ro": "O capodoperă a arhitecturii gotice, proiectată de Peter Parler.",
+            "en": "A masterpiece of Gothic architecture designed by Peter Parler."
+          }
+        },
+        {
+          "name": "Regionalmuseum (Veigert-Haus)",
+          "coords": [
+            15.2025,
+            50.0285
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte und Kultur der Region.",
+            "hu": "Fedezze fel a régió gazdag történelmét és kultúráját.",
+            "ro": "Descoperiți istoria și cultura bogată a regiunii.",
+            "en": "Discover the rich history and culture of the region."
+          }
+        },
+        {
+          "name": "Masaryk-Brücke",
+          "coords": [
+            15.203,
+            50.0305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Elbe.",
+            "hu": "Élvezze a kilátást az Elba folyóra.",
+            "ro": "Bucurați-vă de priveliștea asupra râului Elba.",
+            "en": "Enjoy the view over the Elbe river."
+          }
+        },
+        {
+          "name": "Wasserturm Práchovna",
+          "coords": [
+            15.204,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm bietet ein tolles Panorama über die Stadt.",
+            "hu": "A torony remek panorámát nyújt a városra.",
+            "ro": "Turnul oferă o panoramă superbă asupra orașului.",
+            "en": "The tower offers a great panorama over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang am historischen Karlsplatz und dem nahegelegenen Rathaus. Danach bewundern wir die gotische Architektur der St.-Bartholomäus-Kathedrale. Der Nachmittag ist der regionalen Geschichte im Veigert-Haus gewidmet. Abschließend spazieren wir über die Masaryk-Brücke und genießen die Aussicht vom Wasserturm Práchovna.",
+        "hu": "Sétánkat a történelmi Károly téren és a közeli városházánál kezdjük. Ezután megcsodáljuk a Szent Bertalan-katedrális gótikus építészetét. A délutánt a régió történelmének szenteljük a Veigert-házban. Végül átsétálunk a Masaryk hídon, és élvezzük a kilátást a Práchovna víztoronyból.",
+        "ro": "Ne începem plimbarea în istoricul Karlsplatz și la primăria din apropiere. Apoi admirăm arhitectura gotică a Catedralei Sfântul Bartolomeu. După-amiaza este dedicată istoriei regionale la Casa Veigert. În cele din urmă, ne plimbăm peste Podul Masaryk și ne bucurăm de priveliștea de la Turnul de Apă Práchovna.",
+        "en": "We start our walk at the historical Karlsplatz and the nearby town hall. Afterwards, we admire the Gothic architecture of St. Bartholomew's Cathedral. The afternoon is dedicated to regional history at the Veigert House. Finally, we walk across the Masaryk Bridge and enjoy the view from the Práchovna Water Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Traditionelles böhmisches Gulasch",
+            "tip": "Probieren Sie herzhaftes Gulasch mit Knödeln in einem lokalen Gasthaus am Karlsplatz."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Genießen Sie das weltbekannte tschechische Bier frisch vom Fass."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßes Gebäck, das über offenem Feuer gebacken wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos cseh gulyás",
+            "tip": "Kóstolja meg a kiadós gulyást knédlivel egy helyi vendéglőben a Károly téren."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Élvezze a világhírű cseh sört frissen csapolva."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Nyílt tűzön sült, édes kürtőskalács."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gulaș tradițional boem",
+            "tip": "Încercați gulașul consistent cu găluște într-o tavernă locală din Karlsplatz."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Bucurați-vă de berea cehă de renume mondial proaspăt la draft."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "Un produs de patiserie dulce, copt la foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Bohemian Goulash",
+            "tip": "Try hearty goulash with dumplings in a local tavern at Karlsplatz."
+          },
+          {
+            "name": "Pilsner Urquell",
+            "tip": "Enjoy the world-famous Czech beer fresh from the tap."
+          },
+          {
+            "name": "Trdelník",
+            "tip": "A sweet pastry baked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbufer",
+            "tip": "Ein entspannender Spaziergang entlang des Flusses.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Park am Wasserturm",
+            "tip": "Ein ruhiger Ort, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innenhof der Kathedrale",
+            "tip": "Ein Moment der Stille abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba partja",
+            "tip": "Pihentető séta a folyó mentén.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Park a víztoronynál",
+            "tip": "Csendes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Katedrális belső udvara",
+            "tip": "A csend pillanata, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Elba",
+            "tip": "O plimbare relaxantă de-a lungul râului.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Parcul de la Turnul de Apă",
+            "tip": "Un loc liniștit pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea catedralei",
+            "tip": "Un moment de liniște departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe riverbank",
+            "tip": "A relaxing walk along the river.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Park near the Water Tower",
+            "tip": "A quiet place to watch the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cathedral courtyard",
+            "tip": "A moment of silence away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkskunst aus der Region",
+            "tip": "Kleine Boutiquen rund um den Karlsplatz bieten lokale Produkte an."
+          },
+          {
+            "name": "Böhmisches Glas",
+            "tip": "Ein klassisches Souvenir aus Tschechien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A Károly tér körüli kis butikok helyi termékeket kínálnak."
+          },
+          {
+            "name": "Cseh üveg",
+            "tip": "Egy klasszikus szuvenír Csehországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Micile buticuri din jurul Karlsplatz oferă produse locale."
+          },
+          {
+            "name": "Sticlă de Boemia",
+            "tip": "Un suvenir clasic din Republica Cehă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local crafts",
+            "tip": "Small boutiques around Karlsplatz offer local products."
+          },
+          {
+            "name": "Bohemian glass",
+            "tip": "A classic souvenir from the Czech Republic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Viele Sehenswürdigkeiten liegen nah beieinander, planen Sie genügend Zeit zum Fotografieren ein.",
+          "Ein Spaziergang entlang der Elbe ist besonders am späten Nachmittag empfehlenswert."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, és a legjobb gyalogosan felfedezni.",
+          "Viseljen kényelmes cipőt a macskaköves utcákon.",
+          "Sok látnivaló közel van egymáshoz, hagyjon elég időt a fényképezésre.",
+          "Az Elba menti séta különösen késő délután ajánlott."
+        ],
+        "ro": [
+          "Orașul vechi este foarte compact și se explorează cel mai bine pe jos.",
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Multe atracții sunt aproape una de cealaltă, lăsați suficient timp pentru fotografii.",
+          "O plimbare de-a lungul râului Elba este recomandată în special după-amiaza târziu."
+        ],
+        "en": [
+          "The old town is very compact and best explored on foot.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Many sights are close to each other, allow enough time for taking photos.",
+          "A walk along the Elbe is highly recommended, especially in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Karlsplatz",
+          "coords": [
+            15.2016,
+            50.0281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im historischen Zentrum.",
+            "hu": "Kezdje a kerékpártúrát a történelmi központban.",
+            "ro": "Începeți turul cu bicicleta în centrul istoric.",
+            "en": "Start your bike tour in the historical center."
+          }
+        },
+        {
+          "name": "Alte Synagoge",
+          "coords": [
+            15.199,
+            50.0275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein wichtiges jüdisches Denkmal der Stadt.",
+            "hu": "A város egyik fontos zsidó emlékműve.",
+            "ro": "Un monument evreiesc important al orașului.",
+            "en": "An important Jewish monument of the city."
+          }
+        },
+        {
+          "name": "Alter Jüdischer Friedhof",
+          "coords": [
+            15.196,
+            50.028
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einer der ältesten jüdischen Friedhöfe Böhmens.",
+            "hu": "Csehország egyik legrégebbi zsidó temetője.",
+            "ro": "Unul dintre cele mai vechi cimitire evreiești din Boemia.",
+            "en": "One of the oldest Jewish cemeteries in Bohemia."
+          }
+        },
+        {
+          "name": "Wasserturm Práchovna",
+          "coords": [
+            15.204,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Turm für eine großartige Aussicht.",
+            "hu": "Tekerjen a toronyhoz a nagyszerű kilátásért.",
+            "ro": "Mergeți la turn pentru o priveliște minunată.",
+            "en": "Ride to the tower for a great view."
+          }
+        },
+        {
+          "name": "Masaryk-Brücke",
+          "coords": [
+            15.203,
+            50.0305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss auf diesem architektonischen Wahrzeichen.",
+            "hu": "Keljen át a folyón ezen az építészeti nevezetességen.",
+            "ro": "Traversați râul pe acest punct de reper arhitectural.",
+            "en": "Cross the river on this architectural landmark."
+          }
+        },
+        {
+          "name": "Lapidarium",
+          "coords": [
+            15.201,
+            50.0265
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie sich die historischen Steinskulpturen an.",
+            "hu": "Nézze meg a történelmi kőszobrokat.",
+            "ro": "Vedeți sculpturile istorice în piatră.",
+            "en": "See the historical stone sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour beginnt am Karlsplatz und führt uns zur Alten Synagoge und dem Alten Jüdischen Friedhof. Danach radeln wir entlang des Flusses zum Wasserturm Práchovna. Auf dem Rückweg überqueren wir die Masaryk-Brücke und beenden die Tour am Lapidarium.",
+        "hu": "A kerékpártúra a Károly téren kezdődik, és a Régi zsinagógához, valamint a Régi zsidó temetőhöz vezet. Ezután a folyó mentén a Práchovna víztoronyhoz tekerünk. Visszafelé átkelünk a Masaryk hídon, és a Lapidáriumnál fejezzük be a túrát.",
+        "ro": "Turul cu bicicleta începe din Karlsplatz și ne duce la Vechea Sinagogă și la Vechiul Cimitir Evreiesc. Apoi pedalăm de-a lungul râului până la Turnul de Apă Práchovna. La întoarcere traversăm Podul Masaryk și încheiem turul la Lapidarium.",
+        "en": "The bike tour starts at Karlsplatz and takes us to the Old Synagogue and the Old Jewish Cemetery. Then we cycle along the river to the Práchovna Water Tower. On the way back we cross the Masaryk Bridge and end the tour at the Lapidarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Svíčková",
+            "tip": "Ein traditioneller Rinderbraten mit Rahmsoße und Preiselbeeren zur Stärkung."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Probieren Sie diese tschechische Limonaden-Spezialität."
+          },
+          {
+            "name": "Kolatsche (Koláč)",
+            "tip": "Ein süßer Snack für zwischendurch auf der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svíčková",
+            "tip": "Hagyományos marhasült tejszínes mártással és áfonyával a frissülésért."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Próbálja ki ezt a cseh kólaspecialitást."
+          },
+          {
+            "name": "Kolács (Koláč)",
+            "tip": "Édes falat két látványosság között a kerékpártúrán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Svíčková",
+            "tip": "O friptură tradițională de vită cu sos de smântână și merișoare pentru energie."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Încercați această specialitate de limonadă cehă."
+          },
+          {
+            "name": "Koláč",
+            "tip": "O gustare dulce pentru o pauză în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Svíčková",
+            "tip": "A traditional roast beef with cream sauce and cranberries for energy."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Try this Czech cola specialty."
+          },
+          {
+            "name": "Kolache (Koláč)",
+            "tip": "A sweet snack for a break during the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferradweg",
+            "tip": "Entspanntes Radfahren mit Blick auf das Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Práchovna",
+            "tip": "Ideal für eine kurze Pause mit Weitblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kmoch-Insel",
+            "tip": "Eine grüne Oase im Fluss Elbe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti kerékpárút",
+            "tip": "Pihentető kerékpározás kilátással a vízre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Práchovna kilátó",
+            "tip": "Ideális egy rövid pihenőre, messzire nyúló kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kmoch-sziget",
+            "tip": "Zöld oázis az Elba folyóban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete pe malul apei",
+            "tip": "Ciclism relaxant cu vedere la apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Práchovna",
+            "tip": "Ideal pentru o scurtă pauză cu vederi ample.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insula Kmoch",
+            "tip": "O oază verde în râul Elba.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside bike path",
+            "tip": "Relaxing cycling with a view of the water.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Práchovna viewpoint",
+            "tip": "Ideal for a short break with sweeping views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kmoch Island",
+            "tip": "A green oasis in the Elbe River.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Gebäck für Ihr Picknick am Fluss."
+          },
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Nützliches Fahrradzubehör finden Sie in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss pékárut a folyóparti piknikhez."
+          },
+          {
+            "name": "Sportboltok",
+            "tip": "Hasznos kerékpáros kiegészítőket talál a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie proaspete pentru picnicul dvs. pe malul râului."
+          },
+          {
+            "name": "Magazine de sport",
+            "tip": "Accesorii utile pentru biciclete pot fi găsite în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Buy fresh pastries for your riverside picnic."
+          },
+          {
+            "name": "Sports shops",
+            "tip": "Useful bicycle accessories can be found in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrradwege entlang der Elbe sind flach und gut ausgebaut.",
+          "Achten Sie in der Altstadt auf Fußgänger und Kopfsteinpflaster.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie Sehenswürdigkeiten besichtigen.",
+          "Eine Fahrradklingel ist nützlich, um auf sich aufmerksam zu machen."
+        ],
+        "hu": [
+          "Az Elba menti kerékpárutak síkak és jól karbantartottak.",
+          "Az óvárosban ügyeljen a gyalogosokra és a macskakövekre.",
+          "Mindig zárja le biztonságosan a kerékpárját, amikor látványosságokat látogat.",
+          "A kerékpárcsengő hasznos a figyelemfelkeltésre."
+        ],
+        "ro": [
+          "Pistele de biciclete de-a lungul râului Elba sunt plate și bine întreținute.",
+          "Atenție la pietoni și la pietruială în orașul vechi.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță când vizitați atracțiile turistice.",
+          "Un clopoțel de bicicletă este util pentru a atrage atenția."
+        ],
+        "en": [
+          "The bike paths along the Elbe are flat and well maintained.",
+          "Pay attention to pedestrians and cobblestones in the old town.",
+          "Always lock your bike securely when visiting sights.",
+          "A bicycle bell is useful for drawing attention."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Karlsplatz",
+          "coords": [
+            15.2016,
+            50.0281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Platzes, um die Altstadt zu Fuß zu erkunden.",
+            "hu": "Parkolja le autóját a tér közelében, hogy gyalog fedezze fel az óvárost.",
+            "ro": "Parcați mașina aproape de piață pentru a explora orașul vechi pe jos.",
+            "en": "Park your car near the square to explore the old town on foot."
+          }
+        },
+        {
+          "name": "St.-Bartholomäus-Kathedrale",
+          "coords": [
+            15.2005,
+            50.027
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Karlsplatz entfernt.",
+            "hu": "Csak egy rövid sétára a Károly tértől.",
+            "ro": "La doar o scurtă plimbare de Karlsplatz.",
+            "en": "Just a short walk from Karlsplatz."
+          }
+        },
+        {
+          "name": "Regionalmuseum (Veigert-Haus)",
+          "coords": [
+            15.2025,
+            50.0285
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum vervollständigt unseren Rundgang im Zentrum.",
+            "hu": "A múzeum kiegészíti a belvárosi sétánkat.",
+            "ro": "Muzeul completează turul nostru în centru.",
+            "en": "The museum completes our walking tour in the center."
+          }
+        },
+        {
+          "name": "Alte Synagoge",
+          "coords": [
+            15.199,
+            50.0275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wir fahren zum jüdischen Viertel, um die Synagoge zu besichtigen.",
+            "hu": "A zsidó negyedbe hajtunk a zsinagóga megtekintéséhez.",
+            "ro": "Mergem în cartierul evreiesc pentru a vizita sinagoga.",
+            "en": "We drive to the Jewish quarter to visit the synagogue."
+          }
+        },
+        {
+          "name": "Alter Jüdischer Friedhof",
+          "coords": [
+            15.196,
+            50.028
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historischer Friedhof, der bequem zu Fuß erreichbar ist.",
+            "hu": "Történelmi temető, amely gyalog könnyen megközelíthető.",
+            "ro": "Un cimitir istoric, ușor accesibil pe jos.",
+            "en": "A historic cemetery, easily accessible on foot."
+          }
+        },
+        {
+          "name": "Wasserturm Práchovna",
+          "coords": [
+            15.204,
+            50.032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Wasserturm für eine fantastische Aussicht.",
+            "hu": "Utazás a víztoronyhoz a fantasztikus kilátásért.",
+            "ro": "Conduceți spre Turnul de Apă pentru o priveliște fantastică.",
+            "en": "Drive to the water tower for a fantastic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Tag im historischen Zentrum, parken das Auto und erkunden den Karlsplatz, die St.-Bartholomäus-Kathedrale und das Regionalmuseum zu Fuß. Danach fahren wir einen kurzen Abschnitt zum jüdischen Viertel, um die Alte Synagoge und den Friedhof zu besichtigen. Den Abschluss bildet eine Fahrt zum Wasserturm Práchovna für den besten Blick über die Stadt.",
+        "hu": "A napot a történelmi központban kezdjük, leparkoljuk az autót, majd gyalog felfedezzük a Károly teret, a Szent Bertalan-katedrálist és a Regionális Múzeumot. Ezután egy rövid úton a zsidó negyedbe hajtunk, hogy megnézzük a Régi zsinagógát és a temetőt. A napot a Práchovna víztoronyhoz vezető utazás zárja a város legjobb kilátásáért.",
+        "ro": "Ne începem ziua în centrul istoric, parcăm mașina și explorăm pe jos Karlsplatz, Catedrala Sf. Bartolomeu și Muzeul Regional. Apoi conducem o scurtă porțiune spre cartierul evreiesc pentru a vizita Vechea Sinagogă și cimitirul. Ziua se încheie cu o plimbare cu mașina la Turnul de Apă Práchovna pentru cea mai bună priveliște asupra orașului.",
+        "en": "We start our day in the historic center, park the car and explore Karlsplatz, St. Bartholomew's Cathedral and the Regional Museum on foot. Then we drive a short distance to the Jewish quarter to visit the Old Synagogue and the cemetery. The day concludes with a drive to the Práchovna Water Tower for the best view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pečená kachna",
+            "tip": "Gebratene Ente mit Rotkohl und Knödeln in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Das beliebte alkoholfreie Getränk der Tschechen, ideal für Autofahrer."
+          },
+          {
+            "name": "Böhmische Palatschinken",
+            "tip": "Ein süßer Abschluss des Mittagessens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pečená kachna",
+            "tip": "Sült kacsa lila káposztával és knédlivel egy hagyományos étteremben."
+          },
+          {
+            "name": "Kofola",
+            "tip": "A csehek kedvelt alkoholmentes itala, ideális a sofőröknek."
+          },
+          {
+            "name": "Cseh palacsinta",
+            "tip": "Édes befejezés az ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pečená kachna",
+            "tip": "Rață friptă cu varză roșie și găluște într-un restaurant tradițional."
+          },
+          {
+            "name": "Kofola",
+            "tip": "Băutura nealcoolică populară a cehilor, ideală pentru șoferi."
+          },
+          {
+            "name": "Clătite boeme",
+            "tip": "Un final dulce la masa de prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pečená kachna",
+            "tip": "Roast duck with red cabbage and dumplings in a traditional restaurant."
+          },
+          {
+            "name": "Kofola",
+            "tip": "The popular non-alcoholic drink of the Czechs, ideal for drivers."
+          },
+          {
+            "name": "Bohemian pancakes",
+            "tip": "A sweet finish to lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Wasserturm",
+            "tip": "Genießen Sie die ruhige Umgebung mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang an der Elbe",
+            "tip": "Ein ruhiger Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Hof des Veigert-Hauses",
+            "tip": "Ein schattiger Platz für eine kurze Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a víztoronynál",
+            "tip": "Élvezze a csendes környezetet a városra néző kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta az Elbánál",
+            "tip": "Csendes hely a nap lezárásához.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Veigert-ház udvara",
+            "tip": "Árnyékos hely egy rövid pihenőre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Turnului de Apă",
+            "tip": "Bucurați-vă de împrejurimile liniștite, cu vedere la oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe Elba",
+            "tip": "Un loc liniștit pentru a încheia ziua.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Curtea Casei Veigert",
+            "tip": "Un loc umbrit pentru o scurtă pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Water Tower Park",
+            "tip": "Enjoy the peaceful surroundings with a view of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Elbe",
+            "tip": "A quiet place to end the day.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Courtyard of the Veigert House",
+            "tip": "A shady spot for a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitäten",
+            "tip": "In den Seitengassen der Altstadt finden Sie versteckte Schätze."
+          },
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Kaufen Sie böhmische Leckereien in den lokalen Delikatessengeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régiségek",
+            "tip": "Az óváros mellékutcáiban rejtett kincseket talál."
+          },
+          {
+            "name": "Regionális specialitások",
+            "tip": "Vásároljon cseh finomságokat a helyi csemegeüzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antichități",
+            "tip": "Pe străzile laterale ale orașului vechi veți găsi comori ascunse."
+          },
+          {
+            "name": "Specialități regionale",
+            "tip": "Cumpărați delicatese boeme din delicatesele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antiques",
+            "tip": "You will find hidden treasures in the side streets of the old town."
+          },
+          {
+            "name": "Regional specialties",
+            "tip": "Buy Bohemian delicacies in the local delicatessens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im historischen Zentrum ist begrenzt, nutzen Sie die ausgewiesenen Parkplätze am Rande der Altstadt.",
+          "Die Clustermethode spart Zeit bei der Parkplatzsuche.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen in den Wohngebieten.",
+          "Ein Navigationssystem ist hilfreich, um die besten Parkplätze zu finden."
+        ],
+        "hu": [
+          "A történelmi központban korlátozott a parkolás, használja az óváros szélén kijelölt parkolókat.",
+          "A klaszteres módszer időt takarít meg a parkolóhely keresésekor.",
+          "Vegye figyelembe a lakóövezetek sebességkorlátozásait.",
+          "A navigációs rendszer hasznos a legjobb parkolóhelyek megtalálásához."
+        ],
+        "ro": [
+          "Parcarea în centrul istoric este limitată, folosiți locurile de parcare desemnate la marginea orașului vechi.",
+          "Metoda clusterului economisește timp la căutarea unui loc de parcare.",
+          "Vă rugăm să respectați limitele de viteză în zonele rezidențiale.",
+          "Un sistem de navigație este util pentru a găsi cele mai bune locuri de parcare."
+        ],
+        "en": [
+          "Parking in the historic center is limited, use the designated parking spaces on the edge of the old town.",
+          "The cluster method saves time when looking for a parking space.",
+          "Please observe the speed limits in the residential areas.",
+          "A navigation system is useful to find the best parking spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Karlsplatz",
+          "coords": [
+            15.2016,
+            50.0281
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Zentrum ist sehr gut mit den lokalen Bussen erreichbar.",
+            "hu": "A központ nagyon jól megközelíthető a helyi buszokkal.",
+            "ro": "Centrul este foarte ușor accesibil cu autobuzele locale.",
+            "en": "The center is very easily accessible by local buses."
+          }
+        },
+        {
+          "name": "Rathaus Kolín",
+          "coords": [
+            15.2018,
+            50.0282
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Rathaus ist nur wenige Gehminuten entfernt.",
+            "hu": "A városháza mindössze pár perc sétára található.",
+            "ro": "Primăria este la doar câteva minute de mers pe jos.",
+            "en": "The town hall is just a few minutes walk away."
+          }
+        },
+        {
+          "name": "St.-Bartholomäus-Kathedrale",
+          "coords": [
+            15.2005,
+            50.027
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die gotische Baukunst in vollen Zügen.",
+            "hu": "Élvezze a gótikus építészetet teljes mértékben.",
+            "ro": "Bucurați-vă din plin de arhitectura gotică.",
+            "en": "Enjoy the Gothic architecture to the fullest."
+          }
+        },
+        {
+          "name": "Alte Synagoge",
+          "coords": [
+            15.199,
+            50.0275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt uns ins jüdische Viertel.",
+            "hu": "Egy rövid buszút a zsidó negyedbe visz minket.",
+            "ro": "O scurtă călătorie cu autobuzul ne duce în cartierul evreiesc.",
+            "en": "A short bus ride takes us to the Jewish quarter."
+          }
+        },
+        {
+          "name": "Alter Jüdischer Friedhof",
+          "coords": [
+            15.196,
+            50.028
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke befindet sich der historische Friedhof.",
+            "hu": "A sarkon túl található a történelmi temető.",
+            "ro": "Chiar după colț este cimitirul istoric.",
+            "en": "Just around the corner is the historical cemetery."
+          }
+        },
+        {
+          "name": "Masaryk-Brücke",
+          "coords": [
+            15.203,
+            50.0305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln geht es weiter zur Brücke.",
+            "hu": "A tömegközlekedéssel tovább a hídhoz.",
+            "ro": "Mergem mai departe cu transportul public până la pod.",
+            "en": "We continue by public transport to the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen die lokalen Busse, um schnell ins Zentrum zum Karlsplatz zu gelangen. Die nahegelegenen Sehenswürdigkeiten wie das Rathaus und die Kathedrale erkunden wir zu Fuß. Danach fahren wir mit dem Bus ins jüdische Viertel für die Synagoge und den Friedhof. Eine weitere kurze Fahrt bringt uns zur Masaryk-Brücke an der Elbe.",
+        "hu": "A helyi buszokat használjuk, hogy gyorsan a központba, a Károly térre jussunk. A közeli látnivalókat, mint a városházát és a katedrálist, gyalog fedezzük fel. Ezután busszal a zsidó negyedbe megyünk a zsinagóga és a temető megtekintésére. Egy újabb rövid utazás a Masaryk hídhoz visz minket az Elbánál.",
+        "ro": "Folosim autobuzele locale pentru a ajunge rapid în centru la Karlsplatz. Atracțiile din apropiere, precum primăria și catedrala, le explorăm pe jos. Apoi mergem cu autobuzul în cartierul evreiesc pentru sinagogă și cimitir. O altă scurtă călătorie ne duce la Podul Masaryk pe Elba.",
+        "en": "We use the local buses to get quickly to the center at Karlsplatz. We explore the nearby sights such as the town hall and the cathedral on foot. Then we take the bus to the Jewish quarter for the synagogue and the cemetery. Another short trip takes us to the Masaryk Bridge on the Elbe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Gebratener Käse mit Pommes, ein beliebter Snack in vielen Bistros."
+          },
+          {
+            "name": "Tschechisches Bier",
+            "tip": "Perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Traditionelle Kartoffelpuffer, oft als Beilage serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Rántott sajt sült krumplival, sok bisztró népszerű harapnivalója."
+          },
+          {
+            "name": "Cseh sör",
+            "tip": "Tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Hagyományos krumplis palacsinta, gyakran köretként szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Brânză prăjită cu cartofi prăjiți, o gustare populară în multe bistrouri."
+          },
+          {
+            "name": "Bere cehă",
+            "tip": "Perfect după o lungă plimbare."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Clătite tradiționale de cartofi, adesea servite ca garnitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smažený sýr",
+            "tip": "Fried cheese with fries, a popular snack in many bistros."
+          },
+          {
+            "name": "Czech beer",
+            "tip": "Perfect after a long walk."
+          },
+          {
+            "name": "Bramboráky",
+            "tip": "Traditional potato pancakes, often served as a side dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grünanlagen am Fluss",
+            "tip": "Ideal zum Ausruhen, wenn man auf den nächsten Bus wartet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Alter Jüdischer Friedhof",
+            "tip": "Ein Ort der tiefen Stille und Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kmoch-Insel",
+            "tip": "Verstecktes Naturidyll nahe der Brücke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti zöldterületek",
+            "tip": "Ideális pihenésre, amíg a következő buszra vár.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Régi zsidó temető",
+            "tip": "A mély csend és a történelem helyszíne.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kmoch-sziget",
+            "tip": "Rejtett természeti idill a híd közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zone verzi pe râu",
+            "tip": "Ideal pentru odihnă în așteptarea următorului autobuz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vechiul cimitir evreiesc",
+            "tip": "Un loc de liniște profundă și istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Insula Kmoch",
+            "tip": "Idilă naturală ascunsă lângă pod.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside green areas",
+            "tip": "Ideal for resting while waiting for the next bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Jewish Cemetery",
+            "tip": "A place of deep silence and history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kmoch Island",
+            "tip": "Hidden natural idyll near the bridge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Karlsplatz",
+            "tip": "Holen Sie sich Andenken aus Kolín."
+          },
+          {
+            "name": "Bäckereien",
+            "tip": "Perfekt für einen Snack vor der nächsten Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok a Károly téren",
+            "tip": "Szerezzen be emlékeket Kolínból."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Tökéletes uzsonnára a következő utazás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din Karlsplatz",
+            "tip": "Obțineți suveniruri din Kolín."
+          },
+          {
+            "name": "Brutării",
+            "tip": "Perfect pentru o gustare înainte de următoarea călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops at Karlsplatz",
+            "tip": "Get souvenirs from Kolín."
+          },
+          {
+            "name": "Bakeries",
+            "tip": "Perfect for a snack before the next trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Fahrpläne der lokalen Busse.",
+          "Ein Tagesticket ist oft günstiger als Einzelfahrscheine.",
+          "Das Zentrum ist sehr gut zu Fuß erreichbar, nutzen Sie Busse nur für längere Strecken.",
+          "Achten Sie auf die Abfahrtszeiten, besonders am Nachmittag."
+        ],
+        "hu": [
+          "Előzetesen ellenőrizze a helyi buszok menetrendjét.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegy.",
+          "A központ nagyon könnyen elérhető gyalog, csak hosszabb utakra használjon buszokat.",
+          "Ügyeljen az indulási időkre, különösen délután."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzelor locale.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele simple.",
+          "Centrul este foarte ușor de ajuns pe jos, folosiți autobuzele doar pentru distanțe mai lungi.",
+          "Atenție la orele de plecare, mai ales după-amiaza."
+        ],
+        "en": [
+          "Check the local bus schedules in advance.",
+          "A day ticket is often cheaper than single tickets.",
+          "The center is very easily accessible on foot, use buses only for longer distances.",
+          "Pay attention to departure times, especially in the afternoon."
+        ]
+      }
+    }
+  }
+}

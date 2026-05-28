@@ -1,0 +1,1455 @@
+{
+  "city_id": "spain-santander-cities-v2",
+  "anchor": {
+    "name": "Santander",
+    "coords": [
+      -3.8099,
+      43.4623
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Paseo de Pereda & Jardines",
+            "hu": "Paseo de Pereda és kertjei",
+            "ro": "Paseo de Pereda și grădinile",
+            "en": "Paseo de Pereda & Gardens"
+          },
+          "coords": [
+            -3.8045,
+            43.4618
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der Cafés mit Blick auf die Bucht.",
+            "hu": "Kezdje a napot egy kávéval az öbölre néző kávézók egyikében.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele cu vedere la golf.",
+            "en": "Start with a coffee at one of the cafés overlooking the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Botín",
+            "hu": "Centro Botín",
+            "ro": "Centrul Botín",
+            "en": "Centro Botín"
+          },
+          "coords": [
+            -3.8033,
+            43.4609
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie auf die Dachterrasse für einen einzigartigen Blick auf die Stadt und das Meer.",
+            "hu": "Menjen fel a tetőteraszra a városra és a tengerre nyíló egyedi kilátásért.",
+            "ro": "Urcați pe terasa de pe acoperiș pentru o priveliște unică asupra orașului și a mării.",
+            "en": "Go up to the rooftop terrace for a unique view of the city and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Santander",
+            "hu": "Santanderi katedrális",
+            "ro": "Catedrala din Santander",
+            "en": "Santander Cathedral"
+          },
+          "coords": [
+            -3.805,
+            43.4628
+          ],
+          "category": "churches",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die untere Krypta (Iglesia del Cristo), den ältesten Teil des Gebäudes.",
+            "hu": "Látogassa meg az alsó kriptát (Iglesia del Cristo), az épület legrégebbi részét.",
+            "ro": "Vizitați cripta inferioară (Iglesia del Cristo), cea mai veche parte a clădirii.",
+            "en": "Visit the lower crypt (Iglesia del Cristo), the oldest part of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Mercado de la Esperanza",
+            "hu": "Ebéd a Mercado de la Esperanza közelében",
+            "ro": "Prânz lângă Mercado de la Esperanza",
+            "en": "Lunch near Mercado de la Esperanza"
+          },
+          "coords": [
+            -3.8075,
+            43.464
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Meeresfrüchte-Tapas in einer der Bars rund um den Markt.",
+            "hu": "Kóstoljon friss tenger gyümölcsei tapasokat a piac körüli bárok egyikében.",
+            "ro": "Încercați tapas proaspete cu fructe de mare la unul dintre barurile din jurul pieței.",
+            "en": "Try fresh seafood tapas at one of the bars surrounding the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum von Kantabrien",
+            "hu": "Kantábriai Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Cantabric",
+            "en": "Cantabrian Maritime Museum"
+          },
+          "coords": [
+            -3.7915,
+            43.4655
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Walskelette und das große Aquarium.",
+            "hu": "Ne hagyja ki a bálnacsontvázakat és a nagy akváriumot.",
+            "ro": "Nu ratați scheletele de balenă și acvariul mare.",
+            "en": "Don't miss the whale skeletons and the large aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Peligros",
+            "hu": "Playa de los Peligros",
+            "ro": "Plaja Peligros",
+            "en": "Peligros Beach"
+          },
+          "coords": [
+            -3.795,
+            43.465
+          ],
+          "category": "beaches",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Stadtstrand, ideal für eine Pause am Nachmittag.",
+            "hu": "Csendes városi strand, ideális egy délutáni pihenőre.",
+            "ro": "O plajă urbană liniștită, perfectă pentru o pauză de după-amiază.",
+            "en": "A calm city beach, perfect for an afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der eleganten Uferpromenade Paseo de Pereda, genießen Sie die Meeresbrise und die Aussicht auf die Bucht. Am Vormittag tauchen Sie im futuristischen Centro Botín in die moderne Kunst ein. Die Dachterrasse bietet einen spektakulären Panoramablick. Nach einem Spaziergang zur historischen Kathedrale von Santander, wo Sie die romanische Krypta erkunden, genießen Sie ein Mittagessen mit frischen Meeresfrüchten in der Nähe des lebhaften Mercado de la Esperanza. Der Nachmittag ist der reichen Seefahrtsgeschichte Kantabriens im Schifffahrtsmuseum gewidmet. Beenden Sie Ihren Rundgang mit einer entspannten Pause am Stadtstrand Playa de los Peligros und beobachten Sie die Boote in der Bucht.",
+        "hu": "Kezdje a napot az elegáns Paseo de Pereda sétányon, élvezve a tengeri szellőt és az öbölre nyíló kilátást. Délelőtt merüljön el a modern művészetben a futurisztikus Centro Botínban; a tetőteraszról lenyűgöző panoráma nyílik. Sétáljon el a történelmi Santanderi katedrálishoz, fedezze fel a román kori kriptát, majd ebédeljen friss tenger gyümölcseit a nyüzsgő Mercado de la Esperanza közelében. A délutánt Kantábria gazdag tengerészeti történelmének szentelje a Tengerészeti Múzeumban. Zárja a gyalogtúrát egy pihentető szünettel a Playa de los Peligros városi strandon, figyelve a hajókat az öbölben.",
+        "ro": "Începeți ziua pe eleganta promenadă Paseo de Pereda, bucurându-vă de briza mării și de priveliștea golfului. Dimineața, scufundați-vă în arta modernă la futuristul Centro Botín; terasa de pe acoperiș oferă o panoramă spectaculoasă. După o plimbare până la istorica Catedrală din Santander pentru a explora cripta romanică, savurați un prânz cu fructe de mare proaspete lângă animatul Mercado de la Esperanza. După-amiaza este dedicată bogatei istorii maritime a Cantabriei la Muzeul Maritim. Încheiați turul pietonal cu o pauză relaxantă la plaja urbană Peligros, privind bărcile din golf.",
+        "en": "Start your day on the elegant Paseo de Pereda promenade, enjoying the sea breeze and bay views. In the morning, immerse yourself in modern art at the futuristic Centro Botín; its rooftop offers a spectacular panorama. After a walk to the historic Santander Cathedral to explore its Romanesque crypt, enjoy a fresh seafood lunch near the bustling Mercado de la Esperanza. The afternoon is dedicated to Cantabria's rich maritime history at the Maritime Museum. Conclude your walking tour with a relaxing break at the urban Peligros Beach, watching the boats in the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rabas de Calamar",
+            "tip": "Frittierte Tintenfischringe, ein lokaler Klassiker. Am besten mit einem Spritzer Zitrone."
+          },
+          {
+            "name": "Anchoas de Santoña",
+            "tip": "Weltberühmte Sardellen aus einem nahegelegenen Dorf, oft auf Brot mit Tomaten serviert."
+          },
+          {
+            "name": "Cocido Montañés",
+            "tip": "Ein herzhafter Bohnen- und Kohleintopf, perfekt für kühlere Tage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rabas de Calamar",
+            "tip": "Sült tintahalkarikák, helyi klasszikus. A legjobb egy csepp citrommal."
+          },
+          {
+            "name": "Anchoas de Santoña",
+            "tip": "Világhírű szardella a közeli faluból, gyakran paradicsomos kenyéren tálalva."
+          },
+          {
+            "name": "Cocido Montañés",
+            "tip": "Kiadós bab- és káposztaegytálétel, tökéletes a hűvösebb napokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rabas de Calamar",
+            "tip": "Inele de calmar prăjite, un clasic local. Cel mai bun cu un strop de lămâie."
+          },
+          {
+            "name": "Anchoas de Santoña",
+            "tip": "Anșoa de renume mondial dintr-un sat din apropiere, adesea servită pe pâine cu roșii."
+          },
+          {
+            "name": "Cocido Montañés",
+            "tip": "O tocană consistentă de fasole și varză, perfectă pentru zilele mai răcoroase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rabas de Calamar",
+            "tip": "Fried squid rings, a local classic. Best enjoyed with a squeeze of lemon."
+          },
+          {
+            "name": "Anchoas de Santoña",
+            "tip": "World-famous anchovies from a nearby village, often served on bread with tomato."
+          },
+          {
+            "name": "Cocido Montañés",
+            "tip": "A hearty bean and cabbage stew, perfect for cooler days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardines de Pereda",
+            "tip": "Finden Sie eine ruhige Bank zwischen den alten Bäumen und lauschen Sie den Geräuschen der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador Río de la Pila",
+            "tip": "Nehmen Sie den Funicular für einen schnellen, ruhigen Blick von oben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cementerio de Ciriego",
+            "tip": "Ein historischer Friedhof am Meer mit beeindruckender Architektur und einer friedlichen Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pereda kertek",
+            "tip": "Keressen egy csendes padot az öreg fák között, és hallgassa a város hangjait.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador Río de la Pila",
+            "tip": "Menjen fel a siklóval egy gyors, csendes, fentről nyíló kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cementerio de Ciriego",
+            "tip": "Történelmi temető a tenger mellett, lenyűgöző építészettel és békés hangulattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Pereda",
+            "tip": "Găsiți o bancă liniștită printre copacii bătrâni și ascultați sunetele orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador Río de la Pila",
+            "tip": "Luați funicularul pentru o priveliște rapidă și liniștită de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Ciriego",
+            "tip": "Un cimitir istoric lângă mare cu arhitectură impresionantă și o atmosferă pașnică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pereda Gardens",
+            "tip": "Find a quiet bench among the old trees and listen to the sounds of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador Río de la Pila",
+            "tip": "Take the funicular up for a quick, quiet view from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ciriego Cemetery",
+            "tip": "A historic seaside cemetery with impressive architecture and a peaceful atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de la Esperanza",
+            "tip": "Kaufen Sie lokale Käsesorten wie Queso de Cantabria oder handwerklich hergestellte Sobao-Kuchen."
+          },
+          {
+            "name": "Calle Arrabal",
+            "tip": "Eine charmante Straße mit kleinen Boutiquen und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de la Esperanza",
+            "tip": "Vásároljon helyi sajtokat, mint a Queso de Cantabria, vagy kézműves Sobao süteményt."
+          },
+          {
+            "name": "Calle Arrabal",
+            "tip": "Bájos utca kis butikokkal és kézműves üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de la Esperanza",
+            "tip": "Cumpărați brânzeturi locale precum Queso de Cantabria sau prăjituri artizanale Sobao."
+          },
+          {
+            "name": "Calle Arrabal",
+            "tip": "O stradă fermecătoare cu mici buticuri și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de la Esperanza",
+            "tip": "Shop for local cheeses like Queso de Cantabria or artisanal Sobao cakes."
+          },
+          {
+            "name": "Calle Arrabal",
+            "tip": "A charming street with small boutiques and artisan shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum hügelig sein kann.",
+          "Viele Geschäfte und sogar einige Museen schließen für eine Siesta am Nachmittag, planen Sie entsprechend.",
+          "Behalten Sie die Gezeiten im Auge, wenn Sie an den Stränden spazieren gehen, da sie sich dramatisch ändern können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont dombos lehet.",
+          "Sok üzlet, sőt néhány múzeum is bezár délutáni szieszta idejére, tervezzen ennek megfelelően.",
+          "Figyelje az árapályt, amikor a strandokon sétál, mivel drámaian változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului poate fi deluros.",
+          "Multe magazine și chiar unele muzee se închid pentru o siestă de după-amiază, planificați-vă în consecință.",
+          "Fiți atenți la maree când vă plimbați pe plaje, deoarece se pot schimba dramatic."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center can be hilly.",
+          "Many shops and even some museums close for an afternoon siesta, so plan accordingly.",
+          "Keep an eye on the tides when walking on the beaches, as they can change dramatically."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:05",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Botín",
+            "hu": "Centro Botín",
+            "ro": "Centrul Botín",
+            "en": "Centro Botín"
+          },
+          "coords": [
+            -3.8033,
+            43.4609
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour von hier aus.",
+            "hu": "Béreljen kerékpárt a közelben, és innen indítsa a túrát.",
+            "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo de Pereda",
+            "hu": "Paseo de Pereda",
+            "ro": "Paseo de Pereda",
+            "en": "Paseo de Pereda"
+          },
+          "coords": [
+            -3.8045,
+            43.4618
+          ],
+          "category": "promenades",
+          "arrive_at": "10:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache und malerische Fahrt entlang der Bucht.",
+            "hu": "Élvezze a sík és festői utat az öböl mentén.",
+            "ro": "Bucurați-vă de plimbarea plată și pitorească de-a lungul golfului.",
+            "en": "Enjoy the flat and scenic ride along the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Magdalena",
+            "hu": "Magdalena-palota",
+            "ro": "Palatul Magdalena",
+            "en": "Magdalena Palace"
+          },
+          "coords": [
+            -3.763,
+            43.471
+          ],
+          "category": "castles",
+          "arrive_at": "11:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Halbinsel zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a félszigetet gyalog.",
+            "ro": "Lăsați bicicleta la intrare și explorați peninsula pe jos.",
+            "en": "Lock your bike at the entrance and explore the peninsula on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von El Sardinero",
+            "hu": "El Sardinero strand",
+            "ro": "Plaja El Sardinero",
+            "en": "El Sardinero Beach"
+          },
+          "coords": [
+            -3.782,
+            43.473
+          ],
+          "category": "beaches",
+          "arrive_at": "13:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Restaurants servieren Menú del Día.",
+            "hu": "Tökéletes egy ebédszünetre. Sok étterem kínál Menú del Día-t.",
+            "ro": "Perfect pentru o pauză de prânz. Multe restaurante servesc Menú del Día.",
+            "en": "Perfect for a lunch break. Many restaurants serve Menú del Día."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Casino del Sardinero",
+            "hu": "Gran Casino del Sardinero",
+            "ro": "Marele Cazinou Sardinero",
+            "en": "Gran Casino del Sardinero"
+          },
+          "coords": [
+            -3.784,
+            43.472
+          ],
+          "category": "cultural centres",
+          "arrive_at": "15:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Belle-Époque-Architektur von außen.",
+            "hu": "Csodálja meg kívülről a Belle Époque építészetét.",
+            "ro": "Admirați arhitectura Belle Époque din exterior.",
+            "en": "Admire the Belle Époque architecture from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Cabo Mayor",
+            "hu": "Cabo Mayor világítótorony",
+            "ro": "Farul Cabo Mayor",
+            "en": "Cabo Mayor Lighthouse"
+          },
+          "coords": [
+            -3.805,
+            43.489
+          ],
+          "category": "lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die atemberaubende Aussicht auf die Klippen.",
+            "hu": "Megéri felmenni a sziklákra nyíló lélegzetelállító kilátásért.",
+            "ro": "Urcușul merită pentru priveliștea uluitoare a stâncilor.",
+            "en": "The climb is worth it for the breathtaking cliffside views."
+          }
+        },
+        {
+          "name": {
+            "de": "Piquío-Gärten",
+            "hu": "Piquío kertek",
+            "ro": "Grădinile Piquío",
+            "en": "Piquío Gardens"
+          },
+          "coords": [
+            -3.783,
+            43.4725
+          ],
+          "category": "parks",
+          "arrive_at": "18:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Sonnenuntergang über dem Strand von Sardinero zu beobachten.",
+            "hu": "Gyönyörű hely a naplemente megtekintéséhez a Sardinero strand felett.",
+            "ro": "Un loc frumos pentru a privi apusul peste plaja Sardinero.",
+            "en": "A beautiful spot to watch the sunset over Sardinero beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Centro Botín und fahren Sie entlang der malerischen Bucht auf dem Paseo de Pereda. Die Route führt Sie zur atemberaubenden Halbinsel Magdalena, wo Sie den königlichen Palast erkunden können. Machen Sie eine wohlverdiente Mittagspause am berühmten Strand von El Sardinero und bewundern Sie die elegante Fassade des Gran Casinos. Am Nachmittag wartet eine anspruchsvollere, aber lohnende Fahrt zum Leuchtturm von Cabo Mayor auf Sie, der spektakuläre Ausblicke auf die Klippen bietet. Auf dem Rückweg halten Sie in den Piquío-Gärten an, um einen perfekten Sonnenuntergang über dem Meer zu erleben.",
+        "hu": "Kezdje a kerékpártúrát a Centro Botínnál, majd tekerjen végig a festői öböl mentén a Paseo de Peredán. Az útvonal a lenyűgöző Magdalena-félszigetre vezet, ahol felfedezheti a királyi palotát. Tartson egy jól megérdemelt ebédszünetet a híres El Sardinero strandon, és csodálja meg a Gran Casino elegáns homlokzatát. Délután egy nagyobb kihívást jelentő, de annál kifizetődőbb út várja a Cabo Mayor világítótoronyhoz, ahonnan látványos kilátás nyílik a sziklákra. Visszafelé álljon meg a Piquío kerteknél, hogy élvezze a tökéletes naplementét a tenger felett.",
+        "ro": "Începeți turul cu bicicleta de la Centrul Botín, pedalând de-a lungul golfului pitoresc pe Paseo de Pereda. Traseul vă duce la uimitoarea Peninsulă Magdalena pentru a explora palatul regal. Luați o pauză de prânz binemeritată la faimoasa plajă El Sardinero, admirând fațada elegantă a Marelui Cazinou. După-amiaza vă așteaptă o plimbare mai dificilă, dar plină de satisfacții, până la Farul Cabo Mayor, pentru vederi spectaculoase ale stâncilor. Pe drumul de întoarcere, opriți-vă la Grădinile Piquío pentru un apus perfect peste mare.",
+        "en": "Start your bike tour at Centro Botín, cycling along the scenic bay on Paseo de Pereda. The route takes you to the stunning Magdalena Peninsula to explore the royal palace. Take a well-deserved lunch break at the famous El Sardinero beach, admiring the elegant façade of the Gran Casino. In the afternoon, a more challenging but rewarding ride awaits to Cabo Mayor Lighthouse for spectacular cliffside views. On your way back, stop at Piquío Gardens for a perfect sunset over the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein Sandwich mit frittiertem Tintenfisch, perfekt für ein schnelles Mittagessen am Strand."
+          },
+          {
+            "name": "Marmita de Bonito",
+            "tip": "Ein traditioneller Thunfisch-Eintopf, besonders beliebt im Sommer."
+          },
+          {
+            "name": "Quesada Pasiega",
+            "tip": "Ein saftiger Käsekuchen aus der Region, ideal als süßer Energiekick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Sült tintahalas szendvics, tökéletes egy gyors ebédhez a tengerparton."
+          },
+          {
+            "name": "Marmita de Bonito",
+            "tip": "Hagyományos tonhalpörkölt, különösen népszerű nyáron."
+          },
+          {
+            "name": "Quesada Pasiega",
+            "tip": "Zamatos sajttorta a régióból, ideális édes energialöketként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș cu calmar prăjit, perfect pentru un prânz rapid pe plajă."
+          },
+          {
+            "name": "Marmita de Bonito",
+            "tip": "O tocană tradițională de ton, deosebit de populară vara."
+          },
+          {
+            "name": "Quesada Pasiega",
+            "tip": "O prăjitură cu brânză suculentă din regiune, ideală ca un impuls dulce de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A fried squid sandwich, perfect for a quick lunch on the beach."
+          },
+          {
+            "name": "Marmita de Bonito",
+            "tip": "A traditional tuna stew, especially popular in the summer."
+          },
+          {
+            "name": "Quesada Pasiega",
+            "tip": "A dense, cheesecake-like dessert from the region, ideal for a sweet energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de Mataleñas",
+            "tip": "Ein ruhiger Park in der Nähe von Cabo Mayor, ideal für eine Pause nach dem Aufstieg.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Península de la Magdalena",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze mit Blick auf das offene Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Segunda Playa del Sardinero",
+            "tip": "Etwas ruhiger als der Hauptstrand, besonders außerhalb der Stoßzeiten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de Mataleñas",
+            "tip": "Csendes park a Cabo Mayor közelében, ideális pihenőhely a mászás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalena-félsziget",
+            "tip": "A fő utaktól távolabb csendes helyeket talál, ahonnan a nyílt tengerre nyílik kilátás.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Segunda Playa del Sardinero",
+            "tip": "Kicsit csendesebb, mint a fő strand, különösen csúcsidőn kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mataleñas",
+            "tip": "Un parc liniștit lângă Cabo Mayor, perfect pentru o pauză după urcare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peninsula Magdalena",
+            "tip": "Departe de potecile principale, găsiți locuri liniștite cu vedere la marea deschisă.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Segunda Playa del Sardinero",
+            "tip": "Puțin mai liniștită decât plaja principală, mai ales în afara orelor de vârf.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mataleñas Park",
+            "tip": "A quiet park near Cabo Mayor, perfect for a break after the climb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Magdalena Peninsula",
+            "tip": "Off the main paths, find quiet spots overlooking the open sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Segunda Playa del Sardinero",
+            "tip": "Slightly quieter than the main beach, especially during off-peak hours.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Este",
+            "tip": "Ein kleinerer, eleganter Markt, ideal für Gourmet-Souvenirs."
+          },
+          {
+            "name": "Souvenirläden am Sardinero",
+            "tip": "Finden Sie thematische Souvenirs wie kleine Leuchttürme oder Anker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Este",
+            "tip": "Kisebb, elegáns piac, ideális ínyenc ajándéktárgyakhoz."
+          },
+          {
+            "name": "Ajándékboltok a Sardinerón",
+            "tip": "Keressen tematikus ajándéktárgyakat, például kis világítótornyokat vagy horgonyokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Este",
+            "tip": "O piață mai mică și elegantă, ideală pentru suveniruri gourmet."
+          },
+          {
+            "name": "Magazine de suveniruri la Sardinero",
+            "tip": "Găsiți suveniruri tematice precum faruri mici sau ancore."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Este",
+            "tip": "A smaller, more elegant market, great for gourmet souvenirs."
+          },
+          {
+            "name": "Sardinero Souvenir Shops",
+            "tip": "Find themed souvenirs like small lighthouses or anchors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die ausgebauten Radwege entlang der Küste.",
+          "Einige Strecken, besonders der Anstieg nach Cabo Mayor, erfordern eine gute Kondition.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten wie Stränden."
+        ],
+        "hu": [
+          "Használja a kiépített kerékpárutakat a part mentén.",
+          "Néhány szakasz, különösen a Cabo Mayor-ra vezető emelkedő, jó kondíciót igényel.",
+          "Mindig gondosan zárja le a kerékpárt, különösen forgalmas helyeken, mint a strandok."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete amenajate de-a lungul coastei.",
+          "Unele secțiuni, în special urcarea spre Cabo Mayor, necesită o condiție fizică bună.",
+          "Asigurați-vă întotdeauna bicicleta, mai ales în locuri aglomerate precum plajele."
+        ],
+        "en": [
+          "Use the dedicated bike paths along the coast.",
+          "Some sections, especially the climb to Cabo Mayor, require a good level of fitness.",
+          "Always lock your bike securely, especially in busy areas like the beaches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Paseo de Pereda",
+            "hu": "Parkolás a központban és Paseo de Pereda",
+            "ro": "Parcare în centru și Paseo de Pereda",
+            "en": "Parking in the Center & Paseo de Pereda"
+          },
+          "coords": [
+            -3.81,
+            43.461
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie eine der Tiefgaragen. Von dort aus ist das Zentrum leicht zu Fuß erreichbar.",
+            "hu": "Használja a mélygarázsok egyikét. A központ onnan könnyen megközelíthető gyalog.",
+            "ro": "Folosiți una dintre parcările subterane. Centrul este ușor accesibil pe jos de acolo.",
+            "en": "Use one of the underground car parks. The center is easily walkable from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Botín",
+            "hu": "Centro Botín",
+            "ro": "Centrul Botín",
+            "en": "Centro Botín"
+          },
+          "coords": [
+            -3.8033,
+            43.4609
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus. Genießen Sie die Architektur.",
+            "hu": "Rövid séta a parkolóháztól. Élvezze az építészetet.",
+            "ro": "O scurtă plimbare de la parcare. Bucurați-vă de arhitectură.",
+            "en": "A short walk from the car park. Enjoy the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Santander",
+            "hu": "Santanderi katedrális",
+            "ro": "Catedrala din Santander",
+            "en": "Santander Cathedral"
+          },
+          "coords": [
+            -3.805,
+            43.4628
+          ],
+          "category": "churches",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel, um dieses historische Zentrum der Stadt zu erreichen.",
+            "hu": "Másszon fel a dombra, hogy elérje a város történelmi központját.",
+            "ro": "Urcați dealul pentru a ajunge la acest centru istoric al orașului.",
+            "en": "Climb the hill to reach this historic center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt & Parken an der Halbinsel Magdalena",
+            "hu": "Utazás és parkolás a Magdalena-félszigeten",
+            "ro": "Conduceți și parcați la Peninsula Magdalena",
+            "en": "Drive & Park at Magdalena Peninsula"
+          },
+          "coords": [
+            -3.768,
+            43.468
+          ],
+          "category": "transport",
+          "arrive_at": "13:10",
+          "stay_min": 10,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Im Sommer kann das Parken hier schwierig sein. Kommen Sie früh oder seien Sie geduldig.",
+            "hu": "Nyáron nehéz lehet itt parkolni. Érkezzen korán, vagy legyen türelmes.",
+            "ro": "Parcarea poate fi dificilă aici vara. Veniți devreme sau aveți răbdare.",
+            "en": "Parking can be difficult here in summer. Arrive early or be patient."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Magdalena & Mittagessen",
+            "hu": "Magdalena-palota és ebéd",
+            "ro": "Palatul Magdalena și prânzul",
+            "en": "Magdalena Palace & Lunch"
+          },
+          "coords": [
+            -3.763,
+            43.471
+          ],
+          "category": "castles",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Palast und die Gärten und essen Sie dann in einem Restaurant am Sardinero zu Mittag.",
+            "hu": "Fedezze fel a palotát és a kerteket, majd ebédeljen egy étteremben a Sardinerón.",
+            "ro": "Explorați palatul și grădinile, apoi luați prânzul la un restaurant de pe Sardinero.",
+            "en": "Explore the palace and gardens, then have lunch at a restaurant on Sardinero."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Leuchtturm von Cabo Mayor",
+            "hu": "Utazás a Cabo Mayor világítótoronyhoz",
+            "ro": "Conduceți la Farul Cabo Mayor",
+            "en": "Drive to Cabo Mayor Lighthouse"
+          },
+          "coords": [
+            -3.805,
+            43.489
+          ],
+          "category": "lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 70,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie und gehen Sie den letzten Teil zu Fuß, um die dramatische Landschaft zu genießen.",
+            "hu": "Parkoljon le, és tegye meg az utolsó szakaszt gyalog, hogy élvezze a drámai tájat.",
+            "ro": "Parcați și parcurgeți ultima parte pe jos pentru a vă bucura de peisajul dramatic.",
+            "en": "Park and walk the final part to enjoy the dramatic scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannen am Strand von El Sardinero",
+            "hu": "Pihenés az El Sardinero strandon",
+            "ro": "Relaxare pe plaja El Sardinero",
+            "en": "Relax at El Sardinero Beach"
+          },
+          "coords": [
+            -3.782,
+            43.473
+          ],
+          "category": "beaches",
+          "arrive_at": "17:35",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Abendsonne am berühmtesten Strand der Stadt zu genießen.",
+            "hu": "Egy utolsó megálló, hogy élvezze az esti napsütést a város leghíresebb strandján.",
+            "ro": "O ultimă oprire pentru a vă bucura de soarele de seară pe cea mai faimoasă plajă a orașului.",
+            "en": "A final stop to enjoy the evening sun on the city's most famous beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Stadtzentrum parken und den ersten Cluster zu Fuß erkunden: den eleganten Paseo de Pereda, das moderne Centro Botín und die historische Kathedrale. Am Mittag fahren Sie zum zweiten Cluster, der Halbinsel Magdalena. Nach der Erkundung des Palastes und einem Mittagessen am Meer fahren Sie zum dritten Cluster, dem Leuchtturm von Cabo Mayor, um die spektakuläre Aussicht auf die Klippen zu genießen. Beenden Sie den Tag mit einer entspannten Zeit am berühmten Strand von El Sardinero, bevor Sie die Rückfahrt antreten.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját a városközpontban, és gyalog fedezi fel az első klasztert: az elegáns Paseo de Pereda sétányt, a modern Centro Botínt és a történelmi katedrálist. Délben vezessen a második klaszterhez, a Magdalena-félszigethez. A palota felfedezése és egy tengerparti ebéd után hajtson a harmadik klaszterhez, a Cabo Mayor világítótoronyhoz, hogy élvezze a sziklákra nyíló látványos kilátást. Zárja a napot egy pihentető időtöltéssel a híres El Sardinero strandon, mielőtt visszaindulna.",
+        "ro": "Începeți ziua parcând mașina în centrul orașului și explorând primul cluster pe jos: elegantul Paseo de Pereda, modernul Centru Botín și catedrala istorică. La prânz, conduceți la al doilea cluster, Peninsula Magdalena. După explorarea palatului și un prânz pe malul mării, conduceți la al treilea cluster, Farul Cabo Mayor, pentru vederi spectaculoase ale stâncilor. Încheiați ziua cu un timp relaxant pe faimoasa plajă El Sardinero înainte de a vă întoarce.",
+        "en": "Start your day by parking in the city center and exploring the first cluster on foot: the elegant Paseo de Pereda, the modern Centro Botín, and the historic cathedral. At midday, drive to the second cluster, the Magdalena Peninsula. After exploring the palace and having lunch by the sea, drive to the third cluster, Cabo Mayor Lighthouse, for spectacular cliffside views. End the day with some relaxing time at the famous El Sardinero beach before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante am Sardinero",
+            "tip": "Genießen Sie frischen Fisch mit Blick auf das Meer. Viele bieten erschwingliche Mittagsmenüs an."
+          },
+          {
+            "name": "Sidrería",
+            "tip": "Probieren Sie eine traditionelle Sidrería für Apfelwein und gegrilltes Fleisch oder Fisch."
+          },
+          {
+            "name": "Caracolillos",
+            "tip": "Kleine Meeresschnecken, eine lokale Delikatesse, oft als Vorspeise serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Sardinerón",
+            "tip": "Élvezze a friss halat tengerre néző kilátással. Sokan kínálnak megfizethető ebédmenüt."
+          },
+          {
+            "name": "Sidrería",
+            "tip": "Próbáljon ki egy hagyományos sidreríát almaborért és grillezett húsért vagy halért."
+          },
+          {
+            "name": "Caracolillos",
+            "tip": "Kis tengeri csigák, helyi finomság, gyakran előételként tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe Sardinero",
+            "tip": "Bucurați-vă de pește proaspăt cu vedere la mare. Multe oferă meniuri de prânz la prețuri accesibile."
+          },
+          {
+            "name": "Sidrería",
+            "tip": "Încercați o sidrerie tradițională pentru cidru și carne sau pește la grătar."
+          },
+          {
+            "name": "Caracolillos",
+            "tip": "Melci de mare mici, o delicatesă locală, adesea servită ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardinero Restaurant",
+            "tip": "Enjoy fresh fish with a view of the sea. Many offer affordable lunch menus."
+          },
+          {
+            "name": "Sidrería",
+            "tip": "Try a traditional cider house for cider and grilled meat or fish."
+          },
+          {
+            "name": "Caracolillos",
+            "tip": "Small sea snails, a local delicacy, often served as a starter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Vaguada de las Llamas",
+            "tip": "Eine große, moderne Parkanlage, ideal für einen Spaziergang abseits der Touristenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Faro de Cabo Mayor",
+            "tip": "Finden Sie einen Platz auf den Klippen und beobachten Sie die Wellen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de la Maruca",
+            "tip": "Ein kleiner, abgelegener Strand nördlich der Stadt, der mit dem Auto leicht zu erreichen ist.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Vaguada de las Llamas",
+            "tip": "Nagy, modern park, ideális egy sétához a turista tömegektől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Faro de Cabo Mayor",
+            "tip": "Keressen egy helyet a sziklákon, és nézze a hullámokat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de la Maruca",
+            "tip": "Kis, eldugott strand a várostól északra, autóval könnyen megközelíthető.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vaguada de las Llamas",
+            "tip": "Un parc mare și modern, ideal pentru o plimbare departe de mulțimile de turiști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mirador del Faro de Cabo Mayor",
+            "tip": "Găsiți un loc pe stânci și priviți valurile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Maruca",
+            "tip": "O plajă mică și retrasă la nord de oraș, ușor accesibilă cu mașina.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Vaguada de las Llamas",
+            "tip": "A large, modern park, ideal for a walk away from the tourist crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cabo Mayor Lighthouse Viewpoint",
+            "tip": "Find a spot on the cliffs and watch the waves.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Playa de la Maruca",
+            "tip": "A small, secluded beach north of the city, easily accessible by car.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Das größte Kaufhaus der Stadt für alles von Mode bis zu Gourmet-Lebensmitteln."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handbemalter Keramik mit kantabrischen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "A város legnagyobb áruháza, a divattól az ínyenc élelmiszerekig minden megtalálható."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel festett kerámiát kantábriai motívumokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Cel mai mare magazin universal din oraș pentru orice, de la modă la alimente gourmet."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual cu motive cantabrice."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "The city's largest department store for everything from fashion to gourmet food."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for hand-painted ceramics with Cantabrian motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist kostenpflichtig und die Plätze sind begrenzt. Tiefgaragen sind die beste Option.",
+          "Achten Sie auf die blauen Zonen (ORA), in denen das Parken zeitlich begrenzt ist.",
+          "Der Verkehr kann im Sommer und an den Wochenenden stark sein, planen Sie zusätzliche Fahrzeit ein."
+        ],
+        "hu": [
+          "A belvárosi parkolás fizetős és a helyek korlátozottak. A mélygarázsok a legjobb megoldás.",
+          "Figyeljen a kék zónákra (ORA), ahol a parkolás időben korlátozott.",
+          "A forgalom nyáron és hétvégén sűrű lehet, tervezzen be plusz utazási időt."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este cu plată și locurile sunt limitate. Parcajele subterane sunt cea mai bună opțiune.",
+          "Fiți atenți la zonele albastre (ORA), unde parcarea este limitată în timp.",
+          "Traficul poate fi aglomerat în timpul verii și în weekend, planificați timp suplimentar de condus."
+        ],
+        "en": [
+          "Parking in the city center is paid and limited. Underground car parks are the best option.",
+          "Be aware of the blue zones (ORA) where parking is time-restricted.",
+          "Traffic can be heavy during the summer and on weekends, so allow for extra travel time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft im Zentrum & Paseo de Pereda",
+            "hu": "Érkezés a központba és Paseo de Pereda",
+            "ro": "Sosire în centru și Paseo de Pereda",
+            "en": "Arrival in the Center & Paseo de Pereda"
+          },
+          "coords": [
+            -3.8045,
+            43.4618
+          ],
+          "category": "promenades",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten hier. Kaufen Sie eine wiederaufladbare Karte für günstigere Fahrten.",
+            "hu": "A legtöbb buszjárat itt áll meg. Vásároljon újratölthető kártyát az olcsóbb utazásért.",
+            "ro": "Majoritatea liniilor de autobuz opresc aici. Cumpărați un card reîncărcabil pentru călătorii mai ieftine.",
+            "en": "Most bus lines stop here. Buy a rechargeable card for cheaper fares."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Botín",
+            "hu": "Centro Botín",
+            "ro": "Centrul Botín",
+            "en": "Centro Botín"
+          },
+          "coords": [
+            -3.8033,
+            43.4609
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Gärten, um dieses architektonische Juwel zu erreichen.",
+            "hu": "Rövid séta a kertek mentén, hogy elérje ezt az építészeti gyöngyszemet.",
+            "ro": "O scurtă plimbare de-a lungul grădinilor pentru a ajunge la această bijuterie arhitecturală.",
+            "en": "A short stroll along the gardens to reach this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Santander",
+            "hu": "Santanderi katedrális",
+            "ro": "Catedrala din Santander",
+            "en": "Santander Cathedral"
+          },
+          "coords": [
+            -3.805,
+            43.4628
+          ],
+          "category": "churches",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Aufstieg vom Zentrum aus.",
+            "hu": "Rövid emelkedő a központból.",
+            "ro": "O scurtă urcare din centru.",
+            "en": "A short uphill walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Sardinero & Mittagessen",
+            "hu": "Buszozás a Sardineróhoz és ebéd",
+            "ro": "Călătorie cu autobuzul la Sardinero și prânz",
+            "en": "Bus to Sardinero & Lunch"
+          },
+          "coords": [
+            -3.782,
+            43.473
+          ],
+          "category": "beaches",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Mehrere Linien fahren direkt zum Strand. Steigen Sie am Casino aus.",
+            "hu": "Több járat is közvetlenül a strandra visz. Szálljon le a kaszinónál.",
+            "ro": "Mai multe linii merg direct la plajă. Coborâți la Cazinou.",
+            "en": "Several lines go directly to the beach. Get off at the Casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Magdalena",
+            "hu": "Magdalena-palota",
+            "ro": "Palatul Magdalena",
+            "en": "Magdalena Palace"
+          },
+          "coords": [
+            -3.763,
+            43.471
+          ],
+          "category": "castles",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Strand von Sardinero um die Halbinsel herum.",
+            "hu": "Kellemes séta a Sardinero strandtól a félsziget körül.",
+            "ro": "O plimbare plăcută de la plaja Sardinero în jurul peninsulei.",
+            "en": "A pleasant walk from Sardinero beach around the peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Leuchtturm von Cabo Mayor",
+            "hu": "Busz a Cabo Mayor világítótoronyhoz",
+            "ro": "Autobuz spre Farul Cabo Mayor",
+            "en": "Bus to Cabo Mayor Lighthouse"
+          },
+          "coords": [
+            -3.805,
+            43.489
+          ],
+          "category": "lighthouses",
+          "arrive_at": "17:55",
+          "stay_min": 70,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Buslinie endet in der Nähe. Ein letzter Spaziergang bietet eine tolle Aussicht.",
+            "hu": "A buszjárat a közelben ér véget. Egy utolsó séta remek kilátást nyújt.",
+            "ro": "Linia de autobuz se termină în apropiere. O plimbare finală oferă priveliști minunate.",
+            "en": "The bus line terminates nearby. A final walk offers great views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Santander, leicht erreichbar mit dem Bus. Erkunden Sie den ersten Cluster zu Fuß: den Paseo de Pereda, das Centro Botín und die Kathedrale. Am Mittag bringt Sie ein Bus bequem zum zweiten Cluster, dem berühmten Strand El Sardinero. Nach dem Mittagessen und einem Spaziergang zum Magdalena-Palast nehmen Sie einen weiteren Bus zum atemberaubenden Leuchtturm von Cabo Mayor. Genießen Sie die Aussicht auf die Klippen, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren und einen Tag voller Kontraste zwischen Stadtleben und rauer Küste erleben.",
+        "hu": "A nap Santander szívében kezdődik, amely busszal könnyen megközelíthető. Fedezze fel gyalog az első klasztert: a Paseo de Pereda sétányt, a Centro Botínt és a katedrálist. Délben egy busz kényelmesen elviszi a második klaszterhez, a híres El Sardinero strandhoz. Ebéd és a Magdalena-palotához tett séta után szálljon fel egy másik buszra a lélegzetelállító Cabo Mayor világítótoronyhoz. Élvezze a sziklákra nyíló kilátást, mielőtt visszatérne a városközpontba egy kontrasztokkal teli nap után, amely a városi élet és a zord tengerpart között telt.",
+        "ro": "Ziua dvs. începe în inima orașului Santander, ușor accesibil cu autobuzul. Explorați primul cluster pe jos: Paseo de Pereda, Centrul Botín și catedrala. La prânz, un autobuz vă duce confortabil la al doilea cluster, faimoasa plajă El Sardinero. După prânz și o plimbare la Palatul Magdalena, luați un alt autobuz spre uimitorul Far Cabo Mayor. Bucurați-vă de priveliștile stâncilor înainte de a vă întoarce în centrul orașului, încheind o zi plină de contraste între viața urbană și coasta accidentată.",
+        "en": "Your day starts in the heart of Santander, easily reached by bus. Explore the first cluster on foot: Paseo de Pereda, Centro Botín, and the cathedral. At midday, a bus takes you comfortably to the second cluster, the famous El Sardinero beach. After lunch and a walk to Magdalena Palace, take another bus to the stunning Cabo Mayor Lighthouse. Enjoy the cliffside views before returning to the city center, completing a day of contrasts between city life and rugged coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pincho de Tortilla",
+            "tip": "Ein klassischer spanischer Snack, perfekt für eine schnelle Stärkung zwischen zwei Busfahrten."
+          },
+          {
+            "name": "Sobaos Pasiegos",
+            "tip": "Ein süßer Butterkuchen, den man in vielen Bäckereien findet."
+          },
+          {
+            "name": "Orujo",
+            "tip": "Ein starker, lokaler Schnaps, ideal als Digestif nach dem Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pincho de Tortilla",
+            "tip": "Klasszikus spanyol snack, tökéletes egy gyors harapnivalóhoz két buszozás között."
+          },
+          {
+            "name": "Sobaos Pasiegos",
+            "tip": "Édes vajas sütemény, amelyet sok pékségben megtalál."
+          },
+          {
+            "name": "Orujo",
+            "tip": "Erős, helyi pálinka, ideális emésztést segítő italként vacsora után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pincho de Tortilla",
+            "tip": "O gustare spaniolă clasică, perfectă pentru o masă rapidă între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Sobaos Pasiegos",
+            "tip": "O prăjitură dulce cu unt găsită în multe brutării."
+          },
+          {
+            "name": "Orujo",
+            "tip": "Un lichior local puternic, ideal ca digestiv după cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pincho de Tortilla",
+            "tip": "A classic Spanish snack, perfect for a quick bite between bus rides."
+          },
+          {
+            "name": "Sobaos Pasiegos",
+            "tip": "A sweet butter cake found in many bakeries."
+          },
+          {
+            "name": "Orujo",
+            "tip": "A strong local spirit, ideal as an after-dinner digestif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque del Doctor Morales",
+            "tip": "Ein ruhiger Park im oberen Teil der Stadt, oft von Einheimischen besucht.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Playa de los Molinucos",
+            "tip": "Eine kleine, felsige Bucht zwischen Magdalena und Sardinero, ideal, um den Menschenmassen zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Funicular del Río de la Pila",
+            "tip": "Die kurze Fahrt bietet einen Moment der Ruhe und eine tolle Aussicht.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque del Doctor Morales",
+            "tip": "Csendes park a város felső részén, gyakran látogatják a helyiek.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Playa de los Molinucos",
+            "tip": "Kis, sziklás öböl Magdalena és Sardinero között, ideális a tömeg elkerülésére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Funicular del Río de la Pila",
+            "tip": "A rövid utazás egy pillanatnyi nyugalmat és remek kilátást kínál.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Doctor Morales",
+            "tip": "Un parc liniștit în partea superioară a orașului, frecventat de localnici.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Plaja Molinucos",
+            "tip": "Un mic golf stâncos între Magdalena și Sardinero, perfect pentru a scăpa de mulțimi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Funicularul Río de la Pila",
+            "tip": "Călătoria scurtă oferă un moment de liniște și o priveliște minunată.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Doctor Morales Park",
+            "tip": "A quiet park in the upper part of the city, frequented by locals.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Playa de los Molinucos",
+            "tip": "A small, rocky cove between Magdalena and Sardinero, perfect for escaping the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Funicular del Río de la Pila",
+            "tip": "The short ride offers a moment of peace and a great view.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "Eine belebte Einkaufsstraße mit einer Mischung aus nationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Conserveras",
+            "tip": "Suchen Sie nach Geschäften, die hochwertige Fischkonserven verkaufen, ein typisches Souvenir aus Kantabrien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "Élénk bevásárlóutca nemzeti márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Conserveras",
+            "tip": "Keressen boltokat, amelyek minőségi halkonzervet árulnak, ami egy tipikus kantábriai ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "O stradă comercială animată, cu un amestec de mărci naționale și magazine locale."
+          },
+          {
+            "name": "Conserveras",
+            "tip": "Căutați magazine care vând conserve de pește de înaltă calitate, un suvenir tipic din Cantabria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "A bustling shopping street with a mix of national brands and local shops."
+          },
+          {
+            "name": "Conserveras",
+            "tip": "Look for shops selling high-quality canned fish, a typical souvenir from Cantabria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die offizielle TUS-Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Eine Tageskarte kann sich lohnen, wenn Sie mehrere Fahrten planen.",
+          "Die Busse können zu Stoßzeiten voll sein, insbesondere auf den Routen zu den Stränden."
+        ],
+        "hu": [
+          "Töltse le a hivatalos TUS buszalkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "A napijegy megéri, ha több utazást tervez.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, különösen a strandokra vezető útvonalakon."
+        ],
+        "ro": [
+          "Descărcați aplicația oficială de autobuz TUS pentru a urmări orarele și rutele în timp real.",
+          "Un bilet de o zi poate fi rentabil dacă planificați mai multe călătorii.",
+          "Autobuzele pot fi aglomerate la orele de vârf, în special pe rutele către plaje."
+        ],
+        "en": [
+          "Download the official TUS bus app for real-time schedules and routes.",
+          "A one-day pass can be cost-effective if you plan on making several trips.",
+          "Buses can be crowded during peak hours, especially on the routes to the beaches."
+        ]
+      }
+    }
+  }
+}

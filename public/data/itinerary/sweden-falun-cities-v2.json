@@ -1,0 +1,1448 @@
+{
+  "city_id": "sweden-falun-cities-v2",
+  "anchor": {
+    "name": "Falun",
+    "coords": [
+      15.626,
+      60.6036
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtteil Elsborg",
+            "hu": "Elsborg negyed",
+            "ro": "Cartierul Elsborg",
+            "en": "Elsborg District"
+          },
+          "coords": [
+            15.622,
+            60.602
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die roten Holzhäuser, die typisch für die Bergarbeiterfamilien waren.",
+            "hu": "Csodálja meg a bányászcsaládokra jellemző vörös faházakat.",
+            "ro": "Admirați casele roșii din lemn, tipice pentru familiile minerilor.",
+            "en": "Admire the red wooden houses, typical for the miners' families."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristine-Kirche",
+            "hu": "Kristine-templom",
+            "ro": "Biserica Kristine",
+            "en": "Kristine Church"
+          },
+          "coords": [
+            15.628,
+            60.605
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende barocke Innenausstattung und die große Orgel.",
+            "hu": "Figyelje meg a lenyűgöző barokk belső teret és a hatalmas orgonát.",
+            "ro": "Observați interiorul baroc impresionant și orga mare.",
+            "en": "Notice the impressive baroque interior and the large organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Falu Rathaus",
+            "hu": "Faluni városháza",
+            "ro": "Primăria Falun",
+            "en": "Falun Town Hall"
+          },
+          "coords": [
+            15.629,
+            60.6045
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schönes Fotomotiv im Herzen der Stadt, direkt am Hauptplatz Stora Torget.",
+            "hu": "Szép fotótéma a város szívében, a Stora Torget főtéren.",
+            "ro": "Un loc frumos pentru fotografii în inima orașului, în piața principală Stora Torget.",
+            "en": "A beautiful photo opportunity in the heart of the city, at the main square Stora Torget."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalarnas Museum",
+            "hu": "Dalarna Múzeum",
+            "ro": "Muzeul Dalarnas",
+            "en": "Dalarnas Museum"
+          },
+          "coords": [
+            15.631,
+            60.608
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung von Dalapferden und traditionellen Kostümen.",
+            "hu": "Ne hagyja ki a Dala-lovak és a népviseletek gyűjteményét.",
+            "ro": "Nu ratați colecția de cai Dala și costume tradiționale.",
+            "en": "Don't miss the collection of Dala horses and traditional costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupferbergwerk Falun (Falu Gruva)",
+            "hu": "Faluni rézbánya (Falu Gruva)",
+            "ro": "Mina de cupru Falun (Falu Gruva)",
+            "en": "Falun Copper Mine (Falu Gruva)"
+          },
+          "coords": [
+            15.615,
+            60.601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Die Führung unter Tage ist ein Muss! Tragen Sie festes Schuhwerk und warme Kleidung.",
+            "hu": "A föld alatti túra kötelező! Viseljen erős cipőt és meleg ruhát.",
+            "ro": "Turul subteran este o necesitate! Purtați încălțăminte rezistentă și haine groase.",
+            "en": "The underground tour is a must! Wear sturdy shoes and warm clothing."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Große Stoß (Stora Stöten)",
+            "hu": "A Nagy Gödör (Stora Stöten)",
+            "ro": "Marea Prăbușire (Stora Stöten)",
+            "en": "The Great Pit (Stora Stöten)"
+          },
+          "coords": [
+            15.614,
+            60.6
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein atemberaubender Anblick, der die gewaltige Geschichte des Bergbaus zeigt. Perfekt für den Sonnenuntergang.",
+            "hu": "Lélegzetelállító látvány, amely bemutatja a bányászat hatalmas történelmét. Tökéletes naplementéhez.",
+            "ro": "O priveliște uluitoare care arată istoria imensă a mineritului. Perfect pentru apus.",
+            "en": "A breathtaking sight that shows the immense history of mining. Perfect for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Falun beginnt im charmanten Holzhausviertel Elsborg. Am Vormittag erkunden Sie das historische Zentrum mit seinen prächtigen Kirchen und dem Rathaus. Nach dem Mittagessen tauchen Sie im Dalarnas Museum in die Kultur der Region ein. Der Nachmittag gehört ganz dem UNESCO-Welterbe, dem Kupferbergwerk Falun. Sie erleben die beeindruckende Geschichte unter und über Tage. Zum Abschluss des Tages genießen Sie die gewaltige Aussicht auf den großen Tagebruch Stora Stöten, während die Sonne langsam untergeht.",
+        "hu": "A faluni napja az Elsborg bájos faházas negyedében kezdődik. Délelőtt felfedezi a történelmi központot a pompás templomokkal és a városházával. Ebéd után a Dalarna Múzeumban merül el a régió kultúrájában. A délután teljes egészében az UNESCO Világörökség részét képező faluni rézbányáé. Megtapasztalhatja a lenyűgöző történelmet a föld alatt és felett. A nap végén élvezze a hatalmas Stora Stöten bányagödörre nyíló kilátást, miközben a nap lassan lenyugszik.",
+        "ro": "Ziua dumneavoastră în Falun începe în fermecătorul cartier cu case de lemn Elsborg. În cursul dimineții, explorați centrul istoric cu bisericile sale magnifice și primăria. După prânz, vă cufundați în cultura regiunii la Muzeul Dalarnas. După-amiaza este dedicată în întregime sitului UNESCO, mina de cupru Falun. Experimentați istoria impresionantă subterană și la suprafață. La finalul zilei, bucurați-vă de priveliștea gigantică a marii prăbușiri Stora Stöten, în timp ce soarele apune încet.",
+        "en": "Your day in Falun begins in the charming wooden house district of Elsborg. In the morning, you'll explore the historic center with its magnificent churches and town hall. After lunch, immerse yourself in the region's culture at the Dalarnas Museum. The afternoon is dedicated entirely to the UNESCO World Heritage site, the Falun Copper Mine. You will experience the impressive history below and above ground. To end the day, enjoy the tremendous view over the great pit Stora Stöten as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Falukorv",
+            "tip": "Probieren Sie die lokale Wurst, oft mit Makkaroni und Ketchup serviert. Ein schwedischer Klassiker!"
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Schwedische Fleischbällchen mit Preiselbeermarmelade, ein Muss in jedem traditionellen Restaurant."
+          },
+          {
+            "name": "Geschworenen Kneipe",
+            "tip": "Ein gemütliches Restaurant in der Nähe der Mine, perfekt für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falukorv",
+            "tip": "Kóstolja meg a helyi kolbászt, gyakran makarónival és ketchuppal tálalva. Egy svéd klasszikus!"
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Svéd húsgolyók vörösáfonya-lekvárral, kötelező minden hagyományos étteremben."
+          },
+          {
+            "name": "Geschworenen Kneipe",
+            "tip": "Hangulatos étterem a bánya közelében, tökéletes egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Falukorv",
+            "tip": "Încercați cârnatul local, adesea servit cu macaroane și ketchup. Un clasic suedez!"
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Chifteluțe suedeze cu gem de merișoare, o necesitate în orice restaurant tradițional."
+          },
+          {
+            "name": "Geschworenen Kneipe",
+            "tip": "Un restaurant primitor lângă mină, perfect pentru un prânz copios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Falukorv",
+            "tip": "Try the local sausage, often served with macaroni and ketchup. A Swedish classic!"
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Swedish meatballs with lingonberry jam, a must-try in any traditional restaurant."
+          },
+          {
+            "name": "Geschworenen Kneipe",
+            "tip": "A cozy restaurant near the mine, perfect for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Faluån",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, der durch die Stadt fließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Stora Stöten",
+            "tip": "Der Rand des riesigen Tagebruchs bietet eine beeindruckende und ruhige Atmosphäre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten des Dalarnas Museums",
+            "tip": "Ein friedlicher Ort zum Entspannen nach dem Museumsbesuch.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faluån folyó partja",
+            "tip": "Egy csendes séta a városon átfolyó folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stora Stöten kilátópont",
+            "tip": "Az óriási bányagödör széle lenyűgöző és csendes hangulatot kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dalarna Múzeum kertje",
+            "tip": "Békés hely a pihenésre a múzeumlátogatás után.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Faluån",
+            "tip": "O plimbare liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Stora Stöten",
+            "tip": "Marginea imensei prăbușiri oferă o atmosferă impresionantă și liniștită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Muzeului Dalarnas",
+            "tip": "Un loc pașnic pentru a vă relaxa după vizita la muzeu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Faluån River",
+            "tip": "A quiet walk along the river that flows through the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stora Stöten Viewpoint",
+            "tip": "The edge of the giant pit offers an impressive and quiet atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dalarnas Museum Garden",
+            "tip": "A peaceful place to relax after your museum visit.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalapferd",
+            "tip": "Das ikonische handgeschnitzte und bemalte Pferd ist das Symbol Schwedens."
+          },
+          {
+            "name": "Handwerksläden in Elsborg",
+            "tip": "Finden Sie einzigartige, lokal hergestellte Souvenirs in den kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dala ló",
+            "tip": "Az ikonikus, kézzel faragott és festett ló Svédország szimbóluma."
+          },
+          {
+            "name": "Kézműves boltok Elsborgban",
+            "tip": "Találjon egyedi, helyben készült ajándéktárgyakat a kis butikokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calul Dala",
+            "tip": "Calul iconic sculptat și pictat manual este simbolul Suediei."
+          },
+          {
+            "name": "Magazine de artizanat în Elsborg",
+            "tip": "Găsiți suveniruri unice, realizate local, în micile buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dala Horse",
+            "tip": "The iconic hand-carved and painted horse is the symbol of Sweden."
+          },
+          {
+            "name": "Craft shops in Elsborg",
+            "tip": "Find unique, locally made souvenirs in the small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Die Tour durch die Mine kann kühl sein, bringen Sie eine zusätzliche Schicht Kleidung mit.",
+          "Die meisten Museen und Attraktionen schließen gegen 17:00 oder 18:00 Uhr, planen Sie entsprechend.",
+          "Prüfen Sie die Öffnungszeiten der Mine im Voraus, da diese saisonal variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A bányatúra hűvös lehet, hozzon magával egy extra réteg ruhát.",
+          "A legtöbb múzeum és látnivaló 17:00 vagy 18:00 óra körül bezár, tervezzen ennek megfelelően.",
+          "Előre ellenőrizze a bánya nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Turul minei poate fi răcoros, aduceți un strat suplimentar de haine.",
+          "Majoritatea muzeelor și atracțiilor se închid în jurul orelor 17:00 sau 18:00, planificați-vă în consecință.",
+          "Verificați programul de funcționare al minei în avans, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "The mine tour can be chilly, so bring an extra layer of clothing.",
+          "Most museums and attractions close around 5 or 6 PM, so plan accordingly.",
+          "Check the mine's opening hours in advance as they can vary seasonally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtteil Elsborg",
+            "hu": "Elsborg negyed",
+            "ro": "Cartierul Elsborg",
+            "en": "Elsborg District"
+          },
+          "coords": [
+            15.622,
+            60.602
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour hier und genießen Sie die ruhige Morgenatmosphäre.",
+            "hu": "Kezdje itt a túrát, és élvezze a csendes reggeli hangulatot.",
+            "ro": "Începeți turul aici și bucurați-vă de atmosfera liniștită de dimineață.",
+            "en": "Start your tour here and enjoy the quiet morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalarnas Museum",
+            "hu": "Dalarna Múzeum",
+            "ro": "Muzeul Dalarnas",
+            "en": "Dalarnas Museum"
+          },
+          "coords": [
+            15.631,
+            60.608
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und entdecken Sie die reiche Kultur von Dalarna.",
+            "hu": "Parkolja le a kerékpárját odakint, és fedezze fel Dalarna gazdag kultúráját.",
+            "ro": "Parcați-vă bicicleta afară și explorați cultura bogată a Dalarna.",
+            "en": "Park your bike outside and explore the rich culture of Dalarna."
+          }
+        },
+        {
+          "name": {
+            "de": "Lugnet Skistadion",
+            "hu": "Lugnet síközpont",
+            "ro": "Stadionul de schi Lugnet",
+            "en": "Lugnet Ski Stadium"
+          },
+          "coords": [
+            15.665,
+            60.615
+          ],
+          "category": "parks",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad um das Gelände oder wandern Sie auf einen der Hügel für eine tolle Aussicht.",
+            "hu": "Kerékpározzon körbe a területen, vagy másszon fel az egyik dombra a nagyszerű kilátásért.",
+            "ro": "Plimbați-vă cu bicicleta în jurul zonei sau urcați pe una dintre coline pentru o priveliște minunată.",
+            "en": "Cycle around the grounds or hike up one of the hills for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupferbergwerk Falun (Falu Gruva)",
+            "hu": "Faluni rézbánya (Falu Gruva)",
+            "ro": "Mina de cupru Falun (Falu Gruva)",
+            "en": "Falun Copper Mine (Falu Gruva)"
+          },
+          "coords": [
+            15.615,
+            60.601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab. Die Tour unter Tage ist eine willkommene Abkühlung.",
+            "hu": "Hagyja a kerékpárt a bejáratnál. A földalatti túra kellemes felüdülést nyújt.",
+            "ro": "Lăsați-vă bicicleta la intrare. Turul subteran este o răcorire binevenită.",
+            "en": "Leave your bike at the entrance. The underground tour is a welcome cool-down."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Große Stoß (Stora Stöten)",
+            "hu": "A Nagy Gödör (Stora Stöten)",
+            "ro": "Marea Prăbușire (Stora Stöten)",
+            "en": "The Great Pit (Stora Stöten)"
+          },
+          "coords": [
+            15.614,
+            60.6
+          ],
+          "category": "natural features",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Weite des Geländes nach der Mienentour zu erfassen.",
+            "hu": "Tökéletes hely a bánya túra után a terület tágasságának megértéséhez.",
+            "ro": "Locul perfect pentru a înțelege vastitatea zonei după turul minei.",
+            "en": "The perfect place to grasp the vastness of the area after the mine tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stora Kopparbergs Kirche",
+            "hu": "Stora Kopparberg templom",
+            "ro": "Biserica Stora Kopparberg",
+            "en": "Stora Kopparberg Church"
+          },
+          "coords": [
+            15.619,
+            60.603
+          ],
+          "category": "churches",
+          "arrive_at": "17:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese Kirche ist eine der ältesten Gebäude Faluns und eng mit der Geschichte der Mine verbunden.",
+            "hu": "Ez a templom Falun egyik legrégebbi épülete, és szorosan kapcsolódik a bánya történetéhez.",
+            "ro": "Această biserică este una dintre cele mai vechi clădiri din Falun și este strâns legată de istoria minei.",
+            "en": "This church is one of Falun's oldest buildings and is closely linked to the mine's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Falun. Sie starten im idyllischen Elsborg, radeln dann zum Dalarnas Museum, um in die lokale Kultur einzutauchen. Der Vormittag gipfelt in einem Ausflug zum Sportkomplex Lugnet, wo Sie die Natur und die Aussicht genießen. Nach dem Mittagessen führt Ihre Route Sie zum Herzstück der Stadtgeschichte, dem Kupferbergwerk Falun. Sie erkunden das UNESCO-Welterbe, bevor Sie den Tag mit einem Besuch der historischen Stora Kopparbergs Kirche, der alten Kirche der Bergleute, ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Falunt! Az idilli Elsborgból indulva a Dalarna Múzeumhoz teker, hogy elmerüljön a helyi kultúrában. A délelőtt a Lugnet sportkomplexumba tett kirándulással csúcsosodik ki, ahol élvezheti a természetet és a kilátást. Ebéd után az útvonal a város történelmének szívébe, a faluni rézbányához vezet. Felfedezi az UNESCO Világörökséget, mielőtt a napot a történelmi Stora Kopparberg templom, a bányászok régi templomának meglátogatásával zárja.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a Falunului. Porniți din idilicul Elsborg, apoi pedalați spre Muzeul Dalarnas pentru a vă cufunda în cultura locală. Dimineața culminează cu o excursie la complexul sportiv Lugnet, unde vă bucurați de natură și de priveliște. După prânz, traseul vă duce în inima istoriei orașului, la mina de cupru Falun. Explorați situl UNESCO înainte de a încheia ziua cu o vizită la biserica istorică Stora Kopparberg, vechea biserică a minerilor.",
+        "en": "Get on your bike for an exploratory tour of Falun. You'll start in idyllic Elsborg, then cycle to the Dalarnas Museum to immerse yourself in local culture. The morning culminates in a trip to the Lugnet sports complex, where you can enjoy nature and the views. After lunch, your route takes you to the heart of the city's history, the Falun Copper Mine. You'll explore the UNESCO World Heritage site before ending the day with a visit to the historic Stora Kopparberg Church, the old miners' church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Ein traditionelles schwedisches Buffet, ideal für ein ausgiebiges Mittagessen nach einer langen Radtour."
+          },
+          {
+            "name": "Fika im Café",
+            "tip": "Machen Sie eine 'Fika'-Pause mit Kaffee und Gebäck, zum Beispiel Kanelbulle (Zimtschnecke)."
+          },
+          {
+            "name": "Banken Bar & Brasserie",
+            "tip": "Ein stilvolles Restaurant im Stadtzentrum, ideal für ein schönes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Hagyományos svéd büfé, ideális egy kiadós ebédhez egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Fika egy kávézóban",
+            "tip": "Tartson egy „Fika” szünetet kávéval és süteménnyel, például Kanelbulle-val (fahéjas csiga)."
+          },
+          {
+            "name": "Banken Bar & Brasserie",
+            "tip": "Stílusos étterem a városközpontban, ideális egy kellemes vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "Un bufet tradițional suedez, ideal pentru un prânz copios după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Fika la o cafenea",
+            "tip": "Luați o pauză „Fika” cu cafea și produse de patiserie, cum ar fi Kanelbulle (rulou cu scorțișoară)."
+          },
+          {
+            "name": "Banken Bar & Brasserie",
+            "tip": "Un restaurant elegant în centrul orașului, ideal pentru o cină frumoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåsbord",
+            "tip": "A traditional Swedish buffet, ideal for a hearty lunch after a long bike ride."
+          },
+          {
+            "name": "Fika at a café",
+            "tip": "Take a 'Fika' break with coffee and pastry, for example Kanelbulle (cinnamon bun)."
+          },
+          {
+            "name": "Banken Bar & Brasserie",
+            "tip": "A stylish restaurant in the city center, perfect for a nice dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Lugnet",
+            "tip": "Abseits der Sportanlagen finden Sie ruhige Waldwege zum Radfahren und Entspannen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "See Runn (in der Nähe)",
+            "tip": "Wenn Sie Zeit haben, ist eine Radtour zum Ufer des Sees Runn sehr zu empfehlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Stora Kopparberg",
+            "tip": "Ein historischer und friedlicher Ort, um die Stille zu genießen.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lugnet természetvédelmi terület",
+            "tip": "A sportlétesítményektől távol csendes erdei utakat talál kerékpározáshoz és pihenéshez.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Runn-tó (közelben)",
+            "tip": "Ha van ideje, erősen ajánlott egy kerékpártúra a Runn-tó partjára.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stora Kopparberg temetője",
+            "tip": "Történelmi és békés hely a csend élvezetéhez.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația naturală Lugnet",
+            "tip": "Departe de facilitățile sportive, veți găsi poteci forestiere liniștite pentru ciclism și relaxare.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Lacul Runn (în apropiere)",
+            "tip": "Dacă aveți timp, o plimbare cu bicicleta pe malul lacului Runn este foarte recomandată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Stora Kopparberg",
+            "tip": "Un loc istoric și pașnic pentru a vă bucura de liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lugnet Nature Reserve",
+            "tip": "Away from the sports facilities, you will find quiet forest paths for cycling and relaxation.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Lake Runn (nearby)",
+            "tip": "If you have time, a bike ride to the shore of Lake Runn is highly recommended.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stora Kopparberg Churchyard",
+            "tip": "A historic and peaceful place to enjoy the quiet.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte in Lugnet",
+            "tip": "Finden Sie hochwertige schwedische Outdoor-Ausrüstung."
+          },
+          {
+            "name": "Minenladen Falu Gruva",
+            "tip": "Kaufen Sie Souvenirs aus Kupfer oder die berühmte rote Farbe 'Falu Rödfärg'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok Lugnetben",
+            "tip": "Találjon minőségi svéd outdoor felszerelést."
+          },
+          {
+            "name": "Falu Gruva bányabolt",
+            "tip": "Vásároljon rézből készült ajándéktárgyakat vagy a híres „Falu Rödfärg” vörös festéket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport în Lugnet",
+            "tip": "Găsiți echipament de înaltă calitate pentru activități în aer liber suedez."
+          },
+          {
+            "name": "Magazinul minei Falu Gruva",
+            "tip": "Cumpărați suveniruri din cupru sau faimoasa vopsea roșie „Falu Rödfärg”."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops in Lugnet",
+            "tip": "Find high-quality Swedish outdoor gear."
+          },
+          {
+            "name": "Falu Gruva Mine Shop",
+            "tip": "Buy souvenirs made of copper or the famous 'Falu Rödfärg' red paint."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Falun ist fahrradfreundlich, aber achten Sie auf Fußgänger in der Innenstadt.",
+          "Einige Strecken, insbesondere nach Lugnet, können Steigungen aufweisen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an Touristenattraktionen.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Falun kerékpárbarát, de vigyázzon a gyalogosokra a belvárosban.",
+          "Néhány útvonal, különösen Lugnet felé, emelkedőket tartalmazhat.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai látványosságoknál.",
+          "Sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Falun este prietenos cu bicicletele, dar fiți atenți la pietoni în centrul orașului.",
+          "Unele trasee, în special spre Lugnet, pot avea pante.",
+          "Încuiați-vă întotdeauna bicicleta bine, mai ales la atracțiile turistice.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Falun is bike-friendly, but watch out for pedestrians in the city center.",
+          "Some routes, especially to Lugnet, may have inclines.",
+          "Always lock your bike securely, especially at tourist attractions.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 36.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carl Larsson-Hof in Sundborn",
+            "hu": "Carl Larsson-udvar Sundbornban",
+            "ro": "Curtea Carl Larsson din Sundborn",
+            "en": "Carl Larsson Farm in Sundborn"
+          },
+          "coords": [
+            15.775,
+            60.651
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber. Buchen Sie die Führung im Voraus, um das Innere zu sehen.",
+            "hu": "Művészetkedvelőknek kötelező. Foglaljon előre vezetést, hogy megnézhesse a belső teret.",
+            "ro": "O necesitate pentru iubitorii de artă. Rezervați turul ghidat în avans pentru a vedea interiorul.",
+            "en": "A must for art lovers. Book the guided tour in advance to see the inside."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Parken im Zentrum von Falun (Cluster A)",
+            "hu": "Parkolás Falun központjában (A klaszter)",
+            "ro": "Parcare în centrul Falun (Cluster A)",
+            "en": "Parking in Falun Center (Cluster A)"
+          },
+          "coords": [
+            15.632,
+            60.606
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die nächsten Ziele zu Fuß.",
+            "hu": "Parkolja le autóját a központban, és fedezze fel a következő célpontokat gyalog.",
+            "ro": "Parcați mașina în centru și explorați următoarele destinații pe jos.",
+            "en": "Park your car in the center and explore the next destinations on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Kristine-Kirche",
+            "hu": "Kristine-templom",
+            "ro": "Biserica Kristine",
+            "en": "Kristine Church"
+          },
+          "coords": [
+            15.628,
+            60.605
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt, bewundern Sie die rote Fassade.",
+            "hu": "Csak egy rövid sétára a parkolótól, csodálja meg a vörös homlokzatot.",
+            "ro": "La doar o scurtă plimbare de parcare, admirați fațada roșie.",
+            "en": "Just a short walk from the parking lot, admire the red facade."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Dalarnas Museum",
+            "hu": "Dalarna Múzeum",
+            "ro": "Muzeul Dalarnas",
+            "en": "Dalarnas Museum"
+          },
+          "coords": [
+            15.631,
+            60.608
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagszeit, es gibt auch ein schönes Café im Inneren.",
+            "hu": "Ideális ebédidőben, belül egy szép kávézó is található.",
+            "ro": "Ideal pentru prânz, există și o cafenea drăguță în interior.",
+            "en": "Ideal for lunchtime, there is also a nice café inside."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kupferbergwerk Falun (Cluster B)",
+            "hu": "Faluni rézbánya (B klaszter)",
+            "ro": "Mina de cupru Falun (Cluster B)",
+            "en": "Falun Copper Mine (Cluster B)"
+          },
+          "coords": [
+            15.615,
+            60.601
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum großen Parkplatz der Mine. Die gesamte Anlage ist ein einziges Erlebnis.",
+            "hu": "Hajtson a bánya nagy parkolójához. Az egész létesítmény egyedülálló élmény.",
+            "ro": "Conduceți până la parcarea mare a minei. Întreaga facilitate este o experiență unică.",
+            "en": "Drive to the large parking lot at the mine. The entire facility is a unique experience."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Der Große Stoß (Stora Stöten)",
+            "hu": "A Nagy Gödör (Stora Stöten)",
+            "ro": "Marea Prăbușire (Stora Stöten)",
+            "en": "The Great Pit (Stora Stöten)"
+          },
+          "coords": [
+            15.614,
+            60.6
+          ],
+          "category": "natural features",
+          "arrive_at": "17:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptgebäude der Mine, um die unglaubliche Größe zu sehen.",
+            "hu": "Rövid séta a bánya főépületétől, hogy láthassa a hihetetlen méreteket.",
+            "ro": "O scurtă plimbare de la clădirea principală a minei pentru a vedea dimensiunea incredibilă.",
+            "en": "A short walk from the main mine building to see the incredible scale."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Aussicht vom Lugnet Skistadion (Cluster C)",
+            "hu": "Kilátás a Lugnet síközpontból (C klaszter)",
+            "ro": "Vedere de la Stadionul de Schi Lugnet (Cluster C)",
+            "en": "View from Lugnet Ski Stadium (Cluster C)"
+          },
+          "coords": [
+            15.665,
+            60.615
+          ],
+          "category": "parks",
+          "arrive_at": "18:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hierher, um einen Panoramablick über die Stadt zu genießen.",
+            "hu": "A nap végén hajtson ide, hogy panorámás kilátást élvezhessen a városra.",
+            "ro": "La sfârșitul zilei, conduceți aici pentru o vedere panoramică asupra orașului.",
+            "en": "Drive here at the end of the day for a panoramic view over the city."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, auch die Umgebung von Falun zu erkunden. Der Tag beginnt mit einem kulturellen Höhepunkt, dem Carl-Larsson-Hof in Sundborn. Zurück in Falun parken Sie im Zentrum (Cluster A) und erkunden zu Fuß die Kristine-Kirche und das Dalarnas-Museum. Nach dem Mittagessen fahren Sie zum UNESCO-Welterbe, der Kupfermine von Falun (Cluster B). Hier entdecken Sie die Welt des Bergbaus über und unter Tage. Den perfekten Abschluss bildet eine Fahrt zum Lugnet-Skistadion (Cluster C), von wo aus Sie einen fantastischen Blick über die Stadt im Abendlicht haben.",
+        "hu": "Autóval szabadon felfedezheti Falun környékét is. A nap egy kulturális csúcsponttal, a sundborni Carl Larsson-udvarral kezdődik. Visszatérve Falunba, parkoljon a központban (A klaszter), és gyalog fedezze fel a Kristine-templomot és a Dalarna Múzeumot. Ebéd után vezessen az UNESCO Világörökséghez, a faluni rézbányához (B klaszter). Itt fedezi fel a bányászat világát a föld felett és alatt. A tökéletes befejezést a Lugnet síközponthoz (C klaszter) való autózás jelenti, ahonnan fantasztikus kilátás nyílik a városra az esti fényben.",
+        "ro": "Cu mașina aveți libertatea de a explora și împrejurimile Falunului. Ziua începe cu un punct culminant cultural, Curtea Carl Larsson din Sundborn. Înapoi în Falun, parcați în centru (Cluster A) și explorați pe jos Biserica Kristine și Muzeul Dalarnas. După prânz, conduceți la situl UNESCO, mina de cupru din Falun (Cluster B). Aici descoperiți lumea mineritului de la suprafață și din subteran. Finalul perfect este o călătorie cu mașina la Stadionul de Schi Lugnet (Cluster C), de unde aveți o priveliște fantastică asupra orașului în lumina serii.",
+        "en": "By car, you have the freedom to explore the surroundings of Falun as well. The day begins with a cultural highlight, the Carl Larsson Farm in Sundborn. Back in Falun, you park in the center (Cluster A) and explore Kristine Church and the Dalarnas Museum on foot. After lunch, you drive to the UNESCO World Heritage site, the Falun Copper Mine (Cluster B). Here you will discover the world of mining above and below ground. The perfect end to the day is a drive to the Lugnet Ski Stadium (Cluster C), from where you have a fantastic view over the city in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Carl Larsson-Hof",
+            "tip": "Genießen Sie ein Mittagessen in historischer und künstlerischer Umgebung."
+          },
+          {
+            "name": "Rådhuskällaren Falun",
+            "tip": "Ein klassisches Restaurant im Keller des Rathauses für ein gehobenes Abendessen."
+          },
+          {
+            "name": "Picknick am Lugnet",
+            "tip": "Kaufen Sie lokale Spezialitäten und genießen Sie ein Picknick mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Carl Larsson-udvarban",
+            "tip": "Élvezzen egy ebédet történelmi és művészi környezetben."
+          },
+          {
+            "name": "Rådhuskällaren Falun",
+            "tip": "Klasszikus étterem a városháza pincéjében egy elegáns vacsorához."
+          },
+          {
+            "name": "Piknik Lugnetben",
+            "tip": "Vásároljon helyi specialitásokat, és élvezze a pikniket a kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Curtea Carl Larsson",
+            "tip": "Bucurați-vă de un prânz într-un cadru istoric și artistic."
+          },
+          {
+            "name": "Rådhuskällaren Falun",
+            "tip": "Un restaurant clasic în subsolul primăriei pentru o cină elegantă."
+          },
+          {
+            "name": "Picnic la Lugnet",
+            "tip": "Cumpărați specialități locale și bucurați-vă de un picnic cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Carl Larsson Farm",
+            "tip": "Enjoy lunch in a historical and artistic setting."
+          },
+          {
+            "name": "Rådhuskällaren Falun",
+            "tip": "A classic restaurant in the basement of the town hall for an upscale dinner."
+          },
+          {
+            "name": "Picnic at Lugnet",
+            "tip": "Buy local specialties and enjoy a picnic with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Carl Larsson-Hofs",
+            "tip": "Ein wunderschöner, ruhiger Garten, der zum Verweilen einlädt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderwege am Lugnet",
+            "tip": "Fernab vom Trubel bieten die Wälder Ruhe und Erholung.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Ufer des Sees Varpan",
+            "tip": "Ein kurzer Abstecher mit dem Auto für einen friedlichen Moment am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Carl Larsson-udvar kertje",
+            "tip": "Gyönyörű, csendes kert, amely maradásra csábít.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Túraútvonalak Lugnetben",
+            "tip": "A nyüzsgéstől távol az erdők nyugalmat és kikapcsolódást kínálnak.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Varpan-tó partja",
+            "tip": "Rövid autós kitérő egy békés pillanatért a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Curții Carl Larsson",
+            "tip": "O grădină frumoasă și liniștită care te invită să zăbovești.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee de drumeție la Lugnet",
+            "tip": "Departe de agitație, pădurile oferă liniște și relaxare.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Malul lacului Varpan",
+            "tip": "O scurtă deviere cu mașina pentru un moment de pace la malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Carl Larsson Farm",
+            "tip": "A beautiful, quiet garden that invites you to linger.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hiking trails at Lugnet",
+            "tip": "Away from the hustle and bustle, the forests offer peace and relaxation.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Shore of Lake Varpan",
+            "tip": "A short detour by car for a peaceful moment by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Carl Larsson-Hof",
+            "tip": "Kaufen Sie hochwertige Drucke und Bücher über den berühmten Künstler."
+          },
+          {
+            "name": "Falu Rödfärg Farbe",
+            "tip": "Kaufen Sie einen kleinen Eimer der ikonischen roten Farbe als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carl Larsson-udvar múzeumi boltja",
+            "tip": "Vásároljon minőségi nyomatokat és könyveket a híres művészről."
+          },
+          {
+            "name": "Falu Rödfärg festék",
+            "tip": "Vásároljon egy kis vödör ikonikus vörös festéket egyedi ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului Curtea Carl Larsson",
+            "tip": "Cumpărați printuri și cărți de înaltă calitate despre faimosul artist."
+          },
+          {
+            "name": "Vopsea Falu Rödfärg",
+            "tip": "Cumpărați o găleată mică de vopsea roșie iconică ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carl Larsson Farm Museum Shop",
+            "tip": "Buy high-quality prints and books about the famous artist."
+          },
+          {
+            "name": "Falu Rödfärg Paint",
+            "tip": "Buy a small bucket of the iconic red paint as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum kann gebührenpflichtig sein. Halten Sie Münzen oder eine Park-App bereit.",
+          "Planen Sie genügend Zeit für die Fahrt zwischen den Standorten ein, besonders während der Stoßzeiten.",
+          "Die Straßen in den älteren Stadtteilen können eng sein, fahren Sie vorsichtig.",
+          "Überprüfen Sie die Öffnungszeiten von Carl Larsson-gården, da diese stark saisonabhängig sind."
+        ],
+        "hu": [
+          "A városközpontban a parkolás díjköteles lehet. Készítsen elő érméket vagy egy parkolóalkalmazást.",
+          "Tervezzen elegendő időt a helyszínek közötti utazásra, különösen csúcsidőben.",
+          "A régebbi városrészek utcái szűkek lehetnek, vezessen óvatosan.",
+          "Ellenőrizze a Carl Larsson-gården nyitvatartási idejét, mivel az erősen szezonális."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi contra cost. Pregătiți monede sau o aplicație de parcare.",
+          "Planificați suficient timp pentru deplasarea între locații, mai ales în orele de vârf.",
+          "Străzile din cartierele mai vechi pot fi înguste, conduceți cu prudență.",
+          "Verificați programul de funcționare al Carl Larsson-gården, deoarece acesta variază foarte mult în funcție de sezon."
+        ],
+        "en": [
+          "Parking in the city center may be subject to a fee. Have coins or a parking app ready.",
+          "Allow enough time for travel between locations, especially during peak hours.",
+          "The streets in the older parts of town can be narrow, so drive carefully.",
+          "Check the opening hours of Carl Larsson-gården as they are highly seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Hauptbahnhof (Cluster A)",
+            "hu": "Érkezés a főpályaudvarra (A klaszter)",
+            "ro": "Sosire la Gara Centrală (Cluster A)",
+            "en": "Arrival at Central Station (Cluster A)"
+          },
+          "coords": [
+            15.636,
+            60.609
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, um sich flexibel bewegen zu können.",
+            "hu": "Vásároljon napijegyet a buszra a rugalmas közlekedés érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa flexibil.",
+            "en": "Buy a day pass for the bus to move around flexibly."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Dalarnas Museum",
+            "hu": "Dalarna Múzeum",
+            "ro": "Muzeul Dalarnas",
+            "en": "Dalarnas Museum"
+          },
+          "coords": [
+            15.631,
+            60.608
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar, ein perfekter Start in den Tag.",
+            "hu": "A pályaudvartól könnyen megközelíthető gyalog, tökéletes kezdése a napnak.",
+            "ro": "Ușor accesibil pe jos de la gară, un început perfect de zi.",
+            "en": "Easily accessible on foot from the station, a perfect start to the day."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kristine-Kirche & Rathaus",
+            "hu": "Kristine-templom és városháza",
+            "ro": "Biserica Kristine și Primăria",
+            "en": "Kristine Church & Town Hall"
+          },
+          "coords": [
+            15.628,
+            60.605
+          ],
+          "category": "churches",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den zentralen Platz Stora Torget und seine historischen Gebäude.",
+            "hu": "Fedezze fel a központi Stora Torget teret és történelmi épületeit.",
+            "ro": "Explorați piața centrală Stora Torget și clădirile sale istorice.",
+            "en": "Explore the central square Stora Torget and its historic buildings."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kupferbergwerk (Cluster B)",
+            "hu": "Buszozás a rézbányához (B klaszter)",
+            "ro": "Călătorie cu autobuzul la mina de cupru (Cluster B)",
+            "en": "Bus ride to the Copper Mine (Cluster B)"
+          },
+          "coords": [
+            15.616,
+            60.602
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus der Linie 11 oder 74. Die Haltestelle ist direkt vor der Mine.",
+            "hu": "Menjen a 11-es vagy 74-es busszal. A megálló közvetlenül a bánya előtt van.",
+            "ro": "Luați autobuzul 11 sau 74. Stația este chiar în fața minei.",
+            "en": "Take bus 11 or 74. The stop is right in front of the mine."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Stora Kopparbergs Kirche",
+            "hu": "Stora Kopparberg templom",
+            "ro": "Biserica Stora Kopparberg",
+            "en": "Stora Kopparberg Church"
+          },
+          "coords": [
+            15.619,
+            60.603
+          ],
+          "category": "churches",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bergwerk aus, um die Kirche der Bergleute zu sehen.",
+            "hu": "Rövid séta a bányától, hogy megnézze a bányászok templomát.",
+            "ro": "O scurtă plimbare de la mină pentru a vedea biserica minerilor.",
+            "en": "A short walk from the mine to see the miners' church."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Lugnet (Cluster C)",
+            "hu": "Buszozás Lugnetbe (C klaszter)",
+            "ro": "Călătorie cu autobuzul la Lugnet (Cluster C)",
+            "en": "Bus ride to Lugnet (Cluster C)"
+          },
+          "coords": [
+            15.665,
+            60.615
+          ],
+          "category": "parks",
+          "arrive_at": "16:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Lugnet und genießen Sie den späten Nachmittag in der Natur.",
+            "hu": "Menjen busszal Lugnet irányába, és élvezze a késő délutánt a természetben.",
+            "ro": "Luați un autobuz spre Lugnet și bucurați-vă de după-amiaza târzie în natură.",
+            "en": "Take a bus towards Lugnet and enjoy the late afternoon in nature."
+          },
+          "hop_mode": "transit"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Falun bequem und stressfrei erkunden. Ihr Tag beginnt im Zentrum (Cluster A), wo Sie vom Bahnhof aus das Dalarnas Museum und die historischen Kirchen zu Fuß erreichen. Nach einem Spaziergang durch die Innenstadt nehmen Sie am Mittag den Bus zum beeindruckenden Kupferbergwerk (Cluster B). Hier haben Sie ausgiebig Zeit, in die Geschichte einzutauchen. Am Nachmittag spazieren Sie zur nahegelegenen Stora Kopparbergs Kirche. Zum Abschluss des Tages bringt Sie ein weiterer Bus zum Lugnet-Gebiet (Cluster C), wo Sie die Aussicht und die frische Luft genießen können, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "A tömegközlekedéssel kényelmesen és stresszmentesen fedezheti fel Falunt. A nap a központban (A klaszter) kezdődik, ahonnan a pályaudvartól gyalogosan elérheti a Dalarna Múzeumot és a történelmi templomokat. A belvárosi séta után délben busszal megy a lenyűgöző rézbányához (B klaszter). Itt bőven van ideje elmerülni a történelemben. Délután átsétál a közeli Stora Kopparberg templomhoz. A nap végén egy másik busz viszi a Lugnet területre (C klaszter), ahol élvezheti a kilátást és a friss levegőt, mielőtt visszatérne a központba.",
+        "ro": "Cu transportul public, Falun poate fi explorat confortabil și fără stres. Ziua dvs. începe în centru (Cluster A), unde puteți ajunge pe jos de la gară la Muzeul Dalarnas și la bisericile istorice. După o plimbare prin centrul orașului, la prânz luați autobuzul spre impresionanta mină de cupru (Cluster B). Aici aveți timp suficient pentru a vă cufunda în istorie. După-amiaza, faceți o plimbare până la biserica Stora Kopparberg din apropiere. La sfârșitul zilei, un alt autobuz vă duce în zona Lugnet (Cluster C), unde vă puteți bucura de priveliște și de aer curat înainte de a vă întoarce în centru.",
+        "en": "With public transport, Falun can be explored comfortably and stress-free. Your day begins in the center (Cluster A), where you can walk from the station to the Dalarnas Museum and the historic churches. After a walk through the city center, you take the bus at noon to the impressive copper mine (Cluster B). Here you have plenty of time to immerse yourself in history. In the afternoon, you can stroll to the nearby Stora Kopparberg Church. At the end of the day, another bus takes you to the Lugnet area (Cluster C), where you can enjoy the view and the fresh air before returning to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café am Bahnhof",
+            "tip": "Beginnen Sie den Tag mit einem schnellen Kaffee und Gebäck, bevor Sie losziehen."
+          },
+          {
+            "name": "Restaurang Kopparhatten",
+            "tip": "Ein Restaurant mit Blick auf die Mine, ideal für ein Mittagessen zwischen den Besichtigungen."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Kaufen Sie ein Sandwich oder Gebäck für ein schnelles und leckeres Essen unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a pályaudvaron",
+            "tip": "Kezdje a napot egy gyors kávéval és süteménnyel, mielőtt elindul."
+          },
+          {
+            "name": "Restaurang Kopparhatten",
+            "tip": "Étterem kilátással a bányára, ideális ebédhez a látogatások között."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon szendvicset vagy süteményt egy gyors és finom étkezéshez útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea la gară",
+            "tip": "Începeți ziua cu o cafea rapidă și un produs de patiserie înainte de a porni la drum."
+          },
+          {
+            "name": "Restaurang Kopparhatten",
+            "tip": "Un restaurant cu vedere la mină, ideal pentru un prânz între vizite."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Cumpărați un sandviș sau un produs de patiserie pentru o masă rapidă și gustoasă pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café at the station",
+            "tip": "Start the day with a quick coffee and pastry before heading out."
+          },
+          {
+            "name": "Restaurang Kopparhatten",
+            "tip": "A restaurant with a view of the mine, ideal for lunch between sightseeing."
+          },
+          {
+            "name": "Local bakery",
+            "tip": "Buy a sandwich or pastry for a quick and tasty meal on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof der Kristine-Kirche",
+            "tip": "Ein überraschend ruhiger und besinnlicher Ort mitten in der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Obere Ebenen des Bergwerksgeländes",
+            "tip": "Spazieren Sie weg von den Hauptgebäuden für eine ruhige Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkbänke am Fluss Faluån",
+            "tip": "Machen Sie eine Pause und beobachten Sie das Wasser, während Sie auf den nächsten Bus warten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kristine-templom temetője",
+            "tip": "Meglepően csendes és elmélkedő hely a város közepén.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bányaterület felső szintjei",
+            "tip": "Sétáljon távolabb a főépületektől a csendes kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a Faluån folyó partján",
+            "tip": "Tartson szünetet és nézze a vizet, miközben a következő buszra vár.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Bisericii Kristine",
+            "tip": "Un loc surprinzător de liniștit și contemplativ în mijlocul orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Nivelurile superioare ale zonei miniere",
+            "tip": "Plimbați-vă departe de clădirile principale pentru o priveliște liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci în parc pe malul râului Faluån",
+            "tip": "Luați o pauză și priviți apa în timp ce așteptați următorul autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kristine Church Cemetery",
+            "tip": "A surprisingly quiet and contemplative place in the middle of the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Upper levels of the mine area",
+            "tip": "Walk away from the main buildings for a quiet view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park benches by the Faluån river",
+            "tip": "Take a break and watch the water while waiting for the next bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Åsgatan",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Souvenirladen im Dalarnas Museum",
+            "tip": "Eine gute Auswahl an Büchern, Postkarten und Dalapferden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az Åsgatan-on",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Ajándékbolt a Dalarna Múzeumban",
+            "tip": "Jó választék könyvekből, képeslapokból és Dala lovakból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Åsgatan",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Magazin de suveniruri la Muzeul Dalarnas",
+            "tip": "O selecție bună de cărți, vederi și cai Dala."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Åsgatan",
+            "tip": "The main shopping street with a mix of well-known brands and local stores."
+          },
+          {
+            "name": "Souvenir shop at Dalarnas Museum",
+            "tip": "A good selection of books, postcards, and Dala horses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Fahrplan der lokalen Busgesellschaft (Dalatrafik) herunter oder nutzen Sie eine entsprechende App.",
+          "Eine Tageskarte ist in der Regel günstiger als mehrere Einzelfahrscheine.",
+          "Achten Sie auf die Abfahrtszeiten des letzten Busses, besonders von den weiter entfernten Attraktionen wie Lugnet.",
+          "Die Busse sind in der Regel pünktlich, seien Sie also rechtzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Töltse le a helyi busztársaság (Dalatrafik) menetrendjét, vagy használjon egy megfelelő alkalmazást.",
+          "Egy napijegy általában olcsóbb, mint több egyedi jegy.",
+          "Figyeljen az utolsó busz indulási idejére, különösen a távolabbi látnivalóktól, mint Lugnet.",
+          "A buszok általában pontosak, ezért legyen időben a megállóban."
+        ],
+        "ro": [
+          "Descărcați orarul companiei locale de autobuze (Dalatrafik) sau utilizați o aplicație corespunzătoare.",
+          "Un bilet de o zi este de obicei mai ieftin decât mai multe bilete individuale.",
+          "Fiți atenți la orele de plecare ale ultimului autobuz, în special de la atracțiile mai îndepărtate, cum ar fi Lugnet.",
+          "Autobuzele sunt de obicei punctuale, așa că fiți la stație la timp."
+        ],
+        "en": [
+          "Download the timetable of the local bus company (Dalatrafik) or use a corresponding app.",
+          "A day pass is usually cheaper than several single tickets.",
+          "Pay attention to the departure times of the last bus, especially from the more distant attractions like Lugnet.",
+          "The buses are usually on time, so be at the stop in time."
+        ]
+      }
+    }
+  }
+}

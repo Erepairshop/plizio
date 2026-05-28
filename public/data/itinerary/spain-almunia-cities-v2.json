@@ -1,0 +1,1340 @@
+{
+  "city_id": "spain-almunia-cities-v2",
+  "anchor": {
+    "name": "La Almunia de Doña Godina",
+    "coords": [
+      -1.3736,
+      41.4758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Herederos",
+            "hu": "Plaza de los Herederos",
+            "ro": "Plaza de los Herederos",
+            "en": "Plaza de los Herederos"
+          },
+          "coords": [
+            -1.3742,
+            41.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața locală.",
+            "en": "Start your day here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.375,
+            41.4765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Mudejar-Turm, ein Wahrzeichen der aragonesischen Architektur.",
+            "hu": "Csodálja meg a mudéjar tornyot, az aragóniai építészet jelképét.",
+            "ro": "Admirați turnul în stil Mudéjar, un simbol al arhitecturii aragoneze.",
+            "en": "Admire the Mudéjar tower, a landmark of Aragonese architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von San Juan",
+            "hu": "San Juan palota",
+            "ro": "Palatul San Juan",
+            "en": "Palace of San Juan"
+          },
+          "coords": [
+            -1.3758,
+            41.477
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die herrschaftliche Fassade und die Wappen.",
+            "hu": "Figyelje meg a fenséges homlokzatot és a címereket.",
+            "ro": "Observați fațada impunătoare și blazoanele familiei.",
+            "en": "Pay attention to the stately façade and the family crests."
+          }
+        },
+        {
+          "name": {
+            "de": "Konvent San Lorenzo",
+            "hu": "San Lorenzo kolostor",
+            "ro": "Mănăstirea San Lorenzo",
+            "en": "Convent of San Lorenzo"
+          },
+          "coords": [
+            -1.372,
+            41.478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in diesem historischen religiösen Komplex.",
+            "hu": "Élvezze a csendet ebben a történelmi vallási komplexumban.",
+            "ro": "Bucurați-vă de liniștea din acest complex religios istoric.",
+            "en": "Enjoy the tranquility inside this historic religious complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            -1.3715,
+            41.4755
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Ausstellungen oder Veranstaltungen.",
+            "hu": "Nézze meg a programot, hátha van helyi kiállítás vagy esemény.",
+            "ro": "Verificați programul pentru expoziții sau evenimente locale.",
+            "en": "Check the schedule for any local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für traditionelle Spiele",
+            "hu": "Hagyományos Játékok Múzeuma",
+            "ro": "Muzeul Jocurilor Tradiționale",
+            "en": "Museum of Traditional Games"
+          },
+          "coords": [
+            -1.38,
+            41.474
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein lustiger und nostalgischer Besuch für alle Altersgruppen.",
+            "hu": "Szórakoztató és nosztalgikus látogatás minden korosztálynak.",
+            "ro": "O vizită distractivă și nostalgică pentru toate vârstele.",
+            "en": "A fun and nostalgic visit suitable for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Cabañas",
+            "hu": "Cabañasi Remetekápolna",
+            "ro": "Schitul Cabañas",
+            "en": "Hermitage of Cabañas"
+          },
+          "coords": [
+            -1.388,
+            41.472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort außerhalb des Zentrums, perfekt für einen besinnlichen Abschluss.",
+            "hu": "Egy békés hely a központon kívül, tökéletes a nap elmélkedő befejezéséhez.",
+            "ro": "Un loc pașnic în afara centrului, perfect pentru o încheiere reflexivă.",
+            "en": "A peaceful spot outside the center, perfect for a reflective end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang auf der Plaza de los Herederos, dem Herzen der Stadt. Am Vormittag erkunden Sie die prächtige Mudejar-Architektur der Kirche Nuestra Señora de la Asunción und den historischen Palast San Juan. Gönnen Sie sich ein Mittagessen in einem lokalen Restaurant. Am Nachmittag tauchen Sie im Konvent San Lorenzo in die Stille ein, bevor Sie das Kulturzentrum und das einzigartige Museum für traditionelle Spiele entdecken. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang zur Ermita de Cabañas.",
+        "hu": "Kezdje sétáját a város szívében, a Plaza de los Herederoson. A délelőtt folyamán fedezze fel a Nuestra Señora de la Asunción templom csodálatos mudéjar építészetét és a történelmi San Juan palotát. Ebédeljen egy helyi étteremben. Délután merüljön el a San Lorenzo kolostor csendjében, mielőtt felfedezné a kultúrházat és az egyedülálló Hagyományos Játékok Múzeumát. Zárja a napot egy békés sétával az Ermita de Cabañas felé.",
+        "ro": "Începeți plimbarea în Plaza de los Herederos, inima orașului. În cursul dimineții, explorați magnifica arhitectură mudejară a Bisericii Nuestra Señora de la Asunción și istoricul Palat San Juan. Savurați prânzul la un restaurant local. După-amiaza, cufundați-vă în liniștea Mănăstirii San Lorenzo înainte de a descoperi Casa de Cultură și unicul Muzeu al Jocurilor Tradiționale. Încheiați ziua cu o plimbare liniștită la Schitul Cabañas.",
+        "en": "Start your walk in Plaza de los Herederos, the heart of the town. In the morning, explore the magnificent Mudéjar architecture of the Church of Nuestra Señora de la Asunción and the historic Palace of San Juan. Enjoy lunch at a local restaurant. In the afternoon, immerse yourself in the quiet of the Convent of San Lorenzo before discovering the House of Culture and the unique Museum of Traditional Games. End your day with a peaceful walk to the Hermitage of Cabañas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie das berühmte Lammgericht, eine regionale Spezialität."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Kandierte Früchte in Schokolade getaucht, ein süßer Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg a híres bárányételt, egy regionális különlegességet."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Csokoládéba mártott kandírozott gyümölcsök, egy édes finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați friptura de miel, o specialitate regională."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Fructe confiate învelite în ciocolată, un deliciu dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try the famous lamb dish, a regional specialty."
+          },
+          {
+            "name": "Frutas de Aragón",
+            "tip": "Candied fruits dipped in chocolate, a sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Río Jalón",
+            "tip": "Ein Spaziergang am Flussufer kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Konvents San Lorenzo",
+            "tip": "Finden Sie eine ruhige Ecke zum Nachdenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Río Jalón partja",
+            "tip": "Egy séta a folyóparton nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Lorenzo kolostor kertje",
+            "tip": "Találjon egy csendes sarkot az elmélkedéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Jalón",
+            "tip": "O plimbare de-a lungul malului râului poate fi foarte relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Mănăstirii San Lorenzo",
+            "tip": "Găsiți un colț liniștit pentru reflecție.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Río Jalón",
+            "tip": "A walk along the riverbank can be very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Convent of San Lorenzo",
+            "tip": "Find a quiet corner for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie lokale Produkte, insbesondere Obst aus der Region."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach einzigartigen Souvenirs und aragonesischer Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi termékeket, különösen a régió gyümölcseit."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen egyedi ajándéktárgyakat és aragóniai kerámiát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse locale, în special fructe din regiune."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri unice și ceramică aragoneză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for local produce, especially the region's fruits."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for unique souvenirs and Aragonese ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Prüfen Sie die Öffnungszeiten der Museen und Kirchen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Előre ellenőrizze a múzeumok és templomok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în lunile mai calde.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Verificați din timp orele de deschidere ale muzeelor și bisericilor."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially during the warmer months.",
+          "Most of the main sights are located close to each other.",
+          "Check the opening hours for museums and churches in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Herederos",
+            "hu": "Plaza de los Herederos",
+            "ro": "Plaza de los Herederos",
+            "en": "Plaza de los Herederos"
+          },
+          "coords": [
+            -1.3742,
+            41.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Zárja le a biciklit, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței principale.",
+            "en": "Lock up your bike and enjoy the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.375,
+            41.4765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Aufstieg, der sich für die Aussicht und die Architektur lohnt.",
+            "hu": "Egy rövid emelkedő, ami megéri a kilátásért és az építészetért.",
+            "ro": "O urcare scurtă care merită pentru priveliște și arhitectură.",
+            "en": "A short climb that's worth it for the views and the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für traditionelle Spiele",
+            "hu": "Hagyományos Játékok Múzeuma",
+            "ro": "Muzeul Jocurilor Tradiționale",
+            "en": "Museum of Traditional Games"
+          },
+          "coords": [
+            -1.38,
+            41.474
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine interaktive Pause auf Ihrer Radtour.",
+            "hu": "Egy interaktív szünet a biciklitúrán.",
+            "ro": "O pauză interactivă în turul cu bicicleta.",
+            "en": "An interactive break on your cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Cabañas",
+            "hu": "Cabañasi Remetekápolna",
+            "ro": "Schitul Cabañas",
+            "en": "Hermitage of Cabañas"
+          },
+          "coords": [
+            -1.388,
+            41.472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für eine ruhige Pause außerhalb der Stadt.",
+            "hu": "Tökéletes hely egy csendes pihenőre a városon kívül.",
+            "ro": "Locul perfect pentru o pauză liniștită în afara orașului.",
+            "en": "The perfect spot for a quiet break outside the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Landwirtschaftliche Landschaft",
+            "hu": "Mezőgazdasági táj",
+            "ro": "Peisaj agricol",
+            "en": "Agricultural Landscape"
+          },
+          "coords": [
+            -1.4,
+            41.48
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Mittagspause mit Blick auf die berühmten Obstgärten der Region.",
+            "hu": "Tartson ebédszünetet a régió híres gyümölcsöseire néző kilátással.",
+            "ro": "Luați o pauză de prânz cu vedere la celebrele livezi din regiune.",
+            "en": "Take a lunch break overlooking the region's famous fruit orchards."
+          }
+        },
+        {
+          "name": {
+            "de": "Cine-Teatro Salón Blanco",
+            "hu": "Cine-Teatro Salón Blanco",
+            "ro": "Cine-Teatro Salón Blanco",
+            "en": "Cine-Teatro Salón Blanco"
+          },
+          "coords": [
+            -1.3725,
+            41.4745
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:01",
+          "stay_min": 79,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Fassade, ein architektonisches Juwel.",
+            "hu": "Csodálja meg a szecessziós homlokzatot, egy építészeti gyöngyszemet.",
+            "ro": "Admirați fațada Art Nouveau, o bijuterie arhitecturală.",
+            "en": "Admire the Art Nouveau façade, an architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag auf der Plaza de los Herederos. Radeln Sie zur Kirche Nuestra Señora de la Asunción und genießen Sie die Aussicht. Am Vormittag besuchen Sie das Museum für traditionelle Spiele und fahren weiter zur ruhigen Ermita de Cabañas. Machen Sie eine Mittagspause in der Natur mit Blick auf die Obstgärten. Am Nachmittag kehren Sie ins Zentrum zurück, um das architektonische Juwel des Cine-Teatro Salón Blanco zu bewundern, bevor Sie Ihren Tag ausklingen lassen.",
+        "hu": "Pattanjon biciklire, és kezdje a napot a Plaza de los Herederoson. Tekerjen fel a Nuestra Señora de la Asunción templomhoz, és élvezze a kilátást. Délelőtt látogasson el a Hagyományos Játékok Múzeumába, majd folytassa útját a békés Ermita de Cabañas felé. Tartson ebédszünetet a természetben, a gyümölcsösökre néző kilátással. Délután térjen vissza a központba, hogy megcsodálja a Cine-Teatro Salón Blanco építészeti gyöngyszemét, mielőtt befejezi a napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua în Plaza de los Herederos. Pedalați până la Biserica Nuestra Señora de la Asunción pentru a admira priveliștea. Dimineața, vizitați Muzeul Jocurilor Tradiționale și continuați spre liniștitul Schit Cabañas. Luați o pauză de prânz în natură, cu vedere la livezi. După-amiaza, reveniți în centru pentru a admira bijuteria arhitecturală a Cine-Teatro Salón Blanco înainte de a încheia ziua.",
+        "en": "Hop on your bike and start the day at Plaza de los Herederos. Cycle up to the Church of Nuestra Señora de la Asunción for the views. In the morning, visit the Museum of Traditional Games and continue to the peaceful Hermitage of Cabañas. Take a lunch break surrounded by nature overlooking the orchards. In the afternoon, return to the center to admire the architectural gem of Cine-Teatro Salón Blanco before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo mit lokaler Wurst",
+            "tip": "Ein herzhafter Snack, perfekt für eine Radpause."
+          },
+          {
+            "name": "Kirschen aus Ricla",
+            "tip": "Wenn Saison ist, probieren Sie die süßen Kirschen aus dem Nachbardorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo helyi kolbásszal",
+            "tip": "Egy kiadós szendvics, tökéletes egy biciklis pihenőhöz."
+          },
+          {
+            "name": "Ricla-i cseresznye",
+            "tip": "Ha szezonja van, kóstolja meg a szomszédos falu édes cseresznyéjét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu cârnați locali",
+            "tip": "O gustare consistentă, perfectă pentru o pauză de ciclism."
+          },
+          {
+            "name": "Cireșe din Ricla",
+            "tip": "Dacă este sezon, încercați cireșele dulci din satul vecin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo with local sausage",
+            "tip": "A hearty sandwich, perfect for a cycling break."
+          },
+          {
+            "name": "Cherries from Ricla",
+            "tip": "If in season, try the sweet cherries from the neighboring town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermita de Cabañas",
+            "tip": "Ein Ort der Stille, ideal zum Entspannen nach einer Radtour.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Feldwege",
+            "tip": "Erkunden Sie die Feldwege rund um die Stadt für eine friedliche Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermita de Cabañas",
+            "tip": "A csend helye, ideális a pihenéshez egy biciklitúra után.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mezei utak",
+            "tip": "Fedezze fel a város körüli földutakat egy békés tekeréshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Cabañas",
+            "tip": "Un loc de liniște, ideal pentru relaxare după o plimbare cu bicicleta.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumuri de țară",
+            "tip": "Explorați drumurile de țară din jurul orașului pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of Cabañas",
+            "tip": "A place of silence, ideal for relaxing after a bike ride.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Country Roads",
+            "tip": "Explore the country lanes around the town for a peaceful ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Für eventuell benötigtes Zubehör oder Reparaturen."
+          },
+          {
+            "name": "Lokale Obststände",
+            "tip": "Kaufen Sie frisches Obst direkt vom Erzeuger für einen Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szükséges kiegészítőkért vagy javításokért."
+          },
+          {
+            "name": "Helyi gyümölcsárusok",
+            "tip": "Vásároljon friss gyümölcsöt közvetlenül a termelőtől egy energiabombaért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru orice accesorii sau reparații de care ați putea avea nevoie."
+          },
+          {
+            "name": "Tarabe locale de fructe",
+            "tip": "Cumpărați fructe proaspete direct de la producători pentru un plus de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "For any accessories or repairs you might need."
+          },
+          {
+            "name": "Local Fruit Stalls",
+            "tip": "Buy fresh fruit directly from the growers for an energy boost."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist relativ flach, aber einige Anstiege zu den Sehenswürdigkeiten sind vorhanden.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Die ländlichen Wege können uneben sein, seien Sie vorsichtig.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "A város viszonylag sík, de néhány emelkedő van a látnivalókhoz.",
+          "Mindig zárja le jól a kerékpárt.",
+          "A vidéki utak egyenetlenek lehetnek, legyen óvatos.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Orașul este relativ plat, dar există câteva urcări spre atracții.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător.",
+          "Drumurile rurale pot fi denivelate, fiți prudenți.",
+          "Casca este puternic recomandată."
+        ],
+        "en": [
+          "The town is relatively flat, but there are some climbs to the sights.",
+          "Always lock your bike securely.",
+          "The rural roads can be uneven, be careful.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Cabañas",
+            "hu": "Cabañasi Remetekápolna",
+            "ro": "Schitul Cabañas",
+            "en": "Hermitage of Cabañas"
+          },
+          "coords": [
+            -1.388,
+            41.472
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ruhigen Ort mit guter Parkmöglichkeit.",
+            "hu": "Kezdje a napot ezen a csendes helyen, ahol jó a parkolás.",
+            "ro": "Începeți ziua în acest loc liniștit cu parcare bună.",
+            "en": "Start your day at this peaceful spot with good parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            -1.373,
+            41.4765
+          ],
+          "category": "transport",
+          "arrive_at": "09:58",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den Rest des historischen Zentrums zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a történelmi központ többi részét gyalog.",
+            "ro": "Parcați aici și explorați restul centrului istoric pe jos.",
+            "en": "Park here and explore the rest of the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de los Herederos",
+            "hu": "Plaza de los Herederos",
+            "ro": "Plaza de los Herederos",
+            "en": "Plaza de los Herederos"
+          },
+          "coords": [
+            -1.3742,
+            41.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:03",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der lebhafte Treffpunkt der Stadt.",
+            "hu": "A város nyüzsgő találkozóhelye.",
+            "ro": "Punctul de întâlnire vibrant al orașului.",
+            "en": "The town's vibrant meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.375,
+            41.4765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ein Muss wegen seiner beeindruckenden Mudejar-Architektur.",
+            "hu": "Kötelező látnivaló a lenyűgöző mudéjar építészete miatt.",
+            "ro": "O vizită obligatorie pentru arhitectura sa impresionantă mudejară.",
+            "en": "A must-see for its impressive Mudéjar architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von San Juan",
+            "hu": "San Juan palota",
+            "ro": "Palatul San Juan",
+            "en": "Palace of San Juan"
+          },
+          "coords": [
+            -1.3758,
+            41.477
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte des Johanniterordens in der Region.",
+            "hu": "Ismerje meg a Johannita Rend történetét a régióban.",
+            "ro": "Aflați despre istoria Ordinului Ospitalierilor în regiune.",
+            "en": "Learn about the history of the Order of Saint John in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für traditionelle Spiele",
+            "hu": "Hagyományos Játékok Múzeuma",
+            "ro": "Muzeul Jocurilor Tradiționale",
+            "en": "Museum of Traditional Games"
+          },
+          "coords": [
+            -1.38,
+            41.474
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und lassen Sie sich in Ihre Kindheit zurückversetzen.",
+            "hu": "Vezessen el a múzeumhoz, és utazzon vissza a gyerekkorába.",
+            "ro": "Conduceți la muzeu pentru o călătorie înapoi în copilărie.",
+            "en": "Drive to the museum for a trip back to your childhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf die Obstgärten",
+            "hu": "Kilátópont a gyümölcsösökre",
+            "ro": "Punct de belvedere spre livezi",
+            "en": "Orchards Viewpoint"
+          },
+          "coords": [
+            -1.35,
+            41.5
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Panoramablick auf die Landschaft, die La Almunia berühmt macht.",
+            "hu": "Zárja a napot egy panorámás kilátással a tájra, amely híressé teszi La Almuniát.",
+            "ro": "Încheiați ziua cu o vedere panoramică a peisajului care face faimos La Almunia.",
+            "en": "End your day with a panoramic view of the landscape that makes La Almunia famous."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der ruhigen Ermita de Cabañas. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: die Plaza de los Herederos, die prächtige Kirche und den Palast San Juan. Nach dem Mittagessen fahren Sie zum einzigartigen Museum für traditionelle Spiele. Schließen Sie Ihren Ausflug mit einer kurzen Fahrt zu einem Aussichtspunkt ab, von dem aus Sie die berühmten Obstgärten der Region bei Sonnenuntergang bewundern können.",
+        "hu": "Kezdje a napot autóval a békés Ermita de Cabañas-nál. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a Plaza de los Herederost, a csodálatos templomot és a San Juan palotát. Ebéd után vezessen el az egyedülálló Hagyományos Játékok Múzeumához. Zárja a kirándulást egy rövid autózással egy kilátóponthoz, ahonnan naplementekor megcsodálhatja a régió híres gyümölcsöseit.",
+        "ro": "Începeți ziua cu mașina la liniștitul Schit Cabañas. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric pe jos: Plaza de los Herederos, biserica magnifică și Palatul San Juan. După prânz, conduceți la unicul Muzeu al Jocurilor Tradiționale. Încheiați excursia cu o scurtă călătorie cu mașina la un punct de belvedere pentru a admira faimoasele livezi ale regiunii la apus.",
+        "en": "Start your day by car at the peaceful Hermitage of Cabañas. Then, drive to the center, park your car, and explore the historic core on foot: Plaza de los Herederos, the magnificent church, and the Palace of San Juan. After lunch, drive to the unique Museum of Traditional Games. End your trip with a short drive to a viewpoint to admire the region's famous orchards at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant an der Straße",
+            "tip": "Halten Sie an einem der vielen Restaurants entlang der Hauptstraßen für ein authentisches 'Menú del día'."
+          },
+          {
+            "name": "Pfirsiche aus Calanda",
+            "tip": "Wenn die Saison stimmt, ist dies eine Delikatesse, die Sie nicht verpassen sollten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útmenti étterem",
+            "tip": "Álljon meg az egyik főút menti étteremnél egy autentikus 'Menú del día'-ra."
+          },
+          {
+            "name": "Calandai őszibarack",
+            "tip": "Ha szezonja van, ezt a csemegét ne hagyja ki."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe șosea",
+            "tip": "Opriți-vă la unul dintre multele restaurante de pe drumurile principale pentru un 'Menú del día' autentic."
+          },
+          {
+            "name": "Piersici de Calanda",
+            "tip": "Dacă este sezonul potrivit, aceasta este o delicatesă pe care nu trebuie să o ratați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Restaurant",
+            "tip": "Stop at one of the many restaurants along the main roads for an authentic 'Menú del día'."
+          },
+          {
+            "name": "Peaches from Calanda",
+            "tip": "If it's the right season, this is a delicacy you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Obstgärten",
+            "tip": "Nehmen Sie die Nebenstraßen und fahren Sie langsam durch die endlosen Reihen von Obstbäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang am Aussichtspunkt",
+            "tip": "Der perfekte, ruhige Abschluss eines ereignisreichen Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a gyümölcsösökön keresztül",
+            "tip": "Válassza a mellékutakat, és lassan hajtson végig a végtelen gyümölcsfasorok között.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a kilátónál",
+            "tip": "Tökéletes, csendes lezárása egy eseménydús napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina printre livezi",
+            "tip": "Luați-o pe drumurile secundare și conduceți încet printre șirurile nesfârșite de pomi fructiferi.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus la punctul de belvedere",
+            "tip": "Finalul perfect și liniștit al unei zile pline.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the orchards",
+            "tip": "Take the back roads and drive slowly through the endless rows of fruit trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset at the viewpoint",
+            "tip": "The perfect, quiet end to a busy day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kooperativen",
+            "tip": "Kaufen Sie Obst und Olivenöl direkt von den landwirtschaftlichen Kooperativen."
+          },
+          {
+            "name": "Autobahnläden",
+            "tip": "Viele Läden an der A-2 verkaufen lokale Spezialitäten, ideal für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szövetkezetek",
+            "tip": "Vásároljon gyümölcsöt és olívaolajat közvetlenül a mezőgazdasági szövetkezetektől."
+          },
+          {
+            "name": "Autópálya melletti boltok",
+            "tip": "Az A-2 mentén számos bolt árul helyi különlegességeket, ideális a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperative",
+            "tip": "Cumpărați fructe și ulei de măsline direct de la cooperativele agricole."
+          },
+          {
+            "name": "Magazine de pe autostradă",
+            "tip": "Multe magazine de pe A-2 vând specialități locale, ideale pentru călătoria de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cooperatives",
+            "tip": "Buy fruit and olive oil directly from the agricultural cooperatives."
+          },
+          {
+            "name": "Highway shops",
+            "tip": "Many shops on the A-2 sell local specialties, ideal for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie ausgewiesene Parkplätze.",
+          "Das Fahren ist der beste Weg, um die umliegende Landschaft zu erkunden.",
+          "Achten Sie auf landwirtschaftliche Fahrzeuge auf den Nebenstraßen.",
+          "Planen Sie Ihre Route im Voraus, da der Handyempfang auf dem Land lückenhaft sein kann."
+        ],
+        "hu": [
+          "A központban nehéz lehet parkolni, használja a kijelölt parkolókat.",
+          "Az autó a legjobb módja a környező táj felfedezésének.",
+          "Vigyázzon a mezőgazdasági járművekre a mellékutakon.",
+          "Tervezze meg előre az útvonalat, mivel a mobil térerő vidéken foltos lehet."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcările desemnate.",
+          "Mașina este cel mai bun mod de a explora peisajul înconjurător.",
+          "Fiți atenți la vehiculele agricole pe drumurile secundare.",
+          "Planificați-vă traseul în avans, deoarece semnalul mobil poate fi slab în mediul rural."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use designated car parks.",
+          "Driving is the best way to explore the surrounding countryside.",
+          "Be aware of agricultural vehicles on the back roads.",
+          "Plan your route in advance as mobile signal can be patchy in the countryside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            -1.371,
+            41.474
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, dem Knotenpunkt für alle lokalen und regionalen Buslinien.",
+            "hu": "Kezdje itt, a helyi és regionális buszjáratok csomópontjánál.",
+            "ro": "Începeți de aici, nodul pentru toate liniile de autobuz locale și regionale.",
+            "en": "Start here, the hub for all local and regional bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de los Herederos",
+            "hu": "Plaza de los Herederos",
+            "ro": "Plaza de los Herederos",
+            "en": "Plaza de los Herederos"
+          },
+          "coords": [
+            -1.3742,
+            41.476
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zum Herzen der Stadt.",
+            "hu": "Egy rövid séta a buszpályaudvartól a város szívéig.",
+            "ro": "O scurtă plimbare de la autogară până în inima orașului.",
+            "en": "A short walk from the bus station to the heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción templom",
+            "ro": "Biserica Nuestra Señora de la Asunción",
+            "en": "Church of Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.375,
+            41.4765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Platz aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor de accesat pe jos din piață.",
+            "en": "Easily accessible on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Konvent San Lorenzo",
+            "hu": "San Lorenzo kolostor",
+            "ro": "Mănăstirea San Lorenzo",
+            "en": "Convent of San Lorenzo"
+          },
+          "coords": [
+            -1.372,
+            41.478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Spaziergang zu einem Ort der Ruhe.",
+            "hu": "Egy újabb rövid séta a nyugalom egyik helyszínére.",
+            "ro": "O altă plimbare scurtă către un loc de liniște.",
+            "en": "Another short walk to a place of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für traditionelle Spiele (Bushaltestelle)",
+            "hu": "Hagyományos Játékok Múzeuma (buszmegálló)",
+            "ro": "Muzeul Jocurilor Tradiționale (stație de autobuz)",
+            "en": "Museum of Traditional Games (Bus Stop)"
+          },
+          "coords": [
+            -1.3805,
+            41.4745
+          ],
+          "category": "museums",
+          "arrive_at": "12:53",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe des Museums bringt. Planen Sie hier Ihre Mittagspause.",
+            "hu": "Menjen egy helyi busszal, amely a múzeum közelébe visz. Tervezze ide az ebédszünetet.",
+            "ro": "Luați un autobuz local care vă duce aproape de muzeu. Planificați-vă pauza de prânz aici.",
+            "en": "Take a local bus to get close to the museum. Plan your lunch break around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cine-Teatro Salón Blanco",
+            "hu": "Cine-Teatro Salón Blanco",
+            "ro": "Cine-Teatro Salón Blanco",
+            "en": "Cine-Teatro Salón Blanco"
+          },
+          "coords": [
+            -1.3725,
+            41.4745
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:23",
+          "stay_min": 82,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer Busfahrt zurück ins Zentrum, um dieses Juwel zu sehen.",
+            "hu": "Fejezze be a túrát egy buszúttal vissza a központba, hogy megnézze ezt a gyöngyszemet.",
+            "ro": "Încheiați turul cu o călătorie cu autobuzul înapoi în centru pentru a vedea această bijuterie.",
+            "en": "End your tour with a bus ride back to the center to see this gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am zentralen Busbahnhof und spazieren Sie ins Herz der Stadt, zur Plaza de los Herederos. Erkunden Sie am Vormittag zu Fuß die Kirche und das Konvent. Nach einem kurzen Spaziergang nehmen Sie einen Bus zum Museum für traditionelle Spiele, wo Sie auch zu Mittag essen können. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Zentrum, um das Cine-Teatro zu bewundern, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Induljon a központi buszpályaudvarról, és sétáljon be a város szívébe, a Plaza de los Herederosra. Délelőtt fedezze fel gyalog a templomot és a kolostort. Egy rövid séta után szálljon buszra a Hagyományos Játékok Múzeumához, ahol ebédelni is tud. Délután egy másik busz visszaviszi a központba, hogy megcsodálhassa a Cine-Teatrót, mielőtt hazaindulna.",
+        "ro": "Porniți de la autogara centrală și plimbați-vă în inima orașului, la Plaza de los Herederos. Explorați biserica și mănăstirea pe jos dimineața. După o scurtă plimbare, luați un autobuz spre Muzeul Jocurilor Tradiționale, unde puteți lua și prânzul. După-amiaza, un alt autobuz vă va duce înapoi în centru pentru a admira Cine-Teatro înainte de a vă întoarce acasă.",
+        "en": "Start at the central bus station and walk to the heart of the town, Plaza de los Herederos. Explore the church and the convent on foot in the morning. After a short walk, take a bus to the Museum of Traditional Games, where you can also have lunch. In the afternoon, another bus will take you back to the center to admire the Cine-Teatro before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafeteria am Busbahnhof",
+            "tip": "Schnappen Sie sich einen schnellen Kaffee und ein Gebäck, bevor Sie losfahren."
+          },
+          {
+            "name": "Tapas-Bar in der Nähe des Museums",
+            "tip": "Stärken Sie sich mit ein paar Tapas, bevor Sie in den nächsten Bus steigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a buszpályaudvaron",
+            "tip": "Kapjon be egy gyors kávét és süteményt, mielőtt elindul."
+          },
+          {
+            "name": "Tapas bár a múzeum közelében",
+            "tip": "Erősítsen meg néhány tapasszal, mielőtt felszáll a következő buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea la autogară",
+            "tip": "Luați o cafea rapidă și un produs de patiserie înainte de a pleca."
+          },
+          {
+            "name": "Bar de tapas lângă muzeu",
+            "tip": "Întăriți-vă cu câteva tapas înainte de a lua următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafeteria at the bus station",
+            "tip": "Grab a quick coffee and a pastry before you set off."
+          },
+          {
+            "name": "Tapas bar near the museum",
+            "tip": "Fortify yourself with some tapas before catching the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das alltägliche Leben aus dem Fenster des Busses.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank auf der Plaza",
+            "tip": "Setzen Sie sich und schauen Sie dem Treiben zu, während Sie auf Ihren Bus warten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a külvárosban",
+            "tip": "Figyelje a mindennapi életet a busz ablakából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Plazán",
+            "tip": "Üljön le és nézze a nyüzsgést, amíg a buszára vár.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Observați viața de zi cu zi de la fereastra autobuzului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în piață",
+            "tip": "Stați jos și priviți agitația în timp ce vă așteptați autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Observe everyday life from the bus window.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in the Plaza",
+            "tip": "Sit down and watch the hustle and bustle while waiting for your bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Souvenirs in der Altstadt",
+            "tip": "Die besten Geschäfte finden Sie in den Straßen rund um die Plaza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Ajándéktárgyak az óvárosban",
+            "tip": "A legjobb boltokat a Plaza körüli utcákban találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Suveniruri în orașul vechi",
+            "tip": "Cele mai bune magazine se găsesc pe străzile din jurul pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the journey."
+          },
+          {
+            "name": "Souvenirs in the old town",
+            "tip": "The best shops are found on the streets around the Plaza."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne können variieren, informieren Sie sich im Voraus.",
+          "Laden Sie die lokale ÖPNV-App herunter, falls verfügbar.",
+          "Behalten Sie Ihre Sachen im Bus und an den Haltestellen im Auge."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "A buszmenetrendek változhatnak, tájékozódjon előre.",
+          "Töltse le a helyi tömegközlekedési alkalmazást, ha van.",
+          "Tartsa szemmel a holmiját a buszon és a megállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii.",
+          "Programele autobuzelor pot varia, verificați în avans.",
+          "Descărcați aplicația locală de transport public, dacă este disponibilă.",
+          "Fiți cu ochii pe bunurile dvs. în autobuz și în stații."
+        ],
+        "en": [
+          "Buy a day pass if you plan on taking multiple trips.",
+          "Bus schedules can vary, so check in advance.",
+          "Download the local public transport app if available.",
+          "Keep an eye on your belongings on the bus and at stops."
+        ]
+      }
+    }
+  }
+}

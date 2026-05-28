@@ -1,0 +1,1285 @@
+{
+  "city_id": "switzerland-zug-cities-v2",
+  "anchor": {
+    "name": "Zug",
+    "coords": [
+      8.515,
+      47.166
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "Town Hall and Old Town"
+          },
+          "coords": [
+            8.5173,
+            47.1665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Kolinplatz und schlendern Sie durch die Gassen.",
+            "hu": "Kezdje a sétát a Kolinplatzon, és bolyongjon a szűk utcácskákban.",
+            "ro": "Începeți la Piața Kolin și plimbați-vă pe aleile înguste.",
+            "en": "Start at Kolinplatz and wander through the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Zytturm",
+            "hu": "Zytturm (Óratorony)",
+            "ro": "Turnul cu Ceas (Zytturm)",
+            "en": "Zytturm (Clock Tower)"
+          },
+          "coords": [
+            8.5168,
+            47.1662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für eine tolle Aussicht über die Dächer der Altstadt und den See.",
+            "hu": "Másszon fel a toronyba, ahonnan remek kilátás nyílik az óvárosra és a tóra.",
+            "ro": "Urcați pentru o priveliște superbă asupra acoperișurilor orașului vechi și a lacului.",
+            "en": "Climb up for a great view over the Old Town's roofs and the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Oswald",
+            "hu": "Szent Oszvald-templom",
+            "ro": "Biserica Sf. Oswald",
+            "en": "Church of St. Oswald"
+          },
+          "coords": [
+            8.518,
+            47.1655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den spätgotischen Bau und die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a késő gótikus épületet és a békés légkört.",
+            "ro": "Admirați clădirea în stil gotic târziu și atmosfera sa liniștită.",
+            "en": "Admire the late-Gothic structure and its tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Zug",
+            "hu": "Zugi Vár",
+            "ro": "Castelul Zug",
+            "en": "Zug Castle"
+          },
+          "coords": [
+            8.5185,
+            47.165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Museum im Inneren gibt einen tollen Einblick in die Geschichte von Zug.",
+            "hu": "A várban található múzeum remek betekintést nyújt Zug történelmébe.",
+            "ro": "Muzeul din interior oferă o perspectivă excelentă asupra istoriei cantonului Zug.",
+            "en": "The museum inside offers a great insight into the history of Zug."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Zug",
+            "hu": "Zugi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Zug",
+            "en": "Zug Art Museum"
+          },
+          "coords": [
+            8.516,
+            47.169
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fokus auf Wiener Moderne. Ein Muss für Klimt- und Schiele-Fans.",
+            "hu": "A bécsi modernizmusra összpontosít. Klimt és Schiele rajongóinak kötelező.",
+            "ro": "Concentrat pe modernismul vienez. O necesitate pentru fanii lui Klimt și Schiele.",
+            "en": "Focuses on Viennese Modernism. A must-see for Klimt and Schiele fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Seepromenade Zug",
+            "hu": "Zugi tóparti sétány",
+            "ro": "Promenada de pe malul lacului Zug",
+            "en": "Zug Lake Promenade"
+          },
+          "coords": [
+            8.512,
+            47.171
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Geniessen Sie den Sonnenuntergang über dem See mit Blick auf Rigi und Pilatus.",
+            "hu": "Élvezze a naplementét a tó felett, kilátással a Rigi és Pilatus hegyekre.",
+            "ro": "Bucurați-vă de apusul peste lac, cu vedere la munții Rigi și Pilatus.",
+            "en": "Enjoy the sunset over the lake with views of the Rigi and Pilatus mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Zug beginnt in der charmanten Altstadt, wo Sie den Puls der Geschichte spüren. Am Vormittag erklimmen Sie den Zytturm für eine atemberaubende Aussicht, bevor Sie in der Stille der Kirche St. Oswald und den Mauern der Burg Zug verweilen. Der Nachmittag gehört der Kunst im renommierten Kunsthaus. Den krönenden Abschluss bildet ein entspannter Spaziergang entlang der Seepromenade, während die Sonne malerisch hinter den Bergen versinkt.",
+        "hu": "A napja Zugban a bájos óvárosban kezdődik, ahol a történelem lüktetését érezheti. Délelőtt megmássza a Zytturm tornyát a lélegzetelállító kilátásért, mielőtt elidőzik a Szent Oszvald-templom csendjében és a zugi vár falai között. A délután a művészeté a neves Kunsthausban. A napot egy pihentető séta zárja a tóparti sétányon, miközben a nap festőien lenyugszik a hegyek mögött.",
+        "ro": "Ziua dvs. în Zug începe în fermecătorul Centru Vechi, unde veți simți pulsul istoriei. Dimineața, urcați în Turnul Zytturm pentru o priveliște uluitoare, înainte de a zăbovi în liniștea Bisericii Sf. Oswald și între zidurile Castelului Zug. După-amiaza este dedicată artei la renumitul Kunsthaus. Finalul perfect este o plimbare relaxantă de-a lungul promenadei de pe malul lacului, în timp ce soarele apune pitoresc în spatele munților.",
+        "en": "Your day in Zug begins in the charming Old Town, where you feel the pulse of history. In the morning, you'll climb the Zytturm for a breathtaking view before lingering in the silence of St. Oswald's Church and the walls of Zug Castle. The afternoon is dedicated to art at the renowned Kunsthaus. The day concludes with a relaxing walk along the lake promenade as the sun sets picturesquely behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Probieren Sie die berühmte Kirschtorte in der Confiserie Speck oder Treichler."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Frittierte Fischstücke aus dem Zugersee, am besten an einem Stand an der Seepromenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zuger Kirschtorte (cseresznyetorta)",
+            "tip": "Kóstolja meg a híres cseresznyetortát a Confiserie Speck vagy Treichler cukrászdában."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Sült haldarabkák a Zugi-tóból, a legjobb a tóparti sétány egyik bódéjánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zuger Kirschtorte (tort cu cireșe)",
+            "tip": "Încercați faimosul tort cu cireșe la Confiserie Speck sau Treichler."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Bucăți de pește prăjit din lacul Zug, cel mai bun de la o tarabă de pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zuger Kirschtorte (Cherry Cake)",
+            "tip": "Try the famous cherry cake at Confiserie Speck or Treichler."
+          },
+          {
+            "name": "Fischknusperli",
+            "tip": "Fried fish pieces from Lake Zug, best enjoyed at a stall on the lake promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seepromenade bei Sonnenuntergang",
+            "tip": "Finden Sie eine Bank und beobachten Sie das Farbenspiel am Himmel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guggi-Hügel",
+            "tip": "Ein kurzer Spaziergang für eine Panoramaaussicht über die Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti sétány naplementekor",
+            "tip": "Keressen egy padot, és figyelje az égbolt színeit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guggi-domb",
+            "tip": "Rövid séta egy panorámás kilátásért a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada lacului la apus",
+            "tip": "Găsiți o bancă și priviți jocul de culori de pe cer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dealul Guggi",
+            "tip": "O scurtă plimbare pentru o vedere panoramică asupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Promenade at sunset",
+            "tip": "Find a bench and watch the play of colors in the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guggi Hill",
+            "tip": "A short walk for a panoramic view over the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Entdecken Sie einzigartige Geschäfte in den historischen Gassen."
+          },
+          {
+            "name": "Zuger Wochenmarkt",
+            "tip": "Findet am Samstag statt und bietet lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Fedezzen fel egyedi üzleteket a történelmi utcácskákban."
+          },
+          {
+            "name": "Zugi heti piac",
+            "tip": "Szombatonként tartják, helyi termékeket és specialitásokat kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri din Centrul Vechi",
+            "tip": "Descoperiți magazine unice pe aleile istorice."
+          },
+          {
+            "name": "Piața săptămânală din Zug",
+            "tip": "Are loc sâmbăta și oferă produse și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Discover unique shops in the historic alleys."
+          },
+          {
+            "name": "Zug Weekly Market",
+            "tip": "Takes place on Saturdays, offering local products and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Brunnen haben Trinkwasserqualität.",
+          "Die öffentlichen Toiletten sind sauber und gut ausgeschildert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az óváros macskaköves.",
+          "Sok kút vize iható.",
+          "A nyilvános WC-k tiszták és jól kitáblázottak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Centrul Vechi are piatră cubică.",
+          "Multe fântâni au apă potabilă.",
+          "Toaletele publice sunt curate și bine semnalizate."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town has cobblestones.",
+          "Many fountains have drinking water quality.",
+          "Public toilets are clean and well-signposted."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Seepromenade und Veloweg",
+            "hu": "Tóparti sétány és kerékpárút",
+            "ro": "Promenada lacului și pista de biciclete",
+            "en": "Lake Promenade and Bike Path"
+          },
+          "coords": [
+            8.51,
+            47.174
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Velo in der Nähe des Bahnhofs und starten Sie den Tag mit einer Runde am See.",
+            "hu": "Béreljen kerékpárt a pályaudvar közelében, és kezdje a napot egy tóparti körrel.",
+            "ro": "Închiriați o bicicletă lângă gară și începeți ziua cu o tură pe malul lacului.",
+            "en": "Rent a bike near the train station and start the day with a ride along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Zug",
+            "hu": "Zugi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Zug",
+            "en": "Zug Art Museum"
+          },
+          "coords": [
+            8.516,
+            47.169
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Velo sicher vor dem Museum.",
+            "hu": "Zárja le biztonságosan a kerékpárját a múzeum előtt.",
+            "ro": "Parcați-vă bicicleta în siguranță în fața muzeului.",
+            "en": "Park your bike securely in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "Town Hall and Old Town"
+          },
+          "coords": [
+            8.5173,
+            47.1665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Velo in den engsten Gassen, um Fussgänger nicht zu stören.",
+            "hu": "A legszűkebb utcákban tolja a kerékpárt, hogy ne zavarja a gyalogosokat.",
+            "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a nu deranja pietonii.",
+            "en": "Walk your bike in the narrowest alleys to avoid disturbing pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Zytturm",
+            "hu": "Zytturm",
+            "ro": "Zytturm",
+            "en": "Zytturm"
+          },
+          "coords": [
+            8.5168,
+            47.1662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die kleine Pause vom Radfahren wert.",
+            "hu": "A toronymászás megér egy kis szünetet a biciklizésben.",
+            "ro": "Urcușul merită o mică pauză de la pedalat.",
+            "en": "The climb is worth the short break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Zug",
+            "hu": "Zugi Vár",
+            "ro": "Castelul Zug",
+            "en": "Zug Castle"
+          },
+          "coords": [
+            8.5185,
+            47.165
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur mit einer kleinen Stärkung im Burgcafé.",
+            "hu": "Kombinálja a kultúrát egy kis frissítővel a vár kávézójában.",
+            "ro": "Combinați cultura cu o mică gustare la cafeneaua castelului.",
+            "en": "Combine culture with a small refreshment at the castle café."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulverturm",
+            "hu": "Pulverturm (Lőportorony)",
+            "ro": "Turnul Pulberăriei (Pulverturm)",
+            "en": "Pulverturm (Gunpowder Tower)"
+          },
+          "coords": [
+            8.519,
+            47.163
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der 'Turm-Tour' und ein tolles Fotomotiv.",
+            "hu": "Szép lezárása a 'torony-túrának' és remek fotótéma.",
+            "ro": "Un final frumos al 'turului turnurilor' și un excelent subiect pentru fotografii.",
+            "en": "A nice end to the 'tower tour' and a great photo opportunity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Zug besonders flexibel. Der Tag startet mit einer erfrischenden Fahrt entlang der Seepromenade. Am Vormittag tauchen Sie im Kunsthaus in die Welt der Kunst ein, bevor Sie Ihr Fahrrad durch die malerische Altstadt schieben. Nach dem Mittagessen erobern Sie die historischen Türme der Stadt – den Zytturm und die Burg. Der Nachmittag endet mit einer längeren Radtour zum imposanten Pulverturm, einem Zeugen der alten Stadtbefestigung.",
+        "hu": "Két keréken különösen rugalmasan fedezheti fel Zugot. A nap egy frissítő tekeréssel kezdődik a tóparti sétányon. Délelőtt elmerül a művészet világában a Kunsthausban, majd áttolja kerékpárját a festői óvároson. Ebéd után beveszi a város történelmi tornyait – a Zytturmot és a várat. A délután egy hosszabb kerékpártúrával zárul a lenyűgöző Pulverturmhoz, a régi városfal egyik tanújához.",
+        "ro": "Pe două roți, explorați Zugul cu o flexibilitate deosebită. Ziua începe cu o plimbare revigorantă de-a lungul promenadei de pe malul lacului. Dimineața, vă scufundați în lumea artei la Kunsthaus, înainte de a vă plimba cu bicicleta prin pitorescul Centru Vechi. După prânz, cuceriți turnurile istorice ale orașului – Zytturm și castelul. După-amiaza se încheie cu o tură mai lungă cu bicicleta până la impunătorul Pulverturm, un martor al vechilor fortificații ale orașului.",
+        "en": "On two wheels, you can explore Zug with particular flexibility. The day starts with a refreshing ride along the lake promenade. In the morning, you'll dive into the world of art at the Kunsthaus before walking your bike through the picturesque Old Town. After lunch, you'll conquer the city's historic towers – the Zytturm and the castle. The afternoon ends with a longer bike ride to the impressive Pulverturm, a witness to the old city fortifications."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Schiff",
+            "tip": "Geniessen Sie frischen Fisch direkt am See."
+          },
+          {
+            "name": "Zuger Rötel",
+            "tip": "Eine lokale Fischspezialität, eine Art Saibling."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Schiff",
+            "tip": "Élvezze a friss halat közvetlenül a tónál."
+          },
+          {
+            "name": "Zuger Rötel",
+            "tip": "Helyi halspecialitás, egyfajta szaibling."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Schiff",
+            "tip": "Savurați pește proaspăt chiar pe malul lacului."
+          },
+          {
+            "name": "Zuger Rötel",
+            "tip": "O specialitate locală de pește, un tip de păstrăv arctic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Schiff",
+            "tip": "Enjoy fresh fish right by the lake."
+          },
+          {
+            "name": "Zuger Rötel",
+            "tip": "A local fish specialty, a type of Arctic char."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg Richtung Cham",
+            "tip": "Ein ruhiger Radweg entlang des Sees, weg vom Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hinter den Mauern der Burg",
+            "tip": "Ein überraschend ruhiger Ort mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út Cham felé",
+            "tip": "Csendes kerékpárút a tó mentén, távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár falai mögött",
+            "tip": "Meglepően csendes hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calea de pe mal spre Cham",
+            "tip": "O pistă de biciclete liniștită de-a lungul lacului, departe de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "În spatele zidurilor castelului",
+            "tip": "Un loc surprinzător de liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside path towards Cham",
+            "tip": "A quiet bike path along the lake, away from the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Behind the castle walls",
+            "tip": "A surprisingly quiet place in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veloladen an der Neugasse",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Hofladen in der Umgebung",
+            "tip": "Mit dem Rad erreichen Sie leicht Bauernhöfe, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a Neugasse-n",
+            "tip": "Ha tartozékra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Kerékpárral könnyen elérhetők a helyi termékeket árusító gazdaságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete pe Neugasse",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Magazin de fermă în zonă",
+            "tip": "Cu bicicleta, puteți ajunge cu ușurință la fermele care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop on Neugasse",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Farm shop in the area",
+            "tip": "By bike, you can easily reach farms selling local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Velowege.",
+          "Achten Sie in der Altstadt auf Fussgänger.",
+          "Ein Schloss für das Velo ist unerlässlich."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat.",
+          "Az óvárosban figyeljen a gyalogosokra.",
+          "A kerékpárzár elengedhetetlen."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate.",
+          "Fiți atenți la pietoni în Centrul Vechi.",
+          "O încuietoare pentru bicicletă este esențială."
+        ],
+        "en": [
+          "Use the well-developed bike paths.",
+          "Be mindful of pedestrians in the Old Town.",
+          "A bike lock is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt-Casino",
+            "hu": "Altstadt-Casino Parkolóház",
+            "ro": "Parcarea Altstadt-Casino",
+            "en": "Altstadt-Casino Parking Garage"
+          },
+          "coords": [
+            8.514,
+            47.169
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster (See und Kunst) zu Fuss zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot (tópart és művészet).",
+            "ro": "Parcați aici pentru a explora primul cluster (lac și artă) pe jos.",
+            "en": "Park here to explore the first cluster (lake and art) on foot."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Seepromenade Zug",
+            "hu": "Zugi tóparti sétány",
+            "ro": "Promenada de pe malul lacului Zug",
+            "en": "Zug Lake Promenade"
+          },
+          "coords": [
+            8.512,
+            47.171
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein morgendlicher Spaziergang am See ist der perfekte Start.",
+            "hu": "Egy reggeli séta a tónál tökéletes kezdés.",
+            "ro": "O plimbare matinală pe malul lacului este începutul perfect.",
+            "en": "A morning walk by the lake is the perfect start."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Zug",
+            "hu": "Zugi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Zug",
+            "en": "Zug Art Museum"
+          },
+          "coords": [
+            8.516,
+            47.169
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Casino-Parkhaus entfernt.",
+            "hu": "Csak néhány lépésre a Casino parkolóháztól.",
+            "ro": "La doar câțiva pași de parcarea Casino.",
+            "en": "Just a few steps from the Casino parking garage."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parkhaus Postplatz",
+            "hu": "Utazás a Postplatz Parkolóházba",
+            "ro": "Călătorie la parcarea Postplatz",
+            "en": "Drive to Postplatz Parking Garage"
+          },
+          "coords": [
+            8.518,
+            47.167
+          ],
+          "category": "transport",
+          "arrive_at": "12:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für den zweiten Cluster, die historische Altstadt.",
+            "hu": "A második látnivalócsoport, a történelmi óváros kiindulópontja.",
+            "ro": "Punctul de plecare pentru al doilea cluster, centrul istoric.",
+            "en": "The starting point for the second cluster, the historic Old Town."
+          },
+          "hop_mode": "car"
+        },
+        {
+          "name": {
+            "de": "Rathaus und Zytturm",
+            "hu": "Városháza és Zytturm",
+            "ro": "Primăria și Zytturm",
+            "en": "Town Hall and Zytturm"
+          },
+          "coords": [
+            8.517,
+            47.166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Wahrzeichen der Altstadt nach dem Mittagessen.",
+            "hu": "Fedezze fel az óváros nevezetességeit ebéd után.",
+            "ro": "Explorați reperele Centrului Vechi după prânz.",
+            "en": "Explore the landmarks of the Old Town after lunch."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Burg Zug",
+            "hu": "Zugi Vár",
+            "ro": "Castelul Zug",
+            "en": "Zug Castle"
+          },
+          "coords": [
+            8.5185,
+            47.165
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zytturm entfernt.",
+            "hu": "Rövid sétára a Zytturmtól.",
+            "ro": "La o scurtă plimbare de Zytturm.",
+            "en": "A short walk from the Zytturm."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den südlichen Türmen",
+            "hu": "Utazás a déli tornyokhoz",
+            "ro": "Călătorie la turnurile sudice",
+            "en": "Drive to the southern towers"
+          },
+          "coords": [
+            8.52,
+            47.162
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und besichtigen Sie Pulverturm und Huwilerturm.",
+            "hu": "Parkoljon a közelben, és nézze meg a Pulverturmot és a Huwilerturmot.",
+            "ro": "Parcați în apropiere și vizitați Pulverturm și Huwilerturm.",
+            "en": "Park nearby and visit the Pulverturm and Huwilerturm."
+          },
+          "hop_mode": "car"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Zug in bequemen Etappen. Sie starten am See, parken im Casino-Parkhaus und geniessen die Seepromenade und das Kunsthaus. Zur Mittagszeit fahren Sie zum Postplatz-Parkhaus, dem Tor zur Altstadt. Nach dem Essen erkunden Sie zu Fuss das historische Herz Zugs mit Rathaus, Zytturm und Burg. Den Abschluss bildet eine kurze Fahrt zu den südlichen Befestigungstürmen, die einen Einblick in die wehrhafte Vergangenheit der Stadt geben.",
+        "hu": "Autóval kényelmes szakaszokban fedezheti fel Zugot. A tónál kezdi a napot, a Casino parkolóházban parkol, és élvezi a tóparti sétányt és a Kunsthaus múzeumot. Ebédidőben a Postplatz parkolóházhoz hajt, amely az óváros kapuja. Ebéd után gyalogosan fedezi fel Zug történelmi szívét a városházával, a Zytturm toronnyal és a várral. A napot egy rövid autózás zárja a déli erődítménytornyokhoz, amelyek bepillantást engednek a város hadviselt múltjába.",
+        "ro": "Cu mașina, explorați Zugul în etape convenabile. Începeți de la lac, parcați la parcarea Casino și bucurați-vă de promenada lacului și de Kunsthaus. La prânz, conduceți la parcarea Postplatz, poarta de intrare în Centrul Vechi. După masă, explorați pe jos inima istorică a Zugului, cu Primăria, Zytturm și Castelul. Finalul este o scurtă călătorie cu mașina la turnurile de fortificație sudice, care oferă o perspectivă asupra trecutului defensiv al orașului.",
+        "en": "By car, you explore Zug in comfortable stages. You start at the lake, park in the Casino parking garage, and enjoy the lake promenade and the Kunsthaus. At lunchtime, you drive to the Postplatz parking garage, the gateway to the Old Town. After your meal, you explore Zug's historic heart on foot, including the Town Hall, Zytturm, and Castle. The day concludes with a short drive to the southern fortification towers, offering a glimpse into the city's defensive past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Blasenberg",
+            "tip": "Etwas ausserhalb mit dem Auto erreichbar, tolle Aussicht und gehobene Küche."
+          },
+          {
+            "name": "Zuger Chriesi",
+            "tip": "Kaufen Sie frische Kirschen an einem Stand ausserhalb der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Blasenberg",
+            "tip": "Kicsit kijjebb, autóval elérhető, remek kilátással és igényes konyhával."
+          },
+          {
+            "name": "Zuger Chriesi (zugi cseresznye)",
+            "tip": "Vásároljon friss cseresznyét egy város melletti standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Blasenberg",
+            "tip": "Puțin în afara orașului, accesibil cu mașina, cu o priveliște minunată și bucătărie rafinată."
+          },
+          {
+            "name": "Zuger Chriesi (cireșe din Zug)",
+            "tip": "Cumpărați cireșe proaspete de la o tarabă din afara orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Blasenberg",
+            "tip": "Slightly outside, reachable by car, with a great view and upscale cuisine."
+          },
+          {
+            "name": "Zuger Chriesi (Zug Cherries)",
+            "tip": "Buy fresh cherries at a stand outside the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugerberg",
+            "tip": "Fahren Sie auf den Hausberg für eine fantastische Aussicht und ruhige Spazierwege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapuzinerkloster",
+            "tip": "Ein Ort der Stille oberhalb der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zugerberg",
+            "tip": "Menjen fel a helyi hegyre a fantasztikus kilátásért és a csendes sétautakért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapucinus kolostor",
+            "tip": "A csend helye a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zugerberg",
+            "tip": "Urcați pe muntele local pentru o priveliște fantastică și poteci liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mănăstirea Capucinilor",
+            "tip": "Un loc de liniște deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zugerberg",
+            "tip": "Drive up the local mountain for a fantastic view and quiet walking paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capuchin Monastery",
+            "tip": "A place of silence above the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Herti",
+            "tip": "Wenn Sie eine grössere Auswahl an Geschäften benötigen."
+          },
+          {
+            "name": "Kirschstrasse",
+            "tip": "Eine Strasse, die für ihre Kirsch-Produkte bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herti bevásárlóközpont",
+            "tip": "Ha nagyobb üzletválasztékra van szüksége."
+          },
+          {
+            "name": "Kirschstrasse (Cseresznye utca)",
+            "tip": "A cseresznyés termékeiről ismert utca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Herti",
+            "tip": "Dacă aveți nevoie de o selecție mai mare de magazine."
+          },
+          {
+            "name": "Kirschstrasse (Strada Cireșelor)",
+            "tip": "O stradă renumită pentru produsele sale din cireșe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herti Shopping Center",
+            "tip": "If you need a larger selection of shops."
+          },
+          {
+            "name": "Kirschstrasse (Cherry Street)",
+            "tip": "A street known for its cherry products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser sind gut ausgeschildert, aber nicht billig.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, besonders in 30er-Zonen.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
+        ],
+        "hu": [
+          "A parkolóházak jól ki vannak táblázva, de nem olcsók.",
+          "Ügyeljen a sebességkorlátozásokra, különösen a 30-as zónákban.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcările sunt bine semnalizate, dar nu sunt ieftine.",
+          "Fiți atenți la limitele de viteză, în special în zonele de 30 km/h.",
+          "Planificați-vă ruta în avans pentru a evita traficul."
+        ],
+        "en": [
+          "Parking garages are well-signposted but not cheap.",
+          "Pay attention to speed limits, especially in 30 km/h zones.",
+          "Plan your route in advance to avoid traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Bahnhof, Bus zum Postplatz",
+            "hu": "Érkezés a pályaudvarra, busz a Postplatzra",
+            "ro": "Sosire la gară, autobuz spre Postplatz",
+            "en": "Arrival at train station, bus to Postplatz"
+          },
+          "coords": [
+            8.518,
+            47.167
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für die Zone 10 für maximale Flexibilität.",
+            "hu": "Vásároljon napijegyet a 10-es zónára a maximális rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru Zona 10 pentru flexibilitate maximă.",
+            "en": "Buy a day pass for Zone 10 for maximum flexibility."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Rathaus und Zytturm",
+            "hu": "Városháza és Zytturm",
+            "ro": "Primăria și Zytturm",
+            "en": "Town Hall and Zytturm"
+          },
+          "coords": [
+            8.517,
+            47.166
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Starten Sie im Herzen der Altstadt, nur wenige Gehminuten vom Postplatz entfernt.",
+            "hu": "Kezdje a sétát az óváros szívében, csak pár percre a Postplatztól.",
+            "ro": "Începeți în inima Centrului Vechi, la câteva minute de mers pe jos de Postplatz.",
+            "en": "Start in the heart of the Old Town, just a few minutes' walk from Postplatz."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Burg Zug und Kirche St. Oswald",
+            "hu": "Zugi Vár és Szent Oszvald-templom",
+            "ro": "Castelul Zug și Biserica Sf. Oswald",
+            "en": "Zug Castle and St. Oswald's Church"
+          },
+          "coords": [
+            8.5185,
+            47.165
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nahe beieinander.",
+            "hu": "Ez a két történelmi helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri istorice sunt situate aproape una de cealaltă.",
+            "en": "These two historic sites are located close to each other."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Casino",
+            "hu": "Buszozás a kaszinóhoz",
+            "ro": "Călătorie cu autobuzul la Cazinou",
+            "en": "Bus ride to the Casino"
+          },
+          "coords": [
+            8.515,
+            47.17
+          ],
+          "category": "transport",
+          "arrive_at": "13:00",
+          "stay_min": 5,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Postplatz, um zum Seeufer-Cluster zu gelangen.",
+            "hu": "Menjen busszal a Postplatzról a tóparti látnivalókhoz.",
+            "ro": "Luați un autobuz din Postplatz pentru a ajunge la clusterul de pe malul lacului.",
+            "en": "Take a bus from Postplatz to get to the lakeside cluster."
+          },
+          "hop_mode": "transit"
+        },
+        {
+          "name": {
+            "de": "Kunsthaus Zug",
+            "hu": "Zugi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Zug",
+            "en": "Zug Art Museum"
+          },
+          "coords": [
+            8.516,
+            47.169
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Bushaltestelle Casino gelegen.",
+            "hu": "Közvetlenül a Casino buszmegálló mellett található.",
+            "ro": "Situat chiar lângă stația de autobuz Casino.",
+            "en": "Located right next to the Casino bus stop."
+          },
+          "hop_mode": "walk"
+        },
+        {
+          "name": {
+            "de": "Seepromenade",
+            "hu": "Tóparti sétány",
+            "ro": "Promenada lacului",
+            "en": "Lake Promenade"
+          },
+          "coords": [
+            8.512,
+            47.171
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 115,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag mit einem langen Spaziergang und Blick auf den Sonnenuntergang ausklingen.",
+            "hu": "Zárja a napot egy hosszú sétával és a naplemente látványával.",
+            "ro": "Încheiați ziua cu o plimbare lungă și o priveliște a apusului.",
+            "en": "End the day with a long walk and a view of the sunset."
+          },
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln (ZVB) lässt sich Zug stressfrei erkunden. Starten Sie am Postplatz und tauchen Sie in die Altstadt ein, wo Zytturm und Burg auf Sie warten. Nach einer Mittagspause bringt Sie ein kurzer Bus-Hop zum zweiten Cluster am See. Dort widmen Sie den Nachmittag dem Kunsthaus und einem ausgedehnten Spaziergang entlang der malerischen Seepromenade, bevor Sie vom Bahnhof aus die Heimreise antreten.",
+        "hu": "A tömegközlekedéssel (ZVB) stresszmentesen fedezheti fel Zugot. Kezdjen a Postplatzon, és merüljön el az óvárosban, ahol a Zytturm és a vár várja. Egy ebédszünet után egy rövid buszozás elviszi a második látnivalócsoporthoz a tónál. Ott a délutánt a Kunsthausnak és egy hosszas sétának szenteli a festői tóparti sétányon, mielőtt a pályaudvarról hazaindul.",
+        "ro": "Cu transportul public (ZVB), puteți explora Zugul fără stres. Începeți la Postplatz și scufundați-vă în Centrul Vechi, unde vă așteaptă Zytturm și Castelul. După o pauză de prânz, un scurt drum cu autobuzul vă duce la al doilea cluster de pe malul lacului. Acolo, dedicați după-amiaza Muzeului de Artă și unei plimbări lungi de-a lungul pitoreștii promenade de pe malul lacului, înainte de a vă întoarce acasă de la gară.",
+        "en": "With public transport (ZVB), you can explore Zug stress-free. Start at Postplatz and immerse yourself in the Old Town, where the Zytturm and the Castle await. After a lunch break, a short bus hop takes you to the second cluster by the lake. There, you'll dedicate the afternoon to the Kunsthaus and a long walk along the picturesque lake promenade before heading home from the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissstände am See",
+            "tip": "Schnell, günstig und mit toller Aussicht."
+          },
+          {
+            "name": "Café am Postplatz",
+            "tip": "Ein guter Ort, um auf den nächsten Bus zu warten und Leute zu beobachten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfék a tónál",
+            "tip": "Gyors, olcsó és remek kilátással."
+          },
+          {
+            "name": "Kávézó a Postplatzon",
+            "tip": "Jó hely a következő buszra várva és emberek nézésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe cu mâncare pe lac",
+            "tip": "Rapid, ieftin și cu o priveliște minunată."
+          },
+          {
+            "name": "Cafenea în Postplatz",
+            "tip": "Un loc bun pentru a aștepta următorul autobuz și a privi oamenii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Food stalls by the lake",
+            "tip": "Quick, cheap, and with a great view."
+          },
+          {
+            "name": "Café at Postplatz",
+            "tip": "A good place to wait for the next bus and people-watch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof St. Michael",
+            "tip": "Ein überraschend friedlicher und kunstvoll gestalteter Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Fahrt mit der Zugerberg Bahn",
+            "tip": "Entfliehen Sie dem Stadttrubel in wenigen Minuten.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mihály temető",
+            "tip": "Meglepően békés és művészien kialakított hely."
+          },
+          {
+            "name": "Utazás a Zugerberg vasúttal",
+            "tip": "Meneküljön el a város nyüzsgésétől néhány perc alatt.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Sf. Mihail",
+            "tip": "Un loc surprinzător de pașnic și artistic amenajat."
+          },
+          {
+            "name": "O călătorie cu funicularul Zugerberg",
+            "tip": "Evadați din agitația orașului în câteva minute.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael's Cemetery",
+            "tip": "A surprisingly peaceful and artfully designed place."
+          },
+          {
+            "name": "A ride on the Zugerberg funicular",
+            "tip": "Escape the city bustle in just a few minutes.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Bahnhof",
+            "tip": "Gut für Last-Minute-Souvenirs vor der Abreise."
+          },
+          {
+            "name": "Metalli-Einkaufszentrum",
+            "tip": "Direkt am Bahnhof gelegen, falls das Wetter schlecht ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a pályaudvaron",
+            "tip": "Jó utolsó pillanatos ajándékok beszerzésére indulás előtt."
+          },
+          {
+            "name": "Metalli bevásárlóközpont",
+            "tip": "Közvetlenül a pályaudvar mellett, ha rossz az idő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la gară",
+            "tip": "Bune pentru suveniruri de ultim moment înainte de plecare."
+          },
+          {
+            "name": "Centrul comercial Metalli",
+            "tip": "Situat chiar lângă gară, în caz de vreme rea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the train station",
+            "tip": "Good for last-minute souvenirs before departure."
+          },
+          {
+            "name": "Metalli shopping center",
+            "tip": "Located right next to the train station in case of bad weather."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die ZVB-App ist nützlich für Fahrpläne und Tickets.",
+          "Die meisten Busse haben USB-Ladeanschlüsse.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "A ZVB alkalmazás hasznos a menetrendekhez és a jegyvásárláshoz.",
+          "A legtöbb buszon van USB töltőport.",
+          "Vegye figyelembe, hogy este ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Aplicația ZVB este utilă pentru orare și bilete.",
+          "Majoritatea autobuzelor au porturi de încărcare USB.",
+          "Rețineți că autobuzele circulă mai rar seara."
+        ],
+        "en": [
+          "The ZVB app is useful for schedules and tickets.",
+          "Most buses have USB charging ports.",
+          "Note that buses run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

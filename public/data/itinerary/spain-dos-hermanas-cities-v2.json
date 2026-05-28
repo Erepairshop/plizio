@@ -1,0 +1,1352 @@
+{
+  "city_id": "spain-dos-hermanas-cities-v2",
+  "anchor": {
+    "name": "Dos Hermanas",
+    "coords": [
+      -5.9221,
+      37.2829
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum La Almona",
+            "hu": "La Almona Kulturális Központ",
+            "ro": "Centrul Cultural La Almona",
+            "en": "La Almona Cultural Centre"
+          },
+          "coords": [
+            -5.924,
+            37.2855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender auf lokale Ausstellungen.",
+            "hu": "Nézze meg a programnaptárat a helyi kiállításokért.",
+            "ro": "Verificați calendarul de evenimente pentru expoziții locale.",
+            "en": "Check the event calendar for local exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Santa María de la Magdalena",
+            "hu": "Santa María de la Magdalena plébániatemplom",
+            "ro": "Parohia Santa María de la Magdalena",
+            "en": "Parish of Santa María de la Magdalena"
+          },
+          "coords": [
+            -5.925,
+            37.284
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den kunstvollen barocken Altaraufsatz.",
+            "hu": "Csodálja meg a díszes barokk oltárképet.",
+            "ro": "Admirați altarul baroc elaborat.",
+            "en": "Admire the elaborate baroque altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santa Ana",
+            "hu": "Santa Ana-kápolna",
+            "ro": "Capela Santa Ana",
+            "en": "Chapel of Santa Ana"
+          },
+          "coords": [
+            -5.9265,
+            37.2825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der stillen Besinnung und ein Juwel der lokalen Architektur.",
+            "hu": "A csendes elmélkedés helye, a helyi építészet gyöngyszeme.",
+            "ro": "Un loc de reflecție liniștită și o bijuterie a arhitecturii locale.",
+            "en": "A place for quiet reflection and a gem of local architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Tapas-Bar",
+            "hu": "Ebéd egy helyi tapas bárban",
+            "ro": "Prânz la un bar local de tapas",
+            "en": "Lunch at a local tapas bar"
+          },
+          "coords": [
+            -5.9245,
+            37.281
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die Espinacas con Garbanzos, eine lokale Spezialität.",
+            "hu": "Kóstolja meg az Espinacas con Garbanzos-t, egy helyi különlegességet.",
+            "ro": "Încercați espinacas con garbanzos, o specialitate locală.",
+            "en": "Try the espinacas con garbanzos, a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Alquería Park",
+            "hu": "Alquería park",
+            "ro": "Parcul Alquería",
+            "en": "Alquería Park"
+          },
+          "coords": [
+            -5.932,
+            37.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Ideális egy pihentető délutáni sétához.",
+            "ro": "Ideal pentru o plimbare relaxantă de după-amiază.",
+            "en": "Ideal for a relaxing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im kulturellen Herzen von Dos Hermanas, gefolgt von der Erkundung seiner spirituellen Wahrzeichen. Sie tauchen in die reiche Geschichte der Stadt ein, die in der Architektur der Magdalena-Kirche und der Santa-Ana-Kapelle sichtbar ist. Ein Mittagessen mit authentischen andalusischen Aromen stärkt Sie für einen entspannten Nachmittag. Der Tag endet mit einem friedlichen Spaziergang durch den Alquería Park, wo Sie die lokale Atmosphäre genießen.",
+        "hu": "A nap Dos Hermanas kulturális szívében kezdődik, majd a spirituális nevezetességek felfedezésével folytatódik. Elmerül a város gazdag történelmében, amely a Magdalena-templom és a Santa Ana-kápolna építészetében is megmutatkozik. Az autentikus andalúz ízekkel teli ebéd feltölti energiával a délutánra. A nap egy békés sétával zárul az Alquería parkban, élvezve a helyi hangulatot.",
+        "ro": "Ziua dvs. începe în inima culturală a Dos Hermanas, urmată de explorarea reperelor sale spirituale. Vă veți cufunda în istoria bogată a orașului, vizibilă în arhitectura Bisericii Magdalena și a Capelei Santa Ana. Un prânz cu arome andaluze autentice vă va revitaliza pentru o după-amiază relaxantă. Ziua se încheie cu o plimbare liniștită prin Parcul Alquería, bucurându-vă de atmosfera locală.",
+        "en": "Your day begins in the cultural heart of Dos Hermanas, followed by exploring its spiritual landmarks. You'll delve into the city's rich history, visible in the architecture of the Magdalena Church and the Santa Ana Chapel. A lunch of authentic Andalusian flavours will energize you for a relaxing afternoon. The day concludes with a peaceful walk through Alquería Park, soaking in the local atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espinacas con Garbanzos",
+            "tip": "Ein herzhafter Eintopf aus Spinat und Kichererbsen, perfekt für ein authentisches Mittagessen."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Eine erfrischende kalte Suppe, ideal für einen warmen andalusischen Tag."
+          },
+          {
+            "name": "Tapas Variadas",
+            "tip": "Teilen Sie verschiedene kleine Gerichte, um einen Vorgeschmack auf alles zu bekommen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espinacas con Garbanzos",
+            "tip": "Kiadós spenótos-csicseriborsós egytálétel, tökéletes egy autentikus ebédhez."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "Frissítő hideg leves, ideális egy meleg andalúz napon."
+          },
+          {
+            "name": "Tapas Variadas",
+            "tip": "Osszanak meg többféle kis fogást, hogy mindenből ízelítőt kapjanak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espinacas con Garbanzos",
+            "tip": "O tocană consistentă de spanac și năut, perfectă pentru un prânz autentic."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "O supă rece răcoritoare, ideală pentru o zi călduroasă andaluză."
+          },
+          {
+            "name": "Tapas Variadas",
+            "tip": "Împărțiți diverse feluri de mâncare mici pentru a gusta din toate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espinacas con Garbanzos",
+            "tip": "A hearty spinach and chickpea stew, perfect for an authentic lunch."
+          },
+          {
+            "name": "Gazpacho",
+            "tip": "A refreshing cold soup, ideal for a warm Andalusian day."
+          },
+          {
+            "name": "Tapas Variadas",
+            "tip": "Share various small dishes to get a taste of everything."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alquería Park",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der Magdalena-Kirche",
+            "tip": "Ein versteckter Ort der Ruhe im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alquería park",
+            "tip": "Keressen egy csendes padot, és élvezze a békés környezetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Magdalena-templom udvara",
+            "tip": "Egy rejtett, békés zug a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Alquería",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de împrejurimile pașnice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Magdalena",
+            "tip": "Un loc ascuns de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alquería Park",
+            "tip": "Find a quiet bench and enjoy the peaceful surroundings.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of Magdalena Church",
+            "tip": "A hidden spot of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Keramik als Souvenir."
+          },
+          {
+            "name": "Geschäfte um die Plaza de la Constitución",
+            "tip": "Stöbern Sie nach handgefertigten Geschenken und andalusischen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi kerámiákat szuvenírként."
+          },
+          {
+            "name": "Boltok a Plaza de la Constitución körül",
+            "tip": "Böngésszen kézműves ajándékok és andalúz specialitások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și ceramică locală ca suveniruri."
+          },
+          {
+            "name": "Magazine în jurul Plaza de la Constitución",
+            "tip": "Căutați cadouri artizanale și specialități andaluze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce and local ceramics as souvenirs."
+          },
+          {
+            "name": "Shops around Plaza de la Constitución",
+            "tip": "Browse for artisan gifts and Andalusian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta; planen Sie entsprechend.",
+          "Fragen Sie in den Restaurants nach dem 'Menú del Día' für ein preiswertes Mittagessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon.",
+          "A legtöbb üzlet délután bezár a szieszta idejére; tervezzen ennek megfelelően.",
+          "Kérje az éttermekben a 'Menú del Día'-t egy kedvező árú ebédért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos toată ziua.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă pentru a vă menține hidratat.",
+          "Majoritatea magazinelor se închid pentru siestă după-amiaza; planificați-vă în consecință.",
+          "Întrebați la restaurante de 'Menú del Día' pentru un prânz la preț bun."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Bring a reusable water bottle to stay hydrated.",
+          "Most shops close for a siesta in the afternoon; plan accordingly.",
+          "Ask for the 'Menú del Día' at restaurants for a great value lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Santa María de la Magdalena",
+            "hu": "Santa María de la Magdalena plébániatemplom",
+            "ro": "Parohia Santa María de la Magdalena",
+            "en": "Parish of Santa María de la Magdalena"
+          },
+          "coords": [
+            -5.925,
+            37.284
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
+            "en": "Secure your bike safely before entering the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Alquería Park",
+            "hu": "Alquería park",
+            "ro": "Parcul Alquería",
+            "en": "Alquería Park"
+          },
+          "coords": [
+            -5.932,
+            37.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Radtour auf den Parkwegen.",
+            "hu": "Élvezze a kellemes kerékpározást a park ösvényein.",
+            "ro": "Bucurați-vă de o plimbare pe îndelete cu bicicleta pe aleile parcului.",
+            "en": "Enjoy a leisurely ride on the park's bike paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            -5.93,
+            37.285
+          ],
+          "category": "gastro",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Restaurants hier haben Außenterrassen.",
+            "hu": "Sok itteni étteremnek van szabadtéri terasza.",
+            "ro": "Multe restaurante de aici au terase exterioare.",
+            "en": "Many restaurants here have outdoor terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune Fuente del Rey",
+            "hu": "Fuente del Rey lagúna",
+            "ro": "Laguna Fuente del Rey",
+            "en": "Lagoon of Fuente del Rey"
+          },
+          "coords": [
+            -5.945,
+            37.3
+          ],
+          "category": "natural features",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort zur Vogelbeobachtung, bringen Sie ein Fernglas mit.",
+            "hu": "Nagyszerű hely a madármegfigyelésre, hozzon távcsövet.",
+            "ro": "Un loc excelent pentru observarea păsărilor, aduceți binoclu.",
+            "en": "A great spot for birdwatching, bring binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum La Almona",
+            "hu": "La Almona Kulturális Központ",
+            "ro": "Centrul Cultural La Almona",
+            "en": "La Almona Cultural Centre"
+          },
+          "coords": [
+            -5.924,
+            37.2855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kultureller Abschluss des Tages, bevor Sie zurückkehren.",
+            "hu": "Kulturális lezárása a napnak, mielőtt visszatérne.",
+            "ro": "O încheiere culturală a zilei înainte de a vă întoarce.",
+            "en": "A cultural end to the day before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Dos Hermanas mit Leichtigkeit. Der Morgen ist der historischen Kirche und einem entspannten Park gewidmet. Nach einem stärkenden Mittagessen radeln Sie zur ruhigen Lagune von Fuente del Rey, einem Paradies für Naturliebhaber. Der Tag endet mit einem Besuch im Kulturzentrum, das einen Einblick in die lokale Kunstszene bietet, bevor Sie Ihre Tour beenden.",
+        "hu": "Két keréken könnyedén felfedezheti Dos Hermanast. A délelőtt a történelmi templom és egy pihentető park jegyében telik. Egy kiadós ebéd után a csendes Fuente del Rey lagúnához teker, amely a természetbarátok paradicsoma. A nap a kulturális központ meglátogatásával zárul, amely betekintést nyújt a helyi művészeti életbe, mielőtt befejezné a túrát.",
+        "ro": "Pe două roți, explorați Dos Hermanas cu ușurință. Dimineața este dedicată bisericii istorice și unui parc relaxant. După un prânz copios, pedalați spre liniștita Lagună Fuente del Rey, un paradis pentru iubitorii de natură. Ziua se încheie cu o vizită la centrul cultural, oferind o perspectivă asupra scenei artistice locale, înainte de a încheia turul.",
+        "en": "On two wheels, you'll explore Dos Hermanas with ease. The morning is dedicated to the historic church and a relaxing park. After a hearty lunch, you'll cycle to the tranquil Lagoon of Fuente del Rey, a haven for nature lovers. The day concludes with a visit to the cultural centre, offering a glimpse into the local art scene before you finish your tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein klassisches spanisches Sandwich, perfekt für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "Eine dickere, cremigere Version von Gazpacho, oft mit Schinken und Ei garniert."
+          },
+          {
+            "name": "Cerveza y Aceitunas",
+            "tip": "Ein kaltes Bier mit lokalen Oliven ist die perfekte Erfrischung nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Klasszikus spanyol szendvics, tökéletes egy gyors és finom ebédhez."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A gazpacho sűrűbb, krémesebb változata, gyakran sonkával és tojással tálalva."
+          },
+          {
+            "name": "Cerveza y Aceitunas",
+            "tip": "Egy hideg sör helyi olajbogyóval tökéletes frissítő egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș spaniol clasic, perfect pentru un prânz rapid și delicios."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "O versiune mai groasă și mai cremoasă de gazpacho, adesea garnisită cu șuncă și ou."
+          },
+          {
+            "name": "Cerveza y Aceitunas",
+            "tip": "O bere rece cu măsline locale este răcorirea perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A classic Spanish sandwich, perfect for a quick and delicious lunch."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A thicker, creamier version of gazpacho, often garnished with ham and egg."
+          },
+          {
+            "name": "Cerveza y Aceitunas",
+            "tip": "A cold beer with local olives is the perfect refreshment after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lagune Fuente del Rey",
+            "tip": "Setzen Sie sich ans Ufer und lauschen Sie den Geräuschen der Natur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alquería Park",
+            "tip": "Perfekt für eine Pause im Schatten an einem sonnigen Tag.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuente del Rey lagúna",
+            "tip": "Üljön le a partra, és hallgassa a természet hangjait.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alquería park",
+            "tip": "Tökéletes egy árnyékos pihenőre egy napsütéses napon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Fuente del Rey",
+            "tip": "Așezați-vă pe mal și ascultați sunetele naturii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Alquería",
+            "tip": "Perfect pentru o pauză la umbră într-o zi însorită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagoon of Fuente del Rey",
+            "tip": "Sit by the shore and listen to the sounds of nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alquería Park",
+            "tip": "Perfect for a break in the shade on a sunny day.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Holen Sie sich Zubehör oder ein lokales Trikot als Andenken."
+          },
+          {
+            "name": "Keramik aus Triana",
+            "tip": "Suchen Sie nach handbemalter Keramik aus dem nahegelegenen Sevilla."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be kiegészítőket vagy egy helyi mezt emlékként."
+          },
+          {
+            "name": "Kerámia Trianából",
+            "tip": "Keressen kézzel festett kerámiákat a közeli Sevillából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Luați accesorii sau un tricou local ca suvenir."
+          },
+          {
+            "name": "Ceramică din Triana",
+            "tip": "Căutați ceramică pictată manual din apropierea Sevillei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up some accessories or a local jersey as a memento."
+          },
+          {
+            "name": "Ceramics from Triana",
+            "tip": "Look for hand-painted ceramics from nearby Seville."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders am Abend.",
+          "Planen Sie Ihre Route im Voraus, einige Straßen sind möglicherweise nicht fahrradfreundlich.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Viseljen sisakot és használjon lámpákat, különösen este.",
+          "Tervezze meg előre az útvonalat, néhány út nem feltétlenül kerékpárbarát.",
+          "Mindig zárja le a kerékpárját egy szilárd tárgyhoz."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Purtați cască și folosiți lumini, mai ales seara.",
+          "Planificați-vă traseul în avans, unele drumuri s-ar putea să nu fie potrivite pentru biciclete.",
+          "Legați-vă întotdeauna bicicleta de un obiect fix."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Wear a helmet and use lights, especially in the evening.",
+          "Plan your route in advance, some roads may not be bike-friendly.",
+          "Always lock your bike to a fixed object."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:43",
+      "total_km": 19.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Pfarrkirche Santa María de la Magdalena",
+            "hu": "A klaszter: Santa María de la Magdalena plébániatemplom",
+            "ro": "Cluster A: Parohia Santa María de la Magdalena",
+            "en": "Cluster A: Parish of Santa María de la Magdalena"
+          },
+          "coords": [
+            -5.925,
+            37.284
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das historische Zentrum.",
+            "hu": "Parkoljon a közelben, és kezdje meg a történelmi központ gyalogos felfedezését.",
+            "ro": "Parcați în apropiere și începeți turul pe jos al centrului istoric.",
+            "en": "Park nearby and start your walking tour of the historic centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Kulturzentrum La Almona",
+            "hu": "A klaszter: La Almona Kulturális Központ",
+            "ro": "Cluster A: Centrul Cultural La Almona",
+            "en": "Cluster A: La Almona Cultural Centre"
+          },
+          "coords": [
+            -5.924,
+            37.2855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche, ideal für einen kulturellen Zwischenstopp.",
+            "hu": "Rövid séta a templomtól, ideális egy kulturális megállóhoz.",
+            "ro": "La o scurtă plimbare de biserică, ideal pentru o oprire culturală.",
+            "en": "A short walk from the church, ideal for a cultural stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Turm von Herberos",
+            "hu": "B klaszter: Herberos-torony",
+            "ro": "Cluster B: Turnul Herberos",
+            "en": "Cluster B: Tower of los Herberos"
+          },
+          "coords": [
+            -5.92,
+            37.265
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von diesem historischen Wachturm.",
+            "hu": "Élvezze a kilátást ebből a történelmi őrtoronyból.",
+            "ro": "Bucurați-vă de priveliștea de la acest turn de veghe istoric.",
+            "en": "Enjoy the views from this historic watchtower."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Hacienda del Quintillo",
+            "hu": "B klaszter: Hacienda del Quintillo",
+            "ro": "Cluster B: Hacienda del Quintillo",
+            "en": "Cluster B: Hacienda del Quintillo"
+          },
+          "coords": [
+            -5.901,
+            37.275
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die landwirtschaftliche Geschichte der Region.",
+            "hu": "Ismerje meg a régió mezőgazdasági történelmét.",
+            "ro": "Aflați despre istoria agricolă a regiunii.",
+            "en": "Learn about the region's agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Landgasthof",
+            "hu": "Ebéd egy vidéki fogadóban",
+            "ro": "Prânz la un han de la țară",
+            "en": "Lunch at a country inn"
+          },
+          "coords": [
+            -5.9,
+            37.278
+          ],
+          "category": "gastro",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den 'Rabo de Toro' für ein authentisches Erlebnis.",
+            "hu": "Kóstolja meg a 'Rabo de Toro'-t egy autentikus élményért.",
+            "ro": "Încercați 'Rabo de Toro' pentru o experiență autentică.",
+            "en": "Try the 'Rabo de Toro' for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Große Rennbahn von Andalusien",
+            "hu": "C klaszter: Andalúziai Nagy Lóversenypálya",
+            "ro": "Cluster C: Marele Hipodrom al Andaluziei",
+            "en": "Cluster C: Great Hippodrome of Andalusia"
+          },
+          "coords": [
+            -5.89,
+            37.31
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs Rennen stattfinden.",
+            "hu": "Nézze meg, hogy tartanak-e versenyeket a látogatása során.",
+            "ro": "Verificați dacă au loc curse în timpul vizitei dvs.",
+            "en": "Check if there are any races during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Lagune Fuente del Rey",
+            "hu": "C klaszter: Fuente del Rey lagúna",
+            "ro": "Cluster C: Laguna Fuente del Rey",
+            "en": "Cluster C: Lagoon of Fuente del Rey"
+          },
+          "coords": [
+            -5.945,
+            37.3
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag mit einem Sonnenuntergang über dem Wasser ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárásához a víz feletti naplementével.",
+            "ro": "Un loc perfect pentru a încheia ziua cu un apus de soare peste apă.",
+            "en": "A perfect spot to end the day watching the sunset over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die verschiedenen Facetten von Dos Hermanas. Der Morgen beginnt im historischen Zentrum, wo Sie zu Fuß die wichtigsten Kirchen und Kulturstätten erkunden. Am Mittag fahren Sie aufs Land, um historische Türme und Haciendas zu entdecken und ein traditionelles Mittagessen zu genießen. Der Nachmittag ist für die weiter entfernten Attraktionen wie die Rennbahn und die ruhige Lagune reserviert, die einen perfekten Abschluss für Ihren abwechslungsreichen Tag bilden.",
+        "hu": "Autóval fedezheti fel Dos Hermanas különböző arcait. A délelőtt a történelmi központban kezdődik, ahol gyalogosan fedezi fel a főbb templomokat és kulturális helyszíneket. Délben vidékre utazik, hogy történelmi tornyokat és haciendákat fedezzen fel, és élvezze a hagyományos ebédet. A délután a távolabbi látnivalóknak, például a lóversenypályának és a csendes lagúnának van szentelve, amelyek tökéletes lezárást nyújtanak a változatos napnak.",
+        "ro": "Cu mașina, explorați diversele fațete ale Dos Hermanas. Dimineața începe în centrul istoric, unde explorați pe jos principalele biserici și situri culturale. La prânz, vă îndreptați spre zona rurală pentru a descoperi turnuri istorice și haciende și pentru a savura un prânz tradițional. După-amiaza este rezervată atracțiilor mai îndepărtate, cum ar fi hipodromul și laguna liniștită, oferind o încheiere perfectă a zilei dvs. variate.",
+        "en": "By car, you explore the diverse facets of Dos Hermanas. The morning starts in the historic centre, where you explore the main churches and cultural sites on foot. At midday, you head to the countryside to discover historic towers and haciendas and enjoy a traditional lunch. The afternoon is reserved for the more distant attractions like the racecourse and the tranquil lagoon, providing a perfect end to your varied day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rabo de Toro",
+            "tip": "Geschmorter Ochsenschwanz, ein reichhaltiges und schmackhaftes andalusisches Gericht."
+          },
+          {
+            "name": "Pringá",
+            "tip": "Ein langsam gekochtes Fleischgericht, das oft als Tapa oder in einem Sandwich serviert wird."
+          },
+          {
+            "name": "Wein aus der Region",
+            "tip": "Begleiten Sie Ihre Mahlzeit mit einem Glas lokalen Weins für ein komplettes Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rabo de Toro",
+            "tip": "Párolt ököruszály, gazdag és ízletes andalúz étel."
+          },
+          {
+            "name": "Pringá",
+            "tip": "Lassan főtt húsétel, amelyet gyakran tapasként vagy szendvicsben szolgálnak fel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kísérje étkezését egy pohár helyi borral a teljes élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rabo de Toro",
+            "tip": "Coada de taur fiartă, un fel de mâncare andaluz bogat și savuros."
+          },
+          {
+            "name": "Pringá",
+            "tip": "Un fel de mâncare din carne gătită lent, adesea servit ca tapa sau într-un sandviș."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Însoțiți masa cu un pahar de vin local pentru o experiență completă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rabo de Toro",
+            "tip": "Braised oxtail, a rich and flavourful Andalusian dish."
+          },
+          {
+            "name": "Pringá",
+            "tip": "A slow-cooked meat dish, often served as a tapa or in a sandwich."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Pair your meal with a glass of local wine for a complete experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lagune Fuente del Rey",
+            "tip": "Ein idealer Ort für einen ruhigen Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten der Hacienda del Quintillo",
+            "tip": "Ein friedlicher Ort, um dem Trubel zu entkommen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht vom Turm von Herberos",
+            "tip": "Genießen Sie die weite und ruhige Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuente del Rey lagúna",
+            "tip": "Ideális hely egy csendes naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Hacienda del Quintillo kertjei",
+            "tip": "Békés hely a nyüzsgés elől való elvonuláshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Herberos-toronyból",
+            "tip": "Élvezze a tágas és csendes tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Fuente del Rey",
+            "tip": "Un loc ideal pentru un apus de soare liniștit.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Hacienda del Quintillo",
+            "tip": "Un loc pașnic pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Turnul Herberos",
+            "tip": "Bucurați-vă de peisajul vast și liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagoon of Fuente del Rey",
+            "tip": "An ideal place for a quiet sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Hacienda del Quintillo",
+            "tip": "A peaceful spot to escape the bustle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Tower of Herberos",
+            "tip": "Enjoy the vast and quiet landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie Olivenöl und Wein direkt vom Erzeuger."
+          },
+          {
+            "name": "Souvenirs an der Rennbahn",
+            "tip": "Finden Sie einzigartige Andenken zum Thema Pferderennen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vásároljon olívaolajat és bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Szuvenírek a lóversenypályán",
+            "tip": "Találjon egyedi, lóverseny témájú emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă",
+            "tip": "Cumpărați ulei de măsline și vin direct de la producători."
+          },
+          {
+            "name": "Suveniruri de la hipodrom",
+            "tip": "Găsiți amintiri unice legate de cursele de cai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Buy olive oil and wine directly from the producers."
+          },
+          {
+            "name": "Souvenirs at the Hippodrome",
+            "tip": "Find unique horse-racing themed mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten an jedem Zielort im Voraus.",
+          "Verwenden Sie eine GPS-App für eine einfache Navigation zwischen den Clustern.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch spontan Orte zu besuchen.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, besonders auf Landstraßen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket minden célállomáson.",
+          "Használjon GPS-alkalmazást a klaszterek közötti egyszerű navigációhoz.",
+          "Az autó rugalmasságot ad a spontán helyszínek meglátogatásához is.",
+          "Ügyeljen a sebességkorlátozásokra, különösen a vidéki utakon."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare la fiecare destinație.",
+          "Folosiți o aplicație GPS pentru o navigare ușoară între clustere.",
+          "O mașină vă oferă flexibilitatea de a vizita locuri spontan.",
+          "Fiți atenți la limitele de viteză, în special pe drumurile rurale."
+        ],
+        "en": [
+          "Check parking options at each destination in advance.",
+          "Use a GPS app for easy navigation between clusters.",
+          "A car gives you the flexibility to visit places spontaneously.",
+          "Be mindful of speed limits, especially on country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Pfarrkirche Santa María de la Magdalena",
+            "hu": "A klaszter: Santa María de la Magdalena plébániatemplom",
+            "ro": "Cluster A: Parohia Santa María de la Magdalena",
+            "en": "Cluster A: Parish of Santa María de la Magdalena"
+          },
+          "coords": [
+            -5.925,
+            37.284
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, leicht erreichbar mit dem Bus.",
+            "hu": "Kezdje a napot a város szívében, amely busszal könnyen megközelíthető.",
+            "ro": "Începeți ziua în inima orașului, ușor accesibilă cu autobuzul.",
+            "en": "Start your day in the heart of the city, easily reachable by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Kulturzentrum La Almona",
+            "hu": "A klaszter: La Almona Kulturális Központ",
+            "ro": "Cluster A: Centrul Cultural La Almona",
+            "en": "Cluster A: La Almona Cultural Centre"
+          },
+          "coords": [
+            -5.924,
+            37.2855
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der vorherigen Haltestelle.",
+            "hu": "Rövid séta az előző megállótól.",
+            "ro": "La o scurtă plimbare de la oprirea anterioară.",
+            "en": "A short walk from the previous stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster A: Kapelle Santa Ana",
+            "hu": "A klaszter: Santa Ana-kápolna",
+            "ro": "Cluster A: Capela Santa Ana",
+            "en": "Cluster A: Chapel of Santa Ana"
+          },
+          "coords": [
+            -5.9265,
+            37.2825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Juwel, bevor Sie zu Mittag essen.",
+            "hu": "Fedezze fel ezt a gyöngyszemet ebéd előtt.",
+            "ro": "Descoperiți această bijuterie înainte de a lua prânzul.",
+            "en": "Discover this gem before you head for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city centre"
+          },
+          "coords": [
+            -5.9255,
+            37.2815
+          ],
+          "category": "gastro",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine wohlverdiente Pause mit lokaler Küche.",
+            "hu": "Élvezze a jól megérdemelt pihenőt a helyi konyhával.",
+            "ro": "Bucurați-vă de o pauză binemeritată cu bucătărie locală.",
+            "en": "Enjoy a well-deserved break with some local cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Alquería Park",
+            "hu": "B klaszter: Alquería park",
+            "ro": "Cluster B: Parcul Alquería",
+            "en": "Cluster B: Alquería Park"
+          },
+          "coords": [
+            -5.932,
+            37.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um diesen schönen Park für einen Nachmittagsspaziergang zu erreichen.",
+            "hu": "Busszal érje el ezt a gyönyörű parkot egy délutáni sétára.",
+            "ro": "Luați un autobuz pentru a ajunge la acest parc frumos pentru o plimbare de după-amiază.",
+            "en": "Take a bus to reach this beautiful park for an afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Lagune Fuente del Rey",
+            "hu": "C klaszter: Fuente del Rey lagúna",
+            "ro": "Cluster C: Laguna Fuente del Rey",
+            "en": "Cluster C: Lagoon of Fuente del Rey"
+          },
+          "coords": [
+            -5.945,
+            37.3
+          ],
+          "category": "natural features",
+          "arrive_at": "15:37",
+          "stay_min": 125,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ihre letzte Busfahrt führt Sie zu diesem ruhigen Ort, ideal zur Vogelbeobachtung.",
+            "hu": "Az utolsó buszút erre a csendes helyre vezet, amely ideális madármegfigyelésre.",
+            "ro": "Ultima călătorie cu autobuzul vă duce la acest loc liniștit, ideal pentru observarea păsărilor.",
+            "en": "Your final bus ride takes you to this serene spot, ideal for birdwatching."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln navigieren Sie mühelos durch Dos Hermanas. Der Vormittag gehört dem zu Fuß erreichbaren Stadtzentrum mit seinen historischen Gebäuden. Nach dem Mittagessen bringt Sie ein Bus in den grünen Alquería Park. Eine weitere Busfahrt führt Sie zur ruhigen Lagune von Fuente del Rey, wo Sie den Tag in der Natur ausklingen lassen können, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "A tömegközlekedéssel könnyedén navigálhat Dos Hermanasban. A délelőtt a gyalogosan bejárható városközponté, történelmi épületeivel. Ebéd után egy busz viszi a zöld Alquería parkba. Egy másik buszút a csendes Fuente del Rey lagúnához vezet, ahol a természetben fejezheti be a napot, mielőtt visszatérne a központba.",
+        "ro": "Folosind transportul public, navigați prin Dos Hermanas fără efort. Dimineața este petrecută în centrul orașului, explorabil pe jos, cu clădirile sale istorice. După prânz, un autobuz vă duce la Parcul verde Alquería. O altă călătorie cu autobuzul vă duce la liniștita Lagună Fuente del Rey, unde puteți încheia ziua în natură înainte de a vă întoarce în centru.",
+        "en": "Using public transport, you'll navigate Dos Hermanas effortlessly. The morning is spent in the walkable city centre with its historic buildings. After lunch, a bus takes you to the green Alquería Park. Another bus ride brings you to the tranquil Lagoon of Fuente del Rey, where you can end your day immersed in nature before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortilla Española",
+            "tip": "Ein klassisches spanisches Omelett, das zu jeder Tageszeit schmeckt."
+          },
+          {
+            "name": "Café con Leche y Tostada",
+            "tip": "Ein typisch spanisches Frühstück oder ein Snack am Nachmittag."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein süßer Genuss, den Sie sich nicht entgehen lassen sollten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortilla Española",
+            "tip": "Klasszikus spanyol omlett, a nap bármely szakában finom."
+          },
+          {
+            "name": "Café con Leche y Tostada",
+            "tip": "Jellegzetes spanyol reggeli vagy délutáni snack."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Édes finomság, amit nem szabad kihagyni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortilla Española",
+            "tip": "O omletă spaniolă clasică, delicioasă în orice moment al zilei."
+          },
+          {
+            "name": "Café con Leche y Tostada",
+            "tip": "Un mic dejun tipic spaniol sau o gustare de după-amiază."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "O delicatesă dulce pe care nu trebuie să o ratați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortilla Española",
+            "tip": "A classic Spanish omelette, delicious any time of day."
+          },
+          {
+            "name": "Café con Leche y Tostada",
+            "tip": "A typical Spanish breakfast or afternoon snack."
+          },
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A sweet treat you shouldn't miss."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lagune Fuente del Rey",
+            "tip": "Entfliehen Sie dem Stadtleben und genießen Sie die Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alquería Park",
+            "tip": "Ein großartiger Ort zum Lesen eines Buches oder einfach nur zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuente del Rey lagúna",
+            "tip": "Meneküljön el a városi élettől és élvezze a csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alquería park",
+            "tip": "Nagyszerű hely egy könyv olvasásához vagy egyszerűen csak pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Fuente del Rey",
+            "tip": "Evadați din viața de oraș și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Alquería",
+            "tip": "Un loc minunat pentru a citi o carte sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagoon of Fuente del Rey",
+            "tip": "Escape the city life and enjoy the silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alquería Park",
+            "tip": "A great place to read a book or just relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Real",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Geschäften."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Informieren Sie sich über die Markttage für die besten Angebote und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Real",
+            "tip": "A fő bevásárlóutca helyi és országos üzletek keverékével."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Tájékozódjon a piac napjairól a legjobb ajánlatokért és a helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Real",
+            "tip": "Strada comercială principală cu un amestec de magazine locale și naționale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați zilele de piață pentru cele mai bune oferte și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Real",
+            "tip": "The main shopping street with a mix of local and national stores."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Check for market days to find the best deals and local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Beachten Sie, dass Busse abends und am Wochenende seltener fahren.",
+          "Validieren Sie Ihr Ticket bei jedem Betreten des Busses."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Ne feledje, hogy a buszok este és hétvégén ritkábban közlekednek.",
+          "Érvényesítse a jegyét minden alkalommal, amikor felszáll a buszra."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend.",
+          "Validați-vă biletul de fiecare dată când urcați în autobuz."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Be aware that buses may be less frequent in the evenings and on weekends.",
+          "Validate your ticket each time you board a bus."
+        ]
+      }
+    }
+  }
+}

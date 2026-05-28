@@ -1,0 +1,1500 @@
+{
+  "city_id": "greece-naoussa-cities-v2",
+  "anchor": {
+    "name": "Naoussa",
+    "coords": [
+      40.63,
+      22.07
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Traditionelles Viertel Alonia",
+            "hu": "Alónia hagyományos negyed",
+            "ro": "Cartierul tradițional Alonia",
+            "en": "Traditional Quarter of Alonia"
+          },
+          "coords": [
+            22.068,
+            40.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der traditionellen Kafenions.",
+            "hu": "Kezdje a napot egy kávéval a hagyományos kávézók egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele tradiționale.",
+            "en": "Start your day with a coffee at one of the traditional kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            22.0675,
+            40.6292
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Details der Architektur aus dem 19. Jahrhundert.",
+            "hu": "Figyelje meg a 19. századi építészet részleteit!",
+            "ro": "Observați detaliile arhitecturii din secolul al XIX-lea.",
+            "en": "Pay attention to the details of the 19th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Saint Nicholas Cathedral"
+          },
+          "coords": [
+            22.0705,
+            40.629
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző belső freskókat!",
+            "ro": "Admirați frescele impresionante din interior.",
+            "en": "Admire the impressive frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Opferung",
+            "hu": "Az áldozat emlékműve",
+            "ro": "Monumentul Sacrificiului",
+            "en": "Monument of the Sacrifice"
+          },
+          "coords": [
+            22.069,
+            40.6315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:13",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ergreifender Ort, der an den Mut der Frauen von Naoussa erinnert.",
+            "hu": "Megható hely, amely a naouszai nők bátorságára emlékeztet.",
+            "ro": "Un loc emoționant care comemorează curajul femeilor din Naoussa.",
+            "en": "A poignant spot commemorating the bravery of Naoussa's women."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Naoussa",
+            "hu": "Naoussa városi parkja",
+            "ro": "Parcul Municipal din Naoussa",
+            "en": "Municipal Park of Naoussa"
+          },
+          "coords": [
+            22.075,
+            40.632
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause mit Blick auf die Ebene von Imathia.",
+            "hu": "Ideális egy ebédszünethez, kilátással az Imathia-alföldre.",
+            "ro": "Ideal pentru o pauză de prânz cu vedere la câmpia Imathia.",
+            "en": "Ideal for a lunch break with views over the Imathia plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Arapitsa-Wasserfälle",
+            "hu": "Arapitsa-vízesések",
+            "ro": "Cascadele Arapitsa",
+            "en": "Arapitsa Waterfalls"
+          },
+          "coords": [
+            22.065,
+            40.625
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, die Wege können rutschig sein.",
+            "hu": "Viseljen erős cipőt, az ösvények csúszósak lehetnek.",
+            "ro": "Purtați încălțăminte rezistentă, potecile pot fi alunecoase.",
+            "en": "Wear sturdy shoes as the paths can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Wein- und Rebenmuseum",
+            "hu": "Bor- és Szőlőmúzeum",
+            "ro": "Muzeul Vinului și Viei",
+            "en": "Wine and Vine Museum"
+          },
+          "coords": [
+            22.072,
+            40.635
+          ],
+          "category": "museums",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Planen Sie Zeit für eine Verkostung des berühmten Xinomavro-Weins ein.",
+            "hu": "Tervezzen időt a híres Xinomavro bor kóstolására!",
+            "ro": "Planificați timp pentru o degustare a renumitului vin Xinomavro.",
+            "en": "Plan time for a tasting of the famous Xinomavro wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Viertel Alonia, spüren Sie den Puls der Stadt und bewundern Sie den Uhrenturm. Am Vormittag tauchen Sie in die spirituelle und heldenhafte Vergangenheit von Naoussa ein, indem Sie die Kathedrale und das Opferdenkmal besuchen. Verbringen Sie einen entspannten Nachmittag im kühlen Stadtpark, bevor Sie die erfrischenden Arapitsa-Wasserfälle entdecken. Schließen Sie Ihren Rundgang mit einem tiefen Einblick in die Weinbautradition der Region im Wein- und Rebenmuseum ab, idealerweise mit einer Verkostung des lokalen Xinomavro.",
+        "hu": "Kezdje a napot a történelmi Alónia negyedben, érezze a város lüktetését és csodálja meg az Óratornyot. Délelőtt merüljön el Naoussa spirituális és hősies múltjában a székesegyház és az áldozat emlékművének meglátogatásával. Töltsön egy pihentető délutánt a hűsítő városi parkban, mielőtt felfedezné a frissítő Arapitsa-vízeséseket. Zárja a sétát a régió borászati hagyományainak mélyebb megismerésével a Bor- és Szőlőmúzeumban, ideális esetben egy helyi Xinomavro kóstolóval.",
+        "ro": "Începeți ziua în cartierul istoric Alonia, simțiți pulsul orașului și admirați Turnul cu Ceas. Dimineața, scufundați-vă în trecutul spiritual și eroic al Naoussei vizitând catedrala și Monumentul Sacrificiului. Petreceți o după-amiază relaxantă în Parcul Municipal răcoros înainte de a descoperi cascadele răcoritoare Arapitsa. Încheiați turul cu o incursiune în tradiția viticolă a regiunii la Muzeul Vinului și Viei, ideal cu o degustare a vinului local Xinomavro.",
+        "en": "Start your day in the historic Alonia quarter, feel the city's pulse, and admire the Clock Tower. In the morning, delve into Naoussa's spiritual and heroic past by visiting the cathedral and the Monument of Sacrifice. Spend a relaxing afternoon in the cool Municipal Park before discovering the refreshing Arapitsa Waterfalls. Conclude your tour with a deep dive into the region's winemaking tradition at the Wine and Vine Museum, ideally with a tasting of the local Xinomavro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Xinomavro Wein",
+            "tip": "Probieren Sie den lokalen Rotwein, für den Naoussa berühmt ist."
+          },
+          {
+            "name": "Gavros (Sardellen)",
+            "tip": "Frittierte oder marinierte kleine Fische, eine beliebte Meze."
+          },
+          {
+            "name": "Mantza",
+            "tip": "Ein traditioneller Gemüseeintopf, oft mit lokalen Kräutern gewürzt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Xinomavro bor",
+            "tip": "Kóstolja meg a helyi vörösbort, amelyről Naoussa híres."
+          },
+          {
+            "name": "Gavros (szardella)",
+            "tip": "Sült vagy pácolt apró hal, népszerű meze."
+          },
+          {
+            "name": "Mantza",
+            "tip": "Hagyományos zöldségpörkölt, gyakran helyi fűszernövényekkel ízesítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Xinomavro",
+            "tip": "Gustați vinul roșu local pentru care Naoussa este renumită."
+          },
+          {
+            "name": "Gavros (hamsii)",
+            "tip": "Pești mici prăjiți sau marinați, o meze populară."
+          },
+          {
+            "name": "Mantza",
+            "tip": "O tocană tradițională de legume, adesea asezonată cu ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Xinomavro Wine",
+            "tip": "Taste the local red wine that Naoussa is famous for."
+          },
+          {
+            "name": "Gavros (anchovies)",
+            "tip": "Fried or marinated small fish, a popular meze."
+          },
+          {
+            "name": "Mantza",
+            "tip": "A traditional vegetable stew, often seasoned with local herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Arapitsa",
+            "tip": "Finden Sie einen ruhigen Platz am Fluss in der Nähe der Wasserfälle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtpark am späten Nachmittag",
+            "tip": "Genießen Sie die Ruhe und die Aussicht, wenn die Tagesbesucher gehen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke bei der Schule des Aristoteles",
+            "tip": "Ein Ort der Kontemplation mit historischer Bedeutung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arapitsa partja",
+            "tip": "Keressen egy csendes helyet a folyóparton a vízesések közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi park késő délután",
+            "tip": "Élvezze a csendet és a kilátást, ahogy a nappali látogatók távoznak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok az Arisztotelész Iskolájánál",
+            "tip": "Történelmi jelentőségű elmélkedő hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Arapitsa",
+            "tip": "Găsiți un loc liniștit lângă râu, aproape de cascade.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Municipal după-amiaza târziu",
+            "tip": "Bucurați-vă de liniște și de priveliște pe măsură ce vizitatorii de o zi pleacă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile de la Școala lui Aristotel",
+            "tip": "Un loc de contemplație cu semnificație istorică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Arapitsa River",
+            "tip": "Find a quiet spot by the river near the waterfalls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Municipal Park in the late afternoon",
+            "tip": "Enjoy the tranquility and the views as the day visitors leave.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches at the School of Aristotle",
+            "tip": "A place for contemplation with historical significance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Xinomavro direkt von einem Weingut."
+          },
+          {
+            "name": "Traditionelle Süßigkeiten",
+            "tip": "Suchen Sie nach 'Roxakia' oder 'Sarakina', lokalen Sirupgebäcken."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Ein starker destillierter Brand, oft hausgemacht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Xinomavrót közvetlenül egy pincészetből."
+          },
+          {
+            "name": "Hagyományos édességek",
+            "tip": "Keresse a 'Roxakia' vagy 'Sarakina' nevű helyi szirupos süteményeket."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Erős párlat, gyakran házi készítésű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Xinomavro direct de la o cramă."
+          },
+          {
+            "name": "Dulciuri tradiționale",
+            "tip": "Căutați 'Roxakia' sau 'Sarakina', produse de patiserie locale însiropate."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "O băutură spirtoasă distilată puternică, adesea făcută în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Xinomavro directly from a winery."
+          },
+          {
+            "name": "Traditional Sweets",
+            "tip": "Look for 'Roxakia' or 'Sarakina', local syrupy pastries."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "A strong distilled spirit, often homemade."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Naoussa ist auf Hügeln gebaut, seien Sie also auf einige Steigungen vorbereitet.",
+          "Tragen Sie bequeme Schuhe, da die meisten Straßen gepflastert sind.",
+          "Viele Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihre Einkäufe entsprechend.",
+          "Probieren Sie das Wasser aus den lokalen Quellen, es gilt als sehr rein."
+        ],
+        "hu": [
+          "Naoussa dombokra épült, ezért készüljön némi emelkedőre.",
+          "Viseljen kényelmes cipőt, mivel a legtöbb utca macskaköves.",
+          "Sok üzlet délutáni sziesztát tart, tervezze meg a vásárlást ennek megfelelően.",
+          "Kóstolja meg a helyi források vizét, állítólag nagyon tiszta."
+        ],
+        "ro": [
+          "Naoussa este construită pe dealuri, așa că fiți pregătiți pentru câteva urcușuri.",
+          "Purtați încălțăminte confortabilă, deoarece majoritatea străzilor sunt pavate.",
+          "Multe magazine au o siestă de după-amiază, planificați-vă cumpărăturile în consecință.",
+          "Încercați apa de la izvoarele locale, este considerată foarte pură."
+        ],
+        "en": [
+          "Naoussa is built on hills, so be prepared for some inclines.",
+          "Wear comfortable shoes as most streets are cobblestoned.",
+          "Many shops observe an afternoon siesta, so plan your shopping accordingly.",
+          "Try the water from the local springs; it is considered very pure."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schule des Aristoteles",
+            "hu": "Arisztotelész Iskolája",
+            "ro": "Școala lui Aristotel",
+            "en": "School of Aristotle"
+          },
+          "coords": [
+            22.085,
+            40.621
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die friedliche Atmosphäre dieses historischen Ortes auf sich wirken zu lassen.",
+            "hu": "Szánjon időt arra, hogy átérezze ennek a történelmi helynek a békés légkörét.",
+            "ro": "Luați-vă timp pentru a absorbi atmosfera pașnică a acestui sit istoric.",
+            "en": "Take your time to absorb the peaceful atmosphere of this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Arapitsa-Wasserfälle",
+            "hu": "Arapitsa-vízesések",
+            "ro": "Cascadele Arapitsa",
+            "en": "Arapitsa Waterfalls"
+          },
+          "coords": [
+            22.065,
+            40.625
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Ein erfrischender Stopp. Schließen Sie Ihr Fahrrad an und erkunden Sie die Wege.",
+            "hu": "Frissítő megálló. Zárja le a kerékpárt és fedezze fel az ösvényeket.",
+            "ro": "O oprire revigorantă. Asigurați-vă bicicleta și explorați potecile.",
+            "en": "A refreshing stop. Lock your bike and explore the paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelles Viertel Alonia",
+            "hu": "Alónia hagyományos negyed",
+            "ro": "Cartierul tradițional Alonia",
+            "en": "Traditional Quarter of Alonia"
+          },
+          "coords": [
+            22.068,
+            40.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:52",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen in einer der vielen Tavernen.",
+            "hu": "Tökéletes hely egy ebédhez a sok taverna egyikében.",
+            "ro": "Locul perfect pentru prânz la una dintre numeroasele taverne.",
+            "en": "Perfect spot for lunch at one of the many tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm & Agios Nikolaos",
+            "hu": "Óratorony és Szent Miklós",
+            "ro": "Turnul cu ceas și Sf. Nicolae",
+            "en": "Clock Tower & Saint Nicholas"
+          },
+          "coords": [
+            22.0685,
+            40.6291
+          ],
+          "category": "combo",
+          "arrive_at": "13:28",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese beiden Sehenswürdigkeiten liegen nahe beieinander, ideal für einen kurzen Besuch.",
+            "hu": "Ez a két látnivaló közel van egymáshoz, ideális egy gyors látogatáshoz.",
+            "ro": "Aceste două atracții sunt apropiate, ideale pentru o vizită rapidă.",
+            "en": "These two sights are close together, ideal for a quick combined visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark von Naoussa",
+            "hu": "Naoussa városi parkja",
+            "ro": "Parcul Municipal din Naoussa",
+            "en": "Municipal Park of Naoussa"
+          },
+          "coords": [
+            22.075,
+            40.632
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und genießen Sie die atemberaubende Aussicht.",
+            "hu": "Tartson egy szünetet és élvezze a lélegzetelállító kilátást.",
+            "ro": "Luați o pauză și bucurați-vă de priveliștea uluitoare.",
+            "en": "Take a break and enjoy the breathtaking view."
+          }
+        },
+        {
+          "name": {
+            "de": "Wein- und Rebenmuseum",
+            "hu": "Bor- és Szőlőmúzeum",
+            "ro": "Muzeul Vinului și Viei",
+            "en": "Wine and Vine Museum"
+          },
+          "coords": [
+            22.072,
+            40.635
+          ],
+          "category": "museums",
+          "arrive_at": "15:44",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Weinliebhaber. Belohnen Sie sich nach der Radtour mit einer Verkostung.",
+            "hu": "A borkedvelőknek kötelező. Jutalmazza meg magát egy kóstolóval a biciklizés után.",
+            "ro": "O vizită obligatorie pentru iubitorii de vin. Răsplătiți-vă cu o degustare după turul cu bicicleta.",
+            "en": "A must for wine lovers. Reward yourself with a tasting after the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer Reise in die Antike an der Schule des Aristoteles. Folgen Sie dem Lauf des Flusses zu den kühlen Arapitsa-Wasserfällen für eine erfrischende Pause. Zur Mittagszeit radeln Sie ins Herz der Stadt, in das Viertel Alonia, wo Sie lokale Spezialitäten genießen können. Am Nachmittag erkunden Sie die zentralen Sehenswürdigkeiten wie den Uhrenturm und die Kathedrale, bevor Sie im Stadtpark die Aussicht genießen. Krönen Sie Ihren Tag mit einem Besuch im Wein- und Rebenmuseum, wo Sie den berühmten Xinomavro-Wein verkosten können.",
+        "hu": "Kezdje a kerékpártúrát egy utazással az ókorba az Arisztotelész Iskolájánál. Kövesse a folyó útját a hűsítő Arapitsa-vízesésekhez egy frissítő szünetért. Délben tekerjen be a város szívébe, az Alónia negyedbe, ahol helyi specialitásokat kóstolhat. Délután fedezze fel a központi látnivalókat, mint az Óratornyot és a székesegyházat, mielőtt a városi parkban gyönyörködne a kilátásban. Koronázza meg a napot a Bor- és Szőlőmúzeum meglátogatásával, ahol megkóstolhatja a híres Xinomavro bort.",
+        "ro": "Începeți turul cu bicicleta cu o călătorie în antichitate la Școala lui Aristotel. Urmați cursul râului până la cascadele răcoroase Arapitsa pentru o pauză revigorantă. La prânz, pedalați în inima orașului, în cartierul Alonia, pentru a savura specialități locale. După-amiaza, explorați atracțiile centrale, cum ar fi Turnul cu Ceas și catedrala, înainte de a vă bucura de priveliște în Parcul Municipal. Încoronați-vă ziua cu o vizită la Muzeul Vinului și Viei, unde puteți degusta renumitul vin Xinomavro.",
+        "en": "Start your bike tour with a journey into antiquity at the School of Aristotle. Follow the river's course to the cool Arapitsa Waterfalls for a refreshing break. At noon, cycle into the heart of the city, the Alonia quarter, to enjoy local specialties. In the afternoon, explore the central sights like the Clock Tower and the cathedral before enjoying the view in the Municipal Park. Crown your day with a visit to the Wine and Vine Museum, where you can taste the famous Xinomavro wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Taverne in Alonia",
+            "tip": "Probieren Sie gegrilltes Fleisch und saisonale Salate."
+          },
+          {
+            "name": "Kafenion im Park",
+            "tip": "Genießen Sie einen griechischen Kaffee oder einen Frappé mit Aussicht."
+          },
+          {
+            "name": "Restaurant Oinomageiremata",
+            "tip": "Bekannt für seine modernen Interpretationen der griechischen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi taverna Alóniában",
+            "tip": "Kóstoljon grillezett húsokat és szezonális salátákat."
+          },
+          {
+            "name": "Kávézó a parkban",
+            "tip": "Élvezzen egy görög kávét vagy frappét a kilátással."
+          },
+          {
+            "name": "Oinomageiremata étterem",
+            "tip": "A görög konyha modern értelmezéseiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavernă locală în Alonia",
+            "tip": "Încercați carne la grătar și salate de sezon."
+          },
+          {
+            "name": "Cafenea în parc",
+            "tip": "Savurați o cafea grecească sau un frappe cu priveliște."
+          },
+          {
+            "name": "Restaurant Oinomageiremata",
+            "tip": "Renumit pentru interpretările sale moderne ale bucătăriei grecești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Taverna in Alonia",
+            "tip": "Try grilled meats and seasonal salads."
+          },
+          {
+            "name": "Kafenion in the Park",
+            "tip": "Enjoy a Greek coffee or a frappe with a view."
+          },
+          {
+            "name": "Oinomageiremata Restaurant",
+            "tip": "Known for its modern interpretations of Greek cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schule des Aristoteles",
+            "tip": "Der von Platanen beschattete Bereich ist unglaublich friedlich.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt im Stadtpark",
+            "tip": "Ein Panoramablick über die Ebene, perfekt für ruhige Momente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussufer des Arapitsa",
+            "tip": "Das Rauschen des Wassers ist sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arisztotelész Iskolája",
+            "tip": "A platánfákkal árnyékolt terület hihetetlenül békés.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátó a városi parkban",
+            "tip": "Panorámás kilátás az alföldre, tökéletes a csendes pillanatokhoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arapitsa folyópart",
+            "tip": "A víz zúgása nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Școala lui Aristotel",
+            "tip": "Zona umbrită de platani este incredibil de pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere în Parcul Municipal",
+            "tip": "O vedere panoramică asupra câmpiei, perfectă pentru momente de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Arapitsa",
+            "tip": "Sunetul apei este foarte liniștitor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "School of Aristotle",
+            "tip": "The area shaded by plane trees is incredibly peaceful.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint in the Municipal Park",
+            "tip": "A panoramic view over the plain, perfect for quiet moments.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arapitsa riverbank",
+            "tip": "The sound of the water is very soothing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutari-Weingut",
+            "tip": "Eines der bekanntesten Weingüter der Region, ideal für Weinkäufe."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach frischem Obst (besonders Pfirsiche) und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutari Pincészet",
+            "tip": "A régió egyik leghíresebb pincészete, ideális borvásárláshoz."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen friss gyümölcsöt (különösen őszibarackot) és olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Boutari",
+            "tip": "Una dintre cele mai faimoase crame din regiune, ideală pentru achiziționarea de vin."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați fructe proaspete (în special piersici) și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutari Winery",
+            "tip": "One of the most famous wineries in the region, great for wine purchases."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for fresh fruit (especially peaches) and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Naoussa hat einige steile Straßen, ein Mountainbike oder ein E-Bike wird empfohlen.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt zur Schule des Aristoteles.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an touristischen Orten.",
+          "Überprüfen Sie die Öffnungszeiten des Weinmuseums im Voraus."
+        ],
+        "hu": [
+          "Naoussában vannak meredek utcák, ezért mountain bike vagy e-bike ajánlott.",
+          "Vigyen magával sok vizet, különösen az Arisztotelész Iskolájához vezető útra.",
+          "Mindig zárja le jól a kerékpárját, különösen a turisztikai helyeken.",
+          "Előre ellenőrizze a Bormúzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Naoussa are câteva străzi abrupte, se recomandă o bicicletă de munte sau o bicicletă electrică.",
+          "Luați multă apă cu voi, mai ales pentru drumul spre Școala lui Aristotel.",
+          "Asigurați-vă întotdeauna bicicleta bine, în special în locurile turistice.",
+          "Verificați în avans orele de funcționare ale Muzeului Vinului."
+        ],
+        "en": [
+          "Naoussa has some steep streets; a mountain bike or e-bike is recommended.",
+          "Bring plenty of water, especially for the ride to the School of Aristotle.",
+          "Always lock your bike securely, especially in tourist spots.",
+          "Check the opening hours of the Wine Museum in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Schule des Aristoteles",
+            "hu": "Klaszter Kezdete: Arisztotelész Iskolája",
+            "ro": "Start Cluster: Școala lui Aristotel",
+            "en": "Cluster Start: School of Aristotle"
+          },
+          "coords": [
+            22.085,
+            40.621
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier. Ein Ort der Ruhe und Geschichte.",
+            "hu": "Parkoljon itt. A nyugalom és a történelem helye.",
+            "ro": "Parcați aici. Un loc de liniște și istorie.",
+            "en": "Park here. A place of peace and history."
+          }
+        },
+        {
+          "name": {
+            "de": "Arapitsa-Wasserfälle",
+            "hu": "Arapitsa-vízesések",
+            "ro": "Cascadele Arapitsa",
+            "en": "Arapitsa Waterfalls"
+          },
+          "coords": [
+            22.081,
+            40.623
+          ],
+          "category": "natural features",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz der Schule aus.",
+            "hu": "Rövid séta az iskola parkolójából.",
+            "ro": "O scurtă plimbare de la parcarea școlii.",
+            "en": "A short walk from the school's parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wechsel: Parken am Stadtpark",
+            "hu": "Klaszter Váltás: Parkolás a Városi Parknál",
+            "ro": "Schimbare Cluster: Parcare la Parcul Municipal",
+            "en": "Cluster Change: Park at Municipal Park"
+          },
+          "coords": [
+            22.075,
+            40.632
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:41",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie das Stadtzentrum zu Fuß. Genießen Sie die Aussicht und eine Mittagspause.",
+            "hu": "Parkolja le az autót és fedezze fel a városközpontot gyalog. Élvezze a kilátást és egy ebédszünetet.",
+            "ro": "Parcați mașina și explorați centrul orașului pe jos. Bucurați-vă de priveliște și de o pauză de prânz.",
+            "en": "Park your car and explore the city center on foot. Enjoy the view and a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Opferung",
+            "hu": "Az áldozat emlékműve",
+            "ro": "Monumentul Sacrificiului",
+            "en": "Monument of the Sacrifice"
+          },
+          "coords": [
+            22.069,
+            40.6315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:17",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Spaziergang vom Park aus.",
+            "hu": "Rövid, elgondolkodtató séta a parkból.",
+            "ro": "O scurtă plimbare contemplativă din parc.",
+            "en": "A short, contemplative walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "Saint Nicholas Cathedral"
+          },
+          "coords": [
+            22.0705,
+            40.629
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:42",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur wenige Schritte entfernt.",
+            "hu": "A város szíve, csak néhány lépésre.",
+            "ro": "Inima orașului, la doar câțiva pași.",
+            "en": "The heart of the city, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm & Alonia Viertel",
+            "hu": "Óratorony és Alónia negyed",
+            "ro": "Turnul cu ceas & Cartierul Alonia",
+            "en": "Clock Tower & Alonia Quarter"
+          },
+          "coords": [
+            22.068,
+            40.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:21",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen zurück zum Parkplatz.",
+            "hu": "Sétáljon vissza a parkolóhoz a sikátorokon keresztül.",
+            "ro": "Plimbați-vă pe străduțe înapoi spre parcare.",
+            "en": "Stroll through the alleys back towards the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wechsel: Wein- und Rebenmuseum",
+            "hu": "Klaszter Váltás: Bor- és Szőlőmúzeum",
+            "ro": "Schimbare Cluster: Muzeul Vinului și Viei",
+            "en": "Cluster Change: Wine and Vine Museum"
+          },
+          "coords": [
+            22.072,
+            40.635
+          ],
+          "category": "museums",
+          "arrive_at": "15:28",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss mit einer Weinprobe.",
+            "hu": "Tökéletes befejezés egy borkóstolóval.",
+            "ro": "Finalul perfect cu o degustare de vin.",
+            "en": "The perfect ending with a wine tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im philosophischen Herzen der Region, an der Schule des Aristoteles. Nach einem Spaziergang zu den nahen Wasserfällen fahren Sie ins Zentrum von Naoussa. Parken Sie in der Nähe des Stadtparks, genießen Sie die Aussicht und erkunden Sie zu Fuß die historischen und religiösen Stätten im Herzen der Stadt, wie die Kathedrale und das Alonia-Viertel. Den Nachmittag widmen Sie der flüssigen Seele von Naoussa: Fahren Sie zum Wein- und Rebenmuseum für eine umfassende Tour und eine wohlverdiente Verkostung des berühmten Xinomavro.",
+        "hu": "Kezdje a napot a régió filozófiai szívében, az Arisztotelész Iskolájánál. A közeli vízesésekhez tett séta után autózzon be Naoussa központjába. Parkoljon a városi park közelében, élvezze a kilátást, és fedezze fel gyalog a város szívében található történelmi és vallási helyszíneket, mint a székesegyházat és az Alónia negyedet. A délutánt szentelje Naoussa folyékony lelkének: autózzon el a Bor- és Szőlőmúzeumba egy átfogó túráért és egy jól megérdemelt kóstolóért a híres Xinomavróból.",
+        "ro": "Începeți ziua în inima filozofică a regiunii, la Școala lui Aristotel. După o plimbare la cascadele din apropiere, conduceți spre centrul orașului Naoussa. Parcați lângă Parcul Municipal, bucurați-vă de priveliște și explorați pe jos siturile istorice și religioase din inima orașului, cum ar fi catedrala și cartierul Alonia. Dedicați după-amiaza sufletului lichid al Naoussei: conduceți la Muzeul Vinului și Viei pentru un tur complet și o degustare binemeritată a renumitului Xinomavro.",
+        "en": "Start your day in the philosophical heart of the region, at the School of Aristotle. After a walk to the nearby waterfalls, drive into the center of Naoussa. Park near the Municipal Park, enjoy the view, and explore the historic and religious sites in the heart of the city on foot, such as the cathedral and the Alonia quarter. Dedicate the afternoon to Naoussa's liquid soul: drive to the Wine and Vine Museum for a comprehensive tour and a well-deserved tasting of the famous Xinomavro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverne 'To Steki'",
+            "tip": "Ein beliebter Ort bei Einheimischen für traditionelle Gerichte."
+          },
+          {
+            "name": "Verkostung bei Dalamara Winery",
+            "tip": "Ein hoch bewertetes Weingut für eine authentische Xinomavro-Erfahrung."
+          },
+          {
+            "name": "Pita mit Gyros",
+            "tip": "Ein schneller und leckerer Happen für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'To Steki' Taverna",
+            "tip": "A helyiek körében népszerű hely a hagyományos ételekért."
+          },
+          {
+            "name": "Kóstoló a Dalamara Pincészetben",
+            "tip": "Magasra értékelt pincészet egy autentikus Xinomavro-élményért."
+          },
+          {
+            "name": "Gyros pitában",
+            "tip": "Gyors és finom falat útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Steki'",
+            "tip": "Un loc popular printre localnici pentru mâncăruri tradiționale."
+          },
+          {
+            "name": "Degustare la Crama Dalamara",
+            "tip": "O cramă foarte apreciată pentru o experiență autentică Xinomavro."
+          },
+          {
+            "name": "Pita cu Gyros",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "'To Steki' Taverna",
+            "tip": "A popular spot with locals for traditional dishes."
+          },
+          {
+            "name": "Tasting at Dalamara Winery",
+            "tip": "A highly-rated winery for an authentic Xinomavro experience."
+          },
+          {
+            "name": "Pita with Gyros",
+            "tip": "A quick and delicious bite on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heiligtum von Nymphaion (Schule des Aristoteles)",
+            "tip": "Ein Ort von unglaublicher Ruhe und historischer Tiefe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussichtsplattform im Stadtpark",
+            "tip": "Bietet einen weiten Blick über die mazedonische Ebene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang entlang des Arapitsa",
+            "tip": "Das Geräusch des Wassers und die üppige Vegetation sind sehr beruhigend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nymphaion-szentély (Arisztotelész Iskolája)",
+            "tip": "Hihetetlen nyugalommal és történelmi mélységgel rendelkező hely.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátó a városi parkban",
+            "tip": "Széles kilátást nyújt a macedón síkságra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta az Arapitsa mentén",
+            "tip": "A víz hangja és a buja növényzet nagyon megnyugtató.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanctuarul Nymphaion (Școala lui Aristotel)",
+            "tip": "Un loc de o liniște incredibilă și profunzime istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Platforma de observare din Parcul Municipal",
+            "tip": "Oferă o vedere panoramică asupra câmpiei macedonene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Arapitsa",
+            "tip": "Sunetul apei și vegetația luxuriantă sunt foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanctuary of the Nymphaion (School of Aristotle)",
+            "tip": "A place of incredible tranquility and historical depth.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Observation deck in the Municipal Park",
+            "tip": "Offers a vast view over the Macedonian plain.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk along the Arapitsa river",
+            "tip": "The sound of the water and the lush vegetation are very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingüter der Region",
+            "tip": "Kaufen Sie Wein direkt ab Hof. Viele bieten Verkostungen an."
+          },
+          {
+            "name": "Marmeladen und Konserven",
+            "tip": "Die Region ist berühmt für ihre Pfirsiche, suchen Sie nach hausgemachten Marmeladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A régió pincészetei",
+            "tip": "Vásároljon bort közvetlenül a termelőtől. Sokan kínálnak kóstolót."
+          },
+          {
+            "name": "Lekvárok és befőttek",
+            "tip": "A régió híres az őszibarackjáról, keressen házi lekvárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din regiune",
+            "tip": "Cumpărați vin direct de la sursă. Multe oferă degustări."
+          },
+          {
+            "name": "Gemuri și conserve",
+            "tip": "Regiunea este renumită pentru piersicile sale, căutați gemuri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries of the region",
+            "tip": "Buy wine directly from the source. Many offer tastings."
+          },
+          {
+            "name": "Jams and preserves",
+            "tip": "The region is famous for its peaches; look for homemade jams."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum schwierig sein, nutzen Sie die ausgewiesenen Parkplätze am Rande.",
+          "Planen Sie genügend Zeit für die Weingüter ein, da diese oft außerhalb des Stadtzentrums liegen.",
+          "Die Straßen können eng und kurvenreich sein, fahren Sie vorsichtig.",
+          "Ein GPS ist nützlich, um die verschiedenen archäologischen Stätten und Weingüter zu finden."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a városközpontban, használja a kijelölt parkolókat a szélén.",
+          "Tervezzen elegendő időt a pincészetekre, mivel azok gyakran a városközponton kívül találhatók.",
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "GPS hasznos lehet a különböző régészeti lelőhelyek és pincészetek megtalálásához."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul orașului, folosiți parcările desemnate de la periferie.",
+          "Alocați suficient timp pentru crame, deoarece acestea sunt adesea situate în afara centrului orașului.",
+          "Drumurile pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Un GPS este util pentru a găsi diferitele situri arheologice și crame."
+        ],
+        "en": [
+          "Parking can be difficult in the city center; use the designated parking lots on the outskirts.",
+          "Allow enough time for the wineries, as they are often located outside the city center.",
+          "The roads can be narrow and winding, so drive carefully.",
+          "A GPS is useful for finding the various archaeological sites and wineries."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Schule des Aristoteles",
+            "hu": "Klaszter Kezdete: Arisztotelész Iskolája",
+            "ro": "Start Cluster: Școala lui Aristotel",
+            "en": "Cluster Start: School of Aristotle"
+          },
+          "coords": [
+            22.085,
+            40.621
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Park Isvor. Ein Ort der Philosophie.",
+            "hu": "Menjen busszal az Isvor parkhoz. A filozófia helye.",
+            "ro": "Luați un autobuz până la Parcul Isvor. Un loc al filozofiei.",
+            "en": "Take a bus to Isvor Park. A place of philosophy."
+          }
+        },
+        {
+          "name": {
+            "de": "Arapitsa-Wasserfälle",
+            "hu": "Arapitsa-vízesések",
+            "ro": "Cascadele Arapitsa",
+            "en": "Arapitsa Waterfalls"
+          },
+          "coords": [
+            22.081,
+            40.623
+          ],
+          "category": "natural features",
+          "arrive_at": "10:48",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom philosophischen Hain.",
+            "hu": "Rövid séta a filozófusok ligetéből.",
+            "ro": "O scurtă plimbare din crângul filozofic.",
+            "en": "A short walk from the philosophical grove."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wechsel: Alonia Platz",
+            "hu": "Klaszter Váltás: Alónia tér",
+            "ro": "Schimbare Cluster: Piața Alonia",
+            "en": "Cluster Change: Alonia Square"
+          },
+          "coords": [
+            22.068,
+            40.6285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:58",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum. Hier ist der perfekte Ort für eine Mittagspause.",
+            "hu": "Menjen busszal a központba. Ez a tökéletes hely egy ebédszünetre.",
+            "ro": "Luați autobuzul spre centru. Acesta este locul perfect pentru o pauză de prânz.",
+            "en": "Take the bus to the center. This is the perfect spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm & Agios Nikolaos",
+            "hu": "Óratorony és Szent Miklós",
+            "ro": "Turnul cu ceas și Sf. Nicolae",
+            "en": "Clock Tower & Saint Nicholas"
+          },
+          "coords": [
+            22.069,
+            40.629
+          ],
+          "category": "combo",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wichtigsten Wahrzeichen im Herzen der Stadt.",
+            "hu": "Fedezze fel a város szívében található főbb nevezetességeket.",
+            "ro": "Explorați principalele repere din inima orașului.",
+            "en": "Explore the main landmarks in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark & Opferdenkmal",
+            "hu": "Városi park és Áldozat emlékműve",
+            "ro": "Parcul Municipal & Monumentul Sacrificiului",
+            "en": "Municipal Park & Monument of Sacrifice"
+          },
+          "coords": [
+            22.072,
+            40.6318
+          ],
+          "category": "combo",
+          "arrive_at": "14:38",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und gedenken Sie der Geschichte der Stadt.",
+            "hu": "Élvezze a kilátást és emlékezzen meg a város történelméről.",
+            "ro": "Bucurați-vă de priveliște și comemorați istoria orașului.",
+            "en": "Enjoy the views and commemorate the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Wechsel: Wein- und Rebenmuseum",
+            "hu": "Klaszter Váltás: Bor- és Szőlőmúzeum",
+            "ro": "Schimbare Cluster: Muzeul Vinului și Viei",
+            "en": "Cluster Change: Wine and Vine Museum"
+          },
+          "coords": [
+            22.072,
+            40.635
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Trip zum Abschluss Ihrer Tour mit dem Geschmack von Naoussa.",
+            "hu": "Rövid buszos utazás, hogy a túrát Naoussa ízével zárja.",
+            "ro": "O scurtă călătorie cu autobuzul pentru a încheia turul cu gustul Naoussei.",
+            "en": "A short bus trip to end your tour with the taste of Naoussa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem Bus zu den historischen Stätten außerhalb der Stadt, der Schule des Aristoteles. Nach einem Spaziergang zu den Wasserfällen bringt Sie der Bus ins pulsierende Zentrum. Verbringen Sie die Mittagszeit und den frühen Nachmittag damit, das historische Herz von Naoussa zu Fuß zu erkunden, vom Alonia-Viertel bis zum Stadtpark. Der letzte Bus bringt Sie zum Weinmuseum, dem perfekten Ort, um den Tag ausklingen zu lassen und die Weinkultur der Region kennenzulernen.",
+        "hu": "Kezdje a napot egy buszozással a városon kívüli történelmi helyszínekhez, az Arisztotelész Iskolájához. A vízesésekhez tett séta után a busz beviszi Önt a lüktető központba. Töltse az ebédet és a kora délutánt Naoussa történelmi szívének gyalogos felfedezésével, az Alónia negyedtől a városi parkig. Az utolsó busz a Bormúzeumhoz viszi, amely tökéletes hely a nap lezárásához és a régió borkultúrájának megismeréséhez.",
+        "ro": "Începeți cu autobuzul spre siturile istorice din afara orașului, la Școala lui Aristotel. După o plimbare la cascade, autobuzul vă duce în centrul vibrant. Petreceți prânzul și începutul după-amiezii explorând pe jos inima istorică a Naoussei, de la cartierul Alonia la Parcul Municipal. Ultimul autobuz vă duce la Muzeul Vinului, locul perfect pentru a încheia ziua și a învăța despre cultura vinului din regiune.",
+        "en": "Start with a bus ride to the historic sites outside the city, the School of Aristotle. After a walk to the waterfalls, the bus takes you to the vibrant center. Spend lunchtime and the early afternoon exploring the historical heart of Naoussa on foot, from the Alonia quarter to the Municipal Park. The final bus takes you to the Wine Museum, the perfect place to end the day and learn about the region's wine culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in Alonia",
+            "tip": "Probieren Sie eine lokale 'Pita' (Pastete) für einen schnellen Imbiss."
+          },
+          {
+            "name": "Restaurant '1905'",
+            "tip": "Bietet eine Mischung aus traditionellen und modernen Gerichten in der Nähe des Parks."
+          },
+          {
+            "name": "Weinprobe im Museum",
+            "tip": "Verpassen Sie nicht die Gelegenheit, den lokalen Wein zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség Alóniában",
+            "tip": "Kóstoljon meg egy helyi 'pitát' egy gyors harapnivalóért."
+          },
+          {
+            "name": "'1905' Étterem",
+            "tip": "Hagyományos és modern ételek keverékét kínálja a park közelében."
+          },
+          {
+            "name": "Borkóstoló a múzeumban",
+            "tip": "Ne hagyja ki a lehetőséget, hogy megkóstolja a helyi bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în Alonia",
+            "tip": "Încercați o 'pita' (plăcintă) locală pentru o gustare rapidă."
+          },
+          {
+            "name": "Restaurant '1905'",
+            "tip": "Oferă un amestec de mâncăruri tradiționale și moderne lângă parc."
+          },
+          {
+            "name": "Degustare de vin la muzeu",
+            "tip": "Nu ratați ocazia de a gusta vinul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in Alonia",
+            "tip": "Try a local 'pita' (pie) for a quick snack."
+          },
+          {
+            "name": "'1905' Restaurant",
+            "tip": "Offers a mix of traditional and modern dishes near the park."
+          },
+          {
+            "name": "Wine tasting at the museum",
+            "tip": "Don't miss the opportunity to taste the local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platanenhain bei der Schule des Aristoteles",
+            "tip": "Ein schattiger, ruhiger Ort zum Nachdenken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank im Stadtpark mit Blick auf die Ebene",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitenstraßen des Alonia-Viertels",
+            "tip": "Verlieren Sie sich in den ruhigen, engen Gassen.",
+            "emoji": "🏘️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Platánliget az Arisztotelész Iskolájánál",
+            "tip": "Árnyékos, csendes hely az elmélkedéshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a városi parkban, kilátással az alföldre",
+            "tip": "Tökéletes hely a városi nyüzsgés elől való menekülésre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az Alónia negyed mellékutcái",
+            "tip": "Vesszen el a csendes, szűk sikátorokban.",
+            "emoji": "🏘️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crângul de platani de la Școala lui Aristotel",
+            "tip": "Un loc umbros și liniștit pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Parcul Municipal cu vedere la câmpie",
+            "tip": "Locul perfect pentru a evada din agitația orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele laterale din cartierul Alonia",
+            "tip": "Pierdeți-vă pe aleile înguste și liniștite.",
+            "emoji": "🏘️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plane tree grove at the School of Aristotle",
+            "tip": "A shady, quiet place for reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in the Municipal Park overlooking the plain",
+            "tip": "The perfect place to escape the city bustle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side streets of the Alonia quarter",
+            "tip": "Get lost in the quiet, narrow alleys.",
+            "emoji": "🏘️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen des Weinmuseums",
+            "tip": "Eine gute Auswahl an lokalen Weinen und Souvenirs."
+          },
+          {
+            "name": "Handwerksläden in der Altstadt",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Bormúzeum ajándékboltja",
+            "tip": "Jó választék helyi borokból és ajándéktárgyakból."
+          },
+          {
+            "name": "Kézműves boltok az óvárosban",
+            "tip": "Keressen kézzel készített kerámiákat és textileket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Muzeului Vinului",
+            "tip": "O selecție bună de vinuri locale și suveniruri."
+          },
+          {
+            "name": "Magazine de artizanat din orașul vechi",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Museum gift shop",
+            "tip": "A good selection of local wines and souvenirs."
+          },
+          {
+            "name": "Artisan shops in the old town",
+            "tip": "Look for handmade ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht sehr häufig fahren.",
+          "Kaufen Sie Ihr Ticket im Voraus an einem Kiosk (Periptero), wenn möglich.",
+          "Halten Sie Kleingeld für das Busticket bereit.",
+          "Seien Sie sich bewusst, dass die Busse in ländlichen Gebieten möglicherweise nicht immer pünktlich sind."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok nem feltétlenül közlekednek túl gyakran.",
+          "Ha lehetséges, vegye meg a jegyét előre egy kioszkban (Periptero).",
+          "Tartson magánál aprópénzt a buszjegyhez.",
+          "Vegye figyelembe, hogy a buszok a vidéki területeken nem mindig pontosak."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece este posibil ca acestea să nu circule foarte frecvent.",
+          "Cumpărați-vă biletul în avans de la un chioșc (Periptero), dacă este posibil.",
+          "Pregătiți mărunțiș pentru biletul de autobuz.",
+          "Fiți conștienți de faptul că autobuzele din zonele rurale s-ar putea să nu fie întotdeauna la timp."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services may not be very frequent.",
+          "Buy your ticket beforehand from a kiosk (Periptero) if possible.",
+          "Have small change ready for the bus ticket.",
+          "Be aware that buses in rural areas may not always be on time."
+        ]
+      }
+    }
+  }
+}

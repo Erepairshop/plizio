@@ -1,0 +1,1364 @@
+{
+  "city_id": "netherlands-apeldoorn-cities-v2",
+  "anchor": {
+    "name": "Apeldoorn",
+    "coords": [
+      5.9699,
+      52.2112
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Apeldoorn",
+            "hu": "Apeldoorni városháza",
+            "ro": "Primăria Apeldoorn",
+            "en": "Apeldoorn City Hall"
+          },
+          "coords": [
+            5.963,
+            52.216
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Gebäudes.",
+            "hu": "Csodálja meg az épület modern építészetét.",
+            "ro": "Admirați arhitectura modernă a clădirii.",
+            "en": "Admire the modern architecture of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagy Templom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            5.961,
+            52.218
+          ],
+          "category": "churches",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die königliche Loge und die beeindruckende Orgel.",
+            "hu": "Keresse a királyi páholyt és a lenyűgöző orgonát.",
+            "ro": "Căutați loja regală și orga impresionantă.",
+            "en": "Look for the royal box and the impressive organ."
+          }
+        },
+        {
+          "name": {
+            "de": "CODA Museum",
+            "hu": "CODA Múzeum",
+            "ro": "Muzeul CODA",
+            "en": "CODA Museum"
+          },
+          "coords": [
+            5.964,
+            52.219
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit der angeschlossenen Bibliothek.",
+            "hu": "Kombinálja a látogatást a hozzá kapcsolódó könyvtárral.",
+            "ro": "Combinați vizita cu biblioteca adiacentă.",
+            "en": "Combine the visit with the adjoining library."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranjepark",
+            "hu": "Oranjepark (Narancs Park)",
+            "ro": "Parcul Oranjepark",
+            "en": "Oranjepark"
+          },
+          "coords": [
+            5.955,
+            52.219
+          ],
+          "category": "parks",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick oder eine entspannte Pause.",
+            "hu": "Tökéletes egy déli piknikhez vagy egy pihentető szünethez.",
+            "ro": "Perfect pentru un picnic la prânz sau o pauză relaxantă.",
+            "en": "Perfect for a lunch picnic or a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Orpheus",
+            "hu": "Orpheus Színház",
+            "ro": "Teatrul Orpheus",
+            "en": "Theater Orpheus"
+          },
+          "coords": [
+            5.952,
+            52.213
+          ],
+          "category": "theatres",
+          "arrive_at": "14:50",
+          "stay_min": 115,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Abendprogramm für eine Vorstellung.",
+            "hu": "Nézze meg az esti programot egy előadásért.",
+            "ro": "Verificați programul de seară pentru un spectacol.",
+            "en": "Check the evening program for a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Apeldoorn am Rathaus und der historischen Grote Kerk. Spüren Sie die königliche Atmosphäre der Stadt, die eng mit dem niederländischen Königshaus verbunden ist. Am Vormittag tauchen Sie im CODA Museum in die lokale Kultur und Kunst ein, das moderne Ausstellungen in einem beeindruckenden Gebäude bietet. Gönnen Sie sich danach eine Mittagspause, vielleicht mit ein paar holländischen Snacks, bevor es weitergeht. Der Nachmittag steht im Zeichen der Entspannung im grünen Oranjepark. Schlendern Sie durch die wunderschön angelegten Gärten und genießen Sie die Ruhe. Beenden Sie Ihren Spaziergang mit einem Blick auf das markante Theater Orpheus, ein Zentrum der darstellenden Künste.",
+        "hu": "Kezdje a napját Apeldoorn szívében a Városházánál és a történelmi Grote Kerknél. Érezze a város királyi atmoszféráját, amely szorosan kötődik a holland királyi családhoz. Délelőtt merüljön el a helyi kultúrában és művészetben a CODA Múzeumban, amely modern kiállításokat kínál egy lenyűgöző épületben. Ezután tartson ebédszünetet, talán néhány holland harapnivalóval, mielőtt továbbindul. A délután a zöld Oranjeparkban való kikapcsolódásról szól. Sétáljon végig a gyönyörűen parkosított kerteken és élvezze a nyugalmat. Fejezze be a sétát a jellegzetes Orpheus Színház megtekintésével, amely az előadóművészet központja.",
+        "ro": "Începeți-vă ziua în inima orașului Apeldoorn, la Primărie și la istorica Grote Kerk. Simțiți atmosfera regală a orașului, strâns legată de casa regală olandeză. Dimineața, cufundați-vă în cultura și arta locală la Muzeul CODA, care oferă expoziții moderne într-o clădire impresionantă. Apoi, luați o pauză de prânz, poate cu câteva gustări olandeze, înainte de a continua. După-amiaza este dedicată relaxării în verdele parc Oranjepark. Plimbați-vă prin grădinile frumos amenajate și bucurați-vă de liniște. Încheiați plimbarea cu o privire la impresionantul Teatru Orpheus, un centru al artelor spectacolului.",
+        "en": "Start your day in the heart of Apeldoorn at the City Hall and the historic Grote Kerk. Feel the royal atmosphere of the city, which is closely linked to the Dutch royal house. In the morning, immerse yourself in local culture and art at the CODA Museum, which offers modern exhibitions in an impressive building. Afterwards, take a lunch break, perhaps with some Dutch snacks, before moving on. The afternoon is all about relaxation in the green Oranjepark. Stroll through the beautifully landscaped gardens and enjoy the tranquility. End your walk with a look at the distinctive Theater Orpheus, a center for the performing arts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen in einem der Cafés im Zentrum."
+          },
+          {
+            "name": "Haring",
+            "tip": "Ein Muss für Mutige: Roher Hering, oft mit Zwiebeln serviert."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Kaufen Sie eine frische, warme Stroopwafel auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a mini palacsintákat a központ egyik kávézójában."
+          },
+          {
+            "name": "Haring",
+            "tip": "Kötelező a bátraknak: nyers hering, gyakran hagymával tálalva."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Vásároljon egy friss, meleg stroopwafelt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite la una dintre cafenelele din centru."
+          },
+          {
+            "name": "Haring",
+            "tip": "O necesitate pentru cei curajoși: hering crud, adesea servit cu ceapă."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Cumpărați un stroopwafel proaspăt și cald de la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes at one of the cafes in the center."
+          },
+          {
+            "name": "Haring",
+            "tip": "A must for the brave: raw herring, often served with onions."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Buy a fresh, warm stroopwafel at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oranjepark",
+            "tip": "Finden Sie eine ruhige Bank am Teich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grote Kerk",
+            "tip": "Verbringen Sie einen Moment in stiller Besinnung im Inneren.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Griftparks",
+            "tip": "Ein weniger bekannter, aber friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oranjepark",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grote Kerk",
+            "tip": "Töltsön el egy pillanatot csendes elmélkedéssel a belsejében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Griftpark mentén",
+            "tip": "Egy kevésbé ismert, de békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oranjepark",
+            "tip": "Găsiți o bancă liniștită lângă iaz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grote Kerk",
+            "tip": "Petreceți un moment de contemplație tăcută în interior.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Griftpark",
+            "tip": "Un loc mai puțin cunoscut, dar pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oranjepark",
+            "tip": "Find a quiet bench by the pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grote Kerk",
+            "tip": "Spend a moment in quiet contemplation inside.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Griftpark",
+            "tip": "A lesser-known but peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Warenmarkt Apeldoorn",
+            "tip": "Jeden Samstag ein großer Markt im Zentrum."
+          },
+          {
+            "name": "De Eglantier",
+            "tip": "Ein modernes Einkaufszentrum für alles, was Sie brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warenmarkt Apeldoorn",
+            "tip": "Minden szombaton nagy piac a központban."
+          },
+          {
+            "name": "De Eglantier",
+            "tip": "Modern bevásárlóközpont mindenre, amire szüksége lehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Warenmarkt Apeldoorn",
+            "tip": "O piață mare în centru în fiecare sâmbătă."
+          },
+          {
+            "name": "De Eglantier",
+            "tip": "Un centru comercial modern pentru tot ce aveți nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Warenmarkt Apeldoorn",
+            "tip": "A large market in the center every Saturday."
+          },
+          {
+            "name": "De Eglantier",
+            "tip": "A modern shopping center for everything you need."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Ein Regenschirm ist in den Niederlanden immer eine gute Idee.",
+          "Genießen Sie die entspannte Atmosphäre der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Egy esernyő mindig jó ötlet Hollandiában.",
+          "Élvezze a város nyugodt légkörét."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "O umbrelă este întotdeauna o idee bună în Olanda.",
+          "Bucurați-vă de atmosfera relaxată a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Check the opening hours of the museums in advance.",
+          "An umbrella is always a good idea in the Netherlands.",
+          "Enjoy the relaxed atmosphere of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "CODA Museum",
+            "hu": "CODA Múzeum",
+            "ro": "Muzeul CODA",
+            "en": "CODA Museum"
+          },
+          "coords": [
+            5.964,
+            52.219
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag mit einer Dosis Kultur.",
+            "hu": "Kezdje a napot egy adag kultúrával.",
+            "ro": "Începeți-vă ziua cu o doză de cultură.",
+            "en": "Start your day with a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleis Het Loo",
+            "hu": "Het Loo palota",
+            "ro": "Palatul Het Loo",
+            "en": "Paleis Het Loo"
+          },
+          "coords": [
+            5.945,
+            52.234
+          ],
+          "category": "castles",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie viel Zeit für die Gärten und das Schloss ein.",
+            "hu": "Szánjon bőven időt a kertekre és a palotára.",
+            "ro": "Planificați-vă mult timp pentru grădini și palat.",
+            "en": "Plan plenty of time for the gardens and the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Apenheul",
+            "hu": "Apenheul Majompark",
+            "ro": "Apenheul",
+            "en": "Apenheul Primate Park"
+          },
+          "coords": [
+            5.928,
+            52.229
+          ],
+          "category": "parks",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Passen Sie auf Ihre Sachen auf, die Affen sind neugierig!",
+            "hu": "Vigyázzon a holmijára, a majmok kíváncsiak!",
+            "ro": "Aveți grijă de lucrurile voastre, maimuțele sunt curioase!",
+            "en": "Watch your belongings, the monkeys are curious!"
+          }
+        },
+        {
+          "name": {
+            "de": "Berg en Bos Park",
+            "hu": "Berg en Bos Park",
+            "ro": "Parcul Berg en Bos",
+            "en": "Berg en Bos Park"
+          },
+          "coords": [
+            5.92,
+            52.225
+          ],
+          "category": "parks",
+          "arrive_at": "16:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Suchen Sie den Aussichtsturm für einen tollen Blick.",
+            "hu": "Keresse meg a kilátótornyot a nagyszerű kilátásért.",
+            "ro": "Căutați turnul de observație pentru o priveliște minunată.",
+            "en": "Look for the observation tower for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Întoarcere în centru",
+            "en": "Return to City Center"
+          },
+          "coords": [
+            5.9699,
+            52.2112
+          ],
+          "category": "gastro",
+          "arrive_at": "17:54",
+          "stay_min": 61,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem herzhaften Abendessen.",
+            "hu": "Jutalmazza meg magát egy kiadós vacsorával.",
+            "ro": "Recompensați-vă cu o cină copioasă.",
+            "en": "Reward yourself with a hearty dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag im CODA Museum, um sich kulturell einzustimmen. Danach führt Sie eine malerische Radtour nach Norden zum prächtigen Paleis Het Loo. Erkunden Sie das ehemalige königliche Schloss und seine atemberaubenden Barockgärten – ein absolutes Highlight. Nach der königlichen Pracht ist es Zeit für ein tierisches Abenteuer im Apenheul, wo Affen frei herumlaufen. Die Mittagszeit ist perfekt für eine Pause in dieser grünen Umgebung. Am Nachmittag radeln Sie durch den weitläufigen Park Berg en Bos, genießen die Natur und besteigen vielleicht den Aussichtsturm. Die Tour endet zurück im Stadtzentrum, wo Sie sich ein wohlverdientes Abendessen gönnen können.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot a CODA Múzeumban, hogy kulturálisan ráhangolódjon. Ezután egy festői kerékpártúra vezet északra a csodálatos Het Loo palotához. Fedezze fel az egykori királyi palotát és lenyűgöző barokk kertjeit - egy abszolút fénypont. A királyi pompa után itt az ideje egy állati kalandnak az Apenheul majomparkban, ahol a majmok szabadon kószálnak. Az ebédidő tökéletes egy szünetre ebben a zöld környezetben. Délután tekerjen át a tágas Berg en Bos parkon, élvezze a természetet, és talán mássza meg a kilátótornyot is. A túra a városközpontban ér véget, ahol megérdemelt vacsorával kényeztetheti magát.",
+        "ro": "Urcați-vă pe bicicletă și începeți-vă ziua la Muzeul CODA pentru o doză de cultură. Apoi, o plimbare pitorească cu bicicleta vă duce spre nord, la magnificul Palat Het Loo. Explorați fostul palat regal și grădinile sale baroce uimitoare - un punct culminant absolut. După splendoarea regală, este timpul pentru o aventură cu animale la Apenheul, unde maimuțele se plimbă liber. Ora prânzului este perfectă pentru o pauză în acest mediu verde. După-amiaza, pedalați prin vastul parc Berg en Bos, bucurați-vă de natură și poate urcați în turnul de observație. Turul se încheie înapoi în centrul orașului, unde vă puteți bucura de o cină binemeritată.",
+        "en": "Hop on your bike and start your day at the CODA Museum to get in the cultural mood. Afterwards, a scenic bike ride takes you north to the magnificent Paleis Het Loo. Explore the former royal palace and its stunning baroque gardens - an absolute highlight. After the royal splendor, it's time for an animal adventure at Apenheul, where monkeys roam freely. Lunchtime is perfect for a break in this green environment. In the afternoon, cycle through the spacious Berg en Bos park, enjoy nature and perhaps climb the observation tower. The tour ends back in the city center, where you can treat yourself to a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Ein klassisches niederländisches Gericht, perfekt nach einer Radtour."
+          },
+          {
+            "name": "Restaurant 't Nieuwe Diep",
+            "tip": "Gelegen im Park Berg en Bos, ideal für eine Pause."
+          },
+          {
+            "name": "Apeldoornse Sluis",
+            "tip": "Essen mit Blick auf die historische Schleuse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Klasszikus holland étel, tökéletes egy kerékpártúra után."
+          },
+          {
+            "name": "Restaurant 't Nieuwe Diep",
+            "tip": "A Berg en Bos parkban található, ideális egy szünethez."
+          },
+          {
+            "name": "Apeldoornse Sluis",
+            "tip": "Étkezés kilátással a történelmi zsilipre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "Un fel de mâncare olandez clasic, perfect după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Restaurant 't Nieuwe Diep",
+            "tip": "Situat în parcul Berg en Bos, ideal pentru o pauză."
+          },
+          {
+            "name": "Apeldoornse Sluis",
+            "tip": "Luați masa cu vedere la ecluza istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoeken",
+            "tip": "A classic Dutch dish, perfect after a bike ride."
+          },
+          {
+            "name": "Restaurant 't Nieuwe Diep",
+            "tip": "Located in the Berg en Bos park, ideal for a break."
+          },
+          {
+            "name": "Apeldoornse Sluis",
+            "tip": "Dine with a view of the historic lock."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Paleis Het Loo",
+            "tip": "Finden Sie eine versteckte Ecke in den riesigen Gärten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wildschweinbeobachtung im Berg en Bos",
+            "tip": "Mit etwas Glück sehen Sie Wildtiere.",
+            "emoji": "🐗"
+          },
+          {
+            "name": "Ufer des Apeldoorns Kanaal",
+            "tip": "Eine ruhige Radstrecke entlang des Wassers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Het Loo palota kertjei",
+            "tip": "Keressen egy rejtett zugot a hatalmas kertekben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vaddisznóles a Berg en Bos parkban",
+            "tip": "Kis szerencsével vadon élő állatokat láthat.",
+            "emoji": "🐗"
+          },
+          {
+            "name": "Az Apeldoorns Kanaal partja",
+            "tip": "Csendes kerékpárút a víz mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului Het Loo",
+            "tip": "Găsiți un colț ascuns în grădinile vaste.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Observarea mistreților în Berg en Bos",
+            "tip": "Cu puțin noroc, veți vedea animale sălbatice.",
+            "emoji": "🐗"
+          },
+          {
+            "name": "Malurile canalului Apeldoorns",
+            "tip": "Un traseu liniștit de bicicletă de-a lungul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Paleis Het Loo",
+            "tip": "Find a hidden corner in the vast gardens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wild boar spotting in Berg en Bos",
+            "tip": "With a bit of luck, you'll see wildlife.",
+            "emoji": "🐗"
+          },
+          {
+            "name": "Banks of the Apeldoorns Kanaal",
+            "tip": "A quiet cycle path along the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fietswinkel (Fahrradladen)",
+            "tip": "Kaufen Sie einzigartiges Fahrradzubehör als Souvenir."
+          },
+          {
+            "name": "Museumsshop Paleis Het Loo",
+            "tip": "Königliche Souvenirs und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fietswinkel (kerékpárbolt)",
+            "tip": "Vásároljon egyedi kerékpáros kiegészítőket szuvenírként."
+          },
+          {
+            "name": "A Het Loo palota múzeumi boltja",
+            "tip": "Királyi szuvenírek és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fietswinkel (magazin de biciclete)",
+            "tip": "Cumpărați accesorii unice pentru bicicletă ca suvenir."
+          },
+          {
+            "name": "Magazinul muzeului Paleis Het Loo",
+            "tip": "Suveniruri și cadouri regale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fietswinkel (Bicycle shop)",
+            "tip": "Buy unique cycling accessories as a souvenir."
+          },
+          {
+            "name": "Museum shop Paleis Het Loo",
+            "tip": "Royal souvenirs and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein gutes Fahrrad mit Gängen.",
+          "Die Radwege sind ausgezeichnet und sicher.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längeren Strecken.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Béreljen egy jó, sebességváltós kerékpárt.",
+          "A kerékpárutak kiválóak és biztonságosak.",
+          "Vigyen magával vizet és harapnivalókat, különösen a hosszabb szakaszokra.",
+          "Mindig zárja le jól a kerékpárját."
+        ],
+        "ro": [
+          "Închiriați o bicicletă bună cu viteze.",
+          "Pistele de biciclete sunt excelente și sigure.",
+          "Luați apă și gustări, mai ales pentru traseele mai lungi.",
+          "Încuiati-vă întotdeauna bicicleta bine."
+        ],
+        "en": [
+          "Rent a good bike with gears.",
+          "The cycle paths are excellent and safe.",
+          "Take water and snacks with you, especially for the longer stretches.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 42.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radio Kootwijk",
+            "hu": "Radio Kootwijk",
+            "ro": "Radio Kootwijk",
+            "en": "Radio Kootwijk"
+          },
+          "coords": [
+            5.834,
+            52.174
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit dem abgelegensten, aber beeindruckendsten Ort.",
+            "hu": "Kezdje a legtávolabbi, de leglenyűgözőbb helyszínnel.",
+            "ro": "Începeți cu cel mai îndepărtat, dar impresionant loc.",
+            "en": "Start with the most remote but impressive location."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleis Het Loo",
+            "hu": "Het Loo palota",
+            "ro": "Palatul Het Loo",
+            "en": "Paleis Het Loo"
+          },
+          "coords": [
+            5.945,
+            52.234
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich auf einen königlichen Nachmittag vor.",
+            "hu": "Parkoljon le itt, és készüljön egy királyi délutánra.",
+            "ro": "Parcați aici și pregătiți-vă pentru o după-amiază regală.",
+            "en": "Park here and prepare for a royal afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Apenheul",
+            "hu": "Apenheul Majompark",
+            "ro": "Apenheul",
+            "en": "Apenheul Primate Park"
+          },
+          "coords": [
+            5.928,
+            52.229
+          ],
+          "category": "parks",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Palast zum nächsten Abenteuer.",
+            "hu": "Rövid séta a palotától a következő kalandig.",
+            "ro": "O scurtă plimbare de la palat la următoarea aventură.",
+            "en": "A short walk from the palace to the next adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagy Templom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            5.961,
+            52.218
+          ],
+          "category": "churches",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 20.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum und finden Sie einen Parkplatz.",
+            "hu": "Vezessen be a központba, és keressen egy parkolóhelyet.",
+            "ro": "Conduceți în centru și găsiți un loc de parcare.",
+            "en": "Drive into the center and find a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "CODA Museum",
+            "hu": "CODA Múzeum",
+            "ro": "Muzeul CODA",
+            "en": "CODA Museum"
+          },
+          "coords": [
+            5.964,
+            52.219
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Stopp, bevor der Tag endet.",
+            "hu": "Egy utolsó kulturális megálló a nap vége előtt.",
+            "ro": "O ultimă oprire culturală înainte de sfârșitul zilei.",
+            "en": "One last cultural stop before the day ends."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in the Center"
+          },
+          "coords": [
+            5.9699,
+            52.2112
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zu einem Restaurant Ihrer Wahl.",
+            "hu": "Sétáljon el egy tetszőleges étterembe.",
+            "ro": "Plimbați-vă la un restaurant la alegere.",
+            "en": "Stroll to a restaurant of your choice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, die weitläufigen Schätze um Apeldoorn zu entdecken. Beginnen Sie Ihr Abenteuer bei Radio Kootwijk, einem atemberaubenden Art-déco-Gebäude mitten im Veluwe-Nationalpark. Nach diesem architektonischen Wunder fahren Sie zum königlichen Cluster. Am Vormittag widmen Sie sich dem Paleis Het Loo. Parken Sie Ihr Auto und erkunden Sie das Schloss und die Gärten. Anschließend spazieren Sie zum benachbarten Apenheul für eine lustige Begegnung mit Affen. Nach dem Mittagessen fahren Sie ins Stadtzentrum von Apeldoorn. Parken Sie erneut und erkunden Sie den historischen Kern zu Fuß, beginnend mit der Grote Kerk und einem schnellen Besuch im CODA Museum, bevor Sie den Tag mit einem gemütlichen Abendessen ausklingen lassen.",
+        "hu": "Az autó szabadságot ad, hogy felfedezze Apeldoorn kiterjedt kincseit. Kezdje kalandját a Radio Kootwijknél, egy lélegzetelállító art deco épületnél a Veluwe Nemzeti Park közepén. E csoda után irány a királyi klaszter. A délelőttöt szentelje a Het Loo palotának. Parkolja le autóját, és fedezze fel a palotát és a kerteket. Ezután sétáljon át a szomszédos Apenheul majomparkba egy vidám találkozásra a majmokkal. Ebéd után vezessen be Apeldoorn központjába. Parkoljon le újra, és fedezze fel a történelmi központot gyalog, kezdve a Grote Kerkkel és egy gyors látogatással a CODA Múzeumban, mielőtt egy kellemes vacsorával zárja a napot.",
+        "ro": "Cu mașina, aveți libertatea de a descoperi comorile extinse din jurul Apeldoorn. Începeți-vă aventura la Radio Kootwijk, o clădire art-deco uimitoare în mijlocul Parcului Național Veluwe. După această minune arhitecturală, conduceți către grupul regal. Dimineața este dedicată Palatului Het Loo. Parcați mașina și explorați palatul și grădinile. Apoi, faceți o plimbare până la Apenheul din apropiere pentru o întâlnire amuzantă cu maimuțele. După prânz, conduceți în centrul orașului Apeldoorn. Parcați din nou și explorați nucleul istoric pe jos, începând cu Grote Kerk și o vizită rapidă la Muzeul CODA, înainte de a încheia ziua cu o cină relaxantă.",
+        "en": "With a car, you have the freedom to discover the extensive treasures around Apeldoorn. Start your adventure at Radio Kootwijk, a breathtaking art deco building in the middle of the Veluwe National Park. After this architectural marvel, drive to the royal cluster. The morning is dedicated to Paleis Het Loo. Park your car and explore the palace and gardens. Then, take a walk to the neighboring Apenheul for a fun encounter with monkeys. After lunch, drive into Apeldoorn's city center. Park again and explore the historic core on foot, starting with the Grote Kerk and a quick visit to the CODA Museum, before ending the day with a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildgerichte",
+            "tip": "In der Veluwe-Region sehr beliebt, besonders im Herbst."
+          },
+          {
+            "name": "De Echoput",
+            "tip": "Ein bekanntes Restaurant in der Nähe für gehobene Küche."
+          },
+          {
+            "name": "Café in der Innenstadt",
+            "tip": "Für ein zwangloses Abendessen nach der Erkundung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadhúsételek",
+            "tip": "Nagyon népszerű a Veluwe régióban, különösen ősszel."
+          },
+          {
+            "name": "De Echoput",
+            "tip": "Egy közeli, jól ismert étterem a fine diningért."
+          },
+          {
+            "name": "Kávézó a belvárosban",
+            "tip": "Egy laza vacsorához a felfedezés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncăruri din vânat",
+            "tip": "Foarte popular în regiunea Veluwe, mai ales toamna."
+          },
+          {
+            "name": "De Echoput",
+            "tip": "Un restaurant renumit în apropiere pentru bucătăria fină."
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Pentru o cină informală după explorare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Game dishes",
+            "tip": "Very popular in the Veluwe region, especially in autumn."
+          },
+          {
+            "name": "De Echoput",
+            "tip": "A well-known nearby restaurant for fine dining."
+          },
+          {
+            "name": "Café in the city center",
+            "tip": "For a casual dinner after exploring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heidefelder bei Radio Kootwijk",
+            "tip": "Eine riesige, stille Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang im Kroondomein Het Loo",
+            "tip": "Endlose Wälder rund um den Palast.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang über der Veluwe",
+            "tip": "Finden Sie einen hohen Punkt für die beste Aussicht.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hangamezők Radio Kootwijknél",
+            "tip": "Hatalmas, csendes táj.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Kroondomein Het Loo-ban",
+            "tip": "Végtelen erdők a palota körül.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a Veluwe felett",
+            "tip": "Keressen egy magas pontot a legjobb kilátásért.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpiile de erică de lângă Radio Kootwijk",
+            "tip": "Un peisaj vast și tăcut.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare în Kroondomein Het Loo",
+            "tip": "Păduri nesfârșite în jurul palatului.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare peste Veluwe",
+            "tip": "Găsiți un punct înalt pentru cea mai bună priveliște.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heath fields near Radio Kootwijk",
+            "tip": "A vast, silent landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk in the Kroondomein Het Loo",
+            "tip": "Endless forests around the palace.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset over the Veluwe",
+            "tip": "Find a high point for the best view.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Veluwe",
+            "tip": "Kaufen Sie lokale Produkte wie Honig oder Käse."
+          },
+          {
+            "name": "Souvenirs bei Radio Kootwijk",
+            "tip": "Einzigartige Andenken an ein architektonisches Juwel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a Veluwe-ben",
+            "tip": "Vásároljon helyi termékeket, például mézet vagy sajtot."
+          },
+          {
+            "name": "Szuvenírek a Radio Kootwijknél",
+            "tip": "Egyedi emléktárgyak egy építészeti gyöngyszemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în Veluwe",
+            "tip": "Cumpărați produse locale precum miere sau brânză."
+          },
+          {
+            "name": "Suveniruri la Radio Kootwijk",
+            "tip": "Amintiri unice ale unei bijuterii arhitecturale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the Veluwe",
+            "tip": "Buy local products like honey or cheese."
+          },
+          {
+            "name": "Souvenirs at Radio Kootwijk",
+            "tip": "Unique mementos of an architectural gem."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Zugangsbedingungen für Radio Kootwijk, da es sich in einem Naturschutzgebiet befindet.",
+          "Parkgebühren können anfallen, halten Sie Münzen oder eine Karte bereit.",
+          "Planen Sie genügend Zeit für Fahrten zwischen den Clustern ein.",
+          "Ein Navi ist unerlässlich."
+        ],
+        "hu": [
+          "Ellenőrizze a Radio Kootwijk belépési feltételeit, mivel természetvédelmi területen található.",
+          "Parkolási díjak merülhetnek fel, tartson készenlétben érméket vagy kártyát.",
+          "Tervezzen elegendő időt a klaszterek közötti utazásokra.",
+          "A navigáció elengedhetetlen."
+        ],
+        "ro": [
+          "Verificați condițiile de acces pentru Radio Kootwijk, deoarece se află într-o rezervație naturală.",
+          "Se pot aplica taxe de parcare, aveți la îndemână monede sau un card.",
+          "Planificați suficient timp pentru călătoriile între grupuri.",
+          "Un sistem de navigație este esențial."
+        ],
+        "en": [
+          "Check the access conditions for Radio Kootwijk as it is in a nature reserve.",
+          "Parking fees may apply, have coins or a card ready.",
+          "Plan enough time for journeys between the clusters.",
+          "A navigation system is essential."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Apeldoorn & Bus ins Zentrum",
+            "hu": "Érkezés az Apeldoorn állomásra és busz a központba",
+            "ro": "Sosire la gara Apeldoorn și autobuz spre centru",
+            "en": "Arrival at Apeldoorn Station & Bus to Center"
+          },
+          "coords": [
+            5.97,
+            52.21
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus.",
+            "hu": "Vásároljon napijegyet a buszra.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz.",
+            "en": "Buy a day ticket for the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagy Templom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            5.961,
+            52.218
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung im historischen Herzen.",
+            "hu": "Kezdje a felfedezést a történelmi szívben.",
+            "ro": "Începeți explorarea în inima istorică.",
+            "en": "Start your exploration in the historic heart."
+          }
+        },
+        {
+          "name": {
+            "de": "CODA Museum",
+            "hu": "CODA Múzeum",
+            "ro": "Muzeul CODA",
+            "en": "CODA Museum"
+          },
+          "coords": [
+            5.964,
+            52.219
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zum nächsten Kulturhighlight.",
+            "hu": "Rövid séta a következő kulturális fénypontig.",
+            "ro": "O scurtă plimbare până la următorul punct cultural.",
+            "en": "A short walk to the next cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Paleis Het Loo",
+            "hu": "Busszal a Het Loo palotához",
+            "ro": "Autobuz spre Palatul Het Loo",
+            "en": "Bus to Paleis Het Loo"
+          },
+          "coords": [
+            5.945,
+            52.234
+          ],
+          "category": "castles",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus, um das königliche Anwesen zu erreichen.",
+            "hu": "Busszal érje el a királyi birtokot.",
+            "ro": "Luați autobuzul pentru a ajunge la domeniul regal.",
+            "en": "Take the bus to reach the royal estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück ins Zentrum & Abendessen",
+            "hu": "Busszal vissza a központba és vacsora",
+            "ro": "Autobuz înapoi în centru și cină",
+            "en": "Bus back to Center & Dinner"
+          },
+          "coords": [
+            5.9699,
+            52.2112
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 125,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt in der Innenstadt.",
+            "hu": "Zárja a napot pihenéssel a belvárosban.",
+            "ro": "Încheiați ziua relaxându-vă în centrul orașului.",
+            "en": "End the day relaxing in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Apeldoorn lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Kaufen Sie eine Tageskarte und starten Sie im Zentrum. Am Morgen erkunden Sie zu Fuß den historischen Kern mit der Grote Kerk und dem CODA Museum. Genießen Sie die kompakte Innenstadt. Nach einer kurzen Mittagspause nehmen Sie den Bus zum königlichen Highlight der Region: Paleis Het Loo. Der Bus bringt Sie bequem dorthin. Verbringen Sie den ganzen Nachmittag damit, das prächtige Schloss, die Gärten und die Stallungen zu erkunden. Es ist eine Welt für sich. Am späten Nachmittag fahren Sie mit dem Bus zurück ins Zentrum, wo Sie aus einer Vielzahl von Restaurants für ein wohlverdientes Abendessen wählen können.",
+        "hu": "Apeldoorn kiválóan felfedezhető tömegközlekedéssel. Vásároljon napijegyet, és induljon a központból. Délelőtt gyalogosan fedezze fel a történelmi központot a Grote Kerkkel és a CODA Múzeummal. Élvezze a kompakt belvárost. Egy rövid ebédszünet után szálljon buszra a régió királyi fénypontjához: a Het Loo palotához. A busz kényelmesen elviszi oda. Töltse az egész délutánt a csodálatos palota, a kertek és az istállók felfedezésével. Ez egy külön világ. Késő délután busszal térjen vissza a központba, ahol számos étterem közül választhat egy megérdemelt vacsorához.",
+        "ro": "Apeldoorn este excelent de explorat cu transportul public. Cumpărați un bilet de o zi și începeți din centru. Dimineața, explorați pe jos nucleul istoric cu Grote Kerk și Muzeul CODA. Bucurați-vă de centrul compact al orașului. După o scurtă pauză de prânz, luați autobuzul către punctul culminant regal al regiunii: Palatul Het Loo. Autobuzul vă va duce acolo confortabil. Petreceți întreaga după-amiază explorând magnificul palat, grădinile și grajdurile. Este o lume în sine. Spre seară, luați autobuzul înapoi în centru, unde puteți alege dintr-o varietate de restaurante pentru o cină binemeritată.",
+        "en": "Apeldoorn is excellent to explore by public transport. Buy a day ticket and start in the center. In the morning, explore the historic core on foot with the Grote Kerk and the CODA Museum. Enjoy the compact city center. After a short lunch break, take the bus to the royal highlight of the region: Paleis Het Loo. The bus will take you there comfortably. Spend the whole afternoon exploring the magnificent palace, gardens, and stables. It's a world of its own. In the late afternoon, take the bus back to the center, where you can choose from a variety of restaurants for a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in der Nähe einer Bushaltestelle",
+            "tip": "Suchen Sie sich ein Restaurant, das leicht erreichbar ist."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Für eine schnelle und authentische niederländische Mahlzeit."
+          },
+          {
+            "name": "Marktplein",
+            "tip": "Viele Restaurants rund um den Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem egy buszmegálló közelében",
+            "tip": "Keressen egy könnyen megközelíthető éttermet."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Egy gyors és autentikus holland ételért."
+          },
+          {
+            "name": "Marktplein",
+            "tip": "Sok étterem a főtér körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant lângă o stație de autobuz",
+            "tip": "Căutați un restaurant ușor accesibil."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "Pentru o masă olandeză rapidă și autentică."
+          },
+          {
+            "name": "Marktplein",
+            "tip": "Multe restaurante în jurul pieței principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant near a bus stop",
+            "tip": "Look for a restaurant that is easily accessible."
+          },
+          {
+            "name": "Snackbar",
+            "tip": "For a quick and authentic Dutch meal."
+          },
+          {
+            "name": "Marktplein",
+            "tip": "Many restaurants around the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oranjepark",
+            "tip": "Ein kurzer Spaziergang von den zentralen Bushaltestellen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stille Ecke in den Gärten von Het Loo",
+            "tip": "Entfliehen Sie den Menschenmassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt durch die Vororte",
+            "tip": "Beobachten Sie das tägliche Leben aus dem Fenster.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oranjepark",
+            "tip": "Rövid séta a központi buszmegállóktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csendes sarok a Het Loo kertjeiben",
+            "tip": "Meneküljön el a tömeg elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszozás a külvárosokon keresztül",
+            "tip": "Figyelje a mindennapi életet az ablakból.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oranjepark",
+            "tip": "O scurtă plimbare de la stațiile centrale de autobuz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Colț liniștit în grădinile Het Loo",
+            "tip": "Evadați de mulțime.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu autobuzul prin suburbii",
+            "tip": "Observați viața de zi cu zi de la fereastră.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oranjepark",
+            "tip": "A short walk from the central bus stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quiet corner in the gardens of Het Loo",
+            "tip": "Escape the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride through the suburbs",
+            "tip": "Watch daily life from the window.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Hoofdstraat",
+            "tip": "Die Haupteinkaufsstraße, leicht zu Fuß erreichbar."
+          },
+          {
+            "name": "Museumsshop CODA",
+            "tip": "Künstlerische Geschenke und Bücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Hoofdstraat-on",
+            "tip": "A fő bevásárlóutca, könnyen megközelíthető gyalog."
+          },
+          {
+            "name": "A CODA múzeumi boltja",
+            "tip": "Művészi ajándékok és könyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Hoofdstraat",
+            "tip": "Strada principală de cumpărături, ușor accesibilă pe jos."
+          },
+          {
+            "name": "Magazinul muzeului CODA",
+            "tip": "Cadouri și cărți artistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Hoofdstraat",
+            "tip": "The main shopping street, easily accessible on foot."
+          },
+          {
+            "name": "Museum shop CODA",
+            "tip": "Artistic gifts and books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Eine Powerbank für Ihr Handy ist nützlich.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Hasznos lehet egy power bank a telefonjához.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "Érvényesítse a jegyét felszálláskor."
+        ],
+        "ro": [
+          "Descărcați o aplicație de transport public pentru a vedea orarele în timp real.",
+          "O baterie externă pentru telefon este utilă.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Validați-vă biletul la urcare."
+        ],
+        "en": [
+          "Download a public transport app to see real-time schedules.",
+          "A power bank for your phone is useful.",
+          "The buses are punctual, so be at the stop on time.",
+          "Validate your ticket when boarding."
+        ]
+      }
+    }
+  }
+}

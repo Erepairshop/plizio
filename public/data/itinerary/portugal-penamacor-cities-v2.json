@@ -1,0 +1,1268 @@
+{
+  "city_id": "portugal-penamacor-cities-v2",
+  "anchor": {
+    "name": "Penamacor",
+    "coords": [
+      -7.1667,
+      40.1667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schandpfahl von Penamacor",
+            "hu": "Penamacor szégyenoszlopa",
+            "ro": "Stâlpul Infamiei din Penamacor",
+            "en": "Pillory of Penamacor"
+          },
+          "coords": [
+            -7.1678,
+            40.1673
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Symbol der mittelalterlichen Justiz, perfekt für ein schnelles Foto.",
+            "hu": "A középkori igazságszolgáltatás szimbóluma, tökéletes egy gyors fotóhoz.",
+            "ro": "Un simbol al justiției medievale, perfect pentru o fotografie rapidă.",
+            "en": "A symbol of medieval justice, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Penamacor",
+            "hu": "Penamacori Főtemplom",
+            "ro": "Biserica Matrice din Penamacor",
+            "en": "Main Church of Penamacor"
+          },
+          "coords": [
+            -7.1675,
+            40.1672
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die manuelinischen Details an den Portalen und Fenstern.",
+            "hu": "Figyelje meg a manuálin stílusú részleteket a portálokon és ablakokon.",
+            "ro": "Observați detaliile manueline de la portaluri și ferestre.",
+            "en": "Notice the Manueline details on the portals and windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penamacor",
+            "hu": "Penamacori Városi Múzeum",
+            "ro": "Muzeul Municipal din Penamacor",
+            "en": "Municipal Museum of Penamacor"
+          },
+          "coords": [
+            -7.167,
+            40.167
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im alten Rathaus (Paços do Concelho).",
+            "hu": "A múzeum a régi városházában (Paços do Concelho) található.",
+            "ro": "Muzeul este găzduit în vechea primărie (Paços do Concelho).",
+            "en": "The museum is housed in the old Town Hall (Paços do Concelho)."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus der Grafen von Penamacor",
+            "hu": "Penamacor grófjainak udvarháza",
+            "ro": "Conacul Conților de Penamacor",
+            "en": "Manor of the Counts of Penamacor"
+          },
+          "coords": [
+            -7.1682,
+            40.1668
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die herrschaftliche Architektur des 17. Jahrhunderts.",
+            "hu": "A 17. századi nemesi építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură nobiliară din secolul al XVII-lea.",
+            "en": "A fine example of 17th-century noble architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -7.1685,
+            40.1675
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der ehemalige Bergfried der Burg bietet eine großartige Aussicht.",
+            "hu": "A vár egykori öregtornyából nagyszerű a kilátás.",
+            "ro": "Fostul donjon al castelului, oferă vederi minunate.",
+            "en": "The former keep of the castle, it offers great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Penamacor",
+            "hu": "Penamacor vára",
+            "ro": "Castelul din Penamacor",
+            "en": "Castle of Penamacor"
+          },
+          "coords": [
+            -7.17,
+            40.168
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und die Landschaft.",
+            "hu": "Másszon fel a falakra a városra és a vidékre nyíló panorámáért.",
+            "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și a peisajului.",
+            "en": "Climb the walls for a panoramic view over the town and landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Heiligen Antonius",
+            "hu": "Szent Antal-kolostor",
+            "ro": "Mănăstirea Sfântul Anton",
+            "en": "Convent of Saint Anthony"
+          },
+          "coords": [
+            -7.165,
+            40.165
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort etwas außerhalb des Zentrums, mit einem schönen Innenhof.",
+            "hu": "Békés hely kicsit a központon kívül, szép belső udvarral.",
+            "ro": "Un loc liniștit, puțin în afara centrului, cu o curte interioară frumoasă.",
+            "en": "A peaceful spot slightly outside the center, with a lovely courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Penamacor, wo mittelalterliche Gerechtigkeit und Glaube aufeinandertreffen. Schlendern Sie durch die engen Gassen und bewundern Sie die manuelinische Architektur. Am Mittag tauchen Sie im Stadtmuseum in die lokale Geschichte ein, bevor Sie die prächtigen Häuser des Adels entdecken. Am Nachmittag erklimmen Sie die alten Mauern der Burg für eine atemberaubende Aussicht und beenden Ihren Spaziergang in der ruhigen Atmosphäre des Klosters Santo António. Genießen Sie die Ruhe und die Geschichte dieses bezaubernden Ortes.",
+        "hu": "Kezdje a napot Penamacor történelmi szívében, ahol a középkori igazságszolgáltatás és a hit találkozik. Sétáljon a szűk utcákon, és csodálja meg a manuálin építészetet. Délben merüljön el a helyi történelemben a városi múzeumban, mielőtt felfedezné a nemesi kúriákat. Délután mássza meg a vár ősi falait a lélegzetelállító kilátásért, majd fejezze be a sétát a Santo António kolostor békés légkörében. Élvezze a nyugalmát és történelmét ennek a bájos helynek.",
+        "ro": "Începeți ziua în inima istorică a Penamacor, unde justiția și credința medievală se întâlnesc. Plimbați-vă pe străzile înguste, admirând arhitectura manuelină. La amiază, pătrundeți în istoria locală la muzeul municipal, înainte de a descoperi reședințele nobiliare. După-amiaza, urcați pe zidurile vechi ale castelului pentru priveliști uimitoare și încheiați plimbarea în atmosfera senină a mănăstirii Santo António. Bucurați-vă de liniștea și istoria acestui loc fermecător.",
+        "en": "Start your day in the historic heart of Penamacor, where medieval justice and faith meet. Stroll through the narrow streets, admiring the Manueline architecture. At noon, delve into local history at the municipal museum before discovering the noble manors. In the afternoon, climb the ancient walls of the castle for breathtaking views, and finish your walk in the serene atmosphere of the Santo António convent. Enjoy the tranquility and history of this charming place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurstspezialität aus Ziegenfleisch, Reis und Minze. Suchen Sie nach Restaurants, die 'comida regional' bewerben."
+          },
+          {
+            "name": "Käse aus Beira Baixa",
+            "tip": "Probieren Sie den berühmten Queijo de Castelo Branco oder Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászkülönlegesség. Keressen 'comida regional'-t hirdető éttermeket."
+          },
+          {
+            "name": "Beira Baixa sajt",
+            "tip": "Kóstolja meg a híres Queijo de Castelo Branco-t vagy a Queijo Amarelo da Beira Baixa-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate de cârnat din carne de capră, orez și mentă. Căutați restaurante care promovează 'comida regional'."
+          },
+          {
+            "name": "Brânză din Beira Baixa",
+            "tip": "Încercați faimoasa Queijo de Castelo Branco sau Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage specialty made from goat meat, rice, and mint. Look for restaurants advertising 'comida regional'."
+          },
+          {
+            "name": "Beira Baixa Cheese",
+            "tip": "Try the famous Queijo de Castelo Branco or Queijo Amarelo da Beira Baixa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Klosters Santo António",
+            "tip": "Ein verborgener, friedlicher Ort, ideal für eine Pause vom Sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Bazágueda",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Plätze am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Santo António kolostor kertje",
+            "tip": "Rejtett, békés hely, ideális egy kis pihenésre a városnézés közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Bazágueda folyó partja",
+            "tip": "A központtól rövid sétára csendes helyeket talál a folyó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Santo António",
+            "tip": "Un loc ascuns și pașnic, ideal pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Bazágueda",
+            "tip": "La o scurtă plimbare de centru, veți găsi locuri liniștite lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Convent of Santo António",
+            "tip": "A hidden, peaceful spot, ideal for a break from sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Bazágueda River",
+            "tip": "A short walk from the center, you'll find quiet spots by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Suchen Sie nach diesen traditionellen Wolldecken in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Der beste Ort, um lokale Produkte wie Käse, Wurst und Honig zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Keresse ezeket a hagyományos gyapjútakarókat a helyi kézműves boltokban."
+          },
+          {
+            "name": "Városi piac",
+            "tip": "A legjobb hely helyi termékek, például sajt, kolbász és méz vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Căutați aceste pături tradiționale din lână în magazinele de artizanat locale."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Cel mai bun loc pentru a cumpăra produse locale, cum ar fi brânzeturi, cârnați și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Look for these traditional woolen blankets in the local craft shops."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "The best place to buy local products like cheese, sausages, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen im historischen Zentrum gepflastert sind.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was diesen Spaziergang sehr angenehm macht.",
+          "Fragen Sie in den örtlichen Cafés nach einem 'bica' (Espresso), um sich zu stärken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ utcái macskakövesek.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "A legtöbb látnivaló közel van egymáshoz, ami nagyon kellemessé teszi ezt a sétát.",
+          "Kérjen egy 'bicát' (eszpresszót) a helyi kávézókban, hogy feltöltődjön."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din centrul istoric sunt pavate cu piatră cubică.",
+          "Luați multă apă cu dumneavoastră, mai ales vara.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă, ceea ce face această plimbare foarte plăcută.",
+          "Cereți o 'bica' (espresso) la cafenelele locale pentru un plus de energie."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets in the historic center are cobblestoned.",
+          "Bring plenty of water, especially in the summer.",
+          "Most sights are close together, making this a very pleasant walk.",
+          "Ask for a 'bica' (espresso) at local cafes for a boost of energy."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schandpfahl von Penamacor",
+            "hu": "Penamacor szégyenoszlopa",
+            "ro": "Stâlpul Infamiei din Penamacor",
+            "en": "Pillory of Penamacor"
+          },
+          "coords": [
+            -7.1678,
+            40.1673
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab, um dieses zentrale Denkmal zu besichtigen.",
+            "hu": "Zárja le a kerékpárját a közelben, hogy megnézze ezt a központi emlékművet.",
+            "ro": "Legați-vă bicicleta în apropiere pentru a vizita acest monument central.",
+            "en": "Lock your bike nearby to visit this central monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Penamacor",
+            "hu": "Penamacori Főtemplom",
+            "ro": "Biserica Matrice din Penamacor",
+            "en": "Main Church of Penamacor"
+          },
+          "coords": [
+            -7.1675,
+            40.1672
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Schandpfahl entfernt, die Kirche ist ein Muss.",
+            "hu": "Csak egy rövid tekerés a szégyenoszloptól, a templomot látni kell.",
+            "ro": "O scurtă plimbare cu bicicleta de la stâlpul infamiei, biserica este o vizită obligatorie.",
+            "en": "A quick ride from the pillory, the church is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus der Grafen von Penamacor",
+            "hu": "Penamacor grófjainak udvarháza",
+            "ro": "Conacul Conților de Penamacor",
+            "en": "Manor of the Counts of Penamacor"
+          },
+          "coords": [
+            -7.1682,
+            40.1668
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch die engen Gassen, um dieses architektonische Juwel zu finden.",
+            "hu": "Tekerjen át a szűk utcákon, hogy megtalálja ezt az építészeti gyöngyszemet.",
+            "ro": "Pedalați pe străduțele înguste pentru a găsi această bijuterie arhitecturală.",
+            "en": "Cycle through the narrow streets to find this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Burg von Penamacor",
+            "hu": "Óratorony és Penamacor vára",
+            "ro": "Turnul cu Ceas și Castelul din Penamacor",
+            "en": "Clock Tower & Castle of Penamacor"
+          },
+          "coords": [
+            -7.17,
+            40.168
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und erklimmen Sie die Burg.",
+            "hu": "Hagyja a kerékpárt a domb alján, és mássza meg a várat.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați la castel.",
+            "en": "Leave your bike at the bottom of the hill and climb up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Heiligen Antonius",
+            "hu": "Szent Antal-kolostor",
+            "ro": "Mănăstirea Sfântul Anton",
+            "en": "Convent of Saint Anthony"
+          },
+          "coords": [
+            -7.165,
+            40.165
+          ],
+          "category": "religious",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Abfahrt von der Burg und die kurze Fahrt zum friedlichen Kloster.",
+            "hu": "Élvezze a lejtőt a vártól és a rövid utat a békés kolostorhoz.",
+            "ro": "Bucurați-vă de coborârea de la castel și de scurta plimbare până la mănăstirea liniștită.",
+            "en": "Enjoy the downhill ride from the castle and the short trip to the peaceful convent."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penamacor",
+            "hu": "Penamacori Városi Múzeum",
+            "ro": "Muzeul Municipal din Penamacor",
+            "en": "Municipal Museum of Penamacor"
+          },
+          "coords": [
+            -7.167,
+            40.167
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem kulturellen Einblick in die Geschichte der Region.",
+            "hu": "Fejezze be a túrát a régió történelmének kulturális megismerésével.",
+            "ro": "Încheiați turul cu o incursiune culturală în istoria regiunii.",
+            "en": "End your tour with a cultural dive into the region's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Penamacor auf zwei Rädern. Beginnen Sie am zentralen Schandpfahl und radeln Sie zur Hauptkirche. Manövrieren Sie durch charmante Gassen zum Herrenhaus der Grafen, bevor Sie den Anstieg zur Burg und zum Uhrturm in Angriff nehmen, die mit einer spektakulären Aussicht belohnen. Genießen Sie die Abfahrt zum ruhigen Kloster Santo António für einen Moment der Besinnung. Beenden Sie Ihre Radtour im Stadtmuseum, wo die reiche Geschichte der Region auf Sie wartet.",
+        "hu": "Fedezze fel Penamacort két keréken. Kezdje a központi szégyenoszlopnál, majd tekerjen a főtemplomhoz. Manőverezzen a bájos sikátorokon keresztül a grófi kúriához, mielőtt nekivágna az emelkedőnek a várhoz és az óratoronyhoz, ami látványos kilátással jutalmaz. Élvezze a lejtmenetet a békés Santo António kolostorhoz egy csendes pillanatért. Zárja a kerékpártúrát a városi múzeumban, ahol a régió gazdag történelme várja.",
+        "ro": "Explorați Penamacor pe două roți. Începeți de la stâlpul infamiei central și pedalați spre Biserica Matrice. Manevrați printre aleile fermecătoare până la conacul conților, înainte de a aborda urcușul spre castel și turnul cu ceas, recompensat cu vederi spectaculoase. Bucurați-vă de coborârea spre liniștita mănăstire Santo António pentru un moment de reculegere. Încheiați turul cu bicicleta la muzeul municipal, unde vă așteaptă istoria bogată a regiunii.",
+        "en": "Explore Penamacor on two wheels. Start at the central pillory and cycle to the Main Church. Maneuver through charming alleys to the Counts' Manor before tackling the climb to the castle and clock tower, rewarded with spectacular views. Enjoy the ride down to the peaceful Santo António Convent for a moment of reflection. End your bike tour at the municipal museum, where the region's rich history awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurstspezialität aus Ziegenfleisch, Reis und Minze. Suchen Sie nach Restaurants, die 'comida regional' bewerben."
+          },
+          {
+            "name": "Käse aus Beira Baixa",
+            "tip": "Probieren Sie den berühmten Queijo de Castelo Branco oder Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászkülönlegesség. Keressen 'comida regional'-t hirdető éttermeket."
+          },
+          {
+            "name": "Beira Baixa sajt",
+            "tip": "Kóstolja meg a híres Queijo de Castelo Branco-t vagy a Queijo Amarelo da Beira Baixa-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate de cârnat din carne de capră, orez și mentă. Căutați restaurante care promovează 'comida regional'."
+          },
+          {
+            "name": "Brânză din Beira Baixa",
+            "tip": "Încercați faimoasa Queijo de Castelo Branco sau Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage specialty made from goat meat, rice, and mint. Look for restaurants advertising 'comida regional'."
+          },
+          {
+            "name": "Beira Baixa Cheese",
+            "tip": "Try the famous Queijo de Castelo Branco or Queijo Amarelo da Beira Baixa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Klosters Santo António",
+            "tip": "Ein verborgener, friedlicher Ort, ideal für eine Pause vom Sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Bazágueda",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Plätze am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Santo António kolostor kertje",
+            "tip": "Rejtett, békés hely, ideális egy kis pihenésre a városnézés közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Bazágueda folyó partja",
+            "tip": "A központtól rövid sétára csendes helyeket talál a folyó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Santo António",
+            "tip": "Un loc ascuns și pașnic, ideal pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Bazágueda",
+            "tip": "La o scurtă plimbare de centru, veți găsi locuri liniștite lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Convent of Santo António",
+            "tip": "A hidden, peaceful spot, ideal for a break from sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Bazágueda River",
+            "tip": "A short walk from the center, you'll find quiet spots by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Suchen Sie nach diesen traditionellen Wolldecken in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Der beste Ort, um lokale Produkte wie Käse, Wurst und Honig zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Keresse ezeket a hagyományos gyapjútakarókat a helyi kézműves boltokban."
+          },
+          {
+            "name": "Városi piac",
+            "tip": "A legjobb hely helyi termékek, például sajt, kolbász és méz vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Căutați aceste pături tradiționale din lână în magazinele de artizanat locale."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Cel mai bun loc pentru a cumpăra produse locale, cum ar fi brânzeturi, cârnați și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Look for these traditional woolen blankets in the local craft shops."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "The best place to buy local products like cheese, sausages, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können steil sein, besonders der Aufstieg zur Burg.",
+          "Ein Mountainbike ist besser geeignet als ein Rennrad.",
+          "Tragen Sie einen Helm und seien Sie vorsichtig in den engen Gassen.",
+          "Viele Cafés erlauben es Ihnen, Ihr Fahrrad draußen abzustellen."
+        ],
+        "hu": [
+          "Az utak meredekek lehetnek, különösen a várhoz vezető emelkedő.",
+          "Egy mountain bike alkalmasabb, mint egy országúti kerékpár.",
+          "Viseljen sisakot, és legyen óvatos a szűk sikátorokban.",
+          "Sok kávézó megengedi, hogy a kerékpárt kint hagyja."
+        ],
+        "ro": [
+          "Străzile pot fi abrupte, în special urcarea către castel.",
+          "O bicicletă de munte este mai potrivită decât una de șosea.",
+          "Purtați cască și fiți precauți pe aleile înguste.",
+          "Multe cafenele vă vor permite să lăsați bicicleta afară."
+        ],
+        "en": [
+          "The roads can be steep, especially the climb to the castle.",
+          "A mountain bike is more suitable than a road bike.",
+          "Wear a helmet and be cautious in the narrow alleys.",
+          "Many cafes will allow you to park your bike outside."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 30.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Penamacor",
+            "hu": "Penamacor vára",
+            "ro": "Castelul din Penamacor",
+            "en": "Castle of Penamacor"
+          },
+          "coords": [
+            -7.17,
+            40.168
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung am höchsten Punkt der Stadt.",
+            "hu": "Parkolja le az autóját a közelben, és kezdje a felfedezést a város legmagasabb pontján.",
+            "ro": "Parcați mașina în apropiere și începeți explorarea de la cel mai înalt punct al orașului.",
+            "en": "Park your car nearby and start your exploration at the town's highest point."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm & Hauptkirche",
+            "hu": "Óratorony és Főtemplom",
+            "ro": "Turnul cu Ceas și Biserica Matrice",
+            "en": "Clock Tower & Main Church"
+          },
+          "coords": [
+            -7.168,
+            40.1673
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab führt Sie zu zwei weiteren historischen Wahrzeichen.",
+            "hu": "Egy rövid séta lefelé a dombon, és máris két újabb történelmi látnivalónál van.",
+            "ro": "O scurtă plimbare la vale vă duce la alte două repere istorice.",
+            "en": "A short walk downhill brings you to two more historic landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penamacor",
+            "hu": "Penamacori Városi Múzeum",
+            "ro": "Muzeul Municipal din Penamacor",
+            "en": "Municipal Museum of Penamacor"
+          },
+          "coords": [
+            -7.167,
+            40.167
+          ],
+          "category": "museum",
+          "arrive_at": "11:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang durch das Zentrum mit einem Besuch des Museums.",
+            "hu": "Fejezze be a központi sétát a múzeum meglátogatásával.",
+            "ro": "Încheiați plimbarea prin centru cu o vizită la muzeu.",
+            "en": "Finish your walk through the center with a visit to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservat Serra da Malcata",
+            "hu": "Serra da Malcata Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Serra da Malcata",
+            "en": "Serra da Malcata Nature Reserve"
+          },
+          "coords": [
+            -7.25,
+            40.2
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 15,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in die Wildnis. Heimat des Iberischen Luchses.",
+            "hu": "Vezessen ki a vadonba. Az ibériai hiúz otthona.",
+            "ro": "Conduceți în sălbăticie. Casa râsului iberic.",
+            "en": "Drive into the wilderness. Home of the Iberian lynx."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt im Reservat",
+            "hu": "Kilátópont a rezervátumban",
+            "ro": "Punct de belvedere în rezervație",
+            "en": "Viewpoint in the Reserve"
+          },
+          "coords": [
+            -7.258,
+            40.205
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang zu einem Aussichtspunkt für atemberaubende Landschaften.",
+            "hu": "Tegyen egy rövid sétát egy kilátóponthoz a lélegzetelállító tájért.",
+            "ro": "Faceți o scurtă plimbare până la un punct de belvedere pentru peisaje uluitoare.",
+            "en": "Take a short walk to a viewpoint for breathtaking landscapes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im historischen Kern von Penamacor, parken Sie und erkunden Sie die Burg, den Turm und das Museum zu Fuß. Dieser erste Teil des Tages ist ein Spaziergang durch die Geschichte. Am Nachmittag fahren Sie in die unberührte Natur des Naturreservats Serra da Malcata. Hier tauschen Sie das Auto gegen Wanderschuhe, um die raue Landschaft und die spektakulären Aussichten zu genießen. Der Tag verbindet städtische Geschichte mit wilder Natur und endet mit einer malerischen Rückfahrt bei Sonnenuntergang.",
+        "hu": "Kezdje a napot autóval Penamacor történelmi magjában, parkoljon le, és fedezze fel gyalog a várat, a tornyot és a múzeumot. A nap első fele egy séta a történelemben. Délután vezessen a Serra da Malcata Természetvédelmi Terület érintetlen vadonába. Itt cserélje le az autót túrabakancsra, hogy élvezhesse a zord tájat és a látványos kilátást. A nap ötvözi a városi történelmet a vad természettel, és egy festői naplementés visszaúttal zárul.",
+        "ro": "Începeți ziua cu mașina în centrul istoric al Penamacor, parcați și explorați pe jos castelul, turnul și muzeul. Această primă parte a zilei este o plimbare prin istorie. După-amiaza, conduceți spre natura neatinsă a Rezervației Naturale Serra da Malcata. Aici, schimbați mașina cu bocancii de drumeție pentru a vă bucura de peisajul sălbatic și de priveliștile spectaculoase. Ziua combină istoria urbană cu natura sălbatică, încheindu-se cu o întoarcere pitorească la apus.",
+        "en": "Start your day by car in the historic core of Penamacor, parking up to explore the castle, tower, and museum on foot. This first part of the day is a walk through history. In the afternoon, drive into the untouched wilderness of the Serra da Malcata Nature Reserve. Here, you'll swap the car for hiking boots to enjoy the rugged landscape and spectacular views. The day combines urban history with wild nature, ending with a scenic drive back at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurstspezialität aus Ziegenfleisch, Reis und Minze. Suchen Sie nach Restaurants, die 'comida regional' bewerben."
+          },
+          {
+            "name": "Käse aus Beira Baixa",
+            "tip": "Probieren Sie den berühmten Queijo de Castelo Branco oder Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászkülönlegesség. Keressen 'comida regional'-t hirdető éttermeket."
+          },
+          {
+            "name": "Beira Baixa sajt",
+            "tip": "Kóstolja meg a híres Queijo de Castelo Branco-t vagy a Queijo Amarelo da Beira Baixa-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate de cârnat din carne de capră, orez și mentă. Căutați restaurante care promovează 'comida regional'."
+          },
+          {
+            "name": "Brânză din Beira Baixa",
+            "tip": "Încercați faimoasa Queijo de Castelo Branco sau Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage specialty made from goat meat, rice, and mint. Look for restaurants advertising 'comida regional'."
+          },
+          {
+            "name": "Beira Baixa Cheese",
+            "tip": "Try the famous Queijo de Castelo Branco or Queijo Amarelo da Beira Baixa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturreservat Serra da Malcata",
+            "tip": "Die Stille und die Weite der Landschaft sind der perfekte Ort, um zur Ruhe zu kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Flusses Bazágueda",
+            "tip": "Suchen Sie sich einen ruhigen Platz für ein Picknick, bevor Sie in die Serra fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Serra da Malcata Természetvédelmi Terület",
+            "tip": "A táj csendje és tágassága tökéletes hely a kikapcsolódásra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Bazágueda folyó partja",
+            "tip": "Keressen egy csendes helyet egy piknikhez, mielőtt a Serrába indul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rezervația Naturală Serra da Malcata",
+            "tip": "Liniștea și vastitatea peisajului sunt locul perfect pentru a vă relaxa.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malurile râului Bazágueda",
+            "tip": "Găsiți un loc liniștit pentru un picnic înainte de a pleca spre Serra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serra da Malcata Nature Reserve",
+            "tip": "The silence and vastness of the landscape are the perfect place to unwind.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Bazágueda River",
+            "tip": "Find a quiet spot for a picnic before heading to the Serra.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Suchen Sie nach diesen traditionellen Wolldecken in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Der beste Ort, um lokale Produkte wie Käse, Wurst und Honig zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Keresse ezeket a hagyományos gyapjútakarókat a helyi kézműves boltokban."
+          },
+          {
+            "name": "Városi piac",
+            "tip": "A legjobb hely helyi termékek, például sajt, kolbász és méz vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Căutați aceste pături tradiționale din lână în magazinele de artizanat locale."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Cel mai bun loc pentru a cumpăra produse locale, cum ar fi brânzeturi, cârnați și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Look for these traditional woolen blankets in the local craft shops."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "The best place to buy local products like cheese, sausages, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten des Besucherzentrums im Naturreservat im Voraus.",
+          "Tanken Sie voll, bevor Sie ins Reservat fahren, da es dort keine Tankstellen gibt.",
+          "Die Straßen im Reservat können unbefestigt sein; fahren Sie vorsichtig.",
+          "Nehmen Sie ein Fernglas mit, um Wildtiere zu beobachten."
+        ],
+        "hu": [
+          "Előre ellenőrizze a természetvédelmi terület látogatóközpontjának nyitvatartási idejét.",
+          "Tankoljon tele, mielőtt a rezervátumba indul, mivel ott nincsenek benzinkutak.",
+          "A rezervátumban az utak földutak lehetnek; vezessen óvatosan.",
+          "Vigyen magával távcsövet a vadvilág megfigyeléséhez."
+        ],
+        "ro": [
+          "Verificați în avans programul centrului pentru vizitatori din rezervația naturală.",
+          "Faceți plinul înainte de a intra în rezervație, deoarece nu există benzinării în interior.",
+          "Drumurile din rezervație pot fi neasfaltate; conduceți cu prudență.",
+          "Luați un binoclu pentru a observa fauna sălbatică."
+        ],
+        "en": [
+          "Check the opening hours of the visitor center at the nature reserve in advance.",
+          "Fill up your gas tank before entering the reserve, as there are no gas stations inside.",
+          "Roads in the reserve can be unpaved; drive carefully.",
+          "Bring binoculars for wildlife spotting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptkirche & Schandpfahl",
+            "hu": "Főtemplom és Szégyenoszlop",
+            "ro": "Biserica Matrice și Stâlpul Infamiei",
+            "en": "Main Church & Pillory"
+          },
+          "coords": [
+            -7.1676,
+            40.1672
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle und gehen Sie zu den nahegelegenen Denkmälern.",
+            "hu": "Kezdje a napot a központi buszmegállónál, és sétáljon el a közeli emlékművekhez.",
+            "ro": "Începeți ziua la stația centrală de autobuz și mergeți pe jos la monumentele din apropiere.",
+            "en": "Start your day at the central bus stop and walk to the nearby monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Penamacor",
+            "hu": "Penamacori Városi Múzeum",
+            "ro": "Muzeul Municipal din Penamacor",
+            "en": "Municipal Museum of Penamacor"
+          },
+          "coords": [
+            -7.167,
+            40.167
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt Sie zum kulturellen Herzen der Stadt.",
+            "hu": "Egy rövid séta elvezeti a város kulturális szívébe.",
+            "ro": "O scurtă plimbare vă duce în inima culturală a orașului.",
+            "en": "A short walk takes you to the cultural heart of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Penamacor",
+            "hu": "Penamacor vára",
+            "ro": "Castelul din Penamacor",
+            "en": "Castle of Penamacor"
+          },
+          "coords": [
+            -7.17,
+            40.168
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleiner Aufstieg, der mit einer großartigen Aussicht belohnt wird.",
+            "hu": "Egy kis emelkedő, ami nagyszerű kilátással jutalmaz.",
+            "ro": "O mică urcare, recompensată cu priveliști minunate.",
+            "en": "A small climb rewarded with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster des Heiligen Antonius",
+            "hu": "Szent Antal-kolostor",
+            "ro": "Mănăstirea Sfântul Anton",
+            "en": "Convent of Saint Anthony"
+          },
+          "coords": [
+            -7.165,
+            40.165
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um dieses friedliche Kloster am Stadtrand zu erreichen.",
+            "hu": "Menjen helyi busszal, hogy elérje ezt a békés kolostort a város szélén.",
+            "ro": "Luați un autobuz local pentru a ajunge la această mănăstire pașnică de la periferie.",
+            "en": "Take a local bus to reach this peaceful convent on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverside Walk"
+          },
+          "coords": [
+            -7.163,
+            40.164
+          ],
+          "category": "park",
+          "arrive_at": "14:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie nach dem Besuch des Klosters einen kurzen, erfrischenden Spaziergang am Fluss Bazágueda.",
+            "hu": "A kolostor meglátogatása után tegyen egy rövid, frissítő sétát a Bazágueda folyó mentén.",
+            "ro": "După vizitarea mănăstirii, faceți o scurtă plimbare revigorantă de-a lungul râului Bazágueda.",
+            "en": "After visiting the convent, take a short, refreshing walk along the Bazágueda river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busse, um Penamacor zu entdecken. Beginnen Sie im Zentrum und erkunden Sie die historischen Sehenswürdigkeiten zu Fuß. Nach dem Aufstieg zur Burg für eine Panoramaaussicht nehmen Sie den Bus zum ruhigen Kloster Santo António. Ein kurzer Spaziergang am Flussufer bietet einen Moment der Entspannung, bevor Sie mit dem Bus ins Zentrum zurückkehren. Dieser Plan kombiniert die Bequemlichkeit des öffentlichen Nahverkehrs mit der Freude am Entdecken zu Fuß.",
+        "hu": "Használja a helyi buszokat Penamacor felfedezéséhez. Kezdje a központban, és fedezze fel gyalog a történelmi látnivalókat. Miután felmászott a várhoz a panorámás kilátásért, szálljon buszra a csendes Santo António kolostorhoz. Egy rövid séta a folyóparton pihentető pillanatokat kínál, mielőtt busszal visszatérne a központba. Ez a terv ötvözi a tömegközlekedés kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Folosiți autobuzele locale pentru a explora Penamacor. Începeți din centru, explorând reperele istorice pe jos. După ce urcați la castel pentru vederi panoramice, luați autobuzul spre liniștita mănăstire Santo António. O scurtă plimbare pe malul râului oferă un moment de relaxare înainte de a vă întoarce în centru cu autobuzul. Acest plan combină comoditatea transportului public cu bucuria descoperirii pe jos.",
+        "en": "Use the local buses to explore Penamacor. Start in the center, exploring the historic landmarks on foot. After climbing the castle for panoramic views, take a bus to the tranquil Santo António Convent. A short walk along the riverbank offers a moment of relaxation before you catch a bus back to the center. This plan combines the convenience of public transport with the joy of discovery on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranho",
+            "tip": "Eine Wurstspezialität aus Ziegenfleisch, Reis und Minze. Suchen Sie nach Restaurants, die 'comida regional' bewerben."
+          },
+          {
+            "name": "Käse aus Beira Baixa",
+            "tip": "Probieren Sie den berühmten Queijo de Castelo Branco oder Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranho",
+            "tip": "Kecskehúsból, rizsből és mentából készült kolbászkülönlegesség. Keressen 'comida regional'-t hirdető éttermeket."
+          },
+          {
+            "name": "Beira Baixa sajt",
+            "tip": "Kóstolja meg a híres Queijo de Castelo Branco-t vagy a Queijo Amarelo da Beira Baixa-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranho",
+            "tip": "O specialitate de cârnat din carne de capră, orez și mentă. Căutați restaurante care promovează 'comida regional'."
+          },
+          {
+            "name": "Brânză din Beira Baixa",
+            "tip": "Încercați faimoasa Queijo de Castelo Branco sau Queijo Amarelo da Beira Baixa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranho",
+            "tip": "A sausage specialty made from goat meat, rice, and mint. Look for restaurants advertising 'comida regional'."
+          },
+          {
+            "name": "Beira Baixa Cheese",
+            "tip": "Try the famous Queijo de Castelo Branco or Queijo Amarelo da Beira Baixa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Klosters Santo António",
+            "tip": "Ein verborgener, friedlicher Ort, ideal für eine Pause vom Sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Bazágueda",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Plätze am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Santo António kolostor kertje",
+            "tip": "Rejtett, békés hely, ideális egy kis pihenésre a városnézés közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Bazágueda folyó partja",
+            "tip": "A központtól rövid sétára csendes helyeket talál a folyó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii Santo António",
+            "tip": "Un loc ascuns și pașnic, ideal pentru o pauză de la vizitarea obiectivelor turistice.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Bazágueda",
+            "tip": "La o scurtă plimbare de centru, veți găsi locuri liniștite lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of the Convent of Santo António",
+            "tip": "A hidden, peaceful spot, ideal for a break from sightseeing.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Bazágueda River",
+            "tip": "A short walk from the center, you'll find quiet spots by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Suchen Sie nach diesen traditionellen Wolldecken in den örtlichen Kunsthandwerksläden."
+          },
+          {
+            "name": "Städtischer Markt",
+            "tip": "Der beste Ort, um lokale Produkte wie Käse, Wurst und Honig zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Keresse ezeket a hagyományos gyapjútakarókat a helyi kézműves boltokban."
+          },
+          {
+            "name": "Városi piac",
+            "tip": "A legjobb hely helyi termékek, például sajt, kolbász és méz vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Căutați aceste pături tradiționale din lână în magazinele de artizanat locale."
+          },
+          {
+            "name": "Piața Municipală",
+            "tip": "Cel mai bun loc pentru a cumpăra produse locale, cum ar fi brânzeturi, cârnați și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manta de Penamacor",
+            "tip": "Look for these traditional woolen blankets in the local craft shops."
+          },
+          {
+            "name": "Municipal Market",
+            "tip": "The best place to buy local products like cheese, sausages, and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan, da die Frequenzen gering sein können.",
+          "Kaufen Sie die Tickets direkt beim Fahrer oder an einem Kiosk.",
+          "Die meisten Busse sind nicht für Rollstuhlfahrer zugänglich.",
+          "Signalisieren Sie dem Fahrer deutlich, dass Sie an der nächsten Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendről, mivel a járatok ritkák lehetnek.",
+          "A jegyeket közvetlenül a sofőrtől vagy egy kioszkban vásárolja meg.",
+          "A legtöbb busz nem akadálymentesített.",
+          "Jelezze egyértelműen a sofőrnek, ha le szeretne szállni a következő megállónál."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece frecvențele pot fi reduse.",
+          "Cumpărați biletele direct de la șofer sau de la un chioșc.",
+          "Majoritatea autobuzelor nu sunt accesibile pentru scaune cu rotile.",
+          "Semnalizați clar șoferului că doriți să coborâți la următoarea stație."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as frequencies may be low.",
+          "Buy tickets directly from the driver or at a kiosk.",
+          "Most buses are not wheelchair accessible.",
+          "Signal clearly to the driver that you want to get off at the next stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "city_id": "belgium-halle-cities-v2",
+  "anchor": {
+    "name": "Halle",
+    "coords": [
+      4.2372,
+      50.736
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stadhuis (Rathaus)",
+            "hu": "Városháza",
+            "ro": "Primăria (Stadhuis)",
+            "en": "Town Hall (Stadhuis)"
+          },
+          "coords": [
+            4.2361,
+            50.7362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Fassade und beobachten Sie das Markttreiben.",
+            "hu": "Csodálja meg a gótikus homlokzatot és figyelje a piaci nyüzsgést.",
+            "ro": "Admirați fațada gotică și priviți agitația pieței.",
+            "en": "Admire the Gothic facade and watch the market bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Martinusbasiliek",
+            "hu": "Szent Márton-bazilika",
+            "ro": "Bazilica Sfântul Martin",
+            "en": "St. Martin's Basilica"
+          },
+          "coords": [
+            4.2355,
+            50.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie nach der berühmten schwarzen Madonnenstatue.",
+            "hu": "Keresse meg a híres fekete Madonna-szobrot.",
+            "ro": "Căutați faimoasa statuie a Madonei Negre.",
+            "en": "Look for the famous black Madonna statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Malakoffturm",
+            "hu": "Malakoff-torony",
+            "ro": "Turnul Malakoff",
+            "en": "Malakoff Tower"
+          },
+          "coords": [
+            4.238,
+            50.7375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Überbleibsel der alten Stadtmauern, toll für ein schnelles Foto.",
+            "hu": "A régi városfal maradványa, remek egy gyors fotóhoz.",
+            "ro": "O relicvă a vechilor ziduri ale orașului, excelentă pentru o fotografie rapidă.",
+            "en": "A remnant of the old city walls, great for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "den AST - Museum",
+            "hu": "den AST - Múzeum",
+            "ro": "Muzeul den AST",
+            "en": "den AST - Museum"
+          },
+          "coords": [
+            4.2411,
+            50.7382
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zur lokalen Geschichte und Bierbrauerei.",
+            "hu": "Interaktív kiállítások a helyi történelemről és sörfőzésről.",
+            "ro": "Expoziții interactive despre istoria locală și fabricarea berii.",
+            "en": "Interactive exhibits on local history and beer brewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            4.2365,
+            50.736
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales 'Geuze'-Bier zu Ihrem Essen.",
+            "hu": "Kóstoljon meg egy helyi 'Geuze' sört az ebédjéhez.",
+            "ro": "Încercați o bere locală 'Geuze' la masă.",
+            "en": "Try a local 'Geuze' beer with your meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark",
+            "hu": "Warandepark",
+            "ro": "Parcul Warande",
+            "en": "Warande Park"
+          },
+          "coords": [
+            4.239,
+            50.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához.",
+            "ro": "Locul perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "The perfect spot for a relaxing afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Halle beginnt auf dem historischen Grote Markt. Nach dem Besuch der imposanten Basilika entdecken Sie die Überreste der alten Stadtbefestigung. Am Vormittag tauchen Sie im Museum 'den AST' in die lokale Kultur ein. Nach einem herzhaften belgischen Mittagessen verbringen Sie den Nachmittag mit einem entspannten Spaziergang durch den grünen Warandepark. Der Abend klingt gemütlich in einem der vielen Cafés der Stadt aus.",
+        "hu": "A napja Halléban a történelmi Grote Markton kezdődik. Az impozáns bazilika megtekintése után felfedezi a régi városfal maradványait. Délelőtt a 'den AST' múzeumban merül el a helyi kultúrában. Egy kiadós belga ebéd után a délutánt egy pihentető sétával tölti a zöld Warandeparkban. Az estét a város számos kávézójának egyikében zárja.",
+        "ro": "Ziua dvs. în Halle începe în istorica Grote Markt. După vizitarea impunătoarei bazilici, explorați vestigiile vechilor fortificații. Dimineața vă scufundați în cultura locală la muzeul 'den AST'. După un prânz belgian copios, vă petreceți după-amiaza cu o plimbare relaxantă prin Parcul Warande. Seara se încheie plăcut într-una dintre numeroasele cafenele ale orașului.",
+        "en": "Your day in Halle begins at the historic Grote Markt. After visiting the imposing basilica, you'll discover the remnants of the old city fortifications. In the morning, immerse yourself in local culture at the 'den AST' museum. After a hearty Belgian lunch, spend the afternoon with a relaxing walk through the green Warande Park. The evening concludes cozily in one of the city's many cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halse Duivelsbier",
+            "tip": "Ein starkes, dunkles Bier, das direkt in Halle gebraut wird."
+          },
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Probieren Sie eine Brüsseler Waffel mit frischen Erdbeeren und Sahne."
+          },
+          {
+            "name": "Stoemp",
+            "tip": "Ein traditionelles Gericht aus Kartoffelpüree und Gemüse, oft mit Wurst serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halse Duivelsbier",
+            "tip": "Egy erős, sötét sör, amelyet helyben, Halléban főznek."
+          },
+          {
+            "name": "Belga gofri",
+            "tip": "Kóstoljon meg egy brüsszeli gofrit friss eperrel és tejszínhabbal."
+          },
+          {
+            "name": "Stoemp",
+            "tip": "Hagyományos étel krumplipüréből és zöldségekből, gyakran kolbásszal tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halse Duivelsbier",
+            "tip": "O bere neagră, tare, produsă local în Halle."
+          },
+          {
+            "name": "Gofre belgiene",
+            "tip": "Încercați o gofră de Bruxelles cu căpșuni proaspete și frișcă."
+          },
+          {
+            "name": "Stoemp",
+            "tip": "Un fel de mâncare tradițional din piure de cartofi și legume, adesea servit cu cârnați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halse Duivelsbier",
+            "tip": "A strong, dark beer brewed right in Halle."
+          },
+          {
+            "name": "Belgian Waffles",
+            "tip": "Try a Brussels waffle with fresh strawberries and cream."
+          },
+          {
+            "name": "Stoemp",
+            "tip": "A traditional dish of mashed potatoes and vegetables, often served with sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Zenne",
+            "tip": "Ein ruhiger Spaziergang entlang des kleinen Flusses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bänke im Warandepark",
+            "tip": "Finden Sie eine abgeschiedene Bank und genießen Sie die Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Innenhof der Basilika",
+            "tip": "Ein Moment der Stille abseits des Trubels.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Zenne folyó partja",
+            "tip": "Egy csendes séta a kis folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Padok a Warandeparkban",
+            "tip": "Keressen egy félreeső padot és élvezze a természetet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bazilika udvara",
+            "tip": "Egy csendes pillanat a nyüzsgéstől távol.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Zenne",
+            "tip": "O plimbare liniștită de-a lungul micului râu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Băncile din Parcul Warande",
+            "tip": "Găsiți o bancă retrasă și bucurați-vă de natură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea interioară a bazilicii",
+            "tip": "Un moment de liniște departe de agitație.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Zenne River",
+            "tip": "A quiet walk along the small river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Benches in Warande Park",
+            "tip": "Find a secluded bench and enjoy nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Courtyard of the Basilica",
+            "tip": "A moment of silence away from the hustle and bustle.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Donnerstags und samstags auf dem Grote Markt für lokale Produkte."
+          },
+          {
+            "name": "Basiliekstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökön és szombaton a Grote Markton helyi termékekért."
+          },
+          {
+            "name": "Basiliekstraat",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Joia și sâmbăta în Grote Markt pentru produse locale."
+          },
+          {
+            "name": "Basiliekstraat",
+            "tip": "Principala stradă comercială cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Thursdays and Saturdays in the Grote Markt for local produce."
+          },
+          {
+            "name": "Basiliekstraat",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Innenstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für die Basilika ein, sie ist das Highlight der Stadt.",
+          "Nutzen Sie die vielen kleinen Cafés für eine Pause mit belgischem Gebäck."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakövek egyenetlenek lehetnek.",
+          "A központi látnivalók többsége könnyen elérhető gyalog.",
+          "Szánjon elegendő időt a bazilikára, ez a város fénypontja.",
+          "Használja ki a sok kis kávézót egy pihenőre belga süteményekkel."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece pavelele din centrul orașului pot fi denivelate.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru bazilică, este punctul culminant al orașului.",
+          "Profitați de numeroasele cafenele mici pentru o pauză cu produse de patiserie belgiene."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the city center can be uneven.",
+          "Most sights in the center are easily reachable on foot.",
+          "Plan enough time for the basilica, it is the city's highlight.",
+          "Take advantage of the many small cafes for a break with Belgian pastries."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Bahnhof Halle",
+            "hu": "Kerékpárkölcsönzés a hallei állomáson",
+            "ro": "Închiriere de biciclete la gara din Halle",
+            "en": "Bike rental at Halle station"
+          },
+          "coords": [
+            4.231,
+            50.733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Reifen und Bremsen, bevor Sie losfahren.",
+            "hu": "Indulás előtt ellenőrizze a gumikat és a fékeket.",
+            "ro": "Verificați anvelopele și frânele înainte de a porni.",
+            "en": "Check the tires and brakes before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis und Grote Markt",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Grote Markt",
+            "en": "Town Hall and Grote Markt"
+          },
+          "coords": [
+            4.2361,
+            50.7362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, um den Markt zu erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a piacot.",
+            "ro": "Asigurați-vă bicicleta pentru a explora piața.",
+            "en": "Secure your bike safely to explore the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Martinusbasiliek",
+            "hu": "Szent Márton-bazilika",
+            "ro": "Bazilica Sfântul Martin",
+            "en": "St. Martin's Basilica"
+          },
+          "coords": [
+            4.2355,
+            50.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eintritt ist frei, aber eine Spende wird geschätzt.",
+            "hu": "A belépés ingyenes, de az adományokat szívesen fogadják.",
+            "ro": "Intrarea este gratuită, dar se apreciază o donație.",
+            "en": "Admission is free, but a donation is appreciated."
+          }
+        },
+        {
+          "name": {
+            "de": "den AST - Museum",
+            "hu": "den AST - Múzeum",
+            "ro": "Muzeul den AST",
+            "en": "den AST - Museum"
+          },
+          "coords": [
+            4.2411,
+            50.7382
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Planen Sie mindestens eine Stunde für die Hauptausstellungen ein.",
+            "hu": "Szánjon legalább egy órát a fő kiállításokra.",
+            "ro": "Planificați cel puțin o oră pentru expozițiile principale.",
+            "en": "Plan at least an hour for the main exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Kanal",
+            "hu": "Ebéd a csatorna partján",
+            "ro": "Prânz pe malul canalului",
+            "en": "Lunch by the canal"
+          },
+          "coords": [
+            4.228,
+            50.739
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Viele Restaurants hier haben Terrassen mit Blick aufs Wasser.",
+            "hu": "Sok itteni étteremnek van vízre néző terasza.",
+            "ro": "Multe restaurante de aici au terase cu vedere la apă.",
+            "en": "Many restaurants here have terraces overlooking the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Warandepark",
+            "hu": "Warandepark",
+            "ro": "Parcul Warande",
+            "en": "Warande Park"
+          },
+          "coords": [
+            4.239,
+            50.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die Wege entlang oder machen Sie ein Picknick auf dem Rasen.",
+            "hu": "Kerékpározzon az ösvényeken, vagy piknikezzen a füvön.",
+            "ro": "Plimbați-vă cu bicicleta pe alei sau faceți un picnic pe iarbă.",
+            "en": "Ride along the paths or have a picnic on the lawn."
+          }
+        },
+        {
+          "name": {
+            "de": "Paterskerk Kulturzentrum",
+            "hu": "Paterskerk Kulturális Központ",
+            "ro": "Centrul Cultural Paterskerk",
+            "en": "Paterskerk Cultural Centre"
+          },
+          "coords": [
+            4.232,
+            50.737
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm, vielleicht gibt es eine interessante Ausstellung.",
+            "hu": "Nézze meg a programot, hátha van egy érdekes kiállítás.",
+            "ro": "Verificați programul, poate există o expoziție interesantă.",
+            "en": "Check the program, there might be an interesting exhibition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Bahnhof Halle mit Ihrem Leihrad. Die erste Etappe führt Sie ins Herz der Stadt zum Grote Markt und zur Basilika. Weiter geht es zum Museum 'den AST'. Nach einem Mittagessen am malerischen Kanal radeln Sie zum weitläufigen Warandepark für eine grüne Pause. Der Nachmittag wird mit einem Besuch im Kulturzentrum Paterskerk abgerundet, bevor Sie das Fahrrad zurückgeben.",
+        "hu": "Induljon a hallei állomásról a bérelt kerékpárjával. Az első szakasz a város szívébe, a Grote Marktra és a bazilikához vezet. Tovább halad a 'den AST' múzeum felé. Egy festői csatorna menti ebéd után a tágas Warandeparkba teker, egy zöld szünetre. A délutánt a Paterskerk Kulturális Központ meglátogatásával zárja, mielőtt visszaadná a kerékpárt.",
+        "ro": "Începeți de la gara din Halle cu bicicleta închiriată. Prima etapă vă duce în inima orașului, la Grote Markt și la bazilică. Continuați spre muzeul 'den AST'. După un prânz pe malul pitorescului canal, pedalați spre vastul Parc Warande pentru o pauză verde. După-amiaza se încheie cu o vizită la Centrul Cultural Paterskerk înainte de a returna bicicleta.",
+        "en": "Start from Halle station with your rental bike. The first leg takes you to the heart of the city, Grote Markt, and the basilica. Continue to the 'den AST' museum. After lunch by the picturesque canal, you'll cycle to the spacious Warande Park for a green break. The afternoon is rounded off with a visit to the Paterskerk Cultural Centre before returning the bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geuze Lambic",
+            "tip": "Ein Muss für Bierliebhaber, ein spontan vergorenes Bier aus der Region."
+          },
+          {
+            "name": "Frites (Pommes)",
+            "tip": "Holen Sie sich eine Tüte von einer lokalen 'Frituur' mit einer Sauce Ihrer Wahl."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "Ein süßer Käsekuchen, eine Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geuze Lambic",
+            "tip": "Kötelező a sörkedvelőknek, egy spontán erjesztésű sör a régióból."
+          },
+          {
+            "name": "Frites (hasábburgonya)",
+            "tip": "Vegyen egy zacskóval egy helyi 'Frituur'-ból, választható szósszal."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "Édes túrós sütemény, a régió specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Geuze Lambic",
+            "tip": "O necesitate pentru iubitorii de bere, o bere fermentată spontan din regiune."
+          },
+          {
+            "name": "Frites (cartofi prăjiți)",
+            "tip": "Luați un cornet de la o 'Frituur' locală cu un sos la alegere."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "O plăcintă dulce cu brânză, o specialitate a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Geuze Lambic",
+            "tip": "A must-try for beer lovers, a spontaneously fermented beer from the region."
+          },
+          {
+            "name": "Frites (Fries)",
+            "tip": "Get a cone from a local 'Frituur' with a sauce of your choice."
+          },
+          {
+            "name": "Mattentaart",
+            "tip": "A sweet cheese tart, a specialty of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Kanal Brüssel-Charleroi",
+            "tip": "Ruhige, flache Strecke ideal für eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Stiltezone im Warandepark",
+            "tip": "Ein ausgewiesener ruhiger Bereich im Park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen am Grote Markt",
+            "tip": "Erleben Sie den Platz, bevor die Geschäfte öffnen und der Trubel beginnt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brüsszel-Charleroi csatorna kerékpárút",
+            "tip": "Csendes, sík szakasz, ideális egy pihentető tekeréshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Csendes zóna a Warandeparkban",
+            "tip": "Kijelölt csendes terület a parkban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel a Grote Markton",
+            "tip": "Tapasztalja meg a teret, mielőtt a boltok kinyitnak és a nyüzsgés elkezdődik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul canalului Bruxelles-Charleroi",
+            "tip": "Un traseu liniștit și plat, ideal pentru o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Zona de liniște în Parcul Warande",
+            "tip": "O zonă desemnată liniștită în parc.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Grote Markt",
+            "tip": "Experimentați piața înainte de deschiderea magazinelor și de începerea agitației.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Brussels-Charleroi Canal",
+            "tip": "A quiet, flat route ideal for a relaxing ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Quiet zone in Warande Park",
+            "tip": "A designated quiet area within the park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning at Grote Markt",
+            "tip": "Experience the square before the shops open and the bustle begins.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Brauereien",
+            "tip": "Kaufen Sie einzigartige Biere direkt vom Erzeuger."
+          },
+          {
+            "name": "Chocolatiers",
+            "tip": "Handgemachte Pralinen sind das perfekte Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sörfőzdék",
+            "tip": "Vásároljon egyedi söröket közvetlenül a termelőtől."
+          },
+          {
+            "name": "Csokoládéboltok",
+            "tip": "A kézzel készített pralinék tökéletes ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrici de bere locale",
+            "tip": "Cumpărați beri unice direct de la producător."
+          },
+          {
+            "name": "Ciocolaterii",
+            "tip": "Pralinele artizanale sunt suvenirul perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Breweries",
+            "tip": "Buy unique beers directly from the producer."
+          },
+          {
+            "name": "Chocolatiers",
+            "tip": "Handmade pralines are the perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Einbahnstraßen in der Innenstadt, achten Sie auf die Beschilderung.",
+          "Nutzen Sie die Fahrradwege entlang des Kanals für eine sichere Fahrt aus der Stadt heraus.",
+          "Schließen Sie Ihr Fahrrad immer gut an, besonders an belebten Orten.",
+          "Eine Fahrradklingel ist nützlich, um Fußgänger auf sich aufmerksam zu machen."
+        ],
+        "hu": [
+          "Sok egyirányú utca van a belvárosban, figyeljen a táblákra.",
+          "Használja a csatorna menti kerékpárutakat a városból való biztonságos kijutáshoz.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken.",
+          "A kerékpárcsengő hasznos a gyalogosok figyelmeztetésére."
+        ],
+        "ro": [
+          "Multe străzi cu sens unic în centrul orașului, fiți atenți la semnalizare.",
+          "Folosiți pistele de biciclete de-a lungul canalului pentru o ieșire sigură din oraș.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Un claxon de bicicletă este util pentru a avertiza pietonii."
+        ],
+        "en": [
+          "Many one-way streets in the city center, pay attention to the signs.",
+          "Use the cycle paths along the canal for a safe ride out of the city.",
+          "Always lock your bike securely, especially in busy places.",
+          "A bike bell is useful to alert pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 19.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Hallerbos & Parken",
+            "hu": "Utazás a Hallerboshoz és parkolás",
+            "ro": "Conduceți spre Hallerbos și parcați",
+            "en": "Drive to Hallerbos & Park"
+          },
+          "coords": [
+            4.28,
+            50.71
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wald im Frühling (April-Mai), um die berühmten blauen Glockenblumen zu sehen.",
+            "hu": "Látogasson el az erdőbe tavasszal (április-május), hogy láthassa a híres kék harangvirágokat.",
+            "ro": "Vizitați pădurea primăvara (aprilie-mai) pentru a vedea faimoșii zambile sălbatice.",
+            "en": "Visit the forest in spring (April-May) to see the famous bluebells."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch den Blütenteppich",
+            "hu": "Séta a virágszőnyegen",
+            "ro": "Plimbare pe covorul de flori",
+            "en": "Walk through the flower carpet"
+          },
+          "coords": [
+            4.282,
+            50.712
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bleiben Sie auf den Wegen, um die empfindlichen Pflanzen zu schützen.",
+            "hu": "Maradjon az ösvényeken, hogy megvédje az érzékeny növényeket.",
+            "ro": "Rămâneți pe poteci pentru a proteja plantele delicate.",
+            "en": "Stay on the paths to protect the delicate plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Zentrum von Halle & Parken",
+            "hu": "Utazás Halle központjába és parkolás",
+            "ro": "Conduceți spre centrul Halle și parcați",
+            "en": "Drive to Halle center & Park"
+          },
+          "coords": [
+            4.237,
+            50.735
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie eine der Tiefgaragen am Rande des Zentrums. Suchen Sie sich ein Restaurant für das Mittagessen.",
+            "hu": "Használja a központ szélén található mélygarázsok egyikét. Keressen egy éttermet az ebédhez.",
+            "ro": "Folosiți una dintre parcările subterane de la marginea centrului. Găsiți un restaurant pentru prânz.",
+            "en": "Use one of the underground car parks on the edge of the center. Find a restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Martinusbasiliek",
+            "hu": "Szent Márton-bazilika",
+            "ro": "Bazilica Sfântul Martin",
+            "en": "St. Martin's Basilica"
+          },
+          "coords": [
+            4.2355,
+            50.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Schatzkammer birgt beeindruckende religiöse Kunstwerke.",
+            "hu": "A kincstár lenyűgöző vallási műalkotásokat rejt.",
+            "ro": "Tezaurul adăpostește opere de artă religioasă impresionante.",
+            "en": "The treasury holds impressive religious artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadhuis & Grote Markt",
+            "hu": "Városháza és Fő tér",
+            "ro": "Primăria și Grote Markt",
+            "en": "Town Hall & Grote Markt"
+          },
+          "coords": [
+            4.2361,
+            50.7362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der Cafés am Platz.",
+            "hu": "Igyon meg egy kávét a téren található egyik kávézóban.",
+            "ro": "Bucurați-vă de o cafea la una dintre cafenelele din piață.",
+            "en": "Enjoy a coffee at one of the cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Warandepark",
+            "hu": "Utazás a Warandeparkhoz",
+            "ro": "Conduceți spre Parcul Warande",
+            "en": "Drive to Warande Park"
+          },
+          "coords": [
+            4.239,
+            50.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages im Grünen.",
+            "hu": "A nap pihentető lezárása a zöldben.",
+            "ro": "O încheiere relaxantă a zilei în mijlocul naturii.",
+            "en": "A relaxing end to the day in the green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit dem Highlight der Region: dem Hallerbos. Verbringen Sie den Vormittag im zauberhaften 'Blauen Wald'. Danach fahren Sie ins Zentrum von Halle, parken Ihr Auto und genießen ein Mittagessen. Der Nachmittag gehört dem historischen Kern: Sie spazieren von der Basilika über den Grote Markt. Zum Abschluss fahren Sie zum Warandepark, um den Tag entspannt ausklingen zu lassen, bevor Sie die Heimreise antreten.",
+        "hu": "Az autós napja a régió fénypontjával kezdődik: a Hallerbos-szal. Töltse a délelőttöt a varázslatos 'Kék Erdőben'. Ezután Halle központjába hajt, leparkolja az autóját és elfogyaszt egy ebédet. A délután a történelmi magé: a bazilikától a Grote Markton át sétál. Végül a Warandeparkba hajt, hogy pihentetően zárja a napot, mielőtt hazaindulna.",
+        "ro": "Ziua dvs. cu mașina începe cu punctul culminant al regiunii: Hallerbos. Petreceți dimineața în magica 'Pădure Albastră'. Apoi conduceți spre centrul orașului Halle, parcați mașina și luați prânzul. După-amiaza este dedicată centrului istoric: vă plimbați de la bazilică prin Grote Markt. La final, conduceți spre Parcul Warande pentru a încheia ziua într-un mod relaxant înainte de a vă întoarce acasă.",
+        "en": "Your car day begins with the region's highlight: the Hallerbos. Spend the morning in the magical 'Blue Forest'. Afterwards, drive to the center of Halle, park your car, and enjoy lunch. The afternoon is for the historic core: you'll stroll from the basilica across the Grote Markt. To finish, drive to Warande Park to end the day in a relaxed manner before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Hallerbos",
+            "tip": "Packen Sie einen Korb mit lokalen Spezialitäten für ein Mittagessen in der Natur."
+          },
+          {
+            "name": "Restaurant auf dem Grote Markt",
+            "tip": "Wählen Sie eines der vielen Restaurants mit Blick auf das Rathaus."
+          },
+          {
+            "name": "Halse Kroon-Pralinen",
+            "tip": "Eine lokale Schokoladenspezialität, perfekt als süßer Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Hallerbosban",
+            "tip": "Csomagoljon egy kosarat helyi specialitásokkal egy természetbeni ebédhez."
+          },
+          {
+            "name": "Étterem a Grote Markton",
+            "tip": "Válasszon a sok, városházára néző étterem közül."
+          },
+          {
+            "name": "Halse Kroon praliné",
+            "tip": "Helyi csokoládé-különlegesség, tökéletes édes lezárásként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Hallerbos",
+            "tip": "Împachetați un coș cu specialități locale pentru un prânz în natură."
+          },
+          {
+            "name": "Restaurant în Grote Markt",
+            "tip": "Alegeți unul dintre multele restaurante cu vedere la primărie."
+          },
+          {
+            "name": "Praline Halse Kroon",
+            "tip": "O specialitate locală de ciocolată, perfectă ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in Hallerbos",
+            "tip": "Pack a basket with local specialties for lunch in nature."
+          },
+          {
+            "name": "Restaurant on the Grote Markt",
+            "tip": "Choose one of the many restaurants with a view of the town hall."
+          },
+          {
+            "name": "Halse Kroon Pralines",
+            "tip": "A local chocolate specialty, perfect for a sweet finish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hallerbos am frühen Morgen",
+            "tip": "Seien Sie vor den Menschenmassen da und genießen Sie die Stille des Waldes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Dommel",
+            "tip": "Ein kleines Naturschutzgebiet in der Nähe, ideal für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Abendstimmung im Warandepark",
+            "tip": "Wenn die meisten Besucher gegangen sind, kehrt hier eine besondere Ruhe ein.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hallerbos kora reggel",
+            "tip": "Érkezzen a tömeg előtt, és élvezze az erdő csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Dommel",
+            "tip": "Egy kis természetvédelmi terület a közelben, ideális egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Esti hangulat a Warandeparkban",
+            "tip": "Amikor a legtöbb látogató elment, különleges nyugalom száll a parkra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hallerbos dimineața devreme",
+            "tip": "Ajungeți înaintea mulțimilor și bucurați-vă de liniștea pădurii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Dommel",
+            "tip": "O mică rezervație naturală în apropiere, ideală pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Atmosfera de seară în Parcul Warande",
+            "tip": "Când majoritatea vizitatorilor au plecat, aici se instalează o liniște specială.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hallerbos in the early morning",
+            "tip": "Be there before the crowds and enjoy the silence of the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Den Dommel",
+            "tip": "A small nature reserve nearby, ideal for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Evening atmosphere in Warande Park",
+            "tip": "When most visitors have left, a special peace settles here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden rund um Halle",
+            "tip": "Kaufen Sie frisches Obst, Gemüse und Käse direkt vom Bauernhof."
+          },
+          {
+            "name": "Hallerbos Souvenirs",
+            "tip": "Im Besucherzentrum finden Sie kleine Andenken an den 'Blauen Wald'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok Halle környékén",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget és sajtot közvetlenül a gazdaságból."
+          },
+          {
+            "name": "Hallerbos ajándéktárgyak",
+            "tip": "A látogatóközpontban kis emléktárgyakat talál a 'Kék Erdőről'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în jurul Halle",
+            "tip": "Cumpărați fructe proaspete, legume și brânză direct de la fermă."
+          },
+          {
+            "name": "Suveniruri Hallerbos",
+            "tip": "La centrul de vizitatori veți găsi mici suveniruri din 'Pădurea Albastră'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops around Halle",
+            "tip": "Buy fresh fruit, vegetables, and cheese directly from the farm."
+          },
+          {
+            "name": "Hallerbos Souvenirs",
+            "tip": "At the visitor center, you will find small souvenirs of the 'Blue Forest'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus online.",
+          "Die Straßen im Zentrum von Halle sind eng, fahren Sie vorsichtig.",
+          "Ein GPS ist unerlässlich, um sich zwischen dem Wald und der Stadt zurechtzufinden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen, besonders nicht auf Wanderparkplätzen."
+        ],
+        "hu": [
+          "Előzetesen online ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Halle központjának utcái szűkek, vezessen óvatosan.",
+          "A GPS elengedhetetlen az erdő és a város közötti tájékozódáshoz.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban, különösen a túraparkolókban."
+        ],
+        "ro": [
+          "Verificați online în avans opțiunile de parcare și taxele.",
+          "Străzile din centrul orașului Halle sunt înguste, conduceți cu prudență.",
+          "Un GPS este esențial pentru a naviga între pădure și oraș.",
+          "Nu lăsați obiecte de valoare la vedere în mașină, mai ales în parcările pentru drumeții."
+        ],
+        "en": [
+          "Check parking options and fees online in advance.",
+          "The streets in the center of Halle are narrow, drive carefully.",
+          "A GPS is essential for navigating between the forest and the city.",
+          "Do not leave valuables visible in the car, especially in hiking parking lots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Halle",
+            "hu": "Érkezés a hallei állomásra",
+            "ro": "Sosire la gara din Halle",
+            "en": "Arrival at Halle station"
+          },
+          "coords": [
+            4.231,
+            50.733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+            "hu": "Vásároljon napijegyet a buszra, ha több utat tervez.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+            "en": "Buy a day ticket for the bus if you plan multiple trips."
+          }
+        },
+        {
+          "name": {
+            "de": "Paterskerk",
+            "hu": "Paterskerk",
+            "ro": "Paterskerk",
+            "en": "Paterskerk"
+          },
+          "coords": [
+            4.232,
+            50.737
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese ehemalige Kirche ist heute ein lebendiges Kulturzentrum.",
+            "hu": "Ez a volt templom ma egy élettel teli kulturális központ.",
+            "ro": "Această fostă biserică este acum un centru cultural vibrant.",
+            "en": "This former church is now a vibrant cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Grote Markt",
+            "hu": "Buszozás a Grote Marktra",
+            "ro": "Călătorie cu autobuzul spre Grote Markt",
+            "en": "Bus ride to Grote Markt"
+          },
+          "coords": [
+            4.2361,
+            50.7362
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Halle Centrum' aus.",
+            "hu": "Szálljon le a 'Halle Centrum' megállónál.",
+            "ro": "Coborâți la stația 'Halle Centrum'.",
+            "en": "Get off at the 'Halle Centrum' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Martinusbasiliek",
+            "hu": "Szent Márton-bazilika",
+            "ro": "Bazilica Sfântul Martin",
+            "en": "St. Martin's Basilica"
+          },
+          "coords": [
+            4.2355,
+            50.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die beeindruckenden Glasfenster zu betrachten.",
+            "hu": "Szánjon időt a lenyűgöző ólomüveg ablakok megtekintésére.",
+            "ro": "Luați-vă timp pentru a admira vitraliile impresionante.",
+            "en": "Take time to admire the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang zum Museum den AST",
+            "hu": "Ebéd és séta a den AST múzeumhoz",
+            "ro": "Prânz și plimbare la muzeul den AST",
+            "en": "Lunch and walk to den AST museum"
+          },
+          "coords": [
+            4.2411,
+            50.7382
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Weg mit einem Mittagessen in einem der Restaurants auf dem Weg.",
+            "hu": "Kombinálja az utat egy ebéddel az útközben található éttermek egyikében.",
+            "ro": "Combinați plimbarea cu un prânz la unul dintre restaurantele de pe drum.",
+            "en": "Combine the walk with lunch at one of the restaurants along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Warandepark",
+            "hu": "Buszozás a Warandeparkba",
+            "ro": "Călătorie cu autobuzul la Parcul Warande",
+            "en": "Bus ride to Warande Park"
+          },
+          "coords": [
+            4.239,
+            50.732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Park ist der ideale Ort, um sich von der Stadtbesichtigung zu erholen.",
+            "hu": "A park ideális hely a városnézés utáni pihenésre.",
+            "ro": "Parcul este locul ideal pentru a vă relaxa după vizitarea orașului.",
+            "en": "The park is the ideal place to relax after sightseeing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Bahnhof von Halle. Von hier aus ist es nur ein kurzer Spaziergang zum Kulturzentrum Paterskerk. Danach nehmen Sie den Bus ins Zentrum, um den Grote Markt und die prächtige Basilika zu erkunden. Nach einem stärkenden Mittagessen spazieren Sie zum Museum 'den AST'. Den Abschluss des Tages bildet eine Busfahrt zum Warandepark, wo Sie die Natur genießen können, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Kezdje a napot a hallei állomáson. Innen csak egy rövid séta a Paterskerk kulturális központ. Ezután busszal utazik a központba, hogy felfedezze a Grote Marktot és a csodálatos bazilikát. Egy kiadós ebéd után elsétál a 'den AST' múzeumba. A napot egy buszos utazás zárja a Warandeparkba, ahol élvezheti a természetet, mielőtt visszatérne az állomásra.",
+        "ro": "Începeți ziua la gara din Halle. De aici, este doar o scurtă plimbare până la Centrul Cultural Paterskerk. Apoi luați autobuzul spre centru pentru a explora Grote Markt și magnifica bazilică. După un prânz copios, mergeți pe jos la muzeul 'den AST'. Ziua se încheie cu o călătorie cu autobuzul la Parcul Warande, unde vă puteți bucura de natură înainte de a vă întoarce la gară.",
+        "en": "Start your day at Halle station. From here, it's just a short walk to the Paterskerk Cultural Centre. Then take the bus to the center to explore the Grote Markt and the magnificent basilica. After a hearty lunch, walk to the 'den AST' museum. The day concludes with a bus ride to Warande Park, where you can enjoy nature before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwichbar in Bahnhofsnähe",
+            "tip": "Ein schneller und leckerer Start in den Tag."
+          },
+          {
+            "name": "Bäckerei am Grote Markt",
+            "tip": "Probieren Sie ein 'Mattentaartje', eine lokale Spezialität."
+          },
+          {
+            "name": "Brasserie mit Tagesmenü",
+            "tip": "Viele Restaurants bieten mittags günstige und gute Menüs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsbár az állomás közelében",
+            "tip": "Gyors és finom kezdése a napnak."
+          },
+          {
+            "name": "Pékség a Grote Markton",
+            "tip": "Kóstoljon meg egy 'Mattentaartje'-t, egy helyi különlegességet."
+          },
+          {
+            "name": "Brasserie napi menüvel",
+            "tip": "Sok étterem kínál délben olcsó és jó menüt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich bar lângă gară",
+            "tip": "Un început rapid și gustos al zilei."
+          },
+          {
+            "name": "Brutărie în Grote Markt",
+            "tip": "Încercați un 'Mattentaartje', o specialitate locală."
+          },
+          {
+            "name": "Braserie cu meniul zilei",
+            "tip": "Multe restaurante oferă meniuri bune și ieftine la prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwich bar near the station",
+            "tip": "A quick and tasty start to the day."
+          },
+          {
+            "name": "Bakery on the Grote Markt",
+            "tip": "Try a 'Mattentaartje', a local specialty."
+          },
+          {
+            "name": "Brasserie with a daily menu",
+            "tip": "Many restaurants offer affordable and good menus at lunchtime."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Sint-Rochuspark",
+            "tip": "Ein kleinerer, ruhigerer Park abseits der Hauptrouten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Ein Ort der Stille, um durch Bücher zu schmökern.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Spaziergang entlang der Zenne",
+            "tip": "Der Fluss bietet eine beruhigende Kulisse für einen kurzen Spaziergang.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Sint-Rochusparkban",
+            "tip": "Egy kisebb, csendesebb park a fő útvonalaktól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Olvasósarok a városi könyvtárban",
+            "tip": "A csend helye, ahol könyveket lapozgathat.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Séta a Zenne folyó mentén",
+            "tip": "A folyó nyugtató hátteret biztosít egy rövid sétához.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Sint-Rochus",
+            "tip": "Un parc mai mic și mai liniștit, departe de rutele principale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Colțul de lectură din biblioteca orașului",
+            "tip": "Un loc de liniște pentru a răsfoi cărți.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Zenne",
+            "tip": "Râul oferă un fundal liniștitor pentru o scurtă plimbare.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Sint-Rochus Park",
+            "tip": "A smaller, quieter park away from the main routes.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Reading corner in the city library",
+            "tip": "A place of silence to browse through books.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Walk along the Zenne river",
+            "tip": "The river provides a calming backdrop for a short walk.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Vondelstraat",
+            "tip": "Entdecken Sie unabhängige Läden und Boutiquen."
+          },
+          {
+            "name": "Pralinen von 'Neuhaus'",
+            "tip": "Obwohl eine Kette, sind sie eine belgische Institution und am Bahnhof erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Vondelstraaton",
+            "tip": "Fedezze fel a független üzleteket és butikokat."
+          },
+          {
+            "name": "Pralinék a 'Neuhaus'-tól",
+            "tip": "Bár lánc, de belga intézmény, és kapható az állomáson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe Vondelstraat",
+            "tip": "Descoperiți magazine și buticuri independente."
+          },
+          {
+            "name": "Praline de la 'Neuhaus'",
+            "tip": "Deși este un lanț, este o instituție belgiană și este disponibil la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Vondelstraat",
+            "tip": "Discover independent shops and boutiques."
+          },
+          {
+            "name": "Pralines from 'Neuhaus'",
+            "tip": "Although a chain, it's a Belgian institution and available at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Verkehrsunternehmens 'De Lijn' für Fahrpläne in Echtzeit herunter.",
+          "Geben Sie dem Busfahrer ein Zeichen, wenn Sie möchten, dass er anhält.",
+          "Eine Powerbank für Ihr Smartphone ist nützlich für die Navigation und Fahrplanabfragen.",
+          "Die meisten Busse sind barrierefrei zugänglich."
+        ],
+        "hu": [
+          "Töltse le a helyi közlekedési vállalat, a 'De Lijn' alkalmazását a valós idejű menetrendekért.",
+          "Jelezzen a buszsofőrnek, ha azt szeretné, hogy megálljon.",
+          "Egy powerbank a telefonjához hasznos a navigációhoz és a menetrend-lekérdezésekhez.",
+          "A legtöbb busz akadálymentesített."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de transport 'De Lijn' pentru orare în timp real.",
+          "Faceți semn șoferului de autobuz dacă doriți să oprească.",
+          "O baterie externă pentru smartphone-ul dvs. este utilă pentru navigație și verificarea orarelor.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități."
+        ],
+        "en": [
+          "Download the app of the local transport company 'De Lijn' for real-time schedules.",
+          "Signal the bus driver if you want them to stop.",
+          "A power bank for your smartphone is useful for navigation and schedule queries.",
+          "Most buses are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1212 @@
+{
+  "city_id": "belgium-seraing-cities-v2",
+  "anchor": {
+    "name": "Seraing",
+    "coords": [
+      5.5088,
+      50.5966
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Kuborn",
+            "hu": "Kuborn tér",
+            "ro": "Piața Kuborn",
+            "en": "Place Kuborn"
+          },
+          "coords": [
+            5.509,
+            50.597
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der lokalen Cafés.",
+            "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
+            "en": "Start your day with a coffee at one of the local cafés."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Lambert",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Saint-Lambert",
+            "en": "Saint Lambert's Church"
+          },
+          "coords": [
+            5.5105,
+            50.5955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neugotischen Architekturelemente.",
+            "hu": "Figyelje meg a neogótikus építészeti elemeket.",
+            "ro": "Observați elementele arhitecturale neo-gotice.",
+            "en": "Pay attention to the neo-Gothic architectural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cockerill",
+            "hu": "Cockerill-kastély",
+            "ro": "Castelul Cockerill",
+            "en": "Cockerill Castle"
+          },
+          "coords": [
+            5.515,
+            50.598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Schloss ist heute das Rathaus, bewundern Sie die Fassade.",
+            "hu": "A kastély ma a városháza, csodálja meg a homlokzatát.",
+            "ro": "Castelul este acum primăria, admirați fațada.",
+            "en": "The castle is now the town hall; admire its façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Ufer der Maas",
+            "hu": "Ebéd a Maas folyó partján",
+            "ro": "Prânz pe malul râului Meuse",
+            "en": "Lunch by the Meuse River"
+          },
+          "coords": [
+            5.52,
+            50.601
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie eine lokale Brasserie mit Blick auf den Fluss.",
+            "hu": "Próbáljon ki egy helyi brasserie-t kilátással a folyóra.",
+            "ro": "Încercați o braserie locală cu vedere la râu.",
+            "en": "Try a local brasserie with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Viadukt von Seraing",
+            "hu": "Séta a Seraing-i viadukthoz",
+            "ro": "Plimbare la Viaductul din Seraing",
+            "en": "Walk to the Seraing Viaduct"
+          },
+          "coords": [
+            5.525,
+            50.605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Industriearchitektur der Stadt.",
+            "hu": "Élvezze a kilátást a város ipari építészetére.",
+            "ro": "Bucurați-vă de priveliștea arhitecturii industriale a orașului.",
+            "en": "Enjoy the view of the city's industrial architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Seraing beginnt am belebten Place Kuborn, dem Herzen der Stadt. Am Vormittag erkunden Sie das historische Zentrum, besuchen die neugotische Kirche Saint-Lambert und bewundern das beeindruckende Schloss Cockerill, ein Symbol der industriellen Vergangenheit. Der Mittag bietet eine entspannte Pause in einer Brasserie am Ufer der Maas, wo Sie lokale Spezialitäten genießen können. Am Nachmittag führt Sie ein Spaziergang entlang des Flusses zum monumentalen Viadukt von Seraing, einem Zeugnis der Ingenieurskunst. Der Tag endet mit einem gemütlichen Rückweg ins Zentrum, erfüllt von den Kontrasten zwischen Geschichte und Industrie.",
+        "hu": "Sétája Seraingban a nyüzsgő Place Kuborn téren, a város szívében kezdődik. A délelőtt folyamán felfedezi a történelmi központot, meglátogatja a neogótikus Szent Lambert-templomot, és megcsodálja a lenyűgöző Cockerill-kastélyt, az ipari múlt szimbólumát. Délben egy pihentető szünetet tarthat a Maas folyó partján egy brasserie-ben, ahol helyi specialitásokat kóstolhat. Délután a folyó mentén a monumentális Seraing-i viadukthoz sétálhat, amely a mérnöki tudás tanúja. A nap a központba való kényelmes visszasétálással zárul, tele a történelem és az ipar kontrasztjaival.",
+        "ro": "Plimbarea dumneavoastră prin Seraing începe în vibranta Piață Kuborn, inima orașului. Dimineața explorați centrul istoric, vizitând biserica neogotică Saint-Lambert și admirând impunătorul Castel Cockerill, un simbol al trecutului industrial. Prânzul oferă o pauză relaxantă la o braserie pe malul râului Meuse, unde puteți savura specialități locale. După-amiaza, o plimbare de-a lungul râului vă duce la monumentalul Viaduct din Seraing, o mărturie a ingineriei. Ziua se încheie cu o plimbare lejeră înapoi spre centru, plină de contrastele dintre istorie și industrie.",
+        "en": "Your walking tour of Seraing begins at the bustling Place Kuborn, the heart of the city. The morning is for exploring the historical center, visiting the neo-Gothic Saint Lambert's Church, and admiring the impressive Cockerill Castle, a symbol of the industrial past. Midday offers a relaxing break at a brasserie on the banks of the Meuse river, where you can enjoy local specialties. In the afternoon, a walk along the river takes you to the monumental Seraing Viaduct, a testament to engineering. The day concludes with a leisurely stroll back to the center, filled with the contrasts of history and industry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Herzhafte Fleischbällchen in einer süß-sauren Sauce, ein Muss in der Region Lüttich."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Eine dichte, karamellisierte Waffel, perfekt als süßer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Kiadós húsgombócok édes-savanyú mártásban, kötelező Liège régióban."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "Tömör, karamellizált gofri, tökéletes édes snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Chiftele consistente într-un sos dulce-acrișor, o specialitate obligatorie în regiunea Liège."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "O vafă densă, caramelizată, perfectă ca o gustare dulce pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Hearty meatballs in a sweet and sour sauce, a must-try in the Liège region."
+          },
+          {
+            "name": "Gaufre de Liège",
+            "tip": "A dense, caramelized waffle, perfect as a sweet snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Maas",
+            "tip": "Finden Sie eine Bank am Flussufer für einen ruhigen Moment abseits des städtischen Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der Kirche Saint-Lambert",
+            "tip": "Die Stille im Inneren der Kirche bietet eine friedliche Zuflucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Maas folyó partja",
+            "tip": "Keressen egy padot a folyóparton egy csendes pillanatra a városi nyüzsgéstől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szent Lambert-templom belseje",
+            "tip": "A templom belsejének csendje békés menedéket nyújt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Meuse",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment de liniște departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Saint-Lambert",
+            "tip": "Liniștea din interiorul bisericii oferă un refugiu pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Meuse River",
+            "tip": "Find a bench on the riverbank for a quiet moment away from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside Saint Lambert's Church",
+            "tip": "The silence inside the church offers a peaceful refuge.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Besuchen Sie den Wochenmarkt auf dem Place Kuborn (falls Markttag ist) für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Látogasson el a Place Kuborn heti piacára (ha piacnap van) helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Vizitați piața săptămânală din Piața Kuborn (dacă este zi de piață) pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Check out the weekly market at Place Kuborn (if it's market day) for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Prüfen Sie die Öffnungszeiten, da einige Orte mittags schließen könnten.",
+          "Halten Sie Ausschau nach kleinen Details in der Architektur, die die industrielle Geschichte der Stadt widerspiegeln."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely délben bezárhat.",
+          "Figyeljen az építészet apró részleteire, amelyek a város ipari történelmét tükrözik."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe picioare toată ziua.",
+          "Verificați programul de funcționare, deoarece unele locații s-ar putea închide la prânz.",
+          "Fiți atenți la micile detalii din arhitectură care reflectă istoria industrială a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check opening hours, as some places might close for lunch.",
+          "Look for small architectural details that reflect the city's industrial history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 19.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Kuborn",
+            "hu": "Kuborn tér",
+            "ro": "Piața Kuborn",
+            "en": "Place Kuborn"
+          },
+          "coords": [
+            5.509,
+            50.597
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt, um sich mit dem Fahrrad vertraut zu machen.",
+            "hu": "Tökéletes kiindulópont a kerékpárral való ismerkedéshez.",
+            "ro": "Punct de plecare perfect pentru a vă familiariza cu bicicleta.",
+            "en": "A perfect starting point to get acquainted with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cockerill",
+            "hu": "Cockerill-kastély",
+            "ro": "Castelul Cockerill",
+            "en": "Cockerill Castle"
+          },
+          "coords": [
+            5.515,
+            50.598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:36",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die Umgebung des Rathauses.",
+            "hu": "Zárja le biztonságosan a kerékpárt, és fedezze fel a városháza környékét.",
+            "ro": "Asigurați-vă bicicleta și explorați zona din jurul primăriei.",
+            "en": "Lock your bike securely and explore the area around the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Seraing",
+            "hu": "Seraing-i viadukt",
+            "ro": "Viaductul din Seraing",
+            "en": "Seraing Viaduct"
+          },
+          "coords": [
+            5.525,
+            50.605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine gute Gelegenheit, die Maas zu überqueren und die Aussicht zu genießen.",
+            "hu": "Jó alkalom a Maas folyón való átkelésre és a kilátás élvezetére.",
+            "ro": "O oportunitate bună de a traversa râul Meuse și de a vă bucura de priveliște.",
+            "en": "A good opportunity to cross the Meuse and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Val Saint Lambert",
+            "hu": "Val Saint Lambert kastély",
+            "ro": "Castelul Val Saint Lambert",
+            "en": "Val Saint Lambert Castle"
+          },
+          "coords": [
+            5.49,
+            50.59
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:34",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Kristallmanufaktur und das Museum ein.",
+            "hu": "Szánjon elegendő időt a kristálygyárra és a múzeumra.",
+            "ro": "Planificați suficient timp pentru fabrica de cristal și muzeu.",
+            "en": "Plan enough time for the crystal factory and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Val Saint Lambert",
+            "hu": "Ebéd Val Saint Lambert-ben",
+            "ro": "Prânz în Val Saint Lambert",
+            "en": "Lunch in Val Saint Lambert"
+          },
+          "coords": [
+            5.489,
+            50.591
+          ],
+          "category": "gastro",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es gibt ein Restaurant auf dem Gelände, ideal für eine Pause.",
+            "hu": "A helyszínen található egy étterem, ideális egy szünetre.",
+            "ro": "Există un restaurant în incintă, ideal pentru o pauză.",
+            "en": "There is a restaurant on-site, perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois de la Vecquée",
+            "hu": "Bois de la Vecquée erdő",
+            "ro": "Pădurea Bois de la Vecquée",
+            "en": "Bois de la Vecquée Forest"
+          },
+          "coords": [
+            5.51,
+            50.57
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:39",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt durch den Wald, um den Tag ausklingen zu lassen.",
+            "hu": "Egy frissítő tekerés az erdőn keresztül a nap lezárásaként.",
+            "ro": "O plimbare revigorantă prin pădure pentru a încheia ziua.",
+            "en": "A refreshing ride through the forest to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Place Kuborn, bevor Sie zum imposanten Schloss Cockerill radeln. Am Vormittag überqueren Sie das Viadukt und genießen die Aussicht, bevor Sie das weltberühmte Schloss Val Saint Lambert erreichen. Hier tauchen Sie in die Kunst der Kristallherstellung ein und genießen ein Mittagessen. Der Nachmittag führt Sie in die Natur. Eine längere Fahrt bringt Sie zum Bois de la Vecquée, einem weitläufigen Waldgebiet südlich der Stadt, perfekt für eine entspannte Fahrt im Grünen. Die Rückkehr ins Zentrum am späten Nachmittag schließt einen Tag voller industrieller Kultur und natürlicher Schönheit ab.",
+        "hu": "Kerékpártúrája a Place Kubornról indul, mielőtt a lenyűgöző Cockerill-kastélyhoz teker. Délelőtt átkel a viadukton, élvezi a kilátást, majd eléri a világhírű Val Saint Lambert kastélyt. Itt elmerül a kristálykészítés művészetében és elfogyaszt egy ebédet. A délután a természetbe vezeti. Egy hosszabb út a Bois de la Vecquée-be, a várostól délre fekvő kiterjedt erdőbe visz, amely tökéletes egy nyugodt tekerésre a zöldben. A késő délutáni visszaérkezés a központba egy ipari kultúrával és természeti szépséggel teli napot zár le.",
+        "ro": "Turul cu bicicleta începe din Piața Kuborn, înainte de a pedala spre impunătorul Castel Cockerill. Dimineața, traversați viaductul și admirați priveliștea înainte de a ajunge la faimosul Castel Val Saint Lambert. Aici, vă scufundați în arta cristalului și savurați prânzul. După-amiaza vă poartă în natură. O plimbare mai lungă vă duce la Bois de la Vecquée, o pădure vastă la sud de oraș, perfectă pentru o plimbare relaxantă în verdeață. Întoarcerea în centru după-amiaza târziu încheie o zi plină de cultură industrială și frumusețe naturală.",
+        "en": "Your bike tour starts at Place Kuborn before you pedal to the imposing Cockerill Castle. In the morning, you'll cross the viaduct to enjoy the view before reaching the world-famous Val Saint Lambert Castle. Here, you'll delve into the art of crystal making and enjoy lunch. The afternoon takes you into nature. A longer ride brings you to the Bois de la Vecquée, a vast forest south of the city, perfect for a relaxing ride in the green. The return to the center in the late afternoon concludes a day full of industrial culture and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Die perfekte Stärkung nach einer langen Radtour."
+          },
+          {
+            "name": "Lacquement",
+            "tip": "Eine lokale Waffelspezialität aus Lüttich, dünner und mit Sirup gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la liégeoice",
+            "tip": "Tökéletes feltöltődés egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Lacquement",
+            "tip": "Helyi liège-i gofrispecialitás, vékonyabb és sziruppal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Refacerea perfectă după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Lacquement",
+            "tip": "O specialitate locală de vafe din Liège, mai subțire și umplută cu sirop."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "The perfect fuel-up after a long bike ride."
+          },
+          {
+            "name": "Lacquement",
+            "tip": "A local waffle specialty from Liège, thinner and filled with syrup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Die ruhigen Wege des Waldes sind ideal, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Val Saint Lambert",
+            "tip": "Spazieren Sie durch die ruhigen Gärten rund um das Schloss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Az erdő csendes útjai ideálisak a város zajától való elszakadásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Val Saint Lambert kertjei",
+            "tip": "Sétáljon egyet a kastély körüli csendes kertekben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Cărările liniștite ale pădurii sunt ideale pentru a evada din zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Val Saint Lambert",
+            "tip": "Plimbați-vă prin grădinile liniștite din jurul castelului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "The quiet paths of the forest are ideal for escaping the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Val Saint Lambert",
+            "tip": "Stroll through the peaceful gardens surrounding the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cristal Discovery Val Saint Lambert",
+            "tip": "Kaufen Sie ein exquisites Stück belgischer Handwerkskunst als Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cristal Discovery Val Saint Lambert",
+            "tip": "Vásároljon egy kitűnő belga kézműves darabot emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cristal Discovery Val Saint Lambert",
+            "tip": "Cumpărați o piesă rafinată de artizanat belgian ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cristal Discovery Val Saint Lambert",
+            "tip": "Purchase an exquisite piece of Belgian craftsmanship as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Einige Strecken können Steigungen aufweisen, besonders in Richtung Wald.",
+          "Nutzen Sie die RAVeL-Radwege entlang der Maas für eine sichere und malerische Fahrt."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Néhány szakaszon emelkedők lehetnek, különösen az erdő felé.",
+          "Használja a Maas menti RAVeL kerékpárutakat a biztonságos és festői utazáshoz."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Unele trasee pot avea pante, în special spre pădure.",
+          "Folosiți pistele de biciclete RAVeL de-a lungul râului Meuse pentru o plimbare sigură și pitorească."
+        ],
+        "en": [
+          "Check your tire pressure before you leave.",
+          "Some routes may have inclines, especially towards the forest.",
+          "Use the RAVeL bike paths along the Meuse for a safe and scenic ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 24.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Zentrum von Seraing",
+            "hu": "A klaszter: Seraing központja",
+            "ro": "Cluster A: Centrul Seraing",
+            "en": "Cluster A: Seraing Center"
+          },
+          "coords": [
+            5.509,
+            50.597
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe des Place Kuborn für den ersten Teil des Tages.",
+            "hu": "Parkolja le az autót a Place Kuborn közelében a nap első részére.",
+            "ro": "Parcați mașina lângă Piața Kuborn pentru prima parte a zilei.",
+            "en": "Park your car near Place Kuborn for the first part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Lambert",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Saint-Lambert",
+            "en": "Saint Lambert's Church"
+          },
+          "coords": [
+            5.5105,
+            50.5955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz aus.",
+            "hu": "Egy rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cockerill",
+            "hu": "Cockerill-kastély",
+            "ro": "Castelul Cockerill",
+            "en": "Cockerill Castle"
+          },
+          "coords": [
+            5.515,
+            50.598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Machtzentrums.",
+            "hu": "Csodálja meg e történelmi hatalmi központ építészetét.",
+            "ro": "Admirați arhitectura acestui centru istoric de putere.",
+            "en": "Admire the architecture of this historic center of power."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Schloss Val Saint Lambert",
+            "hu": "B klaszter: Val Saint Lambert kastély",
+            "ro": "Cluster B: Castelul Val Saint Lambert",
+            "en": "Cluster B: Val Saint Lambert Castle"
+          },
+          "coords": [
+            5.49,
+            50.59
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es ausreichend Parkplätze.",
+            "hu": "Vezessen a következő klaszterhez. Itt bőséges parkolási lehetőség van.",
+            "ro": "Conduceți la următorul cluster. Există o parcare amplă aici.",
+            "en": "Drive to the next cluster. There's ample parking here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Val Saint Lambert",
+            "hu": "Ebéd Val Saint Lambert-ben",
+            "ro": "Prânz în Val Saint Lambert",
+            "en": "Lunch in Val Saint Lambert"
+          },
+          "coords": [
+            5.489,
+            50.591
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit, bevor Sie zum nächsten Ziel aufbrechen.",
+            "hu": "Fogyasszon el egy ebédet, mielőtt a következő célponthoz indul.",
+            "ro": "Bucurați-vă de o masă înainte de a pleca spre următoarea destinație.",
+            "en": "Enjoy a meal before heading to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Schloss Jemeppe",
+            "hu": "C klaszter: Jemeppe kastély",
+            "ro": "Cluster C: Castelul Jemeppe",
+            "en": "Cluster C: Jemeppe Castle"
+          },
+          "coords": [
+            5.47,
+            50.615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ein weiteres historisches Schloss, das einen kurzen Abstecher wert ist.",
+            "hu": "Egy másik történelmi kastély, amely megér egy rövid kitérőt.",
+            "ro": "Un alt castel istoric care merită o scurtă abatere.",
+            "en": "Another historic castle worth a short detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster D: Bois de la Vecquée",
+            "hu": "D klaszter: Bois de la Vecquée erdő",
+            "ro": "Cluster D: Pădurea Bois de la Vecquée",
+            "en": "Cluster D: Bois de la Vecquée Forest"
+          },
+          "coords": [
+            5.51,
+            50.57
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang im Wald.",
+            "hu": "Zárja a napot egy pihentető sétával az erdőben.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în pădure.",
+            "en": "End your day with a relaxing walk in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Seraing ist in Cluster aufgeteilt, um das Beste aus der Region herauszuholen. Am Morgen parken Sie im Zentrum und erkunden zu Fuß den Place Kuborn, die Kirche Saint-Lambert und das Schloss Cockerill. Anschließend fahren Sie zum weltberühmten Val Saint Lambert, wo Sie in die Welt des Kristalls eintauchen und zu Mittag essen. Der Nachmittag ist den Schlössern und der Natur gewidmet. Eine kurze Fahrt bringt Sie zum Schloss Jemeppe, bevor Sie den Tag mit einem friedlichen Spaziergang im weitläufigen Bois de la Vecquée ausklingen lassen. Diese Route kombiniert städtische Erkundung mit kulturellen Highlights und Naturerlebnissen.",
+        "hu": "Autós napja Seraingban klaszterekre van osztva, hogy a legtöbbet hozza ki a régióból. Reggel a központban parkol, és gyalog fedezi fel a Place Kuborn-t, a Szent Lambert-templomot és a Cockerill-kastélyt. Ezután a világhírű Val Saint Lambert-be hajt, ahol elmerül a kristály világában és megebédel. A délután a kastélyoké és a természeté. Egy rövid autóút a Jemeppe kastélyhoz vezet, mielőtt a napot egy békés sétával zárja a kiterjedt Bois de la Vecquée erdőben. Ez az útvonal a városi felfedezést kulturális látnivalókkal és természeti élményekkel ötvözi.",
+        "ro": "Ziua dumneavoastră cu mașina în Seraing este împărțită în clustere pentru a profita la maximum de regiune. Dimineața, parcați în centru și explorați pe jos Piața Kuborn, Biserica Saint-Lambert și Castelul Cockerill. Apoi, conduceți la faimosul Val Saint Lambert, unde pătrundeți în lumea cristalului și luați prânzul. După-amiaza este dedicată castelelor și naturii. O scurtă călătorie cu mașina vă duce la Castelul Jemeppe, înainte de a încheia ziua cu o plimbare liniștită în vastul Bois de la Vecquée. Acest traseu combină explorarea urbană cu atracții culturale și experiențe în natură.",
+        "en": "Your car tour of Seraing is divided into clusters to make the most of the region. In the morning, you'll park in the center and explore Place Kuborn, Saint Lambert's Church, and Cockerill Castle on foot. Then, you'll drive to the world-famous Val Saint Lambert to immerse yourself in the world of crystal and have lunch. The afternoon is dedicated to castles and nature. A short drive takes you to Jemeppe Castle before you end the day with a peaceful walk in the vast Bois de la Vecquée forest. This itinerary combines urban exploration with cultural highlights and nature experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Ein herzhaftes Gericht, das in vielen lokalen Restaurants zu finden ist."
+          },
+          {
+            "name": "Peket",
+            "tip": "Der lokale Genever, probieren Sie ihn pur oder in einem Cocktail."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Kiadós étel, amelyet számos helyi étteremben megtalál."
+          },
+          {
+            "name": "Peket",
+            "tip": "A helyi gin, kóstolja meg tisztán vagy koktélban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "Un fel de mâncare consistent, găsit în multe restaurante locale."
+          },
+          {
+            "name": "Peket",
+            "tip": "Ginul local, încercați-l simplu sau într-un cocktail."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulets à la liégeoise",
+            "tip": "A hearty dish found in many local restaurants."
+          },
+          {
+            "name": "Peket",
+            "tip": "The local genever spirit, try it neat or in a cocktail."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Verlieren Sie sich auf den stillen Pfaden dieses großen Waldes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Jemeppe",
+            "tip": "Die Gärten um das Schloss bieten eine ruhige Atmosphäre.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Vesszen el ennek a nagy erdőnek a csendes ösvényein.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jemeppe kastélypark",
+            "tip": "A kastély körüli kertek csendes légkört kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Pierdeți-vă pe potecile tăcute ale acestei păduri mari.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Jemeppe",
+            "tip": "Grădinile din jurul castelului oferă o atmosferă liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois de la Vecquée",
+            "tip": "Get lost on the quiet paths of this large forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jemeppe Castle Park",
+            "tip": "The gardens around the castle offer a quiet atmosphere.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shop von Val Saint Lambert",
+            "tip": "Ein Muss für Liebhaber von feinem Kristall. Ein perfektes, hochwertiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val Saint Lambert üzlete",
+            "tip": "Kötelező a finom kristályok szerelmeseinek. Tökéletes, minőségi ajándéktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Val Saint Lambert",
+            "tip": "O necesitate pentru iubitorii de cristal fin. Un suvenir perfect, de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Val Saint Lambert Shop",
+            "tip": "A must-visit for lovers of fine crystal. A perfect high-quality souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Achten Sie auf die Parkbeschilderung in den verschiedenen Zonen.",
+          "Planen Sie genügend Zeit für den Besuch von Val Saint Lambert ein, da es dort viel zu sehen gibt."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a klaszterek közötti navigáláshoz.",
+          "Figyeljen a parkolási táblákra a különböző zónákban.",
+          "Szánjon elegendő időt a Val Saint Lambert meglátogatására, mivel sok a látnivaló."
+        ],
+        "ro": [
+          "Utilizați o aplicație de navigare pentru a vă deplasa între clustere.",
+          "Fiți atenți la semnele de parcare din diferitele zone.",
+          "Planificați suficient timp pentru a vizita Val Saint Lambert, deoarece sunt multe de văzut."
+        ],
+        "en": [
+          "Use a navigation app to navigate between clusters.",
+          "Pay attention to parking signs in the different zones.",
+          "Plan enough time for the Val Saint Lambert visit, as there is a lot to see."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft Place Kuborn",
+            "hu": "A klaszter: Érkezés a Kuborn térre",
+            "ro": "Cluster A: Sosire în Piața Kuborn",
+            "en": "Cluster A: Arrival at Place Kuborn"
+          },
+          "coords": [
+            5.509,
+            50.597
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Platz ist ein zentraler Knotenpunkt für Buslinien.",
+            "hu": "A tér a buszjáratok központi csomópontja.",
+            "ro": "Piața este un nod central pentru liniile de autobuz.",
+            "en": "The square is a central hub for bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Lambert",
+            "hu": "Szent Lambert-templom",
+            "ro": "Biserica Saint-Lambert",
+            "en": "Saint Lambert's Church"
+          },
+          "coords": [
+            5.5105,
+            50.5955
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Platz aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a térről.",
+            "ro": "Ușor accesibil pe jos din piață.",
+            "en": "Easily walkable from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cockerill",
+            "hu": "Cockerill-kastély",
+            "ro": "Castelul Cockerill",
+            "en": "Cockerill Castle"
+          },
+          "coords": [
+            5.515,
+            50.598
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das dominante Gebäude ist nicht zu übersehen.",
+            "hu": "A domináns épületet nem lehet nem észrevenni.",
+            "ro": "Clădirea dominantă nu poate fi ratată.",
+            "en": "The dominant building is unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Schloss Val Saint Lambert",
+            "hu": "B klaszter: Utazás a Val Saint Lambert kastélyhoz",
+            "ro": "Cluster B: Călătorie la Castelul Val Saint Lambert",
+            "en": "Cluster B: Trip to Val Saint Lambert Castle"
+          },
+          "coords": [
+            5.49,
+            50.59
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, der in Richtung Val Saint Lambert fährt.",
+            "hu": "Szálljon fel egy Val Saint Lambert felé tartó buszra.",
+            "ro": "Luați un autobuz care merge spre Val Saint Lambert.",
+            "en": "Take a bus heading towards Val Saint Lambert."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            5.489,
+            50.591
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stärken Sie sich, bevor Sie Ihre Erkundung fortsetzen.",
+            "hu": "Erősítse meg magát, mielőtt folytatja a felfedezést.",
+            "ro": "Întăriți-vă înainte de a continua explorarea.",
+            "en": "Refuel before continuing your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Fahrt nach Jemeppe",
+            "hu": "C klaszter: Utazás Jemeppe-be",
+            "ro": "Cluster C: Călătorie la Jemeppe",
+            "en": "Cluster C: Trip to Jemeppe"
+          },
+          "coords": [
+            5.47,
+            50.615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zum charmanten Schloss Jemeppe.",
+            "hu": "Egy újabb buszozás elviszi a bájos Jemeppe kastélyhoz.",
+            "ro": "O altă călătorie cu autobuzul vă duce la fermecătorul Castel Jemeppe.",
+            "en": "Another bus ride takes you to the charming Jemeppe Castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Seraing bequem erkunden. Der Tag beginnt am Verkehrsknotenpunkt Place Kuborn, von wo aus Sie das historische Zentrum mit der Kirche und dem Schloss Cockerill zu Fuß entdecken. Eine Busfahrt bringt Sie am späten Vormittag zum prächtigen Val Saint Lambert, dem Highlight des Tages. Nach dem Mittagessen vor Ort fahren Sie weiter mit dem Bus zum Schloss Jemeppe, um einen anderen Aspekt der lokalen Geschichte zu sehen. Am späten Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, nach einem Tag, der städtische Erkundung und kulturelle Entdeckungen mühelos verband.",
+        "hu": "Tömegközlekedéssel kényelmesen felfedezhető Seraing. A nap a Place Kuborn közlekedési csomópontnál kezdődik, ahonnan gyalogosan fedezheti fel a történelmi központot a templommal és a Cockerill-kastéllyal. Egy buszút viszi a késő délelőtt a csodálatos Val Saint Lambert-be, a nap fénypontjára. A helyi ebéd után busszal utazik tovább a Jemeppe kastélyhoz, hogy megismerje a helyi történelem egy másik aspektusát. Késő délután busszal tér vissza a központba, egy olyan nap után, amely könnyedén ötvözte a városi felfedezést és a kulturális élményeket.",
+        "ro": "Seraing poate fi explorat confortabil cu transportul public. Ziua începe la nodul de transport Piața Kuborn, de unde descoperiți pe jos centrul istoric cu biserica și Castelul Cockerill. O călătorie cu autobuzul vă duce la magnificul Val Saint Lambert la sfârșitul dimineții, punctul culminant al zilei. După prânzul la fața locului, continuați cu autobuzul spre Castelul Jemeppe pentru a vedea un alt aspect al istoriei locale. După-amiaza târziu, vă întoarceți în centru cu autobuzul, după o zi care a combinat fără efort explorarea urbană și descoperirile culturale.",
+        "en": "Seraing is easily explored using public transport. The day starts at the Place Kuborn transport hub, from where you can discover the historic center with its church and Cockerill Castle on foot. A bus ride takes you to the magnificent Val Saint Lambert in the late morning, the highlight of the day. After lunch on site, you'll continue by bus to Jemeppe Castle to see another aspect of local history. In the late afternoon, you return to the center by bus after a day that effortlessly combined urban exploration and cultural discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frites",
+            "tip": "Belgische Pommes von einer lokalen Friterie sind immer eine gute Wahl."
+          },
+          {
+            "name": "Café liégeois",
+            "tip": "Ein köstliches Kaffee-Dessert zur Stärkung am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frites",
+            "tip": "A belga hasábburgonya egy helyi sütödéből mindig jó választás."
+          },
+          {
+            "name": "Café liégeois",
+            "tip": "Finom kávés desszert a délutáni feltöltődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frites",
+            "tip": "Cartofii prăjiți belgieni de la o friterie locală sunt întotdeauna o alegere bună."
+          },
+          {
+            "name": "Café liégeois",
+            "tip": "Un desert delicios cu cafea pentru un impuls de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frites",
+            "tip": "Belgian fries from a local friterie are always a good choice."
+          },
+          {
+            "name": "Café liégeois",
+            "tip": "A delicious coffee dessert for an afternoon boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche von Ougrée",
+            "tip": "Wenn es die Zeit erlaubt, kann ein Besuch dieser Kirche ein ruhiger Abstecher sein.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Ein kurzer Spaziergang entlang der Maas kann sehr beruhigend sein.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ougrée temploma",
+            "tip": "Ha az idő engedi, e templom meglátogatása csendes kitérő lehet.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "Egy rövid séta a Maas mentén nagyon megnyugtató lehet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica din Ougrée",
+            "tip": "Dacă timpul permite, o vizită la această biserică poate fi o diversiune liniștită.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare pe râu",
+            "tip": "O scurtă plimbare de-a lungul râului Meuse poate fi foarte liniștitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of Ougrée",
+            "tip": "If time permits, a visit to this church can be a quiet detour.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "River Walk",
+            "tip": "A short stroll along the Meuse can be very calming.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie unterwegs Gebäck oder eine Gaufre de Liège."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon péksüteményt vagy egy Gaufre de Liège-t útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie sau o Gaufre de Liège din mers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Pick up some pastries or a Gaufre de Liège on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das TEC-Busnetz, um Geld zu sparen.",
+          "Laden Sie die offizielle App für Fahrpläne und Routen in Echtzeit herunter.",
+          "Beachten Sie, dass die Busfrequenzen am Wochenende geringer sein können."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a TEC buszhálózatra a pénzmegtakarítás érdekében.",
+          "Töltse le a hivatalos alkalmazást a valós idejű menetrendekhez és útvonalakhoz.",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége hétvégén alacsonyabb lehet."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru rețeaua de autobuze TEC pentru a economisi bani.",
+          "Descărcați aplicația oficială pentru orare și rute în timp real.",
+          "Rețineți că frecvența autobuzelor poate fi mai mică în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the TEC bus network to save money.",
+          "Download the official app for real-time schedules and routes.",
+          "Be aware that bus frequencies might be lower on weekends."
+        ]
+      }
+    }
+  }
+}

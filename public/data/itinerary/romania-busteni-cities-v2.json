@@ -1,0 +1,1146 @@
+{
+  "city_id": "romania-busteni-cities-v2",
+  "anchor": {
+    "name": "Bușteni",
+    "coords": [
+      25.53,
+      45.41
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Königskirche",
+            "hu": "Királyi templom",
+            "ro": "Biserica Domnească",
+            "en": "Royal Church"
+          },
+          "coords": [
+            25.537,
+            45.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die byzantinischen Fresken, die von König Carol I. in Auftrag gegeben wurden.",
+            "hu": "Csodálja meg a I. Károly király által megrendelt bizánci freskókat.",
+            "ro": "Admirați frescele bizantine comandate de Regele Carol I.",
+            "en": "Admire the Byzantine frescoes commissioned by King Carol I."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkmuseum Cezar Petrescu",
+            "hu": "Cezar Petrescu Emlékmúzeum",
+            "ro": "Muzeul Memorial Cezar Petrescu",
+            "en": "Cezar Petrescu Memorial Museum"
+          },
+          "coords": [
+            25.531,
+            45.411
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die persönliche Bibliothek und Manuskripte eines der größten Schriftsteller Rumäniens.",
+            "hu": "Fedezze fel Románia egyik legnagyobb írójának személyes könyvtárát és kéziratait.",
+            "ro": "Descoperiți biblioteca personală și manuscrisele unuia dintre marii scriitori ai României.",
+            "en": "Discover the personal library and manuscripts of one of Romania's great writers."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cantacuzino",
+            "hu": "Cantacuzino-kastély",
+            "ro": "Castelul Cantacuzino",
+            "en": "Cantacuzino Castle"
+          },
+          "coords": [
+            25.533,
+            45.405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil und verpassen Sie nicht die Kunstgalerie im Inneren.",
+            "hu": "Vegyen részt egy vezetett túrán, és ne hagyja ki a bent található művészeti galériát.",
+            "ro": "Participați la un tur ghidat și nu ratați galeria de artă din interior.",
+            "en": "Join a guided tour and don't miss the art gallery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Caraiman-Kloster",
+            "hu": "Caraiman-kolostor",
+            "ro": "Mănăstirea Caraiman",
+            "en": "Caraiman Monastery"
+          },
+          "coords": [
+            25.538,
+            45.412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe in den Gärten mit Blick auf die Berge.",
+            "hu": "Találjon egy pillanatnyi békét a hegyekre néző kertekben.",
+            "ro": "Găsiți un moment de liniște în grădinile cu vedere la munți.",
+            "en": "Find a moment of peace in the gardens overlooking the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fuße der Kalinderu-Piste",
+            "hu": "Séta a Kalinderu pálya lábánál",
+            "ro": "Plimbare la baza pârtiei Kalinderu",
+            "en": "Stroll at the base of Kalinderu Slope"
+          },
+          "coords": [
+            25.522,
+            45.42
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Bergluft und beobachten Sie die Seilbahnen, die auf- und absteigen.",
+            "hu": "Élvezze a friss hegyi levegőt, és nézze a fel-le közlekedő felvonókat.",
+            "ro": "Bucurați-vă de aerul curat de munte și priviți telecabinele urcând și coborând.",
+            "en": "Enjoy the fresh mountain air and watch the cable cars ascend and descend."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Bușteni mit Besuchen der historischen Kirchen und Museen. Am Nachmittag unternehmen Sie einen längeren Spaziergang zum prächtigen Schloss Cantacuzino. Beenden Sie den Tag mit einem Besuch des friedlichen Caraiman-Klosters und einem entspannten Spaziergang am Fuße der Berge.",
+        "hu": "Kezdje a napot Bușteni szívében a történelmi templomok és múzeumok meglátogatásával. Délután tegyen egy hosszabb sétát a csodálatos Cantacuzino-kastélyhoz. Zárja a napot a békés Caraiman-kolostor meglátogatásával és egy pihentető sétával a hegyek lábánál.",
+        "ro": "Începeți ziua în inima orașului Bușteni cu vizite la bisericile și muzeele istorice. După-amiaza, faceți o plimbare mai lungă până la magnificul Castel Cantacuzino. Încheiați ziua cu o vizită la liniștita Mănăstire Caraiman și o plimbare relaxantă la poalele munților.",
+        "en": "Start your day in the heart of Bușteni with visits to its historic churches and museums. In the afternoon, take a longer walk to the magnificent Cantacuzino Castle. End the day with a visit to the peaceful Caraiman Monastery and a relaxing stroll at the base of the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "Ein herzhaftes Gericht aus Polenta, Käse und oft Wurst, perfekt für einen Tag in den Bergen."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Probieren Sie diese köstlichen gebratenen oder gekochten Donuts, serviert mit Sauerrahm und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Juhász-bulz",
+            "tip": "Kiadós étel polentából, sajtból és gyakran kolbászból, tökéletes egy hegyi napra."
+          },
+          {
+            "name": "Papanași (túrós fánk)",
+            "tip": "Kóstolja meg ezeket a finom sült vagy főtt fánkokat, tejföllel és lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz Ciobanesc",
+            "tip": "O mâncare consistentă din mămăligă, brânză și adesea cârnați, perfectă pentru o zi la munte."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Încercați acești delicioși gogoși prăjiți sau fierți, serviți cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shepherd's Bulz",
+            "tip": "A hearty dish of polenta, cheese, and often sausage, perfect for a day in the mountains."
+          },
+          {
+            "name": "Papanași",
+            "tip": "Try these delicious fried or boiled doughnuts, served with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Caraiman-Klosters",
+            "tip": "Ein Ort der Stille mit atemberaubendem Blick auf das Caraiman-Kreuz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park des Schlosses Cantacuzino",
+            "tip": "Spazieren Sie durch die gepflegten Gärten und finden Sie eine ruhige Bank.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Caraiman-kolostor kertjei",
+            "tip": "A csend helye, lélegzetelállító kilátással a Caraiman-keresztre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Cantacuzino-kastély parkja",
+            "tip": "Sétáljon a gondozott kertekben, és keressen egy csendes padot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Mănăstirii Caraiman",
+            "tip": "Un loc de tihnă cu o priveliște uluitoare asupra Crucii Caraiman.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Castelului Cantacuzino",
+            "tip": "Plimbați-vă prin grădinile îngrijite și găsiți o bancă liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Caraiman Monastery Gardens",
+            "tip": "A place of tranquility with a breathtaking view of the Caraiman Cross.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cantacuzino Castle Park",
+            "tip": "Stroll through the manicured gardens and find a quiet bench.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgemachtem Käse (Brânză de Burduf) und traditioneller Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézműves sajtot (Brânză de Burduf) és hagyományos kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați Brânză de Burduf artizanală și ceramică tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for artisanal cheese (Brânză de Burduf) and traditional pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Entfernungen erheblich sein können.",
+          "Nehmen Sie immer eine Flasche Wasser mit.",
+          "Die Gehwege können uneben sein, seien Sie also vorsichtig.",
+          "Viele Cafés bieten einen perfekten Ort für eine Pause."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mivel a távolságok jelentősek lehetnek.",
+          "Mindig vigyen magával egy üveg vizet.",
+          "A járdák egyenetlenek lehetnek, ezért legyen óvatos.",
+          "Sok kávézó tökéletes helyet kínál egy pihenőre."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece distanțele pot fi considerabile.",
+          "Luați întotdeauna cu voi o sticlă de apă.",
+          "Trotuarele pot fi denivelate, așa că fiți atenți.",
+          "Multe cafenele oferă un loc perfect pentru o pauză."
+        ],
+        "en": [
+          "Wear comfortable walking shoes, as the distances can be significant.",
+          "Always carry a bottle of water.",
+          "The pavements can be uneven, so be careful.",
+          "Many cafes offer a perfect spot for a break."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Cantacuzino",
+            "hu": "Cantacuzino-kastély",
+            "ro": "Castelul Cantacuzino",
+            "en": "Cantacuzino Castle"
+          },
+          "coords": [
+            25.533,
+            45.405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Gärten und die Aussicht.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a kerteket és a kilátást.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de grădini și de priveliște.",
+            "en": "Lock your bike securely and enjoy the gardens and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Caraiman-Kloster",
+            "hu": "Caraiman-kolostor",
+            "ro": "Mănăstirea Caraiman",
+            "en": "Caraiman Monastery"
+          },
+          "coords": [
+            25.538,
+            45.412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Weg zum Kloster ist etwas steil, aber die friedliche Atmosphäre ist es wert.",
+            "hu": "Az út a kolostorhoz kissé meredek, de a békés hangulat megéri.",
+            "ro": "Drumul spre mănăstire este puțin abrupt, dar atmosfera liniștită merită.",
+            "en": "The path to the monastery is a bit steep, but the peaceful atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Trailhead zum Urlătoarea-Wasserfall",
+            "hu": "Az Urlătoarea-vízesés túraútvonalának kezdete",
+            "ro": "Intrarea pe traseul spre Cascada Urlătoarea",
+            "en": "Urlătoarea Waterfall Trailhead"
+          },
+          "coords": [
+            25.56,
+            45.4
+          ],
+          "category": "natural features",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad hier und genießen Sie die 30-minütige Wanderung zum Wasserfall.",
+            "hu": "Hagyja itt a kerékpárját, és élvezze a 30 perces túrát a vízeséshez.",
+            "ro": "Lăsați bicicleta aici și bucurați-vă de drumeția de 30 de minute până la cascadă.",
+            "en": "Leave your bike here and enjoy the 30-minute hike to the waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Königskirche",
+            "hu": "Királyi templom",
+            "ro": "Biserica Domnească",
+            "en": "Royal Church"
+          },
+          "coords": [
+            25.537,
+            45.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ein kleines Juwel im Stadtzentrum, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "Egy kis ékszer a városközpontban, könnyen megközelíthető kerékpárral.",
+            "ro": "O mică bijuterie în centrul orașului, ușor accesibilă cu bicicleta.",
+            "en": "A small gem in the city center, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis der Kalinderu-Skipiste",
+            "hu": "A Kalinderu sípálya alapja",
+            "ro": "Baza Pârtiei Kalinderu",
+            "en": "Base of Kalinderu Ski Slope"
+          },
+          "coords": [
+            25.522,
+            45.42
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannenden Pause und Bergblick.",
+            "hu": "Zárja a kerékpártúrát egy pihentető szünettel és hegyi kilátással.",
+            "ro": "Încheiați turul cu bicicleta cu o pauză relaxantă și priveliști montane.",
+            "en": "End your bike tour with a relaxing break and mountain views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bușteni auf zwei Rädern. Beginnen Sie am eleganten Schloss Cantacuzino, radeln Sie dann zum spirituellen Caraiman-Kloster. Wagen Sie sich weiter zum Urlătoarea-Wasserfall für eine erfrischende Wanderung. Kehren Sie ins Zentrum zurück, um historische Stätten zu besichtigen, bevor Sie am Fuße der Skipisten entspannen.",
+        "hu": "Fedezze fel Buștenit két keréken. Kezdje az elegáns Cantacuzino-kastélynál, majd tekerjen a spirituális Caraiman-kolostorhoz. Merészkedjen tovább az Urlătoarea-vízeséshez egy frissítő túrára. Térjen vissza a központba, hogy megnézze a történelmi helyszíneket, mielőtt a sípályák lábánál pihenne.",
+        "ro": "Explorați Bușteniul pe două roți. Începeți de la elegantul Castel Cantacuzino, apoi pedalați spre spirituala Mănăstire Caraiman. Aventurați-vă mai departe, la Cascada Urlătoarea, pentru o drumeție revigorantă. Întoarceți-vă în centru pentru situri istorice înainte de a vă relaxa la baza pârtiilor de schi.",
+        "en": "Explore Bușteni on two wheels. Start at the elegant Cantacuzino Castle, then cycle to the spiritual Caraiman Monastery. Venture further to Urlătoarea Waterfall for a refreshing hike. Return to the center for historic sites before relaxing at the base of the ski slopes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de fasole în pâine",
+            "tip": "Eine traditionelle Bohnensuppe, die in einem Brotlaib serviert wird, perfekt zum Auftanken."
+          },
+          {
+            "name": "Kurtos Kalacs",
+            "tip": "Halten Sie Ausschau nach Ständen, die diesen süßen, gegrillten Schornsteinkuchen verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba (bableves) kenyérben",
+            "tip": "Hagyományos bableves, kenyérben tálalva, tökéletes feltöltődéshez."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Keresse azokat a standokat, amelyek ezt az édes, grillezett kürtőskalácsot árulják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de fasole în pâine",
+            "tip": "O ciorbă tradițională servită într-o pâine, perfectă pentru a vă reîncărca bateriile."
+          },
+          {
+            "name": "Kurtos Kalacs",
+            "tip": "Fiți atenți la tarabele care vând acest cozonac secuiesc dulce și copt pe jar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bean soup in bread",
+            "tip": "A traditional bean soup served inside a loaf of bread, perfect for refueling."
+          },
+          {
+            "name": "Kurtos Kalacs (Chimney Cake)",
+            "tip": "Look for stalls selling this sweet, grilled spit cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Urlătoarea-Wasserfall",
+            "tip": "Das Geräusch des Wassers und die umliegende Natur sind unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldwege",
+            "tip": "Die Radwege um Bușteni führen oft durch ruhige Waldabschnitte.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Urlătoarea-vízesés",
+            "tip": "A víz hangja és a környező természet hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdei ösvények",
+            "tip": "A Bușteni körüli kerékpárutak gyakran csendes erdőszakaszokon vezetnek keresztül.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Urlătoarea",
+            "tip": "Sunetul apei și natura înconjurătoare sunt incredibil de liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteci de pădure",
+            "tip": "Pistele de biciclete din jurul Bușteniului trec adesea prin porțiuni liniștite de pădure.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Urlătoarea Waterfall",
+            "tip": "The sound of the water and the surrounding nature are incredibly calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest paths",
+            "tip": "The bike paths around Bușteni often pass through quiet forest sections.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in der Nähe der Seilbahn",
+            "tip": "Finden Sie Karten, Magnete und lokale Handwerksprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "SzOUvenírboltok a felvonó közelében",
+            "tip": "Találjon térképeket, mágneseket és helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri lângă telecabină",
+            "tip": "Găsiți hărți, magneți și produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops near the Cable Car",
+            "tip": "Find maps, magnets, and local handicraft products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, insbesondere die Bremsen, bevor Sie losfahren.",
+          "Einige Routen beinhalten steile Anstiege.",
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Sperren Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "Néhány útvonal meredek emelkedőket tartalmaz.",
+          "Viseljen sisakot és világos ruházatot.",
+          "Mindig zárja le a kerékpárt, ha leteszi."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta, în special frânele, înainte de a porni la drum.",
+          "Unele trasee includ urcări abrupte.",
+          "Purtați cască și haine de culori deschise.",
+          "Asigurați-vă întotdeauna bicicleta când o parcați."
+        ],
+        "en": [
+          "Check your bike, especially the brakes, before setting off.",
+          "Some routes involve steep climbs.",
+          "Wear a helmet and bright clothing.",
+          "Always lock your bike when you leave it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bușteni-Seilbahn",
+            "hu": "Bușteni-i felvonó",
+            "ro": "Telecabina Bușteni",
+            "en": "Bușteni Cable Car"
+          },
+          "coords": [
+            25.525,
+            45.415
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie früh hierher, um einen Parkplatz zu finden und lange Warteschlangen zu vermeiden.",
+            "hu": "Érkezzen ide korán, hogy parkolóhelyet találjon és elkerülje a hosszú sorokat.",
+            "ro": "Conduceți aici devreme pentru a găsi un loc de parcare și a evita cozile lungi.",
+            "en": "Drive here early to find a parking spot and avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenkreuz auf dem Caraiman (Aussicht)",
+            "hu": "Caraiman-csúcsi Hősök Keresztje (kilátás)",
+            "ro": "Crucea Eroilor de pe Vârful Caraiman (priveliște)",
+            "en": "Heroes' Cross on Caraiman Peak (View)"
+          },
+          "coords": [
+            25.497,
+            45.405
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Seilbahnfahrt und der Spaziergang auf dem Plateau bieten unvergessliche Panoramen.",
+            "hu": "A felvonózás és a séta a fennsíkon felejthetetlen panorámát nyújt.",
+            "ro": "Călătoria cu telecabina și plimbarea pe platou oferă panorame de neuitat.",
+            "en": "The cable car ride and the walk on the plateau offer unforgettable panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cantacuzino",
+            "hu": "Cantacuzino-kastély",
+            "ro": "Castelul Cantacuzino",
+            "en": "Cantacuzino Castle"
+          },
+          "coords": [
+            25.533,
+            45.405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:08",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und bereiten Sie sich darauf vor, den Rest des Stadtzentrums zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt, és készüljön fel a városközpont többi részének gyalogos felfedezésére.",
+            "ro": "Parcați aici și pregătiți-vă să explorați restul centrului orașului pe jos.",
+            "en": "Park here and prepare to explore the rest of the town center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Caraiman-Kloster",
+            "hu": "Caraiman-kolostor",
+            "ro": "Mănăstirea Caraiman",
+            "en": "Caraiman Monastery"
+          },
+          "coords": [
+            25.538,
+            45.412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, ist dieses Kloster ein friedlicher Rückzugsort.",
+            "hu": "A kastélytól egy rövid sétatávolságra ez a kolostor egy békés menedék.",
+            "ro": "La o scurtă plimbare de castel, această mănăstire este un refugiu pașnic.",
+            "en": "A short walk from the castle, this monastery is a peaceful retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Königskirche",
+            "hu": "Királyi templom",
+            "ro": "Biserica Domnească",
+            "en": "Royal Church"
+          },
+          "coords": [
+            25.537,
+            45.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben dem Kloster gelegen, vervollständigt es den spirituellen Spaziergang.",
+            "hu": "Közvetlenül a kolostor mellett található, kiegészíti a spirituális sétát.",
+            "ro": "Situată chiar lângă mănăstire, completează plimbarea spirituală.",
+            "en": "Located right next to the monastery, it completes the spiritual walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Trailhead zum Urlătoarea-Wasserfall",
+            "hu": "Az Urlătoarea-vízesés túraútvonalának kezdete",
+            "ro": "Intrarea pe traseul spre Cascada Urlătoarea",
+            "en": "Urlătoarea Waterfall Trailhead"
+          },
+          "coords": [
+            25.56,
+            45.4
+          ],
+          "category": "natural features",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Fahrt, um den Tag mit einer schönen Naturwanderung abzuschließen.",
+            "hu": "Egy rövid autóút a nap lezárásaként egy kellemes természeti túrával.",
+            "ro": "O scurtă călătorie cu mașina pentru a încheia ziua cu o drumeție frumoasă în natură.",
+            "en": "A short drive to end the day with a lovely nature hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um die Highlights von Bușteni zu verbinden. Beginnen Sie mit einer Fahrt zur Seilbahn für einen unvergesslichen Ausflug in die Bucegi-Berge. Fahren Sie dann zum Schloss Cantacuzino, parken Sie und erkunden Sie die zentralen Sehenswürdigkeiten zu Fuß. Schließen Sie den Tag mit einer kurzen Fahrt und einer Wanderung zum wunderschönen Urlătoarea-Wasserfall ab.",
+        "hu": "Használja autóját Bușteni fénypontjainak összekötésére. Kezdje egy utazással a felvonóhoz egy felejthetetlen kirándulásra a Bucegi-hegységbe. Ezután vezessen a Cantacuzino-kastélyhoz, parkoljon le, és fedezze fel a központi látnivalókat gyalog. Zárja a napot egy rövid autóúttal és egy túrával a gyönyörű Urlătoarea-vízeséshez.",
+        "ro": "Folosiți mașina pentru a conecta punctele de atracție din Bușteni. Începeți cu o plimbare cu telecabina pentru o excursie memorabilă în Munții Bucegi. Apoi, conduceți la Castelul Cantacuzino, parcați și explorați obiectivele centrale pe jos. Încheiați ziua cu o scurtă călătorie cu mașina și o drumeție la frumoasa Cascadă Urlătoarea.",
+        "en": "Use your car to connect the highlights of Bușteni. Start with a trip to the cable car for a memorable journey into the Bucegi Mountains. Then, drive to Cantacuzino Castle, park, and explore the central sights on foot. Finish the day with a short drive and hike to the beautiful Urlătoarea Waterfall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in einer Cabana",
+            "tip": "Suchen Sie nach Berghütten-Restaurants (Cabane) für authentische, deftige Mahlzeiten."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Probieren Sie diese lokale Spezialität aus gewürztem und geräuchertem Schaffleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem egy menedékházban (Cabana)",
+            "tip": "Keressen hegyi menedékház-éttermeket (cabane) az autentikus, kiadós ételekért."
+          },
+          {
+            "name": "Juh-pastrami (Pastramă de oaie)",
+            "tip": "Kóstolja meg ezt a helyi specialitást, a fűszerezett és füstölt birkahúst."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la o cabană",
+            "tip": "Căutați restaurante la cabane montane pentru mese autentice și consistente."
+          },
+          {
+            "name": "Pastramă de oaie",
+            "tip": "Încercați această specialitate locală de carne de oaie condimentată și afumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at a Cabana",
+            "tip": "Look for mountain cabin restaurants (cabane) for authentic, hearty meals."
+          },
+          {
+            "name": "Mutton pastrami (Pastramă de oaie)",
+            "tip": "Try this local specialty of spiced and smoked mutton."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucegi-Plateau",
+            "tip": "Oben angekommen, ist die Weite und Stille, weg von den Menschenmassen, atemberaubend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wanderweg zum Wasserfall",
+            "tip": "Der Waldweg zum Wasserfall ist ein friedlicher Spaziergang in der Natur.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bucegi-fennsík",
+            "tip": "A csúcson a tömegtől távoli tágasság és csend lélegzetelállító.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Túraútvonal a vízeséshez",
+            "tip": "A vízeséshez vezető erdei ösvény egy békés séta a természetben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Bucegi",
+            "tip": "Odată ajuns sus, întinderea și liniștea, departe de mulțime, sunt uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteca spre cascadă",
+            "tip": "Cărarea prin pădure până la cascadă este o plimbare pașnică în natură.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bucegi Plateau",
+            "tip": "Once at the top, the vastness and silence away from the crowds are breathtaking.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hike to the waterfall",
+            "tip": "The forest path to the waterfall is a peaceful walk in nature.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie geräucherten Käse oder hausgemachte Marmelade von Straßenverkäufern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon füstölt sajtot vagy házi lekvárt az út menti árusoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați brânză afumată sau gem de casă de la vânzătorii ambulanți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce",
+            "tip": "Buy smoked cheese or homemade jam from roadside vendors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Betriebsstatus der Seilbahn, bevor Sie losfahren.",
+          "Die Parkmöglichkeiten sind begrenzt, besonders in der Hochsaison.",
+          "Halten Sie Kleingeld für Parkuhren bereit.",
+          "Tanken Sie, bevor Sie in die Bergregionen fahren."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a felvonó működési állapotát.",
+          "A parkolási lehetőségek korlátozottak, különösen a főszezonban.",
+          "Készítsen aprópénzt a parkolóórákhoz.",
+          "Tankoljon, mielőtt a hegyvidéki régiókba indulna."
+        ],
+        "ro": [
+          "Verificați starea de funcționare a telecabinei înainte de a pleca.",
+          "Parcarea este limitată, mai ales în sezonul de vârf.",
+          "Aveți la îndemână monede pentru parcometre.",
+          "Alimentați cu combustibil înainte de a intra în zonele montane."
+        ],
+        "en": [
+          "Check the cable car's operational status before you go.",
+          "Parking can be limited, especially during peak season.",
+          "Keep change handy for parking meters.",
+          "Fill up your gas tank before heading into the mountain areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 12.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bușteni-Seilbahn",
+            "hu": "Bușteni-i felvonó",
+            "ro": "Telecabina Bușteni",
+            "en": "Bușteni Cable Car"
+          },
+          "coords": [
+            25.525,
+            45.415
+          ],
+          "category": "natural features",
+          "arrive_at": "09:18",
+          "stay_min": 10,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zur Seilbahnstation. Kommen Sie früh, um Menschenmassen zu vermeiden.",
+            "hu": "Menjen helyi busszal a felvonóállomásra. Érkezzen korán a tömeg elkerülése érdekében.",
+            "ro": "Luați un autobuz local până la stația de telecabină. Ajungeți devreme pentru a evita aglomerația.",
+            "en": "Take a local bus to the cable car station. Get there early to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucegi-Plateau & Aussicht auf das Kreuz",
+            "hu": "Bucegi-fennsík és kilátás a keresztre",
+            "ro": "Platoul Bucegi și vederea Crucii",
+            "en": "Bucegi Plateau & Cross View"
+          },
+          "coords": [
+            25.497,
+            45.405
+          ],
+          "category": "natural features",
+          "arrive_at": "09:48",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist der Höhepunkt des Tages. Nehmen Sie sich Zeit und genießen Sie die Aussicht.",
+            "hu": "Ez a nap fénypontja. Szánjon rá időt, és élvezze a kilátást.",
+            "ro": "Acesta este punctul culminant al zilei. Nu vă grăbiți și bucurați-vă de priveliște.",
+            "en": "This is the highlight of the day. Take your time and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cantacuzino",
+            "hu": "Cantacuzino-kastély",
+            "ro": "Castelul Cantacuzino",
+            "en": "Cantacuzino Castle"
+          },
+          "coords": [
+            25.533,
+            45.405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Seilbahnbereich zum Schloss. Kaufen Sie Tickets online.",
+            "hu": "Menjen busszal a felvonó környékéről a kastélyhoz. Vegyen jegyet online.",
+            "ro": "Luați autobuzul din zona telecabinei spre castel. Cumpărați biletele online.",
+            "en": "Take the bus from the cable car area towards the castle. Buy tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Caraiman-Kloster",
+            "hu": "Caraiman-kolostor",
+            "ro": "Mănăstirea Caraiman",
+            "en": "Caraiman Monastery"
+          },
+          "coords": [
+            25.538,
+            45.412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Bus-Hop bringt Sie in die Nähe dieses friedlichen Ortes.",
+            "hu": "Egy másik rövid buszozás elviszi Önt ennek a békés helynek a közelébe.",
+            "ro": "O altă scurtă călătorie cu autobuzul vă va aduce aproape de acest loc pașnic.",
+            "en": "Another short bus hop will get you close to this peaceful spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Königskirche",
+            "hu": "Királyi templom",
+            "ro": "Biserica Domnească",
+            "en": "Royal Church"
+          },
+          "coords": [
+            25.537,
+            45.413
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein sehr kurzer Spaziergang vom Kloster entfernt. Einfach zu kombinieren.",
+            "hu": "Nagyon rövid sétatávolságra a kolostortól. Könnyen összeköthető.",
+            "ro": "La o plimbare foarte scurtă de mănăstire. Ușor de combinat.",
+            "en": "A very short walk from the monastery. Easy to combine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Verlassen Sie sich auf die Seilbahn und lokale Busse für Ihr Bușteni-Abenteuer. Fahren Sie mit dem Bus zur Seilbahn für einen Ausflug in die Berge. Zurück im Tal nutzen Sie Busse, um zwischen dem Schloss Cantacuzino und dem Caraiman-Kloster zu wechseln und beenden den Tag mit einem kurzen Spaziergang zu einer historischen Kirche.",
+        "hu": "Hagyatkozzon a felvonóra és a helyi buszokra a Bușteni-i kalandhoz. Menjen busszal a felvonóhoz egy hegyi kirándulásra. Visszatérve a völgybe, buszokkal közlekedjen a Cantacuzino-kastély és a Caraiman-kolostor között, majd a napot egy rövid sétával fejezze be egy történelmi templomhoz.",
+        "ro": "Bazați-vă pe telecabină și autobuzele locale pentru aventura din Bușteni. Luați un autobuz până la telecabină pentru o excursie la munte. Întors în vale, folosiți autobuzele pentru a vă deplasa între Castelul Cantacuzino și Mănăstirea Caraiman, încheind ziua cu o scurtă plimbare la o biserică istorică.",
+        "en": "Rely on the cable car and local buses for your Bușteni adventure. Take a bus to the cable car for a trip to the mountains. Back in the valley, use buses to move between Cantacuzino Castle and Caraiman Monastery, finishing with a short walk to a historic church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein schneller und leckerer Snack von Straßenverkäufern, ähnlich wie eine Brezel."
+          },
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "Eine cremige Hühnersuppe, perfekt für eine Mittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Gyors és finom harapnivaló az utcai árusoktól, hasonló a perechez."
+          },
+          {
+            "name": "Radóci csorba (Ciorbă Rădăuțeană)",
+            "tip": "Krémes csirkeleves, tökéletes egy ebédszünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "O gustare rapidă și delicioasă de la vânzătorii ambulanți, asemănătoare cu un covrig."
+          },
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "O ciorbă cremoasă de pui, perfectă pentru o pauză de prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi",
+            "tip": "A quick and tasty snack from street vendors, similar to a pretzel."
+          },
+          {
+            "name": "Ciorbă Rădăuțeană",
+            "tip": "A creamy chicken soup, perfect for a lunch break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die vorbeiziehende Berglandschaft während der Fahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bank im Schlosspark",
+            "tip": "Nach dem Trubel der Seilbahn bietet der Park eine willkommene Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Figyelje az elhaladó hegyi tájat utazás közben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pad a kastélyparkban",
+            "tip": "A felvonó nyüzsgése után a park kellemes nyugalmat kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți peisajul montan care se derulează în timpul călătoriei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bancă în parcul castelului",
+            "tip": "După agitația de la telecabină, parcul oferă o liniște binevenită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the mountain scenery go by during your ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bench in the castle park",
+            "tip": "After the bustle of the cable car, the park offers a welcome quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie Snacks, Getränke und vielleicht eine Postkarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon rágcsálnivalókat, italokat és esetleg egy képeslapot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați gustări, băuturi și poate o carte poștală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy snacks, drinks, and maybe a postcard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Haben Sie den Busfahrplan zur Hand oder verwenden Sie eine Transport-App.",
+          "Kaufen Sie ein Tagesticket, wenn es verfügbar ist.",
+          "Überprüfen Sie die Wettervorhersage für die Bergspitze, bevor Sie mit der Seilbahn fahren.",
+          "Die Busse können voll sein, seien Sie also auf Stehen vorbereitet."
+        ],
+        "hu": [
+          "Legyen kéznél a buszmenetrend, vagy használjon közlekedési alkalmazást.",
+          "Vásároljon napijegyet, ha elérhető.",
+          "Ellenőrizze a hegytetőre vonatkozó időjárás-előrejelzést, mielőtt felvonózik.",
+          "A buszok zsúfoltak lehetnek, készüljön fel az állásra."
+        ],
+        "ro": [
+          "Aveți la îndemână orarul autobuzelor sau folosiți o aplicație de transport.",
+          "Cumpărați un bilet de o zi, dacă este disponibil.",
+          "Verificați prognoza meteo pentru vârful muntelui înainte de a urca cu telecabina.",
+          "Autobuzele pot fi aglomerate, așa că fiți pregătiți să stați în picioare."
+        ],
+        "en": [
+          "Have the bus schedule handy or use a transport app.",
+          "Buy a day pass if it's available.",
+          "Check the weather forecast for the mountain top before taking the cable car.",
+          "Buses can be crowded, so be prepared to stand."
+        ]
+      }
+    }
+  }
+}

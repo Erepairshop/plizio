@@ -1,0 +1,1517 @@
+{
+  "city_id": "estonia-kohila-cities-v2",
+  "anchor": {
+    "name": "Kohila",
+    "coords": [
+      24.7258,
+      59.1678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal des Freiheitskrieges",
+            "hu": "Függetlenségi Háború Emlékműve",
+            "ro": "Monumentul Războiului de Independență",
+            "en": "Monument of the War of Independence"
+          },
+          "coords": [
+            24.726,
+            59.168
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Geschichtstour.",
+            "hu": "Kezdje itt a történelmi sétát.",
+            "ro": "Începeți turul istoric de aici.",
+            "en": "Start your history tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptistenkirche Kohila",
+            "hu": "Kohilai Baptista Templom",
+            "ro": "Biserica Baptistă din Kohila",
+            "en": "Kohila Baptist Church"
+          },
+          "coords": [
+            24.7275,
+            59.169
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache Holzarchitektur.",
+            "hu": "Csodálja meg az egyszerű faépítészetet.",
+            "ro": "Admirați arhitectura simplă din lemn.",
+            "en": "Admire the simple wooden architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Papierfabrik",
+            "hu": "Történelmi Papírgyár",
+            "ro": "Fabrica istorică de hârtie",
+            "en": "Historic Paper Factory"
+          },
+          "coords": [
+            24.735,
+            59.172
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber der Industriegeschichte.",
+            "hu": "Az ipartörténet rajongóinak kötelező.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie industrială.",
+            "en": "A must-see for industrial history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Wassermühle",
+            "hu": "Történelmi Vízimalom",
+            "ro": "Moara de apă istorică",
+            "en": "Historic Watermill"
+          },
+          "coords": [
+            24.736,
+            59.171
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Mühle vom gegenüberliegenden Ufer.",
+            "hu": "Fotózza le a malmot a szemközti partról.",
+            "ro": "Fotografiați moara de pe malul opus.",
+            "en": "Photograph the mill from the opposite bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Tohisoo",
+            "hu": "Tohisoo-kastély",
+            "ro": "Conacul Tohisoo",
+            "en": "Tohisoo Manor"
+          },
+          "coords": [
+            24.7508,
+            59.1768
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es Konzerte oder Ausstellungen gibt.",
+            "hu": "Nézze meg, vannak-e koncertek vagy kiállítások.",
+            "ro": "Verificați dacă au loc concerte sau expoziții.",
+            "en": "Check for any concerts or exhibitions held here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohila Park",
+            "hu": "Kohila Park",
+            "ro": "Parcul Kohila",
+            "en": "Kohila Park"
+          },
+          "coords": [
+            24.752,
+            59.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick am Nachmittag.",
+            "hu": "Tökéletes hely egy délutáni piknikhez.",
+            "ro": "Un loc perfect pentru un picnic de după-amiază.",
+            "en": "A perfect spot for an afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Keila",
+            "hu": "Keila-folyó",
+            "ro": "Râul Keila",
+            "en": "Keila River"
+          },
+          "coords": [
+            24.73,
+            59.17
+          ],
+          "category": "natural features",
+          "arrive_at": "16:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre am Flussufer.",
+            "hu": "Élvezze a folyópart békés hangulatát.",
+            "ro": "Bucurați-vă de atmosfera pașnică de pe malul râului.",
+            "en": "Enjoy the peaceful atmosphere by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kohila beginnt mit einer Reise in die estnische Geschichte am Denkmal des Freiheitskrieges, gefolgt von der spirituellen Ruhe der Baptistenkirche. Am Vormittag tauchen Sie in das industrielle Erbe der Stadt ein und erkunden die beeindruckende Papierfabrik und die malerische Wassermühle. Der Nachmittag ist der Eleganz des Herrenhauses Tohisoo und der entspannten Atmosphäre des angrenzenden Parks gewidmet. Sie beenden Ihren Tag mit einem ruhigen Spaziergang entlang des Flusses Keila, bei dem Sie die natürliche Schönheit der Gegend genießen.",
+        "hu": "A nap Kohilában Észtország történelmének megismerésével kezdődik a Függetlenségi Háború Emlékművénél, majd a baptista templom spirituális csendje következik. A délelőtt folyamán elmerülhet a város ipari örökségében, felfedezve a lenyűgöző papírgyárat és a festői vízimalmot. A délután a Tohisoo-kastély eleganciájáról és a szomszédos park nyugodt légköréről szól. A napot egy békés sétával zárja a Keila-folyó mentén, magába szívva a környék természeti szépségét.",
+        "ro": "Ziua dvs. în Kohila începe cu o călătorie în istoria Estoniei la Monumentul Războiului de Independență, urmată de liniștea spirituală a Bisericii Baptiste. Dimineața vă scufundă în patrimoniul industrial al orașului, explorând impresionanta fabrică de hârtie și pitoreasca moară de apă. După-amiaza este dedicată eleganței conacului Tohisoo și atmosferei relaxante a parcului adiacent. Vă încheiați ziua cu o plimbare liniștită de-a lungul râului Keila, absorbind frumusețea naturală a zonei.",
+        "en": "Your day in Kohila begins with a journey into Estonian history at the Monument of the War of Independence, followed by the spiritual quiet of the Baptist Church. The morning immerses you in the town's industrial heritage, exploring the impressive paper factory and the picturesque watermill. The afternoon is dedicated to the elegance of Tohisoo Manor and the relaxing atmosphere of its adjacent park. You end your day with a peaceful walk along the Keila River, taking in the area's natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kama",
+            "tip": "Probieren Sie dieses einzigartige estnische geröstete Getreidegetränk."
+          },
+          {
+            "name": "Leib",
+            "tip": "Genießen Sie das dichte und schmackhafte estnische Schwarzbrot."
+          },
+          {
+            "name": "Vana Toomas",
+            "tip": "Ein lokales Restaurant, das für seine herzhafte estnische Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kama",
+            "tip": "Kóstolja meg ezt az egyedülálló észt pörkölt gabonaitalt."
+          },
+          {
+            "name": "Leib",
+            "tip": "Élvezze a sűrű és ízletes észt fekete kenyeret."
+          },
+          {
+            "name": "Vana Toomas",
+            "tip": "Egy helyi étterem, amely a kiadós észt konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kama",
+            "tip": "Încercați această băutură unică estoniană din cereale prăjite."
+          },
+          {
+            "name": "Leib",
+            "tip": "Savurați pâinea neagră estoniană densă și gustoasă."
+          },
+          {
+            "name": "Vana Toomas",
+            "tip": "Un restaurant local cunoscut pentru bucătăria sa estoniană consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kama",
+            "tip": "Try this unique Estonian roasted grain beverage."
+          },
+          {
+            "name": "Leib",
+            "tip": "Enjoy the dense and flavourful Estonian black bread."
+          },
+          {
+            "name": "Vana Toomas",
+            "tip": "A local restaurant known for its hearty Estonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Keila",
+            "tip": "Ein ruhiger Ort, um dem Wasser zu lauschen und Vögel zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kohila Park",
+            "tip": "Finden Sie eine abgelegene Bank unter den alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hinterhof des Herrenhauses Tohisoo",
+            "tip": "Ein friedlicher Ort mit Blick auf die Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keila-folyó partja",
+            "tip": "Csendes hely a víz hallgatására és madármegfigyelésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kohila Park",
+            "tip": "Keressen egy félreeső padot az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tohisoo-kastély hátsó udvara",
+            "tip": "Békés hely a kertekre néző kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Keila",
+            "tip": "Un loc liniștit pentru a asculta apa și a privi păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Kohila",
+            "tip": "Găsiți o bancă retrasă sub copacii bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea din spate a conacului Tohisoo",
+            "tip": "Un loc pașnic cu vedere la grădini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keila Riverbank",
+            "tip": "A quiet spot to listen to the water and watch for birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kohila Park",
+            "tip": "Find a secluded bench under the old trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tohisoo Manor's backyard",
+            "tip": "A peaceful spot overlooking the gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten und handgefertigten Waren."
+          },
+          {
+            "name": "Kunsthandwerksladen im Herrenhaus Tohisoo",
+            "tip": "Kaufen Sie einzigartige Souvenirs, die von lokalen Künstlern hergestellt wurden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Kézműves bolt a Tohisoo-kastélyban",
+            "tip": "Vásároljon egyedi, helyi művészek által készített szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale și articole de artizanat."
+          },
+          {
+            "name": "Magazin de artizanat la conacul Tohisoo",
+            "tip": "Cumpărați suveniruri unice realizate de artiști locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce and handcrafted goods."
+          },
+          {
+            "name": "Tohisoo Manor Craft Shop",
+            "tip": "Purchase unique souvenirs made by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für den Spaziergang zum Herrenhaus Tohisoo.",
+          "Überprüfen Sie die Öffnungszeiten der Papierfabrik, da diese variieren können.",
+          "Respektieren Sie die Ruhe in der Baptistenkirche."
+        ],
+        "hu": [
+          "Viseljen kényelmes sétacipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával vizet és harapnivalót, különösen a Tohisoo-kastélyhoz vezető útra.",
+          "Ellenőrizze a papírgyár nyitvatartási idejét, mert az változhat.",
+          "Tartsa tiszteletben a csendet a baptista templomban."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili, deoarece veți merge mult pe jos.",
+          "Luați apă și gustări, în special pentru plimbarea până la conacul Tohisoo.",
+          "Verificați programul de funcționare al fabricii de hârtie, deoarece acesta poate varia.",
+          "Respectați liniștea de la Biserica Baptistă."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as you'll be covering a lot of ground.",
+          "Bring water and snacks, especially for the walk to Tohisoo Manor.",
+          "Check the opening hours for the paper factory as they may vary.",
+          "Be respectful of the quiet atmosphere at the Baptist Church."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Herrenhaus Tohisoo",
+            "hu": "Tohisoo-kastély",
+            "ro": "Conacul Tohisoo",
+            "en": "Tohisoo Manor"
+          },
+          "coords": [
+            24.7508,
+            59.1768
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für einen ruhigen Start in den Tag.",
+            "hu": "Kezdje itt a napot egy békés indításhoz.",
+            "ro": "Începeți aici pentru un început liniștit al zilei.",
+            "en": "Start here for a peaceful beginning to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohila Park",
+            "hu": "Kohila Park",
+            "ro": "Parcul Kohila",
+            "en": "Kohila Park"
+          },
+          "coords": [
+            24.752,
+            59.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt durch den Park.",
+            "hu": "Tegyen egy rövid kört a parkban.",
+            "ro": "Faceți o plimbare scurtă cu bicicleta prin parc.",
+            "en": "Take a short ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Keila",
+            "hu": "Keila-folyó",
+            "ro": "Râul Keila",
+            "en": "Keila River"
+          },
+          "coords": [
+            24.73,
+            59.17
+          ],
+          "category": "natural features",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Halten Sie an einer der Brücken für eine schöne Aussicht an.",
+            "hu": "Álljon meg egy hídon a szép kilátásért.",
+            "ro": "Opriți-vă la unul dintre poduri pentru o priveliște frumoasă.",
+            "en": "Stop at one of the bridges for a scenic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Papierfabrik",
+            "hu": "Történelmi Papírgyár",
+            "ro": "Fabrica istorică de hârtie",
+            "en": "Historic Paper Factory"
+          },
+          "coords": [
+            24.735,
+            59.172
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Anlage erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a területet.",
+            "ro": "Asigurați-vă bicicleta în timp ce explorați complexul.",
+            "en": "Lock your bike securely while exploring the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Wassermühle",
+            "hu": "Történelmi Vízimalom",
+            "ro": "Moara de apă istorică",
+            "en": "Historic Watermill"
+          },
+          "coords": [
+            24.736,
+            59.171
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein schnelles Mittagessen.",
+            "hu": "Remek hely egy gyors ebédhez.",
+            "ro": "Un loc minunat pentru un prânz rapid.",
+            "en": "A great spot for a quick lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Freiheitskrieges",
+            "hu": "Függetlenségi Háború Emlékműve",
+            "ro": "Monumentul Războiului de Independență",
+            "en": "Monument of the War of Independence"
+          },
+          "coords": [
+            24.726,
+            59.168
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um über die Geschichte nachzudenken.",
+            "hu": "Egy rövid megálló a történelemről való elmélkedéshez.",
+            "ro": "O oprire scurtă pentru a reflecta asupra istoriei.",
+            "en": "A quick stop to reflect on history."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptistenkirche Kohila",
+            "hu": "Kohilai Baptista Templom",
+            "ro": "Biserica Baptistă din Kohila",
+            "en": "Kohila Baptist Church"
+          },
+          "coords": [
+            24.7275,
+            59.169
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schätzen Sie die Stille nach Ihrer Radtour.",
+            "hu": "Értékelje a csendet a kerékpártúra után.",
+            "ro": "Apreciați liniștea după plimbarea cu bicicleta.",
+            "en": "Appreciate the quietness after your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Kohila",
+            "hu": "Kohila-kastély",
+            "ro": "Conacul Kohila",
+            "en": "Herrenhaus Kohila"
+          },
+          "coords": [
+            24.701,
+            59.165
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit diesem beeindruckenden Anwesen.",
+            "hu": "Zárja a túrát ezzel a lenyűgöző birtokkal.",
+            "ro": "Încheiați-vă turul cu această proprietate impresionantă.",
+            "en": "End your tour at this impressive estate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Kohila beginnt mit der stattlichen Eleganz des Herrenhauses Tohisoo und einer schnellen Runde durch den Park. Sie folgen dem Lauf des Flusses Keila, genießen die Landschaft, bevor Sie in das industrielle Herz der Stadt mit seiner Papierfabrik und Wassermühle eintauchen. Nach dem Mittagessen führt Sie Ihre Route zu historischen und spirituellen Sehenswürdigkeiten im Stadtzentrum. Die Tour endet mit einer längeren Fahrt zum großartigen Herrenhaus Kohila, einem passenden Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "A kohilai kerékpártúra a Tohisoo-kastély fenséges eleganciájával és egy gyors parkbeli körrel kezdődik. A Keila-folyó mentén haladva élvezheti a tájat, mielőtt elmerülne a város ipari szívében, a papírgyárral és a vízimalommal. Ebéd után az útvonal a városközpont történelmi és spirituális helyszíneihez vezet. A túra egy hosszabb tekeréssel zárul a pompás Kohila-kastélyhoz, amely méltó befejezése a felfedezésekkel teli napnak.",
+        "ro": "Turul dvs. cu bicicleta prin Kohila începe cu eleganța impunătoare a conacului Tohisoo și o tură rapidă prin parc. Urmați cursul râului Keila, bucurându-vă de peisaj înainte de a vă adânci în inima industrială a orașului, cu fabrica sa de hârtie și moara de apă. După prânz, traseul vă duce la repere istorice și spirituale din centrul orașului. Turul se încheie cu o plimbare mai lungă până la grandiosul conac Kohila, un final potrivit pentru o zi de explorare.",
+        "en": "Your bike tour of Kohila begins with the stately elegance of Tohisoo Manor and a quick spin through the park. You'll follow the course of the Keila River, enjoying the scenery before delving into the town's industrial heart at its paper factory and watermill. After lunch, your route takes you to historical and spiritual landmarks in the town center. The tour concludes with a longer ride to the grand Herrenhaus Kohila, a fitting end to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirukad",
+            "tip": "Herzhafte Gebäcke, perfekt als schneller Bissen."
+          },
+          {
+            "name": "Kohalik õlu",
+            "tip": "Probieren Sie ein lokales estnisches Bier nach Ihrer Fahrt."
+          },
+          {
+            "name": "Pubi Koma",
+            "tip": "Ein beliebter Ort für ein zwangloses Essen und ein Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirukad",
+            "tip": "Kiadós péksütemények, tökéletesek egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Kohalik õlu",
+            "tip": "Kóstoljon meg egy helyi észt sört a tekerés után."
+          },
+          {
+            "name": "Pubi Koma",
+            "tip": "Népszerű hely egy laza étkezéshez és italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirukad",
+            "tip": "Produse de patiserie sărate, perfecte pentru o gustare rapidă."
+          },
+          {
+            "name": "Kohalik õlu",
+            "tip": "Încercați o bere locală estoniană după plimbare."
+          },
+          {
+            "name": "Pubi Koma",
+            "tip": "Un loc popular pentru o masă și o băutură casual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirukad",
+            "tip": "Savoury pastries perfect for a quick bite."
+          },
+          {
+            "name": "Kohalik õlu",
+            "tip": "Try a local Estonian beer after your ride."
+          },
+          {
+            "name": "Pubi Koma",
+            "tip": "A popular spot for a casual meal and a drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Keila",
+            "tip": "Genießen Sie die ruhige Fahrt entlang des Wassers.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Gärten des Herrenhauses Kohila",
+            "tip": "Ein ruhiger Abschluss Ihrer Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eine Bank im Kohila Park",
+            "tip": "Machen Sie eine Pause und beobachten Sie die Natur.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Keila-folyó mentén",
+            "tip": "Élvezze a csendes tekerést a víz mentén.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "A Kohila-kastély kertjei",
+            "tip": "A kerékpártúra békés lezárása.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy pad a Kohila Parkban",
+            "tip": "Tartson egy kis szünetet és figyelje a természetet.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului Keila",
+            "tip": "Bucurați-vă de plimbarea liniștită de-a lungul apei.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădinile conacului Kohila",
+            "tip": "Un final liniștit pentru turul cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "O bancă în Parcul Kohila",
+            "tip": "Luați o pauză și priviți natura.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Keila River bike path",
+            "tip": "Enjoy the quiet ride alongside the water.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Herrenhaus Kohila gardens",
+            "tip": "A tranquil end to your cycling tour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A bench in Kohila Park",
+            "tip": "Take a break and observe nature.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Holen Sie sich Zubehör oder einen schnellen Check-up."
+          },
+          {
+            "name": "Handgefertigte Waren",
+            "tip": "Suchen Sie nach lokalen Handwerkern in der Nähe der Touristenattraktionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Szerezzen be kiegészítőket vagy egy gyors ellenőrzést."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Keressen helyi kézműveseket a turisztikai látványosságok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Luați accesorii sau faceți o verificare rapidă."
+          },
+          {
+            "name": "Produse de artizanat",
+            "tip": "Căutați artizani locali în apropierea atracțiilor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "Pick up any accessories or get a quick check-up."
+          },
+          {
+            "name": "Handmade goods",
+            "tip": "Look for local artisans near the tourist spots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor Beginn der Tour, insbesondere die Reifen und Bremsen.",
+          "Tragen Sie einen Helm und helle Kleidung.",
+          "Nehmen Sie ein Fahrradschloss für die Stopps mit.",
+          "Seien Sie auf den Wegen, die Sie mit Fußgängern teilen, rücksichtsvoll."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárt a túra megkezdése előtt, különösen a gumikat és a fékeket.",
+          "Viseljen sisakot és élénk színű ruhát.",
+          "Hozzon magával kerékpárzárat a megállókhoz.",
+          "Legyen tekintettel a gyalogosokkal közös utakon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special anvelopele și frânele.",
+          "Purtați cască și haine de culori deschise.",
+          "Luați un lacăt de bicicletă pentru opriri.",
+          "Fiți respectuos pe căile pe care le împărțiți cu pietonii."
+        ],
+        "en": [
+          "Check your bike before starting, especially tires and brakes.",
+          "Wear a helmet and bright clothing.",
+          "Bring a bike lock for the stops.",
+          "Be considerate on paths shared with pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 26.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Tohisoo & Park",
+            "hu": "1. klaszter: Tohisoo és Park",
+            "ro": "Cluster 1: Tohisoo & Parc",
+            "en": "Cluster 1: Tohisoo & Park"
+          },
+          "coords": [
+            24.7508,
+            59.1768
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Herrenhaus und erkunden Sie die Gegend zu Fuß.",
+            "hu": "Parkoljon a kastélynál, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați la conac și explorați zona pe jos.",
+            "en": "Park at the manor and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohila Park",
+            "hu": "Kohila Park",
+            "ro": "Parcul Kohila",
+            "en": "Kohila Park"
+          },
+          "coords": [
+            24.752,
+            59.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:32",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus entfernt.",
+            "hu": "Rövid séta a kastélytól.",
+            "ro": "La o scurtă plimbare de conac.",
+            "en": "A short walk from the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Industrie & Fluss",
+            "hu": "2. klaszter: Ipar és folyó",
+            "ro": "Cluster 2: Industrie & Râu",
+            "en": "Cluster 2: Industry & River"
+          },
+          "coords": [
+            24.735,
+            59.172
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz und besuchen Sie beide Industriestandorte.",
+            "hu": "Keressen parkolóhelyet, és látogassa meg mindkét ipari helyszínt.",
+            "ro": "Găsiți un loc de parcare și vizitați ambele situri industriale.",
+            "en": "Find a parking spot and visit both industrial sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Wassermühle",
+            "hu": "Történelmi Vízimalom",
+            "ro": "Moara de apă istorică",
+            "en": "Historic Watermill"
+          },
+          "coords": [
+            24.736,
+            59.171
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:47",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie hier Ihr Mittagessen mit Aussicht.",
+            "hu": "Ebédeljen itt a kilátás mellett.",
+            "ro": "Bucurați-vă de prânz aici, cu o priveliște.",
+            "en": "Enjoy your lunch here with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Keila",
+            "hu": "Keila-folyó",
+            "ro": "Râul Keila",
+            "en": "Keila River"
+          },
+          "coords": [
+            24.73,
+            59.17
+          ],
+          "category": "natural features",
+          "arrive_at": "13:31",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang des Flusses nach dem Mittagessen.",
+            "hu": "Rövid séta a folyó mentén ebéd után.",
+            "ro": "O scurtă plimbare de-a lungul râului după prânz.",
+            "en": "A short post-lunch stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum",
+            "hu": "3. klaszter: Városközpont",
+            "ro": "Cluster 3: Centrul orașului",
+            "en": "Cluster 3: Town Center"
+          },
+          "coords": [
+            24.726,
+            59.168
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:06",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum für den letzten Teil der Tour.",
+            "hu": "Parkoljon a központban a túra utolsó szakaszához.",
+            "ro": "Parcați în centru pentru ultima parte a turului.",
+            "en": "Park in the center for the final leg of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptistenkirche Kohila",
+            "hu": "Kohilai Baptista Templom",
+            "ro": "Biserica Baptistă din Kohila",
+            "en": "Kohila Baptist Church"
+          },
+          "coords": [
+            24.7275,
+            59.169
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Békés hely a nap befejezéséhez.",
+            "ro": "Un loc liniștit pentru a încheia ziua.",
+            "en": "A peaceful place to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Kohila nutzt die Cluster-Walking-Philosophie. Sie fahren zuerst zum Herrenhaus Tohisoo, parken und genießen einen Spaziergang durch das Anwesen und den Park. Ihr zweiter Autostopp ist das Industriegebiet, wo Sie die Papierfabrik, die Mühle und den Fluss Keila zu Fuß erkunden. Die letzte Fahrt des Tages bringt Sie ins Stadtzentrum, wo Sie das Denkmal und die Baptistenkirche besuchen, bevor Sie nach Hause fahren. Dieser Ansatz minimiert die Parkplatzsuche und maximiert die Zeit vor Ort.",
+        "hu": "Az autós nap Kohilában a klaszteres séta filozófiáját követi. Először a Tohisoo-kastélyhoz hajt, leparkol, és sétát tesz a birtokon és a parkban. A második autós megálló az ipari negyed, ahol gyalog fedezi fel a papírgyárat, a malmot és a Keila-folyót. A nap utolsó útja a városközpontba vezet, ahol meglátogatja az emlékművet és a baptista templomot, mielőtt hazaindulna. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja a helyszínen töltött időt.",
+        "ro": "Ziua dvs. cu mașina în Kohila folosește filozofia plimbării în clustere. Conduceți mai întâi la conacul Tohisoo, parcați și bucurați-vă de o plimbare prin proprietate și parc. A doua oprire cu mașina este la hub-ul industrial, unde explorați pe jos fabrica de hârtie, moara și râul Keila. Ultima călătorie a zilei vă duce în centrul orașului pentru a vizita monumentul și Biserica Baptistă înainte de a vă întoarce acasă. Această abordare minimizează căutarea parcării și maximizează timpul petrecut la fața locului.",
+        "en": "Your car day in Kohila uses the cluster-walking philosophy. You'll first drive to Tohisoo Manor, park, and enjoy a walk through the estate and park. Your second car hop is to the industrial hub, where you'll explore the paper factory, mill, and Keila River on foot. The day's final drive takes you to the town center to visit the monument and Baptist Church before heading home. This approach minimizes parking hassles and maximizes on-the-ground time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sült leib",
+            "tip": "Gebratenes Schwarzbrot mit Knoblauch, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Grillfest",
+            "tip": "Nutzen Sie den Platz im Auto, um einen tragbaren Grill für ein Picknick mitzubringen."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "Ein Gasthaus in der Nähe der Wassermühle, ideal für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült leib",
+            "tip": "Sült fekete kenyér fokhagymával, tökéletes úti snack."
+          },
+          {
+            "name": "Grillezés",
+            "tip": "Használja ki az autóban lévő helyet, és hozzon magával egy hordozható grillt egy piknikhez."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "A vízimalom közelében található vendéglő, ideális egy kiadós ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sült leib",
+            "tip": "Pâine neagră prăjită cu usturoi, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Grătar",
+            "tip": "Folosiți spațiul din mașină pentru a aduce un grătar portabil pentru un picnic."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "Un han lângă moara de apă, ideal pentru un prânz consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sült leib",
+            "tip": "Fried black bread with garlic, a perfect road trip snack."
+          },
+          {
+            "name": "Barbecue",
+            "tip": "Use the car space to bring a portable grill for a picnic."
+          },
+          {
+            "name": "Veski Kõrts",
+            "tip": "A tavern near the watermill, great for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz am Herrenhaus Tohisoo",
+            "tip": "Genießen Sie die Ruhe am Morgen, bevor andere ankommen.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Aussichtspunkt am Fluss Keila",
+            "tip": "Ein kurzer Spaziergang vom Industriegebiet entfernt für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Moment in der Baptistenkirche",
+            "tip": "Finden Sie einen Moment der Stille, bevor Sie Ihre Heimreise antreten.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkoló a Tohisoo-kastélynál",
+            "tip": "Élvezze a reggeli csendet, mielőtt mások megérkeznek.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Kilátópont a Keila-folyónál",
+            "tip": "Rövid séta az ipari területtől egy csendes pihenőért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pillanat a baptista templomban",
+            "tip": "Találjon egy csendes pillanatot, mielőtt hazaindul.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea de la conacul Tohisoo",
+            "tip": "Bucurați-vă de liniștea dimineții înainte de a ajunge alții.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Punct de belvedere pe râul Keila",
+            "tip": "La o scurtă plimbare de zona industrială pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un moment la Biserica Baptistă",
+            "tip": "Găsiți un moment de liniște înainte de a vă întoarce acasă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tohisoo Manor parking lot",
+            "tip": "Enjoy the morning quiet before others arrive.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Keila River viewpoint",
+            "tip": "A short walk from the industrial area for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A moment inside the Baptist Church",
+            "tip": "Find a moment of silence before your journey home.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihrer Fahrt Ausschau nach Schildern für lokale Produkte."
+          },
+          {
+            "name": "Geschenkeladen im Herrenhaus Tohisoo",
+            "tip": "Hier finden Sie hochwertige lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Figyelje a helyi termékeket hirdető táblákat az út mentén."
+          },
+          {
+            "name": "Ajándékbolt a Tohisoo-kastélyban",
+            "tip": "Találjon itt minőségi helyi kézműves termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele pentru produse locale în timpul călătoriei."
+          },
+          {
+            "name": "Magazinul de cadouri al conacului Tohisoo",
+            "tip": "Găsiți aici artizanat local de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Keep an eye out for signs for local produce on your drive."
+          },
+          {
+            "name": "Tohisoo Manor gift shop",
+            "tip": "Find quality local crafts here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Offline-Karte herunter, falls das Mobilfunksignal schwach ist.",
+          "Achten Sie auf die Parkvorschriften an jedem Standort.",
+          "Bewahren Sie Wertsachen außer Sichtweite in Ihrem Auto auf.",
+          "Ein Auto gibt Ihnen die Flexibilität, abgelegene Orte zu besuchen."
+        ],
+        "hu": [
+          "Töltsön le egy offline térképet, ha gyenge a mobiljel.",
+          "Vegye figyelembe a parkolási szabályokat minden helyszínen.",
+          "Az értékeket tartsa láthatatlan helyen az autóban.",
+          "Az autó rugalmasságot biztosít a távolabbi helyek meglátogatásához."
+        ],
+        "ro": [
+          "Descărcați o hartă offline în caz de semnal mobil slab.",
+          "Fiți atenți la reglementările de parcare în fiecare locație.",
+          "Păstrați obiectele de valoare ascunse în mașină.",
+          "O mașină vă oferă flexibilitatea de a vizita locuri mai îndepărtate."
+        ],
+        "en": [
+          "Download an offline map in case mobile signal is weak.",
+          "Be aware of parking regulations at each location.",
+          "Keep valuables out of sight in your car.",
+          "A car gives you the flexibility to visit more remote spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul orașului",
+            "en": "Cluster 1: Town Center"
+          },
+          "coords": [
+            24.726,
+            59.168
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Busbahnhof.",
+            "hu": "Induljon a központi buszpályaudvarról.",
+            "ro": "Începeți de la autogara centrală.",
+            "en": "Start at the central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptistenkirche Kohila",
+            "hu": "Kohilai Baptista Templom",
+            "ro": "Biserica Baptistă din Kohila",
+            "en": "Kohila Baptist Church"
+          },
+          "coords": [
+            24.7275,
+            59.169
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Denkmal entfernt.",
+            "hu": "Csak egy rövid sétára az emlékműtől.",
+            "ro": "La o scurtă plimbare de monument.",
+            "en": "Just a short walk from the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Industriegebiet",
+            "hu": "2. klaszter: Ipari terület",
+            "ro": "Cluster 2: Zona industrială",
+            "en": "Cluster 2: Industrial Area"
+          },
+          "coords": [
+            24.735,
+            59.172
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'Paberivabrik'.",
+            "hu": "Menjen busszal a 'Paberivabrik' megállóig.",
+            "ro": "Luați autobuzul până la stația 'Paberivabrik'.",
+            "en": "Take the bus to the 'Paberivabrik' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Wassermühle",
+            "hu": "Történelmi Vízimalom",
+            "ro": "Moara de apă istorică",
+            "en": "Historic Watermill"
+          },
+          "coords": [
+            24.736,
+            59.171
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:54",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Papierfabrik gelegen.",
+            "hu": "Közvetlenül a papírgyár mellett található.",
+            "ro": "Situată chiar lângă fabrica de hârtie.",
+            "en": "Located right next to the paper factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Herrenhaus Tohisoo",
+            "hu": "3. klaszter: Tohisoo-kastély",
+            "ro": "Cluster 3: Conacul Tohisoo",
+            "en": "Cluster 3: Tohisoo Manor"
+          },
+          "coords": [
+            24.7508,
+            59.1768
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die letzte Busfahrt des Tages führt Sie zum Herrenhaus.",
+            "hu": "A nap utolsó buszútja a kastélyhoz vezet.",
+            "ro": "Ultima călătorie cu autobuzul a zilei vă duce la conac.",
+            "en": "The final bus ride of the day takes you to the manor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohila Park",
+            "hu": "Kohila Park",
+            "ro": "Parcul Kohila",
+            "en": "Kohila Park"
+          },
+          "coords": [
+            24.752,
+            59.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:44",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie den Bus zurück nehmen.",
+            "hu": "Pihenjen a parkban, mielőtt visszaindulna a busszal.",
+            "ro": "Relaxați-vă în parc înainte de a lua autobuzul înapoi.",
+            "en": "Relax in the park before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Kohila in effizienten Etappen. Sie beginnen im Stadtzentrum mit dem Denkmal und der Kirche, beide zu Fuß erreichbar. Eine kurze Busfahrt bringt Sie zum Industriecluster, wo Sie die Papierfabrik und die Mühle erkunden. Eine weitere Busfahrt bringt Sie zum Highlight des Nachmittags, dem Herrenhaus Tohisoo und seinem Park. Dieser Plan optimiert Ihre Zeit, indem er Busfahrten mit kurzen Spaziergängen innerhalb jedes Clusters kombiniert.",
+        "hu": "Tömegközlekedéssel hatékony szakaszokban fedezheti fel Kohilát. A városközpontban kezdi az emlékművel és a templommal, mindkettő gyalogosan elérhető. Egy rövid buszozás elviszi az ipari klaszterhez, ahol felfedezheti a papírgyárat és a malmot. Egy másik buszút eljuttatja a délután fénypontjához, a Tohisoo-kastélyhoz és parkjához. Ez a terv optimalizálja az idejét, kombinálva a buszutakat az egyes klasztereken belüli rövid sétákkal.",
+        "ro": "Folosind transportul public, explorați Kohila în etape eficiente. Începeți în centrul orașului cu monumentul și biserica, ambele accesibile pe jos. O scurtă călătorie cu autobuzul vă duce la clusterul industrial pentru a explora fabrica de hârtie și moara. O altă călătorie cu autobuzul vă aduce la punctul culminant al după-amiezii, conacul Tohisoo și parcul său. Acest plan vă optimizează timpul, combinând călătoriile cu autobuzul cu plimbări scurte în fiecare cluster.",
+        "en": "Using public transit, you'll explore Kohila in efficient stages. You start in the town center with the monument and church, both within walking distance. A short bus ride takes you to the industrial cluster to explore the paper factory and mill. Another bus ride brings you to the afternoon's highlight, Tohisoo Manor and its park. This plan optimizes your time by combining bus journeys with short walks within each cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kringel",
+            "tip": "Ein süßes, geflochtenes Brot, das Sie in einer lokalen Bäckerei finden können."
+          },
+          {
+            "name": "Café",
+            "tip": "Wärmen Sie sich zwischen den Busfahrten bei einer Tasse Kaffee auf."
+          },
+          {
+            "name": "Supermarkt-Picknick",
+            "tip": "Kaufen Sie lokale Snacks für ein einfaches Mittagessen im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kringel",
+            "tip": "Édes, fonott kalács, amelyet egy helyi pékségben találhat."
+          },
+          {
+            "name": "Kávézó",
+            "tip": "Melegedjen fel egy csésze kávéval a buszutak között."
+          },
+          {
+            "name": "Szupermarket piknik",
+            "tip": "Vásároljon helyi harapnivalókat egy egyszerű ebédhez a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kringel",
+            "tip": "O pâine dulce, împletită, pe care o puteți găsi la o brutărie locală."
+          },
+          {
+            "name": "Cafenea",
+            "tip": "Încălziți-vă cu o ceașcă de cafea între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Picnic de la supermarket",
+            "tip": "Cumpărați gustări locale pentru un prânz ușor în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kringel",
+            "tip": "A sweet, braided bread you can find at a local bakery."
+          },
+          {
+            "name": "Café",
+            "tip": "Warm up with a cup of coffee between bus rides."
+          },
+          {
+            "name": "Supermarket picnic",
+            "tip": "Grab some local snacks for an easy lunch in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfenster",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Warten auf den Bus",
+            "tip": "Ein Moment, um die Umgebung zu beobachten und durchzuatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine ruhige Ecke im Kohila Park",
+            "tip": "Entfliehen Sie dem Trubel, bevor Sie Ihre letzte Busfahrt antreten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszablak",
+            "tip": "Élvezze a tájat, ahogy elhalad mellette.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Várakozás a buszra",
+            "tip": "Egy pillanat a környezet megfigyelésére és a lélegzetvételre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy csendes sarok a Kohila Parkban",
+            "tip": "Meneküljön el a nyüzsgés elől, mielőtt felszállna az utolsó buszra.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fereastra autobuzului",
+            "tip": "Bucurați-vă de peisajul care trece.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Așteptând autobuzul",
+            "tip": "Un moment pentru a observa împrejurimile și a respira.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Kohila",
+            "tip": "Evadați din agitație înainte de a lua ultimul autobuz.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus window",
+            "tip": "Enjoy watching the scenery pass by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Waiting for the bus",
+            "tip": "A moment to observe the surroundings and breathe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A quiet corner in Kohila Park",
+            "tip": "Escape the hustle before catching your last bus.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie ein Souvenir oder einen Snack für Ihre Reise."
+          },
+          {
+            "name": "Lokale Geschäfte",
+            "tip": "Erkunden Sie die Geschäfte in der Nähe der Bushaltestellen während Sie warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon egy szuvenírt vagy harapnivalót az útra."
+          },
+          {
+            "name": "Helyi üzletek",
+            "tip": "Fedezze fel a buszmegállók közelében lévő üzleteket, amíg vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un suvenir sau o gustare pentru călătorie."
+          },
+          {
+            "name": "Magazine locale",
+            "tip": "Explorați magazinele din apropierea stațiilor de autobuz în timp ce așteptați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus station kiosk",
+            "tip": "Grab a souvenir or a snack for your journey."
+          },
+          {
+            "name": "Local shops",
+            "tip": "Explore the shops near the bus stops while you wait."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Fahrt.",
+          "Kaufen Sie eine Tageskarte für das beste Preis-Leistungs-Verhältnis.",
+          "Halten Sie Kleingeld für Tickets bereit, falls erforderlich.",
+          "Seien Sie pünktlich an der Bushaltestelle."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatét.",
+          "Vásároljon napijegyet a legjobb ár-érték arány érdekében.",
+          "Tartson magánál aprópénzt a jegyekhez, ha szükséges.",
+          "Legyen pontosan a buszmegállóban."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie.",
+          "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+          "Aveți la îndemână mărunțiș pentru bilete, dacă este necesar.",
+          "Fiți la stația de autobuz la timp."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the last service.",
+          "Purchase a day pass for the best value.",
+          "Have small change ready for tickets if needed.",
+          "Be at the bus stop on time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1335 @@
+{
+  "city_id": "sweden-nykoping-cities-v2",
+  "anchor": {
+    "name": "Nyköping",
+    "coords": [
+      17.0079,
+      58.753
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stora torget",
+          "coords": [
+            17.0079,
+            58.753
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das historische Zentrum der Stadt.",
+            "hu": "A város történelmi központja.",
+            "ro": "Centrul istoric al orașului.",
+            "en": "The historical center of the city."
+          }
+        },
+        {
+          "name": "Alla Helgona kyrka",
+          "coords": [
+            17.012,
+            58.752
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur.",
+            "hu": "Csodálja meg a gyönyörű építészetet.",
+            "ro": "Admirați arhitectura frumoasă.",
+            "en": "Admire the beautiful architecture."
+          }
+        },
+        {
+          "name": "Tovastugan",
+          "coords": [
+            17.011,
+            58.751
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierendes altes Holzhaus.",
+            "hu": "Lenyűgöző régi faház.",
+            "ro": "O fascinantă casă veche de lemn.",
+            "en": "A fascinating old wooden house."
+          }
+        },
+        {
+          "name": "Nyköpingshus",
+          "coords": [
+            17.002,
+            58.749
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schauplatz des historischen Nyköping-Gastmahls.",
+            "hu": "A híres nyköpingi lakoma helyszíne.",
+            "ro": "Locul istoricului banchet de la Nyköping.",
+            "en": "Site of the historic Nyköping Banquet."
+          }
+        },
+        {
+          "name": "Sörmlands museum",
+          "coords": [
+            17.004,
+            58.748
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spannende interaktive Ausstellungen.",
+            "hu": "Izgalmas és interaktív kiállítások.",
+            "ro": "Expoziții interactive captivante.",
+            "en": "Exciting interactive exhibitions."
+          }
+        },
+        {
+          "name": "Nyköpings hamn",
+          "coords": [
+            17.01,
+            58.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Eis.",
+            "hu": "Tökéletes hely egy fagyizáshoz.",
+            "ro": "Locul perfect pentru o înghețată.",
+            "en": "The perfect spot for an ice cream."
+          }
+        },
+        {
+          "name": "Piren",
+          "coords": [
+            17.015,
+            58.742
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den herrlichen Blick auf das Wasser.",
+            "hu": "Élvezze a csodás kilátást a vízre.",
+            "ro": "Bucurați-vă de priveliștea minunată asupra apei.",
+            "en": "Enjoy the great view of the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Stora torget im Herzen der Stadt. Erkunden Sie die Altstadt und die historischen Kirchen in Ruhe. Am Mittag locken das mittelalterliche Schloss Nyköpingshus und das moderne Sörmlands Museum. Nachmittags spazieren Sie entspannt am lebhaften Hafen entlang. Lassen Sie den Tag mit einem weiten Blick vom Pier Piren ausklingen.",
+        "hu": "Kezdje a napot a város szívében, a Stora torget téren. Fedezze fel az óvárost és a történelmi templomokat. Ebédidőben várja a Nyköpingshus kastély és a modern Sörmlands Múzeum. Délután sétáljon egyet a nyüzsgő és hangulatos kikötőben. Zárja a napot a Piren mólóról nyíló gyönyörű kilátással.",
+        "ro": "Începeți ziua în inima orașului, în Piața Stora torget. Explorați orașul vechi și bisericile istorice în tihnă. La prânz, vizitați castelul medieval Nyköpingshus și modernul Muzeu Sörmlands. După-amiaza faceți o plimbare relaxantă în portul animat. Încheiați ziua cu o priveliște superbă de pe digul Piren.",
+        "en": "Start your day in the heart of the city at Stora torget. Explore the old town and historic churches at your own pace. At midday, visit the medieval Nyköpingshus castle and the modern Sörmlands Museum. In the afternoon, take a relaxing stroll along the vibrant harbor. End your day with a sweeping view from the Piren pier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditionelles Smörgåsbord"
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Schwedische Zimtschnecke"
+          },
+          {
+            "name": "Hafenrestaurant",
+            "tip": "Frischer lokaler Fisch"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Hagyományos smörgåsbord"
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Svéd fahéjas csiga"
+          },
+          {
+            "name": "Kikötői étterem",
+            "tip": "Friss helyi hal"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Smörgåsbord tradițional"
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Melc suedez cu scorțișoară"
+          },
+          {
+            "name": "Restaurant în port",
+            "tip": "Pește local proaspăt"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditional smörgåsbord"
+          },
+          {
+            "name": "Cafe in the center",
+            "tip": "Swedish cinnamon roll"
+          },
+          {
+            "name": "Harbor restaurant",
+            "tip": "Fresh local fish"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piren",
+            "tip": "Sonnenuntergang am Wasser",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Ruhiger Naturspaziergang",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchenpark",
+            "tip": "Eine kurze Pause",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piren",
+            "tip": "Naplemente a vízparton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Csendes természeti séta",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Rövid pihenő",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piren",
+            "tip": "Apus de soare pe apă",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Plimbare liniștită în natură",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul bisericii",
+            "tip": "O scurtă pauză",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piren",
+            "tip": "Sunset by the water",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Quiet nature walk",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church park",
+            "tip": "A short break",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stora torget",
+            "tip": "Lokales Kunsthandwerk"
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Historische Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora torget",
+            "tip": "Helyi kézműves termékek"
+          },
+          {
+            "name": "Múzeum bolt",
+            "tip": "Történelmi szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora torget",
+            "tip": "Artizanat local"
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Suveniruri istorice"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora torget",
+            "tip": "Local crafts"
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Historical souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Altstadt.",
+          "Im Sommer ist der Hafenbereich sehr belebt.",
+          "Probieren Sie unbedingt die lokalen Fischgerichte.",
+          "Die Museen haben montags oft geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óvárosban.",
+          "Nyáron a kikötő nagyon forgalmas és élénk.",
+          "Mindenképpen kóstolja meg a helyi halételeket.",
+          "A múzeumok hétfőn gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru orașul vechi.",
+          "Vara, zona portului este foarte animată.",
+          "Nu ratați preparatele locale din pește.",
+          "Muzeele sunt adesea închise lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes for the old town.",
+          "In summer, the harbor area is very lively.",
+          "Make sure to try the local fish dishes.",
+          "Museums are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stora torget",
+          "coords": [
+            17.0079,
+            58.753
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Indulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": "Nyköpingshus",
+          "coords": [
+            17.002,
+            58.749
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad gut abschließen.",
+            "hu": "Zárja le biztonságosan a biciklit.",
+            "ro": "Asigurați-vă bine bicicleta.",
+            "en": "Lock your bike securely."
+          }
+        },
+        {
+          "name": "Sörmlands museum",
+          "coords": [
+            17.004,
+            58.748
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss.",
+            "hu": "Közvetlenül a kastély mellett.",
+            "ro": "Chiar lângă castel.",
+            "en": "Right next to the castle."
+          }
+        },
+        {
+          "name": "Nyköpings hamn",
+          "coords": [
+            17.01,
+            58.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege am Wasser.",
+            "hu": "Szép kerékpárutak a vízparton.",
+            "ro": "Piste de biciclete frumoase pe malul apei.",
+            "en": "Beautiful bike paths by the water."
+          }
+        },
+        {
+          "name": "Piren",
+          "coords": [
+            17.015,
+            58.742
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie bis ans Ende des Piers.",
+            "hu": "Tekerjen el a móló végéig.",
+            "ro": "Pedalați până la capătul digului.",
+            "en": "Cycle to the end of the pier."
+          }
+        },
+        {
+          "name": "Labro ängar",
+          "coords": [
+            17.03,
+            58.745
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss in der Natur.",
+            "hu": "Szép befejezés a természetben.",
+            "ro": "O încheiere frumoasă în natură.",
+            "en": "A beautiful finish in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Stora torget und radeln Sie gemütlich durch die Altstadt. Besuchen Sie am Vormittag das Schloss Nyköpingshus und das angrenzende Sörmlands Museum. Nachmittags fahren Sie am Hafen entlang zum Pier Piren. Die Tour endet mit einer längeren Fahrt ins ruhige Naturreservat Labro ängar.",
+        "hu": "Induljon a Stora torget térről, és tekerjen kényelmesen az óvároson át. Délelőtt látogassa meg a Nyköpingshus kastélyt és a Sörmlands Múzeumot. Délután guruljon végig a kikötőben a Piren mólóig. A túra a csendes Labro ängar természetvédelmi terület felfedezésével ér véget.",
+        "ro": "Porniți de la Stora torget și pedalați relaxat prin orașul vechi. Dimineața, vizitați Castelul Nyköpingshus și Muzeul Sörmlands alăturat. După-amiaza, mergeți de-a lungul portului până la digul Piren. Turul se încheie cu o plimbare spre rezervația naturală liniștită Labro ängar.",
+        "en": "Start at Stora torget and cycle leisurely through the old town. In the morning, visit Nyköpingshus castle and the adjacent Sörmlands Museum. In the afternoon, ride along the harbor to the Piren pier. The tour ends with a longer ride to the tranquil Labro ängar nature reserve."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditionelles Smörgåsbord"
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Schwedische Zimtschnecke"
+          },
+          {
+            "name": "Hafenrestaurant",
+            "tip": "Frischer lokaler Fisch"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Hagyományos smörgåsbord"
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Svéd fahéjas csiga"
+          },
+          {
+            "name": "Kikötői étterem",
+            "tip": "Friss helyi hal"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Smörgåsbord tradițional"
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Melc suedez cu scorțișoară"
+          },
+          {
+            "name": "Restaurant în port",
+            "tip": "Pește local proaspăt"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditional smörgåsbord"
+          },
+          {
+            "name": "Cafe in the center",
+            "tip": "Swedish cinnamon roll"
+          },
+          {
+            "name": "Harbor restaurant",
+            "tip": "Fresh local fish"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piren",
+            "tip": "Sonnenuntergang am Wasser",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Ruhiger Naturspaziergang",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchenpark",
+            "tip": "Eine kurze Pause",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piren",
+            "tip": "Naplemente a vízparton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Csendes természeti séta",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Rövid pihenő",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piren",
+            "tip": "Apus de soare pe apă",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Plimbare liniștită în natură",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul bisericii",
+            "tip": "O scurtă pauză",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piren",
+            "tip": "Sunset by the water",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Quiet nature walk",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church park",
+            "tip": "A short break",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stora torget",
+            "tip": "Lokales Kunsthandwerk"
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Historische Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora torget",
+            "tip": "Helyi kézműves termékek"
+          },
+          {
+            "name": "Múzeum bolt",
+            "tip": "Történelmi szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora torget",
+            "tip": "Artizanat local"
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Suveniruri istorice"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora torget",
+            "tip": "Local crafts"
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Historical souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nyköping ist sehr fahrradfreundlich.",
+          "Nutzen Sie die schönen Wege entlang des Wassers.",
+          "Schließen Sie Ihr Rad am Schloss immer sicher ab.",
+          "Besondere Vorsicht bei Fußgängern im Hafenbereich."
+        ],
+        "hu": [
+          "Nyköping egy nagyon kerékpárbarát város.",
+          "Használja a gyönyörű vízparti kerékpárutakat.",
+          "A kastélynál mindig biztonságosan zárja le a biciklit.",
+          "A kikötőben különösen ügyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Nyköping este un oraș foarte prietenos cu bicicliștii.",
+          "Folosiți frumoasele piste de-a lungul apei.",
+          "Asigurați-vă întotdeauna bine bicicleta la castel.",
+          "Atenție deosebită la pietoni în zona portului."
+        ],
+        "en": [
+          "Nyköping is a very bike-friendly city.",
+          "Use the beautiful paths along the water.",
+          "Always secure your bike properly at the castle.",
+          "Be especially careful of pedestrians in the harbor area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stora torget",
+          "coords": [
+            17.0079,
+            58.753
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rande des Zentrums.",
+            "hu": "Parkoljon a központ szélén.",
+            "ro": "Parcați la marginea centrului.",
+            "en": "Park on the edge of the center."
+          }
+        },
+        {
+          "name": "Alla Helgona kyrka",
+          "coords": [
+            17.012,
+            58.752
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Torget.",
+            "hu": "Rövid séta a Torget térről.",
+            "ro": "Scurtă plimbare de la Torget.",
+            "en": "Short walk from the Torget."
+          }
+        },
+        {
+          "name": "Nyköpingshus",
+          "coords": [
+            17.002,
+            58.749
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Hafen-Cluster.",
+            "hu": "Utazás a kikötői klaszterhez.",
+            "ro": "Conduceți spre clusterul portului.",
+            "en": "Drive to the harbor cluster."
+          }
+        },
+        {
+          "name": "Sörmlands museum",
+          "coords": [
+            17.004,
+            58.748
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am Schloss stehen.",
+            "hu": "Hagyja az autót a kastélynál.",
+            "ro": "Lăsați mașina la castel.",
+            "en": "Leave the car at the castle."
+          }
+        },
+        {
+          "name": "Nyköpings hamn",
+          "coords": [
+            17.01,
+            58.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß zum Wasser.",
+            "hu": "Gyalog a vízpartra.",
+            "ro": "Pe jos până la apă.",
+            "en": "Walk to the water."
+          }
+        },
+        {
+          "name": "Labro ängar",
+          "coords": [
+            17.03,
+            58.745
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt in die Natur zum Abschluss.",
+            "hu": "Utazás a természetbe levezetésként.",
+            "ro": "Conduceți în natură la final.",
+            "en": "Drive to nature for a finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie morgens im Zentrum, um den Stora torget und die Kirche fußläufig zu erkunden. Mittags fahren Sie zum Schloss Nyköpingshus; dort lassen Sie das Auto stehen und besuchen das Museum sowie den Hafen. Zum Abschluss des Tages fahren Sie hinaus zum Naturreservat Labro ängar.",
+        "hu": "Délelőtt parkoljon a központban, és fedezze fel gyalog a Stora torget teret és a templomot. Délben guruljon át a Nyköpingshus kastélyhoz; hagyja ott az autót, amíg megnézi a múzeumot és a kikötőt. A nap zárásaként kocsizzon el a nyugodt Labro ängar természetvédelmi területre.",
+        "ro": "Dimineața, parcați în centru pentru a explora pe jos Piața Stora torget și biserica. La prânz conduceți până la Castelul Nyköpingshus; lăsați mașina acolo și vizitați muzeul și portul. Pentru a încheia ziua, conduceți spre rezervația naturală Labro ängar.",
+        "en": "Park in the center in the morning to explore Stora torget and the church on foot. At midday, drive to Nyköpingshus castle; leave your car there to visit the museum and the harbor. To end the day, drive out to the tranquil Labro ängar nature reserve."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditionelles Smörgåsbord"
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Schwedische Zimtschnecke"
+          },
+          {
+            "name": "Hafenrestaurant",
+            "tip": "Frischer lokaler Fisch"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Hagyományos smörgåsbord"
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Svéd fahéjas csiga"
+          },
+          {
+            "name": "Kikötői étterem",
+            "tip": "Friss helyi hal"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Smörgåsbord tradițional"
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Melc suedez cu scorțișoară"
+          },
+          {
+            "name": "Restaurant în port",
+            "tip": "Pește local proaspăt"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditional smörgåsbord"
+          },
+          {
+            "name": "Cafe in the center",
+            "tip": "Swedish cinnamon roll"
+          },
+          {
+            "name": "Harbor restaurant",
+            "tip": "Fresh local fish"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piren",
+            "tip": "Sonnenuntergang am Wasser",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Ruhiger Naturspaziergang",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchenpark",
+            "tip": "Eine kurze Pause",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piren",
+            "tip": "Naplemente a vízparton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Csendes természeti séta",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Rövid pihenő",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piren",
+            "tip": "Apus de soare pe apă",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Plimbare liniștită în natură",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul bisericii",
+            "tip": "O scurtă pauză",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piren",
+            "tip": "Sunset by the water",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Quiet nature walk",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church park",
+            "tip": "A short break",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stora torget",
+            "tip": "Lokales Kunsthandwerk"
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Historische Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora torget",
+            "tip": "Helyi kézműves termékek"
+          },
+          {
+            "name": "Múzeum bolt",
+            "tip": "Történelmi szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora torget",
+            "tip": "Artizanat local"
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Suveniruri istorice"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora torget",
+            "tip": "Local crafts"
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Historical souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie bequem am Schloss oder am Museum.",
+          "Das historische Zentrum ist größtenteils autofrei.",
+          "Fahren Sie nicht direkt in die engen Altstadtgassen.",
+          "Achten Sie in der Innenstadt auf Parkgebühren."
+        ],
+        "hu": [
+          "Parkoljon kényelmesen a kastélynál vagy a múzeumnál.",
+          "A történelmi központ nagy része autómentes övezet.",
+          "Ne kíséreljen meg behajtani a szűk óvárosi utcákba.",
+          "Figyeljen a parkolási díjakra a belvárosban."
+        ],
+        "ro": [
+          "Parcați confortabil la castel sau la muzeu.",
+          "Centrul istoric este în mare parte pietonal.",
+          "Nu intrați direct pe străzile înguste din orașul vechi.",
+          "Atenție la taxele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Park conveniently at the castle or the museum.",
+          "The historic center is largely car-free.",
+          "Do not try to drive into the narrow old town streets.",
+          "Pay attention to parking fees in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stora torget",
+          "coords": [
+            17.0079,
+            58.753
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct central de plecare.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": "Tovastugan",
+          "coords": [
+            17.011,
+            58.751
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare de la centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": "Nyköpingshus",
+          "coords": [
+            17.002,
+            58.749
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus in Richtung Hafen.",
+            "hu": "Busz a kikötő felé.",
+            "ro": "Autobuz spre port.",
+            "en": "Bus towards the harbor."
+          }
+        },
+        {
+          "name": "Sörmlands museum",
+          "coords": [
+            17.004,
+            58.748
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt nebenan zu Fuß.",
+            "hu": "Közvetlenül a szomszédban.",
+            "ro": "Chiar alături pe jos.",
+            "en": "Right next door on foot."
+          }
+        },
+        {
+          "name": "Nyköpings hamn",
+          "coords": [
+            17.01,
+            58.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Flanieren Sie am Wasser entlang.",
+            "hu": "Sétáljon a vízparton.",
+            "ro": "Plimbați-vă de-a lungul apei.",
+            "en": "Stroll along the water."
+          }
+        },
+        {
+          "name": "Piren",
+          "coords": [
+            17.015,
+            58.742
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von hier fährt auch ein Bus zurück.",
+            "hu": "Innen busz is indul vissza.",
+            "ro": "De aici pleacă un autobuz înapoi.",
+            "en": "A bus also runs back from here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach einem entspannten Start am Stora torget und dem alten Haus Tovastugan nehmen Sie den Bus zum Hafen-Cluster. Verbringen Sie die Mittagszeit mit der Erkundung des Schlosses Nyköpingshus und des Sörmlands Museums. Am Nachmittag spazieren Sie am Wasser entlang bis zum Pier Piren, bevor Sie zurückfahren.",
+        "hu": "A Stora torget tér és a régi Tovastugan faház felfedezése után pattanjon buszra a kikötő felé. Töltse a délt a Nyköpingshus kastély és a Sörmlands Múzeum megtekintésével. Délután sétáljon végig a vízparton a Piren mólóig, ahonnan kényelmesen visszautazhat.",
+        "ro": "După un început relaxant în Piața Stora torget și la vechea casă Tovastugan, luați autobuzul spre port. Petreceți prânzul explorând Castelul Nyköpingshus și Muzeul Sörmlands. După-amiaza plimbați-vă de-a lungul apei până la digul Piren, înainte de a vă întoarce.",
+        "en": "After a relaxed start at Stora torget and the old Tovastugan house, take the bus to the harbor cluster. Spend midday exploring Nyköpingshus castle and the Sörmlands Museum. In the afternoon, walk along the waterfront to the Piren pier before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditionelles Smörgåsbord"
+          },
+          {
+            "name": "Café im Zentrum",
+            "tip": "Schwedische Zimtschnecke"
+          },
+          {
+            "name": "Hafenrestaurant",
+            "tip": "Frischer lokaler Fisch"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Hagyományos smörgåsbord"
+          },
+          {
+            "name": "Kávézó a központban",
+            "tip": "Svéd fahéjas csiga"
+          },
+          {
+            "name": "Kikötői étterem",
+            "tip": "Friss helyi hal"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Smörgåsbord tradițional"
+          },
+          {
+            "name": "Cafenea în centru",
+            "tip": "Melc suedez cu scorțișoară"
+          },
+          {
+            "name": "Restaurant în port",
+            "tip": "Pește local proaspăt"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hamnkrog",
+            "tip": "Traditional smörgåsbord"
+          },
+          {
+            "name": "Cafe in the center",
+            "tip": "Swedish cinnamon roll"
+          },
+          {
+            "name": "Harbor restaurant",
+            "tip": "Fresh local fish"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piren",
+            "tip": "Sonnenuntergang am Wasser",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Ruhiger Naturspaziergang",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchenpark",
+            "tip": "Eine kurze Pause",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piren",
+            "tip": "Naplemente a vízparton",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Csendes természeti séta",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Rövid pihenő",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piren",
+            "tip": "Apus de soare pe apă",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Plimbare liniștită în natură",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul bisericii",
+            "tip": "O scurtă pauză",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piren",
+            "tip": "Sunset by the water",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labro ängar",
+            "tip": "Quiet nature walk",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church park",
+            "tip": "A short break",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stora torget",
+            "tip": "Lokales Kunsthandwerk"
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Historische Souvenirs"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stora torget",
+            "tip": "Helyi kézműves termékek"
+          },
+          {
+            "name": "Múzeum bolt",
+            "tip": "Történelmi szuvenírek"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stora torget",
+            "tip": "Artizanat local"
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Suveniruri istorice"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stora torget",
+            "tip": "Local crafts"
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Historical souvenirs"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die lokalen Busse fahren sehr regelmäßig.",
+          "Kaufen Sie Ihre Bustickets bequem in der App.",
+          "Der historische Hafen ist gut an den Nahverkehr angebunden.",
+          "Beachten Sie, dass am Wochenende etwas weniger Busse fahren."
+        ],
+        "hu": [
+          "A helyi buszjáratok nagyon rendszeresen közlekednek.",
+          "Vásárolja meg a buszjegyet kényelmesen a mobilalkalmazásban.",
+          "A történelmi kikötő jól megközelíthető tömegközlekedéssel.",
+          "Vegye figyelembe, hogy hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Autobuzele locale circulă foarte regulat.",
+          "Cumpărați biletele de autobuz confortabil din aplicație.",
+          "Portul istoric este bine conectat la transportul public.",
+          "Rețineți că în weekend circulă mai puține autobuze."
+        ],
+        "en": [
+          "Local buses run very regularly.",
+          "Buy your bus tickets conveniently in the app.",
+          "The historic harbor is well connected to public transport.",
+          "Keep in mind that fewer buses run on weekends."
+        ]
+      }
+    }
+  }
+}

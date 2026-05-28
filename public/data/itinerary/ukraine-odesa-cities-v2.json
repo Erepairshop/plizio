@@ -1,0 +1,1532 @@
+{
+  "city_id": "ukraine-odesa-cities-v2",
+  "anchor": {
+    "name": "Odessa",
+    "coords": [
+      30.7233,
+      46.4825
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Deribasiwska-Straße",
+            "hu": "Deribaszivszka utca",
+            "ro": "Strada Deribasivska",
+            "en": "Deribasivska Street"
+          },
+          "coords": [
+            30.733,
+            46.4835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Indítsa a napot egy kávéval az utca számos kávézójának egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe stradă.",
+            "en": "Start your day with a coffee at one of the many cafés along the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten (Miskyj Sad)",
+            "hu": "Városi Kert (Miszkij Szad)",
+            "ro": "Grădina Orașului (Miskyi Sad)",
+            "en": "City Garden (Miskyi Sad)"
+          },
+          "coords": [
+            30.73,
+            46.484
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:46",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Denkmal für den zwölften Stuhl.",
+            "hu": "Keresse meg a Tizenkét szék emlékművét!",
+            "ro": "Căutați monumentul dedicat celor „Douăsprezece Scaune”.",
+            "en": "Look for the monument to the Twelfth Chair."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            30.732,
+            46.48
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wiederaufgebaute Pracht dieser wichtigen orthodoxen Kirche.",
+            "hu": "Csodálja meg ennek a fontos ortodox templomnak az újjáépített pompáját!",
+            "ro": "Admirați splendoarea reconstruită a acestei importante biserici ortodoxe.",
+            "en": "Admire the rebuilt splendor of this important Orthodox church."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Odesa",
+            "hu": "Odesszai Operaház",
+            "ro": "Opera din Odesa",
+            "en": "Odesa Opera House"
+          },
+          "coords": [
+            30.7365,
+            46.4858
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Führung, um das opulente Innere zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megcsodálhassa a pazar belső teret!",
+            "ro": "Faceți un tur ghidat pentru a vedea interiorul opulent.",
+            "en": "Take a guided tour to see the opulent interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Herzog von Richelieu",
+            "hu": "Richelieu herceg emlékműve",
+            "ro": "Statuia Ducelui de Richelieu",
+            "en": "Duke de Richelieu Monument"
+          },
+          "coords": [
+            30.7415,
+            46.4889
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:43",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein beliebter Fotospot mit Blick auf die Potemkinsche Treppe.",
+            "hu": "Népszerű fotóhelyszín, kilátással a Patyomkin-lépcsőre.",
+            "ro": "Un loc popular pentru fotografii, cu vedere la Scările Potemkin.",
+            "en": "A popular photo spot overlooking the Potemkin Stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Potemkinsche Treppe",
+            "hu": "Patyomkin-lépcső",
+            "ro": "Scările Potemkin",
+            "en": "Potemkin Stairs"
+          },
+          "coords": [
+            30.741,
+            46.4886
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zählen Sie die Stufen auf dem Weg nach unten - es gibt eine optische Täuschung!",
+            "hu": "Számolja meg a lépcsőfokokat lefelé menet – egy optikai csalódás részese lesz!",
+            "ro": "Numărați treptele la coborâre - există o iluzie optică!",
+            "en": "Count the steps on your way down - there's an optical illusion!"
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Odesa",
+            "hu": "Odesszai kikötő",
+            "ro": "Portul Odesa",
+            "en": "Port of Odesa"
+          },
+          "coords": [
+            30.745,
+            46.495
+          ],
+          "category": "port",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Bootsfahrt für eine andere Perspektive der Stadt.",
+            "hu": "Tegyen egy rövid hajókirándulást a város más szemszögből való megtekintéséhez!",
+            "ro": "Faceți o scurtă plimbare cu barca pentru o perspectivă diferită asupra orașului.",
+            "en": "Take a short boat tour for a different perspective of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Woronzow-Palast",
+            "hu": "Voroncov-palota",
+            "ro": "Palatul Voronțov",
+            "en": "Vorontsov Palace"
+          },
+          "coords": [
+            30.742,
+            46.4895
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Kolonnade bietet einen der besten Ausblicke auf den Sonnenuntergang.",
+            "hu": "A kollonád az egyik legjobb naplementés kilátást nyújtja.",
+            "ro": "Colonada oferă una dintre cele mai bune priveliști la apus.",
+            "en": "The colonnade offers one of the best sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt auf der belebten Deribasiwska-Straße, dem Herzschlag von Odesa. Am Morgen erkunden Sie den ruhigen Stadtgarten und die beeindruckende Verklärungs-Kathedrale. Der Vormittag gehört der hohen Kultur im prächtigen Opernhaus, einem architektonischen Juwel. Nach einem Mittagessen in der Nähe steigen Sie am Nachmittag die berühmte Potemkinsche Treppe hinab zum Hafen und spüren die Meeresbrise. Den Abend beschließen Sie mit einem Spaziergang zum Woronzow-Palast, wo Sie den Sonnenuntergang über dem Schwarzen Meer von der Kolonnade aus genießen können.",
+        "hu": "Sétája Odessza szívében, a nyüzsgő Deribaszivszka utcán kezdődik. A délelőtt folyamán felfedezi a nyugodt Városi Kertet és a lenyűgöző Színeváltozás-székesegyházat. A délelőtt a fenséges Operaházban, egy építészeti gyöngyszemben a magas kultúráé. Egy közeli ebéd után délután lesétál a híres Patyomkin-lépcsőn a kikötőbe, hogy érezze a tengeri szellőt. Az estét a Voroncov-palotához tett sétával zárja, ahol a kolonádról élvezheti a naplementét a Fekete-tenger felett.",
+        "ro": "Plimbarea dvs. începe pe vibranta stradă Deribasivska, inima Odesei. Dimineața explorați liniștita Grădină a Orașului și impunătoarea Catedrală a Schimbării la Față. Amiaza este dedicată culturii înalte la magnifica Operă, o bijuterie arhitecturală. După prânzul în apropiere, după-amiaza coborâți faimoasele Scări Potemkin spre port pentru a simți briza mării. Încheiați seara cu o plimbare la Palatul Voronțov, savurând apusul peste Marea Neagră de la colonadă.",
+        "en": "Your walking tour begins on the vibrant Deribasivska Street, the heartbeat of Odesa. The morning is for exploring the tranquil City Garden and the impressive Transfiguration Cathedral. Midday is for high culture at the magnificent Opera House, an architectural gem. After lunch nearby, the afternoon takes you down the famous Potemkin Stairs to the port to feel the sea breeze. You'll conclude the evening with a stroll to the Vorontsov Palace, catching the sunset over the Black Sea from its colonnade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forshmak",
+            "tip": "Ein klassischer Herings-Vorspeise, probieren Sie es im Restaurant Maman."
+          },
+          {
+            "name": "Tschornomorski Bytschky",
+            "tip": "Gebratene Schwarzmeergrundeln, ein lokaler Snack, den man am besten mit Bier genießt."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, oft mit Kartoffeln oder Kirschen, ein Muss in jedem ukrainischen Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forsmak",
+            "tip": "Klasszikus heringes előétel, kóstolja meg a Maman étteremben."
+          },
+          {
+            "name": "Csornomorszki bicski",
+            "tip": "Sült fekete-tengeri géb, helyi snack, leginkább sörrel fogyasztva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött tésztabatyu, gyakran krumplival vagy cseresznyével; kötelező minden ukrán étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forșmac",
+            "tip": "Un aperitiv clasic din hering, încercați-l la restaurantul Maman."
+          },
+          {
+            "name": "Bîciki de Marea Neagră",
+            "tip": "Guviizi prăjiți, o gustare locală savurată cel mai bine cu bere."
+          },
+          {
+            "name": "Vareniki",
+            "tip": "Găluște umplute, adesea cu cartofi sau cireșe, un preparat obligatoriu la orice restaurant ucrainean."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forshmak",
+            "tip": "A classic herring pâté appetizer, try it at Maman restaurant."
+          },
+          {
+            "name": "Chornomorski Bychky",
+            "tip": "Fried Black Sea gobies, a local snack best enjoyed with beer."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Stuffed dumplings, often with potatoes or cherries, a must-try at any Ukrainian restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kolonnade des Woronzow-Palastes",
+            "tip": "Der beste Ort für einen Panoramablick auf den Sonnenuntergang über dem Hafen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtgarten",
+            "tip": "Finden Sie eine ruhige Bank am Springbrunnen und beobachten Sie die Welt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lanzheron Strand",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt, um dem Rauschen der Wellen zuzuhören.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Voroncov-palota kollonádja",
+            "tip": "A legjobb hely a naplemente panorámájának megcsodálására a kikötő felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városi Kert",
+            "tip": "Keressen egy csendes padot a szökőkútnál, és figyelje a világot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lanzseron strand",
+            "tip": "Rövid séta a központtól, hogy hallgassa a hullámok hangját.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colonada Palatului Voronțov",
+            "tip": "Cel mai bun loc pentru o vedere panoramică la apus peste port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Orașului",
+            "tip": "Găsiți o bancă liniștită lângă fântână și priviți lumea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Lanzheron",
+            "tip": "O plimbare scurtă din centru pentru a asculta sunetul valurilor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vorontsov Palace Colonnade",
+            "tip": "The best spot for a panoramic sunset view over the port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Garden",
+            "tip": "Find a quiet bench by the fountain and watch the world go by.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lanzheron Beach",
+            "tip": "A short walk from the center to listen to the sound of the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Priwoz-Markt",
+            "tip": "Ein authentischer lokaler Markt. Kaufen Sie geräucherten Fisch oder lokalen Käse."
+          },
+          {
+            "name": "Souvenirstände auf der Deribasiwska",
+            "tip": "Perfekt für Postkarten, Magnete und traditionelle ukrainische Hemden (Wyschywanka)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pryvoz Piac",
+            "tip": "Autentikus helyi piac. Vásároljon füstölt halat vagy helyi sajtot."
+          },
+          {
+            "name": "Szurvenírstandok a Deribaszivszkán",
+            "tip": "Tökéletes képeslapok, mágnesek és hagyományos ukrán ingek (visivanka) vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Pryvoz",
+            "tip": "O piață locală autentică. Cumpărați pește afumat sau brânză locală."
+          },
+          {
+            "name": "Tarabe de suveniruri pe Deribasivska",
+            "tip": "Perfect pentru cărți poștale, magneți și cămăși tradiționale ucrainene (Vyshyvanka)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Privoz Market",
+            "tip": "An authentic local market experience. Buy some smoked fish or local cheese."
+          },
+          {
+            "name": "Souvenir Stalls on Deribasivska",
+            "tip": "Perfect for postcards, magnets, and traditional Ukrainian shirts (Vyshyvanka)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten zentralen Sehenswürdigkeiten sind zu Fuß erreichbar.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder bereit.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "A legtöbb központi látnivaló gyalogosan is elérhető.",
+          "Mindig tartson magánál némi készpénzt kisebb vásárlásokhoz vagy borravalóhoz.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele pot fi denivelate.",
+          "Majoritatea atracțiilor centrale sunt la distanță de mers pe jos.",
+          "Aveți întotdeauna niște bani lichizi pentru achiziții mici sau bacșișuri.",
+          "Luați cu voi o sticlă de apă reutilizabilă pentru a vă menține hidratați."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most central attractions are within easy walking distance.",
+          "Always have some cash on hand for small purchases or tips.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Priwoz-Markt",
+            "hu": "Pryvoz Piac",
+            "ro": "Piața Pryvoz",
+            "en": "Privoz Market"
+          },
+          "coords": [
+            30.707,
+            46.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das geschäftige Treiben und probieren Sie lokale Produkte.",
+            "hu": "Merüljön el a nyüzsgésben, és kóstoljon helyi termékeket.",
+            "ro": "Cufundați-vă în agitația pieței și gustați produsele locale.",
+            "en": "Immerse yourself in the hustle and bustle and sample local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            30.732,
+            46.48
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe nach dem Trubel des Marktes.",
+            "hu": "A nyugalom helye a piac nyüzsgése után.",
+            "ro": "Un loc de liniște după agitația pieței.",
+            "en": "A place of tranquility after the bustle of the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Deribasiwska-Straße",
+            "hu": "Deribaszivszka utca",
+            "ro": "Strada Deribasivska",
+            "en": "Deribasivska Street"
+          },
+          "coords": [
+            30.733,
+            46.4835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und machen Sie einen kurzen Spaziergang.",
+            "hu": "Zárja le a biciklit, és tegyen egy rövid sétát.",
+            "ro": "Parcați bicicleta și faceți o scurtă plimbare.",
+            "en": "Park your bike and take a short stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Odesa",
+            "hu": "Odesszai Operaház",
+            "ro": "Opera din Odesa",
+            "en": "Odesa Opera House"
+          },
+          "coords": [
+            30.7365,
+            46.4858
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:32",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur von außen; sie ist atemberaubend.",
+            "hu": "Csodálja meg az épületet kívülről; lenyűgöző.",
+            "ro": "Admirați arhitectura din exterior; este uluitoare.",
+            "en": "Admire the architecture from the outside; it's stunning."
+          }
+        },
+        {
+          "name": {
+            "de": "Potemkinsche Treppe & Hafen",
+            "hu": "Patyomkin-lépcső és kikötő",
+            "ro": "Scările Potemkin și Portul",
+            "en": "Potemkin Stairs & Port"
+          },
+          "coords": [
+            30.743,
+            46.49
+          ],
+          "category": "port",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Standseilbahn wieder nach oben, um Energie zu sparen.",
+            "hu": "Használja a siklót felfelé, hogy energiát takarítson meg.",
+            "ro": "Luați funicularul înapoi sus pentru a economisi energie.",
+            "en": "Take the funicular back up to save energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Lanzheron Strand",
+            "hu": "Lanzseron strand",
+            "ro": "Plaja Lanzheron",
+            "en": "Lanzheron Beach"
+          },
+          "coords": [
+            30.765,
+            46.48
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie nach dem Mittagessen eine wohlverdiente Pause am Meer.",
+            "hu": "Ebéd után élvezze a jól megérdemelt pihenést a tengernél.",
+            "ro": "După prânz, bucurați-vă de o pauză binemeritată la malul mării.",
+            "en": "Enjoy a well-deserved break by the sea after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Woronzow-Palast",
+            "hu": "Voroncov-palota",
+            "ro": "Palatul Voronțov",
+            "en": "Vorontsov Palace"
+          },
+          "coords": [
+            30.742,
+            46.4895
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:29",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit Blick auf den Sonnenuntergang ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására naplementés kilátással.",
+            "ro": "Locul perfect pentru a încheia ziua privind apusul.",
+            "en": "The perfect spot to end your day watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt auf dem lebhaften Priwoz-Markt, wo Sie das lokale Leben aufsaugen. Am Morgen fahren Sie ins Stadtzentrum, um die ruhige Verklärungs-Kathedrale und das berühmte Opernhaus zu bewundern. Am Mittag erreichen Sie das Herz von Odesa, die Potemkinsche Treppe und den Hafen, ideal für eine Mittagspause mit Aussicht. Der Nachmittag ist der Entspannung gewidmet, mit einer längeren Fahrt zum Lanzheron-Strand, um die Sonne und das Meer zu genießen. Die Tour endet am Abend am Woronzow-Palast, von wo aus Sie einen letzten herrlichen Blick auf die Stadt und das Meer haben.",
+        "hu": "Kerékpártúrája a nyüzsgő Pryvoz Piacon kezdődik, ahol belekóstolhat a helyi életbe. Délelőtt a városközpontba teker, hogy megcsodálja a nyugodt Színeváltozás-székesegyházat és a híres Operaházat. Délben eléri Odessza szívét, a Patyomkin-lépcsőt és a kikötőt, amely ideális egy kilátással egybekötött ebédszünethez. A délután a pihenésé, egy hosszabb tekeréssel a Lanzseron strandra, ahol élvezheti a napot és a tengert. A túra este a Voroncov-palotánál ér véget, ahonnan utoljára csodálhatja meg a városra és a tengerre nyíló kilátást.",
+        "ro": "Turul pe bicicletă începe în vibranta Piață Pryvoz, absorbind viața locală. Dimineața pedalați spre centrul orașului pentru a admira liniștita Catedrală a Schimbării la Față și faimoasa Operă. La prânz, ajungeți în inima Odesei la Scările Potemkin și în port, ideal pentru o pauză de masă cu priveliște. După-amiaza este dedicată relaxării, cu o plimbare mai lungă până la Plaja Lanzheron pentru a vă bucura de soare și mare. Turul se încheie seara la Palatul Voronțov pentru o ultimă priveliște magnifică asupra orașului și mării.",
+        "en": "Your bike tour starts at the lively Privoz Market, soaking up the local life. In the morning, you'll cycle to the city center to admire the serene Transfiguration Cathedral and the famous Opera House. By midday, you'll reach the heart of Odesa at the Potemkin Stairs and the port, ideal for a lunch break with a view. The afternoon is for relaxation with a longer ride to Lanzheron Beach to enjoy the sun and sea. The tour concludes in the evening at Vorontsov Palace for one last magnificent view of the city and the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kumpel",
+            "tip": "Ein Restaurant mit eigener Brauerei, ideal für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Fratelli Ristorante & Enoteca",
+            "tip": "Italienische Küche mit lokalen Meeresfrüchten, perfekt für ein Abendessen."
+          },
+          {
+            "name": "Lwiwska Majsternja Schokoladu",
+            "tip": "Ein Schokoladencafé für eine süße Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kumpel",
+            "tip": "Sörfőzdével rendelkező étterem, ideális egy kiadós ebédhez."
+          },
+          {
+            "name": "Fratelli Ristorante & Enoteca",
+            "tip": "Olasz konyha helyi tenger gyümölcseivel, tökéletes vacsorához."
+          },
+          {
+            "name": "Lviv Csokoládéműhely",
+            "tip": "Csokoládézó egy édes délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kumpel",
+            "tip": "Un restaurant cu berărie proprie, ideal pentru un prânz consistent."
+          },
+          {
+            "name": "Fratelli Ristorante & Enoteca",
+            "tip": "Bucătărie italiană cu fructe de mare locale, perfectă pentru cină."
+          },
+          {
+            "name": "Lvivska Maysternya Shokoladu",
+            "tip": "O cafenea cu ciocolată pentru o pauză dulce de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kumpel",
+            "tip": "A restaurant with its own brewery, great for a hearty lunch."
+          },
+          {
+            "name": "Fratelli Ristorante & Enoteca",
+            "tip": "Italian cuisine with local seafood, perfect for dinner."
+          },
+          {
+            "name": "Lviv Chocolate Workshop",
+            "tip": "A chocolate cafe for a sweet afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Shevchenko Park",
+            "tip": "Ein großer, ruhiger Park in der Nähe des Strandes, ideal für eine Radpause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Gesundheitspfad (Trassa Swdorowja)",
+            "tip": "Ein autofreier Weg entlang der Küste, perfekt für eine entspannte Fahrt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Entfliehen Sie der Stadt und genießen Sie die vielfältige Pflanzenwelt.",
+            "emoji": "🌺"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sevcsenko Park",
+            "tip": "Nagy, csendes park a strand közelében, ideális egy biciklis pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Egészség ösvény (Trassza Zdorovja)",
+            "tip": "Autómentes út a part mentén, tökéletes egy nyugodt tekeréshez.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Meneküljön el a városból, és élvezze a változatos növényvilágot.",
+            "emoji": "🌺"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Șevcenko",
+            "tip": "Un parc mare și liniștit lângă plajă, ideal pentru o pauză de la pedalat.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Traseul Sănătății (Trassa Zdorovya)",
+            "tip": "O alee fără mașini de-a lungul coastei, perfectă pentru o plimbare relaxantă.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Evadați din oraș și bucurați-vă de flora diversă.",
+            "emoji": "🌺"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shevchenko Park",
+            "tip": "A large, quiet park near the beach, ideal for a cycling break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Health Track (Trassa Zdorovya)",
+            "tip": "A car-free path along the coast, perfect for a relaxed ride.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "Escape the city and enjoy the diverse plant life.",
+            "emoji": "🌺"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Katerynynska Straße",
+            "tip": "Bekannt für ihre Boutiquen und Designerläden."
+          },
+          {
+            "name": "Bücherflohmarkt bei Fedorova",
+            "tip": "Ein Paradies für Buchliebhaber mit seltenen Funden und alten Ausgaben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katerininszka utca",
+            "tip": "Butikjairól és dizájner boltjairól ismert."
+          },
+          {
+            "name": "Könyvpiac Fedorovnál",
+            "tip": "A könyvbarátok paradicsoma ritka leletekkel és régi kiadásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Katerynynska",
+            "tip": "Cunoscută pentru buticurile și magazinele de designer."
+          },
+          {
+            "name": "Târgul de carte de la Fedorova",
+            "tip": "Un paradis pentru iubitorii de cărți, cu descoperiri rare și ediții vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Katerynynska Street",
+            "tip": "Known for its boutique shops and designer stores."
+          },
+          {
+            "name": "Book Flea Market at Fedorova",
+            "tip": "A paradise for book lovers with rare finds and old editions."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Nutzen Sie Fahrrad-Sharing-Dienste, wenn Sie kein eigenes Rad haben.",
+          "Achten Sie auf den Verkehr; die Radwege sind nicht immer getrennt.",
+          "Schließen Sie Ihr Fahrrad immer an einem festen Gegenstand ab."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Használjon kerékpár-megosztó szolgáltatásokat, ha nincs sajátja.",
+          "Vigyázzon a forgalomra; a kerékpárutak nem mindig elkülönítettek.",
+          "Mindig zárja le a kerékpárt egy szilárd tárgyhoz."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Folosiți serviciile de bike-sharing dacă nu aveți propria bicicletă.",
+          "Fiți atenți la trafic; pistele de biciclete nu sunt întotdeauna separate.",
+          "Legați-vă întotdeauna bicicleta de un obiect fix."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes and tires.",
+          "Use bike-sharing services if you don't have your own.",
+          "Be mindful of traffic; bike lanes are not always separated.",
+          "Always lock your bike to a fixed object."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 35.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Katakomben von Odesa (Dorf Nerubaiske)",
+            "hu": "Odesszai katakombák (Nerubajszke falu)",
+            "ro": "Catacombele din Odesa (Satul Nerubaiske)",
+            "en": "Odesa Catacombs (Nerubaiske village)"
+          },
+          "coords": [
+            30.65,
+            46.55
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil; es ist leicht, sich zu verirren. Bringen Sie eine Jacke mit, es ist kühl.",
+            "hu": "Vegyen részt vezetett túrán, könnyű eltévedni. Hozzon kabátot, hűvös van.",
+            "ro": "Participați la un tur ghidat; este ușor să vă rătăciți. Aduceți o jachetă, este răcoare.",
+            "en": "Take a guided tour; it's easy to get lost. Bring a jacket, it's chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Priwoz-Markt",
+            "hu": "Pryvoz Piac",
+            "ro": "Piața Pryvoz",
+            "en": "Privoz Market"
+          },
+          "coords": [
+            30.707,
+            46.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18,
+          "tip_5lang": {
+            "de": "Suchen Sie nach einem Parkplatz in den Seitenstraßen. Ideal für ein authentisches Mittagessen.",
+            "hu": "Keressen parkolót a mellékutcákban. Ideális egy autentikus ebédhez.",
+            "ro": "Căutați un loc de parcare pe străzile lăturalnice. Ideal pentru un prânz autentic.",
+            "en": "Look for parking in the side streets. Great for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Odesa",
+            "hu": "Odesszai Operaház",
+            "ro": "Opera din Odesa",
+            "en": "Odesa Opera House"
+          },
+          "coords": [
+            30.7365,
+            46.4858
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und erkunden Sie diesen Cluster zu Fuß.",
+            "hu": "Parkoljon a központ közelében, és fedezze fel ezt a klasztert gyalog.",
+            "ro": "Parcați lângă centru și explorați acest cluster pe jos.",
+            "en": "Park near the center and explore this cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Deribasiwska-Straße",
+            "hu": "Deribaszivszka utca",
+            "ro": "Strada Deribasivska",
+            "en": "Deribasivska Street"
+          },
+          "coords": [
+            30.733,
+            46.4835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fußgängerzone nach der Fahrt.",
+            "hu": "Élvezze a sétálóutcát a vezetés után.",
+            "ro": "Bucurați-vă de zona pietonală după condus.",
+            "en": "Enjoy the pedestrian atmosphere after driving."
+          }
+        },
+        {
+          "name": {
+            "de": "Potemkinsche Treppe",
+            "hu": "Patyomkin-lépcső",
+            "ro": "Scările Potemkin",
+            "en": "Potemkin Stairs"
+          },
+          "coords": [
+            30.741,
+            46.4886
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und gehen Sie die Treppe hinunter zum Meerblick.",
+            "hu": "Hagyja az autót, és sétáljon le a lépcsőn a tengeri kilátásért.",
+            "ro": "Lăsați mașina și coborâți scările pentru vederea la mare.",
+            "en": "Leave the car and walk down the stairs for the sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Woronzow-Palast",
+            "hu": "Voroncov-palota",
+            "ro": "Palatul Voronțov",
+            "en": "Vorontsov Palace"
+          },
+          "coords": [
+            30.742,
+            46.4895
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:07",
+          "stay_min": 107,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit einem Sonnenuntergang von der Kolonnade aus.",
+            "hu": "Tökéletes befejezése a napnak egy naplementével a kolonádról.",
+            "ro": "Finalul perfect al zilei cu un apus de soare de la colonadă.",
+            "en": "The perfect end to the day with a sunset from the colonnade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Abenteuer außerhalb der Stadt in den historischen Katakomben von Odesa. Am Morgen tauchen Sie in die unterirdische Geschichte ein, bevor Sie zum Mittagessen zurück in die Stadt zum lebhaften Priwoz-Markt fahren. Am Nachmittag parken Sie Ihr Auto im Zentrum und erkunden einen Cluster von Sehenswürdigkeiten zu Fuß: Bewundern Sie die Architektur des Opernhauses, schlendern Sie über die Deribasiwska-Straße und erleben Sie die ikonische Potemkinsche Treppe. Der Tag endet mit einem entspannten Abend am Woronzow-Palast, der einen atemberaubenden Blick auf den Sonnenuntergang bietet.",
+        "hu": "Autós napja egy városon kívüli kalanddal kezdődik Odessza történelmi katakombáiban. Délelőtt elmerül a föld alatti történelemben, mielőtt ebédre visszautazik a városba, a nyüzsgő Pryvoz Piacra. Délután leparkol a központban, és gyalogosan fedezi fel a látnivalók egy csoportját: megcsodálja az Operaház építészetét, sétál a Deribaszivszka utcán, és megtapasztalja az ikonikus Patyomkin-lépcsőt. A nap egy pihentető estével zárul a Voroncov-palotánál, ahonnan lenyűgöző naplementében gyönyörködhet.",
+        "ro": "Ziua cu mașina începe cu o aventură în afara orașului, la istoricele Catacombe din Odesa. Dimineața vă scufundați în istoria subterană înainte de a vă întoarce în oraș pentru prânz la vibranta Piață Pryvoz. După-amiaza, parcați în centru și explorați un grup de atracții pe jos: admirați arhitectura Operei, plimbați-vă pe strada Deribasivska și experimentați iconicele Scări Potemkin. Ziua se încheie cu o seară relaxantă la Palatul Voronțov, care oferă o priveliște uimitoare la apus.",
+        "en": "Your car day begins with an out-of-town adventure to the historic Odesa Catacombs. The morning is spent delving into underground history before driving back into the city for lunch at the vibrant Privoz Market. In the afternoon, you'll park in the center and explore a cluster of sights on foot: admire the Opera House's architecture, stroll down Deribasivska Street, and experience the iconic Potemkin Stairs. The day concludes with a relaxing evening at the Vorontsov Palace, offering a stunning sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Datscha",
+            "tip": "Etwas außerhalb des Zentrums, aber die Fahrt wert für sein authentisches ukrainisches Ambiente und Essen."
+          },
+          {
+            "name": "Bernardazzi",
+            "tip": "Bekannt für seine umfangreiche Weinkarte und gehobene Küche in einem wunderschönen Innenhof."
+          },
+          {
+            "name": "Tavernetta",
+            "tip": "Ein beliebtes italienisches Restaurant, ideal für ein zuverlässig gutes Essen nach einem langen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dacsa",
+            "tip": "Kicsit a központon kívül, de megéri az utat az autentikus ukrán hangulatért és ételekért."
+          },
+          {
+            "name": "Bernardazzi",
+            "tip": "Híres kiterjedt borlapjáról és elegáns konyhájáról egy gyönyörű udvarban."
+          },
+          {
+            "name": "Tavernetta",
+            "tip": "Népszerű olasz étterem, ideális egy megbízhatóan jó ételhez egy hosszú nap után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dacha",
+            "tip": "Puțin în afara centrului, dar merită drumul pentru atmosfera și mâncarea autentic ucraineană."
+          },
+          {
+            "name": "Bernardazzi",
+            "tip": "Renumit pentru lista sa extinsă de vinuri și bucătăria rafinată într-o curte frumoasă."
+          },
+          {
+            "name": "Tavernetta",
+            "tip": "Un restaurant italian popular, excelent pentru o masă sigură și bună după o zi lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dacha",
+            "tip": "Slightly outside the center but worth the drive for its authentic Ukrainian atmosphere and food."
+          },
+          {
+            "name": "Bernardazzi",
+            "tip": "Known for its extensive wine list and fine dining in a beautiful courtyard."
+          },
+          {
+            "name": "Tavernetta",
+            "tip": "A popular Italian restaurant, great for a reliably good meal after a long day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arcadia Strand",
+            "tip": "Fahren Sie zum berühmtesten Strand von Odesa für eine lebhafte, aber dennoch entspannende Atmosphäre am Meer.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Denkmal des unbekannten Seemanns",
+            "tip": "Im Shevchenko Park gelegen, ein ruhiger Ort zum Nachdenken mit Blick auf das Meer.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Die Küstenstraße nach Süden",
+            "tip": "Machen Sie eine kurze Fahrt entlang der Küste, um die Aussicht zu genießen.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arcadia strand",
+            "tip": "Vezessen el Odessza leghíresebb strandjára egy élénk, mégis pihentető tengerparti hangulatért.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Ismeretlen tengerész emlékműve",
+            "tip": "A Sevcsenko Parkban található, csendes, elgondolkodtató hely tengeri kilátással.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "A déli parti út",
+            "tip": "Tegyen egy rövid autókázást a part mentén, hogy élvezze a kilátást.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Arcadia",
+            "tip": "Conduceți până la cea mai faimoasă plajă din Odesa pentru o atmosferă vibrantă, dar relaxantă, la malul mării.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Monumentul Marinarului Necunoscut",
+            "tip": "Situat în Parcul Șevcenko, un loc liniștit și contemplativ, cu vedere la mare.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "Drumul de coastă spre sud",
+            "tip": "Faceți o scurtă plimbare cu mașina de-a lungul coastei pentru a admira priveliștile.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arcadia Beach",
+            "tip": "Drive to Odesa's most famous beach for a vibrant yet relaxing seaside atmosphere.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Monument to the Unknown Sailor",
+            "tip": "Located in Shevchenko Park, a quiet, contemplative spot overlooking the sea.",
+            "emoji": "🕊️"
+          },
+          {
+            "name": "The coastal road south",
+            "tip": "Take a short drive down the coast just to enjoy the views.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City Center Einkaufszentrum",
+            "tip": "Wenn Sie moderne Geschäfte benötigen, ist dies eine kurze Autofahrt entfernt."
+          },
+          {
+            "name": "Griechischer Platz (Hretska Ploschtscha)",
+            "tip": "Ein weiteres zentrales Gebiet mit einer Mischung aus Geschäften und Cafés, das nach dem Parken leicht zu erreichen ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Center bevásárlóközpont",
+            "tip": "Ha modern boltokra van szüksége, ez egy rövid autóútra található."
+          },
+          {
+            "name": "Görög tér (Hrecka Ploscsa)",
+            "tip": "Egy másik központi terület üzletek és kávézók keverékével, parkolás után könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial City Center",
+            "tip": "Dacă aveți nevoie de magazine moderne, acesta se află la o scurtă distanță cu mașina."
+          },
+          {
+            "name": "Piața Greacă (Hretska Ploshcha)",
+            "tip": "O altă zonă centrală cu un amestec de magazine și cafenele, ușor de accesat după parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Shopping Mall",
+            "tip": "If you need modern retail stores, this is a short drive away."
+          },
+          {
+            "name": "Greek Square (Hretska Ploshcha)",
+            "tip": "Another central area with a mix of shops and cafes, easily accessible after parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann eine Herausforderung sein; suchen Sie nach bewachten Parkplätzen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten.",
+          "Verwenden Sie eine GPS-App, um durch die Stadt zu navigieren.",
+          "Die Straßenverhältnisse außerhalb des Zentrums können variieren."
+        ],
+        "hu": [
+          "A parkolás a városközpontban kihívást jelenthet; keressen őrzött parkolókat.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Használjon GPS-alkalmazást a városban való navigáláshoz.",
+          "Az útviszonyok a központon kívül változóak lehetnek."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi o provocare; căutați parcări păzite.",
+          "Planificați timp suplimentar pentru trafic, în special la orele de vârf.",
+          "Utilizați o aplicație GPS pentru a naviga prin oraș.",
+          "Condițiile drumurilor în afara centrului pot varia."
+        ],
+        "en": [
+          "Parking in the city center can be challenging; look for paid, secure lots.",
+          "Plan for extra time for traffic, especially during peak hours.",
+          "Use a GPS app for navigating the city.",
+          "Road conditions can be variable outside the main center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Deribasiwska-Straße & Stadtgarten",
+            "hu": "Deribaszivszka utca és Városi Kert",
+            "ro": "Strada Deribasivska și Grădina Orașului",
+            "en": "Deribasivska Street & City Garden"
+          },
+          "coords": [
+            30.731,
+            46.4837
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, ein erster Spaziergang.",
+            "hu": "Kezdje a napot a város szívében, egy bevezető sétával.",
+            "ro": "Începeți ziua în inima orașului, o primă plimbare.",
+            "en": "Start your day in the heart of the city, an initial stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Odesa",
+            "hu": "Odesszai Operaház",
+            "ro": "Opera din Odesa",
+            "en": "Odesa Opera House"
+          },
+          "coords": [
+            30.7365,
+            46.4858
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:16",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von Ihrem ersten Halt entfernt.",
+            "hu": "Csak egy rövid séta az első megállótól.",
+            "ro": "La doar o scurtă plimbare de prima oprire.",
+            "en": "Just a short walk from your first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Potemkinsche Treppe & Denkmal für Herzog von Richelieu",
+            "hu": "Patyomkin-lépcső és Richelieu herceg emlékműve",
+            "ro": "Scările Potemkin și Statuia Ducelui de Richelieu",
+            "en": "Potemkin Stairs & Duke de Richelieu Monument"
+          },
+          "coords": [
+            30.7415,
+            46.4889
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:46",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Spitze und genießen Sie die Aussicht, bevor Sie weitergehen.",
+            "hu": "Fedezze fel a tetejét, és élvezze a kilátást, mielőtt továbbhalad.",
+            "ro": "Explorați vârful și bucurați-vă de priveliște înainte de a merge mai departe.",
+            "en": "Explore the top and enjoy the view before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Priwoz-Markt",
+            "hu": "Pryvoz Piac",
+            "ro": "Piața Pryvoz",
+            "en": "Privoz Market"
+          },
+          "coords": [
+            30.707,
+            46.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:51",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus oder eine Marschrutka. Ein großartiger Ort für ein authentisches Mittagessen.",
+            "hu": "Menjen trolibusszal vagy marsrutkával. Remek hely egy autentikus ebédhez.",
+            "ro": "Luați un troleibuz sau o „marshrutka”. Un loc minunat pentru un prânz autentic.",
+            "en": "Take a trolleybus or a marshrutka. A great place for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungs-Kathedrale",
+            "hu": "Színeváltozás-székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            30.732,
+            46.48
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Markt zu diesem spirituellen Zentrum.",
+            "hu": "Kellemes séta a piactól ehhez a spirituális központhoz.",
+            "ro": "O plimbare plăcută de la piață la acest centru spiritual.",
+            "en": "A pleasant walk from the market to this spiritual center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Odesa",
+            "hu": "Odesszai kikötő",
+            "ro": "Portul Odesa",
+            "en": "Port of Odesa"
+          },
+          "coords": [
+            30.745,
+            46.495
+          ],
+          "category": "port",
+          "arrive_at": "14:41",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Meer, um die maritime Atmosphäre zu genießen.",
+            "hu": "Menjen busszal a tenger felé, hogy élvezze a tengeri hangulatot.",
+            "ro": "Luați un autobuz spre mare pentru a vă bucura de atmosfera maritimă.",
+            "en": "Take a bus towards the sea to enjoy the maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Woronzow-Palast",
+            "hu": "Voroncov-palota",
+            "ro": "Palatul Voronțov",
+            "en": "Vorontsov Palace"
+          },
+          "coords": [
+            30.742,
+            46.4895
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:43",
+          "stay_min": 112,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie vom Hafen auf, um den Tag mit einem Sonnenuntergang zu beenden.",
+            "hu": "Másszon fel a kikötőből, hogy egy naplementével zárja a napot.",
+            "ro": "Urcați din port pentru a încheia ziua cu un apus de soare.",
+            "en": "Walk up from the port to end the day with a sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Odesa, wo Sie den zentralen Cluster aus Deribasiwska-Straße, Opernhaus und Potemkinscher Treppe zu Fuß erkunden. Am Vormittag nehmen Sie einen Bus zum weitläufigen Priwoz-Markt für ein authentisches Erlebnis und Mittagessen. Nach dem Essen schlendern Sie zur nahegelegenen Verklärungs-Kathedrale. Am Nachmittag bringt Sie eine weitere Busfahrt zum Hafen, wo Sie die Meeresluft einatmen. Ein letzter Spaziergang bergauf führt Sie zum Woronzow-Palast, um den Sonnenuntergang zu beobachten und den Tag ausklingen zu lassen.",
+        "hu": "Tömegközlekedési napja Odessza szívében kezdődik, ahol gyalogosan fedezi fel a Deribaszivszka utca, az Operaház és a Patyomkin-lépcső központi klaszterét. Délelőtt busszal utazik a hatalmas Pryvoz Piacra egy autentikus élményért és ebédért. Ebéd után átsétál a közeli Színeváltozás-székesegyházhoz. Délután egy másik buszjárattal a kikötőbe jut, ahol belélegzi a tengeri levegőt. Egy utolsó, felfelé vezető séta a Voroncov-palotához viszi, hogy megnézze a naplementét és lezárja a napot.",
+        "ro": "Ziua dvs. cu transportul public începe în inima Odesei, explorând pe jos grupul central format din strada Deribasivska, Operă și Scările Potemkin. La amiază, luați un autobuz spre întinsa Piață Pryvoz pentru o experiență autentică și prânz. După masă, vă plimbați până la Catedrala Schimbarea la Față din apropiere. După-amiaza, o altă cursă cu autobuzul vă duce la port pentru a respira aerul mării. O ultimă plimbare în sus vă duce la Palatul Voronțov pentru a privi apusul și a încheia ziua.",
+        "en": "Your transit day starts in the heart of Odesa, exploring the central cluster of Deribasivska Street, the Opera House, and the Potemkin Stairs on foot. Mid-morning, you'll take a transit ride to the sprawling Privoz Market for an authentic experience and lunch. After eating, you'll stroll to the nearby Transfiguration Cathedral. In the afternoon, another bus ride takes you to the port to breathe in the sea air. A final uphill walk brings you to Vorontsov Palace to watch the sunset and conclude your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Eine beliebte Cafeteria-Kette für schnelles, günstiges und traditionelles ukrainisches Essen."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein nostalgisches Café, berühmt für sein gleichnamiges Fruchtgetränk und seine Hausmannskost."
+          },
+          {
+            "name": "Kotelok - Mussels Bar",
+            "tip": "Wenn Sie in der Nähe des Meeres sind, ist dies der richtige Ort für frische Muscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Népszerű önkiszolgáló étteremlánc gyors, olcsó és hagyományos ukrán ételekért."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Nosztalgikus kávézó, híres az azonos nevű gyümölcsitaláról és házias ételeiről."
+          },
+          {
+            "name": "Kotelok - Kagylóbár",
+            "tip": "Ha a tenger közelében van, ez a hely a friss kagylókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puzata Hata",
+            "tip": "Un lanț popular de cantine pentru mâncare ucraineană rapidă, ieftină și tradițională."
+          },
+          {
+            "name": "Kompot",
+            "tip": "O cafenea nostalgică, faimoasă pentru băutura sa de fructe omonimă și mâncarea de casă."
+          },
+          {
+            "name": "Kotelok - Mussels Bar",
+            "tip": "Când sunteți lângă mare, acesta este locul pentru midii proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puzata Hata",
+            "tip": "A popular cafeteria chain for quick, cheap, and traditional Ukrainian food."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A nostalgic cafe famous for its namesake fruit drink and home-style cooking."
+          },
+          {
+            "name": "Kotelok - Mussels Bar",
+            "tip": "When you're near the sea, this is the place to go for fresh mussels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Istanbul Park",
+            "tip": "Ein wunderschön renovierter Park in der Nähe des Woronzow-Palastes, der einen ruhigen Blick auf das Meer bietet.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Hof des Literaturmuseums",
+            "tip": "Ein verstecktes Juwel mit skurrilen Skulpturen, eine friedliche Oase.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Fahrt mit der Standseilbahn",
+            "tip": "Eine kurze, ruhige Fahrt parallel zur Potemkinschen Treppe mit schöner Aussicht.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztambul Park",
+            "tip": "Gyönyörűen felújított park a Voroncov-palota közelében, csendes kilátással a tengerre.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Irodalmi Múzeum udvara",
+            "tip": "Rejtett gyöngyszem furcsa szobrokkal, egy békés oázis.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Utazás a siklóval",
+            "tip": "Rövid, csendes utazás a Patyomkin-lépcsővel párhuzamosan, szép kilátással.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Istanbul",
+            "tip": "Un parc frumos renovat, lângă Palatul Voronțov, care oferă o priveliște liniștită la mare.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Muzeului Literaturii",
+            "tip": "O bijuterie ascunsă cu sculpturi bizare, o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plimbare cu funicularul",
+            "tip": "O călătorie scurtă și liniștită, paralelă cu Scările Potemkin, cu priveliști frumoase.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Istanbul Park",
+            "tip": "A beautifully renovated park near the Vorontsov Palace offering a quiet sea view.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of the Literature Museum",
+            "tip": "A hidden gem with whimsical sculptures, a peaceful oasis.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A ride on the Funicular",
+            "tip": "A short, quiet ride running parallel to the Potemkin Stairs with nice views.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passage Hotel & Shopping Arcade",
+            "tip": "Bewundern Sie die atemberaubende Architektur, während Sie in den Boutiquen stöbern."
+          },
+          {
+            "name": "Odesa Souvenir Market",
+            "tip": "In der Nähe des Opernhauses finden Sie eine große Auswahl an lokalen Handwerken und Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Passage Hotel és bevásárlóárkád",
+            "tip": "Csodálja meg a lenyűgöző építészetet, miközben a butikokban böngészik."
+          },
+          {
+            "name": "Odesszai szuvenírpiac",
+            "tip": "Az Operaház közelében helyi kézműves termékek és emléktárgyak széles választékát találja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Hotel & Shopping Arcade",
+            "tip": "Admirați arhitectura uimitoare în timp ce răsfoiți buticurile."
+          },
+          {
+            "name": "Piața de suveniruri din Odesa",
+            "tip": "Situată lângă Operă, găsiți o mare varietate de meșteșuguri locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Passage Hotel & Shopping Arcade",
+            "tip": "Admire the stunning architecture while you browse the boutiques inside."
+          },
+          {
+            "name": "Odesa Souvenir Market",
+            "tip": "Located near the Opera house, find a wide variety of local crafts and keepsakes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Marschrutkas (Minibusse) sind schnell, können aber überfüllt sein. Bezahlen Sie beim Einsteigen.",
+          "Trolleybusse und Straßenbahnen sind langsamer, bieten aber eine bessere Aussicht.",
+          "Verwenden Sie eine App für öffentliche Verkehrsmittel, um Routen zu planen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A marsrutkák (minibuszok) gyorsak, de zsúfoltak lehetnek. Fizessen felszálláskor.",
+          "A trolibuszok és villamosok lassabbak, de jobb kilátást nyújtanak.",
+          "Használjon tömegközlekedési alkalmazást az útvonalak tervezéséhez."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "„Marshrutka” (microbuzele) sunt rapide, dar pot fi aglomerate. Plătiți la urcare.",
+          "Troleibuzele și tramvaiele sunt mai lente, dar oferă o priveliște mai bună.",
+          "Folosiți o aplicație de transport public pentru a planifica rutele."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Marshrutkas (minibuses) are fast but can be crowded. You pay the driver upon entering.",
+          "Trolleybuses and trams are slower but offer better views.",
+          "Use a public transport app to help plan your routes."
+        ]
+      }
+    }
+  }
+}

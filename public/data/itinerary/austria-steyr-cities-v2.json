@@ -1,0 +1,1414 @@
+{
+  "city_id": "austria-steyr-cities-v2",
+  "anchor": {
+    "name": "Steyr",
+    "coords": [
+      14.4214,
+      48.0407
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Steyr",
+            "hu": "Steyr Főtere",
+            "ro": "Piața Centrală din Steyr",
+            "en": "Steyr Main Square"
+          },
+          "coords": [
+            14.4218,
+            48.0405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Bummerlhaus, das gotische Wahrzeichen der Stadt.",
+            "hu": "Csodálja meg a Bummerlhaus-t, a város gótikus jelképét.",
+            "ro": "Admirați Bummerlhaus, emblema gotică a pieței.",
+            "en": "Admire the Bummerlhaus, the Gothic landmark of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            14.4225,
+            48.0408
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Rokoko-Fassade und den kunstvollen Balkon.",
+            "hu": "Figyelje meg a rokokó homlokzatot és a díszes erkélyt.",
+            "ro": "Observați fațada rococo și balconul ornamentat.",
+            "en": "Note the Rococo facade and its ornate balcony."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche",
+            "hu": "Városi Plébániatemplom",
+            "ro": "Biserica Parohială",
+            "en": "Parish Church"
+          },
+          "coords": [
+            14.4195,
+            48.0396
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem beeindruckenden gotischen Glasfenster.",
+            "hu": "Keresse meg a lenyűgöző gótikus ólomüveg ablakot.",
+            "ro": "Căutați impresionantul vitraliu gotic.",
+            "en": "Look for the impressive Gothic stained-glass window."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwischenbrücken",
+            "hu": "Zwischenbrücken (Hidak között)",
+            "ro": "Zwischenbrücken (Între Poduri)",
+            "en": "Zwischenbrücken (Between the Bridges)"
+          },
+          "coords": [
+            14.4243,
+            48.0421
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein Foto vom Zusammenfluss von Enns und Steyr.",
+            "hu": "Tökéletes hely egy fotóhoz az Enns és a Steyr folyók összefolyásáról.",
+            "ro": "Locul perfect pentru o fotografie cu confluența râurilor Enns și Steyr.",
+            "en": "The perfect spot for a photo of the confluence of the Enns and Steyr rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            14.4258,
+            48.0411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Schlosspark für einen tollen Blick auf die Altstadt.",
+            "hu": "Sétáljon egyet a kastélyparkban, ahonnan remek kilátás nyílik az óvárosra.",
+            "ro": "Plimbați-vă prin parcul castelului pentru o priveliște superbă asupra orașului vechi.",
+            "en": "Stroll through the castle park for a great view of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Arbeitswelt",
+            "hu": "Munka Világa Múzeum",
+            "ro": "Muzeul Lumea Muncii",
+            "en": "Museum of the Working World"
+          },
+          "coords": [
+            14.4271,
+            48.0428
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zeigen Steyrs industrielle Vergangenheit.",
+            "hu": "Interaktív kiállítások mutatják be Steyr ipari múltját.",
+            "ro": "Expozițiile interactive prezintă trecutul industrial al orașului Steyr.",
+            "en": "Interactive exhibits showcase Steyr's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schnallentor",
+            "hu": "Schnallentor (kapu)",
+            "ro": "Poarta Schnallentor",
+            "en": "Schnallentor Gate"
+          },
+          "coords": [
+            14.4168,
+            48.0375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der wenigen erhaltenen Stadttore, ein tolles Fotomotiv.",
+            "hu": "Az egyik kevés megmaradt városkapu, remek fotótéma.",
+            "ro": "Una dintre puținele porți ale orașului care s-au păstrat, un subiect excelent pentru fotografii.",
+            "en": "One of the few remaining city gates, a great photo opportunity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Stadtplatz, dem Herzen von Steyr. Schlendern Sie durch die Gassen zur gotischen Stadtpfarrkirche. Am Mittag überqueren Sie die Zwischenbrücken, wo die Flüsse zusammenfließen, bevor Sie das majestätische Schloss Lamberg erklimmen. Den Nachmittag verbringen Sie im Museum Arbeitswelt, das in die industrielle Seele der Stadt eintaucht. Beenden Sie Ihren Spaziergang mit einem Blick auf das alte Schnallentor, ein Zeugnis der mittelalterlichen Befestigungsanlagen.",
+        "hu": "Kezdje a napot Steyr szívében, a történelmi Főtéren. Sétáljon át a sikátorokon a gótikus Városi Plébániatemplomig. Délben keljen át a Zwischenbrücken hídon, ahol a folyók összefolynak, majd mássza meg a fenséges Lamberg-kastélyt. A délutánt a Munka Világa Múzeumban töltse, elmerülve a város ipari lelkében. Zárja sétáját a régi Schnallentor kapunál, a középkori erődítmények tanújánál.",
+        "ro": "Începeți ziua în inima orașului Steyr, în piața istorică a orașului. Plimbați-vă pe alei până la biserica parohială gotică. La prânz, traversați Zwischenbrücken, unde se întâlnesc râurile, înainte de a urca la maiestuosul Castel Lamberg. Petreceți după-amiaza la Muzeul Lumea Muncii, explorând sufletul industrial al orașului. Încheiați plimbarea cu o privire la vechea poartă Schnallentor, o mărturie a fortificațiilor medievale.",
+        "en": "Start your day in the heart of Steyr at the historic town square. Wander through the alleys to the Gothic parish church. At midday, cross the Zwischenbrücken where the rivers meet before climbing to the majestic Lamberg Castle. Spend the afternoon at the Museum of the Working World, diving into the city's industrial soul. End your walk with a look at the old Schnallentor gate, a testament to medieval fortifications."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Knödel",
+            "tip": "Probieren Sie verschiedene Füllungen in einem traditionellen Gasthaus."
+          },
+          {
+            "name": "Most",
+            "tip": "Ein erfrischender Apfel- oder Birnenwein aus der Region."
+          },
+          {
+            "name": "Schweinsbraten",
+            "tip": "Der klassische Sonntagsbraten, oft mit Knödel und Krautsalat serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gombóc",
+            "tip": "Kóstoljon meg különböző töltelékeket egy hagyományos vendéglőben."
+          },
+          {
+            "name": "Must",
+            "tip": "Helyi, frissítő alma- vagy körtelé."
+          },
+          {
+            "name": "Sertéssült",
+            "tip": "Klasszikus vasárnapi sült, gyakran gombóccal és káposztasalátával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Găluște (Knödel)",
+            "tip": "Încercați diverse umpluturi la un han tradițional."
+          },
+          {
+            "name": "Must",
+            "tip": "Un vin de mere sau pere răcoritor din regiune."
+          },
+          {
+            "name": "Friptură de porc",
+            "tip": "Friptura clasică de duminică, adesea servită cu găluște și salată de varză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dumplings (Knödel)",
+            "tip": "Try various fillings in a traditional inn."
+          },
+          {
+            "name": "Cider (Most)",
+            "tip": "A refreshing local apple or pear wine."
+          },
+          {
+            "name": "Roast Pork (Schweinsbraten)",
+            "tip": "The classic Sunday roast, often served with dumplings and cabbage salad."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Lamberg",
+            "tip": "Finden Sie eine ruhige Bank mit Blick auf die Altstadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spaziergang am Ennskai",
+            "tip": "Ein friedlicher Weg entlang des Flusses, abseits der Menschenmassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Michaelerkirche",
+            "tip": "Eine kleinere, oft übersehene Kirche für einen Moment der Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lamberg Kastélypark",
+            "tip": "Keressen egy csendes padot az óvárosra néző kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta az Enns-parton",
+            "tip": "Békés útvonal a folyó mentén, távol a tömegtől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Mihály-templom",
+            "tip": "Egy kisebb, gyakran figyelmen kívül hagyott templom egy csendes pillanathoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Lamberg",
+            "tip": "Găsiți o bancă liniștită cu vedere la orașul vechi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe malul râului Enns",
+            "tip": "O potecă pașnică de-a lungul râului, departe de aglomerație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biserica Sf. Mihail",
+            "tip": "O biserică mai mică, adesea trecută cu vederea, pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamberg Castle Park",
+            "tip": "Find a quiet bench with a view over the old town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Walk along the Ennskai",
+            "tip": "A peaceful path along the river, away from the crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Michael's Church",
+            "tip": "A smaller, often overlooked church for a moment of silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steyrer Christkindl",
+            "tip": "Ganzjährig Weihnachtsdekoration aus dem berühmten Wallfahrtsort."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie freitags lokale Produkte und Spezialitäten direkt am Stadtplatz."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Entdecken Sie kleine Geschäfte mit traditionellem Eisenhandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steyri Christkindl",
+            "tip": "Egész évben kapható karácsonyi díszek a híres zarándokhelyről."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Péntekenként vásároljon helyi termékeket és különlegességeket a Főtéren."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Fedezze fel a hagyományos vasműves termékeket kínáló kis üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Christkindl din Steyr",
+            "tip": "Decorațiuni de Crăciun disponibile tot anul din faimosul loc de pelerinaj."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale și specialități direct din piața orașului, în zilele de vineri."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Descoperiți magazine mici cu obiecte tradiționale din fier forjat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steyr Christkindl",
+            "tip": "Year-round Christmas decorations from the famous pilgrimage site."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "On Fridays, buy local produce and specialties directly at the town square."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Discover small shops with traditional iron crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie zusätzliche Zeit ein, um die kleinen Gassen rund um den Stadtplatz zu erkunden.",
+          "Einige Wege, besonders zum Schloss, können steil sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "A központ legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Szánjon extra időt a Főtér körüli kis utcák felfedezésére.",
+          "Néhány út, különösen a kastélyhoz, meredek lehet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați timp suplimentar pentru a explora străduțele din jurul pieței centrale.",
+          "Unele poteci, în special spre castel, pot fi abrupte."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most sights in the center are easily within walking distance.",
+          "Allow extra time to explore the small alleys around the main square.",
+          "Some paths, especially to the castle, can be steep."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtplatz Steyr",
+            "hu": "Steyr Főtere",
+            "ro": "Piața Centrală din Steyr",
+            "en": "Steyr Main Square"
+          },
+          "coords": [
+            14.4218,
+            48.0405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start with a coffee at one of the cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schnallentor",
+            "hu": "Schnallentor (kapu)",
+            "ro": "Poarta Schnallentor",
+            "en": "Schnallentor Gate"
+          },
+          "coords": [
+            14.4168,
+            48.0375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein Foto dieses mittelalterlichen Tores.",
+            "hu": "Egy rövid megálló egy fotó erejéig ennél a középkori kapunál.",
+            "ro": "O scurtă oprire pentru o fotografie a acestei porți medievale.",
+            "en": "A quick stop for a photo of this medieval gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            14.4258,
+            48.0411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie durch den Park.",
+            "hu": "Tegye le a biciklit, és sétáljon egyet a parkban.",
+            "ro": "Lăsați bicicleta și plimbați-vă prin parc.",
+            "en": "Park your bike and take a stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Arbeitswelt",
+            "hu": "Munka Világa Múzeum",
+            "ro": "Muzeul Lumea Muncii",
+            "en": "Museum of the Working World"
+          },
+          "coords": [
+            14.4271,
+            48.0428
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss, um die industrielle Geschichte von Steyr zu verstehen.",
+            "hu": "Kötelező látnivaló Steyr ipari történelmének megértéséhez.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria industrială a orașului Steyr.",
+            "en": "A must-visit to understand Steyr's industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Steyrtalbahn",
+            "hu": "Steyrtalbahn (vasút)",
+            "ro": "Calea Ferată Steyrtal",
+            "en": "Steyrtal Railway"
+          },
+          "coords": [
+            14.406,
+            48.031
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für eine Fahrt mit der ältesten Schmalspurbahn Österreichs.",
+            "hu": "Ellenőrizze a menetrendet, ha utazni szeretne Ausztria legrégebbi keskeny nyomtávú vasútján.",
+            "ro": "Verificați orarul pentru o plimbare cu cea mai veche cale ferată cu ecartament îngust din Austria.",
+            "en": "Check the schedule for a ride on Austria's oldest narrow-gauge railway."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwischenbrücken",
+            "hu": "Zwischenbrücken",
+            "ro": "Zwischenbrücken",
+            "en": "Zwischenbrücken"
+          },
+          "coords": [
+            14.4243,
+            48.0421
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour mit Blick auf die Flüsse.",
+            "hu": "Szép lezárása a túrának a folyókra néző kilátással.",
+            "ro": "Un final frumos al turului cu vedere la râuri.",
+            "en": "A beautiful end to the tour with a view of the rivers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Stadtplatz aufs Rad und fahren Sie zum alten Schnallentor. Anschließend geht es hinauf zum Schloss Lamberg, wo Sie einen herrlichen Ausblick genießen. Am Mittag tauchen Sie im Museum Arbeitswelt in die Industriegeschichte ein. Der Nachmittag führt Sie entlang des Flusses zur historischen Steyrtalbahn, einem Juwel der Eisenbahngeschichte. Beenden Sie Ihre Tour am malerischen Zusammenfluss der Flüsse bei den Zwischenbrücken.",
+        "hu": "Pattanjon biciklire a Főtéren, és tekerjen el a régi Schnallentor kapuig. Ezután irány a Lamberg-kastély, ahonnan csodálatos kilátás nyílik. Délben merüljön el az ipartörténetben a Munka Világa Múzeumban. A délután a folyó mentén a történelmi Steyrtalbahn-hoz vezet, a vasúttörténet egy gyöngyszeméhez. Fejezze be a túrát a folyók festői összefolyásánál, a Zwischenbrückennél.",
+        "ro": "Urcați-vă pe bicicletă în Piața Centrală și pedalați până la vechea poartă Schnallentor. Apoi, urcați la Castelul Lamberg pentru o priveliște magnifică. La prânz, scufundați-vă în istoria industrială la Muzeul Lumea Muncii. După-amiaza vă poartă de-a lungul râului până la istorica Steyrtalbahn, o bijuterie a istoriei feroviare. Încheiați turul la confluența pitorească a râurilor de la Zwischenbrücken.",
+        "en": "Hop on your bike at the main square and ride to the old Schnallentor gate. Then, head up to Lamberg Castle for a magnificent view. At noon, delve into industrial history at the Museum of the Working World. The afternoon takes you along the river to the historic Steyrtalbahn, a gem of railway history. End your tour at the picturesque confluence of the rivers at Zwischenbrücken."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zur Alpe",
+            "tip": "Traditionelle Küche in einem gemütlichen Ambiente."
+          },
+          {
+            "name": "Mostheuriger",
+            "tip": "Genießen Sie regionalen Most und eine herzhafte Jause."
+          },
+          {
+            "name": "Café am Stadtplatz",
+            "tip": "Perfekt für eine Pause mit Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zur Alpe",
+            "tip": "Hagyományos konyha hangulatos környezetben."
+          },
+          {
+            "name": "Mustivó (Mostheuriger)",
+            "tip": "Élvezze a regionális mustot és egy kiadós uzsonnát."
+          },
+          {
+            "name": "Kávézó a Főtéren",
+            "tip": "Tökéletes egy kávé-sütemény szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zur Alpe",
+            "tip": "Bucătărie tradițională într-o atmosferă primitoare."
+          },
+          {
+            "name": "Heuriger de must",
+            "tip": "Bucurați-vă de must regional și o gustare consistentă."
+          },
+          {
+            "name": "Cafenea în Piața Centrală",
+            "tip": "Perfect pentru o pauză de cafea și prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zur Alpe",
+            "tip": "Traditional cuisine in a cozy atmosphere."
+          },
+          {
+            "name": "Cider Tavern (Mostheuriger)",
+            "tip": "Enjoy regional cider and a hearty snack."
+          },
+          {
+            "name": "Café on the Main Square",
+            "tip": "Perfect for a coffee and cake break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg an der Steyr",
+            "tip": "Radeln Sie in Ihrem eigenen Tempo entlang des ruhigen Flussufers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Ein grüner Rückzugsort hoch über der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang bei den Zwischenbrücken",
+            "tip": "Beobachten Sie, wie die Sonne hinter den Dächern der Altstadt verschwindet.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Steyr folyó partja",
+            "tip": "Tekerjen a saját tempójában a csendes folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Zöld menedék magasan a város felett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Zwischenbrückennél",
+            "tip": "Nézze, ahogy a nap eltűnik az óváros háztetői mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Steyr",
+            "tip": "Pedalați în propriul ritm de-a lungul malului liniștit al râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Un refugiu verde deasupra orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la Zwischenbrücken",
+            "tip": "Priviți cum soarele dispare în spatele acoperișurilor orașului vechi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Steyr River",
+            "tip": "Cycle at your own pace along the quiet riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "A green retreat high above the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Zwischenbrücken",
+            "tip": "Watch the sun disappear behind the rooftops of the old town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie Zubehör oder ein Souvenir für Ihre Radtour."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Lokale Produkte für ein Picknick am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Keressen kiegészítőket vagy emléktárgyat a biciklitúrához."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Helyi termékek egy folyóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii sau un suvenir pentru turul dvs. cu bicicleta."
+          },
+          {
+            "name": "Piața agricolă",
+            "tip": "Produse locale pentru un picnic pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Find accessories or a souvenir for your bike tour."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Local products for a picnic by the river."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Steyr ist hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Achten Sie auf Radwege, besonders entlang der Flüsse.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut ab.",
+          "Viele Straßen in der Altstadt sind eng und mit Kopfsteinpflaster versehen."
+        ],
+        "hu": [
+          "Steyr dombos, készüljön fel néhány emelkedőre.",
+          "Figyeljen a kerékpárutakra, különösen a folyók mentén.",
+          "Zárja le jól a kerékpárt a fő látnivalóknál.",
+          "Az óvárosban sok utca szűk és macskaköves."
+        ],
+        "ro": [
+          "Steyr este deluros, fiți pregătiți pentru câteva urcări.",
+          "Fiți atenți la pistele de biciclete, în special de-a lungul râurilor.",
+          "Asigurați-vă bicicleta bine la principalele atracții.",
+          "Multe străzi din orașul vechi sunt înguste și pavate cu piatră cubică."
+        ],
+        "en": [
+          "Steyr is hilly, be prepared for some climbs.",
+          "Look out for bike paths, especially along the rivers.",
+          "Lock your bike securely at the main attractions.",
+          "Many streets in the old town are narrow and cobbled."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt",
+            "hu": "Óvárosi Parkolóház",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Car Park"
+          },
+          "coords": [
+            14.42,
+            48.0415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt a délelőttre. Innen fedezze fel gyalog az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru dimineață. De aici explorați primul grup de atracții pe jos.",
+            "en": "Park here for the morning. From here, explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Bummerlhaus",
+            "hu": "Főtér és Bummerlhaus",
+            "ro": "Piața Centrală și Bummerlhaus",
+            "en": "Main Square & Bummerlhaus"
+          },
+          "coords": [
+            14.4218,
+            48.0405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Stadt. Nehmen Sie sich Zeit, die Architektur zu bewundern.",
+            "hu": "A város szíve. Szánjon időt az építészet megcsodálására.",
+            "ro": "Inima orașului. Luați-vă timp să admirați arhitectura.",
+            "en": "The heart of the city. Take your time to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche",
+            "hu": "Városi Plébániatemplom",
+            "ro": "Biserica Parohială",
+            "en": "Parish Church"
+          },
+          "coords": [
+            14.4195,
+            48.0396
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Gotik, nur einen kurzen Spaziergang vom Platz entfernt.",
+            "hu": "A gótika mesterműve, csak egy rövid sétára a tértől.",
+            "ro": "O capodoperă a goticului, la o scurtă plimbare de piață.",
+            "en": "A Gothic masterpiece, just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Museum Arbeitswelt",
+            "hu": "Parkoló a Munka Világa Múzeumnál",
+            "ro": "Parcare Muzeul Lumea Muncii",
+            "en": "Car Park Museum of the Working World"
+          },
+          "coords": [
+            14.4275,
+            48.0435
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken Sie hier und erkunden Sie Schloss und Museum.",
+            "hu": "Vezessen a következő látnivalócsoporthoz. Parkoljon itt, és fedezze fel a kastélyt és a múzeumot.",
+            "ro": "Conduceți la următorul grup de atracții. Parcați aici și explorați castelul și muzeul.",
+            "en": "Drive to the next cluster. Park here and explore the castle and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Arbeitswelt",
+            "hu": "Munka Világa Múzeum",
+            "ro": "Muzeul Lumea Muncii",
+            "en": "Museum of the Working World"
+          },
+          "coords": [
+            14.4271,
+            48.0428
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die industrielle Revolution in Steyr.",
+            "hu": "Tudjon meg mindent a steyri ipari forradalomról.",
+            "ro": "Aflați totul despre revoluția industrială din Steyr.",
+            "en": "Learn all about the industrial revolution in Steyr."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            14.4258,
+            48.0411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom Schlosspark nach dem Museumsbesuch.",
+            "hu": "Élvezze a kilátást a kastélyparkból a múzeumlátogatás után.",
+            "ro": "Bucurați-vă de priveliștea din parcul castelului după vizita la muzeu.",
+            "en": "Enjoy the view from the castle park after visiting the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Steyrtalbahn Bahnhof",
+            "hu": "Steyrtalbahn Pályaudvar",
+            "ro": "Gara Steyrtalbahn",
+            "en": "Steyrtalbahn Station"
+          },
+          "coords": [
+            14.406,
+            48.031
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug zum Bahnhof der Museumsbahn, um ein Stück Eisenbahngeschichte zu erleben.",
+            "hu": "Egy rövid kirándulás a múzeumvasút állomásához, hogy átéljen egy darabot a vasúttörténetből.",
+            "ro": "O scurtă excursie la gara căii ferate muzeu pentru a experimenta o bucată din istoria feroviară.",
+            "en": "A short trip to the museum railway station to experience a piece of railway history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie, indem Sie im Altstadt-Parkhaus parken. Erkunden Sie den ersten Cluster zu Fuß: den Stadtplatz, das Bummerlhaus und die Stadtpfarrkirche. Am späten Vormittag fahren Sie zum zweiten Cluster. Parken Sie am Museum Arbeitswelt und erkunden Sie das Museum und das nahegelegene Schloss Lamberg. Den Nachmittag widmen Sie einem kurzen Ausflug zur historischen Steyrtalbahn, bevor Sie ins Zentrum zurückkehren. Diese Route kombiniert bequemes Parken mit ausgedehnten Spaziergängen.",
+        "hu": "Kezdje a napot az óvárosi parkolóházban való parkolással. Fedezze fel gyalog az első látnivalócsoportot: a Főteret, a Bummerlhaust és a Városi Plébániatemplomot. A délelőtt végén vezessen át a második csoporthoz. Parkoljon a Munka Világa Múzeumnál, és fedezze fel a múzeumot és a közeli Lamberg-kastélyt. A délutánt egy rövid kirándulásnak szentelje a történelmi Steyrtalbahn-hoz, mielőtt visszatér a központba. Ez az útvonal a kényelmes parkolást hosszabb sétákkal ötvözi.",
+        "ro": "Începeți parcând în parcarea din centrul vechi. Explorați primul grup de atracții pe jos: Piața Centrală, Bummerlhaus și Biserica Parohială. Spre sfârșitul dimineții, conduceți spre al doilea grup. Parcați la Muzeul Lumea Muncii și explorați muzeul și Castelul Lamberg din apropiere. Dedicați după-amiaza unei scurte excursii la istorica Steyrtalbahn înainte de a vă întoarce în centru. Acest traseu combină parcarea convenabilă cu plimbări extinse.",
+        "en": "Start by parking in the old town car park. Explore the first cluster on foot: the main square, the Bummerlhaus, and the parish church. In the late morning, drive to the second cluster. Park at the Museum of the Working World and explore the museum and the nearby Lamberg Castle. Dedicate the afternoon to a short trip to the historic Steyrtalbahn before returning to the center. This route combines convenient parking with extensive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rahofer",
+            "tip": "Gehobene österreichische Küche in der Nähe des Schlosses."
+          },
+          {
+            "name": "Landgasthof Mayr",
+            "tip": "Ein kurzer Autoweg für authentische, ländliche Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rahofer Étterem",
+            "tip": "Emelt szintű osztrák konyha a kastély közelében."
+          },
+          {
+            "name": "Mayr Fogadó",
+            "tip": "Rövid autóútra található, autentikus, vidéki specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rahofer",
+            "tip": "Bucătărie austriacă rafinată lângă castel."
+          },
+          {
+            "name": "Hanul Mayr",
+            "tip": "La o scurtă distanță cu mașina pentru specialități rurale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Rahofer",
+            "tip": "Upscale Austrian cuisine near the castle."
+          },
+          {
+            "name": "Landgasthof Mayr",
+            "tip": "A short drive for authentic, rural specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Damberg-Warte",
+            "tip": "Fahren Sie für eine atemberaubende Aussicht über die gesamte Region auf den Damberg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Ulrich",
+            "tip": "Ein ruhiges Dorf in der Nähe, perfekt für einen kurzen, friedlichen Abstecher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Damberg-kilátó",
+            "tip": "Vezessen fel a Dambergre egy lélegzetelállító kilátásért az egész régióra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Ulrich",
+            "tip": "Egy csendes falu a közelben, tökéletes egy rövid, békés kitérőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Damberg",
+            "tip": "Conduceți până la Damberg pentru o priveliște uluitoare asupra întregii regiuni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Ulrich",
+            "tip": "Un sat liniștit din apropiere, perfect pentru o scurtă ocolire pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Damberg Lookout Tower",
+            "tip": "Drive up the Damberg for a breathtaking view over the entire region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Ulrich",
+            "tip": "A quiet nearby village, perfect for a short, peaceful detour.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Werksverkauf von Steyr Motors",
+            "tip": "Finden Sie einzigartige Souvenirs mit Bezug zur Motorenindustrie."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Nutzen Sie das Auto, um lokale Produkte direkt vom Bauernhof zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steyr Motors gyári bolt",
+            "tip": "Találjon egyedi, motoriparhoz kapcsolódó emléktárgyakat."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Használja az autót, hogy helyi termékeket vásároljon közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii Steyr Motors",
+            "tip": "Găsiți suveniruri unice legate de industria motoarelor."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Folosiți mașina pentru a cumpăra produse locale direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steyr Motors Factory Outlet",
+            "tip": "Find unique souvenirs related to the engine industry."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Use the car to buy local products directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser sind gut ausgeschildert, aber am Wochenende oft voll.",
+          "Planen Sie Ihre Route zwischen den Clustern, um den Verkehr in der Innenstadt zu vermeiden.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Nutzen Sie Park-and-Ride-Möglichkeiten am Stadtrand für einen stressfreien Besuch."
+        ],
+        "hu": [
+          "A parkolóházak jól ki vannak táblázva, de hétvégén gyakran tele vannak.",
+          "Tervezze meg az útvonalat a látnivalócsoportok között, hogy elkerülje a belvárosi forgalmat.",
+          "Figyeljen az egyirányú utcákra az óvárosban.",
+          "Használja a város szélén található P+R parkolókat a stresszmentes látogatásért."
+        ],
+        "ro": [
+          "Parcările supraetajate sunt bine semnalizate, dar adesea pline în weekend.",
+          "Planificați-vă ruta între grupurile de atracții pentru a evita traficul din centrul orașului.",
+          "Fiți atenți la străzile cu sens unic din centrul vechi.",
+          "Folosiți opțiunile de Park and Ride de la periferia orașului pentru o vizită fără stres."
+        ],
+        "en": [
+          "Car parks are well-signposted but often full on weekends.",
+          "Plan your route between clusters to avoid city center traffic.",
+          "Be aware of one-way streets in the old town.",
+          "Use Park and Ride facilities on the outskirts for a stress-free visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Stadtplatz",
+            "hu": "Érkezés a Főtérre",
+            "ro": "Sosire în Piața Centrală",
+            "en": "Arrival at the Main Square"
+          },
+          "coords": [
+            14.4218,
+            48.0405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Stadtplatz', um im Herzen der Stadt zu beginnen.",
+            "hu": "Menjen busszal a 'Stadtplatz' megállóig, hogy a város szívében kezdje a napot.",
+            "ro": "Luați un autobuz până la stația 'Stadtplatz' pentru a începe din inima orașului.",
+            "en": "Take a bus to the 'Stadtplatz' stop to start in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtplatz & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Centrală și Primăria",
+            "en": "Main Square & City Hall"
+          },
+          "coords": [
+            14.4225,
+            48.0408
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang über den Platz, um die beeindruckende Architektur aufzunehmen.",
+            "hu": "Séta a téren, hogy magába szívja a lenyűgöző építészetet.",
+            "ro": "O plimbare prin piață pentru a absorbi arhitectura impresionantă.",
+            "en": "A stroll across the square to take in the impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwischenbrücken",
+            "hu": "Zwischenbrücken",
+            "ro": "Zwischenbrücken",
+            "en": "Zwischenbrücken"
+          },
+          "coords": [
+            14.4243,
+            48.0421
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zum Zusammenfluss der Flüsse.",
+            "hu": "Rövid séta a folyók összefolyásához.",
+            "ro": "O scurtă plimbare până la confluența râurilor.",
+            "en": "A short walk to the confluence of the rivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Museumsviertel",
+            "hu": "Utazás a múzeumi negyedbe",
+            "ro": "Călătorie spre cartierul muzeelor",
+            "en": "Trip to the Museum Quarter"
+          },
+          "coords": [
+            14.427,
+            48.043
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Museum Arbeitswelt'.",
+            "hu": "Menjen busszal a 'Museum Arbeitswelt' megállóig.",
+            "ro": "Luați autobuzul până la stația 'Museum Arbeitswelt'.",
+            "en": "Take a bus to the 'Museum Arbeitswelt' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Arbeitswelt",
+            "hu": "Munka Világa Múzeum",
+            "ro": "Muzeul Lumea Muncii",
+            "en": "Museum of the Working World"
+          },
+          "coords": [
+            14.4271,
+            48.0428
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Stadt.",
+            "hu": "Lenyűgöző bepillantás a város ipari múltjába.",
+            "ro": "O perspectivă fascinantă asupra trecutului industrial al orașului.",
+            "en": "A fascinating insight into the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lamberg",
+            "hu": "Lamberg-kastély",
+            "ro": "Castelul Lamberg",
+            "en": "Lamberg Castle"
+          },
+          "coords": [
+            14.4258,
+            48.0411
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel zum Schloss und genießen Sie die Aussicht.",
+            "hu": "Másszon fel a dombra a kastélyhoz, és élvezze a kilátást.",
+            "ro": "Urcați dealul până la castel și bucurați-vă de priveliște.",
+            "en": "Climb the hill to the castle and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Bus, um direkt am Stadtplatz zu starten. Erkunden Sie den historischen Kern zu Fuß, einschließlich des Rathauses und der Zwischenbrücken. Am Mittag bringt Sie ein kurzer Bus-Hop zum zweiten Cluster: dem Museum Arbeitswelt. Nach dem Museumsbesuch spazieren Sie gemütlich zum darüber liegenden Schloss Lamberg. Diese Route ist ideal, um die Distanzen zwischen den Hauptbereichen mühelos zu überbrücken und dennoch ausgiebige Spaziergänge in den Clustern zu genießen.",
+        "hu": "Használja a buszt, hogy közvetlenül a Főtéren kezdjen. Fedezze fel gyalog a történelmi központot, beleértve a Városházát és a Zwischenbrückent. Délben egy rövid buszozás elviszi a második látnivalócsoporthoz: a Munka Világa Múzeumhoz. A múzeumlátogatás után sétáljon fel kényelmesen a felette lévő Lamberg-kastélyhoz. Ez az útvonal ideális a fő területek közötti távolságok könnyed áthidalására, miközben élvezheti a kiadós sétákat a látnivalócsoportokon belül.",
+        "ro": "Folosiți autobuzul pentru a porni direct din Piața Centrală. Explorați nucleul istoric pe jos, inclusiv Primăria și Zwischenbrücken. La prânz, o scurtă călătorie cu autobuzul vă duce la al doilea grup: Muzeul Lumea Muncii. După vizitarea muzeului, faceți o plimbare relaxantă până la Castelul Lamberg, situat deasupra. Acest traseu este ideal pentru a acoperi cu ușurință distanțele dintre zonele principale, bucurându-vă în același timp de plimbări extinse în cadrul grupurilor.",
+        "en": "Use the bus to start directly at the main square. Explore the historic core on foot, including the City Hall and Zwischenbrücken. At noon, a short bus hop takes you to the second cluster: the Museum of the Working World. After visiting the museum, take a leisurely stroll up to Lamberg Castle above. This route is ideal for effortlessly bridging the distances between the main areas while still enjoying extensive walks within the clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imbissstand am Busbahnhof",
+            "tip": "Schnell und günstig für eine Wurst oder ein Sandwich."
+          },
+          {
+            "name": "Gasthof zum Goldenen Löwen",
+            "tip": "Traditionelle Gerichte, gut mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büfé a buszpályaudvaron",
+            "tip": "Gyors és olcsó egy kolbászért vagy szendvicsért."
+          },
+          {
+            "name": "Arany Oroszlán Fogadó",
+            "tip": "Hagyományos ételek, busszal jól megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Rapid și ieftin pentru un cârnat sau un sandviș."
+          },
+          {
+            "name": "Hanul Leul de Aur",
+            "tip": "Mâncăruri tradiționale, ușor accesibile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack stand at the bus station",
+            "tip": "Quick and cheap for a sausage or a sandwich."
+          },
+          {
+            "name": "Golden Lion Inn",
+            "tip": "Traditional dishes, easily accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am Tabor",
+            "tip": "Ein alter, ruhiger Friedhof mit historischer Atmosphäre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Enns",
+            "tip": "Leicht mit dem Bus zu erreichende Uferwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabor temető",
+            "tip": "Régi, csendes temető történelmi hangulattal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta az Enns mentén",
+            "tip": "Busszal könnyen megközelíthető parti sétányok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Tabor",
+            "tip": "Un cimitir vechi și liniștit, cu o atmosferă istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Enns",
+            "tip": "Poteci de mal ușor accesibile cu autobuzul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabor Cemetery",
+            "tip": "An old, quiet cemetery with a historical atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Enns",
+            "tip": "Riverside paths easily accessible by bus.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Stadtplatz",
+            "tip": "Gut erreichbar für Souvenirs vor der Abfahrt."
+          },
+          {
+            "name": "Bäckereien in der Nähe von Haltestellen",
+            "tip": "Kaufen Sie lokales Gebäck für die Heimfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Főtéren",
+            "tip": "Könnyen megközelíthető emléktárgyakért indulás előtt."
+          },
+          {
+            "name": "Pékségek a megállók közelében",
+            "tip": "Vásároljon helyi péksüteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Centrală",
+            "tip": "Ușor accesibile pentru suveniruri înainte de plecare."
+          },
+          {
+            "name": "Brutării lângă stații",
+            "tip": "Cumpărați produse de patiserie locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the Main Square",
+            "tip": "Easily accessible for souvenirs before departure."
+          },
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Buy local pastries for the ride home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Prüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Die meisten Busse sind barrierefrei.",
+          "Halten Sie Kleingeld für Tickets bereit, falls Sie im Bus kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "A legtöbb busz akadálymentesített.",
+          "Készítsen elő aprópénzt a jegyvásárláshoz, ha a buszon vesz jegyet."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități.",
+          "Pregătiți mărunțiș pentru bilete dacă le cumpărați din autobuz."
+        ],
+        "en": [
+          "Buy a day pass for unlimited rides.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Most buses are accessible.",
+          "Have small change ready for tickets if buying on the bus."
+        ]
+      }
+    }
+  }
+}

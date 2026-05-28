@@ -1,0 +1,1424 @@
+{
+  "city_id": "romania-valcanesti-cities-v2",
+  "anchor": {
+    "name": "Vălcănești",
+    "coords": [
+      26,
+      45.13
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            26.001,
+            45.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neorumänische Architektur und die Details der Fassade.",
+            "hu": "Csodálja meg a neoromán stílusú építészetet és a homlokzat részleteit!",
+            "ro": "Admirați arhitectura neoromânească și detaliile fațadei.",
+            "en": "Admire the Neo-Romanian architecture and the facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinu Constantinescu Schule",
+            "hu": "Dinu Constantinescu Iskola",
+            "ro": "Școala Dinu Constantinescu",
+            "en": "Dinu Constantinescu School"
+          },
+          "coords": [
+            26.003,
+            45.132
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein historisches Bildungsgebäude, das die lokale Geschichte widerspiegelt.",
+            "hu": "Egy történelmi oktatási épület, amely a helyi történelmet tükrözi.",
+            "ro": "O clădire educațională istorică ce reflectă istoria locală.",
+            "en": "A historical educational building reflecting the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.005,
+            45.129
+          ],
+          "category": "churches",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinischen Einflüsse in den Innenfresken.",
+            "hu": "Figyelje meg a bizánci hatásokat a belső freskókon!",
+            "ro": "Observați influențele bizantine în frescele interioare.",
+            "en": "Look for the Byzantine influences in the interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Paraschiva",
+            "hu": "Szent Paraschiva fatemplom",
+            "ro": "Biserica de lemn Sf. Parascheva",
+            "en": "St. Paraschiva Wooden Church"
+          },
+          "coords": [
+            25.998,
+            45.125
+          ],
+          "category": "churches",
+          "arrive_at": "11:09",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Juwel der Holzarchitektur. Fragen Sie nach der Geschichte des Glockenturms.",
+            "hu": "A faépítészet gyöngyszeme. Kérdezzen rá a harangtorony történetére!",
+            "ro": "O bijuterie a arhitecturii în lemn. Întrebați despre istoria clopotniței.",
+            "en": "A gem of wooden architecture. Ask about the history of the bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Weinkeller",
+            "hu": "Hagyományos borospincék",
+            "ro": "Cramele Tradiționale",
+            "en": "Traditional Wine Cellars"
+          },
+          "coords": [
+            25.995,
+            45.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Fetească Neagră und nehmen Sie eine Flasche als Souvenir.",
+            "hu": "Kóstolja meg a helyi Fetească Neagră bort, és vigyen egy üveggel emlékbe!",
+            "ro": "Degustați Fetească Neagră locală și luați o sticlă ca suvenir.",
+            "en": "Taste the local Fetească Neagră and take a bottle as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.008,
+            45.138
+          ],
+          "category": "monuments",
+          "arrive_at": "14:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung mit Panoramablick über das Tal.",
+            "hu": "Egy csendes, elgondolkodtató hely, panorámás kilátással a völgyre.",
+            "ro": "Un loc de reflecție cu o vedere panoramică asupra văii.",
+            "en": "A place for reflection with a panoramic view over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Vălcănești beginnt im historischen Zentrum, wo Sie das Alte Rathaus und die Dinu Constantinescu Schule entdecken. Der Vormittag führt Sie zu den spirituellen Wahrzeichen der Stadt, den beiden bedeutenden Kirchen. Nach dem Mittagessen in einem traditionellen Weinkeller, inklusive Verkostung, spazieren Sie zum Heldendenkmal. Der Nachmittag endet mit einem entspannten Spaziergang und Reflexionen, während Sie die Aussicht über die malerische Landschaft genießen.",
+        "hu": "A nap Vălcănești történelmi központjában kezdődik, ahol felfedezi a Régi Városházát és a Dinu Constantinescu Iskolát. A délelőtt a város spirituális nevezetességeihez, a két fontos templomhoz vezet. Egy hagyományos borospincében elköltött ebéd és borkóstoló után a Hősök emlékművéhez sétál. A délután egy pihentető sétával és elmélkedéssel zárul, miközben a festői tájban gyönyörködik.",
+        "ro": "Ziua dvs. în Vălcănești începe în centrul istoric, explorând Primăria Veche și Școala Dinu Constantinescu. Dimineața vă poartă către reperele spirituale ale orașului, cele două biserici importante. După prânzul la o cramă tradițională, cu degustare inclusă, vă plimbați spre Monumentul Eroilor. După-amiaza se încheie cu o plimbare relaxantă și momente de reflecție, admirând priveliștea asupra peisajului pitoresc.",
+        "en": "Your day in Vălcănești begins in the historic center, exploring the Old Town Hall and the Dinu Constantinescu School. The morning takes you to the town's spiritual landmarks, the two important churches. After lunch at a traditional wine cellar, including a tasting, you'll stroll to the Heroes' Monument. The afternoon concludes with a relaxing walk and reflection while enjoying the view over the picturesque landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klassische rumänische Kohlrouladen, serviert mit Polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Probieren Sie den robusten Rotwein aus den örtlichen Kellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale puliszkával",
+            "tip": "Klasszikus román töltött káposzta, polentával tálalva."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett fasírtrolád, minden látogatónak kötelező."
+          },
+          {
+            "name": "Helyi bor (Fetească Neagră)",
+            "tip": "Kóstolja meg a helyi pincészetek testes vörösborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Rulouri clasice de varză românești, servite cu mămăligă."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Încercați vinul roșu robust din cramele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale with mămăliguță",
+            "tip": "Classic Romanian cabbage rolls served with polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a must-try for any visitor."
+          },
+          {
+            "name": "Local wine (Fetească Neagră)",
+            "tip": "Taste the robust red wine from the local cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vălcănești-Hügel",
+            "tip": "Finden Sie einen ruhigen Platz auf den Hügeln für eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Valea Cosminei",
+            "tip": "Ein friedlicher Spaziergang entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Paraschiva",
+            "tip": "Ein ruhiger Ort, um die alte Holzarchitektur zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vălcănești-dombok",
+            "tip": "Keressen egy csendes helyet a dombokon a nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Cosminei partja",
+            "tip": "Békés séta a patak mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Paraschiva templomkert",
+            "tip": "Csendes hely a régi faépítészet megcsodálására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Vălcănești",
+            "tip": "Găsiți un loc liniștit pe dealuri pentru o priveliște minunată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile Văii Cosminei",
+            "tip": "O plimbare pașnică de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Parascheva",
+            "tip": "Un loc liniștit pentru a admira arhitectura veche din lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vălcănești Hills",
+            "tip": "Find a quiet spot on the hills for a great view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Valea Cosminei",
+            "tip": "A peaceful walk along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Paraschiva churchyard",
+            "tip": "A quiet place to admire the old wooden architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Fetească Neagră direkt vom Erzeuger."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Suchen Sie nach kleinen, von lokalen Handwerkern gefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Fetească Neagră bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves fatermékek",
+            "tip": "Keressen helyi kézművesek által készített apró szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Fetească Neagră direct de la producător."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Căutați mici suveniruri realizate de meșterii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Fetească Neagră directly from the producer."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for small souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Dorfzentrum und die Wege hügelig sein können.",
+          "Nehmen Sie Wasser mit, besonders für den Spaziergang zu den Hügeln.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander, was einen Spaziergang ideal macht.",
+          "Prüfen Sie die Öffnungszeiten der Weinkeller im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a falu központja és az utak dombosak lehetnek.",
+          "Vigyen magával vizet, különösen a dombokra vezető sétához.",
+          "A legtöbb látnivaló közel van egymáshoz, így a séta ideális.",
+          "Előre ellenőrizze a borospincék nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul satului și potecile pot fi deluroase.",
+          "Luați apă cu dvs., mai ales pentru plimbarea spre dealuri.",
+          "Majoritatea atracțiilor sunt apropiate, făcând plimbarea ideală.",
+          "Verificați în avans programul de funcționare al cramelor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the village center and paths can be hilly.",
+          "Bring water, especially for the walk up to the hills.",
+          "Most sights are close to each other, making walking ideal.",
+          "Check the opening hours of the wine cellars in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            26.001,
+            45.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour, ideal für ein erstes Foto.",
+            "hu": "A kerékpártúra kiindulópontja, ideális egy első fotóhoz.",
+            "ro": "Punctul de plecare al turului dvs. cu bicicleta, ideal pentru o primă fotografie.",
+            "en": "The starting point of your bike tour, perfect for a first photo."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.005,
+            45.129
+          ],
+          "category": "churches",
+          "arrive_at": "09:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Ruhe im Inneren.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a templom csendjét.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniștea din interior.",
+            "en": "Park your bike and enjoy the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Valea Cosminei",
+            "hu": "Valea Cosminei",
+            "ro": "Valea Cosminei",
+            "en": "Valea Cosminei"
+          },
+          "coords": [
+            26.025,
+            45.14
+          ],
+          "category": "natural features",
+          "arrive_at": "10:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour entlang des Tals, perfekt für Naturliebhaber.",
+            "hu": "Kellemes kerékpártúra a völgy mentén, tökéletes a természetbarátoknak.",
+            "ro": "O plimbare plăcută cu bicicleta de-a lungul văii, perfectă pentru iubitorii de natură.",
+            "en": "A pleasant bike ride along the valley, perfect for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Vălcănești-Hügel Aussichtspunkt",
+            "hu": "Vălcănești-dombok kilátó",
+            "ro": "Punct de belvedere Dealurile Vălcănești",
+            "en": "Vălcănești Hills Viewpoint"
+          },
+          "coords": [
+            25.99,
+            45.145
+          ],
+          "category": "natural features",
+          "arrive_at": "11:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist die Mühe wert, der Panoramablick ist atemberaubend.",
+            "hu": "Megéri a fáradságot feltekerni, a panoráma lélegzetelállító.",
+            "ro": "Urcușul merită efortul, vederea panoramică este uluitoare.",
+            "en": "The climb is worth the effort, the panoramic view is breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Weinkeller",
+            "hu": "Hagyományos borospincék",
+            "ro": "Cramele Tradiționale",
+            "en": "Traditional Wine Cellars"
+          },
+          "coords": [
+            25.995,
+            45.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein wohlverdientes Mittagessen und eine Weinprobe nach Ihrer Radtour.",
+            "hu": "Jól megérdemelt ebéd és borkóstoló a kerékpártúra után.",
+            "ro": "Un prânz binemeritat și o degustare de vinuri după turul cu bicicleta.",
+            "en": "A well-deserved lunch and wine tasting after your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Paraschiva",
+            "hu": "Szent Paraschiva fatemplom",
+            "ro": "Biserica de lemn Sf. Parascheva",
+            "en": "St. Paraschiva Wooden Church"
+          },
+          "coords": [
+            25.998,
+            45.125
+          ],
+          "category": "churches",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um dieses Meisterwerk der Holzarchitektur zu bestaunen.",
+            "hu": "Egy utolsó megálló, hogy megcsodálja a faépítészet e remekművét.",
+            "ro": "O ultimă oprire pentru a admira această capodoperă a arhitecturii în lemn.",
+            "en": "A final stop to admire this masterpiece of wooden architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Zentrum von Vălcănești, führt zur St.-Nikolaus-Kirche und dann hinaus in die Natur. Sie radeln durch das malerische Valea Cosminei-Tal. Der anspruchsvollste Teil führt Sie zu einem Aussichtspunkt auf den Vălcănești-Hügeln, wo die Aussicht jede Anstrengung belohnt. Gestärkt durch ein Mittagessen in einem Weinkeller, schließen Sie den Tag mit einem Besuch der beeindruckenden Holzkirche St. Paraschiva ab, bevor Sie ins Dorfzentrum zurückkehren.",
+        "hu": "A kerékpártúra Vălcănești központjából indul, a Szent Miklós-templomhoz, majd ki a természetbe vezet. A festői Valea Cosminei völgyén keresztül teker. A legnehezebb szakasz a Vălcănești-dombok egyik kilátópontjához visz, ahol a látvány minden fáradságot megér. Egy borospincében elköltött ebéd után a napot a lenyűgöző Szent Paraschiva fatemplom meglátogatásával zárja, mielőtt visszatérne a faluközpontba.",
+        "ro": "Turul dvs. cu bicicleta începe în centrul Vălcăneștiului, continuă la Biserica Sfântul Nicolae și apoi în natură. Pedalați prin pitoreasca Valea Cosminei. Cea mai provocatoare parte vă duce la un punct de belvedere pe Dealurile Vălcănești, unde priveliștea răsplătește orice efort. Întăriți de un prânz la o cramă, încheiați ziua cu o vizită la impresionanta Biserică de lemn Sf. Parascheva înainte de a vă întoarce în centrul satului.",
+        "en": "Your bike tour starts in the center of Vălcănești, continues to St. Nicholas Church, and then out into nature. You'll cycle through the picturesque Valea Cosminei valley. The most challenging part takes you to a viewpoint on the Vălcănești Hills, where the view rewards every effort. Refreshed by lunch at a winery, you'll end the day with a visit to the impressive St. Paraschiva Wooden Church before returning to the village center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klassische rumänische Kohlrouladen, serviert mit Polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Probieren Sie den robusten Rotwein aus den örtlichen Kellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale puliszkával",
+            "tip": "Klasszikus román töltött káposzta, polentával tálalva."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett fasírtrolád, minden látogatónak kötelező."
+          },
+          {
+            "name": "Helyi bor (Fetească Neagră)",
+            "tip": "Kóstolja meg a helyi pincészetek testes vörösborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Rulouri clasice de varză românești, servite cu mămăligă."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Încercați vinul roșu robust din cramele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale with mămăliguță",
+            "tip": "Classic Romanian cabbage rolls served with polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a must-try for any visitor."
+          },
+          {
+            "name": "Local wine (Fetească Neagră)",
+            "tip": "Taste the robust red wine from the local cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vălcănești-Hügel",
+            "tip": "Finden Sie einen ruhigen Platz auf den Hügeln für eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Valea Cosminei",
+            "tip": "Ein friedlicher Spaziergang entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Paraschiva",
+            "tip": "Ein ruhiger Ort, um die alte Holzarchitektur zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vălcănești-dombok",
+            "tip": "Keressen egy csendes helyet a dombokon a nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Cosminei partja",
+            "tip": "Békés séta a patak mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Paraschiva templomkert",
+            "tip": "Csendes hely a régi faépítészet megcsodálására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Vălcănești",
+            "tip": "Găsiți un loc liniștit pe dealuri pentru o priveliște minunată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile Văii Cosminei",
+            "tip": "O plimbare pașnică de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Parascheva",
+            "tip": "Un loc liniștit pentru a admira arhitectura veche din lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vălcănești Hills",
+            "tip": "Find a quiet spot on the hills for a great view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Valea Cosminei",
+            "tip": "A peaceful walk along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Paraschiva churchyard",
+            "tip": "A quiet place to admire the old wooden architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Fetească Neagră direkt vom Erzeuger."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Suchen Sie nach kleinen, von lokalen Handwerkern gefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Fetească Neagră bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves fatermékek",
+            "tip": "Keressen helyi kézművesek által készített apró szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Fetească Neagră direct de la producător."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Căutați mici suveniruri realizate de meșterii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Fetească Neagră directly from the producer."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for small souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder Trekkingrad wird für die Hügel empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Straßen können eng und kurvig sein, fahren Sie vorsichtig.",
+          "Ein kleiner Rucksack für Wasser und Snacks ist eine gute Idee."
+        ],
+        "hu": [
+          "A dombokhoz mountain bike vagy túrakerékpár ajánlott.",
+          "Vigyen magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a megállóknál.",
+          "Az utak szűkek és kanyargósak lehetnek, vezessen óvatosan.",
+          "Egy kis hátizsák víznek és harapnivalóknak jó ötlet."
+        ],
+        "ro": [
+          "O bicicletă de munte sau de trekking este recomandată pentru dealuri.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Drumurile pot fi înguste și sinuoase, conduceți cu prudență.",
+          "Un rucsac mic pentru apă și gustări este o idee bună."
+        ],
+        "en": [
+          "A mountain or trekking bike is recommended for the hills.",
+          "Bring a lock to secure your bike at the stops.",
+          "The roads can be narrow and winding, ride carefully.",
+          "A small backpack for water and snacks is a good idea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            26.002,
+            45.13
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Kern zu Fuß zu erkunden.",
+            "hu": "Parkoljon le itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora nucleul istoric pe jos.",
+            "en": "Park here to explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            26.001,
+            45.131
+          ],
+          "category": "historical",
+          "arrive_at": "09:16",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.005,
+            45.129
+          ],
+          "category": "churches",
+          "arrive_at": "09:44",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang durch die Gassen des Dorfes.",
+            "hu": "Élvezze a sétát a falu sikátorain keresztül!",
+            "ro": "Bucurați-vă de plimbarea pe străduțele satului.",
+            "en": "Enjoy the walk through the village's narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldendenkmal",
+            "hu": "Hősök emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            26.008,
+            45.138
+          ],
+          "category": "monuments",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hügel für einen Panoramablick und einen Moment der Besinnung.",
+            "hu": "Vezessen fel a dombra a panorámáért és egy pillanatnyi elmélkedésért.",
+            "ro": "Conduceți spre deal pentru o vedere panoramică și un moment de reflecție.",
+            "en": "Drive up to the hill for a panoramic view and a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Vălcănești-Hügel",
+            "hu": "Vălcănești-dombok kilátója",
+            "ro": "Punct de belvedere Dealurile Vălcănești",
+            "en": "Vălcănești Hills Viewpoint"
+          },
+          "coords": [
+            26.01,
+            45.14
+          ],
+          "category": "natural features",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Denkmal für noch bessere Fotos.",
+            "hu": "Csak egy rövid séta az emlékműtől a még jobb fotókért.",
+            "ro": "La doar o scurtă plimbare de la monument pentru fotografii și mai bune.",
+            "en": "Just a short walk from the monument for even better photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Traditionelle Weinkeller",
+            "hu": "Hagyományos borospincék",
+            "ro": "Cramele Tradiționale",
+            "en": "Traditional Wine Cellars"
+          },
+          "coords": [
+            25.995,
+            45.135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:49",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Zeit für ein ausgiebiges Mittagessen und die berühmte Weinprobe der Region.",
+            "hu": "Ideje egy bőséges ebédnek és a régió híres borkóstolójának.",
+            "ro": "Timpul pentru un prânz copios și faimoasa degustare de vinuri a regiunii.",
+            "en": "Time for a hearty lunch and the region's famous wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Paraschiva",
+            "hu": "Szent Paraschiva fatemplom",
+            "ro": "Biserica de lemn Sf. Parascheva",
+            "en": "St. Paraschiva Wooden Church"
+          },
+          "coords": [
+            25.998,
+            45.125
+          ],
+          "category": "churches",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und spazieren Sie zu diesem architektonischen Juwel.",
+            "hu": "Hagyja az autót, és sétáljon el ehhez az építészeti gyöngyszemhez!",
+            "ro": "Lăsați mașina și plimbați-vă până la această bijuterie arhitecturală.",
+            "en": "Leave the car and take a walk to this architectural gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag, indem Sie Ihr Auto im Zentrum von Vălcănești parken. Von dort aus erkunden Sie zu Fuß den historischen Kern mit dem Rathaus und der Nikolaikirche. Am Vormittag fahren Sie auf die Vălcănești-Hügel, um das Heldendenkmal und die spektakuläre Aussicht zu genießen. Das Mittagessen verbringen Sie in einem traditionellen Weinkeller, wo Sie lokale Spezialitäten und Wein probieren. Der Nachmittag ist dem Besuch der beeindruckenden Holzkirche gewidmet, die nur einen kurzen Spaziergang vom Weinkeller entfernt liegt.",
+        "hu": "A napot azzal kezdi, hogy leparkolja autóját Vălcănești központjában. Innen gyalogosan fedezi fel a történelmi központot a városházával és a Szent Miklós-templommal. Délelőtt felautózik a Vălcănești-dombokra, hogy megcsodálja a Hősök emlékművét és a látványos kilátást. Az ebédet egy hagyományos borospincében tölti, ahol helyi specialitásokat és bort kóstolhat. A délután a lenyűgöző fatemplom meglátogatásának van szentelve, amely csak egy rövid sétára található a pincétől.",
+        "ro": "Începeți ziua parcând mașina în centrul Vălcăneștiului. De acolo, explorați pe jos nucleul istoric, cu primăria și Biserica Sfântul Nicolae. Dimineața, conduceți spre Dealurile Vălcănești pentru a vă bucura de Monumentul Eroilor și de priveliștea spectaculoasă. Prânzul îl petreceți la o cramă tradițională, unde degustați specialități locale și vin. După-amiaza este dedicată vizitării impresionantei biserici de lemn, la o scurtă plimbare de cramă.",
+        "en": "You start the day by parking your car in the center of Vălcănești. From there, you explore the historic core on foot, including the town hall and St. Nicholas Church. In the morning, you drive up to the Vălcănești Hills to enjoy the Heroes' Monument and the spectacular view. You'll have lunch at a traditional wine cellar, tasting local specialties and wine. The afternoon is dedicated to visiting the impressive wooden church, just a short walk from the cellar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klassische rumänische Kohlrouladen, serviert mit Polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Probieren Sie den robusten Rotwein aus den örtlichen Kellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale puliszkával",
+            "tip": "Klasszikus román töltött káposzta, polentával tálalva."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett fasírtrolád, minden látogatónak kötelező."
+          },
+          {
+            "name": "Helyi bor (Fetească Neagră)",
+            "tip": "Kóstolja meg a helyi pincészetek testes vörösborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Rulouri clasice de varză românești, servite cu mămăligă."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Încercați vinul roșu robust din cramele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale with mămăliguță",
+            "tip": "Classic Romanian cabbage rolls served with polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a must-try for any visitor."
+          },
+          {
+            "name": "Local wine (Fetească Neagră)",
+            "tip": "Taste the robust red wine from the local cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vălcănești-Hügel",
+            "tip": "Finden Sie einen ruhigen Platz auf den Hügeln für eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Valea Cosminei",
+            "tip": "Ein friedlicher Spaziergang entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Paraschiva",
+            "tip": "Ein ruhiger Ort, um die alte Holzarchitektur zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vălcănești-dombok",
+            "tip": "Keressen egy csendes helyet a dombokon a nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Cosminei partja",
+            "tip": "Békés séta a patak mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Paraschiva templomkert",
+            "tip": "Csendes hely a régi faépítészet megcsodálására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Vălcănești",
+            "tip": "Găsiți un loc liniștit pe dealuri pentru o priveliște minunată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile Văii Cosminei",
+            "tip": "O plimbare pașnică de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Parascheva",
+            "tip": "Un loc liniștit pentru a admira arhitectura veche din lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vălcănești Hills",
+            "tip": "Find a quiet spot on the hills for a great view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Valea Cosminei",
+            "tip": "A peaceful walk along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Paraschiva churchyard",
+            "tip": "A quiet place to admire the old wooden architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Fetească Neagră direkt vom Erzeuger."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Suchen Sie nach kleinen, von lokalen Handwerkern gefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Fetească Neagră bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves fatermékek",
+            "tip": "Keressen helyi kézművesek által készített apró szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Fetească Neagră direct de la producător."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Căutați mici suveniruri realizate de meșterii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Fetească Neagră directly from the producer."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for small souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Cluster-Walking-Methode ist ideal für dieses Dorf.",
+          "Parkmöglichkeiten sind begrenzt, nutzen Sie zentrale Parkplätze.",
+          "Überprüfen Sie den Zustand der Straßen, insbesondere nach Regen.",
+          "Der Fahrer sollte bei der Weinprobe vorsichtig sein oder ganz darauf verzichten."
+        ],
+        "hu": [
+          "A „cluster-walking” (csoportos séta) módszer ideális ehhez a faluhoz.",
+          "A parkolási lehetőségek korlátozottak, használja a központi parkolókat.",
+          "Ellenőrizze az utak állapotát, különösen eső után.",
+          "A sofőr legyen óvatos a borkóstolónál, vagy hagyja ki teljesen."
+        ],
+        "ro": [
+          "Metoda de „cluster-walking” (plimbare în grupuri de obiective) este ideală pentru acest sat.",
+          "Parcările sunt limitate, folosiți parcările centrale.",
+          "Verificați starea drumurilor, mai ales după ploaie.",
+          "Șoferul ar trebui să fie precaut la degustarea de vinuri sau să o evite complet."
+        ],
+        "en": [
+          "The cluster-walking method is ideal for this village.",
+          "Parking is limited, use central parking areas.",
+          "Check the condition of the roads, especially after rain.",
+          "The driver should be cautious with the wine tasting or skip it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            26.002,
+            45.131
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung des Dorfzentrums.",
+            "hu": "Kezdje innen a falu központjának felfedezését!",
+            "ro": "Începeți explorarea centrului satului de aici.",
+            "en": "Start your exploration of the village center from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Dinu Constantinescu Schule",
+            "hu": "Régi Városháza és Dinu Constantinescu Iskola",
+            "ro": "Primăria Veche și Școala Dinu Constantinescu",
+            "en": "Old Town Hall & Dinu Constantinescu School"
+          },
+          "coords": [
+            26.001,
+            45.132
+          ],
+          "category": "historical",
+          "arrive_at": "09:16",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zwei wichtige historische Gebäude, die Sie bequem zu Fuß erreichen.",
+            "hu": "Két fontos történelmi épület, könnyen elérhető gyalog.",
+            "ro": "Două clădiri istorice importante, ușor accesibile pe jos.",
+            "en": "Two important historical buildings, easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.005,
+            45.129
+          ],
+          "category": "churches",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das Dorf führt Sie zu dieser schönen Kirche.",
+            "hu": "Egy rövid séta a falun keresztül elvezeti ehhez a szép templomhoz.",
+            "ro": "O scurtă plimbare prin sat vă duce la această frumoasă biserică.",
+            "en": "A short walk through the village leads you to this beautiful church."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Weinkeller",
+            "hu": "Buszmegálló a borospincéknél",
+            "ro": "Stația Crame",
+            "en": "Wine Cellars Stop"
+          },
+          "coords": [
+            25.994,
+            45.134
+          ],
+          "category": "transport",
+          "arrive_at": "10:59",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zu den Weinkellern für Mittagessen und eine Führung.",
+            "hu": "Menjen busszal a borospincékhez ebédelni és egy vezetett túrára.",
+            "ro": "Luați autobuzul spre crame pentru prânz și un tur ghidat.",
+            "en": "Take the bus to the wine cellars for lunch and a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzkirche St. Paraschiva",
+            "hu": "Szent Paraschiva fatemplom",
+            "ro": "Biserica de lemn Sf. Parascheva",
+            "en": "St. Paraschiva Wooden Church"
+          },
+          "coords": [
+            25.998,
+            45.125
+          ],
+          "category": "churches",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Mittagessen zu diesem nahegelegenen Juwel.",
+            "hu": "Ebéd után sétáljon el ehhez a közeli gyöngyszemhez.",
+            "ro": "După prânz, faceți o plimbare până la această bijuterie din apropiere.",
+            "en": "After lunch, take a walk to this nearby gem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der zentralen Bushaltestelle, von der aus Sie das historische Zentrum von Vălcănești zu Fuß erkunden. Sie besichtigen das Rathaus und die St.-Nikolaus-Kirche. Am Vormittag nehmen Sie einen lokalen Bus, der Sie in die Nähe der berühmten Weinkeller bringt. Dort genießen Sie ein ausgiebiges Mittagessen mit Weinprobe. Der Nachmittag steht im Zeichen der Kultur mit einem Spaziergang zur beeindruckenden Holzkirche St. Paraschiva, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
+        "hu": "A nap a központi buszmegállónál kezdődik, ahonnan gyalogosan fedezi fel Vălcănești történelmi központját. Meglátogatja a városházát és a Szent Miklós-templomot. Délelőtt egy helyi busszal utazik a híres borospincék közelébe. Ott egy bőséges ebédet és borkóstolót élvezhet. A délután a kultúra jegyében telik egy sétával a lenyűgöző Szent Paraschiva fatemplomhoz, mielőtt busszal visszatérne a központba.",
+        "ro": "Ziua dvs. începe la stația centrală de autobuz, de unde explorați pe jos centrul istoric al Vălcăneștiului. Vizitați primăria și Biserica Sfântul Nicolae. Dimineața, luați un autobuz local care vă duce în apropierea faimoaselor crame. Acolo vă bucurați de un prânz copios cu degustare de vinuri. După-amiaza este dedicată culturii, cu o plimbare la impresionanta biserică de lemn Sf. Parascheva, înainte de a vă întoarce cu autobuzul în centru.",
+        "en": "Your day begins at the central bus stop, from where you'll explore the historic center of Vălcănești on foot. You'll visit the town hall and St. Nicholas Church. In the morning, you take a local bus that brings you near the famous wine cellars. There, you'll enjoy a hearty lunch with wine tasting. The afternoon is dedicated to culture with a walk to the impressive St. Paraschiva Wooden Church before taking the bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Klassische rumänische Kohlrouladen, serviert mit Polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein Muss für jeden Besucher."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Probieren Sie den robusten Rotwein aus den örtlichen Kellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarmale puliszkával",
+            "tip": "Klasszikus román töltött káposzta, polentával tálalva."
+          },
+          {
+            "name": "Mics",
+            "tip": "Grillezett fasírtrolád, minden látogatónak kötelező."
+          },
+          {
+            "name": "Helyi bor (Fetească Neagră)",
+            "tip": "Kóstolja meg a helyi pincészetek testes vörösborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sarmale cu mămăliguță",
+            "tip": "Rulouri clasice de varză românești, servite cu mămăligă."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o necesitate pentru orice vizitator."
+          },
+          {
+            "name": "Vin local (Fetească Neagră)",
+            "tip": "Încercați vinul roșu robust din cramele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarmale with mămăliguță",
+            "tip": "Classic Romanian cabbage rolls served with polenta."
+          },
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a must-try for any visitor."
+          },
+          {
+            "name": "Local wine (Fetească Neagră)",
+            "tip": "Taste the robust red wine from the local cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vălcănești-Hügel",
+            "tip": "Finden Sie einen ruhigen Platz auf den Hügeln für eine tolle Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer der Valea Cosminei",
+            "tip": "Ein friedlicher Spaziergang entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof St. Paraschiva",
+            "tip": "Ein ruhiger Ort, um die alte Holzarchitektur zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vălcănești-dombok",
+            "tip": "Keressen egy csendes helyet a dombokon a nagyszerű kilátásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Valea Cosminei partja",
+            "tip": "Békés séta a patak mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Paraschiva templomkert",
+            "tip": "Csendes hely a régi faépítészet megcsodálására.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Vălcănești",
+            "tip": "Găsiți un loc liniștit pe dealuri pentru o priveliște minunată.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile Văii Cosminei",
+            "tip": "O plimbare pașnică de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Parascheva",
+            "tip": "Un loc liniștit pentru a admira arhitectura veche din lemn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vălcănești Hills",
+            "tip": "Find a quiet spot on the hills for a great view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of Valea Cosminei",
+            "tip": "A peaceful walk along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Paraschiva churchyard",
+            "tip": "A quiet place to admire the old wooden architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie eine Flasche Fetească Neagră direkt vom Erzeuger."
+          },
+          {
+            "name": "Handgefertigte Holzarbeiten",
+            "tip": "Suchen Sie nach kleinen, von lokalen Handwerkern gefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon egy üveg Fetească Neagră bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves fatermékek",
+            "tip": "Keressen helyi kézművesek által készített apró szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați o sticlă de Fetească Neagră direct de la producător."
+          },
+          {
+            "name": "Artizanat din lemn",
+            "tip": "Căutați mici suveniruri realizate de meșterii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Buy a bottle of Fetească Neagră directly from the producer."
+          },
+          {
+            "name": "Handmade Wooden Crafts",
+            "tip": "Look for small souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Fahrpläne der lokalen Busse, da diese unregelmäßig sein können.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Die Hügel und das Heldendenkmal sind mit öffentlichen Verkehrsmitteln schwer zu erreichen.",
+          "Planen Sie genügend Zeit für den Rückweg zur Bushaltestelle ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a helyi buszok menetrendjéről, mert rendszertelen lehet.",
+          "Legyen nálad aprópénz a buszjegyekhez.",
+          "A dombok és a Hősök emlékműve nehezen érhető el tömegközlekedéssel.",
+          "Tervezzen elegendő időt a buszmegállóba való visszatérésre."
+        ],
+        "ro": [
+          "Informați-vă în avans despre orarele autobuzelor locale, deoarece pot fi neregulate.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz.",
+          "Dealurile și Monumentul Eroilor sunt greu accesibile cu transportul public.",
+          "Planificați suficient timp pentru a vă întoarce la stația de autobuz."
+        ],
+        "en": [
+          "Find out about local bus schedules in advance, as they can be infrequent.",
+          "Have small change ready for bus tickets.",
+          "The hills and the Heroes' Monument are difficult to reach by public transport.",
+          "Plan enough time to get back to the bus stop."
+        ]
+      }
+    }
+  }
+}

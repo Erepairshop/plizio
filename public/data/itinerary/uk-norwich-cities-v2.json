@@ -1,0 +1,1485 @@
+{
+  "city_id": "uk-norwich-cities-v2",
+  "anchor": {
+    "name": "Norwich",
+    "coords": [
+      1.2974,
+      52.6309
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elm Hill",
+            "hu": "Elm Hill",
+            "ro": "Elm Hill",
+            "en": "Elm Hill"
+          },
+          "coords": [
+            1.298,
+            52.632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die einzigartigen kleinen Geschäfte und die mittelalterliche Architektur.",
+            "hu": "Fedezze fel az egyedi kis boltokat és a középkori építészetet.",
+            "ro": "Fiți atenți la magazinele mici unice și la arhitectura medievală.",
+            "en": "Look out for the unique small shops and medieval architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Norwich",
+            "hu": "Norwichi katedrális",
+            "ro": "Catedrala din Norwich",
+            "en": "Norwich Cathedral"
+          },
+          "coords": [
+            1.3,
+            52.6315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Kreuzgang, den größten in England, und suchen Sie nach den Wanderfalken auf dem Turm.",
+            "hu": "Ne hagyja ki a kerengőt, amely a legnagyobb Angliában, és keresse a vándorsólymokat a tornyon.",
+            "ro": "Nu ratați claustrul, cel mai mare din Anglia, și căutați șoimii călători de pe turlă.",
+            "en": "Don't miss the cloisters, the largest in England, and look for the peregrine falcons on the spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Strangers' Hall",
+            "hu": "Strangers' Hall",
+            "ro": "Strangers' Hall",
+            "en": "Strangers' Hall"
+          },
+          "coords": [
+            1.293,
+            52.631
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in das häusliche Leben vom Mittelalter bis zur viktorianischen Zeit.",
+            "hu": "Lenyűgöző bepillantás a háztartási életbe a középkortól a viktoriánus korig.",
+            "ro": "O privire fascinantă asupra vieții domestice din Evul Mediu până în epoca victoriană.",
+            "en": "A fascinating insight into domestic life from medieval to Victorian times."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Forum",
+            "hu": "The Forum",
+            "ro": "The Forum",
+            "en": "The Forum"
+          },
+          "coords": [
+            1.292,
+            52.6285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie im Inneren nach, es gibt oft kostenlose Ausstellungen und eine riesige Bibliothek. Ein guter Ort für ein Mittagessen.",
+            "hu": "Nézzen be, gyakran vannak ingyenes kiállítások és egy hatalmas könyvtár. Jó hely egy ebédre.",
+            "ro": "Verificați înăuntru, adesea sunt expoziții gratuite și o bibliotecă uriașă. Un loc bun pentru prânz.",
+            "en": "Check inside, there are often free exhibitions and a huge library. A good spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwich Castle",
+            "hu": "Norwichi vár",
+            "ro": "Castelul Norwich",
+            "en": "Norwich Castle"
+          },
+          "coords": [
+            1.296,
+            52.629
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Touren zu den Zinnen und Verliesen sind den Aufpreis wert.",
+            "hu": "A bástyákhoz és a börtönökhöz vezető túrák megérik a felárat.",
+            "ro": "Tururile la metereze și temnițe merită prețul suplimentar.",
+            "en": "The tours of the battlements and dungeons are worth the extra fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Plantation Garden",
+            "hu": "Plantation Garden",
+            "ro": "Grădina Plantation",
+            "en": "Plantation Garden"
+          },
+          "coords": [
+            1.284,
+            52.626
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:08",
+          "stay_min": 95,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel. Bringen Sie Bargeld für die Spendenkasse am Eingang mit.",
+            "hu": "Egy rejtett kincs. Hozz magaddal készpénzt a bejáratnál lévő adománydobozba.",
+            "ro": "O bijuterie ascunsă. Aduceți numerar pentru cutia de onestitate de la intrare.",
+            "en": "A hidden gem. Bring cash for the honesty box at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem mittelalterlichen Elm Hill, bevor Sie die Pracht der Kathedrale von Norwich bewundern. Tauchen Sie in die Geschichte im Strangers' Hall ein. Am Mittag genießen Sie die moderne Atmosphäre des Forums, ein perfekter Ort für eine Pause und ein Mittagessen. Erklimmen Sie am Nachmittag den Hügel zum Norwich Castle, um einen Panoramablick und eine Dosis Geschichte zu genießen. Schließen Sie Ihren Tag mit einem ruhigen Spaziergang durch den geheimen Plantation Garden ab, einer viktorianischen Oase, die im Herzen der Stadt versteckt ist.",
+        "hu": "Kezdje a napot a középkori Elm Hillen, mielőtt megcsodálná a norwichi katedrális nagyságát. Merüljön el a történelemben a Strangers' Hallban. Délben élvezze a The Forum modern hangulatát, amely tökéletes hely a pihenésre és ebédre. Délután másszon fel a dombra a norwichi várhoz, ahonnan panorámás kilátás és egy adag történelem várja. Zárja a napot egy békés sétával a titkos Plantation Gardenben, egy viktoriánus oázisban, amely a város szívében rejtőzik.",
+        "ro": "Începeți ziua în medievalul Elm Hill înainte de a admira măreția Catedralei din Norwich. Scufundați-vă în istorie la Strangers' Hall. La amiază, bucurați-vă de atmosfera modernă de la The Forum, un loc perfect pentru o pauză și prânz. După-amiaza, urcați dealul spre Castelul Norwich pentru vederi panoramice și o doză de istorie. Încheiați ziua cu o plimbare liniștită prin Grădina secretă Plantation, o oază victoriană ascunsă în inima orașului.",
+        "en": "Start your day in the medieval Elm Hill before admiring the grandeur of Norwich Cathedral. Delve into history at Strangers' Hall. At midday, enjoy the modern vibe of The Forum, a perfect spot for a break and lunch. In the afternoon, climb the hill to Norwich Castle for panoramic views and a dose of history. Conclude your day with a peaceful stroll through the secret Plantation Garden, a Victorian oasis hidden in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Norfolk Wherry Bier",
+            "tip": "Probieren Sie dieses lokale Ale in einem der vielen historischen Pubs der Stadt, wie z.B. dem Adam and Eve."
+          },
+          {
+            "name": "Cromer Crab",
+            "tip": "Wenn es Saison hat, suchen Sie nach diesem süßen, zarten Krebsfleisch, oft in Sandwiches auf dem Norwich Market."
+          },
+          {
+            "name": "Norfolk Shortcake",
+            "tip": "Ein süßer Genuss, den man in Bäckereien wie Macarons & More findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Norfolk Wherry sör",
+            "tip": "Kóstolja meg ezt a helyi ale sört a város számos történelmi pubjának egyikében, mint például az Adam and Eve-ben."
+          },
+          {
+            "name": "Cromer rák",
+            "tip": "Ha szezonja van, keresse ezt az édes, puha rákot, gyakran szendvicsekben a Norwich Marketen."
+          },
+          {
+            "name": "Norfolk shortcake",
+            "tip": "Édes finomság, amelyet pékségekben, például a Macarons & More-ban talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea Norfolk Wherry",
+            "tip": "Încercați această bere locală într-unul dintre multele pub-uri istorice ale orașului, cum ar fi Adam and Eve."
+          },
+          {
+            "name": "Crabul Cromer",
+            "tip": "Când este în sezon, căutați acest crab dulce și fraged, adesea servit în sandvișuri la Piața Norwich."
+          },
+          {
+            "name": "Prăjitura Norfolk",
+            "tip": "Un deliciu dulce pe care îl găsiți la brutării precum Macarons & More."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norfolk Wherry beer",
+            "tip": "Try this local ale in one of the city's many historic pubs, like the Adam and Eve."
+          },
+          {
+            "name": "Cromer Crab",
+            "tip": "When in season, look for this sweet, delicate crab, often found in sandwiches at Norwich Market."
+          },
+          {
+            "name": "Norfolk Shortcake",
+            "tip": "A sweet treat to find in bakeries like Macarons & More."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bishop's House Garden",
+            "tip": "Ein friedlicher, ummauerter Garten neben der Kathedrale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wensum River Walk",
+            "tip": "Folgen Sie dem Pfad entlang des Flusses für eine ruhige Flucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mousehold Heath",
+            "tip": "Bietet den besten Panoramablick auf die Stadt, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki Ház Kertje",
+            "tip": "Békés, fallal körülvett kert a katedrális mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wensum folyóparti séta",
+            "tip": "Kövesse az ösvényt a folyó mentén egy csendes kikapcsolódásért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mousehold Heath",
+            "tip": "A legjobb panorámás kilátást nyújtja a városra, különösen naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Casei Episcopului",
+            "tip": "O grădină liniștită, împrejmuită de ziduri, lângă catedrală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe râul Wensum",
+            "tip": "Urmați poteca de-a lungul râului pentru o evadare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mousehold Heath",
+            "tip": "Oferă cea mai bună vedere panoramică a orașului, mai ales la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's House Garden",
+            "tip": "A peaceful walled garden adjacent to the Cathedral.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wensum River Walk",
+            "tip": "Follow the path alongside the river for a quiet escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mousehold Heath",
+            "tip": "Offers the best panoramic view of the city, especially at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Norwich Market",
+            "tip": "Einer der ältesten und größten Freiluftmärkte des Landes, ideal für Lebensmittel, Kleidung und einzigartige Geschenke."
+          },
+          {
+            "name": "The Lanes",
+            "tip": "Ein Labyrinth aus Gassen voller unabhängiger Boutiquen, Vintage-Läden und Kunstgalerien."
+          },
+          {
+            "name": "Jarrold",
+            "tip": "Norwichs unabhängiges Kaufhaus, ein lokales Wahrzeichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Norwich Market",
+            "tip": "Az ország egyik legrégebbi és legnagyobb szabadtéri piaca, ideális élelmiszerekhez, ruházathoz és egyedi ajándékokhoz."
+          },
+          {
+            "name": "The Lanes",
+            "tip": "Független butikokkal, vintage boltokkal és művészeti galériákkal teli sikátorok labirintusa."
+          },
+          {
+            "name": "Jarrold",
+            "tip": "Norwich független áruháza, egy helyi intézmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Norwich",
+            "tip": "Una dintre cele mai vechi și mai mari piețe în aer liber din țară, excelentă pentru mâncare, haine și cadouri unice."
+          },
+          {
+            "name": "The Lanes",
+            "tip": "Un labirint de alei pline de buticuri independente, magazine de epocă și galerii de artă."
+          },
+          {
+            "name": "Jarrold",
+            "tip": "Magazinul universal independent din Norwich, o instituție locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norwich Market",
+            "tip": "One of the oldest and largest outdoor markets in the country, great for food, clothes, and unique gifts."
+          },
+          {
+            "name": "The Lanes",
+            "tip": "A maze of alleyways filled with independent boutiques, vintage shops, and art galleries."
+          },
+          {
+            "name": "Jarrold",
+            "tip": "Norwich's independent department store, a local institution."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in Gebieten wie Elm Hill uneben sein kann.",
+          "Viele der mittelalterlichen Straßen sind eng, also achten Sie auf den Verkehr, auch in Fußgängerzonen.",
+          "Einige kleinere Museen und Attraktionen haben möglicherweise eingeschränkte Öffnungszeiten. Überprüfen Sie diese im Voraus.",
+          "Nutzen Sie die vielen historischen Pubs für eine Pause und ein lokales Ale."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek olyan területeken, mint az Elm Hill.",
+          "Sok középkori utca szűk, ezért figyeljen a forgalomra, még a gyalogos zónákban is.",
+          "Néhány kisebb múzeum és látnivaló korlátozott nyitvatartással rendelkezhet, ellenőrizze előre.",
+          "Használja ki a sok történelmi pubot egy pihenőre és egy helyi sörre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece piatra cubică poate fi denivelată în zone precum Elm Hill.",
+          "Multe dintre străzile medievale sunt înguste, așa că fiți atenți la trafic, chiar și în zonele pietonale.",
+          "Unele muzee și atracții mai mici pot avea ore de deschidere limitate; verificați în avans.",
+          "Profitați de numeroasele pub-uri istorice pentru o pauză și o bere locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven in areas like Elm Hill.",
+          "Many of the medieval streets are narrow, so be aware of traffic even in pedestrianised zones.",
+          "Some smaller museums and attractions may have limited opening hours; check in advance.",
+          "Take advantage of the many historic pubs for a break and a local ale."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Das Forum",
+            "hu": "The Forum",
+            "ro": "The Forum",
+            "en": "The Forum"
+          },
+          "coords": [
+            1.292,
+            52.6285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit Fahrradständern und einem öffentlichen Platz.",
+            "hu": "Jó kiindulópont kerékpártárolókkal és nyilvános térrel.",
+            "ro": "Un punct de plecare bun, cu suporturi pentru biciclete și o piață publică.",
+            "en": "A good starting point with bike racks and a public square."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwich Castle",
+            "hu": "Norwichi vár",
+            "ro": "Castelul Norwich",
+            "en": "Norwich Castle"
+          },
+          "coords": [
+            1.296,
+            52.629
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und genießen Sie den Aufstieg.",
+            "hu": "Zárja le a kerékpárt a domb alján, és élvezze a mászást.",
+            "ro": "Legați-vă bicicleta la poalele dealului și bucurați-vă de urcuș.",
+            "en": "Lock your bike at the bottom of the mound and enjoy the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Dragon Hall",
+            "hu": "Dragon Hall",
+            "ro": "Dragon Hall",
+            "en": "Dragon Hall"
+          },
+          "coords": [
+            1.3005,
+            52.627
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten, da es sich um eine Veranstaltungshalle handelt, aber die Außenseite ist beeindruckend.",
+            "hu": "Ellenőrizze a nyitvatartást, mivel ez egy rendezvényhelyszín, de a külseje lenyűgöző.",
+            "ro": "Verificați programul, deoarece este un loc de evenimente, dar exteriorul este impresionant.",
+            "en": "Check opening times as it's an events venue, but the exterior is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Norwich",
+            "hu": "Norwichi katedrális",
+            "ro": "Catedrala din Norwich",
+            "en": "Norwich Cathedral"
+          },
+          "coords": [
+            1.3,
+            52.6315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie durch das historische Tor und parken Sie Ihr Fahrrad, um die ruhige Umgebung zu erkunden.",
+            "hu": "Kerékpározzon át a történelmi kapun, és parkolja le a kerékpárt, hogy felfedezze a békés környéket.",
+            "ro": "Pedalați prin poarta istorică și parcați bicicleta pentru a explora incinta liniștită.",
+            "en": "Cycle through the historic gate and park your bike to explore the serene grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Elm Hill",
+            "hu": "Elm Hill",
+            "ro": "Elm Hill",
+            "en": "Elm Hill"
+          },
+          "coords": [
+            1.298,
+            52.632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad die Kopfsteinpflasterstraße hinauf – Fahren ist schwierig, aber es ist ein Muss!",
+            "hu": "Tolja fel a kerékpárt a macskaköves utcán – a biciklizés nehéz, de kihagyhatatlan!",
+            "ro": "Împingeți bicicleta pe strada pietruită - este dificil de pedalat, dar este un loc de neratat!",
+            "en": "Walk your bike up the cobbled street - it's tricky to ride but a must-see!"
+          }
+        },
+        {
+          "name": {
+            "de": "Plantation Garden",
+            "hu": "Plantation Garden",
+            "ro": "Grădina Plantation",
+            "en": "Plantation Garden"
+          },
+          "coords": [
+            1.284,
+            52.626
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner, ruhiger Ort für eine Pause nach der Fahrt durch die Stadt.",
+            "hu": "Egy szép, csendes hely egy pihenőre a városi tekerés után.",
+            "ro": "Un loc minunat și liniștit pentru o pauză după plimbarea prin oraș.",
+            "en": "A lovely, quiet spot for a break after your cycle across town."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainsbury Centre",
+            "hu": "Sainsbury Centre",
+            "ro": "Centrul Sainsbury",
+            "en": "Sainsbury Centre"
+          },
+          "coords": [
+            1.238,
+            52.622
+          ],
+          "category": "museums",
+          "arrive_at": "15:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Die Fahrt zum UEA-Campus ist angenehm, und das Museum ist ein architektonisches Meisterwerk.",
+            "hu": "Az UEA kampuszon való kerékpározás kellemes, és a múzeum egy építészeti remekmű.",
+            "ro": "Plimbarea cu bicicleta până la campusul UEA este plăcută, iar muzeul este o capodoperă arhitecturală.",
+            "en": "The cycle out to the UEA campus is pleasant, and the museum is an architectural masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am modernen Forum und radeln Sie dann zum historischen Herzen von Norwich Castle. Fahren Sie den Fluss entlang zur Dragon Hall, bevor Sie die spirituelle Ruhe der Kathedrale von Norwich finden. Am Mittag schlängeln Sie sich durch die gepflasterte Elm Hill. Am Nachmittag führt Sie eine längere Fahrt zu den ruhigen Plantation Gardens. Ihre Reise endet mit einer kulturellen Note im Sainsbury Centre auf dem UEA-Campus, das Weltklasse-Kunst und Architektur zeigt.",
+        "hu": "Induljon a modern Forumból, majd tekerjen a norwichi vár történelmi szívéhez. Menjen a folyó mentén a Dragon Hallhoz, mielőtt megtalálná a norwichi katedrális spirituális nyugalmát. Délben kanyarogjon végig a macskaköves Elm Hillen. Délután egy hosszabb út vezet a békés Plantation Gardens-hez. A túra kulturális élménnyel zárul a Sainsbury Centre-ben az UEA kampuszon, ahol világszínvonalú művészetet és építészetet láthat.",
+        "ro": "Începeți de la modernul The Forum, apoi pedalați spre inima istorică a Castelului Norwich. Mergeți de-a lungul râului spre Dragon Hall înainte de a găsi liniștea spirituală a Catedralei din Norwich. La prânz, șerpuiți pe Elm Hill, strada pietruită. După-amiaza, o plimbare mai lungă vă va duce la liniștita Grădină Plantation. Călătoria se încheie cu o notă culturală la Centrul Sainsbury din campusul UEA, care prezintă artă și arhitectură de clasă mondială.",
+        "en": "Kick off from the modern Forum, then cycle to the historic heart of Norwich Castle. Head down by the river to Dragon Hall before finding the spiritual calm of Norwich Cathedral. At midday, wind your way up the cobbled Elm Hill. In the afternoon, a longer ride takes you to the tranquil Plantation Gardens. Your journey concludes with a cultural flourish at the Sainsbury Centre on the UEA campus, showcasing world-class art and architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Norwich Market Stalls",
+            "tip": "Perfekt für einen schnellen, vielfältigen und leckeren Happen beim Radfahren - probieren Sie alles von Churros bis zu Bao Buns."
+          },
+          {
+            "name": "The Bicycle Shop",
+            "tip": "Ein passend benanntes Café-Bar, ideal für einen Kaffee oder ein leichtes Mittagessen."
+          },
+          {
+            "name": "Colman's Mustard",
+            "tip": "Kaufen Sie ein Glas im offiziellen Geschäft im Royal Arcade als scharfes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Norwich Market standjai",
+            "tip": "Tökéletes egy gyors, változatos és ízletes falatra kerékpározás közben – próbáljon ki mindent a churrostól a bao zsemléig."
+          },
+          {
+            "name": "The Bicycle Shop",
+            "tip": "Egy találó nevű kávézó-bár, ideális egy kávéra vagy egy könnyű ebédre."
+          },
+          {
+            "name": "Colman's mustár",
+            "tip": "Vásároljon egy üveggel a Royal Arcade-ban található hivatalos boltban, mint egy csípős szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe din Piața Norwich",
+            "tip": "Perfect pentru o gustare rapidă, diversă și delicioasă în timp ce mergeți cu bicicleta - încercați orice, de la churros la bao buns."
+          },
+          {
+            "name": "The Bicycle Shop",
+            "tip": "Un café-bar cu un nume potrivit, ideal pentru o cafea sau un prânz ușor."
+          },
+          {
+            "name": "Muștarul Colman's",
+            "tip": "Cumpărați un borcan de la magazinul oficial din Royal Arcade ca suvenir picant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norwich Market Stalls",
+            "tip": "Perfect for a quick, diverse, and delicious bite while cycling - try anything from churros to bao buns."
+          },
+          {
+            "name": "The Bicycle Shop",
+            "tip": "An aptly named cafe-bar, great for a coffee or a light lunch."
+          },
+          {
+            "name": "Colman's Mustard",
+            "tip": "Buy a jar from the official shop in the Royal Arcade as a spicy souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pull's Ferry",
+            "tip": "Ein malerischer Ort am Fluss in der Nähe der Kathedrale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "UEA Broad",
+            "tip": "Fahren Sie um den See auf dem Campus für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. John the Baptist Cathedral",
+            "tip": "Die weniger besuchte katholische Kathedrale ist friedlich und hat einen Turm, den man besteigen kann.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pull's Ferry",
+            "tip": "Festői hely a folyóparton a katedrális közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "UEA Broad",
+            "tip": "Tekerjen körbe a tavon a kampuszon egy pillanatnyi békéért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Keresztelő Szent János Katedrális",
+            "tip": "A kevésbé látogatott katolikus katedrális békés, és van egy tornya, amelyet meg lehet mászni.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pull's Ferry",
+            "tip": "Un loc pitoresc pe malul râului, lângă catedrală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "UEA Broad",
+            "tip": "Pedalați în jurul lacului din campus pentru un moment de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Catedrala Sf. Ioan Botezătorul",
+            "tip": "Catedrala catolică mai puțin vizitată este pașnică și are un turn pe care se poate urca.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pull's Ferry",
+            "tip": "A picturesque spot on the river near the Cathedral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "UEA Broad",
+            "tip": "Cycle around the lake on campus for a moment of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St John the Baptist Cathedral",
+            "tip": "The less-visited Catholic cathedral is peaceful and has a tower you can climb.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Norwich Lanes",
+            "tip": "Perfekt zum Erkunden mit dem Fahrrad, schlendern Sie einfach durch die unabhängigen Geschäfte."
+          },
+          {
+            "name": "St. Gregory's Antiques and Collectables",
+            "tip": "Ein riesiges Antiquitätenzentrum in einer alten Kirche, ein einzigartiges Einkaufserlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Norwich Lanes",
+            "tip": "Tökéletes kerékpárral való felfedezéshez, csak sétáljon végig a független boltokon."
+          },
+          {
+            "name": "St. Gregory's Antiques and Collectables",
+            "tip": "Hatalmas régiségközpont egy régi templomban, egyedülálló vásárlási élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Norwich Lanes",
+            "tip": "Perfect pentru a fi explorat pe bicicletă, pur și simplu plimbați-vă pe lângă magazinele independente."
+          },
+          {
+            "name": "St. Gregory's Antiques and Collectables",
+            "tip": "Un centru uriaș de antichități într-o biserică veche, o experiență unică de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norwich Lanes",
+            "tip": "Perfect for exploring by bike, just wander past the independent shops."
+          },
+          {
+            "name": "St Gregory's Antiques and Collectables",
+            "tip": "A huge antiques centre in an old church, a unique shopping experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Norwich ist hügelig! Seien Sie auf einige Anstiege vorbereitet, besonders um das Schloss und die Kathedrale herum.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer möglich, insbesondere entlang der Hauptstraßen.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab. Es gibt viele Fahrradständer in der ganzen Stadt.",
+          "Einige der älteren Straßen sind eng, also fahren Sie vorsichtig und achten Sie auf Fußgänger."
+        ],
+        "hu": [
+          "Norwich dombos! Készüljön fel néhány emelkedőre, különösen a vár és a katedrális környékén.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges, különösen a főutak mentén.",
+          "Mindig zárja le biztonságosan a kerékpárját. A városban sok kerékpártároló található.",
+          "Néhány régebbi utca szűk, ezért óvatosan közlekedjen, és figyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Norwich are dealuri! Fiți pregătiți pentru câteva urcări, în special în jurul castelului și al catedralei.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil, în special de-a lungul drumurilor principale.",
+          "Legați-vă întotdeauna bicicleta în siguranță. Există multe suporturi pentru biciclete în tot orașul.",
+          "Unele dintre străzile mai vechi sunt înguste, așa că mergeți cu atenție și aveți grijă de pietoni."
+        ],
+        "en": [
+          "Norwich is hilly! Be prepared for some climbs, especially around the castle and cathedral area.",
+          "Use the designated cycle paths wherever possible, particularly along the main roads.",
+          "Always lock your bike securely. There are plenty of bike racks throughout the city.",
+          "Some of the older streets are narrow, so cycle with care and be mindful of pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Rose Lane",
+            "hu": "Rose Lane parkolóház",
+            "ro": "Parcarea Rose Lane",
+            "en": "Rose Lane Car Park"
+          },
+          "coords": [
+            1.303,
+            52.628
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt mit einfachem Zugang zum Fluss und zum Domviertel.",
+            "hu": "Jó kiindulópont, könnyű hozzáféréssel a folyóhoz és a katedrális negyedhez.",
+            "ro": "Un punct de plecare bun, cu acces ușor la râu și la cartierul catedralei.",
+            "en": "A good starting point with easy access to the river and the cathedral quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Dragon Hall",
+            "hu": "Dragon Hall",
+            "ro": "Dragon Hall",
+            "en": "Dragon Hall"
+          },
+          "coords": [
+            1.3005,
+            52.627
+          ],
+          "category": "landmark",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus, um Ihren Tag mit einem Stück Handelsgeschichte zu beginnen.",
+            "hu": "Rövid séta a parkolóból, hogy a napot a kereskedelmi történelem egy darabjával kezdje.",
+            "ro": "O scurtă plimbare de la parcare pentru a începe ziua cu o bucată de istorie comercială.",
+            "en": "A short walk from the car park to start your day with a piece of trading history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Norwich",
+            "hu": "Norwichi katedrális",
+            "ro": "Catedrala din Norwich",
+            "en": "Norwich Cathedral"
+          },
+          "coords": [
+            1.3,
+            52.6315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:49",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Straßen zu diesem beeindruckenden Wahrzeichen.",
+            "hu": "Sétáljon végig a középkori utcákon ehhez a lenyűgöző nevezetességhez.",
+            "ro": "Plimbați-vă pe străzile medievale până la acest punct de reper impresionant.",
+            "en": "Stroll through the medieval streets to this stunning landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Elm Hill",
+            "hu": "Elm Hill",
+            "ro": "Elm Hill",
+            "en": "Elm Hill"
+          },
+          "coords": [
+            1.298,
+            52.632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:08",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um das Gefühl des alten Norwich aufzusaugen, bevor Sie zum Mittagessen zurück zum Auto gehen.",
+            "hu": "Tökéletes hely a régi Norwich hangulatának magába szívására, mielőtt visszatérne az autóhoz ebédelni.",
+            "ro": "Locul perfect pentru a absorbi atmosfera vechiului Norwich înainte de a vă întoarce la mașină pentru prânz.",
+            "en": "The perfect place to absorb the feel of old Norwich before walking back towards the car for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainsbury Centre",
+            "hu": "Sainsbury Centre",
+            "ro": "Centrul Sainsbury",
+            "en": "Sainsbury Centre"
+          },
+          "coords": [
+            1.238,
+            52.622
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum UEA-Campus. Es gibt Besucherparkplätze (kostenpflichtig).",
+            "hu": "Vezessen az UEA kampuszára. Van látogatói parkoló (fizetős).",
+            "ro": "Conduceți spre campusul UEA. Există parcare pentru vizitatori (contra cost).",
+            "en": "Drive out to the UEA campus. There is visitor parking available (pay and display)."
+          }
+        },
+        {
+          "name": {
+            "de": "Plantation Garden",
+            "hu": "Plantation Garden",
+            "ro": "Grădina Plantation",
+            "en": "Plantation Garden"
+          },
+          "coords": [
+            1.284,
+            52.626
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 110,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und finden Sie einen Parkplatz an der Straße in der Nähe. Ein perfekter, ruhiger Abschluss des Tages.",
+            "hu": "Vezessen vissza a városba, és keressen egy parkolóhelyet az út mentén. Tökéletes, békés befejezése a napnak.",
+            "ro": "Conduceți înapoi spre oraș și găsiți parcare pe stradă în apropiere. O încheiere perfectă și liniștită a zilei.",
+            "en": "Drive back towards the city and find on-street parking nearby. A perfect, peaceful end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Parken im Rose Lane, dem Tor zum historischen Norwich. Ein kurzer Spaziergang führt Sie zur Dragon Hall und dann zur prächtigen Kathedrale und der bezaubernden Elm Hill. Dieser Cluster zu Fuß gibt Ihnen ein echtes Gefühl für die mittelalterliche Stadt. Am Mittag fahren Sie zum modernen UEA-Campus, um die Kunst des Sainsbury Centre zu erkunden. Am Nachmittag bringt Sie eine kurze Fahrt zurück in die Nähe des Zentrums, um den versteckten Plantation Garden zu entdecken, eine ruhige Oase, um Ihren Erkundungstag abzuschließen.",
+        "hu": "Kezdje a napot a Rose Lane-i parkolással, amely a történelmi Norwich kapuja. Egy rövid séta elvezeti a Dragon Hallhoz, majd a csodálatos katedrálishoz és a bájos Elm Hillhez. Ez a gyalogos klaszter valódi érzést ad a középkori városról. Délben autózzon el a modern UEA kampuszra, hogy felfedezze a Sainsbury Centre művészetét. Délután egy rövid autóút visszaviszi a központhoz közel, hogy felfedezze a rejtett Plantation Gardent, egy csendes oázist, ahol befejezheti a felfedezéssel töltött napot.",
+        "ro": "Începeți ziua parcând la Rose Lane, poarta de acces către Norwichul istoric. O scurtă plimbare vă duce la Dragon Hall, apoi la magnifica Catedrală și la fermecătorul Elm Hill. Acest grup de obiective parcurse pe jos vă oferă o senzație reală a orașului medieval. La prânz, conduceți spre modernul campus UEA pentru a explora arta de la Centrul Sainsbury. După-amiaza, o scurtă călătorie cu mașina vă duce înapoi aproape de centru pentru a descoperi Grădina Plantation, o oază de liniște pentru a încheia ziua de explorare.",
+        "en": "Begin your day by parking at Rose Lane, the gateway to historic Norwich. A short walk takes you to Dragon Hall, then the magnificent Cathedral and charming Elm Hill. This walking cluster gives you a real feel for the medieval city. At midday, drive to the modern UEA campus to explore the art of the Sainsbury Centre. For the afternoon, a short drive brings you back near the centre to discover the hidden Plantation Garden, a tranquil oasis to finish your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Farm-Shops in der Umgebung",
+            "tip": "Wenn Sie mit dem Auto unterwegs sind, halten Sie in einem der vielen Hofläden außerhalb der Stadt an, um frische Produkte aus Norfolk zu kaufen."
+          },
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Fahren Sie zu einem Land-Pub am Rande von Norwich für ein traditionelles Sonntagsessen, wie z.B. The Unthank Arms."
+          },
+          {
+            "name": "Norfolk Saffron",
+            "tip": "Halten Sie in Feinkostläden Ausschau nach diesem lokal angebauten Gewürz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környező farmboltok",
+            "tip": "Ha autóval van, álljon meg a városon kívüli számos farmbolt egyikében friss norfolki termékekért."
+          },
+          {
+            "name": "Kocsmai ebéd",
+            "tip": "Vezessen el egy vidéki pubba Norwich szélén egy hagyományos vasárnapi sültért, mint például a The Unthank Arms."
+          },
+          {
+            "name": "Norfolki sáfrány",
+            "tip": "Keresse ezt a helyben termesztett fűszert a csemegeboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă din jur",
+            "tip": "Dacă sunteți cu mașina, opriți-vă la unul dintre multele magazine de fermă din afara orașului pentru produse proaspete din Norfolk."
+          },
+          {
+            "name": "Prânz la pub",
+            "tip": "Conduceți la un pub de țară la periferia orașului Norwich pentru o friptură tradițională de duminică, cum ar fi The Unthank Arms."
+          },
+          {
+            "name": "Șofran de Norfolk",
+            "tip": "Căutați acest condiment cultivat local în magazinele de delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surrounding Farm Shops",
+            "tip": "If you have a car, stop at one of the many farm shops outside the city for fresh Norfolk produce."
+          },
+          {
+            "name": "Pub Lunch",
+            "tip": "Drive to a country pub on the outskirts of Norwich for a traditional Sunday roast, like The Unthank Arms."
+          },
+          {
+            "name": "Norfolk Saffron",
+            "tip": "Look out for this locally grown spice in delicatessens."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "The Broads",
+            "tip": "Machen Sie eine kurze Fahrt von Norwich nach Wroxham, dem 'Hauptstadt der Broads', für eine völlig andere Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Whitlingham Country Park",
+            "tip": "Direkt außerhalb der Stadt, ideal für einen Spaziergang um den See.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blickling Estate",
+            "tip": "Ein prächtiges Anwesen des National Trust, eine 30-minütige Fahrt nördlich.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Broads",
+            "tip": "Tegyen egy rövid autóutat Norwichtól Wroxhambe, a 'Broads fővárosába', egy teljesen más tájért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Whitlingham Country Park",
+            "tip": "Közvetlenül a városon kívül, nagyszerű egy tóparti sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blickling Estate",
+            "tip": "Egy csodálatos National Trust birtok, 30 perces autóútra északra.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Broads",
+            "tip": "Faceți o scurtă călătorie cu mașina de la Norwich la Wroxham, „Capitala Broads”, pentru un peisaj complet diferit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Național Whitlingham",
+            "tip": "Chiar în afara orașului, excelent pentru o plimbare în jurul lacului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Domeniul Blickling",
+            "tip": "O proprietate magnifică a National Trust, la 30 de minute de mers cu mașina spre nord.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Broads",
+            "tip": "Take a short drive from Norwich to Wroxham, the 'Capital of the Broads', for a completely different landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Whitlingham Country Park",
+            "tip": "Just outside the city, great for a walk around the lake.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blickling Estate",
+            "tip": "A magnificent National Trust property, a 30-minute drive north.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden an der Küste",
+            "tip": "Fahren Sie in die nahegelegenen Küstenstädte wie Sheringham oder Holt, die für ihre Antiquitäten- und Kunsthandwerksläden bekannt sind."
+          },
+          {
+            "name": "Norwich Retail Parks",
+            "tip": "Nutzen Sie das Auto, um die großen Einkaufszentren am Stadtrand zu besuchen, wenn Sie Mainstream-Shopping benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Part menti régiségboltok",
+            "tip": "Vezessen el a közeli tengerparti városokba, mint Sheringham vagy Holt, amelyek híresek régiség- és kézművesboltjaikról."
+          },
+          {
+            "name": "Norwichi bevásárlóparkok",
+            "tip": "Használja az autót a város szélén található nagy bevásárlóparkok meglátogatásához, ha mainstream vásárlásra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități de pe coastă",
+            "tip": "Conduceți spre orașele de coastă din apropiere, cum ar fi Sheringham sau Holt, renumite pentru magazinele lor de antichități și artizanat."
+          },
+          {
+            "name": "Parcuri de retail din Norwich",
+            "tip": "Folosiți mașina pentru a vizita marile parcuri de retail de la periferia orașului dacă aveți nevoie de cumpărături convenționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Antique Shops",
+            "tip": "Drive to nearby coastal towns like Sheringham or Holt, renowned for their antique and craft shops."
+          },
+          {
+            "name": "Norwich Retail Parks",
+            "tip": "Use the car to visit the large retail parks on the outskirts for any mainstream shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann teuer sein. Ziehen Sie die Park-and-Ride-Dienste der Stadt in Betracht.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie Ihre Fahrten zwischen den Clustern entsprechend.",
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum, verwenden Sie am besten ein Navi.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága lehet. Fontolja meg a város P+R szolgáltatásait.",
+          "A forgalom csúcsidőben nagy lehet, tervezze meg az utazásokat a klaszterek között ennek megfelelően.",
+          "Vigyázzon az egyirányú utcákra a városközpontban, a legjobb, ha navigációt használ.",
+          "Ne hagyjon értékeket látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi scumpă. Luați în considerare serviciile Park and Ride ale orașului.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați-vă călătoriile între grupuri în consecință.",
+          "Atenție la sistemul de sens unic din centrul orașului; cel mai bine este să folosiți un navigator.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "City centre parking can be expensive. Consider using the city's Park and Ride services.",
+          "Traffic can be heavy during peak hours, plan your drives between clusters accordingly.",
+          "Be aware of the one-way system in the city centre, it's best to use a sat-nav.",
+          "Don't leave valuables on display in your car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 10.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Castle Meadow",
+            "hu": "Castle Meadow buszmegálló",
+            "ro": "Stația de autobuz Castle Meadow",
+            "en": "Castle Meadow Bus Stop"
+          },
+          "coords": [
+            1.297,
+            52.628
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein wichtiger Verkehrsknotenpunkt, ideal, um Ihre Erkundungstour zu beginnen.",
+            "hu": "Kulcsfontosságú közlekedési csomópont, ideális a felfedezés megkezdéséhez.",
+            "ro": "Un nod de transport cheie, ideal pentru a începe explorarea.",
+            "en": "A key transport hub, ideal for starting your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwich Castle",
+            "hu": "Norwichi vár",
+            "ro": "Castelul Norwich",
+            "en": "Norwich Castle"
+          },
+          "coords": [
+            1.296,
+            52.629
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:13",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Es thront direkt über Ihrem Ankunftsort, ein einfacher erster Halt.",
+            "hu": "Közvetlenül az érkezési pont felett magasodik, könnyű első megálló.",
+            "ro": "Se înalță chiar deasupra locului de sosire, o primă oprire ușoară.",
+            "en": "It's looming right above where you arrive, an easy first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Forum",
+            "hu": "The Forum",
+            "ro": "The Forum",
+            "en": "The Forum"
+          },
+          "coords": [
+            1.292,
+            52.6285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:41",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss, schauen Sie sich die moderne Architektur an.",
+            "hu": "Rövid séta a vártól, nézze meg a modern építészetet.",
+            "ro": "La o scurtă plimbare de castel, admirați arhitectura modernă.",
+            "en": "A quick walk from the castle, check out the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Norwich",
+            "hu": "Norwichi katedrális",
+            "ro": "Catedrala din Norwich",
+            "en": "Norwich Cathedral"
+          },
+          "coords": [
+            1.3,
+            52.6315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein längerer Spaziergang durch die Norwich Lanes bringt Sie zu diesem Juwel.",
+            "hu": "Egy hosszabb séta a Norwich Lanes-en keresztül elvezeti Önt ehhez a gyöngyszemhez.",
+            "ro": "O plimbare mai lungă prin Norwich Lanes vă va aduce la această bijuterie.",
+            "en": "A longer walk through the Norwich Lanes will get you to this gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Elm Hill",
+            "hu": "Elm Hill",
+            "ro": "Elm Hill",
+            "en": "Elm Hill"
+          },
+          "coords": [
+            1.298,
+            52.632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale, ideal für ein Mittagessen in einem seiner historischen Cafés.",
+            "hu": "Közvetlenül a katedrális mellett, ideális egy ebédre az egyik történelmi kávézójában.",
+            "ro": "Chiar lângă catedrală, perfect pentru prânz la una dintre cafenelele sale istorice.",
+            "en": "Right next to the cathedral, perfect for finding lunch in one of its historic cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainsbury Centre",
+            "hu": "Sainsbury Centre",
+            "ro": "Centrul Sainsbury",
+            "en": "Sainsbury Centre"
+          },
+          "coords": [
+            1.238,
+            52.622
+          ],
+          "category": "museums",
+          "arrive_at": "14:38",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus der blauen Linie (25 oder 26) von Castle Meadow zur University of East Anglia.",
+            "hu": "Menjen a kék vonal (25-ös vagy 26-os) buszával a Castle Meadow-tól az University of East Anglia-hoz.",
+            "ro": "Luați un autobuz Blue Line (25 sau 26) de la Castle Meadow la University of East Anglia.",
+            "en": "Catch a Blue Line bus (25 or 26) from Castle Meadow to the University of East Anglia."
+          }
+        },
+        {
+          "name": {
+            "de": "Plantation Garden",
+            "hu": "Plantation Garden",
+            "ro": "Grădina Plantation",
+            "en": "Plantation Garden"
+          },
+          "coords": [
+            1.284,
+            52.626
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:08",
+          "stay_min": 85,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück zum Stadtzentrum und gehen Sie die letzten 10 Minuten zu Fuß.",
+            "hu": "Menjen vissza busszal a városközpontba, majd sétáljon az utolsó 10 percet.",
+            "ro": "Luați autobuzul înapoi spre centrul orașului și mergeți pe jos ultimele 10 minute.",
+            "en": "Take the bus back towards the city centre and walk the final 10 minutes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie am zentralen Castle Meadow an und erkunden Sie Ihren ersten Cluster zu Fuß: das Schloss, das Forum und die belebten Lanes, die zur Kathedrale führen. Genießen Sie die mittelalterliche Atmosphäre und essen Sie in einem Café auf Elm Hill zu Mittag. Am Nachmittag bringt Sie eine einfache Busfahrt zum UEA-Campus für Ihren zweiten Cluster: das weltberühmte Sainsbury Centre for Visual Arts. Ein weiterer Bus bringt Sie zurück in die Nähe des Zentrums, um den Tag mit einem ruhigen Moment im versteckten Plantation Garden ausklingen zu lassen.",
+        "hu": "Érkezzen a központi Castle Meadow-ra, és fedezze fel az első gyalogos klasztert: a várat, a Fórumot és a forgalmas Lanes-t, amely a katedrálishoz vezet. Élvezze a középkori hangulatot, és ebédeljen egy kávézóban az Elm Hillen. Délután egy egyszerű buszozás elviszi az UEA kampuszára a második klaszterhez: a világhírű Sainsbury Vizuális Művészeti Központhoz. Egy másik busz visszaviszi a központ közelébe, hogy a napot egy békés pillanattal zárja a rejtett Plantation Gardenben.",
+        "ro": "Sosiți la centralul Castle Meadow și explorați primul grup de obiective pe jos: Castelul, Forumul și aglomeratele Lanes care duc la Catedrală. Bucurați-vă de atmosfera medievală și luați prânzul la o cafenea pe Elm Hill. După-amiaza, o călătorie ușoară cu autobuzul vă duce la campusul UEA pentru al doilea grup: renumitul Centru Sainsbury pentru Arte Vizuale. Un alt autobuz vă va duce înapoi aproape de centru pentru a încheia ziua cu un moment de liniște în ascunsa Grădină Plantation.",
+        "en": "Arrive at the central Castle Meadow and explore your first cluster on foot: the Castle, the Forum, and the bustling Lanes leading to the Cathedral. Soak up the medieval atmosphere and have lunch at a cafe on Elm Hill. In the afternoon, an easy bus ride takes you to the UEA campus for your second cluster: the world-renowned Sainsbury Centre for Visual Arts. Another bus will get you back near the centre to end the day with a quiet moment in the hidden Plantation Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Norwich Market",
+            "tip": "In der Nähe von Castle Meadow gelegen, ist es der perfekte Ort, um vor oder nach dem Bus eine Mahlzeit zu sich zu nehmen."
+          },
+          {
+            "name": "The Waffle House",
+            "tip": "Ein lokaler Favorit, leicht mit dem Bus erreichbar."
+          },
+          {
+            "name": "Binham Blue Cheese",
+            "tip": "Ein lokaler Käse, den man auf dem Markt oder in Feinkostläden finden kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Norwich Market",
+            "tip": "A Castle Meadow közelében található, tökéletes hely egy étkezésre buszozás előtt vagy után."
+          },
+          {
+            "name": "The Waffle House",
+            "tip": "Helyi kedvenc, könnyen megközelíthető busszal."
+          },
+          {
+            "name": "Binham Blue sajt",
+            "tip": "Helyi sajt, amelyet a piacon vagy csemegeboltokban találhat meg."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Norwich",
+            "tip": "Situată lângă Castle Meadow, este locul perfect pentru a lua o masă înainte sau după călătoria cu autobuzul."
+          },
+          {
+            "name": "The Waffle House",
+            "tip": "Un favorit local, ușor accesibil cu autobuzul."
+          },
+          {
+            "name": "Brânza Binham Blue",
+            "tip": "O brânză locală pe care o puteți găsi în piață sau în delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norwich Market",
+            "tip": "Located near Castle Meadow, it's the perfect place to grab a meal before or after your bus journey."
+          },
+          {
+            "name": "The Waffle House",
+            "tip": "A local favourite, easily accessible by bus."
+          },
+          {
+            "name": "Binham Blue Cheese",
+            "tip": "A local cheese you can find at the market or in delis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosary Cemetery",
+            "tip": "Ein friedlicher viktorianischer Friedhof, der nur einen kurzen Spaziergang von der Bushaltestelle an der Thorpe Road entfernt ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cow Tower",
+            "tip": "Ein ruhiger Ort am Fluss, leicht zu Fuß vom Domviertel aus erreichbar.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eaton Park",
+            "tip": "Ein großer Park mit Rosengärten und einem Miniatur-Eisenbahn, erreichbar mit Bussen, die nach Westen fahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosary temető",
+            "tip": "Békés viktoriánus temető, rövid sétára a Thorpe Road buszmegállótól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cow Tower",
+            "tip": "Csendes hely a folyóparton, könnyen megközelíthető gyalog a katedrális negyedből.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eaton Park",
+            "tip": "Nagy park rózsakertekkel és miniatűr vasúttal, nyugat felé tartó buszokkal érhető el.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Rosary",
+            "tip": "Un cimitir victorian pașnic, la o scurtă plimbare de stația de autobuz Thorpe Road.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cow Tower",
+            "tip": "Un loc liniștit pe malul râului, la mică distanță de mers pe jos de cartierul catedralei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Eaton",
+            "tip": "Un parc mare cu grădini de trandafiri și o cale ferată în miniatură, accesibil cu autobuzele care merg spre vest.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosary Cemetery",
+            "tip": "A peaceful Victorian cemetery a short walk from the Thorpe Road bus stop.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cow Tower",
+            "tip": "A quiet spot by the river, easily walkable from the Cathedral quarter.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eaton Park",
+            "tip": "A large park with rose gardens and a miniature railway, accessible on buses heading west.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Magdalen Street",
+            "tip": "Nehmen Sie einen Bus in diese Gegend, die für ihre unabhängigen, alternativen und Vintage-Läden bekannt ist."
+          },
+          {
+            "name": "Royal Arcade",
+            "tip": "Eine wunderschöne viktorianische Arkade voller Spezialgeschäfte, leicht zu Fuß vom Castle Meadow aus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magdalen Street",
+            "tip": "Menjen busszal erre a területre, amely független, alternatív és vintage boltjairól ismert."
+          },
+          {
+            "name": "Royal Arcade",
+            "tip": "Gyönyörű viktoriánus árkád, tele különleges boltokkal, könnyen megközelíthető a Castle Meadow-tól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Magdalen",
+            "tip": "Luați un autobuz spre această zonă, cunoscută pentru magazinele sale independente, alternative și de epocă."
+          },
+          {
+            "name": "Royal Arcade",
+            "tip": "O frumoasă arcadă victoriană plină de magazine de specialitate, la mică distanță de mers pe jos de Castle Meadow."
+          }
+        ],
+        "en": [
+          {
+            "name": "Magdalen Street",
+            "tip": "Take a bus to this area known for its independent, alternative and vintage shops."
+          },
+          {
+            "name": "Royal Arcade",
+            "tip": "A beautiful Victorian arcade filled with specialist shops, easily walkable from Castle Meadow."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (z.B. eine 'FirstDay'-Karte von First Bus), die für unbegrenzte Fahrten günstiger ist.",
+          "Laden Sie die App des Busunternehmens herunter, um Fahrpläne und Live-Tracking zu erhalten.",
+          "Die Busse in Norwich sind bargeldlos oder akzeptieren kontaktlose Zahlungen.",
+          "Stoßzeiten können zu Verspätungen führen, planen Sie also etwas mehr Zeit für Ihre Fahrten ein."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (pl. 'FirstDay' jegyet a First Bustól), ami olcsóbb korlátlan utazáshoz.",
+          "Töltse le a busztársaság alkalmazását a menetrendekért és az élő követésért.",
+          "A norwichi buszok készpénzmentesek, vagy érintésmentes fizetést fogadnak el.",
+          "A csúcsforgalom késéseket okozhat, ezért hagyjon némi extra időt az utazásokra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (de exemplu, un bilet „FirstDay” de la First Bus), care este mai ieftin pentru călătorii nelimitate.",
+          "Descărcați aplicația companiei de autobuz pentru orare și urmărire în timp real.",
+          "Autobuzele din Norwich sunt fără numerar sau acceptă plăți contactless.",
+          "Orele de vârf pot cauza întârzieri, așa că lăsați-vă puțin timp suplimentar pentru călătorii."
+        ],
+        "en": [
+          "Buy a day ticket (e.g., a 'FirstDay' ticket from First Bus) which is cheaper for unlimited travel.",
+          "Download the bus company's app for timetables and live tracking.",
+          "Buses in Norwich are cashless or accept contactless payments.",
+          "Peak travel times can cause delays, so allow a little extra time for your journeys."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1388 @@
+{
+  "city_id": "uk-sheffield-cities-v2",
+  "anchor": {
+    "name": "Sheffield",
+    "coords": [
+      53.3811,
+      -1.4701
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Peace Gardens",
+            "hu": "Peace Gardens (Béke Kertek)",
+            "ro": "Grădinile Păcii",
+            "en": "Peace Gardens"
+          },
+          "coords": [
+            -1.4708,
+            53.3802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um den Tag mit einem Kaffee zu beginnen und die Brunnen zu beobachten.",
+            "hu": "Tökéletes hely a nap indításához egy kávéval a szökőkutak mellett.",
+            "ro": "Locul perfect pentru a începe ziua cu o cafea, privind fântânile arteziene.",
+            "en": "Perfect spot to start the day with a coffee and watch the fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Gallery",
+            "hu": "Millenniumi Galéria",
+            "ro": "Galeria Millennium",
+            "en": "Millennium Gallery"
+          },
+          "coords": [
+            -1.4695,
+            53.3795
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Ruskin-Sammlung und die Metallarbeiten an, die Sheffields industrielles Erbe zeigen.",
+            "hu": "Nézze meg a Ruskin-gyűjteményt és a Sheffield ipari örökségét bemutató fémmunkákat.",
+            "ro": "Nu ratați colecția Ruskin și expozițiile de metalurgie, reprezentative pentru moștenirea industrială a Sheffield-ului.",
+            "en": "Check out the Ruskin Collection and the metalwork showcasing Sheffield's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Cathedral",
+            "hu": "Sheffieldi katedrális",
+            "ro": "Catedrala din Sheffield",
+            "en": "Sheffield Cathedral"
+          },
+          "coords": [
+            -1.469,
+            53.3831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Glasfenster und die moderne 'Laterne'-Erweiterung.",
+            "hu": "Ne hagyja ki az ólomüveg ablakokat és a modern 'Lámpás' bővítményt.",
+            "ro": "Admirați vitraliile și extensia modernă a catedralei, cunoscută ca 'Lanterna'.",
+            "en": "Don't miss the stained glass windows and the modern 'Lantern' extension."
+          }
+        },
+        {
+          "name": {
+            "de": "Weston Park Museum",
+            "hu": "Weston Park Múzeum",
+            "ro": "Muzeul Weston Park",
+            "en": "Weston Park Museum"
+          },
+          "coords": [
+            -1.4925,
+            53.3842
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause, bevor Sie die Naturgeschichte und Archäologie erkunden.",
+            "hu": "Ideális egy ebédszünetre, mielőtt felfedezné a természetrajzi és régészeti kiállításokat.",
+            "ro": "Ideal pentru o pauză de prânz înainte de a explora secțiunile de istorie naturală și arheologie.",
+            "en": "Ideal for a lunch break before exploring the natural history and archaeology exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Botanical Gardens",
+            "hu": "Sheffieldi Botanikus Kert",
+            "ro": "Grădina Botanică din Sheffield",
+            "en": "Sheffield Botanical Gardens"
+          },
+          "coords": [
+            -1.503,
+            53.3749
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:11",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den viktorianischen Glashäusern, besonders an einem kühlen Tag.",
+            "hu": "Pihenjen a viktoriánus üvegházakban, különösen egy hűvös napon.",
+            "ro": "Relaxați-vă în serele victoriene, o oază de căldură, mai ales într-o zi răcoroasă.",
+            "en": "Relax in the Victorian glasshouses, especially on a chilly day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Sheffield, den Peace Gardens. Nach der Ruhe geht es direkt nebenan in die Millennium Gallery, um Kunst und Design zu bewundern. Ein kurzer Spaziergang führt Sie zur historischen Sheffield Cathedral, wo Sie die beeindruckende Architektur genießen können. Am Nachmittag spazieren Sie durch die westlichen Stadtteile zum Weston Park Museum, um in die Geschichte der Stadt einzutauchen, bevor Sie im üppigen Grün der Botanischen Gärten entspannen.",
+        "hu": "Kezdje a napot Sheffield szívében, a Peace Gardensben. A nyugodt kezdet után irány a szomszédos Millennium Galéria, ahol a művészet és a design kapja a főszerepet. Egy rövid séta elvezeti a történelmi Sheffieldi katedrálishoz. Délután sétáljon át a város nyugati részébe a Weston Park Múzeumhoz, hogy elmerüljön a város történelmében, mielőtt a Botanikus Kert buja zöldjében pihenne.",
+        "ro": "Începeți ziua în inima orașului Sheffield, la Grădinile Păcii. După un moment de liniște, vizitați Galeria Millennium pentru a admira arta și designul. O scurtă plimbare vă duce la Catedrala Sheffield, un monument istoric. După-amiaza, traversați spre vestul orașului către Muzeul Weston Park pentru o incursiune în istoria locală, înainte de a vă relaxa în verdeața luxuriantă a Grădinii Botanice.",
+        "en": "Start your day in the heart of Sheffield at the Peace Gardens. After some tranquility, head next door to the Millennium Gallery for a dose of art and design. A short walk takes you to the historic Sheffield Cathedral for stunning architecture. In the afternoon, stroll to the Weston Park Museum to delve into city history, before unwinding in the lush Sheffield Botanical Gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Henderson's Relish",
+            "tip": "Eine lokale Würzsauce, die man probieren muss. In vielen Geschäften und Restaurants erhältlich."
+          },
+          {
+            "name": "Yorkshire Pudding Wrap",
+            "tip": "Eine herzhafte Mahlzeit in einem Pub im Stadtzentrum."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Probieren Sie verschiedene Street-Food-Optionen an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Henderson's Relish",
+            "tip": "Helyi fűszerszósz, amit ki kell próbálni. Sok boltban és étteremben kapható."
+          },
+          {
+            "name": "Yorkshire Pudding Wrap",
+            "tip": "Egy kiadós fogás egy belvárosi pubban."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Kóstoljon bele a különböző street food ételekbe egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Henderson's Relish",
+            "tip": "Un sos local condimentat ce trebuie încercat. Disponibil în multe magazine și restaurante."
+          },
+          {
+            "name": "Yorkshire Pudding Wrap",
+            "tip": "O masă consistentă la un pub din centrul orașului."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Încercați diverse opțiuni de street food într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Henderson's Relish",
+            "tip": "A local savoury sauce you must try. Available in many shops and restaurants."
+          },
+          {
+            "name": "Yorkshire Pudding Wrap",
+            "tip": "A hearty meal from a city centre pub."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Sample various street food options in one place."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sheffield Botanical Gardens",
+            "tip": "Finden Sie eine ruhige Bank in einem der thematischen Gärten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sheffield Winter Garden",
+            "tip": "Ein ruhiger tropischer Zufluchtsort im Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cholera Monument Grounds",
+            "tip": "Ein ruhiger Ort mit Panoramablick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sheffieldi Botanikus Kert",
+            "tip": "Keressen egy csendes padot az egyik tematikus kertben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sheffieldi Téli Kert",
+            "tip": "Egy csendes, trópusi menedék a városközpontban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolera Emlékmű Parkja",
+            "tip": "Nyugodt hely panorámás kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Sheffield",
+            "tip": "Găsiți o bancă liniștită într-una dintre grădinile tematice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina de Iarnă din Sheffield",
+            "tip": "Un refugiu tropical liniștit în centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Monumentului Holerei",
+            "tip": "Un loc liniștit cu vederi panoramice asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheffield Botanical Gardens",
+            "tip": "Find a quiet bench in one of the themed gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sheffield Winter Garden",
+            "tip": "A calm tropical haven right in the city centre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cholera Monument Grounds",
+            "tip": "A quiet spot with panoramic views of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Devonshire Quarter",
+            "tip": "Unabhängige Boutiquen und Vintage-Läden."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Lokale Produkte und einzigartige Fundstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Devonshire Quarter",
+            "tip": "Független butikok és vintage boltok."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Helyi termékek és egyedi leletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Devonshire Quarter",
+            "tip": "Buticuri independente și magazine vintage."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Produse locale și descoperiri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Devonshire Quarter",
+            "tip": "Independent boutiques and vintage shops."
+          },
+          {
+            "name": "The Moor Market",
+            "tip": "Local produce and unique finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Gelände hügelig sein kann.",
+          "Sheffield ist als 'The Outdoor City' bekannt, also ist eine Regenjacke immer eine gute Idee.",
+          "Viele Museen haben freien Eintritt, prüfen Sie jedoch die Öffnungszeiten.",
+          "Achten Sie auf die einzigartige öffentliche Kunst, die in der ganzen Stadt verstreut ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a terep dombos lehet.",
+          "Sheffieldet 'The Outdoor City'-ként ismerik, így egy esőkabát mindig jó ötlet.",
+          "Sok múzeum ingyenes, de ellenőrizze a nyitvatartási időket.",
+          "Figyelje a városban elszórtan található egyedi köztéri művészeti alkotásokat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece terenul poate fi deluros.",
+          "Sheffield este cunoscut ca 'Orașul în aer liber', așa că o geacă de ploaie este întotdeauna o idee bună.",
+          "Multe muzee au intrare liberă, dar verificați orele de deschidere.",
+          "Fiți atenți la arta publică unică, răspândită prin tot orașul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the terrain can be hilly.",
+          "Sheffield is known as 'The Outdoor City', so a rain jacket is always a good idea.",
+          "Many museums are free to enter, but check opening times.",
+          "Keep an eye out for the unique public art scattered throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kelham Island Museum",
+            "hu": "Kelham Island Múzeum",
+            "ro": "Muzeul Insula Kelham",
+            "en": "Kelham Island Museum"
+          },
+          "coords": [
+            -1.4735,
+            53.3897
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die mächtige River Don Engine, eine riesige Dampfmaschine, in Aktion.",
+            "hu": "Nézze meg működés közben a hatalmas River Don Engine gőzgépet.",
+            "ro": "Vedeți în acțiune puternicul motor cu aburi River Don Engine.",
+            "en": "See the mighty River Don Engine, a giant steam engine, in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Cathedral",
+            "hu": "Sheffieldi katedrális",
+            "ro": "Catedrala din Sheffield",
+            "en": "Sheffield Cathedral"
+          },
+          "coords": [
+            -1.469,
+            53.3831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort, um das Fahrrad abzustellen und das Stadtzentrum zu erkunden.",
+            "hu": "Jó hely a bicikli lezárásához és a városközpont felfedezéséhez.",
+            "ro": "Un loc bun pentru a lăsa bicicleta și a explora centrul orașului.",
+            "en": "A good place to lock up your bike and explore the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Gardens",
+            "hu": "Peace Gardens (Béke Kertek)",
+            "ro": "Grădinile Păcii",
+            "en": "Peace Gardens"
+          },
+          "coords": [
+            -1.4708,
+            53.3802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:53",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein schnelles Mittagessen auf einer der vielen Bänke.",
+            "hu": "Fogyasszon el egy gyors ebédet az egyik padon.",
+            "ro": "Savurați un prânz rapid pe una dintre numeroasele bănci.",
+            "en": "Enjoy a quick lunch on one of the many benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Botanical Gardens",
+            "hu": "Sheffieldi Botanikus Kert",
+            "ro": "Grădina Botanică din Sheffield",
+            "en": "Sheffield Botanical Gardens"
+          },
+          "coords": [
+            -1.503,
+            53.3749
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die weitläufigen Gärten zu Fuß.",
+            "hu": "Zárja le a biciklit a bejáratnál, és fedezze fel gyalog a hatalmas kerteket.",
+            "ro": "Legați bicicleta la intrare și explorați grădinile întinse pe jos.",
+            "en": "Lock your bike at the entrance and explore the extensive gardens on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Graves Park",
+            "hu": "Graves Park",
+            "ro": "Parcul Graves",
+            "en": "Graves Park"
+          },
+          "coords": [
+            -1.48,
+            53.335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:53",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Tierpark, um seltene Rassen zu sehen, und genießen Sie die weite offene Fläche.",
+            "hu": "Látogassa meg az állatfarmot, ahol ritka fajtákat láthat, és élvezze a tágas teret.",
+            "ro": "Vizitați ferma de animale pentru a vedea rase rare și bucurați-vă de spațiul vast.",
+            "en": "Visit the animal farm to see rare breeds and enjoy the wide open space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in Sheffields industriellem Herzen im Kelham Island Museum. Von dort aus radeln Sie ins Stadtzentrum, um die spirituelle Ruhe der Sheffield Cathedral und die lebhafte Atmosphäre der Peace Gardens zu erleben. Am Nachmittag führt Sie Ihre Reise aus dem Zentrum heraus, zuerst in die eleganten Botanischen Gärten. Die letzte Etappe ist eine längere, aber lohnende Fahrt zum weitläufigen Graves Park im Süden, perfekt für einen entspannten Ausklang des Tages.",
+        "hu": "Kezdje a biciklitúrát Sheffield ipari szívében, a Kelham Island Múzeumban. Innen tekerjen be a városközpontba, hogy megtapasztalja a Sheffieldi katedrális spirituális nyugalmát és a Peace Gardens élénk hangulatát. Délután az útja kivezet a központból, először az elegáns Botanikus Kertbe. Az utolsó szakasz egy hosszabb, de megérő út a tágas déli Graves Parkba, amely tökéletes a nap levezetésére.",
+        "ro": "Începeți turul cu bicicleta în inima industrială a Sheffield-ului, la Muzeul Insula Kelham. De acolo, pedalați spre centrul orașului pentru a experimenta liniștea spirituală a Catedralei și atmosfera vibrantă din Grădinile Păcii. După-amiaza, călătoria vă poartă în afara centrului, mai întâi la eleganta Grădină Botanică. Ultima etapă este o plimbare mai lungă, dar plină de satisfacții, spre vastul Parc Graves din sud, perfectă pentru o după-amiază relaxantă.",
+        "en": "Start your cycling tour in Sheffield's industrial heart at the Kelham Island Museum. From there, cycle to the city centre to experience the spiritual calm of Sheffield Cathedral and the vibrant atmosphere of the Peace Gardens. In the afternoon, your journey takes you out of the centre, first to the elegant Botanical Gardens. The final leg is a longer but rewarding ride to the expansive Graves Park in the south, perfect for a relaxing end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cutlery Works",
+            "tip": "Eine große Food Hall in der Nähe von Kelham Island mit vielen Optionen."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Berühmt für seine herzhaften Pasteten, ideal für Radfahrer, um Energie zu tanken."
+          },
+          {
+            "name": "The Broadfield",
+            "tip": "In der Nähe des Stadtzentrums, bekannt für seine Kuchen und Würste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cutlery Works",
+            "tip": "Nagy ételudvar a Kelham Island közelében, sokféle lehetőséggel."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Híres a kiadós pitéiről, ideális a kerékpárosoknak energiatöltéshez."
+          },
+          {
+            "name": "The Broadfield",
+            "tip": "A városközpont közelében, pitéiről és kolbászairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cutlery Works",
+            "tip": "O hală alimentară mare, lângă Insula Kelham, cu multe opțiuni."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Renumit pentru plăcintele sale consistente, ideale pentru cicliști pentru a-și reface energia."
+          },
+          {
+            "name": "The Broadfield",
+            "tip": "Aproape de centrul orașului, cunoscut pentru plăcintele și cârnații săi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cutlery Works",
+            "tip": "A large food hall near Kelham Island with tons of options."
+          },
+          {
+            "name": "Pieminister",
+            "tip": "Famous for its hearty pies, great for cyclists to refuel."
+          },
+          {
+            "name": "The Broadfield",
+            "tip": "Near the city centre, known for its pies and sausages."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Five Weirs Walk",
+            "tip": "Ein Radweg entlang des Flusses Don, der Sie aus der Stadt herausführt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Graves Park Woods",
+            "tip": "Verlieren Sie sich auf den Wegen in den alten Wäldern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burbage Edge",
+            "tip": "Eine anspruchsvolle Radtour, aber die Aussicht auf den Peak District ist es wert.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Five Weirs Walk",
+            "tip": "A Don folyó mentén vezető kerékpárút, amely kivezet a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Graves Park erdő",
+            "tip": "Vesszen el az ősi erdő ösvényein.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burbage Edge",
+            "tip": "Kihívást jelentő biciklizés, de a Peak Districtre nyíló kilátás megéri.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Five Weirs Walk",
+            "tip": "O pistă de biciclete de-a lungul râului Don care te scoate din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurea Parcului Graves",
+            "tip": "Pierdeți-vă pe cărările din pădurea antică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burbage Edge",
+            "tip": "O plimbare cu bicicleta provocatoare, dar priveliștea spre Peak District merită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Five Weirs Walk",
+            "tip": "A cycle path along the River Don that takes you out of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Graves Park Woods",
+            "tip": "Get lost on the trails in the ancient woodland.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burbage Edge",
+            "tip": "A challenging ride, but the views over the Peak District are worth it.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kelham Island",
+            "tip": "Stöbern Sie in den Handwerksbetrieben und unabhängigen Geschäften rund um das Museum."
+          },
+          {
+            "name": "Meadowhall",
+            "tip": "Ein großes Einkaufszentrum, das über einen Radweg erreichbar ist, für alle Ihre Markeneinkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kelham Island",
+            "tip": "Böngésszen a múzeum körüli kézműves műhelyekben és független boltokban."
+          },
+          {
+            "name": "Meadowhall",
+            "tip": "Nagy bevásárlóközpont, kerékpárúton is elérhető, minden márkás vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Kelham",
+            "tip": "Răsfoiți atelierele artizanale și magazinele independente din jurul muzeului."
+          },
+          {
+            "name": "Meadowhall",
+            "tip": "Un centru comercial mare, accesibil pe o pistă de biciclete, pentru toate cumpărăturile de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kelham Island",
+            "tip": "Browse the artisan workshops and independent shops around the museum."
+          },
+          {
+            "name": "Meadowhall",
+            "tip": "A large shopping centre accessible via a cycle path for all your brand-name needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sheffield ist hügelig! Ein E-Bike könnte eine gute Option sein.",
+          "Verwenden Sie Fahrradschlösser, besonders im Stadtzentrum.",
+          "Einige Wege werden mit Fußgängern geteilt, also fahren Sie rücksichtsvoll.",
+          "Planen Sie Ihre Route im Voraus, um die besten Radwege zu nutzen."
+        ],
+        "hu": [
+          "Sheffield dombos! Egy e-bike jó választás lehet.",
+          "Használjon biciklizárat, különösen a városközpontban.",
+          "Néhány utat gyalogosokkal is meg kell osztani, ezért legyen körültekintő.",
+          "Tervezze meg előre az útvonalat a legjobb kerékpárutak használatához."
+        ],
+        "ro": [
+          "Sheffield este deluros! O bicicletă electrică ar putea fi o opțiune bună.",
+          "Folosiți antifurturi pentru bicicletă, mai ales în centrul orașului.",
+          "Unele căi sunt partajate cu pietonii, așa că mergeți cu grijă.",
+          "Planificați-vă traseul în avans pentru a profita de cele mai bune piste de biciclete."
+        ],
+        "en": [
+          "Sheffield is hilly! An e-bike could be a good option.",
+          "Use bike locks, especially in the city centre.",
+          "Some paths are shared with pedestrians, so ride considerately.",
+          "Plan your route in advance to make use of the best cycle lanes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Graves Park",
+            "hu": "Graves Park",
+            "ro": "Parcul Graves",
+            "en": "Graves Park"
+          },
+          "coords": [
+            -1.48,
+            53.335
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie früh, um die Menschenmassen zu vermeiden. Besuchen Sie den Tierpark und die Cafés.",
+            "hu": "Parkoljon korán, hogy elkerülje a tömeget. Látogassa meg az állatfarmot és a kávézókat.",
+            "ro": "Parcați devreme pentru a evita aglomerația. Vizitați ferma de animale și cafenelele.",
+            "en": "Park early to beat the crowds. Visit the animal farm and the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Botanical Gardens",
+            "hu": "Sheffieldi Botanikus Kert",
+            "ro": "Grădina Botanică din Sheffield",
+            "en": "Sheffield Botanical Gardens"
+          },
+          "coords": [
+            -1.503,
+            53.3749
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie in den umliegenden Straßen (achten Sie auf die Beschilderung) und gehen Sie zum Eingang.",
+            "hu": "Parkoljon a környező utcákban (figyeljen a táblákra), és sétáljon a bejárathoz.",
+            "ro": "Parcați pe străzile din jur (fiți atenți la indicatoare) și mergeți pe jos până la intrare.",
+            "en": "Park on the surrounding streets (check for signage) and walk to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Weston Park Museum",
+            "hu": "Weston Park Múzeum",
+            "ro": "Muzeul Weston Park",
+            "en": "Weston Park Museum"
+          },
+          "coords": [
+            -1.4925,
+            53.3842
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Botanischen Garten. Lassen Sie das Auto stehen.",
+            "hu": "Egy rövid séta a Botanikus Kerttől. Hagyja az autót a parkolóban.",
+            "ro": "O scurtă plimbare de la Grădina Botanică. Lăsați mașina parcată.",
+            "en": "A short walk from the Botanical Gardens. Leave the car where it is."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelham Island Museum",
+            "hu": "Kelham Island Múzeum",
+            "ro": "Muzeul Insula Kelham",
+            "en": "Kelham Island Museum"
+          },
+          "coords": [
+            -1.4735,
+            53.3897
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Es gibt einen eigenen Parkplatz. Perfekt für einen Einblick in die industrielle Vergangenheit.",
+            "hu": "Saját parkolóval rendelkezik. Tökéletes betekintést nyújt az ipari múltba.",
+            "ro": "Are parcare proprie. Perfect pentru o incursiune în trecutul industrial.",
+            "en": "Has its own car park. Perfect for a deep dive into industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Cathedral",
+            "hu": "Sheffieldi katedrális",
+            "ro": "Catedrala din Sheffield",
+            "en": "Sheffield Cathedral"
+          },
+          "coords": [
+            -1.469,
+            53.3831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie ein nahegelegenes Parkhaus und erkunden Sie den letzten Cluster zu Fuß.",
+            "hu": "Használjon egy közeli parkolóházat, és fedezze fel az utolsó klasztert gyalog.",
+            "ro": "Folosiți o parcare din apropiere și explorați ultimul grup de obiective pe jos.",
+            "en": "Use a nearby multi-storey car park and explore this final cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Peace Gardens",
+            "hu": "Peace Gardens (Béke Kertek)",
+            "ro": "Grădinile Păcii",
+            "en": "Peace Gardens"
+          },
+          "coords": [
+            -1.4708,
+            53.3802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:28",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, bevor Sie zurück zum Auto gehen.",
+            "hu": "Egy pihentető lezárása a napnak, mielőtt visszamenne az autóhoz.",
+            "ro": "Un final relaxant al zilei înainte de a vă întoarce la mașină.",
+            "en": "A relaxing end to the day before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im weitläufigen Graves Park im Süden. Fahren Sie dann nach Norden zum ersten Cluster: Parken Sie in der Nähe der Botanischen Gärten und spazieren Sie zum Weston Park Museum. Mittags fahren Sie zum industriellen Herzen der Stadt, dem Kelham Island Museum. Beenden Sie den Tag im Stadtzentrum-Cluster: Parken Sie einmal und schlendern Sie zwischen der majestätischen Sheffield Cathedral und den beruhigenden Peace Gardens.",
+        "hu": "Kezdje a napot autóval a tágas déli Graves Parkban. Ezután hajtson északra az első klaszterhez: parkoljon a Botanikus Kert közelében, és sétáljon el a Weston Park Múzeumhoz. Délben autózzon el a város ipari szívébe, a Kelham Island Múzeumba. Fejezze be a napot a belvárosi klaszterben: parkoljon le, és sétáljon a fenséges Sheffieldi katedrális és a nyugtató Peace Gardens között.",
+        "ro": "Începeți ziua cu mașina în vastul parc Graves din sud. Apoi, conduceți spre nord către primul grup de obiective: parcați lângă Grădina Botanică și plimbați-vă până la Muzeul Weston Park. La prânz, conduceți spre inima industrială a orașului, Muzeul Insula Kelham. Încheiați ziua în grupul din centrul orașului: parcați o singură dată și plimbați-vă între maiestuoasa Catedrală Sheffield și liniștitoarele Grădini ale Păcii.",
+        "en": "Start your day by car at the expansive Graves Park in the south. Then, drive north to your first cluster: park near the Botanical Gardens and walk over to Weston Park Museum. For midday, drive to the city's industrial heart, the Kelham Island Museum. Finish your day in the city centre cluster: park once and stroll between the majestic Sheffield Cathedral and the calming Peace Gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Old Vicarage",
+            "tip": "Ein mit einem Michelin-Stern ausgezeichnetes Restaurant für ein besonderes Erlebnis, eine kurze Autofahrt entfernt."
+          },
+          {
+            "name": "Ashoka",
+            "tip": "Eines der ältesten indischen Restaurants in Sheffield, bekannt für sein 'Taxi Driver Curry'."
+          },
+          {
+            "name": "Forge Bakehouse",
+            "tip": "Ideal für Kaffee und Gebäck in der Nähe der westlichen Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Old Vicarage",
+            "tip": "Michelin-csillagos étterem egy különleges élményért, rövid autóútra."
+          },
+          {
+            "name": "Ashoka",
+            "tip": "Sheffield egyik legrégebbi indiai étterme, híres a 'Taxi Driver Curry'-jéről."
+          },
+          {
+            "name": "Forge Bakehouse",
+            "tip": "Ideális kávéra és süteményre a nyugati parkok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Old Vicarage",
+            "tip": "Un restaurant cu stea Michelin pentru o experiență specială, la o scurtă distanță cu mașina."
+          },
+          {
+            "name": "Ashoka",
+            "tip": "Unul dintre cele mai vechi restaurante indiene din Sheffield, renumit pentru 'Taxi Driver Curry'."
+          },
+          {
+            "name": "Forge Bakehouse",
+            "tip": "Ideal pentru o cafea și produse de patiserie lângă parcurile din vest."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Old Vicarage",
+            "tip": "A Michelin-starred restaurant for a special experience, a short drive away."
+          },
+          {
+            "name": "Ashoka",
+            "tip": "One of Sheffield's oldest Indian restaurants, famous for its 'Taxi Driver Curry'."
+          },
+          {
+            "name": "Forge Bakehouse",
+            "tip": "Great for coffee and pastries near the western parks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Peak District National Park",
+            "tip": "Nur eine kurze Autofahrt von Sheffield entfernt für atemberaubende Landschaften.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivelin Valley Nature Trail",
+            "tip": "Parken Sie und machen Sie einen Spaziergang entlang des Flusses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surprise View",
+            "tip": "Ein berühmter Aussichtspunkt im Peak District, besonders schön bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peak District Nemzeti Park",
+            "tip": "Csak egy rövid autóútra Sheffieldtől a lélegzetelállító tájért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivelin-völgyi tanösvény",
+            "tip": "Parkoljon le, és tegyen egy sétát a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surprise View",
+            "tip": "Híres kilátópont a Peak Districtben, különösen naplementekor gyönyörű.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Național Peak District",
+            "tip": "La o scurtă distanță cu mașina de Sheffield pentru peisaje uluitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Naturală Rivelin Valley",
+            "tip": "Parcați și faceți o plimbare de-a lungul râului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surprise View",
+            "tip": "Un faimos punct de belvedere în Peak District, deosebit de frumos la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peak District National Park",
+            "tip": "Just a short drive from Sheffield for stunning landscapes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rivelin Valley Nature Trail",
+            "tip": "Park up and take a walk along the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Surprise View",
+            "tip": "A famous viewpoint in the Peak District, especially beautiful at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiques Quarter",
+            "tip": "Ein Bereich mit vielen Antiquitätenläden, am besten mit dem Auto zu erreichen."
+          },
+          {
+            "name": "Ecclesall Road",
+            "tip": "Fahren Sie diese lange Straße entlang, die von Boutiquen und Designerläden gesäumt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antik Negyed",
+            "tip": "Régiségboltokkal teli terület, legkönnyebben autóval érhető el."
+          },
+          {
+            "name": "Ecclesall Road",
+            "tip": "Vezessen végig ezen a hosszú úton, amelyet butikok és designer üzletek szegélyeznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Antichităților",
+            "tip": "O zonă cu multe magazine de antichități, cel mai bine explorată cu mașina."
+          },
+          {
+            "name": "Ecclesall Road",
+            "tip": "Conduceți de-a lungul acestei străzi lungi, pline de buticuri și magazine de designer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antiques Quarter",
+            "tip": "An area with many antique shops, best reached by car."
+          },
+          {
+            "name": "Ecclesall Road",
+            "tip": "Drive down this long road lined with boutiques and designer shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie eine Park-App wie PayByPhone herunter, da sie in der ganzen Stadt verwendet wird.",
+          "Achten Sie auf Busspuren und deren Betriebszeiten.",
+          "Das Stadtzentrum hat viele Einbahnstraßen; verwenden Sie ein Navi.",
+          "Parken außerhalb des Zentrums und das Gehen in Clustern spart Geld und Stress."
+        ],
+        "hu": [
+          "Töltsön le egy parkolási alkalmazást, mint a PayByPhone, mivel az egész városban használják.",
+          "Figyeljen a buszsávokra és azok működési idejére.",
+          "A belvárosban sok az egyirányú utca; használjon navigációt.",
+          "A központon kívüli parkolás és a klaszterekben való gyaloglás pénzt és stresszt takarít meg."
+        ],
+        "ro": [
+          "Descărcați o aplicație de parcare precum PayByPhone, deoarece este folosită în tot orașul.",
+          "Fiți atenți la benzile de autobuz și la orele lor de funcționare.",
+          "Centrul orașului are multe străzi cu sens unic; folosiți un navigator.",
+          "Parcarea în afara centrului și plimbarea în grupuri economisește bani și reduce stresul."
+        ],
+        "en": [
+          "Download a parking app like PayByPhone as it's widely used across the city.",
+          "Be aware of bus lanes and their operating times.",
+          "The city centre has many one-way streets; use a sat-nav.",
+          "Parking outside the centre and walking in clusters will save money and stress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Peace Gardens",
+            "hu": "Peace Gardens (Béke Kertek)",
+            "ro": "Grădinile Păcii",
+            "en": "Peace Gardens"
+          },
+          "coords": [
+            -1.4708,
+            53.3802
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zum zentralen Knotenpunkt und beginnen Sie hier.",
+            "hu": "Menjen busszal vagy villamossal a központi csomópontig, és kezdje itt a napot.",
+            "ro": "Luați un autobuz sau un tramvai până la nodul central și începeți de aici.",
+            "en": "Take a bus or tram to the central interchange and start here."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Gallery",
+            "hu": "Millenniumi Galéria",
+            "ro": "Galeria Millennium",
+            "en": "Millennium Gallery"
+          },
+          "coords": [
+            -1.4695,
+            53.3795
+          ],
+          "category": "museums",
+          "arrive_at": "09:28",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf von den Gärten entfernt, keine weiteren Verkehrsmittel erforderlich.",
+            "hu": "Csak egy kőhajításnyira a kertektől, nincs szükség további közlekedésre.",
+            "ro": "La o aruncătură de băț de grădini, nu este necesar alt transport.",
+            "en": "Just a stone's throw from the gardens, no further transit needed."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Cathedral",
+            "hu": "Sheffieldi katedrális",
+            "ro": "Catedrala din Sheffield",
+            "en": "Sheffield Cathedral"
+          },
+          "coords": [
+            -1.469,
+            53.3831
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für Straßenbahnen und Busse liegt direkt davor.",
+            "hu": "A villamosok és buszok központi csomópontja közvetlenül előtte található.",
+            "ro": "Nodul central pentru tramvaie și autobuze este chiar în față.",
+            "en": "The main interchange for trams and buses is right outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelham Island Museum",
+            "hu": "Kelham Island Múzeum",
+            "ro": "Muzeul Insula Kelham",
+            "en": "Kelham Island Museum"
+          },
+          "coords": [
+            -1.4735,
+            53.3897
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Eine kurze Straßenbahnfahrt vom Stadtzentrum. Holen Sie sich hier Ihr Mittagessen.",
+            "hu": "Egy rövid villamosút a városközpontból. Ebédeljen itt.",
+            "ro": "O scurtă călătorie cu tramvaiul din centrul orașului. Luați prânzul aici.",
+            "en": "A short tram ride from the city centre. Grab your lunch around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Weston Park Museum",
+            "hu": "Weston Park Múzeum",
+            "ro": "Muzeul Weston Park",
+            "en": "Weston Park Museum"
+          },
+          "coords": [
+            -1.4925,
+            53.3842
+          ],
+          "category": "museums",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten direkt vor dem Museum.",
+            "hu": "Számos buszjárat megáll közvetlenül a múzeum előtt.",
+            "ro": "Multe linii de autobuz opresc chiar în fața muzeului.",
+            "en": "Many bus routes stop right outside the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Sheffield Botanical Gardens",
+            "hu": "Sheffieldi Botanikus Kert",
+            "ro": "Grădina Botanică din Sheffield",
+            "en": "Sheffield Botanical Gardens"
+          },
+          "coords": [
+            -1.503,
+            53.3749
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:48",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum oder eine kurze Busfahrt, wenn Sie müde sind.",
+            "hu": "Egy rövid séta a múzeumtól, vagy egy gyors buszozás, ha fáradt.",
+            "ro": "O scurtă plimbare de la muzeu, sau o scurtă călătorie cu autobuzul dacă sunteți obosit.",
+            "en": "A short walk from the museum, or a quick bus ride if you're feeling tired."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, im Cluster Peace Gardens, Millennium Gallery und Sheffield Cathedral, alles zu Fuß erreichbar. Nehmen Sie mittags die Straßenbahn nach Norden zum Kelham Island Museum, um Sheffields industrielles Erbe zu erkunden. Am Nachmittag bringt Sie ein Bus oder eine Straßenbahn westwärts zum nächsten Cluster: dem Weston Park Museum und den nahegelegenen Botanischen Gärten, ein perfekter Ort, um den Tag ausklingen zu lassen.",
+        "hu": "A tömegközlekedéssel töltött nap a város szívében kezdődik, a Peace Gardens, a Millennium Galéria és a Sheffieldi katedrális klaszterében, mind gyalogosan elérhető. Délben villamossal utazzon északra a Kelham Island Múzeumhoz, hogy felfedezze Sheffield ipari örökségét. Délután egy busz vagy villamos nyugatra viszi a következő klaszterhez: a Weston Park Múzeumhoz és a közeli Botanikus Kerthez, amely tökéletes hely a nap befejezéséhez.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului, în grupul format din Grădinile Păcii, Galeria Millennium și Catedrala Sheffield, toate accesibile pe jos. La prânz, luați tramvaiul spre nord, la Muzeul Insula Kelham, pentru o doză de istorie industrială. După-amiaza, un autobuz sau tramvai vă duce spre vest la următorul grup: Muzeul Weston Park și Grădina Botanică din apropiere, un final perfect pentru zi.",
+        "en": "Your day on public transit begins in the city's heart with the Peace Gardens, Millennium Gallery, and Sheffield Cathedral cluster, all walkable. For midday, take a tram north to the Kelham Island Museum for a dose of industrial heritage. In the afternoon, a bus or tram will whisk you west to the next cluster: Weston Park Museum and the nearby Botanical Gardens, a perfect end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": " Kommune",
+            "tip": "Food-Halle in einem alten Kaufhaus im Stadtzentrum, für jeden etwas dabei."
+          },
+          {
+            "name": "The Peddler Market",
+            "tip": "Wenn es stattfindet, ein Street-Food-Markt in der Nähe von Kelham Island."
+          },
+          {
+            "name": "Napoleons Casino & Restaurant",
+            "tip": "In der Nähe der Straßenbahnhaltestelle Owlerton, bietet ein gutes Preis-Leistungs-Verhältnis für Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": " Kommune",
+            "tip": "Ételudvar egy régi áruházban a belvárosban, mindenki talál valamit."
+          },
+          {
+            "name": "The Peddler Market",
+            "tip": "Ha éppen van, ez egy street food piac a Kelham Island közelében."
+          },
+          {
+            "name": "Napoleons Casino & Restaurant",
+            "tip": "Az Owlerton villamosmegálló közelében, jó ár-érték arányú vacsorát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": " Kommune",
+            "tip": "Hală alimentară într-un fost magazin universal din centrul orașului, ceva pentru toată lumea."
+          },
+          {
+            "name": "The Peddler Market",
+            "tip": "Dacă se întâmplă să fie, o piață de street-food lângă Insula Kelham."
+          },
+          {
+            "name": "Napoleons Casino & Restaurant",
+            "tip": "Aproape de stația de tramvai Owlerton, oferă o cină cu un bun raport calitate-preț."
+          }
+        ],
+        "en": [
+          {
+            "name": " Kommune",
+            "tip": "Food hall in an old department store in the city centre, something for everyone."
+          },
+          {
+            "name": "The Peddler Market",
+            "tip": "If it's on, a street food market near Kelham Island."
+          },
+          {
+            "name": "Napoleons Casino & Restaurant",
+            "tip": "Near the Owlerton tram stop, offers a good value 'dine in style' deal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sheffield General Cemetery",
+            "tip": "Ein historischer Friedhof und Naturreservat, mit dem Bus erreichbar.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Endcliffe Park",
+            "tip": "Eine kurze Busfahrt, ein großer Park, der zum Peak District führt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage eines Doppeldeckerbusses",
+            "tip": "Holen Sie sich einen Fensterplatz und beobachten Sie, wie die Stadt an Ihnen vorbeizieht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sheffieldi Általános Temető",
+            "tip": "Történelmi temető és természetvédelmi terület, busszal elérhető.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Endcliffe Park",
+            "tip": "Rövid buszút, egy nagy park, amely a Peak District felé vezet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Szerezzen egy ablak melletti helyet, és nézze, ahogy elsuhan a város.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul General din Sheffield",
+            "tip": "Un cimitir istoric și o rezervație naturală, accesibil cu autobuzul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Endcliffe",
+            "tip": "La o scurtă călătorie cu autobuzul, un parc mare care duce spre Peak District.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Luați un loc la fereastră și priviți orașul trecând pe lângă dvs.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheffield General Cemetery",
+            "tip": "A historic cemetery and nature reserve, accessible by bus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Endcliffe Park",
+            "tip": "A short bus ride away, a large park that leads out to the Peak District.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top deck of a double-decker bus",
+            "tip": "Get a window seat and watch the city go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "London Road",
+            "tip": "Nehmen Sie einen Bus hierher für eine vielseitige Mischung aus internationalen Supermärkten und Restaurants."
+          },
+          {
+            "name": "Meadowhall Shopping Centre",
+            "tip": "Ein riesiges Einkaufszentrum an seinem eigenen Verkehrsknotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "London Road",
+            "tip": "Buszozzon ide a nemzetközi szupermarketek és éttermek eklektikus keverékéért."
+          },
+          {
+            "name": "Meadowhall Bevásárlóközpont",
+            "tip": "Hatalmas bevásárlóközpont saját közlekedési csomóponttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "London Road",
+            "tip": "Luați un autobuz până aici pentru un amestec eclectic de supermarketuri și restaurante internaționale."
+          },
+          {
+            "name": "Centrul Comercial Meadowhall",
+            "tip": "Un centru comercial uriaș la propriul său nod de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "London Road",
+            "tip": "Take a bus here for an eclectic mix of international supermarkets and restaurants."
+          },
+          {
+            "name": "Meadowhall Shopping Centre",
+            "tip": "A huge shopping centre at its own transport interchange."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'CityWide' Tageskarte für unbegrenzte Fahrten mit Bus und Straßenbahn.",
+          "Verwenden Sie die 'Travel South Yorkshire' App zur Routenplanung.",
+          "Straßenbahnen sind oft schneller als Busse für wichtige Routen.",
+          "Beachten Sie, dass einige Busse nur mit Karte oder exaktem Fahrgeld bezahlt werden können."
+        ],
+        "hu": [
+          "Vásároljon 'CityWide' napijegyet a korlátlan busz- és villamoshasználathoz.",
+          "Használja a 'Travel South Yorkshire' alkalmazást az útvonaltervezéshez.",
+          "A villamosok gyakran gyorsabbak a buszoknál a főbb útvonalakon.",
+          "Vegye figyelembe, hogy néhány buszon csak kártyával vagy pontos összeggel lehet fizetni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi 'CityWide' pentru călătorii nelimitate cu autobuzul și tramvaiul.",
+          "Utilizați aplicația 'Travel South Yorkshire' pentru planificarea rutelor.",
+          "Tramvaiele sunt adesea mai rapide decât autobuzele pe rutele principale.",
+          "Rețineți că unele autobuze pot fi plătite doar cu cardul sau cu suma exactă."
+        ],
+        "en": [
+          "Buy a 'CityWide' day ticket for unlimited travel on buses and trams.",
+          "Use the 'Travel South Yorkshire' app for journey planning.",
+          "Trams are often faster than buses for major routes.",
+          "Be aware that some buses might be card-only or require exact change."
+        ]
+      }
+    }
+  }
+}

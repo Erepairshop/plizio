@@ -1,0 +1,1463 @@
+{
+  "city_id": "spain-ourense-cities-v2",
+  "anchor": {
+    "name": "Ourense",
+    "coords": [
+      -7.8633,
+      42.3358
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Main Square (Plaza Mayor)"
+          },
+          "coords": [
+            -7.864,
+            42.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés und beobachten Sie, wie die Stadt erwacht.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában, és figyelje a város ébredését.",
+            "ro": "Începeți ziua cu o cafea la una dintre terase și priviți cum se trezește orașul.",
+            "en": "Start your day with a coffee at one of the square's cafes and watch the city come to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Eufemia",
+            "hu": "Santa Eufemia-templom",
+            "ro": "Biserica Santa Eufemia",
+            "en": "Church of Santa Eufemia"
+          },
+          "coords": [
+            -7.8645,
+            42.3365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Barockfassade, die besonders am Morgen schön beleuchtet ist.",
+            "hu": "Csodálja meg a lenyűgöző barokk homlokzatot, amely reggelente különösen szép megvilágítást kap.",
+            "ro": "Admirați fațada barocă impresionantă, care este frumos luminată dimineața.",
+            "en": "Admire the impressive Baroque facade, which is beautifully lit in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ourense",
+            "hu": "Ourense-i katedrális",
+            "ro": "Catedrala din Ourense",
+            "en": "Ourense Cathedral"
+          },
+          "coords": [
+            -7.866,
+            42.3368
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Portikus des Paradieses, eine farbenfrohe Nachbildung des Portikus der Herrlichkeit in Santiago.",
+            "hu": "Ne hagyja ki a Paradicsom Kapuját, a compostelai Dicsőség Kapujának színes másolatát.",
+            "ro": "Nu ratați Porticul Paradisului, o replică colorată a Porticului Gloriei din Santiago.",
+            "en": "Don't miss the Portico of Paradise, a colorful replica of the Portico of Glory in Santiago."
+          }
+        },
+        {
+          "name": {
+            "de": "As Burgas",
+            "hu": "As Burgas hőforrások",
+            "ro": "Izvoarele termale As Burgas",
+            "en": "As Burgas Hot Springs"
+          },
+          "coords": [
+            -7.868,
+            42.335
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fühlen Sie die Hitze der Quellen, die mit über 60°C aus dem Boden sprudeln. Es gibt auch ein öffentliches Thermalbad.",
+            "hu": "Érezze a több mint 60°C-on feltörő források hőjét. Egy nyilvános termálfürdő is található itt.",
+            "ro": "Simțiți căldura izvoarelor care țâșnesc din pământ la peste 60°C. Există și o baie termală publică.",
+            "en": "Feel the heat of the springs gushing from the ground at over 60°C. There is also a public thermal bath."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Vella",
+            "hu": "Ponte Vella (Öreg híd)",
+            "ro": "Ponte Vella (Podul Vechi)",
+            "en": "Ponte Vella (Old Bridge)"
+          },
+          "coords": [
+            -7.871,
+            42.342
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die römische Brücke und genießen Sie den Blick auf den Fluss Miño und die Stadt.",
+            "hu": "Sétáljon át a római kori hídon, és élvezze a Miño folyóra és a városra nyíló kilátást.",
+            "ro": "Traversați podul roman și bucurați-vă de priveliștea asupra râului Miño și a orașului.",
+            "en": "Cross the Roman bridge and enjoy the views of the Miño river and the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium-Brücke",
+            "hu": "Millennium híd",
+            "ro": "Podul Millennium",
+            "en": "Millennium Bridge"
+          },
+          "coords": [
+            -7.859,
+            42.345
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Fußgängersteg in Form einer Schleife bietet spektakuläre Ausblicke, ist aber nichts für Menschen mit Höhenangst.",
+            "hu": "A hurok alakú gyalogos feljáró látványos kilátást nyújt, de tériszonyosoknak nem ajánlott.",
+            "ro": "Pasarela pietonală în formă de buclă oferă vederi spectaculoase, dar nu este pentru cei cu frică de înălțime.",
+            "en": "The loop-shaped pedestrian walkway offers spectacular views, but it's not for those with a fear of heights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Ourense beginnt im Herzen der Altstadt, auf der Plaza Mayor. Von hier aus erkunden Sie die prächtigen Kirchen Santa Eufemia und die Kathedrale, bevor Sie die berühmten heißen Quellen von As Burgas entdecken. Ein Spaziergang entlang des Flusses Miño führt Sie zu zwei ikonischen Brücken. Genießen Sie die Mischung aus Geschichte, Natur und moderner Architektur, die Ourense zu bieten hat. Nehmen Sie sich Zeit für ein Mittagessen in einer der traditionellen Tavernen.",
+        "hu": "Ourense-i napja az óváros szívében, a Plaza Mayoron kezdődik. Innen fedezi fel a csodálatos Santa Eufemia templomot és a katedrálist, mielőtt megnézné a híres As Burgas hőforrásokat. Egy séta a Miño folyó mentén két ikonikus hídhoz vezet. Élvezze a történelem, a természet és a modern építészet keverékét. Szánjon időt egy ebédre az egyik hagyományos tavernában.",
+        "ro": "Ziua dvs. în Ourense începe în inima orașului vechi, în Plaza Mayor. De aici, veți explora magnificele biserici Santa Eufemia și Catedrala, înainte de a descoperi faimoasele izvoare termale As Burgas. O plimbare pe malul râului Miño vă va duce la două poduri iconice. Bucurați-vă de amestecul de istorie, natură și arhitectură modernă. Luați-vă timp pentru prânz la una dintre tavernele tradiționale.",
+        "en": "Your day in Ourense begins in the heart of the old town, at Plaza Mayor. From here, you'll explore the magnificent churches of Santa Eufemia and the Cathedral before discovering the famous As Burgas hot springs. A walk along the Miño River will lead you to two iconic bridges. Enjoy the mix of history, nature, and modern architecture. Take time for lunch in one of the traditional taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Probieren Sie den galicischen Oktopus, serviert mit Paprika und Olivenöl. Ein Muss!"
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Eine herzhafte Pastete, oft gefüllt mit Thunfisch, Fleisch oder Meeresfrüchten."
+          },
+          {
+            "name": "Restaurante A Taberna",
+            "tip": "Bekannt für authentische galicische Küche und eine gemütliche Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Kóstolja meg a galíciai polipot paprikával és olívaolajjal. Kötelező!"
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "Kiadós pite, gyakran tonhallal, hússal vagy tenger gyümölcseivel töltve."
+          },
+          {
+            "name": "Restaurante A Taberna",
+            "tip": "Híres az autentikus galíciai konyhájáról és a hangulatos légkörről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Încercați caracatița galiciană, servită cu boia și ulei de măsline. O necesitate!"
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "O plăcintă consistentă, adesea umplută cu ton, carne sau fructe de mare."
+          },
+          {
+            "name": "Restaurante A Taberna",
+            "tip": "Renumit pentru bucătăria galiciană autentică și o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Try the Galician octopus, served with paprika and olive oil. A must-try!"
+          },
+          {
+            "name": "Empanada Gallega",
+            "tip": "A savory pie, often filled with tuna, meat, or seafood."
+          },
+          {
+            "name": "Restaurante A Taberna",
+            "tip": "Known for authentic Galician cuisine and a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Claustro de San Francisco",
+            "tip": "Ein friedlicher Ort mit einem schönen Kreuzgang und alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg am Miño",
+            "tip": "Ein entspannter Spaziergang entlang des Flusses, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Posío",
+            "tip": "Ein historischer botanischer Garten, ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Claustro de San Francisco kertjei",
+            "tip": "Békés hely egy gyönyörű kerengővel és öreg fákkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Miño folyóparti sétány",
+            "tip": "Pihentető séta a folyó mentén, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Posío",
+            "tip": "Történelmi botanikus kert, ideális egy csendes pihenőhöz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Claustro de San Francisco",
+            "tip": "Un loc pașnic, cu un claustru frumos și copaci bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenada de pe malul râului Miño",
+            "tip": "O plimbare relaxantă de-a lungul râului, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Posío",
+            "tip": "O grădină botanică istorică, perfectă pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Claustro de San Francisco",
+            "tip": "A peaceful spot with a beautiful cloister and old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Miño Riverbank Path",
+            "tip": "A relaxing walk along the river, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardín del Posío",
+            "tip": "A historic botanical garden, perfect for a quiet break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Praza de Abastos",
+            "tip": "Der Hauptmarkt, wo Sie frische galicische Produkte und Käse finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi üzletekkel."
+          },
+          {
+            "name": "Praza de Abastos",
+            "tip": "A központi piac, ahol friss galíciai termékeket és sajtokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "Principala stradă comercială, cu mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Praza de Abastos",
+            "tip": "Piața principală unde puteți găsi produse proaspete galiciene și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "The main shopping street with well-known brands and local shops."
+          },
+          {
+            "name": "Praza de Abastos",
+            "tip": "The main market where you can find fresh Galician produce and cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele öffentliche Brunnen.",
+          "Probieren Sie die lokalen Weine aus der Region Ribeiro.",
+          "Die meisten Geschäfte haben eine Siesta-Pause am Nachmittag.",
+          "Planen Sie Ihr Mittagessen gegen 14:00 Uhr, wie es in Spanien üblich ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Hozzon magával újratölthető vizes palackot, sok nyilvános ivókút van.",
+          "Kóstolja meg a helyi Ribeiro borvidék borait.",
+          "A legtöbb üzlet délután sziesztát tart.",
+          "Az ebédet 14:00 óra körülre tervezze, ahogy Spanyolországban szokás."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Luați o sticlă de apă reutilizabilă; există multe fântâni publice.",
+          "Gustați vinurile locale din regiunea Ribeiro.",
+          "Majoritatea magazinelor au o pauză de siestă după-amiaza.",
+          "Planificați prânzul în jurul orei 14:00, așa cum este obișnuit în Spania."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring a reusable water bottle; there are many public fountains.",
+          "Try the local wines from the Ribeiro region.",
+          "Most shops have a siesta break in the afternoon.",
+          "Plan your lunch around 2:00 PM, as is common in Spain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -7.864,
+            42.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre des zentralen Platzes.",
+            "hu": "Parkolja le a biciklit és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței centrale.",
+            "en": "Park your bike and soak in the atmosphere of the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Ourense",
+            "hu": "Ourense-i katedrális",
+            "ro": "Catedrala din Ourense",
+            "en": "Ourense Cathedral"
+          },
+          "coords": [
+            -7.866,
+            42.3368
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das beeindruckende Innere erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a lenyűgöző belső teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora interiorul impresionant.",
+            "en": "Lock your bike securely before exploring the impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Claustro de San Francisco",
+            "hu": "Szt. Ferenc kerengő",
+            "ro": "Claustrul San Francisco",
+            "en": "Cloister of San Francisco"
+          },
+          "coords": [
+            -7.869,
+            42.339
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel und ein friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "hu": "Rejtett gyöngyszem és békés hely a városi nyüzsgés elől.",
+            "ro": "O bijuterie ascunsă și un loc pașnic pentru a scăpa de agitația orașului.",
+            "en": "A hidden gem and a peaceful place to escape the city bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Vella",
+            "hu": "Ponte Vella (Öreg híd)",
+            "ro": "Ponte Vella (Podul Vechi)",
+            "en": "Ponte Vella (Old Bridge)"
+          },
+          "coords": [
+            -7.871,
+            42.342
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad über diese historische Brücke, um den alten Steinboden zu schonen.",
+            "hu": "Tolja a kerékpárt ezen a történelmi hídon, hogy megóvja a régi kőburkolatot.",
+            "ro": "Împingeți bicicleta pe acest pod istoric pentru a proteja pavajul vechi de piatră.",
+            "en": "Walk your bike across this historic bridge to preserve the ancient stone floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium-Brücke",
+            "hu": "Millennium híd",
+            "ro": "Podul Millennium",
+            "en": "Millennium Bridge"
+          },
+          "coords": [
+            -7.859,
+            42.345
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:57",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Fahrrad bis zum Anfang der Fußgängerschleife für einen tollen Fotopunkt.",
+            "hu": "Biciklizzen el a gyalogos hurok elejéig egy remek fotóhelyért.",
+            "ro": "Mergeți cu bicicleta până la începutul pasarelei pietonale pentru un punct foto excelent.",
+            "en": "Ride your bike to the start of the pedestrian loop for a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Outariz",
+            "hu": "Outariz Termálfürdő",
+            "ro": "Băile termale Outariz",
+            "en": "Outariz Thermal Baths"
+          },
+          "coords": [
+            -7.915,
+            42.34
+          ],
+          "category": "natural features",
+          "arrive_at": "12:47",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und entspannen Sie sich in den japanisch inspirierten Thermalbecken.",
+            "hu": "Zárja le jól a kerékpárt, és pihenjen a japán ihletésű termálmedencékben.",
+            "ro": "Asigurați-vă bine bicicleta și relaxați-vă în bazinele termale de inspirație japoneză.",
+            "en": "Lock your bike well and relax in the Japanese-inspired thermal pools."
+          }
+        },
+        {
+          "name": {
+            "de": "As Burgas",
+            "hu": "As Burgas hőforrások",
+            "ro": "Izvoarele termale As Burgas",
+            "en": "As Burgas Hot Springs"
+          },
+          "coords": [
+            -7.868,
+            42.335
+          ],
+          "category": "natural features",
+          "arrive_at": "15:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Ein letzter Halt, um die Kraft der Thermalquellen im Herzen der Stadt zu sehen.",
+            "hu": "Egy utolsó megálló, hogy megnézze a termálforrások erejét a város szívében.",
+            "ro": "O ultimă oprire pentru a vedea puterea izvoarelor termale din inima orașului.",
+            "en": "A final stop to see the power of the thermal springs in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch Ourense, die das historische Zentrum mit der entspannenden Kraft des Thermalwassers verbindet. Sie starten an der Plaza Mayor, radeln zu den wichtigsten religiösen Stätten und überqueren dann den Fluss Miño, um die beeindruckenden Brücken der Stadt zu sehen. Die Hauptattraktion ist eine längere Fahrt entlang des Flusses zum Thermalbad Outariz, wo Sie sich in den heißen Quellen entspannen können. Der Rückweg führt Sie zu den historischen Burgas-Quellen.",
+        "hu": "Pattanjon biciklire egy ourense-i túrára, amely ötvözi a történelmi központot a termálvíz pihentető erejével. A Plaza Mayorról indul, elteker a főbb vallási helyszínekhez, majd átkel a Miño folyón, hogy megnézze a város lenyűgöző hídjait. A fő attrakció egy hosszabb út a folyó mentén az Outariz termálfürdőhöz, ahol a forró forrásokban pihenhet. Visszafelé a történelmi Burgas-forrásokhoz vezet az út.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Ourense care combină centrul istoric cu puterea relaxantă a apelor termale. Porniți din Plaza Mayor, pedalați spre principalele situri religioase, apoi traversați râul Miño pentru a vedea podurile impresionante ale orașului. Atracția principală este o plimbare mai lungă de-a lungul râului până la băile termale Outariz, unde vă puteți relaxa în izvoarele fierbinți. Drumul de întoarcere vă duce la izvoarele istorice Burgas.",
+        "en": "Hop on your bike for a tour of Ourense that combines the historic center with the relaxing power of thermal waters. You'll start at Plaza Mayor, cycle to the main religious sites, then cross the Miño River to see the city's impressive bridges. The main attraction is a longer ride along the river to the Outariz thermal baths for a relaxing soak. The way back takes you to the historic Burgas springs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Der perfekte proteinreiche Snack nach einer langen Radtour."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Ein Mandel-Kuchen, der Ihnen Energie für den Rest des Tages gibt."
+          },
+          {
+            "name": "Bar Orellas",
+            "tip": "Ein beliebter lokaler Ort, um Tapas zu essen und sich unter die Einheimischen zu mischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "A tökéletes, fehérjében gazdag falat egy hosszú biciklitúra után."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "Egy mandulás sütemény, ami energiát ad a nap hátralévő részére."
+          },
+          {
+            "name": "Bar Orellas",
+            "tip": "Népszerű helyi bár, ahol tapasozhat és elvegyülhet a helyiek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "Gustarea perfectă, bogată în proteine, după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "O prăjitură cu migdale care vă va da energie pentru restul zilei."
+          },
+          {
+            "name": "Bar Orellas",
+            "tip": "Un loc local popular pentru a mânca tapas și a socializa cu localnicii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pulpo á Feira",
+            "tip": "The perfect protein-rich snack after a long bike ride."
+          },
+          {
+            "name": "Tarta de Santiago",
+            "tip": "An almond cake that will give you energy for the rest of the day."
+          },
+          {
+            "name": "Bar Orellas",
+            "tip": "A popular local spot to eat tapas and mingle with the locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussuferweg bei Outariz",
+            "tip": "Nach dem Bad können Sie die ruhige Natur entlang des Flusses genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick von der Millennium-Brücke",
+            "tip": "Ein Moment der Ruhe hoch über dem geschäftigen Treiben der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten des Claustro de San Francisco",
+            "tip": "Ein friedlicher Garten mitten im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti út Outariznál",
+            "tip": "A fürdőzés után élvezze a folyó menti csendes természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Millennium hídról",
+            "tip": "Egy pillanatnyi csend magasan a város nyüzsgése felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustro de San Francisco kertjei",
+            "tip": "Békés kert a város központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului lângă Outariz",
+            "tip": "După baie, bucurați-vă de natura liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Podul Millennium",
+            "tip": "Un moment de liniște deasupra agitației orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Claustro de San Francisco",
+            "tip": "O grădină pașnică în mijlocul centrului orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank path near Outariz",
+            "tip": "After your bath, enjoy the quiet nature along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Millennium Bridge",
+            "tip": "A moment of calm high above the city's hustle and bustle.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gardens of Claustro de San Francisco",
+            "tip": "A peaceful garden right in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "Hier finden Sie auch Fahrradgeschäfte, falls Sie Zubehör benötigen."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach kleinen Läden in der Altstadt, die handgefertigte Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "Itt kerékpárüzleteket is talál, ha kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kis üzleteket az óvárosban, amelyek kézzel készített szuveníreket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "Veți găsi și magazine de biciclete aici dacă aveți nevoie de accesorii."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine mici în orașul vechi care vând suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa de Santo Domingo",
+            "tip": "You'll also find bike shops here if you need any accessories."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for small shops in the old town selling handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Einige Teile der Altstadt sind steil, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine sichere und malerische Fahrt.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, wenn Sie in der Dämmerung fahren.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Az óváros egyes részei meredekek, így készüljön fel emelkedőkre.",
+          "Használja a folyó menti kerékpárutakat a biztonságos és festői utazáshoz.",
+          "Viseljen sisakot, és használjon lámpát, ha szürkületben kerékpározik.",
+          "Hozzon magával lakatot a kerékpár biztonságos lezárásához."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a porni.",
+          "Unele părți ale orașului vechi sunt abrupte, așa că fiți pregătiți pentru câteva urcări.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare sigură și pitorească.",
+          "Purtați cască și folosiți lumini dacă pedalați la amurg.",
+          "Luați un lacăt pentru a vă asigura bicicleta."
+        ],
+        "en": [
+          "Check your tire pressure before you start.",
+          "Some parts of the old town are steep, so be prepared for some climbs.",
+          "Use the bike paths along the river for a safe and scenic ride.",
+          "Wear a helmet and use lights if riding at dusk.",
+          "Bring a lock to secure your bike safely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare centrală",
+            "en": "Downtown Parking"
+          },
+          "coords": [
+            -7.863,
+            42.338
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Die Altstadt ist nur wenige Gehminuten entfernt.",
+            "hu": "Parkoljon le itt a délelőttre. Az óváros csak néhány perc séta.",
+            "ro": "Parcați aici pentru dimineață. Centrul vechi este la câteva minute de mers pe jos.",
+            "en": "Park here for the morning. The old town is a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor & Altstadt",
+            "hu": "Plaza Mayor és Óváros",
+            "ro": "Plaza Mayor & Centrul Vechi",
+            "en": "Plaza Mayor & Old Town"
+          },
+          "coords": [
+            -7.864,
+            42.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und die umliegenden Gassen zu Fuß.",
+            "hu": "Fedezze fel a teret és a környező sikátorokat gyalog.",
+            "ro": "Explorați piața și străduțele înconjurătoare pe jos.",
+            "en": "Explore the square and the surrounding alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Santa Eufemia",
+            "hu": "Katedrális és Santa Eufemia",
+            "ro": "Catedrala și Santa Eufemia",
+            "en": "Cathedral and Santa Eufemia"
+          },
+          "coords": [
+            -7.8655,
+            42.3367
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie beide prächtigen Kirchen, die nur wenige Schritte voneinander entfernt sind.",
+            "hu": "Látogassa meg mindkét csodálatos templomot, amelyek csak pár lépésre vannak egymástól.",
+            "ro": "Vizitați ambele biserici magnifice, aflate la doar câțiva pași una de cealaltă.",
+            "en": "Visit both magnificent churches, which are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Flussufer",
+            "hu": "Utazás a folyóparthoz",
+            "ro": "Condus la malul râului",
+            "en": "Drive to the Riverbank"
+          },
+          "coords": [
+            -7.871,
+            42.342
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz in der Nähe der Ponte Vella, um den zweiten Teil des Tages zu beginnen.",
+            "hu": "Keressen parkolóhelyet a Ponte Vella közelében a nap második részének megkezdéséhez.",
+            "ro": "Găsiți un loc de parcare lângă Ponte Vella pentru a începe a doua parte a zilei.",
+            "en": "Find a parking spot near Ponte Vella to start the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Vella & Millennium-Brücke",
+            "hu": "Ponte Vella és Millennium híd",
+            "ro": "Ponte Vella & Podul Millennium",
+            "en": "Ponte Vella & Millennium Bridge"
+          },
+          "coords": [
+            -7.865,
+            42.3435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie von der alten römischen Brücke zur modernen Millennium-Brücke.",
+            "hu": "Sétáljon át a régi római hídtól a modern Millennium hídig.",
+            "ro": "Plimbați-vă de la vechiul pod roman la modernul Pod Millennium.",
+            "en": "Stroll from the old Roman bridge to the modern Millennium Bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Outariz",
+            "hu": "Outariz Termálfürdő",
+            "ro": "Băile termale Outariz",
+            "en": "Outariz Thermal Baths"
+          },
+          "coords": [
+            -7.915,
+            42.34
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie aus der Stadt hinaus, um den Nachmittag in den entspannenden Thermalbädern zu verbringen.",
+            "hu": "Hajtson ki a városból, hogy a délutánt a pihentető termálfürdőben töltse.",
+            "ro": "Conduceți în afara orașului pentru a petrece după-amiaza la băile termale relaxante.",
+            "en": "Drive out of the city to spend the afternoon at the relaxing thermal baths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, das Beste von Ourense zu kombinieren. Beginnen Sie mit einem Spaziergang durch die historische Altstadt, nachdem Sie Ihr Auto in der Nähe geparkt haben. Entdecken Sie die Plaza Mayor und die beeindruckenden Kirchen. Am Mittag fahren Sie zum Fluss Miño, um die berühmten Brücken zu Fuß zu erkunden. Der Höhepunkt des Tages ist die Fahrt zum Thermalbad Outariz, einem perfekten Ort, um am Nachmittag zu entspannen. Dies ist eine perfekte Mischung aus Kultur und Wellness.",
+        "hu": "Az autó szabadságot ad, hogy Ourense legjobbjait kombinálja. Kezdje egy sétával a történelmi óvárosban, miután leparkolt a közelben. Fedezze fel a Plaza Mayort és a lenyűgöző templomokat. Délben vezessen a Miño folyóhoz, hogy gyalog fedezze fel a híres hidakat. A nap fénypontja az utazás az Outariz termálfürdőbe, amely tökéletes hely a délutáni pihenéshez. Ez a kultúra és a wellness tökéletes keveréke.",
+        "ro": "Cu mașina, aveți libertatea de a combina tot ce este mai bun în Ourense. Începeți cu o plimbare prin centrul vechi istoric după ce ați parcat în apropiere. Descoperiți Plaza Mayor și bisericile impresionante. La prânz, conduceți la râul Miño pentru a explora faimoasele poduri pe jos. Punctul culminant al zilei este drumul către băile termale Outariz, un loc perfect pentru a vă relaxa după-amiaza. Acesta este un amestec perfect de cultură și wellness.",
+        "en": "With a car, you have the freedom to combine the best of Ourense. Start with a walk through the historic old town after parking nearby. Discover Plaza Mayor and the impressive churches. At midday, drive to the Miño River to explore the famous bridges on foot. The highlight of the day is the drive to the Outariz thermal baths, a perfect place to relax in the afternoon. This is a perfect blend of culture and wellness."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menü del Día",
+            "tip": "Suchen Sie nach Restaurants außerhalb des Zentrums, die ein günstiges Mittagsmenü anbieten."
+          },
+          {
+            "name": "Wein aus Ribeiro/Ribeira Sacra",
+            "tip": "Nutzen Sie das Auto, um eine Flasche Wein direkt von einem Weingut in der Nähe zu kaufen."
+          },
+          {
+            "name": "Casa do Pulpo",
+            "tip": "Etwas außerhalb des Zentrums, aber die Fahrt für den besten Oktopus der Stadt wert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen a központon kívüli éttermeket, amelyek olcsó ebédmenüt kínálnak."
+          },
+          {
+            "name": "Ribeiro/Ribeira Sacra bor",
+            "tip": "Használja ki az autót, és vegyen egy üveg bort közvetlenül egy közeli pincészetből."
+          },
+          {
+            "name": "Casa do Pulpo",
+            "tip": "Kicsit a központon kívül, de megéri az utat a város legjobb polipjáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante în afara centrului care oferă un meniu de prânz la preț redus."
+          },
+          {
+            "name": "Vin din Ribeiro/Ribeira Sacra",
+            "tip": "Folosiți mașina pentru a cumpăra o sticlă de vin direct de la o cramă din apropiere."
+          },
+          {
+            "name": "Casa do Pulpo",
+            "tip": "Puțin în afara centrului, dar merită drumul pentru cea mai bună caracatiță din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants outside the center that offer an inexpensive lunch menu."
+          },
+          {
+            "name": "Ribeiro/Ribeira Sacra Wine",
+            "tip": "Use the car to buy a bottle of wine directly from a nearby winery."
+          },
+          {
+            "name": "Casa do Pulpo",
+            "tip": "A bit outside the center, but worth the drive for the best octopus in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thermalbad Outariz",
+            "tip": "Der ultimative Ort für Entspannung und Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Miño",
+            "tip": "Parken Sie Ihr Auto und machen Sie einen ruhigen Spaziergang entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Montealegre",
+            "tip": "Eine kurze Fahrt für einen Panoramablick über die Stadt und das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Outariz Termálfürdő",
+            "tip": "A pihenés és a nyugalom legfőbb helyszíne.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Miño folyó partja",
+            "tip": "Parkolja le az autót, és tegyen egy csendes sétát a víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Montealegre kilátó",
+            "tip": "Rövid autóút a városra és a völgyre nyíló panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băile termale Outariz",
+            "tip": "Locul suprem pentru relaxare și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Miño",
+            "tip": "Parcați mașina și faceți o plimbare liniștită de-a lungul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere Montealegre",
+            "tip": "O scurtă călătorie cu mașina pentru o vedere panoramică asupra orașului și a văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Outariz Thermal Baths",
+            "tip": "The ultimate place for relaxation and tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Miño River",
+            "tip": "Park your car and take a quiet walk along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Montealegre Viewpoint",
+            "tip": "A short drive for a panoramic view over the city and valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Ponte Vella",
+            "tip": "Mit dem Auto leicht zu erreichen, bietet viele Parkplätze und Geschäfte."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Suchen Sie nach Schildern für 'Queixo' auf dem Land, um lokalen Käse zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponte Vella bevásárlóközpont",
+            "tip": "Autóval könnyen megközelíthető, rengeteg parkolóhellyel és üzlettel."
+          },
+          {
+            "name": "Helyi sajtüzemek",
+            "tip": "Keressen 'Queixo' táblákat vidéken, hogy helyi sajtot vásároljon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Ponte Vella",
+            "tip": "Ușor de accesat cu mașina, cu o mulțime de locuri de parcare și magazine."
+          },
+          {
+            "name": "Producători locali de brânză",
+            "tip": "Căutați semne cu 'Queixo' în zona rurală pentru a cumpăra brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ponte Vella Shopping Center",
+            "tip": "Easy to reach by car, with plenty of parking and shops."
+          },
+          {
+            "name": "Local Cheese Makers",
+            "tip": "Look for 'Queixo' signs in the countryside to buy local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt kann schwierig sein; nutzen Sie öffentliche Parkhäuser.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen in der Altstadt zu vermeiden.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, insbesondere in der Nähe von Schulen und in Wohngebieten.",
+          "Ein GPS ist unerlässlich, um sich in der Stadt und Umgebung zurechtzufinden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet; használja a nyilvános parkolóházakat.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje az egyirányú utcákat az óvárosban.",
+          "Ügyeljen a sebességkorlátozásokra, különösen iskolák közelében és lakóövezetekben.",
+          "GPS elengedhetetlen a városban és környékén való tájékozódáshoz.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă; folosiți parcările publice.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic din orașul vechi.",
+          "Fiți atenți la limitele de viteză, în special în apropierea școlilor și în zonele rezidențiale.",
+          "Un GPS este esențial pentru a naviga în oraș și în împrejurimi.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking downtown can be difficult; use public parking garages.",
+          "Plan your route in advance to avoid one-way streets in the old town.",
+          "Pay attention to speed limits, especially near schools and in residential areas.",
+          "A GPS is essential for navigating the city and its surroundings.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Haltestelle Parque de San Lázaro",
+            "hu": "Érkezés a Parque de San Lázaro megállóhoz",
+            "ro": "Sosire la stația Parque de San Lázaro",
+            "en": "Arrival at Parque de San Lázaro stop"
+          },
+          "coords": [
+            -7.863,
+            42.34
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein zentraler Knotenpunkt, von dem aus Sie die Erkundung beginnen können.",
+            "hu": "Központi csomópont, ahonnan elkezdheti a felfedezést.",
+            "ro": "Un nod central de unde puteți începe explorarea.",
+            "en": "A central hub from which to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor und Kathedrale",
+            "hu": "Plaza Mayor és Katedrális",
+            "ro": "Plaza Mayor și Catedrala",
+            "en": "Plaza Mayor and Cathedral"
+          },
+          "coords": [
+            -7.865,
+            42.336
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieser erste Cluster deckt das Herz der Altstadt ab. Nehmen Sie sich Zeit.",
+            "hu": "Ez az első klaszter az óváros szívét fedi le. Szánjon rá időt.",
+            "ro": "Acest prim cluster acoperă inima orașului vechi. Luați-vă timp.",
+            "en": "This first cluster covers the heart of the old town. Take your time."
+          }
+        },
+        {
+          "name": {
+            "de": "As Burgas",
+            "hu": "As Burgas hőforrások",
+            "ro": "Izvoarele termale As Burgas",
+            "en": "As Burgas Hot Springs"
+          },
+          "coords": [
+            -7.868,
+            42.335
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang von der Kathedrale entfernt, um die Thermalquellen zu sehen.",
+            "hu": "Csak egy rövid séta a katedrálistól a hőforrások megtekintéséhez.",
+            "ro": "La doar o scurtă plimbare de catedrală pentru a vedea izvoarele termale.",
+            "en": "Just a short walk from the cathedral to see the thermal springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zur Ponte Vella",
+            "hu": "Buszozás a Ponte Vellához",
+            "ro": "Călătorie cu autobuzul la Ponte Vella",
+            "en": "Bus ride to Ponte Vella"
+          },
+          "coords": [
+            -7.871,
+            42.342
+          ],
+          "category": "transport",
+          "arrive_at": "12:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um den Fluss zu überqueren und das nächste Cluster zu erreichen.",
+            "hu": "Menjen helyi busszal a folyón át a következő klaszter eléréséhez.",
+            "ro": "Luați un autobuz local pentru a traversa râul și a ajunge la următorul cluster.",
+            "en": "Take a local bus to cross the river and reach the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang über die Brücken",
+            "hu": "Séta a hidakon",
+            "ro": "Plimbare pe poduri",
+            "en": "Walk across the bridges"
+          },
+          "coords": [
+            -7.865,
+            42.3435
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom alten und neuen Wahrzeichen Ourenses.",
+            "hu": "Élvezze a kilátást Ourense régi és új jelképeiről.",
+            "ro": "Bucurați-vă de priveliștile de pe vechile și noile repere ale Ourensei.",
+            "en": "Enjoy the views from Ourense's old and new landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermal-Zug nach Outariz",
+            "hu": "Termálvonat Outarizba",
+            "ro": "Trenul termal spre Outariz",
+            "en": "Thermal Train to Outariz"
+          },
+          "coords": [
+            -7.915,
+            42.34
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den speziellen Touristenzug von der Plaza Mayor für eine malerische Fahrt zu den Bädern.",
+            "hu": "Menjen a különleges turista vonattal a Plaza Mayortól a festői útra a fürdőkhöz.",
+            "ro": "Luați trenul turistic special din Plaza Mayor pentru o călătorie pitorească la băi.",
+            "en": "Take the special tourist train from Plaza Mayor for a scenic ride to the baths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ourense bequem mit öffentlichen Verkehrsmitteln. Ihr Tag beginnt mit einem Spaziergang durch den ersten Cluster der Altstadt, der die Plaza Mayor und die Kathedrale umfasst. Nach dem Besuch der As Burgas-Quellen bringt Sie ein kurzer Bus Sie zum Flussufer. Hier erkunden Sie die Brücken zu Fuß. Den Nachmittag verbringen Sie in den Thermalbädern von Outariz, die Sie mit einem speziellen Touristenzug erreichen. Es ist eine stressfreie Möglichkeit, die wichtigsten Sehenswürdigkeiten der Stadt zu sehen.",
+        "hu": "Fedezze fel Ourense-t kényelmesen a tömegközlekedéssel. A nap egy sétával kezdődik az óváros első klaszterében, amely magában foglalja a Plaza Mayort és a katedrálist. Az As Burgas-források meglátogatása után egy rövid buszút elviszi a folyóparthoz. Itt gyalogosan fedezi fel a hidakat. A délutánt az Outariz termálfürdőben tölti, ahová egy különleges turista vonattal jut el. Ez egy stresszmentes módja a város főbb látnivalóinak megtekintésének.",
+        "ro": "Descoperiți Ourense confortabil cu transportul public. Ziua dvs. începe cu o plimbare prin primul cluster al orașului vechi, incluzând Plaza Mayor și Catedrala. După vizitarea izvoarelor As Burgas, o scurtă călătorie cu autobuzul vă duce la malul râului. Aici, explorați podurile pe jos. După-amiaza o veți petrece la băile termale Outariz, accesibile cu un tren turistic special. Este o modalitate fără stres de a vedea principalele atracții ale orașului.",
+        "en": "Discover Ourense comfortably using public transport. Your day starts with a walk through the first cluster of the old town, including Plaza Mayor and the Cathedral. After visiting the As Burgas springs, a short bus ride takes you to the riverbank. Here, you'll explore the bridges on foot. The afternoon is spent at the Outariz thermal baths, reached by a special tourist train. It's a stress-free way to see the city's main attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Ein schnelles und leckeres Sandwich, perfekt für unterwegs zwischen den Busfahrten."
+          },
+          {
+            "name": "Vino de Taza",
+            "tip": "Probieren Sie den lokalen Wein, der in traditionellen Keramikbechern serviert wird."
+          },
+          {
+            "name": "Tapas-Bars in der Rúa dos Viños",
+            "tip": "Ein Bereich, der mit öffentlichen Verkehrsmitteln leicht zu erreichen ist und eine große Auswahl an Tapas bietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillók",
+            "tip": "Gyors és finom szendvics, tökéletes útközben a buszozások között."
+          },
+          {
+            "name": "Vino de Taza",
+            "tip": "Kóstolja meg a helyi bort, amelyet hagyományos kerámiacsészékben szolgálnak fel."
+          },
+          {
+            "name": "Tapas bárok a Rúa dos Viños-on",
+            "tip": "Tömegközlekedéssel könnyen megközelíthető terület, ahol nagy a tapas választék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Un sandviș rapid și gustos, perfect pentru a fi luat la pachet între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Vino de Taza",
+            "tip": "Încercați vinul local servit în căni tradiționale de ceramică."
+          },
+          {
+            "name": "Baruri de tapas pe Rúa dos Viños",
+            "tip": "O zonă ușor accesibilă cu transportul public, cu o mare varietate de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "A quick and tasty sandwich, perfect for on-the-go between bus rides."
+          },
+          {
+            "name": "Vino de Taza",
+            "tip": "Try the local wine served in traditional ceramic cups."
+          },
+          {
+            "name": "Tapas bars on Rúa dos Viños",
+            "tip": "An area easily reachable by public transport with a great variety of tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thermalbad Outariz",
+            "tip": "Entfliehen Sie dem Stadtlärm und genießen Sie die Stille der Natur.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Busfahrt entlang des Miño",
+            "tip": "Schauen Sie aus dem Fenster und genießen Sie die vorbeiziehende Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustro de San Francisco",
+            "tip": "Ein ruhiger Ort, der vom Hauptbusknotenpunkt aus leicht zu Fuß erreichbar ist.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Outariz Termálfürdő",
+            "tip": "Meneküljön el a város zajától, és élvezze a természet csendjét.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszút a Miño mentén",
+            "tip": "Nézzen ki az ablakon, és élvezze az elsuhanó tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustro de San Francisco",
+            "tip": "Csendes hely, amely könnyen megközelíthető gyalog a fő buszpályaudvartól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băile termale Outariz",
+            "tip": "Evadați din zgomotul orașului și bucurați-vă de liniștea naturii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Călătorie cu autobuzul de-a lungul râului Miño",
+            "tip": "Priviți pe fereastră și bucurați-vă de peisajul care trece.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustro de San Francisco",
+            "tip": "Un loc liniștit, ușor accesibil pe jos de la autogara principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Outariz Thermal Baths",
+            "tip": "Escape the city noise and enjoy the tranquility of nature.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bus ride along the Miño",
+            "tip": "Look out the window and enjoy the passing scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustro de San Francisco",
+            "tip": "A quiet place easily walkable from the main bus hub.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa do Paseo",
+            "tip": "Die Haupteinkaufsstraße, leicht erreichbar von der Haltestelle Parque de San Lázaro."
+          },
+          {
+            "name": "Markt Praza de Abastos",
+            "tip": "Nehmen Sie einen Bus, um diesen lebhaften Markt zu besuchen und lokale Produkte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa do Paseo",
+            "tip": "A fő bevásárlóutca, könnyen megközelíthető a Parque de San Lázaro megállótól."
+          },
+          {
+            "name": "Praza de Abastos piac",
+            "tip": "Menjen busszal erre a nyüzsgő piacra, és vásároljon helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa do Paseo",
+            "tip": "Principala stradă comercială, ușor accesibilă de la stația Parque de San Lázaro."
+          },
+          {
+            "name": "Piața Praza de Abastos",
+            "tip": "Luați un autobuz pentru a vizita această piață plină de viață și pentru a cumpăra produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa do Paseo",
+            "tip": "The main shopping street, easily accessible from the Parque de San Lázaro stop."
+          },
+          {
+            "name": "Praza de Abastos Market",
+            "tip": "Take a bus to visit this lively market and buy local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte für günstigere Fahrten.",
+          "Laden Sie die lokale Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Der Thermal-Zug hat einen eigenen Fahrplan und eine eigene Haltestelle, informieren Sie sich im Voraus.",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen.",
+          "Planen Sie zusätzliche Zeit für mögliche Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát az olcsóbb utazásokhoz.",
+          "Töltse le a helyi buszalkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "A termálvonatnak saját menetrendje és megállója van, tájékozódjon előre.",
+          "Minden felszálláskor érvényesítse a jegyét.",
+          "Tervezzen plusz időt a megállókban való esetleges várakozásra."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil pentru călătorii mai ieftine.",
+          "Descărcați aplicația locală de autobuz pentru a vedea orarele și rutele în timp real.",
+          "Trenul termal are propriul său program și stație, verificați în avans.",
+          "Validați-vă întotdeauna biletul la urcare.",
+          "Planificați timp suplimentar pentru posibilele așteptări în stații."
+        ],
+        "en": [
+          "Buy a rechargeable bus card for cheaper fares.",
+          "Download the local bus app to see real-time schedules and routes.",
+          "The thermal train has its own schedule and stop, check in advance.",
+          "Always validate your ticket when you get on.",
+          "Plan for extra time for potential waits at the stops."
+        ]
+      }
+    }
+  }
+}

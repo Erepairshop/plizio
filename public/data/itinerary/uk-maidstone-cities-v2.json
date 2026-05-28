@@ -1,0 +1,1216 @@
+{
+  "city_id": "uk-maidstone-cities-v2",
+  "anchor": {
+    "name": "Maidstone",
+    "coords": [
+      0.521,
+      51.272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fremlin Walk Einkaufszentrum",
+            "hu": "Fremlin Walk bevásárlóközpont",
+            "ro": "Centrul Comercial Fremlin Walk",
+            "en": "Fremlin Walk Shopping Centre"
+          },
+          "coords": [
+            0.525,
+            51.273
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a számos kávézó egyikében!",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele.",
+            "en": "Start your day with a coffee at one of the many cafés here."
+          }
+        },
+        {
+          "name": {
+            "de": "Maidstone Museum",
+            "hu": "Maidstone Múzeum",
+            "ro": "Muzeul Maidstone",
+            "en": "Maidstone Museum"
+          },
+          "coords": [
+            0.528,
+            51.275
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die angelsächsische Sammlung.",
+            "hu": "Ne hagyja ki az angolszász gyűjteményt!",
+            "ro": "Nu ratați colecția anglo-saxonă.",
+            "en": "Don't miss the Anglo-Saxon collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopului",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            0.521,
+            51.278
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, direkt am Fluss Medway.",
+            "hu": "Remek fotóhelyszín a Medway folyó partján.",
+            "ro": "Un loc excelent pentru fotografii, chiar pe malul râului Medway.",
+            "en": "A great spot for photos, right by the River Medway."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Church",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            0.52,
+            51.278
+          ],
+          "category": "churches",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat!",
+            "ro": "Admirați vitraliile impresionante.",
+            "en": "Admire the impressive stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Medway",
+            "hu": "Séta a Medway folyó mentén",
+            "ro": "Plimbare pe malul râului Medway",
+            "en": "River Medway Walk"
+          },
+          "coords": [
+            0.518,
+            51.279
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke zum Whatman Park für eine andere Perspektive.",
+            "hu": "Menjen át a hídon a Whatman Parkba egy másik nézőpontért.",
+            "ro": "Traversați podul spre Parcul Whatman pentru o altă perspectivă.",
+            "en": "Cross the bridge to Whatman Park for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Whatman Park",
+            "hu": "Whatman Park",
+            "ro": "Parcul Whatman",
+            "en": "Whatman Park"
+          },
+          "coords": [
+            0.517,
+            51.28
+          ],
+          "category": "parks",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause und um die ruhige Atmosphäre zu genießen.",
+            "hu": "Ideális egy kis pihenésre és a csendes légkör élvezetére.",
+            "ro": "Ideal pentru o pauză și pentru a vă bucura de atmosfera liniștită.",
+            "en": "Ideal for a break and to enjoy the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Maidstone am Fremlin Walk. Am Vormittag tauchen Sie im Maidstone Museum in die lokale Geschichte ein. Nach dem Mittagessen erkunden Sie das historische Viertel mit dem Erzbischöflichen Palast und der All Saints Church. Am Nachmittag genießen Sie einen entspannten Spaziergang entlang des Flusses Medway, der Sie zum ruhigen Whatman Park führt, ein perfekter Abschluss für Ihren Erkundungstag.",
+        "hu": "Kezdje a napot Maidstone szívében, a Fremlin Walk-on. Délelőtt merüljön el a helyi történelemben a Maidstone Múzeumban. Ebéd után fedezze fel a történelmi negyedet az Érseki Palotával és a Mindenszentek templomával. Délután tegyen egy kellemes sétát a Medway folyó mentén, amely a csendes Whatman Parkba vezet, tökéletes lezárásaként a felfedezőútnak.",
+        "ro": "Începeți ziua în inima orașului Maidstone, la Fremlin Walk. Dimineața, scufundați-vă în istoria locală la Muzeul Maidstone. După prânz, explorați cartierul istoric cu Palatul Arhiepiscopului și Biserica All Saints. După-amiaza, bucurați-vă de o plimbare relaxantă de-a lungul râului Medway, care vă va conduce la liniștitul Parc Whatman, o încheiere perfectă a zilei de explorare.",
+        "en": "Start your day in the heart of Maidstone at Fremlin Walk. In the morning, delve into local history at the Maidstone Museum. After lunch, explore the historic quarter with the Archbishop's Palace and All Saints Church. In the afternoon, enjoy a leisurely stroll along the River Medway, leading you to the tranquil Whatman Park for a perfect end to your day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kentish Ale",
+            "tip": "Probieren Sie ein lokales Bier in einem der traditionellen Pubs wie dem 'Muggleton Inn'."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches britisches Gericht, das man am besten am Flussufer genießt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kenti sör",
+            "tip": "Kóstoljon meg egy helyi sört egy hagyományos pubban, mint a 'Muggleton Inn'."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus brit étel, amelyet a folyóparton a legjobb elfogyasztani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kentish Ale",
+            "tip": "Încercați o bere locală într-unul dintre pub-urile tradiționale, cum ar fi 'The Muggleton Inn'."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare britanic clasic, cel mai bine savurat pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kentish Ale",
+            "tip": "Try a local ale in one of the traditional pubs like 'The Muggleton Inn'."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic British dish, best enjoyed by the riverside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Fluss Medway",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der Rosengarten im Whatman Park",
+            "tip": "Ein duftender, friedlicher Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a Medway folyó partján",
+            "tip": "Keressen egy csendes padot, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rózsakert a Whatman Parkban",
+            "tip": "Illatos, békés hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile de pe malul râului Medway",
+            "tip": "Găsiți o bancă liniștită și priviți bărcile trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de trandafiri din Parcul Whatman",
+            "tip": "Un loc parfumat și pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches by the River Medway",
+            "tip": "Find a quiet bench and watch the boats go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Rose Garden in Whatman Park",
+            "tip": "A fragrant, peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Royal Star Arcade",
+            "tip": "Entdecken Sie unabhängige Boutiquen in dieser charmanten viktorianischen Arkade."
+          },
+          {
+            "name": "Maidstone Market",
+            "tip": "Suchen Sie nach lokalen Produkten und einzigartigen Funden (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Royal Star Arcade",
+            "tip": "Fedezze fel a független butikokat ebben a bájos viktoriánus árkádban."
+          },
+          {
+            "name": "Maidstone-i piac",
+            "tip": "Keressen helyi termékeket és egyedi leleteket (piaci napokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Royal Star Arcade",
+            "tip": "Descoperiți buticuri independente în această fermecătoare arcadă victoriană."
+          },
+          {
+            "name": "Piața Maidstone",
+            "tip": "Căutați produse locale și descoperiri unice (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Royal Star Arcade",
+            "tip": "Discover independent boutiques in this charming Victorian arcade."
+          },
+          {
+            "name": "Maidstone Market",
+            "tip": "Look for local produce and unique finds (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Ein Picknick im Whatman Park ist eine großartige Option für das Mittagessen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét.",
+          "Egy piknik a Whatman Parkban remek ebédlehetőség."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați orele de deschidere ale muzeului în avans.",
+          "Un picnic în Parcul Whatman este o opțiune excelentă pentru prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes as there is a fair amount of walking.",
+          "Check the museum's opening times in advance.",
+          "A picnic in Whatman Park is a great option for lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mote Park",
+            "hu": "Mote Park",
+            "ro": "Parcul Mote",
+            "en": "Mote Park"
+          },
+          "coords": [
+            0.545,
+            51.265
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Runde um den See.",
+            "hu": "Kezdje egy körrel a tó körül.",
+            "ro": "Începeți cu o tură în jurul lacului.",
+            "en": "Start with a loop around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Maidstone Museum",
+            "hu": "Maidstone Múzeum",
+            "ro": "Muzeul Maidstone",
+            "en": "Maidstone Museum"
+          },
+          "coords": [
+            0.528,
+            51.275
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
+            "en": "Lock your bike securely before entering the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopului",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            0.521,
+            51.278
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss vom Palastgelände aus.",
+            "hu": "Élvezze a folyóra nyíló kilátást a palota területéről.",
+            "ro": "Bucurați-vă de vederea spre râu de pe terenul palatului.",
+            "en": "Enjoy the river view from the palace grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Flussufer",
+            "hu": "Ebéd a folyóparton",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the riverside"
+          },
+          "coords": [
+            0.519,
+            51.279
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viele Cafés bieten Sitzgelegenheiten im Freien mit schöner Aussicht.",
+            "hu": "Számos kávézó kínál szabadtéri ülőhelyeket nagyszerű kilátással.",
+            "ro": "Multe cafenele oferă locuri în aer liber cu vederi frumoase.",
+            "en": "Many cafes offer outdoor seating with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Whatman Park",
+            "hu": "Whatman Park",
+            "ro": "Parcul Whatman",
+            "en": "Whatman Park"
+          },
+          "coords": [
+            0.517,
+            51.28
+          ],
+          "category": "parks",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Flussuferwegs für eine malerische Route.",
+            "hu": "Kerékpározzon a folyóparti ösvényen a festői útvonalért.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul potecii de pe malul râului pentru un traseu pitoresc.",
+            "en": "Cycle along the riverside path for a scenic route."
+          }
+        },
+        {
+          "name": {
+            "de": "Kent Life",
+            "hu": "Kent Life",
+            "ro": "Kent Life",
+            "en": "Kent Life"
+          },
+          "coords": [
+            0.52,
+            51.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Dorf und treffen Sie die Bauernhoftiere.",
+            "hu": "Fedezze fel a történelmi falut és találkozzon a farm állataival.",
+            "ro": "Explorați satul istoric și întâlniți animalele de la fermă.",
+            "en": "Explore the historic village and meet the farm animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im weitläufigen Mote Park. Am Vormittag fahren Sie ins Stadtzentrum, um das Maidstone Museum zu besuchen. Nach dem Mittagessen am malerischen Flussufer erkunden Sie den Erzbischöflichen Palast. Am Nachmittag folgen Sie dem Flussradweg zum Whatman Park und weiter nach Norden zum Freilichtmuseum Kent Life, das einen Einblick in die ländliche Vergangenheit von Kent bietet.",
+        "hu": "Kezdje a kerékpáros napot a tágas Mote Parkban. Délelőtt tekerjen be a városközpontba a Maidstone Múzeumhoz. Ebéd után a festői folyóparton, fedezze fel az Érseki Palotát. Délután kövesse a folyó menti kerékpárutat a Whatman Parkhoz, majd tovább északra a Kent Life skanzenbe, amely bepillantást nyújt Kent vidéki múltjába.",
+        "ro": "Începeți ziua de ciclism în vastul Parc Mote. Dimineața, pedalați spre centrul orașului pentru a vizita Muzeul Maidstone. După prânzul pe malul pitoresc al râului, explorați Palatul Arhiepiscopului. După-amiaza, urmați pista de biciclete de pe malul râului spre Parcul Whatman și continuați spre nord până la Kent Life, un muzeu în aer liber ce oferă o privire asupra trecutului rural al comitatului Kent.",
+        "en": "Kick off your cycling day in the expansive Mote Park. In the morning, pedal into the town centre to visit the Maidstone Museum. After lunch by the scenic riverside, explore the Archbishop's Palace. In the afternoon, follow the river cycle path to Whatman Park and continue north to the Kent Life open-air museum, offering a glimpse into Kent's rural past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dotty Tattler",
+            "tip": "Ein skurriles Café, ideal für einen leichten Lunch oder Kuchen."
+          },
+          {
+            "name": "Pub am Fluss",
+            "tip": "Genießen Sie ein herzhaftes Mittagessen mit Blick auf den Medway."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dotty Tattler",
+            "tip": "Különös kávézó, ideális egy könnyű ebédhez vagy süteményhez."
+          },
+          {
+            "name": "Pub a folyóparton",
+            "tip": "Fogyasszon el egy kiadós ebédet a Medway-re néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dotty Tattler",
+            "tip": "O cafenea ciudată, perfectă pentru un prânz ușor sau o prăjitură."
+          },
+          {
+            "name": "Pub pe malul râului",
+            "tip": "Bucurați-vă de un prânz copios cu vedere la râul Medway."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dotty Tattler",
+            "tip": "A quirky cafe perfect for a light lunch or cake."
+          },
+          {
+            "name": "Riverside Pub",
+            "tip": "Enjoy a hearty pub lunch with views of the Medway."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Mote Park",
+            "tip": "Ein ruhiger Ort, um den Tag zu beginnen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cobtree Manor Park",
+            "tip": "Ein etwas weiterer, aber lohnenswerter Radweg für Ruhe und Frieden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart a Mote Parkban",
+            "tip": "Csendes hely a nap kezdéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cobtree Manor Park",
+            "tip": "Kicsit messzebb van, de megéri a kerékpárutat a csendért és a békéért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Mote Park",
+            "tip": "Un loc liniștit pentru a începe ziua.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Cobtree Manor",
+            "tip": "O plimbare cu bicicleta puțin mai lungă, dar care merită pentru liniște și pace.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside in Mote Park",
+            "tip": "A tranquil spot to start the day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cobtree Manor Park",
+            "tip": "A slightly further cycle, but worth it for peace and quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "An Markttagen finden Sie hier lokale Leckereien und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Piaci napokon helyi finomságokat és kézműves termékeket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Găsiți bunătăți locale și produse artizanale în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Find local treats and crafts on market days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein Schloss für Ihr Fahrrad mit.",
+          "Der Flussuferweg ist flach und für die meisten Radfahrer geeignet.",
+          "Planen Sie zusätzliche Zeit für unvorhergesehene Stopps ein."
+        ],
+        "hu": [
+          "Hozzon magával egy lakatot a kerékpárjához.",
+          "A folyóparti út sík és a legtöbb kerékpáros számára alkalmas.",
+          "Tervezzen plusz időt a nem tervezett megállókra."
+        ],
+        "ro": [
+          "Aduceți un lacăt pentru bicicletă.",
+          "Calea de pe malul râului este plată și potrivită pentru majoritatea bicicliștilor.",
+          "Planificați timp suplimentar pentru opriri neașteptate."
+        ],
+        "en": [
+          "Bring a lock for your bike.",
+          "The riverside path is flat and suitable for most abilities.",
+          "Plan extra time for spontaneous stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leeds Castle",
+            "hu": "Leeds kastély",
+            "ro": "Castelul Leeds",
+            "en": "Leeds Castle"
+          },
+          "coords": [
+            0.629,
+            51.249
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Menschenmassen zu vermeiden und die Gärten in Ruhe zu genießen.",
+            "hu": "Érkezzen korán, hogy elkerülje a tömeget és békében élvezhesse a kerteket.",
+            "ro": "Ajungeți devreme pentru a evita mulțimile și a vă bucura de grădini în liniște.",
+            "en": "Arrive early to beat the crowds and enjoy the gardens in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einem Landpub",
+            "hu": "Ebéd egy vidéki pubban",
+            "ro": "Prânz la un pub rural",
+            "en": "Lunch at a Country Pub"
+          },
+          "coords": [
+            0.601,
+            51.255
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Suchen Sie ein Pub in der Nähe des Schlosses für ein authentisches Erlebnis.",
+            "hu": "Keressen egy pubot a kastély közelében az autentikus élményért.",
+            "ro": "Căutați un pub lângă castel pentru o experiență autentică.",
+            "en": "Find a pub near the castle for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in der Innenstadt von Maidstone",
+            "hu": "Parkolás Maidstone központjában",
+            "ro": "Parcare în centrul orașului Maidstone",
+            "en": "Park in Maidstone Town Centre"
+          },
+          "coords": [
+            0.526,
+            51.271
+          ],
+          "category": "transport",
+          "arrive_at": "14:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto und erkunden Sie den Rest der Stadt zu Fuß.",
+            "hu": "Parkolja le az autót, és fedezze fel a város többi részét gyalog.",
+            "ro": "Parcați mașina și explorați restul orașului pe jos.",
+            "en": "Park your car and explore the rest of the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast",
+            "hu": "Érseki palota",
+            "ro": "Palatul Arhiepiscopului",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            0.521,
+            51.278
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus aus.",
+            "hu": "Rövid séta a parkolóból.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "All Saints Church",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica All Saints",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            0.52,
+            51.278
+          ],
+          "category": "churches",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Palast, ein einfaches Hinzufügen zu Ihrem Spaziergang.",
+            "hu": "Közvetlenül a palota mellett, egyszerűen hozzáadható a sétához.",
+            "ro": "Chiar lângă palat, o adăugare ușoară la plimbarea dvs.",
+            "en": "Right next to the palace, an easy addition to your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mote Park",
+            "hu": "Mote Park",
+            "ro": "Parcul Mote",
+            "en": "Mote Park"
+          },
+          "coords": [
+            0.545,
+            51.265
+          ],
+          "category": "parks",
+          "arrive_at": "16:25",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag bei einem Spaziergang um den See ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy tóparti sétával.",
+            "ro": "Un loc perfect pentru a încheia ziua cu o plimbare în jurul lacului.",
+            "en": "A perfect place to end the day with a walk around the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto zum prächtigen Leeds Castle, dem Juwel von Kent. Verbringen Sie den Vormittag damit, das Schloss und seine Gärten zu erkunden. Fahren Sie nach dem Mittagessen in einem nahegelegenen Landpub ins Zentrum von Maidstone. Parken Sie Ihr Auto und machen Sie einen Spaziergang, um das historische Flussufer mit dem Erzbischöflichen Palast und der All Saints Church zu sehen. Beenden Sie Ihren Tag mit einer kurzen Fahrt zum Mote Park für einen entspannten Spaziergang.",
+        "hu": "Kezdje a napot egy autós kirándulással a csodálatos Leeds kastélyhoz, Kent ékkövéhez. Töltse a délelőttöt a kastély és a kertek felfedezésével. Ebéd után egy közeli vidéki pubban, vezessen be Maidstone központjába. Parkolja le az autót, és sétáljon egyet, hogy megnézze a történelmi folyópartot az Érseki Palotával és a Mindenszentek templomával. A napot egy rövid autózással fejezze be a Mote Parkba egy pihentető sétáért.",
+        "ro": "Începeți ziua conducând la magnificul Castel Leeds, bijuteria comitatului Kent. Petreceți-vă dimineața explorând castelul și grădinile sale. După prânz la un pub rural din apropiere, conduceți în centrul orașului Maidstone. Parcați mașina și faceți o plimbare pentru a vedea malul istoric al râului cu Palatul Arhiepiscopului și Biserica All Saints. Încheiați ziua cu o scurtă călătorie cu mașina până la Parcul Mote pentru o plimbare relaxantă.",
+        "en": "Start your day by driving to the magnificent Leeds Castle, the jewel of Kent. Spend your morning exploring the castle and its grounds. After lunch at a nearby country pub, drive into Maidstone's centre. Park your car and take a walking cluster to see the historic riverside, including the Archbishop's Palace and All Saints Church. Finish your day with a short drive to Mote Park for a relaxing stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Dirty Habit, Hollingbourne",
+            "tip": "Ein historisches Pub in der Nähe von Leeds Castle mit ausgezeichnetem Essen."
+          },
+          {
+            "name": "Frederic's",
+            "tip": "Ein gehobenes Bistro in der Innenstadt von Maidstone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Dirty Habit, Hollingbourne",
+            "tip": "Történelmi pub a Leeds kastély közelében, kiváló ételekkel."
+          },
+          {
+            "name": "Frederic's",
+            "tip": "Kifinomult bisztró Maidstone központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Dirty Habit, Hollingbourne",
+            "tip": "Un pub istoric aproape de Castelul Leeds cu mâncare excelentă."
+          },
+          {
+            "name": "Frederic's",
+            "tip": "Un bistro elegant în centrul orașului Maidstone."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Dirty Habit, Hollingbourne",
+            "tip": "A historic pub near Leeds Castle with excellent food."
+          },
+          {
+            "name": "Frederic's",
+            "tip": "An upmarket bistro in Maidstone town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten von Leeds Castle",
+            "tip": "Finden Sie einen ruhigen Platz abseits der Hauptwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "White Horse Wood Country Park",
+            "tip": "Eine kurze Autofahrt für einen Panoramablick über Kent.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Leeds kastély kertjei",
+            "tip": "Keressen egy csendes helyet a fő ösvényektől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "White Horse Wood Country Park",
+            "tip": "Rövid autóút Kent panorámás kilátásáért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Leeds",
+            "tip": "Găsiți un loc liniștit departe de căile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Național White Horse Wood",
+            "tip": "O scurtă călătorie cu mașina pentru vederi panoramice ale comitatului Kent.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leeds Castle Gardens",
+            "tip": "Find a quiet spot away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "White Horse Wood Country Park",
+            "tip": "A short drive for panoramic views over Kent.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen im Leeds Castle",
+            "tip": "Einzigartige Souvenirs und Geschenke im Zusammenhang mit dem Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Leeds kastély ajándékboltja",
+            "tip": "Egyedi szuvenírek és ajándékok a kastélyhoz kapcsolódóan."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al Castelului Leeds",
+            "tip": "Suveniruri și cadouri unice legate de castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leeds Castle Gift Shop",
+            "tip": "Unique souvenirs and gifts related to the castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für Leeds Castle online im Voraus, um Geld zu sparen.",
+          "Parken in der Innenstadt kann teuer sein; nutzen Sie ausgewiesene Langzeitparkplätze.",
+          "Überprüfen Sie den Verkehr, besonders auf der M20, bevor Sie losfahren."
+        ],
+        "hu": [
+          "Foglaljon jegyet a Leeds kastélyba online előre, hogy pénzt takarítson meg.",
+          "A belvárosi parkolás drága lehet; használja a kijelölt hosszú távú parkolókat.",
+          "Indulás előtt ellenőrizze a forgalmat, különösen az M20-ason."
+        ],
+        "ro": [
+          "Rezervați biletele la Castelul Leeds online în avans pentru a economisi bani.",
+          "Parcarea în centrul orașului poate fi costisitoare; utilizați parcările desemnate pentru lungă durată.",
+          "Verificați traficul, în special pe M20, înainte de a porni la drum."
+        ],
+        "en": [
+          "Book Leeds Castle tickets online in advance to save money.",
+          "Town centre parking can be expensive; use designated long-stay car parks.",
+          "Check for traffic, especially on the M20, before setting off."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Maidstone East",
+            "hu": "Érkezés a Maidstone East állomásra",
+            "ro": "Sosire la stația Maidstone East",
+            "en": "Arrive at Maidstone East Station"
+          },
+          "coords": [
+            0.528,
+            51.274
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um Ihren Tagesplan zu überprüfen.",
+            "hu": "Szánjon egy percet a napi terv áttekintésére.",
+            "ro": "Luați-vă un moment pentru a vă revizui planul pentru ziua respectivă.",
+            "en": "Take a moment to review your plan for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Maidstone Museum",
+            "hu": "Maidstone Múzeum",
+            "ro": "Muzeul Maidstone",
+            "en": "Maidstone Museum"
+          },
+          "coords": [
+            0.528,
+            51.275
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Bahnhof entfernt, ein idealer erster Halt.",
+            "hu": "Csak egy rövid sétára az állomástól, ideális első megálló.",
+            "ro": "La o scurtă plimbare de gară, o primă oprire ideală.",
+            "en": "Just a short walk from the station, an ideal first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischöflicher Palast & All Saints Church",
+            "hu": "Érseki Palota és Mindenszentek temploma",
+            "ro": "Palatul Arhiepiscopului și Biserica All Saints",
+            "en": "Archbishop's Palace & All Saints Church"
+          },
+          "coords": [
+            0.521,
+            51.278
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie beide historischen Stätten zusammen.",
+            "hu": "Fedezze fel mindkét történelmi helyszínt együtt.",
+            "ro": "Explorați ambele situri istorice împreună.",
+            "en": "Explore both of these historic sites together."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Mote Park",
+            "hu": "Busz a Mote Parkba",
+            "ro": "Autobuz spre Parcul Mote",
+            "en": "Bus to Mote Park"
+          },
+          "coords": [
+            0.525,
+            51.274
+          ],
+          "category": "transport",
+          "arrive_at": "12:50",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum zum Haupteingang des Parks.",
+            "hu": "Menjen busszal a városközpontból a park főbejáratához.",
+            "ro": "Luați un autobuz din centrul orașului până la intrarea principală a parcului.",
+            "en": "Catch a bus from the town centre to the park's main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mote Park & Mittagessen",
+            "hu": "Mote Park és ebéd",
+            "ro": "Parcul Mote și prânzul",
+            "en": "Mote Park & Lunch"
+          },
+          "coords": [
+            0.545,
+            51.265
+          ],
+          "category": "parks",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang und essen Sie im Parkcafé zu Mittag.",
+            "hu": "Sétáljon egyet, és ebédeljen a park kávézójában.",
+            "ro": "Bucurați-vă de o plimbare și luați prânzul la cafeneaua din parc.",
+            "en": "Enjoy a walk and have lunch at the park's cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Kent Life",
+            "hu": "Busz a Kent Life-hoz",
+            "ro": "Autobuz spre Kent Life",
+            "en": "Bus to Kent Life"
+          },
+          "coords": [
+            0.52,
+            51.295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 115,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Für diese Reise ist möglicherweise ein Buswechsel im Zentrum erforderlich.",
+            "hu": "Ehhez az utazáshoz valószínűleg át kell szállni a központban.",
+            "ro": "Această călătorie poate necesita o schimbare de autobuz în centru.",
+            "en": "This journey might require a bus change in the centre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof Maidstone East und gehen Sie zum Maidstone Museum. Dieser Spaziergang führt Sie am historischen Kern der Stadt vorbei. Nach der Erkundung nehmen Sie einen Bus zum weitläufigen Mote Park für einen Mittagsspaziergang und eine Pause. Am Nachmittag bringt Sie eine weitere Busfahrt zum Kent Life, wo Sie in die ländliche Geschichte eintauchen können, bevor Sie ins Zentrum zurückkehren.",
+        "hu": "Kezdje a Maidstone East állomáson, és sétáljon el a Maidstone Múzeumhoz. Ez a séta elvezeti a város történelmi magja mellett. A felfedezés után buszozzon el a tágas Mote Parkba egy déli sétára és pihenőre. Délután egy másik buszjárattal juthat el a Kent Life-ba, hogy elmerüljön a vidéki történelemben, mielőtt visszatérne a központba.",
+        "ro": "Începeți la stația Maidstone East și mergeți pe jos până la Muzeul Maidstone, o plimbare care vă va purta prin nucleul istoric al orașului. După explorare, luați un autobuz spre vastul Parc Mote pentru o plimbare și o pauză de prânz. După-amiaza, o altă călătorie cu autobuzul vă va duce la Kent Life pentru o imersiune în istoria rurală, înainte de a vă întoarce în centru.",
+        "en": "Start at Maidstone East station and walk to the Maidstone Museum, forming a walking cluster through the town's historic core. After exploring, take a bus to the vast Mote Park for a midday walk and break. In the afternoon, another transit hop takes you to Kent Life for an immersion in rural history before heading back to the centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Mote Park",
+            "tip": "Bietet Erfrischungen und leichte Mahlzeiten mit Blick auf den See."
+          },
+          {
+            "name": "The Brenchley",
+            "tip": "Ein geräumiger Pub im Stadtzentrum, praktisch für eine Mahlzeit vor oder nach der Besichtigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mote Park Café",
+            "tip": "Frissítőket és könnyű ételeket kínál tóra néző kilátással."
+          },
+          {
+            "name": "The Brenchley",
+            "tip": "Tágas pub a városközpontban, kényelmes egy városnézés előtti vagy utáni étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua din Parcul Mote",
+            "tip": "Oferă băuturi răcoritoare și mese ușoare cu vedere la lac."
+          },
+          {
+            "name": "The Brenchley",
+            "tip": "Un pub spațios din centrul orașului, convenabil pentru o masă înainte sau după vizitarea obiectivelor turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mote Park Cafe",
+            "tip": "Offers refreshments and light meals with a view of the lake."
+          },
+          {
+            "name": "The Brenchley",
+            "tip": "A spacious pub in the town centre, convenient for a pre or post-sightseeing meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Faith's Friedhof",
+            "tip": "Ein überraschend ruhiger und historischer Ort in der Nähe des Mote Parks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Flusses Medway",
+            "tip": "Finden Sie einen ruhigen Platz abseits des Hauptweges.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St. Faith's temető",
+            "tip": "Meglepően csendes és történelmi hely a Mote Park közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Medway folyó partja",
+            "tip": "Keressen egy csendes helyet a fő ösvénytől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul St. Faith's",
+            "tip": "Un loc surprinzător de liniștit și istoric lângă Parcul Mote.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile râului Medway",
+            "tip": "Găsiți un loc liniștit departe de calea principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Faith's Cemetery",
+            "tip": "A surprisingly peaceful and historic spot near Mote Park.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the River Medway",
+            "tip": "Find a quiet spot away from the main path.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fremlin Walk",
+            "tip": "Die wichtigste Einkaufsdestination mit einer Mischung aus bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fremlin Walk",
+            "tip": "A fő bevásárlóhely, ahol a legismertebb márkák keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fremlin Walk",
+            "tip": "Principala destinație de cumpărături, cu un amestec de mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fremlin Walk",
+            "tip": "The main shopping destination with a mix of high-street brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Laden Sie eine lokale Bus-App herunter, um Fahrpläne in Echtzeit zu verfolgen.",
+          "Überprüfen Sie die Zeiten des letzten Busses zurück ins Zentrum, besonders von Kent Life."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek követéséhez.",
+          "Ellenőrizze az utolsó buszok idejét vissza a központba, különösen a Kent Life-ból."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele în timp real.",
+          "Verificați orele ultimelor autobuze spre centru, în special de la Kent Life."
+        ],
+        "en": [
+          "Buy a day-rider bus ticket if you plan on making multiple journeys.",
+          "Download a local bus app to track real-time schedules.",
+          "Check the times of the last buses back to the centre, especially from Kent Life."
+        ]
+      }
+    }
+  }
+}

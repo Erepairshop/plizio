@@ -1,0 +1,1580 @@
+{
+  "city_id": "switzerland-kreuzlingen-cities-v2",
+  "anchor": {
+    "name": "Kreuzlingen",
+    "coords": [
+      9.176,
+      47.645
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika St. Ulrich",
+            "hu": "Szent Ulrik-bazilika",
+            "ro": "Bazilica Sf. Ulrich",
+            "en": "St. Ulrich Basilica"
+          },
+          "coords": [
+            9.173,
+            47.646
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Deckenfresken und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a lenyűgöző mennyezeti freskókat és a békés légkört.",
+            "ro": "Observați frescele impresionante de pe tavan și atmosfera liniștită.",
+            "en": "Note the impressive ceiling frescoes and the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosenegg",
+            "hu": "Rosenegg Múzeum",
+            "ro": "Muzeul Rosenegg",
+            "en": "Rosenegg Museum"
+          },
+          "coords": [
+            9.175,
+            47.644
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein; das Puppenhaus ist ein Highlight.",
+            "hu": "Merüljön el a helyi történelemben; a babaház kiemelkedő látnivaló.",
+            "ro": "Pătrundeți în istoria locală; casa de păpuși este un punct de atracție.",
+            "en": "Immerse yourself in local history; the dollhouse is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeburgpark",
+            "hu": "Seeburgpark",
+            "ro": "Parcul Seeburg",
+            "en": "Seeburg Park"
+          },
+          "coords": [
+            9.184,
+            47.648
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagspicknick mit Blick auf den Bodensee.",
+            "hu": "Tökéletes egy ebédpiknikhez a Boden-tóra néző kilátással.",
+            "ro": "Perfect pentru un picnic la prânz cu vedere la Lacul Constanța.",
+            "en": "Perfect for a lunch picnic overlooking Lake Constance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Seeburg",
+            "hu": "Seeburg-kastély",
+            "ro": "Castelul Seeburg",
+            "en": "Seeburg Castle"
+          },
+          "coords": [
+            9.185,
+            47.649
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Innenhof des Schlosses ist frei zugänglich und sehr fotogen.",
+            "hu": "A kastély udvara szabadon látogatható és nagyon fotogén.",
+            "ro": "Curtea castelului este liber accesibilă și foarte fotogenică.",
+            "en": "The castle courtyard is freely accessible and very photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Kreuzlingen",
+            "hu": "Kreuzlingeni kikötő",
+            "ro": "Portul Kreuzlingen",
+            "en": "Kreuzlingen Harbour"
+          },
+          "coords": [
+            9.188,
+            47.65
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie die ein- und ausfahrenden Schiffe – ein beruhigender Anblick.",
+            "hu": "Nézze a be- és kifutó hajókat – megnyugtató látvány.",
+            "ro": "Urmăriți vapoarele care intră și ies din port - o priveliște liniștitoare.",
+            "en": "Watch the boats coming in and out - a calming sight."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodensee-Promenade",
+            "hu": "Boden-tavi sétány",
+            "ro": "Promenada Lacului Constanța",
+            "en": "Lake Constance Promenade"
+          },
+          "coords": [
+            9.191,
+            47.651
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Eis von einer der lokalen Eisdielen versüßt den Spaziergang.",
+            "hu": "Egy fagylalt a helyi fagyizók egyikéből megédesíti a sétát.",
+            "ro": "O înghețată de la una dintre gelateriile locale face plimbarea mai dulce.",
+            "en": "An ice cream from one of the local parlors sweetens the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Kreuzlingen",
+            "hu": "Kreuzlingeni Planetárium",
+            "ro": "Planetariul din Kreuzlingen",
+            "en": "Kreuzlingen Planetarium"
+          },
+          "coords": [
+            9.17,
+            47.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm im Voraus für englischsprachige Vorführungen.",
+            "hu": "Ellenőrizze előre a programot az angol nyelvű előadásokért.",
+            "ro": "Verificați programul în avans pentru spectacole în limba engleză.",
+            "en": "Check the schedule in advance for shows in English."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit spiritueller Ruhe in der Basilika St. Ulrich, bevor Sie im Museum Rosenegg in die Stadtgeschichte eintauchen. Am Mittag lockt der Seeburgpark mit seinem grünen Ufer für eine entspannte Pause. Der Nachmittag gehört dem Wasser: Erkunden Sie das historische Schloss Seeburg, beobachten Sie das Treiben am Hafen und schlendern Sie die belebte Bodensee-Promenade entlang. Den Abschluss bildet eine Reise zu den Sternen im Planetarium, ein kosmischer Ausklang eines erdverbundenen Tages am See.",
+        "hu": "Kezdje a napot spirituális nyugalommal a Szent Ulrik-bazilikában, mielőtt elmerülne a város történelmében a Rosenegg Múzeumban. Délben a Seeburgpark zöld partjaival csábít egy pihentető szünetre. A délután a vízé: fedezze fel a történelmi Seeburg-kastélyt, figyelje a kikötő nyüzsgését, és sétáljon végig a nyüzsgő Boden-tavi sétányon. A napot egy utazás zárja a csillagok közé a planetáriumban, egy kozmikus befejezése egy földi napnak a tó partján.",
+        "ro": "Începeți-vă ziua cu liniște spirituală la Bazilica Sf. Ulrich, înainte de a vă cufunda în istoria orașului la Muzeul Rosenegg. La prânz, parcul Seeburg vă atrage cu malurile sale verzi pentru o pauză relaxantă. După-amiaza este dedicată apei: explorați istoricul Castel Seeburg, priviți agitația din port și plimbați-vă de-a lungul animatei promenade a Lacului Constanța. Ziua se încheie cu o călătorie spre stele la Planetariu, un final cosmic pentru o zi pământească pe malul lacului.",
+        "en": "Start your day with spiritual tranquility at St. Ulrich Basilica before delving into city history at the Rosenegg Museum. At midday, Seeburg Park beckons with its green shores for a relaxing break. The afternoon is all about water: explore the historic Seeburg Castle, watch the activity at the harbor, and stroll along the lively Lake Constance Promenade. The day concludes with a journey to the stars at the Planetarium, a cosmic end to an earthbound day by the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischknusperli",
+            "tip": "Frittierte Fischstücke aus dem Bodensee, ideal als Snack am Hafen."
+          },
+          {
+            "name": "Restaurant Schloss Seeburg",
+            "tip": "Gehobene Küche mit fantastischem Seeblick."
+          },
+          {
+            "name": "Besmer",
+            "tip": "Gemütliches Café für Kaffee und Kuchen nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fischknusperli",
+            "tip": "Sült haldarabkák a Boden-tóból, ideális harapnivaló a kikötőben."
+          },
+          {
+            "name": "Restaurant Schloss Seeburg",
+            "tip": "Elegáns konyha fantasztikus kilátással a tóra."
+          },
+          {
+            "name": "Besmer",
+            "tip": "Hangulatos kávézó egy kávéra és süteményre a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fischknusperli",
+            "tip": "Bucățele de pește prăjit din Lacul Constanța, ideale ca gustare în port."
+          },
+          {
+            "name": "Restaurant Schloss Seeburg",
+            "tip": "Bucătărie rafinată cu o priveliște fantastică la lac."
+          },
+          {
+            "name": "Besmer",
+            "tip": "Cafenea primitoare pentru o cafea și o prăjitură după vizita la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fischknusperli",
+            "tip": "Fried fish pieces from Lake Constance, ideal as a snack at the harbor."
+          },
+          {
+            "name": "Restaurant Schloss Seeburg",
+            "tip": "Upscale dining with a fantastic lake view."
+          },
+          {
+            "name": "Besmer",
+            "tip": "Cozy café for coffee and cake after the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilkräutergarten im Seeburgpark",
+            "tip": "Ein ruhiger, duftender Bereich abseits der Hauptwege.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Uferbänke am westlichen Ende der Promenade",
+            "tip": "Weniger frequentiert, perfekt, um die Enten zu beobachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Innenhof der Basilika",
+            "tip": "Eine Oase der Stille mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövénykert a Seeburgparkban",
+            "tip": "Csendes, illatos terület a fő utaktól távolabb.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Padok a sétány nyugati végén",
+            "tip": "Kevésbé látogatott, tökéletes a kacsák megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bazilika belső udvara",
+            "tip": "A csend oázisa a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cu plante medicinale din Parcul Seeburg",
+            "tip": "O zonă liniștită și parfumată, departe de aleile principale.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Băncile de pe mal la capătul vestic al promenadei",
+            "tip": "Mai puțin aglomerat, perfect pentru a privi rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea interioară a bazilicii",
+            "tip": "O oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herb Garden in Seeburg Park",
+            "tip": "A quiet, fragrant area away from the main paths.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Benches at the western end of the promenade",
+            "tip": "Less frequented, perfect for watching the ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of the Basilica",
+            "tip": "An oasis of silence in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Dienstag & Freitag)",
+            "tip": "Finden Sie lokale Produkte und Schweizer Käse auf dem Boulevard."
+          },
+          {
+            "name": "Hauptstrasse",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (kedden és pénteken)",
+            "tip": "Találjon helyi termékeket és svájci sajtot a Boulevardon."
+          },
+          {
+            "name": "Hauptstrasse",
+            "tip": "A fő bevásárlóutca butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (marți și vineri)",
+            "tip": "Găsiți produse locale și brânză elvețiană pe bulevard."
+          },
+          {
+            "name": "Hauptstrasse",
+            "tip": "Strada principală de cumpărături cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Tuesday & Friday)",
+            "tip": "Find local produce and Swiss cheese on the Boulevard."
+          },
+          {
+            "name": "Hauptstrasse",
+            "tip": "The main shopping street with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist praktisch; es gibt mehrere öffentliche Brunnen.",
+          "Ein kleiner Rucksack ist ideal für Snacks, Wasser und eventuelle Souvenirs.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újrafelhasználható vizes palack praktikus; több nyilvános kút is van.",
+          "Egy kis hátizsák ideális rágcsálnivalóknak, víznek és esetleges szuveníreknek.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi pe picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este practică; există mai multe fântâni publice.",
+          "Un rucsac mic este ideal pentru gustări, apă și eventuale suveniruri.",
+          "Verificați orele de deschidere ale muzeelor, deoarece acestea pot varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A reusable water bottle is practical; there are several public fountains.",
+          "A small backpack is ideal for snacks, water, and any souvenirs.",
+          "Check the opening hours of the museums as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dreispitz",
+            "hu": "Dreispitz",
+            "ro": "Dreispitz",
+            "en": "Dreispitz"
+          },
+          "coords": [
+            9.165,
+            47.642
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kultureller Hotspot im Süden der Stadt, idealer Ausgangspunkt.",
+            "hu": "Kulturális központ a város déli részén, ideális kiindulópont.",
+            "ro": "Punct fierbinte cultural în sudul orașului, punct de plecare ideal.",
+            "en": "Cultural hotspot in the south of the city, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Ulrich",
+            "hu": "Szent Ulrik-bazilika",
+            "ro": "Bazilica Sf. Ulrich",
+            "en": "St. Ulrich Basilica"
+          },
+          "coords": [
+            9.173,
+            47.646
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Stille im Inneren genießen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt élvezné a benti csendet.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a vă bucura de liniștea din interior.",
+            "en": "Lock your bike securely before enjoying the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosenegg",
+            "hu": "Rosenegg Múzeum",
+            "ro": "Muzeul Rosenegg",
+            "en": "Rosenegg Museum"
+          },
+          "coords": [
+            9.175,
+            47.644
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die bürgerliche Wohnkultur der Region.",
+            "hu": "Mély betekintés a régió polgári lakáskultúrájába.",
+            "ro": "O perspectivă profundă asupra culturii rezidențiale burgheze din regiune.",
+            "en": "A deep insight into the bourgeois residential culture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeburgpark",
+            "hu": "Seeburgpark",
+            "ro": "Parcul Seeburg",
+            "en": "Seeburg Park"
+          },
+          "coords": [
+            9.184,
+            47.648
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die breiten Wege sind ideal für eine entspannte Radtour durch den Park.",
+            "hu": "A széles utak ideálisak egy laza biciklitúrához a parkon keresztül.",
+            "ro": "Căile largi sunt ideale pentru o plimbare relaxată cu bicicleta prin parc.",
+            "en": "The wide paths are ideal for a relaxed bike ride through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Seeburg",
+            "hu": "Seeburg-kastély",
+            "ro": "Castelul Seeburg",
+            "en": "Seeburg Castle"
+          },
+          "coords": [
+            9.185,
+            47.649
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Parkeingang ab und erkunden Sie das Schloss zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a park bejáratánál, és fedezze fel a kastélyt gyalog.",
+            "ro": "Parcați bicicleta la intrarea în parc și explorați castelul pe jos.",
+            "en": "Park your bike at the park entrance and explore the castle on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Kreuzlingen",
+            "hu": "Kreuzlingeni kikötő",
+            "ro": "Portul Kreuzlingen",
+            "en": "Kreuzlingen Harbour"
+          },
+          "coords": [
+            9.188,
+            47.65
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt am Hafen vorbei, perfekt für einen kurzen Stopp.",
+            "hu": "A kerékpárút közvetlenül a kikötő mellett halad el, tökéletes egy rövid megállóhoz.",
+            "ro": "Pista de biciclete trece chiar pe lângă port, perfectă pentru o oprire scurtă.",
+            "en": "The bike path runs right past the harbor, perfect for a short stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodensee-Promenade",
+            "hu": "Boden-tavi sétány",
+            "ro": "Promenada Lacului Constanța",
+            "en": "Lake Constance Promenade"
+          },
+          "coords": [
+            9.191,
+            47.651
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Achtung: Am Wochenende kann die Promenade sehr voll sein, fahren Sie langsam.",
+            "hu": "Figyelem: Hétvégén a sétány nagyon zsúfolt lehet, lassan haladjon.",
+            "ro": "Atenție: în weekend, promenada poate fi foarte aglomerată, mergeți încet.",
+            "en": "Attention: the promenade can be very crowded on weekends, ride slowly."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Kreuzlingen",
+            "hu": "Kreuzlingeni Planetárium",
+            "ro": "Planetariul din Kreuzlingen",
+            "en": "Kreuzlingen Planetarium"
+          },
+          "coords": [
+            9.17,
+            47.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine gute Möglichkeit, den Tag ausklingen zu lassen, bevor Sie zurückradeln.",
+            "hu": "Jó módja a nap befejezésének, mielőtt visszatekerne.",
+            "ro": "O modalitate bună de a încheia ziua înainte de a pedala înapoi.",
+            "en": "A great way to end the day before cycling back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie beim Kulturzentrum Dreispitz. Der Morgen führt Sie ins historische Herz mit der Basilika und dem Rosenegg Museum. Mittags rollen Sie gemütlich zum Seeburgpark für eine Pause am See. Der Nachmittag ist eine Tour de Force entlang des Ufers: vom Schloss Seeburg über den Hafen bis zur Promenade. Zum Abschluss führt Sie eine letzte Etappe zum Planetarium, wo Sie den Tag mit einem Blick in die Unendlichkeit beschließen.",
+        "hu": "Pattanjon biciklire, és induljon a Dreispitz kulturális központtól. A délelőtt a történelmi szívbe vezet a bazilikával és a Rosenegg Múzeummal. Délben kényelmesen tekerjen el a Seeburgparkba egy tavi pihenőre. A délután egy igazi erőpróba a part mentén: a Seeburg-kastélytól a kikötőn át a sétányig. Végül egy utolsó szakasz a planetáriumhoz vezet, ahol a napot a végtelenbe való betekintéssel zárhatja.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la centrul cultural Dreispitz. Dimineața vă duce în inima istorică, cu bazilica și Muzeul Rosenegg. La prânz, pedalați agale spre parcul Seeburg pentru o pauză pe malul lacului. După-amiaza este un tur de forță de-a lungul malului: de la Castelul Seeburg, prin port, până la promenadă. La final, o ultimă etapă vă duce la Planetariu, unde încheiați ziua cu o privire spre infinit.",
+        "en": "Hop on your bike and start at the Dreispitz cultural center. The morning takes you to the historic heart with the basilica and the Rosenegg Museum. At noon, you'll leisurely cycle to Seeburg Park for a break by the lake. The afternoon is a tour de force along the shore: from Seeburg Castle via the harbor to the promenade. Finally, a last leg takes you to the Planetarium, where you'll end the day with a glimpse into infinity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrötchen am Hafen",
+            "tip": "Ein schneller, leckerer und lokaler Imbiss für Radfahrer."
+          },
+          {
+            "name": "Café Moca",
+            "tip": "Trendiges Café für einen stärkenden Kaffee und ein Stück Kuchen."
+          },
+          {
+            "name": "Restaurant Fischerhaus",
+            "tip": "Direkt am Wasser gelegen, ideal für ein ausgiebiges Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas zsemle a kikötőben",
+            "tip": "Gyors, finom és helyi harapnivaló kerékpárosoknak."
+          },
+          {
+            "name": "Café Moca",
+            "tip": "Divatos kávézó egy erősítő kávéhoz és egy szelet süteményhez."
+          },
+          {
+            "name": "Restaurant Fischerhaus",
+            "tip": "Közvetlenül a vízparton található, ideális egy kiadós vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu pește în port",
+            "tip": "O gustare rapidă, delicioasă și locală pentru bicicliști."
+          },
+          {
+            "name": "Café Moca",
+            "tip": "Cafenea la modă pentru o cafea revigorantă și o felie de tort."
+          },
+          {
+            "name": "Restaurant Fischerhaus",
+            "tip": "Situat direct pe malul apei, ideal pentru o cină copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish sandwich at the harbor",
+            "tip": "A quick, tasty, and local snack for cyclists."
+          },
+          {
+            "name": "Café Moca",
+            "tip": "Trendy café for a fortifying coffee and a piece of cake."
+          },
+          {
+            "name": "Restaurant Fischerhaus",
+            "tip": "Located right on the water, ideal for a hearty dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der kleine Hafen von Emmishofen",
+            "tip": "Ein Stück südlich, abseits des Trubels.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Eine grüne Oase, die mit dem Rad leicht zu erreichen ist.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang am Seeburgpark",
+            "tip": "Der perfekte Ort, um den Tag ausklingen zu lassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emmishofen kis kikötője",
+            "tip": "Kicsit délebbre, távol a nyüzsgéstől.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Botanikus kert",
+            "tip": "Zöld oázis, amely kerékpárral könnyen elérhető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a Seeburgparkban",
+            "tip": "Tökéletes hely a nap lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Micul port din Emmishofen",
+            "tip": "Puțin mai la sud, departe de agitație.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "O oază de verdeață ușor accesibilă cu bicicleta.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus de soare în Parcul Seeburg",
+            "tip": "Locul perfect pentru a încheia ziua.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The small harbor of Emmishofen",
+            "tip": "A little to the south, away from the hustle and bustle.",
+            "emoji": "⛵"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A green oasis easily accessible by bike.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset at Seeburg Park",
+            "tip": "The perfect place to end the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veloladen am Boulevard",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Fabrikladen von Chocolat Bernrain",
+            "tip": "Ein Muss für Schokoladenliebhaber, etwas außerhalb des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt a Boulevardon",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Chocolat Bernrain gyárbolt",
+            "tip": "Kötelező a csokoládé szerelmeseinek, kicsit a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete pe bulevard",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          },
+          {
+            "name": "Magazinul fabricii Chocolat Bernrain",
+            "tip": "O necesitate pentru iubitorii de ciocolată, puțin în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop on the Boulevard",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Chocolat Bernrain factory shop",
+            "tip": "A must for chocolate lovers, slightly outside the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein gutes Fahrradschloss ist in der ganzen Stadt unerlässlich.",
+          "Der Bodensee-Radweg ist gut ausgeschildert, folgen Sie den Schildern für eine einfache Navigation.",
+          "Nehmen Sie genügend Wasser mit, besonders an warmen Tagen.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Egy jó kerékpárzár elengedhetetlen az egész városban.",
+          "A Boden-tavi kerékpárút jól ki van táblázva, kövesse a táblákat az egyszerű navigáció érdekében.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "O încuietoare bună pentru bicicletă este esențială în tot orașul.",
+          "Pista de biciclete de pe malul Lacului Constanța este bine semnalizată, urmați indicatoarele pentru o navigare ușoară.",
+          "Luați suficientă apă, mai ales în zilele călduroase.",
+          "Se recomandă insistent purtarea căștii."
+        ],
+        "en": [
+          "A good bike lock is essential throughout the city.",
+          "The Lake Constance bike path is well-signposted, follow the signs for easy navigation.",
+          "Bring plenty of water, especially on warm days.",
+          "A helmet is strongly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Seeburg",
+            "hu": "Seeburg parkoló",
+            "ro": "Parcare Seeburg",
+            "en": "Seeburg Car Park"
+          },
+          "coords": [
+            9.183,
+            47.648
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Startpunkt des See-Clusters. Parken Sie hier für die nächsten Stunden.",
+            "hu": "A tavi klaszter kiindulópontja. Parkoljon itt a következő néhány órára.",
+            "ro": "Punctul de plecare pentru clusterul lacului. Parcați aici pentru următoarele ore.",
+            "en": "Starting point for the lake cluster. Park here for the next few hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Seeburg",
+            "hu": "Seeburg-kastély",
+            "ro": "Castelul Seeburg",
+            "en": "Seeburg Castle"
+          },
+          "coords": [
+            9.185,
+            47.649
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz durch den wunderschönen Park.",
+            "hu": "Rövid séta a parkolótól a gyönyörű parkon keresztül.",
+            "ro": "O scurtă plimbare de la parcare prin parcul frumos.",
+            "en": "A short walk from the car park through the beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeburgpark & Bodensee-Promenade",
+            "hu": "Seeburgpark és Boden-tavi sétány",
+            "ro": "Parcul Seeburg & Promenada Lacului Constanța",
+            "en": "Seeburg Park & Lake Constance Promenade"
+          },
+          "coords": [
+            9.191,
+            47.651
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park und die Promenade zu Fuß, Ihr Auto wartet sicher.",
+            "hu": "Fedezze fel a parkot és a sétányt gyalog, az autója biztonságban vár.",
+            "ro": "Explorați parcul și promenada pe jos, mașina vă așteaptă în siguranță.",
+            "en": "Explore the park and promenade on foot, your car is waiting safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Kreuzlingen",
+            "hu": "Kreuzlingeni kikötő",
+            "ro": "Portul Kreuzlingen",
+            "en": "Kreuzlingen Harbour"
+          },
+          "coords": [
+            9.188,
+            47.65
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen in einem der Hafenrestaurants.",
+            "hu": "Ebédeljen a kikötői éttermek egyikében.",
+            "ro": "Bucurați-vă de prânz la unul dintre restaurantele din port.",
+            "en": "Enjoy lunch at one of the harbor restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Zentrum",
+            "hu": "Központi parkolóház",
+            "ro": "Parcare centrală",
+            "en": "Central Car Park"
+          },
+          "coords": [
+            9.174,
+            47.645
+          ],
+          "category": "transport",
+          "arrive_at": "13:45",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wechsel zum Stadt-Cluster. Von hier aus ist das Zentrum leicht zu Fuß erreichbar.",
+            "hu": "Váltás a városi klaszterre. Innen a központ könnyen elérhető gyalog.",
+            "ro": "Trecerea la clusterul urban. De aici, centrul este ușor accesibil pe jos.",
+            "en": "Switch to the city cluster. From here, the center is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Ulrich",
+            "hu": "Szent Ulrik-bazilika",
+            "ro": "Bazilica Sf. Ulrich",
+            "en": "St. Ulrich Basilica"
+          },
+          "coords": [
+            9.173,
+            47.646
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung, nur wenige Schritte vom Parkhaus entfernt.",
+            "hu": "Az elmélyülés helye, csak néhány lépésre a parkolóháztól.",
+            "ro": "Un loc de reculegere, la doar câțiva pași de parcare.",
+            "en": "A place of contemplation, just a few steps from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosenegg",
+            "hu": "Rosenegg Múzeum",
+            "ro": "Muzeul Rosenegg",
+            "en": "Rosenegg Museum"
+          },
+          "coords": [
+            9.175,
+            47.644
+          ],
+          "category": "museums",
+          "arrive_at": "14:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den kurzen Spaziergang durch die Altstadt.",
+            "hu": "Hagyja az autót, és élvezze a rövid sétát az óvároson keresztül.",
+            "ro": "Lăsați mașina și bucurați-vă de scurta plimbare prin orașul vechi.",
+            "en": "Leave the car and enjoy the short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Kreuzlingen",
+            "hu": "Kreuzlingeni Planetárium",
+            "ro": "Planetariul din Kreuzlingen",
+            "en": "Kreuzlingen Planetarium"
+          },
+          "coords": [
+            9.17,
+            47.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Stopp des Tages. Es gibt normalerweise genügend Parkplätze in der Nähe.",
+            "hu": "A nap utolsó állomása. Általában van elég parkoló a közelben.",
+            "ro": "Ultima oprire a zilei. De obicei, există suficiente locuri de parcare în apropiere.",
+            "en": "Last stop of the day. There are usually enough parking spaces nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem mit dem Auto und parken Sie am Seeburgpark, um das Seeufer-Cluster zu erkunden. Spazieren Sie vom Schloss zum Hafen, genießen Sie die Promenade und ein Mittagessen mit Aussicht. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie erneut und entdecken Sie die Basilika und das Rosenegg Museum zu Fuß. Ein letzter kurzer Autohop bringt Sie zum Planetarium, wo Sie den Tag mit einem Blick in den Himmel beenden.",
+        "hu": "Induljon kényelmesen autóval, és parkoljon a Seeburgparknál, hogy felfedezze a tóparti klasztert. Sétáljon a kastélytól a kikötőig, élvezze a sétányt és egy ebédet kilátással. Délután vezessen be a városközpontba. Parkoljon le újra, és fedezze fel gyalog a bazilikát és a Rosenegg Múzeumot. Egy utolsó rövid autózás elviszi a planetáriumhoz, ahol egy pillantással az égre zárhatja a napot.",
+        "ro": "Porniți confortabil cu mașina și parcați la parcul Seeburg pentru a explora clusterul de pe malul lacului. Plimbați-vă de la castel la port, bucurați-vă de promenadă și de un prânz cu priveliște. După-amiaza, conduceți spre centrul orașului. Parcați din nou și descoperiți bazilica și Muzeul Rosenegg pe jos. O ultimă scurtă călătorie cu mașina vă duce la Planetariu, unde încheiați ziua cu o privire spre cer.",
+        "en": "Start comfortably by car and park at Seeburg Park to explore the lakeside cluster. Walk from the castle to the harbor, enjoy the promenade, and have lunch with a view. In the afternoon, drive to the city center. Park again and discover the basilica and the Rosenegg Museum on foot. A final short car hop takes you to the Planetarium to end your day with a look at the sky."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Alti Badi",
+            "tip": "Gehobene Küche direkt am See, leicht mit dem Auto erreichbar."
+          },
+          {
+            "name": "Gasthof zum Anker",
+            "tip": "Traditionelle Schweizer Gerichte im Herzen der Stadt."
+          },
+          {
+            "name": "Eiscafé am Boulevard",
+            "tip": "Ein Muss für eine süße Pause zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Alti Badi",
+            "tip": "Elegáns konyha közvetlenül a tónál, autóval könnyen megközelíthető."
+          },
+          {
+            "name": "Gasthof zum Anker",
+            "tip": "Hagyományos svájci ételek a város szívében."
+          },
+          {
+            "name": "Fagyizó a Boulevardon",
+            "tip": "Kötelező egy édes szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Alti Badi",
+            "tip": "Bucătărie rafinată chiar pe malul lacului, ușor accesibilă cu mașina."
+          },
+          {
+            "name": "Gasthof zum Anker",
+            "tip": "Mâncăruri tradiționale elvețiene în inima orașului."
+          },
+          {
+            "name": "Înghețată pe bulevard",
+            "tip": "O oprire obligatorie pentru o pauză dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Alti Badi",
+            "tip": "Fine dining right on the lake, easily accessible by car."
+          },
+          {
+            "name": "Gasthof zum Anker",
+            "tip": "Traditional Swiss dishes in the heart of the city."
+          },
+          {
+            "name": "Ice cream parlor on the Boulevard",
+            "tip": "A must-stop for a sweet break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei der Sternwarte",
+            "tip": "Nach der Planetariumsshow einen Blick über die Stadt werfen.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Kursschiff-Fahrt",
+            "tip": "Parken Sie das Auto und machen Sie eine kurze Rundfahrt auf dem See.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "Lesegarten des Museums",
+            "tip": "Ein verstecktes Juwel der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a csillagvizsgálónál",
+            "tip": "A planetáriumi előadás után vessen egy pillantást a városra.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Hajókázás",
+            "tip": "Parkolja le az autót, és tegyen egy rövid körutazást a tavon.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "A múzeum olvasókertje",
+            "tip": "A nyugalom rejtett gyöngyszeme.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la observator",
+            "tip": "Aruncați o privire peste oraș după spectacolul de la planetariu.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Excursie cu vaporul",
+            "tip": "Parcați mașina și faceți o scurtă excursie pe lac.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "Grădina de lectură a muzeului",
+            "tip": "O bijuterie ascunsă a liniștii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the observatory",
+            "tip": "Take a look over the city after the planetarium show.",
+            "emoji": "🔭"
+          },
+          {
+            "name": "Boat trip",
+            "tip": "Park the car and take a short round trip on the lake.",
+            "emoji": "🚢"
+          },
+          {
+            "name": "Museum's reading garden",
+            "tip": "A hidden gem of tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karussell-Einkaufszentrum",
+            "tip": "Größeres Einkaufszentrum mit vielen Parkplätzen."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für frische Produkte direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karussell bevásárlóközpont",
+            "tip": "Nagyobb bevásárlóközpont bőséges parkolóval."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Keresse a friss termékeket kínáló táblákat közvetlenül a gazdaságokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Karussell",
+            "tip": "Centru comercial mai mare cu parcare amplă."
+          },
+          {
+            "name": "Magazine agricole locale",
+            "tip": "Fiți atenți la indicatoarele pentru produse proaspete direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karussell shopping center",
+            "tip": "Larger shopping center with ample parking."
+          },
+          {
+            "name": "Local farm shops",
+            "tip": "Look out for signs for fresh produce direct from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps, um freie Plätze und Gebühren zu finden.",
+          "Achten Sie auf die 'Blaue Zone', wo das Parken mit Parkscheibe zeitlich begrenzt ist.",
+          "Die Cluster-Strategie spart Zeit und Nerven bei der Parkplatzsuche.",
+          "Planen Sie etwas Pufferzeit für den Verkehr ein, besonders im Sommer."
+        ],
+        "hu": [
+          "Használjon parkolóalkalmazásokat a szabad helyek és díjak megtalálásához.",
+          "Figyeljen a 'kék zónára', ahol a parkolás parkolótárcsával időben korlátozott.",
+          "A klaszterstratégia időt és idegeket takarít meg a parkolóhely-keresésnél.",
+          "Tervezzen be némi pufferidőt a forgalom miatt, különösen nyáron."
+        ],
+        "ro": [
+          "Utilizați aplicații de parcare pentru a găsi locuri libere și tarife.",
+          "Atenție la 'Zona Albastră', unde parcarea este limitată în timp cu un disc de parcare.",
+          "Strategia cluster economisește timp și nervi în căutarea unui loc de parcare.",
+          "Planificați un timp tampon pentru trafic, mai ales vara."
+        ],
+        "en": [
+          "Use parking apps to find available spaces and fees.",
+          "Pay attention to the 'Blue Zone', where parking is time-limited with a parking disc.",
+          "The cluster strategy saves time and nerves when looking for a parking space.",
+          "Plan some buffer time for traffic, especially in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Seeburg",
+            "hu": "Seeburg buszmegálló",
+            "ro": "Stația de autobuz Seeburg",
+            "en": "Seeburg Bus Stop"
+          },
+          "coords": [
+            9.183,
+            47.648
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am See. Von hier aus ist das erste Cluster zu Fuß erreichbar.",
+            "hu": "Kezdje a napot a tónál. Innen az első klaszter gyalogosan elérhető.",
+            "ro": "Începeți ziua la lac. De aici, primul cluster este accesibil pe jos.",
+            "en": "Start your day at the lake. From here, the first cluster is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Seeburg",
+            "hu": "Seeburg-kastély",
+            "ro": "Castelul Seeburg",
+            "en": "Seeburg Castle"
+          },
+          "coords": [
+            9.185,
+            47.649
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch den Park bringt Sie zum Schloss.",
+            "hu": "Egy szép séta a parkon keresztül elvisz a kastélyhoz.",
+            "ro": "O plimbare frumoasă prin parc vă duce la castel.",
+            "en": "A beautiful walk through the park takes you to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Kreuzlingen & Seeburgpark",
+            "hu": "Kreuzlingeni kikötő és Seeburgpark",
+            "ro": "Portul Kreuzlingen & Parcul Seeburg",
+            "en": "Kreuzlingen Harbour & Seeburg Park"
+          },
+          "coords": [
+            9.188,
+            47.65
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:42",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie Zeit am Wasser und essen Sie zu Mittag, bevor Sie den Bus nehmen.",
+            "hu": "Töltsön időt a vízparton és ebédeljen, mielőtt buszra száll.",
+            "ro": "Petreceți timp pe malul apei și luați prânzul înainte de a lua autobuzul.",
+            "en": "Spend time by the water and have lunch before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Bärenplatz",
+            "hu": "Bärenplatz buszmegálló",
+            "ro": "Stația de autobuz Bärenplatz",
+            "en": "Bärenplatz Bus Stop"
+          },
+          "coords": [
+            9.174,
+            47.646
+          ],
+          "category": "transport",
+          "arrive_at": "12:57",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft im Stadtzentrum-Cluster. Die nächsten Ziele sind zu Fuß erreichbar.",
+            "hu": "Érkezés a városközpont-klaszterbe. A következő célpontok gyalogosan elérhetők.",
+            "ro": "Sosire în clusterul centrului orașului. Următoarele destinații sunt la distanță de mers pe jos.",
+            "en": "Arrival at the city center cluster. The next destinations are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Ulrich",
+            "hu": "Szent Ulrik-bazilika",
+            "ro": "Bazilica Sf. Ulrich",
+            "en": "St. Ulrich Basilica"
+          },
+          "coords": [
+            9.173,
+            47.646
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Haltestelle gelegen, ein einfacher erster Stopp im Zentrum.",
+            "hu": "Közvetlenül a megállónál található, egyszerű első megálló a központban.",
+            "ro": "Situată chiar lângă stație, o primă oprire ușoară în centru.",
+            "en": "Located right next to the stop, an easy first stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosenegg",
+            "hu": "Rosenegg Múzeum",
+            "ro": "Muzeul Rosenegg",
+            "en": "Rosenegg Museum"
+          },
+          "coords": [
+            9.175,
+            47.644
+          ],
+          "category": "museums",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie direkt zum Museum.",
+            "hu": "Séta a sikátorokon keresztül egyenesen a múzeumhoz vezet.",
+            "ro": "O plimbare pe străduțe vă duce direct la muzeu.",
+            "en": "A walk through the alleys takes you directly to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Kreuzlingen",
+            "hu": "Kreuzlingeni Planetárium",
+            "ro": "Planetariul din Kreuzlingen",
+            "en": "Kreuzlingen Planetarium"
+          },
+          "coords": [
+            9.17,
+            47.648
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, mit einer direkten Busverbindung vom Zentrum.",
+            "hu": "A nap utolsó állomása, közvetlen buszjárattal a központból.",
+            "ro": "Ultima oprire a zilei, cu o legătură directă de autobuz din centru.",
+            "en": "The last stop of the day, with a direct bus connection from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den effizienten öffentlichen Verkehr. Ein Bus bringt Sie zum Seeburgpark, wo Sie das Schloss und den Hafen zu Fuß erkunden. Nach einem Mittagessen am Wasser bringt Sie ein anderer Bus ins Herz der Stadt. Dort warten die Basilika und das Museum darauf, von Ihnen entdeckt zu werden. Die letzte Busfahrt des Tages führt Sie zum Planetarium für einen unvergesslichen Abschluss Ihrer Kreuzlingen-Tour.",
+        "hu": "Használja a hatékony tömegközlekedést. Egy busz elviszi a Seeburgparkba, ahol gyalogosan fedezheti fel a kastélyt és a kikötőt. Egy vízparti ebéd után egy másik busz a város szívébe viszi. Ott a bazilika és a múzeum várja, hogy felfedezze őket. A nap utolsó buszozása a planetáriumhoz vezet, ahol felejthetetlen lezárása lesz a kreuzlingeni túrának.",
+        "ro": "Folosiți transportul public eficient. Un autobuz vă duce la parcul Seeburg, unde puteți explora castelul și portul pe jos. După un prânz pe malul apei, un alt autobuz vă duce în inima orașului. Acolo, bazilica și muzeul vă așteaptă să le descoperiți. Ultima călătorie cu autobuzul a zilei vă duce la Planetariu pentru un final de neuitat al turului dumneavoastră prin Kreuzlingen.",
+        "en": "Use the efficient public transport. A bus takes you to Seeburg Park, where you can explore the castle and harbor on foot. After lunch by the water, another bus takes you to the heart of the city. There, the basilica and the museum await your discovery. The last bus ride of the day takes you to the Planetarium for an unforgettable end to your Kreuzlingen tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Take-Away am Bahnhof",
+            "tip": "Schnell und praktisch für Reisende, die auf den nächsten Bus warten."
+          },
+          {
+            "name": "Metzgerei mit Imbiss",
+            "tip": "Probieren Sie eine heisse Wurst vom lokalen Metzger."
+          },
+          {
+            "name": "Bäckerei am Boulevard",
+            "tip": "Perfekt für ein süßes Teilchen auf die Hand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elvitel a pályaudvaron",
+            "tip": "Gyors és praktikus az utazóknak, akik a következő buszra várnak."
+          },
+          {
+            "name": "Hentesbolt büfével",
+            "tip": "Kóstoljon meg egy forró kolbászt a helyi hentestől."
+          },
+          {
+            "name": "Pékség a Boulevardon",
+            "tip": "Tökéletes egy édes péksüteményhez útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Take-away la gară",
+            "tip": "Rapid și practic pentru călătorii care așteaptă următorul autobuz."
+          },
+          {
+            "name": "Măcelărie cu gustări",
+            "tip": "Încercați un cârnat fierbinte de la măcelarul local."
+          },
+          {
+            "name": "Brutărie pe bulevard",
+            "tip": "Perfect pentru un produs de patiserie dulce la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Take-away at the station",
+            "tip": "Quick and convenient for travelers waiting for the next bus."
+          },
+          {
+            "name": "Butcher shop with snacks",
+            "tip": "Try a hot sausage from the local butcher."
+          },
+          {
+            "name": "Bakery on the Boulevard",
+            "tip": "Perfect for a sweet pastry on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine tolle Aussicht und ist oft ruhiger.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Friedhof am Stadtrand",
+            "tip": "Ein Ort der Stille, oft mit alten, schönen Grabsteinen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Eine Bank am Flussufer der Thur",
+            "tip": "Etwas außerhalb, aber mit dem Bus erreichbar.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Nagyszerű kilátást nyújt és gyakran csendesebb.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Temető a város szélén",
+            "tip": "A csend helye, gyakran régi, szép sírkövekkel.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Egy pad a Thur folyó partján",
+            "tip": "Kicsit kijjebb, de busszal elérhető.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Oferă o priveliște minunată și este adesea mai liniștit.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cimitirul de la marginea orașului",
+            "tip": "Un loc de liniște, adesea cu pietre funerare vechi și frumoase.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "O bancă pe malul râului Thur",
+            "tip": "Puțin în afara orașului, dar accesibil cu autobuzul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The upper floor of a double-decker bus",
+            "tip": "Offers a great view and is often quieter.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Cemetery on the outskirts of town",
+            "tip": "A place of silence, often with old, beautiful tombstones.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A bench on the banks of the river Thur",
+            "tip": "A bit out of town, but accessible by bus.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Für Last-Minute-Souvenirs und Reisebedarf."
+          },
+          {
+            "name": "Geschäfte rund um den Boulevard",
+            "tip": "Nutzen Sie die Zeit zwischen zwei Bussen für einen Einkaufsbummel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Utolsó pillanatos ajándéktárgyakhoz és utazási kellékekhez."
+          },
+          {
+            "name": "Üzletek a Boulevard körül",
+            "tip": "Használja ki a két busz közötti időt egy bevásárló körútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Pentru suveniruri de ultim moment și articole de călătorie."
+          },
+          {
+            "name": "Magazine în jurul bulevardului",
+            "tip": "Folosiți timpul dintre două autobuze pentru o sesiune de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "For last-minute souvenirs and travel essentials."
+          },
+          {
+            "name": "Shops around the Boulevard",
+            "tip": "Use the time between two buses for a shopping spree."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie die Fahrplan-App herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Seien Sie 5 Minuten vor Abfahrt an der Haltestelle.",
+          "Geben Sie dem Fahrer ein Zeichen, wenn Sie an einer Bedarfshaltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltse le a menetrend-alkalmazást a valós idejű járatinformációkért.",
+          "Legyen a megállóban 5 perccel az indulás előtt.",
+          "Jelezzen a sofőrnek, ha egy igény szerinti megállónál szeretne leszállni."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați aplicația de orare pentru a verifica conexiunile în timp real.",
+          "Fiți la stație cu 5 minute înainte de plecare.",
+          "Faceți semn șoferului dacă doriți să coborâți la o stație la cerere."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download the timetable app to check real-time connections.",
+          "Be at the stop 5 minutes before departure.",
+          "Signal the driver if you want to get off at a request stop."
+        ]
+      }
+    }
+  }
+}

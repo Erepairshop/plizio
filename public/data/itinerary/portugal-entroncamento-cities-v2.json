@@ -1,0 +1,1310 @@
+{
+  "city_id": "portugal-entroncamento-cities-v2",
+  "anchor": {
+    "name": "Entroncamento",
+    "coords": [
+      -8.4712,
+      39.4661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bairro Camões",
+            "hu": "Camões negyed",
+            "ro": "Cartierul Camões",
+            "en": "Camões Quarter"
+          },
+          "coords": [
+            -8.471,
+            39.4665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot a város szívében, és figyelje a helyi életet.",
+            "ro": "Începeți ziua în inima orașului, observând viața locală.",
+            "en": "Start your day in the heart of the town, observing local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmarkt",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.47,
+            39.467
+          ],
+          "category": "market",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frische lokale Produkte und genießen Sie die lebhafte Atmosphäre.",
+            "hu": "Kóstoljon friss helyi termékeket és élvezze a nyüzsgő hangulatot.",
+            "ro": "Gustați produse locale proaspete și bucurați-vă de atmosfera vibrantă.",
+            "en": "Taste some fresh local produce and enjoy the bustling atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -8.4715,
+            39.466
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses wichtigen städtischen Gebäudes.",
+            "hu": "Csodálja meg ennek a fontos városi épületnek az építészetét.",
+            "ro": "Admirați arhitectura acestei clădiri civice importante.",
+            "en": "Admire the architecture of this important civic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Familie",
+            "hu": "Szent Család-templom",
+            "ro": "Biserica Sagrada Família",
+            "en": "Church of the Sacred Family"
+          },
+          "coords": [
+            -8.4725,
+            39.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre und die Glasfenster.",
+            "hu": "Szánjon egy percet a békés légkörre és az ólomüveg ablakokra.",
+            "ro": "Luați-vă un moment pentru a aprecia atmosfera liniștită și vitraliile.",
+            "en": "Take a moment to appreciate the peaceful atmosphere and the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Eisenbahnmuseum",
+            "hu": "Nemzeti Vasúti Múzeum",
+            "ro": "Muzeul Național Feroviar",
+            "en": "National Railway Museum"
+          },
+          "coords": [
+            -8.4685,
+            39.4685
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichts- und Technikbegeisterte, planen Sie genügend Zeit ein.",
+            "hu": "A történelem és a technológia szerelmeseinek kötelező, szánjon rá elég időt.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie și tehnologie, alocați suficient timp.",
+            "en": "A must-visit for history and technology enthusiasts, allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokomotive 0190 Denkmal",
+            "hu": "0190-es Mozdony Emlékmű",
+            "ro": "Monumentul Locomotiva 0190",
+            "en": "Locomotive 0190 Monument"
+          },
+          "coords": [
+            -8.469,
+            39.468
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein tolles Fotomotiv direkt vor dem Museum.",
+            "hu": "Nagyszerű fotózási lehetőség közvetlenül a múzeum előtt.",
+            "ro": "O oportunitate foto excelentă chiar în fața muzeului.",
+            "en": "A great photo opportunity right outside the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Grüner Park von Bonito",
+            "hu": "Bonito Zöld Park",
+            "ro": "Parcul Verde do Bonito",
+            "en": "Bonito Green Park"
+          },
+          "coords": [
+            -8.478,
+            39.469
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach dem Museumsbesuch zu entspannen.",
+            "hu": "Tökéletes hely a pihenésre a múzeumi látogatás után.",
+            "ro": "Locul perfect pentru a vă relaxa după vizita la muzeu.",
+            "en": "The perfect place to relax and unwind after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Entroncamento, der Stadt der Eisenbahnen, beginnt im lebhaften Bairro Camões und auf dem lokalen Markt. Am Vormittag erkunden Sie das bürgerliche und religiöse Erbe der Stadt und bewundern das Rathaus und die Kirche der Heiligen Familie. Der Nachmittag ist ganz der reichen Eisenbahngeschichte Portugals im Nationalen Eisenbahnmuseum gewidmet, ein fesselndes Erlebnis für alle. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang im Parque Verde do Bonito ab und genießen Sie die Ruhe dieses städtischen Rückzugsortes.",
+        "hu": "Entroncamento, a vasutak városában töltött napja a nyüzsgő Bairro Camões negyedben és a helyi piacon kezdődik. A délelőtt folyamán felfedezheti a város polgári és vallási örökségét, megcsodálva a Városházát és a Szent Család-templomot. A délután teljes egészében Portugália gazdag vasúttörténelmének szentelődik a Nemzeti Vasúti Múzeumban, amely mindenki számára lebilincselő élmény. Zárja a napot egy pihentető sétával a Parque Verde do Bonito parkban, élvezve a városi oázis nyugalmát.",
+        "ro": "Ziua dvs. în Entroncamento, orașul căilor ferate, începe în vibrantul cartier Bairro Camões și la piața locală. Dimineața explorați patrimoniul civic și religios al orașului, admirând Primăria și Biserica Sagrada Família. După-amiaza este dedicată în întregime istoriei feroviare bogate a Portugaliei la Muzeul Național Feroviar, o experiență captivantă pentru toți. Încheiați ziua cu o plimbare relaxantă în Parcul Verde do Bonito, bucurându-vă de liniștea acestui refugiu urban.",
+        "en": "Your day in Entroncamento, the city of railways, begins in the vibrant Bairro Camões and the local market. The morning involves exploring the city's civic and religious heritage, admiring the Town Hall and the Church of the Sacred Family. The afternoon is fully dedicated to Portugal's rich railway history at the National Railway Museum, a captivating experience for all. Conclude your day with a relaxing stroll in the Parque Verde do Bonito, enjoying the tranquility of this urban retreat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Probieren Sie dieses klassische portugiesische Gericht mit Kabeljau, Kartoffeln und Eiern in einem der lokalen Restaurants."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Ein Muss in jeder portugiesischen Stadt. Suchen Sie eine lokale Bäckerei für die beste Erfahrung."
+          },
+          {
+            "name": "Restaurante Sabores do Parque",
+            "tip": "In der Nähe des Parks gelegen, bietet es eine gute Auswahl an traditionellen Gerichten in einer angenehmen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Kóstolja meg ezt a klasszikus portugál tőkehalas, burgonyás és tojásos ételt egy helyi étteremben."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Minden portugál városban kötelező. Keresse a helyi pékséget a legjobb élményért."
+          },
+          {
+            "name": "Restaurante Sabores do Parque",
+            "tip": "A park közelében található, hagyományos ételek jó választékát kínálja kellemes környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Încercați acest preparat clasic portughez cu cod, cartofi și ouă la unul dintre restaurantele locale."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "O necesitate în orice oraș portughez. Căutați o patiserie locală pentru cea mai bună experiență."
+          },
+          {
+            "name": "Restaurante Sabores do Parque",
+            "tip": "Situat lângă parc, oferă o selecție bună de mâncăruri tradiționale într-un cadru plăcut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bacalhau à Brás",
+            "tip": "Try this classic Portuguese dish of cod, potatoes, and eggs at one of the local restaurants."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try in any Portuguese town. Find a local bakery for the best experience."
+          },
+          {
+            "name": "Restaurante Sabores do Parque",
+            "tip": "Located near the park, it offers a good selection of traditional dishes in a pleasant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten am Kulturzentrum",
+            "tip": "Ein kleiner, oft übersehener Ort für eine kurze Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Tejo (nahe gelegen)",
+            "tip": "Ein kurzer Ausflug aus der Stadt bringt Sie an die ruhigen Ufer des Flusses Tejo.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "Keressen egy csendes padot a tónál és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Kulturális Központ kertjei",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott hely egy rövid szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tajo folyó partja (közeli)",
+            "tip": "Egy rövid kirándulás a városból elviszi a Tajo folyó békés partjaira.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verde do Bonito",
+            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Centrului Cultural",
+            "tip": "Un loc mic, adesea trecut cu vederea, pentru o pauză scurtă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Tagus (în apropiere)",
+            "tip": "O scurtă excursie în afara orașului vă duce pe malurile liniștite ale râului Tagus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonito Green Park",
+            "tip": "Find a quiet bench by the lake and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens at the Cultural Centre",
+            "tip": "A small, often overlooked spot for a quick break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Tagus River (nearby)",
+            "tip": "A short trip out of town takes you to the peaceful banks of the Tagus River.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Der beste Ort für lokale Produkte, Käse und traditionelle Süßigkeiten."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Halten Sie in den Straßen um Bairro Camões Ausschau nach kleinen Geschäften, die handgefertigte Waren verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "A legjobb hely helyi termékek, sajtok és hagyományos édességek beszerzésére."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a Bairro Camões körüli utcákban a kézzel készített árukat árusító kis boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cel mai bun loc pentru produse locale, brânzeturi și dulciuri tradiționale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți atenți la micile magazine care vând produse artizanale pe străzile din jurul Bairro Camões."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "The best place for local produce, cheeses, and traditional sweets."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for small shops selling handmade goods on the streets around Bairro Camões."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Das Eisenbahnmuseum ist der Höhepunkt, also planen Sie mindestens zwei Stunden dafür ein.",
+          "Überprüfen Sie die Öffnungszeiten des Marktes, da er am Nachmittag schließen könnte.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A Vasúti Múzeum a fénypont, ezért szánjon rá legalább két órát.",
+          "Ellenőrizze a piac nyitvatartási idejét, mert délután bezárhat.",
+          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Muzeul Căilor Ferate este punctul culminant, așa că alocați cel puțin două ore pentru el.",
+          "Verificați orele de funcționare ale pieței, deoarece s-ar putea închide după-amiaza.",
+          "Luați o sticlă de apă reutilizabilă pentru a vă menține hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "The Railway Museum is the highlight, so plan at least two hours for it.",
+          "Check the market's opening hours as it might close in the afternoon.",
+          "Bring a reusable water bottle to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bairro Camões",
+            "hu": "Camões negyed",
+            "ro": "Cartierul Camões",
+            "en": "Camões Quarter"
+          },
+          "coords": [
+            -8.471,
+            39.4665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und machen Sie einen kurzen Spaziergang, um die Atmosphäre aufzusaugen.",
+            "hu": "Parkolja le a biciklit, és tegyen egy rövid sétát, hogy magába szívja a hangulatot.",
+            "ro": "Parcați bicicleta și faceți o scurtă plimbare pentru a absorbi atmosfera.",
+            "en": "Park your bike and take a short walk to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmarkt",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.47,
+            39.467
+          ],
+          "category": "market",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um Snacks für Ihre Radtour zu kaufen.",
+            "hu": "Remek hely, hogy harapnivalót vegyen a biciklitúrához.",
+            "ro": "Un loc minunat pentru a lua gustări pentru plimbarea cu bicicleta.",
+            "en": "A great place to pick up some snacks for your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum von Entroncamento",
+            "hu": "Entroncamento Kulturális Központ",
+            "ro": "Centrul Cultural din Entroncamento",
+            "en": "Cultural Centre of Entroncamento"
+          },
+          "coords": [
+            -8.473,
+            39.464
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es tagsüber Ausstellungen oder Veranstaltungen gibt.",
+            "hu": "Nézze meg, vannak-e nappali kiállítások vagy események.",
+            "ro": "Verificați dacă există expoziții sau evenimente pe timp de zi.",
+            "en": "Check if there are any daytime exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Familie",
+            "hu": "Szent Család-templom",
+            "ro": "Biserica Sagrada Família",
+            "en": "Church of the Sacred Family"
+          },
+          "coords": [
+            -8.4725,
+            39.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber lohnender Stopp, um die Architektur zu bewundern.",
+            "hu": "Egy rövid, de megérő megálló az építészet megcsodálására.",
+            "ro": "O oprire scurtă, dar meritată, pentru a admira arhitectura.",
+            "en": "A short but rewarding stop to admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Eisenbahnmuseum",
+            "hu": "Nemzeti Vasúti Múzeum",
+            "ro": "Muzeul Național Feroviar",
+            "en": "National Railway Museum"
+          },
+          "coords": [
+            -8.4685,
+            39.4685
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Eisenbahngeschichte.",
+            "hu": "Zárja le biztonságosan a biciklijét, és merüljön el a vasúttörténelemben.",
+            "ro": "Asigurați-vă bicicleta și scufundați-vă în istoria feroviară.",
+            "en": "Lock your bike securely and dive into the railway history."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokomotive 0190 Denkmal",
+            "hu": "0190-es Mozdony Emlékmű",
+            "ro": "Monumentul Locomotiva 0190",
+            "en": "Locomotive 0190 Monument"
+          },
+          "coords": [
+            -8.469,
+            39.468
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto, bevor Sie zum Park weiterradeln.",
+            "hu": "Készítsen egy gyors fotót, mielőtt továbbteker a parkba.",
+            "ro": "Faceți o fotografie rapidă înainte de a pedala spre parc.",
+            "en": "Snap a quick photo before cycling on to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Grüner Park von Bonito",
+            "hu": "Bonito Zöld Park",
+            "ro": "Parcul Verde do Bonito",
+            "en": "Bonito Green Park"
+          },
+          "coords": [
+            -8.478,
+            39.469
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radfahren Sie um den See oder entspannen Sie einfach auf dem Gras.",
+            "hu": "Kerékpározzon a tó körül, vagy csak pihenjen a fűben.",
+            "ro": "Pedalați în jurul lacului sau pur și simplu relaxați-vă pe iarbă.",
+            "en": "Cycle around the lake or just relax on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Entroncamento auf zwei Rädern. Beginnen Sie im Bairro Camões und auf dem Markt, um Energie zu tanken. Radeln Sie durch die Stadt, besuchen Sie kulturelle und religiöse Stätten, bevor Sie am Mittag das Herzstück der Stadt erreichen: das Nationale Eisenbahnmuseum. Nach dieser faszinierenden Reise in die Vergangenheit ist der Parque Verde do Bonito der ideale Ort, um sich zu entspannen, eine Runde um den See zu drehen und den Tag ausklingen zu lassen.",
+        "hu": "Fedezze fel Entroncamentót két keréken. Kezdjen a Bairro Camões negyedben és a piacon, hogy energiát gyűjtsön. Tekerjen át a városon, látogasson meg kulturális és vallási helyszíneket, mielőtt délben elérné a város szívét: a Nemzeti Vasúti Múzeumot. A múltba tett lenyűgöző utazás után a Parque Verde do Bonito ideális hely a pihenésre, egy körre a tó körül és a nap lezárására.",
+        "ro": "Explorați Entroncamento pe două roți. Începeți din Bairro Camões și de la piață pentru a vă energiza. Pedalați prin oraș, vizitând situri culturale și religioase înainte de a ajunge la piesa centrală a orașului la prânz: Muzeul Național Feroviar. După această călătorie fascinantă în trecut, Parcul Verde do Bonito este locul ideal pentru a vă relaxa, a face o tură în jurul lacului și a încheia ziua.",
+        "en": "Explore Entroncamento on two wheels. Start at Bairro Camões and the market to fuel up. Cycle through the town, visiting cultural and religious sites before reaching the town's centerpiece at midday: the National Railway Museum. After this fascinating journey into the past, the Parque Verde do Bonito is the ideal spot to unwind, take a lap around the lake, and finish your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana",
+            "tip": "Ein schnelles und leckeres portugiesisches Sandwich mit Schweinefleisch, perfekt für einen Radfahrer-Lunch."
+          },
+          {
+            "name": "Frisches Obst vom Markt",
+            "tip": "Holen Sie sich saisonale Früchte auf dem Mercado Municipal für einen gesunden Snack."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Ein guter Ort für einen Kaffee und ein Pastel de Nata, um wieder zu Kräften zu kommen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana",
+            "tip": "Gyors és ízletes portugál sertéshúsos szendvics, tökéletes ebéd egy biciklisnek."
+          },
+          {
+            "name": "Friss gyümölcs a piacról",
+            "tip": "Szerezzen be szezonális gyümölcsöket a Mercado Municipal-ban egy egészséges harapnivalóért."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Jó hely egy kávéra és egy Pastel de Nata-ra, hogy feltöltődjön."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș portughez rapid și gustos cu carne de porc, perfect pentru prânzul unui ciclist."
+          },
+          {
+            "name": "Fructe proaspete de la piață",
+            "tip": "Luați fructe de sezon de la Mercado Municipal pentru o gustare sănătoasă."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Un loc bun pentru o cafea și un Pastel de Nata pentru a vă reîncărca bateriile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana",
+            "tip": "A quick and tasty Portuguese pork sandwich, perfect for a cyclist's lunch."
+          },
+          {
+            "name": "Fresh fruit from the market",
+            "tip": "Pick up seasonal fruits at the Mercado Municipal for a healthy snack."
+          },
+          {
+            "name": "Café Central",
+            "tip": "A good spot for a coffee and a Pastel de Nata to recharge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "Der Park ist groß genug, um eine ruhige Ecke zum Entspannen zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Rande der Stadt",
+            "tip": "Machen Sie eine kurze Fahrt aus dem Zentrum heraus, um die ruhigere, ländliche Umgebung zu sehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "A park elég nagy ahhoz, hogy találjon egy csendes sarkot a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A város szélén",
+            "tip": "Tegyen egy rövid utat a központból, hogy megnézze a csendesebb, vidéki környezetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verde do Bonito",
+            "tip": "Parcul este suficient de mare pentru a găsi un colț liniștit unde să vă relaxați.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La marginea orașului",
+            "tip": "Faceți o plimbare scurtă în afara centrului pentru a vedea împrejurimile rurale mai liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonito Green Park",
+            "tip": "The park is large enough to find a quiet corner to relax.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Outskirts of town",
+            "tip": "Take a short ride out of the center to see the quieter, rural surroundings.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokales Olivenöl oder Honig als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi olívaolajat vagy mézet szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați ulei de măsline local sau miere ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Buy some local olive oil or honey as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad am Museum und an anderen Haltestellen sicher abzustellen.",
+          "Die Stadt ist relativ flach und daher gut zum Radfahren geeignet.",
+          "Tragen Sie einen Helm für die Sicherheit."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpárját indulás előtt.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a biciklit a múzeumnál és más megállóknál.",
+          "A város viszonylag sík, így jó kerékpározásra.",
+          "Viseljen sisakot a biztonság érdekében."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la muzeu și la alte opriri.",
+          "Orașul este relativ plat, ceea ce îl face bun pentru ciclism.",
+          "Purtați o cască pentru siguranță."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Bring a lock to secure your bike at the museum and other stops.",
+          "The town is relatively flat, making it good for cycling.",
+          "Wear a helmet for safety."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Centre"
+          },
+          "coords": [
+            -8.4715,
+            39.466
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Rathauses für den ersten Teil Ihres Besuchs.",
+            "hu": "Parkoljon a Városháza közelében a látogatás első részére.",
+            "ro": "Parcați lângă Primărie pentru prima parte a vizitei.",
+            "en": "Park near the Town Hall for the first part of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bairro Camões",
+            "hu": "Camões negyed",
+            "ro": "Cartierul Camões",
+            "en": "Camões Quarter"
+          },
+          "coords": [
+            -8.471,
+            39.4665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Hauptplatz.",
+            "hu": "Egy rövid séta a parkolótól a főtérig.",
+            "ro": "O scurtă plimbare de la parcare la piața principală.",
+            "en": "A short walk from your parking spot to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmarkt",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.47,
+            39.467
+          ],
+          "category": "market",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erleben Sie die lokalen Geschmäcker, nur wenige Schritte entfernt.",
+            "hu": "Tapasztalja meg a helyi ízeket, csak néhány lépésre.",
+            "ro": "Experimentați aromele locale la doar câțiva pași distanță.",
+            "en": "Experience the local flavors, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Eisenbahn-Erbe",
+            "hu": "2. klaszter: Vasúti örökség",
+            "ro": "Cluster 2: Patrimoniul Feroviar",
+            "en": "Cluster 2: Railway Heritage"
+          },
+          "coords": [
+            -8.4685,
+            39.4685
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum und finden Sie einen Parkplatz. Hier verbringen Sie den Großteil des Tages.",
+            "hu": "Vezessen a múzeumhoz, és keressen parkolóhelyet. Itt fogja tölteni a nap nagy részét.",
+            "ro": "Conduceți la muzeu și găsiți un loc de parcare. Veți petrece cea mai mare parte a zilei aici.",
+            "en": "Drive to the museum and find parking. You'll spend the bulk of your day here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokomotive 0190 Denkmal",
+            "hu": "0190-es Mozdony Emlékmű",
+            "ro": "Monumentul Locomotiva 0190",
+            "en": "Locomotive 0190 Monument"
+          },
+          "coords": [
+            -8.469,
+            39.468
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Museumseingang aus erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a múzeum bejáratától.",
+            "ro": "Ușor accesibil pe jos de la intrarea muzeului.",
+            "en": "Easily walkable from the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Entspannung im Park",
+            "hu": "3. klaszter: Pihenés a parkban",
+            "ro": "Cluster 3: Relaxare în Parc",
+            "en": "Cluster 3: Park Relaxation"
+          },
+          "coords": [
+            -8.478,
+            39.469
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt zum Parque Verde, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Tegyen egy rövid autóutat a Parque Verde-be, hogy pihentetően zárja a napot.",
+            "ro": "Faceți o scurtă călătorie cu mașina până la Parque Verde pentru o încheiere relaxantă a zilei.",
+            "en": "Take a short drive to Parque Verde for a relaxing end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Entroncamento nutzt die Cluster-Walking-Methode. Beginnen Sie mit dem Parken im historischen Zentrum, um den Bairro Camões und den Markt zu Fuß zu erkunden. Am Vormittag fahren Sie zum Eisenbahn-Cluster, wo Sie in die fesselnde Welt des Nationalen Eisenbahnmuseums eintauchen. Nach dem Mittagessen führt Sie eine kurze Fahrt zum Parque Verde do Bonito, dem perfekten Ort, um den Nachmittag mit einem Spaziergang am See zu verbringen und die Erlebnisse des Tages Revue passieren zu lassen.",
+        "hu": "Autós napja Entroncamentóban a klaszter-séta módszert alkalmazza. Kezdje a parkolással a történelmi központban, hogy gyalog fedezze fel a Bairro Camões-t és a piacot. A délelőtt folyamán autózzon át a vasúti klaszterhez, ahol elmerülhet a Nemzeti Vasúti Múzeum magával ragadó világában. Ebéd után egy rövid autóút vezet a Parque Verde do Bonito-hoz, amely tökéletes hely a délutáni tóparti sétához és a nap élményeinek felidézéséhez.",
+        "ro": "Ziua dvs. cu mașina în Entroncamento utilizează metoda de plimbare în cluster. Începeți prin a parca în centrul istoric pentru a explora pe jos Bairro Camões și piața. Dimineața, conduceți la clusterul feroviar, unde vă veți cufunda în lumea captivantă a Muzeului Național Feroviar. După prânz, o scurtă călătorie cu mașina vă duce la Parque Verde do Bonito, locul perfect pentru a petrece după-amiaza plimbându-vă pe malul lacului și reflectând la experiențele zilei.",
+        "en": "Your car day in Entroncamento uses the cluster-walking method. Start by parking in the historic centre to explore Bairro Camões and the market on foot. Mid-morning, drive to the railway cluster, where you'll immerse yourself in the captivating world of the National Railway Museum. After lunch, a short drive takes you to Parque Verde do Bonito, the perfect spot to spend the afternoon strolling by the lake and reflecting on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Wenn Sie Zeit für ein ausgiebiges Mittagessen haben, probieren Sie diesen herzhaften portugiesischen Eintopf."
+          },
+          {
+            "name": "Restaurante O Foguete",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein gemütliches Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Ha van ideje egy kiadós ebédre, kóstolja meg ezt a tartalmas portugál egytálételt."
+          },
+          {
+            "name": "Restaurante O Foguete",
+            "tip": "Hagyományos portugál konyhájáról és hangulatos légköréről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "Dacă aveți timp pentru un prânz copios, încercați această tocană portugheză consistentă."
+          },
+          {
+            "name": "Restaurante O Foguete",
+            "tip": "Renumit pentru bucătăria sa tradițională portugheză și atmosfera sa primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cozido à Portuguesa",
+            "tip": "If you have time for a big lunch, try this hearty Portuguese stew."
+          },
+          {
+            "name": "Restaurante O Foguete",
+            "tip": "Known for its traditional Portuguese cuisine and cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "Ihr Hauptziel für Ruhe und Frieden am Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Burg von Almourol (Tagesausflug)",
+            "tip": "Wenn Sie Zeit haben, ist diese atemberaubende Burg auf einer Insel im Tejo eine kurze Autofahrt entfernt.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "A délutáni béke és nyugalom fő célpontja.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Almourol vára (napi kirándulás)",
+            "tip": "Ha van ideje, ez a lenyűgöző vár a Tajo folyó egy szigetén csak egy rövid autóútra van.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verde do Bonito",
+            "tip": "Destinația dvs. principală pentru pace și liniște după-amiaza.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castelul Almourol (excursie de o zi)",
+            "tip": "Dacă aveți timp, acest castel uimitor pe o insulă în râul Tagus este la o scurtă distanță cu mașina.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonito Green Park",
+            "tip": "Your main destination for peace and quiet in the afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle of Almourol (Day Trip)",
+            "tip": "If you have time, this stunning castle on an island in the Tagus river is a short drive away.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie vor der Abfahrt lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi különlegességeket, mielőtt elindulna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați specialități locale înainte de a pleca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Stock up on local specialties before you leave."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkbeschilderung, um Strafzettel zu vermeiden.",
+          "Planen Sie Ihren Besuch im Eisenbahnmuseum im Voraus, da es sehr groß ist.",
+          "Ein Auto gibt Ihnen die Flexibilität, nahegelegene Sehenswürdigkeiten wie die Burg von Almourol zu besuchen.",
+          "Die Straßen in der Innenstadt können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Figyeljen a parkolási táblákra a bírságok elkerülése érdekében.",
+          "Tervezze meg előre a Vasúti Múzeum látogatását, mert nagyon nagy.",
+          "Az autó rugalmasságot biztosít a közeli látnivalók, például az Almourol vár meglátogatásához.",
+          "A belvárosi utcák szűkek lehetnek, ezért vezessen óvatosan."
+        ],
+        "ro": [
+          "Fiți atenți la indicatoarele de parcare pentru a evita amenzile.",
+          "Planificați-vă vizita la Muzeul Căilor Ferate în avans, deoarece este foarte mare.",
+          "O mașină vă oferă flexibilitatea de a vizita atracțiile din apropiere, cum ar fi Castelul Almourol.",
+          "Străzile din centrul orașului pot fi înguste, așa că șofați cu prudență."
+        ],
+        "en": [
+          "Pay attention to parking signs to avoid fines.",
+          "Plan your visit to the Railway Museum in advance, as it's very large.",
+          "A car gives you the flexibility to visit nearby attractions like the Castle of Almourol.",
+          "The downtown streets can be narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul Orașului",
+            "en": "Cluster 1: City Centre"
+          },
+          "coords": [
+            -8.471,
+            39.4665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptplatz, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje a főtéren, amelyet számos buszjárat szolgál ki.",
+            "ro": "Începeți din piața principală, deservită de multe rute de autobuz.",
+            "en": "Start at the main square, served by many bus routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -8.4715,
+            39.466
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das Hauptgebäude der Stadt zu sehen.",
+            "hu": "Egy rövid séta a város főépületének megtekintéséhez.",
+            "ro": "O scurtă plimbare pentru a vedea clădirea civică principală.",
+            "en": "A short stroll to see the main civic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Familie",
+            "hu": "Szent Család-templom",
+            "ro": "Biserica Sagrada Família",
+            "en": "Church of the Sacred Family"
+          },
+          "coords": [
+            -8.4725,
+            39.4655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe, bevor Sie zum nächsten Cluster weitergehen.",
+            "hu": "Találjon egy pillanatnyi békét, mielőtt a következő klaszterhez indul.",
+            "ro": "Găsiți un moment de liniște înainte de a vă deplasa la următorul cluster.",
+            "en": "Find a moment of peace before moving on to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Eisenbahnmuseum",
+            "hu": "2. klaszter: Vasúti Múzeum",
+            "ro": "Cluster 2: Muzeul Feroviar",
+            "en": "Cluster 2: Railway Museum"
+          },
+          "coords": [
+            -8.4685,
+            39.4685
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Bahnhofsbereich, wo sich das Museum befindet.",
+            "hu": "Menjen busszal az állomás környékére, ahol a múzeum található.",
+            "ro": "Luați un autobuz spre zona gării, unde se află muzeul.",
+            "en": "Take a bus to the station area, where the museum is located."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokomotive 0190 Denkmal",
+            "hu": "0190-es Mozdony Emlékmű",
+            "ro": "Monumentul Locomotiva 0190",
+            "en": "Locomotive 0190 Monument"
+          },
+          "coords": [
+            -8.469,
+            39.468
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Denkmal ist nur einen kurzen Spaziergang vom Museum entfernt.",
+            "hu": "Ez az emlékmű csak egy rövid sétára van a múzeumtól.",
+            "ro": "Acest monument se află la o scurtă plimbare de muzeu.",
+            "en": "This monument is just a short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Parque Verde do Bonito",
+            "hu": "3. klaszter: Parque Verde do Bonito",
+            "ro": "Cluster 3: Parcul Verde do Bonito",
+            "en": "Cluster 3: Bonito Green Park"
+          },
+          "coords": [
+            -8.478,
+            39.469
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 140,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem schönen Park für einen entspannten Nachmittag.",
+            "hu": "Egy másik buszút elviszi Önt ehhez a gyönyörű parkhoz egy pihentető délutánra.",
+            "ro": "O altă călătorie cu autobuzul vă duce la acest parc frumos pentru o după-amiază relaxantă.",
+            "en": "Another bus ride takes you to this beautiful park for a relaxing afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Erkundung von Entroncamento mit öffentlichen Verkehrsmitteln ist einfach und effizient. Beginnen Sie Ihren Tag im Stadtzentrum, das zu Fuß erkundet werden kann. Eine kurze Busfahrt bringt Sie zum Eisenbahn-Cluster, wo das Nationale Eisenbahnmuseum auf Sie wartet. Verbringen Sie dort einen großen Teil Ihres Tages. Am Nachmittag bringt Sie ein weiterer Bus zum Parque Verde do Bonito, wo Sie sich entspannen und die natürliche Schönheit der Stadt genießen können, bevor Sie zurückkehren.",
+        "hu": "Entroncamento felfedezése tömegközlekedéssel egyszerű és hatékony. Kezdje a napot a gyalogosan bejárható városközpontban. Egy rövid buszút elviszi a vasúti klaszterhez, ahol a Nemzeti Vasúti Múzeum várja. Töltse ott a nap nagy részét. Délután egy másik busz elviszi a Parque Verde do Bonito parkba, ahol pihenhet és élvezheti a város természeti szépségét, mielőtt visszatérne.",
+        "ro": "Explorarea Entroncamento cu transportul public este ușoară și eficientă. Începeți ziua în centrul orașului, care poate fi explorat pe jos. O scurtă călătorie cu autobuzul vă duce la clusterul feroviar, unde vă așteaptă Muzeul Național Feroviar. Petreceți o mare parte a zilei acolo. După-amiaza, un alt autobuz vă va duce la Parque Verde do Bonito, unde vă puteți relaxa și bucura de frumusețea naturală a orașului înainte de a vă întoarce.",
+        "en": "Exploring Entroncamento by public transit is easy and efficient. Start your day in the city centre cluster, which is explorable on foot. A short bus ride takes you to the railway cluster, where the National Railway Museum awaits. Spend a large portion of your day there. In the afternoon, another bus will take you to Parque Verde do Bonito, where you can relax and enjoy the city's natural beauty before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Nutzen Sie die Zeit zwischen den Busfahrten für einen Kaffee und ein Gebäck in einem der vielen Cafés der Stadt."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Obwohl es aus Porto stammt, finden Sie vielleicht eine gute Version dieses herzhaften Sandwichs für ein sättigendes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Használja ki a buszutak közötti időt egy kávéra és süteményre a város számos kávézójának egyikében."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Bár Portóból származik, találhat egy jó változatot ebből a kiadós szendvicsből egy laktató ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Folosiți timpul dintre călătoriile cu autobuzul pentru a savura o cafea și un produs de patiserie la una dintre numeroasele cafenele ale orașului."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Deși originar din Porto, s-ar putea să găsiți o versiune bună a acestui sandviș consistent pentru un prânz sățios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafes",
+            "tip": "Use the time between bus rides to grab a coffee and a pastry at one of the city's many cafes."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Although from Porto, you might find a good version of this hearty sandwich for a filling lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "Der Park ist Ihr Haupt-Rückzugsort für eine ruhige Zeit am Ende des Tages.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Verde do Bonito",
+            "tip": "A park a fő menedékhelye egy csendes időtöltéshez a nap végén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verde do Bonito",
+            "tip": "Parcul este refugiul dvs. principal pentru un moment de liniște la sfârșitul zilei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonito Green Park",
+            "tip": "The park is your main retreat for some quiet time at the end of the day.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Stöbern Sie in den Geschäften im ersten Cluster, bevor Sie weiterfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Böngésszen az első klaszter üzleteiben, mielőtt továbbindul."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine din centrul orașului",
+            "tip": "Răsfoiți magazinele din primul cluster înainte de a merge mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Centre Shops",
+            "tip": "Browse the shops in the first cluster before you move on."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, um Wartezeiten zu minimieren.",
+          "Behalten Sie Ihre Sachen in öffentlichen Verkehrsmitteln im Auge.",
+          "Fragen Sie die Einheimischen nach dem richtigen Bus, sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Ha elérhető, vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idők minimalizálása érdekében.",
+          "Tartsa szemmel a holmiját a tömegközlekedési eszközökön.",
+          "Kérdezze meg a helyieket a megfelelő buszról, általában segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați orarele autobuzelor în avans pentru a minimiza timpii de așteptare.",
+          "Fiți cu ochii pe bunurile dvs. în transportul public.",
+          "Întrebați localnicii despre autobuzul corect, de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check bus schedules in advance to minimize waiting.",
+          "Keep an eye on your belongings on public transport.",
+          "Ask locals for the right bus, they are usually helpful."
+        ]
+      }
+    }
+  }
+}

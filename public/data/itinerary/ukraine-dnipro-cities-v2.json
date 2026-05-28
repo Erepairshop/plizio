@@ -1,0 +1,1508 @@
+{
+  "city_id": "ukraine-dnipro-cities-v2",
+  "anchor": {
+    "name": "Dnipro",
+    "coords": [
+      35.0462,
+      48.4647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start: Dnepr-Uferpromenade",
+            "hu": "Indulás: Dnyeper-parti sétány",
+            "ro": "Start: Promenada de pe malul Niprului",
+            "en": "Start: Dnipro River Embankment"
+          },
+          "coords": [
+            35.055,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang entlang der längsten Uferpromenade Europas.",
+            "hu": "Kezdje a napot egy frissítő sétával Európa leghosszabb folyóparti sétányán.",
+            "ro": "Începeți ziua cu o plimbare revigorantă de-a lungul celei mai lungi promenade de pe malul unui râu din Europa.",
+            "en": "Start your day with a refreshing walk along Europe's longest river embankment."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige-Dreifaltigkeits-Kathedrale",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Holy Trinity Cathedral"
+          },
+          "coords": [
+            35.038,
+            48.462
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und die ruhige Atmosphäre dieses orthodoxen Juwels.",
+            "hu": "Csodálja meg a lenyűgöző freskókat és az ortodox gyöngyszem békés légkörét.",
+            "ro": "Admirați frescele impresionante și atmosfera liniștită a acestei bijuterii ortodoxe.",
+            "en": "Admire the impressive frescoes and the serene atmosphere of this Orthodox gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Menora-Zentrum",
+            "hu": "Menora Központ",
+            "ro": "Centrul Menora",
+            "en": "Menorah Center"
+          },
+          "coords": [
+            35.045,
+            48.46
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahren Sie auf die Aussichtsplattform im 18. Stock, um einen Panoramablick über die Stadt zu genießen.",
+            "hu": "Menjen fel a 18. emeleti kilátóteraszra, ahonnan panorámás kilátás nyílik a városra.",
+            "ro": "Urcați la punte de observație de la etajul 18 pentru o vedere panoramică a orașului.",
+            "en": "Go up to the 18th-floor observation deck for a panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Jawornyzkyj",
+            "hu": "Javornickij Történeti Múzeum",
+            "ro": "Muzeul de Istorie Yavornitsky",
+            "en": "Yavornytsky Historical Museum"
+          },
+          "coords": [
+            35.048,
+            48.459
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Sammlung von skythischen Artefakten und die Kosakengeschichte.",
+            "hu": "Ne hagyja ki a szkíta leletek gyűjteményét és a kozák történelem bemutatását.",
+            "ro": "Nu ratați colecția de artefacte scitice și istoria cazacilor.",
+            "en": "Don't miss the collection of Scythian artifacts and the Cossack history section."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungs-Kathedrale",
+            "hu": "Urunk Színeváltozása székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            35.065,
+            48.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ersten Gebäude der Stadt, ein Meisterwerk des neoklassizistischen Stils.",
+            "hu": "A város egyik első épülete, a neoklasszicista stílus mesterműve.",
+            "ro": "Una dintre primele clădiri din oraș, o capodoperă a stilului neoclasic.",
+            "en": "One of the city's first buildings, a masterpiece of the neoclassical style."
+          }
+        },
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Shevchenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            35.062,
+            48.455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um sich zu entspannen und die Aussicht auf die Klosterinsel zu genießen.",
+            "hu": "Tökéletes hely a pihenésre és a Kolostor-szigetre nyíló kilátás élvezetére.",
+            "ro": "Un loc perfect pentru a vă relaxa și a vă bucura de vederea spre Insula Mănăstirii.",
+            "en": "A perfect spot to relax and enjoy the view of Monastery Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterinsel",
+            "hu": "Kolostor-sziget",
+            "ro": "Insula Mănăstirii",
+            "en": "Monastery Island"
+          },
+          "coords": [
+            35.068,
+            48.454
+          ],
+          "category": "islands",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke und entdecken Sie die Legenden dieser mythischen Insel.",
+            "hu": "Sétáljon át a gyaloghídon, és fedezze fel e mitikus sziget legendáit.",
+            "ro": "Traversați podul pietonal pentru a descoperi legendele acestei insule mitice.",
+            "en": "Cross the pedestrian bridge to discover the legends of this mythical island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Dnipro beginnt an der weitläufigen Uferpromenade des Flusses und führt Sie ins Herz der Stadt. Am Vormittag erkunden Sie die spirituelle Seite mit Besuchen der Heiligen-Dreifaltigkeits-Kathedrale und dem modernen Menora-Zentrum. Der Nachmittag ist der Geschichte und Kultur gewidmet, mit einem tiefen Einblick in das Jawornyzkyj-Museum und einem Moment der Besinnung in der Verklärungs-Kathedrale. Der Tag endet mit einem entspannten Spaziergang durch den Schewtschenko-Park und hinüber zur sagenumwobenen Klosterinsel, während die Sonne langsam untergeht.",
+        "hu": "Dnyiproi sétája a hatalmas folyóparti sétányon kezdődik, és a város szívébe vezet. A délelőttöt a spirituális oldal felfedezésével tölti, meglátogatva a Szentháromság-székesegyházat és a modern Menora Központot. A délután a történelemé és a kultúráé, mélyrehatóan megismerkedve a Javornickij Múzeummal és egy csendes pillanattal az Urunk Színeváltozása székesegyházban. A nap a Sevcsenko Parkon át vezető pihentető sétával és a legendás Kolostor-szigeten ér véget a lemenő nap fényében.",
+        "ro": "Turul dumneavoastră pietonal prin Dnipro începe de pe promenada întinsă a râului, ducându-vă în inima orașului. Dimineața explorați latura spirituală cu vizite la Catedrala Sfânta Treime și modernul Centru Menora. După-amiaza este dedicată istoriei și culturii, cu o incursiune profundă în Muzeul Yavornitsky și un moment de reflecție la Catedrala Schimbarea la Față. Ziua se încheie cu o plimbare relaxantă prin Parcul Shevchenko și peste pe legendara Insulă a Mănăstirii, în timp ce soarele apune.",
+        "en": "Your walking tour of Dnipro begins on the vast river embankment, leading you into the city's heart. The morning explores the spiritual side with visits to the Holy Trinity Cathedral and the modern Menorah Center. The afternoon is dedicated to history and culture, with a deep dive into the Yavornytsky Museum and a moment of reflection at the Transfiguration Cathedral. The day concludes with a relaxing stroll through Shevchenko Park and across to the legendary Monastery Island as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Varenyky (gefüllte Teigtaschen)",
+            "tip": "Probieren Sie sie bei 'Korchma', einem Restaurant, das traditionelle ukrainische Küche serviert."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Ein Klassiker, den man am besten im 'Puzata Hata' genießt, einer beliebten Kette mit Hausmannskost."
+          },
+          {
+            "name": "Kiewer Kotelett",
+            "tip": "Obwohl es nach Kiew benannt ist, finden Sie ausgezeichnete Versionen in gehobenen Restaurants in Dnipro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vareniki (töltött táska)",
+            "tip": "Kóstolja meg a „Korchma” étteremben, amely hagyományos ukrán ételeket kínál."
+          },
+          {
+            "name": "Borscs",
+            "tip": "A klasszikus levest a „Puzata Hata” népszerű, házias ételeket kínáló láncban érdemes megkóstolni."
+          },
+          {
+            "name": "Kijevi jércemell",
+            "tip": "Bár Kijevről nevezték el, kiváló változatait megtalálja Dnyipro elegánsabb éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Varenyky (găluște umplute)",
+            "tip": "Încercați-le la 'Korchma', un restaurant care servește bucătărie tradițională ucraineană."
+          },
+          {
+            "name": "Borș",
+            "tip": "Un clasic, cel mai bine savurat la 'Puzata Hata', un lanț popular cu mâncare gătită ca acasă."
+          },
+          {
+            "name": "Cotlet de Kiev",
+            "tip": "Deși numit după Kiev, veți găsi versiuni excelente în restaurantele de lux din Dnipro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Varenyky (filled dumplings)",
+            "tip": "Try them at 'Korchma', a restaurant serving traditional Ukrainian cuisine."
+          },
+          {
+            "name": "Borscht",
+            "tip": "A classic, best enjoyed at 'Puzata Hata', a popular chain for home-style food."
+          },
+          {
+            "name": "Chicken Kyiv",
+            "tip": "Although named after Kyiv, you'll find excellent versions in upscale Dnipro restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klosterinsel 🌅",
+            "tip": "Finden Sie einen ruhigen Platz am Ufer, um den Sonnenuntergang über dem Fluss zu beobachten."
+          },
+          {
+            "name": "Schewtschenko-Park 🍃",
+            "tip": "Der obere Teil des Parks bietet ruhige Wege und Bänke abseits der Menschenmassen."
+          },
+          {
+            "name": "Botanischer Garten der Universität Dnipro 🏞️",
+            "tip": "Ein friedlicher Ort (etwas abseits der Route) für einen ruhigen Spaziergang zwischen den Pflanzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostor-sziget 🌅",
+            "tip": "Keressen egy csendes helyet a parton, és nézze a naplementét a folyó felett."
+          },
+          {
+            "name": "Sevcsenko Park 🍃",
+            "tip": "A park felső része csendes ösvényeket és padokat kínál a tömegtől távol."
+          },
+          {
+            "name": "Dnyiproi Egyetem Botanikus Kertje 🏞️",
+            "tip": "Egy békés hely (kissé távolabb az útvonaltól) egy csendes sétához a növények között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Mănăstirii 🌅",
+            "tip": "Găsiți un loc liniștit pe mal pentru a privi apusul peste râu."
+          },
+          {
+            "name": "Parcul Shevchenko 🍃",
+            "tip": "Partea superioară a parcului oferă alei și bănci liniștite, departe de mulțime."
+          },
+          {
+            "name": "Grădina Botanică a Universității din Dnipro 🏞️",
+            "tip": "Un loc pașnic (puțin în afara traseului) pentru o plimbare liniștită printre plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Island 🌅",
+            "tip": "Find a quiet spot on the shore to watch the sunset over the river."
+          },
+          {
+            "name": "Shevchenko Park 🍃",
+            "tip": "The upper part of the park offers quiet paths and benches away from the crowds."
+          },
+          {
+            "name": "Dnipro University Botanical Garden 🏞️",
+            "tip": "A peaceful spot (a bit off-route) for a quiet walk among the plants."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Prospekt Jawornyzkyj",
+            "tip": "Die Hauptstraße der Stadt mit einer Mischung aus internationalen Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Petrykiwka-Malerei",
+            "tip": "Halten Sie in Souvenirläden Ausschau nach diesem einzigartigen ukrainischen Volkskunststil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Javornickij sugárút",
+            "tip": "A város főutcája nemzetközi márkák és helyi üzletek keverékével."
+          },
+          {
+            "name": "Petrikivkai festészet",
+            "tip": "Keresse ezt az egyedülálló ukrán népművészeti stílust a szuvenírboltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Yavornytsky",
+            "tip": "Strada principală a orașului, cu un amestec de mărci internaționale și magazine locale."
+          },
+          {
+            "name": "Pictura Petrykivka",
+            "tip": "Căutați acest stil unic de artă populară ucraineană în magazinele de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yavornytsky Prospekt",
+            "tip": "The city's main avenue with a mix of international brands and local shops."
+          },
+          {
+            "name": "Petrykivka painting",
+            "tip": "Look for this unique Ukrainian folk art style in souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie Wasser mit, besonders im Sommer.",
+          "Planen Sie zusätzliche Zeit für das Museum ein, wenn Sie sich für Geschichte interessieren."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Vigyen magával vizet, különösen nyáron.",
+          "Szánjon több időt a múzeumra, ha érdekli a történelem."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos.",
+          "Luați apă cu dumneavoastră, mai ales vara.",
+          "Planificați timp suplimentar pentru muzeu dacă sunteți pasionat de istorie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most central sights are easily reachable on foot.",
+          "Carry water with you, especially in summer.",
+          "Plan for extra time at the museum if you are a history enthusiast."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 19.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Globa-Park",
+            "hu": "Globa Park",
+            "ro": "Parcul Globa",
+            "en": "Globa Park"
+          },
+          "coords": [
+            35.025,
+            48.468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Park zum Starten, mit einem kleinen See und ruhigen Wegen.",
+            "hu": "Egy szép park a kezdéshez, kis tóval és csendes utakkal.",
+            "ro": "Un parc frumos pentru a începe, cu un lac mic și poteci liniștite.",
+            "en": "A lovely park to start, with a small lake and quiet paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Raketenpark",
+            "hu": "Rakétapark",
+            "ro": "Parcul Rachetelor",
+            "en": "Rocket Park"
+          },
+          "coords": [
+            35.055,
+            48.475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie echte Raketen und erfahren Sie mehr über Dnipros Rolle in der Raumfahrt.",
+            "hu": "Tekintsen meg valódi rakétákat és tudjon meg többet Dnyipro űrkutatásban betöltött szerepéről.",
+            "ro": "Vedeți rachete reale și aflați despre rolul Dnipro în explorarea spațiului.",
+            "en": "See real-life rockets and learn about Dnipro's role in space exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Dnepr-Uferpromenade",
+            "hu": "Dnyeper-parti sétány",
+            "ro": "Promenada de pe malul Niprului",
+            "en": "Dnipro River Embankment"
+          },
+          "coords": [
+            35.06,
+            48.47
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang der Promenade für eine tolle Aussicht und eine lebhafte Atmosphäre.",
+            "hu": "Biciklizzen végig a sétányon a nagyszerű kilátásért és az élénk hangulatért.",
+            "ro": "Mergeți cu bicicleta de-a lungul promenadei pentru priveliști minunate și o atmosferă plină de viață.",
+            "en": "Cycle along the embankment for great views and a lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Merefo-Chersonskyj-Brücke",
+            "hu": "Merefo-Herszonszkij híd",
+            "ro": "Podul Merefa-Kherson",
+            "en": "Merefa-Kherson Bridge"
+          },
+          "coords": [
+            35.07,
+            48.465
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halten Sie an, um dieses einzigartige Bogenbrücken-Denkmal der Architektur zu bewundern.",
+            "hu": "Álljon meg, hogy megcsodálja ezt az egyedülálló ívhíd-építészeti emlékművet.",
+            "ro": "Opriți-vă pentru a admira acest monument arhitectural unic, un pod în arc.",
+            "en": "Stop to admire this unique arched bridge, an architectural monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterinsel",
+            "hu": "Kolostor-sziget",
+            "ro": "Insula Mănăstirii",
+            "en": "Monastery Island"
+          },
+          "coords": [
+            35.068,
+            48.454
+          ],
+          "category": "islands",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie hier eine längere Pause zum Mittagessen und erkunden Sie die Insel.",
+            "hu": "Tartson itt egy hosszabb ebédszünetet és fedezze fel a szigetet.",
+            "ro": "Faceți o pauză mai lungă aici pentru prânz și pentru a explora insula.",
+            "en": "Take a longer break here for lunch and to explore the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Shevchenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            35.062,
+            48.455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den angrenzenden Park, bevor Sie ins Stadtzentrum zurückkehren.",
+            "hu": "Sétáljon át a szomszédos parkon, mielőtt visszatér a városközpontba.",
+            "ro": "Plimbați-vă prin parcul adiacent înainte de a vă întoarce în centrul orașului.",
+            "en": "Stroll through the adjacent park before heading back to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Jawornyzkyj",
+            "hu": "Javornickij Történeti Múzeum",
+            "ro": "Muzeul de Istorie Yavornitsky",
+            "en": "Yavornytsky Historical Museum"
+          },
+          "coords": [
+            35.048,
+            48.459
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Geschichte der Region, von der Antike bis zur Gegenwart.",
+            "hu": "Merüljön el a régió gazdag történelmében, az ókortól napjainkig.",
+            "ro": "Scufundați-vă în istoria bogată a regiunii, din antichitate până în prezent.",
+            "en": "Immerse yourself in the rich history of the region, from ancient times to the present."
+          }
+        },
+        {
+          "name": {
+            "de": "Menora-Zentrum",
+            "hu": "Menora Központ",
+            "ro": "Centrul Menora",
+            "en": "Menorah Center"
+          },
+          "coords": [
+            35.045,
+            48.46
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem atemberaubenden Blick vom Dach dieses Kulturkomplexes.",
+            "hu": "Fejezze be a túrát egy lélegzetelállító kilátással a kulturális komplexum tetejéről.",
+            "ro": "Încheiați-vă turul cu o priveliște uluitoare de pe acoperișul acestui complex cultural.",
+            "en": "End your tour with a stunning view from the rooftop of this cultural complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Dnipro verbindet städtische Erkundung mit Natur. Sie starten im ruhigen Globa-Park und fahren dann zum faszinierenden Raketenpark, bevor Sie die berühmte Uferpromenade entlangradeln. Am Vormittag bewundern Sie die beeindruckende Merefo-Chersonskyj-Brücke. Zur Mittagszeit überqueren Sie die Klosterinsel für eine ausgedehnte Pause. Der Nachmittag führt Sie durch den Schewtschenko-Park zurück ins Zentrum, um im Historischen Museum tief in die Vergangenheit einzutauchen und den Tag mit einer Panoramaaussicht vom Menora-Zentrum abzuschließen.",
+        "hu": "Dnyiproi kerékpártúrája összeköti a városi felfedezést a természettel. A csendes Globa Parkból indul, majd az izgalmas Rakétaparkhoz teker, mielőtt végighalad a híres folyóparti sétányon. Délelőtt megcsodálja a lenyűgöző Merefo-Herszonszkij hidat. Délben átkel a Kolostor-szigetre egy hosszabb pihenőre. A délután a Sevcsenko Parkon keresztül visszavezeti a központba, hogy a Történeti Múzeumban elmélyedjen a múltban, és a napot a Menora Központból nyíló panorámával zárja.",
+        "ro": "Turul dumneavoastră cu bicicleta prin Dnipro combină explorarea urbană cu natura. Porniți din liniștitul Parc Globa, apoi mergeți la fascinantul Parc al Rachetelor înainte de a pedala de-a lungul faimoasei promenade. În timpul dimineții, admirați impresionantul pod Merefa-Kherson. La prânz, traversați pe Insula Mănăstirii pentru o pauză extinsă. După-amiaza vă duce înapoi în centru prin Parcul Shevchenko pentru o incursiune în trecut la Muzeul de Istorie, încheind ziua cu o vedere panoramică de la Centrul Menora.",
+        "en": "Your bike tour of Dnipro combines urban exploration with nature. You'll start in the tranquil Globa Park, then head to the fascinating Rocket Park before cycling along the famous embankment. In the morning, you'll admire the impressive Merefa-Kherson Bridge. At midday, you cross to Monastery Island for an extended break. The afternoon takes you back to the center through Shevchenko Park for a deep dive into the past at the Historical Museum, ending the day with a panoramic view from the Menorah Center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salo",
+            "tip": "Probieren Sie diese ukrainische Spezialität (gepökeltes Schweinefett) mit Schwarzbrot und Knoblauch."
+          },
+          {
+            "name": "Deruny (Kartoffelpuffer)",
+            "tip": "Normalerweise mit saurer Sahne serviert, ein herzhafter und köstlicher Snack."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Ein traditionelles Getränk aus getrockneten Früchten, sehr erfrischend nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalo",
+            "tip": "Kóstolja meg ezt az ukrán specialitást (pácolt sertészsír) fekete kenyérrel és fokhagymával."
+          },
+          {
+            "name": "Deruni (krumplilángos)",
+            "tip": "Általában tejföllel tálalják, kiadós és finom harapnivaló."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "Hagyományos aszalt gyümölcsökből készült ital, nagyon frissítő egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salo",
+            "tip": "Încercați această specialitate ucraineană (slănină de porc) cu pâine neagră și usturoi."
+          },
+          {
+            "name": "Deruny (clătite de cartofi)",
+            "tip": "De obicei servite cu smântână, o gustare consistentă și delicioasă."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "O băutură tradițională din fructe uscate, foarte răcoritoare după un tur cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salo",
+            "tip": "Try this Ukrainian specialty (cured pork fat) with black bread and garlic."
+          },
+          {
+            "name": "Deruny (potato pancakes)",
+            "tip": "Usually served with sour cream, a hearty and delicious snack."
+          },
+          {
+            "name": "Uzvar",
+            "tip": "A traditional drink made from dried fruits, very refreshing after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Klosterinsel 🌅",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entfliehen und die Ruhe des Flusses zu genießen."
+          },
+          {
+            "name": "Globa-Park am frühen Morgen 🍃",
+            "tip": "Erleben Sie den Park, bevor die Menschenmassen ankommen."
+          },
+          {
+            "name": "Blick vom Schewtschenko-Park 🏞️",
+            "tip": "Bietet eine wunderschöne, ruhige Aussicht auf den Fluss und die linke Uferseite der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostor-sziget partja 🌅",
+            "tip": "Tökéletes hely, hogy elmeneküljön a város nyüzsgésétől és élvezze a folyó nyugalmát."
+          },
+          {
+            "name": "Globa Park kora reggel 🍃",
+            "tip": "Tapasztalja meg a parkot, mielőtt a tömeg megérkezik."
+          },
+          {
+            "name": "Kilátás a Sevcsenko Parkból 🏞️",
+            "tip": "Gyönyörű, békés kilátást nyújt a folyóra és a város bal partjára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Insulei Mănăstirii 🌅",
+            "tip": "Locul perfect pentru a scăpa de agitația orașului și a te bucura de liniștea râului."
+          },
+          {
+            "name": "Parcul Globa dimineața devreme 🍃",
+            "tip": "Experimentați parcul înainte de sosirea mulțimilor."
+          },
+          {
+            "name": "Vedere din Parcul Shevchenko 🏞️",
+            "tip": "Oferă o priveliște frumoasă și liniștită asupra râului și a malului stâng al orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Monastery Island 🌅",
+            "tip": "The perfect place to escape the city bustle and enjoy the tranquility of the river."
+          },
+          {
+            "name": "Globa Park in the early morning 🍃",
+            "tip": "Experience the park before the crowds arrive."
+          },
+          {
+            "name": "View from Shevchenko Park 🏞️",
+            "tip": "Offers a beautiful, peaceful view of the river and the city's left bank."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Ozerka)",
+            "tip": "Ein riesiger Basar, auf dem man alles von frischen Produkten bis zu Haushaltswaren findet. Ein echtes lokales Erlebnis."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Kaufen Sie ein traditionelles besticktes ukrainisches Hemd als authentisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac (Ozerka)",
+            "tip": "Hatalmas bazár, ahol a friss termékektől a háztartási cikkekig mindent megtalál. Igazi helyi élmény."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Vásároljon egy hagyományos hímzett ukrán inget autentikus szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Ozerka)",
+            "tip": "Un bazar imens unde puteți găsi orice, de la produse proaspete la articole de uz casnic. O experiență locală autentică."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Cumpărați o cămașă tradițională ucraineană brodată ca suvenir autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Ozerka)",
+            "tip": "A huge bazaar where you can find everything from fresh produce to household goods. A true local experience."
+          },
+          {
+            "name": "Vyshyvanka",
+            "tip": "Buy a traditional embroidered Ukrainian shirt as an authentic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nutzen Sie die Radwege entlang der Promenade.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Einige Hügel erfordern etwas Anstrengung, aber die Aussicht ist es wert."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Használja a kerékpárutakat a sétány mentén.",
+          "Mindig zárja le jól a kerékpárját, ha leparkolja.",
+          "Néhány emelkedő némi erőfeszítést igényel, de a kilátás megéri."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți pistele de biciclete de-a lungul promenadei.",
+          "Încuiați-vă întotdeauna bicicleta bine când o parcați.",
+          "Unele dealuri necesită un pic de efort, dar priveliștile merită."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Use the bike lanes along the embankment.",
+          "Always lock your bike securely when you park it.",
+          "Some hills require a bit of effort, but the views are worth it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 21.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start & Cluster A: Globa-Park",
+            "hu": "Indulás és A klaszter: Globa Park",
+            "ro": "Start & Cluster A: Parcul Globa",
+            "en": "Start & Cluster A: Globa Park"
+          },
+          "coords": [
+            35.025,
+            48.468
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Tag in dieser grünen Oase.",
+            "hu": "Parkoljon a közelben, és kezdje a napot ebben a zöld oázisban.",
+            "ro": "Parcați în apropiere și începeți ziua în această oază de verdeață.",
+            "en": "Park nearby and start your day in this green oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige-Dreifaltigkeits-Kathedrale",
+            "hu": "Szentháromság-székesegyház",
+            "ro": "Catedrala Sfânta Treime",
+            "en": "Holy Trinity Cathedral"
+          },
+          "coords": [
+            35.038,
+            48.462
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Park zur beeindruckenden Kathedrale.",
+            "hu": "Rövid séta a parktól a lenyűgöző székesegyházig.",
+            "ro": "O scurtă plimbare de la parc la catedrala impresionantă.",
+            "en": "A short walk from the park to the impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Menora-Zentrum",
+            "hu": "B klaszter: Menora Központ",
+            "ro": "Cluster B: Centrul Menora",
+            "en": "Cluster B: Menorah Center"
+          },
+          "coords": [
+            35.045,
+            48.46
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zentrum und parken Sie. Der erste Halt hier ist die Aussicht.",
+            "hu": "Vezessen a központba és parkoljon le. Az első megálló itt a kilátás.",
+            "ro": "Conduceți spre centru și parcați. Prima oprire aici este pentru priveliște.",
+            "en": "Drive to the center and park. The first stop here is for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum Jawornyzkyj",
+            "hu": "Javornickij Történeti Múzeum",
+            "ro": "Muzeul de Istorie Yavornitsky",
+            "en": "Yavornytsky Historical Museum"
+          },
+          "coords": [
+            35.048,
+            48.459
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen Steinwurf vom Menora-Zentrum entfernt, ideal für einen langen Mittagsbesuch.",
+            "hu": "Csak egy kőhajításnyira a Menora Központtól, ideális egy hosszú déli látogatáshoz.",
+            "ro": "La o aruncătură de băț de Centrul Menora, ideal pentru o vizită lungă la prânz.",
+            "en": "Just a stone's throw from the Menorah Center, perfect for a long midday visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Taras-Schewtschenko-Park",
+            "hu": "C klaszter: Tarasz Sevcsenko Park",
+            "ro": "Cluster C: Parcul Taras Shevchenko",
+            "en": "Cluster C: Taras Shevchenko Park"
+          },
+          "coords": [
+            35.062,
+            48.455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park auf dem Hügel. Suchen Sie sich einen Parkplatz mit Aussicht.",
+            "hu": "Vezessen fel a hegyen lévő parkba. Keressen egy parkolóhelyet kilátással.",
+            "ro": "Conduceți spre parcul de pe deal. Găsiți un loc de parcare cu priveliște.",
+            "en": "Drive to the park on the hill. Find a parking spot with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Verklärungs-Kathedrale",
+            "hu": "Urunk Színeváltozása székesegyház",
+            "ro": "Catedrala Schimbarea la Față",
+            "en": "Transfiguration Cathedral"
+          },
+          "coords": [
+            35.065,
+            48.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Park und besuchen Sie die nahe gelegene historische Kathedrale.",
+            "hu": "Fedezze fel a parkot, és látogasson el a közeli történelmi székesegyházhoz.",
+            "ro": "Explorați parcul și vizitați catedrala istorică din apropiere.",
+            "en": "Explore the park and visit the nearby historic cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterinsel",
+            "hu": "Kolostor-sziget",
+            "ro": "Insula Mănăstirii",
+            "en": "Monastery Island"
+          },
+          "coords": [
+            35.068,
+            48.454
+          ],
+          "category": "islands",
+          "arrive_at": "16:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang über die Brücke zur Insel für den Sonnenuntergang.",
+            "hu": "A napot egy sétával fejezze be a hídon át a szigetre a naplementéért.",
+            "ro": "Încheiați ziua cu o plimbare peste pod spre insulă pentru apus.",
+            "en": "End the day with a walk across the bridge to the island for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour durch Dnipro ist in drei bequeme Cluster unterteilt. Sie beginnen im Westen im Globa-Park und erkunden zu Fuß die nahe gelegene Dreifaltigkeitskathedrale. Anschließend fahren Sie ins Stadtzentrum, parken und tauchen in das moderne Menora-Zentrum und das umfangreiche Historische Museum ein. Der Nachmittag führt Sie mit dem Auto zum hochgelegenen Schewtschenko-Park. Von dort aus erkunden Sie zu Fuß die Verklärungskathedrale und die legendäre Klosterinsel und genießen die ruhige Atmosphäre am Flussufer zum Abschluss des Tages.",
+        "hu": "Dnyiproi autós túrája három kényelmes klaszterre oszlik. Nyugaton, a Globa Parkban kezdi a napot, és gyalog fedezi fel a közeli Szentháromság-székesegyházat. Ezután a városközpontba hajt, leparkol, és elmerül a modern Menora Központban és a hatalmas Történeti Múzeumban. A délután autóval a magasan fekvő Sevcsenko Parkba vezet. Innen gyalogosan fedezi fel az Urunk Színeváltozása székesegyházat és a legendás Kolostor-szigetet, élvezve a nyugodt folyóparti hangulatot a nap végén.",
+        "ro": "Turul dumneavoastră cu mașina prin Dnipro este împărțit în trei grupuri convenabile. Începeți în vest, în Parcul Globa, explorând pe jos Catedrala Sfânta Treime din apropiere. Apoi, conduceți în centrul orașului, parcați și explorați modernul Centru Menora și vastul Muzeu de Istorie. După-amiaza vă duce cu mașina în parcul Shevchenko, situat pe un deal. De acolo, explorați pe jos Catedrala Schimbarea la Față și legendara Insulă a Mănăstirii, bucurându-vă de atmosfera liniștită de pe malul râului pentru a încheia ziua.",
+        "en": "Your car tour of Dnipro is divided into three convenient clusters. You'll start in the west at Globa Park, exploring the nearby Holy Trinity Cathedral on foot. Then, you'll drive to the city center, park, and immerse yourself in the modern Menorah Center and the vast Historical Museum. The afternoon takes you by car to the hilltop Shevchenko Park. From there, you'll explore the Transfiguration Cathedral and the legendary Monastery Island on foot, enjoying the serene riverside atmosphere to end the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'Reporter'",
+            "tip": "Ein gehobenes Restaurant im Zentrum, perfekt für ein Mittagessen nach dem Museumsbesuch."
+          },
+          {
+            "name": "'Poplavok'",
+            "tip": "Ein schwimmendes Restaurant auf dem Dnepr, das eine einzigartige Atmosphäre und Aussicht bietet."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Zahlreiche Cafés in der Innenstadt laden zu einer Pause ein, z.B. 'DoubleDecker Cake & Brew Bar'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Reporter' étterem",
+            "tip": "Egy elegáns étterem a központban, tökéletes egy ebédhez a múzeumlátogatás után."
+          },
+          {
+            "name": "'Poplavok'",
+            "tip": "Egy úszó étterem a Dnyeperen, amely egyedülálló hangulatot és kilátást kínál."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Számos belvárosi kávézó hívogat egy szünetre, pl. a 'DoubleDecker Cake & Brew Bar'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul 'Reporter'",
+            "tip": "Un restaurant de lux în centru, perfect pentru prânz după vizita la muzeu."
+          },
+          {
+            "name": "'Poplavok'",
+            "tip": "Un restaurant plutitor pe Nipru, care oferă o atmosferă și o priveliște unică."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Numeroase cafenele din centrul orașului vă invită să luați o pauză, de ex. 'DoubleDecker Cake & Brew Bar'."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Reporter' Restaurant",
+            "tip": "An upscale restaurant in the center, perfect for lunch after the museum visit."
+          },
+          {
+            "name": "'Poplavok'",
+            "tip": "A floating restaurant on the Dnipro, offering a unique atmosphere and views."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Numerous cafes in the city center invite you for a break, e.g., 'DoubleDecker Cake & Brew Bar'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang von der Klosterinsel 🌅",
+            "tip": "Die Fahrt hierher am Ende des Tages lohnt sich für die spektakuläre Aussicht."
+          },
+          {
+            "name": "Spaziergang im Globa-Park 🍃",
+            "tip": "Entfliehen Sie dem Verkehr und genießen Sie die friedliche Umgebung."
+          },
+          {
+            "name": "Blick vom Schewtschenko-Denkmal 🏞️",
+            "tip": "Ein ruhiger Ort im Park, um über die Stadt und den Fluss zu blicken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Kolostor-szigetről 🌅",
+            "tip": "Megéri ideautózni a nap végén a látványos kilátásért."
+          },
+          {
+            "name": "Séta a Globa Parkban 🍃",
+            "tip": "Meneküljön el a forgalom elől és élvezze a békés környezetet."
+          },
+          {
+            "name": "Kilátás a Sevcsenko emlékműtől 🏞️",
+            "tip": "Egy csendes hely a parkban, ahonnan a városra és a folyóra lehet tekinteni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare de pe Insula Mănăstirii 🌅",
+            "tip": "Merită să conduceți aici la sfârșitul zilei pentru priveliștea spectaculoasă."
+          },
+          {
+            "name": "Plimbare în Parcul Globa 🍃",
+            "tip": "Evadați din trafic și bucurați-vă de împrejurimile pașnice."
+          },
+          {
+            "name": "Vedere de la monumentul Shevchenko 🏞️",
+            "tip": "Un loc liniștit în parc pentru a privi peste oraș și râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset from Monastery Island 🌅",
+            "tip": "Worth the drive here at the end of the day for the spectacular view."
+          },
+          {
+            "name": "Stroll in Globa Park 🍃",
+            "tip": "Escape the traffic and enjoy the peaceful surroundings."
+          },
+          {
+            "name": "View from the Shevchenko monument 🏞️",
+            "tip": "A quiet spot in the park to look out over the city and river."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum 'Most-City'",
+            "tip": "Ein modernes Einkaufszentrum in der Nähe des Menora-Zentrums mit Parkmöglichkeiten."
+          },
+          {
+            "name": "Lokale Kunstgalerien",
+            "tip": "Halten Sie in kleineren Galerien im Stadtzentrum Ausschau nach Werken lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Most-City' bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont a Menora Központ közelében, parkolási lehetőséggel."
+          },
+          {
+            "name": "Helyi művészeti galériák",
+            "tip": "Keresse a helyi művészek alkotásait a kisebb belvárosi galériákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 'Most-City'",
+            "tip": "Un centru comercial modern lângă Centrul Menora, cu parcare disponibilă."
+          },
+          {
+            "name": "Galerii de artă locale",
+            "tip": "Căutați lucrări ale artiștilor locali în galeriile mai mici din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Most-City' Shopping Mall",
+            "tip": "A modern shopping mall near the Menorah Center with parking facilities."
+          },
+          {
+            "name": "Local Art Galleries",
+            "tip": "Look for works by local artists in smaller galleries in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Stadtzentrum eine Herausforderung sein; nutzen Sie bewachte Parkplätze.",
+          "Planen Sie Zeit für den Verkehr zwischen den Clustern ein.",
+          "Achten Sie auf die Parkregeln, um Strafzettel zu vermeiden.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch weiter entfernte Orte zu besuchen."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a városközpontban; használjon őrzött parkolókat.",
+          "Számoljon időt a klaszterek közötti forgalomra.",
+          "A büntetések elkerülése érdekében figyeljen a parkolási szabályokra.",
+          "Az autó rugalmasságot ad a távolabbi helyek meglátogatásához is."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centrul orașului; folosiți parcările păzite.",
+          "Planificați timp pentru trafic între grupuri.",
+          "Fiți atenți la regulile de parcare pentru a evita amenzile.",
+          "O mașină vă oferă flexibilitatea de a vizita și locuri mai îndepărtate."
+        ],
+        "en": [
+          "Parking can be a challenge in the city center; use paid parking lots.",
+          "Allow time for traffic between clusters.",
+          "Pay attention to parking regulations to avoid fines.",
+          "A car gives you the flexibility to visit more distant places as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 14.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Start & Cluster A: Dnepr-Uferpromenade",
+            "hu": "Indulás és A klaszter: Dnyeper-parti sétány",
+            "ro": "Start & Cluster A: Promenada de pe malul Niprului",
+            "en": "Start & Cluster A: Dnipro River Embankment"
+          },
+          "coords": [
+            35.055,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Trolleybus zu einer Haltestelle in der Nähe der Uferpromenade.",
+            "hu": "Menjen busszal vagy trolibusszal a sétányhoz közeli megállóig.",
+            "ro": "Luați un autobuz sau un troleibuz până la o stație de lângă promenadă.",
+            "en": "Take a bus or trolleybus to a stop near the Embankment."
+          }
+        },
+        {
+          "name": {
+            "de": "Raketenpark",
+            "hu": "Rakétapark",
+            "ro": "Parcul Rachetelor",
+            "en": "Rocket Park"
+          },
+          "coords": [
+            35.057,
+            48.475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang des Flusses führt Sie zu den ausgestellten Raketen.",
+            "hu": "Rövid séta a folyó mentén a kiállított rakétákhoz.",
+            "ro": "O scurtă plimbare de-a lungul râului vă duce la rachetele expuse.",
+            "en": "A short walk along the river takes you to the displayed rockets."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Heilige-Dreifaltigkeits-Kathedrale",
+            "hu": "B klaszter: Szentháromság-székesegyház",
+            "ro": "Cluster B: Catedrala Sfânta Treime",
+            "en": "Cluster B: Holy Trinity Cathedral"
+          },
+          "coords": [
+            35.038,
+            48.462
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Transit ins Stadtzentrum, um dieses architektonische Juwel zu sehen.",
+            "hu": "Utazzon a városközpontba tömegközlekedéssel, hogy megnézze ezt az építészeti gyöngyszemet.",
+            "ro": "Luați transportul în comun spre centrul orașului pentru a vedea această bijuterie arhitecturală.",
+            "en": "Take transit to the city center to see this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Menora-Zentrum",
+            "hu": "Menora Központ",
+            "ro": "Centrul Menora",
+            "en": "Menorah Center"
+          },
+          "coords": [
+            35.045,
+            48.46
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Zentrum ist nur einen kurzen Spaziergang entfernt. Ideal für Mittagessen und Aussicht.",
+            "hu": "A központ csak egy rövid sétára van. Ideális ebédhez és a kilátás megcsodálásához.",
+            "ro": "Centrul este la o scurtă plimbare. Ideal pentru prânz și priveliște.",
+            "en": "The center is just a short walk away. Ideal for lunch and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Verklärungs-Kathedrale",
+            "hu": "C klaszter: Urunk Színeváltozása székesegyház",
+            "ro": "Cluster C: Catedrala Schimbarea la Față",
+            "en": "Cluster C: Transfiguration Cathedral"
+          },
+          "coords": [
+            35.065,
+            48.458
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Fahrt mit dem Transit bringt Sie in die Nähe des Schewtschenko-Parks.",
+            "hu": "Egy újabb tömegközlekedési út visz a Sevcsenko Park közelébe.",
+            "ro": "O altă călătorie cu transportul în comun vă duce în apropierea Parcului Shevchenko.",
+            "en": "Another transit ride takes you near Shevchenko Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Taras-Schewtschenko-Park",
+            "hu": "Tarasz Sevcsenko Park",
+            "ro": "Parcul Taras Shevchenko",
+            "en": "Taras Shevchenko Park"
+          },
+          "coords": [
+            35.062,
+            48.455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, nachdem Sie von der Kathedrale hierher gelaufen sind.",
+            "hu": "Pihenjen a parkban, miután átsétált a székesegyháztól.",
+            "ro": "Relaxați-vă în parc după ce ați mers pe jos de la catedrală.",
+            "en": "Relax in the park after walking here from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterinsel",
+            "hu": "Kolostor-sziget",
+            "ro": "Insula Mănăstirii",
+            "en": "Monastery Island"
+          },
+          "coords": [
+            35.068,
+            48.454
+          ],
+          "category": "islands",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang zur Insel, um den Tag in Ruhe ausklingen zu lassen.",
+            "hu": "Egy utolsó séta a szigetre, hogy békésen zárja a napot.",
+            "ro": "O ultimă plimbare spre insulă pentru a încheia ziua în liniște.",
+            "en": "A final walk to the island to end the day peacefully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Dnipro in drei Etappen. Die Tour beginnt an der Uferpromenade und dem Raketenpark. Danach bringt Sie eine Fahrt ins Herz der Stadt, wo Sie die Dreifaltigkeitskathedrale und das Menora-Zentrum zu Fuß erkunden. Der Nachmittag ist dem ruhigeren, oberen Teil der Stadt gewidmet. Eine weitere Fahrt bringt Sie zur Verklärungskathedrale, von wo aus Sie durch den Schewtschenko-Park zur mythischen Klosterinsel spazieren und den Tag ausklingen lassen.",
+        "hu": "Tömegközlekedéssel három szakaszban fedezi fel Dnyiprót. A túra a folyóparti sétánnyal és a Rakétaparkkal kezdődik. Ezután egy utazás a város szívébe viszi, ahol gyalogosan fedezi fel a Szentháromság-székesegyházat és a Menora Központot. A délután a város csendesebb, felső részéé. Egy újabb utazás elviszi az Urunk Színeváltozása székesegyházhoz, ahonnan a Sevcsenko Parkon keresztül a misztikus Kolostor-szigetre sétál, hogy befejezze a napot.",
+        "ro": "Folosind transportul public, explorați Dnipro în trei etape. Turul începe cu promenada de pe malul râului și Parcul Rachetelor. Apoi, o călătorie vă duce în inima orașului, unde explorați pe jos Catedrala Sfânta Treime și Centrul Menora. După-amiaza este dedicată părții superioare, mai liniștite, a orașului. O altă călătorie vă duce la Catedrala Schimbarea la Față, de unde vă plimbați prin Parcul Shevchenko până la mitica Insulă a Mănăstirii pentru a încheia ziua.",
+        "en": "Using public transit, you'll explore Dnipro in three stages. The tour begins with the river embankment and Rocket Park. Afterwards, a ride takes you to the heart of the city, where you explore the Holy Trinity Cathedral and Menorah Center on foot. The afternoon is dedicated to the quieter, upper part of the city. Another ride takes you to the Transfiguration Cathedral, from where you stroll through Shevchenko Park to the mythical Monastery Island to finish the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Street Food",
+            "tip": "Probieren Sie an den Kiosken in der Nähe von Transit-Hubs lokale Snacks wie Piroggen."
+          },
+          {
+            "name": "'Puzata Hata'",
+            "tip": "Diese Kette ist oft in der Nähe von Hauptverkehrsadern zu finden und bietet eine schnelle, günstige und authentische Mahlzeit."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein fermentiertes Brotgetränk, das oft an Straßenständen verkauft wird und sehr erfrischend ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai étel",
+            "tip": "Kóstoljon meg helyi harapnivalókat, például pirogot a közlekedési csomópontok közelében lévő kioszkoknál."
+          },
+          {
+            "name": "'Puzata Hata'",
+            "tip": "Ez a lánc gyakran megtalálható a fő közlekedési útvonalak közelében, és gyors, olcsó és autentikus étkezést kínál."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Erjesztett kenyérből készült ital, amelyet gyakran árulnak az utcai standokon, és nagyon frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mâncare stradală",
+            "tip": "Încercați gustări locale, cum ar fi pirogi, la chioșcurile din apropierea nodurilor de transport."
+          },
+          {
+            "name": "'Puzata Hata'",
+            "tip": "Acest lanț se găsește adesea în apropierea arterelor principale de transport, oferind o masă rapidă, ieftină și autentică."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură fermentată din pâine, adesea vândută la tarabe stradale și foarte răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Food",
+            "tip": "Try local snacks like pirozhki from kiosks near transit hubs."
+          },
+          {
+            "name": "'Puzata Hata'",
+            "tip": "This chain is often located near main transport arteries, offering a quick, cheap, and authentic meal."
+          },
+          {
+            "name": "Kvas",
+            "tip": "A fermented bread drink, often sold at street stalls and very refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt mit dem Trolleybus 🧘",
+            "tip": "Manchmal kann eine Fahrt durch weniger überfüllte Stadtteile eine entspannende Art sein, die Stadt zu sehen."
+          },
+          {
+            "name": "Bank im Schewtschenko-Park 🍃",
+            "tip": "Ein perfekter Ort, um nach der Fahrt mit dem Transit eine Pause einzulegen."
+          },
+          {
+            "name": "Später Nachmittag auf der Klosterinsel 🌅",
+            "tip": "Genießen Sie die Ruhe, bevor Sie den Rückweg antreten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trolibuszozás 🧘",
+            "tip": "Néha egy utazás a kevésbé zsúfolt városrészeken keresztül pihentető módja lehet a városnézésnek."
+          },
+          {
+            "name": "Pad a Sevcsenko Parkban 🍃",
+            "tip": "Tökéletes hely egy szünetre a tömegközlekedési utazás után."
+          },
+          {
+            "name": "Késő délután a Kolostor-szigeten 🌅",
+            "tip": "Élvezze a csendet, mielőtt visszaindulna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu troleibuzul 🧘",
+            "tip": "Uneori, o călătorie prin cartiere mai puțin aglomerate poate fi o modalitate relaxantă de a vedea orașul."
+          },
+          {
+            "name": "Bancă în Parcul Shevchenko 🍃",
+            "tip": "Un loc perfect pentru a lua o pauză după călătoria cu transportul în comun."
+          },
+          {
+            "name": "După-amiază târzie pe Insula Mănăstirii 🌅",
+            "tip": "Bucurați-vă de liniște înainte de a vă întoarce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trolleybus ride 🧘",
+            "tip": "Sometimes a ride through less crowded neighborhoods can be a relaxing way to see the city."
+          },
+          {
+            "name": "Bench in Shevchenko Park 🍃",
+            "tip": "A perfect spot to take a break after the transit ride."
+          },
+          {
+            "name": "Late afternoon on Monastery Island 🌅",
+            "tip": "Enjoy the quiet before you head back."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Buchmarkt",
+            "tip": "In der Nähe der Universität gibt es oft einen Freiluft-Buchmarkt, ein Paradies für Bibliophile."
+          },
+          {
+            "name": "Passage im Stadtzentrum",
+            "tip": "Unterführungen in der Nähe von Metrostationen haben oft eine Vielzahl kleiner Geschäfte, die alles Mögliche verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvpiac",
+            "tip": "Az egyetem közelében gyakran van egy szabadtéri könyvpiac, a bibliofilek paradicsoma."
+          },
+          {
+            "name": "Passzázs a városközpontban",
+            "tip": "A metróállomások közelében lévő aluljárókban gyakran sokféle kis üzlet található, amelyek mindenfélét árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de carte",
+            "tip": "Există adesea o piață de carte în aer liber lângă universitate, un paradis pentru bibliofili."
+          },
+          {
+            "name": "Pasaj în centrul orașului",
+            "tip": "Pasajele subterane din apropierea stațiilor de metrou au adesea o varietate de magazine mici care vând tot felul de lucruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Book Market",
+            "tip": "There is often an open-air book market near the university, a paradise for bibliophiles."
+          },
+          {
+            "name": "City center underpass",
+            "tip": "Underpasses near metro stations often have a variety of small shops selling all sorts of things."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
+          "Apps wie 'EasyWay' helfen bei der Routenplanung.",
+          "Seien Sie auf volle Busse und Trolleybusse während der Stoßzeiten vorbereitet.",
+          "Validieren Sie Ihr Ticket immer, um Strafen zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Az olyan alkalmazások, mint az 'EasyWay', segítenek az útvonaltervezésben.",
+          "Készüljön fel a zsúfolt buszokra és trolibuszokra csúcsidőben.",
+          "A büntetések elkerülése érdekében mindig érvényesítse a jegyét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Aplicații precum 'EasyWay' vă ajută să vă planificați traseul.",
+          "Fiți pregătiți pentru autobuze și troleibuze aglomerate în orele de vârf.",
+          "Validați-vă întotdeauna biletul pentru a evita amenzile."
+        ],
+        "en": [
+          "Buy a day pass for public transport.",
+          "Apps like 'EasyWay' help with route planning.",
+          "Be prepared for crowded buses and trolleybuses during peak hours.",
+          "Always validate your ticket to avoid fines."
+        ]
+      }
+    }
+  }
+}

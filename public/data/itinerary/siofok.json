@@ -1,10 +1,10 @@
 {
   "city_id": "siofok",
   "anchor": {
-    "name": "Siófok Fő tér",
+    "name": "Siófok, Wasserturm",
     "coords": [
-      46.904,
-      18.058
+      18.05,
+      46.9
     ]
   },
   "modes": {
@@ -12,341 +12,372 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "16:30",
-      "total_km": 5.2,
-      "stop_count": 8,
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Siófok Fő tér / Széchenyi tér",
+          "name": {
+            "de": "Wasserturm von Siófok",
+            "hu": "Siófoki víztorony",
+            "ro": "Turnul de apă din Siófok",
+            "en": "Siófok Water Tower"
+          },
           "coords": [
-            46.904,
-            18.058
+            18.051,
+            46.906
           ],
-          "category": "square",
+          "category": "castles/fortresses/towers",
           "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Morgens ist der Platz noch ruhig – ideal für Fotos.",
-            "hu": "Reggelente csendes a tér – ideális fotózáshoz.",
-            "ro": "Dimineața piața este liniștită – ideală pentru fotografii.",
-            "en": "In the morning the square is quiet – perfect for photos."
-          }
-        },
-        {
-          "name": "Siófoki Evangélikus Templom",
-          "coords": [
-            46.903,
-            18.056
-          ],
-          "category": "religious",
-          "arrive_at": "09:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Schauen Sie in den Innenhof – dort blühen die Rosen.",
-            "hu": "Nézzen be a belső udvarba – ott nyílnak a rózsák.",
-            "ro": "Uitați-vă în curtea interioară – acolo înfloresc trandafirii.",
-            "en": "Look into the inner courtyard – the roses are blooming there."
-          }
-        },
-        {
-          "name": "Kálmán Imre Múzeum",
-          "coords": [
-            46.902,
-            18.055
-          ],
-          "category": "museum",
-          "arrive_at": "10:20",
-          "stay_min": 100,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.15,
-          "tip_5lang": {
-            "de": "Der Audioguide ist kostenlos und sehr informativ.",
-            "hu": "Az audioguide ingyenes és nagyon informatív.",
-            "ro": "Ghidul audio este gratuit și foarte informativ.",
-            "en": "The audio guide is free and very informative."
-          }
-        },
-        {
-          "name": "Jókai Park",
-          "coords": [
-            46.901,
-            18.059
-          ],
-          "category": "park",
-          "arrive_at": "12:10",
-          "stay_min": 75,
+          "stay_min": 45,
           "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Aufzug nach oben, um die beste Aussicht auf den Balaton zu genießen.",
+            "hu": "Lifttel menj fel a tetejére a legjobb balatoni panorámáért.",
+            "ro": "Urcați cu liftul pentru cea mai bună priveliște asupra lacului Balaton.",
+            "en": "Take the elevator to the top for the best view of Lake Balaton."
+          }
+        },
+        {
+          "name": {
+            "de": "Millenniumspark",
+            "hu": "Millennium park",
+            "ro": "Parcul Millennium",
+            "en": "Millennium Park"
+          },
+          "coords": [
+            18.052,
+            46.908
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Picknickdecken gibt es am Kiosk auszuleihen.",
-            "hu": "A büfében pikniktakarót lehet kölcsönözni.",
-            "ro": "La chioșc se pot împrumuta pături de picnic.",
-            "en": "Picnic blankets are available for loan at the kiosk."
+            "de": "Ein schöner Ort, um sich im Schatten zu entspannen und die Statuen zu bewundern.",
+            "hu": "Kellemes hely a pihenésre az árnyékban, és a szobrok megcsodálására.",
+            "ro": "Un loc plăcut pentru a vă relaxa la umbră și a admira statuile.",
+            "en": "A lovely spot to relax in the shade and admire the statues."
           }
         },
         {
-          "name": "Platán Strand",
+          "name": {
+            "de": "Kálmán-Imre-Gedächtnishaus",
+            "hu": "Kálmán Imre Emlékház",
+            "ro": "Casa Memorială Kálmán Imre",
+            "en": "Imre Kálmán Memorial House"
+          },
           "coords": [
-            46.898,
-            18.062
+            18.055,
+            46.908
           ],
-          "category": "beach",
-          "arrive_at": "13:35",
-          "stay_min": 180,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Der östliche Strandabschnitt ist weniger überlaufen.",
-            "hu": "A keleti partszakasz kevésbé zsúfolt.",
-            "ro": "Secțiunea de plajă estică este mai puțin aglomerată.",
-            "en": "The eastern beach section is less crowded."
-          }
-        },
-        {
-          "name": "Villa sor (sétány)",
-          "coords": [
-            46.896,
-            18.065
-          ],
-          "category": "historical",
-          "arrive_at": "16:05",
-          "stay_min": 80,
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 60,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.25,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Die Villen haben alle eine eigene Geschichte – lesen Sie die Tafeln.",
-            "hu": "A villáknak mind saját történetük van – olvassa el a táblákat.",
-            "ro": "Vilele au fiecare propria poveste – citiți plăcuțele.",
-            "en": "The villas each have their own story – read the plaques."
+            "de": "Entdecken Sie das Leben des berühmten Operettenkomponisten.",
+            "hu": "Ismerd meg a híres operett-szerző életét.",
+            "ro": "Descoperiți viața faimosului compozitor de operetă.",
+            "en": "Discover the life of the famous operetta composer."
           }
         },
         {
-          "name": "Halászcsárda Étterem",
+          "name": {
+            "de": "Hafen von Siófok",
+            "hu": "Siófoki hajóállomás",
+            "ro": "Portul din Siófok",
+            "en": "Port of Siófok"
+          },
           "coords": [
-            46.897,
-            18.066
+            18.055,
+            46.912
           ],
-          "category": "gastro",
-          "arrive_at": "17:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
+          "category": "port",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Segelboote und nehmen Sie vielleicht eine Fähre für eine kurze Rundfahrt.",
+            "hu": "Nézd a vitorlásokat, és esetleg szállj fel egy kompra egy rövid körútra.",
+            "ro": "Priviți iahturile și poate luați un feribot pentru o scurtă croazieră.",
+            "en": "Watch the sailboats and maybe catch a ferry for a short cruise."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Rózsakert)",
+            "hu": "Rózsakert",
+            "ro": "Grădina cu trandafiri (Rózsakert)",
+            "en": "Rose Garden (Rózsakert)"
+          },
+          "coords": [
+            18.056,
+            46.911
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Probieren Sie die Fischsuppe – die beste am See!",
-            "hu": "Kóstolja meg a halászlét – a legjobb a tónál!",
-            "ro": "Încercați ciorba de pește – cea mai bună de la lac!",
-            "en": "Try the fish soup – the best at the lake!"
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf den See.",
+            "hu": "Tökéletes hely egy ebédhez, kilátással a tóra.",
+            "ro": "Locul perfect pentru prânz cu vedere la lac.",
+            "en": "Perfect spot for a lunch with a view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Jókai-Park",
+            "hu": "Jókai park",
+            "ro": "Parcul Jókai",
+            "en": "Jókai Park"
+          },
+          "coords": [
+            18.058,
+            46.911
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großer, schattiger Park, ideal für einen entspannten Spaziergang am Nachmittag.",
+            "hu": "Nagy, árnyas park, ideális egy pihentető délutáni sétához.",
+            "ro": "Un parc mare, umbros, ideal pentru o plimbare relaxantă de după-amiază.",
+            "en": "A large, shady park, perfect for a relaxing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Plázs Siófok",
+            "hu": "Plázs Siófok",
+            "ro": "Plaja Siófok",
+            "en": "Plázs Siófok"
+          },
+          "coords": [
+            18.065,
+            46.913
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mieten Sie eine Sonnenliege und genießen Sie den berühmten Strand von Siófok.",
+            "hu": "Bérelj egy napágyat és élvezd Siófok híres strandját.",
+            "ro": "Închiriați un șezlong și bucurați-vă de faimoasa plajă din Siófok.",
+            "en": "Rent a sunbed and enjoy the famous beach of Siófok."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie den Tag auf dem Hauptplatz von Siófok, wo das Leben erwacht. Schlendern Sie zur evangelischen Kirche und tauchen Sie im Kálmán Imre Museum in die lokale Geschichte ein. Ein Spaziergang durch den Jókai Park führt Sie entspannt zum Platán Strand – ideale Mittagspause mit Blick auf den Balaton. Am Nachmittag erkunden Sie die historische Villenreihe und genießen ein Abendessen in der Halászcsárda mit traditioneller Fischsuppe.",
-        "hu": "Indítsa a napot Siófok főterén, ahol felpezsdül az élet. Sétáljon az evangélikus templomhoz, majd merüljön el a helyi történelemben a Kálmán Imre Múzeumban. A Jókai Parkon átsétálva lazán eléri a Platán Strandot – ideális ebédszünet a Balatonra néző panorámával. Délután fedezze fel a történelmi villasort, és vacsorázzon a Halászcsárdában, ahol a halászlé a tó legjobbja.",
-        "ro": "Începeți ziua în Piața Principală din Siófok, unde viața prinde viață. Plimbați-vă până la biserica evanghelică și adânciți-vă în istoria locală la Muzeul Kálmán Imre. O plimbare prin Parcul Jókai vă duce relaxat la Plaja Platán – pauză de prânz ideală cu vedere la Balaton. După-amiaza explorați șirul de vile istorice și savurați cina la Halászcsárda cu cea mai bună ciorbă de pește.",
-        "en": "Start your day at Siófok's main square, where life awakens. Stroll to the evangelical church and dive into local history at the Kálmán Imre Museum. A walk through Jókai Park leads you relaxed to Platán Beach – ideal lunch break with a view of Lake Balaton. In the afternoon explore the historic villa row and enjoy dinner at Halászcsárda with traditional fish soup."
+        "de": "Beginnen Sie Ihren Tag mit einem Panoramablick vom Wasserturm. Schlendern Sie mittags durch die Parks und den Hafen, genießen Sie ein entspanntes Mittagessen am See. Verbringen Sie den Nachmittag am berühmten Plázs-Strand und lassen Sie den Tag mit einem Cocktail bei Sonnenuntergang ausklingen. Ein perfekter Tag zu Fuß am Balaton.",
+        "hu": "Kezdje a napot egy panorámás kilátással a Víztoronytól. Délben sétáljon végig a parkokon és a kikötőn, és fogyasszon el egy nyugodt ebédet a tóparton. Töltse a délutánt a híres Plázson, majd zárja a napot egy naplementés koktéllal. Egy tökéletes nap gyalog a Balaton partján.",
+        "ro": "Începeți ziua cu o vedere panoramică din Turnul de Apă. La prânz, plimbați-vă prin parcuri și port, bucurându-vă de un prânz relaxat pe malul lacului. Petreceți după-amiaza pe faimoasa plajă Plázs, încheind ziua cu un cocktail la apus. O zi perfectă de plimbare pe malul Balatonului.",
+        "en": "Start your day with a panoramic view from the Water Tower. At noon, stroll through the parks and the harbor, enjoying a relaxed lunch by the lake. Spend the afternoon at the famous Plázs beach, finishing the day with a sunset cocktail. A perfect day on foot at Lake Balaton."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Halászlé a Balatonból",
-            "tip": "Frisch gefangener Fisch, würzig und sämig."
-          },
-          {
-            "name": "Fogas (Zander)",
-            "tip": "Gebraten mit Butter und Kräutern serviert."
+            "name": "Zanderfilet (Fogas)",
+            "tip": "Probieren Sie den lokalen Fisch, gegrillt oder gebraten."
           },
           {
             "name": "Lángos",
-            "tip": "Klassischer ungarischer Streetfood – mit Sauerrahm und Käse."
+            "tip": "Der klassische ungarische Strandsnack, am besten mit Knoblauch und Käse."
+          },
+          {
+            "name": "Gundel-Palatschinken",
+            "tip": "Ein dekadentes Dessert mit Walnüssen und Schokoladensauce."
           }
         ],
         "hu": [
           {
-            "name": "Balatoni halászlé",
-            "tip": "Frissen fogott halból, fűszeres és sűrű."
-          },
-          {
-            "name": "Fogas",
-            "tip": "Vajban sütve, fűszernövényekkel tálalva."
+            "name": "Fogasfilé",
+            "tip": "Kóstold meg a helyi halat, grillezve vagy rántva."
           },
           {
             "name": "Lángos",
-            "tip": "Klasszikus magyar utcai étel – tejföllel és sajttal."
+            "tip": "A klasszikus magyar strandétel, a legjobb fokhagymával és sajttal."
+          },
+          {
+            "name": "Gundel-palacsinta",
+            "tip": "Dekadens desszert dióval és csokoládéöntettel."
           }
         ],
         "ro": [
           {
-            "name": "Ciorbă de pește de la Balaton",
-            "tip": "Pește proaspăt prins, picant și cremos."
-          },
-          {
-            "name": "Șalău (Fogas)",
-            "tip": "Prăjit în unt, servit cu ierburi."
+            "name": "File de șalău (Fogas)",
+            "tip": "Gustați peștele local, la grătar sau prăjit."
           },
           {
             "name": "Lángos",
-            "tip": "Mâncare stradală clasică maghiară – cu smântână și brânză."
+            "tip": "Gustarea clasică maghiară de plajă, cel mai bun cu usturoi și brânză."
+          },
+          {
+            "name": "Clătite Gundel",
+            "tip": "Un desert decadent cu nuci și sos de ciocolată."
           }
         ],
         "en": [
           {
-            "name": "Fisherman's Soup from Balaton",
-            "tip": "Freshly caught fish, spicy and thick."
-          },
-          {
-            "name": "Zander (Fogas)",
-            "tip": "Pan-fried in butter with herbs."
+            "name": "Pike-perch fillet (Fogas)",
+            "tip": "Try the local fish, grilled or fried."
           },
           {
             "name": "Lángos",
-            "tip": "Classic Hungarian street food – with sour cream and cheese."
+            "tip": "The classic Hungarian beach snack, best with garlic and cheese."
+          },
+          {
+            "name": "Gundel Pancake",
+            "tip": "A decadent dessert with walnuts and chocolate sauce."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Platán Strand Sonnenuntergang",
-            "tip": "Der ruhigste Abschnitt im Osten – perfekt für den Abend.",
+            "name": "Jókai-Park",
+            "tip": "Finden Sie eine ruhige Bank unter den alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Hafen",
+            "tip": "Beobachten Sie, wie die Sonne hinter dem Tihany-Hügel untergeht.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Teich",
-            "tip": "Eine versteckte Bank unter alten Platanen.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor Morgenstunde",
-            "tip": "Früh am Tag fast menschenleer – nur Vogelgezwitscher.",
-            "emoji": "🍃"
+            "name": "Spaziergang am frühen Morgen am Ufer",
+            "tip": "Genießen Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Platán Strand naplemente",
-            "tip": "A legcsendesebb keleti szakasz – tökéletes estére.",
+            "name": "Jókai-park",
+            "tip": "Keress egy csendes padot az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a kikötőben",
+            "tip": "Nézd, ahogy a nap lemegy a tihanyi dombok mögött.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park tó",
-            "tip": "Egy rejtett pad öreg platánok alatt.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor reggel",
-            "tip": "Kora reggel szinte kihalt – csak madárcsicsergés.",
-            "emoji": "🍃"
+            "name": "Kora reggeli séta a parton",
+            "tip": "Élvezd a csendet, mielőtt a város felébred.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Plaja Platán la apus",
-            "tip": "Secțiunea estică liniștită – perfectă pentru seară.",
+            "name": "Parcul Jókai",
+            "tip": "Găsiți o bancă liniștită sub copacii bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la port",
+            "tip": "Urmăriți soarele apunând după dealul Tihany.",
             "emoji": "🌅"
           },
           {
-            "name": "Parcul Jókai lacul",
-            "tip": "O bancă ascunsă sub platani bătrâni.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Șirul de vile dimineața",
-            "tip": "Dimineața devreme aproape pustiu – doar ciripit de păsări.",
-            "emoji": "🍃"
+            "name": "Plimbare de dimineață pe mal",
+            "tip": "Bucurați-vă de liniște înainte ca orașul să se trezească.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Platán Beach Sunset",
-            "tip": "The quiet eastern section – perfect for evening.",
+            "name": "Jókai Park",
+            "tip": "Find a quiet bench under the old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Harbor",
+            "tip": "Watch the sun go down behind the Tihany hill.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Pond",
-            "tip": "A hidden bench under old plane trees.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa Row Morning",
-            "tip": "Early morning almost deserted – only birdsong.",
-            "emoji": "🍃"
+            "name": "Early morning walk on the shore",
+            "tip": "Enjoy the silence before the town wakes up.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Handbemalte Keramik und Lavendelprodukte."
+            "name": "Siófoker Markthalle",
+            "tip": "Kaufen Sie lokale Produkte und Paprika-Souvenirs."
           },
           {
-            "name": "Siófok Wochenmarkt (samstags)",
-            "tip": "Frische Früchte, Honig und lokale Weine."
+            "name": "Promenade",
+            "tip": "Finden Sie handgemachten Schmuck und Balaton-T-Shirts."
           }
         ],
         "hu": [
           {
-            "name": "Balaton Ajándékbolt",
-            "tip": "Kézzel festett kerámia és levendulás termékek."
+            "name": "Siófoki Vásárcsarnok",
+            "tip": "Vásárolj helyi termékeket és paprika ajándéktárgyakat."
           },
           {
-            "name": "Siófoki hetipiac (szombat)",
-            "tip": "Friss gyümölcsök, méz és helyi borok."
+            "name": "Sétány",
+            "tip": "Találj kézműves ékszereket és balatoni pólókat."
           }
         ],
         "ro": [
           {
-            "name": "Magazin de suveniruri Balaton",
-            "tip": "Ceramică pictată manual și produse cu lavandă."
+            "name": "Hala Pieței din Siófok",
+            "tip": "Cumpărați produse locale și suveniruri cu paprika."
           },
           {
-            "name": "Piața săptămânală Siófok (sâmbăta)",
-            "tip": "Fructe proaspete, miere și vinuri locale."
+            "name": "Promenada",
+            "tip": "Găsiți bijuterii artizanale și tricouri cu Balaton."
           }
         ],
         "en": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Hand-painted ceramics and lavender products."
+            "name": "Siófok Market Hall",
+            "tip": "Buy local produce and paprika souvenirs."
           },
           {
-            "name": "Siófok Weekly Market (Saturdays)",
-            "tip": "Fresh fruits, honey, and local wines."
+            "name": "Promenade",
+            "tip": "Find handmade jewelry and Lake Balaton t-shirts."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe – die Altstadt ist gepflastert.",
-          "Nehmen Sie eine Wasserflasche mit; es gibt viele Trinkbrunnen.",
-          "Der Bus zur Innenstadt ist kostenlos für Hotelgäste.",
-          "Planen Sie den Strandbesuch am Vormittag – nachmittags wird es voll.",
-          "Besuchen Sie den Wochenmarkt am Samstag für lokale Produkte."
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist an heißen Tagen unerlässlich.",
+          "Die meisten Orte im Zentrum sind leicht zu Fuß erreichbar.",
+          "Buchen Sie Restaurants im Voraus, besonders im Sommer."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt – a belváros macskaköves.",
-          "Hozzon magával kulacsot; sok ivókút van.",
-          "A belvárosi busz ingyenes a szállóvendégeknek.",
-          "A strandolást délelőttre tervezze – délután megtelik.",
-          "Látogassa meg a szombati hetipiacot a helyi termékekért."
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "Egy kulacs elengedhetetlen a forró napokon.",
+          "A legtöbb központi helyszín könnyen elérhető gyalog.",
+          "Foglalj éttermet előre, különösen nyáron."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă – centrul vechi este pavat.",
-          "Luați o sticlă de apă; există multe fântâni potabile.",
-          "Autobuzul către centru este gratuit pentru oaspeții hotelului.",
-          "Planificați vizita la plajă înainte de prânz – după-amiaza devine aglomerată.",
-          "Vizitați piața săptămânală de sâmbătă pentru produse locale."
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "O sticlă de apă este esențială în zilele calde.",
+          "Majoritatea locurilor din centru sunt ușor accesibile pe jos.",
+          "Rezervați restaurantele în avans, mai ales vara."
         ],
         "en": [
-          "Wear comfortable shoes – the old town is cobbled.",
-          "Bring a water bottle; there are many drinking fountains.",
-          "The bus to the city center is free for hotel guests.",
-          "Plan your beach visit in the morning – it gets crowded in the afternoon.",
-          "Visit the weekly market on Saturday for local products."
+          "Wear comfortable shoes, you'll be doing a lot of walking.",
+          "A water bottle is essential on hot days.",
+          "Most central spots are easily reachable on foot.",
+          "Book restaurants in advance, especially in summer."
         ]
       }
     },
@@ -354,267 +385,325 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 18.5,
-      "stop_count": 7,
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 8,
       "stops": [
         {
-          "name": "Siófok Fő tér / Széchenyi tér",
+          "name": {
+            "de": "Wasserturm von Siófok",
+            "hu": "Siófoki víztorony",
+            "ro": "Turnul de apă din Siófok",
+            "en": "Siófok Water Tower"
+          },
           "coords": [
-            46.904,
-            18.058
+            18.051,
+            46.906
           ],
-          "category": "square",
+          "category": "castles/fortresses/towers",
           "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Fahrradparkplätze gibt es direkt vor dem Rathaus.",
-            "hu": "Bicikliparkoló közvetlenül a városháza előtt van.",
-            "ro": "Parcare pentru biciclete direct în fața primăriei.",
-            "en": "Bike parking is available right in front of the town hall."
+            "de": "Beginnen Sie hier, um sich zu orientieren, bevor Sie in die Pedale treten.",
+            "hu": "Itt kezdj, hogy tájékozódj, mielőtt nyeregbe pattansz.",
+            "ro": "Începeți de aici pentru a vă orienta înainte de a începe să pedalați.",
+            "en": "Start here to get your bearings before you start pedaling."
           }
         },
         {
-          "name": "Siófoki Evangélikus Templom",
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
           "coords": [
-            46.903,
-            18.056
+            18.048,
+            46.904
           ],
-          "category": "religious",
-          "arrive_at": "09:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 2,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Holzarchitektur dieses modernen Meisterwerks.",
+            "hu": "Csodáld meg ennek a modern remekműnek az egyedi faépítészetét.",
+            "ro": "Admirați arhitectura unică din lemn a acestei capodopere moderne.",
+            "en": "Admire the unique wooden architecture of this modern masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Sió-Schleuse",
+            "hu": "Sió-zsilip",
+            "ro": "Ecluza Sió",
+            "en": "Sió Lock"
+          },
+          "coords": [
+            18.045,
+            46.91
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:31",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie, wie der Wasserstand des Balaton reguliert wird.",
+            "hu": "Nézd meg, hogyan szabályozzák a Balaton vízszintjét.",
+            "ro": "Vedeți cum este reglat nivelul apei din Lacul Balaton.",
+            "en": "See how the water level of Lake Balaton is regulated."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Siófok",
+            "hu": "Siófoki hajóállomás",
+            "ro": "Portul din Siófok",
+            "en": "Port of Siófok"
+          },
+          "coords": [
+            18.055,
+            46.912
+          ],
+          "category": "port",
+          "arrive_at": "10:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie entlang der Anlegestellen.",
+            "hu": "Zárd le a biciklidet és sétálj egyet a mólókon.",
+            "ro": "Parcați bicicleta și faceți o plimbare de-a lungul debarcaderelor.",
+            "en": "Lock up your bike and take a walk along the jetties."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten & Mittagessen",
+            "hu": "Rózsakert & Ebéd",
+            "ro": "Grădina cu trandafiri & Prânz",
+            "en": "Rose Garden & Lunch"
+          },
+          "coords": [
+            18.056,
+            46.911
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
           "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Das Fahrrad kann am Zaun abgeschlossen werden.",
-            "hu": "A biciklit a kerítéshez lehet lakatolni.",
-            "ro": "Bicicleta poate fi încuiată de gard.",
-            "en": "The bike can be locked to the fence."
+            "de": "Ein idealer Ort, um aufzutanken, bevor Sie weiterfahren.",
+            "hu": "Ideális hely a feltöltődésre a további tekerés előtt.",
+            "ro": "Un loc ideal pentru a vă realimenta înainte de a continua drumul.",
+            "en": "An ideal place to refuel before you continue your ride."
           }
         },
         {
-          "name": "Kálmán Imre Múzeum",
+          "name": {
+            "de": "Jókai-Park",
+            "hu": "Jókai park",
+            "ro": "Parcul Jókai",
+            "en": "Jókai Park"
+          },
           "coords": [
-            46.902,
-            18.055
+            18.058,
+            46.911
           ],
-          "category": "museum",
-          "arrive_at": "10:20",
-          "stay_min": 100,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.15,
-          "tip_5lang": {
-            "de": "Wertsachen im Fahrradkorb lassen – besser mitnehmen.",
-            "hu": "Az értékeket ne hagyja a kosárban – vigye magával.",
-            "ro": "Nu lăsați obiecte de valoare în coș – luați-le cu dumneavoastră.",
-            "en": "Don't leave valuables in the basket – take them with you."
-          }
-        },
-        {
-          "name": "Jókai Park",
-          "coords": [
-            46.901,
-            18.059
-          ],
-          "category": "park",
-          "arrive_at": "12:10",
-          "stay_min": 75,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:02",
+          "stay_min": 45,
           "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Durch den Park führt ein Radweg – perfekt für eine kurze Ausfahrt.",
-            "hu": "A parkon át vezet egy bringaút – tökéletes egy rövid körre.",
-            "ro": "Prin parc trece o pistă de biciclete – perfectă pentru o scurtă plimbare.",
-            "en": "A bike path runs through the park – perfect for a short ride."
+            "de": "Fahren Sie durch den Park, aber nehmen Sie sich Zeit, den japanischen Garten zu genießen.",
+            "hu": "Tekerj át a parkon, de szánj időt a japánkertre is.",
+            "ro": "Pedalați prin parc, dar acordați-vă timp să vă bucurați de grădina japoneză.",
+            "en": "Ride through the park, but take time to enjoy the Japanese garden."
           }
         },
         {
-          "name": "Platán Strand",
+          "name": {
+            "de": "Plázs Siófok",
+            "hu": "Plázs Siófok",
+            "ro": "Plaja Siófok",
+            "en": "Plázs Siófok"
+          },
           "coords": [
-            46.898,
-            18.062
+            18.065,
+            46.913
           ],
-          "category": "beach",
-          "arrive_at": "13:35",
-          "stay_min": 180,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.5,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:53",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Fahrradständer sind am Strandeingang vorhanden.",
-            "hu": "A strand bejáratánál biciklitároló van.",
-            "ro": "La intrarea pe plajă există suporturi pentru biciclete.",
-            "en": "Bike racks are available at the beach entrance."
+            "de": "Zeit für ein erfrischendes Bad im Balaton!",
+            "hu": "Ideje egy frissítő fürdőzésnek a Balatonban!",
+            "ro": "E timpul pentru o baie răcoritoare în Lacul Balaton!",
+            "en": "Time for a refreshing swim in Lake Balaton!"
           }
         },
         {
-          "name": "Villa sor (sétány)",
+          "name": {
+            "de": "Radtour am Ostufer",
+            "hu": "Keleti-parti kerékpártúra",
+            "ro": "Tur cu bicicleta pe malul de est",
+            "en": "East Shore Bike Ride"
+          },
           "coords": [
-            46.896,
-            18.065
+            18.085,
+            46.915
           ],
-          "category": "historical",
-          "arrive_at": "16:05",
-          "stay_min": 80,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.3,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
           "tip_5lang": {
-            "de": "Besser schieben Sie das Rad auf dem Kopfsteinpflaster.",
-            "hu": "Jobb, ha tolja a biciklit a macskakövön.",
-            "ro": "Mai bine împingeți bicicleta pe piatra cubică.",
-            "en": "Better to walk your bike on the cobblestones."
-          }
-        },
-        {
-          "name": "Halászcsárda Étterem",
-          "coords": [
-            46.897,
-            18.066
-          ],
-          "category": "gastro",
-          "arrive_at": "17:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Es gibt einen überdachten Fahrradständer direkt am Eingang.",
-            "hu": "Fedett biciklitároló van közvetlenül a bejáratnál.",
-            "ro": "Există un suport pentru biciclete acoperit chiar la intrare.",
-            "en": "There is a covered bike rack right at the entrance."
+            "de": "Fahren Sie weiter am Ufer entlang, um ruhigere Strände zu finden.",
+            "hu": "Tekerj tovább a parton a csendesebb strandokért.",
+            "ro": "Continuați să pedalați de-a lungul malului pentru a găsi plaje mai liniștite.",
+            "en": "Keep riding along the shore to find quieter beaches."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Fahrrad erkunden Sie Siófok mühelos. Start am Hauptplatz, kurzer Stopp an der Kirche, dann länger im Museum. Die Radwege führen Sie durch den Jókai Park direkt zum Strand. Nach einem ausgiebigen Bad radeln Sie gemütlich zur Villenreihe und lassen den Tag bei einem traditionellen ungarischen Abendessen ausklingen.",
-        "hu": "Kerékpárral könnyedén felfedezheti Siófokot. Indulás a főtérről, rövid megálló a templomnál, majd hosszabb a múzeumban. A bringautak a Jókai Parkon át visznek egyenesen a strandra. A fürdőzés után kényelmesen tekerjen a villasorhoz, és fejezze be a napot egy hagyományos magyar vacsorával.",
-        "ro": "Cu bicicleta explorați Siófok fără efort. Start în piața principală, scurtă oprire la biserică, apoi mai mult la muzeu. Piste de biciclete vă duc prin Parcul Jókai direct la plajă. După o baie generoasă, pedalați comod spre șirul de vile și încheiați ziua cu o cină tradițională maghiară.",
-        "en": "By bike you explore Siófok effortlessly. Start at the main square, short stop at the church, then longer at the museum. Bike paths lead through Jókai Park straight to the beach. After a good swim, cycle leisurely to the villa row and end the day with a traditional Hungarian dinner."
+        "de": "Erkunden Sie Siófok auf zwei Rädern! Nach dem Blick vom Wasserturm radeln Sie zu architektonischen und technischen Wundern. Nach dem Mittagessen am Hafen genießen Sie den berühmten Strand und radeln dann weiter am Ufer entlang, um die ruhigere Seite von Siófok zu entdecken. Ein aktiver Tag, der Stadt und Natur verbindet.",
+        "hu": "Fedezd fel Siófokot két keréken! A víztoronyi kilátás után tekerj el építészeti és mérnöki csodákhoz. A kikötői ebéd után élvezd a híres strandot, majd tekerj tovább a parton, hogy felfedezd Siófok csendesebb oldalát. Egy aktív nap, amely összeköti a várost és a természetet.",
+        "ro": "Explorați Siófokul pe două roți! După priveliștea din Turnul de Apă, pedalați spre minuni arhitecturale și inginerești. După prânzul în port, bucurați-vă de faimoasa plajă, apoi continuați să pedalați de-a lungul malului pentru a descoperi partea mai liniștită a Siófokului. O zi activă care combină orașul și natura.",
+        "en": "Explore Siófok on two wheels! After the view from the Water Tower, cycle to architectural and engineering wonders. After lunch at the harbor, enjoy the famous beach, then continue cycling along the shore to discover the quieter side of Siófok. An active day combining city and nature."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Halászlé a Balatonból",
-            "tip": "Frisch gefangener Fisch, würzig und sämig."
+            "name": "Balatoni hekk",
+            "tip": "Der beliebteste gebratene Fisch am See, einfach mit Brot und Gurken."
           },
           {
-            "name": "Fogas (Zander)",
-            "tip": "Gebraten mit Butter und Kräutern serviert."
+            "name": "Fröccs",
+            "tip": "Wein-Spritzer, das perfekte erfrischende Getränk für Radfahrer."
           },
           {
-            "name": "Lángos",
-            "tip": "Klassischer ungarischer Streetfood – mit Sauerrahm und Käse."
+            "name": "Kürtőskalács",
+            "tip": "Ein süßer Genuss, um nach einer langen Fahrt Energie zu tanken."
           }
         ],
         "hu": [
           {
-            "name": "Balatoni halászlé",
-            "tip": "Frissen fogott halból, fűszeres és sűrű."
+            "name": "Balatoni hekk",
+            "tip": "A tó legnépszerűbb sült hala, egyszerűen kenyérrel és uborkával."
           },
           {
-            "name": "Fogas",
-            "tip": "Vajban sütve, fűszernövényekkel tálalva."
+            "name": "Fröccs",
+            "tip": "Bor és szóda, a tökéletes frissítő ital a bicikliseknek."
           },
           {
-            "name": "Lángos",
-            "tip": "Klasszikus magyar utcai étel – tejföllel és sajttal."
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, hogy energiát gyűjts egy hosszú tekerés után."
           }
         ],
         "ro": [
           {
-            "name": "Ciorbă de pește de la Balaton",
-            "tip": "Pește proaspăt prins, picant și cremos."
+            "name": "Hake de Balaton",
+            "tip": "Cel mai popular pește prăjit de pe lac, simplu, cu pâine și murături."
           },
           {
-            "name": "Șalău (Fogas)",
-            "tip": "Prăjit în unt, servit cu ierburi."
+            "name": "Fröccs",
+            "tip": "Șpriț de vin, băutura răcoritoare perfectă pentru bicicliști."
           },
           {
-            "name": "Lángos",
-            "tip": "Mâncare stradală clasică maghiară – cu smântână și brânză."
+            "name": "Kürtőskalács",
+            "tip": "Un deliciu dulce pentru a vă reface energia după o plimbare lungă."
           }
         ],
         "en": [
           {
-            "name": "Fisherman's Soup from Balaton",
-            "tip": "Freshly caught fish, spicy and thick."
+            "name": "Balaton Hake",
+            "tip": "The most popular fried fish on the lake, simple with bread and pickles."
           },
           {
-            "name": "Zander (Fogas)",
-            "tip": "Pan-fried in butter with herbs."
+            "name": "Fröccs (Wine Spritzer)",
+            "tip": "The perfect refreshing drink for cyclists."
           },
           {
-            "name": "Lángos",
-            "tip": "Classic Hungarian street food – with sour cream and cheese."
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "A sweet treat to recharge after a long ride."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Platán Strand Sonnenuntergang",
-            "tip": "Der ruhigste Abschnitt im Osten – perfekt für den Abend.",
+            "name": "Sió-Kanal Westufer",
+            "tip": "Ein ruhiger Weg abseits der Massen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranypart (Goldküste)",
+            "tip": "Der östliche Teil des Strandes ist entspannter.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Teich",
-            "tip": "Eine versteckte Bank unter alten Platanen.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor Morgenstunde",
-            "tip": "Früh am Tag fast menschenleer – nur Vogelgezwitscher.",
+            "name": "Bank im Jókai-Park",
+            "tip": "Lesen Sie ein Buch im Schatten.",
             "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Platán Strand naplemente",
-            "tip": "A legcsendesebb keleti szakasz – tökéletes estére.",
+            "name": "Sió-csatorna nyugati partja",
+            "tip": "Csendes ösvény a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranypart",
+            "tip": "A strand keleti része nyugodtabb.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park tó",
-            "tip": "Egy rejtett pad öreg platánok alatt.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor reggel",
-            "tip": "Kora reggel szinte kihalt – csak madárcsicsergés.",
+            "name": "Pad a Jókai-parkban",
+            "tip": "Olvass egy könyvet az árnyékban.",
             "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Plaja Platán la apus",
-            "tip": "Secțiunea estică liniștită – perfectă pentru seară.",
+            "name": "Malul de vest al canalului Sió",
+            "tip": "O potecă liniștită, departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranypart (Coasta de Aur)",
+            "tip": "Partea de est a plajei este mai relaxată.",
             "emoji": "🌅"
           },
           {
-            "name": "Parcul Jókai lacul",
-            "tip": "O bancă ascunsă sub platani bătrâni.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Șirul de vile dimineața",
-            "tip": "Dimineața devreme aproape pustiu – doar ciripit de păsări.",
+            "name": "O bancă în Parcul Jókai",
+            "tip": "Citiți o carte la umbră.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Platán Beach Sunset",
-            "tip": "The quiet eastern section – perfect for evening.",
+            "name": "Sió Canal West Bank",
+            "tip": "A quiet path away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aranypart (Golden Shore)",
+            "tip": "The eastern part of the beach is more relaxed.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Pond",
-            "tip": "A hidden bench under old plane trees.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa Row Morning",
-            "tip": "Early morning almost deserted – only birdsong.",
+            "name": "A bench in Jókai Park",
+            "tip": "Read a book in the shade.",
             "emoji": "🍃"
           }
         ]
@@ -622,69 +711,69 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Handbemalte Keramik und Lavendelprodukte."
+            "name": "Fahrradverleih",
+            "tip": "Mieten Sie ein gutes Fahrrad für den Tag."
           },
           {
-            "name": "Siófok Wochenmarkt (samstags)",
-            "tip": "Frische Früchte, Honig und lokale Weine."
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Akazienhonig von den örtlichen Märkten."
           }
         ],
         "hu": [
           {
-            "name": "Balaton Ajándékbolt",
-            "tip": "Kézzel festett kerámia és levendulás termékek."
+            "name": "Kerékpárkölcsönző",
+            "tip": "Bérelj egy jó biciklit a napra."
           },
           {
-            "name": "Siófoki hetipiac (szombat)",
-            "tip": "Friss gyümölcsök, méz és helyi borok."
+            "name": "Helyi méz",
+            "tip": "Vásárolj akácmézet a helyi piacokon."
           }
         ],
         "ro": [
           {
-            "name": "Magazin de suveniruri Balaton",
-            "tip": "Ceramică pictată manual și produse cu lavandă."
+            "name": "Închiriere de biciclete",
+            "tip": "Închiriați o bicicletă bună pentru o zi."
           },
           {
-            "name": "Piața săptămânală Siófok (sâmbăta)",
-            "tip": "Fructe proaspete, miere și vinuri locale."
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de salcâm de la piețele locale."
           }
         ],
         "en": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Hand-painted ceramics and lavender products."
+            "name": "Bike Rental Shop",
+            "tip": "Rent a good quality bike for the day."
           },
           {
-            "name": "Siófok Weekly Market (Saturdays)",
-            "tip": "Fresh fruits, honey, and local wines."
+            "name": "Local Honey",
+            "tip": "Buy acacia honey from the local markets."
           }
         ]
       },
       "tips": {
         "de": [
-          "Siomofok ist flach – ideales Gelände für Fahrradtouren.",
-          "Am Strand gibt es Fahrradabstellplätze – nutzen Sie sie.",
-          "Planen Sie eine Pause am Seeufer ein – es gibt viele schattige Bänke.",
-          "Buchen Sie das Fahrrad im Voraus in einem der Verleihe am Bahnhof."
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen zu sichern.",
+          "Der Balaton-Radweg ist meist flach, aber seien Sie auf Wind vorbereitet.",
+          "Viele Strandbars bieten Fahrradständern."
         ],
         "hu": [
-          "Siófok sík – tökéletes terep kerékpározásra.",
-          "A strandnál biciklitároló van – használja ki.",
-          "Tervezzen egy pihenőt a tóparton – sok árnyékos pad van.",
-          "Foglalja le a biciklit előre a pályaudvar kölcsönzőjében."
+          "Indulás előtt ellenőrizd a guminyomást.",
+          "Vigyél magaddal lakatot, hogy lezárd a biciklit a megállóknál.",
+          "A Balatoni Körút többnyire sík, de készülj fel a szélre.",
+          "Sok strandbárnál van kerékpártároló."
         ],
         "ro": [
-          "Siófok este plat – teren ideal pentru ciclism.",
-          "La plajă există suporturi pentru biciclete – folosiți-le.",
-          "Planificați o pauză pe malul lacului – există multe bănci umbroase.",
-          "Rezervați bicicleta în avans la unul dintre închiriatoarele de lângă gară."
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Pista de biciclete Balaton este în mare parte plată, dar fiți pregătiți pentru vânt.",
+          "Multe baruri de pe plajă oferă suporturi pentru biciclete."
         ],
         "en": [
-          "Siófok is flat – ideal terrain for cycling.",
-          "There are bike racks at the beach – use them.",
-          "Plan a break by the lakeshore – there are many shady benches.",
-          "Book your bike in advance at one of the rental shops near the station."
+          "Check your tire pressure before you leave.",
+          "Bring a lock to secure your bike at stops.",
+          "The Balaton Bike Ring is mostly flat, but be prepared for wind.",
+          "Many beach bars offer bike racks."
         ]
       }
     },
@@ -692,355 +781,355 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:00",
-      "total_km": 48.0,
-      "stop_count": 8,
+      "end_estimate": "17:40",
+      "total_km": 7.3,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Siófok Fő tér (Cluster A: belváros)",
+          "name": {
+            "de": "Ankunft & Parken im Zentrum",
+            "hu": "Érkezés & Parkolás a központban",
+            "ro": "Sosire și parcare în centru",
+            "en": "Arrival & Parking in Center"
+          },
           "coords": [
-            46.904,
-            18.058
+            18.05,
+            46.905
           ],
-          "category": "square",
+          "category": "transport",
           "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Parken Sie am besten im Parkhaus unter dem Platz.",
-            "hu": "Legjobb a tér alatti mélygarázsban parkolni.",
-            "ro": "Cel mai bine parcați în parcarea subterană de sub piață.",
-            "en": "Best to park in the underground garage under the square."
+            "de": "Parken Sie in der Nähe des Wasserturms. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkolj a Víztorony közelében. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați lângă Turnul de Apă. Totul este la câțiva pași de aici.",
+            "en": "Park near the Water Tower. Everything is a short walk from here."
           }
         },
         {
-          "name": "Siófoki Evangélikus Templom (Cluster A)",
+          "name": {
+            "de": "Wasserturm & Millenniumspark",
+            "hu": "Víztorony & Millennium park",
+            "ro": "Turnul de apă și Parcul Millennium",
+            "en": "Water Tower & Millennium Park"
+          },
           "coords": [
-            46.903,
-            18.056
+            18.051,
+            46.906
           ],
-          "category": "religious",
-          "arrive_at": "09:30",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erledigen Sie diese beiden Sehenswürdigkeiten auf einmal, sie liegen direkt nebeneinander.",
+            "hu": "Tudja le ezt a két látnivalót egyszerre, egymás mellett vannak.",
+            "ro": "Vizitați aceste două atracții deodată, sunt chiar una lângă alta.",
+            "en": "Get these two sights done at once, they are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            18.048,
+            46.904
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
           "stay_min": 40,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Vom Parkhaus sind es nur wenige Schritte.",
-            "hu": "A mélygarázsból csak néhány lépés.",
-            "ro": "Din parcarea subterană sunt doar câțiva pași.",
-            "en": "From the garage it's just a few steps."
-          }
-        },
-        {
-          "name": "Kálmán Imre Múzeum (Cluster A)",
-          "coords": [
-            46.902,
-            18.055
-          ],
-          "category": "museum",
-          "arrive_at": "10:15",
-          "stay_min": 100,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.15,
-          "tip_5lang": {
-            "de": "Das Museum hat eine eigene Tiefgarage – gegen Gebühr.",
-            "hu": "A múzeumnak saját mélygarázsa van – díj ellenében.",
-            "ro": "Muzeul are o parcare subterană proprie – contra cost.",
-            "en": "The museum has its own underground parking – for a fee."
-          }
-        },
-        {
-          "name": "Fahrt in den zweiten Cluster – Balaton part",
-          "coords": [
-            46.898,
-            18.062
-          ],
-          "category": "car_hop",
-          "arrive_at": "12:05",
-          "stay_min": 0,
-          "hop_from_prev_min": 19,
-          "hop_from_prev_km": 9.0,
-          "tip_5lang": {
-            "de": "Fahrstrecke entlang der Uferstraße – schöne Aussicht.",
-            "hu": "Útvonal a part menti úton – gyönyörű kilátás.",
-            "ro": "Traseu pe drumul de pe mal – vedere frumoasă.",
-            "en": "Route along the lakeside road – beautiful views."
-          }
-        },
-        {
-          "name": "Platán Strand (Cluster B)",
-          "coords": [
-            46.898,
-            18.062
-          ],
-          "category": "beach",
-          "arrive_at": "12:25",
-          "stay_min": 180,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Parken Sie am gebührenpflichtigen Strandparkplatz.",
-            "hu": "Parkoljon a fizetős strandparkolóban.",
-            "ro": "Paracați în parcarea cu plată a plajei.",
-            "en": "Park at the paid beach parking lot."
-          }
-        },
-        {
-          "name": "Villa sor (Cluster B)",
-          "coords": [
-            46.896,
-            18.065
-          ],
-          "category": "historical",
-          "arrive_at": "15:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Gehen Sie zu Fuß – die Villen sind kaum 5 Minuten entfernt.",
-            "hu": "Menjen gyalog – a villák alig 5 percre vannak.",
-            "ro": "Mergeți pe jos – vilele sunt la doar 5 minute.",
-            "en": "Walk – the villas are barely 5 minutes away."
+            "de": "Ein kurzer Spaziergang vom Hauptplatz, um Makovecz' Meisterwerk zu sehen.",
+            "hu": "Egy rövid séta a főtértől Makovecz remekművéért.",
+            "ro": "O scurtă plimbare din piața principală pentru a vedea capodopera lui Makovecz.",
+            "en": "A short walk from the main square to see Makovecz's masterpiece."
           }
         },
         {
-          "name": "Fahrt in den dritten Cluster – Zamárdi",
+          "name": {
+            "de": "Fahrt zum Hafen & Parken",
+            "hu": "Autózás a kikötőbe & Parkolás",
+            "ro": "Condus spre port și parcare",
+            "en": "Drive to Harbor & Park"
+          },
           "coords": [
-            46.883,
-            17.958
+            18.056,
+            46.911
           ],
-          "category": "car_hop",
-          "arrive_at": "17:05",
+          "category": "transport",
+          "arrive_at": "11:10",
           "stay_min": 0,
-          "hop_from_prev_min": 21,
-          "hop_from_prev_km": 10.0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Abfahrt zur Nachbarstadt – genießen Sie die Fahrt am See.",
-            "hu": "Indulás a szomszédos városba – élvezze az utat a tó mellett.",
-            "ro": "Plecați spre orașul vecin – bucurați-vă de drum pe lângă lac.",
-            "en": "Depart for the neighboring town – enjoy the drive along the lake."
+            "de": "Fahren Sie zum Hafenbereich und finden Sie einen Parkplatz für den Rest des Tages.",
+            "hu": "Vezess a kikötőhöz, és keress egy parkolóhelyet a nap hátralévő részére.",
+            "ro": "Conduceți spre zona portuară și găsiți un loc de parcare pentru restul zilei.",
+            "en": "Drive to the harbor area and find a parking spot for the rest of the day."
           }
         },
         {
-          "name": "Zamárdi Szabadstrand (Cluster C) – Alternativ gastro",
+          "name": {
+            "de": "Hafen, Rosengarten & Mittagessen",
+            "hu": "Kikötő, Rózsakert & Ebéd",
+            "ro": "Port, Grădina cu trandafiri și prânz",
+            "en": "Harbor, Rose Garden & Lunch"
+          },
           "coords": [
-            46.883,
-            17.958
+            18.055,
+            46.912
           ],
-          "category": "gastro",
-          "arrive_at": "17:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "category": "port",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Direkt am Wasser – fangfrischer Fisch vom Grill.",
-            "hu": "Közvetlenül a víznél – frissen fogott hal a grillről.",
-            "ro": "Direct la apă – pește proaspăt prins la grătar.",
-            "en": "Right on the water – freshly caught fish from the grill."
+            "de": "Erkunden Sie die Gegend um den Hafen und essen Sie in einem der Restaurants am See zu Mittag.",
+            "hu": "Fedezd fel a kikötő környékét, és ebédelj az egyik tóparti étteremben.",
+            "ro": "Explorați zona din jurul portului și luați prânzul la unul dintre restaurantele de pe malul lacului.",
+            "en": "Explore the area around the harbor and have lunch at one of the lakeside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Plázs Siófok & Entspannung",
+            "hu": "Plázs Siófok & Pihenés",
+            "ro": "Plaja Siófok & Relaxare",
+            "en": "Plázs Siófok & Relaxation"
+          },
+          "coords": [
+            18.065,
+            46.913
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 240,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptgrund, hier zu sein! Genießen Sie den Sand, die Sonne und das Wasser.",
+            "hu": "A fő ok, amiért itt vagy! Élvezd a homokot, a napot és a vizet.",
+            "ro": "Motivul principal pentru care sunteți aici! Bucurați-vă de nisip, soare și apă.",
+            "en": "The main reason to be here! Enjoy the sand, sun, and water."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto starten Sie am Hauptplatz, parken in der Tiefgarage und erkunden zu Fuß die Kirche und das Museum. Danach fahren Sie zum Strandcluster, wo Sie baden und die Villenpromenade genießen. Der dritte Cluster in Zamárdi bietet ein Abendessen mit frischem Fisch direkt am Wasser – ein perfekter Tagesabschluss.",
-        "hu": "Autóval induljon a főtérről, parkoljon a mélygarázsban, majd gyalog fedezze fel a templomot és a múzeumot. Ezután autózzon a strand clusterhez, ahol fürdőzhet és a villasoron sétálhat. A harmadik cluster Zamárdiban kínál friss halas vacsorát közvetlenül a víznél – tökéletes napzárás.",
-        "ro": "Cu mașina începeți în piața principală, parcați în parcarea subterană și explorați pe jos biserica și muzeul. Apoi conduceți la clusterul de plajă, unde faceți baie și vă plimbați pe șirul de vile. Al treilea cluster din Zamárdi oferă o cină cu pește proaspăt direct la apă – o încheiere perfectă a zilei.",
-        "en": "By car start at the main square, park in the underground garage and explore the church and museum on foot. Then drive to the beach cluster, where you swim and stroll the villa promenade. The third cluster in Zamárdi offers a fresh fish dinner right on the water – a perfect end to the day."
+        "de": "Nutzen Sie Ihr Auto für maximale Flexibilität. Parken Sie im Zentrum, um die Sehenswürdigkeiten der Stadt zu erkunden, und fahren Sie dann zum Hafen, um den Nachmittag am See zu verbringen. Diese Tour kombiniert städtische Erkundung mit entspannter Strandzeit, ohne sich um lange Spaziergänge sorgen zu müssen. Perfekt für einen heißen Sommertag.",
+        "hu": "Használd az autódat a maximális rugalmasságért. Parkolj a központban a városi látnivalók felfedezéséhez, majd vezess le a kikötőbe, hogy a délutánt a tónál töltsd. Ez a túra ötvözi a városi felfedezést a laza strandolással, anélkül, hogy a hosszú séták miatt kellene aggódnod. Tökéletes egy forró nyári napra.",
+        "ro": "Folosiți-vă mașina pentru flexibilitate maximă. Parcați în centru pentru a explora atracțiile orașului, apoi conduceți spre port pentru a petrece după-amiaza la lac. Acest tur combină explorarea urbană cu relaxarea pe plajă, fără grija plimbărilor lungi. Perfect pentru o zi fierbinte de vară.",
+        "en": "Use your car for maximum flexibility. Park in the center to explore the town's sights, then drive to the harbor to spend the afternoon by the lake. This tour combines urban exploration with relaxed beach time, without worrying about long walks. Perfect for a hot summer day."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Grillfisch vom Zamárdi Seeufer",
-            "tip": "Fangfrisch, mit Zitrone und Kräutern gewürzt."
+            "name": "Restaurant am Hafen",
+            "tip": "Wählen Sie eines mit Terrasse für die beste Aussicht."
           },
           {
-            "name": "Balatoner Fischsuppe",
-            "tip": "Scharf und reichhaltig – ein Muss."
+            "name": "Eisdiele",
+            "tip": "Ein Muss nach einem Tag in der Sonne."
           },
           {
-            "name": "Lángos mit Knoblauch",
-            "tip": "Knusprig und herzhaft – typisch ungarisch."
+            "name": "Balaton-Wein",
+            "tip": "Probieren Sie einen lokalen Olaszrizling oder Kékfrankos zum Abendessen."
           }
         ],
         "hu": [
           {
-            "name": "Zamárdi tóparti grillezett hal",
-            "tip": "Frissen fogott, citrommal és fűszernövényekkel ízesítve."
+            "name": "Étterem a kikötőben",
+            "tip": "Válassz egy teraszos helyet a legjobb kilátásért."
           },
           {
-            "name": "Balatoni halászlé",
-            "tip": "Csípős és tartalmas – kötelező."
+            "name": "Fagylaltozó",
+            "tip": "Kötelező egy napozással töltött nap után."
           },
           {
-            "name": "Fokhagymás lángos",
-            "tip": "Ropogós és ízletes – tipikusan magyar."
+            "name": "Balatoni bor",
+            "tip": "Kóstolj meg egy helyi Olaszrizlinget vagy Kékfrankost a vacsorához."
           }
         ],
         "ro": [
           {
-            "name": "Pește la grătar de pe malul lacului Zamárdi",
-            "tip": "Proaspăt prins, condimentat cu lămâie și ierburi."
+            "name": "Restaurant în port",
+            "tip": "Alegeți unul cu terasă pentru cea mai bună priveliște."
           },
           {
-            "name": "Ciorbă de pește de Balaton",
-            "tip": "Picantă și consistentă – obligatorie."
+            "name": "Gelaterie",
+            "tip": "O necesitate după o zi la soare."
           },
           {
-            "name": "Lángos cu usturoi",
-            "tip": "Crocant și savuros – tipic maghiar."
+            "name": "Vin de Balaton",
+            "tip": "Încercați un Olaszrizling sau Kékfrankos local la cină."
           }
         ],
         "en": [
           {
-            "name": "Grilled fish from Zamárdi lakeshore",
-            "tip": "Freshly caught, seasoned with lemon and herbs."
+            "name": "Harbor Restaurant",
+            "tip": "Choose one with a terrace for the best view."
           },
           {
-            "name": "Balaton fish soup",
-            "tip": "Spicy and hearty – a must."
+            "name": "Ice Cream Parlor",
+            "tip": "A must-have after a day in the sun."
           },
           {
-            "name": "Garlic lángos",
-            "tip": "Crispy and savory – typically Hungarian."
+            "name": "Balaton Wine",
+            "tip": "Try a local Olaszrizling or Kékfrankos with dinner."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Zamárdi Szabadstrand Sonnenuntergang",
-            "tip": "Ruhig und abgelegen – ideal für den Sonnenuntergang.",
+            "name": "Fahrt entlang der Südküste",
+            "tip": "Entfliehen Sie den Menschenmassen in Siófok für eine Weile.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Versteckter Strandabschnitt",
+            "tip": "Gehen Sie vom Hauptstrand weg, um mehr Platz zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang vom Auto aus",
+            "tip": "Finden Sie einen Parkplatz am See und genießen Sie die Show.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Villa sor abends",
-            "tip": "Wenn die Touristen weg sind – nur das Licht der Laternen.",
-            "emoji": "🌃"
-          },
-          {
-            "name": "Museum Innenhof",
-            "tip": "Eine Oase der Ruhe mitten in der Stadt.",
-            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Zamárdi Szabadstrand naplemente",
-            "tip": "Csendes és félreeső – tökéletes naplementéhez.",
+            "name": "Autózás a déli parton",
+            "tip": "Menekülj el egy időre a siófoki tömegből.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Rejtett strandszakasz",
+            "tip": "Sétálj távolabb a központi strandtól, hogy több helyet találj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente az autóból",
+            "tip": "Keress egy tóparti parkolót és élvezd a látványt.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Villa sor este",
-            "tip": "Amikor a turisták elmentek – csak a lámpák fénye.",
-            "emoji": "🌃"
-          },
-          {
-            "name": "Múzeum belső udvara",
-            "tip": "Nyugalom oázisa a város közepén.",
-            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Plaja Liberă Zamárdi la apus",
-            "tip": "Liniștită și retrasă – ideală pentru apus.",
+            "name": "Plimbare cu mașina pe coasta de sud",
+            "tip": "Evadați pentru o vreme din mulțimea din Siófok.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Secțiune de plajă ascunsă",
+            "tip": "Îndepărtați-vă de plaja principală pentru a găsi mai mult spațiu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus din mașină",
+            "tip": "Găsiți un loc de parcare pe malul lacului și bucurați-vă de spectacol.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Șirul de vile seara",
-            "tip": "Când turiștii au plecat – doar lumina felinarelor.",
-            "emoji": "🌃"
-          },
-          {
-            "name": "Curtea interioară a muzeului",
-            "tip": "O oază de liniște în mijlocul orașului.",
-            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Zamárdi Free Beach Sunset",
-            "tip": "Quiet and secluded – ideal for sunset.",
+            "name": "Drive along the south coast",
+            "tip": "Escape the Siófok crowds for a while.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Hidden beach section",
+            "tip": "Walk away from the main beach to find more space.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the car",
+            "tip": "Find a parking spot by the lake and enjoy the show.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Villa Row in the evening",
-            "tip": "When the tourists are gone – only the lantern light.",
-            "emoji": "🌃"
-          },
-          {
-            "name": "Museum inner courtyard",
-            "tip": "An oasis of calm in the middle of the city.",
-            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Handbemalte Keramik und Lavendelprodukte."
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie Snacks und Getränke für den Strandtag."
           },
           {
-            "name": "Zamárdi Bauernmarkt (sonntags)",
-            "tip": "Regionale Produkte und Kunsthandwerk."
+            "name": "Lavendelprodukte",
+            "tip": "Bringen Sie den Duft von Tihany mit nach Hause, der auf der anderen Seite des Sees liegt."
           }
         ],
         "hu": [
           {
-            "name": "Balaton Ajándékbolt",
-            "tip": "Kézzel festett kerámia és levendulás termékek."
+            "name": "Szupermarket",
+            "tip": "Vásárolj rágcsálnivalókat és italokat a strandoláshoz."
           },
           {
-            "name": "Zamárdi termelői piac (vasárnap)",
-            "tip": "Regionális termékek és kézművesség."
+            "name": "Levendula termékek",
+            "tip": "Hozd haza a tó túlsó partján fekvő Tihany illatát."
           }
         ],
         "ro": [
           {
-            "name": "Magazin de suveniruri Balaton",
-            "tip": "Ceramică pictată manual și produse cu lavandă."
+            "name": "Supermarket",
+            "tip": "Cumpărați gustări și băuturi pentru ziua pe plajă."
           },
           {
-            "name": "Piața țărănească Zamárdi (duminica)",
-            "tip": "Produse regionale și meșteșuguri."
+            "name": "Produse de lavandă",
+            "tip": "Aduceți acasă parfumul din Tihany, de pe cealaltă parte a lacului."
           }
         ],
         "en": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Hand-painted ceramics and lavender products."
+            "name": "Supermarket",
+            "tip": "Stock up on snacks and drinks for the beach day."
           },
           {
-            "name": "Zamárdi Farmers' Market (Sundays)",
-            "tip": "Regional products and crafts."
+            "name": "Lavender products",
+            "tip": "Bring home the scent of Tihany from across the lake."
           }
         ]
       },
       "tips": {
         "de": [
-          "Planen Sie Ihre Parkplätze – in der Saison kann es voll werden.",
-          "Nutzen Sie die Tiefgaragen – sie sind günstig und sicher.",
-          "Die Fahrt nach Zamárdi dauert nur 20 Minuten – eine schöne Abwechslung.",
-          "Laden Sie vor der Abfahrt eine Karte herunter – das GPS kann am See schwächeln."
+          "Parkgebühren können im Sommer teuer sein, bringen Sie Münzen mit.",
+          "Der Verkehr kann an Wochenenden stark sein, planen Sie also zusätzliche Zeit ein.",
+          "Lassen Sie keine Wertsachen im Auto.",
+          "Eine GPS-App auf Ihrem Telefon ist nützlich, um Parkplätze zu finden."
         ],
         "hu": [
-          "Tervezze meg a parkolást – a szezonban zsúfolt lehet.",
-          "Használja a mélygarázsokat – olcsók és biztonságosak.",
-          "A Zamárdiba tartó út csak 20 perc – kellemes változatosság.",
-          "Indulás előtt töltsön le térképet – a GPS a tónál gyengélkedhet."
+          "A parkolási díjak nyáron drágák lehetnek, hozz magaddal érméket.",
+          "A forgalom hétvégén sűrű lehet, tervezz plusz idővel.",
+          "Ne hagyj értékeket az autóban.",
+          "A telefonodon lévő GPS alkalmazás hasznos a parkolóhelyek megtalálásához."
         ],
         "ro": [
-          "Planificați parcarea – în sezon poate fi aglomerat.",
-          "Folosiți parcările subterane – sunt ieftine și sigure.",
-          "Drumul spre Zamárdi durează doar 20 de minute – o schimbare plăcută.",
-          "Descărcați o hartă înainte de plecare – GPS-ul poate slăbi la lac."
+          "Taxele de parcare pot fi scumpe vara, aduceți monede.",
+          "Traficul poate fi aglomerat în weekend, așa că alocați timp suplimentar.",
+          "Nu lăsați obiecte de valoare în mașină.",
+          "O aplicație GPS pe telefon este utilă pentru a găsi locuri de parcare."
         ],
         "en": [
-          "Plan your parking – it can get crowded in season.",
-          "Use the underground garages – they are cheap and safe.",
-          "The drive to Zamárdi takes only 20 minutes – a nice change.",
-          "Download a map before departure – GPS can be weak at the lake."
+          "Parking fees can be expensive in summer, bring coins.",
+          "Traffic can be heavy on weekends, so plan for extra time.",
+          "Don't leave valuables in the car.",
+          "A GPS app on your phone is useful for finding parking spots."
         ]
       }
     },
@@ -1048,285 +1137,285 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 14.0,
-      "stop_count": 8,
+      "end_estimate": "18:05",
+      "total_km": 6.0,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Siófok Fő tér (District A: centrum)",
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at Bus Station"
+          },
           "coords": [
-            46.904,
-            18.058
+            18.049,
+            46.903
           ],
-          "category": "square",
+          "category": "transport",
           "arrive_at": "09:00",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Die Bushaltestelle 'Fő tér' liegt direkt am Platz.",
-            "hu": "A 'Fő tér' buszmegálló közvetlenül a téren van.",
-            "ro": "Stația de autobuz 'Fő tér' este chiar în piață.",
-            "en": "The 'Fő tér' bus stop is right on the square."
-          }
-        },
-        {
-          "name": "Siófoki Evangélikus Templom (District A)",
-          "coords": [
-            46.903,
-            18.056
-          ],
-          "category": "religious",
-          "arrive_at": "09:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Zu Fuß vom Platz – keine öffentlichen Verkehrsmittel nötig.",
-            "hu": "Gyalog a térről – nincs szükség tömegközlekedésre.",
-            "ro": "Pe jos din piață – nu e nevoie de transport public.",
-            "en": "On foot from the square – no public transport needed."
-          }
-        },
-        {
-          "name": "Kálmán Imre Múzeum (District A)",
-          "coords": [
-            46.902,
-            18.055
-          ],
-          "category": "museum",
-          "arrive_at": "10:20",
-          "stay_min": 100,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.15,
-          "tip_5lang": {
-            "de": "Vom Museum aus können Sie den Bus 1 Richtung Strand nehmen.",
-            "hu": "A múzeumból az 1-es busszal mehet a strand felé.",
-            "ro": "De la muzeu puteți lua autobuzul 1 spre plajă.",
-            "en": "From the museum you can take bus 1 towards the beach."
-          }
-        },
-        {
-          "name": "Transit-Hop: Bus 1 to Jókai Park (District B: park+beach)",
-          "coords": [
-            46.901,
-            18.059
-          ],
-          "category": "transit_hop",
-          "arrive_at": "12:10",
           "stay_min": 0,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Bus fährt alle 15 Minuten – günstige Tageskarte nutzen.",
-            "hu": "A busz 15 percenként jár – olcsó napijegyet vegyen.",
-            "ro": "Autobuzul circulă la fiecare 15 minute – folosiți un bilet zilnic ieftin.",
-            "en": "Bus runs every 15 minutes – use a cheap day ticket."
+            "de": "Der Busbahnhof liegt günstig in der Nähe des Zentrums.",
+            "hu": "A buszpályaudvar kényelmesen, a központ közelében található.",
+            "ro": "Autogara este situată convenabil, aproape de centru.",
+            "en": "The bus station is conveniently located near the center."
           }
         },
         {
-          "name": "Jókai Park (District B)",
+          "name": {
+            "de": "Wasserturm & Millenniumspark",
+            "hu": "Víztorony & Millennium park",
+            "ro": "Turnul de apă și Parcul Millennium",
+            "en": "Water Tower & Millennium Park"
+          },
           "coords": [
-            46.901,
-            18.059
+            18.051,
+            46.906
           ],
-          "category": "park",
-          "arrive_at": "12:25",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
           "stay_min": 75,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Der Park ist ein beliebter Treffpunkt – tolle Atmosphäre.",
-            "hu": "A park népszerű találkozóhely – nagyszerű hangulat.",
-            "ro": "Parcul este un loc popular de întâlnire – atmosferă grozavă.",
-            "en": "The park is a popular meeting point – great atmosphere."
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu den ersten Sehenswürdigkeiten.",
+            "hu": "Egy rövid séta a buszpályaudvartól az első látnivalókig.",
+            "ro": "O scurtă plimbare de la autogară la primele atracții.",
+            "en": "A short walk from the bus station to the first sights."
           }
         },
         {
-          "name": "Platán Strand (District B)",
+          "name": {
+            "de": "Kálmán-Imre-Gedächtnishaus",
+            "hu": "Kálmán Imre Emlékház",
+            "ro": "Casa Memorială Kálmán Imre",
+            "en": "Imre Kálmán Memorial House"
+          },
           "coords": [
-            46.898,
-            18.062
+            18.055,
+            46.908
           ],
-          "category": "beach",
-          "arrive_at": "13:50",
-          "stay_min": 180,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Vom Park aus sind es nur 5 Minuten zu Fuß zum Strand.",
-            "hu": "A parkból csak 5 perc gyalog a strand.",
-            "ro": "Din parc sunt doar 5 minute pe jos până la plajă.",
-            "en": "From the park it's just a 5-minute walk to the beach."
-          }
-        },
-        {
-          "name": "Transit-Hop: Bus 2 to Villa sor (District C: historisch)",
-          "coords": [
-            46.896,
-            18.065
-          ],
-          "category": "transit_hop",
-          "arrive_at": "16:20",
-          "stay_min": 0,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Bus 2 fährt entlang der Küste – schöne Strecke.",
-            "hu": "A 2-es busz a parton halad – gyönyörű útvonal.",
-            "ro": "Autobuzul 2 merge de-a lungul coastei – traseu frumos.",
-            "en": "Bus 2 runs along the coast – beautiful route."
-          }
-        },
-        {
-          "name": "Villa sor (District C)",
-          "coords": [
-            46.896,
-            18.065
-          ],
-          "category": "historical",
-          "arrive_at": "16:35",
-          "stay_min": 80,
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 60,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Die letzte Villa hat ein kleines Café mit Seeblick.",
-            "hu": "Az utolsó villában van egy kis kávézó tókilátással.",
-            "ro": "Ultima vilă are o cafenea mică cu vedere la lac.",
-            "en": "The last villa has a small café with lake view."
+            "de": "Tauchen Sie ein in die Welt der Operette.",
+            "hu": "Merülj el az operett világában.",
+            "ro": "Cufundați-vă în lumea operetei.",
+            "en": "Immerse yourself in the world of operetta."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Hafen & Mittagessen",
+            "hu": "Buszozás a kikötőbe & Ebéd",
+            "ro": "Călătorie cu autobuzul spre port și prânz",
+            "en": "Bus ride to Harbor & Lunch"
+          },
+          "coords": [
+            18.056,
+            46.911
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum Hafen zu gelangen und lange Spaziergänge zu vermeiden.",
+            "hu": "Menj helyi busszal a kikötőbe, hogy elkerüld a hosszú sétát.",
+            "ro": "Luați un autobuz local pentru a ajunge în port și a evita plimbările lungi.",
+            "en": "Take a local bus to get to the harbor and avoid long walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen & Jókai-Park",
+            "hu": "Kikötő & Jókai-park",
+            "ro": "Portul și Parcul Jókai",
+            "en": "Harbor & Jókai-Park"
+          },
+          "coords": [
+            18.058,
+            46.911
+          ],
+          "category": "port",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Mittagessen spazieren Sie durch den Park und am Hafen entlang.",
+            "hu": "Ebéd után sétálj a parkban és a kikötőben.",
+            "ro": "După prânz, plimbați-vă prin parc și de-a lungul portului.",
+            "en": "After lunch, stroll through the park and along the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Plázs Siófok",
+            "hu": "Plázs Siófok",
+            "ro": "Plaja Siófok",
+            "en": "Plázs Siófok"
+          },
+          "coords": [
+            18.065,
+            46.913
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss eines Reisetages - entspannen am Strand.",
+            "hu": "A tökéletes befejezése egy utazós napnak - pihenés a strandon.",
+            "ro": "Finalul perfect al unei zile de călătorie - relaxare pe plajă.",
+            "en": "The perfect end to a day of travel - relaxing on the beach."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit öffentlichen Verkehrsmitteln starten Sie im Zentrum, besuchen Kirche und Museum, dann mit dem Bus zum Jókai Park und zum Strand. Der zweite Bus bringt Sie zur historischen Villenreihe – alles entspannt und ohne Parkplatzsuche.",
-        "hu": "Tömegközlekedéssel induljon a központban, látogassa meg a templomot és a múzeumot, majd busszal a Jókai Parkba és a strandra. A második busz visz a történelmi villasorhoz – minden kényelmesen, parkoló keresés nélkül.",
-        "ro": "Cu transportul public începeți în centru, vizitați biserica și muzeul, apoi cu autobuzul la Parcul Jókai și la plajă. Al doilea autobuz vă duce la șirul istoric de vile – totul relaxat, fără căutarea locului de parcare.",
-        "en": "With public transport start in the center, visit the church and museum, then by bus to Jókai Park and the beach. The second bus takes you to the historic villa row – all relaxed, no parking hassle."
+        "de": "Siófok ist auch mit öffentlichen Verkehrsmitteln gut zu erkunden. Beginnen Sie im Zentrum und nehmen Sie dann einen Bus zum lebhaften Hafenviertel. Verbringen Sie den Morgen mit Kultur und den Nachmittag mit Sonne und Sand. Diese autofreie Option ist entspannt und umweltfreundlich.",
+        "hu": "Siófok tömegközlekedéssel is könnyen felfedezhető. Kezdj a központban, majd szállj buszra a nyüzsgő kikötői negyedbe. Töltsd a délelőttöt kultúrával, a délutánt pedig napozással és homokkal. Ez az autómentes opció pihentető és környezetbarát.",
+        "ro": "Siófok este ușor de explorat și cu transportul public. Începeți în centru, apoi luați un autobuz spre zona vibrantă a portului. Petreceți dimineața cu cultură și după-amiaza cu soare și nisip. Această opțiune fără mașină este relaxantă și ecologică.",
+        "en": "Siófok is also easy to explore by public transport. Start in the center, then take a bus to the vibrant harbor district. Spend the morning with culture and the afternoon with sun and sand. This car-free option is relaxed and environmentally friendly."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Halászlé a Balatonból",
-            "tip": "Frisch gefangener Fisch, würzig und sämig."
+            "name": "Bistro am Busbahnhof",
+            "tip": "Ein schneller Kaffee, bevor es losgeht."
           },
           {
-            "name": "Fogas (Zander)",
-            "tip": "Gebraten mit Butter und Kräutern serviert."
+            "name": "Strandbar-Burger",
+            "tip": "Ein herzhafter Snack, um den Hunger am Strand zu stillen."
           },
           {
-            "name": "Lángos",
-            "tip": "Klassischer ungarischer Streetfood – mit Sauerrahm und Käse."
+            "name": "Somlói Galuska",
+            "tip": "Ein klassisches ungarisches Dessert, das man probieren muss."
           }
         ],
         "hu": [
           {
-            "name": "Balatoni halászlé",
-            "tip": "Frissen fogott halból, fűszeres és sűrű."
+            "name": "Bisztró a buszpályaudvaron",
+            "tip": "Egy gyors kávé indulás előtt."
           },
           {
-            "name": "Fogas",
-            "tip": "Vajban sütve, fűszernövényekkel tálalva."
+            "name": "Strandbár burger",
+            "tip": "Kiadós harapnivaló a strandolás közbeni éhség csillapítására."
           },
           {
-            "name": "Lángos",
-            "tip": "Klasszikus magyar utcai étel – tejföllel és sajttal."
+            "name": "Somlói galuska",
+            "tip": "Klasszikus magyar desszert, amit meg kell kóstolni."
           }
         ],
         "ro": [
           {
-            "name": "Ciorbă de pește de la Balaton",
-            "tip": "Pește proaspăt prins, picant și cremos."
+            "name": "Bistro la autogară",
+            "tip": "O cafea rapidă înainte de a începe."
           },
           {
-            "name": "Șalău (Fogas)",
-            "tip": "Prăjit în unt, servit cu ierburi."
+            "name": "Burger la barul de pe plajă",
+            "tip": "O gustare consistentă pentru a potoli foamea de pe plajă."
           },
           {
-            "name": "Lángos",
-            "tip": "Mâncare stradală clasică maghiară – cu smântână și brânză."
+            "name": "Găluște Somlói",
+            "tip": "Un desert maghiar clasic de încercat."
           }
         ],
         "en": [
           {
-            "name": "Fisherman's Soup from Balaton",
-            "tip": "Freshly caught fish, spicy and thick."
+            "name": "Bus Station Bistro",
+            "tip": "A quick coffee before you start."
           },
           {
-            "name": "Zander (Fogas)",
-            "tip": "Pan-fried in butter with herbs."
+            "name": "Beach Bar Burger",
+            "tip": "A hearty snack to satisfy beach hunger."
           },
           {
-            "name": "Lángos",
-            "tip": "Classic Hungarian street food – with sour cream and cheese."
+            "name": "Somlói Galuska",
+            "tip": "A classic Hungarian dessert to try."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Platán Strand Sonnenuntergang",
-            "tip": "Der ruhigste Abschnitt im Osten – perfekt für den Abend.",
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die Stadt an sich vorbeiziehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Spaziergang auf dem Pier",
+            "tip": "Gehen Sie bis zum Ende für eine großartige Aussicht und weniger Menschen.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Teich",
-            "tip": "Eine versteckte Bank unter alten Platanen.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor Morgenstunde",
-            "tip": "Früh am Tag fast menschenleer – nur Vogelgezwitscher.",
+            "name": "Ruhiger Morgen im Park",
+            "tip": "Genießen Sie den Millenniumspark, bevor die Busladungen ankommen.",
             "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Platán Strand naplemente",
-            "tip": "A legcsendesebb keleti szakasz – tökéletes estére.",
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Nézd, ahogy elsuhan melletted a város.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Séta a mólón",
+            "tip": "Sétálj ki a végéig a nagyszerű kilátásért és a kevesebb emberért.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park tó",
-            "tip": "Egy rejtett pad öreg platánok alatt.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa sor reggel",
-            "tip": "Kora reggel szinte kihalt – csak madárcsicsergés.",
+            "name": "Csendes reggel a parkban",
+            "tip": "Élvezd a Millennium parkot, mielőtt megérkeznek a buszos csoportok.",
             "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Plaja Platán la apus",
-            "tip": "Secțiunea estică liniștită – perfectă pentru seară.",
+            "name": "Loc la geam în autobuz",
+            "tip": "Priviți orașul trecând pe lângă dumneavoastră.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Plimbare pe dig",
+            "tip": "Mergeți până la capăt pentru o priveliște minunată și mai puțini oameni.",
             "emoji": "🌅"
           },
           {
-            "name": "Parcul Jókai lacul",
-            "tip": "O bancă ascunsă sub platani bătrâni.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Șirul de vile dimineața",
-            "tip": "Dimineața devreme aproape pustiu – doar ciripit de păsări.",
+            "name": "Dimineață liniștită în parc",
+            "tip": "Bucurați-vă de Parcul Millennium înainte de sosirea autobuzelor cu turiști.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Platán Beach Sunset",
-            "tip": "The quiet eastern section – perfect for evening.",
+            "name": "Window seat on the bus",
+            "tip": "Watch the town go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Walk on the pier",
+            "tip": "Go to the very end for a great view and fewer people.",
             "emoji": "🌅"
           },
           {
-            "name": "Jókai Park Pond",
-            "tip": "A hidden bench under old plane trees.",
-            "emoji": "🌳"
-          },
-          {
-            "name": "Villa Row Morning",
-            "tip": "Early morning almost deserted – only birdsong.",
+            "name": "Quiet morning in the park",
+            "tip": "Enjoy Millennium Park before the busloads arrive.",
             "emoji": "🍃"
           }
         ]
@@ -1334,69 +1423,69 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Handbemalte Keramik und Lavendelprodukte."
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie ein Tagesticket und eine Karte."
           },
           {
-            "name": "Siófok Wochenmarkt (samstags)",
-            "tip": "Frische Früchte, Honig und lokale Weine."
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße vom Balaton."
           }
         ],
         "hu": [
           {
-            "name": "Balaton Ajándékbolt",
-            "tip": "Kézzel festett kerámia és levendulás termékek."
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vegyél egy napijegyet és egy térképet."
           },
           {
-            "name": "Siófoki hetipiac (szombat)",
-            "tip": "Friss gyümölcsök, méz és helyi borok."
+            "name": "Képeslapok",
+            "tip": "Küldj üdvözletet a Balatonról."
           }
         ],
         "ro": [
           {
-            "name": "Magazin de suveniruri Balaton",
-            "tip": "Ceramică pictată manual și produse cu lavandă."
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un bilet de o zi și o hartă."
           },
           {
-            "name": "Piața săptămânală Siófok (sâmbăta)",
-            "tip": "Fructe proaspete, miere și vinuri locale."
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări de la Lacul Balaton."
           }
         ],
         "en": [
           {
-            "name": "Balaton Souvenir Shop",
-            "tip": "Hand-painted ceramics and lavender products."
+            "name": "Bus Station Kiosk",
+            "tip": "Buy a day ticket and a map."
           },
           {
-            "name": "Siófok Weekly Market (Saturdays)",
-            "tip": "Fresh fruits, honey, and local wines."
+            "name": "Postcards",
+            "tip": "Send greetings from Lake Balaton."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Tageskarte für 5 € – damit kommen Sie überall hin.",
-          "Die Busse sind pünktlich und fahren oft – keine langen Wartezeiten.",
-          "Am Strand gibt es eine Bushaltestelle direkt am Eingang.",
-          "Laden Sie die App 'Balaton Mobil' für Fahrpläne herunter."
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Im Sommer können die Busse voll sein, seien Sie also geduldig.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge."
         ],
         "hu": [
-          "Vegyen napijegyet 1500 Ft-ért – mindenhova eljut vele.",
-          "A buszok pontosak és gyakran járnak – nincs hosszú várakozás.",
-          "A strand bejáratánál közvetlenül van buszmegálló.",
-          "Töltse le a 'Balaton Mobil' alkalmazást a menetrendekért."
+          "Vegyél napijegyet a korlátlan utazáshoz.",
+          "A buszmenetrendeket online vagy a megállókban találod.",
+          "Nyáron a buszok zsúfoltak lehetnek, légy türelmes.",
+          "A zsúfolt buszokon figyelj az értékeidre."
         ],
         "ro": [
-          "Cumpărați un bilet zilnic pentru 5 € – ajungeți oriunde.",
-          "Autobuzele sunt punctuale și circulă frecvent – fără așteptări lungi.",
-          "La plajă există o stație de autobuz chiar la intrare.",
-          "Descărcați aplicația 'Balaton Mobil' pentru orare."
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Orarele autobuzelor sunt disponibile online sau la stații.",
+          "Autobuzele pot fi aglomerate vara, așa că aveți răbdare.",
+          "Fiți cu ochii pe bunurile dumneavoastră în autobuzele aglomerate."
         ],
         "en": [
-          "Buy a day ticket for €5 – you can go anywhere.",
-          "Buses are punctual and run often – no long waits.",
-          "At the beach there is a bus stop right at the entrance.",
-          "Download the 'Balaton Mobil' app for schedules."
+          "Buy a day pass for unlimited travel.",
+          "Bus schedules are available online or at the stops.",
+          "Buses can be crowded in summer, so be patient.",
+          "Keep an eye on your belongings on crowded buses."
         ]
       }
     }

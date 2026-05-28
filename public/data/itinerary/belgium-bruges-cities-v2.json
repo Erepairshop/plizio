@@ -1,0 +1,1536 @@
+{
+  "city_id": "belgium-bruges-cities-v2",
+  "anchor": {
+    "name": "Brügge",
+    "coords": [
+      3.2247,
+      51.2093
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Markt",
+            "hu": "Főtér (Grote Markt)",
+            "ro": "Piața Mare (Grote Markt)",
+            "en": "Market Square (Grote Markt)"
+          },
+          "coords": [
+            3.2254,
+            51.2089
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kosten Sie die berühmten belgischen Pommes von einer der Buden am Platz.",
+            "hu": "Kóstolja meg a híres belga sültkrumplit a téren található bódék egyikéből!",
+            "ro": "Gustați faimoșii cartofi prăjiți belgieni de la una dintre tarabele din piață.",
+            "en": "Taste the famous Belgian fries from one of the stalls in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Brügge",
+            "hu": "Brugge-i harangtorony (Belfort)",
+            "ro": "Belfort din Bruges",
+            "en": "Belfry of Bruges"
+          },
+          "coords": [
+            3.2249,
+            51.2083
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die 366 Stufen sind eine Herausforderung, aber die Aussicht ist es wert.",
+            "hu": "A 366 lépcső kihívást jelent, de a kilátás megéri.",
+            "ro": "Cele 366 de trepte sunt o provocare, dar priveliștea merită efortul.",
+            "en": "The 366 steps are a challenge, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Blut-Basilika",
+            "hu": "Szent Vér-bazilika",
+            "ro": "Bazilica Sfântului Sânge",
+            "en": "Basilica of the Holy Blood"
+          },
+          "coords": [
+            3.2263,
+            51.2086
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Zeiten für die Verehrung der Reliquie, sie sind begrenzt.",
+            "hu": "Ellenőrizze az ereklye tiszteletének időpontjait, mert korlátozottak.",
+            "ro": "Verificați programul de venerare a relicvei, este limitat.",
+            "en": "Check the times for the veneration of the relic, they are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Rozenhoedkaai",
+            "hu": "Rozenhoedkaai (Rózsafüzér rakpart)",
+            "ro": "Rozenhoedkaai (Cheiul Rozariului)",
+            "en": "Rozenhoedkaai (Quay of the Rosary)"
+          },
+          "coords": [
+            3.2272,
+            51.2099
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der berühmteste Fotospot der Stadt. Am besten am frühen Morgen oder Abend.",
+            "hu": "A város leghíresebb fotópontja. Kora reggel vagy este a legjobb.",
+            "ro": "Cel mai faimos loc pentru fotografii din oraș. Cel mai bun dimineața devreme sau seara.",
+            "en": "The most famous photo spot in the city. Best in the early morning or evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Groeningemuseum",
+            "hu": "Groeningemuseum",
+            "ro": "Muzeul Groeninge",
+            "en": "Groeningemuseum"
+          },
+          "coords": [
+            3.2278,
+            51.2057
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fokus auf flämische Primitive. Ein Muss für Kunstliebhaber.",
+            "hu": "A flamand primitív festészetre összpontosít. Kötelező a művészetkedvelőknek.",
+            "ro": "Concentrează-te pe Primitivii Flamanzi. O necesitate pentru iubitorii de artă.",
+            "en": "Focus on the Flemish Primitives. A must-see for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            3.2245,
+            51.2045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beherbergt Michelangelos 'Madonna mit Kind', die einzige Skulptur, die Italien zu seinen Lebzeiten verließ.",
+            "hu": "Itt található Michelangelo 'Madonna a gyermekkel' című szobra, az egyetlen, amely életében elhagyta Itáliát.",
+            "ro": "Adăpostește sculptura 'Madonna cu Pruncul' de Michelangelo, singura care a părăsit Italia în timpul vieții sale.",
+            "en": "Houses Michelangelo's 'Madonna and Child', the only sculpture to leave Italy during his lifetime."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof",
+            "hu": "Beginaház (Begijnhof)",
+            "ro": "Begijnhof",
+            "en": "Beguinage (Begijnhof)"
+          },
+          "coords": [
+            3.2248,
+            51.2019
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille. Bitte respektieren Sie die Ruhe der Bewohner.",
+            "hu": "A csend helye. Kérjük, tartsa tiszteletben a lakók nyugalmát.",
+            "ro": "Un loc al liniștii. Vă rugăm să respectați pacea rezidenților.",
+            "en": "A place of tranquility. Please respect the peace of the residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Minnewater (See der Liebe)",
+            "hu": "Minnewater (A szerelem tava)",
+            "ro": "Lacul Minnewater (Lacul Iubirii)",
+            "en": "Minnewater (Lake of Love)"
+          },
+          "coords": [
+            3.2255,
+            51.2005
+          ],
+          "category": "parks/promenades",
+          "arrive_at": "16:09",
+          "stay_min": 106,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen romantischen Spaziergang. Die Schwäne sind das Symbol von Brügge.",
+            "hu": "Tökéletes egy romantikus sétához. A hattyúk Brugge szimbólumai.",
+            "ro": "Perfect pentru o plimbare romantică. Lebedele sunt simbolul orașului Bruges.",
+            "en": "Perfect for a romantic stroll. The swans are the symbol of Bruges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Grote Markt und erklimmen Sie den Belfried für eine atemberaubende Aussicht. Am Vormittag entdecken Sie religiöse Schätze in der Heilig-Blut-Basilika und machen das perfekte Foto am Rozenhoedkaai. Nach dem Mittagessen tauchen Sie im Groeningemuseum in die flämische Kunst ein, bevor Sie Michelangelos Meisterwerk in der Liebfrauenkirche bewundern. Am späten Nachmittag finden Sie Ruhe im Beginenhof und beenden Ihren Tag mit einem romantischen Spaziergang am Minnewater, dem See der Liebe.",
+        "hu": "Kezdje a napot a Főtéren (Grote Markt), majd mássza meg a Harangtornyot a lélegzetelállító kilátásért. Délelőtt fedezze fel a Szent Vér-bazilika vallási kincseit, és készítse el a tökéletes fotót a Rozenhoedkaai-on. Ebéd után merüljön el a flamand művészetben a Groeningemuseumban, majd csodálja meg Michelangelo mesterművét a Miasszonyunk-templomban. Késő délután találjon nyugalmat a Beginaházban, és zárja a napot egy romantikus sétával a Szerelem tavánál (Minnewater).",
+        "ro": "Începeți ziua în Piața Mare (Grote Markt) și urcați în Belfort pentru o priveliște uluitoare. În cursul dimineții, descoperiți comori religioase la Bazilica Sfântului Sânge și faceți fotografia perfectă la Rozenhoedkaai. După prânz, cufundați-vă în arta flamandă la Muzeul Groeninge, apoi admirați capodopera lui Michelangelo la Biserica Maicii Domnului. Spre seară, găsiți liniștea la Begijnhof și încheiați ziua cu o plimbare romantică pe malul Lacului Iubirii (Minnewater).",
+        "en": "Start your day at the Market Square (Grote Markt) and climb the Belfry for a breathtaking view. In the morning, discover religious treasures at the Basilica of the Holy Blood and take the perfect photo at Rozenhoedkaai. After lunch, immerse yourself in Flemish art at the Groeningemuseum before admiring Michelangelo's masterpiece at the Church of Our Lady. In the late afternoon, find tranquility at the Beguinage and end your day with a romantic walk by the Minnewater, the Lake of Love."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-Frites (Muscheln mit Pommes)",
+            "tip": "Probieren Sie sie in einem traditionellen Restaurant in einer Seitengasse."
+          },
+          {
+            "name": "Belgische Waffeln",
+            "tip": "Wählen Sie die Lütticher Art (dicker Teig) für einen süßen Snack."
+          },
+          {
+            "name": "Stoofvlees (Flämisches Rindfleisch-Eintopf)",
+            "tip": "Ein herzhaftes Gericht, perfekt mit einem lokalen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-Frites (kagyló sültkrumplival)",
+            "tip": "Próbálja ki egy hagyományos étteremben egy mellékutcában."
+          },
+          {
+            "name": "Belga gofri",
+            "tip": "Válassza a liège-i típusút (vastagabb tészta) egy édes falathoz."
+          },
+          {
+            "name": "Stoofvlees (flamand marharagu)",
+            "tip": "Kiadós étel, tökéletes egy helyi sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-Frites (scoici cu cartofi prăjiți)",
+            "tip": "Încercați-le la un restaurant tradițional de pe o stradă lăturalnică."
+          },
+          {
+            "name": "Vafe belgiene",
+            "tip": "Alegeți stilul Liège (aluat mai gros) pentru o gustare dulce."
+          },
+          {
+            "name": "Stoofvlees (tocăniță flamandă de vită)",
+            "tip": "Un fel de mâncare consistent, perfect cu o bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-Frites (mussels with fries)",
+            "tip": "Try them at a traditional restaurant on a side street."
+          },
+          {
+            "name": "Belgian Waffles",
+            "tip": "Choose the Liège style (thicker dough) for a sweet snack."
+          },
+          {
+            "name": "Stoofvlees (Flemish beef stew)",
+            "tip": "A hearty dish, perfect with a local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beginenhof",
+            "tip": "Ein ummauerter Garten der Stille und des Friedens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kanäle am frühen Morgen",
+            "tip": "Machen Sie eine Bootsfahrt vor den Menschenmassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Gruuthusemuseums",
+            "tip": "Ein verstecktes Juwel abseits der Hauptwege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beginaház (Begijnhof)",
+            "tip": "Fallal körülvett csendes, békés kert.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Reggeli csatornák",
+            "tip": "Tegyen egy hajókirándulást a tömeg előtt."
+          },
+          {
+            "name": "Gruuthusemuseum udvara",
+            "tip": "Rejtett gyöngyszem a fő útvonalaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Begijnhof",
+            "tip": "O grădină împrejmuită de ziduri, plină de liniște și pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canalele dimineața devreme",
+            "tip": "Faceți o plimbare cu barca înainte de mulțime.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Muzeului Gruuthuse",
+            "tip": "O bijuterie ascunsă, departe de potecile bătătorite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beguinage (Begijnhof)",
+            "tip": "A walled garden of silence and peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Canals in the early morning",
+            "tip": "Take a boat trip before the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Gruuthusemuseum",
+            "tip": "A hidden gem off the main paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spitzen",
+            "tip": "Suchen Sie nach handgefertigten Stücken in kleinen Boutiquen."
+          },
+          {
+            "name": "Schokolade",
+            "tip": "Besuchen Sie The Chocolate Line oder Dumon für exquisite Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csipke",
+            "tip": "Keressen kézzel készített darabokat a kis butikokban."
+          },
+          {
+            "name": "Csokoládé",
+            "tip": "Látogasson el a The Chocolate Line vagy a Dumon üzletébe a kiváló pralinékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dantelă",
+            "tip": "Căutați piese lucrate manual în buticuri mici."
+          },
+          {
+            "name": "Ciocolată",
+            "tip": "Vizitați The Chocolate Line sau Dumon pentru praline rafinate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lace",
+            "tip": "Look for handmade pieces in small boutiques."
+          },
+          {
+            "name": "Chocolate",
+            "tip": "Visit The Chocolate Line or Dumon for exquisite pralines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann uneben sein.",
+          "Eine Bootsfahrt auf dem Kanal bietet eine einzigartige Perspektive auf die Stadt.",
+          "Verlieren Sie sich in den kleineren Gassen abseits der Touristenströme.",
+          "Probieren Sie ein lokales 'Brugse Zot' Bier."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakövek egyenetlenek lehetnek.",
+          "Egy csatornahajózás egyedülálló perspektívát nyújt a városra.",
+          "Tévedjen el a kisebb sikátorokban a turistaútvonalaktól távol.",
+          "Kóstoljon meg egy helyi 'Brugse Zot' sört."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, pietrele cubice pot fi denivelate.",
+          "O plimbare cu barca pe canal oferă o perspectivă unică asupra orașului.",
+          "Rătăciți-vă pe aleile mai mici, departe de potecile turistice.",
+          "Încercați o bere locală 'Brugse Zot'."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestones can be uneven.",
+          "A canal boat tour offers a unique perspective of the city.",
+          "Get lost in the smaller alleys away from the tourist crowds.",
+          "Try a local 'Brugse Zot' beer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Markt",
+            "hu": "Főtér (Grote Markt)",
+            "ro": "Piața Mare (Grote Markt)",
+            "en": "Market Square (Grote Markt)"
+          },
+          "coords": [
+            3.2254,
+            51.2089
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour von hier aus.",
+            "hu": "Béreljen kerékpárt a közelben, és innen indítsa a túrát.",
+            "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
+            "en": "Rent your bike nearby and start your tour from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rozenhoedkaai",
+            "hu": "Rozenhoedkaai",
+            "ro": "Rozenhoedkaai",
+            "en": "Rozenhoedkaai"
+          },
+          "coords": [
+            3.2272,
+            51.2099
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie entlang des Kais für die besten Fotos.",
+            "hu": "Parkolja le a biciklit, és sétáljon végig a rakparton a legjobb fotókért.",
+            "ro": "Parcați bicicleta și plimbați-vă de-a lungul cheiului pentru cele mai bune fotografii.",
+            "en": "Park your bike and walk along the quay for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Groeningemuseum",
+            "hu": "Groeningemuseum",
+            "ro": "Muzeul Groeninge",
+            "en": "Groeningemuseum"
+          },
+          "coords": [
+            3.2278,
+            51.2057
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Fahrradständer befindet sich direkt vor dem Eingang.",
+            "hu": "A kerékpártároló közvetlenül a bejárat előtt található.",
+            "ro": "Suportul pentru biciclete este chiar în fața intrării.",
+            "en": "The bike rack is right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Minnewater (See der Liebe)",
+            "hu": "Minnewater (A szerelem tava)",
+            "ro": "Lacul Minnewater (Lacul Iubirii)",
+            "en": "Minnewater (Lake of Love)"
+          },
+          "coords": [
+            3.2255,
+            51.2005
+          ],
+          "category": "parks/promenades",
+          "arrive_at": "11:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Park, ein perfekter Ort für ein kleines Picknick.",
+            "hu": "Tartson egy szünetet a parkban, tökéletes hely egy kis piknikhez.",
+            "ro": "Faceți o pauză în parc, un loc perfect pentru un mic picnic.",
+            "en": "Take a break in the park, a perfect spot for a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof",
+            "hu": "Beginaház (Begijnhof)",
+            "ro": "Begijnhof",
+            "en": "Beguinage (Begijnhof)"
+          },
+          "coords": [
+            3.2248,
+            51.2019
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrräder sind im Inneren nicht erlaubt. Schieben Sie Ihr Fahrrad oder schließen Sie es draußen an.",
+            "hu": "Kerékpárral nem lehet bemenni. Tolja vagy zárja le kint.",
+            "ro": "Bicicletele nu sunt permise în interior. Împingeți bicicleta sau legați-o afară.",
+            "en": "Bikes are not allowed inside. Walk your bike or lock it outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Oud Sint-Jan",
+            "hu": "Oud Sint-Jan (Régi Szent János Kórház)",
+            "ro": "Oud Sint-Jan (Vechiul Spital Sf. Ioan)",
+            "en": "Oud Sint-Jan (Old St. John's Hospital)"
+          },
+          "coords": [
+            3.223,
+            51.2044
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Komplex beherbergt heute Ausstellungen und eine Brauerei.",
+            "hu": "A komplexum ma kiállításoknak és egy sörfőzdének ad otthont.",
+            "ro": "Complexul găzduiește acum expoziții și o fabrică de bere.",
+            "en": "The complex now houses exhibitions and a brewery."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Brügge (Sint-Janshuismolen)",
+            "hu": "Brugge-i szélmalmok (Sint-Janshuismolen)",
+            "ro": "Morile de vânt din Bruges (Sint-Janshuismolen)",
+            "en": "Windmills of Bruges (Sint-Janshuismolen)"
+          },
+          "coords": [
+            3.238,
+            51.213
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 126,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radfahren Sie entlang des Kanals, um diese malerischen Windmühlen am Stadtrand zu sehen.",
+            "hu": "Biciklizzen végig a csatorna mentén, hogy megnézze ezeket a festői szélmalmokat a város szélén.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului pentru a vedea aceste mori de vânt pitorești la marginea orașului.",
+            "en": "Cycle along the canal to see these picturesque windmills on the city's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Grote Markt und fahren Sie zum berühmten Rozenhoedkaai. Tauchen Sie in die Kunst im Groeningemuseum ein, bevor Sie eine entspannte Mittagspause am Minnewater einlegen. Am Nachmittag entdecken Sie die Stille des Beginenhofs und die Geschichte von Oud Sint-Jan. Schließen Sie den Tag mit einer malerischen Fahrt zu den Windmühlen am Rande der Stadt ab.",
+        "hu": "Indítsa kerékpártúráját a Főtérről, és tekerjen el a híres Rozenhoedkaai-hoz. Merüljön el a művészetben a Groeningemuseumban, mielőtt egy pihentető ebédszünetet tartana a Minnewaternél. Délután fedezze fel a Beginaház csendjét és az Oud Sint-Jan történelmét. Zárja a napot egy festői biciklizéssel a város szélén álló szélmalmokhoz.",
+        "ro": "Începeți turul cu bicicleta din Piața Mare și pedalați până la faimosul Rozenhoedkaai. Scufundați-vă în artă la Muzeul Groeninge înainte de o pauză de prânz relaxantă la Minnewater. După-amiaza, descoperiți liniștea din Begijnhof și istoria de la Oud Sint-Jan. Încheiați ziua cu o plimbare pitorească cu bicicleta la morile de vânt de la marginea orașului.",
+        "en": "Start your bike tour from the Market Square and cycle to the famous Rozenhoedkaai. Dive into art at the Groeningemuseum before a relaxing lunch break at Minnewater. In the afternoon, discover the tranquility of the Beguinage and the history of Oud Sint-Jan. End the day with a scenic ride to the windmills on the city's edge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Halve Maan Brauerei",
+            "tip": "Probieren Sie das 'Brugse Zot', das lokale Stadtbier."
+          },
+          {
+            "name": "Chez Albert",
+            "tip": "Gilt als eine der besten Waffeln der Stadt."
+          },
+          {
+            "name": "The Old Chocolate House",
+            "tip": "Genießen Sie eine heiße Schokolade, die so dick ist, dass man sie löffeln kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Halve Maan sörfőzde",
+            "tip": "Kóstolja meg a 'Brugse Zot'-ot, a helyi városi sört."
+          },
+          {
+            "name": "Chez Albert",
+            "tip": "A város egyik legjobb gofrijaként tartják számon."
+          },
+          {
+            "name": "The Old Chocolate House",
+            "tip": "Élvezzen egy olyan sűrű forró csokoládét, hogy kanalazni lehet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berăria De Halve Maan",
+            "tip": "Încercați 'Brugse Zot', berea locală a orașului."
+          },
+          {
+            "name": "Chez Albert",
+            "tip": "Considerat a avea una dintre cele mai bune vafe din oraș."
+          },
+          {
+            "name": "The Old Chocolate House",
+            "tip": "Bucurați-vă de o ciocolată caldă atât de groasă încât o puteți mânca cu lingura."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Halve Maan Brewery",
+            "tip": "Try the 'Brugse Zot', the local city beer."
+          },
+          {
+            "name": "Chez Albert",
+            "tip": "Considered one of the best waffles in town."
+          },
+          {
+            "name": "The Old Chocolate House",
+            "tip": "Enjoy a hot chocolate so thick you can eat it with a spoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Entlang des Kanals Kruisvest",
+            "tip": "Der Weg zu den Windmühlen ist friedlich und schön.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonifacius-Brücke",
+            "tip": "Eine kleine, romantische Brücke mit tollem Blick.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Koningin Astridpark",
+            "tip": "Ein ruhiger Park mit einem Teich und Spielplatz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kruisvest csatorna mentén",
+            "tip": "A szélmalmokhoz vezető út békés és gyönyörű.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonifác-híd",
+            "tip": "Egy kicsi, romantikus híd, nagyszerű kilátással."
+          },
+          {
+            "name": "Astrid királynő park",
+            "tip": "Csendes park tóval és játszótérrel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "De-a lungul canalului Kruisvest",
+            "tip": "Calea spre morile de vânt este pașnică și frumoasă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podul Bonifacius",
+            "tip": "Un pod mic, romantic, cu o priveliște minunată.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Parcul Regina Astrid",
+            "tip": "Un parc liniștit cu un iaz și un loc de joacă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Along the Kruisvest canal",
+            "tip": "The path to the windmills is peaceful and beautiful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonifacius Bridge",
+            "tip": "A small, romantic bridge with a great view.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Queen Astrid Park",
+            "tip": "A quiet park with a pond and playground.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Am Samstag auf dem 't Zand und Mittwoch auf dem Grote Markt."
+          },
+          {
+            "name": "Käthe Wohlfahrt",
+            "tip": "Ein ganzjähriger Weihnachtsmarkt für einzigartige Dekorationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szombaton a 't Zand téren, szerdán a Főtéren."
+          },
+          {
+            "name": "Käthe Wohlfahrt",
+            "tip": "Egész évben nyitva tartó karácsonyi bolt egyedi díszekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Sâmbăta în 't Zand și miercurea în Piața Mare."
+          },
+          {
+            "name": "Käthe Wohlfahrt",
+            "tip": "Un magazin de Crăciun deschis tot anul pentru decorațiuni unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "On Saturdays at 't Zand and Wednesdays at the Grote Markt."
+          },
+          {
+            "name": "Käthe Wohlfahrt",
+            "tip": "A year-round Christmas shop for unique decorations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Straßen sind Einbahnstraßen, achten Sie auf die Schilder.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Der Radweg entlang des äußeren Rings ist eine großartige Möglichkeit, die Stadt zu umrunden.",
+          "Einige zentrale Bereiche sind Fußgängerzonen, dort müssen Sie absteigen."
+        ],
+        "hu": [
+          "Sok utca egyirányú, figyeljen a táblákra.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is.",
+          "A külső körgyűrű menti kerékpárút remek módja a város körbejárásának.",
+          "Néhány központi terület sétálóövezet, ott le kell szállnia."
+        ],
+        "ro": [
+          "Multe străzi sunt cu sens unic, fiți atenți la semne.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Pista de biciclete de-a lungul inelului exterior este o modalitate excelentă de a înconjura orașul.",
+          "Unele zone centrale sunt pietonale, va trebui să descălecați acolo."
+        ],
+        "en": [
+          "Many streets are one-way, pay attention to the signs.",
+          "Always lock your bike, even for short stops.",
+          "The bike path along the outer ring is a great way to circle the city.",
+          "Some central areas are pedestrian-only, you'll have to dismount there."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz 't Zand",
+            "hu": "'t Zand parkoló",
+            "ro": "Parcare 't Zand",
+            "en": "Parking 't Zand"
+          },
+          "coords": [
+            3.216,
+            51.206
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein großer, zentraler Tiefgaragenparkplatz. Von hier aus beginnt der erste Rundgang.",
+            "hu": "Nagy, központi mélygarázs. Innen indul az első séta.",
+            "ro": "O parcare subterană mare și centrală. Prima plimbare pe jos începe de aici.",
+            "en": "A large, central underground parking. The first walking cluster starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Oud Sint-Jan & Liebfrauenkirche",
+            "hu": "Oud Sint-Jan és Miasszonyunk-templom",
+            "ro": "Oud Sint-Jan & Biserica Maicii Domnului",
+            "en": "Oud Sint-Jan & Church of Our Lady"
+          },
+          "coords": [
+            3.224,
+            51.2045
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das alte Krankenhaus und sehen Sie Michelangelos Statue in der nahe gelegenen Kirche.",
+            "hu": "Fedezze fel a régi kórházat és nézze meg Michelangelo szobrát a közeli templomban.",
+            "ro": "Explorați spitalul vechi și vedeți statuia lui Michelangelo în biserica din apropiere.",
+            "en": "Explore the old hospital and see Michelangelo's statue in the nearby church."
+          }
+        },
+        {
+          "name": {
+            "de": "Beginenhof & Minnewater",
+            "hu": "Beginaház és Minnewater",
+            "ro": "Begijnhof & Minnewater",
+            "en": "Beguinage & Minnewater"
+          },
+          "coords": [
+            3.225,
+            51.201
+          ],
+          "category": "parks/promenades",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch den ruhigen Hof zum romantischen See der Liebe.",
+            "hu": "Séta a csendes udvaron keresztül a romantikus Szerelem tavához.",
+            "ro": "O plimbare prin curtea liniștită până la romanticul Lac al Iubirii.",
+            "en": "A walk through the tranquil courtyard to the romantic Lake of Love."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Pandreitje",
+            "hu": "Pandreitje parkoló",
+            "ro": "Parcare Pandreitje",
+            "en": "Parking Pandreitje"
+          },
+          "coords": [
+            3.229,
+            51.208
+          ],
+          "category": "transport",
+          "arrive_at": "12:59",
+          "stay_min": 0,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Rundgang durch das Herz der Stadt.",
+            "hu": "Parkoljon itt a második, városközponti sétához.",
+            "ro": "Parcați aici pentru a doua plimbare pe jos în inima orașului.",
+            "en": "Park here for the second walking cluster in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rozenhoedkaai & Heilig-Blut-Basilika",
+            "hu": "Rozenhoedkaai és Szent Vér-bazilika",
+            "ro": "Rozenhoedkaai & Bazilica Sfântului Sânge",
+            "en": "Rozenhoedkaai & Basilica of the Holy Blood"
+          },
+          "coords": [
+            3.227,
+            51.209
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie das klassische Brügge-Foto und besuchen Sie die beeindruckende Basilika.",
+            "hu": "Készítse el a klasszikus brugge-i fotót és látogasson el a lenyűgöző bazilikába.",
+            "ro": "Faceți fotografia clasică din Bruges și vizitați impresionanta bazilică.",
+            "en": "Take the classic Bruges photo and visit the impressive basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Markt & Belfried",
+            "hu": "Főtér és Harangtorony",
+            "ro": "Piața Mare & Belfort",
+            "en": "Market Square & Belfry"
+          },
+          "coords": [
+            3.225,
+            51.2085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des Hauptplatzes. Der Aufstieg auf den Turm ist optional.",
+            "hu": "Élvezze a főtér hangulatát. A toronymászás opcionális.",
+            "ro": "Bucurați-vă de atmosfera din piața principală. Urcarea în turn este opțională.",
+            "en": "Soak in the atmosphere of the main square. Climbing the belfry is optional."
+          }
+        },
+        {
+          "name": {
+            "de": "Damme (Dorf)",
+            "hu": "Damme (falu)",
+            "ro": "Satul Damme",
+            "en": "Village of Damme"
+          },
+          "coords": [
+            3.287,
+            51.25
+          ],
+          "category": "historical",
+          "arrive_at": "16:11",
+          "stay_min": 63,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Ausflug in dieses malerische Dorf, nur wenige Kilometer von Brügge entfernt.",
+            "hu": "Rövid kirándulás ebbe a festői faluba, pár kilométerre Brugge-től.",
+            "ro": "O scurtă excursie cu mașina în acest sat pitoresc la câțiva kilometri de Bruges.",
+            "en": "A short drive to this picturesque village just a few kilometers from Bruges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe von 't Zand und erkunden Sie zu Fuß den südlichen Teil von Brügge: Oud Sint-Jan, die Liebfrauenkirche und den ruhigen Beginenhof. Nach dem Mittagessen fahren Sie zu einem anderen Parkplatz und tauchen in das belebte Zentrum rund um den Grote Markt und Rozenhoedkaai ein. Beenden Sie Ihren Tag mit einer kurzen Fahrt in das charmante Dorf Damme, um eine andere Seite von Flandern zu erleben.",
+        "hu": "Parkolja le autóját a 't Zand közelében, és fedezze fel gyalog Brugge déli részét: az Oud Sint-Jant, a Miasszonyunk-templomot és a csendes Beginaházat. Ebéd után vezessen át egy másik parkolóba, és merüljön el a Grote Markt és a Rozenhoedkaai körüli nyüzsgő központban. Zárja a napot egy rövid autóúttal a bájos Damme faluba, hogy megismerje Flandria egy másik oldalát.",
+        "ro": "Parcați mașina lângă 't Zand și explorați pe jos partea de sud a orașului Bruges: Oud Sint-Jan, Biserica Maicii Domnului și liniștitul Begijnhof. După prânz, conduceți către o altă parcare și scufundați-vă în centrul plin de viață din jurul Grote Markt și Rozenhoedkaai. Încheiați ziua cu o scurtă călătorie cu mașina spre fermecătorul sat Damme pentru o altă perspectivă asupra Flandrei.",
+        "en": "Park your car near 't Zand and explore the southern part of Bruges on foot: Oud Sint-Jan, the Church of Our Lady, and the tranquil Beguinage. After lunch, drive to another parking lot and dive into the bustling center around Grote Markt and Rozenhoedkaai. End your day with a short drive to the charming village of Damme for a different taste of Flanders."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant in Damme",
+            "tip": "Probieren Sie 'Paling in 't groen' (Aal in grüner Soße), eine lokale Spezialität."
+          },
+          {
+            "name": "T'Brugs Beertje",
+            "tip": "Eine berühmte Bierkneipe mit einer riesigen Auswahl an belgischen Bieren."
+          },
+          {
+            "name": "Carpe Diem Tearoom",
+            "tip": "Bekannt für sein luxuriöses Frühstück und seinen Nachmittagstee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem Damme-ban",
+            "tip": "Kóstolja meg a 'Paling in 't groen'-t (angolna zöld szószban), egy helyi specialitást."
+          },
+          {
+            "name": "T'Brugs Beertje",
+            "tip": "Híres söröző hatalmas belga sörválasztékkal."
+          },
+          {
+            "name": "Carpe Diem Tearoom",
+            "tip": "Híres a luxus reggelijéről és délutáni teájáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Damme",
+            "tip": "Încercați 'Paling in 't groen' (anghilă în sos verde), o specialitate locală."
+          },
+          {
+            "name": "T'Brugs Beertje",
+            "tip": "Un bar de bere renumit cu o selecție uriașă de beri belgiene."
+          },
+          {
+            "name": "Carpe Diem Tearoom",
+            "tip": "Renumit pentru micul dejun de lux și ceaiul de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Damme",
+            "tip": "Try 'Paling in 't groen' (eel in green sauce), a local specialty."
+          },
+          {
+            "name": "T'Brugs Beertje",
+            "tip": "A famous beer pub with a huge selection of Belgian beers."
+          },
+          {
+            "name": "Carpe Diem Tearoom",
+            "tip": "Known for its luxurious breakfast and afternoon tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Damme-Kanals",
+            "tip": "Ein friedlicher Spaziergang entlang des Wassers außerhalb von Brügge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Sint-Janshospitaal",
+            "tip": "Eine Oase der Ruhe im belebten Museumsviertel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Aussicht von der Conzett-Brücke",
+            "tip": "Eine moderne Brücke mit einer überraschend ruhigen Atmosphäre.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Damme-csatorna partja",
+            "tip": "Békés séta a víz mentén Brugge-n kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sint-Janshospitaal udvara",
+            "tip": "A nyugalom oázisa a nyüzsgő múzeumi negyedben.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Kilátás a Conzett-hídról",
+            "tip": "Modern híd meglepően csendes hangulattal.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile canalului Damme",
+            "tip": "O plimbare liniștită de-a lungul apei, în afara Bruges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Spitalului Sint-Jans",
+            "tip": "O oază de calm în cartierul aglomerat al muzeelor.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Vedere de pe Podul Conzett",
+            "tip": "Un pod modern cu o atmosferă surprinzător de liniștită.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Damme canal",
+            "tip": "A peaceful walk along the water outside of Bruges.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Sint-Janshospitaal",
+            "tip": "An oasis of calm in the busy museum quarter.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "View from the Conzett Bridge",
+            "tip": "A modern bridge with a surprisingly quiet atmosphere.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden in Damme",
+            "tip": "Bekannt für seine Buch- und Antiquitätenläden."
+          },
+          {
+            "name": "Dille & Kamille",
+            "tip": "Ein schöner Laden für Haushaltswaren und Gartenzubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok Damme-ban",
+            "tip": "Híres a könyv- és régiségboltjairól."
+          },
+          {
+            "name": "Dille & Kamille",
+            "tip": "Szép bolt háztartási cikkekkel és kerti kiegészítőkkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anticariate în Damme",
+            "tip": "Renumit pentru librăriile și magazinele de antichități."
+          },
+          {
+            "name": "Dille & Kamille",
+            "tip": "Un magazin frumos pentru articole de uz casnic și accesorii de grădinărit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops in Damme",
+            "tip": "Known for its book and antique shops."
+          },
+          {
+            "name": "Dille & Kamille",
+            "tip": "A beautiful store for homewares and garden accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in den zentralen Tiefgaragen ist einfacher als die Parkplatzsuche auf der Straße.",
+          "Beachten Sie die Umweltzone (LEZ) im Stadtzentrum.",
+          "Kaufen Sie eine Brügge-Stadtkarte für Ermäßigungen in Museen und auf Parkplätzen.",
+          "Die Straßen in Brügge sind eng; fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A központi mélygarázsokban való parkolás egyszerűbb, mint az utcán helyet keresni.",
+          "Vegye figyelembe az alacsony kibocsátású zónát (LEZ) a városközpontban.",
+          "Vásároljon Brugge városkártyát a múzeumokban és parkolókban kapható kedvezményekért.",
+          "Brugge utcái szűkek; vezessen óvatosan."
+        ],
+        "ro": [
+          "Parcarea în parcările subterane centrale este mai ușoară decât căutarea unui loc pe stradă.",
+          "Fiți conștienți de zona cu emisii scăzute (LEZ) din centrul orașului.",
+          "Cumpărați un card Bruges City Card pentru reduceri la muzee și parcări.",
+          "Străzile din Bruges sunt înguste; conduceți cu atenție."
+        ],
+        "en": [
+          "Parking in the central underground garages is easier than searching for a spot on the street.",
+          "Be aware of the Low Emission Zone (LEZ) in the city center.",
+          "Buy a Bruges City Card for discounts at museums and car parks.",
+          "The streets in Bruges are narrow; drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Brügge",
+            "hu": "Brugge vasútállomás",
+            "ro": "Gara din Bruges",
+            "en": "Bruges Railway Station"
+          },
+          "coords": [
+            3.217,
+            51.197
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Die meisten Busse ins Zentrum fahren von hier ab.",
+            "hu": "Kezdje itt a napot. A legtöbb busz innen indul a központba.",
+            "ro": "Începeți ziua aici. Majoritatea autobuzelor spre centru pleacă de aici.",
+            "en": "Start your day here. Most buses to the city center depart from this point."
+          }
+        },
+        {
+          "name": {
+            "de": "Minnewater & Beginenhof",
+            "hu": "Minnewater és Beginaház",
+            "ro": "Minnewater & Begijnhof",
+            "en": "Minnewater & Beguinage"
+          },
+          "coords": [
+            3.225,
+            51.201
+          ],
+          "category": "parks/promenades",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof zu diesen friedlichen Orten.",
+            "hu": "Rövid séta a vasútállomástól ezekhez a békés helyekhez.",
+            "ro": "O scurtă plimbare de la gară la aceste locuri pașnice.",
+            "en": "A short walk from the station to these peaceful spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Oud Sint-Jan",
+            "hu": "Oud Sint-Jan",
+            "ro": "Oud Sint-Jan",
+            "en": "Oud Sint-Jan"
+          },
+          "coords": [
+            3.223,
+            51.2044
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses ehemaligen Krankenhauses.",
+            "hu": "Fedezze fel ennek a régi kórháznak a gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a acestui fost spital.",
+            "en": "Discover the rich history of this former hospital."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle 'Markt'",
+            "hu": "Markt buszmegálló",
+            "ro": "Stația de autobuz 'Markt'",
+            "en": "Bus Stop 'Markt'"
+          },
+          "coords": [
+            3.226,
+            51.21
+          ],
+          "category": "transport",
+          "arrive_at": "12:13",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Sint-Janshospitaal zum Markt für den zweiten Teil des Tages.",
+            "hu": "Menjen busszal a Sint-Janshospitaal-tól a piacra a nap második részéhez.",
+            "ro": "Luați un autobuz de la Spitalul Sint-Jans la Piață pentru a doua parte a zilei.",
+            "en": "Take a bus from near St. John's Hospital to the Markt for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Markt & Belfried",
+            "hu": "Főtér és Harangtorony",
+            "ro": "Piața Mare & Belfort",
+            "en": "Market Square & Belfry"
+          },
+          "coords": [
+            3.225,
+            51.2085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für den Hauptplatz und vielleicht für ein Mittagessen hier.",
+            "hu": "Szánjon időt a főtérre, és talán ebédeljen is itt.",
+            "ro": "Luați-vă timp pentru piața principală și poate pentru un prânz aici.",
+            "en": "Take your time for the main square and perhaps for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rozenhoedkaai",
+            "hu": "Rozenhoedkaai",
+            "ro": "Rozenhoedkaai",
+            "en": "Rozenhoedkaai"
+          },
+          "coords": [
+            3.2272,
+            51.2099
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt zu diesem Postkartenmotiv.",
+            "hu": "Rövid séta a piactól ehhez a képeslapra illő helyhez.",
+            "ro": "O scurtă plimbare de la piață la această vedere de carte poștală.",
+            "en": "A short walk from the market to this postcard view."
+          }
+        },
+        {
+          "name": {
+            "de": "Groeningemuseum",
+            "hu": "Groeningemuseum",
+            "ro": "Muzeul Groeninge",
+            "en": "Groeningemuseum"
+          },
+          "coords": [
+            3.2278,
+            51.2057
+          ],
+          "category": "museums",
+          "arrive_at": "15:02",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in der Welt der flämischen Meister, bevor Sie zurück zum Bahnhof gehen.",
+            "hu": "Vesszen el a flamand mesterek világában, mielőtt visszasétálna az állomásra.",
+            "ro": "Pierdeți-vă în lumea maeștrilor flamanzi înainte de a vă întoarce pe jos la gară.",
+            "en": "Lose yourself in the world of the Flemish masters before walking back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof und spazieren Sie durch den ruhigen Süden von Brügge mit Minnewater und Beginenhof. Entdecken Sie das historische Oud Sint-Jan, bevor Sie einen Bus ins Herz der Stadt nehmen. Verbringen Sie den Nachmittag rund um den Grote Markt, machen Sie das ikonische Foto am Rozenhoedkaai und bewundern Sie die Kunst im Groeningemuseum. Ein kurzer Spaziergang bringt Sie am Ende des Tages zurück zum Bahnhof.",
+        "hu": "Kezdje a vasútállomáson, és sétáljon végig Brugge csendes déli részén, a Minnewaternél és a Beginaháznál. Fedezze fel a történelmi Oud Sint-Jant, mielőtt buszra szállna a város szívébe. Töltse a délutánt a Grote Markt környékén, készítse el az ikonikus fotót a Rozenhoedkaai-on, és csodálja meg a művészetet a Groeningemuseumban. Egy rövid séta visszaviszi az állomásra a nap végén.",
+        "ro": "Începeți de la gară și plimbați-vă prin sudul liniștit al orașului Bruges, incluzând Minnewater și Begijnhof. Descoperiți istoricul Oud Sint-Jan înainte de a lua un autobuz spre inima orașului. Petreceți după-amiaza în jurul Grote Markt, faceți fotografia iconică la Rozenhoedkaai și admirați arta la Muzeul Groeninge. O scurtă plimbare vă va duce înapoi la gară la sfârșitul zilei.",
+        "en": "Start at the railway station and walk through the quiet southern part of Bruges, including Minnewater and the Beguinage. Discover the historic Oud Sint-Jan before taking a bus to the heart of the city. Spend the afternoon around the Grote Markt, take the iconic photo at Rozenhoedkaai, and admire the art at the Groeningemuseum. A short walk brings you back to the station at the end of the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bierbrasserie Cambrinus",
+            "tip": "Bietet Hunderte von Bieren und traditionelle Gerichte an."
+          },
+          {
+            "name": "That's Toast",
+            "tip": "Ein beliebter Ort für ein schnelles und leckeres Mittagessen oder Brunch."
+          },
+          {
+            "name": "The Gulliver Tree",
+            "tip": "Ein gemütlicher Ort für Kaffee, Kuchen und leichte Mahlzeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bierbrasserie Cambrinus",
+            "tip": "Több száz sört és hagyományos ételeket kínál."
+          },
+          {
+            "name": "That's Toast",
+            "tip": "Népszerű hely egy gyors és finom ebédre vagy brunchra."
+          },
+          {
+            "name": "The Gulliver Tree",
+            "tip": "Hangulatos hely kávéra, süteményre és könnyű ételekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bierbrasserie Cambrinus",
+            "tip": "Oferă sute de beri și mâncăruri tradiționale."
+          },
+          {
+            "name": "That's Toast",
+            "tip": "Un loc popular pentru un prânz rapid și gustos sau un brunch."
+          },
+          {
+            "name": "The Gulliver Tree",
+            "tip": "Un loc confortabil pentru cafea, prăjituri și mese ușoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bierbrasserie Cambrinus",
+            "tip": "Offers hundreds of beers and traditional dishes."
+          },
+          {
+            "name": "That's Toast",
+            "tip": "A popular spot for a quick and tasty lunch or brunch."
+          },
+          {
+            "name": "The Gulliver Tree",
+            "tip": "A cozy place for coffee, cake, and light meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sint-Annarei Kanal",
+            "tip": "Ein ruhigerer Kanal, ideal für einen Spaziergang abseits der Massen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lesesaal der Stadtbibliothek",
+            "tip": "Ein unerwartet schöner und ruhiger Ort.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Hof Bladelin",
+            "tip": "Ein prächtiger Innenhof aus dem 15. Jahrhundert, der oft übersehen wird.",
+            "emoji": "🏛️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sint-Annarei csatorna",
+            "tip": "Csendesebb csatorna, ideális a tömegtől távoli sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városi Könyvtár olvasóterme",
+            "tip": "Váratlanul szép és csendes hely."
+          },
+          {
+            "name": "Hof Bladelin",
+            "tip": "Egy csodálatos 15. századi udvar, amelyet gyakran figyelmen kívül hagynak.",
+            "emoji": "🏛️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Sint-Annarei",
+            "tip": "Un canal mai liniștit, ideal pentru o plimbare departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sala de lectură a Bibliotecii Publice",
+            "tip": "Un loc neașteptat de frumos și liniștit."
+          },
+          {
+            "name": "Curtea Bladelin",
+            "tip": "O curte magnifică din secolul al XV-lea, adesea trecută cu vederea.",
+            "emoji": "🏛️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sint-Annarei Canal",
+            "tip": "A quieter canal, ideal for a walk away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Public Library Reading Room",
+            "tip": "An unexpectedly beautiful and quiet place."
+          },
+          {
+            "name": "Hof Bladelin",
+            "tip": "A magnificent 15th-century courtyard that is often overlooked.",
+            "emoji": "🏛️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sint-Jakobsstraat & Ezelstraat",
+            "tip": "Bekannt für unabhängige Boutiquen und Concept Stores."
+          },
+          {
+            "name": "Juliette's Artisan Cookies",
+            "tip": "Kaufen Sie köstliche, handwerklich hergestellte Kekse als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sint-Jakobsstraat & Ezelstraat",
+            "tip": "Független butikjairól és koncepcióüzleteiről ismert."
+          },
+          {
+            "name": "Juliette's Artisan Cookies",
+            "tip": "Vásároljon finom, kézműves sütiket szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sint-Jakobsstraat & Ezelstraat",
+            "tip": "Cunoscute pentru buticurile independente și magazinele concept."
+          },
+          {
+            "name": "Juliette's Artisan Cookies",
+            "tip": "Cumpărați biscuiți delicioși, artizanali, ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sint-Jakobsstraat & Ezelstraat",
+            "tip": "Known for independent boutiques and concept stores."
+          },
+          {
+            "name": "Juliette's Artisan Cookies",
+            "tip": "Buy delicious, artisanal cookies as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für den Bus ist oft günstiger als Einzeltickets, wenn Sie mehr als zwei Fahrten planen.",
+          "Die Busse können in der Hochsaison voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Laden Sie die 'De Lijn' App herunter, um Busfahrpläne in Echtzeit zu verfolgen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind vom Markt aus leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "A busz napijegy gyakran olcsóbb, mint az egyedi jegyek, ha több mint két utat tervez.",
+          "A buszok a főszezonban zsúfoltak lehetnek, ezért tervezzen egy kis extra időt.",
+          "Töltse le a 'De Lijn' alkalmazást a valós idejű buszmenetrendek követéséhez.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog a piactól."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuz este adesea mai ieftin decât biletele individuale dacă plănuiți mai mult de două călătorii.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că planificați-vă timp suplimentar.",
+          "Descărcați aplicația 'De Lijn' pentru a urmări orarele autobuzelor în timp real.",
+          "Majoritatea atracțiilor din centru sunt ușor de accesat pe jos de la Piață."
+        ],
+        "en": [
+          "A one-day bus pass is often cheaper than single tickets if you plan more than two trips.",
+          "Buses can be crowded during peak season, so allow some extra time.",
+          "Download the 'De Lijn' app to track real-time bus schedules.",
+          "Most central attractions are easily walkable from the Markt."
+        ]
+      }
+    }
+  }
+}

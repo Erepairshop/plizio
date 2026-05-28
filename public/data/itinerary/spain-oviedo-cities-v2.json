@@ -1,0 +1,1772 @@
+{
+  "city_id": "spain-oviedo-cities-v2",
+  "anchor": {
+    "name": "Oviedo",
+    "coords": [
+      43.3603,
+      -5.8448
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 5.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Escandalera",
+            "hu": "Escandalera tér",
+            "ro": "Piața Escandalera",
+            "en": "Plaza de la Escandalera"
+          },
+          "coords": [
+            43.3609,
+            -5.8488
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Früh da sein, dann ist der Platz ruhig und fotogen.",
+            "hu": "Korán érkezz, reggel még nyugodt és fotózható.",
+            "ro": "Vino devreme; dimineața piața e calmă și bună de poze.",
+            "en": "Come early; the square is calmer and more photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt El Fontán",
+            "hu": "Fontán piac",
+            "ro": "Piața Fontán",
+            "en": "Mercado del Fontán"
+          },
+          "coords": [
+            43.3626,
+            -5.8474
+          ],
+          "category": "market",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Markttage bringen Farbe, Käse und gute Kaffeepausen.",
+            "hu": "Piaci napokon jön az élet, sajt és jó kávészünet.",
+            "ro": "În zilele de piață e cel mai viu; bun pentru gustări.",
+            "en": "Market days are best for color, cheese, and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Campoamor-Theater",
+            "hu": "Campoamor Színház",
+            "ro": "Teatrul Campoamor",
+            "en": "Campoamor Theatre"
+          },
+          "coords": [
+            43.3598,
+            -5.8509
+          ],
+          "category": "theatre",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Fassade wirkt am schönsten im weichen Vormittagslicht.",
+            "hu": "A homlokzat délelőtti lágy fényben a legszebb.",
+            "ro": "Fațada prinde bine în lumina moale de dimineață.",
+            "en": "The facade looks best in soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Maria vom Naranco",
+            "hu": "Narancói Szent Mária",
+            "ro": "Sfânta Maria del Naranco",
+            "en": "Santa María del Naranco"
+          },
+          "coords": [
+            43.3718,
+            -5.8608
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich; oben ist die Luft frischer.",
+            "hu": "Megéri a kaptató; fent frissebb a levegő és a kilátás.",
+            "ro": "Urcarea merită; sus ai aer mai bun și panoramă.",
+            "en": "The climb is worth it; the air is fresher up top."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Michael von Lillo",
+            "hu": "Lilloi Szent Mihály",
+            "ro": "San Miguel de Lillo",
+            "en": "San Miguel de Lillo"
+          },
+          "coords": [
+            43.3712,
+            -5.86
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Klein, ruhig und oft weniger überlaufen als die Hauptkathedrale.",
+            "hu": "Kicsi, csendes, és gyakran kevésbé zsúfolt.",
+            "ro": "Mic, liniștit și adesea mai puțin aglomerat.",
+            "en": "Small, quiet, and often less crowded than the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von San Salvador",
+            "hu": "Szent Megváltó-katedrális",
+            "ro": "Catedrala San Salvador",
+            "en": "Cathedral of San Salvador"
+          },
+          "coords": [
+            43.3619,
+            -5.8427
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nimm dir Zeit für den Kreuzgang und die Details an der Fassade.",
+            "hu": "Sétálj ráérősen a részletekre és a homlokzatra.",
+            "ro": "Acordă timp detaliilor și fațadei.",
+            "en": "Take time for the facade and the small details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            43.3613,
+            -5.844
+          ],
+          "category": "museum",
+          "arrive_at": "15:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum ist stark; drinnen ist das Tempo sofort langsamer.",
+            "hu": "A múzeum erős program, bent rögtön lelassul a tempó.",
+            "ro": "Muzeul cere timp; înăuntru ritmul încetinește.",
+            "en": "The museum deserves time; the pace drops indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque San Francisco",
+            "hu": "San Francisco park",
+            "ro": "Parcul San Francisco",
+            "en": "San Francisco Park"
+          },
+          "coords": [
+            43.3627,
+            -5.8472
+          ],
+          "category": "park",
+          "arrive_at": "17:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine letzte Pause im Schatten vor dem Abend.",
+            "hu": "Tökéletes utolsó árnyékos pihenő az este előtt.",
+            "ro": "Perfect pentru o pauză la umbră înainte de seară.",
+            "en": "Perfect for a final shady pause before evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens startest du an der Escandalera und im Fontán, wo Oviedo langsam wach wird.\nMittags bringt dich der Weg zum Naranco: Santa María und San Miguel geben dem Tag Gewicht.\nNachmittags sammelst du die Kathedrale, das Museum und die eleganten Straßen im Zentrum ein.\nAbends bleibt der San-Francisco-Park als ruhiger Ausklang mit Sidra in Reichweite.",
+        "hu": "Reggel az Escandalera és a Fontán adja az indulást, könnyű, városi hangulattal.\nDélben felmész a Narancóra: Santa María és San Miguel adják a nap történelmi magját.\nDélután jön a katedrális, a múzeum és a belvárosi séták elegáns ritmusa.\nEstére a San Francisco parkban lassul le a tempó, egy pohár almabor mellé.",
+        "ro": "Dimineața începi la Escandalera și Fontán, cu un centru care încă nu s-a grăbit.\nLa prânz urci spre Naranco; Santa María și San Miguel dau ziua pe față.\nDupă-amiaza vin catedrala, muzeul și străzile elegante din inima orașului.\nSeara se închide liniștit în Parcul San Francisco, aproape de o sidră rece.",
+        "en": "Morning begins at Escandalera and Fontán, when the center is still easy to enjoy.\nBy midday you are up on Naranco, with Santa María and San Miguel as the historic core.\nAfternoon is for the cathedral, the art museum, and the elegant streets downtown.\nEvening belongs to San Francisco Park, a calm finish with cider nearby."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín serviert eine klassische, saftige Version."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "Bei La Corte de Pelayo gut zum Teilen."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "In Tierra Astur passt sie perfekt zum Mittag."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Zum Schluss im El Fartuquín bestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "A Casa Fermín klasszikus, szaftos verziója jó kezdés."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "A La Corte de Pelayo-ban megosztva a legjobb."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "A Tierra Asturban ebéd mellé különösen jó."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Az El Fartuquín desszertje méltó lezárás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "La Casa Fermín merită încercată în versiunea clasică."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La La Corte de Pelayo e bun de împărțit."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "La Tierra Astur merge perfect la prânz."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "La El Fartuquín închide masa foarte bine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín is a solid classic pick."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La Corte de Pelayo is great for sharing."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "Tierra Astur is a perfect lunch match."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Finish with it at El Fartuquín."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naranco-Aussicht",
+            "tip": "Früher Abend, weiter Blick, wenig Lärm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque San Francisco",
+            "tip": "Schattige Bänke für eine langsame Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terrasse bei Santa María",
+            "tip": "Oben weht oft ein kühlerer Wind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naranco kilátó",
+            "tip": "Kora este a legszebb, tiszta a látvány.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco park",
+            "tip": "Árnyékos padok egy lassú szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terasza",
+            "tip": "Fent gyakran frissebb a levegő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradorul Naranco",
+            "tip": "Seara devreme, lumină bună și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul San Francisco",
+            "tip": "Bănci la umbră pentru o pauză lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasă la Santa María",
+            "tip": "Sus bate adesea un vânt mai răcoros.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Naranco viewpoint",
+            "tip": "Best in the early evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco Park",
+            "tip": "Shady benches for a slow pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terrace",
+            "tip": "Higher up, the air is often cooler.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Für Käse, Obst und essbare Mitbringsel."
+          },
+          {
+            "name": "Sidra-Flaschen",
+            "tip": "Ein paar lokale Etiketten als Geschenk mitnehmen."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Das typische Oviedo-Gebäck ist ein gutes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Sajt, gyümölcs és ehető ajándékok miatt jó hely."
+          },
+          {
+            "name": "Almaboros palackok",
+            "tip": "Vegyél pár helyi címkét ajándékba."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo jellegzetes süteménye, jó hazavinni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Bun pentru brânzeturi, fructe și suveniruri comestibile."
+          },
+          {
+            "name": "Sticle de sidră",
+            "tip": "Ia câteva etichete locale pentru cadou."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Patiseria tipică din Oviedo, bună de dus acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Good for cheese, fruit, and edible souvenirs."
+          },
+          {
+            "name": "Cider bottles",
+            "tip": "Pick a couple of local labels as gifts."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo's classic sweet makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Naranco ist der anstrengendste Teil, also vormittags gehen.",
+          "Im Zentrum reichen kurze Wege; dort kannst du spontan Pausen machen.",
+          "Wasser mitnehmen und die längste Gehstrecke nicht am Abend lassen.",
+          "Für Mittag passt die Altstadt besser als der Hügel.",
+          "Der Park ist ideal für ein langsames Finale nach dem Museum."
+        ],
+        "hu": [
+          "A Naranco a legkeményebb szakasz, ezért reggelre tedd.",
+          "A belvárosban rövidek a távok, ott jöhetnek a spontán szünetek.",
+          "Víz legyen nálad, és ne estére hagyd a leghosszabb gyaloglást.",
+          "Ebédhez jobb a belváros, mint a domb.",
+          "A park tökéletes nyugodt lezárás a múzeum után."
+        ],
+        "ro": [
+          "Naranco e partea cea mai grea, așa că fă-o dimineața.",
+          "În centru distanțele sunt scurte, bune pentru pauze spontane.",
+          "Ia apă și nu lăsa cea mai lungă plimbare pentru seară.",
+          "La prânz, centrul e mai potrivit decât colina.",
+          "Parcul e finalul bun după muzeu, în ritm lent."
+        ],
+        "en": [
+          "Naranco is the toughest part, so do it in the morning.",
+          "Downtown distances are short, so you can take spontaneous breaks.",
+          "Bring water and do not leave the longest walk for the evening.",
+          "For lunch, the center works better than the hill.",
+          "The park is the right slow ending after the museum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 5.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Escandalera",
+            "hu": "Escandalera tér",
+            "ro": "Piața Escandalera",
+            "en": "Plaza de la Escandalera"
+          },
+          "coords": [
+            43.3609,
+            -5.8488
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Früh anrollen, dann ist das Zentrum noch entspannt.",
+            "hu": "Korán gurulj ide, reggel még nyugodt a tér.",
+            "ro": "Ajungi devreme, dimineața centrul e mai calm.",
+            "en": "Roll in early; the center is still relaxed."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt El Fontán",
+            "hu": "Fontán piac",
+            "ro": "Piața Fontán",
+            "en": "Mercado del Fontán"
+          },
+          "coords": [
+            43.3626,
+            -5.8474
+          ],
+          "category": "market",
+          "arrive_at": "09:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bike kurz abschließen und den Markt ohne Eile nehmen.",
+            "hu": "A biciklit zárd le, és járd be nyugodtan a piacot.",
+            "ro": "Încuie bicicleta și ia piața fără grabă.",
+            "en": "Lock the bike and enjoy the market unhurried."
+          }
+        },
+        {
+          "name": {
+            "de": "Campoamor-Theater",
+            "hu": "Campoamor Színház",
+            "ro": "Teatrul Campoamor",
+            "en": "Campoamor Theatre"
+          },
+          "coords": [
+            43.3598,
+            -5.8509
+          ],
+          "category": "theatre",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Vorderseite wirkt im Morgenlicht besonders elegant.",
+            "hu": "A homlokzat reggeli fényben különösen elegáns.",
+            "ro": "Fațada arată foarte bine în lumina de dimineață.",
+            "en": "The facade looks especially elegant in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Maria vom Naranco",
+            "hu": "Narancói Szent Mária",
+            "ro": "Sfânta Maria del Naranco",
+            "en": "Santa María del Naranco"
+          },
+          "coords": [
+            43.3718,
+            -5.8608
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Oben ist die Luft gut, aber fahre den letzten Anstieg locker.",
+            "hu": "Fent jó a levegő, a legmeredekebb részt vedd lazán.",
+            "ro": "Sus aerul e bun, dar ia urcarea finală mai lejer.",
+            "en": "The air is great up top, but take the final climb easy."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Michael von Lillo",
+            "hu": "Lilloi Szent Mihály",
+            "ro": "San Miguel de Lillo",
+            "en": "San Miguel de Lillo"
+          },
+          "coords": [
+            43.3712,
+            -5.86
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zwischen den beiden Kirchen reicht ein kurzer, ruhiger Tritt.",
+            "hu": "A két templom között elég egy rövid, nyugodt gurulás.",
+            "ro": "Între cele două biserici e doar o pedală scurtă.",
+            "en": "Between the two churches it is just a short easy pedal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von San Salvador",
+            "hu": "Szent Megváltó-katedrális",
+            "ro": "Catedrala San Salvador",
+            "en": "Cathedral of San Salvador"
+          },
+          "coords": [
+            43.3619,
+            -5.8427
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Unten im Zentrum gibt es genug Platz zum sicheren Abstellen.",
+            "hu": "A belvárosban könnyű biztonságosan letenni a biciklit.",
+            "ro": "În centru găsești ușor loc sigur pentru bicicletă.",
+            "en": "Downtown you can usually park the bike safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            43.3613,
+            -5.844
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nach dem Hügelteil ist das Museum die richtige Ruhepause.",
+            "hu": "A domb után a múzeum jó, csendes pihenő.",
+            "ro": "După urcare, muzeul e pauza potrivită.",
+            "en": "After the hill, the museum is the right calm break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque San Francisco",
+            "hu": "San Francisco park",
+            "ro": "Parcul San Francisco",
+            "en": "San Francisco Park"
+          },
+          "coords": [
+            43.3627,
+            -5.8472
+          ],
+          "category": "park",
+          "arrive_at": "16:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hier den letzten lockeren Kilometer ausrollen lassen.",
+            "hu": "Itt gurulj rá a nap utolsó nyugis szakaszára.",
+            "ro": "Aici lasă ultimul kilometru să curgă relaxat.",
+            "en": "Let the last easy stretch roll out here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens rollst du durch Escandalera und Fontán, ideal für einen leichten Start.\nMittags wird der Weg zum Naranco sportlicher, aber die beiden Monumente lohnen sich.\nNachmittags kehrst du ins Zentrum zurück und kombinierst Kathedrale und Museum.\nAbends ist der Park die natürliche Bremse vor einem langen, ruhigen Abschluss.",
+        "hu": "Reggel az Escandalera és a Fontán ad könnyű indulást a bringának.\nDélben a Naranco már sportosabb, de a két műemlék megéri.\nDélután visszaérsz a központba, és jön a katedrális meg a múzeum.\nEstére a park adja a természetes féket egy nyugodt lezárás előtt.",
+        "ro": "Dimineața pedalezi lejer prin Escandalera și Fontán.\nLa prânz urcarea spre Naranco devine mai sportivă, dar monumentele merită.\nDupă-amiaza te întorci în centru pentru catedrală și muzeu.\nSeara, parcul e frâna firească înainte de finalul liniștit.",
+        "en": "Morning is an easy roll through Escandalera and Fontán.\nBy midday the ride to Naranco gets more athletic, but the monuments are worth it.\nIn the afternoon you return downtown for the cathedral and museum.\nAt night, the park becomes the natural brake before a calm finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín serviert eine klassische, saftige Version."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "Bei La Corte de Pelayo gut zum Teilen."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "In Tierra Astur passt sie perfekt zum Mittag."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Zum Schluss im El Fartuquín bestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "A Casa Fermín klasszikus, szaftos verziója jó kezdés."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "A La Corte de Pelayo-ban megosztva a legjobb."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "A Tierra Asturban ebéd mellé különösen jó."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Az El Fartuquín desszertje méltó lezárás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "La Casa Fermín merită încercată în versiunea clasică."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La La Corte de Pelayo e bun de împărțit."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "La Tierra Astur merge perfect la prânz."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "La El Fartuquín închide masa foarte bine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín is a solid classic pick."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La Corte de Pelayo is great for sharing."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "Tierra Astur is a perfect lunch match."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Finish with it at El Fartuquín."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naranco-Aussicht",
+            "tip": "Früher Abend, weiter Blick, wenig Lärm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque San Francisco",
+            "tip": "Schattige Bänke für eine langsame Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terrasse bei Santa María",
+            "tip": "Oben weht oft ein kühlerer Wind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naranco kilátó",
+            "tip": "Kora este a legszebb, tiszta a látvány.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco park",
+            "tip": "Árnyékos padok egy lassú szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terasza",
+            "tip": "Fent gyakran frissebb a levegő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradorul Naranco",
+            "tip": "Seara devreme, lumină bună și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul San Francisco",
+            "tip": "Bănci la umbră pentru o pauză lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasă la Santa María",
+            "tip": "Sus bate adesea un vânt mai răcoros.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Naranco viewpoint",
+            "tip": "Best in the early evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco Park",
+            "tip": "Shady benches for a slow pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terrace",
+            "tip": "Higher up, the air is often cooler.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Für Käse, Obst und essbare Mitbringsel."
+          },
+          {
+            "name": "Sidra-Flaschen",
+            "tip": "Ein paar lokale Etiketten als Geschenk mitnehmen."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Das typische Oviedo-Gebäck ist ein gutes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Sajt, gyümölcs és ehető ajándékok miatt jó hely."
+          },
+          {
+            "name": "Almaboros palackok",
+            "tip": "Vegyél pár helyi címkét ajándékba."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo jellegzetes süteménye, jó hazavinni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Bun pentru brânzeturi, fructe și suveniruri comestibile."
+          },
+          {
+            "name": "Sticle de sidră",
+            "tip": "Ia câteva etichete locale pentru cadou."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Patiseria tipică din Oviedo, bună de dus acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Good for cheese, fruit, and edible souvenirs."
+          },
+          {
+            "name": "Cider bottles",
+            "tip": "Pick a couple of local labels as gifts."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo's classic sweet makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Auf dem Rad ist der Naranco-Abschnitt der einzige echte Anstieg.",
+          "Schließe das Rad bei den Innenstadtstopps immer kurz ab.",
+          "Die beste Reihenfolge ist früh oben, spät im Park.",
+          "Für spontane Stopps ist das Zentrum sehr kompakt und angenehm.",
+          "Bei Regen wäre diese Route deutlich weniger entspannt."
+        ],
+        "hu": [
+          "Biciklivel a Naranco az единetlen komoly emelkedő.",
+          "A belvárosi megállóknál mindig zárd le röviden a biciklit.",
+          "A legjobb sorrend: reggel a hegy, este a park.",
+          "A központ kompakt, ezért könnyű spontán megállni.",
+          "Esőben ez az útvonal sokkal kevésbé kényelmes."
+        ],
+        "ro": [
+          "Cu bicicleta, Naranco e singura urcare serioasă.",
+          "La opririle din centru, încuie bicicleta de fiecare dată.",
+          "Ordinea bună: sus dimineața, parcul seara.",
+          "Centrul e compact, deci poți opri ușor pe parcurs.",
+          "Pe ploaie, traseul acesta devine mai puțin comod."
+        ],
+        "en": [
+          "On a bike, Naranco is the only serious climb.",
+          "In the center, always lock the bike for the short stops.",
+          "Best order: hill in the morning, park at the end.",
+          "The center is compact, so spontaneous pauses are easy.",
+          "In rain, this route becomes a lot less comfortable."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 6.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Escandalera",
+            "hu": "Escandalera tér",
+            "ro": "Piața Escandalera",
+            "en": "Plaza de la Escandalera"
+          },
+          "coords": [
+            43.3609,
+            -5.8488
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Einmal parken, dann alles zu Fuß im Zentrum abwickeln.",
+            "hu": "Parkolj egyszer, utána gyalog intézd a központot.",
+            "ro": "Parchează o dată și fă centrul pe jos.",
+            "en": "Park once, then handle the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt El Fontán",
+            "hu": "Fontán piac",
+            "ro": "Piața Fontán",
+            "en": "Mercado del Fontán"
+          },
+          "coords": [
+            43.3626,
+            -5.8474
+          ],
+          "category": "market",
+          "arrive_at": "09:39",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus ist der Markt der beste kurze Spaziergang.",
+            "hu": "A parkolótól ez a legjobb rövid séta.",
+            "ro": "Din parcare, piața e cea mai bună plimbare scurtă.",
+            "en": "From the car, this is the best short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Campoamor-Theater",
+            "hu": "Campoamor Színház",
+            "ro": "Teatrul Campoamor",
+            "en": "Campoamor Theatre"
+          },
+          "coords": [
+            43.3598,
+            -5.8509
+          ],
+          "category": "theatre",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die kurze Gehstrecke hält das Auto aus dem dichten Zentrum raus.",
+            "hu": "A rövid séta miatt nem kell a sűrű belvárosban autózni.",
+            "ro": "Plimbarea scurtă te ține departe de traficul din centru.",
+            "en": "The short walk keeps you out of the tight center traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Maria vom Naranco",
+            "hu": "Narancói Szent Mária",
+            "ro": "Sfânta Maria del Naranco",
+            "en": "Santa María del Naranco"
+          },
+          "coords": [
+            43.3718,
+            -5.8608
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Oben nur einmal parken; der Rest ist ein kurzer Fußweg.",
+            "hu": "Fent csak egyszer parkolj; a többi rövid séta.",
+            "ro": "Sus parchezi o dată; restul e pe jos.",
+            "en": "Park once up top; the rest is a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Michael von Lillo",
+            "hu": "Lilloi Szent Mihály",
+            "ro": "San Miguel de Lillo",
+            "en": "San Miguel de Lillo"
+          },
+          "coords": [
+            43.3712,
+            -5.86
+          ],
+          "category": "religious",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwischen den beiden Monumenten brauchst du kein zweites Auto.",
+            "hu": "A két emlékhely között nem kell újra autó.",
+            "ro": "Între cele două monumente nu mai ai nevoie de mașină.",
+            "en": "Between the two monuments you do not need the car again."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von San Salvador",
+            "hu": "Szent Megváltó-katedrális",
+            "ro": "Catedrala San Salvador",
+            "en": "Cathedral of San Salvador"
+          },
+          "coords": [
+            43.3619,
+            -5.8427
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Im Zentrum wieder parken und den Rest zu Fuß machen.",
+            "hu": "A központban ismét parkolj, utána gyalogolj.",
+            "ro": "În centru parchează din nou și mergi pe jos.",
+            "en": "Park again in the center and continue on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            43.3613,
+            -5.844
+          ],
+          "category": "museum",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt nah genug, damit das Auto den Tag nicht dominiert.",
+            "hu": "A múzeum elég közel van, hogy ne az autó diktáljon.",
+            "ro": "Muzeul e suficient de aproape încât mașina să nu domine ziua.",
+            "en": "The museum is close enough that the car does not dominate the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque San Francisco",
+            "hu": "San Francisco park",
+            "ro": "Parcul San Francisco",
+            "en": "San Francisco Park"
+          },
+          "coords": [
+            43.3627,
+            -5.8472
+          ],
+          "category": "park",
+          "arrive_at": "16:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zum Schluss lässt du das Auto stehen und gehst nur noch im Park.",
+            "hu": "A végén hagyd az autót, és már csak a parkban sétálj.",
+            "ro": "La final, lasă mașina și plimbă-te doar în parc.",
+            "en": "At the end, leave the car and just walk in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens parkst du im Zentrum und deckst Escandalera, Fontán und Campoamor in einer bequemen Schleife ab.\nSpäter fährst du zum Naranco, parkst dort einmal und gehst zu Santa María und San Miguel.\nDanach geht es zurück in die Altstadt für Kathedrale und Museum, ohne das Auto dauernd zu bewegen.\nAbends bleibt der Park als ruhiger Abschluss, bevor du entspannt aus der Innenstadt hinausrollst.",
+        "hu": "Reggel a központban parkolsz, és egy kényelmes körben bejárod az Escandalera–Fontán–Campoamor hármast.\nKésőbb felmész a Narancóra, ott egyszer parkolsz, és gyalogolva megnézed Santa Maríát és San Miguelt.\nUtána visszamész az óvárosba a katedrálisért és a múzeumért, az autót alig mozgatva.\nEstére a park marad a nyugodt zárás, mielőtt lazán kigurulsz a belvárosból.",
+        "ro": "Dimineața parchezi în centru și faci o buclă comodă cu Escandalera, Fontán și Campoamor.\nApoi urci spre Naranco, parchezi o dată și le vezi pe jos pe Santa María și San Miguel.\nDupă aceea revii în centru pentru catedrală și muzeu, fără să tot muți mașina.\nSeara, parcul rămâne finalul liniștit înainte să ieși relaxat din oraș.",
+        "en": "In the morning you park in the center and do a comfortable loop through Escandalera, Fontán, and Campoamor.\nLater you drive up to Naranco, park once, and walk to Santa María and San Miguel.\nAfter that you return downtown for the cathedral and museum without constantly moving the car.\nEvening leaves the park as the calm finish before you roll out of the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín serviert eine klassische, saftige Version."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "Bei La Corte de Pelayo gut zum Teilen."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "In Tierra Astur passt sie perfekt zum Mittag."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Zum Schluss im El Fartuquín bestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "A Casa Fermín klasszikus, szaftos verziója jó kezdés."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "A La Corte de Pelayo-ban megosztva a legjobb."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "A Tierra Asturban ebéd mellé különösen jó."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Az El Fartuquín desszertje méltó lezárás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "La Casa Fermín merită încercată în versiunea clasică."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La La Corte de Pelayo e bun de împărțit."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "La Tierra Astur merge perfect la prânz."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "La El Fartuquín închide masa foarte bine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín is a solid classic pick."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La Corte de Pelayo is great for sharing."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "Tierra Astur is a perfect lunch match."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Finish with it at El Fartuquín."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naranco-Aussicht",
+            "tip": "Früher Abend, weiter Blick, wenig Lärm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque San Francisco",
+            "tip": "Schattige Bänke für eine langsame Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terrasse bei Santa María",
+            "tip": "Oben weht oft ein kühlerer Wind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naranco kilátó",
+            "tip": "Kora este a legszebb, tiszta a látvány.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco park",
+            "tip": "Árnyékos padok egy lassú szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terasza",
+            "tip": "Fent gyakran frissebb a levegő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradorul Naranco",
+            "tip": "Seara devreme, lumină bună și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul San Francisco",
+            "tip": "Bănci la umbră pentru o pauză lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasă la Santa María",
+            "tip": "Sus bate adesea un vânt mai răcoros.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Naranco viewpoint",
+            "tip": "Best in the early evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco Park",
+            "tip": "Shady benches for a slow pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terrace",
+            "tip": "Higher up, the air is often cooler.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Für Käse, Obst und essbare Mitbringsel."
+          },
+          {
+            "name": "Sidra-Flaschen",
+            "tip": "Ein paar lokale Etiketten als Geschenk mitnehmen."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Das typische Oviedo-Gebäck ist ein gutes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Sajt, gyümölcs és ehető ajándékok miatt jó hely."
+          },
+          {
+            "name": "Almaboros palackok",
+            "tip": "Vegyél pár helyi címkét ajándékba."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo jellegzetes süteménye, jó hazavinni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Bun pentru brânzeturi, fructe și suveniruri comestibile."
+          },
+          {
+            "name": "Sticle de sidră",
+            "tip": "Ia câteva etichete locale pentru cadou."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Patiseria tipică din Oviedo, bună de dus acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Good for cheese, fruit, and edible souvenirs."
+          },
+          {
+            "name": "Cider bottles",
+            "tip": "Pick a couple of local labels as gifts."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo's classic sweet makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parke in zwei Clustern statt ständig den Standort zu wechseln.",
+          "Die Hügelstücke sind gut mit dem Auto erreichbar, zu Fuß aber schöner.",
+          "Im Zentrum lohnt sich das Parken nahe der Altstadt mehr als ein kurzer Sprint.",
+          "Für Essenspausen gibt es viele Optionen zwischen Kathedrale und Museum.",
+          "Am Abend ist der Park ein entspannter Schlusspunkt."
+        ],
+        "hu": [
+          "Érdemes két кластерben parkolni, nem állandóan helyet váltani.",
+          "A dombos részek autóval könnyűek, de gyalog szebbek.",
+          "A központban jobb közel parkolni, mint rövid utakat autózni.",
+          "Az étkezéshez jó sok lehetőség van a katedrális és a múzeum között.",
+          "Este a park nyugodt lezárás."
+        ],
+        "ro": [
+          "Parchează pe două clustere, nu schimba locul de fiecare dată.",
+          "Porțiunile pe deal sunt ușoare cu mașina, dar mai frumoase pe jos.",
+          "În centru, parcarea aproape de vechiul oraș e mai utilă decât mutările dese.",
+          "Pentru masă ai multe opțiuni între catedrală și muzeu.",
+          "Seara, parcul e finalul cel mai relaxat."
+        ],
+        "en": [
+          "Park in two clusters instead of moving the car constantly.",
+          "The hill sections are easy by car, but nicer on foot.",
+          "Downtown parking close to the old town is better than short hops.",
+          "For meals, there are plenty of options between the cathedral and museum.",
+          "At night, the park is the most relaxed ending."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Escandalera",
+            "hu": "Escandalera tér",
+            "ro": "Piața Escandalera",
+            "en": "Plaza de la Escandalera"
+          },
+          "coords": [
+            43.3609,
+            -5.8488
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starte hier, dann bleibt der Rest des Zentrums gut zu Fuß machbar.",
+            "hu": "Innen indulj, onnan a központ már gyalog is kényelmes.",
+            "ro": "Începe aici; restul centrului se face ușor pe jos.",
+            "en": "Start here and the rest of the center stays walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt El Fontán",
+            "hu": "Fontán piac",
+            "ro": "Piața Fontán",
+            "en": "Mercado del Fontán"
+          },
+          "coords": [
+            43.3626,
+            -5.8474
+          ],
+          "category": "market",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kurze Fußverbindung reicht; das Ticket bleibt ungenutzt.",
+            "hu": "Elég egy rövid séta, a jegy marad a zsebedben.",
+            "ro": "Ajunge o plimbare scurtă; biletul rămâne în buzunar.",
+            "en": "A short walk is enough; the ticket stays in your pocket."
+          }
+        },
+        {
+          "name": {
+            "de": "Campoamor-Theater",
+            "hu": "Campoamor Színház",
+            "ro": "Teatrul Campoamor",
+            "en": "Campoamor Theatre"
+          },
+          "coords": [
+            43.3598,
+            -5.8509
+          ],
+          "category": "theatre",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zwischen Markt und Theater ist der Bus hier unnötig.",
+            "hu": "Piac és színház között itt felesleges a busz.",
+            "ro": "Între piață și teatru, autobuzul nu e necesar.",
+            "en": "Between the market and the theatre, the bus is unnecessary."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilige Maria vom Naranco",
+            "hu": "Narancói Szent Mária",
+            "ro": "Sfânta Maria del Naranco",
+            "en": "Santa María del Naranco"
+          },
+          "coords": [
+            43.3718,
+            -5.8608
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist der echte Linienwechsel; oben dann nur noch wenige Schritte.",
+            "hu": "Ez az igazi vonalváltás; fent már csak pár lépés van.",
+            "ro": "Aici e schimbarea reală de zonă; sus mai ai doar câțiva pași.",
+            "en": "This is the real district change; up top it is just a few steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Michael von Lillo",
+            "hu": "Lilloi Szent Mihály",
+            "ro": "San Miguel de Lillo",
+            "en": "San Miguel de Lillo"
+          },
+          "coords": [
+            43.3712,
+            -5.86
+          ],
+          "category": "religious",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier lohnt sich die kurze Verbindung zu Fuß mehr als jedes Umsteigen.",
+            "hu": "Ide gyalog jobban megéri, mint újra közlekedni.",
+            "ro": "Aici mersul pe jos merită mai mult decât alt transfer.",
+            "en": "Here the short walk is better than any extra transfer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von San Salvador",
+            "hu": "Szent Megváltó-katedrális",
+            "ro": "Catedrala San Salvador",
+            "en": "Cathedral of San Salvador"
+          },
+          "coords": [
+            43.3619,
+            -5.8427
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück ins Zentrum geht es gut mit dem nächsten Bus oder zu Fuß.",
+            "hu": "A központba vissza könnyű a következő busszal vagy gyalog.",
+            "ro": "Înapoi în centru ajungi bine cu următorul autobuz sau pe jos.",
+            "en": "Back to the center works well by the next bus or on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            43.3613,
+            -5.844
+          ],
+          "category": "museum",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Museumsrunde liegt perfekt zwischen zwei kleinen Fußwegen.",
+            "hu": "A múzeum pont két rövid séta közé esik.",
+            "ro": "Muzeul cade perfect între două plimbări scurte.",
+            "en": "The museum sits perfectly between two short walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque San Francisco",
+            "hu": "San Francisco park",
+            "ro": "Parcul San Francisco",
+            "en": "San Francisco Park"
+          },
+          "coords": [
+            43.3627,
+            -5.8472
+          ],
+          "category": "park",
+          "arrive_at": "16:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zum Schluss reicht ein letzter kurzer Fußweg in den Park.",
+            "hu": "A végén már csak egy utolsó rövid séta kell a parkba.",
+            "ro": "La final mai ai doar o ultimă plimbare scurtă în parc.",
+            "en": "At the end, just one last short walk takes you to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erledigst du Escandalera, Fontán und Campoamor in einer kompakten ersten Zone.\nDann kommt der einzige echte Wechsel: mit Bus oder Bahn hinauf zum Naranco für Santa María und San Miguel.\nZurück im Zentrum warten Kathedrale, Museum und die ruhigen Straßen ohne Stress.\nAbends ist der Park ein sanfter Abschluss, bevor du die letzte Rückfahrt antrittst.",
+        "hu": "Reggel az Escandalera, a Fontán és a Campoamor egy kompakt első zónában elfér.\nUtána jön az egyetlen igazi váltás: busszal vagy villamossal fel a Narancóra Santa María és San Miguel miatt.\nVisszaérve a központba jön a katedrális, a múzeum és a nyugodt belvárosi séták.\nEstére a park marad a finom lezárás, mielőtt elindulsz vissza.",
+        "ro": "Dimineața faci Escandalera, Fontán și Campoamor într-o zonă compactă.\nApoi vine singura schimbare mare: cu autobuzul sau tramvaiul spre Naranco pentru Santa María și San Miguel.\nÎnapoi în centru te așteaptă catedrala, muzeul și străzile liniștite.\nSeara, parcul închide ziua înainte de întoarcere.",
+        "en": "Morning covers Escandalera, Fontán, and Campoamor in one compact zone.\nThen comes the only real shift: bus or tram up to Naranco for Santa María and San Miguel.\nBack downtown, the cathedral, museum, and quiet streets are easy and stress-free.\nEvening ends in the park before the final return."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín serviert eine klassische, saftige Version."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "Bei La Corte de Pelayo gut zum Teilen."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "In Tierra Astur passt sie perfekt zum Mittag."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Zum Schluss im El Fartuquín bestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "A Casa Fermín klasszikus, szaftos verziója jó kezdés."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "A La Corte de Pelayo-ban megosztva a legjobb."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "A Tierra Asturban ebéd mellé különösen jó."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Az El Fartuquín desszertje méltó lezárás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "La Casa Fermín merită încercată în versiunea clasică."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La La Corte de Pelayo e bun de împărțit."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "La Tierra Astur merge perfect la prânz."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "La El Fartuquín închide masa foarte bine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabada asturiana",
+            "tip": "Casa Fermín is a solid classic pick."
+          },
+          {
+            "name": "Cachopo",
+            "tip": "La Corte de Pelayo is great for sharing."
+          },
+          {
+            "name": "Sidra natural",
+            "tip": "Tierra Astur is a perfect lunch match."
+          },
+          {
+            "name": "Arroz con leche",
+            "tip": "Finish with it at El Fartuquín."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naranco-Aussicht",
+            "tip": "Früher Abend, weiter Blick, wenig Lärm.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parque San Francisco",
+            "tip": "Schattige Bänke für eine langsame Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terrasse bei Santa María",
+            "tip": "Oben weht oft ein kühlerer Wind.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naranco kilátó",
+            "tip": "Kora este a legszebb, tiszta a látvány.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco park",
+            "tip": "Árnyékos padok egy lassú szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terasza",
+            "tip": "Fent gyakran frissebb a levegő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miradorul Naranco",
+            "tip": "Seara devreme, lumină bună și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul San Francisco",
+            "tip": "Bănci la umbră pentru o pauză lungă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasă la Santa María",
+            "tip": "Sus bate adesea un vânt mai răcoros.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Naranco viewpoint",
+            "tip": "Best in the early evening light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "San Francisco Park",
+            "tip": "Shady benches for a slow pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa María terrace",
+            "tip": "Higher up, the air is often cooler.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Für Käse, Obst und essbare Mitbringsel."
+          },
+          {
+            "name": "Sidra-Flaschen",
+            "tip": "Ein paar lokale Etiketten als Geschenk mitnehmen."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Das typische Oviedo-Gebäck ist ein gutes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Sajt, gyümölcs és ehető ajándékok miatt jó hely."
+          },
+          {
+            "name": "Almaboros palackok",
+            "tip": "Vegyél pár helyi címkét ajándékba."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo jellegzetes süteménye, jó hazavinni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Bun pentru brânzeturi, fructe și suveniruri comestibile."
+          },
+          {
+            "name": "Sticle de sidră",
+            "tip": "Ia câteva etichete locale pentru cadou."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Patiseria tipică din Oviedo, bună de dus acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Fontán",
+            "tip": "Good for cheese, fruit, and edible souvenirs."
+          },
+          {
+            "name": "Cider bottles",
+            "tip": "Pick a couple of local labels as gifts."
+          },
+          {
+            "name": "Carbayones",
+            "tip": "Oviedo's classic sweet makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die einzige echte Umsteigestelle ist der Naranco-Abschnitt.",
+          "Im Zentrum sind die Wege kurz genug, um fast alles zu Fuß zu machen.",
+          "Prüfe Buszeiten zurück vom Hügel, damit der Tag nicht kippt.",
+          "Das Museum und der Park passen gut in den letzten Tagesblock.",
+          "Mit einem Ticket pro Cluster bleibt die Route entspannt."
+        ],
+        "hu": [
+          "Az egyetlen igazi átszállás a Naranco-szakasz.",
+          "A központban elég rövidek a távok, szinte minden gyalogos.",
+          "Ellenőrizd a visszabusszokat a hegyről, hogy ne csússzon szét a nap.",
+          "A múzeum és a park jól illik az utolsó blokkba.",
+          "Egy jegy/cluster bőven elég és kényelmes."
+        ],
+        "ro": [
+          "Singura schimbare reală e zona Naranco.",
+          "În centru distanțele sunt suficient de scurte pentru mers pe jos.",
+          "Verifică orarele de întoarcere de pe deal ca să nu se strice ziua.",
+          "Muzeul și parcul se potrivesc bine în ultimul bloc al zilei.",
+          "Un bilet pe cluster este de obicei suficient."
+        ],
+        "en": [
+          "The only real transfer is the Naranco segment.",
+          "In the center, the walks are short enough to cover almost everything on foot.",
+          "Check the return times from the hill so the day does not slip.",
+          "The museum and park fit well in the final block.",
+          "One ticket per cluster is usually enough."
+        ]
+      }
+    }
+  }
+}

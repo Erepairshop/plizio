@@ -1,0 +1,1328 @@
+{
+  "city_id": "bulgaria-razgrad-cities-v2",
+  "anchor": {
+    "name": "Rasgrad",
+    "coords": [
+      26.5333,
+      43.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Rasgrad",
+            "hu": "Razgradi óratorony",
+            "ro": "Turnul cu ceas din Razgrad",
+            "en": "Clock Tower of Razgrad"
+          },
+          "coords": [
+            26.5255,
+            43.526
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Ibrahim-Pascha-Moschee",
+            "hu": "Ibrahim pasa mecset",
+            "ro": "Moscheea Ibrahim Pașa",
+            "en": "Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            26.5248,
+            43.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:49",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.527,
+            43.5275
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Ilija Petrow",
+            "hu": "Ilija Petrov Képtár",
+            "ro": "Galeria de Artă Iliya Petrov",
+            "en": "Art Gallery Iliya Petrov"
+          },
+          "coords": [
+            26.528,
+            43.528
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Abritus",
+            "hu": "Abritus Régészeti Rezervátum",
+            "ro": "Rezervația arheologică Abritus",
+            "en": "Archaeological Reserve Abritus"
+          },
+          "coords": [
+            26.545,
+            43.52
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Kirche St. Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            26.529,
+            43.525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:11",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Rasgrad beginnt im historischen Herzen mit dem Uhrturm und der beeindruckenden Ibrahim-Pascha-Moschee. Am Vormittag tauchen Sie im Historischen Museum und der Kunstgalerie in die reiche Kultur der Region ein. Nach einem Spaziergang zum weitläufigen Archäologischen Reservat Abritus verbringen Sie den Nachmittag damit, die antiken römischen Ruinen zu erkunden. Der Abend klingt bei einem Besuch der orthodoxen St.-Nikolaus-Kirche aus, bevor Sie die lokale Küche genießen.",
+        "hu": "A nap Razgrad történelmi szívében kezdődik az óratoronynál és a lenyűgöző Ibrahim pasa mecsetnél. Délelőtt a Történeti Múzeumban és a Képtárban merül el a régió gazdag kultúrájában. Egy séta után a tágas Abritus Régészeti Rezervátumhoz, a délutánt az ókori római romok felfedezésével tölti. Az estét a Szent Miklós ortodox templom meglátogatásával zárja, mielőtt megkóstolná a helyi konyhát.",
+        "ro": "Ziua dvs. în Razgrad începe în inima istorică cu Turnul cu Ceas și impresionanta Moschee Ibrahim Pașa. Dimineața vă scufundați în cultura bogată a regiunii la Muzeul de Istorie și Galeria de Artă. După o plimbare spre vasta Rezervație Arheologică Abritus, petreceți după-amiaza explorând ruinele romane antice. Seara se încheie cu o vizită la Biserica Ortodoxă Sfântul Nicolae înainte de a savura bucătăria locală.",
+        "en": "Your day in Razgrad begins in the historic heart with the Clock Tower and the impressive Ibrahim Pasha Mosque. In the morning, you'll delve into the region's rich culture at the Historical Museum and Art Gallery. After a walk to the expansive Abritus Archaeological Reserve, you'll spend the afternoon exploring the ancient Roman ruins. The evening concludes with a visit to the St. Nicholas Orthodox Church before you enjoy the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kapanska Baniza",
+            "tip": "Ein lokaler Blätterteig, oft mit Käse gefüllt, perfekt für ein schnelles Frühstück."
+          },
+          {
+            "name": "Restaurant Leventa",
+            "tip": "Bietet traditionelle bulgarische Gerichte in einem authentischen Ambiente."
+          },
+          {
+            "name": "Shkembe Chorba (Kuttelsuppe)",
+            "tip": "Eine traditionelle Suppe, die als Katermittel gilt. Ein Muss für abenteuerlustige Esser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kapanska banica",
+            "tip": "Helyi leveles tészta, gyakran sajttal töltve, tökéletes egy gyors reggelihez."
+          },
+          {
+            "name": "Leventa Étterem",
+            "tip": "Hagyományos bolgár ételeket kínál autentikus környezetben."
+          },
+          {
+            "name": "Shkembe Chorba (pacalleves)",
+            "tip": "Hagyományos leves, amelyet másnaposság elleni gyógymódnak tartanak. Kalandvágyóknak kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kapanska Banitsa",
+            "tip": "O plăcintă locală din foietaj, adesea umplută cu brânză, perfectă pentru un mic dejun rapid."
+          },
+          {
+            "name": "Restaurant Leventa",
+            "tip": "Oferă mâncăruri tradiționale bulgare într-o atmosferă autentică."
+          },
+          {
+            "name": "Shkembe Chorba (Ciorbă de burtă)",
+            "tip": "O ciorbă tradițională considerată un leac pentru mahmureală. O necesitate pentru mâncăcioșii aventuroși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kapanska Banitsa",
+            "tip": "A local puff pastry, often filled with cheese, perfect for a quick breakfast."
+          },
+          {
+            "name": "Leventa Restaurant",
+            "tip": "Offers traditional Bulgarian dishes in an authentic atmosphere."
+          },
+          {
+            "name": "Shkembe Chorba (Tripe Soup)",
+            "tip": "A traditional soup considered a hangover cure. a must-try for adventurous eaters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pchelina-Waldpark",
+            "tip": "Ein ruhiger Ort für einen Spaziergang abseits des Stadtzentrums.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die Gärten um Abritus",
+            "tip": "Die ruhige Umgebung der antiken Ruinen lädt zum Nachdenken ein.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Am Ufer des Beli Lom Flusses",
+            "tip": "Finden Sie eine friedliche Bank und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pchelina erdőpark",
+            "tip": "Csendes hely egy sétára a városközponttól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Az Abritus körüli kertek",
+            "tip": "Az ókori romok csendes környezete elmélkedésre hív.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "A Beli Lom folyó partján",
+            "tip": "Keressen egy békés padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure Pchelina",
+            "tip": "Un loc liniștit pentru o plimbare departe de centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădinile din jurul Abritus",
+            "tip": "Împrejurimile liniștite ale ruinelor antice invită la contemplare.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Pe malul râului Beli Lom",
+            "tip": "Găsiți o bancă pașnică și ascultați susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pchelina Forest Park",
+            "tip": "A quiet place for a walk away from the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The gardens around Abritus",
+            "tip": "The quiet surroundings of the ancient ruins are perfect for contemplation.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "By the Beli Lom River",
+            "tip": "Find a peaceful bench and listen to the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt von Rasgrad",
+            "tip": "Kaufen Sie frische lokale Produkte und handgefertigte Waren."
+          },
+          {
+            "name": "Souvenirladen im Abritus-Reservat",
+            "tip": "Finden Sie Nachbildungen römischer Artefakte und thematische Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Razgradi központi piac",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékbolt az Abritus Rezervátumban",
+            "tip": "Találjon római kori tárgyak másolatait és tematikus ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală din Razgrad",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazinul de suveniruri de la Rezervația Abritus",
+            "tip": "Găsiți replici ale artefactelor romane și cadouri tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Razgrad Central Market",
+            "tip": "Shop for fresh local produce and handcrafted goods."
+          },
+          {
+            "name": "Souvenir shop at Abritus Reserve",
+            "tip": "Find replicas of Roman artifacts and themed gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum liegen nahe beieinander.",
+          "Nehmen Sie sich für das Abritus-Reservat genügend Zeit, es ist größer als es scheint.",
+          "Prüfen Sie die Öffnungszeiten der Museen, besonders außerhalb der Saison."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A legtöbb belvárosi látnivaló közel van egymáshoz.",
+          "Szánjon elég időt az Abritus Rezervátumra, nagyobb, mint amilyennek látszik.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, különösen szezonon kívül."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centrul orașului sunt apropiate una de cealaltă.",
+          "Alocați suficient timp pentru Rezervația Abritus, este mai mare decât pare.",
+          "Verificați programul de funcționare al muzeelor, în special în afara sezonului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most sights in the city center are close to each other.",
+          "Allow plenty of time for the Abritus Reserve, it's larger than it looks.",
+          "Check the opening hours of the museums, especially outside of the main season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Rasgrad",
+            "hu": "Razgradi óratorony",
+            "ro": "Turnul cu ceas din Razgrad",
+            "en": "Clock Tower of Razgrad"
+          },
+          "coords": [
+            26.5255,
+            43.526
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Ibrahim-Pascha-Moschee",
+            "hu": "Ibrahim pasa mecset",
+            "ro": "Moscheea Ibrahim Pașa",
+            "en": "Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            26.5248,
+            43.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.527,
+            43.5275
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Abritus",
+            "hu": "Abritus Régészeti Rezervátum",
+            "ro": "Rezervația arheologică Abritus",
+            "en": "Archaeological Reserve Abritus"
+          },
+          "coords": [
+            26.545,
+            43.52
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Interaktives Museum Abritus",
+            "hu": "Abritus Interaktív Múzeum",
+            "ro": "Muzeul Interactiv Abritus",
+            "en": "Interactive Museum Abritus"
+          },
+          "coords": [
+            26.546,
+            43.521
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Pchelina-Waldpark",
+            "hu": "Pchelina erdőpark",
+            "ro": "Parcul Pădure Pchelina",
+            "en": "Pchelina Forest Park"
+          },
+          "coords": [
+            26.51,
+            43.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Ilija Petrow",
+            "hu": "Ilija Petrov Képtár",
+            "ro": "Galeria de Artă Iliya Petrov",
+            "en": "Art Gallery Iliya Petrov"
+          },
+          "coords": [
+            26.528,
+            43.528
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Uhrturm, dem Wahrzeichen von Rasgrad. Eine kurze Fahrt führt Sie zur Moschee und dem Historischen Museum. Am Vormittag radeln Sie zum Highlight des Tages, dem Archäologischen Reservat Abritus und seinem modernen interaktiven Museum, wo Sie in die römische Vergangenheit eintauchen. Am Nachmittag suchen Sie Erholung im Pchelina-Waldpark, ein idealer Ort für eine Pause im Grünen. Der Tag endet mit einem kulturellen Abschluss in der Kunstgalerie Ilija Petrow im Stadtzentrum.",
+        "hu": "Kezdje a kerékpártúrát a razgradi óratoronynál, a város jelképénél. Egy rövid tekerés elvezeti a mecsethez és a Történeti Múzeumhoz. Délelőtt a nap fénypontjához, az Abritus Régészeti Rezervátumhoz és modern interaktív múzeumához biciklizik, ahol elmerülhet a római múltban. Délután a Pchelina erdőparkban keres felüdülést, amely ideális hely egy zöld pihenőre. A nap a belvárosi Ilija Petrov Képtárban kulturális programmal zárul.",
+        "ro": "Începeți turul pe bicicletă la Turnul cu Ceas, simbolul orașului Razgrad. O scurtă plimbare vă duce la moschee și la Muzeul de Istorie. Dimineața, pedalați spre punctul culminant al zilei, Rezervația Arheologică Abritus și muzeul său interactiv modern, unde vă veți cufunda în trecutul roman. După-amiaza, căutați relaxare în Parcul Pădure Pchelina, un loc ideal pentru o pauză în natură. Ziua se încheie cu o notă culturală la Galeria de Artă Iliya Petrov din centrul orașului.",
+        "en": "Start your bike tour at the Clock Tower, Razgrad's landmark. A short ride takes you to the mosque and the Historical Museum. In the morning, you'll cycle to the day's highlight, the Abritus Archaeological Reserve and its modern interactive museum, where you'll immerse yourself in the Roman past. In the afternoon, seek relaxation in the Pchelina Forest Park, an ideal place for a green break. The day ends with a cultural finish at the Iliya Petrov Art Gallery in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, sehr erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Mehana 'Pri Moni'",
+            "tip": "Ein traditionelles Gasthaus, das für seine Grillgerichte bekannt ist."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Probieren Sie einen Wein aus der Donauebene, um Ihren Tag abzurunden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborka-joghurt leves, nagyon frissítő egy kerékpártúra után."
+          },
+          {
+            "name": "„Pri Moni” Mehana",
+            "tip": "Hagyományos fogadó, amely grillételeiről ismert."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kóstoljon meg egy bort a Duna-síkságról, hogy lezárja a napot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, foarte răcoritoare după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Mehana 'Pri Moni'",
+            "tip": "Un han tradițional renumit pentru preparatele sale la grătar."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Încercați un vin din Câmpia Dunării pentru a vă încheia ziua."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, very refreshing after a bike ride."
+          },
+          {
+            "name": "Mehana 'Pri Moni'",
+            "tip": "A traditional tavern known for its grilled dishes."
+          },
+          {
+            "name": "Local wines",
+            "tip": "Try a wine from the Danube Plain to round off your day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pchelina-Waldpark",
+            "tip": "Weitläufige Wege, ideal, um dem Stadtverkehr zu entkommen.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Ruhezonen in Abritus",
+            "tip": "Finden Sie einen ruhigen Platz zwischen den Ruinen, um die Geschichte auf sich wirken zu lassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang über der Stadt",
+            "tip": "Finden Sie einen erhöhten Punkt am Stadtrand für eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pchelina erdőpark",
+            "tip": "Tágas ösvények, ideális a városi forgalom elől való meneküléshez.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Csendes zónák Abritusban",
+            "tip": "Keressen egy csendes helyet a romok között, hogy magába szívja a történelmet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a város felett",
+            "tip": "Keressen egy magaslati pontot a város szélén a nagyszerű kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure Pchelina",
+            "tip": "Poteci largi, ideale pentru a scăpa de traficul orașului.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Zone liniștite în Abritus",
+            "tip": "Găsiți un loc liniștit printre ruine pentru a absorbi istoria.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare peste oraș",
+            "tip": "Găsiți un punct înalt la marginea orașului pentru o priveliște minunată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pchelina Forest Park",
+            "tip": "Spacious paths, ideal for escaping the city traffic.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Quiet zones in Abritus",
+            "tip": "Find a quiet spot among the ruins to absorb the history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset over the city",
+            "tip": "Find an elevated spot on the outskirts of the city for a great view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte in Rasgrad",
+            "tip": "Für Ersatzteile oder Zubehör, falls Sie etwas benötigen."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Perfekt, um energiereiche Snacks wie Nüsse und Trockenfrüchte zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok Razgradban",
+            "tip": "Alkatrészekhez vagy kiegészítőkhöz, ha szüksége van valamire."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Tökéletes energiadús harapnivalók, például diófélék és aszalt gyümölcsök vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete din Razgrad",
+            "tip": "Pentru piese de schimb sau accesorii, în caz că aveți nevoie."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Perfecte pentru a cumpăra gustări energizante precum nuci și fructe uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops in Razgrad",
+            "tip": "For spare parts or accessories in case you need anything."
+          },
+          {
+            "name": "Local markets",
+            "tip": "Perfect for buying energy-boosting snacks like nuts and dried fruits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rasgrad ist relativ flach, aber einige Steigungen führen aus der Stadt hinaus.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten.",
+          "Nehmen Sie eine Wasserflasche und Snacks für die längeren Strecken mit.",
+          "Einige Wege im Pchelina-Park sind unbefestigt, seien Sie also vorbereitet."
+        ],
+        "hu": [
+          "Razgrad viszonylag sík, de néhány emelkedő kivezet a városból.",
+          "Mindig zárja le jól a kerékpárját, különösen forgalmas helyeken.",
+          "Vigyen magával vizes palackot és harapnivalókat a hosszabb szakaszokra.",
+          "Néhány ösvény a Pchelina parkban burkolatlan, ezért legyen felkészült."
+        ],
+        "ro": [
+          "Razgrad este relativ plat, dar există câteva pante la ieșirea din oraș.",
+          "Legați-vă întotdeauna bine bicicleta, mai ales în locurile aglomerate.",
+          "Luați o sticlă de apă și gustări pentru traseele mai lungi.",
+          "Unele poteci din Parcul Pchelina nu sunt asfaltate, așa că fiți pregătiți."
+        ],
+        "en": [
+          "Razgrad is relatively flat, but there are some inclines leading out of the city.",
+          "Always lock your bike securely, especially in busy places.",
+          "Bring a water bottle and snacks for the longer stretches.",
+          "Some paths in Pchelina Park are unpaved, so be prepared."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Reservat Abritus",
+            "hu": "Abritus Régészeti Rezervátum",
+            "ro": "Rezervația arheologică Abritus",
+            "en": "Archaeological Reserve Abritus"
+          },
+          "coords": [
+            26.545,
+            43.52
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Interaktives Museum Abritus",
+            "hu": "Abritus Interaktív Múzeum",
+            "ro": "Muzeul Interactiv Abritus",
+            "en": "Interactive Museum Abritus"
+          },
+          "coords": [
+            26.546,
+            43.521
+          ],
+          "category": "museums",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Pchelina-Waldpark",
+            "hu": "Pchelina erdőpark",
+            "ro": "Parcul Pădure Pchelina",
+            "en": "Pchelina Forest Park"
+          },
+          "coords": [
+            26.51,
+            43.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:16",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Rasgrad",
+            "hu": "Razgradi óratorony",
+            "ro": "Turnul cu ceas din Razgrad",
+            "en": "Clock Tower of Razgrad"
+          },
+          "coords": [
+            26.5255,
+            43.526
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:01",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7
+        },
+        {
+          "name": {
+            "de": "Ibrahim-Pascha-Moschee",
+            "hu": "Ibrahim pasa mecset",
+            "ro": "Moscheea Ibrahim Pașa",
+            "en": "Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            26.5248,
+            43.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.527,
+            43.5275
+          ],
+          "category": "museums",
+          "arrive_at": "15:13",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Ilija Petrow",
+            "hu": "Ilija Petrov Képtár",
+            "ro": "Galeria de Artă Iliya Petrov",
+            "en": "Art Gallery Iliya Petrov"
+          },
+          "coords": [
+            26.528,
+            43.528
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Archäologischen Reservat Abritus, wo Sie den Vormittag verbringen. Parken Sie hier und erkunden Sie die Ruinen und das nahegelegene Interaktive Museum zu Fuß. Zur Mittagszeit fahren Sie in den Pchelina-Waldpark für eine entspannte Pause in der Natur. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto und erkunden Sie den historischen Kern – den Uhrturm, die Moschee, das Historische Museum und die Kunstgalerie – bequem zu Fuß.",
+        "hu": "Autós napja az Abritus Régészeti Rezervátumban kezdődik, ahol a délelőttöt tölti. Parkoljon le itt, és fedezze fel gyalog a romokat és a közeli Interaktív Múzeumot. Délben autózzon el a Pchelina erdőparkba egy pihentető szünetre a természetben. Délután irány a városközpont. Parkolja le az autóját, és fedezze fel gyalog a történelmi magot – az Óratornyot, a mecsetet, a Történeti Múzeumot és a Képtárat.",
+        "ro": "Ziua cu mașina începe la Rezervația Arheologică Abritus, unde vă petreceți dimineața. Parcați aici și explorați ruinele și Muzeul Interactiv din apropiere pe jos. La prânz, conduceți spre Parcul Pădure Pchelina pentru o pauză relaxantă în natură. După-amiaza, mergeți în centrul orașului. Parcați mașina și explorați nucleul istoric – Turnul cu Ceas, moscheea, Muzeul de Istorie și Galeria de Artă – confortabil pe jos.",
+        "en": "Your day by car begins at the Abritus Archaeological Reserve, where you'll spend the morning. Park here and explore the ruins and the nearby Interactive Museum on foot. At noon, drive to the Pchelina Forest Park for a relaxing break in nature. In the afternoon, head to the city center. Park your car and explore the historic core – the Clock Tower, the mosque, the Historical Museum, and the Art Gallery – comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Bulgarien ist berühmt für sein gegrilltes Fleisch. Suchen Sie nach einem Restaurant mit einem guten Holzkohlegrill."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Der klassische bulgarische Salat, perfekt als Beilage oder leichte Mahlzeit."
+          },
+          {
+            "name": "Restaurant 'Razgrad'",
+            "tip": "Befindet sich im Stadtzentrum und ist eine gute Wahl für ein traditionelles Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hús (Skara)",
+            "tip": "Bulgária híres a grillezett húsairól. Keressen egy jó faszén grillel rendelkező éttermet."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "A klasszikus bolgár saláta, tökéletes köretként vagy könnyű ételként."
+          },
+          {
+            "name": "„Razgrad” Étterem",
+            "tip": "A városközpontban található, jó választás egy hagyományos ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Bulgaria este renumită pentru carnea la grătar. Căutați un restaurant cu un grătar bun pe cărbuni."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "Salata bulgărească clasică, perfectă ca garnitură sau masă ușoară."
+          },
+          {
+            "name": "Restaurant 'Razgrad'",
+            "tip": "Situat în centrul orașului, este o alegere bună pentru un prânz tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled meat (Skara)",
+            "tip": "Bulgaria is famous for its grilled meats. Look for a restaurant with a good charcoal grill."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "The classic Bulgarian salad, perfect as a side dish or a light meal."
+          },
+          {
+            "name": "Restaurant 'Razgrad'",
+            "tip": "Located in the city center, a good choice for a traditional lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pchelina-Waldpark",
+            "tip": "Leicht mit dem Auto erreichbar und bietet viele ruhige Ecken.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Peristyl im Abritus",
+            "tip": "Ein rekonstruierter römischer Innenhof, der zum Verweilen einlädt.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Aussichtspunkte außerhalb der Stadt",
+            "tip": "Fahren Sie ein kurzes Stück auf die umliegenden Hügel für einen Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pchelina erdőpark",
+            "tip": "Könnyen megközelíthető autóval, és számos csendes zugot kínál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Perisztilium Abritusban",
+            "tip": "Egy rekonstruált római belső udvar, amely pihenésre csábít.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Kilátópontok a városon kívül",
+            "tip": "Vezessen egy rövid távot a környező dombokra a panorámás kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure Pchelina",
+            "tip": "Ușor accesibil cu mașina și oferă multe colțuri liniștite.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Peristilul din Abritus",
+            "tip": "O curte interioară romană reconstruită, care invită la zăbovire.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Puncte de belvedere în afara orașului",
+            "tip": "Conduceți o distanță scurtă pe dealurile din jur pentru o vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pchelina Forest Park",
+            "tip": "Easily accessible by car and offers many quiet corners.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Peristyle at Abritus",
+            "tip": "A reconstructed Roman courtyard that invites you to linger.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Viewpoints outside the city",
+            "tip": "Drive a short distance to the surrounding hills for a panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Halten Sie Ausschau nach handgemachter Keramik, einem beliebten bulgarischen Handwerk."
+          },
+          {
+            "name": "Honig und Kräuter",
+            "tip": "An den Straßenrändern außerhalb der Stadt finden Sie oft Verkäufer von lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel készített kerámiákat, egy népszerű bolgár kézműves terméket."
+          },
+          {
+            "name": "Méz és gyógynövények",
+            "tip": "A városon kívüli utak mentén gyakran talál helyi termékeket árusítókat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual, un meșteșug popular bulgăresc."
+          },
+          {
+            "name": "Miere și ierburi",
+            "tip": "Pe marginile drumurilor din afara orașului veți găsi adesea vânzători de produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pottery",
+            "tip": "Look for handmade ceramics, a popular Bulgarian craft."
+          },
+          {
+            "name": "Honey and herbs",
+            "tip": "You can often find sellers of local products on the roadsides outside the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Straßen in und um Rasgrad sind im Allgemeinen in gutem Zustand.",
+          "Kombinieren Sie Ihren Besuch mit einem Ausflug in die umliegende ländliche Gegend.",
+          "Ein GPS ist hilfreich, um die Sehenswürdigkeiten außerhalb des Zentrums zu finden."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehézkes lehet. Keressen kijelölt parkolóhelyeket.",
+          "Az utak Razgradban és környékén általában jó állapotban vannak.",
+          "Kombinálja a látogatást egy kirándulással a környező vidéki területekre.",
+          "GPS hasznos a központon kívüli látnivalók megtalálásához."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă. Căutați parcări amenajate.",
+          "Drumurile din Razgrad și din împrejurimi sunt în general în stare bună.",
+          "Combinați vizita cu o excursie în zona rurală înconjurătoare.",
+          "Un GPS este util pentru a găsi atracțiile din afara centrului."
+        ],
+        "en": [
+          "Parking in the city center can be difficult. Look for designated parking areas.",
+          "The roads in and around Razgrad are generally in good condition.",
+          "Combine your visit with a trip to the surrounding rural area.",
+          "A GPS is helpful for finding the sights outside the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm von Rasgrad",
+            "hu": "Razgradi óratorony",
+            "ro": "Turnul cu ceas din Razgrad",
+            "en": "Clock Tower of Razgrad"
+          },
+          "coords": [
+            26.5255,
+            43.526
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Ibrahim-Pascha-Moschee",
+            "hu": "Ibrahim pasa mecset",
+            "ro": "Moscheea Ibrahim Pașa",
+            "en": "Ibrahim Pasha Mosque"
+          },
+          "coords": [
+            26.5248,
+            43.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            26.527,
+            43.5275
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Archäologisches Reservat Abritus",
+            "hu": "Abritus Régészeti Rezervátum",
+            "ro": "Rezervația arheologică Abritus",
+            "en": "Archaeological Reserve Abritus"
+          },
+          "coords": [
+            26.545,
+            43.52
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8
+        },
+        {
+          "name": {
+            "de": "Interaktives Museum Abritus",
+            "hu": "Abritus Interaktív Múzeum",
+            "ro": "Muzeul Interactiv Abritus",
+            "en": "Interactive Museum Abritus"
+          },
+          "coords": [
+            26.546,
+            43.521
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Pchelina-Waldpark",
+            "hu": "Pchelina erdőpark",
+            "ro": "Parcul Pădure Pchelina",
+            "en": "Pchelina Forest Park"
+          },
+          "coords": [
+            26.51,
+            43.5
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Rasgrad, das Sie mit dem Bus erreichen. Erkunden Sie den ersten Cluster von Sehenswürdigkeiten – Uhrturm, Moschee und Historisches Museum – zu Fuß. Am späten Vormittag nehmen Sie einen Bus zum zweiten Cluster, dem Archäologischen Reservat Abritus. Verbringen Sie hier Zeit mit der Erkundung der Ruinen und des interaktiven Museums. Am Nachmittag bringt Sie eine weitere Busfahrt zum Pchelina-Waldpark, wo Sie den Tag in einer entspannten, grünen Umgebung ausklingen lassen.",
+        "hu": "Kezdje a napot Razgrad központjában, ahová busszal juthat el. Fedezze fel gyalog az első látnivalócsoportot – az Óratornyot, a mecsetet és a Történeti Múzeumot. Késő délelőtt szálljon buszra a második csoporthoz, az Abritus Régészeti Rezervátumhoz. Töltsön itt időt a romok és az interaktív múzeum felfedezésével. Délután egy újabb buszozás elviszi a Pchelina erdőparkba, ahol egy pihentető, zöld környezetben zárhatja a napot.",
+        "ro": "Începeți ziua în centrul orașului Razgrad, accesibil cu autobuzul. Explorați pe jos primul grup de atracții – Turnul cu Ceas, moscheea și Muzeul de Istorie. Spre sfârșitul dimineții, luați un autobuz către al doilea grup, Rezervația Arheologică Abritus. Petreceți timp aici explorând ruinele și muzeul interactiv. După-amiaza, o altă călătorie cu autobuzul vă va duce la Parcul Pădure Pchelina, unde puteți încheia ziua într-un cadru verde și relaxant.",
+        "en": "Start your day in the center of Razgrad, accessible by bus. Explore the first cluster of sights – the Clock Tower, the mosque, and the Historical Museum – on foot. In the late morning, take a bus to the second cluster, the Abritus Archaeological Reserve. Spend time here exploring the ruins and the interactive museum. In the afternoon, another bus ride will take you to Pchelina Forest Park, where you can end the day in a relaxing green setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baniza-Kiosk",
+            "tip": "Perfekt für einen schnellen und günstigen Snack zwischen den Busfahrten."
+          },
+          {
+            "name": "Kebapche/Kyufte",
+            "tip": "Gegrillte Hackfleischröllchen oder -frikadellen, ein beliebter Straßensnack."
+          },
+          {
+            "name": "Cafés im Zentrum",
+            "tip": "Machen Sie eine Pause bei einem Kaffee, bevor Sie den nächsten Bus nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica kioszk",
+            "tip": "Tökéletes egy gyors és olcsó harapnivalóhoz a buszutak között."
+          },
+          {
+            "name": "Kebapche/Kyufte",
+            "tip": "Grillezett darált hús tekercsek vagy fasírtok, népszerű utcai étel."
+          },
+          {
+            "name": "Kávézók a központban",
+            "tip": "Tartson egy kávészünetet, mielőtt a következő buszra szállna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de Banitsa",
+            "tip": "Perfect pentru o gustare rapidă și ieftină între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Kebapche/Kyufte",
+            "tip": "Rulouri sau chiftele de carne tocată la grătar, o mâncare stradală populară."
+          },
+          {
+            "name": "Cafenele în centru",
+            "tip": "Luați o pauză de cafea înainte de a lua următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa kiosk",
+            "tip": "Perfect for a quick and cheap snack between bus rides."
+          },
+          {
+            "name": "Kebapche/Kyufte",
+            "tip": "Grilled minced meat rolls or patties, a popular street food."
+          },
+          {
+            "name": "Cafes in the center",
+            "tip": "Take a coffee break before catching the next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pchelina-Waldpark",
+            "tip": "Ein großartiger Ort, um nach einer Busfahrt die Beine zu vertreten und die Ruhe zu genießen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die hinteren Bereiche von Abritus",
+            "tip": "Entfernen Sie sich von den Hauptattraktionen für mehr Frieden und Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche St. Nikolaus",
+            "tip": "Ein ruhiger, spiritueller Ort im geschäftigen Stadtzentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pchelina erdőpark",
+            "tip": "Nagyszerű hely a lábak kinyújtóztatására és a csend élvezetére egy buszút után.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Abritus hátsó területei",
+            "tip": "Távolodjon el a fő látnivalóktól a több béke és csend érdekében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Miklós-templom",
+            "tip": "Csendes, spirituális hely a nyüzsgő városközpontban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Pădure Pchelina",
+            "tip": "Un loc minunat pentru a vă dezmorți picioarele și a vă bucura de liniște după o călătorie cu autobuzul.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Zonele din spatele Abritus",
+            "tip": "Îndepărtați-vă de atracțiile principale pentru mai multă pace și liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sfântul Nicolae",
+            "tip": "Un loc liniștit, spiritual, în centrul aglomerat al orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pchelina Forest Park",
+            "tip": "A great place to stretch your legs and enjoy the quiet after a bus ride.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The back areas of Abritus",
+            "tip": "Move away from the main attractions for more peace and quiet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of St. Nicholas",
+            "tip": "A quiet, spiritual place in the busy city center.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Fußgängerzone",
+            "tip": "Stöbern Sie in den Läden im Zentrum, während Sie auf Ihren nächsten Bus warten."
+          },
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Zeitungen, Getränke oder kleine Snacks für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a sétálóutcán",
+            "tip": "Böngésszen a központi üzletekben, amíg a következő buszra vár."
+          },
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon újságot, italokat vagy apró harapnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine pe strada pietonală",
+            "tip": "Răsfoiți magazinele din centru în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Cumpărați ziare, băuturi sau gustări mici pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on the pedestrian street",
+            "tip": "Browse the shops in the center while waiting for your next bus."
+          },
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy newspapers, drinks or small snacks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Buslinien und Fahrpläne.",
+          "Kaufen Sie Tickets am Kiosk oder direkt beim Fahrer (halten Sie Kleingeld bereit).",
+          "Beachten Sie, dass die Busfrequenzen abends und am Wochenende geringer sein können.",
+          "Planen Sie zusätzliche Zeit für Wartezeiten an den Haltestellen ein."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszjáratokról és a menetrendekről.",
+          "Vásároljon jegyet a kioszkban vagy közvetlenül a sofőrnél (tartson aprópénzt).",
+          "Vegye figyelembe, hogy a buszjáratok sűrűsége este és hétvégén ritkább lehet.",
+          "Tervezzen plusz időt a megállókban való várakozásra."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre liniile de autobuz și orare.",
+          "Cumpărați bilete de la chioșc sau direct de la șofer (aveți la îndemână mărunțiș).",
+          "Rețineți că frecvența autobuzelor poate fi mai redusă seara și în weekend.",
+          "Planificați timp suplimentar pentru așteptare în stații."
+        ],
+        "en": [
+          "Find out about bus routes and schedules in advance.",
+          "Buy tickets at a kiosk or directly from the driver (have small change ready).",
+          "Be aware that bus frequencies may be lower in the evenings and on weekends.",
+          "Plan for extra time for waiting at the stops."
+        ]
+      }
+    }
+  }
+}

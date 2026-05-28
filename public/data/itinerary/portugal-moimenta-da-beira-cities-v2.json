@@ -1,0 +1,1478 @@
+{
+  "city_id": "portugal-moimenta-da-beira-cities-v2",
+  "anchor": {
+    "name": "Moimenta da Beira",
+    "coords": [
+      -7.6167,
+      40.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho von Moimenta",
+            "hu": "Moimenta büntetőoszlopa",
+            "ro": "Pelourinho din Moimenta",
+            "en": "Pillory of Moimenta"
+          },
+          "coords": [
+            -7.6165,
+            40.9668
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt, ideal für erste Fotos.",
+            "hu": "A város szívében található, ideális kiindulópont a fotózáshoz.",
+            "ro": "Punct de plecare în inima orașului, ideal pentru primele fotografii.",
+            "en": "Starting point in the heart of the town, perfect for initial photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Moimenta da Beira",
+            "hu": "Moimenta da Beira főtemploma",
+            "ro": "Biserica Matrice din Moimenta da Beira",
+            "en": "Mother Church of Moimenta da Beira"
+          },
+          "coords": [
+            -7.617,
+            40.9672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Details im Inneren.",
+            "hu": "Figyelje meg a belső tér barokk részleteit!",
+            "ro": "Observați detaliile baroce din interior.",
+            "en": "Pay attention to the baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Egyházi Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -7.6173,
+            40.9675
+          ],
+          "category": "museums",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum ist klein, aber reich an regionalen Schätzen.",
+            "hu": "A múzeum kicsi, de gazdag helyi kincsekben.",
+            "ro": "Muzeul este mic, dar bogat în comori regionale.",
+            "en": "The museum is small but rich in regional treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Guedes",
+            "hu": "Guedes-kúria",
+            "ro": "Solar dos Guedes",
+            "en": "Solar dos Guedes"
+          },
+          "coords": [
+            -7.6159,
+            40.968
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Herrenhausarchitektur der Region.",
+            "hu": "A régió nemesi építészetének gyönyörű példája.",
+            "ro": "Un exemplu frumos de arhitectură nobiliară din regiune.",
+            "en": "A beautiful example of the region's manor house architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Unserer Lieben Frau von der Reinigung",
+            "hu": "Tisztulás Miasszonyunk kolostor",
+            "ro": "Mănăstirea Doamnei Noastre a Purificării",
+            "en": "Convent of Our Lady of Purification"
+          },
+          "coords": [
+            -7.6148,
+            40.969
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses historischen Ortes.",
+            "hu": "Élvezze a történelmi hely csendes légkörét.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui loc istoric.",
+            "en": "Enjoy the peaceful atmosphere of this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquilino Ribeiro Stiftung",
+            "hu": "Aquilino Ribeiro Alapítvány",
+            "ro": "Fundația Aquilino Ribeiro",
+            "en": "Aquilino Ribeiro Foundation"
+          },
+          "coords": [
+            -7.625,
+            40.971
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturliebhaber, dem berühmten portugiesischen Schriftsteller gewidmet.",
+            "hu": "Irodalomkedvelőknek kötelező, a híres portugál írónak szentelték.",
+            "ro": "O vizită obligatorie pentru iubitorii de literatură, dedicată celebrului scriitor portughez.",
+            "en": "A must-visit for literature lovers, dedicated to the famous Portuguese writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt São Torcato",
+            "hu": "São Torcato kilátó",
+            "ro": "Punct de vedere São Torcato",
+            "en": "São Torcato Viewpoint"
+          },
+          "coords": [
+            -7.618,
+            40.963
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:21",
+          "stay_min": 44,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf die Stadt und die umliegende Landschaft.",
+            "hu": "A legjobb hely a városra és a környező tájra nyíló panorámás kilátásért.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra orașului și peisajului înconjurător.",
+            "en": "The best spot for a panoramic view of the town and surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum, wo der Pelourinho und die Hauptkirche die Geschichte der Stadt erzählen. Am Vormittag erkunden Sie das reiche Erbe im Museum für Sakrale Kunst und dem eleganten Solar dos Guedes. Der Nachmittag ist der Ruhe des Klosters und der Kultur der Aquilino Ribeiro Stiftung gewidmet. Beenden Sie Ihren Rundgang mit einem atemberaubenden Panoramablick vom Aussichtspunkt São Torcato, der die Schönheit der Region einfängt.",
+        "hu": "Kezdje a napot a történelmi központban, ahol a büntetőoszlop és a főtemplom mesél a város múltjáról. Délelőtt fedezze fel a gazdag örökséget az Egyházi Művészetek Múzeumában és az elegáns Guedes-kúriában. A délután a kolostor csendjének és az Aquilino Ribeiro Alapítvány kultúrájának jegyében telik. Zárja a sétát a São Torcato kilátóból nyíló lélegzetelállító panorámával, amely megragadja a régió szépségét.",
+        "ro": "Începeți ziua în centrul istoric, unde Pelourinho și Biserica Matrice spun povestea orașului. Dimineața, explorați bogata moștenire la Muzeul de Artă Sacră și elegantul Solar dos Guedes. După-amiaza este dedicată liniștii mănăstirii și culturii la Fundația Aquilino Ribeiro. Încheiați turul pietonal cu o priveliște panoramică uluitoare de la Punctul de vedere São Torcato, care surprinde frumusețea regiunii.",
+        "en": "Start your day in the historic center, where the Pillory and the Mother Church tell the town's story. In the morning, explore the rich heritage at the Museum of Sacred Art and the elegant Solar dos Guedes. The afternoon is dedicated to the tranquility of the convent and the culture at the Aquilino Ribeiro Foundation. Conclude your walking tour with a breathtaking panoramic view from the São Torcato Viewpoint, capturing the region's beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cabrito Assado",
+            "tip": "Probieren Sie das im Ofen gebratene Zicklein, eine lokale Spezialität. Suchen Sie nach Restaurants wie 'O Típico'."
+          },
+          {
+            "name": "Espumante de Távora-Varosa",
+            "tip": "Genießen Sie den lokalen Sekt, der aus der einzigen DOC-Region für Sekt in Portugal stammt."
+          },
+          {
+            "name": "Maçã de Moimenta da Beira",
+            "tip": "Kosten Sie die berühmten Äpfel der Region, die für ihre Qualität bekannt sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabrito Assado",
+            "tip": "Kóstolja meg a kemencében sült kecskegidát, egy helyi különlegességet. Keresse az 'O Típico' éttermet."
+          },
+          {
+            "name": "Espumante de Távora-Varosa",
+            "tip": "Élvezze a helyi pezsgőt Portugália egyetlen, pezsgőre szakosodott DOC-régiójából."
+          },
+          {
+            "name": "Maçã de Moimenta da Beira",
+            "tip": "Kóstolja meg a régió híres, minőségéről ismert almáját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabrito Assado",
+            "tip": "Încercați iedul la cuptor, o specialitate locală. Căutați restaurante precum 'O Típico'."
+          },
+          {
+            "name": "Espumante de Távora-Varosa",
+            "tip": "Savurați vinul spumant local, din singura regiune DOC pentru spumante din Portugalia."
+          },
+          {
+            "name": "Maçã de Moimenta da Beira",
+            "tip": "Gustați renumitele mere din regiune, cunoscute pentru calitatea lor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabrito Assado",
+            "tip": "Try the oven-roasted kid goat, a local specialty. Look for restaurants like 'O Típico'."
+          },
+          {
+            "name": "Espumante de Távora-Varosa",
+            "tip": "Savor the local sparkling wine, from the only DOC region for sparkling wine in Portugal."
+          },
+          {
+            "name": "Maçã de Moimenta da Beira",
+            "tip": "Taste the region's famous apples, known for their quality."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des Klosters",
+            "tip": "Finden Sie einen Moment der Ruhe in den friedlichen Gärten des Klosters.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer des Albufeira do Vilar",
+            "tip": "Ein kurzer Spaziergang zu den Ufern des Stausees für eine entspannende Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt São Torcato",
+            "tip": "Genießen Sie die Stille und den weiten Blick auf die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kolostor kertjei",
+            "tip": "Találjon egy csendes pillanatot a kolostor békés kertjeiben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Albufeira do Vilar partja",
+            "tip": "Egy rövid séta a víztározó partjára egy pihentető szünetért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "São Torcato kilátó",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile mănăstirii",
+            "tip": "Găsiți un moment de liniște în grădinile pașnice ale mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile Albufeira do Vilar",
+            "tip": "O scurtă plimbare până la malurile lacului de acumulare pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punctul de vedere São Torcato",
+            "tip": "Bucurați-vă de liniște și de priveliștea vastă a peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Convent Gardens",
+            "tip": "Find a moment of peace in the tranquil gardens of the convent.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Shores of Albufeira do Vilar",
+            "tip": "A short walk to the reservoir's shores for a relaxing break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "São Torcato Viewpoint",
+            "tip": "Enjoy the quiet and the expansive view of the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte, insbesondere die berühmten Äpfel und lokalen Käse."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigten Textilien und Keramiken aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket, különösen a híres almát és helyi sajtokat."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített textíliákat és kerámiákat a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete, în special renumitele mere și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați textile și ceramică lucrate manual din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Shop for fresh produce, especially the famous apples and local cheeses."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade textiles and ceramics from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt und leicht zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie Zeit für ein Mittagessen in einem traditionellen Restaurant ein, um die lokale Küche zu genießen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és könnyen bejárható gyalog.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Szánjon időt egy ebédre egy hagyományos étteremben, hogy megkóstolja a helyi konyhát."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și ușor de explorat pe jos.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Planificați timp pentru prânz la un restaurant tradițional pentru a savura bucătăria locală."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town center is compact and easily walkable.",
+          "Most attractions are located close to each other.",
+          "Plan for a lunch break at a traditional restaurant to enjoy the local cuisine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho von Moimenta",
+            "hu": "Moimenta büntetőoszlopa",
+            "ro": "Pelourinho din Moimenta",
+            "en": "Pillory of Moimenta"
+          },
+          "coords": [
+            -7.6165,
+            40.9668
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Treffpunkt, um Ihr Fahrrad vor der Tour zu überprüfen.",
+            "hu": "Jó találkozási pont, hogy a túra előtt ellenőrizze a kerékpárját.",
+            "ro": "Un bun punct de întâlnire pentru a vă verifica bicicleta înainte de tur.",
+            "en": "A good meeting point to check your bike before the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Moimenta da Beira",
+            "hu": "Moimenta da Beira főtemploma",
+            "ro": "Biserica Matrice din Moimenta da Beira",
+            "en": "Mother Church of Moimenta da Beira"
+          },
+          "coords": [
+            -7.617,
+            40.9672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für das Innere.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt a belső térre.",
+            "ro": "Legați-vă bicicleta în apropiere și admirați interiorul.",
+            "en": "Lock your bike nearby and take your time to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Guedes",
+            "hu": "Guedes-kúria",
+            "ro": "Solar dos Guedes",
+            "en": "Solar dos Guedes"
+          },
+          "coords": [
+            -7.6159,
+            40.968
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses imposanten Herrenhauses.",
+            "hu": "Csodálja meg ennek a lenyűgöző kúriának a homlokzatát.",
+            "ro": "Admirați fațada acestui conac impunător.",
+            "en": "Admire the facade of this imposing manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Unserer Lieben Frau von der Reinigung",
+            "hu": "Tisztulás Miasszonyunk kolostor",
+            "ro": "Mănăstirea Doamnei Noastre a Purificării",
+            "en": "Convent of Our Lady of Purification"
+          },
+          "coords": [
+            -7.6148,
+            40.969
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine friedliche Pause auf Ihrer Radtour.",
+            "hu": "Békés pihenő a kerékpártúrán.",
+            "ro": "O pauză liniștită în turul cu bicicleta.",
+            "en": "A peaceful break on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt São Torcato",
+            "hu": "São Torcato kilátó",
+            "ro": "Punct de vedere São Torcato",
+            "en": "São Torcato Viewpoint"
+          },
+          "coords": [
+            -7.618,
+            40.963
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die spektakuläre Aussicht.",
+            "hu": "Megéri a fáradságot a látványos kilátásért.",
+            "ro": "Urcarea merită pentru priveliștea spectaculoasă.",
+            "en": "The climb is worth it for the spectacular view."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Vilar",
+            "hu": "Vilar-víztározó",
+            "ro": "Lacul de acumulare Vilar",
+            "en": "Albufeira do Vilar"
+          },
+          "coords": [
+            -7.645,
+            40.985
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick und eine lange Pause am Wasser.",
+            "hu": "Tökéletes hely egy piknikhez és egy hosszú pihenőhöz a vízparton.",
+            "ro": "Perfect pentru un picnic și o pauză lungă lângă apă.",
+            "en": "Perfect for a picnic and a long break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Egyházi Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -7.6173,
+            40.9675
+          ],
+          "arrive_at": "15:39",
+          "stay_min": 96,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 1.0,
+          "category": "museums",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer Dosis Kultur, bevor Sie sich auf den Rückweg machen.",
+            "hu": "Zárja a túrát egy adag kultúrával, mielőtt visszaindul.",
+            "ro": "Încheiați turul cu o doză de cultură înainte de a vă întoarce.",
+            "en": "End your tour with a dose of culture before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Moimenta, führt Sie an der Hauptkirche und dem historischen Solar dos Guedes vorbei zum ruhigen Kloster. Am Vormittag erklimmen Sie den Aussichtspunkt São Torcato für eine verdiente Panoramaaussicht. Der Höhepunkt des Tages ist eine längere Fahrt zum Albufeira do Vilar, wo Sie ein entspanntes Mittagessen am Wasser genießen können. Auf dem Rückweg tauchen Sie im Museum für Sakrale Kunst in die lokale Kultur ein.",
+        "hu": "A kerékpártúra Moimenta szívéből indul, elhalad a főtemplom és a történelmi Guedes-kúria mellett a csendes kolostorhoz. Délelőtt megmássza a São Torcato kilátót a megérdemelt panorámáért. A nap fénypontja egy hosszabb tekerés az Albufeira do Vilar víztározóhoz, ahol egy pihentető ebédet fogyaszthat a vízparton. Visszafelé merüljön el a helyi kultúrában az Egyházi Művészetek Múzeumában.",
+        "ro": "Turul cu bicicleta începe în inima orașului Moimenta, ducându-vă pe lângă Biserica Matrice și istoricul Solar dos Guedes până la mănăstirea liniștită. Dimineața, urcați la Punctul de vedere São Torcato pentru o priveliște panoramică binemeritată. Punctul culminant al zilei este o plimbare mai lungă până la Albufeira do Vilar, unde vă puteți bucura de un prânz relaxant pe malul apei. La întoarcere, cufundați-vă în cultura locală la Muzeul de Artă Sacră.",
+        "en": "Your bike tour starts in the heart of Moimenta, taking you past the Mother Church and the historic Solar dos Guedes to the tranquil convent. In the morning, you'll climb to the São Torcato Viewpoint for a well-deserved panoramic view. The highlight of the day is a longer ride to Albufeira do Vilar, where you can enjoy a relaxing lunch by the water. On the way back, immerse yourself in local culture at the Museum of Sacred Art."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandes de Presunto",
+            "tip": "Ein Schinken-Sandwich für ein schnelles und leckeres Picknick am Stausee."
+          },
+          {
+            "name": "Bolo de Mel",
+            "tip": "Ein Honigkuchen, der Ihnen Energie für die Fahrt gibt."
+          },
+          {
+            "name": "Kaltes Bier in einem Café am Flussufer",
+            "tip": "Erfrischen Sie sich nach der langen Fahrt zum Stausee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandes de Presunto",
+            "tip": "Egy sonkás szendvics egy gyors és finom piknikhez a víztározónál."
+          },
+          {
+            "name": "Bolo de Mel",
+            "tip": "Egy mézes sütemény, ami energiát ad a tekeréshez."
+          },
+          {
+            "name": "Hideg sör egy folyóparti kávézóban",
+            "tip": "Frissítse fel magát a hosszú út után a víztározóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandes de Presunto",
+            "tip": "Un sandviș cu șuncă pentru un picnic rapid și delicios la lacul de acumulare."
+          },
+          {
+            "name": "Bolo de Mel",
+            "tip": "O prăjitură cu miere care vă va da energie pentru plimbare."
+          },
+          {
+            "name": "O bere rece la o cafenea pe malul râului",
+            "tip": "Răcoriți-vă după lunga plimbare până la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandes de Presunto",
+            "tip": "A cured ham sandwich for a quick and delicious picnic at the reservoir."
+          },
+          {
+            "name": "Bolo de Mel",
+            "tip": "A honey cake to give you energy for the ride."
+          },
+          {
+            "name": "Cold beer at a riverside café",
+            "tip": "Refresh yourself after the long ride to the reservoir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Verbringen Sie Zeit in der Stille der Natur am Rande des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Radweg entlang des Flusses",
+            "tip": "Finden Sie einen ruhigen Abschnitt des Weges für eine friedliche Fahrt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "São Torcato am späten Nachmittag",
+            "tip": "Kehren Sie für einen ruhigen Moment zurück, wenn die meisten Touristen weg sind.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Töltsön időt a természet csendjében a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút a folyó mentén",
+            "tip": "Találjon egy csendes szakaszt az úton egy békés tekeréshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "São Torcato késő délután",
+            "tip": "Térjen vissza egy csendes pillanatra, amikor a legtöbb turista már elment.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Petreceți timp în liniștea naturii la marginea apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de-a lungul râului",
+            "tip": "Găsiți o porțiune liniștită a traseului pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "São Torcato la sfârșitul după-amiezii",
+            "tip": "Întoarceți-vă pentru un moment de liniște când majoritatea turiștilor au plecat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Spend time in the silence of nature by the water's edge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bike path along the river",
+            "tip": "Find a quiet section of the path for a peaceful ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "São Torcato in the late afternoon",
+            "tip": "Return for a quiet moment when most tourists are gone.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie eine Flasche Espumante als Souvenir."
+          },
+          {
+            "name": "Fahrradladen",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon egy üveg Espumante pezsgőt szuvenírként."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Ha kiegészítőre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați o sticlă de Espumante ca suvenir."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce",
+            "tip": "Buy a bottle of Espumante as a souvenir."
+          },
+          {
+            "name": "Bike Shop",
+            "tip": "In case you need any accessories or a quick fix."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nehmen Sie viel Wasser mit, besonders für die Fahrt zum Stausee.",
+          "Die Straßen können hügelig sein, seien Sie also auf einige Anstiege vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Vigyen magával sok vizet, különösen a víztározóhoz vezető útra.",
+          "Az utak dombosak lehetnek, készüljön fel néhány emelkedőre."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Luați multă apă, mai ales pentru drumul spre lacul de acumulare.",
+          "Drumurile pot fi deluroase, așa că fiți pregătiți pentru câteva urcări."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Bring plenty of water, especially for the ride to the reservoir.",
+          "The roads can be hilly, so be prepared for some climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 24.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz im Zentrum",
+            "hu": "Parkoló a központban",
+            "ro": "Parcare în centru",
+            "en": "Parking in the Center"
+          },
+          "coords": [
+            -7.616,
+            40.9665
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho und Hauptkirche",
+            "hu": "Büntetőoszlop és Főtemplom",
+            "ro": "Pelourinho și Biserica Matrice",
+            "en": "Pillory and Mother Church"
+          },
+          "coords": [
+            -7.6168,
+            40.967
+          ],
+          "category": "historical",
+          "arrive_at": "09:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Wahrzeichen liegen direkt nebeneinander.",
+            "hu": "Ez a két nevezetesség közvetlenül egymás mellett található.",
+            "ro": "Aceste două repere sunt chiar unul lângă celălalt.",
+            "en": "These two landmarks are right next to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst & Solar dos Guedes",
+            "hu": "Egyházi Művészetek Múzeuma és Guedes-kúria",
+            "ro": "Muzeul de Artă Sacră și Solar dos Guedes",
+            "en": "Museum of Sacred Art & Solar dos Guedes"
+          },
+          "coords": [
+            -7.6166,
+            40.9678
+          ],
+          "category": "museums",
+          "arrive_at": "10:24",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kunst und Architektur in diesem Block.",
+            "hu": "Fedezze fel a művészetet és építészetet ebben a tömbben.",
+            "ro": "Explorați arta și arhitectura din acest cvartal.",
+            "en": "Explore the art and architecture in this block."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Vilar",
+            "hu": "Vilar-víztározó",
+            "ro": "Lacul de acumulare Vilar",
+            "en": "Albufeira do Vilar"
+          },
+          "coords": [
+            -7.645,
+            40.985
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Stausee für eine malerische Mittagspause. Parkplätze sind vorhanden.",
+            "hu": "Autózzon el a víztározóhoz egy festői ebédszünetre. Parkolóhelyek rendelkezésre állnak.",
+            "ro": "Conduceți până la lacul de acumulare pentru o pauză de prânz pitorească. Există locuri de parcare.",
+            "en": "Drive to the reservoir for a scenic lunch break. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt São Torcato",
+            "hu": "São Torcato kilátó",
+            "ro": "Punct de vedere São Torcato",
+            "en": "São Torcato Viewpoint"
+          },
+          "coords": [
+            -7.618,
+            40.963
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtspunkt für den besten Panoramablick.",
+            "hu": "Hajtson fel a kilátóhoz a legjobb panorámáért.",
+            "ro": "Conduceți până la punctul de belvedere pentru cea mai bună priveliște panoramică.",
+            "en": "Drive up to the viewpoint for the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Unserer Lieben Frau von der Reinigung",
+            "hu": "Tisztulás Miasszonyunk kolostor",
+            "ro": "Mănăstirea Doamnei Noastre a Purificării",
+            "en": "Convent of Our Lady of Purification"
+          },
+          "coords": [
+            -7.6148,
+            40.969
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz des Aussichtspunkts aus ist es nur ein kurzer Spaziergang hierher.",
+            "hu": "A kilátó parkolójából csak egy rövid séta.",
+            "ro": "De la parcarea punctului de belvedere, este doar o scurtă plimbare până aici.",
+            "en": "From the viewpoint's parking, it's a short walk to here."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquilino Ribeiro Stiftung",
+            "hu": "Aquilino Ribeiro Alapítvány",
+            "ro": "Fundația Aquilino Ribeiro",
+            "en": "Aquilino Ribeiro Foundation"
+          },
+          "coords": [
+            -7.625,
+            40.971
+          ],
+          "arrive_at": "16:04",
+          "stay_min": 85,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.0,
+          "category": "theatres/cultural centres",
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein kulturelles Highlight mit eigenem Parkplatz.",
+            "hu": "A nap utolsó állomása, egy kulturális fénypont saját parkolóval.",
+            "ro": "Ultima oprire a zilei, un punct culminant cultural cu parcare proprie.",
+            "en": "The final stop of the day, a cultural highlight with its own parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt mit dem Parken im Zentrum, um den historischen Kern zu Fuß zu erkunden: Pelourinho, Kirche, Museum und Herrenhaus. Mittags fahren Sie zum malerischen Stausee Albufeira do Vilar für eine entspannte Pause in der Natur. Der Nachmittag ist den Panoramen gewidmet: Fahren Sie zum Aussichtspunkt São Torcato und spazieren Sie zum nahegelegenen Kloster. Den Abschluss bildet ein Besuch bei der Aquilino Ribeiro Stiftung, ein kultureller Höhepunkt mit guter Erreichbarkeit.",
+        "hu": "Az autós nap a központban való parkolással kezdődik, hogy gyalog fedezze fel a történelmi magot: büntetőoszlop, templom, múzeum és kúria. Délben a festői Albufeira do Vilar víztározóhoz hajt egy pihentető természeti szünetre. A délután a panorámáké: vezessen fel a São Torcato kilátóhoz, majd sétáljon át a közeli kolostorhoz. A napot az Aquilino Ribeiro Alapítvány meglátogatása zárja, amely egy könnyen megközelíthető kulturális fénypont.",
+        "ro": "Ziua cu mașina începe prin parcarea în centru pentru a explora nucleul istoric pe jos: Pelourinho, biserica, muzeul și conacul. La prânz, conduceți la pitorescul lac de acumulare Albufeira do Vilar pentru o pauză relaxantă în natură. După-amiaza este dedicată panoramelor: urcați la Punctul de vedere São Torcato și plimbați-vă până la mănăstirea din apropiere. Încheiați cu o vizită la Fundația Aquilino Ribeiro, un punct culminant cultural ușor accesibil.",
+        "en": "Your day by car begins by parking in the center to explore the historic core on foot: pillory, church, museum, and manor. At midday, you'll drive to the scenic Albufeira do Vilar reservoir for a relaxing nature break. The afternoon is for panoramas: drive to the São Torcato viewpoint and then stroll to the nearby convent. Finish with a visit to the Aquilino Ribeiro Foundation, a cultural highlight with easy access."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Típico",
+            "tip": "Bekannt für seine traditionelle Küche, insbesondere das gebratene Zicklein."
+          },
+          {
+            "name": "Picknick am Albufeira do Vilar",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen mit Aussicht."
+          },
+          {
+            "name": "Café mit Blick",
+            "tip": "Finden Sie ein Café in der Nähe des Aussichtspunkts São Torcato für einen Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "O Típico Étterem",
+            "tip": "Híres a hagyományos konyhájáról, különösen a sült kecskegidáról."
+          },
+          {
+            "name": "Piknik az Albufeira do Vilarnál",
+            "tip": "Vásároljon helyi termékeket és ebédeljen a kilátással."
+          },
+          {
+            "name": "Kávézó kilátással",
+            "tip": "Keressen egy kávézót a São Torcato kilátó közelében egy kávéra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant O Típico",
+            "tip": "Renumit pentru bucătăria sa tradițională, în special iedul la cuptor."
+          },
+          {
+            "name": "Picnic la Albufeira do Vilar",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz cu priveliște."
+          },
+          {
+            "name": "Cafenea cu vedere",
+            "tip": "Găsiți o cafenea lângă Punctul de vedere São Torcato pentru o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Típico",
+            "tip": "Known for its traditional cuisine, especially the roasted kid goat."
+          },
+          {
+            "name": "Picnic at Albufeira do Vilar",
+            "tip": "Buy local produce and enjoy lunch with a view."
+          },
+          {
+            "name": "Café with a view",
+            "tip": "Find a café near the São Torcato viewpoint for a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Der perfekte Ort, um dem Trubel der Stadt zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Spaziergang um das Kloster",
+            "tip": "Finden Sie Frieden in der historischen und spirituellen Umgebung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am São Torcato",
+            "tip": "Bleiben Sie etwas länger, um die Farben des Himmels zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Tökéletes hely a város nyüzsgésétől való elszakadásra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Séta a kolostor körül",
+            "tip": "Találjon békét a történelmi és spirituális környezetben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a São Torcatónál",
+            "tip": "Maradjon egy kicsit tovább, hogy figyelje az égbolt színeit.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "Locul perfect pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O plimbare în jurul mănăstirii",
+            "tip": "Găsiți pacea în mediul istoric și spiritual.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la São Torcato",
+            "tip": "Stați puțin mai mult pentru a privi culorile cerului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Albufeira do Vilar",
+            "tip": "The perfect place to escape the hustle and bustle of the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A walk around the convent",
+            "tip": "Find peace in the historic and spiritual surroundings.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at São Torcato",
+            "tip": "Stay a little longer to watch the colors of the sky.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Auf dem Weg zum Stausee finden Sie möglicherweise Bauernhöfe, die Äpfel, Honig oder Käse direkt verkaufen."
+          },
+          {
+            "name": "Weingüter der Region Távora-Varosa",
+            "tip": "Kaufen Sie eine Flasche des berühmten Espumante direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "A víztározó felé vezető úton találhat olyan gazdaságokat, amelyek közvetlenül almát, mézet vagy sajtot árulnak."
+          },
+          {
+            "name": "Távora-Varosa borvidék pincészetei",
+            "tip": "Vásároljon egy üveg híres Espumante pezsgőt közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole",
+            "tip": "Pe drumul spre lacul de acumulare, s-ar putea să găsiți ferme care vând mere, miere sau brânză direct."
+          },
+          {
+            "name": "Cramele din regiunea Távora-Varosa",
+            "tip": "Cumpărați o sticlă din faimosul Espumante direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "On the way to the reservoir, you might find farms selling apples, honey, or cheese directly."
+          },
+          {
+            "name": "Wineries of the Távora-Varosa region",
+            "tip": "Buy a bottle of the famous Espumante directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Flexibilität des Autos, um auch abgelegenere Orte wie den Stausee zu besuchen.",
+          "Parken im Stadtzentrum kann schwierig sein, nutzen Sie daher die ausgewiesenen Parkplätze.",
+          "Planen Sie die Fahrzeiten zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Használja ki az autó rugalmasságát, hogy olyan távolabbi helyeket is meglátogasson, mint a víztározó.",
+          "A városközpontban a parkolás nehézkes lehet, ezért használja a kijelölt parkolókat.",
+          "Tervezze be az utazási időt a látnivalócsoportok között."
+        ],
+        "ro": [
+          "Folosiți flexibilitatea mașinii pentru a vizita locuri mai îndepărtate, cum ar fi lacul de acumulare.",
+          "Parcarea în centrul orașului poate fi dificilă, așa că folosiți parcările desemnate.",
+          "Planificați timpii de condus între grupurile de atracții."
+        ],
+        "en": [
+          "Use the car's flexibility to visit more remote places like the reservoir.",
+          "Parking in the town center can be tricky, so use the designated parking areas.",
+          "Factor in driving times between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația centrală de autobuz",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            -7.6155,
+            40.966
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung des Stadtzentrums.",
+            "hu": "Kezdje innen a városközpont felfedezését.",
+            "ro": "Începeți explorarea centrului orașului de aici.",
+            "en": "Start your exploration of the town center from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho und Hauptkirche",
+            "hu": "Büntetőoszlop és Főtemplom",
+            "ro": "Pelourinho și Biserica Matrice",
+            "en": "Pillory and Mother Church"
+          },
+          "coords": [
+            -7.6168,
+            40.967
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zu den wichtigsten historischen Stätten.",
+            "hu": "Rövid séta a buszmegállótól a fő történelmi helyszínekig.",
+            "ro": "O scurtă plimbare de la stația de autobuz la principalele situri istorice.",
+            "en": "A short walk from the bus stop to the main historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar dos Guedes & Kloster",
+            "hu": "Guedes-kúria és Kolostor",
+            "ro": "Solar dos Guedes & Mănăstire",
+            "en": "Solar dos Guedes & Convent"
+          },
+          "coords": [
+            -7.6153,
+            40.9685
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren historischen Spaziergang fort.",
+            "hu": "Folytassa a történelmi sétát.",
+            "ro": "Continuați plimbarea istorică.",
+            "en": "Continue your historical walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle nahe São Torcato",
+            "hu": "Buszmegálló a São Torcato közelében",
+            "ro": "Stație de autobuz lângă São Torcato",
+            "en": "Bus Stop near São Torcato"
+          },
+          "coords": [
+            -7.619,
+            40.9635
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum nächsten Cluster.",
+            "hu": "Menjen egy helyi busszal a következő látnivalócsoporthoz.",
+            "ro": "Luați un autobuz local spre următorul grup de atracții.",
+            "en": "Take a local bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt São Torcato",
+            "hu": "São Torcato kilátó",
+            "ro": "Punct de vedere São Torcato",
+            "en": "São Torcato Viewpoint"
+          },
+          "coords": [
+            -7.618,
+            40.963
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:19",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und machen Sie hier eine lange Mittagspause.",
+            "hu": "Élvezze a kilátást és tartson itt egy hosszú ebédszünetet.",
+            "ro": "Bucurați-vă de priveliște și luați o pauză lungă de prânz aici.",
+            "en": "Enjoy the view and have a long lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Egyházi Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -7.6173,
+            40.9675
+          ],
+          "arrive_at": "15:21",
+          "stay_min": 102,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.8,
+          "category": "museums",
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um Ihre Tour im Museum abzuschließen.",
+            "hu": "Menjen vissza busszal a központba, hogy a múzeumban fejezze be a túrát.",
+            "ro": "Luați autobuzul înapoi în centru pentru a termina turul la muzeu.",
+            "en": "Take the bus back to the center to finish your tour at the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Moimenta in Clustern. Beginnen Sie im Zentrum mit einem Spaziergang vom Busbahnhof zu den historischen Wahrzeichen. Am Vormittag nehmen Sie einen Bus, der Sie in die Nähe des São Torcato Aussichtspunkts bringt, wo Sie eine herrliche Aussicht und eine ausgedehnte Mittagspause genießen können. Am Nachmittag fahren Sie mit dem Bus zurück ins Zentrum, um den Tag mit einem Besuch im Museum für Sakrale Kunst abzurunden.",
+        "hu": "Tömegközlekedéssel Moimentát klaszterekben fedezheti fel. Kezdje a központban egy sétával a buszmegállótól a történelmi nevezetességekig. Délelőtt szálljon buszra, amely a São Torcato kilátó közelébe visz, ahol csodálatos kilátás és egy hosszú ebédszünet várja. Délután busszal térjen vissza a központba, hogy a napot az Egyházi Művészetek Múzeumában tett látogatással zárja.",
+        "ro": "Folosind transportul public, explorați Moimenta în grupuri. Începeți în centru cu o plimbare de la stația de autobuz la reperele istorice. Dimineața, luați un autobuz care vă duce aproape de Punctul de vedere São Torcato, unde vă puteți bucura de o priveliște magnifică și o pauză lungă de prânz. După-amiaza, luați autobuzul înapoi în centru pentru a încheia ziua cu o vizită la Muzeul de Artă Sacră.",
+        "en": "Using public transport, you'll explore Moimenta in clusters. Start in the center with a walk from the bus stop to the historical landmarks. In the morning, take a bus that gets you near the São Torcato viewpoint, where you can enjoy a magnificent view and an extended lunch break. In the afternoon, bus back to the center to round off your day with a visit to the Museum of Sacred Art."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastelaria local",
+            "tip": "Probieren Sie lokales Gebäck in einer Bäckerei in der Nähe des Busbahnhofs."
+          },
+          {
+            "name": "Prato do dia",
+            "tip": "Suchen Sie nach dem 'Tagesgericht' in einem Restaurant im Zentrum für ein preiswertes Mittagessen."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Beobachten Sie das Treiben bei einem Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Kóstoljon helyi süteményeket egy pékségben a buszmegálló közelében."
+          },
+          {
+            "name": "Prato do dia",
+            "tip": "Keresse a 'napi menüt' egy központi étteremben egy kedvező árú ebédért."
+          },
+          {
+            "name": "Kávézó a főtéren",
+            "tip": "Nézze a nyüzsgést egy kávé mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserie locală",
+            "tip": "Încercați produse de patiserie locale la o brutărie de lângă stația de autobuz."
+          },
+          {
+            "name": "Prato do dia",
+            "tip": "Căutați 'mâncarea zilei' la un restaurant din centru pentru un prânz la preț rezonabil."
+          },
+          {
+            "name": "Cafenea în piața principală",
+            "tip": "Priviți agitația orașului savurând o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastelaria",
+            "tip": "Try local pastries at a bakery near the bus stop."
+          },
+          {
+            "name": "Prato do dia",
+            "tip": "Look for the 'dish of the day' at a central restaurant for a good value lunch."
+          },
+          {
+            "name": "Café in the main square",
+            "tip": "Watch the world go by with a coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank am São Torcato",
+            "tip": "Finden Sie eine Bank mit Aussicht und genießen Sie die Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen im Zentrum",
+            "tip": "Verlieren Sie sich in den ruhigen Gassen abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchplatz am späten Nachmittag",
+            "tip": "Der Platz vor der Hauptkirche ist oft ruhig, wenn die Mittagszeit vorbei ist.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a São Torcatónál",
+            "tip": "Találjon egy padot kilátással és élvezze a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mellékutcák a központban",
+            "tip": "Vesszen el a csendes sikátorokban a főutcáktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Templomtér késő délután",
+            "tip": "A főtemplom előtti tér gyakran csendes, miután az ebédidő véget ért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă la São Torcato",
+            "tip": "Găsiți o bancă cu vedere și bucurați-vă de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțe lăturalnice în centru",
+            "tip": "Pierdeți-vă pe aleile liniștite, departe de străzile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Piața bisericii la sfârșitul după-amiezii",
+            "tip": "Piața din fața Bisericii Matrice este adesea liniștită după ora prânzului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench at São Torcato",
+            "tip": "Find a bench with a view and enjoy the quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side streets in the center",
+            "tip": "Get lost in the quiet alleys away from the main roads.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church square in the late afternoon",
+            "tip": "The square in front of the Mother Church is often quiet after the lunch rush.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Kaufen Sie Souvenirs, bevor Sie den Bus zurück nehmen."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Holen Sie sich Snacks und Getränke für Ihre Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszmegálló közelében",
+            "tip": "Vásároljon szuveníreket, mielőtt visszaszáll a buszra."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Szerezzen be rágcsálnivalókat és italokat a buszutakra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă stația de autobuz",
+            "tip": "Cumpărați suveniruri înainte de a lua autobuzul înapoi."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Luați gustări și băuturi pentru călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus station",
+            "tip": "Buy souvenirs before you take the bus back."
+          },
+          {
+            "name": "Local supermarket",
+            "tip": "Get snacks and drinks for your bus journeys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da diese in ländlichen Gebieten selten sein können.",
+          "Haben Sie Kleingeld für Bustickets dabei.",
+          "Planen Sie Wartezeiten an den Bushaltestellen ein."
+        ],
+        "hu": [
+          "Előre tájékozódjon a buszmenetrendekről, mivel a vidéki területeken ritkásak lehetnek.",
+          "Legyen Önnél aprópénz a buszjegyekhez.",
+          "Tervezzen be várakozási időt a buszmegállókban."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în avans, deoarece acestea pot fi rare în zonele rurale.",
+          "Aveți bani mărunți pentru biletele de autobuz.",
+          "Luați în calcul timpii de așteptare în stațiile de autobuz."
+        ],
+        "en": [
+          "Check bus schedules in advance, as they can be infrequent in rural areas.",
+          "Have small change ready for bus tickets.",
+          "Factor in waiting times at bus stops."
+        ]
+      }
+    }
+  }
+}

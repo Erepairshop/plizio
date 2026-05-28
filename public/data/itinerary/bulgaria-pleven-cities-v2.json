@@ -1,0 +1,1256 @@
+{
+  "city_id": "bulgaria-pleven-cities-v2",
+  "anchor": {
+    "name": "Plewen",
+    "coords": [
+      24.6,
+      43.4167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mausoleum St. Georg",
+            "hu": "Szent György győztes mauzóleum-kápolna",
+            "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
+            "en": "St. George the Conqueror Mausoleum"
+          },
+          "coords": [
+            24.618,
+            43.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Ikonostase und die feierliche Atmosphäre.",
+            "hu": "Csodálja meg a lenyűgöző ikonosztázt és az ünnepélyes légkört.",
+            "ro": "Admirați iconostasul impresionant și atmosfera solemnă.",
+            "en": "Admire the impressive iconostasis and the solemn atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkaskade",
+            "hu": "Vízilépcső",
+            "ro": "Cascada de apă",
+            "en": "Water Cascade"
+          },
+          "coords": [
+            24.619,
+            43.414
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:52",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein beliebter Treffpunkt für Einheimische, besonders schön am Abend beleuchtet.",
+            "hu": "A helyiek kedvelt találkozóhelye, este kivilágítva különösen szép.",
+            "ro": "Un loc de întâlnire popular pentru localnici, deosebit de frumos iluminat seara.",
+            "en": "A popular meeting point for locals, especially beautiful when lit up in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            24.622,
+            43.416
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologischen Funde aus der römischen Zeit.",
+            "hu": "Koncentráljon a római korból származó régészeti leletekre.",
+            "ro": "Concentrați-vă pe descoperirile arheologice din perioada romană.",
+            "en": "Focus on the archaeological finds from the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Ivan Radoev",
+            "hu": "Ivan Radoev Drámai Színház",
+            "ro": "Teatrul Dramatic Ivan Radoev",
+            "en": "Ivan Radoev Drama Theatre"
+          },
+          "coords": [
+            24.621,
+            43.412
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:54",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Abendvorstellung.",
+            "hu": "Nézze meg a műsort, talán van egy érdekes esti előadás.",
+            "ro": "Verificați programul, poate există un spectacol de seară interesant.",
+            "en": "Check the schedule, there might be an interesting evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama Pleven",
+            "hu": "Pleveni panoráma 1877",
+            "ro": "Panorama din Plevna 1877",
+            "en": "Pleven Panorama 1877"
+          },
+          "coords": [
+            24.606,
+            43.405
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Details der Schlacht zu verstehen.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy megértse a csata részleteit.",
+            "ro": "Participați la un tur ghidat pentru a înțelege detaliile bătăliei.",
+            "en": "Join a guided tour to understand the details of the battle."
+          }
+        },
+        {
+          "name": {
+            "de": "Skobelev-Park",
+            "hu": "Szkobelev park",
+            "ro": "Parcul Skobelev",
+            "en": "Skobelev Park"
+          },
+          "coords": [
+            24.605,
+            43.404
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Park beherbergt Dutzende von Denkmälern und Massengräbern.",
+            "hu": "A parkban több tucat emlékmű és tömegsír található.",
+            "ro": "Parcul adăpostește zeci de monumente și morminte comune.",
+            "en": "The park houses dozens of monuments and mass graves."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            24.615,
+            43.385
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Weinprobe, um die lokalen bulgarischen Weinsorten zu probieren.",
+            "hu": "Foglaljon borkóstolót, hogy megkóstolhassa a helyi bolgár borfajtákat.",
+            "ro": "Rezervați o degustare de vinuri pentru a încerca soiurile locale bulgare.",
+            "en": "Book a wine tasting session to sample the local Bulgarian varieties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Plewen beginnt im Herzen der Stadt am St.-Georgs-Mausoleum, einem Ort der Besinnung. Nach einem kurzen Spaziergang erreichen Sie die Wasserkaskaden und das Historische Museum, wo Sie in die reiche Vergangenheit der Region eintauchen. Am Mittag führt Sie Ihr Weg zum beeindruckenden Plewen-Panorama, das die entscheidende Schlacht von 1877 darstellt. Der Nachmittag ist der Entspannung im Skobelev-Park gewidmet, bevor Sie den Tag mit einer Weinprobe im einzigartigen Weinmuseum im Kaylaka-Park ausklingen lassen. Ein Spaziergang voller Geschichte und Kultur.",
+        "hu": "Pleveni napja a város szívében, a Szent György mauzóleumnál kezdődik, az elmélkedés helyszínén. Egy rövid séta után eléri a Vízilépcsőt és a Történeti Múzeumot, ahol elmerülhet a régió gazdag múltjában. Délben az útja a lenyűgöző Pleveni panorámához vezet, amely az 1877-es döntő csatát ábrázolja. A délután a Szkobelev parkban való pihenésé, mielőtt a napot egy borkóstolóval zárja a különleges Bormúzeumban a Kajlaka parkban. Egy séta tele történelemmel és kultúrával.",
+        "ro": "Ziua dumneavoastră în Plevna începe în inima orașului, la Mausoleul Sf. Gheorghe, un loc de reculegere. După o scurtă plimbare, ajungeți la Cascadele de Apă și la Muzeul de Istorie, unde vă veți cufunda în trecutul bogat al regiunii. La prânz, drumul vă duce la impresionanta Panoramă din Plevna, care înfățișează bătălia decisivă din 1877. După-amiaza este dedicată relaxării în Parcul Skobelev, înainte de a încheia ziua cu o degustare de vinuri la Muzeul Vinului, unic în Parcul Kaylaka. O plimbare plină de istorie și cultură.",
+        "en": "Your day in Pleven begins in the heart of the city at the St. George Mausoleum, a place of reflection. After a short walk, you'll reach the Water Cascades and the Historical Museum, where you'll delve into the region's rich past. At midday, your path leads to the impressive Pleven Panorama, depicting the decisive battle of 1877. The afternoon is dedicated to relaxation in Skobelev Park before you end the day with a wine tasting at the unique Wine Museum in Kaylaka Park. A walk full of history and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schopska-Salat",
+            "tip": "Ein erfrischender Salat aus Tomaten, Gurken, Paprika und geriebenem Sirene-Käse. Probieren Sie ihn im Restaurant \"Slavyanska Dusha\"."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "Ein traditioneller Eintopf aus Fleisch und Gemüse, der in einem Tontopf serviert wird. Ein Muss für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő saláta paradicsomból, uborkából, paprikából és reszelt szirene sajtból. Kóstolja meg a \"Slavyanska Dusha\" étteremben."
+          },
+          {
+            "name": "Gyuvecs",
+            "tip": "Húsból és zöldségekből készült hagyományos egytálétel, agyagedényben tálalva. Kötelező az autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare din roșii, castraveți, ardei și brânză Sirene rasă. Încercați-o la restaurantul \"Slavyanska Dusha\"."
+          },
+          {
+            "name": "Ghiveci",
+            "tip": "O tocană tradițională din carne și legume, servită într-un vas de lut. O necesitate pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad of tomatoes, cucumbers, peppers, and grated Sirene cheese. Try it at \"Slavyanska Dusha\" restaurant."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "A traditional stew of meat and vegetables served in a clay pot. A must for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kaylaka-Park",
+            "tip": "Finden Sie eine ruhige Bank an einem der Seen und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skobelev-Park",
+            "tip": "Ein ruhiger Ort für einen Spaziergang zwischen historischen Denkmälern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kajlaka park",
+            "tip": "Keressen egy csendes padot az egyik tó mellett, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szkobelev park",
+            "tip": "Csendes hely egy sétához a történelmi emlékművek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kaylaka",
+            "tip": "Găsiți o bancă liniștită lângă unul dintre lacuri și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Skobelev",
+            "tip": "Un loc liniștit pentru o plimbare printre monumente istorice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaylaka Park",
+            "tip": "Find a quiet bench by one of the lakes and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skobelev Park",
+            "tip": "A quiet place for a walk among historical monuments.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Fußgängerzone",
+            "tip": "Stöbern Sie in den kleinen Geschäften nach lokalen Produkten und Souvenirs."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Bulgarien ist berühmt für sein Rosenöl. Halten Sie Ausschau nach Kosmetika und Parfums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi sétálóutca",
+            "tip": "Böngésszen a kis boltokban helyi termékek és szuvenírek után."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bulgária híres a rózsaolajáról. Keresse a kozmetikumokat és parfümöket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală centrală",
+            "tip": "Căutați în magazinele mici produse locale și suveniruri."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Bulgaria este renumită pentru uleiul său de trandafiri. Căutați produse cosmetice și parfumuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central pedestrian street",
+            "tip": "Browse the small shops for local products and souvenirs."
+          },
+          {
+            "name": "Rose oil products",
+            "tip": "Bulgaria is famous for its rose oil. Look for cosmetics and perfumes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Einige Orte akzeptieren möglicherweise keine Kartenzahlung, halten Sie etwas Bargeld bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Vigyen magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Néhány helyen esetleg nem fogadnak el kártyát, legyen Önnél készpénz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al muzeelor.",
+          "Este posibil ca unele locații să nu accepte plata cu cardul, așa că aveți la dumneavoastră numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring a reusable water bottle with you.",
+          "Check the opening hours of the museums in advance.",
+          "Some places may not accept card payments, so have some cash on hand."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mausoleum St. Georg",
+            "hu": "Szent György győztes mauzóleum-kápolna",
+            "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
+            "en": "St. George the Conqueror Mausoleum"
+          },
+          "coords": [
+            24.618,
+            43.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Mausoleum betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a mauzóleumba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în mausoleu.",
+            "en": "Securely lock your bike before entering the mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            24.622,
+            43.416
+          ],
+          "category": "museums",
+          "arrive_at": "09:44",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fragen Sie nach einem sicheren Platz, um Ihr Fahrrad abzustellen.",
+            "hu": "Kérdezzen egy biztonságos helyet a kerékpárja tárolására.",
+            "ro": "Întrebați despre un loc sigur pentru a vă parca bicicleta.",
+            "en": "Ask for a safe place to park your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama Pleven",
+            "hu": "Pleveni panoráma 1877",
+            "ro": "Panorama din Plevna 1877",
+            "en": "Pleven Panorama 1877"
+          },
+          "coords": [
+            24.606,
+            43.405
+          ],
+          "category": "museums",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Auffahrt zum Panorama ist etwas steil, aber die Aussicht ist es wert.",
+            "hu": "A panorámához vezető út kissé meredek, de a kilátás megéri.",
+            "ro": "Urcușul spre Panoramă este puțin abrupt, dar priveliștea merită.",
+            "en": "The ride up to the Panorama is a bit steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Skobelev-Park",
+            "hu": "Szkobelev park",
+            "ro": "Parcul Skobelev",
+            "en": "Skobelev Park"
+          },
+          "coords": [
+            24.605,
+            43.404
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und entdecken Sie die vielen Denkmäler.",
+            "hu": "Kerékpározzon át a parkon, és fedezze fel a számos emlékművet.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și descoperiți numeroasele monumente.",
+            "en": "Cycle through the park and discover the many monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaylaka-Park",
+            "hu": "Kajlaka park",
+            "ro": "Parcul Kaylaka",
+            "en": "Kaylaka Park"
+          },
+          "coords": [
+            24.62,
+            43.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Park mit vielen Wegen, ideal für eine ausgedehnte Radtour.",
+            "hu": "Hatalmas park sok ösvénnyel, ideális egy hosszabb kerékpártúrához.",
+            "ro": "Un parc imens cu multe poteci, ideal pentru o plimbare lungă cu bicicleta.",
+            "en": "A huge park with many paths, ideal for a long bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            24.615,
+            43.385
+          ],
+          "category": "museums",
+          "arrive_at": "16:01",
+          "stay_min": 68,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Museum ist in einer Höhle. Denken Sie daran, dass Sie nach einer Weinprobe nicht mehr fahren sollten.",
+            "hu": "A múzeum egy barlangban található. Ne feledje, borkóstoló után már ne üljön kerékpárra.",
+            "ro": "Muzeul se află într-o peșteră. Nu uitați că nu ar trebui să mai mergeți cu bicicleta după o degustare de vin.",
+            "en": "The museum is in a cave. Remember you shouldn't ride after a wine tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihren Tag in Plewen am St.-Georgs-Mausoleum. Eine kurze Fahrt bringt Sie zum Historischen Museum. Am Vormittag erklimmen Sie den Hügel zum Plewen-Panorama, dem Höhepunkt der Stadtgeschichte. Nach der Mittagspause erkunden Sie den Skobelev-Park, bevor Sie eine längere Tour zum weitläufigen Kaylaka-Park unternehmen. Dort, tief in einer Höhle, beenden Sie Ihren aktiven Tag mit der Entdeckung bulgarischer Weine im Weinmuseum.",
+        "hu": "Pattanjon nyeregbe, és kezdje pleveni napját a Szent György mauzóleumnál. Egy rövid tekerés után eljut a Történeti Múzeumba. Délelőtt megmássza a dombot a Pleveni panorámához, a város történelmének csúcspontjához. Ebédszünet után felfedezi a Szkobelev parkot, mielőtt egy hosszabb túrára indul a tágas Kajlaka parkba. Ott, egy barlang mélyén, aktív napját a bolgár borok felfedezésével zárja a Bormúzeumban.",
+        "ro": "Urcați-vă în șa și începeți ziua în Plevna la Mausoleul Sf. Gheorghe. O scurtă plimbare cu bicicleta vă duce la Muzeul de Istorie. Dimineața, urcați dealul până la Panorama din Plevna, punctul culminant al istoriei orașului. După pauza de prânz, explorați Parcul Skobelev înainte de a face un tur mai lung în Parcul Kaylaka. Acolo, adânc într-o peșteră, vă încheiați ziua activă descoperind vinurile bulgărești la Muzeul Vinului.",
+        "en": "Get in the saddle and start your day in Pleven at the St. George Mausoleum. A short ride takes you to the Historical Museum. In the morning, you'll climb the hill to the Pleven Panorama, the pinnacle of the city's history. After a lunch break, explore Skobelev Park before taking a longer tour to the expansive Kaylaka Park. There, deep in a cave, you'll end your active day by discovering Bulgarian wines at the Wine Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banitsa",
+            "tip": "Ein herzhaftes Gebäck mit Käsefüllung, perfekt für einen schnellen Energieschub. In jeder Bäckerei erhältlich."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, ideal zur Erfrischung an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banica",
+            "tip": "Sós, sajtos péksütemény, tökéletes egy gyors energiabevitelhez. Minden pékségben kapható."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborkás-joghurtos leves, ideális frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă sărată cu umplutură de brânză, perfectă pentru un plus de energie. Disponibilă la orice patiserie."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, ideală pentru a vă răcori într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banitsa",
+            "tip": "A savory pastry with cheese filling, perfect for a quick energy boost. Available at any bakery."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, ideal for refreshment on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Tucheniza im Kaylaka-Park",
+            "tip": "Ein friedlicher Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel des Panorama-Hügels",
+            "tip": "Genießen Sie die Aussicht auf die Stadt, nachdem Sie die Menschenmassen hinter sich gelassen haben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Tuchenica folyó partja a Kajlaka parkban",
+            "tip": "Békés hely a város zajától való elmeneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Panoráma-domb csúcsa",
+            "tip": "Élvezze a városra nyíló kilátást, miután maga mögött hagyta a tömeget.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tuchenitsa în Parcul Kaylaka",
+            "tip": "Un loc pașnic pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful dealului Panorama",
+            "tip": "Bucurați-vă de priveliștea orașului după ce ați lăsat mulțimea în urmă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tuchenitsa River in Kaylaka Park",
+            "tip": "A peaceful spot to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Top of the Panorama hill",
+            "tip": "Enjoy the view of the city after leaving the crowds behind.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Bulgarischer Honig ist von hoher Qualität. Suchen Sie nach kleinen Ständen in der Nähe von Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A bolgár méz kiváló minőségű. Keressen kis standokat a parkok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea bulgărească este de înaltă calitate. Căutați standuri mici în apropierea parcurilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Bulgarian honey is of high quality. Look for small stalls near parks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad sicher abzustellen.",
+          "Plewen hat einige Hügel, seien Sie auf Steigungen vorbereitet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Sisak viselése erősen ajánlott.",
+          "Vigyen magával lakatot a kerékpár biztonságos lezárásához.",
+          "Plevenben vannak dombok, készüljön fel az emelkedőkre."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni la drum.",
+          "Se recomandă insistent purtarea unei căști de protecție.",
+          "Luați cu dumneavoastră un lacăt pentru a vă asigura bicicleta.",
+          "Plevna are câteva dealuri, fiți pregătit pentru urcușuri."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "A helmet is strongly recommended.",
+          "Bring a lock to secure your bike.",
+          "Pleven has some hills, be prepared for inclines."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mausoleum St. Georg",
+            "hu": "Szent György győztes mauzóleum-kápolna",
+            "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
+            "en": "St. George the Conqueror Mausoleum"
+          },
+          "coords": [
+            24.618,
+            43.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und beginnen Sie hier Ihren Rundgang.",
+            "hu": "Parkoljon a központ közelében, és innen kezdje a sétát.",
+            "ro": "Parcați în apropierea centrului și începeți turul de aici.",
+            "en": "Park near the center and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkaskade",
+            "hu": "Vízilépcső",
+            "ro": "Cascada de apă",
+            "en": "Water Cascade"
+          },
+          "coords": [
+            24.619,
+            43.414
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:42",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mausoleum aus.",
+            "hu": "Rövid séta a mauzóleumtól.",
+            "ro": "O scurtă plimbare de la mausoleu.",
+            "en": "A short walk from the mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            24.622,
+            43.416
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im selben Fußgängercluster wie das Mausoleum.",
+            "hu": "A múzeum ugyanabban a sétálóklaszterben található, mint a mauzóleum.",
+            "ro": "Muzeul este situat în același cluster pietonal ca și mausoleul.",
+            "en": "The museum is in the same walking cluster as the mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama Pleven",
+            "hu": "Pleveni panoráma 1877",
+            "ro": "Panorama din Plevna 1877",
+            "en": "Pleven Panorama 1877"
+          },
+          "coords": [
+            24.606,
+            43.405
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Panorama und parken Sie dort. Es ist der Beginn des zweiten Clusters.",
+            "hu": "Vezessen a panorámához és parkoljon le. Ez a második klaszter kezdete.",
+            "ro": "Conduceți la Panoramă și parcați acolo. Este începutul celui de-al doilea cluster.",
+            "en": "Drive to the Panorama and park there. It's the start of the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Skobelev-Park",
+            "hu": "Szkobelev park",
+            "ro": "Parcul Skobelev",
+            "en": "Skobelev Park"
+          },
+          "coords": [
+            24.605,
+            43.404
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt neben dem Panorama gelegen, ideal für einen Verdauungsspaziergang.",
+            "hu": "Közvetlenül a panoráma mellett található, ideális egy emésztő sétához.",
+            "ro": "Situat chiar lângă Panoramă, ideal pentru o plimbare digestivă.",
+            "en": "Located right next to the Panorama, ideal for a digestive walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaylaka-Park",
+            "hu": "Kajlaka park",
+            "ro": "Parcul Kaylaka",
+            "en": "Kaylaka Park"
+          },
+          "coords": [
+            24.62,
+            43.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:52",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kaylaka-Park, einem großen Erholungsgebiet südlich der Stadt.",
+            "hu": "Vezessen a Kajlaka parkba, egy nagy üdülőterületre a várostól délre.",
+            "ro": "Conduceți spre Parcul Kaylaka, o zonă mare de agrement la sud de oraș.",
+            "en": "Drive to Kaylaka Park, a large recreational area south of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            24.615,
+            43.385
+          ],
+          "category": "museums",
+          "arrive_at": "16:28",
+          "stay_min": 37,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Kaylaka-Park, ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "A múzeum a Kajlaka parkban található, rövid sétára a parkolótól.",
+            "ro": "Muzeul este situat în Parcul Kaylaka, la o scurtă plimbare de parcare.",
+            "en": "The museum is located within Kaylaka Park, a short walk from the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Plewen beginnt mit dem Parken im Stadtzentrum (Cluster 1), von wo aus Sie das Mausoleum, die Kaskaden und das Historische Museum zu Fuß erkunden. Am Vormittag fahren Sie zum zweiten Cluster auf dem Panorama-Hügel, wo das epische Gemälde und der Skobelev-Park auf Sie warten. Nach dem Mittagessen führt Sie eine letzte Fahrt in den Süden zum riesigen Kaylaka-Park (Cluster 3). Dort schlendern Sie zwischen Seen und Felsen zum einzigartigen Weinmuseum, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Pleveni autós napja a belvárosban (1. klaszter) való parkolással kezdődik, ahonnan gyalogosan fedezi fel a mauzóleumot, a vízlépcsőt és a Történeti Múzeumot. Délelőtt a második klaszterhez, a Panoráma-dombhoz hajt, ahol az epikus festmény és a Szkobelev park várja. Ebéd után egy utolsó út délre, a hatalmas Kajlaka parkba (3. klaszter) vezet. Ott tavak és sziklák között sétál el a különleges Bormúzeumig, hogy lazán zárja a napot.",
+        "ro": "Ziua dumneavoastră cu mașina în Plevna începe cu parcarea în centrul orașului (Cluster 1), de unde explorați pe jos Mausoleul, Cascadele și Muzeul de Istorie. Dimineața, conduceți spre al doilea cluster, pe dealul Panorama, unde vă așteaptă pictura epică și Parcul Skobelev. După prânz, un ultim drum vă duce spre sud, la imensul Parc Kaylaka (Cluster 3). Acolo, vă plimbați printre lacuri și stânci până la unicul Muzeu al Vinului pentru a încheia ziua într-un mod relaxat.",
+        "en": "Your car day in Pleven starts by parking in the city center (Cluster 1), from where you'll explore the Mausoleum, the Cascades, and the Historical Museum on foot. In the morning, you drive to the second cluster on Panorama Hill, where the epic painting and Skobelev Park await. After lunch, a final drive takes you south to the vast Kaylaka Park (Cluster 3). There, you'll stroll among lakes and rocks to the unique Wine Museum to end the day in a relaxed fashion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Probieren Sie Kebapche oder Kyufte, gewürzte Hackfleischröllchen oder -frikadellen. Viele Restaurants im Kaylaka-Park bieten dies an."
+          },
+          {
+            "name": "Lyutenitsa",
+            "tip": "Ein würziger Aufstrich aus Paprika und Tomaten, der oft als Beilage serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett húsok (Skara)",
+            "tip": "Kóstolja meg a kebapcsét vagy a kjúftét, a fűszeres darált húsrudakat vagy -gombócokat. Számos étterem kínálja ezt a Kajlaka parkban."
+          },
+          {
+            "name": "Ljutenica",
+            "tip": "Fűszeres paprika- és paradicsomkrém, amelyet gyakran köretként szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Încercați Kebapche sau Kyufte, rulouri sau chiftele din carne tocată condimentată. Multe restaurante din Parcul Kaylaka oferă acest fel de mâncare."
+          },
+          {
+            "name": "Lutenitsa",
+            "tip": "O pastă picantă din ardei și roșii, adesea servită ca garnitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled meat (Skara)",
+            "tip": "Try Kebapche or Kyufte, seasoned minced meat rolls or patties. Many restaurants in Kaylaka Park offer this."
+          },
+          {
+            "name": "Lyutenitsa",
+            "tip": "A savory spread made from peppers and tomatoes, often served as a side."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Ecken im Kaylaka-Park",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt in der Nähe des Panoramas",
+            "tip": "Nach dem Museumsbesuch können Sie die Aussicht in Ruhe genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett zugok a Kajlaka parkban",
+            "tip": "A fő ösvényektől távol csendes helyeket talál a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Panoráma közelében",
+            "tip": "A múzeumlátogatás után csendben élvezheti a kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțuri ascunse în Parcul Kaylaka",
+            "tip": "Departe de potecile principale, veți găsi locuri liniștite lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere lângă Panoramă",
+            "tip": "După vizitarea muzeului, vă puteți bucura de priveliște în liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden corners in Kaylaka Park",
+            "tip": "Away from the main paths, you'll find quiet spots by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint near the Panorama",
+            "tip": "After visiting the museum, you can enjoy the view in peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik",
+            "tip": "Achten Sie auf handgefertigte Keramik im traditionellen bulgarischen Stil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Keresse a hagyományos bolgár stílusú, kézzel készített kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Căutați ceramică lucrată manual în stil tradițional bulgăresc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics",
+            "tip": "Look for handmade ceramics in the traditional Bulgarian style."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein, suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar zurück.",
+          "Die Straßen im Kaylaka-Park können eng sein, fahren Sie vorsichtig.",
+          "Ein GPS ist für die Navigation zwischen den Clustern sehr zu empfehlen."
+        ],
+        "hu": [
+          "A belvárosi parkolás nehézkes lehet, keressen kijelölt parkolóhelyeket.",
+          "Ne hagyjon értékeket látható helyen az autóban.",
+          "A Kajlaka park útjai szűkek lehetnek, vezessen óvatosan.",
+          "GPS használata erősen ajánlott a klaszterek közötti navigációhoz."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă, căutați parcări amenajate.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Drumurile din Parcul Kaylaka pot fi înguste, conduceți cu prudență.",
+          "Un GPS este foarte recomandat pentru navigarea între clustere."
+        ],
+        "en": [
+          "Parking in the city center can be difficult, look for designated parking areas.",
+          "Do not leave valuables visible in the car.",
+          "The roads in Kaylaka Park can be narrow, drive carefully.",
+          "A GPS is highly recommended for navigating between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mausoleum St. Georg",
+            "hu": "Szent György győztes mauzóleum-kápolna",
+            "ro": "Mausoleul Sfântul Gheorghe Biruitorul",
+            "en": "St. George the Conqueror Mausoleum"
+          },
+          "coords": [
+            24.618,
+            43.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder Trolleybus zum zentralen Platz (Vazrazhdane).",
+            "hu": "Menjen busszal vagy trolibusszal a központi (Vazrazsdane) térre.",
+            "ro": "Luați un autobuz sau troleibuz până în piața centrală (Vazrazhdane).",
+            "en": "Take a bus or trolleybus to the central (Vazrazhdane) square."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkaskade",
+            "hu": "Vízilépcső",
+            "ro": "Cascada de apă",
+            "en": "Water Cascade"
+          },
+          "coords": [
+            24.619,
+            43.414
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:42",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Alles im zentralen Cluster ist leicht zu Fuß erreichbar.",
+            "hu": "A központi klaszterben minden könnyen elérhető gyalog.",
+            "ro": "Totul în clusterul central este ușor accesibil pe jos.",
+            "en": "Everything in the central cluster is easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Regionális Történeti Múzeum",
+            "ro": "Muzeul Regional de Istorie",
+            "en": "Regional Historical Museum"
+          },
+          "coords": [
+            24.622,
+            43.416
+          ],
+          "category": "museums",
+          "arrive_at": "10:08",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der letzte Halt im ersten Fußgängercluster, bevor es weitergeht.",
+            "hu": "Az első sétálóklaszter utolsó állomása, mielőtt továbbmennénk.",
+            "ro": "Ultima oprire din primul cluster pietonal înainte de a merge mai departe.",
+            "en": "The last stop in the first walking cluster before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama Pleven",
+            "hu": "Pleveni panoráma 1877",
+            "ro": "Panorama din Plevna 1877",
+            "en": "Pleven Panorama 1877"
+          },
+          "coords": [
+            24.606,
+            43.405
+          ],
+          "category": "museums",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus in Richtung Skobelev Park, um zum zweiten Cluster zu gelangen.",
+            "hu": "Menjen trolibusszal a Szkobelev park irányába, hogy eljusson a második klaszterbe.",
+            "ro": "Luați un troleibuz spre Parcul Skobelev pentru a ajunge la al doilea cluster.",
+            "en": "Take a trolleybus towards Skobelev Park to get to the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Skobelev-Park",
+            "hu": "Szkobelev park",
+            "ro": "Parcul Skobelev",
+            "en": "Skobelev Park"
+          },
+          "coords": [
+            24.605,
+            43.404
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:48",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Park umgibt das Panorama und ist ein Ort der Geschichte und Ruhe.",
+            "hu": "A park körülveszi a panorámát, és a történelem és a nyugalom helye.",
+            "ro": "Parcul înconjoară Panorama și este un loc de istorie și liniște.",
+            "en": "The park surrounds the Panorama and is a place of history and tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaylaka-Park",
+            "hu": "Kajlaka park",
+            "ro": "Parcul Kaylaka",
+            "en": "Kaylaka Park"
+          },
+          "coords": [
+            24.62,
+            43.38
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 110,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Süden, um dieses riesige Naturgebiet zu erreichen.",
+            "hu": "Menjen busszal dél felé, hogy elérje ezt a hatalmas természeti területet.",
+            "ro": "Luați un autobuz spre sud pentru a ajunge la această zonă naturală vastă.",
+            "en": "Take a bus heading south to reach this vast natural area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Plewen beginnt im Stadtzentrum (Cluster 1), das Sie mit dem Bus erreichen und wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erkunden. Am Vormittag bringt Sie ein Trolleybus zum Panorama-Hügel (Cluster 2) für eine Dosis Geschichte und einen Spaziergang im Skobelev-Park. Der Nachmittag ist für eine längere Busfahrt zum weitläufigen Kaylaka-Park (Cluster 3) reserviert, einem perfekten Ort, um in die Natur einzutauchen und den Tag abseits des städtischen Trubels ausklingen zu lassen.",
+        "hu": "Tömegközlekedéssel töltött pleveni napja a buszokkal elérhető városközpontban (1. klaszter) kezdődik, ahol gyalogosan fedezi fel a főbb látnivalókat. Délelőtt egy trolibusz viszi fel a Panoráma-dombra (2. klaszter), ahol egy adag történelem és egy séta vár a Szkobelev parkban. A délután egy hosszabb buszútra van fenntartva a tágas Kajlaka parkba (3. klaszter), amely tökéletes hely a természetben való elmerüléshez és a nap befejezéséhez a városi nyüzsgéstől távol.",
+        "ro": "Ziua dumneavoastră cu transportul public în Plevna începe în centrul orașului (Cluster 1), accesibil cu autobuzul, unde explorați principalele atracții pe jos. Dimineața, un troleibuz vă duce pe Dealul Panorama (Cluster 2) pentru o doză de istorie și o plimbare în Parcul Skobelev. După-amiaza este rezervată pentru o călătorie mai lungă cu autobuzul până la vastul Parc Kaylaka (Cluster 3), un loc perfect pentru a vă cufunda în natură și a încheia ziua departe de agitația orașului.",
+        "en": "Your day using public transport in Pleven begins in the city center (Cluster 1), reachable by bus, where you'll explore the main sights on foot. In the morning, a trolleybus takes you to Panorama Hill (Cluster 2) for a dose of history and a walk in Skobelev Park. The afternoon is reserved for a longer bus ride to the expansive Kaylaka Park (Cluster 3), a perfect place to immerse yourself in nature and end the day away from the urban hustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gegarter Eintopf aus Schweine- oder Hühnerfleisch und Gemüse, oft in einem Tontopf serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főzött sertés- vagy csirkehúsos-zöldséges ragu, gyakran agyagedényben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "O tocană de porc sau pui gătită lent cu legume, adesea servită într-un vas de lut."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked pork or chicken and vegetable stew, often served in a clay pot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Spaziergang entlang des Flusses Vit",
+            "tip": "Wenn Sie Zeit haben, bietet der Fluss außerhalb des Zentrums eine ruhige Umgebung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Vit folyó mentén",
+            "tip": "Ha van ideje, a központon kívüli folyópart csendes környezetet kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare de-a lungul râului Vit",
+            "tip": "Dacă aveți timp, râul din afara centrului oferă un cadru liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A walk along the Vit River",
+            "tip": "If you have time, the river outside the center offers a quiet setting.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt (Tsentralen Pazar)",
+            "tip": "Erleben Sie das lokale Leben und finden Sie frische Produkte und traditionelle Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac (Centralen Pazar)",
+            "tip": "Tapasztalja meg a helyi életet, és találjon friss termékeket és hagyományos árukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Tsentralen Pazar)",
+            "tip": "Experimentați viața locală și găsiți produse proaspete și mărfuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market (Tsentralen Pazar)",
+            "tip": "Experience local life and find fresh produce and traditional goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, wenn Sie mehrere Fahrten planen.",
+          "Die Fahrpläne können unregelmäßig sein, planen Sie also etwas Pufferzeit ein.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind.",
+          "Beachten Sie, dass die Busse abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, ha több utazást tervez.",
+          "A menetrendek szabálytalanok lehetnek, ezért tervezzen némi pufferidőt.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, ha bizonytalan.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public dacă plănuiți mai multe călătorii.",
+          "Orarele pot fi neregulate, așa că lăsați-vă timp suplimentar.",
+          "Întrebați localnicii despre linia de autobuz corectă dacă nu sunteți sigur.",
+          "Rețineți că autobuzele circulă mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for public transport if you plan on making multiple trips.",
+          "Schedules can be irregular, so allow for some buffer time.",
+          "Ask locals for the correct bus line if you are unsure.",
+          "Be aware that buses run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

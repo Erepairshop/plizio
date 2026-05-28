@@ -1,0 +1,1604 @@
+{
+  "city_id": "uk-aberdeen-cities-v2",
+  "anchor": {
+    "name": "Aberdeen",
+    "coords": [
+      -2.0943,
+      57.1497
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Union Terrace Gärten",
+            "hu": "Union Terrace kertek",
+            "ro": "Grădinile Union Terrace",
+            "en": "Union Terrace Gardens"
+          },
+          "coords": [
+            -2.1025,
+            57.1465
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Spaziergang durch diese viktorianischen Gärten im Herzen der Stadt.",
+            "hu": "Kezdje a napot egy sétával ebben a viktoriánus kertben, a város szívében.",
+            "ro": "Începeți ziua cu o plimbare prin aceste grădini victoriene din inima orașului.",
+            "en": "Start your day with a stroll through these sunken Victorian gardens in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Kunstgalerie",
+            "hu": "Aberdeen Művészeti Galéria",
+            "ro": "Galeria de Artă Aberdeen",
+            "en": "Aberdeen Art Gallery"
+          },
+          "coords": [
+            -2.1001,
+            57.1482
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben den Gärten gelegen, beherbergt sie eine beeindruckende Sammlung.",
+            "hu": "A kertek mellett található, lenyűgöző gyűjteménynek ad otthont.",
+            "ro": "Situată chiar lângă grădini, găzduiește o colecție impresionantă.",
+            "en": "Located right next to the gardens, it hosts an impressive collection of artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Marischal College",
+            "hu": "Marischal College",
+            "ro": "Colegiul Marischal",
+            "en": "Marischal College"
+          },
+          "coords": [
+            -2.0945,
+            57.1492
+          ],
+          "category": "monuments",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Granitfassade, ein Meisterwerk der gotischen Architektur.",
+            "hu": "Csodálja meg a lenyűgöző gránit homlokzatot, a gótikus építészet remekét.",
+            "ro": "Admirați fațada impunătoare de granit, o capodoperă a arhitecturii gotice.",
+            "en": "Admire the stunning granite facade, a masterpiece of Gothic revival architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Provost Skene",
+            "hu": "Provost Skene háza",
+            "ro": "Casa Provost Skene",
+            "en": "Provost Skene's House"
+          },
+          "coords": [
+            -2.0958,
+            57.1485
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Treten Sie ein in die Geschichte in diesem Stadthaus aus dem 16. Jahrhundert.",
+            "hu": "Lépjen be a történelembe ebben a 16. századi városi házban.",
+            "ro": "Pășește în istorie în această casă orășenească din secolul al XVI-lea.",
+            "en": "Step back in time at this 16th-century townhouse, now a museum of local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Schifffahrtsmuseum",
+            "hu": "Aberdeen Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Aberdeen",
+            "en": "Aberdeen Maritime Museum"
+          },
+          "coords": [
+            -2.0935,
+            57.1475
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über Aberdeens lange Beziehung zum Meer, von der Fischerei bis zum Öl.",
+            "hu": "Ismerje meg Aberdeen tengerrel való kapcsolatát, a halászattól az olajig.",
+            "ro": "Descoperiți relația lungă a orașului Aberdeen cu marea, de la pescuit la petrol.",
+            "en": "Learn about Aberdeen's long relationship with the sea, from fishing to oil."
+          }
+        },
+        {
+          "name": {
+            "de": "Footdee (Fittie)",
+            "hu": "Footdee (Fittie)",
+            "ro": "Footdee (Fittie)",
+            "en": "Footdee (Fittie)"
+          },
+          "coords": [
+            -2.081,
+            57.144
+          ],
+          "category": "old-town",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einzigartiges ehemaliges Fischerdorf an der Mündung des Hafens.",
+            "hu": "Egyedi, régi halászfalu a kikötő torkolatánál.",
+            "ro": "Un fost sat pescăresc unic la gura portului.",
+            "en": "A unique former fishing village at the mouth of the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen",
+            "hu": "Vacsora a kikötőben",
+            "ro": "Cină în port",
+            "en": "Dinner at the Harbour"
+          },
+          "coords": [
+            -2.088,
+            57.146
+          ],
+          "category": "gastro",
+          "arrive_at": "17:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte mit Blick auf die Boote.",
+            "hu": "Élvezze a friss tengeri ételeket a hajók látványával.",
+            "ro": "Bucurați-vă de fructe de mare proaspete cu vedere la bărci.",
+            "en": "Enjoy some fresh seafood with a view of the boats. A perfect end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in den ruhigen Union Terrace Gardens, bevor Sie in die Welt der Kunst in der Aberdeen Art Gallery eintauchen. Am Mittag erkunden Sie das Herz der 'Granite City' rund um das Marischal College und das historische Provost Skene's House. Der Nachmittag ist Aberdeens maritimer Seele gewidmet, mit einem Besuch des Schifffahrtsmuseums und einem Spaziergang durch das charmante Fischerdorf Footdee. Der Tag endet mit einem köstlichen Meeresfrüchte-Abendessen am belebten Hafen und fängt die Essenz von Aberdeens reichem Erbe ein.",
+        "hu": "A nap a csendes Union Terrace Gardensben kezdődik, mielőtt elmerülne a művészet világában az Aberdeen Art Galleryben. Délben fedezze fel a 'Gránitváros' szívét a Marischal College és a történelmi Provost Skene's House környékén. A délután Aberdeen tengeri lelkének van szentelve, a Tengerészeti Múzeum meglátogatásával és egy sétával a bájos Footdee halászfaluban. A nap egy finom tengeri vacsorával zárul a nyüzsgő kikötőben, megragadva Aberdeen gazdag örökségének lényegét.",
+        "ro": "Ziua dvs. începe în liniștitele Grădini Union Terrace înainte de a vă cufunda în lumea artei la Galeria de Artă Aberdeen. La amiază, explorați inima 'Orașului de Granit' în jurul Colegiului Marischal și a Casei istorice Provost Skene. După-amiaza este dedicată sufletului maritim al Aberdeenului, cu o vizită la Muzeul Maritim și o plimbare prin fermecătorul sat pescăresc Footdee. Ziua se încheie cu o cină delicioasă cu fructe de mare în portul plin de viață, capturând esența bogatei moșteniri a Aberdeenului.",
+        "en": "Your day begins in the tranquil Union Terrace Gardens before diving into the world of art at the Aberdeen Art Gallery. By midday, you'll explore the heart of the 'Granite City' around Marischal College and the historic Provost Skene's House. The afternoon is dedicated to Aberdeen's maritime soul, with a visit to the Maritime Museum and a stroll through the charming fishing village of Footdee. The day concludes with a delicious seafood dinner at the bustling harbour, capturing the essence of Aberdeen's rich heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine traditionelle, cremige Suppe mit geräuchertem Schellfisch. Ein Muss!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Probieren Sie das weltberühmte Rindfleisch in seinem Heimatort."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Am besten frisch am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Hagyományos, krémes füstölt tőkehal leves. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Aberdeen Angus steak",
+            "tip": "Kóstolja meg a világhírű marhahúst a származási helyén."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A legjobb frissen a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă tradițională, cremoasă, de eglefin afumat. Trebuie încercată!"
+          },
+          {
+            "name": "Friptură Aberdeen Angus",
+            "tip": "Gustați faimoasa carne de vită în locul său de origine."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Cel mai bun proaspăt, savurat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cullen Skink",
+            "tip": "A traditional creamy smoked haddock soup. A must-try local delicacy!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Sample the world-famous beef in its place of origin."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Best enjoyed fresh by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Aberdeen",
+            "tip": "Ein langer Spaziergang am Sandstrand kann sehr beruhigend sein.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Finden Sie Ruhe in dieser alten Kathedrale und ihrem Friedhof.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Entfliehen Sie in die David Welch Winter Gardens für eine tropische Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aberdeen strandja",
+            "tip": "Egy hosszú séta a homokos parton nagyon megnyugtató lehet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar-székesegyház",
+            "tip": "Találjon békét ebben a régi katedrálisban és a temetőjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Meneküljön a David Welch Téli Kertekbe egy trópusi szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Aberdeen",
+            "tip": "O plimbare lungă de-a lungul plajei de nisip poate fi foarte liniștitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedrala St. Machar",
+            "tip": "Găsiți liniște în această catedrală veche și în cimitirul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Duthie",
+            "tip": "Evadați în Grădinile de Iarnă David Welch pentru o pauză tropicală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aberdeen Beach",
+            "tip": "A long walk along the sandy beach can be very calming.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Find peace and quiet within this ancient cathedral and its kirkyard.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Escape to the David Welch Winter Gardens for a tropical break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belmont Street",
+            "tip": "Entdecken Sie unabhängige Boutiquen und einzigartige Geschäfte."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belmont Street",
+            "tip": "Fedezze fel a független butikokat és egyedi üzleteket."
+          },
+          {
+            "name": "Aberdeeni vásár",
+            "tip": "Ha vásárnapon érkezik, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Belmont",
+            "tip": "Descoperiți buticuri independente și magazine unice."
+          },
+          {
+            "name": "Târgul de țară Aberdeen",
+            "tip": "Dacă sunteți aici într-o zi de piață, găsiți produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belmont Street",
+            "tip": "Explore independent boutiques and unique shops for souvenirs."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Das Wetter kann sich schnell ändern, also nehmen Sie eine wasserdichte Jacke mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Viele zentrale Sehenswürdigkeiten sind zu Fuß erreichbar, nutzen Sie also den Tag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "Az időjárás gyorsan változhat, ezért vigyen magával vízálló kabátot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Sok központi látnivaló gyalogosan is elérhető, használja ki a napot."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe pavaj.",
+          "Vremea se poate schimba rapid, așa că luați o jachetă impermeabilă.",
+          "Verificați în avans orele de deschidere ale muzeelor.",
+          "Multe atracții centrale sunt la distanță de mers pe jos, așa că profitați la maximum de zi."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking on cobbled streets.",
+          "The weather can change quickly, so pack a waterproof jacket.",
+          "Check museum opening times in advance, especially for smaller venues.",
+          "Many central sights are within a short walk of each other, make the most of it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Duthie Park",
+            "hu": "Duthie Park",
+            "ro": "Parcul Duthie",
+            "en": "Duthie Park"
+          },
+          "coords": [
+            -2.105,
+            57.132
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie am Fluss und erkunden Sie die Wintergärten.",
+            "hu": "Kezdje a folyónál, és fedezze fel a télikerteket.",
+            "ro": "Începeți de lângă râu și explorați grădinile de iarnă.",
+            "en": "Start your ride by the river and explore the beautiful winter gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Footdee (Fittie)",
+            "hu": "Footdee (Fittie)",
+            "ro": "Footdee (Fittie)",
+            "en": "Footdee (Fittie)"
+          },
+          "coords": [
+            -2.081,
+            57.144
+          ],
+          "category": "old-town",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Hafens zu diesem charmanten Ort.",
+            "hu": "Tekerjen végig a kikötő mentén ehhez a bájos helyhez.",
+            "ro": "Pedalați de-a lungul portului până la acest loc fermecător.",
+            "en": "Cycle along the harbour front to this charming community."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Schifffahrtsmuseum",
+            "hu": "Aberdeen Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Aberdeen",
+            "en": "Aberdeen Maritime Museum"
+          },
+          "coords": [
+            -2.0935,
+            57.1475
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie in die Meeresgeschichte ein.",
+            "hu": "Zárja le a biciklit, és merüljön el a tengerészeti történelemben.",
+            "ro": "Parcați-vă bicicleta și scufundați-vă în istoria maritimă.",
+            "en": "Park your bike and dive into the city's maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Marischal College",
+            "hu": "Marischal College",
+            "ro": "Colegiul Marischal",
+            "en": "Marischal College"
+          },
+          "coords": [
+            -2.0945,
+            57.1492
+          ],
+          "category": "monuments",
+          "arrive_at": "13:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Granit-Architektur zu bestaunen.",
+            "hu": "Egy gyors megálló, hogy megcsodálja a gránit építészetet.",
+            "ro": "O oprire scurtă pentru a admira arhitectura de granit.",
+            "en": "A quick stop to marvel at the granite architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Aberdeen",
+            "hu": "Old Aberdeen",
+            "ro": "Vechiul Aberdeen",
+            "en": "Old Aberdeen"
+          },
+          "coords": [
+            -2.098,
+            57.164
+          ],
+          "category": "old-town",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden, um die Kopfsteinpflasterstraßen der ursprünglichen Stadt zu erkunden.",
+            "hu": "Tekerjen északra, hogy felfedezze az eredeti város macskaköves utcáit.",
+            "ro": "Pedalați spre nord pentru a explora străzile pietruite ale orașului original.",
+            "en": "Cycle north to explore the cobbled streets of the original city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Machar's Cathedral",
+            "hu": "St. Machar-székesegyház",
+            "ro": "Catedrala Sf. Machar",
+            "en": "St. Machar's Cathedral"
+          },
+          "coords": [
+            -2.102,
+            57.166
+          ],
+          "category": "cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende Kathedrale mit ihrer einzigartigen Wappendecke.",
+            "hu": "Látogassa meg a lenyűgöző katedrálist egyedi, címerekkel díszített mennyezetével.",
+            "ro": "Vizitați catedrala impresionantă, cu tavanul său heraldic unic.",
+            "en": "Visit the impressive cathedral with its unique heraldic ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Brig o' Balgownie",
+            "hu": "Brig o' Balgownie",
+            "ro": "Podul Balgownie",
+            "en": "Brig o' Balgownie"
+          },
+          "coords": [
+            -2.103,
+            57.172
+          ],
+          "category": "bridges",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser malerischen, alten Brücke.",
+            "hu": "Fejezze be a túrát ennél a festői, régi hídnál.",
+            "ro": "Încheiați turul la acest pod vechi și pitoresc.",
+            "en": "End your tour at this picturesque and ancient bridge, a perfect photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im grünen Duthie Park und folgt dem Wasser zum historischen Fischerdorf Footdee. Am Mittag führt Sie Ihre Route ins Stadtzentrum, wo Sie das maritime Erbe im Schifffahrtsmuseum entdecken und das glitzernde Granit des Marischal College bewundern können. Der Nachmittag ist eine Reise in die Vergangenheit, während Sie durch die Kopfsteinpflasterstraßen von Old Aberdeen radeln, die St. Machar's Cathedral besuchen und Ihre Tour an der alten Brig o' Balgownie beenden. Diese Route verbindet Aberdeens grüne Lungen mit seiner reichen Geschichte.",
+        "hu": "A kerékpártúra a zöld Duthie Parkban kezdődik, és a vizet követi a történelmi Footdee halászfaluig. Délben az útvonal a városközpontba vezet, ahol felfedezheti a tengerészeti örökséget a Tengerészeti Múzeumban, és megcsodálhatja a Marischal College csillogó gránitját. A délután egy utazás a múltba, ahogy Old Aberdeen macskaköves utcáin kerékpározik, meglátogatja a St. Machar-székesegyházat, és a túrát az ősi Brig o' Balgownie-nál fejezi be. Ez az útvonal összeköti Aberdeen zöld területeit gazdag történelmével.",
+        "ro": "Turul dvs. cu bicicleta începe în Parcul Duthie și urmează apa până la satul pescăresc istoric Footdee. La prânz, traseul vă duce în centrul orașului pentru a explora moștenirea maritimă la Muzeul Maritim și pentru a admira granitul strălucitor al Colegiului Marischal. După-amiaza este o călătorie înapoi în timp, pedalând pe străzile pietruite din Vechiul Aberdeen, vizitând Catedrala St. Machar și încheind turul la vechiul pod Brig o' Balgownie. Acest traseu îmbină spațiile verzi ale Aberdeenului cu istoria sa bogată.",
+        "en": "Your cycling tour starts in the leafy Duthie Park, following the water to the historic fishing village of Footdee. By midday, your route takes you into the city centre to explore the maritime heritage at the Maritime Museum and admire the glistening granite of Marischal College. The afternoon is a journey back in time as you pedal the cobbled streets of Old Aberdeen, visit St. Machar's Cathedral, and finish your tour at the ancient Brig o' Balgownie. This route blends Aberdeen's green spaces with its rich history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine traditionelle, cremige Suppe mit geräuchertem Schellfisch. Ein Muss!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Probieren Sie das weltberühmte Rindfleisch in seinem Heimatort."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Am besten frisch am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Hagyományos, krémes füstölt tőkehal leves. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Aberdeen Angus steak",
+            "tip": "Kóstolja meg a világhírű marhahúst a származási helyén."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A legjobb frissen a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă tradițională, cremoasă, de eglefin afumat. Trebuie încercată!"
+          },
+          {
+            "name": "Friptură Aberdeen Angus",
+            "tip": "Gustați faimoasa carne de vită în locul său de origine."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Cel mai bun proaspăt, savurat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cullen Skink",
+            "tip": "A traditional creamy smoked haddock soup. A must-try local delicacy!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Sample the world-famous beef in its place of origin."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Best enjoyed fresh by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Aberdeen",
+            "tip": "Ein langer Spaziergang am Sandstrand kann sehr beruhigend sein.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Finden Sie Ruhe in dieser alten Kathedrale und ihrem Friedhof.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Entfliehen Sie in die David Welch Winter Gardens für eine tropische Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aberdeen strandja",
+            "tip": "Egy hosszú séta a homokos parton nagyon megnyugtató lehet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar-székesegyház",
+            "tip": "Találjon békét ebben a régi katedrálisban és a temetőjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Meneküljön a David Welch Téli Kertekbe egy trópusi szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Aberdeen",
+            "tip": "O plimbare lungă de-a lungul plajei de nisip poate fi foarte liniștitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedrala St. Machar",
+            "tip": "Găsiți liniște în această catedrală veche și în cimitirul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Duthie",
+            "tip": "Evadați în Grădinile de Iarnă David Welch pentru o pauză tropicală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aberdeen Beach",
+            "tip": "A long walk along the sandy beach can be very calming.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Find peace and quiet within this ancient cathedral and its kirkyard.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Escape to the David Welch Winter Gardens for a tropical break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belmont Street",
+            "tip": "Entdecken Sie unabhängige Boutiquen und einzigartige Geschäfte."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belmont Street",
+            "tip": "Fedezze fel a független butikokat és egyedi üzleteket."
+          },
+          {
+            "name": "Aberdeeni vásár",
+            "tip": "Ha vásárnapon érkezik, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Belmont",
+            "tip": "Descoperiți buticuri independente și magazine unice."
+          },
+          {
+            "name": "Târgul de țară Aberdeen",
+            "tip": "Dacă sunteți aici într-o zi de piață, găsiți produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belmont Street",
+            "tip": "Explore independent boutiques and unique shops for souvenirs."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Nutzen Sie die Radwege entlang des Flusses Dee und des Don.",
+          "Schließen Sie Ihr Fahrrad an sicheren Orten ab.",
+          "Nehmen Sie Wasser und Snacks für die längeren Strecken mit."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Használja a Dee és a Don folyók menti kerékpárutakat.",
+          "Biztonságos helyen zárja le a kerékpárt.",
+          "Vigyen vizet és rágcsálnivalót a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți pistele de biciclete de-a lungul râurilor Dee și Don.",
+          "Asigurați-vă bicicleta în locuri sigure.",
+          "Luați apă și gustări pentru porțiunile mai lungi."
+        ],
+        "en": [
+          "Check your bike before you set off, especially the tires and brakes.",
+          "Utilise the cycle paths along the River Dee and Don for scenic routes.",
+          "Lock your bike securely when visiting attractions.",
+          "Carry water and some snacks for the longer cycling stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Old Aberdeen",
+            "hu": "Old Aberdeen klaszter",
+            "ro": "Grupul Vechiul Aberdeen",
+            "en": "Old Aberdeen Cluster"
+          },
+          "coords": [
+            -2.098,
+            57.164
+          ],
+          "category": "cluster",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Kathedrale und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a katedrális közelében, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați lângă catedrală și explorați pe jos.",
+            "en": "Park near the Cathedral and explore this historic area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Machar's Cathedral",
+            "hu": "St. Machar-székesegyház",
+            "ro": "Catedrala Sf. Machar",
+            "en": "St. Machar's Cathedral"
+          },
+          "coords": [
+            -2.102,
+            57.166
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt in Old Aberdeen.",
+            "hu": "Az első megálló Old Aberdeenben.",
+            "ro": "Prima oprire în Vechiul Aberdeen.",
+            "en": "Your first stop in the Old Aberdeen cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Brig o' Balgownie",
+            "hu": "Brig o' Balgownie",
+            "ro": "Podul Balgownie",
+            "en": "Brig o' Balgownie"
+          },
+          "coords": [
+            -2.103,
+            57.172
+          ],
+          "category": "bridges",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kathedrale zu dieser alten Brücke.",
+            "hu": "Rövid séta a katedrálistól ehhez a régi hídhoz.",
+            "ro": "O scurtă plimbare de la catedrală la acest pod vechi.",
+            "en": "A short walk from the cathedral to this ancient bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum",
+            "hu": "Városközpont klaszter",
+            "ro": "Grupul Centrul Orașului",
+            "en": "City Centre Cluster"
+          },
+          "coords": [
+            -2.0945,
+            57.1492
+          ],
+          "category": "cluster",
+          "arrive_at": "11:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen Parkplatz im Zentrum, z.B. bei der Union Square.",
+            "hu": "Keressen parkolót a központban, pl. a Union Square-nél.",
+            "ro": "Găsiți o parcare în centru, de ex. la Union Square.",
+            "en": "Find a central car park, e.g., near Union Square, for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Marischal College",
+            "hu": "Marischal College",
+            "ro": "Colegiul Marischal",
+            "en": "Marischal College"
+          },
+          "coords": [
+            -2.0945,
+            57.1492
+          ],
+          "category": "monuments",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Granitfassade nach dem Parken.",
+            "hu": "Csodálja meg a gránit homlokzatot parkolás után.",
+            "ro": "Admirați fațada de granit după ce ați parcat.",
+            "en": "Admire the granite facade after you've parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Kunstgalerie",
+            "hu": "Aberdeen Művészeti Galéria",
+            "ro": "Galeria de Artă Aberdeen",
+            "en": "Aberdeen Art Gallery"
+          },
+          "coords": [
+            -2.1001,
+            57.1482
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zur Kunst.",
+            "hu": "Rövid séta a művészethez.",
+            "ro": "O scurtă plimbare până la galerie.",
+            "en": "A short walk to get your dose of art and culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen",
+            "hu": "Kikötő klaszter",
+            "ro": "Grupul Portuar",
+            "en": "Harbour Cluster"
+          },
+          "coords": [
+            -2.088,
+            57.146
+          ],
+          "category": "cluster",
+          "arrive_at": "14:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen und parken Sie in der Nähe des Museums.",
+            "hu": "Vezessen a kikötőbe, és parkoljon a múzeum közelében.",
+            "ro": "Conduceți spre port și parcați lângă muzeu.",
+            "en": "Drive down to the harbour and park near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Schifffahrtsmuseum",
+            "hu": "Aberdeen Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Aberdeen",
+            "en": "Aberdeen Maritime Museum"
+          },
+          "coords": [
+            -2.0935,
+            57.1475
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Verbindung der Stadt zum Meer.",
+            "hu": "Ismerje meg a város tengerrel való kapcsolatát.",
+            "ro": "Aflați despre legătura orașului cu marea.",
+            "en": "Learn about the city's connection to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Footdee (Fittie)",
+            "hu": "Footdee (Fittie)",
+            "ro": "Footdee (Fittie)",
+            "en": "Footdee (Fittie)"
+          },
+          "coords": [
+            -2.081,
+            57.144
+          ],
+          "category": "old-town",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in diesem einzigartigen Fischerdorf.",
+            "hu": "Fejezze be a napot ebben az egyedülálló halászfaluban.",
+            "ro": "Încheiați ziua în acest sat pescăresc unic.",
+            "en": "End your day exploring this unique fishing community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag optimiert die Erkundung, indem er die Stadt in drei Cluster aufteilt. Der Morgen beginnt im historischen Old Aberdeen, wo Sie parken und zu Fuß die St. Machar's Cathedral und die malerische Brig o' Balgownie erkunden. Zur Mittagszeit fahren Sie ins Stadtzentrum, parken erneut und entdecken die Granitwunder des Marischal College und die Kunstschätze der Aberdeen Art Gallery. Der Nachmittag führt Sie hinunter zum Hafen, Ihrem letzten Parkstopp, um in das Schifffahrtsmuseum einzutauchen und durch das skurrile Dorf Footdee zu schlendern. Dieser Ansatz minimiert die Fahrzeit und maximiert das Erlebnis zu Fuß.",
+        "hu": "Az autós nap optimalizálja a felfedezést, három klaszterre osztva a várost. A reggel a történelmi Old Aberdeenben kezdődik, ahol leparkolva gyalogosan fedezheti fel a St. Machar-székesegyházat és a festői Brig o' Balgownie-t. Délidőben a városközpontba hajt, újra leparkol, és felfedezi a Marischal College gránitcsodáit és az Aberdeen Art Gallery műkincseit. A délután a kikötőbe vezet, az utolsó parkolóhelyre, hogy elmerüljön a Tengerészeti Múzeumban és sétáljon a furcsa Footdee faluban. Ez a megközelítés minimalizálja a vezetési időt és maximalizálja a gyalogos élményt.",
+        "ro": "Ziua dvs. cu mașina optimizează explorarea prin împărțirea orașului în trei grupuri. Dimineața începe în istoricul Vechi Aberdeen, parcând o dată pentru a explora pe jos Catedrala St. Machar și pitorescul pod Brig o' Balgownie. La prânz, conduceți spre centrul orașului, parcați din nou și descoperiți minunile de granit ale Colegiului Marischal și comorile de artă de la Galeria de Artă Aberdeen. După-amiaza vă duce în port, ultima oprire de parcare, pentru a vă cufunda în Muzeul Maritim și a vă plimba prin satul ciudat Footdee. Această abordare minimizează timpul la volan și maximizează experiența pietonală.",
+        "en": "Your car day optimizes exploration by splitting the city into three clusters. The morning starts in historic Old Aberdeen, parking once to explore St. Machar's Cathedral and the picturesque Brig o' Balgownie on foot. For midday, you'll drive to the city centre, park again, and discover the granite wonders of Marischal College and the art treasures at Aberdeen Art Gallery. The afternoon takes you down to the harbour, your final parking stop, to immerse yourself in the Maritime Museum and wander through the quirky village of Footdee. This approach minimises driving time and maximises on-the-ground experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine traditionelle, cremige Suppe mit geräuchertem Schellfisch. Ein Muss!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Probieren Sie das weltberühmte Rindfleisch in seinem Heimatort."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Am besten frisch am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Hagyományos, krémes füstölt tőkehal leves. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Aberdeen Angus steak",
+            "tip": "Kóstolja meg a világhírű marhahúst a származási helyén."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A legjobb frissen a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă tradițională, cremoasă, de eglefin afumat. Trebuie încercată!"
+          },
+          {
+            "name": "Friptură Aberdeen Angus",
+            "tip": "Gustați faimoasa carne de vită în locul său de origine."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Cel mai bun proaspăt, savurat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cullen Skink",
+            "tip": "A traditional creamy smoked haddock soup. A must-try local delicacy!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Sample the world-famous beef in its place of origin."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Best enjoyed fresh by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Aberdeen",
+            "tip": "Ein langer Spaziergang am Sandstrand kann sehr beruhigend sein.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Finden Sie Ruhe in dieser alten Kathedrale und ihrem Friedhof.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Entfliehen Sie in die David Welch Winter Gardens für eine tropische Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aberdeen strandja",
+            "tip": "Egy hosszú séta a homokos parton nagyon megnyugtató lehet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar-székesegyház",
+            "tip": "Találjon békét ebben a régi katedrálisban és a temetőjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Meneküljön a David Welch Téli Kertekbe egy trópusi szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Aberdeen",
+            "tip": "O plimbare lungă de-a lungul plajei de nisip poate fi foarte liniștitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedrala St. Machar",
+            "tip": "Găsiți liniște în această catedrală veche și în cimitirul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Duthie",
+            "tip": "Evadați în Grădinile de Iarnă David Welch pentru o pauză tropicală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aberdeen Beach",
+            "tip": "A long walk along the sandy beach can be very calming.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Find peace and quiet within this ancient cathedral and its kirkyard.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Escape to the David Welch Winter Gardens for a tropical break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belmont Street",
+            "tip": "Entdecken Sie unabhängige Boutiquen und einzigartige Geschäfte."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belmont Street",
+            "tip": "Fedezze fel a független butikokat és egyedi üzleteket."
+          },
+          {
+            "name": "Aberdeeni vásár",
+            "tip": "Ha vásárnapon érkezik, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Belmont",
+            "tip": "Descoperiți buticuri independente și magazine unice."
+          },
+          {
+            "name": "Târgul de țară Aberdeen",
+            "tip": "Dacă sunteți aici într-o zi de piață, găsiți produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belmont Street",
+            "tip": "Explore independent boutiques and unique shops for souvenirs."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-and-Ride-Möglichkeiten am Stadtrand.",
+          "Achten Sie auf Parkbeschränkungen und -gebühren im Stadtzentrum.",
+          "Das Fahren im Stadtzentrum kann während der Stoßzeiten langsam sein.",
+          "Planen Sie Ihre Cluster im Voraus, um das Beste aus Ihrem Tag zu machen."
+        ],
+        "hu": [
+          "Használja a Park and Ride lehetőségeket a város szélén.",
+          "Figyeljen a parkolási korlátozásokra és díjakra a központban.",
+          "A belvárosi vezetés csúcsidőben lassú lehet.",
+          "Tervezze meg előre a klasztereket, hogy a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Utilizați facilitățile Park and Ride de la periferia orașului.",
+          "Fiți atenți la restricțiile de parcare și la taxele din centrul orașului.",
+          "Condusul în centrul orașului poate fi lent în timpul orelor de vârf.",
+          "Planificați-vă grupurile în avans pentru a profita la maximum de zi."
+        ],
+        "en": [
+          "Use Park and Ride facilities on the outskirts of the city to avoid city centre driving.",
+          "Be aware of parking restrictions and fees in the city centre.",
+          "Driving in the city centre can be slow during peak hours.",
+          "Plan your clusters in advance to make the most of your day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum",
+            "hu": "Városközpont klaszter",
+            "ro": "Grupul Centrul Orașului",
+            "en": "City Centre Cluster"
+          },
+          "coords": [
+            -2.1001,
+            57.1482
+          ],
+          "category": "cluster",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie im Herzen der Stadt.",
+            "hu": "Kezdje a város szívében.",
+            "ro": "Începeți în inima orașului.",
+            "en": "Start in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Kunstgalerie",
+            "hu": "Aberdeen Művészeti Galéria",
+            "ro": "Galeria de Artă Aberdeen",
+            "en": "Aberdeen Art Gallery"
+          },
+          "coords": [
+            -2.1001,
+            57.1482
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihre erste Haltestelle, um in die Kultur einzutauchen.",
+            "hu": "Az első megálló, hogy elmerüljön a kultúrában.",
+            "ro": "Prima oprire pentru a vă cufunda în cultură.",
+            "en": "Your first stop to immerse in culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Marischal College",
+            "hu": "Marischal College",
+            "ro": "Colegiul Marischal",
+            "en": "Marischal College"
+          },
+          "coords": [
+            -2.0945,
+            57.1492
+          ],
+          "category": "monuments",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um das Granit-Wahrzeichen zu sehen.",
+            "hu": "Rövid séta a gránit nevezetességhez.",
+            "ro": "O scurtă plimbare pentru a vedea reperul de granit.",
+            "en": "A short walk to see the granite landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Old Aberdeen",
+            "hu": "Old Aberdeen klaszter",
+            "ro": "Grupul Vechiul Aberdeen",
+            "en": "Old Aberdeen Cluster"
+          },
+          "coords": [
+            -2.102,
+            57.166
+          ],
+          "category": "cluster",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Norden zum historischen Viertel.",
+            "hu": "Menjen busszal északra a történelmi negyedbe.",
+            "ro": "Luați un autobuz spre nord, spre cartierul istoric.",
+            "en": "Take a bus north to the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Machar's Cathedral",
+            "hu": "St. Machar-székesegyház",
+            "ro": "Catedrala Sf. Machar",
+            "en": "St. Machar's Cathedral"
+          },
+          "coords": [
+            -2.102,
+            57.166
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kathedrale nach Ihrer Ankunft.",
+            "hu": "Érkezés után fedezze fel a katedrálist.",
+            "ro": "Explorați catedrala la sosire.",
+            "en": "Explore the cathedral upon arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Hafen",
+            "hu": "Kikötő klaszter",
+            "ro": "Grupul Portuar",
+            "en": "Harbour Cluster"
+          },
+          "coords": [
+            -2.0935,
+            57.1475
+          ],
+          "category": "cluster",
+          "arrive_at": "14:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum maritimen Herzen der Stadt.",
+            "hu": "Menjen busszal a város tengeri szívébe.",
+            "ro": "Luați un autobuz spre inima maritimă a orașului.",
+            "en": "Catch a bus to the maritime heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Aberdeen Schifffahrtsmuseum",
+            "hu": "Aberdeen Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Aberdeen",
+            "en": "Aberdeen Maritime Museum"
+          },
+          "coords": [
+            -2.0935,
+            57.1475
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des Hafens ein.",
+            "hu": "Merüljön el a kikötő történelmében.",
+            "ro": "Scufundați-vă în istoria portului.",
+            "en": "Dive into the history of the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Footdee (Fittie)",
+            "hu": "Footdee (Fittie)",
+            "ro": "Footdee (Fittie)",
+            "en": "Footdee (Fittie)"
+          },
+          "coords": [
+            -2.081,
+            57.144
+          ],
+          "category": "old-town",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang zum Abschluss des Tages.",
+            "hu": "Egy séta a nap lezárásaként.",
+            "ro": "O plimbare pentru a încheia ziua.",
+            "en": "A final stroll to end your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln nutzt das effiziente Busnetz von Aberdeen. Der Morgen beginnt mit der Erkundung des zentralen Clusters zu Fuß, einschließlich der Kunstgalerie und des Marischal College. Eine Busfahrt nach Norden bringt Sie zum historischen Old Aberdeen Cluster für einen Besuch der St. Machar's Cathedral. Eine weitere Busfahrt am Nachmittag bringt Sie zum Hafen, wo Sie das Schifffahrtsmuseum und das nahegelegene Footdee erkunden. Diese Reiseroute ist eine clevere Möglichkeit, die wichtigsten Sehenswürdigkeiten zu verbinden und gleichzeitig ein Gefühl für das tägliche Leben in der Stadt zu bekommen.",
+        "hu": "A tömegközlekedési útvonal Aberdeen hatékony buszhálózatát használja ki. A reggel a központi klaszter gyalogos felfedezésével kezdődik, beleértve a Művészeti Galériát és a Marischal College-t. Egy északi buszozás elviszi a történelmi Old Aberdeen klaszterhez a St. Machar-székesegyház meglátogatására. Egy másik délutáni buszozás a kikötőbe visz, ahol felfedezheti a Tengerészeti Múzeumot és a közeli Footdee-t. Ez az útvonal okos módja a főbb látnivalók összekapcsolásának, miközben bepillantást nyerhet a város mindennapi életébe.",
+        "ro": "Itinerariul dvs. cu transportul public utilizează rețeaua eficientă de autobuze din Aberdeen. Dimineața începe cu explorarea pe jos a grupului central, inclusiv Galeria de Artă și Colegiul Marischal. O călătorie cu autobuzul spre nord vă duce la grupul istoric Vechiul Aberdeen pentru o vizită la Catedrala St. Machar. O altă călătorie cu autobuzul după-amiaza vă lasă în port pentru a explora Muzeul Maritim și satul Footdee din apropiere. Acest itinerar este o modalitate inteligentă de a conecta atracțiile cheie, oferind în același timp o senzație a vieții de zi cu zi a orașului.",
+        "en": "Your public transit journey utilizes Aberdeen's efficient bus network. The morning starts by exploring the central cluster on foot, including the Art Gallery and Marischal College. A bus ride north takes you to the historic Old Aberdeen cluster for a visit to St. Machar's Cathedral. Another bus ride in the afternoon drops you at the harbour to explore the Maritime Museum and nearby Footdee. This itinerary is a smart way to connect key attractions while getting a feel for the city's daily life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Eine traditionelle, cremige Suppe mit geräuchertem Schellfisch. Ein Muss!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Probieren Sie das weltberühmte Rindfleisch in seinem Heimatort."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Am besten frisch am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cullen Skink",
+            "tip": "Hagyományos, krémes füstölt tőkehal leves. Ezt ki kell próbálni!"
+          },
+          {
+            "name": "Aberdeen Angus steak",
+            "tip": "Kóstolja meg a világhírű marhahúst a származási helyén."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "A legjobb frissen a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cullen Skink",
+            "tip": "O supă tradițională, cremoasă, de eglefin afumat. Trebuie încercată!"
+          },
+          {
+            "name": "Friptură Aberdeen Angus",
+            "tip": "Gustați faimoasa carne de vită în locul său de origine."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Cel mai bun proaspăt, savurat lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cullen Skink",
+            "tip": "A traditional creamy smoked haddock soup. A must-try local delicacy!"
+          },
+          {
+            "name": "Aberdeen Angus Steak",
+            "tip": "Sample the world-famous beef in its place of origin."
+          },
+          {
+            "name": "Fish and Chips",
+            "tip": "Best enjoyed fresh by the harbour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Aberdeen",
+            "tip": "Ein langer Spaziergang am Sandstrand kann sehr beruhigend sein.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Finden Sie Ruhe in dieser alten Kathedrale und ihrem Friedhof.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Entfliehen Sie in die David Welch Winter Gardens für eine tropische Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aberdeen strandja",
+            "tip": "Egy hosszú séta a homokos parton nagyon megnyugtató lehet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar-székesegyház",
+            "tip": "Találjon békét ebben a régi katedrálisban és a temetőjében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Meneküljön a David Welch Téli Kertekbe egy trópusi szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Aberdeen",
+            "tip": "O plimbare lungă de-a lungul plajei de nisip poate fi foarte liniștitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Catedrala St. Machar",
+            "tip": "Găsiți liniște în această catedrală veche și în cimitirul ei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Duthie",
+            "tip": "Evadați în Grădinile de Iarnă David Welch pentru o pauză tropicală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aberdeen Beach",
+            "tip": "A long walk along the sandy beach can be very calming.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Machar's Cathedral",
+            "tip": "Find peace and quiet within this ancient cathedral and its kirkyard.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Duthie Park",
+            "tip": "Escape to the David Welch Winter Gardens for a tropical break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Belmont Street",
+            "tip": "Entdecken Sie unabhängige Boutiquen und einzigartige Geschäfte."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie hier lokale Produkte und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belmont Street",
+            "tip": "Fedezze fel a független butikokat és egyedi üzleteket."
+          },
+          {
+            "name": "Aberdeeni vásár",
+            "tip": "Ha vásárnapon érkezik, helyi termékeket és kézműves árukat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Belmont",
+            "tip": "Descoperiți buticuri independente și magazine unice."
+          },
+          {
+            "name": "Târgul de țară Aberdeen",
+            "tip": "Dacă sunteți aici într-o zi de piață, găsiți produse locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belmont Street",
+            "tip": "Explore independent boutiques and unique shops for souvenirs."
+          },
+          {
+            "name": "Aberdeen Country Fair",
+            "tip": "If you're here on a market day, find local produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale Bus-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Beachten Sie, dass einige Dienste abends oder an Sonntagen seltener verkehren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendekhez és útvonalakhoz.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért szánjon rá plusz időt.",
+          "Vegye figyelembe, hogy egyes járatok este vagy vasárnap ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de autobuz pentru orare și rute în timp real.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că acordați-vă timp suplimentar.",
+          "Rețineți că unele servicii pot fi mai puțin frecvente seara sau duminica."
+        ],
+        "en": [
+          "Buy a day-pass for unlimited travel on most services.",
+          "Download a local bus app for real-time schedules and routes.",
+          "Buses can be crowded during peak hours, so allow extra time.",
+          "Be aware some services may be less frequent in the evenings or on Sundays."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1456 @@
+{
+  "city_id": "switzerland-koniz-cities-v2",
+  "anchor": {
+    "name": "Köniz",
+    "coords": [
+      7.414,
+      46.924
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkern Gurtendorf",
+            "hu": "Gurtendorf falu központja",
+            "ro": "Centrul satului Gurtendorf",
+            "en": "Gurtendorf village center"
+          },
+          "coords": [
+            7.413,
+            46.923
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der lokalen Cafés, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
+            "en": "Start your day with a coffee at one of the local cafes to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Köniz",
+            "hu": "Könizi kastély",
+            "ro": "Castelul Köniz",
+            "en": "Köniz Castle"
+          },
+          "coords": [
+            7.415,
+            46.925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kulturellen Veranstaltungen, die oft im Schlosshof stattfinden.",
+            "hu": "Figyelje a kastély udvarán gyakran megrendezett kulturális eseményeket.",
+            "ro": "Fiți atenți la evenimentele culturale care au loc adesea în curtea castelului.",
+            "en": "Look out for the cultural events that often take place in the castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál-templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            7.416,
+            46.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Glasfenster, die einen Kontrast zur alten Architektur bilden.",
+            "hu": "Csodálja meg a modern üvegablakokat, melyek kontrasztot alkotnak a régi építészettel.",
+            "ro": "Admirați vitraliile moderne care contrastează cu arhitectura veche.",
+            "en": "Admire the modern stained-glass windows that contrast with the old architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum Haberhuus",
+            "hu": "Haberhuus Iskolamúzeum",
+            "ro": "Muzeul Școlii Haberhuus",
+            "en": "Haberhuus School Museum"
+          },
+          "coords": [
+            7.417,
+            46.926
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie das Schreiben mit Feder und Tinte in einem der interaktiven Workshops aus.",
+            "hu": "Próbálja ki a tollal és tintával írást az interaktív műhelyek egyikében.",
+            "ro": "Încercați să scrieți cu pana și cerneala într-unul dintre atelierele interactive.",
+            "en": "Try writing with a quill and ink in one of the interactive workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Könizbergwald",
+            "hu": "Könizbergwald (erdő)",
+            "ro": "Pădurea Könizbergwald",
+            "en": "Könizbergwald Forest"
+          },
+          "coords": [
+            7.395,
+            46.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen verdauungsfördernden Spaziergang. Folgen Sie den markierten Wegen.",
+            "hu": "Tökéletes egy emésztést segítő sétához. Kövesse a jelzett ösvényeket.",
+            "ro": "Perfect pentru o plimbare digestivă. Urmați cărările marcate.",
+            "en": "Perfect for a digestive walk. Follow the marked trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf dem Gurten",
+            "hu": "Kilátópont a Gurten-hegyen",
+            "ro": "Punct de belvedere pe Gurten",
+            "en": "Viewpoint on the Gurten"
+          },
+          "coords": [
+            7.448,
+            46.92
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick auf Bern und die Alpen – ein idealer Tagesabschluss.",
+            "hu": "A panorámás kilátásért Bernre és az Alpokra megéri a mászás – ideális lezárása a napnak.",
+            "ro": "Urcarea merită pentru vederea panoramică asupra Bernei și Alpilor – un final ideal pentru o zi.",
+            "en": "The climb is worth it for the panoramic view of Bern and the Alps – an ideal end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Köniz enthüllt eine charmante Mischung aus Geschichte und Natur. Der Morgen beginnt im historischen Gurtendorf, bevor Sie das Schloss und die Kirche St. Peter und Paul erkunden. Nach einem lehrreichen Besuch im Schulmuseum Haberhuus bietet der Könizbergwald am Nachmittag eine grüne Oase der Ruhe. Der Tag gipfelt in einem atemberaubenden Panoramablick vom Gurten, der die Schönheit von Bern und den Alpen offenbart.",
+        "hu": "Egy séta Könizben a történelem és a természet bájos keverékét tárja fel. A reggel a történelmi Gurtendorfban kezdődik, mielőtt felfedezné a kastélyt és a Szent Péter és Pál-templomot. Az Iskolamúzeumban tett tanulságos látogatás után délután a Könizbergwald kínál zöld oázist. A nap a Gurten-hegyről nyíló lélegzetelállító panorámában csúcsosodik ki, amely Bern és az Alpok szépségét tárja elénk.",
+        "ro": "O plimbare prin Köniz dezvăluie un amestec fermecător de istorie și natură. Dimineața începe în istoricul Gurtendorf, înainte de a explora castelul și biserica Sf. Petru și Pavel. După o vizită educativă la Muzeul Școlii, pădurea Könizbergwald oferă o oază de liniște verde după-amiaza. Ziua culminează cu o priveliște panoramică uluitoare de pe Gurten, dezvăluind frumusețea Bernei și a Alpilor.",
+        "en": "A walk through Köniz reveals a charming mix of history and nature. The morning starts in historic Gurtendorf before exploring the castle and St. Peter and Paul Church. After an educational visit to the school museum, the Könizbergwald forest offers a green oasis of calm in the afternoon. The day culminates in a breathtaking panoramic view from the Gurten, revealing the beauty of Bern and the Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berner Platte",
+            "tip": "Ein herzhaftes Gericht mit verschiedenen Fleischsorten und Beilagen. Suchen Sie nach einem traditionellen Gasthof."
+          },
+          {
+            "name": "Restaurant zum Schloss",
+            "tip": "Klassische Schweizer Küche in historischem Ambiente."
+          },
+          {
+            "name": "Bäckerei-Konditorei Reinhard",
+            "tip": "Probieren Sie das frische Brot und die lokalen Süssigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berner Platte",
+            "tip": "Kiadós étel különböző húsokkal és köretekkel. Keressen egy hagyományos vendéglőt."
+          },
+          {
+            "name": "Restaurant zum Schloss",
+            "tip": "Klasszikus svájci konyha történelmi környezetben."
+          },
+          {
+            "name": "Reinhard pékség és cukrászda",
+            "tip": "Kóstolja meg a friss kenyeret és a helyi édességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berner Platte",
+            "tip": "Un fel de mâncare consistent cu diverse tipuri de carne și garnituri. Căutați un han tradițional."
+          },
+          {
+            "name": "Restaurant zum Schloss",
+            "tip": "Bucătărie elvețiană clasică într-un cadru istoric."
+          },
+          {
+            "name": "Brutăria-Cofetăria Reinhard",
+            "tip": "Încercați pâinea proaspătă și dulciurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berner Platte",
+            "tip": "A hearty dish with various meats and side dishes. Look for a traditional inn."
+          },
+          {
+            "name": "Restaurant zum Schloss",
+            "tip": "Classic Swiss cuisine in a historic setting."
+          },
+          {
+            "name": "Reinhard Bakery-Confectionery",
+            "tip": "Try the fresh bread and local sweets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Könizbergwald",
+            "tip": "Die Stille des Waldes ist perfekt, um dem städtischen Trubel zu entfliehen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Uferweg an der Aare",
+            "tip": "Obwohl nicht direkt im Zentrum, ist ein kurzer Abstecher zum Flussufer sehr entspannend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gurten-Gipfel am späten Nachmittag",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, finden Sie hier Ruhe und eine tolle Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könizbergwald",
+            "tip": "Az erdő csendje tökéletes a városi nyüzsgés elől való meneküléshez.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sétány az Aare folyó partján",
+            "tip": "Bár nem közvetlenül a központban van, egy rövid kitérő a folyóparthoz nagyon pihentető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gurten-csúcs késő délután",
+            "tip": "Amikor a legtöbb napközbeni kiránduló már elment, itt nyugalmat és nagyszerű kilátást talál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Könizbergwald",
+            "tip": "Liniștea pădurii este perfectă pentru a evada din agitația urbană.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Promenada de pe malul râului Aare",
+            "tip": "Deși nu este chiar în centru, o scurtă abatere pe malul râului este foarte relaxantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Gurten după-amiaza târziu",
+            "tip": "Când majoritatea excursioniștilor de o zi au plecat, veți găsi liniște și o priveliște minunată aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Könizbergwald Forest",
+            "tip": "The silence of the forest is perfect for escaping the urban hustle and bustle.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Aare riverbank promenade",
+            "tip": "Although not right in the center, a short detour to the riverbank is very relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gurten summit in the late afternoon",
+            "tip": "When most day-trippers have left, you'll find peace and a great view here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Köniz",
+            "tip": "Finden Sie lokale Produkte und Handwerk, normalerweise an bestimmten Wochentagen."
+          },
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Suchen Sie nach Bauernhöfen, die Käse, Wurst und andere Spezialitäten direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könizi heti piac",
+            "tip": "Találjon helyi termékeket és kézműves árukat, általában a hét bizonyos napjain."
+          },
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keressen olyan gazdaságokat, amelyek közvetlenül sajtot, kolbászt és más specialitásokat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Köniz",
+            "tip": "Găsiți produse locale și artizanat, de obicei în anumite zile ale săptămânii."
+          },
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Căutați ferme care vând direct brânzeturi, cârnați și alte specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Köniz weekly market",
+            "tip": "Find local produce and crafts, usually on specific days of the week."
+          },
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for farms that sell cheese, sausages, and other specialties directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Schulmuseums im Voraus.",
+          "Nehmen Sie eine Wasserflasche für den Spaziergang im Wald und den Aufstieg zum Gurten mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze az iskolamúzeum nyitvatartási idejét.",
+          "Vigyen magával egy vizes palackot az erdei sétához és a Gurtenre való feljutáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului școlii.",
+          "Luați o sticlă de apă pentru plimbarea prin pădure și urcarea pe Gurten."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Check the school museum's opening hours in advance.",
+          "Bring a water bottle for the walk in the forest and the climb up the Gurten."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkern Gurtendorf",
+            "hu": "Gurtendorf falu központja",
+            "ro": "Centrul satului Gurtendorf",
+            "en": "Gurtendorf village center"
+          },
+          "coords": [
+            7.413,
+            46.923
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie die Gassen zu Fuss.",
+            "hu": "Biztonságosan zárja le a kerékpárját, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați-vă bicicleta în siguranță și explorați aleile pe jos.",
+            "en": "Park your bike safely and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Köniz",
+            "hu": "Könizi kastély",
+            "ro": "Castelul Köniz",
+            "en": "Köniz Castle"
+          },
+          "coords": [
+            7.415,
+            46.925
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt am Schloss vorbei, perfekt für einen kurzen Stopp.",
+            "hu": "A kerékpárút közvetlenül a kastély mellett vezet el, tökéletes egy rövid megállóhoz.",
+            "ro": "Pista de biciclete trece chiar pe lângă castel, perfectă pentru o oprire scurtă.",
+            "en": "The cycle path leads right past the castle, perfect for a short stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Könizbergwald",
+            "hu": "Könizbergwald (erdő)",
+            "ro": "Pădurea Könizbergwald",
+            "en": "Könizbergwald Forest"
+          },
+          "coords": [
+            7.395,
+            46.928
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Es gibt spezielle Mountainbike-Trails, aber auch gemütliche Wege für eine entspannte Fahrt.",
+            "hu": "Vannak speciális hegyikerékpár-útvonalak, de kényelmes utak is egy laza tekeréshez.",
+            "ro": "Există trasee speciale pentru mountain bike, dar și poteci lejere pentru o plimbare relaxantă.",
+            "en": "There are special mountain bike trails, but also leisurely paths for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Ofenhaus",
+            "hu": "Ofenhaus (Kemenceház)",
+            "ro": "Ofenhaus (Casa Cuptorului)",
+            "en": "Ofenhaus (Kiln House)"
+          },
+          "coords": [
+            7.425,
+            46.931
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein interessanter Einblick in die industrielle Vergangenheit der Region.",
+            "hu": "Érdekes betekintés a régió ipari múltjába.",
+            "ro": "O perspectivă interesantă asupra trecutului industrial al regiunii.",
+            "en": "An interesting insight into the industrial past of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wabern",
+            "hu": "Waberni református templom",
+            "ro": "Biserica Reformată din Wabern",
+            "en": "Reformed Church Wabern"
+          },
+          "coords": [
+            7.442,
+            46.929
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein moderner Sakralbau mit einer beeindruckenden Orgel. Prüfen Sie auf Konzerttermine.",
+            "hu": "Modern szakrális épület lenyűgöző orgonával. Ellenőrizze a koncertidőpontokat.",
+            "ro": "O clădire sacră modernă cu o orgă impresionantă. Verificați programul concertelor.",
+            "en": "A modern sacred building with an impressive organ. Check for concert dates."
+          }
+        },
+        {
+          "name": {
+            "de": "Gurten - Park im Grünen",
+            "hu": "Gurten - Park a zöldben",
+            "ro": "Gurten - Parc în verdeață",
+            "en": "Gurten - Park in the Green"
+          },
+          "coords": [
+            7.448,
+            46.92
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:20",
+          "stay_min": 145,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Gurtenbahn nach oben (Fahrradmitnahme möglich) und geniessen Sie die Abfahrt.",
+            "hu": "Menjen fel a Gurtenbahnnal (kerékpár szállítható), és élvezze a lejtmenetet.",
+            "ro": "Urcați cu funicularul Gurten (transportul bicicletelor este posibil) și bucurați-vă de coborâre.",
+            "en": "Take the Gurtenbahn funicular up (bike transport possible) and enjoy the descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Köniz und seine Umgebung auf zwei Rädern. Die Tour beginnt im Herzen von Gurtendorf und führt Sie zum historischen Schloss Köniz. Am Vormittag erkunden Sie die Naturpfade des Könizbergwaldes, bevor Sie einen Einblick in das industrielle Erbe beim Ofenhaus erhalten. Der Nachmittag ist der modernen Architektur der Kirche in Wabern und dem spektakulären Finale auf dem Gurten gewidmet, von wo aus Sie eine rasante Abfahrt und eine unvergessliche Aussicht geniessen können.",
+        "hu": "Fedezze fel Könizt és környékét két keréken. A túra Gurtendorf szívéből indul a történelmi Könizi kastélyhoz. Délelőtt a Könizbergwald természetes ösvényeit járja be, mielőtt bepillantást nyer az Ofenhaus ipari örökségébe. A délután a waberni templom modern építészetének és a Gurtenen való látványos befejezésnek van szentelve, ahonnan gyors lejtmenet és felejthetetlen kilátás várja.",
+        "ro": "Descoperiți Köniz și împrejurimile sale pe două roți. Turul începe în inima Gurtendorfului și vă duce la istoricul Castel Köniz. Dimineața explorați potecile naturale ale pădurii Könizbergwald înainte de a arunca o privire asupra moștenirii industriale la Ofenhaus. După-amiaza este dedicată arhitecturii moderne a bisericii din Wabern și finalului spectaculos de pe Gurten, de unde vă puteți bucura de o coborâre rapidă și o priveliște de neuitat.",
+        "en": "Discover Köniz and its surroundings on two wheels. The tour starts in the heart of Gurtendorf and takes you to the historic Köniz Castle. In the morning, you'll explore the nature trails of the Könizbergwald forest before getting a glimpse of the industrial heritage at the Ofenhaus. The afternoon is dedicated to the modern architecture of the church in Wabern and the spectacular finale on the Gurten, from where you can enjoy a fast descent and an unforgettable view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Gurtners",
+            "tip": "Gehobene Küche mit fantastischer Aussicht auf dem Gurten."
+          },
+          {
+            "name": "Picknick im Könizbergwald",
+            "tip": "Kaufen Sie lokale Produkte auf dem Markt und geniessen Sie ein Mittagessen in der Natur."
+          },
+          {
+            "name": "Landgasthof Liebefeld",
+            "tip": "Traditionelle Schweizer Gerichte in einem gemütlichen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gurtners étterem",
+            "tip": "Kifinomult konyha fantasztikus kilátással a Gurtenen."
+          },
+          {
+            "name": "Piknik a Könizbergwaldban",
+            "tip": "Vásároljon helyi termékeket a piacon, és ebédeljen a természetben."
+          },
+          {
+            "name": "Landgasthof Liebefeld",
+            "tip": "Hagyományos svájci ételek hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Gurtners",
+            "tip": "Bucătărie rafinată cu o priveliște fantastică pe Gurten."
+          },
+          {
+            "name": "Picnic în pădurea Könizbergwald",
+            "tip": "Cumpărați produse locale de la piață și bucurați-vă de un prânz în natură."
+          },
+          {
+            "name": "Landgasthof Liebefeld",
+            "tip": "Mâncăruri tradiționale elvețiene într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Gurtners",
+            "tip": "Fine dining with a fantastic view on the Gurten."
+          },
+          {
+            "name": "Picnic in the Könizbergwald forest",
+            "tip": "Buy local products at the market and enjoy lunch in nature."
+          },
+          {
+            "name": "Landgasthof Liebefeld",
+            "tip": "Traditional Swiss dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versteckte Lichtung im Könizbergwald",
+            "tip": "Suchen Sie abseits der Hauptwege nach einem ruhigen Ort zum Ausruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Kirche St. Peter und Paul",
+            "tip": "Ein friedlicher Ort mitten im Zentrum.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang auf dem Gurten",
+            "tip": "Bleiben Sie bis zum Abend für ein magisches Lichterspiel über Bern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett tisztás a Könizbergwaldban",
+            "tip": "Keressen egy csendes helyet pihenésre a főutaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Péter és Pál-templom templomkertje",
+            "tip": "Békés hely a központ közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Gurtenen",
+            "tip": "Maradjon estig egy varázslatos fényjátékért Bern felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poiană ascunsă în pădurea Könizbergwald",
+            "tip": "Căutați un loc liniștit pentru a vă odihni, departe de potecile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea bisericii Sf. Petru și Pavel",
+            "tip": "Un loc pașnic în mijlocul centrului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare pe Gurten",
+            "tip": "Rămâneți până seara pentru un joc magic de lumini deasupra Bernei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden glade in the Könizbergwald forest",
+            "tip": "Look for a quiet place to rest away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of St. Peter and Paul Church",
+            "tip": "A peaceful place right in the center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset on the Gurten",
+            "tip": "Stay until the evening for a magical play of lights over Bern.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veloladen in Köniz",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Gurten-Shop",
+            "tip": "Souvenirs und lokale Produkte auf dem Berner Hausberg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt Könizben",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Gurten-Shop",
+            "tip": "Szuvenírek és helyi termékek Bern házi hegyén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în Köniz",
+            "tip": "În caz că aveți nevoie de accesorii sau o reparație rapidă."
+          },
+          {
+            "name": "Magazinul Gurten",
+            "tip": "Suveniruri și produse locale pe muntele local al Bernei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop in Köniz",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Gurten Shop",
+            "tip": "Souvenirs and local products on Bern's local mountain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein gutes Schloss für Ihr Fahrrad mit.",
+          "Prüfen Sie den Wetterbericht, bevor Sie losfahren, besonders für den Gurten.",
+          "Ein Helm wird dringend empfohlen.",
+          "Die Gurtenbahn hat spezielle Tarife für Biker."
+        ],
+        "hu": [
+          "Vigyen magával egy jó lakatot a kerékpárjához.",
+          "Indulás előtt ellenőrizze az időjárás-előrejelzést, különösen a Gurtenre vonatkozóan.",
+          "Sisak viselése erősen ajánlott.",
+          "A Gurtenbahn speciális tarifákat kínál kerékpárosoknak."
+        ],
+        "ro": [
+          "Luați un lacăt bun pentru bicicletă.",
+          "Verificați prognoza meteo înainte de a pleca, în special pentru Gurten.",
+          "Casca este foarte recomandată.",
+          "Funicularul Gurten are tarife speciale pentru bicicliști."
+        ],
+        "en": [
+          "Bring a good lock for your bike.",
+          "Check the weather forecast before you leave, especially for the Gurten.",
+          "A helmet is highly recommended.",
+          "The Gurtenbahn has special fares for bikers."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Köniz",
+            "hu": "Parkoló, Köniz központ",
+            "ro": "Parcare Centru Köniz",
+            "en": "Köniz Center Car Park"
+          },
+          "coords": [
+            7.412,
+            46.922
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um das historische Zentrum zu Fuss zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
+            "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
+            "en": "Park here to explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfkern Gurtendorf & Schloss Köniz",
+            "hu": "Gurtendorf falu központja és a Könizi kastély",
+            "ro": "Centrul satului Gurtendorf și Castelul Köniz",
+            "en": "Gurtendorf village center & Köniz Castle"
+          },
+          "coords": [
+            7.414,
+            46.924
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden Highlights.",
+            "hu": "Egy rövid séta köti össze ezt a két látványosságot.",
+            "ro": "O scurtă plimbare leagă aceste două atracții principale.",
+            "en": "A short walk connects these two highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter und Paul",
+            "hu": "Szent Péter és Pál-templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            7.416,
+            46.924
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der letzte Stopp im Zentrum, bevor es weitergeht.",
+            "hu": "Az utolsó megálló a központban, mielőtt tovább indulna.",
+            "ro": "Ultima oprire în centru înainte de a merge mai departe.",
+            "en": "The last stop in the center before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Könizbergwald",
+            "hu": "Parkoló, Könizbergwald",
+            "ro": "Parcare Pădurea Könizbergwald",
+            "en": "Könizbergwald Forest Car Park"
+          },
+          "coords": [
+            7.393,
+            46.929
+          ],
+          "category": "transport",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus führen mehrere Wanderwege in den Wald. Ideal für einen Mittagsspaziergang.",
+            "hu": "A parkolóból több túraútvonal vezet az erdőbe. Ideális egy déli sétához.",
+            "ro": "De la parcare, mai multe trasee de drumeție duc în pădure. Ideal pentru o plimbare la prânz.",
+            "en": "Several hiking trails lead into the forest from the car park. Ideal for a midday walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Gurtenbahn",
+            "hu": "Parkoló, Gurtenbahn",
+            "ro": "Parcare Funicular Gurten",
+            "en": "Gurtenbahn Car Park"
+          },
+          "coords": [
+            7.445,
+            46.927
+          ],
+          "category": "transport",
+          "arrive_at": "14:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto hier und nehmen Sie die Standseilbahn auf den Gipfel.",
+            "hu": "Hagyja itt az autót, és menjen fel a siklóval a csúcsra.",
+            "ro": "Lăsați mașina aici și luați funicularul până în vârf.",
+            "en": "Leave the car here and take the funicular to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Gurten - Aussichtsplattform",
+            "hu": "Gurten - Kilátóterasz",
+            "ro": "Gurten - Platformă de observare",
+            "en": "Gurten - Observation Deck"
+          },
+          "coords": [
+            7.448,
+            46.92
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt mit einem 360-Grad-Blick.",
+            "hu": "A fő attrakció 360 fokos kilátással.",
+            "ro": "Principala atracție cu o vedere de 360 de grade.",
+            "en": "The main attraction with a 360-degree view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang auf dem Gurten",
+            "hu": "Séta a Gurtenen",
+            "ro": "Plimbare pe Gurten",
+            "en": "Walk on the Gurten"
+          },
+          "coords": [
+            7.447,
+            46.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Wege auf dem Gipfel, besuchen Sie den Spielplatz oder entspannen Sie einfach auf der Wiese.",
+            "hu": "Fedezze fel a csúcson lévő ösvényeket, látogasson el a játszótérre, vagy egyszerűen pihenjen a réten.",
+            "ro": "Explorați potecile de pe vârf, vizitați locul de joacă sau pur și simplu relaxați-vă pe pajiște.",
+            "en": "Explore the paths on the summit, visit the playground, or just relax on the meadow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Köniz flexibel erkunden. Beginnen Sie mit einem Spaziergang durch den historischen Kern, wo Schloss und Kirche auf Sie warten. Der erste Cluster bietet Kultur pur. Danach bringt Sie eine kurze Fahrt in die Stille des Könizbergwaldes – ein perfekter Ort für eine Mittagspause im Grünen. Der Nachmittag gehört ganz dem Gurten. Parken Sie an der Talstation und lassen Sie sich bequem auf den Gipfel bringen, wo ein unvergessliches Panorama und entspannte Stunden auf Sie warten.",
+        "hu": "Autóval rugalmasan fedezheti fel Könizt. Kezdje egy sétával a történelmi központban, ahol a kastély és a templom várja. Az első klaszter tiszta kultúrát kínál. Ezután egy rövid autóút a Könizbergwald csendjébe viszi – tökéletes hely egy zöldben eltöltött ebédszünethez. A délután teljes egészében a Gurtené. Parkoljon a völgyállomáson, és hagyja, hogy kényelmesen felvigyék a csúcsra, ahol felejthetetlen panoráma és pihentető órák várnak.",
+        "ro": "Cu mașina, puteți explora Köniz în mod flexibil. Începeți cu o plimbare prin centrul istoric, unde vă așteaptă castelul și biserica. Primul cluster oferă cultură pură. Apoi, o scurtă călătorie cu mașina vă duce în liniștea pădurii Könizbergwald – un loc perfect pentru o pauză de prânz în natură. După-amiaza este dedicată în întregime muntelui Gurten. Parcați la stația de jos și lăsați-vă transportat confortabil pe vârf, unde vă așteaptă o panoramă de neuitat și ore de relaxare.",
+        "en": "With a car, you can explore Köniz flexibly. Start with a walk through the historic core, where the castle and church await. The first cluster offers pure culture. Afterwards, a short drive takes you into the tranquility of the Könizbergwald forest – a perfect place for a lunch break in nature. The afternoon is all about the Gurten. Park at the valley station and let yourself be comfortably transported to the summit, where an unforgettable panorama and relaxing hours await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapis Rouge, Gurten",
+            "tip": "Selbstbedienungsrestaurant mit grosser Terrasse und schöner Aussicht."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Ein traditionelles Restaurant im Herzen von Köniz für authentische Schweizer Küche."
+          },
+          {
+            "name": "Waldschenke Könizbergwald",
+            "tip": "Einfache, aber leckere Speisen mitten im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapis Rouge, Gurten",
+            "tip": "Önkiszolgáló étterem nagy terasszal és gyönyörű kilátással."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Hagyományos étterem Köniz szívében autentikus svájci ételekért."
+          },
+          {
+            "name": "Waldschenke Könizbergwald",
+            "tip": "Egyszerű, de ízletes ételek az erdő közepén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapis Rouge, Gurten",
+            "tip": "Restaurant cu autoservire, cu o terasă mare și o priveliște frumoasă."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "Un restaurant tradițional în inima orașului Köniz pentru bucătărie elvețiană autentică."
+          },
+          {
+            "name": "Waldschenke Könizbergwald",
+            "tip": "Mâncăruri simple, dar gustoase, în mijlocul pădurii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapis Rouge, Gurten",
+            "tip": "Self-service restaurant with a large terrace and a beautiful view."
+          },
+          {
+            "name": "Gasthof zum Sternen",
+            "tip": "A traditional restaurant in the heart of Köniz for authentic Swiss cuisine."
+          },
+          {
+            "name": "Waldschenke Könizbergwald",
+            "tip": "Simple but tasty food in the middle of the forest."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknickplatz im Könizbergwald",
+            "tip": "Es gibt mehrere ausgewiesene Feuerstellen und Tische.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Leseecke im Schloss Köniz",
+            "tip": "Manchmal gibt es ruhige Ecken in den öffentlich zugänglichen Bereichen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abendstimmung auf dem Gurten",
+            "tip": "Der Blick auf die Lichter von Bern ist magisch.",
+            "emoji": "🌃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknikezőhely a Könizbergwaldban",
+            "tip": "Több kijelölt tűzrakóhely és asztal található.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Olvasósarok a Könizi kastélyban",
+            "tip": "Néha csendes zugokat lehet találni a nyilvánosan hozzáférhető területeken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Esti hangulat a Gurtenen",
+            "tip": "A berni fények látványa varázslatos.",
+            "emoji": "🌃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de picnic în pădurea Könizbergwald",
+            "tip": "Există mai multe locuri desemnate pentru foc și mese.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Colț de lectură la Castelul Köniz",
+            "tip": "Uneori există colțuri liniștite în zonele accesibile publicului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Atmosfera de seară pe Gurten",
+            "tip": "Priveliștea luminilor din Berna este magică.",
+            "emoji": "🌃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic area in the Könizbergwald forest",
+            "tip": "There are several designated fire pits and tables.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Reading corner in Köniz Castle",
+            "tip": "Sometimes there are quiet corners in the publicly accessible areas.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Evening atmosphere on the Gurten",
+            "tip": "The view of the lights of Bern is magical.",
+            "emoji": "🌃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käserei in der Umgebung",
+            "tip": "Kaufen Sie weltberühmten Schweizer Käse direkt vom Hersteller."
+          },
+          {
+            "name": "Einkaufszentrum Bläuacker",
+            "tip": "Für alltägliche Bedürfnisse oder wenn Sie etwas vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtüzem a környéken",
+            "tip": "Vásároljon világhírű svájci sajtot közvetlenül a termelőtől."
+          },
+          {
+            "name": "Bläuacker bevásárlóközpont",
+            "tip": "A mindennapi szükségletekre, vagy ha valamit elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de brânzeturi din zonă",
+            "tip": "Cumpărați brânză elvețiană de renume mondial direct de la producător."
+          },
+          {
+            "name": "Centrul comercial Bläuacker",
+            "tip": "Pentru nevoile de zi cu zi sau dacă ați uitat ceva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese dairy in the area",
+            "tip": "Buy world-famous Swiss cheese directly from the producer."
+          },
+          {
+            "name": "Bläuacker shopping center",
+            "tip": "For everyday needs or if you have forgotten something."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten.",
+          "Die Strassen können eng sein, fahren Sie vorsichtig.",
+          "Ein Navigationssystem ist hilfreich, um die verschiedenen Cluster zu finden.",
+          "Prüfen Sie die Betriebszeiten der Gurtenbahn."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkre.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "A navigációs rendszer segít megtalálni a különböző klasztereket.",
+          "Ellenőrizze a Gurtenbahn üzemidejét."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și orele de parcare.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Un sistem de navigație este util pentru a găsi diferitele clustere.",
+          "Verificați programul de funcționare al funicularului Gurten."
+        ],
+        "en": [
+          "Pay attention to parking fees and times.",
+          "The roads can be narrow, drive carefully.",
+          "A navigation system is helpful to find the different clusters.",
+          "Check the operating hours of the Gurtenbahn."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haltestelle Köniz, Schloss",
+            "hu": "Köniz, Schloss buszmegálló",
+            "ro": "Stația Köniz, Schloss",
+            "en": "Köniz, Schloss bus stop"
+          },
+          "coords": [
+            7.414,
+            46.926
+          ],
+          "category": "transport",
+          "arrive_at": "09:15",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den ersten Cluster zu Fuss zu erkunden.",
+            "hu": "Szálljon ki itt, hogy gyalogosan fedezze fel az első klasztert.",
+            "ro": "Coborâți aici pentru a explora primul cluster pe jos.",
+            "en": "Get off here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Köniz und Gurtendorf",
+            "hu": "Könizi kastély és Gurtendorf",
+            "ro": "Castelul Köniz și Gurtendorf",
+            "en": "Köniz Castle and Gurtendorf"
+          },
+          "coords": [
+            7.414,
+            46.924
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden historischen Orte liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Ez a két történelmi hely csak néhány perc sétára van egymástól.",
+            "ro": "Aceste două locuri istorice sunt la doar câteva minute de mers pe jos unul de celălalt.",
+            "en": "These two historic sites are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum Haberhuus",
+            "hu": "Haberhuus Iskolamúzeum",
+            "ro": "Muzeul Școlii Haberhuus",
+            "en": "Haberhuus School Museum"
+          },
+          "coords": [
+            7.417,
+            46.926
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, tauchen Sie in die Schulgeschichte ein.",
+            "hu": "Egy rövid sétára a kastélytól, merüljön el az iskola történetében.",
+            "ro": "La o scurtă plimbare de castel, scufundați-vă în istoria școlii.",
+            "en": "A short walk from the castle, immerse yourself in school history."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Wabern, Gurtenbahn",
+            "hu": "Wabern, Gurtenbahn megálló",
+            "ro": "Stația Wabern, Gurtenbahn",
+            "en": "Wabern, Gurtenbahn stop"
+          },
+          "coords": [
+            7.445,
+            46.927
+          ],
+          "category": "transport",
+          "arrive_at": "13:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Von Köniz Zentrum nehmen Sie den Bus oder die S-Bahn hierher.",
+            "hu": "Köniz központjából busszal vagy S-Bahnnal juthat el ide.",
+            "ro": "Din centrul orașului Köniz, luați autobuzul sau S-Bahn-ul până aici.",
+            "en": "From Köniz center, take the bus or S-Bahn here."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Wabern",
+            "hu": "Waberni református templom",
+            "ro": "Biserica Reformată din Wabern",
+            "en": "Reformed Church Wabern"
+          },
+          "coords": [
+            7.442,
+            46.929
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Beispiel moderner Kirchenarchitektur auf dem Weg zur Gurtenbahn.",
+            "hu": "A modern egyházi építészet példája a Gurtenbahn felé vezető úton.",
+            "ro": "Un exemplu de arhitectură bisericească modernă în drum spre funicularul Gurten.",
+            "en": "An example of modern church architecture on the way to the Gurtenbahn."
+          }
+        },
+        {
+          "name": {
+            "de": "Gurten - Park im Grünen",
+            "hu": "Gurten - Park a zöldben",
+            "ro": "Gurten - Parc în verdeață",
+            "en": "Gurten - Park in the Green"
+          },
+          "coords": [
+            7.448,
+            46.92
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:30",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Standseilbahn und verbringen Sie den Rest des Nachmittags auf dem Berg.",
+            "hu": "Menjen fel a siklóval, és töltse a délután hátralévő részét a hegyen.",
+            "ro": "Luați funicularul și petreceți restul după-amiezii pe munte.",
+            "en": "Take the funicular and spend the rest of the afternoon on the mountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Köniz ist mit öffentlichen Verkehrsmitteln bestens erschlossen. Beginnen Sie Ihren Tag mit dem ersten Cluster im historischen Zentrum, wo Schloss, Dorf und Museum bequem zu Fuss erreichbar sind. Ein Bus oder eine S-Bahn bringt Sie am frühen Nachmittag zum zweiten Cluster in Wabern. Erkunden Sie die moderne Kirche, bevor Sie mit der Gurtenbahn auf den Gipfel schweben. Dort oben können Sie den Nachmittag mit Spaziergängen, Spielen und einer grandiosen Aussicht ausklingen lassen.",
+        "hu": "Köniz tömegközlekedéssel kiválóan megközelíthető. Kezdje a napot az első klaszterrel a történelmi központban, ahol a kastély, a falu és a múzeum kényelmesen, gyalogosan elérhető. Kora délután egy busz vagy S-Bahn viszi a második klaszterhez Wabernbe. Fedezze fel a modern templomot, mielőtt a Gurtenbahnnal feljutna a csúcsra. Ott fent sétákkal, játékokkal és nagyszerű kilátással zárhatja a délutánt.",
+        "ro": "Köniz este foarte bine deservit de transportul public. Începeți ziua cu primul cluster în centrul istoric, unde castelul, satul și muzeul sunt ușor accesibile pe jos. Un autobuz sau un S-Bahn vă va duce la al doilea cluster din Wabern la începutul după-amiezii. Explorați biserica modernă înainte de a urca pe vârf cu funicularul Gurten. Acolo sus, puteți încheia după-amiaza cu plimbări, jocuri și o priveliște magnifică.",
+        "en": "Köniz is very well connected by public transport. Start your day with the first cluster in the historic center, where the castle, village, and museum are easily accessible on foot. A bus or S-Bahn will take you to the second cluster in Wabern in the early afternoon. Explore the modern church before soaring to the summit on the Gurtenbahn. Up there, you can end the afternoon with walks, games, and a magnificent view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue im 'Bellevue' auf dem Gurten",
+            "tip": "Ein klassisches Schweizer Erlebnis mit Aussicht."
+          },
+          {
+            "name": "Restaurant Büner",
+            "tip": "In der Nähe des Zentrums, bekannt für seine saisonale und marktorientierte Küche."
+          },
+          {
+            "name": "Take-Away am Bahnhof Köniz",
+            "tip": "Für eine schnelle und günstige Mahlzeit zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondü a 'Bellevue'-ben a Gurtenen",
+            "tip": "Klasszikus svájci élmény kilátással."
+          },
+          {
+            "name": "Büner étterem",
+            "tip": "A központ közelében, szezonális és piacorientált konyhájáról ismert."
+          },
+          {
+            "name": "Elvitel a Könizi pályaudvaron",
+            "tip": "Gyors és olcsó étkezéshez az utazások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue la 'Bellevue' pe Gurten",
+            "tip": "O experiență elvețiană clasică cu priveliște."
+          },
+          {
+            "name": "Restaurant Büner",
+            "tip": "Aproape de centru, cunoscut pentru bucătăria sa sezonieră și orientată spre piață."
+          },
+          {
+            "name": "Take-Away la gara Köniz",
+            "tip": "Pentru o masă rapidă și ieftină între călătorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue at 'Bellevue' on the Gurten",
+            "tip": "A classic Swiss experience with a view."
+          },
+          {
+            "name": "Restaurant Büner",
+            "tip": "Near the center, known for its seasonal and market-oriented cuisine."
+          },
+          {
+            "name": "Take-away at Köniz station",
+            "tip": "For a quick and cheap meal between journeys."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Schlosspark",
+            "tip": "Beobachten Sie das Treiben aus einer ruhigen Ecke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt mit der S-Bahn",
+            "tip": "Eine kurze Pause, um die Landschaft vorbeiziehen zu sehen.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Weniger bekannte Wege auf dem Gurten",
+            "tip": "Entfliehen Sie den Menschenmassen und finden Sie Ihren eigenen Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a kastélyparkban",
+            "tip": "Figyelje a nyüzsgést egy csendes zugból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Utazás az S-Bahnnal",
+            "tip": "Rövid szünet, hogy lássa elsuhanni a tájat.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Kevésbé ismert ösvények a Gurtenen",
+            "tip": "Meneküljön el a tömeg elől, és találja meg a saját kilátópontját.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în parcul castelului",
+            "tip": "Priviți agitația dintr-un colț liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Călătorie cu S-Bahn-ul",
+            "tip": "O scurtă pauză pentru a vedea peisajul trecând.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Poteci mai puțin cunoscute pe Gurten",
+            "tip": "Evadați de mulțime și găsiți-vă propriul punct de belvedere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the castle park",
+            "tip": "Watch the hustle and bustle from a quiet corner.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A ride on the S-Bahn",
+            "tip": "A short break to watch the scenery go by.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Lesser-known paths on the Gurten",
+            "tip": "Escape the crowds and find your own viewpoint.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Für Getränke, Snacks und Fahrkarten."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie ein 'Weggli' oder andere Schweizer Backwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a megállóban",
+            "tip": "Italokért, rágcsálnivalókért és jegyekért."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstoljon meg egy 'Weggli'-t vagy más svájci pékárut."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stație",
+            "tip": "Pentru băuturi, gustări și bilete."
+          },
+          {
+            "name": "Brutăriile locale",
+            "tip": "Încercați un 'Weggli' sau alte produse de patiserie elvețiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the stop",
+            "tip": "For drinks, snacks, and tickets."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Try a 'Weggli' or other Swiss baked goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, es lohnt sich.",
+          "Laden Sie die Fahrplan-App der SBB oder von Bernmobil herunter.",
+          "Achten Sie auf die Anschlusszeiten, um lange Wartezeiten zu vermeiden.",
+          "Die Busse und Bahnen sind sehr pünktlich."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedésre, megéri.",
+          "Töltse le az SBB vagy a Bernmobil menetrend-alkalmazását.",
+          "Figyeljen a csatlakozási időkre a hosszú várakozás elkerülése érdekében.",
+          "A buszok és vonatok nagyon pontosak."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public, merită.",
+          "Descărcați aplicația cu orare de la SBB sau Bernmobil.",
+          "Fiți atenți la orele de corespondență pentru a evita timpii lungi de așteptare.",
+          "Autobuzele și trenurile sunt foarte punctuale."
+        ],
+        "en": [
+          "Buy a day pass for public transport, it's worth it.",
+          "Download the SBB or Bernmobil timetable app.",
+          "Pay attention to connection times to avoid long waits.",
+          "The buses and trains are very punctual."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1132 @@
+{
+  "city_id": "switzerland-baar-cities-v2",
+  "anchor": {
+    "name": "Baar",
+    "coords": [
+      8.526,
+      47.195
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Baar und Altstadt",
+            "hu": "Baari Városháza és Óváros",
+            "ro": "Primăria Baar și Centrul Vechi",
+            "en": "Baar Town Hall and Old Town"
+          },
+          "coords": [
+            8.5265,
+            47.1945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            8.524,
+            47.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Wendelin",
+            "hu": "Szent Wendelin-kápolna",
+            "ro": "Capela Sfântul Wendelin",
+            "en": "St. Wendelin Chapel"
+          },
+          "coords": [
+            8.528,
+            47.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Spinnerei an der Lorze",
+            "hu": "A Lorze-folyó menti fonoda",
+            "ro": "Filatura de pe malul râului Lorze",
+            "en": "Spinning Mill on the Lorze"
+          },
+          "coords": [
+            8.532,
+            47.198
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Lorze-Promenade",
+            "hu": "Lorze-sétány",
+            "ro": "Promenada Lorze",
+            "en": "Lorze Promenade"
+          },
+          "coords": [
+            8.535,
+            47.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:11",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Brauerei Baar",
+            "hu": "Baari Sörfőzde",
+            "ro": "Fabrica de bere Baar",
+            "en": "Baar Brewery"
+          },
+          "coords": [
+            8.515,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Baar am Rathaus. Schlendern Sie zur prächtigen Kirche St. Martin und der kleineren Kapelle St. Wendelin. Am Nachmittag entdecken Sie das industrielle Erbe in der alten Spinnerei und spazieren entlang der Lorze. Der Tag endet mit einer wohlverdienten Erfrischung in der berühmten Brauerei Baar, die einen Einblick in die lokale Braukunst bietet.",
+        "hu": "Kezdje a napot Baar történelmi szívében, a Városházánál. Sétáljon el a csodálatos Szent Márton-templomhoz és a kisebb Szent Wendelin-kápolnához. Délután fedezze fel az ipari örökséget a régi fonodában, és sétáljon a Lorze folyó mentén. A napot egy jól megérdemelt frissítővel zárja a híres Baari Sörfőzdében, bepillantást nyerve a helyi sörfőzés művészetébe.",
+        "ro": "Începeți ziua în inima istorică a orașului Baar, la Primărie. Plimbați-vă la impunătoarea Biserică Sf. Martin și la capela mai mică Sf. Wendelin. După-amiaza, descoperiți patrimoniul industrial la vechea filatură și plimbați-vă de-a lungul promenadei Lorze. Ziua se încheie cu o băutură răcoritoare binemeritată la faimoasa fabrică de bere Baar, aruncând o privire asupra artei locale a berii.",
+        "en": "Start your day in the historic heart of Baar at the Town Hall. Stroll to the magnificent St. Martin's Church and the smaller St. Wendelin Chapel. In the afternoon, discover the industrial heritage at the old spinning mill and walk along the Lorze promenade. The day ends with a well-deserved refreshment at the famous Baar Brewery, offering a glimpse into local brewing art."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Probieren Sie die weltberühmte Kirschtorte aus der Nachbarstadt Zug."
+          },
+          {
+            "name": "Restaurant Brauerei",
+            "tip": "Herzhafte Schweizer Küche, die perfekt zum lokalen Bier passt."
+          },
+          {
+            "name": "Hausgemachte Würste",
+            "tip": "Suchen Sie eine lokale Metzgerei für authentische Schweizer Würste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Kóstolja meg a szomszédos Zug világhírű cseresznyetortáját."
+          },
+          {
+            "name": "Restaurant Brauerei",
+            "tip": "Kiadós svájci ételek, amelyek tökéletesen illenek a helyi sörhöz."
+          },
+          {
+            "name": "Házi kolbászok",
+            "tip": "Keressen egy helyi hentest az autentikus svájci kolbászokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta cu cireșe de Zug",
+            "tip": "Încercați faimoasa tortă cu cireșe din orașul vecin, Zug."
+          },
+          {
+            "name": "Restaurant Brauerei",
+            "tip": "Bucătărie elvețiană consistentă, care se potrivește perfect cu berea locală."
+          },
+          {
+            "name": "Cârnați de casă",
+            "tip": "Căutați o măcelărie locală pentru cârnați elvețieni autentici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zuger Kirschtorte (Cherry Cake)",
+            "tip": "Try the world-famous cherry cake from the neighboring town of Zug."
+          },
+          {
+            "name": "Restaurant Brauerei",
+            "tip": "Hearty Swiss cuisine that pairs perfectly with the local beer."
+          },
+          {
+            "name": "Homemade Sausages",
+            "tip": "Look for a local butcher shop for authentic Swiss sausages."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lorze-Promenade",
+            "tip": "Ein friedlicher Spaziergang am Flussufer, ideal, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei St. Martin",
+            "tip": "Der historische Friedhof bietet eine ruhige und besinnliche Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lorze-sétány",
+            "tip": "Békés séta a folyóparton, ideális a városi nyüzsgés elől való elmeneküléshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Márton melletti temető",
+            "tip": "A történelmi temető csendes és elmélkedő hangulatot kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Lorze",
+            "tip": "O plimbare liniștită pe malul râului, ideală pentru a scăpa de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de la Sf. Martin",
+            "tip": "Cimitirul istoric oferă o atmosferă liniștită și contemplativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lorze Promenade",
+            "tip": "A peaceful walk along the riverbank, ideal for escaping the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Martin",
+            "tip": "The historic cemetery offers a quiet and contemplative atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Brauerei Baar Shop",
+            "tip": "Kaufen Sie lokales Bier und Souvenirs direkt von der Quelle."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baari Sörfőzde boltja",
+            "tip": "Vásároljon helyi sört és ajándéktárgyakat közvetlenül a forrásból."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnapon jár itt, friss termékeket és helyi specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii de bere Baar",
+            "tip": "Cumpărați bere locală și suveniruri direct de la sursă."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o zi de piață, veți găsi produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baar Brewery Shop",
+            "tip": "Buy local beer and souvenirs directly from the source."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "If you are here on a market day, you will find fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele Brunnen.",
+          "Die meisten Geschäfte und einige Sehenswürdigkeiten können über Mittag geschlossen sein.",
+          "Prüfen Sie die Öffnungszeiten der Brauerei für Führungen und Verkostungen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Hozzon magával újratölthető vizes palackot; sok ivókút található.",
+          "A legtöbb üzlet és néhány látnivaló délben zárva tarthat.",
+          "Előre ellenőrizze a sörfőzde nyitvatartási idejét a túrák és kóstolók miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi în picioare toată ziua.",
+          "Luați o sticlă de apă reutilizabilă; există multe fântâni publice.",
+          "Majoritatea magazinelor și unele atracții pot fi închise la prânz.",
+          "Verificați în avans programul fabricii de bere pentru tururi și degustări."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Bring a reusable water bottle; there are many public fountains.",
+          "Most shops and some attractions may be closed over lunchtime.",
+          "Check the brewery's opening hours for tours and tastings in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 21.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und St. Martin",
+            "hu": "Városháza és Szent Márton",
+            "ro": "Primăria și Biserica Sf. Martin",
+            "en": "Town Hall and St. Martin"
+          },
+          "coords": [
+            8.526,
+            47.195
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Spinnerei an der Lorze",
+            "hu": "Fonoda a Lorze mentén",
+            "ro": "Filatura de pe Lorze",
+            "en": "Spinning Mill on the Lorze"
+          },
+          "coords": [
+            8.532,
+            47.198
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:16",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Höllgrotten Baar",
+            "hu": "Höllgrotten-barlangok",
+            "ro": "Peșterile Höllgrotten",
+            "en": "Höllgrotten Caves"
+          },
+          "coords": [
+            8.548,
+            47.175
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:21",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8
+        },
+        {
+          "name": {
+            "de": "Burgruine Wildenburg",
+            "hu": "Wildenburg várromja",
+            "ro": "Ruinele cetății Wildenburg",
+            "en": "Wildenburg Castle Ruins"
+          },
+          "coords": [
+            8.513,
+            47.168
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Brauerei Baar",
+            "hu": "Baari Sörfőzde",
+            "ro": "Fabrica de bere Baar",
+            "en": "Baar Brewery"
+          },
+          "coords": [
+            8.515,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:44",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie im Zentrum von Baar. Folgen Sie dem Fluss Lorze zur alten Spinnerei und dann weiter durch die malerische Landschaft zu den faszinierenden Höllgrotten. Erkunden Sie nach dem Mittagessen die geheimnisvollen Ruinen der Wildenburg. Die Tour endet perfekt mit einer Führung und Verkostung in der Brauerei Baar, ein Lohn für die aktive Tagesgestaltung.",
+        "hu": "Pattanjon biciklire, és induljon Baar központjából. Kövesse a Lorze folyót a régi fonodához, majd tekerjen tovább a festői tájon át a lenyűgöző Höllgrotten-barlangokhoz. Ebéd után fedezze fel a Wildenburg titokzatos romjait. A túra tökéletes lezárásaként egy vezetett látogatás és kóstoló várja a Baari Sörfőzdében, jutalomként az aktív napért.",
+        "ro": "Urcați-vă pe bicicletă și porniți din centrul orașului Baar. Urmați râul Lorze până la vechea filatură, apoi continuați prin peisajul pitoresc până la fascinantele peșteri Höllgrotten. După prânz, explorați ruinele misterioase ale cetății Wildenburg. Turul se încheie perfect cu un tur ghidat și o degustare la fabrica de bere Baar, o recompensă pentru o zi activă.",
+        "en": "Get on your bike and start in the center of Baar. Follow the Lorze River to the old spinning mill, then continue through the picturesque landscape to the fascinating Höllgrotten caves. After lunch, explore the mysterious ruins of Wildenburg Castle. The tour ends perfectly with a guided tour and tasting at the Baar Brewery, a reward for an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick an der Lorze",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen in der Natur."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Ein Muss für eine süße Pause am Nachmittag."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Ein praktischer Stopp für eine Mahlzeit direkt bei den Höhlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Lorze mentén",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a természetben."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Kötelező egy édes délutáni szünethez."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Praktikus megálló egy étkezéshez közvetlenül a barlangoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe malul râului Lorze",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în natură."
+          },
+          {
+            "name": "Torta cu cireșe de Zug",
+            "tip": "O necesitate pentru o pauză dulce de după-amiază."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "O oprire convenabilă pentru o masă chiar lângă peșteri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic on the Lorze",
+            "tip": "Buy local produce and enjoy lunch in nature."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "A must for a sweet afternoon break."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "A convenient stop for a meal right by the caves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lorze-Uferweg",
+            "tip": "Der Radweg entlang des Flusses ist ruhig und bietet schöne Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Umgebung der Wildenburg",
+            "tip": "Die Wälder rund um die Ruine sind perfekt für eine kurze, stille Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt bei den Höllgrotten",
+            "tip": "Finden Sie einen ruhigen Ort mit Blick auf die Lorze-Schlucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lorze-parti kerékpárút",
+            "tip": "A folyó menti kerékpárút csendes és gyönyörű kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wildenburg környéke",
+            "tip": "A rom körüli erdők tökéletesek egy rövid, csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátópont a barlangoknál",
+            "tip": "Keressen egy csendes helyet, ahonnan kilátás nyílik a Lorze-szurdokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul Lorze",
+            "tip": "Pista de biciclete de-a lungul râului este liniștită și oferă priveliști frumoase.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Împrejurimile Wildenburg",
+            "tip": "Pădurile din jurul ruinelor sunt perfecte pentru o scurtă pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere lângă peșteri",
+            "tip": "Găsiți un loc liniștit cu vedere la cheile râului Lorze.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lorze riverside bike path",
+            "tip": "The bike path along the river is quiet and offers beautiful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wildenburg surroundings",
+            "tip": "The forests around the ruins are perfect for a short, quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Viewpoint near the caves",
+            "tip": "Find a quiet spot overlooking the Lorze gorge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernhofläden",
+            "tip": "Halten Sie auf Ihrer Radtour Ausschau nach Hofläden, die Käse und andere lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A kerékpártúra során figyeljen a sajtot és más helyi termékeket árusító tanyasi boltokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "În timpul turului cu bicicleta, fiți atenți la magazinele de fermă care vând brânză și alte produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Keep an eye out for farm shops selling cheese and other local products on your bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Nehmen Sie genügend Wasser und einige Snacks für unterwegs mit.",
+          "Die Wege zu den Höllgrotten und zur Wildenburg können steil sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Sisak használata erősen ajánlott.",
+          "Vigyen magával elegendő vizet és némi harapnivalót az útra.",
+          "A barlangokhoz és a várhoz vezető utak meredekek lehetnek."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Purtarea căștii este foarte recomandată.",
+          "Luați suficientă apă și câteva gustări pentru drum.",
+          "Traseele către peșteri și castel pot fi abrupte."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Bring enough water and some snacks for the road.",
+          "The paths to the caves and the castle can be steep."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 24.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Rathaus",
+            "hu": "Központi Parkoló és Városháza",
+            "ro": "Parcare Centrală și Primărie",
+            "en": "Central Parking & Town Hall"
+          },
+          "coords": [
+            8.527,
+            47.193
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            8.524,
+            47.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Lorze-Promenade",
+            "hu": "Lorze-sétány",
+            "ro": "Promenada Lorze",
+            "en": "Lorze Promenade"
+          },
+          "coords": [
+            8.532,
+            47.198
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:23",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7
+        },
+        {
+          "name": {
+            "de": "Burgruine Wildenburg",
+            "hu": "Wildenburg várromja",
+            "ro": "Ruinele cetății Wildenburg",
+            "en": "Wildenburg Castle Ruins"
+          },
+          "coords": [
+            8.513,
+            47.168
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.8
+        },
+        {
+          "name": {
+            "de": "Höllgrotten Baar",
+            "hu": "Höllgrotten-barlangok",
+            "ro": "Peșterile Höllgrotten",
+            "en": "Höllgrotten Caves"
+          },
+          "coords": [
+            8.548,
+            47.175
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:01",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4
+        },
+        {
+          "name": {
+            "de": "Brauerei Baar",
+            "hu": "Baari Sörfőzde",
+            "ro": "Fabrica de bere Baar",
+            "en": "Baar Brewery"
+          },
+          "coords": [
+            8.515,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:44",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 8.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ersten Cluster im Stadtzentrum von Baar, parken Sie und erkunden Sie Rathaus, St. Martin und die Lorze-Promenade zu Fuß. Nach diesem städtischen Spaziergang fahren Sie südwärts zum zweiten Cluster: den historischen Ruinen der Wildenburg. Als Nächstes erwartet Sie das Naturwunder der Höllgrotten. Zum Abschluss des Tages kehren Sie nach Baar zurück und genießen eine Führung in der traditionsreichen Brauerei Baar.",
+        "hu": "Vezessen az első csoporthoz Baar központjában, parkoljon le, és fedezze fel gyalog a Városházát, a Szent Márton-templomot és a Lorze-sétányt. A városi séta után vezessen délre a második csoporthoz: a Wildenburg történelmi romjaihoz. Ezután a Höllgrotten-barlangok természeti csodája várja. A nap végén térjen vissza Baarba, és élvezze a vezetett túrát a nagy múltú Baari Sörfőzdében.",
+        "ro": "Conduceți spre primul cluster în centrul orașului Baar, parcați și explorați Primăria, Biserica Sf. Martin și Promenada Lorze pe jos. După această plimbare urbană, conduceți spre sud la al doilea cluster: ruinele istorice ale cetății Wildenburg. Apoi, vă așteaptă minunea naturală a peșterilor Höllgrotten. La finalul zilei, întoarceți-vă în Baar și bucurați-vă de un tur ghidat la tradiționala fabrică de bere Baar.",
+        "en": "Drive to the first cluster in Baar's town center, park, and explore the Town Hall, St. Martin's Church, and the Lorze Promenade on foot. After this urban walk, drive south to the second cluster: the historic ruins of Wildenburg Castle. Next, the natural wonder of the Höllgrotten caves awaits. To end the day, return to Baar and enjoy a guided tour at the traditional Baar Brewery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Gotthard",
+            "tip": "Ein klassisches Restaurant im Zentrum für ein traditionelles Schweizer Mittagessen."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Perfekt für einen süßen Stopp in einer Konditorei in Baar."
+          },
+          {
+            "name": "Käse aus der Region",
+            "tip": "Kaufen Sie in einem lokalen Geschäft ein, um authentischen Schweizer Käse zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gotthard Étterem",
+            "tip": "Klasszikus étterem a központban egy hagyományos svájci ebédhez."
+          },
+          {
+            "name": "Zugi cseresznyetorta",
+            "tip": "Tökéletes egy édes megállóhoz egy baar-i cukrászdában."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Vásároljon egy helyi boltban, hogy megkóstolja az autentikus svájci sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Gotthard",
+            "tip": "Un restaurant clasic în centru pentru un prânz tradițional elvețian."
+          },
+          {
+            "name": "Torta cu cireșe de Zug",
+            "tip": "Perfect pentru o oprire dulce la o cofetărie din Baar."
+          },
+          {
+            "name": "Brânză regională",
+            "tip": "Cumpărați de la un magazin local pentru a gusta brânză elvețiană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Gotthard",
+            "tip": "A classic restaurant in the center for a traditional Swiss lunch."
+          },
+          {
+            "name": "Zuger Kirschtorte",
+            "tip": "Perfect for a sweet stop at a pastry shop in Baar."
+          },
+          {
+            "name": "Regional Cheese",
+            "tip": "Shop at a local store to taste authentic Swiss cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald um Wildenburg",
+            "tip": "Die Stille des Waldes rund um die Ruine ist sehr beruhigend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lorze-Schlucht bei den Höllgrotten",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze mit Blick auf die Schlucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Blick vom Zugerberg",
+            "tip": "Wenn Sie Zeit haben, fahren Sie auf den nahegelegenen Berg für eine atemberaubende Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdő a Wildenburg körül",
+            "tip": "A rom körüli erdő csendje nagyon megnyugtató.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lorze-szurdok a Höllgrottennél",
+            "tip": "A fő utaktól távol csendes helyeket talál, kilátással a szurdokra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Zugerbergről",
+            "tip": "Ha van ideje, hajtson fel a közeli hegyre a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea din jurul Wildenburg",
+            "tip": "Liniștea pădurii din jurul ruinelor este foarte calmantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cheile Lorze lângă Höllgrotten",
+            "tip": "Departe de potecile principale, veți găsi locuri liniștite cu vedere la chei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de pe Zugerberg",
+            "tip": "Dacă aveți timp, conduceți până la muntele din apropiere pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest around Wildenburg",
+            "tip": "The silence of the forest around the ruins is very calming.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lorze Gorge near Höllgrotten",
+            "tip": "Away from the main paths, you will find quiet spots with a view of the gorge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Zugerberg",
+            "tip": "If you have time, drive up the nearby mountain for a breathtaking view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Höllgrotten Souvenirshop",
+            "tip": "Finden Sie einzigartige Geschenke und Mineralien aus den Höhlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Höllgrotten Ajándékbolt",
+            "tip": "Találjon egyedi ajándékokat és ásványokat a barlangokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Höllgrotten",
+            "tip": "Găsiți cadouri unice și minerale din peșteri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Höllgrotten Souvenir Shop",
+            "tip": "Find unique gifts and minerals from the caves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Standorten ein.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Die Höllgrotten sind nur von April bis Oktober geöffnet."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Tervezzen elegendő időt a helyszínek közötti forgalomra.",
+          "GPS vagy navigációs alkalmazás elengedhetetlen.",
+          "A Höllgrotten-barlangok csak áprilistól októberig tartanak nyitva."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Alocați suficient timp pentru traficul între locații.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Peșterile Höllgrotten sunt deschise doar din aprilie până în octombrie."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "Allow enough time for traffic between locations.",
+          "A GPS or navigation app is essential.",
+          "The Höllgrotten caves are only open from April to October."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Baar & Rathaus",
+            "hu": "Baar vasútállomás és Városháza",
+            "ro": "Gara Baar și Primăria",
+            "en": "Baar Station & Town Hall"
+          },
+          "coords": [
+            8.525,
+            47.199
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kirche St. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            8.524,
+            47.196
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Spinnerei an der Lorze",
+            "hu": "Fonoda a Lorze mentén",
+            "ro": "Filatura de pe Lorze",
+            "en": "Spinning Mill on the Lorze"
+          },
+          "coords": [
+            8.532,
+            47.198
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Höllgrotten",
+            "hu": "Höllgrotten-barlangok",
+            "ro": "Peșterile Höllgrotten",
+            "en": "Höllgrotten Caves"
+          },
+          "coords": [
+            8.548,
+            47.175
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:05",
+          "stay_min": 140,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 5.2
+        },
+        {
+          "name": {
+            "de": "Brauerei Baar",
+            "hu": "Baari Sörfőzde",
+            "ro": "Fabrica de bere Baar",
+            "en": "Baar Brewery"
+          },
+          "coords": [
+            8.515,
+            47.193
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:21",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 5.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Bahnhof Baar und erkunden Sie das nahegelegene Stadtzentrum zu Fuß, einschließlich Rathaus und St. Martin. Nach der Erkundung des industriellen Erbes an der Spinnerei nehmen Sie den Bus zum Naturhighlight der Region, den Höllgrotten. Verbringen Sie dort einen großen Teil des Nachmittags. Zum Abschluss bringt Sie ein weiterer Bus zur Brauerei Baar für eine wohlverdiente Belohnung und einen Einblick in die lokale Kultur.",
+        "hu": "Induljon a baari vasútállomásról, és fedezze fel gyalog a közeli városközpontot, beleértve a Városházát és a Szent Márton-templomot. Miután felfedezte az ipari örökséget a fonodánál, szálljon buszra a régió természeti csodájához, a Höllgrotten-barlangokhoz. Töltse ott a délután nagy részét. Végül egy másik busz elviszi a Baari Sörfőzdébe egy jól megérdemelt jutalomért és a helyi kultúrába való bepillantásért.",
+        "ro": "Începeți la gara din Baar și explorați centrul orașului din apropiere pe jos, inclusiv Primăria și Biserica Sf. Martin. După ce explorați patrimoniul industrial de la filatură, luați autobuzul către atracția naturală a regiunii, peșterile Höllgrotten. Petreceți o mare parte a după-amiezii acolo. În cele din urmă, un alt autobuz vă va duce la fabrica de bere Baar pentru o recompensă binemeritată și o incursiune în cultura locală.",
+        "en": "Start at Baar station and explore the nearby town center on foot, including the Town Hall and St. Martin's. After exploring the industrial heritage at the spinning mill, take the bus to the region's natural highlight, the Höllgrotten caves. Spend a large part of the afternoon there. Finally, another bus will take you to the Baar Brewery for a well-deserved reward and a glimpse into local culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Nähe des Bahnhofs",
+            "tip": "Holen Sie sich ein schnelles Frühstück oder einen Kaffee, bevor Sie Ihre Tour beginnen."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Perfekt für ein Mittagessen, ohne die Gegend verlassen zu müssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség az állomás közelében",
+            "tip": "Szerezzen be egy gyors reggelit vagy kávét a túra megkezdése előtt."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Tökéletes ebédhez anélkül, hogy elhagyná a területet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă gară",
+            "tip": "Luați un mic dejun rapid sau o cafea înainte de a începe turul."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Perfect pentru prânz fără a părăsi zona."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery near the station",
+            "tip": "Grab a quick breakfast or coffee before starting your tour."
+          },
+          {
+            "name": "Restaurant Höllgrotten",
+            "tip": "Perfect for lunch without having to leave the area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Lorze",
+            "tip": "Auch wenn Sie mit dem Bus unterwegs sind, nehmen Sie sich Zeit für einen kurzen, ruhigen Spaziergang am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Lorze mentén",
+            "tip": "Még ha busszal is utazik, szánjon időt egy rövid, csendes sétára a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Lorze",
+            "tip": "Chiar dacă călătoriți cu autobuzul, faceți-vă timp pentru o scurtă plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Lorze",
+            "tip": "Even if you are traveling by bus, take time for a short, quiet walk along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte im Stadtzentrum",
+            "tip": "Stöbern Sie in den kleinen Läden rund um das Rathaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a városközpontban",
+            "tip": "Böngésszen a Városháza körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în centrul orașului",
+            "tip": "Răsfoiți micile magazine din jurul Primăriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in the city center",
+            "tip": "Browse the small shops around the Town Hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt von den Höllgrotten.",
+          "Planen Sie zusätzliche Zeit für Wartezeiten an den Haltestellen ein.",
+          "Die Buslinie zu den Höllgrotten verkehrt möglicherweise nicht das ganze Jahr über."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszautat a Höllgrotten-barlangoktól.",
+          "Tervezzen plusz időt a megállókban való várakozásra.",
+          "A Höllgrotten-barlangokhoz közlekedő buszjárat nem biztos, hogy egész évben közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarul autobuzelor, în special pentru ultima cursă de întoarcere de la peșteri.",
+          "Alocați timp suplimentar pentru așteptare în stații.",
+          "Linia de autobuz către peșteri s-ar putea să nu funcționeze pe tot parcursul anului."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check the bus schedule in advance, especially for the last return trip from the caves.",
+          "Allow extra time for waiting at stops.",
+          "The bus line to the caves may not operate all year round."
+        ]
+      }
+    }
+  }
+}

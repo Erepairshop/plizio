@@ -1,0 +1,1412 @@
+{
+  "city_id": "netherlands-harderwijk-cities-v2",
+  "anchor": {
+    "name": "Harderwijk",
+    "coords": [
+      5.62,
+      52.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vischpoort (Fischtor)",
+            "hu": "Vischpoort (Halas kapu)",
+            "ro": "Vischpoort (Poarta Peștelui)",
+            "en": "Vischpoort (Fish Gate)"
+          },
+          "coords": [
+            5.617,
+            52.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für einen tollen Blick auf das Veluwemeer.",
+            "hu": "Mássz fel a toronyba, ahonnan remek kilátás nyílik a Veluwemeer-tóra.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra lacului Veluwemeer.",
+            "en": "Climb the tower for a great view over the Veluwemeer lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Grote Kerk",
+            "hu": "Grote Kerk (Nagytemplom)",
+            "ro": "Grote Kerk (Biserica Mare)",
+            "en": "Grote Kerk (Great Church)"
+          },
+          "coords": [
+            5.619,
+            52.351
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Gewölbemalereien im Inneren.",
+            "hu": "Figyeld meg a lenyűgöző boltozati festményeket a templombelsőben.",
+            "ro": "Observați picturile impresionante de pe bolta din interior.",
+            "en": "Look for the impressive vault paintings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Harderwijk",
+            "hu": "Stadsmuseum Harderwijk (Városi Múzeum)",
+            "ro": "Stadsmuseum Harderwijk (Muzeul Orașului)",
+            "en": "Stadsmuseum Harderwijk (City Museum)"
+          },
+          "coords": [
+            5.622,
+            52.35
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum erzählt die reiche Geschichte der Stadt als Hansestadt und Universitätsstadt.",
+            "hu": "A múzeum a város gazdag, hanza- és egyetemi városi múltját mutatja be.",
+            "ro": "Muzeul povestește istoria bogată a orașului ca oraș hanseatic și universitar.",
+            "en": "The museum tells the rich history of the city as a Hanseatic and university town."
+          }
+        },
+        {
+          "name": {
+            "de": "Marius van Dokkum Museum",
+            "hu": "Marius van Dokkum Múzeum",
+            "ro": "Muzeul Marius van Dokkum",
+            "en": "Marius van Dokkum Museum"
+          },
+          "coords": [
+            5.623,
+            52.351
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein humorvolles Museum, das der Arbeit des berühmten niederländischen Malers gewidmet ist.",
+            "hu": "Egy humoros múzeum, amelyet a híres holland festő munkásságának szenteltek.",
+            "ro": "Un muzeu plin de umor dedicat operei celebrului pictor olandez.",
+            "en": "A humorous museum dedicated to the work of the famous Dutch painter."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeepoort",
+            "hu": "Smeepoort",
+            "ro": "Smeepoort",
+            "en": "Smeepoort"
+          },
+          "coords": [
+            5.623,
+            52.347
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Landtor von Harderwijk, ein schönes Fotomotiv.",
+            "hu": "Harderwijk egyetlen megmaradt szárazföldi kapuja, gyönyörű fotótéma.",
+            "ro": "Singura poartă terestră supraviețuitoare din Harderwijk, un subiect frumos pentru fotografii.",
+            "en": "The only remaining land gate of Harderwijk, a beautiful photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Molen De Hoop",
+            "hu": "Molen De Hoop (A Remény Malma)",
+            "ro": "Molen De Hoop (Moara Speranței)",
+            "en": "Molen De Hoop (The Hope Windmill)"
+          },
+          "coords": [
+            5.628,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Diese funktionierende Mühle verkauft ihr eigenes Mehl im Laden.",
+            "hu": "Ez a működő malom saját lisztjét árulja a boltban.",
+            "ro": "Această moară funcțională își vinde propria făină la magazin.",
+            "en": "This working windmill sells its own flour in the shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Vischpoort, atmen Sie die Seeluft ein und bewundern Sie die Grote Kerk. Am Mittag erkunden Sie die reiche Geschichte im Stadsmuseum und lachen über die Kunst im Marius van Dokkum Museum. Schließen Sie den Tag mit einem Spaziergang zum imposanten Smeepoort und der klassischen holländischen Windmühle De Hoop ab und genießen Sie die Atmosphäre dieser charmanten Hansestadt.",
+        "hu": "Kezdje a napot a történelmi Vischpoortnál, lélegezze be a tengeri levegőt, majd csodálja meg a Grote Kerk templomot. Délben fedezze fel a város gazdag történelmét a Stadsmuseumban, és nevessen egy jót a Marius van Dokkum Múzeum művészetén. Zárja a napot egy sétával a lenyűgöző Smeepoorthoz és a klasszikus holland De Hoop szélmalomhoz, élvezve ennek a bájos Hanza-városnak a hangulatát.",
+        "ro": "Începeți ziua la istoricul Vischpoort, respirați aerul mării și admirați Grote Kerk. La prânz, explorați istoria bogată la Stadsmuseum și amuzați-vă de arta de la Muzeul Marius van Dokkum. Încheiați ziua cu o plimbare la impunătorul Smeepoort și la moara de vânt olandeză clasică, De Hoop, bucurându-vă de atmosfera acestui fermecător oraș hanseatic.",
+        "en": "Start your day at the historic Vischpoort, breathe in the sea air, and admire the Grote Kerk. At midday, explore the rich history at the Stadsmuseum and have a laugh at the art in the Marius van Dokkum Museum. End your day with a walk to the imposing Smeepoort and the classic Dutch windmill, De Hoop, soaking up the atmosphere of this charming Hanseatic city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Harderwijker paling (Aal)",
+            "tip": "Probieren Sie den lokal geräucherten Aal, eine Delikatesse der Stadt. In vielen Restaurants am Boulevard erhältlich."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Holen Sie sich eine frische, warme Stroopwafel von einem Marktstand für einen süßen Genuss."
+          },
+          {
+            "name": "Restaurant 't Schippershuys",
+            "tip": "Ein gemütliches Restaurant in der Nähe des Hafens, ideal für traditionelle niederländische Gerichte und Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harderwijki füstölt angolna",
+            "tip": "Kóstolja meg a helyi füstölt angolnát, a város specialitását. A parti sétány számos éttermében kapható."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Vegyen egy friss, meleg stroopwafelt egy piaci standnál egy édes csemegéért."
+          },
+          {
+            "name": "Restaurant 't Schippershuys",
+            "tip": "Hangulatos étterem a kikötő közelében, ideális a hagyományos holland ételekhez és halakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anghilă afumată de Harderwijk",
+            "tip": "Încercați anghila afumată locală, o delicatesă a orașului. Disponibilă la multe restaurante de pe bulevard."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Luați un stroopwafel proaspăt și cald de la o tarabă din piață pentru un deliciu dulce."
+          },
+          {
+            "name": "Restaurant 't Schippershuys",
+            "tip": "Un restaurant primitor lângă port, ideal pentru mâncăruri tradiționale olandeze și pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harderwijk smoked eel",
+            "tip": "Try the locally smoked eel, a city delicacy. Available at many restaurants along the boulevard."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Get a fresh, warm stroopwafel from a market stall for a sweet treat."
+          },
+          {
+            "name": "Restaurant 't Schippershuys",
+            "tip": "A cozy restaurant near the harbor, ideal for traditional Dutch dishes and fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hortuspark",
+            "tip": "Ein ruhiger Stadtpark, perfekt für eine kurze Pause im Grünen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Veluwemeer Ufer",
+            "tip": "Machen Sie einen Spaziergang am Ufer des Veluwemeers und genießen Sie die Aussicht und die Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bank am Grote Kerk",
+            "tip": "Finden Sie eine ruhige Bank im Schatten der Grote Kerk, um das Treiben zu beobachten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hortuspark",
+            "tip": "Csendes városi park, tökéletes egy rövid, zöld szünetre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Veluwemeer partja",
+            "tip": "Sétáljon egyet a Veluwemeer tó partján, és élvezze a kilátást és a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pad a Grote Kerk mellett",
+            "tip": "Keressen egy csendes padot a Grote Kerk árnyékában, hogy megfigyelje a városi nyüzsgést.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hortuspark",
+            "tip": "Un parc urban liniștit, perfect pentru o scurtă pauză în mijlocul naturii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul lacului Veluwemeer",
+            "tip": "Faceți o plimbare de-a lungul malului lacului Veluwemeer și bucurați-vă de priveliște și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bancă lângă Grote Kerk",
+            "tip": "Găsiți o bancă liniștită la umbra Grote Kerk pentru a privi agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hortuspark",
+            "tip": "A quiet city park perfect for a short green break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Veluwemeer Shore",
+            "tip": "Take a walk along the shore of the Veluwemeer lake and enjoy the view and the quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bench near Grote Kerk",
+            "tip": "Find a quiet bench in the shade of the Grote Kerk to watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt für lokale Produkte, Käse und Souvenirs (prüfen Sie die Tage)."
+          },
+          {
+            "name": "Donkerstraat und Smeestraat",
+            "tip": "Die Haupteinkaufsstraßen mit einer Mischung aus Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a piacra helyi termékekért, sajtokért és ajándéktárgyakért (ellenőrizze a napokat)."
+          },
+          {
+            "name": "Donkerstraat és Smeestraat",
+            "tip": "A fő bevásárlóutcák butikok és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața pentru produse locale, brânzeturi și suveniruri (verificați zilele)."
+          },
+          {
+            "name": "Donkerstraat și Smeestraat",
+            "tip": "Principalele străzi comerciale cu un amestec de buticuri și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market for local produce, cheese, and souvenirs (check for days)."
+          },
+          {
+            "name": "Donkerstraat and Smeestraat",
+            "tip": "The main shopping streets with a mix of boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum Kopfsteinpflaster hat.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie Ausschau nach den 'Struikelstenen' (Stolpersteinen), die an die Opfer des Holocaust erinnern.",
+          "Ein Spaziergang entlang des Boulevards bei Sonnenuntergang ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ macskaköves.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Keresse a 'Struikelstenen'-t (botlatóköveket), amelyek a holokauszt áldozataira emlékeztetnek.",
+          "Erősen ajánlott egy naplementi séta a parti sétányon."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul istoric are pavele.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Căutați 'Struikelstenen' (pietrele de poticnire), care comemorează victimele Holocaustului.",
+          "O plimbare de-a lungul bulevardului la apus este foarte recomandată."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center has cobblestones.",
+          "Most sights in the center are within easy walking distance.",
+          "Look out for the 'Struikelstenen' (stumbling stones), commemorating victims of the Holocaust.",
+          "A walk along the boulevard at sunset is highly recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Molen De Hoop",
+            "hu": "Molen De Hoop (A Remény Malma)",
+            "ro": "Molen De Hoop (Moara Speranței)",
+            "en": "Molen De Hoop (The Hope Windmill)"
+          },
+          "coords": [
+            5.628,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um einen Eindruck vom traditionellen niederländischen Erbe zu bekommen.",
+            "hu": "Kezdje itt, hogy bepillantást nyerjen a hagyományos holland örökségbe.",
+            "ro": "Începeți aici pentru a vă face o idee despre moștenirea tradițională olandeză.",
+            "en": "Start here to get a feel for traditional Dutch heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Smeepoort",
+            "hu": "Smeepoort",
+            "ro": "Smeepoort",
+            "en": "Smeepoort"
+          },
+          "coords": [
+            5.623,
+            52.347
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem alten Stadttor, bevor Sie ins Zentrum fahren.",
+            "hu": "Egy rövid megálló ennél a régi városkapunál, mielőtt a központba tekernél.",
+            "ro": "O scurtă oprire la această veche poartă a orașului înainte de a merge cu bicicleta spre centru.",
+            "en": "A quick stop at this old city gate before cycling into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum & Marius van Dokkum Museum",
+            "hu": "Stadsmuseum és Marius van Dokkum Múzeum",
+            "ro": "Stadsmuseum & Muzeul Marius van Dokkum",
+            "en": "Stadsmuseum & Marius van Dokkum Museum"
+          },
+          "coords": [
+            5.622,
+            52.35
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und besuchen Sie diese beiden benachbarten Museen.",
+            "hu": "Parkold le a biciklidet, és látogasd meg ezt a két szomszédos múzeumot.",
+            "ro": "Parcați-vă bicicleta și vizitați aceste două muzee învecinate.",
+            "en": "Park your bike and visit these two neighboring museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Vischpoort",
+            "hu": "Vischpoort",
+            "ro": "Vischpoort",
+            "en": "Vischpoort"
+          },
+          "coords": [
+            5.617,
+            52.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafen und genießen Sie die maritime Atmosphäre am Fischtor.",
+            "hu": "Tekerj le a kikötőbe, és élvezd a tengeri hangulatot a Halas kapunál.",
+            "ro": "Mergeți cu bicicleta până la port și bucurați-vă de atmosfera maritimă de la Poarta Peștelui.",
+            "en": "Cycle down to the harbor and enjoy the maritime atmosphere at the Fish Gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Onze-Lieve-Vrouwekerk",
+            "hu": "Onze-Lieve-Vrouwekerk",
+            "ro": "Onze-Lieve-Vrouwekerk",
+            "en": "Onze-Lieve-Vrouwekerk"
+          },
+          "coords": [
+            5.621,
+            52.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Kirche, auch bekannt als Basilika, ist ein ruhiger Ort der Besinnung.",
+            "hu": "Ez a bazilikaként is ismert templom a csendes elmélkedés helye.",
+            "ro": "Această biserică, cunoscută și sub numele de bazilică, este un loc liniștit pentru reflecție.",
+            "en": "This church, also known as the Basilica, is a quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolfinarium",
+            "hu": "Dolfinárium",
+            "ro": "Delfinariu",
+            "en": "Dolfinarium"
+          },
+          "coords": [
+            5.61,
+            52.356
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die Shows ein, es ist der größte Meeressäugetierpark Europas.",
+            "hu": "Tervezz elegendő időt a bemutatókra, ez Európa legnagyobb tengeri emlősparkja.",
+            "ro": "Planificați-vă suficient timp pentru spectacole, este cel mai mare parc de mamifere marine din Europa.",
+            "en": "Plan enough time for the shows, it's the largest marine mammal park in Europe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie bei der Windmühle De Hoop, bevor Sie durch die historischen Tore Smeepoort und Vischpoort radeln. Am Mittag tauchen Sie in die Kultur der Stadt in den beiden zentralen Museen ein. Der Nachmittag ist für das Highlight reserviert: eine längere Fahrt zum berühmten Dolfinarium, wo Sie die faszinierende Welt der Meerestiere entdecken. Ein perfekter Tag, der Kultur und Natur verbindet.",
+        "hu": "Pattanjon biciklire, és induljon a De Hoop szélmalomtól, mielőtt áthaladna a történelmi Smeepoort és Vischpoort kapukon. Délben merüljön el a város kultúrájában a két központi múzeumban. A délután a fényponté: egy hosszabb tekerés a híres Dolfináriumhoz, ahol felfedezheti a tengeri állatok lenyűgöző világát. Tökéletes nap, amely ötvözi a kultúrát és a természetet.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la moara de vânt De Hoop înainte de a trece prin porțile istorice Smeepoort și Vischpoort. La prânz, scufundați-vă în cultura orașului la cele două muzee centrale. După-amiaza este rezervată pentru punctul culminant: o plimbare mai lungă cu bicicleta la faimosul Delfinariu, unde veți descoperi lumea fascinantă a animalelor marine. O zi perfectă care combină cultura și natura.",
+        "en": "Hop on your bike and start at the De Hoop windmill before cycling through the historic Smeepoort and Vischpoort gates. At midday, immerse yourself in the city's culture at the two central museums. The afternoon is reserved for the highlight: a longer ride to the famous Dolfinarium, where you'll discover the fascinating world of marine animals. A perfect day combining culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friet (Pommes)",
+            "tip": "Holen Sie sich eine Tüte niederländische Pommes mit einer Sauce Ihrer Wahl – perfekt für unterwegs."
+          },
+          {
+            "name": "Viskraam (Fischstand)",
+            "tip": "Probieren Sie Kibbeling (frittierte Kabeljaustücke) oder einen Hering am Hafen."
+          },
+          {
+            "name": "De Boterlap",
+            "tip": "Ein beliebtes Café-Restaurant für ein herzhaftes Mittagessen oder ein kühles Getränk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friet (Sült krumpli)",
+            "tip": "Vegyen egy adag holland sült krumplit választható szósszal – tökéletes útközben."
+          },
+          {
+            "name": "Viskraam (Halas bódé)",
+            "tip": "Kóstolja meg a Kibbelinget (sült tőkehal darabok) vagy egy heringet a kikötőben."
+          },
+          {
+            "name": "De Boterlap",
+            "tip": "Népszerű kávézó-étterem egy kiadós ebédhez vagy egy hűsítő italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friet (Cartofi prăjiți)",
+            "tip": "Luați un cornet de cartofi prăjiți olandezi cu sos la alegere - perfect pentru drum."
+          },
+          {
+            "name": "Viskraam (Stand de pește)",
+            "tip": "Încercați Kibbeling (bucăți de cod prăjit) sau un hering în port."
+          },
+          {
+            "name": "De Boterlap",
+            "tip": "O cafenea-restaurant populară pentru un prânz copios sau o băutură răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friet (Fries)",
+            "tip": "Grab a cone of Dutch fries with a sauce of your choice - perfect for on the go."
+          },
+          {
+            "name": "Viskraam (Fish stall)",
+            "tip": "Try some Kibbeling (fried cod pieces) or a herring at the harbor."
+          },
+          {
+            "name": "De Boterlap",
+            "tip": "A popular cafe-restaurant for a hearty lunch or a cool drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadspark Harderwijk",
+            "tip": "Ein schöner Park zum Entspannen nach dem Museumsbesuch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strandeiland",
+            "tip": "Fahren Sie zum kleinen Strand in der Nähe des Dolfinariums für eine Pause am Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Langs de Stadsmuur",
+            "tip": "Eine ruhige Fahrradtour entlang der alten Stadtmauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadspark Harderwijk",
+            "tip": "Szép park a pihenéshez a múzeumlátogatás után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strandeiland",
+            "tip": "Tekerj el a Dolfinárium melletti kis strandra egy vízparti szünetért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Langs de Stadsmuur",
+            "tip": "Csendes biciklitúra a régi városfalak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadspark Harderwijk",
+            "tip": "Un parc frumos pentru a vă relaxa după vizita la muzeu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strandeiland",
+            "tip": "Mergeți cu bicicleta la mica plajă de lângă Delfinariu pentru o pauză lângă apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Langs de Stadsmuur",
+            "tip": "O plimbare liniștită cu bicicleta de-a lungul vechilor ziduri ale orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadspark Harderwijk",
+            "tip": "A lovely park to relax in after the museum visit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strandeiland",
+            "tip": "Cycle to the small beach near the Dolfinarium for a break by the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Langs de Stadsmuur",
+            "tip": "A quiet bike ride along the old city walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Molenwinkel De Hoop",
+            "tip": "Kaufen Sie im Laden der Windmühle lokal gemahlenes Mehl oder Backmischungen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In der Stadt gibt es mehrere Geschäfte für Fahrradzubehör oder Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molenwinkel De Hoop",
+            "tip": "Vásároljon helyben őrölt lisztet vagy sütőkeverékeket a szélmalom boltjában."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "A városban több bolt is található kerékpáros kiegészítőkért vagy ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molenwinkel De Hoop",
+            "tip": "Cumpărați făină măcinată local sau amestecuri pentru copt de la magazinul morii de vânt."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în oraș pentru accesorii de biciclete sau suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Molenwinkel De Hoop",
+            "tip": "Buy locally ground flour or baking mixes from the windmill's shop."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in town for cycling accessories or souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs oder im Stadtzentrum, wenn Sie keins haben.",
+          "Achten Sie auf die Fahrradwege (fietspaden) und die Verkehrsregeln.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Die Fahrt zum Dolfinarium ist größtenteils flach und landschaftlich reizvoll."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a pályaudvar közelében vagy a városközpontban, ha nincs sajátja.",
+          "Figyeljen a kerékpárutakra (fietspaden) és a közlekedési szabályokra.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is.",
+          "A Dolfináriumhoz vezető út többnyire sík és festői."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară sau în centrul orașului dacă nu aveți una.",
+          "Fiți atenți la pistele de biciclete (fietspaden) și la regulile de circulație.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Traseul către Delfinariu este în mare parte plat și pitoresc."
+        ],
+        "en": [
+          "Rent a bike near the train station or in the city center if you don't have one.",
+          "Pay attention to the bike paths (fietspaden) and traffic rules.",
+          "Always lock your bike, even for short stops.",
+          "The ride to the Dolfinarium is mostly flat and scenic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Smeepoort",
+            "hu": "Parkoló a központnál és Smeepoort",
+            "ro": "Parcare Centru & Smeepoort",
+            "en": "Parking Center & Smeepoort"
+          },
+          "coords": [
+            5.624,
+            52.346
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Smeepoort (z.B. Parkhaus Houtwal) und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkolj a Smeepoort közelében (pl. a Houtwal parkolóházban), és kezdd a sétát.",
+            "ro": "Parcați lângă Smeepoort (de ex. parcarea Houtwal) și începeți turul pe jos.",
+            "en": "Park near the Smeepoort (e.g., Houtwal parking garage) and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Harderwijk",
+            "hu": "Stadsmuseum Harderwijk",
+            "ro": "Stadsmuseum Harderwijk",
+            "en": "Stadsmuseum Harderwijk"
+          },
+          "coords": [
+            5.622,
+            52.35
+          ],
+          "category": "museums",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Tor zum Herzen der Stadtgeschichte.",
+            "hu": "Egy rövid séta a kaputól a város történelmének szívébe.",
+            "ro": "O scurtă plimbare de la poartă la inima istoriei orașului.",
+            "en": "A short walk from the gate to the heart of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Vischpoort & Hafen",
+            "hu": "Vischpoort és kikötő",
+            "ro": "Vischpoort & Port",
+            "en": "Vischpoort & Harbor"
+          },
+          "coords": [
+            5.617,
+            52.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hafen, um die maritime Vergangenheit der Stadt aufzusaugen.",
+            "hu": "Sétálj le a kikötőbe, hogy magadba szívd a város tengeri múltját.",
+            "ro": "Plimbați-vă până la port pentru a absorbi trecutul maritim al orașului.",
+            "en": "Stroll down to the harbor to soak up the city's maritime past."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            5.62,
+            52.351
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen charmanten Restaurants für eine Mahlzeit.",
+            "hu": "Válassz egyet a sok hangulatos étterem közül egy ebédre.",
+            "ro": "Alegeți unul dintre multele restaurante fermecătoare pentru o masă.",
+            "en": "Choose one of the many charming restaurants for a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolfinarium",
+            "hu": "Dolfinárium",
+            "ro": "Delfinariu",
+            "en": "Dolfinarium"
+          },
+          "coords": [
+            5.61,
+            52.356
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Dolfinarium und parken Sie dort für den Nachmittag voller Shows.",
+            "hu": "Vezessen el a Dolfináriumhoz, és parkoljon le a show-kkal teli délutánra.",
+            "ro": "Conduceți la Delfinariu și parcați acolo pentru o după-amiază plină de spectacole.",
+            "en": "Drive to the Dolfinarium and park there for the afternoon of shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Molen De Hoop",
+            "hu": "Molen De Hoop",
+            "ro": "Molen De Hoop",
+            "en": "Molen De Hoop"
+          },
+          "coords": [
+            5.628,
+            52.35
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Halt bei der Windmühle als Abschluss Ihres Tages.",
+            "hu": "Egy utolsó, rövid megálló a szélmalomnál a nap lezárásaként.",
+            "ro": "O ultimă oprire scurtă la moara de vânt pentru a încheia ziua.",
+            "en": "A final quick stop at the windmill to cap off your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den historischen Kern von Harderwijk zu Fuß: von den alten Toren bis zum belebten Hafen. Nach einem gemütlichen Mittagessen in der Altstadt fahren Sie zum Dolfinarium, dem unbestrittenen Highlight. Verbringen Sie den Nachmittag mit Delfinen und Seelöwen. Ein kurzer Autostopp bei der Windmühle De Hoop rundet Ihren erlebnisreichen Tag ab, bevor Sie die Stadt verlassen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog Harderwijk történelmi magját: a régi kapuktól a nyüzsgő kikötőig. Egy kellemes óvárosi ebéd után vezessen a Dolfináriumhoz, a vitathatatlan fénypontjához. Töltse a délutánt delfinekkel és oroszlánfókákkal. Egy rövid autós megálló a De Hoop szélmalomnál teszi teljessé az eseménydús napot, mielőtt elhagyná a várost.",
+        "ro": "Parcați mașina în centru și explorați nucleul istoric al Harderwijk-ului pe jos: de la porțile vechi la portul plin de viață. După un prânz relaxat în orașul vechi, conduceți la Delfinariu, punctul culminant de necontestat. Petreceți după-amiaza cu delfini și lei de mare. O scurtă oprire cu mașina la moara de vânt De Hoop completează ziua plină de evenimente înainte de a părăsi orașul.",
+        "en": "Park your car centrally and explore Harderwijk's historic core on foot: from the old gates to the bustling harbor. After a leisurely lunch in the old town, drive to the Dolfinarium, the undisputed highlight. Spend the afternoon with dolphins and sea lions. A final quick car stop at the De Hoop windmill completes your eventful day before you leave the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannenkoeken (Pfannkuchen)",
+            "tip": "Ein klassisches niederländisches Gericht, süß oder herzhaft. Viele Restaurants bieten sie an."
+          },
+          {
+            "name": "Restaurant Basiliek",
+            "tip": "Für ein gehobenes kulinarisches Erlebnis, ausgezeichnet mit Michelin-Sternen."
+          },
+          {
+            "name": "Boulevard Harderwijk",
+            "tip": "Viele Restaurants mit Terrassen und Blick auf das Wasser, ideal nach dem Dolfinarium."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannenkoeken (Palacsinta)",
+            "tip": "Klasszikus holland étel, édesen vagy sósan. Sok étterem kínálja."
+          },
+          {
+            "name": "Restaurant Basiliek",
+            "tip": "Egy csúcskategóriás kulináris élményért, Michelin-csillagokkal kitüntetve."
+          },
+          {
+            "name": "Boulevard Harderwijk",
+            "tip": "Sok étterem terasszal és kilátással a vízre, ideális a Dolfinárium után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannenkoeken (Clătite)",
+            "tip": "Un fel de mâncare clasic olandez, dulce sau sărat. Multe restaurante le oferă."
+          },
+          {
+            "name": "Restaurant Basiliek",
+            "tip": "Pentru o experiență culinară de excepție, premiată cu stele Michelin."
+          },
+          {
+            "name": "Bulevardul Harderwijk",
+            "tip": "Multe restaurante cu terase și vedere la apă, ideale după Delfinariu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannenkoeken (Pancakes)",
+            "tip": "A classic Dutch dish, sweet or savory. Many restaurants offer them."
+          },
+          {
+            "name": "Restaurant Basiliek",
+            "tip": "For a high-end dining experience, awarded with Michelin stars."
+          },
+          {
+            "name": "Boulevard Harderwijk",
+            "tip": "Lots of restaurants with terraces and a view of the water, ideal for after the Dolfinarium."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zwaluwhoeve Wellnessresort",
+            "tip": "Wenn Sie Zeit haben, entspannen Sie in diesem nahegelegenen Spa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferpromenade",
+            "tip": "Ein ruhiger Ort für einen Abendspaziergang nach dem Abendessen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harderwijker Bos",
+            "tip": "Ein Waldgebiet etwas außerhalb der Stadt für eine ruhige Fahrt oder einen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwaluwhoeve Wellness Resort",
+            "tip": "Ha van időd, pihenj ebben a közeli wellness-központban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes hely egy esti sétához vacsora után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harderwijker Bos",
+            "tip": "Egy erdős terület a városon kívül egy csendes autózáshoz vagy sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zwaluwhoeve Wellness Resort",
+            "tip": "Dacă aveți timp, relaxați-vă la acest spa din apropiere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Promenada de pe malul apei",
+            "tip": "Un loc liniștit pentru o plimbare de seară după cină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harderwijker Bos",
+            "tip": "O zonă împădurită chiar în afara orașului pentru o plimbare liniștită cu mașina sau pe jos.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zwaluwhoeve Wellness Resort",
+            "tip": "If you have time, relax at this nearby spa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waterfront promenade",
+            "tip": "A quiet spot for an evening walk after dinner.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Harderwijker Bos",
+            "tip": "A forested area just outside the city for a quiet drive or walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dolfinarium Souvenirshop",
+            "tip": "Finden Sie hier Plüschtiere und maritime Souvenirs."
+          },
+          {
+            "name": "'t Kaasmeisje",
+            "tip": "Ein Fachgeschäft für eine große Auswahl an niederländischem Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dolfinárium ajándékbolt",
+            "tip": "Itt plüssállatokat és tengeri ajándéktárgyakat talál."
+          },
+          {
+            "name": "'t Kaasmeisje",
+            "tip": "Szaküzlet a holland sajtok széles választékával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de suveniruri al Delfinariului",
+            "tip": "Găsiți aici animale de pluș și suveniruri marine."
+          },
+          {
+            "name": "'t Kaasmeisje",
+            "tip": "Un magazin specializat pentru o selecție largă de brânzeturi olandeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dolfinarium Souvenir Shop",
+            "tip": "Find plush toys and marine-themed souvenirs here."
+          },
+          {
+            "name": "'t Kaasmeisje",
+            "tip": "A specialty shop for a wide selection of Dutch cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren; das Parken kann teuer sein. Parkhäuser sind oft günstiger als Straßenparkplätze.",
+          "Die Altstadt ist kompakt, das Auto ist dort nicht notwendig.",
+          "Buchen Sie Dolfinarium-Tickets online im Voraus, um Warteschlangen zu vermeiden und möglicherweise Geld zu sparen.",
+          "Beachten Sie die Umweltzonen (milieuzones) in oder um niederländische Städte."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat; a parkolás drága lehet. A parkolóházak gyakran olcsóbbak, mint az utcai parkolás.",
+          "Az óváros kompakt, ott nincs szükség autóra.",
+          "Foglalja le a Dolfinárium jegyeket online előre, hogy elkerülje a sorban állást és esetleg pénzt takarítson meg.",
+          "Vegye figyelembe a környezetvédelmi zónákat (milieuzones) a holland városokban vagy azok környékén."
+        ],
+        "ro": [
+          "Verificați taxele de parcare; parcarea poate fi scumpă. Parcajele multietajate sunt adesea mai ieftine decât parcarea stradală.",
+          "Orașul vechi este compact, mașina nu este necesară acolo.",
+          "Rezervați biletele la Delfinariu online în avans pentru a evita cozile și, eventual, pentru a economisi bani.",
+          "Fiți atenți la zonele cu emisii reduse (milieuzones) în sau în jurul orașelor olandeze."
+        ],
+        "en": [
+          "Check parking fees; parking can be expensive. Parking garages are often cheaper than street parking.",
+          "The old town is compact, the car is not necessary there.",
+          "Book Dolfinarium tickets online in advance to avoid queues and possibly save money.",
+          "Be aware of low-emission zones (milieuzones) in or around Dutch cities."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof & Bus zum Zentrum",
+            "hu": "Érkezés a pályaudvarra és busz a központba",
+            "ro": "Sosire la gară & autobuz spre centru",
+            "en": "Arrival at Station & Bus to Center"
+          },
+          "coords": [
+            5.621,
+            52.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie vom Bahnhof einen Bus ins Zentrum und steigen Sie in der Nähe der Onze-Lieve-Vrouwekerk aus.",
+            "hu": "A pályaudvarról busszal menj a központba, és szállj le az Onze-Lieve-Vrouwekerk közelében.",
+            "ro": "Luați un autobuz de la gară spre centru și coborâți lângă Onze-Lieve-Vrouwekerk.",
+            "en": "Take a bus from the station to the center, getting off near the Onze-Lieve-Vrouwekerk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsmuseum Harderwijk",
+            "hu": "Stadsmuseum Harderwijk",
+            "ro": "Stadsmuseum Harderwijk",
+            "en": "Stadsmuseum Harderwijk"
+          },
+          "coords": [
+            5.622,
+            52.35
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte der Hansestadt.",
+            "hu": "Merülj el a Hanza-város történelmében.",
+            "ro": "Scufundați-vă în istoria orașului hanseatic.",
+            "en": "Immerse yourself in the history of the Hanseatic city."
+          }
+        },
+        {
+          "name": {
+            "de": "Vischpoort & Hafen",
+            "hu": "Vischpoort és kikötő",
+            "ro": "Vischpoort & Port",
+            "en": "Vischpoort & Harbor"
+          },
+          "coords": [
+            5.617,
+            52.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und vielleicht einen schnellen Fischsnack am Hafen.",
+            "hu": "Élvezd a kilátást és esetleg egy gyors halas falatot a kikötőben.",
+            "ro": "Bucurați-vă de priveliște și poate de o gustare rapidă cu pește în port.",
+            "en": "Enjoy the view and maybe a quick fish snack at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Dolfinarium",
+            "hu": "Busz a Dolfináriumhoz",
+            "ro": "Autobuz spre Delfinariu",
+            "en": "Bus to Dolfinarium"
+          },
+          "coords": [
+            5.61,
+            52.356
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 240,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Dolfinarium. Planen Sie Zeit für den Busfahrplan ein.",
+            "hu": "Menj busszal a központból a Dolfináriumba. Tervezz a buszmenetrenddel.",
+            "ro": "Luați un autobuz din centru spre Delfinariu. Țineți cont de orarul autobuzului.",
+            "en": "Take a bus from the center to the Dolfinarium. Allow time for the bus schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Bahnhof",
+            "hu": "Visszaút a pályaudvarra",
+            "ro": "Întoarcere la gară",
+            "en": "Return to Station"
+          },
+          "coords": [
+            5.635,
+            52.343
+          ],
+          "category": "transit",
+          "arrive_at": "17:10",
+          "stay_min": 5,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Dolfinarium zurück zum Bahnhof.",
+            "hu": "A Dolfináriumból busszal menj vissza a pályaudvarra.",
+            "ro": "Luați autobuzul de la Delfinariu înapoi la gară.",
+            "en": "Take the bus back from the Dolfinarium to the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen stressfreien Tag. Ein Bus bringt Sie vom Bahnhof ins Herz der Altstadt, wo Sie die historischen Highlights zu Fuß erkunden. Schlendern Sie durch die Gassen, besuchen Sie Museen und genießen Sie die Hafenatmosphäre. Am Nachmittag bringt Sie ein weiterer Bus zum berühmten Dolfinarium, wo Sie in die Unterwasserwelt eintauchen. Am Ende des Tages bringt Sie der Bus bequem zurück zum Bahnhof.",
+        "hu": "Használja a tömegközlekedést egy stresszmentes naphoz. A busz a pályaudvarról az óváros szívébe visz, ahol gyalog fedezheti fel a történelmi nevezetességeket. Sétáljon a sikátorokban, látogasson el múzeumokba, és élvezze a kikötői hangulatot. Délután egy másik busz elviszi a híres Dolfináriumba, ahol elmerülhet a víz alatti világban. A nap végén a busz kényelmesen visszaviszi Önt a pályaudvarra.",
+        "ro": "Folosiți transportul public pentru o zi fără stres. Un autobuz vă va duce de la gară în inima orașului vechi, unde puteți explora punctele de atracție istorice pe jos. Plimbați-vă pe alei, vizitați muzee și bucurați-vă de atmosfera portuară. După-amiaza, un alt autobuz vă va duce la faimosul Delfinariu, unde vă puteți scufunda în lumea subacvatică. La sfârșitul zilei, autobuzul vă va duce confortabil înapoi la gară.",
+        "en": "Use public transport for a stress-free day. A bus takes you from the station into the heart of the old town, where you can explore the historic highlights on foot. Wander the alleys, visit museums, and enjoy the harbor atmosphere. In the afternoon, another bus takes you to the famous Dolfinarium, where you can dive into the underwater world. At the end of the day, the bus conveniently brings you back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje (Belegtes Brötchen)",
+            "tip": "Ein schnelles und leckeres Mittagessen aus einer lokalen Bäckerei (bakkerij)."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Machen Sie eine Pause in einem der vielen Cafés für einen 'koffie met gebak'."
+          },
+          {
+            "name": "Dolfinarium Restaurants",
+            "tip": "Mehrere Selbstbedienungsrestaurants im Park für eine einfache Mahlzeit während Ihres Besuchs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje (Szendvics)",
+            "tip": "Gyors és finom ebéd egy helyi pékségből (bakkerij)."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson szünetet a sok kávézó egyikében egy 'koffie met gebak'-ra."
+          },
+          {
+            "name": "Dolfinárium éttermek",
+            "tip": "Több önkiszolgáló étterem a parkban egy egyszerű étkezéshez a látogatás során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje (Sandviș)",
+            "tip": "Un prânz rapid și delicios de la o brutărie locală (bakkerij)."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Faceți o pauză la una dintre multele cafenele pentru un 'koffie met gebak'."
+          },
+          {
+            "name": "Restaurantele Delfinariului",
+            "tip": "Mai multe restaurante cu autoservire în parc pentru o masă simplă în timpul vizitei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje (Sandwich)",
+            "tip": "A quick and delicious lunch from a local bakery (bakkerij)."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Take a break in one of the many cafes for a 'koffie met gebak'."
+          },
+          {
+            "name": "Dolfinarium Restaurants",
+            "tip": "Several self-service restaurants in the park for a simple meal during your visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchgärten",
+            "tip": "Die Gärten um die Grote Kerk und Onze-Lieve-Vrouwekerk sind oft ruhige Oasen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Wasser",
+            "tip": "Ein ruhiger Spaziergang entlang des Wolderwijd-Sees in der Nähe des Dolfinariums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothek Harderwijk",
+            "tip": "Ein warmer und ruhiger Ort, um sich für eine Weile zurückzuziehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkertek",
+            "tip": "A Grote Kerk és az Onze-Lieve-Vrouwekerk körüli kertek gyakran csendes oázisok.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vízparti séta",
+            "tip": "Csendes séta a Wolderwijd-tó mentén a Dolfinárium közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harderwijki Könyvtár",
+            "tip": "Meleg és csendes hely, ahová egy időre visszavonulhat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile bisericilor",
+            "tip": "Grădinile din jurul Grote Kerk și Onze-Lieve-Vrouwekerk sunt adesea oaze de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul apei",
+            "tip": "O plimbare liniștită de-a lungul lacului Wolderwijd, lângă Delfinariu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca Harderwijk",
+            "tip": "Un loc cald și liniștit unde vă puteți retrage pentru o vreme.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Gardens",
+            "tip": "The gardens around the Grote Kerk and Onze-Lieve-Vrouwekerk are often quiet oases.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Waterfront walk",
+            "tip": "A quiet walk along the Wolderwijd lake near the Dolfinarium.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Harderwijk Library",
+            "tip": "A warm and quiet place to retreat for a while.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk (AKO)",
+            "tip": "Kaufen Sie Zeitschriften oder Snacks für Ihre Zugfahrt."
+          },
+          {
+            "name": "Hondegatstraat",
+            "tip": "Eine charmante Straße mit kleinen, unabhängigen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk (AKO)",
+            "tip": "Vásároljon magazinokat vagy rágcsálnivalókat a vonatútra."
+          },
+          {
+            "name": "Hondegatstraat",
+            "tip": "Bájos utca kis, független üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de gară (AKO)",
+            "tip": "Cumpărați reviste sau gustări pentru călătoria cu trenul."
+          },
+          {
+            "name": "Hondegatstraat",
+            "tip": "O stradă fermecătoare cu magazine mici, independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk (AKO)",
+            "tip": "Buy magazines or snacks for your train journey."
+          },
+          {
+            "name": "Hondegatstraat",
+            "tip": "A charming street with small, independent shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder verwenden Sie Ihre kontaktlose Debit-/Kreditkarte für einfaches Ein- und Auschecken.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, insbesondere für die Rückfahrt vom Dolfinarium.",
+          "Laden Sie eine niederländische ÖPNV-App wie 9292 herunter, um Ihre Reise in Echtzeit zu planen.",
+          "Eine Tageskarte für den Bus kann günstiger sein, wenn Sie mehrere Fahrten planen."
+        ],
+        "hu": [
+          "Vásároljon egy OV-chipkaart-ot, vagy használja érintésmentes bank-/hitelkártyáját az egyszerű be- és kijelentkezéshez.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen a Dolfináriumból való visszautazáshoz.",
+          "Töltsön le egy holland tömegközlekedési alkalmazást, például a 9292-t, hogy valós időben tervezhesse utazását.",
+          "Egy buszos napijegy olcsóbb lehet, ha több utazást tervez."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau folosiți cardul de debit/credit contactless pentru check-in și check-out ușor.",
+          "Verificați din timp orarele autobuzelor, în special pentru călătoria de întoarcere de la Delfinariu.",
+          "Descărcați o aplicație olandeză de transport public, cum ar fi 9292, pentru a vă planifica călătoria în timp real.",
+          "Un bilet de o zi pentru autobuz poate fi mai ieftin dacă plănuiți mai multe călătorii."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or use your contactless debit/credit card for easy check-in and check-out.",
+          "Check bus schedules in advance, especially for the return trip from the Dolfinarium.",
+          "Download a Dutch public transport app like 9292 to plan your journey in real-time.",
+          "A day ticket for the bus might be cheaper if you plan multiple trips."
+        ]
+      }
+    }
+  }
+}

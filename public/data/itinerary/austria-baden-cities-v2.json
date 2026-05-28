@@ -1,0 +1,1556 @@
+{
+  "city_id": "austria-baden-cities-v2",
+  "anchor": {
+    "name": "Baden",
+    "coords": [
+      16.2308,
+      48.0069
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephan"
+          },
+          "coords": [
+            16.2341,
+            48.0075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das gotische Sakramentshaus und die barocken Altäre.",
+            "hu": "Figyelje meg a gótikus szentségházat és a barokk oltárokat.",
+            "ro": "Observați tabernacolul gotic și altarele baroce.",
+            "en": "Look for the Gothic sacrament house and the Baroque altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserhaus",
+            "hu": "Kaiserhaus (Császár háza)",
+            "ro": "Kaiserhaus (Casa Imperială)",
+            "en": "Kaiserhaus (Emperor's House)"
+          },
+          "coords": [
+            16.2325,
+            48.0082
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier residierte der letzte österreichische Kaiser, Karl I. Informieren Sie sich über die Führungen.",
+            "hu": "Itt lakott az utolsó osztrák császár, I. Károly. Érdeklődjön a vezetett túrákról.",
+            "ro": "Aici a locuit ultimul împărat austriac, Carol I. Întrebați despre tururile ghidate.",
+            "en": "This was the residence of the last Austrian emperor, Charles I. Ask about guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethovenhaus Baden",
+            "hu": "Beethoven-ház, Baden",
+            "ro": "Casa Beethoven din Baden",
+            "en": "Beethoven House Baden"
+          },
+          "coords": [
+            16.2311,
+            48.0049
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Klassikfans. Hier komponierte Beethoven Teile seiner 9. Symphonie.",
+            "hu": "A komolyzene rajongóinak kötelező. Beethoven itt komponálta a 9. szimfónia egyes részeit.",
+            "ro": "O vizită obligatorie pentru fanii muzicii clasice. Beethoven a compus aici părți din Simfonia a 9-a.",
+            "en": "A must-see for classical music fans. Beethoven composed parts of his 9th Symphony here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arnulf Rainer Museum",
+            "hu": "Arnulf Rainer Múzeum",
+            "ro": "Muzeul Arnulf Rainer",
+            "en": "Arnulf Rainer Museum"
+          },
+          "coords": [
+            16.2366,
+            48.0091
+          ],
+          "category": "museums",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem alten Bad. Der Kontrast zwischen Gebäude und Ausstellung ist faszinierend.",
+            "hu": "Modern művészet egy régi fürdőépületben. Az épület és a kiállítás kontrasztja lenyűgöző.",
+            "ro": "Artă modernă într-o baie veche. Contrastul dintre clădire și expoziție este fascinant.",
+            "en": "Modern art in an old bathhouse. The contrast between the building and the exhibition is fascinating."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurpark Baden & Casino",
+            "hu": "Kurpark (Gyógypark) és Kaszinó",
+            "ro": "Parcul balnear (Kurpark) și Cazinoul",
+            "en": "Kurpark (Spa Park) & Casino"
+          },
+          "coords": [
+            16.2378,
+            48.0085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Beethoventempel für eine tolle Aussicht und bewundern Sie die Blumenbeete.",
+            "hu": "Sétáljon el a Beethoven-templomhoz a nagyszerű kilátásért, és csodálja meg a virágágyásokat.",
+            "ro": "Plimbați-vă la Templul lui Beethoven pentru o priveliște minunată și admirați straturile de flori.",
+            "en": "Stroll to the Beethoven Temple for a great view and admire the flowerbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Römertherme",
+            "hu": "Römertherme (Római fürdő)",
+            "ro": "Römertherme (Termele Romane)",
+            "en": "Römertherme (Roman Spa)"
+          },
+          "coords": [
+            16.2301,
+            48.0036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht schwimmen gehen, ist die Glasarchitektur beeindruckend.",
+            "hu": "Még ha nem is úszik, az üvegépítészet lenyűgöző.",
+            "ro": "Chiar dacă nu intrați la înot, arhitectura de sticlă este impresionantă.",
+            "en": "Even if you don't go for a swim, the glass architecture is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosarium im Doblhoffpark",
+            "hu": "Rosarium a Doblhoffparkban",
+            "ro": "Rosarium din Parcul Doblhoff",
+            "en": "Rosarium in Doblhoff Park"
+          },
+          "coords": [
+            16.2255,
+            48.0033
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besonders schön während der Rosenblüte im Juni. Ein Paradies für Fotografen.",
+            "hu": "Különösen szép a júniusi rózsavirágzás idején. A fotósok paradicsoma.",
+            "ro": "Deosebit de frumos în timpul înfloririi trandafirilor, în iunie. Un paradis pentru fotografi.",
+            "en": "Especially beautiful during the rose blossom in June. A paradise for photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsessen im Stadtzentrum",
+            "hu": "Búcsúvacsora a városközpontban",
+            "ro": "Cină de rămas bun în centrul orașului",
+            "en": "Farewell Dinner in the City Center"
+          },
+          "coords": [
+            16.233,
+            48.007
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein letztes Glas Wein aus der Thermenregion.",
+            "hu": "Élvezze az utolsó pohár bort a Thermenregion borvidékről.",
+            "ro": "Savurați un ultim pahar de vin din regiunea viticolă Thermenregion.",
+            "en": "Enjoy a final glass of wine from the Thermenregion wine area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Baden bei der Stadtpfarrkirche, bevor Sie in die kaiserliche Vergangenheit im Kaiserhaus und im Beethovenhaus eintauchen. Das Arnulf Rainer Museum bietet am Vormittag einen modernen Kontrapunkt. Der Nachmittag gehört der Entspannung und Natur: Schlendern Sie durch den prächtigen Kurpark, bewundern Sie die Architektur der Römertherme und verlieren Sie sich im Duft des Rosariums. Ein gemütliches Abendessen rundet diesen kaiserlichen Spaziergang ab.",
+        "hu": "Kezdje a napot Baden szívében, a plébániatemplomnál, majd merüljön el a császári múltban a Kaiserhausban és a Beethoven-házban. A délelőttöt az Arnulf Rainer Múzeum modern kontrasztja zárja. A délután a pihenésé és a természeté: sétáljon a csodálatos Kurparkban, csodálja meg a Römertherme építészetét, és veszzen el a Rosarium illatában. Egy kellemes vacsora teszi teljessé ezt a császári sétát.",
+        "ro": "Începeți ziua în inima orașului Baden la Biserica Parohială, înainte de a vă cufunda în trecutul imperial la Kaiserhaus și Casa Beethoven. Muzeul Arnulf Rainer oferă un contrapunct modern dimineața. După-amiaza este dedicată relaxării și naturii: plimbați-vă prin magnificul Kurpark, admirați arhitectura Römertherme și pierdeți-vă în parfumul Rosariumului. O cină plăcută încheie această plimbare imperială.",
+        "en": "Start your day in the heart of Baden at the Parish Church before diving into the imperial past at the Kaiserhaus and Beethoven House. The Arnulf Rainer Museum provides a modern counterpoint in the morning. The afternoon is for relaxation and nature: stroll through the magnificent Kurpark, admire the architecture of the Römertherme, and get lost in the scent of the Rosarium. A cozy dinner completes this imperial walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klassischer Heuriger mit Weinen aus der Region."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Moderne österreichische Küche in elegantem Ambiente."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Urig und traditionell, probieren Sie das Wiener Schnitzel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klasszikus \"Heuriger\" a régió boraival."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern osztrák konyha elegáns környezetben."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rusztikus és hagyományos, kóstolja meg a bécsi szeletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Streiterhof",
+            "tip": "Heuriger clasic cu vinuri din regiune."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Bucătărie austriacă modernă într-o ambianță elegantă."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rustic și tradițional, încercați Wiener Schnitzel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streiterhof",
+            "tip": "Classic Heuriger (wine tavern) with regional wines."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern Austrian cuisine in an elegant setting."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Quaint and traditional, try the Wiener Schnitzel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beethoventempel im Kurpark",
+            "tip": "Ein ruhiger Ort mit Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg der Schwechat",
+            "tip": "Ein entspannter Spaziergang entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark am Morgen",
+            "tip": "Genießen Sie die Stille vor dem Eintreffen der meisten Besucher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beethoven-templom a Kurparkban",
+            "tip": "Csendes hely, panorámás kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Schwechat folyó partján",
+            "tip": "Egy pihentető séta a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Beethoven din Kurpark",
+            "tip": "Un loc liniștit cu o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Schwechat",
+            "tip": "O plimbare relaxantă de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Doblhoff dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beethoven Temple in the Kurpark",
+            "tip": "A quiet spot with panoramic views over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Schwechat River",
+            "tip": "A relaxing walk along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoff Park in the early morning",
+            "tip": "Enjoy the quiet before most visitors arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Badener Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten, findet am Grünen Markt statt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiquen und kleine Geschäfte für ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badeni hetipiac",
+            "tip": "Helyi termékek és specialitások a Zöld Piacon (Grüner Markt)."
+          },
+          {
+            "name": "Antonsgasse és Wassergasse",
+            "tip": "Butikok és kis üzletek egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Baden",
+            "tip": "Produse și specialități locale, are loc în Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse și Wassergasse",
+            "tip": "Boutique-uri și magazine mici pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baden Weekly Market",
+            "tip": "Local produce and specialties, held at the Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiques and small shops for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster kann ermüdend sein.",
+          "Viele Museen haben montags geschlossen, prüfen Sie die Öffnungszeiten.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, es gibt mehrere Trinkbrunnen.",
+          "Die Wege im Kurpark sind teilweise steil, planen Sie zusätzliche Zeit ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő fárasztó lehet.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze a nyitvatartást.",
+          "Hozzon magával újratölthető vizes palackot, több ivókút is található.",
+          "A Kurpark útjai néhol meredekek, tervezzen be plusz időt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavajul poate fi obositor.",
+          "Multe muzee sunt închise lunea, verificați programul.",
+          "Luați o sticlă de apă reutilizabilă, există mai multe fântâni cu apă potabilă.",
+          "Cărările din Kurpark sunt parțial abrupte, planificați timp suplimentar."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestones can be tiring.",
+          "Many museums are closed on Mondays, check the opening hours.",
+          "Bring a reusable water bottle, there are several drinking fountains.",
+          "The paths in the Kurpark are partly steep, so plan for extra time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rosarium im Doblhoffpark",
+            "hu": "Rosarium a Doblhoffparkban",
+            "ro": "Rosarium din Parcul Doblhoff",
+            "en": "Rosarium in Doblhoff Park"
+          },
+          "coords": [
+            16.2255,
+            48.0033
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag im Duft von Tausenden von Rosen. Ideal für Morgenlicht-Fotos.",
+            "hu": "Kezdje a napot több ezer rózsa illatában. Ideális a reggeli fényekben való fotózáshoz.",
+            "ro": "Începeți ziua în parfumul a mii de trandafiri. Ideal pentru fotografii la lumina dimineții.",
+            "en": "Start the day amidst the scent of thousands of roses. Ideal for morning light photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethovenhaus Baden",
+            "hu": "Beethoven-ház, Baden",
+            "ro": "Casa Beethoven din Baden",
+            "en": "Beethoven House Baden"
+          },
+          "coords": [
+            16.2311,
+            48.0049
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Welt des Komponisten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a zeneszerző világában.",
+            "ro": "Parcați-vă bicicleta în siguranță și pătrundeți în lumea compozitorului.",
+            "en": "Park your bike securely and immerse yourself in the composer's world."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Mittagessen",
+            "hu": "Plébániatemplom és ebéd",
+            "ro": "Biserica Parohială și prânz",
+            "en": "Parish Church & Lunch"
+          },
+          "coords": [
+            16.2341,
+            48.0075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche und finden Sie danach ein schönes Restaurant am Hauptplatz.",
+            "hu": "Tekintse meg a templomot, majd keressen egy kellemes éttermet a főtéren.",
+            "ro": "Vizitați biserica și apoi găsiți un restaurant drăguț în piața principală.",
+            "en": "Visit the church and then find a nice restaurant in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Arnulf Rainer Museum",
+            "hu": "Arnulf Rainer Múzeum",
+            "ro": "Muzeul Arnulf Rainer",
+            "en": "Arnulf Rainer Museum"
+          },
+          "coords": [
+            16.2366,
+            48.0091
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Dosis moderner Kunst nach dem historischen Vormittag.",
+            "hu": "Egy frissítő adag modern művészet a történelmi délelőtt után.",
+            "ro": "O doză revigorantă de artă modernă după o dimineață istorică.",
+            "en": "A refreshing dose of modern art after a historical morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurpark & Casino",
+            "hu": "Kurpark és Kaszinó",
+            "ro": "Kurpark și Cazinou",
+            "en": "Kurpark & Casino"
+          },
+          "coords": [
+            16.2378,
+            48.0085
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch den Park, um die Atmosphäre zu genießen.",
+            "hu": "Tolja a kerékpárt a parkon keresztül, hogy élvezze a hangulatot.",
+            "ro": "Plimbați-vă cu bicicleta pe lângă dvs. prin parc pentru a vă bucura de atmosferă.",
+            "en": "Walk your bike through the park to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Schwechat",
+            "hu": "Kerékpártúra a Schwechat mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Schwechat",
+            "en": "Ride along the Schwechat River"
+          },
+          "coords": [
+            16.245,
+            48.015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:32",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf dem Radweg aus der Stadt hinaus und zurück.",
+            "hu": "Élvezze a pihentető kerékpározást a városból kivezető és visszavezető kerékpárúton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe pista de biciclete, ieșind din oraș și întorcându-vă.",
+            "en": "Enjoy a relaxing ride on the cycle path out of the city and back."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang beim Heurigen",
+            "hu": "Levezetés egy Heurigernél",
+            "ro": "Seară relaxantă la un Heuriger",
+            "en": "Winding down at a Heuriger"
+          },
+          "coords": [
+            16.228,
+            48.001
+          ],
+          "category": "gastro",
+          "arrive_at": "17:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Glas Wein und einer deftigen Jause.",
+            "hu": "Jutalmazza meg magát egy pohár borral és egy kiadós uzsonnával.",
+            "ro": "Recompensați-vă cu un pahar de vin și o gustare consistentă.",
+            "en": "Reward yourself with a glass of wine and a hearty snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie im duftenden Rosarium. Die Route führt Sie zum Beethovenhaus und ins historische Zentrum zur Stadtpfarrkirche für eine Mittagspause. Nach einer Dosis Kultur im Arnulf Rainer Museum und einer entspannten Pause im Kurpark, beenden Sie den Tag mit einer idyllischen Fahrt entlang der Schwechat und einem verdienten Besuch bei einem lokalen Heurigen. Eine perfekte Mischung aus Kultur, Natur und Genuss.",
+        "hu": "Pattanjon kerékpárra, és induljon az illatos Rosariumból. Az útvonal a Beethoven-házhoz és a történelmi központba, a plébániatemplomhoz vezet egy ebédszünetre. Az Arnulf Rainer Múzeumban szerzett kulturális élmény és a Kurparkban tartott pihentető szünet után a napot egy idilli kerékpártúrával zárja a Schwechat mentén, majd egy jól megérdemelt látogatással egy helyi Heurigernél. A kultúra, a természet és az élvezetek tökéletes keveréke.",
+        "ro": "Urcați-vă pe bicicletă și începeți din parfumatul Rosarium. Traseul vă duce la Casa Beethoven și în centrul istoric la Biserica Parohială pentru o pauză de prânz. După o doză de cultură la Muzeul Arnulf Rainer și o pauză relaxantă în Kurpark, încheiați ziua cu o plimbare idilică de-a lungul râului Schwechat și o vizită meritată la un Heuriger local. Un amestec perfect de cultură, natură și răsfăț.",
+        "en": "Hop on your bike and start in the fragrant Rosarium. The route takes you to the Beethoven House and into the historic center to the Parish Church for a lunch break. After a dose of culture at the Arnulf Rainer Museum and a relaxing break in the Kurpark, end the day with an idyllic ride along the Schwechat river and a well-deserved visit to a local Heuriger. A perfect mix of culture, nature, and indulgence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klassischer Heuriger mit Weinen aus der Region."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Moderne österreichische Küche in elegantem Ambiente."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Urig und traditionell, probieren Sie das Wiener Schnitzel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klasszikus \"Heuriger\" a régió boraival."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern osztrák konyha elegáns környezetben."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rusztikus és hagyományos, kóstolja meg a bécsi szeletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Streiterhof",
+            "tip": "Heuriger clasic cu vinuri din regiune."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Bucătărie austriacă modernă într-o ambianță elegantă."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rustic și tradițional, încercați Wiener Schnitzel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streiterhof",
+            "tip": "Classic Heuriger (wine tavern) with regional wines."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern Austrian cuisine in an elegant setting."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Quaint and traditional, try the Wiener Schnitzel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beethoventempel im Kurpark",
+            "tip": "Ein ruhiger Ort mit Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg der Schwechat",
+            "tip": "Ein entspannter Spaziergang entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark am Morgen",
+            "tip": "Genießen Sie die Stille vor dem Eintreffen der meisten Besucher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beethoven-templom a Kurparkban",
+            "tip": "Csendes hely, panorámás kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Schwechat folyó partján",
+            "tip": "Egy pihentető séta a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Beethoven din Kurpark",
+            "tip": "Un loc liniștit cu o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Schwechat",
+            "tip": "O plimbare relaxantă de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Doblhoff dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beethoven Temple in the Kurpark",
+            "tip": "A quiet spot with panoramic views over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Schwechat River",
+            "tip": "A relaxing walk along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoff Park in the early morning",
+            "tip": "Enjoy the quiet before most visitors arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Badener Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten, findet am Grünen Markt statt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiquen und kleine Geschäfte für ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badeni hetipiac",
+            "tip": "Helyi termékek és specialitások a Zöld Piacon (Grüner Markt)."
+          },
+          {
+            "name": "Antonsgasse és Wassergasse",
+            "tip": "Butikok és kis üzletek egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Baden",
+            "tip": "Produse și specialități locale, are loc în Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse și Wassergasse",
+            "tip": "Boutique-uri și magazine mici pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baden Weekly Market",
+            "tip": "Local produce and specialties, held at the Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiques and small shops for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen.",
+          "Einige Wege im Kurpark sind für Radfahrer nicht geeignet, bitte absteigen.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei den Sehenswürdigkeiten sicher abzustellen.",
+          "Der Radweg entlang der Schwechat ist flach und für alle Fitnesslevel geeignet."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket.",
+          "A Kurpark egyes útjai nem alkalmasak kerékpározásra, kérjük, szálljon le.",
+          "Hozzon magával lakatot, hogy biztonságban lezárhassa kerékpárját a látnivalóknál.",
+          "A Schwechat menti kerékpárút sík és minden edzettségi szintnek megfelel."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele.",
+          "Unele cărări din Kurpark nu sunt potrivite pentru bicicliști, vă rugăm să descălecați.",
+          "Luați un lacăt pentru a vă asigura bicicleta la obiectivele turistice.",
+          "Pista de biciclete de-a lungul râului Schwechat este plată și potrivită pentru toate nivelurile de fitness."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes.",
+          "Some paths in the Kurpark are not suitable for cyclists, please dismount.",
+          "Bring a lock to secure your bike at the sights.",
+          "The cycle path along the Schwechat is flat and suitable for all fitness levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken & Start im Zentrum",
+            "hu": "Parkolás és indulás a központban",
+            "ro": "Parcare și start în centru",
+            "en": "Parking & Start in the Center"
+          },
+          "coords": [
+            16.235,
+            48.007
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einer der Tiefgaragen im Zentrum für einen stressfreien Start.",
+            "hu": "Parkoljon a központi mélygarázsok egyikében a stresszmentes kezdéshez.",
+            "ro": "Parcați într-unul dintre garajele subterane din centru pentru un început fără stres.",
+            "en": "Park in one of the underground garages in the center for a stress-free start."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephan"
+          },
+          "coords": [
+            16.2341,
+            48.0075
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare din piața principală.",
+            "en": "A short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserhaus",
+            "hu": "Kaiserhaus (Császár háza)",
+            "ro": "Kaiserhaus (Casa Imperială)",
+            "en": "Kaiserhaus (Emperor's House)"
+          },
+          "coords": [
+            16.2325,
+            48.0082
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die kaiserliche Residenz zu Fuß.",
+            "hu": "Fedezze fel gyalog a császári rezidenciát.",
+            "ro": "Explorați reședința imperială pe jos.",
+            "en": "Explore the imperial residence on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Doblhoffpark",
+            "hu": "Utazás a Doblhoffparkba",
+            "ro": "Călătorie spre Parcul Doblhoff",
+            "en": "Drive to Doblhoff Park"
+          },
+          "coords": [
+            16.2255,
+            48.0033
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neue Parkmöglichkeit suchen und das Rosarium genießen.",
+            "hu": "Keressen új parkolóhelyet, és élvezze a Rosariumot.",
+            "ro": "Găsiți un nou loc de parcare și bucurați-vă de Rosarium.",
+            "en": "Find a new parking spot and enjoy the Rosarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Beethovenhaus & Römertherme",
+            "hu": "Beethoven-ház és Római fürdő",
+            "ro": "Casa Beethoven și Termele Romane",
+            "en": "Beethoven House & Roman Spa"
+          },
+          "coords": [
+            16.2311,
+            48.0049
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Doblhoffpark aus leicht zu Fuß erreichbar.",
+            "hu": "A Doblhoffparkból könnyen megközelíthető gyalog.",
+            "ro": "Ușor de ajuns pe jos din Parcul Doblhoff.",
+            "en": "Easily accessible on foot from Doblhoff Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kurpark",
+            "hu": "Utazás a Kurparkba",
+            "ro": "Călătorie spre Kurpark",
+            "en": "Drive to the Kurpark"
+          },
+          "coords": [
+            16.2378,
+            48.0085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie den Park, das Casino und das Stadttheater zu Fuß.",
+            "hu": "Parkoljon a közelben, és fedezze fel gyalog a parkot, a kaszinót és a városi színházat.",
+            "ro": "Parcați în apropiere și explorați parcul, cazinoul și teatrul pe jos.",
+            "en": "Park nearby and explore the park, casino, and city theater on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen mit Aussicht",
+            "hu": "Vacsora kilátással",
+            "ro": "Cină cu priveliște",
+            "en": "Dinner with a View"
+          },
+          "coords": [
+            16.24,
+            48.012
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant am Rande des Kurparks für einen schönen Tagesausklang.",
+            "hu": "Válasszon egy éttermet a Kurpark szélén a nap kellemes lezárásához.",
+            "ro": "Alegeți un restaurant la marginea Kurpark-ului pentru un final de zi frumos.",
+            "en": "Choose a restaurant on the edge of the Kurpark for a beautiful end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in drei Cluster aufgeteilt. Beginnen Sie im Herzen der Stadt und erkunden Sie die historische Innenstadt zu Fuß. Dann fahren Sie zum Doblhoffpark, um das berühmte Rosarium und das nahe gelegene Beethovenhaus zu entdecken. Der letzte Stopp ist der Kurpark-Bereich, wo Sie das Casino, das Theater und die eleganten Gärten genießen können, bevor Sie den Tag mit einem Abendessen ausklingen lassen. Diese Route kombiniert Komfort mit intensiven Spaziergängen.",
+        "hu": "Ez az autós nap három részre oszlik. Kezdje a város szívében, és fedezze fel gyalog a történelmi belvárost. Ezután hajtson el a Doblhoffparkba, hogy felfedezze a híres Rosariumot és a közeli Beethoven-házat. Az utolsó megálló a Kurpark környéke, ahol a kaszinót, a színházat és az elegáns kerteket élvezheti, mielőtt egy vacsorával zárja a napot. Ez az útvonal a kényelmet intenzív sétákkal ötvözi.",
+        "ro": "Această zi cu mașina este împărțită în trei clustere. Începeți în inima orașului și explorați centrul istoric pe jos. Apoi, conduceți la Parcul Doblhoff pentru a descoperi faimosul Rosarium și Casa Beethoven din apropiere. Ultima oprire este zona Kurpark, unde vă puteți bucura de cazinou, teatru și grădinile elegante înainte de a încheia ziua cu o cină. Acest traseu combină confortul cu plimbări intense.",
+        "en": "This car day is divided into three clusters. Start in the heart of the city and explore the historic downtown on foot. Then, drive to Doblhoff Park to discover the famous Rosarium and the nearby Beethoven House. The final stop is the Kurpark area, where you can enjoy the casino, theater, and elegant gardens before ending the day with dinner. This route combines convenience with immersive walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klassischer Heuriger mit Weinen aus der Region."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Moderne österreichische Küche in elegantem Ambiente."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Urig und traditionell, probieren Sie das Wiener Schnitzel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klasszikus \"Heuriger\" a régió boraival."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern osztrák konyha elegáns környezetben."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rusztikus és hagyományos, kóstolja meg a bécsi szeletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Streiterhof",
+            "tip": "Heuriger clasic cu vinuri din regiune."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Bucătărie austriacă modernă într-o ambianță elegantă."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rustic și tradițional, încercați Wiener Schnitzel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streiterhof",
+            "tip": "Classic Heuriger (wine tavern) with regional wines."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern Austrian cuisine in an elegant setting."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Quaint and traditional, try the Wiener Schnitzel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beethoventempel im Kurpark",
+            "tip": "Ein ruhiger Ort mit Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg der Schwechat",
+            "tip": "Ein entspannter Spaziergang entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark am Morgen",
+            "tip": "Genießen Sie die Stille vor dem Eintreffen der meisten Besucher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beethoven-templom a Kurparkban",
+            "tip": "Csendes hely, panorámás kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Schwechat folyó partján",
+            "tip": "Egy pihentető séta a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Beethoven din Kurpark",
+            "tip": "Un loc liniștit cu o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Schwechat",
+            "tip": "O plimbare relaxantă de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Doblhoff dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beethoven Temple in the Kurpark",
+            "tip": "A quiet spot with panoramic views over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Schwechat River",
+            "tip": "A relaxing walk along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoff Park in the early morning",
+            "tip": "Enjoy the quiet before most visitors arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Badener Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten, findet am Grünen Markt statt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiquen und kleine Geschäfte für ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badeni hetipiac",
+            "tip": "Helyi termékek és specialitások a Zöld Piacon (Grüner Markt)."
+          },
+          {
+            "name": "Antonsgasse és Wassergasse",
+            "tip": "Butikok és kis üzletek egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Baden",
+            "tip": "Produse și specialități locale, are loc în Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse și Wassergasse",
+            "tip": "Boutique-uri și magazine mici pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baden Weekly Market",
+            "tip": "Local produce and specialties, held at the Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiques and small shops for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Park-Apps, um freie Plätze und Tarife zu finden.",
+          "An Wochenenden können Parkplätze knapp sein, planen Sie mehr Zeit für die Suche ein.",
+          "Die Innenstadt ist eine Kurzparkzone, beachten Sie die maximale Parkdauer.",
+          "Überlegen Sie, ein Parkhaus für den ganzen Tag zu nutzen, um Stress zu vermeiden."
+        ],
+        "hu": [
+          "Használjon parkolási alkalmazásokat a szabad helyek és díjak megkereséséhez.",
+          "Hétvégén kevés lehet a parkolóhely, tervezzen több időt a keresésre.",
+          "A belváros rövid idejű parkolási zóna, vegye figyelembe a maximális parkolási időt.",
+          "Fontolja meg egy parkolóház egész napos használatát a stressz elkerülése érdekében."
+        ],
+        "ro": [
+          "Folosiți aplicații de parcare pentru a găsi locuri libere și tarife.",
+          "În weekenduri, locurile de parcare pot fi puține, planificați mai mult timp pentru căutare.",
+          "Centrul orașului este o zonă de parcare pe termen scurt, acordați atenție duratei maxime de parcare.",
+          "Luați în considerare utilizarea unei parcări supraetajate pentru întreaga zi pentru a evita stresul."
+        ],
+        "en": [
+          "Use parking apps to find available spaces and rates.",
+          "Parking can be scarce on weekends, so allow more time for searching.",
+          "The city center is a short-term parking zone, pay attention to the maximum parking time.",
+          "Consider using a multi-story car park for the whole day to avoid stress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft & Spaziergang im Zentrum",
+            "hu": "Érkezés és séta a központban",
+            "ro": "Sosire și plimbare în centru",
+            "en": "Arrival & Walk in the Center"
+          },
+          "coords": [
+            16.2345,
+            48.008
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Josefsplatz, einem zentralen Knotenpunkt für viele Buslinien.",
+            "hu": "Kezdje a Josefsplatzon, számos buszjárat központi csomópontján.",
+            "ro": "Începeți din Josefsplatz, un nod central pentru multe linii de autobuz.",
+            "en": "Start at Josefsplatz, a central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserhaus & Stadtpfarrkirche",
+            "hu": "Kaiserhaus és plébániatemplom",
+            "ro": "Kaiserhaus și Biserica Parohială",
+            "en": "Kaiserhaus & Parish Church"
+          },
+          "coords": [
+            16.2325,
+            48.0082
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Sehenswürdigkeiten liegen nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Mindkét látnivaló csak néhány perc sétára van egymástól.",
+            "ro": "Ambele atracții sunt la doar câteva minute de mers pe jos una de cealaltă.",
+            "en": "Both sights are just a few minutes' walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Arnulf Rainer Museum",
+            "hu": "Arnulf Rainer Múzeum",
+            "ro": "Muzeul Arnulf Rainer",
+            "en": "Arnulf Rainer Museum"
+          },
+          "coords": [
+            16.2366,
+            48.0091
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Fußgängerzone führt Sie zum Museum.",
+            "hu": "Egy rövid séta a sétálóutcán keresztül elvezet a múzeumhoz.",
+            "ro": "O scurtă plimbare prin zona pietonală vă duce la muzeu.",
+            "en": "A short walk through the pedestrian zone takes you to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Kurpark",
+            "hu": "Buszozás a Kurparkba",
+            "ro": "Călătorie cu autobuzul spre Kurpark",
+            "en": "Bus Ride to the Kurpark"
+          },
+          "coords": [
+            16.2378,
+            48.0085
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum. Steigen Sie aus und genießen Sie das Casino und das Stadttheater.",
+            "hu": "Menjen busszal a központból. Szálljon le, és élvezze a kaszinót és a városi színházat.",
+            "ro": "Luați un autobuz din centru. Coborâți și bucurați-vă de cazinou și de teatru.",
+            "en": "Take a bus from the center. Get off and enjoy the Casino and City Theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Römertherme",
+            "hu": "Séta a Római fürdőhöz",
+            "ro": "Plimbare la Römertherme",
+            "en": "Walk to the Römertherme"
+          },
+          "coords": [
+            16.2301,
+            48.0036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab durch den Park.",
+            "hu": "Egy szép séta lefelé a parkon keresztül.",
+            "ro": "O plimbare frumoasă la vale prin parc.",
+            "en": "A beautiful walk downhill through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Doblhoffpark & Rosarium",
+            "hu": "Busz a Doblhoffparkba és a Rosariumba",
+            "ro": "Autobuz spre Parcul Doblhoff & Rosarium",
+            "en": "Bus to Doblhoff Park & Rosarium"
+          },
+          "coords": [
+            16.2255,
+            48.0033
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der letzte Höhepunkt des Tages, berühmt für seine Rosen.",
+            "hu": "A nap utolsó fénypontja, híres a rózsáiról.",
+            "ro": "Ultimul punct culminant al zilei, renumit pentru trandafirii săi.",
+            "en": "The last highlight of the day, famous for its roses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum zum Abendessen",
+            "hu": "Vissza a központba vacsorázni",
+            "ro": "Întoarcere în centru pentru cină",
+            "en": "Return to the Center for Dinner"
+          },
+          "coords": [
+            16.233,
+            48.007
+          ],
+          "category": "gastro",
+          "arrive_at": "17:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Doblhoffpark aus sind es nur wenige Gehminuten zu Restaurants.",
+            "hu": "A Doblhoffparktól csak pár perc sétára vannak éttermek.",
+            "ro": "Restaurantele sunt la doar câteva minute de mers pe jos de Parcul Doblhoff.",
+            "en": "It's just a few minutes' walk to restaurants from Doblhoff Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Baden. Der Tag beginnt mit einem Spaziergang durch die historische Innenstadt. Eine kurze Busfahrt bringt Sie am Nachmittag zum Kurpark-Cluster, wo Sie Casino und Theater erkunden. Ein weiterer kurzer Spaziergang führt zur Römertherme, bevor ein letzter Bus Sie zum duftenden Rosarium bringt. Zum Abendessen kehren Sie bequem ins Zentrum zurück. Diese Tour ist ideal, um die wichtigsten Sehenswürdigkeiten ohne Auto zu erleben.",
+        "hu": "Használja ki Baden hatékony buszhálózatát. A nap a történelmi belvárosban tett sétával kezdődik. Délután egy rövid buszozással eljuthat a Kurpark-csoporthoz, ahol felfedezheti a kaszinót és a színházat. Egy újabb rövid séta vezet a Római fürdőhöz, mielőtt az utolsó busz elviszi az illatos Rosariumba. Vacsorára kényelmesen visszatérhet a központba. Ez a túra ideális a főbb látnivalók autó nélküli megtekintéséhez.",
+        "ro": "Profitați de rețeaua eficientă de autobuze din Baden. Ziua începe cu o plimbare prin centrul istoric. O scurtă călătorie cu autobuzul vă duce după-amiaza la clusterul Kurpark, unde puteți explora cazinoul și teatrul. O altă plimbare scurtă duce la Römertherme, înainte ca un ultim autobuz să vă ducă la parfumatul Rosarium. Vă întoarceți convenabil în centru pentru cină. Acest tur este ideal pentru a experimenta principalele atracții fără mașină.",
+        "en": "Take advantage of Baden's efficient bus network. The day begins with a walk through the historic city center. A short bus ride in the afternoon takes you to the Kurpark cluster, where you can explore the casino and theater. Another short walk leads to the Römertherme before a final bus takes you to the fragrant Rosarium. You return conveniently to the center for dinner. This tour is ideal for experiencing the main sights without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klassischer Heuriger mit Weinen aus der Region."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Moderne österreichische Küche in elegantem Ambiente."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Urig und traditionell, probieren Sie das Wiener Schnitzel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Streiterhof",
+            "tip": "Klasszikus \"Heuriger\" a régió boraival."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern osztrák konyha elegáns környezetben."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rusztikus és hagyományos, kóstolja meg a bécsi szeletet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Streiterhof",
+            "tip": "Heuriger clasic cu vinuri din regiune."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Bucătărie austriacă modernă într-o ambianță elegantă."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Rustic și tradițional, încercați Wiener Schnitzel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Streiterhof",
+            "tip": "Classic Heuriger (wine tavern) with regional wines."
+          },
+          {
+            "name": "Restaurant amterl",
+            "tip": "Modern Austrian cuisine in an elegant setting."
+          },
+          {
+            "name": "Badener Hauerkuchl",
+            "tip": "Quaint and traditional, try the Wiener Schnitzel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beethoventempel im Kurpark",
+            "tip": "Ein ruhiger Ort mit Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg der Schwechat",
+            "tip": "Ein entspannter Spaziergang entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark am Morgen",
+            "tip": "Genießen Sie die Stille vor dem Eintreffen der meisten Besucher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beethoven-templom a Kurparkban",
+            "tip": "Csendes hely, panorámás kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Schwechat folyó partján",
+            "tip": "Egy pihentető séta a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoffpark kora reggel",
+            "tip": "Élvezze a csendet, mielőtt a legtöbb látogató megérkezik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Beethoven din Kurpark",
+            "tip": "Un loc liniștit cu o vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Schwechat",
+            "tip": "O plimbare relaxantă de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Doblhoff dimineața devreme",
+            "tip": "Bucurați-vă de liniște înainte de sosirea majorității vizitatorilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beethoven Temple in the Kurpark",
+            "tip": "A quiet spot with panoramic views over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Schwechat River",
+            "tip": "A relaxing walk along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Doblhoff Park in the early morning",
+            "tip": "Enjoy the quiet before most visitors arrive.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Badener Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten, findet am Grünen Markt statt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiquen und kleine Geschäfte für ein einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badeni hetipiac",
+            "tip": "Helyi termékek és specialitások a Zöld Piacon (Grüner Markt)."
+          },
+          {
+            "name": "Antonsgasse és Wassergasse",
+            "tip": "Butikok és kis üzletek egyedi szuvenírekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Baden",
+            "tip": "Produse și specialități locale, are loc în Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse și Wassergasse",
+            "tip": "Boutique-uri și magazine mici pentru un suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baden Weekly Market",
+            "tip": "Local produce and specialties, held at the Grüner Markt."
+          },
+          {
+            "name": "Antonsgasse & Wassergasse",
+            "tip": "Boutiques and small shops for a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, das ist meist günstiger.",
+          "Laden Sie die Fahrplan-App herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Beachten Sie, dass Busse abends seltener fahren.",
+          "Die meisten Haltestellen im Zentrum sind nur wenige Gehminuten voneinander entfernt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, általában olcsóbb.",
+          "Töltse le a menetrendi alkalmazást a valós idejű járatinformációkért.",
+          "Vegye figyelembe, hogy este ritkábban járnak a buszok.",
+          "A legtöbb központi megálló csak néhány perc sétára van egymástól."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este de obicei mai ieftin.",
+          "Descărcați aplicația cu orare pentru a verifica conexiunile în timp real.",
+          "Rețineți că autobuzele circulă mai rar seara.",
+          "Majoritatea stațiilor din centru sunt la doar câteva minute de mers pe jos una de cealaltă."
+        ],
+        "en": [
+          "Buy a day pass for public transport, it's usually cheaper.",
+          "Download the timetable app to check connections in real time.",
+          "Note that buses run less frequently in the evening.",
+          "Most stops in the center are just a few minutes' walk from each other."
+        ]
+      }
+    }
+  }
+}

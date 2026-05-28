@@ -1,0 +1,1412 @@
+{
+  "city_id": "poland-koszalin-cities-v2",
+  "anchor": {
+    "name": "Köslin",
+    "coords": [
+      16.1722,
+      54.1944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.1775,
+            54.1903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Henkerhaus",
+            "hu": "Hóhér háza",
+            "ro": "Casa Călăului",
+            "en": "Executioner's House"
+          },
+          "coords": [
+            16.1791,
+            54.1912
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber faszinierendes gotisches Gebäude. Perfekt für ein schnelles Foto.",
+            "hu": "Egy apró, de lenyűgöző gótikus épület. Tökéletes egy gyors fotóhoz.",
+            "ro": "O clădire gotică mică, dar fascinantă. Perfectă pentru o fotografie rapidă.",
+            "en": "A small but fascinating Gothic building. Perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Neprihănitei Zămisliri",
+            "en": "Cathedral of the Immaculate Conception"
+          },
+          "coords": [
+            16.175,
+            54.1925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die beeindruckenden gotischen Gewölbe und die Orgel zu bewundern.",
+            "hu": "Szánjon időt a lenyűgöző gótikus boltozatok és az orgona megcsodálására.",
+            "ro": "Luați-vă timp pentru a admira bolțile gotice impresionante și orga.",
+            "en": "Take your time to admire the impressive Gothic vaults and the organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Koszalin",
+            "hu": "Koszalin Múzeum",
+            "ro": "Muzeul din Koszalin",
+            "en": "Museum in Koszalin"
+          },
+          "coords": [
+            16.1822,
+            54.194
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ausstellungen zur pommerschen Geschichte.",
+            "hu": "Fókuszáljon a pomerániai történelemmel foglalkozó kiállításokra.",
+            "ro": "Concentrați-vă pe expozițiile dedicate istoriei Pomeraniei.",
+            "en": "Focus on the exhibitions dedicated to Pomeranian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Pommerschen Herzöge",
+            "hu": "Pomerániai Hercegek Parkja",
+            "ro": "Parcul Ducilor Pomeranieni",
+            "en": "Pomeranian Dukes' Park"
+          },
+          "coords": [
+            16.1755,
+            54.1965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagspicknick oder einen entspannten Spaziergang.",
+            "hu": "Ideális hely egy ebédpiknikhez vagy egy pihentető sétához.",
+            "ro": "Un loc ideal pentru un picnic la prânz sau o plimbare relaxantă.",
+            "en": "An ideal spot for a lunch picnic or a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "Amphitheater"
+          },
+          "coords": [
+            16.1701,
+            54.1982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan, vielleicht findet eine Veranstaltung statt. Die Architektur ist auch tagsüber beeindruckend.",
+            "hu": "Nézze meg a programot, hátha van valamilyen esemény. Az épület nappal is lenyűgöző.",
+            "ro": "Verificați programul, poate are loc un eveniment. Arhitectura este impresionantă și în timpul zilei.",
+            "en": "Check the schedule, there might be an event on. The architecture is impressive even during the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das historische Herz von Koszalin, vom Rathaus bis zur majestätischen Kathedrale. Spüren Sie die gotische Atmosphäre der alten Mauern. Am Mittag tauchen Sie im Stadtmuseum in die reiche Geschichte Pommerns ein, bevor Sie sich im Park der Pommerschen Herzöge für ein Picknick niederlassen. Der Nachmittag steht im Zeichen der Kultur mit einem Spaziergang zum beeindruckenden Amphitheater, einem modernen Wahrzeichen. Schließen Sie den Tag in einem der gemütlichen Restaurants im Stadtzentrum ab und genießen Sie die polnische Gastfreundschaft.",
+        "hu": "Reggel fedezze fel Koszalin történelmi szívét a Városházától a fenséges Katedrálisig, és érezze a régi falak gótikus hangulatát. Délben merüljön el Pomeránia gazdag történelmében a városi múzeumban, mielőtt letelepedne egy piknikre a Pomerániai Hercegek Parkjában. A délután a kultúráé, egy sétával a lenyűgöző Amfiteátrumhoz, egy modern jelképhez. Zárja a napot a belváros egyik hangulatos éttermében, élvezve a lengyel vendégszeretetet.",
+        "ro": "Dimineața, explorați inima istorică a orașului Koszalin, de la Primărie la maiestuoasa Catedrală, simțind atmosfera gotică a zidurilor vechi. La prânz, scufundați-vă în istoria bogată a Pomeraniei la muzeul orașului, înainte de a vă așeza pentru un picnic în Parcul Ducilor Pomeranieni. După-amiaza este dedicată culturii, cu o plimbare la impresionantul Amfiteatru, un reper modern. Încheiați ziua la unul dintre restaurantele primitoare din centrul orașului, bucurându-vă de ospitalitatea poloneză.",
+        "en": "In the morning, explore the historic heart of Koszalin, from the Town Hall to the majestic Cathedral, feeling the Gothic atmosphere of the old walls. At noon, delve into the rich history of Pomerania at the city museum before settling down for a picnic in the Pomeranian Dukes' Park. The afternoon is for culture, with a walk to the impressive Amphitheater, a modern landmark. End your day at one of the cozy restaurants in the city center, enjoying Polish hospitality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Piroggen)",
+            "tip": "Probieren Sie die 'Pierogi ruskie' mit Kartoffel-Käse-Füllung in einer traditionellen 'Bar Mleczny' (Milchbar)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine saure Roggenmehlsuppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Ryba z frytkami",
+            "tip": "Da die Ostsee nah ist, genießen Sie frischen Fisch mit Pommes in einem der vielen Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (derelye)",
+            "tip": "Kóstolja meg a 'pierogi ruskie'-t (krumplis-túrós) egy hagyományos 'Bar Mleczny'-ben (tejivó)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Savanykás rozslisztleves, gyakran kolbásszal és tojással, kiadós ebédre tökéletes."
+          },
+          {
+            "name": "Ryba z frytkami",
+            "tip": "Mivel a Balti-tenger közel van, kóstoljon meg egy friss sült halat hasábburgonyával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (colțunași)",
+            "tip": "Încercați 'pierogi ruskie' cu umplutură de cartofi și brânză la un 'Bar Mleczny' (bar de lapte) tradițional."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă acră de secară, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Ryba z frytkami",
+            "tip": "Deoarece Marea Baltică este aproape, savurați pește proaspăt cu cartofi prăjiți la unul dintre restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (dumplings)",
+            "tip": "Try the 'pierogi ruskie' with potato and cheese filling at a traditional 'Bar Mleczny' (milk bar)."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A sour rye flour soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Ryba z frytkami",
+            "tip": "As the Baltic Sea is close, enjoy fresh fish and chips in one of the many restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park der Pommerschen Herzöge",
+            "tip": "Finden Sie eine ruhige Bank am Teich und lauschen Sie den Vögeln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Verirren Sie sich in den Gassen abseits des Hauptplatzes, um die ruhige Atmosphäre zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inneres der Kathedrale",
+            "tip": "Die kühle, stille Atmosphäre der Kathedrale ist perfekt für eine kurze meditative Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pomerániai Hercegek Parkja",
+            "tip": "Keressen egy csendes padot a tó mellett, és hallgassa a madarakat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Óvárosi mellékutcák",
+            "tip": "Tévedjen el a főtértől távolabbi sikátorokban, hogy élvezze a nyugodt légkört.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális belseje",
+            "tip": "A katedrális hűvös, csendes légköre tökéletes egy rövid meditatív szünethez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ducilor Pomeranieni",
+            "tip": "Găsiți o bancă liniștită lângă iaz și ascultați păsările.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele din Orașul Vechi",
+            "tip": "Rătăciți-vă pe aleile departe de piața principală pentru a vă bucura de o atmosferă liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Interiorul Catedralei",
+            "tip": "Atmosfera răcoroasă și tăcută a catedralei este perfectă pentru o scurtă pauză meditativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pomeranian Dukes' Park",
+            "tip": "Find a quiet bench by the pond and listen to the birds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Old Town Side Streets",
+            "tip": "Get lost in the alleys away from the main square to enjoy a quiet atmosphere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Inside the Cathedral",
+            "tip": "The cool, silent atmosphere of the cathedral is perfect for a short meditative break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "An Markttagen finden Sie hier lokale Produkte, Blumen und manchmal auch Kunsthandwerk."
+          },
+          {
+            "name": "Bursztyn (Bernstein)",
+            "tip": "Halten Sie Ausschau nach Geschäften, die authentischen baltischen Bernstein verkaufen, ein klassisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Piacnapokon helyi termékeket, virágokat és néha kézműves termékeket is találhat itt."
+          },
+          {
+            "name": "Bursztyn (Borostyán)",
+            "tip": "Keresse az autentikus balti borostyánt árusító üzleteket, ami klasszikus szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "În zilele de piață, veți găsi aici produse locale, flori și uneori artizanat."
+          },
+          {
+            "name": "Bursztyn (Chihlimbar)",
+            "tip": "Căutați magazine care vând chihlimbar baltic autentic, un suvenir clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "On market days, you'll find local produce, flowers, and sometimes handicrafts here."
+          },
+          {
+            "name": "Bursztyn (Amber)",
+            "tip": "Look for shops selling authentic Baltic amber, a classic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Halten Sie immer etwas Bargeld (Złoty) für kleine Einkäufe auf dem Markt oder in kleineren Geschäften bereit.",
+          "Ein leichter Regenmantel ist immer eine gute Idee, da das Wetter schnell umschlagen kann."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Mindig tartson magánál némi készpénzt (Złoty) a piacon vagy kisebb boltokban történő vásárlásokhoz.",
+          "Egy könnyű esőkabát mindig jó ötlet, mivel az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Orașul Vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Aveți întotdeauna niște numerar (Złoty) la îndemână pentru cumpărături mici în piață sau în magazinele mai mici.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună, deoarece vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Most central sights are within easy walking distance.",
+          "Always have some cash (Złoty) handy for small purchases at the market or in smaller shops.",
+          "A light raincoat is always a good idea as the weather can change quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            16.1775,
+            54.1903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt Ihrer Radtour. Schließen Sie Ihr Rad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "A biciklitúra kiindulópontja. Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a teret.",
+            "ro": "Punctul de plecare al turului cu bicicleta. Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "The starting point for your bike tour. Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Neprihănitei Zămisliri",
+            "en": "Cathedral of the Immaculate Conception"
+          },
+          "coords": [
+            16.175,
+            54.1925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur, bevor Sie Ihre Tour fortsetzen.",
+            "hu": "Csodálja meg a gótikus építészetet, mielőtt folytatná útját.",
+            "ro": "Admirați arhitectura gotică înainte de a continua turul.",
+            "en": "Admire the Gothic architecture before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Pommerschen Herzöge und Amphitheater",
+            "hu": "Pomerániai Hercegek Parkja és Amfiteátrum",
+            "ro": "Parcul Ducilor Pomeranieni și Amfiteatrul",
+            "en": "Pomeranian Dukes' Park and Amphitheater"
+          },
+          "coords": [
+            16.172,
+            54.197
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Park und machen Sie einen Halt am einzigartigen Amphitheater.",
+            "hu": "Tekerjen át a parkon, és álljon meg az egyedi amfiteátrumnál.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și opriți-vă la amfiteatrul unic.",
+            "en": "Cycle through the park and make a stop at the unique amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Jamno-See",
+            "hu": "Ebéd a Jamno-tónál",
+            "ro": "Prânz la Lacul Jamno",
+            "en": "Lunch at Jamno Lake"
+          },
+          "coords": [
+            16.155,
+            54.25
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.9,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Luft und eine Mahlzeit mit Seeblick. Es gibt Radwege entlang des Sees.",
+            "hu": "Élvezze a friss levegőt és egy tóparti ebédet. A tó mentén kerékpárutak is vannak.",
+            "ro": "Bucurați-vă de aerul proaspăt și de o masă cu vedere la lac. Există piste de biciclete de-a lungul lacului.",
+            "en": "Enjoy the fresh air and a meal with a lake view. There are bike paths along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum in Koszalin",
+            "hu": "Koszalin Múzeum",
+            "ro": "Muzeul din Koszalin",
+            "en": "Museum in Koszalin"
+          },
+          "coords": [
+            16.1822,
+            54.194
+          ],
+          "category": "museums",
+          "arrive_at": "14:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 6.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kulturelle Pause nach der Natur. Hier können Sie mehr über die Region erfahren.",
+            "hu": "Kulturális szünet a természet után. Itt többet megtudhat a régióról.",
+            "ro": "O pauză culturală după natură. Aici puteți afla mai multe despre regiune.",
+            "en": "A cultural break after being in nature. Learn more about the region here."
+          }
+        },
+        {
+          "name": {
+            "de": "Góra Chełmska (Chełmska-Hügel)",
+            "hu": "Góra Chełmska (Chełmska-hegy)",
+            "ro": "Góra Chełmska (Dealul Chełmska)",
+            "en": "Góra Chełmska (Chełmska Hill)"
+          },
+          "coords": [
+            16.23,
+            54.18
+          ],
+          "category": "natural features",
+          "arrive_at": "16:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist die Aussicht wert! Ein perfekter Ort, um den Tag ausklingen zu lassen.",
+            "hu": "A kilátás megéri a fáradságot! Tökéletes hely a nap befejezéséhez.",
+            "ro": "Urcușul merită priveliștea! Un loc perfect pentru a încheia ziua.",
+            "en": "The climb is worth the view! A perfect spot to end your day's exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich am Morgen aufs Rad und erkunden Sie die zentralen Plätze und die Kathedrale von Koszalin. Am Mittag entfliehen Sie dem Stadtzentrum und radeln zum malerischen Jamno-See für ein erfrischendes Mittagessen am Wasser. Der Weg dorthin führt durch grüne Landschaften. Am Nachmittag kehren Sie für eine Dosis Kultur ins Stadtmuseum zurück. Schließen Sie Ihre Tour mit einem sportlichen Anstieg auf den Góra Chełmska ab, wo Sie mit einer fantastischen Aussicht über die Stadt und die Region belohnt werden.",
+        "hu": "Reggel pattanjon biciklire, és fedezze fel Koszalin központi tereit és a katedrálist. Délben hagyja el a városközpontot, és tekerjen el a festői Jamno-tóhoz egy frissítő ebédre a vízparton. Az oda vezető út zöld tájakon át vezet. Délután térjen vissza egy adag kultúráért a városi múzeumba. Zárja a túrát egy sportos emelkedővel a Góra Chełmska-hegyre, ahol fantasztikus kilátás nyílik a városra és a régióra.",
+        "ro": "Dimineața, urcați-vă pe bicicletă și explorați piețele centrale și catedrala din Koszalin. La prânz, evadați din centrul orașului și pedalați spre pitorescul Lac Jamno pentru un prânz revigorant pe malul apei. Drumul până acolo trece prin peisaje verzi. După-amiaza, reveniți la muzeul orașului pentru o doză de cultură. Încheiați turul cu o urcare sportivă pe Dealul Góra Chełmska, unde veți fi răsplătit cu o priveliște fantastică asupra orașului și a regiunii.",
+        "en": "In the morning, get on your bike and explore the central squares and cathedral of Koszalin. At noon, escape the city center and cycle to the picturesque Jamno Lake for a refreshing lunch by the water. The path there leads through green landscapes. In the afternoon, return to the city museum for a dose of culture. Conclude your tour with a sporty climb up Góra Chełmska, where you'll be rewarded with a fantastic view over the city and the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restauracja nad jeziorem",
+            "tip": "Suchen Sie ein Restaurant am Jamno-See für frischen Fisch."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Gefüllte Kohlrouladen, ein wärmender und sättigender polnischer Klassiker."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Belohnen Sie sich nach der Radtour mit einem leckeren polnischen Donut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a tónál",
+            "tip": "Keressen egy éttermet a Jamno-tónál, ahol friss halat ehet."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Töltött káposzta, egy melengető és laktató lengyel klasszikus."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Jutalmazza meg magát a biciklizés után egy finom lengyel fánkkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant pe malul lacului",
+            "tip": "Căutați un restaurant pe malul Lacului Jamno pentru pește proaspăt."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Sarmale umplute, un clasic polonez cald și sățios."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Recompensați-vă cu o delicioasă gogoașă poloneză după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside Restaurant",
+            "tip": "Find a restaurant by Jamno Lake for fresh fish."
+          },
+          {
+            "name": "Gołąbki",
+            "tip": "Stuffed cabbage rolls, a warming and filling Polish classic."
+          },
+          {
+            "name": "Pączek",
+            "tip": "Reward yourself with a delicious Polish doughnut after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Jamno-Sees",
+            "tip": "Finden Sie einen ruhigen Platz am Seeufer, um die Natur zu genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gipfel des Góra Chełmska",
+            "tip": "Nach dem Aufstieg genießen Sie die friedliche Aussicht von oben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Pommerschen Herzöge",
+            "tip": "Eine grüne Oase im Herzen der Stadt, ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamno-tó partja",
+            "tip": "Keressen egy csendes helyet a tóparton, hogy élvezze a természetet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Góra Chełmska csúcsa",
+            "tip": "A megmászás után élvezze a békés kilátást fentről.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pomerániai Hercegek Parkja",
+            "tip": "Zöld oázis a város szívében, ideális egy szünetre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Jamno",
+            "tip": "Găsiți un loc liniștit pe malul lacului pentru a vă bucura de natură.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vârful Dealului Góra Chełmska",
+            "tip": "După urcare, bucurați-vă de priveliștea pașnică de sus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Ducilor Pomeranieni",
+            "tip": "O oază de verdeață în inima orașului, ideală pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Jamno Lake",
+            "tip": "Find a quiet spot on the lakeshore to enjoy nature.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Summit of Góra Chełmska",
+            "tip": "After the climb, enjoy the peaceful view from the top.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pomeranian Dukes' Park",
+            "tip": "A green oasis in the heart of the city, ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Vielleicht benötigen Sie Zubehör oder eine schnelle Reparatur. Es gibt mehrere Geschäfte in der Stadt."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie geräucherten Fisch oder andere lokale Spezialitäten als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Lehet, hogy szüksége lesz kiegészítőkre vagy egy gyors javításra. Több üzlet is van a városban."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon füstölt halat vagy más helyi különlegességeket ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "S-ar putea să aveți nevoie de accesorii sau de o reparație rapidă. Există mai multe magazine în oraș."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați pește afumat sau alte specialități locale ca suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "You might need accessories or a quick repair. There are several shops in the city."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some smoked fish or other local specialties as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Koszalin ist relativ flach, aber der Anstieg zum Góra Chełmska erfordert etwas Anstrengung.",
+          "Nutzen Sie die Radwege, wo immer sie verfügbar sind, besonders entlang des Jamno-Sees.",
+          "Ein gutes Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen.",
+          "Nehmen Sie eine Flasche Wasser und ein paar Snacks für die längeren Strecken mit."
+        ],
+        "hu": [
+          "Koszalin viszonylag sík, de a Góra Chełmska megmászása némi erőfeszítést igényel.",
+          "Használja a kerékpárutakat, ahol csak lehet, különösen a Jamno-tó mentén.",
+          "Egy jó lakat elengedhetetlen, ha lezárja a kerékpárt a látnivalók megtekintése közben.",
+          "Vigyen magával egy üveg vizet és némi harapnivalót a hosszabb szakaszokra."
+        ],
+        "ro": [
+          "Koszalin este relativ plat, dar urcarea pe Góra Chełmska necesită un pic de efort.",
+          "Folosiți pistele de biciclete oriunde sunt disponibile, în special de-a lungul Lacului Jamno.",
+          "Un lacăt bun este esențial atunci când lăsați bicicleta pentru a vizita obiectivele turistice.",
+          "Luați o sticlă de apă și câteva gustări pentru porțiunile mai lungi."
+        ],
+        "en": [
+          "Koszalin is relatively flat, but the climb to Góra Chełmska requires some effort.",
+          "Use bike paths wherever available, especially along Jamno Lake.",
+          "A good lock is essential when leaving your bike to visit sights.",
+          "Bring a bottle of water and some snacks for the longer stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 24.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Parken am Góra Chełmska",
+            "hu": "Klaszter kezdete: Parkolás a Góra Chełmska-hegynél",
+            "ro": "Început cluster: Parcare la Góra Chełmska",
+            "en": "Cluster Start: Parking at Góra Chełmska"
+          },
+          "coords": [
+            16.23,
+            54.18
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer tollen Aussicht über die Region. Der Parkplatz ist ein guter Ausgangspunkt.",
+            "hu": "Kezdje a napot egy remek kilátással a régióra. A parkoló jó kiindulópont.",
+            "ro": "Începeți cu o priveliște minunată asupra regiunii. Parcarea este un bun punct de plecare.",
+            "en": "Start with a great view over the region. The car park is a good starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtsturm auf dem Góra Chełmska",
+            "hu": "Kilátótorony a Góra Chełmska-hegyen",
+            "ro": "Turnul de observație de pe Góra Chełmska",
+            "en": "Observation Tower on Góra Chełmska"
+          },
+          "coords": [
+            16.231,
+            54.181
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Turm für eine noch bessere Panoramaaussicht.",
+            "hu": "Egy rövid séta a parkolótól a toronyig a még jobb panorámáért.",
+            "ro": "O scurtă plimbare de la parcare la turn pentru o panoramă și mai bună.",
+            "en": "A short walk from the car park to the tower for an even better panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Parken und Spaziergang zur Kathedrale",
+            "hu": "Belvárosi klaszter: Parkolás és séta a Katedrálishoz",
+            "ro": "Cluster centru: Parcare și plimbare la Catedrală",
+            "en": "City Center Cluster: Park and walk to the Cathedral"
+          },
+          "coords": [
+            16.175,
+            54.1925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und beginnen Sie Ihren Stadtrundgang bei diesem gotischen Meisterwerk.",
+            "hu": "Parkoljon a központ közelében, és kezdje városnéző sétáját ennél a gótikus remekműnél.",
+            "ro": "Parcați lângă centru și începeți turul orașului la această capodoperă gotică.",
+            "en": "Park near the center and start your city walk at this Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.1775,
+            54.1903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zum Hauptplatz für das Mittagessen. Hier pulsiert das Leben der Stadt.",
+            "hu": "Sétáljon át a főtérre ebédelni. Itt pulzál a város élete.",
+            "ro": "Plimbați-vă până în piața principală pentru prânz. Aici pulsează viața orașului.",
+            "en": "Stroll to the main square for lunch. This is where the city's life pulsates."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster See: Fahrt zum Jamno-See",
+            "hu": "Tó klaszter: Utazás a Jamno-tóhoz",
+            "ro": "Cluster Lac: Drumul spre Lacul Jamno",
+            "en": "Lake Cluster: Drive to Jamno Lake"
+          },
+          "coords": [
+            16.155,
+            54.25
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 18.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Nachmittag am Wasser. Perfekt für einen langen Spaziergang oder einfach nur zum Entspannen.",
+            "hu": "Töltse a délutánt a vízparton. Tökéletes egy hosszú sétához vagy csak pihenéshez.",
+            "ro": "Petreceți după-amiaza pe malul apei. Perfect pentru o plimbare lungă sau doar pentru relaxare.",
+            "en": "Spend the afternoon by the water. Perfect for a long walk or just relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Zentrum für das Abendessen",
+            "hu": "Visszatérés a központba vacsorára",
+            "ro": "Întoarcere în centru pentru cină",
+            "en": "Return to Center for Dinner"
+          },
+          "coords": [
+            16.178,
+            54.191
+          ],
+          "category": "gastro",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach einem Tag voller Entdeckungen, genießen Sie ein wohlverdientes Abendessen in der Altstadt.",
+            "hu": "Egy felfedezésekkel teli nap után élvezze a jól megérdemelt vacsorát az óvárosban.",
+            "ro": "După o zi plină de descoperiri, bucurați-vă de o cină binemeritată în orașul vechi.",
+            "en": "After a day of discoveries, enjoy a well-deserved dinner in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Fahrt zum Góra Chełmska, um die Panoramaaussicht zu genießen. Am Vormittag fahren Sie ins Stadtzentrum, parken Ihr Auto und erkunden zu Fuß das gotische Herz von Koszalin, einschließlich der Kathedrale und des Marktplatzes, wo Sie zu Mittag essen. Der Nachmittag ist für einen Ausflug zum weitläufigen Jamno-See reserviert. Genießen Sie die Natur und die frische Luft bei einem Spaziergang am Ufer. Zum Abschluss des Tages kehren Sie ins Zentrum zurück, um in einem der traditionellen Restaurants zu Abend zu essen.",
+        "hu": "A nap a Góra Chełmska-hegyre való autózással kezdődik, hogy élvezze a panorámát. Délelőtt a városközpontba hajt, leparkol, és gyalog fedezi fel Koszalin gótikus szívét, beleértve a katedrálist és a piacteret, ahol megebédel. A délután egy kirándulásra van fenntartva a tágas Jamno-tóhoz. Élvezze a természetet és a friss levegőt egy tóparti sétával. A nap végén térjen vissza a központba, hogy megvacsorázzon az egyik hagyományos étteremben.",
+        "ro": "Ziua începe cu o călătorie cu mașina spre Góra Chełmska pentru a vă bucura de priveliștea panoramică. Dimineața, conduceți spre centrul orașului, parcați mașina și explorați pe jos inima gotică a Koszalinului, inclusiv catedrala și piața, unde veți lua prânzul. După-amiaza este rezervată unei excursii la vastul Lac Jamno. Bucurați-vă de natură și de aerul curat cu o plimbare pe mal. La sfârșitul zilei, reveniți în centru pentru a cina la unul dintre restaurantele tradiționale.",
+        "en": "Your day begins with a drive to Góra Chełmska to enjoy the panoramic view. In the morning, you'll drive to the city center, park your car, and explore Koszalin's Gothic heart on foot, including the cathedral and the market square where you'll have lunch. The afternoon is reserved for an excursion to the expansive Jamno Lake. Enjoy nature and the fresh air with a walk along the shore. At the end of the day, return to the center to have dinner at one of the traditional restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos",
+            "tip": "Ein traditioneller polnischer Sauerkrauteintopf, sehr herzhaft und lecker."
+          },
+          {
+            "name": "Kaszanka",
+            "tip": "Probieren Sie diese einzigartige Blutwurst, oft mit Zwiebeln und Brot serviert."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Ein cremiger polnischer Käsekuchen, perfekt als Dessert oder zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos",
+            "tip": "Hagyományos lengyel savanyúkáposzta-egytálétel, nagyon kiadós és finom."
+          },
+          {
+            "name": "Kaszanka",
+            "tip": "Kóstolja meg ezt az egyedi véres hurkát, gyakran hagymával és kenyérrel tálalva."
+          },
+          {
+            "name": "Sernik",
+            "tip": "Krémes lengyel sajttorta, tökéletes desszertnek vagy kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos",
+            "tip": "O tocană tradițională poloneză de varză acră, foarte consistentă și gustoasă."
+          },
+          {
+            "name": "Kaszanka",
+            "tip": "Încercați acest cârnat de sânge unic, adesea servit cu ceapă și pâine."
+          },
+          {
+            "name": "Sernik",
+            "tip": "O prăjitură poloneză cremoasă cu brânză, perfectă ca desert sau cu o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos",
+            "tip": "A traditional Polish hunter's stew, very hearty and delicious."
+          },
+          {
+            "name": "Kaszanka",
+            "tip": "Try this unique blood sausage, often served with onions and bread."
+          },
+          {
+            "name": "Sernik",
+            "tip": "A creamy Polish cheesecake, perfect for dessert or with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Góra Chełmska am Morgen",
+            "tip": "Genießen Sie die Stille am Morgen, bevor die meisten Touristen ankommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jamno-See Ufer",
+            "tip": "Ein Spaziergang entlang des Sees ist sehr beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkplatz abseits des Zentrums",
+            "tip": "Gönnen Sie sich eine Pause im Auto mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Góra Chełmska reggel",
+            "tip": "Élvezze a reggeli csendet, mielőtt a legtöbb turista megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jamno-tó partja",
+            "tip": "Egy séta a tó mentén nagyon megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parkoló a központon kívül",
+            "tip": "Tartson egy szünetet az autóban, kilátással a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Góra Chełmska dimineața",
+            "tip": "Bucurați-vă de liniștea dimineții înainte de sosirea majorității turiștilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul lacului Jamno",
+            "tip": "O plimbare de-a lungul lacului este foarte liniștitoare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcare departe de centru",
+            "tip": "Luați o pauză în mașină cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Góra Chełmska in the morning",
+            "tip": "Enjoy the morning silence before most tourists arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jamno Lake shore",
+            "tip": "A walk along the lake is very calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parking lot away from the center",
+            "tip": "Take a break in the car with a view of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Produkte",
+            "tip": "Suchen Sie nach Hofläden auf dem Weg zum Jamno-See für frische Produkte."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Hier finden Sie eine Auswahl an Postkarten, Magneten und lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Keressen termelői boltokat a Jamno-tó felé vezető úton friss árukért."
+          },
+          {
+            "name": "Szuvenírboltok az óvárosban",
+            "tip": "Itt képeslapokat, mágneseket és helyi kézműves termékeket talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Căutați magazine agricole în drum spre Lacul Jamno pentru produse proaspete."
+          },
+          {
+            "name": "Magazine de suveniruri în Orașul Vechi",
+            "tip": "Aici veți găsi o selecție de vederi, magneți și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Products",
+            "tip": "Look for farm shops on the way to Jamno Lake for fresh produce."
+          },
+          {
+            "name": "Souvenir Shops in the Old Town",
+            "tip": "Here you will find a selection of postcards, magnets, and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren im Stadtzentrum; oft ist das Parken am Stadtrand günstiger.",
+          "Ein GPS ist unerlässlich, um sich zwischen den verschiedenen Clustern zurechtzufinden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, besonders während der Stoßzeiten.",
+          "Das Auto gibt Ihnen die Flexibilität, auch weiter entfernte Orte wie den Jamno-See bequem zu erreichen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat a városközpontban; gyakran olcsóbb a külvárosban parkolni.",
+          "A GPS elengedhetetlen a különböző klaszterek közötti navigáláshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az autó rugalmasságot ad a távolabbi helyek, mint a Jamno-tó, kényelmes eléréséhez is."
+        ],
+        "ro": [
+          "Verificați taxele de parcare în centrul orașului; parcarea la periferie este adesea mai ieftină.",
+          "Un GPS este esențial pentru a naviga între diferitele clustere.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Mașina vă oferă flexibilitatea de a ajunge confortabil la locuri mai îndepărtate, cum ar fi Lacul Jamno."
+        ],
+        "en": [
+          "Check parking fees in the city center; parking on the outskirts is often cheaper.",
+          "A GPS is essential for navigating between the different clusters.",
+          "Plan for extra time for traffic, especially during peak hours.",
+          "The car gives you the flexibility to comfortably reach more distant places like Jamno Lake."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Rathaus",
+            "hu": "Belvárosi klaszter: Városháza",
+            "ro": "Cluster Centru: Primăria",
+            "en": "Center Cluster: Town Hall"
+          },
+          "coords": [
+            16.1775,
+            54.1903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihre Erkundung zu beginnen.",
+            "hu": "Menjen busszal a főtérre, hogy elkezdje a felfedezést.",
+            "ro": "Luați un autobuz spre piața principală pentru a începe explorarea.",
+            "en": "Take a bus to the main square to start your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Neprihănitei Zămisliri",
+            "en": "Cathedral of the Immaculate Conception"
+          },
+          "coords": [
+            16.175,
+            54.1925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz. Die Kathedrale ist nicht zu übersehen.",
+            "hu": "Egy rövid séta a Városház tértől. A katedrálist nem lehet eltéveszteni.",
+            "ro": "O scurtă plimbare de la Piața Primăriei. Catedrala este de neratat.",
+            "en": "A short walk from the Town Hall square. The cathedral is unmissable."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Park: Bus zum Park der Pommerschen Herzöge",
+            "hu": "Park klaszter: Busszal a Pomerániai Hercegek Parkjába",
+            "ro": "Cluster Parc: Autobuz spre Parcul Ducilor Pomeranieni",
+            "en": "Park Cluster: Bus to Pomeranian Dukes' Park"
+          },
+          "coords": [
+            16.1755,
+            54.1965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Park. Eine gute Gelegenheit für eine Mittagspause im Grünen.",
+            "hu": "Menjen busszal a központból a parkba. Jó lehetőség egy ebédszünetre a zöldben.",
+            "ro": "Luați un autobuz din centru spre parc. O bună oportunitate pentru o pauză de prânz în natură.",
+            "en": "Take a bus from the center to the park. A good opportunity for a lunch break in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatrul",
+            "en": "Amphitheater"
+          },
+          "coords": [
+            16.1701,
+            54.1982
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Park aus ist es nur ein kurzer Spaziergang zu diesem architektonischen Highlight.",
+            "hu": "A parkból csak egy rövid séta ez az építészeti remekmű.",
+            "ro": "Din parc, este doar o scurtă plimbare până la acest punct de atracție arhitectural.",
+            "en": "From the park, it's just a short walk to this architectural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Bus zum Museum in Koszalin",
+            "hu": "Múzeum klaszter: Busszal a Koszalin Múzeumba",
+            "ro": "Cluster Muzeu: Autobuz spre Muzeul din Koszalin",
+            "en": "Museum Cluster: Bus to the Museum in Koszalin"
+          },
+          "coords": [
+            16.1822,
+            54.194
+          ],
+          "category": "museums",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 4.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem tiefen Einblick in die lokale Geschichte und Kultur.",
+            "hu": "Zárja a napot a helyi történelem és kultúra mélyebb megismerésével.",
+            "ro": "Încheiați ziua cu o incursiune profundă în istoria și cultura locală.",
+            "en": "End your day with a deep dive into local history and culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Busfahrt ins Herz von Koszalin. Erkunden Sie den zentralen Platz und die Kathedrale zu Fuß. Am Mittag bringt Sie ein weiterer Bus in den Norden der Stadt zum Park der Pommerschen Herzöge, wo Sie spazieren und das nahegelegene Amphitheater bewundern können. Der Nachmittag ist einem Besuch im Stadtmuseum gewidmet, das leicht mit dem Bus zu erreichen ist und einen Einblick in die pommersche Seele bietet. Ein Tag voller bequemer Fahrten und kurzer, angenehmer Spaziergänge.",
+        "hu": "Kezdje a napot egy buszúttal Koszalin szívébe. Fedezze fel gyalog a központi teret és a katedrálist. Délben egy másik busz elviszi a város északi részébe, a Pomerániai Hercegek Parkjába, ahol sétálhat és megcsodálhatja a közeli amfiteátrumot. A délután a városi múzeum meglátogatásával telik, amely könnyen elérhető busszal, és betekintést nyújt a pomerániai lélekbe. Egy nap tele kényelmes utazásokkal és rövid, kellemes sétákkal.",
+        "ro": "Începeți ziua cu o călătorie cu autobuzul în inima orașului Koszalin. Explorați piața centrală și catedrala pe jos. La prânz, un alt autobuz vă va duce în nordul orașului, la Parcul Ducilor Pomeranieni, unde vă puteți plimba și admira amfiteatrul din apropiere. După-amiaza este dedicată vizitării muzeului orașului, ușor accesibil cu autobuzul, care oferă o perspectivă asupra sufletului pomeranian. O zi plină de călătorii convenabile și plimbări scurte și plăcute.",
+        "en": "Start your day with a bus ride into the heart of Koszalin. Explore the central square and the cathedral on foot. At midday, another bus will take you to the north of the city to the Pomeranian Dukes' Park, where you can walk and admire the nearby amphitheater. The afternoon is dedicated to visiting the city museum, easily reachable by bus, which offers insight into the Pomeranian soul. A day of convenient rides and short, pleasant walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Eine authentische und preiswerte Möglichkeit, traditionelle polnische Gerichte zu probieren."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein langes, getoastetes Baguette mit Käse, Pilzen und Ketchup – ein beliebter polnischer Straßensnack."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Gegrillte polnische Wurst, oft an Ständen in Parks oder bei Veranstaltungen verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny (Tejivó)",
+            "tip": "Autentikus és olcsó módja a hagyományos lengyel ételek megkóstolásának."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "Hosszú, pirított bagett sajttal, gombával és ketchuppal – népszerű lengyel street food."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grillezett lengyel kolbász, amelyet gyakran árulnak standokon parkokban vagy rendezvényeken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (Bar de lapte)",
+            "tip": "O modalitate autentică și ieftină de a gusta mâncăruri tradiționale poloneze."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "O baghetă lungă, prăjită, cu brânză, ciuperci și ketchup – un snack popular polonez de stradă."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Cârnați polonezi la grătar, adesea vânduți la standuri în parcuri sau la evenimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "An authentic and inexpensive way to try traditional Polish dishes."
+          },
+          {
+            "name": "Zapiekanka",
+            "tip": "A long, toasted open-face baguette with cheese, mushrooms, and ketchup - a popular Polish street food."
+          },
+          {
+            "name": "Kiełbasa z grilla",
+            "tip": "Grilled Polish sausage, often sold at stalls in parks or at events."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Ränge des Amphitheaters",
+            "tip": "Wenn keine Veranstaltung stattfindet, ist es hier ruhig mit einer interessanten Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Museumsbibliothek",
+            "tip": "Fragen Sie, ob Sie einen Blick in die Bibliothek oder ruhigere Ausstellungsräume werfen dürfen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Fahrt mit dem Bus aus der Stadt heraus",
+            "tip": "Beobachten Sie die vorbeiziehende Landschaft und entspannen Sie sich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az amfiteátrum felső sorai",
+            "tip": "Ha nincs rendezvény, csendes hely, érdekes kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Múzeumi könyvtár",
+            "tip": "Kérdezze meg, hogy bepillanthat-e a könyvtárba vagy csendesebb kiállítótermekbe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Figyelje az elhaladó tájat és pihenjen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rândurile superioare ale amfiteatrului",
+            "tip": "Dacă nu există niciun eveniment, este un loc liniștit cu o priveliște interesantă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biblioteca muzeului",
+            "tip": "Întrebați dacă puteți arunca o privire în bibliotecă sau în sălile de expoziție mai liniștite.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți peisajul care trece și relaxați-vă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper tiers of the Amphitheater",
+            "tip": "If there's no event, it's a quiet spot with an interesting view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Museum Library",
+            "tip": "Ask if you can take a peek into the library or quieter exhibition rooms.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bus ride out of the city",
+            "tip": "Watch the passing scenery and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie eine Zeitung oder ein Getränk, während Sie auf den nächsten Bus warten."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie Bücher über die Geschichte Pommerns oder einzigartige, von den Exponaten inspirierte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon egy újságot vagy egy italt, amíg a következő buszra vár."
+          },
+          {
+            "name": "Múzeumbolt",
+            "tip": "Keressen könyveket Pomeránia történelméről vagy egyedi, a kiállítások által ihletett szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc din stația de autobuz",
+            "tip": "Cumpărați un ziar sau o băutură în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți cărți despre istoria Pomeraniei sau suveniruri unice inspirate de exponate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy a newspaper or a drink while waiting for the next bus."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "Find books on Pomeranian history or unique souvenirs inspired by the exhibits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr, das ist oft am günstigsten.",
+          "Laden Sie eine Nahverkehrs-App herunter, um Fahrpläne und Routen in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass Busse am Wochenende und am Abend seltener fahren könnten.",
+          "Halten Sie Ihr Ticket bereit, da Kontrollen häufig sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, gyakran ez a legolcsóbb megoldás.",
+          "Töltsön le egy tömegközlekedési alkalmazást a valós idejű menetrendek és útvonalak követéséhez.",
+          "Vegye figyelembe, hogy a buszok hétvégén és este ritkábban közlekedhetnek.",
+          "Tartsa készenlétben a jegyét, mivel az ellenőrzések gyakoriak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, este adesea cea mai ieftină opțiune.",
+          "Descărcați o aplicație de transport public pentru a urmări orarele și rutele în timp real.",
+          "Rețineți că autobuzele pot circula mai rar în weekend și seara.",
+          "Țineți biletul la îndemână, deoarece controalele sunt frecvente."
+        ],
+        "en": [
+          "Buy a day pass for public transport, it's often the cheapest option.",
+          "Download a public transport app to track real-time schedules and routes.",
+          "Be aware that buses might run less frequently on weekends and in the evening.",
+          "Keep your ticket handy as inspections are common."
+        ]
+      }
+    }
+  }
+}

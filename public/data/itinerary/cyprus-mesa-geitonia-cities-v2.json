@@ -1,0 +1,1484 @@
+{
+  "city_id": "cyprus-mesa-geitonia-cities-v2",
+  "anchor": {
+    "name": "Mesa Geitonia",
+    "coords": [
+      33.0378,
+      34.6983
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Mesa Geitonia",
+            "hu": "Mesa Geitonia városháza",
+            "ro": "Primăria din Mesa Geitonia",
+            "en": "Mesa Geitonia Town Hall"
+          },
+          "coords": [
+            33.038,
+            34.6985
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die lokale Verwaltung in Aktion.",
+            "hu": "Csodálja meg a modern építészetet és a helyi közigazgatás működését.",
+            "ro": "Admirați arhitectura modernă și administrația locală în acțiune.",
+            "en": "Admire the modern architecture and see local governance in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Eleftherios Kirche",
+            "hu": "Szent Eleftheriosz-templom",
+            "ro": "Biserica Agios Eleftherios",
+            "en": "Agios Eleftherios Church"
+          },
+          "coords": [
+            33.0395,
+            34.697
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie im Inneren nach den detaillierten Ikonen und Wandmalereien.",
+            "hu": "Keresse a részletgazdag ikonokat és falfestményeket a templom belsejében.",
+            "ro": "Căutați icoanele detaliate și picturile murale din interior.",
+            "en": "Look for the detailed icons and murals inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Gefallenen",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul Eroilor Căzuți",
+            "en": "Monument of the Fallen"
+          },
+          "coords": [
+            33.0375,
+            34.6965
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung, um die lokale Geschichte zu ehren.",
+            "hu": "Egy pillanatnyi elcsendesedés a helyi történelem tiszteletére.",
+            "ro": "Un moment de reflecție pentru a onora istoria locală.",
+            "en": "A moment of reflection to honor the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            33.035,
+            34.7
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungsplan für mögliche Ausstellungen oder Aufführungen.",
+            "hu": "Nézze meg a programot, hátha van valamilyen kiállítás vagy előadás.",
+            "ro": "Verificați programul pentru eventuale expoziții sau spectacole.",
+            "en": "Check the schedule for any ongoing exhibitions or performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mesa Geitonia",
+            "hu": "Mesa Geitonia városi park",
+            "ro": "Parcul Municipal Mesa Geitonia",
+            "en": "Mesa Geitonia Municipal Park"
+          },
+          "coords": [
+            33.042,
+            34.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ideal für ein entspanntes Mittagessen im Freien oder einen Kaffee.",
+            "hu": "Ideális egy kellemes szabadtéri ebédhez vagy egy kávéhoz.",
+            "ro": "Ideal pentru un prânz relaxant în aer liber sau o cafea.",
+            "en": "Perfect for a relaxing outdoor lunch or a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Griva Digeni Avenue",
+            "hu": "Griva Digeni sugárút",
+            "ro": "Bulevardul Griva Digeni",
+            "en": "Griva Digeni Avenue"
+          },
+          "coords": [
+            33.045,
+            34.695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielen kleinen Geschäfte und Cafés entlang der Allee.",
+            "hu": "Fedezze fel a sugárút mentén található számos kis üzletet és kávézót.",
+            "ro": "Explorați numeroasele magazine mici și cafenele de pe bulevard.",
+            "en": "Explore the many small shops and cafes along the avenue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mesa Geitonia am Rathaus, bevor Sie in der Agios Eleftherios Kirche Ruhe finden. Ein Spaziergang durch die Geschichte führt Sie zum Denkmal der Gefallenen und weiter zum Kulturzentrum. Verbringen Sie einen entspannten Nachmittag im Stadtpark, ideal für ein Picknick, und lassen Sie den Tag mit einem Bummel über die lebhafte Griva Digeni Avenue ausklingen, wo Sie lokale Geschäfte und das städtische Leben entdecken können.",
+        "hu": "Kezdje a napot Mesa Geitonia szívében, a városházánál, mielőtt békére lelne az Agios Eleftheriosz-templomban. Egy történelmi séta vezet az Elesettek emlékművéhez, majd tovább a Kulturális Központba. Töltsön egy pihentető délutánt a városi parkban, amely ideális egy piknikhez, majd zárja a napot egy sétával a nyüzsgő Griva Digeni sugárúton, felfedezve a helyi üzleteket és a városi életet.",
+        "ro": "Începeți ziua în inima Mesa Geitonia la Primărie, înainte de a găsi liniștea la Biserica Agios Eleftherios. O plimbare prin istorie vă duce la Monumentul Eroilor Căzuți și mai departe la Centrul Cultural. Petreceți o după-amiază relaxantă în Parcul Municipal, perfect pentru un picnic, și încheiați ziua cu o plimbare pe animatul Bulevard Griva Digeni, descoperind magazinele locale și viața urbană.",
+        "en": "Start your day in the heart of Mesa Geitonia at the Town Hall before finding peace at Agios Eleftherios Church. A walk through history takes you to the Monument of the Fallen and on to the Cultural Center. Spend a relaxing afternoon in the Municipal Park, perfect for a picnic, and end the day with a stroll down the lively Griva Digeni Avenue, discovering local shops and urban life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Halloumi",
+            "tip": "Probieren Sie den gegrillten zypriotischen Käse, ein lokaler Favorit."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Genießen Sie die gegrillten Fleischspieße in einem der vielen lokalen Grillhäuser."
+          },
+          {
+            "name": "Meze",
+            "tip": "Bestellen Sie eine Auswahl kleiner Gerichte, um die Vielfalt der zypriotischen Küche zu erleben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halloumi",
+            "tip": "Kóstolja meg a grillezett ciprusi sajtot, egy helyi kedvencet."
+          },
+          {
+            "name": "Szuvláki",
+            "tip": "Élvezze a grillezett húsnyársakat az egyik helyi grillházban."
+          },
+          {
+            "name": "Meze",
+            "tip": "Rendeljen egy válogatást a kis fogásokból, hogy megismerje a ciprusi konyha sokszínűségét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi",
+            "tip": "Încercați brânza cipriotă la grătar, o favorită locală."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Savurați frigăruile de carne la grătar la una dintre numeroasele taverne locale."
+          },
+          {
+            "name": "Meze",
+            "tip": "Comandați o selecție de mici feluri de mâncare pentru a experimenta varietatea bucătăriei cipriote."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halloumi",
+            "tip": "Try the grilled Cypriot cheese, a local favourite."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Enjoy the grilled meat skewers at one of the many local grill houses."
+          },
+          {
+            "name": "Meze",
+            "tip": "Order a selection of small dishes to experience the variety of Cypriot cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Linopetra Park",
+            "tip": "Ein ruhigerer Park, ideal zum Lesen eines Buches oder für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stadtpark Mesa Geitonia",
+            "tip": "Finden Sie eine schattige Bank und beobachten Sie das Kommen und Gehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Eleftherios Kirche",
+            "tip": "Finden Sie im Inneren einen Moment der stillen Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linopetra Park",
+            "tip": "Egy csendesebb park, ideális egy könyv olvasásához vagy egy békés sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mesa Geitonia városi park",
+            "tip": "Keressen egy árnyékos padot, és figyelje a világot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Eleftheriosz-templom",
+            "tip": "Találjon egy pillanatnyi csendes elmélkedést a belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Linopetra",
+            "tip": "Un parc mai liniștit, perfect pentru a citi o carte sau pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Municipal Mesa Geitonia",
+            "tip": "Găsiți o bancă umbrită și priviți lumea trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Agios Eleftherios",
+            "tip": "Găsiți un moment de contemplație tăcută în interior.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Linopetra Park",
+            "tip": "A quieter park, perfect for reading a book or a peaceful stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mesa Geitonia Municipal Park",
+            "tip": "Find a shaded bench and watch the world go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Agios Eleftherios Church",
+            "tip": "Find a moment of quiet contemplation inside.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Griva Digeni Avenue",
+            "tip": "Stöbern Sie in den Boutiquen nach lokaler Mode und Souvenirs."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie traditionelles zypriotisches Gebäck und Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Griva Digeni sugárút",
+            "tip": "Böngésszen a butikokban helyi divatcikkek és szuvenírek után."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon hagyományos ciprusi süteményeket és kenyeret."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Griva Digeni",
+            "tip": "Răsfoiți buticurile pentru modă locală și suveniruri."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie și pâine tradițională cipriotă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Griva Digeni Avenue",
+            "tip": "Browse the boutiques for local fashion and souvenirs."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Purchase traditional Cypriot pastries and bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Planen Sie Pausen im Schatten ein, um der Mittagssonne zu entgehen.",
+          "Genießen Sie einen gemütlichen Kaffee in einem der vielen Cafés."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a melegebb hónapokban.",
+          "Tervezzen szüneteket az árnyékban, hogy elkerülje a déli napot.",
+          "Élvezzen egy kellemes kávét az egyik kávézóban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în lunile mai calde.",
+          "Planificați pauze la umbră pentru a evita soarele de la amiază.",
+          "Bucurați-vă de o cafea relaxantă la una dintre numeroasele cafenele."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially during warmer months.",
+          "Plan for breaks in the shade to avoid the midday sun.",
+          "Enjoy a leisurely coffee at one of the many cafes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Griva Digeni Avenue",
+            "hu": "Griva Digeni sugárút",
+            "ro": "Bulevardul Griva Digeni",
+            "en": "Griva Digeni Avenue"
+          },
+          "coords": [
+            33.045,
+            34.695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit Energie, erkunden Sie die Geschäfte, bevor es zu voll wird.",
+            "hu": "Kezdje energikusan a napot, fedezze fel az üzleteket, mielőtt túl nagy lesz a tömeg.",
+            "ro": "Începeți cu energie, explorați magazinele înainte de a deveni prea aglomerat.",
+            "en": "Start with energy, explore the shops before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Mesa Geitonia",
+            "hu": "Mesa Geitonia városháza",
+            "ro": "Primăria din Mesa Geitonia",
+            "en": "Mesa Geitonia Town Hall"
+          },
+          "coords": [
+            33.038,
+            34.6985
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:52",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das Zentrum der lokalen Verwaltung zu sehen.",
+            "hu": "Egy gyors megálló, hogy megnézze a helyi közigazgatás központját.",
+            "ro": "O oprire scurtă pentru a vedea centrul administrației locale.",
+            "en": "A quick stop to see the center of local administration."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            33.035,
+            34.7
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über lokale Kunst und Veranstaltungen.",
+            "hu": "Tájékozódjon a helyi művészetről és eseményekről.",
+            "ro": "Informați-vă despre arta și evenimentele locale.",
+            "en": "Check for local art and events."
+          }
+        },
+        {
+          "name": {
+            "de": "Linopetra Park",
+            "hu": "Linopetra Park",
+            "ro": "Parcul Linopetra",
+            "en": "Linopetra Park"
+          },
+          "coords": [
+            33.055,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:26",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner grüner Ort für eine kurze Pause und Erfrischung.",
+            "hu": "Egy szép zöld terület egy rövid szünetre és felfrissülésre.",
+            "ro": "Un spațiu verde frumos pentru o pauză scurtă și o gură de aer proaspăt.",
+            "en": "A lovely green space for a short break and refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Galactica Park",
+            "hu": "Galactica Park",
+            "ro": "Parcul Galactica",
+            "en": "Galactica Park"
+          },
+          "coords": [
+            33.05,
+            34.69
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "12:31",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Spaß für die ganze Familie, ideal für die Mittagszeit.",
+            "hu": "Szórakozás az egész családnak, ideális ebédidőben.",
+            "ro": "Distracție pentru întreaga familie, ideal pentru ora prânzului.",
+            "en": "Fun for the whole family, great for the midday period."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Eleftherios Kirche",
+            "hu": "Szent Eleftheriosz-templom",
+            "ro": "Biserica Agios Eleftherios",
+            "en": "Agios Eleftherios Church"
+          },
+          "coords": [
+            33.0395,
+            34.697
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur am Nachmittag.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet délután.",
+            "ro": "Admirați arhitectura tradițională ortodoxă după-amiaza.",
+            "en": "Admire the traditional Orthodox architecture in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mesa Geitonia",
+            "hu": "Mesa Geitonia városi park",
+            "ro": "Parcul Municipal Mesa Geitonia",
+            "en": "Mesa Geitonia Municipal Park"
+          },
+          "coords": [
+            33.042,
+            34.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und die Beine auszustrecken.",
+            "hu": "Tökéletes hely a nap befejezéséhez és a lábak kinyújtóztatásához.",
+            "ro": "Locul perfect pentru a încheia ziua și a vă întinde picioarele.",
+            "en": "The perfect place to wind down the day and stretch your legs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie auf der Griva Digeni Avenue. Die Route führt Sie am Rathaus und Kulturzentrum vorbei zu den grünen Oasen der Stadt, dem Linopetra Park und dem familienfreundlichen Galactica Park, wo Sie zu Mittag essen können. Am Nachmittag entdecken Sie die spirituelle Seite der Stadt in der Agios Eleftherios Kirche, bevor Sie im zentralen Stadtpark entspannen und den Tag ausklingen lassen.",
+        "hu": "Pattanjon biciklire és induljon a Griva Digeni sugárúton. Az útvonal elvezet a városháza és a Kulturális Központ mellett a város zöld oázisaihoz, a Linopetra Parkhoz és a családbarát Galactica Parkhoz, ahol megebédelhet. Délután fedezze fel a város spirituális oldalát az Agios Eleftheriosz-templomban, mielőtt a központi városi parkban pihenne, és lezárná a napot.",
+        "ro": "Urcați-vă pe bicicletă și porniți pe Bulevardul Griva Digeni. Traseul vă duce pe lângă Primărie și Centrul Cultural către oazele verzi ale orașului, Parcul Linopetra și Parcul Galactica, prietenos pentru familii, unde puteți lua prânzul. După-amiaza, explorați latura spirituală a orașului la Biserica Agios Eleftherios înainte de a vă relaxa în parcul central al orașului pentru a încheia ziua.",
+        "en": "Hop on your bike and start on Griva Digeni Avenue. The route takes you past the Town Hall and Cultural Center to the city's green oases, Linopetra Park and the family-friendly Galactica Park, where you can have lunch. In the afternoon, explore the spiritual side of the city at Agios Eleftherios Church before relaxing in the central Municipal Park to end your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sheftalia",
+            "tip": "Probieren Sie diese traditionellen zypriotischen Würstchen vom Grill."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "Eine erfrischende Belohnung nach einer Radtour."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Langsam gegartes Lammfleisch, zart und voller Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sheftalia",
+            "tip": "Kóstolja meg ezeket a hagyományos ciprusi kolbászkákat grillen sütve."
+          },
+          {
+            "name": "Friss narancslé",
+            "tip": "Frissítő jutalom egy biciklitúra után."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Lassan sült bárányhús, omlós és ízletes."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sheftalia",
+            "tip": "Încercați acești cârnați tradiționali ciprioți la grătar."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "O recompensă răcoritoare după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Miel gătit lent, fraged și plin de aromă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheftalia",
+            "tip": "Try these traditional Cypriot grilled sausages."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "A refreshing reward after a bike ride."
+          },
+          {
+            "name": "Kleftiko",
+            "tip": "Slow-cooked lamb, tender and full of flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Linopetra Park",
+            "tip": "Ein friedlicher Rückzugsort abseits der belebteren Gegenden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitenstraßen",
+            "tip": "Fahren Sie durch die ruhigen Wohnstraßen, um das lokale Leben zu sehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof",
+            "tip": "Der Bereich um die Agios Eleftherios Kirche ist oft ruhig und besinnlich.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linopetra Park",
+            "tip": "Békés menedék a forgalmasabb területektől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Kerékpározzon végig a csendes lakóutcákon, hogy lássa a helyi életet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templomkert",
+            "tip": "Az Agios Eleftheriosz-templom körüli terület gyakran csendes és elgondolkodtató.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Linopetra",
+            "tip": "Un refugiu pașnic departe de zonele mai aglomerate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străzi lăturalnice",
+            "tip": "Plimbați-vă cu bicicleta pe străzile rezidențiale liniștite pentru a vedea viața locală.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii",
+            "tip": "Zona din jurul Bisericii Agios Eleftherios este adesea liniștită și contemplativă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Linopetra Park",
+            "tip": "A peaceful retreat away from the busier areas.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side Streets",
+            "tip": "Cycle through the quiet residential streets to see local life.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church grounds",
+            "tip": "The area around Agios Eleftherios Church is often quiet and contemplative.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Kaufen Sie lokales Zubehör oder mieten Sie ein besseres Fahrrad."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem Markt für frisches Obst und Snacks für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Vásároljon helyi kiegészítőket, vagy béreljen egy jobb kerékpárt."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy piacot friss gyümölcsért és rágcsálnivalóért az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Cumpărați accesorii locale sau închiriați o bicicletă mai bună."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață pentru fructe proaspete și gustări pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Pick up some local accessories or rent a better bike."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Find a local market for fresh fruit and snacks for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und seien Sie im Verkehr vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Nutzen Sie Fahrradwege, wo immer möglich.",
+          "Planen Sie Ihre Route im Voraus, um steile Hügel zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen sisakot és legyen óvatos a forgalomban.",
+          "Mindig zárja le a kerékpárját, ha leteszi.",
+          "Használja a kerékpárutakat, ahol csak lehetséges.",
+          "Tervezze meg előre az útvonalat a meredek emelkedők elkerülése érdekében."
+        ],
+        "ro": [
+          "Purtați cască și fiți atenți în trafic.",
+          "Încuiati întotdeauna bicicleta când o parcați.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Planificați-vă traseul în avans pentru a evita dealurile abrupte."
+        ],
+        "en": [
+          "Wear a helmet and be cautious in traffic.",
+          "Always lock your bike when leaving it.",
+          "Use bike lanes wherever available.",
+          "Plan your route in advance to avoid steep hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Galactica Park",
+            "hu": "Galactica Park",
+            "ro": "Parcul Galactica",
+            "en": "Galactica Park"
+          },
+          "coords": [
+            33.05,
+            34.69
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit Spaß. Parken Sie hier und genießen Sie die Attraktionen.",
+            "hu": "Kezdje a napot szórakozással. Parkoljon le itt, és élvezze a látnivalókat.",
+            "ro": "Începeți ziua cu distracție. Parcați aici și bucurați-vă de atracții.",
+            "en": "Start the day with fun. Park here and enjoy the attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Linopetra Park",
+            "hu": "Linopetra Park",
+            "ro": "Parcul Linopetra",
+            "en": "Linopetra Park"
+          },
+          "coords": [
+            33.055,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:03",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher für eine Dosis Grün und Ruhe.",
+            "hu": "Egy rövid kitérő egy adag zöldért és nyugalomért.",
+            "ro": "O scurtă deviere pentru o doză de verdeață și liniște.",
+            "en": "A quick detour for a dose of green and quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Mesa Geitonia (Cluster)",
+            "hu": "Mesa Geitonia városháza (Klaszter)",
+            "ro": "Primăria din Mesa Geitonia (Cluster)",
+            "en": "Mesa Geitonia Town Hall (Cluster)"
+          },
+          "coords": [
+            33.038,
+            34.6985
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkoljon a városközpontban, és kezdje meg a gyalogtúrát.",
+            "ro": "Parcați în centrul orașului și începeți turul pietonal.",
+            "en": "Park in the city center and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            33.035,
+            34.7
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus. Ideal, um die Mittagszeit zu verbringen.",
+            "hu": "Egy rövid séta a városházától. Ideális az ebédidő eltöltésére.",
+            "ro": "O scurtă plimbare de la Primărie. Ideal pentru a petrece pauza de prânz.",
+            "en": "A short walk from the town hall. Great for spending your lunch hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Eleftherios Kirche",
+            "hu": "Szent Eleftheriosz-templom",
+            "ro": "Biserica Agios Eleftherios",
+            "en": "Agios Eleftherios Church"
+          },
+          "coords": [
+            33.0395,
+            34.697
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Kirche ist nur einen Steinwurf entfernt, perfekt für einen ruhigen Moment.",
+            "hu": "A templom csak egy kőhajításnyira van, tökéletes egy csendes pillanatra.",
+            "ro": "Biserica este la o aruncătură de băț, perfectă pentru un moment de liniște.",
+            "en": "The church is just a stone's throw away, perfect for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Gefallenen",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul Eroilor Căzuți",
+            "en": "Monument of the Fallen"
+          },
+          "coords": [
+            33.0375,
+            34.6965
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:38",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Stadtrundgang mit einem Moment des Gedenkens.",
+            "hu": "Fejezze be a városnéző sétát egy emlékező pillanattal.",
+            "ro": "Încheiați turul orașului cu un moment de reculegere.",
+            "en": "End your city walking tour with a moment of remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Griva Digeni Avenue",
+            "hu": "Griva Digeni sugárút",
+            "ro": "Bulevardul Griva Digeni",
+            "en": "Griva Digeni Avenue"
+          },
+          "coords": [
+            33.045,
+            34.695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 130,
+          "hop_mode": "car",
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Ziel des Tages, um einzukaufen und einen Kaffee zu trinken.",
+            "hu": "Vezessen a nap utolsó állomásához vásárolni és kávézni.",
+            "ro": "Conduceți la destinația finală a zilei pentru cumpărături și o cafea.",
+            "en": "Drive to the final destination of the day for some shopping and coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Autotag beginnt im Galactica Park, einem unterhaltsamen Start, bevor es zum ruhigeren Linopetra Park geht. Fahren Sie dann ins Zentrum, parken Sie und erkunden Sie den historischen Kern zu Fuß: vom Rathaus zum Kulturzentrum, weiter zur Agios Eleftherios Kirche und dem Denkmal. Der Nachmittag endet mit einer kurzen Fahrt zur Griva Digeni Avenue, wo Sie nach Herzenslust einkaufen und in den Cafés entspannen können.",
+        "hu": "Az autós nap a Galactica Parkban kezdődik, egy szórakoztató indítással, mielőtt a csendesebb Linopetra Park felé venné az irányt. Ezután hajtson be a központba, parkoljon le, és fedezze fel gyalog a történelmi magot: a városházától a Kulturális Központig, tovább az Agios Eleftheriosz-templomhoz és az emlékműhöz. A délután egy rövid autóúttal zárul a Griva Digeni sugárútra, ahol kedvére vásárolhat és pihenhet a kávézókban.",
+        "ro": "Ziua cu mașina începe la Parcul Galactica, un start distractiv înainte de a vă îndrepta spre mai liniștitul Parc Linopetra. Apoi, conduceți spre centru, parcați și explorați nucleul istoric pe jos: de la Primărie la Centrul Cultural, continuând spre Biserica Agios Eleftherios și monument. După-amiaza se încheie cu o scurtă călătorie cu mașina spre Bulevardul Griva Digeni pentru cumpărături și relaxare la cafenele.",
+        "en": "The car day starts at Galactica Park for a fun beginning before heading to the quieter Linopetra Park. Then, drive to the center, park, and explore the historic core on foot: from the Town Hall to the Cultural Center, on to Agios Eleftherios Church and the monument. The afternoon concludes with a short drive to Griva Digeni Avenue for shopping and cafe relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zypriotischer Kaffee",
+            "tip": "Stark und aromatisch, perfekt für eine Pause am Nachmittag."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Süßes Gebäck aus Filoteig, Nüssen und Sirup."
+          },
+          {
+            "name": "Taverna-Mittagessen",
+            "tip": "Suchen Sie eine traditionelle Taverne für ein authentisches Meze-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciprusi kávé",
+            "tip": "Erős és aromás, tökéletes egy délutáni szünethez."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Édes sütemény filotésztából, diófélékből és szirupból."
+          },
+          {
+            "name": "Taverna ebéd",
+            "tip": "Keressen egy hagyományos tavernát egy autentikus meze élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea cipriotă",
+            "tip": "Puternică și aromată, perfectă pentru o pauză de după-amiază."
+          },
+          {
+            "name": "Baclava",
+            "tip": "Produs de patiserie dulce făcut cu foi de plăcintă, nuci și sirop."
+          },
+          {
+            "name": "Prânz la tavernă",
+            "tip": "Găsiți o tavernă tradițională pentru o experiență autentică de meze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cypriot Coffee",
+            "tip": "Strong and aromatic, perfect for an afternoon break."
+          },
+          {
+            "name": "Baklava",
+            "tip": "Sweet pastry made of layers of filo, nuts, and syrup."
+          },
+          {
+            "name": "Taverna Lunch",
+            "tip": "Find a traditional taverna for an authentic meze experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Machen Sie einen kleinen Umweg, um die Meeresbrise zu genießen, falls die Zeit es erlaubt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkplatz mit Aussicht",
+            "tip": "Manchmal bieten Parkplätze in Hügellage eine unerwartete, ruhige Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen im Park",
+            "tip": "Besuchen Sie den Linopetra Park, bevor die Stadt erwacht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a tengerpart mentén",
+            "tip": "Tegyen egy kis kitérőt, hogy élvezze a tengeri szellőt, ha az idő engedi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parkoló kilátással",
+            "tip": "Néha a domboldali parkolók váratlan, csendes kilátást nyújtanak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a parkban",
+            "tip": "Látogasson el a Linopetra Parkba, mielőtt a város felébred.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Condus pe coastă",
+            "tip": "Faceți un mic ocol pentru a vă bucura de briza mării, dacă timpul vă permite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcare cu vedere",
+            "tip": "Uneori, parcările de pe dealuri oferă o priveliște neașteptată și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în parc",
+            "tip": "Vizitați Parcul Linopetra înainte ca orașul să se trezească.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Drive",
+            "tip": "Take a slight detour to enjoy the sea breeze if time permits.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parking with a View",
+            "tip": "Sometimes hilltop parking lots offer an unexpected quiet view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the park",
+            "tip": "Visit Linopetra Park before the city wakes up.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Spitze."
+          },
+          {
+            "name": "Supermarkt",
+            "tip": "Kaufen Sie lokale Produkte wie Olivenöl und Wein, um sie mit nach Hause zu nehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és csipkét."
+          },
+          {
+            "name": "Szupermarket",
+            "tip": "Vásároljon helyi termékeket, például olívaolajat és bort, hogy hazavigye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați ceramică și dantele lucrate manual."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Cumpărați produse locale precum ulei de măsline și vin pentru a le lua acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Shops",
+            "tip": "Look for handmade pottery and lace."
+          },
+          {
+            "name": "Supermarket",
+            "tip": "Stock up on local products like olive oil and wine to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie GPS, um sich in der Stadt zurechtzufinden.",
+          "Achten Sie auf Parkbeschränkungen im Stadtzentrum.",
+          "Klimaanlage ist ein Muss für Fahrten im Sommer.",
+          "Planen Sie Ihre Betankungsstopps, besonders wenn Sie die Stadt verlassen."
+        ],
+        "hu": [
+          "Használjon GPS-t a városban való navigáláshoz.",
+          "Ügyeljen a parkolási korlátozásokra a városközpontban.",
+          "A légkondicionálás elengedhetetlen a nyári autózáshoz.",
+          "Tervezze meg a tankolási megállókat, különösen, ha elhagyja a várost."
+        ],
+        "ro": [
+          "Utilizați GPS-ul pentru a naviga prin oraș.",
+          "Fiți atenți la restricțiile de parcare din centrul orașului.",
+          "Aerul condiționat este o necesitate pentru condusul pe timp de vară.",
+          "Planificați-vă opririle pentru alimentare, mai ales dacă părăsiți orașul."
+        ],
+        "en": [
+          "Use GPS for navigating the city.",
+          "Be aware of parking restrictions in the city center.",
+          "Air conditioning is a must for summer driving.",
+          "Plan your fueling stops, especially if heading out of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Griva Digeni Avenue (Cluster)",
+            "hu": "Griva Digeni sugárút (Klaszter)",
+            "ro": "Bulevardul Griva Digeni (Cluster)",
+            "en": "Griva Digeni Avenue (Cluster)"
+          },
+          "coords": [
+            33.045,
+            34.695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu dieser belebten Allee, um den Tag zu beginnen.",
+            "hu": "Vegyen egy buszt erre a nyüzsgő sugárútra a nap kezdetén.",
+            "ro": "Luați un autobuz spre acest bulevard aglomerat pentru a începe ziua.",
+            "en": "Take a bus to this busy avenue to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Mesa Geitonia",
+            "hu": "Mesa Geitonia városi park",
+            "ro": "Parcul Municipal Mesa Geitonia",
+            "en": "Mesa Geitonia Municipal Park"
+          },
+          "coords": [
+            33.042,
+            34.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang für eine morgendliche Pause im Grünen.",
+            "hu": "Egy rövid séta egy reggeli szünetre a zöldben.",
+            "ro": "O scurtă plimbare pentru o pauză de dimineață în verdeață.",
+            "en": "A short walk for a morning break in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Mesa Geitonia (Cluster)",
+            "hu": "Mesa Geitonia városháza (Klaszter)",
+            "ro": "Primăria din Mesa Geitonia (Cluster)",
+            "en": "Mesa Geitonia Town Hall (Cluster)"
+          },
+          "coords": [
+            33.038,
+            34.6985
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:31",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus ins Zentrum und steigen Sie in der Nähe des Rathauses aus.",
+            "hu": "Menjen busszal a központba, és szálljon le a városháza közelében.",
+            "ro": "Luați autobuzul spre centru și coborâți lângă Primărie.",
+            "en": "Take the bus to the center and get off near the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Eleftherios Kirche",
+            "hu": "Szent Eleftheriosz-templom",
+            "ro": "Biserica Agios Eleftherios",
+            "en": "Agios Eleftherios Church"
+          },
+          "coords": [
+            33.0395,
+            34.697
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Rathaus aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a városházától.",
+            "ro": "Ușor de ajuns pe jos de la Primărie.",
+            "en": "An easy walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            33.035,
+            34.7
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:47",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine längere Mittagspause und kulturelle Eindrücke.",
+            "hu": "Ideális hely egy hosszabb ebédszünetre és kulturális élményekre.",
+            "ro": "Un loc ideal pentru o pauză de prânz mai lungă și impresii culturale.",
+            "en": "An ideal place for a longer lunch break and cultural immersion."
+          }
+        },
+        {
+          "name": {
+            "de": "Linopetra Park",
+            "hu": "Linopetra Park",
+            "ro": "Parcul Linopetra",
+            "en": "Linopetra Park"
+          },
+          "coords": [
+            33.055,
+            34.705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus, um den Nachmittag in dieser ruhigen Grünanlage ausklingen zu lassen.",
+            "hu": "Menjen busszal, hogy ebben a csendes zöldterületben fejezze be a délutánt.",
+            "ro": "Luați un autobuz pentru a încheia după-amiaza în acest spațiu verde liniștit.",
+            "en": "Take a bus to end the afternoon in this quiet green space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um den Tag auf der Griva Digeni Avenue zu beginnen und einen kurzen Spaziergang zum Stadtpark zu machen. Eine Busfahrt bringt Sie ins Herz der Stadt zum Rathaus-Cluster, wo Sie die Agios Eleftherios Kirche und das Kulturzentrum zu Fuß erkunden. Zum Abschluss des Tages fahren Sie mit dem Bus in den Linopetra Park, um einen entspannten Nachmittag zu verbringen, bevor Sie zurückkehren.",
+        "hu": "Használja a tömegközlekedést, hogy a Griva Digeni sugárúton kezdje a napot, majd tegyen egy rövid sétát a városi parkba. Egy buszút elviszi a város szívébe, a városháza-klaszterhez, ahol gyalog fedezheti fel az Agios Eleftheriosz-templomot és a Kulturális Központot. A nap végén busszal utazzon a Linopetra Parkba egy pihentető délutánra, mielőtt visszatérne.",
+        "ro": "Folosiți transportul public pentru a începe ziua pe Bulevardul Griva Digeni, cu o scurtă plimbare până la Parcul Municipal. O călătorie cu autobuzul vă duce în inima orașului, la clusterul Primăriei, unde puteți explora pe jos Biserica Agios Eleftherios și Centrul Cultural. Pentru a încheia ziua, luați autobuzul spre Parcul Linopetra pentru o după-amiază relaxantă înainte de a vă întoarce.",
+        "en": "Use public transit to start on Griva Digeni Avenue with a short walk to the Municipal Park. A bus ride takes you to the city's heart at the Town Hall cluster, where you can explore Agios Eleftherios Church and the Cultural Center on foot. To end the day, take a bus to Linopetra Park for a relaxing afternoon before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Koubes",
+            "tip": "Ein beliebter Straßensnack aus Bulgur, gefüllt mit Hackfleisch."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie eine Flasche KEO oder Leon, die zypriotischen Hauptbiere."
+          },
+          {
+            "name": "Gefülltes Gemüse (Gemista)",
+            "tip": "Mit Reis und Kräutern gefüllte Paprika oder Tomaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koubes",
+            "tip": "Népszerű utcai étel bulgurból, darált hússal töltve."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy üveg KEO-t vagy Leont, a fő ciprusi söröket."
+          },
+          {
+            "name": "Töltött zöldségek (Gemista)",
+            "tip": "Rizzsel és fűszernövényekkel töltött paprika vagy paradicsom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koubes",
+            "tip": "O gustare populară de stradă făcută din bulgur umplut cu carne tocată."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o sticlă de KEO sau Leon, principalele beri cipriote."
+          },
+          {
+            "name": "Legume umplute (Gemista)",
+            "tip": "Ardei sau roșii umplute cu orez și ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koubes",
+            "tip": "A popular street food snack made from bulgur, filled with minced meat."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a bottle of KEO or Leon, the main Cypriot beers."
+          },
+          {
+            "name": "Stuffed Vegetables (Gemista)",
+            "tip": "Peppers or tomatoes stuffed with rice and herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Auf einer Bank im Park",
+            "tip": "Der Stadtpark und der Linopetra Park sind perfekt für eine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Denkmal der Gefallenen",
+            "tip": "Ein Ort der stillen Einkehr und des Nachdenkens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy padon a parkban",
+            "tip": "A városi park és a Linopetra Park tökéletes egy szünetre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy busz emeletén",
+            "tip": "Figyelje a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Elesettek emlékműve",
+            "tip": "A csendes elmélkedés és gondolkodás helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe o bancă în parc",
+            "tip": "Parcul Municipal și Parcul Linopetra sunt perfecte pentru o pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Priviți orașul dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Monumentul Eroilor Căzuți",
+            "tip": "Un loc de reculegere și reflecție tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "On a park bench",
+            "tip": "The Municipal Park and Linopetra Park are perfect for taking a break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Watch the city go by from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Monument of the Fallen",
+            "tip": "A place for quiet reflection and thought.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptera)",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und schnelle Snacks."
+          },
+          {
+            "name": "Geschäfte in der Nähe von Bushaltestellen",
+            "tip": "Oft praktisch für den Kauf von Souvenirs in letzter Minute."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptera)",
+            "tip": "Vásároljon jegyeket, italokat és gyors harapnivalókat."
+          },
+          {
+            "name": "Boltok a buszmegállók közelében",
+            "tip": "Gyakran praktikusak az utolsó pillanatban történő szuvenírvásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptera)",
+            "tip": "Cumpărați bilete, băuturi și gustări rapide."
+          },
+          {
+            "name": "Magazine lângă stațiile de autobuz",
+            "tip": "Adesea convenabile pentru suveniruri de ultim moment."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptera)",
+            "tip": "Buy your transit tickets, drinks, and quick snacks."
+          },
+          {
+            "name": "Shops near bus stops",
+            "tip": "Often convenient for last-minute souvenir purchases."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, um Wartezeiten zu minimieren.",
+          "Halten Sie Kleingeld für Fahrkarten bereit, wenn Sie im Bus kaufen.",
+          "Beachten Sie, dass Busse am Wochenende und abends seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet a várakozási idő minimalizálása érdekében.",
+          "Készítsen aprópénzt a jegyekhez, ha a buszon vásárol.",
+          "Vegye figyelembe, hogy a buszok hétvégén és este ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați dinainte orarele autobuzelor pentru a minimiza timpul de așteptare.",
+          "Aveți la îndemână mărunțiș pentru bilete dacă cumpărați din autobuz.",
+          "Rețineți că autobuzele pot circula mai rar în weekend și seara."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Check bus schedules in advance to minimize waiting.",
+          "Have small change ready for tickets if buying on the bus.",
+          "Be aware that buses may be less frequent on weekends and evenings."
+        ]
+      }
+    }
+  }
+}

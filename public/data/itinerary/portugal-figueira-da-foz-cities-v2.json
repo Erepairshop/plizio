@@ -1,0 +1,1460 @@
+{
+  "city_id": "portugal-figueira-da-foz-cities-v2",
+  "anchor": {
+    "name": "Figueira da Foz",
+    "coords": [
+      -8.8612,
+      40.1501
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.8585,
+            40.1511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die frischen Meeresfrüchte und das lokale Gebäck.",
+            "hu": "Kóstolja meg a friss tenger gyümölcseit és a helyi süteményeket.",
+            "ro": "Încercați fructele de mare proaspete și produsele de patiserie locale.",
+            "en": "Try the fresh seafood and the local pastries."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Santos Rocha",
+            "hu": "Santos Rocha Városi Múzeum",
+            "ro": "Muzeul Municipal Santos Rocha",
+            "en": "Santos Rocha Municipal Museum"
+          },
+          "coords": [
+            -8.8571,
+            40.1505
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die archäologische Sammlung für einen Einblick in die lokale Geschichte.",
+            "hu": "Fókuszáljon a régészeti gyűjteményre, hogy betekintést nyerjen a helyi történelembe.",
+            "ro": "Concentrați-vă pe colecția arheologică pentru o incursiune în istoria locală.",
+            "en": "Focus on the archaeological collection for a glimpse into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio Sotto Maior",
+            "hu": "Sotto Maior Palota",
+            "ro": "Palatul Sotto Maior",
+            "en": "Sotto Maior Palace"
+          },
+          "coords": [
+            -8.8602,
+            40.1488
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die französisch inspirierte Architektur von außen; das Innere ist selten geöffnet.",
+            "hu": "Csodálja meg a francia ihletésű építészetet kívülről; a belseje ritkán látogatható.",
+            "ro": "Admirați arhitectura de inspirație franceză din exterior; interiorul este rar deschis.",
+            "en": "Admire the French-inspired architecture from the outside; the interior is rarely open."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Figueira",
+            "hu": "Figueira Kaszinó",
+            "ro": "Cazinoul Figueira",
+            "en": "Casino Figueira"
+          },
+          "coords": [
+            -8.8634,
+            40.1476
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Zeitplan für Abendshows, auch wenn Sie nicht spielen.",
+            "hu": "Nézze meg az esti műsorok programját, még ha nem is játszik.",
+            "ro": "Verificați programul spectacolelor de seară, chiar dacă nu jucați.",
+            "en": "Check the schedule for evening shows, even if you don't gamble."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Santa Catarina erőd",
+            "ro": "Fortul Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -8.8678,
+            40.1495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick auf den Strand und den Hafen.",
+            "hu": "A legjobb hely a panorámás kilátáshoz a strandra és a kikötőre.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică asupra plajei și portului.",
+            "en": "The best spot for panoramic views of the beach and the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Claridade",
+            "hu": "Claridade strand",
+            "ro": "Plaja Claridade",
+            "en": "Praia da Claridade"
+          },
+          "coords": [
+            -8.8715,
+            40.152
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 210,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie einen Sonnenschirm und genießen Sie den riesigen Sandstrand. Ideal für einen langen Spaziergang.",
+            "hu": "Béreljen napernyőt, és élvezze a hatalmas homokos strandot. Ideális egy hosszú sétához.",
+            "ro": "Închiriați o umbrelă și bucurați-vă de plaja vastă cu nisip. Ideală pentru o plimbare lungă.",
+            "en": "Rent a sunshade and enjoy the huge expanse of sand. Perfect for a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt auf dem belebten Mercado Municipal. Am Mittag erkunden Sie die reiche Geschichte der Stadt im Museu Santos Rocha und bewundern die elegante Architektur des Palácio Sotto Maior. Verbringen Sie den Nachmittag mit einem Spaziergang am Meer, besuchen Sie das historische Casino und das Forte de Santa Catarina. Beenden Sie Ihren Tag mit Entspannung pur am weitläufigen Sandstrand von Praia da Claridade, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a város szívében, a nyüzsgő Városi Piacon. Délben fedezze fel a város gazdag történelmét a Santos Rocha Múzeumban, és csodálja meg a Sotto Maior Palota elegáns építészetét. A délutánt töltse tengerparti sétával, látogasson el a történelmi kaszinóhoz és a Santa Catarina erődhez. Zárja a napot a Praia da Claridade hatalmas homokos strandján pihenve, miközben a nap lenyugszik.",
+        "ro": "Începeți ziua în inima orașului, la Piața Municipală plină de viață. La prânz, explorați istoria bogată a orașului la Muzeul Santos Rocha și admirați arhitectura elegantă a Palatului Sotto Maior. Petreceți după-amiaza plimbându-vă pe malul mării, vizitând Cazinoul istoric și Fortul Santa Catarina. Încheiați ziua relaxându-vă pe întinsa plajă de nisip Praia da Claridade, în timp ce soarele apune.",
+        "en": "Start your day in the heart of the city at the bustling Municipal Market. At midday, explore the city's rich history at the Santos Rocha Museum and admire the elegant architecture of the Sotto Maior Palace. Spend the afternoon with a seaside stroll, visiting the historic Casino and the Forte de Santa Catarina. End your day with pure relaxation on the vast sandy expanse of Praia da Claridade as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Ein Muss für Meeresfrüchte-Liebhaber, ein herzhafter Meeresfrüchte-Reis."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "Ein traditioneller Fischeintopf, perfekt nach einem Tag am Strand."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Finden Sie diese am Strand verkauften cremigen Krapfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Kötelező a tenger gyümölcsei kedvelőinek, egy kiadós tenger gyümölcsei rizs."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "Hagyományos halászlé, tökéletes egy tengerparti nap után."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Keresse ezeket a krémes fánkokat, amelyeket a strandon árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "O necesitate pentru iubitorii de fructe de mare, un orez cu fructe de mare consistent."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "O tocană tradițională de pește, perfectă după o zi la plajă."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Găsiți aceste gogoși umplute cu cremă vândute pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "A must-try for seafood lovers, a hearty seafood rice."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "A traditional fish stew, perfect after a day at the beach."
+          },
+          {
+            "name": "Bolas de Berlim",
+            "tip": "Find these cream-filled doughnuts sold on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardim do Palácio Sotto Maior",
+            "tip": "Der ruhige Garten neben dem Palast.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molhe Norte",
+            "tip": "Spazieren Sie entlang des Piers für eine ruhige Aussicht auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra da Boa Viagem",
+            "tip": "Auch wenn es weit ist, bieten die Ausläufer ruhige Wege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardim do Palácio Sotto Maior",
+            "tip": "A csendes kert a palota mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molhe Norte",
+            "tip": "Sétáljon végig a mólón a csendes tengeri kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra da Boa Viagem",
+            "tip": "Bár messze van, a lábánál csendes ösvények találhatók.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardim do Palácio Sotto Maior",
+            "tip": "Grădina liniștită de lângă palat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molhe Norte",
+            "tip": "Plimbați-vă de-a lungul digului pentru vederi liniștite la ocean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra da Boa Viagem",
+            "tip": "Chiar dacă este departe, poalele sale oferă poteci liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardim do Palácio Sotto Maior",
+            "tip": "The quiet garden adjacent to the palace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molhe Norte",
+            "tip": "Walk along the pier for quiet ocean views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Serra da Boa Viagem",
+            "tip": "Even if far, its foothills offer quiet trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokales Kunsthandwerk und gastronomische Produkte."
+          },
+          {
+            "name": "Rua da República",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und nationalen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Piac",
+            "tip": "Vásároljon helyi kézműves termékeket és gasztronómiai árukat."
+          },
+          {
+            "name": "Rua da República",
+            "tip": "A fő bevásárlóutca, helyi és nemzeti márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Municipală",
+            "tip": "Cumpărați artizanat local și produse gastronomice."
+          },
+          {
+            "name": "Rua da República",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și naționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Municipal Market",
+            "tip": "Shop for local crafts and gastronomic products."
+          },
+          {
+            "name": "Rua da República",
+            "tip": "The main shopping street with a mix of local and national brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, besonders für den Nachmittag am Strand.",
+          "Halten Sie Bargeld für kleinere Einkäufe auf dem Markt oder am Strand bereit.",
+          "Die Stadt ist flach und eignet sich hervorragend zum Spazierengehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Hozzon naptejet és kalapot, különösen a délutáni strandoláshoz.",
+          "Készítsen készpénzt a kisebb vásárlásokhoz a piacon vagy a strandon.",
+          "A város sík, így kiválóan alkalmas a sétára."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aduceți cremă de protecție solară și o pălărie, mai ales pentru după-amiaza la plajă.",
+          "Pregătiți numerar pentru cumpărături mici în piață sau pe plajă.",
+          "Orașul este plat și excelent pentru plimbări."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring sunscreen and a hat, especially for the afternoon at the beach.",
+          "Keep some cash handy for small purchases at the market or on the beach.",
+          "The city is flat and excellent for walking."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.8585,
+            40.1511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie die geschäftige Atmosphäre im Inneren.",
+            "hu": "Parkolja le a biciklit kint, és élvezze a benti nyüzsgést.",
+            "ro": "Parcați bicicleta afară și bucurați-vă de atmosfera plină de viață din interior.",
+            "en": "Park your bike outside and enjoy the bustling atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Santos Rocha",
+            "hu": "Santos Rocha Városi Múzeum",
+            "ro": "Muzeul Municipal Santos Rocha",
+            "en": "Santos Rocha Municipal Museum"
+          },
+          "coords": [
+            -8.8571,
+            40.1505
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter kultureller Zwischenstopp vor Ihrer Radtour entlang der Küste.",
+            "hu": "Tökéletes kulturális megálló a tengerparti biciklizés előtt.",
+            "ro": "O oprire culturală perfectă înainte de plimbarea cu bicicleta pe coastă.",
+            "en": "A perfect cultural stop before your coastal bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Santa Catarina erőd",
+            "ro": "Fortul Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -8.8678,
+            40.1495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab und genießen Sie die Aussicht.",
+            "hu": "Hagyja a biciklit a bejáratnál, és élvezze a kilátást.",
+            "ro": "Lăsați bicicleta la intrare și urcați pentru priveliște.",
+            "en": "Lock your bike at the entrance and walk up for the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Claridade (Promenade)",
+            "hu": "Claridade strand (sétány)",
+            "ro": "Plaja Claridade (Promenadă)",
+            "en": "Praia da Claridade (Promenade)"
+          },
+          "coords": [
+            -8.8715,
+            40.152
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die lange Promenade entlang, aber halten Sie für ein Mittagessen mit Meerblick an.",
+            "hu": "Tekerjen végig a hosszú sétányon, de álljon meg egy tengerre néző ebédre.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei lungi, dar opriți-vă pentru un prânz cu vedere la mare.",
+            "en": "Cycle along the long promenade, but stop for a lunch with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo Mondego",
+            "hu": "Mondego-fok",
+            "ro": "Capul Mondego",
+            "en": "Cabo Mondego"
+          },
+          "coords": [
+            -8.903,
+            40.1915
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt ist anspruchsvoll, aber die Aussicht vom Leuchtturm ist es wert.",
+            "hu": "Az út kihívást jelent, de a kilátás a világítótoronytól megéri.",
+            "ro": "Urcușul este provocator, dar priveliștea de la far merită efortul.",
+            "en": "The ride up is challenging, but the views from the lighthouse are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Figueira",
+            "hu": "Figueira Kaszinó",
+            "ro": "Cazinoul Figueira",
+            "en": "Casino Figueira"
+          },
+          "coords": [
+            -8.8634,
+            40.1476
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein eleganter Abschluss Ihrer Radtour, bevor Sie den Abend beginnen.",
+            "hu": "Elegáns befejezése a biciklitúrának az este kezdete előtt.",
+            "ro": "O oprire elegantă pentru a încheia turul cu bicicleta înainte de a începe seara.",
+            "en": "An elegant stop to end your bike tour before starting the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem Mercado Municipal, um lokale Energie zu tanken. Fahren Sie dann die Küste entlang, halten Sie an der Festung Santa Catarina für atemberaubende Ausblicke und genießen Sie ein langes Mittagessen am Strand von Claridade. Am Nachmittag unternehmen Sie eine anspruchsvolle, aber lohnende Fahrt zum Leuchtturm von Cabo Mondego. Beenden Sie den Tag, indem Sie zurück ins Zentrum radeln und die glamouröse Atmosphäre des Casino Figueira genießen.",
+        "hu": "Kezdje a biciklitúrát a Városi Piacon, hogy feltöltődjön helyi energiával. Ezután tekerjen a part mentén, álljon meg a Santa Catarina erődnél a lélegzetelállító kilátásért, és ebédeljen egy jót a Claridade strandon. Délután tegyen egy kihívást jelentő, de hálás utat a Cabo Mondego világítótoronyhoz. A nap végén tekerjen vissza a központba, és élvezze a Figueira Kaszinó csillogó hangulatát.",
+        "ro": "Începeți turul cu bicicleta la Piața Municipală pentru o doză de energie locală. Apoi, pedalați de-a lungul coastei, oprindu-vă la Fortul Santa Catarina pentru priveliști uimitoare și bucurându-vă de un prânz lung la Plaja Claridade. După-amiaza, faceți o plimbare provocatoare, dar plină de satisfacții, până la farul din Cabo Mondego. Încheiați ziua pedalând înapoi în centru pentru a admira atmosfera plină de farmec a Cazinoului Figueira.",
+        "en": "Kick off your bike tour at the Municipal Market for a dose of local energy. Then, cycle along the coast, stopping at Forte de Santa Catarina for stunning views and enjoying a long lunch at Claridade Beach. In the afternoon, take a challenging but rewarding ride up to the Cabo Mondego lighthouse. End the day by cycling back to the center to soak in the glamorous atmosphere of the Casino Figueira."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Gegrillte Sardinen, ein Klassiker in portugiesischen Küstenstädten."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Muscheln in Knoblauch-Koriander-Sauce, perfekt mit Brot."
+          },
+          {
+            "name": "Frischer Orangensaft",
+            "tip": "Holen Sie sich diesen von einem der vielen Kioske entlang der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grillezett szardínia, klasszikus a portugál tengerparti városokban."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Kagyló fokhagymás-korianderes szószban, tökéletes kenyérrel."
+          },
+          {
+            "name": "Friss narancslé",
+            "tip": "Szerezzen be egyet a sétány menti számos kioszk egyikéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Sardine la grătar, un clasic în orașele de coastă portugheze."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Scoici în sos de usturoi și coriandru, perfecte cu pâine."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Luați unul de la numeroasele chioșcuri de-a lungul promenadei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardinhas Assadas",
+            "tip": "Grilled sardines, a classic in Portuguese coastal towns."
+          },
+          {
+            "name": "Amêijoas à Bulhão Pato",
+            "tip": "Clams in garlic and coriander sauce, perfect with bread."
+          },
+          {
+            "name": "Fresh Orange Juice",
+            "tip": "Grab one from the many kiosks along the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Cabo Mondego",
+            "tip": "Die ruhigste Aussicht nach der anstrengenden Fahrt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Südliches Ende der Praia da Claridade",
+            "tip": "Weniger überlaufen als der zentrale Bereich.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Serra da Boa Viagem Waldwege",
+            "tip": "Wenn Sie Zeit haben, bieten diese Wege eine kühle Zuflucht.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Cabo Mondegóról",
+            "tip": "A legcsendesebb kilátás a fárasztó út után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Praia da Claridade déli vége",
+            "tip": "Kevésbé zsúfolt, mint a központi rész.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Serra da Boa Viagem erdei ösvények",
+            "tip": "Ha van ideje, ezek az ösvények hűs menedéket nyújtanak.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Cabo Mondego",
+            "tip": "Cea mai liniștită priveliște după urcușul obositor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capătul sudic al Plajei Claridade",
+            "tip": "Mai puțin aglomerat decât zona centrală.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecile forestiere din Serra da Boa Viagem",
+            "tip": "Dacă aveți timp, aceste poteci oferă un refugiu răcoros.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Cabo Mondego",
+            "tip": "The most peaceful view after the hard ride up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "South end of Praia da Claridade",
+            "tip": "Less crowded than the central area.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Serra da Boa Viagem forest trails",
+            "tip": "If you have time, these trails offer a cool escape.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Suchen Sie nach handbemalter Keramik als Souvenir."
+          },
+          {
+            "name": "Konserven",
+            "tip": "Kaufen Sie kunstvoll verpackte Fischkonserven, ein portugiesisches Wahrzeichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel festett kerámiákat szuvenírként."
+          },
+          {
+            "name": "Konzerváruk",
+            "tip": "Vásároljon művészien csomagolt halkonzervet, egy portugál jellegzetességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual ca suvenir."
+          },
+          {
+            "name": "Conserve de pește",
+            "tip": "Cumpărați conserve de pește ambalate artistic, un simbol portughez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for hand-painted ceramics as a souvenir."
+          },
+          {
+            "name": "Canned Fish",
+            "tip": "Buy artfully packaged canned fish, a Portuguese icon."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen für den Aufstieg zum Cabo Mondego.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch bei kurzen Stopps.",
+          "Die Promenade ist breit und sicher zum Radfahren.",
+          "Tragen Sie viel Wasser bei sich, besonders für die längere Fahrt am Nachmittag."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt a Cabo Mondegóra való feljutáshoz.",
+          "Mindig zárja le a kerékpárt, még rövid megállók esetén is.",
+          "A sétány széles és biztonságos a kerékpározáshoz.",
+          "Vigyen magával sok vizet, különösen a délutáni hosszabb útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze pentru urcarea la Cabo Mondego.",
+          "Încuietăți întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Promenada este largă și sigură pentru ciclism.",
+          "Luați multă apă, mai ales pentru plimbarea mai lungă de după-amiază."
+        ],
+        "en": [
+          "Rent a bike with gears for the climb to Cabo Mondego.",
+          "Always lock your bike, even for short stops.",
+          "The promenade is wide and safe for cycling.",
+          "Carry plenty of water, especially for the longer afternoon ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Serra da Boa Viagem (Miradouro da Bandeira)",
+            "hu": "Serra da Boa Viagem (Bandeira kilátó)",
+            "ro": "Serra da Boa Viagem (Punct de belvedere Bandeira)",
+            "en": "Serra da Boa Viagem (Bandeira Viewpoint)"
+          },
+          "coords": [
+            -8.895,
+            40.176
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Start in den Tag mit einem atemberaubenden Blick über die gesamte Region.",
+            "hu": "Tökéletes kezdés a napnak, lenyűgöző kilátással az egész régióra.",
+            "ro": "Începutul perfect al zilei cu o priveliște uluitoare asupra întregii regiuni.",
+            "en": "The perfect start to the day with a stunning view over the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo Mondego Leuchtturm",
+            "hu": "Cabo Mondego világítótorony",
+            "ro": "Farul Cabo Mondego",
+            "en": "Cabo Mondego Lighthouse"
+          },
+          "coords": [
+            -8.903,
+            40.1915
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz des Aussichtspunkts entfernt. Tolle Fotomotive.",
+            "hu": "Rövid séta a kilátó parkolójától. Nagyszerű fotózási lehetőségek.",
+            "ro": "O scurtă plimbare de la parcarea punctului de belvedere. Oportunități foto excelente.",
+            "en": "A short walk from the viewpoint parking area. Great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Nähe Mercado)",
+            "hu": "Parkoló a központban (Piac közelében)",
+            "ro": "Parcare în centru (lângă Piață)",
+            "en": "Downtown Parking (Near Market)"
+          },
+          "coords": [
+            -8.859,
+            40.152
+          ],
+          "category": "transport",
+          "arrive_at": "11:20",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist ein zentraler Punkt, um die Innenstadt zu erkunden.",
+            "hu": "Parkoljon itt a délelőttre. Központi pont a belváros felfedezéséhez.",
+            "ro": "Parcați aici pentru restul dimineții. Este un punct central pentru a explora centrul.",
+            "en": "Park here for the morning. It's a central point to explore downtown."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.8585,
+            40.1511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Fest für die Sinne. Suchen Sie nach einem schnellen Imbiss für später.",
+            "hu": "Az érzékek ünnepe. Keressen egy gyors harapnivalót későbbre.",
+            "ro": "O sărbătoare pentru simțuri. Căutați o gustare rapidă pentru mai târziu.",
+            "en": "A feast for the senses. Look for a quick snack for later."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Santos Rocha",
+            "hu": "Santos Rocha Városi Múzeum",
+            "ro": "Muzeul Municipal Santos Rocha",
+            "en": "Santos Rocha Municipal Museum"
+          },
+          "coords": [
+            -8.8571,
+            40.1505
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältigen Sammlungen, von Archäologie bis Kunst.",
+            "hu": "Fedezze fel a változatos gyűjteményeket, a régészettől a művészetig.",
+            "ro": "Explorați colecțiile diverse, de la arheologie la artă.",
+            "en": "Explore the diverse collections, from archaeology to art."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Strand (Nähe Forte)",
+            "hu": "Parkoló a strandnál (Erőd közelében)",
+            "ro": "Parcare pe plajă (lângă Fort)",
+            "en": "Beach Parking (Near Fort)"
+          },
+          "coords": [
+            -8.8685,
+            40.1485
+          ],
+          "category": "transport",
+          "arrive_at": "14:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wechseln Sie zum Strandparkplatz. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Váltson a strandparkolóra. Innen minden sétatávolságra van.",
+            "ro": "Mutați-vă în parcarea de pe plajă. Totul este la câțiva pași de aici.",
+            "en": "Move to the beach parking lot. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina & Praia da Claridade",
+            "hu": "Santa Catarina erőd & Claridade strand",
+            "ro": "Fortul Santa Catarina & Plaja Claridade",
+            "en": "Forte de Santa Catarina & Praia da Claridade"
+          },
+          "coords": [
+            -8.8678,
+            40.1495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 210,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Festung für die Aussicht und entspannen Sie sich dann am riesigen Strand.",
+            "hu": "Másszon fel az erődbe a kilátásért, majd pihenjen a hatalmas strandon.",
+            "ro": "Urcați în fort pentru priveliște, apoi relaxați-vă pe plaja imensă.",
+            "en": "Climb the fort for the view, then relax on the immense beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf der Serra da Boa Viagem für einen Panoramablick. Vormittags fahren Sie ins Zentrum, parken und erkunden zu Fuß den lebhaften Markt und das Museum. Am Nachmittag fahren Sie zum Strand, parken erneut und verbringen den Rest des Tages damit, die Festung zu erkunden und am unberührten Sand der Praia da Claridade zu entspannen, bis die Sonne untergeht.",
+        "hu": "Kezdje a napot egy autós kirándulással a Serra da Boa Viagem-re a panorámás kilátásért. Délelőtt vezessen be a központba, parkoljon le, és fedezze fel gyalog a nyüzsgő piacot és a múzeumot. Délután autózzon a tengerpartra, parkoljon le újra, és töltse a nap hátralévő részét az erőd felfedezésével és a Praia da Claridade érintetlen homokján pihenve, amíg a nap le nem nyugszik.",
+        "ro": "Începeți ziua conducând până la Serra da Boa Viagem pentru vederi panoramice. Dimineața, mergeți în centru, parcați și explorați pe jos piața plină de viață și muzeul. După-amiaza, conduceți spre plajă, parcați din nou și petreceți restul zilei explorând fortul și relaxându-vă pe nisipul curat al Plajei Claridade până la apus.",
+        "en": "Start your day by driving up the Serra da Boa Viagem for panoramic views. In the morning, drive to the center, park, and explore the bustling market and museum on foot. For the afternoon, drive to the beach, park again, and spend the rest of your day exploring the fort and relaxing on the pristine sands of Praia da Claridade until sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante na Serra",
+            "tip": "Suchen Sie ein Restaurant in den Hügeln für ein traditionelles Mittagessen mit Aussicht."
+          },
+          {
+            "name": "Marisqueira",
+            "tip": "Ein Meeresfrüchte-Restaurant in der Nähe des Strandes für das frischeste Abendessen."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Auch hier ein Muss, suchen Sie nach einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Serrában",
+            "tip": "Keressen egy éttermet a dombokon egy hagyományos, kilátással egybekötött ebédhez."
+          },
+          {
+            "name": "Marisqueira",
+            "tip": "Egy tenger gyümölcseit kínáló étterem a strand közelében a legfrissebb vacsoráért."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Itt is kötelező, keressen egy helyi pékséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Serra",
+            "tip": "Căutați un restaurant pe dealuri pentru un prânz tradițional cu priveliște."
+          },
+          {
+            "name": "Marisqueira",
+            "tip": "Un restaurant cu fructe de mare lângă plajă pentru cea mai proaspătă cină."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "O necesitate chiar și aici, căutați o patiserie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in the Serra",
+            "tip": "Find a restaurant in the hills for a traditional lunch with a view."
+          },
+          {
+            "name": "Marisqueira",
+            "tip": "A seafood restaurant near the beach for the freshest dinner."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try even here, look for a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege in der Serra da Boa Viagem",
+            "tip": "Entfliehen Sie der Mittagshitze auf den schattigen Wegen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sonnenuntergang am Cabo Mondego",
+            "tip": "Fahren Sie zurück für einen unvergesslichen Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Mondego-Flusses",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, abseits des Meeres.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei ösvények a Serra da Boa Viagem-ben",
+            "tip": "Meneküljön a déli hőség elől az árnyas ösvényeken.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Naplemente a Cabo Mondegónál",
+            "tip": "Vezessen vissza egy felejthetetlen naplementéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mondego folyó partja",
+            "tip": "Keressen egy csendes helyet a folyóparton, távol az óceántól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci forestiere în Serra da Boa Viagem",
+            "tip": "Scăpați de căldura de la prânz pe potecile umbrite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Apus de soare la Cabo Mondego",
+            "tip": "Conduceți înapoi pentru un apus de soare de neuitat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Mondego",
+            "tip": "Găsiți un loc liniștit pe malul râului, departe de ocean.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest trails in Serra da Boa Viagem",
+            "tip": "Escape the midday heat on the shaded trails.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Sunset at Cabo Mondego",
+            "tip": "Drive back up for an unforgettable sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Mondego River",
+            "tip": "Find a quiet spot on the riverbank, away from the ocean.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salz aus Figueira",
+            "tip": "Die nahegelegenen Salinen produzieren ausgezeichnetes Meersalz."
+          },
+          {
+            "name": "Wein aus der Bairrada",
+            "tip": "Die Region liegt in der Nähe des Weinbaugebiets Bairrada."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Figueirai só",
+            "tip": "A közeli sólepárlók kiváló tengeri sót termelnek."
+          },
+          {
+            "name": "Bairrada bor",
+            "tip": "A régió közel van a Bairrada borvidékhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare de Figueira",
+            "tip": "Salinele din apropiere produc sare de mare excelentă."
+          },
+          {
+            "name": "Vin de Bairrada",
+            "tip": "Regiunea este aproape de zona viticolă Bairrada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt from Figueira",
+            "tip": "The nearby salt pans produce excellent sea salt."
+          },
+          {
+            "name": "Bairrada Wine",
+            "tip": "The region is close to the Bairrada wine area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren; einige Zonen sind kostenpflichtig.",
+          "Ein Auto ermöglicht es Ihnen, die atemberaubende Serra da Boa Viagem leicht zu erkunden.",
+          "Der Verkehr kann im Sommer in der Nähe des Strandes stark sein.",
+          "Planen Sie Ihre Parkstrategie im Voraus, um Zeit zu sparen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat; egyes zónák fizetősek.",
+          "Az autó lehetővé teszi, hogy könnyedén felfedezze a lenyűgöző Serra da Boa Viagem-et.",
+          "A forgalom nyáron nagy lehet a strand közelében.",
+          "Tervezze meg előre a parkolási stratégiát, hogy időt takarítson meg."
+        ],
+        "ro": [
+          "Verificați taxele de parcare; unele zone sunt cu plată.",
+          "O mașină vă permite să explorați cu ușurință uimitoarea Serra da Boa Viagem.",
+          "Traficul poate fi intens în apropierea plajei în timpul verii.",
+          "Planificați-vă strategia de parcare în avans pentru a economisi timp."
+        ],
+        "en": [
+          "Check for parking fees; some zones are paid.",
+          "A car allows you to easily explore the stunning Serra da Boa Viagem.",
+          "Traffic can be heavy near the beach during summer.",
+          "Plan your parking strategy in advance to save time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof (Ankunft)",
+            "hu": "Buszpályaudvar (Érkezés)",
+            "ro": "Autogară (Sosire)",
+            "en": "Bus Terminal (Arrival)"
+          },
+          "coords": [
+            -8.855,
+            40.153
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado Municipal",
+            "hu": "Városi Piac",
+            "ro": "Piața Municipală",
+            "en": "Municipal Market"
+          },
+          "coords": [
+            -8.8585,
+            40.1511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
+            "hu": "Csak egy rövid séta a buszpályaudvartól.",
+            "ro": "La o scurtă plimbare de autogară.",
+            "en": "Just a short walk from the bus terminal."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal Santos Rocha",
+            "hu": "Santos Rocha Városi Múzeum",
+            "ro": "Muzeul Municipal Santos Rocha",
+            "en": "Santos Rocha Municipal Museum"
+          },
+          "coords": [
+            -8.8571,
+            40.1505
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie vor dem Mittagessen in die lokale Kultur ein.",
+            "hu": "Merüljön el a helyi kultúrában ebéd előtt.",
+            "ro": "Scufundați-vă în cultura locală înainte de prânz.",
+            "en": "Immerse yourself in local culture before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Figueira (Bushaltestelle)",
+            "hu": "Figueira Kaszinó (buszmegálló)",
+            "ro": "Cazinoul Figueira (Stație de autobuz)",
+            "en": "Casino Figueira (Bus Stop)"
+          },
+          "coords": [
+            -8.864,
+            40.148
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Strand. Viele Linien halten hier.",
+            "hu": "Menjen busszal a strand felé. Sok járat megáll itt.",
+            "ro": "Luați un autobuz spre plajă. Multe linii opresc aici.",
+            "en": "Take a bus towards the beach. Many lines stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Santa Catarina erőd",
+            "ro": "Fortul Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -8.8678,
+            40.1495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Bushaltestelle aus bergauf, um die beste Aussicht zu genießen.",
+            "hu": "Sétáljon felfelé a buszmegállótól a legjobb kilátásért.",
+            "ro": "Urcați de la stația de autobuz pentru cele mai bune priveliști.",
+            "en": "Walk uphill from the bus stop for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Claridade (Mittagessen & Entspannung)",
+            "hu": "Claridade strand (Ebéd és pihenés)",
+            "ro": "Plaja Claridade (Prânz și relaxare)",
+            "en": "Praia da Claridade (Lunch & Relaxation)"
+          },
+          "coords": [
+            -8.8715,
+            40.152
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 255,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier den Rest des Nachmittags. Es gibt viele Cafés für das Mittagessen.",
+            "hu": "Töltse itt a délután hátralévő részét. Sok kávézó van ebédre.",
+            "ro": "Petreceți restul după-amiezii aici. Există o mulțime de cafenele pentru prânz.",
+            "en": "Spend the rest of the afternoon here. There are plenty of cafes for lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie mit dem Bus ins Stadtzentrum fahren. Erkunden Sie zu Fuß den Markt und das Museum. Am Mittag nehmen Sie einen weiteren Bus zum Strandbereich. Verbringen Sie den Nachmittag damit, die Festung zu besichtigen und die Sonne am Praia da Claridade zu genießen, bevor Sie einen Bus zurück nehmen.",
+        "hu": "Kezdje a napot egy buszozással a városközpontba. Fedezze fel gyalog a piacot és a múzeumot. Délben szálljon fel egy másik buszra a tengerparti területre. Töltse a délutánt az erőd megtekintésével és napozással a Praia da Claridade-n, mielőtt visszabuszozna.",
+        "ro": "Începeți ziua luând un autobuz spre centrul orașului. Explorați pe jos piața și muzeul. La prânz, luați un alt autobuz spre zona de plajă. Petreceți după-amiaza vizitând fortul și bucurându-vă de soare pe Plaja Claridade înainte de a lua un autobuz înapoi.",
+        "en": "Start your day by taking a bus to the city center. Explore the market and museum on foot. At midday, catch another bus to the beach area. Spend the afternoon visiting the fort and soaking up the sun at Praia da Claridade before taking a bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Ein schnelles und leckeres Schweinesandwich, ideal für unterwegs."
+          },
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "Ein Meeresfrüchte-Eintopf, der in einem speziellen Kupfertopf gekocht wird."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Ein leichter und erfrischender Wein, der perfekt zu Meeresfrüchten passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Gyors és finom sertésszendvics, ideális útközben."
+          },
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "Tenger gyümölcsei egytálétel, amelyet speciális rézedényben főznek."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Könnyű és frissítő bor, amely tökéletesen illik a tenger gyümölcseihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Un sandviș rapid și delicios cu carne de porc, ideal pentru o masă pe fugă."
+          },
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "O tocană de fructe de mare gătită într-un vas special de cupru."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "Un vin ușor și răcoritor, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "A quick and delicious pork sandwich, great for a meal on the go."
+          },
+          {
+            "name": "Cataplana de Marisco",
+            "tip": "A seafood stew cooked in a special copper pot."
+          },
+          {
+            "name": "Vinho Verde",
+            "tip": "A light and refreshing wine that pairs perfectly with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Spaziergang entlang des Flusses",
+            "tip": "Entfliehen Sie den Menschenmassen am Strand, indem Sie am Mondego entlang spazieren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Spitze des Forte",
+            "tip": "Ein windiger, aber ruhiger Ort, um die Aussicht zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Café in einer Seitenstraße",
+            "tip": "Finden Sie ein kleines Café abseits der Hauptstraßen.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a folyó mentén",
+            "tip": "Meneküljön a strand tömege elől a Mondego menti sétával.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az erőd teteje",
+            "tip": "Szeles, de csendes hely a kilátás élvezetéhez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy kávézó egy mellékutcában",
+            "tip": "Keressen egy kis kávézót a főutcáktól távol.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare pe malul râului",
+            "tip": "Evadați din mulțimea de pe plajă plimbându-vă de-a lungul râului Mondego.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Fortului",
+            "tip": "Un loc cu vânt, dar liniștit, pentru a admira priveliștea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O cafenea pe o stradă lăturalnică",
+            "tip": "Găsiți o cafenea mică, departe de străzile principale.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "A walk along the river",
+            "tip": "Escape the beach crowds by walking along the Mondego.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The top of the Fort",
+            "tip": "A windy but quiet spot to take in the views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A side-street cafe",
+            "tip": "Find a small cafe away from the main thoroughfares.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Bekannt für seine traditionellen Geschäfte und Bäckereien."
+          },
+          {
+            "name": "CAE (Centro de Artes e Espectáculos)",
+            "tip": "Prüfen Sie den Geschenkeladen auf einzigartige, von Künstlern gefertigte Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Hagyományos üzleteiről és pékségeiről ismert."
+          },
+          {
+            "name": "CAE (Művészeti és Előadói Központ)",
+            "tip": "Nézze meg az ajándékboltot egyedi, művészek által készített tárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Cunoscută pentru magazinele și patiseriile sale tradiționale."
+          },
+          {
+            "name": "CAE (Centrul de Arte și Spectacole)",
+            "tip": "Verificați magazinul de cadouri pentru articole unice, realizate de artiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rua 5 de Outubro",
+            "tip": "Known for its traditional shops and bakeries."
+          },
+          {
+            "name": "CAE (Arts and Shows Center)",
+            "tip": "Check its gift shop for unique, artist-made items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Validieren Sie Ihr Ticket bei jedem Einsteigen in einen Bus.",
+          "Die Busfahrpläne sind an den Haltestellen ausgehängt, aber eine App kann hilfreich sein.",
+          "Die Busse können im Sommer überfüllt sein, seien Sie also geduldig.",
+          "Behalten Sie den Fahrplan für den letzten Bus zurück im Auge, wenn Sie den Abend am Strand verbringen."
+        ],
+        "hu": [
+          "Érvényesítse a jegyét minden buszra szálláskor.",
+          "A buszmenetrendek ki vannak függesztve a megállókban, de egy alkalmazás hasznos lehet.",
+          "A buszok nyáron zsúfoltak lehetnek, legyen türelmes.",
+          "Figyelje az utolsó busz menetrendjét, ha az estét a strandon tölti."
+        ],
+        "ro": [
+          "Validați biletul de fiecare dată când urcați în autobuz.",
+          "Orarele autobuzelor sunt afișate la stații, dar o aplicație poate fi utilă.",
+          "Autobuzele pot fi aglomerate în timpul verii, așa că aveți răbdare.",
+          "Fiți atenți la programul ultimului autobuz înapoi dacă stați seara târziu la plajă."
+        ],
+        "en": [
+          "Validate your ticket every time you board a bus.",
+          "Bus schedules are posted at stops, but an app can be helpful.",
+          "Buses can be crowded in the summer, so be patient.",
+          "Keep an eye on the schedule for the last bus back if you're spending the evening at the beach."
+        ]
+      }
+    }
+  }
+}

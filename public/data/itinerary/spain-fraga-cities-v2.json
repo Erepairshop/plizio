@@ -1,0 +1,1300 @@
+{
+  "city_id": "spain-fraga-cities-v2",
+  "anchor": {
+    "name": "Fraga",
+    "coords": [
+      41.5167,
+      0.3444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Viertel",
+            "hu": "Történelmi negyed",
+            "ro": "Cartierul istoric",
+            "en": "Historic Quarter"
+          },
+          "coords": [
+            0.3448,
+            41.517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und entdecken Sie die alten Wappen an den Fassaden.",
+            "hu": "Tévedjen el a szűk utcácskákban, és fedezze fel a homlokzatokon látható régi címereket.",
+            "ro": "Pierdeți-vă pe străduțele înguste pentru a descoperi vechile steme de pe fațade.",
+            "en": "Get lost in the narrow streets and discover the ancient coats of arms on the facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            0.3455,
+            41.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus romanischen, gotischen und barocken Stilelementen, die von seiner langen Geschichte zeugen.",
+            "hu": "Figyelje meg a román, gótikus és barokk stílusjegyek keveredését, amely a hosszú történelméről tanúskodik.",
+            "ro": "Observați amestecul de stiluri romanic, gotic și baroc, o mărturie a istoriei sale lungi.",
+            "en": "Note the mix of Romanesque, Gothic, and Baroque styles, a testament to its long history."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Montcada",
+            "hu": "Montcada-palota",
+            "ro": "Palatul Montcada",
+            "en": "Montcada Palace"
+          },
+          "coords": [
+            0.3462,
+            41.5181
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Heute eine Bibliothek und ein Kulturzentrum, einst die Heimat einer der mächtigsten Familien.",
+            "hu": "Ma könyvtár és kulturális központ, egykor a leghatalmasabb családok egyikének otthona volt.",
+            "ro": "Astăzi o bibliotecă și un centru cultural, a fost odată casa uneia dintre cele mai puternice familii.",
+            "en": "Now a library and cultural center, it was once the home of one of the most powerful families."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Cinca",
+            "hu": "Híd a Cinca folyón",
+            "ro": "Podul peste râul Cinca",
+            "en": "Bridge over the Cinca River"
+          },
+          "coords": [
+            0.3488,
+            41.515
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause mit Blick auf den Fluss und die Stadt.",
+            "hu": "Ideális hely egy ebédszünethez, kilátással a folyóra és a városra.",
+            "ro": "Un loc ideal pentru o pauză de prânz cu vedere la râu și la oraș.",
+            "en": "An ideal spot for a lunch break with views of the river and the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Fraga",
+            "hu": "Fraga vára",
+            "ro": "Castelul din Fraga",
+            "en": "Castle of Fraga"
+          },
+          "coords": [
+            0.342,
+            41.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Obwohl nur noch Ruinen übrig sind, ist der Panoramablick von hier oben die Wanderung wert.",
+            "hu": "Bár már csak romok maradtak, a panorámás kilátás megéri a sétát.",
+            "ro": "Deși au mai rămas doar ruine, priveliștea panoramică de sus merită urcușul.",
+            "en": "Although only ruins remain, the panoramic view from the top is worth the hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Casa de los Frailes",
+            "hu": "Casa de los Frailes Múzeum",
+            "ro": "Muzeul Casa de los Frailes",
+            "en": "Museum of the Casa de los Frailes"
+          },
+          "coords": [
+            0.344,
+            41.5175
+          ],
+          "category": "museums",
+          "arrive_at": "16:07",
+          "stay_min": 58,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines Museum, das einen Einblick in das lokale Leben und die Traditionen bietet.",
+            "hu": "Egy kis múzeum, amely bepillantást enged a helyi életbe és hagyományokba.",
+            "ro": "Un mic muzeu care oferă o perspectivă asupra vieții și tradițiilor locale.",
+            "en": "A small museum offering a glimpse into local life and traditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Fragas historischem Viertel und spüren Sie den Puls der aragonesischen Geschichte. Nach dem Besuch der beeindruckenden San Pedro Kirche und des Montcada Palastes überqueren Sie den Fluss Cinca für eine entspannte Mittagspause. Der Nachmittag ist für den Aufstieg zur Burg reserviert, von wo aus Sie eine herrliche Aussicht genießen, bevor Sie im Casa de los Frailes Museum in die lokalen Traditionen eintauchen. Ein Tag voller Entdeckungen zu Fuß.",
+        "hu": "Kezdje a napot Fraga történelmi negyedének szívében, és érezze Aragónia történelmének lüktetését. A lenyűgöző San Pedro-templom és a Montcada-palota megtekintése után keljen át a Cinca folyón egy pihentető ebédszünetre. A délután a várhoz való feljutásé, ahonnan csodálatos kilátás nyílik, mielőtt elmerülne a helyi hagyományokban a Casa de los Frailes Múzeumban. Egy gyalogos felfedezésekkel teli nap.",
+        "ro": "Începeți ziua în inima cartierului istoric din Fraga, simțind pulsul istoriei aragoneze. După vizitarea impunătoarei Biserici San Pedro și a Palatului Montcada, traversați râul Cinca pentru o pauză de prânz relaxantă. După-amiaza este rezervată urcării la castel pentru vederi magnifice, înainte de a vă cufunda în tradițiile locale la Muzeul Casa de los Frailes. O zi plină de descoperiri la pas.",
+        "en": "Start your day in the heart of Fraga's historic quarter, feeling the pulse of Aragonese history. After visiting the impressive San Pedro Church and Montcada Palace, cross the Cinca River for a relaxing lunch break. The afternoon is reserved for the climb to the castle for magnificent views, before delving into local traditions at the Casa de los Frailes Museum. A day full of discoveries on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Martín",
+            "tip": "Probieren Sie das 'Pollo al Chilindrón', ein klassisches aragonesisches Hühnchengericht."
+          },
+          {
+            "name": "Tapas Bar El Coso",
+            "tip": "Eine große Auswahl an lokalen Tapas, perfekt für einen schnellen Happen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Martín",
+            "tip": "Kóstolja meg a 'Pollo al Chilindrón'-t, egy klasszikus aragóniai csirkeételt."
+          },
+          {
+            "name": "Tapas Bar El Coso",
+            "tip": "Helyi tapasok széles választéka, tökéletes egy gyors falathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Martín",
+            "tip": "Încercați 'Pollo al Chilindrón', un preparat clasic aragonez din pui."
+          },
+          {
+            "name": "Tapas Bar El Coso",
+            "tip": "O selecție excelentă de tapas locale, perfecte pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Martín",
+            "tip": "Try the 'Pollo al Chilindrón', a classic Aragonese chicken dish."
+          },
+          {
+            "name": "Tapas Bar El Coso",
+            "tip": "A great selection of local tapas, perfect for a quick bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Cinca",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Genießen Sie die Stille und den weiten Blick über die Landschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cinca folyó partja",
+            "tip": "Egy csendes séta a folyó mentén késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Élvezze a csendet és a tájra nyíló széles kilátást.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Cinca",
+            "tip": "O plimbare liniștită de-a lungul râului la sfârșitul după-amiezii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vedere de la castel",
+            "tip": "Bucurați-vă de liniște și de priveliștea vastă asupra peisajului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Cinca River",
+            "tip": "A quiet walk along the river in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "Enjoy the silence and the wide view over the landscape.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frisches Obst, insbesondere die berühmten Feigen und Pfirsiche von Fraga."
+          },
+          {
+            "name": "Süßwarenladen",
+            "tip": "Probieren Sie 'Frutas de Aragón', kandierte Früchte in Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss gyümölcsöt, különösen Fraga híres fügéjét és őszibarackját."
+          },
+          {
+            "name": "Cukrászda",
+            "tip": "Kóstolja meg a 'Frutas de Aragón'-t, a csokoládéba mártott kandírozott gyümölcsöket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați fructe proaspete, în special smochinele și piersicile faimoase din Fraga."
+          },
+          {
+            "name": "Cofetărie",
+            "tip": "Încercați 'Frutas de Aragón', fructe confiate învelite în ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh fruit, especially Fraga's famous figs and peaches."
+          },
+          {
+            "name": "Confectionery Shop",
+            "tip": "Try 'Frutas de Aragón', candied fruits dipped in chocolate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen im historischen Viertel steil und gepflastert sein können.",
+          "Nehmen Sie Wasser mit, besonders für den Aufstieg zur Burg.",
+          "Die meisten Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihren Einkauf entsprechend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi negyed utcái meredekek és macskakövesek lehetnek.",
+          "Vigyen magával vizet, különösen a várhoz való feljutáshoz.",
+          "A legtöbb üzlet délután sziesztát tart, tervezze a vásárlást ennek megfelelően."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile din cartierul istoric pot fi abrupte și pavate.",
+          "Luați apă cu dumneavoastră, mai ales pentru urcarea la castel.",
+          "Majoritatea magazinelor au siestă după-amiaza, planificați-vă cumpărăturile în consecință."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the streets in the historic quarter can be steep and cobbled.",
+          "Bring water, especially for the climb to the castle.",
+          "Most shops close for a siesta in the afternoon, so plan your shopping accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Viertel",
+            "hu": "Történelmi negyed",
+            "ro": "Cartierul istoric",
+            "en": "Historic Quarter"
+          },
+          "coords": [
+            0.3448,
+            41.517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engsten Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a legszűkebb utcákat gyalog.",
+            "ro": "Încuiați bicicleta și explorați cele mai înguste alei pe jos.",
+            "en": "Lock up your bike and explore the narrowest alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica San Pedro",
+            "en": "Church of San Pedro"
+          },
+          "coords": [
+            0.3455,
+            41.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die architektonische Vielfalt dieses historischen Gebäudes zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ennek a történelmi épületnek az építészeti sokszínűségét.",
+            "ro": "O scurtă oprire pentru a admira diversitatea arhitecturală a acestei clădiri istorice.",
+            "en": "A quick stop to admire the architectural diversity of this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Cinca",
+            "hu": "Híd a Cinca folyón",
+            "ro": "Podul peste râul Cinca",
+            "en": "Bridge over the Cinca River"
+          },
+          "coords": [
+            0.3488,
+            41.515
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt über den Fluss und den Blick auf die Stadt.",
+            "hu": "Élvezze az utat a folyón át és a városra nyíló kilátást.",
+            "ro": "Bucurați-vă de plimbarea peste râu și de priveliștea orașului.",
+            "en": "Enjoy the ride across the river and the view of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Fortunatus",
+            "hu": "Villa Fortunatus",
+            "ro": "Villa Fortunatus",
+            "en": "Villa Fortunatus"
+          },
+          "coords": [
+            0.321,
+            41.5
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine römische Villa mit beeindruckenden Mosaiken. Planen Sie genügend Zeit für die Erkundung ein.",
+            "hu": "Egy római kori villa lenyűgöző mozaikokkal. Tervezzen elég időt a felfedezésére.",
+            "ro": "O vilă romană cu mozaicuri impresionante. Planificați suficient timp pentru explorare.",
+            "en": "A Roman villa with impressive mosaics. Plan enough time for exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Salvador",
+            "hu": "San Salvador remetelak",
+            "ro": "Schitul San Salvador",
+            "en": "Hermitage of San Salvador"
+          },
+          "coords": [
+            0.355,
+            41.53
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht von der Einsiedelei ist die Mühe absolut wert.",
+            "hu": "Az emelkedő kihívást jelent, de a remetelakból nyíló kilátás abszolút megéri a fáradságot.",
+            "ro": "Urcușul este dificil, dar priveliștea de la schit merită absolut efortul.",
+            "en": "The climb is challenging, but the view from the hermitage is absolutely worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Montcada",
+            "hu": "Montcada-palota",
+            "ro": "Palatul Montcada",
+            "en": "Montcada Palace"
+          },
+          "coords": [
+            0.3462,
+            41.5181
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:30",
+          "stay_min": 59,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem kulturellen Höhepunkt in diesem historischen Palast.",
+            "hu": "Fejezze be a túrát egy kulturális fényponttal ebben a történelmi palotában.",
+            "ro": "Încheiați turul cu un punct culminant cultural la acest palat istoric.",
+            "en": "End your tour with a cultural highlight at this historic palace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie durch das historische Herz von Fraga und darüber hinaus. Nach einer Erkundung der Altstadt überqueren Sie den Cinca und radeln zur römischen Villa Fortunatus. Der anspruchsvollste Teil ist der Anstieg zur Ermita de San Salvador, der mit einer atemberaubenden Aussicht belohnt wird. Schließlich kehren Sie ins Zentrum zurück, um den Tag im prächtigen Montcada-Palast ausklingen zu lassen.",
+        "hu": "Ez a kerékpártúra Fraga történelmi szívén és azon túl is végigvezeti Önt. Az óváros felfedezése után átkel a Cinca folyón, és elteker a római Villa Fortunatushoz. A legnehezebb rész a San Salvador remetelakhoz való feljutás, amelyet lélegzetelállító kilátás jutalmaz. Végül visszatér a központba, hogy a napot a csodálatos Montcada-palotában zárja.",
+        "ro": "Acest tur cu bicicleta vă poartă prin inima istorică a Fragăi și dincolo de ea. După ce explorați orașul vechi, traversați Cinca și pedalați spre vila romană Fortunatus. Cea mai provocatoare parte este urcarea la Schitul San Salvador, recompensată cu priveliști uluitoare. În cele din urmă, vă întoarceți în centru pentru a încheia ziua la splendidul Palat Montcada.",
+        "en": "This bike tour takes you through the historic heart of Fraga and beyond. After exploring the old town, you'll cross the Cinca and cycle to the Roman Villa Fortunatus. The most challenging part is the climb to the Ermita de San Salvador, which is rewarded with breathtaking views. Finally, you'll return to the center to end the day at the splendid Montcada Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar-Restaurante Avenida",
+            "tip": "Ideal für ein herzhaftes Mittagsmenü ('menú del día'), um Energie für die Radtour zu tanken."
+          },
+          {
+            "name": "Cafetería Cervantes",
+            "tip": "Ein guter Ort für einen Kaffee und ein Stück 'coca de Fraga', einen lokalen Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar-Restaurante Avenida",
+            "tip": "Ideális egy kiadós ebédmenühöz ('menú del día'), hogy energiát gyűjtsön a kerékpártúrához."
+          },
+          {
+            "name": "Cafetería Cervantes",
+            "tip": "Jó hely egy kávéra és egy szelet 'coca de Fraga'-ra, egy helyi süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar-Restaurante Avenida",
+            "tip": "Ideal pentru un meniu de prânz consistent ('menú del día') pentru a vă reîncărca bateriile pentru turul cu bicicleta."
+          },
+          {
+            "name": "Cafetería Cervantes",
+            "tip": "Un loc bun pentru o cafea și o felie de 'coca de Fraga', o prăjitură locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar-Restaurante Avenida",
+            "tip": "Ideal for a hearty lunch menu ('menú del día') to fuel up for the bike ride."
+          },
+          {
+            "name": "Cafetería Cervantes",
+            "tip": "A good spot for a coffee and a slice of 'coca de Fraga', a local cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Ermita de San Salvador",
+            "tip": "Der perfekte Ort, um nach dem Aufstieg durchzuatmen und die Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Römische Villa Fortunatus",
+            "tip": "Die alten Mosaiken und die ruhige Umgebung versetzen Sie in eine andere Zeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a San Salvador remetelakból",
+            "tip": "Tökéletes hely a pihenésre a mászás után és a táj élvezetére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Fortunatus",
+            "tip": "Az ősi mozaikok és a csendes környezet egy másik korba repítik.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Schitul San Salvador",
+            "tip": "Locul perfect pentru a vă trage sufletul după urcare și a admira peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Fortunatus",
+            "tip": "Mozaicurile antice și împrejurimile liniștite vă transportă într-o altă epocă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Ermita de San Salvador",
+            "tip": "The perfect place to catch your breath after the climb and enjoy the scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Fortunatus",
+            "tip": "The ancient mosaics and quiet surroundings transport you to another time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft vor Ort",
+            "tip": "Falls Sie Ersatzteile oder Zubehör benötigen."
+          },
+          {
+            "name": "Delikatessengeschäft",
+            "tip": "Kaufen Sie lokales Olivenöl und Wein aus der Region Somontano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Ha pótalkatrészekre vagy kiegészítőkre van szüksége."
+          },
+          {
+            "name": "Delikátüzlet",
+            "tip": "Vásároljon helyi olívaolajat és bort a Somontano régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de biciclete",
+            "tip": "În caz că aveți nevoie de piese de schimb sau accesorii."
+          },
+          {
+            "name": "Magazin de delicatese",
+            "tip": "Cumpărați ulei de măsline local și vin din regiunea Somontano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shop",
+            "tip": "In case you need any spare parts or accessories."
+          },
+          {
+            "name": "Delicatessen",
+            "tip": "Buy some local olive oil and wine from the Somontano region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Strecken können anspruchsvoll sein, eine gute Grundfitness ist empfehlenswert.",
+          "Respektieren Sie die Verkehrsregeln und seien Sie auf den Straßen vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány szakasz kihívást jelenthet, jó alapkondíció ajánlott.",
+          "Tartsa be a közlekedési szabályokat és legyen óvatos az utakon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele secțiuni pot fi dificile, se recomandă o condiție fizică de bază bună.",
+          "Respectați regulile de circulație și fiți prudenți pe drumuri."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "Some sections can be challenging, a good basic level of fitness is recommended.",
+          "Respect traffic rules and be careful on the roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Fortunatus (Cluster A)",
+            "hu": "Villa Fortunatus (A csoport)",
+            "ro": "Villa Fortunatus (Grupul A)",
+            "en": "Villa Fortunatus (Cluster A)"
+          },
+          "coords": [
+            0.321,
+            41.5
+          ],
+          "category": "museums",
+          "arrive_at": "09:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Reise in die römische Vergangenheit. Parken Sie hier für den ersten Teil Ihrer Erkundung.",
+            "hu": "Kezdje a napot egy utazással a római múltba. Parkoljon itt a felfedezés első részéhez.",
+            "ro": "Începeți ziua cu o călătorie în trecutul roman. Parcați aici pentru prima parte a explorării.",
+            "en": "Start your day with a trip to the Roman past. Park here for the first part of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke über den Cinca (Cluster A)",
+            "hu": "Híd a Cinca folyón (A csoport)",
+            "ro": "Podul peste râul Cinca (Grupul A)",
+            "en": "Bridge over the Cinca River (Cluster A)"
+          },
+          "coords": [
+            0.3488,
+            41.515
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:04",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Flussufer für eine schöne Aussicht.",
+            "hu": "Egy rövid séta a parkolótól a folyópartig a gyönyörű kilátásért.",
+            "ro": "O scurtă plimbare de la parcare la malul râului pentru o priveliște frumoasă.",
+            "en": "A short walk from the car park to the riverbank for a nice view."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Viertel (Cluster B)",
+            "hu": "Történelmi negyed (B csoport)",
+            "ro": "Cartierul istoric (Grupul B)",
+            "en": "Historic Quarter (Cluster B)"
+          },
+          "coords": [
+            0.3448,
+            41.517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rande der Altstadt und erkunden Sie das Labyrinth der Gassen zu Fuß. Hier finden Sie auch gute Restaurants für das Mittagessen.",
+            "hu": "Parkoljon az óváros szélén, és fedezze fel a sikátorok labirintusát gyalog. Itt jó éttermeket is talál ebédre.",
+            "ro": "Parcați la marginea orașului vechi și explorați labirintul de alei pe jos. Aici veți găsi și restaurante bune pentru prânz.",
+            "en": "Park on the edge of the old town and explore the labyrinth of alleys on foot. You will also find good restaurants for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro (Cluster B)",
+            "hu": "Szent Péter-templom (B csoport)",
+            "ro": "Biserica San Pedro (Grupul B)",
+            "en": "Church of San Pedro (Cluster B)"
+          },
+          "coords": [
+            0.3455,
+            41.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hauptplatz des Viertels entfernt.",
+            "hu": "Csak egy rövid sétára a negyed főterétől.",
+            "ro": "La doar o scurtă plimbare de piața principală a cartierului.",
+            "en": "Just a short walk from the main square of the quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Montcada (Cluster B)",
+            "hu": "Montcada-palota (B csoport)",
+            "ro": "Palatul Montcada (Grupul B)",
+            "en": "Montcada Palace (Cluster B)"
+          },
+          "coords": [
+            0.3462,
+            41.5181
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte, die sich in diesem imposanten Gebäude verbirgt.",
+            "hu": "Fedezze fel a gazdag történelmet, amely ebben a lenyűgöző épületben rejtőzik.",
+            "ro": "Descoperiți istoria bogată ascunsă în această clădire impunătoare.",
+            "en": "Discover the rich history hidden in this imposing building."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Fraga (Cluster C)",
+            "hu": "Fraga vára (C csoport)",
+            "ro": "Castelul din Fraga (Grupul C)",
+            "en": "Castle of Fraga (Cluster C)"
+          },
+          "coords": [
+            0.342,
+            41.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zentrum bergauf bietet die beste Aussicht auf die Stadt.",
+            "hu": "Egy rövid séta a központból felfelé a legjobb kilátást nyújtja a városra.",
+            "ro": "O scurtă plimbare la deal din centru oferă cea mai bună priveliște asupra orașului.",
+            "en": "A short walk uphill from the center offers the best view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Salvador",
+            "hu": "San Salvador remetelak",
+            "ro": "Schitul San Salvador",
+            "en": "Hermitage of San Salvador"
+          },
+          "coords": [
+            0.355,
+            41.53
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Einsiedelei für einen spirituellen Abschluss des Tages und einen letzten Panoramablick.",
+            "hu": "Vezessen el a remetelakhoz a nap spirituális befejezéseként és egy utolsó panorámás kilátásért.",
+            "ro": "Conduceți la schit pentru un final spiritual al zilei și o ultimă priveliște panoramică.",
+            "en": "Drive to the hermitage for a spiritual end to the day and a final panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die weiter entfernten Schätze von Fraga entdecken. Beginnen Sie bei der römischen Villa Fortunatus, bevor Sie ins Zentrum fahren. Parken Sie dort und erkunden Sie das historische Viertel, die Kirche und den Palast zu Fuß. Der Nachmittag führt Sie dann zur Burg und schließlich zur Ermita de San Salvador, die beide spektakuläre Ausblicke bieten. Ein perfekter Mix aus Fahren und Spazierengehen.",
+        "hu": "Autóval felfedezheti Fraga távolabbi kincseit. Kezdje a római Villa Fortunatusnál, mielőtt a központba hajtana. Parkoljon le, és fedezze fel a történelmi negyedet, a templomot és a palotát gyalog. A délután a várhoz, végül pedig a San Salvador remetelakhoz vezet, mindkettő látványos kilátást kínál. A vezetés és a séta tökéletes keveréke.",
+        "ro": "Cu mașina, puteți descoperi comorile mai îndepărtate ale Fragăi. Începeți la vila romană Fortunatus înainte de a conduce spre centru. Parcați acolo și explorați cartierul istoric, biserica și palatul pe jos. După-amiaza vă va duce apoi la castel și, în final, la Schitul San Salvador, ambele oferind priveliști spectaculoase. Un amestec perfect de condus și plimbare.",
+        "en": "By car, you can discover the more distant treasures of Fraga. Start at the Roman Villa Fortunatus before driving to the center. Park there and explore the historic quarter, the church, and the palace on foot. The afternoon will then take you to the castle and finally to the Ermita de San Salvador, both offering spectacular views. A perfect mix of driving and walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Hotel Casanova",
+            "tip": "Eine gehobenere Option mit exzellenter regionaler Küche."
+          },
+          {
+            "name": "Venta del Rey",
+            "tip": "Etwas außerhalb gelegen, bekannt für gegrilltes Fleisch und traditionelle Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Hotel Casanova",
+            "tip": "Egy elegánsabb lehetőség kiváló regionális konyhával."
+          },
+          {
+            "name": "Venta del Rey",
+            "tip": "Kicsit a városon kívül található, grillezett húsairól és hagyományos ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Hotel Casanova",
+            "tip": "O opțiune mai elegantă, cu bucătărie regională excelentă."
+          },
+          {
+            "name": "Venta del Rey",
+            "tip": "Situat puțin în afara orașului, renumit pentru carnea la grătar și mâncărurile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Hotel Casanova",
+            "tip": "A more upscale option with excellent regional cuisine."
+          },
+          {
+            "name": "Venta del Rey",
+            "tip": "Located a bit outside the city, known for grilled meats and traditional dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Villa Fortunatus",
+            "tip": "Ein friedlicher Ort, um die Stille zwischen den antiken Ruinen zu genießen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang bei der Ermita",
+            "tip": "Der beste Ort, um den Tag mit einem unvergesslichen Sonnenuntergang zu beenden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Fortunatus kertjei",
+            "tip": "Békés hely, ahol élvezheti a csendet az ókori romok között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a remetelaknál",
+            "tip": "A legjobb hely a nap befejezéséhez egy felejthetetlen naplementével.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Vilei Fortunatus",
+            "tip": "Un loc pașnic pentru a vă bucura de liniște printre ruinele antice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la Schit",
+            "tip": "Cel mai bun loc pentru a încheia ziua cu un apus de soare de neuitat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Villa Fortunatus",
+            "tip": "A peaceful place to enjoy the silence among the ancient ruins.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Hermitage",
+            "tip": "The best place to end the day with an unforgettable sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Halten Sie Ausschau nach Schildern, die 'Venta Directa' (Direktverkauf) von Obst und Gemüse anbieten."
+          },
+          {
+            "name": "Bodegas in der Nähe",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger aus der Weinregion Somontano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Keresse a 'Venta Directa' (közvetlen értékesítés) táblákat, amelyek gyümölcsöt és zöldséget kínálnak."
+          },
+          {
+            "name": "Közeli borászatok",
+            "tip": "Vásároljon bort közvetlenül a termelőtől a Somontano borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor din zonă",
+            "tip": "Fiți atenți la indicatoarele care oferă 'Venta Directa' (vânzare directă) de fructe și legume."
+          },
+          {
+            "name": "Crame din apropiere",
+            "tip": "Cumpărați vin direct de la producător din regiunea viticolă Somontano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Look for signs offering 'Venta Directa' (direct sale) of fruit and vegetables."
+          },
+          {
+            "name": "Nearby wineries (Bodegas)",
+            "tip": "Buy wine directly from the producer from the Somontano wine region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann im Zentrum schwierig sein, nutzen Sie die ausgewiesenen Parkplätze am Rande der Altstadt.",
+          "Ein GPS ist hilfreich, um zu den weiter entfernten Sehenswürdigkeiten zu navigieren.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen, besonders auf den Landstraßen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a központban, használja a kijelölt parkolókat az óváros szélén.",
+          "GPS segít a távolabbi látnivalókhoz való navigálásban.",
+          "Tartsa be a sebességkorlátozásokat, különösen a vidéki utakon."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centru, folosiți parcările desemnate la marginea orașului vechi.",
+          "Un GPS este util pentru a naviga către atracțiile mai îndepărtate.",
+          "Respectați limitele de viteză, în special pe drumurile rurale."
+        ],
+        "en": [
+          "Parking can be difficult in the center, use the designated car parks on the edge of the old town.",
+          "A GPS is helpful for navigating to the more distant sights.",
+          "Respect the speed limits, especially on country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Viertel (Cluster A)",
+            "hu": "Történelmi negyed (A csoport)",
+            "ro": "Cartierul istoric (Grupul A)",
+            "en": "Historic Quarter (Cluster A)"
+          },
+          "coords": [
+            0.3448,
+            41.517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung am Hauptplatz.",
+            "hu": "Menjen busszal a központba, és kezdje a felfedezést a főtéren.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea din piața principală.",
+            "en": "Take a bus to the center and start your exploration in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro (Cluster A)",
+            "hu": "Szent Péter-templom (A csoport)",
+            "ro": "Biserica San Pedro (Grupul A)",
+            "en": "Church of San Pedro (Cluster A)"
+          },
+          "coords": [
+            0.3455,
+            41.5165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beeindruckende Kirche ist nur einen Steinwurf vom Platz entfernt.",
+            "hu": "Ez a lenyűgöző templom csak egy kőhajításnyira van a tértől.",
+            "ro": "Această biserică impresionantă este la o aruncătură de băț de piață.",
+            "en": "This impressive church is just a stone's throw from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Montcada (Cluster A)",
+            "hu": "Montcada-palota (A csoport)",
+            "ro": "Palatul Montcada (Grupul A)",
+            "en": "Montcada Palace (Cluster A)"
+          },
+          "coords": [
+            0.3462,
+            41.5181
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem historischen Juwel und einem guten Ort für das Mittagessen.",
+            "hu": "Egy séta a sikátorokon keresztül elvezeti Önt ehhez a történelmi gyöngyszemhez és egy jó ebédelőhelyhez.",
+            "ro": "O plimbare pe alei vă va duce la această bijuterie istorică și la un loc bun pentru prânz.",
+            "en": "A walk through the alleys will lead you to this historical gem and a good place for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Fortunatus (Cluster B)",
+            "hu": "Villa Fortunatus (B csoport)",
+            "ro": "Villa Fortunatus (Grupul B)",
+            "en": "Villa Fortunatus (Cluster B)"
+          },
+          "coords": [
+            0.321,
+            41.5
+          ],
+          "category": "museums",
+          "arrive_at": "13:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur römischen Villa. Erkundigen Sie sich nach dem Fahrplan, um Wartezeiten zu vermeiden.",
+            "hu": "Menjen busszal a római villához. Érdeklődjön a menetrendről a várakozási idő elkerülése érdekében.",
+            "ro": "Luați autobuzul spre vila romană. Verificați orarul pentru a evita timpii de așteptare.",
+            "en": "Take the bus to the Roman villa. Check the schedule to avoid waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Fraga (Cluster C)",
+            "hu": "Fraga vára (C csoport)",
+            "ro": "Castelul din Fraga (Grupul C)",
+            "en": "Castle of Fraga (Cluster C)"
+          },
+          "coords": [
+            0.342,
+            41.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie in die Nähe der Burg. Der letzte Teil des Weges ist ein kurzer, aber lohnender Spaziergang bergauf.",
+            "hu": "Egy másik busz elviszi a vár közelébe. Az út utolsó része egy rövid, de megérő séta felfelé.",
+            "ro": "Un alt autobuz vă va duce în apropierea castelului. Ultima parte a drumului este o plimbare scurtă, dar plină de satisfacții, la deal.",
+            "en": "Another bus will take you near the castle. The last part of the way is a short but rewarding walk uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Casa de los Frailes (Cluster C)",
+            "hu": "Casa de los Frailes Múzeum (C csoport)",
+            "ro": "Muzeul Casa de los Frailes (Grupul C)",
+            "en": "Museum of the Casa de los Frailes (Cluster C)"
+          },
+          "coords": [
+            0.344,
+            41.5175
+          ],
+          "category": "museums",
+          "arrive_at": "16:48",
+          "stay_min": 27,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Einblick in die lokale Kultur, nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Zárja a napot egy bepillantással a helyi kultúrába, csak egy rövid sétára a buszmegállótól.",
+            "ro": "Încheiați ziua cu o incursiune în cultura locală, la o scurtă plimbare de stația de autobuz.",
+            "en": "End the day with a glimpse into local culture, just a short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Fraga bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im historischen Zentrum und erkunden Sie die wichtigsten Sehenswürdigkeiten zu Fuß. Ein Bus bringt Sie dann zur faszinierenden römischen Villa Fortunatus. Am Nachmittag bringt Sie ein weiterer Bus zur Burg, von wo aus Sie einen herrlichen Blick über die Stadt genießen, bevor Sie den Tag in einem lokalen Museum ausklingen lassen.",
+        "hu": "Fedezze fel Fragát kényelmesen tömegközlekedéssel. Kezdje a történelmi központban, és fedezze fel a főbb látnivalókat gyalog. Egy busz elviszi a lenyűgöző római Villa Fortunatushoz. Délután egy másik busz felvisz a várhoz, ahonnan csodálatos kilátás nyílik a városra, mielőtt egy helyi múzeumban zárná a napot.",
+        "ro": "Descoperiți Fraga confortabil cu transportul public. Începeți în centrul istoric și explorați principalele atracții pe jos. Un autobuz vă va duce apoi la fascinanta vilă romană Fortunatus. După-amiaza, un alt autobuz vă va duce la castel, de unde vă veți bucura de priveliști superbe asupra orașului înainte de a încheia ziua la un muzeu local.",
+        "en": "Discover Fraga comfortably using public transport. Start in the historic center and explore the main sights on foot. A bus will then take you to the fascinating Roman Villa Fortunatus. In the afternoon, another bus will take you to the castle, where you can enjoy superb views over the city before ending the day at a local museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar El Parador",
+            "tip": "Beliebt bei Einheimischen für sein 'Almuerzo' (zweites Frühstück)."
+          },
+          {
+            "name": "Pastelería Albás",
+            "tip": "Probieren Sie die 'Panellets' oder andere lokale Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar El Parador",
+            "tip": "A helyiek körében népszerű az 'Almuerzo' (tízórai) miatt."
+          },
+          {
+            "name": "Pastelería Albás",
+            "tip": "Kóstolja meg a 'Panellets'-t vagy más helyi édességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar El Parador",
+            "tip": "Popular printre localnici pentru 'Almuerzo' (al doilea mic dejun)."
+          },
+          {
+            "name": "Pastelería Albás",
+            "tip": "Încercați 'Panellets' sau alte dulciuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar El Parador",
+            "tip": "Popular with locals for its 'Almuerzo' (second breakfast)."
+          },
+          {
+            "name": "Pastelería Albás",
+            "tip": "Try the 'Panellets' or other local sweets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Café am Hauptplatz",
+            "tip": "Beobachten Sie das Treiben aus der Ferne bei einem Kaffee.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Flussufer",
+            "tip": "Nach der Busfahrt können Sie hier die Beine vertreten und die Ruhe genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy kávézó a főtéren",
+            "tip": "Nézze a nyüzsgést távolról egy kávé mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A buszozás után itt kinyújtóztathatja a lábait és élvezheti a csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O cafenea în piața principală",
+            "tip": "Priviți agitația de la distanță cu o cafea.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "După călătoria cu autobuzul, vă puteți întinde picioarele aici și vă puteți bucura de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A café in the main square",
+            "tip": "Watch the hustle and bustle from a distance with a coffee.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk on the riverbank",
+            "tip": "After the bus ride, you can stretch your legs here and enjoy the peace and quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Busbahnhof",
+            "tip": "Kaufen Sie eine Zeitung oder ein Magazin für die Fahrt."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus traditionellen Geschäften und modernen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszpályaudvaron",
+            "tip": "Vásároljon újságot vagy magazint az útra."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "A fő bevásárlóutca, ahol hagyományos üzletek és modern butikok keverednek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la autogară",
+            "tip": "Cumpărați un ziar sau o revistă pentru călătorie."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "Strada principală de cumpărături, cu un amestec de magazine tradiționale și buticuri moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a newspaper or magazine for the ride."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "The main shopping street with a mix of traditional shops and modern boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn diese verfügbar ist, um Geld zu sparen.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenzen variieren können.",
+          "Haben Sie Kleingeld für den Busfahrer bereit, falls keine Kartenzahlung möglich ist."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Tájékozódjon előre a buszmenetrendekről, mivel a járatok sűrűsége változhat.",
+          "Készítsen elő aprópénzt a buszsofőrnek, ha nem lehetséges a kártyás fizetés."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi, dacă este disponibil, pentru a economisi bani.",
+          "Verificați din timp orarele autobuzelor, deoarece frecvențele pot varia.",
+          "Pregătiți monede pentru șoferul de autobuz în cazul în care plata cu cardul nu este posibilă."
+        ],
+        "en": [
+          "Buy a day pass if available to save money.",
+          "Check the bus schedules in advance as frequencies can vary.",
+          "Have small change ready for the bus driver in case card payment is not possible."
+        ]
+      }
+    }
+  }
+}

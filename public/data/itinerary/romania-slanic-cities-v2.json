@@ -1,0 +1,1246 @@
+{
+  "city_id": "romania-slanic-cities-v2",
+  "anchor": {
+    "name": "Slănic",
+    "coords": [
+      25.93,
+      45.23
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Só Múzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            25.9389,
+            45.2345
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die reiche Geschichte des Salzabbaus in der Region zu verstehen.",
+            "hu": "Kezdje itt, hogy megértse a régió gazdag sóbányászati történelmét.",
+            "ro": "Începeți aici pentru a înțelege istoria bogată a mineritului de sare din regiune.",
+            "en": "Start here to understand the rich history of salt mining in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk Unirea",
+            "hu": "Unirea Sóbánya",
+            "ro": "Salina Unirea",
+            "en": "Unirea Salt Mine"
+          },
+          "coords": [
+            25.9442,
+            45.2391
+          ],
+          "category": "natural features",
+          "arrive_at": "10:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Jacke mit, die Temperatur im Inneren beträgt konstant 12°C.",
+            "hu": "Hozzon magával kabátot, a benti hőmérséklet állandóan 12°C.",
+            "ro": "Luați o jachetă, temperatura în interior este constantă la 12°C.",
+            "en": "Bring a jacket, the temperature inside is a constant 12°C."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzberg",
+            "hu": "Só-hegy",
+            "ro": "Muntele de Sare",
+            "en": "Salt Mountain"
+          },
+          "coords": [
+            25.9455,
+            45.2385
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein einzigartiges Naturschutzgebiet, ideal für beeindruckende Fotos.",
+            "hu": "Egyedülálló természetvédelmi terület, ideális a lenyűgöző fotókhoz.",
+            "ro": "O rezervație naturală unică, ideală pentru fotografii impresionante.",
+            "en": "A unique natural reservation, ideal for impressive photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Grota Miresei",
+            "hu": "Menyasszony Barlangja",
+            "ro": "Grota Miresei",
+            "en": "Bride's Grotto"
+          },
+          "coords": [
+            25.946,
+            45.2379
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Legenden und ein guter Punkt für eine kurze Pause.",
+            "hu": "A legendák helye és egy jó pont egy rövid szünetre.",
+            "ro": "Un loc al legendelor și un punct bun pentru o scurtă pauză.",
+            "en": "A place of legends and a good spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Baciului-Bad",
+            "hu": "Baia Baciului",
+            "ro": "Baia Baciului",
+            "en": "Baciului Bath"
+          },
+          "coords": [
+            25.9318,
+            45.2415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das Gefühl, im Salzwasser zu schweben. Duschen sind vorhanden.",
+            "hu": "Tapasztalja meg a sós vízben való lebegés érzését. Zuhanyzók rendelkezésre állnak.",
+            "ro": "Experimentați senzația de a pluti în apa sărată. Dușuri sunt disponibile.",
+            "en": "Experience the feeling of floating in the salt water. Showers are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Slănic-Kloster",
+            "hu": "Slănic-kolostor",
+            "ro": "Mănăstirea Slănic",
+            "en": "Slănic Monastery"
+          },
+          "coords": [
+            25.935,
+            45.232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort der Besinnung mit wunderschönen Fresken.",
+            "hu": "A elmélkedés csendes helye, gyönyörű freskókkal.",
+            "ro": "Un loc liniștit de reculegere cu fresce frumoase.",
+            "en": "A peaceful place of reflection with beautiful frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Piatra Verde",
+            "hu": "Zöld Kő",
+            "ro": "Piatra Verde",
+            "en": "Green Rock"
+          },
+          "coords": [
+            25.918,
+            45.23
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort in der Stadt, um den Sonnenuntergang zu beobachten.",
+            "hu": "A legjobb hely a városban a naplemente megtekintéséhez.",
+            "ro": "Cel mai bun loc din oraș pentru a privi apusul.",
+            "en": "The best spot in town to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Geschichte des Salzes im Museum, bevor Sie in die beeindruckende Unirea-Salzmine hinabsteigen. Erkunden Sie die unterirdische Welt. Am Nachmittag entspannen Sie in den Salzseen von Baia Baciului, wo Sie mühelos schweben. Schließen Sie den Tag mit einem Besuch des ruhigen Slănic-Klosters und genießen Sie den Sonnenuntergang vom Grünen Felsen aus.",
+        "hu": "Kezdje a napot a só történetével a múzeumban, mielőtt leereszkedne a lenyűgöző Unirea sóbányába. Fedezze fel a földalatti világot. Délután pihenjen a Baia Baciului sós tavaiban, ahol könnyedén lebeghet. Zárja a napot a csendes Slănic kolostor meglátogatásával és élvezze a naplementét a Zöld Kőről.",
+        "ro": "Începeți ziua cu istoria sării la muzeu, înainte de a coborî în impresionanta Salină Unirea. Explorați lumea subterană. După-amiaza, relaxați-vă în lacurile sărate de la Baia Baciului, unde plutiți fără efort. Încheiați ziua cu o vizită la liniștita Mănăstire Slănic și bucurați-vă de apus de pe Piatra Verde.",
+        "en": "Start your day with the history of salt at the museum before descending into the impressive Unirea Salt Mine. Explore the subterranean world. In the afternoon, relax in the salt lakes at Baia Baciului, where you'll float effortlessly. End the day with a visit to the tranquil Slănic Monastery and enjoy the sunset from the Green Rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bulz",
+            "tip": "Ein traditionelles rumänisches Gericht aus Polenta mit Käse und Sahne, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Restaurant Grota Miresei",
+            "tip": "Bietet lokale Spezialitäten mit Blick auf den Salzberg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bulz",
+            "tip": "Hagyományos román étel polentából, sajttal és tejföllel, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Grota Miresei Étterem",
+            "tip": "Helyi specialitásokat kínál, kilátással a Só-hegyre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulz",
+            "tip": "Un fel de mâncare tradițional românesc din mămăligă cu brânză și smântână, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Restaurant Grota Miresei",
+            "tip": "Oferă specialități locale cu vedere la Muntele de Sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bulz",
+            "tip": "A traditional Romanian dish made of polenta with cheese and cream, perfect after a long walk."
+          },
+          {
+            "name": "Grota Miresei Restaurant",
+            "tip": "Offers local specialties with a view of the Salt Mountain."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piatra Verde bei Sonnenuntergang",
+            "tip": "Ein Panoramablick über das Tal in goldenem Licht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Slănic-Klosters",
+            "tip": "Ein Ort der Stille und des Friedens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piatra Verde naplementekor",
+            "tip": "Panorámás kilátás a völgyre arany fényben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Slănic kolostor udvara",
+            "tip": "A csend és a béke helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piatra Verde la apus",
+            "tip": "O priveliște panoramică asupra văii în lumină aurie.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Mănăstirii Slănic",
+            "tip": "Un loc de liniște și pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piatra Verde at sunset",
+            "tip": "A panoramic view over the valley in golden light.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Slănic Monastery",
+            "tip": "A spot of silence and peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salzlampen & Souvenirs",
+            "tip": "In der Nähe des Bergwerks finden Sie Geschäfte, die Lampen und andere Gegenstände aus lokalem Salz verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sólámpák és ajándéktárgyak",
+            "tip": "A bánya közelében üzleteket talál, ahol helyi sóból készült lámpákat és egyéb tárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lămpi de sare și suveniruri",
+            "tip": "Lângă salină veți găsi magazine care vând lămpi și alte obiecte din sare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt lamps & Souvenirs",
+            "tip": "Near the mine, you'll find shops selling lamps and other items made from local salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Badekleidung und ein Handtuch für die Salzseen mit.",
+          "Achten Sie auf die Öffnungszeiten der Saline, da diese variieren können."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával fürdőruhát és törölközőt a sós tavakhoz.",
+          "Ellenőrizze a sóbánya nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați costum de baie și un prosop pentru lacurile sărate.",
+          "Verificați programul salinei, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Bring swimwear and a towel for the salt lakes.",
+          "Check the salt mine's opening hours as they can vary."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Salzmuseum",
+            "hu": "Só Múzeum",
+            "ro": "Muzeul Sării",
+            "en": "Salt Museum"
+          },
+          "coords": [
+            25.9389,
+            45.2345
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein guter, zentraler Startpunkt mit Fahrradständern in der Nähe.",
+            "hu": "Jó, központi kiindulópont, a közelben kerékpártárolókkal.",
+            "ro": "Un punct de plecare bun, central, cu suporturi pentru biciclete în apropiere.",
+            "en": "A good, central starting point with bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk Unirea",
+            "hu": "Unirea Sóbánya",
+            "ro": "Salina Unirea",
+            "en": "Unirea Salt Mine"
+          },
+          "coords": [
+            25.9442,
+            45.2391
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie in die Mine hinabsteigen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt leereszkedne a bányába.",
+            "ro": "Asigurați-vă bicicleta înainte de a coborî în mină.",
+            "en": "Lock your bike securely before descending into the mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzberg & Grota Miresei",
+            "hu": "Só-hegy és Menyasszony Barlangja",
+            "ro": "Muntele de Sare & Grota Miresei",
+            "en": "Salt Mountain & Bride's Grotto"
+          },
+          "coords": [
+            25.9455,
+            45.2385
+          ],
+          "category": "natural features",
+          "arrive_at": "12:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Fahrrad aus leicht zu erreichen, um schnell Fotos zu machen.",
+            "hu": "Könnyen elérhető kerékpárral egy gyors fotózáshoz.",
+            "ro": "Ușor de accesat de pe bicicletă pentru o sesiune foto rapidă.",
+            "en": "Easily accessible from the bike for a quick photo session."
+          }
+        },
+        {
+          "name": {
+            "de": "Baciului-Bad",
+            "hu": "Baia Baciului",
+            "ro": "Baia Baciului",
+            "en": "Baciului Bath"
+          },
+          "coords": [
+            25.9318,
+            45.2415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad nach einer Radtour. Sichern Sie Ihr Fahrrad gut.",
+            "hu": "Frissítő fürdőzés egy kerékpártúra után. Zárja le jól a kerékpárt.",
+            "ro": "O baie răcoritoare după o plimbare cu bicicleta. Asigurați-vă bine bicicleta.",
+            "en": "A refreshing dip after a bike ride. Secure your bike well."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotes Bad",
+            "hu": "Vörös-fürdő",
+            "ro": "Baia Roșie",
+            "en": "Red Bath"
+          },
+          "coords": [
+            25.928,
+            45.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Weniger überlaufen als Baia Baciului, einen kurzen Radweg entfernt.",
+            "hu": "Kevésbé zsúfolt, mint a Baia Baciului, egy rövid bicikliútra található.",
+            "ro": "Mai puțin aglomerat decât Baia Baciului, la o scurtă plimbare cu bicicleta.",
+            "en": "Less crowded than Baia Baciului, a short bike ride away."
+          }
+        },
+        {
+          "name": {
+            "de": "Slănic-Kloster",
+            "hu": "Slănic-kolostor",
+            "ro": "Mănăstirea Slănic",
+            "en": "Slănic Monastery"
+          },
+          "coords": [
+            25.935,
+            45.232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Weg dorthin ist leicht hügelig, aber die ruhige Atmosphäre ist es wert.",
+            "hu": "Az odavezető út enyhén dombos, de a csendes légkör megéri.",
+            "ro": "Drumul până acolo este ușor deluros, dar atmosfera liniștită merită.",
+            "en": "The ride there is slightly uphill, but the serene atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Piatra Verde",
+            "hu": "Piatra Verde kilátó",
+            "ro": "Punct de belvedere Piatra Verde",
+            "en": "Piatra Verde Viewpoint"
+          },
+          "coords": [
+            25.918,
+            45.23
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und gehen Sie den kurzen Weg zum Gipfel für die beste Aussicht.",
+            "hu": "Hagyja a kerékpárt és sétáljon fel a csúcsra a legjobb kilátásért.",
+            "ro": "Lăsați bicicleta și urcați scurta potecă până în vârf pentru cea mai bună priveliște.",
+            "en": "Leave your bike and walk the short path to the top for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Salzmuseum, um mehr über die Gegend zu erfahren, und fahren Sie dann zur kühlen Unirea-Salzmine. Am Nachmittag bringt Sie eine kurze Radtour zu den Salzseen Baia Baciului und Baia Roșie für ein einzigartiges Badeerlebnis. Beenden Sie Ihre Tour am ruhigen Slănic-Kloster und erklimmen Sie den Piatra Verde für einen atemberaubenden Sonnenuntergang.",
+        "hu": "Tekerjen el reggel a Só Múzeumhoz, hogy megismerje a környéket, majd irány a hűvös Unirea sóbánya. Délután egy rövid biciklizés elviszi a Baia Baciului és Baia Roșie sós tavakhoz egy egyedülálló fürdőélményért. Fejezze be a túrát a csendes Slănic kolostornál, és másszon fel a Piatra Verde-re a lélegzetelállító naplementéért.",
+        "ro": "Pedalați dimineața la Muzeul Sării pentru a afla despre zonă, apoi mergeți la răcoroasa Salină Unirea. După-amiaza, o scurtă plimbare cu bicicleta vă duce la lacurile sărate Baia Baciului și Baia Roșie pentru o experiență unică de înot. Încheiați turul la liniștita Mănăstire Slănic și urcați pe Piatra Verde pentru un apus uimitor.",
+        "en": "Cycle to the Salt Museum in the morning to learn about the area, then head to the cool Unirea Salt Mine. In the afternoon, a short bike ride takes you to the Baia Baciului and Baia Roșie salt lakes for a unique swimming experience. Finish your tour at the tranquil Slănic Monastery and climb Piatra Verde for a stunning sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tochitură",
+            "tip": "Ein herzhafter Eintopf, der nach einer Radtour Energie gibt."
+          },
+          {
+            "name": "Pensiunea Muntele Verde",
+            "tip": "Gute hausgemachte Mahlzeiten in der Nähe der Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tochitură",
+            "tip": "Kiadós pörkölt, amely energiát ad egy kerékpártúra után."
+          },
+          {
+            "name": "Muntele Verde Panzió",
+            "tip": "Jó házias ételek a természet közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tochitură",
+            "tip": "O tocană consistentă care oferă energie după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Pensiunea Muntele Verde",
+            "tip": "Mese bune, gătite în casă, aproape de natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tochitură",
+            "tip": "A hearty stew that provides energy after a bike ride."
+          },
+          {
+            "name": "Pensiunea Muntele Verde",
+            "tip": "Good home-cooked meals close to nature."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Rotes Bad",
+            "tip": "Weniger überlaufen und ideal für eine ruhige Pause am Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel von Piatra Verde",
+            "tip": "Panoramablick und Stille, besonders an Wochentagen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vörös-fürdő partja",
+            "tip": "Kevésbé zsúfolt és ideális egy csendes délutáni szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piatra Verde csúcsa",
+            "tip": "Panorámás kilátás és csend, különösen hétköznapokon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Băii Roșii",
+            "tip": "Mai puțin aglomerat și ideal pentru o pauză liniștită după-amiaza.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Pietrei Verzi",
+            "tip": "Vederi panoramice și liniște, mai ales în zilele lucrătoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shores of the Red Bath",
+            "tip": "Less crowded and ideal for a quiet afternoon break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summit of Piatra Verde",
+            "tip": "Panoramic views and silence, especially on weekdays.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Käse",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és sajt",
+            "tip": "Keresse a helyi termékeket árusító kis standokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și brânză locală",
+            "tip": "Fiți atenți la micile tarabe care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey and cheese",
+            "tip": "Look for small stalls selling local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen können steil sein, ein Mountainbike ist von Vorteil.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an warmen Tagen.",
+          "Ein kleines Reparaturset für Fahrräder ist immer eine gute Idee."
+        ],
+        "hu": [
+          "Néhány út meredek lehet, egy mountain bike előnyös.",
+          "Vigyen magával elegendő vizet, különösen meleg napokon.",
+          "Egy kis kerékpár-javító készlet mindig jó ötlet."
+        ],
+        "ro": [
+          "Unele drumuri pot fi abrupte, o bicicletă montană este avantajoasă.",
+          "Luați suficientă apă, mai ales în zilele calde.",
+          "Un mic kit de reparații pentru biciclete este întotdeauna o idee bună."
+        ],
+        "en": [
+          "Some roads can be steep, a mountain bike is advantageous.",
+          "Bring plenty of water, especially on warm days.",
+          "A small bike repair kit is always a good idea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Salzmuseum",
+            "hu": "Parkoló a központban és Só Múzeum",
+            "ro": "Parcare Centru & Muzeul Sării",
+            "en": "Town Center Parking & Salt Museum"
+          },
+          "coords": [
+            25.9389,
+            45.2345
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
+            "ro": "Parcați aici pentru a explora primul cluster pe jos.",
+            "en": "Park here to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Slănic-Kloster",
+            "hu": "Slănic-kolostor",
+            "ro": "Mănăstirea Slănic",
+            "en": "Slănic Monastery"
+          },
+          "coords": [
+            25.935,
+            45.232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum entfernt, durch die ruhigen Straßen der Stadt.",
+            "hu": "Rövid séta a múzeumtól a város csendes utcáin keresztül.",
+            "ro": "O scurtă plimbare de la muzeu pe străzile liniștite ale orașului.",
+            "en": "A short walk from the museum through the town's quiet streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Salzbergwerk Unirea",
+            "hu": "Unirea Sóbánya parkolója",
+            "ro": "Parcare Salina Unirea",
+            "en": "Unirea Salt Mine Parking"
+          },
+          "coords": [
+            25.9442,
+            45.2391
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptparkplatz der Mine. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Hajtson a bánya fő parkolójába. Innen minden gyalogosan elérhető.",
+            "ro": "Conduceți la parcarea principală a salinei. Totul este la distanță de mers pe jos de aici.",
+            "en": "Drive to the main mine parking. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzberg & Grota Miresei",
+            "hu": "Só-hegy és Menyasszony Barlangja",
+            "ro": "Muntele de Sare & Grota Miresei",
+            "en": "Salt Mountain & Bride's Grotto"
+          },
+          "coords": [
+            25.9455,
+            45.2385
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Mineneingang, ideal für die Mittagspause.",
+            "hu": "Rövid séta a bánya bejáratától, ideális ebédidőben.",
+            "ro": "O scurtă plimbare de la intrarea în salină, ideal pentru pauza de prânz.",
+            "en": "A short walk from the mine entrance, great for the lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Baia Baciului",
+            "hu": "Baia Baciului parkolója",
+            "ro": "Parcare Baia Baciului",
+            "en": "Baia Baciului Parking"
+          },
+          "coords": [
+            25.9318,
+            45.2415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und genießen Sie die Salzseen. Duschen sind vorhanden.",
+            "hu": "Parkoljon itt és élvezze a sós tavakat. Zuhanyzók rendelkezésre állnak.",
+            "ro": "Parcați aici și bucurați-vă de lacurile sărate. Dușuri sunt disponibile.",
+            "en": "Park here and enjoy the salt lakes. Showers are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Piatra Verde",
+            "hu": "Piatra Verde kilátó",
+            "ro": "Punct de belvedere Piatra Verde",
+            "en": "Piatra Verde Viewpoint"
+          },
+          "coords": [
+            25.918,
+            45.23
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher mit dem Auto für den besten Panoramablick zum Abschluss des Tages.",
+            "hu": "Rövid autós kitérő a nap lezárásaként a legjobb panorámáért.",
+            "ro": "Un scurt ocol cu mașina pentru cea mai bună vedere panoramică la final de zi.",
+            "en": "A short car detour for the best panoramic view to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um zwischen den Clustern von Slănic zu wechseln. Beginnen Sie im Zentrum mit dem Museum und dem Kloster. Fahren Sie dann zum Hauptanziehungspunkt, der Unirea-Salzmine, und erkunden Sie die Umgebung zu Fuß. Am Nachmittag fahren Sie zu den Salzseen für eine entspannende Pause. Beenden Sie den Tag mit einer kurzen Fahrt zum Piatra Verde, um den Sonnenuntergang zu genießen.",
+        "hu": "Használja az autót a Slănic-i látnivalócsoportok közötti közlekedéshez. Kezdjen a központban a múzeummal és a kolostorral. Ezután vezessen a fő attrakcióhoz, az Unirea sóbányához, és fedezze fel a környéket gyalog. Délután hajtson a sós tavakhoz egy pihentető szünetre. Zárja a napot egy rövid autózással a Piatra Verde-hez a naplemente élvezetéért.",
+        "ro": "Folosiți mașina pentru a vă deplasa între clusterele de atracții din Slănic. Începeți în centru cu muzeul și mănăstirea. Apoi, conduceți la atracția principală, Salina Unirea, și explorați zona înconjurătoare pe jos. După-amiaza, mergeți la lacurile sărate pentru o pauză relaxantă. Încheiați ziua cu o scurtă călătorie cu mașina la Piatra Verde pentru a admira apusul.",
+        "en": "Use the car to move between Slănic's clusters of attractions. Start in the center with the museum and monastery. Then, drive to the main attraction, the Unirea Salt Mine, and explore the surrounding area on foot. In the afternoon, head to the salt lakes for a relaxing break. End the day with a short drive to Piatra Verde to enjoy the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle rumänische Suppe, die in vielen lokalen Restaurants erhältlich ist."
+          },
+          {
+            "name": "Tei Restaurant",
+            "tip": "Bekannt für seine traditionelle Küche und großzügigen Portionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba de burtă (pacalleves)",
+            "tip": "Hagyományos román leves, amely számos helyi étteremben kapható."
+          },
+          {
+            "name": "Tei Étterem",
+            "tip": "Hagyományos konyhájáról és bőséges adagjairól ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională românească disponibilă la multe restaurante locale."
+          },
+          {
+            "name": "Restaurant Tei",
+            "tip": "Cunoscut pentru bucătăria sa tradițională și porțiile generoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (tripe soup)",
+            "tip": "A traditional Romanian soup available at many local restaurants."
+          },
+          {
+            "name": "Tei Restaurant",
+            "tip": "Known for its traditional cuisine and generous portions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die unterirdischen Kammern der Saline",
+            "tip": "Trotz der Besucher ist die schiere Größe der Kammern beeindruckend still.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussicht von Piatra Verde",
+            "tip": "Ein perfekter Ort, um dem Trubel zu entfliehen und die Aussicht zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A sóbánya földalatti kamrái",
+            "tip": "A látogatók ellenére a kamrák puszta mérete lenyűgözően csendes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátás a Piatra Verde-ről",
+            "tip": "Tökéletes hely a nyüzsgés elől való menekülésre és a kilátás élvezetére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Camerele subterane ale salinei",
+            "tip": "În ciuda vizitatorilor, dimensiunea pură a camerelor este impresionant de tăcută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Priveliștea de la Piatra Verde",
+            "tip": "Un loc perfect pentru a evada din agitație și a te bucura de priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The underground chambers of the salt mine",
+            "tip": "Despite the visitors, the sheer size of the chambers is impressively quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "View from Piatra Verde",
+            "tip": "A perfect spot to escape the bustle and enjoy the view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschnitzte Salzfiguren",
+            "tip": "Einzigartige Souvenirs, die direkt aus dem Herzen des Salzbergs stammen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faragott sófigurák",
+            "tip": "Egyedi ajándéktárgyak, amelyek közvetlenül a sóhegy szívéből származnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Figurine de sare sculptate",
+            "tip": "Suveniruri unice care provin direct din inima muntelui de sare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carved salt figurines",
+            "tip": "Unique souvenirs that come directly from the heart of the salt mountain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in der Hochsaison eine Herausforderung sein, kommen Sie früh.",
+          "Überprüfen Sie den Zustand der Straßen, insbesondere nach starkem Regen.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch nahegelegene Dörfer zu erkunden."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a főszezonban, érkezzen korán.",
+          "Ellenőrizze az utak állapotát, különösen heves esőzések után.",
+          "Az autó rugalmasságot ad a közeli falvak felfedezéséhez is."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în sezonul de vârf, veniți devreme.",
+          "Verificați starea drumurilor, mai ales după ploi abundente.",
+          "O mașină vă oferă flexibilitatea de a explora și satele din apropiere."
+        ],
+        "en": [
+          "Parking can be challenging during peak season, arrive early.",
+          "Check the condition of the roads, especially after heavy rain.",
+          "A car gives you the flexibility to explore nearby villages as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralhaltestelle & Salzmuseum",
+            "hu": "Központi megálló és Só Múzeum",
+            "ro": "Stația Centrală & Muzeul Sării",
+            "en": "Central Stop & Salt Museum"
+          },
+          "coords": [
+            25.9389,
+            45.2345
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten lokalen Minibusse halten hier. Beginnen Sie Ihren Rundgang.",
+            "hu": "A legtöbb helyi mikrobusz itt áll meg. Kezdje itt a gyalogtúrát.",
+            "ro": "Majoritatea microbuzelor locale opresc aici. Începeți turul pietonal.",
+            "en": "Most local minibuses stop here. Start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Slănic-Kloster",
+            "hu": "Slănic-kolostor",
+            "ro": "Mănăstirea Slănic",
+            "en": "Slănic Monastery"
+          },
+          "coords": [
+            25.935,
+            45.232
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Museum.",
+            "hu": "Rövid, kellemes séta a múzeumtól.",
+            "ro": "O plimbare scurtă și plăcută de la muzeu.",
+            "en": "A short, pleasant walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Salzbergwerk Unirea",
+            "hu": "Unirea Sóbánya megálló",
+            "ro": "Stația Salina Unirea",
+            "en": "Unirea Salt Mine Stop"
+          },
+          "coords": [
+            25.9442,
+            45.2391
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Minibus zur Mine. Erkunden Sie die Mine und die nahegelegenen Sehenswürdigkeiten zu Fuß.",
+            "hu": "Menjen mikrobusszal a bányához. Fedezze fel a bányát és a közeli látnivalókat gyalog.",
+            "ro": "Luați un microbuz până la salină. Explorați mina și atracțiile din apropiere pe jos.",
+            "en": "Take a minibus to the mine. Explore the mine and nearby sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzberg & Grota Miresei",
+            "hu": "Só-hegy és Menyasszony Barlangja",
+            "ro": "Muntele de Sare & Grota Miresei",
+            "en": "Salt Mountain & Bride's Grotto"
+          },
+          "coords": [
+            25.9455,
+            45.2385
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Mineneingang entfernt.",
+            "hu": "Csak egy rövid sétára a bánya bejáratától.",
+            "ro": "La doar o scurtă plimbare de la intrarea în salină.",
+            "en": "Just a short walk from the mine entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Baia Baciului",
+            "hu": "Baia Baciului megálló",
+            "ro": "Stația Baia Baciului",
+            "en": "Baia Baciului Stop"
+          },
+          "coords": [
+            25.9318,
+            45.2415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Minibus bringt Sie zu den Salzseen. Entspannen Sie sich und genießen Sie das Wasser.",
+            "hu": "Egy másik mikrobusz elviszi a sós tavakhoz. Pihenjen és élvezze a vizet.",
+            "ro": "Un alt microbuz vă duce la lacurile sărate. Relaxați-vă și bucurați-vă de apă.",
+            "en": "Another minibus will take you to the salt lakes. Relax and enjoy the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotes Bad",
+            "hu": "Vörös-fürdő",
+            "ro": "Baia Roșie",
+            "en": "Red Bath"
+          },
+          "coords": [
+            25.928,
+            45.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Baia Baciului, um einen anderen Salzsee zu erleben.",
+            "hu": "Rövid séta a Baia Baciului-tól, hogy egy másik sós tavat is megtapasztaljon.",
+            "ro": "O scurtă plimbare de la Baia Baciului pentru a experimenta un alt lac sărat.",
+            "en": "A short walk from Baia Baciului to experience another salt lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Minibusse, um die Entfernungen in Slănic zu überbrücken. Beginnen Sie zu Fuß im Zentrum, bevor Sie einen Bus zur Unirea-Salzmine nehmen. Erkunden Sie diesen Cluster zu Fuß. Am Nachmittag bringt Sie ein weiterer Bus zu den Salzseen für ein erfrischendes Bad. Die kurzen Spaziergänge zwischen den Haltestellen und den Sehenswürdigkeiten machen den Tag entspannt.",
+        "hu": "Használja a helyi mikrobuszokat a távolságok áthidalására Slănicban. Kezdjen gyalog a központban, mielőtt buszra szállna az Unirea sóbányához. Fedezze fel ezt a látnivaló-csoportot gyalog. Délután egy másik busz elviszi a sós tavakhoz egy frissítő fürdőre. A megállók és a látnivalók közötti rövid séták pihentetővé teszik a napot.",
+        "ro": "Folosiți microbuzele locale pentru a acoperi distanțele în Slănic. Începeți pe jos în centru înainte de a lua un autobuz către Salina Unirea. Explorați acest cluster pe jos. După-amiaza, un alt autobuz vă va duce la lacurile sărate pentru o baie răcoritoare. Plimbările scurte între stații și atracții fac ziua relaxantă.",
+        "en": "Use the local minibuses to cover the distances in Slănic. Start on foot in the center before taking a bus to the Unirea Salt Mine. Explore that cluster on foot. In the afternoon, another bus takes you to the salt lakes for a refreshing dip. The short walks between stops and sights make for a relaxed day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein beliebter rumänischer Straßensnack."
+          },
+          {
+            "name": "Pensiunea Roberto",
+            "tip": "Bietet traditionelle Gerichte in einer gemütlichen Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics (Mititei)",
+            "tip": "Grillezett darált hús tekercsek, népszerű román utcai étel."
+          },
+          {
+            "name": "Roberto Panzió",
+            "tip": "Hagyományos ételeket kínál hangulatos légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, o gustare populară de stradă din România."
+          },
+          {
+            "name": "Pensiunea Roberto",
+            "tip": "Oferă mâncăruri tradiționale într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a popular Romanian street food snack."
+          },
+          {
+            "name": "Pensiunea Roberto",
+            "tip": "Offers traditional dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Der Weg zum Slănic-Kloster",
+            "tip": "Ein ruhiger Spaziergang abseits der Haupttouristenpfade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Später Nachmittag am Rotes Bad",
+            "tip": "Wenn die meisten Tagesausflügler weg sind, wird es hier sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Slănic kolostorhoz vezető ösvény",
+            "tip": "Csendes séta a fő turistaútvonalaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Késő délután a Vörös-fürdőnél",
+            "tip": "Amikor a legtöbb napos kiránduló elmegy, itt nagyon békés lesz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă spre Mănăstirea Slănic",
+            "tip": "O plimbare liniștită, departe de principalele trasee turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "După-amiază târziu la Baia Roșie",
+            "tip": "Când majoritatea excursioniștilor de o zi au plecat, devine foarte pașnic aici.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "The path to Slănic Monastery",
+            "tip": "A quiet walk away from the main tourist trails.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Late afternoon at the Red Bath",
+            "tip": "When most day-trippers have left, it becomes very peaceful here.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Holzartikel",
+            "tip": "In einigen Souvenirläden finden Sie lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített fatárgyak",
+            "tip": "Néhány ajándékboltban helyi kézműves termékeket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Puteți găsi meșteșuguri locale în unele magazine de suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade wooden items",
+            "tip": "You can find local crafts in some of the souvenir shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach den Routen und Fahrplänen der Minibusse, da diese nicht immer offensichtlich sind.",
+          "Halten Sie Kleingeld für die Busfahrten bereit.",
+          "Seien Sie flexibel, da die Busse möglicherweise nicht immer pünktlich sind."
+        ],
+        "hu": [
+          "Érdeklődjön a mikrobuszok útvonalairól és menetrendjéről, mivel azok nem mindig egyértelműek.",
+          "Készítsen aprópénzt a buszutakhoz.",
+          "Legyen rugalmas, mivel a buszok nem mindig pontosak."
+        ],
+        "ro": [
+          "Întrebați despre rutele și orarele microbuzelor, deoarece acestea nu sunt întotdeauna evidente.",
+          "Aveți la îndemână bani mărunți pentru călătoriile cu autobuzul.",
+          "Fiți flexibil, deoarece autobuzele s-ar putea să nu fie întotdeauna la timp."
+        ],
+        "en": [
+          "Ask about the minibus routes and schedules, as they are not always obvious.",
+          "Have small change ready for the bus fares.",
+          "Be flexible, as the buses may not always be on time."
+        ]
+      }
+    }
+  }
+}

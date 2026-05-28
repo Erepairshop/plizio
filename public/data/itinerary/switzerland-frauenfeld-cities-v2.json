@@ -1,0 +1,1420 @@
+{
+  "city_id": "switzerland-frauenfeld-cities-v2",
+  "anchor": {
+    "name": "Frauenfeld",
+    "coords": [
+      47.558,
+      8.898
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Frauenfeld",
+            "hu": "Frauenfeldi Városháza",
+            "ro": "Primăria Frauenfeld",
+            "en": "Frauenfeld Town Hall"
+          },
+          "coords": [
+            8.8981,
+            47.5575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassadenmalereien und die astronomische Uhr am Gebäude.",
+            "hu": "Csodálja meg az épület homlokzati festményeit és csillagászati óráját.",
+            "ro": "Admirați picturile de pe fațadă și ceasul astronomic al clădirii.",
+            "en": "Admire the facade paintings and the astronomical clock on the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Nikolaus",
+            "hu": "Szent Miklós városi templom",
+            "ro": "Biserica orașului Sf. Nicolae",
+            "en": "St. Nicholas City Church"
+          },
+          "coords": [
+            8.8992,
+            47.5568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasfenster und die spätgotische Architektur.",
+            "hu": "Figyelje meg a lenyűgöző üvegablakokat és a késő gótikus építészetet.",
+            "ro": "Observați vitraliile impresionante și arhitectura gotică târzie.",
+            "en": "Pay attention to the impressive stained glass windows and the late Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenfeld",
+            "hu": "Frauenfeldi kastély",
+            "ro": "Castelul Frauenfeld",
+            "en": "Frauenfeld Castle"
+          },
+          "coords": [
+            8.8998,
+            47.5589
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm beherbergt das Historische Museum Thurgau. Ein Muss!",
+            "hu": "A torony ad otthont a Thurgau Történeti Múzeumnak. Ezt ne hagyja ki!",
+            "ro": "Turnul găzduiește Muzeul de Istorie din Thurgau. O vizită obligatorie!",
+            "en": "The tower houses the Historical Museum of Thurgau. A must-see!"
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Archäologie Thurgau",
+            "hu": "Thurgau Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Thurgau",
+            "en": "Museum of Archaeology Thurgau"
+          },
+          "coords": [
+            8.8995,
+            47.5595
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen machen die reiche Geschichte der Region lebendig.",
+            "hu": "Az interaktív kiállítások életre keltik a régió gazdag történelmét.",
+            "ro": "Expozițiile interactive aduc la viață istoria bogată a regiunii.",
+            "en": "Interactive exhibits bring the region's rich history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Murg-Auen-Park",
+            "hu": "Murg-Auen-Park",
+            "ro": "Parcul Murg-Auen",
+            "en": "Murg-Auen Park"
+          },
+          "coords": [
+            8.8955,
+            47.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Suchen Sie sich eine Bank am Flussufer.",
+            "hu": "Tökéletes egy ebédszünetre. Keressen egy padot a folyóparton.",
+            "ro": "Perfect pentru o pauză de prânz. Căutați o bancă pe malul râului.",
+            "en": "Perfect for a lunch break. Find a bench by the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Baliere",
+            "hu": "Baliere Kulturális Központ",
+            "ro": "Centrul Cultural Baliere",
+            "en": "Baliere Cultural Centre"
+          },
+          "coords": [
+            8.8968,
+            47.5562
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm auf lokale Kunstausstellungen oder Konzerte.",
+            "hu": "Nézze meg a programot helyi művészeti kiállítások vagy koncertek után.",
+            "ro": "Verificați programul pentru expoziții de artă locală sau concerte.",
+            "en": "Check the schedule for local art exhibitions or concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Frauenfeld, dem Rathaus, und schlendern Sie durch die Altstadt zur ehrwürdigen Stadtkirche. Tauchen Sie am Vormittag in die Geschichte im Schloss Frauenfeld und im Archäologiemuseum ein. Nach einem informativen Morgen entspannen Sie am Nachmittag im grünen Murg-Auen-Park. Beenden Sie Ihren Kulturtag mit einem Besuch im Kulturzentrum Baliere, bevor Sie in einem der lokalen Restaurants zu Abend essen.",
+        "hu": "Kezdje a napot Frauenfeld szívében, a Városházánál, és sétáljon át az óvároson a tiszteletreméltó városi templomig. Délelőtt merüljön el a történelemben a Frauenfeld kastélyban és a Régészeti Múzeumban. Az informatív reggelt követően délután pihenjen a zöld Murg-Auen-Parkban. Kulturális napját a Baliere kulturális központ meglátogatásával zárja, mielőtt megvacsorázna valamelyik helyi étteremben.",
+        "ro": "Începeți ziua în inima orașului Frauenfeld, la Primărie, și plimbați-vă prin orașul vechi până la venerabila Biserică a Orașului. La amiază, cufundați-vă în istorie la Castelul Frauenfeld și la Muzeul de Arheologie. După o dimineață informativă, relaxați-vă după-amiaza în parcul verde Murg-Auen. Încheiați-vă ziua culturală cu o vizită la Centrul Cultural Baliere înainte de a cina la unul dintre restaurantele locale.",
+        "en": "Start your day in the heart of Frauenfeld at the Town Hall and stroll through the old town to the venerable City Church. In the morning, immerse yourself in history at Frauenfeld Castle and the Museum of Archaeology. After an informative morning, relax in the green Murg-Auen Park in the afternoon. End your cultural day with a visit to the Baliere Cultural Centre before having dinner at one of the local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thurgauer Süssmost",
+            "tip": "Probieren Sie den lokalen Apfelsaft, eine Spezialität der Region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Ein traditionelles Restaurant mit gemütlicher Atmosphäre und regionaler Küche."
+          },
+          {
+            "name": "Käsespezialitäten",
+            "tip": "Besuchen Sie einen lokalen Markt für eine Auswahl an Thurgauer Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thurgaui almabor",
+            "tip": "Kóstolja meg a helyi almalevet, a régió specialitását."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Hagyományos étterem otthonos légkörrel és regionális konyhával."
+          },
+          {
+            "name": "Sajtkülönlegességek",
+            "tip": "Látogasson el egy helyi piacra a thurgaui sajtok választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidru de mere Thurgau",
+            "tip": "Încercați sucul de mere local, o specialitate a regiunii."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Un restaurant tradițional cu o atmosferă primitoare și bucătărie regională."
+          },
+          {
+            "name": "Specialități de brânză",
+            "tip": "Vizitați o piață locală pentru o selecție de brânzeturi din Thurgau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thurgau Apple Cider",
+            "tip": "Try the local apple juice, a specialty of the region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "A traditional restaurant with a cozy atmosphere and regional cuisine."
+          },
+          {
+            "name": "Cheese Specialties",
+            "tip": "Visit a local market for a selection of Thurgau cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg an der Murg",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses ist perfekt, um dem Trubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof St. Nikolaus",
+            "tip": "Der Friedhof um die Kirche ist ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank im Murg-Auen-Park",
+            "tip": "Finden Sie einen abgelegenen Platz und genießen Sie die Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány a Murg folyó mentén",
+            "tip": "Egy csendes séta a folyó mentén tökéletes a nyüzsgés elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós templomkert",
+            "tip": "A templom körüli temető a csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a Murg-Auen-Parkban",
+            "tip": "Keressen egy félreeső helyet, és élvezze a természetet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Murgului",
+            "tip": "O plimbare liniștită de-a lungul râului este perfectă pentru a scăpa de agitație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Sf. Nicolae",
+            "tip": "Cimitirul din jurul bisericii este un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă în Parcul Murg-Auen",
+            "tip": "Găsiți un loc retras și bucurați-vă de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path along the Murg river",
+            "tip": "A quiet walk along the river is perfect for escaping the hustle and bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "The cemetery around the church is a place of peace and contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench in Murg-Auen Park",
+            "tip": "Find a secluded spot and enjoy nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Frauenfeld",
+            "tip": "Jeden Mittwoch und Samstag in der Altstadt für frische Produkte und lokale Handwerkskunst."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Probieren Sie die berühmten 'Hüppen', eine lokale Waffelspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frauenfeldi heti piac",
+            "tip": "Minden szerdán és szombaton az óvárosban friss termékekért és helyi kézműves termékekért."
+          },
+          {
+            "name": "Hirt Cukrászda",
+            "tip": "Kóstolja meg a híres 'Hüppen'-t, a helyi ostyakülönlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Frauenfeld",
+            "tip": "În fiecare miercuri și sâmbătă în orașul vechi pentru produse proaspete și artizanat local."
+          },
+          {
+            "name": "Cofetăria Hirt",
+            "tip": "Încercați faimoasele 'Hüppen', o specialitate locală de napolitane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frauenfeld Weekly Market",
+            "tip": "Every Wednesday and Saturday in the old town for fresh produce and local crafts."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Try the famous 'Hüppen', a local wafer specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt Kopfsteinpflaster hat.",
+          "Viele Museen haben montags geschlossen, prüfen Sie die Öffnungszeiten im Voraus.",
+          "Ein Spaziergang entlang der Murg bietet eine schöne Abwechslung zum Stadtzentrum."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves.",
+          "Sok múzeum hétfőn zárva tart, ellenőrizze előre a nyitvatartási időt.",
+          "Egy séta a Murg folyó mentén kellemes kikapcsolódást nyújt a városközpontból."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi are pavaj.",
+          "Multe muzee sunt închise lunea, verificați programul în avans.",
+          "O plimbare de-a lungul râului Murg oferă o pauză plăcută de centrul orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has cobblestones.",
+          "Many museums are closed on Mondays, check opening times in advance.",
+          "A walk along the Murg river offers a nice change of pace from the city center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Altstadt",
+            "hu": "Városháza és Óváros",
+            "ro": "Primăria și Centrul Vechi",
+            "en": "Town Hall and Old Town"
+          },
+          "coords": [
+            8.8981,
+            47.5575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuss.",
+            "hu": "Parkolja le a biciklit és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați bicicleta și explorați străduțele pe jos.",
+            "en": "Park your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Bernegg",
+            "hu": "Bernegg romjai",
+            "ro": "Ruinele Bernegg",
+            "en": "Bernegg Ruins"
+          },
+          "coords": [
+            8.885,
+            47.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der kurze Anstieg lohnt sich für die tolle Aussicht über die Stadt.",
+            "hu": "A rövid emelkedő megéri a városra nyíló remek kilátásért.",
+            "ro": "Scurta urcare merită pentru priveliștea minunată asupra orașului.",
+            "en": "The short climb is worth it for the great view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenfeld",
+            "hu": "Frauenfeldi kastély",
+            "ro": "Castelul Frauenfeld",
+            "en": "Frauenfeld Castle"
+          },
+          "coords": [
+            8.8998,
+            47.5589
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Verbinden Sie den Besuch mit dem Historischen Museum im Inneren.",
+            "hu": "Kösse össze a látogatást a benne található Történeti Múzeummal.",
+            "ro": "Combinați vizita cu Muzeul de Istorie din interior.",
+            "en": "Combine the visit with the Historical Museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az Óvárosban",
+            "ro": "Prânz în Centrul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            8.8985,
+            47.5578
+          ],
+          "category": "gastro",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Aussenbereich, um das Treiben zu beobachten.",
+            "hu": "Válasszon egy szabadtéri éttermet, hogy figyelhesse a nyüzsgést.",
+            "ro": "Alegeți un restaurant cu terasă pentru a observa agitația.",
+            "en": "Choose a restaurant with an outdoor area to watch the hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Murg-Auen-Park",
+            "hu": "Murg-Auen-Park",
+            "ro": "Parcul Murg-Auen",
+            "en": "Murg-Auen Park"
+          },
+          "coords": [
+            8.8955,
+            47.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie den Flussweg entlang für eine entspannte Tour durch den Park.",
+            "hu": "Kerékpározzon végig a folyóparti úton egy pihentető túráért a parkon keresztül.",
+            "ro": "Plimbați-vă cu bicicleta de-a lungul cărării de pe râu pentru un tur relaxant prin parc.",
+            "en": "Ride along the river path for a relaxing tour through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Plättli Zoo",
+            "hu": "Plättli Állatkert",
+            "ro": "Grădina Zoologică Plättli",
+            "en": "Plättli Zoo"
+          },
+          "coords": [
+            8.92,
+            47.56
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, besonders für Familien. Fütterungszeiten beachten!",
+            "hu": "Szép befejezése a napnak, különösen családok számára. Figyeljen az etetési időpontokra!",
+            "ro": "Un final frumos de zi, mai ales pentru familii. Fiți atenți la orele de hrănire!",
+            "en": "A lovely end to the day, especially for families. Note the feeding times!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im historischen Zentrum von Frauenfeld, bevor Sie zur Ruine Bernegg hinaufsteigen, um eine herrliche Aussicht zu genießen. Zurück in der Stadt, erkunden Sie das Schloss und gönnen sich ein Mittagessen. Am Nachmittag radeln Sie gemütlich durch den Murg-Auen-Park. Den Abschluss bildet ein Besuch im Plättli Zoo, der eine angenehme Radtour vom Stadtzentrum entfernt liegt.",
+        "hu": "Kezdje a kerékpártúrát Frauenfeld történelmi központjában, mielőtt felmenne a Bernegg romjaihoz egy csodálatos kilátásért. Visszatérve a városba, fedezze fel a kastélyt és ebédeljen meg. Délután kényelmesen tekerjen át a Murg-Auen-Parkon. A napot a Plättli Állatkert meglátogatásával zárja, amely egy kellemes bicikliútra van a városközponttól.",
+        "ro": "Începeți turul cu bicicleta în centrul istoric al orașului Frauenfeld înainte de a urca la Ruinele Bernegg pentru o priveliște magnifică. Întors în oraș, explorați castelul și bucurați-vă de prânz. După-amiaza, pedalați agale prin Parcul Murg-Auen. Ziua se încheie cu o vizită la Grădina Zoologică Plättli, situată la o plimbare plăcută cu bicicleta de centrul orașului.",
+        "en": "Start your bike tour in the historic center of Frauenfeld before climbing up to the Bernegg Ruins for a magnificent view. Back in town, explore the castle and enjoy lunch. In the afternoon, pedal leisurely through the Murg-Auen Park. The day concludes with a visit to the Plättli Zoo, a pleasant bike ride from the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thurgauer Süssmost",
+            "tip": "Probieren Sie den lokalen Apfelsaft, eine Spezialität der Region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Ein traditionelles Restaurant mit gemütlicher Atmosphäre und regionaler Küche."
+          },
+          {
+            "name": "Käsespezialitäten",
+            "tip": "Besuchen Sie einen lokalen Markt für eine Auswahl an Thurgauer Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thurgaui almabor",
+            "tip": "Kóstolja meg a helyi almalevet, a régió specialitását."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Hagyományos étterem otthonos légkörrel és regionális konyhával."
+          },
+          {
+            "name": "Sajtkülönlegességek",
+            "tip": "Látogasson el egy helyi piacra a thurgaui sajtok választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidru de mere Thurgau",
+            "tip": "Încercați sucul de mere local, o specialitate a regiunii."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Un restaurant tradițional cu o atmosferă primitoare și bucătărie regională."
+          },
+          {
+            "name": "Specialități de brânză",
+            "tip": "Vizitați o piață locală pentru o selecție de brânzeturi din Thurgau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thurgau Apple Cider",
+            "tip": "Try the local apple juice, a specialty of the region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "A traditional restaurant with a cozy atmosphere and regional cuisine."
+          },
+          {
+            "name": "Cheese Specialties",
+            "tip": "Visit a local market for a selection of Thurgau cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Ruine Bernegg",
+            "tip": "Ein ruhiger Ort, um über die Landschaft zu blicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussufer im Murg-Auen-Park",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Botanischer Garten Frauenfeld",
+            "tip": "Ein kleiner, aber feiner Garten zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Bernegg romoknál",
+            "tip": "Csendes hely a táj megcsodálására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyópart a Murg-Auen-Parkban",
+            "tip": "A fő utaktól távol békés helyeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frauenfeldi Botanikus Kert",
+            "tip": "Kicsi, de szép kert a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Ruinele Bernegg",
+            "tip": "Un loc liniștit pentru a privi peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului în Parcul Murg-Auen",
+            "tip": "Departe de cărările principale veți găsi locuri pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Botanică Frauenfeld",
+            "tip": "O grădină mică, dar frumoasă pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Bernegg Ruins",
+            "tip": "A quiet place to look out over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank in Murg-Auen Park",
+            "tip": "Away from the main paths, you will find peaceful spots.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frauenfeld Botanical Garden",
+            "tip": "A small but fine garden for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Frauenfeld",
+            "tip": "Jeden Mittwoch und Samstag in der Altstadt für frische Produkte und lokale Handwerkskunst."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Probieren Sie die berühmten 'Hüppen', eine lokale Waffelspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frauenfeldi heti piac",
+            "tip": "Minden szerdán és szombaton az óvárosban friss termékekért és helyi kézműves termékekért."
+          },
+          {
+            "name": "Hirt Cukrászda",
+            "tip": "Kóstolja meg a híres 'Hüppen'-t, a helyi ostyakülönlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Frauenfeld",
+            "tip": "În fiecare miercuri și sâmbătă în orașul vechi pentru produse proaspete și artizanat local."
+          },
+          {
+            "name": "Cofetăria Hirt",
+            "tip": "Încercați faimoasele 'Hüppen', o specialitate locală de napolitane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frauenfeld Weekly Market",
+            "tip": "Every Wednesday and Saturday in the old town for fresh produce and local crafts."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Try the famous 'Hüppen', a local wafer specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof, falls Sie keines dabeihaben.",
+          "Achten Sie auf die Fahrradwege, die gut ausgebaut sind.",
+          "Ein kleines Schloss für das Fahrrad ist für die Stadtbesichtigung unerlässlich."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomáson, ha nincs sajátja.",
+          "Figyeljen a jól kiépített kerékpárutakra.",
+          "A városnézéshez elengedhetetlen egy kis kerékpárzár."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară dacă nu aveți una.",
+          "Fiți atenți la pistele de biciclete, care sunt bine dezvoltate.",
+          "O mică încuietoare pentru bicicletă este esențială pentru vizitarea orașului."
+        ],
+        "en": [
+          "Rent a bike at the train station if you don't have one.",
+          "Pay attention to the bike paths, which are well-developed.",
+          "A small bike lock is essential for sightseeing in the city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt & Rathaus",
+            "hu": "Óvárosi parkolóház és Városháza",
+            "ro": "Parcarea Centrului Vechi și Primăria",
+            "en": "Old Town Car Park & Town Hall"
+          },
+          "coords": [
+            8.8975,
+            47.557
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Der erste Spaziergang führt Sie zum Rathaus.",
+            "hu": "Parkoljon itt a délelőttre. Az első séta a Városházához vezet.",
+            "ro": "Parcați aici pentru dimineață. Prima plimbare vă duce la Primărie.",
+            "en": "Park here for the morning. The first walk takes you to the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenfeld & Museum",
+            "hu": "Frauenfeldi kastély és Múzeum",
+            "ro": "Castelul Frauenfeld și Muzeul",
+            "en": "Frauenfeld Castle & Museum"
+          },
+          "coords": [
+            8.8998,
+            47.5589
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Archäologiemuseum befindet sich gleich nebenan. Planen Sie genug Zeit ein.",
+            "hu": "A Régészeti Múzeum közvetlenül mellette található. Tervezzen elég időt.",
+            "ro": "Muzeul de Arheologie este chiar alături. Planificați suficient timp.",
+            "en": "The Museum of Archaeology is right next door. Plan enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Nikolaus",
+            "hu": "Szent Miklós városi templom",
+            "ro": "Biserica orașului Sf. Nicolae",
+            "en": "St. Nicholas City Church"
+          },
+          "coords": [
+            8.8992,
+            47.5568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss zurück durch die Altstadt.",
+            "hu": "Rövid séta a kastélytól vissza az óvároson keresztül.",
+            "ro": "O scurtă plimbare de la castel înapoi prin orașul vechi.",
+            "en": "A short walk from the castle back through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Plättli Zoo",
+            "hu": "Plättli Állatkert",
+            "ro": "Grădina Zoologică Plättli",
+            "en": "Plättli Zoo"
+          },
+          "coords": [
+            8.92,
+            47.56
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:21",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein tolles Ausflugsziel für die ganze Familie. Es gibt auch einen grossen Spielplatz.",
+            "hu": "Nagyszerű kirándulóhely az egész családnak. Van egy nagy játszótér is.",
+            "ro": "O destinație excelentă pentru întreaga familie. Există și un loc de joacă mare.",
+            "en": "A great destination for the whole family. There is also a large playground."
+          }
+        },
+        {
+          "name": {
+            "de": "Murg-Auen-Park & Flussufer",
+            "hu": "Murg-Auen-Park és folyópart",
+            "ro": "Parcul Murg-Auen și malul râului",
+            "en": "Murg-Auen Park & Riverbank"
+          },
+          "coords": [
+            8.8955,
+            47.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und spazieren Sie am Fluss entlang.",
+            "hu": "Parkoljon a közelben és sétáljon a folyó mentén.",
+            "ro": "Parcați în apropiere și plimbați-vă de-a lungul râului.",
+            "en": "Park nearby and take a walk along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee am Fluss",
+            "hu": "Kávé a folyóparton",
+            "ro": "Cafea pe malul râului",
+            "en": "Coffee by the river"
+          },
+          "coords": [
+            8.8945,
+            47.5535
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages in einem der Cafés mit Blick auf die Murg.",
+            "hu": "A nap pihentető lezárása az egyik kávézóban, kilátással a Murg folyóra.",
+            "ro": "O încheiere relaxantă a zilei la una dintre cafenelele cu vedere la râul Murg.",
+            "en": "A relaxing end to the day at one of the cafés overlooking the Murg river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den ersten Cluster zu Fuss: das historische Rathaus, das Schloss und die Kirche. Am Mittag fahren Sie zum Plättli Zoo, einem Highlight etwas ausserhalb der Stadt. Für den Nachmittag fahren Sie zum Murg-Auen-Park, einem weiteren Cluster, wo Sie am Flussufer spazieren und den Tag bei einem Kaffee ausklingen lassen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel az első klasztert gyalog: a történelmi városházát, a kastélyt és a templomot. Délben hajtson el a Plättli Állatkertbe, egy kicsit a városon kívüli látványossághoz. Délutánra irány a Murg-Auen-Park, egy másik klaszter, ahol a folyóparton sétálhat, és egy kávéval zárhatja a napot.",
+        "ro": "Parcați mașina în centru și explorați primul cluster pe jos: primăria istorică, castelul și biserica. La prânz, conduceți la Grădina Zoologică Plättli, o atracție situată puțin în afara orașului. Pentru după-amiază, mergeți la Parcul Murg-Auen, un alt cluster, unde vă puteți plimba pe malul râului și încheia ziua cu o cafea.",
+        "en": "Park your car in the center and explore the first cluster on foot: the historic town hall, the castle, and the church. At noon, drive to the Plättli Zoo, a highlight just outside the city. For the afternoon, head to the Murg-Auen Park, another cluster, where you can walk along the riverbank and end the day with a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thurgauer Süssmost",
+            "tip": "Probieren Sie den lokalen Apfelsaft, eine Spezialität der Region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Ein traditionelles Restaurant mit gemütlicher Atmosphäre und regionaler Küche."
+          },
+          {
+            "name": "Käsespezialitäten",
+            "tip": "Besuchen Sie einen lokalen Markt für eine Auswahl an Thurgauer Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thurgaui almabor",
+            "tip": "Kóstolja meg a helyi almalevet, a régió specialitását."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Hagyományos étterem otthonos légkörrel és regionális konyhával."
+          },
+          {
+            "name": "Sajtkülönlegességek",
+            "tip": "Látogasson el egy helyi piacra a thurgaui sajtok választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidru de mere Thurgau",
+            "tip": "Încercați sucul de mere local, o specialitate a regiunii."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Un restaurant tradițional cu o atmosferă primitoare și bucătărie regională."
+          },
+          {
+            "name": "Specialități de brânză",
+            "tip": "Vizitați o piață locală pentru o selecție de brânzeturi din Thurgau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thurgau Apple Cider",
+            "tip": "Try the local apple juice, a specialty of the region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "A traditional restaurant with a cozy atmosphere and regional cuisine."
+          },
+          {
+            "name": "Cheese Specialties",
+            "tip": "Visit a local market for a selection of Thurgau cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tierpark-Gehege",
+            "tip": "Beobachten Sie die Tiere in einer ruhigen Ecke des Zoos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruine Bernegg (mit Auto erreichbar)",
+            "tip": "Fahren Sie für eine stille Minute und einen weiten Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Murg-Ufer abseits der Wege",
+            "tip": "Finden Sie einen friedlichen Platz am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állatkerti kifutók",
+            "tip": "Figyelje az állatokat az állatkert egy csendes sarkában.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bernegg romjai (autóval elérhető)",
+            "tip": "Menjen el egy csendes percre és egy széles kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Murg-part az ösvényektől távol",
+            "tip": "Keressen egy békés helyet a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Incinta animalelor de la zoo",
+            "tip": "Priviți animalele într-un colț liniștit al grădinii zoologice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ruinele Bernegg (accesibil cu mașina)",
+            "tip": "Conduceți pentru un minut de liniște și o priveliște largă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Murgului, departe de cărări",
+            "tip": "Găsiți un loc pașnic lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo enclosures",
+            "tip": "Watch the animals in a quiet corner of the zoo.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bernegg Ruins (accessible by car)",
+            "tip": "Drive up for a quiet minute and a wide view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Murg riverbank off the paths",
+            "tip": "Find a peaceful spot by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Frauenfeld",
+            "tip": "Jeden Mittwoch und Samstag in der Altstadt für frische Produkte und lokale Handwerkskunst."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Probieren Sie die berühmten 'Hüppen', eine lokale Waffelspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frauenfeldi heti piac",
+            "tip": "Minden szerdán és szombaton az óvárosban friss termékekért és helyi kézműves termékekért."
+          },
+          {
+            "name": "Hirt Cukrászda",
+            "tip": "Kóstolja meg a híres 'Hüppen'-t, a helyi ostyakülönlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Frauenfeld",
+            "tip": "În fiecare miercuri și sâmbătă în orașul vechi pentru produse proaspete și artizanat local."
+          },
+          {
+            "name": "Cofetăria Hirt",
+            "tip": "Încercați faimoasele 'Hüppen', o specialitate locală de napolitane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frauenfeld Weekly Market",
+            "tip": "Every Wednesday and Saturday in the old town for fresh produce and local crafts."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Try the famous 'Hüppen', a local wafer specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die öffentlichen Parkhäuser in der Innenstadt.",
+          "Die Strassen in der Altstadt sind eng, das Fahren dort ist nicht zu empfehlen.",
+          "Der Plättli Zoo hat eigene Parkplätze, die am Wochenende schnell voll sein können."
+        ],
+        "hu": [
+          "Használja a belvárosi nyilvános parkolóházakat.",
+          "Az óváros utcái szűkek, ott nem ajánlott vezetni.",
+          "A Plättli Állatkertnek saját parkolói vannak, amelyek hétvégén gyorsan megtelhetnek."
+        ],
+        "ro": [
+          "Folosiți parcările publice din centrul orașului.",
+          "Străzile din centrul vechi sunt înguste, nu este recomandat să conduceți acolo.",
+          "Grădina Zoologică Plättli are propriile parcări, care se pot umple rapid în weekend."
+        ],
+        "en": [
+          "Use the public car parks in the city center.",
+          "The streets in the old town are narrow, driving there is not recommended.",
+          "The Plättli Zoo has its own car parks, which can fill up quickly on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Frauenfeld & Start",
+            "hu": "Frauenfeld pályaudvar és indulás",
+            "ro": "Gara Frauenfeld și start",
+            "en": "Frauenfeld Station & Start"
+          },
+          "coords": [
+            8.903,
+            47.555
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für das Stadtnetz, um flexibel zu sein.",
+            "hu": "Vásároljon napijegyet a városi hálózatra a rugalmasság érdekében.",
+            "ro": "Cumpărați un bilet de o zi pentru rețeaua orașului pentru a fi flexibil.",
+            "en": "Buy a day ticket for the city network to be flexible."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Cluster Altstadt)",
+            "hu": "Városháza (Óváros klaszter)",
+            "ro": "Primăria (Cluster Centrul Vechi)",
+            "en": "Town Hall (Old Town Cluster)"
+          },
+          "coords": [
+            8.8981,
+            47.5575
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von der Haltestelle 'Marktplatz' sind es nur wenige Schritte.",
+            "hu": "A 'Marktplatz' megállótól csak néhány lépés.",
+            "ro": "De la stația 'Marktplatz' sunt doar câțiva pași.",
+            "en": "It's just a few steps from the 'Marktplatz' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Frauenfeld",
+            "hu": "Frauenfeldi kastély",
+            "ro": "Castelul Frauenfeld",
+            "en": "Frauenfeld Castle"
+          },
+          "coords": [
+            8.8998,
+            47.5589
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen führt Sie direkt zum Schloss.",
+            "hu": "Egy rövid séta a sikátorokon keresztül egyenesen a kastélyhoz vezet.",
+            "ro": "O scurtă plimbare pe străduțe vă duce direct la castel.",
+            "en": "A short walk through the alleys leads you directly to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Bernegg (Cluster Aussicht)",
+            "hu": "Bernegg romjai (Kilátás klaszter)",
+            "ro": "Ruinele Bernegg (Cluster Belvedere)",
+            "en": "Bernegg Ruins (Viewpoint Cluster)"
+          },
+          "coords": [
+            8.885,
+            47.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Richtung Emmingen und steigen Sie nahe der Ruine aus.",
+            "hu": "Vegye az Emmingen felé tartó buszt, és szálljon le a romok közelében.",
+            "ro": "Luați autobuzul spre Emmingen și coborâți lângă ruine.",
+            "en": "Take the bus towards Emmingen and get off near the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Murg-Auen-Park (Cluster Natur)",
+            "hu": "Murg-Auen-Park (Természet klaszter)",
+            "ro": "Parcul Murg-Auen (Cluster Natură)",
+            "en": "Murg-Auen Park (Nature Cluster)"
+          },
+          "coords": [
+            8.8955,
+            47.554
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Verschiedene Buslinien halten in der Nähe des Parks. Ideal für die Mittagspause.",
+            "hu": "Több buszjárat is megáll a park közelében. Ideális ebédszünetre.",
+            "ro": "Mai multe linii de autobuz opresc lângă parc. Ideal pentru pauza de prânz.",
+            "en": "Several bus lines stop near the park. Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Walk on the riverbank"
+          },
+          "coords": [
+            8.894,
+            47.553
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie dem Pfad nach Süden für eine ruhige Auszeit.",
+            "hu": "Kövesse az ösvényt dél felé egy csendes pihenőért.",
+            "ro": "Urmați cărarea spre sud pentru o pauză liniștită.",
+            "en": "Follow the path south for a quiet break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof und nehmen Sie den Bus zum ersten Cluster, der Altstadt. Erkunden Sie Rathaus und Schloss zu Fuss. Nehmen Sie dann einen anderen Bus zur Ruine Bernegg für eine tolle Aussicht. Am Nachmittag bringt Sie der Bus zum Murg-Auen-Park, wo Sie am Flussufer spazieren und entspannen können, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Kezdje a pályaudvaron, és menjen busszal az első klaszterhez, az óvároshoz. Fedezze fel gyalog a városházát és a kastélyt. Ezután egy másik busszal menjen fel a Bernegg romjaihoz a remek kilátásért. Délután a busz elviszi a Murg-Auen-Parkba, ahol sétálhat és pihenhet a folyóparton, mielőtt visszatérne a pályaudvarra.",
+        "ro": "Începeți de la gară și luați autobuzul către primul cluster, centrul vechi. Explorați primăria și castelul pe jos. Apoi, luați un alt autobuz către Ruinele Bernegg pentru o priveliște minunată. După-amiaza, autobuzul vă va duce la Parcul Murg-Auen, unde vă puteți plimba și relaxa pe malul râului înainte de a vă întoarce la gară.",
+        "en": "Start at the train station and take the bus to the first cluster, the old town. Explore the town hall and castle on foot. Then take another bus to the Bernegg Ruins for a great view. In the afternoon, the bus will take you to Murg-Auen Park, where you can walk and relax by the river before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thurgauer Süssmost",
+            "tip": "Probieren Sie den lokalen Apfelsaft, eine Spezialität der Region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Ein traditionelles Restaurant mit gemütlicher Atmosphäre und regionaler Küche."
+          },
+          {
+            "name": "Käsespezialitäten",
+            "tip": "Besuchen Sie einen lokalen Markt für eine Auswahl an Thurgauer Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thurgaui almabor",
+            "tip": "Kóstolja meg a helyi almalevet, a régió specialitását."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Hagyományos étterem otthonos légkörrel és regionális konyhával."
+          },
+          {
+            "name": "Sajtkülönlegességek",
+            "tip": "Látogasson el egy helyi piacra a thurgaui sajtok választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidru de mere Thurgau",
+            "tip": "Încercați sucul de mere local, o specialitate a regiunii."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "Un restaurant tradițional cu o atmosferă primitoare și bucătărie regională."
+          },
+          {
+            "name": "Specialități de brânză",
+            "tip": "Vizitați o piață locală pentru o selecție de brânzeturi din Thurgau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thurgau Apple Cider",
+            "tip": "Try the local apple juice, a specialty of the region."
+          },
+          {
+            "name": "Restaurant zum Goldenen Kreuz",
+            "tip": "A traditional restaurant with a cozy atmosphere and regional cuisine."
+          },
+          {
+            "name": "Cheese Specialties",
+            "tip": "Visit a local market for a selection of Thurgau cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei Ruine Bernegg",
+            "tip": "Ein ruhiger Ort, um über die Landschaft zu blicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussufer im Murg-Auen-Park",
+            "tip": "Abseits der Hauptwege finden Sie friedliche Plätze.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof St. Nikolaus",
+            "tip": "Ein Ort der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a Bernegg romoknál",
+            "tip": "Csendes hely a táj megcsodálására.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyópart a Murg-Auen-Parkban",
+            "tip": "A fő utaktól távol békés helyeket talál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós templomkert",
+            "tip": "A csend helye a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la Ruinele Bernegg",
+            "tip": "Un loc liniștit pentru a privi peisajul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului în Parcul Murg-Auen",
+            "tip": "Departe de cărările principale veți găsi locuri pașnice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Sf. Nicolae",
+            "tip": "Un loc de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at Bernegg Ruins",
+            "tip": "A quiet place to look out over the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank in Murg-Auen Park",
+            "tip": "Away from the main paths you will find peaceful spots.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "A place of silence in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Frauenfeld",
+            "tip": "Jeden Mittwoch und Samstag in der Altstadt für frische Produkte und lokale Handwerkskunst."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Probieren Sie die berühmten 'Hüppen', eine lokale Waffelspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frauenfeldi heti piac",
+            "tip": "Minden szerdán és szombaton az óvárosban friss termékekért és helyi kézműves termékekért."
+          },
+          {
+            "name": "Hirt Cukrászda",
+            "tip": "Kóstolja meg a híres 'Hüppen'-t, a helyi ostyakülönlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Frauenfeld",
+            "tip": "În fiecare miercuri și sâmbătă în orașul vechi pentru produse proaspete și artizanat local."
+          },
+          {
+            "name": "Cofetăria Hirt",
+            "tip": "Încercați faimoasele 'Hüppen', o specialitate locală de napolitane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frauenfeld Weekly Market",
+            "tip": "Every Wednesday and Saturday in the old town for fresh produce and local crafts."
+          },
+          {
+            "name": "Confiserie Hirt",
+            "tip": "Try the famous 'Hüppen', a local wafer specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Postauto-Netz ist sehr effizient und verbindet alle wichtigen Punkte.",
+          "Laden Sie die SBB-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Eine Tageskarte ist oft günstiger als mehrere Einzelfahrten."
+        ],
+        "hu": [
+          "A PostBus hálózat nagyon hatékony és összeköti az összes fontos pontot.",
+          "Töltse le az SBB alkalmazást a valós idejű menetrendekért.",
+          "A napijegy gyakran olcsóbb, mint több különálló jegy."
+        ],
+        "ro": [
+          "Rețeaua PostBus este foarte eficientă și leagă toate punctele importante.",
+          "Descărcați aplicația SBB pentru a vedea orarele în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât mai multe călătorii individuale."
+        ],
+        "en": [
+          "The PostBus network is very efficient and connects all important points.",
+          "Download the SBB app to see real-time schedules.",
+          "A day ticket is often cheaper than several single trips."
+        ]
+      }
+    }
+  }
+}

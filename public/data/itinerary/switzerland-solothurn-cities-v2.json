@@ -1,0 +1,1471 @@
+{
+  "city_id": "switzerland-solothurn-cities-v2",
+  "anchor": {
+    "name": "Solothurn",
+    "coords": [
+      7.537,
+      47.208
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Baseltor",
+            "hu": "Baseli kapu",
+            "ro": "Poarta Basel",
+            "en": "Basel Gate"
+          },
+          "coords": [
+            7.5401,
+            47.2091
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Rundgang und bewundern Sie die massive Befestigungsanlage aus dem 16. Jahrhundert.",
+            "hu": "Kezdje itt a városnézést, és csodálja meg a 16. századi hatalmas erődítményt.",
+            "ro": "Începeți turul aici și admirați fortificațiile masive din secolul al XVI-lea.",
+            "en": "Start your tour here and admire the massive 16th-century fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeitglockenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas (Zeitglockenturm)",
+            "en": "Clock Tower (Zeitglockenturm)"
+          },
+          "coords": [
+            7.5375,
+            47.2082
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Warten Sie auf die volle Stunde, um das astronomische Uhrenspiel zu sehen – ein echtes Spektakel.",
+            "hu": "Várja meg az egész órát, hogy láthassa a csillagászati óra játékát – igazi látványosság.",
+            "ro": "Așteptați ora exactă pentru a vedea spectacolul ceasului astronomic – o adevărată reprezentație.",
+            "en": "Wait for the top of the hour to see the astronomical clock figures in action – a real spectacle."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Solothurn",
+            "hu": "Solothurni Városháza",
+            "ro": "Primăria din Solothurn",
+            "en": "Solothurn Town Hall"
+          },
+          "coords": [
+            7.537,
+            47.2075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die verschiedenen Baustile, die die lange Geschichte des Gebäudes widerspiegeln.",
+            "hu": "Figyelje meg a különböző építészeti stílusokat, amelyek az épület hosszú történetét tükrözik.",
+            "ro": "Observați diferitele stiluri arhitecturale, care reflectă istoria lungă a clădirii.",
+            "en": "Notice the different architectural styles, reflecting the building's long history."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkirche",
+            "hu": "Jezsuita templom",
+            "ro": "Biserica Iezuiților",
+            "en": "Jesuit Church"
+          },
+          "coords": [
+            7.5358,
+            47.2078
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die prachtvolle barocke Innenausstattung und die Stuckaturen auf sich wirken.",
+            "hu": "Hagyja, hogy a csodálatos barokk belső tér és a stukkók lenyűgözzék.",
+            "ro": "Lăsați-vă impresionați de interiorul baroc somptuos și de stucaturi.",
+            "en": "Take in the magnificent baroque interior and the stunning stucco work."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Ursen-Kathedrale",
+            "hu": "Szent Ursus-katedrális",
+            "ro": "Catedrala Sf. Ursus",
+            "en": "St. Ursus Cathedral"
+          },
+          "coords": [
+            7.5383,
+            47.2088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie die 249 Stufen zur Turmspitze für eine fantastische Aussicht über die Stadt und die Alpen.",
+            "hu": "Másszon fel a 249 lépcsőn a torony tetejére a városra és az Alpokra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați cele 249 de trepte până în vârful turnului pentru o priveliște fantastică asupra orașului și a Alpilor.",
+            "en": "Climb the 249 steps to the top of the tower for a fantastic view over the city and the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zeughaus",
+            "hu": "Régi Fegyvertár",
+            "ro": "Vechiul Arsenal (Altes Zeughaus)",
+            "en": "Old Arsenal Museum"
+          },
+          "coords": [
+            7.5395,
+            47.2095
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsfans: Hier befindet sich eine der grössten Rüstungssammlungen Europas.",
+            "hu": "A történelem rajongóinak kötelező: Európa egyik legnagyobb fegyvergyűjteménye található itt.",
+            "ro": "O necesitate pentru fanii istoriei: găzduiește una dintre cele mai mari colecții de armuri din Europa.",
+            "en": "A must-see for history buffs, housing one of Europe's largest collections of armor."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Aare",
+            "hu": "Séta az Aare partján",
+            "ro": "Plimbare pe malul râului Aare",
+            "en": "Stroll along the Aare River"
+          },
+          "coords": [
+            7.535,
+            47.206
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Geniessen Sie die ruhige Atmosphäre und den Blick auf das Wasser nach einem Tag voller Entdeckungen.",
+            "hu": "Élvezze a nyugodt légkört és a víz látványát egy felfedezéssel teli nap után.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de priveliștea apei după o zi plină de explorări.",
+            "en": "Enjoy the peaceful atmosphere and the view of the water after a day of exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Solothurn, der schönsten Barockstadt der Schweiz, beginnt in der charmanten Altstadt. Sie schlendern durch enge Gassen, vorbei an 11 historischen Brunnen und entdecken die architektonischen Juwelen rund um den Zeitglockenturm. Die Zahl 11 ist hier allgegenwärtig und prägt den Rhythmus der Stadt.\nAm Mittag erklimmen Sie den Turm der St.-Ursen-Kathedrale. Die Anstrengung wird mit einem atemberaubenden 360-Grad-Panorama belohnt, das von den Dächern der Stadt bis zu den majestätischen Gipfeln der Alpen reicht. Nach dem Abstieg erwartet Sie das Alte Zeughaus mit seiner beeindruckenden Sammlung an Rüstungen und Waffen.\nDer Nachmittag gehört der Entspannung am Ufer der Aare. Ein gemütlicher Spaziergang entlang des Flusses bietet eine willkommene Abwechslung und zeigt die Stadt von ihrer grünen Seite. Beobachten Sie die Schwäne und lassen Sie die Seele baumeln, bevor Sie sich auf den Abend einstimmen.\nZum Abschluss des Tages kehren Sie in eines der traditionellen Restaurants ein. Bei einem Glas Wein aus der Region und einer lokalen Spezialität lassen Sie die barocke Pracht und die vielen Eindrücke dieses unvergesslichen Tages in Solothurn Revue passieren.",
+        "hu": "A napja Solothurnban, Svájc legszebb barokk városában, a bájos óvárosban kezdődik. Szűk sikátorokon sétálhat, 11 történelmi kút mellett haladva, és felfedezheti az Óratorony körüli építészeti gyöngyszemeket. A 11-es szám itt mindenütt jelen van, és meghatározza a város ritmusát.\nDélben mássza meg a Szent Ursus-katedrális tornyát. Az erőfeszítést lélegzetelállító 360 fokos panoráma jutalmazza, amely a város tetőitől az Alpok fenséges csúcsaiig terjed. A leereszkedés után a Régi Fegyvertár várja lenyűgöző páncél- és fegyvergyűjteményével.\nA délután a pihenésé az Aare partján. Egy kellemes séta a folyó mentén üdítő kikapcsolódást nyújt, és megmutatja a város zöld oldalát. Figyelje a hattyúkat, és hagyja, hogy a lelke megpihenjen, mielőtt ráhangolódik az estére.\nA nap zárásaként térjen be egy hagyományos étterembe. Egy pohár helyi bor és egy helyi specialitás mellett elevenítse fel a barokk pompát és a felejthetetlen solothurni nap számos benyomását.",
+        "ro": "Ziua dvs. în Solothurn, cel mai frumos oraș baroc din Elveția, începe în fermecătorul oraș vechi. Vă plimbați pe străduțe înguste, pe lângă 11 fântâni istorice și descoperiți bijuteriile arhitecturale din jurul Turnului cu Ceas. Numărul 11 este omniprezent aici și marchează ritmul orașului.\nLa prânz, urcați în turnul Catedralei Sf. Ursus. Efortul este răsplătit cu o panoramă uluitoare de 360 de grade, care se întinde de la acoperișurile orașului până la vârfurile maiestuoase ale Alpilor. După coborâre, Vechiul Arsenal vă așteaptă cu impresionanta sa colecție de armuri și arme.\nDupă-amiaza este dedicată relaxării pe malul râului Aare. O plimbare agale de-a lungul râului oferă o schimbare binevenită și arată latura verde a orașului. Priviți lebedele și relaxați-vă înainte de a vă pregăti pentru seară.\nLa finalul zilei, opriți-vă la unul dintre restaurantele tradiționale. Cu un pahar de vin regional și o specialitate locală, retrăiți splendoarea barocă și numeroasele impresii ale acestei zile de neuitat în Solothurn.",
+        "en": "Your day in Solothurn, Switzerland's most beautiful baroque city, begins in the charming Old Town. You'll stroll through narrow alleys, past 11 historic fountains, and discover the architectural gems around the Clock Tower. The number 11 is omnipresent here, setting the city's rhythm.\nAt midday, you'll climb the tower of St. Ursus Cathedral. The effort is rewarded with a breathtaking 360-degree panorama, stretching from the city's rooftops to the majestic peaks of the Alps. After your descent, the Old Arsenal awaits with its impressive collection of armor and weapons.\nThe afternoon is for relaxation on the banks of the Aare river. A leisurely walk along the river offers a welcome change of pace and shows the city's green side. Watch the swans and unwind before getting ready for the evening.\nTo end the day, you'll visit one of the traditional restaurants. With a glass of regional wine and a local specialty, you can reflect on the baroque splendor and the many impressions of this unforgettable day in Solothurn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Solothurner Torte",
+            "tip": "Probieren Sie diese luftige Haselnuss-Meringue-Torte in der Confiserie Suteria."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Auch in Solothurn ein Klassiker. Geniessen Sie es im Restaurant Kreuz."
+          },
+          {
+            "name": "Fondue/Raclette",
+            "tip": "Für ein authentisches Schweizer Erlebnis besuchen Sie das Restaurant Vini."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solothurni torta",
+            "tip": "Kóstolja meg ezt a könnyű mogyorós habcsóktortát a Suteria cukrászdában."
+          },
+          {
+            "name": "Zürichi szeletelt borjú",
+            "tip": "Solothurnban is klasszikus. Fogyassza a Kreuz étteremben."
+          },
+          {
+            "name": "Fondü/Raclette",
+            "tip": "Egy autentikus svájci élményért látogasson el a Vini étterembe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort Solothurn",
+            "tip": "Încercați acest tort aerat cu bezea de alune la Confiserie Suteria."
+          },
+          {
+            "name": "Vițel feliat în stil Zurich",
+            "tip": "Un clasic chiar și în Solothurn. Savurați-l la Restaurant Kreuz."
+          },
+          {
+            "name": "Fondue/Raclette",
+            "tip": "Pentru o experiență elvețiană autentică, vizitați Restaurant Vini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solothurner Torte",
+            "tip": "Try this airy hazelnut meringue cake at the Confiserie Suteria."
+          },
+          {
+            "name": "Zürcher Geschnetzeltes (Sliced Veal Zurich-style)",
+            "tip": "A classic even in Solothurn. Enjoy it at Restaurant Kreuz."
+          },
+          {
+            "name": "Fondue/Raclette",
+            "tip": "For an authentic Swiss experience, visit the Vini restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsiedelei St. Verena",
+            "tip": "Ein mystischer Ort der Ruhe in einer idyllischen Schlucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aareufer",
+            "tip": "Setzen Sie sich auf eine Bank am Fluss und beobachten Sie das fliessende Wasser.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten des Palais Besenval",
+            "tip": "Eine kleine, versteckte Oase der Stille mitten in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Verena remetelak",
+            "tip": "A nyugalom misztikus helye egy idilli szurdokban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare partja",
+            "tip": "Üljön le egy padra a folyó mellett, és nézze a vizet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Palais Besenval kertje",
+            "tip": "Egy kicsi, rejtett csendes oázis a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Sf. Verena",
+            "tip": "Un loc mistic de pace într-o prăpastie idilică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Aare",
+            "tip": "Așezați-vă pe o bancă lângă râu și priviți apa curgând.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina Palatului Besenval",
+            "tip": "O mică oază ascunsă de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of St. Verena",
+            "tip": "A mystical place of peace in an idyllic gorge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare Riverbank",
+            "tip": "Sit on a bench by the river and watch the water flow by.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garden of Palais Besenval",
+            "tip": "A small, hidden oasis of tranquility in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Besuchen Sie den Markt am Samstagmorgen für lokale Produkte und eine lebhafte Atmosphäre."
+          },
+          {
+            "name": "Confiserie Suteria",
+            "tip": "Nehmen Sie die berühmte Solothurner Torte als süsses Souvenir mit nach Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Látogasson el a szombat reggeli piacra helyi termékekért és élénk hangulatért."
+          },
+          {
+            "name": "Suteria Cukrászda",
+            "tip": "Vigye haza a híres Solothurni tortát édes emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Vizitați piața sâmbătă dimineața pentru produse locale și o atmosferă plină de viață."
+          },
+          {
+            "name": "Confiserie Suteria",
+            "tip": "Luați acasă faimosul tort Solothurn ca suvenir dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Visit the market on Saturday mornings for local produce and a lively atmosphere."
+          },
+          {
+            "name": "Confiserie Suteria",
+            "tip": "Take the famous Solothurner Torte home as a sweet souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Achten Sie auf die Zahl 11 – 11 Kirchen, 11 Brunnen, 11 Museen und die Uhr mit nur 11 Stunden.",
+          "Viele Geschäfte schliessen über Mittag. Planen Sie Ihren Einkaufsbummel entsprechend.",
+          "Ein Spaziergang entlang der Aare ist bei Sonnenuntergang besonders schön."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Figyeljen a 11-es számra – 11 templom, 11 kút, 11 múzeum és az óra, amelyen csak 11 óra van.",
+          "Sok üzlet bezár ebédidőben. Tervezze a vásárlást ennek megfelelően.",
+          "Egy séta az Aare mentén naplementekor különösen szép."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Fiți atenți la numărul 11 – 11 biserici, 11 fântâni, 11 muzee și ceasul cu doar 11 ore.",
+          "Multe magazine se închid la prânz. Planificați-vă cumpărăturile în consecință.",
+          "O plimbare de-a lungul râului Aare este deosebit de frumoasă la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the Old Town can be uneven.",
+          "Look out for the number 11 – 11 churches, 11 fountains, 11 museums, and the clock with only 11 hours.",
+          "Many shops close for lunch. Plan your shopping accordingly.",
+          "A walk along the Aare river is especially beautiful at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Landhaus",
+            "hu": "Landhaus",
+            "ro": "Landhaus",
+            "en": "Landhaus"
+          },
+          "coords": [
+            7.5342,
+            47.2071
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Flussufer und bewundern Sie dieses prächtige Gebäude, das einst als Arsenal diente.",
+            "hu": "Kezdje a folyóparton, és csodálja meg ezt a pompás épületet, amely egykor fegyvertárként szolgált.",
+            "ro": "Începeți de pe malul râului și admirați această clădire splendidă care a servit cândva ca arsenal.",
+            "en": "Start on the riverbank and admire this magnificent building that once served as an arsenal."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            7.537,
+            47.2075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den belebten Platz, das Herz der Altstadt.",
+            "hu": "Tegye le a biciklit, és fedezze fel a nyüzsgő teret, az óváros szívét.",
+            "ro": "Parcați bicicleta și explorați piața plină de viață, inima orașului vechi.",
+            "en": "Park your bike and explore the bustling square, the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Ursen-Kathedrale",
+            "hu": "Szent Ursus-katedrális",
+            "ro": "Catedrala Sf. Ursus",
+            "en": "St. Ursus Cathedral"
+          },
+          "coords": [
+            7.5383,
+            47.2088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schliessen Sie Ihr Fahrrad an und nehmen Sie sich Zeit für das Innere und den möglichen Turmaufstieg.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt a belső térre és az esetleges toronymászásra.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru interior și posibila urcare în turn.",
+            "en": "Lock up your bike and take time for the interior and the optional tower climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zeughaus",
+            "hu": "Régi Fegyvertár",
+            "ro": "Vechiul Arsenal (Altes Zeughaus)",
+            "en": "Old Arsenal Museum"
+          },
+          "coords": [
+            7.5395,
+            47.2095
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, ein kurzer Weg zu einer faszinierenden Waffensammlung.",
+            "hu": "Közvetlenül a katedrális mellett található, egy rövid út egy lenyűgöző fegyvergyűjteményhez.",
+            "ro": "Situat chiar lângă catedrală, o scurtă plimbare până la o colecție fascinantă de arme.",
+            "en": "Located right next to the cathedral, a short hop to a fascinating weapons collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Aare",
+            "hu": "Kerékpártúra az Aare mentén",
+            "ro": "Tur cu bicicleta de-a lungul râului Aare",
+            "en": "Bike ride along the Aare River"
+          },
+          "coords": [
+            7.525,
+            47.205
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Fluss nach Westen für eine entspannte Fahrt mit schönen Ausblicken.",
+            "hu": "Kövesse a folyót nyugat felé egy pihentető tekerésért, gyönyörű kilátással.",
+            "ro": "Urmați râul spre vest pentru o plimbare relaxantă cu priveliști frumoase.",
+            "en": "Follow the river west for a relaxing ride with beautiful views."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei in der Verenaschlucht",
+            "hu": "Remetelak a Verena-szurdokban",
+            "ro": "Schitul din defileul Verena",
+            "en": "Hermitage in the Verena Gorge"
+          },
+          "coords": [
+            7.538,
+            47.227
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Fahrt nach Norden ist ein kleiner Anstieg, aber die mystische Atmosphäre der Schlucht ist es wert.",
+            "hu": "Az északi út egy kis emelkedő, de a szurdok misztikus hangulata megéri.",
+            "ro": "Drumul spre nord este o mică urcare, dar atmosfera mistică a defileului merită.",
+            "en": "The ride north is a bit of a climb, but the mystical atmosphere of the gorge is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erleben Sie Solothurns barocke Schönheit und die umliegende Natur hautnah. Ihre Tour startet am Aareufer beim prachtvollen Landhaus, von wo aus Sie schnell das Herz der Altstadt erreichen. Sie stellen Ihr Rad am Marktplatz ab, um das pulsierende Zentrum zu Fuss zu erkunden.\nDer Vormittag ist den Wahrzeichen gewidmet: der imposanten St.-Ursen-Kathedrale und dem geschichtsträchtigen Alten Zeughaus. Nehmen Sie sich Zeit, die Kunstschätze und die einzigartige Atmosphäre dieser Orte aufzusaugen, bevor Sie sich wieder in den Sattel schwingen.\nNach der Kultur folgt die Natur. Eine entspannte Fahrt führt Sie am Nachmittag entlang des malerischen Aareufers. Der gut ausgebaute Radweg bietet immer wieder neue Perspektiven auf die Stadt und die Landschaft. Geniessen Sie die frische Luft und die Ruhe am Wasser.\nAls krönenden Abschluss wagen Sie den Anstieg zur Verenaschlucht. Die kurze Anstrengung wird mit dem Besuch der Einsiedelei belohnt, einem Ort der Stille und Spiritualität, eingebettet in eine wildromantische Naturkulisse. Von hier aus kehren Sie mit vielen Eindrücken in die Stadt zurück.",
+        "hu": "Két keréken testközelből élheti át Solothurn barokk szépségét és a környező természetet. A túra az Aare partján, a pompás Landhausnál kezdődik, ahonnan gyorsan elérheti az óváros szívét. A biciklit a piactéren hagyja, hogy gyalog fedezze fel a lüktető központot.\nA délelőtt a nevezetességeké: az impozáns Szent Ursus-katedrális és a történelmi Régi Fegyvertár. Szánjon időt a műkincsek és e helyek egyedi hangulatának befogadására, mielőtt újra nyeregbe pattan.\nA kultúra után a természet következik. Egy pihentető út vezet délután a festői Aare partján. A jól kiépített kerékpárút mindig új perspektívákat kínál a városra és a tájra. Élvezze a friss levegőt és a vízparti csendet.\nMegkoronázásként merészkedjen fel a Verena-szurdokhoz. A rövid erőfeszítést a remetelak meglátogatása jutalmazza, amely a csend és a spiritualitás helye, egy vadregényes természeti környezetbe ágyazva. Innen sok benyomással tér vissza a városba.",
+        "ro": "Pe două roți, veți experimenta frumusețea barocă a orașului Solothurn și natura înconjurătoare de aproape. Turul dvs. începe pe malul râului Aare, la magnificul Landhaus, de unde ajungeți rapid în inima orașului vechi. Vă lăsați bicicleta în piață pentru a explora centrul plin de viață pe jos.\nDimineața este dedicată punctelor de atracție: impunătoarea Catedrală Sf. Ursus și istoricul Vechi Arsenal. Luați-vă timp pentru a absorbi comorile de artă și atmosfera unică a acestor locuri înainte de a vă urca din nou pe bicicletă.\nDupă cultură, urmează natura. O plimbare relaxantă vă poartă de-a lungul malului pitoresc al râului Aare după-amiaza. Pista de biciclete bine dezvoltată oferă în mod constant noi perspective asupra orașului și peisajului. Bucurați-vă de aerul proaspăt și de liniștea de pe malul apei.\nCa o finală grandioasă, îndrăzniți să urcați la defileul Verena. Scurtul efort este răsplătit cu o vizită la schit, un loc de liniște și spiritualitate, amplasat într-un cadru natural sălbatic și romantic. De aici, vă întoarceți în oraș cu multe impresii.",
+        "en": "On two wheels, you'll experience Solothurn's baroque beauty and surrounding nature up close. Your tour starts on the Aare riverbank at the magnificent Landhaus, from where you can quickly reach the heart of the Old Town. You'll park your bike at the market square to explore the vibrant center on foot.\nThe morning is dedicated to the landmarks: the imposing St. Ursus Cathedral and the historic Old Arsenal. Take your time to soak up the art treasures and unique atmosphere of these places before getting back in the saddle.\nAfter culture comes nature. A relaxing ride takes you along the picturesque banks of the Aare in the afternoon. The well-maintained cycle path constantly offers new perspectives of the city and the landscape. Enjoy the fresh air and the tranquility by the water.\nFor a grand finale, venture the climb to the Verena Gorge. The short effort is rewarded with a visit to the hermitage, a place of peace and spirituality, nestled in a wild and romantic natural setting. From here, you'll return to the city full of impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Solothurner Torte",
+            "tip": "Eine süsse Belohnung nach der Radtour. In der Confiserie Suteria."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Das Schweizer Nationalgetränk zur Erfrischung."
+          },
+          {
+            "name": "Restaurant an der Aare",
+            "tip": "Geniessen Sie ein Mittagessen mit Flussblick im Restaurant Aaregarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solothurni torta",
+            "tip": "Édes jutalom a biciklitúra után. A Suteria cukrászdában."
+          },
+          {
+            "name": "Rivella",
+            "tip": "A svájci nemzeti ital frissítőként."
+          },
+          {
+            "name": "Étterem az Aare partján",
+            "tip": "Ebédeljen folyóra néző kilátással az Aaregarten étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort Solothurn",
+            "tip": "O recompensă dulce după turul cu bicicleta. La Confiserie Suteria."
+          },
+          {
+            "name": "Rivella",
+            "tip": "Băutura națională elvețiană pentru a vă reîmprospăta."
+          },
+          {
+            "name": "Restaurant pe Aare",
+            "tip": "Bucurați-vă de un prânz cu vedere la râu la restaurantul Aaregarten."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solothurner Torte",
+            "tip": "A sweet reward after the bike tour. At the Confiserie Suteria."
+          },
+          {
+            "name": "Rivella",
+            "tip": "The Swiss national drink for refreshment."
+          },
+          {
+            "name": "Restaurant on the Aare",
+            "tip": "Enjoy lunch with a river view at the Aaregarten restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsiedelei St. Verena",
+            "tip": "Absoluter Frieden und eine besondere spirituelle Atmosphäre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aareuferweg",
+            "tip": "Der Radweg selbst ist ein Ort der Ruhe, besonders ausserhalb der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgarten",
+            "tip": "Ein kleiner, oft übersehener Garten, ideal für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Verena remetelak",
+            "tip": "Abszolút béke és különleges spirituális légkör.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare menti kerékpárút",
+            "tip": "Maga a kerékpárút a nyugalom helye, különösen a városon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgarten",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott kert, ideális egy rövid szünetre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Sf. Verena",
+            "tip": "Pace absolută și o atmosferă spirituală specială.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pista de biciclete de pe Aare",
+            "tip": "Pista de biciclete în sine este un loc de liniște, mai ales în afara orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgarten",
+            "tip": "O grădină mică, adesea trecută cu vederea, ideală pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of St. Verena",
+            "tip": "Absolute peace and a special spiritual atmosphere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare cycle path",
+            "tip": "The cycle path itself is a place of tranquility, especially outside the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kreuzgarten",
+            "tip": "A small, often overlooked garden, ideal for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Öufi-Bier",
+            "tip": "Ein lokales Bier (benannt nach der Zahl 11), ein perfektes Mitbringsel."
+          },
+          {
+            "name": "Velogeschäft",
+            "tip": "Suchen Sie nach lokalen Accessoires oder einem Souvenir in einem der Fahrradläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öufi sör",
+            "tip": "Helyi sör (a 11-es számról elnevezve), tökéletes ajándék."
+          },
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Keressen helyi kiegészítőket vagy emléktárgyakat az egyik kerékpárboltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea Öufi",
+            "tip": "O bere locală (numită după numărul 11), un suvenir perfect."
+          },
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Căutați accesorii locale sau un suvenir la unul dintre magazinele de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Öufi Beer",
+            "tip": "A local beer (named after the number 11), a perfect souvenir."
+          },
+          {
+            "name": "Bike Shop",
+            "tip": "Look for local accessories or a souvenir at one of the bike shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof Solothurn, wenn Sie keines dabeihaben.",
+          "Die Radwege entlang der Aare sind flach und für alle Fitnesslevel geeignet.",
+          "Schliessen Sie Ihr Fahrrad in der Altstadt immer gut ab.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Fahrt zur Verenaschlucht."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a solothurni vasútállomáson, ha nincs sajátja.",
+          "Az Aare menti kerékpárutak síkak és minden edzettségi szintnek megfelelnek.",
+          "Mindig gondosan zárja le a kerékpárt az óvárosban.",
+          "Vigyen magával egy vizes palackot, különösen a Verena-szurdokba vezető útra."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gara Solothurn dacă nu aveți una.",
+          "Pistele de biciclete de-a lungul râului Aare sunt plate și potrivite pentru toate nivelurile de fitness.",
+          "Încuiați-vă întotdeauna bine bicicleta în orașul vechi.",
+          "Luați o sticlă de apă cu dvs., mai ales pentru drumul spre defileul Verena."
+        ],
+        "en": [
+          "Rent a bike at Solothurn train station if you don't have one.",
+          "The cycle paths along the Aare are flat and suitable for all fitness levels.",
+          "Always lock your bike securely in the Old Town.",
+          "Bring a water bottle, especially for the ride to the Verena Gorge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Baseltor & Altstadt-Cluster",
+            "hu": "Baseltor parkolóház és Óváros-klaszter",
+            "ro": "Parcarea Baseltor & Clusterul Orașul Vechi",
+            "en": "Baseltor Parking & Old Town Cluster"
+          },
+          "coords": [
+            7.541,
+            47.21
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Vormittag. Von hier aus ist die gesamte Altstadt bequem zu Fuss erreichbar.",
+            "hu": "Parkolja le itt az autóját a délelőttre. Innen az egész óváros kényelmesen elérhető gyalog.",
+            "ro": "Parcați-vă mașina aici pentru dimineață. De aici, întregul oraș vechi este ușor accesibil pe jos.",
+            "en": "Park your car here for the morning. The entire Old Town is easily accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeitglockenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas (Zeitglockenturm)",
+            "en": "Clock Tower (Zeitglockenturm)"
+          },
+          "coords": [
+            7.5375,
+            47.2082
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch die Altstadt. Ein kurzer Weg vom Parkhaus.",
+            "hu": "Az óvárosi séta első állomása. Rövid séta a parkolóháztól.",
+            "ro": "Prima oprire a plimbării dvs. prin orașul vechi. La mică distanță de parcare.",
+            "en": "The first stop on your walk through the Old Town. A short walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Ursen-Kathedrale",
+            "hu": "Szent Ursus-katedrális",
+            "ro": "Catedrala Sf. Ursus",
+            "en": "St. Ursus Cathedral"
+          },
+          "coords": [
+            7.5383,
+            47.2088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das dominante Wahrzeichen der Stadt ist nur wenige Schritte entfernt.",
+            "hu": "A város domináns jelképe csak néhány lépésre van.",
+            "ro": "Reperul dominant al orașului este la doar câțiva pași distanță.",
+            "en": "The dominant landmark of the city is just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zeughaus",
+            "hu": "Régi Fegyvertár",
+            "ro": "Vechiul Arsenal (Altes Zeughaus)",
+            "en": "Old Arsenal Museum"
+          },
+          "coords": [
+            7.5395,
+            47.2095
+          ],
+          "category": "museums",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Altstadt-Rundgang mit einem Besuch dieser beeindruckenden Sammlung.",
+            "hu": "Fejezze be az óvárosi sétát ennek a lenyűgöző gyűjteménynek a meglátogatásával.",
+            "ro": "Încheiați turul orașului vechi cu o vizită la această colecție impresionantă.",
+            "en": "Finish your Old Town tour with a visit to this impressive collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei in der Verenaschlucht",
+            "hu": "Remetelak a Verena-szurdokban",
+            "ro": "Schitul din defileul Verena",
+            "en": "Hermitage in the Verena Gorge"
+          },
+          "coords": [
+            7.538,
+            47.227
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Norden zum Parkplatz der Schlucht. Ein schöner Spaziergang führt Sie zur Einsiedelei.",
+            "hu": "Vezessen északra a szurdok parkolójához. Egy szép séta vezet a remetelakhoz.",
+            "ro": "Conduceți spre nord până la parcarea defileului. O plimbare frumoasă vă va duce la schit.",
+            "en": "Drive north to the gorge's parking lot. A beautiful walk will lead you to the hermitage."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang in der Schlucht",
+            "hu": "Séta a szurdokban",
+            "ro": "Plimbare în defileu",
+            "en": "Walk in the Gorge"
+          },
+          "coords": [
+            7.537,
+            47.228
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Pfade rund um die Einsiedelei und geniessen Sie die Stille der Natur.",
+            "hu": "Fedezze fel a remetelak körüli ösvényeket, és élvezze a természet csendjét.",
+            "ro": "Explorați potecile din jurul schitului și bucurați-vă de liniștea naturii.",
+            "en": "Explore the paths around the hermitage and enjoy the silence of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Landhaus & Aareufer",
+            "hu": "Landhaus és Aare-part",
+            "ro": "Landhaus & malul râului Aare",
+            "en": "Landhaus & Aare Riverbank"
+          },
+          "coords": [
+            7.5342,
+            47.2071
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und parken Sie am Flussufer für einen entspannten Nachmittagskaffee.",
+            "hu": "Vezessen vissza a városba, és parkoljon a folyóparton egy pihentető délutáni kávéra.",
+            "ro": "Conduceți înapoi în oraș și parcați pe malul râului pentru o cafea relaxantă de după-amiază.",
+            "en": "Drive back to the city and park by the riverbank for a relaxing afternoon coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto geniessen Sie maximale Flexibilität, um Solothurn und seine Umgebung zu entdecken. Sie beginnen den Tag, indem Sie Ihr Auto im Parkhaus Baseltor abstellen und das erste Cluster erkunden: die historische Altstadt. Zu Fuss entdecken Sie den Zeitglockenturm, die prunkvolle St.-Ursen-Kathedrale und das Alte Zeughaus.\nNachdem Sie die barocke Pracht aufgesogen haben, steigen Sie wieder ins Auto. Ihr nächstes Ziel ist die idyllische Verenaschlucht nördlich der Stadt. Eine kurze Fahrt bringt Sie zu diesem Ort der Ruhe. Hier beginnt Ihr zweites Cluster: ein Spaziergang zur mystischen Einsiedelei, umgeben von Wald und Felsen.\nAm Nachmittag fahren Sie zurück Richtung Zentrum und parkieren für Ihr drittes Cluster am Aareufer. Ein entspannter Spaziergang entlang des Flusses oder ein Kaffee in einem der Ufercafés bildet den perfekten Kontrast zum Vormittag. Sie geniessen die Atmosphäre und den Blick auf das Wasser.\nDer Tag endet in der Altstadt, wo Sie Ihr Auto am Morgen gelassen haben. Wählen Sie eines der exzellenten Restaurants für ein Abendessen und lassen Sie die vielfältigen Eindrücke – von städtischer Eleganz bis zu naturnaher Spiritualität – nachklingen.",
+        "hu": "Autóval maximális rugalmasságot élvezhet Solothurn és környéke felfedezéséhez. A napot a Baseltor parkolóházban kezdve, az első klasztert, a történelmi óvárost gyalogosan fedezheti fel. Megnézheti az Óratornyot, a pompás Szent Ursus-katedrálist és a Régi Fegyvertárat.\nMiután magába szívta a barokk pompát, visszaül az autóba. A következő cél az idilli Verena-szurdok a várostól északra. Egy rövid út után eléri ezt a csendes helyet. Itt kezdődik a második klaszter: séta a misztikus remetelakhoz, erdővel és sziklákkal körülvéve.\nDélután visszavezet a központ felé, és a harmadik klaszterhez az Aare partján parkol. Egy pihentető séta a folyó mentén vagy egy kávé a parti kávézók egyikében tökéletes kontrasztot alkot a délelőttel. Élvezze a hangulatot és a víz látványát.\nA nap az óvárosban ér véget, ahol reggel hagyta az autóját. Válasszon egyet a kiváló éttermek közül vacsorára, és hagyja leülepedni a sokféle benyomást – a városi eleganciától a természeti spiritualitásig.",
+        "ro": "Cu mașina, vă bucurați de flexibilitate maximă pentru a descoperi Solothurn și împrejurimile sale. Începeți ziua parcându-vă mașina în parcarea Baseltor și explorând primul cluster: centrul istoric. Pe jos, descoperiți Turnul cu Ceas, somptuoasa Catedrală Sf. Ursus și Vechiul Arsenal.\nDupă ce ați absorbit splendoarea barocă, vă urcați din nou în mașină. Următoarea destinație este idilicul defileu Verena, la nord de oraș. O scurtă călătorie cu mașina vă duce în acest loc de liniște. Aici începe al doilea cluster: o plimbare până la schitul mistic, înconjurat de pădure și stânci.\nDupă-amiaza, vă întoarceți spre centru și parcați pentru al treilea cluster pe malul râului Aare. O plimbare relaxantă de-a lungul râului sau o cafea la una dintre cafenelele de pe mal formează contrastul perfect cu dimineața. Vă bucurați de atmosferă și de priveliștea apei.\nZiua se încheie în orașul vechi, unde v-ați lăsat mașina dimineața. Alegeți unul dintre restaurantele excelente pentru cină și lăsați impresiile variate – de la eleganța urbană la spiritualitatea apropiată de natură – să se așeze.",
+        "en": "By car, you enjoy maximum flexibility to discover Solothurn and its surroundings. You start the day by parking your car at the Baseltor parking garage and exploring the first cluster: the historic Old Town. On foot, you'll discover the Clock Tower, the magnificent St. Ursus Cathedral, and the Old Arsenal.\nAfter soaking up the baroque splendor, you get back in the car. Your next destination is the idyllic Verena Gorge, north of the city. A short drive takes you to this place of tranquility. Here begins your second cluster: a walk to the mystical hermitage, surrounded by forest and rocks.\nIn the afternoon, you drive back towards the center and park for your third cluster on the banks of the Aare river. A relaxing walk along the river or a coffee in one of the riverside cafes provides the perfect contrast to the morning. You enjoy the atmosphere and the view of the water.\nThe day ends in the Old Town, where you left your car in the morning. Choose one of the excellent restaurants for dinner and let the diverse impressions – from urban elegance to nature-infused spirituality – sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant zum alten Stephan",
+            "tip": "Ein historisches Restaurant in der Altstadt für gehobene Schweizer Küche."
+          },
+          {
+            "name": "Gasthof Einsiedelei",
+            "tip": "Kombinieren Sie Ihren Ausflug in die Schlucht mit einer Einkehr in diesem charmanten Restaurant."
+          },
+          {
+            "name": "Solothurner Wysüppli",
+            "tip": "Eine lokale Spezialität, eine Weissweinsuppe, die Sie probieren sollten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant zum alten Stephan",
+            "tip": "Történelmi étterem az óvárosban, emelkedett svájci konyhával."
+          },
+          {
+            "name": "Gasthof Einsiedelei",
+            "tip": "Kösse össze a szurdoktúrát egy ebéddel ebben a bájos étteremben."
+          },
+          {
+            "name": "Solothurni borleves (Wysüppli)",
+            "tip": "Helyi specialitás, egy fehérborleves, amit érdemes megkóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant zum alten Stephan",
+            "tip": "Un restaurant istoric în orașul vechi pentru bucătărie elvețiană rafinată."
+          },
+          {
+            "name": "Gasthof Einsiedelei",
+            "tip": "Combinați excursia în defileu cu o oprire la acest restaurant fermecător."
+          },
+          {
+            "name": "Solothurner Wysüppli",
+            "tip": "O specialitate locală, o supă de vin alb pe care ar trebui să o încercați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant zum alten Stephan",
+            "tip": "A historic restaurant in the Old Town for upscale Swiss cuisine."
+          },
+          {
+            "name": "Gasthof Einsiedelei",
+            "tip": "Combine your trip to the gorge with a stop at this charming restaurant."
+          },
+          {
+            "name": "Solothurner Wysüppli",
+            "tip": "A local specialty, a white wine soup you should try."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsiedelei St. Verena",
+            "tip": "Der Inbegriff von Ruhe und Spiritualität, weit weg vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aareufer bei Altreu",
+            "tip": "Eine kurze Autofahrt entfernt liegt das Storchendorf Altreu, ein idyllischer Ort.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Museumsgärten",
+            "tip": "Viele Museen haben ruhige Gärten, die zum Verweilen einladen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Verena remetelak",
+            "tip": "A béke és spiritualitás megtestesítője, távol a városi nyüzsgéstől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare-part Altreunál",
+            "tip": "Egy rövid autóútra található Altreu gólyafalu, egy idilli hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Múzeumkertek",
+            "tip": "Sok múzeumnak van csendes kertje, amely pihenésre csábít.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Sf. Verena",
+            "tip": "Epitomea liniștii și spiritualității, departe de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Aare la Altreu",
+            "tip": "La o scurtă distanță cu mașina se află satul de berze Altreu, un loc idilic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile muzeelor",
+            "tip": "Multe muzee au grădini liniștite care invită la relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of St. Verena",
+            "tip": "The epitome of peace and spirituality, far from the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aare bank at Altreu",
+            "tip": "A short drive away is the stork village of Altreu, an idyllic spot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Museum Gardens",
+            "tip": "Many museums have quiet gardens that are perfect for a relaxing break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Nutzen Sie das Auto, um Hofläden mit frischen, regionalen Produkten zu entdecken."
+          },
+          {
+            "name": "Solothurner Torte",
+            "tip": "Leicht mit dem Auto zu transportieren. Ein süsses Stück Solothurn für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a környéken",
+            "tip": "Használja az autót, hogy felfedezze a friss, regionális termékeket kínáló tanyasi boltokat."
+          },
+          {
+            "name": "Solothurni torta",
+            "tip": "Könnyen szállítható autóval. Egy édes darab Solothurn otthonra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la fermă din zonă",
+            "tip": "Folosiți mașina pentru a descoperi magazine de la fermă cu produse proaspete, regionale."
+          },
+          {
+            "name": "Tort Solothurn",
+            "tip": "Ușor de transportat cu mașina. O bucată dulce de Solothurn pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Use the car to discover farm shops with fresh, regional products."
+          },
+          {
+            "name": "Solothurner Torte",
+            "tip": "Easy to transport by car. A sweet piece of Solothurn for home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Planen Sie genügend Zeit für den Verkehr ein, besonders zu Stosszeiten.",
+          "Ein Navigationsgerät ist hilfreich, um die Parkplätze und Ausflugsziele zu finden.",
+          "Die Kombination von Auto und kurzen Spaziergängen ist ideal, um die Region zu erleben."
+        ],
+        "hu": [
+          "Tájékozódjon előre a parkolási lehetőségekről és díjakról.",
+          "Tervezzen elegendő időt a forgalomra, különösen csúcsidőben.",
+          "A navigációs eszköz segít megtalálni a parkolókat és a kirándulóhelyeket.",
+          "Az autó és a rövid séták kombinációja ideális a régió megismeréséhez."
+        ],
+        "ro": [
+          "Informați-vă în avans despre opțiunile și taxele de parcare.",
+          "Planificați suficient timp pentru trafic, mai ales la orele de vârf.",
+          "Un sistem de navigație este util pentru a găsi parcări și destinații de excursie.",
+          "Combinația dintre mașină și plimbări scurte este ideală pentru a experimenta regiunea."
+        ],
+        "en": [
+          "Find out about parking options and fees in advance.",
+          "Allow enough time for traffic, especially during peak hours.",
+          "A navigation device is helpful for finding parking lots and excursion destinations.",
+          "The combination of car and short walks is ideal for experiencing the region."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & Altstadt-Cluster",
+            "hu": "Főpályaudvar és Óváros-klaszter",
+            "ro": "Gara Centrală & Clusterul Orașul Vechi",
+            "en": "Main Station & Old Town Cluster"
+          },
+          "coords": [
+            7.535,
+            47.205
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Hauptbahnhof und gehen Sie über die Brücke in die Altstadt.",
+            "hu": "Kezdje a főpályaudvarnál, és menjen át a hídon az óvárosba.",
+            "ro": "Începeți la gara principală și traversați podul în orașul vechi.",
+            "en": "Start at the main train station and walk across the bridge into the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            7.537,
+            47.2075
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Spaziergangs durch das erste Cluster, das Herz der Stadt.",
+            "hu": "Az első klaszteren belüli séta első állomása, a város szíve.",
+            "ro": "Prima oprire a plimbării dvs. prin primul cluster, inima orașului.",
+            "en": "The first stop on your walk through the first cluster, the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Jesuitenkirche",
+            "hu": "Jezsuita templom",
+            "ro": "Biserica Iezuiților",
+            "en": "Jesuit Church"
+          },
+          "coords": [
+            7.5358,
+            47.2078
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein barockes Meisterwerk, nur wenige Schritte vom Marktplatz entfernt.",
+            "hu": "Barokk remekmű, csak néhány lépésre a piactértől.",
+            "ro": "O capodoperă barocă la doar câțiva pași de piață.",
+            "en": "A baroque masterpiece just a few steps from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Cluster Verenaschlucht",
+            "hu": "Buszozás és Verena-szurdok klaszter",
+            "ro": "Călătorie cu autobuzul & Cluster defileul Verena",
+            "en": "Bus Ride & Verena Gorge Cluster"
+          },
+          "coords": [
+            7.538,
+            47.227
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:17",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus (z.B. Linie 4) bis zur Haltestelle St. Niklaus und spazieren Sie von dort in die Schlucht.",
+            "hu": "Szálljon fel a buszra (pl. 4-es vonal) a St. Niklaus megállóig, és onnan sétáljon a szurdokba.",
+            "ro": "Luați autobuzul (de ex. linia 4) până la stația St. Niklaus și de acolo mergeți pe jos până la defileu.",
+            "en": "Take the bus (e.g., line 4) to the St. Niklaus stop and walk into the gorge from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt & Cluster Kathedrale/Museum",
+            "hu": "Buszozás és Katedrális/Múzeum klaszter",
+            "ro": "Călătorie cu autobuzul & Cluster Catedrală/Muzeu",
+            "en": "Bus Ride & Cathedral/Museum Cluster"
+          },
+          "coords": [
+            7.5383,
+            47.2088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück in die Stadt und steigen Sie in der Nähe der Kathedrale aus.",
+            "hu": "Menjen busszal vissza a városba, és szálljon le a katedrális közelében.",
+            "ro": "Luați autobuzul înapoi în oraș și coborâți lângă catedrală.",
+            "en": "Take the bus back to the city and get off near the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Zeughaus",
+            "hu": "Régi Fegyvertár",
+            "ro": "Vechiul Arsenal (Altes Zeughaus)",
+            "en": "Old Arsenal Museum"
+          },
+          "coords": [
+            7.5395,
+            47.2095
+          ],
+          "category": "museums",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, der letzte Halt Ihrer Entdeckungstour.",
+            "hu": "Közvetlenül a katedrális mellett található, a felfedezőút utolsó állomása.",
+            "ro": "Situat chiar lângă catedrală, ultima oprire a turului dvs. de descoperire.",
+            "en": "Located right next to the cathedral, the last stop on your discovery tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Solothurn effizient und umweltfreundlich. Ihr Tag beginnt am Hauptbahnhof, dem idealen Ausgangspunkt. Ein kurzer Fussmarsch über die Aarebrücke bringt Sie ins erste Cluster: das Herz der Altstadt. Hier erkunden Sie den Marktplatz und die barocke Jesuitenkirche.\nZur Mittagszeit nutzen Sie das gute Busnetz der Stadt. Eine Fahrt bringt Sie zum zweiten Cluster, einem Naturerlebnis: der Verenaschlucht. Von der Bushaltestelle aus führt ein idyllischer Weg zur Einsiedelei, einem Ort der Stille und Einkehr. Geniessen Sie die Ruhe abseits des städtischen Trubels.\nAm Nachmittag bringt Sie der Bus zurück ins Zentrum für das dritte und letzte Cluster des Tages. Sie steigen in der Nähe der imposanten St.-Ursen-Kathedrale aus. Nehmen Sie sich Zeit für dieses Wahrzeichen und besuchen Sie anschliessend das benachbarte Alte Zeughaus mit seiner berühmten Rüstungssammlung.\nDer Tag endet mit einem kurzen Spaziergang zurück zum Bahnhof, von wo aus Sie Ihre Heim- oder Weiterreise antreten. Diese Tour kombiniert städtische Highlights perfekt mit einem Ausflug ins Grüne und zeigt die Vielseitigkeit von Solothurn.",
+        "hu": "A tömegközlekedéssel hatékonyan és környezetbarát módon fedezheti fel Solothurnt. A nap a főpályaudvaron kezdődik, amely ideális kiindulópont. Egy rövid séta az Aare hídon át az első klaszterbe vezet: az óváros szívébe. Itt felfedezheti a piacteret és a barokk jezsuita templomot.\nDélidőben használja a város jó buszhálózatát. Egy utazás elviszi a második klaszterhez, egy természeti élményhez: a Verena-szurdokhoz. A buszmegállótól egy idilli út vezet a remetelakhoz, a csend és a béke helyére. Élvezze a nyugalmat a városi nyüzsgéstől távol.\nDélután a busz visszaviszi a központba a nap harmadik és egyben utolsó klaszteréhez. Az impozáns Szent Ursus-katedrális közelében száll le. Szánjon időt erre a nevezetességre, majd látogasson el a szomszédos Régi Fegyvertárba híres páncélgyűjteményével.\nA nap egy rövid sétával ér véget a pályaudvarra, ahonnan hazautazhat vagy folytathatja útját. Ez a túra tökéletesen ötvözi a városi látnivalókat egy kirándulással a természetbe, és megmutatja Solothurn sokoldalúságát.",
+        "ro": "Cu transportul public, explorați Solothurn eficient și ecologic. Ziua dvs. începe la gara principală, punctul de plecare ideal. O scurtă plimbare pe podul Aare vă duce la primul cluster: inima orașului vechi. Aici explorați piața și biserica barocă a iezuiților.\nLa prânz, folosiți rețeaua bună de autobuze a orașului. O călătorie vă duce la al doilea cluster, o experiență în natură: defileul Verena. De la stația de autobuz, o potecă idilică duce la schit, un loc de liniște și reculegere. Bucurați-vă de liniștea departe de agitația orașului.\nDupă-amiaza, autobuzul vă aduce înapoi în centru pentru al treilea și ultimul cluster al zilei. Coborâți lângă impunătoarea Catedrală Sf. Ursus. Acordați-vă timp pentru acest punct de reper și apoi vizitați Vechiul Arsenal adiacent, cu faimoasa sa colecție de armuri.\nZiua se încheie cu o scurtă plimbare înapoi la gară, de unde puteți pleca acasă sau continua călătoria. Acest tur combină perfect atracțiile urbane cu o excursie în natură și arată versatilitatea orașului Solothurn.",
+        "en": "Using public transport, you can explore Solothurn efficiently and in an eco-friendly way. Your day starts at the main train station, the ideal starting point. A short walk across the Aare bridge takes you to the first cluster: the heart of the Old Town. Here you'll explore the market square and the baroque Jesuit Church.\nAt midday, you'll use the city's good bus network. A ride takes you to the second cluster, a nature experience: the Verena Gorge. From the bus stop, an idyllic path leads to the hermitage, a place of peace and contemplation. Enjoy the tranquility away from the city bustle.\nIn the afternoon, the bus takes you back to the center for the third and final cluster of the day. You get off near the imposing St. Ursus Cathedral. Take your time for this landmark and then visit the adjacent Old Arsenal with its famous armor collection.\nThe day ends with a short walk back to the train station, from where you can start your journey home or continue your travels. This tour perfectly combines urban highlights with a trip into nature, showcasing the versatility of Solothurn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofbuffet",
+            "tip": "Oft besser als sein Ruf. Ein schneller Kaffee vor der Abfahrt."
+          },
+          {
+            "name": "Take-Away am Marktplatz",
+            "tip": "Schnappen Sie sich eine Bratwurst oder einen Snack für zwischendurch."
+          },
+          {
+            "name": "Solothurner Torte",
+            "tip": "Auch mit dem Bus erreichbar: Gönnen Sie sich ein Stück in der Confiserie Suteria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari büfé",
+            "tip": "Gyakran jobb a hírénél. Egy gyors kávé indulás előtt."
+          },
+          {
+            "name": "Elviteles a piactéren",
+            "tip": "Kapjon be egy sült kolbászt vagy egy snacket útközben."
+          },
+          {
+            "name": "Solothurni torta",
+            "tip": "Busszal is elérhető: Kényeztesse magát egy szelettel a Suteria cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bufetul gării",
+            "tip": "Adesea mai bun decât reputația sa. O cafea rapidă înainte de plecare."
+          },
+          {
+            "name": "Take-away în piață",
+            "tip": "Luați un cârnat prăjit sau o gustare pentru drum."
+          },
+          {
+            "name": "Tort Solothurn",
+            "tip": "Accesibil și cu autobuzul: Răsfățați-vă cu o felie la Confiserie Suteria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Buffet",
+            "tip": "Often better than its reputation. A quick coffee before departure."
+          },
+          {
+            "name": "Take-away at the market square",
+            "tip": "Grab a bratwurst or a snack for on the go."
+          },
+          {
+            "name": "Solothurner Torte",
+            "tip": "Also reachable by bus: Treat yourself to a slice at the Confiserie Suteria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Einsiedelei St. Verena",
+            "tip": "Mit dem Bus erreichbar und ein Garant für vollkommene Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof bei der St. Niklaus Kapelle",
+            "tip": "Ein stiller Ort zum Nachdenken, nahe der Bushaltestelle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Obere Altstadt",
+            "tip": "In den Gassen abseits der Hauptachse finden Sie ruhige Ecken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Verena remetelak",
+            "tip": "Busszal elérhető, és a teljes nyugalom garanciája.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Temető a Szent Miklós-kápolnánál",
+            "tip": "Csendes hely az elmélkedésre, a buszmegálló közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Felső óváros",
+            "tip": "A főtengelytől távolabb eső sikátorokban csendes zugokat talál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schitul Sf. Verena",
+            "tip": "Accesibil cu autobuzul și o garanție a liniștii complete.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă capela Sf. Nicolae",
+            "tip": "Un loc liniștit pentru reflecție, aproape de stația de autobuz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Orașul Vechi de Sus",
+            "tip": "Pe străduțele departe de axa principală veți găsi colțuri liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage of St. Verena",
+            "tip": "Reachable by bus and a guarantee of complete tranquility.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at St. Nicholas Chapel",
+            "tip": "A quiet place for reflection, near the bus stop.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Upper Old Town",
+            "tip": "You'll find quiet corners in the alleys off the main axis.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn es ein Markttag ist, steigen Sie direkt am Kronenplatz aus."
+          },
+          {
+            "name": "Buchhandlung am Kronenplatz",
+            "tip": "Stöbern Sie nach Büchern über Solothurn als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha piacnap van, szálljon le közvetlenül a Kronenplatzon."
+          },
+          {
+            "name": "Könyvesbolt a Kronenplatzon",
+            "tip": "Böngésszen Solothurnról szóló könyvek között emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă este zi de piață, coborâți direct la Kronenplatz."
+          },
+          {
+            "name": "Librăria din Kronenplatz",
+            "tip": "Căutați cărți despre Solothurn ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If it's a market day, get off directly at Kronenplatz."
+          },
+          {
+            "name": "Bookstore at Kronenplatz",
+            "tip": "Browse for books about Solothurn as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Laden Sie die Fahrplan-App herunter, um Verbindungen in Echtzeit zu prüfen.",
+          "Achten Sie auf die letzte Busverbindung zurück aus der Verenaschlucht.",
+          "Die Cluster-Strategie (Bus-Hop, dann zu Fuss) funktioniert hier perfekt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedésre, hogy pénzt takarítson meg.",
+          "Töltse le a menetrend-alkalmazást a valós idejű járatinformációkért.",
+          "Figyeljen az utolsó buszjáratra a Verena-szurdokból visszafelé.",
+          "A klaszter-stratégia (buszozás, majd gyaloglás) itt tökéletesen működik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați aplicația cu orare pentru a verifica conexiunile în timp real.",
+          "Fiți atenți la ultima legătură de autobuz înapoi din defileul Verena.",
+          "Strategia cluster (hop cu autobuzul, apoi pe jos) funcționează perfect aici."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download the timetable app to check connections in real time.",
+          "Pay attention to the last bus connection back from the Verena Gorge.",
+          "The cluster strategy (bus-hop, then walk) works perfectly here."
+        ]
+      }
+    }
+  }
+}

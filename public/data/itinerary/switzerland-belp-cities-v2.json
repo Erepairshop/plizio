@@ -1,0 +1,1029 @@
+{
+  "city_id": "switzerland-belp-cities-v2",
+  "anchor": {
+    "name": "Belp",
+    "coords": [
+      7.498,
+      46.891
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Reformierte Kirche Belp",
+            "hu": "Belpi református templom",
+            "ro": "Biserica Reformată din Belp",
+            "en": "Reformed Church of Belp"
+          },
+          "coords": [
+            7.498,
+            46.891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Fresken im Inneren der Kirche.",
+            "hu": "Figyelje meg a gótikus freskókat a templom belsejében.",
+            "ro": "Observați frescele gotice din interiorul bisericii.",
+            "en": "Look for the Gothic frescoes inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum Belp",
+            "hu": "Belpi Helytörténeti Múzeum",
+            "ro": "Muzeul Local din Belp",
+            "en": "Belp Local Museum"
+          },
+          "coords": [
+            7.499,
+            46.8915
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Ausstellung zur Geschichte des Flughafens ist überraschend spannend.",
+            "hu": "A repülőtér történetéről szóló kiállítás meglepően izgalmas.",
+            "ro": "Expoziția despre istoria aeroportului este surprinzător de interesantă.",
+            "en": "The exhibition on the history of the airport is surprisingly engaging."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Belp",
+            "hu": "Belpi kastély",
+            "ro": "Castelul Belp",
+            "en": "Belp Castle"
+          },
+          "coords": [
+            7.497,
+            46.893
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Schlosshof ist oft öffentlich zugänglich, auch wenn das Schloss privat ist.",
+            "hu": "A kastély udvara gyakran nyilvános, még akkor is, ha a kastély magántulajdonban van.",
+            "ro": "Curtea castelului este adesea deschisă publicului, chiar dacă castelul este privat.",
+            "en": "The castle courtyard is often open to the public, even if the castle is private."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            7.4985,
+            46.892
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Gericht in einem der Gasthöfe am Dorfplatz.",
+            "hu": "Kóstoljon meg egy helyi ételt a főtéri vendéglők egyikében.",
+            "ro": "Încercați un fel de mâncare local la unul dintre hanurile din piața satului.",
+            "en": "Try a local dish at one of the inns on the village square."
+          }
+        },
+        {
+          "name": {
+            "de": "Gürbe-Promenade",
+            "hu": "Gürbe-sétány",
+            "ro": "Promenada Gürbe",
+            "en": "Gürbe Promenade"
+          },
+          "coords": [
+            7.492,
+            46.89
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Flussufer, perfekt für den Nachmittag.",
+            "hu": "Egy pihentető séta a folyóparton, tökéletes a délutáni kikapcsolódásra.",
+            "ro": "O plimbare relaxantă pe malul râului, perfectă pentru după-amiază.",
+            "en": "A relaxing walk along the riverbank, perfect for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Belp an der historischen Kirche. Nach einem Einblick in die lokale Geschichte im Museum und einem Blick auf das Schloss, genießen Sie ein gemütliches Mittagessen. Der Nachmittag gehört einem entspannten Spaziergang entlang der Gürbe, wo Sie die Natur und Ruhe genießen können, bevor der Tag ausklingt.",
+        "hu": "Kezdje a napot Belp szívében, a történelmi templomnál. Miután bepillantást nyert a helytörténeti múzeumban a múltba és megcsodálta a kastélyt, fogyasszon el egy kellemes ebédet. A délutánt egy pihentető sétával töltse a Gürbe folyó partján, élvezve a természetet és a nyugalmat, mielőtt a nap véget ér.",
+        "ro": "Începeți ziua în inima orașului Belp, la biserica istorică. După o incursiune în istoria locală la muzeu și o privire la castel, savurați un prânz liniștit. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului Gürbe, unde vă puteți bucura de natură și liniște înainte de încheierea zilei.",
+        "en": "Start your day in the heart of Belp at the historic church. After a glimpse into local history at the museum and a look at the castle, enjoy a leisurely lunch. The afternoon is for a relaxing walk along the Gürbe promenade, where you can enjoy nature and tranquility before the day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berner Platte",
+            "tip": "Ein währschaftes Gericht mit verschiedenen Fleischsorten und Beilagen, typisch für die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berner Platte",
+            "tip": "Kiadós étel különféle húsokkal és köretekkel, a régióra jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berner Platte",
+            "tip": "Un preparat consistent cu diverse tipuri de carne și garnituri, tipic pentru regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berner Platte",
+            "tip": "A hearty dish with various meats and side dishes, typical for the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Gürbe",
+            "tip": "Finden Sie eine ruhige Bank am Fluss und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gürbe folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gürbe",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Gürbe",
+            "tip": "Find a quiet bench by the river and listen to the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Samstag hier sind, finden Sie lokale Produkte auf dem Dorfplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha szombaton jár itt, helyi termékeket talál a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o sâmbătă, veți găsi produse locale în piața satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you are here on a Saturday, you will find local products in the village square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Ortsmuseums im Voraus.",
+          "Einige Wege an der Gürbe können nach Regen rutschig sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Előre ellenőrizze a Helytörténeti Múzeum nyitvatartási idejét.",
+          "Néhány ösvény a Gürbe mentén csúszós lehet eső után."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți fi pe drumuri toată ziua.",
+          "Verificați în avans programul de funcționare al muzeului local.",
+          "Unele poteci de-a lungul râului Gürbe pot fi alunecoase după ploaie."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "Check the opening hours of the local museum in advance.",
+          "Some paths along the Gürbe can be slippery after rain."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Belp & Kirche",
+            "hu": "Belpi kastély és templom",
+            "ro": "Castelul și Biserica Belp",
+            "en": "Belp Castle & Church"
+          },
+          "coords": [
+            7.4975,
+            46.892
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit dem historischen Kern von Belp, der ideal mit dem Rad zu erreichen ist.",
+            "hu": "Kezdje a túrát Belp történelmi központjában, amely kerékpárral ideálisan megközelíthető.",
+            "ro": "Începeți cu centrul istoric al orașului Belp, care este ideal de accesat cu bicicleta.",
+            "en": "Start with the historic core of Belp, which is ideally accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Campagne Oberried",
+            "hu": "Campagne Oberried",
+            "ro": "Campagne Oberried",
+            "en": "Campagne Oberried"
+          },
+          "coords": [
+            7.485,
+            46.895
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Landsitz, den man gut bei einer kurzen Radtour bewundern kann.",
+            "hu": "Egy gyönyörű vidéki kúria, amelyet egy rövid kerékpártúra során csodálhat meg.",
+            "ro": "O frumoasă reședință de țară care poate fi admirată într-un scurt tur cu bicicleta.",
+            "en": "A beautiful country estate that can be admired on a short bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Flughafen Bern-Belp Aussichtspunkt",
+            "hu": "Bern-Belp repülőtér kilátópont",
+            "ro": "Punct de observare Aeroportul Berna-Belp",
+            "en": "Bern-Belp Airport Viewpoint"
+          },
+          "coords": [
+            7.5,
+            46.912
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die startenden und landenden Flugzeuge – ein tolles Erlebnis.",
+            "hu": "Nézze a fel- és leszálló repülőgépeket - nagyszerű élmény.",
+            "ro": "Urmăriți avioanele decolând și aterizând - o experiență grozavă.",
+            "en": "Watch the planes taking off and landing - a great experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Flughafens",
+            "hu": "Ebéd a repülőtér közelében",
+            "ro": "Prânz lângă aeroport",
+            "en": "Lunch near the airport"
+          },
+          "coords": [
+            7.502,
+            46.908
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt einige Restaurants mit Blick auf das Flugfeld.",
+            "hu": "Van néhány étterem, ahonnan kilátás nyílik a repülőtérre.",
+            "ro": "Există câteva restaurante cu vedere la aerodrom.",
+            "en": "There are some restaurants with a view of the airfield."
+          }
+        },
+        {
+          "name": {
+            "de": "Auenlandschaft Selhofen-Zulg",
+            "hu": "Selhofen-Zulg ártéri táj",
+            "ro": "Peisajul aluvionar Selhofen-Zulg",
+            "en": "Auenlandschaft Selhofen-Zulg"
+          },
+          "coords": [
+            7.52,
+            46.9
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Auenlandschaft, ein schönes Naturreservat.",
+            "hu": "Tekerjen át az ártéri tájon, egy gyönyörű természetvédelmi területen.",
+            "ro": "Pedalați prin peisajul aluvionar, o frumoasă rezervație naturală.",
+            "en": "Cycle through the floodplain landscape, a beautiful nature reserve."
+          }
+        },
+        {
+          "name": {
+            "de": "Gürbe-Promenade",
+            "hu": "Gürbe-sétány",
+            "ro": "Promenada Gürbe",
+            "en": "Gürbe Promenade"
+          },
+          "coords": [
+            7.492,
+            46.89
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt entlang des Flusses.",
+            "hu": "Fejezze be a kerékpártúrát egy pihentető tekeréssel a folyó mentén.",
+            "ro": "Încheiați turul cu bicicleta cu o plimbare relaxantă de-a lungul râului.",
+            "en": "End your bike tour with a relaxing ride along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour führt Sie vom historischen Zentrum zu ländlichen Anwesen und dem geschäftigen Flughafen. Nach dem Mittagessen erkunden Sie die unberührte Natur der Auenlandschaft. Der Tag klingt mit einer gemütlichen Fahrt entlang der Gürbe aus, die Sie zurück in die Nähe des Ausgangspunkts führt. Ein Tag voller Kontraste.",
+        "hu": "Kerékpártúrája a történelmi központból a vidéki birtokokhoz és a forgalmas repülőtérhez vezet. Ebéd után fedezze fel az ártéri táj érintetlen természetét. A napot egy kellemes tekeréssel zárja a Gürbe mentén, amely visszavezeti Önt a kiindulópont közelébe. Egy kontrasztokkal teli nap.",
+        "ro": "Turul cu bicicleta vă poartă de la centrul istoric la moșii rurale și la aeroportul aglomerat. După prânz, explorați natura neatinsă a peisajului aluvionar. Ziua se încheie cu o plimbare pe îndelete de-a lungul râului Gürbe, care vă duce înapoi aproape de punctul de plecare. O zi plină de contraste.",
+        "en": "Your bike tour takes you from the historic center to rural estates and the busy airport. After lunch, explore the untouched nature of the floodplain landscape. The day ends with a leisurely ride along the Gürbe, which takes you back near the starting point. A day full of contrasts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Ein klassisches Schweizer Gericht mit Kartoffeln, Makkaroni, Käse und Apfelmus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Klasszikus svájci étel krumplival, makarónival, sajttal és almaszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Älplermagronen",
+            "tip": "Un preparat elvețian clasic cu cartofi, macaroane, brânză și sos de mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Älplermagronen",
+            "tip": "A classic Swiss dish with potatoes, macaroni, cheese, and apple sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belpberg",
+            "tip": "Eine kurze, aber steile Radtour für eine fantastische Aussicht über das Aaretal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belpberg",
+            "tip": "Egy rövid, de meredek biciklitúra egy fantasztikus kilátásért az Aare-völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belpberg",
+            "tip": "Un tur scurt, dar abrupt, cu bicicleta pentru o priveliște fantastică asupra Văii Aare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belpberg",
+            "tip": "A short but steep bike ride for a fantastic view over the Aare valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Entlang der Radwege finden Sie oft kleine Hofläden mit frischen, saisonalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "A kerékpárutak mentén gyakran talál kis tanyasi boltokat friss, szezonális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine de fermă cu produse proaspete, de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Along the cycle paths you will often find small farm shops with fresh, seasonal products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte können hügelig sein, ein E-Bike könnte eine gute Option sein.",
+          "Nehmen Sie genügend Wasser mit, besonders für die Fahrt zur Auenlandschaft.",
+          "Achten Sie auf landwirtschaftlichen Verkehr auf den kleineren Strassen."
+        ],
+        "hu": [
+          "Néhány szakasz dombos lehet, egy e-bike jó választás lehet.",
+          "Vigyen magával elegendő vizet, különösen az ártéri táj felé vezető útra.",
+          "Vigyázzon a mezőgazdasági forgalomra a kisebb utakon."
+        ],
+        "ro": [
+          "Unele secțiuni pot fi deluroase, o bicicletă electrică ar putea fi o opțiune bună.",
+          "Luați suficientă apă, mai ales pentru drumul spre peisajul aluvionar.",
+          "Fiți atenți la traficul agricol pe drumurile mai mici."
+        ],
+        "en": [
+          "Some sections can be hilly, an e-bike could be a good option.",
+          "Take enough water with you, especially for the ride to the floodplain landscape.",
+          "Pay attention to agricultural traffic on the smaller roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken im Zentrum & Spaziergang zur Kirche",
+            "hu": "Parkolás a központban és séta a templomhoz",
+            "ro": "Parcare în centru și plimbare la biserică",
+            "en": "Parking in the center & walk to the church"
+          },
+          "coords": [
+            7.498,
+            46.891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum, um den ersten Cluster zu Fuss zu erkunden.",
+            "hu": "Parkolja le autóját a központban, hogy gyalog fedezze fel az első látnivalócsoportot.",
+            "ro": "Parcați mașina în centru pentru a explora primul grup de atracții pe jos.",
+            "en": "Park your car in the center to explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum und Schloss Belp",
+            "hu": "Helytörténeti Múzeum és Belpi kastély",
+            "ro": "Muzeul Local și Castelul Belp",
+            "en": "Local Museum and Belp Castle"
+          },
+          "coords": [
+            7.498,
+            46.8925
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet diese beiden wichtigen Sehenswürdigkeiten.",
+            "hu": "Egy rövid séta köti össze ezt a két fontos látnivalót.",
+            "ro": "O scurtă plimbare leagă aceste două atracții importante.",
+            "en": "A short walk connects these two important sights."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Belpberg",
+            "hu": "Utazás a Belpbergre",
+            "ro": "Călătorie spre Belpberg",
+            "en": "Drive to Belpberg"
+          },
+          "coords": [
+            7.51,
+            46.875
+          ],
+          "category": "natural features",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Geniessen Sie die Panoramaaussicht vom Gipfel. Ideal für ein Picknick-Mittagessen.",
+            "hu": "Élvezze a panorámát a csúcsról. Ideális egy piknikebédhez.",
+            "ro": "Bucurați-vă de vederea panoramică de pe vârf. Ideal pentru un prânz la picnic.",
+            "en": "Enjoy the panoramic view from the top. Ideal for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf dem Berg oder zurück im Tal",
+            "hu": "Ebéd a hegyen vagy vissza a völgyben",
+            "ro": "Prânz pe munte sau înapoi în vale",
+            "en": "Lunch on the mountain or back in the valley"
+          },
+          "coords": [
+            7.51,
+            46.878
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auf dem Belpberg gibt es ein Restaurant, oder Sie fahren für mehr Auswahl zurück nach Belp.",
+            "hu": "A Belpbergen van egy étterem, vagy visszamehet Belpbe a nagyobb választékért.",
+            "ro": "Există un restaurant pe Belpberg sau puteți conduce înapoi în Belp pentru mai multe opțiuni.",
+            "en": "There is a restaurant on the Belpberg, or you can drive back to Belp for more choice."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Flughafen Bern-Belp",
+            "hu": "Utazás a Bern-Belp repülőtérre",
+            "ro": "Călătorie la Aeroportul Berna-Belp",
+            "en": "Drive to Bern-Belp Airport"
+          },
+          "coords": [
+            7.5,
+            46.912
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und beobachten Sie das Treiben auf dem Regionalflughafen.",
+            "hu": "Parkoljon le, és figyelje a regionális repülőtér nyüzsgését.",
+            "ro": "Parcați și urmăriți agitația de la aeroportul regional.",
+            "en": "Park and watch the hustle and bustle at the regional airport."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang in der Auenlandschaft",
+            "hu": "Séta az ártéri tájon",
+            "ro": "Plimbare în peisajul aluvionar",
+            "en": "Walk in the floodplain landscape"
+          },
+          "coords": [
+            7.515,
+            46.905
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 95,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Flughafenparkplatz führt Sie in dieses ruhige Naturgebiet.",
+            "hu": "Egy rövid séta a repülőtéri parkolóból elvezeti Önt ebbe a csendes természeti területbe.",
+            "ro": "O scurtă plimbare de la parcarea aeroportului vă duce în această zonă naturală liniștită.",
+            "en": "A short walk from the airport car park takes you to this quiet nature area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Belp in Clustern. Zuerst das historische Zentrum zu Fuss, dann fahren Sie auf den Belpberg für eine atemberaubende Aussicht und ein Mittagessen. Der Nachmittag ist der Technik und Natur gewidmet: Beobachten Sie Flugzeuge am Flughafen Bern-Belp und finden Sie Ruhe in der nahegelegenen Auenlandschaft. Ein abwechslungsreicher Tag, der Stadt, Berg und Ebene verbindet.",
+        "hu": "Autóval klaszterekben fedezheti fel Belpet. Először gyalog a történelmi központ, majd felhajt a Belpbergre a lélegzetelállító kilátásért és egy ebédért. A délután a technikáé és a természeté: nézzen repülőgépeket a Bern-Belp repülőtéren, majd találjon nyugalmat a közeli ártéri tájon. Változatos nap, amely összeköti a várost, a hegyet és a síkságot.",
+        "ro": "Cu mașina, explorați Belp în grupuri. Mai întâi centrul istoric pe jos, apoi urcați pe Belpberg pentru o priveliște uluitoare și prânz. După-amiaza este dedicată tehnologiei și naturii: urmăriți avioanele la Aeroportul Berna-Belp și găsiți liniștea în peisajul aluvionar din apropiere. O zi variată care combină orașul, muntele și câmpia.",
+        "en": "Explore Belp in clusters by car. First, the historic center on foot, then drive up the Belpberg for a breathtaking view and lunch. The afternoon is dedicated to technology and nature: watch planes at Bern-Belp Airport and find peace in the nearby floodplain landscape. A varied day that combines town, mountain, and plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Obwohl nicht lokal, ist dieser Schweizer Klassiker in vielen Restaurants erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Bár nem helyi, ez a svájci klasszikus számos étteremben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Deși nu este local, acest clasic elvețian este disponibil în multe restaurante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Although not local, this Swiss classic is available in many restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Belpberg",
+            "tip": "Die Fahrt lohnt sich allein für diesen friedlichen Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wanderwege in der Auenlandschaft",
+            "tip": "Verlieren Sie sich auf den ruhigen Wegen im Naturschutzgebiet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Belpbergről",
+            "tip": "Már csak ezért a békés panorámáért is megéri az utat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Túraútvonalak az ártéri tájon",
+            "tip": "Vesszen el a természetvédelmi terület csendes ösvényein.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe Belpberg",
+            "tip": "Călătoria merită doar pentru această priveliște panoramică liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Trasee de drumeție în peisajul aluvionar",
+            "tip": "Pierdeți-vă pe potecile liniștite din rezervația naturală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Belpberg",
+            "tip": "The drive is worth it for this peaceful panoramic view alone.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hiking trails in the Auenlandschaft",
+            "tip": "Lose yourself on the quiet paths in the nature reserve.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flughafen-Shop",
+            "tip": "Für Souvenirs und Reisebedarf, falls Sie etwas vergessen haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reptéri bolt",
+            "tip": "Szuvenírekért és utazási cikkekért, ha valamit elfelejtett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul aeroportului",
+            "tip": "Pentru suveniruri și articole de călătorie, în cazul în care ați uitat ceva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Airport Shop",
+            "tip": "For souvenirs and travel essentials in case you forgot something."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Die Strasse zum Belpberg kann eng sein, fahren Sie vorsichtig.",
+          "Verbinden Sie den Besuch des Flughafens mit einem Spaziergang in der Aue, um das Parken zu optimieren."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "A Belpbergre vezető út szűk lehet, vezessen óvatosan.",
+          "Kombinálja a repülőtér látogatását egy sétával az ártéri tájon a parkolás optimalizálása érdekében."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "Drumul spre Belpberg poate fi îngust, conduceți cu prudență.",
+          "Combinați vizita la aeroport cu o plimbare în lunca inundabilă pentru a optimiza parcarea."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "The road to Belpberg can be narrow, drive carefully.",
+          "Combine your visit to the airport with a walk in the floodplain to optimize parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft in Belp Bahnhof, Spaziergang zur Kirche",
+            "hu": "Érkezés a belpi pályaudvarra, séta a templomhoz",
+            "ro": "Sosire la gara Belp, plimbare la biserică",
+            "en": "Arrival at Belp station, walk to the church"
+          },
+          "coords": [
+            7.498,
+            46.891
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Belp ist das Zentrum leicht zu Fuss erreichbar.",
+            "hu": "Belp állomástól a központ könnyen elérhető gyalog.",
+            "ro": "Din gara Belp, centrul este ușor accesibil pe jos.",
+            "en": "From Belp station, the center is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsmuseum und Schloss Belp",
+            "hu": "Helytörténeti Múzeum és Belpi kastély",
+            "ro": "Muzeul Local și Castelul Belp",
+            "en": "Local Museum and Belp Castle"
+          },
+          "coords": [
+            7.498,
+            46.8925
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kern von Belp, bevor Sie den Bus nehmen.",
+            "hu": "Fedezze fel Belp történelmi központját, mielőtt buszra szállna.",
+            "ro": "Explorați centrul istoric al orașului Belp înainte de a lua autobuzul.",
+            "en": "Explore the historic core of Belp before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Flughafen Bern-Belp",
+            "hu": "Buszozás a Bern-Belp repülőtérre",
+            "ro": "Călătorie cu autobuzul la Aeroportul Berna-Belp",
+            "en": "Bus ride to Bern-Belp Airport"
+          },
+          "coords": [
+            7.5,
+            46.912
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der 'Tangento'-Bus verbindet Belp direkt mit dem Flughafen. Hier können Sie auch zu Mittag essen.",
+            "hu": "A 'Tangento' busz közvetlenül összeköti Belpet a repülőtérrel. Itt ebédelhet is.",
+            "ro": "Autobuzul 'Tangento' leagă direct Belp de aeroport. Puteți lua și prânzul aici.",
+            "en": "The 'Tangento' bus connects Belp directly with the airport. You can also have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Selhofen & Auenlandschaft",
+            "hu": "Buszozás Selhofenbe és az ártéri tájhoz",
+            "ro": "Călătorie cu autobuzul la Selhofen și peisajul aluvionar",
+            "en": "Bus ride to Selhofen & floodplain landscape"
+          },
+          "coords": [
+            7.52,
+            46.9
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe dieses Naturparadieses bringt.",
+            "hu": "Menjen egy helyi busszal, amely elviszi Önt e természeti paradicsom közelébe.",
+            "ro": "Luați un autobuz local care vă duce aproape de acest paradis natural.",
+            "en": "Take a local bus that takes you close to this natural paradise."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Gürbe vor der Abreise",
+            "hu": "Séta a Gürbe mentén indulás előtt",
+            "ro": "Plimbare pe Gürbe înainte de plecare",
+            "en": "Walk along the Gürbe before departure"
+          },
+          "coords": [
+            7.492,
+            46.89
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter kurzer Spaziergang zurück in Richtung Bahnhof entlang des Flusses.",
+            "hu": "Egy utolsó rövid séta vissza az állomás felé a folyó mentén.",
+            "ro": "O ultimă scurtă plimbare înapoi spre gară de-a lungul râului.",
+            "en": "A last short walk back towards the station along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Belp und Umgebung bequem mit öffentlichen Verkehrsmitteln. Nach der Erkundung des Zentrums bringt Sie ein Bus zum Flughafen, wo Sie das geschäftige Treiben beobachten und zu Mittag essen können. Ein weiterer Bus führt Sie in die ruhige Auenlandschaft. Ein letzter Spaziergang entlang der Gürbe rundet den Tag ab, bevor Sie vom Bahnhof Belp die Heimreise antreten.",
+        "hu": "Fedezze fel Belpet és környékét kényelmesen tömegközlekedéssel. A központ felfedezése után egy busz elviszi a repülőtérre, ahol megfigyelheti a nyüzsgést és megebédelhet. Egy másik busz elviszi a csendes ártéri tájra. Egy utolsó séta a Gürbe mentén zárja a napot, mielőtt a belpi állomásról hazaindulna.",
+        "ro": "Descoperiți Belp și împrejurimile sale convenabil cu transportul public. După explorarea centrului, un autobuz vă duce la aeroport, unde puteți urmări agitația și puteți lua prânzul. Un alt autobuz vă duce în peisajul aluvionar liniștit. O ultimă plimbare de-a lungul râului Gürbe încheie ziua înainte de a vă întoarce acasă de la gara Belp.",
+        "en": "Discover Belp and its surroundings conveniently by public transport. After exploring the center, a bus takes you to the airport, where you can watch the hustle and bustle and have lunch. Another bus takes you to the quiet floodplain landscape. A final walk along the Gürbe rounds off the day before you head home from Belp station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Käseschnitte",
+            "tip": "Ein einfaches, aber köstliches Gericht aus Brot, Käse und oft mit einem Ei oder Schinken belegt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Käseschnitte",
+            "tip": "Egyszerű, de finom étel kenyérből, sajtból, gyakran tojással vagy sonkával a tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Käseschnitte",
+            "tip": "Un fel de mâncare simplu, dar delicios, făcut din pâine, brânză și adesea acoperit cu un ou sau șuncă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Käseschnitte",
+            "tip": "A simple but delicious dish made of bread, cheese, and often topped with an egg or ham."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussuferweg Selhofen",
+            "tip": "Ein ruhiger Pfad abseits der Hauptrouten in der Auenlandschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selhofeni folyóparti ösvény",
+            "tip": "Csendes ösvény az ártéri táj fő útvonalaitól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecă pe malul râului Selhofen",
+            "tip": "O potecă liniștită, departe de rutele principale din peisajul aluvionar.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Selhofen riverbank path",
+            "tip": "A quiet path away from the main routes in the floodplain landscape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Kaufen Sie ein Stück 'Züpfe' (Berner Zopf) für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a központban",
+            "tip": "Vásároljon egy darab 'Züpfe'-t (berni fonott kalács) a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăriile din centru",
+            "tip": "Cumpărați o bucată de 'Züpfe' (pâine împletită berneză) pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries in the center",
+            "tip": "Buy a piece of 'Züpfe' (Bernese braided bread) for the journey home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die entsprechende Zone, um Geld zu sparen.",
+          "Informieren Sie sich über die Busfahrpläne, da die Frequenzen am Nachmittag abnehmen können.",
+          "Einige Haltestellen sind 'Halt auf Verlangen' – drücken Sie rechtzeitig den Knopf."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a megfelelő zónára, hogy pénzt takarítson meg.",
+          "Tájékozódjon a buszmenetrendekről, mivel délután csökkenhet a járatok sűrűsége.",
+          "Néhány megálló 'megállás kérésre' - időben nyomja meg a gombot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona corespunzătoare pentru a economisi bani.",
+          "Verificați orarele autobuzelor, deoarece frecvențele pot scădea după-amiaza.",
+          "Unele stații sunt 'oprire la cerere' - apăsați butonul la timp."
+        ],
+        "en": [
+          "Buy a day ticket for the corresponding zone to save money.",
+          "Check the bus schedules, as frequencies may decrease in the afternoon.",
+          "Some stops are 'stop on request' - press the button in time."
+        ]
+      }
+    }
+  }
+}

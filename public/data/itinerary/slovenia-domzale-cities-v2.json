@@ -1,0 +1,1432 @@
+{
+  "city_id": "slovenia-domzale-cities-v2",
+  "anchor": {
+    "name": "Domžale",
+    "coords": [
+      14.594,
+      46.138
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturheim Domžale",
+            "hu": "Domžale-i Kultúrház",
+            "ro": "Centrul Cultural Domžale",
+            "en": "Domžale Cultural Home"
+          },
+          "coords": [
+            14.5948,
+            46.1395
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan für Abendvorstellungen oder lokale Kunstausstellungen.",
+            "hu": "Nézze meg az esti előadások vagy a helyi kiállítások műsorát.",
+            "ro": "Verificați programul pentru spectacole de seară sau expoziții de artă locale.",
+            "en": "Check the schedule for evening performances or local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Erinnerung",
+            "hu": "Emlékezés Parkja",
+            "ro": "Parcul Amintirii",
+            "en": "Park of Remembrance"
+          },
+          "coords": [
+            14.5971,
+            46.1408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Pause mit mehreren Denkmälern.",
+            "hu": "Csendes hely egy rövid pihenőre, több emlékművel.",
+            "ro": "Un loc liniștit pentru o scurtă pauză, cu mai multe monumente.",
+            "en": "A peaceful spot for a short break, featuring several monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Groblje Kirche",
+            "hu": "Grobljei templom",
+            "ro": "Biserica Groblje",
+            "en": "Groblje Church"
+          },
+          "coords": [
+            14.5999,
+            46.1376
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die traditionelle Architektur und die ruhige Atmosphäre im Inneren.",
+            "hu": "Figyelje meg a hagyományos építészetet és a belső csendes légkört.",
+            "ro": "Observați arhitectura tradițională și atmosfera liniștită din interior.",
+            "en": "Note the traditional architecture and the serene atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Strohhut-Museum",
+            "hu": "Szalmakalap Múzeum",
+            "ro": "Muzeul Pălăriilor de Paie",
+            "en": "Straw Hat Museum"
+          },
+          "coords": [
+            14.595,
+            46.136
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einem Workshop teil, um die Kunst des Strohflechtens zu erlernen.",
+            "hu": "Vegyen részt egy műhelyfoglalkozáson, és tanulja meg a szalmafonás művészetét.",
+            "ro": "Participați la un atelier pentru a învăța arta împletirii paielor.",
+            "en": "Join a workshop to learn the art of straw weaving if available."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Kamniška Bistrica",
+            "hu": "Kamniška Bistrica folyó",
+            "ro": "Râul Kamniška Bistrica",
+            "en": "Kamniška Bistrica River"
+          },
+          "coords": [
+            14.588,
+            46.135
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Nachmittag. Viele Bänke zum Ausruhen.",
+            "hu": "Tökéletes egy pihentető délutáni sétához. Sok pad található a pihenéshez.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază. Multe bănci pentru odihnă.",
+            "en": "Perfect for a relaxing afternoon walk. Plenty of benches to rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportpark Domžale",
+            "hu": "Domžale Sportpark",
+            "ro": "Parcul Sportiv Domžale",
+            "en": "Domžale Sports Park"
+          },
+          "coords": [
+            14.582,
+            46.132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Hier trainiert der lokale Fußballverein, vielleicht erwischen Sie ein Spiel.",
+            "hu": "Itt edz a helyi focicsapat, talán elcsíphet egy meccset.",
+            "ro": "Aici se antrenează echipa locală de fotbal, poate prindeți un meci.",
+            "en": "The local football club trains here; you might catch a game."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Domžale. Erkunden Sie den Park der Erinnerung und die historische Groblje-Kirche. Am Nachmittag tauchen Sie in die einzigartige Geschichte der Stadt im Strohhutmuseum ein, bevor Sie einen gemütlichen Spaziergang entlang des Flusses Kamniška Bistrica genießen. Schließen Sie den Tag im weitläufigen Sportpark ab, einem Zentrum lokaler Aktivitäten.",
+        "hu": "Kezdje a napot Domžale kulturális szívében. Fedezze fel az Emlékezés Parkját és a történelmi Groblje-templomot. Délután merüljön el a város egyedi történelmében a Szalmakalap Múzeumban, majd tegyen egy kellemes sétát a Kamniška Bistrica folyó mentén. Zárja a napot a tágas Sportparkban, a helyi tevékenységek központjában.",
+        "ro": "Începeți ziua în inima culturală a orașului Domžale. Explorați Parcul Amintirii și istorica Biserică Groblje. După-amiaza, scufundați-vă în istoria unică a orașului la Muzeul Pălăriilor de Paie înainte de o plimbare pe îndelete de-a lungul râului Kamniška Bistrica. Încheiați ziua în vastul Parc Sportiv, un centru al activității locale.",
+        "en": "Start your day in the cultural heart of Domžale. Explore the Park of Remembrance and the historic Groblje Church. In the afternoon, dive into the town's unique history at the Straw Hat Museum before a leisurely stroll along the Kamniška Bistrica River. End your day at the expansive Sports Park, a hub of local activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Keber",
+            "tip": "Probieren Sie die Idrijski Žlikrofi, traditionelle slowenische Teigtaschen."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Eine berühmte slowenische Wurst, die man bei lokalen Metzgern oder in Restaurants findet."
+          },
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "Ein geschichteter Kuchen, der als köstliches Dessert nach einem langen Spaziergang dient."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Keber",
+            "tip": "Kóstolja meg az Idrijski Žlikrofit, a hagyományos szlovén táskát."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Híres szlovén kolbász, amelyet helyi henteseknél vagy éttermekben talál."
+          },
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "Réteges sütemény, amely finom desszert egy hosszú séta után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Keber",
+            "tip": "Încercați Idrijski Žlikrofi, găluște tradiționale slovene."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "Un cârnat sloven renumit, găsit la măcelarii locali sau în restaurante."
+          },
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "O prăjitură stratificată care servește ca un desert delicios după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Keber",
+            "tip": "Try the Idrijski Žlikrofi, traditional Slovenian dumplings."
+          },
+          {
+            "name": "Kranjska Klobasa",
+            "tip": "A famous Slovenian sausage, found at local butchers or restaurants."
+          },
+          {
+            "name": "Prekmurska Gibanica",
+            "tip": "A layered cake that serves as a delicious dessert after a long walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Kamniška Bistrica",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem fließenden Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Erinnerung",
+            "tip": "Ein friedlicher Ort für Kontemplation inmitten der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gärten von Schloss Krumperk",
+            "tip": "Obwohl etwas weiter entfernt, bieten die Schlossgärten ultimative Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kamniška Bistrica partja",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emlékezés Parkja",
+            "tip": "Békés hely az elmélyülésre a város közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Krumperk kastély kertjei",
+            "tip": "Bár kicsit távolabb van, a kastélykert tökéletes nyugalmat kínál.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Kamniška Bistrica",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Amintirii",
+            "tip": "Un loc pașnic pentru contemplare în mijlocul orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Castelului Krumperk",
+            "tip": "Deși puțin mai departe, grădinile castelului oferă liniște supremă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Kamniška Bistrica River",
+            "tip": "Find a quiet bench and listen to the flowing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park of Remembrance",
+            "tip": "A peaceful place for contemplation in the middle of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Krumperk Castle Gardens",
+            "tip": "Although a bit further, the castle gardens offer ultimate tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strohhut-Museum Shop",
+            "tip": "Kaufen Sie einen authentischen handgefertigten Strohhut als einzigartiges Souvenir."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Produkten, Honig und Handwerk auf dem Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalmakalap Múzeum boltja",
+            "tip": "Vásároljon egy eredeti, kézzel készített szalmakalapot egyedi emlékként."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen helyi termékeket, mézet és kézműves termékeket a heti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Pălăriilor de Paie",
+            "tip": "Cumpărați o pălărie de paie autentică, lucrată manual, ca un suvenir unic."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse locale, miere și meșteșuguri la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Straw Hat Museum Shop",
+            "tip": "Purchase an authentic handmade straw hat as a unique souvenir."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for local produce, honey, and crafts at the weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander, was das Gehen zur idealen Fortbewegungsart macht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Hozzon magával újratölthető vizes palackot; vannak nyilvános kutak.",
+          "A legtöbb látnivaló közel van egymáshoz, így a gyaloglás az ideális közlekedési mód."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi în picioare toată ziua.",
+          "Luați o sticlă de apă reutilizabilă; există fântâni publice.",
+          "Majoritatea atracțiilor sunt apropiate, făcând mersul pe jos modul ideal de deplasare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be on your feet all day.",
+          "Bring a reusable water bottle; there are public fountains available.",
+          "Most sights are close together, making walking the ideal way to get around."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Krumperk",
+            "hu": "Krumperk kastély",
+            "ro": "Castelul Krumperk",
+            "en": "Krumperk Castle"
+          },
+          "coords": [
+            14.629,
+            46.125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten um das Schloss für eine malerische Fahrt.",
+            "hu": "Fedezze fel a kastély körüli kerteket egy festői biciklizéshez.",
+            "ro": "Explorați grădinile din jurul castelului pentru o plimbare pitorească.",
+            "en": "Explore the grounds around the castle for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportpark Domžale",
+            "hu": "Domžale Sportpark",
+            "ro": "Parcul Sportiv Domžale",
+            "en": "Domžale Sports Park"
+          },
+          "coords": [
+            14.582,
+            46.132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie durch den Park.",
+            "hu": "Zárja le a biciklijét, és sétáljon egyet a parkban.",
+            "ro": "Încuiați-vă bicicleta și faceți o plimbare prin parc.",
+            "en": "Lock up your bike and take a walk around the park grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Kamniška Bistrica",
+            "hu": "Kamniška Bistrica folyó",
+            "ro": "Râul Kamniška Bistrica",
+            "en": "Kamniška Bistrica River"
+          },
+          "coords": [
+            14.588,
+            46.135
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt einen schönen Radweg, der dem Fluss folgt.",
+            "hu": "Egy szép kerékpárút követi a folyót.",
+            "ro": "Există o pistă de biciclete frumoasă care urmează râul.",
+            "en": "There's a pleasant cycle path that follows the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Strohhut-Museum",
+            "hu": "Szalmakalap Múzeum",
+            "ro": "Muzeul Pălăriilor de Paie",
+            "en": "Straw Hat Museum"
+          },
+          "coords": [
+            14.595,
+            46.136
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihre Mittagspause, es gibt Cafés in der Nähe.",
+            "hu": "Tervezze ide az ebédszünetet, a közelben kávézók találhatók.",
+            "ro": "Planificați-vă pauza de prânz aici, există cafenele în apropiere.",
+            "en": "Plan your lunch break around here; there are cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturheim Domžale",
+            "hu": "Domžale-i Kultúrház",
+            "ro": "Centrul Cultural Domžale",
+            "en": "Domžale Cultural Home"
+          },
+          "coords": [
+            14.5948,
+            46.1395
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die Architektur zu bewundern und ein Foto zu machen.",
+            "hu": "Egy rövid megálló, hogy megcsodálja az építészetet és készítsen egy fotót.",
+            "ro": "O oprire scurtă pentru a admira arhitectura și a face o fotografie.",
+            "en": "A quick stop to admire the architecture and take a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenhöhle (Železna jama)",
+            "hu": "Vas-barlang (Železna jama)",
+            "ro": "Peștera de Fier (Železna jama)",
+            "en": "Iron Cave (Železna jama)"
+          },
+          "coords": [
+            14.605,
+            46.155
+          ],
+          "category": "natural features",
+          "arrive_at": "16:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine erfrischende letzte Station. Bringen Sie eine Jacke mit, es ist kühl im Inneren.",
+            "hu": "Egy frissítő utolsó megálló. Hozzon magával kabátot, hűvös van odabent.",
+            "ro": "O ultimă oprire răcoritoare. Aduceți o jachetă, este răcoare înăuntru.",
+            "en": "A refreshing final stop. Bring a jacket; it's cool inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer mit einem Besuch des majestätischen Schlosses Krumperk. Fahren Sie durch die Stadt zum Sportpark und folgen Sie dann dem malerischen Weg entlang des Flusses Kamniška Bistrica. Nach dem Mittagessen entdecken Sie die Handwerkskunst im Strohhutmuseum. Beenden Sie Ihre Tour mit einem kurzen Halt am Kulturheim und einem erfrischenden Besuch der kühlen Eisenhöhle.",
+        "hu": "Kezdje a kerékpáros kalandot a fenséges Krumperk kastély meglátogatásával. Tekerjen át a városon a Sportparkba, majd kövesse a festői utat a Kamniška Bistrica folyó mentén. Ebéd után fedezze fel a kézművességet a Szalmakalap Múzeumban. Fejezze be a túrát egy rövid megállóval a Kultúrháznál és egy frissítő látogatással a hűvös Vas-barlangban.",
+        "ro": "Începeți aventura pe bicicletă cu o vizită la maiestuosul Castel Krumperk. Pedalați prin oraș până la Parcul Sportiv, apoi urmați poteca pitorească de-a lungul râului Kamniška Bistrica. După prânz, descoperiți meșteșugurile la Muzeul Pălăriilor de Paie. Încheiați turul cu o oprire rapidă la Centrul Cultural și o vizită revigorantă la răcoroasa Peșteră de Fier.",
+        "en": "Begin your cycling adventure with a visit to the majestic Krumperk Castle. Ride through town to the Sports Park, then follow the scenic path along the Kamniška Bistrica River. After lunch, discover the craftsmanship at the Straw Hat Museum. Finish your tour with a quick stop at the Cultural Home and a refreshing visit to the cool Iron Cave."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostišče Juvan",
+            "tip": "Ein großartiger Ort für eine herzhafte Mahlzeit, um nach dem Radfahren wieder zu Kräften zu kommen."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Probieren Sie diese gerollten Teigtaschen, die süß oder herzhaft sein können."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie nach slowenischen Craft-Bieren wie Union oder Laško."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostišče Juvan",
+            "tip": "Nagyszerű hely egy kiadós étkezéshez a biciklizés utáni feltöltődéshez."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Kóstolja meg ezeket a tekert tésztákat, amelyek lehetnek édesek vagy sósak."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen szlovén kézműves sört, mint az Union vagy a Laško."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostišče Juvan",
+            "tip": "Un loc excelent pentru o masă consistentă pentru a vă reface energia după ciclism."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Încercați aceste găluște rulate care pot fi dulci sau sărate."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Cereți beri artizanale slovene precum Union sau Laško."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostišče Juvan",
+            "tip": "A great spot for a hearty meal to refuel after cycling."
+          },
+          {
+            "name": "Štruklji",
+            "tip": "Try these rolled dumplings, which can be sweet or savory."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for Slovenian craft beers like Union or Laško."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Halten Sie an und genießen Sie die friedliche Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Krumperk",
+            "tip": "Abseits der Hauptwege finden Sie abgeschiedene Plätze.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eisenhöhle",
+            "tip": "Die Stille und Kühle der Höhle ist unglaublich beruhigend.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyó menti kerékpárút",
+            "tip": "Álljon meg és élvezze a békés természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Krumperk kastélypark",
+            "tip": "A fő utaktól távol, eldugott helyeket talál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vas-barlang",
+            "tip": "A barlang csendje és hűvössége hihetetlenül megnyugtató.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Opriți-vă pentru a vă bucura de natura liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Krumperk",
+            "tip": "Veți găsi locuri retrase departe de potecile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Peștera de Fier",
+            "tip": "Liniștea și răcoarea peșterii sunt incredibil de calmante.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverfront Cycle Path",
+            "tip": "Stop to enjoy the peaceful nature along the way.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Krumperk Castle Park",
+            "tip": "You'll find secluded spots away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Iron Cave",
+            "tip": "The silence and cool air inside the cave is incredibly calming.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Lokale Geschäfte haben möglicherweise einzigartiges Zubehör oder lokale Karten."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie frisches Obst oder Energieriegel für Ihre Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "A helyi boltokban egyedi kiegészítőket vagy helyi térképeket találhat."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon friss gyümölcsöt vagy energiaszeleteket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Magazinele locale pot avea accesorii unice sau hărți locale."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați fructe proaspete sau batoane energizante pentru plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Local shops might have unique accessories or local maps."
+          },
+          {
+            "name": "Farmer's Market",
+            "tip": "Pick up some fresh fruit or energy bars for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Ein Helm wird dringend empfohlen.",
+          "Planen Sie Ihre Route im Voraus, aber seien Sie flexibel, um unerwartete Orte zu erkunden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
+          "Sisak viselése erősen ajánlott.",
+          "Tervezze meg előre az útvonalat, de legyen rugalmas, hogy felfedezhessen váratlan helyeket."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "O cască este foarte recomandată.",
+          "Planificați-vă traseul în avans, dar fiți flexibil pentru a explora locuri neașteptate."
+        ],
+        "en": [
+          "Check your bike before you leave, especially the brakes and tires.",
+          "A helmet is highly recommended.",
+          "Plan your route in advance, but be flexible to explore unexpected places."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Krumperk",
+            "hu": "Krumperk kastély",
+            "ro": "Castelul Krumperk",
+            "en": "Krumperk Castle"
+          },
+          "coords": [
+            14.629,
+            46.125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag. Der Parkplatz ist normalerweise geräumig.",
+            "hu": "Parkoljon itt, és kezdje a napot. A parkoló általában tágas.",
+            "ro": "Parcați aici și începeți-vă ziua. Parcarea este de obicei spațioasă.",
+            "en": "Park here and start your day. The parking lot is usually spacious."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenhöhle (Železna jama)",
+            "hu": "Vas-barlang (Železna jama)",
+            "ro": "Peștera de Fier (Železna jama)",
+            "en": "Iron Cave (Železna jama)"
+          },
+          "coords": [
+            14.605,
+            46.155
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur Höhle. Ein Muss für Naturliebhaber.",
+            "hu": "Rövid séta a parkolótól a barlangig. Kötelező a természetbarátoknak.",
+            "ro": "O scurtă plimbare de la parcare la peșteră. O necesitate pentru iubitorii de natură.",
+            "en": "A short walk from the parking area to the cave. A must for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi Parkoló",
+            "ro": "Parcare Centrală",
+            "en": "Central Parking"
+          },
+          "coords": [
+            14.596,
+            46.139
+          ],
+          "category": "infrastructure",
+          "arrive_at": "12:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Strohhut-Museum",
+            "hu": "Szalmakalap Múzeum",
+            "ro": "Muzeul Pălăriilor de Paie",
+            "en": "Straw Hat Museum"
+          },
+          "coords": [
+            14.595,
+            46.136
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt Ihres Stadtrundgangs. Planen Sie Zeit für den Souvenirladen ein.",
+            "hu": "A városnéző séta első állomása. Tervezzen időt az ajándékboltra is.",
+            "ro": "Prima oprire a turului dvs. pietonal. Alocați timp pentru magazinul de suveniruri.",
+            "en": "The first stop on your walking tour of the center. Plan time for the gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Groblje Kirche",
+            "hu": "Grobljei templom",
+            "ro": "Biserica Groblje",
+            "en": "Groblje Church"
+          },
+          "coords": [
+            14.5999,
+            46.1376
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, angenehmer Spaziergang vom Museum entfernt.",
+            "hu": "Rövid, kellemes séta a múzeumtól.",
+            "ro": "O plimbare scurtă și plăcută de la muzeu.",
+            "en": "A short, pleasant walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Park der Erinnerung",
+            "hu": "Emlékezés Parkja",
+            "ro": "Parcul Amintirii",
+            "en": "Park of Remembrance"
+          },
+          "coords": [
+            14.5971,
+            46.1408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf einer Bank, bevor Sie Ihren Spaziergang fortsetzen.",
+            "hu": "Pihenjen meg egy padon, mielőtt folytatná a sétát.",
+            "ro": "Relaxați-vă pe o bancă înainte de a continua plimbarea.",
+            "en": "Relax on a bench before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Kamniška Bistrica",
+            "hu": "Kamniška Bistrica partja",
+            "ro": "Malurile râului Kamniška Bistrica",
+            "en": "Banks of Kamniška Bistrica River"
+          },
+          "coords": [
+            14.588,
+            46.135
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Szép befejezése a napnak, mielőtt visszatérne az autójához.",
+            "ro": "Un final frumos al zilei înainte de a vă întoarce la mașină.",
+            "en": "A lovely end to the day before walking back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den abgelegeneren Sehenswürdigkeiten: dem beeindruckenden Schloss Krumperk und der kühlen Eisenhöhle. Am Mittag parken Sie im Zentrum von Domžale und beginnen Ihren Rundgang. Tauchen Sie in die Hutmachertradition im Museum ein, bewundern Sie die Groblje-Kirche und entspannen Sie im Park der Erinnerung, bevor Sie den Tag mit einem Spaziergang am Fluss ausklingen lassen.",
+        "hu": "Reggel vezessen el a távolabbi látnivalókhoz: a lenyűgöző Krumperk kastélyhoz és a hűvös Vas-barlanghoz. Délben parkoljon le Domžale központjában, és kezdje meg a gyalogtúrát. Merüljön el a kalapkészítő hagyományokban a múzeumban, csodálja meg a Groblje-templomot, és pihenjen az Emlékezés Parkjában, mielőtt egy folyóparti sétával zárja a napot.",
+        "ro": "Dimineața, conduceți spre atracțiile mai îndepărtate: impresionantul Castel Krumperk și răcoroasa Peșteră de Fier. La prânz, parcați în centrul orașului Domžale și începeți turul pietonal. Scufundați-vă în tradiția pălăriilor la muzeu, admirați Biserica Groblje și relaxați-vă în Parcul Amintirii înainte de a încheia ziua cu o plimbare pe malul râului.",
+        "en": "In the morning, drive to the more distant attractions: the impressive Krumperk Castle and the cool Iron Cave. At midday, park in the center of Domžale and begin your walking tour. Immerse yourself in the hat-making tradition at the museum, admire Groblje Church, and relax in the Park of Remembrance before ending the day with a riverside walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostilna Pri Kovaču",
+            "tip": "Bekannt für seine traditionelle slowenische Küche in einer rustikalen Umgebung."
+          },
+          {
+            "name": "Bled-Cremeschnitte (Kremšnita)",
+            "tip": "Obwohl aus Bled, findet man sie in vielen Cafés und sie ist ein Muss."
+          },
+          {
+            "name": "Pilzsuppe",
+            "tip": "Eine herzhafte und beliebte Vorspeise, besonders nach einem kühlen Höhlenbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostilna Pri Kovaču",
+            "tip": "Hagyományos szlovén konyhájáról ismert, rusztikus környezetben."
+          },
+          {
+            "name": "Bledi krémest (Kremšnita)",
+            "tip": "Bár Bledből származik, sok kávézóban megtalálható, és kötelező megkóstolni."
+          },
+          {
+            "name": "Gombaleves",
+            "tip": "Kiadós és népszerű előétel, különösen egy hűvös barlanglátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostilna Pri Kovaču",
+            "tip": "Cunoscut pentru bucătăria sa tradițională slovenă într-un cadru rustic."
+          },
+          {
+            "name": "Cremșnit de Bled (Kremšnita)",
+            "tip": "Deși este din Bled, se găsește în multe cafenele și este o necesitate."
+          },
+          {
+            "name": "Supă de ciuperci",
+            "tip": "Un aperitiv consistent și popular, mai ales după o vizită la peștera răcoroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostilna Pri Kovaču",
+            "tip": "Known for its traditional Slovenian cuisine in a rustic setting."
+          },
+          {
+            "name": "Bled Cream Cake (Kremšnita)",
+            "tip": "Although from Bled, it's found in many cafes and is a must-try."
+          },
+          {
+            "name": "Mushroom Soup",
+            "tip": "A hearty and popular starter, especially after a cool cave visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Umgebung von Schloss Krumperk",
+            "tip": "Die Wälder und Felder rund um das Schloss sind sehr friedlich.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Friedhof neben der Groblje-Kirche",
+            "tip": "Ein Ort der Stille und des Nachdenkens.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Entfernte Ufer der Kamniška Bistrica",
+            "tip": "Gehen Sie etwas weiter vom Zentrum weg für mehr Abgeschiedenheit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krumperk kastély környéke",
+            "tip": "A kastély körüli erdők és mezők nagyon békések.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Temető a Groblje-templom mellett",
+            "tip": "A csend és az elgondolkodás helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "A Kamniška Bistrica távoli partjai",
+            "tip": "Menjen egy kicsit távolabb a központtól a nagyobb magányért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Castelului Krumperk",
+            "tip": "Pădurile și câmpurile din jurul castelului sunt foarte pașnice.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Groblje",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Malurile îndepărtate ale râului Kamniška Bistrica",
+            "tip": "Mergeți puțin mai departe de centru pentru mai multă izolare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krumperk Castle Surroundings",
+            "tip": "The woods and fields around the castle are very peaceful.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cemetery next to Groblje Church",
+            "tip": "A place of silence and reflection.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Distant banks of Kamniška Bistrica",
+            "tip": "Walk a bit further from the center for more seclusion.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Strohprodukte",
+            "tip": "Neben Hüten finden Sie im Museumsshop auch Körbe und Dekorationen."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach Geschäften, die lokalen Käse, Wurst und Wein verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített szalmatermékek",
+            "tip": "A kalapok mellett kosarakat és díszeket is talál a múzeumi boltban."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen boltokat, amelyek helyi sajtot, kolbászt és bort árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale din paie",
+            "tip": "Pe lângă pălării, veți găsi coșuri și decorațiuni la magazinul muzeului."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați magazine care vând brânzeturi, cârnați și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Straw Products",
+            "tip": "Besides hats, you might find baskets and decorations at the museum shop."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Look for shops selling local cheese, sausages, and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Auto ist ideal, um die weiter entfernten Sehenswürdigkeiten wie das Schloss zu erreichen.",
+          "Nutzen Sie GPS für eine einfache Navigation zwischen den Standorten.",
+          "Überprüfen Sie die Parkgebühren im Stadtzentrum; oft ist es günstiger, etwas weiter entfernt zu parken."
+        ],
+        "hu": [
+          "Az autó ideális a távolabbi látnivalók, például a kastély eléréséhez.",
+          "Használjon GPS-t a helyszínek közötti egyszerű navigációhoz.",
+          "Ellenőrizze a parkolási díjakat a városközpontban; gyakran olcsóbb kicsit távolabb parkolni."
+        ],
+        "ro": [
+          "O mașină este ideală pentru a ajunge la atracțiile mai îndepărtate, cum ar fi castelul.",
+          "Folosiți GPS pentru o navigare ușoară între locații.",
+          "Verificați taxele de parcare în centrul orașului; este adesea mai ieftin să parcați puțin mai departe."
+        ],
+        "en": [
+          "A car is ideal for reaching the more distant sights like the castle.",
+          "Use GPS for easy navigation between the locations.",
+          "Check parking fees in the city center; it's often cheaper to park slightly further away."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbushaltestelle Domžale",
+            "hu": "Domžale Főbuszmegálló",
+            "ro": "Stația Principală de Autobuz Domžale",
+            "en": "Domžale Main Bus Stop"
+          },
+          "coords": [
+            14.5955,
+            46.1385
+          ],
+          "category": "infrastructure",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Purchase a day pass for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturheim Domžale",
+            "hu": "Domžale-i Kultúrház",
+            "ro": "Centrul Cultural Domžale",
+            "en": "Domžale Cultural Home"
+          },
+          "coords": [
+            14.5948,
+            46.1395
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Strohhut-Museum",
+            "hu": "Szalmakalap Múzeum",
+            "ro": "Muzeul Pălăriilor de Paie",
+            "en": "Straw Hat Museum"
+          },
+          "coords": [
+            14.595,
+            46.136
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen, bevor Sie den Bus zum nächsten Cluster nehmen.",
+            "hu": "Fedezze fel a kiállításokat, mielőtt busszal a következő klaszterhez utazna.",
+            "ro": "Explorați exponatele înainte de a lua autobuzul spre următorul cluster.",
+            "en": "Explore the exhibits before catching the bus to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle Sportpark",
+            "hu": "Sportpark Buszmegálló",
+            "ro": "Stația de Autobuz Parcul Sportiv",
+            "en": "Sports Park Bus Stop"
+          },
+          "coords": [
+            14.584,
+            46.131
+          ],
+          "category": "infrastructure",
+          "arrive_at": "12:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Von hier aus können Sie den Park und den Fluss erkunden.",
+            "hu": "Innen felfedezheti a parkot és a folyót.",
+            "ro": "De aici puteți explora parcul și râul.",
+            "en": "From here, you can explore the park and the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportpark Domžale",
+            "hu": "Domžale Sportpark",
+            "ro": "Parcul Sportiv Domžale",
+            "en": "Domžale Sports Park"
+          },
+          "coords": [
+            14.582,
+            46.132
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Picknick-Mittagessen.",
+            "hu": "Nagyszerű hely egy piknikebédhez.",
+            "ro": "Un loc excelent pentru un prânz la picnic.",
+            "en": "A great spot for a picnic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Krumperk",
+            "hu": "Krumperk kastély",
+            "ro": "Castelul Krumperk",
+            "en": "Krumperk Castle"
+          },
+          "coords": [
+            14.629,
+            46.125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Busfahrt bietet schöne Ausblicke auf die Landschaft.",
+            "hu": "A buszozás szép kilátást nyújt a vidékre.",
+            "ro": "Călătoria cu autobuzul oferă priveliști frumoase ale peisajului rural.",
+            "en": "The bus ride out here offers nice views of the countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr von Domžale, um die Stadt in Clustern zu erkunden. Beginnen Sie im Stadtzentrum mit dem Kulturheim und dem berühmten Strohhutmuseum. Am Nachmittag nehmen Sie einen Bus zum Sportpark für eine grüne Pause. Eine weitere Busfahrt bringt Sie zum historischen Schloss Krumperk, wo Sie den Rest des Tages mit der Erkundung des Anwesens verbringen können.",
+        "hu": "Használja a domžale-i tömegközlekedést a város klaszterekben való felfedezéséhez. Kezdje a városközpontban a Kultúrházzal és a híres Szalmakalap Múzeummal. Délután szálljon buszra a Sportparkhoz egy zöld szünetre. Egy másik buszút elviszi a történelmi Krumperk kastélyhoz, ahol a nap hátralévő részét a birtok felfedezésével töltheti.",
+        "ro": "Folosiți transportul public din Domžale pentru a explora orașul în clustere. Începeți în centrul orașului cu Centrul Cultural și renumitul Muzeu al Pălăriilor de Paie. După-amiaza, luați un autobuz spre Parcul Sportiv pentru o pauză verde. O altă călătorie cu autobuzul vă va duce la istoricul Castel Krumperk, unde puteți petrece restul zilei explorând domeniul.",
+        "en": "Use Domžale's public transit to explore the town in clusters. Start in the city center with the Cultural Home and the renowned Straw Hat Museum. In the afternoon, take a bus to the Sports Park for a green break. Another bus ride will take you to the historic Krumperk Castle, where you can spend the rest of your day exploring the grounds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Holen Sie sich ein Gebäck (z. B. Potica) für einen schnellen Snack zwischen den Busfahrten."
+          },
+          {
+            "name": "Lokale Pizzeria",
+            "tip": "Eine schnelle und einfache Option für das Mittagessen in der Nähe einer Bushaltestelle."
+          },
+          {
+            "name": "Kava",
+            "tip": "Genießen Sie einen slowenischen Kaffee in einem Café, während Sie auf Ihren nächsten Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Vegyen egy péksüteményt (pl. Potica) egy gyors harapnivalóhoz a buszutak között."
+          },
+          {
+            "name": "Helyi pizzéria",
+            "tip": "Gyors és egyszerű ebédlehetőség egy buszmegálló közelében."
+          },
+          {
+            "name": "Kava",
+            "tip": "Élvezzen egy szlovén kávét egy kávézóban, miközben a következő buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Luați un produs de patiserie (cum ar fi Potica) pentru o gustare rapidă între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Pizzerie locală",
+            "tip": "O opțiune rapidă și ușoară pentru prânz lângă o stație de autobuz."
+          },
+          {
+            "name": "Kava",
+            "tip": "Bucurați-vă de o cafea slovenă la o cafenea în timp ce așteptați următorul autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Grab a pastry (like Potica) for a quick snack between bus rides."
+          },
+          {
+            "name": "Local Pizzeria",
+            "tip": "A quick and easy option for lunch near a bus stop."
+          },
+          {
+            "name": "Kava",
+            "tip": "Enjoy a Slovenian coffee at a cafe while waiting for your next bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberdeck des Busses",
+            "tip": "Beobachten Sie die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Schlossgelände",
+            "tip": "Finden Sie einen ruhigen Ort abseits des Haupteingangs.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parkbank",
+            "tip": "Eine einfache, aber effektive Möglichkeit, eine Pause einzulegen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Nézze a várost egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kastély területe",
+            "tip": "Keressen egy csendes helyet a főbejárattól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Pad a parkban",
+            "tip": "Egyszerű, de hatékony módja a pihenésnek.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea superioară a autobuzului",
+            "tip": "Priviți orașul dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Domeniul castelului",
+            "tip": "Găsiți un loc liniștit departe de intrarea principală.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bancă în parc",
+            "tip": "O modalitate simplă, dar eficientă de a lua o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of the bus",
+            "tip": "Watch the town go by from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Castle grounds",
+            "tip": "Find a quiet spot away from the main entrance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park bench",
+            "tip": "A simple but effective way to take a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie eine Postkarte oder ein kleines Souvenir."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der beste Ort für ein einzigartiges, lokal hergestelltes Geschenk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon egy képeslapot vagy egy apró emléktárgyat."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A legjobb hely egy egyedi, helyben készült ajándékhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați o carte poștală sau un mic suvenir."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cel mai bun loc pentru un cadou unic, realizat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus station",
+            "tip": "Buy a postcard or a small souvenir."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The best place for a unique, locally-made gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Fahrplan-App für öffentliche Verkehrsmittel herunter oder machen Sie ein Foto vom Fahrplan.",
+          "Haben Sie Kleingeld für Tickets parat, falls Sie nicht im Voraus kaufen können.",
+          "Achten Sie auf die letzte Busverbindung des Tages, besonders von abgelegenen Orten wie dem Schloss."
+        ],
+        "hu": [
+          "Töltse le a tömegközlekedési menetrend alkalmazást, vagy fotózza le a menetrendet.",
+          "Legyen Önnél aprópénz a jegyekhez, ha nem tud előre vásárolni.",
+          "Figyeljen a nap utolsó buszjáratára, különösen a távoli helyekről, mint a kastély."
+        ],
+        "ro": [
+          "Descărcați aplicația de orare a transportului public sau faceți o fotografie a orarului.",
+          "Aveți la îndemână mărunțiș pentru bilete în caz că nu puteți cumpăra în avans.",
+          "Fiți atenți la ultimul autobuz al zilei, mai ales din locații îndepărtate precum castelul."
+        ],
+        "en": [
+          "Download the public transit schedule app or take a photo of the timetable.",
+          "Have small change ready for tickets in case you can't buy in advance.",
+          "Be aware of the last bus of the day, especially from outlying locations like the castle."
+        ]
+      }
+    }
+  }
+}

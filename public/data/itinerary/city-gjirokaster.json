@@ -1,0 +1,1340 @@
+{
+  "city_id": "city-gjirokaster",
+  "anchor": {
+    "name": "Gjirokastra",
+    "coords": [
+      40.0758,
+      20.1388
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Basar",
+            "hu": "Régi Bazár",
+            "ro": "Bazarul Vechi",
+            "en": "Old Bazaar"
+          },
+          "coords": [
+            20.1386,
+            40.0745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval, hogy magába szívja a hely hangulatát.",
+            "ro": "Începeți ziua aici cu o cafea pentru a absorbi atmosfera.",
+            "en": "Start here with a coffee to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kadare-Haus",
+            "hu": "Kadare-ház",
+            "ro": "Casa Kadare",
+            "en": "Kadare House"
+          },
+          "coords": [
+            20.1379,
+            40.074
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturfans, dem berühmtesten Sohn der Stadt gewidmet.",
+            "hu": "Irodalomkedvelőknek kötelező, a város leghíresebb szülöttének szentelve.",
+            "ro": "O vizită obligatorie pentru fanii literaturii, dedicată celui mai faimos fiu al orașului.",
+            "en": "A must-visit for literature fans, dedicated to the city's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gjirokastra",
+            "hu": "Gjirokastra erődje",
+            "ro": "Cetatea Gjirokastra",
+            "en": "Gjirokastra Fortress"
+          },
+          "coords": [
+            20.1411,
+            40.0763
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für das Waffenmuseum und die Aussicht ein.",
+            "hu": "Szánjon elég időt a fegyvermúzeumra és a kilátásra.",
+            "ro": "Planificați suficient timp pentru muzeul de arme și priveliști.",
+            "en": "Allow plenty of time for the weapons museum and the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Zekate-Haus",
+            "hu": "Zekate-ház",
+            "ro": "Casa Zekate",
+            "en": "Zekate House"
+          },
+          "coords": [
+            20.1425,
+            40.0718
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Eines der prächtigsten Beispiele osmanischer Turmhäuser.",
+            "hu": "Az oszmán toronyházak egyik legpompásabb példája.",
+            "ro": "Unul dintre cele mai grandioase exemple de case turn otomane.",
+            "en": "One of the most splendid examples of Ottoman tower houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Skenduli-Haus",
+            "hu": "Skenduli-ház",
+            "ro": "Casa Skenduli",
+            "en": "Skenduli House"
+          },
+          "coords": [
+            20.141,
+            40.0725
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:52",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Familie führt oft selbst durch das Haus und teilt persönliche Geschichten.",
+            "hu": "Gyakran maga a család vezet körbe a házban, személyes történeteket megosztva.",
+            "ro": "Familia însăși oferă adesea tururi ale casei, împărtășind povești personale.",
+            "en": "The family often gives tours themselves, sharing personal stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.1382,
+            40.0735
+          ],
+          "category": "museums",
+          "arrive_at": "16:12",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Im Geburtshaus von Enver Hoxha gelegen, bietet es Einblicke in das traditionelle Leben.",
+            "hu": "Enver Hoxha szülőházában található, bepillantást nyújt a hagyományos életbe.",
+            "ro": "Situat în casa natală a lui Enver Hoxha, oferă o perspectivă asupra vieții tradiționale.",
+            "en": "Located in Enver Hoxha's birth house, it offers insights into traditional life."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisk von Gjirokastra",
+            "hu": "Gjirokastrai Obeliszk",
+            "ro": "Obeliscul din Gjirokastra",
+            "en": "Gjirokastra Obelisk"
+          },
+          "coords": [
+            20.1405,
+            40.0772
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:26",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem Panoramablick auf die Stadt zu beenden.",
+            "hu": "Tökéletes hely a nap befejezéséhez, panorámás kilátással a városra.",
+            "ro": "Locul perfect pentru a încheia ziua cu o vedere panoramică asupra orașului.",
+            "en": "The perfect spot to end your day with a panoramic view of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen des Alten Basars, wo osmanische Architektur auf lebhaftes Treiben trifft. Steigen Sie zur mächtigen Festung auf, die über der Stadt thront und atemberaubende Ausblicke bietet. Der Nachmittag ist der Erkundung der einzigartigen Turmhäuser gewidmet, die Gjirokastra den Beinamen „Stadt aus Stein“ gaben. Schließen Sie Ihren Rundgang mit einem Besuch des Ethnographischen Museums ab, um das reiche Erbe dieser UNESCO-Welterbestätte vollständig zu erfassen.",
+        "hu": "A nap a Régi Bazár szívében kezdődik, ahol az oszmán építészet és a nyüzsgő élet találkozik. Másszon fel a város fölé tornyosuló hatalmas erődbe, ahonnan lélegzetelállító kilátás nyílik. A délután Gjirokastra egyedülálló toronyházainak felfedezésével telik, amelyek a „kőváros” becenevet adták neki. Sétáját a Néprajzi Múzeum meglátogatásával zárja, hogy teljes mértékben megértse ennek az UNESCO világörökségi helyszínnek a gazdag örökségét.",
+        "ro": "Ziua începe în inima Bazarului Vechi, unde arhitectura otomană întâlnește agitația vieții. Urcați la cetatea impunătoare ce domină orașul, oferind priveliști uluitoare. După-amiaza este dedicată explorării caselor turn unice care i-au adus Gjirokastrei supranumele de „Orașul de Piatră”. Încheiați turul pietonal cu o vizită la Muzeul Etnografic pentru a înțelege pe deplin bogata moștenire a acestui sit al Patrimoniului Mondial UNESCO.",
+        "en": "Your day begins in the heart of the Old Bazaar, where Ottoman architecture meets vibrant activity. Ascend to the mighty fortress that dominates the city, offering breathtaking views. The afternoon is dedicated to exploring the unique tower houses that earned Gjirokastra its nickname, the 'City of Stone.' Conclude your walking tour with a visit to the Ethnographic Museum to fully grasp the rich heritage of this UNESCO World Heritage site."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qifqi",
+            "tip": "Probieren Sie diese lokalen Reisbällchen, eine Spezialität von Gjirokastra."
+          },
+          {
+            "name": "Tave Kosi",
+            "tip": "Ein herzhafter gebackener Lamm- und Joghurt-Auflauf."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Ein traditionelles Dessert aus Schafsmilch, Feigen und Zimt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qifqi",
+            "tip": "Kóstolja meg ezeket a helyi rizsgombócokat, Gjirokastra specialitását."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Kiadós sült bárány- és joghurtos rakott étel."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Hagyományos desszert juhtejből, fügéből és fahéjból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qifqi",
+            "tip": "Încercați aceste bile locale de orez, o specialitate din Gjirokastra."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "O tocană consistentă de miel și iaurt la cuptor."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Un desert tradițional din lapte de oaie, smochine și scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qifqi",
+            "tip": "Try these local rice balls, a Gjirokastra specialty."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "A hearty baked lamb and yogurt casserole."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "A traditional dessert made from sheep's milk, figs, and cinnamon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern für einen spektakulären Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Skenduli-Hauses",
+            "tip": "Ein friedlicher Innenhof, um der Hektik zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erőd falai naplementekor",
+            "tip": "Keressen egy csendes helyet a falakon a látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Skenduli-ház udvara",
+            "tip": "Békés belső udvar, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Casei Skenduli",
+            "tip": "O curte interioară pașnică pentru a evada din agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "Find a quiet spot on the walls for a spectacular view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Skenduli House",
+            "tip": "A peaceful courtyard to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Handgefertigte Teppiche, Holzschnitzereien und lokale Delikatessen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Filzprodukten und bestickten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "Kézzel készített szőnyegek, fafaragások és helyi finomságok."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen nemez termékeket és hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Covoare lucrate manual, sculpturi în lemn și delicatese locale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din pâslă și textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "Handmade rugs, wood carvings, and local delicacies."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for felt products and embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen steil und mit Kopfsteinpflaster gepflastert sind.",
+          "Nehmen Sie ausreichend Wasser mit, besonders in den Sommermonaten.",
+          "Einige Häuser verlangen eine kleine Eintrittsgebühr, oft direkt an die Familie gezahlt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák meredekek és macskakövesek.",
+          "Vigyen magával elegendő vizet, különösen a nyári hónapokban.",
+          "Néhány ház kis belépődíjat kér, amelyet gyakran közvetlenül a családnak fizetnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte și pavate cu piatră cubică.",
+          "Luați suficientă apă, mai ales în lunile de vară.",
+          "Unele case percep o mică taxă de intrare, adesea plătită direct familiei."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and cobblestoned.",
+          "Bring plenty of water, especially during the summer months.",
+          "Some houses charge a small entrance fee, often paid directly to the family."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sieben Brunnen",
+            "hu": "Hét Kút",
+            "ro": "Șapte Fântâni",
+            "en": "Seven Fountains"
+          },
+          "coords": [
+            20.135,
+            40.071
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt am Rande der Altstadt.",
+            "hu": "Jó kiindulópont az óváros szélén.",
+            "ro": "Un bun punct de plecare la marginea orașului vechi.",
+            "en": "A good starting point on the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Basar",
+            "hu": "Régi Bazár",
+            "ro": "Bazarul Vechi",
+            "en": "Old Bazaar"
+          },
+          "coords": [
+            20.1386,
+            40.0745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a sikátorokat.",
+            "ro": "Încuiați bicicleta și explorați aleile pe jos.",
+            "en": "Lock up your bike and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalter-Krieg-Tunnel",
+            "hu": "Hidegháborús alagút",
+            "ro": "Tunelul Războiului Rece",
+            "en": "Cold War Tunnel"
+          },
+          "coords": [
+            20.1365,
+            40.078
+          ],
+          "category": "museums",
+          "arrive_at": "10:57",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine faszinierende unterirdische Reise in die paranoide Vergangenheit Albaniens.",
+            "hu": "Lenyűgöző földalatti utazás Albánia paranoiás múltjába.",
+            "ro": "O călătorie subterană fascinantă în trecutul paranoic al Albaniei.",
+            "en": "A fascinating underground journey into Albania's paranoid past."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gjirokastra",
+            "hu": "Gjirokastra erődje",
+            "ro": "Cetatea Gjirokastra",
+            "en": "Gjirokastra Fortress"
+          },
+          "coords": [
+            20.1411,
+            40.0763
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist eine Herausforderung, aber die Aussicht ist es wert. Gehen Sie langsam.",
+            "hu": "A hegymászás kihívást jelent, de a kilátás megéri. Lassan haladjon.",
+            "ro": "Urcușul este o provocare, dar priveliștea merită. Mergeți încet.",
+            "en": "The climb is challenging, but the view is worth it. Go slow."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisk von Gjirokastra",
+            "hu": "Gjirokastrai Obeliszk",
+            "ro": "Obeliscul din Gjirokastra",
+            "en": "Gjirokastra Obelisk"
+          },
+          "coords": [
+            20.1405,
+            40.0772
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang der Tour mit einer letzten großartigen Aussicht.",
+            "hu": "A túra pihentető befejezése egy utolsó nagyszerű kilátással.",
+            "ro": "O încheiere relaxantă a turului cu o ultimă priveliște superbă.",
+            "en": "A relaxing end to the tour with a final great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour konzentriert sich auf die Erkundung der breiteren Umgebung von Gjirokastra. Beginnen Sie im flacheren Teil der Stadt und radeln Sie dann zum Basar. Stellen Sie sich der Herausforderung des Anstiegs zur Festung, wo Sie mit einer unvergleichlichen Aussicht belohnt werden. Am Nachmittag entdecken Sie verborgene Relikte des Kalten Krieges, bevor Sie Ihre Tour an einem Aussichtspunkt beenden, der die ganze steinerne Stadt überblickt.",
+        "hu": "A kerékpártúra Gjirokastra tágabb környezetének felfedezésére összpontosít. Kezdjen a város laposabb részén, majd tekerjen fel a bazárhoz. Vállalja a kihívást, másszon fel az erődbe, ahol páratlan kilátásban lesz része. Délután fedezze fel a hidegháború rejtett emlékeit, mielőtt egy kilátópontnál fejezi be a túrát, ahonnan az egész kővárosra rálátni.",
+        "ro": "Turul cu bicicleta se concentrează pe explorarea împrejurimilor mai largi ale Gjirokastrei. Începeți în partea mai plată a orașului, apoi pedalați până la bazar. Acceptați provocarea de a urca la cetate, unde veți fi răsplătit cu priveliști de neegalat. După-amiaza, descoperiți relicve ascunse ale Războiului Rece înainte de a încheia turul la un punct de belvedere cu vedere la întregul oraș de piatră.",
+        "en": "Your bike tour focuses on exploring the wider surroundings of Gjirokastra. Start in the flatter part of the city, then cycle up to the bazaar. Take on the challenge of the climb to the fortress, where you'll be rewarded with unparalleled views. In the afternoon, discover hidden relics of the Cold War before finishing your tour at a viewpoint overlooking the entire stone city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qifqi",
+            "tip": "Probieren Sie diese lokalen Reisbällchen, eine Spezialität von Gjirokastra."
+          },
+          {
+            "name": "Tave Kosi",
+            "tip": "Ein herzhafter gebackener Lamm- und Joghurt-Auflauf."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Ein traditionelles Dessert aus Schafsmilch, Feigen und Zimt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qifqi",
+            "tip": "Kóstolja meg ezeket a helyi rizsgombócokat, Gjirokastra specialitását."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Kiadós sült bárány- és joghurtos rakott étel."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Hagyományos desszert juhtejből, fügéből és fahéjból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qifqi",
+            "tip": "Încercați aceste bile locale de orez, o specialitate din Gjirokastra."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "O tocană consistentă de miel și iaurt la cuptor."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Un desert tradițional din lapte de oaie, smochine și scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qifqi",
+            "tip": "Try these local rice balls, a Gjirokastra specialty."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "A hearty baked lamb and yogurt casserole."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "A traditional dessert made from sheep's milk, figs, and cinnamon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern für einen spektakulären Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Skenduli-Hauses",
+            "tip": "Ein friedlicher Innenhof, um der Hektik zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erőd falai naplementekor",
+            "tip": "Keressen egy csendes helyet a falakon a látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Skenduli-ház udvara",
+            "tip": "Békés belső udvar, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Casei Skenduli",
+            "tip": "O curte interioară pașnică pentru a evada din agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "Find a quiet spot on the walls for a spectacular view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Skenduli House",
+            "tip": "A peaceful courtyard to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Handgefertigte Teppiche, Holzschnitzereien und lokale Delikatessen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Filzprodukten und bestickten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "Kézzel készített szőnyegek, fafaragások és helyi finomságok."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen nemez termékeket és hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Covoare lucrate manual, sculpturi în lemn și delicatese locale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din pâslă și textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "Handmade rugs, wood carvings, and local delicacies."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for felt products and embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Seien Sie auf steile Anstiege und Kopfsteinpflaster vorbereitet; ein Mountainbike ist besser als ein Rennrad.",
+          "Die Einheimischen sind nicht an viele Radfahrer gewöhnt, fahren Sie also vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Készüljön fel a meredek emelkedőkre és a macskakőre; egy mountain bike jobb, mint egy versenybicikli.",
+          "A helyiek nincsenek hozzászokva a sok kerékpároshoz, ezért vezessen óvatosan.",
+          "Mindig zárja le jól a kerékpárját."
+        ],
+        "ro": [
+          "Fiți pregătiți pentru urcări abrupte și piatră cubică; o bicicletă de munte este mai bună decât una de curse.",
+          "Localnicii nu sunt obișnuiți cu mulți bicicliști, așa că circulați cu prudență.",
+          "Întotdeauna încuiați-vă bine bicicleta."
+        ],
+        "en": [
+          "Be prepared for steep climbs and cobblestones; a mountain bike is better than a road bike.",
+          "Locals are not used to many cyclists, so ride with caution.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz bei der Festung",
+            "hu": "Parkoló az Erődnél",
+            "ro": "Parcare lângă Cetate",
+            "en": "Parking at the Fortress"
+          },
+          "coords": [
+            20.1415,
+            40.0755
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den oberen Teil der Stadt zu erkunden.",
+            "hu": "Parkoljon itt, hogy felfedezze a város felső részét.",
+            "ro": "Parcați aici pentru a explora partea superioară a orașului.",
+            "en": "Park here to explore the upper part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gjirokastra",
+            "hu": "Gjirokastra erődje",
+            "ro": "Cetatea Gjirokastra",
+            "en": "Gjirokastra Fortress"
+          },
+          "coords": [
+            20.1411,
+            40.0763
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der erste Halt des Tages, um die Menschenmassen zu vermeiden.",
+            "hu": "A nap első megállója, hogy elkerülje a tömeget.",
+            "ro": "Prima oprire a zilei pentru a evita aglomerația.",
+            "en": "The first stop of the day to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zekate-Haus",
+            "hu": "Zekate-ház",
+            "ro": "Casa Zekate",
+            "en": "Zekate House"
+          },
+          "coords": [
+            20.1425,
+            40.0718
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Festung, bergab.",
+            "hu": "Rövid séta az erődtől, lefelé a hegyről.",
+            "ro": "O scurtă plimbare de la cetate, la vale.",
+            "en": "A short walk from the fortress, downhill."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Basar",
+            "hu": "Parkoló a Bazárnál",
+            "ro": "Parcare la Bazar",
+            "en": "Parking at the Bazaar"
+          },
+          "coords": [
+            20.137,
+            40.073
+          ],
+          "category": "transport",
+          "arrive_at": "12:45",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum unteren Teil und parken Sie erneut für das zweite Cluster.",
+            "hu": "Vezessen le az alsó részre, és parkoljon újra a második fürthöz.",
+            "ro": "Conduceți spre partea inferioară și parcați din nou pentru al doilea cluster.",
+            "en": "Drive down to the lower part and park again for the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Basar",
+            "hu": "Régi Bazár",
+            "ro": "Bazarul Vechi",
+            "en": "Old Bazaar"
+          },
+          "coords": [
+            20.1386,
+            40.0745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:53",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für das Mittagessen und den Einkauf von Souvenirs.",
+            "hu": "Szánjon időt ebédre és szuvenírvásárlásra.",
+            "ro": "Acordați-vă timp pentru prânz și cumpărături de suveniruri.",
+            "en": "Take your time for lunch and souvenir shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.1382,
+            40.0735
+          ],
+          "category": "museums",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der letzte Halt, der sich in der Nähe des Parkplatzes befindet.",
+            "hu": "Az utolsó megálló, közel a parkolóhoz.",
+            "ro": "Ultima oprire, situată convenabil lângă parcare.",
+            "en": "The final stop, conveniently located near the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Gjirokastra in zwei bequemen Clustern erkunden. Parken Sie zuerst in der Nähe der Festung, um den oberen Teil der Stadt zu Fuß zu entdecken, einschließlich der Burg und der beeindruckenden Turmhäuser. Anschließend fahren Sie hinunter zum Basar, parken erneut und tauchen in das Herz der Altstadt ein, wo Sie zu Mittag essen, einkaufen und das Ethnographische Museum besuchen, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Autóval Gjirokastrát két kényelmes részletben fedezheti fel. Először parkoljon az erőd közelében, hogy gyalog fedezze fel a város felső részét, beleértve a várat és a lenyűgöző toronyházakat. Ezután hajtson le a bazárhoz, parkoljon újra, és merüljön el az óváros szívében, ahol ebédelhet, vásárolhat és meglátogathatja a Néprajzi Múzeumot, mielőtt folytatná útját.",
+        "ro": "Cu mașina, puteți explora Gjirokastra în două grupuri convenabile. Parcați mai întâi lângă cetate pentru a explora pe jos partea superioară a orașului, inclusiv castelul și impresionantele case turn. Apoi, coborâți cu mașina la bazar, parcați din nou și scufundați-vă în inima orașului vechi pentru prânz, cumpărături și o vizită la Muzeul Etnografic înainte de a vă continua călătoria.",
+        "en": "With a car, you can explore Gjirokastra in two convenient clusters. First, park near the fortress to discover the upper part of the city on foot, including the castle and the impressive tower houses. Then, drive down to the bazaar area, park again, and immerse yourself in the heart of the old town for lunch, shopping, and a visit to the Ethnographic Museum before continuing your journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qifqi",
+            "tip": "Probieren Sie diese lokalen Reisbällchen, eine Spezialität von Gjirokastra."
+          },
+          {
+            "name": "Tave Kosi",
+            "tip": "Ein herzhafter gebackener Lamm- und Joghurt-Auflauf."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Ein traditionelles Dessert aus Schafsmilch, Feigen und Zimt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qifqi",
+            "tip": "Kóstolja meg ezeket a helyi rizsgombócokat, Gjirokastra specialitását."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Kiadós sült bárány- és joghurtos rakott étel."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Hagyományos desszert juhtejből, fügéből és fahéjból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qifqi",
+            "tip": "Încercați aceste bile locale de orez, o specialitate din Gjirokastra."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "O tocană consistentă de miel și iaurt la cuptor."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Un desert tradițional din lapte de oaie, smochine și scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qifqi",
+            "tip": "Try these local rice balls, a Gjirokastra specialty."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "A hearty baked lamb and yogurt casserole."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "A traditional dessert made from sheep's milk, figs, and cinnamon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern für einen spektakulären Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Skenduli-Hauses",
+            "tip": "Ein friedlicher Innenhof, um der Hektik zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erőd falai naplementekor",
+            "tip": "Keressen egy csendes helyet a falakon a látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Skenduli-ház udvara",
+            "tip": "Békés belső udvar, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Casei Skenduli",
+            "tip": "O curte interioară pașnică pentru a evada din agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "Find a quiet spot on the walls for a spectacular view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Skenduli House",
+            "tip": "A peaceful courtyard to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Handgefertigte Teppiche, Holzschnitzereien und lokale Delikatessen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Filzprodukten und bestickten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "Kézzel készített szőnyegek, fafaragások és helyi finomságok."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen nemez termékeket és hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Covoare lucrate manual, sculpturi în lemn și delicatese locale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din pâslă și textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "Handmade rugs, wood carvings, and local delicacies."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for felt products and embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und steil; ein kleines Auto ist von Vorteil.",
+          "Parken kann eine Herausforderung sein, besonders in der Hochsaison. Seien Sie geduldig.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Orte mittags schließen."
+        ],
+        "hu": [
+          "Az utcák szűkek és meredekek; egy kis autó előnyös.",
+          "A parkolás kihívást jelenthet, különösen a főszezonban. Legyen türelmes.",
+          "Ellenőrizze a nyitvatartási időt, mivel néhány hely délben bezár."
+        ],
+        "ro": [
+          "Străzile sunt înguste și abrupte; o mașină mică este avantajoasă.",
+          "Parcarea poate fi o provocare, mai ales în sezonul de vârf. Aveți răbdare.",
+          "Verificați orele de program, deoarece unele locații se închid la prânz."
+        ],
+        "en": [
+          "The streets are narrow and steep; a small car is advantageous.",
+          "Parking can be challenging, especially in high season. Be patient.",
+          "Check opening hours, as some sites close for lunch."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus zur Festung",
+            "hu": "Busz az Erődhöz",
+            "ro": "Autobuz spre Cetate",
+            "en": "Bus to the Fortress"
+          },
+          "coords": [
+            20.1415,
+            40.0755
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom neuen Stadtzentrum nach oben, um den Aufstieg zu sparen.",
+            "hu": "Menjen helyi busszal az új városközpontból felfelé, hogy megspórolja a mászást.",
+            "ro": "Luați un autobuz local din centrul nou al orașului pentru a economisi urcarea.",
+            "en": "Take a local bus up from the new town center to save the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gjirokastra",
+            "hu": "Gjirokastra erődje",
+            "ro": "Cetatea Gjirokastra",
+            "en": "Gjirokastra Fortress"
+          },
+          "coords": [
+            20.1411,
+            40.0763
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie oben und arbeiten Sie sich nach unten vor.",
+            "hu": "Kezdje fentről, és haladjon lefelé.",
+            "ro": "Începeți de sus și coborâți treptat.",
+            "en": "Start at the top and work your way down."
+          }
+        },
+        {
+          "name": {
+            "de": "Skenduli-Haus",
+            "hu": "Skenduli-ház",
+            "ro": "Casa Skenduli",
+            "en": "Skenduli House"
+          },
+          "coords": [
+            20.141,
+            40.0725
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:13",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang bergab von der Festung.",
+            "hu": "Kellemes séta lefelé az erődtől.",
+            "ro": "O plimbare plăcută la vale de la cetate.",
+            "en": "A pleasant walk downhill from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            20.1382,
+            40.0735
+          ],
+          "category": "museums",
+          "arrive_at": "12:33",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Auf halbem Weg den Hügel hinunter, perfekt für einen Stopp vor dem Mittagessen.",
+            "hu": "Félúton a hegyről lefelé, tökéletes megálló ebéd előtt.",
+            "ro": "La jumătatea dealului, perfect pentru o oprire înainte de prânz.",
+            "en": "Halfway down the hill, perfect for a pre-lunch stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Basar",
+            "hu": "Régi Bazár",
+            "ro": "Bazarul Vechi",
+            "en": "Old Bazaar"
+          },
+          "coords": [
+            20.1386,
+            40.0745
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:11",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der letzte große Halt des Tages, ideal für ein spätes Mittagessen und Einkäufe.",
+            "hu": "A nap utolsó nagy megállója, ideális késői ebédre és vásárlásra.",
+            "ro": "Ultima oprire majoră a zilei, ideală pentru un prânz târziu și cumpărături.",
+            "en": "The last major stop of the day, ideal for a late lunch and shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Sotir-Kirche",
+            "hu": "Szent Szotir-templom",
+            "ro": "Biserica Sf. Sotir",
+            "en": "St. Sotir Church"
+          },
+          "coords": [
+            20.1375,
+            40.0748
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:23",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss Ihrer Erkundung des Basarviertels.",
+            "hu": "A bazárnegyed felfedezésének békés lezárása.",
+            "ro": "O încheiere pașnică a explorării cartierului bazarului.",
+            "en": "A peaceful end to your exploration of the bazaar quarter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt den öffentlichen Nahverkehr, um den steilen Aufstieg zu vermeiden. Nehmen Sie einen Bus zur Festung und beginnen Sie Ihren Tag mit der Erkundung des Gipfels. Von dort aus führt Sie ein gemütlicher Spaziergang bergab durch die Geschichte, vorbei an den berühmten Steinhäusern und Museen. Der Nachmittag findet Sie im geschäftigen Basar, dem Herzen der Stadt, wo Sie lokale Küche genießen und nach Handwerk stöbern können, bevor Sie Ihren Tag beenden.",
+        "hu": "Ez az útvonal a tömegközlekedést használja a meredek emelkedő elkerülésére. Buszozzon fel az erődhöz, és kezdje a napot a csúcs felfedezésével. Onnan egy kellemes séta vezet lefelé a történelmen keresztül, elhaladva a híres kőházak és múzeumok mellett. A délutánt a nyüzsgő bazárban, a város szívében tölti, ahol megkóstolhatja a helyi konyhát és kézműves termékek után kutathat, mielőtt befejezné a napot.",
+        "ro": "Acest traseu folosește transportul public pentru a evita urcarea abruptă. Luați un autobuz până la cetate și începeți ziua explorând vârful dealului. De acolo, o plimbare pe jos relaxantă la vale vă poartă prin istorie, pe lângă faimoasele case de piatră și muzee. După-amiaza vă găsește în bazarul aglomerat, inima orașului, unde vă puteți bucura de bucătăria locală și căuta artizanat înainte de a încheia ziua.",
+        "en": "This route uses public transport to avoid the steep climb. Take a bus up to the fortress and start your day exploring the peak. From there, a leisurely downhill walk takes you through history, past the famous stone houses and museums. The afternoon finds you in the bustling bazaar, the heart of the city, where you can enjoy local cuisine and browse for crafts before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Qifqi",
+            "tip": "Probieren Sie diese lokalen Reisbällchen, eine Spezialität von Gjirokastra."
+          },
+          {
+            "name": "Tave Kosi",
+            "tip": "Ein herzhafter gebackener Lamm- und Joghurt-Auflauf."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Ein traditionelles Dessert aus Schafsmilch, Feigen und Zimt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Qifqi",
+            "tip": "Kóstolja meg ezeket a helyi rizsgombócokat, Gjirokastra specialitását."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "Kiadós sült bárány- és joghurtos rakott étel."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Hagyományos desszert juhtejből, fügéből és fahéjból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Qifqi",
+            "tip": "Încercați aceste bile locale de orez, o specialitate din Gjirokastra."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "O tocană consistentă de miel și iaurt la cuptor."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "Un desert tradițional din lapte de oaie, smochine și scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Qifqi",
+            "tip": "Try these local rice balls, a Gjirokastra specialty."
+          },
+          {
+            "name": "Tavë Kosi",
+            "tip": "A hearty baked lamb and yogurt casserole."
+          },
+          {
+            "name": "Oshaf",
+            "tip": "A traditional dessert made from sheep's milk, figs, and cinnamon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungsmauern bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern für einen spektakulären Blick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Skenduli-Hauses",
+            "tip": "Ein friedlicher Innenhof, um der Hektik zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az erőd falai naplementekor",
+            "tip": "Keressen egy csendes helyet a falakon a látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Skenduli-ház udvara",
+            "tip": "Békés belső udvar, ahol elmenekülhet a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății la apus",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Casei Skenduli",
+            "tip": "O curte interioară pașnică pentru a evada din agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress walls at sunset",
+            "tip": "Find a quiet spot on the walls for a spectacular view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of Skenduli House",
+            "tip": "A peaceful courtyard to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alter Basar",
+            "tip": "Handgefertigte Teppiche, Holzschnitzereien und lokale Delikatessen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Filzprodukten und bestickten Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Bazár",
+            "tip": "Kézzel készített szőnyegek, fafaragások és helyi finomságok."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen nemez termékeket és hímzett textíliákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Vechi",
+            "tip": "Covoare lucrate manual, sculpturi în lemn și delicatese locale."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați produse din pâslă și textile brodate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Bazaar",
+            "tip": "Handmade rugs, wood carvings, and local delicacies."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for felt products and embroidered textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Erkundigen Sie sich nach dem Busfahrplan im neuen Stadtzentrum.",
+          "Die Busse können unregelmäßig fahren, also planen Sie etwas Pufferzeit ein.",
+          "Der Spaziergang bergab ist viel angenehmer als bergauf!"
+        ],
+        "hu": [
+          "Érdeklődjön a buszmenetrendről az új városközpontban.",
+          "A buszok rendszertelenül közlekedhetnek, ezért tervezzen némi puffert.",
+          "A lefelé vezető séta sokkal kellemesebb, mint a felfelé!"
+        ],
+        "ro": [
+          "Întrebați despre programul autobuzelor în centrul nou al orașului.",
+          "Autobuzele pot circula neregulat, așa că planificați-vă timp suplimentar.",
+          "Plimbarea la vale este mult mai plăcută decât cea la deal!"
+        ],
+        "en": [
+          "Ask about the bus schedule in the new town center.",
+          "Buses can be infrequent, so plan for some buffer time.",
+          "The walk downhill is much more pleasant than uphill!"
+        ]
+      }
+    }
+  }
+}

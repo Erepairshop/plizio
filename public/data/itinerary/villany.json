@@ -1,0 +1,1419 @@
+{
+  "city_id": "villany",
+  "anchor": {
+    "name": "Wieland",
+    "coords": [
+      45.8694,
+      18.4547
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptstraße (Széchenyi utca)",
+            "hu": "Főutca (Széchenyi utca)",
+            "ro": "Strada principală (Széchenyi utca)",
+            "en": "Main Street (Széchenyi utca)"
+          },
+          "coords": [
+            18.4555,
+            45.8698
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés und beobachten Sie das morgendliche Treiben.",
+            "hu": "Indítsa a napot egy kávéval az egyik kávézóban, és figyelje a reggeli nyüzsgést.",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenele și observați agitația de dimineață.",
+            "en": "Start your day with a coffee at one of the cafes and watch the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            18.4561,
+            45.8705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:48",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die lokale Atmosphäre rund um den Hauptplatz der Stadt.",
+            "hu": "Csodálja meg az építészetet és a helyi hangulatot a város főtere körül.",
+            "ro": "Admirați arhitectura și atmosfera locală din jurul pieței principale a orașului.",
+            "en": "Admire the architecture and the local atmosphere around the town's main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            18.457,
+            45.8711
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe. Beachten Sie die schlichte Eleganz des Innenraums.",
+            "hu": "Egy pillanatnyi csend. Figyelje meg a belső tér egyszerű eleganciáját.",
+            "ro": "Un moment de liniște. Observați eleganța simplă a interiorului.",
+            "en": "A moment of peace. Notice the simple elegance of the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.4533,
+            45.8681
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss, um die Geschichte des Weinbaus in Villány vor der Verkostung zu verstehen.",
+            "hu": "Kötelező program, hogy megértse a villányi borászat történetét a kóstolás előtt.",
+            "ro": "O vizită obligatorie pentru a înțelege istoria vinificației din Villány înainte de degustare.",
+            "en": "A must-visit to understand the history of Villány winemaking before you start tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellerreihe von Villány",
+            "hu": "Villányi pincesor",
+            "ro": "Șirul de crame din Villány",
+            "en": "Villány's Cellar Row"
+          },
+          "coords": [
+            18.4501,
+            45.867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:43",
+          "stay_min": 180,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihr Mittagessen und eine Weinprobe in einem der traditionellen Keller.",
+            "hu": "Tervezze ide az ebédjét és egy borkóstolót az egyik hagyományos pincében.",
+            "ro": "Planificați-vă prânzul aici și o degustare de vinuri într-una dintre cramele tradiționale.",
+            "en": "Plan your lunch and a wine tasting here in one of the traditional cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingebiet Jammertal",
+            "hu": "Jammertal dűlő",
+            "ro": "Regiunea viticolă Jammertal",
+            "en": "Jammertal Wine Region"
+          },
+          "coords": [
+            18.445,
+            45.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang, um den Tag ausklingen zu lassen und die Weinberge aus der Nähe zu sehen.",
+            "hu": "Egy szép séta a nap lezárásaként, hogy közelről is megnézze a szőlőültetvényeket.",
+            "ro": "O plimbare frumoasă pentru a încheia ziua și a vedea podgoriile de aproape.",
+            "en": "A beautiful walk to end the day and see the vineyards up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Villány, dem Herzen des ungarischen Rotweins, beginnt gemütlich auf der Hauptstraße. Am Vormittag erkunden Sie das kulturelle Zentrum mit dem Rathaus und der Reformierten Kirche, bevor Sie im Weinmuseum in die reiche Geschichte der Region eintauchen. Der Mittag ist ganz dem Genuss gewidmet: Sie schlendern durch die berühmte Kellerreihe, kehren in einem traditionellen Keller zum Mittagessen ein und verkosten die preisgekrönten Weine. Am Nachmittag führt Sie ein Spaziergang durch die malerischen Weinberge des Jammertal-Gebiets, wo Sie die Landschaft genießen, die diese außergewöhnlichen Trauben hervorbringt. Am Abend lassen Sie die Erlebnisse bei einem letzten Glas Villányi Franc in einer gemütlichen Weinstube ausklingen.",
+        "hu": "A magyar vörösbor szívében, Villányban töltött napja kényelmesen indul a Főutcán. Délelőtt felfedezi a kulturális központot a Városházával és a Református templommal, mielőtt a Bormúzeumban elmerülne a régió gazdag történelmében. A dél a gasztronómiáé: végigsétál a híres pincesoron, betér egy hagyományos pincébe ebédelni, és megkóstolja a díjnyertes borokat. Délután a festői Jammertal-dűlő szőlőültetvényei között sétál, élvezve a tájat, amely ezeket a kivételes szőlőket termi. Este egy pohár Villányi Franc mellett idézi fel az élményeket egy hangulatos borozóban.",
+        "ro": "Ziua dumneavoastră în Villány, inima vinului roșu maghiar, începe relaxat pe strada principală. Dimineața explorați centrul cultural cu Primăria și Biserica Reformată, înainte de a vă cufunda în istoria bogată a regiunii la Muzeul Vinului. Prânzul este dedicat în întregime plăcerii: vă plimbați pe celebrul șir de crame, luați masa într-o cramă tradițională și degustați vinurile premiate. După-amiaza, o plimbare vă poartă prin podgoriile pitorești din regiunea Jammertal, unde vă bucurați de peisajul care produce acești struguri excepționali. Seara, rememorați experiențele cu un ultim pahar de Villányi Franc într-o tavernă de vinuri primitoare.",
+        "en": "Your day in Villány, the heart of Hungarian red wine, begins leisurely on the main street. In the morning, you'll explore the cultural center with the Town Hall and the Reformed Church before delving into the region's rich history at the Wine Museum. The afternoon is all about indulgence: you'll stroll down the famous cellar row, stop for lunch at a traditional cellar, and taste the award-winning wines. In the afternoon, a walk takes you through the picturesque vineyards of the Jammertal area, where you can enjoy the landscape that produces these exceptional grapes. In the evening, you'll reminisce about the day's experiences over a final glass of Villányi Franc in a cozy wine tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Villányi Franc",
+            "tip": "Der Spitzenrotwein der Region. Suchen Sie nach einem gereiften Jahrgang."
+          },
+          {
+            "name": "Villányi Rosé",
+            "tip": "Knackig und erfrischend, perfekt für einen warmen Nachmittag."
+          },
+          {
+            "name": "Pincepörkölt",
+            "tip": "Ein herzhafter Fleischeintopf, der oft in den Weinkellern serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villányi Franc",
+            "tip": "A borvidék csúcs vörösbora. Keressen egy érett évjáratot."
+          },
+          {
+            "name": "Villányi Rosé",
+            "tip": "Friss és ropogós, tökéletes egy meleg délutánra."
+          },
+          {
+            "name": "Pincepörkölt",
+            "tip": "Kiadós pörkölt, amit gyakran szolgálnak fel a borospincékben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villányi Franc",
+            "tip": "Vinul roșu de top al regiunii. Căutați o recoltă matură."
+          },
+          {
+            "name": "Villányi Rosé",
+            "tip": "Proaspăt și revigorant, perfect pentru o după-amiază călduroasă."
+          },
+          {
+            "name": "Pincepörkölt",
+            "tip": "O tocană de carne consistentă, adesea servită în crame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villányi Franc",
+            "tip": "The region's top red wine. Look for a mature vintage."
+          },
+          {
+            "name": "Villányi Rosé",
+            "tip": "Crisp and refreshing, perfect for a warm afternoon."
+          },
+          {
+            "name": "Pincepörkölt (Cellar Stew)",
+            "tip": "A hearty meat stew often served in the wine cellars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Reformierte Kirche",
+            "tip": "Ein ruhiger Ort zur Besinnung im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang im Jammertal",
+            "tip": "Genießen Sie die Stille zwischen den Weinreben am späten Nachmittag.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ein stiller Winkel in einem Weinkeller",
+            "tip": "Finden Sie eine weniger besuchte Kellerei für eine persönliche Verkostung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Református templom",
+            "tip": "Csendes hely az elmélkedésre a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Jammertal-dűlőn",
+            "tip": "Élvezze a csendet a szőlőtőkék között a késő délutáni órákban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy csendes zug egy borospincében",
+            "tip": "Keressen egy kevésbé forgalmas pincészetet egy személyesebb kóstolóhoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Reformată",
+            "tip": "Un loc liniștit pentru reflecție în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în Jammertal",
+            "tip": "Bucurați-vă de liniștea dintre viile de vie după-amiaza târziu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Un colț liniștit într-o cramă",
+            "tip": "Găsiți o cramă mai puțin aglomerată pentru o degustare personală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reformed Church",
+            "tip": "A quiet place for reflection in the heart of the town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk in Jammertal",
+            "tip": "Enjoy the silence among the vines in the late afternoon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A quiet corner in a wine cellar",
+            "tip": "Find a less crowded cellar for a more personal tasting experience.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinflaschen kaufen",
+            "tip": "Kaufen Sie direkt bei den Winzern in der Kellerreihe. Viele bieten Versand an."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Suchen Sie nach handwerklich hergestelltem Käse oder Wurstwaren, die gut zum Wein passen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palackozott bor vásárlás",
+            "tip": "Vásároljon közvetlenül a termelőktől a pincesoron. Sokan postázást is vállalnak."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Keressen kézműves sajtokat vagy felvágottakat, amelyek jól illenek a borhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cumpărați sticle de vin",
+            "tip": "Cumpărați direct de la producători de pe șirul de crame. Mulți oferă transport."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Căutați brânzeturi artizanale sau mezeluri care se potrivesc bine cu vinul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buy Bottles of Wine",
+            "tip": "Buy directly from the winemakers on the cellar row. Many offer shipping."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Look for artisanal cheeses or cured meats that pair well with the wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster und unebenen Wegen unterwegs sein werden.",
+          "Die meisten Keller akzeptieren Kartenzahlung, aber etwas Bargeld ist immer nützlich.",
+          "Planen Sie im Voraus, wenn Sie einen bestimmten Winzer besuchen möchten, da einige eine Reservierung erfordern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni macskakövön és egyenetlen utakon.",
+          "A legtöbb pince elfogad kártyát, de egy kis készpénz mindig hasznos.",
+          "Tervezzen előre, ha egy adott borászt szeretne meglátogatni, mert némelyikükhöz bejelentkezés szükséges."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe pavele și poteci denivelate.",
+          "Majoritatea cramelor acceptă plata cu cardul, dar este întotdeauna util să aveți niște numerar.",
+          "Planificați din timp dacă doriți să vizitați un anumit vinificator, deoarece unii necesită rezervare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on cobblestones and uneven paths.",
+          "Most cellars accept credit cards, but having some cash is always useful.",
+          "Plan ahead if you want to visit a specific winemaker, as some may require reservations."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            18.4561,
+            45.8705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ausgangspunkt. Stellen Sie Ihr Fahrrad ab und erkunden Sie die unmittelbare Umgebung zu Fuß.",
+            "hu": "Ideális kiindulópont. Tegye le a biciklit, és fedezze fel a közvetlen környéket gyalog.",
+            "ro": "Un punct de plecare ideal. Parcați bicicleta și explorați zona înconjurătoare pe jos.",
+            "en": "An ideal starting point. Park your bike and explore the immediate area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.4533,
+            45.8681
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lernen Sie die Grundlagen, bevor Sie in die Keller gehen. Gute Fahrradständer vorhanden.",
+            "hu": "Ismerje meg az alapokat, mielőtt a pincékbe indul. Jó kerékpártárolók állnak rendelkezésre.",
+            "ro": "Învățați elementele de bază înainte de a merge la crame. Există suporturi bune pentru biciclete.",
+            "en": "Learn the basics before you head to the cellars. Good bike racks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellerreihe von Villány (unterer Teil)",
+            "hu": "Villányi pincesor (alsó szakasz)",
+            "ro": "Șirul de crame din Villány (partea de jos)",
+            "en": "Villány's Cellar Row (lower section)"
+          },
+          "coords": [
+            18.4501,
+            45.867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zeit für das Mittagessen und die erste Weinprobe. Schieben Sie Ihr Rad durch die Menschenmenge.",
+            "hu": "Eljött az ebéd és az első borkóstoló ideje. Tolja a biciklit a tömegben.",
+            "ro": "Timpul pentru prânz și prima degustare de vin. Împingeți bicicleta prin mulțime.",
+            "en": "Time for lunch and the first wine tasting. Walk your bike through the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingebiet Jammertal",
+            "hu": "Jammertal dűlő",
+            "ro": "Regiunea viticolă Jammertal",
+            "en": "Jammertal Wine Region"
+          },
+          "coords": [
+            18.445,
+            45.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Radtour durch die Weinberge. Halten Sie an, um Fotos zu machen.",
+            "hu": "Kellemes biciklitúra a szőlőültetvények között. Álljon meg fotózni.",
+            "ro": "O plimbare plăcută cu bicicleta printre podgorii. Opriți-vă pentru a face fotografii.",
+            "en": "A pleasant bike ride through the vineyards. Stop to take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Nagyharsány",
+            "hu": "Nagyharsányi Szoborpark",
+            "ro": "Parcul de sculpturi Nagyharsány",
+            "en": "Nagyharsány Sculpture Park"
+          },
+          "coords": [
+            18.4389,
+            45.858
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Eine Mischung aus Kunst und Natur. Der Anstieg ist die Aussicht wert.",
+            "hu": "A művészet és a természet keveréke. Az emelkedő megéri a kilátást.",
+            "ro": "Un amestec de artă și natură. Urcușul merită priveliștea.",
+            "en": "A mix of art and nature. The climb is worth the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellerreihe von Villány (oberer Teil)",
+            "hu": "Villányi pincesor (felső szakasz)",
+            "ro": "Șirul de crame din Villány (partea de sus)",
+            "en": "Villány's Cellar Row (upper section)"
+          },
+          "coords": [
+            18.4525,
+            45.8695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kehren Sie für eine letzte Verkostung zurück und genießen Sie die Abendsonne.",
+            "hu": "Térjen vissza egy utolsó kóstolóra, és élvezze az esti napsütést.",
+            "ro": "Întoarceți-vă pentru o ultimă degustare și bucurați-vă de soarele de seară.",
+            "en": "Return for one last tasting and enjoy the evening sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erleben Sie Villány und seine Weinberge hautnah. Starten Sie im Zentrum und radeln Sie zum Weinmuseum, um sich auf den Tag einzustimmen. Der Vormittag führt Sie zur berühmten Kellerreihe für ein herzhaftes Mittagessen und die erste Weinprobe. Gestärkt geht es am Nachmittag auf eine malerische Tour durch das Jammertal und weiter zum beeindruckenden Skulpturenpark in Nagyharsány, wo sich Kunst und Natur vereinen. Der Rückweg führt Sie erneut zur Kellerreihe, um bei Sonnenuntergang die besten Tropfen der Region zu genießen. Es ist ein Tag voller Aktivität und Genuss.",
+        "hu": "Két keréken testközelből élheti át Villányt és szőlőültetvényeit. Induljon a központból, és tekerjen el a Bormúzeumhoz, hogy ráhangolódjon a napra. A délelőtt a híres pincesorra vezet egy kiadós ebédre és az első borkóstolóra. Megerősödve délután egy festői túrára indul a Jammertal-dűlőn keresztül a lenyűgöző Nagyharsányi Szoborparkig, ahol a művészet és a természet egyesül. Visszafelé ismét a pincesorra vezet az út, hogy naplementekor élvezhesse a borvidék legjobb borait. Ez egy aktivitással és élvezetekkel teli nap.",
+        "ro": "Pe două roți, veți experimenta Villány și podgoriile sale de aproape. Porniți din centru și pedalați până la Muzeul Vinului pentru a intra în atmosfera zilei. Dimineața vă duce la faimosul șir de crame pentru un prânz consistent și prima degustare de vin. Întăriți, după-amiaza porniți într-un tur pitoresc prin Jammertal și mai departe spre impresionantul Parc de Sculpturi din Nagyharsány, unde arta și natura se unesc. Drumul de întoarcere vă duce din nou la șirul de crame pentru a savura cele mai bune vinuri ale regiunii la apus. Este o zi plină de activitate și răsfăț.",
+        "en": "On two wheels, you'll experience Villány and its vineyards up close. Start in the center and cycle to the Wine Museum to get in the mood for the day. The morning takes you to the famous cellar row for a hearty lunch and the first wine tasting. Re-energized, you'll embark on a scenic afternoon tour through Jammertal and on to the impressive Nagyharsány Sculpture Park, where art and nature merge. The way back leads you once again to the cellar row to enjoy the region's best wines at sunset. It's a day full of activity and indulgence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fröccs (gespritzter Wein)",
+            "tip": "Eine leichtere Option für Radfahrer, besonders an heißen Tagen."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Salziges Gebäck, das perfekt zu einer Weinprobe passt und Energie liefert."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Ein süßer Genuss, den man oft auf lokalen Märkten findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fröccs",
+            "tip": "Könnyedebb opció a bicikliseknek, különösen meleg napokon."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Sós sütemény, amely tökéletesen illik egy borkóstolóhoz és energiát ad."
+          },
+          {
+            "name": "Kürtőskalács",
+            "tip": "Édes finomság, amit gyakran találni a helyi piacokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șpriț (Fröccs)",
+            "tip": "O opțiune mai ușoară pentru bicicliști, mai ales în zilele călduroase."
+          },
+          {
+            "name": "Pogăcele (Pogácsa)",
+            "tip": "Produse de patiserie sărate, perfecte pentru o degustare de vin și pentru un plus de energie."
+          },
+          {
+            "name": "Cozonac secuiesc (Kürtőskalács)",
+            "tip": "Un deliciu dulce, adesea găsit în piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fröccs (Wine Spritzer)",
+            "tip": "A lighter option for cyclists, especially on hot days."
+          },
+          {
+            "name": "Pogácsa",
+            "tip": "Salty pastries that are perfect with a wine tasting and provide energy."
+          },
+          {
+            "name": "Chimney Cake (Kürtőskalács)",
+            "tip": "A sweet treat often found at local markets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Berg Szársomlyó",
+            "tip": "Stellen Sie Ihr Rad am Fuße des Berges ab und wandern Sie für eine atemberaubende Aussicht nach oben.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rast in den Weinbergen",
+            "tip": "Machen Sie eine Pause auf einer Bank zwischen den Reben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Skulpturenpark am Morgen",
+            "tip": "Besuchen Sie den Park früh, um die Stille und das Morgenlicht zu genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Szársomlyó hegyről",
+            "tip": "Tegye le a biciklit a hegy lábánál, és sétáljon fel a lélegzetelállító kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pihenő a szőlőben",
+            "tip": "Tartson egy szünetet egy padon a tőkék között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szoborpark reggel",
+            "tip": "Látogasson el a parkba korán, hogy élvezze a csendet és a reggeli fényeket.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe Muntele Szársomlyó",
+            "tip": "Lăsați bicicleta la poalele muntelui și urcați pentru o priveliște uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pauză în podgorii",
+            "tip": "Luați o pauză pe o bancă printre viile de vie.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul de sculpturi dimineața",
+            "tip": "Vizitați parcul devreme pentru a vă bucura de liniște și de lumina dimineții.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Szársomlyó Hill",
+            "tip": "Leave your bike at the foot of the hill and hike up for a breathtaking view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Rest in the vineyards",
+            "tip": "Take a break on a bench among the vines.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sculpture Park in the morning",
+            "tip": "Visit the park early to enjoy the silence and the morning light.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Weinträger",
+            "tip": "Einige Geschäfte verkaufen spezielle Halterungen, um Weinflaschen sicher auf dem Fahrrad zu transportieren."
+          },
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein süßes und leichtes Souvenir, das einfach zu transportieren ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros bortartó",
+            "tip": "Néhány üzlet különleges tartókat árul, hogy biztonságosan szállíthassa a borosüvegeket a kerékpáron."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Édes és könnyű szuvenír, amelyet egyszerű szállítani."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suport de vin pentru bicicletă",
+            "tip": "Unele magazine vând suporturi speciale pentru a transporta sticlele de vin în siguranță pe bicicletă."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir dulce și ușor, simplu de transportat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle Wine Rack",
+            "tip": "Some shops sell special racks to safely transport wine bottles on your bike."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "A sweet and light souvenir that is easy to transport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trinken Sie verantwortungsbewusst. Planen Sie nach Weinproben genügend Zeit ein, bevor Sie weiterfahren.",
+          "Die Wege können hügelig sein, ein Fahrrad mit Gängen wird empfohlen.",
+          "Nehmen Sie viel Wasser mit, besonders an sonnigen Tagen."
+        ],
+        "hu": [
+          "Igyon felelősséggel. A borkóstolók után hagyjon elegendő időt, mielőtt tovább teker.",
+          "Az utak dombosak lehetnek, sebességváltós kerékpár ajánlott.",
+          "Vigyen magával sok vizet, különösen napsütéses napokon."
+        ],
+        "ro": [
+          "Beți în mod responsabil. Lăsați suficient timp după degustările de vin înainte de a continua drumul.",
+          "Traseele pot fi deluroase, se recomandă o bicicletă cu viteze.",
+          "Luați multă apă cu dumneavoastră, mai ales în zilele însorite."
+        ],
+        "en": [
+          "Drink responsibly. Allow plenty of time after wine tastings before cycling again.",
+          "The paths can be hilly, a bike with gears is recommended.",
+          "Bring plenty of water, especially on sunny days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 15.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Skulpturenpark Nagyharsány",
+            "hu": "Nagyharsányi Szoborpark",
+            "ro": "Parcul de sculpturi Nagyharsány",
+            "en": "Nagyharsány Sculpture Park"
+          },
+          "coords": [
+            18.4389,
+            45.858
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Morgenkühle zu nutzen. Es gibt ausreichend Parkplätze.",
+            "hu": "Kezdje itt, hogy kihasználja a reggeli hűvöset. Elegendő parkolóhely áll rendelkezésre.",
+            "ro": "Începeți aici pentru a profita de răcoarea dimineții. Există suficiente locuri de parcare.",
+            "en": "Start here to take advantage of the morning cool. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt am Berg Szársomlyó",
+            "hu": "Kilátópont a Szársomlyó-hegyen",
+            "ro": "Punct de belvedere pe Muntele Szársomlyó",
+            "en": "Viewpoint on Szársomlyó Hill"
+          },
+          "coords": [
+            18.4421,
+            45.8533
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz des Skulpturenparks für einen Panoramablick.",
+            "hu": "Rövid séta a Szoborpark parkolójától a panorámás kilátásért.",
+            "ro": "O scurtă plimbare de la parcarea Parcului de Sculpturi pentru o vedere panoramică.",
+            "en": "A short walk from the Sculpture Park parking lot for a panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum von Villány (Parkplatz)",
+            "hu": "Villány központja (parkoló)",
+            "ro": "Centrul Villány (parcare)",
+            "en": "Villány Center (Parking)"
+          },
+          "coords": [
+            18.454,
+            45.87
+          ],
+          "category": "transport",
+          "arrive_at": "11:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Rest des Tages. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "Parkolja le itt az autóját a nap hátralévő részére. Innen minden gyalogosan elérhető.",
+            "ro": "Parcați mașina aici pentru restul zilei. Totul este la distanță de mers pe jos de aici.",
+            "en": "Park your car here for the rest of the day. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.4533,
+            45.8681
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus. Der perfekte Ort, um vor dem Mittagessen Kultur zu tanken.",
+            "hu": "Rövid séta a parkolótól. Tökéletes hely egy kis kulturális feltöltődésre ebéd előtt.",
+            "ro": "O scurtă plimbare de la parcare. Locul perfect pentru a absorbi niște cultură înainte de prânz.",
+            "en": "A short walk from the parking lot. The perfect place to soak up some culture before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellerreihe von Villány",
+            "hu": "Villányi pincesor",
+            "ro": "Șirul de crame din Villány",
+            "en": "Villány's Cellar Row"
+          },
+          "coords": [
+            18.4501,
+            45.867
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zeit für Mittagessen und eine ausgiebige Weinprobe. Sie brauchen das Auto bis zum Abend nicht mehr.",
+            "hu": "Itt az idő az ebédre és egy bőséges borkóstolóra. Estig nem lesz szüksége az autóra.",
+            "ro": "Timpul pentru prânz și o degustare extinsă de vinuri. Nu veți avea nevoie de mașină până seara.",
+            "en": "Time for lunch and an extensive wine tasting. You won't need the car again until the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingut im Jammertal",
+            "hu": "Pincészet a Jammertal-dűlőn",
+            "ro": "Cramă în regiunea Jammertal",
+            "en": "Winery in Jammertal"
+          },
+          "coords": [
+            18.445,
+            45.8655
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Spaziergang zu einem bestimmten Weingut für eine vorab gebuchte Tour.",
+            "hu": "Séta egy adott pincészethez egy előre lefoglalt túrára.",
+            "ro": "O plimbare la o cramă specifică pentru un tur rezervat în prealabil.",
+            "en": "A walk to a specific winery for a pre-booked tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in einem Kellerrestaurant",
+            "hu": "Vacsora egy pincerétteremben",
+            "ro": "Cină într-un restaurant-cramă",
+            "en": "Dinner at a Cellar Restaurant"
+          },
+          "coords": [
+            18.451,
+            45.8685
+          ],
+          "category": "gastro",
+          "arrive_at": "18:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie (oder nehmen Sie ein Taxi) zu Ihrem ausgewählten Restaurant, um den Tag ausklingen zu lassen.",
+            "hu": "Vezessen el (vagy taxizzon) a kiválasztott étterembe a nap lezárásaként.",
+            "ro": "Conduceți (sau luați un taxi) la restaurantul ales pentru a încheia ziua.",
+            "en": "Drive (or take a taxi) to your chosen restaurant to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Flexibilität, Villány und seine Umgebung zu erkunden. Der Tag beginnt mit Kunst und Natur im Skulpturenpark Nagyharsány und einem Panoramablick vom Szársomlyó. Anschließend fahren Sie ins Zentrum von Villány, parken Ihr Auto und tauchen zu Fuß in die Welt des Weins ein. Nach einem Besuch im Weinmuseum verbringen Sie den Nachmittag in der berühmten Kellerreihe mit Mittagessen und Weinproben. Ein Spaziergang führt Sie zu einem Weingut im Jammertal für eine exklusive Tour. Der Abend endet mit einem köstlichen Abendessen in einem der stimmungsvollen Kellerrestaurants.",
+        "hu": "Autóval élvezheti a rugalmasságot, hogy felfedezze Villányt és környékét. A nap a Nagyharsányi Szoborparkban művészettel és természettel kezdődik, majd a Szársomlyóról nyíló panorámával folytatódik. Ezután Villány központjába hajt, leparkolja az autót, és gyalog merül el a bor világában. A Bormúzeum meglátogatása után a délutánt a híres pincesoron tölti ebéddel és borkóstolókkal. Egy séta elvezeti a Jammertal egyik pincészetéhez egy exkluzív túrára. Az estét egy finom vacsora zárja az egyik hangulatos pincerétteremben.",
+        "ro": "Cu mașina, vă bucurați de flexibilitatea de a explora Villány și împrejurimile sale. Ziua începe cu artă și natură la Parcul de Sculpturi Nagyharsány și o vedere panoramică de pe Muntele Szársomlyó. Apoi, conduceți în centrul Villány, parcați mașina și vă cufundați în lumea vinului pe jos. După o vizită la Muzeul Vinului, petreceți după-amiaza pe faimosul șir de crame cu prânz și degustări de vin. O plimbare vă duce la o cramă din Jammertal pentru un tur exclusivist. Seara se încheie cu o cină delicioasă într-unul dintre restaurantele-cramă pline de atmosferă.",
+        "en": "By car, you enjoy the flexibility to explore Villány and its surroundings. The day starts with art and nature at the Nagyharsány Sculpture Park and a panoramic view from Szársomlyó Hill. Then, you'll drive to the center of Villány, park your car, and immerse yourself in the world of wine on foot. After a visit to the Wine Museum, you'll spend the afternoon on the famous cellar row with lunch and wine tastings. A walk takes you to a winery in Jammertal for an exclusive tour. The evening ends with a delicious dinner at one of the atmospheric cellar restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gere Attila Mandula Restaurant",
+            "tip": "Fine Dining Erlebnis mit perfekter Weinbegleitung."
+          },
+          {
+            "name": "Bock Óbor Étterem",
+            "tip": "Traditionelle ungarische Küche auf hohem Niveau."
+          },
+          {
+            "name": "Csányi Pincészet",
+            "tip": "Bietet oft komplette Menüs mit ihren Weinen an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gere Attila Mandula Étterem",
+            "tip": "Fine dining élmény tökéletes borpárosítással."
+          },
+          {
+            "name": "Bock Óbor Étterem",
+            "tip": "Magas szintű, hagyományos magyar konyha."
+          },
+          {
+            "name": "Csányi Pincészet",
+            "tip": "Gyakran kínálnak teljes menüsort a boraik mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Mandula al lui Gere Attila",
+            "tip": "O experiență culinară rafinată cu asocieri perfecte de vinuri."
+          },
+          {
+            "name": "Restaurantul Bock Óbor",
+            "tip": "Bucătărie tradițională maghiară la un nivel înalt."
+          },
+          {
+            "name": "Crama Csányi",
+            "tip": "Oferă adesea meniuri complete cu vinurile lor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gere Attila's Mandula Restaurant",
+            "tip": "A fine dining experience with perfect wine pairings."
+          },
+          {
+            "name": "Bock Óbor Restaurant",
+            "tip": "High-level traditional Hungarian cuisine."
+          },
+          {
+            "name": "Csányi Winery",
+            "tip": "Often offers complete menus paired with their wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Szársomlyó Gipfel",
+            "tip": "Ein Ort der Stille mit weitem Blick über die Weinregion.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang abseits der Hauptkellerreihe",
+            "tip": "Entdecken Sie kleinere, ruhigere Gassen mit versteckten Kellern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Garten eines Weinguts",
+            "tip": "Viele Weingüter haben schöne Gärten, die zum Verweilen einladen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szársomlyó csúcsa",
+            "tip": "Csendes hely, ahonnan messzire ellátni a borvidéken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a fő pincesortól távolabb",
+            "tip": "Fedezzen fel kisebb, csendesebb utcákat rejtett pincékkel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Egy borászat kertje",
+            "tip": "Sok pincészetnek van gyönyörű kertje, amely pihenésre csábít.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Szársomlyó",
+            "tip": "Un loc de liniște cu o priveliște vastă asupra regiunii viticole.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare departe de șirul principal de crame",
+            "tip": "Descoperiți alei mai mici și mai liniștite cu crame ascunse.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina unei crame",
+            "tip": "Multe crame au grădini frumoase care invită la relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Szársomlyó Summit",
+            "tip": "A place of silence with a wide view over the wine region.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk away from the main cellar row",
+            "tip": "Discover smaller, quieter alleys with hidden cellars.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A winery's garden",
+            "tip": "Many wineries have beautiful gardens that invite you to linger.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein-Geschenksets",
+            "tip": "Kaufen Sie kuratierte Weinpakete als perfektes Souvenir oder Geschenk."
+          },
+          {
+            "name": "Weinaccessoires",
+            "tip": "Hochwertige Korkenzieher, Gläser oder Karaffen mit lokalem Branding."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boros ajándékcsomagok",
+            "tip": "Vásároljon válogatott borcsomagokat tökéletes szuvenírként vagy ajándékként."
+          },
+          {
+            "name": "Boros kiegészítők",
+            "tip": "Minőségi dugóhúzók, poharak vagy dekanterek helyi márkajelzéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seturi cadou de vinuri",
+            "tip": "Cumpărați pachete de vinuri selectate ca suvenir sau cadou perfect."
+          },
+          {
+            "name": "Accesorii pentru vin",
+            "tip": "Tirbușoane de calitate, pahare sau carafe cu branding local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Gift Sets",
+            "tip": "Buy curated wine packages as a perfect souvenir or gift."
+          },
+          {
+            "name": "Wine Accessories",
+            "tip": "High-quality corkscrews, glasses, or decanters with local branding."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bestimmen Sie einen Fahrer, der nicht trinkt, oder buchen Sie im Voraus ein Weintaxi für den Abend.",
+          "Reservieren Sie Tische in beliebten Restaurants und Touren bei Top-Weingütern, besonders am Wochenende.",
+          "Nutzen Sie Park-and-Walk: Lassen Sie das Auto stehen, sobald Sie das Zentrum erreichen."
+        ],
+        "hu": [
+          "Jelöljön ki egy sofőrt, aki nem iszik, vagy foglaljon előre bortaxit az estére.",
+          "Foglaljon asztalt a népszerű éttermekben és túrákat a csúcsborászatoknál, különösen hétvégén.",
+          "Használja a 'parkolj és sétálj' módszert: hagyja az autót, amint a központba ér."
+        ],
+        "ro": [
+          "Desemnați un șofer care nu bea sau rezervați un taxi pentru vin în avans pentru seară.",
+          "Rezervați mese la restaurantele populare și tururi la cramele de top, mai ales în weekend.",
+          "Folosiți metoda 'parchează și mergi': lăsați mașina odată ce ajungeți în centru."
+        ],
+        "en": [
+          "Designate a non-drinking driver or book a wine taxi in advance for the evening.",
+          "Reserve tables at popular restaurants and tours at top wineries, especially on weekends.",
+          "Use the park-and-walk method: leave the car once you reach the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villány, Busbahnhof",
+            "hu": "Villány, buszpályaudvar",
+            "ro": "Villány, autogară",
+            "en": "Villány, Bus Station"
+          },
+          "coords": [
+            18.4588,
+            45.8715
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft und Orientierung. Von hier aus beginnt der Spaziergang ins Zentrum.",
+            "hu": "Érkezés és tájékozódás. Innen indul a séta a központba.",
+            "ro": "Sosire și orientare. De aici începe plimbarea spre centru.",
+            "en": "Arrival and orientation. The walk to the center starts from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche",
+            "hu": "Református templom",
+            "ro": "Biserica Reformată",
+            "en": "Reformed Church"
+          },
+          "coords": [
+            18.457,
+            45.8711
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der erste Halt, nur wenige Schritte vom Busbahnhof entfernt.",
+            "hu": "Az első megálló, csak pár lépésre a buszpályaudvartól.",
+            "ro": "Prima oprire, la doar câțiva pași de autogară.",
+            "en": "The first stop, just a few steps from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            18.4533,
+            45.8681
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Stadt führt Sie zu diesem wichtigen Ort.",
+            "hu": "Egy séta a városon keresztül elvezeti ehhez a fontos helyhez.",
+            "ro": "O plimbare prin oraș vă duce la acest loc important.",
+            "en": "A walk through the town leads you to this important site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kellerreihe (Mittagessen)",
+            "hu": "Pincesor (ebéd)",
+            "ro": "Șirul de crame (prânz)",
+            "en": "Cellar Row (Lunch)"
+          },
+          "coords": [
+            18.4501,
+            45.867
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie einen Keller für das Mittagessen. Erkunden Sie diesen Bereich zu Fuß.",
+            "hu": "Keressen egy pincét az ebédhez. Fedezze fel ezt a területet gyalog.",
+            "ro": "Găsiți o cramă pentru prânz. Explorați această zonă pe jos.",
+            "en": "Find a cellar for lunch. Explore this area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Weingebiet Jammertal (mit Bus)",
+            "hu": "Jammertal dűlő (busszal)",
+            "ro": "Regiunea viticolă Jammertal (cu autobuzul)",
+            "en": "Jammertal Wine Region (by bus)"
+          },
+          "coords": [
+            18.445,
+            45.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi für die kurze Fahrt zum Jammertal.",
+            "hu": "Menjen helyi busszal vagy taxival a rövid útra a Jammertalba.",
+            "ro": "Luați un autobuz local sau un taxi pentru scurta călătorie spre Jammertal.",
+            "en": "Take a local bus or taxi for the short trip to the Jammertal area."
+          }
+        },
+        {
+          "name": {
+            "de": "Letzte Verkostung in der Kellerreihe",
+            "hu": "Utolsó kóstoló a pincesoron",
+            "ro": "Ultima degustare pe șirul de crame",
+            "en": "Final Tasting on the Cellar Row"
+          },
+          "coords": [
+            18.4515,
+            45.868
+          ],
+          "category": "gastro",
+          "arrive_at": "16:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum, um den Tag mit einem letzten Glas Wein ausklingen zu lassen.",
+            "hu": "Vissza a központba, hogy egy utolsó pohár borral zárja a napot.",
+            "ro": "Înapoi în centru pentru a încheia ziua cu un ultim pahar de vin.",
+            "en": "Back in the center to end the day with a final glass of wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne Auto ist Villány leicht zu entdecken. Nach der Ankunft am Busbahnhof erkunden Sie das historische Zentrum zu Fuß, von der Kirche bis zum aufschlussreichen Weinmuseum. Der Mittag gehört ganz der berühmten Kellerreihe, wo Sie zu Mittag essen und die lokalen Weine probieren. Am Nachmittag bringt Sie ein kurzer Bus- oder Taxitransfer in das malerische Jammertal, wo Sie zwischen den Weinreben spazieren gehen. Der Tag endet wieder im Herzen von Villány, wo Sie in einer der vielen Weinstuben auf einen unvergesslichen Tag anstoßen.",
+        "hu": "Autó nélkül is könnyen felfedezhető Villány. A buszpályaudvarra érkezés után gyalogosan fedezi fel a történelmi központot, a templomtól az informatív Bormúzeumig. A dél a híres pincesoré, ahol megebédel és megkóstolja a helyi borokat. Délután egy rövid busz- vagy taxitranszfer elviszi a festői Jammertalba, ahol a szőlőtőkék között sétálhat. A nap ismét Villány szívében ér véget, ahol az egyik hangulatos borozóban koccinthat egy felejthetetlen napra.",
+        "ro": "Chiar și fără mașină, Villány este ușor de descoperit. După sosirea la autogară, explorați centrul istoric pe jos, de la biserică la informativul Muzeu al Vinului. Prânzul este dedicat faimosului șir de crame, unde luați masa și degustați vinurile locale. După-amiaza, un scurt transfer cu autobuzul sau taxiul vă duce în pitorescul Jammertal, unde vă puteți plimba printre viile de vie. Ziua se încheie din nou în inima Villányului, unde puteți închina pentru o zi de neuitat într-una dintre numeroasele taverne de vin.",
+        "en": "Even without a car, Villány is easy to discover. After arriving at the bus station, you'll explore the historic center on foot, from the church to the informative Wine Museum. The afternoon belongs to the famous cellar row, where you'll have lunch and taste the local wines. In the afternoon, a short bus or taxi transfer takes you to the picturesque Jammertal, where you can walk among the vines. The day ends back in the heart of Villány, where you can toast to an unforgettable day in one of the many wine taverns."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menü in einem Kellerrestaurant",
+            "tip": "Viele Restaurants bieten Tagesmenüs an, die ein gutes Preis-Leistungs-Verhältnis haben."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Ein ungarischer Klassiker, falls Sie etwas Schnelles und Sättigendes suchen."
+          },
+          {
+            "name": "Weinprobe mit Käseplatte",
+            "tip": "Eine leichtere Alternative zum vollen Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menü egy pincerétteremben",
+            "tip": "Sok étterem kínál napi menüt, ami jó ár-érték arányt képvisel."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Magyar klasszikus, ha valami gyorsat és laktatót keres."
+          },
+          {
+            "name": "Borkóstoló sajttállal",
+            "tip": "Könnyedebb alternatíva a teljes ebéd helyett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniu la un restaurant-cramă",
+            "tip": "Multe restaurante oferă meniuri zilnice cu un bun raport calitate-preț."
+          },
+          {
+            "name": "Langoș",
+            "tip": "Un clasic maghiar, dacă sunteți în căutarea a ceva rapid și sățios."
+          },
+          {
+            "name": "Degustare de vinuri cu platou de brânzeturi",
+            "tip": "O alternativă mai ușoară la un prânz complet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menu at a cellar restaurant",
+            "tip": "Many restaurants offer daily menus that are good value for money."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A Hungarian classic if you are looking for something quick and filling."
+          },
+          {
+            "name": "Wine tasting with a cheese platter",
+            "tip": "A lighter alternative to a full lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang auf dem Kirchhügel",
+            "tip": "Genießen Sie die Aussicht auf die Stadt abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine Bank auf der Hauptstraße",
+            "tip": "Beobachten Sie das Leben bei einer kurzen Pause.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein früher Besuch im Weinmuseum",
+            "tip": "Seien Sie der Erste am Morgen, um die Exponate in Ruhe zu betrachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a templomdombon",
+            "tip": "Élvezze a városra nyíló kilátást a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy pad a Főutcán",
+            "tip": "Figyelje az életet egy rövid szünet közben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggeli látogatás a Bormúzeumban",
+            "tip": "Legyen az első reggel, hogy nyugalomban nézhesse meg a kiállítást.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe dealul bisericii",
+            "tip": "Bucurați-vă de vederea asupra orașului, departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O bancă pe strada principală",
+            "tip": "Observați viața în timpul unei scurte pauze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O vizită matinală la Muzeul Vinului",
+            "tip": "Fiți primul dimineața pentru a vedea exponatele în liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk on the church hill",
+            "tip": "Enjoy the view of the town away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A bench on the main street",
+            "tip": "Watch life go by during a short break.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "An early visit to the Wine Museum",
+            "tip": "Be the first in the morning to view the exhibits in peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einzelne Weinflasche",
+            "tip": "Kaufen Sie nur eine besondere Flasche, die leicht im Rucksack transportiert werden kann."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Ein leichtes Souvenir mit Motiven der Weinberge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egyetlen üveg bor",
+            "tip": "Vásároljon csak egy különleges palackot, ami könnyen szállítható a hátizsákban."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Könnyű szuvenír a szőlőültetvények motívumaival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O singură sticlă de vin",
+            "tip": "Cumpărați o singură sticlă specială, care poate fi transportată cu ușurință în rucsac."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Un suvenir ușor cu motive din podgorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "A single bottle of wine",
+            "tip": "Buy just one special bottle that can be easily transported in a backpack."
+          },
+          {
+            "name": "Postcards",
+            "tip": "A light souvenir with motifs of the vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders für die Rückfahrt.",
+          "Weintaxis sind eine gute Alternative zu Bussen, um flexibler zu sein.",
+          "Fragen Sie in den Weinkellern nach, ob sie den Wein auch versenden, um Gepäck zu sparen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, különösen a visszaútra.",
+          "A bortaxik jó alternatívái a buszoknak a nagyobb rugalmasság érdekében.",
+          "Kérdezze meg a pincészetekben, hogy postáznak-e bort, hogy spóroljon a csomaggal."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, în special pentru călătoria de întoarcere.",
+          "Taxiurile pentru vin sunt o alternativă bună la autobuze pentru mai multă flexibilitate.",
+          "Întrebați la crame dacă livrează vin pentru a economisi spațiu în bagaj."
+        ],
+        "en": [
+          "Check the bus schedule in advance, especially for the return trip.",
+          "Wine taxis are a good alternative to buses for more flexibility.",
+          "Ask the wineries if they ship wine to save on luggage."
+        ]
+      }
+    }
+  }
+}

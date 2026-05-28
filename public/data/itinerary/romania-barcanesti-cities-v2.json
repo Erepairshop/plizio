@@ -1,0 +1,1357 @@
+{
+  "city_id": "romania-barcanesti-cities-v2",
+  "anchor": {
+    "name": "Bărcănești",
+    "coords": [
+      26.06,
+      44.86
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kommunaler Park",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            26.061,
+            44.862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für einen morgendlichen Spaziergang, um den Tag entspannt zu beginnen.",
+            "hu": "Tökéletes hely egy reggeli sétához, hogy nyugodtan induljon a nap.",
+            "ro": "Un loc ideal pentru o plimbare de dimineață pentru a începe ziua relaxat.",
+            "en": "An ideal spot for a morning stroll to start the day in a relaxed way."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Bărcănești",
+            "hu": "Bărcănești-i Városháza",
+            "ro": "Primăria Bărcănești",
+            "en": "Bărcănești Town Hall"
+          },
+          "coords": [
+            26.059,
+            44.863
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die lokale Architektur und die an der Fassade angebrachten Insignien.",
+            "hu": "Figyelje meg a helyi építészetet és a homlokzaton elhelyezett jelvényeket.",
+            "ro": "Observați arhitectura locală și însemnele de pe fațadă.",
+            "en": "Pay attention to the local architecture and the insignia on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            26.062,
+            44.864
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Inschriften zu lesen, die den lokalen Helden gewidmet sind.",
+            "hu": "Szánjon egy percet a helyi hősöknek szentelt feliratok elolvasására.",
+            "ro": "Luați-vă un moment pentru a citi inscripțiile dedicate eroilor locali.",
+            "en": "Take a moment to read the inscriptions dedicated to the local heroes."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule Bărcănești",
+            "hu": "Régi Iskola, Bărcănești",
+            "ro": "Școala Veche din Bărcănești",
+            "en": "Old School of Bărcănești"
+          },
+          "coords": [
+            26.065,
+            44.866
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein historisches Gebäude, das die Bildungsgeschichte der Gemeinde widerspiegelt.",
+            "hu": "Egy történelmi épület, amely a közösség oktatási történetét tükrözi.",
+            "ro": "O clădire istorică ce reflectă istoria educațională a comunității.",
+            "en": "A historic building that reflects the educational history of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.075,
+            44.868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg az ikonokat és a békés belső légkört.",
+            "ro": "Admirați icoanele și atmosfera pașnică din interior.",
+            "en": "Admire the icons and the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer",
+            "hu": "Prahova-folyó partja",
+            "ro": "Malurile Râului Prahova",
+            "en": "Prahova River Banks"
+          },
+          "coords": [
+            26.085,
+            44.855
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick oder einfach nur, um die Natur zu genießen.",
+            "hu": "Tökéletes egy piknikhez vagy csak a természet élvezetéhez.",
+            "ro": "Perfect pentru un picnic sau pur și simplu pentru a vă bucura de natură.",
+            "en": "Perfect for a picnic or just to enjoy nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Tătărani-See",
+            "hu": "Tătărani-tó",
+            "ro": "Lacul Tătărani",
+            "en": "Tătărani Lake"
+          },
+          "coords": [
+            26.05,
+            44.85
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen, besonders bei Sonnenuntergang.",
+            "hu": "Csendes hely a nap lezárásához, különösen naplementekor.",
+            "ro": "Un loc liniștit pentru a încheia ziua, mai ales la apus.",
+            "en": "A quiet place to end the day, especially at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Wandertag im Kommunalen Park, bevor Sie das historische Zentrum mit dem Rathaus und dem Unabhängigkeitsdenkmal erkunden. Am Nachmittag führt Sie ein längerer Spaziergang zur St.-Nikolaus-Kirche und dann weiter zur entspannenden Natur am Prahova-Ufer. Der Tag endet mit einem friedlichen Spaziergang zum Tătărani-See, um die Abendstimmung zu genießen.",
+        "hu": "Kezdje a gyalogtúrát a Városi Parkban, majd fedezze fel a történelmi központot a Városházával és a Függetlenségi Emlékművel. Délután egy hosszabb séta vezet a Szent Miklós-templomhoz, majd tovább a Prahova-folyó pihentető partjához. A nap a Tătărani-tónál tett békés sétával zárul, ahol élvezheti az esti hangulatot.",
+        "ro": "Începeți ziua de mers pe jos în Parcul Comunal, înainte de a explora centrul istoric cu Primăria și Monumentul Independenței. După-amiaza, o plimbare mai lungă vă va duce la Biserica Sfântul Nicolae și apoi la natura relaxantă de pe malul râului Prahova. Ziua se încheie cu o plimbare liniștită la Lacul Tătărani pentru a savura atmosfera serii.",
+        "en": "Start your walking day in the Communal Park before exploring the historic center with the Town Hall and the Independence Monument. In the afternoon, a longer walk will take you to St. Nicholas Church and then to the relaxing nature on the banks of the Prahova River. The day ends with a peaceful walk to Tătărani Lake to enjoy the evening atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mici bei einem lokalen Grill",
+            "tip": "Probieren Sie die traditionellen rumänischen gegrillten Fleischröllchen."
+          },
+          {
+            "name": "Sarmale in einem traditionellen Restaurant",
+            "tip": "Kohlrouladen gefüllt mit Fleisch und Reis, ein herzhaftes Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mics egy helyi grillbárban",
+            "tip": "Kóstolja meg a hagyományos román grillezett húspogácsákat."
+          },
+          {
+            "name": "Sarmale egy hagyományos étteremben",
+            "tip": "Hússal és rizzsel töltött káposztatekercs, egy kiadós étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici la un grătar local",
+            "tip": "Încercați tradiționalii mititei românești la grătar."
+          },
+          {
+            "name": "Sarmale la un restaurant tradițional",
+            "tip": "Sărmăluțe în foi de varză umplute cu carne și orez, un fel de mâncare consistent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mici at a local grill",
+            "tip": "Try the traditional Romanian grilled minced meat rolls."
+          },
+          {
+            "name": "Sarmale at a traditional restaurant",
+            "tip": "Cabbage rolls stuffed with meat and rice, a hearty dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Tătărani-Sees",
+            "tip": "Finden Sie eine Bank und genießen Sie die Stille des Wassers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prahova-Ufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses ist sehr erholsam.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tătărani-tó partja",
+            "tip": "Keressen egy padot és élvezze a víz csendjét.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prahova-folyó partja",
+            "tip": "Egy csendes séta a folyó mentén nagyon pihentető.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Tătărani",
+            "tip": "Găsiți o bancă și bucurați-vă de liniștea apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Râului Prahova",
+            "tip": "O plimbare liniștită de-a lungul râului este foarte relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Tătărani Lake",
+            "tip": "Find a bench and enjoy the silence of the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prahova River Banks",
+            "tip": "A quiet walk along the river is very relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frische Produkte und lokale Handwerksprodukte."
+          },
+          {
+            "name": "Souvenirladen im Zentrum",
+            "tip": "Finden Sie kleine Andenken an Ihren Besuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon friss termékeket és helyi kézműves termékeket."
+          },
+          {
+            "name": "Ajándékbolt a központban",
+            "tip": "Találjon apró emléktárgyakat a látogatásáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați produse proaspete și articole de artizanat local."
+          },
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Găsiți mici amintiri ale vizitei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Buy fresh produce and local handicrafts."
+          },
+          {
+            "name": "Souvenir shop in the center",
+            "tip": "Find small mementos of your visit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
+          "Planen Sie eine Mittagspause in der Nähe des Prahova-Ufers ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen meleg napokon.",
+          "Tervezzen ebédszünetet a Prahova-folyó partja közelében."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în zilele călduroase.",
+          "Planificați o pauză de prânz lângă malul râului Prahova."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring water with you, especially on warm days.",
+          "Plan a lunch break near the Prahova River banks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tătărani-See",
+            "hu": "Tătărani-tó",
+            "ro": "Lacul Tătărani",
+            "en": "Tătărani Lake"
+          },
+          "coords": [
+            26.05,
+            44.85
+          ],
+          "category": "natural features",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Radtour um den See.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával a tó körül.",
+            "ro": "Începeți ziua cu o plimbare răcoritoare cu bicicleta în jurul lacului.",
+            "en": "Start the day with a refreshing bike ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer",
+            "hu": "Prahova-folyó partja",
+            "ro": "Malurile Râului Prahova",
+            "en": "Prahova River Banks"
+          },
+          "coords": [
+            26.085,
+            44.855
+          ],
+          "category": "natural features",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Radweg entlang des Flusses für eine malerische Fahrt.",
+            "hu": "Kövesse a folyó menti kerékpárutat egy festői útvonalért.",
+            "ro": "Urmați pista de biciclete de-a lungul râului pentru o plimbare pitorească.",
+            "en": "Follow the bike path along the river for a scenic ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Tătărani-Herrenhaus",
+            "hu": "Tătărani udvarház",
+            "ro": "Conacul din Tătărani",
+            "en": "Tătărani Mansion"
+          },
+          "coords": [
+            26.048,
+            44.852
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause, um dieses historische Herrenhaus von außen zu bewundern.",
+            "hu": "Tartson egy szünetet, hogy megcsodálja kívülről ezt a történelmi udvarházat.",
+            "ro": "Faceți o pauză pentru a admira acest conac istoric din exterior.",
+            "en": "Take a break to admire this historic mansion from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.075,
+            44.868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze spirituelle Pause, bevor Sie ins Zentrum radeln.",
+            "hu": "Egy rövid spirituális pihenő, mielőtt a központba teker.",
+            "ro": "O scurtă pauză spirituală înainte de a pedala spre centru.",
+            "en": "A short spiritual break before cycling to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunaler Park",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            26.061,
+            44.862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause im Grünen.",
+            "hu": "Jó hely egy ebédszünethez a zöldben.",
+            "ro": "Un loc bun pentru o pauză de prânz în mijlocul naturii.",
+            "en": "A good place for a lunch break amidst greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Bărcănești",
+            "hu": "Bărcănești-i Városháza",
+            "ro": "Primăria Bărcănești",
+            "en": "Bărcănești Town Hall"
+          },
+          "coords": [
+            26.059,
+            44.863
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Zentrum der lokalen Verwaltung, ein kurzer Fotostopp lohnt sich.",
+            "hu": "A helyi közigazgatás központja, megér egy rövid fotómegállót.",
+            "ro": "Centrul administrației locale, merită o scurtă oprire pentru fotografii.",
+            "en": "The center of local administration, worth a quick photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            26.062,
+            44.864
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Symbol der lokalen Geschichte, leicht mit dem Fahrrad zu erreichen.",
+            "hu": "A helyi történelem szimbóluma, kerékpárral könnyen elérhető.",
+            "ro": "Un simbol al istoriei locale, ușor accesibil cu bicicleta.",
+            "en": "A symbol of local history, easily accessible by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule Bărcănești",
+            "hu": "Régi Iskola, Bărcănești",
+            "ro": "Școala Veche din Bărcănești",
+            "en": "Old School of Bărcănești"
+          },
+          "coords": [
+            26.065,
+            44.866
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Radtour mit einem Blick auf dieses historische Gebäude ab.",
+            "hu": "Zárja a kerékpártúrát egy pillantással erre a történelmi épületre.",
+            "ro": "Încheiați turul cu bicicleta cu o privire la această clădire istorică.",
+            "en": "End your bike tour with a look at this historic building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour beginnt am ruhigen Tătărani-See und führt entlang des Prahova-Ufers. Nach einem Halt am Tătărani-Herrenhaus geht es zur St.-Nikolaus-Kirche. Die Mittagspause verbringen Sie im Kommunalen Park, bevor Sie die wichtigsten Sehenswürdigkeiten im Zentrum erkunden: das Rathaus, das Denkmal und die Alte Schule. Eine abwechslungsreiche Tour, die Natur und Kultur verbindet.",
+        "hu": "Ez a kerékpártúra a csendes Tătărani-tónál kezdődik, és a Prahova-folyó partján vezet. A Tătărani udvarháznál tett megálló után a Szent Miklós-templom felé veszi az irányt. Az ebédszünetet a Városi Parkban tölti, mielőtt felfedezné a központ legfontosabb látnivalóit: a Városházát, az emlékművet és a Régi Iskolát. Változatos túra, amely ötvözi a természetet és a kultúrát.",
+        "ro": "Acest tur cu bicicleta începe de la liniștitul Lac Tătărani și continuă de-a lungul malului râului Prahova. După o oprire la Conacul din Tătărani, se îndreaptă spre Biserica Sfântul Nicolae. Pauza de prânz o veți petrece în Parcul Comunal, înainte de a explora principalele atracții din centru: Primăria, monumentul și Școala Veche. Un tur variat care combină natura și cultura.",
+        "en": "This bike tour starts at the quiet Tătărani Lake and continues along the Prahova River bank. After a stop at the Tătărani Mansion, it heads towards St. Nicholas Church. You will spend your lunch break in the Communal Park before exploring the main attractions in the center: the Town Hall, the monument, and the Old School. A varied tour that combines nature and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi von einem Straßenstand",
+            "tip": "Ein schneller und leckerer Snack für unterwegs."
+          },
+          {
+            "name": "Zacuscă auf Brot",
+            "tip": "Probieren Sie diesen traditionellen rumänischen Gemüseaufstrich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec egy utcai árustól",
+            "tip": "Gyors és finom harapnivaló útközben."
+          },
+          {
+            "name": "Zakuszka kenyérre kenve",
+            "tip": "Kóstolja meg ezt a hagyományos román zöldségkrémet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi de la o gheretă stradală",
+            "tip": "O gustare rapidă și delicioasă pentru drum."
+          },
+          {
+            "name": "Zacuscă pe pâine",
+            "tip": "Încercați această pastă de legume tradițională românească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi from a street stall",
+            "tip": "A quick and delicious snack for the road."
+          },
+          {
+            "name": "Zacuscă on bread",
+            "tip": "Try this traditional Romanian vegetable spread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein ruhiger Platz am Tătărani-See",
+            "tip": "Ideal, um die Radtour zu beginnen oder zu beenden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Am Prahova-Ufer",
+            "tip": "Genießen Sie die Geräusche der Natur während einer kurzen Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes hely a Tătărani-tónál",
+            "tip": "Ideális a kerékpártúra megkezdéséhez vagy befejezéséhez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Prahova-folyó partján",
+            "tip": "Élvezze a természet hangjait egy rövid szünet alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un loc liniștit pe malul Lacului Tătărani",
+            "tip": "Ideal pentru a începe sau a termina turul cu bicicleta.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pe malul Râului Prahova",
+            "tip": "Bucurați-vă de sunetele naturii în timpul unei scurte pauze.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet spot by Tătărani Lake",
+            "tip": "Ideal for starting or ending the bike tour.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "On the Prahova River bank",
+            "tip": "Enjoy the sounds of nature during a short break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Honigprodukte",
+            "tip": "Suchen Sie nach Verkäufern von lokalem Honig, einer Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méztermékek",
+            "tip": "Keressen helyi mézet árusítókat, ami a régió specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse apicole locale",
+            "tip": "Căutați vânzători de miere locală, o specialitate a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey products",
+            "tip": "Look for sellers of local honey, a specialty of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Tragen Sie einen Helm für Ihre Sicherheit.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad bei den Haltestellen sicher abzustellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Viseljen sisakot a biztonsága érdekében.",
+          "Vigyen magával lakatot, hogy biztonságban lezárhassa a kerékpárt a megállóknál."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca.",
+          "Purtați cască pentru siguranța dumneavoastră.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri."
+        ],
+        "en": [
+          "Check your bike before you leave.",
+          "Wear a helmet for your safety.",
+          "Bring a lock to secure your bike at the stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Natur am Stadtrand",
+            "hu": "A Klaszter: Természet a város szélén",
+            "ro": "Cluster A: Natură la marginea orașului",
+            "en": "Cluster A: Nature on the outskirts"
+          },
+          "coords": [
+            26.048,
+            44.852
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Herrenhauses und beginnen Sie Ihren Rundgang.",
+            "hu": "Parkoljon az udvarház közelében, és kezdje meg a sétát.",
+            "ro": "Parcați lângă conac și începeți turul pietonal.",
+            "en": "Park near the mansion and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Tătărani-See",
+            "hu": "Tătărani-tó",
+            "ro": "Lacul Tătărani",
+            "en": "Tătărani Lake"
+          },
+          "coords": [
+            26.05,
+            44.85
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Herrenhaus zum malerischen See.",
+            "hu": "Rövid séta az udvarháztól a festői tóig.",
+            "ro": "O scurtă plimbare de la conac la lacul pitoresc.",
+            "en": "A short walk from the mansion to the picturesque lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Prahova-Ufer",
+            "hu": "Prahova-folyó partja",
+            "ro": "Malurile Râului Prahova",
+            "en": "Prahova River Banks"
+          },
+          "coords": [
+            26.085,
+            44.855
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Flussufer für eine andere Perspektive der lokalen Natur.",
+            "hu": "Vezessen a folyóparthoz, hogy más szemszögből is megismerje a helyi természetet.",
+            "ro": "Conduceți până la malul râului pentru o altă perspectivă asupra naturii locale.",
+            "en": "Drive to the riverbank for a different perspective of the local nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Historisches Zentrum",
+            "hu": "B Klaszter: Történelmi központ",
+            "ro": "Cluster B: Centru Istoric",
+            "en": "Cluster B: Historic Center"
+          },
+          "coords": [
+            26.075,
+            44.868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie die Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel gyalog a látnivalókat.",
+            "ro": "Parcați în centru și explorați atracțiile la pas.",
+            "en": "Park in the center and explore the sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Bărcănești",
+            "hu": "Bărcănești-i Városháza",
+            "ro": "Primăria Bărcănești",
+            "en": "Bărcănești Town Hall"
+          },
+          "coords": [
+            26.059,
+            44.863
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für eine Mittagspause in einem der Restaurants rund um das Rathaus.",
+            "hu": "Ideje ebédszünetet tartani a Városháza körüli éttermek egyikében.",
+            "ro": "Timpul pentru o pauză de prânz la unul dintre restaurantele din jurul primăriei.",
+            "en": "Time for a lunch break in one of the restaurants around the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            26.062,
+            44.864
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus zum Denkmal.",
+            "hu": "Rövid séta a Városházától az emlékműhöz.",
+            "ro": "O scurtă plimbare de la primărie la monument.",
+            "en": "A short walk from the town hall to the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Schule Bărcănești",
+            "hu": "Régi Iskola, Bărcănești",
+            "ro": "Școala Veche din Bărcănești",
+            "en": "Old School of Bărcănești"
+          },
+          "coords": [
+            26.065,
+            44.866
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Bildungsortes.",
+            "hu": "Csodálja meg ennek a történelmi oktatási helynek az építészetét.",
+            "ro": "Admirați arhitectura acestui lăcaș istoric de învățământ.",
+            "en": "Admire the architecture of this historic educational site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunaler Park",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            26.061,
+            44.862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie zum Auto zurückkehren.",
+            "hu": "Pihenjen a parkban, mielőtt visszatérne az autóhoz.",
+            "ro": "Relaxați-vă în parc înainte de a vă întoarce la mașină.",
+            "en": "Relax in the park before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag ist in zwei Cluster aufgeteilt. Beginnen Sie mit einer Fahrt zum Tătărani-Herrenhaus und erkunden Sie die nahegelegene Natur am See und am Prahova-Ufer. Am Nachmittag fahren Sie ins Zentrum, parken Ihr Auto und entdecken den historischen Kern zu Fuß: von der Kirche über das Rathaus und das Denkmal bis hin zur Alten Schule und dem Park. Dies kombiniert Fahrkomfort mit intensivem Sightseeing zu Fuß.",
+        "hu": "Ez az autós nap két klaszterre oszlik. Kezdje egy utazással a Tătărani udvarházhoz, és fedezze fel a közeli természetet a tónál és a Prahova-folyó partján. Délután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a templomtól a Városházán és az emlékművön át a Régi Iskoláig és a parkig. Ez ötvözi a vezetés kényelmét az intenzív gyalogos városnézéssel.",
+        "ro": "Această zi cu mașina este împărțită în două clustere. Începeți cu o deplasare la Conacul Tătărani și explorați natura din apropiere, la lac și pe malul Prahovei. După-amiaza, conduceți spre centru, parcați mașina și descoperiți nucleul istoric la pas: de la biserică la primărie, monument, Școala Veche și parc. Acest lucru combină confortul condusului cu vizitarea intensivă la pas.",
+        "en": "This car day is divided into two clusters. Start with a drive to the Tătărani Mansion and explore the nearby nature at the lake and the Prahova riverbank. In the afternoon, drive to the center, park your car, and discover the historic core on foot: from the church to the town hall, the monument, the Old School, and the park. This combines driving comfort with intensive sightseeing on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant mit traditioneller Küche",
+            "tip": "Suchen Sie nach einem Ort, der Ciorbă de burtă (Kuttelsuppe) anbietet."
+          },
+          {
+            "name": "Papanasi zum Nachtisch",
+            "tip": "Ein Muss in Rumänien: frittierte Teigbällchen mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos konyhával rendelkező étterem",
+            "tip": "Keressen egy helyet, ahol Ciorbă de burtă-t (pacallevest) kínálnak."
+          },
+          {
+            "name": "Papanasi desszertként",
+            "tip": "Romániában kötelező: sült fánk tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant cu bucătărie tradițională",
+            "tip": "Căutați un loc care servește ciorbă de burtă."
+          },
+          {
+            "name": "Papanasi la desert",
+            "tip": "Un desert obligatoriu în România: gogoși prăjite cu smântână și dulceață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant with traditional cuisine",
+            "tip": "Look for a place that serves ciorbă de burtă (tripe soup)."
+          },
+          {
+            "name": "Papanasi for dessert",
+            "tip": "A must-try in Romania: fried doughnuts with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang am Tătărani-See",
+            "tip": "Fahren Sie am Abend noch einmal zum See für einen spektakulären Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Kommunalen Park",
+            "tip": "Ein perfekter Ort, um dem Trubel des Zentrums zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente a Tătărani-tónál",
+            "tip": "Este vezessen vissza a tóhoz egy látványos naplementéért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Városi Parkban",
+            "tip": "Tökéletes hely a központ nyüzsgéséből való elmeneküléshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Lacul Tătărani",
+            "tip": "Conduceți înapoi la lac seara pentru un apus spectaculos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Comunal",
+            "tip": "Un loc perfect pentru a scăpa de agitația centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Tătărani Lake",
+            "tip": "Drive back to the lake in the evening for a spectacular sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in the Communal Park",
+            "tip": "A perfect place to escape the hustle and bustle of the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Halten Sie Ausschau nach kleinen Ständen, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Figyeljen a helyi termékeket árusító kis standokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme din afara orașului",
+            "tip": "Fiți atenți la micile tarabe care vând produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Look out for small stalls selling local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkmöglichkeiten im Voraus.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen.",
+          "Kombinieren Sie Auto- und Gehstrecken für das beste Erlebnis."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolási lehetőségeket.",
+          "Ügyeljen a sebességkorlátozásokra.",
+          "Kombinálja az autós és gyalogos szakaszokat a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Planificați-vă din timp opțiunile de parcare.",
+          "Respectați limitele de viteză.",
+          "Combinați secțiunile de mers cu mașina și pe jos pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Plan your parking options in advance.",
+          "Pay attention to the speed limits.",
+          "Combine car and walking sections for the best experience."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Start im Zentrum",
+            "hu": "A Klaszter: Indulás a központból",
+            "ro": "Cluster A: Start din centru",
+            "en": "Cluster A: Start in the center"
+          },
+          "coords": [
+            26.059,
+            44.863
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am Rathaus, dem Herz der Gemeinde.",
+            "hu": "Kezdje a Városházánál, a közösség szívében.",
+            "ro": "Începeți la primărie, inima comunității.",
+            "en": "Start at the town hall, the heart of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Independence Monument"
+          },
+          "coords": [
+            26.062,
+            44.864
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Rathaus entfernt.",
+            "hu": "Csak egy rövid sétára a Városházától.",
+            "ro": "La doar o scurtă plimbare de primărie.",
+            "en": "Just a short walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunaler Park",
+            "hu": "Városi Park",
+            "ro": "Parcul Comunal",
+            "en": "Communal Park"
+          },
+          "coords": [
+            26.061,
+            44.862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Park, bevor Sie den Bus nehmen.",
+            "hu": "Pihenjen a parkban, mielőtt buszra szállna.",
+            "ro": "Relaxați-vă în parc înainte de a lua autobuzul.",
+            "en": "Relax in the park before taking the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zur Natur",
+            "hu": "B Klaszter: Utazás a természetbe",
+            "ro": "Cluster B: Călătorie spre natură",
+            "en": "Cluster B: Trip to nature"
+          },
+          "coords": [
+            26.085,
+            44.855
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Prahova-Ufer für eine ausgedehnte Mittagspause.",
+            "hu": "Menjen busszal a Prahova-folyó partjára egy hosszabb ebédszünetre.",
+            "ro": "Luați autobuzul până la malul Prahovei pentru o pauză de prânz prelungită.",
+            "en": "Take the bus to the Prahova riverbank for an extended lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tătărani-See",
+            "hu": "Tătărani-tó",
+            "ro": "Lacul Tătărani",
+            "en": "Tătărani Lake"
+          },
+          "coords": [
+            26.05,
+            44.85
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer kurzer Bus-Hop zum ruhigen See.",
+            "hu": "Még egy rövid buszozás a csendes tóhoz.",
+            "ro": "Încă o scurtă călătorie cu autobuzul până la lacul liniștit.",
+            "en": "Another short bus hop to the quiet lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Tătărani-Herrenhaus",
+            "hu": "Tătărani udvarház",
+            "ro": "Conacul din Tătărani",
+            "en": "Tătărani Mansion"
+          },
+          "coords": [
+            26.048,
+            44.852
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom See zum Herrenhaus.",
+            "hu": "Rövid séta a tótól az udvarházig.",
+            "ro": "O scurtă plimbare de la lac la conac.",
+            "en": "A short walk from the lake to the mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            26.075,
+            44.868
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum für einen letzten Halt in der Kirche.",
+            "hu": "Menjen vissza busszal a központba az utolsó megállóhoz, a templomhoz.",
+            "ro": "Luați autobuzul înapoi în centru pentru o ultimă oprire la biserică.",
+            "en": "Take the bus back to the center for a final stop at the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt im Herzen von Bărcănești mit einem Spaziergang zwischen Rathaus, Denkmal und Park. Anschließend bringt Sie ein Bus zu den Natur-Highlights am Prahova-Ufer und dem Tătărani-See. Nach der Erkundung des Herrenhauses fahren Sie zurück ins Zentrum, um den Tag mit einem Besuch der St.-Nikolaus-Kirche abzuschließen. Diese Route maximiert die Reichweite und minimiert den Fußweg.",
+        "hu": "A tömegközlekedési túra Bărcănești szívében kezdődik egy sétával a Városháza, az emlékmű és a park között. Ezután egy busz elviszi Önt a Prahova-folyó partjának és a Tătărani-tónak a természeti látványosságaihoz. Az udvarház felfedezése után visszautazik a központba, hogy a napot a Szent Miklós-templom meglátogatásával zárja. Ez az útvonal maximalizálja az elérést és minimalizálja a gyaloglást.",
+        "ro": "Turul dumneavoastră cu transportul public începe în inima localității Bărcănești cu o plimbare între primărie, monument și parc. Apoi, un autobuz vă va duce la punctele de atracție naturală de pe malul Prahovei și de la Lacul Tătărani. După explorarea conacului, vă veți întoarce în centru pentru a încheia ziua cu o vizită la Biserica Sfântul Nicolae. Acest traseu maximizează acoperirea și minimizează mersul pe jos.",
+        "en": "Your public transport tour begins in the heart of Bărcănești with a walk between the town hall, monument, and park. Then, a bus will take you to the natural highlights on the Prahova riverbank and at Tătărani Lake. After exploring the mansion, you will return to the center to end the day with a visit to St. Nicholas Church. This route maximizes reach and minimizes walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich ein frisches Gebäck für die Busfahrt."
+          },
+          {
+            "name": "Lokales Restaurant für das Mittagessen",
+            "tip": "Probieren Sie eine Platte mit gemischtem Grillfleisch (Grătar mixt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Vegyen egy friss péksüteményt a buszútra."
+          },
+          {
+            "name": "Helyi étterem ebédre",
+            "tip": "Kóstoljon meg egy vegyes grilltálat (Grătar mixt)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați un produs de patiserie proaspăt pentru călătoria cu autobuzul."
+          },
+          {
+            "name": "Restaurant local pentru prânz",
+            "tip": "Încercați un platou cu grătar mixt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Get a fresh pastry for the bus ride."
+          },
+          {
+            "name": "Local restaurant for lunch",
+            "tip": "Try a mixed grill platter (Grătar mixt)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Genießen Sie die vorbeiziehende Landschaft zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inneres der St.-Nikolaus-Kirche",
+            "tip": "Ein Ort der Ruhe und Besinnung am Ende des Tages.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Élvezze az elhaladó tájat a megállók között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós-templom belseje",
+            "tip": "A béke és az elmélkedés helye a nap végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la geam în autobuz",
+            "tip": "Bucurați-vă de peisajul care trece printre stații.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Bisericii Sfântul Nicolae",
+            "tip": "Un loc de liniște și reculegere la sfârșitul zilei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Enjoy the passing scenery between stops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Inside St. Nicholas Church",
+            "tip": "A place of peace and reflection at the end of the day.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Bushaltestelle",
+            "tip": "Kaufen Sie Getränke oder kleine Snacks für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a buszmegállóban",
+            "tip": "Vásároljon italokat vagy apró harapnivalókat az utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la stația de autobuz",
+            "tip": "Cumpărați băuturi sau mici gustări pentru călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy drinks or small snacks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über den Busfahrplan.",
+          "Haben Sie Kleingeld für die Tickets bereit.",
+          "Achten Sie auf die Ansagen der Haltestellen."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről.",
+          "Készítsen elő aprópénzt a jegyekhez.",
+          "Figyeljen a megállók bemondására."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans.",
+          "Aveți la îndemână bani mărunți pentru bilete.",
+          "Fiți atenți la anunțurile stațiilor."
+        ],
+        "en": [
+          "Check the bus schedule in advance.",
+          "Have small change ready for tickets.",
+          "Pay attention to the stop announcements."
+        ]
+      }
+    }
+  }
+}

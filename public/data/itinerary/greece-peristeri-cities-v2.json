@@ -1,0 +1,1452 @@
+{
+  "city_id": "greece-peristeri-cities-v2",
+  "anchor": {
+    "name": "Peristeri",
+    "coords": [
+      23.69,
+      38.01
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            23.691,
+            38.012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
+            "en": "Start your day here with a coffee, watching the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fußgängerzone Ethnikis Antistasis",
+            "hu": "Ethnikis Antistasis sétálóutca",
+            "ro": "Zona Pietonală Ethnikis Antistasis",
+            "en": "Ethnikis Antistasis Pedestrian Zone"
+          },
+          "coords": [
+            23.693,
+            38.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen Vormittagsspaziergang und zum Stöbern in den Geschäften.",
+            "hu": "Tökéletes egy délelőtti sétára és a boltok nézegetésére.",
+            "ro": "Perfect pentru o plimbare de dimineață și pentru a te uita prin magazine.",
+            "en": "Perfect for a morning stroll and browsing the shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Antonios",
+            "hu": "Agios Antonios-templom",
+            "ro": "Biserica Sfântul Antonie",
+            "en": "Church of Agios Antonios"
+          },
+          "coords": [
+            23.69,
+            38.014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre dieser orthodoxen Kirche.",
+            "hu": "Csodálja meg az ikonokat és az ortodox templom békés hangulatát.",
+            "ro": "Admirați icoanele și atmosfera liniștită a acestei biserici ortodoxe.",
+            "en": "Admire the icons and the peaceful atmosphere of this Orthodox church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Taverne",
+            "hu": "Ebéd egy helyi tavernában",
+            "ro": "Prânz la o tavernă locală",
+            "en": "Lunch at a local Taverna"
+          },
+          "coords": [
+            23.688,
+            38.013
+          ],
+          "category": "gastro",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt Souvlaki oder Moussaka für ein authentisches Erlebnis.",
+            "hu": "Mindenképpen kóstolja meg a souvlakit vagy a moussakát egy autentikus élményért.",
+            "ro": "Asigurați-vă că încercați souvlaki sau moussaka pentru o experiență autentică.",
+            "en": "Be sure to try souvlaki or moussaka for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hain von Peristeri",
+            "hu": "Periszteri-liget",
+            "ro": "Dumbrava din Peristeri",
+            "en": "Peristeri Grove"
+          },
+          "coords": [
+            23.698,
+            38.016
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine grüne Oase, ideal für eine Pause im Schatten.",
+            "hu": "Zöld oázis, ideális egy kis árnyékos pihenőre.",
+            "ro": "O oază de verdeață, ideală pentru o pauză la umbră.",
+            "en": "A green oasis, ideal for a break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Stadion von Peristeri",
+            "hu": "Periszteri Városi Stadion",
+            "ro": "Stadionul Municipal din Peristeri",
+            "en": "Municipal Stadium of Peristeri"
+          },
+          "coords": [
+            23.695,
+            38.018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:26",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die Heimat des Atromitos FC, ein Herzstück des lokalen Sports.",
+            "hu": "Vessen egy pillantást az Atromitos FC otthonára, a helyi sportélet szívére.",
+            "ro": "Aruncați o privire la casa lui Atromitos FC, un centru al sportului local.",
+            "en": "Take a look at the home of Atromitos FC, a heart of local sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Park des Friedens und der Freundschaft",
+            "hu": "Béke és Barátság Park",
+            "ro": "Parcul Păcii și Prieteniei",
+            "en": "Park of Peace and Friendship"
+          },
+          "coords": [
+            23.687,
+            38.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und die entspannte Atmosphäre zu genießen.",
+            "hu": "Egy szép hely a nap lezárásához és a pihentető légkör élvezetéhez.",
+            "ro": "Un loc frumos pentru a încheia ziua și a vă bucura de atmosfera relaxată.",
+            "en": "A beautiful place to end the day and enjoy the relaxed atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Rathausplatz, dem Herzen von Peristeri. Schlendern Sie vormittags durch die Fußgängerzone und spüren Sie den lokalen Puls. Nach dem Mittagessen in einer charmanten Taverne bietet der Hain von Peristeri eine willkommene grüne Zuflucht vor der städtischen Hektik. Beenden Sie Ihren Tag im ruhigen Park des Friedens und der Freundschaft, ein perfekter Ort, um die gesammelten Eindrücke Revue passieren zu lassen.",
+        "hu": "Kezdje sétáját a nyüzsgő Városháza téren, Periszteri szívében. Délelőtt sétáljon végig a sétálóutcán, és érezze a helyi lüktetést. Egy bájos tavernában elköltött ebéd után a Periszteri-liget üdítő zöld menedéket nyújt a városi nyüzsgés elől. Zárja a napot a békés Béke és Barátság Parkban, amely tökéletes hely a nap benyomásainak felidézésére.",
+        "ro": "Începeți plimbarea în Piața Primăriei, inima Peristeriului. În timpul dimineții, plimbați-vă pe zona pietonală și simțiți pulsul local. După prânzul la o tavernă fermecătoare, Dumbrava din Peristeri oferă un refugiu verde binevenit din agitația urbană. Încheiați ziua în liniștitul Parc al Păcii și Prieteniei, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "Start your walk at the bustling Town Hall Square, the heart of Peristeri. In the morning, stroll down the pedestrian zone and feel the local pulse. After lunch at a charming taverna, the Peristeri Grove offers a welcome green refuge from the urban hustle. End your day in the tranquil Park of Peace and Friendship, a perfect spot to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Ein Muss in Griechenland. Suchen Sie nach kleinen Grillstuben für den besten Geschmack."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Ein herzhafter Auflauf, perfekt für ein sättigendes Mittagessen."
+          },
+          {
+            "name": "Freddo Cappuccino",
+            "tip": "Der beliebteste Eiskaffee der Griechen, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki",
+            "tip": "Görögországban kötelező. Keresse a kis grillbárokat a legjobb ízért."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Egy kiadós rakott étel, tökéletes egy laktató ebédhez."
+          },
+          {
+            "name": "Freddo Cappuccino",
+            "tip": "A görögök kedvenc jeges kávéja, ideális egy szünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "O necesitate în Grecia. Căutați mici grătare pentru cel mai bun gust."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "O caserolă consistentă, perfectă pentru un prânz sățios."
+          },
+          {
+            "name": "Freddo Cappuccino",
+            "tip": "Cafeaua cu gheață preferată a grecilor, ideală pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "A must-try in Greece. Look for small grill houses for the best flavor."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "A hearty casserole, perfect for a filling lunch."
+          },
+          {
+            "name": "Freddo Cappuccino",
+            "tip": "The Greeks' favorite iced coffee, ideal for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hain von Peristeri",
+            "tip": "Finden Sie eine ruhige Bank unter den Bäumen, um ein Buch zu lesen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirche Agios Antonios",
+            "tip": "Außerhalb der Gottesdienstzeiten ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park des Friedens und der Freundschaft",
+            "tip": "Ideal für einen langsamen Spaziergang am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Periszteri-liget",
+            "tip": "Keressen egy csendes padot a fák alatt, és olvasson el egy könyvet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Agios Antonios-templom",
+            "tip": "Az istentiszteleti időkön kívül a csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Béke és Barátság Park",
+            "tip": "Ideális egy lassú késő délutáni sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava din Peristeri",
+            "tip": "Găsiți o bancă liniștită sub copaci pentru a citi o carte.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Biserica Sfântul Antonie",
+            "tip": "În afara orelor de slujbă, este un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Păcii și Prieteniei",
+            "tip": "Ideal pentru o plimbare lentă la sfârșitul după-amiezii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peristeri Grove",
+            "tip": "Find a quiet bench under the trees to read a book.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Church of Agios Antonios",
+            "tip": "Outside of service times, a place of silence and reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Park of Peace and Friendship",
+            "tip": "Ideal for a slow late afternoon walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Ethnikis Antistasis",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie traditionelles griechisches Gebäck wie Koulouria oder Tsoureki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ethnikis Antistasis sétálóutca",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon hagyományos görög péksüteményeket, mint a Koulouria vagy a Tsoureki."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Pietonală Ethnikis Antistasis",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie tradiționale grecești precum Koulouria sau Tsoureki."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ethnikis Antistasis Pedestrian Zone",
+            "tip": "A mix of local boutiques and well-known brands."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy traditional Greek pastries like Koulouria or Tsoureki."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag auf den Beinen sein werden.",
+          "Eine wiederverwendbare Wasserflasche ist unerlässlich, besonders in den wärmeren Monaten.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta, planen Sie Ihren Einkauf entsprechend.",
+          "Genießen Sie das langsame Tempo; Peristeri ist ein Ort zum Entspannen, nicht zum Hetzen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap talpon lesz.",
+          "Egy újrafelhasználható vizes palack elengedhetetlen, különösen a melegebb hónapokban.",
+          "A legtöbb üzlet délután bezár egy szieszta erejéig, tervezze meg a vásárlást ennek megfelelően.",
+          "Élvezze a lassú tempót; Periszteri egy pihentető hely, nem a rohanásé."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți fi pe picioare toată ziua.",
+          "O sticlă de apă reutilizabilă este esențială, mai ales în lunile mai calde.",
+          "Majoritatea magazinelor se închid după-amiaza pentru o siestă, planificați-vă cumpărăturile în consecință.",
+          "Bucurați-vă de ritmul lent; Peristeri este un loc de relaxare, nu de grabă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be on your feet all day.",
+          "A reusable water bottle is essential, especially in the warmer months.",
+          "Most shops close in the afternoon for a siesta, plan your shopping accordingly.",
+          "Embrace the slow pace; Peristeri is a place to relax, not to rush."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Stadion von Peristeri",
+            "hu": "Periszteri Városi Stadion",
+            "ro": "Stadionul Municipal din Peristeri",
+            "en": "Municipal Stadium of Peristeri"
+          },
+          "coords": [
+            23.695,
+            38.018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt, um die sportliche Seite der Stadt zu sehen.",
+            "hu": "Jó kiindulópont a város sportos oldalának megismeréséhez.",
+            "ro": "Un bun punct de plecare pentru a vedea latura sportivă a orașului.",
+            "en": "A good starting point to see the sporty side of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hain von Peristeri",
+            "hu": "Periszteri-liget",
+            "ro": "Dumbrava din Peristeri",
+            "en": "Peristeri Grove"
+          },
+          "coords": [
+            23.698,
+            38.016
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:33",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Wege und genießen Sie die grüne Lunge der Stadt.",
+            "hu": "Kerékpározzon végig az ösvényeken, és élvezze a város zöld tüdejét.",
+            "ro": "Pedalați pe alei și bucurați-vă de plămânul verde al orașului.",
+            "en": "Cycle through the paths and enjoy the city's green lung."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Antonios",
+            "hu": "Agios Antonios-templom",
+            "ro": "Biserica Sfântul Antonie",
+            "en": "Church of Agios Antonios"
+          },
+          "coords": [
+            23.69,
+            38.014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich einen Moment der Ruhe.",
+            "hu": "Tegye le a kerékpárt, és szánjon egy percet a csendre.",
+            "ro": "Parcați bicicleta și acordați-vă un moment de liniște.",
+            "en": "Park your bike and take a moment of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz & Mittagessen",
+            "hu": "Városháza tér és ebéd",
+            "ro": "Piața Primăriei & Prânz",
+            "en": "Town Hall Square & Lunch"
+          },
+          "coords": [
+            23.691,
+            38.012
+          ],
+          "category": "gastro",
+          "arrive_at": "11:22",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Platz ist von vielen Tavernen umgeben. Ideal für eine ausgiebige Mittagspause.",
+            "hu": "A teret számos taverna veszi körül. Ideális egy kiadós ebédszünethez.",
+            "ro": "Piața este înconjurată de numeroase taverne. Ideal pentru o pauză de prânz lungă.",
+            "en": "The square is surrounded by many tavernas. Ideal for a long lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Techne",
+            "hu": "Techné Kulturális Központ",
+            "ro": "Centrul Cultural Techne",
+            "en": "Techne Cultural Center"
+          },
+          "coords": [
+            23.688,
+            38.015
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über aktuelle Ausstellungen oder Veranstaltungen.",
+            "hu": "Érdeklődjön az aktuális kiállításokról vagy eseményekről.",
+            "ro": "Interesați-vă de expozițiile sau evenimentele curente.",
+            "en": "Check for current exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausstellungszentrum von Peristeri",
+            "hu": "Periszteri Kiállítási Központ",
+            "ro": "Centrul Expozițional din Peristeri",
+            "en": "Exhibition Center of Peristeri"
+          },
+          "coords": [
+            23.685,
+            38.008
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein interessanter Ort, der die industrielle Vergangenheit der Region zeigt.",
+            "hu": "Érdekes hely, amely bemutatja a régió ipari múltját.",
+            "ro": "Un loc interesant care arată trecutul industrial al regiunii.",
+            "en": "An interesting place showcasing the industrial past of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Park des Friedens und der Freundschaft",
+            "hu": "Béke és Barátság Park",
+            "ro": "Parcul Păcii și Prieteniei",
+            "en": "Park of Peace and Friendship"
+          },
+          "coords": [
+            23.687,
+            38.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:17",
+          "stay_min": 88,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Fahrradtour mit einem entspannten Ausklang zu beenden.",
+            "hu": "Tökéletes hely a kerékpártúra befejezéséhez egy pihentető levezetéssel.",
+            "ro": "Locul perfect pentru a încheia turul cu bicicleta cu o relaxare finală.",
+            "en": "The perfect place to end the bike tour with a relaxing finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Städtischen Stadion und fahren Sie durch den grünen Hain von Peristeri. Erkunden Sie das spirituelle Zentrum an der Agios Antonios Kirche, bevor Sie am Rathausplatz eine wohlverdiente Mittagspause einlegen. Am Nachmittag führt Sie Ihre Route zu kulturellen und historischen Orten wie dem Kulturzentrum und dem Ausstellungszentrum. Beenden Sie Ihre Tour im Park des Friedens und der Freundschaft, wo Sie die Beine ausstrecken und entspannen können.",
+        "hu": "Kezdje kerékpártúráját a Városi Stadionnál, és tekerjen át a zöld Periszteri-ligeten. Fedezze fel a spirituális központot az Agios Antonios-templomnál, mielőtt egy jól megérdemelt ebédszünetet tartana a Városháza téren. Délután az útvonal kulturális és történelmi helyszínekre vezet, mint a Kulturális Központ és a Kiállítási Központ. Fejezze be a túrát a Béke és Barátság Parkban, ahol kinyújtóztathatja a lábait és pihenhet.",
+        "ro": "Începeți turul cu bicicleta de la Stadionul Municipal și pedalați prin Dumbrava verde din Peristeri. Explorați centrul spiritual la Biserica Agios Antonios înainte de a lua o pauză de prânz binemeritată în Piața Primăriei. După-amiaza, traseul vă duce la situri culturale și istorice, cum ar fi Centrul Cultural și Centrul Expozițional. Încheiați turul în Parcul Păcii și Prieteniei, unde vă puteți întinde picioarele și vă puteți relaxa.",
+        "en": "Start your bike tour at the Municipal Stadium and cycle through the green Peristeri Grove. Explore the spiritual center at the Church of Agios Antonios before taking a well-deserved lunch break at the Town Hall Square. In the afternoon, your route takes you to cultural and historical sites like the Cultural Center and the Exhibition Center. Finish your tour in the Park of Peace and Friendship, where you can stretch your legs and relax."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyro-Pita",
+            "tip": "Ein schneller, leckerer und authentischer griechischer Snack."
+          },
+          {
+            "name": "Griechischer Salat (Choriatiki)",
+            "tip": "Frisch und leicht, perfekt für eine Mahlzeit an einem warmen Tag."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der originale griechische Eiskaffee, stark und erfrischend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyro-Pita",
+            "tip": "Gyors, finom és autentikus görög snack."
+          },
+          {
+            "name": "Görög saláta (Choriatiki)",
+            "tip": "Friss és könnyű, tökéletes étel egy meleg napon."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Az eredeti görög jeges kávé, erős és frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyro Pita",
+            "tip": "O gustare grecească rapidă, delicioasă și autentică."
+          },
+          {
+            "name": "Salată grecească (Choriatiki)",
+            "tip": "Proaspătă și ușoară, perfectă pentru o masă într-o zi călduroasă."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua cu gheață originală grecească, puternică și răcoritoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyro Pita",
+            "tip": "A quick, delicious, and authentic Greek snack."
+          },
+          {
+            "name": "Greek Salad (Choriatiki)",
+            "tip": "Fresh and light, perfect for a meal on a warm day."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The original Greek iced coffee, strong and refreshing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hain von Peristeri",
+            "tip": "Abseits der Hauptwege finden sich ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park des Friedens und der Freundschaft",
+            "tip": "Weitläufig und oft weniger überlaufen als der Hain.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitenstraßen",
+            "tip": "Entdecken Sie ruhige Wohnstraßen abseits der Hauptverkehrsadern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Periszteri-liget",
+            "tip": "A fő utaktól távolabb csendes sarkokat találhat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Béke és Barátság Park",
+            "tip": "Tágas és gyakran kevésbé zsúfolt, mint a liget.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Fedezze fel a csendes lakóutcákat a fő artériáktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava din Peristeri",
+            "tip": "Puteți găsi colțuri liniștite departe de potecile principale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Păcii și Prieteniei",
+            "tip": "Spațios și adesea mai puțin aglomerat decât dumbrava.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străzi lăturalnice",
+            "tip": "Descoperiți străzi rezidențiale liniștite, departe de arterele principale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peristeri Grove",
+            "tip": "You can find quiet corners away from the main paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park of Peace and Friendship",
+            "tip": "Spacious and often less crowded than the grove.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side Streets",
+            "tip": "Discover quiet residential streets away from the main arteries.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach einem Wochenmarkt für frische Produkte und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy heti piacot friss termékekért és helyi különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Căutați o piață săptămânală pentru produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need accessories or a quick repair."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Look for a weekly market for fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps.",
+          "Ein Helm wird für Ihre Sicherheit dringend empfohlen.",
+          "Prüfen Sie die Fahrradfreundlichkeit der Straßen; einige Hauptstraßen können verkehrsreich sein.",
+          "Planen Sie Ihre Route im Voraus, um steile Hügel zu vermeiden, falls Sie es gemütlicher mögen."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárt, még rövid megállások esetén is.",
+          "A biztonsága érdekében erősen ajánlott a sisak viselése.",
+          "Ellenőrizze az utak kerékpárbarát jellegét; néhány főút forgalmas lehet.",
+          "Tervezze meg előre az útvonalat, hogy elkerülje a meredek emelkedőket, ha nyugodtabb tempót szeretne."
+        ],
+        "ro": [
+          "Legați-vă întotdeauna bine bicicleta, chiar și pentru opriri scurte.",
+          "O cască este puternic recomandată pentru siguranța dumneavoastră.",
+          "Verificați dacă drumurile sunt prietenoase pentru biciclete; unele străzi principale pot fi aglomerate.",
+          "Planificați-vă traseul în avans pentru a evita dealurile abrupte dacă preferați un ritm mai lejer."
+        ],
+        "en": [
+          "Always lock your bike securely, even for short stops.",
+          "A helmet is strongly recommended for your safety.",
+          "Check the bike-friendliness of the roads; some main streets can be busy.",
+          "Plan your route in advance to avoid steep hills if you prefer a more leisurely pace."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Rathausplatz",
+            "hu": "1. klaszter: Városháza tér",
+            "ro": "Cluster 1: Piața Primăriei",
+            "en": "Cluster 1: Town Hall Square"
+          },
+          "coords": [
+            23.691,
+            38.012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang im Herzen der Stadt.",
+            "hu": "Parkoljon a közelben, és kezdje a sétát a város szívében.",
+            "ro": "Parcați în apropiere și începeți turul pietonal în inima orașului.",
+            "en": "Park nearby and start your walking tour in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fußgängerzone Ethnikis Antistasis",
+            "hu": "Ethnikis Antistasis sétálóutca",
+            "ro": "Zona Pietonală Ethnikis Antistasis",
+            "en": "Ethnikis Antistasis Pedestrian Zone"
+          },
+          "coords": [
+            23.693,
+            38.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz. Ideal zum Schaufensterbummel.",
+            "hu": "Rövid séta a Városháza tértől. Ideális kirakatnézegetéshez.",
+            "ro": "La o scurtă plimbare de Piața Primăriei. Ideal pentru a te uita la vitrine.",
+            "en": "A short walk from the Town Hall Square. Ideal for window shopping."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Antonios",
+            "hu": "Agios Antonios-templom",
+            "ro": "Biserica Sfântul Antonie",
+            "en": "Church of Agios Antonios"
+          },
+          "coords": [
+            23.69,
+            38.014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das spirituelle Zentrum des Viertels zu Fuß.",
+            "hu": "Fedezze fel gyalog a negyed spirituális központját.",
+            "ro": "Explorați pe jos centrul spiritual al cartierului.",
+            "en": "Explore the spiritual center of the neighborhood on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Ausstellungszentrum & Mittagessen",
+            "hu": "2. klaszter: Kiállítási Központ és ebéd",
+            "ro": "Cluster 2: Centrul Expozițional & Prânz",
+            "en": "Cluster 2: Exhibition Center & Lunch"
+          },
+          "coords": [
+            23.685,
+            38.008
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 125,
+          "hop_mode": "car",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken, das Zentrum besichtigen und dann zu Mittag essen.",
+            "hu": "Hajtson a következő klaszterhez. Parkoljon, nézze meg a központot, majd ebédeljen.",
+            "ro": "Conduceți la următorul cluster. Parcați, vizitați centrul și apoi luați prânzul.",
+            "en": "Drive to the next cluster. Park, visit the center, and then have lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Hain von Peristeri",
+            "hu": "3. klaszter: Periszteri-liget",
+            "ro": "Cluster 3: Dumbrava din Peristeri",
+            "en": "Cluster 3: Peristeri Grove"
+          },
+          "coords": [
+            23.698,
+            38.016
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Auto für eine entspannte Zeit im größten Park der Stadt.",
+            "hu": "Vigye magával az autót egy pihentető időtöltéshez a város legnagyobb parkjában.",
+            "ro": "Luați mașina pentru o perioadă de relaxare în cel mai mare parc al orașului.",
+            "en": "Take the car for some relaxing time in the city's largest park."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Stadion von Peristeri",
+            "hu": "Periszteri Városi Stadion",
+            "ro": "Stadionul Municipal din Peristeri",
+            "en": "Municipal Stadium of Peristeri"
+          },
+          "coords": [
+            23.695,
+            38.018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:40",
+          "stay_min": 125,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Park aus ist es ein kurzer Spaziergang, um das Stadion von außen zu sehen.",
+            "hu": "A parkból rövid sétával megtekinthető a stadion kívülről.",
+            "ro": "De la parc, este o scurtă plimbare pentru a vedea stadionul din exterior.",
+            "en": "From the park, it's a short walk to see the stadium from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Ihr Auto, um zwischen den Clustern von Peristeri zu wechseln. Beginnen Sie im zentralen Cluster um den Rathausplatz und erkunden Sie die belebten Straßen zu Fuß. Fahren Sie dann zum südlicheren Cluster für einen Einblick in die Industriegeschichte und ein gemütliches Mittagessen. Der Nachmittag ist für die grünen Lungen der Stadt reserviert: Fahren Sie zum Hain von Peristeri und beenden Sie Ihren Tag mit einem Spaziergang zum Stadion.",
+        "hu": "Használja autóját a periszteri klaszterek közötti váltáshoz. Kezdje a központi klaszterben a Városháza tér körül, és fedezze fel gyalog a nyüzsgő utcákat. Ezután vezessen a délebbi klaszterbe, hogy bepillantást nyerjen az ipari történelembe és egy kellemes ebédet fogyasszon el. A délután a város zöld tüdejének van fenntartva: vezessen a Periszteri-ligetbe, és fejezze be a napot egy sétával a stadionhoz.",
+        "ro": "Folosiți-vă mașina pentru a vă deplasa între clusterele din Peristeri. Începeți în clusterul central din jurul Pieței Primăriei și explorați străzile aglomerate pe jos. Apoi, conduceți spre clusterul sudic pentru o incursiune în istoria industrială și un prânz pe îndelete. După-amiaza este rezervată pentru plămânii verzi ai orașului: conduceți spre Dumbrava din Peristeri și încheiați-vă ziua cu o plimbare până la stadion.",
+        "en": "Use your car to switch between Peristeri's clusters. Start in the central cluster around the Town Hall Square and explore the bustling streets on foot. Then, drive to the southern cluster for a glimpse into industrial history and a leisurely lunch. The afternoon is reserved for the city's green lungs: drive to the Peristeri Grove and end your day with a walk to the stadium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavernen am Stadtrand",
+            "tip": "Mit dem Auto erreichen Sie leicht authentische Tavernen außerhalb des Zentrums."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Auch wenn es nicht am Meer liegt, ist die Qualität der Meeresfrüchte oft ausgezeichnet."
+          },
+          {
+            "name": "Hauswein",
+            "tip": "Bestellen Sie den lokalen 'Hima'-Wein für ein authentisches Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Külvárosi tavernák",
+            "tip": "Autóval könnyen elérhet autentikus tavernákat a központon kívül."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Bár nem a tenger mellett van, a tenger gyümölcseinek minősége gyakran kiváló."
+          },
+          {
+            "name": "Ház bora",
+            "tip": "Rendeljen a helyi 'Hima' borból egy autentikus élményért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverne la periferie",
+            "tip": "Cu mașina puteți ajunge ușor la taverne autentice în afara centrului."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Chiar dacă nu este la mare, calitatea fructelor de mare este adesea excelentă."
+          },
+          {
+            "name": "Vinul casei",
+            "tip": "Comandați vinul local 'Hima' pentru o experiență autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavernas on the outskirts",
+            "tip": "With a car, you can easily reach authentic tavernas outside the center."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Even though it's not by the sea, the quality of seafood is often excellent."
+          },
+          {
+            "name": "House Wine",
+            "tip": "Order the local 'Hima' wine for an authentic experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hain von Peristeri",
+            "tip": "Leicht mit dem Auto erreichbar und groß genug, um eine ruhige Ecke zu finden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Friedhöfe",
+            "tip": "Griechische Friedhöfe sind oft parkähnlich und Orte der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Periszteri-liget",
+            "tip": "Autóval könnyen megközelíthető és elég nagy ahhoz, hogy egy csendes sarkot találjon.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Temetők",
+            "tip": "A görög temetők gyakran parkszerűek és a béke helyei.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dumbrava din Peristeri",
+            "tip": "Ușor accesibil cu mașina și suficient de mare pentru a găsi un colț liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cimitire",
+            "tip": "Cimitirele grecești sunt adesea asemănătoare parcurilor și locuri de pace.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peristeri Grove",
+            "tip": "Easily accessible by car and large enough to find a quiet corner.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cemeteries",
+            "tip": "Greek cemeteries are often park-like and places of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Große Supermärkte",
+            "tip": "Nutzen Sie das Auto, um in großen Supermärkten wie Sklavenitis oder AB Vassilopoulos authentische griechische Produkte zu kaufen."
+          },
+          {
+            "name": "Möbelgeschäfte",
+            "tip": "Peristeri ist bekannt für seine vielen Möbelgeschäfte, falls Sie nach etwas Größerem suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagy szupermarketek",
+            "tip": "Használja az autót, hogy nagy szupermarketekben, mint a Sklavenitis vagy az AB Vassilopoulos, autentikus görög termékeket vásároljon."
+          },
+          {
+            "name": "Bútorboltok",
+            "tip": "Periszteri számos bútorboltjáról ismert, ha valami nagyobbat keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri mari",
+            "tip": "Folosiți mașina pentru a cumpăra produse grecești autentice din supermarketuri mari precum Sklavenitis sau AB Vassilopoulos."
+          },
+          {
+            "name": "Magazine de mobilă",
+            "tip": "Peristeri este cunoscut pentru numeroasele sale magazine de mobilă, în caz că sunteți în căutarea a ceva mai mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Large Supermarkets",
+            "tip": "Use the car to buy authentic Greek products at large supermarkets like Sklavenitis or AB Vassilopoulos."
+          },
+          {
+            "name": "Furniture Stores",
+            "tip": "Peristeri is known for its many furniture stores, in case you are looking for something bigger."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Zentrum eine Herausforderung sein. Suchen Sie nach gebührenpflichtigen Parkplätzen.",
+          "Achten Sie auf Einbahnstraßen und den oft dichten Verkehr.",
+          "Ein GPS ist unerlässlich, um sich in den verwinkelten Straßen zurechtzufinden.",
+          "Die Flexibilität eines Autos ermöglicht es Ihnen, auch weniger bekannte Ecken zu entdecken."
+        ],
+        "hu": [
+          "A parkolás kihívást jelenthet a központban. Keressen fizetős parkolókat.",
+          "Figyeljen az egyirányú utcákra és a gyakran sűrű forgalomra.",
+          "A GPS elengedhetetlen a kanyargós utcákon való tájékozódáshoz.",
+          "Az autó rugalmassága lehetővé teszi, hogy kevésbé ismert sarkokat is felfedezzen."
+        ],
+        "ro": [
+          "Parcarea poate fi o provocare în centru. Căutați parcări cu plată.",
+          "Fiți atenți la străzile cu sens unic și la traficul adesea aglomerat.",
+          "Un GPS este esențial pentru a naviga pe străzile întortocheate.",
+          "Flexibilitatea unei mașini vă permite să descoperiți și colțuri mai puțin cunoscute."
+        ],
+        "en": [
+          "Parking can be a challenge in the center. Look for paid parking lots.",
+          "Pay attention to one-way streets and the often heavy traffic.",
+          "A GPS is essential for navigating the winding streets.",
+          "The flexibility of a car allows you to discover lesser-known corners as well."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Rathausplatz",
+            "hu": "1. klaszter: Érkezés a Városháza térre",
+            "ro": "Cluster 1: Sosire în Piața Primăriei",
+            "en": "Cluster 1: Arrival at Town Hall Square"
+          },
+          "coords": [
+            23.691,
+            38.012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro oder einen Bus ins Zentrum und starten Sie hier.",
+            "hu": "Menjen metróval vagy busszal a központba, és innen induljon.",
+            "ro": "Luați metroul sau un autobuz spre centru și începeți de aici.",
+            "en": "Take the metro or a bus to the center and start from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fußgängerzone Ethnikis Antistasis",
+            "hu": "Ethnikis Antistasis sétálóutca",
+            "ro": "Zona Pietonală Ethnikis Antistasis",
+            "en": "Ethnikis Antistasis Pedestrian Zone"
+          },
+          "coords": [
+            23.693,
+            38.011
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Alles in diesem Cluster ist leicht zu Fuß erreichbar.",
+            "hu": "Ebben a klaszterben minden könnyen megközelíthető gyalog.",
+            "ro": "Totul în acest cluster este ușor accesibil pe jos.",
+            "en": "Everything in this cluster is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Antonios",
+            "hu": "Agios Antonios-templom",
+            "ro": "Biserica Sfântul Antonie",
+            "en": "Church of Agios Antonios"
+          },
+          "coords": [
+            23.69,
+            38.014
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe inmitten der Stadt, nur einen kurzen Spaziergang entfernt.",
+            "hu": "A béke szigete a város közepén, csak egy rövid séta.",
+            "ro": "Un loc de liniște în mijlocul orașului, la doar o scurtă plimbare.",
+            "en": "A place of tranquility in the middle of the city, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            23.689,
+            38.011
+          ],
+          "category": "gastro",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zahlreiche Optionen rund um die zentrale Haltestelle.",
+            "hu": "Számos lehetőség a központi megálló körül.",
+            "ro": "Numeroase opțiuni în jurul stației centrale.",
+            "en": "Numerous options around the central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hain von Peristeri",
+            "hu": "2. klaszter: Periszteri-liget",
+            "ro": "Cluster 2: Dumbrava din Peristeri",
+            "en": "Cluster 2: Peristeri Grove"
+          },
+          "coords": [
+            23.698,
+            38.016
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für ein paar Stationen zum größten Park der Stadt.",
+            "hu": "Menjen busszal néhány megállót a város legnagyobb parkjába.",
+            "ro": "Luați un autobuz pentru câteva stații până la cel mai mare parc al orașului.",
+            "en": "Take a bus for a few stops to the city's largest park."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Stadion von Peristeri",
+            "hu": "Periszteri Városi Stadion",
+            "ro": "Stadionul Municipal din Peristeri",
+            "en": "Municipal Stadium of Peristeri"
+          },
+          "coords": [
+            23.695,
+            38.018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:16",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Park aus leicht zu Fuß zu erreichen.",
+            "hu": "A parkból könnyen megközelíthető gyalog.",
+            "ro": "Ușor de accesat pe jos din parc.",
+            "en": "Easily accessible on foot from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Park des Friedens & der Freundschaft",
+            "hu": "3. klaszter: Béke és Barátság Park",
+            "ro": "Cluster 3: Parcul Păcii și Prieteniei",
+            "en": "Cluster 3: Park of Peace and Friendship"
+          },
+          "coords": [
+            23.687,
+            38.01
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:24",
+          "stay_min": 81,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eine letzte Busfahrt zu einem ruhigen Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Egy utolsó buszút egy csendes helyre, ahol lezárhatja a napot.",
+            "ro": "O ultimă călătorie cu autobuzul spre un loc liniștit pentru a încheia ziua.",
+            "en": "A final bus ride to a quiet place to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Peristeri lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im Zentrum und entdecken Sie den ersten Cluster aus Plätzen und Kirchen zu Fuß. Eine kurze Busfahrt bringt Sie am Nachmittag in den grünen Norden zum Hain und Stadion. Beenden Sie Ihren Tag mit einer weiteren kurzen Fahrt zum ruhigen Park des Friedens und der Freundschaft, ein Beweis für die gute Anbindung der Stadt.",
+        "hu": "Periszteri kiválóan felfedezhető tömegközlekedéssel. Kezdje a központban, és fedezze fel gyalog az első, terekből és templomokból álló klasztert. Egy rövid buszút elviszi délután a zöld északi részbe, a ligethez és a stadionhoz. Fejezze be a napot egy másik rövid úttal a csendes Béke és Barátság Parkba, amely a város jó közlekedési kapcsolatait bizonyítja.",
+        "ro": "Peristeri este excelent de explorat cu transportul public. Începeți în centru și descoperiți pe jos primul cluster de piețe și biserici. O scurtă călătorie cu autobuzul vă va duce după-amiaza în nordul verde, la dumbravă și stadion. Încheiați-vă ziua cu o altă călătorie scurtă spre liniștitul Parc al Păcii și Prieteniei, o dovadă a bunei conectivități a orașului.",
+        "en": "Peristeri is excellent to explore by public transport. Start in the center and discover the first cluster of squares and churches on foot. A short bus ride will take you to the green north in the afternoon, to the grove and stadium. End your day with another short trip to the quiet Park of Peace and Friendship, a testament to the city's good connectivity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Koulouri",
+            "tip": "Ein Sesamkringel, den Sie an Straßenständen in der Nähe von Haltestellen finden. Perfekt für unterwegs."
+          },
+          {
+            "name": "Spanakopita",
+            "tip": "Spinattaschen aus der Bäckerei sind ein schneller und sättigender Snack."
+          },
+          {
+            "name": "Griechischer Kaffee",
+            "tip": "In einem traditionellen 'Kafeneio' in der Nähe einer Haltestelle zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koulouri",
+            "tip": "Egy szezámmagos perec, amit az utcai árusoknál talál a megállók közelében. Tökéletes útközben."
+          },
+          {
+            "name": "Spanakopita",
+            "tip": "A pékségben kapható spenótos táskák gyors és laktató harapnivalók."
+          },
+          {
+            "name": "Görög kávé",
+            "tip": "Egy hagyományos 'Kafeneio'-ban készítik egy megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Koulouri",
+            "tip": "Un covrig cu susan pe care îl găsiți la vânzătorii ambulanți de lângă stații. Perfect pentru drum."
+          },
+          {
+            "name": "Spanakopita",
+            "tip": "Plăcintele cu spanac de la brutărie sunt o gustare rapidă și sățioasă."
+          },
+          {
+            "name": "Cafea grecească",
+            "tip": "Preparată la un 'Kafeneio' tradițional lângă o stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koulouri",
+            "tip": "A sesame bread ring you can find at street vendors near stops. Perfect for on the go."
+          },
+          {
+            "name": "Spanakopita",
+            "tip": "Spinach pies from a bakery are a quick and filling snack."
+          },
+          {
+            "name": "Greek Coffee",
+            "tip": "Brewed in a traditional 'Kafeneio' near a station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Metrostationen außerhalb der Stoßzeiten",
+            "tip": "Die Kunst und Architektur einiger Stationen lässt sich in Ruhe betrachten.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Auf einer Bank an einer Bushaltestelle",
+            "tip": "Manchmal ist das Beobachten der vorbeifahrenden Welt die beste Entspannung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metróállomások csúcsidőn kívül",
+            "tip": "Néhány állomás művészetét és építészetét nyugalomban lehet megcsodálni.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Egy padon a buszmegállóban",
+            "tip": "Néha a világ elhaladásának figyelése a legjobb kikapcsolódás.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații de metrou în afara orelor de vârf",
+            "tip": "Arta și arhitectura unor stații pot fi admirate în liniște.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "Pe o bancă într-o stație de autobuz",
+            "tip": "Uneori, privitul lumii care trece este cea mai bună relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Metro stations outside of peak hours",
+            "tip": "The art and architecture of some stations can be admired in peace.",
+            "emoji": "🚇"
+          },
+          {
+            "name": "On a bench at a bus stop",
+            "tip": "Sometimes watching the world go by is the best relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske (Periptera)",
+            "tip": "An jeder Ecke und in der Nähe jeder Haltestelle finden Sie Kioske, die alles von Tickets bis zu Snacks verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok (Periptera)",
+            "tip": "Minden sarkon és minden megálló közelében talál kioszkokat, amelyek jegyektől a rágcsálnivalókig mindent árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri (Periptera)",
+            "tip": "La fiecare colț și lângă fiecare stație veți găsi chioșcuri care vând de la bilete la gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks (Periptera)",
+            "tip": "On every corner and near every stop, you will find kiosks selling everything from tickets to snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder Mehrtageskarte für den öffentlichen Verkehr, um Geld zu sparen.",
+          "Validieren Sie Ihr Ticket immer, um Strafen zu vermeiden.",
+          "Die Athener Metro bedient auch Peristeri und ist oft der schnellste Weg, sich fortzubewegen.",
+          "Busfahrpläne können variieren, eine App zur Routenplanung ist hilfreich."
+        ],
+        "hu": [
+          "Vásároljon napi vagy többnapos tömegközlekedési jegyet a pénzmegtakarítás érdekében.",
+          "Mindig érvényesítse a jegyét a bírságok elkerülése érdekében.",
+          "Az athéni metró Periszterit is kiszolgálja, és gyakran a leggyorsabb közlekedési mód.",
+          "A buszmenetrendek változhatnak, egy útvonaltervező alkalmazás hasznos lehet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi sau de mai multe zile pentru transportul public pentru a economisi bani.",
+          "Validați-vă întotdeauna biletul pentru a evita amenzile.",
+          "Metroul din Atena deservește și Peristeri și este adesea cel mai rapid mod de a vă deplasa.",
+          "Orarele autobuzelor pot varia, o aplicație de planificare a rutei este utilă."
+        ],
+        "en": [
+          "Buy a daily or multi-day public transport ticket to save money.",
+          "Always validate your ticket to avoid fines.",
+          "The Athens Metro also serves Peristeri and is often the fastest way to get around.",
+          "Bus schedules can vary, a route planning app is helpful."
+        ]
+      }
+    }
+  }
+}

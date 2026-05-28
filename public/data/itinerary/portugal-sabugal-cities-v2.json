@@ -1,0 +1,1316 @@
+{
+  "city_id": "portugal-sabugal-cities-v2",
+  "anchor": {
+    "name": "Sabugal",
+    "coords": [
+      -7.0833,
+      40.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Sabugal",
+            "hu": "Sabugal vára",
+            "ro": "Castelul din Sabugal",
+            "en": "Sabugal Castle"
+          },
+          "coords": [
+            -7.0911,
+            40.3495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erklimmen Sie den fünfseitigen Turm für eine fantastische Aussicht.",
+            "hu": "Másszon fel az ötszögletű toronyba a fantasztikus kilátásért.",
+            "ro": "Urcați în turnul pentagonal pentru o priveliște fantastică.",
+            "en": "Climb the pentagonal tower for a fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -7.0905,
+            40.3499
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Foto mit der Burg im Hintergrund.",
+            "hu": "Tökéletes hely egy fotóhoz, a várral a háttérben.",
+            "ro": "Locul perfect pentru o fotografie cu castelul în fundal.",
+            "en": "Perfect spot for a photo with the castle in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.092,
+            40.3488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die romanischen und gotischen Architekturelemente.",
+            "hu": "Figyelje meg a román és gótikus építészeti elemeket.",
+            "ro": "Observați elementele arhitecturale romanice și gotice.",
+            "en": "Look for the Romanesque and Gothic architectural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Sabugal",
+            "hu": "Sabugal Múzeuma",
+            "ro": "Muzeul din Sabugal",
+            "en": "Museum of Sabugal"
+          },
+          "coords": [
+            -7.0935,
+            40.3505
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen, die die Geschichte der Region zum Leben erwecken.",
+            "hu": "Interaktív kiállítások keltik életre a régió történelmét.",
+            "ro": "Expozițiile interactive aduc la viață istoria regiunii.",
+            "en": "Interactive exhibits bring the history of the region to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Sabugal",
+            "hu": "Sabugali pellengér",
+            "ro": "Stâlpul Infamiei din Sabugal",
+            "en": "Pillory of Sabugal"
+          },
+          "coords": [
+            -7.0928,
+            40.3512
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Symbol der mittelalterlichen Gerichtsbarkeit direkt im Stadtzentrum.",
+            "hu": "A középkori igazságszolgáltatás szimbóluma a városközpontban.",
+            "ro": "Un simbol al justiției medievale chiar în centrul orașului.",
+            "en": "A symbol of medieval justice right in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade des Côa",
+            "hu": "Côa folyóparti sétány",
+            "ro": "Promenada de pe malul râului Côa",
+            "en": "Côa Riverside Promenade"
+          },
+          "coords": [
+            -7.089,
+            40.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Picknick oder einfach zum Entspannen am Wasser.",
+            "hu": "Ideális hely egy piknikhez vagy csak a vízparti pihenéshez.",
+            "ro": "Un loc ideal pentru un picnic sau pur și simplu pentru relaxare lângă apă.",
+            "en": "An ideal place for a picnic or just relaxing by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Publică",
+            "en": "City Garden"
+          },
+          "coords": [
+            -7.0915,
+            40.3525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in dieser ruhigen, grünen Oase.",
+            "hu": "Zárja a napot ebben a csendes, zöld oázisban.",
+            "ro": "Încheiați ziua în această oază de liniște și verdeață.",
+            "en": "End your day in this quiet, green oasis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Sabugal beginnt mit einer Reise in die Vergangenheit auf der imposanten Burg. Nach dem Erklimmen des Uhrturms für einen Panoramablick schlendern Sie durch die Gassen zur Kirche Santa Maria. Am Nachmittag tauchen Sie im Museum in die lokale Geschichte ein, bevor Sie sich an der ruhigen Uferpromenade des Flusses Côa entspannen. Der Tag endet friedlich im Stadtgarten und lässt die historischen Eindrücke nachwirken.",
+        "hu": "A nap Sabugalban egy utazással kezdődik a múltba a lenyűgöző várban. Miután megmászta az Óratornyot a panorámáért, sétáljon végig a sikátorokon a Santa Maria templomig. Délután merüljön el a helyi történelemben a múzeumban, mielőtt a Côa folyó csendes partján pihenne. A nap békésen zárul a Városkertben, átadva magát a történelmi benyomásoknak.",
+        "ro": "Ziua dvs. în Sabugal începe cu o călătorie în trecut la impunătorul castel. După ce urcați în Turnul cu Ceas pentru o vedere panoramică, vă plimbați pe alei până la Biserica Santa Maria. După-amiaza, vă cufundați în istoria locală la muzeu înainte de a vă relaxa pe promenada liniștită a râului Côa. Ziua se încheie pașnic în Grădina Publică, reflectând la impresiile istorice.",
+        "en": "Your day in Sabugal begins with a journey into the past at the imposing castle. After climbing the Clock Tower for a panoramic view, you'll stroll through the alleys to the Church of Santa Maria. In the afternoon, immerse yourself in local history at the museum before relaxing on the tranquil promenade of the Côa River. The day ends peacefully in the City Garden, reflecting on the historical impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maranhos",
+            "tip": "Eine lokale Spezialität aus Ziegenfleisch, unbedingt probieren!"
+          },
+          {
+            "name": "Restaurante O Abrigo",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maranhos",
+            "tip": "Helyi kecskehús specialitás, kötelező megkóstolni!"
+          },
+          {
+            "name": "Restaurante O Abrigo",
+            "tip": "Hagyományos portugál konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maranhos",
+            "tip": "O specialitate locală din carne de capră, trebuie neapărat încercată!"
+          },
+          {
+            "name": "Restaurante O Abrigo",
+            "tip": "Renumit pentru bucătăria sa tradițională portugheză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maranhos",
+            "tip": "A local specialty made from goat meat, a must-try!"
+          },
+          {
+            "name": "Restaurante O Abrigo",
+            "tip": "Known for its traditional Portuguese cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Côa",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Burg",
+            "tip": "Ein oft übersehener, friedlicher Ort mit toller Aussicht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Côa folyó partja",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vár kertjei",
+            "tip": "Gyakran figyelmen kívül hagyott, békés hely, nagyszerű kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Côa",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile castelului",
+            "tip": "Un loc adesea trecut cu vederea, pașnic, cu priveliști grozave.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Côa River",
+            "tip": "Find a quiet bench and listen to the gentle sound of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "An often overlooked, peaceful spot with great views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgemachter Keramik und Textilien."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokale Produkte wie Käse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és textileket."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi termékeket, például sajtot és mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică și textile lucrate manual."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Cumpărați produse locale precum brânză și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade ceramics and textiles."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Buy local products like cheese and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Planen Sie Zeit für ein gemütliches Mittagessen in einem der traditionellen Restaurants ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakövek egyenetlenek lehetnek.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Tervezzen időt egy kellemes ebédre az egyik hagyományos étteremben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Luați apă cu dvs., mai ales în lunile de vară.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Planificați-vă timp pentru un prânz relaxant la unul dintre restaurantele tradiționale."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Bring water with you, especially during the summer months.",
+          "Most of the sights are located close to each other.",
+          "Plan time for a leisurely lunch at one of the traditional restaurants."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Sabugal",
+            "hu": "Sabugal vára",
+            "ro": "Castelul din Sabugal",
+            "en": "Sabugal Castle"
+          },
+          "coords": [
+            -7.0911,
+            40.3495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Festung zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel az erődöt gyalog.",
+            "ro": "Lăsați bicicleta la intrare și explorați cetatea pe jos.",
+            "en": "Lock your bike at the entrance and explore the fortress on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Sabugal",
+            "hu": "Sabugal Múzeuma",
+            "ro": "Muzeul din Sabugal",
+            "en": "Museum of Sabugal"
+          },
+          "coords": [
+            -7.0935,
+            40.3505
+          ],
+          "category": "museums",
+          "arrive_at": "10:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine willkommene Pause von der Sonne und eine Dosis Kultur.",
+            "hu": "Kellemes pihenő a nap elől és egy adag kultúra.",
+            "ro": "O pauză binevenită de la soare și o doză de cultură.",
+            "en": "A welcome break from the sun and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Barmherzigkeit",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Mizericordiei",
+            "en": "Church of Mercy"
+          },
+          "coords": [
+            -7.094,
+            40.3515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Fassade.",
+            "hu": "Csodálja meg az egyszerű, de elegáns homlokzatot.",
+            "ro": "Admirați fațada simplă, dar elegantă.",
+            "en": "Admire the simple yet elegant facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Publică",
+            "en": "City Garden"
+          },
+          "coords": [
+            -7.0915,
+            40.3525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause im Schatten der Bäume.",
+            "hu": "Tökéletes egy ebédszünetre a fák árnyékában.",
+            "ro": "Perfect pentru o pauză de prânz la umbra copacilor.",
+            "en": "Perfect for a lunch break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade des Côa",
+            "hu": "Côa folyóparti sétány",
+            "ro": "Promenada de pe malul râului Côa",
+            "en": "Côa Riverside Promenade"
+          },
+          "coords": [
+            -7.089,
+            40.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt entlang des Flusses.",
+            "hu": "Élvezze a pihentető kerékpározást a folyó mentén.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe malul râului.",
+            "en": "Enjoy a relaxing ride along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Sabugal",
+            "hu": "Sabugali víztározó",
+            "ro": "Barajul Sabugal",
+            "en": "Sabugal Dam"
+          },
+          "coords": [
+            -7.075,
+            40.36
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:41",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht und die friedliche Atmosphäre.",
+            "hu": "A kaptató megéri a kilátásért és a békés hangulatért.",
+            "ro": "Urcușul merită pentru priveliște și atmosfera liniștită.",
+            "en": "The climb is worth it for the view and the peaceful atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden Sie Sabugal, beginnend mit der majestätischen Burg. Nach einem Kulturbad im Museum führt Sie Ihre Route zur Kirche der Barmherzigkeit und in den schattigen Stadtgarten für eine Pause. Der Nachmittag ist einer malerischen Fahrt entlang des Côa gewidmet, die an der beeindruckenden Talsperre endet, wo Sie die Ruhe der Natur genießen, bevor Sie in die Stadt zurückkehren.",
+        "hu": "Két keréken fedezi fel Sabugalt, a fenséges várral kezdve. A múzeumi kulturális merülés után az útvonal az Irgalmasság templomához és az árnyas Városkertbe vezet egy pihenőre. A délutánt a festői Côa menti kerékpározásnak szenteli, amely a lenyűgöző víztározónál ér véget, ahol élvezheti a természet csendjét, mielőtt visszatérne a városba.",
+        "ro": "Explorați Sabugal pe două roți, începând cu castelul maiestuos. După o baie culturală la muzeu, traseul vă duce la Biserica Mizericordiei și la Grădina Publică umbrită pentru o pauză. După-amiaza este dedicată unei plimbări pitorești de-a lungul râului Côa, care se termină la barajul impresionant, unde vă bucurați de liniștea naturii înainte de a vă întoarce în oraș.",
+        "en": "Explore Sabugal on two wheels, starting with the majestic castle. After a cultural dip at the museum, your route takes you to the Church of Mercy and into the shady City Garden for a break. The afternoon is dedicated to a scenic ride along the Côa, ending at the impressive dam, where you can enjoy the tranquility of nature before returning to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bucho Recheado",
+            "tip": "Ein deftiges, traditionelles Gericht, perfekt nach einer langen Radtour."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Für einen schnellen Kaffee und ein lokales Gebäck (Pastel de Nata)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bucho Recheado",
+            "tip": "Kiadós, hagyományos étel, tökéletes egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Egy gyors kávéra és egy helyi süteményre (Pastel de Nata)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucho Recheado",
+            "tip": "Un fel de mâncare consistent, tradițional, perfect după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Café Central",
+            "tip": "Pentru o cafea rapidă și o prăjitură locală (Pastel de Nata)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bucho Recheado",
+            "tip": "A hearty, traditional dish, perfect after a long bike ride."
+          },
+          {
+            "name": "Café Central",
+            "tip": "For a quick coffee and a local pastry (Pastel de Nata)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Talsperre",
+            "tip": "Ein atemberaubender Blick über den Stausee und die Landschaft.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussufer abseits der Promenade",
+            "tip": "Finden Sie Ihren eigenen kleinen Strandabschnitt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a víztározónál",
+            "tip": "Lélegzetelállító kilátás a víztározóra és a tájra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyópart a sétányon túl",
+            "tip": "Találja meg a saját kis partszakaszát.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la baraj",
+            "tip": "O priveliște uluitoare asupra lacului de acumulare și a peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului dincolo de promenadă",
+            "tip": "Găsiți-vă propria mică plajă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint at the dam",
+            "tip": "A breathtaking view over the reservoir and the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank away from the promenade",
+            "tip": "Find your own little stretch of beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "A Vida Portuguesa (Sabugal)",
+            "tip": "Ein Geschäft, das traditionelle portugiesische Produkte verkauft."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Probieren Sie den berühmten Queijo da Serra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Vida Portuguesa (Sabugal)",
+            "tip": "Hagyományos portugál termékeket árusító üzlet."
+          },
+          {
+            "name": "Helyi sajtüzemek",
+            "tip": "Kóstolja meg a híres Queijo da Serra-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "A Vida Portuguesa (Sabugal)",
+            "tip": "Un magazin care vinde produse tradiționale portugheze."
+          },
+          {
+            "name": "Producători locali de brânză",
+            "tip": "Încercați faimosul Queijo da Serra."
+          }
+        ],
+        "en": [
+          {
+            "name": "A Vida Portuguesa (Sabugal)",
+            "tip": "A shop selling traditional Portuguese products."
+          },
+          {
+            "name": "Local cheese dairies",
+            "tip": "Try the famous Queijo da Serra."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Ein Helm wird dringend empfohlen.",
+          "Einige Straßen im Zentrum sind steil.",
+          "Nutzen Sie die Radwege entlang des Flusses."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Sisak viselése erősen ajánlott.",
+          "Néhány utca a központban meredek.",
+          "Használja a folyó menti kerékpárutakat."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca.",
+          "Casca este puternic recomandată.",
+          "Unele străzi din centru sunt abrupte.",
+          "Folosiți pistele de biciclete de-a lungul râului."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A helmet is highly recommended.",
+          "Some streets in the center are steep.",
+          "Use the bike paths along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Talsperre Sabugal",
+            "hu": "Sabugali víztározó",
+            "ro": "Barajul Sabugal",
+            "en": "Sabugal Dam"
+          },
+          "coords": [
+            -7.075,
+            40.36
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit frischer Luft und einer tollen Aussicht. Es gibt gute Parkmöglichkeiten.",
+            "hu": "Kezdje a napot friss levegővel és remek kilátással. Jó parkolási lehetőségek vannak.",
+            "ro": "Începeți ziua cu aer curat și o priveliște minunată. Există locuri bune de parcare.",
+            "en": "Start the day with fresh air and a great view. There's good parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade des Côa (Parkplatz)",
+            "hu": "Côa folyóparti sétány (parkoló)",
+            "ro": "Promenada de pe malul râului Côa (parcare)",
+            "en": "Côa Riverside Promenade (Parking)"
+          },
+          "coords": [
+            -7.087,
+            40.3535
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und machen Sie einen kurzen Spaziergang am Fluss.",
+            "hu": "Parkoljon le itt, és tegyen egy rövid sétát a folyóparton.",
+            "ro": "Parcați aici și faceți o scurtă plimbare pe malul râului.",
+            "en": "Park here and take a short stroll along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sabugal (Cluster-Start)",
+            "hu": "Sabugal vára (Klaszter kezdete)",
+            "ro": "Castelul din Sabugal (Început de cluster)",
+            "en": "Sabugal Castle (Cluster Start)"
+          },
+          "coords": [
+            -7.0911,
+            40.3495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Burg. Von hier aus erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon a vár közelében. Innen gyalog fedezheti fel a történelmi központot.",
+            "ro": "Parcați lângă castel. De aici puteți explora centrul istoric pe jos.",
+            "en": "Park near the castle. From here, you'll explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Church of Santa Maria"
+          },
+          "coords": [
+            -7.092,
+            40.3488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Burg.",
+            "hu": "Egy rövid séta lefelé a vártól.",
+            "ro": "O scurtă plimbare la vale de la castel.",
+            "en": "A short walk downhill from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Sabugal",
+            "hu": "Sabugal Múzeuma",
+            "ro": "Muzeul din Sabugal",
+            "en": "Museum of Sabugal"
+          },
+          "coords": [
+            -7.0935,
+            40.3505
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die 'Raia', die Grenzregion.",
+            "hu": "Tudjon meg mindent a 'Raia'-ról, a határvidékről.",
+            "ro": "Aflați totul despre 'Raia', regiunea de frontieră.",
+            "en": "Learn all about the 'Raia', the border region."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Sabugal",
+            "hu": "Sabugali pellengér",
+            "ro": "Stâlpul Infamiei din Sabugal",
+            "en": "Pillory of Sabugal"
+          },
+          "coords": [
+            -7.0928,
+            40.3512
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem Platz, bevor Sie zum Auto zurückkehren.",
+            "hu": "Igyon egy kávét a téren, mielőtt visszatér az autóhoz.",
+            "ro": "Savurați o cafea în piață înainte de a vă întoarce la mașină.",
+            "en": "Enjoy a coffee in the square before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Flexibilität, den Tag an der ruhigen Talsperre von Sabugal zu beginnen. Nach einem Naturerlebnis fahren Sie zum Ufer des Côa für einen kurzen Spaziergang. Dann parken Sie Ihr Auto im Herzen der Stadt und tauchen in die Geschichte ein: Sie erkunden die Burg, die Kirche Santa Maria und das Museum zu Fuß. Ein Kaffee am Pranger rundet Ihren Spaziergang durch das historische Zentrum ab, bevor Sie die Rückfahrt antreten.",
+        "hu": "Autóval rugalmasan kezdheti a napot a csendes Sabugali-víztározónál. A természeti élmény után a Côa partjára hajt egy rövid sétára. Ezután a város szívében parkol, és elmerül a történelemben: gyalog fedezi fel a várat, a Santa Maria-templomot és a múzeumot. Egy kávé a pellengérnél zárja a történelmi központban tett sétát, mielőtt visszaindulna.",
+        "ro": "Cu mașina, vă bucurați de flexibilitatea de a începe ziua la liniștitul baraj Sabugal. După o experiență în natură, conduceți pe malul râului Côa pentru o scurtă plimbare. Apoi, parcați mașina în inima orașului și vă cufundați în istorie: explorați pe jos castelul, Biserica Santa Maria și muzeul. O cafea la Stâlpul Infamiei încheie plimbarea prin centrul istoric înainte de a porni la drum.",
+        "en": "By car, you enjoy the flexibility to start the day at the tranquil Sabugal Dam. After a nature experience, you drive to the banks of the Côa for a short walk. Then, park your car in the heart of the town and immerse yourself in history: explore the castle, the Church of Santa Maria, and the museum on foot. A coffee at the Pillory square concludes your stroll through the historic center before you head back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Regionale Käsesorten",
+            "tip": "Halten Sie Ausschau nach 'Queijo da Serra da Estrela'."
+          },
+          {
+            "name": "Restaurante Robalo",
+            "tip": "Etwas außerhalb gelegen, aber die Fahrt für die authentische regionale Küche wert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtok",
+            "tip": "Keresse a 'Queijo da Serra da Estrela'-t."
+          },
+          {
+            "name": "Restaurante Robalo",
+            "tip": "Kicsit kiesik a városból, de megéri az utat az autentikus regionális konyháért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzeturi regionale",
+            "tip": "Căutați 'Queijo da Serra da Estrela'."
+          },
+          {
+            "name": "Restaurante Robalo",
+            "tip": "Situat puțin în afara orașului, dar merită drumul pentru bucătăria regională autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional cheeses",
+            "tip": "Look for 'Queijo da Serra da Estrela'."
+          },
+          {
+            "name": "Restaurante Robalo",
+            "tip": "Located a bit outside of town, but worth the drive for authentic regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknickplatz an der Talsperre",
+            "tip": "Ein perfekter, ruhiger Start in den Tag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche der Barmherzigkeit",
+            "tip": "Ein Moment der Stille abseits der Haupttouristenpfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknikezőhely a víztározónál",
+            "tip": "Tökéletes, csendes kezdete a napnak.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Irgalmasság temploma",
+            "tip": "Egy csendes pillanat a fő turistaútvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de picnic la baraj",
+            "tip": "Un început perfect și liniștit de zi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Mizericordiei",
+            "tip": "Un moment de liniște departe de principalele trasee turistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic spot at the dam",
+            "tip": "A perfect, quiet start to the day.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Mercy",
+            "tip": "A moment of silence away from the main tourist paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkauf von Honig",
+            "tip": "Achten Sie auf lokale Imker, die ihren Honig am Straßenrand verkaufen."
+          },
+          {
+            "name": "Souvenirladen der Burg",
+            "tip": "Finden Sie einzigartige Andenken an die fünfseitige Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézárusítás az út mentén",
+            "tip": "Keresse a helyi méhészeket, akik az út mellett árulják a mézüket."
+          },
+          {
+            "name": "Vár szuvenírboltja",
+            "tip": "Találjon egyedi emléktárgyakat az ötszögletű várról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători de miere pe marginea drumului",
+            "tip": "Fiți atenți la apicultorii locali care își vând mierea pe marginea drumului."
+          },
+          {
+            "name": "Magazinul de suveniruri al castelului",
+            "tip": "Găsiți suveniruri unice ale castelului pentagonal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside honey sellers",
+            "tip": "Look out for local beekeepers selling their honey by the roadside."
+          },
+          {
+            "name": "Castle souvenir shop",
+            "tip": "Find unique souvenirs of the pentagonal castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über Parkmöglichkeiten im Stadtzentrum, bevor Sie losfahren.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Kombinieren Sie Ihren Besuch mit anderen nahegelegenen historischen Dörfern.",
+          "Ein GPS ist hilfreich, um die Talsperre zu finden."
+        ],
+        "hu": [
+          "Indulás előtt tájékozódjon a belvárosi parkolási lehetőségekről.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "Kösse össze a látogatást más közeli történelmi falvakkal.",
+          "GPS hasznos a víztározó megtalálásához."
+        ],
+        "ro": [
+          "Informați-vă despre opțiunile de parcare din centrul orașului înainte de a pleca.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Combinați vizita cu alte sate istorice din apropiere.",
+          "Un GPS este util pentru a găsi barajul."
+        ],
+        "en": [
+          "Check for parking options in the city center before you go.",
+          "The streets can be narrow, drive carefully.",
+          "Combine your visit with other nearby historic villages.",
+          "A GPS is helpful for finding the dam."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof (Cluster A)",
+            "hu": "Központi buszpályaudvar (A klaszter)",
+            "ro": "Autogara Centrală (Cluster A)",
+            "en": "Central Bus Station (Cluster A)"
+          },
+          "coords": [
+            -7.0945,
+            40.352
+          ],
+          "category": "transit_stop",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag. Der erste Spaziergang führt Sie ins Herz der Stadt.",
+            "hu": "Kezdje itt a napot. Az első séta a város szívébe vezet.",
+            "ro": "Începeți-vă ziua aici. Prima plimbare vă duce în inima orașului.",
+            "en": "Start your day here. The first walk takes you into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Sabugal",
+            "hu": "Sabugali pellengér",
+            "ro": "Stâlpul Infamiei din Sabugal",
+            "en": "Pillory of Sabugal"
+          },
+          "coords": [
+            -7.0928,
+            40.3512
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Platz der Stadt, ein idealer Ausgangspunkt.",
+            "hu": "A város központi tere, ideális kiindulópont.",
+            "ro": "Piața centrală a orașului, un punct de plecare ideal.",
+            "en": "The central square of the town, an ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Barmherzigkeit",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Mizericordiei",
+            "en": "Church of Mercy"
+          },
+          "coords": [
+            -7.094,
+            40.3515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für religiöse Architektur in der Nähe des Hauptplatzes.",
+            "hu": "A vallási építészet szép példája a főtér közelében.",
+            "ro": "Un exemplu frumos de arhitectură religioasă lângă piața principală.",
+            "en": "A fine example of religious architecture near the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Burg (Cluster B)",
+            "hu": "Vár megálló (B klaszter)",
+            "ro": "Stația Castel (Cluster B)",
+            "en": "Castle Bus Stop (Cluster B)"
+          },
+          "coords": [
+            -7.09,
+            40.349
+          ],
+          "category": "transit_stop",
+          "arrive_at": "11:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus, um den Hügel zur Burg zu erklimmen.",
+            "hu": "Menjen a helyi busszal a dombra a várhoz.",
+            "ro": "Luați autobuzul local pentru a urca dealul până la castel.",
+            "en": "Take the local bus to climb the hill to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Sabugal",
+            "hu": "Sabugal vára",
+            "ro": "Castelul din Sabugal",
+            "en": "Sabugal Castle"
+          },
+          "coords": [
+            -7.0911,
+            40.3495
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Mauern und die Ausstellung im Inneren zu erkunden.",
+            "hu": "Szánjon időt a falak és a belső kiállítás felfedezésére.",
+            "ro": "Luați-vă timp pentru a explora zidurile și expoziția din interior.",
+            "en": "Take your time to explore the walls and the exhibition inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade des Côa",
+            "hu": "Côa folyóparti sétány",
+            "ro": "Promenada de pe malul râului Côa",
+            "en": "Côa Riverside Promenade"
+          },
+          "coords": [
+            -7.089,
+            40.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:33",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang bergab von der Burg. Ideal für die Mittagspause.",
+            "hu": "Egy pihentető séta lefelé a vártól. Ideális ebédszünetre.",
+            "ro": "O plimbare relaxantă la vale de la castel. Ideal pentru pauza de prânz.",
+            "en": "A relaxing walk downhill from the castle. Ideal for a lunch break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundungstour mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, wo Sie den Pranger und die Kirche der Barmherzigkeit zu Fuß entdecken. Anschließend bringt Sie ein lokaler Bus bequem den Hügel hinauf zum zweiten Cluster: der imposanten Burg. Nach der Besichtigung führt Sie ein gemütlicher Spaziergang bergab zur Uferpromenade des Côa, wo Sie den Rest des Nachmittags entspannt verbringen, bevor Sie zum Busbahnhof zurückkehren.",
+        "hu": "A tömegközlekedéssel való felfedezőút a város szívében kezdődik, ahol gyalogosan fedezi fel a pellengért és az Irgalmasság templomát. Ezután egy helyi busz kényelmesen felviszi a dombra a második klaszterhez: a lenyűgöző várhoz. A látogatás után egy kellemes séta vezet lefelé a Côa folyóparti sétányra, ahol a délután hátralévő részét pihenéssel tölti, mielőtt visszatérne a buszpályaudvarra.",
+        "ro": "Explorarea cu transportul public începe în inima orașului, unde descoperiți pe jos Stâlpul Infamiei și Biserica Mizericordiei. Apoi, un autobuz local vă duce confortabil pe deal până la al doilea cluster: impunătorul castel. După vizită, o plimbare relaxantă la vale vă duce la promenada râului Côa, unde vă petreceți restul după-amiezii relaxându-vă înainte de a vă întoarce la autogară.",
+        "en": "Your exploration by public transport begins in the heart of the city, where you discover the Pillory and the Church of Mercy on foot. Afterwards, a local bus comfortably takes you up the hill to the second cluster: the imposing castle. After the visit, a leisurely walk downhill leads you to the Côa riverside promenade, where you spend the rest of the afternoon relaxing before returning to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tagesmenü ('Prato do Dia')",
+            "tip": "Suchen Sie nach Restaurants, die ein günstiges und authentisches Mittagsmenü anbieten."
+          },
+          {
+            "name": "Bäckerei 'Padaria do Castelo'",
+            "tip": "Probieren Sie das lokale Brot und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napi menü ('Prato do Dia')",
+            "tip": "Keressen éttermeket, amelyek olcsó és autentikus ebédmenüt kínálnak."
+          },
+          {
+            "name": "'Padaria do Castelo' pékség",
+            "tip": "Kóstolja meg a helyi kenyeret és süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniul zilei ('Prato do Dia')",
+            "tip": "Căutați restaurante care oferă un meniu de prânz ieftin și autentic."
+          },
+          {
+            "name": "Brutăria 'Padaria do Castelo'",
+            "tip": "Încercați pâinea și produsele de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menu of the day ('Prato do Dia')",
+            "tip": "Look for restaurants offering a cheap and authentic lunch menu."
+          },
+          {
+            "name": "Bakery 'Padaria do Castelo'",
+            "tip": "Try the local bread and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von den Burgmauern",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern für eine spektakuläre Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtgarten",
+            "tip": "Ein kurzer Spaziergang vom Busbahnhof entfernt, perfekt zum Warten auf den Bus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várfalakról",
+            "tip": "Keressen egy csendes sarkot a falakon a látványos kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városkert",
+            "tip": "Rövid sétára a buszpályaudvartól, tökéletes a buszra való várakozáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un colț liniștit pe ziduri pentru o priveliște spectaculoasă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Publică",
+            "tip": "La o scurtă plimbare de autogară, perfect pentru a aștepta autobuzul.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the castle walls",
+            "tip": "Find a quiet corner on the walls for a spectacular view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Garden",
+            "tip": "A short walk from the bus station, perfect for waiting for the bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Informieren Sie sich über die Markttage, um lokale Produkte zu kaufen."
+          },
+          {
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Unterstützen Sie lokale Künstler und Handwerker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Tájékozódjon a piaci napokról, hogy helyi termékeket vásárolhasson."
+          },
+          {
+            "name": "Kézműves boltok a központban",
+            "tip": "Támogassa a helyi művészeket és kézműveseket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Interesați-vă de zilele de piață pentru a cumpăra produse locale."
+          },
+          {
+            "name": "Magazine de artizanat în centru",
+            "tip": "Sprijiniți artiștii și meșteșugarii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Check for market days to buy local produce."
+          },
+          {
+            "name": "Craft shops in the center",
+            "tip": "Support local artists and artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse möglicherweise nicht häufig fahren.",
+          "Haben Sie Kleingeld für die Bustickets parat.",
+          "Die meisten Strecken innerhalb der Cluster sind kurz und leicht zu Fuß zu bewältigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet, mert a buszok ritkán járhatnak.",
+          "Készítsen elő aprópénzt a buszjegyekhez.",
+          "A klasztereken belüli legtöbb távolság rövid és könnyen gyalogolható."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, deoarece s-ar putea să nu circule frecvent.",
+          "Pregătiți monede pentru biletele de autobuz.",
+          "Majoritatea distanțelor din interiorul clusterelor sunt scurte și ușor de parcurs pe jos."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance as buses may not run frequently.",
+          "Have small change ready for bus tickets.",
+          "Most distances within the clusters are short and easily walkable."
+        ]
+      }
+    }
+  }
+}

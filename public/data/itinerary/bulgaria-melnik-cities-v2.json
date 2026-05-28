@@ -1,0 +1,1336 @@
+{
+  "city_id": "bulgaria-melnik-cities-v2",
+  "anchor": {
+    "name": "Melnik",
+    "coords": [
+      23.4,
+      41.5167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paschowa-Haus",
+            "hu": "Pashova-ház",
+            "ro": "Casa Pașova",
+            "en": "Pashova House"
+          },
+          "coords": [
+            23.3948,
+            41.5235
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige Architektur aus der Zeit der bulgarischen Wiedergeburt.",
+            "hu": "Figyelje meg a bolgár nemzeti megújulás korának egyedi építészetét.",
+            "ro": "Observați arhitectura unică a Renașterii Naționale Bulgare.",
+            "en": "Note the unique architecture from the Bulgarian National Revival period."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            23.3939,
+            41.5241
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Weinprobe teil, um den berühmten Melnik-Wein zu probieren.",
+            "hu": "Vegyen részt egy borkóstolón, hogy megízlelje a híres Melnik bort.",
+            "ro": "Participați la o degustare pentru a savura faimosul vin de Melnik.",
+            "en": "Take part in a tasting session to sample the famous Melnik wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Kordopulow-Haus",
+            "hu": "Kordopulov-ház",
+            "ro": "Casa Kordopulov",
+            "en": "Kordopulov House"
+          },
+          "coords": [
+            23.3917,
+            41.5255
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den riesigen Weinkeller, der in den Sandstein gehauen wurde.",
+            "hu": "Fedezze fel a homokkőbe vájt hatalmas borospincét.",
+            "ro": "Explorați crama uriașă sculptată în gresie.",
+            "en": "Explore the huge wine cellar carved into the sandstone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Antonius",
+            "hu": "Szent Antal-templom",
+            "ro": "Biserica Sfântul Anton",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            23.3956,
+            41.5229
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort des Friedens, bekannt für seine wundersamen Ikonen.",
+            "hu": "A béke helye, csodatévő ikonjairól ismert.",
+            "ro": "Un loc de liniște, renumit pentru icoanele sale făcătoare de minuni.",
+            "en": "A place of peace, known for its miraculous icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Nikolaus",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Saint Nicholas"
+          },
+          "coords": [
+            23.3981,
+            41.5221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltenen Fresken aus dem 13. Jahrhundert.",
+            "hu": "Csodálja meg a 13. századból fennmaradt freskókat.",
+            "ro": "Admirați frescele bine conservate din secolul al XIII-lea.",
+            "en": "Admire the well-preserved 13th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung des Despoten Slaw",
+            "hu": "Szlav despota erődje",
+            "ro": "Cetatea Despotului Slav",
+            "en": "Fortress of Despot Slav"
+          },
+          "coords": [
+            23.4015,
+            41.5205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht auf die Stadt und die Pyramiden ist es wert.",
+            "hu": "Meredek a kaptató, de a városra és a piramisokra nyíló kilátás megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea asupra orașului și a piramidelor merită efortul.",
+            "en": "The climb is steep, but the view of the town and the pyramids is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf die Melniker Sandsteinpyramiden",
+            "hu": "Kilátás a Melniki Homokkő Piramisokra",
+            "ro": "Vedere spre Piramidele de Nisip din Melnik",
+            "en": "View of the Melnik Sandstone Pyramids"
+          },
+          "coords": [
+            23.412,
+            41.519
+          ],
+          "category": "natural features",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der beste Fotospot ist bei Sonnenuntergang, wenn die Felsen golden leuchten.",
+            "hu": "A legjobb fotókat naplementekor készítheti, amikor a sziklák arany színben ragyognak.",
+            "ro": "Cel mai bun loc pentru fotografii este la apus, când stâncile capătă o nuanță aurie.",
+            "en": "The best photo spot is at sunset when the rocks glow golden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Melnik beginnt mit einer Reise in die Vergangenheit in den historischen Kaufmannshäusern. Am Vormittag tauchen Sie in die Weinkultur der Region ein. Der Nachmittag führt Sie zu spirituellen Orten und endet mit einem unvergesslichen Aufstieg zur Festung, die einen Panoramablick bietet. Der Abend klingt mit dem magischen Anblick der Sandpyramiden aus, ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Melniki napja egy utazással kezdődik a múltba, a történelmi kereskedőházakban. A délelőtt folyamán elmerül a régió borkultúrájában. A délután spirituális helyekre vezeti, és egy felejthetetlen mászással zárul az erődhöz, ahonnan panorámás kilátás nyílik. Az estét a homokpiramisok varázslatos látványa zárja, tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Ziua dvs. în Melnik începe cu o călătorie în trecut la casele istorice ale negustorilor. Dimineața vă scufundați în cultura vinului din regiune. După-amiaza vă duce la locuri spirituale și se încheie cu o urcare de neuitat la cetate pentru vederi panoramice. Seara se încheie cu priveliștea magică a piramidelor de nisip, un final perfect pentru o zi de explorare.",
+        "en": "Your day in Melnik begins with a journey into the past at the historic merchant houses. In the morning, you'll dive into the region's wine culture. The afternoon takes you to spiritual sites and concludes with an unforgettable climb to the fortress for panoramic views. The evening ends with the magical sight of the sand pyramids, a perfect finale to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Melniker Wein (Shiroka Melnishka Loza)",
+            "tip": "Probieren Sie diesen kräftigen Rotwein in einem der vielen Weinkeller (Izba)."
+          },
+          {
+            "name": "Shopska-Salat",
+            "tip": "Ein erfrischender Salat, perfekt für einen warmen Tag."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "Ein traditioneller Tontopf-Eintopf, langsam gegaart für maximalen Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Melniki bor (Shiroka Melnishka Loza)",
+            "tip": "Kóstolja meg ezt a testes vörösbort a számos borospince (Izba) egyikében."
+          },
+          {
+            "name": "Sopszka saláta",
+            "tip": "Frissítő saláta, tökéletes egy meleg napra."
+          },
+          {
+            "name": "Gyuvecs",
+            "tip": "Hagyományos agyagedényben készült egytálétel, lassan főzve a maximális ízért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Melnik (Shiroka Melnishka Loza)",
+            "tip": "Încercați acest vin roșu robust la una dintre numeroasele crame (Izba)."
+          },
+          {
+            "name": "Salată Shopska",
+            "tip": "O salată răcoritoare, perfectă pentru o zi călduroasă."
+          },
+          {
+            "name": "Ghiveci",
+            "tip": "O tocană tradițională la vas de lut, gătită lent pentru o aromă maximă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Melnik Wine (Shiroka Melnishka Loza)",
+            "tip": "Try this robust red wine at one of the many cellars (Izba)."
+          },
+          {
+            "name": "Shopska Salad",
+            "tip": "A refreshing salad, perfect for a warm day."
+          },
+          {
+            "name": "Gyuveche",
+            "tip": "A traditional clay pot stew, slow-cooked for maximum flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruinen des Klosters Spileotissa",
+            "tip": "Ein ruhiger Ort für Kontemplation am Rande der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von der Festung Despot Slaw",
+            "tip": "Abseits der Massen den Sonnenuntergang über den Pyramiden genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ein Spaziergang entlang des Melnik-Flusses",
+            "tip": "Finden Sie eine ruhige Bank und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spileotissa kolostor romjai",
+            "tip": "Csendes hely az elmélkedésre a város szélén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Szlav despota erődjéből",
+            "tip": "Élvezze a naplementét a piramisok felett, távol a tömegtől.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Melnik folyó mentén",
+            "tip": "Keressen egy csendes padot, és hallgassa a víz csobogását.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Mănăstirii Spileotissa",
+            "tip": "Un loc liniștit pentru contemplare la marginea orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la Cetatea Despotului Slav",
+            "tip": "Priviți apusul peste piramide departe de mulțime.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Melnik",
+            "tip": "Găsiți o bancă liniștită și ascultați susurul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ruins of the Spileotissa Monastery",
+            "tip": "A quiet spot for contemplation on the edge of town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Despot Slav's Fortress",
+            "tip": "Enjoy the sunset over the pyramids away from the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A walk along the Melnik River",
+            "tip": "Find a quiet bench and listen to the babbling water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein direkt vom Erzeuger",
+            "tip": "Kaufen Sie eine Flasche authentischen Melnik-Wein aus einem Familienkeller."
+          },
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Lokale Handwerker verkaufen einzigartige Töpferwaren mit traditionellen Motiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor közvetlenül a termelőtől",
+            "tip": "Vásároljon egy üveg autentikus melniki bort egy családi pincéből."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Helyi kézművesek egyedi, hagyományos motívumokkal díszített kerámiákat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin direct de la producător",
+            "tip": "Cumpărați o sticlă de vin autentic de Melnik de la o cramă de familie."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Meșterii locali vând olărit unic cu motive tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine direct from the producer",
+            "tip": "Buy a bottle of authentic Melnik wine from a family-run cellar."
+          },
+          {
+            "name": "Handmade ceramics",
+            "tip": "Local artisans sell unique pottery with traditional motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme und feste Schuhe. Die Kopfsteinpflasterstraßen können uneben sein.",
+          "Nehmen Sie Bargeld mit, da nicht alle kleinen Geschäfte und Weinkeller Karten akzeptieren.",
+          "Planen Sie genügend Zeit für die Anstiege zur Festung und den Aussichtspunkten ein.",
+          "Ein Hut und Wasser sind an sonnigen Tagen unerlässlich, da es wenig Schatten gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes, erős cipőt. A macskaköves utcák egyenetlenek lehetnek.",
+          "Vigyen magával készpénzt, mivel nem minden kis üzlet és borospince fogad el kártyát.",
+          "Szánjon elegendő időt az erődhöz és a kilátópontokhoz vezető emelkedőkre.",
+          "A kalap és a víz elengedhetetlen a napsütéses napokon, mivel kevés az árnyék."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă și rezistentă. Străzile pietruite pot fi denivelate.",
+          "Luați numerar, deoarece nu toate magazinele mici și cramele acceptă carduri.",
+          "Planificați suficient timp pentru urcușurile spre cetate și punctele de belvedere.",
+          "O pălărie și apă sunt esențiale în zilele însorite, deoarece există puțină umbră."
+        ],
+        "en": [
+          "Wear comfortable and sturdy shoes. The cobblestone streets can be uneven.",
+          "Bring cash, as not all small shops and wine cellars accept cards.",
+          "Allow plenty of time for the climbs to the fortress and viewpoints.",
+          "A hat and water are essential on sunny days as there is little shade."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Start am Stadteingang",
+            "hu": "Indulás a város bejáratától",
+            "ro": "Start la intrarea în oraș",
+            "en": "Start at the town entrance"
+          },
+          "coords": [
+            23.393,
+            41.522
+          ],
+          "category": "starting point",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Mountainbike, um die unbefestigten Wege zu bewältigen.",
+            "hu": "Béreljen mountain bike-ot, hogy megbirkózzon a földutakkal.",
+            "ro": "Închiriați un mountain bike pentru a face față drumurilor neasfaltate.",
+            "en": "Rent a mountain bike to handle the dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinmuseum & Kordopulow-Haus",
+            "hu": "Bormúzeum és Kordopulov-ház",
+            "ro": "Muzeul Vinului și Casa Kordopulov",
+            "en": "Wine Museum & Kordopulov House"
+          },
+          "coords": [
+            23.392,
+            41.525
+          ],
+          "category": "museums",
+          "arrive_at": "09:28",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beiden Highlights zu Fuß.",
+            "hu": "Parkolja le a kerékpárt, és fedezze fel ezt a két látnivalót gyalog.",
+            "ro": "Parcați bicicleta și explorați aceste două atracții pe jos.",
+            "en": "Park your bike and explore these two highlights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Klosters Spileotissa",
+            "hu": "Spileotissa kolostor romjai",
+            "ro": "Ruinele Mănăstirii Spileotissa",
+            "en": "Ruins of the Spileotissa Monastery"
+          },
+          "coords": [
+            23.39,
+            41.528
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Anstieg, der mit Ruhe und Aussicht belohnt wird.",
+            "hu": "Rövid, de meredek emelkedő, melyet csend és kilátás jutalmaz.",
+            "ro": "O urcare scurtă, dar abruptă, recompensată cu liniște și priveliști.",
+            "en": "A short but steep climb, rewarded with tranquility and views."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung des Despoten Slaw",
+            "hu": "Szlav despota erődje",
+            "ro": "Cetatea Despotului Slav",
+            "en": "Fortress of Despot Slav"
+          },
+          "coords": [
+            23.4015,
+            41.5205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Fuße des Hügels und gehen Sie das letzte Stück.",
+            "hu": "Hagyja a kerékpárt a hegy lábánál, és tegye meg az utolsó szakaszt gyalog.",
+            "ro": "Lăsați bicicleta la poalele dealului și urcați ultima porțiune pe jos.",
+            "en": "Leave your bike at the bottom of the hill and walk the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Melniker Sandsteinpyramiden (Aussichtspunkt)",
+            "hu": "Melniki Homokkő Piramisok (kilátópont)",
+            "ro": "Piramidele de Nisip din Melnik (punct de belvedere)",
+            "en": "Melnik Sandstone Pyramids (Viewpoint)"
+          },
+          "coords": [
+            23.415,
+            41.515
+          ],
+          "category": "natural features",
+          "arrive_at": "13:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den markierten Wegen für die beste Route durch dieses Naturwunder.",
+            "hu": "Kövesse a jelzett ösvényeket a legjobb útvonalért ezen a természeti csodán keresztül.",
+            "ro": "Urmați potecile marcate pentru cel mai bun traseu prin această minune naturală.",
+            "en": "Follow the marked trails for the best route through this natural wonder."
+          }
+        },
+        {
+          "name": {
+            "de": "Entspannung in einer Taverne",
+            "hu": "Pihenés egy tavernában",
+            "ro": "Relaxare la o tavernă",
+            "en": "Relaxation at a Tavern"
+          },
+          "coords": [
+            23.394,
+            41.523
+          ],
+          "category": "gastro",
+          "arrive_at": "15:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich nach der Radtour ein herzhaftes bulgarisches Essen.",
+            "hu": "A kerékpártúra után kényeztesse magát egy kiadós bolgár étellel.",
+            "ro": "După turul cu bicicleta, răsfățați-vă cu o masă bulgărească copioasă.",
+            "en": "Treat yourself to a hearty Bulgarian meal after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und entdecken Sie Melniks Schätze. Der Morgen beginnt im historischen Herzen der Stadt, bevor Sie zu spirituellen Ruinen aufsteigen. Der Mittag ist für die Eroberung der Festung reserviert, ein anspruchsvoller, aber lohnender Teil Ihrer Tour. Am Nachmittag radeln Sie zu den beeindruckenden Sandsteinpyramiden und lassen den Tag entspannt in einer lokalen Taverne ausklingen.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel Melnik kincseit. A reggel a város történelmi szívében kezdődik, mielőtt felkapaszkodna a spirituális romokhoz. A dél az erőd meghódítására van fenntartva, ami a túra kihívást jelentő, de hálás része. Délután a lenyűgöző homokkőpiramisokhoz biciklizik, és a napot egy helyi tavernában pihenve zárja.",
+        "ro": "Urcați-vă pe bicicletă și descoperiți comorile din Melnik. Dimineața începe în inima istorică a orașului înainte de a urca la ruinele spirituale. Amiaza este rezervată pentru cucerirea cetății, o parte provocatoare, dar plină de satisfacții a turului. După-amiaza pedalați spre impresionantele piramide de nisip și încheiați ziua relaxându-vă la o tavernă locală.",
+        "en": "Get on your bike and discover Melnik's treasures. The morning starts in the historic heart of the town before you ascend to spiritual ruins. Midday is reserved for conquering the fortress, a challenging but rewarding part of your tour. In the afternoon, you'll cycle to the impressive sandstone pyramids and end the day relaxing in a local tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrilltes Fleisch (Skara)",
+            "tip": "Perfekt zur Stärkung nach einer langen Radtour."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Eine kalte Gurken-Joghurt-Suppe, unglaublich erfrischend."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Eine Alternative zum Wein, viele Tavernen bieten lokale Biere an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hús (Skara)",
+            "tip": "Tökéletes feltöltődés egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "Tarator",
+            "tip": "Hideg uborka-joghurt leves, hihetetlenül frissítő."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Alternatíva a borra, sok taverna kínál helyi söröket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne la grătar (Skara)",
+            "tip": "Perfect pentru a vă reface forțele după un tur lung cu bicicleta."
+          },
+          {
+            "name": "Tarator",
+            "tip": "O supă rece de castraveți și iaurt, incredibil de răcoritoare."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "O alternativă la vin, multe taverne oferă beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Meat (Skara)",
+            "tip": "Perfect for refueling after a long bike ride."
+          },
+          {
+            "name": "Tarator",
+            "tip": "A cold cucumber and yogurt soup, incredibly refreshing."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "An alternative to wine, many taverns offer local brews."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknick bei den Pyramiden",
+            "tip": "Packen Sie Proviant ein und genießen Sie die Stille der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Ufer des Melnik-Flusses",
+            "tip": "Ein schattiges Plätzchen für eine kurze Pause vom Radfahren.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a piramisoknál",
+            "tip": "Csomagoljon elemózsiát és élvezze a természet csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Melnik folyó partján",
+            "tip": "Árnyékos hely egy rövid pihenőre a biciklizés közben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la piramide",
+            "tip": "Împachetați provizii și bucurați-vă de liniștea naturii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pe malul râului Melnik",
+            "tip": "Un loc umbrit pentru o scurtă pauză de la ciclism.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at the Pyramids",
+            "tip": "Pack some supplies and enjoy the silence of nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "By the banks of the Melnik River",
+            "tip": "A shady spot for a short break from cycling.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Die Wiesen um Melnik produzieren einen köstlichen Wildblumenhonig."
+          },
+          {
+            "name": "Kräutertee",
+            "tip": "Sammeln Sie eine Mischung aus lokalen Bergkräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Melnik körüli rétek ízletes vadvirágmézet adnak."
+          },
+          {
+            "name": "Gyógytea",
+            "tip": "Gyűjtsön egy keveréket a helyi hegyi gyógynövényekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Pajiștile din jurul Melnikului produc o miere delicioasă de flori sălbatice."
+          },
+          {
+            "name": "Ceai de plante",
+            "tip": "Culegeți un amestec de ierburi montane locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The meadows around Melnik produce delicious wildflower honey."
+          },
+          {
+            "name": "Herbal Tea",
+            "tip": "Pick up a blend of local mountain herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Wege können sandig oder steinig sein; seien Sie vorsichtig.",
+          "Nehmen Sie ein Fahrradschloss mit, um Ihr Rad sicher abzustellen, während Sie Sehenswürdigkeiten erkunden.",
+          "Eine kleine Fahrradtasche für Wasser, Snacks und eine Karte ist sehr zu empfehlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
+          "Néhány ösvény homokos vagy köves lehet; legyen óvatos.",
+          "Vigyen magával kerékpárzárat, hogy biztonságosan lezárhassa a biciklit a látnivalók megtekintése közben.",
+          "Egy kis kerékpártáska víznek, rágcsálnivalónak és térképnek erősen ajánlott."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele poteci pot fi nisipoase sau pietroase; fiți precauți.",
+          "Luați un lacăt de bicicletă pentru a vă asigura bicicleta în timp ce explorați obiectivele turistice.",
+          "O geantă mică de bicicletă pentru apă, gustări și o hartă este foarte recomandată."
+        ],
+        "en": [
+          "Check your bike before setting off, especially the brakes and tires.",
+          "Some paths can be sandy or rocky; be careful.",
+          "Bring a bike lock to secure your bike while exploring sights.",
+          "A small bike bag for water, snacks, and a map is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Kloster Rozhen (in der Nähe)",
+            "hu": "Parkolás a Rozhen kolostornál (a közelben)",
+            "ro": "Parcare la Mănăstirea Rozhen (în apropiere)",
+            "en": "Parking at Rozhen Monastery (nearby)"
+          },
+          "coords": [
+            23.43,
+            41.52
+          ],
+          "category": "starting point",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag außerhalb von Melnik, um den Menschenmassen zu entgehen.",
+            "hu": "Kezdje a napot Melniken kívül, hogy elkerülje a tömeget.",
+            "ro": "Începeți ziua în afara Melnikului pentru a evita aglomerația.",
+            "en": "Start your day outside Melnik to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zu den Melniker Sandsteinpyramiden",
+            "hu": "Utazás a Melniki Homokkő Piramisokhoz",
+            "ro": "Drum spre Piramidele de Nisip din Melnik",
+            "en": "Drive to the Melnik Sandstone Pyramids"
+          },
+          "coords": [
+            23.415,
+            41.515
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptaussichtspunkt für spektakuläre Fotos.",
+            "hu": "Vezessen a fő kilátóponthoz a látványos fotókért.",
+            "ro": "Conduceți la punctul principal de belvedere pentru fotografii spectaculoase.",
+            "en": "Drive to the main viewpoint for spectacular photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken in Melnik & Spaziergang zur Festung",
+            "hu": "Parkolás Melnikben és séta az erődhöz",
+            "ro": "Parcare în Melnik și plimbare la cetate",
+            "en": "Park in Melnik & Walk to the Fortress"
+          },
+          "coords": [
+            23.4015,
+            41.5205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Dies ist Ihr erster 'Cluster'. Parken Sie das Auto und erkunden Sie zu Fuß.",
+            "hu": "Ez az első 'klaszter'. Parkolja le az autót és fedezze fel gyalog.",
+            "ro": "Acesta este primul dvs. 'cluster'. Parcați mașina și explorați pe jos.",
+            "en": "This is your first 'cluster'. Park the car and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Mittagessen im Stadtzentrum",
+            "hu": "Séta ebédre a városközpontba",
+            "ro": "Plimbare pentru prânz în centrul orașului",
+            "en": "Walk to Lunch in the Town Center"
+          },
+          "coords": [
+            23.395,
+            41.523
+          ],
+          "category": "gastro",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wählen Sie eine 'Mehana' (Taverne) für ein authentisches Erlebnis.",
+            "hu": "Válasszon egy 'Mehana'-t (taverna) az autentikus élményért.",
+            "ro": "Alegeți o 'Mehana' (tavernă) pentru o experiență autentică.",
+            "en": "Choose a 'Mehana' (tavern) for an authentic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Kordopulow-Haus",
+            "hu": "Séta a Kordopulov-házhoz",
+            "ro": "Plimbare la Casa Kordopulov",
+            "en": "Walk to Kordopulov House"
+          },
+          "coords": [
+            23.3917,
+            41.5255
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der größte Weinkeller auf dem Balkan wartet auf Sie.",
+            "hu": "A Balkán legnagyobb borospincéje várja Önt.",
+            "ro": "Cea mai mare cramă din Balcani vă așteaptă.",
+            "en": "The largest wine cellar in the Balkans awaits you."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Weinmuseum für eine letzte Verkostung",
+            "hu": "Séta a Bormúzeumba egy utolsó kóstolóra",
+            "ro": "Plimbare la Muzeul Vinului pentru o degustare finală",
+            "en": "Walk to the Wine Museum for a final tasting"
+          },
+          "coords": [
+            23.3939,
+            41.5241
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie hier Ihre Lieblingsweine als Souvenir.",
+            "hu": "Vásárolja meg itt kedvenc borait szuvenírként.",
+            "ro": "Cumpărați de aici vinurile preferate ca suvenir.",
+            "en": "Buy your favorite wines here as a souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, die Umgebung von Melnik zu erkunden. Der Tag beginnt mit einem kulturellen Höhepunkt außerhalb der Stadt, gefolgt von einer Fahrt zu den atemberaubenden Sandsteinpyramiden. Am Mittag parken Sie Ihr Auto und tauchen in das Herz von Melnik ein. Der Nachmittag ist einem Spaziergang durch die Geschichte gewidmet, von der Festung bis zu den berühmten Handelshäusern, abgerundet durch eine wohlverdiente Weinprobe.",
+        "hu": "Autóval szabadon felfedezheti Melnik környékét. A nap egy városon kívüli kulturális csúcsponttal kezdődik, majd egy utazással a lélegzetelállító homokkőpiramisokhoz. Délben leparkolja az autót, és elmerül Melnik szívében. A délután a történelemben tett sétának van szentelve, az erődtől a híres kereskedőházakig, melyet egy jól megérdemelt borkóstoló zár.",
+        "ro": "Cu mașina aveți libertatea de a explora împrejurimile Melnikului. Ziua începe cu un punct culminant cultural în afara orașului, urmat de o călătorie cu mașina spre uimitoarele piramide de nisip. La prânz, parcați mașina și pătrundeți în inima Melnikului. După-amiaza este dedicată unei plimbări prin istorie, de la cetate la faimoasele case ale negustorilor, încheiată cu o degustare de vin binemeritată.",
+        "en": "With a car, you have the freedom to explore Melnik's surroundings. The day starts with a cultural highlight outside the town, followed by a drive to the stunning sandstone pyramids. At noon, you'll park your car and dive into the heart of Melnik. The afternoon is dedicated to a walk through history, from the fortress to the famous merchant houses, topped off with a well-deserved wine tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavarma",
+            "tip": "Ein langsam gegartes Gericht aus Schweine- oder Hühnerfleisch und Gemüse."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, ideal für einen schnellen Snack."
+          },
+          {
+            "name": "Rakia",
+            "tip": "Ein starker Obstbrand, der oft als Aperitif getrunken wird. Genießen Sie ihn verantwortungsbewusst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavarma",
+            "tip": "Lassan főtt sertés- vagy csirkehúsból és zöldségekből készült étel."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós sajttal töltött leveles tészta, ideális egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Erős gyümölcspárlat, amelyet gyakran aperitifként isznak. Fogyassza felelősséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavarma",
+            "tip": "Un fel de mâncare gătit lent, din carne de porc sau pui și legume."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă cu brânză sărată, ideală pentru o gustare rapidă."
+          },
+          {
+            "name": "Rachiu",
+            "tip": "O băutură spirtoasă puternică din fructe, adesea servită ca aperitiv. Savurați-o cu responsabilitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavarma",
+            "tip": "A slow-cooked dish of pork or chicken and vegetables."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A filo pastry with brine cheese, great for a quick snack."
+          },
+          {
+            "name": "Rakia",
+            "tip": "A strong fruit brandy, often drunk as an aperitif. Enjoy responsibly."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rozhen-Kloster",
+            "tip": "Ein Ort der spirituellen Ruhe und beeindruckenden Kunst.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panoramastraße nach Rozhen",
+            "tip": "Halten Sie an den Aussichtspunkten für atemberaubende Blicke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rozhen kolostor",
+            "tip": "A spirituális béke és a lenyűgöző művészet helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Panorámaút Rozhen felé",
+            "tip": "Álljon meg a kilátópontoknál a lélegzetelállító látványért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Rozhen",
+            "tip": "Un loc de pace spirituală și artă impresionantă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul panoramic spre Rozhen",
+            "tip": "Opriți la punctele de belvedere pentru priveliști uluitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rozhen Monastery",
+            "tip": "A place of spiritual peace and impressive art.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Scenic drive to Rozhen",
+            "tip": "Stop at the viewpoints for breathtaking views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eingemachtes",
+            "tip": "Lokale Marmeladen (Sladko) und Chutneys (Lyutenitsa) sind köstliche Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Befőttek",
+            "tip": "A helyi lekvárok (Sladko) és csatnik (Ljutenica) ízletes ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conserve",
+            "tip": "Dulcețurile locale (Sladko) și zacusca (Liutenița) sunt suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Preserves",
+            "tip": "Local jams (Sladko) and chutneys (Lyutenitsa) make delicious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus; das Zentrum von Melnik ist sehr eng.",
+          "Einige Straßen zu den Sehenswürdigkeiten können schmal und unbefestigt sein; fahren Sie vorsichtig.",
+          "Planen Sie einen Fahrer für den Tag ein, wenn Sie an Weinproben teilnehmen möchten.",
+          "Ein GPS oder eine mobile Karte ist unerlässlich, um sich in der Umgebung zurechtzufinden."
+        ],
+        "hu": [
+          "Előre tájékozódjon a parkolási lehetőségekről; Melnik központja nagyon szűk.",
+          "Néhány út a látnivalókhoz keskeny és burkolatlan lehet; vezessen óvatosan.",
+          "Tervezzen sofőrt a napra, ha részt kíván venni borkóstolókon.",
+          "GPS vagy mobil térkép elengedhetetlen a környéken való tájékozódáshoz."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans; centrul Melnikului este foarte îngust.",
+          "Unele drumuri către atracții pot fi înguste și neasfaltate; conduceți cu prudență.",
+          "Stabiliți un șofer desemnat pentru ziua respectivă dacă intenționați să participați la degustări de vin.",
+          "Un GPS sau o hartă mobilă este esențială pentru a naviga în zonă."
+        ],
+        "en": [
+          "Check parking options in advance; the center of Melnik is very narrow.",
+          "Some roads to the sights can be narrow and unpaved; drive carefully.",
+          "Designate a driver for the day if you plan to participate in wine tastings.",
+          "A GPS or mobile map is essential for navigating the surrounding area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt zum Parkplatz nahe der Festung",
+            "hu": "Utazás az erőd közelében lévő parkolóhoz",
+            "ro": "Călătorie cu transportul public la parcarea de lângă cetate",
+            "en": "Transit ride to the parking lot near the Fortress"
+          },
+          "coords": [
+            23.401,
+            41.52
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein lokales Taxi, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Fogjon egy helyi taxit, hogy elkerülje a meredek emelkedőt.",
+            "ro": "Luați un taxi local pentru a evita urcușul abrupt.",
+            "en": "Take a local taxi to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Kirche des Heiligen Nikolaus",
+            "hu": "Séta a Szent Miklós-templomhoz",
+            "ro": "Plimbare la Biserica Sfântul Nicolae",
+            "en": "Walk to the Church of Saint Nicholas"
+          },
+          "coords": [
+            23.3981,
+            41.5221
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Festung.",
+            "hu": "Rövid séta lefelé az erődtől.",
+            "ro": "O scurtă plimbare la vale de la cetate.",
+            "en": "A short downhill walk from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Zentrum: Mittagessen & Paschowa-Haus",
+            "hu": "Séta a központba: Ebéd és a Pashova-ház",
+            "ro": "Plimbare în centru: Prânz și Casa Pașova",
+            "en": "Walk to the center: Lunch & Pashova House"
+          },
+          "coords": [
+            23.3948,
+            41.5235
+          ],
+          "category": "gastro",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kombinieren Sie ein köstliches Mittagessen mit der Besichtigung eines historischen Hauses.",
+            "hu": "Kombinálja a finom ebédet egy történelmi ház megtekintésével.",
+            "ro": "Combinați un prânz delicios cu o vizită la o casă istorică.",
+            "en": "Combine a delicious lunch with a visit to a historic house."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Kordopulow-Haus",
+            "hu": "Utazás a Kordopulov-házhoz",
+            "ro": "Călătorie cu transportul public la Casa Kordopulov",
+            "en": "Transit ride to Kordopulov House"
+          },
+          "coords": [
+            23.3917,
+            41.5255
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie ein Shuttle, um zum am weitesten entfernten Haus zu gelangen.",
+            "hu": "Használjon shuttle-buszt, hogy eljusson a legtávolabbi házhoz.",
+            "ro": "Folosiți un microbuz pentru a ajunge la cea mai îndepărtată casă.",
+            "en": "Use a shuttle to get to the furthest house."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Weinmuseum",
+            "hu": "Séta a Bormúzeumba",
+            "ro": "Plimbare la Muzeul Vinului",
+            "en": "Walk to the Wine Museum"
+          },
+          "coords": [
+            23.3939,
+            41.5241
+          ],
+          "category": "museums",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer ausgiebigen Weinprobe.",
+            "hu": "Zárja a napot egy bőséges borkóstolóval.",
+            "ro": "Încheiați-vă ziua cu o degustare de vinuri pe îndelete.",
+            "en": "End your day with a leisurely wine tasting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Mischung aus kurzen Taxifahrten und Spaziergängen erleben Sie Melnik ganz entspannt. Starten Sie am höchsten Punkt, der Festung, und arbeiten Sie sich langsam ins Tal vor. Der Morgen ist der Geschichte und Religion gewidmet. Der Mittag gehört dem leiblichen Wohl und der Architektur, bevor Sie am Nachmittag tief in die Weinkultur eintauchen und den Tag mit einem Glas lokalen Weins ausklingen lassen.",
+        "hu": "Rövid taxizások és séták keverékével teljesen nyugodtan élheti át Melniket. Induljon a legmagasabb pontról, az erődből, és lassan haladjon lefelé a völgybe. A reggel a történelemnek és a vallásnak van szentelve. A dél az étkezésről és az építészetről szól, mielőtt délután mélyen elmerülne a borkultúrában, és egy pohár helyi borral zárná a napot.",
+        "ro": "Cu o combinație de călătorii scurte cu taxiul și plimbări, veți experimenta Melnik într-un mod relaxat. Începeți de la cel mai înalt punct, cetatea, și coborâți încet spre vale. Dimineața este dedicată istoriei și religiei. Prânzul este pentru deliciile culinare și arhitectură, înainte de a vă cufunda în cultura vinului după-amiaza și de a încheia ziua cu un pahar de vin local.",
+        "en": "With a mix of short taxi rides and walks, you'll experience Melnik in a relaxed way. Start at the highest point, the fortress, and slowly work your way down into the valley. The morning is dedicated to history and religion. Lunch is for culinary delights and architecture, before you dive deep into the wine culture in the afternoon, ending the day with a glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chushki byurek",
+            "tip": "Gefüllte und panierte Paprika, oft mit Käse und Eiern."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "Ein herzhafter Kartoffelauflauf aus den nahegelegenen Rhodopen."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Frittierter Teig, oft mit Puderzucker oder Marmelade serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csuska Bjurek",
+            "tip": "Töltött és rántott paprika, gyakran sajttal és tojással."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "Kiadós burgonyarakott a közeli Rodope-hegységből."
+          },
+          {
+            "name": "Mekica",
+            "tip": "Sült tészta, gyakran porcukorral vagy lekvárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chushki byurek",
+            "tip": "Ardei umpluți și prăjiți, adesea cu brânză și ouă."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "O tocăniță consistentă de cartofi din Munții Rodopi din apropiere."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Aluat prăjit, adesea servit cu zahăr pudră sau gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chushki byurek",
+            "tip": "Stuffed and breaded peppers, often with cheese and eggs."
+          },
+          {
+            "name": "Patatnik",
+            "tip": "A hearty potato bake from the nearby Rhodope Mountains."
+          },
+          {
+            "name": "Mekitsi",
+            "tip": "Fried dough, often served with powdered sugar or jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein Glas Wein im Kordopulow-Haus",
+            "tip": "Der historische Keller bietet eine kühle, ruhige Zuflucht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof von St. Nikolaus",
+            "tip": "Ein friedlicher Ort mit Blick auf die Dächer der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pohár bor a Kordopulov-házban",
+            "tip": "A történelmi pince hűvös, csendes menedéket nyújt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Szent Miklós-templom kertje",
+            "tip": "Békés hely, kilátással a város háztetőire.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un pahar de vin la Casa Kordopulov",
+            "tip": "Crama istorică oferă un refugiu răcoros și liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea Bisericii Sfântul Nicolae",
+            "tip": "Un loc pașnic cu vedere la acoperișurile orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A glass of wine at Kordopulov House",
+            "tip": "The historic cellar offers a cool, quiet refuge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Churchyard of St. Nicholas",
+            "tip": "A peaceful spot overlooking the town's rooftops.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Melnik Wein",
+            "tip": "Kaufen Sie eine Kiste, um sie mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Kleine, handgefertigte Souvenirs sind in einigen Geschäften erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Melniki bor",
+            "tip": "Vásároljon egy dobozzal, hogy hazavigye."
+          },
+          {
+            "name": "Fafaragások",
+            "tip": "Kis, kézzel készített ajándéktárgyak kaphatók néhány üzletben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Melnik",
+            "tip": "Cumpărați o cutie pentru a o lua acasă."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Mici suveniruri lucrate manual sunt disponibile în unele magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Melnik Wine",
+            "tip": "Buy a case to take home with you."
+          },
+          {
+            "name": "Wood carvings",
+            "tip": "Small, handmade souvenirs are available in some shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Klären Sie den Fahrpreis mit dem Taxifahrer, bevor Sie die Fahrt antreten.",
+          "Die Verfügbarkeit von Taxis kann begrenzt sein; planen Sie im Voraus oder bitten Sie ein Restaurant, eines zu rufen.",
+          "Auch bei Nutzung von Verkehrsmitteln sind bequeme Schuhe ein Muss.",
+          "Fragen Sie Einheimische nach den besten Routen oder Abkürzungen für Fußgänger."
+        ],
+        "hu": [
+          "Indulás előtt tisztázza a viteldíjat a taxisofőrrel.",
+          "A taxik elérhetősége korlátozott lehet; tervezzen előre, vagy kérjen meg egy éttermet, hogy hívjon egyet.",
+          "Még ha tömegközlekedést is használ, a kényelmes cipő elengedhetetlen.",
+          "Kérdezze meg a helyieket a legjobb gyalogos útvonalakról vagy rövidítésekről."
+        ],
+        "ro": [
+          "Clarificați tariful cu șoferul de taxi înainte de a începe călătoria.",
+          "Disponibilitatea taxiurilor poate fi limitată; planificați din timp sau rugați un restaurant să cheme unul.",
+          "Chiar și cu utilizarea transportului, încălțămintea confortabilă este o necesitate.",
+          "Întrebați localnicii despre cele mai bune rute sau scurtături pentru pietoni."
+        ],
+        "en": [
+          "Clarify the fare with the taxi driver before starting the ride.",
+          "Taxi availability may be limited; plan ahead or ask a restaurant to call one.",
+          "Even with transit use, comfortable shoes are a must.",
+          "Ask locals for the best pedestrian routes or shortcuts."
+        ]
+      }
+    }
+  }
+}

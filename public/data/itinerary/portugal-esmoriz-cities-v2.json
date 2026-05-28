@@ -1,0 +1,1252 @@
+{
+  "city_id": "portugal-esmoriz-cities-v2",
+  "anchor": {
+    "name": "Esmoriz",
+    "coords": [
+      -8.6167,
+      40.9667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptkirche von Esmoriz",
+            "hu": "Esmoriz főtemploma",
+            "ro": "Biserica Principală din Esmoriz",
+            "en": "Main Church of Esmoriz"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.6155,
+            40.965
+          ],
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die traditionellen Azulejo-Fliesen an der Fassade.",
+            "hu": "Figyelje meg a homlokzaton található hagyományos azulejo csempéket.",
+            "ro": "Observați plăcile tradiționale azulejo de pe fațadă.",
+            "en": "Notice the traditional azulejo tiles on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Küfer",
+            "hu": "Kádármester emlékmű",
+            "ro": "Monumentul Dogarului",
+            "en": "Monument to the Cooper"
+          },
+          "category": "monuments/statues",
+          "coords": [
+            -8.616,
+            40.9645
+          ],
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Tribut an das historische Handwerk der Stadt.",
+            "hu": "Tisztelgés a város történelmi mestersége előtt.",
+            "ro": "Un tribut adus meșteșugului istoric al orașului.",
+            "en": "A tribute to the city's historical craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandkapelle",
+            "hu": "Tengerparti kápolna",
+            "ro": "Capela de pe Plajă",
+            "en": "Chapel of the Beach"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.633,
+            40.968
+          ],
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine kleine, charmante Kapelle direkt am Meer.",
+            "hu": "Egy kicsi, bájos kápolna közvetlenül a tenger mellett.",
+            "ro": "O capelă mică și fermecătoare chiar lângă mare.",
+            "en": "A small, charming chapel right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Esmoriz",
+            "hu": "Esmoriz strandja",
+            "ro": "Plaja din Esmoriz",
+            "en": "Esmoriz Beach"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.6345,
+            40.969
+          ],
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Meeresfrüchten in einem der Restaurants am Strand.",
+            "hu": "Ideális egy tengeri herkentyűs ebédhez a tengerparti éttermek egyikében.",
+            "ro": "Ideal pentru un prânz cu fructe de mare la unul dintre restaurantele de pe plajă.",
+            "en": "Perfect for a seafood lunch at one of the beachfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
+            "hu": "Esmorizi lagúna",
+            "ro": "Laguna Esmoriz",
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+          },
+          "category": "natural features (caves, viewpoints)",
+          "coords": [
+            -8.628,
+            40.978
+          ],
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Paradies für Vogelbeobachter und Naturliebhaber.",
+            "hu": "Paradicsom a madármegfigyelők és a természet szerelmesei számára.",
+            "ro": "Un paradis pentru observatorii de păsări și iubitorii de natură.",
+            "en": "A paradise for birdwatchers and nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzstege der Lagune (Passadiços da Barrinha)",
+            "hu": "Lagúna pallói",
+            "ro": "Podețele Lagunei",
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.625,
+            40.975
+          ],
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den Holzstegen für atemberaubende Ausblicke auf die Lagune und die Dünen.",
+            "hu": "Kövesse a pallókat a lagúnára és a dűnékre nyíló lélegzetelállító kilátásért.",
+            "ro": "Urmați podețele pentru vederi uimitoare ale lagunei și dunelor.",
+            "en": "Follow the boardwalks for stunning views of the lagoon and dunes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Esmoriz an der Hauptkirche und dem Küferdenkmal. Am Vormittag spazieren Sie zum Atlantik, besuchen die charmante Strandkapelle und entspannen am goldenen Sand des Praia de Esmoriz. Nach einem Mittagessen mit frischem Fisch erkunden Sie am Nachmittag das Ökosystem der Barrinha de Esmoriz. Beenden Sie den Tag mit einem Spaziergang auf den Holzstegen, während die Sonne über der Lagune untergeht, ein friedlicher Abschluss Ihres Küstenabenteuers.",
+        "hu": "Kezdje a napot Esmoriz szívében, a főtemplomnál és a Kádármester emlékműnél. A délelőtt folyamán sétáljon le az Atlanti-óceánhoz, látogassa meg a bájos tengerparti kápolnát, és pihenjen a Praia de Esmoriz aranyhomokos partján. Egy friss halból készült ebéd után délután fedezze fel a Barrinha de Esmoriz ökoszisztémáját. Zárja a napot egy sétával a pallókon, ahogy a nap lenyugszik a lagúna felett, békés lezárásaként a tengerparti kalandnak.",
+        "ro": "Începeți ziua în inima orașului Esmoriz, la Biserica Principală și Monumentul Dogarului. Dimineața, faceți o plimbare până la Atlantic, vizitând fermecătoarea Capelă de pe Plajă și relaxându-vă pe nisipul auriu al Plajei Esmoriz. După un prânz cu pește proaspăt, după-amiaza explorați ecosistemul lagunei Barrinha de Esmoriz. Încheiați ziua cu o plimbare pe podețe în timp ce soarele apune peste lagună, un final pașnic pentru aventura dvs. de coastă.",
+        "en": "Start your day in the heart of Esmoriz at the Main Church and the Cooper's Monument. In the morning, stroll down to the Atlantic, visiting the charming Beach Chapel and relaxing on the golden sands of Esmoriz Beach. After a fresh fish lunch, the afternoon is for exploring the ecosystem of the Barrinha de Esmoriz lagoon. End your day with a walk along the boardwalks as the sun sets over the lagoon, a peaceful conclusion to your coastal adventure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Ein herzhafter Meeresfrüchte-Reis, perfekt zum Teilen. Suchen Sie nach Restaurants in Strandnähe."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "Ein traditioneller Fischeintopf, reich an Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Bőséges tenger gyümölcsei rizs, tökéletes megosztásra. Keressen éttermeket a strand közelében."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "Hagyományos halászlé, gazdag ízekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "Un orez consistent cu fructe de mare, perfect de împărțit. Căutați restaurante lângă plajă."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "O tocană tradițională de pește, bogată în arome."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arroz de Marisco",
+            "tip": "A hearty seafood rice, perfect for sharing. Look for restaurants near the beach."
+          },
+          {
+            "name": "Caldeirada de Peixe",
+            "tip": "A traditional fish stew, rich in flavour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Barrinha de Esmoriz",
+            "tip": "Die ruhigen Ufer der Lagune sind ideal für eine Pause in der Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Praia de Esmoriz bei Sonnenuntergang",
+            "tip": "Finden Sie einen ruhigen Platz in den Dünen, um den Sonnenuntergang zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barrinha de Esmoriz",
+            "tip": "A lagúna csendes partjai ideálisak egy természetközeli szünethez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Praia de Esmoriz naplementekor",
+            "tip": "Keressen egy csendes helyet a dűnékben a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barrinha de Esmoriz",
+            "tip": "Malurile liniștite ale lagunei sunt ideale pentru o pauză în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Esmoriz la apus",
+            "tip": "Găsiți un loc liniștit în dune pentru a privi apusul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barrinha de Esmoriz",
+            "tip": "The quiet shores of the lagoon are ideal for a break in nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esmoriz Beach at sunset",
+            "tip": "Find a quiet spot in the dunes to watch the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach dem städtischen Markt für frische Produkte und lokale Käsesorten."
+          },
+          {
+            "name": "Kunsthandwerksläden",
+            "tip": "In der Nähe des Strandes finden Sie kleine Läden, die handgefertigte Souvenirs verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a városi piacot friss termékekért és helyi sajtokért."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "A strand közelében találhatók kis boltok, amelyek kézzel készített ajándéktárgyakat árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piața municipală pentru produse proaspete și brânzeturi locale."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Lângă plajă, veți găsi mici magazine care vând suveniruri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for the municipal market for fresh produce and local cheeses."
+          },
+          {
+            "name": "Artisan Shops",
+            "tip": "Near the beach, you'll find small shops selling handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Sonnencreme und einen Hut mit, besonders für die Zeit am Strand.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, um hydriert zu bleiben."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával naptejet és kalapot, különösen a strandon töltött időre.",
+          "Egy újrafelhasználható vizes palack jó ötlet a hidratáltság megőrzéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aduceți cremă de protecție solară și o pălărie, mai ales pentru timpul petrecut la plajă.",
+          "O sticlă de apă reutilizabilă este o idee bună pentru a rămâne hidratat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring sunscreen and a hat, especially for the time at the beach.",
+          "A reusable water bottle is a good idea to stay hydrated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Buçaquinho Park",
+            "hu": "Buçaquinho Park",
+            "ro": "Parcul Buçaquinho",
+            "en": "Buçaquinho Park"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.62,
+            40.948
+          ],
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort, um den Tag mit einem Spaziergang durch die Pinienwälder zu beginnen.",
+            "hu": "Remek hely a nap kezdéséhez egy sétával a fenyvesekben.",
+            "ro": "Un loc minunat pentru a începe ziua cu o plimbare prin pădurile de pini.",
+            "en": "A great place to start the day with a walk through the pine forests."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Esmoriz",
+            "hu": "Esmoriz főtemploma",
+            "ro": "Biserica Principală din Esmoriz",
+            "en": "Main Church of Esmoriz"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.6155,
+            40.965
+          ],
+          "arrive_at": "10:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Radtour ins Stadtzentrum, um dieses lokale Wahrzeichen zu sehen.",
+            "hu": "Egy rövid biciklitúra a városközpontba, hogy megnézze ezt a helyi nevezetességet.",
+            "ro": "O scurtă plimbare cu bicicleta până în centrul orașului pentru a vedea acest punct de reper local.",
+            "en": "A short bike ride to the town center to see this local landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Esmoriz",
+            "hu": "Esmoriz strandja",
+            "ro": "Plaja din Esmoriz",
+            "en": "Esmoriz Beach"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.6345,
+            40.969
+          ],
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Sonne oder ein Mittagessen am Meer.",
+            "hu": "Zárja le a biciklijét, és élvezze a napsütést vagy egy ebédet a tengerparton.",
+            "ro": "Legați-vă bicicleta și bucurați-vă de soare sau de un prânz pe malul mării.",
+            "en": "Lock up your bike and enjoy the sun or a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandkapelle",
+            "hu": "Tengerparti kápolna",
+            "ro": "Capela de pe Plajă",
+            "en": "Chapel of the Beach"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.633,
+            40.968
+          ],
+          "arrive_at": "13:13",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Hauptstrand entfernt.",
+            "hu": "Csak egy rövid tekerés a fő strandtól.",
+            "ro": "La doar o scurtă plimbare cu bicicleta de plaja principală.",
+            "en": "Just a short ride from the main beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzstege der Lagune (Passadiços da Barrinha)",
+            "hu": "Lagúna pallói",
+            "ro": "Podețele Lagunei",
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.625,
+            40.975
+          ],
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Holzstege sind ideal zum Radfahren und bieten tolle Ausblicke.",
+            "hu": "A pallók ideálisak a kerékpározáshoz, és nagyszerű kilátást nyújtanak.",
+            "ro": "Podețele sunt ideale pentru ciclism și oferă vederi minunate.",
+            "en": "The boardwalks are perfect for cycling and offer great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
+            "hu": "Esmorizi lagúna",
+            "ro": "Laguna Esmoriz",
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+          },
+          "category": "natural features (caves, viewpoints)",
+          "coords": [
+            -8.628,
+            40.978
+          ],
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Umrunden Sie die Lagune, um die vielfältige Vogelwelt zu beobachten.",
+            "hu": "Kerülje meg a lagúnát, hogy megfigyelhesse a változatos madárvilágot.",
+            "ro": "Înconjurați laguna pentru a observa diversitatea de păsări.",
+            "en": "Cycle around the lagoon to spot the diverse birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im grünen Buçaquinho Park. Am Vormittag radeln Sie ins Stadtzentrum zur Hauptkirche, bevor Sie zur Küste fahren, um am Strand von Esmoriz zu entspannen und zu Mittag zu essen. Am Nachmittag erkunden Sie die Küste weiter, halten an der malerischen Strandkapelle und fahren dann entlang der berühmten Holzstege. Beenden Sie Ihre Tour mit einer ruhigen Fahrt um die Barrinha-Lagune und genießen Sie die Natur und die Tierwelt.",
+        "hu": "Kerékpáros kalandja a zöldellő Buçaquinho Parkban kezdődik. Délelőtt tekerjen be a városközpontba a főtemplomhoz, mielőtt a part felé veszi az irányt, hogy pihenjen és ebédeljen az Esmoriz strandon. Délután fedezze fel tovább a partvonalat, megállva a festői tengerparti kápolnánál, majd tekerjen végig a híres pallókon. Zárja a túrát egy csendes körrel a Barrinha lagúna körül, élvezve a természetet és az élővilágot.",
+        "ro": "Aventura dvs. pe bicicletă începe în Parcul verde Buçaquinho. Dimineața, pedalați spre centrul orașului la Biserica Principală înainte de a vă îndrepta spre coastă pentru a vă relaxa și a lua prânzul la Plaja Esmoriz. După-amiaza, explorați mai departe coasta, oprindu-vă la pitoreasca Capelă de pe Plajă, apoi pedalând de-a lungul faimoaselor podețe. Încheiați turul cu o plimbare liniștită în jurul lagunei Barrinha, bucurându-vă de natură și faună.",
+        "en": "Your cycling adventure starts in the green Buçaquinho Park. In the morning, you'll pedal to the town center for the Main Church before heading to the coast to relax and have lunch at Esmoriz Beach. The afternoon is for further coastal exploration, stopping at the quaint Beach Chapel, then riding along the famous boardwalks. End your tour with a peaceful loop around the Barrinha lagoon, enjoying the nature and wildlife."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Ein klassisches portugiesisches Sommergericht, das man in den Strandcafés findet."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "Ein erfrischender Oktopussalat, ideal für einen leichten Bissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Klasszikus portugál nyári étel, amelyet a tengerparti kávézókban találhat meg."
+          },
+          {
+            "name": "Polipsaláta",
+            "tip": "Frissítő polipsaláta, ideális egy könnyű harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine la grătar",
+            "tip": "Un fel de mâncare clasic portughez de vară, găsit la cafenelele de pe plajă."
+          },
+          {
+            "name": "Salată de caracatiță",
+            "tip": "O salată răcoritoare de caracatiță, perfectă pentru o masă ușoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Sardines",
+            "tip": "A classic Portuguese summer dish, found at the beachside cafes."
+          },
+          {
+            "name": "Salada de Polvo",
+            "tip": "A refreshing octopus salad, perfect for a light bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwälder des Buçaquinho Parks",
+            "tip": "Die schattigen Wege bieten eine kühle und ruhige Flucht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nördliches Ende der Passadiços",
+            "tip": "Weniger überlaufen und bietet weite Ausblicke auf die Lagune.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Buçaquinho Park fenyőerdői",
+            "tip": "Az árnyékos ösvények hűs és csendes menedéket nyújtanak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Passadiços északi vége",
+            "tip": "Kevésbé zsúfolt, és széles kilátást nyújt a lagúnára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile de pini din Parcul Buçaquinho",
+            "tip": "Cărările umbrite oferă o evadare răcoroasă și liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Capătul nordic al Passadiços",
+            "tip": "Mai puțin aglomerat și oferă vederi extinse ale lagunei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buçaquinho Park pine forests",
+            "tip": "The shaded paths offer a cool and quiet escape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Northern end of the Passadiços",
+            "tip": "Less crowded and offers expansive views of the lagoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie 'Pão de Ló de Ovar', eine lokale Kuchenspezialität aus der nahegelegenen Stadt Ovar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'Pão de Ló de Ovar'-t, egy helyi süteménykülönlegességet a közeli Ovar városából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați 'Pão de Ló de Ovar', o specialitate locală de prăjitură din orașul apropiat Ovar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Try 'Pão de Ló de Ovar', a local cake specialty from the nearby town of Ovar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Die Holzstege können bei Nässe rutschig sein."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a biciklijét a megállóknál.",
+          "A fa pallók nedvesen csúszósak lehetnek."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Aduceți un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Podețele de lemn pot fi alunecoase când sunt ude."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Bring a lock to secure your bike at stops.",
+          "The wooden boardwalks can be slippery when wet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Flugplatz Espinho",
+            "hu": "Espinho repülőtér",
+            "ro": "Aerodromul Espinho",
+            "en": "Espinho Aerodrome"
+          },
+          "category": "industrial heritage",
+          "coords": [
+            -8.625,
+            40.995
+          ],
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem einzigartigen Besuch, um Kleinflugzeuge zu beobachten. Ein unerwartetes Highlight.",
+            "hu": "Kezdje egy egyedi látogatással, és nézzen kis repülőgépeket. Váratlan fénypont.",
+            "ro": "Începeți cu o vizită unică pentru a privi avioanele mici. Un punct culminant neașteptat.",
+            "en": "Start with a unique visit to watch small aircraft. An unexpected highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
+            "hu": "Esmorizi lagúna",
+            "ro": "Laguna Esmoriz",
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+          },
+          "category": "natural features (caves, viewpoints)",
+          "coords": [
+            -8.628,
+            40.978
+          ],
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang. Dies ist Ihr erster Natur-Cluster.",
+            "hu": "Parkoljon itt, és kezdje meg a sétát. Ez az első természeti klaszter.",
+            "ro": "Parcați aici și începeți plimbarea. Acesta este primul dvs. cluster natural.",
+            "en": "Park here and start your walk. This is your first nature cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzstege der Lagune (Passadiços da Barrinha)",
+            "hu": "Lagúna pallói",
+            "ro": "Podețele Lagunei",
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.625,
+            40.975
+          ],
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Lagunenufer aus.",
+            "hu": "Könnyű séta a lagúna partjáról.",
+            "ro": "O plimbare ușoară de pe malul lagunei.",
+            "en": "An easy walk from the lagoon's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Esmoriz",
+            "hu": "Esmoriz strandja",
+            "ro": "Plaja din Esmoriz",
+            "en": "Esmoriz Beach"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.6345,
+            40.969
+          ],
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hauptstrandcluster. Zeit für Mittagessen und Entspannung am Meer.",
+            "hu": "Vezessen a fő strandklaszterhez. Ebédidő és pihenés a tengerparton.",
+            "ro": "Conduceți la clusterul principal de plajă. Timp pentru prânz și relaxare la malul mării.",
+            "en": "Drive to the main beach cluster. Time for lunch and seaside relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandkapelle",
+            "hu": "Tengerparti kápolna",
+            "ro": "Capela de pe Plajă",
+            "en": "Chapel of the Beach"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.633,
+            40.968
+          ],
+          "arrive_at": "14:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Promenade vom Restaurant aus.",
+            "hu": "Rövid séta a sétányon az étteremtől.",
+            "ro": "O plimbare scurtă de-a lungul promenadei de la restaurant.",
+            "en": "A short stroll along the promenade from your lunch spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptkirche von Esmoriz",
+            "hu": "Esmoriz főtemploma",
+            "ro": "Biserica Principală din Esmoriz",
+            "en": "Main Church of Esmoriz"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.6155,
+            40.965
+          ],
+          "arrive_at": "15:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Stadtzentrum für den letzten Cluster des Tages.",
+            "hu": "Vezessen be a városközpontba a nap utolsó klaszteréhez.",
+            "ro": "Conduceți spre centrul orașului pentru ultimul cluster al zilei.",
+            "en": "Drive into the town center for the final cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Küfer",
+            "hu": "Kádármester emlékmű",
+            "ro": "Monumentul Dogarului",
+            "en": "Monument to the Cooper"
+          },
+          "category": "monuments/statues",
+          "coords": [
+            -8.616,
+            40.9645
+          ],
+          "arrive_at": "15:58",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Kirche entfernt.",
+            "hu": "Csak néhány lépésre a templomtól.",
+            "ro": "La doar câțiva pași de biserică.",
+            "en": "Just a few steps away from the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer ungewöhnlichen Fahrt zum Flugplatz Espinho. Am Vormittag fahren Sie zur Barrinha-Lagune, parken und erkunden den Naturcluster zu Fuß über die Holzstege. Mittags fahren Sie zum Strand von Esmoriz für ein entspanntes Mittagessen, gefolgt von einem kurzen Spaziergang zur Strandkapelle. Am Nachmittag fahren Sie in den letzten Cluster im Stadtzentrum, um die Hauptkirche und das Küferdenkmal zu besichtigen, und tauchen in die lokale Geschichte ein, bevor der Tag zu Ende geht.",
+        "hu": "Kezdje a napot egy nem szokványos autózással az Espinho repülőtérre. Délelőtt vezessen a Barrinha lagúnához, parkoljon le, és fedezze fel gyalog a természeti klasztert a pallókon keresztül. Délben autózzon el az Esmoriz strandra egy pihentető ebédre, majd tegyen egy rövid sétát a tengerparti kápolnához. Délután vezessen be az utolsó, városközponti klaszterbe, hogy megnézze a főtemplomot és a Kádármester emlékművet, elmélyedve a helyi történelemben a nap lezárása előtt.",
+        "ro": "Începeți ziua cu o excursie neconvențională la Aerodromul Espinho. Dimineața, conduceți la laguna Barrinha, parcați și explorați clusterul natural pe jos prin intermediul podețelor. La prânz, mergeți cu mașina la Plaja Esmoriz pentru un prânz relaxant, urmat de o scurtă plimbare la Capela de pe Plajă. După-amiaza, conduceți la ultimul cluster din centrul orașului pentru a vedea Biserica Principală și Monumentul Dogarului, aprofundând istoria locală înainte de a încheia ziua.",
+        "en": "Start your day with an unconventional drive to the Espinho Aerodrome. In the morning, drive to the Barrinha lagoon, park, and explore the nature cluster on foot via the boardwalks. At noon, drive to Esmoriz Beach for a relaxed lunch, followed by a short walk to the Beach Chapel. In the afternoon, drive to the final cluster in the town center to see the Main Church and the Cooper's Monument, delving into local history before your day ends."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Ein klassisches portugiesisches Schweinefleischsandwich, schnell und lecker. Suchen Sie nach Snackbars im Stadtzentrum."
+          },
+          {
+            "name": "Frischer Fisch vom Grill",
+            "tip": "Wählen Sie Ihren Fisch in einem Restaurant am Strand und lassen Sie ihn perfekt grillen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Klasszikus portugál sertéshúsos szendvics, gyors és ízletes. Keressen snack bárokat a városközpontban."
+          },
+          {
+            "name": "Frissen grillezett hal",
+            "tip": "Válassza ki a halat egy tengerparti étteremben, és grilleztesse tökéletesre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "Un sandviș clasic portughez cu carne de porc, rapid și gustos. Căutați snack-baruri în centrul orașului."
+          },
+          {
+            "name": "Pește proaspăt la grătar",
+            "tip": "Alegeți-vă peștele la un restaurant de pe plajă și lăsați-l să fie gătit la grătar la perfecțiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bifana no Pão",
+            "tip": "A classic Portuguese pork sandwich, quick and delicious. Look for snack bars in the town center."
+          },
+          {
+            "name": "Fresh Grilled Fish",
+            "tip": "Choose your fish at a beachfront restaurant and have it grilled to perfection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buçaquinho Park",
+            "tip": "Ein kurzer Abstecher mit dem Auto zu diesem Park bietet eine ruhige Pause im Pinienwald.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Flugplatz",
+            "tip": "Überraschend friedlich, den Flugzeugen beim Starten und Landen zuzusehen.",
+            "emoji": "✈️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buçaquinho Park",
+            "tip": "Egy rövid autós kitérő ebbe a parkba csendes pihenést kínál a fenyvesben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a repülőtérről",
+            "tip": "Meglepően békés nézni a repülőgépek fel- és leszállását.",
+            "emoji": "✈️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Buçaquinho",
+            "tip": "Un scurt ocol cu mașina la acest parc oferă o pauză liniștită în pădurea de pini.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de la aerodrom",
+            "tip": "Surprinzător de pașnic să privești avioanele decolând și aterizând.",
+            "emoji": "✈️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buçaquinho Park",
+            "tip": "A short drive detour to this park offers a quiet break in the pine forest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the Aerodrome",
+            "tip": "Surprisingly peaceful to watch the planes take off and land.",
+            "emoji": "✈️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konservenfabriken",
+            "tip": "Esmoriz und die Region sind bekannt für ihre Fischkonserven. Suchen Sie nach Markengeschäften für einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzervgyárak",
+            "tip": "Esmoriz és a régió híres a halkonzervjeiről. Keressen márkaboltokat egyedi ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrici de conserve",
+            "tip": "Esmoriz și regiunea sunt renumite pentru conservele lor de pește. Căutați magazine de marcă pentru suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canneries",
+            "tip": "Esmoriz and the region are known for their canned fish. Look for brand stores for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze können in Strandnähe im Sommer knapp sein. Kommen Sie früh.",
+          "Halten Sie Kleingeld für Parkuhren bereit.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern außerhalb der Hauptverkehrszeiten."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron szűkösek lehetnek a strand közelében. Érkezzen korán.",
+          "Tartson aprópénzt a parkolóórákhoz.",
+          "Tervezze az utazásokat a klaszterek között a csúcsforgalmon kívül."
+        ],
+        "ro": [
+          "Parcarea poate fi limitată lângă plajă în timpul verii. Ajungeți devreme.",
+          "Păstrați monede pentru parcometre.",
+          "Planificați-vă deplasările între clustere în afara orelor de vârf."
+        ],
+        "en": [
+          "Parking can be limited near the beach in summer. Arrive early.",
+          "Keep some change for parking meters.",
+          "Plan your drives between clusters outside of peak traffic hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptkirche von Esmoriz",
+            "hu": "Esmoriz főtemploma",
+            "ro": "Biserica Principală din Esmoriz",
+            "en": "Main Church of Esmoriz"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.6155,
+            40.965
+          ],
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihren ersten Cluster zu beginnen.",
+            "hu": "Menjen busszal a központi térre az első klaszter megkezdéséhez.",
+            "ro": "Luați un autobuz spre piața centrală pentru a începe primul cluster.",
+            "en": "Take a bus to the central square to begin your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für den Küfer",
+            "hu": "Kádármester emlékmű",
+            "ro": "Monumentul Dogarului",
+            "en": "Monument to the Cooper"
+          },
+          "category": "monuments/statues",
+          "coords": [
+            -8.616,
+            40.9645
+          ],
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche aus.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "O scurtă plimbare de la biserică.",
+            "en": "A short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Esmoriz",
+            "hu": "Esmoriz strandja",
+            "ro": "Plaja din Esmoriz",
+            "en": "Esmoriz Beach"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.6345,
+            40.969
+          ],
+          "arrive_at": "10:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Küste. Zeit für den Strand und das Mittagessen.",
+            "hu": "Menjen busszal a part felé. Itt az idő a strandra és ebédre.",
+            "ro": "Luați un autobuz spre coastă. Timp pentru plajă și prânz.",
+            "en": "Catch a bus towards the coast. Time for the beach and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandkapelle",
+            "hu": "Tengerparti kápolna",
+            "ro": "Capela de pe Plajă",
+            "en": "Chapel of the Beach"
+          },
+          "category": "churches/cathedrals",
+          "coords": [
+            -8.633,
+            40.968
+          ],
+          "arrive_at": "13:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie nach dem Mittagessen die Promenade entlang.",
+            "hu": "Ebéd után sétáljon végig a sétányon.",
+            "ro": "Plimbați-vă de-a lungul promenadei după prânz.",
+            "en": "Stroll down the promenade after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
+            "hu": "Esmorizi lagúna",
+            "ro": "Laguna Esmoriz",
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+          },
+          "category": "natural features (caves, viewpoints)",
+          "coords": [
+            -8.628,
+            40.978
+          ],
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein weiterer Bus bringt Sie zum letzten Natur-Cluster des Tages.",
+            "hu": "Egy másik busz elviszi a nap utolsó természeti klaszteréhez.",
+            "ro": "Un alt autobuz vă va duce la ultimul cluster natural al zilei.",
+            "en": "Another bus ride takes you to the final nature cluster of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Holzstege der Lagune (Passadiços da Barrinha)",
+            "hu": "Lagúna pallói",
+            "ro": "Podețele Lagunei",
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+          },
+          "category": "parks/promenades/beaches",
+          "coords": [
+            -8.625,
+            40.975
+          ],
+          "arrive_at": "16:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Umgebung der Lagune zu Fuß auf den Holzstegen.",
+            "hu": "Fedezze fel gyalog a lagúna környékét a pallókon.",
+            "ro": "Explorați zona lagunei pe jos, pe podețe.",
+            "en": "Explore the lagoon area on foot using the boardwalks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Esmoriz, wo Sie die Hauptkirche und das Küferdenkmal zu Fuß erkunden. Am Vormittag bringt Sie ein weiterer Bus zum Strandcluster für ein Mittagessen am Meer und einen Besuch der Strandkapelle. Am Nachmittag fahren Sie mit dem Bus zur Barrinha-Lagune. Schließen Sie Ihren Tag mit einem ruhigen Spaziergang entlang der Holzstege ab, bevor Sie den Bus zurück ins Zentrum nehmen.",
+        "hu": "A nap egy buszúttal kezdődik Esmoriz központjába, ahol gyalog felfedezi a főtemplomot és a Kádármester emlékművet. Délelőtt egy másik busz elviszi a strandklaszterhez egy tengerparti ebédre és a tengerparti kápolna meglátogatására. Délután busszal utazik a Barrinha lagúnához. Zárja a napot egy békés sétával a pallókon, mielőtt visszabuszozna a központba.",
+        "ro": "Ziua dvs. începe cu o călătorie cu autobuzul spre centrul orașului Esmoriz, explorând pe jos Biserica Principală și Monumentul Dogarului. Dimineața, un alt autobuz vă duce la clusterul de plajă pentru un prânz la malul mării și o vizită la Capela de pe Plajă. După-amiaza este pentru o călătorie cu autobuzul la laguna Barrinha. Încheiați ziua cu o plimbare liniștită de-a lungul podețelor înainte de a lua autobuzul înapoi în centru.",
+        "en": "Your day starts with a bus ride to Esmoriz center, exploring the Main Church and Cooper's Monument on foot. In the morning, another bus takes you to the beach cluster for a seaside lunch and a visit to the Beach Chapel. The afternoon is for a bus journey to the Barrinha lagoon. Conclude your day with a peaceful walk along the boardwalks before catching a bus back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Francesinha (Esmoriz-Stil)",
+            "tip": "Obwohl es aus Porto stammt, haben viele lokale Cafés ihre eigene Variante dieses herzhaften Sandwiches."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Ein Muss in Portugal. Genießen Sie es mit einem Kaffee in einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francesinha (Esmoriz stílusban)",
+            "tip": "Bár Portóból származik, sok helyi kávézó kínálja ennek a kiadós szendvicsnek a saját változatát."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "Kötelező Portugáliában. Fogyassza el egy kávéval egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Francesinha (stil Esmoriz)",
+            "tip": "Deși originar din Porto, multe cafenele locale au propria lor versiune a acestui sandviș consistent."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "O necesitate în Portugalia. Savurați-l cu o cafea la o patiserie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Francesinha (Esmoriz style)",
+            "tip": "Although from Porto, many local cafes have their own take on this hearty sandwich."
+          },
+          {
+            "name": "Pastel de Nata",
+            "tip": "A must-try in Portugal. Enjoy it with a coffee at a local 'pastelaria'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Bank im Buçaquinho Park",
+            "tip": "Wenn Sie Zeit haben, nehmen Sie einen Bus dorthin für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Strand",
+            "tip": "Bevor die Menschenmassen ankommen, ist der Strand ein Ort der Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes pad a Buçaquinho Parkban",
+            "tip": "Ha van ideje, buszozzon el oda egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a strandon",
+            "tip": "Mielőtt a tömeg megérkezik, a strand a nyugalom helye.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă liniștită în Parcul Buçaquinho",
+            "tip": "Dacă aveți timp, luați un autobuz până acolo pentru un moment de pace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la plajă",
+            "tip": "Înainte de sosirea mulțimilor, plaja este un loc de liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bench in Buçaquinho Park",
+            "tip": "If you have time, take a bus there for a moment of peace.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at the beach",
+            "tip": "Before the crowds arrive, the beach is a place of tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einem Markenzeichen portugiesischen Handwerks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiát, a portugál kézművesség védjegyét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual, un semn distinctiv al meșteșugului portughez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Ceramics",
+            "tip": "Look out for hand-painted ceramics, a hallmark of Portuguese craft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders an Wochenenden.",
+          "Haben Sie das Ziel oder die Haltestellennummer bereit, um es dem Fahrer zu zeigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen hétvégén.",
+          "Legyen kéznél a célállomás vagy a megállószám, hogy megmutassa a sofőrnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă este disponibil pentru a economisi bani.",
+          "Verificați orarele autobuzelor în avans, mai ales în weekend.",
+          "Aveți pregătită destinația sau numărul stației pentru a-l arăta șoferului."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check bus schedules in advance, especially on weekends.",
+          "Have your destination or stop number ready to show the driver."
+        ]
+      }
+    }
+  }
+}

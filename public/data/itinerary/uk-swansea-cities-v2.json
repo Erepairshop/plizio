@@ -1,0 +1,1484 @@
+{
+  "city_id": "uk-swansea-cities-v2",
+  "anchor": {
+    "name": "Swansea",
+    "coords": [
+      -3.9436,
+      51.6214
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Swansea Castle",
+            "hu": "Swansea vára",
+            "ro": "Castelul Swansea",
+            "en": "Swansea Castle"
+          },
+          "coords": [
+            -3.942,
+            51.6205
+          ],
+          "category": "castles",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen Eindruck von der mittelalterlichen Vergangenheit der Stadt zu bekommen.",
+            "hu": "Kezdje itt, hogy bepillantást nyerjen a város középkori múltjába.",
+            "ro": "Începeți de aici pentru a simți trecutul medieval al orașului.",
+            "en": "Start here to get a feel for the city's medieval past."
+          }
+        },
+        {
+          "name": {
+            "de": "Swansea Museum",
+            "hu": "Swansea Múzeum",
+            "ro": "Muzeul Swansea",
+            "en": "Swansea Museum"
+          },
+          "coords": [
+            -3.9385,
+            51.618
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte, von der Antike bis heute.",
+            "hu": "Fedezze fel a helyi történelmet az ókortól napjainkig.",
+            "ro": "Descoperiți istoria locală, de la antichitate până în prezent.",
+            "en": "Discover local history, from ancient times to the present day."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterfront Museum",
+            "hu": "Nemzeti Tengerparti Múzeum",
+            "ro": "Muzeul Național Waterfront",
+            "en": "National Waterfront Museum"
+          },
+          "coords": [
+            -3.935,
+            51.617
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen zur industriellen Revolution in Wales.",
+            "hu": "Interaktív kiállítások Wales ipari forradalmáról.",
+            "ro": "Expoziții interactive despre revoluția industrială din Țara Galilor.",
+            "en": "Interactive exhibits on Wales's industrial revolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Dylan Thomas Centre",
+            "hu": "Dylan Thomas Központ",
+            "ro": "Centrul Dylan Thomas",
+            "en": "Dylan Thomas Centre"
+          },
+          "coords": [
+            -3.939,
+            51.6175
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Literaturfans, um mehr über den berühmtesten Sohn von Swansea zu erfahren.",
+            "hu": "Irodalomrajongóknak kötelező, hogy többet megtudjanak Swansea leghíresebb szülöttjéről.",
+            "ro": "O necesitate pentru fanii literaturii pentru a afla despre cel mai faimos fiu al lui Swansea.",
+            "en": "A must for literature fans to learn about Swansea's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Jachthafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în portul de agrement",
+            "en": "Lunch at the Marina"
+          },
+          "coords": [
+            -3.932,
+            51.615
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte mit Blick auf die Boote.",
+            "hu": "Élvezze a friss tenger gyümölcseit a hajókra nyíló kilátással.",
+            "ro": "Savurați fructe de mare proaspete cu vedere la bărci.",
+            "en": "Enjoy some fresh seafood with a view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Swansea Bay",
+            "hu": "Swansea-öböl",
+            "ro": "Golful Swansea",
+            "en": "Swansea Bay"
+          },
+          "coords": [
+            -3.955,
+            51.61
+          ],
+          "category": "beaches",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein langer Spaziergang entlang des Sandstrandes ist der perfekte Ausklang des Tages.",
+            "hu": "Egy hosszú séta a homokos parton tökéletes lezárása a napnak.",
+            "ro": "O plimbare lungă de-a lungul plajei cu nisip este modul perfect de a încheia ziua.",
+            "en": "A long walk along the sandy shore is the perfect way to wind down."
+          }
+        },
+        {
+          "name": {
+            "de": "Guildhall",
+            "hu": "Céhek háza",
+            "ro": "Guildhall",
+            "en": "Guildhall"
+          },
+          "coords": [
+            -3.96,
+            51.616
+          ],
+          "category": "historical",
+          "arrive_at": "17:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Art-déco-Architektur dieses beeindruckenden Gebäudes.",
+            "hu": "Csodálja meg ennek a lenyűgöző épületnek az art deco építészetét.",
+            "ro": "Admirați arhitectura art deco a acestei clădiri impresionante.",
+            "en": "Admire the Art Deco architecture of this impressive building on your way out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Ausflug in die Geschichte im Swansea Castle und den nahegelegenen Museen. Am Nachmittag tauchen Sie in die Welt der Literatur im Dylan Thomas Centre ein, gefolgt von einem entspannten Mittagessen am Jachthafen. Beenden Sie den Tag mit einem erfrischenden Spaziergang entlang der weitläufigen Swansea Bay und bewundern Sie auf dem Rückweg die Architektur des Guildhall.",
+        "hu": "A nap a Swansea várában és a közeli múzeumokban tett történelmi utazással kezdődik. Délután merüljön el az irodalom világában a Dylan Thomas Központban, majd ebédeljen egy jót a kikötőben. A napot egy frissítő sétával zárja a tágas Swansea-öböl mentén, visszafelé pedig csodálja meg a Guildhall építészetét.",
+        "ro": "Ziua dvs. începe cu o incursiune în istorie la Castelul Swansea și muzeele din apropiere. După-amiaza, pătrundeți în lumea literaturii la Centrul Dylan Thomas, urmată de un prânz relaxant în portul de agrement. Încheiați ziua cu o plimbare revigorantă de-a lungul întinsului Golf Swansea, admirând arhitectura Guildhall la întoarcere.",
+        "en": "Your day begins with a trip into history at Swansea Castle and the nearby museums. In the afternoon, delve into the world of literature at the Dylan Thomas Centre, followed by a relaxing lunch at the marina. End your day with a refreshing walk along the expansive Swansea Bay, admiring the Guildhall's architecture on your way back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Welsh Cakes",
+            "tip": "Ein traditioneller süßer Leckerbissen, den man auf dem Swansea Market findet."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Ein walisisches Früchtebrot, perfekt mit einer Tasse Tee."
+          },
+          {
+            "name": "Laverbread",
+            "tip": "Eine lokale Delikatesse aus Seetang. Probieren Sie es beim Frühstück."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Walesi sütemény (Welsh Cakes)",
+            "tip": "Hagyományos édes finomság, amelyet a Swansea Marketen talál."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Walesi gyümölcskenyér, tökéletes egy csésze teával."
+          },
+          {
+            "name": "Laverbread",
+            "tip": "Helyi specialitás tengeri moszatból. Próbálja ki reggelire."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prăjituri galeze (Welsh Cakes)",
+            "tip": "Un deliciu dulce tradițional găsit la Piața Swansea."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "O pâine cu fructe galeză, perfectă cu o ceașcă de ceai."
+          },
+          {
+            "name": "Laverbread",
+            "tip": "O delicatesă locală făcută din alge marine. Încercați-o la micul dejun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Welsh Cakes",
+            "tip": "A traditional sweet treat, find them fresh at Swansea Market."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "A Welsh fruit loaf, perfect with a cup of tea."
+          },
+          {
+            "name": "Laverbread",
+            "tip": "A local delicacy made from seaweed. Be brave and try it with breakfast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "Ein ruhiger Spaziergang durch wunderschöne Gärten, besonders im Frühling.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Swansea Bay bei Ebbe",
+            "tip": "Weite, offene Flächen bieten ein Gefühl von Frieden und Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Singleton Park",
+            "tip": "Finden Sie eine ruhige Bank am See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "Békés séta a gyönyörű kertekben, különösen tavasszal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Swansea-öböl apálykor",
+            "tip": "A hatalmas, nyílt tér a béke és a nyugalom érzetét nyújtja.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Singleton Park",
+            "tip": "Keressen egy csendes padot a tó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Clyne",
+            "tip": "O plimbare liniștită prin grădini frumoase, mai ales primăvara.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Golful Swansea la reflux",
+            "tip": "Spațiile largi și deschise oferă un sentiment de pace și liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Singleton",
+            "tip": "Găsiți o bancă liniștită lângă lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "A peaceful stroll through beautiful gardens, especially in spring.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Swansea Bay at low tide",
+            "tip": "Vast open spaces provide a sense of peace and quiet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Singleton Park",
+            "tip": "Find a quiet bench by the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Swansea Market",
+            "tip": "Der größte Indoor-Markt in Wales für lokale Produkte und Souvenirs."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Boutiquen und unabhängige Geschäfte säumen die Straßen dieses charmanten Vorortes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Swansea Market",
+            "tip": "Wales legnagyobb fedett piaca, ahol helyi termékeket és szuveníreket vásárolhat."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Butikok és független üzletek sorakoznak ennek a bájos külvárosnak az utcáin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Swansea",
+            "tip": "Cea mai mare piață interioară din Țara Galilor pentru produse locale și suveniruri."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Boutique-uri și magazine independente se înșiră pe străzile acestei suburbii fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Swansea Market",
+            "tip": "The largest indoor market in Wales for local produce and souvenirs."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Boutiques and independent shops line the streets of this charming suburb."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Gezeitenzeiten für Swansea Bay, um den Strand von seiner besten Seite zu erleben.",
+          "Viele Museen in Wales haben freien Eintritt, aber überprüfen Sie dies vor Ihrem Besuch.",
+          "Halten Sie Ausschau nach den vielen kleinen unabhängigen Cafés in den Seitenstraßen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sokat fog gyalogolni.",
+          "Ellenőrizze az árapály-időket a Swansea-öbölben, hogy a legjobb formájában élvezhesse a strandot.",
+          "Sok walesi múzeum ingyenes, de ezt ellenőrizze látogatás előtt.",
+          "Keresse a sok kis független kávézót a mellékutcákban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Verificați orele mareelor pentru Golful Swansea pentru a experimenta plaja la maximum.",
+          "Multe muzee din Țara Galilor au intrare gratuită, dar verificați înainte de vizită.",
+          "Căutați numeroasele mici cafenele independente de pe străzile lăturalnice."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the tide times for Swansea Bay to experience the beach at its best.",
+          "Many museums in Wales have free entry, but double-check before your visit.",
+          "Keep an eye out for the many small independent cafes in the side streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 16.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "National Waterfront Museum",
+            "hu": "Nemzeti Tengerparti Múzeum",
+            "ro": "Muzeul Național Waterfront",
+            "en": "National Waterfront Museum"
+          },
+          "coords": [
+            -3.935,
+            51.617
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer Dosis Industrie- und Seefahrtsgeschichte.",
+            "hu": "Kezdje a napot egy adag ipari és tengerészeti történelemmel.",
+            "ro": "Începeți-vă ziua cu o doză de istorie industrială și maritimă.",
+            "en": "Start your day with a dose of industrial and maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Swansea Bay",
+            "hu": "Kerékpártúra a Swansea-öböl mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul Golfului Swansea",
+            "en": "Cycle along Swansea Bay"
+          },
+          "coords": [
+            -3.98,
+            51.595
+          ],
+          "category": "promenades",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die flache, malerische Route entlang des Meeres.",
+            "hu": "Élvezze a sík, festői útvonalat a tenger mentén.",
+            "ro": "Bucurați-vă de traseul plat și pitoresc de-a lungul mării.",
+            "en": "Enjoy the flat, scenic route alongside the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Oystermouth Castle",
+            "hu": "Oystermouth vára",
+            "ro": "Castelul Oystermouth",
+            "en": "Oystermouth Castle"
+          },
+          "coords": [
+            -4.005,
+            51.579
+          ],
+          "category": "castles",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beeindruckende normannische Festung.",
+            "hu": "Parkolja le a biciklit és fedezze fel ezt a lenyűgöző normann erődöt.",
+            "ro": "Parcați-vă bicicleta și explorați această fortăreață normandă impresionantă.",
+            "en": "Park your bike and explore this impressive Norman fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Mumbles",
+            "hu": "Ebéd Mumbles-ben",
+            "ro": "Prânz în Mumbles",
+            "en": "Lunch in Mumbles"
+          },
+          "coords": [
+            -4.01,
+            51.575
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mumbles hat viele Cafés und Restaurants zur Auswahl.",
+            "hu": "Mumbles számos kávézót és éttermet kínál.",
+            "ro": "Mumbles are o mulțime de cafenele și restaurante din care să alegeți.",
+            "en": "Mumbles has plenty of cafes and restaurants to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Mumbles Pier",
+            "hu": "Mumbles móló",
+            "ro": "Debarcaderul Mumbles",
+            "en": "Mumbles Pier"
+          },
+          "coords": [
+            -4.025,
+            51.572
+          ],
+          "category": "promenades",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Ende des Piers für eine großartige Aussicht auf die Bucht.",
+            "hu": "Sétáljon el a móló végéig a csodálatos öböl-panorámáért.",
+            "ro": "Mergeți până la capătul debarcaderului pentru o priveliște minunată asupra golfului.",
+            "en": "Walk to the end of the pier for great views back across the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Theatre",
+            "hu": "Grand Theatre",
+            "ro": "Marele Teatru",
+            "en": "Grand Theatre"
+          },
+          "coords": [
+            -3.947,
+            51.619
+          ],
+          "category": "theatres",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses wunderschöne viktorianische Theater.",
+            "hu": "A túrát ennek a gyönyörű viktoriánus színháznak a megtekintésével fejezze be.",
+            "ro": "Încheiați-vă turul admirând acest frumos teatru victorian.",
+            "en": "Finish your tour by admiring this beautiful Victorian theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein perfekter Tag für Radfahrer. Beginnen Sie im Herzen der Stadt am Waterfront Museum, bevor Sie die malerische Küstenroute nach Mumbles nehmen. Dort erkunden Sie die alten Mauern von Oystermouth Castle und genießen ein Mittagessen am Meer. Auf dem Rückweg halten Sie am historischen Grand Theatre, um einen Hauch von Kultur zu erleben, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Tökéletes nap a kerékpárosoknak. Kezdjen a város szívében, a Tengerparti Múzeumnál, mielőtt a festői tengerparti úton Mumbles felé veszi az irányt. Ott fedezze fel az Oystermouth vár ősi falait és ebédeljen a tengerparton. Visszafelé álljon meg a történelmi Grand Theatre-nél egy kis kulturális élményért, mielőtt lezárja a napot.",
+        "ro": "O zi perfectă pentru bicicliști. Începeți în inima orașului la Muzeul Waterfront, înainte de a lua traseul pitoresc de coastă spre Mumbles. Acolo, explorați zidurile antice ale Castelului Oystermouth și bucurați-vă de prânz pe malul mării. Pe drumul de întoarcere, opriți-vă la istoricul Grand Theatre pentru o doză de cultură înainte de a încheia ziua.",
+        "en": "A perfect day for cyclists. Start in the heart of the city at the Waterfront Museum before taking the scenic coastal route to Mumbles. There, explore the ancient walls of Oystermouth Castle and enjoy lunch by the sea. On your return, stop by the historic Grand Theatre for a touch of culture before calling it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Joe's Ice Cream",
+            "tip": "Ein lokaler Favorit in Mumbles, den man nicht verpassen sollte."
+          },
+          {
+            "name": "Fish and Chips am Pier",
+            "tip": "Ein klassisches britisches Erlebnis am Meer."
+          },
+          {
+            "name": "The Mumbles Oyster Company",
+            "tip": "Probieren Sie frische, lokale Austern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Joe's fagylalt",
+            "tip": "Helyi kedvenc Mumbles-ben, amit nem szabad kihagyni."
+          },
+          {
+            "name": "Fish and chips a mólónál",
+            "tip": "Klasszikus brit tengerparti élmény."
+          },
+          {
+            "name": "The Mumbles Oyster Company",
+            "tip": "Kóstoljon friss, helyi osztrigát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețata Joe's",
+            "tip": "Un favorit local în Mumbles, de neratat."
+          },
+          {
+            "name": "Fish and chips la debarcader",
+            "tip": "O experiență britanică clasică pe malul mării."
+          },
+          {
+            "name": "The Mumbles Oyster Company",
+            "tip": "Gustați stridii proaspete, locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Joe's Ice Cream",
+            "tip": "A local favourite in Mumbles, not to be missed."
+          },
+          {
+            "name": "Fish and Chips on the pier",
+            "tip": "A classic British seaside experience."
+          },
+          {
+            "name": "The Mumbles Oyster Company",
+            "tip": "Try some fresh local oysters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "Ein kleiner Abstecher vom Radweg für einen ruhigen Moment.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bracelet Bay",
+            "tip": "Eine abgeschiedene Bucht gleich hinter Mumbles Head.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Mumbles Hill",
+            "tip": "Eine kurze Wanderung für eine fantastische Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "Rövid kitérő a kerékpárútról egy csendes pillanatért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bracelet Bay",
+            "tip": "Egy eldugott öböl közvetlenül a Mumbles Head mögött.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Kilátó a Mumbles-hegyen",
+            "tip": "Rövid séta egy fantasztikus kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Clyne",
+            "tip": "Un mic ocol de pe pista de biciclete pentru un moment de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Golful Bracelet",
+            "tip": "Un golf retras chiar după Capul Mumbles.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Punct de vedere pe Mumbles Hill",
+            "tip": "O scurtă drumeție pentru o priveliște fantastică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Clyne Gardens",
+            "tip": "A short detour off the cycle path for a peaceful moment.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bracelet Bay",
+            "tip": "A secluded bay just past Mumbles Head.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Viewpoint on Mumbles Hill",
+            "tip": "A short hike up for a fantastic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mehrere Geschäfte entlang der Bucht bieten Leihfahrräder für den Tag an."
+          },
+          {
+            "name": "Kunstgalerien in Mumbles",
+            "tip": "Finden Sie einzigartige Kunstwerke, die von der Küste inspiriert sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Az öböl mentén több üzlet is kínál bérelhető kerékpárokat a napra."
+          },
+          {
+            "name": "Művészeti galériák Mumbles-ben",
+            "tip": "Találjon egyedi, tengerpart ihlette műalkotásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere de biciclete",
+            "tip": "Mai multe magazine de-a lungul golfului oferă biciclete de închiriat pentru o zi."
+          },
+          {
+            "name": "Galerii de artă în Mumbles",
+            "tip": "Găsiți piese de artă unice, inspirate de coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Hire Shops",
+            "tip": "Several shops along the bay offer rental bikes for the day."
+          },
+          {
+            "name": "Art Galleries in Mumbles",
+            "tip": "Find unique pieces of art inspired by the coast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Wetterbericht; der Wind kann an der Küste stark sein.",
+          "Nehmen Sie viel Wasser und Snacks mit.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Die Küstenroute ist bei Fußgängern und Radfahrern sehr beliebt, seien Sie also rücksichtsvoll."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárás-előrejelzést; a szél erős lehet a tengerparton.",
+          "Vigyen magával sok vizet és harapnivalót.",
+          "Mindig zárja le a kerékpárját, amikor elhagyja.",
+          "A tengerparti út népszerű a gyalogosok és a kerékpárosok körében, ezért legyen körültekintő."
+        ],
+        "ro": [
+          "Verificați prognoza meteo; vântul poate fi puternic pe coastă.",
+          "Luați cu voi multă apă și gustări.",
+          "Încuiăți întotdeauna bicicleta când o lăsați.",
+          "Traseul de coastă este popular printre pietoni și bicicliști, așa că fiți atenți."
+        ],
+        "en": [
+          "Check the weather forecast; the wind can be strong on the coast.",
+          "Bring plenty of water and snacks.",
+          "Always lock your bike when leaving it.",
+          "The coastal path is popular with pedestrians and cyclists, so be considerate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 24.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Clyne Gardens",
+            "hu": "Clyne Gardens",
+            "ro": "Grădinile Clyne",
+            "en": "Clyne Gardens"
+          },
+          "coords": [
+            -4.009,
+            51.597
+          ],
+          "category": "parks",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang. Parkplätze sind vorhanden.",
+            "hu": "Kezdje a napot egy békés sétával. Parkolási lehetőség biztosított.",
+            "ro": "Începeți ziua cu o plimbare liniștită. Parcarea este disponibilă.",
+            "en": "Start the day with a tranquil walk. Parking available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Oystermouth Castle",
+            "hu": "Oystermouth vára",
+            "ro": "Castelul Oystermouth",
+            "en": "Oystermouth Castle"
+          },
+          "coords": [
+            -4.005,
+            51.579
+          ],
+          "category": "castles",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Mumbles und parken Sie. Das Schloss ist nur einen kurzen Spaziergang entfernt.",
+            "hu": "Vezessen Mumbles-be és parkoljon le. A vár rövid sétára található.",
+            "ro": "Conduceți spre Mumbles și parcați. Castelul este la o scurtă plimbare.",
+            "en": "Drive to Mumbles and park. The castle is a short walk from the car parks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mumbles Pier",
+            "hu": "Mumbles móló",
+            "ro": "Debarcaderul Mumbles",
+            "en": "Mumbles Pier"
+          },
+          "coords": [
+            -4.025,
+            51.572
+          ],
+          "category": "promenades",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Schloss zum Pier für die klassische Küstenerfahrung.",
+            "hu": "Sétáljon a vártól a mólóig a klasszikus tengerparti élményért.",
+            "ro": "Plimbați-vă de la castel la debarcader pentru experiența clasică de coastă.",
+            "en": "Stroll from the castle to the pier for the classic seaside experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Mumbles",
+            "hu": "Ebéd Mumbles-ben",
+            "ro": "Prânz în Mumbles",
+            "en": "Lunch in Mumbles"
+          },
+          "coords": [
+            -4.01,
+            51.575
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie zu Ihrem Auto zurück, bevor Sie zum nächsten Cluster fahren.",
+            "hu": "Térjen vissza az autójához, mielőtt a következő helyszíncsoporthoz hajtana.",
+            "ro": "Întoarceți-vă la mașină înainte de a conduce spre următorul grup de atracții.",
+            "en": "Walk back towards your car before driving to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterfront Museum",
+            "hu": "Nemzeti Tengerparti Múzeum",
+            "ro": "Muzeul Național Waterfront",
+            "en": "National Waterfront Museum"
+          },
+          "coords": [
+            -3.935,
+            51.617
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Stadtzentrum und parken Sie in der Nähe des Jachthafens.",
+            "hu": "Vezessen vissza a városközpontba, és parkoljon a kikötő közelében.",
+            "ro": "Conduceți înapoi în centrul orașului și parcați lângă portul de agrement.",
+            "en": "Drive back to the city centre and park near the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Dylan Thomas Centre",
+            "hu": "Dylan Thomas Központ",
+            "ro": "Centrul Dylan Thomas",
+            "en": "Dylan Thomas Centre"
+          },
+          "coords": [
+            -3.939,
+            51.6175
+          ],
+          "category": "cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Waterfront Museum, der sich dem Leben des Dichters widmet.",
+            "hu": "Rövid séta a Tengerparti Múzeumtól, a költő életének szentelve.",
+            "ro": "O scurtă plimbare de la Muzeul Waterfront, dedicată vieții poetului.",
+            "en": "A short walk from the Waterfront Museum, dedicated to the poet's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Swansea Castle",
+            "hu": "Swansea vára",
+            "ro": "Castelul Swansea",
+            "en": "Swansea Castle"
+          },
+          "coords": [
+            -3.942,
+            51.6205
+          ],
+          "category": "castles",
+          "arrive_at": "18:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf die Burgruine im Abendlicht.",
+            "hu": "A napot a várromok esti fényben való megtekintésével zárja.",
+            "ro": "Încheiați ziua cu o privire asupra ruinelor castelului în lumina serii.",
+            "en": "End the day by viewing the castle ruins in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt außerhalb des Zentrums in den ruhigen Clyne Gardens. Dann fahren Sie zum Küstencluster von Mumbles, wo Sie das Oystermouth Castle erkunden, am Pier spazieren gehen und zu Mittag essen, alles zu Fuß. Am Nachmittag fahren Sie zurück in die Stadt zum Jachthafen-Cluster, um die Museen zu besuchen und den Spuren von Dylan Thomas zu folgen, bevor Sie den Tag beenden.",
+        "hu": "A nap a központtól távol, a békés Clyne Gardensben kezdődik. Ezután Mumbles tengerparti klaszteréhez hajt, ahol gyalog fedezi fel az Oystermouth várat, sétál a mólón és ebédel. Délután visszautazik a városba a kikötői klaszterhez, hogy meglátogassa a múzeumokat és Dylan Thomas nyomába eredjen, mielőtt befejezi a napot.",
+        "ro": "Ziua începe în afara centrului, în liniștitele Grădini Clyne. Apoi, conduceți spre grupul de atracții de coastă din Mumbles, unde explorați Castelul Oystermouth, vă plimbați pe debarcader și luați prânzul, totul pe jos. După-amiaza, reveniți în oraș la grupul de atracții din port, pentru a vizita muzeele și a călca pe urmele lui Dylan Thomas înainte de a încheia ziua.",
+        "en": "The day starts out of the centre at the tranquil Clyne Gardens. You then drive to the coastal cluster of Mumbles, exploring Oystermouth Castle, walking the pier, and having lunch, all on foot. In the afternoon, you drive back into the city to the marina cluster to visit the museums and trace Dylan Thomas's steps before finishing your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Verdi's",
+            "tip": "Ein Café im italienischen Stil in Mumbles, bekannt für sein Eis und seinen Kaffee."
+          },
+          {
+            "name": "The Mermaid Cafe Bar & Restaurant",
+            "tip": "Bietet eine großartige Aussicht und eine abwechslungsreiche Speisekarte in Mumbles."
+          },
+          {
+            "name": "Swansea Market",
+            "tip": "Holen Sie sich unterwegs einige lokale Snacks wie Welsh Cakes oder herzhafte Pasteten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verdi's",
+            "tip": "Olasz stílusú kávézó Mumbles-ben, híres a fagylaltjáról és a kávéjáról."
+          },
+          {
+            "name": "The Mermaid Cafe Bar & Restaurant",
+            "tip": "Nagyszerű kilátást és változatos menüt kínál Mumbles-ben."
+          },
+          {
+            "name": "Swansea Market",
+            "tip": "Vegyél útközben helyi harapnivalókat, például walesi süteményt vagy sós pitéket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verdi's",
+            "tip": "O cafenea în stil italian în Mumbles, renumită pentru înghețată și cafea."
+          },
+          {
+            "name": "The Mermaid Cafe Bar & Restaurant",
+            "tip": "Oferă priveliști minunate și un meniu variat în Mumbles."
+          },
+          {
+            "name": "Piața Swansea",
+            "tip": "Luați niște gustări locale precum prăjiturile galeze sau plăcintele sărate pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verdi's",
+            "tip": "An Italian-style cafe in Mumbles, famous for its ice cream and coffee."
+          },
+          {
+            "name": "The Mermaid Cafe Bar & Restaurant",
+            "tip": "Offers great views and a varied menu in Mumbles."
+          },
+          {
+            "name": "Swansea Market",
+            "tip": "Pick up some local snacks like Welsh Cakes or savoury pasties for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Three Cliffs Bay",
+            "tip": "Eine kurze Autofahrt von Swansea entfernt für eine dramatische Küstenlandschaft. Nur bei Ebbe zugänglich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rhossili Bay",
+            "tip": "Oft zu einem der besten Strände Großbritanniens gewählt. Eine längere Fahrt, aber die Aussicht ist es wert.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Clyne Valley Country Park",
+            "tip": "Ein ruhiger Rückzugsort mit Waldwegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Three Cliffs Bay",
+            "tip": "Rövid autóútra Swansea-tól, drámai tengerparti tájért. Csak apálykor érhető el.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rhossili-öböl",
+            "tip": "Gyakran választják Nagy-Britannia egyik legjobb strandjának. Hosszabb út, de a kilátás megéri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Clyne Valley Country Park",
+            "tip": "Békés menedék erdei ösvényekkel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Three Cliffs",
+            "tip": "O scurtă călătorie cu mașina din Swansea pentru un peisaj de coastă dramatic. Accesibil doar la reflux.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golful Rhossili",
+            "tip": "Votată adesea una dintre cele mai bune plaje din Marea Britanie. O călătorie mai lungă, dar priveliștea merită.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Național Clyne Valley",
+            "tip": "Un refugiu liniștit cu poteci de pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Three Cliffs Bay",
+            "tip": "A short drive from Swansea for dramatic coastal scenery. Only accessible at low tide.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rhossili Bay",
+            "tip": "Often voted one of the UK's best beaches. A longer drive, but worth it for the views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Clyne Valley Country Park",
+            "tip": "A peaceful retreat with woodland trails.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gower Gallery, Mumbles",
+            "tip": "Wunderschöne lokale Kunst und Handwerk."
+          },
+          {
+            "name": "Lovespoon Gallery",
+            "tip": "Kaufen Sie ein traditionelles walisisches Lovespoon als einzigartiges Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gower Galéria, Mumbles",
+            "tip": "Gyönyörű helyi művészet és kézműves termékek."
+          },
+          {
+            "name": "Szeretetkanál Galéria",
+            "tip": "Vásároljon egy hagyományos walesi szeretetkanalat egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Gower, Mumbles",
+            "tip": "Artă și meșteșuguri locale frumoase."
+          },
+          {
+            "name": "Galeria Lovespoon",
+            "tip": "Cumpărați o lingură de dragoste tradițională galeză ca suvenir unic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gower Gallery, Mumbles",
+            "tip": "Beautiful local art and crafts."
+          },
+          {
+            "name": "Lovespoon Gallery",
+            "tip": "Buy a traditional Welsh lovespoon as a unique souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Stadtzentrum und in Mumbles teuer sein, also planen Sie Ihr Budget entsprechend.",
+          "Achten Sie auf Parkbeschränkungen und -zeiten.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie also zusätzliche Reisezeit ein.",
+          "Ein GPS ist unerlässlich, um durch die Einbahnstraßen der Stadt zu navigieren."
+        ],
+        "hu": [
+          "A parkolás drága lehet a városközpontban és Mumbles-ben, ezért tervezze meg a költségvetését.",
+          "Ügyeljen a parkolási korlátozásokra és időpontokra.",
+          "A forgalom csúcsidőben sűrű lehet, ezért tervezzen plusz utazási időt.",
+          "GPS elengedhetetlen a város egyirányú utcáin való navigáláshoz."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă în centrul orașului și în Mumbles, așa că planificați-vă bugetul în consecință.",
+          "Fiți atenți la restricțiile și orele de parcare.",
+          "Traficul poate fi aglomerat la orele de vârf, așa că alocați timp suplimentar de călătorie.",
+          "Un GPS este esențial pentru a naviga pe străzile cu sens unic ale orașului."
+        ],
+        "en": [
+          "Parking can be expensive in the city centre and Mumbles, so budget accordingly.",
+          "Be aware of parking restrictions and timings.",
+          "Traffic can be heavy during peak hours, so allow for extra travel time.",
+          "A GPS is essential for navigating the city's one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guildhall",
+            "hu": "Céhek háza",
+            "ro": "Guildhall",
+            "en": "Guildhall"
+          },
+          "coords": [
+            -3.96,
+            51.616
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie am beeindruckenden Gildenhaus; viele Buslinien halten in der Nähe.",
+            "hu": "Kezdje a lenyűgöző céhháznál; számos buszjárat megáll a közelben.",
+            "ro": "Începeți de la impresionanta Guildhall; multe rute de autobuz opresc în apropiere.",
+            "en": "Start at the impressive Guildhall; many bus routes stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Swansea Bay Promenade",
+            "hu": "Swansea-öböl sétány",
+            "ro": "Promenada Golfului Swansea",
+            "en": "Swansea Bay Promenade"
+          },
+          "coords": [
+            -3.955,
+            51.61
+          ],
+          "category": "promenades",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Guildhall zur Küste.",
+            "hu": "Rövid séta a Guildhalltól a tengerpartig.",
+            "ro": "O scurtă plimbare de la Guildhall la malul mării.",
+            "en": "A short walk from the Guildhall to the seafront."
+          }
+        },
+        {
+          "name": {
+            "de": "National Waterfront Museum",
+            "hu": "Nemzeti Tengerparti Múzeum",
+            "ro": "Muzeul Național Waterfront",
+            "en": "National Waterfront Museum"
+          },
+          "coords": [
+            -3.935,
+            51.617
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus entlang der Uferpromenade zum Jachthafen-Bereich.",
+            "hu": "Menjen busszal a vízpart mentén a kikötő területére.",
+            "ro": "Luați un autobuz de-a lungul malului mării spre zona portului de agrement.",
+            "en": "Take a bus along the waterfront to the marina area."
+          }
+        },
+        {
+          "name": {
+            "de": "Swansea Museum",
+            "hu": "Swansea Múzeum",
+            "ro": "Muzeul Swansea",
+            "en": "Swansea Museum"
+          },
+          "coords": [
+            -3.9385,
+            51.618
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um mehr über die lokale Geschichte der Stadt zu erfahren.",
+            "hu": "Rövid séta, hogy többet megtudjon a város helytörténetéről.",
+            "ro": "O scurtă plimbare pentru a afla mai multe despre istoria locală a orașului.",
+            "en": "A short walk to learn more about the city's local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Oystermouth Castle",
+            "hu": "Oystermouth vára",
+            "ro": "Castelul Oystermouth",
+            "en": "Oystermouth Castle"
+          },
+          "coords": [
+            -4.005,
+            51.579
+          ],
+          "category": "castles",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum nach Mumbles für einen Tapetenwechsel.",
+            "hu": "Menjen busszal a városközpontból Mumbles-be egy kis környezetváltozásért.",
+            "ro": "Luați un autobuz din centrul orașului spre Mumbles pentru o schimbare de peisaj.",
+            "en": "Take a bus from the city centre to Mumbles for a change of scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Mumbles",
+            "hu": "Vacsora Mumbles-ben",
+            "ro": "Cină în Mumbles",
+            "en": "Dinner in Mumbles"
+          },
+          "coords": [
+            -4.01,
+            51.575
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Abendessen in einem der vielen Restaurants von Mumbles.",
+            "hu": "A napot vacsorával zárja Mumbles egyik számos éttermében.",
+            "ro": "Încheiați ziua cu o cină la unul dintre numeroasele restaurante din Mumbles.",
+            "en": "End the day with dinner at one of Mumbles' many restaurants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im architektonischen Glanz des Guildhall und spazieren Sie dann zur Promenade für etwas Seeluft. Eine kurze Busfahrt bringt Sie zu den Museen am Wasser, wo Sie in die Geschichte eintauchen können. Am Nachmittag bringt Sie ein weiterer Bus in das charmante Dorf Mumbles, wo Sie die Burg erkunden und den Tag mit einem gemütlichen Abendessen ausklingen lassen.",
+        "hu": "Kezdje a napot a Guildhall építészeti pompájánál, majd sétáljon le a sétányra egy kis tengeri levegőért. Egy rövid buszút elviszi a vízparti múzeumokhoz, ahol elmerülhet a történelemben. Délután egy másik busz Mumbles bájos falujába viszi, ahol felfedezheti a várat, és egy kellemes vacsorával zárhatja a napot.",
+        "ro": "Începeți ziua la splendoarea arhitecturală a Guildhall, apoi plimbați-vă până la promenadă pentru o gură de aer marin. O scurtă călătorie cu autobuzul vă duce la muzeele de pe malul apei pentru o imersiune în istorie. După-amiaza, un alt autobuz vă duce în fermecătorul sat Mumbles pentru a explora castelul și a încheia ziua cu o cină relaxantă.",
+        "en": "Start your day at the architectural splendour of the Guildhall, then walk to the promenade for some sea air. A short bus ride takes you to the waterfront museums for an immersion in history. In the afternoon, another bus whisks you away to the charming village of Mumbles to explore the castle and end your day with a leisurely dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Secret Bar & Kitchen",
+            "tip": "Versteckt am Strand, ideal für einen Drink oder eine Mahlzeit."
+          },
+          {
+            "name": "The Pilot Inn",
+            "tip": "Eine traditionelle Kneipe, die für ihr Bier und ihre gemütliche Atmosphäre bekannt ist."
+          },
+          {
+            "name": "Gower Seafood Hut",
+            "tip": "Frische Meeresfrüchte zum Mitnehmen in Mumbles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Secret Bar & Kitchen",
+            "tip": "A strandon elrejtve, ideális egy italra vagy étkezésre."
+          },
+          {
+            "name": "The Pilot Inn",
+            "tip": "Hagyományos kocsma, híres a söréről és a hangulatos légköréről."
+          },
+          {
+            "name": "Gower Seafood Hut",
+            "tip": "Friss tenger gyümölcsei elvitelre Mumbles-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Secret Bar & Kitchen",
+            "tip": "Ascuns pe plajă, excelent pentru o băutură sau o masă."
+          },
+          {
+            "name": "The Pilot Inn",
+            "tip": "Un pub tradițional cunoscut pentru berea și atmosfera sa primitoare."
+          },
+          {
+            "name": "Gower Seafood Hut",
+            "tip": "Fructe de mare proaspete la pachet în Mumbles."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Secret Bar & Kitchen",
+            "tip": "Tucked away on the beach, great for a drink or a meal."
+          },
+          {
+            "name": "The Pilot Inn",
+            "tip": "A traditional pub known for its ale and cosy atmosphere."
+          },
+          {
+            "name": "Gower Seafood Hut",
+            "tip": "Fresh takeaway seafood in Mumbles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten Singleton Park",
+            "tip": "Ein friedlicher Ort in der Nähe der Universität.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limeslade Bay",
+            "tip": "Ein kleiner, felsiger Strand, nur einen kurzen Spaziergang vom Mumbles Pier entfernt.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Uplands",
+            "tip": "Erkunden Sie die Gegend, in der Dylan Thomas lebte, für ein ruhigeres, lokales Gefühl.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Singleton Park Botanikus Kert",
+            "tip": "Békés hely az egyetem közelében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limeslade Bay",
+            "tip": "Kis, sziklás strand, rövid sétára a Mumbles mólótól.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Uplands",
+            "tip": "Fedezze fel a környéket, ahol Dylan Thomas élt, egy csendesebb, helyi hangulatért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Botanice Singleton Park",
+            "tip": "Un loc liniștit lângă universitate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Golful Limeslade",
+            "tip": "O plajă mică, stâncoasă, la o scurtă plimbare de Debarcaderul Mumbles.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Uplands",
+            "tip": "Explorați zona în care a trăit Dylan Thomas pentru o atmosferă locală mai liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Singleton Park Botanical Gardens",
+            "tip": "A peaceful spot near the university.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limeslade Bay",
+            "tip": "A small, rocky beach a short walk from Mumbles Pier.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Uplands",
+            "tip": "Explore the area where Dylan Thomas lived for a quieter, local feel.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oxford Street",
+            "tip": "Die Haupteinkaufsstraße im Stadtzentrum."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Voller unabhängiger Boutiquen und Galerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oxford Street",
+            "tip": "A fő bevásárlóutca a városközpontban."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Tele független butikokkal és galériákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Oxford",
+            "tip": "Principala stradă comercială din centrul orașului."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Plin de buticuri și galerii independente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oxford Street",
+            "tip": "The main shopping high street in the city centre."
+          },
+          {
+            "name": "Mumbles",
+            "tip": "Full of independent boutiques and galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für das beste Preis-Leistungs-Verhältnis.",
+          "Laden Sie die Bus-App des örtlichen Betreibers herunter, um Fahrpläne und Live-Tracking zu erhalten.",
+          "Busse können an Wochenenden und Feiertagen seltener fahren.",
+          "Halten Sie die Hand bereit, um den Bus herbeizurufen, da er nicht an jeder Haltestelle automatisch anhält."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a legjobb ár-érték arányért.",
+          "Töltse le a helyi busztársaság alkalmazását a menetrendekért és az élő követésért.",
+          "A buszok ritkábban közlekedhetnek hétvégén és ünnepnapokon.",
+          "Tartsa a kezét készenlétben, hogy leintse a buszt, mivel nem áll meg automatikusan minden megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru cel mai bun raport calitate-preț.",
+          "Descărcați aplicația operatorului local de autobuze pentru orare și urmărire în direct.",
+          "Autobuzele pot circula mai rar în weekenduri și de sărbătorile legale.",
+          "Fiți gata să faceți semn autobuzului, deoarece nu se oprește automat în fiecare stație."
+        ],
+        "en": [
+          "Buy a day rider bus ticket for the best value.",
+          "Download the local operator's bus app for timetables and live tracking.",
+          "Buses can be less frequent on weekends and bank holidays.",
+          "Be ready to put your hand out to hail the bus, as they don't automatically stop at every stop."
+        ]
+      }
+    }
+  }
+}

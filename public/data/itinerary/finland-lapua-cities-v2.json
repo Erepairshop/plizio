@@ -1,0 +1,1276 @@
+{
+  "city_id": "finland-lapua-cities-v2",
+  "anchor": {
+    "name": "Lapua",
+    "coords": [
+      23.0031,
+      62.9739
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Denkmal der Lapua-Bewegung",
+            "hu": "A Lapua Mozgalom emlékműve",
+            "ro": "Monumentul Mișcării Lapua",
+            "en": "Monument of the Lapua Movement"
+          },
+          "coords": [
+            23.004,
+            62.9735
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, aber wichtiger Stopp, um die lokale Geschichte zu verstehen.",
+            "hu": "Rövid, de fontos megálló a helyi történelem megértéséhez.",
+            "ro": "O oprire scurtă, dar importantă pentru a înțelege istoria locală.",
+            "en": "A short but important stop to understand the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lapua",
+            "hu": "Lapua-i székesegyház",
+            "ro": "Catedrala din Lapua",
+            "en": "Lapua Cathedral"
+          },
+          "coords": [
+            23.0065,
+            62.972
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende Orgel, eine der größten in Finnland.",
+            "hu": "Figyelje meg a lenyűgöző orgonát, amely Finnország egyik legnagyobbja.",
+            "ro": "Observați orga impresionantă, una dintre cele mai mari din Finlanda.",
+            "en": "Note the impressive organ, one of the largest in Finland."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vanha Paukku",
+            "hu": "Vanha Paukku Kulturális Központ",
+            "ro": "Centrul Cultural Vanha Paukku",
+            "en": "Vanha Paukku Cultural Centre"
+          },
+          "coords": [
+            23.001,
+            62.97
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierender Komplex in einer alten Patronenfabrik. Perfekt für einen Kaffee.",
+            "hu": "Lenyűgöző komplexum egy régi lőszergyárban. Tökéletes egy kávéra.",
+            "ro": "Un complex fascinant într-o veche fabrică de cartușe. Perfect pentru o cafea.",
+            "en": "A fascinating complex in an old cartridge factory. Perfect for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Lapua & Radio- und Fernsehmuseum",
+            "hu": "Lapua Művészeti Múzeum & Rádió- és TV-múzeum",
+            "ro": "Muzeul de Artă Lapua & Muzeul Radio și TV",
+            "en": "Lapua Art Museum & Radio and TV Museum"
+          },
+          "coords": [
+            23.0012,
+            62.9698
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich im Vanha Paukku, planen Sie genug Zeit für beide Museen ein.",
+            "hu": "A Vanha Paukku központban található, szánjon elég időt mindkét múzeumra.",
+            "ro": "Situat în Vanha Paukku, planificați suficient timp pentru ambele muzee.",
+            "en": "Located within Vanha Paukku, plan enough time for both museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Jokilaakso-Garten",
+            "hu": "Jokilaakso kert",
+            "ro": "Grădina Jokilaakso",
+            "en": "Jokilaakso Garden"
+          },
+          "coords": [
+            23.0,
+            62.9715
+          ],
+          "category": "parks",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um am Flussufer zu entspannen und den Tag ausklingen zu lassen.",
+            "hu": "Egy szép hely a folyóparton való pihenéshez és a nap lezárásához.",
+            "ro": "Un loc frumos pentru a vă relaxa pe malul râului și a încheia ziua.",
+            "en": "A lovely place to relax by the riverbank and wrap up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Einblick in die Geschichte am Denkmal der Lapua-Bewegung. Die majestätische Kathedrale von Lapua erwartet Sie als Nächstes mit ihrer beeindruckenden Architektur. Am Mittag tauchen Sie im Kulturzentrum Vanha Paukku, einer umgebauten Fabrik am Flussufer, in die Kultur ein. Verbringen Sie den Nachmittag mit Kunst und Technik in den Museen, bevor Sie im ruhigen Jokilaakso-Garten entspannen. Der Abend ist perfekt für ein herzhaftes finnisches Abendessen.",
+        "hu": "Kezdje a napot a Lapua Mozgalom emlékművénél, hogy bepillantást nyerjen a történelembe. Ezután a fenséges Lapua-i székesegyház várja lenyűgöző építészetével. Délben merüljön el a kultúrában a Vanha Paukku Kulturális Központban, egy átalakított gyárban a folyóparton. Töltse a délutánt a múzeumokban a művészet és a technológia felfedezésével, mielőtt a békés Jokilaakso kertben pihenne. Az este tökéletes egy kiadós finn vacsorához.",
+        "ro": "Începeți ziua cu o incursiune în istorie la Monumentul Mișcării Lapua. Catedrala maiestuoasă din Lapua vă așteaptă apoi cu arhitectura sa impresionantă. La prânz, scufundați-vă în cultură la Centrul Cultural Vanha Paukku, o fabrică reconvertită pe malul râului. Petreceți după-amiaza explorând arta și tehnologia la muzee înainte de a vă relaxa în liniștita Grădină Jokilaakso. Seara este perfectă pentru o cină finlandeză copioasă.",
+        "en": "Start your day with a glimpse into history at the Monument of the Lapua Movement. The majestic Lapua Cathedral awaits next with its impressive architecture. At midday, immerse yourself in culture at the Vanha Paukku Cultural Centre, a converted factory on the riverbank. Spend the afternoon exploring art and technology at the museums before relaxing in the peaceful Jokilaakso Garden. The evening is perfect for a hearty Finnish dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leipäjuusto mit Moltebeerenmarmelade",
+            "tip": "Probieren Sie diesen 'quietschenden Käse', ein einzigartiges finnisches Dessert."
+          },
+          {
+            "name": "Lachs-Suppe (Lohikeitto)",
+            "tip": "Eine cremige und wärmende Suppe, perfekt für jede Jahreszeit."
+          },
+          {
+            "name": "Restaurant-Café Vanha Paukku",
+            "tip": "Genießen Sie ein Mittagessen oder einen Kaffee in historischer Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leipäjuusto hamvas szeder lekvárral",
+            "tip": "Kóstolja meg ezt a 'nyikorgó sajtot', egy egyedi finn desszertet."
+          },
+          {
+            "name": "Lazacleves (Lohikeitto)",
+            "tip": "Krémes és melengető leves, tökéletes minden évszakban."
+          },
+          {
+            "name": "Vanha Paukku Étterem-Kávézó",
+            "tip": "Ebédeljen vagy kávézzon történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leipäjuusto cu gem de mure pitice",
+            "tip": "Încercați această 'brânză scârțâitoare', un desert finlandez unic."
+          },
+          {
+            "name": "Supă de somon (Lohikeitto)",
+            "tip": "O supă cremoasă și încălzitoare, perfectă pentru orice anotimp."
+          },
+          {
+            "name": "Restaurant-Café Vanha Paukku",
+            "tip": "Savurați un prânz sau o cafea într-o atmosferă istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leipäjuusto with Cloudberry Jam",
+            "tip": "Try this 'squeaky cheese', a unique Finnish dessert."
+          },
+          {
+            "name": "Salmon Soup (Lohikeitto)",
+            "tip": "A creamy and warming soup, perfect for any season."
+          },
+          {
+            "name": "Restaurant-Café Vanha Paukku",
+            "tip": "Enjoy lunch or a coffee in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Lapuanjoki",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses im Jokilaakso-Garten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedrale in der Stille",
+            "tip": "Besuchen Sie die Kathedrale am späten Nachmittag für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Lapuanjoki folyó partja",
+            "tip": "Keressen egy csendes padot a folyó mentén a Jokilaakso kertben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A székesegyház csendje",
+            "tip": "Látogasson el a székesegyházba késő délután egy csendes elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Lapuanjoki",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului în Grădina Jokilaakso.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Catedrala în liniște",
+            "tip": "Vizitați catedrala după-amiaza târziu pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Lapuanjoki River",
+            "tip": "Find a quiet bench along the river in the Jokilaakso Garden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral in Silence",
+            "tip": "Visit the cathedral in the late afternoon for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Vanha Paukku",
+            "tip": "Finden Sie einzigartige, lokal hergestellte Souvenirs."
+          },
+          {
+            "name": "Lapua Puukko",
+            "tip": "Suchen Sie nach einem traditionellen finnischen Messer, einem berühmten lokalen Produkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok a Vanha Paukku-ban",
+            "tip": "Találjon egyedi, helyben készült szuveníreket."
+          },
+          {
+            "name": "Lapua Puukko",
+            "tip": "Keressen egy hagyományos finn kést, egy híres helyi terméket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Vanha Paukku",
+            "tip": "Găsiți suveniruri unice, realizate local."
+          },
+          {
+            "name": "Lapua Puukko",
+            "tip": "Căutați un cuțit tradițional finlandez, un produs local renumit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in Vanha Paukku",
+            "tip": "Find unique, locally made souvenirs."
+          },
+          {
+            "name": "Lapua Puukko",
+            "tip": "Look for a traditional Finnish knife, a famous local product."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den ganzen Tag laufen werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, insbesondere außerhalb der Saison.",
+          "Ein leichter Regenmantel ist immer eine gute Idee, auch an sonnigen Tagen.",
+          "Die meisten Orte akzeptieren Karten, aber etwas Bargeld für kleine Einkäufe ist nützlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel egész nap gyalogolni fog.",
+          "Ellenőrizze előre a múzeumok nyitvatartási idejét, különösen szezonon kívül.",
+          "Egy könnyű esőkabát mindig jó ötlet, még napos időben is.",
+          "A legtöbb helyen elfogadják a kártyát, de némi készpénz hasznos lehet kisebb vásárlásokhoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos toată ziua.",
+          "Verificați programul de funcționare al muzeelor în avans, mai ales în afara sezonului.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună, chiar și în zilele însorite.",
+          "Majoritatea locurilor acceptă carduri, dar este util să aveți numerar pentru cumpărături mici."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking all day.",
+          "Check museum opening hours in advance, especially outside the main season.",
+          "A light raincoat is always a good idea, even on sunny days.",
+          "Most places accept cards, but having some cash is useful for small purchases."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Lapua",
+            "hu": "Lapua-i székesegyház",
+            "ro": "Catedrala din Lapua",
+            "en": "Lapua Cathedral"
+          },
+          "coords": [
+            23.0065,
+            62.972
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die morgendliche Ruhe zu genießen.",
+            "hu": "Kezdje itt, hogy élvezze a reggeli csendet.",
+            "ro": "Începeți aici pentru a vă bucura de liniștea dimineții.",
+            "en": "Start here to enjoy the morning quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vanha Paukku",
+            "hu": "Vanha Paukku Kulturális Központ",
+            "ro": "Centrul Cultural Vanha Paukku",
+            "en": "Vanha Paukku Cultural Centre"
+          },
+          "coords": [
+            23.001,
+            62.97
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die verschiedenen Gebäude.",
+            "hu": "Zárja le a kerékpárt és fedezze fel a különböző épületeket.",
+            "ro": "Parcați bicicleta și explorați diferitele clădiri.",
+            "en": "Park your bike and explore the different buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Lapua",
+            "hu": "Lapua Művészeti Múzeum",
+            "ro": "Muzeul de Artă Lapua",
+            "en": "Lapua Art Museum"
+          },
+          "coords": [
+            23.0012,
+            62.9698
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber finnischer Kunst.",
+            "hu": "A finn művészet kedvelőinek kötelező.",
+            "ro": "O necesitate pentru iubitorii de artă finlandeză.",
+            "en": "A must-see for lovers of Finnish art."
+          }
+        },
+        {
+          "name": {
+            "de": "Patruuna-Arena",
+            "hu": "Patruuna Aréna",
+            "ro": "Arena Patruuna",
+            "en": "Patruuna Arena"
+          },
+          "coords": [
+            22.995,
+            62.975
+          ],
+          "category": "cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie nach, ob lokale Veranstaltungen stattfinden.",
+            "hu": "Nézze meg, hogy vannak-e helyi események.",
+            "ro": "Verificați dacă au loc evenimente locale.",
+            "en": "Check to see if there are any local events happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Jokilaakso-Garten",
+            "hu": "Jokilaakso kert",
+            "ro": "Grădina Jokilaakso",
+            "en": "Jokilaakso Garden"
+          },
+          "coords": [
+            23.0,
+            62.9715
+          ],
+          "category": "parks",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick-Mittagessen am Fluss.",
+            "hu": "Tökéletes egy piknikebédhez a folyóparton.",
+            "ro": "Perfect pentru un prânz la picnic pe malul râului.",
+            "en": "Perfect for a picnic lunch by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Simpsiö-Hügel",
+            "hu": "Simpsiö-hegy",
+            "ro": "Dealul Simpsiö",
+            "en": "Simpsiö Hill"
+          },
+          "coords": [
+            23.07,
+            62.95
+          ],
+          "category": "viewpoints",
+          "arrive_at": "15:23",
+          "stay_min": 102,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radtour ist anspruchsvoll, aber die Aussicht von oben ist es wert. Bringen Sie Wasser mit!",
+            "hu": "A kerékpárút kihívást jelent, de a kilátás a csúcsról megéri. Hozzon vizet!",
+            "ro": "Plimbarea cu bicicleta este solicitantă, dar priveliștea de sus merită efortul. Aduceți apă!",
+            "en": "The bike ride is challenging, but the view from the top is worth it. Bring water!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der beeindruckenden Kathedrale von Lapua. Fahren Sie zum Kulturzentrum Vanha Paukku, erkunden Sie es zu Fuß und besuchen Sie das Kunstmuseum. Am Mittag machen Sie einen kurzen Abstecher zur Patruuna-Arena, bevor Sie im Jokilaakso-Garten für ein Picknick anhalten. Der Nachmittag ist für die große Herausforderung reserviert: eine Radtour zum Simpsiö-Hügel. Der anstrengende Aufstieg wird mit einer atemberaubenden Panoramaaussicht belohnt. Rollen Sie zurück in die Stadt, um den Tag mit einem wohlverdienten Abendessen ausklingen zu lassen.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző Lapua-i székesegyháznál. Tekerjen el a Vanha Paukku Kulturális Központhoz, fedezze fel gyalog, és látogasson el a Művészeti Múzeumba. Délben tegyen egy rövid kitérőt a Patruuna Arénához, mielőtt megállna piknikezni a Jokilaakso kertben. A délután a nagy kihívásé: egy kerékpártúra a Simpsiö-hegyre. A megerőltető emelkedőt lélegzetelállító panoráma jutalmazza. Guruljon vissza a városba, hogy egy jól megérdemelt vacsorával zárja a napot.",
+        "ro": "Începeți turul cu bicicleta la impresionanta Catedrală din Lapua. Pedalați spre Centrul Cultural Vanha Paukku, explorați-l pe jos și vizitați Muzeul de Artă. La prânz, faceți o scurtă vizită la Arena Patruuna înainte de a vă opri pentru un picnic în Grădina Jokilaakso. După-amiaza este rezervată marii provocări: o plimbare cu bicicleta până la Dealul Simpsiö. Urcușul obositor este răsplătit cu o priveliște panoramică uluitoare. Coborâți înapoi în oraș pentru a încheia ziua cu o cină binemeritată.",
+        "en": "Start your bike tour at the impressive Lapua Cathedral. Pedal to the Vanha Paukku Cultural Centre, explore on foot, and visit the Art Museum. At midday, take a short detour to the Patruuna Arena before stopping for a picnic in the Jokilaakso Garden. The afternoon is reserved for the big challenge: a bike ride to Simpsiö Hill. The strenuous climb is rewarded with a breathtaking panoramic view. Roll back into town to end the day with a well-deserved dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei für 'Rieska'",
+            "tip": "Probieren Sie dieses finnische Fladenbrot als schnellen Snack."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Wenn Sie einen öffentlichen Grill finden, ist dies die klassische finnische Outdoor-Mahlzeit."
+          },
+          {
+            "name": "Hotel-Restaurant Lapuahovi",
+            "tip": "Ein zuverlässiger Ort für ein traditionelles finnisches Abendessen nach Ihrer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség 'Rieska'-ért",
+            "tip": "Kóstolja meg ezt a finn laposkenyeret gyors harapnivalóként."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Ha talál egy nyilvános grillsütőt, ez a klasszikus finn szabadtéri étel."
+          },
+          {
+            "name": "Hotel-Restaurant Lapuahovi",
+            "tip": "Megbízható hely egy hagyományos finn vacsorához a kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală pentru 'Rieska'",
+            "tip": "Încercați această pâine plată finlandeză pentru o gustare rapidă."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "Dacă găsiți un grătar public, aceasta este masa clasică finlandeză în aer liber."
+          },
+          {
+            "name": "Hotel-Restaurant Lapuahovi",
+            "tip": "Un loc de încredere pentru o cină tradițională finlandeză după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery for 'Rieska'",
+            "tip": "Try this Finnish flatbread for a quick snack."
+          },
+          {
+            "name": "Grillimakkara",
+            "tip": "If you find a public grill, this is the classic Finnish outdoor meal."
+          },
+          {
+            "name": "Hotel-Restaurant Lapuahovi",
+            "tip": "A reliable spot for a traditional Finnish dinner after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Simpsiö-Hügels",
+            "tip": "Der ultimative ruhige Ort, um die Weite der Landschaft zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Radweg am Fluss",
+            "tip": "Genießen Sie die friedliche Fahrt entlang des Flusses Lapuanjoki.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Simpsiö-hegy csúcsa",
+            "tip": "A végső csendes hely, ahonnan beláthatja a táj tágasságát.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Élvezze a békés utat a Lapuanjoki folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful dealului Simpsiö",
+            "tip": "Locul suprem de liniște pentru a admira vasta întindere a peisajului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pista de biciclete de pe malul râului",
+            "tip": "Bucurați-vă de plimbarea liniștită de-a lungul râului Lapuanjoki.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Simpsiö Hill",
+            "tip": "The ultimate quiet spot to overlook the vastness of the landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank cycle path",
+            "tip": "Enjoy the peaceful ride along the Lapuanjoki river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte in Lapua",
+            "tip": "Suchen Sie nach Outdoor-Ausrüstung oder Fahrradzubehör."
+          },
+          {
+            "name": "Lokaler Markt (Tori)",
+            "tip": "Wenn einer stattfindet, finden Sie dort frische Produkte und lokale Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok Lapuában",
+            "tip": "Keressen outdoor felszerelést vagy kerékpár-kiegészítőket."
+          },
+          {
+            "name": "Helyi piac (Tori)",
+            "tip": "Ha van, friss termékeket és helyi kézműves termékeket találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport din Lapua",
+            "tip": "Căutați echipament de exterior sau accesorii pentru biciclete."
+          },
+          {
+            "name": "Piața locală (Tori)",
+            "tip": "Dacă este deschisă, veți găsi produse proaspete și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops in Lapua",
+            "tip": "Look for outdoor gear or cycling accessories."
+          },
+          {
+            "name": "Local Market (Tori)",
+            "tip": "If one is on, you'll find fresh produce and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Gängen, da der Anstieg zum Simpsiö-Hügel steil ist.",
+          "Tragen Sie einen Helm und sichtbare Kleidung.",
+          "Nehmen Sie ausreichend Wasser und energiereiche Snacks für die lange Fahrt mit.",
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen."
+        ],
+        "hu": [
+          "Béreljen váltós kerékpárt, mivel a Simpsiö-hegyre vezető emelkedő meredek.",
+          "Viseljen sisakot és láthatósági ruházatot.",
+          "Vigyen magával elegendő vizet és energiadús rágcsálnivalót a hosszú útra.",
+          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu viteze, deoarece urcarea pe Dealul Simpsiö este abruptă.",
+          "Purtați cască și haine vizibile.",
+          "Luați suficientă apă și gustări energizante pentru călătoria lungă.",
+          "Verificați bicicleta înainte de a pleca, în special frânele și anvelopele."
+        ],
+        "en": [
+          "Rent a bike with gears, as the climb to Simpsiö Hill is steep.",
+          "Wear a helmet and visible clothing.",
+          "Pack plenty of water and energy-rich snacks for the long ride.",
+          "Check your bike before you leave, especially the brakes and tires."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 14.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Simpsiö-Hügel",
+            "hu": "Parkoló a Simpsiö-hegynél",
+            "ro": "Parcare la Dealul Simpsiö",
+            "en": "Parking at Simpsiö Hill"
+          },
+          "coords": [
+            23.068,
+            62.951
+          ],
+          "category": "viewpoints",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum Hügel, um die Morgenluft zu genießen.",
+            "hu": "Kezdje a napot egy rövid autózással a hegyre, hogy élvezze a reggeli levegőt.",
+            "ro": "Începeți ziua cu o scurtă călătorie cu mașina până la deal pentru a vă bucura de aerul dimineții.",
+            "en": "Start your day with a short drive to the hill to enjoy the morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Simpsiö-Hügel Aussichtspunkt",
+            "hu": "Simpsiö-hegy kilátó",
+            "ro": "Punct de belvedere de pe Dealul Simpsiö",
+            "en": "Simpsiö Hill Viewpoint"
+          },
+          "coords": [
+            23.07,
+            62.95
+          ],
+          "category": "viewpoints",
+          "arrive_at": "09:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur Spitze für eine weite Aussicht.",
+            "hu": "Rövid séta a parkolótól a csúcsra a széles panorámáért.",
+            "ro": "O scurtă plimbare de la parcare până în vârf pentru o priveliște vastă.",
+            "en": "A short walk from the parking lot to the top for a vast view."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum (Nähe Vanha Paukku)",
+            "hu": "Parkoló a központban (a Vanha Paukku közelében)",
+            "ro": "Parcare în centru (lângă Vanha Paukku)",
+            "en": "Parking in the Centre (near Vanha Paukku)"
+          },
+          "coords": [
+            23.0015,
+            62.9705
+          ],
+          "category": "cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
+            "en": "Park here for the rest of the day and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vanha Paukku & Museen",
+            "hu": "Vanha Paukku Kulturális Központ & Múzeumok",
+            "ro": "Centrul Cultural Vanha Paukku & Muzee",
+            "en": "Vanha Paukku Cultural Centre & Museums"
+          },
+          "coords": [
+            23.001,
+            62.97
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, den gesamten Komplex mit seinen Galerien und Ausstellungen zu erkunden.",
+            "hu": "Szánjon időt az egész komplexum bejárására a galériákkal és kiállításokkal.",
+            "ro": "Luați-vă timp să explorați întregul complex, cu galeriile și expozițiile sale.",
+            "en": "Take your time to explore the entire complex, with its galleries and exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lapua",
+            "hu": "Lapua-i székesegyház",
+            "ro": "Catedrala din Lapua",
+            "en": "Lapua Cathedral"
+          },
+          "coords": [
+            23.0065,
+            62.972
+          ],
+          "category": "churches",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kulturzentrum zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a kulturális központtól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la centrul cultural la această bijuterie arhitecturală.",
+            "en": "A short walk from the cultural centre to this architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Jokilaakso-Garten",
+            "hu": "Jokilaakso kert",
+            "ro": "Grădina Jokilaakso",
+            "en": "Jokilaakso Garden"
+          },
+          "coords": [
+            23.0,
+            62.9715
+          ],
+          "category": "parks",
+          "arrive_at": "14:25",
+          "stay_min": 115,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang mit einem entspannten Spaziergang am Flussufer.",
+            "hu": "Zárja a gyalogtúrát egy pihentető sétával a folyóparton.",
+            "ro": "Încheiați turul pietonal cu o plimbare relaxantă pe malul râului.",
+            "en": "End your walking tour with a relaxing stroll along the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Simpsiö-Hügel, um eine atemberaubende Aussicht zu genießen. Fahren Sie dann ins Zentrum von Lapua, parken Sie Ihr Auto und machen Sie sich bereit, zu Fuß zu erkunden. Der Vormittag und das Mittagessen sind dem Kulturzentrum Vanha Paukku und seinen faszinierenden Museen gewidmet. Am Nachmittag schlendern Sie zur majestätischen Kathedrale, gefolgt von einer erholsamen Zeit im Jokilaakso-Garten. Diese Route kombiniert die Freiheit des Autos mit dem Vergnügen eines entspannten Stadtspaziergangs.",
+        "hu": "Kezdje a napot a Simpsiö-hegyre autózva a lélegzetelállító kilátásért. Ezután hajtson be Lapua központjába, parkolja le az autót, és készüljön fel a gyalogos felfedezésre. A délelőttöt és az ebédet szentelje a Vanha Paukku Kulturális Központnak és lenyűgöző múzeumainak. Délután sétáljon el a fenséges székesegyházhoz, majd pihenjen a Jokilaakso kertben. Ez az útvonal ötvözi az autó nyújtotta szabadságot a nyugodt városi séta örömével.",
+        "ro": "Începeți ziua conducând până la Dealul Simpsiö pentru o priveliște uluitoare. Apoi, mergeți în centrul orașului Lapua, parcați mașina și pregătiți-vă să explorați pe jos. Dimineața și prânzul sunt dedicate Centrului Cultural Vanha Paukku și muzeelor sale fascinante. După-amiaza, plimbați-vă până la catedrala maiestuoasă, urmată de o perioadă de relaxare în Grădina Jokilaakso. Acest traseu combină libertatea mașinii cu plăcerea unei plimbări relaxante prin oraș.",
+        "en": "Start your day by driving up Simpsiö Hill for a breathtaking view. Then, drive into the center of Lapua, park your car, and get ready to explore on foot. The morning and lunch are dedicated to the Vanha Paukku Cultural Centre and its fascinating museums. In the afternoon, stroll over to the majestic cathedral, followed by some relaxing time in the Jokilaakso Garden. This route combines the freedom of the car with the pleasure of a relaxed city walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Iskun Paikka",
+            "tip": "Ein beliebter lokaler Grill für ein schnelles und leckeres Mittagessen."
+          },
+          {
+            "name": "Restaurant Lapuahovi",
+            "tip": "Bietet ein komplettes Menü mit finnischen Spezialitäten."
+          },
+          {
+            "name": "Café im Vanha Paukku",
+            "tip": "Ideal für Kaffee und Kuchen während Ihres Museumsbesuchs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iskun Paikka",
+            "tip": "Népszerű helyi grill egy gyors és ízletes ebédhez."
+          },
+          {
+            "name": "Lapuahovi Étterem",
+            "tip": "Teljes menüt kínál finn specialitásokkal."
+          },
+          {
+            "name": "Kávézó a Vanha Paukku-ban",
+            "tip": "Ideális kávéra és süteményre a múzeumlátogatás alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iskun Paikka",
+            "tip": "Un grătar local popular pentru un prânz rapid și gustos."
+          },
+          {
+            "name": "Restaurant Lapuahovi",
+            "tip": "Oferă un meniu complet cu specialități finlandeze."
+          },
+          {
+            "name": "Cafenea în Vanha Paukku",
+            "tip": "Ideal pentru o cafea și o prăjitură în timpul vizitei la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iskun Paikka",
+            "tip": "A popular local grill for a quick and tasty lunch."
+          },
+          {
+            "name": "Restaurant Lapuahovi",
+            "tip": "Offers a full menu of Finnish specialties."
+          },
+          {
+            "name": "Café in Vanha Paukku",
+            "tip": "Ideal for coffee and cake during your museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Simpsiö-Hügel am Morgen",
+            "tip": "Erleben Sie die Stille und den weiten Blick, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Friedhof neben der Kathedrale",
+            "tip": "Ein friedlicher und gut gepflegter Ort für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Simpsiö-hegy reggel",
+            "tip": "Tapasztalja meg a csendet és a széles kilátást, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Temető a székesegyház mellett",
+            "tip": "Békés és gondozott hely egy csendes pillanathoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Simpsiö dimineața",
+            "tip": "Experimentați liniștea și priveliștea panoramică înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul de lângă catedrală",
+            "tip": "Un loc pașnic și bine întreținut pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Simpsiö Hill in the morning",
+            "tip": "Experience the quiet and the vast view before any crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cemetery next to the Cathedral",
+            "tip": "A peaceful and well-maintained space for a quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kosolan Talo",
+            "tip": "Ein historisches Gebäude mit Geschäften, die lokale Waren anbieten."
+          },
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Kaufen Sie finnische Lebensmittel und Snacks für Ihre Reise ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kosolan Talo",
+            "tip": "Történelmi épület helyi árukat kínáló üzletekkel."
+          },
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Vásároljon finn élelmiszereket és rágcsálnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kosolan Talo",
+            "tip": "O clădire istorică cu magazine care vând produse locale."
+          },
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Aprovizionați-vă cu alimente și gustări finlandeze pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kosolan Talo",
+            "tip": "A historic building with shops offering local goods."
+          },
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Stock up on Finnish foods and snacks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze im Zentrum können begrenzt sein, besonders an Wochentagen. Kommen Sie früh.",
+          "Überprüfen Sie die Kraftstoffpreise; Tankstellen außerhalb des Zentrums können billiger sein.",
+          "Halten Sie eine Navigations-App bereit, da einige kleinere Straßen verwirrend sein können.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen, die sich in Finnland häufig ändern."
+        ],
+        "hu": [
+          "A központi parkolóhelyek korlátozottak lehetnek, különösen hétköznap. Érkezzen korán.",
+          "Ellenőrizze az üzemanyagárakat; a központon kívüli benzinkutak olcsóbbak lehetnek.",
+          "Legyen kéznél egy navigációs alkalmazás, mivel néhány kisebb utca zavaró lehet.",
+          "Ügyeljen a sebességkorlátozásokra, amelyek Finnországban gyakran változnak."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi limitată, mai ales în timpul săptămânii. Ajungeți devreme.",
+          "Verificați prețurile la carburanți; benzinăriile din afara centrului pot fi mai ieftine.",
+          "Aveți la îndemână o aplicație de navigație, deoarece unele străzi mai mici pot fi confuze.",
+          "Fiți atenți la limitele de viteză, care se schimbă frecvent în Finlanda."
+        ],
+        "en": [
+          "Parking in the center can be limited, especially on weekdays. Arrive early.",
+          "Check fuel prices; stations outside the center might be cheaper.",
+          "Keep a navigation app handy, as some smaller roads can be confusing.",
+          "Be mindful of speed limits, which change frequently in Finland."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz centrală",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            23.007,
+            62.9725
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung von hier aus.",
+            "hu": "Buszozzon be a központba, és innen kezdje a felfedezést.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea de aici.",
+            "en": "Take a bus to the center and start your exploration from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Lapua",
+            "hu": "Lapua-i székesegyház",
+            "ro": "Catedrala din Lapua",
+            "en": "Lapua Cathedral"
+          },
+          "coords": [
+            23.0065,
+            62.972
+          ],
+          "category": "churches",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid sétára a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Lapua-Bewegung",
+            "hu": "A Lapua Mozgalom emlékműve",
+            "ro": "Monumentul Mișcării Lapua",
+            "en": "Monument of the Lapua Movement"
+          },
+          "coords": [
+            23.004,
+            62.9735
+          ],
+          "category": "monuments",
+          "arrive_at": "10:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schneller Spaziergang von der Kathedrale.",
+            "hu": "Gyors séta a székesegyháztól.",
+            "ro": "O plimbare rapidă de la catedrală.",
+            "en": "A quick walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Vanha Paukku & Museen",
+            "hu": "Vanha Paukku Kulturális Központ & Múzeumok",
+            "ro": "Centrul Cultural Vanha Paukku & Muzee",
+            "en": "Vanha Paukku Cultural Centre & Museums"
+          },
+          "coords": [
+            23.001,
+            62.97
+          ],
+          "category": "cultural centres",
+          "arrive_at": "11:01",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt des Tages, nehmen Sie sich Zeit für die Erkundung.",
+            "hu": "A nap fő látványossága, szánjon időt a felfedezésre.",
+            "ro": "Atracția principală a zilei, luați-vă timp să explorați.",
+            "en": "The main attraction of the day, take your time to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Bushaltestelle für Simpsiö",
+            "hu": "Buszmegálló Simpsiö felé",
+            "ro": "Stație de autobuz pentru Simpsiö",
+            "en": "Bus Stop for Simpsiö"
+          },
+          "coords": [
+            23.008,
+            62.973
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:21",
+          "stay_min": 149,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zum Hügel. Planen Sie Zeit für die Wanderung nach oben ein.",
+            "hu": "Buszozzon fel a hegyre. Tervezzen időt a csúcsra való túrázásra.",
+            "ro": "Luați un autobuz până la deal. Planificați-vă timp pentru drumeția până în vârf.",
+            "en": "Take a bus to the hill. Plan time for the hike to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um ins Zentrum von Lapua zu gelangen. Beginnen Sie Ihren Tag an der prächtigen Kathedrale und dem nahegelegenen Denkmal. Spazieren Sie zum Kulturzentrum Vanha Paukku, wo Sie den größten Teil des Tages verbringen und in Kunst und Geschichte eintauchen. Am Nachmittag nehmen Sie einen weiteren Bus zum Fuß des Simpsiö-Hügels. Eine kurze Wanderung bringt Sie zum Gipfel, wo Sie mit einer spektakulären Aussicht belohnt werden, bevor Sie den Bus zurück in die Stadt nehmen.",
+        "hu": "Használja a helyi buszt, hogy bejusson Lapua központjába. Kezdje a napot a csodálatos székesegyháznál és a közeli emlékműnél. Sétáljon el a Vanha Paukku Kulturális Központba, ahol a nap nagy részét tölti, elmerülve a művészetben és a történelemben. Délután szálljon fel egy másik buszra a Simpsiö-hegy lábához. Egy rövid túra felvisz a csúcsra, ahol látványos kilátás fogadja, mielőtt visszabuszozna a városba.",
+        "ro": "Folosiți autobuzul local pentru a ajunge în centrul orașului Lapua. Începeți ziua la magnifica catedrală și la monumentul din apropiere. Plimbați-vă până la Centrul Cultural Vanha Paukku, unde veți petrece cea mai mare parte a zilei cufundându-vă în artă și istorie. După-amiaza, luați un alt autobuz până la baza Dealului Simpsiö. O scurtă drumeție vă va duce în vârf, unde veți fi răsplătit cu o priveliște spectaculoasă înainte de a lua autobuzul înapoi în oraș.",
+        "en": "Use the local bus to get to the center of Lapua. Start your day at the magnificent cathedral and the nearby monument. Walk to the Vanha Paukku Cultural Centre, where you'll spend most of the day immersing yourself in art and history. In the afternoon, take another bus to the base of Simpsiö Hill. A short hike will take you to the summit, where you'll be rewarded with a spectacular view before taking the bus back to town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Cafés",
+            "tip": "Perfekt für eine Pause zwischen den Busfahrten. Probieren Sie Korvapuusti (Zimtschnecke)."
+          },
+          {
+            "name": "Mittagsbuffet (Lounasbuffet)",
+            "tip": "Viele Restaurants bieten ein preiswertes Mittagsbuffet an, ideal für eine schnelle und sättigende Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézók",
+            "tip": "Tökéletes egy szünetre a buszozások között. Kóstolja meg a Korvapuusti-t (fahéjas csiga)."
+          },
+          {
+            "name": "Svédasztalos ebéd (Lounasbuffet)",
+            "tip": "Sok étterem kínál kedvező árú svédasztalos ebédet, ideális egy gyors és laktató étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele locale",
+            "tip": "Perfect pentru o pauză între călătoriile cu autobuzul. Încercați Korvapuusti (rulou cu scorțișoară)."
+          },
+          {
+            "name": "Bufet de prânz (Lounasbuffet)",
+            "tip": "Multe restaurante oferă un bufet de prânz la un preț rezonabil, ideal pentru o masă rapidă și sățioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafés",
+            "tip": "Perfect for a break between bus rides. Try Korvapuusti (cinnamon roll)."
+          },
+          {
+            "name": "Lunch Buffet (Lounasbuffet)",
+            "tip": "Many restaurants offer a great value lunch buffet, ideal for a quick and filling meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt durch die Landschaft",
+            "tip": "Genießen Sie die Aussicht aus dem Fenster, während Sie nach Simpsiö fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wanderweg auf dem Simpsiö",
+            "tip": "Der Weg nach oben ist friedlich und von Natur umgeben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a tájon keresztül",
+            "tip": "Élvezze a kilátást az ablakból, miközben Simpsiö felé tart.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Túraösvény a Simpsiö-n",
+            "tip": "A csúcsra vezető út békés és természettel körülvett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul prin peisaj",
+            "tip": "Bucurați-vă de priveliștea de pe fereastră în timp ce călătoriți spre Simpsiö.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Potecă de drumeție pe Simpsiö",
+            "tip": "Calea spre vârf este pașnică și înconjurată de natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride through the countryside",
+            "tip": "Enjoy the view from the window as you travel to Simpsiö.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hiking trail on Simpsiö",
+            "tip": "The path to the top is peaceful and surrounded by nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "R-kioski",
+            "tip": "Kaufen Sie Bustickets, Getränke und Snacks für Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "R-kioski",
+            "tip": "Vásároljon buszjegyet, italokat és rágcsálnivalókat az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "R-kioski",
+            "tip": "Cumpărați bilete de autobuz, băuturi și gustări pentru călătoria dvs."
+          }
+        ],
+        "en": [
+          {
+            "name": "R-kioski",
+            "tip": "Buy bus tickets, drinks, and snacks for your journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die lokale Busfahrplan-App herunter oder machen Sie einen Screenshot der Fahrpläne.",
+          "Kaufen Sie eine Tageskarte, wenn sie verfügbar ist, um Geld zu sparen.",
+          "Beachten Sie, dass Busse in ländlichen Gebieten möglicherweise nicht häufig fahren, planen Sie also im Voraus.",
+          "Winken Sie dem Busfahrer, wenn Sie an der Haltestelle warten, um sicherzustellen, dass er anhält."
+        ],
+        "hu": [
+          "Töltse le a helyi buszmenetrend-alkalmazást, vagy készítsen képernyőképet a menetrendekről.",
+          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
+          "Vegye figyelembe, hogy a buszok vidéken ritkábban járhatnak, ezért tervezzen előre.",
+          "Intsen a buszsofőrnek, amikor a megállóban vár, hogy biztosan megálljon."
+        ],
+        "ro": [
+          "Descărcați aplicația locală cu orarele autobuzelor sau faceți o captură de ecran a orarelor.",
+          "Cumpărați un bilet de o zi dacă este disponibil pentru a economisi bani.",
+          "Rețineți că autobuzele din zonele rurale pot circula mai rar, așa că planificați din timp.",
+          "Faceți semn șoferului de autobuz când așteptați în stație pentru a vă asigura că oprește."
+        ],
+        "en": [
+          "Download the local bus schedule app or take a screenshot of the timetables.",
+          "Buy a day pass if available to save money.",
+          "Be aware that buses in rural areas may run infrequently, so plan ahead.",
+          "Wave to the bus driver when you're waiting at the stop to ensure they stop for you."
+        ]
+      }
+    }
+  }
+}

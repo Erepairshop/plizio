@@ -1,0 +1,1423 @@
+{
+  "city_id": "oroshaza",
+  "anchor": {
+    "name": "Orosháza",
+    "coords": [
+      46.5667,
+      20.6667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            20.6665,
+            46.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Leben in der Stadt.",
+            "hu": "Kezdje a napot egy kávéval a téren, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the town life unfold."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Orosháza",
+            "hu": "Orosházi városháza",
+            "ro": "Primăria din Orosháza",
+            "en": "Orosháza Town Hall"
+          },
+          "coords": [
+            20.667,
+            46.5675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Gebäudes, das das Zentrum dominiert.",
+            "hu": "Csodálja meg a tér képét meghatározó épület építészetét.",
+            "ro": "Admirați arhitectura clădirii care domină centrul.",
+            "en": "Admire the architecture of the building that dominates the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            20.669,
+            46.568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der größten evangelischen Kirchengebäude in Mitteleuropa, bemerkenswert für seine schlichte Schönheit.",
+            "hu": "Közép-Európa egyik legnagyobb evangélikus temploma, melynek egyszerűsége adja a szépségét.",
+            "ro": "Una dintre cele mai mari biserici evanghelice din Europa Centrală, remarcabilă prin frumusețea sa sobră.",
+            "en": "One of the largest Evangelical church buildings in Central Europe, noteworthy for its simple beauty."
+          }
+        },
+        {
+          "name": {
+            "de": "Szántó-Kovács-János-Museum",
+            "hu": "Szántó Kovács János Múzeum",
+            "ro": "Muzeul Szántó Kovács János",
+            "en": "Szántó Kovács János Museum"
+          },
+          "coords": [
+            20.671,
+            46.5665
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte und die agrarsozialistischen Bewegungen der Region.",
+            "hu": "Ismerje meg a helytörténetet és a környék agrárszocialista mozgalmait.",
+            "ro": "Aflați despre istoria locală și mișcările agrare socialiste din regiune.",
+            "en": "Learn about the local history and the agrarian socialist movements of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Park Gellértegyháza",
+            "hu": "Gellértegyházi Történelmi Emlékpark",
+            "ro": "Parcul Istoric Gellértegyháza",
+            "en": "Gellértegyháza Historical Park"
+          },
+          "coords": [
+            20.685,
+            46.57
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen Nachmittagsspaziergang und um die mittelalterliche Atmosphäre aufzusaugen.",
+            "hu": "Tökéletes hely egy délutáni sétához és a középkori emlékhely atmoszférájának átéléséhez.",
+            "ro": "Un loc perfect pentru o plimbare de după-amiază și pentru a absorbi atmosfera medievală.",
+            "en": "A perfect spot for an afternoon walk and to soak up the medieval atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyopárosfürdő Heilbad",
+            "hu": "Gyopárosfürdő Gyógyfürdő",
+            "ro": "Băile Gyopárosfürdő",
+            "en": "Gyopárosfürdő Thermal Spa"
+          },
+          "coords": [
+            20.63,
+            46.565
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag entspannt im Thermalwasser. Bringen Sie Badekleidung mit!",
+            "hu": "Zárja a napot pihenéssel a gyógyvízben. Ne felejtsen fürdőruhát hozni!",
+            "ro": "Încheiați ziua relaxându-vă în apa termală. Aduceți-vă costumul de baie!",
+            "en": "End your day relaxing in the thermal waters. Don't forget your swimsuit!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am lebhaften Hauptplatz von Orosháza. Tauchen Sie in die lokale Geschichte ein, indem Sie die beeindruckende Evangelische Kirche und das aufschlussreiche Szántó-Kovács-János-Museum besuchen. Am Nachmittag schlendern Sie durch den historischen Park Gellértegyháza, ein Ort der Ruhe und Besinnung. Schließen Sie Ihren Tag mit purer Entspannung im berühmten Thermalbad Gyopárosfürdő ab, dessen heilende Wirkung weithin bekannt ist.",
+        "hu": "Kezdje a sétát Orosháza nyüzsgő Fő terén. Merüljön el a helyi történelemben a lenyűgöző evangélikus templom és a tanulságos Szántó Kovács János Múzeum meglátogatásával. Délután sétáljon át a Gellértegyházi Történelmi Emlékparkon, a béke és elmélkedés helyszínén. Zárja a napot tiszta kikapcsolódással a híres Gyopárosfürdőn, amelynek gyógyító vize messze földön ismert.",
+        "ro": "Începeți turul pietonal în Piața Principală vibrantă din Orosháza. Scufundați-vă în istoria locală vizitând impunătoarea Biserică Evanghelică și lămuritorul Muzeu Szántó Kovács János. După-amiaza, plimbați-vă prin Parcul Istoric Gellértegyháza, un loc de pace și reflecție. Încheiați-vă ziua cu relaxare pură la renumitele băi termale Gyopárosfürdő, ale căror ape vindecătoare sunt cunoscute peste tot.",
+        "en": "Start your walking tour at the vibrant Main Square of Orosháza. Delve into local history by visiting the impressive Evangelical Church and the insightful Szántó Kovács János Museum. In the afternoon, stroll through the Gellértegyháza Historical Park, a place of peace and reflection. Conclude your day with pure relaxation at the famous Gyopárosfürdő Thermal Spa, whose healing waters are widely known."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orosházaer Kulen",
+            "tip": "Eine lokale, würzige Wurst, die man auf dem Markt probieren sollte."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Ein klassisches ungarisches Gulasch in einem der Restaurants im Stadtzentrum."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Probieren Sie diesen frittierten Teigfladen am Eingang des Heilbads."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orosházi kolbász",
+            "tip": "Helyi, fűszeres kolbászfajta, amit érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Egy klasszikus magyar gulyás a belvárosi éttermek egyikében."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a sült tésztát a gyógyfürdő bejáratánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Orosháza",
+            "tip": "Un cârnat local, picant, de încercat în piață."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Un gulaș maghiar clasic la unul dintre restaurantele din centru."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Încercați această plăcintă prăjită la intrarea în complexul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orosháza Sausage",
+            "tip": "A local, spicy sausage worth trying at the market."
+          },
+          {
+            "name": "Goulash",
+            "tip": "A classic Hungarian goulash at one of the city center restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Try this fried dough flatbread at the entrance to the spa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gyopáros-Sees",
+            "tip": "Ein ruhiger Spaziergang um den See am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Evangelischen Kirche",
+            "tip": "Eine friedliche Bank unter alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Historischer Park Gellértegyháza",
+            "tip": "Finden Sie einen ruhigen Platz zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyopárosi-tó partja",
+            "tip": "Egy csendes séta a tó körül késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evangélikus templom kertje",
+            "tip": "Egy békés pad az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gellértegyházi Történelmi Emlékpark",
+            "tip": "Keressen egy csendes zugot az elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Gyopáros",
+            "tip": "O plimbare liniștită în jurul lacului după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Bisericii Evanghelice",
+            "tip": "O bancă liniștită sub copaci bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Istoric Gellértegyháza",
+            "tip": "Găsiți un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Gyopáros",
+            "tip": "A quiet walk around the lake in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evangelical Church Park",
+            "tip": "A peaceful bench under old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gellértegyháza Historical Park",
+            "tip": "Find a quiet spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Paprika, Honig und handgemachte Produkte aus der Region."
+          },
+          {
+            "name": "Souvenirladen am Heilbad",
+            "tip": "Finden Sie Andenken im Zusammenhang mit dem berühmten Heilwasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi paprikát, mézet és kézműves termékeket."
+          },
+          {
+            "name": "Ajándékbolt a Gyógyfürdőnél",
+            "tip": "Keressen a híres gyógyvízzel kapcsolatos emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați boia, miere și produse artizanale din regiune."
+          },
+          {
+            "name": "Magazin de suveniruri la băi",
+            "tip": "Găsiți amintiri legate de faimoasa apă termală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local paprika, honey, and handmade crafts."
+          },
+          {
+            "name": "Spa Souvenir Shop",
+            "tip": "Find memorabilia related to the famous medicinal water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für das Heilbad ein; es ist der Höhepunkt für viele Besucher.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Hagyjon elég időt a gyógyfürdőre; sok látogató számára ez a fénypont.",
+          "Ellenőrizze előre a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, veți merge mult pe jos.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru băile termale; este punctul culminant pentru mulți vizitatori.",
+          "Verificați în prealabil programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Most central sights are within easy walking distance of each other.",
+          "Allow plenty of time for the spa; it's the highlight for many visitors.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            20.6665,
+            46.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Parkolja le a biciklit és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera din piața principală.",
+            "en": "Park your bike and enjoy the atmosphere of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            20.669,
+            46.568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour vom Platz entfernt, dieses architektonische Wahrzeichen ist einen Besuch wert.",
+            "hu": "Csak egy rövid biciklizésre a tértől, ez az építészeti remekmű megér egy látogatást.",
+            "ro": "La o scurtă plimbare cu bicicleta de piață, acest reper arhitectural merită vizitat.",
+            "en": "A short bike ride from the square, this architectural landmark is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Szántó-Kovács-János-Museum",
+            "hu": "Szántó Kovács János Múzeum",
+            "ro": "Muzeul Szántó Kovács János",
+            "en": "Szántó Kovács János Museum"
+          },
+          "coords": [
+            20.671,
+            46.5665
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie in die reiche Geschichte der Region eintauchen.",
+            "hu": "Biztonságosan zárja le a kerékpárt, mielőtt elmerülne a régió gazdag történelmében.",
+            "ro": "Asigurați-vă bicicleta înainte de a vă adânci în istoria bogată a regiunii.",
+            "en": "Secure your bike before diving into the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Petőfi-Kulturzentrum",
+            "hu": "Petőfi Művelődési Központ",
+            "ro": "Centrul Cultural Petőfi",
+            "en": "Petőfi Cultural Centre"
+          },
+          "coords": [
+            20.664,
+            46.565
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob es tagsüber Ausstellungen gibt oder genießen Sie einfach die moderne Architektur.",
+            "hu": "Nézze meg, van-e napközbeni kiállítás, vagy csak élvezze a modern építészetet.",
+            "ro": "Verificați dacă există expoziții în timpul zilei sau pur și simplu bucurați-vă de arhitectura modernă.",
+            "en": "Check for any daytime exhibitions or simply enjoy the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Park Gellértegyháza",
+            "hu": "Gellértegyházi Történelmi Emlékpark",
+            "ro": "Parcul Istoric Gellértegyháza",
+            "en": "Gellértegyháza Historical Park"
+          },
+          "coords": [
+            20.685,
+            46.57
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Rad zum Park und machen Sie ein Picknick.",
+            "hu": "Tekerjen el a parkba és piknikezzen egyet.",
+            "ro": "Mergeți cu bicicleta până la parc pentru un picnic relaxant.",
+            "en": "Cycle to the park for a relaxing picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Darvas-József-Gedenkhaus",
+            "hu": "Darvas József Emlékház",
+            "ro": "Casa Memorială Darvas József",
+            "en": "Darvas József Memorial House"
+          },
+          "coords": [
+            20.658,
+            46.569
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um das Leben eines prominenten lokalen Schriftstellers zu erkunden.",
+            "hu": "Egy rövid kitérő, hogy megismerje egy kiemelkedő helyi író életét.",
+            "ro": "Un scurt ocol pentru a explora viața unui scriitor local proeminent.",
+            "en": "A short detour to explore the life of a prominent local writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyopárosfürdő Heilbad",
+            "hu": "Gyopárosfürdő Gyógyfürdő",
+            "ro": "Băile Gyopárosfürdő",
+            "en": "Gyopárosfürdő Thermal Spa"
+          },
+          "coords": [
+            20.63,
+            46.565
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nach einer langen Radtour gibt es nichts Besseres als ein Bad im Thermalwasser.",
+            "hu": "Egy hosszú biciklizés után nincs is jobb, mint megmártózni a termálvízben.",
+            "ro": "După o plimbare lungă cu bicicleta, nimic nu este mai bun decât o baie în apele termale.",
+            "en": "After a long bike ride, there's nothing better than a soak in the thermal waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour durch Orosháza bietet eine fantastische Mischung aus Kultur und Entspannung. Starten Sie im Herzen der Stadt, besuchen Sie die historischen und kulturellen Sehenswürdigkeiten und radeln Sie dann zum ruhigen Gellértegyháza Park für eine Pause. Die Tour führt Sie durch verschiedene Aspekte des lokalen Lebens, vom literarischen Erbe im Darvas-József-Gedenkhaus bis zur modernen Architektur des Petőfi-Kulturzentrums. Der krönende Abschluss ist eine wohlverdiente Erholung im Heilbad Gyopárosfürdő, das Sie nach einer malerischen Fahrt erreichen.",
+        "hu": "Az orosházi kerékpártúra a kultúra és a pihenés fantasztikus keverékét kínálja. Induljon a város szívéből, látogassa meg a történelmi és kulturális helyszíneket, majd tekerjen el a békés Gellértegyházi parkba egy kis szünetre. A túra a helyi élet különböző aspektusait mutatja be, az irodalmi örökségtől a Darvas József Emlékházban a Petőfi Művelődési Központ modern építészetéig. A nap megkoronázása a megérdemelt pihenés a Gyopárosfürdőben, amelyet egy festői út után ér el.",
+        "ro": "Un tur cu bicicleta prin Orosháza oferă un amestec fantastic de cultură și relaxare. Porniți din inima orașului, vizitați siturile istorice și culturale, apoi pedalați spre liniștitul Parc Gellértegyháza pentru o pauză. Turul vă poartă prin diverse aspecte ale vieții locale, de la moștenirea literară la Casa Memorială Darvas József până la arhitectura modernă a Centrului Cultural Petőfi. Punctul culminant este o odihnă binemeritată la Băile Termale Gyopárosfürdő, ajungând acolo după o plimbare pitorească.",
+        "en": "A bike tour of Orosháza offers a fantastic mix of culture and relaxation. Start in the heart of the city, visit the historical and cultural sites, then pedal to the peaceful Gellértegyháza Park for a break. The tour takes you through various aspects of local life, from the literary heritage at the Darvas József Memorial House to the modern architecture of the Petőfi Cultural Centre. The crowning glory is a well-deserved rest at the Gyopárosfürdő Thermal Spa, reached after a scenic ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Suchen Sie nach diesem süßen Gebäck auf lokalen Festivals oder Märkten."
+          },
+          {
+            "name": "Hausgemachte Limonade",
+            "tip": "Erfrischend nach einer Radtour, in vielen Cafés erhältlich."
+          },
+          {
+            "name": "Debrecener Würstchen",
+            "tip": "Eine herzhafte Mahlzeit, die oft mit Senf und Brot serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Keresse ezt az édes süteményt a helyi fesztiválokon vagy piacokon."
+          },
+          {
+            "name": "Házi limonádé",
+            "tip": "Frissítő egy biciklitúra után, sok kávézóban kapható."
+          },
+          {
+            "name": "Debreceni páros kolbász",
+            "tip": "Kiadós étel, gyakran mustárral és kenyérrel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kürtőskalács",
+            "tip": "Căutați acest produs de patiserie dulce la festivalurile sau piețele locale."
+          },
+          {
+            "name": "Limonadă de casă",
+            "tip": "Răcoritoare după un tur cu bicicleta, disponibilă în multe cafenele."
+          },
+          {
+            "name": "Cârnați Debrețin",
+            "tip": "O masă consistentă, adesea servită cu muștar și pâine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chimney Cake",
+            "tip": "Look for this sweet pastry at local festivals or markets."
+          },
+          {
+            "name": "Homemade Lemonade",
+            "tip": "Refreshing after a bike tour, available in many cafes."
+          },
+          {
+            "name": "Debrecener Sausage",
+            "tip": "A hearty meal often served with mustard and bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrradweg entlang des Gyopáros-Kanals",
+            "tip": "Eine ruhige Route, die aus der Stadt hinausführt.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Früher Morgen am Hauptplatz",
+            "tip": "Erleben Sie die Stille, bevor die Stadt erwacht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gellértegyháza Park",
+            "tip": "Perfekt für eine ruhige Pause im Schatten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Gyopárosi-csatorna mentén",
+            "tip": "Csendes útvonal, amely kivezet a városból.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Kora reggel a Fő téren",
+            "tip": "Tapasztalja meg a csendet, mielőtt a város felébred.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gellértegyházi park",
+            "tip": "Tökéletes egy csendes pihenőre az árnyékban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul canalului Gyopáros",
+            "tip": "Un traseu liniștit care duce în afara orașului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Dimineața devreme în Piața Principală",
+            "tip": "Experimentați liniștea înainte ca orașul să se trezească.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Gellértegyháza",
+            "tip": "Perfect pentru o pauză liniștită la umbră.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path along the Gyopáros canal",
+            "tip": "A quiet route leading out of the city.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Early morning in the Main Square",
+            "tip": "Experience the quiet before the city wakes up.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gellértegyháza Park",
+            "tip": "Perfect for a quiet break in the shade.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für alle Last-Minute-Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Suchen Sie nach einzigartigen handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Bármilyen utolsó pillanatban szükséges javításhoz vagy kiegészítőhöz."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice reparații de ultim moment sau accesorii."
+          },
+          {
+            "name": "Târg de meșteșuguri",
+            "tip": "Căutați suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "For any last-minute repairs or accessories."
+          },
+          {
+            "name": "Craft Market",
+            "tip": "Look for unique handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt.",
+          "Orosháza ist relativ flach und daher ideal zum Radfahren.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen immer gut ab.",
+          "Nehmen Sie Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpárját.",
+          "Orosháza viszonylag sík, így ideális a kerékpározáshoz.",
+          "Mindig gondosan zárja le a kerékpárt a főbb látnivalóknál.",
+          "Vigyen magával vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Orosháza este relativ plat, ideal pentru ciclism.",
+          "Asigurați-vă întotdeauna bicicleta la principalele atracții.",
+          "Luați apă cu dvs., mai ales în zilele calde."
+        ],
+        "en": [
+          "Check your bike before you set off.",
+          "Orosháza is relatively flat, making it ideal for cycling.",
+          "Always lock your bike securely at major attractions.",
+          "Carry water with you, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Stadtzentrum Parken",
+            "hu": "Belvárosi klaszter parkoló",
+            "ro": "Parcare Cluster Centru",
+            "en": "City Center Cluster Parking"
+          },
+          "coords": [
+            20.668,
+            46.566
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Zentrum zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a történelmi központot gyalog.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos.",
+            "en": "Park here and explore the historical center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz & Rathaus",
+            "hu": "Fő tér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Square & Town Hall"
+          },
+          "coords": [
+            20.6665,
+            46.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Parkplatz führt Sie direkt ins Herz der Stadt.",
+            "hu": "A séta a parkolótól egyenesen a város szívébe vezet.",
+            "ro": "Plimbarea de la parcare vă duce direct în inima orașului.",
+            "en": "The walk from the parking spot takes you right into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            20.669,
+            46.568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a Fő tértől.",
+            "ro": "La doar o scurtă plimbare de Piața Principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Park Gellértegyháza",
+            "hu": "Gellértegyházi Történelmi Emlékpark",
+            "ro": "Parcul Istoric Gellértegyháza",
+            "en": "Gellértegyháza Historical Park"
+          },
+          "coords": [
+            20.685,
+            46.57
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für einen ausgedehnten Spaziergang und eine Geschichtsstunde.",
+            "hu": "Vezessen el a parkhoz egy hosszabb sétáért és egy kis történelemóráért.",
+            "ro": "Conduceți până la parc pentru o plimbare extinsă și o lecție de istorie.",
+            "en": "Drive to the park for an extended walk and a history lesson."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the Park"
+          },
+          "coords": [
+            20.683,
+            46.569
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt mehrere kleine Restaurants, die traditionelle ungarische Küche servieren.",
+            "hu": "Számos kis étterem található itt, amelyek hagyományos magyar ételeket kínálnak.",
+            "ro": "Există mai multe restaurante mici care servesc mâncăruri tradiționale maghiare.",
+            "en": "There are several small restaurants serving traditional Hungarian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyopárosfürdő Heilbad",
+            "hu": "Gyopárosfürdő Gyógyfürdő",
+            "ro": "Băile Gyopárosfürdő",
+            "en": "Gyopárosfürdő Thermal Spa"
+          },
+          "coords": [
+            20.63,
+            46.565
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 210,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages. Es gibt ausreichend Parkplätze.",
+            "hu": "Tökéletes befejezése a napnak. Bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Finalul perfect al zilei. Există o parcare amplă.",
+            "en": "The perfect end to the day. There is ample parking available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Orosháza bequem in Clustern. Parken Sie im Zentrum und entdecken Sie den Hauptplatz und die evangelische Kirche zu Fuß. Eine kurze Fahrt bringt Sie zum historischen Park Gellértegyháza für einen Spaziergang in die Vergangenheit und ein gemütliches Mittagessen. Der Nachmittag gehört ganz der Entspannung im berühmten Thermalbad Gyopárosfürdő, einem unverzichtbaren Erlebnis in der Region. Dieser Plan kombiniert städtische Erkundung mit ruhigen Momenten in der Natur.",
+        "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Orosházát. Parkoljon a központban, és gyalogosan fedezze fel a Fő teret és az evangélikus templomot. Egy rövid autóút után a Gellértegyházi Történelmi Emlékparkban tehet egy sétát a múltba, majd ebédelhet egy jót. A délutánt teljes egészében a híres Gyopárosfürdőben való pihenésnek szentelheti, ami kihagyhatatlan élmény a régióban. Ez a terv ötvözi a városi felfedezést a természetben töltött nyugodt pillanatokkal.",
+        "ro": "Cu mașina, explorați Orosháza confortabil în grupuri de obiective. Parcați în centru și descoperiți pe jos Piața Principală și Biserica Evanghelică. O scurtă călătorie cu mașina vă duce la Parcul Istoric Gellértegyháza pentru o plimbare în trecut și un prânz liniștit. După-amiaza este dedicată relaxării la renumitele Băi Termale Gyopárosfürdő, o experiență de neratat în regiune. Acest plan combină explorarea urbană cu momente de liniște în natură.",
+        "en": "By car, explore Orosháza comfortably in clusters. Park in the center and discover the Main Square and the Evangelical Church on foot. A short drive takes you to the Gellértegyháza Historical Park for a walk into the past and a leisurely lunch. The afternoon is dedicated to relaxation at the famous Gyopárosfürdő Thermal Spa, an unmissable experience in the region. This plan combines urban exploration with quiet moments in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Csárda am Stadtrand",
+            "tip": "Probieren Sie authentische Gerichte in einer traditionellen ungarischen Csárda."
+          },
+          {
+            "name": "Gefüllter Kohl",
+            "tip": "Ein herzhaftes Gericht, perfekt für ein Mittagessen."
+          },
+          {
+            "name": "Konditorei im Zentrum",
+            "tip": "Für Kaffee und Kuchen nach dem Stadtrundgang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csárda a város szélén",
+            "tip": "Kóstoljon autentikus ételeket egy hagyományos magyar csárdában."
+          },
+          {
+            "name": "Töltött káposzta",
+            "tip": "Kiadós fogás, tökéletes ebédre."
+          },
+          {
+            "name": "Cukrászda a központban",
+            "tip": "Egy kávéra és süteményre a városnézés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Csárda la periferie",
+            "tip": "Încercați mâncăruri autentice la o csárda tradițională maghiară."
+          },
+          {
+            "name": "Sarmale",
+            "tip": "Un fel de mâncare consistent, perfect pentru prânz."
+          },
+          {
+            "name": "Cofetărie în centru",
+            "tip": "Pentru o cafea și o prăjitură după turul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Csárda on the outskirts",
+            "tip": "Try authentic dishes at a traditional Hungarian inn."
+          },
+          {
+            "name": "Stuffed Cabbage",
+            "tip": "A hearty dish, perfect for lunch."
+          },
+          {
+            "name": "Pastry shop in the center",
+            "tip": "For a coffee and cake after your city walk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt durch die Puszta",
+            "tip": "Genießen Sie die weite Landschaft außerhalb der Stadt.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Saunawelt in Gyopárosfürdő",
+            "tip": "Finden Sie absolute Ruhe und Entspannung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang am Seeufer",
+            "tip": "Ein friedlicher Weg rund um den Gyopáros-See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a pusztán",
+            "tip": "Élvezze a tágas tájat a városon kívül.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Szaunavilág Gyopárosfürdőn",
+            "tip": "Találja meg a teljes nyugalmat és kikapcsolódást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a tóparton",
+            "tip": "Békés ösvény a Gyopárosi-tó körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina prin Puszta",
+            "tip": "Bucurați-vă de peisajul vast din afara orașului.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Lumea saunelor la Gyopárosfürdő",
+            "tip": "Găsiți liniște și relaxare absolută.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare pe malul lacului",
+            "tip": "O potecă liniștită în jurul lacului Gyopáros.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive through the Puszta",
+            "tip": "Enjoy the vast landscape outside the city.",
+            "emoji": "🚗"
+          },
+          {
+            "name": "Sauna World in Gyopárosfürdő",
+            "tip": "Find absolute peace and relaxation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lakeside walk",
+            "tip": "A peaceful path around Lake Gyopáros.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Kaufen Sie frische Produkte direkt vom Bauernhof in der Umgebung."
+          },
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Ideal, um sich für ein Picknick einzudecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Vásároljon friss termékeket közvetlenül a környékbeli gazdaságokból."
+          },
+          {
+            "name": "Szupermarketek a város szélén",
+            "tip": "Ideális egy piknik bevásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine agricole",
+            "tip": "Cumpărați produse proaspete direct de la fermele din jur."
+          },
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Ideal pentru a vă aproviziona pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Buy fresh produce directly from farms in the surrounding area."
+          },
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Ideal for stocking up for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren im Stadtzentrum können anfallen.",
+          "Nutzen Sie eine Navigations-App, um zwischen den Clustern zu navigieren.",
+          "Planen Sie genügend Zeit für die Fahrt zum Heilbad ein.",
+          "Überprüfen Sie die Verfügbarkeit von Parkplätzen an den Sehenswürdigkeiten."
+        ],
+        "hu": [
+          "A belvárosban parkolási díjak merülhetnek fel.",
+          "Használjon navigációs alkalmazást a klaszterek közötti közlekedéshez.",
+          "Tervezzen elegendő időt a gyógyfürdőhöz való utazásra.",
+          "Ellenőrizze a parkolóhelyek elérhetőségét a látnivalóknál."
+        ],
+        "ro": [
+          "Se pot aplica taxe de parcare în centrul orașului.",
+          "Folosiți o aplicație de navigație pentru a vă deplasa între grupuri.",
+          "Planificați suficient timp pentru a ajunge la băile termale.",
+          "Verificați disponibilitatea locurilor de parcare la atracții."
+        ],
+        "en": [
+          "Parking fees may apply in the city center.",
+          "Use a navigation app to get between the clusters.",
+          "Allow enough time for the drive to the spa.",
+          "Check parking availability at the attractions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Fő tér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            20.6665,
+            46.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe. Ein guter Ausgangspunkt.",
+            "hu": "A legtöbb buszjárat a közelben áll meg. Jó kiindulópont.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Un bun punct de plecare.",
+            "en": "Most bus lines stop nearby. A great starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Kirche",
+            "hu": "Evangélikus templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical Church"
+          },
+          "coords": [
+            20.669,
+            46.568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Hauptplatz zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a Fő térről.",
+            "ro": "Ușor de ajuns pe jos din Piața Principală.",
+            "en": "Easily walkable from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Szántó-Kovács-János-Museum",
+            "hu": "Szántó Kovács János Múzeum",
+            "ro": "Muzeul Szántó Kovács János",
+            "en": "Szántó Kovács János Museum"
+          },
+          "coords": [
+            20.671,
+            46.5665
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang durch das Zentrum zu diesem Museum fort.",
+            "hu": "Folytassa sétáját a központon keresztül ehhez a múzeumhoz.",
+            "ro": "Continuați plimbarea prin centru până la acest muzeu.",
+            "en": "Continue your walk through the center to this museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            20.6695,
+            46.567
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants für eine traditionelle Mahlzeit.",
+            "hu": "Válasszon egyet a sok étterem közül egy hagyományos ebédhez.",
+            "ro": "Alegeți unul dintre numeroasele restaurante pentru o masă tradițională.",
+            "en": "Choose from one of the many restaurants for a traditional meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyopárosfürdő Heilbad",
+            "hu": "Gyopárosfürdő Gyógyfürdő",
+            "ro": "Băile Gyopárosfürdő",
+            "en": "Gyopárosfürdő Thermal Spa"
+          },
+          "coords": [
+            20.63,
+            46.565
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 240,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Heilbad. Überprüfen Sie den Fahrplan im Voraus.",
+            "hu": "Menjen helyi busszal a gyógyfürdőhöz. Előre tájékozódjon a menetrendről.",
+            "ro": "Luați un autobuz local spre băile termale. Verificați programul în avans.",
+            "en": "Take a local bus to the spa. Check the schedule in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Orosháza mit öffentlichen Verkehrsmitteln, beginnend im historischen Zentrum, das leicht zu Fuß erkundet werden kann. Besuchen Sie den Hauptplatz, die Kirche und das Museum, bevor Sie zu Mittag essen. Am Nachmittag bringt Sie ein lokaler Bus bequem zum Highlight der Region, dem Thermalbad Gyopárosfürdő, wo Sie sich entspannen und erholen können. Diese Route maximiert Ihre Zeit im Zentrum und bietet einen stressfreien Transport zum weiter entfernten Heilbad.",
+        "hu": "Fedezze fel Orosházát tömegközlekedéssel, kezdve a történelmi központban, amely könnyen bejárható gyalog. Látogasson el a Fő térre, a templomhoz és a múzeumba, mielőtt megebédel. Délután egy helyi busz kényelmesen elviszi a régió fénypontjához, a Gyopárosfürdőhöz, ahol pihenhet és feltöltődhet. Ez az útvonal maximalizálja a központban töltött időt, és stresszmentes eljutást biztosít a távolabbi gyógyfürdőhöz.",
+        "ro": "Descoperiți Orosháza cu transportul public, începând din centrul istoric, care poate fi explorat cu ușurință pe jos. Vizitați Piața Principală, biserica și muzeul înainte de a lua prânzul. După-amiaza, un autobuz local vă va duce confortabil la punctul culminant al regiunii, Băile Termale Gyopárosfürdő, unde vă puteți relaxa și reîncărca. Acest traseu maximizează timpul petrecut în centru și oferă transport fără stres la băile mai îndepărtate.",
+        "en": "Discover Orosháza using public transport, starting in the historic center which is easily explored on foot. Visit the main square, church, and museum before having lunch. In the afternoon, a local bus will comfortably take you to the region's highlight, the Gyopárosfürdő Thermal Spa, where you can relax and rejuvenate. This route maximizes your time in the center and provides stress-free transport to the more distant spa."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orosházaer Kulen",
+            "tip": "Eine lokale, würzige Wurst, die man auf dem Markt probieren sollte."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Ein klassisches ungarisches Gulasch in einem der Restaurants im Stadtzentrum."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Probieren Sie diesen frittierten Teigfladen am Eingang des Heilbads."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orosházi kolbász",
+            "tip": "Helyi, fűszeres kolbászfajta, amit érdemes megkóstolni a piacon."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Egy klasszikus magyar gulyás a belvárosi éttermek egyikében."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Kóstolja meg ezt a sült tésztát a gyógyfürdő bejáratánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Orosháza",
+            "tip": "Un cârnat local, picant, de încercat în piață."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Un gulaș maghiar clasic la unul dintre restaurantele din centru."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Încercați această plăcintă prăjită la intrarea în complexul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orosháza Sausage",
+            "tip": "A local, spicy sausage worth trying at the market."
+          },
+          {
+            "name": "Goulash",
+            "tip": "A classic Hungarian goulash at one of the city center restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Try this fried dough flatbread at the entrance to the spa."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gyopáros-Sees",
+            "tip": "Ein ruhiger Spaziergang um den See am späten Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Evangelischen Kirche",
+            "tip": "Eine friedliche Bank unter alten Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Historischer Park Gellértegyháza",
+            "tip": "Finden Sie einen ruhigen Platz zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyopárosi-tó partja",
+            "tip": "Egy csendes séta a tó körül késő délután.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evangélikus templom kertje",
+            "tip": "Egy békés pad az öreg fák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gellértegyházi Történelmi Emlékpark",
+            "tip": "Keressen egy csendes zugot az elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Gyopáros",
+            "tip": "O plimbare liniștită în jurul lacului după-amiaza târziu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Bisericii Evanghelice",
+            "tip": "O bancă liniștită sub copaci bătrâni.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Istoric Gellértegyháza",
+            "tip": "Găsiți un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of Lake Gyopáros",
+            "tip": "A quiet walk around the lake in the late afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evangelical Church Park",
+            "tip": "A peaceful bench under old trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gellértegyháza Historical Park",
+            "tip": "Find a quiet spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Paprika, Honig und handgemachte Produkte aus der Region."
+          },
+          {
+            "name": "Souvenirladen am Heilbad",
+            "tip": "Finden Sie Andenken im Zusammenhang mit dem berühmten Heilwasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon helyi paprikát, mézet és kézműves termékeket."
+          },
+          {
+            "name": "Ajándékbolt a Gyógyfürdőnél",
+            "tip": "Keressen a híres gyógyvízzel kapcsolatos emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați boia, miere și produse artizanale din regiune."
+          },
+          {
+            "name": "Magazin de suveniruri la băi",
+            "tip": "Găsiți amintiri legate de faimoasa apă termală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local paprika, honey, and handmade crafts."
+          },
+          {
+            "name": "Spa Souvenir Shop",
+            "tip": "Find memorabilia related to the famous medicinal water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Seien Sie pünktlich an der Bushaltestelle, besonders bei selteneren Verbindungen.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha több utazást tervez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Legyen pontosan a buszmegállóban, különösen a ritkábban közlekedő járatok esetében.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, ha bizonytalan."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi dacă plănuiți mai multe călătorii.",
+          "Orarele autobuzelor pot fi găsite online sau la stații.",
+          "Fiți la timp la stația de autobuz, mai ales pentru rutele mai puțin frecvente.",
+          "Întrebați localnicii despre linia corectă de autobuz dacă nu sunteți sigur."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan multiple trips.",
+          "Bus schedules can be found online or at the stops.",
+          "Be at the bus stop on time, especially for less frequent services.",
+          "Ask a local for the right bus line if you're unsure."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "city_id": "greece-spetses-town-cities-v2",
+  "anchor": {
+    "name": "Spetses Stadt",
+    "coords": [
+      23.1667,
+      37.2667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dapia (Hauptplatz)",
+            "hu": "Dapia (Főtér)",
+            "ro": "Dapia (Piața Principală)",
+            "en": "Dapia (Main Square)"
+          },
+          "coords": [
+            23.1667,
+            37.2667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Freddo Cappuccino in einem der Hafencafés und beobachten Sie das Treiben.",
+            "hu": "Indítsa a napot egy freddo cappuccinóval a kikötői kávézók egyikében, és figyelje a nyüzsgést.",
+            "ro": "Începeți ziua cu un freddo cappuccino la una dintre cafenelele din port și priviți agitația.",
+            "en": "Start your day with a Freddo Cappuccino at one of the portside cafes and watch the world go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidonion Grand Hotel",
+            "hu": "Poseidonion Grand Hotel",
+            "ro": "Poseidonion Grand Hotel",
+            "en": "Poseidonion Grand Hotel"
+          },
+          "coords": [
+            23.165,
+            37.2675
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie nicht hier übernachten, bewundern Sie die Belle-Époque-Architektur von der Promenade aus.",
+            "hu": "Még ha nem is itt száll meg, csodálja meg a Belle Époque építészetét a sétányról.",
+            "ro": "Chiar dacă nu stați aici, admirați arhitectura Belle Époque de pe promenadă.",
+            "en": "Even if you're not staying, admire the Belle Époque architecture from the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouboulina-Museum",
+            "hu": "Bubulina Múzeum",
+            "ro": "Muzeul Bouboulina",
+            "en": "Bouboulina Museum"
+          },
+          "coords": [
+            23.1658,
+            37.2655
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die fesselnde Geschichte der Heldin der griechischen Revolution zu hören.",
+            "hu": "Vegyen részt egy tárlatvezetésen, hogy meghallgassa a görög forradalom hősnőjének lebilincselő történetét.",
+            "ro": "Participați la un tur ghidat pentru a auzi povestea captivantă a eroinei Revoluției Grecești.",
+            "en": "Join a guided tour to hear the captivating story of the Greek Revolution's heroine."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Agios Nikolaos",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            23.169,
+            37.263
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das wunderschöne Kieselsteinmosaik im Innenhof, das einen Dreizack darstellt.",
+            "hu": "Figyelje meg a gyönyörű kavicsmozaikot az udvaron, amely egy háromágú szigonyt ábrázol.",
+            "ro": "Observați frumosul mozaic din pietricele din curte, care înfățișează un trident.",
+            "en": "Look for the beautiful pebble mosaic in the courtyard depicting a trident."
+          }
+        },
+        {
+          "name": {
+            "de": "Spetses-Museum",
+            "hu": "Szpécesz Múzeum",
+            "ro": "Muzeul din Spetses",
+            "en": "Spetses Museum"
+          },
+          "coords": [
+            23.1705,
+            37.2625
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier finden Sie das originale Flaggenbanner der griechischen Revolution. Ein Muss für Geschichtsliebhaber.",
+            "hu": "Itt található a görög forradalom eredeti zászlaja. Történelemkedvelőknek kötelező.",
+            "ro": "Aici veți găsi steagul original al Revoluției Grecești. O vizită obligatorie pentru pasionații de istorie.",
+            "en": "Find the original flag of the Greek Revolution here. A must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen (Palio Limani)",
+            "hu": "Régi Kikötő (Palio Limani)",
+            "ro": "Portul Vechi (Palio Limani)",
+            "en": "Old Harbour (Palio Limani)"
+          },
+          "coords": [
+            23.174,
+            37.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für ein spätes Mittagessen in einer der Fischtavernen direkt am Wasser. Beobachten Sie die Bootsbauer bei der Arbeit.",
+            "hu": "Ideális egy késői ebédhez a vízparti haltavernáinak egyikében. Figyelje a hajóépítőket munka közben.",
+            "ro": "Ideal pentru un prânz târziu la una dintre tavernele pescărești de pe malul apei. Priviți constructorii de bărci la lucru.",
+            "en": "Perfect for a late lunch at a waterside fish tavern. Watch the boatbuilders at their craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Spetses",
+            "hu": "Szpéceszi világítótorony",
+            "ro": "Farul din Spetses",
+            "en": "Lighthouse of Spetses"
+          },
+          "coords": [
+            23.177,
+            37.26
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der beste Ort auf der Insel, um den Sonnenuntergang zu beobachten. Bringen Sie Ihre Kamera mit!",
+            "hu": "A legjobb hely a szigeten a naplemente megtekintéséhez. Hozza magával a fényképezőgépét!",
+            "ro": "Cel mai bun loc de pe insulă pentru a privi apusul. Aduceți-vă aparatul foto!",
+            "en": "The best spot on the island to watch the sunset. Bring your camera!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt am lebhaften Dapia-Platz, dem Herzen von Spetses. Am Vormittag erkunden Sie die maritime Geschichte im Bouboulina-Museum und bewundern die Eleganz des Poseidonion. Mittags tauchen Sie in die lokale Kultur ein mit Besuchen der Agios Nikolaos Kirche und des Spetses-Museums. Der Nachmittag ist für den malerischen Alten Hafen reserviert, wo Sie in einer Taverne entspannen, bevor Sie zum Leuchtturm spazieren, um einen unvergesslichen Sonnenuntergang zu erleben. Am Abend kehren Sie ins Zentrum zurück, erfüllt von den Eindrücken des Tages.",
+        "hu": "Sétája a nyüzsgő Dapia téren, Szpécesz szívében kezdődik. Délelőtt fedezze fel a tengerészeti történelmet a Bubulina Múzeumban, és csodálja meg a Poseidonion eleganciáját. Délben merüljön el a helyi kultúrában a Szent Miklós-templom és a Szpécesz Múzeum meglátogatásával. A délután a festői Régi Kikötőé, ahol egy tavernban pihenhet, mielőtt a világítótoronyhoz sétálva egy felejthetetlen naplementében gyönyörködne. Este térjen vissza a központba a nap élményeivel feltöltődve.",
+        "ro": "Plimbarea dvs. începe în vibranta Piață Dapia, inima insulei Spetses. Dimineața, explorați istoria maritimă la Muzeul Bouboulina și admirați eleganța hotelului Poseidonion. La prânz, pătrundeți în cultura locală vizitând Biserica Agios Nikolaos și Muzeul Spetses. După-amiaza este rezervată pitorescului Port Vechi, unde vă puteți relaxa la o tavernă înainte de a vă plimba spre far pentru un apus de neuitat. Seara, vă întoarceți în centru, plini de impresiile zilei.",
+        "en": "Your walking tour begins at the vibrant Dapia Square, the heart of Spetses. In the morning, explore the maritime history at the Bouboulina Museum and admire the elegance of the Poseidonion. At midday, immerse yourself in local culture with visits to Agios Nikolaos Church and the Spetses Museum. The afternoon is for the picturesque Old Harbour, relaxing at a taverna before strolling to the lighthouse for an unforgettable sunset. In the evening, return to the center, filled with the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch à la Spetsiota",
+            "tip": "Ein lokaler Klassiker: im Ofen gebackener Fisch mit Tomatensauce, Kräutern und Olivenöl. Probieren Sie es im 'Tarsanas' im Alten Hafen."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Traditionelle Mandelkekse, die auf der Zunge zergehen. Perfekt als süßer Snack von einer lokalen Bäckerei."
+          },
+          {
+            "name": "Oktopus vom Grill",
+            "tip": "Frisch gefangen und perfekt gegrillt, serviert mit Zitrone und Olivenöl. Ein Muss in jeder Fischtaverne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hal 'Spetsiota' módra",
+            "tip": "Helyi klasszikus: sütőben sült hal paradicsomszósszal, fűszernövényekkel és olívaolajjal. Próbálja ki a 'Tarsanas'-ban a Régi Kikötőben."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Hagyományos mandulás sütemény, ami elolvad a szájban. Tökéletes édes snack egy helyi pékségből."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen fogott és tökéletesen grillezett, citrommal és olívaolajjal tálalva. Minden haltavernában kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește à la Spetsiota",
+            "tip": "Un clasic local: pește la cuptor cu sos de roșii, ierburi și ulei de măsline. Încercați-l la 'Tarsanas' în Portul Vechi."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Prăjituri tradiționale cu migdale care se topesc în gură. Perfecte ca o gustare dulce de la o brutărie locală."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspăt prinsă și perfect gătită la grătar, servită cu lămâie și ulei de măsline. O necesitate în orice tavernă pescărească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish à la Spetsiota",
+            "tip": "A local classic: oven-baked fish with tomato sauce, herbs, and olive oil. Try it at 'Tarsanas' in the Old Harbour."
+          },
+          {
+            "name": "Amygdalota",
+            "tip": "Traditional almond sweets that melt in your mouth. Perfect for a sweet snack from a local bakery."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Freshly caught and grilled to perfection, served with lemon and olive oil. A must-try at any fish tavern."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfad zum Leuchtturm",
+            "tip": "Der Weg selbst ist ruhig und bietet atemberaubende Ausblicke auf das Meer, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Paraskevi Strand",
+            "tip": "Ein kurzer Spaziergang vom Alten Hafen entfernt, ein ruhiger Ort zum Entspannen am Nachmittag.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gassen im Alten Hafen",
+            "tip": "Verlieren Sie sich in den engen Gassen hinter den Tavernen für einen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ösvény a világítótoronyhoz",
+            "tip": "Maga az ösvény csendes és lélegzetelállító kilátást nyújt a tengerre, különösen naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Paraskevi strand",
+            "tip": "Rövid sétára a Régi Kikötőtől, csendes hely a délutáni pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Régi Kikötő sikátorai",
+            "tip": "Vesszen el a tavernák mögötti szűk sikátorokban egy pillanatnyi békéért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea spre Far",
+            "tip": "Cărarea în sine este liniștită și oferă vederi uluitoare asupra mării, mai ales la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Agia Paraskevi",
+            "tip": "La o scurtă plimbare de Portul Vechi, un loc liniștit pentru a vă relaxa după-amiaza.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele din Portul Vechi",
+            "tip": "Pierdeți-vă pe străduțele înguste din spatele tavernelor pentru un moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to the Lighthouse",
+            "tip": "The path itself is quiet and offers breathtaking sea views, especially at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Paraskevi Beach",
+            "tip": "A short walk from the Old Harbour, a quiet spot to relax in the afternoon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Alleys of the Old Harbour",
+            "tip": "Get lost in the narrow alleys behind the tavernas for a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keramik",
+            "tip": "Handgefertigte Keramik mit maritimen Motiven, ein schönes Andenken. Suchen Sie nach kleinen Werkstätten in der Nähe des Alten Hafens."
+          },
+          {
+            "name": "Leinenkleidung",
+            "tip": "Leichte und stilvolle Leinenhemden und -kleider, perfekt für das Inselklima. Boutiquen finden Sie rund um den Dapia-Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerámia",
+            "tip": "Kézzel készített kerámiák tengeri motívumokkal, szép emlék. Keressen kis műhelyeket a Régi Kikötő közelében."
+          },
+          {
+            "name": "Vászonruházat",
+            "tip": "Könnyű és stílusos vászoningek és -ruhák, tökéletesek a szigeti klímához. Butikokat a Dapia tér környékén talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Ceramică lucrată manual cu motive maritime, o amintire frumoasă. Căutați mici ateliere lângă Portul Vechi."
+          },
+          {
+            "name": "Haine din in",
+            "tip": "Cămăși și rochii din in, ușoare și elegante, perfecte pentru climatul insulei. Găsiți buticuri în jurul Pieței Dapia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Handmade ceramics with maritime motifs make a beautiful souvenir. Look for small workshops near the Old Harbour."
+          },
+          {
+            "name": "Linen Clothing",
+            "tip": "Light and stylish linen shirts and dresses, perfect for the island climate. You'll find boutiques around Dapia Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen und Wege oft uneben sind.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta, planen Sie Ihre Einkäufe entsprechend.",
+          "Eine Wasserflasche ist unerlässlich, besonders in den Sommermonaten.",
+          "Fragen Sie nach dem 'Fang des Tages' in den Tavernen für den frischesten Fisch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az utcák és ösvények gyakran egyenetlenek.",
+          "A legtöbb üzlet délután bezár egy sziesztára, tervezze meg a vásárlást ennek megfelelően.",
+          "A vizes palack elengedhetetlen, különösen a nyári hónapokban.",
+          "Kérdezze meg a 'nap fogását' a tavernákban a legfrissebb halért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile și cărările sunt adesea denivelate.",
+          "Majoritatea magazinelor se închid după-amiaza pentru siestă, planificați-vă cumpărăturile în consecință.",
+          "O sticlă de apă este esențială, mai ales în lunile de vară.",
+          "Întrebați de 'captura zilei' la taverne pentru cel mai proaspăt pește."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets and paths are often uneven.",
+          "Most shops close in the afternoon for a siesta, so plan your shopping accordingly.",
+          "A water bottle is essential, especially during the summer months.",
+          "Ask for the 'catch of the day' at the tavernas for the freshest fish."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dapia (Hauptplatz)",
+            "hu": "Dapia (Főtér)",
+            "ro": "Dapia (Piața Principală)",
+            "en": "Dapia (Main Square)"
+          },
+          "coords": [
+            23.1667,
+            37.2667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad hier und genießen Sie einen Kaffee, bevor Sie losfahren.",
+            "hu": "Béreljen itt kerékpárt, és igyon meg egy kávét indulás előtt.",
+            "ro": "Închiriați-vă bicicleta de aici și savurați o cafea înainte de a porni la drum.",
+            "en": "Rent your bike here and have a coffee before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Anargyrios-Schule",
+            "hu": "Anargüriosz Iskola",
+            "ro": "Școala Anargyrios",
+            "en": "Anargyrios School"
+          },
+          "coords": [
+            23.156,
+            37.264
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes neoklassizistisches Gebäude. Ein kurzer Fotostopp auf dem Weg aus der Stadt.",
+            "hu": "Lenyűgöző neoklasszikus épület. Egy rövid fotómegálló a városból kifelé vezető úton.",
+            "ro": "O clădire neoclasică impresionantă. O scurtă oprire pentru fotografii la ieșirea din oraș.",
+            "en": "An impressive neoclassical building. A quick photo stop on your way out of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouboulina-Museum",
+            "hu": "Bubulina Múzeum",
+            "ro": "Muzeul Bouboulina",
+            "en": "Bouboulina Museum"
+          },
+          "coords": [
+            23.1658,
+            37.2655
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und tauchen Sie ein in die Geschichte dieser unglaublichen Frau.",
+            "hu": "Zárja le a kerékpárját, és merüljön el ennek a hihetetlen nőnek a történetében.",
+            "ro": "Legați-vă bicicleta și pătrundeți în povestea acestei femei incredibile.",
+            "en": "Lock up your bike and dive into the history of this incredible woman."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Agios Nikolaos",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            23.169,
+            37.263
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort der Einkehr. Der Glockenturm ist aus Marmor von der Insel Tinos gefertigt.",
+            "hu": "A csendes elmélkedés helye. A harangtorony Tinosz szigetéről származó márványból készült.",
+            "ro": "Un loc pașnic de reculegere. Clopotnița este făcută din marmură de pe insula Tinos.",
+            "en": "A peaceful place for contemplation. The bell tower is made of marble from Tinos island."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Hafen (Palio Limani)",
+            "hu": "Régi Kikötő (Palio Limani)",
+            "ro": "Portul Vechi (Palio Limani)",
+            "en": "Old Harbour (Palio Limani)"
+          },
+          "coords": [
+            23.174,
+            37.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie ein langes Mittagessen in einer der traditionellen Werften (Karnagia).",
+            "hu": "Parkolja le a kerékpárt, és élvezzen egy hosszú ebédet a hagyományos hajógyárak (Karnagia) egyikében.",
+            "ro": "Parcați-vă bicicleta și bucurați-vă de un prânz lung la unul dintre șantierele navale tradiționale (Karnagia).",
+            "en": "Park your bike and enjoy a long lunch at one of the traditional boatyards (Karnagia)."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Spetses",
+            "hu": "Szpéceszi világítótorony",
+            "ro": "Farul din Spetses",
+            "en": "Lighthouse of Spetses"
+          },
+          "coords": [
+            23.177,
+            37.26
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Straße hierher ist asphaltiert und flach, eine einfache und lohnende Fahrt für die Aussicht.",
+            "hu": "Az ide vezető út aszfaltozott és sík, könnyű és hálás út a kilátásért.",
+            "ro": "Drumul până aici este asfaltat și plat, o plimbare ușoară și plină de satisfacții pentru priveliște.",
+            "en": "The road here is paved and flat, making for an easy and rewarding ride for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zur Dapia",
+            "hu": "Vissza Dapiába",
+            "ro": "Întoarcere la Dapia",
+            "en": "Return to Dapia"
+          },
+          "coords": [
+            23.1667,
+            37.2667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem Eis, während Sie den Sonnenuntergang über dem Hafen beobachten.",
+            "hu": "Adja vissza a kerékpárt, és jutalmazza meg magát egy fagyival, miközben a naplementét nézi a kikötő felett.",
+            "ro": "Returnați bicicleta și răsfățați-vă cu o înghețată în timp ce priviți apusul peste port.",
+            "en": "Return your bike and reward yourself with an ice cream while watching the sunset over the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt in Dapia, von wo aus Sie eine kurze Fahrt zur beeindruckenden Anargyrios-Schule machen. Am Vormittag radeln Sie zurück ins Zentrum, um das Bouboulina-Museum zu erkunden. Mittags führt Sie Ihr Weg entlang der Küste zur Agios Nikolaos Kirche und weiter zum Alten Hafen für ein entspanntes Mittagessen. Am Nachmittag radeln Sie zur Spitze der Halbinsel zum Leuchtturm, um die Aussicht zu genießen, bevor Sie gemütlich nach Dapia zurückkehren und den Tag mit Blick auf das Meer ausklingen lassen.",
+        "hu": "Kerékpártúrája Dapiából indul, ahonnan egy rövid tekeréssel eljut a lenyűgöző Anargüriosz Iskolához. Délelőtt visszateker a központba, hogy felfedezze a Bubulina Múzeumot. Délben az útja a part mentén vezet a Szent Miklós-templomhoz, majd tovább a Régi Kikötőbe egy pihentető ebédre. Délután a félsziget csúcsához, a világítótoronyhoz teker, hogy élvezze a kilátást, mielőtt kényelmesen visszatér Dapiába, és a tengerre nézve zárja a napot.",
+        "ro": "Turul pe bicicletă începe în Dapia, de unde faceți o scurtă plimbare până la impresionanta Școală Anargyrios. Dimineața, pedalați înapoi spre centru pentru a explora Muzeul Bouboulina. La prânz, traseul vă duce de-a lungul coastei la Biserica Agios Nikolaos și mai departe la Portul Vechi pentru un prânz relaxant. După-amiaza, pedalați spre vârful peninsulei la far pentru a vă bucura de priveliște, înainte de a vă întoarce agale în Dapia pentru a încheia ziua cu o priveliște la mare.",
+        "en": "Your bike tour starts in Dapia, from where you take a short ride to the impressive Anargyrios School. In the morning, you'll cycle back to the center to explore the Bouboulina Museum. At midday, your path takes you along the coast to Agios Nikolaos Church and on to the Old Harbour for a relaxed lunch. In the afternoon, cycle to the tip of the peninsula to the lighthouse to enjoy the view, before leisurely returning to Dapia to end the day with a view of the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Pasta",
+            "tip": "Frische Pasta mit Garnelen, Muscheln und einer leichten Tomatensauce. Perfekt nach einer Radtour, z.B. bei 'Patralis'."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Ein einfacher, aber köstlicher Salat mit sonnengereiften Tomaten, Gurken, Feta und Olivenöl von Spetses."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller und leckerer Snack. Holen Sie sich ein Souvlaki-Pita zum Mitnehmen und essen Sie es am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tészta",
+            "tip": "Friss tészta garnélával, kagylóval és könnyű paradicsomszósszal. Tökéletes egy kerékpártúra után, pl. a 'Patralis'-ban."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Egyszerű, de finom saláta napérlelte paradicsommal, uborkával, feta sajttal és szpéceszi olívaolajjal."
+          },
+          {
+            "name": "Szuvlaki",
+            "tip": "Gyors és ízletes snack. Vegyen egy szuvlaki pitát elvitelre, és egye meg a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste cu fructe de mare",
+            "tip": "Paste proaspete cu creveți, scoici și un sos ușor de roșii. Perfecte după un tur cu bicicleta, de ex. la 'Patralis'."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "O salată simplă, dar delicioasă, cu roșii coapte la soare, castraveți, brânză feta și ulei de măsline din Spetses."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă și delicioasă. Luați o souvlaki pita la pachet și mâncați-o pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Pasta",
+            "tip": "Fresh pasta with shrimp, mussels, and a light tomato sauce. Perfect after a bike ride, e.g., at 'Patralis'."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "A simple but delicious salad with sun-ripened tomatoes, cucumbers, feta, and Spetses olive oil."
+          },
+          {
+            "name": "Souvlaki",
+            "tip": "A quick and tasty snack. Grab a souvlaki pita to go and eat it on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Leuchtturm",
+            "tip": "Der Panoramablick über das Meer zur Peloponnes ist an einem klaren Tag unschlagbar.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Marina Strand",
+            "tip": "Eine kurze Radtour von der Stadt entfernt, ein organisierter Strand, der aber ruhige Ecken bietet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kiefernwälder",
+            "tip": "Machen Sie einen Abstecher ins Landesinnere und genießen Sie den Duft der Kiefern und die Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a világítótoronytól",
+            "tip": "A panorámás kilátás a tengeren át a Peloponnészoszra tiszta napon verhetetlen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Marina strand",
+            "tip": "Rövid kerékpárútra a várostól, egy szervezett strand, amely csendes sarkokat is kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fenyőerdők",
+            "tip": "Tegyen egy kitérőt a sziget belsejébe, és élvezze a fenyők illatát és a csendet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Far",
+            "tip": "Vederea panoramică peste mare spre Peloponez este imbatabilă într-o zi senină.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Agia Marina",
+            "tip": "La o scurtă plimbare cu bicicleta de oraș, o plajă organizată care oferă și colțuri liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pădurile de pini",
+            "tip": "Faceți un ocol spre interiorul insulei și bucurați-vă de mirosul de pini și de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Lighthouse",
+            "tip": "The panoramic view across the sea to the Peloponnese is unbeatable on a clear day.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agia Marina Beach",
+            "tip": "A short bike ride from town, an organized beach that still offers quiet corners.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pine Forests",
+            "tip": "Take a detour inland and enjoy the scent of the pines and the silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "Viele kleine Geschäfte verkaufen einzigartigen Schmuck, der von der Insel und dem Meer inspiriert ist."
+          },
+          {
+            "name": "Lokaler Honig und Olivenöl",
+            "tip": "Bringen Sie ein Stück Spetses nach Hause. Suchen Sie nach Produkten von lokalen Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ékszerek",
+            "tip": "Sok kis üzlet árul egyedi, a sziget és a tenger által inspirált ékszereket."
+          },
+          {
+            "name": "Helyi méz és olívaolaj",
+            "tip": "Hozzon haza egy darabot Szpéceszből. Keressen helyi termelők termékeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii handmade",
+            "tip": "Multe magazine mici vând bijuterii unice, inspirate de insulă și de mare."
+          },
+          {
+            "name": "Miere și ulei de măsline locale",
+            "tip": "Aduceți acasă o bucată din Spetses. Căutați produse de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Jewelry",
+            "tip": "Many small shops sell unique jewelry inspired by the island and the sea."
+          },
+          {
+            "name": "Local Honey and Olive Oil",
+            "tip": "Bring a piece of Spetses home with you. Look for products from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Straßen in der Stadt sind für Autos gesperrt, was das Radfahren sehr angenehm macht.",
+          "Ein Fahrrad mit Gangschaltung ist empfehlenswert, wenn Sie die Insel weiter erkunden möchten.",
+          "Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps.",
+          "Die Küstenstraße um die Insel ist etwa 25 km lang - eine tolle, aber anspruchsvolle Tagestour."
+        ],
+        "hu": [
+          "A város legtöbb utcája le van zárva az autók elől, ami nagyon kellemessé teszi a kerékpározást.",
+          "Váltós kerékpár ajánlott, ha a szigetet távolabb is fel szeretné fedezni.",
+          "Mindig zárja le a kerékpárját, még rövid megállókra is.",
+          "A sziget körüli tengerparti út kb. 25 km hosszú - egy nagyszerű, de kihívást jelentő egynapos túra."
+        ],
+        "ro": [
+          "Majoritatea străzilor din oraș sunt închise pentru mașini, ceea ce face ciclismul foarte plăcut.",
+          "O bicicletă cu viteze este recomandată dacă doriți să explorați mai mult insula.",
+          "Legați-vă întotdeauna bicicleta, chiar și pentru opriri scurte.",
+          "Drumul de coastă în jurul insulei are aproximativ 25 km - un tur de o zi minunat, dar provocator."
+        ],
+        "en": [
+          "Most streets in town are closed to cars, which makes cycling very pleasant.",
+          "A bike with gears is recommended if you want to explore further around the island.",
+          "Always lock your bike, even for short stops.",
+          "The coastal road around the island is about 25 km - a great but challenging day trip."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Stadtrand",
+            "hu": "Parkoló a város szélén",
+            "ro": "Parcare la marginea orașului",
+            "en": "Parking at the edge of town"
+          },
+          "coords": [
+            23.161,
+            37.268
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier Ihr Auto für den Tag. Das Zentrum von Spetses ist größtenteils autofrei.",
+            "hu": "Parkolja le itt az autóját a napra. Szpécesz központja nagyrészt autómentes.",
+            "ro": "Parcați-vă mașina aici pentru întreaga zi. Centrul orașului Spetses este în mare parte pietonal.",
+            "en": "Park your car here for the day. Spetses town center is mostly car-free."
+          }
+        },
+        {
+          "name": {
+            "de": "Dapia & Poseidonion (Cluster 1)",
+            "hu": "Dapia és Poseidonion (1. csoport)",
+            "ro": "Dapia și Poseidonion (Cluster 1)",
+            "en": "Dapia & Poseidonion (Cluster 1)"
+          },
+          "coords": [
+            23.1667,
+            37.2667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Hauptplatz und die Umgebung zu Fuß.",
+            "hu": "Fedezze fel gyalog a főteret és környékét.",
+            "ro": "Explorați piața principală și împrejurimile pe jos.",
+            "en": "Explore the main square and its surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouboulina-Museum (Cluster 1)",
+            "hu": "Bubulina Múzeum (1. csoport)",
+            "ro": "Muzeul Bouboulina (Cluster 1)",
+            "en": "Bouboulina Museum (Cluster 1)"
+          },
+          "coords": [
+            23.1658,
+            37.2655
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt, ein Muss für Geschichtsinteressierte.",
+            "hu": "Csak egy rövid séta a tértől, kötelező a történelem iránt érdeklődőknek.",
+            "ro": "La o scurtă plimbare de piață, o vizită obligatorie pentru pasionații de istorie.",
+            "en": "Just a short walk from the square, a must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Alten Hafen (Cluster 2)",
+            "hu": "Autóút a Régi Kikötőhöz (2. csoport)",
+            "ro": "Călătorie cu mașina spre Portul Vechi (Cluster 2)",
+            "en": "Drive to the Old Harbour (Cluster 2)"
+          },
+          "coords": [
+            23.174,
+            37.261
+          ],
+          "category": "transport",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie um die Stadt herum und parken Sie in der Nähe des Alten Hafens. Genießen Sie hier Ihr Mittagessen.",
+            "hu": "Kerülje meg a várost, és parkoljon a Régi Kikötő közelében. Itt ebédeljen.",
+            "ro": "Conduceți în jurul orașului și parcați lângă Portul Vechi. Bucurați-vă de prânz aici.",
+            "en": "Drive around the town and park near the Old Harbour. Enjoy your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spetses-Museum (Cluster 2)",
+            "hu": "Szpécesz Múzeum (2. csoport)",
+            "ro": "Muzeul din Spetses (Cluster 2)",
+            "en": "Spetses Museum (Cluster 2)"
+          },
+          "coords": [
+            23.1705,
+            37.2625
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Hafen zum Museum, das in einem Herrenhaus aus dem 18. Jahrhundert untergebracht ist.",
+            "hu": "Sétáljon a kikötőből a múzeumhoz, amely egy 18. századi udvarházban található.",
+            "ro": "Plimbați-vă de la port la muzeu, găzduit într-un conac din secolul al XVIII-lea.",
+            "en": "Walk from the harbour to the museum, housed in an 18th-century mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm & Ausblick (Cluster 2)",
+            "hu": "Világítótorony és kilátás (2. csoport)",
+            "ro": "Farul și priveliștea (Cluster 2)",
+            "en": "Lighthouse & View (Cluster 2)"
+          },
+          "coords": [
+            23.177,
+            37.26
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages. Ein Spaziergang entlang der Mole bietet die beste Aussicht auf den Sonnenuntergang.",
+            "hu": "A nap tökéletes befejezése. Séta a mólón a legjobb naplemente-kilátásért.",
+            "ro": "Finalul perfect al zilei. O plimbare de-a lungul digului oferă cea mai bună priveliște la apus.",
+            "en": "The perfect end to the day. A walk along the mole offers the best sunset views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt damit, dass Sie Ihr Auto am Rande der autofreien Zone parken. Der Vormittag gehört dem ersten Cluster: ein Spaziergang zum Dapia-Platz und zum Bouboulina-Museum. Mittags holen Sie Ihr Auto und fahren zum zweiten Cluster, dem Alten Hafen. Nach einem ausgiebigen Mittagessen erkunden Sie zu Fuß das Spetses-Museum und die traditionellen Werften. Der späte Nachmittag führt Sie zum Leuchtturm für einen spektakulären Sonnenuntergang, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "A nap azzal kezdődik, hogy leparkolja autóját az autómentes zóna szélén. A délelőtt az első csoporthoz tartozik: séta a Dapia térre és a Bubulina Múzeumhoz. Délben felveszi az autóját, és a második csoporthoz, a Régi Kikötőhöz hajt. Egy kiadós ebéd után gyalog fedezi fel a Szpécesz Múzeumot és a hagyományos hajógyárakat. A késő délután a világítótoronyhoz vezet egy látványos naplementéért, mielőtt visszatérne az autójához.",
+        "ro": "Ziua dvs. începe prin parcarea mașinii la marginea zonei pietonale. Dimineața este dedicată primului cluster: o plimbare până în Piața Dapia și la Muzeul Bouboulina. La prânz, vă luați mașina și conduceți spre al doilea cluster, Portul Vechi. După un prânz copios, explorați pe jos Muzeul Spetses și șantierele navale tradiționale. După-amiaza târziu vă duce la far pentru un apus spectaculos, înainte de a vă întoarce la mașină.",
+        "en": "Your day begins by parking your car at the edge of the car-free zone. The morning belongs to the first cluster: a walk to Dapia Square and the Bouboulina Museum. At midday, you'll retrieve your car and drive to the second cluster, the Old Harbour. After a hearty lunch, explore the Spetses Museum and traditional boatyards on foot. The late afternoon takes you to the lighthouse for a spectacular sunset before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'Mourayo'",
+            "tip": "Im Alten Hafen gelegen, bekannt für exzellente Meeresfrüchte und eine romantische Atmosphäre direkt am Wasser."
+          },
+          {
+            "name": "Lokal gebrautes Bier",
+            "tip": "Fragen Sie nach 'Spetses microbrewery beer' für einen erfrischenden, lokalen Geschmack."
+          },
+          {
+            "name": "Käsepasteten (Tiropita)",
+            "tip": "Ein herzhafter Snack, den man in jeder Bäckerei findet. Ideal für den kleinen Hunger zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Mourayo' Taverna",
+            "tip": "A Régi Kikötőben található, kiváló tengeri ételeiről és romantikus, vízparti hangulatáról ismert."
+          },
+          {
+            "name": "Helyi főzésű sör",
+            "tip": "Kérjen 'Spetses microbrewery beer'-t egy frissítő, helyi ízért."
+          },
+          {
+            "name": "Sajtos pite (Tiropita)",
+            "tip": "Kiadós snack, amelyet minden pékségben megtalál. Ideális a köztes éhség csillapítására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'Mourayo'",
+            "tip": "Situată în Portul Vechi, renumită pentru fructele de mare excelente și o atmosferă romantică chiar pe malul apei."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Întrebați de 'berea de la microberăria Spetses' pentru un gust local și răcoritor."
+          },
+          {
+            "name": "Plăcintă cu brânză (Tiropita)",
+            "tip": "O gustare consistentă găsită în orice brutărie. Ideală pentru o foame mică între mese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taverna 'Mourayo'",
+            "tip": "Located in the Old Harbour, known for excellent seafood and a romantic atmosphere right on the water."
+          },
+          {
+            "name": "Local craft beer",
+            "tip": "Ask for 'Spetses microbrewery beer' for a refreshing, local taste."
+          },
+          {
+            "name": "Cheese pies (Tiropita)",
+            "tip": "A savory snack found in any bakery. Ideal for a small hunger pang between meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Anargyrios-Schule",
+            "tip": "Obwohl Sie nicht anhalten, bietet die Fahrt dorthin einen weiten Blick über die Stadt und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang am Leuchtturm",
+            "tip": "Der unbestrittene Höhepunkt für einen ruhigen, malerischen Moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hinterhöfe der Kapitäns-Villen",
+            "tip": "Werfen Sie einen Blick in die Gärten der alten Herrenhäuser rund um das Spetses-Museum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás az Anargüriosz Iskolától",
+            "tip": "Bár nem áll meg, az odavezető út tágas kilátást nyújt a városra és a tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a világítótoronynál",
+            "tip": "A vitathatatlan csúcspont egy csendes, festői pillanatért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kapitányi villák hátsó udvarai",
+            "tip": "Vessen egy pillantást a régi udvarházak kertjeibe a Szpécesz Múzeum környékén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Școala Anargyrios",
+            "tip": "Deși nu opriți, drumul până acolo oferă o priveliște vastă asupra orașului și a mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus la Far",
+            "tip": "Punctul culminant incontestabil pentru un moment liniștit și pitoresc.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curțile din spatele vilelor căpitanilor",
+            "tip": "Aruncați o privire în grădinile vechilor conace din jurul Muzeului Spetses.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Anargyrios School",
+            "tip": "Although you're not stopping, the drive there offers a wide view over the town and sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset at the Lighthouse",
+            "tip": "The undisputed highlight for a quiet, picturesque moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Backyards of the Captains' Mansions",
+            "tip": "Take a peek into the gardens of the old mansions around the Spetses Museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schiffsmodelle",
+            "tip": "In den Werkstätten im Alten Hafen finden Sie wunderschöne, handgefertigte Modelle der traditionellen Boote."
+          },
+          {
+            "name": "Spetses-T-Shirts und -Hüte",
+            "tip": "Klassische Souvenirs, die Sie in den Geschäften am Dapia-Hafen finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajómodellek",
+            "tip": "A Régi Kikötő műhelyeiben gyönyörű, kézzel készített modelleket talál a hagyományos hajókból."
+          },
+          {
+            "name": "Szpéceszi pólók és sapkák",
+            "tip": "Klasszikus szuvenírek, amelyeket a Dapia kikötő üzleteiben talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Modele de nave",
+            "tip": "În atelierele din Portul Vechi veți găsi modele frumoase, lucrate manual, ale bărcilor tradiționale."
+          },
+          {
+            "name": "Tricouri și șepci Spetses",
+            "tip": "Suveniruri clasice pe care le veți găsi în magazinele din portul Dapia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Model Ships",
+            "tip": "In the workshops of the Old Harbour, you'll find beautiful, handmade models of the traditional boats."
+          },
+          {
+            "name": "Spetses T-shirts and Hats",
+            "tip": "Classic souvenirs you can find in the shops at Dapia port."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren auf Spetses ist außerhalb der Hauptsaison am einfachsten. Im Sommer ist es sehr voll.",
+          "Parkplätze sind rar. Planen Sie, Ihr Auto abzustellen und zu Fuß zu gehen.",
+          "Ein Auto ermöglicht es Ihnen, abgelegenere Strände auf der Insel zu besuchen, die zu Fuß schwer zu erreichen sind.",
+          "Achten Sie auf Motorroller und Pferdekutschen, die sich die Straßen teilen."
+        ],
+        "hu": [
+          "A vezetés Szpéceszen a főszezonon kívül a legegyszerűbb. Nyáron nagyon zsúfolt.",
+          "A parkolóhelyek ritkák. Tervezze úgy, hogy leteszi az autót és gyalogol.",
+          "Az autó lehetővé teszi, hogy olyan eldugottabb strandokat is meglátogasson a szigeten, amelyeket gyalog nehéz elérni.",
+          "Vigyázzon a robogókra és a lovas kocsikra, amelyekkel megosztja az utakat."
+        ],
+        "ro": [
+          "Condusul pe Spetses este cel mai ușor în afara sezonului de vârf. Vara este foarte aglomerat.",
+          "Locurile de parcare sunt rare. Planificați să lăsați mașina și să mergeți pe jos.",
+          "O mașină vă permite să vizitați plaje mai izolate de pe insulă, greu accesibile pe jos.",
+          "Fiți atenți la scutere și trăsuri cu cai, care împart drumurile."
+        ],
+        "en": [
+          "Driving in Spetses is easiest outside of the high season. It gets very crowded in summer.",
+          "Parking spaces are scarce. Plan to park your car and walk.",
+          "A car allows you to visit more remote beaches on the island that are difficult to reach on foot.",
+          "Watch out for scooters and horse-drawn carriages sharing the roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dapia-Platz (Cluster 1)",
+            "hu": "Dapia tér (1. csoport)",
+            "ro": "Piața Dapia (Cluster 1)",
+            "en": "Dapia Square (Cluster 1)"
+          },
+          "coords": [
+            23.1667,
+            37.2667
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für Busse und Wassertaxis. Beginnen Sie hier mit einem Kaffee.",
+            "hu": "A buszok és vízitaxik központi csomópontja. Kezdje itt egy kávéval.",
+            "ro": "Nodul central pentru autobuze și taxiuri pe apă. Începeți aici cu o cafea.",
+            "en": "The central hub for buses and water taxis. Start here with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouboulina-Museum (Cluster 1)",
+            "hu": "Bubulina Múzeum (1. csoport)",
+            "ro": "Muzeul Bouboulina (Cluster 1)",
+            "en": "Bouboulina Museum (Cluster 1)"
+          },
+          "coords": [
+            23.1658,
+            37.2655
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Heldin, die nur wenige Schritte vom Hafen entfernt ist.",
+            "hu": "Fedezze fel a hősnő történetét, csak néhány lépésre a kikötőtől.",
+            "ro": "Descoperiți povestea eroinei la doar câțiva pași de port.",
+            "en": "Discover the story of the heroine just a few steps from the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Wassertaxi zum Alten Hafen (Cluster 2)",
+            "hu": "Vízitaxi a Régi Kikötőbe (2. csoport)",
+            "ro": "Taxi pe apă spre Portul Vechi (Cluster 2)",
+            "en": "Water Taxi to Old Harbour (Cluster 2)"
+          },
+          "coords": [
+            23.174,
+            37.261
+          ],
+          "category": "transport",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine schnelle und malerische Fahrt. Genießen Sie die Aussicht auf die Küste und essen Sie hier zu Mittag.",
+            "hu": "Gyors és festői utazás. Élvezze a tengerparti kilátást és ebédeljen itt.",
+            "ro": "O călătorie rapidă și pitorească. Bucurați-vă de priveliștea coastei și luați prânzul aici.",
+            "en": "A quick and scenic ride. Enjoy the coastal views and have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos (Cluster 2)",
+            "hu": "Szent Miklós-templom (2. csoport)",
+            "ro": "Biserica Agios Nikolaos (Cluster 2)",
+            "en": "Church of Agios Nikolaos (Cluster 2)"
+          },
+          "coords": [
+            23.169,
+            37.263
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hafen entfernt, ein Juwel der Kirchenarchitektur.",
+            "hu": "Rövid sétára a kikötőtől, a templomépítészet gyöngyszeme.",
+            "ro": "La o scurtă plimbare de port, o bijuterie a arhitecturii bisericești.",
+            "en": "A short walk from the harbour, a gem of ecclesiastical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Spetses-Museum (Cluster 2)",
+            "hu": "Szpécesz Múzeum (2. csoport)",
+            "ro": "Muzeul din Spetses (Cluster 2)",
+            "en": "Spetses Museum (Cluster 2)"
+          },
+          "coords": [
+            23.1705,
+            37.2625
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die reiche Geschichte der Insel.",
+            "hu": "Mélyítse el ismereteit a sziget gazdag történelméről.",
+            "ro": "Aprofundați-vă cunoștințele despre istoria bogată a insulei.",
+            "en": "Deepen your knowledge of the island's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm-Spaziergang (Cluster 2)",
+            "hu": "Séta a világítótoronyhoz (2. csoport)",
+            "ro": "Plimbare la Far (Cluster 2)",
+            "en": "Lighthouse Walk (Cluster 2)"
+          },
+          "coords": [
+            23.177,
+            37.26
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen langen Spaziergang zum Leuchtturm, um den Tag ausklingen zu lassen, bevor Sie ein Wassertaxi zurücknehmen.",
+            "hu": "Élvezzen egy hosszú sétát a világítótoronyhoz a nap lezárásaként, mielőtt visszamenne egy vízitaxival.",
+            "ro": "Bucurați-vă de o plimbare lungă până la far pentru a încheia ziua înainte de a lua un taxi pe apă înapoi.",
+            "en": "Enjoy a long walk to the lighthouse to end the day before taking a water taxi back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im geschäftigen Zentrum von Dapia, wo Sie das Bouboulina-Museum zu Fuß erkunden. Am späten Vormittag nehmen Sie ein Wassertaxi – eine Attraktion für sich – zum zweiten Cluster, dem Alten Hafen. Hier verbringen Sie den Mittag und Nachmittag mit einem Spaziergang zur Agios Nikolaos Kirche, dem Spetses-Museum und schließlich zum Leuchtturm. Ein weiteres Wassertaxi bringt Sie am Abend bequem zurück zum Ausgangspunkt.",
+        "hu": "Tömegközlekedéssel töltött napja a nyüzsgő Dapia központjában kezdődik, ahol gyalog fedezi fel a Bubulina Múzeumot. Késő délelőtt egy vízitaxival – ami önmagában is látványosság – a második csoporthoz, a Régi Kikötőbe utazik. Itt tölti a délt és a délutánt egy sétával a Szent Miklós-templomhoz, a Szpécesz Múzeumhoz és végül a világítótoronyhoz. Este egy másik vízitaxi kényelmesen visszaviszi a kiindulópontra.",
+        "ro": "Ziua dvs. cu transportul public începe în centrul plin de viață din Dapia, unde explorați pe jos Muzeul Bouboulina. Spre sfârșitul dimineții, luați un taxi pe apă - o atracție în sine - către al doilea cluster, Portul Vechi. Aici vă petreceți prânzul și după-amiaza plimbându-vă la Biserica Agios Nikolaos, Muzeul Spetses și, în final, la far. Un alt taxi pe apă vă va duce confortabil înapoi la punctul de plecare seara.",
+        "en": "Your day on public transport begins in the bustling center of Dapia, where you'll explore the Bouboulina Museum on foot. In the late morning, you'll take a water taxi—an attraction in itself—to the second cluster, the Old Harbour. Here you'll spend midday and afternoon strolling to Agios Nikolaos Church, the Spetses Museum, and finally the lighthouse. Another water taxi will comfortably take you back to your starting point in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orlof 1821",
+            "tip": "Am Dapia-Hafen gelegen, ideal für einen Drink oder einen leichten Snack, bevor Sie das Wassertaxi nehmen."
+          },
+          {
+            "name": "Psarotaverna (Fischtaverne)",
+            "tip": "Wählen Sie eine beliebige Taverne im Alten Hafen. Die meisten bieten fangfrischen Fisch an."
+          },
+          {
+            "name": "Griechischer Joghurt mit Honig",
+            "tip": "Ein einfacher, aber köstlicher Genuss in jedem Café. Bitten Sie um lokalen Thymianhonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orlof 1821",
+            "tip": "A Dapia kikötőben található, ideális egy italra vagy egy könnyű snackre a vízitaxi előtt."
+          },
+          {
+            "name": "Psarotaverna (Haltaverna)",
+            "tip": "Válasszon bármelyik tavernát a Régi Kikötőben. A legtöbb frissen fogott halat kínál."
+          },
+          {
+            "name": "Görög joghurt mézzel",
+            "tip": "Egyszerű, de finom csemege minden kávézóban. Kérjen helyi kakukkfűmézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orlof 1821",
+            "tip": "Situat în portul Dapia, ideal pentru o băutură sau o gustare ușoară înainte de a lua taxiul pe apă."
+          },
+          {
+            "name": "Psarotaverna (Tavernă pescărească)",
+            "tip": "Alegeți orice tavernă din Portul Vechi. Majoritatea oferă pește proaspăt prins."
+          },
+          {
+            "name": "Iaurt grecesc cu miere",
+            "tip": "Un deliciu simplu, dar delicios, la orice cafenea. Cereți miere locală de cimbru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orlof 1821",
+            "tip": "Located at Dapia port, ideal for a drink or a light snack before catching the water taxi."
+          },
+          {
+            "name": "Psarotaverna (Fish Tavern)",
+            "tip": "Pick any taverna in the Old Harbour. Most offer freshly caught fish."
+          },
+          {
+            "name": "Greek Yoghurt with Honey",
+            "tip": "A simple but delicious treat at any cafe. Ask for local thyme honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Wassertaxifahrt",
+            "tip": "Die kurze Fahrt über das Wasser ist eine überraschend ruhige Erfahrung mit toller Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Agios Nikolaos",
+            "tip": "Ein Ort der Stille und Geschichte, direkt neben der Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blick von der Spitze des Alten Hafens",
+            "tip": "Gehen Sie über die Restaurants hinaus, um einen ruhigen Blick auf das Meer zu genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A vízitaxi út",
+            "tip": "A rövid vízi út meglepően csendes élmény, nagyszerű kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Miklós temetője",
+            "tip": "A csend és a történelem helye, közvetlenül a templom mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Régi Kikötő tetejéről",
+            "tip": "Menjen túl az éttermeken, hogy csendes kilátást élvezhessen a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu taxiul pe apă",
+            "tip": "Scurta călătorie pe apă este o experiență surprinzător de liniștită, cu priveliști grozave.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Agios Nikolaos",
+            "tip": "Un loc de liniște și istorie, chiar lângă biserică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere din vârful Portului Vechi",
+            "tip": "Mergeți dincolo de restaurante pentru o priveliște liniștită a mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Water Taxi Ride",
+            "tip": "The short journey across the water is a surprisingly peaceful experience with great views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery of Agios Nikolaos",
+            "tip": "A place of silence and history, right next to the church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the top of the Old Harbour",
+            "tip": "Walk beyond the restaurants for a quiet view of the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Naturschwämme",
+            "tip": "Ein klassisches griechisches Souvenir. Sie finden sie in Geschäften in der Nähe des Dapia-Hafens."
+          },
+          {
+            "name": "Maritime Kunst",
+            "tip": "Gemälde und Drucke von lokalen Künstlern, die das Meer und die Boote von Spetses darstellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Természetes szivacsok",
+            "tip": "Klasszikus görög szuvenír. A Dapia kikötő közelében lévő üzletekben találhatók."
+          },
+          {
+            "name": "Tengeri művészet",
+            "tip": "Helyi művészek festményei és nyomatai, amelyek a tengert és Szpécesz hajóit ábrázolják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bureți naturali",
+            "tip": "Un suvenir grecesc clasic. Îi veți găsi în magazinele de lângă portul Dapia."
+          },
+          {
+            "name": "Artă maritimă",
+            "tip": "Picturi și gravuri ale artiștilor locali, care înfățișează marea și bărcile din Spetses."
+          }
+        ],
+        "en": [
+          {
+            "name": "Natural Sea Sponges",
+            "tip": "A classic Greek souvenir. You can find them in shops near Dapia port."
+          },
+          {
+            "name": "Maritime Art",
+            "tip": "Paintings and prints by local artists depicting the sea and boats of Spetses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wassertaxis sind eine schnelle Möglichkeit, sich zwischen Dapia und dem Alten Hafen zu bewegen, aber sie sind teurer als der Bus.",
+          "Der Bus ist eine günstigere Alternative, um andere Teile der Insel zu erreichen.",
+          "Die Fahrpläne können je nach Saison variieren, also überprüfen Sie sie im Voraus.",
+          "Halten Sie Kleingeld für Busfahrkarten und Wassertaxis bereit."
+        ],
+        "hu": [
+          "A vízitaxik gyors módja a Dapia és a Régi Kikötő közötti közlekedésnek, de drágábbak, mint a busz.",
+          "A busz olcsóbb alternatíva a sziget más részeinek eléréséhez.",
+          "A menetrendek szezontól függően változhatnak, ezért ellenőrizze őket előre.",
+          "Tartson aprópénzt a buszjegyekhez és a vízitaxikhoz."
+        ],
+        "ro": [
+          "Taxiurile pe apă sunt o modalitate rapidă de a vă deplasa între Dapia și Portul Vechi, dar sunt mai scumpe decât autobuzul.",
+          "Autobuzul este o alternativă mai ieftină pentru a ajunge în alte părți ale insulei.",
+          "Orarele pot varia în funcție de sezon, așa că verificați-le în avans.",
+          "Păstrați mărunțiș pentru biletele de autobuz și taxiurile pe apă."
+        ],
+        "en": [
+          "Water taxis are a fast way to move between Dapia and the Old Harbour, but they are more expensive than the bus.",
+          "The bus is a cheaper alternative to reach other parts of the island.",
+          "Schedules can vary by season, so check them in advance.",
+          "Keep small change handy for bus tickets and water taxis."
+        ]
+      }
+    }
+  }
+}

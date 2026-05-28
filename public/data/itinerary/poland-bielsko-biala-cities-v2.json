@@ -1,0 +1,1492 @@
+{
+  "city_id": "poland-bielsko-biala-cities-v2",
+  "anchor": {
+    "name": "Bielitz-Biala",
+    "coords": [
+      19.0444,
+      49.8225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Bielsko-Biała",
+            "hu": "Városháza, Bielsko-Biała",
+            "ro": "Primăria din Bielsko-Biała",
+            "en": "Bielsko-Biała Town Hall"
+          },
+          "coords": [
+            19.045,
+            49.8218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur im Wiener Stil.",
+            "hu": "Csodálja meg a lenyűgöző bécsi stílusú építészetet.",
+            "ro": "Admirați arhitectura impresionantă în stil vienez.",
+            "en": "Admire the impressive Vienna-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale St. Nikolaus",
+            "hu": "Szent Miklós-katedrális",
+            "ro": "Catedrala Sfântul Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            19.0465,
+            49.8225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die Jugendstil-Glasfenster im Inneren.",
+            "hu": "Figyelje meg a szecessziós ólomüveg ablakokat a belsejében.",
+            "ro": "Observați vitraliile Art Nouveau din interior.",
+            "en": "Look for the Art Nouveau stained-glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sułkowski & Museum",
+            "hu": "Sułkowski-kastély és Múzeum",
+            "ro": "Castelul Sułkowski și Muzeul",
+            "en": "Sułkowski Castle & Museum"
+          },
+          "coords": [
+            19.043,
+            49.8235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der älteste Teil der Burg stammt aus dem 14. Jahrhundert.",
+            "hu": "A vár legrégebbi része a 14. századból származik.",
+            "ro": "Cea mai veche parte a castelului datează din secolul al XIV-lea.",
+            "en": "The oldest part of the castle dates back to the 14th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus zu den Fröschen",
+            "hu": "Békás ház",
+            "ro": "Casa cu broaște",
+            "en": "House of Frogs"
+          },
+          "coords": [
+            19.0478,
+            49.821
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:21",
+          "stay_min": 20,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfektes Beispiel für Jugendstil-Architektur. Zählen Sie die Frösche!",
+            "hu": "A szecessziós építészet tökéletes példája. Számolja meg a békákat!",
+            "ro": "Un exemplu perfect de arhitectură Art Nouveau. Numărați broaștele!",
+            "en": "A perfect example of Art Nouveau architecture. Count the frogs!"
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            19.047,
+            49.8205
+          ],
+          "category": "gastro",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die regionalen Piroggen in einem der Restaurants am Marktplatz.",
+            "hu": "Kóstolja meg a regionális pierogit a Fő téri éttermek egyikében.",
+            "ro": "Încercați pierogi regionali la unul dintre restaurantele din piață.",
+            "en": "Try the regional pierogi in one of the market square restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Fabrik Museum",
+            "hu": "Régi Gyár Múzeum",
+            "ro": "Muzeul Vechea Fabrică",
+            "en": "Old Factory Museum"
+          },
+          "coords": [
+            19.051,
+            49.824
+          ],
+          "category": "museums",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche industrielle Vergangenheit der Stadt.",
+            "hu": "Ismerje meg a város gazdag ipari múltját.",
+            "ro": "Aflați despre trecutul industrial bogat al orașului.",
+            "en": "Learn about the city's rich industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Polnisches Theater",
+            "hu": "Lengyel Színház",
+            "ro": "Teatrul Polonez",
+            "en": "Polish Theatre"
+          },
+          "coords": [
+            19.041,
+            49.821
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für Abendvorstellungen.",
+            "hu": "Nézze meg a műsort az esti előadásokhoz.",
+            "ro": "Verificați programul pentru spectacolele de seară.",
+            "en": "Check the schedule for evening performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bielsko-Biała beginnt auf dem historischen Marktplatz, umgeben von eleganter Architektur. Am Morgen erkunden Sie das Herz der Altstadt, besuchen die Kathedrale St. Nikolaus und das imposante Sułkowski-Schloss und entdecken dabei die Seele von „Klein-Wien“. Gegen Mittag tauchen Sie mit einem Besuch im Haus zu den Fröschen in den lokalen Jugendstil ein, bevor Sie eine wohlverdiente Pause mit traditioneller polnischer Küche einlegen. Der Nachmittag ist der industriellen Geschichte gewidmet, mit einem aufschlussreichen Besuch im Alte Fabrik Museum. Zum Abschluss des Tages bewundern Sie das Äußere des Polnischen Theaters, ein kulturelles Wahrzeichen, das die künstlerische Seite der Stadt widerspiegelt.",
+        "hu": "A nap Bielsko-Białában a történelmi piactéren indul, elegáns építészettel körülvéve. Délelőtt felfedezi az óváros szívét, meglátogatja a Szent Miklós-katedrálist és a lenyűgöző Sułkowski-kastélyt, megismerve „Kis-Bécs” lelkét. Dél felé a Békás ház meglátogatásával elmerül a helyi szecesszióban, mielőtt jól megérdemelt pihenőt tartana a hagyományos lengyel konyhával. A délután az ipari történelemé, egy tanulságos látogatással a Régi Gyár Múzeumban. A napot a Lengyel Színház külsejének megcsodálásával zárja, amely a város művészi oldalát tükröző kulturális nevezetesség.",
+        "ro": "Ziua dumneavoastră în Bielsko-Biała începe în piața istorică, înconjurată de arhitectură elegantă. Dimineața explorați inima orașului vechi, vizitând Catedrala Sf. Nicolae și impunătorul Castel Sułkowski, descoperind sufletul „Micii Viene”. La prânz, vă cufundați în stilul Art Nouveau local cu o vizită la Casa cu broaște, înainte de o pauză binemeritată cu bucătărie tradițională poloneză. După-amiaza este dedicată istoriei industriale, cu o vizită edificatoare la Muzeul Vechea Fabrică. Încheiați ziua admirând exteriorul Teatrului Polonez, un reper cultural care reflectă latura artistică a orașului.",
+        "en": "Your day in Bielsko-Biała begins in the historic market square, surrounded by elegant architecture. In the morning, you'll explore the heart of the old town, visiting St. Nicholas Cathedral and the imposing Sułkowski Castle, discovering the soul of 'Little Vienna'. Towards noon, you'll delve into local Art Nouveau with a visit to the House of Frogs before a well-deserved break with traditional Polish cuisine. The afternoon is dedicated to industrial history with an insightful visit to the Old Factory Museum. You'll end your day admiring the exterior of the Polish Theatre, a cultural landmark reflecting the city's artistic side."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die mit Fleisch oder Kraut und Pilzen gefüllten Teigtaschen."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Eine traditionelle saure Roggensuppe, oft mit Wurst und Ei serviert."
+          },
+          {
+            "name": "Placki ziemniaczane",
+            "tip": "Knusprige Kartoffelpuffer, serviert mit Gulasch oder saurer Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a hússal vagy káposztával és gombával töltött derelyét."
+          },
+          {
+            "name": "Żurek",
+            "tip": "Hagyományos savanyú rozsleves, gyakran kolbásszal és tojással tálalva."
+          },
+          {
+            "name": "Placki ziemniaczane",
+            "tip": "Ropogós burgonyalepény, gulyással vagy tejföllel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați colțunașii umpluți cu carne sau varză și ciuperci."
+          },
+          {
+            "name": "Żurek",
+            "tip": "O ciorbă tradițională acră de secară, adesea servită cu cârnați și ou."
+          },
+          {
+            "name": "Placki ziemniaczane",
+            "tip": "Clătite crocante de cartofi, servite cu gulaș sau smântână."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the dumplings filled with meat or cabbage and mushrooms."
+          },
+          {
+            "name": "Żurek",
+            "tip": "A traditional sour rye soup, often served with sausage and egg."
+          },
+          {
+            "name": "Placki ziemniaczane",
+            "tip": "Crispy potato pancakes, served with goulash or sour cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang am Fluss Biała",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer für eine kurze Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Słowackiego",
+            "tip": "Ein friedlicher Park in der Nähe des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Der Innenhof des Sułkowski-Schlosses bietet eine ruhige Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Biała folyó mentén",
+            "tip": "Keressen egy csendes padot a folyóparton egy rövid pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Słowackiego Park",
+            "tip": "Békés park a városközpont közelében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "A Sułkowski-kastély udvara csendes légkört kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe malul râului Biała",
+            "tip": "Găsiți o bancă liniștită pe malul râului pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Słowackiego",
+            "tip": "Un parc pașnic aproape de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Curtea Castelului Sułkowski oferă o atmosferă liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Biała River",
+            "tip": "Find a quiet bench on the riverbank for a short break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Słowackiego Park",
+            "tip": "A peaceful park close to the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "The courtyard of Sułkowski Castle offers a quiet atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz (Rynek)",
+            "tip": "Lokale Handwerkskunst und Souvenirs in den Geschäften rund um den Platz."
+          },
+          {
+            "name": "Ulica 11 Listopada",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér (Rynek)",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak a tér körüli üzletekben."
+          },
+          {
+            "name": "11 Listopada utca",
+            "tip": "A fő bevásárlóutca helyi és ismert márkák keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Rynek)",
+            "tip": "Artizanat local și suveniruri în magazinele din jurul pieței."
+          },
+          {
+            "name": "Strada 11 Listopada",
+            "tip": "Principala stradă comercială cu un amestec de mărci locale și cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square (Rynek)",
+            "tip": "Local crafts and souvenirs in the shops surrounding the square."
+          },
+          {
+            "name": "11 Listopada Street",
+            "tip": "The main shopping street with a mix of local and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+          "Halten Sie immer etwas Bargeld für kleine Einkäufe oder Trinkgelder bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "A legtöbb múzeum hétfőn zárva tart, tervezzen ennek megfelelően.",
+          "Mindig tartson magánál készpénzt kisebb vásárlásokhoz vagy borravalóhoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Majoritatea muzeelor sunt închise lunea, planificați-vă în consecință.",
+          "Aveți întotdeauna niște bani lichizi la dumneavoastră pentru cumpărături mici sau bacșișuri."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most museums are closed on Mondays, so plan accordingly.",
+          "Always have some cash on you for small purchases or tips."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            19.045,
+            49.8218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag im Herzen der Stadt. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Kezdje a napot a város szívében. Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Începeți-vă ziua în inima orașului. Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Start your day in the heart of the city. Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sułkowski",
+            "hu": "Sułkowski-kastély",
+            "ro": "Castelul Sułkowski",
+            "en": "Sułkowski Castle"
+          },
+          "coords": [
+            19.043,
+            49.8235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Marktplatz entfernt. Das Museum im Inneren ist einen Besuch wert.",
+            "hu": "Rövid biciklizésre a piactértől. A benne lévő múzeum megér egy látogatást.",
+            "ro": "La o scurtă plimbare cu bicicleta de piață. Muzeul din interior merită vizitat.",
+            "en": "A short ride from the market square. The museum inside is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Polnisches Theater",
+            "hu": "Lengyel Színház",
+            "ro": "Teatrul Polonez",
+            "en": "Polish Theatre"
+          },
+          "coords": [
+            19.041,
+            49.821
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Kulturzentrums.",
+            "hu": "Csodálja meg ennek a kulturális központnak az építészetét.",
+            "ro": "Admirați arhitectura acestui centru cultural.",
+            "en": "Admire the architecture of this cultural hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Biała",
+            "hu": "Biciklizés a Biała folyó mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Biała",
+            "en": "Ride along the Biała River"
+          },
+          "coords": [
+            19.055,
+            49.83
+          ],
+          "category": "natural features",
+          "arrive_at": "11:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt auf den Wegen entlang des Flusses.",
+            "hu": "Élvezze a pihentető biciklizést a folyó menti utakon.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe cărările de-a lungul râului.",
+            "en": "Enjoy a relaxing ride on the paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            19.053,
+            49.828
+          ],
+          "category": "gastro",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant mit Fahrradständern in der Nähe.",
+            "hu": "Keressen egy éttermet, amelynek közelében kerékpártárolók vannak.",
+            "ro": "Găsiți un restaurant cu parcări pentru biciclete în apropiere.",
+            "en": "Find a restaurant with bike racks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Fabrik Museum",
+            "hu": "Régi Gyár Múzeum",
+            "ro": "Muzeul Vechea Fabrică",
+            "en": "Old Factory Museum"
+          },
+          "coords": [
+            19.051,
+            49.824
+          ],
+          "category": "museums",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das industrielle Erbe, das die Stadt geprägt hat.",
+            "hu": "Merüljön el az ipari örökségben, amely a várost formálta.",
+            "ro": "Scufundați-vă în moștenirea industrială care a modelat orașul.",
+            "en": "Dive into the industrial heritage that shaped the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Weberhaus",
+            "hu": "Szövőház",
+            "ro": "Casa Țesătorului",
+            "en": "Weaver's House"
+          },
+          "coords": [
+            19.0445,
+            49.8195
+          ],
+          "category": "museums",
+          "arrive_at": "16:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kleines Museum, das das Leben der Weber der Stadt zeigt.",
+            "hu": "Egy kis múzeum, amely a város szövőinek életét mutatja be.",
+            "ro": "Un mic muzeu care prezintă viața țesătorilor din oraș.",
+            "en": "A small museum showcasing the life of the city's weavers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf dem lebhaften Marktplatz von Bielsko-Biała. Am Vormittag radeln Sie zu historischen Wahrzeichen wie dem Sułkowski-Schloss und dem Polnischen Theater. Anschließend genießen Sie eine landschaftlich reizvolle Fahrt entlang des Flusses Biała, eine perfekte Flucht aus der Hektik der Stadt. Gönnen Sie sich zur Mittagszeit eine Pause mit herzhafter lokaler Küche in einem fahrradfreundlichen Restaurant. Der Nachmittag ist eine Reise in die Vergangenheit mit Besuchen des Alte Fabrik Museums und des charmanten Weberhauses, die Einblicke in das reiche Erbe der Stadt bieten. Ihr Tag endet mit einem Gefühl tiefer Verbundenheit mit der einzigartigen Geschichte und Landschaft von Bielsko-Biała.",
+        "hu": "Kezdje kerékpártúráját Bielsko-Biała nyüzsgő piacterén. A délelőtt folyamán történelmi nevezetességekhez, például a Sułkowski-kastélyhoz és a Lengyel Színházhoz teker. Ezt követően élvezze a festői utat a Biała folyó mentén, amely tökéletes menekülés a város nyüzsgésétől. Délben tartson szünetet egy kiadós helyi fogással egy kerékpárbarát étteremben. A délután egy utazás a múltba a Régi Gyár Múzeum és a bájos Szövőház meglátogatásával, amelyek betekintést nyújtanak a város gazdag örökségébe. A nap végére mélyen kötődik majd Bielsko-Biała egyedi történelméhez és tájához.",
+        "ro": "Începeți turul cu bicicleta în piața plină de viață din Bielsko-Biała. Dimineața veți pedala spre repere istorice precum Castelul Sułkowski și Teatrul Polonez. Apoi, bucurați-vă de o plimbare pitorească de-a lungul râului Biała, o evadare perfectă din agitația orașului. La prânz, faceți o pauză cu o masă copioasă locală la un restaurant prietenos cu bicicliștii. După-amiaza este o călătorie înapoi în timp, cu vizite la Muzeul Vechea Fabrică și la fermecătoarea Casă a Țesătorului, oferind perspective asupra moștenirii bogate a orașului. Ziua se încheie cu un sentiment de conexiune profundă cu istoria și peisajul unic al Bielsko-Biała.",
+        "en": "Start your bike tour in the bustling market square of Bielsko-Biała. The morning will see you pedaling to historic landmarks like the Sułkowski Castle and the Polish Theatre. Following this, enjoy a scenic ride along the Biała River, a perfect escape from the city buzz. For lunch, take a break with some hearty local cuisine at a bike-friendly spot. The afternoon is a journey back in time with visits to the Old Factory Museum and the charming Weaver's House, offering insights into the city's rich heritage. Your day concludes with a sense of deep connection to Bielsko-Biała's unique history and landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oscypek",
+            "tip": "Gegrillter geräucherter Schafskäse mit Preiselbeeren, ein regionaler Genuss."
+          },
+          {
+            "name": "Tyskie Bier",
+            "tip": "Probieren Sie das lokal gebraute Bier, das in der nahegelegenen Stadt Tychy hergestellt wird."
+          },
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Schlesische Wurst, oft gegrillt und mit Senf serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oscypek",
+            "tip": "Grillezett, füstölt juhsajt áfonyával, egy regionális finomság."
+          },
+          {
+            "name": "Tyskie sör",
+            "tip": "Kóstolja meg a helyben főzött sört, amelyet a közeli Tychy városában készítenek."
+          },
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Sziléziai kolbász, gyakran grillezve és mustárral tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oscypek",
+            "tip": "Brânză de oaie afumată la grătar cu merișoare, o delicatesă regională."
+          },
+          {
+            "name": "Berea Tyskie",
+            "tip": "Încercați berea produsă local în orașul din apropiere, Tychy."
+          },
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Cârnați silezieni, adesea la grătar și serviți cu muștar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oscypek",
+            "tip": "Grilled smoked sheep's cheese with cranberry, a regional delicacy."
+          },
+          {
+            "name": "Tyskie Beer",
+            "tip": "Try the locally brewed beer made in the nearby town of Tychy."
+          },
+          {
+            "name": "Kiełbasa Śląska",
+            "tip": "Silesian sausage, often grilled and served with mustard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radwege im Cygański Las",
+            "tip": "Fahren Sie in den 'Zigeunerwald' für ruhige, schattige Wege.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Błonia",
+            "tip": "Große offene Wiesen, ideal für eine Pause und zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht vom Dębowiec",
+            "tip": "Ein kleinerer Hügel in der Nähe von Szyndzielnia mit toller Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárutak a Cygański Las-ban",
+            "tip": "Tekerjen a 'Cigányerdőbe' a csendes, árnyas utakért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Błonia",
+            "tip": "Nagy, nyitott rétek, ideálisak pihenésre és kikapcsolódásra.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a Dębowiec-ről",
+            "tip": "Egy kisebb domb a Szyndzielnia közelében, nagyszerű kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piste de biciclete în Cygański Las",
+            "tip": "Pedalați în 'Pădurea țiganilor' pentru poteci liniștite și umbrite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Błonia",
+            "tip": "Pajiști mari deschise, ideale pentru o pauză și relaxare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe Dębowiec",
+            "tip": "Un deal mai mic lângă Szyndzielnia, cu vederi superbe.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike paths in Cygański Las",
+            "tip": "Ride into the 'Gypsy Forest' for quiet, shaded paths.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Błonia",
+            "tip": "Large open meadows, great for taking a break and relaxing.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from Dębowiec",
+            "tip": "A smaller hill near Szyndzielnia with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gemini Park",
+            "tip": "Ein modernes Einkaufszentrum, wenn Sie eine größere Auswahl benötigen."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Brot und Gebäck für einen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gemini Park",
+            "tip": "Modern bevásárlóközpont, ha szélesebb választékra van szüksége."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss kenyeret és péksüteményt útközbeni harapnivalóként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gemini Park",
+            "tip": "Un centru comercial modern dacă aveți nevoie de o selecție mai largă."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați pâine proaspătă și produse de patiserie pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gemini Park",
+            "tip": "A modern shopping mall if you need a wider selection."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some fresh bread and pastries for a snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Polen hat eine Helmpflicht für Radfahrer unter 18 Jahren; für Erwachsene wird er empfohlen.",
+          "Nutzen Sie ausgewiesene Radwege, wo immer möglich."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Lengyelországban 18 év alatti kerékpárosok számára kötelező a sisak; felnőtteknek ajánlott.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Polonia are o lege privind casca obligatorie pentru bicicliștii sub 18 ani; este recomandată pentru adulți.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil."
+        ],
+        "en": [
+          "Check your tire pressure before you set off.",
+          "Poland has a mandatory helmet law for cyclists under 18; it's recommended for adults.",
+          "Use designated bike paths wherever possible."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 25.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Rathaus",
+            "hu": "Óváros Klaszter: Városháza",
+            "ro": "Cluster Centrul Vechi: Primăria",
+            "en": "Old Town Cluster: Town Hall"
+          },
+          "coords": [
+            19.045,
+            49.8218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Parkoljon a közeli parkolóházak egyikében, és kezdje a felfedezést gyalog.",
+            "ro": "Parcați într-una dintre parcările din apropiere și începeți explorarea pe jos.",
+            "en": "Park in one of the nearby parking garages and start your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Kathedrale St. Nikolaus",
+            "hu": "Óváros Klaszter: Szent Miklós-katedrális",
+            "ro": "Cluster Centrul Vechi: Catedrala Sf. Nicolae",
+            "en": "Old Town Cluster: St. Nicholas Cathedral"
+          },
+          "coords": [
+            19.0465,
+            49.8225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Marktplatz entfernt.",
+            "hu": "Csak egy rövid sétára a piactértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Schloss Sułkowski",
+            "hu": "Óváros Klaszter: Sułkowski-kastély",
+            "ro": "Cluster Centrul Vechi: Castelul Sułkowski",
+            "en": "Old Town Cluster: Sułkowski Castle"
+          },
+          "coords": [
+            19.043,
+            49.8235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen zum historischen Schloss der Stadt.",
+            "hu": "Sétáljon végig a sikátorokon a város történelmi kastélyához.",
+            "ro": "Plimbați-vă pe străduțe până la castelul istoric al orașului.",
+            "en": "Stroll through the alleys to the city's historic castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Szyndzielnia: Seilbahn",
+            "hu": "Szyndzielnia Klaszter: Kötélpálya",
+            "ro": "Cluster Szyndzielnia: Telecabina",
+            "en": "Szyndzielnia Cluster: Cable Car"
+          },
+          "coords": [
+            19.025,
+            49.775
+          ],
+          "category": "natural features",
+          "arrive_at": "12:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Talstation und nehmen Sie die Gondel für eine atemberaubende Aussicht.",
+            "hu": "Vezessen az alsó állomáshoz, és szálljon fel a gondolára a lélegzetelállító kilátásért.",
+            "ro": "Conduceți până la stația de jos și luați telecabina pentru priveliști uluitoare.",
+            "en": "Drive to the bottom station and take the gondola for breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Szyndzielnia: Mittagessen in den Beskiden",
+            "hu": "Szyndzielnia Klaszter: Ebéd a Beszkidekben",
+            "ro": "Cluster Szyndzielnia: Prânz în Beskizi",
+            "en": "Szyndzielnia Cluster: Lunch in the Beskids"
+          },
+          "coords": [
+            19.026,
+            49.7765
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit in einer traditionellen Karczma (Taverne) am Fuße des Berges.",
+            "hu": "Fogyasszon el egy ételt egy hagyományos Karczmában (csárdában) a hegy lábánál.",
+            "ro": "Bucurați-vă de o masă la o Karczma (tavernă) tradițională la poalele muntelui.",
+            "en": "Enjoy a meal at a traditional Karczma (tavern) at the foot of the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Alte Fabrik",
+            "hu": "Múzeum Klaszter: Régi Gyár",
+            "ro": "Cluster Muzeu: Vechea Fabrică",
+            "en": "Museum Cluster: Old Factory"
+          },
+          "coords": [
+            19.051,
+            49.824
+          ],
+          "category": "museums",
+          "arrive_at": "15:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, um in die Industriegeschichte einzutauchen.",
+            "hu": "Vezessen vissza a városba, hogy elmerüljön az ipartörténetben.",
+            "ro": "Conduceți înapoi în oraș pentru a vă cufunda în istoria industrială.",
+            "en": "Drive back into the city to immerse yourself in industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Weberhaus",
+            "hu": "Múzeum Klaszter: Szövőház",
+            "ro": "Cluster Muzeu: Casa Țesătorului",
+            "en": "Museum Cluster: Weaver's House"
+          },
+          "coords": [
+            19.0495,
+            49.823
+          ],
+          "category": "museums",
+          "arrive_at": "17:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um einen weiteren Teil des textilen Erbes der Stadt zu sehen.",
+            "hu": "Egy rövid séta, hogy megnézze a város textil örökségének egy másik részét.",
+            "ro": "O scurtă plimbare pentru a vedea o altă parte a moștenirii textile a orașului.",
+            "en": "A short walk to see another part of the city's textile heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Bielsko-Białas Altstadt. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß, der das Rathaus, die Kathedrale und das Sułkowski-Schloss umfasst. Spüren Sie die Atmosphäre von „Klein-Wien“. Gegen Mittag fahren Sie zum Szyndzielnia-Berg. Nehmen Sie die Seilbahn für Panoramablicke und genießen Sie anschließend ein Mittagessen in einer Berghütte, eine perfekte Mischung aus Natur und Gastronomie. Am Nachmittag fahren Sie zurück in die Stadt zu einem Industrie-Cluster. Besuchen Sie das Alte Fabrik Museum und das Weberhaus, um das reiche Erbe zu verstehen, das Bielsko-Biała geprägt hat.",
+        "hu": "Autós napja Bielsko-Biała óvárosának szívében kezdődik. Parkolja le autóját, és fedezze fel gyalog az első klasztert, amely a Városházát, a Katedrálist és a Sułkowski-kastélyt foglalja magában, átérezve „Kis-Bécs” hangulatát. Dél felé vezessen a Szyndzielnia-hegyhez. Menjen fel a felvonóval a panorámás kilátásért, majd ebédeljen egy hegyi fogadóban, a természet és a gasztronómia tökéletes keverékében. Délután vezessen vissza a városba egy ipari klaszterhez. Látogasson el a Régi Gyár Múzeumba és a Szövőházba, hogy megértse a Bielsko-Białát formáló gazdag örökséget.",
+        "ro": "Ziua cu mașina începe în inima orașului vechi din Bielsko-Biała. Parcați mașina și explorați primul cluster pe jos, cuprinzând Primăria, Catedrala și Castelul Sułkowski, simțind atmosfera „Micii Viene”. La prânz, conduceți spre Muntele Szyndzielnia. Luați telecabina pentru vederi panoramice, apoi bucurați-vă de prânz la o tavernă montană, un amestec perfect de natură și gastronomie. După-amiaza, conduceți înapoi în oraș la un cluster industrial. Vizitați Muzeul Vechea Fabrică și Casa Țesătorului pentru a înțelege moștenirea bogată care a modelat Bielsko-Biała.",
+        "en": "Your car-based day starts in the heart of Bielsko-Biała's old town. Park your car and explore the first cluster on foot, covering the Town Hall, Cathedral, and Sułkowski Castle, feeling the 'Little Vienna' atmosphere. Around noon, drive to Szyndzielnia Mountain. Take the cable car for panoramic views, then enjoy lunch at a mountain tavern, a perfect mix of nature and gastronomy. In the afternoon, drive back to the city for an industrial-themed cluster. Visit the Old Factory Museum and the Weaver's House to understand the rich heritage that shaped Bielsko-Biała."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Rogata",
+            "tip": "Eine traditionelle Taverne in der Nähe von Szyndzielnia, die für ihre herzhaften polnischen Gerichte bekannt ist."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Warmer Apfelkuchen, oft mit einer Kugel Eis serviert."
+          },
+          {
+            "name": "Kwaśnica",
+            "tip": "Eine Sauerkrautsuppe, ähnlich wie Żurek, aber typisch für die Bergregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Rogata",
+            "tip": "Hagyományos fogadó a Szyndzielnia közelében, amely kiadós lengyel ételeiről ismert."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Meleg almás pite, gyakran egy gombóc fagyival tálalva."
+          },
+          {
+            "name": "Kwaśnica",
+            "tip": "Savanyú káposztaleves, hasonló a Żurekhez, de a hegyvidékre jellemző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Rogata",
+            "tip": "O tavernă tradițională lângă Szyndzielnia, cunoscută pentru mâncărurile poloneze consistente."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Plăcintă caldă de mere, adesea servită cu o cupă de înghețată."
+          },
+          {
+            "name": "Kwaśnica",
+            "tip": "O ciorbă de varză acră, similară cu Żurek, dar specifică regiunii montane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Rogata",
+            "tip": "A traditional tavern near Szyndzielnia known for hearty Polish dishes."
+          },
+          {
+            "name": "Szarlotka",
+            "tip": "Warm apple pie, often served with a scoop of ice cream."
+          },
+          {
+            "name": "Kwaśnica",
+            "tip": "A sauerkraut soup, similar to Żurek but typical for the mountain region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Szyndzielnia",
+            "tip": "Wandern Sie ein wenig vom oberen Bahnhof weg für absolute Ruhe und tolle Aussichten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dolina Wapienicy",
+            "tip": "Ein malerisches Tal mit einem Damm, eine kurze Autofahrt von der Stadt entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kozia Góra",
+            "tip": "Ein weiterer nahegelegener Hügel, weniger überlaufen als Szyndzielnia, ideal für eine ruhige Wanderung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szyndzielnia csúcsa",
+            "tip": "Sétáljon egy kicsit a felső állomástól a teljes csendért és a nagyszerű kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wapienica-völgy",
+            "tip": "Festői völgy egy gáttal, rövid autóútra a várostól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kozia Góra",
+            "tip": "Egy másik közeli domb, kevésbé zsúfolt, mint a Szyndzielnia, ideális egy csendes túrához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Szyndzielnia",
+            "tip": "Plimbați-vă puțin mai departe de stația superioară pentru liniște absolută și vederi minunate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Valea Wapienica",
+            "tip": "O vale pitorească cu un baraj, la o scurtă călătorie cu mașina de oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kozia Góra",
+            "tip": "Un alt deal din apropiere, mai puțin aglomerat decât Szyndzielnia, excelent pentru o drumeție liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Szyndzielnia",
+            "tip": "Hike a bit away from the top station for absolute quiet and great views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wapienica Valley",
+            "tip": "A picturesque valley with a dam, a short drive from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kozia Góra",
+            "tip": "Another nearby hill, less crowded than Szyndzielnia, great for a quiet hike.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sfera Shopping Centre",
+            "tip": "Großes Einkaufszentrum mit vielen Geschäften und einem Food Court."
+          },
+          {
+            "name": "Handwerksläden in den Beskiden",
+            "tip": "Suchen Sie nach handgeschnitzten Holzartikeln und regionaler Wolle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sfera Bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont sok üzlettel és ételudvarral."
+          },
+          {
+            "name": "Kézműves boltok a Beszkidekben",
+            "tip": "Keressen kézzel faragott fa tárgyakat és helyi gyapjút."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Sfera",
+            "tip": "Centru comercial mare cu multe magazine și o zonă de restaurante."
+          },
+          {
+            "name": "Magazine de artizanat în Beskizi",
+            "tip": "Căutați articole din lemn sculptate manual și lână regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sfera Shopping Centre",
+            "tip": "Large mall with many shops and a food court."
+          },
+          {
+            "name": "Craft shops in the Beskids",
+            "tip": "Look for hand-carved wooden items and regional wool."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkvorschriften im Stadtzentrum; einige Zonen erfordern eine Parkscheibe oder Bezahlung.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie zusätzliche Fahrzeit ein.",
+          "Die Seilbahn zum Szyndzielnia kann bei starkem Wind geschlossen sein."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat a városközpontban; egyes zónák parkolótárcsát vagy fizetést igényelnek.",
+          "A forgalom csúcsidőben sűrű lehet, tervezzen extra utazási időt.",
+          "A Szyndzielnia-i felvonó erős szélben zárva lehet."
+        ],
+        "ro": [
+          "Verificați regulile de parcare în centrul orașului; unele zone necesită disc de parcare sau plată.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați timp suplimentar de condus.",
+          "Telecabina spre Szyndzielnia poate fi închisă în condiții de vânt puternic."
+        ],
+        "en": [
+          "Check parking regulations in the city center; some zones require a parking disc or payment.",
+          "Traffic can be heavy during peak hours, allow for extra driving time.",
+          "The cable car to Szyndzielnia may be closed during high winds."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 15.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Marktplatz",
+            "hu": "Óváros Klaszter: Piactér",
+            "ro": "Cluster Centrul Vechi: Piața Centrală",
+            "en": "Old Town Cluster: Market Square"
+          },
+          "coords": [
+            19.0455,
+            49.822
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Platz, der von vielen Buslinien angefahren wird.",
+            "hu": "Kezdje a központi téren, amelyet számos buszjárat érint.",
+            "ro": "Începeți din piața centrală, deservită de multe linii de autobuz.",
+            "en": "Start at the central square, served by many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Altstadt: Schloss Sułkowski",
+            "hu": "Óváros Klaszter: Sułkowski-kastély",
+            "ro": "Cluster Centrul Vechi: Castelul Sułkowski",
+            "en": "Old Town Cluster: Sułkowski Castle"
+          },
+          "coords": [
+            19.043,
+            49.8235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein einfacher Spaziergang vom Marktplatz durch die Altstadt.",
+            "hu": "Könnyű séta a piactértől az óvároson keresztül.",
+            "ro": "O plimbare ușoară din piață prin orașul vechi.",
+            "en": "An easy walk from the market square through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Alte Fabrik",
+            "hu": "Múzeum Klaszter: Régi Gyár",
+            "ro": "Cluster Muzeu: Vechea Fabrică",
+            "en": "Museum Cluster: Old Factory"
+          },
+          "coords": [
+            19.051,
+            49.824
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum, um dieses Industriejuwel zu erreichen.",
+            "hu": "Szálljon buszra a városközpontból, hogy elérje ezt az ipari gyöngyszemet.",
+            "ro": "Luați un autobuz din centrul orașului pentru a ajunge la această bijuterie industrială.",
+            "en": "Take a bus from the city center to reach this industrial gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Museum: Mittagessen",
+            "hu": "Múzeum Klaszter: Ebéd",
+            "ro": "Cluster Muzeu: Prânz",
+            "en": "Museum Cluster: Lunch"
+          },
+          "coords": [
+            19.0515,
+            49.8235
+          ],
+          "category": "gastro",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In der Nähe des Museums gibt es mehrere kleine Restaurants.",
+            "hu": "A múzeum közelében több kis étterem is található.",
+            "ro": "Există mai multe restaurante mici în apropierea muzeului.",
+            "en": "There are several small restaurants near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Szyndzielnia: Seilbahn",
+            "hu": "Szyndzielnia Klaszter: Kötélpálya",
+            "ro": "Cluster Szyndzielnia: Telecabina",
+            "en": "Szyndzielnia Cluster: Cable Car"
+          },
+          "coords": [
+            19.025,
+            49.775
+          ],
+          "category": "natural features",
+          "arrive_at": "14:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein spezieller Bus (Linie 8) fährt direkt zur Talstation der Szyndzielnia-Seilbahn.",
+            "hu": "Egy külön busz (8-as vonal) közvetlenül a Szyndzielnia felvonó alsó állomásához visz.",
+            "ro": "Un autobuz dedicat (linia 8) merge direct la stația de jos a telecabinei Szyndzielnia.",
+            "en": "A dedicated bus (line 8) goes directly to the Szyndzielnia cable car bottom station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Szyndzielnia: Aussichtspunkt",
+            "hu": "Szyndzielnia Klaszter: Kilátópont",
+            "ro": "Cluster Szyndzielnia: Punct de observare",
+            "en": "Szyndzielnia Cluster: Viewpoint"
+          },
+          "coords": [
+            19.024,
+            49.774
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht von der Spitze, bevor Sie den letzten Bus zurück nehmen.",
+            "hu": "Élvezze a kilátást a csúcsról, mielőtt az utolsó busszal visszamenne.",
+            "ro": "Bucurați-vă de priveliștea de sus înainte de a lua ultimul autobuz înapoi.",
+            "en": "Enjoy the views from the top before taking the last bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Marktplatz. Am Morgen erkunden Sie zu Fuß das historische Zentrum um das Schloss Sułkowski. Anschließend nehmen Sie einen Bus zum Museumsviertel. Tauchen Sie in die industrielle Vergangenheit im Alte Fabrik Museum ein und genießen Sie ein lokales Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus an den Stadtrand zum majestätischen Berg Szyndzielnia. Eine Seilbahnfahrt bietet atemberaubende Ausblicke und einen erfrischenden Ausflug in die Natur, bevor Sie am Abend mit dem Bus in die Stadt zurückkehren.",
+        "hu": "Tömegközlekedési napja a központi piactéren kezdődik. Délelőtt gyalog fedezi fel a történelmi központot a Sułkowski-kastély körül. Ezután busszal utazik a múzeumi negyedbe. Merüljön el az ipari múltban a Régi Gyár Múzeumban, és ebédeljen egy helyi étteremben. Délután egy másik busz viszi a város szélére a fenséges Szyndzielnia-hegyhez. A felvonózás lélegzetelállító kilátást és frissítő természeti kiruccanást kínál, mielőtt este busszal visszatérne a városba.",
+        "ro": "Ziua dumneavoastră cu transportul public începe în piața centrală. Dimineața, explorați pe jos centrul istoric din jurul Castelului Sułkowski. Apoi, luați un autobuz spre cartierul muzeelor. Cufundați-vă în trecutul industrial la Muzeul Vechea Fabrică și bucurați-vă de un prânz local. După-amiaza, un alt autobuz vă duce la marginea orașului, la maiestuosul Munte Szyndzielnia. O plimbare cu telecabina oferă vederi uimitoare și o escapadă revigorantă în natură înainte de a vă întoarce în oraș cu autobuzul seara.",
+        "en": "Your public transit day starts at the central market square. In the morning, you'll explore the historic center around Sułkowski Castle on foot. Then, you'll take a bus to the museum district. Immerse yourself in the industrial past at the Old Factory Museum and enjoy a local lunch. In the afternoon, another bus takes you to the city's outskirts to the majestic Szyndzielnia Mountain. A cable car ride offers stunning views and a refreshing nature escape before you return to the city by bus in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Ein beliebtes polnisches Streetfood, ein getoastetes Baguette mit Pilzen, Käse und Ketchup."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polnische Donuts, oft mit Rosenmarmelade gefüllt."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein traditionelles süßes Getränk aus gekochten Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka",
+            "tip": "Népszerű lengyel utcai étel, pirított baguette gombával, sajttal és ketchuppal."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Lengyel fánk, gyakran rózsalekvárral töltve."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Hagyományos édes ital főtt gyümölcsből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka",
+            "tip": "O mâncare stradală populară poloneză, o baghetă prăjită cu ciuperci, brânză și ketchup."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Gogoși poloneze, adesea umplute cu gem de trandafiri."
+          },
+          {
+            "name": "Kompot",
+            "tip": "O băutură tradițională dulce făcută din fructe fierte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka",
+            "tip": "A popular Polish street food, a toasted baguette with mushrooms, cheese, and ketchup."
+          },
+          {
+            "name": "Pączki",
+            "tip": "Polish doughnuts, often filled with rose jam."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A traditional sweet beverage made of stewed fruit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Evangelische Kirche",
+            "tip": "Der Bereich um die große protestantische Kirche ist oft sehr ruhig.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Alter Friedhof",
+            "tip": "Ein historischer Friedhof mit schönen Skulpturen, ein Ort der stillen Besinnung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Wanderwege am Szyndzielnia",
+            "tip": "Auch eine kurze Wanderung auf den markierten Wegen bietet Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evangélikus templom",
+            "tip": "A nagy protestáns templom környéke gyakran nagyon csendes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Régi temető",
+            "tip": "Történelmi temető gyönyörű szobrokkal, a csendes elmélkedés helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Túraútvonalak a Szyndzielnia-n",
+            "tip": "Még egy rövid túra a kijelölt ösvényeken is nyugalmat kínál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Evanghelică",
+            "tip": "Zona din jurul marii biserici protestante este adesea foarte liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul Vechi",
+            "tip": "Un cimitir istoric cu sculpturi frumoase, un loc de reflecție tăcută.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trasee de drumeție pe Szyndzielnia",
+            "tip": "Chiar și o scurtă drumeție pe traseele marcate oferă pace și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Evangelical Church",
+            "tip": "The area around the large protestant church is often very quiet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Old Cemetery",
+            "tip": "A historic cemetery with beautiful sculptures, a place for quiet reflection.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hiking trails on Szyndzielnia",
+            "tip": "Even a short hike on the marked trails offers peace and quiet.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Untergrundpassage (Przejście podziemne)",
+            "tip": "Eine Passage mit kleinen Geschäften und Ständen, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Buchhandlungen",
+            "tip": "Finden Sie Alben über die Region oder Bücher polnischer Autoren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aluljáró (Przejście podziemne)",
+            "tip": "Egy átjáró kis üzletekkel és standokkal, ahol helyi termékeket árulnak."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keressen albumokat a régióról vagy lengyel szerzők könyveit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul subteran (Przejście podziemne)",
+            "tip": "Un pasaj cu mici magazine și standuri care vând produse locale."
+          },
+          {
+            "name": "Librării",
+            "tip": "Găsiți albume despre regiune sau cărți ale autorilor polonezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Underground Passage (Przejście podziemne)",
+            "tip": "A passage with small shops and stalls selling local products."
+          },
+          {
+            "name": "Bookshops",
+            "tip": "Find albums about the region or books by Polish authors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App (z.B. jakdojade) herunter, um Routen und Fahrpläne zu überprüfen.",
+          "Beachten Sie, dass Busse am Stadtrand seltener fahren, insbesondere am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást (pl. jakdojade) az útvonalak és menetrendek ellenőrzéséhez.",
+          "Vegye figyelembe, hogy a buszok ritkábban közlekednek a külvárosban, különösen hétvégén."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public (de ex. jakdojade) pentru a verifica rutele și orarele.",
+          "Rețineți că autobuzele circulă mai rar la periferie, în special în weekend."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app (e.g., jakdojade) to check routes and schedules.",
+          "Be aware that buses may run less frequently in the outskirts, especially on weekends."
+        ]
+      }
+    }
+  }
+}

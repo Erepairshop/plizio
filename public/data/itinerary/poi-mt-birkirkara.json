@@ -1,0 +1,1518 @@
+{
+  "city_id": "poi-mt-birkirkara",
+  "anchor": {
+    "name": "St. Helen's Basilica",
+    "coords": [
+      14.4611,
+      35.8972
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptstraße (Main Street)",
+            "hu": "Fő utca (Main Street)",
+            "ro": "Strada Principală (Main Street)",
+            "en": "Main Street"
+          },
+          "coords": [
+            14.46,
+            35.8975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Kaffee in einem der örtlichen Cafés, um das maltesische Leben aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban, hogy magába szívja a máltai életérzést.",
+            "ro": "Începeți cu o cafea la una dintre cafenelele locale pentru a absorbi viața malteză.",
+            "en": "Start with a coffee at one of the local cafés to soak up the Maltese life."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Helen's Basilika",
+            "hu": "Szent Ilona-bazilika",
+            "ro": "Bazilica Sf. Elena",
+            "en": "St. Helen's Basilica"
+          },
+          "coords": [
+            14.4611,
+            35.8972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die größte Kirchenglocke Maltas und die opulente barocke Innenausstattung.",
+            "hu": "Csodálja meg Málta legnagyobb harangját és a pazar barokk belső teret.",
+            "ro": "Admirați cel mai mare clopot de biserică din Malta și interiorul baroc opulent.",
+            "en": "Admire the largest church bell in Malta and the opulent baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkirkara Turm",
+            "hu": "Birkirkara torony",
+            "ro": "Turnul Birkirkara",
+            "en": "Birkirkara Tower"
+          },
+          "coords": [
+            14.4625,
+            35.8955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein oft übersehenes historisches Juwel; perfekt für ein schnelles Foto.",
+            "hu": "Gyakran figyelmen kívül hagyott történelmi gyöngyszem; tökéletes egy gyors fotóhoz.",
+            "ro": "O bijuterie istorică adesea trecută cu vederea; perfectă pentru o fotografie rapidă.",
+            "en": "An often-overlooked historical gem; perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche",
+            "hu": "Szűz Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.459,
+            35.896
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der einzigartigen Architektur, die sich von anderen Kirchen der Stadt unterscheidet.",
+            "hu": "Keresse az egyedi építészeti stílust, amely megkülönbözteti a város többi templomától.",
+            "ro": "Căutați arhitectura unică, diferită de alte biserici din oraș.",
+            "en": "Look for the unique architecture that differs from other churches in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof & Park",
+            "hu": "Régi pályaudvar és park",
+            "ro": "Gara Veche și Parcul",
+            "en": "Old Railway Station & Gardens"
+          },
+          "coords": [
+            14.464,
+            35.8985
+          ],
+          "category": "park",
+          "arrive_at": "12:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für ein Mittagspicknick. Der Park ist eine ruhige Oase.",
+            "hu": "Remek hely egy ebédpiknikhez. A park egy csendes oázis.",
+            "ro": "Un loc minunat pentru un prânz la picnic. Parcul este o oază de liniște.",
+            "en": "A great spot for a lunch picnic. The park is a quiet oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Wignacourt Aquädukt",
+            "hu": "Wignacourt-vízvezeték",
+            "ro": "Apeductul Wignacourt",
+            "en": "Wignacourt Aqueduct"
+          },
+          "coords": [
+            14.468,
+            35.899
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Folgen Sie den Bögen für eine beeindruckende Perspektive auf die Ingenieurskunst des 17. Jahrhunderts.",
+            "hu": "Kövesse az íveket, hogy lenyűgöző perspektívát kapjon a 17. századi mérnöki munkáról.",
+            "ro": "Urmați arcadele pentru o perspectivă impresionantă asupra ingineriei secolului al XVII-lea.",
+            "en": "Follow the arches for an impressive perspective on 17th-century engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Ganu Windmühle",
+            "hu": "Ta' Ganu szélmalom",
+            "ro": "Moara de vânt Ta' Ganu",
+            "en": "Ta' Ganu Windmill"
+          },
+          "coords": [
+            14.4575,
+            35.8995
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Öffnungszeiten, da sie begrenzt sein können. Ein faszinierender Einblick in die Vergangenheit.",
+            "hu": "Ellenőrizze a nyitvatartási időt, mert korlátozott lehet. Lenyűgöző bepillantás a múltba.",
+            "ro": "Verificați programul de funcționare, deoarece ar putea fi limitat. O privire fascinantă în trecut.",
+            "en": "Check the opening hours as they can be limited. A fascinating glimpse into the past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Birkirkara beginnt auf der belebten Hauptstraße, wo Sie das lokale Flair aufsaugen. Am Vormittag erkunden Sie das Herz der Stadt, die prächtige St. Helen's Basilika, gefolgt von historischen Türmen und Kirchen, die von der reichen Vergangenheit der Stadt zeugen. Nach einem entspannten Mittagessen im ruhigen Bahnhofspark entdecken Sie die ingenieurtechnischen Wunder des Wignacourt-Aquädukts. Der Nachmittag endet mit einem Besuch der charmanten Ta' Ganu Windmühle und bietet eine Mischung aus Kultur, Geschichte und Entspannung. Der Abend klingt bei einem traditionellen maltesischen Abendessen aus, bei dem Sie die Aromen der Insel genießen.",
+        "hu": "Birkirkarai napja a nyüzsgő Főutcán kezdődik, ahol magába szívhatja a helyi hangulatot. Délelőtt felfedezi a város szívét, a csodálatos Szent Ilona-bazilikát, majd a város gazdag múltjáról tanúskodó történelmi tornyokat és templomokat. Egy pihentető ebéd után a csendes Vasútállomás parkban felfedezheti a Wignacourt-vízvezeték mérnöki csodáit. A délután a bájos Ta' Ganu szélmalom meglátogatásával zárul, amely a kultúra, a történelem és a pihenés keverékét kínálja. Az estét egy hagyományos máltai vacsorával zárja, élvezve a sziget ízeit.",
+        "ro": "Ziua dvs. în Birkirkara începe pe vibranta Stradă Principală, absorbind atmosfera locală. Dimineața explorați inima orașului, magnifica Bazilică Sf. Elena, urmată de turnuri și biserici istorice care mărturisesc trecutul bogat al orașului. După un prânz relaxant în liniștitul Parc al Gării Vechi, descoperiți minunile inginerești ale Apeductului Wignacourt. După-amiaza se încheie cu o vizită la fermecătoarea Moară de vânt Ta' Ganu, oferind un amestec de cultură, istorie și relaxare. Seara se încheie cu o cină tradițională malteză, savurând aromele insulei.",
+        "en": "Your day in Birkirkara begins on the bustling Main Street, soaking in the local vibe. The morning is for exploring the town's heart, the magnificent St. Helen's Basilica, followed by historic towers and churches that speak of the city's rich past. After a relaxing lunch in the tranquil Old Station gardens, you'll discover the engineering marvels of the Wignacourt Aqueduct. The afternoon concludes with a visit to the charming Ta' Ganu Windmill, offering a mix of culture, history, and relaxation. The evening ends with a traditional Maltese dinner, enjoying the flavors of the island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastizzi",
+            "tip": "Ein Muss in Malta. Probieren Sie die mit Ricotta oder Erbsen gefüllten Teigtaschen in einer lokalen 'Pastizzeria'."
+          },
+          {
+            "name": "Rabbit Stew (Fenkata)",
+            "tip": "Ein herzhaftes traditionelles Gericht, das oft in Familienrestaurants serviert wird."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Ein lokales bittersüßes Erfrischungsgetränk, perfekt zur Erfrischung an einem warmen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastizzi",
+            "tip": "Kötelező máltai étel. Kóstolja meg a ricottával vagy borsóval töltött péksüteményt egy helyi 'pastizzeriában'."
+          },
+          {
+            "name": "Nyúlpörkölt (Fenkata)",
+            "tip": "Kiadós, hagyományos étel, amelyet gyakran szolgálnak fel családi éttermekben."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "Helyi keserédes üdítőital, tökéletes frissítő egy meleg napon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastizzi",
+            "tip": "O gustare obligatorie în Malta. Încercați plăcintele umplute cu ricotta sau mazăre de la o 'pastizzeria' locală."
+          },
+          {
+            "name": "Tocăniță de iepure (Fenkata)",
+            "tip": "Un fel de mâncare tradițional consistent, adesea servit în restaurantele de familie."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "O băutură răcoritoare locală, dulce-amăruie, perfectă pentru a vă reîmprospăta într-o zi călduroasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastizzi",
+            "tip": "A must-try snack in Malta. Try the ricotta or pea-filled pastries from a local 'pastizzeria'."
+          },
+          {
+            "name": "Rabbit Stew (Fenkata)",
+            "tip": "A hearty traditional dish, often served in family-run restaurants."
+          },
+          {
+            "name": "Kinnie",
+            "tip": "A local bittersweet soft drink, perfect for refreshing on a warm day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Bahnhofspark",
+            "tip": "Finden Sie eine schattige Bank und genießen Sie die Ruhe abseits der belebten Straßen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof der St. Mary's Kirche",
+            "tip": "Ein friedlicher Ort zur Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang des Aquädukts",
+            "tip": "Ein ruhiger Spaziergang in den weniger überlaufenen Teilen der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi pályaudvar parkja",
+            "tip": "Keressen egy árnyékos padot, és élvezze a csendet a forgalmas utcáktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Szűz Mária-templom udvara",
+            "tip": "Békés hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a vízvezeték mentén",
+            "tip": "Csendes séta a város kevésbé zsúfolt részein.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gării Vechi",
+            "tip": "Găsiți o bancă umbrită și bucurați-vă de liniște departe de străzile aglomerate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Sf. Maria",
+            "tip": "Un loc pașnic pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul Apeductului",
+            "tip": "O plimbare liniștită în părțile mai puțin aglomerate ale orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Railway Station Gardens",
+            "tip": "Find a shaded bench and enjoy the quiet away from the bustling streets.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of St. Mary's Church",
+            "tip": "A peaceful spot for some quiet reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the Aqueduct",
+            "tip": "A quiet walk in the less crowded parts of town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Birkirkara Markt",
+            "tip": "Besuchen Sie den Markt (normalerweise mittwochs und freitags), um lokale Produkte und Haushaltswaren zu finden."
+          },
+          {
+            "name": "Geschäfte in der Hauptstraße",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Birkirkarai piac",
+            "tip": "Látogasson el a piacra (általában szerdán és pénteken), ahol helyi termékeket és háztartási cikkeket talál."
+          },
+          {
+            "name": "Üzletek a Főutcán",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Birkirkara",
+            "tip": "Vizitați piața (de obicei miercurea și vinerea) pentru produse locale și articole de uz casnic."
+          },
+          {
+            "name": "Magazinele de pe Strada Principală",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Birkirkara Market",
+            "tip": "Visit the market (usually Wednesdays and Fridays) for local produce and household goods."
+          },
+          {
+            "name": "Main Street Shops",
+            "tip": "A mix of local boutiques and well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Achten Sie auf die Kleiderordnung beim Betreten von Kirchen.",
+          "Die meisten Geschäfte schließen am Nachmittag für eine Siesta."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "Ügyeljen az öltözködési szabályokra, amikor belép a templomokba.",
+          "A legtöbb üzlet délután bezár egy sziesztára."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Respectați codul vestimentar la intrarea în biserici.",
+          "Majoritatea magazinelor se închid după-amiaza pentru o siestă."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Carry water with you, especially during the summer months.",
+          "Be mindful of the dress code when entering churches.",
+          "Most shops close in the afternoon for a siesta."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Bahnhof & Park",
+            "hu": "Régi pályaudvar és park",
+            "ro": "Gara Veche și Parcul",
+            "en": "Old Railway Station & Gardens"
+          },
+          "coords": [
+            14.464,
+            35.8985
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Ausgangspunkt. Hier können Sie Ihr Fahrrad überprüfen und die ruhige Morgenluft genießen.",
+            "hu": "Tökéletes kiindulópont. Itt ellenőrizheti a kerékpárját, és élvezheti a csendes reggeli levegőt.",
+            "ro": "Punct de plecare perfect. Verificați-vă bicicleta aici și bucurați-vă de aerul liniștit de dimineață.",
+            "en": "Perfect starting point. Check your bike here and enjoy the quiet morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Wignacourt Aquädukt",
+            "hu": "Wignacourt-vízvezeték",
+            "ro": "Apeductul Wignacourt",
+            "en": "Wignacourt Aqueduct"
+          },
+          "coords": [
+            14.468,
+            35.899
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück entlang des Aquädukts, um seine Größe zu erfassen.",
+            "hu": "Tekerjen egy darabon a vízvezeték mentén, hogy felmérje a méretét.",
+            "ro": "Mergeți cu bicicleta de-a lungul apeductului pentru a-i aprecia scara.",
+            "en": "Cycle alongside a portion of the aqueduct to appreciate its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Ganu Windmühle",
+            "hu": "Ta' Ganu szélmalom",
+            "ro": "Moara de vânt Ta' Ganu",
+            "en": "Ta' Ganu Windmill"
+          },
+          "coords": [
+            14.4575,
+            35.8995
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Halt, um etwas über die ländliche Geschichte Maltas zu erfahren.",
+            "hu": "Szép megálló, hogy megismerje Málta vidéki történelmét.",
+            "ro": "O oprire plăcută pentru a învăța despre istoria rurală a Maltei.",
+            "en": "A nice stop to learn about Malta's rural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal-Herba Kirche",
+            "hu": "Tal-Herba templom",
+            "ro": "Biserica Tal-Herba",
+            "en": "Tal-Herba Church"
+          },
+          "coords": [
+            14.456,
+            35.894
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine ruhigere, weniger besuchte Kirche, die einen friedlichen Moment bietet.",
+            "hu": "Egy csendesebb, kevésbé látogatott templom, amely békés pillanatokat kínál.",
+            "ro": "O biserică mai liniștită, mai puțin vizitată, care oferă un moment de pace.",
+            "en": "A quieter, less-visited church offering a peaceful moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstraße & Mittagessen",
+            "hu": "Fő utca és ebéd",
+            "ro": "Strada Principală și Prânz",
+            "en": "Main Street & Lunch"
+          },
+          "coords": [
+            14.46,
+            35.8975
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Straße, bevor Sie sich für ein Mittagessen entscheiden.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel az utcát, mielőtt ebédet választ.",
+            "ro": "Încuiați-vă bicicleta și explorați strada înainte de a alege un loc pentru prânz.",
+            "en": "Lock up your bike and explore the street before choosing a spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Helen's Basilika",
+            "hu": "Szent Ilona-bazilika",
+            "ro": "Bazilica Sf. Elena",
+            "en": "St. Helen's Basilica"
+          },
+          "coords": [
+            14.4611,
+            35.8972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Höhepunkt der Tour. Nehmen Sie sich Zeit, die Kunst und Architektur zu bewundern.",
+            "hu": "A túra fénypontja. Szánjon időt a művészet és az építészet megcsodálására.",
+            "ro": "Punctul culminant al turului. Luați-vă timp pentru a admira arta și arhitectura.",
+            "en": "The highlight of the tour. Take your time to admire the art and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkirkara Turm",
+            "hu": "Birkirkara torony",
+            "ro": "Turnul Birkirkara",
+            "en": "Birkirkara Tower"
+          },
+          "coords": [
+            14.4625,
+            35.8955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein letzter historischer Stopp, um Ihre Radtour durch die Geschichte von Birkirkara abzurunden.",
+            "hu": "Egy utolsó történelmi megálló, hogy lezárja a Birkirkara történelmén átívelő kerékpártúrát.",
+            "ro": "O ultimă oprire istorică pentru a încheia turul pe bicicletă prin istoria Birkirkara.",
+            "en": "A final historic stop to round off your cycling tour of Birkirkara's history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Birkirkara beginnt im ruhigen Bahnhofspark. Von dort aus folgen Sie den Spuren der Geschichte entlang des Wignacourt-Aquädukts und entdecken ländliche Juwelen wie die Ta' Ganu Windmühle und die Tal-Herba Kirche. Zur Mittagszeit erreichen Sie das pulsierende Zentrum, wo Sie sich stärken können. Der Nachmittag ist den beeindruckendsten Sehenswürdigkeiten gewidmet: der prächtigen St. Helen's Basilika und dem historischen Birkirkara Turm. Diese Route verbindet ruhige Wege mit den wichtigsten kulturellen Highlights der Stadt.",
+        "hu": "Birkirkarai kerékpártúrája a csendes Vasútállomás parkban kezdődik. Onnan a történelem nyomdokain halad a Wignacourt-vízvezeték mentén, felfedezve olyan vidéki gyöngyszemeket, mint a Ta' Ganu szélmalom és a Tal-Herba templom. Ebédidőben eléri a nyüzsgő központot, ahol feltöltődhet. A délután a leglenyűgözőbb látnivalóknak van szentelve: a csodálatos Szent Ilona-bazilikának és a történelmi Birkirkara toronynak. Ez az útvonal ötvözi a csendes utakat a város legfontosabb kulturális nevezetességeivel.",
+        "ro": "Turul pe bicicletă al Birkirkarei începe în liniștitul Parc al Gării Vechi. De acolo, urmați urmele istoriei de-a lungul Apeductului Wignacourt, descoperind bijuterii rurale precum Moara de vânt Ta' Ganu și Biserica Tal-Herba. La prânz, ajungeți în centrul vibrant pentru a vă reîncărca bateriile. După-amiaza este dedicată celor mai impresionante obiective: magnifica Bazilică Sf. Elena și istoricul Turn Birkirkara. Acest traseu combină cărările liniștite cu cele mai importante atracții culturale ale orașului.",
+        "en": "Your cycling tour of Birkirkara starts in the tranquil Old Station gardens. From there, you'll trace history along the Wignacourt Aqueduct, discovering rural gems like the Ta' Ganu Windmill and Tal-Herba Church. By lunchtime, you'll reach the vibrant center to refuel. The afternoon is dedicated to the most impressive sights: the magnificent St. Helen's Basilica and the historic Birkirkara Tower. This route blends quiet paths with the town's key cultural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ftira",
+            "tip": "Ein maltesisches Sauerteigbrot, oft als Sandwich mit Thunfisch, Oliven und Kapern serviert. Perfekt für ein Radler-Mittagessen."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "Das lokale Bier, sehr erfrischend nach einer Fahrt in der Sonne."
+          },
+          {
+            "name": "Frische Fruchtsäfte",
+            "tip": "Suchen Sie nach Ständen, die frisch gepresste Säfte verkaufen, um sich mit Vitaminen zu versorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ftira",
+            "tip": "Máltai kovászos kenyér, gyakran szendvicsként tálalva tonhallal, olajbogyóval és kapribogyóval. Tökéletes egy kerékpáros ebédhez."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "A helyi sör, nagyon frissítő egy napon töltött tekerés után."
+          },
+          {
+            "name": "Friss gyümölcslevek",
+            "tip": "Keressen standokat, ahol frissen facsart gyümölcsleveket árulnak, hogy feltöltődjön vitaminokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ftira",
+            "tip": "O pâine malteză cu maia, adesea servită ca sandviș cu ton, măsline și capere. Perfectă pentru prânzul unui biciclist."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "Berea locală, foarte răcoritoare după o plimbare sub soare."
+          },
+          {
+            "name": "Sucuri de fructe proaspete",
+            "tip": "Căutați standuri care vând sucuri proaspăt stoarse pentru un plus de vitamine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ftira",
+            "tip": "A Maltese sourdough bread, often served as a sandwich with tuna, olives, and capers. Perfect for a cyclist's lunch."
+          },
+          {
+            "name": "Cisk Lager",
+            "tip": "The local beer, very refreshing after a ride in the sun."
+          },
+          {
+            "name": "Fresh fruit juices",
+            "tip": "Look for stalls selling freshly squeezed juices for a vitamin boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des alten Bahnhofs",
+            "tip": "Beginnen und beenden Sie Ihre Tour in dieser friedlichen Grünanlage.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fahrt durch die Gassen",
+            "tip": "Verirren Sie sich in den ruhigen, engen Gassen abseits der Hauptstraßen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Tal-Herba Kirche",
+            "tip": "Ein Moment der Ruhe in einer weniger bekannten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi pályaudvar kertjei",
+            "tip": "Kezdje és fejezze be a túrát ebben a békés zöldövezetben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tekerés a sikátorokban",
+            "tip": "Tévedjen el a csendes, szűk sikátorokban a főutcáktól távol.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Tal-Herba templom",
+            "tip": "Egy pillanatnyi csend egy kevésbé ismert templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Gării Vechi",
+            "tip": "Începeți și terminați turul în acest spațiu verde pașnic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe alei",
+            "tip": "Pierdeți-vă pe aleile înguste și liniștite, departe de străzile principale.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Biserica Tal-Herba",
+            "tip": "Un moment de liniște într-o biserică mai puțin cunoscută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Railway Station Gardens",
+            "tip": "Start and end your tour in this peaceful green space.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ride through the alleys",
+            "tip": "Get lost in the quiet, narrow alleys away from the main roads.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Tal-Herba Church",
+            "tip": "A moment of peace at a lesser-known church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Halten Sie für einen Beutel 'Qagħaq tal-Għasel' (Honigringe), ein traditionelles maltesisches Gebäck."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Möglicherweise benötigen Sie ein Ersatzteil oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Álljon meg egy zacskó 'Qagħaq tal-Għasel' (mézes karika) süteményért, egy hagyományos máltai édességért."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Lehet, hogy szüksége lesz egy pótalkatrészre vagy kiegészítőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Opriți-vă pentru o pungă de 'Qagħaq tal-Għasel' (inele de miere), un produs de patiserie tradițional maltez."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "S-ar putea să aveți nevoie de o piesă de schimb sau de un accesoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Stop for a bag of 'Qagħaq tal-Għasel' (honey rings), a traditional Maltese sweet."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "You might need a spare part or an accessory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders im Verkehr.",
+          "Malta hat hügeliges Gelände; seien Sie auf einige Anstiege vorbereitet.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab.",
+          "Achten Sie auf den Verkehr, der auf der linken Seite fährt."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen forgalomban.",
+          "Málta dombos terepű; készüljön fel néhány emelkedőre.",
+          "Mindig zárja le biztonságosan a kerékpárját.",
+          "Vigyázzon a bal oldali közlekedésre."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales în trafic.",
+          "Malta are un teren deluros; fiți pregătit pentru câteva urcări.",
+          "Încuiați-vă întotdeauna bicicleta în siguranță.",
+          "Fiți atenți la traficul care circulă pe partea stângă."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially in traffic.",
+          "Malta has hilly terrain; be prepared for some climbs.",
+          "Always lock your bike securely.",
+          "Be mindful of the traffic, which drives on the left."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A Parkplatz: Nahe Ta' Ganu Windmühle",
+            "hu": "A Klaszter Parkoló: A Ta' Ganu szélmalom közelében",
+            "ro": "Parcare Cluster A: Lângă Moara de vânt Ta' Ganu",
+            "en": "Cluster A Parking: Near Ta' Ganu Windmill"
+          },
+          "coords": [
+            14.4578,
+            35.9
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Rundgang durch den historischen Westen von Birkirkara.",
+            "hu": "Parkoljon itt, és kezdje meg a sétát Birkirkara történelmi nyugati részén.",
+            "ro": "Parcați aici și începeți turul pietonal al vestului istoric al Birkirkarei.",
+            "en": "Park here and start your walking tour of Birkirkara's historic west."
+          }
+        },
+        {
+          "name": {
+            "de": "Ta' Ganu Windmühle",
+            "hu": "Ta' Ganu szélmalom",
+            "ro": "Moara de vânt Ta' Ganu",
+            "en": "Ta' Ganu Windmill"
+          },
+          "coords": [
+            14.4575,
+            35.8995
+          ],
+          "category": "museums",
+          "arrive_at": "09:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in Maltas vorindustrielle Vergangenheit.",
+            "hu": "Lenyűgöző bepillantás Málta iparosodás előtti múltjába.",
+            "ro": "O privire fascinantă în trecutul preindustrial al Maltei.",
+            "en": "A fascinating look into Malta's pre-industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mary's Kirche",
+            "hu": "Szűz Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.459,
+            35.896
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vergleichen Sie den Baustil mit dem der Basilika.",
+            "hu": "Hasonlítsa össze építészeti stílusát a bazilikáéval.",
+            "ro": "Comparați stilul său arhitectural cu cel al bazilicii.",
+            "en": "Compare its architectural style to that of the Basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B Parkplatz: Zentrum",
+            "hu": "B Klaszter Parkoló: Központ",
+            "ro": "Parcare Cluster B: Centru",
+            "en": "Cluster B Parking: Centre"
+          },
+          "coords": [
+            14.4605,
+            35.8978
+          ],
+          "category": "transport",
+          "arrive_at": "11:15",
+          "stay_min": 0,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum. Von hier aus sind die Hauptattraktionen zu Fuß erreichbar.",
+            "hu": "Vezessen a központba. Innen a fő látnivalók gyalogosan elérhetők.",
+            "ro": "Conduceți spre centru. De aici, principalele atracții sunt la distanță de mers pe jos.",
+            "en": "Drive to the center. The main attractions are within walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Helen's Basilika & Mittagessen",
+            "hu": "Szent Ilona-bazilika és ebéd",
+            "ro": "Bazilica Sf. Elena și Prânz",
+            "en": "St. Helen's Basilica & Lunch"
+          },
+          "coords": [
+            14.4611,
+            35.8972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:19",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Basilika und genießen Sie dann ein Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Szánjon időt a bazilikára, majd ebédeljen egy közeli étteremben.",
+            "ro": "Luați-vă timp pentru bazilică și apoi bucurați-vă de prânz la un restaurant din apropiere.",
+            "en": "Take your time for the basilica, then enjoy lunch at a nearby restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof & Park",
+            "hu": "Régi pályaudvar és park",
+            "ro": "Gara Veche și Parcul",
+            "en": "Old Railway Station & Gardens"
+          },
+          "coords": [
+            14.464,
+            35.8985
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang nach dem Mittagessen in dieser grünen Lunge der Stadt.",
+            "hu": "Egy pihentető séta ebéd után a város ezen zöld tüdejében.",
+            "ro": "O plimbare relaxantă după prânz în acest plămân verde al orașului.",
+            "en": "A relaxing post-lunch stroll in this green lung of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Wignacourt Aquädukt",
+            "hu": "C Klaszter: Wignacourt-vízvezeték",
+            "ro": "Cluster C: Apeductul Wignacourt",
+            "en": "Cluster C: Wignacourt Aqueduct"
+          },
+          "coords": [
+            14.468,
+            35.899
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum letzten Stopp. Parken Sie und bewundern Sie dieses Meisterwerk der Ingenieurskunst.",
+            "hu": "Vezessen az utolsó megállóhoz. Parkoljon le, és csodálja meg ezt a mérnöki remekművet.",
+            "ro": "Conduceți la ultima oprire. Parcați și admirați această capodoperă a ingineriei.",
+            "en": "Drive to the final stop. Park and admire this engineering masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour durch Birkirkara nutzt strategische Parkplätze, um die Stadt in Clustern zu erkunden. Am Morgen konzentrieren Sie sich auf den historischen Westen, besuchen die Ta' Ganu Windmühle und die St. Mary's Kirche. Anschließend fahren Sie ins Zentrum, um die prächtige St. Helen's Basilika zu besichtigen und ein gemütliches Mittagessen einzunehmen, gefolgt von einem Spaziergang im Bahnhofspark. Der Nachmittag ist einem kurzen Ausflug zum beeindruckenden Wignacourt-Aquädukt gewidmet, der einen perfekten Abschluss für einen Tag voller Entdeckungen bietet.",
+        "hu": "Birkirkarai autós túrája stratégiai parkolókat használ a város klaszterekben történő felfedezéséhez. Délelőtt a történelmi nyugati részre összpontosít, meglátogatja a Ta' Ganu szélmalmot és a Szűz Mária-templomot. Ezután a központba hajt, hogy megtekintse a csodálatos Szent Ilona-bazilikát, és elfogyasszon egy kellemes ebédet, amit egy séta követ a Vasútállomás parkjában. A délutánt egy rövid kirándulásnak szentelik a lenyűgöző Wignacourt-vízvezetékhez, amely tökéletes lezárása egy felfedezésekkel teli napnak.",
+        "ro": "Turul cu mașina al Birkirkarei folosește parcări strategice pentru a explora orașul în clustere. Dimineața vă concentrați pe vestul istoric, vizitând Moara de vânt Ta' Ganu și Biserica Sf. Maria. Apoi, conduceți spre centru pentru a vedea magnifica Bazilică Sf. Elena și pentru a lua un prânz pe îndelete, urmat de o plimbare în Parcul Gării. După-amiaza este dedicată unei scurte călătorii la impresionantul Apeduct Wignacourt, o încheiere perfectă pentru o zi plină de descoperiri.",
+        "en": "Your car tour of Birkirkara uses strategic parking to explore the town in clusters. The morning focuses on the historic west, visiting the Ta' Ganu Windmill and St. Mary's Church. You'll then drive to the center to see the magnificent St. Helen's Basilica and have a leisurely lunch, followed by a walk in the station gardens. The afternoon is for a short drive to the impressive Wignacourt Aqueduct, providing a perfect end to a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Imqaret",
+            "tip": "Frittiertes Gebäck mit Dattelfüllung. Suchen Sie nach Straßenverkäufern für die frischesten."
+          },
+          {
+            "name": "Bigilla",
+            "tip": "Ein traditioneller Dip aus Bohnen, serviert mit Crackern oder Brot. Ideal als Vorspeise."
+          },
+          {
+            "name": "Lampuki Pie (Fischpastete)",
+            "tip": "Wenn es Saison hat (Herbst), ist diese Fischpastete eine lokale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Imqaret",
+            "tip": "Sült tészta datolyatöltelékkel. Keresse az utcai árusokat a legfrissebbekért."
+          },
+          {
+            "name": "Bigilla",
+            "tip": "Hagyományos babszósz, keksszel vagy kenyérrel tálalva. Ideális előételnek."
+          },
+          {
+            "name": "Lampuki pite (halas pite)",
+            "tip": "Ha szezonja van (ősz), ez a halas pite helyi finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Imqaret",
+            "tip": "Produse de patiserie prăjite umplute cu curmale. Căutați vânzătorii ambulanți pentru cele mai proaspete."
+          },
+          {
+            "name": "Bigilla",
+            "tip": "O pastă tartinabilă tradițională din fasole, servită cu biscuiți sau pâine. Ideală ca aperitiv."
+          },
+          {
+            "name": "Plăcintă cu Lampuki (plăcintă de pește)",
+            "tip": "Dacă este în sezon (toamna), această plăcintă de pește este o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Imqaret",
+            "tip": "Fried pastry filled with dates. Look for street vendors for the freshest ones."
+          },
+          {
+            "name": "Bigilla",
+            "tip": "A traditional dip made from beans, served with crackers or bread. Great as an appetizer."
+          },
+          {
+            "name": "Lampuki Pie (Fish Pie)",
+            "tip": "When in season (autumn), this fish pie is a local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten des alten Bahnhofs",
+            "tip": "Der perfekte Ort für eine ruhige Pause zwischen den Autofahrten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Blick vom Aquädukt",
+            "tip": "Finden Sie einen Punkt, an dem Sie die Aussicht über die Stadt genießen können.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Seitengassen",
+            "tip": "Parken Sie das Auto und verlieren Sie sich für ein paar Minuten in den engen, stillen Gassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi pályaudvar kertjei",
+            "tip": "Tökéletes hely egy csendes szünetre a vezetések között.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátás a vízvezetéktől",
+            "tip": "Keressen egy pontot, ahonnan élvezheti a városra nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Parkolja le az autót, és vesszen el néhány percre a szűk, csendes sikátorokban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Gării Vechi",
+            "tip": "Locul perfect pentru o pauză liniștită între călătoriile cu mașina.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Vedere de la Apeduct",
+            "tip": "Găsiți un loc de unde puteți admira priveliștea asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Parcați mașina și pierdeți-vă pentru câteva minute pe străduțele înguste și tăcute.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Railway Station Gardens",
+            "tip": "The perfect place for a quiet break between drives.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "View from the Aqueduct",
+            "tip": "Find a spot where you can enjoy the view over the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Side Alleys",
+            "tip": "Park the car and get lost for a few minutes in the narrow, silent alleys.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramikläden",
+            "tip": "Suchen Sie nach handgefertigter maltesischer Keramik als einzigartiges Souvenir."
+          },
+          {
+            "name": "Lokale Lebensmittelgeschäfte",
+            "tip": "Kaufen Sie lokale Produkte wie Olivenöl, Honig oder Gozo-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámiaüzletek",
+            "tip": "Keressen kézzel készített máltai kerámiát egyedi szuvenírként."
+          },
+          {
+            "name": "Helyi élelmiszerboltok",
+            "tip": "Vásároljon helyi termékeket, például olívaolajat, mézet vagy gozói sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de ceramică",
+            "tip": "Căutați ceramică malteză lucrată manual ca suvenir unic."
+          },
+          {
+            "name": "Băcănii locale",
+            "tip": "Cumpărați produse locale precum ulei de măsline, miere sau brânză de Gozo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Shops",
+            "tip": "Look for handmade Maltese pottery for a unique souvenir."
+          },
+          {
+            "name": "Local Delis",
+            "tip": "Stock up on local products like olive oil, honey, or Gozitan cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in den Zentren schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
+          "Ein GPS ist unerlässlich.",
+          "Achten Sie auf Einbahnstraßen."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet a központokban; használja a kijelölt parkolókat.",
+          "Az utcák szűkek lehetnek, ezért vezessen óvatosan.",
+          "A GPS elengedhetetlen.",
+          "Vigyázzon az egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centre; folosiți parcările amenajate.",
+          "Străzile pot fi înguste, așa că conduceți cu prudență.",
+          "Un GPS este esențial.",
+          "Fiți atenți la străzile cu sens unic."
+        ],
+        "en": [
+          "Parking can be tricky in the centers; use designated car parks.",
+          "The streets can be narrow, so drive carefully.",
+          "A GPS is essential.",
+          "Be aware of one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Ankunft Birkirkara Interchange",
+            "hu": "A Klaszter: Érkezés a Birkirkara csomópontba",
+            "ro": "Cluster A: Sosire la nodul Birkirkara",
+            "en": "Cluster A: Arrive at Birkirkara Interchange"
+          },
+          "coords": [
+            14.4622,
+            35.8988
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem zentralen Verkehrsknotenpunkt.",
+            "hu": "Kezdje a napot ezen a központi közlekedési csomóponton.",
+            "ro": "Începeți-vă ziua la acest nod central de transport.",
+            "en": "Start your day at this central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Bahnhof & Park",
+            "hu": "Régi pályaudvar és park",
+            "ro": "Gara Veche și Parcul",
+            "en": "Old Railway Station & Gardens"
+          },
+          "coords": [
+            14.464,
+            35.8985
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Busbahnhof zu Ihrem ersten, ruhigen Halt.",
+            "hu": "Rövid séta a buszpályaudvartól az első, csendes megállóig.",
+            "ro": "O scurtă plimbare de la stația de autobuz până la prima oprire liniștită.",
+            "en": "A short walk from the bus interchange to your first, tranquil stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Helen's Basilika",
+            "hu": "Szent Ilona-bazilika",
+            "ro": "Bazilica Sf. Elena",
+            "en": "St. Helen's Basilica"
+          },
+          "coords": [
+            14.4611,
+            35.8972
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück von Birkirkara, ein Muss für jeden Besucher.",
+            "hu": "Birkirkara szíve, minden látogató számára kötelező.",
+            "ro": "Inima Birkirkarei, un obiectiv obligatoriu pentru orice vizitator.",
+            "en": "The heart of Birkirkara, a must-see for any visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Hauptstraße",
+            "hu": "Ebéd a Főutcán",
+            "ro": "Prânz pe Strada Principală",
+            "en": "Lunch on Main Street"
+          },
+          "coords": [
+            14.46,
+            35.8975
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein Restaurant und genießen Sie die lokale Küche.",
+            "hu": "Keressen egy éttermet, és élvezze a helyi konyhát.",
+            "ro": "Găsiți un restaurant și bucurați-vă de bucătăria locală.",
+            "en": "Find a restaurant and enjoy the local cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Haltestelle Wignacourt",
+            "hu": "B Klaszter: Wignacourt megálló",
+            "ro": "Cluster B: Stația Wignacourt",
+            "en": "Cluster B: Wignacourt Stop"
+          },
+          "coords": [
+            14.4675,
+            35.8985
+          ],
+          "category": "transport",
+          "arrive_at": "13:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zu Ihrem zweiten Cluster.",
+            "hu": "Menjen busszal a második klaszterhez.",
+            "ro": "Luați un autobuz către al doilea cluster.",
+            "en": "Take a bus to your second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Wignacourt Aquädukt",
+            "hu": "Wignacourt-vízvezeték",
+            "ro": "Apeductul Wignacourt",
+            "en": "Wignacourt Aqueduct"
+          },
+          "coords": [
+            14.468,
+            35.899
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Bögen, die sich über die Landschaft erstrecken.",
+            "hu": "Csodálja meg a táj felett átívelő íveket.",
+            "ro": "Admirați arcadele care se întind peste peisaj.",
+            "en": "Admire the arches stretching across the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkirkara Turm",
+            "hu": "Birkirkara torony",
+            "ro": "Turnul Birkirkara",
+            "en": "Birkirkara Tower"
+          },
+          "coords": [
+            14.4625,
+            35.8955
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang zu diesem historischen Turm, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy utolsó séta ehhez a történelmi toronyhoz, mielőtt visszamenne a busszal.",
+            "ro": "O ultimă plimbare la acest turn istoric înainte de a lua autobuzul înapoi.",
+            "en": "A final walk to this historic tower before catching the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Birkirkara effizient in Clustern. Sie beginnen am zentralen Busbahnhof und spazieren durch den Bahnhofspark zur prächtigen St. Helen's Basilika. Nach einem gemütlichen Mittagessen im Stadtzentrum bringt Sie ein kurzer Bus-Hop zum zweiten Cluster, wo Sie das Wignacourt-Aquädukt und den alten Turm entdecken. Diese Route kombiniert die Bequemlichkeit des Busfahrens mit angenehmen Spaziergängen, um sowohl die Hauptattraktionen als auch versteckte Juwelen zu erleben.",
+        "hu": "A tömegközlekedéssel hatékonyan, klaszterekben fedezheti fel Birkirkarát. A központi buszpályaudvartól indulva a Vasútállomás parkján keresztül sétál a csodálatos Szent Ilona-bazilikához. Egy kellemes ebéd után a városközpontban egy rövid buszozás elviszi a második klaszterhez, ahol felfedezheti a Wignacourt-vízvezetéket és a régi tornyot. Ez az útvonal ötvözi a buszozás kényelmét a kellemes sétákkal, hogy mind a fő látnivalókat, mind a rejtett gyöngyszemeket megtapasztalhassa.",
+        "ro": "Folosind transportul public, explorați eficient Birkirkara în clustere. Începeți de la autogara centrală și vă plimbați prin Parcul Gării până la magnifica Bazilică Sf. Elena. După un prânz pe îndelete în centrul orașului, o scurtă călătorie cu autobuzul vă duce la al doilea cluster, unde descoperiți Apeductul Wignacourt și vechiul turn. Acest traseu combină confortul călătoriei cu autobuzul cu plimbări plăcute pentru a experimenta atât atracțiile principale, cât și bijuteriile ascunse.",
+        "en": "Using public transport, you'll explore Birkirkara efficiently in clusters. Starting at the central bus interchange, you'll stroll through the station gardens to the magnificent St. Helen's Basilica. After a leisurely lunch in the town center, a short bus hop takes you to the second cluster to discover the Wignacourt Aqueduct and the old tower. This route combines the convenience of bus travel with pleasant walks to experience both main attractions and hidden gems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Straßen-Pizza",
+            "tip": "Holen Sie sich ein Stück Pizza von einem der vielen Kioske für einen schnellen und leckeren Happen."
+          },
+          {
+            "name": "Gozitanische Ftira",
+            "tip": "Anders als die maltesische Ftira, ähnelt sie eher einer Pizza oder Calzone. Sehr sättigend."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Machen Sie eine Pause in einem Café für einen starken Kaffee und ein Stück Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai pizza",
+            "tip": "Vegyen egy szelet pizzát a sok kioszk egyikéből egy gyors és finom falatért."
+          },
+          {
+            "name": "Gozói Ftira",
+            "tip": "Eltér a máltai ftirától, inkább pizzára vagy calzonéra hasonlít. Nagyon laktató."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson szünetet egy kávézóban egy erős kávéra és egy szelet süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza la bucată",
+            "tip": "Luați o felie de pizza de la unul dintre numeroasele chioșcuri pentru o gustare rapidă și gustoasă."
+          },
+          {
+            "name": "Ftira gozitană",
+            "tip": "Diferită de ftira malteză, seamănă mai mult cu o pizza sau calzone. Foarte sățioasă."
+          },
+          {
+            "name": "Cafea și prăjitură",
+            "tip": "Faceți o pauză la o cafenea pentru o cafea tare și o felie de prăjitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street Pizza",
+            "tip": "Grab a slice from one of the many kiosks for a quick and tasty bite."
+          },
+          {
+            "name": "Gozitan Ftira",
+            "tip": "Different from the Maltese ftira, this is more like a pizza or calzone. Very filling."
+          },
+          {
+            "name": "Coffee and Cake",
+            "tip": "Take a break at a café for a strong coffee and a slice of cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Bank im Bahnhofspark",
+            "tip": "Ein idealer Ort, um auf den nächsten Bus zu warten oder einfach nur zu entspannen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Die weniger besuchten Kirchen",
+            "tip": "Kirchen wie St. Mary oder Tal-Herba bieten eine Pause vom Trubel.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Genießen Sie die Aussicht und die relative Ruhe auf der oberen Etage eines Doppeldeckerbusses.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csendes pad a Vasútállomás parkjában",
+            "tip": "Ideális hely a következő buszra való várakozáshoz vagy egyszerűen csak a pihenéshez.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kevésbé látogatott templomok",
+            "tip": "A templomok, mint a Szűz Mária vagy a Tal-Herba, szünetet kínálnak a nyüzsgéstől.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Busz emelete",
+            "tip": "Élvezze a kilátást és a viszonylagos csendet egy emeletes busz felső szintjén.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă liniștită în Parcul Gării",
+            "tip": "Un loc ideal pentru a aștepta următorul autobuz sau pur și simplu pentru a vă relaxa.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Bisericile mai puțin vizitate",
+            "tip": "Bisericile precum Sf. Maria sau Tal-Herba oferă o pauză de la agitație.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Bucurați-vă de priveliște și de liniștea relativă de la etajul unui autobuz supraetajat.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet bench in the Station Gardens",
+            "tip": "An ideal spot to wait for your next bus or just relax.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The less-visited churches",
+            "tip": "Churches like St. Mary or Tal-Herba offer a break from the hustle.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Top deck of a bus",
+            "tip": "Enjoy the views and the relative quiet from the top deck of a double-decker bus.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in der Nähe der Basilika",
+            "tip": "Finden Sie kleine Andenken an Ihren Besuch."
+          },
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Kaufen Sie einige maltesische Snacks für Ihre Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a bazilika közelében",
+            "tip": "Találjon apró emléktárgyakat a látogatásáról."
+          },
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Vásároljon máltai rágcsálnivalókat a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri lângă bazilică",
+            "tip": "Găsiți mici amintiri ale vizitei dumneavoastră."
+          },
+          {
+            "name": "Supermarket local",
+            "tip": "Cumpărați niște gustări malteze pentru călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs near the Basilica",
+            "tip": "Find small mementos of your visit."
+          },
+          {
+            "name": "Local Supermarket",
+            "tip": "Buy some Maltese snacks for your bus journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tallinja Card für unbegrenzte Fahrten.",
+          "Laden Sie die Tallinja App herunter, um Buslinien und -zeiten zu verfolgen.",
+          "Busse können voll sein, besonders zu Stoßzeiten.",
+          "Signalieren Sie dem Fahrer deutlich, dass Sie an der nächsten Haltestelle aussteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon Tallinja kártyát a korlátlan utazáshoz.",
+          "Töltse le a Tallinja alkalmazást a buszjáratok és menetrendek követéséhez.",
+          "A buszok zsúfoltak lehetnek, különösen csúcsidőben.",
+          "Jelezze egyértelműen a sofőrnek, hogy a következő megállónál le szeretne szállni."
+        ],
+        "ro": [
+          "Cumpărați un card Tallinja pentru călătorii nelimitate.",
+          "Descărcați aplicația Tallinja pentru a urmări rutele și orarele autobuzelor.",
+          "Autobuzele pot fi aglomerate, mai ales la orele de vârf.",
+          "Semnalizați clar șoferului că doriți să coborâți la următoarea stație."
+        ],
+        "en": [
+          "Buy a Tallinja Card for unlimited travel.",
+          "Download the Tallinja App to track bus routes and times.",
+          "Buses can be crowded, especially during peak hours.",
+          "Signal clearly to the driver that you want to get off at the next stop."
+        ]
+      }
+    }
+  }
+}

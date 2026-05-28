@@ -1,0 +1,1512 @@
+{
+  "city_id": "greece-ierissos-cities-v2",
+  "anchor": {
+    "name": "Ierissos",
+    "coords": [
+      23.8167,
+      40.4
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            23.8775,
+            40.3989
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fragen Sie nach lokalen Veranstaltungen oder Ausstellungen.",
+            "hu": "Érdeklődj a helyi eseményekről vagy kiállításokról.",
+            "ro": "Întrebați despre evenimentele sau expozițiile locale.",
+            "en": "Ask about any local events or exhibitions happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            23.8761,
+            40.3995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die byzantinischen Ikonen im Inneren.",
+            "hu": "Figyeld meg a templomban található bizánci ikonokat.",
+            "ro": "Observați icoanele bizantine din interior.",
+            "en": "Note the Byzantine-style icons inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Akanthos",
+            "hu": "Ókori Akanthosz",
+            "ro": "Acanthusul Antic",
+            "en": "Ancient Akanthos"
+          },
+          "coords": [
+            23.8833,
+            40.3933
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, um die Ruinen zu erkunden.",
+            "hu": "Viselj erős cipőt a romok felfedezéséhez.",
+            "ro": "Purtați încălțăminte rezistentă pentru a explora ruinele.",
+            "en": "Wear sturdy shoes to explore the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Ierissos",
+            "hu": "Ierisszoszi kikötő",
+            "ro": "Portul din Ierissos",
+            "en": "Port of Ierissos"
+          },
+          "coords": [
+            23.8815,
+            40.4048
+          ],
+          "category": "port",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie den frischen Fang des Tages in einer der Hafentavernen.",
+            "hu": "Kóstold meg a napi friss fogást az egyik kikötői tavernában.",
+            "ro": "Încercați captura proaspătă a zilei la una dintre tavernele din port.",
+            "en": "Try the fresh catch of the day at one of the port taverns."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ierissos",
+            "hu": "Ierisszosz strandja",
+            "ro": "Plaja Ierissos",
+            "en": "Ierissos Beach"
+          },
+          "coords": [
+            23.8788,
+            40.4025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Nachmittag ist perfekt für ein langes, entspanntes Bad.",
+            "hu": "A délután tökéletes egy hosszú, pihentető úszáshoz.",
+            "ro": "După-amiaza este perfectă pentru o baie lungă și relaxantă.",
+            "en": "The afternoon is perfect for a long, relaxing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkpark",
+            "hu": "Emlékpark",
+            "ro": "Parcul Memorial",
+            "en": "Memorial Park"
+          },
+          "coords": [
+            23.8769,
+            40.3982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um über die lokale Geschichte nachzudenken.",
+            "hu": "Csendes hely a helyi történelemről való elmélkedésre.",
+            "ro": "Un loc liniștit pentru a reflecta la istoria locală.",
+            "en": "A quiet spot to reflect on the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im kulturellen Herzen von Ierissos, gefolgt von einem Besuch der spirituellen Agios-Nikolaos-Kirche. Am Vormittag tauchen Sie in die antike Geschichte von Akanthos ein, ein faszinierender Spaziergang in die Vergangenheit. Mittags genießen Sie die lebhafte Atmosphäre des Hafens und frische Meeresfrüchte. Der ganze Nachmittag ist der Entspannung am weitläufigen Strand von Ierissos gewidmet, wo Sie schwimmen und die Sonne genießen können. Ihr Tag endet mit einem kurzen, besinnlichen Moment im Gedenkpark bei Sonnenuntergang.",
+        "hu": "A nap Ierisszosz kulturális szívében kezdődik, majd a spirituális Szent Miklós-templom látogatásával folytatódik. Délelőtt elmerülhet Akanthosz ókori történelmében, egy lenyűgöző sétát téve a múltba. Délben a kikötő nyüzsgő hangulatát és a friss tengeri ételeket élvezheti. Az egész délután a pihenésé Ierisszosz tágas strandján, ahol úszhat és napozhat. A nap egy rövid, elmélkedő pillanattal zárul az Emlékparkban naplementekor.",
+        "ro": "Ziua începe în inima culturală a Ierissos, urmată de o vizită la spirituala Biserică Sfântul Nicolae. Dimineața, vă scufundați în istoria antică a Acanthusului, o plimbare fascinantă în trecut. La prânz, vă bucurați de atmosfera vibrantă a portului și de fructele de mare proaspete. Întreaga după-amiază este dedicată relaxării pe plaja întinsă din Ierissos, pentru înot și plajă. Ziua se încheie cu un moment scurt și reflexiv în Parcul Memorial la apus.",
+        "en": "Your day begins in the cultural heart of Ierissos, followed by a visit to the spiritual Agios Nikolaos Church. The morning sees you delving into the ancient history of Akanthos, a fascinating walk into the past. At midday, you'll enjoy the vibrant atmosphere of the port and fresh seafood. The entire afternoon is dedicated to relaxation on the expansive Ierissos beach, for swimming and sunbathing. Your day concludes with a short, reflective moment in the Memorial Park as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus der Ägäis, ein Muss in jeder Taverne am Hafen."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "Ein herzhafter Klassiker, perfekt nach einem langen Spaziergang."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einem Wein aus der Region Chalkidiki."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, kihagyhatatlan a kikötői tavernákban."
+          },
+          {
+            "name": "Muszaka",
+            "tip": "Egy kiadós klasszikus, tökéletes egy hosszú séta után."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérj egy bort a Halkidiki régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, un deliciu în orice tavernă din port."
+          },
+          {
+            "name": "Musaca",
+            "tip": "Un clasic consistent, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți un vin din regiunea Halkidiki."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, a must-try at any portside tavern."
+          },
+          {
+            "name": "Moussaka",
+            "tip": "A hearty classic, perfect after a long walk."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for a wine from the Halkidiki region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Antiker Friedhof",
+            "tip": "Ein Ort der Stille und des Nachdenkens über die Zeit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Finden Sie einen ruhigen Platz am Ende des Strandes, um die Farben zu beobachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Früher Morgen am Hafen",
+            "tip": "Beobachten Sie, wie die Fischerboote mit dem Fang des Tages zurückkehren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ókori temető",
+            "tip": "A csend és az időről való elmélkedés helye.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a strandon",
+            "tip": "Keress egy csendes helyet a strand végén, hogy megnézd a színeket.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kora reggel a kikötőben",
+            "tip": "Nézd, ahogy a halászhajók visszatérnek a napi fogással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Antic",
+            "tip": "Un loc de liniște și reflecție asupra timpului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la plajă",
+            "tip": "Găsiți un loc liniștit la capătul plajei pentru a privi culorile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dimineața devreme în port",
+            "tip": "Urmăriți bărcile de pescuit întorcându-se cu captura zilei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ancient Cemetery",
+            "tip": "A place of silence and reflection on time.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the beach",
+            "tip": "Find a quiet spot at the end of the beach to watch the colors.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Early morning at the port",
+            "tip": "Watch the fishing boats return with the day's catch.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Der Thymianhonig aus Chalkidiki ist berühmt."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie natives Olivenöl extra von lokalen Produzenten."
+          },
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Suchen Sie nach kleinen Werkstätten abseits der Hauptstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A halkidiki kakukkfűméz híres."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásárolj extra szűz olívaolajat helyi termelőktől."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Keress kis műhelyeket a főutcáktól távolabb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de cimbru din Halkidiki este renumită."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei de măsline extra virgin de la producătorii locali."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Căutați mici ateliere departe de străzile principale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "The thyme honey from Halkidiki is famous."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Buy extra virgin olive oil from local producers."
+          },
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Look for small workshops off the main streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist unerlässlich, besonders in den Sommermonaten.",
+          "Vergessen Sie nicht Ihre Badesachen und ein Handtuch für den Strand.",
+          "Die meisten Geschäfte und Tavernen akzeptieren Karten, aber etwas Bargeld ist immer nützlich."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz sétálni.",
+          "Egy vizespalack elengedhetetlen, különösen a nyári hónapokban.",
+          "Ne felejtsd el a fürdőruhát és a törölközőt a strandra.",
+          "A legtöbb üzlet és taverna elfogad kártyát, de némi készpénz mindig hasznos."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă de apă este esențială, mai ales în lunile de vară.",
+          "Nu uitați costumul de baie și un prosop pentru plajă.",
+          "Majoritatea magazinelor și tavernelor acceptă carduri, dar niște numerar este întotdeauna util."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A water bottle is essential, especially during the summer months.",
+          "Don't forget your swimwear and a towel for the beach.",
+          "Most shops and taverns accept cards, but some cash is always useful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Akanthos",
+            "hu": "Ókori Akanthosz",
+            "ro": "Acanthusul Antic",
+            "en": "Ancient Akanthos"
+          },
+          "coords": [
+            23.8833,
+            40.3933
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang an, um die Ruinen zu Fuß zu erkunden.",
+            "hu": "Zárd le a biciklidet a bejáratnál, hogy gyalog fedezhesd fel a romokat.",
+            "ro": "Legați-vă bicicleta la intrare pentru a explora ruinele pe jos.",
+            "en": "Lock your bike at the entrance to explore the ruins on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Friedhof",
+            "hu": "Ókori temető",
+            "ro": "Cimitirul Antic",
+            "en": "Ancient Cemetery"
+          },
+          "coords": [
+            23.884,
+            40.395
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber stimmungsvoller Stopp nach dem Besuch von Akanthos.",
+            "hu": "Rövid, de hangulatos megálló Akanthosz után.",
+            "ro": "O oprire scurtă, dar evocatoare, după vizitarea Acanthusului.",
+            "en": "A short but atmospheric stop after visiting Akanthos."
+          }
+        },
+        {
+          "name": {
+            "de": "Krouna-Turm",
+            "hu": "Krouna-torony",
+            "ro": "Turnul Krouna",
+            "en": "Krouna Tower"
+          },
+          "coords": [
+            23.8655,
+            40.3951
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Aussicht von der Spitze ist die kleine Kletterpartie wert.",
+            "hu": "A kilátás a tetejéről megéri a kis mászást.",
+            "ro": "Priveliștea din vârf merită mica urcare.",
+            "en": "The view from the top is worth the small climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Ierissos",
+            "hu": "Ierisszoszi kikötő",
+            "ro": "Portul din Ierissos",
+            "en": "Port of Ierissos"
+          },
+          "coords": [
+            23.8815,
+            40.4048
+          ],
+          "category": "port",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf die Fischerboote.",
+            "hu": "Tökéletes hely egy ebédhez, kilátással a halászhajókra.",
+            "ro": "Locul perfect pentru un prânz cu vedere la bărcile de pescuit.",
+            "en": "Perfect spot for lunch overlooking the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ierissos",
+            "hu": "Ierisszosz strandja",
+            "ro": "Plaja Ierissos",
+            "en": "Ierissos Beach"
+          },
+          "coords": [
+            23.8788,
+            40.4025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 210,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie die gesamte Länge des Strandes entlang, um den besten Platz zu finden.",
+            "hu": "Tekerj végig a strand teljes hosszán, hogy megtaláld a legjobb helyet.",
+            "ro": "Pedalați pe toată lungimea plajei pentru a găsi cel mai bun loc.",
+            "en": "Ride along the full length of the beach to find the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            23.8761,
+            40.3995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Moment der Ruhe am Ende eines aktiven Tages.",
+            "hu": "Egy pillanatnyi béke egy aktív nap végén.",
+            "ro": "Un moment de liniște la sfârșitul unei zile active.",
+            "en": "A moment of peace at the end of an active day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer Erkundung der antiken Stätten Akanthos und des nahegelegenen Friedhofs. Eine kurze Fahrt bringt Sie zum Krouna-Turm, wo Sie eine herrliche Aussicht genießen. Mittags fahren Sie zum Hafen, um die maritime Atmosphäre und ein köstliches Essen zu genießen. Der Nachmittag ist für eine lange, entspannende Pause am Strand von Ierissos reserviert, wo Sie schwimmen oder einfach nur die Sonne genießen können. Beenden Sie Ihre Tour mit einem ruhigen Besuch der Agios-Nikolaos-Kirche, bevor Sie den Abend beginnen.",
+        "hu": "Kezdje a biciklis napot Akanthosz ősi helyszíneinek és a közeli temetőnek a felfedezésével. Egy rövid tekerés elvisz a Krouna-toronyhoz, ahonnan csodás kilátás nyílik. Délben irány a kikötő, hogy élvezze a tengeri hangulatot és egy finom ebédet. A délután egy hosszú, pihentető szünetre van fenntartva Ierisszosz strandján, ahol úszhat vagy egyszerűen napozhat. A túrát a Szent Miklós-templom csendes meglátogatásával zárja, mielőtt belevág az estébe.",
+        "ro": "Începeți ziua de ciclism explorând siturile antice Acanthus și cimitirul din apropiere. O scurtă plimbare cu bicicleta vă duce la Turnul Krouna pentru priveliști minunate. La prânz, mergeți în port pentru a vă bucura de atmosfera maritimă și de o masă delicioasă. După-amiaza este rezervată pentru o pauză lungă și relaxantă pe plaja Ierissos, pentru înot sau plajă. Încheiați turul cu o vizită liniștită la Biserica Sfântul Nicolae înainte de a începe seara.",
+        "en": "Start your cycling day by exploring the ancient sites of Akanthos and the nearby cemetery. A short ride takes you to Krouna Tower for some great views. At noon, head to the port to soak in the maritime atmosphere and a delicious meal. The afternoon is reserved for a long, relaxing break at Ierissos beach for swimming or sunbathing. End your tour with a quiet visit to the Agios Nikolaos Church before starting your evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki",
+            "tip": "Ein schneller, leckerer und sättigender Snack, perfekt für Radfahrer."
+          },
+          {
+            "name": "Griechischer Salat",
+            "tip": "Leicht und erfrischend, mit lokalem Feta-Käse."
+          },
+          {
+            "name": "Frisch gepresster Orangensaft",
+            "tip": "Tanken Sie Vitamine an einem der Strandkioske."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvlaki",
+            "tip": "Gyors, finom és laktató snack, tökéletes a bicikliseknek."
+          },
+          {
+            "name": "Görög saláta",
+            "tip": "Könnyű és frissítő, helyi feta sajttal."
+          },
+          {
+            "name": "Frissen facsart narancslé",
+            "tip": "Töltsd fel magad vitaminokkal az egyik parti kioszknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvlaki",
+            "tip": "O gustare rapidă, gustoasă și sățioasă, perfectă pentru bicicliști."
+          },
+          {
+            "name": "Salată grecească",
+            "tip": "Ușoară și răcoritoare, cu brânză Feta locală."
+          },
+          {
+            "name": "Suc proaspăt de portocale",
+            "tip": "Faceți plinul de vitamine la unul dintre chioșcurile de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki",
+            "tip": "A quick, tasty, and filling snack, perfect for cyclists."
+          },
+          {
+            "name": "Greek Salad",
+            "tip": "Light and refreshing, with local Feta cheese."
+          },
+          {
+            "name": "Freshly squeezed orange juice",
+            "tip": "Refuel with vitamins at one of the beach kiosks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Krouna-Turm",
+            "tip": "Genießen Sie die Stille und den Panoramablick über die Bucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Versteckte Buchten",
+            "tip": "Fahren Sie ein Stück die Küste entlang, um kleinere, ruhigere Strände zu finden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Machen Sie eine Pause im Schatten eines alten Olivenbaums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Krouna-toronyból",
+            "tip": "Élvezd a csendet és az öbölre nyíló panorámát.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rejtett öblök",
+            "tip": "Tekerj egy kicsit a part mentén, hogy kisebb, csendesebb strandokat találj.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "Tarts egy szünetet egy idős olajfa árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Priveliște de la Turnul Krouna",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra golfului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golfuri ascunse",
+            "tip": "Pedalați puțin de-a lungul coastei pentru a găsi plaje mai mici și mai liniștite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Livezi de măslini",
+            "tip": "Luați o pauză la umbra unui măslin bătrân.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Krouna Tower",
+            "tip": "Enjoy the silence and the panoramic view over the bay.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hidden Coves",
+            "tip": "Ride a little way along the coast to find smaller, quieter beaches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "Take a break in the shade of an old olive tree.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Zubehör",
+            "tip": "Ein lokaler Laden könnte spezielle, nützliche Dinge für Ihre Tour haben."
+          },
+          {
+            "name": "Getrocknete Kräuter",
+            "tip": "Nehmen Sie den Duft Griechenlands mit nach Hause, z.B. Oregano oder Thymian."
+          },
+          {
+            "name": "Strandtuch mit griechischem Motiv",
+            "tip": "Ein praktisches und schönes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpár-kiegészítők",
+            "tip": "Egy helyi boltban különleges, hasznos dolgokat találhatsz a túrádhoz."
+          },
+          {
+            "name": "Szárított fűszerek",
+            "tip": "Vidd haza Görögország illatát, pl. oregánót vagy kakukkfüvet."
+          },
+          {
+            "name": "Görög mintás strandtörölköző",
+            "tip": "Praktikus és szép szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Accesorii pentru biciclete",
+            "tip": "Un magazin local ar putea avea articole speciale, utile pentru turul dvs."
+          },
+          {
+            "name": "Ierburi uscate",
+            "tip": "Luați acasă parfumul Greciei, cum ar fi oregano sau cimbru."
+          },
+          {
+            "name": "Prosop de plajă cu motiv grecesc",
+            "tip": "Un suvenir practic și frumos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Accessories",
+            "tip": "A local shop might have special, useful items for your tour."
+          },
+          {
+            "name": "Dried Herbs",
+            "tip": "Take the scent of Greece home with you, like oregano or thyme."
+          },
+          {
+            "name": "Beach towel with a Greek motif",
+            "tip": "A practical and beautiful souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Haltestellen sicher abzustellen.",
+          "Tragen Sie einen Helm und helle Kleidung, um gut sichtbar zu sein.",
+          "Planen Sie genügend Zeit für Pausen im Schatten ein, besonders mittags."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a guminyomást és a fékeket.",
+          "Vigyél magaddal lakatot, hogy biztonságosan lezárd a biciklidet a megállóknál.",
+          "Viselj sisakot és világos ruhát, hogy jól látható legyél.",
+          "Tervezz elég időt az árnyékban tartott szünetekre, különösen délben."
+        ],
+        "ro": [
+          "Verificați presiunea din anvelope și frânele înainte de a porni.",
+          "Luați un lacăt pentru a vă asigura bicicleta la opriri.",
+          "Purtați cască și haine de culoare deschisă pentru a fi vizibil.",
+          "Planificați suficient timp pentru pauze la umbră, mai ales la prânz."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Bring a lock to secure your bike at the stops.",
+          "Wear a helmet and bright clothing to be visible.",
+          "Plan enough time for breaks in the shade, especially at midday."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Krouna-Turm",
+            "hu": "Krouna-torony",
+            "ro": "Turnul Krouna",
+            "en": "Krouna Tower"
+          },
+          "coords": [
+            23.8655,
+            40.3951
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels. Der Morgen bietet oft die klarste Sicht.",
+            "hu": "Parkolj a domb lábánál. Reggel gyakran a legtisztább a kilátás.",
+            "ro": "Parcați la poalele dealului. Dimineața oferă adesea cea mai clară priveliște.",
+            "en": "Park at the base of the hill. The morning often provides the clearest views."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Antikes Akanthos",
+            "hu": "Klaszter: Ókori Akanthosz",
+            "ro": "Cluster: Acanthusul Antic",
+            "en": "Cluster: Ancient Akanthos"
+          },
+          "coords": [
+            23.8833,
+            40.3933
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die antiken Stätten zu Fuß.",
+            "hu": "Parkolj le itt, és fedezd fel gyalog az ókori helyszíneket.",
+            "ro": "Parcați aici și explorați siturile antice pe jos.",
+            "en": "Park here and explore the ancient sites on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Friedhof",
+            "hu": "Ókori temető",
+            "ro": "Cimitirul Antic",
+            "en": "Ancient Cemetery"
+          },
+          "coords": [
+            23.884,
+            40.395
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Hauptruinen von Akanthos.",
+            "hu": "Rövid séta Akanthosz fő romjaitól.",
+            "ro": "O scurtă plimbare de la ruinele principale ale Acanthusului.",
+            "en": "A short walk from the main ruins of Akanthos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Hafen von Ierissos",
+            "hu": "Klaszter: Ierisszoszi kikötő",
+            "ro": "Cluster: Portul Ierissos",
+            "en": "Cluster: Port of Ierissos"
+          },
+          "coords": [
+            23.8815,
+            40.4048
+          ],
+          "category": "port",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Guter Parkplatz für das Mittagessen und einen Spaziergang am Wasser.",
+            "hu": "Jó parkolóhely ebédhez és egy sétához a vízparton.",
+            "ro": "Parcare bună pentru prânz și o plimbare pe malul apei.",
+            "en": "Good parking spot for lunch and a walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Nikolaos",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Church of Agios Nikolaos"
+          },
+          "coords": [
+            23.8761,
+            40.3995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Hafen ins Stadtzentrum.",
+            "hu": "Kellemes séta a kikötőtől a városközpontba.",
+            "ro": "O plimbare plăcută din port spre centrul orașului.",
+            "en": "A pleasant walk from the port into the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            23.8775,
+            40.3989
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Stadtbummel hier, bevor Sie zum Strand fahren.",
+            "hu": "Itt fejezd be a városi sétát, mielőtt a strandra mész.",
+            "ro": "Încheiați plimbarea prin oraș aici înainte de a vă întoarce la mașină.",
+            "en": "Finish your town walk here before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ierissos",
+            "hu": "Ierisszosz strandja",
+            "ro": "Plaja Ierissos",
+            "en": "Ierissos Beach"
+          },
+          "coords": [
+            23.8788,
+            40.4025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe einer Strandbar für Komfort und Entspannung.",
+            "hu": "Parkolj egy strandbár közelében a kényelem és a pihenés érdekében.",
+            "ro": "Parcați lângă un bar pe plajă pentru confort și relaxare.",
+            "en": "Park near a beach bar for convenience and relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer Fahrt zum Krouna-Turm für eine atemberaubende Aussicht. Fahren Sie dann zum antiken Akanthos, parken Sie und erkunden Sie die Ruinen und den Friedhof zu Fuß. Zur Mittagszeit fahren Sie zum Hafencluster, wo Sie Ihr Auto abstellen, zu Mittag essen und durch das Stadtzentrum zur Agios-Nikolaos-Kirche schlendern. Ihr letzter Halt ist der Strand von Ierissos, wo Sie den Rest des Nachmittags mit Schwimmen und Entspannen verbringen, bevor Sie den Tag ausklingen lassen.",
+        "hu": "Kezdje a napot egy autózással a Krouna-toronyhoz, ahonnan lélegzetelállító kilátás nyílik. Ezután vezessen az ókori Akanthoszhoz, parkoljon le, és fedezze fel gyalog a romokat és a temetőt. Délben hajtson a kikötői klaszterhez, ahol leparkolhat, ebédelhet, és átsétálhat a városközponton a Szent Miklós-templomhoz. Az utolsó autós megálló Ierisszosz strandja, ahol a délután hátralévő részét úszással és pihenéssel töltheti a nap lezárása előtt.",
+        "ro": "Începeți ziua cu o plimbare cu mașina la Turnul Krouna pentru priveliști uluitoare. Apoi, conduceți la Acanthusul antic, parcați și explorați ruinele și cimitirul pe jos. La prânz, mergeți la clusterul portuar, unde parcați, luați prânzul și vă plimbați prin centrul orașului până la Biserica Sfântul Nicolae. Ultima oprire cu mașina este plaja Ierissos, unde vă petreceți restul după-amiezii înotând și relaxându-vă înainte de a încheia ziua.",
+        "en": "Start the day with a drive to Krouna Tower for breathtaking views. Then, drive to ancient Akanthos, park up, and explore the ruins and cemetery on foot. For lunchtime, drive to the port cluster, where you'll park, have lunch, and stroll through the town center to Agios Nikolaos Church. Your final car stop is Ierissos beach, to spend the rest of the afternoon swimming and relaxing before calling it a day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe (Kakavia)",
+            "tip": "Eine Spezialität, die in den Tavernen am Hafen oft angeboten wird."
+          },
+          {
+            "name": "Gefüllte Weinblätter (Dolmades)",
+            "tip": "Ein leichter und traditioneller Genuss."
+          },
+          {
+            "name": "Ouzo mit Meze",
+            "tip": "Der perfekte Aperitif mit kleinen Vorspeisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleves (Kakavia)",
+            "tip": "Specialitás, amelyet gyakran kínálnak a kikötői tavernákban."
+          },
+          {
+            "name": "Töltött szőlőlevél (Dolmades)",
+            "tip": "Könnyű és hagyományos csemege."
+          },
+          {
+            "name": "Ouzo mezével",
+            "tip": "Tökéletes aperitif kis előételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește (Kakavia)",
+            "tip": "O specialitate adesea găsită în tavernele din port."
+          },
+          {
+            "name": "Sarmale în foi de viță (Dolmades)",
+            "tip": "O gustare ușoară și tradițională."
+          },
+          {
+            "name": "Ouzo cu meze",
+            "tip": "Aperitivul perfect cu mici gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup (Kakavia)",
+            "tip": "A specialty often found in the port taverns."
+          },
+          {
+            "name": "Stuffed Vine Leaves (Dolmades)",
+            "tip": "A light and traditional treat."
+          },
+          {
+            "name": "Ouzo with meze",
+            "tip": "The perfect aperitif with small appetizers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Nehmen Sie eine Nebenstraße und genießen Sie die Aussicht auf das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Rande von Akanthos",
+            "tip": "Finden Sie einen ruhigen Platz mit Blick auf die Ruinen und das Meer.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Später Nachmittag am Strand",
+            "tip": "Wenn die meisten Tagesgäste gegangen sind, wird es ruhiger.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autózás a part mentén",
+            "tip": "Válassz egy mellékutat, és élvezd a tengerre nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Akanthosz szélén",
+            "tip": "Keress egy csendes helyet, kilátással a romokra és a tengerre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Késő délután a strandon",
+            "tip": "Amikor a legtöbb napozó már elment, csendesebbé válik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu mașina de-a lungul coastei",
+            "tip": "Luați un drum secundar și bucurați-vă de priveliștea mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La marginea Acanthusului",
+            "tip": "Găsiți un loc liniștit cu vedere la ruine și la mare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "După-amiază târziu pe plajă",
+            "tip": "Când majoritatea vizitatorilor de o zi au plecat, devine mai liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive along the coast",
+            "tip": "Take a secondary road and enjoy the sea views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "On the edge of Akanthos",
+            "tip": "Find a quiet spot overlooking the ruins and the sea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Late afternoon at the beach",
+            "tip": "When most day-trippers have left, it becomes quieter.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produkte vom Berg Athos",
+            "tip": "In einigen Geschäften werden Weine und Produkte von den nahegelegenen Klöstern verkauft."
+          },
+          {
+            "name": "Maritime Souvenirs",
+            "tip": "Am Hafen finden Sie handgefertigte Modelle von Fischerbooten."
+          },
+          {
+            "name": "Große Flasche Olivenöl",
+            "tip": "Mit dem Auto können Sie problemlos größere Mengen transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termékek az Athos-hegyről",
+            "tip": "Néhány üzletben a közeli kolostorokból származó borokat és termékeket árulnak."
+          },
+          {
+            "name": "Tengeri szuvenírek",
+            "tip": "A kikötőben kézzel készített halászhajó-modelleket találhatsz."
+          },
+          {
+            "name": "Nagy üveg olívaolaj",
+            "tip": "Autóval könnyedén szállíthatsz nagyobb mennyiséget."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de pe Muntele Athos",
+            "tip": "Unele magazine vând vinuri și produse de la mănăstirile din apropiere."
+          },
+          {
+            "name": "Suveniruri maritime",
+            "tip": "În port puteți găsi modele artizanale de bărci de pescuit."
+          },
+          {
+            "name": "Sticlă mare de ulei de măsline",
+            "tip": "Cu mașina, puteți transporta cu ușurință cantități mai mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Products from Mount Athos",
+            "tip": "Some shops sell wines and products from the nearby monasteries."
+          },
+          {
+            "name": "Maritime souvenirs",
+            "tip": "You can find handmade models of fishing boats in the port."
+          },
+          {
+            "name": "Large bottle of olive oil",
+            "tip": "With a car, you can easily transport larger quantities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus, besonders im Sommer.",
+          "Ein GPS oder eine Karten-App ist nützlich, um die verschiedenen Cluster zu finden.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Ein Auto gibt Ihnen die Flexibilität, auch abgelegenere Strände in der Nähe zu erkunden."
+        ],
+        "hu": [
+          "Előre tájékozódj a parkolási lehetőségekről, különösen nyáron.",
+          "GPS vagy térképalkalmazás hasznos a különböző klaszterek megtalálásához.",
+          "Ne hagyj értéktárgyakat látható helyen az autóban.",
+          "Az autó rugalmasságot ad, hogy a közeli, eldugottabb strandokat is felfedezd."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, mai ales vara.",
+          "Un GPS sau o aplicație de hărți este utilă pentru a găsi diferitele clustere.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "O mașină vă oferă flexibilitatea de a explora și plaje mai îndepărtate din apropiere."
+        ],
+        "en": [
+          "Check parking options in advance, especially in summer.",
+          "A GPS or map app is useful for finding the different clusters.",
+          "Do not leave valuables visible in the car.",
+          "A car gives you the flexibility to also explore more remote beaches nearby."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Antikes Akanthos",
+            "hu": "Klaszter: Ókori Akanthosz",
+            "ro": "Cluster: Acanthusul Antic",
+            "en": "Cluster: Ancient Akanthos"
+          },
+          "coords": [
+            23.8833,
+            40.3933
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zur Haltestelle 'Archaia Akanthos'.",
+            "hu": "Menj busszal az 'Archaia Akanthos' megállóig.",
+            "ro": "Luați autobuzul până la stația 'Archaia Akanthos'.",
+            "en": "Take the bus to the 'Archaia Akanthos' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Friedhof",
+            "hu": "Ókori temető",
+            "ro": "Cimitirul Antic",
+            "en": "Ancient Cemetery"
+          },
+          "coords": [
+            23.884,
+            40.395
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Von den Hauptruinen aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a fő romoktól.",
+            "ro": "Ușor de accesat pe jos de la ruinele principale.",
+            "en": "Easily accessible on foot from the main ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Stadtzentrum",
+            "hu": "Klaszter: Városközpont",
+            "ro": "Cluster: Centrul orașului",
+            "en": "Cluster: Town Center"
+          },
+          "coords": [
+            23.8761,
+            40.3995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Steigen Sie am Hauptplatz aus, um die Kirche und das Kulturzentrum zu erkunden.",
+            "hu": "Szállj le a főtéren, hogy felfedezd a templomot és a kulturális központot.",
+            "ro": "Coborâți în piața principală pentru a explora biserica și centrul cultural.",
+            "en": "Get off at the main square to explore the church and cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            23.8775,
+            40.3989
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Besuch mit einem Mittagessen in einem der nahegelegenen Restaurants.",
+            "hu": "Kösd össze a látogatást egy ebéddel a közeli éttermek egyikében.",
+            "ro": "Combinați vizita cu un prânz la unul dintre restaurantele din apropiere.",
+            "en": "Combine the visit with lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Hafen & Strand",
+            "hu": "Klaszter: Kikötő és strand",
+            "ro": "Cluster: Port și Plajă",
+            "en": "Cluster: Port & Beach"
+          },
+          "coords": [
+            23.8815,
+            40.4048
+          ],
+          "category": "port",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Endstation für den Nachmittag. Von hier aus ist alles zu Fuß erreichbar.",
+            "hu": "A délutáni végállomás. Innen minden gyalog elérhető.",
+            "ro": "Stația finală pentru după-amiază. Totul este accesibil pe jos de aici.",
+            "en": "The final stop for the afternoon. Everything is walkable from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ierissos",
+            "hu": "Ierisszosz strandja",
+            "ro": "Plaja Ierissos",
+            "en": "Ierissos Beach"
+          },
+          "coords": [
+            23.8788,
+            40.4025
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 185,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich für den Rest des Tages. Die Bushaltestelle ist in der Nähe.",
+            "hu": "Pihenj a nap hátralévő részében. A buszmegálló a közelben van.",
+            "ro": "Relaxați-vă pentru restul zilei. Stația de autobuz este în apropiere.",
+            "en": "Relax for the rest of the day. The bus stop is nearby for your return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer Busfahrt zum antiken Akanthos, wo Sie die Ruinen und den Friedhof erkunden. Anschließend bringt Sie ein Bus ins Stadtzentrum, wo Sie die Agios-Nikolaos-Kirche besichtigen und Zeit für ein Mittagessen und einen Besuch im Kulturzentrum haben. Am Nachmittag bringt Sie eine letzte Busfahrt zum Hafen. Von dort aus ist es nur ein kurzer Spaziergang zum Strand, wo Sie den Rest des Tages mit Sonnenbaden, Schwimmen und Entspannen verbringen, bevor Sie den Bus zurücknehmen.",
+        "hu": "A nap egy buszúttal kezdődik az ókori Akanthoszhoz, ahol felfedezheti a romokat és a temetőt. Ezután egy busz elvisz a városközpontba, ahol meglátogathatja a Szent Miklós-templomot, és időt szakíthat egy ebédre és a Kulturális Központ meglátogatására. Délután egy utolsó buszjárat visz a kikötőbe. Onnan már csak egy rövid séta a strand, ahol a nap hátralévő részét napozással, úszással és pihenéssel töltheti, mielőtt visszaindulna a busszal.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul la Acanthusul antic, unde explorați ruinele și cimitirul. Apoi, un autobuz vă duce în centrul orașului pentru a vedea Biserica Sfântul Nicolae și pentru a avea timp pentru prânz și o vizită la Centrul Cultural. După-amiaza, o ultimă cursă cu autobuzul vă duce în port. De acolo, este o scurtă plimbare până la plajă, unde vă petreceți restul zilei făcând plajă, înotând și relaxându-vă înainte de a lua autobuzul înapoi.",
+        "en": "Your day begins with a bus ride to ancient Akanthos, where you explore the ruins and cemetery. A bus then takes you to the town center to see Agios Nikolaos Church and have time for lunch and a visit to the Cultural Center. In the afternoon, a final bus ride takes you to the port. From there, it's a short walk to the beach, where you spend the rest of the day sunbathing, swimming, and relaxing before catching the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Ein perfektes, schnelles Mittagessen, das man leicht mitnehmen kann."
+          },
+          {
+            "name": "Gegrillte Sardinen",
+            "tip": "Eine lokale Delikatesse, besonders wenn sie frisch sind."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der griechische Eiskaffee, ideal für eine Pause am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyros pita",
+            "tip": "Tökéletes, gyors ebéd, amit könnyű elvinni."
+          },
+          {
+            "name": "Grillezett szardínia",
+            "tip": "Helyi finomság, különösen, ha friss."
+          },
+          {
+            "name": "Frappé",
+            "tip": "A görög jegeskávé, ideális egy délutáni szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gyros Pita",
+            "tip": "Un prânz perfect și rapid, ușor de luat la pachet."
+          },
+          {
+            "name": "Sardine la grătar",
+            "tip": "O delicatesă locală, mai ales când sunt proaspete."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Cafeaua grecească cu gheață, ideală pentru o pauză de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gyros Pita",
+            "tip": "A perfect, quick lunch that is easy to take away."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "A local delicacy, especially when fresh."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The Greek iced coffee, ideal for an afternoon break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt mit Aussicht",
+            "tip": "Setzen Sie sich auf die Meerseite des Busses und genießen Sie die Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein ruhiger Platz im Gedenkpark",
+            "tip": "Ein Moment der Besinnung, abseits der Touristenpfade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Am Ende des Piers",
+            "tip": "Gehen Sie bis zum Ende des Piers im Hafen für eine tolle Aussicht und etwas Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás kilátással",
+            "tip": "Ülj a busz tenger felőli oldalára, és élvezd a tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Csendes hely az Emlékparkban",
+            "tip": "Egy pillanatnyi elmélkedés a turistaútvonalaktól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A móló végén",
+            "tip": "Menj el a kikötői móló végéig a nagyszerű kilátásért és egy kis békéért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul cu priveliște",
+            "tip": "Stați pe partea cu marea a autobuzului și bucurați-vă de peisaj.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un loc liniștit în Parcul Memorial",
+            "tip": "Un moment de reflecție, departe de aglomerația turistică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "La capătul digului",
+            "tip": "Mergeți până la capătul digului din port pentru o priveliște minunată și puțină liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride with a view",
+            "tip": "Sit on the sea side of the bus and enjoy the scenery.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet spot in the Memorial Park",
+            "tip": "A moment of reflection, away from the tourist crowds.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "At the end of the pier",
+            "tip": "Walk to the end of the pier in the port for a great view and some peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Backwaren",
+            "tip": "Kaufen Sie ein paar 'Koulouria' (Sesamringe) für den Strand."
+          },
+          {
+            "name": "Komboloi (Sorgenperlen)",
+            "tip": "Ein traditionelles griechisches Souvenir."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "Senden Sie Grüße von den schönen Stränden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékáruk",
+            "tip": "Vegyél néhány 'Koulouria'-t (szezámmagos karika) a strandra."
+          },
+          {
+            "name": "Komboloi (aggodalomgyöngyök)",
+            "tip": "Hagyományos görög szuvenír."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "Küldj üdvözletet a gyönyörű strandokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Cumpărați niște 'Koulouri' (inele de susan) pentru plajă."
+          },
+          {
+            "name": "Komboloi (mărgele de grijă)",
+            "tip": "Un suvenir tradițional grecesc."
+          },
+          {
+            "name": "Cărți poștale",
+            "tip": "Trimiteți salutări de pe plajele frumoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local pastries",
+            "tip": "Buy some 'Koulouri' (sesame rings) for the beach."
+          },
+          {
+            "name": "Komboloi (worry beads)",
+            "tip": "A traditional Greek souvenir."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Send greetings from the beautiful beaches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Informieren Sie sich über den Busfahrplan, um Wartezeiten zu minimieren.",
+          "Halten Sie Kleingeld für die Bustickets bereit.",
+          "Die Bushaltestellen sind nicht immer deutlich gekennzeichnet, fragen Sie im Zweifelsfall Einheimische."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra, ha van, hogy pénzt spórolj.",
+          "Tájékozódj a buszmenetrendről a várakozási idő minimalizálása érdekében.",
+          "Tarts magadnál aprópénzt a buszjegyekhez.",
+          "A buszmegállók nem mindig jól jelzettek, kétség esetén kérdezz meg egy helyit."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați orarul autobuzelor pentru a minimiza timpul de așteptare.",
+          "Aveți la îndemână monede pentru biletele de autobuz.",
+          "Stațiile de autobuz nu sunt întotdeauna clar marcate, întrebați un localnic dacă aveți dubii."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available to save money.",
+          "Check the bus schedule to minimize waiting times.",
+          "Have small change ready for bus tickets.",
+          "Bus stops are not always clearly marked, ask a local if in doubt."
+        ]
+      }
+    }
+  }
+}

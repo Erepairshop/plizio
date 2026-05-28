@@ -1,0 +1,1436 @@
+{
+  "city_id": "uk-lancaster-cities-v2",
+  "anchor": {
+    "name": "Lancaster",
+    "coords": [
+      -2.8007,
+      54.047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lancaster Castle",
+            "hu": "Lancasteri vár",
+            "ro": "Castelul Lancaster",
+            "en": "Lancaster Castle"
+          },
+          "coords": [
+            -2.805,
+            54.05
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die Kerker und Gerichtssäle zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a börtöncellákat és a tárgyalótermeket.",
+            "ro": "Participați la un tur ghidat pentru a vedea temnițele și sălile de judecată.",
+            "en": "Join a guided tour to see the dungeons and courtrooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Priory",
+            "hu": "Lancasteri perjelség",
+            "ro": "Prioratul Lancaster",
+            "en": "Lancaster Priory"
+          },
+          "coords": [
+            -2.8055,
+            54.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die römischen Artefakte, die im Inneren ausgestellt sind.",
+            "hu": "Keresse a bent kiállított római kori leleteket.",
+            "ro": "Căutați artefactele romane expuse în interior.",
+            "en": "Look for the Roman artefacts displayed inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Judges' Lodgings Museum",
+            "hu": "Bírák szállása múzeum",
+            "ro": "Muzeul Judges' Lodgings",
+            "en": "Judges' Lodgings Museum"
+          },
+          "coords": [
+            -2.802,
+            54.049
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum beherbergt auch eine Sammlung von Kinderspielzeug aus vergangenen Epochen.",
+            "hu": "A múzeum a régmúlt korok gyerekjátékainak gyűjteményét is őrzi.",
+            "ro": "Muzeul găzduiește și o colecție de jucării pentru copii din epoci trecute.",
+            "en": "The museum also houses a collection of childhood toys from bygone eras."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster City Museum",
+            "hu": "Lancaster Városi Múzeum",
+            "ro": "Muzeul Orașului Lancaster",
+            "en": "Lancaster City Museum"
+          },
+          "coords": [
+            -2.8,
+            54.048
+          ],
+          "category": "museums",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause, da es zentral gelegen ist.",
+            "hu": "Tökéletes egy ebédszünetre, mivel központi helyen fekszik.",
+            "ro": "Perfect pentru o pauză de prânz, fiind situat central.",
+            "en": "Perfect for a lunch break stop, given its central location."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Maritime Museum",
+            "hu": "Lancasteri Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Lancaster",
+            "en": "Lancaster Maritime Museum"
+          },
+          "coords": [
+            -2.808,
+            54.047
+          ],
+          "category": "museums",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Lune vom Museum aus.",
+            "hu": "Élvezze a Lune folyóra nyíló kilátást a múzeumból.",
+            "ro": "Bucurați-vă de priveliștea asupra râului Lune de la muzeu.",
+            "en": "Enjoy the views of the River Lune from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Promenadă pe malul râului",
+            "en": "Riverside Stroll"
+          },
+          "coords": [
+            -2.81,
+            54.046
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages, perfekt um die Enten zu füttern.",
+            "hu": "Pihentető befejezése a napnak, tökéletes a kacsák etetésére.",
+            "ro": "O încheiere relaxantă a zilei, perfectă pentru a hrăni rațele.",
+            "en": "A relaxing end to the day, perfect for feeding the ducks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Lancaster Castle, wo Geschichte lebendig wird. Erkunden Sie die alten Mauern und genießen Sie die Aussicht. Der Morgen ist eine Reise in die Vergangenheit, vom Schloss zum nahegelegenen Priory, einem Ort der Ruhe und spirituellen Einkehr. Der Vormittag steht ganz im Zeichen der mittelalterlichen Pracht der Stadt. Nach dem Mittagessen in der Nähe des Stadtmuseums tauchen Sie in die lokale Geschichte ein, bevor Sie zum Maritime Museum am Flussufer schlendern. Die reiche Seefahrtsgeschichte Lancasters wird Sie fesseln. Der Nachmittag enthüllt die kommerzielle und kulturelle Bedeutung der Stadt. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Flusses Lune. Der Sonnenuntergang über dem Wasser bietet eine malerische Kulisse und einen friedlichen Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Kezdje a napot a Lancasteri várban, ahol a történelem megelevenedik. Fedezze fel az ősi falakat és élvezze a kilátást. A délelőtt egy utazás a múltba, a vártól a közeli perjelségig, amely a béke és a spirituális elmélkedés helyszíne. A délelőtt a város középkori pompájának jegyében telik. Ebéd után a Városi Múzeum közelében merüljön el a helyi történelemben, majd sétáljon le a folyóparti Tengerészeti Múzeumhoz. Lancaster gazdag tengerészeti múltja le fogja nyűgözni. A délután a város kereskedelmi és kulturális jelentőségét tárja fel. A napot egy kellemes sétával zárja a Lune folyó mentén. A víz felett lenyugvó nap festői hátteret és békés lezárást kínál egy felfedezéssel teli naphoz.",
+        "ro": "Începeți ziua la Castelul Lancaster, unde istoria prinde viață. Explorați zidurile antice și bucurați-vă de priveliști. Dimineața este o călătorie înapoi în timp, de la castel la Prioratul din apropiere, un loc de pace și reflecție spirituală. Amiaza este dedicată splendorii medievale a orașului. După prânz lângă Muzeul Orașului, aprofundați istoria locală înainte de a vă plimba spre Muzeul Maritim de pe malul râului. Bogata istorie maritimă a Lancasterului vă va captiva. După-amiaza dezvăluie importanța comercială și culturală a orașului. Încheiați ziua cu o plimbare liniștită de-a lungul râului Lune. Apusul peste apă oferă un fundal pitoresc și o concluzie pașnică pentru o zi de explorare.",
+        "en": "Start your day at Lancaster Castle, where history comes alive. Explore the ancient walls and enjoy the views. The morning is a journey back in time, from the castle to the nearby Priory, a place of peace and spiritual reflection. The forenoon is all about the city's medieval splendour. After lunch near the City Museum, delve into local history before strolling to the Maritime Museum on the riverside. Lancaster's rich seafaring past will captivate you. The afternoon unveils the city's commercial and cultural importance. End your day with a leisurely walk along the River Lune. The sunset over the water provides a picturesque backdrop and a peaceful conclusion to a day of exploration."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Ein herzhafter Lammeintopf, perfekt nach einem langen Spaziergang. Probieren Sie ihn im The Borough."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Ein klassisches britisches Dessert, das angeblich aus dieser Region stammt. Ein Muss im The Merchants 1688."
+          },
+          {
+            "name": "Lokale Ales",
+            "tip": "Besuchen Sie die Lancaster Brewery für eine Kostprobe der lokalen Biere."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "Kiadós bárányragu, tökéletes egy hosszú séta után. Kóstolja meg a The Borough-ban."
+          },
+          {
+            "name": "Ragacsos karamellpuding",
+            "tip": "Klasszikus brit desszert, amely állítólag ebből a régióból származik. Kötelező a The Merchants 1688-ban."
+          },
+          {
+            "name": "Helyi sörök",
+            "tip": "Látogasson el a Lancaster Brewery-be egy helyi sörkóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "O tocană consistentă de miel, perfectă după o plimbare lungă. Încercați-o la The Borough."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "Un desert britanic clasic, despre care se spune că provine din această regiune. O necesitate la The Merchants 1688."
+          },
+          {
+            "name": "Berii locale (Ales)",
+            "tip": "Vizitați Lancaster Brewery pentru o degustare a berilor locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lancashire Hotpot",
+            "tip": "A hearty lamb stew, perfect after a long walk. Try it at The Borough."
+          },
+          {
+            "name": "Sticky Toffee Pudding",
+            "tip": "A classic British dessert, said to originate from this region. A must-try at The Merchants 1688."
+          },
+          {
+            "name": "Local Ales",
+            "tip": "Visit the Lancaster Brewery for a taste of the local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Lune",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Welt vorbeizieht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lancaster Priory Friedhof",
+            "tip": "Ein überraschend ruhiger Ort mit viel Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fauna-Oase im Williamson Park",
+            "tip": "Ein friedlicher Ort, um Vögel und Schmetterlinge zu beobachten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lune folyó partja",
+            "tip": "Keressen egy padot, és nézze a világot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lancasteri perjelség temetője",
+            "tip": "Meglepően csendes hely, rengeteg történelemmel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vadaspark a Williamson Parkban",
+            "tip": "Békés hely madarak és pillangók megfigyelésére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Lune",
+            "tip": "Găsiți o bancă și priviți lumea trecând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Prioratului Lancaster",
+            "tip": "Un loc surprinzător de liniștit, cu multă istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Oaza de faună din Parcul Williamson",
+            "tip": "Un loc pașnic pentru a privi păsările și fluturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Lune",
+            "tip": "Find a bench and watch the world go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lancaster Priory Cemetery",
+            "tip": "A surprisingly quiet spot with a lot of history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Williamson Park's Fauna Oasis",
+            "tip": "A peaceful place to watch birds and butterflies.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Charter Market",
+            "tip": "Ein traditioneller Freiluftmarkt, der mittwochs und samstags stattfindet."
+          },
+          {
+            "name": "Assembly Rooms",
+            "tip": "Ein historisches Gebäude, das heute unabhängige Boutiquen und Handwerksläden beherbergt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Charter Market",
+            "tip": "Hagyományos szabadtéri piac szerdánként és szombatonként."
+          },
+          {
+            "name": "Assembly Rooms",
+            "tip": "Történelmi épület, amely ma független butikoknak és kézműves üzleteknek ad otthont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Charter",
+            "tip": "O piață tradițională în aer liber, care are loc miercurea și sâmbăta."
+          },
+          {
+            "name": "Assembly Rooms",
+            "tip": "O clădire istorică ce găzduiește acum buticuri independente și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charter Market",
+            "tip": "A traditional outdoor market held on Wednesdays and Saturdays."
+          },
+          {
+            "name": "Assembly Rooms",
+            "tip": "A historic building now home to independent boutiques and craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum kompakt ist und sich am besten zu Fuß erkunden lässt.",
+          "Viele der historischen Straßen sind gepflastert.",
+          "Einige Museen haben montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus.",
+          "Halten Sie Ausschau nach den Wappen der Lancaster-Rosen in der ganzen Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpont kompakt és a legjobb gyalog felfedezni.",
+          "Sok történelmi utca macskaköves.",
+          "Néhány múzeum hétfőn zárva tart, ezért előre ellenőrizze a nyitvatartási időt.",
+          "Keresse a Lancaster-rózsa címereket a városban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului este compact și cel mai bine explorat pe jos.",
+          "Multe dintre străzile istorice sunt pavate.",
+          "Unele muzee sunt închise lunea, verificați programul în avans.",
+          "Căutați stemele Trandafirului de Lancaster prin oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city centre is compact and best explored on foot.",
+          "Many of the historic streets are cobbled.",
+          "Some museums are closed on Mondays, check opening times in advance.",
+          "Look out for the red rose emblems of Lancaster throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Williamson Park",
+            "hu": "Williamson Park",
+            "ro": "Parcul Williamson",
+            "en": "Williamson Park"
+          },
+          "coords": [
+            -2.783,
+            54.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Gärten zu Fuß.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel gyalog a kerteket.",
+            "ro": "Lăsați bicicleta la intrare și explorați grădinile pe jos.",
+            "en": "Lock up your bike near the entrance and explore the gardens on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashton Memorial",
+            "hu": "Ashton-emlékmű",
+            "ro": "Memorialul Ashton",
+            "en": "Ashton Memorial"
+          },
+          "coords": [
+            -2.781,
+            54.044
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:13",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie an klaren Tagen nach oben für eine atemberaubende Aussicht.",
+            "hu": "Tiszta napokon másszon fel a tetejére a lélegzetelállító kilátásért.",
+            "ro": "Urcați în vârf în zilele senine pentru priveliști uimitoare.",
+            "en": "Climb to the top on a clear day for breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Castle",
+            "hu": "Lancasteri vár",
+            "ro": "Castelul Lancaster",
+            "en": "Lancaster Castle"
+          },
+          "coords": [
+            -2.805,
+            54.05
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Mühe wert. Fahrradständer sind in der Nähe.",
+            "hu": "Meredek emelkedő, de megéri a fáradságot. Kerékpártárolók a közelben.",
+            "ro": "O urcare abruptă, dar merită efortul. Există suporturi pentru biciclete în apropiere.",
+            "en": "A steep climb, but worth the effort. Bike racks are available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster City Museum",
+            "hu": "Lancaster Városi Múzeum",
+            "ro": "Muzeul Orașului Lancaster",
+            "en": "Lancaster City Museum"
+          },
+          "coords": [
+            -2.8,
+            54.048
+          ],
+          "category": "museums",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Mittagspause, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Jó hely egy ebédszünethez, mielőtt folytatná a kerékpártúrát.",
+            "ro": "Un loc bun pentru o pauză de prânz înainte de a continua turul cu bicicleta.",
+            "en": "A good spot for a lunch break before continuing your cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Maritime Museum",
+            "hu": "Lancasteri Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Lancaster",
+            "en": "Lancaster Maritime Museum"
+          },
+          "coords": [
+            -2.808,
+            54.047
+          ],
+          "category": "museums",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Direkt am Radweg entlang des Flusses gelegen.",
+            "hu": "Közvetlenül a folyó menti kerékpárúton található.",
+            "ro": "Situat chiar pe pista de biciclete de-a lungul râului.",
+            "en": "Located right on the riverside cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg Millennium-Brücke",
+            "hu": "Millennium-híd kerékpárút",
+            "ro": "Pista de biciclete Podul Millennium",
+            "en": "Millennium Bridge Cycle Path"
+          },
+          "coords": [
+            -2.815,
+            54.049
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt mit großartiger Aussicht auf den Fluss und die Stadt.",
+            "hu": "Kellemes út, nagyszerű kilátással a folyóra és a városra.",
+            "ro": "O plimbare plăcută cu vederi minunate la râu și oraș.",
+            "en": "A pleasant ride with great views of the river and city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf zwei Rädern im Williamson Park und genießen Sie die Aussicht vom Ashton Memorial. Die frische Morgenluft ist der perfekte Start. Fahren Sie hinunter ins historische Herz der Stadt zum Lancaster Castle, wo Jahrhunderte an Geschichte auf Sie warten. Der Vormittag verbindet Natur mit mittelalterlicher Festungsarchitektur. Nach dem Mittagessen in der Innenstadt führt Sie Ihre Route zum Maritime Museum, das günstig am Radweg entlang des Flusses Lune liegt. Tauchen Sie ein in die Seefahrtsgeschichte, bevor Sie weiterradeln. Der Nachmittag ist eine entspannte Fahrt entlang des Flusses. Beenden Sie Ihr Abenteuer mit einer Fahrt über die beeindruckende Millennium-Brücke und entlang des malerischen Radwegs. Es ist die perfekte Möglichkeit, die Landschaft zu genießen und über die Sehenswürdigkeiten des Tages nachzudenken.",
+        "hu": "Kezdje a napot két keréken a Williamson Parkban, élvezve a kilátást az Ashton-emlékműről. A friss reggeli levegő tökéletes kezdés. Tekerjen le a város történelmi szívébe, a Lancasteri várhoz, ahol évszázadok történelme várja. A délelőtt összeköti a természetet a középkori erődépítészettel. Ebéd után a belvárosban az útvonal a Tengerészeti Múzeumhoz vezet, amely kényelmesen a Lune folyó menti kerékpárút mellett található. Merüljön el a tengerészeti történelemben, mielőtt továbbteker. A délután egy laza tekerés a folyó mentén. Zárja a kalandot egy úttal a lenyűgöző Millennium-hídon és a festői kerékpárúton. Tökéletes módja a táj élvezetének és a nap látnivalóinak átgondolásának.",
+        "ro": "Începeți ziua pe două roți în Parcul Williamson, admirând priveliștea de la Memorialul Ashton. Aerul proaspăt de dimineață este începutul perfect. Coborâți cu bicicleta în inima istorică a orașului, la Castelul Lancaster, unde vă așteaptă secole de istorie. Amiaza combină natura cu fortăreața medievală. După prânz în centrul orașului, traseul vă duce la Muzeul Maritim, situat convenabil pe pista de biciclete de-a lungul râului Lune. Aprofundați istoria maritimă înainte de a continua pedalarea. După-amiaza este o plimbare relaxantă de-a lungul râului. Încheiați-vă aventura cu o plimbare peste impresionantul Pod Millennium și de-a lungul pistei sale pitorești. Este modul perfect de a admira peisajul și de a reflecta asupra priveliștilor zilei.",
+        "en": "Start your day on two wheels at Williamson Park, taking in the views from Ashton Memorial. The crisp morning air is the perfect start. Cycle down into the city's historic heart at Lancaster Castle, where centuries of history await. The forenoon combines nature with medieval fortress architecture. After lunch in the city centre, your route takes you to the Maritime Museum, conveniently located on the River Lune cycle path. Dive into seafaring history before pedalling on. The afternoon is a relaxed ride along the river. Finish your adventure with a ride across the impressive Millennium Bridge and along its scenic cycle path. It's the perfect way to enjoy the scenery and reflect on the day's sights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein Klassiker am Flussufer. Holen Sie sich eine Portion von einem der örtlichen Imbisse."
+          },
+          {
+            "name": "Pub-Mittagessen",
+            "tip": "Viele Pubs bieten herzhafte Mahlzeiten an, die perfekt für hungrige Radfahrer sind. Probieren Sie das The Sun Hotel & Bar."
+          },
+          {
+            "name": "Eis",
+            "tip": "Belohnen Sie sich nach Ihrer Radtour mit einem Eis von Wallings Ice Cream."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus a folyóparton. Vegyen egy adagot az egyik helyi büféből."
+          },
+          {
+            "name": "Kocsmai ebéd",
+            "tip": "Sok kocsma kínál kiadós ételeket, amelyek tökéletesek az éhes kerékpárosok számára. Próbálja ki a The Sun Hotel & Bar-t."
+          },
+          {
+            "name": "Fagylalt",
+            "tip": "Jutalmazza meg magát egy fagyival a Wallings Ice Cream-től a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un clasic pe malul râului. Luați o porție de la una dintre tarabele locale."
+          },
+          {
+            "name": "Prânz la pub",
+            "tip": "Multe pub-uri oferă mese consistente, perfecte pentru bicicliștii înfometați. Încercați The Sun Hotel & Bar."
+          },
+          {
+            "name": "Înghețată",
+            "tip": "Recompensați-vă cu o înghețată de la Wallings Ice Cream după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic by the riverside. Grab a portion from one of the local takeaways."
+          },
+          {
+            "name": "Pub lunch",
+            "tip": "Many pubs offer hearty meals perfect for hungry cyclists. Try The Sun Hotel & Bar."
+          },
+          {
+            "name": "Ice Cream",
+            "tip": "Reward yourself with an ice cream from Wallings Ice Cream after your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Lune",
+            "tip": "Halten Sie für eine ruhige Minute an und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schmetterlingshaus im Williamson Park",
+            "tip": "Ein warmer, tropischer Zufluchtsort voller Farbe und Leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gipfel des Ashton Memorial",
+            "tip": "Bietet einen weiten, friedlichen Blick über die Morecambe Bay.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lune folyó kerékpárút",
+            "tip": "Álljon meg egy csendes percre, és hallgassa a vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pillangóház a Williamson Parkban",
+            "tip": "Meleg, trópusi menedék, tele színekkel és élettel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ashton-emlékmű csúcsa",
+            "tip": "Széles, békés kilátást nyújt a Morecambe-öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Lune",
+            "tip": "Opriți-vă pentru un moment de liniște și ascultați apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Casa cu fluturi din Parcul Williamson",
+            "tip": "Un refugiu cald, tropical, plin de culoare și viață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vârful Memorialului Ashton",
+            "tip": "Oferă o priveliște vastă și pașnică asupra Golfului Morecambe.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Lune Cycle Path",
+            "tip": "Stop for a quiet minute and listen to the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Butterfly House at Williamson Park",
+            "tip": "A warm, tropical haven full of colour and life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Top of Ashton Memorial",
+            "tip": "Offers a vast, peaceful view over Morecambe Bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Storey",
+            "tip": "Besuchen Sie den Laden für einzigartige Geschenke von lokalen Künstlern und Designern."
+          },
+          {
+            "name": "Gebrauchtbuchläden",
+            "tip": "Lancaster hat mehrere ausgezeichnete Gebrauchtbuchläden, perfekt zum Stöbern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Storey",
+            "tip": "Látogasson el az üzletbe helyi művészek és tervezők egyedi ajándékaiért."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Lancasterben több kiváló antikvárium is található, amelyek tökéletesek a böngészéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Storey",
+            "tip": "Vizitați magazinul pentru cadouri unice de la artiști și designeri locali."
+          },
+          {
+            "name": "Anticariate",
+            "tip": "Lancaster are mai multe anticariate excelente, perfecte pentru răsfoit."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Storey",
+            "tip": "Visit the shop for unique gifts by local artists and designers."
+          },
+          {
+            "name": "Second-hand bookshops",
+            "tip": "Lancaster has several excellent second-hand bookshops, perfect for browsing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lancaster ist hügelig, seien Sie also auf einige Anstiege vorbereitet, besonders zum Schloss und zum Williamson Park.",
+          "Verwenden Sie die ausgewiesenen Radwege, insbesondere entlang des Flusses.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab.",
+          "Einige der Stadtstraßen können eng und belebt sein, fahren Sie also defensiv."
+        ],
+        "hu": [
+          "Lancaster dombos, ezért készüljön fel néhány emelkedőre, különösen a várhoz és a Williamson Parkhoz.",
+          "Használja a kijelölt kerékpárutakat, különösen a folyó mentén.",
+          "Mindig zárja le biztonságosan a kerékpárját.",
+          "Néhány városi utca szűk és forgalmas lehet, ezért vezessen védekezően."
+        ],
+        "ro": [
+          "Lancaster este deluros, așa că fiți pregătiți pentru câteva urcări, în special spre castel și Parcul Williamson.",
+          "Folosiți pistele de biciclete desemnate, în special de-a lungul râului.",
+          "Încuiati-vă întotdeauna bicicleta în siguranță.",
+          "Unele străzi din oraș pot fi înguste și aglomerate, așa că pedalați defensiv."
+        ],
+        "en": [
+          "Lancaster is hilly, so be prepared for some climbs, especially to the castle and Williamson Park.",
+          "Use the designated cycle paths, especially along the river.",
+          "Always lock your bike securely.",
+          "Some of the city streets can be narrow and busy, so cycle defensively."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start im Stadtzentrum",
+            "hu": "Parkolás és indulás a városközpontban",
+            "ro": "Parcare și start în centrul orașului",
+            "en": "Park and Start in City Centre"
+          },
+          "coords": [
+            -2.802,
+            54.0485
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf einem der Langzeitparkplätze, z.B. Dallas Road.",
+            "hu": "Parkoljon egy hosszú távú parkolóban, mint például a Dallas Road.",
+            "ro": "Parcați într-una din parcările pe termen lung, cum ar fi Dallas Road.",
+            "en": "Park in one of the long-stay car parks like Dallas Road."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Castle",
+            "hu": "Lancasteri vár",
+            "ro": "Castelul Lancaster",
+            "en": "Lancaster Castle"
+          },
+          "coords": [
+            -2.805,
+            54.05
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Beginn Ihres Rundgangs durch das historische Zentrum.",
+            "hu": "A történelmi központban tett séta kezdete.",
+            "ro": "Începutul turului pietonal al centrului istoric.",
+            "en": "The start of your walking tour of the historic cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Priory",
+            "hu": "Lancasteri perjelség",
+            "ro": "Prioratul Lancaster",
+            "en": "Lancaster Priory"
+          },
+          "coords": [
+            -2.8055,
+            54.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, ein einfacher Spaziergang.",
+            "hu": "Közvetlenül a vár mellett, egy könnyű séta.",
+            "ro": "Chiar lângă castel, o plimbare ușoară.",
+            "en": "Right next to the castle, an easy stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster City Museum",
+            "hu": "Lancaster Városi Múzeum",
+            "ro": "Muzeul Orașului Lancaster",
+            "en": "Lancaster City Museum"
+          },
+          "coords": [
+            -2.8,
+            54.048
+          ],
+          "category": "museums",
+          "arrive_at": "11:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zeit für das Mittagessen nach dem Museumsbesuch, viele Cafés in der Nähe.",
+            "hu": "Ebédidő a múzeumlátogatás után, a közelben számos kávézó található.",
+            "ro": "Timp pentru prânz după muzeu, cu multe cafenele în apropiere.",
+            "en": "Time for lunch after the museum, with many cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashton Memorial",
+            "hu": "Ashton-emlékmű",
+            "ro": "Memorialul Ashton",
+            "en": "Ashton Memorial"
+          },
+          "coords": [
+            -2.781,
+            54.044
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Williamson Park und parken Sie dort. Das Memorial ist das Herzstück.",
+            "hu": "Vezessen a Williamson Parkhoz és parkoljon le. Az emlékmű a park központi eleme.",
+            "ro": "Conduceți spre Parcul Williamson și parcați. Memorialul este piesa centrală.",
+            "en": "Drive and park at Williamson Park. The Memorial is the centrepiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Williamson Park",
+            "hu": "Williamson Park",
+            "ro": "Parcul Williamson",
+            "en": "Williamson Park"
+          },
+          "coords": [
+            -2.783,
+            54.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:18",
+          "stay_min": 135,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten, das Schmetterlingshaus und die Aussicht.",
+            "hu": "Fedezze fel a kerteket, a pillangóházat és élvezze a kilátást.",
+            "ro": "Explorați grădinile, casa cu fluturi și priveliștile.",
+            "en": "Explore the gardens, butterfly house, and the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto im Zentrum und beginnen Sie Ihren Tag zu Fuß im ersten Cluster: dem historischen Herzen von Lancaster. Erkunden Sie das Schloss und die Priory, die nur einen Steinwurf voneinander entfernt sind. Der Vormittag ist eine tiefgehende Erkundung der mittelalterlichen und juristischen Geschichte der Stadt. Nach einem Spaziergang zum Stadtmuseum und einer Mittagspause ist es Zeit für einen Szenenwechsel. Steigen Sie wieder ins Auto. Fahren Sie zum zweiten Cluster, dem Williamson Park. Der Nachmittag steht im Zeichen von Natur und grandioser Architektur mit dem Ashton Memorial als Höhepunkt. Genießen Sie die Weite des Parks und die Panoramablicke. Beenden Sie den Tag entspannt im Park, bevor Sie zu Ihrem Auto zurückkehren. Diese Route kombiniert die Bequemlichkeit des Autos zwischen den Clustern mit der Freude an der fußläufigen Erkundung der Hauptattraktionen.",
+        "hu": "Parkolja le autóját a központban, és kezdje a napot gyalog az első klaszterben: Lancaster történelmi szívében. Fedezze fel a várat és a perjelséget, amelyek kőhajításnyira vannak egymástól. A délelőtt a város középkori és jogi történelmének mélyreható felfedezése. A Városi Múzeumhoz tett séta és egy ebédszünet után ideje a helyszínváltásnak. Szálljon vissza az autóba. Vezessen a második klaszterhez, a Williamson Parkhoz. A délután a természetről és a grandiózus építészetről szól, csúcspontként az Ashton-emlékművel. Élvezze a park tágasságát és a panorámás kilátást. Zárja a napot pihenéssel a parkban, mielőtt visszatérne autójához. Ez az útvonal ötvözi az autó kényelmét a klaszterek között a fő látnivalók gyalogos felfedezésének örömével.",
+        "ro": "Parcați mașina în centru și începeți ziua pe jos în primul cluster: inima istorică a Lancasterului. Explorați castelul și prioratul, aflate la o aruncătură de băț unul de celălalt. Amiaza este o explorare profundă a istoriei medievale și juridice a orașului. După o plimbare la Muzeul Orașului și o pauză de prânz, este timpul pentru o schimbare de decor. Urcați-vă înapoi în mașină. Conduceți către al doilea cluster, Parcul Williamson. După-amiaza este dedicată naturii și arhitecturii grandioase, cu Memorialul Ashton ca piesă centrală. Bucurați-vă de întinderea parcului și de priveliștile panoramice. Încheiați ziua relaxându-vă în parc înainte de a vă întoarce la mașină. Acest traseu combină confortul mașinii între clustere cu bucuria explorării pe jos a atracțiilor principale.",
+        "en": "Park your car centrally and start your day on foot in the first cluster: Lancaster's historic heart. Explore the Castle and Priory, a stone's throw from each other. The forenoon is a deep dive into the city's medieval and judicial history. After a walk to the City Museum and a lunch break, it's time for a change of scene. Get back in the car. Drive to the second cluster, Williamson Park. The afternoon is all about nature and grand architecture, with the Ashton Memorial as its centrepiece. Enjoy the park's vastness and the panoramic views. End the day relaxing in the park before returning to your car. This route combines the convenience of the car between clusters with the joy of exploring the main attractions on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cream Tea",
+            "tip": "Genießen Sie Scones mit Clotted Cream und Marmelade in einem der Cafés im Williamson Park."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "Wenn Sie an einem Sonntag hier sind, ist ein traditioneller Braten in einem Pub wie dem The White Cross ein Muss."
+          },
+          {
+            "name": "Käse aus der Region",
+            "tip": "Probieren Sie den Lancashire-Käse, erhältlich in Feinkostläden in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krémes tea",
+            "tip": "Élvezze a pogácsát sűrített tejszínnel és lekvárral a Williamson Park egyik kávézójában."
+          },
+          {
+            "name": "Vasárnapi sült",
+            "tip": "Ha vasárnap jár itt, egy hagyományos sült egy pubban, mint a The White Cross, kötelező."
+          },
+          {
+            "name": "Helyi sajt",
+            "tip": "Kóstolja meg a Lancashire sajtot, amely a város csemegeboltjaiban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cream Tea",
+            "tip": "Savurați scones cu clotted cream și gem la una dintre cafenelele din Parcul Williamson."
+          },
+          {
+            "name": "Friptură de duminică (Sunday Roast)",
+            "tip": "Dacă sunteți aici duminica, o friptură tradițională la un pub precum The White Cross este o necesitate."
+          },
+          {
+            "name": "Brânză locală",
+            "tip": "Încercați brânza Lancashire, disponibilă la delicatesele din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cream Tea",
+            "tip": "Enjoy scones with clotted cream and jam at one of the cafes in Williamson Park."
+          },
+          {
+            "name": "Sunday Roast",
+            "tip": "If you're here on a Sunday, a traditional roast at a pub like The White Cross is a must."
+          },
+          {
+            "name": "Local Cheese",
+            "tip": "Try the Lancashire cheese, available from delis in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Gärten des Williamson Park",
+            "tip": "Finden Sie einen abgelegenen Platz zum Entspannen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fenham-Aussichtspunkt",
+            "tip": "Ein ruhiger Aussichtspunkt im Williamson Park für weite Blicke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Judges' Lodgings Garten",
+            "tip": "Ein kleiner, abgeschiedener Garten hinter dem Museum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Williamson Park kertjei",
+            "tip": "Keressen egy félreeső helyet a pihenésre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fenham kilátó",
+            "tip": "Csendes kilátópont a Williamson Parkban, ahonnan messzire ellátni.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Bírák szállásának kertje",
+            "tip": "Kicsi, eldugott kert a múzeum mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Parcului Williamson",
+            "tip": "Găsiți un loc retras pentru a vă relaxa.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul de belvedere Fenham",
+            "tip": "Un punct de belvedere liniștit în Parcul Williamson pentru vederi ample.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Judges' Lodgings",
+            "tip": "O grădină mică și retrasă în spatele muzeului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The gardens of Williamson Park",
+            "tip": "Find a secluded spot to relax.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fenham viewpoint",
+            "tip": "A quiet viewpoint in Williamson Park for expansive views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Judges' Lodgings Garden",
+            "tip": "A small, secluded garden behind the museum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen im Williamson Park",
+            "tip": "Kaufen Sie lokale Produkte und Pflanzen."
+          },
+          {
+            "name": "St. Nicholas Arcades",
+            "tip": "Ein überdachtes Einkaufszentrum für einen regnerischen Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Williamson Park termelői boltja",
+            "tip": "Vásároljon helyi termékeket és növényeket."
+          },
+          {
+            "name": "St. Nicholas Arcades",
+            "tip": "Fedett bevásárlóközpont egy esős napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei din Parcul Williamson",
+            "tip": "Cumpărați produse și plante locale."
+          },
+          {
+            "name": "St. Nicholas Arcades",
+            "tip": "Un centru comercial acoperit pentru o zi ploioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Williamson Park farm shop",
+            "tip": "Buy some local produce and plants."
+          },
+          {
+            "name": "St Nicholas Arcades",
+            "tip": "An indoor shopping centre for a rainy day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Ihre Parkmöglichkeiten im Voraus, besonders an Markttagen (Mittwoch/Samstag).",
+          "Die 'Park and Ride'-Dienste können eine gute Alternative zum Fahren in die Innenstadt sein.",
+          "Beachten Sie, dass das Fahren in der Altstadt aufgrund von Einbahnstraßen kompliziert sein kann.",
+          "Das Parken im Williamson Park ist kostenpflichtig."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a piaci napokon (szerda/szombat).",
+          "A 'Park and Ride' szolgáltatások jó alternatívát jelenthetnek a belvárosi vezetés helyett.",
+          "Vegye figyelembe, hogy az óvárosban az egyirányú utcák miatt bonyolult lehet a vezetés.",
+          "A Williamson Parkban a parkolás díjköteles."
+        ],
+        "ro": [
+          "Planificați-vă parcarea în avans, mai ales în zilele de piață (miercuri/sâmbătă).",
+          "Serviciile 'Park and Ride' pot fi o alternativă bună la condusul în centrul orașului.",
+          "Rețineți că în centrul vechi condusul poate fi complicat din cauza sistemului de sensuri unice.",
+          "Parcarea în Parcul Williamson este contra cost."
+        ],
+        "en": [
+          "Plan your parking in advance, especially on market days (Wednesday/Saturday).",
+          "The 'Park and Ride' services can be a good alternative to driving into the city centre.",
+          "Be aware that the old town can be tricky to navigate by car due to one-way systems.",
+          "Parking at Williamson Park is paid."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof",
+            "hu": "Érkezés a buszpályaudvarra",
+            "ro": "Sosire la autogară",
+            "en": "Arrival at Bus Station"
+          },
+          "coords": [
+            -2.801,
+            54.045
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day rider ticket for unlimited travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Castle",
+            "hu": "Lancasteri vár",
+            "ro": "Castelul Lancaster",
+            "en": "Lancaster Castle"
+          },
+          "coords": [
+            -2.805,
+            54.05
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergauf vom Stadtzentrum.",
+            "hu": "Rövid séta felfelé a városközpontból.",
+            "ro": "O scurtă plimbare la deal din centrul orașului.",
+            "en": "A short uphill walk from the city centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster City Museum",
+            "hu": "Lancaster Városi Múzeum",
+            "ro": "Muzeul Orașului Lancaster",
+            "en": "Lancaster City Museum"
+          },
+          "coords": [
+            -2.8,
+            54.048
+          ],
+          "category": "museums",
+          "arrive_at": "11:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentral gelegen, ideal für eine Pause und ein Mittagessen.",
+            "hu": "Központi fekvésű, ideális egy szünetre és ebédre.",
+            "ro": "Situat central, ideal pentru o pauză și prânz.",
+            "en": "Centrally located, ideal for a break and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancaster Maritime Museum",
+            "hu": "Lancasteri Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Lancaster",
+            "en": "Lancaster Maritime Museum"
+          },
+          "coords": [
+            -2.808,
+            54.047
+          ],
+          "category": "museums",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Stadtzentrum zum Kai.",
+            "hu": "Kellemes séta a városközpontból a rakpartra.",
+            "ro": "O plimbare plăcută din centrul orașului până la chei.",
+            "en": "A nice walk from the city centre down to the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashton Memorial",
+            "hu": "Ashton-emlékmű",
+            "ro": "Memorialul Ashton",
+            "en": "Ashton Memorial"
+          },
+          "coords": [
+            -2.781,
+            54.044
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus von der Innenstadt zum Williamson Park.",
+            "hu": "Menjen busszal a belvárosból a Williamson Parkba.",
+            "ro": "Luați un autobuz din centrul orașului spre Parcul Williamson.",
+            "en": "Take a bus from the city centre towards Williamson Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Williamson Park",
+            "hu": "Williamson Park",
+            "ro": "Parcul Williamson",
+            "en": "Williamson Park"
+          },
+          "coords": [
+            -2.783,
+            54.045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Rest des Nachmittags mit Erkundungen im Park.",
+            "hu": "Töltse a délután hátralévő részét a park felfedezésével.",
+            "ro": "Bucurați-vă de restul după-amiezii explorând parcul.",
+            "en": "Enjoy the rest of the afternoon exploring the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am zentralen Busbahnhof, dem Knotenpunkt Ihres Abenteuers. Der erste Cluster ist das historische Stadtzentrum, alles bequem zu Fuß erreichbar. Erklimmen Sie den Hügel zum Schloss und tauchen Sie ein in die Geschichte, bevor Sie zum Stadtmuseum und zum Kai hinabsteigen. Der Morgen ist ein Spaziergang durch die Jahrhunderte. Nach dem Mittagessen in der Stadt ist es Zeit, den Bus für Ihren zweiten Cluster zu nehmen. Eine kurze Busfahrt bringt Sie in die friedliche Weite des Williamson Park. Der Nachmittag ist ein Kontrast zum geschäftigen Stadtzentrum und bietet Natur, Kunst und atemberaubende Ausblicke vom Ashton Memorial. Dies ist die perfekte Zeit für eine ruhige Reflexion. Fahren Sie am späten Nachmittag mit dem Bus zurück ins Zentrum, erfüllt von einem Tag, der städtische Erkundung und natürliche Schönheit perfekt miteinander verbunden hat.",
+        "hu": "Kezdje a napot a központi buszpályaudvaron, kalandjának csomópontján. Az első klaszter a történelmi városközpont, minden könnyen elérhető gyalog. Másszon fel a dombra a várhoz, és merüljön el a történelemben, mielőtt lesétál a városi múzeumhoz és a rakparthoz. A reggel egy séta az évszázadokon át. Ebéd után a városban itt az ideje, hogy felszálljon a buszra a második klaszterhez. Egy rövid buszút elviszi a Williamson Park békés tágasságába. A délután kontrasztot alkot a nyüzsgő városközponttal, természetet, művészetet és lélegzetelállító kilátást kínálva az Ashton-emlékműről. Ez a tökéletes idő a csendes elmélkedésre. Késő délután busszal térjen vissza a központba, feltöltődve egy nappal, amely tökéletesen ötvözte a városi felfedezést és a természeti szépséget.",
+        "ro": "Începeți ziua la autogara centrală, nodul aventurii dumneavoastră. Primul cluster este centrul istoric al orașului, totul la distanță de mers pe jos. Urcați dealul până la castel și pătrundeți în istorie, înainte de a coborî spre muzeul orașului și chei. Dimineața este o plimbare prin secole. După prânz în oraș, este timpul să luați autobuzul pentru al doilea cluster. O scurtă călătorie cu autobuzul vă duce în întinderea pașnică a Parcului Williamson. După-amiaza contrastează cu centrul aglomerat al orașului, oferind natură, artă și priveliști uluitoare de la Memorialul Ashton. Acesta este momentul perfect pentru o reflecție liniștită. Luați autobuzul înapoi în centru la sfârșitul după-amiezii, împliniți de o zi care a combinat perfect explorarea urbană și frumusețea naturală.",
+        "en": "Start your day at the central bus station, the hub of your adventure. The first cluster is the historic city centre, all easily walkable. Ascend the hill to the castle and immerse yourself in history, before descending to the city museum and the quayside. The morning is a walk through the centuries. After lunch in town, it's time to hop on a bus for your second cluster. A short bus ride takes you to the peaceful expanse of Williamson Park. The afternoon is a contrast to the busy city centre, offering nature, art, and breathtaking views from the Ashton Memorial. This is the perfect time for quiet reflection. Take a bus back to the centre in the late afternoon, fulfilled by a day that has perfectly blended urban exploration and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pie and a Pint",
+            "tip": "Ein klassisches Pub-Essen. Viele Pubs entlang der Buslinien bieten tolle Angebote."
+          },
+          {
+            "name": "Markt-Essen",
+            "tip": "Wenn es ein Markttag ist, probieren Sie die Street-Food-Stände für eine schnelle und leckere Mahlzeit."
+          },
+          {
+            "name": "Café-Kultur",
+            "tip": "Entspannen Sie sich in einem der unabhängigen Cafés wie The Music Room."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pite és egy korsó sör",
+            "tip": "Klasszikus kocsmai étel. Sok kocsma a buszvonalak mentén remek ajánlatokat kínál."
+          },
+          {
+            "name": "Piaci étel",
+            "tip": "Ha piaci nap van, kóstolja meg az utcai ételstandokat egy gyors és finom ételért."
+          },
+          {
+            "name": "Kávézó kultúra",
+            "tip": "Pihenjen egy független kávézóban, mint a The Music Room."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă și o halbă (Pie and a Pint)",
+            "tip": "O masă clasică de pub. Multe pub-uri de-a lungul rutelor de autobuz au oferte excelente."
+          },
+          {
+            "name": "Mâncare de la piață",
+            "tip": "Dacă este zi de piață, încercați tarabele cu mâncare stradală pentru o masă rapidă și gustoasă."
+          },
+          {
+            "name": "Cultura cafenelelor",
+            "tip": "Relaxați-vă la una dintre cafenelele independente, cum ar fi The Music Room."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pie and a Pint",
+            "tip": "A classic pub meal. Many pubs along the bus routes have great deals."
+          },
+          {
+            "name": "Market food",
+            "tip": "If it's a market day, try the street food stalls for a quick and tasty meal."
+          },
+          {
+            "name": "Cafe Culture",
+            "tip": "Relax in one of the independent cafes like The Music Room."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die obere Etage eines Doppeldeckerbusses",
+            "tip": "Bietet eine einzigartige und ruhige Perspektive auf die Stadt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Lancaster Kanal",
+            "tip": "Einige Buslinien führen in die Nähe des Kanals. Ein kurzer Spaziergang entlang des Treidelpfades ist sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein Buch im Storey-Garten",
+            "tip": "Ein verstecktes Juwel im Stadtzentrum, perfekt für eine Lesepause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy emeletes busz felső szintje",
+            "tip": "Egyedülálló és csendes perspektívát nyújt a városra.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Lancaster-csatorna",
+            "tip": "Néhány buszjárat a csatorna közelében halad el. Egy rövid séta a vontatóúton nagyon békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy könyv a Storey-kertben",
+            "tip": "Rejtett gyöngyszem a városközpontban, tökéletes egy olvasási szünethez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Oferă o perspectivă unică și liniștită asupra orașului.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Canalul Lancaster",
+            "tip": "Unele rute de autobuz trec aproape de canal. O scurtă plimbare de-a lungul malului este foarte pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "O carte în Grădina Storey",
+            "tip": "O bijuterie ascunsă în centrul orașului, perfectă pentru o pauză de lectură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The top deck of a double-decker bus",
+            "tip": "Gives a unique and quiet perspective of the city.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Lancaster Canal",
+            "tip": "Some bus routes go near the canal. A short walk along the towpath is very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A book in The Storey Gardens",
+            "tip": "A hidden gem in the city centre, perfect for a reading break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wohltätigkeitsläden",
+            "tip": "Lancaster hat viele Wohltätigkeitsläden, in denen Sie ein Schnäppchen machen können."
+          },
+          {
+            "name": "Penny Street",
+            "tip": "Die Haupteinkaufsstraße, leicht vom Busbahnhof aus zu erreichen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adományboltok",
+            "tip": "Lancasterben sok adománybolt található, ahol jó üzleteket köthet."
+          },
+          {
+            "name": "Penny Street",
+            "tip": "A fő bevásárlóutca, könnyen megközelíthető a buszpályaudvarról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de caritate",
+            "tip": "Lancaster are o mulțime de magazine de caritate unde puteți găsi chilipiruri."
+          },
+          {
+            "name": "Penny Street",
+            "tip": "Principala stradă comercială, ușor accesibilă de la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Charity shops",
+            "tip": "Lancaster has plenty of charity shops where you can find a bargain."
+          },
+          {
+            "name": "Penny Street",
+            "tip": "The main high street for shopping, easily accessible from the bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App des lokalen Busunternehmens herunter, um Fahrpläne und Live-Tracking zu erhalten.",
+          "Eine Tageskarte ist fast immer günstiger als der Kauf von Einzelfahrscheinen.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie also etwas mehr Zeit ein.",
+          "Vergewissern Sie sich, dass Sie wissen, welche Busnummer Sie für die Rückfahrt ins Zentrum vom Williamson Park benötigen."
+        ],
+        "hu": [
+          "Töltse le a helyi busztársaság alkalmazását a menetrendekért és az élő követésért.",
+          "A napijegy szinte mindig olcsóbb, mint az egyedi jegyek megvásárlása.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, ezért tervezzen egy kis extra időt.",
+          "Győződjön meg róla, hogy tudja, melyik buszjárattal kell visszamennie a központba a Williamson Parkból."
+        ],
+        "ro": [
+          "Descărcați aplicația companiei locale de autobuze pentru orare și urmărire în timp real.",
+          "Un bilet de o zi este aproape întotdeauna mai ieftin decât cumpărarea de bilete individuale.",
+          "Autobuzele pot fi aglomerate la orele de vârf, așa că lăsați-vă timp suplimentar.",
+          "Asigurați-vă că știți ce număr de autobuz să luați înapoi spre centru de la Parcul Williamson."
+        ],
+        "en": [
+          "Download the local bus company's app for timetables and live tracking.",
+          "A day ticket is almost always cheaper than buying single fares.",
+          "Buses can be crowded at peak times, so allow a little extra time.",
+          "Make sure you know which bus number to get back to the centre from Williamson Park."
+        ]
+      }
+    }
+  }
+}

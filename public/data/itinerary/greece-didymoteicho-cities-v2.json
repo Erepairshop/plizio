@@ -1,0 +1,1095 @@
+{
+  "city_id": "greece-didymoteicho-cities-v2",
+  "anchor": {
+    "name": "Didymoteicho",
+    "coords": [
+      26.49,
+      41.35
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bayezid-Moschee",
+            "hu": "Bayezid Mecset",
+            "ro": "Moscheea lui Baiazid",
+            "en": "Bayezid Mosque"
+          },
+          "coords": [
+            26.4952,
+            41.3468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die Inschriften, die von der langen Geschichte des Gebäudes erzählen.",
+            "hu": "Figyelje meg a feliratokat, melyek az épület hosszú történetéről mesélnek.",
+            "ro": "Observați inscripțiile care povestesc istoria lungă a clădirii.",
+            "en": "Note the inscriptions that tell the long history of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            26.4965,
+            41.3475
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fragen Sie nach den traditionellen thrakischen Trachten.",
+            "hu": "Kérdezzen rá a hagyományos trák népviseletekre.",
+            "ro": "Întrebați despre costumele tradiționale din Tracia.",
+            "en": "Ask about the traditional Thracian costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Schloss von Didymoteicho",
+            "hu": "Didymoteicho bizánci kastélya",
+            "ro": "Castelul Bizantin din Didymoteicho",
+            "en": "Byzantine Castle of Didymoteicho"
+          },
+          "coords": [
+            26.491,
+            41.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil, aber die Aussicht über die Stadt ist es wert.",
+            "hu": "Az emelkedő meredek, de a városra nyíló kilátás megéri.",
+            "ro": "Urcușul este abrupt, dar priveliștea asupra orașului merită efortul.",
+            "en": "The climb is steep, but the view over the city is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Athanasios",
+            "hu": "Szent Atanáz templom",
+            "ro": "Biserica Agios Athanasios",
+            "en": "Church of Agios Athanasios"
+          },
+          "coords": [
+            26.493,
+            41.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Fresken im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző belső freskókat.",
+            "ro": "Fiți atenți la frescele impresionante din interior.",
+            "en": "Pay attention to the impressive frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            26.4945,
+            41.348
+          ],
+          "category": "museums",
+          "arrive_at": "14:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Ikonensammlung aus der post-byzantinischen Zeit.",
+            "hu": "Fókuszáljon a poszt-bizánci időszakból származó ikon-gyűjteményre.",
+            "ro": "Concentrați-vă pe colecția de icoane din perioada post-bizantină.",
+            "en": "Focus on the icon collection from the post-Byzantine period."
+          }
+        },
+        {
+          "name": {
+            "de": "Armenische Kirche St. Georg",
+            "hu": "Szent György Örmény templom",
+            "ro": "Biserica Armeană Sfântul Gheorghe",
+            "en": "Armenian Church of St. George"
+          },
+          "coords": [
+            26.497,
+            41.345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel; oft ist es ruhig und perfekt für einen Moment der Besinnung.",
+            "hu": "Egy rejtett kincs; gyakran csendes és tökéletes egy pillanatnyi elmélkedésre.",
+            "ro": "O bijuterie ascunsă; adesea este liniștit și perfect pentru un moment de reflecție.",
+            "en": "A hidden gem; it's often quiet and perfect for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Plotinopolis",
+            "hu": "Plotinopolis régészeti lelőhely",
+            "ro": "Situl Arheologic Plotinopolis",
+            "en": "Archaeological Site of Plotinopolis"
+          },
+          "coords": [
+            26.505,
+            41.335
+          ],
+          "category": "landmark",
+          "arrive_at": "17:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tragen Sie festes Schuhwerk, das Gelände ist uneben.",
+            "hu": "Viseljen erős cipőt, a terep egyenetlen.",
+            "ro": "Purtați încălțăminte solidă, terenul este accidentat.",
+            "en": "Wear sturdy shoes, the terrain is uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang durch Didymoteicho beginnt im Herzen der osmanischen Geschichte bei der Bayezid-Moschee. Der Vormittag ist der reichen lokalen Kultur im Volkskundemuseum gewidmet. Am Mittag erklimmen Sie die byzantinische Festung und genießen einen weiten Blick über die thrakische Ebene. Der Nachmittag führt Sie durch byzantinische Kirchen und Museen, die von der imperialen Vergangenheit der Stadt zeugen. Sie beenden den Tag inmitten antiker römischer Ruinen in Plotinopolis, wo die Geschichte unter Ihren Füßen lebendig wird.",
+        "hu": "Sétája Didymoteichóban az oszmán történelem szívében, a Bayezid Mecsetnél kezdődik. A délelőttöt a gazdag helyi kultúrának szenteli a Néprajzi Múzeumban. Délben megmássza a bizánci erődöt, ahonnan pazar kilátás nyílik a trák síkságra. A délután bizánci templomokon és múzeumokon keresztül vezeti, melyek a város császári múltjáról tanúskodnak. A napot Plotinopolis ókori római romjai között fejezi be, ahol a történelem életre kel a lábai alatt.",
+        "ro": "Plimbarea dvs. prin Didymoteicho începe în inima istoriei otomane, la Moscheea lui Baiazid. Dimineața este dedicată culturii locale bogate la Muzeul de Folclor. La prânz, urcați la cetatea bizantină pentru o priveliște vastă asupra câmpiei trace. După-amiaza vă poartă prin biserici și muzee bizantine, mărturii ale trecutului imperial al orașului. Încheiați ziua printre ruinele romane antice de la Plotinopolis, unde istoria prinde viață sub picioarele dumneavoastră.",
+        "en": "Your walk through Didymoteicho begins in the heart of Ottoman history at the Bayezid Mosque. The morning is dedicated to the rich local culture at the Folklore Museum. At midday, you'll climb the Byzantine fortress for a vast view over the Thracian plain. The afternoon takes you through Byzantine churches and museums, testaments to the city's imperial past. You end the day amidst ancient Roman ruins at Plotinopolis, where history comes alive beneath your feet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kavourmas",
+            "tip": "Probieren Sie diese lokale Delikatesse aus gewürztem Fleisch, die langsam gegart wird. Ein Muss in jeder traditionellen Taverne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kavourmas",
+            "tip": "Kóstolja meg ezt a lassan főzött, fűszeres húsból készült helyi finomságot. Minden hagyományos tavernában kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kavourmas",
+            "tip": "Încercați această delicatesă locală din carne condimentată, gătită lent. O necesitate în orice tavernă tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kavourmas",
+            "tip": "Try this local delicacy of spiced meat that's slow-cooked. A must-try in any traditional taverna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Erythropotamos",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Erythropotamos folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, különösen naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Erythropotamos",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Erythropotamos River",
+            "tip": "A quiet walk along the river, especially at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Kaufen Sie lokale Produkte wie Honig, Käse und traditionelle Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi heti piac",
+            "tip": "Vásároljon helyi termékeket, mint a méz, sajt és hagyományos édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Cumpărați produse locale precum miere, brânză și dulciuri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Weekly Market",
+            "tip": "Shop for local products like honey, cheese, and traditional sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "A legtöbb látnivaló közel van egymáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavelele din orașul vechi pot fi denivelate.",
+          "Luați multă apă cu dvs., mai ales vara.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Bring plenty of water, especially in summer.",
+          "Most sights are located close to each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Byzantinisches Schloss von Didymoteicho",
+            "hu": "Didymoteicho bizánci kastélya",
+            "ro": "Castelul Bizantin din Didymoteicho",
+            "en": "Byzantine Castle of Didymoteicho"
+          },
+          "coords": [
+            26.491,
+            41.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels an und gehen Sie den Rest zu Fuß.",
+            "hu": "Zárja le a kerékpárt a domb alján, a többit tegye meg gyalog.",
+            "ro": "Legați-vă bicicleta la poalele dealului și urcați pe jos.",
+            "en": "Lock your bike at the bottom of the hill and walk the rest of the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinische Stadtmauern",
+            "hu": "Bizánci városfalak",
+            "ro": "Zidurile orașului bizantin",
+            "en": "Byzantine City Walls"
+          },
+          "coords": [
+            26.489,
+            41.354
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einige Abschnitte der Mauern sind frei zugänglich und bieten tolle Fotomotive.",
+            "hu": "A falak egyes szakaszai szabadon látogathatók és remek fotótémát kínálnak.",
+            "ro": "Unele secțiuni ale zidurilor sunt accesibile liber și oferă oportunități excelente pentru fotografii.",
+            "en": "Some sections of the walls are freely accessible and offer great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayezid-Moschee",
+            "hu": "Bayezid Mecset",
+            "ro": "Moscheea lui Baiazid",
+            "en": "Bayezid Mosque"
+          },
+          "coords": [
+            26.4952,
+            41.3468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Respektieren Sie die Gebetszeiten, wenn Sie das Innere besichtigen möchten.",
+            "hu": "Tartsa tiszteletben az imaidőket, ha a belsejét is meg szeretné tekinteni.",
+            "ro": "Respectați orele de rugăciune dacă doriți să vizitați interiorul.",
+            "en": "Respect the prayer times if you wish to visit the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            26.4965,
+            41.3475
+          ],
+          "category": "museums",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause von der Mittagshitze.",
+            "hu": "Ideális a déli hőség elől való menekülésre.",
+            "ro": "Ideal pentru o pauză de la căldura amiezii.",
+            "en": "Ideal for a break from the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Plotinopolis",
+            "hu": "Plotinopolis régészeti lelőhely",
+            "ro": "Situl Arheologic Plotinopolis",
+            "en": "Archaeological Site of Plotinopolis"
+          },
+          "coords": [
+            26.505,
+            41.335
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radtour hierher führt durch eine malerische Landschaft.",
+            "hu": "A kerékpárút ide festői tájon vezet keresztül.",
+            "ro": "Traseul cu bicicleta până aici traversează un peisaj pitoresc.",
+            "en": "The bike ride here takes you through some scenic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum zum Abendessen",
+            "hu": "Városközpont, vacsora",
+            "ro": "Centrul orașului pentru cină",
+            "en": "City Center for Dinner"
+          },
+          "coords": [
+            26.495,
+            41.347
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einer herzhaften Mahlzeit in einer der Tavernen.",
+            "hu": "Jutalmazza meg magát egy kiadós étkezéssel az egyik tavernban.",
+            "ro": "Recompensați-vă cu o masă copioasă la una dintre taverne.",
+            "en": "Reward yourself with a hearty meal at one of the tavernas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet mit einem Anstieg zur byzantinischen Festung. Am Vormittag erkunden Sie die alten Stadtmauern und genießen die Aussicht, bevor Sie ins historische Zentrum hinabfahren. Mittags tauchen Sie in die osmanische und lokale Kultur ein, indem Sie die Bayezid-Moschee und das Volkskundemuseum besuchen. Am Nachmittag führt Sie eine längere Radtour zu den römischen Ruinen von Plotinopolis. Zum Abschluss des Tages kehren Sie ins Zentrum zurück, um sich bei einem wohlverdienten thrakischen Abendessen zu entspannen.",
+        "hu": "Kerékpártúrája a bizánci erődhöz való emelkedővel kezdődik. Délelőtt felfedezi az ősi városfalakat és gyönyörködik a kilátásban, mielőtt legurulna a történelmi központba. Délben elmerül az oszmán és helyi kultúrában a Bayezid-mecset és a Néprajzi Múzeum meglátogatásával. A délután egy hosszabb kerékpárútra viszi Plotinopolis római kori romjaihoz. A nap végén visszatér a központba, hogy egy jól megérdemelt trák vacsorával pihenje ki magát.",
+        "ro": "Turul dvs. cu bicicleta începe cu o urcare la cetatea bizantină. Dimineața explorați zidurile antice ale orașului și vă bucurați de priveliște, înainte de a coborî în centrul istoric. La prânz, vă scufundați în cultura otomană și locală vizitând Moscheea lui Baiazid și Muzeul de Folclor. După-amiaza, un traseu mai lung cu bicicleta vă duce la ruinele romane de la Plotinopolis. La finalul zilei, vă întoarceți în centru pentru a vă relaxa cu o cină tracică binemeritată.",
+        "en": "Your bike tour starts with a climb to the Byzantine fortress. In the morning, you'll explore the ancient city walls and enjoy the view before rolling down to the historic center. At midday, you'll immerse yourself in Ottoman and local culture by visiting the Bayezid Mosque and the Folklore Museum. The afternoon takes you on a longer ride to the Roman ruins of Plotinopolis. You'll end the day back in the center to relax with a well-deserved Thracian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lachanodolmades",
+            "tip": "Kohlrouladen gefüllt mit Reis und Kräutern, ein klassisches griechisches Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lachanodolmades",
+            "tip": "Rizzsel és fűszernövényekkel töltött káposztatekercs, egy klasszikus görög étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lachanodolmades",
+            "tip": "Sarmale de varză umplute cu orez și ierburi, un fel de mâncare grecesc clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lachanodolmades",
+            "tip": "Cabbage rolls stuffed with rice and herbs, a classic Greek dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten der Armenischen Kirche",
+            "tip": "Ein kleiner, friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Örmény templom kertje",
+            "tip": "Egy kicsi, békés hely a város nyüzsgésétől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Bisericii Armene",
+            "tip": "Un loc mic și pașnic pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of the Armenian Church",
+            "tip": "A small, peaceful spot to escape the city's bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Töpferei",
+            "tip": "Suchen Sie nach handgefertigter Keramik mit traditionellen thrakischen Mustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi fazekasműhely",
+            "tip": "Keressen kézzel készített kerámiát hagyományos trák mintákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual cu modele tradiționale trace."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pottery",
+            "tip": "Look for handmade ceramics with traditional Thracian designs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Schloss.",
+          "Die Stadt ist klein, aber einige Straßen können steil sein.",
+          "Ein Helm wird empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, mielőtt leereszkedik a kastélytól.",
+          "A város kicsi, de néhány utca meredek lehet.",
+          "Sisak viselése ajánlott."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de la castel.",
+          "Orașul este mic, dar unele străzi pot fi abrupte.",
+          "Se recomandă purtarea căștii."
+        ],
+        "en": [
+          "Check your brakes before descending from the castle.",
+          "The town is small, but some streets can be steep.",
+          "A helmet is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Stätte Plotinopolis",
+            "hu": "Plotinopolis régészeti lelőhely",
+            "ro": "Situl Arheologic Plotinopolis",
+            "en": "Archaeological Site of Plotinopolis"
+          },
+          "coords": [
+            26.505,
+            41.335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um den Menschenmassen zu entgehen. Parkplätze sind am Morgen leicht zu finden.",
+            "hu": "Kezdje itt, hogy elkerülje a tömeget. Reggel könnyű parkolót találni.",
+            "ro": "Începeți de aici pentru a evita aglomerația. Parcarea este ușor de găsit dimineața.",
+            "en": "Start here to avoid the crowds. Parking is easy to find in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Schloss & Stadtmauern",
+            "hu": "Bizánci kastély és városfalak",
+            "ro": "Castelul Bizantin și Zidurile Orașului",
+            "en": "Byzantine Castle & City Walls"
+          },
+          "coords": [
+            26.491,
+            41.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Hügels und erkunden Sie den gesamten Festungsbereich zu Fuß.",
+            "hu": "Parkoljon a domb alján, és fedezze fel gyalog az egész erődítményt.",
+            "ro": "Parcați la poalele dealului și explorați întreaga zonă a cetății pe jos.",
+            "en": "Park at the base of the hill and explore the entire fortress area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Athanasios",
+            "hu": "Szent Atanáz templom",
+            "ro": "Biserica Agios Athanasios",
+            "en": "Church of Agios Athanasios"
+          },
+          "coords": [
+            26.493,
+            41.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss entfernt, perfekt, um die Beine zu vertreten.",
+            "hu": "Rövid séta a kastélytól, tökéletes a lábak nyújtóztatására.",
+            "ro": "O scurtă plimbare de la castel, perfectă pentru a vă dezmorți picioarele.",
+            "en": "A short walk from the castle, perfect for stretching your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralplatz für Mittagessen",
+            "hu": "Főtér, ebéd",
+            "ro": "Piața Centrală pentru prânz",
+            "en": "Central Square for Lunch"
+          },
+          "coords": [
+            26.495,
+            41.347
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Zentrums und wählen Sie eine Taverne für ein authentisches Mittagessen.",
+            "hu": "Parkoljon a központ közelében, és válasszon egy tavernát egy autentikus ebédhez.",
+            "ro": "Parcați aproape de centru și alegeți o tavernă pentru un prânz autentic.",
+            "en": "Park near the center and choose a taverna for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            26.4965,
+            41.3475
+          ],
+          "category": "museums",
+          "arrive_at": "14:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto geparkt und genießen Sie den Spaziergang durch die Gassen.",
+            "hu": "Hagyja leparkolva az autót, és élvezze a sétát a sikátorokban.",
+            "ro": "Lăsați mașina parcată și bucurați-vă de plimbarea pe alei.",
+            "en": "Leave the car parked and enjoy the stroll through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayezid-Moschee",
+            "hu": "Bayezid Mecset",
+            "ro": "Moscheea lui Baiazid",
+            "en": "Bayezid Mosque"
+          },
+          "coords": [
+            26.4952,
+            41.3468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem Wahrzeichen, wenn das Licht weicher wird.",
+            "hu": "Fejezze be a napot ennél a nevezetességnél, amikor a fények lágyabbá válnak.",
+            "ro": "Încheiați-vă ziua la acest punct de reper, când lumina devine mai blândă.",
+            "en": "End your day at this landmark as the light softens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit dem Auto beginnt an der römischen Stätte Plotinopolis, etwas außerhalb der Stadt. Vormittags fahren Sie zum byzantinischen Schloss-Cluster, parken und erkunden die Festung und die nahe gelegene Kirche zu Fuß. Zum Mittagessen fahren Sie ins Stadtzentrum. Den ganzen Nachmittag lassen Sie das Auto stehen und entdecken den historischen Kern zu Fuß, vom Volkskundemuseum bis zur beeindruckenden Bayezid-Moschee, und erleben so zwei verschiedene historische Epochen hautnah.",
+        "hu": "Autós napja a városon kívüli római kori Plotinopolis lelőhelynél kezdődik. Délelőtt a bizánci kastély-klaszterhez hajt, leparkol, és gyalog fedezi fel az erődöt és a közeli templomot. Ebédre a városközpontba megy. Egész délután állni hagyja az autót, és gyalogosan fedezi fel a történelmi magot, a Néprajzi Múzeumtól a lenyűgöző Bayezid-mecsetig, két különböző történelmi korszakot testközelből megtapasztalva.",
+        "ro": "Ziua dvs. cu mașina începe la situl roman Plotinopolis, chiar în afara orașului. Dimineața, conduceți spre grupul castelului bizantin, parcați și explorați cetatea și biserica din apropiere pe jos. Pentru prânz, mergeți în centrul orașului. Lăsați mașina parcată toată după-amiaza și descoperiți nucleul istoric pe jos, de la Muzeul de Folclor la impresionanta Moschee a lui Baiazid, experimentând de aproape două epoci istorice distincte.",
+        "en": "Your day by car starts at the Roman site of Plotinopolis, just outside the town. In the morning, you'll drive to the Byzantine castle cluster, park, and explore the fortress and nearby church on foot. You drive to the city center for lunch. You'll leave the car parked for the whole afternoon and discover the historic core on foot, from the Folklore Museum to the impressive Bayezid Mosque, experiencing two distinct historical eras up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Halloumi",
+            "tip": "Eine einfache, aber köstliche Vorspeise, die oft mit einem Spritzer Zitrone serviert wird."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Fragen Sie nach einem Wein aus der Region Thrakien, um Ihre Mahlzeit zu begleiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett Halloumi",
+            "tip": "Egyszerű, de finom előétel, gyakran egy csepp citrommal tálalva."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kérjen egy trákiai bort az ételéhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halloumi la grătar",
+            "tip": "Un aperitiv simplu, dar delicios, adesea servit cu un strop de lămâie."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Cereți un vin din regiunea Tracia pentru a însoți masa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Halloumi",
+            "tip": "A simple yet delicious appetizer, often served with a squeeze of lemon."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "Ask for a wine from the Thrace region to accompany your meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt bei den Stadtmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um über die Dächer der Stadt zu blicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a városfalaknál",
+            "tip": "Keressen egy csendes helyet a falakon, hogy a város háztetői fölé nézzen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere de la zidurile orașului",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a privi peste acoperișurile orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint by the City Walls",
+            "tip": "Find a quiet spot on the walls to look out over the city's rooftops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgewebte Textilien",
+            "tip": "Thrakien ist bekannt für seine Webtraditionen. Suchen Sie nach kleinen Teppichen oder Tischdecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel szőtt textíliák",
+            "tip": "Trákia híres szövési hagyományairól. Keressen kis szőnyegeket vagy asztalterítőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Textile țesute manual",
+            "tip": "Tracia este cunoscută pentru tradițiile sale de țesut. Căutați covoare mici sau fețe de masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handwoven Textiles",
+            "tip": "Thrace is known for its weaving traditions. Look for small rugs or tablecloths."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Zentrum schwierig sein; nutzen Sie ausgewiesene Parkplätze.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern, um den Verkehr zur Mittagszeit zu vermeiden.",
+          "Einige archäologische Stätten haben möglicherweise unbefestigte Zufahrtsstraßen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a központban; használja a kijelölt parkolókat.",
+          "Tervezze meg az utakat a klaszterek között, hogy elkerülje a déli forgalmat.",
+          "Néhány régészeti lelőhelyhez földút vezethet."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centru; folosiți parcările desemnate.",
+          "Planificați-vă călătoriile între grupuri pentru a evita traficul de la prânz.",
+          "Unele situri arheologice pot avea drumuri de acces neasfaltate."
+        ],
+        "en": [
+          "Parking can be tricky in the center; use designated parking areas.",
+          "Plan your drives between clusters to avoid midday traffic.",
+          "Some archaeological sites may have unpaved access roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Byzantinisches Schloss & Stadtmauern",
+            "hu": "Bizánci kastély és városfalak",
+            "ro": "Castelul Bizantin și Zidurile Orașului",
+            "en": "Byzantine Castle & City Walls"
+          },
+          "coords": [
+            26.491,
+            41.352
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen frühen Bus zum Schloss-Hügel. Genießen Sie die Ruhe am Morgen.",
+            "hu": "Menjen kora reggeli busszal a kastélydombra. Élvezze a reggeli csendet.",
+            "ro": "Luați un autobuz de dimineață devreme spre dealul castelului. Bucurați-vă de liniștea dimineții.",
+            "en": "Take an early bus to the castle hill. Enjoy the morning quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agios Athanasios",
+            "hu": "Szent Atanáz templom",
+            "ro": "Biserica Agios Athanasios",
+            "en": "Church of Agios Athanasios"
+          },
+          "coords": [
+            26.493,
+            41.349
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein leichter Spaziergang bergab von den Mauern.",
+            "hu": "Könnyű séta lefelé a falaktól.",
+            "ro": "O plimbare ușoară la vale de la ziduri.",
+            "en": "An easy downhill walk from the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof für Mittagessen",
+            "hu": "Központi buszmegálló, ebéd",
+            "ro": "Autogară centrală pentru prânz",
+            "en": "Central Bus Stop for Lunch"
+          },
+          "coords": [
+            26.498,
+            41.346
+          ],
+          "category": "gastro",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum. Viele Tavernen sind vom Hauptbusbahnhof aus leicht zu erreichen.",
+            "hu": "Utazzon a központba. Sok taverna könnyen elérhető a fő buszmegállótól.",
+            "ro": "Mergeți în centru. Multe taverne sunt ușor accesibile de la autogara principală.",
+            "en": "Take transit to the center. Many tavernas are within easy reach of the main bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayezid-Moschee",
+            "hu": "Bayezid Mecset",
+            "ro": "Moscheea lui Baiazid",
+            "en": "Bayezid Mosque"
+          },
+          "coords": [
+            26.4952,
+            41.3468
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das beeindruckendste Bauwerk der Stadt, nur wenige Schritte entfernt.",
+            "hu": "A város legimpozánsabb épülete, csak pár lépésre.",
+            "ro": "Cea mai impresionantă structură din oraș, la doar câțiva pași.",
+            "en": "The most impressive structure in town, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            26.4945,
+            41.348
+          ],
+          "category": "museums",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die byzantinische Kunst und Geschichte der Region.",
+            "hu": "Fedezze fel a régió bizánci művészetét és történelmét.",
+            "ro": "Descoperiți arta și istoria bizantină a regiunii.",
+            "en": "Discover the Byzantine art and history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Plotinopolis",
+            "hu": "Plotinopolis régészeti lelőhely",
+            "ro": "Situl Arheologic Plotinopolis",
+            "en": "Archaeological Site of Plotinopolis"
+          },
+          "coords": [
+            26.505,
+            41.335
+          ],
+          "category": "landmark",
+          "arrive_at": "16:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan im Voraus, da die Busse zu dieser Stätte seltener fahren könnten.",
+            "hu": "Ellenőrizze előre a buszmenetrendet, mivel a buszok ritkábban járhatnak ehhez a lelőhelyhez.",
+            "ro": "Verificați orarul autobuzelor în avans, deoarece autobuzele spre acest sit ar putea fi mai rare.",
+            "en": "Check the bus schedule in advance as services to this site might be less frequent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Didymoteicho mühelos. Sie beginnen den Tag mit einer Fahrt zum byzantinischen Schloss, wo Sie den Morgen über den Dächern der Stadt verbringen. Ein Spaziergang bergab führt Sie zu einer charmanten Kirche. Zur Mittagszeit bringt Sie ein Bus ins Zentrum für eine Mahlzeit. Den Nachmittag verbringen Sie damit, den historischen Kern zu Fuß zu erkunden, von der Moschee bis zum Museum. Ein letzter Bus bringt Sie zu den antiken römischen Ruinen und rundet Ihren historischen Ausflug ab.",
+        "hu": "Busszal könnyedén felfedezheti Didymoteichót. A napot egy buszúttal kezdi a bizánci kastélyhoz, ahol a reggelt a város háztetői felett tölti. Egy lejtős séta egy bájos templomhoz vezet. Délben egy busz a központba viszi ebédelni. A délutánt a történelmi mag gyalogos felfedezésével tölti, a mecsettől a múzeumig. Egy utolsó busz az ókori római romokhoz viszi, teljessé téve a történelmi kirándulást.",
+        "ro": "Explorați Didymoteicho fără efort cu autobuzul. Începeți ziua cu o călătorie cu autobuzul la castelul bizantin, unde petreceți dimineața deasupra acoperișurilor orașului. O plimbare la vale vă duce la o biserică fermecătoare. La prânz, un autobuz vă duce în centru pentru masă. Petreceți după-amiaza explorând nucleul istoric pe jos, de la moschee la muzeu. Un ultim autobuz vă duce la ruinele romane antice, completând excursia istorică.",
+        "en": "Using the bus, you explore Didymoteicho effortlessly. You start the day with a bus ride to the Byzantine castle, spending the morning above the city's rooftops. A downhill walk leads you to a charming church. At lunchtime, a bus takes you to the center for a meal. You spend the afternoon exploring the historic core on foot, from the mosque to the museum. A final bus takes you to the ancient Roman ruins, completing your historical journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Würzige Fleischbällchen in einer reichhaltigen Tomatensauce, ein Herzstück der griechischen Hausmannskost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Fűszeres húsgombócok gazdag paradicsomszószban, a görög házias konyha egyik alapköve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Chiftele condimentate într-un sos bogat de roșii, o piesă de bază a bucătăriei grecești de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soutzoukakia",
+            "tip": "Spicy meatballs in a rich tomato sauce, a staple of Greek home cooking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hof der Kirche Agios Athanasios",
+            "tip": "Ein ruhiger, sonniger Platz, um sich nach dem Abstieg vom Schloss auszuruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Agios Athanasios templom udvara",
+            "tip": "Egy csendes, napos hely, ahol megpihenhet a kastélyból való leereszkedés után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Agios Athanasios",
+            "tip": "Un loc liniștit și însorit pentru a vă odihni după coborârea de la castel.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyard of Agios Athanasios Church",
+            "tip": "A quiet, sunny spot to rest after the descent from the castle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Backwaren",
+            "tip": "Besuchen Sie eine Bäckerei für 'Tsoureki' (süßes Brot) oder andere lokale Leckereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékáruk",
+            "tip": "Látogasson el egy pékségbe 'Tsoureki'-ért (édes kenyér) vagy más helyi finomságokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Vizitați o brutărie pentru 'Tsoureki' (pâine dulce) sau alte bunătăți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastries",
+            "tip": "Visit a bakery for 'tsoureki' (sweet bread) or other local treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, wenn verfügbar.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie; die Beschilderung kann spärlich sein.",
+          "Behalten Sie den Fahrplan im Auge, besonders für die letzte Rückfahrt des Tages."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, ha elérhető.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról; a jelzések hiányosak lehetnek.",
+          "Tartsa szemmel a menetrendet, különösen a nap utolsó járata esetében."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi, dacă este disponibil.",
+          "Întrebați localnicii despre linia corectă de autobuz; semnalizarea poate fi rară.",
+          "Fiți cu ochii pe orar, mai ales pentru ultima cursă a zilei."
+        ],
+        "en": [
+          "Purchase a day pass if available.",
+          "Ask locals for the correct bus line; signage can be sparse.",
+          "Keep an eye on the schedule, especially for the last return trip of the day."
+        ]
+      }
+    }
+  }
+}

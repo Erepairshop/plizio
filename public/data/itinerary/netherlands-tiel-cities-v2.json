@@ -1,0 +1,1360 @@
+{
+  "city_id": "netherlands-tiel-cities-v2",
+  "anchor": {
+    "name": "Tiel",
+    "coords": [
+      51.888,
+      5.432
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sint-Maartenskerk",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin (Sint-Maartenskerk)",
+            "en": "St. Martin's Church (Sint-Maartenskerk)"
+          },
+          "coords": [
+            5.4325,
+            51.8882
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a gótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura gotică și vitraliile impresionante.",
+            "en": "Admire the Gothic architecture and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Flipje & Streekmuseum",
+            "hu": "Flipje és a Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Flipje",
+            "en": "Flipje & Regional Museum"
+          },
+          "coords": [
+            5.4301,
+            51.8865
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Geschichte und die berühmte Fruchtfigur Flipje kennen.",
+            "hu": "Ismerje meg a helyi történelmet és a híres gyümölcsfigurát, Flipjét.",
+            "ro": "Descoperiți istoria locală și faimosul personaj de fructe, Flipje.",
+            "en": "Discover the local history and the famous fruit character, Flipje."
+          }
+        },
+        {
+          "name": {
+            "de": "Flipje Standbild",
+            "hu": "Flipje-szobor",
+            "ro": "Statuia Flipje",
+            "en": "Flipje Statue"
+          },
+          "coords": [
+            5.4295,
+            51.8878
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit dem Maskottchen der Stadt.",
+            "hu": "Készítsen egy fotót a város kabalafigurájával.",
+            "ro": "Faceți o fotografie cu mascota orașului.",
+            "en": "Take a photo with the city's mascot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            5.431,
+            51.887
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein 'Uitsmijter' in einem der vielen Cafés.",
+            "hu": "Kóstoljon meg egy 'Uitsmijter'-t a számos kávézó egyikében.",
+            "ro": "Încercați un 'Uitsmijter' la una dintre numeroasele cafenele.",
+            "en": "Try an 'Uitsmijter' at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterpoort",
+            "hu": "Vízi kapu",
+            "ro": "Poarta de Apă (Waterpoort)",
+            "en": "Water Gate (Waterpoort)"
+          },
+          "coords": [
+            5.4255,
+            51.8873
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Stadttor von Tiel, ein tolles Fotomotiv.",
+            "hu": "Tiel egyetlen megmaradt városkapuja, remek fotótéma.",
+            "ro": "Singura poartă a orașului care a supraviețuit, un subiect grozav pentru fotografii.",
+            "en": "The only surviving city gate of Tiel, a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Waalkade",
+            "hu": "Waalkade sétány",
+            "ro": "Promenada Waalkade",
+            "en": "Waalkade Promenade"
+          },
+          "coords": [
+            5.436,
+            51.885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie am Fluss Waal entlang und beobachten Sie die Schiffe.",
+            "hu": "Sétáljon a Waal folyó mentén és nézze a hajókat.",
+            "ro": "Plimbați-vă de-a lungul râului Waal și priviți navele.",
+            "en": "Stroll along the river Waal and watch the ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalverbos",
+            "hu": "Kalverbos park",
+            "ro": "Parcul Kalverbos",
+            "en": "Kalverbos Park"
+          },
+          "coords": [
+            5.433,
+            51.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger Park, ideal für eine Pause am Nachmittag.",
+            "hu": "Egy csendes park, ideális egy délutáni pihenőre.",
+            "ro": "Un parc liniștit, ideal pentru o pauză de după-amiază.",
+            "en": "A quiet park, ideal for an afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das historische Herz von Tiel bei der Sint-Maartenskerk. Die engen Gassen führen Sie zum Flipje-Museum, wo Sie in die lokale Kultur eintauchen. Am Mittag genießen Sie die lebhafte Atmosphäre der Innenstadt bei einem traditionellen niederländischen Mittagessen. Der Nachmittag ist für einen entspannten Spaziergang entlang der Waalkade reserviert, wo Sie die Flussschiffe beobachten können. Zum Abschluss des Tages finden Sie Ruhe im charmanten Kalverbos-Park, ein perfekter Ort, um die gesammelten Eindrücke Revue passieren zu lassen.",
+        "hu": "Kezdje a napot egy sétával Tiel történelmi szívében, a Szent Márton-templomnál. A szűk utcák a Flipje Múzeumhoz vezetik, ahol elmerülhet a helyi kultúrában. Délben élvezze a belváros pezsgő hangulatát egy hagyományos holland ebéd mellett. A délután a Waalkade menti pihentető sétáé, ahol a folyami hajókat figyelheti. A napot a bájos Kalverbos parkban zárja, amely tökéletes hely a nap folyamán szerzett élmények felidézésére.",
+        "ro": "Începeți ziua cu o plimbare prin inima istorică a orașului Tiel, la Biserica Sf. Martin. Străduțele înguste vă vor conduce la Muzeul Flipje, unde vă puteți cufunda în cultura locală. La prânz, bucurați-vă de atmosfera plină de viață a centrului orașului cu un prânz tradițional olandez. După-amiaza este rezervată unei plimbări relaxante de-a lungul Waalkade, unde puteți privi vapoarele de pe râu. Încheiați ziua în liniștea fermecătorului parc Kalverbos, un loc perfect pentru a reflecta asupra impresiilor zilei.",
+        "en": "Start your day with a walk through the historic heart of Tiel at St. Martin's Church. The narrow streets will lead you to the Flipje Museum, where you can immerse yourself in local culture. At noon, enjoy the lively atmosphere of the city center with a traditional Dutch lunch. The afternoon is reserved for a relaxing stroll along the Waalkade, where you can watch the river ships. End your day in the tranquility of the charming Kalverbos park, a perfect place to reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appeltaart",
+            "tip": "Probieren Sie ein Stück holländischen Apfelkuchen mit Sahne in einem der Cafés."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kleine, flauschige Pfannkuchen, die oft auf Märkten verkauft werden."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in einer Bar nach einem Bier aus der Region Betuwe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appeltaart",
+            "tip": "Kóstoljon meg egy szelet holland almás pitét tejszínhabbal az egyik kávézóban."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kicsi, pufók palacsinták, amelyeket gyakran piacokon árulnak."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy Betuwe régióból származó sört egy bárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Appeltaart",
+            "tip": "Încercați o felie de plăcintă olandeză cu mere și frișcă la o cafenea."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Clătite mici și pufoase, adesea vândute în piețe."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Întrebați la un bar despre o bere din regiunea Betuwe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appeltaart",
+            "tip": "Try a slice of Dutch apple pie with whipped cream at a café."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Small, fluffy pancakes often sold at markets."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for a beer from the Betuwe region at a local pub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waalkade bei Sonnenuntergang",
+            "tip": "Finden Sie eine Bank am Fluss und genießen Sie die Abendstimmung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "Ein friedlicher Ort für einen ruhigen Spaziergang abseits des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hinterhöfe der Altstadt",
+            "tip": "Entdecken Sie die versteckten, ruhigen Innenhöfe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waalkade naplementekor",
+            "tip": "Keressen egy padot a folyóparton, és élvezze az esti hangulatot.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "Békés hely egy csendes sétához a nyüzsgéstől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Az óváros hátsó udvarai",
+            "tip": "Fedezze fel a rejtett, csendes belső udvarokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waalkade la apus",
+            "tip": "Găsiți o bancă pe malul râului și bucurați-vă de atmosfera de seară.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Kalverbos",
+            "tip": "Un loc pașnic pentru o plimbare liniștită departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curțile interioare din centrul vechi",
+            "tip": "Descoperiți curțile interioare ascunse și liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waalkade at sunset",
+            "tip": "Find a bench by the river and enjoy the evening atmosphere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "A peaceful spot for a quiet walk away from the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Old Town Courtyards",
+            "tip": "Discover the hidden, quiet inner courtyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Markt am Samstag."
+          },
+          {
+            "name": "Waterstraat",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus bekannten Marken und lokalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss termékeket és helyi különlegességeket a szombati piacon."
+          },
+          {
+            "name": "Waterstraat",
+            "tip": "A fő bevásárlóutca ismert márkák és helyi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piața de sâmbătă."
+          },
+          {
+            "name": "Waterstraat",
+            "tip": "Principala stradă comercială cu un amestec de mărci cunoscute și magazine locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh produce and local specialties at the Saturday market."
+          },
+          {
+            "name": "Waterstraat",
+            "tip": "The main shopping street with a mix of well-known brands and local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Viele Geschäfte schließen sonntags früh, planen Sie entsprechend.",
+          "Halten Sie Ausschau nach den 'Stolpersteinen', Gedenksteinen für Opfer des Holocaust."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "Sok üzlet korán zár vasárnap, tervezzen ennek megfelelően.",
+          "Keresse a 'botlatóköveket', a holokauszt áldozatainak emlékköveit."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Multe magazine se închid devreme duminica, planificați-vă în consecință.",
+          "Fiți atenți la 'stolpersteine', pietrele comemorative pentru victimele Holocaustului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Many shops close early on Sundays, so plan accordingly.",
+          "Look out for the 'stolpersteine', memorial stones for victims of the Holocaust."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Waterpoort",
+            "hu": "Vízi kapu",
+            "ro": "Poarta de Apă",
+            "en": "Water Gate"
+          },
+          "coords": [
+            5.4255,
+            51.8873
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an diesem historischen Wahrzeichen.",
+            "hu": "Kezdje a kerékpártúrát ennél a történelmi emléknél.",
+            "ro": "Începeți turul cu bicicleta de la acest reper istoric.",
+            "en": "Start your bike tour at this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Waalkade",
+            "hu": "Waalkade sétány",
+            "ro": "Promenada Waalkade",
+            "en": "Waalkade Promenade"
+          },
+          "coords": [
+            5.436,
+            51.885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie den Fluss entlang und genießen Sie die Aussicht.",
+            "hu": "Kerékpározzon a folyó mentén és élvezze a kilátást.",
+            "ro": "Pedalați de-a lungul râului și bucurați-vă de priveliște.",
+            "en": "Cycle along the river and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Maartenskerk",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            5.4325,
+            51.8882
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie das Innere dieser beeindruckenden Kirche.",
+            "hu": "Parkolja le a biciklit és fedezze fel ennek a lenyűgöző templomnak a belsejét.",
+            "ro": "Parcați bicicleta și explorați interiorul acestei biserici impresionante.",
+            "en": "Park your bike and explore the inside of this impressive church."
+          }
+        },
+        {
+          "name": {
+            "de": "Flipje & Streekmuseum",
+            "hu": "Flipje és a Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Flipje",
+            "en": "Flipje & Regional Museum"
+          },
+          "coords": [
+            5.4301,
+            51.8865
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine großartige Möglichkeit, mehr über Tiel und seine berühmteste Figur zu erfahren.",
+            "hu": "Remek lehetőség, hogy többet tudjon meg Tielről és leghíresebb figurájáról.",
+            "ro": "O modalitate excelentă de a afla mai multe despre Tiel și cel mai faimos personaj al său.",
+            "en": "A great way to learn more about Tiel and its most famous character."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauza de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            5.429,
+            51.8875
+          ],
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Restaurants im Zentrum bieten Fahrradständer an.",
+            "hu": "A központban sok étterem kínál kerékpártárolót.",
+            "ro": "Multe restaurante din centru oferă suporturi pentru biciclete.",
+            "en": "Many restaurants in the center offer bike racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalverbos",
+            "hu": "Kalverbos park",
+            "ro": "Parcul Kalverbos",
+            "en": "Kalverbos Park"
+          },
+          "coords": [
+            5.433,
+            51.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie zum Park für eine entspannte Pause im Grünen.",
+            "hu": "Kerékpározzon el a parkba egy pihentető szünetre a zöldben.",
+            "ro": "Pedalați până la parc pentru o pauză relaxantă în natură.",
+            "en": "Cycle to the park for a relaxing break in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellevue",
+            "hu": "Bellevue",
+            "ro": "Bellevue",
+            "en": "Bellevue"
+          },
+          "coords": [
+            5.441,
+            51.883
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:19",
+          "stay_min": 55,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses historische Gebäude am Wasser.",
+            "hu": "Fejezze be a túrát egy pillantással erre a történelmi, vízparti épületre.",
+            "ro": "Încheiați turul cu o priveliște a acestei clădiri istorice de pe malul apei.",
+            "en": "End your tour with a view of this historic building by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Tiel beginnt am historischen Waterpoort und führt Sie entlang der malerischen Waalkade. Von dort geht es ins Stadtzentrum zur imposanten Sint-Maartenskerk. Nach einer kulturellen Pause im Flipje-Museum ist es Zeit für ein stärkendes Mittagessen. Am Nachmittag radeln Sie durch den ruhigen Kalverbos-Park und beenden den Tag mit einem Blick auf das elegante Bellevue-Gebäude am Flussufer, eine perfekte Zusammenfassung der Vielfalt Tiels.",
+        "hu": "A tieli kerékpártúra a történelmi Waterpoortnál kezdődik, majd a festői Waalkade mentén vezet. Onnan a városközpontba, a lenyűgöző Szent Márton-templomhoz teker. A Flipje Múzeumban tartott kulturális szünet után ideje egy kiadós ebédnek. Délután áthajt a csendes Kalverbos parkon, és a napot a folyóparti elegáns Bellevue épületének megtekintésével zárja, amely tökéletesen összefoglalja Tiel sokszínűségét.",
+        "ro": "Turul cu bicicleta prin Tiel începe la istorica Poartă de Apă și vă duce de-a lungul pitorescului Waalkade. De acolo, mergeți în centrul orașului la impunătoarea Biserică Sf. Martin. După o pauză culturală la Muzeul Flipje, este timpul pentru un prânz copios. După-amiaza, pedalați prin liniștitul Parc Kalverbos și încheiați ziua cu o priveliște a elegantei clădiri Bellevue de pe malul râului, o sinteză perfectă a diversității din Tiel.",
+        "en": "Your bike tour of Tiel begins at the historic Waterpoort and takes you along the scenic Waalkade. From there, it's on to the city center and the imposing St. Martin's Church. After a cultural break at the Flipje Museum, it's time for a hearty lunch. In the afternoon, you'll cycle through the tranquil Kalverbos Park and end the day with a view of the elegant Bellevue building on the riverbank, a perfect summary of Tiel's diversity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein klassischer niederländischer Snack, perfekt für eine schnelle Stärkung."
+          },
+          {
+            "name": "Fruchtsaft aus der Betuwe",
+            "tip": "Probieren Sie einen frischen Saft aus der 'Obstkammer der Niederlande'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Klasszikus holland snack, tökéletes egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Gyümölcslé a Betuwe régióból",
+            "tip": "Kóstoljon meg egy friss gyümölcslevet 'Hollandia gyümölcsöskertjéből'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "O gustare olandeză clasică, perfectă pentru o masă rapidă."
+          },
+          {
+            "name": "Suc de fructe din Betuwe",
+            "tip": "Încercați un suc proaspăt din 'livada Olandei'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "A classic Dutch snack, perfect for a quick refuel."
+          },
+          {
+            "name": "Fruit juice from the Betuwe",
+            "tip": "Try a fresh juice from the 'fruit basket of the Netherlands'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Am Ufer des Waal",
+            "tip": "Finden Sie einen ruhigen Platz und beobachten Sie die vorbeiziehenden Schiffe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "Der Park bietet viele schattige Plätze zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Waal folyó partján",
+            "tip": "Keressen egy csendes helyet, és nézze az elhaladó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "A park számos árnyékos helyet kínál a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pe malul râului Waal",
+            "tip": "Găsiți un loc liniștit și priviți navele care trec.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Kalverbos",
+            "tip": "Parcul oferă multe locuri umbrite pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "On the banks of the Waal",
+            "tip": "Find a quiet spot and watch the ships go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kalverbos Park",
+            "tip": "The park offers many shady spots to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hof van Tiel",
+            "tip": "Ein kleines Einkaufszentrum für den täglichen Bedarf."
+          },
+          {
+            "name": "Lokale Hofläden",
+            "tip": "In der Umgebung von Tiel finden Sie Bauernhöfe, die frisches Obst direkt verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hof van Tiel",
+            "tip": "Kis bevásárlóközpont a mindennapi szükségletekhez."
+          },
+          {
+            "name": "Helyi termelői boltok",
+            "tip": "Tiel környékén olyan gazdaságokat talál, amelyek friss gyümölcsöt árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hof van Tiel",
+            "tip": "Un mic centru comercial pentru nevoile zilnice."
+          },
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "În jurul orașului Tiel veți găsi ferme care vând fructe proaspete direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hof van Tiel",
+            "tip": "A small shopping center for daily needs."
+          },
+          {
+            "name": "Local Farm Shops",
+            "tip": "Around Tiel, you can find farms selling fresh fruit directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang des Flusses.",
+          "Achten Sie auf den Verkehr in der Innenstadt."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárját.",
+          "Használja a jól kiépített kerékpárutakat a folyó mentén.",
+          "Vigyázzon a forgalomra a belvárosban."
+        ],
+        "ro": [
+          "Asigurați-vă întotdeauna bicicleta corespunzător.",
+          "Folosiți pistele de biciclete bine dezvoltate de-a lungul râului.",
+          "Fiți atenți la traficul din centrul orașului."
+        ],
+        "en": [
+          "Always lock your bike securely.",
+          "Use the well-maintained cycle paths along the river.",
+          "Be mindful of traffic in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 15.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            5.432,
+            51.888
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto im Zentrum (z.B. Parkhaus Westluidense Poort) und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkolja le autóját a központban (pl. a Westluidense Poort parkolóházban), és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați mașina în centru (de ex. parcarea Westluidense Poort) și explorați primul cluster pe jos.",
+            "en": "Park your car in the center (e.g., Westluidense Poort parking garage) and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Flipje & Streekmuseum",
+            "hu": "Flipje és a Helytörténeti Múzeum",
+            "ro": "Muzeul Regional Flipje",
+            "en": "Flipje & Regional Museum"
+          },
+          "coords": [
+            5.4301,
+            51.8865
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Kirche zum Museum.",
+            "hu": "Rövid séta a templomtól a múzeumig.",
+            "ro": "O scurtă plimbare de la biserică la muzeu.",
+            "en": "A short walk from the church to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            5.429,
+            51.8875
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück zum Auto gehen und zum nächsten Cluster fahren.",
+            "hu": "Menjen vissza az autóhoz, és vezessen a következő klaszterhez.",
+            "ro": "Întoarceți-vă la mașină și conduceți spre următorul cluster.",
+            "en": "Walk back to the car and drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Waal-Ufer",
+            "hu": "2. klaszter: Waal-part",
+            "ro": "Cluster 2: Malul râului Waal",
+            "en": "Cluster 2: Waal Riverside"
+          },
+          "coords": [
+            5.438,
+            51.8845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Waalkade und genießen Sie die Flussbrise.",
+            "hu": "Parkoljon a Waalkade közelében, és élvezze a folyó szelét.",
+            "ro": "Parcați lângă Waalkade și bucurați-vă de briza râului.",
+            "en": "Park near the Waalkade and enjoy the river breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterpoort",
+            "hu": "Vízi kapu",
+            "ro": "Poarta de Apă",
+            "en": "Water Gate"
+          },
+          "coords": [
+            5.4255,
+            51.8873
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Ufer zum alten Stadttor.",
+            "hu": "Sétáljon a parttól a régi városkapuig.",
+            "ro": "Plimbați-vă de la mal până la vechea poartă a orașului.",
+            "en": "Stroll from the riverside to the old city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Ländliche Umgebung",
+            "hu": "3. klaszter: Vidéki környezet",
+            "ro": "Cluster 3: Zona rurală",
+            "en": "Cluster 3: Countryside"
+          },
+          "coords": [
+            5.485,
+            51.91
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie in die Betuwe-Region, um einen Obstbauernhof zu besuchen (saisonal).",
+            "hu": "Utazzon a Betuwe régióba, és látogasson meg egy gyümölcsfarmot (szezonális).",
+            "ro": "Conduceți în regiunea Betuwe pentru a vizita o fermă de fructe (sezonier).",
+            "en": "Drive into the Betuwe region to visit a fruit farm (seasonal)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Herzen von Tiel, wo Sie parken und das historische Zentrum um die Sint-Maartenskerk zu Fuß erkunden. Nach dem Flipje-Museum und einem Mittagessen fahren Sie zum zweiten Cluster an der Waalkade. Hier können Sie am Fluss spazieren und das alte Waterpoort bewundern. Am Nachmittag führt Sie eine kurze Fahrt hinaus in die ländliche Betuwe, die Obstkammer der Niederlande. Dort können Sie einen Bauernhof besuchen und die Ruhe der Landschaft genießen, ein perfekter Kontrast zum städtischen Vormittag.",
+        "hu": "Autós napja Tiel szívében kezdődik, ahol leparkol, és gyalog fedezi fel a történelmi központot a Szent Márton-templom körül. A Flipje Múzeum és egy ebéd után a Waalkade-i második klaszterhez hajt. Itt sétálhat a folyó mentén, és megcsodálhatja a régi Vízi kaput. Délután egy rövid autóút a vidéki Betuwe régióba, Hollandia gyümölcsöskertjébe vezet. Ott meglátogathat egy farmot, és élvezheti a vidék nyugalmát, tökéletes kontrasztot a délelőtti városi nyüzsgéshez.",
+        "ro": "Ziua cu mașina începe în inima orașului Tiel, unde parcați și explorați pe jos centrul istoric din jurul Bisericii Sf. Martin. După Muzeul Flipje și prânz, conduceți către al doilea cluster de la Waalkade. Aici vă puteți plimba pe malul râului și admira vechea Poartă de Apă. După-amiaza, o scurtă călătorie cu mașina vă duce în zona rurală Betuwe, livada Olandei. Acolo puteți vizita o fermă și vă puteți bucura de liniștea peisajului rural, un contrast perfect cu agitația urbană de dimineață.",
+        "en": "Your car day begins in the heart of Tiel, where you park and explore the historic center around St. Martin's Church on foot. After the Flipje Museum and lunch, you'll drive to the second cluster at the Waalkade. Here you can stroll by the river and admire the old Water Gate. In the afternoon, a short drive takes you out to the rural Betuwe region, the orchard of the Netherlands. There you can visit a farm and enjoy the peace of the countryside, a perfect contrast to the urban morning."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchenhaus (Pannenkoekenhuis)",
+            "tip": "Besuchen Sie ein traditionelles Pfannkuchenhaus in der Umgebung für eine herzhafte Mahlzeit."
+          },
+          {
+            "name": "Frisches Obst",
+            "tip": "Kaufen Sie saisonales Obst direkt vom Erzeuger in der Betuwe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsintaház (Pannenkoekenhuis)",
+            "tip": "Látogasson el egy hagyományos palacsintaházba a környéken egy kiadós ételért."
+          },
+          {
+            "name": "Friss gyümölcs",
+            "tip": "Vásároljon szezonális gyümölcsöt közvetlenül a termelőtől a Betuwe régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casă de clătite (Pannenkoekenhuis)",
+            "tip": "Vizitați o casă tradițională de clătite în zonă pentru o masă consistentă."
+          },
+          {
+            "name": "Fructe proaspete",
+            "tip": "Cumpărați fructe de sezon direct de la fermierii din Betuwe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake House (Pannenkoekenhuis)",
+            "tip": "Visit a traditional pancake house in the area for a hearty meal."
+          },
+          {
+            "name": "Fresh Fruit",
+            "tip": "Buy seasonal fruit directly from the grower in the Betuwe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obstgärten der Betuwe",
+            "tip": "Ein Spaziergang durch die blühenden (Frühling) oder fruchttragenden (Sommer) Obstgärten ist sehr entspannend.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Amsterdams-Veerweg",
+            "tip": "Eine ruhige Straße entlang des Amsterdam-Rhein-Kanals, ideal zum Beobachten von Schiffen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Betuwe gyümölcsöskertjei",
+            "tip": "Egy séta a virágzó (tavasszal) vagy gyümölcsöző (nyáron) gyümölcsösökben nagyon pihentető.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Amsterdams-Veerweg",
+            "tip": "Csendes út az Amszterdam-Rajna csatorna mentén, ideális hajók nézéséhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile din Betuwe",
+            "tip": "O plimbare prin livezile înflorite (primăvara) sau pline de fructe (vara) este foarte relaxantă.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Amsterdams-Veerweg",
+            "tip": "O stradă liniștită de-a lungul Canalului Amsterdam-Rin, ideală pentru a privi navele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orchards of the Betuwe",
+            "tip": "A walk through the blooming (spring) or fruit-bearing (summer) orchards is very relaxing.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Amsterdams-Veerweg",
+            "tip": "A quiet road along the Amsterdam-Rhine Canal, ideal for watching ships.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Die beste Quelle für lokale Produkte wie Marmelade, Säfte und Obst."
+          },
+          {
+            "name": "Wohnboulevard",
+            "tip": "Wenn Sie an Möbeln und Dekoration interessiert sind, gibt es am Stadtrand ein großes Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "A legjobb forrás helyi termékekhez, mint lekvár, gyümölcslé és gyümölcs."
+          },
+          {
+            "name": "Lakberendezési áruházak",
+            "tip": "Ha érdekli a bútor és a dekoráció, a város szélén van egy nagy központ."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor",
+            "tip": "Cea mai bună sursă pentru produse locale precum gem, sucuri și fructe."
+          },
+          {
+            "name": "Bulevardul de mobilă",
+            "tip": "Dacă sunteți interesat de mobilă și decorațiuni, există un centru mare la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "The best source for local products like jam, juices, and fruit."
+          },
+          {
+            "name": "Home Furnishing Boulevard",
+            "tip": "If you're interested in furniture and decoration, there's a large center on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Öffnungszeiten der Hofläden, bevor Sie losfahren.",
+          "Parken im Stadtzentrum ist kostenpflichtig.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere zu Stoßzeiten."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a termelői boltok nyitvatartását.",
+          "A városközpontban a parkolás fizetős.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben."
+        ],
+        "ro": [
+          "Verificați orele de program ale magazinelor de la ferme înainte de a pleca.",
+          "Parcarea în centrul orașului este contra cost.",
+          "Planificați timp suplimentar pentru trafic, în special la orele de vârf."
+        ],
+        "en": [
+          "Check the opening hours of the farm shops before you go.",
+          "Parking in the city center is paid.",
+          "Plan for extra time for traffic, especially during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Ankunft am Bahnhof",
+            "hu": "1. klaszter: Érkezés az állomásra",
+            "ro": "Cluster 1: Sosire la gară",
+            "en": "Cluster 1: Arrival at Station"
+          },
+          "coords": [
+            5.435,
+            51.891
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Tiel aus ist es ein kurzer Spaziergang zum ersten Besichtigungspunkt.",
+            "hu": "Tiel állomásától rövid séta az első látnivaló.",
+            "ro": "De la gara Tiel, este o scurtă plimbare până la primul punct de interes.",
+            "en": "From Tiel station, it's a short walk to the first point of interest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalverbos",
+            "hu": "Kalverbos park",
+            "ro": "Parcul Kalverbos",
+            "en": "Kalverbos Park"
+          },
+          "coords": [
+            5.433,
+            51.892
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang im Park.",
+            "hu": "Kezdje a napot egy frissítő sétával a parkban.",
+            "ro": "Începeți ziua cu o plimbare revigorantă în parc.",
+            "en": "Start the day with a refreshing walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Maartenskerk",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sf. Martin",
+            "en": "St. Martin's Church"
+          },
+          "coords": [
+            5.4325,
+            51.8882
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die Stadt führt Sie zur Hauptkirche.",
+            "hu": "Egy séta a városon keresztül a főtemplomhoz vezet.",
+            "ro": "O plimbare prin oraș vă duce la biserica principală.",
+            "en": "A walk through the town leads you to the main church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Bus zum Flussufer",
+            "hu": "2. klaszter: Busszal a folyóparthoz",
+            "ro": "Cluster 2: Autobuz spre malul râului",
+            "en": "Cluster 2: Bus to the Riverside"
+          },
+          "coords": [
+            5.436,
+            51.885
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus vom Zentrum zur Waalkade.",
+            "hu": "Menjen helyi busszal a központból a Waalkade-ra.",
+            "ro": "Luați un autobuz local din centru spre Waalkade.",
+            "en": "Take a local bus from the center to the Waalkade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            5.437,
+            51.8848
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen in einem Restaurant mit Blick auf den Waal.",
+            "hu": "Élvezze ebédjét egy Waalra néző étteremben.",
+            "ro": "Bucurați-vă de prânz la un restaurant cu vedere la râul Waal.",
+            "en": "Enjoy your lunch at a restaurant overlooking the Waal river."
+          }
+        },
+        {
+          "name": {
+            "de": "Agnietenhof",
+            "hu": "Agnietenhof",
+            "ro": "Agnietenhof",
+            "en": "Agnietenhof"
+          },
+          "coords": [
+            5.43,
+            51.885
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:23",
+          "stay_min": 97,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Besuch des Kulturzentrums, vielleicht für eine Nachmittagsvorstellung (prüfen Sie den Spielplan).",
+            "hu": "Zárja a napot a kulturális központ meglátogatásával, esetleg egy délutáni előadásra (ellenőrizze a műsort).",
+            "ro": "Încheiați ziua cu o vizită la centrul cultural, poate pentru un spectacol de după-amiază (verificați programul).",
+            "en": "End the day with a visit to the cultural center, perhaps for an afternoon show (check the schedule)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Anreise mit öffentlichen Verkehrsmitteln führt Sie zum Bahnhof Tiel. Von dort spazieren Sie durch den Kalverbos-Park ins historische Zentrum zur Sint-Maartenskerk. Nach der Erkundung des Zentrums bringt Sie ein kurzer Bus-Trip zum zweiten Cluster, dem lebhaften Waalkade. Genießen Sie hier ein Mittagessen mit Flussblick. Ein Spaziergang entlang des Wassers führt Sie schließlich zum Kulturzentrum Agnietenhof, wo Sie den Tag ausklingen lassen können, bevor Sie den Bus zurück zum Bahnhof nehmen.",
+        "hu": "Tömegközlekedéssel Tiel állomására érkezik. Onnan a Kalverbos parkon keresztül a történelmi központba, a Szent Márton-templomhoz sétál. A központ felfedezése után egy rövid buszozás a második klaszterhez, az élettel teli Waalkade-hoz visz. Itt élvezze a folyóra néző ebédet. Egy vízparti séta végül az Agnietenhof kulturális központhoz vezet, ahol a napot zárhatja, mielőtt visszabuszozna az állomásra.",
+        "ro": "Călătoria cu transportul public vă aduce la gara Tiel. De acolo, vă plimbați prin parcul Kalverbos până în centrul istoric la Biserica Sf. Martin. După explorarea centrului, o scurtă călătorie cu autobuzul vă duce la al doilea cluster, vibrantul Waalkade. Bucurați-vă de un prânz cu vedere la râu aici. O plimbare de-a lungul apei vă duce în cele din urmă la centrul cultural Agnietenhof, unde puteți încheia ziua înainte de a lua autobuzul înapoi la gară.",
+        "en": "Your journey by public transport takes you to Tiel station. From there, you'll walk through Kalverbos park to the historic center at St. Martin's Church. After exploring the center, a short bus trip takes you to the second cluster, the lively Waalkade. Enjoy a lunch with a river view here. A walk along the water finally leads you to the Agnietenhof cultural center, where you can end the day before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Pommes Frites mit Mayonnaise, Curryketchup und Zwiebeln - ein Muss in den Niederlanden."
+          },
+          {
+            "name": "Kaffee und Gebäck",
+            "tip": "Machen Sie eine Pause in einem Café im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Sült krumpli majonézzel, curry ketchuppal és hagymával - kötelező Hollandiában."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Tartson szünetet egy kávézóban a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Cartofi prăjiți cu maioneză, ketchup curry și ceapă - un deliciu olandez."
+          },
+          {
+            "name": "Cafea și produse de patiserie",
+            "tip": "Luați o pauză la o cafenea din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friet Speciaal",
+            "tip": "Fries with mayonnaise, curry ketchup, and onions - a must-try in the Netherlands."
+          },
+          {
+            "name": "Coffee and Pastry",
+            "tip": "Take a break at a café in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof an der Sint-Maartenskerk",
+            "tip": "Ein überraschend ruhiger und historischer Ort im Herzen der Stadt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang am Amsterdam-Rhein-Kanal",
+            "tip": "Etwas außerhalb des Zentrums, aber mit dem Bus erreichbar für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Szent Márton-templom melletti temető",
+            "tip": "Meglepően csendes és történelmi hely a város szívében.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta az Amszterdam-Rajna csatorna mentén",
+            "tip": "Kicsit a központon kívül, de busszal elérhető egy csendes sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Martin",
+            "tip": "Un loc surprinzător de liniștit și istoric în inima orașului.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare de-a lungul Canalului Amsterdam-Rin",
+            "tip": "Puțin în afara centrului, dar accesibil cu autobuzul pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemetery at St. Martin's Church",
+            "tip": "A surprisingly quiet and historic spot in the heart of the city.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walk along the Amsterdam-Rhine Canal",
+            "tip": "A bit outside the center, but reachable by bus for a quiet walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Bahnhof",
+            "tip": "Praktisch für Last-Minute-Einkäufe vor der Abreise."
+          },
+          {
+            "name": "Markt am Dienstag und Samstag",
+            "tip": "Wenn Ihr Besuch auf einen dieser Tage fällt, verpassen Sie nicht den lokalen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok az állomáson",
+            "tip": "Praktikus az utolsó pillanatos vásárlásokhoz indulás előtt."
+          },
+          {
+            "name": "Piac kedden és szombaton",
+            "tip": "Ha látogatása ezen napok egyikére esik, ne hagyja ki a helyi piacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Convenabil pentru cumpărături de ultim moment înainte de plecare."
+          },
+          {
+            "name": "Piața de marți și sâmbătă",
+            "tip": "Dacă vizita dvs. cade într-una din aceste zile, nu ratați piața locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops at the station",
+            "tip": "Convenient for last-minute shopping before departure."
+          },
+          {
+            "name": "Market on Tuesday and Saturday",
+            "tip": "If your visit falls on one of these days, don't miss the local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Informieren Sie sich über die Busfahrpläne im Voraus.",
+          "Die meisten Strecken im Zentrum sind auch gut zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "Előre tájékozódjon a buszmenetrendről.",
+          "A központban a legtöbb távolság gyalog is könnyen megtehető."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă planificați mai multe călătorii.",
+          "Verificați din timp orarele autobuzelor.",
+          "Majoritatea distanțelor din centru pot fi parcurse cu ușurință pe jos."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Check the bus schedules in advance.",
+          "Most distances in the center are also easily walkable."
+        ]
+      }
+    }
+  }
+}

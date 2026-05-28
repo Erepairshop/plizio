@@ -1,0 +1,1140 @@
+{
+  "city_id": "belgium-geel-cities-v2",
+  "anchor": {
+    "name": "Geel",
+    "coords": [
+      4.9903,
+      51.1612
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt von Geel",
+            "hu": "Geeli piactér",
+            "ro": "Piața din Geel",
+            "en": "Market Square of Geel"
+          },
+          "coords": [
+            4.9903,
+            51.1612
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das städtische Leben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
+            "en": "Start your day here with a coffee and watch the town life."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Amandskerk",
+            "hu": "Szent Amandus-templom",
+            "ro": "Biserica Sfântul Amand",
+            "en": "Saint Amand's Church"
+          },
+          "coords": [
+            4.9885,
+            51.162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Brabanter Gotik und die Ruhe im Inneren.",
+            "hu": "Csodálja meg a lenyűgöző brabanti gótikát és a templom belső csendjét.",
+            "ro": "Admirați impresionantul stil gotic brabantin și liniștea din interior.",
+            "en": "Admire the impressive Brabantine Gothic style and the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrijheidshuis",
+            "hu": "Szabadság Háza",
+            "ro": "Casa Libertății",
+            "en": "Freedom House"
+          },
+          "coords": [
+            4.991,
+            51.161
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines, aber wichtiges Denkmal für die lokale Geschichte und Freiheit.",
+            "hu": "Egy kicsi, de a helyi történelem és szabadság szempontjából fontos emlékmű.",
+            "ro": "Un monument mic, dar important pentru istoria și libertatea locală.",
+            "en": "A small but important monument to local history and freedom."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Dimpnakerk",
+            "hu": "Szent Dimpna-templom",
+            "ro": "Biserica Sfânta Dimpna",
+            "en": "Saint Dymphna's Church"
+          },
+          "coords": [
+            4.985,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das spirituelle Herz von Geel, verbunden mit der Legende der Heiligen Dymphna.",
+            "hu": "Geel spirituális szíve, amely Szent Dimpna legendájához kapcsolódik.",
+            "ro": "Inima spirituală a orașului Geel, legată de legenda Sfintei Dimpna.",
+            "en": "The spiritual heart of Geel, connected to the legend of Saint Dymphna."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasthuis Museum",
+            "hu": "Gasthuis Múzeum",
+            "ro": "Muzeul Gasthuis",
+            "en": "Gasthuis Museum"
+          },
+          "coords": [
+            4.986,
+            51.163
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einzigartige Geschichte der psychiatrischen Versorgung in Geel.",
+            "hu": "Tudjon meg többet Geel egyedülálló pszichiátriai ellátásának történetéről.",
+            "ro": "Aflați despre istoria unică a îngrijirii psihiatrice din Geel.",
+            "en": "Learn about the unique history of psychiatric care in Geel."
+          }
+        },
+        {
+          "name": {
+            "de": "CC de Werft",
+            "hu": "CC de Werft Kulturális Központ",
+            "ro": "Centrul Cultural CC de Werft",
+            "en": "CC de Werft Cultural Centre"
+          },
+          "coords": [
+            4.993,
+            51.164
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für eine Abendvorstellung oder genießen Sie einfach die moderne Architektur.",
+            "hu": "Nézze meg az esti előadások műsorát, vagy csak gyönyörködjön a modern építészetben.",
+            "ro": "Verificați programul pentru un spectacol de seară sau pur și simplu admirați arhitectura modernă.",
+            "en": "Check the schedule for an evening performance or just enjoy the modern architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Markt von Geel, dem Herz der Stadt. Am Vormittag erkunden Sie die gotische Pracht der Sint-Amandskerk und die tiefere Geschichte der Sint-Dimpnakerk, die für die Identität der Stadt von zentraler Bedeutung ist. Der Nachmittag ist der Kultur gewidmet. Tauchen Sie im Gasthuis Museum in die einzigartige soziale Geschichte von Geel ein. Schließen Sie Ihren Rundgang mit einem Blick auf die moderne Kreativität im Kulturzentrum CC de Werft ab und genießen Sie das friedliche Flair der Stadt.",
+        "hu": "Kezdje a napot Geel nyüzsgő piacterén, a város szívében. A délelőtt folyamán fedezze fel a Szent Amandus-templom gótikus pompáját és a város identitását meghatározó Szent Dimpna-templom mélyebb történetét. A délután a kultúráé. Merüljön el Geel egyedülálló társadalomtörténetében a Gasthuis Múzeumban. Zárja a sétát a CC de Werft kulturális központ modern kreativitásának megtekintésével, élvezve a város békés hangulatát.",
+        "ro": "Începeți ziua în piața plină de viață din Geel, inima orașului. În cursul dimineții, explorați splendoarea gotică a Bisericii Sf. Amand și istoria profundă a Bisericii Sf. Dimpna, esențială pentru identitatea orașului. După-amiaza este dedicată culturii. Pătrundeți în istoria socială unică a orașului Geel la Muzeul Gasthuis. Încheiați plimbarea cu o privire asupra creativității moderne la centrul cultural CC de Werft, bucurându-vă de atmosfera pașnică a orașului.",
+        "en": "Start your day in Geel's lively market square, the heart of the city. In the morning, explore the Gothic splendor of Saint Amand's Church and the deeper history of Saint Dymphna's Church, which is central to the city's identity. The afternoon is dedicated to culture. Delve into Geel's unique social history at the Gasthuis Museum. Conclude your walk with a look at modern creativity at the CC de Werft cultural center, enjoying the city's peaceful atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Geelse Hartjes",
+            "tip": "Probieren Sie diese lokalen butterkekse, oft in Herzform."
+          },
+          {
+            "name": "Brasserie De Post",
+            "tip": "Ein klassischer Ort am Markt für ein gutes belgisches Bier und Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geelse Hartjes",
+            "tip": "Kóstolja meg ezeket a helyi, gyakran szív alakú vajas süteményeket."
+          },
+          {
+            "name": "Brasserie De Post",
+            "tip": "Klasszikus hely a piactéren egy jó belga sörre és ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Geelse Hartjes",
+            "tip": "Încercați acești biscuiți locali cu unt, adesea în formă de inimă."
+          },
+          {
+            "name": "Brasserie De Post",
+            "tip": "Un loc clasic în piață pentru o bere belgiană bună și prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Geelse Hartjes",
+            "tip": "Try these local butter biscuits, often heart-shaped."
+          },
+          {
+            "name": "Brasserie De Post",
+            "tip": "A classic spot on the market square for a good Belgian beer and lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sint-Dimpnakerk Innenhof",
+            "tip": "Ein Moment der Stille im spirituellen Zentrum der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang entlang der Nete",
+            "tip": "Ein kurzer Spaziergang vom Zentrum entfernt finden Sie ruhige Wege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Dimpna-templom udvara",
+            "tip": "Egy csendes pillanat a város spirituális központjában.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Nete folyó mentén",
+            "tip": "A központtól rövid sétára csendes ösvényeket talál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Sf. Dimpna",
+            "tip": "Un moment de liniște în centrul spiritual al orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare de-a lungul râului Nete",
+            "tip": "La o scurtă plimbare de centru veți găsi poteci liniștite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint Dymphna's Church Courtyard",
+            "tip": "A moment of peace in the city's spiritual center.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk along the river Nete",
+            "tip": "A short walk from the center you'll find quiet paths.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Wenn Sie an einem Dienstag oder Samstag hier sind, für lokale Produkte und Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Ha kedden vagy szombaton jár itt, a helyi termékekért és a hangulatért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Dacă sunteți aici într-o marți sau sâmbătă, pentru produse locale și atmosferă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "If you're here on a Tuesday or Saturday, for local products and atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum von Geel sehr gut zu Fuß zu erkunden ist.",
+          "Die meisten Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie sich Zeit, die besondere, integrative Atmosphäre der Stadt auf sich wirken zu lassen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel Geel központja rendkívül gyalogosbarát.",
+          "A legtöbb látnivaló közel van egymáshoz.",
+          "Szánjon időt arra, hogy magába szívja a város különleges, befogadó légkörét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului Geel este foarte prietenos cu pietonii.",
+          "Majoritatea atracțiilor sunt apropiate una de cealaltă.",
+          "Luați-vă timp pentru a absorbi atmosfera specială și incluzivă a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the center of Geel is very walkable.",
+          "Most sights are located close to each other.",
+          "Take your time to absorb the special, inclusive atmosphere of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt von Geel",
+            "hu": "Geeli piactér",
+            "ro": "Piața din Geel",
+            "en": "Market Square of Geel"
+          },
+          "coords": [
+            4.9903,
+            51.1612
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee, bevor Sie losfahren.",
+            "hu": "Parkolja le a biciklit, és élvezzen egy kávét az indulás előtt.",
+            "ro": "Parcați bicicleta și savurați o cafea înainte de a porni la drum.",
+            "en": "Park your bike and enjoy a coffee before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "Molen von Larum",
+            "hu": "Larumi szélmalom",
+            "ro": "Moara din Larum",
+            "en": "Mill of Larum"
+          },
+          "coords": [
+            4.96,
+            51.16
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt zu dieser historischen Windmühle am Rande der Stadt.",
+            "hu": "Festői út a város szélén álló történelmi szélmalomhoz.",
+            "ro": "O plimbare pitorească până la această moară de vânt istorică de la marginea orașului.",
+            "en": "A scenic ride to this historic windmill on the outskirts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Dimpnakerk",
+            "hu": "Szent Dimpna-templom",
+            "ro": "Biserica Sfânta Dimpna",
+            "en": "Saint Dymphna's Church"
+          },
+          "coords": [
+            4.985,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum, um das wichtigste religiöse Denkmal der Stadt zu sehen.",
+            "hu": "Tekerjen vissza a központba, hogy megnézze a város legfontosabb vallási emlékhelyét.",
+            "ro": "Întoarceți-vă în centru pentru a vedea cel mai important monument religios al orașului.",
+            "en": "Cycle back to the center to see the city's most important religious monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Domein de Putten",
+            "hu": "Domein de Putten természetvédelmi terület",
+            "ro": "Rezervația naturală Domein de Putten",
+            "en": "Domein de Putten Nature Reserve"
+          },
+          "coords": [
+            5.01,
+            51.155
+          ],
+          "category": "natural features",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Fahrt in die Natur für eine Mittagspause.",
+            "hu": "Egy frissítő biciklizés a természetbe egy ebédszünet erejéig.",
+            "ro": "O plimbare revigorantă în natură pentru o pauză de prânz.",
+            "en": "A refreshing ride into nature for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasthuis Museum",
+            "hu": "Gasthuis Múzeum",
+            "ro": "Muzeul Gasthuis",
+            "en": "Gasthuis Museum"
+          },
+          "coords": [
+            4.986,
+            51.163
+          ],
+          "category": "museums",
+          "arrive_at": "14:03",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem tiefen Einblick in die einzigartige soziale Geschichte von Geel.",
+            "hu": "Zárja a túrát Geel egyedülálló társadalomtörténetének mélyreható megismerésével.",
+            "ro": "Încheiați turul cu o incursiune profundă în istoria socială unică a orașului Geel.",
+            "en": "End your tour with a deep dive into the unique social history of Geel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Markt und radeln Sie zur historischen Molen von Larum, um einen Hauch von ländlichem Charme zu erleben. Am Vormittag kehren Sie ins Zentrum zurück, um die spirituelle Bedeutung der Sint-Dimpnakerk zu entdecken. Nach dem Mittagessen führt Sie eine angenehme Radtour zum Naturgebiet Domein de Putten, ideal für eine Pause im Grünen. Der Nachmittag endet im Gasthuis Museum, wo Sie die faszinierende Geschichte der Stadt auf sich wirken lassen können.",
+        "hu": "Induljon a piactérről, és tekerjen el a történelmi Larumi szélmalomhoz egy kis vidéki bájért. Délelőtt térjen vissza a központba, hogy felfedezze a Szent Dimpna-templom spirituális jelentőségét. Ebéd után egy kellemes kerékpárút vezet a Domein de Putten természetvédelmi területre, amely ideális egy zöld pihenőhöz. A délután a Gasthuis Múzeumban ér véget, ahol elmerülhet a város lenyűgöző történelmében.",
+        "ro": "Porniți din piață și pedalați spre moara istorică din Larum pentru o doză de farmec rural. Dimineața, întoarceți-vă în centru pentru a descoperi importanța spirituală a Bisericii Sf. Dimpna. După prânz, o plimbare plăcută cu bicicleta vă duce la rezervația naturală Domein de Putten, ideală pentru o pauză în natură. După-amiaza se încheie la Muzeul Gasthuis, unde puteți absorbi istoria fascinantă a orașului.",
+        "en": "Start from the market square and cycle to the historic Mill of Larum for a touch of rural charm. In the morning, return to the center to discover the spiritual significance of Saint Dymphna's Church. After lunch, a pleasant bike ride takes you to the Domein de Putten nature reserve, perfect for a green break. The afternoon concludes at the Gasthuis Museum, where you can soak up the city's fascinating history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Trappistenbiere",
+            "tip": "Die Region ist bekannt für ihre starken, aromatischen Biere."
+          },
+          {
+            "name": "De Waag",
+            "tip": "Ein gemütliches Restaurant für eine herzhafte Mahlzeit nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi trappista sörök",
+            "tip": "A régió híres erős, aromás söreiről."
+          },
+          {
+            "name": "De Waag",
+            "tip": "Hangulatos étterem egy kiadós étkezéshez egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beri trapiste locale",
+            "tip": "Regiunea este renumită pentru berile sale tari și aromate."
+          },
+          {
+            "name": "De Waag",
+            "tip": "Un restaurant primitor pentru o masă copioasă după o tură cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Trappist beers",
+            "tip": "The region is known for its strong, aromatic beers."
+          },
+          {
+            "name": "De Waag",
+            "tip": "A cozy restaurant for a hearty meal after a bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Finden Sie einen ruhigen Platz am Wasser und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Felder um Larum",
+            "tip": "Die ländliche Landschaft bietet eine friedliche Kulisse.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Keressen egy csendes helyet a vízparton, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Larum körüli mezők",
+            "tip": "A vidéki táj békés hátteret biztosít.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Găsiți un loc liniștit lângă apă și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Câmpiile din jurul Larum",
+            "tip": "Peisajul rural oferă un cadru pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Find a quiet spot by the water and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The fields around Larum",
+            "tip": "The rural landscape offers a peaceful backdrop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für Zubehör oder eine schnelle Reparatur, falls nötig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Kiegészítőkért vagy szükség esetén egy gyors javításért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru accesorii sau o reparație rapidă, dacă este necesar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For accessories or a quick repair if needed."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Geel und Umgebung sind relativ flach und ideal zum Radfahren.",
+          "Achten Sie auf die Fahrradwege und die örtlichen Verkehrsregeln.",
+          "Ein Schloss ist unerlässlich, wenn Sie Ihr Fahrrad abstellen, um Sehenswürdigkeiten zu besichtigen."
+        ],
+        "hu": [
+          "Geel és környéke viszonylag sík, ideális kerékpározáshoz.",
+          "Ügyeljen a kerékpárutakra és a helyi közlekedési szabályokra.",
+          "A lakat elengedhetetlen, ha lezárja a kerékpárt a látnivalók megtekintéséhez."
+        ],
+        "ro": [
+          "Geel și împrejurimile sale sunt relativ plate și ideale pentru ciclism.",
+          "Fiți atenți la pistele de biciclete și la regulile locale de circulație.",
+          "O încuietoare este esențială atunci când parcați bicicleta pentru a vizita atracțiile turistice."
+        ],
+        "en": [
+          "Geel and its surroundings are relatively flat and ideal for cycling.",
+          "Pay attention to the bike paths and local traffic rules.",
+          "A lock is essential when you park your bike to visit sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Molen von Larum",
+            "hu": "Klaszter kezdete: Larumi szélmalom",
+            "ro": "Start Cluster: Moara din Larum",
+            "en": "Cluster Start: Mill of Larum"
+          },
+          "coords": [
+            4.96,
+            51.16
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie den Tag mit einem Blick auf dieses ländliche Juwel.",
+            "hu": "Parkoljon le itt, és kezdje a napot ennek a vidéki gyöngyszemnek a megtekintésével.",
+            "ro": "Parcați aici și începeți ziua cu o priveliște a acestei bijuterii rurale.",
+            "en": "Park here and start the day with a view of this rural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Domein de Putten",
+            "hu": "Domein de Putten természetvédelmi terület",
+            "ro": "Rezervația naturală Domein de Putten",
+            "en": "Domein de Putten Nature Reserve"
+          },
+          "coords": [
+            5.01,
+            51.155
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu diesem ruhigen Ort für einen Spaziergang in der Natur.",
+            "hu": "Egy rövid autóút ehhez a csendes helyhez egy természetjáró sétáért.",
+            "ro": "O scurtă călătorie cu mașina până la acest loc liniștit pentru o plimbare în natură.",
+            "en": "A short drive to this quiet spot for a walk in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Start: Parken am Markt",
+            "hu": "Klaszter kezdete: Parkolás a piactérnél",
+            "ro": "Start Cluster: Parcare în Piață",
+            "en": "Cluster Start: Parking at the Market Square"
+          },
+          "coords": [
+            4.9903,
+            51.1612
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel gyalog a történelmi magot.",
+            "ro": "Parcați în centru și explorați nucleul istoric pe jos.",
+            "en": "Park in the center and explore the historic core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Dimpnakerk",
+            "hu": "Szent Dimpna-templom",
+            "ro": "Biserica Sfânta Dimpna",
+            "en": "Saint Dymphna's Church"
+          },
+          "coords": [
+            4.985,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Markt zu diesem bedeutenden Wahrzeichen.",
+            "hu": "Rövid séta a piactérről ehhez a fontos nevezetességhez.",
+            "ro": "O scurtă plimbare din piață până la acest reper important.",
+            "en": "A short walk from the market square to this significant landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasthuis Museum",
+            "hu": "Gasthuis Múzeum",
+            "ro": "Muzeul Gasthuis",
+            "en": "Gasthuis Museum"
+          },
+          "coords": [
+            4.986,
+            51.163
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie nach dem Mittagessen tief in die lokale Geschichte ein.",
+            "hu": "Ebéd után merüljön el mélyen a helyi történelemben.",
+            "ro": "După prânz, pătrundeți adânc în istoria locală.",
+            "en": "After lunch, dive deep into the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag außerhalb des Zentrums mit einem Besuch der Molen von Larum und dem ruhigen Domein de Putten. Am späten Vormittag fahren Sie ins Zentrum, parken Ihr Auto und erkunden den historischen Kern. Ein Spaziergang führt Sie vom Markt zur beeindruckenden Sint-Dimpnakerk. Der Nachmittag ist ganz dem Gasthuis Museum gewidmet, das einen tiefen Einblick in die einzigartige Kultur von Geel bietet, bevor Sie zu Ihrem Auto zurückkehren.",
+        "hu": "Kezdje a napot a központon kívül a Larumi szélmalom és a csendes Domein de Putten meglátogatásával. Késő délelőtt hajtson be a központba, parkolja le autóját, és fedezze fel a történelmi magot. Egy séta a piactérről a lenyűgöző Szent Dimpna-templomhoz vezet. A délután teljes egészében a Gasthuis Múzeumé, amely mély betekintést nyújt Geel egyedülálló kultúrájába, mielőtt visszatérne az autójához.",
+        "ro": "Începeți ziua în afara centrului cu o vizită la Moara din Larum și la liniștita rezervație Domein de Putten. Spre sfârșitul dimineții, conduceți spre centru, parcați mașina și explorați nucleul istoric. O plimbare vă va duce din piață la impresionanta Biserică Sf. Dimpna. După-amiaza este dedicată în întregime Muzeului Gasthuis, care oferă o perspectivă profundă asupra culturii unice a orașului Geel, înainte de a vă întoarce la mașină.",
+        "en": "Start the day outside the center with a visit to the Mill of Larum and the tranquil Domein de Putten. In the late morning, drive to the center, park your car, and explore the historic core. A walk will take you from the market square to the impressive Saint Dymphna's Church. The afternoon is entirely dedicated to the Gasthuis Museum, which offers a deep insight into Geel's unique culture before you return to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belgische Pommes",
+            "tip": "Ein Muss in Belgien. Suchen Sie nach einer 'Frituur' für die besten."
+          },
+          {
+            "name": "'t Kleine Genoegen",
+            "tip": "Ein charmantes Restaurant für ein entspanntes Mittagessen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belga hasábburgonya",
+            "tip": "Kötelező Belgiumban. Keresse a 'Frituur'-t a legjobbért."
+          },
+          {
+            "name": "'t Kleine Genoegen",
+            "tip": "Bájos étterem egy kellemes ebédhez a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi prăjiți belgieni",
+            "tip": "O necesitate în Belgia. Căutați un 'Frituur' pentru cei mai buni."
+          },
+          {
+            "name": "'t Kleine Genoegen",
+            "tip": "Un restaurant fermecător pentru un prânz relaxant în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belgian Fries",
+            "tip": "A must-try in Belgium. Look for a 'Frituur' for the best ones."
+          },
+          {
+            "name": "'t Kleine Genoegen",
+            "tip": "A charming restaurant for a relaxed lunch in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Perfekt für einen ruhigen Morgen vor dem Trubel der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof an der Sint-Dimpnakerk",
+            "tip": "Ein Ort der Besinnung und Geschichte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Tökéletes egy csendes reggelre a város nyüzsgése előtt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Dimpna-templom melletti temető",
+            "tip": "Az elmélkedés és a történelem helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Perfect pentru o dimineață liniștită înainte de agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul de lângă Biserica Sf. Dimpna",
+            "tip": "Un loc de reflecție și istorie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Domein de Putten",
+            "tip": "Perfect for a quiet morning before the hustle of the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cemetery at Saint Dymphna's Church",
+            "tip": "A place of reflection and history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die frische Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Vidéken keresse a friss termékeket árusító tanyasi boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la magazinele de la fermă care vând produse proaspete în zona rurală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for farm shops selling fresh produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Auto, um die weiter entfernten Sehenswürdigkeiten zu erreichen und parken Sie dann im Zentrum.",
+          "Überprüfen Sie die Parkregelungen im Stadtzentrum, einige Bereiche sind möglicherweise zeitlich begrenzt.",
+          "Die Cluster-Walking-Methode spart Zeit und Parkgebühren."
+        ],
+        "hu": [
+          "Használja az autót a távolabbi látnivalók eléréséhez, majd parkoljon a központban.",
+          "Ellenőrizze a parkolási szabályokat a városközpontban, egyes területek időkorlátosak lehetnek.",
+          "A klaszter-séta módszer időt és parkolási díjat takarít meg."
+        ],
+        "ro": [
+          "Folosiți mașina pentru a ajunge la atracțiile mai îndepărtate, apoi parcați în centru.",
+          "Verificați regulile de parcare în centrul orașului, unele zone pot avea limită de timp.",
+          "Metoda de plimbare în cluster economisește timp și taxe de parcare."
+        ],
+        "en": [
+          "Use the car to reach the more distant sights and then park in the center.",
+          "Check parking regulations in the city center, some areas may be time-limited.",
+          "The cluster-walking method saves time and parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Start: Markt von Geel",
+            "hu": "Klaszter kezdete: Geeli piactér",
+            "ro": "Start Cluster: Piața din Geel",
+            "en": "Cluster Start: Market Square of Geel"
+          },
+          "coords": [
+            4.9903,
+            51.1612
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft im Zentrum, um den Tag zu beginnen.",
+            "hu": "Érkezzen a központba, és kezdje a napot.",
+            "ro": "Sosiți în centru pentru a începe ziua.",
+            "en": "Arrive in the center to start the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Amandskerk",
+            "hu": "Szent Amandus-templom",
+            "ro": "Biserica Sfântul Amand",
+            "en": "Saint Amand's Church"
+          },
+          "coords": [
+            4.9885,
+            51.162
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zu dieser beeindruckenden gotischen Kirche.",
+            "hu": "Rövid séta ehhez a lenyűgöző gótikus templomhoz.",
+            "ro": "O scurtă plimbare până la această impresionantă biserică gotică.",
+            "en": "A short walk to this impressive Gothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Dimpnakerk",
+            "hu": "Szent Dimpna-templom",
+            "ro": "Biserica Sfânta Dimpna",
+            "en": "Saint Dymphna's Church"
+          },
+          "coords": [
+            4.985,
+            51.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie weiter zum spirituellen Herzen der Stadt.",
+            "hu": "Sétáljon tovább a város spirituális szívéhez.",
+            "ro": "Continuați pe jos spre inima spirituală a orașului.",
+            "en": "Walk on to the spiritual heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Start: Gasthuis Museum",
+            "hu": "Klaszter kezdete: Gasthuis Múzeum",
+            "ro": "Start Cluster: Muzeul Gasthuis",
+            "en": "Cluster Start: Gasthuis Museum"
+          },
+          "coords": [
+            4.986,
+            51.163
+          ],
+          "category": "museums",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Besichtigungsschwerpunkt zu gelangen.",
+            "hu": "Menjen helyi busszal a következő látnivaló-csoporthoz.",
+            "ro": "Luați un autobuz local pentru a ajunge la următorul grup de atracții.",
+            "en": "Take a local bus to get to the next cluster of sights."
+          }
+        },
+        {
+          "name": {
+            "de": "CC de Werft",
+            "hu": "CC de Werft Kulturális Központ",
+            "ro": "Centrul Cultural CC de Werft",
+            "en": "CC de Werft Cultural Centre"
+          },
+          "coords": [
+            4.993,
+            51.164
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt, um den kulturellen Abschluss des Tages zu erleben.",
+            "hu": "Egy újabb rövid buszút a nap kulturális befejezéséhez.",
+            "ro": "O altă scurtă călătorie cu autobuzul pentru a experimenta finalul cultural al zilei.",
+            "en": "Another short bus ride to experience the cultural end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit der Erkundung des zentralen Kerns von Geel zu Fuß, vom Markt bis zu den beiden Hauptkirchen. Am Vormittag spazieren Sie durch die Geschichte und Spiritualität der Stadt. Nach dem Mittagessen nutzen Sie den lokalen Bus, um bequem zum Gasthuis Museum zu gelangen, einem wichtigen kulturellen Stopp. Eine weitere kurze Busfahrt bringt Sie zum CC de Werft, wo Sie den Tag mit einem Einblick in das moderne kulturelle Leben von Geel ausklingen lassen.",
+        "hu": "A nap Geel központi magjának gyalogos felfedezésével kezdődik, a piactértől a két fő templomig. A délelőtt folyamán a város történelmén és spiritualitásán sétál keresztül. Ebéd után a helyi busz segítségével kényelmesen eljuthat a Gasthuis Múzeumhoz, egy fontos kulturális megállóhoz. Egy újabb rövid buszút visz a CC de Werft-hez, ahol a napot Geel modern kulturális életébe való betekintéssel zárhatja.",
+        "ro": "Ziua începe cu explorarea pe jos a nucleului central al orașului Geel, de la piață la cele două biserici principale. În cursul dimineții, vă plimbați prin istoria și spiritualitatea orașului. După prânz, folosiți autobuzul local pentru a ajunge confortabil la Muzeul Gasthuis, o oprire culturală importantă. O altă scurtă călătorie cu autobuzul vă duce la CC de Werft, unde puteți încheia ziua cu o incursiune în viața culturală modernă a orașului Geel.",
+        "en": "Your day begins by exploring the central core of Geel on foot, from the market square to the two main churches. In the morning, you'll walk through the city's history and spirituality. After lunch, you use the local bus to conveniently get to the Gasthuis Museum, an important cultural stop. Another short bus ride takes you to the CC de Werft, where you can end the day with an insight into Geel's modern cultural life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waffeln",
+            "tip": "Eine süße belgische Leckerei, die man an vielen Straßenecken findet."
+          },
+          {
+            "name": "Brasserie Flore",
+            "tip": "Ideal für ein Mittagessen in der Nähe der Bushaltestellen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gofri",
+            "tip": "Édes belga finomság, amelyet sok utcasarkon megtalálhat."
+          },
+          {
+            "name": "Brasserie Flore",
+            "tip": "Ideális ebédhez a központi buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gofre (Waffles)",
+            "tip": "O delicatesă dulce belgiană găsită la multe colțuri de stradă."
+          },
+          {
+            "name": "Brasserie Flore",
+            "tip": "Ideal pentru un prânz lângă stațiile de autobuz din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles",
+            "tip": "A sweet Belgian treat found on many street corners."
+          },
+          {
+            "name": "Brasserie Flore",
+            "tip": "Ideal for lunch near the central bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank auf dem Markt",
+            "tip": "Beobachten Sie das Kommen und Gehen zwischen den Busfahrten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der Lesesaal in der Bibliothek (Teil von CC de Werft)",
+            "tip": "Ein ruhiger Ort, um sich auszuruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a piactéren",
+            "tip": "Figyelje a jövés-menést a buszutak között.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az olvasóterem a könyvtárban (a CC de Werft része)",
+            "tip": "Csendes hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în piață",
+            "tip": "Priviți forfota între călătoriile cu autobuzul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sala de lectură de la bibliotecă (parte a CC de Werft)",
+            "tip": "Un loc liniștit pentru a vă odihni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in the market square",
+            "tip": "Watch the comings and goings between bus rides.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The reading room in the library (part of CC de Werft)",
+            "tip": "A quiet place to rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie unterwegs ein 'Geels Hartje'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon útközben egy 'Geels Hartje'-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați un 'Geels Hartje' pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakeries",
+            "tip": "Buy a 'Geels Hartje' on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne finden Sie online oder an den Haltestellen.",
+          "Beachten Sie, dass die Busse abends möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrendeket online vagy a megállókban találja.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Orarele autobuzelor pot fi găsite online sau la stații.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan multiple trips.",
+          "Bus schedules can be found online or at the stops.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

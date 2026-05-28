@@ -1,0 +1,1428 @@
+{
+  "city_id": "belarus-vitebsk-cities-v2",
+  "anchor": {
+    "name": "Witebsk",
+    "coords": [
+      30.2,
+      55.1833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Witebsk",
+            "hu": "Vityebszki Városháza",
+            "ro": "Primăria din Vitebsk",
+            "en": "Vitebsk Town Hall"
+          },
+          "coords": [
+            30.2055,
+            55.1958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine tolle Aussicht über die Altstadt.",
+            "hu": "Mássz fel a toronyba a legjobb kilátásért az óvárosra.",
+            "ro": "Urcați în turn pentru o priveliște excelentă asupra orașului vechi.",
+            "en": "Climb the tower for a great view over the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskirche",
+            "hu": "Feltámadás-templom",
+            "ro": "Biserica Învierii",
+            "en": "Resurrection Church"
+          },
+          "coords": [
+            30.206,
+            55.1965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die rekonstruierte barocke Fassade, ein Symbol der Wiedergeburt der Stadt.",
+            "hu": "Csodáld meg az újjáépített barokk homlokzatot, a város újjászületésének szimbólumát.",
+            "ro": "Admirați fațada barocă reconstruită, un simbol al renașterii orașului.",
+            "en": "Admire the reconstructed baroque facade, a symbol of the city's rebirth."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Assumption Cathedral"
+          },
+          "coords": [
+            30.2108,
+            55.1975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie von der Kathedralenterrasse den Panoramablick auf den Fluss Düna.",
+            "hu": "Élvezd a panorámát a Dvina folyóra a székesegyház teraszáról.",
+            "ro": "Bucurați-vă de vederea panoramică asupra râului Dvina de pe terasa catedralei.",
+            "en": "Enjoy the panoramic view of the Dvina River from the cathedral's terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Witebsk",
+            "hu": "Vityebszki Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Vitebsk",
+            "en": "Vitebsk Museum of Art"
+          },
+          "coords": [
+            30.2011,
+            55.1925
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke von Yehuda Pen, Chagalls erstem Lehrer.",
+            "hu": "Keresd Yehuda Pen, Chagall első tanárának műveit.",
+            "ro": "Concentrați-vă pe lucrările lui Yehuda Pen, primul profesor al lui Chagall.",
+            "en": "Focus on the works by Yehuda Pen, Chagall's first teacher."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc-Chagall-Museum",
+            "hu": "Marc Chagall Múzeum",
+            "ro": "Muzeul Marc Chagall",
+            "en": "Marc Chagall Museum"
+          },
+          "coords": [
+            30.215,
+            55.1836
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dies ist das Haus, in dem Chagall seine Kindheit verbrachte; es bietet einen sehr persönlichen Einblick.",
+            "hu": "Ez a ház, ahol Chagall a gyerekkorát töltötte; nagyon személyes betekintést nyújt.",
+            "ro": "Aceasta este casa în care Chagall și-a petrecut copilăria; oferă o perspectivă foarte personală.",
+            "en": "This is the house where Chagall spent his childhood; it offers a very personal insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Siegesplatz",
+            "hu": "Győzelem tér",
+            "ro": "Piața Victoriei",
+            "en": "Victory Square"
+          },
+          "coords": [
+            30.183,
+            55.1875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der größten Plätze Europas, beeindruckend in seiner Weite und den Denkmälern.",
+            "hu": "Európa egyik legnagyobb tere, lenyűgöző a méreteivel és emlékműveivel.",
+            "ro": "Una dintre cele mai mari piețe din Europa, impresionantă prin vastitatea și monumentele sale.",
+            "en": "One of Europe's largest squares, impressive in its scale and monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommer-Amphitheater",
+            "hu": "Nyári Amfiteátrum",
+            "ro": "Amfiteatrul de Vară",
+            "en": "Summer Amphitheatre"
+          },
+          "coords": [
+            30.212,
+            55.199
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn keine Veranstaltung stattfindet, ist die Architektur des Veranstaltungsortes beeindruckend.",
+            "hu": "Még ha nincs is előadás, az épület építészete önmagában is lenyűgöző.",
+            "ro": "Chiar dacă nu are loc niciun eveniment, arhitectura locului este impresionantă.",
+            "en": "Even if there's no event, the architecture of the venue is impressive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Witebsk beginnt am historischen Rathaus, gefolgt von der Erkundung der nahegelegenen barocken Auferstehungskirche. Ein kurzer Spaziergang bringt Sie zur prächtigen Mariä-Entschlafens-Kathedrale mit Blick auf den Fluss. Am Nachmittag tauchen Sie im Kunstmuseum und im Geburtshaus von Marc Chagall in die reiche Kunstszene der Stadt ein. Sie setzen Ihren Weg zum monumentalen Siegesplatz fort, einem Zeugnis der sowjetischen Ära. Der Tag endet am beeindruckenden Sommer-Amphitheater, dem Herzen des berühmten Kunstfestivals Slawischer Basar.",
+        "hu": "Vityebszki napja a történelmi Városházánál kezdődik, majd a közeli barokk Feltámadás-templom felfedezésével folytatódik. Egy rövid séta elvezet a folyóra néző, fenséges Uszpenszkij-székesegyházhoz. Délután elmerülhet a város gazdag művészeti életében a Művészeti Múzeumban és Marc Chagall szülőházában. Útját a monumentális Győzelem tér felé folytatja, amely a szovjet korszak tanúja. A napot a lenyűgöző Nyári Amfiteátrumnál, a híres Szláv Bazár művészeti fesztivál szívében zárja.",
+        "ro": "Ziua dvs. în Vitebsk începe la Primăria istorică, urmată de explorarea Bisericii Învierii în stil baroc, aflată în apropiere. O scurtă plimbare vă duce la maiestuoasa Catedrală a Adormirii Maicii Domnului, cu vedere la râu. După-amiaza, vă scufundați în scena artistică bogată a orașului la Muzeul de Artă și la casa natală a lui Marc Chagall. Continuați spre monumentala Piață a Victoriei, o mărturie a erei sovietice. Ziua se încheie la impresionantul Amfiteatru de Vară, inima faimosului festival de arte Bazarul Slav.",
+        "en": "Your day in Vitebsk starts at the historic Town Hall, followed by exploring the nearby baroque Resurrection Church. A short walk takes you to the majestic Assumption Cathedral overlooking the river. In the afternoon, you delve into the city's rich art scene at the Art Museum and Marc Chagall's birth house. You continue your journey to the monumental Victory Square, a testament to the Soviet era. The day concludes at the impressive Summer Amphitheatre, the heart of the famous Slavianski Bazaar arts festival."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki (Kartoffelpuffer)",
+            "tip": "Probieren Sie sie mit Sauerrahm, ein belarussischer Klassiker."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Knödel gefüllt mit Fleisch oder Pilzen, oft in einer Brühe serviert."
+          },
+          {
+            "name": "Borschtsch",
+            "tip": "Eine herzhafte Rote-Bete-Suppe, die im ganzen Osteuropa beliebt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki (krumplilángos)",
+            "tip": "Kóstold meg tejföllel, egy igazi fehérorosz klasszikus."
+          },
+          {
+            "name": "Koldunij",
+            "tip": "Hússal vagy gombával töltött gombóc, gyakran levesben tálalva."
+          },
+          {
+            "name": "Borscs",
+            "tip": "Kiadós céklaleves, amely egész Kelet-Európában népszerű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki (clătite de cartofi)",
+            "tip": "Încercați-le cu smântână, un clasic belarus."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Găluște umplute cu carne sau ciuperci, adesea servite într-o supă."
+          },
+          {
+            "name": "Borș",
+            "tip": "O supă consistentă de sfeclă roșie, populară în toată Europa de Est."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki (potato pancakes)",
+            "tip": "Try them with sour cream, a Belarusian classic."
+          },
+          {
+            "name": "Kolduny",
+            "tip": "Dumplings filled with meat or mushrooms, often served in a broth."
+          },
+          {
+            "name": "Borscht",
+            "tip": "A hearty beetroot soup popular across Eastern Europe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Vitba",
+            "tip": "Ein ruhiger Spaziergang entlang des kleineren Flusses, der der Stadt ihren Namen gab.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Heilig-Geist-Klosters",
+            "tip": "Finden Sie einen friedlichen Moment im Klostergelände.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von der Mariä-Entschlafens-Kathedrale",
+            "tip": "Genießen Sie die ruhige Aussicht über das Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitba folyó partja",
+            "tip": "Egy csendes séta a kisebbik folyó mentén, amely a város nevét adta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szentlélek-kolostor kertje",
+            "tip": "Találj egy békés pillanatot a kolostor területén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás az Uszpenszkij-székesegyháztól",
+            "tip": "Élvezd a nyugodt kilátást a víz felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vitba",
+            "tip": "O plimbare liniștită de-a lungul râului mai mic care a dat numele orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii Sfântul Duh",
+            "tip": "Găsiți un moment de pace în incinta mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Priveliștea de la Catedrala Adormirea Maicii Domnului",
+            "tip": "Bucurați-vă de priveliștea senină peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Vitba River",
+            "tip": "A quiet stroll along the smaller river that gave the city its name.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of the Holy Spirit Monastery",
+            "tip": "Find a peaceful moment within the monastery grounds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Assumption Cathedral",
+            "tip": "Enjoy the serene vista over the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Leinenprodukte",
+            "tip": "Belarus ist berühmt für sein hochwertiges Leinen; suchen Sie nach Tischdecken oder Kleidung."
+          },
+          {
+            "name": "Chagall-Reproduktionen",
+            "tip": "In den Museumsshops und lokalen Galerien finden Sie Drucke und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi lenvászon termékek",
+            "tip": "Fehéroroszország híres a minőségi lenvászonról; keress asztalterítőt vagy ruhát."
+          },
+          {
+            "name": "Chagall reprodukciók",
+            "tip": "Nyomatokat és ajándéktárgyakat találhatsz a múzeumi boltokban és a helyi galériákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale din in",
+            "tip": "Belarus este renumit pentru inul său de înaltă calitate; căutați fețe de masă sau haine."
+          },
+          {
+            "name": "Reproduceri Chagall",
+            "tip": "Printuri și suveniruri pot fi găsite în magazinele muzeelor și galeriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Linen Products",
+            "tip": "Belarus is famous for its high-quality linen; look for tablecloths or clothing."
+          },
+          {
+            "name": "Chagall Reproductions",
+            "tip": "Prints and souvenirs can be found at the museum shops and local galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Haben Sie etwas Bargeld für kleine Einkäufe oder Trinkgelder dabei.",
+          "Die meisten zentralen Sehenswürdigkeiten sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az óvárosi macskakövek egyenetlenek lehetnek.",
+          "Legyen nálad készpénz a kisebb vásárlásokhoz vagy borravalóhoz.",
+          "A legtöbb központi látnivaló gyalogosan is könnyen elérhető."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din orașul vechi poate fi denivelat.",
+          "Aveți la dvs. numerar pentru cumpărături mici sau bacșișuri.",
+          "Majoritatea atracțiilor centrale sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Carry some cash for small purchases or tips.",
+          "Most central sights are easily within walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Siegesplatz",
+            "hu": "Győzelem tér",
+            "ro": "Piața Victoriei",
+            "en": "Victory Square"
+          },
+          "coords": [
+            30.183,
+            55.1875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem riesigen Platz, um ein Gefühl für die Größe der Stadt zu bekommen.",
+            "hu": "Kezd a napot ezen a hatalmas téren, hogy átérezd a város léptékét.",
+            "ro": "Începeți ziua în această piață vastă pentru a simți scara orașului.",
+            "en": "Start your day at this vast square to get a sense of the city's scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc-Chagall-Museum",
+            "hu": "Marc Chagall Múzeum",
+            "ro": "Muzeul Marc Chagall",
+            "en": "Marc Chagall Museum"
+          },
+          "coords": [
+            30.215,
+            55.1836
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie zum Geburtshaus des berühmtesten Sohnes der Stadt.",
+            "hu": "Biciklizz el a város leghíresebb szülöttének szülőházához.",
+            "ro": "Mergeți cu bicicleta la casa natală a celui mai faimos fiu al orașului.",
+            "en": "Cycle to the birth house of the city's most famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Witebsk",
+            "hu": "Vityebszki Városháza",
+            "ro": "Primăria din Vitebsk",
+            "en": "Vitebsk Town Hall"
+          },
+          "coords": [
+            30.2055,
+            55.1958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz zu Fuß.",
+            "hu": "Zárd le a biciklidet és fedezd fel a központi teret gyalog.",
+            "ro": "Parcați bicicleta și explorați piața centrală pe jos.",
+            "en": "Park your bike and explore the central square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Witebsk",
+            "hu": "Vityebszki Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Vitebsk",
+            "en": "Vitebsk Museum of Art"
+          },
+          "coords": [
+            30.2011,
+            55.1925
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Rathaus entfernt, beherbergt es eine beeindruckende Sammlung.",
+            "hu": "Csak egy rövid tekerés a Városházától, lenyűgöző gyűjteménnyel rendelkezik.",
+            "ro": "La o scurtă plimbare cu bicicleta de Primărie, găzduiește o colecție impresionantă.",
+            "en": "A short ride from the Town Hall, it houses an impressive collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Assumption Cathedral"
+          },
+          "coords": [
+            30.2108,
+            55.1975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Kathedrale lohnt sich für die atemberaubende Aussicht.",
+            "hu": "Megéri feltekerni a székesegyházhoz a lélegzetelállító kilátásért.",
+            "ro": "Urcarea la catedrală merită pentru priveliștile uimitoare.",
+            "en": "The climb up to the cathedral is worth it for the stunning views."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommer-Amphitheater",
+            "hu": "Nyári Amfiteátrum",
+            "ro": "Amfiteatrul de Vară",
+            "en": "Summer Amphitheatre"
+          },
+          "coords": [
+            30.212,
+            55.199
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie zum Veranstaltungsort des Slawischen Basars und spüren Sie die kreative Energie.",
+            "hu": "Tekerj el a Szláv Bazár helyszínére, és érezd a kreatív energiát.",
+            "ro": "Mergeți cu bicicleta la locul unde se desfășoară Bazarul Slav și simțiți energia creativă.",
+            "en": "Cycle to the venue of the Slavianski Bazaar and feel the creative energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Geist-Kloster",
+            "hu": "Szentlélek-kolostor",
+            "ro": "Mănăstirea Sfântul Duh",
+            "en": "Holy Spirit Monastery"
+          },
+          "coords": [
+            30.208,
+            55.1995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ruhigen Ort, der direkt neben dem Amphitheater liegt.",
+            "hu": "Fejezd be a kerékpártúrát ezen a békés helyen, közvetlenül az Amfiteátrum mellett.",
+            "ro": "Încheiați-vă turul cu bicicleta la acest loc senin, situat chiar lângă amfiteatru.",
+            "en": "End your bike tour at this serene spot located right next to the amphitheatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Witebsk startet am weitläufigen Siegesplatz. Von dort radeln Sie zum Marc-Chagall-Museum, um in das Leben des Künstlers einzutauchen. Zur Mittagszeit erreichen Sie das Herz der Altstadt rund um das Rathaus. Am Nachmittag erkunden Sie das Kunstmuseum, erklimmen den Hügel zur Mariä-Entschlafens-Kathedrale für eine spektakuläre Aussicht und besuchen anschließend das nahegelegene Sommer-Amphitheater. Die Tour endet mit einem Moment der Ruhe im Heilig-Geist-Kloster.",
+        "hu": "Vityebszki kerékpártúrája a tágas Győzelem térről indul. Innen a Marc Chagall Múzeumhoz teker, hogy elmerüljön a művész életében. Délidőben eléri az óváros szívét a Városháza környékén. Délután felfedezi a Művészeti Múzeumot, felkapaszkodik a hegyre az Uszpenszkij-székesegyházhoz a látványos kilátásért, majd meglátogatja a közeli Nyári Amfiteátrumot. A túra a Szentlélek-kolostorban, egy csendes pillanattal ér véget.",
+        "ro": "Turul dvs. cu bicicleta prin Vitebsk începe din vasta Piață a Victoriei. De acolo, pedalați spre Muzeul Marc Chagall pentru a vă cufunda în viața artistului. La amiază, ajungeți în inima orașului vechi, în jurul Primăriei. După-amiaza, explorați Muzeul de Artă, urcați dealul până la Catedrala Adormirea Maicii Domnului pentru o priveliște spectaculoasă, apoi vizitați Amfiteatrul de Vară din apropiere. Turul se încheie cu un moment de liniște la Mănăstirea Sfântul Duh.",
+        "en": "Your bike tour of Vitebsk kicks off at the vast Victory Square. From there, you'll cycle to the Marc Chagall Museum to immerse yourself in the artist's life. By midday, you'll reach the heart of the old town around the Town Hall. The afternoon is for exploring the Art Museum, climbing the hill to the Assumption Cathedral for a spectacular view, and then visiting the nearby Summer Amphitheatre. The tour concludes with a moment of peace at the Holy Spirit Monastery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Draniki",
+            "tip": "Perfekt als schnelle und sättigende Mahlzeit für Radfahrer."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk, sehr erfrischend nach einer Radtour."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "Eine dicke, würzige Suppe, die Ihnen Energie für den Rest des Tages gibt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draniki",
+            "tip": "Tökéletes gyors és laktató étel a kerékpárosoknak."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital, nagyon frissítő egy biciklitúra után."
+          },
+          {
+            "name": "Szoljanka",
+            "tip": "Sűrű, fűszeres leves, amely energiát ad a nap hátralévő részére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Draniki",
+            "tip": "Perfect ca o masă rapidă și sățioasă pentru bicicliști."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată, foarte răcoritoare după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "O supă groasă și picantă care vă va da energie pentru restul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Draniki",
+            "tip": "Perfect as a quick and filling meal for cyclists."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage, very refreshing after a bike ride."
+          },
+          {
+            "name": "Solyanka",
+            "tip": "A thick, spicy soup that will energize you for the rest of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Düna",
+            "tip": "Machen Sie eine Pause auf einer Bank mit Blick auf den Hauptfluss der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten in der Nähe des Amphitheaters",
+            "tip": "Finden Sie einen grünen Fleck, um sich nach Ihrer Fahrt auszuruhen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Siegesplatz",
+            "tip": "Der weite, offene Raum bietet einen ungestörten Blick auf den Abendhimmel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dvina folyó partja",
+            "tip": "Pihenj meg egy padon, ahonnan a város fő folyójára nyílik kilátás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kertek az Amfiteátrum közelében",
+            "tip": "Találj egy zöld helyet, ahol megpihenhetsz a tekerés után.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Győzelem téren",
+            "tip": "A tágas, nyílt tér zavartalan kilátást nyújt az esti égboltra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Dvina",
+            "tip": "Luați o pauză pe o bancă cu vedere la râul principal al orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile de lângă Amfiteatru",
+            "tip": "Găsiți un loc verde pentru a vă odihni după plimbare.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare în Piața Victoriei",
+            "tip": "Spațiul larg și deschis oferă o vedere neobstrucționată a cerului de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Dvina River",
+            "tip": "Take a break on a bench overlooking the city's main river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens near the Amphitheatre",
+            "tip": "Find a green spot to rest after your ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Victory Square",
+            "tip": "The vast open space offers an unobstructed view of the evening sky.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerksmärkte",
+            "tip": "Halten Sie Ausschau nach handgefertigten Holzarbeiten und Töpferwaren."
+          },
+          {
+            "name": "Belarussische Schokolade",
+            "tip": "Ein süßes Souvenir oder ein schneller Energieschub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves piacok",
+            "tip": "Keresd a kézzel készített fa tárgyakat és kerámiákat."
+          },
+          {
+            "name": "Fehérorosz csokoládé",
+            "tip": "Édes ajándéktárgy vagy egy gyors energiafröccs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale de artizanat",
+            "tip": "Căutați obiecte de artizanat din lemn și ceramică lucrate manual."
+          },
+          {
+            "name": "Ciocolată belarusă",
+            "tip": "Un suvenir dulce sau un plus rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Markets",
+            "tip": "Look out for handmade woodwork and pottery."
+          },
+          {
+            "name": "Belarusian Chocolate",
+            "tip": "A sweet souvenir or a quick energy boost."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad, bevor Sie losfahren, insbesondere die Bremsen und Reifen.",
+          "Schließen Sie Ihr Fahrrad immer an sicheren Orten ab.",
+          "Einige Straßen haben möglicherweise keine ausgewiesenen Radwege, also fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a biciklidet, különösen a fékeket és a gumikat.",
+          "Mindig biztonságos helyen zárd le a kerékpárodat.",
+          "Néhány úton nincs kijelölt kerékpárút, ezért óvatosan közlekedj."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
+          "Încuiati-vă întotdeauna bicicleta în locuri sigure.",
+          "Unele străzi s-ar putea să nu aibă piste de biciclete dedicate, așa că mergeți cu prudență."
+        ],
+        "en": [
+          "Check your bike before you start, especially the brakes and tires.",
+          "Always lock your bike in secure locations.",
+          "Some streets may not have dedicated bike lanes, so ride with caution."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Siegesplatz",
+            "hu": "Győzelem tér",
+            "ro": "Piața Victoriei",
+            "en": "Victory Square"
+          },
+          "coords": [
+            30.183,
+            55.1875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Es gibt normalerweise genügend Parkplätze am Rand des Platzes.",
+            "hu": "Itt kezdj! Általában van elég parkolóhely a tér szélén.",
+            "ro": "Începeți de aici. De obicei, există o parcare amplă la marginea pieței.",
+            "en": "Start here. There is usually ample parking around the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Witebsk (Altstadt-Cluster)",
+            "hu": "Vityebszki Városháza (Óvárosi klaszter)",
+            "ro": "Primăria Vitebsk (Clusterul Orașul Vechi)",
+            "en": "Vitebsk Town Hall (Old Town Cluster)"
+          },
+          "coords": [
+            30.2055,
+            55.1958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und erkunden Sie diesen Cluster zu Fuß.",
+            "hu": "Parkolj le a közelben, és fedezd fel ezt a területet gyalog.",
+            "ro": "Parcați mașina în apropiere și explorați acest cluster pe jos.",
+            "en": "Park your car nearby and explore this cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskirche",
+            "hu": "Feltámadás-templom",
+            "ro": "Biserica Învierii",
+            "en": "Resurrection Church"
+          },
+          "coords": [
+            30.206,
+            55.1965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Rathaus entfernt, im Herzen des Clusters.",
+            "hu": "Csak egy rövid séta a Városházától, a klaszter szívében.",
+            "ro": "La o scurtă plimbare de Primărie, în inima clusterului.",
+            "en": "Just a short walk from the Town Hall, in the heart of the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Assumption Cathedral"
+          },
+          "coords": [
+            30.2108,
+            55.1975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie den Hügel hinauf, um die Kathedrale zu erreichen. Die Aussicht ist die Mühe wert.",
+            "hu": "Sétálj fel a dombra a székesegyházhoz. A kilátás megéri a fáradságot.",
+            "ro": "Mergeți pe jos până la catedrală. Priveliștea merită efortul.",
+            "en": "Walk up the hill to reach the cathedral. The view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc-Chagall-Museum (Kunst-Cluster)",
+            "hu": "Marc Chagall Múzeum (Művészeti klaszter)",
+            "ro": "Muzeul Marc Chagall (Clusterul de Artă)",
+            "en": "Marc Chagall Museum (Art Cluster)"
+          },
+          "coords": [
+            30.215,
+            55.1836
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem zweiten Cluster. Parken Sie und bereiten Sie sich auf einen weiteren Spaziergang vor.",
+            "hu": "Vezess át a második klaszterhez. Parkolj le, és készülj egy újabb sétára.",
+            "ro": "Conduceți spre acest al doilea cluster. Parcați și pregătiți-vă pentru o altă plimbare.",
+            "en": "Drive to this second cluster. Park and prepare for another walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Witebsk",
+            "hu": "Vityebszki Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Vitebsk",
+            "en": "Vitebsk Museum of Art"
+          },
+          "coords": [
+            30.2011,
+            55.1925
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Chagall-Museum aus.",
+            "hu": "Kellemes séta a Chagall Múzeumtól.",
+            "ro": "O plimbare plăcută de la Muzeul Chagall.",
+            "en": "A pleasant walk from the Chagall Museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt am riesigen Siegesplatz, wo das Parken einfach ist. Dann fahren Sie zum Altstadt-Cluster, parken Ihr Auto und erkunden zu Fuß das Rathaus, die Auferstehungskirche und die hoch aufragende Mariä-Entschlafens-Kathedrale. Am Nachmittag fahren Sie zum Kunst-Cluster für einen tiefen Einblick in das Erbe der Stadt im Marc-Chagall-Museum und im nahegelegenen Kunstmuseum Witebsk. Diese Route kombiniert bequemes Fahren zwischen den Zonen mit immersiven Spaziergängen innerhalb der wichtigsten Viertel.",
+        "hu": "Autós napja a hatalmas Győzelem téren kezdődik, ahol könnyű parkolni. Ezután az Óvárosi klaszterhez hajt, leparkolja autóját, és gyalog fedezi fel a Városházát, a Feltámadás-templomot és a magasba törő Uszpenszkij-székesegyházat. Délután a Művészeti klaszterhez utazik, hogy mélyen elmerüljön a város örökségében a Marc Chagall Múzeumban és a közeli Vityebszki Művészeti Múzeumban. Ez az útvonal ötvözi a kényelmes autózást a zónák között a legfontosabb negyedekben tett magával ragadó sétákkal.",
+        "ro": "Ziua dvs. cu mașina începe în imensa Piață a Victoriei, unde parcarea este ușoară. Apoi, conduceți spre clusterul Orașul Vechi, parcați mașina și explorați pe jos Primăria, Biserica Învierii și impunătoarea Catedrală a Adormirii Maicii Domnului. După-amiaza, vă deplasați spre clusterul de Artă pentru o scufundare profundă în patrimoniul orașului la Muzeul Marc Chagall și la Muzeul de Artă din Vitebsk, aflat în apropiere. Acest traseu combină condusul convenabil între zone cu plimbări captivante în cartierele cheie.",
+        "en": "Your car day starts at the huge Victory Square where parking is easy. Then, you drive to the Old Town cluster, park your car, and explore the Town Hall, Resurrection Church, and the towering Assumption Cathedral on foot. In the afternoon, you motor over to the Art cluster for a deep dive into the city's heritage at the Marc Chagall Museum and the nearby Vitebsk Museum of Art. This route combines convenient driving between zones with immersive walks within the key districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant 'Zolotoi Lev'",
+            "tip": "Ein bekanntes Restaurant mit traditioneller belarussischer Küche, ideal für ein Mittagessen."
+          },
+          {
+            "name": "Machorka",
+            "tip": "Eine Art starker Tabak, aber auch ein Spitzname für einfache, herzhafte Speisen."
+          },
+          {
+            "name": "Kefir",
+            "tip": "Ein fermentiertes Milchgetränk, das eine gute Ergänzung zu schweren Mahlzeiten ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Zolotoj Lev' étterem",
+            "tip": "Híres étterem hagyományos fehérorosz konyhával, ideális ebédre."
+          },
+          {
+            "name": "Mahorka",
+            "tip": "Erős dohányfajta, de egyszerű, kiadós ételek beceneve is."
+          },
+          {
+            "name": "Kefir",
+            "tip": "Erjesztett tejital, amely jól kiegészíti a nehéz ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul 'Zolotoi Lev'",
+            "tip": "Un restaurant bine-cunoscut cu bucătărie tradițională belarusă, ideal pentru prânz."
+          },
+          {
+            "name": "Makhorka",
+            "tip": "Un tip de tutun puternic, dar și o poreclă pentru mâncarea simplă, consistentă."
+          },
+          {
+            "name": "Chefir",
+            "tip": "O băutură lactată fermentată care este un acompaniament bun pentru mesele grele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant 'Zolotoi Lev'",
+            "tip": "A well-known restaurant with traditional Belarusian cuisine, great for a sit-down lunch."
+          },
+          {
+            "name": "Machorka",
+            "tip": "A type of strong tobacco, but also a nickname for simple, hearty food."
+          },
+          {
+            "name": "Kefir",
+            "tip": "A fermented milk drink that is a good accompaniment to heavy meals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten Witebsk",
+            "tip": "Ein kurzer Abstecher mit dem Auto für eine friedliche Pause vom Trubel der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Park Frunze",
+            "tip": "Ein städtischer Park, in dem Sie sich entspannen können, bevor Sie zum nächsten Cluster fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vityebszki Botanikus Kert",
+            "tip": "Egy rövid autós kitérő egy békés szünetre a város nyüzsgésétől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frunze Park",
+            "tip": "Városi park, ahol pihenhetsz, mielőtt a következő klaszterhez hajtasz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Vitebsk",
+            "tip": "Un scurt ocol cu mașina pentru o pauză liniștită de agitația orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Frunze",
+            "tip": "Un parc urban unde vă puteți relaxa înainte de a conduce spre următorul cluster.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitebsk Botanical Garden",
+            "tip": "A short drive away for a peaceful break from the city buzz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Frunze Park",
+            "tip": "An urban park where you can relax before driving to the next cluster.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum 'Marko-City'",
+            "tip": "Ein modernes Einkaufszentrum, falls Sie etwas Bestimmtes benötigen."
+          },
+          {
+            "name": "Souvenirstände in der Nähe der Kathedrale",
+            "tip": "Finden Sie handgefertigte Ikonen und andere religiöse Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Marko-City' bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont, ha valami konkrétra van szükséged."
+          },
+          {
+            "name": "Ajándékboltok a székesegyház közelében",
+            "tip": "Kézzel készített ikonokat és más vallási emléktárgyakat találhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial 'Marko-City'",
+            "tip": "Un mall modern în cazul în care aveți nevoie de ceva specific."
+          },
+          {
+            "name": "Tarabe de suveniruri lângă catedrală",
+            "tip": "Găsiți icoane lucrate manual și alte amintiri religioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Marko-City' Shopping Mall",
+            "tip": "A modern mall in case you need anything specific."
+          },
+          {
+            "name": "Souvenir stalls near the Cathedral",
+            "tip": "Find handcrafted icons and other religious mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann in der Altstadt schwierig sein; suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Achten Sie auf die örtlichen Verkehrsregeln und Geschwindigkeitsbegrenzungen.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet az óvárosban; keress kijelölt parkolókat.",
+          "Tartsd be a helyi közlekedési szabályokat és sebességkorlátozásokat.",
+          "Tervezd meg előre az útvonalat az egyirányú utcák elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în orașul vechi; căutați parcări desemnate.",
+          "Fiți atenți la regulile de circulație locale și la limitele de viteză.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic."
+        ],
+        "en": [
+          "Parking can be tricky in the old town; look for designated parking areas.",
+          "Be mindful of local traffic laws and speed limits.",
+          "Plan your route in advance to avoid one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Siegesplatz (Bezirk A)",
+            "hu": "Győzelem tér (A kerület)",
+            "ro": "Piața Victoriei (Districtul A)",
+            "en": "Victory Square (District A)"
+          },
+          "coords": [
+            30.183,
+            55.1875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie hier; viele Bus- und Straßenbahnlinien kreuzen sich in der Nähe dieses wichtigen Platzes.",
+            "hu": "Itt kezdj; sok busz- és villamosvonal keresztezi egymást e fontos tér közelében.",
+            "ro": "Începeți de aici; multe linii de autobuz și tramvai se intersectează lângă această piață majoră.",
+            "en": "Start here; many bus and tram lines intersect near this major square."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Witebsk (Bezirk B - Altstadt)",
+            "hu": "Vityebszki Városháza (B kerület - Óváros)",
+            "ro": "Primăria Vitebsk (Districtul B - Orașul Vechi)",
+            "en": "Vitebsk Town Hall (District B - Old Town)"
+          },
+          "coords": [
+            30.2055,
+            55.1958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in die Altstadt. Steigen Sie hier aus und beginnen Sie Ihren Rundgang.",
+            "hu": "Menj busszal az óvárosba. Itt szállj le és kezdd a gyalogtúrát.",
+            "ro": "Luați un autobuz spre Orașul Vechi. Coborâți aici și începeți turul pietonal.",
+            "en": "Take a bus to the Old Town. Alight here and start your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Entschlafens-Kathedrale",
+            "hu": "Uszpenszkij-székesegyház",
+            "ro": "Catedrala Adormirea Maicii Domnului",
+            "en": "Assumption Cathedral"
+          },
+          "coords": [
+            30.2108,
+            55.1975
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz aus.",
+            "hu": "Rövid séta a Városház tértől.",
+            "ro": "O scurtă plimbare de la Piața Primăriei.",
+            "en": "A short walk from the Town Hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommer-Amphitheater",
+            "hu": "Nyári Amfiteátrum",
+            "ro": "Amfiteatrul de Vară",
+            "en": "Summer Amphitheatre"
+          },
+          "coords": [
+            30.212,
+            55.199
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Kathedrale aus einfach den Hügel hinunter.",
+            "hu": "Csak sétálj le a dombról a székesegyháztól.",
+            "ro": "Doar coborâți dealul de la catedrală.",
+            "en": "Just walk down the hill from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc-Chagall-Museum (Bezirk C - Kunst)",
+            "hu": "Marc Chagall Múzeum (C kerület - Művészet)",
+            "ro": "Muzeul Marc Chagall (Districtul C - Artă)",
+            "en": "Marc Chagall Museum (District C - Art)"
+          },
+          "coords": [
+            30.215,
+            55.1836
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Trolleybus zum Chagall-Viertel.",
+            "hu": "Menj trolibusszal a Chagall-negyedbe.",
+            "ro": "Luați un troleibuz spre cartierul Chagall.",
+            "en": "Take a trolleybus to the Chagall district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Witebsk",
+            "hu": "Vityebszki Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Vitebsk",
+            "en": "Vitebsk Museum of Art"
+          },
+          "coords": [
+            30.2011,
+            55.1925
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt, um die Kunsttour des Tages abzuschließen.",
+            "hu": "Még egy rövid buszút a mai művészeti túra befejezéséhez.",
+            "ro": "O altă scurtă călătorie cu autobuzul pentru a încheia turul de artă al zilei.",
+            "en": "Another short bus ride to complete the day's art tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am gut angebundenen Siegesplatz. Von dort bringt Sie ein Bus ins Herz der Altstadt, wo Sie das Rathaus, die Mariä-Entschlafens-Kathedrale und das Sommer-Amphitheater zu Fuß erkunden. Am Nachmittag bringt Sie ein Trolleybus ins Chagall-Viertel, um sein Geburtshaus zu besichtigen. Eine letzte Busfahrt führt Sie zum Kunstmuseum Witebsk und vervollständigt Ihre künstlerische Erkundung der Stadt.",
+        "hu": "Tömegközlekedési utazása a jól megközelíthető Győzelem téren kezdődik. Innen busszal juthat el az óváros szívébe, ahol gyalogosan fedezheti fel a Városházát, az Uszpenszkij-székesegyházat és a Nyári Amfiteátrumot. Délután trolibusszal juthat el a Chagall-negyedbe, hogy meglátogassa szülőházát. Egy utolsó buszút elviszi a Vityebszki Művészeti Múzeumba, teljessé téve a város művészeti felfedezését.",
+        "ro": "Călătoria dvs. cu transportul public începe în Piața Victoriei, bine conectată. De acolo, un autobuz vă duce în inima Orașului Vechi, unde explorați pe jos Primăria, Catedrala Adormirea Maicii Domnului și Amfiteatrul de Vară. După-amiaza, un troleibuz vă duce în cartierul Chagall pentru a vizita casa sa natală. O ultimă călătorie cu autobuzul vă duce la Muzeul de Artă din Vitebsk, completându-vă explorarea artistică a orașului.",
+        "en": "Your public transport journey begins at the well-connected Victory Square. From there, a bus takes you to the heart of the Old Town, where you explore the Town Hall, Assumption Cathedral, and the Summer Amphitheatre on foot. In the afternoon, a trolleybus whisks you to the Chagall district to visit his birth house. A final bus ride takes you to the Vitebsk Museum of Art, completing your artistic exploration of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bliny",
+            "tip": "Dünne Pfannkuchen, die an Straßenständen verkauft werden, ein schneller Snack zwischen den Busfahrten."
+          },
+          {
+            "name": "Pelmeni",
+            "tip": "Eine weitere Art von Knödeln, die in Cafeterias in der Nähe von Verkehrsknotenpunkten leicht zu finden sind."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Ein süßes, nicht-alkoholisches Getränk aus Früchten, das oft hausgemacht ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blini",
+            "tip": "Vékony palacsinta, amelyet utcai árusoknál árulnak, gyors harapnivaló a buszozások között."
+          },
+          {
+            "name": "Pelmenyi",
+            "tip": "Másfajta gombóc, amely könnyen megtalálható a közlekedési csomópontok közelében lévő étkezdékben."
+          },
+          {
+            "name": "Kompot",
+            "tip": "Édes, alkoholmentes, gyümölcsből készült ital, gyakran házi készítésű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blini",
+            "tip": "Clătite subțiri vândute la tarabe, o gustare rapidă între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Pelmeni",
+            "tip": "Un alt tip de găluște, ușor de găsit în cantinele de lângă nodurile de transport."
+          },
+          {
+            "name": "Compot",
+            "tip": "O băutură dulce, nealcoolică, făcută din fructe, adesea de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blini",
+            "tip": "Thin pancakes sold at street stalls, a quick snack between bus rides."
+          },
+          {
+            "name": "Pelmeni",
+            "tip": "Another type of dumpling, easy to find in cafeterias near transport hubs."
+          },
+          {
+            "name": "Kompot",
+            "tip": "A sweet non-alcoholic beverage made from fruit, often homemade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Puschkin-Brücke",
+            "tip": "Machen Sie einen Spaziergang über die Brücke und beobachten Sie die Boote auf dem Fluss Düna.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Ein ruhiger Platz in der Nähe des Heilig-Geist-Klosters",
+            "tip": "Ein Ort der Besinnung abseits der Haupttouristenrouten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puskin híd",
+            "tip": "Sétálj át a hídon, és nézd a hajókat a Dvina folyón.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "Csendes tér a Szentlélek-kolostor közelében",
+            "tip": "Elmélkedő hely a fő turistaútvonalaktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Pușkin",
+            "tip": "Faceți o plimbare peste pod, urmărind bărcile de pe râul Dvina.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "O piațetă liniștită lângă Mănăstirea Sfântul Duh",
+            "tip": "Un loc de contemplare departe de principalele trasee turistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pushkin Bridge",
+            "tip": "Take a walk across the bridge, watching the boats on the Dvina river.",
+            "emoji": "🌉"
+          },
+          {
+            "name": "A quiet square near the Holy Spirit Monastery",
+            "tip": "A contemplative spot away from the main tourist routes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unterirdische Passage am Bahnhof",
+            "tip": "Oft gibt es kleine Geschäfte, die alles von Kleidung bis zu Souvenirs verkaufen."
+          },
+          {
+            "name": "Buchläden",
+            "tip": "Suchen Sie nach Alben mit belarussischer Kunst oder Chagall-Drucken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aluljáró a vasútállomásnál",
+            "tip": "Gyakran vannak kis boltok, amelyek ruháktól az ajándéktárgyakig mindent árulnak."
+          },
+          {
+            "name": "Könyvesboltok",
+            "tip": "Keress albumokat a fehérorosz művészetről vagy Chagall nyomatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul subteran de la gară",
+            "tip": "Adesea are mici magazine care vând de la haine la suveniruri."
+          },
+          {
+            "name": "Librării",
+            "tip": "Căutați albume de artă belarusă sau printuri cu Chagall."
+          }
+        ],
+        "en": [
+          {
+            "name": "Underground passage at the train station",
+            "tip": "Often has small shops selling everything from clothes to souvenirs."
+          },
+          {
+            "name": "Bookstores",
+            "tip": "Look for albums on Belarusian art or Chagall prints."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Laden Sie eine Offline-Karte oder eine Nahverkehrs-App herunter.",
+          "Die Beschilderung ist möglicherweise nur auf Russisch/Belarussisch, also merken Sie sich die Namen Ihrer Haltestellen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a korlátlan utazáshoz.",
+          "Tölts le egy offline térképet vagy egy tömegközlekedési alkalmazást.",
+          "A táblák csak oroszul/fehéroroszul lehetnek, ezért jegyezd meg a megállók nevét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o hartă offline sau o aplicație de transport public.",
+          "Semnalizarea poate fi doar în rusă/belarusă, așa că rețineți numele stațiilor dvs."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Download an offline map or a public transport app.",
+          "Signage might only be in Russian/Belarusian, so note your stop names."
+        ]
+      }
+    }
+  }
+}

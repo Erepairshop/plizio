@@ -1,0 +1,1340 @@
+{
+  "city_id": "spain-daroca-cities-v2",
+  "anchor": {
+    "name": "Daroca",
+    "coords": [
+      -1.4167,
+      41.1167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Unteres Tor (Puerta Baja)",
+            "hu": "Alsó kapu (Puerta Baja)",
+            "ro": "Poarta de Jos (Puerta Baja)",
+            "en": "Lower Gate (Puerta Baja)"
+          },
+          "coords": [
+            -1.415,
+            41.1145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihre Erkundung, um die imposante mittelalterliche Stadtmauer zu bewundern.",
+            "hu": "Kezdje itt a felfedezést, és csodálja meg a lenyűgöző középkori városfalakat.",
+            "ro": "Începeți explorarea de aici pentru a admira impresionantul zid medieval al orașului.",
+            "en": "Start your exploration here to admire the imposing medieval city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der 20 Röhren",
+            "hu": "A 20 cső kútja",
+            "ro": "Fântâna celor 20 de țevi",
+            "en": "Fountain of 20 Pipes"
+          },
+          "coords": [
+            -1.4166,
+            41.1158
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine einzigartige Quelle mit einer langen Geschichte, ideal für ein schnelles Foto.",
+            "hu": "Egy egyedülálló, nagy múltú forrás, ideális egy gyors fotóhoz.",
+            "ro": "O fântână unică cu o istorie lungă, perfectă pentru o fotografie rapidă.",
+            "en": "A unique fountain with a long history, perfect for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -1.416,
+            41.1165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beachten Sie die Mischung aus romanischen und Mudejar-Stilen in dieser alten Kirche.",
+            "hu": "Figyelje meg a román és a mudéjar stílus keveredését ebben az ősi templomban.",
+            "ro": "Observați amestecul de stiluri romanice și mudejar în această biserică veche.",
+            "en": "Note the mix of Romanesque and Mudejar styles in this ancient church."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Luna",
+            "hu": "Luna-palota",
+            "ro": "Palatul Luna",
+            "en": "Palace of the Luna"
+          },
+          "coords": [
+            -1.4172,
+            41.117
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Mudejar-Palast, der die Geschichte des Gegenpapstes Benedikt XIII. erzählt.",
+            "hu": "Egy mudéjar palota, amely XIII. Benedek ellenpápa történetét meséli el.",
+            "ro": "Un palat mudejar care spune povestea antipapei Benedict al XIII-lea.",
+            "en": "A Mudejar palace that tells the story of the antipope Benedict XIII."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.4168,
+            41.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herzstück von Daroca, Heimat des Wunders der Heiligen Korporale.",
+            "hu": "Daroca szíve, a Szent Korporálék csodájának otthona.",
+            "ro": "Inima orașului Daroca, adăpostind miracolul Sfintelor Trupuri.",
+            "en": "The heart of Daroca, home to the miracle of the Sacred Corporals."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberes Tor (Puerta Alta)",
+            "hu": "Felső kapu (Puerta Alta)",
+            "ro": "Poarta de Sus (Puerta Alta)",
+            "en": "Upper Gate (Puerta Alta)"
+          },
+          "coords": [
+            -1.418,
+            41.1185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt von diesem höchsten Punkt der alten Mauer.",
+            "hu": "Élvezze a város panorámáját a régi fal legmagasabb pontjáról.",
+            "ro": "Bucurați-vă de vederea panoramică a orașului de la acest punct înalt al zidului vechi.",
+            "en": "Enjoy the panoramic views of the town from this highest point of the old wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Daroca",
+            "hu": "Daroca városfala",
+            "ro": "Zidurile orașului Daroca",
+            "en": "City Walls of Daroca"
+          },
+          "coords": [
+            -1.42,
+            41.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang der gut erhaltenen Mauern für ein echtes mittelalterliches Erlebnis.",
+            "hu": "Sétáljon végig a jól megőrzött falakon egy igazi középkori élményért.",
+            "ro": "Faceți o plimbare de-a lungul zidurilor bine conservate pentru o adevărată experiență medievală.",
+            "en": "Take a walk along the well-preserved walls for a true medieval experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Mine von Daroca",
+            "hu": "A darocai bánya",
+            "ro": "Mina din Daroca",
+            "en": "The Mine of Daroca"
+          },
+          "coords": [
+            -1.413,
+            41.112
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Stück Ingenieurskunst aus dem 16. Jahrhundert, das gebaut wurde, um Überschwemmungen zu verhindern.",
+            "hu": "Egy lenyűgöző 16. századi mérnöki alkotás, amelyet az árvizek megakadályozására építettek.",
+            "ro": "O piesă impresionantă de inginerie din secolul al XVI-lea, construită pentru a preveni inundațiile.",
+            "en": "An impressive piece of 16th-century engineering built to prevent floods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am unteren Ende der Stadt an der Puerta Baja. Am Vormittag erkunden Sie die Hauptstraße, bewundern die Kirche San Miguel und den historischen Brunnen. Mittags tauchen Sie in die Geschichte des Luna-Palastes und der Stiftskirche Santa María ein, wo Sie auch zu Mittag essen können. Am Nachmittag steigen Sie zur Puerta Alta und den Stadtmauern auf, um einen Panoramablick zu genießen, bevor Sie Ihren Tag mit der Erkundung des beeindruckenden Minentunnels beenden.",
+        "hu": "Kezdje a napot a város alsó végénél, a Puerta Bajánál. Délelőtt fedezze fel a főutcát, csodálja meg a San Miguel templomot és a történelmi kutat. Délben merüljön el a Luna-palota és a Santa María kollégiumi templom történelmében, ahol ebédelhet is. Délután másszon fel a Puerta Altához és a városfalakhoz a panorámás kilátásért, mielőtt a napot a lenyűgöző bányajárat felfedezésével zárja.",
+        "ro": "Începeți ziua la capătul de jos al orașului, la Puerta Baja. În timpul dimineții, explorați strada principală, admirând Biserica San Miguel și fântâna istorică. La prânz, pătrundeți în istoria Palatului Luna și a Colegiatei Santa María, unde puteți lua și masa. După-amiaza, urcați la Puerta Alta și la zidurile orașului pentru vederi panoramice, înainte de a încheia ziua explorând impresionantul tunel minier.",
+        "en": "Start your day at the lower end of the town at the Puerta Baja. During the morning, explore the main street, admiring the Church of San Miguel and the historic fountain. At noon, delve into the history of the Luna Palace and the Collegiate Church of Santa María, where you can also have lunch. In the afternoon, climb up to the Puerta Alta and the city walls for panoramic views before ending your day exploring the impressive mine tunnel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Probieren Sie dieses zarte Lamm, eine lokale Spezialität, in Restaurants wie dem 'Restaurante Fomper'."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein traditionelles Gericht aus Brotkrumen, Chorizo und Trauben, perfekt für ein herzhaftes Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Kóstolja meg ezt a puha bárányhúst, egy helyi specialitást, olyan éttermekben, mint a 'Restaurante Fomper'."
+          },
+          {
+            "name": "Migas",
+            "tip": "Hagyományos étel zsemlemorzsából, chorizóból és szőlőből, tökéletes egy kiadós ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Încercați acest miel fraged, o specialitate locală, la restaurante precum 'Restaurante Fomper'."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare tradițional făcut din pesmet, chorizo și struguri, perfect pentru un prânz copios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Try this tender lamb, a local specialty, at restaurants like 'Restaurante Fomper'."
+          },
+          {
+            "name": "Migas",
+            "tip": "A traditional dish of breadcrumbs, chorizo, and grapes, perfect for a hearty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang an der Stadtmauer",
+            "tip": "Finden Sie einen ruhigen Abschnitt der Mauern, um die Aussicht auf die Landschaft von Aragonien zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Jiloca-Flusses",
+            "tip": "Ein kurzer Spaziergang aus der Stadt heraus führt Sie zu den friedlichen Ufern des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a városfalon",
+            "tip": "Keressen egy csendes szakaszt a falakon, hogy élvezze az aragóniai vidékre nyíló kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jiloca folyó partja",
+            "tip": "Egy rövid séta a városból a folyó békés partjára vezet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe zidurile orașului",
+            "tip": "Găsiți o secțiune liniștită a zidurilor pentru a vă bucura de priveliștea peisajului aragonez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malurile râului Jiloca",
+            "tip": "O scurtă plimbare în afara orașului vă va duce pe malurile pașnice ale râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk on the City Walls",
+            "tip": "Find a quiet section of the walls to enjoy the views of the Aragonese countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Jiloca River",
+            "tip": "A short walk out of town will take you to the peaceful banks of the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Backwaren",
+            "tip": "Suchen Sie nach 'Mostillo de Daroca' oder anderen lokalen Süßigkeiten in den Bäckereien entlang der Calle Mayor."
+          },
+          {
+            "name": "Handwerk",
+            "tip": "Kleine Geschäfte bieten Keramik und andere von lokalen Handwerkern hergestellte Souvenirs an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi péksütemények",
+            "tip": "Keresse a 'Mostillo de Daroca'-t vagy más helyi édességeket a Calle Mayor mentén található pékségekben."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "A kis boltok kerámiákat és más, helyi kézművesek által készített ajándéktárgyakat kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Căutați 'Mostillo de Daroca' sau alte dulciuri locale în brutăriile de pe Calle Mayor."
+          },
+          {
+            "name": "Artizanat",
+            "tip": "Micile magazine oferă ceramică și alte suveniruri realizate de artizani locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastries",
+            "tip": "Look for 'Mostillo de Daroca' or other local sweets in the bakeries along Calle Mayor."
+          },
+          {
+            "name": "Handicrafts",
+            "tip": "Small shops offer ceramics and other souvenirs made by local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Pflaster uneben sein kann.",
+          "Die Stadt ist hügelig, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Planen Sie mehr Zeit für die Stadtmauern ein, die Aussicht ist es wert."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő egyenetlen lehet.",
+          "A város dombos, ezért készüljön fel néhány emelkedőre.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "Szánjon több időt a városfalakra, a kilátás megéri."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Orașul este deluros, așa că fiți pregătiți pentru câteva urcări.",
+          "Luați multă apă, mai ales în lunile de vară.",
+          "Alocați mai mult timp pentru zidurile orașului, priveliștea merită."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "The town is hilly, so be prepared for some uphill walking.",
+          "Bring plenty of water, especially during the summer months.",
+          "Allow extra time for the city walls; the views are worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unteres Tor (Puerta Baja)",
+            "hu": "Alsó kapu (Puerta Baja)",
+            "ro": "Poarta de Jos (Puerta Baja)",
+            "en": "Lower Gate (Puerta Baja)"
+          },
+          "coords": [
+            -1.415,
+            41.1145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein guter Ausgangspunkt. Sichern Sie Ihr Fahrrad und machen Sie einen kurzen Spaziergang.",
+            "hu": "Jó kiindulópont. Zárja le a kerékpárját, és tegyen egy rövid sétát.",
+            "ro": "Un bun punct de plecare. Asigurați-vă bicicleta și faceți o scurtă plimbare.",
+            "en": "A great starting point. Secure your bike and take a short walk around."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der 20 Röhren",
+            "hu": "A 20 cső kútja",
+            "ro": "Fântâna celor 20 de țevi",
+            "en": "Fountain of 20 Pipes"
+          },
+          "coords": [
+            -1.4166,
+            41.1158
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Füllen Sie hier Ihre Wasserflasche auf, bevor Sie weiterfahren.",
+            "hu": "Töltse fel itt a vizes palackját, mielőtt továbbhaladna.",
+            "ro": "Umpleți-vă sticla de apă aici înainte de a continua.",
+            "en": "Refill your water bottle here before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -1.416,
+            41.1165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Steigen Sie ab und bewundern Sie die architektonischen Details dieser charmanten Kirche.",
+            "hu": "Szálljon le, és csodálja meg ennek a bájos templomnak az építészeti részleteit.",
+            "ro": "Descălecați și admirați detaliile arhitecturale ale acestei biserici fermecătoare.",
+            "en": "Dismount and admire the architectural details of this charming church."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.4168,
+            41.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das spirituelle Zentrum der Stadt. Planen Sie genügend Zeit für einen Besuch ein.",
+            "hu": "A város spirituális központja. Szánjon elegendő időt a látogatásra.",
+            "ro": "Centrul spiritual al orașului. Acordați-vă suficient timp pentru o vizită.",
+            "en": "The spiritual center of the town. Allow ample time for a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberes Tor (Puerta Alta)",
+            "hu": "Felső kapu (Puerta Alta)",
+            "ro": "Poarta de Sus (Puerta Alta)",
+            "en": "Upper Gate (Puerta Alta)"
+          },
+          "coords": [
+            -1.418,
+            41.1185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für die Aussicht. Ein großartiger Ort für eine Pause.",
+            "hu": "A kaptató megéri a kilátásért. Remek hely egy kis szünetre.",
+            "ro": "Urcarea merită pentru priveliște. Un loc minunat pentru o pauză.",
+            "en": "The climb is worth it for the view. A great spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Route entlang der Stadtmauer",
+            "hu": "Útvonal a városfal mentén",
+            "ro": "Traseu de-a lungul zidurilor orașului",
+            "en": "Route along the City Walls"
+          },
+          "coords": [
+            -1.42,
+            41.12
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie einen Teil des Umfangs ab, um die Größe der Befestigungsanlagen zu schätzen. Mittagspause hier.",
+            "hu": "Kerékpározza körbe a kerület egy részét, hogy felmérje az erődítmények méretét. Ebédszünet itt.",
+            "ro": "Pedalați o parte din perimetru pentru a aprecia amploarea fortificațiilor. Pauză de prânz aici.",
+            "en": "Cycle a portion of the perimeter to appreciate the scale of the fortifications. Lunch break here."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Mine von Daroca",
+            "hu": "A darocai bánya",
+            "ro": "Mina din Daroca",
+            "en": "The Mine of Daroca"
+          },
+          "coords": [
+            -1.413,
+            41.112
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radfahren Sie durch diesen einzigartigen Tunnel, ein wirklich unvergessliches Erlebnis.",
+            "hu": "Kerékpározzon át ezen az egyedülálló alagúton, egy igazán emlékezetes élmény.",
+            "ro": "Pedalați prin acest tunel unic, o experiență cu adevărat memorabilă.",
+            "en": "Cycle through this unique tunnel, a truly memorable experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Unteren Tor und fahren Sie die Hauptstraße hinauf. Am Vormittag halten Sie an, um den Brunnen und die Kirche San Miguel zu besichtigen. Gegen Mittag erreichen Sie die Stiftskirche und erklimmen dann den Hügel zum Oberen Tor für eine Mittagspause mit Aussicht. Der Nachmittag ist einer längeren Fahrt entlang der Stadtmauern gewidmet, die im kühlen, historischen Minentunnel gipfelt, einem perfekten Abschluss für einen warmen Tag.",
+        "hu": "Kezdje a kerékpártúrát az Alsó kapunál, és tekerjen fel a főutcán. Délelőtt álljon meg a kútnál és a Szent Mihály-templomnál. Dél felé érje el a kollégiumi templomot, majd másszon fel a dombra a Felső kapuhoz egy kilátással egybekötött ebédszünetre. A délutánt a városfalak menti hosszabb tekerésnek szenteljük, amely a hűvös, történelmi bányajáratban csúcsosodik ki, tökéletes befejezése egy meleg napnak.",
+        "ro": "Începeți turul pe bicicletă de la Poarta de Jos, urcând pe strada principală. În timpul dimineții, opriți-vă pentru a vedea fântâna și Biserica San Miguel. Spre prânz, ajungeți la Colegiată, apoi urcați dealul până la Poarta de Sus pentru o pauză de prânz cu priveliște. După-amiaza este dedicată unei plimbări mai lungi de-a lungul zidurilor orașului, culminând cu tunelul minier răcoros și istoric, un final perfect pentru o zi călduroasă.",
+        "en": "Start your bike tour at the Lower Gate, heading up the main street. During the morning, stop to see the fountain and the Church of San Miguel. Towards noon, reach the Collegiate Church, then climb the hill to the Upper Gate for a lunch break with a view. The afternoon is dedicated to a longer ride along the city walls, culminating in the cool, historic mine tunnel, a perfect end to a warm day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Ein schnelles und leckeres Sandwich, perfekt für ein Picknick während Ihrer Radtour."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Erfrischen Sie sich nach der Fahrt mit einem Craft-Bier aus der Region Aragón."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Gyors és ízletes szendvics, tökéletes piknikhez a kerékpártúra során."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Frissítse fel magát egy aragóniai kézműves sörrel a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "Un sandviș rapid și delicios, perfect pentru un picnic în timpul turului pe bicicletă."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Reîmprospătați-vă după plimbare cu o bere artizanală din regiunea Aragon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Jamón",
+            "tip": "A quick and delicious sandwich, perfect for a picnic during your bike ride."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Refresh yourself after the ride with a craft beer from the Aragon region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel oberhalb der Stadt",
+            "tip": "Fahren Sie zu einem der Hügel rund um Daroca für einen Panoramablick und einen ruhigen Moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Innerhalb der Minen",
+            "tip": "Der Tunnel bietet eine kühle und ruhige Flucht vor der Mittagssonne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombok a város felett",
+            "tip": "Tekerjen fel az egyik Daroca körüli dombra a panorámás kilátásért és egy csendes pillanatért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bányák belsejében",
+            "tip": "Az alagút hűvös és csendes menedéket nyújt a déli nap elől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "Pedalați până la unul dintre dealurile din jurul Daroca pentru o priveliște panoramică și un moment de liniște.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "În interiorul minelor",
+            "tip": "Tunelul oferă o evadare răcoroasă și liniștită de soarele de la amiază.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills above the town",
+            "tip": "Cycle up to one of the hills surrounding Daroca for a panoramic view and a quiet moment.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Inside the Mines",
+            "tip": "The tunnel offers a cool and quiet escape from the midday sun.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist für ihre Weine bekannt. Suchen Sie nach einer Flasche Calatayud-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "A régió híres a borairól. Keressen egy üveg Calatayud bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru vinurile sale. Căutați o sticlă de vin de Calatayud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "The region is known for its wines. Look for a bottle of Calatayud wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt, da es einige steile Abschnitte gibt.",
+          "Ein Mountainbike ist besser geeignet als ein Rennrad für die unterschiedlichen Geländeformen.",
+          "Achten Sie auf Fußgänger in den engen Gassen der Altstadt.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a fékeket, mivel vannak meredek szakaszok.",
+          "A hegyikerékpár alkalmasabb, mint az országúti kerékpár a változatos terepviszonyokhoz.",
+          "Vigyázzon a gyalogosokra a régi város szűk utcáin.",
+          "Mindig zárja le a kerékpárját, ha leteszi."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de a coborî, deoarece există câteva secțiuni abrupte.",
+          "O bicicletă de munte este mai potrivită decât una de șosea pentru terenul variat.",
+          "Fiți atenți la pietoni pe străzile înguste ale orașului vechi.",
+          "Încuiți-vă întotdeauna bicicleta atunci când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your brakes before descending, as there are some steep sections.",
+          "A mountain bike is more suitable than a road bike for the varied terrain.",
+          "Be mindful of pedestrians on the narrow streets of the old town.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Oberen Tor (Puerta Alta)",
+            "hu": "Parkoló a Felső kapunál (Puerta Alta)",
+            "ro": "Parcare la Poarta de Sus (Puerta Alta)",
+            "en": "Parking at the Upper Gate (Puerta Alta)"
+          },
+          "coords": [
+            -1.4182,
+            41.1187
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den oberen Teil der Stadt zu erkunden. Dies ist Ihr erster Cluster.",
+            "hu": "Parkoljon itt a város felső részének felfedezéséhez. Ez az első állomás-csoport.",
+            "ro": "Parcați aici pentru a explora partea superioară a orașului. Acesta este primul dvs. cluster.",
+            "en": "Park here to explore the upper part of the town. This is your first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.4168,
+            41.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum spirituellen Herzen von Daroca.",
+            "hu": "Rövid séta a parkolótól Daroca spirituális szívéhez.",
+            "ro": "O scurtă plimbare de la parcare la inima spirituală a Daroca.",
+            "en": "A short walk from the parking spot to the spiritual heart of Daroca."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Luna",
+            "hu": "Luna-palota",
+            "ro": "Palatul Luna",
+            "en": "Palace of the Luna"
+          },
+          "coords": [
+            -1.4172,
+            41.117
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie bergab, um diesen wichtigen Mudejar-Palast zu finden.",
+            "hu": "Sétáljon lefelé, hogy megtalálja ezt a fontos mudéjar palotát.",
+            "ro": "Mergeți la vale pentru a găsi acest important palat mudejar.",
+            "en": "Walk downhill to find this important Mudejar palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz am Unteren Tor (Puerta Baja)",
+            "hu": "Parkoló az Alsó kapunál (Puerta Baja)",
+            "ro": "Parcare la Poarta de Jos (Puerta Baja)",
+            "en": "Parking at the Lower Gate (Puerta Baja)"
+          },
+          "coords": [
+            -1.4148,
+            41.1143
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:12",
+          "stay_min": 10,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum unteren Teil der Stadt und parken Sie. Dies ist Ihr zweiter Cluster für den Tag.",
+            "hu": "Vezessen le a város alsó részébe, és parkoljon le. Ez a második állomás-csoport a mai napon.",
+            "ro": "Conduceți spre partea inferioară a orașului și parcați. Acesta este al doilea cluster pentru ziua respectivă.",
+            "en": "Drive to the lower part of town and park. This is your second cluster for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel & Brunnen",
+            "hu": "Szent Mihály-templom és Kút",
+            "ro": "Biserica San Miguel și Fântâna",
+            "en": "Church of San Miguel & Fountain"
+          },
+          "coords": [
+            -1.416,
+            41.116
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beiden nahe gelegenen Sehenswürdigkeiten und essen Sie in der Gegend zu Mittag.",
+            "hu": "Fedezze fel ezt a két közeli látnivalót, és ebédeljen a környéken.",
+            "ro": "Explorați aceste două atracții din apropiere și luați prânzul în zonă.",
+            "en": "Explore these two nearby attractions and have lunch in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Laguna de Gallocanta (Aussichtspunkt)",
+            "hu": "Gallocanta-lagúna (kilátó)",
+            "ro": "Laguna Gallocanta (Punct de observare)",
+            "en": "Gallocanta Lagoon (Viewpoint)"
+          },
+          "coords": [
+            -1.5,
+            40.9667
+          ],
+          "category": "lake",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zu einem der wichtigsten Feuchtgebiete Europas, berühmt für seine Kraniche.",
+            "hu": "Egy rövid autóút Európa egyik legfontosabb vizes élőhelyéhez, amely a darvairól híres.",
+            "ro": "O scurtă călătorie cu mașina până la una dintre cele mai importante zone umede din Europa, renumită pentru cocorii săi.",
+            "en": "A short drive to one of Europe's most important wetlands, famous for its cranes."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a városfalon",
+            "ro": "Plimbare pe zidurile orașului",
+            "en": "Walk on the City Walls"
+          },
+          "coords": [
+            -1.42,
+            41.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie nach Daroca zurück für einen abschließenden Spaziergang auf den herrlichen Mauern bei Sonnenuntergang.",
+            "hu": "Térjen vissza Darocába egy utolsó sétára a csodálatos falakon naplementekor.",
+            "ro": "Întoarceți-vă la Daroca pentru o plimbare finală pe zidurile magnifice la apus.",
+            "en": "Return to Daroca for a final walk on the magnificent walls at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie am Oberen Tor parken, um den ersten Cluster zu erkunden: die Stiftskirche und den Luna-Palast. Am Vormittag fahren Sie dann zum Unteren Tor für Ihren zweiten Cluster, wo Sie die Kirche San Miguel besuchen und zu Mittag essen. Der Nachmittag ist einem Ausflug zur nahegelegenen Laguna de Gallocanta gewidmet, einem Paradies für Vogelbeobachter. Sie kehren nach Daroca zurück für einen letzten Spaziergang auf den historischen Mauern, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a Felső kapunál parkolva, hogy felfedezze az első látnivalócsoportot: a kollégiumi templomot és a Luna-palotát. Délelőtt vezessen le az Alsó kapuhoz a második látnivalócsoporthoz, meglátogatva a Szent Mihály-templomot és elfogyasztva ebédjét. A délután egy kirándulás a közeli Gallocanta-lagúnához, a madármegfigyelők paradicsomához. Térjen vissza Darocába egy utolsó sétára a történelmi falakon naplemente idején.",
+        "ro": "Începeți ziua parcând la Poarta de Sus pentru a explora primul cluster: Colegiata și Palatul Luna. Apoi, la jumătatea dimineții, conduceți la Poarta de Jos pentru al doilea cluster, vizitând Biserica San Miguel și luând prânzul. După-amiaza este dedicată unei excursii la Laguna Gallocanta din apropiere, un paradis pentru observatorii de păsări. Vă întoarceți la Daroca pentru o plimbare finală pe zidurile istorice la apus.",
+        "en": "Start your day by parking at the Upper Gate to explore the first cluster: the Collegiate Church and the Luna Palace. Then, mid-morning, drive to the Lower Gate for your second cluster, visiting the Church of San Miguel and having lunch. The afternoon is dedicated to a trip to the nearby Gallocanta Lagoon, a paradise for birdwatchers. You return to Daroca for a final walk on the historic walls as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Legido",
+            "tip": "Bekannt für seine traditionelle aragonesische Küche und seine Lage an der Hauptstraße."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Ein abenteuerliches Gericht für Feinschmecker, gefüllter Lammdarm, in lokalen Bars zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Legido",
+            "tip": "Híres a hagyományos aragóniai konyhájáról és a főutcán való elhelyezkedéséről."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Kalandos étel az ínyenceknek, töltött báránybél, helyi bárokban található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Legido",
+            "tip": "Renumit pentru bucătăria sa tradițională aragoneză și locația sa pe strada principală."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "Un fel de mâncare aventuros pentru gurmanzi, intestine de miel umplute, găsit în barurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Legido",
+            "tip": "Known for its traditional Aragonese cuisine and its location on the main street."
+          },
+          {
+            "name": "Chiretas",
+            "tip": "An adventurous dish for foodies, stuffed lamb intestines, found in local bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Laguna de Gallocanta",
+            "tip": "Die Stille des Sees, nur unterbrochen von den Rufen der Vögel, ist zutiefst friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von den Mauern",
+            "tip": "Finden Sie einen Turm auf der Westseite für einen unvergesslichen Sonnenuntergang über Aragon.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gallocanta-lagúna",
+            "tip": "A tó csendje, amelyet csak a madarak kiáltásai szakítanak meg, mélységesen békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a falakról",
+            "tip": "Keressen egy tornyot a nyugati oldalon egy felejthetetlen naplementéhez Aragónia felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laguna Gallocanta",
+            "tip": "Liniștea lacului, întreruptă doar de chemările păsărilor, este profund pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe ziduri",
+            "tip": "Găsiți un turn pe partea de vest pentru un apus de soare de neuitat peste Aragon.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallocanta Lagoon",
+            "tip": "The silence of the lake, broken only by the calls of birds, is deeply peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the walls",
+            "tip": "Find a tower on the west side for an unforgettable sunset over Aragon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus Aragon",
+            "tip": "Suchen Sie nach lokal hergestelltem Olivenöl, einem Grundnahrungsmittel der regionalen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aragóniai olívaolaj",
+            "tip": "Keressen helyben előállított olívaolajat, a regionális konyha alapanyagát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline din Aragon",
+            "tip": "Căutați ulei de măsline produs local, un element de bază al bucătăriei regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aragonese Olive Oil",
+            "tip": "Look for locally produced olive oil, a staple of the regional cuisine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann in der Hochsaison schwierig sein, kommen Sie also früh.",
+          "Einige Straßen in der Altstadt sind sehr eng oder für den Verkehr gesperrt.",
+          "Überprüfen Sie die Öffnungszeiten für die Laguna de Gallocanta, da sie saisonabhängig sein können.",
+          "Die Straßen in der Umgebung sind gut, aber achten Sie auf landwirtschaftliche Fahrzeuge."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet a főszezonban, ezért érkezzen korán.",
+          "Néhány utca az óvárosban nagyon szűk vagy le van zárva a forgalom elől.",
+          "Ellenőrizze a Gallocanta-lagúna nyitvatartási idejét, mivel az szezonális lehet.",
+          "A környező utak jók, de vigyázzon a mezőgazdasági járművekre."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în sezonul de vârf, așa că ajungeți devreme.",
+          "Unele străzi din orașul vechi sunt foarte înguste sau închise traficului.",
+          "Verificați orele de deschidere pentru Laguna Gallocanta, deoarece acestea pot fi sezoniere.",
+          "Drumurile din jur sunt bune, dar fiți atenți la vehiculele agricole."
+        ],
+        "en": [
+          "Parking can be tricky during peak season, so arrive early.",
+          "Some streets in the old town are very narrow or closed to traffic.",
+          "Check the opening times for the Gallocanta Lagoon visitor center as they can be seasonal.",
+          "The surrounding roads are good, but be aware of farm vehicles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Daroca (in der Nähe der Puerta Baja)",
+            "hu": "Érkezés a darocai buszpályaudvarra (a Puerta Baja közelében)",
+            "ro": "Sosire la stația de autobuz Daroca (lângă Puerta Baja)",
+            "en": "Arrival at Daroca Bus Station (near Puerta Baja)"
+          },
+          "coords": [
+            -1.4145,
+            41.114
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im unteren Teil der Stadt. Der erste Cluster ist zu Fuß erreichbar.",
+            "hu": "Kezdje a napot a város alsó részén. Az első látnivalócsoport gyalogosan is elérhető.",
+            "ro": "Începeți ziua în partea de jos a orașului. Primul cluster este accesibil pe jos.",
+            "en": "Start your day in the lower part of town. The first cluster is within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der 20 Röhren",
+            "hu": "A 20 cső kútja",
+            "ro": "Fântâna celor 20 de țevi",
+            "en": "Fountain of 20 Pipes"
+          },
+          "coords": [
+            -1.4166,
+            41.1158
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zu diesem historischen Treffpunkt.",
+            "hu": "Rövid séta a buszmegállótól ehhez a történelmi találkozóhelyhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la acest punct de întâlnire istoric.",
+            "en": "A short walk from the bus stop to this historic meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Miguel",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica San Miguel",
+            "en": "Church of San Miguel"
+          },
+          "coords": [
+            -1.416,
+            41.1165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Spaziergang bergauf fort, um diese schöne Mudejar-Kirche zu erreichen.",
+            "hu": "Folytassa sétáját felfelé, hogy elérje ezt a gyönyörű mudéjar templomot.",
+            "ro": "Continuați plimbarea la deal pentru a ajunge la această frumoasă biserică mudejar.",
+            "en": "Continue your walk uphill to reach this beautiful Mudejar church."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Puerta Alta (hypothetischer Shuttle)",
+            "hu": "Utazás a Puerta Altához (feltételezett shuttle)",
+            "ro": "Călătorie spre Puerta Alta (navetă ipotetică)",
+            "en": "Ride to Puerta Alta (hypothetical shuttle)"
+          },
+          "coords": [
+            -1.418,
+            41.1185
+          ],
+          "category": "transit",
+          "arrive_at": "11:21",
+          "stay_min": 10,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus oder ein Taxi, um den steilen Aufstieg zum oberen Teil der Stadt zu vermeiden.",
+            "hu": "Vegyen igénybe helyi buszt vagy taxit, hogy elkerülje a meredek emelkedőt a város felső részébe.",
+            "ro": "Luați un autobuz local sau un taxi pentru a evita urcarea abruptă spre partea superioară a orașului.",
+            "en": "Take a local bus or taxi to avoid the steep climb to the upper part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Santa María",
+            "hu": "Santa María kollégiumi templom",
+            "ro": "Colegiata Santa María",
+            "en": "Collegiate Church of Santa María"
+          },
+          "coords": [
+            -1.4168,
+            41.118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Hauptanziehungspunkt im oberen Stadtteil. Planen Sie hier auch Ihre Mittagspause ein.",
+            "hu": "A felső városrész fő vonzereje. Itt tervezze be az ebédszünetet is.",
+            "ro": "Atracția principală din partea superioară a orașului. Planificați-vă și pauza de prânz aici.",
+            "en": "The main attraction in the upper town. Plan your lunch break around here too."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Stadtmauer",
+            "hu": "Séta a városfalon",
+            "ro": "Plimbare pe zidurile orașului",
+            "en": "Walk on the City Walls"
+          },
+          "coords": [
+            -1.42,
+            41.12
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 165,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie den Rest des Nachmittags mit der Erkundung der weitläufigen Mauern, bevor Sie zurück zur Bushaltestelle gehen.",
+            "hu": "Töltse a délután hátralévő részét a kiterjedt falak felfedezésével, mielőtt visszasétálna a buszmegállóba.",
+            "ro": "Petreceți restul după-amiezii explorând zidurile întinse înainte de a vă întoarce la stația de autobuz.",
+            "en": "Spend the rest of the afternoon exploring the extensive walls before walking back to the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft am Busbahnhof erkunden Sie den unteren Teil von Daroca zu Fuß, einschließlich des berühmten Brunnens und der Kirche San Miguel. Gegen Mittag nehmen Sie ein Nahverkehrsmittel zum oberen Teil der Stadt, um den steilen Aufstieg zu vermeiden. Dort besichtigen Sie die prächtige Stiftskirche und essen zu Mittag. Der Nachmittag ist einem ausgedehnten Spaziergang auf den mittelalterlichen Mauern gewidmet, von wo aus Sie einen atemberaubenden Blick haben, bevor Sie Ihre Rückreise antreten.",
+        "hu": "A buszpályaudvarra érkezés után gyalog fedezze fel Daroca alsó részét, beleértve a híres kutat és a Szent Mihály-templomot. Dél felé vegyen igénybe egy helyi közlekedési eszközt a város felső részébe, hogy elkerülje a meredek emelkedőt. Ott látogassa meg a csodálatos kollégiumi templomot és ebédeljen meg. A délután egy hosszú sétát tesz a középkori falakon, ahonnan lenyűgöző kilátás nyílik, mielőtt elindulna vissza.",
+        "ro": "După sosirea la stația de autobuz, explorați pe jos partea de jos a orașului Daroca, inclusiv faimoasa fântână și Biserica San Miguel. Spre prânz, luați un mijloc de transport local spre partea superioară a orașului pentru a evita urcarea abruptă. Acolo, vizitați magnifica Colegiată și luați prânzul. După-amiaza este dedicată unei plimbări extinse pe zidurile medievale, bucurându-vă de priveliști uluitoare înainte de a vă întoarce.",
+        "en": "Upon arrival at the bus station, explore the lower part of Daroca on foot, including the famous fountain and the Church of San Miguel. Around noon, take a local transit option to the upper part of town to avoid the steep climb. There, you'll visit the magnificent Collegiate Church and have lunch. The afternoon is dedicated to an extensive walk on the medieval walls, enjoying breathtaking views before making your way back for your departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastas del Peregrino",
+            "tip": "Traditionelles Gebäck, das oft von Pilgern auf dem Weg nach Santiago gegessen wird."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Probieren Sie einen lokalen Landwein, der perfekt zu den herzhaften Gerichten der Region passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastas del Peregrino",
+            "tip": "Hagyományos sütemény, amelyet gyakran fogyasztanak a Santiago felé tartó zarándokok."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Kóstoljon meg egy helyi tájbort, amely tökéletesen illik a régió kiadós ételeihez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastas del Peregrino",
+            "tip": "Produse de patiserie tradiționale, adesea consumate de pelerinii în drum spre Santiago."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Încercați un vin local de țară, perfect pentru a acompania mâncărurile consistente ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastas del Peregrino",
+            "tip": "Traditional pastries often eaten by pilgrims on the way to Santiago."
+          },
+          {
+            "name": "Vino de la Tierra",
+            "tip": "Try a local 'country wine', perfect to accompany the hearty dishes of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche San Juan de la Cuesta",
+            "tip": "Eine etwas abgelegene romanische Kirche, die einen ruhigen Rückzugsort bietet.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick vom Castillo Mayor",
+            "tip": "Klettern Sie über die Mauern hinaus zu den Burgruinen für absolute Einsamkeit und die beste Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Juan de la Cuesta templom",
+            "tip": "Egy kissé félreeső román stílusú templom, amely csendes menedéket nyújt.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás a Castillo Mayorból",
+            "tip": "Másszon fel a falakon túl a várromokhoz a teljes magányért és a legjobb kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica San Juan de la Cuesta",
+            "tip": "O biserică romanică puțin izolată, care oferă un refugiu liniștit.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Vedere de la Castillo Mayor",
+            "tip": "Urcați dincolo de ziduri până la ruinele castelului pentru singurătate absolută și cele mai bune priveliști.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of San Juan de la Cuesta",
+            "tip": "A slightly out-of-the-way Romanesque church offering a quiet retreat.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from the Castillo Mayor",
+            "tip": "Climb beyond the walls to the castle ruins for absolute solitude and the best views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Töpferwaren aus Muel",
+            "tip": "Halten Sie Ausschau nach der charakteristischen blau-grünen Keramik aus dem nahe gelegenen Dorf Muel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mueli kerámia",
+            "tip": "Keresse a közeli Muel faluból származó jellegzetes kék-zöld kerámiát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică de Muel",
+            "tip": "Căutați ceramica distinctivă albastru-verde din satul din apropiere, Muel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Muel Pottery",
+            "tip": "Look for the distinctive blue-green pottery from the nearby village of Muel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen begrenzt sein können.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, aber die Stadt ist steil.",
+          "Ein 'Menú del día' ist eine gute und preiswerte Option für das Mittagessen.",
+          "Fragen Sie im Tourismusbüro nach Karten und Informationen zu lokalen Bussen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel a járatok korlátozottak lehetnek.",
+          "A legtöbb látnivaló gyalogosan elérhető, de a város meredek.",
+          "A 'Menú del día' jó és megfizethető ebédlehetőség.",
+          "Kérjen térképet és információt a helyi buszokról a turisztikai irodában."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece serviciile pot fi limitate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, dar orașul este abrupt.",
+          "Un 'Menú del día' este o opțiune bună și economică pentru prânz.",
+          "Cereți hărți și informații despre autobuzele locale la biroul de turism."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services might be limited.",
+          "Most attractions are within walking distance, but the town is steep.",
+          "A 'Menú del día' (menu of the day) is a great value option for lunch.",
+          "Ask at the tourist office for maps and information on any local shuttles."
+        ]
+      }
+    }
+  }
+}

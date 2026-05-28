@@ -1,0 +1,973 @@
+{
+  "city_id": "uk-warrington-cities-v2",
+  "anchor": {
+    "name": "Warrington",
+    "coords": [
+      53.3901,
+      -2.597
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Warrington",
+            "hu": "Warringtoni városháza",
+            "ro": "Primăria Warrington",
+            "en": "Warrington Town Hall"
+          },
+          "coords": [
+            -2.596,
+            53.3925
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "St. Elphin's Kirche",
+            "hu": "Szent Elphin-templom",
+            "ro": "Biserica Sf. Elphin",
+            "en": "St Elphin's Church"
+          },
+          "coords": [
+            -2.585,
+            53.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Warrington Museum & Kunstgalerie",
+            "hu": "Warringtoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Warrington",
+            "en": "Warrington Museum & Art Gallery"
+          },
+          "coords": [
+            -2.593,
+            53.391
+          ],
+          "category": "museums",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Parr Hall",
+            "hu": "Parr Hall",
+            "ro": "Parr Hall",
+            "en": "Parr Hall"
+          },
+          "coords": [
+            -2.595,
+            53.389
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Warrington Schwebefähre",
+            "hu": "Warringtoni szállítóhíd",
+            "ro": "Podul Transportor Warrington",
+            "en": "Warrington Transporter Bridge"
+          },
+          "coords": [
+            -2.601,
+            53.38
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1
+        },
+        {
+          "name": {
+            "de": "Sankey Valley Park",
+            "hu": "Sankey Valley Park",
+            "ro": "Parcul Sankey Valley",
+            "en": "Sankey Valley Park"
+          },
+          "coords": [
+            -2.62,
+            53.395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am prächtigen Rathaus, einem Symbol des städtischen Stolzes. Mittags tauchen Sie im Museum in die lokale Geschichte ein, gefolgt von einem Blick auf die industrielle Vergangenheit an der Schwebefähre. Der Nachmittag ist für einen erholsamen Spaziergang im Sankey Valley Park reserviert, der eine grüne Oase bietet. Schließen Sie den Tag mit einem wohlverdienten Abendessen in einem der gemütlichen Pubs der Stadt ab.",
+        "hu": "Kezdje a napot a csodálatos Városházánál, a városi büszkeség szimbólumánál. Délben merüljön el a helyi történelemben a múzeumban, majd tekintse meg az ipari múltat a szállítóhídnál. A délután egy pihentető sétára van fenntartva a Sankey Valley Parkban, amely zöld menedéket nyújt. Zárja a napot egy jól megérdemelt vacsorával a város egyik hangulatos pubjában.",
+        "ro": "Începeți ziua la magnificul Primărie, un simbol al mândriei civice. La prânz, pătrundeți în istoria locală la muzeu, urmat de o privire asupra trecutului industrial la Podul Transportor. După-amiaza este rezervată pentru o plimbare relaxantă în Parcul Sankey Valley, care oferă un refugiu verde. Încheiați ziua cu o cină binemeritată la unul dintre pub-urile primitoare ale orașului.",
+        "en": "Start your day at the magnificent Town Hall, a symbol of civic pride. At midday, delve into local history at the museum, followed by a glimpse into the industrial past at the Transporter Bridge. The afternoon is reserved for a relaxing walk in Sankey Valley Park, offering a green escape. Conclude the day with a well-deserved dinner at one of the city's cozy pubs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cheshire Käse",
+            "tip": "Probieren Sie diesen krümeligen, würzigen Käse, eine lokale Spezialität."
+          },
+          {
+            "name": "The Barley Mow",
+            "tip": "Ein traditioneller Pub, der herzhafte britische Gerichte und lokale Biere serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cheshire sajt",
+            "tip": "Kóstolja meg ezt a morzsás, pikáns sajtot, egy helyi különlegességet."
+          },
+          {
+            "name": "The Barley Mow",
+            "tip": "Hagyományos pub, ahol kiadós brit ételeket és helyi söröket szolgálnak fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Cheshire",
+            "tip": "Încercați această brânză sfărâmicioasă și acidulată, o specialitate locală."
+          },
+          {
+            "name": "The Barley Mow",
+            "tip": "Un pub tradițional care servește mâncăruri britanice consistente și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheshire Cheese",
+            "tip": "Try this crumbly, tangy cheese, a local specialty."
+          },
+          {
+            "name": "The Barley Mow",
+            "tip": "A traditional pub serving hearty British fare and local ales."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Mersey",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine Pause vom städtischen Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Elphin's Kirchhof",
+            "tip": "Finden Sie einen Moment der Ruhe in der friedlichen Umgebung der historischen Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mersey-folyó partja",
+            "tip": "Egy csendes séta a folyó mentén kikapcsolódást nyújt a városi nyüzsgésből."
+          },
+          {
+            "name": "Szent Elphin-templom kertje",
+            "tip": "Találjon egy békés pillanatot a történelmi templom nyugodt környezetében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Mersey",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o pauză de la agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Bisericii Sf. Elphin",
+            "tip": "Găsiți un moment de liniște în împrejurimile pașnice ale bisericii istorice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the River Mersey",
+            "tip": "A quiet stroll along the river offers a break from the urban bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St Elphin's Churchyard",
+            "tip": "Find a moment of peace in the tranquil surroundings of the historic church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Warrington Market",
+            "tip": "Ein pulsierender Innenmarkt mit einer Vielzahl von Ständen, von Lebensmitteln bis hin zu Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Warringtoni piac",
+            "tip": "Élénk fedett piac, ahol sokféle stand található, az élelmiszerektől a kézműves termékekig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Warrington",
+            "tip": "O piață interioară vibrantă, cu o varietate de tarabe, de la mâncare la artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Warrington Market",
+            "tip": "A vibrant indoor market with a variety of stalls, from food to crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus.",
+          "Die Schwebefähre ist ein Denkmal und nicht in Betrieb; sie ist am besten aus der Ferne zu bewundern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét.",
+          "A szállítóhíd egy műemlék és nem működik; a legjobb távolról megcsodálni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans programul de funcționare al muzeului.",
+          "Podul Transportor este un monument și nu este operațional; cel mai bine este admirat de la distanță."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the museum's opening times in advance.",
+          "The Transporter Bridge is a monument and not operational; it's best admired from a distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sankey Valley Park",
+            "hu": "Sankey Valley Park",
+            "ro": "Parcul Sankey Valley",
+            "en": "Sankey Valley Park"
+          },
+          "coords": [
+            -2.62,
+            53.395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rathaus von Warrington",
+            "hu": "Warringtoni városháza",
+            "ro": "Primăria Warrington",
+            "en": "Warrington Town Hall"
+          },
+          "coords": [
+            -2.596,
+            53.3925
+          ],
+          "category": "landmark",
+          "arrive_at": "10:43",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Warrington Museum & Kunstgalerie",
+            "hu": "Warringtoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Warrington",
+            "en": "Warrington Museum & Art Gallery"
+          },
+          "coords": [
+            -2.593,
+            53.391
+          ],
+          "category": "museums",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Walton Hall & Gärten",
+            "hu": "Walton Hall és kertek",
+            "ro": "Walton Hall și Grădinile",
+            "en": "Walton Hall & Gardens"
+          },
+          "coords": [
+            -2.59,
+            53.36
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:17",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Grappenhall Heys ummauerter Garten",
+            "hu": "Grappenhall Heys fallal körülvett kert",
+            "ro": "Grădina cu ziduri Grappenhall Heys",
+            "en": "Grappenhall Heys Walled Garden"
+          },
+          "coords": [
+            -2.55,
+            53.37
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "St. Elphin's Kirche",
+            "hu": "Szent Elphin-templom",
+            "ro": "Biserica Sf. Elphin",
+            "en": "St Elphin's Church"
+          },
+          "coords": [
+            -2.585,
+            53.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit einer Erfrischung im Sankey Valley Park. Fahren Sie dann ins Stadtzentrum, um die architektonische Eleganz des Rathauses und die kulturellen Schätze des Museums zu bewundern. Am Nachmittag entfliehen Sie der städtischen Landschaft und radeln zu den prächtigen Anwesen von Walton Hall und dem ruhigen ummauerten Garten in Grappenhall Heys. Beenden Sie Ihre Tour mit einem besinnlichen Besuch der historischen St. Elphin's Kirche.",
+        "hu": "Kezdje a kerékpáros napot egy frissítővel a Sankey Valley Parkban. Ezután tekerjen be a városközpontba, hogy megcsodálja a Városháza építészeti eleganciáját és a múzeum kulturális kincseit. Délután meneküljön el a városi táj elől, és kerékpározzon el a Walton Hall csodálatos birtokához és a Grappenhall Heys csendes, fallal körülvett kertjéhez. Zárja a túrát egy elmélkedő látogatással a történelmi Szent Elphin-templomban.",
+        "ro": "Începeți ziua de ciclism cu o gură de aer proaspăt în Parcul Sankey Valley. Apoi, pedalați spre centrul orașului pentru a admira eleganța arhitecturală a Primăriei și comorile culturale ale muzeului. După-amiaza, evadați din peisajul urban pedalând spre domeniul splendid Walton Hall și grădina liniștită cu ziduri din Grappenhall Heys. Încheiați turul cu o vizită contemplativă la istorica Biserică Sf. Elphin.",
+        "en": "Start your cycling day with a refreshing loop in Sankey Valley Park. Then, pedal into the town centre to admire the architectural elegance of the Town Hall and the cultural treasures at the museum. In the afternoon, escape the urban landscape by cycling to the splendid estate of Walton Hall and the tranquil walled garden at Grappenhall Heys. Finish your tour with a contemplative visit to the historic St Elphin's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Stretton Fox",
+            "tip": "Ein charmanter Pub in der Nähe von Walton Hall, ideal für ein Mittagessen auf dem Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Stretton Fox",
+            "tip": "Bájos pub a Walton Hall közelében, ideális egy vidéki ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Stretton Fox",
+            "tip": "Un pub fermecător lângă Walton Hall, perfect pentru un prânz la țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Stretton Fox",
+            "tip": "A charming pub near Walton Hall, perfect for a countryside lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sankey Canal",
+            "tip": "Folgen Sie dem historischen Kanalpfad für eine friedliche Fahrt abseits der Straßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sankey-csatorna",
+            "tip": "Kövesse a történelmi csatorna ösvényét egy békés utazásért az utaktól távol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Sankey",
+            "tip": "Urmați poteca istorică a canalului pentru o plimbare liniștită, departe de drumuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sankey Canal",
+            "tip": "Follow the historic canal path for a peaceful ride away from the roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Halten Sie auf Ihren ländlichen Radwegen Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi farmboltok",
+            "tip": "A vidéki kerékpárútvonalakon figyeljen a helyi termékeket árusító farmboltokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă locale",
+            "tip": "Fiți atenți la magazinele de fermă care vând produse locale de-a lungul traseelor de ciclism rurale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Shops",
+            "tip": "Keep an eye out for farm shops selling local produce along your rural cycling routes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Radwege können ländlich sein; stellen Sie sicher, dass Ihr Fahrrad für gemischtes Gelände geeignet ist.",
+          "Nehmen Sie Wasser und Snacks mit, besonders für die längeren Strecken außerhalb der Stadt.",
+          "Schließen Sie Ihr Fahrrad an den Hauptattraktionen sicher ab."
+        ],
+        "hu": [
+          "Néhány kerékpárút vidéki lehet; győződjön meg róla, hogy kerékpárja alkalmas vegyes terepre.",
+          "Vigyen magával vizet és rágcsálnivalót, különösen a városon kívüli hosszabb szakaszokra.",
+          "Zárja le biztonságosan a kerékpárját a főbb látnivalóknál."
+        ],
+        "ro": [
+          "Unele trasee de ciclism pot fi rurale; asigurați-vă că bicicleta este potrivită pentru teren mixt.",
+          "Luați apă și gustări, în special pentru porțiunile mai lungi din afara orașului.",
+          "Asigurați-vă bicicleta în mod corespunzător la atracțiile principale."
+        ],
+        "en": [
+          "Some cycle paths can be rural; ensure your bike is suitable for mixed terrain.",
+          "Carry water and snacks, especially for the longer stretches outside the town.",
+          "Lock your bike securely at major attractions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 20.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Walton Hall & Gärten",
+            "hu": "Walton Hall és kertek",
+            "ro": "Walton Hall și Grădinile",
+            "en": "Walton Hall & Gardens"
+          },
+          "coords": [
+            -2.59,
+            53.36
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Gyermek állatkert",
+            "ro": "Grădina Zoologică pentru Copii",
+            "en": "Children's Zoo"
+          },
+          "coords": [
+            -2.592,
+            53.362
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Grappenhall Heys ummauerter Garten",
+            "hu": "Grappenhall Heys fallal körülvett kert",
+            "ro": "Grădina cu ziduri Grappenhall Heys",
+            "en": "Grappenhall Heys Walled Garden"
+          },
+          "coords": [
+            -2.55,
+            53.37
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Rathaus von Warrington (Stadtzentrum Cluster)",
+            "hu": "Warringtoni városháza (városközponti klaszter)",
+            "ro": "Primăria Warrington (Cluster Centru Oraș)",
+            "en": "Warrington Town Hall (Town Centre Cluster)"
+          },
+          "coords": [
+            -2.596,
+            53.3925
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 20,
+          "hop_mode": "car",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 15
+        },
+        {
+          "name": {
+            "de": "Warrington Museum & Kunstgalerie",
+            "hu": "Warringtoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Warrington",
+            "en": "Warrington Museum & Art Gallery"
+          },
+          "coords": [
+            -2.593,
+            53.391
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Parr Hall",
+            "hu": "Parr Hall",
+            "ro": "Parr Hall",
+            "en": "Parr Hall"
+          },
+          "coords": [
+            -2.595,
+            53.389
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:33",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "St. Elphin's Kirche",
+            "hu": "Szent Elphin-templom",
+            "ro": "Biserica Sf. Elphin",
+            "en": "St Elphin's Church"
+          },
+          "coords": [
+            -2.585,
+            53.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Erkundung der weitläufigen Walton Hall & Gärten, einem perfekten Start auf dem Land. Mittags fahren Sie nach Grappenhall Heys, um den ruhigen ummauerten Garten zu genießen. Am Nachmittag parken Sie im Stadtzentrum und erkunden zu Fuß ein Cluster von Attraktionen: das Rathaus, das Museum, die Parr Hall und die historische St. Elphin's Kirche. Diese Mischung aus Fahren und Gehen bietet das Beste aus beiden Welten.",
+        "hu": "Kezdje a napot a tágas Walton Hall & Gardens felfedezésével, ami tökéletes vidéki kezdés. Délben autózzon el Grappenhall Heys-be, hogy élvezze a csendes, fallal körülvett kertet. Délután parkoljon le a városközpontban, és fedezze fel gyalogosan a látnivalók egy csoportját: a Városházát, a Múzeumot, a Parr Hall-t és a történelmi Szent Elphin-templomot. Ez a vezetés és séta keveréke mindkét világból a legjobbat nyújtja.",
+        "ro": "Începeți ziua explorând domeniul întins Walton Hall & Gardens, un început perfect la țară. La prânz, conduceți spre Grappenhall Heys pentru a vă bucura de liniștea grădinii cu ziduri. După-amiaza, parcați în centrul orașului și explorați pe jos un grup de atracții: Primăria, Muzeul, Parr Hall și istorica Biserică Sf. Elphin. Acest amestec de condus și mers pe jos oferă ce e mai bun din ambele lumi.",
+        "en": "Start your day exploring the sprawling Walton Hall & Gardens, a perfect countryside start. At midday, drive to Grappenhall Heys to enjoy the tranquil walled garden. In the afternoon, park in the town centre and explore a cluster of attractions on foot: the Town Hall, the Museum, Parr Hall, and the historic St Elphin's Church. This mix of driving and walking gives you the best of both worlds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "The Walton Arms",
+            "tip": "Genießen Sie ein herzhaftes Mittagessen in diesem Pub in der Nähe von Walton Hall, bevor Sie ins Stadtzentrum fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Walton Arms",
+            "tip": "Élvezzen egy kiadós ebédet ebben a Walton Hall közelében lévő pubban, mielőtt a városközpontba indulna."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Walton Arms",
+            "tip": "Bucurați-vă de un prânz consistent la acest pub de lângă Walton Hall înainte de a vă îndrepta spre centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Walton Arms",
+            "tip": "Enjoy a hearty lunch at this pub near Walton Hall before heading into the town centre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ziergärten in Walton Hall",
+            "tip": "Verlieren Sie sich in den wunderschön gepflegten Gärten für einen Moment des Friedens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Walton Hall díszkertjei",
+            "tip": "Vesszen el a gyönyörűen gondozott kertekben egy békés pillanatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Ornamentale de la Walton Hall",
+            "tip": "Pierdeți-vă în grădinile frumos întreținute pentru un moment de pace.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ornamental Gardens at Walton Hall",
+            "tip": "Get lost in the beautifully manicured gardens for a moment of peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Golden Square Shopping Centre",
+            "tip": "Wenn Sie im Stadtzentrum parken, ist dies Ihr One-Stop-Shop für alle wichtigen Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Golden Square Bevásárlóközpont",
+            "tip": "Ha a városközpontban parkol, ez az egyablakos ügyintézés helye a főbb bevásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Golden Square",
+            "tip": "Dacă parcați în centrul orașului, acesta este magazinul unic pentru orice nevoie de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Golden Square Shopping Centre",
+            "tip": "If you're parked in the town centre, this is your one-stop-shop for any major retail needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie Parkplätze im Voraus, besonders im Stadtzentrum.",
+          "Die Straßen um Warrington können während der Stoßzeiten stark befahren sein; planen Sie zusätzliche Reisezeit ein.",
+          "Der 'Cluster'-Ansatz spart Parkgebühren und Stress."
+        ],
+        "hu": [
+          "Tervezze meg előre a parkolást, különösen a városközpontban.",
+          "A Warrington körüli utak csúcsidőben forgalmasak lehetnek; tervezzen extra utazási időt.",
+          "A „klaszter” megközelítés parkolási díjakat és stresszt takarít meg."
+        ],
+        "ro": [
+          "Planificați parcarea în avans, în special în centrul orașului.",
+          "Drumurile din jurul Warrington pot fi aglomerate în timpul orelor de vârf; alocați timp suplimentar de călătorie.",
+          "Abordarea 'cluster' economisește taxe de parcare și stres."
+        ],
+        "en": [
+          "Plan your parking in advance, especially for the town centre.",
+          "Roads around Warrington can be busy during peak hours; allow extra travel time.",
+          "The 'cluster' approach saves on parking fees and stress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Warrington (Stadtzentrum Cluster)",
+            "hu": "Warringtoni városháza (városközponti klaszter)",
+            "ro": "Primăria Warrington (Cluster Centru Oraș)",
+            "en": "Warrington Town Hall (Town Centre Cluster)"
+          },
+          "coords": [
+            -2.596,
+            53.3925
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Warrington Museum & Kunstgalerie",
+            "hu": "Warringtoni Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Warrington",
+            "en": "Warrington Museum & Art Gallery"
+          },
+          "coords": [
+            -2.593,
+            53.391
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "St. Elphin's Kirche",
+            "hu": "Szent Elphin-templom",
+            "ro": "Biserica Sf. Elphin",
+            "en": "St Elphin's Church"
+          },
+          "coords": [
+            -2.585,
+            53.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Sankey Valley Park (Westen Cluster)",
+            "hu": "Sankey Valley Park (nyugati klaszter)",
+            "ro": "Parcul Sankey Valley (Cluster Vest)",
+            "en": "Sankey Valley Park (West Cluster)"
+          },
+          "coords": [
+            -2.62,
+            53.395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Warrington Schwebefähre (Süden Cluster)",
+            "hu": "Warringtoni szállítóhíd (déli klaszter)",
+            "ro": "Podul Transportor Warrington (Cluster Sud)",
+            "en": "Warrington Transporter Bridge (South Cluster)"
+          },
+          "coords": [
+            -2.601,
+            53.38
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4
+        },
+        {
+          "name": {
+            "de": "Parr Hall",
+            "hu": "Parr Hall",
+            "ro": "Parr Hall",
+            "en": "Parr Hall"
+          },
+          "coords": [
+            -2.595,
+            53.389
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit den öffentlichen Verkehrsmitteln im Stadtzentrum. Erkunden Sie zu Fuß das Rathaus, das Museum und die St. Elphin's Kirche. Mittags nehmen Sie einen Bus zum weitläufigen Sankey Valley Park für eine Dosis Natur. Am Nachmittag bringt Sie eine weitere Busfahrt zur industriellen Ikone, der Schwebefähre, bevor Sie den Tag mit einem kurzen Spaziergang zur Parr Hall für einen Hauch von Kultur beenden.",
+        "hu": "Kezdje a napot a városközpontban tömegközlekedéssel. Fedezze fel gyalog a Városházát, a Múzeumot és a Szent Elphin-templomot. Délben szálljon buszra a tágas Sankey Valley Parkba egy adag természetért. Délután egy újabb buszút visz az ipari ikonhoz, a szállítóhídhoz, mielőtt egy rövid sétával a Parr Hallhoz érve egy kis kultúrával zárná a napot.",
+        "ro": "Începeți ziua folosind transportul public în centrul orașului. Explorați pe jos Primăria, Muzeul și Biserica Sf. Elphin. La prânz, luați un autobuz spre întinsul Parc Sankey Valley pentru o doză de natură. După-amiaza, o altă călătorie cu autobuzul vă duce la iconicul industrial, Podul Transportor, înainte de a încheia ziua cu o scurtă plimbare la Parr Hall pentru o notă de cultură.",
+        "en": "Start your day using transit in the town centre, exploring the Town Hall, Museum, and St Elphin's Church on foot. At midday, catch a bus to the expansive Sankey Valley Park for a dose of nature. In the afternoon, another bus ride takes you to the industrial icon, the Transporter Bridge, before finishing with a short walk back to Parr Hall for a touch of culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Warrington Market",
+            "tip": "Schnappen Sie sich einen schnellen und leckeren Happen auf dem Markt in der Nähe des Busbahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a Warringtoni piacon",
+            "tip": "Kapjon be egy gyors, ízletes falatot a piacon, közel a buszpályaudvarhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea în Piața Warrington",
+            "tip": "Luați o gustare rapidă și gustoasă la piață, lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café at Warrington Market",
+            "tip": "Grab a quick, tasty bite at the market near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank im Sankey Valley Park",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Welt an sich vorbeiziehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Sankey Valley Parkban",
+            "tip": "Keressen egy csendes padot, és nézze a világot elsuhanni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Sankey Valley",
+            "tip": "Găsiți o bancă liniștită și priviți lumea cum trece.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Sankey Valley Park",
+            "tip": "Find a quiet bench and watch the world go by.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Bridge Street",
+            "tip": "Stöbern Sie durch die Geschäfte in der Nähe des zentralen Busknotenpunkts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bridge Street üzletei",
+            "tip": "Böngésszen a központi buszpályaudvar közelében lévő üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de pe Bridge Street",
+            "tip": "Răsfoiți magazinele din apropierea nodului central de autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bridge Street Shops",
+            "tip": "Browse the shops near the central bus interchange."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus für unbegrenzte Fahrten.",
+          "Laden Sie eine lokale Bus-App herunter, um die Fahrpläne in Echtzeit zu verfolgen.",
+          "Beachten Sie, dass die Busse abends seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Töltsön le egy helyi buszalkalmazást a valós idejű menetrendek követéséhez.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Descărcați o aplicație locală de autobuz pentru a urmări orarele în timp real.",
+          "Fiți conștienți că frecvența autobuzelor poate scădea seara."
+        ],
+        "en": [
+          "Purchase a day rider bus ticket for unlimited travel.",
+          "Download a local bus app to track real-time schedules.",
+          "Be aware that bus frequency might decrease in the evening."
+        ]
+      }
+    }
+  }
+}

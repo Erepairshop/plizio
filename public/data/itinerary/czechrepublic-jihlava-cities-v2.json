@@ -1,0 +1,1280 @@
+{
+  "city_id": "czechrepublic-jihlava-cities-v2",
+  "anchor": {
+    "name": "Iglau",
+    "coords": [
+      15.5912,
+      49.3961
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            15.5912,
+            49.3961
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Stadtleben.",
+            "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
+            "en": "Start your day here with a coffee and watch the city life."
+          }
+        },
+        {
+          "name": {
+            "de": "Jihlavaer Katakomben",
+            "hu": "Iglói katakombák",
+            "ro": "Catacombele din Jihlava",
+            "en": "Jihlava Catacombs"
+          },
+          "coords": [
+            15.59,
+            49.3955
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um die geheimnisvolle leuchtende Wand zu sehen.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy lássa a titokzatosan világító falat.",
+            "ro": "Participați la un tur ghidat pentru a vedea peretele fosforescent misterios.",
+            "en": "Take a guided tour to see the mysterious glowing wall."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobus-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St. James the Greater Church"
+          },
+          "coords": [
+            15.5925,
+            49.397
+          ],
+          "category": "churches",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustav-Mahler-Haus",
+            "hu": "Gustav Mahler-ház",
+            "ro": "Casa Gustav Mahler",
+            "en": "Gustav Mahler House"
+          },
+          "coords": [
+            15.5905,
+            49.394
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Liebhaber klassischer Musik, um in das Leben des Komponisten einzutauchen.",
+            "hu": "A klasszikus zene kedvelőinek kötelező, hogy elmerüljenek a zeneszerző életében.",
+            "ro": "O vizită obligatorie pentru iubitorii de muzică clasică pentru a pătrunde în viața compozitorului.",
+            "en": "A must for classical music lovers to dive into the composer's life."
+          }
+        },
+        {
+          "name": {
+            "de": "Frauentor (Brána Matky Boží)",
+            "hu": "Miasszonyunk-kapu",
+            "ro": "Poarta Maicii Domnului",
+            "en": "Gate of the Mother of God"
+          },
+          "coords": [
+            15.593,
+            49.4005
+          ],
+          "category": "castles",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Stadttor ist ein perfekter Ort für ein Erinnerungsfoto.",
+            "hu": "Az egyetlen megmaradt városkapu, tökéletes hely egy emlékfotóhoz.",
+            "ro": "Singura poartă a orașului care s-a păstrat, un loc perfect pentru o fotografie.",
+            "en": "The only remaining city gate is a perfect spot for a souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer Jihlava",
+            "hu": "Iglói városfal",
+            "ro": "Zidurile orașului Jihlava",
+            "en": "Jihlava City Walls"
+          },
+          "coords": [
+            15.594,
+            49.3995
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der restaurierten Abschnitte und stellen Sie sich das mittelalterliche Leben vor.",
+            "hu": "Sétáljon végig a felújított szakaszokon, és képzelje el a középkori életet.",
+            "ro": "Plimbați-vă de-a lungul secțiunilor restaurate și imaginați-vă viața medievală.",
+            "en": "Stroll along the restored sections and imagine medieval life."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Jihlava",
+            "hu": "Jihlavai Állatkert",
+            "ro": "Grădina Zoologică Jihlava",
+            "en": "Jihlava Zoo"
+          },
+          "coords": [
+            15.578,
+            49.408
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "15:00",
+          "stay_min": 125,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den afrikanischen Pavillon und die Raubtierfütterungen.",
+            "hu": "Ne hagyja ki az afrikai pavilont és a ragadozók etetését.",
+            "ro": "Nu ratați pavilionul african și hrănirea animalelor de pradă.",
+            "en": "Don't miss the African pavilion and the predator feeding times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am pulsierenden Masaryk-Platz, dem Herzen von Iglau. Tauchen Sie am Vormittag in die Geschichte ein, indem Sie die mysteriösen Katakomben und die hoch aufragende St.-Jakobus-Kirche erkunden. Der Nachmittag ist der Kultur und den mittelalterlichen Befestigungsanlagen gewidmet. Sie besuchen das Haus, in dem Gustav Mahler seine Jugend verbrachte, und spazieren dann entlang der alten Stadtmauern zum ikonischen Frauentor. Den Abschluss bildet ein entspannter Besuch im Zoo, der nur einen kurzen Spaziergang entfernt liegt.",
+        "hu": "Kezdje sétáját a nyüzsgő Masaryk téren, Igló szívében. Délelőtt merüljön el a történelemben a titokzatos katakombák és a magasba törő Szent Jakab-templom felfedezésével. A délután a kultúráé és a középkori erődítményeké. Meglátogatja a házat, ahol Gustav Mahler a fiatalságát töltötte, majd a régi városfalak mentén az ikonikus Miasszonyunk-kapuhoz sétál. A napot egy pihentető látogatással zárja az állatkertben, amely egy rövid sétára található.",
+        "ro": "Începeți plimbarea în vibranta Piață Masaryk, inima orașului Jihlava. Dimineața, scufundați-vă în istorie explorând misterioasele catacombe și impunătoarea Biserică Sfântul Iacob. După-amiaza este dedicată culturii și fortificațiilor medievale, vizitând casa unde Gustav Mahler și-a petrecut tinerețea, apoi plimbându-vă de-a lungul vechilor ziduri ale orașului până la iconica Poartă a Maicii Domnului. Încheiați cu o vizită relaxantă la grădina zoologică, aflată la o scurtă plimbare.",
+        "en": "Start your walk in the vibrant Masaryk Square, the heart of Jihlava. In the morning, delve into history by exploring the mysterious catacombs and the towering St. James the Greater Church. The afternoon is dedicated to culture and medieval fortifications, visiting the house where Gustav Mahler spent his youth, then strolling along the old city walls to the iconic Gate of the Mother of God. Conclude with a relaxing visit to the Zoo, just a pleasant walk away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bramborák",
+            "tip": "Probieren Sie diesen traditionellen Kartoffelpuffer auf einem der Marktstände."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Genießen Sie dieses Lendenbraten-Gericht in einem traditionellen Restaurant wie dem Radniční restaurace."
+          },
+          {
+            "name": "Pivo Ježek",
+            "tip": "Kosten Sie das lokale Bier, das direkt in Jihlava gebraut wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bramborák",
+            "tip": "Kóstolja meg ezt a hagyományos krumplilángost az egyik piaci standnál."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Élvezze ezt a vadasmarhát egy hagyományos étteremben, mint a Radniční restaurace."
+          },
+          {
+            "name": "Ježek sör",
+            "tip": "Kóstolja meg a helyi sört, amelyet Jihlavában főznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bramborák",
+            "tip": "Încercați această clătită tradițională de cartofi la una dintre tarabele din piață."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Savurați acest mușchi de vită în sos de smântână la un restaurant tradițional precum Radniční restaurace."
+          },
+          {
+            "name": "Berea Ježek",
+            "tip": "Gustați berea locală, produsă chiar în Jihlava."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bramborák",
+            "tip": "Try this traditional potato pancake from one of the market stalls."
+          },
+          {
+            "name": "Svíčková na smetaně",
+            "tip": "Enjoy this beef sirloin in cream sauce at a traditional restaurant like Radniční restaurace."
+          },
+          {
+            "name": "Ježek Beer",
+            "tip": "Taste the local beer, brewed right in Jihlava."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heuloser Waldpark",
+            "tip": "Ein ruhiger Ort für einen Spaziergang in der Natur, südlich des Zentrums.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ufer des Flusses Jihlava",
+            "tip": "Finden Sie eine Bank am Flussufer und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Innenhof des Gustav-Mahler-Hauses",
+            "tip": "Ein kleiner, friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heulosi erdőpark",
+            "tip": "Csendes hely egy természetközeli sétához, a központtól délre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jihlava folyó partja",
+            "tip": "Keressen egy padot a folyóparton, és élvezze a csendet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Gustav Mahler-ház udvara",
+            "tip": "Egy apró, békés hely, ahol elmenekülhet a város nyüzsgése elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul forestier Heulos",
+            "tip": "Un loc liniștit pentru o plimbare în natură, la sud de centru.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Jihlava",
+            "tip": "Găsiți o bancă pe malul râului și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Casei Gustav Mahler",
+            "tip": "Un loc mic și pașnic pentru a evada din agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heulos Forest Park",
+            "tip": "A quiet place for a walk in nature, just south of the center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Banks of the Jihlava River",
+            "tip": "Find a bench by the riverbank and enjoy the tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Courtyard of the Gustav Mahler House",
+            "tip": "A small, peaceful spot to escape the city bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte am Masaryk-Platz",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den Hauptplatz nach lokalen Handwerksprodukten."
+          },
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie frische Produkte und lokale Spezialitäten auf dem Markt (prüfen Sie die Termine)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a Masaryk téren",
+            "tip": "Böngésszen a főtér körüli kis üzletekben helyi kézműves termékekért."
+          },
+          {
+            "name": "Termelői piac",
+            "tip": "Vásároljon friss termékeket és helyi specialitásokat a piacon (ellenőrizze a napokat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Piața Masaryk",
+            "tip": "Căutați produse artizanale locale în micile magazine din jurul pieței principale."
+          },
+          {
+            "name": "Piața fermierilor",
+            "tip": "Cumpărați produse proaspete și specialități locale de la piață (verificați programul)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops on Masaryk Square",
+            "tip": "Browse the small shops around the main square for local handicrafts."
+          },
+          {
+            "name": "Farmers' Market",
+            "tip": "Buy fresh produce and local specialties at the market (check for dates)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Hauptattraktionen befinden sich in unmittelbarer Nähe zueinander.",
+          "Nehmen Sie sich Zeit für einen Kaffee in einem der vielen Cafés am Hauptplatz.",
+          "Der Spaziergang zum Zoo ist angenehm, aber planen Sie genügend Zeit ein."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskakő az óvárosban egyenetlen lehet.",
+          "A legtöbb fő látnivaló sétatávolságra van egymástól.",
+          "Szánjon időt egy kávéra a főtér egyik kávézójában.",
+          "Az állatkertbe vezető séta kellemes, de tervezzen rá elegendő időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor principale sunt la mică distanță de mers pe jos una de cealaltă.",
+          "Luați-vă timp pentru o cafea la una dintre numeroasele cafenele din piața principală.",
+          "Plimbarea până la grădina zoologică este plăcută, dar planificați-vă suficient timp."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most of the main attractions are within easy walking distance of each other.",
+          "Take time for a coffee at one of the many cafes on the main square.",
+          "The walk to the zoo is pleasant, but allow enough time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masaryk-Platz",
+            "hu": "Masaryk tér",
+            "ro": "Piața Masaryk",
+            "en": "Masaryk Square"
+          },
+          "coords": [
+            15.5912,
+            49.3961
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
+            "ro": "Legați-vă bicicleta și explorați piața pe jos.",
+            "en": "Lock up your bike and explore the square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer Jihlava & Frauentor",
+            "hu": "Iglói városfal és Miasszonyunk-kapu",
+            "ro": "Zidurile orașului Jihlava & Poarta Maicii Domnului",
+            "en": "Jihlava City Walls & Gate of the Mother of God"
+          },
+          "coords": [
+            15.594,
+            49.4005
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie einen Teil des Weges entlang der Mauern, um ein Gefühl für die Größe zu bekommen.",
+            "hu": "Tekerjen egy szakaszon a falak mentén, hogy átérezze a méretüket.",
+            "ro": "Mergeți cu bicicleta pe o porțiune de-a lungul zidurilor pentru a vă face o idee despre dimensiunea lor.",
+            "en": "Ride a section along the walls to get a feel for their scale."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobus-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St. James the Greater Church"
+          },
+          "coords": [
+            15.5925,
+            49.397
+          ],
+          "category": "churches",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die gotische Architektur zu bewundern, bevor es weitergeht.",
+            "hu": "Egy rövid megálló a gótikus építészet megcsodálására, mielőtt továbbhaladna.",
+            "ro": "O scurtă oprire pentru a admira arhitectura gotică înainte de a merge mai departe.",
+            "en": "A quick stop to admire the Gothic architecture before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Jihlava",
+            "hu": "Jihlavai Állatkert",
+            "ro": "Grădina Zoologică Jihlava",
+            "en": "Jihlava Zoo"
+          },
+          "coords": [
+            15.578,
+            49.408
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "11:51",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein angenehmer Ausflug vom Stadtzentrum. Es gibt Fahrradständer am Eingang.",
+            "hu": "Kellemes kiruccanás a városközpontból. A bejáratnál kerékpártárolók találhatók.",
+            "ro": "O excursie plăcută din centrul orașului. Există suporturi pentru biciclete la intrare.",
+            "en": "A pleasant ride from the city center. There are bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Fluss Jihlava",
+            "hu": "Ebéd a Jihlava folyó partján",
+            "ro": "Prânz pe malul râului Jihlava",
+            "en": "Lunch by the Jihlava River"
+          },
+          "coords": [
+            15.58,
+            49.405
+          ],
+          "category": "gastro",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Terrasse in der Nähe des Zoos am Flussufer.",
+            "hu": "Keressen egy teraszos éttermet az állatkert közelében a folyóparton.",
+            "ro": "Găsiți un restaurant cu terasă lângă grădina zoologică, pe malul râului.",
+            "en": "Find a restaurant with a terrace near the zoo on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Jihlavaer Katakomben",
+            "hu": "Iglói katakombák",
+            "ro": "Catacombele din Jihlava",
+            "en": "Jihlava Catacombs"
+          },
+          "coords": [
+            15.59,
+            49.3955
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 82,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit diesem unterirdischen Highlight, nachdem Sie die Stadt oberirdisch erkundet haben.",
+            "hu": "Fejezze be a túrát ezzel a földalatti látványossággal, miután felfedezte a felszíni várost.",
+            "ro": "Încheiați turul cu această atracție subterană după ce ați explorat orașul la suprafață.",
+            "en": "End your tour with this underground highlight after exploring the city above ground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad für eine dynamische Tour durch Iglau. Beginnen Sie am Masaryk-Platz, fahren Sie dann zu den beeindruckenden Stadtmauern und dem Frauentor. Eine kurze Fahrt bringt Sie zur St.-Jakobus-Kirche. Am späten Vormittag radeln Sie aus der Stadt hinaus zum beliebten Zoo. Nach dem Mittagessen am Flussufer kehren Sie ins Zentrum zurück, um das Abenteuer mit einer Erkundung der geheimnisvollen Katakomben abzuschließen.",
+        "hu": "Pattanjon kerékpárra egy dinamikus iglói túrához. Kezdjen a Masaryk téren, majd tekerjen el a lenyűgöző városfalakhoz és a Miasszonyunk-kapuhoz. Egy rövid út után a Szent Jakab-templomhoz ér. Késő délelőtt hagyja el a várost a népszerű állatkert felé. A folyóparti ebéd után térjen vissza a központba, hogy a kalandot a titokzatos katakombák felfedezésével zárja.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur dinamic al orașului Jihlava. Începeți din Piața Masaryk, apoi mergeți la impunătoarele ziduri ale orașului și la Poarta Maicii Domnului. O scurtă plimbare vă duce la Biserica Sf. Iacob. Spre sfârșitul dimineții, ieșiți din oraș cu bicicleta spre populara grădină zoologică. După prânzul pe malul râului, reveniți în centru pentru a încheia aventura cu o explorare a misterioaselor catacombe.",
+        "en": "Hop on your bike for a dynamic tour of Jihlava. Start at Masaryk Square, then ride to the impressive city walls and the Gate of the Mother of God. A short ride takes you to St. James's Church. In the late morning, cycle out of the city to the popular Zoo. After lunch by the river, return to the center to finish the adventure by exploring the mysterious catacombs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trdelník",
+            "tip": "Ein süßer Genuss, den man oft an Ständen in der Nähe von Touristenattraktionen findet."
+          },
+          {
+            "name": "Pivovarská restaurace",
+            "tip": "Ein großartiger Ort für ein herzhaftes Mittagessen und ein frisch gebrautes Bier nach der Radtour."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Eine schnelle und leckere gegrillte Wurst von einem Straßenverkäufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trdelník (Kürtőskalács)",
+            "tip": "Édes finomság, amelyet gyakran találni a turisztikai látványosságok közelében lévő standoknál."
+          },
+          {
+            "name": "Pivovarská étterem",
+            "tip": "Nagyszerű hely egy kiadós ebédhez és egy frissen főzött sörhöz a kerékpártúra után."
+          },
+          {
+            "name": "Klobása (kolbász)",
+            "tip": "Egy gyors és finom grillezett kolbász egy utcai árustól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trdelník",
+            "tip": "Un deliciu dulce găsit adesea la standurile de lângă atracțiile turistice."
+          },
+          {
+            "name": "Restaurantul Pivovarská",
+            "tip": "Un loc minunat pentru un prânz consistent și o bere proaspăt preparată după turul cu bicicleta."
+          },
+          {
+            "name": "Klobása",
+            "tip": "Un cârnat la grătar rapid și gustos de la un vânzător ambulant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trdelník",
+            "tip": "A sweet treat often found at stalls near tourist attractions."
+          },
+          {
+            "name": "Pivovarská Restaurant",
+            "tip": "A great spot for a hearty lunch and a freshly brewed beer after your bike ride."
+          },
+          {
+            "name": "Klobása",
+            "tip": "A quick and tasty grilled sausage from a street vendor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Fluss Jihlava",
+            "tip": "Genießen Sie eine ruhige Fahrt entlang des Flusses, weg vom Stadtverkehr.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park am Zoo",
+            "tip": "Auch außerhalb des Zoos gibt es Grünflächen zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Jihlava folyó mentén",
+            "tip": "Élvezze a csendes tekerést a folyó mentén, távol a városi forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park az állatkertnél",
+            "tip": "Az állatkerten kívül is vannak zöld területek a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Jihlava",
+            "tip": "Bucurați-vă de o plimbare liniștită de-a lungul râului, departe de traficul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul de lângă Grădina Zoologică",
+            "tip": "Chiar și în afara grădinii zoologice, există spații verzi pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Jihlava River",
+            "tip": "Enjoy a quiet ride along the river, away from city traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park near the Zoo",
+            "tip": "Even outside the zoo, there are green areas to relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Wenn Sie Ausrüstung benötigen, gibt es in Jihlava mehrere Fahrrad- und Sportgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Ha felszerelésre van szüksége, Jihlavában több kerékpár- és sportbolt is található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Dacă aveți nevoie de echipament, există mai multe magazine de biciclete și sport în Jihlava."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "If you need any gear, there are several bike and sports shops in Jihlava."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf das Kopfsteinpflaster im Stadtzentrum.",
+          "Jihlava und Umgebung sind hügelig, seien Sie auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die ausgewiesenen Radwege, wo immer es möglich ist.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders an belebten Orten."
+        ],
+        "hu": [
+          "Vigyázzon a macskakőre a városközpontban.",
+          "Jihlava és környéke dombos, készüljön fel néhány emelkedőre.",
+          "Használja a kijelölt kerékpárutakat, ahol csak lehetséges.",
+          "Mindig zárja le jól a kerékpárját, különösen a forgalmas helyeken."
+        ],
+        "ro": [
+          "Fiți atenți la pavajul din centrul orașului.",
+          "Jihlava și împrejurimile sale sunt deluroase, fiți pregătiți pentru câteva urcări.",
+          "Folosiți pistele de biciclete desemnate ori de câte ori este posibil.",
+          "Asigurați-vă întotdeauna bicicleta corespunzător, mai ales în locurile aglomerate."
+        ],
+        "en": [
+          "Be careful with the cobblestones in the city center.",
+          "Jihlava and its surroundings are hilly, be prepared for some climbs.",
+          "Use designated bike paths wherever possible.",
+          "Always lock your bike securely, especially in busy areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Frühstück im Zentrum",
+            "hu": "Parkolás és reggeli a központban",
+            "ro": "Parcare și mic dejun în centru",
+            "en": "Parking and Breakfast in the Center"
+          },
+          "coords": [
+            15.595,
+            49.395
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in einem der Parkhäuser in der Nähe des Zentrums und starten Sie mit einem Frühstück.",
+            "hu": "Parkoljon le a központ közeli parkolóházak egyikében, és kezdje a napot egy reggelivel.",
+            "ro": "Parcați într-una dintre parcările din apropierea centrului și începeți ziua cu micul dejun.",
+            "en": "Park in one of the parking garages near the center and start with breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Masaryk-Platz & St.-Jakobus-Kirche",
+            "hu": "Masaryk tér és Szent Jakab-templom",
+            "ro": "Piața Masaryk & Biserica Sf. Iacob",
+            "en": "Masaryk Square & St. James's Church"
+          },
+          "coords": [
+            15.5915,
+            49.3965
+          ],
+          "category": "squares",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der erste Spaziergang des Tages. Erklimmen Sie den Turm der Kirche für die Aussicht.",
+            "hu": "A nap első sétája. Másszon fel a templom tornyába a kilátásért.",
+            "ro": "Prima plimbare a zilei. Urcați în turnul bisericii pentru priveliște.",
+            "en": "The first walk of the day. Climb the church tower for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Jihlavaer Katakomben",
+            "hu": "Iglói katakombák",
+            "ro": "Catacombele din Jihlava",
+            "en": "Jihlava Catacombs"
+          },
+          "coords": [
+            15.59,
+            49.3955
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Platz aus unter die Erde, um dieses faszinierende Labyrinth zu erkunden.",
+            "hu": "A térről induljon a föld alá, hogy felfedezze ezt a lenyűgöző labirintust.",
+            "ro": "De la piață, coborâți în subteran pentru a explora acest labirint fascinant.",
+            "en": "From the square, head underground to explore this fascinating labyrinth."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Jihlava",
+            "hu": "Jihlavai Állatkert",
+            "ro": "Grădina Zoologică Jihlava",
+            "en": "Jihlava Zoo"
+          },
+          "coords": [
+            15.578,
+            49.408
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "12:50",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Zoo und verbringen Sie hier den Mittag. Es gibt genügend Parkplätze.",
+            "hu": "Vezessen az állatkerthez, és töltse itt a déli időszakot. Elegendő parkolóhely van.",
+            "ro": "Conduceți la grădina zoologică și petreceți-vă amiaza aici. Există suficiente locuri de parcare.",
+            "en": "Drive to the zoo and spend the middle of your day here. There is ample parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer Jihlava",
+            "hu": "Iglói városfal",
+            "ro": "Zidurile orașului Jihlava",
+            "en": "Jihlava City Walls"
+          },
+          "coords": [
+            15.594,
+            49.3995
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem anderen Teil der Stadt, um die alten Befestigungsanlagen zu besichtigen.",
+            "hu": "Vezessen a város egy másik részébe, hogy megnézze a régi erődítményeket.",
+            "ro": "Conduceți spre o altă parte a orașului pentru a vedea vechile fortificații.",
+            "en": "Drive to another part of the city to see the old fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Frauentor (Brána Matky Boží)",
+            "hu": "Miasszonyunk-kapu",
+            "ro": "Poarta Maicii Domnului",
+            "en": "Gate of the Mother of God"
+          },
+          "coords": [
+            15.593,
+            49.4005
+          ],
+          "category": "castles",
+          "arrive_at": "16:30",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Spaziergang zu diesem ikonischen Tor.",
+            "hu": "Fejezze be a túrát egy sétával ehhez az ikonikus kapuhoz.",
+            "ro": "Încheiați turul cu o plimbare până la această poartă emblematică.",
+            "en": "End your tour with a walk to this iconic gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser auto-optimierte Tag kombiniert Fahrten mit Spaziergängen. Beginnen Sie, indem Sie im Zentrum parken und zu Fuß den Masaryk-Platz, die St.-Jakobus-Kirche und die Katakomben erkunden (Cluster A). Am Mittag fahren Sie zum Zoo (Cluster B) für ein paar Stunden voller Tierbeobachtungen. Am Nachmittag fahren Sie zurück in die Stadt, parken erneut und erkunden zu Fuß die alten Stadtmauern und das Frauentor (Cluster C), um einen Einblick in die mittelalterliche Vergangenheit der Stadt zu erhalten.",
+        "hu": "Ez az autóra optimalizált nap a vezetést sétákkal kombinálja. Kezdje a központban parkolással, majd fedezze fel gyalog a Masaryk teret, a Szent Jakab-templomot és a katakombákat (A klaszter). Délben vezessen az állatkerthez (B klaszter) egy pár órás állatlesre. Délután vezessen vissza a városba, parkoljon le újra, és fedezze fel gyalog a régi városfalakat és a Miasszonyunk-kaput (C klaszter), hogy bepillantást nyerjen a város középkori múltjába.",
+        "ro": "Această zi optimizată pentru mașină combină condusul cu plimbările. Începeți prin a parca în centru și a explora pe jos Piața Masaryk, Biserica Sf. Iacob și catacombele (Cluster A). La prânz, conduceți la grădina zoologică (Cluster B) pentru câteva ore de observare a animalelor. După-amiaza, conduceți înapoi în oraș, parcați din nou și explorați pe jos zidurile vechi ale orașului și Poarta Maicii Domnului (Cluster C) pentru o privire în trecutul medieval al orașului.",
+        "en": "This car-optimized day combines driving with walking clusters. Start by parking in the center and exploring Masaryk Square, St. James's Church, and the catacombs on foot (Cluster A). At midday, drive to the Zoo (Cluster B) for a couple of hours of animal watching. In the afternoon, drive back towards the city, park again, and explore the old city walls and the Gate of the Mother of God on foot (Cluster C) for a glimpse into the city's medieval past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant U Vévody",
+            "tip": "Ein gutes Ziel für traditionelle tschechische Küche nach dem Erkunden des Stadtzentrums."
+          },
+          {
+            "name": "Café am Zoo",
+            "tip": "Praktisch für einen Snack oder ein Mittagessen während Ihres Zoobesuchs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Vévody étterem",
+            "tip": "Jó választás a hagyományos cseh konyhához a városközpont felfedezése után."
+          },
+          {
+            "name": "Kávézó az állatkertben",
+            "tip": "Praktikus egy harapnivalóhoz vagy ebédhez az állatkerti látogatás során."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant U Vévody",
+            "tip": "O destinație bună pentru bucătăria tradițională cehă după explorarea centrului orașului."
+          },
+          {
+            "name": "Cafenea la ZOO",
+            "tip": "Convenabil pentru o gustare sau prânz în timpul vizitei la grădina zoologică."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Vévody Restaurant",
+            "tip": "A good destination for traditional Czech cuisine after exploring the city center."
+          },
+          {
+            "name": "Café at the Zoo",
+            "tip": "Convenient for a snack or lunch during your zoo visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Malý Heulos",
+            "tip": "Ein Park etwas außerhalb des Zentrums, leicht mit dem Auto erreichbar für eine kurze Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malý Heulos",
+            "tip": "Egy park kissé a központon kívül, autóval könnyen megközelíthető egy rövid szünetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malý Heulos",
+            "tip": "Un parc chiar în afara centrului, ușor accesibil cu mașina pentru o scurtă pauză.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Malý Heulos",
+            "tip": "A park just outside the center, easily reachable by car for a quick break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City Park Jihlava",
+            "tip": "Ein Einkaufszentrum am Stadtrand, wenn Sie größere Einkäufe erledigen müssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Park Jihlava",
+            "tip": "Bevásárlóközpont a város szélén, ha nagyobb bevásárlást kell intéznie."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City Park Jihlava",
+            "tip": "Un centru comercial la marginea orașului dacă trebuie să faceți cumpărături mai mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park Jihlava",
+            "tip": "A shopping mall on the outskirts of town if you need to do some major shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen und -gebühren im Stadtzentrum.",
+          "Die Navigation in der Altstadt kann eng sein; Parken am Rand ist oft einfacher.",
+          "Ein Auto ermöglicht es Ihnen, den Zoo leicht zu erreichen, der etwas außerhalb des Zentrums liegt.",
+          "Planen Sie Ihre Cluster, um das Umsteigen und Parken zu minimieren."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási zónákra és díjakra a városközpontban.",
+          "Az óvárosban a navigáció szűkös lehet; a szélén parkolni gyakran egyszerűbb.",
+          "Az autóval könnyen elérhető az állatkert, amely kissé a központon kívül található.",
+          "Tervezze meg a klasztereket a felesleges autózás és parkolás minimalizálása érdekében."
+        ],
+        "ro": [
+          "Fiți atenți la zonele de parcare și la taxe în centrul orașului.",
+          "Navigarea în orașul vechi poate fi dificilă; parcarea la periferie este adesea mai ușoară.",
+          "O mașină vă permite să ajungeți cu ușurință la grădina zoologică, care este puțin în afara centrului.",
+          "Planificați-vă clusterele pentru a minimiza deplasarea și parcarea."
+        ],
+        "en": [
+          "Be aware of parking zones and fees in the city center.",
+          "Navigating the old town can be tight; parking on the edge is often easier.",
+          "A car allows you to easily reach the zoo, which is a bit outside the center.",
+          "Plan your clusters to minimize driving and re-parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Masaryk-Platz",
+            "hu": "Érkezés a Masaryk térre",
+            "ro": "Sosire în Piața Masaryk",
+            "en": "Arrival at Masaryk Square"
+          },
+          "coords": [
+            15.5912,
+            49.3961
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Straßenbahn zum Hauptplatz, um Ihren Tag zu beginnen.",
+            "hu": "Indítsa a napot egy busszal vagy villamossal a főtérre.",
+            "ro": "Luați un autobuz sau un troleibuz până în piața principală pentru a vă începe ziua.",
+            "en": "Take a bus or trolleybus to the main square to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Jakobus-Kirche & Katakomben",
+            "hu": "Szent Jakab-templom és Katakombák",
+            "ro": "Biserica Sf. Iacob și Catacombele",
+            "en": "St. James's Church & Catacombs"
+          },
+          "coords": [
+            15.591,
+            49.396
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beiden Hauptattraktionen liegen direkt am Platz und können leicht zu Fuß erreicht werden.",
+            "hu": "Ez a két fő látványosság közvetlenül a téren található, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții principale sunt chiar în piață și pot fi explorate pe jos.",
+            "en": "These two main attractions are right on the square and easily explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gustav-Mahler-Haus",
+            "hu": "Gustav Mahler-ház",
+            "ro": "Casa Gustav Mahler",
+            "en": "Gustav Mahler House"
+          },
+          "coords": [
+            15.5905,
+            49.394
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zum Haus des berühmten Komponisten.",
+            "hu": "Egy rövid séta a főtérről a híres zeneszerző házához.",
+            "ro": "O scurtă plimbare de la piața principală până la casa faimosului compozitor.",
+            "en": "A short walk from the main square to the famous composer's house."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Jihlava",
+            "hu": "Jihlavai Állatkert",
+            "ro": "Grădina Zoologică Jihlava",
+            "en": "Jihlava Zoo"
+          },
+          "coords": [
+            15.578,
+            49.408
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt dauert etwa 15-20 Minuten.",
+            "hu": "Menjen busszal a városközpontból. Az út körülbelül 15-20 percig tart.",
+            "ro": "Luați un autobuz din centrul orașului. Călătoria durează aproximativ 15-20 de minute.",
+            "en": "Take a bus from the city center. The journey takes about 15-20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Frauentor (Brána Matky Boží)",
+            "hu": "Miasszonyunk-kapu",
+            "ro": "Poarta Maicii Domnului",
+            "en": "Gate of the Mother of God"
+          },
+          "coords": [
+            15.593,
+            49.4005
+          ],
+          "category": "castles",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in Richtung Zentrum und steigen Sie in der Nähe des Tors aus.",
+            "hu": "Menjen busszal vissza a központ felé, és szálljon le a kapu közelében.",
+            "ro": "Luați un autobuz înapoi spre centru și coborâți lângă poartă.",
+            "en": "Take a bus back towards the center and get off near the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang der Stadtmauer",
+            "hu": "Séta a városfal mentén",
+            "ro": "Plimbare de-a lungul zidurilor orașului",
+            "en": "Walk along the City Walls"
+          },
+          "coords": [
+            15.594,
+            49.3995
+          ],
+          "category": "historical",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem malerischen Spaziergang entlang der alten Befestigungsanlagen.",
+            "hu": "Fejezze be a napot egy festői sétával a régi erődítmények mentén.",
+            "ro": "Încheiați-vă ziua cu o plimbare pitorească de-a lungul vechilor fortificații.",
+            "en": "End your day with a scenic walk along the old fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Iglau, um verschiedene Teile der Stadt zu erkunden. Beginnen Sie Ihren Tag mit einer Fahrt zum Masaryk-Platz und erkunden Sie den historischen Kern zu Fuß (Cluster A). Am Mittag nehmen Sie einen Bus zum Zoo für ein Naturerlebnis (Cluster B). Am Nachmittag fahren Sie mit dem Bus zurück in die Nähe der alten Stadtmauern, um das Frauentor und die Befestigungsanlagen zu Fuß zu erkunden (Cluster C), bevor Sie Ihren Tag beenden.",
+        "hu": "Használja Igló tömegközlekedését a város különböző részeinek felfedezéséhez. Kezdje a napot egy utazással a Masaryk térre, és fedezze fel gyalog a történelmi belvárost (A klaszter). Délben buszozzon el az állatkertbe egy természeti élményért (B klaszter). Délután busszal térjen vissza a régi városfalak közelébe, hogy gyalog fedezze fel a Miasszonyunk-kaput és az erődítményeket (C klaszter), mielőtt befejezné a napot.",
+        "ro": "Folosiți transportul public din Jihlava pentru a explora diferite părți ale orașului. Începeți ziua cu o călătorie spre Piața Masaryk și explorați nucleul istoric pe jos (Cluster A). La prânz, luați un autobuz spre grădina zoologică pentru o experiență în natură (Cluster B). După-amiaza, luați autobuzul înapoi aproape de zidurile vechi ale orașului pentru a explora Poarta Maicii Domnului și fortificațiile pe jos (Cluster C) înainte de a încheia ziua.",
+        "en": "Use Jihlava's public transport to explore different parts of the city. Start your day with a ride to Masaryk Square and explore the historic core on foot (Cluster A). At midday, take a bus to the Zoo for a nature experience (Cluster B). In the afternoon, take a bus back near the old city walls to explore the Gate of the Mother of God and the fortifications on foot (Cluster C) before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Gebäck",
+            "tip": "Kaufen Sie sich in einer Bäckerei nahe einer Haltestelle ein 'Koláč' für unterwegs."
+          },
+          {
+            "name": "Restaurace v centru",
+            "tip": "Im Zentrum gibt es viele Möglichkeiten für ein schnelles und leckeres Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi péksütemény",
+            "tip": "Vegyél egy „Koláč”-ot egy megálló közeli pékségben útközben."
+          },
+          {
+            "name": "Étterem a központban",
+            "tip": "A központban számos lehetőség van egy gyors és finom ebédre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie locale",
+            "tip": "Cumpărați un 'Koláč' pentru drum de la o brutărie de lângă o stație."
+          },
+          {
+            "name": "Restaurant în centru",
+            "tip": "Centrul oferă multe opțiuni pentru un prânz rapid și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastry",
+            "tip": "Grab a 'Koláč' for the road from a bakery near a bus stop."
+          },
+          {
+            "name": "Restaurant in the Center",
+            "tip": "The center offers many options for a quick and tasty lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Mariä Himmelfahrt",
+            "tip": "Eine ruhigere Kirche, etwas abseits des Hauptplatzes, für einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mária Mennybemenetele-templom",
+            "tip": "Egy csendesebb templom a főtértől kicsit távolabb, egy pillanatnyi elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Adormirea Maicii Domnului",
+            "tip": "O biserică mai liniștită, puțin mai departe de piața principală, pentru un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of the Assumption of the Virgin Mary",
+            "tip": "A quieter church, slightly off the main square, for a moment of reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen bei den Katakomben",
+            "tip": "Ein guter Ort, um ein Andenken an die unterirdische Welt von Jihlava zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a katakombáknál",
+            "tip": "Jó hely egy emléktárgy vásárlására Jihlava földalatti világáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la catacombe",
+            "tip": "Un loc bun pentru a cumpăra un suvenir al lumii subterane din Jihlava."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the Catacombs",
+            "tip": "A good place to buy a memento of Jihlava's underground world."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, besonders für die Fahrt zum Zoo.",
+          "Die meisten Haltestellen im Zentrum sind gut ausgeschildert.",
+          "Beachten Sie, dass Busse am Abend und am Wochenende seltener fahren könnten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen az állatkertbe tartó járatokét.",
+          "A legtöbb központi megálló jól ki van táblázva.",
+          "Vegye figyelembe, hogy a buszok este és hétvégén ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru călătoria la grădina zoologică.",
+          "Majoritatea stațiilor din centru sunt bine semnalizate.",
+          "Rețineți că autobuzele pot circula mai rar seara și în weekend."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Check bus schedules in advance, especially for the trip to the zoo.",
+          "Most stops in the center are well-signposted.",
+          "Be aware that buses might be less frequent in the evening and on weekends."
+        ]
+      }
+    }
+  }
+}

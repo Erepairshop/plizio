@@ -1,0 +1,1484 @@
+{
+  "city_id": "netherlands-hilversum-cities-v2",
+  "anchor": {
+    "name": "Hilversum Station",
+    "coords": [
+      5.1763,
+      52.2233
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Hilversum",
+            "hu": "Hilversumi városháza",
+            "ro": "Primăria din Hilversum",
+            "en": "Hilversum Town Hall"
+          },
+          "coords": [
+            5.1685,
+            52.2288
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die einzigartige Dudok-Architektur von innen zu sehen.",
+            "hu": "Foglaljon vezetett túrát, hogy belülről is megcsodálhassa a különleges Dudok-építészetet.",
+            "ro": "Rezervați un tur ghidat pentru a vedea arhitectura unică a lui Dudok din interior.",
+            "en": "Book a guided tour to see the unique Dudok architecture from the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Vituskerk",
+            "hu": "Szent Vitus-templom",
+            "ro": "Biserica Sfântul Vitus",
+            "en": "Saint Vitus Church"
+          },
+          "coords": [
+            5.1783,
+            52.2263
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine fantastische Aussicht über die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hilversum",
+            "hu": "Hilversum Múzeum",
+            "ro": "Muzeul Hilversum",
+            "en": "Museum Hilversum"
+          },
+          "coords": [
+            5.1755,
+            52.2241
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prüfen Sie die Wechselausstellungen, die sich oft auf Medienkunst konzentrieren.",
+            "hu": "Nézze meg az időszaki kiállításokat, melyek gyakran a médiaművészetre fókuszálnak.",
+            "ro": "Verificați expozițiile temporare, care se concentrează adesea pe arta media.",
+            "en": "Check the temporary exhibitions, which often focus on media art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mout Hilversum",
+            "hu": "Mout Hilversum",
+            "ro": "Mout Hilversum",
+            "en": "Mout Hilversum"
+          },
+          "coords": [
+            5.1768,
+            52.2245
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie verschiedene lokale Biere in dieser Foodhall.",
+            "hu": "Kóstoljon meg több helyi sört is ebben az ételudvarban.",
+            "ro": "Încercați diverse beri locale în această hală alimentară.",
+            "en": "Try various local beers in this food hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinetum Blijdenstein",
+            "hu": "Pinetum Blijdenstein",
+            "ro": "Pinetum Blijdenstein",
+            "en": "Pinetum Blijdenstein"
+          },
+          "coords": [
+            5.155,
+            52.215
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für einen ruhigen Spaziergang zwischen seltenen Nadelbäumen.",
+            "hu": "Tökéletes hely egy csendes sétához ritka tűlevelű fák között.",
+            "ro": "Un loc perfect pentru o plimbare liniștită printre conifere rare.",
+            "en": "A perfect spot for a quiet walk among rare conifers."
+          }
+        },
+        {
+          "name": {
+            "de": "Zonnestraal",
+            "hu": "Zonnestraal",
+            "ro": "Zonnestraal",
+            "en": "Zonnestraal"
+          },
+          "coords": [
+            5.138,
+            52.2038
+          ],
+          "category": "historical",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses UNESCO-gelistete Meisterwerk moderner Architektur von außen.",
+            "hu": "Csodálja meg kívülről a modern építészet ezen UNESCO-listás mesterművét.",
+            "ro": "Admirați din exterior această capodoperă a arhitecturii moderne, inclusă în patrimoniul UNESCO.",
+            "en": "Admire this UNESCO-listed masterpiece of modern architecture from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hilversum beginnt mit einem architektonischen Highlight, dem Rathaus von Dudok. Nach einem Spaziergang durch das Zentrum erkunden Sie das kulturelle Herz mit dem Museum Hilversum und der hoch aufragenden Sint-Vituskerk. Am Nachmittag genießen Sie ein lokales Bier in der Foodhall Mout, bevor Sie sich in die ruhige Natur des Pinetum Blijdenstein zurückziehen. Der Tag endet mit einem Blick auf das ikonische Zonnestraal-Anwesen.",
+        "hu": "A nap Hilversumban egy építészeti fényponttal, Dudok városházájával indul. A központban tett séta után felfedezheti a kulturális szívet a Hilversum Múzeummal és a magasba törő Szent Vitus-templommal. Délután megkóstolhat egy helyi sört a Mout ételudvarban, mielőtt visszavonulna a Pinetum Blijdenstein csendes természetébe. A napot az ikonikus Zonnestraal birtok megtekintése zárja.",
+        "ro": "Ziua dvs. în Hilversum începe cu o bijuterie arhitecturală, Primăria lui Dudok. După o plimbare prin centru, explorați inima culturală cu Muzeul Hilversum și impunătoarea Biserică Sfântul Vitus. După-amiaza, savurați o bere locală la food hall-ul Mout înainte de a vă retrage în natura liniștită de la Pinetum Blijdenstein. Ziua se încheie cu o priveliște a emblematicului domeniu Zonnestraal.",
+        "en": "Your day in Hilversum begins with an architectural highlight, Dudok's Town Hall. After a walk through the center, you'll explore the cultural heart with Museum Hilversum and the towering Saint Vitus Church. In the afternoon, enjoy a local beer at Mout food hall before retreating into the quiet nature of Pinetum Blijdenstein. The day concludes with a view of the iconic Zonnestraal estate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Ein herzhafter lokaler Eintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen von einem Straßenverkäufer."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ein Food-Court mit einer großen Auswahl an Speisen und lokalen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Kiadós helyi egytálétel, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket az apró palacsintákat egy utcai árustól."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ételudvar széles étel- és helyi sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "O tocană locală consistentă, perfectă pentru zilele mai reci."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite de la un vânzător ambulant."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "O hală alimentară cu o mare varietate de mâncăruri și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "A hearty local stew, perfect for cooler days."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes from a street vendor."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "A food court with a wide variety of food and local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Verlieren Sie sich in der Ruhe dieses botanischen Gartens.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Ein schöner Wald für einen langen, friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Genießen Sie die weite Aussicht und die Stille der Heidelandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Vesszen el a botanikus kert nyugalmában.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Egy gyönyörű erdő egy hosszú, békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Élvezze a fenyéres puszta tágas kilátását és csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Pierdeți-vă în liniștea acestei grădini botanice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "O pădure frumoasă pentru o plimbare lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Bucurați-vă de priveliștile largi și liniștea stepelor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Lose yourself in the tranquility of this botanical garden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "A beautiful forest for a long, peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Enjoy the wide views and silence of the heathland.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Feinkostläden."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte und holländischen Käse auf dem Markt am Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Bájos utca egyedi butikokkal és csemegeüzletekkel."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss helyi termékeket és holland sajtot a szombati piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "O stradă fermecătoare cu buticuri unice și delicatese."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale proaspete și brânză olandeză de la piața de sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "A charming street with unique boutiques and delicatessens."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh local produce and Dutch cheese at the Saturday market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Viele Cafés bieten kostenloses WLAN an."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Sok kávézó kínál ingyenes Wi-Fi-t."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați cu dvs. o sticlă de apă reutilizabilă.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "Multe cafenele oferă Wi-Fi gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Bring a reusable water bottle.",
+          "Check museum opening times in advance.",
+          "Many cafes offer free Wi-Fi."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Hilversum",
+            "hu": "Hilversumi városháza",
+            "ro": "Primăria din Hilversum",
+            "en": "Hilversum Town Hall"
+          },
+          "coords": [
+            5.1685,
+            52.2288
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und machen Sie Fotos aus verschiedenen Blickwinkeln.",
+            "hu": "Zárja le jól a kerékpárját, és készítsen képeket különböző szögekből.",
+            "ro": "Asigurați-vă bine bicicleta și faceți fotografii din diferite unghiuri.",
+            "en": "Lock your bike securely and take photos from different angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hilversum",
+            "hu": "Hilversum Múzeum",
+            "ro": "Muzeul Hilversum",
+            "en": "Museum Hilversum"
+          },
+          "coords": [
+            5.1755,
+            52.2241
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im alten Rathaus, einem weiteren schönen Gebäude.",
+            "hu": "A múzeum a régi városházán található, ami egy másik gyönyörű épület.",
+            "ro": "Muzeul este situat în vechea primărie, o altă clădire frumoasă.",
+            "en": "The museum is located in the old town hall, another beautiful building."
+          }
+        },
+        {
+          "name": {
+            "de": "Media Park",
+            "hu": "Média Park",
+            "ro": "Parcul Media",
+            "en": "Media Park"
+          },
+          "coords": [
+            5.167,
+            52.2395
+          ],
+          "category": "industry",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie herum und versuchen Sie, einige niederländische Berühmtheiten zu entdecken.",
+            "hu": "Tekerjen körbe, és próbáljon meg kiszúrni néhány holland hírességet.",
+            "ro": "Plimbați-vă cu bicicleta și încercați să zăriți câteva celebrități olandeze.",
+            "en": "Cycle around and try to spot some Dutch celebrities."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeld en Geluid",
+            "hu": "Kép és Hang Intézet",
+            "ro": "Institutul pentru Sunet și Viziune",
+            "en": "Netherlands Institute for Sound and Vision"
+          },
+          "coords": [
+            5.1702,
+            52.236
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Medienliebhaber. Planen Sie mindestens zwei Stunden ein.",
+            "hu": "A média szerelmeseinek kötelező. Legalább két órát szánjon rá.",
+            "ro": "O vizită obligatorie pentru iubitorii de media. Alocați cel puțin două ore.",
+            "en": "A must-visit for media lovers. Plan for at least two hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mout Hilversum",
+            "hu": "Mout Hilversum",
+            "ro": "Mout Hilversum",
+            "en": "Mout Hilversum"
+          },
+          "coords": [
+            5.1768,
+            52.2245
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und genießen Sie ein verdientes spätes Mittagessen.",
+            "hu": "Parkolja le a közelben a kerékpárt, és élvezze a jól megérdemelt késői ebédet.",
+            "ro": "Parcați-vă bicicleta în apropiere și bucurați-vă de un prânz târziu binemeritat.",
+            "en": "Park your bike nearby and enjoy a well-deserved late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinetum Blijdenstein",
+            "hu": "Pinetum Blijdenstein",
+            "ro": "Pinetum Blijdenstein",
+            "en": "Pinetum Blijdenstein"
+          },
+          "coords": [
+            5.155,
+            52.215
+          ],
+          "category": "natural features",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine friedliche Radtour zu diesem Garten ist der perfekte Ausklang des Tages.",
+            "hu": "Egy békés biciklitúra ehhez a kerthez tökéletes lezárása a napnak.",
+            "ro": "O plimbare pașnică cu bicicleta până la această grădină este finalul perfect al zilei.",
+            "en": "A peaceful bike ride to this garden is the perfect end to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Zonnestraal",
+            "hu": "Zonnestraal",
+            "ro": "Zonnestraal",
+            "en": "Zonnestraal"
+          },
+          "coords": [
+            5.138,
+            52.2038
+          ],
+          "category": "historical",
+          "arrive_at": "17:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, um dieses architektonische Juwel im Abendlicht zu sehen.",
+            "hu": "A nap utolsó állomása, hogy megnézze ezt az építészeti gyöngyszemet az esti fényben.",
+            "ro": "Ultima oprire a zilei pentru a vedea această bijuterie arhitecturală în lumina serii.",
+            "en": "The last stop of the day to see this architectural gem in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und beginnen Sie Ihre Tour am berühmten Rathaus von Hilversum. Radeln Sie weiter ins Zentrum zum Museum, bevor Sie nach Norden zum pulsierenden Media Park fahren, wo Sie das faszinierende Beeld en Geluid Museum besuchen. Am Nachmittag geht es zurück ins Zentrum für ein Mittagessen im Mout, gefolgt von einer entspannten Fahrt zum ruhigen Pinetum Blijdenstein. Beenden Sie den Tag mit einem Blick auf das architektonische Wunder von Zonnestraal.",
+        "hu": "Pattanjon biciklire, és kezdje a túrát Hilversum híres városházájánál. Tekerjen tovább a központba a múzeumhoz, mielőtt észak felé veszi az irányt a nyüzsgő Média Parkba, ahol meglátogatja a lenyűgöző Kép és Hang Intézetet. Délután visszatér a központba egy ebédre a Moutban, majd egy pihentető tekerés következik a csendes Pinetum Blijdensteinbe. A napot a Zonnestraal építészeti csodájának megtekintésével zárja.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul la faimoasa Primărie din Hilversum. Pedalați spre centru la muzeu, înainte de a vă îndrepta spre nord, către vibrantul Parc Media, unde veți vizita fascinantul Institut pentru Sunet și Viziune. După-amiaza, reveniți în centru pentru prânz la Mout, urmat de o plimbare relaxantă către liniștitul Pinetum Blijdenstein. Încheiați ziua cu o priveliște a minunii arhitecturale Zonnestraal.",
+        "en": "Hop on your bike and start your tour at Hilversum's famous Town Hall. Cycle to the museum in the center before heading north to the vibrant Media Park, where you'll visit the fascinating Sound and Vision Institute. In the afternoon, head back to the center for lunch at Mout, followed by a relaxing ride to the tranquil Pinetum Blijdenstein. End your day with a view of the Zonnestraal architectural wonder."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Ein herzhafter lokaler Eintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen von einem Straßenverkäufer."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ein Food-Court mit einer großen Auswahl an Speisen und lokalen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Kiadós helyi egytálétel, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket az apró palacsintákat egy utcai árustól."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ételudvar széles étel- és helyi sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "O tocană locală consistentă, perfectă pentru zilele mai reci."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite de la un vânzător ambulant."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "O hală alimentară cu o mare varietate de mâncăruri și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "A hearty local stew, perfect for cooler days."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes from a street vendor."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "A food court with a wide variety of food and local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Verlieren Sie sich in der Ruhe dieses botanischen Gartens.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Ein schöner Wald für einen langen, friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Genießen Sie die weite Aussicht und die Stille der Heidelandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Vesszen el a botanikus kert nyugalmában.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Egy gyönyörű erdő egy hosszú, békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Élvezze a fenyéres puszta tágas kilátását és csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Pierdeți-vă în liniștea acestei grădini botanice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "O pădure frumoasă pentru o plimbare lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Bucurați-vă de priveliștile largi și liniștea stepelor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Lose yourself in the tranquility of this botanical garden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "A beautiful forest for a long, peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Enjoy the wide views and silence of the heathland.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Feinkostläden."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte und holländischen Käse auf dem Markt am Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Bájos utca egyedi butikokkal és csemegeüzletekkel."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss helyi termékeket és holland sajtot a szombati piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "O stradă fermecătoare cu buticuri unice și delicatese."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale proaspete și brânză olandeză de la piața de sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "A charming street with unique boutiques and delicatessens."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh local produce and Dutch cheese at the Saturday market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs.",
+          "Die Niederlande sind flach, aber eine Gangschaltung ist trotzdem nützlich.",
+          "Achten Sie auf die speziellen Fahrradwege und Verkehrsregeln.",
+          "Nehmen Sie eine Regenjacke mit, das Wetter kann sich schnell ändern."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomás közelében.",
+          "Hollandia sík, de egy sebességváltó mégis hasznos lehet.",
+          "Figyeljen a külön kerékpárutakra és közlekedési szabályokra.",
+          "Hozzon magával esőkabátot, az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară.",
+          "Olanda este plată, dar o bicicletă cu viteze este totuși utilă.",
+          "Fiți atenți la pistele speciale pentru biciclete și la regulile de circulație.",
+          "Luați o geacă de ploaie, vremea se poate schimba rapid."
+        ],
+        "en": [
+          "Rent a bike near the train station.",
+          "The Netherlands is flat, but having gears is still useful.",
+          "Pay attention to the dedicated bike paths and traffic rules.",
+          "Bring a rain jacket, the weather can change quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zonnestraal",
+            "hu": "Zonnestraal",
+            "ro": "Zonnestraal",
+            "en": "Zonnestraal"
+          },
+          "coords": [
+            5.138,
+            52.2038
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Tag mit einem Spaziergang um dieses UNESCO-Juwel.",
+            "hu": "Parkoljon le itt, és kezdje a napot egy sétával az UNESCO világörökségi gyöngyszem körül.",
+            "ro": "Parcați aici și începeți ziua cu o plimbare în jurul acestei bijuterii UNESCO.",
+            "en": "Park here and start your day with a walk around this UNESCO gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinetum Blijdenstein",
+            "hu": "Pinetum Blijdenstein",
+            "ro": "Pinetum Blijdenstein",
+            "en": "Pinetum Blijdenstein"
+          },
+          "coords": [
+            5.155,
+            52.215
+          ],
+          "category": "natural features",
+          "arrive_at": "10:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Zonnestraal, um die Ruhe der Natur zu genießen.",
+            "hu": "Egy rövid séta a Zonnestraaltól, hogy élvezze a természet nyugalmát.",
+            "ro": "O scurtă plimbare de la Zonnestraal pentru a vă bucura de liniștea naturii.",
+            "en": "A short walk from Zonnestraal to enjoy the peace of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Media Park",
+            "hu": "Média Park",
+            "ro": "Parcul Media",
+            "en": "Media Park"
+          },
+          "coords": [
+            5.167,
+            52.2395
+          ],
+          "category": "industry",
+          "arrive_at": "11:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum nächsten Cluster. Parken Sie in der Nähe des Beeld en Geluid Museums.",
+            "hu": "Vezessen a következő csoporthoz. Parkoljon a Kép és Hang Intézet közelében.",
+            "ro": "Conduceți la următorul cluster. Parcați lângă Institutul pentru Sunet și Viziune.",
+            "en": "Drive to the next cluster. Park near the Sound and Vision Institute."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeld en Geluid",
+            "hu": "Kép és Hang Intézet",
+            "ro": "Institutul pentru Sunet și Viziune",
+            "en": "Netherlands Institute for Sound and Vision"
+          },
+          "coords": [
+            5.1702,
+            52.236
+          ],
+          "category": "museums",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das farbenfrohe Gebäude ist nicht zu übersehen. Tauchen Sie ein in die niederländische Mediengeschichte.",
+            "hu": "A színes épületet nem lehet nem észrevenni. Merüljön el a holland médiatörténelemben.",
+            "ro": "Clădirea colorată este imposibil de ratat. Scufundați-vă în istoria media olandeză.",
+            "en": "The colorful building is unmissable. Dive into Dutch media history."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hilversum",
+            "hu": "Hilversumi városháza",
+            "ro": "Primăria din Hilversum",
+            "en": "Hilversum Town Hall"
+          },
+          "coords": [
+            5.1685,
+            52.2288
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Mediencluster zu diesem architektonischen Meisterwerk.",
+            "hu": "Sétáljon át a médiacsoporttól ehhez az építészeti remekműhöz.",
+            "ro": "Faceți o plimbare de la clusterul media la această capodoperă arhitecturală.",
+            "en": "Take a walk from the media cluster to this architectural masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Mout Hilversum",
+            "hu": "Mout Hilversum",
+            "ro": "Mout Hilversum",
+            "en": "Mout Hilversum"
+          },
+          "coords": [
+            5.1768,
+            52.2245
+          ],
+          "category": "gastro",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, parken Sie und genießen Sie ein spätes Mittagessen in der Foodhall.",
+            "hu": "Vezessen a központba, parkoljon le, és élvezze a késői ebédet az ételudvarban.",
+            "ro": "Conduceți în centru, parcați și bucurați-vă de un prânz târziu la food hall.",
+            "en": "Drive to the center, park, and enjoy a late lunch at the food hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Sint-Vituskerk",
+            "hu": "Szent Vitus-templom",
+            "ro": "Biserica Sfântul Vitus",
+            "en": "Saint Vitus Church"
+          },
+          "coords": [
+            5.1783,
+            52.2263
+          ],
+          "category": "churches",
+          "arrive_at": "16:49",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Halt des Tages, ein kurzer Spaziergang vom Mittagessen.",
+            "hu": "A nap utolsó állomása, egy rövid sétára az ebédtől.",
+            "ro": "Ultima oprire a zilei, la o scurtă plimbare de la prânz.",
+            "en": "The final stop of the day, a short walk from lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt im Süden mit einem architektonischen Spaziergang um Zonnestraal und Pinetum. Anschließend fahren Sie zum zweiten Cluster, dem Media Park, wo das farbenfrohe Beeld en Geluid Museum wartet. Ein kurzer Spaziergang führt Sie zum beeindruckenden Rathaus. Der letzte Teil Ihrer Reise führt Sie ins Stadtzentrum, wo Sie im Mout zu Mittag essen und den Tag mit der majestätischen Sint-Vituskerk ausklingen lassen.",
+        "hu": "Autós napja délen kezdődik egy építészeti sétával a Zonnestraal és a Pinetum körül. Ezután a második csoporthoz, a Média Parkhoz hajt, ahol a színes Kép és Hang Intézet várja. Egy rövid séta elvezeti a lenyűgöző Városházához. Útja utolsó szakasza a városközpontba vezet, ahol a Moutban ebédelhet, és a napot a fenséges Szent Vitus-templommal zárhatja.",
+        "ro": "Ziua cu mașina începe în sud, cu o plimbare arhitecturală în jurul Zonnestraal și Pinetum. Apoi, conduceți la al doilea cluster, Parcul Media, unde vă așteaptă coloratul Institut pentru Sunet și Viziune. O scurtă plimbare vă duce la impresionanta Primărie. Ultima parte a călătoriei vă duce în centrul orașului pentru prânz la Mout și se încheie la maiestuoasa Biserică Sfântul Vitus.",
+        "en": "Your car day starts in the south with an architectural walk around Zonnestraal and Pinetum. You'll then drive to the second cluster, Media Park, where the colourful Sound and Vision Institute awaits. A short walk takes you to the impressive Town Hall. The final leg of your journey takes you to the city centre for lunch at Mout, ending the day at the majestic Saint Vitus Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Ein herzhafter lokaler Eintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen von einem Straßenverkäufer."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ein Food-Court mit einer großen Auswahl an Speisen und lokalen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Kiadós helyi egytálétel, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket az apró palacsintákat egy utcai árustól."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ételudvar széles étel- és helyi sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "O tocană locală consistentă, perfectă pentru zilele mai reci."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite de la un vânzător ambulant."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "O hală alimentară cu o mare varietate de mâncăruri și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "A hearty local stew, perfect for cooler days."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes from a street vendor."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "A food court with a wide variety of food and local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Verlieren Sie sich in der Ruhe dieses botanischen Gartens.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Ein schöner Wald für einen langen, friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Genießen Sie die weite Aussicht und die Stille der Heidelandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Vesszen el a botanikus kert nyugalmában.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Egy gyönyörű erdő egy hosszú, békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Élvezze a fenyéres puszta tágas kilátását és csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Pierdeți-vă în liniștea acestei grădini botanice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "O pădure frumoasă pentru o plimbare lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Bucurați-vă de priveliștile largi și liniștea stepelor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Lose yourself in the tranquility of this botanical garden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "A beautiful forest for a long, peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Enjoy the wide views and silence of the heathland.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Feinkostläden."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte und holländischen Käse auf dem Markt am Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Bájos utca egyedi butikokkal és csemegeüzletekkel."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss helyi termékeket és holland sajtot a szombati piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "O stradă fermecătoare cu buticuri unice și delicatese."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale proaspete și brânză olandeză de la piața de sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "A charming street with unique boutiques and delicatessens."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh local produce and Dutch cheese at the Saturday market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten und -gebühren im Voraus.",
+          "Ein kleineres Auto ist für die engen Straßen besser geeignet.",
+          "Verwenden Sie eine Navigations-App, um Staus zu vermeiden.",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket és díjakat.",
+          "Egy kisebb autó jobban megfelel a szűk utcákhoz.",
+          "Használjon navigációs alkalmazást a forgalmi dugók elkerülése érdekében.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Verificați în avans opțiunile de parcare și taxele.",
+          "O mașină mai mică este mai potrivită pentru străzile înguste.",
+          "Utilizați o aplicație de navigație pentru a evita blocajele în trafic.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Check parking options and fees in advance.",
+          "A smaller car is better for the narrow streets.",
+          "Use a navigation app to avoid traffic jams.",
+          "Don't leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Hilversum",
+            "hu": "Hilversumi városháza",
+            "ro": "Primăria din Hilversum",
+            "en": "Hilversum Town Hall"
+          },
+          "coords": [
+            5.1685,
+            52.2288
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag an diesem zentralen Wahrzeichen, das vom Bahnhof aus leicht zu erreichen ist.",
+            "hu": "Kezdje a napot ennél a központi nevezetességnél, amely könnyen elérhető az állomásról.",
+            "ro": "Începeți ziua la acest punct de reper central, ușor accesibil de la gară.",
+            "en": "Start your day at this central landmark, easily accessible from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hilversum",
+            "hu": "Hilversum Múzeum",
+            "ro": "Muzeul Hilversum",
+            "en": "Museum Hilversum"
+          },
+          "coords": [
+            5.1755,
+            52.2241
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathaus durch das Stadtzentrum.",
+            "hu": "Egy rövid séta a Városházától a városközponton keresztül.",
+            "ro": "O scurtă plimbare de la Primărie prin centrul orașului.",
+            "en": "A short walk from the Town Hall through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Media Park",
+            "hu": "Média Park",
+            "ro": "Parcul Media",
+            "en": "Media Park"
+          },
+          "coords": [
+            5.167,
+            52.2395
+          ],
+          "category": "industry",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum zum Media Park, dem Rundfunkherzen der Niederlande.",
+            "hu": "Menjen busszal a központból a Média Parkba, Hollandia műsorszóró központjába.",
+            "ro": "Luați un autobuz din centru către Parcul Media, inima radiodifuziunii olandeze.",
+            "en": "Take a bus from the center to Media Park, the broadcasting heart of the Netherlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Beeld en Geluid",
+            "hu": "Kép és Hang Intézet",
+            "ro": "Institutul pentru Sunet și Viziune",
+            "en": "Netherlands Institute for Sound and Vision"
+          },
+          "coords": [
+            5.1702,
+            52.236
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Park zu diesem interaktiven Museum. Perfekt, um dem Regen zu entkommen.",
+            "hu": "Sétáljon át a parkon ehhez az interaktív múzeumhoz. Tökéletes menedék az eső elől.",
+            "ro": "Faceți o plimbare prin parc până la acest muzeu interactiv. Perfect pentru a scăpa de ploaie.",
+            "en": "Stroll through the park to this interactive museum. Perfect for escaping the rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Zonnestraal",
+            "hu": "Zonnestraal",
+            "ro": "Zonnestraal",
+            "en": "Zonnestraal"
+          },
+          "coords": [
+            5.138,
+            52.2038
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine weitere Busfahrt bringt Sie zu diesem UNESCO-gelisteten Sanatorium.",
+            "hu": "Egy újabb buszozás elviszi Önt ehhez az UNESCO-listás szanatóriumhoz.",
+            "ro": "O altă călătorie cu autobuzul vă va duce la acest sanatoriu inclus în patrimoniul UNESCO.",
+            "en": "Another bus ride will take you to this UNESCO-listed sanatorium."
+          }
+        },
+        {
+          "name": {
+            "de": "Mout Hilversum",
+            "hu": "Mout Hilversum",
+            "ro": "Mout Hilversum",
+            "en": "Mout Hilversum"
+          },
+          "coords": [
+            5.1768,
+            52.2245
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum, um Ihren Tag mit Essen und Trinken ausklingen zu lassen.",
+            "hu": "Menjen vissza busszal a központba, hogy étellel és itallal zárja a napot.",
+            "ro": "Luați autobuzul înapoi în centru pentru a încheia ziua cu mâncare și băuturi.",
+            "en": "Take the bus back to the center to end your day with food and drinks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre ÖPNV-Tour beginnt im Zentrum mit einem Spaziergang vom Rathaus zum Museum. Ein Bus bringt Sie dann zum ersten Cluster, dem Media Park, wo das berühmte Beeld en Geluid auf Sie wartet. Am Nachmittag bringt Sie ein weiterer Bus zu einem architektonischen Juwel, dem Zonnestraal-Anwesen. Schließlich fahren Sie zurück ins Zentrum, um im Mout zu entspannen und die lokalen Köstlichkeiten zu probieren.",
+        "hu": "Tömegközlekedési túrája a központban kezdődik egy sétával a Városházától a Múzeumig. Ezután egy busz elviszi az első csoporthoz, a Média Parkhoz, ahol a híres Kép és Hang Intézet várja. Délután egy másik busz egy építészeti gyöngyszemhez, a Zonnestraal birtokhoz viszi. Végül visszatér a központba, hogy pihenjen és megkóstolja a helyi finomságokat a Moutban.",
+        "ro": "Turul dvs. cu transportul public începe în centru cu o plimbare de la Primărie la Muzeu. Un autobuz vă va duce apoi la primul cluster, Parcul Media, unde vă așteaptă faimosul Institut pentru Sunet și Viziune. După-amiaza, un alt autobuz vă va duce la o bijuterie arhitecturală, domeniul Zonnestraal. În cele din urmă, vă veți întoarce în centru pentru a vă relaxa și a gusta delicatesele locale la Mout.",
+        "en": "Your public transport tour starts in the center with a walk from the Town Hall to the Museum. A bus then takes you to the first cluster, Media Park, where the famous Sound and Vision Institute awaits. In the afternoon, another bus takes you to an architectural gem, the Zonnestraal estate. Finally, you'll head back to the center to relax and taste local delicacies at Mout."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Ein herzhafter lokaler Eintopf, perfekt für kühlere Tage."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen Pfannkuchen von einem Straßenverkäufer."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ein Food-Court mit einer großen Auswahl an Speisen und lokalen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "Kiadós helyi egytálétel, tökéletes a hűvösebb napokra."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket az apró palacsintákat egy utcai árustól."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "Ételudvar széles étel- és helyi sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "O tocană locală consistentă, perfectă pentru zilele mai reci."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste mini-clătite de la un vânzător ambulant."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "O hală alimentară cu o mare varietate de mâncăruri și beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gooische Stooppot",
+            "tip": "A hearty local stew, perfect for cooler days."
+          },
+          {
+            "name": "Poffertjes",
+            "tip": "Try these mini pancakes from a street vendor."
+          },
+          {
+            "name": "Mout Hilversum",
+            "tip": "A food court with a wide variety of food and local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Verlieren Sie sich in der Ruhe dieses botanischen Gartens.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Ein schöner Wald für einen langen, friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Genießen Sie die weite Aussicht und die Stille der Heidelandschaft.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Vesszen el a botanikus kert nyugalmában.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "Egy gyönyörű erdő egy hosszú, békés sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Élvezze a fenyéres puszta tágas kilátását és csendjét.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Pierdeți-vă în liniștea acestei grădini botanice.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "O pădure frumoasă pentru o plimbare lungă și liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Bucurați-vă de priveliștile largi și liniștea stepelor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinetum Blijdenstein",
+            "tip": "Lose yourself in the tranquility of this botanical garden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Corversbos",
+            "tip": "A beautiful forest for a long, peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hoorneboegse Heide",
+            "tip": "Enjoy the wide views and silence of the heathland.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Eine charmante Straße mit einzigartigen Boutiquen und Feinkostläden."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Kaufen Sie frische lokale Produkte und holländischen Käse auf dem Markt am Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "Bájos utca egyedi butikokkal és csemegeüzletekkel."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Vásároljon friss helyi termékeket és holland sajtot a szombati piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "O stradă fermecătoare cu buticuri unice și delicatese."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Cumpărați produse locale proaspete și brânză olandeză de la piața de sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gijsbrecht van Amstelstraat",
+            "tip": "A charming street with unique boutiques and delicatessens."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Buy fresh local produce and Dutch cheese at the Saturday market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder eine Tageskarte für unbegrenzte Fahrten.",
+          "Verwenden Sie eine App wie 9292, um Ihre Reise zu planen.",
+          "Die Busse sind pünktlich, seien Sie also rechtzeitig an der Haltestelle.",
+          "Beachten Sie, dass die Busse nachts seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon OV-chipkaart-ot vagy napijegyet a korlátlan utazáshoz.",
+          "Használjon egy alkalmazást, mint például a 9292, az utazás megtervezéséhez.",
+          "A buszok pontosak, ezért legyen időben a megállóban.",
+          "Vegye figyelembe, hogy a buszok éjszaka ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau un bilet de o zi pentru călătorii nelimitate.",
+          "Utilizați o aplicație precum 9292 pentru a vă planifica călătoria.",
+          "Autobuzele sunt punctuale, așa că fiți la stație la timp.",
+          "Rețineți că autobuzele circulă mai rar noaptea."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or a day ticket for unlimited travel.",
+          "Use an app like 9292 to plan your journey.",
+          "Buses are punctual, so be at the stop on time.",
+          "Note that buses run less frequently at night."
+        ]
+      }
+    }
+  }
+}

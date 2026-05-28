@@ -1,0 +1,1292 @@
+{
+  "city_id": "poland-torun-cities-v2",
+  "anchor": {
+    "name": "Thorn",
+    "coords": [
+      18.5984,
+      53.0138
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstädtischer Markt",
+            "hu": "Óvárosi piactér",
+            "ro": "Piața Orașului Vechi",
+            "en": "Old Town Market Square"
+          },
+          "coords": [
+            18.6042,
+            53.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und das Kopernikus-Denkmal.",
+            "hu": "Csodálja meg a Városházát és a Kopernikusz-emlékművet.",
+            "ro": "Admirați Primăria și monumentul lui Copernic.",
+            "en": "Admire the Town Hall and the Copernicus Monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            18.6044,
+            53.0102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine großartige Aussicht auf die Stadt.",
+            "hu": "Másszon fel a toronyba a nagyszerű városi panorámáért.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
+            "en": "Climb the tower for a great view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kopernikus-Haus",
+            "hu": "Kopernikusz-ház",
+            "ro": "Casa lui Copernic",
+            "en": "Copernicus House"
+          },
+          "coords": [
+            18.6015,
+            53.0091
+          ],
+          "category": "museums",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben des berühmten Astronomen.",
+            "hu": "Tudjon meg többet a híres csillagász életéről.",
+            "ro": "Aflați despre viața faimosului astronom.",
+            "en": "Learn about the life of the famous astronomer."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Johannes",
+            "hu": "Szent János-székesegyház",
+            "ro": "Catedrala Sf. Ioan Botezătorul",
+            "en": "Cathedral of St. Johns"
+          },
+          "coords": [
+            18.6022,
+            53.0085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hören Sie die Tuba Dei, eine der größten mittelalterlichen Glocken Polens.",
+            "hu": "Hallgassa meg a Tuba Dei-t, Lengyelország egyik legnagyobb középkori harangját.",
+            "ro": "Ascultați Tuba Dei, unul dintre cele mai mari clopote medievale din Polonia.",
+            "en": "Listen for the Tuba Dei, one of Poland's largest medieval bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefer Turm",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            18.5995,
+            53.0078
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie das klassische Foto, auf dem Sie den Turm stützen.",
+            "hu": "Készítse el a klasszikus fotót, ahogy megtámasztja a tornyot.",
+            "ro": "Faceți fotografia clasică în care sprijiniți turnul.",
+            "en": "Take the classic photo where you're holding up the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Ordensburg",
+            "hu": "Lovagrendi vár romjai",
+            "ro": "Ruinele castelului teutonic",
+            "en": "Ruins of the Teutonic Castle"
+          },
+          "coords": [
+            18.6083,
+            53.0101
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die unterirdischen Teile der ersten Ordensburg in diesem Gebiet.",
+            "hu": "Fedezze fel a terület első lovagrendi várának földalatti részeit.",
+            "ro": "Explorați părțile subterane ale primului castel teutonic din zonă.",
+            "en": "Explore the underground sections of the first Teutonic castle in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebkuchenmuseum",
+            "hu": "Mézeskalács Múzeum",
+            "ro": "Muzeul de Turtă Dulce",
+            "en": "Gingerbread Museum"
+          },
+          "coords": [
+            18.6061,
+            53.0115
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie an einem Workshop teil und backen Sie Ihren eigenen Lebkuchen!",
+            "hu": "Vegyen részt egy workshopon, és süsse meg a saját mézeskalácsát!",
+            "ro": "Participați la un atelier și coaceți-vă propria turtă dulce!",
+            "en": "Join a workshop and bake your own gingerbread!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Thorn, dem Altstädter Markt. Nach der Besichtigung des Rathauses und des Kopernikus-Hauses führt Sie ein Spaziergang zum Dom und zum Schiefen Turm, ideal für Fotos. Am Nachmittag tauchen Sie in die Geschichte der Ordensburg ein, bevor Sie den süßen Duft des Lebkuchenmuseums genießen. Ein perfekter Abschluss für einen Tag voller Entdeckungen.",
+        "hu": "Kezdje a napot Toruń szívében, az Óvárosi piactéren. A Városháza és a Kopernikusz-ház megtekintése után egy séta elvezet a székesegyházhoz és a Ferde toronyhoz, amely ideális fotózáshoz. Délután merüljön el a lovagrendi vár történelmében, mielőtt élvezné a Mézeskalács Múzeum édes illatát. Tökéletes befejezése egy felfedezésekkel teli napnak.",
+        "ro": "Începeți ziua în inima orașului Toruń, Piața Orașului Vechi. După ce vizitați Primăria și Casa lui Copernic, o plimbare vă va duce la Catedrală și la Turnul Înclinat, perfect pentru fotografii. După-amiaza, pătrundeți în istoria Castelului Teutonic înainte de a vă bucura de parfumul dulce al Muzeului de Turtă Dulce. Un final perfect pentru o zi plină de descoperiri.",
+        "en": "Start your day in the heart of Toruń, the Old Town Market Square. After visiting the Town Hall and Copernicus's House, a walk will take you to the Cathedral and the Leaning Tower, perfect for photos. In the afternoon, delve into the history of the Teutonic Castle before enjoying the sweet scent of the Gingerbread Museum. A perfect end to a day of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi",
+            "tip": "Probieren Sie die klassischen Knödel mit verschiedenen Füllungen in einem 'Pierogarnia'."
+          },
+          {
+            "name": "Toruńskie Pierniki",
+            "tip": "Der berühmte Lebkuchen der Stadt, ein Muss als Souvenir und Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi",
+            "tip": "Kóstolja meg a klasszikus gombócokat különböző töltelékekkel egy 'Pierogarnia'-ban."
+          },
+          {
+            "name": "Toruńi mézeskalács",
+            "tip": "A város híres mézeskalácsa, kötelező szuvenír és nasi."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi",
+            "tip": "Încercați găluștele clasice cu diverse umpluturi la o 'Pierogarnia'."
+          },
+          {
+            "name": "Turtă dulce din Toruń",
+            "tip": "Faimoasa turtă dulce a orașului, un suvenir și o gustare obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi",
+            "tip": "Try the classic dumplings with various fillings at a 'Pierogarnia'."
+          },
+          {
+            "name": "Toruń Gingerbread",
+            "tip": "The city's famous gingerbread, a must-try souvenir and snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weichsel-Boulevard",
+            "tip": "Ein ruhiger Spaziergang am Flussufer mit Blick auf die Stadtmauer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolina Marzeń Park",
+            "tip": "Ein friedlicher Park, etwas abseits des Trubels der Altstadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visztula sétány",
+            "tip": "Egy csendes séta a folyóparton, kilátással a városfalakra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolina Marzeń park",
+            "tip": "Egy békés park, kissé távolabb az óváros nyüzsgésétől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bulevardul Vistula",
+            "tip": "O plimbare liniștită pe malul râului, cu vedere la zidurile orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Dolina Marzeń",
+            "tip": "Un parc pașnic, puțin mai departe de agitația Orașului Vechi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vistula River Boulevard",
+            "tip": "A quiet walk along the riverbank with views of the city walls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolina Marzeń Park",
+            "tip": "A peaceful park, slightly away from the bustle of the Old Town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lebkuchenläden",
+            "tip": "Kaufen Sie authentischen Thorner Lebkuchen in den vielen Fachgeschäften."
+          },
+          {
+            "name": "Andenkenläden in der Altstadt",
+            "tip": "Finden Sie handgefertigte Waren und Souvenirs mit Kopernikus-Thema."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézeskalács boltok",
+            "tip": "Vásároljon autentikus toruńi mézeskalácsot a sok szaküzletben."
+          },
+          {
+            "name": "Szuvenírboltok az Óvárosban",
+            "tip": "Találjon kézműves termékeket és Kopernikusz témájú ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de turtă dulce",
+            "tip": "Cumpărați turtă dulce autentică din Toruń de la numeroasele magazine specializate."
+          },
+          {
+            "name": "Magazine de suveniruri din Orașul Vechi",
+            "tip": "Găsiți produse artizanale și suveniruri cu tematică Copernic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gingerbread Shops",
+            "tip": "Buy authentic Toruń gingerbread from the many specialized shops."
+          },
+          {
+            "name": "Old Town Souvenir Shops",
+            "tip": "Find artisan crafts and Copernicus-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt gepflasterte Straßen hat.",
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, also planen Sie, den ganzen Tag im historischen Zentrum zu verbringen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves utcákkal rendelkezik.",
+          "A legtöbb látnivaló gyalogosan elérhető, ezért tervezze, hogy az egész napot a történelmi központban tölti."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece Orașul Vechi are străzi pavate.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos, așa că planificați-vă să petreceți întreaga zi în centrul istoric."
+        ],
+        "en": [
+          "Wear comfortable shoes as the Old Town has cobblestone streets.",
+          "Most attractions are within walking distance, so plan to spend the entire day in the historic center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen der Ordensburg",
+            "hu": "Lovagrendi vár romjai",
+            "ro": "Ruinele castelului teutonic",
+            "en": "Ruins of the Teutonic Castle"
+          },
+          "coords": [
+            18.6083,
+            53.0101
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und erkunden Sie die Ruinen zu Fuß.",
+            "hu": "Zárja le a kerékpárját a közelben, és fedezze fel a romokat gyalog.",
+            "ro": "Încuietoarea bicicletei în apropiere și explorați ruinele pe jos.",
+            "en": "Lock your bike nearby and explore the ruins on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebkuchenmuseum",
+            "hu": "Mézeskalács Múzeum",
+            "ro": "Muzeul de Turtă Dulce",
+            "en": "Gingerbread Museum"
+          },
+          "coords": [
+            18.6061,
+            53.0115
+          ],
+          "category": "museums",
+          "arrive_at": "10:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein interaktives Erlebnis, perfekt für eine Pause vom Radfahren.",
+            "hu": "Interaktív élmény, tökéletes pihenő a biciklizés után.",
+            "ro": "O experiență interactivă, perfectă pentru o pauză de la ciclism.",
+            "en": "An interactive experience, perfect for a break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtischer Markt & Rathaus",
+            "hu": "Óvárosi piactér és Városháza",
+            "ro": "Piața Orașului Vechi și Primăria",
+            "en": "Old Town Market Square & Town Hall"
+          },
+          "coords": [
+            18.6042,
+            53.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und schlendern Sie über den belebten Platz.",
+            "hu": "Parkolja le a kerékpárját, és sétáljon körbe a nyüzsgő téren.",
+            "ro": "Parcați-vă bicicleta și plimbați-vă prin piața plină de viață.",
+            "en": "Park your bike and stroll through the bustling square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom & Kopernikus-Haus",
+            "hu": "Székesegyház és Kopernikusz-ház",
+            "ro": "Catedrala și Casa lui Copernic",
+            "en": "Cathedral & Copernicus House"
+          },
+          "coords": [
+            18.6018,
+            53.0088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beiden nahe gelegenen Sehenswürdigkeiten zusammen.",
+            "hu": "Látogassa meg ezt a két közeli látnivalót együtt.",
+            "ro": "Vizitați aceste două atracții apropiate împreună.",
+            "en": "Visit these two nearby attractions together."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefer Turm",
+            "hu": "Ferde torony",
+            "ro": "Turnul Înclinat",
+            "en": "Leaning Tower"
+          },
+          "coords": [
+            18.5995,
+            53.0078
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für ein lustiges Foto auf Ihrer Radtour.",
+            "hu": "Egy gyors megálló egy vicces fotóhoz a biciklitúra során.",
+            "ro": "O oprire rapidă pentru o fotografie amuzantă în turul cu bicicleta.",
+            "en": "A quick stop for a fun photo on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt am Weichselufer",
+            "hu": "Kerékpározás a Visztula partján",
+            "ro": "Plimbare pe malul Vistulei",
+            "en": "Vistula Riverbank Ride"
+          },
+          "coords": [
+            18.597,
+            53.006
+          ],
+          "category": "river",
+          "arrive_at": "14:52",
+          "stay_min": 64,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt mit malerischem Blick auf die Altstadt.",
+            "hu": "Élvezze a pihentető kerékpározást az óváros festői látványával.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu vederi pitorești ale Orașului Vechi.",
+            "en": "Enjoy a relaxing ride with scenic views of the Old Town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den Ordensburg-Ruinen und fahren Sie dann zum Lebkuchenmuseum. Von dort aus radeln Sie ins Zentrum zum Altstädter Markt. Nach dem Mittagessen erkunden Sie den Dom und das Kopernikus-Haus. Beenden Sie den Tag mit einer malerischen Fahrt entlang der Weichsel und genießen Sie die Aussicht.",
+        "hu": "Kezdje a biciklitúrát a lovagrendi vár romjainál, majd tekerjen el a Mézeskalács Múzeumhoz. Onnan irány a központ, az Óvárosi piactér. Ebéd után fedezze fel a székesegyházat és a Kopernikusz-házat. A napot egy festői Visztula-parti tekeréssel zárja, élvezve a kilátást.",
+        "ro": "Începeți turul cu bicicleta la ruinele Castelului Teutonic, apoi pedalați spre Muzeul de Turtă Dulce. De acolo, mergeți în centru, în Piața Orașului Vechi. După prânz, explorați Catedrala și Casa lui Copernic. Încheiați ziua cu o plimbare pitorească de-a lungul râului Vistula, bucurându-vă de priveliști.",
+        "en": "Start your bike tour at the Teutonic Castle ruins, then cycle to the Gingerbread Museum. From there, head to the center at the Old Town Market Square. After lunch, explore the Cathedral and Copernicus House. End the day with a scenic ride along the Vistula River, enjoying the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Żurek w chlebie",
+            "tip": "Eine traditionelle saure Roggensuppe, serviert in einem Brotlaib, perfekt für eine Stärkung."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Polnische Pfannkuchen, süß oder herzhaft, ein schneller und leckerer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Żurek kenyérben",
+            "tip": "Hagyományos lengyel savanyú rozsleves, kenyérben tálalva, tökéletes feltöltődés."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Lengyel palacsinta, édesen vagy sósan, gyors és finom harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Żurek în pâine",
+            "tip": "O supă acră tradițională de secară, servită într-o pâine, perfectă pentru a vă reface puterile."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Clătite poloneze, dulci sau sărate, o gustare rapidă și delicioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Żurek in bread",
+            "tip": "A traditional sour rye soup served in a bread bowl, perfect for refueling."
+          },
+          {
+            "name": "Naleśniki",
+            "tip": "Polish pancakes, sweet or savory, for a quick and delicious snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kępa Bazarowa Aussichtspunkt",
+            "tip": "Fahren Sie über die Brücke für den besten Panoramablick auf die Altstadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein ruhiger Ort, um die Natur zu genießen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kępa Bazarowa kilátópont",
+            "tip": "Tekerjen át a hídon a legjobb panorámáért az óvárosra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanikus Kert",
+            "tip": "Egy csendes hely a természet élvezetére.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Kępa Bazarowa",
+            "tip": "Traversați podul pentru cea mai bună vedere panoramică a Orașului Vechi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit pentru a vă bucura de natură.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kępa Bazarowa Viewpoint",
+            "tip": "Ride across the bridge for the best panoramic view of the Old Town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet place to enjoy nature.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Finden Sie Zubehör oder mieten Sie ein besseres Fahrrad für Ihre Tour."
+          },
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach frischen Produkten und lokalen Köstlichkeiten für ein Picknick am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Találjon kiegészítőket vagy béreljen jobb kerékpárt a túrához."
+          },
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen friss termékeket és helyi finomságokat egy folyóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Găsiți accesorii sau închiriați o bicicletă mai bună pentru turul dumneavoastră."
+          },
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați produse proaspete și delicatese locale pentru un picnic pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "Find accessories or rent a better bike for your tour."
+          },
+          {
+            "name": "Local Markets",
+            "tip": "Look for fresh produce and local delicacies for a picnic by the river."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Thorn ist relativ flach und fahrradfreundlich.",
+          "Achten Sie auf Fußgänger in den engen Gassen der Altstadt.",
+          "Nutzen Sie die Radwege entlang der Weichsel."
+        ],
+        "hu": [
+          "Toruń viszonylag sík és biciklibarát.",
+          "Vigyázzon a gyalogosokra az óváros szűk utcáin.",
+          "Használja a Visztula menti kerékpárutakat."
+        ],
+        "ro": [
+          "Toruń este relativ plat și prietenos cu bicicletele.",
+          "Fiți atenți la pietoni pe străzile înguste ale Orașului Vechi.",
+          "Folosiți pistele de biciclete de-a lungul Vistulei."
+        ],
+        "en": [
+          "Toruń is relatively flat and bike-friendly.",
+          "Watch out for pedestrians in the narrow streets of the Old Town.",
+          "Use the cycle paths along the Vistula river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt (Parkplatz)",
+            "hu": "Óváros Klaszter (Parkoló)",
+            "ro": "Cluster Centrul Vechi (Parcare)",
+            "en": "Old Town Cluster (Parking)"
+          },
+          "coords": [
+            18.611,
+            53.012
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Tag, um das historische Zentrum zu erkunden.",
+            "hu": "Parkoljon le itt a napra, hogy felfedezze a történelmi központot.",
+            "ro": "Parcați aici pentru o zi pentru a explora centrul istoric.",
+            "en": "Park here for the day to explore the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtischer Markt & Rathaus",
+            "hu": "Óvárosi piactér és Városháza",
+            "ro": "Piața Orașului Vechi și Primăria",
+            "en": "Old Town Market Square & Town Hall"
+          },
+          "coords": [
+            18.6042,
+            53.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt für Ihre Erkundung zu Fuß.",
+            "hu": "A gyalogos felfedezőút kiindulópontja.",
+            "ro": "Punctul de plecare pentru explorarea pe jos.",
+            "en": "The starting point for your walking exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebkuchenmuseum",
+            "hu": "Mézeskalács Múzeum",
+            "ro": "Muzeul de Turtă Dulce",
+            "en": "Gingerbread Museum"
+          },
+          "coords": [
+            18.6061,
+            53.0115
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz entfernt.",
+            "hu": "Egy rövid séta a piactértől.",
+            "ro": "La o scurtă plimbare de piață.",
+            "en": "A short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Ordensburg",
+            "hu": "Lovagrendi vár romjai",
+            "ro": "Ruinele castelului teutonic",
+            "en": "Ruins of the Teutonic Castle"
+          },
+          "coords": [
+            18.6083,
+            53.0101
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte, bevor Sie zum Mittagessen zurückkehren.",
+            "hu": "Fedezze fel a történelmet, mielőtt visszatérne ebédelni.",
+            "ro": "Descoperiți istoria înainte de a vă întoarce la prânz.",
+            "en": "Discover the history before heading back for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Weichselufer (Parkplatz)",
+            "hu": "Visztula-parti Klaszter (Parkoló)",
+            "ro": "Cluster malul Vistulei (Parcare)",
+            "en": "Vistula Riverside Cluster (Parking)"
+          },
+          "coords": [
+            18.598,
+            53.007
+          ],
+          "category": "transport",
+          "arrive_at": "13:22",
+          "stay_min": 0,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem neuen Parkplatz für eine andere Perspektive.",
+            "hu": "Vezessen át egy új parkolóba egy másfajta perspektíváért.",
+            "ro": "Conduceți spre o nouă parcare pentru o perspectivă diferită.",
+            "en": "Drive to a new parking spot for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiefer Turm & Dom",
+            "hu": "Ferde torony és Székesegyház",
+            "ro": "Turnul Înclinat și Catedrala",
+            "en": "Leaning Tower & Cathedral"
+          },
+          "coords": [
+            18.6005,
+            53.0082
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 185,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie diese beiden Ikonen und das nahegelegene Kopernikus-Haus.",
+            "hu": "Kombinálja ezt a két ikont és a közeli Kopernikusz-házat.",
+            "ro": "Combinați aceste două icoane și Casa lui Copernic din apropiere.",
+            "en": "Combine these two icons and the nearby Copernicus House."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie Ihr Auto in der Nähe des Zentrums und beginnen Sie Ihren Tag zu Fuß am Altstädter Markt. Erkunden Sie den ersten Cluster mit dem Lebkuchenmuseum und den Burgruinen. Am Nachmittag fahren Sie zu einem anderen Parkplatz am Flussufer. Von dort aus besuchen Sie den zweiten Cluster mit dem Schiefen Turm, dem Dom und dem Kopernikus-Haus.",
+        "hu": "Parkolja le autóját a központ közelében, és kezdje a napot gyalog az Óvárosi piactéren. Fedezze fel az első klasztert, benne a Mézeskalács Múzeummal és a várromokkal. Délután vezessen át egy másik, folyóparti parkolóba. Onnan látogassa meg a második klasztert, a Ferde toronnyal, a székesegyházzal és a Kopernikusz-házzal.",
+        "ro": "Parcați mașina lângă centru și începeți ziua pe jos în Piața Orașului Vechi. Explorați primul cluster, inclusiv Muzeul de Turtă Dulce și ruinele castelului. După-amiaza, conduceți spre o altă parcare de pe malul râului. De acolo, vizitați al doilea cluster, cu Turnul Înclinat, Catedrala și Casa lui Copernic.",
+        "en": "Park your car near the center and start your day on foot in the Old Town Market Square. Explore the first cluster including the Gingerbread Museum and the castle ruins. In the afternoon, drive to another parking area by the riverside. From there, visit the second cluster featuring the Leaning Tower, the Cathedral, and Copernicus's House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karczma Spichrz",
+            "tip": "Ein traditionelles Restaurant in einem alten Getreidespeicher mit Blick auf den Fluss."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Berühmt für seine riesige Auswahl an herzhaften und süßen Pfannkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karczma Spichrz",
+            "tip": "Hagyományos étterem egy régi magtárban, kilátással a folyóra."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Híres a sós és édes palacsinták hatalmas választékáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karczma Spichrz",
+            "tip": "Un restaurant tradițional într-un vechi hambar, cu vedere la râu."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Renumit pentru selecția sa uriașă de clătite sărate și dulci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karczma Spichrz",
+            "tip": "A traditional restaurant in an old granary overlooking the river."
+          },
+          {
+            "name": "Manekin",
+            "tip": "Famous for its huge selection of savory and sweet pancakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrt nach Barbarka",
+            "tip": "Ein kurzer Ausflug zu einem Waldpark außerhalb der Stadt für eine Pause in der Natur.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aussichtsplattform am linken Ufer",
+            "tip": "Parken Sie und gehen Sie zur Brücke für eine Postkartenansicht von Thorn.",
+            "emoji": "📸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kirándulás Barbarkába",
+            "tip": "Egy rövid autóút egy városon kívüli erdőparkba egy kis természetjárásért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kilátó a bal parton",
+            "tip": "Parkoljon le, és sétáljon a hídhoz egy képeslapra illő toruńi látképért.",
+            "emoji": "📸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Excursie la Barbarka",
+            "tip": "O scurtă călătorie cu mașina spre un parc forestier în afara orașului pentru o pauză în natură.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Platformă de observare pe malul stâng",
+            "tip": "Parcați și mergeți pe jos până la pod pentru o vedere de carte poștală a orașului Toruń.",
+            "emoji": "📸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drive to Barbarka",
+            "tip": "A short drive to a forest park outside the city for a nature break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Left Bank Viewing Platform",
+            "tip": "Park and walk to the bridge for a postcard view of Toruń.",
+            "emoji": "📸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeria Copernicus",
+            "tip": "Ein modernes Einkaufszentrum am Stadtrand, wenn Sie eine größere Auswahl benötigen."
+          },
+          {
+            "name": "Künstlergasse (ul. Podmurna)",
+            "tip": "Finden Sie lokale Kunst und Handwerk entlang der alten Stadtmauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeria Copernicus",
+            "tip": "Egy modern bevásárlóközpont a város szélén, ha nagyobb választékra van szüksége."
+          },
+          {
+            "name": "Művészek utcája (ul. Podmurna)",
+            "tip": "Találjon helyi művészeti és kézműves termékeket a régi városfalak mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Copernicus",
+            "tip": "Un centru comercial modern la marginea orașului, dacă aveți nevoie de o selecție mai largă."
+          },
+          {
+            "name": "Aleea Artiștilor (ul. Podmurna)",
+            "tip": "Găsiți artă și meșteșuguri locale de-a lungul zidurilor vechi ale orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeria Copernicus",
+            "tip": "A modern shopping mall on the outskirts if you need wider retail options."
+          },
+          {
+            "name": "Artists' Alley (ul. Podmurna)",
+            "tip": "Find local art and crafts along the old city walls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Nähe der Altstadt kann kostenpflichtig sein.",
+          "Die Cluster-Strategie spart Zeit bei der Parkplatzsuche und lässt Sie mehr zu Fuß entdecken."
+        ],
+        "hu": [
+          "A parkolás az óváros közelében fizetős lehet.",
+          "A klaszter-stratégia időt takarít meg a parkolóhely-keresésnél, és lehetővé teszi, hogy többet fedezzen fel gyalog."
+        ],
+        "ro": [
+          "Parcarea în apropierea Orașului Vechi poate fi contra cost.",
+          "Strategia cluster economisește timp la căutarea unui loc de parcare și vă permite să explorați mai mult pe jos."
+        ],
+        "en": [
+          "Parking near the Old Town can be paid.",
+          "The cluster strategy saves time on finding parking and lets you explore more on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Haltestelle Plac Teatralny",
+            "hu": "Érkezés a Plac Teatralny megállóba",
+            "ro": "Sosire la stația Plac Teatralny",
+            "en": "Arrival at Plac Teatralny stop"
+          },
+          "coords": [
+            18.608,
+            53.013
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein wichtiger Knotenpunkt für Busse und Straßenbahnen, idealer Startpunkt.",
+            "hu": "Fontos busz- és villamos-csomópont, ideális kiindulópont.",
+            "ro": "Un nod important pentru autobuze și tramvaie, punct de plecare ideal.",
+            "en": "A major bus and tram hub, ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebkuchenmuseum",
+            "hu": "Mézeskalács Múzeum",
+            "ro": "Muzeul de Turtă Dulce",
+            "en": "Gingerbread Museum"
+          },
+          "coords": [
+            18.6061,
+            53.0115
+          ],
+          "category": "museums",
+          "arrive_at": "09:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer süßen, interaktiven Erfahrung.",
+            "hu": "Kezdje egy édes, interaktív élménnyel.",
+            "ro": "Începeți cu o experiență dulce și interactivă.",
+            "en": "Start with a sweet, interactive experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtischer Markt & Rathaus",
+            "hu": "Óvárosi piactér és Városháza",
+            "ro": "Piața Orașului Vechi și Primăria",
+            "en": "Old Town Market Square & Town Hall"
+          },
+          "coords": [
+            18.6042,
+            53.0105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das pulsierende Herz der Stadt, nur wenige Schritte entfernt.",
+            "hu": "A város lüktető szíve, csak néhány lépésre.",
+            "ro": "Inima vibrantă a orașului, la doar câțiva pași distanță.",
+            "en": "The vibrant heart of the city, just a few steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Haltestelle Aleja Solidarności",
+            "hu": "Utazás az Aleja Solidarności megállóhoz",
+            "ro": "Călătorie la stația Aleja Solidarności",
+            "en": "Trip to Aleja Solidarności stop"
+          },
+          "coords": [
+            18.601,
+            53.007
+          ],
+          "category": "transport",
+          "arrive_at": "12:05",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie eine Straßenbahn für ein paar Haltestellen, um den südlichen Teil zu erreichen.",
+            "hu": "Menjen villamossal néhány megállót a déli rész eléréséhez.",
+            "ro": "Luați un tramvai pentru câteva stații pentru a ajunge în partea de sud.",
+            "en": "Take a tram for a few stops to reach the southern part."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom & Kopernikus-Haus",
+            "hu": "Székesegyház és Kopernikusz-ház",
+            "ro": "Catedrala și Casa lui Copernic",
+            "en": "Cathedral & Copernicus House"
+          },
+          "coords": [
+            18.6018,
+            53.0088
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Duo nach einer kurzen Fahrt.",
+            "hu": "Fedezze fel ezt a történelmi duót egy rövid utazás után.",
+            "ro": "Explorați acest duo istoric după o scurtă călătorie.",
+            "en": "Explore this historic duo after a short ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium",
+            "hu": "Planetárium",
+            "ro": "Planetariu",
+            "en": "Planetarium"
+          },
+          "coords": [
+            18.6055,
+            53.0075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:15",
+          "stay_min": 135,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss in der Stadt von Kopernikus, buchen Sie die Vorstellung im Voraus.",
+            "hu": "Kötelező látnivaló Kopernikusz városában, foglalja le előre az előadást.",
+            "ro": "O vizită obligatorie în orașul lui Copernic, rezervați spectacolul în avans.",
+            "en": "A must-see in the city of Copernicus, book the show in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der Haltestelle Plac Teatralny. Von hier aus gehen Sie zum Lebkuchenmuseum und zum Altstädter Markt. Nach dem Mittagessen nehmen Sie eine kurze Straßenbahnfahrt zum südlichen Teil der Altstadt. Dort erkunden Sie den Dom, das Kopernikus-Haus und beenden Ihren Tag mit einer Reise zu den Sternen im Planetarium.",
+        "hu": "A nap a Plac Teatralny megállónál kezdődik. Innen sétáljon el a Mézeskalács Múzeumhoz és az Óvárosi piactérre. Ebéd után egy rövid villamosúttal juthat el az óváros déli részébe. Ott fedezze fel a székesegyházat, a Kopernikusz-házat, és zárja a napot egy csillagászati utazással a Planetáriumban.",
+        "ro": "Ziua începe la stația Plac Teatralny. De aici, mergeți pe jos la Muzeul de Turtă Dulce și la Piața Orașului Vechi. După prânz, luați un tramvai pe o distanță scurtă până în partea de sud a Orașului Vechi. Acolo, explorați Catedrala, Casa lui Copernic și încheiați ziua cu o călătorie spre stele la Planetariu.",
+        "en": "Your day starts at the Plac Teatralny stop. From here, walk to the Gingerbread Museum and the Old Town Market Square. After lunch, take a short tram ride to the southern part of the Old Town. There, explore the Cathedral, Copernicus House, and end your day with a journey to the stars at the Planetarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Milchbar (Bar Mleczny)",
+            "tip": "Erleben Sie ein authentisches, günstiges polnisches Essen in einer Kantine aus der kommunistischen Ära."
+          },
+          {
+            "name": "Kremówka",
+            "tip": "Ein polnischer Sahnekuchen, der angeblich ein Favorit von Papst Johannes Paul II. war."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tejbár (Bar Mleczny)",
+            "tip": "Éljen át egy autentikus, olcsó lengyel étkezést egy kommunista kori étkezdében."
+          },
+          {
+            "name": "Kremówka",
+            "tip": "Lengyel krémes, amely állítólag II. János Pál pápa kedvence volt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar de lapte (Bar Mleczny)",
+            "tip": "Experimentați o masă poloneză autentică și ieftină într-o cantină din epoca comunistă."
+          },
+          {
+            "name": "Kremówka",
+            "tip": "O prăjitură poloneză cu cremă, despre care se spune că era preferata Papei Ioan Paul al II-lea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Milk Bar (Bar Mleczny)",
+            "tip": "Experience an authentic, cheap Polish meal in a communist-era canteen."
+          },
+          {
+            "name": "Kremówka",
+            "tip": "A Polish cream pie, said to be a favorite of Pope John Paul II."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ethnographischer Park",
+            "tip": "Nehmen Sie einen Bus zu diesem Freilichtmuseum für eine ruhige Flucht aus der Stadt.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Ein großer, grüner Park in der Nähe des Zentrums, perfekt für eine Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Néprajzi Park",
+            "tip": "Menjen busszal ehhez a szabadtéri múzeumhoz egy csendes menekülésért a városból.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "Egy nagy, zöld park a központ közelében, tökéletes egy kis szünetre.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Etnografic",
+            "tip": "Luați un autobuz spre acest muzeu în aer liber pentru o evadare liniștită din oraș.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Un parc mare și verde lângă centru, perfect pentru o pauză.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ethnographic Park",
+            "tip": "Take a bus to this open-air museum for a quiet escape from the city.",
+            "emoji": "🏡"
+          },
+          {
+            "name": "City Park",
+            "tip": "A large, green park near the center, perfect for taking a break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "CEPELiA",
+            "tip": "Eine Kette, die traditionelles polnisches Kunsthandwerk und Souvenirs verkauft."
+          },
+          {
+            "name": "Kiosk (Zeitungsstand)",
+            "tip": "Kaufen Sie hier Ihre Fahrkarten für den öffentlichen Nahverkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "CEPELiA",
+            "tip": "Egy lánc, amely hagyományos lengyel kézműves termékeket és szuveníreket árul."
+          },
+          {
+            "name": "Kioszk (újságos)",
+            "tip": "Vásárolja meg itt a tömegközlekedési jegyeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "CEPELiA",
+            "tip": "Un lanț care vinde artizanat și suveniruri tradiționale poloneze."
+          },
+          {
+            "name": "Chioșc (stand de ziare)",
+            "tip": "Cumpărați-vă biletele de transport public de aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "CEPELiA",
+            "tip": "A chain that sells traditional Polish folk art and souvenirs."
+          },
+          {
+            "name": "Kiosk (newsstand)",
+            "tip": "Buy your public transport tickets here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für unbegrenzte Fahrten.",
+          "Validieren Sie Ihr Ticket immer, wenn Sie in eine Straßenbahn oder einen Bus einsteigen.",
+          "Die App 'jakdojade' ist sehr nützlich für die Planung von Routen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Mindig érvényesítse a jegyét, amikor felszáll egy villamosra vagy buszra.",
+          "A 'jakdojade' alkalmazás nagyon hasznos az útvonaltervezéshez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Validați-vă întotdeauna biletul la urcarea într-un tramvai sau autobuz.",
+          "Aplicația 'jakdojade' este foarte utilă pentru planificarea rutelor."
+        ],
+        "en": [
+          "Buy a day pass for public transport for unlimited travel.",
+          "Always validate your ticket when you board a tram or bus.",
+          "The 'jakdojade' app is very useful for planning routes."
+        ]
+      }
+    }
+  }
+}

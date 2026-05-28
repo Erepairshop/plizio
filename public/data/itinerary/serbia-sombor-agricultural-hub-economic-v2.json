@@ -1,0 +1,1331 @@
+{
+  "city_id": "serbia-sombor-agricultural-hub-economic-v2",
+  "anchor": {
+    "name": "Agrarzentrum Sombor",
+    "coords": [
+      19.1411,
+      45.7689
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság tér",
+            "ro": "Piața Sfintei Treimi",
+            "en": "Holy Trinity Square"
+          },
+          "coords": [
+            19.143,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee in einem der vielen Cafés.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
+            "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
+            "en": "Start your day here with a coffee at one of the many cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Županija (Komitatshaus)",
+            "hu": "Županija (Vármegyeháza)",
+            "ro": "Županija (Casa Comitatului)",
+            "en": "Županija (County Hall)"
+          },
+          "coords": [
+            19.145,
+            45.776
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf das riesige Gemälde 'Die Schlacht bei Senta'.",
+            "hu": "Ne hagyja ki 'A zentai csata' című óriási festményt.",
+            "ro": "Nu ratați pictura imensă „Bătălia de la Senta”.",
+            "en": "Don't miss the giant painting 'The Battle of Senta'."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavna ulica (Hauptstraße)",
+            "hu": "Glavna ulica (Fő utca)",
+            "ro": "Glavna ulica (Strada Principală)",
+            "en": "Glavna ulica (Main Street)"
+          },
+          "coords": [
+            19.142,
+            45.773
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang und um die lokale Atmosphäre aufzusaugen.",
+            "hu": "Tökéletes egy sétához és a helyi hangulat magába szívásához.",
+            "ro": "Perfect pentru o plimbare și pentru a absorbi atmosfera locală.",
+            "en": "Perfect for a stroll and to soak up the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Sombor",
+            "hu": "Zombori Városi Múzeum",
+            "ro": "Muzeul Orășenesc Sombor",
+            "en": "Sombor City Museum"
+          },
+          "coords": [
+            19.14,
+            45.772
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die archäologische Sammlung ist besonders beeindruckend.",
+            "hu": "Az régészeti gyűjtemény különösen lenyűgöző.",
+            "ro": "Colecția arheologică este deosebit de impresionantă.",
+            "en": "The archaeological collection is particularly impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Milan Konjović Galerie",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.144,
+            45.7745
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Werke des berühmtesten Künstlers der Stadt.",
+            "hu": "Fedezze fel a város leghíresebb művészének színes alkotásait.",
+            "ro": "Descoperiți lucrările pline de culoare ale celui mai faimos artist al orașului.",
+            "en": "Discover the colorful works of the city's most famous artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Nemzeti Színház",
+            "ro": "Teatrul Național Sombor",
+            "en": "National Theatre Sombor"
+          },
+          "coords": [
+            19.139,
+            45.771
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur, auch wenn Sie keine Vorstellung besuchen.",
+            "hu": "Csodálja meg az építészetét, még ha nem is megy előadásra.",
+            "ro": "Admirați arhitectura, chiar dacă nu participați la un spectacol.",
+            "en": "Admire the architecture even if you don't attend a performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Batschka-Kanal",
+            "hu": "Nagy-Bácskai-csatorna",
+            "ro": "Marele Canal Bačka",
+            "en": "Great Bačka Canal"
+          },
+          "coords": [
+            19.115,
+            45.778
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannender Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Pihentető hely a nap lezárásához.",
+            "ro": "Un loc relaxant pentru a încheia ziua.",
+            "en": "A relaxing spot to wind down the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Platz der Heiligen Dreifaltigkeit, dem Herzen von Sombor. Am Vormittag erkunden Sie die prächtige Županija und schlendern die Glavna ulica entlang. Der Nachmittag ist der Kunst und Kultur gewidmet, mit Besuchen im Stadtmuseum und der farbenfrohen Milan Konjović Galerie. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang entlang des Großen Batschka-Kanals und genießen Sie die friedliche Atmosphäre, bevor Sie sich ein traditionelles Abendessen gönnen.",
+        "hu": "Kezdje sétáját a nyüzsgő Szentháromság téren, Zombor szívében. Délelőtt fedezze fel a csodálatos Vármegyeházát és sétáljon végig a Fő utcán. A délután a művészeté és a kultúráé, látogasson el a Városi Múzeumba és a színes Milan Konjović Galériába. Zárja a napot egy békés sétával a Nagy-Bácskai-csatorna mentén, élvezve a nyugodt légkört, mielőtt egy hagyományos vacsorára indulna.",
+        "ro": "Începeți plimbarea în vibranta Piață a Sfintei Treimi, inima orașului Sombor. Dimineața, explorați magnifica clădire Županija și plimbați-vă pe Glavna ulica. După-amiaza este dedicată artei și culturii, cu vizite la Muzeul Orașului și la colorata Galerie Milan Konjović. Încheiați ziua cu o plimbare liniștită de-a lungul Marelui Canal Bačka, bucurându-vă de atmosfera pașnică înainte de o cină tradițională.",
+        "en": "Start your walking tour at the vibrant Holy Trinity Square, the heart of Sombor. In the morning, explore the magnificent Županija and stroll down Glavna ulica. The afternoon is dedicated to art and culture, with visits to the City Museum and the colorful Milan Konjović Gallery. End your day with a peaceful walk along the Great Bačka Canal, enjoying the tranquil atmosphere before heading for a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Perkelt vom Wels",
+            "tip": "Ein reichhaltiger Fischeintopf, oft mit hausgemachten Nudeln serviert. Probieren Sie es im 'Restoran Stari Fenjer'."
+          },
+          {
+            "name": "Sataraš",
+            "tip": "Ein leichtes Gemüsegericht, perfekt für ein Mittagessen. Viele lokale Restaurants bieten es an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Harcsa perkelt",
+            "tip": "Gazdag halpörkölt, gyakran házi tésztával tálalva. Kóstolja meg a 'Stari Fenjer' étteremben."
+          },
+          {
+            "name": "Szataras",
+            "tip": "Könnyű zöldségétel, tökéletes ebédre. Sok helyi étteremben megtalálható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perkelt de somn",
+            "tip": "O tocană bogată de pește, adesea servită cu tăiței de casă. Încercați-o la 'Restoran Stari Fenjer'."
+          },
+          {
+            "name": "Sataraš",
+            "tip": "Un fel de mâncare ușor din legume, perfect pentru prânz. Multe restaurante locale îl oferă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catfish Perkelt",
+            "tip": "A rich fish stew, often served with homemade noodles. Try it at 'Restoran Stari Fenjer'."
+          },
+          {
+            "name": "Sataraš",
+            "tip": "A light vegetable dish, perfect for lunch. Many local restaurants offer it."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Großen Batschka-Kanals",
+            "tip": "Finden Sie eine Bank und beobachten Sie das ruhige Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park hinter dem Nationaltheater",
+            "tip": "Ein kleiner, oft übersehener grüner Fleck.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagy-Bácskai-csatorna partja",
+            "tip": "Keressen egy padot és nézze a nyugodt vizet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nemzeti Színház mögötti park",
+            "tip": "Egy kicsi, gyakran figyelmen kívül hagyott zöld terület.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Marelui Canal Bačka",
+            "tip": "Găsiți o bancă și priviți apele liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul din spatele Teatrului Național",
+            "tip": "Un mic spațiu verde, adesea trecut cu vederea.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Great Bačka Canal",
+            "tip": "Find a bench and watch the calm water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park behind the National Theatre",
+            "tip": "A small, often overlooked green spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt auf dem Hauptplatz",
+            "tip": "Kaufen Sie lokale Produkte und handgemachte Souvenirs."
+          },
+          {
+            "name": "Geschäfte auf der Glavna ulica",
+            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a Fő téren",
+            "tip": "Vásároljon helyi termékeket és kézzel készített ajándéktárgyakat."
+          },
+          {
+            "name": "Üzletek a Fő utcán",
+            "tip": "Helyi butikok és ismert márkák keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Piața Principală",
+            "tip": "Cumpărați produse locale și suveniruri artizanale."
+          },
+          {
+            "name": "Magazine pe Glavna ulica",
+            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market in the Main Square",
+            "tip": "Shop for local produce and handmade souvenirs."
+          },
+          {
+            "name": "Shops on Glavna ulica",
+            "tip": "A mix of local boutiques and known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Nehmen Sie sich Zeit, die Architektur zu bewundern, die eine Mischung aus verschiedenen Stilen ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő egyenetlen lehet.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog.",
+          "Szánjon időt az építészet megcsodálására, amely különböző stílusok keveréke."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Acordați-vă timp pentru a admira arhitectura, care este un amestec de stiluri diferite."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "Most central sights are within easy walking distance.",
+          "Take time to admire the architecture, which is a mix of different styles."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság tér",
+            "ro": "Piața Sfintei Treimi",
+            "en": "Holy Trinity Square"
+          },
+          "coords": [
+            19.143,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavna ulica (Hauptstraße)",
+            "hu": "Glavna ulica (Fő utca)",
+            "ro": "Glavna ulica (Strada Principală)",
+            "en": "Glavna ulica (Main Street)"
+          },
+          "coords": [
+            19.142,
+            45.773
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam, da die Straße belebt sein kann.",
+            "hu": "Lassan tekerjen, az utca forgalmas lehet.",
+            "ro": "Pedalați încet, deoarece strada poate fi aglomerată.",
+            "en": "Cycle slowly as the street can be busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Županija (Komitatshaus)",
+            "hu": "Županija (Vármegyeháza)",
+            "ro": "Županija (Casa Comitatului)",
+            "en": "Županija (County Hall)"
+          },
+          "coords": [
+            19.145,
+            45.776
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eines der imposantesten Gebäude der Stadt, ein Muss.",
+            "hu": "A város egyik legimpozánsabb épülete, kötelező látnivaló.",
+            "ro": "Una dintre cele mai impunătoare clădiri din oraș, o vizită obligatorie.",
+            "en": "One of the most imposing buildings in the city, a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Batschka-Kanal",
+            "hu": "Nagy-Bácskai-csatorna",
+            "ro": "Marele Canal Bačka",
+            "en": "Great Bačka Canal"
+          },
+          "coords": [
+            19.115,
+            45.778
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause und einen Snack am Wasser.",
+            "hu": "Ideális hely egy pihenőre és egy falatozásra a vízparton.",
+            "ro": "Un loc ideal pentru o pauză și o gustare lângă apă.",
+            "en": "An ideal spot for a break and a snack by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Sombor",
+            "hu": "Zombori Városi Múzeum",
+            "ro": "Muzeul Orășenesc Sombor",
+            "en": "Sombor City Museum"
+          },
+          "coords": [
+            19.14,
+            45.772
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die reiche Geschichte zu entdecken.",
+            "hu": "Szánjon elég időt a gazdag történelem felfedezésére.",
+            "ro": "Planificați suficient timp pentru a descoperi istoria bogată.",
+            "en": "Plan enough time to discover the rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Nemzeti Színház",
+            "ro": "Teatrul Național Sombor",
+            "en": "National Theatre Sombor"
+          },
+          "coords": [
+            19.139,
+            45.771
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Gebäude ist von außen genauso beeindruckend wie von innen.",
+            "hu": "Az épület kívülről is ugyanolyan lenyűgöző, mint belülről.",
+            "ro": "Clădirea este la fel de impresionantă la exterior ca și la interior.",
+            "en": "The building is as impressive on the outside as it is on the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Milan Konjović Galerie",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.144,
+            45.7745
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein farbenfroher Abschluss Ihrer kulturellen Radtour.",
+            "hu": "Kulturális kerékpártúrájának színes lezárása.",
+            "ro": "O concluzie plină de culoare pentru turul cultural pe bicicletă.",
+            "en": "A colorful conclusion to your cultural bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour durch Sombor beginnt im Stadtzentrum, wo Sie die architektonischen Juwelen rund um den Platz der Heiligen Dreifaltigkeit bewundern. Am Vormittag radeln Sie zum Großen Batschka-Kanal für eine erfrischende Pause am Wasser. Der Nachmittag steht im Zeichen der Kunst und Geschichte, während Sie bequem zwischen dem Stadtmuseum, dem Nationaltheater und der Milan Konjović Galerie pendeln. Die flache Topographie der Stadt macht das Radfahren zu einem Vergnügen und ermöglicht es Ihnen, mehr in kürzerer Zeit zu sehen.",
+        "hu": "Zombori kerékpártúrája a városközpontban kezdődik, ahol megcsodálhatja a Szentháromság tér körüli építészeti gyöngyszemeket. Délelőtt tekerjen el a Nagy-Bácskai-csatornához egy frissítő pihenőre a vízparton. A délután a művészetről és a történelemről szól, miközben kényelmesen ingázik a Városi Múzeum, a Nemzeti Színház és a Milan Konjović Galéria között. A város sík domborzata élvezetessé teszi a kerékpározást, és lehetővé teszi, hogy rövidebb idő alatt többet lásson.",
+        "ro": "Turul pe bicicletă al orașului Sombor începe în centrul orașului, unde veți admira bijuteriile arhitecturale din jurul Pieței Sfintei Treimi. Dimineața, pedalați spre Marele Canal Bačka pentru o pauză revigorantă lângă apă. După-amiaza este dedicată artei și istoriei, pe măsură ce vă deplasați convenabil între Muzeul Orașului, Teatrul Național și Galeria Milan Konjović. Topografia plată a orașului face ciclismul o plăcere, permițându-vă să vedeți mai multe în mai puțin timp.",
+        "en": "Your bike tour of Sombor starts in the city center, admiring the architectural gems around Holy Trinity Square. In the morning, you'll cycle to the Great Bačka Canal for a refreshing break by the water. The afternoon is for art and history as you conveniently hop between the City Museum, the National Theatre, and the Milan Konjović Gallery. The city's flat topography makes biking a pleasure, allowing you to see more in less time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischpaprikasch",
+            "tip": "Ein lokaler Favorit, besonders in den Restaurants ('čarda') am Kanal."
+          },
+          {
+            "name": "Strudel (Štrudla)",
+            "tip": "Probieren Sie den Mohn- oder Apfelstrudel in einer örtlichen Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpaprikás",
+            "tip": "Helyi kedvenc, különösen a csatorna menti csárdákban."
+          },
+          {
+            "name": "Rétes (Štrudla)",
+            "tip": "Kóstolja meg a mákos vagy almás rétest egy helyi cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Papricaș de pește",
+            "tip": "Un favorit local, în special la restaurantele ('čarda') de pe canal."
+          },
+          {
+            "name": "Ștrudel (Štrudla)",
+            "tip": "Încercați ștrudelul cu mac sau mere la o cofetărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Paprikash",
+            "tip": "A local favourite, especially at the restaurants ('čarda') by the canal."
+          },
+          {
+            "name": "Strudel (Štrudla)",
+            "tip": "Try the poppy seed or apple strudel at a local pastry shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Kanal",
+            "tip": "Eine friedliche Route abseits des Stadtverkehrs.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Plebanija Innenhof",
+            "tip": "Ein versteckter, ruhiger Ort im Zentrum der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a csatorna mentén",
+            "tip": "Békés útvonal a városi forgalomtól távol."
+          },
+          {
+            "name": "Plébánia udvara",
+            "tip": "Rejtett, csendes hely a város központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe canal",
+            "tip": "Un traseu liniștit, departe de traficul urban."
+          },
+          {
+            "name": "Curtea interioară Plebanija",
+            "tip": "Un loc ascuns și liniștit în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal bike path",
+            "tip": "A peaceful route away from the city traffic."
+          },
+          {
+            "name": "Plebanija Courtyard",
+            "tip": "A hidden, quiet spot in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "Halten Sie Ausschau nach kleinen Galerien mit Werken lokaler Künstler."
+          },
+          {
+            "name": "Sombor Käse",
+            "tip": "Eine lokale Spezialität, die auf dem Markt erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesek",
+            "tip": "Keresse a kis galériákat, ahol helyi művészek alkotásai találhatók."
+          },
+          {
+            "name": "Zombori sajt",
+            "tip": "Helyi specialitás, amely a piacon kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizani locali",
+            "tip": "Căutați mici galerii cu lucrări ale artiștilor locali."
+          },
+          {
+            "name": "Brânză de Sombor",
+            "tip": "O specialitate locală disponibilă în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisans",
+            "tip": "Look for small galleries featuring works by local artists."
+          },
+          {
+            "name": "Sombor Cheese",
+            "tip": "A local specialty available at the market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sombor ist sehr fahrradfreundlich.",
+          "Achten Sie auf Fußgänger in den Hauptstraßen.",
+          "Ein Fahrradschloss ist unerlässlich."
+        ],
+        "hu": [
+          "Zombor nagyon kerékpárbarát.",
+          "Vigyázzon a gyalogosokra a főutcákon.",
+          "A kerékpárzár elengedhetetlen."
+        ],
+        "ro": [
+          "Sombor este foarte prietenos cu bicicletele.",
+          "Atenție la pietoni pe străzile principale.",
+          "O încuietoare pentru bicicletă este esențială."
+        ],
+        "en": [
+          "Sombor is very bike-friendly.",
+          "Watch out for pedestrians on the main streets.",
+          "A bike lock is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum",
+            "hu": "1. klaszter: Történelmi központ",
+            "ro": "Cluster 1: Centrul Istoric",
+            "en": "Cluster 1: Historic Center"
+          },
+          "coords": [
+            19.143,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Platzes der Heiligen Dreifaltigkeit und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon a Szentháromság tér közelében és fedezze fel a környéket gyalog.",
+            "ro": "Parcați lângă Piața Sfintei Treimi și explorați pe jos.",
+            "en": "Park near Holy Trinity Square and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Županija (Komitatshaus)",
+            "hu": "Županija (Vármegyeháza)",
+            "ro": "Županija (Casa Comitatului)",
+            "en": "Županija (County Hall)"
+          },
+          "coords": [
+            19.145,
+            45.776
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Gebäude dominiert den Platz und ist ein großartiger Fotospot.",
+            "hu": "Az épület uralja a teret és remek fotótéma.",
+            "ro": "Clădirea domină piața și este un loc minunat pentru fotografii.",
+            "en": "The building dominates the square and is a great photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plebanija",
+            "hu": "Plébánia",
+            "ro": "Plebanija",
+            "en": "Plebanija"
+          },
+          "coords": [
+            19.144,
+            45.774
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiteres Beispiel für die prächtige Architektur der Stadt.",
+            "hu": "A város csodálatos építészetének egy másik példája.",
+            "ro": "Un alt exemplu al arhitecturii magnifice a orașului.",
+            "en": "Another example of the city's magnificent architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kulturviertel",
+            "hu": "2. klaszter: Kulturális negyed",
+            "ro": "Cluster 2: Cartierul Cultural",
+            "en": "Cluster 2: Cultural Quarter"
+          },
+          "coords": [
+            19.14,
+            45.772
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und besuchen Sie die Museen und das Theater.",
+            "hu": "Parkoljon le újra, és látogassa meg a múzeumokat és a színházat.",
+            "ro": "Parcați din nou și vizitați muzeele și teatrul.",
+            "en": "Park again and visit the museums and theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Milan Konjović Galerie",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.141,
+            45.7725
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für alle Kunstliebhaber.",
+            "hu": "Minden művészetkedvelő számára kötelező.",
+            "ro": "O necesitate pentru toți iubitorii de artă.",
+            "en": "A must-visit for all art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Nemzeti Színház",
+            "ro": "Teatrul Național Sombor",
+            "en": "National Theatre Sombor"
+          },
+          "coords": [
+            19.139,
+            45.771
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das neoklassizistische Gebäude ist ein architektonisches Juwel.",
+            "hu": "A neoklasszicista épület egy építészeti gyöngyszem.",
+            "ro": "Clădirea neoclasică este o bijuterie arhitecturală.",
+            "en": "The neoclassical building is an architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Batschka-Kanal",
+            "hu": "Nagy-Bácskai-csatorna",
+            "ro": "Marele Canal Bačka",
+            "en": "Great Bačka Canal"
+          },
+          "coords": [
+            19.115,
+            45.778
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen nach einem Tag voller Kultur.",
+            "hu": "Tökéletes hely a pihenésre egy kultúrával teli nap után.",
+            "ro": "Un loc perfect pentru a vă relaxa după o zi de cultură.",
+            "en": "A perfect place to relax after a day of culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Sombor effizient erkunden, indem Sie zwischen Clustern fahren und zu Fuß erkunden. Beginnen Sie im historischen Herzen, parken Sie und besuchen Sie die Županija und die Plebanija. Am Vormittag fahren Sie zum Kulturviertel, wo das Stadtmuseum und die Konjović-Galerie auf Sie warten. Den späten Nachmittag verbringen Sie am Großen Batschka-Kanal, einem idealen Ort, um sich zu entspannen und die Natur zu genießen, bevor Sie zum Abendessen in die Stadt zurückkehren.",
+        "hu": "Autóval hatékonyan fedezheti fel Zombort, klaszterek között közlekedve és gyalogosan felfedezve azokat. Kezdje a történelmi szívben, parkoljon le, és látogassa meg a Vármegyeházát és a Plébániát. Délelőtt vezessen át a kulturális negyedbe, ahol a Városi Múzeum és a Konjović Galéria várja. A késő délutánt a Nagy-Bácskai-csatornánál töltse, amely ideális hely a pihenésre és a természet élvezetére, mielőtt visszatérne a városba vacsorázni.",
+        "ro": "Cu mașina, puteți explora eficient Sombor, conducând între clustere și explorând pe jos. Începeți în inima istorică, parcați și vizitați Županija și Plebanija. Dimineața, conduceți spre cartierul cultural, unde vă așteaptă Muzeul Orașului și Galeria Konjović. Petreceți după-amiaza târziu la Marele Canal Bačka, un loc ideal pentru a vă relaxa și a vă bucura de natură înainte de a vă întoarce în oraș pentru cină.",
+        "en": "With a car, you can explore Sombor efficiently by driving between clusters and exploring on foot. Start in the historic heart, park, and visit the Županija and Plebanija. In the morning, drive to the cultural quarter, where the City Museum and Konjović Gallery await. Spend the late afternoon at the Great Bačka Canal, an ideal spot to relax and enjoy nature before heading back into town for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grill-Spezialitäten",
+            "tip": "Probieren Sie Ćevapi oder Pljeskavica in einem traditionellen Restaurant."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Ein cremiger Milchaufstrich, der zu vielen Gerichten serviert wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grill specialitások",
+            "tip": "Kóstolja meg a Ćevapit vagy a Pljeskavicát egy hagyományos étteremben."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "Krémes tejtermék, amelyet sok ételhez tálalnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități la grătar",
+            "tip": "Încercați Ćevapi sau Pljeskavica la un restaurant tradițional."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "O cremă de lapte servită cu multe feluri de mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled specialties",
+            "tip": "Try Ćevapi or Pljeskavica at a traditional restaurant."
+          },
+          {
+            "name": "Kajmak",
+            "tip": "A creamy dairy spread served with many dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seitengassen der Altstadt",
+            "tip": "Entfliehen Sie den Menschenmassen und entdecken Sie versteckte Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Kanal",
+            "tip": "Ein malerischer Anblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Meneküljön el a tömeg elől, és fedezzen fel rejtett zugokat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a csatornánál",
+            "tip": "Festői látvány.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțele laterale din centrul vechi",
+            "tip": "Evadați din mulțime și descoperiți colțuri ascunse.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la canal",
+            "tip": "O priveliște pitorească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town side streets",
+            "tip": "Escape the crowds and discover hidden corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the canal",
+            "tip": "A picturesque sight.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgemachte Keramik",
+            "tip": "Ein schönes und authentisches Souvenir."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Region ist für ihre Weine bekannt, fragen Sie nach lokalen Empfehlungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "Szép és autentikus ajándéktárgy."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A régió borairól ismert, kérjen helyi ajánlásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Un suvenir frumos și autentic."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Regiunea este cunoscută pentru vinurile sale, cereți recomandări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade pottery",
+            "tip": "A beautiful and authentic souvenir."
+          },
+          {
+            "name": "Local wine",
+            "tip": "The region is known for its wines, ask for local recommendations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Zentrum können knapp sein, besonders an Markttagen.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus.",
+          "Das Fahren in der Innenstadt ist einfach, aber achten Sie auf Einbahnstraßen."
+        ],
+        "hu": [
+          "A központi parkolóhelyek száma korlátozott lehet, különösen piacnapokon.",
+          "Tervezze meg előre az útvonalat a klaszterek között.",
+          "A belvárosban egyszerű a vezetés, de figyeljen az egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi limitată, mai ales în zilele de piață.",
+          "Planificați-vă traseul între clustere în avans.",
+          "Conducerea în centrul orașului este ușoară, dar fiți atenți la străzile cu sens unic."
+        ],
+        "en": [
+          "Parking in the center can be scarce, especially on market days.",
+          "Plan your route between clusters in advance.",
+          "Driving in the city center is easy, but watch out for one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Platz der Heiligen Dreifaltigkeit",
+            "hu": "1. klaszter: Szentháromság tér",
+            "ro": "Cluster 1: Piața Sfintei Treimi",
+            "en": "Cluster 1: Holy Trinity Square"
+          },
+          "coords": [
+            19.143,
+            45.775
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, nachdem Sie mit dem Bus im Zentrum angekommen sind.",
+            "hu": "Kezdje itt, miután busszal megérkezett a központba.",
+            "ro": "Începeți de aici după ce ajungeți în centru cu autobuzul.",
+            "en": "Start here after arriving in the center by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Županija (Komitatshaus)",
+            "hu": "Županija (Vármegyeháza)",
+            "ro": "Županija (Casa Comitatului)",
+            "en": "Županija (County Hall)"
+          },
+          "coords": [
+            19.145,
+            45.776
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid sétára a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavna ulica (Hauptstraße)",
+            "hu": "Glavna ulica (Fő utca)",
+            "ro": "Glavna ulica (Strada Principală)",
+            "en": "Glavna ulica (Main Street)"
+          },
+          "coords": [
+            19.142,
+            45.773
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die zentrale Einkaufs- und Flaniermeile der Stadt.",
+            "hu": "A város központi bevásárló- és sétálóutcája.",
+            "ro": "Principala stradă comercială și de promenadă a orașului.",
+            "en": "The city's central shopping and strolling street."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Kulturviertel",
+            "hu": "2. klaszter: Kulturális negyed",
+            "ro": "Cluster 2: Cartierul Cultural",
+            "en": "Cluster 2: Cultural Quarter"
+          },
+          "coords": [
+            19.14,
+            45.772
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen kurzen Bus, um zum Museumsviertel zu gelangen.",
+            "hu": "Menjen egy rövid buszúttal a múzeumi negyedbe.",
+            "ro": "Luați un autobuz pe o distanță scurtă pentru a ajunge în cartierul muzeelor.",
+            "en": "Take a short bus ride to get to the museum quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Milan Konjović Galerie",
+            "hu": "Milan Konjović Galéria",
+            "ro": "Galeria Milan Konjović",
+            "en": "Milan Konjović Gallery"
+          },
+          "coords": [
+            19.141,
+            45.7725
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Werke des Expressionismus in diesem speziellen Museum.",
+            "hu": "Csodálja meg az expresszionizmus alkotásait ebben a különleges múzeumban.",
+            "ro": "Admirați lucrările expresioniste în acest muzeu dedicat.",
+            "en": "Admire the works of expressionism in this dedicated museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationaltheater Sombor",
+            "hu": "Zombori Nemzeti Színház",
+            "ro": "Teatrul Național Sombor",
+            "en": "National Theatre Sombor"
+          },
+          "coords": [
+            19.139,
+            45.771
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen weiteren Bus oder gehen Sie zu Fuß, um dieses architektonische Meisterwerk zu erreichen.",
+            "hu": "Menjen busszal vagy sétáljon, hogy elérje ezt az építészeti remekművet.",
+            "ro": "Luați alt autobuz sau mergeți pe jos pentru a ajunge la această capodoperă arhitecturală.",
+            "en": "Take another bus or walk to reach this architectural masterpiece."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Sombor ist eine entspannte Art, die Stadt zu sehen. Beginnen Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß. Ein kurzer Bus bringt Sie zum Kulturviertel, wo Sie den Nachmittag in den Museen verbringen. Diese Methode ermöglicht es Ihnen, das Leben vor Ort zu beobachten und sich wie ein Einheimischer zu bewegen, während Sie die Hauptattraktionen der Stadt besuchen.",
+        "hu": "A tömegközlekedés használata Zomborban egy pihentető módja a városnézésnek. Kezdje a központban, és fedezze fel az első klasztert gyalog. Egy rövid buszút elviszi a kulturális negyedbe, ahol a délutánt a múzeumokban töltheti. Ez a módszer lehetővé teszi, hogy megfigyelje a helyi életet és úgy mozogjon, mint egy helybéli, miközben meglátogatja a város fő látnivalóit.",
+        "ro": "Folosirea transportului public în Sombor este o modalitate relaxantă de a vedea orașul. Începeți în centru și explorați primul cluster pe jos. O scurtă călătorie cu autobuzul vă va duce la cartierul cultural, unde vă veți petrece după-amiaza la muzee. Această metodă vă permite să observați viața locală și să vă deplasați ca un localnic în timp ce vizitați principalele atracții ale orașului.",
+        "en": "Using public transit in Sombor is a relaxed way to see the city. Start in the center and explore the first cluster on foot. A short bus ride will take you to the cultural quarter, where you'll spend the afternoon at the museums. This method allows you to observe local life and move like a local while visiting the city's main attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Ein herzhaftes Gebäck, perfekt für ein schnelles Frühstück oder einen Snack. In Bäckereien ('pekara') erhältlich."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Der lokale Obstbrand. Probieren Sie eine kleine Menge nach dem Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Kiadós péksütemény, tökéletes egy gyors reggelihez vagy uzsonnához. A pékségekben ('pekara') kapható."
+          },
+          {
+            "name": "Rakija (Pálinka)",
+            "tip": "A helyi gyümölcspárlat. Kóstoljon meg egy kis mennyiséget vacsora után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "O patiserie sărată, perfectă pentru un mic dejun rapid sau o gustare. Disponibilă la brutării ('pekara')."
+          },
+          {
+            "name": "Rakija",
+            "tip": "Rachiul local din fructe. Încercați o cantitate mică după cină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "A savory pastry, perfect for a quick breakfast or snack. Available at bakeries ('pekara')."
+          },
+          {
+            "name": "Rakija",
+            "tip": "The local fruit brandy. Try a small amount after dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhöfe",
+            "tip": "Die historischen Friedhöfe von Sombor sind friedliche Orte mit kunstvollen Grabsteinen.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Frühmorgens auf dem Hauptplatz",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temetők",
+            "tip": "Zombor történelmi temetői békés helyek, díszes sírkövekkel.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kora reggel a Fő téren",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitire",
+            "tip": "Cimitirele istorice din Sombor sunt locuri pașnice, cu pietre funerare artistice.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Dimineața devreme în Piața Principală",
+            "tip": "Experimentați orașul înainte de a se trezi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cemeteries",
+            "tip": "Sombor's historic cemeteries are peaceful places with ornate tombstones.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Early morning in the Main Square",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Kaufen Sie eine Flasche aus der Region Bačka als Souvenir."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "Ein Paprika-Aufstrich, der in Lebensmittelgeschäften und auf Märkten erhältlich ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon egy üveggel a bácskai régióból ajándékba."
+          },
+          {
+            "name": "Ajvár",
+            "tip": "Paprikakrém, amely élelmiszerboltokban és piacokon kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Cumpărați o sticlă din regiunea Bačka ca suvenir."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "O pastă de ardei disponibilă în magazinele alimentare și piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wines",
+            "tip": "Buy a bottle from the Bačka region as a souvenir."
+          },
+          {
+            "name": "Ajvar",
+            "tip": "A pepper-based spread available in grocery stores and markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busse können voll sein, besonders zu Stoßzeiten.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, sie sind normalerweise sehr hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszok zsúfoltak lehetnek, különösen csúcsidőben.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, általában nagyon segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Autobuzele pot fi aglomerate, mai ales la orele de vârf.",
+          "Întrebați localnicii despre linia de autobuz corectă, de obicei sunt foarte amabili."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips.",
+          "Buses can be crowded, especially during peak hours.",
+          "Ask locals for the right bus line, they are usually very helpful."
+        ]
+      }
+    }
+  }
+}

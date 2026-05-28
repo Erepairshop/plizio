@@ -1,0 +1,1675 @@
+{
+  "city_id": "spain-marbella-cities-v2",
+  "anchor": {
+    "name": "Marbella",
+    "coords": [
+      -4.8824,
+      36.5101
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de los Naranjos",
+            "hu": "Plaza de los Naranjos (Narancsok tere)",
+            "ro": "Plaza de los Naranjos",
+            "en": "Plaza de los Naranjos (Orange Square)"
+          },
+          "coords": [
+            -4.8856,
+            36.5102
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee in einem der vielen Cafés und beobachten Sie das Treiben.",
+            "hu": "Igyon meg egy kávét a számos kávézó egyikében, és figyelje a nyüzsgést.",
+            "ro": "Savurați o cafea la una dintre multele cafenele și priviți agitația.",
+            "en": "Enjoy a coffee at one of the many cafes and watch the world go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Encarnación",
+            "hu": "Iglesia de la Encarnación (Megtestesülés-templom)",
+            "ro": "Biserica Întrupării (Iglesia de la Encarnación)",
+            "en": "Church of the Incarnation (Iglesia de la Encarnación)"
+          },
+          "coords": [
+            -4.8845,
+            36.5095
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Barockportal und die große Orgel im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk kapuzatot és a templomban található nagy orgonát.",
+            "ro": "Observați impresionantul portal baroc și orga mare din interior.",
+            "en": "Look for the impressive Baroque portal and the grand organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Marbella (Maurische Burgmauern)",
+            "hu": "Castillo de Marbella (Mór várfalak)",
+            "ro": "Castillo de Marbella (Zidurile maure ale castelului)",
+            "en": "Marbella Castle (Moorish Castle Walls)"
+          },
+          "coords": [
+            -4.8861,
+            36.511
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Mauern sind am besten von den umliegenden Straßen aus zu sehen. Ein tolles Fotomotiv.",
+            "hu": "A falakat a környező utcákból lehet a legjobban látni. Nagyszerű fotótéma.",
+            "ro": "Zidurile sunt cel mai bine văzute de pe străzile înconjurătoare. Un subiect excelent pentru fotografii.",
+            "en": "The walls are best viewed from the surrounding streets. A great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Grabado Español Contemporáneo",
+            "hu": "Kortárs Spanyol Grafikai Múzeum",
+            "ro": "Muzeul de Gravură Spaniolă Contemporană",
+            "en": "Museum of Contemporary Spanish Engraving"
+          },
+          "coords": [
+            -4.8842,
+            36.509
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber mit Werken von Picasso, Miró und Dalí.",
+            "hu": "A művészetkedvelőknek kötelező, Picasso, Miró és Dalí műveivel.",
+            "ro": "O necesitate pentru iubitorii de artă, cu lucrări de Picasso, Miró și Dalí.",
+            "en": "A must-see for art lovers, with works by Picasso, Miró, and Dalí."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Orașul Vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -4.885,
+            36.5105
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Tapas in einer der authentischen Bars in den engen Gassen.",
+            "hu": "Kóstoljon tapasokat az egyik autentikus bárban a szűk utcákban.",
+            "ro": "Încercați tapas la unul dintre barurile autentice de pe străduțele înguste.",
+            "en": "Try some tapas in one of the authentic bars tucked away in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Alameda",
+            "hu": "Alameda Park",
+            "ro": "Parcul Alameda",
+            "en": "Alameda Park"
+          },
+          "coords": [
+            -4.8815,
+            36.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie auf einer der Keramikbänke im Schatten der tropischen Pflanzen.",
+            "hu": "Pihenjen az egyik kerámia padon a trópusi növények árnyékában.",
+            "ro": "Relaxați-vă pe una dintre băncile de ceramică la umbra plantelor tropicale.",
+            "en": "Relax on one of the ceramic benches in the shade of the tropical plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenida del Mar",
+            "hu": "Avenida del Mar",
+            "ro": "Avenida del Mar",
+            "en": "Avenida del Mar"
+          },
+          "coords": [
+            -4.8788,
+            36.5075
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Dalí-Skulpturen und genießen Sie den Blick auf das Meer.",
+            "hu": "Csodálja meg a Dalí-szobrokat és élvezze a tengerre nyíló kilátást. Sétáljon el a partig.",
+            "ro": "Admirați sculpturile lui Dalí și bucurați-vă de vederea la mare. Mergeți până la plajă.",
+            "en": "Admire the Dalí sculptures and enjoy the sea view. Walk down to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Marbellas charmanter Altstadt, dem Plaza de los Naranjos. Schlendern Sie durch die engen Gassen, entdecken Sie historische Kirchen und maurische Mauern, bevor Sie sich der Kunst widmen. Nach dem Mittagessen führt Sie ein entspannter Spaziergang durch den üppigen Alameda-Park zur Avenida del Mar, einer Freiluftgalerie mit Blick auf das Mittelmeer. Der Nachmittag ist für die Sonne und das Meer an der Playa de la Venus reserviert. Ein perfekter Abschluss eines entspannten Tages in Marbella.",
+        "hu": "Kezdje a napot Marbella hangulatos óvárosának szívében, a Plaza de los Naranjos téren. Sétáljon a szűk utcákon, fedezze fel a történelmi templomokat és a mór falakat, mielőtt a művészet felé venné az irányt. Ebéd után egy kellemes séta vezet a buja Alameda parkon keresztül az Avenida del Mar-ra, egy szabadtéri galériára, kilátással a Földközi-tengerre. A délután a napsütésé és a tengeré a Playa de la Venus strandon. Tökéletes befejezése egy pihentető napnak Marbellában.",
+        "ro": "Începeți ziua în inima fermecătorului Oraș Vechi din Marbella, Plaza de los Naranjos. Plimbați-vă pe străduțele înguste, descoperiți biserici istorice și ziduri maure înainte de a vă îndrepta spre artă. După prânz, o plimbare relaxantă prin parcul luxuriant Alameda vă va duce la Avenida del Mar, o galerie în aer liber cu vedere la Mediterană. După-amiaza este rezervată soarelui și mării la Playa de la Venus. Un final perfect pentru o zi relaxantă în Marbella.",
+        "en": "Start your day in the heart of Marbella's charming Old Town, the Plaza de los Naranjos. Wander through narrow streets, discover historic churches and Moorish walls before delving into art. After lunch, a relaxing walk through the lush Alameda Park leads you to Avenida del Mar, an open-air gallery overlooking the Mediterranean. The afternoon is for sun and sea at Playa de la Venus. A perfect end to a relaxed day in Marbella."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espeto de Sardinas",
+            "tip": "Gegrillte Sardinen am Spieß, ein Klassiker an den Strand-Chiringuitos."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "Eine Auswahl an frittiertem Fisch und Meeresfrüchten, perfekt zum Teilen."
+          },
+          {
+            "name": "Ajoblanco",
+            "tip": "Eine kalte Mandelsuppe, erfrischend an heißen Tagen."
+          },
+          {
+            "name": "El Estrecho",
+            "tip": "Eine authentische Tapas-Bar in einer engen Gasse der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espeto de Sardinas",
+            "tip": "Nyárson sült szardínia, klasszikus a tengerparti chiringuitókban."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "Vegyes sült hal és tenger gyümölcsei, tökéletes megosztani."
+          },
+          {
+            "name": "Ajoblanco",
+            "tip": "Hideg mandulaleves, frissítő a forró napokon."
+          },
+          {
+            "name": "El Estrecho",
+            "tip": "Autentikus tapas bár az óváros egyik szűk utcájában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espeto de Sardinas",
+            "tip": "Sardine la grătar pe frigăruie, un clasic la chiringuitos de pe plajă."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "O selecție de pește prăjit și fructe de mare, perfectă pentru a fi împărțită."
+          },
+          {
+            "name": "Ajoblanco",
+            "tip": "O supă rece de migdale, răcoritoare în zilele toride."
+          },
+          {
+            "name": "El Estrecho",
+            "tip": "Un bar de tapas autentic pe o alee îngustă din Orașul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espeto de Sardinas",
+            "tip": "Grilled sardines on a skewer, a classic at the beach chiringuitos."
+          },
+          {
+            "name": "Fritura Malagueña",
+            "tip": "A mix of fried fish and seafood, perfect for sharing."
+          },
+          {
+            "name": "Ajoblanco",
+            "tip": "A cold almond soup, refreshing on hot days."
+          },
+          {
+            "name": "El Estrecho",
+            "tip": "An authentic tapas bar in a narrow alley of the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "Eine ruhige Oase mit einem kleinen Amphitheater, abseits der Touristenpfade.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa del Cable",
+            "tip": "Ein ruhigerer Strandabschnitt östlich des Zentrums, ideal zum Entspannen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Fluss Guadalpín",
+            "tip": "Ein friedlicher Weg entlang des kleinen Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Gärten des Museo Ralli",
+            "tip": "Auch wenn Sie das Museum nicht besuchen, sind die Gärten ein Ort der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "Csendes oázis egy kis amfiteátrummal, távol a turistaútvonalaktól.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa del Cable",
+            "tip": "Csendesebb strand a központtól keletre, ideális a pihenéshez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Guadalpín folyó mentén",
+            "tip": "Békés ösvény a kis folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Museo Ralli kertjei",
+            "tip": "Még ha nem is látogatja meg a múzeumot, a kertek a nyugalom helyszínei.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "O oază de liniște cu un mic amfiteatru, departe de traseele turistice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa del Cable",
+            "tip": "O porțiune de plajă mai liniștită la est de centru, ideală pentru relaxare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare pe malul râului Guadalpín",
+            "tip": "O potecă pașnică de-a lungul micului râu.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Muzeului Ralli",
+            "tip": "Chiar dacă nu vizitați muzeul, grădinile sunt un loc de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parque de la Constitución",
+            "tip": "A quiet oasis with a small amphitheater, off the main tourist track.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa del Cable",
+            "tip": "A quieter stretch of beach east of the center, perfect for relaxing.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Guadalpín River Walk",
+            "tip": "A peaceful path along the small river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Museo Ralli",
+            "tip": "Even if you don't visit the museum, the gardens are a peaceful spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt von Marbella",
+            "tip": "Stöbern Sie in den kleinen Boutiquen nach handgefertigtem Schmuck und Lederwaren."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Ein lokaler Markt, auf dem Sie frische Produkte und andalusische Spezialitäten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marbella óvárosa",
+            "tip": "Böngésszen a kis butikokban kézzel készített ékszerek és bőráruk után."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "Helyi piac, ahol friss termékeket és andalúz specialitásokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orașul Vechi Marbella",
+            "tip": "Răsfoiți micile buticuri pentru bijuterii artizanale și articole din piele."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "O piață locală unde puteți găsi produse proaspete și specialități andaluze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marbella Old Town",
+            "tip": "Browse the small boutiques for handmade jewelry and leather goods."
+          },
+          {
+            "name": "Mercado Municipal",
+            "tip": "A local market where you can find fresh produce and Andalusian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Nehmen Sie viel Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Geschäfte halten eine Siesta von ca. 14:00 bis 17:00 Uhr.",
+          "Verlieren Sie sich absichtlich in den Gassen der Altstadt – es ist der beste Weg, ihre verborgenen Schätze zu entdecken."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "Vigyen magával sok vizet, különösen a nyári hónapokban.",
+          "A legtöbb üzlet sziesztát tart kb. 14:00 és 17:00 óra között.",
+          "Szándékosan tévedjen el az óváros sikátoraiban – ez a legjobb módja a rejtett kincsek felfedezésének."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din Orașul Vechi poate fi denivelat.",
+          "Luați multă apă cu dumneavoastră, mai ales în lunile de vară.",
+          "Majoritatea magazinelor țin siesta de la aproximativ 14:00 la 17:00.",
+          "Rătăciți-vă intenționat pe aleile Orașului Vechi - este cel mai bun mod de a descoperi comorile sale ascunse."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the Old Town can be uneven.",
+          "Bring plenty of water, especially during the summer months.",
+          "Most shops observe a siesta from around 2 PM to 5 PM.",
+          "Get intentionally lost in the alleyways of the Old Town – it's the best way to discover its hidden gems."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih & Start an der Promenade",
+            "hu": "Kerékpárkölcsönzés és indulás a promenádról",
+            "ro": "Închiriere de biciclete și start de pe promenadă",
+            "en": "Bike Rental & Start on the Promenade"
+          },
+          "coords": [
+            -4.878,
+            36.507
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad für den Tag. Prüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
+            "hu": "Béreljen kerékpárt egy napra. Indulás előtt ellenőrizze a fékeket és a gumikat.",
+            "ro": "Închiriați o bicicletă pentru o zi. Verificați frânele și anvelopele înainte de a porni.",
+            "en": "Rent a bike for the day. Check the brakes and tires before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang der Goldenen Meile",
+            "hu": "Biciklizés az Arany Mérföldön",
+            "ro": "Plimbare pe Milla de Aur",
+            "en": "Ride along the Golden Mile"
+          },
+          "coords": [
+            -4.915,
+            36.495
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die luxuriösen Villen und das Meer.",
+            "hu": "Élvezze a luxusvillákra és a tengerre nyíló kilátást.",
+            "ro": "Bucurați-vă de priveliștea vilelor de lux și a mării.",
+            "en": "Enjoy the views of the luxurious villas and the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Banús",
+            "hu": "Puerto Banús",
+            "ro": "Puerto Banús",
+            "en": "Puerto Banús"
+          },
+          "coords": [
+            -4.953,
+            36.4855
+          ],
+          "category": "port",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und schlendern Sie durch den Yachthafen. Bewundern Sie die Yachten und Luxusautos.",
+            "hu": "Zárja le a kerékpárt, és sétáljon a kikötőben. Csodálja meg a jachtokat és a luxusautókat.",
+            "ro": "Parcați bicicleta și plimbați-vă prin port. Admirați iahturile și mașinile de lux.",
+            "en": "Park your bike and stroll around the marina. Admire the yachts and luxury cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Puerto Banús",
+            "hu": "Ebéd Puerto Banúsban",
+            "ro": "Prânz în Puerto Banús",
+            "en": "Lunch in Puerto Banús"
+          },
+          "coords": [
+            -4.9545,
+            36.486
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Es gibt viele Restaurants mit Blick auf den Hafen. Ideal für Leute zu beobachten.",
+            "hu": "Számos étterem néz a kikötőre. Ideális a bámészkodáshoz.",
+            "ro": "Există multe restaurante cu vedere la port. Ideal pentru a privi oamenii.",
+            "en": "There are many restaurants with views of the marina. Great for people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Marbella & Parque de la Alameda",
+            "hu": "Visszaút Marbellába és az Alameda Park",
+            "ro": "Întoarcere în Marbella și Parcul Alameda",
+            "en": "Ride back to Marbella & Alameda Park"
+          },
+          "coords": [
+            -4.8815,
+            36.5085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Fahrrad zurück und machen Sie einen entspannten Spaziergang durch den Park.",
+            "hu": "Adja le a kerékpárt, és tegyen egy pihentető sétát a parkban.",
+            "ro": "Returnați bicicleta și faceți o plimbare relaxantă prin parc.",
+            "en": "Return your bike and take a relaxing stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de los Naranjos & Altstadt",
+            "hu": "Plaza de los Naranjos és az óváros",
+            "ro": "Plaza de los Naranjos și Orașul Vechi",
+            "en": "Plaza de los Naranjos & Old Town"
+          },
+          "coords": [
+            -4.8856,
+            36.5102
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen der Altstadt zu Fuß. Jetzt haben Sie sich ein Eis verdient!",
+            "hu": "Fedezze fel gyalog az óváros sikátorait. Most már megérdemel egy fagyit!",
+            "ro": "Explorați aleile Orașului Vechi pe jos. Acum meritați o înghețată!",
+            "en": "Explore the alleys of the Old Town on foot. You've earned an ice cream by now!"
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour ist ideal, um Marbellas Küste zu erkunden. Starten Sie an der Promenade, fahren Sie entlang der berühmten Goldenen Meile und erreichen Sie den glamourösen Hafen von Puerto Banús. Nach dem Mittagessen und der Bewunderung der Superyachten radeln Sie gemütlich zurück ins Zentrum. Tauschen Sie Ihr Fahrrad gegen Ihre Füße, um den Nachmittag im historischen Herzen von Marbella ausklingen zu lassen, wo Sie die charmante Altstadt und den lebhaften Plaza de los Naranjos entdecken.",
+        "hu": "A kerékpártúra ideális Marbella partvonalának felfedezéséhez. Induljon a promenádról, tekerjen végig a híres Arany Mérföldön, és érje el Puerto Banús csillogó kikötőjét. Ebéd és a szuperjachtok megcsodálása után kényelmesen tekerjen vissza a központba. Cserélje le a kerékpárt a lábára, hogy a délutánt Marbella történelmi szívében fejezze be, felfedezve a bájos óvárost és a nyüzsgő Plaza de los Naranjos teret.",
+        "ro": "Un tur cu bicicleta este ideal pentru a explora coasta Marbellei. Porniți de pe promenadă, pedalați de-a lungul faimoasei Mile de Aur și ajungeți în portul plin de farmec Puerto Banús. După prânz și admirarea super-iahturilor, pedalați înapoi spre centru. Schimbați bicicleta cu picioarele pentru a încheia după-amiaza în inima istorică a Marbellei, descoperind fermecătorul Oraș Vechi și animata Plaza de los Naranjos.",
+        "en": "A bike tour is perfect for exploring Marbella's coastline. Start from the promenade, ride along the famous Golden Mile, and reach the glamorous marina of Puerto Banús. After lunch and admiring the super-yachts, cycle leisurely back to the center. Swap your bike for your feet to end the afternoon in the historical heart of Marbella, discovering the charming Old Town and the lively Plaza de los Naranjos."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pescaíto frito",
+            "tip": "Frittierter kleiner Fisch, ein Muss in jedem Küstenort."
+          },
+          {
+            "name": "Gambas al pil-pil",
+            "tip": "Garnelen in Knoblauch-Chili-Öl, köstlich mit Brot zum Dippen."
+          },
+          {
+            "name": "Pizzeria Picasso (Puerto Banús)",
+            "tip": "Eine Institution in Puerto Banús, bekannt für riesige Pizzen und Salate."
+          },
+          {
+            "name": "Bodega La Venencia",
+            "tip": "Traditionelle Tapas und lokaler Wein in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pescaíto frito",
+            "tip": "Sült apró hal, kötelező minden tengerparti városban."
+          },
+          {
+            "name": "Gambas al pil-pil",
+            "tip": "Garnéla fokhagymás-chilis olajban, finom kenyérrel mártogatva."
+          },
+          {
+            "name": "Pizzeria Picasso (Puerto Banús)",
+            "tip": "Egy intézmény Puerto Banúsban, híres az óriási pizzáiról és salátáiról."
+          },
+          {
+            "name": "Bodega La Venencia",
+            "tip": "Hagyományos tapasok és helyi bor az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pescaíto frito",
+            "tip": "Pește mic prăjit, un deliciu în orice oraș de coastă."
+          },
+          {
+            "name": "Gambas al pil-pil",
+            "tip": "Creveți în ulei cu usturoi și chili, delicioși cu pâine pentru înmuiat."
+          },
+          {
+            "name": "Pizzeria Picasso (Puerto Banús)",
+            "tip": "O instituție în Puerto Banús, renumită pentru pizza și salate uriașe."
+          },
+          {
+            "name": "Bodega La Venencia",
+            "tip": "Tapas tradiționale și vin local în Orașul Vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pescaíto frito",
+            "tip": "Fried small fish, a must-try in any coastal town."
+          },
+          {
+            "name": "Gambas al pil-pil",
+            "tip": "Prawns in garlic and chili oil, delicious with bread for dipping."
+          },
+          {
+            "name": "Pizzeria Picasso (Puerto Banús)",
+            "tip": "An institution in Puerto Banús, famous for huge pizzas and salads."
+          },
+          {
+            "name": "Bodega La Venencia",
+            "tip": "Traditional tapas and local wine in the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Playa de Nagüeles",
+            "tip": "Ein schöner und oft ruhiger Strand an der Goldenen Meile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lago de las Tortugas",
+            "tip": "Ein kleiner See etwas im Landesinneren, ein friedlicher Ort.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt am Ende von Puerto Banús",
+            "tip": "Gehen Sie bis zum Ende des Wellenbrechers für eine tolle Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Vigil de Quiñones",
+            "tip": "Ein großer Waldpark nördlich der Stadt, ideal für eine Pause vom Trubel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Playa de Nagüeles",
+            "tip": "Szép és gyakran csendes strand az Arany Mérföldön.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lago de las Tortugas",
+            "tip": "Egy kis tó a szárazföld belsejében, egy békés hely.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátópont Puerto Banús végén",
+            "tip": "Menjen el a hullámtörő gát végéig a nagyszerű kilátásért.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Vigil de Quiñones",
+            "tip": "Nagy erdős park a várostól északra, ideális a nyüzsgésből való kiszakadáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Playa de Nagüeles",
+            "tip": "O plajă frumoasă și adesea liniștită pe Milla de Aur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lago de las Tortugas",
+            "tip": "Un mic lac în interior, un loc pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la capătul Puerto Banús",
+            "tip": "Mergeți până la capătul digului pentru o priveliște superbă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Vigil de Quiñones",
+            "tip": "Un parc forestier mare la nord de oraș, ideal pentru o pauză de la agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Playa de Nagüeles",
+            "tip": "A beautiful and often quiet beach on the Golden Mile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lago de las Tortugas",
+            "tip": "A small lake slightly inland, a peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at the end of Puerto Banús",
+            "tip": "Walk to the end of the breakwater for a great view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parque Vigil de Quiñones",
+            "tip": "A large forest park north of the city, ideal for a break from the hustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Puerto Banús Marina",
+            "tip": "Hier finden Sie alle Luxusmarken von Dior bis Louis Vuitton."
+          },
+          {
+            "name": "El Corte Inglés",
+            "tip": "Ein großes Kaufhaus in Puerto Banús mit einer riesigen Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puerto Banús kikötő",
+            "tip": "Itt minden luxusmárkát megtalál a Dior-tól a Louis Vuitton-ig."
+          },
+          {
+            "name": "El Corte Inglés",
+            "tip": "Nagy áruház Puerto Banúsban, hatalmas választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Puerto Banús",
+            "tip": "Aici veți găsi toate mărcile de lux, de la Dior la Louis Vuitton."
+          },
+          {
+            "name": "El Corte Inglés",
+            "tip": "Un mare magazin universal în Puerto Banús cu o selecție uriașă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puerto Banús Marina",
+            "tip": "You'll find all the luxury brands here, from Dior to Louis Vuitton."
+          },
+          {
+            "name": "El Corte Inglés",
+            "tip": "A large department store in Puerto Banús with a huge selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders in Puerto Banús.",
+          "Benutzen Sie den Radweg entlang der Küste, er ist sicher und bietet tolle Ausblicke.",
+          "Eine Klingel ist nützlich, um Fußgänger auf der belebten Promenade zu warnen.",
+          "Planen Sie Zeit für Fotostopps ein – die Küste ist wunderschön."
+        ],
+        "hu": [
+          "Mindig zárja le jól a kerékpárt, különösen Puerto Banúsban.",
+          "Használja a tengerparti kerékpárutat, biztonságos és nagyszerű kilátást nyújt.",
+          "A csengő hasznos a gyalogosok figyelmeztetésére a forgalmas sétányon.",
+          "Tervezzen időt fotómegállókra – a partvonal gyönyörű."
+        ],
+        "ro": [
+          "Încuietăți întotdeauna bine bicicleta, mai ales în Puerto Banús.",
+          "Folosiți pista de biciclete de-a lungul coastei; este sigură și oferă priveliști minunate.",
+          "Un clopoțel este util pentru a avertiza pietonii pe promenada aglomerată.",
+          "Planificați timp pentru opriri foto - coasta este superbă."
+        ],
+        "en": [
+          "Always lock your bike securely, especially in Puerto Banús.",
+          "Use the cycle path along the coast; it's safe and offers great views.",
+          "A bell is useful to alert pedestrians on the busy promenade.",
+          "Plan for photo stops – the coastline is beautiful."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 25.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start in der Altstadt",
+            "hu": "Parkolás és indulás az óvárosban",
+            "ro": "Parcare și start în Orașul Vechi",
+            "en": "Parking and Start in the Old Town"
+          },
+          "coords": [
+            -4.886,
+            36.5125
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie ein öffentliches Parkhaus am Rande der Altstadt.",
+            "hu": "Használjon egy nyilvános parkolóházat az óváros szélén.",
+            "ro": "Folosiți o parcare publică la marginea Orașului Vechi.",
+            "en": "Use a public car park on the edge of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de los Naranjos",
+            "hu": "Plaza de los Naranjos",
+            "ro": "Plaza de los Naranjos",
+            "en": "Plaza de los Naranjos"
+          },
+          "coords": [
+            -4.8856,
+            36.5102
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der Erkundung des Herzens der Altstadt.",
+            "hu": "Kezdje az óváros szívének felfedezésével.",
+            "ro": "Începeți explorarea inimii Orașului Vechi.",
+            "en": "Start by exploring the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Encarnación & Castillo",
+            "hu": "Iglesia de la Encarnación és a Vár",
+            "ro": "Biserica Întrupării și Castelul",
+            "en": "Church of the Incarnation & Castle"
+          },
+          "coords": [
+            -4.8845,
+            36.5095
+          ],
+          "category": "cluster",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "Ez a két történelmi helyszín csak pár lépésre van egymástól.",
+            "ro": "Aceste două situri istorice sunt la doar câțiva pași unul de celălalt.",
+            "en": "These two historical sites are just a few steps from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Basílica de Vega del Mar",
+            "hu": "Utazás a Basílica de Vega del Mar-hoz",
+            "ro": "Călătorie la Bazilica Vega del Mar",
+            "en": "Drive to Basílica de Vega del Mar"
+          },
+          "coords": [
+            -4.9745,
+            36.483
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser frühchristlichen westgotischen Kirche.",
+            "hu": "Fedezze fel ennek a korai keresztény, nyugati gót templomnak a romjait.",
+            "ro": "Descoperiți ruinele acestei biserici vizigote paleocreștine.",
+            "en": "Discover the ruins of this early Christian Visigothic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in San Pedro Alcántara",
+            "hu": "Ebéd San Pedro Alcántarában",
+            "ro": "Prânz în San Pedro Alcántara",
+            "en": "Lunch in San Pedro Alcántara"
+          },
+          "coords": [
+            -4.989,
+            36.488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein authentisches andalusisches Essen abseits der Haupttouristengebiete.",
+            "hu": "Élvezzen egy autentikus andalúz ebédet a fő turistaövezetektől távol.",
+            "ro": "Bucurați-vă de o masă andaluză autentică, departe de zonele turistice principale.",
+            "en": "Enjoy an authentic Andalusian meal away from the main tourist areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt nach Puerto Banús",
+            "hu": "Utazás Puerto Banúsba",
+            "ro": "Călătorie la Puerto Banús",
+            "en": "Drive to Puerto Banús"
+          },
+          "coords": [
+            -4.953,
+            36.4855
+          ],
+          "category": "port",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Yachthafen und nehmen Sie sich Zeit für die Erkundung.",
+            "hu": "Parkoljon a kikötőben, és szánjon időt a felfedezésre.",
+            "ro": "Parcați în port și acordați-vă timp pentru a explora.",
+            "en": "Park in the marina and take your time to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Shopping & Flanieren in Puerto Banús",
+            "hu": "Vásárlás és séta Puerto Banúsban",
+            "ro": "Cumpărături și plimbare în Puerto Banús",
+            "en": "Shopping & Strolling in Puerto Banús"
+          },
+          "coords": [
+            -4.9555,
+            36.4865
+          ],
+          "category": "shopping",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fensterbummel bei den Designermarken oder genießen Sie einen Drink mit Blick auf die Yachten.",
+            "hu": "Nézze meg a designer márkák kirakatait, vagy igyon meg egy italt a jachtokra néző kilátással.",
+            "ro": "Priviți vitrinele magazinelor de designer sau savurați o băutură cu vedere la iahturi.",
+            "en": "Window shop at the designer brands or enjoy a drink overlooking the yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zur Goldenen Meile für den Sonnenuntergang",
+            "hu": "Utazás az Arany Mérföldre naplementét nézni",
+            "ro": "Călătorie spre Milla de Aur pentru apus",
+            "en": "Drive to the Golden Mile for Sunset"
+          },
+          "coords": [
+            -4.915,
+            36.495
+          ],
+          "category": "sunset",
+          "arrive_at": "17:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen schönen Platz an einem der Strände und genießen Sie das Ende des Tages.",
+            "hu": "Keressen egy szép helyet az egyik strandon, és élvezze a nap végét.",
+            "ro": "Găsiți un loc frumos pe una dintre plaje și bucurați-vă de sfârșitul zilei.",
+            "en": "Find a nice spot on one of the beaches and enjoy the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Vielfalt von Marbella und Umgebung entdecken. Beginnen Sie im historischen Kern, wo Sie die Altstadt zu Fuß erkunden (Cluster 1). Fahren Sie dann zu den faszinierenden frühchristlichen Ruinen der Basílica de Vega del Mar (Cluster 2). Nach einem authentischen Mittagessen in San Pedro geht es weiter zum weltberühmten Puerto Banús (Cluster 3), wo Luxus und Glamour auf Sie warten. Beenden Sie den Tag mit einer malerischen Fahrt entlang der Goldenen Meile, um den Sonnenuntergang über dem Mittelmeer zu erleben.",
+        "hu": "Autóval felfedezheti Marbella és környékének sokszínűségét. Kezdje a történelmi központban, ahol gyalogosan fedezi fel az óvárost (1. klaszter). Ezután vezessen el a lenyűgöző korai keresztény Basílica de Vega del Mar romjaihoz (2. klaszter). Egy autentikus San Pedro-i ebéd után folytassa útját a világhírű Puerto Banúsba (3. klaszter), ahol luxus és csillogás várja. Fejezze be a napot egy festői autózással az Arany Mérföld mentén, hogy megnézze a naplementét a Földközi-tenger felett.",
+        "ro": "Cu mașina puteți descoperi diversitatea din Marbella și împrejurimi. Începeți în centrul istoric, unde explorați Orașul Vechi pe jos (Cluster 1). Apoi conduceți la ruinele fascinante paleocreștine ale Bazilicii Vega del Mar (Cluster 2). După un prânz autentic în San Pedro, continuați spre faimosul Puerto Banús (Cluster 3), unde vă așteaptă luxul și farmecul. Încheiați ziua cu o plimbare pitorească de-a lungul Milei de Aur pentru a admira apusul peste Mediterană.",
+        "en": "A car allows you to discover the diversity of Marbella and its surroundings. Start in the historic core, exploring the Old Town on foot (Cluster 1). Then, drive to the fascinating early Christian ruins of the Basílica de Vega del Mar (Cluster 2). After an authentic lunch in San Pedro, continue to the world-famous Puerto Banús (Cluster 3), where luxury and glamour await. End the day with a scenic drive along the Golden Mile to watch the sunset over the Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Ancla (San Pedro)",
+            "tip": "Exzellente Meeresfrüchte mit atemberaubendem Meerblick."
+          },
+          {
+            "name": "La Bodega del Cantinero (Marbella)",
+            "tip": "Eine großartige Auswahl an Weinen und kreativen Tapas."
+          },
+          {
+            "name": "Serafina (Puente Romano)",
+            "tip": "Hochwertige italienische Küche in einem eleganten Ambiente."
+          },
+          {
+            "name": "Trocadero Playa",
+            "tip": "Ein stilvoller Beach Club an der Goldenen Meile, perfekt für einen Sundowner."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Ancla (San Pedro)",
+            "tip": "Kiváló tengeri ételek lenyűgöző tengeri kilátással."
+          },
+          {
+            "name": "La Bodega del Cantinero (Marbella)",
+            "tip": "Nagy borválaszték és kreatív tapasok."
+          },
+          {
+            "name": "Serafina (Puente Romano)",
+            "tip": "Magas minőségű olasz konyha elegáns környezetben."
+          },
+          {
+            "name": "Trocadero Playa",
+            "tip": "Stílusos strandklub az Arany Mérföldön, tökéletes egy naplementés italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Ancla (San Pedro)",
+            "tip": "Fructe de mare excelente cu o priveliște uluitoare la mare."
+          },
+          {
+            "name": "La Bodega del Cantinero (Marbella)",
+            "tip": "O selecție excelentă de vinuri și tapas creative."
+          },
+          {
+            "name": "Serafina (Puente Romano)",
+            "tip": "Bucătărie italiană de înaltă calitate într-un cadru elegant."
+          },
+          {
+            "name": "Trocadero Playa",
+            "tip": "Un club de plajă elegant pe Milla de Aur, perfect pentru o băutură la apus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Ancla (San Pedro)",
+            "tip": "Excellent seafood with stunning sea views."
+          },
+          {
+            "name": "La Bodega del Cantinero (Marbella)",
+            "tip": "A great selection of wines and creative tapas."
+          },
+          {
+            "name": "Serafina (Puente Romano)",
+            "tip": "High-quality Italian cuisine in an elegant setting."
+          },
+          {
+            "name": "Trocadero Playa",
+            "tip": "A stylish beach club on the Golden Mile, perfect for a sundowner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dunas de Artola (Cabopino)",
+            "tip": "Ein Naturschutzgebiet mit Sanddünen und einem ruhigen Strand, eine kurze Autofahrt entfernt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonsai-Museum",
+            "tip": "Eine friedliche und einzigartige Sammlung von Miniaturbäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Gärten des Puente Romano Hotels",
+            "tip": "Wunderschön angelegte subtropische Gärten, die man durchwandern kann.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Leuchtturm von Marbella",
+            "tip": "Ein klassischer Ort, um die Farben des Himmels zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dunas de Artola (Cabopino)",
+            "tip": "Természetvédelmi terület homokdűnékkel és csendes stranddal, rövid autóútra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonsai Múzeum",
+            "tip": "Békés és egyedülálló miniatűr fa gyűjtemény."
+          },
+          {
+            "name": "A Puente Romano Hotel kertjei",
+            "tip": "Gyönyörűen parkosított szubtrópusi kertek, amelyeken átsétálhat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a marbellai világítótoronynál",
+            "tip": "Klasszikus hely az ég színeinek megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunas de Artola (Cabopino)",
+            "tip": "O rezervație naturală cu dune de nisip și o plajă liniștită, la o scurtă călătorie cu mașina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muzeul Bonsai",
+            "tip": "O colecție pașnică și unică de copaci miniaturali.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădinile Hotelului Puente Romano",
+            "tip": "Grădini subtropicale frumos amenajate prin care vă puteți plimba.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare la farul din Marbella",
+            "tip": "Un loc clasic pentru a privi culorile cerului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dunas de Artola (Cabopino)",
+            "tip": "A nature reserve with sand dunes and a quiet beach, a short drive away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bonsai Museum",
+            "tip": "A peaceful and unique collection of miniature trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gardens of the Puente Romano Hotel",
+            "tip": "Beautifully landscaped subtropical gardens you can wander through.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset at Marbella Lighthouse",
+            "tip": "A classic spot to watch the colors of the sky.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Cañada Shopping",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand mit allen bekannten Marken."
+          },
+          {
+            "name": "Avenida Ricardo Soriano",
+            "tip": "Marbellas Haupteinkaufsstraße mit einer Mischung aus spanischen und internationalen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cañada Shopping",
+            "tip": "Nagy bevásárlóközpont a város szélén, minden ismert márkával."
+          },
+          {
+            "name": "Avenida Ricardo Soriano",
+            "tip": "Marbella fő bevásárlóutcája, spanyol és nemzetközi üzletek keverékével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Cañada Shopping",
+            "tip": "Un mare centru comercial la marginea orașului, cu toate mărcile cunoscute."
+          },
+          {
+            "name": "Avenida Ricardo Soriano",
+            "tip": "Strada principală de cumpărături din Marbella, cu un amestec de magazine spaniole și internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Cañada Shopping",
+            "tip": "A large shopping mall on the outskirts of the city with all the well-known brands."
+          },
+          {
+            "name": "Avenida Ricardo Soriano",
+            "tip": "Marbella's main shopping street with a mix of Spanish and international stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann teuer sein, besonders in Puerto Banús. Suchen Sie nach öffentlichen Parkhäusern.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, es gibt viele Blitzer.",
+          "Die Straßen in der Altstadt sind nur für Anwohner, fahren Sie nicht hinein.",
+          "Ein GPS ist unerlässlich, um sich zwischen den verschiedenen Gegenden zurechtzufinden."
+        ],
+        "hu": [
+          "A parkolás drága lehet, különösen Puerto Banúsban. Keressen nyilvános parkolóházakat.",
+          "Vegye figyelembe a sebességkorlátozásokat, sok a sebességmérő kamera.",
+          "Az óváros utcái csak a lakosok számára engedélyezettek, ne hajtson be.",
+          "GPS elengedhetetlen a különböző területek közötti eligazodáshoz."
+        ],
+        "ro": [
+          "Parcarea poate fi scumpă, mai ales în Puerto Banús. Căutați parcări publice.",
+          "Respectați limitele de viteză; există multe radare.",
+          "Străzile din Orașul Vechi sunt doar pentru rezidenți, nu intrați cu mașina.",
+          "Un GPS este esențial pentru a naviga între diferitele zone."
+        ],
+        "en": [
+          "Parking can be expensive, especially in Puerto Banús. Look for public car parks.",
+          "Be aware of speed limits; there are many speed cameras.",
+          "The streets in the Old Town are for residents only, do not drive in.",
+          "A GPS is essential for navigating between the different areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft an der Busstation Alameda",
+            "hu": "Érkezés az Alameda buszmegállóba",
+            "ro": "Sosire la stația de autobuz Alameda",
+            "en": "Arrival at Alameda Bus Stop"
+          },
+          "coords": [
+            -4.881,
+            36.509
+          ],
+          "category": "activity",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Dies ist ein zentraler Knotenpunkt für viele lokale Buslinien.",
+            "hu": "Ez egy központi csomópont számos helyi buszjárat számára.",
+            "ro": "Acesta este un nod central pentru multe linii de autobuz locale.",
+            "en": "This is a central hub for many local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Alameda & Avenida del Mar",
+            "hu": "Alameda Park és Avenida del Mar",
+            "ro": "Parcul Alameda și Avenida del Mar",
+            "en": "Alameda Park & Avenida del Mar"
+          },
+          "coords": [
+            -4.8788,
+            36.5075
+          ],
+          "category": "cluster",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einem Spaziergang zum Meer und bewundern Sie die Dalí-Skulpturen.",
+            "hu": "Kezdje egy sétával a tenger felé, és csodálja meg a Dalí-szobrokat.",
+            "ro": "Începeți cu o plimbare spre mare, admirând sculpturile lui Dalí.",
+            "en": "Start with a walk towards the sea, admiring the Dalí sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Altstadt",
+            "hu": "Séta az óvárosba",
+            "ro": "Plimbare spre Orașul Vechi",
+            "en": "Walk to the Old Town"
+          },
+          "coords": [
+            -4.8856,
+            36.5102
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Plaza de los Naranjos und die umliegenden historischen Gebäude.",
+            "hu": "Fedezze fel a Plaza de los Naranjos teret és a környező történelmi épületeket.",
+            "ro": "Explorați Plaza de los Naranjos și clădirile istorice din jur.",
+            "en": "Explore Plaza de los Naranjos and the surrounding historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Puerto Banús",
+            "hu": "Buszozás Puerto Banúsba",
+            "ro": "Călătorie cu autobuzul spre Puerto Banús",
+            "en": "Bus ride to Puerto Banús"
+          },
+          "coords": [
+            -4.953,
+            36.4855
+          ],
+          "category": "port",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie L1. Die Fahrt dauert etwa 25-30 Minuten.",
+            "hu": "Válassza az L1-es vonalat. Az út körülbelül 25-30 percig tart.",
+            "ro": "Luați linia L1. Călătoria durează aproximativ 25-30 de minute.",
+            "en": "Take the L1 line. The journey takes about 25-30 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Erkundung von Puerto Banús",
+            "hu": "Ebéd és Puerto Banús felfedezése",
+            "ro": "Prânz și explorare în Puerto Banús",
+            "en": "Lunch and exploration in Puerto Banús"
+          },
+          "coords": [
+            -4.9545,
+            36.486
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Hafen und suchen Sie sich ein schönes Restaurant für das Mittagessen.",
+            "hu": "Sétáljon a kikötőben, és keressen egy szép éttermet az ebédhez.",
+            "ro": "Plimbați-vă prin port și alegeți un restaurant frumos pentru prânz.",
+            "en": "Stroll around the marina and pick a nice restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt zurück nach Marbella Zentrum",
+            "hu": "Buszozás vissza Marbella központjába",
+            "ro": "Călătorie cu autobuzul înapoi în centrul Marbellei",
+            "en": "Bus ride back to Marbella Center"
+          },
+          "coords": [
+            -4.888,
+            36.513
+          ],
+          "category": "activity",
+          "arrive_at": "16:25",
+          "stay_min": 0,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie wieder die Linie L1, um zurückzufahren.",
+            "hu": "A visszautazáshoz ismét az L1-es vonalat válassza.",
+            "ro": "Luați din nou linia L1 pentru a vă întoarce.",
+            "en": "Take the L1 line again to go back."
+          }
+        },
+        {
+          "name": {
+            "de": "Absacker in der Altstadt",
+            "hu": "Búcsúital az óvárosban",
+            "ro": "O ultimă băutură în Orașul Vechi",
+            "en": "Farewell drink in the Old Town"
+          },
+          "coords": [
+            -4.8852,
+            36.5108
+          ],
+          "category": "gastro",
+          "arrive_at": "16:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in einer der vielen Bars auf dem Plaza de los Naranjos ausklingen.",
+            "hu": "Zárja a napot egy itallal a Plaza de los Naranjos egyik bárjában.",
+            "ro": "Încheiați ziua cu o băutură la unul dintre numeroasele baruri din Plaza de los Naranjos.",
+            "en": "End the day with a drink at one of the many bars in Plaza de los Naranjos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Marbellas öffentliches Verkehrsnetz verbindet die wichtigsten Sehenswürdigkeiten auf effiziente Weise. Starten Sie im Zentrum (Cluster A), wo Sie Parks und die Skulpturen der Avenida del Mar erkunden, bevor Sie in die charmante Altstadt eintauchen. Eine kurze Busfahrt bringt Sie dann in den glamourösen Hafen von Puerto Banús (Cluster B). Verbringen Sie den Mittag mit der Beobachtung von Yachten und einem köstlichen Essen. Am späten Nachmittag kehren Sie mit dem Bus ins Zentrum zurück, um den Tag bei einem Drink in der historischen Atmosphäre der Altstadt ausklingen zu lassen.",
+        "hu": "Marbella tömegközlekedési hálózata hatékonyan köti össze a főbb látnivalókat. Kezdje a központban (A klaszter), ahol felfedezheti a parkokat és az Avenida del Mar szobrait, mielőtt elmerülne a bájos óvárosban. Egy rövid buszút elviszi Önt Puerto Banús csillogó kikötőjébe (B klaszter). Töltse a délt jachtnézéssel és egy finom ebéddel. Késő délután busszal térjen vissza a központba, hogy egy itallal zárja a napot az óváros történelmi hangulatában.",
+        "ro": "Rețeaua de transport public din Marbella leagă eficient principalele atracții. Începeți în centru (Cluster A), unde explorați parcurile și sculpturile de pe Avenida del Mar înainte de a vă cufunda în fermecătorul Oraș Vechi. O scurtă călătorie cu autobuzul vă va duce apoi în portul plin de farmec Puerto Banús (Cluster B). Petreceți amiaza admirând iahturi și savurând o masă delicioasă. La sfârșitul după-amiezii, întoarceți-vă în centru cu autobuzul pentru a încheia ziua cu o băutură în atmosfera istorică a Orașului Vechi.",
+        "en": "Marbella's public transport network efficiently connects its main attractions. Start in the center (Cluster A), exploring the parks and sculptures of Avenida del Mar before diving into the charming Old Town. A short bus ride then takes you to the glamorous marina of Puerto Banús (Cluster B). Spend midday yacht-watching and enjoying a delicious meal. In the late afternoon, return to the center by bus to end your day with a drink in the historic atmosphere of the Old Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Ein klassisches spanisches Frühstück oder ein Nachmittagssnack. Probieren Sie es in der Churrería Ramón."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "Eine dickere, cremigere Version von Gazpacho, oft mit Schinken und Ei serviert."
+          },
+          {
+            "name": "Pinchos",
+            "tip": "Kleine Snacks auf Brot gespießt, suchen Sie nach Bars, die auf Pinchos spezialisiert sind."
+          },
+          {
+            "name": "Taberna La Niña del Pisto",
+            "tip": "Bekannt für traditionelle andalusische Gerichte in einer gemütlichen Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Klasszikus spanyol reggeli vagy délutáni snack. Próbálja ki a Churrería Ramónban."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A gazpacho sűrűbb, krémesebb változata, gyakran sonkával és tojással tálalva."
+          },
+          {
+            "name": "Pinchos",
+            "tip": "Kenyérre tűzött kis falatkák, keressen pinchosra szakosodott bárokat."
+          },
+          {
+            "name": "Taberna La Niña del Pisto",
+            "tip": "Hagyományos andalúz ételeiről ismert, hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Churros con Chocolate",
+            "tip": "Un mic dejun spaniol clasic sau o gustare de după-amiază. Încercați la Churrería Ramón."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "O versiune mai groasă și mai cremoasă de gazpacho, adesea servită cu șuncă și ou."
+          },
+          {
+            "name": "Pinchos",
+            "tip": "Mici gustări înfipte pe pâine, căutați baruri specializate în pinchos."
+          },
+          {
+            "name": "Taberna La Niña del Pisto",
+            "tip": "Renumită pentru mâncăruri tradiționale andaluze într-un cadru primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Churros con Chocolate",
+            "tip": "A classic Spanish breakfast or afternoon snack. Try it at Churrería Ramón."
+          },
+          {
+            "name": "Salmorejo",
+            "tip": "A thicker, creamier version of gazpacho, often served with ham and egg."
+          },
+          {
+            "name": "Pinchos",
+            "tip": "Small snacks skewered on bread, look for bars specializing in pinchos."
+          },
+          {
+            "name": "Taberna La Niña del Pisto",
+            "tip": "Known for traditional Andalusian dishes in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Murallas del Castillo",
+            "tip": "Gehen Sie um die alten Mauern herum; es ist oft ruhiger als im Zentrum des Platzes.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de la Fontanilla",
+            "tip": "Ein zentraler, aber oft weniger überfüllter Strand als Venus Beach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Rey Don Pedro",
+            "tip": "Kleine, ruhige Gärten direkt neben der Kirche.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Pública de Marbella",
+            "tip": "Setzen Sie sich für eine Weile in die öffentliche Bibliothek, um der Hitze zu entkommen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murallas del Castillo",
+            "tip": "Sétáljon körbe a régi falak mentén; gyakran csendesebb, mint a tér közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de la Fontanilla",
+            "tip": "Központi, de gyakran kevésbé zsúfolt strand, mint a Venus Beach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Rey Don Pedro",
+            "tip": "Kicsi, csendes kertek közvetlenül a templom mellett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Pública de Marbella",
+            "tip": "Üljön be egy időre a közkönyvtárba, hogy elmeneküljön a hőség elől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Murallas del Castillo",
+            "tip": "Plimbați-vă în jurul zidurilor vechi; este adesea mai liniștit decât centrul pieței.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de la Fontanilla",
+            "tip": "O plajă centrală, dar adesea mai puțin aglomerată decât Plaja Venus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Rey Don Pedro",
+            "tip": "Grădini mici și liniștite chiar lângă biserică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Pública de Marbella",
+            "tip": "Stați o vreme în biblioteca publică pentru a scăpa de căldură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Murallas del Castillo",
+            "tip": "Walk around the old walls; it's often quieter than the center of the square.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Playa de la Fontanilla",
+            "tip": "A central but often less crowded beach than Venus Beach.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines del Rey Don Pedro",
+            "tip": "Small, quiet gardens right next to the church.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Biblioteca Pública de Marbella",
+            "tip": "Sit in the public library for a while to escape the heat.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Eine charmante Straße in der Altstadt mit einzigartigen kleinen Geschäften."
+          },
+          {
+            "name": "Ökologischer Markt",
+            "tip": "Findet an bestimmten Samstagen statt, mit lokalen Bio-Produkten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Ancha",
+            "tip": "Hangulatos utca az óvárosban, egyedi kis üzletekkel."
+          },
+          {
+            "name": "Ökológiai piac",
+            "tip": "Bizonyos szombatokon tartják, helyi bio termékekkel és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Ancha",
+            "tip": "O stradă fermecătoare în Orașul Vechi, cu mici magazine unice."
+          },
+          {
+            "name": "Piața Ecologică",
+            "tip": "Are loc în anumite sâmbete, cu produse organice locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Ancha",
+            "tip": "A charming street in the old town with unique small shops."
+          },
+          {
+            "name": "Ecological Market",
+            "tip": "Held on certain Saturdays, with local organic produce and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Buskarte (Tarjeta Monedero) für günstigere Fahrpreise.",
+          "Behalten Sie den Busfahrplan im Auge, besonders am Abend.",
+          "Die Busse können in der Hochsaison sehr voll werden, seien Sie also auf Stehplätze vorbereitet.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus."
+        ],
+        "hu": [
+          "Vásároljon újratölthető buszkártyát (Tarjeta Monedero) az olcsóbb viteldíjakért.",
+          "Tartsa szemmel a buszmenetrendet, különösen este.",
+          "A buszok a főszezonban nagyon zsúfoltak lehetnek, készüljön fel az állóhelyekre.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra."
+        ],
+        "ro": [
+          "Cumpărați un card de autobuz reîncărcabil (Tarjeta Monedero) pentru tarife mai ieftine.",
+          "Fiți atenți la orarul autobuzelor, mai ales seara.",
+          "Autobuzele pot fi foarte aglomerate în sezonul de vârf, așa că fiți pregătiți să stați în picioare.",
+          "Validați biletul la urcarea în autobuz."
+        ],
+        "en": [
+          "Buy a rechargeable bus card (Tarjeta Monedero) for cheaper fares.",
+          "Keep an eye on the bus schedule, especially in the evening.",
+          "Buses can get very crowded in high season, so be prepared to stand.",
+          "Validate your ticket when you board the bus."
+        ]
+      }
+    }
+  }
+}

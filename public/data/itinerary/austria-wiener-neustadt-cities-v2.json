@@ -1,0 +1,1469 @@
+{
+  "city_id": "austria-wiener-neustadt-cities-v2",
+  "anchor": {
+    "name": "Wiener Neustadt Hauptplatz",
+    "coords": [
+      16.2464,
+      47.8153
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.2464,
+            47.8153
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie einen Kaffee in einem der traditionellen Cafés am Platz.",
+            "hu": "Kóstoljon meg egy kávét a tér egyik hagyományos kávézójában.",
+            "ro": "Încercați o cafea la una dintre cafenelele tradiționale din piață.",
+            "en": "Try a coffee at one of the traditional cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariensäule",
+            "hu": "Mária-oszlop",
+            "ro": "Coloana Mariei",
+            "en": "Marian Column"
+          },
+          "coords": [
+            16.2458,
+            47.8148
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für Fotos, besonders am Morgen.",
+            "hu": "Remek fotóhelyszín, különösen reggel.",
+            "ro": "Un loc frumos pentru fotografii, mai ales dimineața.",
+            "en": "A beautiful spot for photos, especially in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Wiener Neustadt",
+            "hu": "Bécsújhelyi dóm",
+            "ro": "Catedrala din Wiener Neustadt",
+            "en": "Cathedral of Wiener Neustadt"
+          },
+          "coords": [
+            16.2425,
+            47.8135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mischung aus romanischen und gotischen Stilelementen.",
+            "hu": "Figyelje meg a román és gótikus stíluselemek keveredését.",
+            "ro": "Observați amestecul de stiluri arhitecturale romanice și gotice.",
+            "en": "Notice the mix of Romanesque and Gothic architectural styles."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter an der Sperr",
+            "hu": "St. Peter an der Sperr Múzeum",
+            "ro": "Muzeul St. Peter an der Sperr",
+            "en": "St. Peter an der Sperr Museum"
+          },
+          "coords": [
+            16.2488,
+            47.8123
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prüfen Sie die aktuellen Ausstellungen online vor Ihrem Besuch.",
+            "hu": "Látogatás előtt ellenőrizze az aktuális kiállításokat online.",
+            "ro": "Verificați online expozițiile curente înainte de vizită.",
+            "en": "Check the current exhibitions online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasematten & Reckturm",
+            "hu": "Kazamaták és Reckturm",
+            "ro": "Cazematele și Turnul Reckturm",
+            "en": "Casemates & Reckturm Tower"
+          },
+          "coords": [
+            16.251,
+            47.8095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtbefestigung, ideal um Geschichte zu spüren.",
+            "hu": "A régi városfal része, ideális a történelem átélésére.",
+            "ro": "Parte a vechilor fortificații ale orașului, ideal pentru a simți istoria.",
+            "en": "Part of the old city fortifications, ideal for feeling the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Theresianische Militärakademie",
+            "hu": "Teréziánus Katonai Akadémia",
+            "ro": "Academia Militară Tereziană",
+            "en": "Theresian Military Academy"
+          },
+          "coords": [
+            16.245,
+            47.809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Akademiepark ist oft für die Öffentlichkeit zugänglich und sehr schön.",
+            "hu": "Az Akadémia parkja gyakran nyitva áll a nyilvánosság előtt és nagyon szép.",
+            "ro": "Parcul Academiei este adesea deschis publicului și foarte frumos.",
+            "en": "The Academy Park is often open to the public and very beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Stift Neukloster",
+            "hu": "Neukloster apátság",
+            "ro": "Mănăstirea Neukloster",
+            "en": "Neukloster Abbey"
+          },
+          "coords": [
+            16.235,
+            47.815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe abseits des geschäftigen Stadtzentrums.",
+            "hu": "A nyugalom oázisa a forgalmas városközponttól távol.",
+            "ro": "O oază de liniște departe de centrul aglomerat al orașului.",
+            "en": "An oasis of calm away from the busy city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am lebhaften Hauptplatz und bewundern Sie die Mariensäule. Erkunden Sie den spätromanischen Dom, bevor Sie im Museum St. Peter an der Sperr in die Stadtgeschichte eintauchen. Nach dem Mittagessen entdecken Sie die alten Befestigungsanlagen der Stadt, die Kasematten und den Reckturm. Der Nachmittag ist der prächtigen Theresianischen Militärakademie gewidmet, einem architektonischen Juwel. Schließen Sie Ihren Spaziergang mit einem besinnlichen Besuch im ruhigen Stift Neukloster ab und lassen Sie den Tag entspannt ausklingen.",
+        "hu": "Kezdje a napot a nyüzsgő Főtéren és csodálja meg a Mária-oszlopot. Fedezze fel a késő román stílusú dómot, mielőtt elmerülne a város történelmében a St. Peter an der Sperr múzeumban. Ebéd után fedezze fel a város régi erődítményeit, a Kazamatákat és a Reckturmot. A délután a csodálatos Teréziánus Katonai Akadémiáé, egy építészeti gyöngyszemé. Zárja sétáját egy elmélkedő látogatással a csendes Neukloster apátságban, és hagyja, hogy a nap nyugodtan érjen véget.",
+        "ro": "Începeți ziua în Piața Principală plină de viață și admirați Coloana Mariei. Explorați catedrala romanică târzie înainte de a vă cufunda în istoria orașului la Muzeul St. Peter an der Sperr. După prânz, descoperiți vechile fortificații ale orașului, Cazematele și Turnul Reckturm. După-amiaza este dedicată splendidei Academii Militare Tereziene, o bijuterie arhitecturală. Încheiați plimbarea cu o vizită contemplativă la liniștita Mănăstire Neukloster și încheiați ziua relaxat.",
+        "en": "Start your day at the lively Main Square and admire the Marian Column. Explore the late Romanesque Cathedral before delving into city history at the St. Peter an der Sperr Museum. After lunch, discover the city's old fortifications, the Casemates and Reckturm Tower. The afternoon is dedicated to the magnificent Theresian Military Academy, an architectural gem. Conclude your walk with a contemplative visit to the peaceful Neukloster Abbey and end the day in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditionelles Beisl für ein authentisches Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Lokale Weine und eine herzhafte Jause in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Wenn Sie Lust auf etwas anderes als die österreichische Küche haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Witetschka",
+            "tip": "Hagyományos „Beisl” egy autentikus bécsi szelethez."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Helyi borok és kiadós uzsonna hangulatos légkörben."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Ha az osztrák konyhától eltérőre vágyik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Witetschka",
+            "tip": "Un „Beisl” tradițional pentru un șnițel vienez autentic."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Vinuri locale și o gustare consistentă într-o atmosferă primitoare."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Dacă doriți altceva decât bucătăria austriacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditional 'Beisl' for an authentic Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Local wines and a hearty snack in a cozy atmosphere."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "If you fancy something other than Austrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akademiepark",
+            "tip": "Ein Spaziergang durch den Park der Militärakademie ist sehr entspannend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof des Stift Neukloster",
+            "tip": "Eine Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Der größte Park der Stadt, ideal für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akadémia Park",
+            "tip": "Egy séta a Katonai Akadémia parkjában nagyon pihentető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Neukloster apátság udvara",
+            "tip": "A csend oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "A város legnagyobb parkja, ideális egy zöld szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Academiei",
+            "tip": "O plimbare prin parcul Academiei Militare este foarte relaxantă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Mănăstirii Neukloster",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Cel mai mare parc din oraș, ideal pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Academy Park",
+            "tip": "A walk through the park of the Military Academy is very relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of Neukloster Abbey",
+            "tip": "An oasis of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "The city's largest park, ideal for a break in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Wiener Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Markt am Hauptplatz",
+            "tip": "Finden Sie lokale Produkte und Handwerk (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiener Straße sétálóutca",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Piac a Főtéren",
+            "tip": "Találjon helyi termékeket és kézműves árukat (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Wiener Straße",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Piața din Hauptplatz",
+            "tip": "Găsiți produse locale și artizanat (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Straße pedestrian zone",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Market on the Main Square",
+            "tip": "Find local products and crafts (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden. Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar. Planen Sie eine Mittagspause in einem der Restaurants rund um den Hauptplatz ein. Viele Museen haben montags geschlossen, überprüfen Sie die Öffnungszeiten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni. A központ legtöbb látnivalója könnyen elérhető gyalog. Tervezzen ebédszünetet a Főtér körüli éttermek egyikében. Sok múzeum zárva tart hétfőn, ellenőrizze a nyitvatartási időt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos. Majoritatea atracțiilor din centru sunt ușor accesibile pe jos. Planificați o pauză de prânz la unul dintre restaurantele din jurul Pieței Principale. Multe muzee sunt închise lunea, verificați programul."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot. Most of the sights in the center are easily accessible on foot. Plan a lunch break in one of the restaurants around the Main Square. Many museums are closed on Mondays, so check the opening hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.2464,
+            47.8153
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Überblick und genießen Sie die Atmosphäre.",
+            "hu": "Kezdje egy áttekintéssel és élvezze a hangulatot.",
+            "ro": "Începeți cu o privire de ansamblu și bucurați-vă de atmosferă.",
+            "en": "Start with an overview and enjoy the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Wiener Neustadt",
+            "hu": "Bécsújhelyi dóm",
+            "ro": "Catedrala din Wiener Neustadt",
+            "en": "Cathedral of Wiener Neustadt"
+          },
+          "coords": [
+            16.2425,
+            47.8135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale betreten.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a dómba.",
+            "ro": "Asigurați-vă bicicleta înainte de a intra în catedrală.",
+            "en": "Lock your bike securely before entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasematten",
+            "hu": "Kazamaták",
+            "ro": "Cazematele",
+            "en": "Casemates"
+          },
+          "coords": [
+            16.251,
+            47.8095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein faszinierender Einblick in die Verteidigungsgeschichte der Stadt.",
+            "hu": "Lenyűgöző betekintés a város védelmi történelmébe.",
+            "ro": "O perspectivă fascinantă asupra istoriei defensive a orașului.",
+            "en": "A fascinating insight into the city's defensive history."
+          }
+        },
+        {
+          "name": {
+            "de": "Theresianische Militärakademie",
+            "hu": "Teréziánus Katonai Akadémia",
+            "ro": "Academia Militară Tereziană",
+            "en": "Theresian Military Academy"
+          },
+          "coords": [
+            16.245,
+            47.809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Haupttor ist beeindruckend, der Park dahinter lädt zum Verweilen ein.",
+            "hu": "A főkapu lenyűgöző, a mögötte lévő park pedig pihenésre csábít.",
+            "ro": "Poarta principală este impresionantă, iar parcul din spatele ei invită la relaxare.",
+            "en": "The main gate is impressive, and the park behind it invites you to linger."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            16.257,
+            47.818
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Industriearchitektur und ein tolles Fotomotiv.",
+            "hu": "Az ipari építészet egyik jelképe és remek fotótéma.",
+            "ro": "Un reper al arhitecturii industriale și un subiect excelent pentru fotografii.",
+            "en": "A landmark of industrial architecture and a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter an der Sperr",
+            "hu": "St. Peter an der Sperr Múzeum",
+            "ro": "Muzeul St. Peter an der Sperr",
+            "en": "St. Peter an der Sperr Museum"
+          },
+          "coords": [
+            16.2488,
+            47.8123
+          ],
+          "category": "museums",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine kulturelle Pause am Nachmittag.",
+            "hu": "Tökéletes egy délutáni kulturális szünethez.",
+            "ro": "Perfect pentru o pauză culturală după-amiaza.",
+            "en": "Perfect for a cultural break in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Stift Neukloster",
+            "hu": "Neukloster apátság",
+            "ro": "Mănăstirea Neukloster",
+            "en": "Neukloster Abbey"
+          },
+          "coords": [
+            16.235,
+            47.815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille und die schöne Architektur.",
+            "hu": "Élvezze a csendet és a gyönyörű építészetet.",
+            "ro": "Bucurați-vă de liniște și de arhitectura frumoasă.",
+            "en": "Enjoy the silence and the beautiful architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Reckturm",
+            "hu": "Reckturm",
+            "ro": "Turnul Reckturm",
+            "en": "Reckturm Tower"
+          },
+          "coords": [
+            16.2515,
+            47.8105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein mittelalterlicher Turm, der schaurige Geschichten erzählt.",
+            "hu": "Egy középkori torony, amely hátborzongató történeteket mesél.",
+            "ro": "Un turn medieval care spune povești înfiorătoare.",
+            "en": "A medieval tower that tells chilling stories."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und starten Sie am Hauptplatz. Eine kurze Fahrt bringt Sie zum Dom und weiter zu den historischen Kasematten. Erkunden Sie die mächtige Militärakademie, bevor Sie zum industriellen Wasserturm radeln. Nach dem Mittagessen tauchen Sie im Museum St. Peter in die Kultur ein. Eine ruhige Fahrt führt Sie zum Stift Neukloster. Beenden Sie Ihre Tour mit einem Blick auf den mittelalterlichen Reckturm und spüren Sie die Geschichte der Stadt hautnah.",
+        "hu": "Pattanjon nyeregbe és induljon a Főtérről. Egy rövid tekerés elviszi a dómhoz, majd tovább a történelmi kazamatákhoz. Fedezze fel a hatalmas Katonai Akadémiát, mielőtt az ipari Víztoronyhoz kerekezik. Ebéd után merüljön el a kultúrában a St. Peter múzeumban. Egy csendes út vezet a Neukloster apátsághoz. Fejezze be a túrát a középkori Reckturm megtekintésével, és érezze át testközelből a város történelmét.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Piața Principală. O scurtă plimbare vă duce la Catedrală și mai departe la Cazematele istorice. Explorați impunătoarea Academie Militară înainte de a pedala spre Turnul de Apă industrial. După prânz, cufundați-vă în cultură la Muzeul St. Peter. O plimbare liniștită vă va conduce la Mănăstirea Neukloster. Încheiați turul cu o privire la Turnul medieval Reckturm și simțiți istoria orașului de aproape.",
+        "en": "Hop on your bike and start at the Main Square. A short ride takes you to the Cathedral and on to the historic Casemates. Explore the mighty Military Academy before cycling to the industrial Water Tower. After lunch, immerse yourself in culture at the St. Peter Museum. A quiet ride leads you to Neukloster Abbey. Finish your tour with a look at the medieval Reckturm Tower and feel the city's history up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditionelles Beisl für ein authentisches Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Lokale Weine und eine herzhafte Jause in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Wenn Sie Lust auf etwas anderes als die österreichische Küche haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Witetschka",
+            "tip": "Hagyományos „Beisl” egy autentikus bécsi szelethez."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Helyi borok és kiadós uzsonna hangulatos légkörben."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Ha az osztrák konyhától eltérőre vágyik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Witetschka",
+            "tip": "Un „Beisl” tradițional pentru un șnițel vienez autentic."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Vinuri locale și o gustare consistentă într-o atmosferă primitoare."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Dacă doriți altceva decât bucătăria austriacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditional 'Beisl' for an authentic Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Local wines and a hearty snack in a cozy atmosphere."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "If you fancy something other than Austrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akademiepark",
+            "tip": "Ein Spaziergang durch den Park der Militärakademie ist sehr entspannend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof des Stift Neukloster",
+            "tip": "Eine Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Der größte Park der Stadt, ideal für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akadémia Park",
+            "tip": "Egy séta a Katonai Akadémia parkjában nagyon pihentető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Neukloster apátság udvara",
+            "tip": "A csend oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "A város legnagyobb parkja, ideális egy zöld szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Academiei",
+            "tip": "O plimbare prin parcul Academiei Militare este foarte relaxantă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Mănăstirii Neukloster",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Cel mai mare parc din oraș, ideal pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Academy Park",
+            "tip": "A walk through the park of the Military Academy is very relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of Neukloster Abbey",
+            "tip": "An oasis of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "The city's largest park, ideal for a break in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Wiener Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Markt am Hauptplatz",
+            "tip": "Finden Sie lokale Produkte und Handwerk (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiener Straße sétálóutca",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Piac a Főtéren",
+            "tip": "Találjon helyi termékeket és kézműves árukat (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Wiener Straße",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Piața din Hauptplatz",
+            "tip": "Găsiți produse locale și artizanat (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Straße pedestrian zone",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Market on the Main Square",
+            "tip": "Find local products and crafts (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege der Stadt, um sicher zu fahren. Ein Fahrradschloss ist unerlässlich. Planen Sie zusätzliche Zeit für das Ab- und Aufsteigen sowie das Sichern des Fahrrads ein. Ein kleiner Rucksack für Wasser und Snacks ist praktisch."
+        ],
+        "hu": [
+          "Használja a város kerékpárútjait a biztonságos közlekedéshez. A kerékpárzár elengedhetetlen. Tervezzen plusz időt a le- és felszálláshoz, valamint a kerékpár lezárásához. Egy kis hátizsák víznek és rágcsálnivalóknak praktikus."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete ale orașului pentru a călători în siguranță. Un antifurt pentru bicicletă este esențial. Planificați timp suplimentar pentru a coborî, urca și asigura bicicleta. Un rucsac mic pentru apă și gustări este practic."
+        ],
+        "en": [
+          "Use the city's bike paths to ride safely. A bike lock is essential. Plan extra time for getting on and off and securing the bike. A small backpack for water and snacks is practical."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Innenstadt (Cluster A)",
+            "hu": "Belvárosi Parkolóház (A Klaszter)",
+            "ro": "Parcare Centru (Cluster A)",
+            "en": "City Center Parking (Cluster A)"
+          },
+          "coords": [
+            16.248,
+            47.814
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Von hier aus ist das Zentrum leicht zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. Innen a központ könnyen elérhető gyalog.",
+            "ro": "Parcați aici pentru dimineață. De aici, centrul este ușor accesibil pe jos.",
+            "en": "Park here for the morning. The center is easily accessible on foot from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptplatz",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Square"
+          },
+          "coords": [
+            16.2464,
+            47.8153
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang vom Parkhaus führt Sie direkt ins Herz der Stadt.",
+            "hu": "A séta a parkolóházból egyenesen a város szívébe vezet.",
+            "ro": "Plimbarea de la parcare vă duce direct în inima orașului.",
+            "en": "The walk from the parking garage takes you right into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Wiener Neustadt",
+            "hu": "Bécsújhelyi dóm",
+            "ro": "Catedrala din Wiener Neustadt",
+            "en": "Cathedral of Wiener Neustadt"
+          },
+          "coords": [
+            16.2425,
+            47.8135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid sétára a Főtértől.",
+            "ro": "La doar o scurtă plimbare de Piața Principală.",
+            "en": "Just a short walk from the Main Square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter an der Sperr",
+            "hu": "St. Peter an der Sperr Múzeum",
+            "ro": "Muzeul St. Peter an der Sperr",
+            "en": "St. Peter an der Sperr Museum"
+          },
+          "coords": [
+            16.2488,
+            47.8123
+          ],
+          "category": "museums",
+          "arrive_at": "10:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zurück in Richtung Parkhaus, liegt das Museum auf dem Weg.",
+            "hu": "Visszafelé a parkolóház irányába, az úton fekszik a múzeum.",
+            "ro": "Înapoi spre parcare, muzeul se află pe drum.",
+            "en": "Back towards the parking garage, the museum is on the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Militärakademie (Cluster B)",
+            "hu": "Katonai Akadémia Parkoló (B Klaszter)",
+            "ro": "Parcare Academia Militară (Cluster B)",
+            "en": "Military Academy Parking (Cluster B)"
+          },
+          "coords": [
+            16.246,
+            47.808
+          ],
+          "category": "transport",
+          "arrive_at": "12:44",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Neuer Parkplatz für den südlichen Teil der Stadtbesichtigung.",
+            "hu": "Új parkoló a városnézés déli részéhez.",
+            "ro": "Parcare nouă pentru partea de sud a turului orașului.",
+            "en": "New parking spot for the southern part of the city tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Theresianische Militärakademie",
+            "hu": "Teréziánus Katonai Akadémia",
+            "ro": "Academia Militară Tereziană",
+            "en": "Theresian Military Academy"
+          },
+          "coords": [
+            16.245,
+            47.809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die imposante Anlage ist direkt vom Parkplatz aus zu sehen.",
+            "hu": "A lenyűgöző komplexum közvetlenül a parkolóból látható.",
+            "ro": "Complexul impunător poate fi văzut direct din parcare.",
+            "en": "The imposing complex can be seen directly from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasematten & Reckturm",
+            "hu": "Kazamaták és Reckturm",
+            "ro": "Cazematele și Turnul Reckturm",
+            "en": "Casemates & Reckturm Tower"
+          },
+          "coords": [
+            16.251,
+            47.8095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Park verbindet die beiden historischen Stätten.",
+            "hu": "Egy rövid séta a parkon keresztül köti össze a két történelmi helyszínt.",
+            "ro": "O scurtă plimbare prin parc leagă cele două situri istorice.",
+            "en": "A short walk through the park connects the two historic sites."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum zentralen Parkhaus und erkunden Sie den ersten Cluster zu Fuß: den Hauptplatz, den Dom und das Stadtmuseum. Gönnen Sie sich ein Mittagessen, bevor Sie zum Auto zurückkehren. Am Nachmittag fahren Sie zum zweiten Cluster bei der Militärakademie. Parken Sie dort und entdecken Sie die prächtige Akademie und die historischen Kasematten bei einem gemütlichen Spaziergang. Dieser Plan kombiniert die Flexibilität des Autos mit entspannten Spaziergängen in den schönsten Gegenden der Stadt.",
+        "hu": "Reggel vezessen a központi parkolóházba, és fedezze fel gyalog az első klasztert: a Főteret, a dómot és a városi múzeumot. Ebédeljen meg, mielőtt visszatér az autójához. Délután vezessen a második klaszterhez a Katonai Akadémiánál. Parkoljon le, és fedezze fel a csodálatos akadémiát és a történelmi kazamatákat egy kényelmes sétával. Ez a terv ötvözi az autó rugalmasságát a város legszebb részein tett pihentető sétákkal.",
+        "ro": "Dimineața, conduceți la parcarea centrală și explorați pe jos primul cluster: Piața Principală, Catedrala și muzeul orașului. Bucurați-vă de prânz înainte de a vă întoarce la mașină. După-amiaza, conduceți spre al doilea cluster, la Academia Militară. Parcați acolo și descoperiți splendida academie și cazematele istorice într-o plimbare relaxantă. Acest plan combină flexibilitatea mașinii cu plimbări relaxante prin cele mai frumoase zone ale orașului.",
+        "en": "In the morning, drive to the central parking garage and explore the first cluster on foot: the Main Square, the Cathedral, and the city museum. Enjoy lunch before returning to your car. In the afternoon, drive to the second cluster at the Military Academy. Park there and discover the magnificent academy and the historic casemates on a leisurely walk. This plan combines the flexibility of the car with relaxed walks in the most beautiful areas of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditionelles Beisl für ein authentisches Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Lokale Weine und eine herzhafte Jause in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Wenn Sie Lust auf etwas anderes als die österreichische Küche haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Witetschka",
+            "tip": "Hagyományos „Beisl” egy autentikus bécsi szelethez."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Helyi borok és kiadós uzsonna hangulatos légkörben."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Ha az osztrák konyhától eltérőre vágyik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Witetschka",
+            "tip": "Un „Beisl” tradițional pentru un șnițel vienez autentic."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Vinuri locale și o gustare consistentă într-o atmosferă primitoare."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Dacă doriți altceva decât bucătăria austriacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditional 'Beisl' for an authentic Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Local wines and a hearty snack in a cozy atmosphere."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "If you fancy something other than Austrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akademiepark",
+            "tip": "Ein Spaziergang durch den Park der Militärakademie ist sehr entspannend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof des Stift Neukloster",
+            "tip": "Eine Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Der größte Park der Stadt, ideal für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akadémia Park",
+            "tip": "Egy séta a Katonai Akadémia parkjában nagyon pihentető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Neukloster apátság udvara",
+            "tip": "A csend oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "A város legnagyobb parkja, ideális egy zöld szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Academiei",
+            "tip": "O plimbare prin parcul Academiei Militare este foarte relaxantă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Mănăstirii Neukloster",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Cel mai mare parc din oraș, ideal pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Academy Park",
+            "tip": "A walk through the park of the Military Academy is very relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of Neukloster Abbey",
+            "tip": "An oasis of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "The city's largest park, ideal for a break in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Wiener Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Markt am Hauptplatz",
+            "tip": "Finden Sie lokale Produkte und Handwerk (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiener Straße sétálóutca",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Piac a Főtéren",
+            "tip": "Találjon helyi termékeket és kézműves árukat (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Wiener Straße",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Piața din Hauptplatz",
+            "tip": "Găsiți produse locale și artizanat (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Straße pedestrian zone",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Market on the Main Square",
+            "tip": "Find local products and crafts (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich über die Parkgebühren in den Parkhäusern. An Wochentagen kann das Parken teuer sein. Beachten Sie die Einbahnstraßen im Stadtzentrum. Ein Navigationssystem ist hilfreich. Lassen Sie keine Wertsachen im Auto zurück, auch nicht für kurze Zeit."
+        ],
+        "hu": [
+          "Tájékozódjon a parkolási díjakról a parkolóházakban. Hétköznap a parkolás drága lehet. Vegye figyelembe az egyirányú utcákat a belvárosban. A navigációs rendszer hasznos. Ne hagyjon értéktárgyakat az autóban, még rövid időre sem."
+        ],
+        "ro": [
+          "Informați-vă despre taxele de parcare din parcările supraetajate. Parcarea poate fi scumpă în timpul săptămânii. Fiți atenți la străzile cu sens unic din centrul orașului. Un sistem de navigație este util. Nu lăsați obiecte de valoare în mașină, nici măcar pentru scurt timp."
+        ],
+        "en": [
+          "Find out about the parking fees in the parking garages. Parking can be expensive on weekdays. Pay attention to the one-way streets in the city center. A navigation system is helpful. Do not leave valuables in the car, not even for a short time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz (Cluster A)",
+            "hu": "Főtér (A Klaszter)",
+            "ro": "Piața Principală (Cluster A)",
+            "en": "Main Square (Cluster A)"
+          },
+          "coords": [
+            16.2464,
+            47.8153
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Hauptplatz ist der zentrale Knotenpunkt vieler Buslinien.",
+            "hu": "A Főtér számos buszjárat központi csomópontja.",
+            "ro": "Piața Principală este nodul central pentru multe linii de autobuz.",
+            "en": "The Main Square is the central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Wiener Neustadt",
+            "hu": "Bécsújhelyi dóm",
+            "ro": "Catedrala din Wiener Neustadt",
+            "en": "Cathedral of Wiener Neustadt"
+          },
+          "coords": [
+            16.2425,
+            47.8135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Platz aus in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A térről néhány perces sétával elérhető.",
+            "ro": "Accesibil pe jos în câteva minute din piață.",
+            "en": "A few minutes' walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter an der Sperr",
+            "hu": "St. Peter an der Sperr Múzeum",
+            "ro": "Muzeul St. Peter an der Sperr",
+            "en": "St. Peter an der Sperr Museum"
+          },
+          "coords": [
+            16.2488,
+            47.8123
+          ],
+          "category": "museums",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Altstadt führt Sie hierher.",
+            "hu": "Egy szép séta az óvároson keresztül vezet ide.",
+            "ro": "O plimbare frumoasă prin orașul vechi vă aduce aici.",
+            "en": "A beautiful walk through the old town will lead you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle Militärakademie (Cluster B)",
+            "hu": "Katonai Akadémia megálló (B Klaszter)",
+            "ro": "Stația Academia Militară (Cluster B)",
+            "en": "Military Academy Stop (Cluster B)"
+          },
+          "coords": [
+            16.244,
+            47.808
+          ],
+          "category": "transport",
+          "arrive_at": "12:44",
+          "stay_min": 5,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus vom Zentrum hierher für den zweiten Teil des Tages.",
+            "hu": "Vegyen egy buszt a központból ide a nap második részére.",
+            "ro": "Luați un autobuz din centru până aici pentru a doua parte a zilei.",
+            "en": "Take a bus from the center here for the second part of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Theresianische Militärakademie",
+            "hu": "Teréziánus Katonai Akadémia",
+            "ro": "Academia Militară Tereziană",
+            "en": "Theresian Military Academy"
+          },
+          "coords": [
+            16.245,
+            47.809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Eingang zur Akademie liegt direkt an der Bushaltestelle.",
+            "hu": "Az akadémia bejárata közvetlenül a buszmegállónál található.",
+            "ro": "Intrarea în academie este chiar lângă stația de autobuz.",
+            "en": "The entrance to the academy is right next to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasematten",
+            "hu": "Kazamaták",
+            "ro": "Cazematele",
+            "en": "Casemates"
+          },
+          "coords": [
+            16.251,
+            47.8095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den Akademiepark zu diesem historischen Ort.",
+            "hu": "Sétáljon át az Akadémia parkon ehhez a történelmi helyszínhez.",
+            "ro": "Plimbați-vă prin parcul Academiei până la acest loc istoric.",
+            "en": "Stroll through the Academy Park to this historic site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz. Beginnen Sie am Hauptplatz und erkunden Sie das historische Zentrum mit Dom und Museum zu Fuß. Nach dem Mittagessen bringt Sie eine kurze Busfahrt zum zweiten Cluster, der Militärakademie. Entdecken Sie die Akademie und die nahegelegenen Kasematten, bevor Sie am späten Nachmittag bequem mit dem Bus ins Zentrum zurückkehren. Diese Tour ist ideal, um die Stadt ohne Parkplatzsuche und auf entspannte Weise zu erleben.",
+        "hu": "Használja a hatékony buszhálózatot. Kezdje a Főtéren, és fedezze fel gyalog a történelmi központot a dómjával és múzeumával. Ebéd után egy rövid buszút elviszi a második klaszterhez, a Katonai Akadémiához. Fedezze fel az akadémiát és a közeli kazamatákat, mielőtt késő délután kényelmesen visszatérne a központba busszal. Ez a túra ideális a város parkolókeresés nélküli, pihentető felfedezéséhez.",
+        "ro": "Folosiți rețeaua eficientă de autobuze. Începeți în Piața Principală și explorați pe jos centrul istoric cu catedrala și muzeul său. După prânz, o scurtă călătorie cu autobuzul vă va duce la al doilea cluster, Academia Militară. Descoperiți academia și cazematele din apropiere înainte de a vă întoarce confortabil în centru cu autobuzul după-amiaza târziu. Acest tur este ideal pentru a experimenta orașul fără a căuta parcare și într-un mod relaxat.",
+        "en": "Use the efficient bus network. Start at the Main Square and explore the historic center with its cathedral and museum on foot. After lunch, a short bus ride will take you to the second cluster, the Military Academy. Discover the academy and the nearby casemates before comfortably returning to the center by bus in the late afternoon. This tour is ideal for experiencing the city in a relaxed way without having to look for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditionelles Beisl für ein authentisches Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Lokale Weine und eine herzhafte Jause in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Wenn Sie Lust auf etwas anderes als die österreichische Küche haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Witetschka",
+            "tip": "Hagyományos „Beisl” egy autentikus bécsi szelethez."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Helyi borok és kiadós uzsonna hangulatos légkörben."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Ha az osztrák konyhától eltérőre vágyik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Witetschka",
+            "tip": "Un „Beisl” tradițional pentru un șnițel vienez autentic."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Vinuri locale și o gustare consistentă într-o atmosferă primitoare."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "Dacă doriți altceva decât bucătăria austriacă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Witetschka",
+            "tip": "Traditional 'Beisl' for an authentic Wiener Schnitzel."
+          },
+          {
+            "name": "Hartig's Heuriger",
+            "tip": "Local wines and a hearty snack in a cozy atmosphere."
+          },
+          {
+            "name": "Pizzeria Ristorante da Marco",
+            "tip": "If you fancy something other than Austrian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akademiepark",
+            "tip": "Ein Spaziergang durch den Park der Militärakademie ist sehr entspannend.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Innenhof des Stift Neukloster",
+            "tip": "Eine Oase der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Der größte Park der Stadt, ideal für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akadémia Park",
+            "tip": "Egy séta a Katonai Akadémia parkjában nagyon pihentető.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Neukloster apátság udvara",
+            "tip": "A csend oázisa a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi Park",
+            "tip": "A város legnagyobb parkja, ideális egy zöld szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Academiei",
+            "tip": "O plimbare prin parcul Academiei Militare este foarte relaxantă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Curtea Mănăstirii Neukloster",
+            "tip": "O oază de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Orașului",
+            "tip": "Cel mai mare parc din oraș, ideal pentru o pauză în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Academy Park",
+            "tip": "A walk through the park of the Military Academy is very relaxing.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Courtyard of Neukloster Abbey",
+            "tip": "An oasis of tranquility in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park",
+            "tip": "The city's largest park, ideal for a break in the green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Wiener Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Markt am Hauptplatz",
+            "tip": "Finden Sie lokale Produkte und Handwerk (an Markttagen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiener Straße sétálóutca",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Piac a Főtéren",
+            "tip": "Találjon helyi termékeket és kézműves árukat (piacnapokon)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Wiener Straße",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Piața din Hauptplatz",
+            "tip": "Găsiți produse locale și artizanat (în zilele de piață)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiener Straße pedestrian zone",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Market on the Main Square",
+            "tip": "Find local products and crafts (on market days)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, das ist meist am günstigsten. Informieren Sie sich über die Abfahrtszeiten der Busse, um Wartezeiten zu minimieren. Die wichtigsten Linien fahren regelmäßig, aber am Abend seltener. Haben Sie Kleingeld für den Ticketautomaten bereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, általában ez a legolcsóbb. Tájékozódjon a buszok indulási idejéről a várakozási idő minimalizálása érdekében. A főbb vonalak rendszeresen, de este ritkábban közlekednek. Készítsen elő aprópénzt a jegyautomatához."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public, de obicei este cel mai ieftin. Informați-vă despre orele de plecare ale autobuzelor pentru a minimiza timpii de așteptare. Liniile principale circulă regulat, dar mai rar seara. Pregătiți mărunțiș pentru automatul de bilete."
+        ],
+        "en": [
+          "Buy a day ticket for public transport, it's usually the cheapest option. Check the bus departure times to minimize waiting. The main lines run regularly, but less frequently in the evening. Have change ready for the ticket machine."
+        ]
+      }
+    }
+  }
+}

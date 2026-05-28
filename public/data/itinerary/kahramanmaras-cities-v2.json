@@ -1,0 +1,1436 @@
+{
+  "city_id": "kahramanmaras-cities-v2",
+  "anchor": {
+    "name": "Kahramanmaraş",
+    "coords": [
+      37.5847,
+      36.9372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historischer Basar",
+            "hu": "Történelmi bazár",
+            "ro": "Bazarul istoric",
+            "en": "Historical Bazaar"
+          },
+          "coords": [
+            37.5833,
+            36.9351
+          ],
+          "category": "markets",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Gewürze und handgefertigten Kupferwaren.",
+            "hu": "Kóstolja meg a helyi fűszereket és nézze meg a kézműves rézárukat.",
+            "ro": "Încercați mirodeniile locale și produsele de cupru lucrate manual.",
+            "en": "Try the local spices and browse the handmade copper goods."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagymecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Grand Mosque (Ulu Cami)"
+          },
+          "coords": [
+            37.5851,
+            36.9348
+          ],
+          "category": "churches",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Holzschnitzereien im Inneren. Kleiden Sie sich respektvoll.",
+            "hu": "Figyelje meg a belső fafaragásokat. Öltözzön tisztelettudóan.",
+            "ro": "Observați sculpturile în lemn din interior. Îmbrăcați-vă respectuos.",
+            "en": "Note the intricate wooden carvings inside. Dress respectfully."
+          }
+        },
+        {
+          "name": {
+            "de": "Katip Han",
+            "hu": "Katip Han",
+            "ro": "Hanul Katip",
+            "en": "Katip Han"
+          },
+          "coords": [
+            37.586,
+            36.9355
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein restaurierter Karawanserei, heute ein Ort für Tee und Gespräche.",
+            "hu": "Egy felújított karavánszeráj, ma teázó és társalgó hely.",
+            "ro": "Un caravanserai restaurat, acum un loc pentru ceai și conversație.",
+            "en": "A restored caravanserai, now a perfect spot for a tea break and chat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            37.5855,
+            36.9362
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie 'Eli Böğründe', eine lokale Lammspezialität.",
+            "hu": "Kóstolja meg az 'Eli Böğründe' nevű helyi bárányspecialitást.",
+            "ro": "Încercați 'Eli Böğründe', o specialitate locală din carne de miel.",
+            "en": "Try 'Eli Böğründe', a local lamb specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            37.5799,
+            36.9311
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Sammlung hethitischer Artefakte ist besonders beeindruckend.",
+            "hu": "A hettita leletek gyűjteménye különösen lenyűgöző.",
+            "ro": "Colecția de artefacte hitite este deosebit de impresionantă.",
+            "en": "The collection of Hittite artifacts is especially impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kahramanmaraş",
+            "hu": "Kahramanmaraş vára",
+            "ro": "Castelul Kahramanmaraş",
+            "en": "Kahramanmaraş Castle"
+          },
+          "coords": [
+            37.5875,
+            36.9333
+          ],
+          "category": "castles",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt bei Sonnenuntergang.",
+            "hu": "Megéri felmenni a naplementekor nyíló panorámáért a városra.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra orașului la apus.",
+            "en": "The climb is worth it for the panoramic view over the city at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, dem Historischen Basar, wo Düfte und Farben Sie umgeben. Am Vormittag erkunden Sie die spirituelle Ruhe der Großen Moschee und die historische Atmosphäre des Katip Han. Nach einem traditionellen Mittagessen tauchen Sie im Archäologischen Museum in die antike Geschichte ein. Schließen Sie den Tag mit einem atemberaubenden Sonnenuntergang von der Burg von Kahramanmaraş ab, die einen weiten Blick über die Stadt bietet.",
+        "hu": "Kezdje a napot a város szívében, a Történelmi bazárban, ahol illatok és színek veszik körül. Délelőtt fedezze fel a Nagymecset spirituális nyugalmát és a Katip Han történelmi légkörét. Egy hagyományos ebéd után merüljön el az ókori történelemben a Régészeti Múzeumban. Zárja a napot egy lélegzetelállító naplementével a Kahramanmaraş várából, ahonnan széles kilátás nyílik a városra.",
+        "ro": "Începeți ziua în inima orașului, la Bazarul istoric, unde aromele și culorile vă înconjoară. Dimineața explorați liniștea spirituală a Marii Moschei și atmosfera istorică a Hanului Katip. După un prânz tradițional, scufundați-vă în istoria antică la Muzeul de Arheologie. Încheiați ziua cu un apus de soare uluitor de la Castelul Kahramanmaraş, care oferă o priveliște vastă asupra orașului.",
+        "en": "Start your day in the heart of the city, the Historical Bazaar, where scents and colors surround you. In the morning, explore the spiritual tranquility of the Grand Mosque and the historical atmosphere of Katip Han. After a traditional lunch, delve into ancient history at the Archaeological Museum. End the day with a breathtaking sunset from Kahramanmaraş Castle, offering a wide view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraş Dondurması (Eis)",
+            "tip": "Das berühmte dehnbare Eis, ein Muss! Suchen Sie nach Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Ein herzhaftes Lammgericht, das langsam im Ofen gegart wird."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Eine reichhaltige Suppe, die oft zum Frühstück gegessen wird, um Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraş Dondurması (fagylalt)",
+            "tip": "A híres, nyúlós fagylalt, kötelező! Keresse a Yaşar Pastanesit."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Egy kiadós, lassan sütőben sült bárányétel."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Egy gazdag leves, amelyet gyakran reggelire esznek energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maraş Dondurması (Înghețată)",
+            "tip": "Faimoasa înghețată elastică, o necesitate! Căutați Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Un preparat consistent din miel, gătit lent la cuptor."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "O supă bogată, adesea consumată la micul dejun pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraş Dondurması (Ice Cream)",
+            "tip": "The famous stretchy ice cream, a must-try! Look for Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "A hearty lamb dish, slow-cooked in the oven."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "A rich soup often eaten for breakfast for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Der beste Ort, um dem Trubel zu entfliehen und die Stadt von oben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teegarten am Ceyhan-Fluss",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um sich zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Katip Han",
+            "tip": "Ein friedlicher Innenhof, perfekt für eine ruhige Tasse türkischen Tees.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "A legjobb hely a nyüzsgés elől való menekülésre és a város fentről való megtekintésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teakert a Ceyhan-folyó mellett",
+            "tip": "Keressen egy csendes helyet a folyóparton a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Katip Han udvara",
+            "tip": "Békés belső udvar, tökéletes egy csendes török teához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la castel",
+            "tip": "Cel mai bun loc pentru a scăpa de agitație și a vedea orașul de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădină de ceai pe malul râului Ceyhan",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Hanului Katip",
+            "tip": "O curte interioară pașnică, perfectă pentru o ceașcă liniștită de ceai turcesc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle",
+            "tip": "The best spot to escape the hustle and see the city from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tea garden by the Ceyhan River",
+            "tip": "Find a quiet spot along the riverbank to unwind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Katip Han",
+            "tip": "A peaceful inner courtyard, perfect for a quiet cup of Turkish tea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Kaufen Sie Kupferwaren, Gewürze und die berühmte rote Paprika der Stadt."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Spezialisiert auf handgefertigte Kupferartikel, von Tabletts bis zu Kaffeekannen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vásároljon rézárukat, fűszereket és a város híres pirospaprikáját."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Rézműves bazár)",
+            "tip": "Kézzel készített réztárgyakra szakosodott, a tálcáktól a kávéskannákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul istoric",
+            "tip": "Cumpărați obiecte din cupru, mirodenii și faimosul ardei roșu al orașului."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "tip": "Specializat în articole de cupru lucrate manual, de la tăvi la ibricuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historical Bazaar",
+            "tip": "Shop for copperware, spices, and the city's famous red pepper flakes."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Specializes in handmade copper items, from trays to coffee pots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf unebenen Straßen laufen werden.",
+          "Nehmen Sie immer eine Flasche Wasser mit, besonders in den wärmeren Monaten.",
+          "Seien Sie bereit, zu feilschen, wenn Sie auf dem Basar einkaufen.",
+          "Die Einheimischen sind freundlich; ein Lächeln und ein 'Merhaba' (Hallo) werden sehr geschätzt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog sétálni egyenetlen utakon.",
+          "Mindig legyen Önnél egy üveg víz, különösen a melegebb hónapokban.",
+          "Készüljön fel az alkudozásra, ha a bazárban vásárol.",
+          "A helyiek barátságosak; egy mosolyt és egy 'Merhaba' (Szia) köszönést nagyra értékelnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe străzi denivelate.",
+          "Aveți întotdeauna la dumneavoastră o sticlă cu apă, mai ales în lunile mai calde.",
+          "Fiți pregătit să negociați atunci când faceți cumpărături în bazar.",
+          "Localnicii sunt prietenoși; un zâmbet și un 'Merhaba' (Bună) sunt foarte apreciate."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking a lot on uneven streets.",
+          "Always carry a bottle of water, especially during the warmer months.",
+          "Be prepared to haggle when shopping at the bazaar.",
+          "Locals are friendly; a smile and a 'Merhaba' (Hello) go a long way."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinbrücke (Ceyhan)",
+            "hu": "Kőhíd (Ceyhan)",
+            "ro": "Podul de Piatră (Ceyhan)",
+            "en": "Stone Bridge (Ceyhan)"
+          },
+          "coords": [
+            37.5681,
+            36.9255
+          ],
+          "category": "bridges",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos am Morgen mit Blick auf den Fluss.",
+            "hu": "Remek hely a reggeli fotózáshoz, kilátással a folyóra.",
+            "ro": "Un loc excelent pentru fotografii de dimineață, cu vedere la râu.",
+            "en": "A great spot for morning photos with views of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Basar",
+            "hu": "Történelmi bazár",
+            "ro": "Bazarul istoric",
+            "en": "Historical Bazaar"
+          },
+          "coords": [
+            37.5833,
+            36.9351
+          ],
+          "category": "markets",
+          "arrive_at": "10:10",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die belebten Gassen ein.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a nyüzsgő sikátorokban.",
+            "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în aleile aglomerate.",
+            "en": "Park your bike securely and dive into the bustling alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee (Ulu Cami)",
+            "hu": "Nagymecset (Ulu Cami)",
+            "ro": "Marea Moschee (Ulu Cami)",
+            "en": "Grand Mosque (Ulu Cami)"
+          },
+          "coords": [
+            37.5851,
+            36.9348
+          ],
+          "category": "churches",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Basar entfernt, eine Oase der Ruhe.",
+            "hu": "Csak egy rövid sétára a bazártól, a nyugalom oázisa.",
+            "ro": "La o scurtă plimbare de bazar, o oază de liniște.",
+            "en": "Just a short walk from the bazaar, an oasis of calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Eis",
+            "hu": "Ebéd és fagylalt",
+            "ro": "Prânz și înghețată",
+            "en": "Lunch and Ice Cream"
+          },
+          "coords": [
+            37.5865,
+            36.938
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nach dem Essen ist es Zeit für das berühmte Maraş-Eis!",
+            "hu": "Ebéd után itt az ideje a híres Maraş fagylaltnak!",
+            "ro": "După prânz, este timpul pentru faimoasa înghețată Maraş!",
+            "en": "After your meal, it's time for the famous Maraş ice cream!"
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            37.5799,
+            36.9311
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zum Museum, wo Sie Tausende von Jahren Geschichte finden.",
+            "hu": "Egy kellemes tekerés a múzeumhoz, ahol több ezer év történelme vár.",
+            "ro": "O plimbare plăcută cu bicicleta până la muzeu, unde veți găsi mii de ani de istorie.",
+            "en": "A pleasant ride to the museum where you'll find thousands of years of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kahramanmaraş",
+            "hu": "Kahramanmaraş vára",
+            "ro": "Castelul Kahramanmaraş",
+            "en": "Kahramanmaraş Castle"
+          },
+          "coords": [
+            37.5875,
+            36.9333
+          ],
+          "category": "castles",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages. Sichern Sie Ihr Fahrrad gut und genießen Sie die Aussicht.",
+            "hu": "A nap utolsó emelkedője. Zárja le jól a biciklit, és élvezze a kilátást.",
+            "ro": "Ultima urcare a zilei. Asigurați-vă bine bicicleta și bucurați-vă de priveliște.",
+            "en": "The final climb of the day. Secure your bike well and enjoy the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der historischen Steinbrücke und genießen Sie die morgendliche Brise. Fahren Sie dann ins Zentrum, um das Labyrinth des Basars zu erkunden. Der Vormittag führt Sie zur Großen Moschee, bevor Sie ein herzhaftes Mittagessen und das berühmte Eis der Stadt genießen. Am Nachmittag radeln Sie zum Archäologischen Museum. Beenden Sie Ihre Tour mit dem Aufstieg zur Burg, wo eine spektakuläre Aussicht auf Sie wartet.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Kőhídnál, élvezve a reggeli szellőt. Tekerjen be a központba, hogy felfedezze a bazár labirintusát. A délelőtt a Nagymecsethez vezet, mielőtt egy kiadós ebédet és a város híres fagylaltját élvezné. Délután biciklizzen el a Régészeti Múzeumhoz. Fejezze be a túrát a várhoz való felkapaszkodással, ahol látványos kilátás várja.",
+        "ro": "Începeți turul cu bicicleta de la istoricul Pod de Piatră, bucurându-vă de briza dimineții. Apoi pedalați spre centru pentru a explora labirintul bazarului. Dimineața vă duce la Marea Moschee înainte de a savura un prânz consistent și faimoasa înghețată a orașului. După-amiaza, mergeți cu bicicleta la Muzeul de Arheologie. Încheiați turul cu urcarea la castel, unde vă așteaptă o priveliște spectaculoasă.",
+        "en": "Start your bike tour at the historic Stone Bridge, enjoying the morning breeze. Then, cycle to the center to explore the bazaar's labyrinth. The morning takes you to the Grand Mosque before you enjoy a hearty lunch and the city's famous ice cream. In the afternoon, ride to the Archaeological Museum. Finish your tour with the climb to the castle, where a spectacular view awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraş Dondurması (Eis)",
+            "tip": "Das berühmte dehnbare Eis, ein Muss! Suchen Sie nach Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Ein herzhaftes Lammgericht, das langsam im Ofen gegart wird."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Eine reichhaltige Suppe, die oft zum Frühstück gegessen wird, um Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraş Dondurması (fagylalt)",
+            "tip": "A híres, nyúlós fagylalt, kötelező! Keresse a Yaşar Pastanesit."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Egy kiadós, lassan sütőben sült bárányétel."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Egy gazdag leves, amelyet gyakran reggelire esznek energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maraş Dondurması (Înghețată)",
+            "tip": "Faimoasa înghețată elastică, o necesitate! Căutați Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Un preparat consistent din miel, gătit lent la cuptor."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "O supă bogată, adesea consumată la micul dejun pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraş Dondurması (Ice Cream)",
+            "tip": "The famous stretchy ice cream, a must-try! Look for Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "A hearty lamb dish, slow-cooked in the oven."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "A rich soup often eaten for breakfast for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Der beste Ort, um dem Trubel zu entfliehen und die Stadt von oben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teegarten am Ceyhan-Fluss",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um sich zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Katip Han",
+            "tip": "Ein friedlicher Innenhof, perfekt für eine ruhige Tasse türkischen Tees.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "A legjobb hely a nyüzsgés elől való menekülésre és a város fentről való megtekintésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teakert a Ceyhan-folyó mellett",
+            "tip": "Keressen egy csendes helyet a folyóparton a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Katip Han udvara",
+            "tip": "Békés belső udvar, tökéletes egy csendes török teához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la castel",
+            "tip": "Cel mai bun loc pentru a scăpa de agitație și a vedea orașul de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădină de ceai pe malul râului Ceyhan",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Hanului Katip",
+            "tip": "O curte interioară pașnică, perfectă pentru o ceașcă liniștită de ceai turcesc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle",
+            "tip": "The best spot to escape the hustle and see the city from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tea garden by the Ceyhan River",
+            "tip": "Find a quiet spot along the riverbank to unwind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Katip Han",
+            "tip": "A peaceful inner courtyard, perfect for a quiet cup of Turkish tea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Kaufen Sie Kupferwaren, Gewürze und die berühmte rote Paprika der Stadt."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Spezialisiert auf handgefertigte Kupferartikel, von Tabletts bis zu Kaffeekannen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vásároljon rézárukat, fűszereket és a város híres pirospaprikáját."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Rézműves bazár)",
+            "tip": "Kézzel készített réztárgyakra szakosodott, a tálcáktól a kávéskannákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul istoric",
+            "tip": "Cumpărați obiecte din cupru, mirodenii și faimosul ardei roșu al orașului."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "tip": "Specializat în articole de cupru lucrate manual, de la tăvi la ibricuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historical Bazaar",
+            "tip": "Shop for copperware, spices, and the city's famous red pepper flakes."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Specializes in handmade copper items, from trays to coffee pots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren.",
+          "Einige Straßen können steil sein, besonders der Weg zur Burg.",
+          "Schließen Sie Ihr Fahrrad an belebten Orten immer gut ab.",
+          "Bleiben Sie hydriert und tragen Sie Sonnencreme."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a kerékpár állapotát.",
+          "Néhány út meredek lehet, különösen a várhoz vezető.",
+          "Forgalmas helyeken mindig zárja le jól a kerékpárt.",
+          "Maradjon hidratált és használjon naptejet."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni la drum.",
+          "Unele străzi pot fi abrupte, în special drumul spre castel.",
+          "Încuietăți întotdeauna bicicleta în locuri aglomerate.",
+          "Hidratați-vă și folosiți protecție solară."
+        ],
+        "en": [
+          "Check your bike's condition before you set off.",
+          "Some streets can be steep, especially the path to the castle.",
+          "Always lock your bike securely in busy areas.",
+          "Stay hydrated and wear sunscreen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 112.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Döngel-Höhlen",
+            "hu": "Döngel-barlangok",
+            "ro": "Peșterile Döngel",
+            "en": "Döngel Caves"
+          },
+          "coords": [
+            37.896,
+            36.721
+          ],
+          "category": "natural",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 50,
+          "tip_5lang": {
+            "de": "Ein erfrischender Start in den Tag. Die kühle Luft in den Höhlen ist im Sommer eine Wohltat.",
+            "hu": "Frissítő kezdete a napnak. A barlangok hűvös levegője áldás a nyáron.",
+            "ro": "Un început revigorant de zi. Aerul răcoros din peșteri este o binecuvântare vara.",
+            "en": "A refreshing start to the day. The cool air inside the caves is a blessing in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul Istoric",
+            "en": "Cluster: Historical Center"
+          },
+          "coords": [
+            37.5833,
+            36.9351
+          ],
+          "category": "districts",
+          "arrive_at": "12:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 55,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die nächsten Haltestellen zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel a következő megállókat gyalog.",
+            "ro": "Parcați aici și explorați următoarele opriri pe jos.",
+            "en": "Park here and explore the next few stops on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Basar & Mittagessen",
+            "hu": "Történelmi bazár és ebéd",
+            "ro": "Bazarul istoric și prânz",
+            "en": "Historical Bazaar & Lunch"
+          },
+          "coords": [
+            37.584,
+            36.9358
+          ],
+          "category": "markets",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Einkaufen mit einem leckeren Mittagessen in einem der lokalen Restaurants.",
+            "hu": "Kombinálja a vásárlást egy finom ebéddel az egyik helyi étteremben.",
+            "ro": "Combinați cumpărăturile cu un prânz delicios la unul dintre restaurantele locale.",
+            "en": "Combine shopping with a delicious lunch at one of the local eateries."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee & Katip Han",
+            "hu": "Nagymecset és Katip Han",
+            "ro": "Marea Moschee și Hanul Katip",
+            "en": "Grand Mosque & Katip Han"
+          },
+          "coords": [
+            37.5855,
+            36.9351
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese beiden historischen Stätten liegen nahe beieinander.",
+            "hu": "Ez a két történelmi helyszín közel van egymáshoz.",
+            "ro": "Aceste două situri istorice sunt foarte apropiate unul de celălalt.",
+            "en": "These two historical sites are located very close to each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum & Burg",
+            "hu": "Régészeti Múzeum és vár",
+            "ro": "Muzeul de Arheologie și Castel",
+            "en": "Archaeological Museum & Castle"
+          },
+          "coords": [
+            37.5837,
+            36.9322
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Ein Spaziergang, der Sie durch die Geschichte und zu einer großartigen Aussicht führt.",
+            "hu": "Egy séta, amely végigvezet a történelmen és egy nagyszerű kilátáshoz.",
+            "ro": "O plimbare care vă poartă prin istorie către o priveliște magnifică.",
+            "en": "A walk that takes you through history and up to a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Başkonuş-Plateau",
+            "hu": "Başkonuş-fennsík",
+            "ro": "Platoul Başkonuş",
+            "en": "Başkonuş Plateau"
+          },
+          "coords": [
+            37.75,
+            36.4667
+          ],
+          "category": "parks",
+          "arrive_at": "18:25",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag in der Natur ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
+            "hu": "Tökéletes hely a nap lezárására a természetben, naplementét nézve.",
+            "ro": "Locul perfect pentru a încheia ziua în natură, urmărind apusul.",
+            "en": "The perfect place to end the day surrounded by nature, watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem Ausflug zu den kühlen Döngel-Höhlen. Nach diesem Naturerlebnis fahren Sie ins Herz von Kahramanmaraş. Parken Sie Ihr Auto und erkunden Sie zu Fuß den historischen Kern: den Basar, die Moschee und den Katip Han. Nach dem Mittagessen geht es weiter zum Museum und zur Burg. Den krönenden Abschluss bildet die Fahrt zum Başkonuş-Plateau, wo Sie einen unvergesslichen Sonnenuntergang in den Bergen erleben.",
+        "hu": "Az autóút a hűs Döngel-barlangokhoz tett kirándulással kezdődik. E természeti élmény után hajtson Kahramanmaraş szívébe. Parkolja le az autót, és fedezze fel gyalog a történelmi magot: a bazárt, a mecsetet és a Katip Hant. Ebéd után folytassa útját a múzeumhoz és a várhoz. A napot a Başkonuş-fennsíkra való autózás koronázza meg, ahol felejthetetlen naplementében lesz része a hegyekben.",
+        "ro": "Excursia dvs. cu mașina începe cu o vizită la răcoroasele Peșteri Döngel. După această experiență în natură, conduceți spre inima orașului Kahramanmaraş. Parcați mașina și explorați pe jos centrul istoric: bazarul, moscheea și Hanul Katip. După prânz, continuați spre muzeu și castel. Ziua se încheie apoteotic cu o călătorie spre Platoul Başkonuş, unde veți experimenta un apus de soare de neuitat în munți.",
+        "en": "Your road trip begins with an excursion to the cool Döngel Caves. After this natural experience, drive into the heart of Kahramanmaraş. Park your car and explore the historical core on foot: the bazaar, the mosque, and Katip Han. After lunch, continue to the museum and the castle. The day culminates with a drive to the Başkonuş Plateau, where you'll experience an unforgettable sunset in the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraş Dondurması (Eis)",
+            "tip": "Das berühmte dehnbare Eis, ein Muss! Suchen Sie nach Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Ein herzhaftes Lammgericht, das langsam im Ofen gegart wird."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Eine reichhaltige Suppe, die oft zum Frühstück gegessen wird, um Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraş Dondurması (fagylalt)",
+            "tip": "A híres, nyúlós fagylalt, kötelező! Keresse a Yaşar Pastanesit."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Egy kiadós, lassan sütőben sült bárányétel."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Egy gazdag leves, amelyet gyakran reggelire esznek energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maraş Dondurması (Înghețată)",
+            "tip": "Faimoasa înghețată elastică, o necesitate! Căutați Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Un preparat consistent din miel, gătit lent la cuptor."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "O supă bogată, adesea consumată la micul dejun pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraş Dondurması (Ice Cream)",
+            "tip": "The famous stretchy ice cream, a must-try! Look for Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "A hearty lamb dish, slow-cooked in the oven."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "A rich soup often eaten for breakfast for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Başkonuş-Plateau",
+            "tip": "Absolute Ruhe und eine spektakuläre Aussicht, besonders bei Sonnenuntergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Döngel-Höhlen",
+            "tip": "Die Stille und Kühle der Höhlen bieten eine perfekte Flucht vor der Hitze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Ein Panoramablick über die Stadt, der zum Nachdenken anregt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Başkonuş-fennsík",
+            "tip": "Abszolút nyugalom és látványos kilátás, különösen naplementekor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Döngel-barlangok",
+            "tip": "A barlangok csendje és hűvössége tökéletes menedéket nyújt a hőség elől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a várból",
+            "tip": "Panorámás kilátás a városra, amely elgondolkodtat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Başkonuş",
+            "tip": "Liniște absolută și o priveliște spectaculoasă, mai ales la apus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peșterile Döngel",
+            "tip": "Liniștea și răcoarea peșterilor oferă o evadare perfectă de căldură.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de la castel",
+            "tip": "O priveliște panoramică asupra orașului care invită la contemplare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Başkonuş Plateau",
+            "tip": "Absolute tranquility and a spectacular view, especially at sunset.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Döngel Caves",
+            "tip": "The silence and coolness of the caves offer a perfect escape from the heat.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from the Castle",
+            "tip": "A panoramic view over the city that invites contemplation.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Kaufen Sie Kupferwaren, Gewürze und die berühmte rote Paprika der Stadt."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Spezialisiert auf handgefertigte Kupferartikel, von Tabletts bis zu Kaffeekannen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vásároljon rézárukat, fűszereket és a város híres pirospaprikáját."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Rézműves bazár)",
+            "tip": "Kézzel készített réztárgyakra szakosodott, a tálcáktól a kávéskannákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul istoric",
+            "tip": "Cumpărați obiecte din cupru, mirodenii și faimosul ardei roșu al orașului."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "tip": "Specializat în articole de cupru lucrate manual, de la tăvi la ibricuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historical Bazaar",
+            "tip": "Shop for copperware, spices, and the city's famous red pepper flakes."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Specializes in handmade copper items, from trays to coffee pots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie Ihr Auto voll, bevor Sie die Stadt in Richtung der Naturattraktionen verlassen.",
+          "Überprüfen Sie die Öffnungszeiten, insbesondere für die Höhlen und das Plateau.",
+          "Laden Sie Offline-Karten herunter, da die Mobilfunkabdeckung in ländlichen Gebieten lückenhaft sein kann.",
+          "Planen Sie genügend Zeit für die Fahrten ein und genießen Sie die Landschaft."
+        ],
+        "hu": [
+          "Töltse tele az autót, mielőtt elhagyja a várost a természeti látnivalók felé.",
+          "Ellenőrizze a nyitvatartási időket, különösen a barlangok és a fennsík esetében.",
+          "Töltsön le offline térképeket, mivel a mobil lefedettség hiányos lehet a vidéki területeken.",
+          "Tervezzen elegendő időt az utazásokra, és élvezze a tájat."
+        ],
+        "ro": [
+          "Alimentați mașina înainte de a părăsi orașul spre atracțiile naturale.",
+          "Verificați orele de program, în special pentru peșteri și platou.",
+          "Descărcați hărți offline, deoarece acoperirea mobilă poate fi slabă în zonele rurale.",
+          "Alocați suficient timp pentru călătorii și bucurați-vă de peisaj."
+        ],
+        "en": [
+          "Fill up your car's tank before leaving the city for the natural attractions.",
+          "Check the opening hours, especially for the caves and the plateau.",
+          "Download offline maps, as mobile coverage can be spotty in rural areas.",
+          "Allow plenty of time for driving and enjoy the scenery."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Historischer Basar",
+            "hu": "Klaszter: Történelmi bazár",
+            "ro": "Cluster: Bazarul Istoric",
+            "en": "Cluster: Historical Bazaar"
+          },
+          "coords": [
+            37.5833,
+            36.9351
+          ],
+          "category": "districts",
+          "arrive_at": "09:25",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Menjen busszal a központba, és kezdje a felfedezést gyalog.",
+            "ro": "Luați un autobuz spre centru și începeți explorarea pe jos.",
+            "en": "Take a bus to the center and start your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar & Große Moschee",
+            "hu": "Bazár és Nagymecset",
+            "ro": "Bazar și Marea Moschee",
+            "en": "Bazaar & Grand Mosque"
+          },
+          "coords": [
+            37.5845,
+            36.9349
+          ],
+          "category": "markets",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen des Basars und finden Sie dann Ruhe in der Moschee.",
+            "hu": "Vesszen el a bazár sikátoraiban, majd találjon nyugalmat a mecsetben.",
+            "ro": "Pierdeți-vă pe aleile bazarului și apoi găsiți liniștea în moschee.",
+            "en": "Get lost in the alleys of the bazaar, then find tranquility in the mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Katip Han",
+            "hu": "Ebéd és Katip Han",
+            "ro": "Prânz și Hanul Katip",
+            "en": "Lunch & Katip Han"
+          },
+          "coords": [
+            37.586,
+            36.9355
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein lokales Essen und entspannen Sie danach im Hof des historischen Han.",
+            "hu": "Élvezzen egy helyi ételt, majd pihenjen a történelmi karavánszeráj udvarán.",
+            "ro": "Savurați o masă locală și apoi relaxați-vă în curtea hanului istoric.",
+            "en": "Enjoy a local meal and then relax in the courtyard of the historic han."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Steinbrücke",
+            "hu": "Klaszter: Kőhíd",
+            "ro": "Cluster: Podul de Piatră",
+            "en": "Cluster: Stone Bridge"
+          },
+          "coords": [
+            37.5681,
+            36.9255
+          ],
+          "category": "bridges",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine kurze Busfahrt bringt Sie zu dieser beeindruckenden historischen Brücke.",
+            "hu": "Egy rövid buszút elviszi ehhez a lenyűgöző történelmi hídhoz.",
+            "ro": "O scurtă călătorie cu autobuzul vă va duce la acest pod istoric impresionant.",
+            "en": "A short bus ride will take you to this impressive historical bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster: Museum & Burg",
+            "hu": "Klaszter: Múzeum és vár",
+            "ro": "Cluster: Muzeu și Castel",
+            "en": "Cluster: Museum & Castle"
+          },
+          "coords": [
+            37.5799,
+            36.9311
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Die letzte Busfahrt des Tages bringt Sie zum Kulturhügel der Stadt.",
+            "hu": "A nap utolsó buszútja a város kulturális dombjára visz.",
+            "ro": "Ultima călătorie cu autobuzul a zilei vă duce pe dealul cultural al orașului.",
+            "en": "The last bus ride of the day takes you to the city's cultural hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum & Aufstieg zur Burg",
+            "hu": "Régészeti Múzeum és feljutás a várhoz",
+            "ro": "Muzeul de Arheologie și urcarea la Castel",
+            "en": "Archaeological Museum & Climb to Castle"
+          },
+          "coords": [
+            37.5875,
+            36.9333
+          ],
+          "category": "castles",
+          "arrive_at": "14:25",
+          "stay_min": 185,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Museum und erklimmen Sie dann die Burg für die finale Aussicht.",
+            "hu": "Fedezze fel a múzeumot, majd másszon fel a várhoz a végső kilátásért.",
+            "ro": "Explorați muzeul și apoi urcați la castel pentru priveliștea finală.",
+            "en": "Explore the museum and then climb the castle for the final view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Kahramanmaraş zu erkunden. Beginnen Sie im historischen Zentrum und entdecken Sie den Basar und die Große Moschee. Nach einem Mittagessen in einem traditionellen Han bringt Sie ein Bus zur Steinbrücke. Der letzte Teil Ihrer Reise führt Sie per Bus zum Museumshügel, wo Sie in die Geschichte eintauchen und den Tag mit einer spektakulären Aussicht von der Burg beenden.",
+        "hu": "Használja a tömegközlekedést Kahramanmaraş felfedezéséhez. Kezdje a történelmi központban, fedezze fel a bazárt és a Nagymecsetet. Egy hagyományos karavánszerájban elköltött ebéd után egy busz elviszi a Kőhídhoz. Az utazás utolsó része busszal a múzeumdombra vezet, ahol elmerülhet a történelemben, és a napot a várból nyíló látványos kilátással zárhatja.",
+        "ro": "Folosiți transportul public pentru a explora Kahramanmaraş. Începeți în centrul istoric, descoperind bazarul și Marea Moschee. După un prânz într-un han tradițional, un autobuz vă va duce la Podul de Piatră. Ultima parte a călătoriei vă duce cu autobuzul pe dealul muzeului, unde vă puteți cufunda în istorie și încheia ziua cu o priveliște spectaculoasă de la castel.",
+        "en": "Use public transport to explore Kahramanmaraş. Start in the historic center, discovering the bazaar and the Grand Mosque. After lunch in a traditional han, a bus will take you to the Stone Bridge. The final part of your journey takes you by bus to the museum hill, where you can delve into history and end the day with a spectacular view from the castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraş Dondurması (Eis)",
+            "tip": "Das berühmte dehnbare Eis, ein Muss! Suchen Sie nach Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Ein herzhaftes Lammgericht, das langsam im Ofen gegart wird."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Eine reichhaltige Suppe, die oft zum Frühstück gegessen wird, um Energie zu tanken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraş Dondurması (fagylalt)",
+            "tip": "A híres, nyúlós fagylalt, kötelező! Keresse a Yaşar Pastanesit."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Egy kiadós, lassan sütőben sült bárányétel."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "Egy gazdag leves, amelyet gyakran reggelire esznek energiáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maraş Dondurması (Înghețată)",
+            "tip": "Faimoasa înghețată elastică, o necesitate! Căutați Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "Un preparat consistent din miel, gătit lent la cuptor."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "O supă bogată, adesea consumată la micul dejun pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraş Dondurması (Ice Cream)",
+            "tip": "The famous stretchy ice cream, a must-try! Look for Yaşar Pastanesi."
+          },
+          {
+            "name": "Eli Böğründe",
+            "tip": "A hearty lamb dish, slow-cooked in the oven."
+          },
+          {
+            "name": "Maraş Paçası",
+            "tip": "A rich soup often eaten for breakfast for an energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von der Burg",
+            "tip": "Der beste Ort, um dem Trubel zu entfliehen und die Stadt von oben zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teegarten am Ceyhan-Fluss",
+            "tip": "Finden Sie einen ruhigen Platz am Flussufer, um sich zu entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hof des Katip Han",
+            "tip": "Ein friedlicher Innenhof, perfekt für eine ruhige Tasse türkischen Tees.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várból",
+            "tip": "A legjobb hely a nyüzsgés elől való menekülésre és a város fentről való megtekintésére.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Teakert a Ceyhan-folyó mellett",
+            "tip": "Keressen egy csendes helyet a folyóparton a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Katip Han udvara",
+            "tip": "Békés belső udvar, tökéletes egy csendes török teához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la castel",
+            "tip": "Cel mai bun loc pentru a scăpa de agitație și a vedea orașul de sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădină de ceai pe malul râului Ceyhan",
+            "tip": "Găsiți un loc liniștit pe malul râului pentru a vă relaxa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Hanului Katip",
+            "tip": "O curte interioară pașnică, perfectă pentru o ceașcă liniștită de ceai turcesc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle",
+            "tip": "The best spot to escape the hustle and see the city from above.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Tea garden by the Ceyhan River",
+            "tip": "Find a quiet spot along the riverbank to unwind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Courtyard of Katip Han",
+            "tip": "A peaceful inner courtyard, perfect for a quiet cup of Turkish tea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Historischer Basar",
+            "tip": "Kaufen Sie Kupferwaren, Gewürze und die berühmte rote Paprika der Stadt."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Kupferschmiedebasar)",
+            "tip": "Spezialisiert auf handgefertigte Kupferartikel, von Tabletts bis zu Kaffeekannen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Történelmi bazár",
+            "tip": "Vásároljon rézárukat, fűszereket és a város híres pirospaprikáját."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Rézműves bazár)",
+            "tip": "Kézzel készített réztárgyakra szakosodott, a tálcáktól a kávéskannákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul istoric",
+            "tip": "Cumpărați obiecte din cupru, mirodenii și faimosul ardei roșu al orașului."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Bazarul Arămarilor)",
+            "tip": "Specializat în articole de cupru lucrate manual, de la tăvi la ibricuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Historical Bazaar",
+            "tip": "Shop for copperware, spices, and the city's famous red pepper flakes."
+          },
+          {
+            "name": "Bakırcılar Çarşısı (Coppersmiths' Bazaar)",
+            "tip": "Specializes in handmade copper items, from trays to coffee pots."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen zu überprüfen.",
+          "Halten Sie Kleingeld für Bustickets bereit, falls Sie an Bord kaufen.",
+          "Seien Sie sich der Stoßzeiten bewusst, um überfüllte Busse zu vermeiden."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a menetrendek és útvonalak ellenőrzéséhez.",
+          "Tartson aprópénzt a buszjegyekhez, ha a fedélzeten vásárol.",
+          "Legyen tisztában a csúcsidővel, hogy elkerülje a zsúfolt buszokat."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru a verifica orarele și rutele.",
+          "Aveți la îndemână bani mărunți pentru biletele de autobuz dacă cumpărați la bord.",
+          "Fiți conștienți de orele de vârf pentru a evita autobuzele aglomerate."
+        ],
+        "en": [
+          "Purchase a daily bus pass to save money.",
+          "Download the local public transit app to check schedules and routes.",
+          "Keep small change ready for bus tickets if buying on board.",
+          "Be aware of peak hours to avoid crowded buses."
+        ]
+      }
+    }
+  }
+}

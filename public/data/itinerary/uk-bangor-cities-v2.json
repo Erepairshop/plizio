@@ -1,0 +1,1278 @@
+{
+  "city_id": "uk-bangor-cities-v2",
+  "anchor": {
+    "name": "Bangor",
+    "coords": [
+      -4.1293,
+      53.2274
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bangor University (Main Building)",
+          "coords": [
+            -4.13,
+            53.229
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Architektur aus dem 19. Jahrhundert.",
+            "hu": "Figyeld meg a 19. századi épület lenyűgöző részleteit.",
+            "ro": "Observați arhitectura impresionantă din secolul al XIX-lea.",
+            "en": "Look out for the impressive 19th-century architecture."
+          }
+        },
+        {
+          "name": "Pontio Arts and Innovation Centre",
+          "coords": [
+            -4.128,
+            53.2285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Modernes Kulturzentrum mit tollen Ausstellungen.",
+            "hu": "Modern kulturális központ izgalmas kiállításokkal.",
+            "ro": "Centru cultural modern cu expoziții excelente.",
+            "en": "Modern cultural center with great exhibitions."
+          }
+        },
+        {
+          "name": "Storiel",
+          "coords": [
+            -4.126,
+            53.227
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum zur Geschichte von Gwynedd ist sehr informativ.",
+            "hu": "Gwynedd történelmét bemutató, nagyon informatív múzeum.",
+            "ro": "Muzeul dedicat istoriei din Gwynedd este foarte informativ.",
+            "en": "The museum dedicated to Gwynedd's history is highly informative."
+          }
+        },
+        {
+          "name": "Bangor Cathedral",
+          "coords": [
+            -4.1275,
+            53.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der ältesten Kathedralen in Großbritannien, gegründet im 6. Jahrhundert.",
+            "hu": "Az Egyesült Királyság egyik legrégebbi katedrálisa, a 6. században alapították.",
+            "ro": "Una dintre cele mai vechi catedrale din Marea Britanie, fondată în secolul al VI-lea.",
+            "en": "One of the oldest cathedrals in the UK, founded in the 6th century."
+          }
+        },
+        {
+          "name": "Bangor Garth Pier",
+          "coords": [
+            -4.122,
+            53.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die Menai-Straße bei einem Spaziergang.",
+            "hu": "Élvezd a Menai-szorosra nyíló kilátást séta közben.",
+            "ro": "Bucurați-vă de vederea spre Strâmtoarea Menai în timpul plimbării.",
+            "en": "Enjoy the view across the Menai Strait as you walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt an der historischen Universität. Danach geht es zum modernen Pontio Centre und in das Storiel Museum. Am Mittag besichtigen Sie die altehrwürdige Kathedrale. Der Nachmittag endet mit einem entspannten Spaziergang auf dem langen Garth Pier.",
+        "hu": "A napot a történelmi egyetemnél kezdjük. Utána a modern Pontio központba és a Storiel múzeumba látogatunk. Délben a tiszteletreméltó katedrálist nézzük meg. A délután egy pihentető sétával zárul a hosszú Garth Pier mólón.",
+        "ro": "Ziua începe la universitatea istorică. Apoi vizitați centrul modern Pontio și muzeul Storiel. La prânz, admirați vechea catedrală. După-amiaza se încheie cu o plimbare relaxantă pe lungul dig Garth Pier.",
+        "en": "The day begins at the historic university. Then head to the modern Pontio Centre and the Storiel Museum. At noon, visit the venerable cathedral. The afternoon concludes with a relaxing stroll along the long Garth Pier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Probieren Sie diesen lokalen Käse-Toast in einem der Cafés der High Street."
+          },
+          {
+            "name": "Fish & Chips am Pier",
+            "tip": "Klassisches britisches Essen mit Blick auf das Wasser."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Traditioneller walisischer Früchtekuchen zum Nachmittagstee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Kóstold meg ezt a helyi sajtos pirítóst a High Street egyik kávézójában."
+          },
+          {
+            "name": "Fish & Chips a mólónál",
+            "tip": "Klasszikus brit étel, kilátással a vízre."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Hagyományos walesi gyümölcskenyér a délutáni teához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Încercați acest toast cu brânză locală într-o cafenea de pe High Street."
+          },
+          {
+            "name": "Fish & Chips la dig",
+            "tip": "Mâncare clasică britanică cu vedere la apă."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Prăjitură tradițională galeză cu fructe pentru ceaiul de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Welsh Rarebit",
+            "tip": "Try this local cheese toast in one of the High Street cafes."
+          },
+          {
+            "name": "Fish & Chips by the Pier",
+            "tip": "Classic British food with a view of the water."
+          },
+          {
+            "name": "Bara Brith",
+            "tip": "Traditional Welsh fruit cake for afternoon tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garth Pier Ende",
+            "tip": "Ruhe und Weite am Ende des 458 m langen Piers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roman Camp Aussicht",
+            "tip": "Ein grüner Ort mit Blick über die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibelgarten der Kathedrale",
+            "tip": "Ein stiller Ort zum Innehalten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garth Pier vége",
+            "tip": "Nyugalom és tágasság a 458 m hosszú móló végén.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roman Camp kilátó",
+            "tip": "Zöld terület kilátással a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Katedrális Biblia-kert",
+            "tip": "Csendes hely a megpihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul Garth Pier",
+            "tip": "Liniște și spațiu la capătul digului de 458 m.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punctul de belvedere Roman Camp",
+            "tip": "Un loc verde cu vedere asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina biblică a catedralei",
+            "tip": "Un loc liniștit pentru meditație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garth Pier End",
+            "tip": "Peace and space at the end of the 458m pier.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Roman Camp Viewpoint",
+            "tip": "A green spot overlooking the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Bible Garden",
+            "tip": "A quiet place for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "High Street Boutiquen",
+            "tip": "Kleine Läden entlang der längsten Hauptstraße in Wales."
+          },
+          {
+            "name": "Storiel Shop",
+            "tip": "Gute Auswahl an walisischem Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "High Street butikok",
+            "tip": "Kis üzletek Wales leghosszabb főutcája mentén."
+          },
+          {
+            "name": "Storiel Shop",
+            "tip": "Jó választék walesi kézműves termékekből és szuvenírekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri pe High Street",
+            "tip": "Mici magazine de-a lungul celei mai lungi străzi principale din Țara Galilor."
+          },
+          {
+            "name": "Storiel Shop",
+            "tip": "O selecție bună de obiecte de artizanat galez și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "High Street Boutiques",
+            "tip": "Small shops along the longest high street in Wales."
+          },
+          {
+            "name": "Storiel Shop",
+            "tip": "Good selection of Welsh crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Wege zwischen Universität und Pier.",
+          "Die High Street ist mit 1,2 Kilometern recht lang, nehmen Sie sich Zeit.",
+          "Das Wetter kann in Wales schnell wechseln, packen Sie eine Regenjacke ein.",
+          "Am Pier kann es windig sein, ein Schal ist oft hilfreich."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt az egyetem és a móló közötti sétához.",
+          "A High Street 1,2 kilométeres, szánj rá elég időt.",
+          "Az időjárás gyorsan változhat Walesben, hozz esőkabátot.",
+          "A mólón szeles lehet az idő, egy sál gyakran jól jön."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plimbarea între universitate și dig.",
+          "Strada High Street are 1,2 kilometri, alocați-vă suficient timp.",
+          "Vremea se poate schimba rapid în Țara Galilor, luați o pelerină de ploaie.",
+          "Poate fi vânt pe dig, o eșarfă este adesea utilă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walks between the university and the pier.",
+          "The High Street is 1.2 kilometers long, take your time exploring.",
+          "Weather in Wales can change quickly, pack a rain jacket.",
+          "It can be windy on the pier, a scarf is often helpful."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bangor University (Main Building)",
+          "coords": [
+            -4.13,
+            53.229
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp am beeindruckenden Universitätsgelände.",
+            "hu": "Rövid megálló a lenyűgöző egyetemi campusnál.",
+            "ro": "Oprire scurtă la impresionantul campus universitar.",
+            "en": "Short stop at the impressive university grounds."
+          }
+        },
+        {
+          "name": "Bangor Cathedral",
+          "coords": [
+            -4.1275,
+            53.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und besichtigen Sie das Innere.",
+            "hu": "Tedd le a biciklit, és nézd meg a belső teret.",
+            "ro": "Parcați bicicleta și vizitați interiorul.",
+            "en": "Park your bike and visit the interior."
+          }
+        },
+        {
+          "name": "Bangor Garth Pier",
+          "coords": [
+            -4.122,
+            53.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad teilweise, um den Ausblick zu genießen.",
+            "hu": "Told a biciklit helyenként, hogy jobban élvezd a kilátást.",
+            "ro": "Împingeți bicicleta uneori pentru a savura vederea.",
+            "en": "Walk your bike at times to enjoy the view."
+          }
+        },
+        {
+          "name": "Roman Camp",
+          "coords": [
+            -4.11,
+            53.235
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrt ins Grüne zu diesem historischen Naturmerkmal.",
+            "hu": "Tekerj ki a zöldbe ehhez a történelmi természeti formációhoz.",
+            "ro": "Ciclism în natură până la această atracție istorică.",
+            "en": "Ride into the green to this historical natural feature."
+          }
+        },
+        {
+          "name": "Penrhyn Castle",
+          "coords": [
+            -4.093,
+            53.226
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein prächtiges normannisches Schloss aus dem 19. Jahrhundert.",
+            "hu": "Egy lenyűgöző, 19. századi normann stílusú kastély.",
+            "ro": "Un castel impresionant în stil normand din secolul al XIX-lea.",
+            "en": "An impressive 19th-century Norman-style castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie zuerst das Zentrum mit Universität und Kathedrale. Danach fahren Sie zum Pier für eine frische Brise. Die Route führt Sie weiter zum Roman Camp in die Natur und endet am prächtigen Penrhyn Castle.",
+        "hu": "Kerékpárral először a központot, az egyetemet és a katedrálist fedezzük fel. Ezután a mólóhoz tekerünk egy kis friss levegőért. Az út továbbvezet a Roman Camp természetébe, és a pompás Penrhyn kastélynál ér véget.",
+        "ro": "Cu bicicleta explorați mai întâi centrul cu universitatea și catedrala. Apoi mergeți la dig pentru o briză proaspătă. Traseul continuă către natura de la Roman Camp și se încheie la magnificul Castel Penrhyn.",
+        "en": "By bike, you first explore the center with the university and cathedral. Then ride to the pier for a fresh breeze. The route takes you further to the natural Roman Camp and ends at the magnificent Penrhyn Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Pier",
+            "tip": "Holen Sie sich lokale Snacks für eine Pause mit Aussicht."
+          },
+          {
+            "name": "Castle Tearoom",
+            "tip": "Tee und Kuchen nach der Besichtigung im Penrhyn Castle."
+          },
+          {
+            "name": "Pint of Welsh Ale",
+            "tip": "Ein kühles Bier in einem der Pubs in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a mólón",
+            "tip": "Vegyél helyi snackeket egy kilátással egybekötött pihenőhöz."
+          },
+          {
+            "name": "Castle Tearoom",
+            "tip": "Tea és sütemény a Penrhyn kastély megtekintése után."
+          },
+          {
+            "name": "Pint of Welsh Ale",
+            "tip": "Egy hideg sör az egyik városi pubban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la dig",
+            "tip": "Luați gustări locale pentru o pauză cu vedere."
+          },
+          {
+            "name": "Castle Tearoom",
+            "tip": "Ceai și prăjituri după vizitarea Castelului Penrhyn."
+          },
+          {
+            "name": "Pint of Welsh Ale",
+            "tip": "O bere rece într-un pub din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pier Picnic",
+            "tip": "Get some local snacks for a break with a view."
+          },
+          {
+            "name": "Castle Tearoom",
+            "tip": "Tea and cake after visiting Penrhyn Castle."
+          },
+          {
+            "name": "Pint of Welsh Ale",
+            "tip": "A cold beer in one of the city's pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roman Camp Wiesen",
+            "tip": "Weite Flächen fernab des Trubels.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Menai-Blick am Pier",
+            "tip": "Beobachten Sie das Wasser und die Boote.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gärten von Penrhyn",
+            "tip": "Ein weitläufiger Schlosspark.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roman Camp rétek",
+            "tip": "Tágas terek távol a nyüzsgéstől.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Menai-kilátás a mólóról",
+            "tip": "Figyeld a vizet és a csónakokat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Penrhyn kertjei",
+            "tip": "Hatalmas kastélypark.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Roman Camp",
+            "tip": "Spații largi departe de agitație.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere Menai de pe dig",
+            "tip": "Observați apa și bărcile.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Penrhyn",
+            "tip": "Un parc vast al castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Camp Meadows",
+            "tip": "Wide spaces away from the bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Menai View from Pier",
+            "tip": "Watch the water and the boats.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Penrhyn Gardens",
+            "tip": "A sprawling castle park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Penrhyn Castle Shop",
+            "tip": "Exklusive Geschenke und Bücher zur Geschichte."
+          },
+          {
+            "name": "Fahrradladen in Bangor",
+            "tip": "Für kleine Ersatzteile oder lokales Equipment."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Penrhyn Castle Shop",
+            "tip": "Exkluzív ajándékok és történelmi könyvek."
+          },
+          {
+            "name": "Bangor biciklibolt",
+            "tip": "Kisebb alkatrészekhez vagy helyi felszereléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Penrhyn Castle Shop",
+            "tip": "Cadouri exclusive și cărți de istorie."
+          },
+          {
+            "name": "Magazin de biciclete Bangor",
+            "tip": "Pentru piese mici de schimb sau echipamente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Penrhyn Castle Shop",
+            "tip": "Exclusive gifts and history books."
+          },
+          {
+            "name": "Bangor Bike Shop",
+            "tip": "For small spare parts or local equipment."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, bevor Sie zu den höher gelegenen Sights fahren.",
+          "In der Stadt gibt es gute Radwege, aber achten Sie auf Fußgänger.",
+          "Nehmen Sie ein gutes Schloss mit, um das Rad bei Besichtigungen zu sichern.",
+          "Das Radfahren entlang der Küste kann bei starkem Wind anstrengend sein."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket, mielőtt a magasabban fekvő látnivalók felé veszed az irányt.",
+          "A városban jó kerékpárutak vannak, de ügyelj a gyalogosokra.",
+          "Vigyél magaddal jó zárat, hogy a látogatások alatt biztonságban tudd a biciklit.",
+          "A part menti tekerés erős szélben fárasztó lehet."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a urca spre atracțiile aflate la altitudine.",
+          "Există piste bune pentru biciclete în oraș, dar atenție la pietoni.",
+          "Luați un lacăt bun pentru a asigura bicicleta în timpul vizitelor.",
+          "Ciclismul de-a lungul coastei poate fi obositor pe vânt puternic."
+        ],
+        "en": [
+          "Check your brakes before heading to the higher elevation sights.",
+          "There are good bike paths in the city, but watch out for pedestrians.",
+          "Take a good lock to secure your bike during visits.",
+          "Cycling along the coast can be tiring in strong winds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bangor Cathedral",
+          "coords": [
+            -4.1275,
+            53.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral für diesen ersten Spazier-Cluster.",
+            "hu": "Parkolj le a központban ehhez az első séta-csoporthoz.",
+            "ro": "Parcați central pentru acest prim cluster de plimbare.",
+            "en": "Park centrally for this first walking cluster."
+          }
+        },
+        {
+          "name": "Storiel",
+          "coords": [
+            -4.126,
+            53.227
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg von der Kathedrale entfernt.",
+            "hu": "Csak egy rövid sétára van a katedrálistól.",
+            "ro": "Doar o scurtă plimbare de la catedrală.",
+            "en": "Just a short walk from the cathedral."
+          }
+        },
+        {
+          "name": "Bangor University (Main Building)",
+          "coords": [
+            -4.13,
+            53.229
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckende Architektur, der letzte Stopp in diesem Cluster.",
+            "hu": "Lenyűgöző építészet, az utolsó megálló ebben a csoportban.",
+            "ro": "Arhitectură impresionantă, ultima oprire din acest cluster.",
+            "en": "Impressive architecture, the last stop in this cluster."
+          }
+        },
+        {
+          "name": "Bangor Garth Pier",
+          "coords": [
+            -4.122,
+            53.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie hierhin und nutzen Sie die Parkplätze am Pier.",
+            "hu": "Vezess ide, és használd a móló melletti parkolókat.",
+            "ro": "Conduceți aici și folosiți parcarea de lângă dig.",
+            "en": "Drive here and use the parking near the pier."
+          }
+        },
+        {
+          "name": "Penrhyn Castle",
+          "coords": [
+            -4.093,
+            53.226
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großes Gelände mit eigenem Parkplatz. Planen Sie viel Zeit ein.",
+            "hu": "Hatalmas terület saját parkolóval. Tervezz ide sok időt.",
+            "ro": "Domeniu mare cu parcare proprie. Alocați-vă mult timp.",
+            "en": "Large grounds with its own parking. Plan plenty of time here."
+          }
+        },
+        {
+          "name": "Spinnies Aberogwen",
+          "coords": [
+            -4.07,
+            53.23
+          ],
+          "category": "natural features",
+          "arrive_at": "17:20",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kleines Naturreservat zur Vogelbeobachtung zum Abschluss.",
+            "hu": "Egy kis madármegfigyelő természetvédelmi terület zárásként.",
+            "ro": "O mică rezervație naturală pentru observarea păsărilor, la final.",
+            "en": "A small nature reserve for bird watching to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Spazier-Cluster im Zentrum: Kathedrale, Storiel und Universität. Danach fahren Sie zum Garth Pier, um am Wasser zu entspannen. Der Nachmittag ist für das prächtige Penrhyn Castle reserviert. Den Abschluss bildet die ruhige Natur bei Spinnies Aberogwen.",
+        "hu": "A napot egy sétával kezdjük a központban: a katedrális, a Storiel és az egyetem következik. Ezután elautózunk a Garth Pier mólóhoz. A délután a pompás Penrhyn kastélyé. A napot a Spinnies Aberogwen békés természetében zárjuk.",
+        "ro": "Ziua începe cu o plimbare în centru: Catedrala, Storiel și universitatea. Apoi conduceți spre Garth Pier pentru a vă relaxa la apă. După-amiaza este rezervată superbului Castel Penrhyn. Ziua se încheie în natura liniștită de la Spinnies Aberogwen.",
+        "en": "Your day starts with a walking cluster in the center: Cathedral, Storiel, and the University. Then drive to Garth Pier to relax by the water. The afternoon is dedicated to the magnificent Penrhyn Castle. End the day in the tranquil nature at Spinnies Aberogwen."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lunch am Pier",
+            "tip": "Nutzen Sie die Gelegenheit für frisches Seafood."
+          },
+          {
+            "name": "Penrhyn Castle Café",
+            "tip": "Praktisch für eine Pause während des langen Schlossbesuchs."
+          },
+          {
+            "name": "Dinner am Stadtrand",
+            "tip": "Auf dem Rückweg ins Zentrum können Sie walisische Spezialitäten probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebéd a mólónál",
+            "tip": "Használd ki az alkalmat a friss tengeri ételekre."
+          },
+          {
+            "name": "Penrhyn Castle Café",
+            "tip": "Praktikus egy pihenőhöz a hosszú kastélylátogatás során."
+          },
+          {
+            "name": "Vacsora a város szélén",
+            "tip": "A központba visszavezető úton walesi specialitásokat kóstolhatsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz la dig",
+            "tip": "Profitați de ocazie pentru fructe de mare proaspete."
+          },
+          {
+            "name": "Penrhyn Castle Café",
+            "tip": "Practic pentru o pauză în timpul vizitei lungi la castel."
+          },
+          {
+            "name": "Cină la periferie",
+            "tip": "La întoarcerea spre centru, puteți gusta specialități galeze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lunch at the Pier",
+            "tip": "Take the opportunity for fresh seafood."
+          },
+          {
+            "name": "Penrhyn Castle Café",
+            "tip": "Convenient for a break during the long castle visit."
+          },
+          {
+            "name": "Dinner on the outskirts",
+            "tip": "On your way back to the center, try some Welsh specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spinnies Aberogwen Versteck",
+            "tip": "Vögel beobachten in völliger Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Penrhyn Gärten",
+            "tip": "Finden Sie eine ruhige Bank im riesigen Park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Pier",
+            "tip": "Blick über die Meerenge im warmen Licht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spinnies Aberogwen madárles",
+            "tip": "Madármegfigyelés teljes nyugalomban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Penrhyn kertek",
+            "tip": "Keress egy csendes padot a hatalmas parkban.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a mólónál",
+            "tip": "Kilátás a tengerszorosra meleg fényekben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observator de păsări Spinnies",
+            "tip": "Urmăriți păsările în liniște deplină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Penrhyn",
+            "tip": "Găsiți o bancă liniștită în parcul uriaș.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare la dig",
+            "tip": "Vedere asupra strâmtorii în lumina caldă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spinnies Aberogwen Hide",
+            "tip": "Watch birds in complete peace.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Penrhyn Gardens",
+            "tip": "Find a quiet bench in the huge park.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at the Pier",
+            "tip": "View across the strait in warm light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Penrhyn Souvenir Shop",
+            "tip": "Perfekt für hochwertige Mitbringsel."
+          },
+          {
+            "name": "Regionale Spezialitäten",
+            "tip": "Kaufen Sie walisischen Käse in den Läden der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Penrhyn szuvenírbolt",
+            "tip": "Tökéletes választás minőségi ajándékokhoz."
+          },
+          {
+            "name": "Helyi specialitások",
+            "tip": "Vásárolj walesi sajtot a belvárosi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Penrhyn",
+            "tip": "Perfect pentru cadouri de înaltă calitate."
+          },
+          {
+            "name": "Specialități regionale",
+            "tip": "Cumpărați brânză galeză din magazinele din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Penrhyn Souvenir Shop",
+            "tip": "Perfect for high-quality gifts."
+          },
+          {
+            "name": "Regional Specialties",
+            "tip": "Buy Welsh cheese in the city center shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park and Ride Möglichkeiten, wenn das Zentrum voll ist.",
+          "Die Straßen können in der Nähe der Universität eng werden.",
+          "Planen Sie genug Zeit für Penrhyn Castle ein, das Gelände ist riesig.",
+          "Bringen Sie ein Fernglas für das Naturreservat mit."
+        ],
+        "hu": [
+          "Használd a P+R lehetőségeket, ha a központ zsúfolt.",
+          "Az egyetem körüli utcák szűkek lehetnek.",
+          "Szánj elég időt a Penrhyn kastélyra, a terület hatalmas.",
+          "Vigyél távcsövet a természetvédelmi területhez."
+        ],
+        "ro": [
+          "Folosiți opțiunile Park and Ride dacă centrul este aglomerat.",
+          "Străzile pot fi înguste lângă universitate.",
+          "Alocați suficient timp pentru Castelul Penrhyn, domeniul este imens.",
+          "Luați un binoclu pentru rezervația naturală."
+        ],
+        "en": [
+          "Use Park and Ride options if the center is busy.",
+          "Streets can get narrow near the university.",
+          "Allow plenty of time for Penrhyn Castle, the grounds are huge.",
+          "Bring binoculars for the nature reserve."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bangor University (Main Building)",
+          "coords": [
+            -4.13,
+            53.229
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier; viele Buslinien halten in der Nähe.",
+            "hu": "Kezdj itt; sok buszmegálló van a közelben.",
+            "ro": "Începeți aici; multe linii de autobuz opresc în apropiere.",
+            "en": "Start here; many bus lines stop nearby."
+          }
+        },
+        {
+          "name": "Pontio Arts and Innovation Centre",
+          "coords": [
+            -4.128,
+            53.2285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Universität entfernt.",
+            "hu": "Csak néhány lépésre az egyetemtől.",
+            "ro": "La doar câțiva pași de universitate.",
+            "en": "Just a few steps from the university."
+          }
+        },
+        {
+          "name": "Storiel",
+          "coords": [
+            -4.126,
+            53.227
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Fußtour im Zentrumsbereich fort.",
+            "hu": "Folytasd a sétát a központi részben.",
+            "ro": "Continuați turul pe jos în zona centrală.",
+            "en": "Continue your walking tour in the central area."
+          }
+        },
+        {
+          "name": "Bangor Cathedral",
+          "coords": [
+            -4.1275,
+            53.226
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Fußweg in diesem Cluster.",
+            "hu": "Az utolsó séta ebben a csoportban.",
+            "ro": "Ultima porțiune pe jos din acest cluster.",
+            "en": "The last walk in this cluster."
+          }
+        },
+        {
+          "name": "Bangor Garth Pier",
+          "coords": [
+            -4.122,
+            53.238
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus Richtung Küste.",
+            "hu": "Szállj fel egy tengerpart felé tartó buszra.",
+            "ro": "Luați un autobuz spre coastă.",
+            "en": "Take a bus towards the coast."
+          }
+        },
+        {
+          "name": "Penrhyn Castle",
+          "coords": [
+            -4.093,
+            53.226
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus, um das weitläufige Schlossgelände zu erreichen.",
+            "hu": "Használd a buszt, hogy eljuss a hatalmas kastélyhoz.",
+            "ro": "Folosiți autobuzul pentru a ajunge la vastul domeniu al castelului.",
+            "en": "Use the bus to reach the extensive castle grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit einem kulturellen Rundgang zu Fuß im Zentrum: Universität, Pontio, Storiel und Kathedrale. Danach nehmen Sie den Bus zum entspannten Garth Pier. Den großen Abschluss bildet eine kurze Fahrt zum beeindruckenden Penrhyn Castle.",
+        "hu": "A napot egy kulturális sétával kezdjük a központban: egyetem, Pontio, Storiel és a katedrális. Utána busszal elmegyünk a Garth Pier mólóhoz pihenni. A nap zárásaként egy rövid utazás következik a lenyűgöző Penrhyn kastélyhoz.",
+        "ro": "Ziua începe cu un tur cultural pe jos în centru: universitate, Pontio, Storiel și catedrală. Apoi luați autobuzul spre relaxantul Garth Pier. Finalul grandios este o scurtă călătorie până la impresionantul Castel Penrhyn.",
+        "en": "The day starts with a cultural walking tour in the center: University, Pontio, Storiel, and Cathedral. Then take the bus to the relaxing Garth Pier. The grand finale is a short ride to the impressive Penrhyn Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zentraler Lunch",
+            "tip": "Viele Cafés rund um die Kathedrale bieten schnelle Mittagsmenüs."
+          },
+          {
+            "name": "Kiosk am Pier",
+            "tip": "Holen Sie sich ein Eis oder einen Tee am Wasser."
+          },
+          {
+            "name": "Pub Food",
+            "tip": "Deftiges Essen vor der Rückfahrt im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebéd a központban",
+            "tip": "A katedrális körüli kávézók gyors menüket kínálnak."
+          },
+          {
+            "name": "Kioszk a mólónál",
+            "tip": "Kérj egy fagyit vagy teát a vízparton."
+          },
+          {
+            "name": "Pub étel",
+            "tip": "Laktató étel a városközpontban a visszaindulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prânz în centru",
+            "tip": "Multe cafenele din jurul catedralei oferă meniuri rapide."
+          },
+          {
+            "name": "Chioșc la dig",
+            "tip": "Luați o înghețată sau un ceai pe malul apei."
+          },
+          {
+            "name": "Mâncare de pub",
+            "tip": "Mâncare consistentă în centrul orașului înainte de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Lunch",
+            "tip": "Many cafes around the cathedral offer quick lunch menus."
+          },
+          {
+            "name": "Pier Kiosk",
+            "tip": "Grab an ice cream or tea by the water."
+          },
+          {
+            "name": "Pub Food",
+            "tip": "Hearty food in the city center before heading back."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralen-Hof",
+            "tip": "Ein ruhiger Moment mitten in der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang auf dem Pier",
+            "tip": "Genießen Sie die frische Brise.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Finden Sie einen schattigen Baum für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális udvar",
+            "tip": "Egy nyugodt pillanat a város közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a mólón",
+            "tip": "Élvezd a friss szellőt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Keress egy árnyékos fát a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea catedralei",
+            "tip": "Un moment de liniște în mijlocul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe dig",
+            "tip": "Bucurați-vă de briza proaspătă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul castelului",
+            "tip": "Găsiți un copac umbros pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Courtyard",
+            "tip": "A quiet moment in the middle of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk on the Pier",
+            "tip": "Enjoy the fresh breeze.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Find a shady tree for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum am Bahnhof",
+            "tip": "Praktisch für kleine Besorgungen."
+          },
+          {
+            "name": "Boutiquen nahe Storiel",
+            "tip": "Interessante kleine Shops mit Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont az állomásnál",
+            "tip": "Praktikus kisebb dolgok beszerzéséhez."
+          },
+          {
+            "name": "Butikok a Storiel közelében",
+            "tip": "Érdekes kis boltok kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial de la gară",
+            "tip": "Practic pentru cumpărături mici."
+          },
+          {
+            "name": "Buticuri lângă Storiel",
+            "tip": "Mici magazine interesante cu obiecte de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping center by the station",
+            "tip": "Convenient for small errands."
+          },
+          {
+            "name": "Boutiques near Storiel",
+            "tip": "Interesting small shops with crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab die Busfahrpläne nach Penrhyn Castle, sie fahren oft unregelmäßig.",
+          "Ein Tagesticket für den Bus lohnt sich meistens.",
+          "Das Zentrum lässt sich am besten komplett zu Fuß erkunden.",
+          "Halten Sie Kleingeld für Busse bereit, falls Kartenzahlung mal nicht geht."
+        ],
+        "hu": [
+          "Nézd meg előre a Penrhyn kastély felé tartó buszok menetrendjét.",
+          "A napi buszjegy általában megéri az árát.",
+          "A központot a legjobb teljesen gyalog felfedezni.",
+          "Legyen nálad apró a buszokra, ha a kártyás fizetés nem működne."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzelor spre Castelul Penrhyn, adesea circulă neregulat.",
+          "Un bilet de o zi pentru autobuz este, de obicei, avantajos.",
+          "Centrul se explorează cel mai bine pe jos în întregime.",
+          "Păstrați mărunt pentru autobuze, în caz că plata cu cardul nu funcționează."
+        ],
+        "en": [
+          "Check the bus schedules to Penrhyn Castle in advance, they often run irregularly.",
+          "A day ticket for the bus is usually worth it.",
+          "The center is best explored completely on foot.",
+          "Keep some change handy for buses, in case card payment doesn't work."
+        ]
+      }
+    }
+  }
+}

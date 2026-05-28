@@ -1,0 +1,1541 @@
+{
+  "city_id": "spain-leganes-cities-v2",
+  "anchor": {
+    "name": "Leganés",
+    "coords": [
+      40.3283,
+      -3.7634
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
+            "ro": "Începeți ziua aici cu o cafea, privind agitația de dimineață.",
+            "en": "Start your day here with a coffee, watching the morning bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Salvador",
+            "hu": "San Salvador templom",
+            "ro": "Biserica San Salvador",
+            "en": "Church of San Salvador"
+          },
+          "coords": [
+            -3.764,
+            40.3291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf den beeindruckenden Glockenturm, ein Werk von Churriguera.",
+            "hu": "Figyelje meg a lenyűgöző harangtornyot, Churriguera munkáját.",
+            "ro": "Observați clopotnița impresionantă, o operă a lui Churriguera.",
+            "en": "Look out for the impressive bell tower, a work by Churriguera."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne der Reales Guardias de Corps",
+            "hu": "A Királyi Testőrség Laktanyája",
+            "ro": "Cazarma Gărzilor Regale",
+            "en": "Barracks of the Royal Guards"
+          },
+          "coords": [
+            -3.7658,
+            40.3299
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heute beherbergt es einen Teil der Universität, aber die historische Fassade ist erhalten.",
+            "hu": "Ma az egyetem egy részének ad otthont, de a történelmi homlokzat megmaradt.",
+            "ro": "Astăzi găzduiește o parte a universității, dar fațada istorică este conservată.",
+            "en": "Today it houses part of the university, but the historic facade is preserved."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenmuseum von Leganés",
+            "hu": "Leganési Szobormúzeum",
+            "ro": "Muzeul de Sculptură din Leganés",
+            "en": "Sculpture Museum of Leganés"
+          },
+          "coords": [
+            -3.769,
+            40.3345
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum, ideal für einen Spaziergang zwischen moderner Kunst.",
+            "hu": "Szabadtéri múzeum, ideális egy sétához a modern művészetek között.",
+            "ro": "Un muzeu în aer liber, perfect pentru o plimbare printre opere de artă modernă.",
+            "en": "An open-air museum, perfect for a stroll among modern art pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Frailes",
+            "hu": "Frailes Park",
+            "ro": "Parcul de los Frailes",
+            "en": "Park de los Frailes"
+          },
+          "coords": [
+            -3.7581,
+            40.3301
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause im Schatten der Bäume.",
+            "hu": "Remek hely egy ebédszünetre a fák árnyékában.",
+            "ro": "Un loc frumos pentru o pauză de prânz la umbra copacilor.",
+            "en": "A lovely spot for a lunch break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San Nicasio",
+            "hu": "San Nicasio Remetelak",
+            "ro": "Schitul San Nicasio",
+            "en": "Hermitage of San Nicasio"
+          },
+          "coords": [
+            -3.7788,
+            40.3215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dem Schutzpatron der Stadt gewidmet, ist dies ein Ort der lokalen Verehrung.",
+            "hu": "A város védőszentjének szentelték, a helyi tisztelet egyik központja.",
+            "ro": "Dedicat sfântului patron al orașului, acesta este un loc de venerație locală.",
+            "en": "Dedicated to the city's patron saint, this is a place of local devotion."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Egaleo",
+            "hu": "Egaleo Színház",
+            "ro": "Teatrul Egaleo",
+            "en": "Egaleo Theatre"
+          },
+          "coords": [
+            -3.7662,
+            40.3255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm für Abendveranstaltungen, es ist ein Freilichttheater.",
+            "hu": "Nézze meg az esti programot; ez egy szabadtéri színház.",
+            "ro": "Verificați programul pentru evenimente de seară; este un teatru în aer liber.",
+            "en": "Check the schedule for evening events; it's an open-air theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Leganés beginnt auf der belebten Plaza Mayor und führt Sie durch historische Straßen zur Kirche San Salvador. Der Vormittag ist der Kunst gewidmet, mit einem Spaziergang durch das einzigartige Freilicht-Skulpturenmuseum. Am Nachmittag entspannen Sie im Park de los Frailes, bevor Sie die spirituelle Atmosphäre der Einsiedelei San Nicasio erleben. Der Tag endet kulturell im griechisch inspirierten Teatro Egaleo.",
+        "hu": "A leganési nap a nyüzsgő Főtéren kezdődik, majd történelmi utcákon át a San Salvador-templomhoz vezet. A délelőtt a művészeté, egy sétával az egyedülálló szabadtéri szoborparkban. Délután a Frailes Parkban pihenhet, mielőtt megtapasztalná a San Nicasio remetelak spirituális hangulatát. A nap kulturális élménnyel, a görög ihletésű Egaleo Színházban zárul.",
+        "ro": "Ziua dvs. în Leganés începe în animata Plaza Mayor și vă poartă pe străzi istorice până la Biserica San Salvador. Dimineața este dedicată artei, cu o plimbare prin Muzeul de Sculptură în aer liber. După-amiaza vă relaxați în Parcul de los Frailes înainte de a experimenta atmosfera spirituală a Schitului San Nicasio. Ziua se încheie cultural la Teatrul Egaleo, de inspirație grecească.",
+        "en": "Your day in Leganés starts in the bustling Plaza Mayor, leading you through historic streets to the Church of San Salvador. The morning is dedicated to art with a walk through the unique open-air Sculpture Museum. In the afternoon, you'll relax in the Park de los Frailes before experiencing the spiritual atmosphere of the Hermitage of San Nicasio. The day concludes culturally at the Greek-inspired Egaleo Theatre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Ein herzhafter Eintopf, perfekt für ein sättigendes Mittagessen. Suchen Sie nach einem 'Menú del Día'."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Ein klassisches Madrider Sandwich, auch hier beliebt. Ideal für einen schnellen Imbiss."
+          },
+          {
+            "name": "Tapas-Variationen",
+            "tip": "Probieren Sie Patatas Bravas, Pimientos de Padrón und Jamón Ibérico in einer der vielen Bars."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "Kiadós egytálétel, tökéletes egy laktató ebédhez. Keressen egy 'Menú del Día'-t kínáló helyet."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Klasszikus madridi szendvics, itt is népszerű. Ideális egy gyors harapnivalóhoz."
+          },
+          {
+            "name": "Tapas-válogatás",
+            "tip": "Kóstolja meg a Patatas Bravast, a Pimientos de Padrónt és a Jamón Ibéricót a számos bár egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "O tocană consistentă, perfectă pentru un prânz sățios. Căutați un local cu 'Menú del Día'."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Un sandviș clasic din Madrid, popular și aici. Ideal pentru o gustare rapidă."
+          },
+          {
+            "name": "Sortiment de Tapas",
+            "tip": "Încercați Patatas Bravas, Pimientos de Padrón și Jamón Ibérico la unul dintre numeroasele baruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocido Madrileño",
+            "tip": "A hearty stew, perfect for a filling lunch. Look for a 'Menú del Día'."
+          },
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A classic Madrid sandwich, also popular here. Ideal for a quick bite."
+          },
+          {
+            "name": "Tapas Variations",
+            "tip": "Try Patatas Bravas, Pimientos de Padrón, and Jamón Ibérico at one of the many bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park de los Frailes",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die grüne Oase.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Polvoranca-Park",
+            "tip": "Etwas weiter entfernt, aber ideal für lange, ungestörte Spaziergänge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten des Skulpturenmuseums",
+            "tip": "Zwischen den Kunstwerken gibt es überraschend friedliche Ecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frailes Park",
+            "tip": "Keressen egy csendes padot, és élvezze a zöld oázist.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Polvoranca Park",
+            "tip": "Kicsit távolabb van, de ideális hosszú, zavartalan sétákhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Szobormúzeum kertjei",
+            "tip": "A műalkotások között meglepően békés zugokat talál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de los Frailes",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de oaza de verdeață.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Polvoranca",
+            "tip": "Puțin mai departe, dar ideal pentru plimbări lungi și neîntrerupte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Muzeului de Sculptură",
+            "tip": "Există colțuri surprinzător de pașnice printre operele de artă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park de los Frailes",
+            "tip": "Find a quiet bench and enjoy the green oasis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Polvoranca Park",
+            "tip": "A bit further out, but ideal for long, undisturbed walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Sculpture Museum",
+            "tip": "There are surprisingly peaceful corners among the artworks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach dem städtischen Markt für frische Produkte und lokale Spezialitäten."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "Die Hauptstraße und die umliegenden Gassen bieten eine Mischung aus traditionellen Geschäften und modernen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keresse a városi piacot friss termékekért és helyi különlegességekért."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "A főutca és a környező sikátorok a hagyományos üzletek és modern butikok keverékét kínálják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Căutați piața municipală pentru produse proaspete și specialități locale."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "Strada principală și aleile din jur oferă un amestec de magazine tradiționale și buticuri moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for the municipal market for fresh produce and local specialities."
+          },
+          {
+            "name": "Calle Mayor",
+            "tip": "The main street and surrounding alleys offer a mix of traditional shops and modern boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum uneben sein kann.",
+          "Viele Geschäfte halten eine Siesta am frühen Nachmittag.",
+          "Nutzen Sie die vielen kleinen Plätze für eine kurze Pause.",
+          "Ein 'Menú del Día' zur Mittagszeit ist oft die günstigste und authentischste Option."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a belvárosi macskakő egyenetlen lehet.",
+          "Sok üzlet sziesztát tart kora délután.",
+          "Használja ki a sok kis teret egy rövid pihenőre.",
+          "Ebédidőben a 'Menú del Día' gyakran a legolcsóbb és legautentikusabb választás."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centru poate fi denivelat.",
+          "Multe magazine respectă siesta la începutul după-amiezii.",
+          "Folosiți numeroasele piețe mici pentru o scurtă pauză.",
+          "Un 'Menú del Día' la prânz este adesea cea mai ieftină și autentică opțiune."
+        ],
+        "en": [
+          "Wear comfortable shoes, as the cobblestones in the center can be uneven.",
+          "Many shops observe a siesta in the early afternoon.",
+          "Take advantage of the many small squares for a short break.",
+          "A 'Menú del Día' at lunchtime is often the cheapest and most authentic option."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher ab und genießen Sie die Atmosphäre, bevor die Stadt erwacht.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a hangulatot, mielőtt a város felébred.",
+            "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosferă înainte ca orașul să se trezească.",
+            "en": "Lock your bike securely and enjoy the atmosphere before the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Salvador",
+            "hu": "San Salvador templom",
+            "ro": "Biserica San Salvador",
+            "en": "Church of San Salvador"
+          },
+          "coords": [
+            -3.764,
+            40.3291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um die barocke Fassade und den markanten Turm zu bewundern.",
+            "hu": "Egy rövid megálló a barokk homlokzat és a jellegzetes torony megcsodálására.",
+            "ro": "O oprire scurtă pentru a admira fațada barocă și turnul distinctiv.",
+            "en": "A quick stop to admire the baroque facade and the distinctive tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Park de los Frailes",
+            "hu": "Frailes Park",
+            "ro": "Parcul de los Frailes",
+            "en": "Park de los Frailes"
+          },
+          "coords": [
+            -3.7581,
+            40.3301
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für eine erste Radpause, mit schönen Wegen und viel Grün.",
+            "hu": "Ideális egy első kerékpáros pihenőhöz, szép utakkal és sok zölddel.",
+            "ro": "Ideal pentru o primă pauză de ciclism, cu poteci frumoase și multă verdeață.",
+            "en": "Ideal for a first cycling break, with nice paths and plenty of green."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenmuseum von Leganés",
+            "hu": "Leganési Szobormúzeum",
+            "ro": "Muzeul de Sculptură din Leganés",
+            "en": "Sculpture Museum of Leganés"
+          },
+          "coords": [
+            -3.769,
+            40.3345
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch den Park, die Skulpturen sind über ein weites Gebiet verteilt.",
+            "hu": "Lassan haladjon át a parkon, a szobrok nagy területen vannak szétszórva.",
+            "ro": "Pedalați încet prin parc, sculpturile sunt răspândite pe o arie largă.",
+            "en": "Cycle slowly through the park; the sculptures are spread over a wide area."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvoranca-Park",
+            "hu": "Polvoranca Park",
+            "ro": "Parcul Polvoranca",
+            "en": "Polvoranca Park"
+          },
+          "coords": [
+            -3.795,
+            40.31
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:01",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der größte Park der Gegend. Perfekt für ein Picknick und eine lange Radtour um den See.",
+            "hu": "A környék legnagyobb parkja. Tökéletes egy piknikhez és egy hosszú kerékpártúrához a tó körül.",
+            "ro": "Cel mai mare parc din zonă. Perfect pentru un picnic și o plimbare lungă cu bicicleta în jurul lacului.",
+            "en": "The largest park in the area. Perfect for a picnic and a long bike ride around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei von San Nicasio",
+            "hu": "San Nicasio Remetelak",
+            "ro": "Schitul San Nicasio",
+            "en": "Hermitage of San Nicasio"
+          },
+          "coords": [
+            -3.7788,
+            40.3215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um nach der langen Fahrt im Park innezuhalten.",
+            "hu": "Csendes hely a parkban tett hosszú út utáni megpihenéshez.",
+            "ro": "Un loc liniștit pentru a face o pauză după lunga plimbare din parc.",
+            "en": "A quiet place to pause after the long ride in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Egaleo",
+            "hu": "Egaleo Színház",
+            "ro": "Teatrul Egaleo",
+            "en": "Egaleo Theatre"
+          },
+          "coords": [
+            -3.7662,
+            40.3255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:59",
+          "stay_min": 20,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses von der griechischen Antike inspirierten Theaters.",
+            "hu": "Csodálja meg ennek az ókori görög színház ihlette épületnek az építészetét.",
+            "ro": "Admirați arhitectura acestui teatru inspirat de Grecia antică.",
+            "en": "Admire the architecture of this theater inspired by ancient Greece."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne der Reales Guardias de Corps",
+            "hu": "A Királyi Testőrség Laktanyája",
+            "ro": "Cazarma Gărzilor Regale",
+            "en": "Barracks of the Royal Guards"
+          },
+          "coords": [
+            -3.7658,
+            40.3299
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses historische Gebäude, das heute universitäres Leben beherbergt.",
+            "hu": "Fejezze be a túrát ennek a történelmi épületnek a megtekintésével, amely ma egyetemi életnek ad otthont.",
+            "ro": "Încheiați-vă turul cu o privire la această clădire istorică, care astăzi găzduiește viața universitară.",
+            "en": "End your tour with a look at this historic building, which now hosts university life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie an der Plaza Mayor. Eine kurze Fahrt führt Sie zu den zentralen Highlights, bevor Sie im Park de los Frailes eine grüne Pause einlegen. Der Vormittag steht im Zeichen der Kunst, während Sie durch das Skulpturenmuseum radeln. Am Nachmittag erwartet Sie die Weite des Polvoranca-Parks für eine ausgedehnte Tour. Auf dem Rückweg entdecken Sie die ruhige Einsiedelei San Nicasio und beenden den Tag mit Eindrücken von Theater und Geschichte im Stadtzentrum.",
+        "hu": "Pattanjon kerékpárra és induljon a Főtérről. Egy rövid tekerés elvezeti a központi látnivalókhoz, mielőtt a Frailes Parkban tartanánk egy zöld pihenőt. A délelőtt a művészet jegyében telik a Szobormúzeumon keresztül. Délután a Polvoranca Park hatalmas területe vár egy hosszabb túrára. Visszafelé felfedezheti a csendes San Nicasio remetelakot, és a napot a városközpontban, színházi és történelmi benyomásokkal zárhatja.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Plaza Mayor. O scurtă plimbare vă duce la atracțiile centrale înainte de o pauză verde în Parcul de los Frailes. Dimineața este dedicată artei, pedalând prin Muzeul de Sculptură. După-amiaza, întinderea Parcului Polvoranca vă așteaptă pentru un tur extins. Pe drumul de întoarcere, descoperiți liniștitul Schit San Nicasio și încheiați ziua cu impresii de teatru și istorie în centrul orașului.",
+        "en": "Get on your bike and start at Plaza Mayor. A short ride takes you to the central highlights before a green break in the Park de los Frailes. The morning is dedicated to art as you cycle through the Sculpture Museum. In the afternoon, the vastness of Polvoranca Park awaits you for an extended tour. On the way back, discover the quiet Hermitage of San Nicasio and end the day with impressions of theatre and history in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Der perfekte, schnelle Treibstoff für Radfahrer."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie ein Restaurant etwas abseits der Hauptrouten für ein preiswertes und authentisches Mittagessen."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "Eine erfrischende, süße Belohnung nach einer langen Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "A tökéletes, gyors üzemanyag kerékpárosoknak."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Keressen egy éttermet kicsit távolabb a fő útvonalaktól egy olcsó és autentikus ebédért."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "Frissítő, édes jutalom egy hosszú kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "Combustibilul perfect și rapid pentru bicicliști."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați un restaurant puțin în afara rutelor principale pentru un prânz autentic și la preț bun."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "O recompensă răcoritoare și dulce după o plimbare lungă cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillo de Calamares",
+            "tip": "The perfect, quick fuel for cyclists."
+          },
+          {
+            "name": "Menú del Día",
+            "tip": "Find a restaurant slightly off the main routes for a great value, authentic lunch."
+          },
+          {
+            "name": "Horchata con Fartons",
+            "tip": "A refreshing, sweet reward after a long bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Sees im Polvoranca-Park",
+            "tip": "Der beste Ort, um dem Stadttrubel zu entkommen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ein stiller Winkel im Park de los Frailes",
+            "tip": "Auch dieser zentralere Park hat ruhige Ecken.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang über den Feldern",
+            "tip": "Suchen Sie am späten Nachmittag einen Punkt am westlichen Rand der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Polvoranca Park tavának partja",
+            "tip": "A legjobb hely a városi nyüzsgés elől való menekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes zug a Frailes Parkban",
+            "tip": "Ennek a központibb parknak is vannak csendes sarkai.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a mezők felett",
+            "tip": "Keressen egy pontot a város nyugati szélén késő délután.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului din Parcul Polvoranca",
+            "tip": "Cel mai bun loc pentru a evada din agitația orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Parcul de los Frailes",
+            "tip": "Chiar și acest parc mai central are colțuri liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare peste câmpuri",
+            "tip": "Căutați un punct la marginea de vest a orașului după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shore of the lake in Polvoranca Park",
+            "tip": "The best place to escape the city bustle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in the Park de los Frailes",
+            "tip": "Even this more central park has its quiet corners.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset over the fields",
+            "tip": "Find a spot on the western edge of the city in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Suchen Sie nach lokalen Geschäften für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Markthalle",
+            "tip": "Füllen Sie Ihre Satteltaschen mit lokalen Snacks für die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Keressen helyi boltokat kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Töltse meg a táskáját helyi harapnivalókkal a túrára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Căutați magazine locale pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Piața acoperită",
+            "tip": "Umpleți-vă gențile cu gustări locale pentru tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop",
+            "tip": "Look for local shops for accessories or quick repairs."
+          },
+          {
+            "name": "Market Hall",
+            "tip": "Fill your panniers with local snacks for the tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Eine Flasche Wasser ist unerlässlich.",
+          "Nutzen Sie die Radwege, wo immer möglich.",
+          "Achten Sie auf Fußgänger in den Parks und im Stadtzentrum."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Egy üveg víz elengedhetetlen.",
+          "Ahol csak lehet, használja a kerékpárutakat.",
+          "Vigyázzon a gyalogosokra a parkokban és a városközpontban."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "O sticlă de apă este esențială.",
+          "Folosiți pistele de biciclete ori de câte ori este posibil.",
+          "Fiți atenți la pietoni în parcuri și în centrul orașului."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "A bottle of water is essential.",
+          "Use bike lanes wherever possible.",
+          "Be mindful of pedestrians in parks and the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Historisches Zentrum",
+            "hu": "A klaszter: Történelmi központ",
+            "ro": "Cluster A: Centrul Istoric",
+            "en": "Cluster A: Historic Center"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem der öffentlichen Parkhäuser nahe der Plaza Mayor für diesen Cluster.",
+            "hu": "Parkoljon a Plaza Mayor közelében található nyilvános parkolóházak egyikében ehhez a klaszterhez.",
+            "ro": "Parcați într-una dintre parcările publice de lângă Plaza Mayor pentru acest cluster.",
+            "en": "Park in one of the public car parks near Plaza Mayor for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Ausgangspunkt Ihres Spaziergangs durch das Zentrum.",
+            "hu": "A központon átvezető sétájának kiindulópontja.",
+            "ro": "Punctul de plecare al plimbării dvs. prin centru.",
+            "en": "The starting point of your walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Salvador",
+            "hu": "San Salvador templom",
+            "ro": "Biserica San Salvador",
+            "en": "Church of San Salvador"
+          },
+          "coords": [
+            -3.764,
+            40.3291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Plaza entfernt, ein architektonisches Juwel.",
+            "hu": "Csak egy rövid sétára a tértől, egy építészeti gyöngyszem.",
+            "ro": "La doar o scurtă plimbare de piață, o bijuterie arhitecturală.",
+            "en": "Just a short walk from the plaza, an architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne der Reales Guardias de Corps",
+            "hu": "A Királyi Testőrség Laktanyája",
+            "ro": "Cazarma Gărzilor Regale",
+            "en": "Barracks of the Royal Guards"
+          },
+          "coords": [
+            -3.7658,
+            40.3299
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade auf dem Weg zurück zum Auto.",
+            "hu": "Csodálja meg a homlokzatot a visszaúton az autóhoz.",
+            "ro": "Admirați fațada pe drumul de întoarcere la mașină.",
+            "en": "Admire the facade on your way back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kunst & Natur",
+            "hu": "B klaszter: Művészet és természet",
+            "ro": "Cluster B: Artă și Natură",
+            "en": "Cluster B: Art & Nature"
+          },
+          "coords": [
+            -3.795,
+            40.31
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Polvoranca-Park. Hier gibt es ausreichend Parkplätze.",
+            "hu": "Vezessen a Polvoranca Parkhoz. Itt bőséges parkolóhely található.",
+            "ro": "Conduceți spre Parcul Polvoranca. Există suficiente locuri de parcare aici.",
+            "en": "Drive to Polvoranca Park. There is ample parking here."
+          }
+        },
+        {
+          "name": {
+            "de": "Polvoranca-Park",
+            "hu": "Polvoranca Park",
+            "ro": "Parcul Polvoranca",
+            "en": "Polvoranca Park"
+          },
+          "coords": [
+            -3.795,
+            40.31
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:27",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen langen Spaziergang, ein Picknick und die botanischen Gärten.",
+            "hu": "Szánjon időt egy hosszú sétára, piknikre és a botanikus kertekre.",
+            "ro": "Luați-vă timp pentru o plimbare lungă, un picnic și grădinile botanice.",
+            "en": "Take your time for a long walk, a picnic, and the botanical gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kultur & Skulptur",
+            "hu": "C klaszter: Kultúra és szobrászat",
+            "ro": "Cluster C: Cultură și Sculptură",
+            "en": "Cluster C: Culture & Sculpture"
+          },
+          "coords": [
+            -3.769,
+            40.3345
+          ],
+          "category": "museums",
+          "arrive_at": "15:07",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Skulpturenmuseums. Von hier aus können Sie das Theater zu Fuß erreichen.",
+            "hu": "Parkoljon a Szobormúzeum közelében. Innen gyalogosan is elérheti a színházat.",
+            "ro": "Parcați lângă Muzeul de Sculptură. De aici puteți ajunge la teatru pe jos.",
+            "en": "Park near the Sculpture Museum. From here you can walk to the theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einem Spaziergang durch das historische Herz von Leganés, nachdem Sie bequem in der Nähe der Plaza Mayor geparkt haben. Der Vormittag führt Sie dann in die Weite des Polvoranca-Parks, einer grünen Lunge, die perfekt für eine ausgedehnte Mittagspause ist. Am Nachmittag fahren Sie zum Kultur-Cluster, wo Sie zwischen den beeindruckenden Installationen des Skulpturenmuseums wandeln und den Tag mit einem Gefühl für die moderne Seele der Stadt ausklingen lassen.",
+        "hu": "Autós napja egy sétával kezdődik Leganés történelmi szívében, miután kényelmesen leparkolt a Plaza Mayor közelében. A délelőtt a Polvoranca Park hatalmas területére vezet, egy zöld tüdőbe, amely tökéletes egy hosszabb ebédszünethez. Délután a kulturális klaszterhez hajt, ahol a Szobormúzeum lenyűgöző installációi között sétálhat, és a város modern lelkét megérezve zárhatja a napot.",
+        "ro": "Ziua dvs. cu mașina începe cu o plimbare prin inima istorică a orașului Leganés, după ce ați parcat convenabil lângă Plaza Mayor. Dimineața vă duce apoi în întinderea Parcului Polvoranca, un plămân verde perfect pentru o pauză de prânz prelungită. După-amiaza, conduceți spre clusterul cultural, unde vă plimbați printre instalațiile impresionante ale Muzeului de Sculptură și încheiați ziua cu un sentiment al sufletului modern al orașului.",
+        "en": "Your car day begins with a walk through the historic heart of Leganés after parking conveniently near Plaza Mayor. The morning then takes you to the vastness of Polvoranca Park, a green lung perfect for an extended lunch break. In the afternoon, you'll drive to the cultural cluster, where you can wander among the impressive installations of the Sculpture Museum and end the day with a sense of the city's modern soul."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Polvoranca-Park",
+            "tip": "Einige Parks haben Restaurants mit schöner Aussicht."
+          },
+          {
+            "name": "Asador",
+            "tip": "Suchen Sie nach einem Grillrestaurant für exzellentes spanisches Fleisch."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Ein süßer Stopp für Churros con Chocolate am späten Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Polvoranca Parkban",
+            "tip": "Néhány parkban szép kilátással rendelkező éttermek találhatók."
+          },
+          {
+            "name": "Asador",
+            "tip": "Keressen egy grilléttermet a kiváló spanyol húsokért."
+          },
+          {
+            "name": "Churrería",
+            "tip": "Édes megálló egy churros con chocolate-ra késő délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Parcul Polvoranca",
+            "tip": "Unele parcuri au restaurante cu priveliști frumoase."
+          },
+          {
+            "name": "Asador",
+            "tip": "Căutați un restaurant cu grătar pentru carne spaniolă excelentă."
+          },
+          {
+            "name": "Churrería",
+            "tip": "O oprire dulce pentru churros con chocolate după-amiaza târziu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant in Polvoranca Park",
+            "tip": "Some parks have restaurants with beautiful views."
+          },
+          {
+            "name": "Asador",
+            "tip": "Look for a grill restaurant for excellent Spanish meat."
+          },
+          {
+            "name": "Churrería",
+            "tip": "A sweet stop for churros con chocolate in the late afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten im Polvoranca-Park",
+            "tip": "Ein abgeschiedener und lehrreicher Teil des Parks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche San Salvador am Vormittag",
+            "tip": "Vor den Menschenmassen ist es ein Ort der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ein Spaziergang am Rande des Skulpturenmuseums",
+            "tip": "Die äußeren Bereiche sind oft sehr ruhig.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Polvoranca Park botanikus kertje",
+            "tip": "A park egy eldugott és tanulságos része.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Salvador templom délelőtt",
+            "tip": "A tömeg előtt a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a Szobormúzeum szélén",
+            "tip": "A külső területek gyakran nagyon csendesek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică din Parcul Polvoranca",
+            "tip": "O parte retrasă și educativă a parcului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica San Salvador dimineața",
+            "tip": "Înainte de mulțime, este un loc de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O plimbare la marginea Muzeului de Sculptură",
+            "tip": "Zonele exterioare sunt adesea foarte liniștite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden in Polvoranca Park",
+            "tip": "A secluded and educational part of the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of San Salvador in the morning",
+            "tip": "Before the crowds, it's a place of silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A walk on the edge of the Sculpture Museum",
+            "tip": "The outer areas are often very quiet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum",
+            "tip": "Leganés hat mehrere große Einkaufszentren am Stadtrand, die mit dem Auto leicht zu erreichen sind."
+          },
+          {
+            "name": "Keramik und Handwerk",
+            "tip": "Suchen Sie in den kleineren Geschäften im Zentrum nach handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bevásárlóközpont",
+            "tip": "Leganésnek több nagy bevásárlóközpontja van a város szélén, amelyek autóval könnyen elérhetők."
+          },
+          {
+            "name": "Kerámia és kézműves termékek",
+            "tip": "Keressen kézzel készített ajándéktárgyakat a központ kisebb üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centru comercial",
+            "tip": "Leganés are mai multe centre comerciale mari la periferia orașului, ușor accesibile cu mașina."
+          },
+          {
+            "name": "Ceramică și artizanat",
+            "tip": "Căutați suveniruri lucrate manual în magazinele mai mici din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Mall",
+            "tip": "Leganés has several large shopping malls on the outskirts of the city, easily accessible by car."
+          },
+          {
+            "name": "Ceramics and Crafts",
+            "tip": "Look for handmade souvenirs in the smaller shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Staus zu vermeiden.",
+          "Prüfen Sie die Parkgebühren, bevor Sie in ein Parkhaus fahren.",
+          "Halten Sie Kleingeld für Parkuhren bereit.",
+          "Planen Sie zusätzliche Zeit für die Parkplatzsuche in den beliebten Gegenden ein."
+        ],
+        "hu": [
+          "Használjon navigációs alkalmazást a forgalmi dugók elkerülése érdekében.",
+          "Ellenőrizze a parkolási díjakat, mielőtt behajt egy parkolóházba.",
+          "Tartson aprópénzt a parkolóórákhoz.",
+          "Tervezzen plusz időt a parkolóhely keresésére a népszerű területeken."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a evita blocajele în trafic.",
+          "Verificați taxele de parcare înainte de a intra într-o parcare.",
+          "Păstrați monede pentru automatele de parcare.",
+          "Planificați timp suplimentar pentru a găsi un loc de parcare în zonele populare."
+        ],
+        "en": [
+          "Use a navigation app to avoid traffic jams.",
+          "Check parking fees before entering a car park.",
+          "Keep coins handy for parking meters.",
+          "Plan extra time for finding parking in popular areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 9.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Zentral-Leganés",
+            "hu": "A klaszter: Leganés központ",
+            "ro": "Cluster A: Centrul Leganés",
+            "en": "Cluster A: Central Leganés"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Cercanías-Bahn oder Metro bis zur Station Leganés Central.",
+            "hu": "Utazzon a Cercanías vonattal vagy metróval a Leganés Central állomásig.",
+            "ro": "Luați trenul Cercanías sau metroul până la stația Leganés Central.",
+            "en": "Take the Cercanías train or Metro to Leganés Central station."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér",
+            "ro": "Plaza Mayor",
+            "en": "Main Square"
+          },
+          "coords": [
+            -3.7645,
+            40.328
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Station, um Ihren Tag zu beginnen.",
+            "hu": "Egy rövid séta az állomástól a nap megkezdéséhez.",
+            "ro": "O scurtă plimbare de la stație pentru a vă începe ziua.",
+            "en": "A short walk from the station to start your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Salvador",
+            "hu": "San Salvador templom",
+            "ro": "Biserica San Salvador",
+            "en": "Church of San Salvador"
+          },
+          "coords": [
+            -3.764,
+            40.3291
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das historische Zentrum lässt sich am besten zu Fuß erkunden.",
+            "hu": "A történelmi központot a legjobb gyalog felfedezni.",
+            "ro": "Centrul istoric este cel mai bine explorat pe jos.",
+            "en": "The historic center is best explored on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kulturbezirk",
+            "hu": "B klaszter: Kulturális negyed",
+            "ro": "Cluster B: Districtul Cultural",
+            "en": "Cluster B: Cultural District"
+          },
+          "coords": [
+            -3.769,
+            40.3345
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus in Richtung des Universitätsgeländes.",
+            "hu": "Vegyen egy helyi buszt az egyetemi kampusz irányába.",
+            "ro": "Luați un autobuz local spre campusul universitar.",
+            "en": "Take a local bus towards the university campus area."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenmuseum von Leganés",
+            "hu": "Leganési Szobormúzeum",
+            "ro": "Muzeul de Sculptură din Leganés",
+            "en": "Sculpture Museum of Leganés"
+          },
+          "coords": [
+            -3.769,
+            40.3345
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Kunst im Freien.",
+            "hu": "Élvezze a szabadtéri művészetet.",
+            "ro": "Bucurați-vă de arta în aer liber.",
+            "en": "Enjoy the art in the open air."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Egaleo",
+            "hu": "Egaleo Színház",
+            "ro": "Teatrul Egaleo",
+            "en": "Egaleo Theatre"
+          },
+          "coords": [
+            -3.7662,
+            40.3255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum, um die einzigartige Architektur zu sehen.",
+            "hu": "Egy rövid séta a múzeumtól, hogy megnézze az egyedi építészetet.",
+            "ro": "O scurtă plimbare de la muzeu pentru a vedea arhitectura unică.",
+            "en": "A short walk from the museum to see the unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Grüne Lunge",
+            "hu": "C klaszter: Zöld tüdő",
+            "ro": "Clusterul C: Plămânul Verde",
+            "en": "Cluster C: Green Lung"
+          },
+          "coords": [
+            -3.795,
+            40.31
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:38",
+          "stay_min": 240,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Eine Busfahrt bringt Sie zum weitläufigen Polvoranca-Park für den Nachmittag.",
+            "hu": "Egy buszozás elviszi a tágas Polvoranca Parkba délutánra.",
+            "ro": "O călătorie cu autobuzul vă duce la vastul Parc Polvoranca pentru după-amiază.",
+            "en": "A bus ride will take you to the expansive Polvoranca Park for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln startet im Herzen von Leganés, leicht erreichbar mit der Bahn. Nach einem Spaziergang durch den historischen Kern bringt Sie ein Bus zum Kultur-Cluster, wo das Skulpturenmuseum auf Sie wartet. Erkunden Sie diesen Bereich zu Fuß, bevor Sie am Nachmittag mit dem Bus in die grüne Oase des Polvoranca-Parks fahren. Dort können Sie entspannen, spazieren gehen und die Natur genießen, bevor Sie die Rückreise antreten.",
+        "hu": "Tömegközlekedéssel töltött napja Leganés szívében kezdődik, amely vonattal könnyen megközelíthető. A történelmi központban tett séta után egy busz viszi a kulturális negyedbe, ahol a Szobormúzeum várja. Fedezze fel ezt a területet gyalog, mielőtt délután busszal a Polvoranca Park zöld oázisába utazik. Ott pihenhet, sétálhat és élvezheti a természetet, mielőtt visszaindulna.",
+        "ro": "Ziua dvs. cu transportul public începe în inima orașului Leganés, ușor accesibil cu trenul. După o plimbare prin centrul istoric, un autobuz vă duce la clusterul cultural, unde vă așteaptă Muzeul de Sculptură. Explorați această zonă pe jos înainte de a lua autobuzul spre oaza verde a Parcului Polvoranca după-amiaza. Acolo vă puteți relaxa, plimba și bucura de natură înainte de a vă întoarce.",
+        "en": "Your day using public transport starts in the heart of Leganés, easily reached by train. After a walk through the historic core, a bus takes you to the cultural cluster, where the Sculpture Museum awaits. Explore this area on foot before taking a bus to the green oasis of Polvoranca Park in the afternoon. There you can relax, walk, and enjoy nature before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in der Nähe einer Station",
+            "tip": "Perfekt für ein schnelles Frühstück vor der ersten Besichtigung."
+          },
+          {
+            "name": "Bar mit 'Menú del Día'",
+            "tip": "Eine großartige Möglichkeit, die lokale Küche zu einem vernünftigen Preis zu probieren."
+          },
+          {
+            "name": "Supermarkt für ein Picknick",
+            "tip": "Kaufen Sie im Supermarkt ein, bevor Sie in den Polvoranca-Park fahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség egy állomás közelében",
+            "tip": "Tökéletes egy gyors reggelihez az első látnivaló előtt."
+          },
+          {
+            "name": "Bár 'Menú del Día'-val",
+            "tip": "Remek lehetőség a helyi konyha megkóstolására elfogadható áron."
+          },
+          {
+            "name": "Szupermarket egy piknikhez",
+            "tip": "Vásároljon be a szupermarketben, mielőtt a Polvoranca Parkba menne."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie lângă o stație",
+            "tip": "Perfect pentru un mic dejun rapid înainte de prima vizită."
+          },
+          {
+            "name": "Bar cu 'Menú del Día'",
+            "tip": "O modalitate excelentă de a încerca bucătăria locală la un preț rezonabil."
+          },
+          {
+            "name": "Supermarket pentru un picnic",
+            "tip": "Faceți cumpărături la supermarket înainte de a merge în Parcul Polvoranca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery near a station",
+            "tip": "Perfect for a quick breakfast before the first sight."
+          },
+          {
+            "name": "Bar with 'Menú del Día'",
+            "tip": "A great way to try local cuisine at a reasonable price."
+          },
+          {
+            "name": "Supermarket for a picnic",
+            "tip": "Stock up at a supermarket before heading to Polvoranca Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine ruhige Ecke im Polvoranca-Park",
+            "tip": "Der Park ist groß genug, um immer einen friedlichen Ort zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen auf der Plaza Mayor",
+            "tip": "Erleben Sie den Platz, bevor die Hektik beginnt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Die hinteren Wege des Skulpturenmuseums",
+            "tip": "Weniger besuchte Pfade bieten Ruhe und Kunstgenuss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes zug a Polvoranca Parkban",
+            "tip": "A park elég nagy ahhoz, hogy mindig találjon egy békés helyet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a Főtéren",
+            "tip": "Tapasztalja meg a teret, mielőtt a nyüzsgés elkezdődik.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Szobormúzeum hátsó ösvényei",
+            "tip": "A kevésbé látogatott ösvények nyugalmat és művészeti élményt kínálnak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Parcul Polvoranca",
+            "tip": "Parcul este suficient de mare pentru a găsi întotdeauna un loc pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în Plaza Mayor",
+            "tip": "Experimentați piața înainte de începerea agitației.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Căile din spatele Muzeului de Sculptură",
+            "tip": "Cărările mai puțin frecventate oferă liniște și plăcere artistică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Polvoranca Park",
+            "tip": "The park is large enough to always find a peaceful spot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the Plaza Mayor",
+            "tip": "Experience the square before the hustle and bustle begins.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The back paths of the Sculpture Museum",
+            "tip": "Less-trodden paths offer tranquility and art appreciation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte um die Plaza Mayor",
+            "tip": "Klassische Souvenirs und lokale Produkte."
+          },
+          {
+            "name": "Kiosk an der Metrostation",
+            "tip": "Für eine Flasche Wasser oder einen schnellen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek a Plaza Mayor körül",
+            "tip": "Klasszikus ajándéktárgyak és helyi termékek."
+          },
+          {
+            "name": "Kioszk a metróállomáson",
+            "tip": "Egy üveg vízért vagy egy gyors harapnivalóért útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în jurul Plaza Mayor",
+            "tip": "Suveniruri clasice și produse locale."
+          },
+          {
+            "name": "Chioșc la stația de metrou",
+            "tip": "Pentru o sticlă de apă sau o gustare rapidă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops around Plaza Mayor",
+            "tip": "Classic souvenirs and local products."
+          },
+          {
+            "name": "Kiosk at the metro station",
+            "tip": "For a bottle of water or a quick snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tages- oder Mehrfahrtenkarte, um Geld zu sparen.",
+          "Prüfen Sie die Fahrpläne der Busse im Voraus, besonders für die Rückfahrt vom Park.",
+          "Achten Sie auf Ihre Wertsachen an belebten Stationen.",
+          "Haben Sie die Google Maps App bereit, um Buslinien in Echtzeit zu verfolgen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet vagy több utazásra szóló jegyet a spórolás érdekében.",
+          "Ellenőrizze előre a buszmenetrendeket, különösen a parkból való visszautazáshoz.",
+          "Vigyázzon az értékeire a forgalmas állomásokon.",
+          "Legyen készenlétben a Google Maps alkalmazás a buszjáratok valós idejű követéséhez."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi sau cu mai multe călătorii pentru a economisi bani.",
+          "Verificați în avans orarele autobuzelor, în special pentru întoarcerea din parc.",
+          "Aveți grijă de obiectele de valoare în stațiile aglomerate.",
+          "Aveți la îndemână aplicația Google Maps pentru a urmări rutele de autobuz în timp real."
+        ],
+        "en": [
+          "Buy a day pass or a multi-trip ticket to save money.",
+          "Check bus schedules in advance, especially for the return trip from the park.",
+          "Be aware of your belongings at busy stations.",
+          "Have the Google Maps app ready to track bus routes in real time."
+        ]
+      }
+    }
+  }
+}

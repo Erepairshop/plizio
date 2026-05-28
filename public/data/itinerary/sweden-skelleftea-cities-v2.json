@@ -1,0 +1,1539 @@
+{
+  "city_id": "sweden-skelleftea-cities-v2",
+  "anchor": {
+    "name": "Skellefteå",
+    "coords": [
+      64.7507,
+      20.9528
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            20.9545,
+            64.7501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang entlang des Flusses Skellefteälven.",
+            "hu": "Kezdje a napot egy békés sétával a Skellefteälven folyó partján.",
+            "ro": "Începeți ziua cu o plimbare liniștită de-a lungul râului Skellefteälven.",
+            "en": "Start your day with a peaceful stroll along the Skellefteälven river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sara Kulturhus",
+            "hu": "Sara Kulturhus",
+            "ro": "Centrul Cultural Sara",
+            "en": "Sara Kulturhus"
+          },
+          "coords": [
+            20.952,
+            64.7515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die innovative Holzarchitektur und prüfen Sie, ob eine Ausstellung läuft.",
+            "hu": "Csodálja meg az innovatív faépítészetet, és nézze meg, van-e aktuális kiállítás.",
+            "ro": "Admirați arhitectura inovatoare din lemn și verificați dacă există vreo expoziție.",
+            "en": "Admire the innovative wooden architecture and check if there's an exhibition on."
+          }
+        },
+        {
+          "name": {
+            "de": "Skellefteå Museum",
+            "hu": "Skellefteå Múzeum",
+            "ro": "Muzeul Skellefteå",
+            "en": "Skellefteå Museum"
+          },
+          "coords": [
+            20.9455,
+            64.7492
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Kulturgeschichte, von der Steinzeit bis heute.",
+            "hu": "Merüljön el a helyi kultúrtörténetben a kőkorszaktól napjainkig.",
+            "ro": "Pătrundeți în istoria culturală locală, din Epoca de Piatră până în prezent.",
+            "en": "Immerse yourself in the local cultural history, from the Stone Age to the present."
+          }
+        },
+        {
+          "name": {
+            "de": "Landskyrkan",
+            "hu": "Landskyrkan (Videlki templom)",
+            "ro": "Biserica Landskyrkan",
+            "en": "Landskyrkan (Country Church)"
+          },
+          "coords": [
+            20.939,
+            64.7488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine der größten und ältesten Landkirchen Schwedens. Beachten Sie die mittelalterlichen Elemente.",
+            "hu": "Svédország egyik legnagyobb és legrégebbi vidéki temploma. Figyelje meg a középkori elemeket.",
+            "ro": "Una dintre cele mai mari și mai vechi biserici rurale din Suedia. Observați elementele medievale.",
+            "en": "One of Sweden's largest and oldest country churches. Note the medieval elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonnstan",
+            "hu": "Bonnstan (Templomváros)",
+            "ro": "Bonnstan (Orașul Bisericesc)",
+            "en": "Bonnstan (Church Town)"
+          },
+          "coords": [
+            20.937,
+            64.7495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die einzigartigen Kirchenhütten, die für weit hergereiste Kirchgänger gebaut wurden.",
+            "hu": "Sétáljon a messziről érkező templomba járók számára épült egyedi templomi kunyhók között.",
+            "ro": "Plimbați-vă printre căsuțele bisericești unice, construite pentru enoriașii care veneau de departe.",
+            "en": "Stroll through the unique church cottages built for churchgoers from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Lejonströmsbron",
+            "hu": "Lejonströmsbron híd",
+            "ro": "Podul Lejonströmsbron",
+            "en": "Lejonströmsbron Bridge"
+          },
+          "coords": [
+            20.9355,
+            64.7472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Überqueren Sie Schwedens älteste Holzbrücke und genießen Sie die Aussicht auf den Fluss.",
+            "hu": "Menjen át Svédország legrégebbi fahídján, és élvezze a folyóra nyíló kilátást.",
+            "ro": "Traversați cel mai vechi pod de lemn din Suedia și bucurați-vă de priveliștea asupra râului.",
+            "en": "Cross Sweden's oldest wooden bridge and enjoy the view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryggargården",
+            "hu": "Bryggargården",
+            "ro": "Bryggargården",
+            "en": "Bryggargården"
+          },
+          "coords": [
+            20.955,
+            64.748
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 54,
+          "hop_from_prev_km": 2.75,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag im Café dieses historischen Brauereihofs, ein perfekter Ort zum Entspannen.",
+            "hu": "Zárja a napot ennek a történelmi sörfőző udvarnak a kávézójában, amely tökéletes hely a pihenésre.",
+            "ro": "Încheiați ziua la cafeneaua din această curte istorică a unei fabrici de bere, un loc perfect pentru relaxare.",
+            "en": "End your day at the café in this historic brewery yard, a perfect spot to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Grünen im Stadsparken, bevor Sie die moderne Architektur des Sara Kulturhus bestaunen. Am Vormittag tauchen Sie im Skellefteå Museum in die reiche Geschichte der Region ein. Nach dem Mittagessen führt Sie ein Spaziergang in die Vergangenheit zur historischen Landskyrkan und dem einzigartigen Kirchdorf Bonnstan. Überqueren Sie am Nachmittag die alte Holzbrücke Lejonströmsbron. Beenden Sie Ihren Erkundungstag im charmanten Bryggargården bei einem Kaffee und lassen Sie die Eindrücke des Tages auf sich wirken.",
+        "hu": "Kezdje a napot a zöldben, a Stadsparkenben, mielőtt megcsodálná a Sara Kulturhus modern építészetét. Délelőtt merüljön el a régió gazdag történelmében a Skellefteå Múzeumban. Ebéd után egy séta visszaviszi a múltba a történelmi Landskyrkanhoz és az egyedülálló Bonnstan templomvároshoz. Délután keljen át a régi Lejonströmsbron fahídon. A felfedezéssel töltött napot a bájos Bryggargårdenben zárja egy kávé mellett, átgondolva a nap élményeit.",
+        "ro": "Începeți-vă ziua în verdeață la Stadsparken înainte de a admira arhitectura modernă a Centrului Cultural Sara. Dimineața, pătrundeți în istoria bogată a regiunii la Muzeul Skellefteå. După prânz, o plimbare vă va purta înapoi în timp la istorica Biserică Landskyrkan și la unicul oraș bisericesc Bonnstan. După-amiaza, traversați vechiul pod de lemn Lejonströmsbron. Încheiați-vă ziua de explorare la fermecătorul Bryggargården cu o cafea, reflectând asupra impresiilor zilei.",
+        "en": "Start your day amidst greenery at Stadsparken before admiring the modern architecture of Sara Kulturhus. In the morning, delve into the region's rich history at Skellefteå Museum. After lunch, a walk will take you back in time to the historic Landskyrkan and the unique church town of Bonnstan. In the afternoon, cross the old wooden Lejonströmsbron bridge. Conclude your day of exploration at the charming Bryggargården with a coffee, reflecting on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Västerbottensostpaj",
+            "tip": "Probieren Sie diese herzhafte Käsetorte, eine lokale Spezialität aus dem nahegelegenen Västerbotten."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Genießen Sie authentische schwedische Fleischbällchen, serviert mit Preiselbeeren und Kartoffelpüree."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Frischer, geheilter Lachs ist ein Muss in dieser Region am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Västerbottensostpaj",
+            "tip": "Kóstolja meg ezt a sós sajttortát, a közeli Västerbotten helyi specialitását."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Élvezze az autentikus svéd húsgolyókat vörösáfonyával és krumplipürével."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "A friss, pácolt lazac kötelező ebben a folyó menti régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Västerbottensostpaj",
+            "tip": "Încercați această plăcintă sărată cu brânză, o specialitate locală din apropiatul Västerbotten."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Savurați chiftele suedeze autentice, servite cu merișoare și piure de cartofi."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Somonul proaspăt, maturat, este o necesitate în această regiune fluvială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Västerbottensostpaj",
+            "tip": "Try this savory cheese pie, a local specialty from nearby Västerbotten."
+          },
+          {
+            "name": "Köttbullar",
+            "tip": "Enjoy authentic Swedish meatballs served with lingonberries and mashed potatoes."
+          },
+          {
+            "name": "Gravad Lax",
+            "tip": "Fresh, cured salmon is a must-try in this riverside region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Skellefteälven",
+            "tip": "Finden Sie eine ruhige Bank im Stadsparken und beobachten Sie das fließende Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchhof von Landskyrkan",
+            "tip": "Ein friedlicher Ort, um die Stille und die historische Atmosphäre zu genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Blick von Lejonströmsbron",
+            "tip": "Ein ruhiger Moment über dem Wasser, besonders schön am späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Skellefteälven folyó partja",
+            "tip": "Keressen egy csendes padot a Városi parkban, és nézze a folyó vizét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Landskyrkan templomkertje",
+            "tip": "Békés hely a csend és a történelmi hangulat élvezetére.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kilátás a Lejonströmsbron hídról",
+            "tip": "Egy csendes pillanat a víz felett, különösen szép késő délután.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Skellefteälven",
+            "tip": "Găsiți o bancă liniștită în Parcul Orașului și priviți apa curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea bisericii Landskyrkan",
+            "tip": "Un loc pașnic pentru a te bucura de liniște și de atmosfera istorică.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vedere de pe podul Lejonströmsbron",
+            "tip": "Un moment liniștit deasupra apei, deosebit de frumos după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Skellefteälven Riverbank",
+            "tip": "Find a quiet bench in Stadsparken and watch the water flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Landskyrkan Churchyard",
+            "tip": "A peaceful spot to enjoy the silence and the historic atmosphere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "View from Lejonströmsbron",
+            "tip": "A quiet moment above the water, especially beautiful in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach Geschäften in der Innenstadt, die samisches Kunsthandwerk und lokale Designs verkaufen."
+          },
+          {
+            "name": "Västerbotten-Käse",
+            "tip": "Kaufen Sie ein Stück des berühmten Käses als köstliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen a belvárosban olyan üzleteket, amelyek számi kézműves termékeket és helyi dizájnt árulnak."
+          },
+          {
+            "name": "Västerbotten sajt",
+            "tip": "Vásároljon egy darabot a híres sajtból finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați magazine în centrul orașului care vând obiecte de artizanat Sami și design local."
+          },
+          {
+            "name": "Brânză Västerbotten",
+            "tip": "Cumpărați o bucată din faimoasa brânză ca un suvenir delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for shops downtown selling Sami handicrafts and local designs."
+          },
+          {
+            "name": "Västerbotten Cheese",
+            "tip": "Buy a piece of the famous cheese as a delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel zu Fuß unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten des Museums und der Kirchen im Voraus.",
+          "Viele Cafés bieten 'Fika' an, eine traditionelle schwedische Kaffeepause mit Gebäck.",
+          "Die Wege entlang des Flusses sind gut gepflegt und ideal für einen Spaziergang."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
+          "Ellenőrizze előre a múzeum és a templomok nyitvatartási idejét.",
+          "Sok kávézó kínál 'Fikát', egy hagyományos svéd kávészünetet süteménnyel.",
+          "A folyó menti utak jól karbantartottak és ideálisak egy sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați în avans orele de deschidere ale muzeului și bisericilor.",
+          "Multe cafenele oferă 'Fika', o pauză de cafea tradițională suedeză cu produse de patiserie.",
+          "Căile de-a lungul râului sunt bine întreținute și ideale pentru o plimbare."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Check the opening hours for the museum and churches in advance.",
+          "Many cafes offer 'Fika', a traditional Swedish coffee break with pastries.",
+          "The paths along the river are well-maintained and perfect for a walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sara Kulturhus",
+            "hu": "Sara Kulturhus",
+            "ro": "Centrul Cultural Sara",
+            "en": "Sara Kulturhus"
+          },
+          "coords": [
+            20.952,
+            64.7515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am modernen Herzen der Stadt. Ein idealer Treffpunkt.",
+            "hu": "Induljon a város modern szívéből. Ideális találkozóhely.",
+            "ro": "Începeți din inima modernă a orașului. Un punct de întâlnire ideal.",
+            "en": "Start at the modern heart of the city. An ideal meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken (Városi park)",
+            "ro": "Stadsparken (Parcul Orașului)",
+            "en": "Stadsparken (City Park)"
+          },
+          "coords": [
+            20.9545,
+            64.7501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den Park und genießen Sie die frische Luft am Fluss.",
+            "hu": "Biciklizzen át a parkon, és élvezze a friss levegőt a folyóparton.",
+            "ro": "Plimbați-vă cu bicicleta prin parc și bucurați-vă de aerul proaspăt de lângă râu.",
+            "en": "Cycle through the park and enjoy the fresh air by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Skellefteå Museum",
+            "hu": "Skellefteå Múzeum",
+            "ro": "Muzeul Skellefteå",
+            "en": "Skellefteå Museum"
+          },
+          "coords": [
+            20.9455,
+            64.7492
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit für die faszinierenden Ausstellungen.",
+            "hu": "Parkolja le a kerékpárt, és szánjon időt a lenyűgöző kiállításokra.",
+            "ro": "Parcați-vă bicicleta și acordați-vă timp pentru expozițiile fascinante.",
+            "en": "Park your bike and take your time for the fascinating exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Landskyrkan",
+            "hu": "Landskyrkan (Vidéki templom)",
+            "ro": "Biserica Landskyrkan",
+            "en": "Landskyrkan (Country Church)"
+          },
+          "coords": [
+            20.939,
+            64.7488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine kurze Radtour bringt Sie zu diesem beeindruckenden historischen Gebäude.",
+            "hu": "Egy rövid kerékpártúra elviszi ehhez a lenyűgöző történelmi épülethez.",
+            "ro": "O scurtă plimbare cu bicicleta vă duce la această clădire istorică impresionantă.",
+            "en": "A short bike ride takes you to this impressive historical building."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonnstan",
+            "hu": "Bonnstan (Templomváros)",
+            "ro": "Bonnstan (Orașul Bisericesc)",
+            "en": "Bonnstan (Church Town)"
+          },
+          "coords": [
+            20.937,
+            64.7495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die engen Gassen dieses einzigartigen historischen Ortes.",
+            "hu": "Tolja a kerékpárját ennek az egyedülálló történelmi helynek a szűk sikátorain.",
+            "ro": "Împingeți-vă bicicleta pe aleile înguste ale acestui loc istoric unic.",
+            "en": "Walk your bike through the narrow alleys of this unique historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Lejonströmsbron",
+            "hu": "Lejonströmsbron híd",
+            "ro": "Podul Lejonströmsbron",
+            "en": "Lejonströmsbron Bridge"
+          },
+          "coords": [
+            20.9355,
+            64.7472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:41",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine Fahrt über die Brücke ist ein Muss. Seien Sie vorsichtig mit Fußgängern.",
+            "hu": "A hídon való átkelés kötelező. Legyen óvatos a gyalogosokkal.",
+            "ro": "O traversare a podului este obligatorie. Aveți grijă la pietoni.",
+            "en": "A ride across the bridge is a must. Be careful with pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Vitberget",
+            "hu": "Vitberget",
+            "ro": "Vitberget",
+            "en": "Vitberget"
+          },
+          "coords": [
+            20.995,
+            64.765
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Die Radtour hierher ist eine gute Übung und die Aussicht vom Gipfel ist die Belohnung.",
+            "hu": "A biciklizés ide jó edzés, a jutalom pedig a kilátás a csúcsról.",
+            "ro": "Plimbarea cu bicicleta până aici este un exercițiu bun, iar priveliștea din vârf este recompensa.",
+            "en": "The bike ride up here is good exercise and the view from the top is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryggargården",
+            "hu": "Bryggargården",
+            "ro": "Bryggargården",
+            "en": "Bryggargården"
+          },
+          "coords": [
+            20.955,
+            64.748
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um sich nach einem langen Radtag mit einem Kaffee oder Bier zu erholen.",
+            "hu": "Tökéletes hely a pihenésre egy kávéval vagy sörrel egy hosszú biciklizés után.",
+            "ro": "Locul perfect pentru a vă reface cu o cafea sau o bere după o zi lungă de ciclism.",
+            "en": "The perfect spot to recover with a coffee or beer after a long day of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am modernen Sara Kulturhus und radeln Sie dann gemütlich durch den Stadsparken. Vormittags erkunden Sie das Skellefteå Museum, gefolgt von den historischen Stätten Landskyrkan und Bonnstan. Überqueren Sie zu Mittag die ikonische Lejonströmsbron. Am Nachmittag wartet eine sportliche Herausforderung: die Fahrt zum Vitberget, wo Sie eine atemberaubende Aussicht erwartet. Kehren Sie ins Stadtzentrum zurück und beenden Sie Ihren aktiven Tag im entspannten Ambiente des Bryggargården.",
+        "hu": "Kezdje a kerékpártúrát a modern Sara Kulturhusnál, majd tekerjen kényelmesen a Stadsparkenen keresztül. Délelőtt fedezze fel a Skellefteå Múzeumot, majd a történelmi Landskyrkan és Bonnstan helyszíneit. Délben keljen át az ikonikus Lejonströmsbron hídon. Délután sportos kihívás vár: a túra a Vitbergetre, ahol lélegzetelállító kilátás fogadja. Térjen vissza a városközpontba, és zárja az aktív napot a Bryggargården pihentető hangulatában.",
+        "ro": "Începeți turul cu bicicleta la modernul Centru Cultural Sara, apoi pedalați agale prin Stadsparken. Dimineața, explorați Muzeul Skellefteå, urmat de siturile istorice Landskyrkan și Bonnstan. La prânz, traversați emblematicul pod Lejonströmsbron. După-amiaza, vă așteaptă o provocare sportivă: urcarea pe Vitberget, unde vă așteaptă o priveliște uluitoare. Întoarceți-vă în centrul orașului și încheiați-vă ziua activă în ambianța relaxată de la Bryggargården.",
+        "en": "Start your bike tour at the modern Sara Kulturhus, then enjoy a leisurely ride through Stadsparken. In the morning, explore the Skellefteå Museum, followed by the historic sites of Landskyrkan and Bonnstan. At noon, cross the iconic Lejonströmsbron bridge. The afternoon brings a sporting challenge: the ride up to Vitberget for a breathtaking view. Return to the city center and end your active day in the relaxing atmosphere of Bryggargården."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pitepalt",
+            "tip": "Ein herzhafter Kartoffelkloß, gefüllt mit Schweinefleisch. Perfekt für hungrige Radfahrer."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Ein offenes Sandwich mit Garnelen, eine leichte und erfrischende Mahlzeit."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Probieren Sie ein Bier von einer der lokalen Brauereien, z.B. im Bryggargården."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pitepalt",
+            "tip": "Kiadós, sertéshússal töltött burgonyagombóc. Tökéletes éhes kerékpárosoknak."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Nyitott szendvics garnélával, könnyű és frissítő étel."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Kóstoljon meg egy sört a helyi sörfőzdék egyikéből, pl. a Bryggargårdenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pitepalt",
+            "tip": "O gălușcă de cartofi consistentă, umplută cu carne de porc. Perfectă pentru cicliștii înfometați."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "Un sandviș deschis cu creveți, o masă ușoară și răcoritoare."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Încercați o bere de la una dintre berăriile locale, de exemplu la Bryggargården."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pitepalt",
+            "tip": "A hearty potato dumpling filled with pork. Perfect for hungry cyclists."
+          },
+          {
+            "name": "Räksmörgås",
+            "tip": "An open-faced shrimp sandwich, a light and refreshing meal."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Try a beer from one of the local breweries, for example at Bryggargården."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vitberget Aussichtspunkt",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einer weiten Aussicht belohnt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nordanå Park",
+            "tip": "Ein weitläufiger Parkbereich hinter dem Museum für eine entspannte Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Uferweg westlich der Brücke",
+            "tip": "Ein weniger besuchter Abschnitt des Flussufers, ideal für eine ruhige Radtour.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitberget kilátó",
+            "tip": "A mászás után csend és tágas kilátás a jutalom.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nordanå park",
+            "tip": "Tágas park a múzeum mögött egy pihentető szünethez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parti út a hídtól nyugatra",
+            "tip": "A folyópart egy kevésbé látogatott szakasza, ideális egy csendes biciklizéshez.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Vitberget",
+            "tip": "După urcare, veți fi răsplătit cu liniște și o priveliște panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Nordanå",
+            "tip": "O zonă de parc extinsă în spatele muzeului pentru o pauză relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Potecă pe mal la vest de pod",
+            "tip": "O secțiune mai puțin frecventată a malului râului, ideală pentru o plimbare liniștită cu bicicleta.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitberget Viewpoint",
+            "tip": "After the climb, you're rewarded with silence and a wide view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nordanå Park",
+            "tip": "A spacious park area behind the museum for a relaxing break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Riverside path west of the bridge",
+            "tip": "A less-visited section of the riverbank, ideal for a quiet bike ride.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für den Fall, dass Sie Zubehör oder eine schnelle Reparatur benötigen."
+          },
+          {
+            "name": "City Companiet",
+            "tip": "Ein Einkaufszentrum für eine größere Auswahl an Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha tartozékokra vagy gyors javításra van szüksége."
+          },
+          {
+            "name": "City Companiet",
+            "tip": "Bevásárlóközpont a boltok szélesebb választékáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          },
+          {
+            "name": "City Companiet",
+            "tip": "Un centru comercial pentru o selecție mai largă de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick fix."
+          },
+          {
+            "name": "City Companiet",
+            "tip": "A shopping mall for a wider selection of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in einem der lokalen Geschäfte.",
+          "Skellefteå hat viele gute Radwege, nutzen Sie diese.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für die Fahrt zum Vitberget.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az egyik helyi üzletben.",
+          "Skellefteåban sok jó kerékpárút van, használja ki őket.",
+          "Vigyen magával egy vizes palackot, különösen a Vitbergetre vezető útra.",
+          "Mindig zárja le jól a kerékpárját, amikor leparkolja."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la unul dintre magazinele locale.",
+          "Skellefteå are multe piste bune pentru biciclete, folosiți-le.",
+          "Luați o sticlă de apă, mai ales pentru urcarea pe Vitberget.",
+          "Încuietăți-vă întotdeauna bicicleta bine când o parcați."
+        ],
+        "en": [
+          "Rent a bike from one of the local shops.",
+          "Skellefteå has many good bike paths, make use of them.",
+          "Bring a water bottle, especially for the ride to Vitberget.",
+          "Always lock your bike securely when you park it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vitberget",
+            "hu": "Vitberget",
+            "ro": "Vitberget",
+            "en": "Vitberget"
+          },
+          "coords": [
+            20.995,
+            64.765
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Panoramaaussicht über die Region. Es gibt gute Parkmöglichkeiten.",
+            "hu": "Kezdje a napot a régióra nyíló panorámával. Jó parkolási lehetőségek vannak.",
+            "ro": "Începeți cu o vedere panoramică asupra regiunii. Există parcare bună.",
+            "en": "Start with a panoramic view over the region. There is good parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonnstan Cluster: Parkplatz",
+            "hu": "Bonnstan Klaszter: Parkoló",
+            "ro": "Cluster Bonnstan: Parcare",
+            "en": "Bonnstan Cluster: Parking"
+          },
+          "coords": [
+            20.938,
+            64.75
+          ],
+          "category": "transport",
+          "arrive_at": "10:35",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den historischen Teil der Stadt zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy gyalog fedezze fel a város történelmi részét.",
+            "ro": "Parcați aici pentru a explora pe jos partea istorică a orașului.",
+            "en": "Park here to explore the historic part of town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonnstan",
+            "hu": "Bonnstan (Templomváros)",
+            "ro": "Bonnstan (Orașul Bisericesc)",
+            "en": "Bonnstan (Church Town)"
+          },
+          "coords": [
+            20.937,
+            64.7495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der erste Halt in Ihrem historischen Rundgang.",
+            "hu": "Az első megálló a történelmi sétán.",
+            "ro": "Prima oprire în turul dumneavoastră istoric pe jos.",
+            "en": "The first stop on your historic walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Landskyrkan",
+            "hu": "Landskyrkan",
+            "ro": "Biserica Landskyrkan",
+            "en": "Landskyrkan"
+          },
+          "coords": [
+            20.939,
+            64.7488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von Bonnstan entfernt.",
+            "hu": "Csak egy rövid sétára Bonnstantól.",
+            "ro": "La doar o scurtă plimbare de Bonnstan.",
+            "en": "Just a short walk from Bonnstan."
+          }
+        },
+        {
+          "name": {
+            "de": "Lejonströmsbron",
+            "hu": "Lejonströmsbron híd",
+            "ro": "Podul Lejonströmsbron",
+            "en": "Lejonströmsbron Bridge"
+          },
+          "coords": [
+            20.9355,
+            64.7472
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für Ihren Spaziergang durch das alte Skellefteå.",
+            "hu": "Tökéletes befejezése a régi Skellefteå-ban tett sétának.",
+            "ro": "Finalul perfect pentru plimbarea prin vechiul Skellefteå.",
+            "en": "The perfect end to your walk through old Skellefteå."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum Cluster: Parkhaus",
+            "hu": "Belváros Klaszter: Parkolóház",
+            "ro": "Cluster Centru: Parcare supraetajată",
+            "en": "City Center Cluster: Parking Garage"
+          },
+          "coords": [
+            20.951,
+            64.752
+          ],
+          "category": "transport",
+          "arrive_at": "13:09",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral, um die modernen Sehenswürdigkeiten und Geschäfte zu erreichen.",
+            "hu": "Parkoljon központilag, hogy elérje a modern látnivalókat és üzleteket.",
+            "ro": "Parcați central pentru a ajunge la atracțiile și magazinele moderne.",
+            "en": "Park centrally to access the modern sights and shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Sara Kulturhus & Mittagessen",
+            "hu": "Sara Kulturhus & Ebéd",
+            "ro": "Centrul Cultural Sara & Prânz",
+            "en": "Sara Kulturhus & Lunch"
+          },
+          "coords": [
+            20.952,
+            64.7515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:12",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kombinieren Sie Kultur mit einer Mahlzeit in einem der Restaurants im Gebäude.",
+            "hu": "Kombinálja a kultúrát egy ebéddel az épület egyik éttermében.",
+            "ro": "Combinați cultura cu o masă la unul dintre restaurantele din clădire.",
+            "en": "Combine culture with a meal at one of the restaurants inside the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken",
+            "ro": "Stadsparken",
+            "en": "Stadsparken"
+          },
+          "coords": [
+            20.9545,
+            64.7501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang nach dem Mittagessen, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy pihentető séta ebéd után, mielőtt visszatérne az autóhoz.",
+            "ro": "O plimbare relaxantă după prânz înainte de a vă întoarce la mașină.",
+            "en": "A relaxing post-lunch walk before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto auf dem Vitberget, um eine atemberaubende Aussicht zu genießen. Fahren Sie dann zum historischen Herzen der Stadt und parken Sie in der Nähe von Bonnstan. Erkunden Sie das alte Kirchdorf, die Landskyrkan und die Lejonströmsbron zu Fuß. Am Nachmittag fahren Sie ins moderne Stadtzentrum. Parken Sie dort und widmen Sie sich dem beeindruckenden Sara Kulturhus, wo Sie auch zu Mittag essen können. Schließen Sie den Tag mit einem entspannten Spaziergang durch den Stadsparken ab, bevor Sie zurück zu Ihrem Auto gehen.",
+        "hu": "Kezdje a napot autóval a Vitbergeten, hogy élvezze a lélegzetelállító kilátást. Ezután hajtson a város történelmi szívébe, és parkoljon Bonnstan közelében. Fedezze fel gyalog a régi templomvárost, a Landskyrkant és a Lejonströmsbron hidat. Délután hajtson be a modern városközpontba. Parkoljon le, és szentelje idejét a lenyűgöző Sara Kulturhusnak, ahol ebédelhet is. Zárja a napot egy pihentető sétával a Stadsparkenben, mielőtt visszatérne az autójához.",
+        "ro": "Începeți-vă ziua cu mașina pe Vitberget pentru o priveliște uluitoare. Apoi, conduceți spre inima istorică a orașului și parcați lângă Bonnstan. Explorați vechiul oraș bisericesc, Landskyrkan și podul Lejonströmsbron pe jos. După-amiaza, conduceți spre centrul modern al orașului. Parcați acolo și dedicați-vă timp impresionantului Centru Cultural Sara, unde puteți lua și prânzul. Încheiați ziua cu o plimbare relaxantă prin Stadsparken înainte de a vă întoarce la mașină.",
+        "en": "Start your day by car at Vitberget for a breathtaking view. Then, drive to the historic heart of the city and park near Bonnstan. Explore the old church town, Landskyrkan, and the Lejonströmsbron bridge on foot. In the afternoon, drive to the modern city center. Park there and dedicate your time to the impressive Sara Kulturhus, where you can also have lunch. End the day with a relaxing walk through Stadsparken before returning to your car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Sara Kulturhus",
+            "tip": "Genießen Sie gehobene Küche mit Aussicht in einem der Restaurants des Kulturzentrums."
+          },
+          {
+            "name": "Älgskav",
+            "tip": "Probieren Sie geschnetzeltes Elchfleisch, ein traditionelles Gericht aus dem Norden."
+          },
+          {
+            "name": "Bryggargatans Bistro",
+            "tip": "Ein beliebtes Restaurant, das für seine hochwertige lokale Küche bekannt ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Sara Kulturhusban",
+            "tip": "Élvezze a finom ételeket kilátással a kulturális központ egyik éttermében."
+          },
+          {
+            "name": "Älgskav",
+            "tip": "Kóstolja meg a szeletelt jávorszarvashúst, egy hagyományos északi ételt."
+          },
+          {
+            "name": "Bryggargatans Bistro",
+            "tip": "Népszerű étterem, amely a magas színvonalú helyi konyhájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Sara Kulturhus",
+            "tip": "Bucurați-vă de o cină rafinată cu priveliște la unul dintre restaurantele centrului cultural."
+          },
+          {
+            "name": "Älgskav",
+            "tip": "Încercați carnea de elan tăiată mărunt, un fel de mâncare tradițional din nord."
+          },
+          {
+            "name": "Bryggargatans Bistro",
+            "tip": "Un restaurant popular cunoscut pentru bucătăria sa locală de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Sara Kulturhus",
+            "tip": "Enjoy fine dining with a view at one of the cultural center's restaurants."
+          },
+          {
+            "name": "Älgskav",
+            "tip": "Try shaved moose meat, a traditional northern dish."
+          },
+          {
+            "name": "Bryggargatans Bistro",
+            "tip": "A popular restaurant known for its high-quality local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vitberget",
+            "tip": "Der beste Ort für Ruhe, Weitblick und frische Luft, direkt am Morgen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Die Stille von Bonnstan",
+            "tip": "Abseits der Hauptzeiten können Sie hier eine fast meditative Ruhe finden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Nordanå-Gebiet",
+            "tip": "Hinter dem Museum erstreckt sich ein großer Park, der zu einem ruhigen Spaziergang einlädt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitberget",
+            "tip": "A legjobb hely a békére, a széles kilátásra és a friss levegőre, rögtön reggel.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Bonnstan csendje",
+            "tip": "A csúcsidőn kívül szinte meditatív nyugalmat találhat itt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Nordanå terület",
+            "tip": "A múzeum mögött egy nagy park terül el, amely csendes sétára hívogat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vitberget",
+            "tip": "Cel mai bun loc pentru liniște, vederi panoramice și aer curat, chiar de dimineață.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Liniștea din Bonnstan",
+            "tip": "În afara orelor de vârf, puteți găsi aici o pace aproape meditativă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Zona Nordanå",
+            "tip": "În spatele muzeului se întinde un parc mare, care invită la o plimbare liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitberget",
+            "tip": "The best place for peace, wide views, and fresh air, first thing in the morning.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "The silence of Bonnstan",
+            "tip": "Outside of peak hours, you can find an almost meditative quiet here.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Nordanå area",
+            "tip": "Behind the museum, a large park invites you for a quiet stroll.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden außerhalb der Stadt",
+            "tip": "Nutzen Sie das Auto, um Hofläden zu besuchen, die lokale Produkte verkaufen."
+          },
+          {
+            "name": "Handwerk in Bonnstan",
+            "tip": "Manchmal gibt es kleine Stände, die lokales Handwerk verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi boltok a városon kívül",
+            "tip": "Használja az autót a helyi termékeket árusító tanyasi boltok meglátogatásához."
+          },
+          {
+            "name": "Kézművesség Bonnstanban",
+            "tip": "Néha vannak kis standok, ahol helyi kézműves termékeket árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de la ferme în afara orașului",
+            "tip": "Folosiți mașina pentru a vizita magazinele de la ferme care vând produse locale."
+          },
+          {
+            "name": "Artizanat în Bonnstan",
+            "tip": "Uneori există mici tarabe care vând produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops outside the city",
+            "tip": "Use the car to visit farm shops selling local produce."
+          },
+          {
+            "name": "Crafts in Bonnstan",
+            "tip": "Sometimes there are small stalls selling local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkgebühren in der Innenstadt.",
+          "Die Cluster-Philosophie spart Parkplatzsuche und Stress.",
+          "Ein Auto ermöglicht es, auch leicht außerhalb liegende Naturgebiete zu erkunden.",
+          "Planen Sie genügend Zeit für den Verkehr zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Vegye figyelembe a parkolási díjakat a belvárosban.",
+          "A klaszter-filozófia időt és stresszt takarít meg a parkolóhely-keresésnél.",
+          "Az autó lehetővé teszi a kissé távolabb eső természeti területek felfedezését is.",
+          "Tervezzen elegendő időt a klaszterek közötti forgalomra."
+        ],
+        "ro": [
+          "Fiți atenți la taxele de parcare din centrul orașului.",
+          "Filozofia cluster economisește timp și stres la căutarea unui loc de parcare.",
+          "O mașină vă permite să explorați și zone naturale situate puțin în afara orașului.",
+          "Planificați suficient timp pentru traficul dintre clustere."
+        ],
+        "en": [
+          "Be aware of parking fees in the city center.",
+          "The cluster philosophy saves time and stress from looking for parking.",
+          "A car allows you to explore natural areas slightly outside the city as well.",
+          "Plan for enough time for traffic between the clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof & Kaffee",
+            "hu": "Érkezés a buszpályaudvarra & Kávé",
+            "ro": "Sosire la autogară & Cafea",
+            "en": "Arrival at Bus Station & Coffee"
+          },
+          "coords": [
+            20.958,
+            64.752
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kaufen Sie eine Tageskarte für den Bus und starten Sie mit einem Kaffee.",
+            "hu": "Vásároljon napijegyet a buszra, és kezdje egy kávéval.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuz și începeți cu o cafea.",
+            "en": "Buy a day pass for the bus and start with a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Bonnstan: Landskyrkan",
+            "hu": "Bonnstan Klaszter: Landskyrkan",
+            "ro": "Cluster Bonnstan: Biserica Landskyrkan",
+            "en": "Bonnstan Cluster: Landskyrkan"
+          },
+          "coords": [
+            20.939,
+            64.7488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum historischen Viertel. Die Kirche ist der erste Halt Ihres Spaziergangs.",
+            "hu": "Menjen busszal a történelmi negyedbe. A templom a séta első állomása.",
+            "ro": "Luați autobuzul spre cartierul istoric. Biserica este prima oprire a plimbării.",
+            "en": "Take the bus to the historic quarter. The church is the first stop on your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonnstan",
+            "hu": "Bonnstan",
+            "ro": "Bonnstan",
+            "en": "Bonnstan"
+          },
+          "coords": [
+            20.937,
+            64.7495
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Gassen dieses einzigartigen Ortes.",
+            "hu": "Sétáljon végig ennek az egyedülálló helynek a sikátorain.",
+            "ro": "Plimbați-vă pe aleile acestui loc unic.",
+            "en": "Stroll through the alleys of this unique place."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Sara Kulturhus",
+            "hu": "Központ Klaszter: Sara Kulturhus",
+            "ro": "Cluster Centru: Centrul Cultural Sara",
+            "en": "Center Cluster: Sara Kulturhus"
+          },
+          "coords": [
+            20.952,
+            64.7515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück ins Zentrum und verbringen Sie Zeit im Kulturhaus, inklusive Mittagessen.",
+            "hu": "Utazzon vissza a központba, és töltsön időt a kultúrházban, ebéddel együtt.",
+            "ro": "Întoarceți-vă în centru și petreceți timp la casa de cultură, inclusiv prânzul.",
+            "en": "Travel back to the center and spend time at the cultural center, including lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Skellefteå Museum",
+            "hu": "Skellefteå Múzeum",
+            "ro": "Muzeul Skellefteå",
+            "en": "Skellefteå Museum"
+          },
+          "coords": [
+            20.9455,
+            64.7492
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Sara Kulturhus zum Museum.",
+            "hu": "Rövid séta a Sara Kulturhustól a múzeumig.",
+            "ro": "O scurtă plimbare de la Centrul Cultural Sara la muzeu.",
+            "en": "A short walk from Sara Kulturhus to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadsparken",
+            "hu": "Stadsparken",
+            "ro": "Stadsparken",
+            "en": "Stadsparken"
+          },
+          "coords": [
+            20.9545,
+            64.7501
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannenden Spaziergang im Park, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt hazabuszozna.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de a lua autobuzul spre casă.",
+            "en": "End the day with a relaxing walk in the park before taking the bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nachdem Sie Ihre Tageskarte am Busbahnhof gekauft haben, bringt Sie ein Bus direkt in die Vergangenheit, zum historischen Cluster um Landskyrkan und Bonnstan. Erkunden Sie diese Gegend zu Fuß. Anschließend fahren Sie mit dem Bus zurück ins moderne Zentrum. Verbringen Sie einen großen Teil des Nachmittags im beeindruckenden Sara Kulturhus und dem nahegelegenen Skellefteå Museum. Ein letzter kurzer Spaziergang führt Sie durch den Stadsparken, wo Sie entspannen können, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Miután megvásárolta a napijegyet a buszpályaudvaron, egy busz egyenesen a múltba repíti, a Landskyrkan és Bonnstan körüli történelmi klaszterhez. Fedezze fel ezt a területet gyalog. Ezután busszal térjen vissza a modern központba. Töltse a délután nagy részét a lenyűgöző Sara Kulturhusban és a közeli Skellefteå Múzeumban. Egy utolsó rövid séta a Stadsparkenen keresztül vezet, ahol pihenhet, mielőtt elindulna hazafelé.",
+        "ro": "După ce vă cumpărați biletul de o zi de la autogară, un autobuz vă va duce direct în trecut, la clusterul istoric din jurul Landskyrkan și Bonnstan. Explorați această zonă pe jos. Apoi, luați autobuzul înapoi spre centrul modern. Petreceți o mare parte a după-amiezii la impresionantul Centru Cultural Sara și la Muzeul Skellefteå din apropiere. O ultimă plimbare scurtă vă va purta prin Stadsparken, unde vă puteți relaxa înainte de a vă întoarce acasă.",
+        "en": "After buying your day pass at the bus station, a bus takes you straight into the past, to the historic cluster around Landskyrkan and Bonnstan. Explore this area on foot. Afterwards, take the bus back to the modern center. Spend a large part of the afternoon at the impressive Sara Kulturhus and the nearby Skellefteå Museum. A final short walk takes you through Stadsparken, where you can relax before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Probieren Sie eine Scheibe dieser herzhaften 'Sandwichtorte', die in vielen Cafés erhältlich ist."
+          },
+          {
+            "name": "Fika im Café",
+            "tip": "Machen Sie eine Pause in einem der vielen Cafés für Kaffee und Kuchen."
+          },
+          {
+            "name": "Max Burger",
+            "tip": "Für eine schnelle und beliebte schwedische Fast-Food-Option."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Kóstoljon meg egy szeletet ebből a sós 'szendvicstortából', amely sok kávézóban kapható."
+          },
+          {
+            "name": "Fika egy kávézóban",
+            "tip": "Tartson szünetet a sok kávézó egyikében egy kávéra és süteményre."
+          },
+          {
+            "name": "Max Burger",
+            "tip": "Egy gyors és népszerű svéd gyorséttermi lehetőségért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Încercați o felie din acest 'tort sandviș' sărat, disponibil în multe cafenele."
+          },
+          {
+            "name": "Fika la o cafenea",
+            "tip": "Luați o pauză la una dintre numeroasele cafenele pentru o cafea și o prăjitură."
+          },
+          {
+            "name": "Max Burger",
+            "tip": "Pentru o opțiune rapidă și populară de fast-food suedez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Smörgåstårta",
+            "tip": "Try a slice of this savory 'sandwich cake', available in many cafes."
+          },
+          {
+            "name": "Fika at a café",
+            "tip": "Take a break at one of the many cafes for coffee and cake."
+          },
+          {
+            "name": "Max Burger",
+            "tip": "For a quick and popular Swedish fast-food option."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Sara Kulturhus",
+            "tip": "Finden Sie eine ruhige Ecke mit Aussicht auf die Stadt.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Friedhof neben Landskyrkan",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Spaziergang am Fluss",
+            "tip": "Vom Stadsparken aus können Sie ein Stück am Fluss entlang gehen, um dem Trubel zu entfliehen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Sara Kulturhus felső emelete",
+            "tip": "Keressen egy csendes sarkot, ahonnan kilátás nyílik a városra.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "A Landskyrkan melletti temető",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Séta a folyóparton",
+            "tip": "A Stadsparkenből tehet egy rövid sétát a folyó mentén, hogy elmeneküljön a nyüzsgés elől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al Centrului Cultural Sara",
+            "tip": "Găsiți un colț liniștit cu vedere la oraș.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Cimitirul de lângă Landskyrkan",
+            "tip": "Un loc de liniște și reflecție.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Plimbare pe malul râului",
+            "tip": "Din Stadsparken puteți merge o bucată pe malul râului pentru a scăpa de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper floor of Sara Kulturhus",
+            "tip": "Find a quiet corner with a view of the city.",
+            "emoji": "🏙️"
+          },
+          {
+            "name": "Cemetery next to Landskyrkan",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Walk by the river",
+            "tip": "From Stadsparken you can walk a bit along the river to escape the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vintergatan & Citykompaniet",
+            "tip": "Zwei Einkaufszentren im Zentrum für alle Ihre Einkaufsbedürfnisse."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Finden Sie einzigartige Souvenirs und Bücher über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vintergatan & Citykompaniet",
+            "tip": "Két bevásárlóközpont a központban minden vásárlási igény kielégítésére."
+          },
+          {
+            "name": "Múzeumbolt",
+            "tip": "Találjon egyedi ajándéktárgyakat és könyveket a helytörténetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vintergatan & Citykompaniet",
+            "tip": "Două centre comerciale în centru pentru toate nevoile dumneavoastră de cumpărături."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Găsiți suveniruri unice și cărți despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vintergatan & Citykompaniet",
+            "tip": "Two shopping centers in the center for all your shopping needs."
+          },
+          {
+            "name": "Museum shop",
+            "tip": "Find unique souvenirs and books about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte ist günstiger als Einzeltickets.",
+          "Laden Sie die lokale ÖPNV-App für Fahrpläne in Echtzeit herunter.",
+          "Beachten Sie die Busnummern und Richtungen, um nicht in den falschen Bus zu steigen.",
+          "Die meisten Busse sind barrierefrei."
+        ],
+        "hu": [
+          "A napijegy olcsóbb, mint a vonaljegy.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Figyeljen a busz számára és irányára, hogy ne szálljon rossz buszra.",
+          "A legtöbb busz akadálymentesített."
+        ],
+        "ro": [
+          "Un bilet de o zi este mai ieftin decât biletele individuale.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți atenți la numerele și direcțiile autobuzelor pentru a nu vă urca în cel greșit.",
+          "Majoritatea autobuzelor sunt accesibile."
+        ],
+        "en": [
+          "A day pass is cheaper than single tickets.",
+          "Download the local public transport app for real-time schedules.",
+          "Pay attention to bus numbers and directions to avoid getting on the wrong one.",
+          "Most buses are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

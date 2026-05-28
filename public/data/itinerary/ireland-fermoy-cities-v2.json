@@ -1,0 +1,1484 @@
+{
+  "city_id": "ireland-fermoy-cities-v2",
+  "anchor": {
+    "name": "Fermoy",
+    "coords": [
+      -8.283,
+      52.138
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Patrick's-Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -8.277,
+            52.136
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die beeindruckenden Glasfenster.",
+            "hu": "Csodálja meg a neogótikus építészetet és a lenyűgöző ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică și vitraliile impresionante.",
+            "en": "Admire the neo-Gothic architecture and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Christ Church",
+            "hu": "Christ Church (templom)",
+            "ro": "Biserica lui Hristos",
+            "en": "Christ Church"
+          },
+          "coords": [
+            -8.281,
+            52.138
+          ],
+          "category": "churches",
+          "arrive_at": "09:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den ungewöhnlichen Turm und die historische Orgel im Inneren.",
+            "hu": "Figyelje meg a szokatlan tornyot és a történelmi orgonát odabent.",
+            "ro": "Observați turnul neobișnuit și orga istorică din interior.",
+            "en": "Look out for the unusual spire and the historic organ inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy-Brücke",
+            "hu": "Fermoy híd",
+            "ro": "Podul Fermoy",
+            "en": "Fermoy Bridge"
+          },
+          "coords": [
+            -8.279,
+            52.139
+          ],
+          "category": "bridges",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos vom Fluss Blackwater mit der Stadt im Hintergrund.",
+            "hu": "Nagyszerű hely a Blackwater folyó fotózására, a város látképével a háttérben.",
+            "ro": "Un loc excelent pentru fotografii ale râului Blackwater cu orașul pe fundal.",
+            "en": "A great spot for photos of the River Blackwater with the town as a backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy Town Park",
+            "hu": "Fermoy városi park",
+            "ro": "Parcul Orașului Fermoy",
+            "en": "Fermoy Town Park"
+          },
+          "coords": [
+            -8.285,
+            52.141
+          ],
+          "category": "parks",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick am Flussufer oder genießen Sie einfach die ruhige Atmosphäre.",
+            "hu": "Piknikezzen a folyóparton, vagy csak élvezze a békés hangulatot.",
+            "ro": "Faceți un picnic pe malul râului sau pur și simplu bucurați-vă de atmosfera liniștită.",
+            "en": "Have a picnic by the riverside or just enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the Town Centre"
+          },
+          "coords": [
+            -8.279,
+            52.137
+          ],
+          "category": "gastro",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Café für eine herzhafte Suppe und ein Sandwich.",
+            "hu": "Próbáljon ki egy helyi kávézót egy kiadós levesre és szendvicsre.",
+            "ro": "Încercați o cafenea locală pentru o supă consistentă și un sandviș.",
+            "en": "Try a local café for some hearty soup and a sandwich."
+          }
+        },
+        {
+          "name": {
+            "de": "Barnane Walk",
+            "hu": "Barnane sétaút",
+            "ro": "Plimbarea Barnane",
+            "en": "Barnane Walk"
+          },
+          "coords": [
+            -8.265,
+            52.134
+          ],
+          "category": "parks",
+          "arrive_at": "14:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein erfrischender Spaziergang entlang des Flusses mit herrlicher Aussicht und viel Grün.",
+            "hu": "Egy frissítő séta a folyó mentén, gyönyörű kilátással és zöld környezettel.",
+            "ro": "O plimbare revigorantă de-a lungul râului, cu vederi minunate și multă verdeață.",
+            "en": "A refreshing walk along the river offering lovely views and greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Fermoy beginnt mit der Erkundung des kirchlichen Erbes der Stadt in der St. Patrick's und der Christ Church. Am Vormittag überqueren Sie die historische Fermoy-Brücke und genießen die Aussicht, bevor Sie sich im ruhigen Stadtpark entspannen. Gönnen Sie sich ein herzhaftes Mittagessen in einem der charmanten Lokale im Zentrum. Der Nachmittag ist für den erfrischenden Barnane Walk reserviert, der malerische Wege entlang des Flusses Blackwater bietet und einen friedlichen Abschluss Ihres Wandertages darstellt.",
+        "hu": "A fermoy-i napot a város egyházi örökségének felfedezésével kezdi a Szent Patrik- és a Christ Church templomokban. Délelőtt átsétál a történelmi Fermoy-hídon, gyönyörködik a kilátásban, majd a csendes városi parkban pihen. Kényeztesse magát egy kiadós ebéddel a központ egyik hangulatos helyén. A délutánt a frissítő Barnane sétaútnak szenteljük, amely festői ösvényeket kínál a Blackwater folyó mentén, békés lezárásaként a gyalogos napnak.",
+        "ro": "Ziua dvs. în Fermoy începe cu explorarea moștenirii ecleziastice a orașului la Biserica Sf. Patrick și Biserica lui Hristos. La amiază, traversați istoricul pod Fermoy pentru priveliști, înainte de a vă relaxa în liniștitul Parc al Orașului. Bucurați-vă de un prânz consistent la unul dintre localurile fermecătoare din centru. După-amiaza este rezervată pentru revigoranta plimbare Barnane, care oferă poteci pitorești de-a lungul râului Blackwater, un final pașnic pentru ziua dvs. de mers pe jos.",
+        "en": "Your day in Fermoy begins by exploring the town's ecclesiastical heritage at St. Patrick's and Christ Church. Mid-morning, cross the historic Fermoy Bridge for views before relaxing in the tranquil Town Park. Treat yourself to a hearty lunch at one of the charming central eateries. The afternoon is reserved for the refreshing Barnane Walk, offering scenic paths along the River Blackwater for a peaceful conclusion to your walking tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irischer Eintopf",
+            "tip": "Suchen Sie nach einem Pub, der einen traditionellen, langsam gekochten Lammeintopf serviert."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, oft zum Frühstück oder als Beilage serviert."
+          },
+          {
+            "name": "Frischer Lachs aus dem Blackwater",
+            "tip": "Einige Restaurants bieten lokalen Lachs an, wenn er Saison hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír egytálétel (Irish Stew)",
+            "tip": "Keressen egy pubot, ahol hagyományos, lassan főtt bárányragut szolgálnak fel."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, gyakran reggelire vagy köretként tálalva."
+          },
+          {
+            "name": "Friss lazac a Blackwater folyóból",
+            "tip": "Néhány étterem helyi lazacot kínál, amikor szezonja van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Căutați un pub care servește o tocană tradițională de miel, gătită lent."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, adesea servită la micul dejun sau ca garnitură."
+          },
+          {
+            "name": "Somon proaspăt din râul Blackwater",
+            "tip": "Unele restaurante oferă somon local atunci când este în sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "Look for a pub serving a traditional slow-cooked lamb stew."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, often served for breakfast or as a side."
+          },
+          {
+            "name": "Fresh Blackwater Salmon",
+            "tip": "Some local restaurants will feature local salmon when in season."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Blackwater",
+            "tip": "Finden Sie eine ruhige Bank im Stadtpark und beobachten Sie den Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barnane Walk",
+            "tip": "Je weiter Sie gehen, desto ruhiger wird es. Perfekt für einen meditativen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Christ Church",
+            "tip": "Ein friedlicher Ort, um über die Geschichte der Stadt nachzudenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Blackwater folyó partja",
+            "tip": "Keressen egy csendes padot a városi parkban, és nézze a folyót.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barnane sétaút",
+            "tip": "Minél messzebb megy, annál csendesebb lesz. Tökéletes egy meditatív sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Christ Church temetőkertje",
+            "tip": "Békés hely a város történelmén való elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Blackwater",
+            "tip": "Găsiți o bancă liniștită în Parcul Orașului și priviți râul curgând.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbarea Barnane",
+            "tip": "Cu cât mergeți mai departe, cu atât devine mai liniștit. Perfect pentru o plimbare meditativă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii lui Hristos",
+            "tip": "Un loc pașnic pentru a reflecta asupra istoriei orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Blackwater",
+            "tip": "Find a quiet bench in the Town Park and watch the river flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Barnane Walk",
+            "tip": "The further you go, the more peaceful it gets. Perfect for a meditative stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christ Church Yard",
+            "tip": "A peaceful spot to reflect on the town's history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die irische Wolle und Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fermoy termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a kis boltokat, amelyek ír gyapjút és kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Fermoy",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți cu ochii pe micile magazine care vând lână și ceramică irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "If you're here on a market day, look for local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Keep an eye out for small shops selling Irish woolens and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster uneben sein kann.",
+          "Eine leichte Regenjacke ist in Irland immer eine gute Idee, auch an sonnigen Tagen.",
+          "Nehmen Sie sich Zeit, um am Flussufer entlang zu schlendern und die Landschaft zu genießen.",
+          "Sprechen Sie mit den Einheimischen; die Menschen in Fermoy sind für ihre Freundlichkeit bekannt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskaköves utcák egyenetlenek lehetnek.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban, még napos napokon is.",
+          "Szánjon időt a folyóparti sétára, hogy élvezze a tájat.",
+          "Beszélgessen a helyiekkel; a fermoy-i emberek híresek a barátságosságukról."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul poate fi denivelat.",
+          "O geacă subțire de ploaie este întotdeauna o idee bună în Irlanda, chiar și în zilele însorite.",
+          "Luați-vă timp să vă plimbați pe malul râului și să admirați peisajul.",
+          "Stați de vorbă cu localnicii; oamenii din Fermoy sunt cunoscuți pentru amabilitatea lor."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones can be uneven.",
+          "A light rain jacket is always a good idea in Ireland, even on sunny days.",
+          "Take your time strolling along the riverbank to enjoy the scenery.",
+          "Chat with the locals; the people of Fermoy are known for their friendliness."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 14.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Corrin Cross",
+            "hu": "Corrin-kereszt",
+            "ro": "Crucea Corrin",
+            "en": "Corrin Cross"
+          },
+          "coords": [
+            -8.29,
+            52.11
+          ],
+          "category": "monuments",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Panoramaaussicht auf die umliegende Landschaft wert.",
+            "hu": "A panorámás kilátás a környező vidékre megéri a kaptatót.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra peisajului înconjurător.",
+            "en": "The climb is worth it for the panoramic views of the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Patrick's-Kirche",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -8.277,
+            52.136
+          ],
+          "category": "churches",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und nehmen Sie sich einen Moment Zeit, um die Ruhe im Inneren zu genießen.",
+            "hu": "Zárja le a kerékpárját, és szánjon egy percet a benti csend élvezetére.",
+            "ro": "Legați-vă bicicleta și acordați-vă un moment pentru a aprecia liniștea din interior.",
+            "en": "Lock up your bike and take a moment to appreciate the tranquility inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy-Brücke",
+            "hu": "Fermoy híd",
+            "ro": "Podul Fermoy",
+            "en": "Fermoy Bridge"
+          },
+          "coords": [
+            -8.279,
+            52.139
+          ],
+          "category": "bridges",
+          "arrive_at": "10:56",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ikonischer Anblick. Steigen Sie ab und gehen Sie über die Brücke, um die Aussicht zu genießen.",
+            "hu": "Ikonikus látvány. Szálljon le és sétáljon át a hídon a kilátásért.",
+            "ro": "O priveliște iconică. Descalecă și traversează podul pentru a te bucura de priveliște.",
+            "en": "An iconic sight. Dismount and walk your bike across to take in the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy Town Park",
+            "hu": "Fermoy városi park",
+            "ro": "Parcul Orașului Fermoy",
+            "en": "Fermoy Town Park"
+          },
+          "coords": [
+            -8.285,
+            52.141
+          ],
+          "category": "parks",
+          "arrive_at": "11:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine kurze Pause und einen Snack, bevor Sie weiterfahren.",
+            "hu": "Kellemes hely egy rövid pihenőre és egy harapnivalóra, mielőtt tovább tekeregne.",
+            "ro": "Un loc minunat pentru o scurtă pauză și o gustare înainte de a continua drumul.",
+            "en": "A lovely place for a short break and a snack before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            -8.279,
+            52.137
+          ],
+          "category": "gastro",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Tanken Sie neue Energie in einem der Pubs der Stadt mit einem herzhaften irischen Gericht.",
+            "hu": "Töltődjön fel energiával a város egyik pubjában egy kiadós ír étellel.",
+            "ro": "Realimentați-vă la unul dintre pub-urile din oraș cu un fel de mâncare irlandez consistent.",
+            "en": "Refuel at one of the town's pubs with a hearty Irish meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Barnane Walk",
+            "hu": "Barnane sétaút",
+            "ro": "Plimbarea Barnane",
+            "en": "Barnane Walk"
+          },
+          "coords": [
+            -8.265,
+            52.134
+          ],
+          "category": "parks",
+          "arrive_at": "13:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einige Abschnitte sind schmal, fahren Sie also vorsichtig oder gehen Sie zu Fuß.",
+            "hu": "Néhány szakasz keskeny, ezért óvatosan tekerjen, vagy inkább sétáljon.",
+            "ro": "Unele secțiuni sunt înguste, așa că pedalați cu atenție sau mergeți pe jos.",
+            "en": "Some parts of the path are narrow, so cycle with care or walk your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hyde",
+            "hu": "Castlehyde",
+            "ro": "Castelul Hyde",
+            "en": "Castlehyde"
+          },
+          "coords": [
+            -8.32,
+            52.14
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 4.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Haus ist in Privatbesitz, aber die Fahrt dorthin bietet eine wunderschöne Aussicht auf die Landschaft.",
+            "hu": "A ház magántulajdonban van, de a felé vezető út gyönyörű vidéki kilátást kínál.",
+            "ro": "Casa este proprietate privată, dar drumul până acolo oferă priveliști rurale frumoase.",
+            "en": "The house is private, but the ride out offers beautiful countryside views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit einem belebenden Anstieg zum Corrin Cross für eine atemberaubende Aussicht. Danach fahren Sie zurück in die Stadt, um die Hauptkirchen und die ikonische Brücke von Fermoy zu besichtigen. Nach einer Pause im Stadtpark und einem stärkenden Mittagessen folgen Sie dem Fluss auf dem Barnane Walk. Der Nachmittag gipfelt in einer längeren Fahrt durch die malerische Landschaft zum Castlehyde, einem berühmten Anwesen, das die Schönheit der Region zeigt.",
+        "hu": "A kerékpáros nap egy élénkítő emelkedővel kezdődik a Corrin-kereszthez, ahonnan lélegzetelállító a kilátás. Ezután visszateker a városba, hogy megnézze Fermoy fő templomait és ikonikus hídját. A városi parkban tartott pihenő és egy kiadós ebéd után a folyót követi a Barnane sétaúton. A délután egy hosszabb, festői vidéki tekeréssel csúcsosodik ki a Castlehyde-hoz, egy híres birtokhoz, amely bemutatja a régió szépségét.",
+        "ro": "Ziua dvs. pe bicicletă începe cu o urcare revigorantă la Crucea Corrin pentru priveliști uimitoare. Apoi, pedalați înapoi în oraș pentru a vizita principalele biserici și podul iconic din Fermoy. După o pauză în Parcul Orașului și un prânz consistent, urmați râul pe Plimbarea Barnane. După-amiaza culminează cu o plimbare mai lungă prin peisajul rural pitoresc până la Castlehyde, o reședință faimoasă care etalează frumusețea regiunii.",
+        "en": "Your cycling day starts with an invigorating climb to Corrin Cross for stunning views. Then, pedal back into town to visit Fermoy's main churches and iconic bridge. After a break in the Town Park and a hearty lunch, you'll follow the river along the Barnane Walk. The afternoon culminates in a longer scenic countryside ride to Castlehyde, a famous residence showcasing the region's beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irischer Eintopf",
+            "tip": "Suchen Sie nach einem Pub, der einen traditionellen, langsam gekochten Lammeintopf serviert."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, oft zum Frühstück oder als Beilage serviert."
+          },
+          {
+            "name": "Frischer Lachs aus dem Blackwater",
+            "tip": "Einige Restaurants bieten lokalen Lachs an, wenn er Saison hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír egytálétel (Irish Stew)",
+            "tip": "Keressen egy pubot, ahol hagyományos, lassan főtt bárányragut szolgálnak fel."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, gyakran reggelire vagy köretként tálalva."
+          },
+          {
+            "name": "Friss lazac a Blackwater folyóból",
+            "tip": "Néhány étterem helyi lazacot kínál, amikor szezonja van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Căutați un pub care servește o tocană tradițională de miel, gătită lent."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, adesea servită la micul dejun sau ca garnitură."
+          },
+          {
+            "name": "Somon proaspăt din râul Blackwater",
+            "tip": "Unele restaurante oferă somon local atunci când este în sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "Look for a pub serving a traditional slow-cooked lamb stew."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, often served for breakfast or as a side."
+          },
+          {
+            "name": "Fresh Blackwater Salmon",
+            "tip": "Some local restaurants will feature local salmon when in season."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corrin Hill",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einer weiten Aussicht belohnt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Landschaft um Castlehyde",
+            "tip": "Die ruhigen Landstraßen sind perfekt für eine friedliche Radtour.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen am Blackwater",
+            "tip": "Beginnen Sie Ihre Fahrt früh, um den Fluss im Nebel zu sehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corrin-hegy csúcsa",
+            "tip": "A mászás után csend és pazar kilátás a jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Castlehyde körüli vidék",
+            "tip": "A csendes vidéki utak tökéletesek egy békés kerékpártúrához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel a Blackwater folyónál",
+            "tip": "Kezdje korán a túrát, hogy ködben láthassa a folyót.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful dealului Corrin",
+            "tip": "După urcare, ești răsplătit cu liniște și priveliști vaste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Peisajul rural din jurul Castlehyde",
+            "tip": "Drumurile de țară liniștite sunt perfecte pentru o plimbare pașnică cu bicicleta.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme pe râul Blackwater",
+            "tip": "Începeți plimbarea devreme pentru a prinde râul învăluit în ceață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corrin Hill",
+            "tip": "After the climb, you're rewarded with silence and vast views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Countryside around Castlehyde",
+            "tip": "The quiet country lanes are perfect for a peaceful ride.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early Morning on the Blackwater",
+            "tip": "Start your ride early to catch the river in the mist.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die irische Wolle und Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fermoy termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a kis boltokat, amelyek ír gyapjút és kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Fermoy",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți cu ochii pe micile magazine care vând lână și ceramică irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "If you're here on a market day, look for local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Keep an eye out for small shops selling Irish woolens and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihre Bremsen vor dem Aufstieg zum Corrin Cross.",
+          "Ein Helm wird dringend empfohlen, besonders auf Landstraßen.",
+          "Nehmen Sie Wasser und Snacks mit, da die Möglichkeiten außerhalb der Stadt begrenzt sind.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es unbeaufsichtigt lassen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Corrin-kereszthez való emelkedő előtt.",
+          "Sisak használata erősen ajánlott, különösen a vidéki utakon.",
+          "Vigyen magával vizet és harapnivalót, mivel a városon kívül korlátozottak a lehetőségek.",
+          "Mindig zárja le a kerékpárját, ha felügyelet nélkül hagyja."
+        ],
+        "ro": [
+          "Verificați-vă frânele înainte de a urca la Crucea Corrin.",
+          "O cască este foarte recomandată, în special pe drumurile de țară.",
+          "Luați cu voi apă și gustări, deoarece opțiunile sunt limitate în afara orașului.",
+          "Încuietăți-vă întotdeauna bicicleta când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Check your brakes before the descent from Corrin Cross.",
+          "A helmet is highly recommended, especially on country roads.",
+          "Carry water and snacks, as options are limited outside the town.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 19.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Megalithgrab von Labbacallee",
+            "hu": "Labbacallee megalitikus sír",
+            "ro": "Mormântul Megalitic Labbacallee",
+            "en": "Labbacallee Megalithic Tomb"
+          },
+          "coords": [
+            -8.36,
+            52.16
+          ],
+          "category": "historical",
+          "arrive_at": "09:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Irlands größtes Keilgrab. Nehmen Sie sich Zeit, um die alte Ingenieurskunst zu bewundern.",
+            "hu": "Írország legnagyobb ékkő sírja. Szánjon időt az ősi mérnöki munka megcsodálására.",
+            "ro": "Cel mai mare mormânt-pană din Irlanda. Luați-vă timp pentru a admira ingineria antică.",
+            "en": "Ireland's largest wedge tomb. Take time to appreciate the ancient engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hyde",
+            "hu": "Castlehyde",
+            "ro": "Castelul Hyde",
+            "en": "Castlehyde"
+          },
+          "coords": [
+            -8.32,
+            52.14
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Obwohl privat, ist die äußere Ansicht des Hauses von Michael Flatley beeindruckend.",
+            "hu": "Bár magántulajdon, Michael Flatley otthonának külső látványa lenyűgöző.",
+            "ro": "Deși privată, vederea exterioară a casei lui Michael Flatley este impresionantă.",
+            "en": "Though private, the exterior view of Michael Flatley's home is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Parken und Stadtzentrum erkunden",
+            "hu": "Parkolás és a városközpont felfedezése",
+            "ro": "Parcați și explorați centrul",
+            "en": "Park & Explore Town Centre"
+          },
+          "coords": [
+            -8.283,
+            52.138
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz, um den Kern von Fermoy zu Fuß zu erkunden.",
+            "hu": "Keressen egy központi parkolót, hogy gyalogosan fedezze fel Fermoy magját.",
+            "ro": "Găsiți o parcare centrală pentru a explora nucleul orașului Fermoy pe jos.",
+            "en": "Find a central parking spot to explore Fermoy's core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy-Brücke und Kirchen",
+            "hu": "Fermoy híd és templomok",
+            "ro": "Podul și bisericile din Fermoy",
+            "en": "Fermoy Bridge & Churches"
+          },
+          "coords": [
+            -8.279,
+            52.139
+          ],
+          "category": "bridges",
+          "arrive_at": "12:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang verbindet die Brücke und die beiden Hauptkirchen.",
+            "hu": "Egy rövid séta összeköti a hidat és a két fő templomot.",
+            "ro": "O scurtă plimbare leagă podul și cele două biserici principale.",
+            "en": "A short walk connects the bridge and the two main churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Centre"
+          },
+          "coords": [
+            -8.278,
+            52.137
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Viele Pubs und Cafés sind von hier aus leicht zu Fuß erreichbar.",
+            "hu": "Sok pub és kávézó található sétatávolságra innen.",
+            "ro": "Multe pub-uri și cafenele se află la o distanță de mers pe jos de aici.",
+            "en": "Many pubs and cafes are within easy walking distance from here."
+          }
+        },
+        {
+          "name": {
+            "de": "Corrin Cross",
+            "hu": "Corrin-kereszt",
+            "ro": "Crucea Corrin",
+            "en": "Corrin Cross"
+          },
+          "coords": [
+            -8.29,
+            52.11
+          ],
+          "category": "monuments",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz und gehen Sie das letzte Stück für eine atemberaubende Aussicht.",
+            "hu": "Vezessen a parkolóig, majd sétáljon fel az utolsó szakaszon a lélegzetelállító kilátásért.",
+            "ro": "Conduceți până la parcare și parcurgeți ultima porțiune pe jos pentru priveliști uimitoare.",
+            "en": "Drive to the car park and walk the final stretch for amazing views."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang im Fermoy Town Park",
+            "hu": "Séta a Fermoy városi parkban",
+            "ro": "Plimbare în Parcul Orașului Fermoy",
+            "en": "Stroll in Fermoy Town Park"
+          },
+          "coords": [
+            -8.285,
+            52.141
+          ],
+          "category": "parks",
+          "arrive_at": "15:23",
+          "stay_min": 83,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannender Abschluss des Tages am Ufer des Blackwater.",
+            "hu": "A nap pihentető befejezése a Blackwater folyó partján.",
+            "ro": "O încheiere relaxantă a zilei pe malurile râului Blackwater.",
+            "en": "A relaxing end to the day by the banks of the Blackwater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Reise in die alte Geschichte beim Labbacallee Grab, gefolgt von einem Blick auf das moderne Anwesen Castlehyde. Am Vormittag fahren Sie ins Zentrum von Fermoy. Parken Sie Ihr Auto und erkunden Sie den ersten Stadtteil zu Fuß, einschließlich der Brücke, der Kirchen und einem gemütlichen Mittagessen. Am Nachmittag bringt Sie eine kurze Fahrt zum Corrin Cross für eine weite Aussicht. Beenden Sie den Tag mit einem entspannten Spaziergang im Fermoy Town Park und genießen Sie die ruhige Flussatmosphäre.",
+        "hu": "Az autós nap az ősi történelembe tett utazással kezdődik a Labbacallee sírnál, majd egy pillantást vetünk a modern Castlehyde birtokra. Délelőtt Fermoy központjába hajt. Parkoljon le, és fedezze fel gyalog az első városi negyedet, beleértve a hidat, a templomokat és egy kellemes ebédet. Délután egy rövid autóút visz a Corrin-kereszthez, ahonnan pazar a kilátás. A napot egy pihentető sétával zárja a Fermoy városi parkban, élvezve a folyó békés hangulatát.",
+        "ro": "Ziua dvs. cu mașina începe cu o călătorie în istoria antică la Mormântul Labbacallee, urmată de o privire la moșia modernă Castlehyde. La amiază, conduceți spre centrul orașului Fermoy. Parcați mașina și explorați primul grup de obiective pe jos, incluzând podul, bisericile și un prânz relaxant. După-amiaza, o scurtă călătorie cu mașina vă duce la Crucea Corrin pentru priveliști ample. Încheiați ziua cu o plimbare relaxantă în Parcul Orașului Fermoy, bucurându-vă de atmosfera liniștită a râului.",
+        "en": "Your car tour begins with a journey into ancient history at Labbacallee Tomb, followed by a glimpse of the modern estate of Castlehyde. Mid-morning, drive into central Fermoy. Park your car and explore the first cluster of sights on foot, including the bridge, churches, and a leisurely lunch. In the afternoon, a short drive takes you to Corrin Cross for sweeping views. Conclude your day with a relaxing stroll in Fermoy Town Park, enjoying the tranquil riverside atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irischer Eintopf",
+            "tip": "Suchen Sie nach einem Pub, der einen traditionellen, langsam gekochten Lammeintopf serviert."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, oft zum Frühstück oder als Beilage serviert."
+          },
+          {
+            "name": "Frischer Lachs aus dem Blackwater",
+            "tip": "Einige Restaurants bieten lokalen Lachs an, wenn er Saison hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír egytálétel (Irish Stew)",
+            "tip": "Keressen egy pubot, ahol hagyományos, lassan főtt bárányragut szolgálnak fel."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, gyakran reggelire vagy köretként tálalva."
+          },
+          {
+            "name": "Friss lazac a Blackwater folyóból",
+            "tip": "Néhány étterem helyi lazacot kínál, amikor szezonja van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Căutați un pub care servește o tocană tradițională de miel, gătită lent."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, adesea servită la micul dejun sau ca garnitură."
+          },
+          {
+            "name": "Somon proaspăt din râul Blackwater",
+            "tip": "Unele restaurante oferă somon local atunci când este în sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "Look for a pub serving a traditional slow-cooked lamb stew."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, often served for breakfast or as a side."
+          },
+          {
+            "name": "Fresh Blackwater Salmon",
+            "tip": "Some local restaurants will feature local salmon when in season."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Labbacallee Tomb",
+            "tip": "Ein Ort tiefer historischer Stille, besonders am frühen Morgen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Gipfel des Corrin Hill",
+            "tip": "Über dem Trubel der Stadt genießen Sie hier absolute Ruhe.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Flussufer im Stadtpark",
+            "tip": "Finden Sie eine abgelegene Bank und lauschen Sie dem Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Labbacallee sír",
+            "tip": "A mély történelmi csend helye, különösen kora reggel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Corrin-hegy csúcsa",
+            "tip": "A város nyüzsgése felett itt teljes csendet élvezhet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Folyópart a városi parkban",
+            "tip": "Keressen egy félreeső padot, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mormântul Labbacallee",
+            "tip": "Un loc de o liniște istorică profundă, mai ales dimineața devreme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vârful dealului Corrin",
+            "tip": "Deasupra agitației orașului, aici vă puteți bucura de o pace absolută.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului din Parcul Orașului",
+            "tip": "Găsiți o bancă retrasă și ascultați sunetul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Labbacallee Tomb",
+            "tip": "A place of deep historical silence, especially in the early morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Summit of Corrin Hill",
+            "tip": "Above the bustle of the town, you can enjoy absolute peace here.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Riverbank in the Town Park",
+            "tip": "Find a secluded bench and listen to the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die irische Wolle und Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fermoy termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a kis boltokat, amelyek ír gyapjút és kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Fermoy",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți cu ochii pe micile magazine care vând lână și ceramică irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "If you're here on a market day, look for local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Keep an eye out for small shops selling Irish woolens and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ausgewiesene Parkplätze; das Parken im Stadtzentrum kann eingeschränkt sein.",
+          "Planen Sie zusätzliche Zeit für den Verkehr auf Landstraßen ein.",
+          "Ein GPS ist nützlich, um abgelegene Orte wie Labbacallee zu finden.",
+          "Überprüfen Sie die Öffnungszeiten, da einige Orte saisonale Öffnungszeiten haben können."
+        ],
+        "hu": [
+          "Használja a kijelölt parkolókat; a városközpontban a parkolás korlátozott lehet.",
+          "Tervezzen plusz időt a vidéki utakon való közlekedéshez.",
+          "GPS hasznos lehet az eldugottabb helyek, mint a Labbacallee megtalálásához.",
+          "Ellenőrizze a nyitvatartási időket, mivel néhány hely szezonálisan tarthat nyitva."
+        ],
+        "ro": [
+          "Folosiți parcările desemnate; parcarea în centrul orașului poate fi limitată.",
+          "Planificați timp suplimentar pentru traficul de pe drumurile de țară.",
+          "Un GPS este util pentru a găsi locații mai îndepărtate precum Labbacallee.",
+          "Verificați orele de deschidere, deoarece unele atracții pot avea program sezonier."
+        ],
+        "en": [
+          "Use designated car parks; parking in the town centre can be restricted.",
+          "Allow extra time for traffic on country lanes.",
+          "A GPS is useful for finding more remote sites like Labbacallee.",
+          "Check opening times for attractions, as some may be seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum",
+            "hu": "Buszozás a városközpontba",
+            "ro": "Călătorie cu autobuzul spre centru",
+            "en": "Bus to Town Centre"
+          },
+          "coords": [
+            -8.278,
+            52.137
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an einer zentralen Bushaltestelle, um leicht auf alles zugreifen zu können.",
+            "hu": "Kezdje a napot egy központi buszmegállóban, ahonnan minden könnyen elérhető.",
+            "ro": "Începeți ziua la o stație centrală de autobuz pentru acces ușor la tot.",
+            "en": "Start your day at a central bus stop for easy access to everything."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Patrick's-Kirche & Christ Church",
+            "hu": "Szt. Patrik-templom és Christ Church",
+            "ro": "Biserica Sf. Patrick & Biserica lui Hristos",
+            "en": "St. Patrick's & Christ Church"
+          },
+          "coords": [
+            -8.277,
+            52.136
+          ],
+          "category": "churches",
+          "arrive_at": "09:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden beeindruckenden Kirchen liegen nur einen kurzen Spaziergang voneinander entfernt.",
+            "hu": "Ez a két lenyűgöző templom csak egy rövid sétára van egymástól.",
+            "ro": "Aceste două biserici impresionante se află la o scurtă plimbare una de cealaltă.",
+            "en": "These two impressive churches are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Fermoy-Brücke & Stadtpark",
+            "hu": "Fermoy híd és városi park",
+            "ro": "Podul Fermoy și Parcul Orașului",
+            "en": "Fermoy Bridge & Town Park"
+          },
+          "coords": [
+            -8.28,
+            52.14
+          ],
+          "category": "parks",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke und finden Sie einen friedlichen Ort im angrenzenden Park.",
+            "hu": "Sétáljon át a hídon, és keressen egy békés helyet a szomszédos parkban.",
+            "ro": "Traversați podul și găsiți un loc pașnic în parcul adiacent.",
+            "en": "Cross the bridge and find a peaceful spot in the adjacent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Einkaufen",
+            "hu": "Ebéd és vásárlás",
+            "ro": "Prânz și cumpărături",
+            "en": "Lunch and Shopping"
+          },
+          "coords": [
+            -8.279,
+            52.137
+          ],
+          "category": "gastro",
+          "arrive_at": "11:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit und stöbern Sie dann in den örtlichen Geschäften nach Souvenirs.",
+            "hu": "Fogyasszon el egy ebédet, majd nézelődjön a helyi boltokban szuvenírek után.",
+            "ro": "Bucurați-vă de o masă, apoi răsfoiți magazinele locale pentru suveniruri.",
+            "en": "Enjoy a meal and then browse the local shops for souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Corrin-Hügel",
+            "hu": "Buszozás a Corrin-hegyhez",
+            "ro": "Autobuz spre Dealul Corrin",
+            "en": "Bus to Corrin Hill"
+          },
+          "coords": [
+            -8.29,
+            52.115
+          ],
+          "category": "transit",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Süden und steigen Sie in der Nähe des Hügels aus, um zum Kreuz aufzusteigen.",
+            "hu": "Szálljon fel egy délre tartó buszra, és szálljon le a hegy közelében, hogy felsétáljon a kereszthez.",
+            "ro": "Luați un autobuz spre sud și coborâți aproape de deal pentru a urca la cruce.",
+            "en": "Take a bus south and alight near the hill for the climb to the cross."
+          }
+        },
+        {
+          "name": {
+            "de": "Barnane Walk",
+            "hu": "Barnane sétaút",
+            "ro": "Plimbarea Barnane",
+            "en": "Barnane Walk"
+          },
+          "coords": [
+            -8.265,
+            52.134
+          ],
+          "category": "parks",
+          "arrive_at": "14:48",
+          "stay_min": 93,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück in die Stadt und beenden Sie den Tag mit einem erfrischenden Spaziergang am Fluss.",
+            "hu": "Buszozzon vissza a városba, és fejezze be a napot egy frissítő folyóparti sétával.",
+            "ro": "Luați un autobuz înapoi în oraș și încheiați ziua cu o plimbare revigorantă pe malul râului.",
+            "en": "Take a bus back into town and finish the day with a refreshing riverside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Fermoy konzentriert sich auf Effizienz und Erkundung. Beginnen Sie im Herzen der Stadt und spazieren Sie zwischen den historischen Kirchen und der berühmten Brücke. Nach einer Pause im Stadtpark können Sie ein Mittagessen und einen Einkaufsbummel im Zentrum genießen. Am Nachmittag bringt Sie ein Bus in die Nähe des Corrin Cross für eine Panoramaaussicht. Ein weiterer Bus bringt Sie zurück, um den Tag mit dem friedlichen Barnane Walk entlang des Flusses ausklingen zu lassen.",
+        "hu": "A tömegközlekedéssel töltött nap Fermoyban a hatékonyságra és a felfedezésre összpontosít. Kezdjen a város szívében, sétáljon a történelmi templomok és a híres híd között. A városi parkban tartott pihenő után élvezze az ebédet és a vásárlást a központban. Délután egy busz elviszi a Corrin-kereszt közelébe, ahonnan panorámás a kilátás. Egy másik busz visszahozza, hogy a napot a békés Barnane sétaúton zárja a folyó mentén.",
+        "ro": "Ziua dvs. cu transportul public în Fermoy se concentrează pe eficiență și explorare. Începeți în inima orașului, plimbându-vă între bisericile istorice și faimosul pod. După o pauză în Parcul Orașului, bucurați-vă de prânz și de cumpărături în centru. După-amiaza, un autobuz vă duce aproape de Crucea Corrin pentru priveliști panoramice. Un alt autobuz vă aduce înapoi pentru a încheia ziua cu liniștita plimbare Barnane de-a lungul râului.",
+        "en": "Your public transport day in Fermoy focuses on efficiency and exploration. Start in the heart of town, walking between the historic churches and the famous bridge. After a break in the Town Park, enjoy lunch and some shopping in the centre. In the afternoon, a bus takes you near Corrin Cross for panoramic views. Another bus brings you back to end the day with the peaceful Barnane Walk along the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Irischer Eintopf",
+            "tip": "Suchen Sie nach einem Pub, der einen traditionellen, langsam gekochten Lammeintopf serviert."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Ein traditioneller irischer Kartoffelpfannkuchen, oft zum Frühstück oder als Beilage serviert."
+          },
+          {
+            "name": "Frischer Lachs aus dem Blackwater",
+            "tip": "Einige Restaurants bieten lokalen Lachs an, wenn er Saison hat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ír egytálétel (Irish Stew)",
+            "tip": "Keressen egy pubot, ahol hagyományos, lassan főtt bárányragut szolgálnak fel."
+          },
+          {
+            "name": "Boxty",
+            "tip": "Hagyományos ír burgonyalepény, gyakran reggelire vagy köretként tálalva."
+          },
+          {
+            "name": "Friss lazac a Blackwater folyóból",
+            "tip": "Néhány étterem helyi lazacot kínál, amikor szezonja van."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tocăniță irlandeză",
+            "tip": "Căutați un pub care servește o tocană tradițională de miel, gătită lent."
+          },
+          {
+            "name": "Boxty",
+            "tip": "O clătită tradițională irlandeză din cartofi, adesea servită la micul dejun sau ca garnitură."
+          },
+          {
+            "name": "Somon proaspăt din râul Blackwater",
+            "tip": "Unele restaurante oferă somon local atunci când este în sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Irish Stew",
+            "tip": "Look for a pub serving a traditional slow-cooked lamb stew."
+          },
+          {
+            "name": "Boxty",
+            "tip": "A traditional Irish potato pancake, often served for breakfast or as a side."
+          },
+          {
+            "name": "Fresh Blackwater Salmon",
+            "tip": "Some local restaurants will feature local salmon when in season."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Corrin Hill",
+            "tip": "Nach dem Aufstieg werden Sie mit Stille und einer weiten Aussicht belohnt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Barnane Walk",
+            "tip": "Je weiter Sie gehen, desto ruhiger wird es. Perfekt für einen meditativen Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Christ Church",
+            "tip": "Ein friedlicher Ort, um über die Geschichte der Stadt nachzudenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Corrin-hegy csúcsa",
+            "tip": "A mászás után csend és pazar kilátás a jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Barnane sétaút",
+            "tip": "Minél messzebb megy, annál csendesebb lesz. Tökéletes egy meditatív sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Christ Church temetőkertje",
+            "tip": "Békés hely a város történelmén való elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful dealului Corrin",
+            "tip": "După urcare, ești răsplătit cu liniște și priveliști vaste.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbarea Barnane",
+            "tip": "Cu cât mergeți mai departe, cu atât devine mai liniștit. Perfect pentru o plimbare meditativă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii lui Hristos",
+            "tip": "Un loc pașnic pentru a reflecta asupra istoriei orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit of Corrin Hill",
+            "tip": "After the climb, you're rewarded with silence and vast views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Barnane Walk",
+            "tip": "The further you go, the more peaceful it gets. Perfect for a meditative stroll.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Christ Church Yard",
+            "tip": "A peaceful spot to reflect on the town's history.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "Wenn Sie an einem Markttag hier sind, finden Sie lokale Produkte und Handwerk."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die irische Wolle und Keramik verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fermoy termelői piac",
+            "tip": "Ha piacnapon van itt, helyi termékeket és kézműves árukat talál."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keresse a kis boltokat, amelyek ír gyapjút és kerámiát árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Fermierilor din Fermoy",
+            "tip": "Dacă sunteți aici într-o zi de piață, căutați produse locale și artizanat."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Fiți cu ochii pe micile magazine care vând lână și ceramică irlandeză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fermoy Farmers' Market",
+            "tip": "If you're here on a market day, look for local produce and crafts."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Keep an eye out for small shops selling Irish woolens and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar, um Geld zu sparen.",
+          "Überprüfen Sie die Busfahrpläne im Voraus, da die Verbindungen unregelmäßig sein können.",
+          "Haben Sie Kleingeld für den Busfahrpreis bereit.",
+          "Kombinieren Sie Busfahrten mit kurzen Spaziergängen, um das Beste aus Ihrem Tag zu machen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok ritkák lehetnek.",
+          "Készítsen elő aprópénzt a buszjegyhez.",
+          "Kombinálja a buszozást rövid sétákkal, hogy a legtöbbet hozza ki a napból."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil, pentru a economisi bani.",
+          "Verificați orarele autobuzelor în avans, deoarece serviciile pot fi neregulate.",
+          "Aveți la îndemână mărunțiș pentru biletul de autobuz.",
+          "Combinați călătoriile cu autobuzul cu plimbări scurte pentru a profita la maximum de ziua dvs."
+        ],
+        "en": [
+          "Buy a day-pass for the bus if available to save money.",
+          "Check bus timetables in advance, as services can be infrequent.",
+          "Have small change ready for the bus fare.",
+          "Combine bus rides with short walks to make the most of your day."
+        ]
+      }
+    }
+  }
+}

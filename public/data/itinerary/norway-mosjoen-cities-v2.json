@@ -1,0 +1,984 @@
+{
+  "city_id": "norway-mosjoen-cities-v2",
+  "anchor": {
+    "name": "Mosjøen",
+    "coords": [
+      13.2,
+      65.83
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sjøgata Straße",
+            "hu": "Sjøgata utca",
+            "ro": "Strada Sjøgata",
+            "en": "Sjøgata Street"
+          },
+          "coords": [
+            13.205,
+            65.835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Holzhäuser aus dem 19. Jahrhundert. Viele kleine Läden und Cafés.",
+            "hu": "Csodálja meg a 19. századi faépületeket. Sok kis bolt és kávézó található itt.",
+            "ro": "Admirați casele de lemn din secolul al XIX-lea. Multe magazine mici și cafenele.",
+            "en": "Admire the 19th-century wooden houses. Lots of small shops and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fru Haugans Hotel",
+            "hu": "Fru Haugans Hotel",
+            "ro": "Hotelul Fru Haugans",
+            "en": "Fru Haugans Hotel"
+          },
+          "coords": [
+            13.202,
+            65.836
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das älteste Hotel Nordnorwegens. Werfen Sie einen Blick in die historische Lobby.",
+            "hu": "Észak-Norvégia legrégebbi szállodája. Vessen egy pillantást a történelmi előcsarnokba!",
+            "ro": "Cel mai vechi hotel din nordul Norvegiei. Aruncați o privire în holul istoric.",
+            "en": "The oldest hotel in Northern Norway. Take a peek into the historic lobby."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgeland Museum",
+            "hu": "Helgeland Múzeum",
+            "ro": "Muzeul Helgeland",
+            "en": "Helgeland Museum"
+          },
+          "coords": [
+            13.208,
+            65.834
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Kultur und Geschichte der Region Helgeland.",
+            "hu": "Ismerje meg a Helgeland régió helyi kultúráját és történelmét.",
+            "ro": "Aflați despre cultura locală și istoria regiunii Helgeland.",
+            "en": "Learn about the local culture and history of the Helgeland region."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolstad Kirche",
+            "hu": "Dolstad templom",
+            "ro": "Biserica Dolstad",
+            "en": "Dolstad Church"
+          },
+          "coords": [
+            13.195,
+            65.825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine achteckige Kirche aus dem Jahr 1735. Der Friedhof ist ebenfalls sehr stimmungsvoll.",
+            "hu": "Egy nyolcszögletű templom 1735-ből. A temetője is nagyon hangulatos.",
+            "ro": "O biserică octogonală datând din 1735. Cimitirul este, de asemenea, foarte atmosferic.",
+            "en": "An octagonal church from 1735. The cemetery is also very atmospheric."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Vefsna",
+            "hu": "Séta a Vefsna folyó mentén",
+            "ro": "Plimbare pe malul râului Vefsna",
+            "en": "Walk along the Vefsna River"
+          },
+          "coords": [
+            13.2,
+            65.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:04",
+          "stay_min": 120,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang mit Blick auf den Fluss und den Berg Øyfjellet.",
+            "hu": "Egy pihentető séta a folyóra és az Øyfjellet hegyre nyíló kilátással.",
+            "ro": "O plimbare relaxantă cu vedere la râu și la muntele Øyfjellet.",
+            "en": "A relaxing walk with views of the river and the Øyfjellet mountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mosjøen beginnt in der charmanten Sjøgata, dem historischen Herzen der Stadt. Am Vormittag erkunden Sie die alten Holzhäuser und das älteste Hotel Nordnorwegens. Gegen Mittag besuchen Sie das Helgeland Museum, um in die lokale Geschichte einzutauchen. Der Nachmittag führt Sie zur einzigartigen Dolstad Kirche und endet mit einem entspannten Spaziergang entlang des malerischen Flusses Vefsna, wo Sie die Ruhe und die Aussicht genießen.",
+        "hu": "A nap Mosjøenben a bájos Sjøgatán, a város történelmi szívében kezdődik. Délelőtt felfedezi a régi faházakat és Észak-Norvégia legrégebbi szállodáját. Dél körül ellátogat a Helgeland Múzeumba, hogy elmerüljön a helyi történelemben. A délután az egyedülálló Dolstad templomhoz vezet, és egy pihentető sétával zárul a festői Vefsna folyó mentén, ahol élvezheti a csendet és a kilátást.",
+        "ro": "Ziua dvs. în Mosjøen începe pe fermecătoarea Sjøgata, inima istorică a orașului. Dimineața explorați casele vechi de lemn și cel mai vechi hotel din nordul Norvegiei. În jurul prânzului, vizitați Muzeul Helgeland pentru a vă cufunda în istoria locală. După-amiaza vă duce la biserica unică Dolstad și se încheie cu o plimbare relaxantă de-a lungul pitorescului râu Vefsna, unde vă puteți bucura de liniște și de priveliște.",
+        "en": "Your day in Mosjøen starts on the charming Sjøgata, the historic heart of the town. In the morning, you'll explore the old wooden houses and Northern Norway's oldest hotel. Around noon, you'll visit the Helgeland Museum to delve into local history. The afternoon takes you to the unique Dolstad Church and concludes with a relaxing walk along the scenic Vefsna River, where you can enjoy the tranquility and the views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Laks (Lachs)",
+            "tip": "Probieren Sie frisch gefangenen Lachs aus dem Fluss Vefsna in einem der Restaurants entlang der Sjøgata."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lazac (Laks)",
+            "tip": "Kóstolja meg a Vefsna folyóból frissen fogott lazacot a Sjøgata egyik éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Somon (Laks)",
+            "tip": "Încercați somon proaspăt prins din râul Vefsna la unul dintre restaurantele de pe Sjøgata."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salmon (Laks)",
+            "tip": "Try freshly caught salmon from the Vefsna river at one of the restaurants along Sjøgata."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer der Vefsna",
+            "tip": "Finden Sie eine Bank am Flussufer und beobachten Sie das Wasser und die Lachsfischer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vefsna folyópart",
+            "tip": "Keressen egy padot a folyóparton, és figyelje a vizet és a lazachalászokat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Vefsna",
+            "tip": "Găsiți o bancă pe malul râului și priviți apa și pescarii de somon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vefsna Riverbank",
+            "tip": "Find a bench on the riverbank and watch the water and the salmon fishermen.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "In den kleinen Galerien in Sjøgata finden Sie einzigartige Souvenirs wie Keramik oder Strickwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "A Sjøgata kis galériáiban egyedi szuveníreket, például kerámiákat vagy kötöttárut talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "În micile galerii de pe Sjøgata veți găsi suveniruri unice, cum ar fi ceramică sau tricotaje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "In the small galleries on Sjøgata, you'll find unique souvenirs like ceramics or knitwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Eine Kamera ist ein Muss für die malerische Sjøgata.",
+          "Prüfen Sie die Öffnungszeiten des Museums im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A festői Sjøgatához elengedhetetlen a fényképezőgép.",
+          "Előre ellenőrizze a múzeum nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Un aparat foto este obligatoriu pentru pitoreasca Sjøgata.",
+          "Verificați în avans programul de funcționare al muzeului."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "A camera is a must for the picturesque Sjøgata.",
+          "Check the museum's opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sjøgata Straße",
+            "hu": "Sjøgata utca",
+            "ro": "Strada Sjøgata",
+            "en": "Sjøgata Street"
+          },
+          "coords": [
+            13.205,
+            65.835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der historischen Gebäude.",
+            "hu": "Kezdje a napot egy kávéval az egyik történelmi épületben.",
+            "ro": "Începeți ziua cu o cafea într-una dintre clădirile istorice.",
+            "en": "Start the day with a coffee in one of the historic buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgeland Museum",
+            "hu": "Helgeland Múzeum",
+            "ro": "Muzeul Helgeland",
+            "en": "Helgeland Museum"
+          },
+          "coords": [
+            13.208,
+            65.834
+          ],
+          "category": "museums",
+          "arrive_at": "10:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie die Ausstellungen zur regionalen Geschichte.",
+            "hu": "Parkolja le a kerékpárját, és fedezze fel a regionális történelmet bemutató kiállításokat.",
+            "ro": "Parcați-vă bicicleta și explorați expozițiile despre istoria regională.",
+            "en": "Park your bike and explore the exhibitions on regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolstad Kirche",
+            "hu": "Dolstad templom",
+            "ro": "Biserica Dolstad",
+            "en": "Dolstad Church"
+          },
+          "coords": [
+            13.195,
+            65.825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die achteckige Form dieser Kirche ist wirklich einzigartig in Norwegen.",
+            "hu": "Ennek a templomnak a nyolcszögletű formája valóban egyedülálló Norvégiában.",
+            "ro": "Forma octogonală a acestei biserici este cu adevărat unică în Norvegia.",
+            "en": "The octagonal shape of this church is truly unique in Norway."
+          }
+        },
+        {
+          "name": {
+            "de": "Entlang des Flusses Vefsna",
+            "hu": "A Vefsna folyó mentén",
+            "ro": "De-a lungul râului Vefsna",
+            "en": "Along the Vefsna River"
+          },
+          "coords": [
+            13.21,
+            65.842
+          ],
+          "category": "natural features",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang des Flusses, halten Sie an und machen Sie Fotos.",
+            "hu": "Élvezze a folyó menti utat, álljon meg és készítsen fényképeket.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul râului, opriți-vă pentru a face fotografii.",
+            "en": "Enjoy the ride along the river, stop to take pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Marsøra Erholungsgebiet",
+            "hu": "Marsøra üdülőterület",
+            "ro": "Zona de agrement Marsøra",
+            "en": "Marsøra Recreational Area"
+          },
+          "coords": [
+            13.215,
+            65.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:23",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick und eine lange Pause am Nachmittag.",
+            "hu": "Tökéletes hely egy piknikhez és egy hosszú délutáni szünethez.",
+            "ro": "Un loc perfect pentru un picnic și o pauză lungă de după-amiază.",
+            "en": "A perfect spot for a picnic and a long afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrradtour durch Mosjøen beginnt in der historischen Sjøgata. Von dort radeln Sie zum Helgeland Museum. Nach dem kulturellen Vormittag führt die Route Sie zur beeindruckenden Dolstad Kirche. Der Nachmittag ist einer malerischen Fahrt entlang des Flusses Vefsna gewidmet, die Sie zum Erholungsgebiet Marsøra führt. Hier können Sie sich entspannen, ein Picknick machen und die norwegische Natur genießen, bevor Sie den Tag ausklingen lassen.",
+        "hu": "A mosjøeni kerékpártúra a történelmi Sjøgatában kezdődik. Innen a Helgeland Múzeumhoz teker. A kulturális délelőtt után az útvonal a lenyűgöző Dolstad templomhoz vezet. A délutánt a festői Vefsna folyó menti kerékpározásnak szentelik, amely a Marsøra üdülőterületre visz. Itt pihenhet, piknikezhet és élvezheti a norvég természetet, mielőtt lezárná a napot.",
+        "ro": "Un tur cu bicicleta prin Mosjøen începe în istorica Sjøgata. De acolo, pedalați spre Muzeul Helgeland. După o dimineață culturală, traseul vă duce la impresionanta Biserică Dolstad. După-amiaza este dedicată unei plimbări pitorești de-a lungul râului Vefsna, care vă duce la zona de agrement Marsøra. Aici vă puteți relaxa, puteți face un picnic și vă puteți bucura de natura norvegiană înainte de a încheia ziua.",
+        "en": "A bike tour through Mosjøen starts in the historic Sjøgata. From there, you'll cycle to the Helgeland Museum. After a cultural morning, the route takes you to the impressive Dolstad Church. The afternoon is dedicated to a scenic ride along the Vefsna River, leading you to the Marsøra recreational area. Here you can relax, have a picnic, and enjoy the Norwegian nature before ending your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vafler (Waffeln)",
+            "tip": "Probieren Sie norwegische Waffeln mit Sauerrahm und Marmelade in einem Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vafler (gofri)",
+            "tip": "Kóstolja meg a norvég gofrit tejföllel és lekvárral egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vafe (Vafler)",
+            "tip": "Încercați vafele norvegiene cu smântână și gem la o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waffles (Vafler)",
+            "tip": "Try Norwegian waffles with sour cream and jam at a cafe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marsøra Strand",
+            "tip": "Ein ruhiger Ort, um die Füße im Sand zu vergraben und auf den Fjord zu blicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marsøra part",
+            "tip": "Csendes hely, ahol a homokba áshatja a lábát, és a fjordra nézhet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Marsøra",
+            "tip": "Un loc liniștit pentru a vă îngropa picioarele în nisip și a privi spre fiord.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marsøra Beach",
+            "tip": "A quiet place to dig your feet in the sand and look out at the fjord.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "In Mosjøen finden Sie gute Outdoor-Ausrüstung, falls Sie etwas für Ihre Abenteuer benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Mosjøenben jó minőségű outdoor felszereléseket találhat, ha szüksége van valamire a kalandjaihoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "În Mosjøen veți găsi echipament outdoor bun dacă aveți nevoie de ceva pentru aventurile dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports shops",
+            "tip": "You can find good outdoor equipment in Mosjøen if you need anything for your adventures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem lokalen Anbieter.",
+          "Nehmen Sie Wasser und Snacks für die Fahrt nach Marsøra mit.",
+          "Ein Helm wird dringend empfohlen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt egy helyi szolgáltatótól.",
+          "Vigyen magával vizet és harapnivalót a Marsørára vezető útra.",
+          "Sisak használata erősen ajánlott."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la un furnizor local.",
+          "Luați apă și gustări pentru drumul spre Marsøra.",
+          "O cască este foarte recomandată."
+        ],
+        "en": [
+          "Rent a bike from a local provider.",
+          "Bring water and snacks for the ride to Marsøra.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Sjøgata",
+            "hu": "Parkoló a központban és Sjøgata",
+            "ro": "Parcare Centru & Sjøgata",
+            "en": "Parking Downtown & Sjøgata"
+          },
+          "coords": [
+            13.206,
+            65.833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang durch die historische Sjøgata.",
+            "hu": "Parkoljon le itt, és kezdje a sétát a történelmi Sjøgatán.",
+            "ro": "Parcați aici și începeți plimbarea prin istorica Sjøgata.",
+            "en": "Park here and start your walk through the historic Sjøgata."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgeland Museum",
+            "hu": "Helgeland Múzeum",
+            "ro": "Muzeul Helgeland",
+            "en": "Helgeland Museum"
+          },
+          "coords": [
+            13.208,
+            65.834
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Parkplatz entfernt. Planen Sie genügend Zeit ein.",
+            "hu": "Csak egy rövid sétára a parkolótól. Tervezzen be elegendő időt.",
+            "ro": "La o scurtă plimbare de parcare. Acordați-vă suficient timp.",
+            "en": "Just a short walk from the parking lot. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolstad Kirche",
+            "hu": "Dolstad templom",
+            "ro": "Biserica Dolstad",
+            "en": "Dolstad Church"
+          },
+          "coords": [
+            13.195,
+            65.825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zur Kirche, es gibt Parkplätze in der Nähe.",
+            "hu": "Vezessen el a templomhoz, a közelben van parkoló.",
+            "ro": "Conduceți până la biserică, există parcare în apropiere.",
+            "en": "Drive to the church, there is parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis des Øyfjellet Berges",
+            "hu": "Az Øyfjellet hegy lába",
+            "ro": "Baza muntelui Øyfjellet",
+            "en": "Base of Øyfjellet Mountain"
+          },
+          "coords": [
+            13.184,
+            65.838
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den Ausgangspunkt der Wanderwege zu sehen.",
+            "hu": "Parkoljon le itt, hogy megnézze a túraútvonalak kiindulópontját.",
+            "ro": "Parcați aici pentru a vedea punctul de plecare al traseelor.",
+            "en": "Park here to see the starting point of the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgelandstrappa",
+            "hu": "Helgelandstrappa",
+            "ro": "Scara Helgelandstrappa",
+            "en": "Helgelandstrappa"
+          },
+          "coords": [
+            13.18,
+            65.838
+          ],
+          "category": "natural features",
+          "arrive_at": "13:02",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Wanderung. Gutes Schuhwerk ist unerlässlich.",
+            "hu": "Kihívást jelentő, de hálás túra. A jó lábbeli elengedhetetlen.",
+            "ro": "O drumeție provocatoare, dar plină de satisfacții. Încălțămintea bună este esențială.",
+            "en": "A challenging but rewarding hike. Good footwear is essential."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Marsøra",
+            "hu": "Marsøra kilátópont",
+            "ro": "Punct de belvedere Marsøra",
+            "en": "Marsøra Viewpoint"
+          },
+          "coords": [
+            13.215,
+            65.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss des Tages hierher, um die Aussicht auf den Fjord zu genießen.",
+            "hu": "A nap végén vezessen ide, hogy élvezze a fjordra nyíló kilátást.",
+            "ro": "Conduceți aici la sfârșitul zilei pentru a vă bucura de vederea fiordului.",
+            "en": "Drive here at the end of the day to enjoy the view of the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Mosjøen und Umgebung flexibel. Beginnen Sie im Zentrum mit einem Spaziergang durch Sjøgata und einem Besuch im Helgeland Museum. Danach fahren Sie zur historischen Dolstad Kirche. Der Nachmittag gehört dem Abenteuer: Sie fahren zum Fuß des Øyfjellet und erklimmen die berühmte Helgelandstrappa für atemberaubende Ausblicke. Den Tag lassen Sie entspannt am Aussichtspunkt Marsøra ausklingen, mit Blick über den Fjord.",
+        "hu": "Autóval rugalmasan fedezheti fel Mosjøent és környékét. Kezdje a központban egy sétával a Sjøgatán és egy látogatással a Helgeland Múzeumban. Ezután vezessen el a történelmi Dolstad templomhoz. A délután a kalandé: hajtson el az Øyfjellet lábához, és mássza meg a híres Helgelandstrappát a lélegzetelállító kilátásért. A napot pihenéssel zárja a Marsøra kilátópontnál, ahonnan a fjordra nyílik kilátás.",
+        "ro": "Cu mașina, explorați Mosjøen și împrejurimile sale în mod flexibil. Începeți în centru cu o plimbare prin Sjøgata și o vizită la Muzeul Helgeland. Apoi, conduceți la biserica istorică Dolstad. După-amiaza este pentru aventură: conduceți la poalele muntelui Øyfjellet și urcați faimoasa Helgelandstrappa pentru vederi uluitoare. Încheiați ziua relaxându-vă la punctul de belvedere Marsøra, cu vedere la fiord.",
+        "en": "With a car, you can explore Mosjøen and its surroundings flexibly. Start in the center with a walk through Sjøgata and a visit to the Helgeland Museum. Then, drive to the historic Dolstad Church. The afternoon is for adventure: drive to the base of Øyfjellet mountain and climb the famous Helgelandstrappa for breathtaking views. End the day relaxing at the Marsøra viewpoint, overlooking the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Hausgemachte Fleischklößchen, ein norwegischer Klassiker. Suchen Sie nach einem 'Kro' (Gasthaus) außerhalb des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kjøttkaker",
+            "tip": "Házias húsgombócok, egy norvég klasszikus. Keressen egy 'Kro'-t (fogadót) a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiftele (Kjøttkaker)",
+            "tip": "Chiftele de casă, un clasic norvegian. Căutați un 'Kro' (han) în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meatballs (Kjøttkaker)",
+            "tip": "Homemade meatballs, a Norwegian classic. Look for a 'Kro' (inn) outside the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Øyfjellet",
+            "tip": "Wenn Sie die Treppe schaffen, ist die Stille und die Aussicht auf dem Gipfel unbezahlbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Øyfjellet csúcsa",
+            "tip": "Ha felér a lépcsőn, a csend és a kilátás a csúcson megfizethetetlen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Øyfjellet",
+            "tip": "Dacă ajungeți sus pe scări, liniștea și priveliștea de pe vârf sunt de neprețuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Top of Øyfjellet",
+            "tip": "If you make it up the stairs, the silence and the view at the top are priceless.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf Ihren Fahrten Ausschau nach Schildern für 'Gårdsutsalg' (Hofverkauf) für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői boltok",
+            "tip": "Az utak mentén figyelje a 'Gårdsutsalg' (tanyasi bolt) táblákat a helyi termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți atenți la indicatoarele 'Gårdsutsalg' (vânzare la fermă) de pe drum pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Look out for 'Gårdsutsalg' (farm sale) signs on your drives for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Wettervorhersage, bevor Sie zur Helgelandstrappa aufbrechen.",
+          "Parkgebühren können im Zentrum anfallen.",
+          "Tankstellen sind außerhalb der Stadt seltener, also planen Sie voraus."
+        ],
+        "hu": [
+          "Ellenőrizze az időjárás-előrejelzést, mielőtt elindul a Helgelandstrappára.",
+          "A központban parkolási díjak merülhetnek fel.",
+          "A benzinkutak ritkábbak a városon kívül, ezért tervezzen előre."
+        ],
+        "ro": [
+          "Verificați prognoza meteo înainte de a porni spre Helgelandstrappa.",
+          "În centru se pot aplica taxe de parcare.",
+          "Benzinăriile sunt mai rare în afara orașului, așa că planificați din timp."
+        ],
+        "en": [
+          "Check the weather forecast before heading to Helgelandstrappa.",
+          "Parking fees may apply in the center.",
+          "Gas stations are less frequent outside the city, so plan ahead."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sjøgata Straße",
+            "hu": "Sjøgata utca",
+            "ro": "Strada Sjøgata",
+            "en": "Sjøgata Street"
+          },
+          "coords": [
+            13.205,
+            65.835
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, in der Nähe der zentralen Bushaltestelle.",
+            "hu": "Kezdje itt, a központi buszmegálló közelében.",
+            "ro": "Începeți de aici, aproape de stația centrală de autobuz.",
+            "en": "Start here, near the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Helgeland Museum",
+            "hu": "Helgeland Múzeum",
+            "ro": "Muzeul Helgeland",
+            "en": "Helgeland Museum"
+          },
+          "coords": [
+            13.208,
+            65.834
+          ],
+          "category": "museums",
+          "arrive_at": "10:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
+            "hu": "A központból könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily reachable on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolstad Kirche",
+            "hu": "Dolstad templom",
+            "ro": "Biserica Dolstad",
+            "en": "Dolstad Church"
+          },
+          "coords": [
+            13.195,
+            65.825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus Richtung Süden. Fragen Sie den Fahrer nach der besten Haltestelle.",
+            "hu": "Menjen egy helyi busszal dél felé. Kérdezze meg a sofőrt a legjobb megállóról.",
+            "ro": "Luați un autobuz local spre sud. Întrebați șoferul care este cea mai bună stație.",
+            "en": "Take a local bus south. Ask the driver for the best stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade Vefsna",
+            "hu": "Vefsna folyóparti sétány",
+            "ro": "Promenada râului Vefsna",
+            "en": "Vefsna River Promenade"
+          },
+          "coords": [
+            13.21,
+            65.842
+          ],
+          "category": "natural features",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zurück ins Zentrum und spazieren Sie von dort zum Fluss.",
+            "hu": "Menjen busszal vissza a központba, és onnan sétáljon le a folyóhoz.",
+            "ro": "Luați autobuzul înapoi în centru și mergeți pe jos până la râu de acolo.",
+            "en": "Take the bus back to the center and walk to the river from there."
+          }
+        },
+        {
+          "name": {
+            "de": "Marsøra Park",
+            "hu": "Marsøra park",
+            "ro": "Parcul Marsøra",
+            "en": "Marsøra Park"
+          },
+          "coords": [
+            13.215,
+            65.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 125,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein Bus Richtung Norden bringt Sie in die Nähe dieses schönen Erholungsgebiets.",
+            "hu": "Egy észak felé tartó busz elviszi Önt ennek a szép üdülőterületnek a közelébe.",
+            "ro": "Un autobuz spre nord vă va duce aproape de această zonă de agrement frumoasă.",
+            "en": "A bus heading north will take you near this beautiful recreational area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Mosjøen bequem mit den öffentlichen Verkehrsmitteln. Der Tag beginnt zu Fuß im Stadtzentrum mit Sjøgata und dem Helgeland Museum. Ein Bus bringt Sie dann zur historischen Dolstad Kirche. Am Nachmittag fahren Sie zurück ins Zentrum für einen Spaziergang am Fluss Vefsna, bevor Sie mit einem weiteren Bus zum weitläufigen Marsøra Park fahren, um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "Fedezze fel Mosjøent kényelmesen a tömegközlekedéssel. A nap gyalogosan kezdődik a városközpontban a Sjøgatával és a Helgeland Múzeummal. Ezután egy busz elviszi a történelmi Dolstad templomhoz. Délután visszautazik a központba egy sétára a Vefsna folyó mentén, mielőtt egy másik busszal a tágas Marsøra parkba menne, hogy a természetben fejezze be a napot.",
+        "ro": "Explorați Mosjøen confortabil cu transportul public. Ziua începe pe jos în centrul orașului cu Sjøgata și Muzeul Helgeland. Un autobuz vă va duce apoi la biserica istorică Dolstad. După-amiaza, vă întoarceți în centru pentru o plimbare pe malul râului Vefsna, înainte de a lua un alt autobuz spre parcul spațios Marsøra pentru a încheia ziua în natură.",
+        "en": "Explore Mosjøen comfortably using public transport. The day begins on foot in the city center with Sjøgata and the Helgeland Museum. A bus will then take you to the historic Dolstad Church. In the afternoon, you'll travel back to the center for a walk along the Vefsna River before taking another bus to the spacious Marsøra Park to end the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Ein klassischer norwegischer Hotdog, den man an Kiosken in der Nähe von Bushaltestellen findet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Klasszikus norvég hot dog, amelyet a buszmegállók közelében lévő kioszkokban talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian clasic, găsit la chioșcurile de lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pølse i lompe",
+            "tip": "A classic Norwegian hot dog, found at kiosks near bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof Dolstad",
+            "tip": "Der alte Friedhof neben der Kirche ist ein Ort der Stille und Reflexion.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dolstad temető",
+            "tip": "A templom melletti régi temető a csend és az elgondolkodás helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Dolstad",
+            "tip": "Vechiul cimitir de lângă biserică este un loc de liniște și reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dolstad Cemetery",
+            "tip": "The old cemetery next to the church is a place of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt-Snacks",
+            "tip": "Decken Sie sich in einem lokalen Supermarkt mit norwegischen Süßigkeiten wie 'Smash!' oder 'Kvikk Lunsj' für die Busfahrten ein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket rágcsálnivalók",
+            "tip": "Vásároljon be egy helyi szupermarketben norvég édességekből, mint a 'Smash!' vagy a 'Kvikk Lunsj' a buszutakra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de la supermarket",
+            "tip": "Aprovizionați-vă cu dulciuri norvegiene precum 'Smash!' sau 'Kvikk Lunsj' de la un supermarket local pentru călătoriile cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket snacks",
+            "tip": "Stock up on Norwegian sweets like 'Smash!' or 'Kvikk Lunsj' from a local supermarket for the bus rides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu sehen.",
+          "Seien Sie an den Haltestellen pünktlich, besonders in ländlicheren Gebieten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért.",
+          "Legyen pontos a megállókban, különösen a vidéki területeken."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Descărcați aplicația locală de transport public pentru orare în timp real.",
+          "Fiți punctuali la stații, mai ales în zonele mai rurale."
+        ],
+        "en": [
+          "Buy a day pass for the bus to save money.",
+          "Download the local public transport app for real-time schedules.",
+          "Be on time at the stops, especially in more rural areas."
+        ]
+      }
+    }
+  }
+}

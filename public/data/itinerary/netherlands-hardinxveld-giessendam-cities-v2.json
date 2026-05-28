@@ -1,0 +1,1471 @@
+{
+  "city_id": "netherlands-hardinxveld-giessendam-cities-v2",
+  "anchor": {
+    "name": "Hardinxveld-Giessendam",
+    "coords": [
+      4.831,
+      51.821
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus (Oude Raadhuis)",
+            "hu": "Régi Városháza (Oude Raadhuis)",
+            "ro": "Vechea Primărie (Oude Raadhuis)",
+            "en": "Old Town Hall (Oude Raadhuis)"
+          },
+          "coords": [
+            4.8315,
+            51.8225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle niederländische Architektur und die ruhige Atmosphäre des Platzes.",
+            "hu": "Csodálja meg a hagyományos holland építészetet és a tér nyugodt légkörét.",
+            "ro": "Admirați arhitectura tradițională olandeză și atmosfera liniștită a pieței.",
+            "en": "Admire the traditional Dutch architecture and the square's calm atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche (Gereformeerde Kerk)",
+            "hu": "Református templom (Gereformeerde Kerk)",
+            "ro": "Biserica Reformată (Gereformeerde Kerk)",
+            "en": "Reformed Church (Gereformeerde Kerk)"
+          },
+          "coords": [
+            4.833,
+            51.8235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die schlichte, aber eindrucksvolle Innenarchitektur, die für protestantische Kirchen typisch ist.",
+            "hu": "Figyelje meg az egyszerű, mégis lenyűgöző belső teret, amely jellemző a protestáns templomokra.",
+            "ro": "Observați interiorul simplu, dar impresionant, tipic bisericilor protestante.",
+            "en": "Note the simple yet impressive interior design, typical of Protestant churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De Koperen Knop",
+            "hu": "De Koperen Knop Múzeum",
+            "ro": "Muzeul De Koperen Knop",
+            "en": "Museum De Koperen Knop"
+          },
+          "coords": [
+            4.8355,
+            51.8248
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem historischen Bauernhaus und gibt Einblicke in das lokale Leben des 19. Jahrhunderts.",
+            "hu": "A múzeum egy történelmi parasztházban található, és bepillantást enged a 19. századi helyi életbe.",
+            "ro": "Muzeul este găzduit într-o fermă istorică și oferă o privire asupra vieții locale din secolul al XIX-lea.",
+            "en": "The museum is housed in a historic farmhouse, offering a glimpse into 19th-century local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang entlang des Flusses De Giessen",
+            "hu": "Séta a De Giessen folyó mentén",
+            "ro": "Plimbare de-a lungul râului De Giessen",
+            "en": "Stroll along De Giessen River"
+          },
+          "coords": [
+            4.838,
+            51.826
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein Mittagessen im Freien oder einfach nur, um die vorbeifahrenden Boote zu beobachten.",
+            "hu": "Ideális hely egy szabadtéri ebédhez vagy csak a csónakok nézegetéséhez.",
+            "ro": "Un loc ideal pentru un prânz în aer liber sau pur și simplu pentru a privi bărcile trecând.",
+            "en": "An ideal spot for an open-air lunch or just to watch the boats go by."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Hardinxveld-Giessendam",
+            "hu": "Hardinxveld-Giessendam vasútállomás",
+            "ro": "Gara Hardinxveld-Giessendam",
+            "en": "Station Hardinxveld-Giessendam"
+          },
+          "coords": [
+            4.832,
+            51.828
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Züge und die typische niederländische Bahnhofsarchitektur.",
+            "hu": "Figyelje a vonatokat és a jellegzetes holland állomásépítészetet.",
+            "ro": "Priviți trenurile și arhitectura tipică a gării olandeze.",
+            "en": "Observe the trains and the typical Dutch station architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterbus-Terminal",
+            "hu": "Vízibusz terminál",
+            "ro": "Terminalul Waterbus",
+            "en": "Waterbus Terminal"
+          },
+          "coords": [
+            4.828,
+            51.821
+          ],
+          "category": "port",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Von hier aus können Sie die Wasserbusse nach Dordrecht und Rotterdam sehen - eine tolle Aussicht auf den Fluss.",
+            "hu": "Innen láthatja a Dordrechtbe és Rotterdamba tartó vízibuszokat - nagyszerű kilátás nyílik a folyóra.",
+            "ro": "De aici puteți vedea autobuzele acvatice spre Dordrecht și Rotterdam - o priveliște minunată asupra râului.",
+            "en": "From here, you can see the waterbuses to Dordrecht and Rotterdam - a great river view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sliedrechtse Brug",
+            "hu": "Sliedrechti híd",
+            "ro": "Podul Sliedrechtse",
+            "en": "Sliedrechtse Brug"
+          },
+          "coords": [
+            4.815,
+            51.8205
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Sonnenuntergang über dem Wasser zu beobachten und die industrielle Landschaft zu fotografieren.",
+            "hu": "Szép hely a naplemente megtekintésére a víz felett és az ipari táj fotózására.",
+            "ro": "Un loc frumos pentru a privi apusul peste apă și pentru a fotografia peisajul industrial.",
+            "en": "A lovely spot to watch the sunset over the water and photograph the industrial landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen am Oude Raadhuis und der Gereformeerde Kerk. Am Vormittag tauchen Sie im Museum De Koperen Knop in die lokale Geschichte ein. Der Nachmittag ist für einen entspannten Spaziergang entlang des malerischen Flusses De Giessen reserviert, gefolgt von einem Blick auf die moderne Infrastruktur am Bahnhof und am Waterbus-Terminal. Beenden Sie Ihren Tag mit dem Panoramablick von der Sliedrechtse Brug bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a történelmi központban, a Régi Városházánál és a Református templomnál. Délelőtt merüljön el a helyi történelemben a De Koperen Knop Múzeumban. A délután a festői De Giessen folyó menti pihentető sétáé, majd a modern infrastruktúra megtekintése következik az állomáson és a vízi busz terminálon. A napot a Sliedrechti hídról nyíló panorámával zárja naplementekor.",
+        "ro": "Începeți ziua în inima istorică la Vechea Primărie și Biserica Reformată. Dimineața, scufundați-vă în istoria locală la Muzeul De Koperen Knop. După-amiaza este rezervată unei plimbări relaxante de-a lungul pitorescului râu De Giessen, urmată de o privire asupra infrastructurii moderne la gară și la terminalul de waterbus. Încheiați ziua cu vederea panoramică de pe podul Sliedrechtse la apus.",
+        "en": "Start your day in the historic heart at the Old Town Hall and the Reformed Church. In the morning, delve into local history at the De Koperen Knop Museum. The afternoon is for a relaxing stroll along the picturesque De Giessen river, followed by a look at modern infrastructure at the station and Waterbus terminal. End your day with the panoramic view from the Sliedrechtse Brug at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poffertjes",
+            "tip": "Probieren Sie diese kleinen, flauschigen Pfannkuchen mit Puderzucker und Butter."
+          },
+          {
+            "name": "Holländischer Hering",
+            "tip": "Wenn Sie mutig sind, probieren Sie einen 'broodje haring' von einem lokalen Fischstand."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Eine warme, frische Sirupwaffel ist der perfekte süße Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poffertjes",
+            "tip": "Kóstolja meg ezeket a kis, puha palacsintákat porcukorral és vajjal."
+          },
+          {
+            "name": "Holland hering",
+            "tip": "Ha bátor, próbáljon ki egy 'broodje haring'-ot egy helyi halárustól."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Egy meleg, friss szirupos ostya tökéletes édes falat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poffertjes",
+            "tip": "Încercați aceste clătite mici și pufoase cu zahăr pudră și unt."
+          },
+          {
+            "name": "Hering olandez",
+            "tip": "Dacă sunteți îndrăzneț, încercați un 'broodje haring' de la o tarabă locală de pește."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "O vafă caldă și proaspătă cu sirop este gustarea dulce perfectă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poffertjes",
+            "tip": "Try these small, fluffy pancakes with powdered sugar and butter."
+          },
+          {
+            "name": "Dutch Herring",
+            "tip": "If you're feeling adventurous, try a 'broodje haring' from a local fish stall."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "A warm, fresh syrup waffle is the perfect sweet snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses De Giessen",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die friedliche Wasserlandschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polderlandschaft am Stadtrand",
+            "tip": "Ein Spaziergang durch die weiten, flachen Felder bietet ultimative Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang an der Sliedrechtse Brug",
+            "tip": "Der weite Blick auf den Fluss bei Sonnenuntergang ist ein Moment der Besinnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Giessen folyó partja",
+            "tip": "Keressen egy csendes padot, és élvezze a békés vízi tájat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polder táj a város szélén",
+            "tip": "Séta a tágas, sík mezőkön keresztül teljes nyugalmat kínál.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Sliedrechti hídnál",
+            "tip": "A folyóra nyíló széles kilátás naplementekor az elmélkedés pillanata.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului De Giessen",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de peisajul acvatic pașnic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peisajul polder la marginea orașului",
+            "tip": "O plimbare prin câmpurile vaste și plate oferă o liniște supremă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus la podul Sliedrechtse",
+            "tip": "Priveliștea largă a râului la apus este un moment de reflecție.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of De Giessen River",
+            "tip": "Find a quiet bench and enjoy the peaceful waterscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Polder landscape on the outskirts",
+            "tip": "A walk through the vast, flat fields offers ultimate tranquility.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset at Sliedrechtse Brug",
+            "tip": "The wide river view at sunset is a moment of reflection.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Suchen Sie nach lokalen Käsesorten und frischen Produkten (prüfen Sie die Markttage)."
+          },
+          {
+            "name": "Museumsshop",
+            "tip": "Der Shop im De Koperen Knop bietet oft einzigartige, handwerklich hergestellte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi heti piac",
+            "tip": "Keressen helyi sajtokat és friss termékeket (ellenőrizze a piaci napokat)."
+          },
+          {
+            "name": "Múzeumi bolt",
+            "tip": "A De Koperen Knop boltja gyakran kínál egyedi, kézműves ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Căutați brânzeturi locale și produse proaspete (verificați zilele de piață)."
+          },
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Magazinul de la De Koperen Knop oferă adesea suveniruri unice, artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Weekly Market",
+            "tip": "Look for local cheeses and fresh produce (check for market days)."
+          },
+          {
+            "name": "Museum Shop",
+            "tip": "The shop at De Koperen Knop often has unique, artisanal souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine wiederverwendbare Wasserflasche ist nützlich.",
+          "Das Wetter kann sich schnell ändern, also packen Sie eine leichte Regenjacke ein.",
+          "Die meisten Einheimischen sprechen Englisch, aber ein 'dank u wel' (danke) wird geschätzt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy újrafelhasználható vizes palack hasznos.",
+          "Az időjárás gyorsan változhat, ezért csomagoljon egy könnyű esőkabátot.",
+          "A legtöbb helyi beszél angolul, de egy 'dank u wel' (köszönöm) értékelni fogják."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "O sticlă de apă reutilizabilă este utilă.",
+          "Vremea se poate schimba rapid, așa că împachetați o jachetă de ploaie ușoară.",
+          "Majoritatea localnicilor vorbesc engleză, dar un 'dank u wel' (mulțumesc) este apreciat."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A reusable water bottle is useful.",
+          "The weather can change quickly, so pack a light rain jacket.",
+          "Most locals speak English, but a 'dank u wel' (thank you) is appreciated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Polderlandschaft",
+            "hu": "Polder táj",
+            "ro": "Peisaj polder",
+            "en": "Polder Landscape"
+          },
+          "coords": [
+            4.855,
+            51.83
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer erfrischenden Radtour durch die ikonische, flache Landschaft.",
+            "hu": "Kezdje a napot egy frissítő kerékpártúrával az ikonikus, sík tájon.",
+            "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta prin peisajul plat, emblematic.",
+            "en": "Start the day with a refreshing bike ride through the iconic flat landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De Koperen Knop",
+            "hu": "De Koperen Knop Múzeum",
+            "ro": "Muzeul De Koperen Knop",
+            "en": "Museum De Koperen Knop"
+          },
+          "coords": [
+            4.8355,
+            51.8248
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie ein in die reiche Geschichte der Region.",
+            "hu": "Parkolja le a kerékpárját, és merüljön el a régió gazdag történelmében.",
+            "ro": "Parcați bicicleta și scufundați-vă în istoria bogată a regiunii.",
+            "en": "Park your bike and immerse yourself in the rich history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus (Oude Raadhuis)",
+            "hu": "Régi Városháza (Oude Raadhuis)",
+            "ro": "Vechea Primărie (Oude Raadhuis)",
+            "en": "Old Town Hall (Oude Raadhuis)"
+          },
+          "coords": [
+            4.8315,
+            51.8225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Mittagspause in einem der nahegelegenen Cafés.",
+            "hu": "Tökéletes hely egy ebédszünetre a közeli kávézók egyikében.",
+            "ro": "Un loc perfect pentru o pauză de prânz la una dintre cafenelele din apropiere.",
+            "en": "A perfect spot for a lunch break at one of the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses De Giessen",
+            "hu": "Kerékpározás a De Giessen folyó mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului De Giessen",
+            "en": "Ride along De Giessen River"
+          },
+          "coords": [
+            4.838,
+            51.826
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die malerische Route entlang des Wassers, die bei Radfahrern sehr beliebt ist.",
+            "hu": "Élvezze a festői útvonalat a víz mentén, amely nagyon népszerű a kerékpárosok körében.",
+            "ro": "Bucurați-vă de traseul pitoresc de-a lungul apei, foarte popular printre bicicliști.",
+            "en": "Enjoy the scenic route along the water, which is very popular with cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterbus-Terminal",
+            "hu": "Vízibusz terminál",
+            "ro": "Terminalul Waterbus",
+            "en": "Waterbus Terminal"
+          },
+          "coords": [
+            4.828,
+            51.821
+          ],
+          "category": "port",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Kommen und Gehen der Fähren. Ein Knotenpunkt der regionalen Wasserwege.",
+            "hu": "Figyelje a kompok jövés-menését. A regionális vízi utak csomópontja.",
+            "ro": "Urmăriți du-te-vino-ul feriboturilor. Un nod al căilor navigabile regionale.",
+            "en": "Watch the coming and going of the ferries. A hub of the regional waterways."
+          }
+        },
+        {
+          "name": {
+            "de": "Sliedrechtse Brug",
+            "hu": "Sliedrechti híd",
+            "ro": "Podul Sliedrechtse",
+            "en": "Sliedrechtse Brug"
+          },
+          "coords": [
+            4.815,
+            51.8205
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einem beeindruckenden Blick auf den Fluss und die Umgebung.",
+            "hu": "Fejezze be a kerékpártúrát a folyóra és a környékre nyíló lenyűgöző kilátással.",
+            "ro": "Încheiați-vă turul cu bicicleta cu o priveliște impresionantă a râului și a zonei înconjurătoare.",
+            "en": "End your bike tour with an impressive view of the river and the surrounding area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie aktiv mit einer Radtour durch die ruhige Polderlandschaft. Gegen Mittag erreichen Sie das kulturelle Zentrum mit dem Museum De Koperen Knop und dem Oude Raadhuis, perfekt für eine Mittagspause. Am Nachmittag folgen Sie dem malerischen Radweg entlang des Flusses De Giessen. Ihre Tour führt Sie dann zum geschäftigen Waterbus-Terminal und endet mit der weiten Aussicht von der Sliedrechtse Brug.",
+        "hu": "Kezdje aktívan a napot egy kerékpártúrával a nyugodt polder tájon. Dél körül éri el a kulturális központot a De Koperen Knop Múzeummal és a Régi Városházával, amely tökéletes egy ebédszünetre. Délután kövesse a festői kerékpárutat a De Giessen folyó mentén. A túra ezután a forgalmas vízi busz terminálhoz vezet, és a Sliedrechti hídról nyíló széles kilátással zárul.",
+        "ro": "Începeți activ cu un tur cu bicicleta prin peisajul liniștit al polderului. În jurul prânzului, ajungeți în centrul cultural cu Muzeul De Koperen Knop și Vechea Primărie, perfect pentru o pauză de prânz. După-amiaza, urmați pista pitorească de biciclete de-a lungul râului De Giessen. Turul vă duce apoi la terminalul aglomerat de waterbus și se încheie cu priveliștea panoramică de pe podul Sliedrechtse.",
+        "en": "Start actively with a bike ride through the serene polder landscape. Around noon, you'll reach the cultural center with the De Koperen Knop Museum and the Old Town Hall, perfect for a lunch break. In the afternoon, follow the scenic cycle path along the De Giessen river. Your tour then takes you to the busy Waterbus terminal and concludes with the wide view from the Sliedrechtse Brug."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Appeltaart",
+            "tip": "Ein Stück holländischer Apfelkuchen mit Schlagsahne gibt Energie für die Fahrt."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Frittierte Fischstücke, perfekt als schneller und herzhafter Snack am Wasser."
+          },
+          {
+            "name": "Frikandel",
+            "tip": "Ein typisch niederländischer schneller Imbiss, den man fast überall bekommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appeltaart",
+            "tip": "Egy szelet holland almatorta tejszínhabbal energiát ad a túrához."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Sült haldarabok, tökéletes gyors és kiadós harapnivaló a vízparton."
+          },
+          {
+            "name": "Frikandel",
+            "tip": "Egy tipikus holland gyorsétel, amelyet szinte bárhol kapni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Appeltaart",
+            "tip": "O felie de plăcintă olandeză cu mere și frișcă vă va da energie pentru plimbare."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Bucăți de pește prăjit, perfecte ca o gustare rapidă și consistentă lângă apă."
+          },
+          {
+            "name": "Frikandel",
+            "tip": "O gustare rapidă tipic olandeză pe care o puteți găsi aproape oriunde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Appeltaart",
+            "tip": "A slice of Dutch apple pie with whipped cream provides energy for the ride."
+          },
+          {
+            "name": "Kibbeling",
+            "tip": "Fried chunks of fish, perfect as a quick and savory snack by the water."
+          },
+          {
+            "name": "Frikandel",
+            "tip": "A typical Dutch fast-food snack you can get almost anywhere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg in der Polderlandschaft",
+            "tip": "Die Stille und Weite der Polder sind perfekt, um den Kopf freizubekommen.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Versteckte Bänke am De Giessen",
+            "tip": "Entlang des Flusses gibt es viele ruhige Plätze zum Ausruhen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Abendstimmung an der Brücke",
+            "tip": "Weniger überlaufen als am Tag, bietet die Brücke abends eine friedliche Atmosphäre.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a polder tájon",
+            "tip": "A polderek csendje és tágassága tökéletes a kikapcsolódásra.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Rejtett padok a De Giessen mentén",
+            "tip": "A folyó mentén számos csendes pihenőhely található.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Esti hangulat a hídnál",
+            "tip": "Este kevésbé zsúfolt, mint napközben, a híd békés légkört kínál.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete din peisajul polder",
+            "tip": "Liniștea și vastitatea polderelor sunt perfecte pentru a vă limpezi mintea.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Bănci ascunse de-a lungul De Giessen",
+            "tip": "Există multe locuri liniștite pentru a vă odihni de-a lungul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Atmosfera de seară la pod",
+            "tip": "Mai puțin aglomerat decât în timpul zilei, podul oferă o atmosferă pașnică seara.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycle path in the polder landscape",
+            "tip": "The silence and vastness of the polders are perfect for clearing your head.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Hidden benches along the De Giessen",
+            "tip": "There are many quiet spots to rest along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Evening mood at the bridge",
+            "tip": "Less crowded than during the day, the bridge offers a peaceful atmosphere in the evening.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Vielleicht finden Sie ein einzigartiges niederländisches Fahrradzubehör."
+          },
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie Ausschau nach Schildern für 'te koop' (zu verkaufen) auf Bauernhöfen für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Talán talál egy egyedi holland kerékpár-kiegészítőt."
+          },
+          {
+            "name": "Tanyasi boltok",
+            "tip": "Keresse a 'te koop' (eladó) táblákat a gazdaságokban friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Poate găsiți un accesoriu unic olandez pentru bicicletă."
+          },
+          {
+            "name": "Magazine la fermă",
+            "tip": "Fiți atenți la indicatoarele 'te koop' (de vânzare) la ferme pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicycle Shop",
+            "tip": "You might find a unique Dutch cycling accessory."
+          },
+          {
+            "name": "Farm Stalls",
+            "tip": "Look out for 'te koop' (for sale) signs at farms for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Die Niederlande sind windig, besonders in den Poldern. Seien Sie vorbereitet!",
+          "Fahrradwege sind heilig. Bleiben Sie auf Ihrer Spur und signalisieren Sie Ihre Absichten.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Hollandia szeles, különösen a poldereken. Készüljön fel!",
+          "A kerékpárutak szentek. Maradjon a sávjában, és jelezze szándékait.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállások esetén is."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a porni.",
+          "Olanda este vântoasă, mai ales în poldere. Fiți pregătiți!",
+          "Pistele de biciclete sunt sfinte. Rămâneți pe banda dvs. și semnalizați-vă intențiile.",
+          "Încuietăți-vă întotdeauna bine bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Check your tire pressure before setting off.",
+          "The Netherlands is windy, especially in the polders. Be prepared!",
+          "Bike paths are sacred. Stay in your lane and signal your intentions.",
+          "Always lock your bike securely, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 11.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Erkundung der Polderlandschaft",
+            "hu": "Parkolás és a Polder táj felfedezése",
+            "ro": "Parcare și explorare a peisajului polder",
+            "en": "Park & Explore the Polder Landscape"
+          },
+          "coords": [
+            4.858,
+            51.832
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie an den Stadtrand, parken Sie und machen Sie einen Spaziergang, um die einzigartige Landschaft zu erleben.",
+            "hu": "Vezessen a város szélére, parkoljon le, és tegyen egy sétát, hogy megtapasztalja az egyedülálló tájat.",
+            "ro": "Conduceți la marginea orașului, parcați și faceți o plimbare pentru a experimenta peisajul unic.",
+            "en": "Drive to the outskirts, park your car, and take a walk to experience the unique landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum: Parken",
+            "hu": "Központi Klaszter: Parkolás",
+            "ro": "Clusterul Central: Parcare",
+            "en": "Central Cluster: Parking"
+          },
+          "coords": [
+            4.836,
+            51.824
+          ],
+          "category": "parking",
+          "arrive_at": "10:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums und erkunden Sie den Rest des Zentrums zu Fuß.",
+            "hu": "Parkoljon a múzeum közelében, és fedezze fel a központ többi részét gyalog.",
+            "ro": "Parcați lângă muzeu și explorați restul centrului pe jos.",
+            "en": "Park near the museum and explore the rest of the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De Koperen Knop",
+            "hu": "De Koperen Knop Múzeum",
+            "ro": "Muzeul De Koperen Knop",
+            "en": "Museum De Koperen Knop"
+          },
+          "coords": [
+            4.8355,
+            51.8248
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Kultur und Geschichte. Planen Sie genügend Zeit ein.",
+            "hu": "Ismerje meg a helyi kultúrát és történelmet. Tervezzen elegendő időt.",
+            "ro": "Aflați despre cultura și istoria locală. Planificați suficient timp.",
+            "en": "Learn about the local culture and history. Allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus (Oude Raadhuis)",
+            "hu": "Régi Városháza (Oude Raadhuis)",
+            "ro": "Vechea Primărie (Oude Raadhuis)",
+            "en": "Old Town Hall (Oude Raadhuis)"
+          },
+          "coords": [
+            4.8315,
+            51.8225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Platz ist ideal für eine Mittagspause. Viele Restaurants und Cafés in der Nähe.",
+            "hu": "A tér ideális egy ebédszünetre. Sok étterem és kávézó található a közelben.",
+            "ro": "Piața este ideală pentru o pauză de prânz. Multe restaurante și cafenele în apropiere.",
+            "en": "The square is ideal for a lunch break. Many restaurants and cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche (Gereformeerde Kerk)",
+            "hu": "Református templom (Gereformeerde Kerk)",
+            "ro": "Biserica Reformată (Gereformeerde Kerk)",
+            "en": "Reformed Church (Gereformeerde Kerk)"
+          },
+          "coords": [
+            4.833,
+            51.8235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Rathausplatz. Bewundern Sie die Architektur.",
+            "hu": "Rövid séta a Városház tértől. Csodálja meg az építészetet.",
+            "ro": "O scurtă plimbare de la Piața Primăriei. Admirați arhitectura.",
+            "en": "A short walk from the town hall square. Admire the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Flussufer: Parken",
+            "hu": "Folyóparti Klaszter: Parkolás",
+            "ro": "Clusterul Malul Râului: Parcare",
+            "en": "Riverbank Cluster: Parking"
+          },
+          "coords": [
+            4.818,
+            51.82
+          ],
+          "category": "parking",
+          "arrive_at": "14:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Brücke für einen leichten Zugang zum Flussufer.",
+            "hu": "Parkoljon a híd közelében, hogy könnyen elérje a folyópartot.",
+            "ro": "Parcați lângă pod pentru acces ușor la malul râului.",
+            "en": "Park near the bridge for easy access to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Sliedrechtse Brug und Waterbus-Terminal",
+            "hu": "Sliedrechti híd és Vízibusz terminál",
+            "ro": "Podul Sliedrechtse și Terminalul Waterbus",
+            "en": "Sliedrechtse Brug & Waterbus Terminal"
+          },
+          "coords": [
+            4.815,
+            51.8205
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Brücke zum Terminal und genießen Sie die Aussicht auf den Schiffsverkehr.",
+            "hu": "Sétáljon a hídtól a terminálig, és élvezze a hajóforgalom látványát.",
+            "ro": "Plimbați-vă de la pod la terminal, bucurându-vă de priveliștea traficului naval.",
+            "en": "Walk from the bridge to the terminal, enjoying the views of the boat traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt in die Polder, um die Weite der niederländischen Landschaft zu erleben. Parken Sie Ihr Auto dann im Zentrum, um den ersten Cluster zu erkunden: das Museum De Koperen Knop, gefolgt von einem Mittagessen am Oude Raadhuis und einem Besuch der Kirche. Am Nachmittag fahren Sie zum zweiten Cluster am Flussufer. Parken Sie erneut und genießen Sie die Aussicht von der Sliedrechtse Brug und beobachten Sie die Boote am Waterbus-Terminal.",
+        "hu": "Kezdje a napot egy rövid autózással a polderekbe, hogy megtapasztalja a holland táj tágasságát. Ezután parkolja le autóját a központban, hogy felfedezze az első klasztert: a De Koperen Knop Múzeumot, majd ebédeljen a Régi Városházánál és látogasson el a templomba. Délután vezessen a második, folyóparti klaszterhez. Parkoljon le újra, és élvezze a kilátást a Sliedrechti hídról, és nézze a hajókat a vízi busz terminálnál.",
+        "ro": "Începeți ziua cu o scurtă călătorie cu mașina în poldere pentru a experimenta vastitatea peisajului olandez. Apoi, parcați mașina în centru pentru a explora primul cluster: Muzeul De Koperen Knop, urmat de prânz la Vechea Primărie și o vizită la biserică. După-amiaza, conduceți spre al doilea cluster de pe malul râului. Parcați din nou și bucurați-vă de priveliștea de pe podul Sliedrechtse și priviți bărcile de la terminalul Waterbus.",
+        "en": "Start your day with a short drive to the polders to experience the vastness of the Dutch landscape. Then park your car in the center to explore the first cluster: the De Koperen Knop Museum, followed by lunch at the Old Town Hall and a visit to the church. In the afternoon, drive to the second cluster on the riverbank. Park again and enjoy the view from the Sliedrechtse Brug and watch the boats at the Waterbus terminal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Ein herzhaftes Mittagessen: Brot mit Schinken, Käse und Spiegeleiern."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Ein klassisches niederländisches Gebäck, das man in Bäckereien im Zentrum findet."
+          },
+          {
+            "name": "Restaurant am Wasser",
+            "tip": "Suchen Sie ein Restaurant mit Blick auf den Fluss für ein stimmungsvolles Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Kiadós ebéd: kenyér sonkával, sajttal és tükörtojással."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Klasszikus holland sütemény, amelyet a központi pékségekben talál."
+          },
+          {
+            "name": "Vízparti étterem",
+            "tip": "Keressen egy folyóra néző éttermet egy hangulatos vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uitsmijter",
+            "tip": "Un prânz copios: pâine cu șuncă, brânză și ouă ochiuri."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "Un produs de patiserie olandez clasic, găsit în brutăriile din centru."
+          },
+          {
+            "name": "Restaurant pe malul apei",
+            "tip": "Căutați un restaurant cu vedere la râu pentru o cină atmosferică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uitsmijter",
+            "tip": "A hearty lunch: bread with ham, cheese, and fried eggs."
+          },
+          {
+            "name": "Tompouce",
+            "tip": "A classic Dutch pastry found in bakeries in the center."
+          },
+          {
+            "name": "Waterfront Restaurant",
+            "tip": "Look for a restaurant with a river view for an atmospheric dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang in der Polderlandschaft",
+            "tip": "Die Stille hier ist ein starker Kontrast zum geschäftigen Leben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kirchhof der Gereformeerde Kerk",
+            "tip": "Ein oft übersehener, ruhiger Ort im Zentrum.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Blick von der Sliedrechtse Brug",
+            "tip": "Schauen Sie dem Wasser zu, wie es unter Ihnen fließt.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a polder tájon",
+            "tip": "Az itteni csend éles ellentétben áll a nyüzsgő élettel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A református templom kertje",
+            "tip": "Gyakran figyelmen kívül hagyott, csendes hely a központban.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kilátás a Sliedrechti hídról",
+            "tip": "Nézze, ahogy a víz áramlik Ön alatt.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în peisajul polder",
+            "tip": "Liniștea de aici contrastează puternic cu viața aglomerată.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea Bisericii Reformate",
+            "tip": "Un loc liniștit, adesea trecut cu vederea, în centru.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Priveliște de pe podul Sliedrechtse",
+            "tip": "Priviți apa curgând sub dumneavoastră.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk in the Polder Landscape",
+            "tip": "The silence here is a stark contrast to busy life.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Churchyard of the Reformed Church",
+            "tip": "An often-overlooked quiet spot in the center.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "View from Sliedrechtse Brug",
+            "tip": "Watch the water flow beneath you.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Käseladen",
+            "tip": "Kaufen Sie authentischen Gouda oder andere niederländische Käsesorten."
+          },
+          {
+            "name": "Lokale Kunstgalerie",
+            "tip": "Möglicherweise finden Sie Kunst, die von der Flusslandschaft inspiriert ist."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sajtbolt",
+            "tip": "Vásároljon autentikus Gouda sajtot vagy más holland sajtokat."
+          },
+          {
+            "name": "Helyi művészeti galéria",
+            "tip": "Talán talál a folyami táj által inspirált művészetet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de brânzeturi",
+            "tip": "Cumpărați Gouda autentică sau alte brânzeturi olandeze."
+          },
+          {
+            "name": "Galerie de artă locală",
+            "tip": "Ați putea găsi artă inspirată de peisajul fluvial."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cheese Shop",
+            "tip": "Buy some authentic Gouda or other Dutch cheeses."
+          },
+          {
+            "name": "Local Art Gallery",
+            "tip": "You might find art inspired by the river landscape."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Parkvorschriften und -gebühren. In den Niederlanden wird streng kontrolliert.",
+          "Ein GPS ist unerlässlich, um sich auf den lokalen Straßen zurechtzufinden.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere zu Stoßzeiten.",
+          "Kombinieren Sie die Autofahrt mit kurzen Spaziergängen, um das Beste aus Ihrem Besuch zu machen."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási szabályokat és díjakat. Hollandiában szigorúan ellenőrzik.",
+          "A GPS elengedhetetlen a helyi utakon való tájékozódáshoz.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Kombinálja az autózást rövid sétákkal, hogy a legtöbbet hozza ki a látogatásból."
+        ],
+        "ro": [
+          "Verificați regulile și taxele de parcare. Aplicarea este strictă în Olanda.",
+          "Un GPS este esențial pentru a naviga pe drumurile locale.",
+          "Planificați timp suplimentar pentru trafic, în special în orele de vârf.",
+          "Combinați condusul cu plimbări scurte pentru a profita la maximum de vizita dvs."
+        ],
+        "en": [
+          "Check parking regulations and fees. Enforcement is strict in the Netherlands.",
+          "A GPS is essential for navigating the local roads.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "Combine driving with short walks to get the most out of your visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Hardinxveld-Giessendam",
+            "hu": "Érkezés a Hardinxveld-Giessendam vasútállomásra",
+            "ro": "Sosire la Gara Hardinxveld-Giessendam",
+            "en": "Arrival at Station Hardinxveld-Giessendam"
+          },
+          "coords": [
+            4.832,
+            51.828
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag hier. Der Bahnhof ist gut an das regionale Netz angebunden.",
+            "hu": "Kezdje itt a napját. Az állomás jó összeköttetéssel rendelkezik a regionális hálózattal.",
+            "ro": "Începeți-vă ziua aici. Gara este bine conectată la rețeaua regională.",
+            "en": "Start your day here. The station is well-connected to the regional network."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus (Oude Raadhuis)",
+            "hu": "Régi Városháza (Oude Raadhuis)",
+            "ro": "Vechea Primărie (Oude Raadhuis)",
+            "en": "Old Town Hall (Oude Raadhuis)"
+          },
+          "coords": [
+            4.8315,
+            51.8225
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof führt Sie ins historische Zentrum.",
+            "hu": "Az állomástól egy rövid sétával eljuthat a történelmi központba.",
+            "ro": "O scurtă plimbare de la gară vă va duce în centrul istoric.",
+            "en": "A short walk from the station takes you to the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum De Koperen Knop",
+            "hu": "De Koperen Knop Múzeum",
+            "ro": "Muzeul De Koperen Knop",
+            "en": "Museum De Koperen Knop"
+          },
+          "coords": [
+            4.8355,
+            51.8248
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nach dem Rathaus ist das Museum der nächste Halt in Ihrem fußläufigen Cluster.",
+            "hu": "A Városháza után a múzeum a következő megálló a gyalogos klaszterben.",
+            "ro": "După primărie, muzeul este următoarea oprire în clusterul dvs. pietonal.",
+            "en": "After the town hall, the museum is the next stop in your walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am De Giessen und Mittagessen",
+            "hu": "Séta a De Giessen mentén és ebéd",
+            "ro": "Plimbare pe De Giessen și prânz",
+            "en": "Stroll on De Giessen & Lunch"
+          },
+          "coords": [
+            4.838,
+            51.826
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Finden Sie ein schönes Plätzchen am Fluss für Ihr Mittagessen.",
+            "hu": "Keressen egy szép helyet a folyóparton az ebédhez.",
+            "ro": "Găsiți un loc frumos pe malul râului pentru prânz.",
+            "en": "Find a nice spot by the river for your lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterbus zum Sliedrechtse Brug",
+            "hu": "Vízibusszal a Sliedrechti hídhoz",
+            "ro": "Waterbus spre Podul Sliedrechtse",
+            "en": "Waterbus to Sliedrechtse Brug"
+          },
+          "coords": [
+            4.828,
+            51.821
+          ],
+          "category": "port",
+          "arrive_at": "13:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Waterbus für eine malerische Fahrt zum nächsten Cluster.",
+            "hu": "Menjen a Vízibusszal egy festői útra a következő klaszterhez.",
+            "ro": "Luați Waterbus-ul pentru o călătorie pitorească spre următorul cluster.",
+            "en": "Take the Waterbus for a scenic journey to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Sliedrechtse Brug Aussichtspunkt",
+            "hu": "Sliedrechti híd kilátó",
+            "ro": "Punct de vedere Podul Sliedrechtse",
+            "en": "Sliedrechtse Brug Viewpoint"
+          },
+          "coords": [
+            4.815,
+            51.8205
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht. Ein toller Abschluss für Ihren Ausflug.",
+            "hu": "Élvezze a széles kilátást. Nagyszerű befejezése a kirándulásnak.",
+            "ro": "Bucurați-vă de priveliștea panoramică. Un final excelent pentru excursia dvs.",
+            "en": "Enjoy the wide view. A great end to your trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Bahnhof. Von dort aus erkunden Sie den ersten fußläufigen Cluster: das historische Rathaus, das Museum De Koperen Knop und ein entspanntes Mittagessen am Fluss De Giessen. Am Nachmittag bringt Sie der Waterbus, Ihr Hauptverkehrsmittel, zum zweiten Cluster. Ein kurzer Spaziergang führt Sie zur Sliedrechtse Brug, wo Sie den Tag mit einer beeindruckenden Aussicht auf den Fluss ausklingen lassen.",
+        "hu": "A nap az állomáson kezdődik. Onnan fedezi fel az első gyalogos klasztert: a történelmi városházát, a De Koperen Knop Múzeumot és egy pihentető ebédet a De Giessen folyó partján. Délután a Waterbus, a fő közlekedési eszköze, elviszi a második klaszterhez. Egy rövid séta elvezeti a Sliedrechti hídhoz, ahol a folyóra nyíló lenyűgöző kilátással zárja a napot.",
+        "ro": "Ziua dvs. începe la gară. De acolo, explorați primul cluster pietonal: primăria istorică, Muzeul De Koperen Knop și un prânz relaxant pe malul râului De Giessen. După-amiaza, Waterbus-ul, principalul dvs. mijloc de transport, vă duce la al doilea cluster. O scurtă plimbare vă conduce la podul Sliedrechtse, unde încheiați ziua cu o priveliște impresionantă a râului.",
+        "en": "Your day starts at the train station. From there, you explore the first walking cluster: the historic town hall, the De Koperen Knop Museum, and a relaxing lunch by the De Giessen river. In the afternoon, the Waterbus, your main transit hop, takes you to the second cluster. A short walk leads you to the Sliedrechtse Brug, where you end the day with an impressive river view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Ein klassischer niederländischer Snack für unterwegs, erhältlich in vielen Snackbars."
+          },
+          {
+            "name": "Pannekoeken",
+            "tip": "Besuchen Sie ein Pfannkuchenhaus für eine süße oder herzhafte Mahlzeit."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Fragen Sie in einem Café nach einem regionalen Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "Klasszikus holland úti snack, sok büfében kapható."
+          },
+          {
+            "name": "Pannekoeken",
+            "tip": "Látogasson el egy palacsintázóba egy édes vagy sós ételért."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kérjen egy regionális sört egy kávézóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "O gustare olandeză clasică pentru drum, disponibilă la multe snack-baruri."
+          },
+          {
+            "name": "Pannekoeken",
+            "tip": "Vizitați o casă de clătite pentru o masă dulce sau sărată."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Cereți o bere regională la o cafenea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Broodje Kroket",
+            "tip": "A classic Dutch on-the-go snack, available at many snack bars."
+          },
+          {
+            "name": "Pannekoeken",
+            "tip": "Visit a pancake house for a sweet or savory meal."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Ask for a regional beer at a café."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zugfahrt durch die Landschaft",
+            "tip": "Die Fahrt selbst kann entspannend sein, mit Blick auf die Polder.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Waterbus-Fahrt",
+            "tip": "Auf dem Wasser zu sein, hat eine beruhigende Wirkung.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Ufer des De Giessen",
+            "tip": "Ein perfekter Ort, um dem Trubel zu entfliehen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vonatozás a tájon keresztül",
+            "tip": "Maga az utazás is pihentető lehet, kilátással a polderekre.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Utazás a vízi busszal",
+            "tip": "A vízen lenni nyugtató hatású.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "De Giessen partja",
+            "tip": "Tökéletes hely a nyüzsgés elől való menekülésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu trenul prin peisaj",
+            "tip": "Călătoria în sine poate fi relaxantă, cu vedere la poldere.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Călătoria cu Waterbus",
+            "tip": "A fi pe apă are un efect calmant.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Malurile râului De Giessen",
+            "tip": "Un loc perfect pentru a evada din agitație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Train ride through the landscape",
+            "tip": "The journey itself can be relaxing, with views of the polders.",
+            "emoji": "🚆"
+          },
+          {
+            "name": "Waterbus ride",
+            "tip": "Being on the water has a calming effect.",
+            "emoji": "⛴️"
+          },
+          {
+            "name": "Banks of the De Giessen",
+            "tip": "A perfect spot to escape the hustle and bustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofskiosk",
+            "tip": "Holen Sie sich eine Zeitschrift oder einen Snack für die Reise."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Rathauses",
+            "tip": "Stöbern Sie in den kleinen Läden rund um den zentralen Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomási kioszk",
+            "tip": "Vegyen egy magazint vagy harapnivalót az útra."
+          },
+          {
+            "name": "Boltok a Városháza közelében",
+            "tip": "Böngésszen a központi tér körüli kis üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Luați o revistă sau o gustare pentru călătorie."
+          },
+          {
+            "name": "Magazine lângă Primărie",
+            "tip": "Răsfoiți micile magazine din jurul pieței centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Grab a magazine or a snack for the journey."
+          },
+          {
+            "name": "Shops near the Town Hall",
+            "tip": "Browse the small shops around the central square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine OV-chipkaart oder prüfen Sie die Ticketoptionen für Züge und Waterbusse.",
+          "Laden Sie die Fahrplan-Apps herunter, um Verspätungen zu vermeiden.",
+          "Die meisten Bahnhöfe haben Schließfächer, falls Sie Gepäck aufbewahren müssen.",
+          "Beachten Sie die Stoßzeiten im öffentlichen Nahverkehr."
+        ],
+        "hu": [
+          "Vásároljon egy OV-chipkaart-ot, vagy ellenőrizze a jegyopciókat a vonatokra és a vízi buszokra.",
+          "Töltse le a menetrendi alkalmazásokat a késések elkerülése érdekében.",
+          "A legtöbb állomáson vannak csomagmegőrzők, ha csomagot kell tárolnia.",
+          "Vegye figyelembe a csúcsidőt a tömegközlekedésben."
+        ],
+        "ro": [
+          "Cumpărați un OV-chipkaart sau verificați opțiunile de bilete pentru trenuri și waterbus.",
+          "Descărcați aplicațiile de orare pentru a evita întârzierile.",
+          "Majoritatea gărilor au dulapuri dacă trebuie să depozitați bagaje.",
+          "Fiți conștienți de orele de vârf în transportul public."
+        ],
+        "en": [
+          "Buy an OV-chipkaart or check ticket options for trains and waterbuses.",
+          "Download the timetable apps to avoid delays.",
+          "Most stations have lockers if you need to store luggage.",
+          "Be aware of peak hours on public transport."
+        ]
+      }
+    }
+  }
+}

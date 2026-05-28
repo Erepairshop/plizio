@@ -1,0 +1,1484 @@
+{
+  "city_id": "gardony",
+  "anchor": {
+    "name": "Gárdony",
+    "coords": [
+      18.6167,
+      47.1978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gárdonyi Géza Gedenkhaus",
+            "hu": "Gárdonyi Géza Emlékház",
+            "ro": "Casa Memorială Gárdonyi Géza",
+            "en": "Gárdonyi Géza Memorial House"
+          },
+          "coords": [
+            18.6085,
+            47.1945
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie sich die persönlichen Gegenstände des Autors von 'Sterne von Eger' an.",
+            "hu": "Nézd meg az 'Egri csillagok' szerzőjének személyes tárgyait.",
+            "ro": "Vedeți obiectele personale ale autorului romanului 'Stelele din Eger'.",
+            "en": "See the personal belongings of the author of 'Eclipse of the Crescent Moon'."
+          }
+        },
+        {
+          "name": {
+            "de": "Freistrand von Gárdony",
+            "hu": "Gárdonyi Szabadstrand",
+            "ro": "Plaja publică din Gárdony",
+            "en": "Gárdony Public Beach"
+          },
+          "coords": [
+            18.6181,
+            47.1969
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für ein morgendliches Bad oder einfach nur zum Entspannen am Ufer.",
+            "hu": "Ideális hely egy reggeli úszáshoz vagy csak pihenni a parton.",
+            "ro": "Un loc ideal pentru o baie de dimineață sau pur și simplu pentru a vă relaxa pe mal.",
+            "en": "An ideal spot for a morning swim or just relaxing by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierte Kirche Agárd",
+            "hu": "Agárdi Református Templom",
+            "ro": "Biserica Reformată din Agárd",
+            "en": "Reformed Church of Agárd"
+          },
+          "coords": [
+            18.5866,
+            47.1925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche, perfekt für einen Moment der Ruhe.",
+            "hu": "Egy bájos kis templom, tökéletes egy pillanatnyi csendre.",
+            "ro": "O biserică mică și fermecătoare, perfectă pentru un moment de liniște.",
+            "en": "A charming little church, perfect for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Agárd",
+            "hu": "Agárdi Gyógy- és Termálfürdő",
+            "ro": "Băile Termale Agárd",
+            "en": "Agárd Thermal Spa"
+          },
+          "coords": [
+            18.5811,
+            47.1912
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Heilwasser ist berühmt für seine therapeutischen Eigenschaften.",
+            "hu": "A gyógyvíz híres a terápiás tulajdonságairól.",
+            "ro": "Apa medicinală este renumită pentru proprietățile sale terapeutice.",
+            "en": "The medicinal water is famous for its therapeutic properties."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelwarte Madárvárta",
+            "hu": "Madárvárta",
+            "ro": "Observatorul de păsări Madárvárta",
+            "en": "Madárvárta Bird Watching Tower"
+          },
+          "coords": [
+            18.5583,
+            47.2021
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die reiche Vogelwelt des Sees zu beobachten.",
+            "hu": "Hozz magaddal távcsövet, hogy megfigyelhesd a tó gazdag madárvilágát.",
+            "ro": "Aduceți un binoclu pentru a observa bogata avifaună a lacului.",
+            "en": "Bring binoculars to observe the lake's rich birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am See",
+            "hu": "Vacsora a tónál",
+            "ro": "Cină pe malul lacului",
+            "en": "Dinner by the Lake"
+          },
+          "coords": [
+            18.6215,
+            47.2011
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang bei einem köstlichen Abendessen mit Seeblick.",
+            "hu": "Élvezd a naplementét egy finom, tóparti vacsora mellett.",
+            "ro": "Bucurați-vă de apus cu o cină delicioasă cu vedere la lac.",
+            "en": "Enjoy the sunset with a delicious dinner overlooking the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit Kultur im Gárdonyi Géza Gedenkhaus. Spazieren Sie dann zum Freistrand für etwas Entspannung am Morgen. Nach dem Mittagessen führt Sie ein längerer Spaziergang nach Agárd, um die Kirche und das berühmte Thermalbad zu entdecken. Der Nachmittag ist der Natur gewidmet, mit Vogelbeobachtung am Madárvárta-Turm. Beenden Sie den Tag mit einem köstlichen Abendessen, während Sie den Sonnenuntergang über dem Velencer See beobachten.",
+        "hu": "Kezdje a napot kultúrával a Gárdonyi Géza Emlékházban. Sétáljon át a szabadstrandra egy kis reggeli pihenésért. Ebéd után egy hosszabb séta vezet Agárdra, ahol felfedezheti a templomot és a híres termálfürdőt. A délután a természeté, madármegfigyeléssel a Madárvártánál. Zárja a napot egy finom vacsorával, miközben a naplementét nézi a Velencei-tó felett.",
+        "ro": "Începeți ziua cu cultură la Casa Memorială Gárdonyi Géza. Plimbați-vă apoi la plaja publică pentru relaxare de dimineață. După prânz, o plimbare mai lungă vă va duce la Agárd pentru a descoperi biserica și faimosul spa termal. După-amiaza este dedicată naturii, cu observarea păsărilor la turnul Madárvárta. Încheiați ziua cu o cină delicioasă, privind apusul peste lacul Velence.",
+        "en": "Start your day with culture at the Gárdonyi Géza Memorial House. Then, stroll to the public beach for some morning relaxation. After lunch, a longer walk will take you to Agárd to discover the church and the famous thermal spa. The afternoon is dedicated to nature, with bird watching at the Madárvárta tower. End your day with a delicious dinner watching the sunset over Lake Velence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Ein lokaler Fisch, den man in vielen Restaurants am See findet."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack am Strand, oft mit Käse und Sauerrahm serviert."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Probieren Sie eine authentische Gulaschsuppe in einem traditionellen Csárda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült süllő",
+            "tip": "Helyi halfajta, amit számos tóparti étteremben megtalálsz."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A tökéletes strand-snack, gyakran sajttal és tejföllel tálalva."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Kóstolj meg egy autentikus gulyáslevest egy hagyományos csárdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "Un pește local găsit în multe restaurante de pe malul lacului."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă pe plajă, adesea servită cu brânză și smântână."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Încercați o supă gulaș autentică într-o csárda tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Zander",
+            "tip": "A local fish found in many lakeside restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "The perfect beach snack, often served with cheese and sour cream."
+          },
+          {
+            "name": "Goulash",
+            "tip": "Try an authentic goulash soup in a traditional csárda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelwarte Madárvárta",
+            "tip": "Ein ruhiger Ort, um die Geräusche der Natur zu genießen.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Ufer des Velencer Sees bei Sonnenuntergang",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie die Farben den Himmel malen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Reformierten Kirche Agárd",
+            "tip": "Ein friedlicher, abgeschiedener Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárvárta",
+            "tip": "Csendes hely, ahol élvezheted a természet hangjait.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Velencei-tó partja naplementekor",
+            "tip": "Keress egy csendes padot, és nézd, ahogy a színek átfestik az eget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agárdi Református Templom kertje",
+            "tip": "Békés, eldugott hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul de păsări Madárvárta",
+            "tip": "Un loc liniștit pentru a vă bucura de sunetele naturii.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Malul lacului Velence la apus",
+            "tip": "Găsiți o bancă liniștită și priviți cum culorile pictează cerul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Bisericii Reformate din Agárd",
+            "tip": "Un loc pașnic și retras.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madárvárta Bird Watching Tower",
+            "tip": "A quiet place to enjoy the sounds of nature.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Shore of Lake Velence at sunset",
+            "tip": "Find a quiet bench and watch the colors paint the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Agárd Reformed Church",
+            "tip": "A peaceful, secluded spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden am Velence-Korzó",
+            "tip": "Finden Sie Erinnerungsstücke an Ihren Besuch am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok a Velencei Korzón",
+            "tip": "Találj emléktárgyakat a tónál tett látogatásodról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri pe Velence Korzó",
+            "tip": "Găsiți amintiri ale vizitei dumneavoastră la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops on Velence Korzó",
+            "tip": "Find mementos of your visit to the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Badekleidung und ein Handtuch für den Strand und das Thermalbad mit.",
+          "Eine wiederverwendbare Wasserflasche ist eine gute Idee, um hydriert zu bleiben.",
+          "Prüfen Sie die Öffnungszeiten der Emlékház und des Thermalbads im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert sokat fogsz sétálni.",
+          "Hozz magaddal fürdőruhát és törölközőt a strandhoz és a termálfürdőhöz.",
+          "Egy újratölthető vizes palack jó ötlet a hidratáltság megőrzéséhez.",
+          "Előre ellenőrizd az Emlékház és a termálfürdő nyitvatartási idejét."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Luați un costum de baie și un prosop pentru plajă și spa-ul termal.",
+          "O sticlă de apă reutilizabilă este o idee bună pentru a rămâne hidratat.",
+          "Verificați în avans orele de program ale casei memoriale și ale spa-ului termal."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot.",
+          "Bring a swimsuit and a towel for the beach and the thermal spa.",
+          "A reusable water bottle is a good idea to stay hydrated.",
+          "Check the opening hours of the Memorial House and the thermal spa in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 25.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Militär-Gedenkpark Pákozd",
+            "hu": "Katonai Emlékpark Pákozd",
+            "ro": "Parcul Memorial Militar Pákozd",
+            "en": "Pákozd Military Memorial Park"
+          },
+          "coords": [
+            18.5292,
+            47.2215
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte, das der ungarischen Armee gewidmet ist.",
+            "hu": "Történelem iránt érdeklődőknek kötelező, a magyar hadseregnek szentelve.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie, dedicată armatei maghiare.",
+            "en": "A must-visit for history enthusiasts, dedicated to the Hungarian army."
+          }
+        },
+        {
+          "name": {
+            "de": "Chernel-István-Vogelschutzzentrum",
+            "hu": "Chernel István Madárvárta",
+            "ro": "Centrul Ornitologic Chernel István",
+            "en": "Chernel István Bird Sanctuary"
+          },
+          "coords": [
+            18.5578,
+            47.2025
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein weiterer großartiger Ort zur Vogelbeobachtung mit interaktiven Ausstellungen.",
+            "hu": "Egy másik remek madármegfigyelő hely, interaktív kiállításokkal.",
+            "ro": "Un alt loc minunat pentru observarea păsărilor, cu expoziții interactive.",
+            "en": "Another great bird-watching spot with interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Agárd",
+            "hu": "Agárdi Gyógy- és Termálfürdő",
+            "ro": "Băile Termale Agárd",
+            "en": "Agárd Thermal Spa"
+          },
+          "coords": [
+            18.5811,
+            47.1912
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln nach der Radtour im warmen Heilwasser.",
+            "hu": "Lazítsd el az izmaidat a biciklizés után a meleg gyógyvízben.",
+            "ro": "Relaxați-vă mușchii după plimbarea cu bicicleta în apa termală caldă.",
+            "en": "Relax your muscles after the bike ride in the warm medicinal water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gárdonyi Géza Gedenkhaus",
+            "hu": "Gárdonyi Géza Emlékház",
+            "ro": "Casa Memorială Gárdonyi Géza",
+            "en": "Gárdonyi Géza Memorial House"
+          },
+          "coords": [
+            18.6085,
+            47.1945
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten Schriftstellers in seinem Sommerhaus.",
+            "hu": "Ismerd meg a híres író életét a nyaralójában.",
+            "ro": "Descoperiți viața celebrului scriitor în casa sa de vară.",
+            "en": "Discover the life of the famous writer in his summer house."
+          }
+        },
+        {
+          "name": {
+            "de": "Freistrand von Gárdony",
+            "hu": "Gárdonyi Szabadstrand",
+            "ro": "Plaja publică din Gárdony",
+            "en": "Gárdony Public Beach"
+          },
+          "coords": [
+            18.6181,
+            47.1969
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause und genießen Sie die Aussicht auf den See.",
+            "hu": "Tarts egy szünetet és élvezd a kilátást a tóra.",
+            "ro": "Faceți o pauză și bucurați-vă de vederea lacului.",
+            "en": "Take a break and enjoy the view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Velence-Korzó",
+            "hu": "Velence Korzó",
+            "ro": "Promenada Velence",
+            "en": "Velence Korzó"
+          },
+          "coords": [
+            18.6475,
+            47.2341
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine lebhafte Promenade mit Geschäften, Cafés und einem Sandstrand.",
+            "hu": "Élénk sétány üzletekkel, kávézókkal és homokos stranddal.",
+            "ro": "O promenadă animată cu magazine, cafenele și o plajă cu nisip.",
+            "en": "A lively promenade with shops, cafes, and a sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Korzó",
+            "hu": "Naplemente a Korzón",
+            "ro": "Apus de soare la Korzó",
+            "en": "Sunset at the Korzó"
+          },
+          "coords": [
+            18.648,
+            47.2345
+          ],
+          "category": "gastro",
+          "arrive_at": "18:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss eines Radtages.",
+            "hu": "A biciklis nap tökéletes lezárása.",
+            "ro": "Finalul perfect pentru o zi de ciclism.",
+            "en": "The perfect end to a day of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Militär-Gedenkpark in Pákozd. Fahren Sie dann nach Süden, um die Vogelwelt am Chernel-István-Zentrum zu bewundern. Gönnen Sie sich eine wohlverdiente Pause im Thermalbad Agárd, bevor Sie nach Gárdony weiterfahren. Dort besuchen Sie das Gedenkhaus des Schriftstellers und machen eine kurze Pause am Strand. Die letzte Etappe führt Sie zum lebhaften Velence-Korzó, wo Sie den Tag bei einem Abendessen mit Sonnenuntergang ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát a pákozdi Katonai Emlékparknál. Tekerjen dél felé, hogy megcsodálja a madárvilágot a Chernel István Madárvártánál. Tartson egy megérdemelt pihenőt az Agárdi Termálfürdőben, mielőtt Gárdony felé veszi az irányt. Ott látogasson el az író emlékházába, és tartson egy rövid szünetet a strandon. Az utolsó szakasz az élénk Velencei Korzóra vezet, ahol egy naplementés vacsorával zárhatja a napot.",
+        "ro": "Începeți turul cu bicicleta la Parcul Memorial Militar din Pákozd. Pedalați spre sud pentru a admira păsările la Centrul Ornitologic Chernel István. Faceți o pauză binemeritată la spa-ul termal din Agárd înainte de a continua spre Gárdony. Acolo, vizitați casa memorială a scriitorului și faceți o scurtă oprire la plajă. Ultima etapă vă duce la animata promenadă Velence Korzó, unde puteți încheia ziua cu o cină la apus.",
+        "en": "Start your bike tour at the Military Memorial Park in Pákozd. Cycle south to admire the birdlife at the Chernel István Centre. Take a well-deserved break at the Agárd Thermal Spa before continuing to Gárdony. There, visit the writer's memorial house and take a short break at the beach. The final leg takes you to the lively Velence Korzó, where you can end the day with a sunset dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Ein lokaler Fisch, den man in vielen Restaurants am See findet."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack am Strand, oft mit Käse und Sauerrahm serviert."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Probieren Sie eine authentische Gulaschsuppe in einem traditionellen Csárda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült süllő",
+            "tip": "Helyi halfajta, amit számos tóparti étteremben megtalálsz."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A tökéletes strand-snack, gyakran sajttal és tejföllel tálalva."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Kóstolj meg egy autentikus gulyáslevest egy hagyományos csárdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "Un pește local găsit în multe restaurante de pe malul lacului."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă pe plajă, adesea servită cu brânză și smântână."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Încercați o supă gulaș autentică într-o csárda tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Zander",
+            "tip": "A local fish found in many lakeside restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "The perfect beach snack, often served with cheese and sour cream."
+          },
+          {
+            "name": "Goulash",
+            "tip": "Try an authentic goulash soup in a traditional csárda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelwarte Madárvárta",
+            "tip": "Ein ruhiger Ort, um die Geräusche der Natur zu genießen.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Ufer des Velencer Sees bei Sonnenuntergang",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie die Farben den Himmel malen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Reformierten Kirche Agárd",
+            "tip": "Ein friedlicher, abgeschiedener Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárvárta",
+            "tip": "Csendes hely, ahol élvezheted a természet hangjait.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Velencei-tó partja naplementekor",
+            "tip": "Keress egy csendes padot, és nézd, ahogy a színek átfestik az eget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agárdi Református Templom kertje",
+            "tip": "Békés, eldugott hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul de păsări Madárvárta",
+            "tip": "Un loc liniștit pentru a vă bucura de sunetele naturii.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Malul lacului Velence la apus",
+            "tip": "Găsiți o bancă liniștită și priviți cum culorile pictează cerul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Bisericii Reformate din Agárd",
+            "tip": "Un loc pașnic și retras.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madárvárta Bird Watching Tower",
+            "tip": "A quiet place to enjoy the sounds of nature.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Shore of Lake Velence at sunset",
+            "tip": "Find a quiet bench and watch the colors paint the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Agárd Reformed Church",
+            "tip": "A peaceful, secluded spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden am Velence-Korzó",
+            "tip": "Finden Sie Erinnerungsstücke an Ihren Besuch am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok a Velencei Korzón",
+            "tip": "Találj emléktárgyakat a tónál tett látogatásodról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri pe Velence Korzó",
+            "tip": "Găsiți amintiri ale vizitei dumneavoastră la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops on Velence Korzó",
+            "tip": "Find mementos of your visit to the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in Gárdony oder Agárd, wenn Sie keins haben.",
+          "Der Radweg um den See ist größtenteils flach und gut ausgebaut.",
+          "Tragen Sie einen Helm und nehmen Sie Wasser und Snacks mit.",
+          "Schließen Sie Ihr Fahrrad an den Sehenswürdigkeiten immer gut ab."
+        ],
+        "hu": [
+          "Bérelj kerékpárt Gárdonyban vagy Agárdon, ha nincs sajátod.",
+          "A tó körüli kerékpárút többnyire sík és jól karbantartott.",
+          "Viselj sisakot, és vigyél magaddal vizet és harapnivalót.",
+          "Mindig zárd le a kerékpárodat a látnivalóknál."
+        ],
+        "ro": [
+          "Închiriați o bicicletă în Gárdony sau Agárd dacă nu aveți una.",
+          "Pista de biciclete din jurul lacului este în mare parte plată și bine întreținută.",
+          "Purtați cască și luați apă și gustări.",
+          "Asigurați-vă întotdeauna bicicleta la atracții."
+        ],
+        "en": [
+          "Rent a bike in Gárdony or Agárd if you don't have one.",
+          "The bike path around the lake is mostly flat and well-maintained.",
+          "Wear a helmet and bring water and snacks.",
+          "Always lock your bike securely at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 21.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Militär-Gedenkpark Pákozd",
+            "hu": "Katonai Emlékpark Pákozd",
+            "ro": "Parcul Memorial Militar Pákozd",
+            "en": "Pákozd Military Memorial Park"
+          },
+          "coords": [
+            18.5292,
+            47.2215
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die weitläufige Ausstellung zur ungarischen Militärgeschichte.",
+            "hu": "Parkolj le itt, és fedezd fel a magyar hadtörténelemnek szentelt hatalmas kiállítást.",
+            "ro": "Parcați aici și explorați expoziția vastă dedicată istoriei militare maghiare.",
+            "en": "Park here and explore the vast exhibition on Hungarian military history."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Gárdony/Agárd",
+            "hu": "Gárdony/Agárd Klaszter",
+            "ro": "Cluster Gárdony/Agárd",
+            "en": "Gárdony/Agárd Cluster"
+          },
+          "coords": [
+            18.5811,
+            47.1912
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Thermalbads und erkunden Sie Agárd und Gárdony zu Fuß.",
+            "hu": "Parkolj a termálfürdő közelében, és fedezd fel Agárdot és Gárdonyt gyalog.",
+            "ro": "Parcați lângă spa-ul termal și explorați Agárd și Gárdony pe jos.",
+            "en": "Park near the thermal spa and explore Agárd and Gárdony on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Agárd",
+            "hu": "Agárdi Gyógy- és Termálfürdő",
+            "ro": "Băile Termale Agárd",
+            "en": "Agárd Thermal Spa"
+          },
+          "coords": [
+            18.5815,
+            47.191
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort zum Entspannen zur Mittagszeit.",
+            "hu": "Tökéletes hely egy déli kikapcsolódásra.",
+            "ro": "Un loc perfect pentru relaxare la prânz.",
+            "en": "A perfect place for a midday relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Gárdonyi Géza Gedenkhaus",
+            "hu": "Gárdonyi Géza Emlékház",
+            "ro": "Casa Memorială Gárdonyi Géza",
+            "en": "Gárdonyi Géza Memorial House"
+          },
+          "coords": [
+            18.6085,
+            47.1945
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Thermalbad entfernt.",
+            "hu": "Egy rövid séta a termálfürdőtől.",
+            "ro": "La o scurtă plimbare de spa-ul termal.",
+            "en": "A short walk from the thermal spa."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Velence",
+            "hu": "Velence Klaszter",
+            "ro": "Cluster Velence",
+            "en": "Velence Cluster"
+          },
+          "coords": [
+            18.6475,
+            47.2341
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Velence-Korzó und genießen Sie den Rest des Nachmittags hier.",
+            "hu": "Vezess a Velence Korzóhoz, és élvezd itt a délután hátralévő részét.",
+            "ro": "Conduceți la Velence Korzó și bucurați-vă de restul după-amiezii aici.",
+            "en": "Drive to the Velence Korzó and enjoy the rest of the afternoon here."
+          }
+        },
+        {
+          "name": {
+            "de": "Velence-Korzó",
+            "hu": "Velence Korzó",
+            "ro": "Promenada Velence",
+            "en": "Velence Korzó"
+          },
+          "coords": [
+            18.6478,
+            47.2343
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bummeln Sie die Promenade entlang, gehen Sie schwimmen oder entspannen Sie in einem Café.",
+            "hu": "Sétálj végig a sétányon, ússz egyet, vagy pihenj egy kávézóban.",
+            "ro": "Plimbați-vă de-a lungul promenadei, înotați sau relaxați-vă la o cafenea.",
+            "en": "Stroll along the promenade, go for a swim, or relax at a cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Korzó",
+            "hu": "Vacsora a Korzón",
+            "ro": "Cină la Korzó",
+            "en": "Dinner at the Korzó"
+          },
+          "coords": [
+            18.648,
+            47.2345
+          ],
+          "category": "gastro",
+          "arrive_at": "18:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 150,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants für ein Abendessen mit Blick auf den Sonnenuntergang.",
+            "hu": "Válassz a számos étterem közül egy naplementés vacsorához.",
+            "ro": "Alegeți unul dintre multele restaurante pentru o cină cu vedere la apus.",
+            "en": "Choose one of the many restaurants for a sunset-view dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Militär-Gedenkpark in Pákozd. Nach diesem Ausflug in die Geschichte fahren Sie zum zweiten Cluster in Agárd. Parken Sie Ihr Auto und entspannen Sie im Thermalbad. Anschließend spazieren Sie zum Gárdonyi Géza Gedenkhaus. Am Nachmittag fahren Sie zum dritten Cluster, dem Velence-Korzó. Verbringen Sie den Rest des Tages mit Bummeln, Schwimmen und beenden Sie ihn mit einem Abendessen am See.",
+        "hu": "Reggel vezessen a pákozdi Katonai Emlékparkhoz. A történelmi kitérő után irány a második klaszter, Agárd. Parkolja le az autót és pihenjen a termálfürdőben, majd sétáljon át a Gárdonyi Géza Emlékházhoz. Délután vezessen a harmadik klaszterhez, a Velencei Korzóhoz. Töltse a nap hátralévő részét sétával, úszással, és zárja egy tóparti vacsorával.",
+        "ro": "Dimineața, conduceți la Parcul Memorial Militar din Pákozd. După această incursiune în istorie, conduceți spre al doilea cluster, în Agárd. Parcați mașina și relaxați-vă la spa-ul termal, apoi plimbați-vă până la Casa Memorială Gárdonyi Géza. După-amiaza, conduceți spre al treilea cluster, Velence Korzó. Petreceți restul zilei plimbându-vă, înotând și încheind cu o cină pe malul lacului.",
+        "en": "In the morning, drive to the Military Memorial Park in Pákozd. After this historical detour, drive to the second cluster in Agárd. Park your car and relax at the thermal spa, then take a walk to the Gárdonyi Géza Memorial House. In the afternoon, drive to the third cluster, the Velence Korzó. Spend the rest of the day strolling, swimming, and finish with a lakeside dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Ein lokaler Fisch, den man in vielen Restaurants am See findet."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack am Strand, oft mit Käse und Sauerrahm serviert."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Probieren Sie eine authentische Gulaschsuppe in einem traditionellen Csárda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült süllő",
+            "tip": "Helyi halfajta, amit számos tóparti étteremben megtalálsz."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A tökéletes strand-snack, gyakran sajttal és tejföllel tálalva."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Kóstolj meg egy autentikus gulyáslevest egy hagyományos csárdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "Un pește local găsit în multe restaurante de pe malul lacului."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă pe plajă, adesea servită cu brânză și smântână."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Încercați o supă gulaș autentică într-o csárda tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Zander",
+            "tip": "A local fish found in many lakeside restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "The perfect beach snack, often served with cheese and sour cream."
+          },
+          {
+            "name": "Goulash",
+            "tip": "Try an authentic goulash soup in a traditional csárda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelwarte Madárvárta",
+            "tip": "Ein ruhiger Ort, um die Geräusche der Natur zu genießen.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Ufer des Velencer Sees bei Sonnenuntergang",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie die Farben den Himmel malen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Reformierten Kirche Agárd",
+            "tip": "Ein friedlicher, abgeschiedener Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárvárta",
+            "tip": "Csendes hely, ahol élvezheted a természet hangjait.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Velencei-tó partja naplementekor",
+            "tip": "Keress egy csendes padot, és nézd, ahogy a színek átfestik az eget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agárdi Református Templom kertje",
+            "tip": "Békés, eldugott hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul de păsări Madárvárta",
+            "tip": "Un loc liniștit pentru a vă bucura de sunetele naturii.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Malul lacului Velence la apus",
+            "tip": "Găsiți o bancă liniștită și priviți cum culorile pictează cerul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Bisericii Reformate din Agárd",
+            "tip": "Un loc pașnic și retras.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madárvárta Bird Watching Tower",
+            "tip": "A quiet place to enjoy the sounds of nature.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Shore of Lake Velence at sunset",
+            "tip": "Find a quiet bench and watch the colors paint the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Agárd Reformed Church",
+            "tip": "A peaceful, secluded spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden am Velence-Korzó",
+            "tip": "Finden Sie Erinnerungsstücke an Ihren Besuch am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok a Velencei Korzón",
+            "tip": "Találj emléktárgyakat a tónál tett látogatásodról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri pe Velence Korzó",
+            "tip": "Găsiți amintiri ale vizitei dumneavoastră la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops on Velence Korzó",
+            "tip": "Find mementos of your visit to the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren können an beliebten Orten anfallen.",
+          "Das Auto ist ideal, um die weiter entfernten Sehenswürdigkeiten wie den Gedenkpark zu erreichen.",
+          "Planen Sie Ihre Parkstrategie in den Clustern, um das Laufen zu minimieren.",
+          "Der Verkehr kann an Sommerwochenenden stark sein."
+        ],
+        "hu": [
+          "A népszerű helyeken parkolási díj lehet.",
+          "Az autó ideális a távolabbi látnivalók, például az Emlékpark eléréséhez.",
+          "Tervezd meg a parkolási stratégiádat a klaszterekben a gyaloglás minimalizálása érdekében.",
+          "A forgalom a nyári hétvégéken sűrű lehet."
+        ],
+        "ro": [
+          "Taxele de parcare se pot aplica în locațiile populare.",
+          "Mașina este ideală pentru a ajunge la atracțiile mai îndepărtate, cum ar fi parcul memorial.",
+          "Planificați-vă strategia de parcare în clustere pentru a minimiza mersul pe jos.",
+          "Traficul poate fi aglomerat în weekendurile de vară."
+        ],
+        "en": [
+          "Parking fees may apply at popular locations.",
+          "The car is ideal for reaching the more distant sights like the memorial park.",
+          "Plan your parking strategy within the clusters to minimize walking.",
+          "Traffic can be heavy on summer weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Bahnhof Gárdony",
+            "hu": "Érkezés a Gárdonyi Vasútállomásra",
+            "ro": "Sosire la gara Gárdony",
+            "en": "Arrival at Gárdony Train Station"
+          },
+          "coords": [
+            18.6105,
+            47.2001
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Gárdony ist leicht mit dem Zug von Budapest aus zu erreichen.",
+            "hu": "Gárdony vonattal könnyen megközelíthető Budapestről.",
+            "ro": "Gárdony este ușor accesibil cu trenul din Budapesta.",
+            "en": "Gárdony is easily accessible by train from Budapest."
+          }
+        },
+        {
+          "name": {
+            "de": "Gárdonyi Géza Gedenkhaus",
+            "hu": "Gárdonyi Géza Emlékház",
+            "ro": "Casa Memorială Gárdonyi Géza",
+            "en": "Gárdonyi Géza Memorial House"
+          },
+          "coords": [
+            18.6085,
+            47.1945
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour mit einem kurzen Spaziergang vom Bahnhof aus.",
+            "hu": "Kezdje a túrát egy rövid sétával az állomásról.",
+            "ro": "Începeți turul cu o scurtă plimbare de la gară.",
+            "en": "Start your tour with a short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Agárd",
+            "hu": "Buszozás Agárdra",
+            "ro": "Călătorie cu autobuzul spre Agárd",
+            "en": "Bus ride to Agárd"
+          },
+          "coords": [
+            18.5811,
+            47.1912
+          ],
+          "category": "transit",
+          "arrive_at": "11:00",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Lokale Busse verbinden Gárdony und Agárd häufig.",
+            "hu": "Helyi buszok gyakran közlekednek Gárdony és Agárd között.",
+            "ro": "Autobuzele locale leagă frecvent Gárdony și Agárd.",
+            "en": "Local buses connect Gárdony and Agárd frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Agárd",
+            "hu": "Agárdi Gyógy- és Termálfürdő",
+            "ro": "Băile Termale Agárd",
+            "en": "Agárd Thermal Spa"
+          },
+          "coords": [
+            18.5815,
+            47.191
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verbringen Sie hier einen entspannten Vormittag und essen Sie zu Mittag.",
+            "hu": "Töltsön itt egy pihentető délelőttöt és ebédeljen.",
+            "ro": "Petreceți o dimineață relaxantă aici și luați prânzul.",
+            "en": "Spend a relaxing morning and have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Velence-Korzó",
+            "hu": "Velence Korzó",
+            "ro": "Promenada Velence",
+            "en": "Velence Korzó"
+          },
+          "coords": [
+            18.6475,
+            47.2341
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus nach Velence für einen Nachmittag am lebhaftesten Ort des Sees.",
+            "hu": "Menj busszal Velencére egy délutánra a tó legélénkebb helyén.",
+            "ro": "Luați un autobuz spre Velence pentru o după-amiază în cel mai animat loc de pe lac.",
+            "en": "Take a bus to Velence for an afternoon at the lake's liveliest spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen und Abfahrt",
+            "hu": "Vacsora és indulás",
+            "ro": "Cină și plecare",
+            "en": "Dinner and Departure"
+          },
+          "coords": [
+            18.648,
+            47.2345
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie ein letztes Essen, bevor Sie den Zug vom Bahnhof Velence nehmen.",
+            "hu": "Élvezz egy utolsó vacsorát, mielőtt vonatra szállsz a velencei állomáson.",
+            "ro": "Bucurați-vă de o ultimă masă înainte de a lua trenul din gara Velence.",
+            "en": "Enjoy a final meal before catching the train from Velence station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kommen Sie mit dem Zug in Gárdony an und beginnen Sie den Tag im nahegelegenen Gedenkhaus. Nehmen Sie dann einen lokalen Bus nach Agárd, um im Thermalbad zu entspannen. Am Nachmittag bringt Sie eine weitere Busfahrt zum Velence-Korzó. Verbringen Sie dort den Rest des Tages, bevor Sie nach dem Abendessen den Zug vom Bahnhof Velence zurücknehmen.",
+        "hu": "Érkezzen vonattal Gárdonyba, és kezdje a napot a közeli Emlékházban. Ezután szálljon helyi buszra Agárdra, hogy pihenjen a termálfürdőben. Délután egy újabb buszút visz a Velencei Korzóra. Töltse ott a nap hátralévő részét, mielőtt vacsora után visszaindulna a velencei vasútállomásról.",
+        "ro": "Sosiți cu trenul la Gárdony și începeți ziua la casa memorială din apropiere. Apoi, luați un autobuz local spre Agárd pentru a vă relaxa la spa-ul termal. După-amiaza, o altă călătorie cu autobuzul vă va duce la Velence Korzó. Petreceți restul zilei acolo înainte de a lua trenul înapoi de la gara Velence după cină.",
+        "en": "Arrive by train in Gárdony and start your day at the nearby memorial house. Then, take a local bus to Agárd to relax at the thermal spa. In the afternoon, another bus ride will take you to the Velence Korzó. Spend the rest of the day there before taking the train back from Velence station after dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Zander",
+            "tip": "Ein lokaler Fisch, den man in vielen Restaurants am See findet."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Der perfekte Snack am Strand, oft mit Käse und Sauerrahm serviert."
+          },
+          {
+            "name": "Gulyás",
+            "tip": "Probieren Sie eine authentische Gulaschsuppe in einem traditionellen Csárda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült süllő",
+            "tip": "Helyi halfajta, amit számos tóparti étteremben megtalálsz."
+          },
+          {
+            "name": "Lángos",
+            "tip": "A tökéletes strand-snack, gyakran sajttal és tejföllel tálalva."
+          },
+          {
+            "name": "Gulyásleves",
+            "tip": "Kóstolj meg egy autentikus gulyáslevest egy hagyományos csárdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău prăjit",
+            "tip": "Un pește local găsit în multe restaurante de pe malul lacului."
+          },
+          {
+            "name": "Lángos",
+            "tip": "Gustarea perfectă pe plajă, adesea servită cu brânză și smântână."
+          },
+          {
+            "name": "Gulaș",
+            "tip": "Încercați o supă gulaș autentică într-o csárda tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Zander",
+            "tip": "A local fish found in many lakeside restaurants."
+          },
+          {
+            "name": "Lángos",
+            "tip": "The perfect beach snack, often served with cheese and sour cream."
+          },
+          {
+            "name": "Goulash",
+            "tip": "Try an authentic goulash soup in a traditional csárda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelwarte Madárvárta",
+            "tip": "Ein ruhiger Ort, um die Geräusche der Natur zu genießen.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Ufer des Velencer Sees bei Sonnenuntergang",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie, wie die Farben den Himmel malen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garten der Reformierten Kirche Agárd",
+            "tip": "Ein friedlicher, abgeschiedener Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madárvárta",
+            "tip": "Csendes hely, ahol élvezheted a természet hangjait.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Velencei-tó partja naplementekor",
+            "tip": "Keress egy csendes padot, és nézd, ahogy a színek átfestik az eget.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Agárdi Református Templom kertje",
+            "tip": "Békés, eldugott hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul de păsări Madárvárta",
+            "tip": "Un loc liniștit pentru a vă bucura de sunetele naturii.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Malul lacului Velence la apus",
+            "tip": "Găsiți o bancă liniștită și priviți cum culorile pictează cerul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Bisericii Reformate din Agárd",
+            "tip": "Un loc pașnic și retras.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madárvárta Bird Watching Tower",
+            "tip": "A quiet place to enjoy the sounds of nature.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Shore of Lake Velence at sunset",
+            "tip": "Find a quiet bench and watch the colors paint the sky.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of the Agárd Reformed Church",
+            "tip": "A peaceful, secluded spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalen Märkten für frische Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden am Velence-Korzó",
+            "tip": "Finden Sie Erinnerungsstücke an Ihren Besuch am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keress helyi piacokat friss termékekért és kézműves árukért."
+          },
+          {
+            "name": "Ajándékboltok a Velencei Korzón",
+            "tip": "Találj emléktárgyakat a tónál tett látogatásodról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați piețele locale pentru produse proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri pe Velence Korzó",
+            "tip": "Găsiți amintiri ale vizitei dumneavoastră la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for local markets for fresh produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops on Velence Korzó",
+            "tip": "Find mementos of your visit to the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die lokalen Busse und Züge.",
+          "Prüfen Sie die Fahrpläne der öffentlichen Verkehrsmittel im Voraus, insbesondere an Wochenenden.",
+          "Die Bahnhöfe Gárdony und Velence liegen an der Hauptstrecke zwischen Budapest und Székesfehérvár.",
+          "Einige Sehenswürdigkeiten wie der Militärpark sind mit öffentlichen Verkehrsmitteln schwer zu erreichen."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a helyi buszokra és vonatokra.",
+          "Előre ellenőrizd a tömegközlekedési menetrendeket, különösen hétvégén.",
+          "Gárdony és Velence vasútállomás a Budapest-Székesfehérvár fővonalon található.",
+          "Néhány látnivaló, mint például a Katonai Emlékpark, nehezen érhető el tömegközlekedéssel."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele și trenurile locale.",
+          "Verificați în avans orarele transportului public, mai ales în weekend.",
+          "Gările Gárdony și Velence se află pe linia principală dintre Budapesta și Székesfehérvár.",
+          "Unele atracții, cum ar fi parcul militar, sunt greu accesibile cu transportul public."
+        ],
+        "en": [
+          "Buy a day pass for local buses and trains.",
+          "Check public transport schedules in advance, especially on weekends.",
+          "Gárdony and Velence train stations are on the main line between Budapest and Székesfehérvár.",
+          "Some sights like the military park are difficult to reach by public transport."
+        ]
+      }
+    }
+  }
+}

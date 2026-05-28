@@ -1,0 +1,1312 @@
+{
+  "city_id": "spain-ucles-cities-v2",
+  "anchor": {
+    "name": "Uclés",
+    "coords": [
+      -2.8622,
+      39.9839
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.8622,
+            39.9839
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und genießen Sie die ruhige Atmosphäre des Dorfes.",
+            "hu": "Kezdje a napot egy kávéval, és élvezze a falu nyugodt hangulatát.",
+            "ro": "Începeți ziua cu o cafea aici și absorbiți atmosfera liniștită a satului.",
+            "en": "Start with a coffee here and soak in the village's quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der Fünf Röhren",
+            "hu": "Az Öt Cső Kútja",
+            "ro": "Fântâna celor Cinci Guri",
+            "en": "Fountain of the Five Spouts"
+          },
+          "coords": [
+            -2.8625,
+            39.9842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein historischer Brunnen aus dem 16. Jahrhundert, ein schöner Ort für ein Foto.",
+            "hu": "Egy 16. századi történelmi kút, tökéletes egy fotóhoz.",
+            "ro": "O fântână istorică din secolul al XVI-lea, un loc frumos pentru o fotografie.",
+            "en": "A historic 16th-century fountain, a nice spot for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Uclés und Burg",
+            "hu": "Uclési kolostor és vár",
+            "ro": "Mănăstirea din Uclés și Castelul",
+            "en": "Monastery of Uclés and Castle"
+          },
+          "coords": [
+            -2.8615,
+            39.9855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um sowohl das Kloster als auch die Burgmauern zu erkunden. Die Aussicht ist die Wanderung wert.",
+            "hu": "Szánjon elég időt a kolostor és a várfalak felfedezésére is. A kilátás megéri a sétát.",
+            "ro": "Alocați suficient timp pentru a explora atât mănăstirea, cât și zidurile castelului. Priveliștea merită urcușul.",
+            "en": "Allocate enough time to explore both the monastery and the castle walls. The views are worth the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Uclés und Wassertor",
+            "hu": "Uclés városfala és a Vízikapu",
+            "ro": "Zidul Uclés și Poarta Apei",
+            "en": "Uclés Wall and Water Gate"
+          },
+          "coords": [
+            -2.8638,
+            39.984
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Folgen Sie den alten Mauern für einen anderen Blick auf die Stadt und die Landschaft.",
+            "hu": "Sétáljon végig a régi falakon a városra és a tájra nyíló másfajta nézetért.",
+            "ro": "Urmați zidurile vechi pentru o perspectivă diferită asupra orașului și peisajului.",
+            "en": "Follow the ancient walls for a different perspective of the town and landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Getreidelager (Antiguo Pósito)",
+            "hu": "Régi Gabonaraktár (Antiguo Pósito)",
+            "ro": "Vechiul depozit de grâne (Antiguo Pósito)",
+            "en": "Ancient Granary (Antiguo Pósito)"
+          },
+          "coords": [
+            -2.862,
+            39.9835
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kleines Museum, das einen Einblick in die landwirtschaftliche Geschichte der Region gibt.",
+            "hu": "Egy kis múzeum, amely bepillantást enged a régió mezőgazdasági történelmébe.",
+            "ro": "Un mic muzeu care oferă o perspectivă asupra istoriei agricole a regiunii.",
+            "en": "A small museum offering a glimpse into the agricultural history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Las Angustias",
+            "hu": "Las Angustias remetelak",
+            "ro": "Schitul Las Angustias",
+            "en": "Hermitage of Las Angustias"
+          },
+          "coords": [
+            -2.86,
+            39.9825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ruhiger, besinnlicher Ort etwas abseits des Hauptweges.",
+            "hu": "Egy csendes, elmélkedő hely, kissé távolabb a fő útvonaltól.",
+            "ro": "Un loc liniștit, contemplativ, puțin în afara traseului principal.",
+            "en": "A quiet, contemplative spot slightly off the main path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der ruhigen Plaza Mayor, bevor Sie den steilen, aber lohnenden Aufstieg zum beeindruckenden Kloster und zur Burg von Uclés wagen. Nach dem Mittagessen erkunden Sie die alten Stadtmauern und entdecken verborgene Ecken des Dorfes, wie das kleine Landwirtschaftsmuseum. Beenden Sie Ihren Tag mit einem Moment der Ruhe in der Einsiedelei Las Angustias und genießen Sie die friedliche Atmosphäre dieses historischen Ortes.",
+        "hu": "Kezdje a napot a csendes Plaza Mayoron, mielőtt nekivágna a meredek, de hálás emelkedőnek az impozáns uclési kolostorhoz és várhoz. Ebéd után fedezze fel az ősi városfalakat és a falu rejtett zugait, mint például a kis mezőgazdasági múzeumot. Zárja a napot egy csendes pillanattal a Las Angustias remetelaknál, élvezve e történelmi hely békés hangulatát.",
+        "ro": "Începeți ziua în liniștita Plaza Mayor înainte de a vă aventura pe urcușul abrupt, dar plin de satisfacții, către impunătoarea Mănăstire și Castel din Uclés. După prânz, explorați zidurile vechi ale orașului și descoperiți colțuri ascunse ale satului, cum ar fi micul muzeu agricol. Încheiați ziua cu un moment de liniște la Schitul Las Angustias, bucurându-vă de atmosfera pașnică a acestui loc istoric.",
+        "en": "Start your day in the quiet Plaza Mayor before braving the steep but rewarding climb to the imposing Monastery and Castle of Uclés. After lunch, explore the ancient town walls and discover hidden corners of the village, like the small agricultural museum. End your day with a moment of peace at the Hermitage of Las Angustias, enjoying the tranquil atmosphere of this historic place."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morteruelo",
+            "tip": "Eine Art Wildpastete, typisch für die Region Cuenca. Suchen Sie nach einem Restaurant, das traditionelle kastilische Küche anbietet."
+          },
+          {
+            "name": "Lammbraten (Cordero Asado)",
+            "tip": "Langsam im Holzofen gegartes Lamm, ein Festmahl."
+          },
+          {
+            "name": "Queso Manchego",
+            "tip": "Probieren Sie den berühmten lokalen Käse mit einem Glas Rotwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morteruelo",
+            "tip": "A Cuenca régióra jellemző vadhús pástétom. Keressen egy éttermet, amely hagyományos kasztíliai ételeket kínál."
+          },
+          {
+            "name": "Sült bárány (Cordero Asado)",
+            "tip": "Lassan, fatüzelésű kemencében sült bárány, egy igazi lakoma."
+          },
+          {
+            "name": "Manchego sajt",
+            "tip": "Kóstolja meg a híres helyi sajtot egy pohár helyi vörösborral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Morteruelo",
+            "tip": "Un fel de pateu de vânat, tipic regiunii Cuenca. Căutați un restaurant care servește mâncare tradițională castiliană."
+          },
+          {
+            "name": "Miel fript (Cordero Asado)",
+            "tip": "Miel gătit lent în cuptor cu lemne, un festin."
+          },
+          {
+            "name": "Brânză Manchego",
+            "tip": "Gustați faimoasa brânză locală cu un pahar de vin roșu regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morteruelo",
+            "tip": "A type of game pâté, typical of the Cuenca region. Look for a restaurant serving traditional Castilian food."
+          },
+          {
+            "name": "Roast Lamb (Cordero Asado)",
+            "tip": "Slow-cooked lamb in a wood-fired oven, a true feast."
+          },
+          {
+            "name": "Manchego Cheese",
+            "tip": "Taste the famous local cheese with a glass of regional red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht von den Burgmauern",
+            "tip": "Finden Sie einen ruhigen Platz auf den Mauern, um die weite kastilische Landschaft zu überblicken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof des Klosters",
+            "tip": "Der Innenhof des Klosters ist ein Ort des Friedens und der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Spaziergang um die Einsiedelei",
+            "tip": "Die Gegend um die Ermita de las Angustias ist perfekt für einen besinnlichen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a várfalakról",
+            "tip": "Keressen egy csendes helyet a falakon, ahonnan beláthatja a hatalmas kasztíliai tájat.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A kolostor udvara",
+            "tip": "A kolostor belső udvara a béke és a csend helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Séta a remetelak körül",
+            "tip": "Az Ermita de las Angustias környéke tökéletes egy elmélyült sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe zidurile castelului",
+            "tip": "Găsiți un loc liniștit pe ziduri pentru a admira vasta panoramă castiliană.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea mănăstirii",
+            "tip": "Curtea interioară a mănăstirii este un loc de pace și liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plimbare în jurul schitului",
+            "tip": "Zona din jurul Schitului Las Angustias este perfectă pentru o plimbare contemplativă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Walls",
+            "tip": "Find a quiet spot on the walls to overlook the vast Castilian landscape.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of the Monastery",
+            "tip": "The monastery's cloister is a place of peace and silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Walk around the Hermitage",
+            "tip": "The area around the Ermita de las Angustias is perfect for a contemplative stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksprodukte",
+            "tip": "Suchen Sie nach kleinen Geschäften, die Keramik oder Textilien aus der Region verkaufen."
+          },
+          {
+            "name": "Wein aus Uclés",
+            "tip": "Die Region hat eine wachsende Weinproduktion. Eine Flasche ist ein tolles Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kis boltokat, amelyek helyi kerámiákat vagy textíliákat árulnak."
+          },
+          {
+            "name": "Uclési bor",
+            "tip": "A régiónak növekvő bortermelése van. Egy üveg bor nagyszerű szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale locale",
+            "tip": "Căutați magazine mici care vând ceramică sau textile din regiune."
+          },
+          {
+            "name": "Vin de Uclés",
+            "tip": "Regiunea are o producție de vin în creștere. O sticlă este un suvenir minunat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan products",
+            "tip": "Look for small shops selling ceramics or textiles from the region."
+          },
+          {
+            "name": "Wine from Uclés",
+            "tip": "The region has a growing wine production. A bottle makes a great souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen steil und gepflastert sind.",
+          "Bringen Sie Wasser mit, besonders für den Aufstieg zur Burg.",
+          "Die meisten Sehenswürdigkeiten befinden sich in unmittelbarer Nähe zueinander.",
+          "Planen Sie Ihr Mittagessen im Voraus, da es nur wenige Restaurants gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, az utcák meredekek és macskakövesek.",
+          "Hozzon magával vizet, különösen a várhoz való feljutáshoz.",
+          "A legtöbb látnivaló gyalogosan is könnyen elérhető.",
+          "Tervezze meg előre az ebédet, mivel kevés étterem van."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile sunt abrupte și pavate.",
+          "Aduceți apă, mai ales pentru urcușul la castel.",
+          "Majoritatea atracțiilor sunt la distanță de mers pe jos una de cealaltă.",
+          "Planificați-vă prânzul în avans, deoarece opțiunile de restaurante sunt limitate."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and cobbled.",
+          "Bring water, especially for the climb to the castle.",
+          "Most sights are within easy walking distance of each other.",
+          "Plan your lunch in advance as restaurant options are limited."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -2.8622,
+            39.9839
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad hier ab, um die Plaza und die unmittelbare Umgebung zu Fuß zu erkunden.",
+            "hu": "Zárja le itt a biciklit, hogy gyalog fedezze fel a teret és a közvetlen környékét.",
+            "ro": "Parcați bicicleta aici pentru a explora piața și zona imediată pe jos.",
+            "en": "Park your bike here to explore the plaza and immediate area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Getreidelager (Antiguo Pósito)",
+            "hu": "Régi Gabonaraktár (Antiguo Pósito)",
+            "ro": "Vechiul depozit de grâne (Antiguo Pósito)",
+            "en": "Ancient Granary (Antiguo Pósito)"
+          },
+          "coords": [
+            -2.862,
+            39.9835
+          ],
+          "category": "museums",
+          "arrive_at": "09:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um mehr über die lokale Geschichte zu erfahren.",
+            "hu": "Egy gyors megálló, hogy többet tudjon meg a helyi történelemről.",
+            "ro": "O oprire rapidă pentru a învăța despre istoria locală.",
+            "en": "A quick stop to learn about the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Las Angustias",
+            "hu": "Las Angustias remetelak",
+            "ro": "Schitul Las Angustias",
+            "en": "Hermitage of Las Angustias"
+          },
+          "coords": [
+            -2.86,
+            39.9825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Fahrt zu diesem friedlichen Ort am Rande des Dorfes.",
+            "hu": "Kellemes tekerés ehhez a békés helyhez a falu szélén.",
+            "ro": "O plimbare plăcută cu bicicleta până la acest loc pașnic de la marginea satului.",
+            "en": "A pleasant ride to this peaceful spot on the edge of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Uclés und Burg",
+            "hu": "Uclési kolostor és vár",
+            "ro": "Mănăstirea din Uclés și Castelul",
+            "en": "Monastery of Uclés and Castle"
+          },
+          "coords": [
+            -2.8615,
+            39.9855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:13",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist steil. Schieben Sie Ihr Fahrrad, wenn nötig. Oben müssen Sie es abstellen, um das Gelände zu erkunden.",
+            "hu": "Az emelkedő meredek. Tolja a biciklit, ha szükséges. Fent le kell zárnia, hogy felfedezze a területet.",
+            "ro": "Urcușul este abrupt. Împingeți bicicleta dacă este necesar. Va trebui să o parcați sus pentru a explora complexul.",
+            "en": "The climb is steep. Push your bike if needed. You'll need to park it at the top to explore the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Uclés und Wassertor",
+            "hu": "Uclés városfala és a Vízikapu",
+            "ro": "Zidul Uclés și Poarta Apei",
+            "en": "Uclés Wall and Water Gate"
+          },
+          "coords": [
+            -2.8638,
+            39.984
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Basis der Mauern, um ihre Größe zu schätzen.",
+            "hu": "Tekerjen végig a falak tövében, hogy felmérje azok méretét.",
+            "ro": "Mergeți cu bicicleta pe lângă baza zidurilor pentru a le aprecia amploarea.",
+            "en": "Cycle along the base of the walls to appreciate their scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der Fünf Röhren",
+            "hu": "Az Öt Cső Kútja",
+            "ro": "Fântâna celor Cinci Guri",
+            "en": "Fountain of the Five Spouts"
+          },
+          "coords": [
+            -2.8625,
+            39.9842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein erfrischender letzter Halt, bevor Sie Ihre Tour beenden.",
+            "hu": "Egy frissítő utolsó megálló a túra befejezése előtt.",
+            "ro": "O ultimă oprire revigorantă înainte de a încheia turul.",
+            "en": "A refreshing final stop before concluding your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Uclés auf zwei Rädern. Beginnen Sie auf der Plaza Mayor und fahren Sie zu den kleineren Sehenswürdigkeiten des Dorfes, bevor Sie den anspruchsvollen Anstieg zum Kloster in Angriff nehmen. Die atemberaubende Aussicht von oben ist die Mühe wert. Nach dem Abstieg fahren Sie entlang der alten Stadtmauern und beenden Ihre Tour mit einem Gefühl der Erfüllung und einem tiefen Einblick in die Geschichte von La Mancha.",
+        "hu": "Fedezze fel Uclést két keréken. Kezdjen a Plaza Mayoron, majd tekerjen el a falu kisebb látnivalóihoz, mielőtt megküzdene a kolostorhoz vezető kihívást jelentő emelkedővel. A fentről nyíló lélegzetelállító kilátás megéri az erőfeszítést. A leereszkedés után tekerjen végig az ősi városfalak mentén, és fejezze be a túrát az elégedettség érzésével és La Mancha történelmének mély megértésével.",
+        "ro": "Explorați Uclés pe două roți. Începeți din Plaza Mayor și pedalați către atracțiile mai mici ale satului înainte de a aborda urcușul provocator către mănăstire. Priveliștea uluitoare de sus merită efortul. După coborâre, mergeți pe lângă zidurile vechi ale orașului și încheiați turul cu un sentiment de împlinire și o apreciere profundă a istoriei regiunii La Mancha.",
+        "en": "Explore Uclés on two wheels. Start in the Plaza Mayor and cycle to the village's smaller sights before tackling the challenging climb to the monastery. The stunning views from the top are worth the effort. After descending, ride alongside the ancient town walls and finish your tour with a sense of accomplishment and a deep appreciation for the history of La Mancha."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zarajos",
+            "tip": "Gegrillte Lamm-Därme, eine lokale Spezialität für abenteuerlustige Esser."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Ein Kabeljau- und Kartoffelgericht, perfekt zur Stärkung nach einer Radtour."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Suchen Sie nach einem kalten 'caña' in einer Bar an der Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zarajos",
+            "tip": "Grillezett báránybél, helyi specialitás a kalandvágyóknak."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Tőkehalas-burgonyás étel, tökéletes feltöltődés egy biciklitúra után."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Keressen egy hideg 'caña'-t a Plaza Mayor egyik bárjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zarajos",
+            "tip": "Mațe de miel la grătar, o specialitate locală pentru gurmanzii aventuroși."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Un fel de mâncare cu cod și cartofi, perfect pentru a vă reface energia după o plimbare cu bicicleta."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Căutați o 'caña' rece la un bar din Plaza Mayor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zarajos",
+            "tip": "Grilled lamb intestines, a local specialty for adventurous eaters."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "A cod and potato dish, perfect for refueling after a bike ride."
+          },
+          {
+            "name": "Local beer",
+            "tip": "Look for a cold 'caña' at a bar in the Plaza Mayor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von der Straße nach Tarancón",
+            "tip": "Halten Sie auf dem Weg aus dem Dorf an für eine Panoramaansicht des Klosters auf dem Hügel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Am Fuße der Burg",
+            "tip": "Ein ruhiger Moment, bevor Sie den Aufstieg beginnen, um die Größe des Bauwerks zu bewundern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Tarancón felé vezető útról",
+            "tip": "Álljon meg a faluból kivezető úton egy panorámaképért a dombon álló kolostorról.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár lábánál",
+            "tip": "Egy csendes pillanat a mászás megkezdése előtt, hogy megcsodálja az építmény nagyságát.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de pe drumul spre Tarancón",
+            "tip": "Opriți-vă la ieșirea din sat pentru o vedere panoramică a mănăstirii de pe deal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "La poalele castelului",
+            "tip": "Un moment de liniște înainte de a începe urcușul, pentru a admira măreția structurii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the road to Tarancón",
+            "tip": "Stop on the way out of the village for a panoramic view of the monastery on the hill.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Base of the castle hill",
+            "tip": "A quiet moment before starting the climb to admire the scale of the structure.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Die Region La Mancha ist bekannt für ihr hochwertiges Olivenöl."
+          },
+          {
+            "name": "Honig",
+            "tip": "Suchen Sie nach lokal produziertem Honig, oft mit Rosmarin- oder Thymiannoten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "La Mancha régiója híres a kiváló minőségű olívaolajáról."
+          },
+          {
+            "name": "Méz",
+            "tip": "Keressen helyben termelt mézet, gyakran rozmaringos vagy kakukkfüves ízesítéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Regiunea La Mancha este renumită pentru uleiul său de măsline de înaltă calitate."
+          },
+          {
+            "name": "Miere",
+            "tip": "Căutați miere produsă local, adesea cu note de rozmarin sau cimbru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "The La Mancha region is known for its high-quality olive oil."
+          },
+          {
+            "name": "Honey",
+            "tip": "Look for locally produced honey, often with notes of rosemary or thyme."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Seien Sie auf steile Anstiege vorbereitet, besonders zum Kloster.",
+          "Ein Mountainbike ist besser geeignet als ein Rennrad.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie es abstellen.",
+          "Überprüfen Sie die Öffnungszeiten der Sehenswürdigkeiten, da diese variieren können."
+        ],
+        "hu": [
+          "Készüljön fel a meredek emelkedőkre, különösen a kolostorhoz.",
+          "Egy mountain bike alkalmasabb, mint egy országúti kerékpár.",
+          "Mindig gondosan zárja le a kerékpárt, amikor otthagyja.",
+          "Ellenőrizze a látnivalók nyitvatartási idejét, mert az változhat."
+        ],
+        "ro": [
+          "Fiți pregătit pentru urcări abrupte, în special spre mănăstire.",
+          "O bicicletă de munte este mai potrivită decât una de șosea.",
+          "Legați-vă întotdeauna bine bicicleta când o lăsați nesupravegheată.",
+          "Verificați programul de vizitare al obiectivelor turistice, deoarece acesta poate varia."
+        ],
+        "en": [
+          "Be prepared for steep climbs, especially to the monastery.",
+          "A mountain bike is more suitable than a road bike.",
+          "Always lock your bike securely when leaving it unattended.",
+          "Check the opening hours of the sights, as they can vary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Plaza Mayor",
+            "hu": "Parkolás és Főtér",
+            "ro": "Parcare și Plaza Mayor",
+            "en": "Parking and Plaza Mayor"
+          },
+          "coords": [
+            -2.8622,
+            39.9839
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto am Ortseingang und beginnen Sie Ihre Erkundung zu Fuß auf der Plaza Mayor.",
+            "hu": "Parkolja le az autót a falu bejáratánál, és kezdje a felfedezést gyalog a Főtéren.",
+            "ro": "Parcați mașina la intrarea în sat și începeți explorarea pe jos din Plaza Mayor.",
+            "en": "Park your car at the entrance of the village and start your exploration on foot from the Plaza Mayor."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der Fünf Röhren",
+            "hu": "Az Öt Cső Kútja",
+            "ro": "Fântâna celor Cinci Guri",
+            "en": "Fountain of the Five Spouts"
+          },
+          "coords": [
+            -2.8625,
+            39.9842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Plaza Mayor, um dieses historische Wahrzeichen zu sehen.",
+            "hu": "Egy rövid séta a Főtérről, hogy megnézze ezt a történelmi emlékművet.",
+            "ro": "O scurtă plimbare de la Plaza Mayor pentru a vedea acest reper istoric.",
+            "en": "A short walk from the Plaza Mayor to see this historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Uclés und Burg",
+            "hu": "Uclési kolostor és vár",
+            "ro": "Mănăstirea din Uclés și Castelul",
+            "en": "Monastery of Uclés and Castle"
+          },
+          "coords": [
+            -2.8615,
+            39.9855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:02",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Spaziergang bergauf ist Teil des Erlebnisses. Lassen Sie das Auto geparkt.",
+            "hu": "A felfelé vezető séta az élmény része. Hagyja az autót leparkolva.",
+            "ro": "Plimbarea la deal face parte din experiență. Lăsați mașina parcată.",
+            "en": "The walk uphill is part of the experience. Leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Uclés und Wassertor",
+            "hu": "Uclés városfala és a Vízikapu",
+            "ro": "Zidul Uclés și Poarta Apei",
+            "en": "Uclés Wall and Water Gate"
+          },
+          "coords": [
+            -2.8638,
+            39.984
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie vom Kloster hinunter und folgen Sie dem Verlauf der alten Verteidigungsanlagen.",
+            "hu": "Sétáljon le a kolostortól, és kövesse a régi védművek vonalát.",
+            "ro": "Coborâți de la mănăstire și urmați linia vechilor fortificații.",
+            "en": "Walk down from the monastery and follow the course of the old defenses."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Getreidelager (Antiguo Pósito)",
+            "hu": "Régi Gabonaraktár (Antiguo Pósito)",
+            "ro": "Vechiul depozit de grâne (Antiguo Pósito)",
+            "en": "Ancient Granary (Antiguo Pósito)"
+          },
+          "coords": [
+            -2.862,
+            39.9835
+          ],
+          "category": "museums",
+          "arrive_at": "13:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt zentral und ist ein guter Ort, um der Mittagssonne zu entfliehen.",
+            "hu": "A múzeum központi helyen van, és jó hely a déli nap elől való behúzódásra.",
+            "ro": "Muzeul este situat central și este un loc bun pentru a scăpa de soarele de la amiază.",
+            "en": "The museum is centrally located and a good place to escape the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Las Angustias",
+            "hu": "Las Angustias remetelak",
+            "ro": "Schitul Las Angustias",
+            "en": "Hermitage of Las Angustias"
+          },
+          "coords": [
+            -2.86,
+            39.9825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer, friedlicher Spaziergang zum Abschluss Ihres Rundgangs, bevor Sie zum Auto zurückkehren.",
+            "hu": "Egy rövid, békés séta a körtúra lezárásaként, mielőtt visszatérne az autóhoz.",
+            "ro": "O scurtă plimbare liniștită pentru a încheia circuitul înainte de a vă întoarce la mașină.",
+            "en": "A short, peaceful walk to conclude your circuit before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Auto nach Uclés und erleben Sie die Geschichte hautnah. Parken Sie Ihr Fahrzeug und lassen Sie sich von den alten Straßen leiten. Der Tag dreht sich um einen einzigen Rundgang, der auf der Plaza Mayor beginnt und zum majestätischen Kloster hinaufführt. Erkunden Sie nach dem Abstieg die mittelalterlichen Mauern und das Dorfzentrum. Das Auto dient nur als Mittel, um zu diesem zeitlosen Ort zu gelangen; die wahre Entdeckung geschieht zu Fuß.",
+        "hu": "Utazzon autóval Uclésbe, és élje át a történelmet. Parkolja le járművét, és hagyja, hogy a régi utcák vezessék. A nap egyetlen gyalogos körtúra köré épül, amely a Plaza Mayorról indul és a fenséges kolostorhoz vezet fel. A leereszkedés után fedezze fel a középkori falakat és a falu központját. Az autó csupán eszköz, hogy eljusson ebbe az időtlen helyre; az igazi felfedezés gyalog történik.",
+        "ro": "Călătoriți cu mașina la Uclés și experimentați istoria de aproape. Parcați vehiculul și lăsați străzile vechi să vă ghideze. Ziua se învârte în jurul unui singur circuit pietonal, începând din Plaza Mayor și urcând la mănăstirea maiestuoasă. După coborâre, explorați zidurile medievale și centrul satului. Mașina servește doar ca mijloc de a ajunge în acest loc atemporal; adevărata descoperire se face pe jos.",
+        "en": "Travel to Uclés by car and experience history firsthand. Park your vehicle and let the ancient streets be your guide. The day revolves around a single walking cluster, starting in the Plaza Mayor and ascending to the majestic monastery. After descending, explore the medieval walls and the village center. The car serves only as the means to get to this timeless place; the real discovery happens on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante La Cueva",
+            "tip": "Ein bekanntes Restaurant in der Gegend, das oft traditionelle Gerichte wie Lamm oder Morteruelo anbietet. Reservierung empfohlen."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein rustikales Gericht aus Brotkrumen, oft mit Chorizo und Trauben serviert. Herzhaft und authentisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cueva Étterem",
+            "tip": "A környék egyik ismert étterme, gyakran kínál hagyományos ételeket, mint a bárány vagy a morteruelo. Asztalfoglalás ajánlott."
+          },
+          {
+            "name": "Migas",
+            "tip": "Rusztikus étel kenyérmorzsából, gyakran chorizóval és szőlővel tálalva. Laktató és autentikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant La Cueva",
+            "tip": "Un restaurant renumit în zonă, care servește adesea mâncăruri tradiționale precum miel sau morteruelo. Se recomandă rezervare."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare rustic din pesmet, adesea servit cu chorizo și struguri. Sățios și autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante La Cueva",
+            "tip": "A well-known restaurant in the area, often serving traditional dishes like lamb or morteruelo. Reservations recommended."
+          },
+          {
+            "name": "Migas",
+            "tip": "A rustic dish made from breadcrumbs, often served with chorizo and grapes. Hearty and authentic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel gegenüber dem Kloster",
+            "tip": "Fahren Sie ein kurzes Stück aus der Stadt hinaus für einen Postkartenblick auf das Kloster, das die Landschaft dominiert.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Terrassen der Burg",
+            "tip": "Abseits der Hauptbereiche bieten die oberen Teile der Burgruine Ruhe und weite Ausblicke.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A kolostorral szembeni domb",
+            "tip": "Vezessen egy rövid távolságra a városból egy képeslapra illő kilátásért a tájat uraló kolostorra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár felső teraszai",
+            "tip": "A fő területektől távolabb, a várrom felső részei csendet és pazar kilátást kínálnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul de vizavi de mănăstire",
+            "tip": "Conduceți o scurtă distanță în afara orașului pentru o vedere de carte poștală a mănăstirii dominând peisajul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Terasele superioare ale castelului",
+            "tip": "Departe de zonele principale, părțile superioare ale ruinelor castelului oferă liniște și vederi ample.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill opposite the Monastery",
+            "tip": "Drive a short distance out of town for a postcard view of the monastery dominating the landscape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper terraces of the Castle",
+            "tip": "Away from the main areas, the upper parts of the castle ruins offer tranquility and vast views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knoblauch aus Las Pedroñeras",
+            "tip": "Wenn Sie durch die Region fahren, halten Sie Ausschau nach dem berühmten lila Knoblauch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fokhagyma Las Pedroñerasból",
+            "tip": "Ha a régión keresztül utazik, keresse a híres lila fokhagymát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Usturoi din Las Pedroñeras",
+            "tip": "Dacă treceți prin regiune, căutați faimosul usturoi mov."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garlic from Las Pedroñeras",
+            "tip": "If driving through the region, look out for the famous purple garlic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken kann im Dorfzentrum schwierig sein; nutzen Sie die ausgewiesenen Bereiche am Eingang.",
+          "Uclés ist ein perfekter Tagesausflug von Madrid oder Cuenca aus.",
+          "Kombinieren Sie den Besuch mit anderen Dörfern der Mancha für eine längere Tour.",
+          "Die Straßen im Dorf sind sehr eng, das Fahren im Zentrum wird nicht empfohlen."
+        ],
+        "hu": [
+          "A parkolás nehézkes lehet a falu központjában; használja a bejáratnál kijelölt területeket.",
+          "Uclés tökéletes egynapos kirándulás Madridból vagy Cuencából.",
+          "Kombinálja a látogatást más La Mancha-i falvakkal egy hosszabb túrához.",
+          "A falu utcái nagyon szűkek, a központban nem ajánlott vezetni."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în centrul satului; folosiți zonele desemnate de la intrare.",
+          "Uclés este o excursie de o zi perfectă din Madrid sau Cuenca.",
+          "Combinați vizita cu alte sate din La Mancha pentru un tur mai lung.",
+          "Străzile din sat sunt foarte înguste, nu se recomandă condusul în centru."
+        ],
+        "en": [
+          "Parking can be difficult in the village center; use the designated areas at the entrance.",
+          "Uclés makes for a perfect day trip from Madrid or Cuenca.",
+          "Combine the visit with other villages in La Mancha for a longer tour.",
+          "The village streets are very narrow; driving in the center is not recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:30",
+      "end_estimate": "17:40",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft und Plaza Mayor",
+            "hu": "Érkezés és Főtér",
+            "ro": "Sosire și Plaza Mayor",
+            "en": "Arrival and Plaza Mayor"
+          },
+          "coords": [
+            -2.8622,
+            39.9839
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Busbahnhof aus ist es nur ein kurzer Spaziergang zur Plaza Mayor, um Ihre Tour zu beginnen.",
+            "hu": "A buszmegállótól rövid séta a Főtér, ahol kezdheti a túrát.",
+            "ro": "De la stația de autobuz, este o scurtă plimbare până la Plaza Mayor pentru a începe turul.",
+            "en": "From the bus stop, it's a short walk to the Plaza Mayor to begin your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle der Fünf Röhren",
+            "hu": "Az Öt Cső Kútja",
+            "ro": "Fântâna celor Cinci Guri",
+            "en": "Fountain of the Five Spouts"
+          },
+          "coords": [
+            -2.8625,
+            39.9842
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner historischer Brunnen auf dem Weg zum Kloster.",
+            "hu": "Egy szép történelmi kút a kolostor felé vezető úton.",
+            "ro": "O fântână istorică frumoasă în drum spre mănăstire.",
+            "en": "A beautiful historic fountain on your way towards the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster von Uclés und Burg",
+            "hu": "Uclési kolostor és vár",
+            "ro": "Mănăstirea din Uclés și Castelul",
+            "en": "Monastery of Uclés and Castle"
+          },
+          "coords": [
+            -2.8615,
+            39.9855
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:37",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Hauptanstrengung des Tages. Nehmen Sie sich Zeit und genießen Sie die Aussicht.",
+            "hu": "A hegymászás a nap fő erőfeszítése. Szánjon rá időt, és élvezze a kilátást.",
+            "ro": "Urcușul este principalul efort al zilei. Nu vă grăbiți și bucurați-vă de priveliște.",
+            "en": "The climb is the main effort of the day. Take your time and enjoy the rewarding views."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Uclés und Wassertor",
+            "hu": "Uclés városfala és a Vízikapu",
+            "ro": "Zidul Uclés și Poarta Apei",
+            "en": "Uclés Wall and Water Gate"
+          },
+          "coords": [
+            -2.8638,
+            39.984
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Reste der alten Befestigungsanlagen, die einst das Dorf schützten.",
+            "hu": "Fedezze fel a régi erődítmények maradványait, amelyek egykor a falut védték.",
+            "ro": "Explorați rămășițele vechilor fortificații care protejau odinioară satul.",
+            "en": "Explore the remnants of the old fortifications that once protected the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Getreidelager (Antiguo Pósito)",
+            "hu": "Régi Gabonaraktár (Antiguo Pósito)",
+            "ro": "Vechiul depozit de grâne (Antiguo Pósito)",
+            "en": "Ancient Granary (Antiguo Pósito)"
+          },
+          "coords": [
+            -2.862,
+            39.9835
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Bedeutung der Landwirtschaft für die Geschichte von Uclés.",
+            "hu": "Tudjon meg többet a mezőgazdaság jelentőségéről Uclés történelmében.",
+            "ro": "Aflați despre importanța agriculturii în istoria Uclés.",
+            "en": "Learn about the importance of agriculture in the history of Uclés."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Las Angustias",
+            "hu": "Las Angustias remetelak",
+            "ro": "Schitul Las Angustias",
+            "en": "Hermitage of Las Angustias"
+          },
+          "coords": [
+            -2.86,
+            39.9825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss des Tages, bevor Sie zum Bus zurückkehren.",
+            "hu": "Békés lezárása a napnak, mielőtt visszatér a buszhoz.",
+            "ro": "O încheiere pașnică a zilei înainte de a vă întoarce la autobuz.",
+            "en": "A peaceful end to the day before walking back to the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne Auto ist Uclés leicht zu entdecken. Nach Ihrer Ankunft mit dem Bus bildet das gesamte Dorf einen einzigen, faszinierenden Rundgang. Der Tag ist eine Reise in die Vergangenheit, vom Herzen des Dorfes auf der Plaza Mayor bis zur Spitze des Hügels, wo das Kloster thront. Jeder Schritt auf den Kopfsteinpflasterstraßen enthüllt ein neues Kapitel der Geschichte. Die öffentlichen Verkehrsmittel bringen Sie hin, aber Ihre Füße erledigen die eigentliche Erkundung.",
+        "hu": "Uclés autó nélkül is könnyen felfedezhető. A busszal való érkezés után az egész falu egyetlen, lenyűgöző gyalogos körtúrát alkot. A nap egy utazás a múltba, a falu szívétől, a Plaza Mayortól a domb tetejéig, ahol a kolostor uralkodik. A macskaköves utcákon tett minden lépés a történelem egy új fejezetét tárja fel. A tömegközlekedés odavisz, de az igazi felfedezést a lábad végzi.",
+        "ro": "Chiar și fără mașină, Uclés este ușor de descoperit. După sosirea cu autobuzul, întregul sat devine un singur cluster pietonal fascinant. Ziua este o călătorie înapoi în timp, din inima satului în Plaza Mayor până în vârful dealului unde se află mănăstirea. Fiecare pas pe străzile pietruite dezvăluie un nou capitol de istorie. Transportul public te aduce aici, dar picioarele tale fac explorarea reală.",
+        "en": "Even without a car, Uclés is easy to discover. After arriving by bus, the entire village becomes a single, fascinating walking cluster. The day is a journey back in time, from the heart of the village in the Plaza Mayor to the top of the hill where the monastery presides. Every step on the cobbled streets reveals a new chapter of history. Public transport gets you there, but your feet do the real exploring."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach einem Restaurant, das ein Mittagsmenü anbietet. Es ist eine preiswerte Möglichkeit, die lokale Küche zu probieren."
+          },
+          {
+            "name": "Duelos y Quebrantos",
+            "tip": "Ein traditionelles Gericht aus Eiern, Speck und Chorizo, das in Don Quijote erwähnt wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napi menü (Menú del Día)",
+            "tip": "Keressen egy éttermet, amely ebédmenüt kínál. Ez egy megfizethető módja a helyi konyha megkóstolásának."
+          },
+          {
+            "name": "Duelos y Quebrantos",
+            "tip": "Hagyományos étel tojásból, szalonnából és chorizóból, amelyet a Don Quijotéban is említenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniul zilei (Menú del Día)",
+            "tip": "Căutați un restaurant care oferă un meniu de prânz. Este o modalitate accesibilă de a gusta bucătăria locală."
+          },
+          {
+            "name": "Duelos y Quebrantos",
+            "tip": "Un fel de mâncare tradițional cu ouă, slănină și chorizo, menționat în Don Quijote."
+          }
+        ],
+        "en": [
+          {
+            "name": "Daily Menu (Menú del Día)",
+            "tip": "Look for a restaurant offering a set lunch menu. It's an affordable way to taste the local cuisine."
+          },
+          {
+            "name": "Duelos y Quebrantos",
+            "tip": "A traditional dish of eggs, bacon, and chorizo, famously mentioned in Don Quixote."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke in der Nähe der Stadtmauer",
+            "tip": "Finden Sie eine Bank mit Blick auf die Landschaft für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seitengassen",
+            "tip": "Verlieren Sie sich in den engen Gassen abseits der Hauptroute, um das authentische Dorfleben zu spüren.",
+            "emoji": "🚶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a városfal közelében",
+            "tip": "Keressen egy padot, amely a tájra néz, egy csendes pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mellékutcák",
+            "tip": "Tévedjen el a fő útvonaltól távol eső szűk sikátorokban, hogy átérezze az autentikus falusi életet.",
+            "emoji": "🚶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci lângă zidul orașului",
+            "tip": "Găsiți o bancă cu vedere la peisaj pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Pierdeți-vă pe aleile înguste, departe de traseul principal, pentru a simți viața autentică a satului.",
+            "emoji": "🚶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches near the town wall",
+            "tip": "Find a bench overlooking the landscape for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Side Alleys",
+            "tip": "Get lost in the narrow alleys off the main route to feel the authentic village life.",
+            "emoji": "🚶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Eine Postkarte des 'El Escorial de La Mancha' ist ein klassisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Egy képeslap a 'La Mancha-i El Escorial'-ról klasszikus szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărți poștale",
+            "tip": "O carte poștală cu 'El Escorial de La Mancha' este un suvenir clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "A postcard of the 'El Escorial of La Mancha' is a classic souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Verbindungen begrenzt sein können.",
+          "Die letzte Abfahrt des Busses ist entscheidend für Ihre Tagesplanung.",
+          "Uclés ist klein, aber der Aufstieg zur Burg erfordert eine gute körperliche Verfassung.",
+          "Fast alles ist zu Fuß erreichbar, sobald Sie angekommen sind."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mivel a járatok száma korlátozott lehet.",
+          "Az utolsó busz indulása kulcsfontosságú a napi tervezés szempontjából.",
+          "Uclés kicsi, de a várhoz való feljutás jó fizikai állapotot igényel.",
+          "Érkezés után szinte minden gyalogosan elérhető."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans, deoarece serviciile pot fi limitate.",
+          "Ora de plecare a ultimului autobuz este crucială pentru planificarea zilei.",
+          "Uclés este mic, dar urcușul la castel necesită o condiție fizică bună.",
+          "Aproape totul este accesibil pe jos odată ce ajungeți."
+        ],
+        "en": [
+          "Check the bus schedule in advance, as services can be limited.",
+          "The last bus departure time is crucial for your day's planning.",
+          "Uclés is small, but the climb to the castle requires a good level of fitness.",
+          "Almost everything is within walking distance once you arrive."
+        ]
+      }
+    }
+  }
+}

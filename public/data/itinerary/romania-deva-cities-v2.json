@@ -1,0 +1,1484 @@
+{
+  "city_id": "romania-deva-cities-v2",
+  "anchor": {
+    "name": "Diemrich",
+    "coords": [
+      45.8833,
+      22.9
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Deva & Statue von Decebal",
+            "hu": "Déva Óvárosa és Decebal szobra",
+            "ro": "Centrul Vechi al Devei și Statuia lui Decebal",
+            "en": "Old Town Deva & Statue of Decebal"
+          },
+          "coords": [
+            22.9015,
+            45.885
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee auf dem Platz, um die Atmosphäre aufzusaugen.",
+            "hu": "Kezdje a napot egy kávéval a téren, hogy magába szívja a hangulatot.",
+            "ro": "Începeți ziua cu o cafea în piață pentru a absorbi atmosfera.",
+            "en": "Start your day with a coffee in the square to soak up the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Reiterstatue von Trajan",
+            "hu": "Traianus lovas szobra",
+            "ro": "Statuia ecvestră a lui Traian",
+            "en": "Equestrian Statue of Trajan"
+          },
+          "coords": [
+            22.903,
+            45.8858
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein toller Fotopunkt mit dem Rathaus im Hintergrund.",
+            "hu": "Nagyszerű fotóhelyszín a városházával a háttérben.",
+            "ro": "Un punct excelent pentru fotografii, cu primăria în fundal.",
+            "en": "A great photo spot with the town hall in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            22.9055,
+            45.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Details im Inneren der Kirche.",
+            "hu": "Figyeljen a templom belsejében található barokk részletekre.",
+            "ro": "Fiți atenți la detaliile baroce din interiorul bisericii.",
+            "en": "Pay attention to the baroque details inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Magna Curia & Museum",
+            "hu": "Magna Curia palota és múzeum",
+            "ro": "Palatul Magna Curia și Muzeul Civilizației Dacice și Romane",
+            "en": "Magna Curia Palace & Museum"
+          },
+          "coords": [
+            22.8958,
+            45.8868
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im Palast. Planen Sie genug Zeit für beides ein.",
+            "hu": "A múzeum a palotában található. Tervezzen elég időt mindkettőre.",
+            "ro": "Muzeul se află în interiorul palatului. Planificați suficient timp pentru ambele.",
+            "en": "The museum is inside the palace. Plan enough time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungspark",
+            "hu": "Várpark",
+            "ro": "Parcul Cetății",
+            "en": "Fortress Park"
+          },
+          "coords": [
+            22.894,
+            45.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause im Grünen, bevor Sie die Festung erklimmen.",
+            "hu": "Ideális egy ebédszünetre a zöldben, mielőtt megmászná a várat.",
+            "ro": "Ideal pentru o pauză de prânz în parc înainte de a urca la cetate.",
+            "en": "Ideal for a lunch break in the park before climbing to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Deva",
+            "hu": "Déva Vára",
+            "ro": "Cetatea Devei",
+            "en": "Deva Fortress"
+          },
+          "coords": [
+            22.891,
+            45.8899
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn für einen einfachen Aufstieg und eine tolle Aussicht.",
+            "hu": "Használja a felvonót a könnyű felemelkedésért és a nagyszerű kilátásért.",
+            "ro": "Luați telecabina pentru o urcare ușoară și o priveliște superbă.",
+            "en": "Take the cable car for an easy ascent and a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az óvárosban",
+            "ro": "Cină în Centrul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            22.9018,
+            45.8852
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einer herzhaften rumänischen Mahlzeit.",
+            "hu": "Jutalmazza meg magát egy kiadós román étellel.",
+            "ro": "Recompensați-vă cu o masă românească copioasă.",
+            "en": "Reward yourself with a hearty Romanian meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Deva beginnt im Herzen der Altstadt, wo Geschichte auf Schritt und Tritt lebendig wird. Am Morgen erkunden Sie die belebten Plätze und die stillen Gänge des Franziskanerklosters. Mittags tauchen Sie im Magna Curia Palast tief in die dakische und römische Vergangenheit ein, bevor Sie eine Pause im schattigen Festungspark einlegen. Der Nachmittag ist dem majestätischen Wahrzeichen der Stadt gewidmet: der Festung Deva, die hoch über der Stadt thront und einen atemberaubenden Panoramablick bietet. Der Abend klingt bei einem traditionellen Abendessen aus, bei dem Sie die Aromen Siebenbürgens genießen und die Eindrücke des Tages Revue passieren lassen.",
+        "hu": "Dévai napja az óváros szívében kezdődik, ahol a történelem minden lépésnél megelevenedik. Délelőtt felfedezi a nyüzsgő tereket és a ferences kolostor csendes folyosóit. Délben a Magna Curia palotában mélyen elmerül a dák és római múltban, mielőtt szünetet tartana az árnyas Várparkban. A délután a város fenséges jelképének, a Déva várának van szentelve, amely magasan a város felett trónol és lélegzetelállító panorámát kínál. Az estét egy hagyományos vacsorával zárja, ahol megízlelheti Erdély ízeit és felidézheti a nap benyomásait.",
+        "ro": "Ziua dumneavoastră în Deva începe în inima centrului vechi, unde istoria prinde viață la fiecare pas. Dimineața explorați piețele pline de viață și coridoarele tăcute ale Mănăstirii Franciscane. La prânz, vă scufundați adânc în trecutul dacic și roman la Palatul Magna Curia, înainte de a lua o pauză în Parcul Cetății, umbrit. După-amiaza este dedicată emblemei maiestuoase a orașului: Cetatea Devei, care tronează sus deasupra orașului și oferă o panoramă uluitoare. Seara se încheie cu o cină tradițională, unde savurați aromele Transilvaniei și rememorați impresiile zilei.",
+        "en": "Your day in Deva begins in the heart of the old town, where history comes alive at every turn. In the morning, you'll explore the bustling squares and the quiet corridors of the Franciscan Monastery. At noon, you'll delve deep into the Dacian and Roman past at the Magna Curia Palace before taking a break in the shady Fortress Park. The afternoon is dedicated to the city's majestic landmark: Deva Fortress, towering high above the city and offering breathtaking panoramic views. The evening concludes with a traditional dinner, where you can savor the flavors of Transylvania and reflect on the day's impressions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "Eine traditionelle Kuttelsuppe, ein Muss für Abenteuerlustige."
+          },
+          {
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein rumänischer Klassiker."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Ein köstliches Dessert aus gebratenem Teig mit saurer Sahne und Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csorba (Ciorbă de burtă)",
+            "tip": "Hagyományos pacalleves, kötelező a kalandvágyóknak."
+          },
+          {
+            "name": "Mics (Mici)",
+            "tip": "Grillezett darált hús tekercsek, egy román klasszikus."
+          },
+          {
+            "name": "Papanasi (Papanăși)",
+            "tip": "Ízletes desszert sült tésztából, tejföllel és lekvárral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciorbă de burtă",
+            "tip": "O supă tradițională, o necesitate pentru cei aventuroși."
+          },
+          {
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un clasic românesc."
+          },
+          {
+            "name": "Papanăși",
+            "tip": "Un desert delicios din aluat prăjit cu smântână și gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciorbă de burtă (Tripe Soup)",
+            "tip": "A traditional tripe soup, a must-try for the adventurous."
+          },
+          {
+            "name": "Mici (Grilled Minced Meat Rolls)",
+            "tip": "Grilled minced meat rolls, a Romanian classic."
+          },
+          {
+            "name": "Papanăși (Cheese Doughnuts)",
+            "tip": "A delicious dessert of fried dough with sour cream and jam."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festungspark",
+            "tip": "Finden Sie eine ruhige Bank und genießen Sie die Natur.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Spaziergang am Mureș-Ufer",
+            "tip": "Etwas außerhalb des Zentrums für einen friedlichen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sonnenuntergang von der Festung",
+            "tip": "Der beste Panoramablick bei Einbruch der Dunkelheit.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark",
+            "tip": "Keressen egy csendes padot, és élvezze a természetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Séta a Maros partján",
+            "tip": "Kicsit a központon kívül egy békés sétáért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Naplemente a várból",
+            "tip": "A legjobb panoráma napnyugtakor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Cetății",
+            "tip": "Găsiți o bancă liniștită și bucurați-vă de natură.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plimbare pe malul Mureșului",
+            "tip": "Puțin în afara centrului pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus de soare de pe Cetate",
+            "tip": "Cea mai bună vedere panoramică la lăsarea serii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Park",
+            "tip": "Find a quiet bench and enjoy nature.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Walk along the Mureș River",
+            "tip": "Slightly outside the center for a peaceful walk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sunset from the Fortress",
+            "tip": "The best panoramic view at dusk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Suchen Sie nach handgefertigten Töpferwaren und traditionellen Textilien."
+          },
+          {
+            "name": "Souvenirläden in der Altstadt",
+            "tip": "Kaufen Sie Miniaturen der Festung oder Produkte mit Dracula-Bezug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Keressen kézzel készített kerámiákat és hagyományos textíliákat."
+          },
+          {
+            "name": "Ajándékboltok az óvárosban",
+            "tip": "Vásároljon vár-miniatúrákat vagy Drakulához kapcsolódó termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Căutați ceramică artizanală și textile tradiționale."
+          },
+          {
+            "name": "Magazine de suveniruri în Centrul Vechi",
+            "tip": "Cumpărați miniaturi ale cetății sau produse legate de Dracula."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Look for handmade pottery and traditional textiles."
+          },
+          {
+            "name": "Souvenir Shops in the Old Town",
+            "tip": "Buy miniatures of the fortress or Dracula-related products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel auf Kopfsteinpflaster laufen werden.",
+          "Der Aufstieg zur Festung ist steil; die Seilbahn ist eine gute Alternative.",
+          "Halten Sie Bargeld für kleinere Einkäufe auf Märkten oder in Cafés bereit.",
+          "Viele Museen sind montags geschlossen, überprüfen Sie die Öffnungszeiten im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog macskakövön sétálni.",
+          "A várhoz való feljutás meredek; a felvonó jó alternatíva.",
+          "Tartson magánál készpénzt a kisebb vásárlásokhoz a piacokon vagy kávézókban.",
+          "Sok múzeum zárva tart hétfőn, ellenőrizze előre a nyitvatartást."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe piatră cubică.",
+          "Urcușul spre cetate este abrupt; telecabina este o alternativă bună.",
+          "Aveți numerar la îndemână pentru cumpărături mici în piețe sau cafenele.",
+          "Multe muzee sunt închise lunea, verificați programul în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be walking a lot on cobblestones.",
+          "The climb to the fortress is steep; the cable car is a good alternative.",
+          "Keep cash on hand for small purchases at markets or cafes.",
+          "Many museums are closed on Mondays, check opening hours in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Deva",
+            "hu": "Déva Óvárosa",
+            "ro": "Centrul Vechi al Devei",
+            "en": "Old Town Deva"
+          },
+          "coords": [
+            22.9015,
+            45.885
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die Fußgängerzonen.",
+            "hu": "Zárja le a kerékpárját, és fedezze fel a sétálóutcákat.",
+            "ro": "Încuiați-vă bicicleta și explorați zonele pietonale.",
+            "en": "Lock up your bike and explore the pedestrian areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Magna Curia & Museum",
+            "hu": "Magna Curia palota és múzeum",
+            "ro": "Palatul Magna Curia și Muzeul",
+            "en": "Magna Curia Palace & Museum"
+          },
+          "coords": [
+            22.8958,
+            45.8868
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vor dem Palast gibt es oft gute Abstellmöglichkeiten für Fahrräder.",
+            "hu": "A palota előtt gyakran vannak jó kerékpártároló helyek.",
+            "ro": "Există adesea locuri bune de parcare pentru biciclete în fața palatului.",
+            "en": "There are often good places to park your bike in front of the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungspark",
+            "hu": "Várpark",
+            "ro": "Parcul Cetății",
+            "en": "Fortress Park"
+          },
+          "coords": [
+            22.894,
+            45.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Radpause und ein Picknick.",
+            "hu": "Tökéletes egy kerékpáros szünetre és piknikre.",
+            "ro": "Perfect pentru o pauză de bicicletă și un picnic.",
+            "en": "Perfect for a bike break and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Basis der Festung Deva",
+            "hu": "Déva Várának lába",
+            "ro": "Baza Cetății Devei",
+            "en": "Base of Deva Fortress"
+          },
+          "coords": [
+            22.8915,
+            45.889
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 10,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad hier sicher, bevor Sie zu Fuß oder mit der Seilbahn aufsteigen.",
+            "hu": "Parkolja le itt biztonságosan a kerékpárját, mielőtt gyalog vagy felvonóval felmenne.",
+            "ro": "Parcați-vă bicicleta în siguranță aici înainte de a urca pe jos sau cu telecabina.",
+            "en": "Park your bike safely here before ascending on foot or by cable car."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Deva (zu Fuß)",
+            "hu": "Déva Vára (gyalog)",
+            "ro": "Cetatea Devei (pe jos)",
+            "en": "Deva Fortress (on foot)"
+          },
+          "coords": [
+            22.891,
+            45.8899
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg ist die Aussicht wert. Genießen Sie die 360°-Sicht.",
+            "hu": "A mászás megéri a kilátást. Élvezze a 360°-os panorámát.",
+            "ro": "Urcușul merită priveliștea. Bucurați-vă de vederea de 360°.",
+            "en": "The climb is worth the view. Enjoy the 360° panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Mureș",
+            "hu": "Kerékpározás a Maros mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul râului Mureș",
+            "en": "Ride along the Mureș River"
+          },
+          "coords": [
+            22.925,
+            45.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages auf dem Radweg am Flussufer.",
+            "hu": "Egy pihentető befejezése a napnak a folyóparti kerékpárúton.",
+            "ro": "O încheiere relaxantă a zilei pe pista de biciclete de pe malul râului.",
+            "en": "A relaxing end to the day on the riverside cycle path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Deva flexibel und hautnah. Der Vormittag führt Sie durch die Gassen der Altstadt zum prächtigen Magna Curia Palast. Nach einer Dosis Kultur entspannen Sie im Festungspark, dem idealen Ort für eine kurze Rast. Der Höhepunkt des Tages ist der Besuch der Festung Deva; Sie stellen Ihr Rad am Fuße des Hügels ab und erobern die Spitze zu Fuß oder mit der Seilbahn. Zum Abschluss des Nachmittags radeln Sie gemütlich am Ufer des Flusses Mureș entlang und genießen die ruhige Natur, die einen schönen Kontrast zum städtischen Trubel bildet.",
+        "hu": "Kerékpárral rugalmasan és testközelből fedezheti fel Dévát. A délelőtt az óváros sikátorain keresztül a csodálatos Magna Curia palotához vezet. Egy adag kultúra után a Várparkban pihenhet, amely ideális hely egy rövid szünetre. A nap fénypontja a Déva várának meglátogatása; a kerékpárt a hegy lábánál hagyja, és gyalog vagy felvonóval hódítja meg a csúcsot. A délután lezárásaként kényelmesen kerékpározik a Maros partján, és élvezi a csendes természetet, amely szép kontrasztot alkot a városi nyüzsgéssel.",
+        "ro": "Cu bicicleta, explorați Deva în mod flexibil și de aproape. Dimineața vă poartă pe străduțele centrului vechi până la magnificul Palat Magna Curia. După o doză de cultură, vă relaxați în Parcul Cetății, locul ideal pentru o scurtă pauză. Punctul culminant al zilei este vizita la Cetatea Devei; lăsați bicicleta la poalele dealului și cuceriți vârful pe jos sau cu telecabina. La finalul după-amiezii, pedalați agale de-a lungul malului râului Mureș, bucurându-vă de natura liniștită, care oferă un contrast plăcut cu agitația urbană.",
+        "en": "By bike, you can explore Deva flexibly and up close. The morning takes you through the alleys of the old town to the magnificent Magna Curia Palace. After a dose of culture, you can relax in the Fortress Park, the ideal place for a short break. The highlight of the day is the visit to Deva Fortress; you leave your bike at the foot of the hill and conquer the summit on foot or by cable car. To end the afternoon, you'll cycle leisurely along the banks of the Mureș River, enjoying the quiet nature that provides a nice contrast to the urban hustle and bustle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Langos",
+            "tip": "Ein schneller und sättigender Snack, oft auf Märkten zu finden."
+          },
+          {
+            "name": "Frische Säfte",
+            "tip": "Suchen Sie nach Ständen, die frische Säfte für eine schnelle Erfrischung verkaufen."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "Ein traditioneller rumänischer Kuchen mit Käse gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lángos",
+            "tip": "Gyors és laktató harapnivaló, gyakran piacokon található."
+          },
+          {
+            "name": "Friss levek",
+            "tip": "Keressen standokat, ahol friss leveket árulnak egy gyors felfrissüléshez."
+          },
+          {
+            "name": "Sajtos pite (Plăcintă)",
+            "tip": "Hagyományos román pite sajttal töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langos",
+            "tip": "O gustare rapidă și sățioasă, adesea găsită în piețe."
+          },
+          {
+            "name": "Sucuri proaspete",
+            "tip": "Căutați standuri care vând sucuri proaspete pentru o răcorire rapidă."
+          },
+          {
+            "name": "Plăcintă cu brânză",
+            "tip": "O plăcintă tradițională românească umplută cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Langos",
+            "tip": "A quick and filling snack, often found at markets."
+          },
+          {
+            "name": "Fresh juices",
+            "tip": "Look for stalls selling fresh juices for a quick refreshment."
+          },
+          {
+            "name": "Plăcintă cu brânză (Cheese Pie)",
+            "tip": "A traditional Romanian pie filled with cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg am Mureș",
+            "tip": "Der perfekte Ort, um dem Stadtlärm zu entfliehen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Festungsmauern",
+            "tip": "Finden Sie eine ruhige Ecke und genießen Sie die Aussicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Früher Morgen in der Altstadt",
+            "tip": "Erleben Sie die Stadt, bevor sie erwacht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maros menti kerékpárút",
+            "tip": "A tökéletes hely a város zajától való elmenekülésre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felső várfalak",
+            "tip": "Keressen egy csendes sarkot, és élvezze a kilátást.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kora reggel az óvárosban",
+            "tip": "Tapasztalja meg a várost, mielőtt felébred.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Mureș",
+            "tip": "Locul perfect pentru a scăpa de zgomotul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile superioare ale cetății",
+            "tip": "Găsiți un colț liniștit și bucurați-vă de priveliște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dimineața devreme în Centrul Vechi",
+            "tip": "Experimentați orașul înainte ca acesta să se trezească.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mureș riverside cycle path",
+            "tip": "The perfect place to escape the city noise.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper fortress walls",
+            "tip": "Find a quiet corner and enjoy the view.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Early morning in the Old Town",
+            "tip": "Experience the city before it wakes up.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Für alle Notfälle oder um lokale Ausrüstung zu prüfen."
+          },
+          {
+            "name": "Handwerkermarkt",
+            "tip": "Kaufen Sie einzigartige Souvenirs direkt von den Herstellern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Minden vészhelyzetre vagy a helyi felszerelés ellenőrzésére."
+          },
+          {
+            "name": "Kézműves piac",
+            "tip": "Vásároljon egyedi ajándéktárgyakat közvetlenül a készítőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice urgență sau pentru a verifica echipamentul local."
+          },
+          {
+            "name": "Târg de meșteșugari",
+            "tip": "Cumpărați suveniruri unice direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "For any emergencies or to check out local gear."
+          },
+          {
+            "name": "Artisan market",
+            "tip": "Buy unique souvenirs directly from the creators."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Deva hat einige Hügel, seien Sie also auf Anstiege vorbereitet.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders am Abend.",
+          "Nutzen Sie Fahrrad-Apps, um die besten Routen zu finden."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Déván vannak dombok, tehát készüljön emelkedőkre.",
+          "Viseljen sisakot és használjon lámpákat, különösen este.",
+          "Használjon kerékpáros alkalmazásokat a legjobb útvonalak megtalálásához."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope și frânele înainte de a porni.",
+          "Deva are câteva dealuri, așa că fiți pregătiți pentru urcări.",
+          "Purtați cască și folosiți lumini, mai ales seara.",
+          "Utilizați aplicații pentru biciclete pentru a găsi cele mai bune rute."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you set off.",
+          "Deva has some hills, so be prepared for climbs.",
+          "Wear a helmet and use lights, especially in the evening.",
+          "Use cycling apps to find the best routes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Cluster Altstadt",
+            "hu": "Parkoló az Óváros klaszternél",
+            "ro": "Parcare Cluster Centrul Vechi",
+            "en": "Parking for Old Town Cluster"
+          },
+          "coords": [
+            22.906,
+            45.8845
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Parkoljon itt a délelőttre. A legtöbb látnivaló gyalogosan elérhető.",
+            "ro": "Parcați aici pentru dimineață. Majoritatea atracțiilor sunt la distanță de mers pe jos.",
+            "en": "Park here for the morning. Most sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt, Decebal & Trajan Statuen",
+            "hu": "Óváros, Decebal és Traianus szobrok",
+            "ro": "Centrul Vechi, Statuile lui Decebal și Traian",
+            "en": "Old Town, Decebal & Trajan Statues"
+          },
+          "coords": [
+            22.9025,
+            45.8854
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kompakter Spaziergang, um die wichtigsten Monumente zu sehen.",
+            "hu": "Egy rövid séta a legfontosabb műemlékek megtekintéséhez.",
+            "ro": "O plimbare compactă pentru a vedea monumentele cheie.",
+            "en": "A compact walk to see the key monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            22.9055,
+            45.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von den Statuen entfernt.",
+            "hu": "Rövid sétára a szobroktól.",
+            "ro": "La o scurtă plimbare de statui.",
+            "en": "A short walk from the statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Magna Curia & Museum",
+            "hu": "Magna Curia palota és múzeum",
+            "ro": "Palatul Magna Curia și Muzeul",
+            "en": "Magna Curia Palace & Museum"
+          },
+          "coords": [
+            22.8958,
+            45.8868
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte Ziel in diesem Cluster, planen Sie viel Zeit ein.",
+            "hu": "A legnagyobb célpont ebben a klaszterben, tervezzen sok időt.",
+            "ro": "Cel mai mare obiectiv din acest cluster, planificați mult timp.",
+            "en": "The largest destination in this cluster, allow plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Cluster Festung",
+            "hu": "Parkoló a Vár klaszternél",
+            "ro": "Parcare Cluster Cetate",
+            "en": "Parking for Fortress Cluster"
+          },
+          "coords": [
+            22.893,
+            45.8885
+          ],
+          "category": "transport",
+          "arrive_at": "13:05",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Fuße der Festung. Der perfekte Ort für den Nachmittag.",
+            "hu": "Vezessen a vár lábánál lévő parkolóhoz. Tökéletes hely a délutánra.",
+            "ro": "Conduceți la parcarea de la poalele cetății. Locul perfect pentru după-amiază.",
+            "en": "Drive to the parking lot at the base of the fortress. The perfect spot for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungspark",
+            "hu": "Várpark",
+            "ro": "Parcul Cetății",
+            "en": "Fortress Park"
+          },
+          "coords": [
+            22.894,
+            45.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Picknick oder essen Sie in einem der nahegelegenen Restaurants zu Mittag.",
+            "hu": "Piknikezzen vagy ebédeljen az egyik közeli étteremben.",
+            "ro": "Faceți un picnic sau luați prânzul la unul dintre restaurantele din apropiere.",
+            "en": "Have a picnic or grab lunch at one of the nearby restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Deva",
+            "hu": "Déva Vára",
+            "ro": "Cetatea Devei",
+            "en": "Deva Fortress"
+          },
+          "coords": [
+            22.891,
+            45.8899
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 190,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, die Ruinen zu erkunden und die Aussicht von allen Seiten zu genießen.",
+            "hu": "Szánjon időt a romok felfedezésére és a kilátás élvezetére minden oldalról.",
+            "ro": "Luați-vă timp pentru a explora ruinele și a vă bucura de priveliștea din toate părțile.",
+            "en": "Take your time to explore the ruins and enjoy the view from all sides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto ist Deva ein Kinderspiel. Sie parken am Morgen im ersten Cluster und erkunden die gesamte Altstadt zu Fuß – von den Statuen bis zum beeindruckenden Magna Curia Museum. Kein Stress mit Parkplatzsuche zwischen den Stopps. Am frühen Nachmittag fahren Sie die kurze Strecke zum zweiten Cluster: dem Festungshügel. Dort parken Sie erneut und widmen den Rest des Tages dem Park und der majestätischen Festung selbst. Diese Methode kombiniert den Komfort des Autos für die Distanz mit der Freude am Spazierengehen im Herzen der Sehenswürdigkeiten.",
+        "hu": "Autóval Déva gyerekjáték. Reggel leparkol az első klaszterben, és gyalog fedezi fel az egész óvárost – a szobroktól a lenyűgöző Magna Curia Múzeumig. Nincs stressz a megállók közötti parkolóhely-kereséssel. Kora délután a rövid távot a második klaszterhez, a Várhegyhez teszi meg. Ott újra leparkol, és a nap hátralévő részét a parknak és magának a fenséges várnak szenteli. Ez a módszer ötvözi az autó kényelmét a távolságokhoz azzal az örömmel, hogy a látnivalók szívében sétálhat.",
+        "ro": "Cu mașina, Deva este o joacă de copii. Parcați dimineața în primul cluster și explorați tot centrul vechi pe jos - de la statui la impresionantul Muzeu Magna Curia. Fără stres cu căutarea locurilor de parcare între opriri. La începutul după-amiezii, conduceți scurta distanță până la al doilea cluster: Dealul Cetății. Acolo parcați din nou și dedicați restul zilei parcului și cetății maiestuoase în sine. Această metodă combină confortul mașinii pentru distanță cu bucuria de a vă plimba în inima atracțiilor.",
+        "en": "With a car, Deva is a breeze. You park in the first cluster in the morning and explore the entire old town on foot – from the statues to the impressive Magna Curia Museum. No stress with finding parking between stops. In the early afternoon, you drive the short distance to the second cluster: the Fortress Hill. There, you park again and dedicate the rest of the day to the park and the majestic fortress itself. This method combines the convenience of the car for distance with the joy of walking in the heart of the attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Pizzeria Veneția",
+            "tip": "Gut für eine zuverlässige Mahlzeit in der Nähe der Altstadt."
+          },
+          {
+            "name": "Cofetăriaത്തിൽ Arsena",
+            "tip": "Probieren Sie lokale Kuchen und Gebäck nach dem Museumsbesuch."
+          },
+          {
+            "name": "Restaurant am Fuße der Festung",
+            "tip": "Genießen Sie eine Mahlzeit mit Blick auf Ihr nächstes Ziel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veneția Étterem és Pizzéria",
+            "tip": "Jó választás egy megbízható étkezéshez az óváros közelében."
+          },
+          {
+            "name": "Arsena Cukrászda",
+            "tip": "Kóstolja meg a helyi süteményeket a múzeumlátogatás után."
+          },
+          {
+            "name": "Étterem a vár lábánál",
+            "tip": "Élvezzen egy ételt, miközben a következő úti céljára néz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Pizzeria Veneția",
+            "tip": "Bun pentru o masă de încredere lângă Centrul Vechi."
+          },
+          {
+            "name": "Cofetăria Arsena",
+            "tip": "Încercați prăjituri și produse de patiserie locale după vizita la muzeu."
+          },
+          {
+            "name": "Restaurant la poalele Cetății",
+            "tip": "Savurați o masă cu vedere la următoarea destinație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Pizzeria Veneția",
+            "tip": "Good for a reliable meal near the Old Town."
+          },
+          {
+            "name": "Cofetăria Arsena",
+            "tip": "Try local cakes and pastries after the museum visit."
+          },
+          {
+            "name": "Restaurant at the base of the Fortress",
+            "tip": "Enjoy a meal with a view of your next destination."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Festungsmauern",
+            "tip": "Der Panoramablick ist die ultimative Belohnung.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Eine Bank im Festungspark",
+            "tip": "Ein friedlicher Ort zum Ausruhen zwischen den Clustern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hinterhof des Magna Curia",
+            "tip": "Oft ein übersehener, ruhiger Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső várfalak",
+            "tip": "A panorámás kilátás a végső jutalom.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy pad a Várparkban",
+            "tip": "Békés hely a pihenésre a klaszterek között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Magna Curia hátsó udvara",
+            "tip": "Gyakran figyelmen kívül hagyott, csendes hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile superioare ale Cetății",
+            "tip": "Priveliștea panoramică este recompensa supremă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "O bancă în Parcul Cetății",
+            "tip": "Un loc pașnic pentru a vă odihni între clustere.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară a Magna Curia",
+            "tip": "Adesea un loc liniștit, trecut cu vederea.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Fortress Walls",
+            "tip": "The panoramic view is the ultimate reward.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A bench in Fortress Park",
+            "tip": "A peaceful spot to rest between clusters.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Backyard of Magna Curia",
+            "tip": "Often an overlooked, quiet spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kaufen Sie Honig oder Pálinka von lokalen Verkäufern."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Suchen Sie in den Seitenstraßen nach einzigartigen Fundstücken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásároljon mézet vagy pálinkát helyi árusoktól."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "Keressen egyedi leleteket a mellékutcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpărați miere sau pălincă de la vânzătorii locali."
+          },
+          {
+            "name": "Magazine de antichități",
+            "tip": "Căutați piese unice pe străzile lăturalnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local produce",
+            "tip": "Buy honey or pálinka from local vendors."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "Look for unique finds in the side streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach bewachten oder gebührenpflichtigen Parkplätzen für mehr Sicherheit.",
+          "Planen Sie Ihre Route zwischen den Clustern im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Ein Auto ermöglicht es Ihnen auch, nahegelegene Sehenswürdigkeiten wie die Burg Hunedoara zu besuchen (zusätzliche Zeit erforderlich).",
+          "Lassen Sie keine Wertsachen im Auto sichtbar liegen."
+        ],
+        "hu": [
+          "Keressen őrzött vagy fizetős parkolókat a nagyobb biztonság érdekében.",
+          "Tervezze meg előre az útvonalat a klaszterek között az egyirányú utcák elkerülése érdekében.",
+          "Az autó lehetővé teszi a közeli látnivalók, például a Vajdahunyadi vár meglátogatását is (további idő szükséges).",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban."
+        ],
+        "ro": [
+          "Căutați parcări păzite sau cu plată pentru mai multă siguranță.",
+          "Planificați-vă ruta între clustere în avans pentru a evita străzile cu sens unic.",
+          "O mașină vă permite, de asemenea, să vizitați atracții din apropiere, cum ar fi Castelul Corvinilor (necesită timp suplimentar).",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Look for guarded or paid parking lots for more security.",
+          "Plan your route between clusters in advance to avoid one-way streets.",
+          "A car also allows you to visit nearby attractions like Corvin Castle (requires extra time).",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Cluster Altstadt (Bushaltestelle)",
+            "hu": "Érkezés az Óváros klaszterbe (buszmegálló)",
+            "ro": "Sosire Cluster Centrul Vechi (stație de autobuz)",
+            "en": "Arrival at Old Town Cluster (Bus Stop)"
+          },
+          "coords": [
+            22.9065,
+            45.8855
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie hier aus, um den ersten Teil Ihrer Erkundung zu beginnen.",
+            "hu": "Szálljon le itt, hogy megkezdje a felfedezés első részét.",
+            "ro": "Coborâți aici pentru a începe prima parte a explorării.",
+            "en": "Get off here to start the first part of your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Statuen-Rundgang",
+            "hu": "Óvárosi és szoborkörút",
+            "ro": "Tur pietonal Centrul Vechi și Statui",
+            "en": "Old Town & Statues Walking Tour"
+          },
+          "coords": [
+            22.903,
+            45.8858
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Alle wichtigen Statuen und Plätze sind nur wenige Gehminuten voneinander entfernt.",
+            "hu": "Minden fontos szobor és tér sétatávolságra van egymástól.",
+            "ro": "Toate statuile și piețele importante sunt la câteva minute de mers pe jos una de cealaltă.",
+            "en": "All major statues and squares are within a few minutes' walk of each other."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Magna Curia & Museum",
+            "hu": "Magna Curia palota és múzeum",
+            "ro": "Palatul Magna Curia și Muzeul",
+            "en": "Magna Curia Palace & Museum"
+          },
+          "coords": [
+            22.8958,
+            45.8868
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch den Park führt Sie direkt zum Museum.",
+            "hu": "Egy szép séta a parkon keresztül egyenesen a múzeumhoz vezet.",
+            "ro": "O plimbare frumoasă prin parc vă duce direct la muzeu.",
+            "en": "A pleasant walk through the park takes you directly to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zur Festung",
+            "hu": "Busz a várhoz",
+            "ro": "Autobuz spre Cetate",
+            "en": "Bus to the Fortress"
+          },
+          "coords": [
+            22.897,
+            45.886
+          ],
+          "category": "transport",
+          "arrive_at": "12:40",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe der Seilbahnstation bringt.",
+            "hu": "Vegyen egy helyi buszt, amely a felvonóállomás közelébe visz.",
+            "ro": "Luați un autobuz local care vă duce aproape de stația de telecabină.",
+            "en": "Take a local bus that will take you near the cable car station."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungspark",
+            "hu": "Várpark",
+            "ro": "Parcul Cetății",
+            "en": "Fortress Park"
+          },
+          "coords": [
+            22.894,
+            45.888
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause nach der Busfahrt.",
+            "hu": "Ideális hely egy ebédszünetre a buszozás után.",
+            "ro": "Un loc ideal pentru o pauză de prânz după călătoria cu autobuzul.",
+            "en": "An ideal place for a lunch break after the bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Deva (Seilbahn & zu Fuß)",
+            "hu": "Déva Vára (felvonó és gyalog)",
+            "ro": "Cetatea Devei (telecabină și pe jos)",
+            "en": "Deva Fortress (Cable Car & Walk)"
+          },
+          "coords": [
+            22.891,
+            45.8899
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 225,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Seilbahn spart Zeit und Energie für die Erkundung der weitläufigen Festung.",
+            "hu": "A felvonó időt és energiát takarít meg a tágas vár felfedezéséhez.",
+            "ro": "Telecabina economisește timp și energie pentru explorarea cetății extinse.",
+            "en": "The cable car saves time and energy for exploring the extensive fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Nutzung öffentlicher Verkehrsmittel in Deva ist effizient, wenn man in Clustern denkt. Sie beginnen Ihren Tag im historischen Zentrum, das Sie nach einer kurzen Busfahrt erreichen. Alle Sehenswürdigkeiten der Altstadt sind bequem zu Fuß erreichbar. Nach dem Eintauchen in die Geschichte bringt Sie eine weitere Busfahrt zum Fuße des Festungshügels. Von hier aus können Sie den Nachmittag damit verbringen, den Park und die Festung zu erkunden, bevor Sie am Abend wieder ins Zentrum zurückkehren. Diese Methode ist kostengünstig und umweltfreundlich.",
+        "hu": "A dévai tömegközlekedés hatékony, ha klaszterekben gondolkodik. A napot a történelmi központban kezdi, amelyet egy rövid buszozás után ér el. Az óváros összes látnivalója kényelmesen megközelíthető gyalog. Miután elmerült a történelemben, egy másik buszút elviszi a Várhegy lábához. Innen a délutánt a park és a vár felfedezésével töltheti, mielőtt este visszatérne a központba. Ez a módszer költséghatékony és környezetbarát.",
+        "ro": "Utilizarea transportului public în Deva este eficientă dacă gândiți în clustere. Începeți ziua în centrul istoric, la care ajungeți după o scurtă călătorie cu autobuzul. Toate atracțiile din centrul vechi sunt ușor accesibile pe jos. După ce v-ați cufundat în istorie, o altă călătorie cu autobuzul vă duce la poalele Dealului Cetății. De aici, puteți petrece după-amiaza explorând parcul și cetatea, înainte de a vă întoarce în centru seara. Această metodă este economică și ecologică.",
+        "en": "Using public transport in Deva is efficient if you think in clusters. You start your day in the historic center, which you reach after a short bus ride. All the sights of the old town are easily accessible on foot. After immersing yourself in history, another bus ride takes you to the foot of the Fortress Hill. From here, you can spend the afternoon exploring the park and the fortress before returning to the center in the evening. This method is cost-effective and environmentally friendly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Covrigi",
+            "tip": "Ein warmer, salziger Brezel, perfekt für unterwegs."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Suchen Sie nach kleinen Bäckereien für frisches Gebäck zum Frühstück."
+          },
+          {
+            "name": "Restaurant Capriccio",
+            "tip": "Ein beliebtes Restaurant im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec (Covrigi)",
+            "tip": "Meleg, sós perec, tökéletes útközben."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Keressen kis pékségeket friss péksüteményekért reggelire."
+          },
+          {
+            "name": "Capriccio Étterem",
+            "tip": "Népszerű étterem a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Covrigi",
+            "tip": "Un covrig cald și sărat, perfect pentru drum."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Căutați mici brutării pentru produse de patiserie proaspete la micul dejun."
+          },
+          {
+            "name": "Restaurant Capriccio",
+            "tip": "Un restaurant popular în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covrigi (Pretzels)",
+            "tip": "A warm, salty pretzel, perfect for on the go."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Look for small bakeries for fresh pastries for breakfast."
+          },
+          {
+            "name": "Capriccio Restaurant",
+            "tip": "A popular restaurant in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Beobachten Sie das Stadtleben vom Fenster aus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gipfel der Festung",
+            "tip": "Über dem Trubel der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen der Altstadt",
+            "tip": "Entfliehen Sie den Hauptplätzen für einen Moment der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a városból kifelé",
+            "tip": "Figyelje a városi életet az ablakból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A vár csúcsa",
+            "tip": "A város nyüzsgése felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az óváros mellékutcái",
+            "tip": "Meneküljön el a főterekről egy pillanatnyi csendért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți viața orașului de la fereastră.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Cetății",
+            "tip": "Deasupra agitației orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele lăturalnice din Centrul Vechi",
+            "tip": "Evadați din piețele principale pentru un moment de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride out of town",
+            "tip": "Watch the city life from the window.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summit of the Fortress",
+            "tip": "Above the hustle and bustle of the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Side alleys of the Old Town",
+            "tip": "Escape the main squares for a moment of peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Kaufen Sie Tickets, Zeitungen und Snacks."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Museums",
+            "tip": "Finden Sie Bücher und Postkarten über die lokale Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Vásároljon jegyeket, újságokat és rágcsálnivalókat."
+          },
+          {
+            "name": "Boltok a múzeum közelében",
+            "tip": "Találjon könyveket és képeslapokat a helyi történelemről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din stațiile de autobuz",
+            "tip": "Cumpărați bilete, ziare și gustări."
+          },
+          {
+            "name": "Magazine lângă muzeu",
+            "tip": "Găsiți cărți și vederi despre istoria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Buy tickets, newspapers, and snacks."
+          },
+          {
+            "name": "Shops near the museum",
+            "tip": "Find books and postcards about local history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Überprüfen Sie den Busfahrplan im Voraus, besonders am Wochenende.",
+          "Haben Sie das Ziel für den Busfahrer bereit, falls Sie sich nicht sicher sind.",
+          "Laden Sie eine lokale ÖPNV-App herunter, falls verfügbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, különösen hétvégén.",
+          "Legyen készenlétben az úti cél a buszsofőr számára, ha bizonytalan.",
+          "Töltse le a helyi tömegközlekedési alkalmazást, ha elérhető."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Verificați programul autobuzelor în avans, mai ales în weekend.",
+          "Pregătiți destinația pentru șoferul de autobuz dacă nu sunteți sigur.",
+          "Descărcați o aplicație locală de transport public, dacă este disponibilă."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedule in advance, especially on weekends.",
+          "Have your destination ready for the bus driver if you are unsure.",
+          "Download a local public transport app if available."
+        ]
+      }
+    }
+  }
+}

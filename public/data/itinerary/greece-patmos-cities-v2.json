@@ -1,0 +1,1484 @@
+{
+  "city_id": "greece-patmos-cities-v2",
+  "anchor": {
+    "name": "Patmos Stadt",
+    "coords": [
+      26.55,
+      37.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Chora",
+            "hu": "Chora óvárosa",
+            "ro": "Orașul vechi Chora",
+            "en": "Chora Old Town"
+          },
+          "coords": [
+            26.5478,
+            37.3295
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen; jeder Winkel ist ein Foto wert.",
+            "hu": "Tévedjen el a sikátorokban; minden sarok egy fotót ér.",
+            "ro": "Pierdeți-vă pe alei; fiecare colț merită o fotografie.",
+            "en": "Get lost in the alleys; every corner is worth a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Patmos",
+            "hu": "Pátmoszi szélmalmok",
+            "ro": "Morile de vânt din Patmos",
+            "en": "Windmills of Patmos"
+          },
+          "coords": [
+            26.5461,
+            37.3275
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Ort für einen Panoramablick bei Sonnenuntergang.",
+            "hu": "A legjobb hely a naplementés panorámához.",
+            "ro": "Cel mai bun loc pentru o vedere panoramică la apus.",
+            "en": "The best spot for a panoramic view at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanneskloster",
+            "hu": "Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan",
+            "en": "Monastery of Saint John"
+          },
+          "coords": [
+            26.5447,
+            37.3292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Kleiderordnung: Schultern und Knie bedecken.",
+            "hu": "Ügyeljen a ruházati előírásokra: takarja el a vállát és a térdét.",
+            "ro": "Respectați codul vestimentar: umerii și genunchii acoperiți.",
+            "en": "Pay attention to the dress code: cover shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Simantiri-Haus",
+            "hu": "Simantiri-kúria",
+            "ro": "Conacul Simantiri",
+            "en": "Simantiri Mansion"
+          },
+          "coords": [
+            26.5475,
+            37.3288
+          ],
+          "category": "museums",
+          "arrive_at": "13:09",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Einblick in das Leben einer wohlhabenden patmischen Familie im 19. Jahrhundert.",
+            "hu": "Betekintés egy gazdag 19. századi pátmoszi család életébe.",
+            "ro": "O privire în viața unei familii bogate din Patmos în secolul al XIX-lea.",
+            "en": "A glimpse into the life of a wealthy Patmian family in the 19th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte der Offenbarung",
+            "hu": "Apokalipszis-barlangja",
+            "ro": "Peștera Apocalipsei",
+            "en": "Cave of the Apocalypse"
+          },
+          "coords": [
+            26.5484,
+            37.3191
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein Ort von immenser spiritueller Bedeutung, seien Sie respektvoll.",
+            "hu": "Hatalmas spirituális jelentőségű hely, legyen tisztelettudó.",
+            "ro": "Un loc de o imensă importanță spirituală, fiți respectuos.",
+            "en": "A place of immense spiritual importance, be respectful."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz von Agia Lesvia",
+            "hu": "Agia Lesvia tér",
+            "ro": "Piața Agia Lesvia",
+            "en": "Agia Lesvia Square"
+          },
+          "coords": [
+            26.5492,
+            37.3298
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen griechischen Kaffee in einem der örtlichen Kafenions.",
+            "hu": "Fogyasszon el egy görög kávét a helyi kafenionok egyikében.",
+            "ro": "Savurați o cafea grecească la una dintre cafenelele locale (kafenion).",
+            "en": "Enjoy a Greek coffee at one of the local kafenions."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Chora",
+            "hu": "Ebéd Chorában",
+            "ro": "Prânz în Chora",
+            "en": "Lunch in Chora"
+          },
+          "coords": [
+            26.548,
+            37.329
+          ],
+          "category": "gastro",
+          "arrive_at": "16:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie 'Benetos' für eine gehobene mediterrane Küche.",
+            "hu": "Próbálja ki a 'Benetos'-t egy emelkedett mediterrán konyháért.",
+            "ro": "Încercați 'Benetos' pentru bucătărie mediteraneană rafinată.",
+            "en": "Try 'Benetos' for an upscale Mediterranean dining experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der labyrinthartigen Gassen von Chora, einem UNESCO-Weltkulturerbe. Am Vormittag besuchen Sie die ikonischen Windmühlen und das imposante Johanneskloster, das einen atemberaubenden Blick bietet. Nach dem Mittagessen steigen Sie hinab zur heiligen Grotte der Offenbarung. Der Nachmittag ist für einen entspannten Kaffee auf dem Platz von Agia Lesvia reserviert, bevor Sie ein traditionelles griechisches Abendessen genießen.",
+        "hu": "Kezdje a napot Chora labirintusszerű sikátorainak felfedezésével, amely az UNESCO Világörökség része. Délelőtt látogasson el az ikonikus szélmalmokhoz és a lenyűgöző Szent János-kolostorhoz, ahonnan lélegzetelállító a kilátás. Ebéd után ereszkedjen le a szent Apokalipszis-barlangjához. A délután egy pihentető kávézással telik az Agia Lesvia téren, mielőtt egy hagyományos görög vacsorát fogyasztana el.",
+        "ro": "Începeți ziua explorând aleile labirintice din Chora, un sit al Patrimoniului Mondial UNESCO. La amiază, vizitați morile de vânt iconice și impunătoarea Mănăstire a Sfântului Ioan, care oferă priveliști uluitoare. După prânz, coborâți la sfânta Peșteră a Apocalipsei. După-amiaza este rezervată pentru o cafea relaxantă în Piața Agia Lesvia înainte de a vă bucura de o cină tradițională grecească.",
+        "en": "Start your day exploring the labyrinthine alleys of Chora, a UNESCO World Heritage site. Mid-morning, visit the iconic windmills and the imposing Monastery of Saint John, offering breathtaking views. After lunch, descend to the sacred Cave of the Apocalypse. The afternoon is reserved for a relaxing coffee in Agia Lesvia Square before enjoying a traditional Greek dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Patmische Käsepastete (Patiniotiki Tiropita)",
+            "tip": "Ein lokaler Genuss aus drei verschiedenen Käsesorten."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Frisch aus der Ägäis, ein Muss in den Tavernen am Wasser."
+          },
+          {
+            "name": "Benetos Restaurant",
+            "tip": "Ein gehobenes Restaurant mit fantastischem Essen und Ambiente in Sapsila."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pátmoszi sajtos pite (Patiniotiki Tiropita)",
+            "tip": "Helyi finomság, három különböző sajtból készül."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Frissen az Égei-tengerből, kötelező a vízparti tavernákban."
+          },
+          {
+            "name": "Benetos Étterem",
+            "tip": "Egy elegáns étterem fantasztikus ételekkel és hangulattal Sapsilában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plăcintă cu brânză din Patmos (Patiniotiki Tiropita)",
+            "tip": "O delicatesă locală făcută din trei tipuri diferite de brânză."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Proaspătă din Marea Egee, o necesitate la tavernele de pe malul apei."
+          },
+          {
+            "name": "Restaurantul Benetos",
+            "tip": "Un restaurant de lux cu mâncare și ambianță fantastică în Sapsila."
+          }
+        ],
+        "en": [
+          {
+            "name": "Patmian Cheese Pie (Patiniotiki Tiropita)",
+            "tip": "A local delicacy made with three different kinds of cheese."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Fresh from the Aegean, a must-try at the waterfront tavernas."
+          },
+          {
+            "name": "Benetos Restaurant",
+            "tip": "An upscale restaurant with fantastic food and ambiance in Sapsila."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Psili Ammos Strand",
+            "tip": "Ein abgelegener Sandstrand, der nur zu Fuß oder mit dem Boot erreichbar ist.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Sonnenuntergang bei den Windmühlen",
+            "tip": "Ein ruhiger Ort, um die Sonne über der Ägäis untergehen zu sehen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster Zoodochos Pigi",
+            "tip": "Ein friedliches Nonnenkloster mit wunderschönen Gärten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Psili Ammos strand",
+            "tip": "Egy eldugott homokos strand, csak gyalog vagy hajóval közelíthető meg.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Naplemente a szélmalmoknál",
+            "tip": "Csendes hely, ahol megnézheti, ahogy a nap lemegy az Égei-tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zoodochos Pigi kolostor",
+            "tip": "Békés apácakolostor gyönyörű kertekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Psili Ammos",
+            "tip": "O plajă de nisip retrasă, accesibilă doar pe jos sau cu barca.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Apus de soare la Morile de vânt",
+            "tip": "Un loc liniștit pentru a privi soarele apunând peste Marea Egee.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Zoodochos Pigi",
+            "tip": "O mănăstire pașnică de maici, cu grădini frumoase.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Psili Ammos Beach",
+            "tip": "A secluded sandy beach, accessible only by foot or boat.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Sunset at the Windmills",
+            "tip": "A serene spot to watch the sun dip below the Aegean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery of Zoodochos Pigi",
+            "tip": "A peaceful nunnery with beautiful gardens.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ikonen und religiöse Kunst",
+            "tip": "Handgemalte Ikonen, die von den Mönchen und Nonnen der Insel hergestellt wurden."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Suchen Sie nach handgefertigter Keramik in den Geschäften von Chora."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ikonok és vallási művészet",
+            "tip": "Kézzel festett ikonok, amelyeket a sziget szerzetesei és apácái készítettek."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keressen kézzel készített kerámiákat Chora üzleteiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Icoane și artă religioasă",
+            "tip": "Icoane pictate manual, realizate de călugării și maicile de pe insulă."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică lucrată manual în magazinele din Chora."
+          }
+        ],
+        "en": [
+          {
+            "name": "Icons and Religious Art",
+            "tip": "Hand-painted icons made by the monks and nuns on the island."
+          },
+          {
+            "name": "Local Ceramics",
+            "tip": "Look for handmade pottery in the shops of Chora."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie sehr bequeme Schuhe, da die Straßen steil und gepflastert sind.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Respektieren Sie die heiligen Stätten, indem Sie sich angemessen kleiden.",
+          "Die Vormittage sind die beste Zeit, um die Menschenmassen zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen nagyon kényelmes cipőt, mivel az utcák meredekek és macskakövesek.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "Tisztelje a szent helyeket megfelelő öltözködéssel.",
+          "A délelőtti órák a legjobbak a tömeg elkerülésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte foarte confortabilă, deoarece străzile sunt abrupte și pavate.",
+          "Luați multă apă cu dumneavoastră, mai ales în timpul verii.",
+          "Respectați locurile sfinte îmbrăcându-vă corespunzător.",
+          "Diminețile sunt cel mai bun moment pentru a evita aglomerația."
+        ],
+        "en": [
+          "Wear very comfortable shoes as the streets are steep and cobbled.",
+          "Bring plenty of water, especially during the summer.",
+          "Respect the holy sites by dressing appropriately.",
+          "Mornings are the best time to avoid the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotte der Offenbarung",
+            "hu": "Apokalipszis-barlangja",
+            "ro": "Peștera Apocalipsei",
+            "en": "Cave of the Apocalypse"
+          },
+          "coords": [
+            26.5484,
+            37.3191
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Weg ist steil, aber die spirituelle Atmosphäre ist es wert.",
+            "hu": "Az út meredek, de a spirituális légkör megéri.",
+            "ro": "Drumul este abrupt, dar atmosfera spirituală merită.",
+            "en": "The ride is steep, but the spiritual atmosphere is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Chora",
+            "hu": "Chora óvárosa",
+            "ro": "Orașul vechi Chora",
+            "en": "Chora Old Town"
+          },
+          "coords": [
+            26.5478,
+            37.3295
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Eingang und erkunden Sie die engen Gassen zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a bejáratnál, és fedezze fel a szűk sikátorokat gyalog.",
+            "ro": "Parcați bicicleta la intrare și explorați aleile înguste pe jos.",
+            "en": "Park your bike at the entrance and explore the narrow alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanneskloster",
+            "hu": "Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan",
+            "en": "Monastery of Saint John"
+          },
+          "coords": [
+            26.5447,
+            37.3292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:54",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Aussicht von der Spitze der Festung ist die anstrengende Radtour wert.",
+            "hu": "A kilátás az erőd tetejéről megéri a fárasztó biciklizést.",
+            "ro": "Priveliștea din vârful cetății merită urcarea obositoare cu bicicleta.",
+            "en": "The view from the top of the fortress is worth the strenuous bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Patmos",
+            "hu": "Pátmoszi szélmalmok",
+            "ro": "Morile de vânt din Patmos",
+            "en": "Windmills of Patmos"
+          },
+          "coords": [
+            26.5461,
+            37.3275
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein großartiger Fotostopp mit Blick auf Chora und das Kloster.",
+            "hu": "Nagyszerű fotómegálló, kilátással Chorára és a kolostorra.",
+            "ro": "O oprire excelentă pentru fotografii, cu vedere la Chora și la mănăstire.",
+            "en": "A great photo stop overlooking Chora and the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Strand in Grikos",
+            "hu": "Ebéd és strandolás Grikosban",
+            "ro": "Prânz și plajă în Grikos",
+            "en": "Lunch and Beach at Grikos"
+          },
+          "coords": [
+            26.565,
+            37.295
+          ],
+          "category": "beach",
+          "arrive_at": "14:21",
+          "stay_min": 120,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Eine entspannte Bucht, perfekt für ein Mittagessen am Meer und ein Bad.",
+            "hu": "Egy nyugodt öböl, tökéletes egy tengerparti ebédhez és úszáshoz.",
+            "ro": "Un golf relaxat, perfect pentru un prânz pe malul mării și o baie.",
+            "en": "A relaxed bay perfect for a seaside lunch and a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Skala",
+            "hu": "Visszatérés Skalába",
+            "ro": "Întoarcere la Skala",
+            "en": "Return to Skala"
+          },
+          "coords": [
+            26.543,
+            37.322
+          ],
+          "category": "harbor",
+          "arrive_at": "16:33",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Drink am Hafen und beobachten Sie die Boote.",
+            "hu": "Zárja a napot egy itallal a kikötőben, nézve a hajókat.",
+            "ro": "Încheiați ziua cu o băutură în port, privind bărcile.",
+            "en": "End the day with a drink at the port, watching the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in Skala und fahren Sie bergauf zur Grotte der Offenbarung. Erkunden Sie am Vormittag die Gassen von Chora und besuchen Sie das monumentale Johanneskloster. Nach einem Fotostopp bei den Windmühlen fahren Sie zur malerischen Bucht von Grikos für ein entspanntes Mittagessen und eine Abkühlung im Meer. Der Tag endet mit einer gemütlichen Rückfahrt nach Skala, wo Sie die Atmosphäre des Hafens genießen können.",
+        "hu": "Kezdje a kerékpártúrát Skalából, és tekerjen fel az Apokalipszis-barlangjához. Délelőtt fedezze fel Chora sikátorait, és látogasson el a monumentális Szent János-kolostorba. A szélmalmoknál tett fotómegálló után irány a festői Grikos-öböl egy laza ebédre és egy csobbanásra a tengerben. A nap egy kényelmes visszatekeréssel zárul Skalába, ahol élvezheti a kikötő hangulatát.",
+        "ro": "Începeți turul cu bicicleta din Skala, urcând spre Peștera Apocalipsei. La amiază, explorați aleile din Chora și vizitați monumentala Mănăstire a Sfântului Ioan. După o oprire pentru fotografii la morile de vânt, mergeți spre golful pitoresc Grikos pentru un prânz relaxant și o baie în mare. Ziua se încheie cu o plimbare lejeră înapoi la Skala pentru a vă bucura de atmosfera portului.",
+        "en": "Start your bike tour from Skala, heading uphill to the Cave of the Apocalypse. Mid-morning, explore the alleys of Chora and visit the monumental Monastery of Saint John. After a photo stop at the windmills, cycle to the picturesque bay of Grikos for a relaxed lunch and a dip in the sea. The day concludes with a leisurely ride back to Skala to enjoy the port's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'To Kyma'",
+            "tip": "In Grikos gelegen, serviert sie frischen Fisch direkt am Strand."
+          },
+          {
+            "name": "Pita-Gyros in Skala",
+            "tip": "Ein schneller und leckerer Snack nach einer langen Radtour."
+          },
+          {
+            "name": "Ouzeri 'Hiliomodi'",
+            "tip": "Ein traditioneller Ort für Meze und Ouzo in Skala."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'To Kyma' Taverna",
+            "tip": "Grikosban található, friss halat szolgálnak fel közvetlenül a strandon."
+          },
+          {
+            "name": "Pita-Gyros Skalában",
+            "tip": "Gyors és finom harapnivaló egy hosszú kerékpártúra után."
+          },
+          {
+            "name": "'Hiliomodi' Ouzeri",
+            "tip": "Hagyományos hely meze-re és ouzo-ra Skalában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'To Kyma'",
+            "tip": "Situată în Grikos, servește pește proaspăt chiar pe plajă."
+          },
+          {
+            "name": "Pita Gyros în Skala",
+            "tip": "O gustare rapidă și delicioasă după o plimbare lungă cu bicicleta."
+          },
+          {
+            "name": "Ouzeri 'Hiliomodi'",
+            "tip": "Un loc tradițional pentru meze și ouzo în Skala."
+          }
+        ],
+        "en": [
+          {
+            "name": "'To Kyma' Taverna",
+            "tip": "Located in Grikos, serves fresh fish right on the beach."
+          },
+          {
+            "name": "Pita Gyros in Skala",
+            "tip": "A quick and delicious snack after a long bike ride."
+          },
+          {
+            "name": "'Hiliomodi' Ouzeri",
+            "tip": "A traditional spot for meze and ouzo in Skala."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petra-Felsen",
+            "tip": "Ein einzigartiger Felsen in der Bucht von Grikos, ideal zum Schwimmen und für Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fahrt entlang der Küste",
+            "tip": "Genießen Sie die Ruhe und die Aussicht auf die Ägäis.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang von Kastelli",
+            "tip": "Ein antiker Akropolishügel oberhalb von Skala, perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petra szikla",
+            "tip": "Egyedi szikla a Grikos-öbölben, ideális úszáshoz és a csendhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kerékpárút a part mentén",
+            "tip": "Élvezze a csendet és az Égei-tengerre nyíló kilátást.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente Kastelliből",
+            "tip": "Egy ősi akropolisz domb Skala felett, tökéletes a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stânca Petra",
+            "tip": "O stâncă unică în golful Grikos, ideală pentru înot și liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plimbare pe coastă",
+            "tip": "Bucurați-vă de liniște și de priveliștile Mării Egee.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare de la Kastelli",
+            "tip": "O colină antică a acropolei deasupra Skala, perfectă pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petra Rock",
+            "tip": "A unique rock in Grikos bay, great for swimming and quiet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Coastal Ride",
+            "tip": "Enjoy the tranquility and the views of the Aegean Sea.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset from Kastelli",
+            "tip": "An ancient acropolis hill above Skala, perfect for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in Skala",
+            "tip": "Finden Sie lokale Handwerkskunst, Schmuck und Souvenirs."
+          },
+          {
+            "name": "Klosterladen",
+            "tip": "Kaufen Sie Weihrauch, Bücher und handgemachte Produkte direkt aus dem Kloster."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvírboltok Skalában",
+            "tip": "Találjon helyi kézműves termékeket, ékszereket és szuveníreket."
+          },
+          {
+            "name": "Kolostorbolt",
+            "tip": "Vásároljon tömjént, könyveket és kézzel készített termékeket közvetlenül a kolostorból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Skala",
+            "tip": "Găsiți artizanat local, bijuterii și suveniruri."
+          },
+          {
+            "name": "Magazinul mănăstirii",
+            "tip": "Cumpărați tămâie, cărți și produse lucrate manual direct de la mănăstire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in Skala",
+            "tip": "Find local crafts, jewelry, and souvenirs."
+          },
+          {
+            "name": "Monastery Shop",
+            "tip": "Buy incense, books, and handmade products directly from the monastery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, um die steilen Hügel leichter zu bewältigen.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Tragen Sie einen Helm und bringen Sie ein Schloss für Ihr Fahrrad mit.",
+          "Überprüfen Sie die Öffnungszeiten der Klöster im Voraus."
+        ],
+        "hu": [
+          "Béreljen e-biciklit, hogy könnyebben megbirkózzon a meredek dombokkal.",
+          "Az utak szűkek lehetnek, vezessen óvatosan.",
+          "Viseljen sisakot és vigyen magával zárat a kerékpárjához.",
+          "Előre ellenőrizze a kolostorok nyitvatartási idejét."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru a face față mai ușor dealurilor abrupte.",
+          "Drumurile pot fi înguste, conduceți cu prudență.",
+          "Purtați o cască și aduceți un lacăt pentru bicicletă.",
+          "Verificați în avans orele de vizitare ale mănăstirilor."
+        ],
+        "en": [
+          "Rent an e-bike to handle the steep hills more easily.",
+          "The roads can be narrow, ride with caution.",
+          "Wear a helmet and bring a lock for your bike.",
+          "Check the opening hours of the monasteries in advance."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Johanneskloster & Chora (Cluster 1)",
+            "hu": "Szent János-kolostor & Chora (1. csoport)",
+            "ro": "Mănăstirea Sf. Ioan & Chora (Cluster 1)",
+            "en": "Monastery of St. John & Chora (Cluster 1)"
+          },
+          "coords": [
+            26.5447,
+            37.3292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie unterhalb von Chora und gehen Sie hinauf. Früh ankommen, um den Menschenmassen zu entgehen.",
+            "hu": "Parkoljon Chora alatt, és sétáljon fel. Érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Parcați sub Chora și urcați pe jos. Ajungeți devreme pentru a evita aglomerația.",
+            "en": "Park below Chora and walk up. Arrive early to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühlen von Patmos",
+            "hu": "Pátmoszi szélmalmok",
+            "ro": "Morile de vânt din Patmos",
+            "en": "Windmills of Patmos"
+          },
+          "coords": [
+            26.5461,
+            37.3275
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Kloster mit fantastischer Aussicht.",
+            "hu": "Rövid séta a kolostortól, fantasztikus kilátással.",
+            "ro": "O scurtă plimbare de la mănăstire cu priveliști fantastice.",
+            "en": "A short walk from the monastery with fantastic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Chora Erkundung",
+            "hu": "Chora óvárosának felfedezése",
+            "ro": "Explorarea orașului vechi Chora",
+            "en": "Chora Old Town Exploration"
+          },
+          "coords": [
+            26.5478,
+            37.3295
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und verirren Sie sich in den weiß getünchten Gassen.",
+            "hu": "Hagyja az autót, és tévedjen el a fehérre meszelt sikátorokban.",
+            "ro": "Lăsați mașina și pierdeți-vă pe aleile văruite în alb.",
+            "en": "Leave the car and get lost in the whitewashed alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte der Offenbarung (Cluster 2)",
+            "hu": "Apokalipszis-barlangja (2. csoport)",
+            "ro": "Peștera Apocalipsei (Cluster 2)",
+            "en": "Cave of the Apocalypse (Cluster 2)"
+          },
+          "coords": [
+            26.5484,
+            37.3191
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein spiritueller Halt auf dem Weg zwischen Chora und Skala.",
+            "hu": "Spirituális megálló Chora és Skala között.",
+            "ro": "O oprire spirituală pe drumul dintre Chora și Skala.",
+            "en": "A spiritual stop on the way between Chora and Skala."
+          }
+        },
+        {
+          "name": {
+            "de": "Lambi Strand (Cluster 3)",
+            "hu": "Lambi strand (3. csoport)",
+            "ro": "Plaja Lambi (Cluster 3)",
+            "en": "Lambi Beach (Cluster 3)"
+          },
+          "coords": [
+            26.568,
+            37.365
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.3,
+          "tip_5lang": {
+            "de": "Berühmt für seine bunten Kieselsteine. Ideal für ein Mittagessen am Meer.",
+            "hu": "Híres a színes kavicsairól. Ideális egy tengerparti ebédhez.",
+            "ro": "Renumită pentru pietricelele sale colorate. Ideală pentru un prânz pe malul mării.",
+            "en": "Famous for its colorful pebbles. Ideal for a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Sonnenuntergang am Psili Ammos",
+            "hu": "Autózás a naplementéhez a Psili Ammos strandon",
+            "ro": "Drum spre apus la Plaja Psili Ammos",
+            "en": "Drive to Psili Ammos for Sunset"
+          },
+          "coords": [
+            26.518,
+            37.289
+          ],
+          "category": "sunset",
+          "arrive_at": "16:22",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.3,
+          "tip_5lang": {
+            "de": "Der Weg dorthin ist unbefestigt, aber der abgelegene Strand ist die Belohnung.",
+            "hu": "Az út földút, de a félreeső strand a jutalom.",
+            "ro": "Drumul este neasfaltat, dar plaja retrasă este recompensa.",
+            "en": "The road is unpaved, but the secluded beach is the reward."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in Skala",
+            "hu": "Vacsora Skalában",
+            "ro": "Cină în Skala",
+            "en": "Dinner in Skala"
+          },
+          "coords": [
+            26.543,
+            37.322
+          ],
+          "category": "gastro",
+          "arrive_at": "17:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie den Tag mit frischem Fisch im belebten Hafen ab.",
+            "hu": "Zárja a napot friss hallal a nyüzsgő kikötőben.",
+            "ro": "Încheiați ziua cu pește proaspăt în portul animat.",
+            "en": "End your day with fresh fish at the bustling port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto zum Chora-Parkplatz. Der Vormittag ist dem heiligen Cluster gewidmet: dem Johanneskloster, den Windmühlen und den Gassen von Chora, alles zu Fuß. Nach dem spirituellen Halt an der Grotte der Offenbarung fahren Sie zum nördlichen Lambi-Strand für ein Mittagessen und Entspannung. Der Höhepunkt des Nachmittags ist die Fahrt zum abgelegenen Psili Ammos, um einen unvergesslichen Sonnenuntergang zu erleben, bevor Sie zum Abendessen nach Skala zurückkehren.",
+        "hu": "Kezdje a napot azzal, hogy autóval a Chora parkolójába hajt. A délelőtt a szent klaszteré: a Szent János-kolostoré, a szélmalmoké és Chora sikátoraié, mindezt gyalogosan. Az Apokalipszis-barlangjánál tett spirituális megálló után irány az északi Lambi strand ebédelni és pihenni. A délután csúcspontja az autózás a félreeső Psili Ammoshoz egy felejthetetlen naplementéért, mielőtt visszatérne Skalába vacsorázni.",
+        "ro": "Începeți ziua conducând spre parcarea din Chora. Dimineața este dedicată clusterului sacru: Mănăstirea Sf. Ioan, morile de vânt și aleile din Chora, toate explorate pe jos. După oprirea spirituală la Peștera Apocalipsei, conduceți spre nord, la plaja Lambi, pentru prânz și relaxare. Punctul culminant al după-amiezii este drumul spre îndepărtata Psili Ammos pentru un apus de neuitat, înainte de a reveni la Skala pentru cină.",
+        "en": "Start your day by driving to the Chora parking area. The morning is dedicated to the sacred cluster: the Monastery of St. John, the windmills, and the alleys of Chora, all explored on foot. After the spiritual stop at the Cave of the Apocalypse, drive north to Lambi beach for lunch and relaxation. The afternoon's highlight is the drive to the remote Psili Ammos for an unforgettable sunset before returning to Skala for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taverna 'Lambi'",
+            "tip": "Bekannt für Fischgerichte und die Aussicht auf die bunten Kieselsteine."
+          },
+          {
+            "name": "Kantina in Psili Ammos",
+            "tip": "Eine einfache Hütte, die nach der Wanderung zum Strand erfrischende Getränke serviert."
+          },
+          {
+            "name": "Pantheon Restaurant",
+            "tip": "Traditionelle griechische Küche mit Blick auf den Hafen von Skala."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Lambi' Taverna",
+            "tip": "Híres a halételeiről és a színes kavicsokra nyíló kilátásról."
+          },
+          {
+            "name": "Kantina Psili Ammoson",
+            "tip": "Egyszerű bódé, amely frissítő italokat szolgál fel a strandtúra után."
+          },
+          {
+            "name": "Pantheon Étterem",
+            "tip": "Hagyományos görög konyha, kilátással Skala kikötőjére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taverna 'Lambi'",
+            "tip": "Renumită pentru preparatele din pește și vederea spre pietricelele colorate."
+          },
+          {
+            "name": "Cantina la Psili Ammos",
+            "tip": "O colibă simplă care servește băuturi răcoritoare după drumeția spre plajă."
+          },
+          {
+            "name": "Restaurantul Pantheon",
+            "tip": "Bucătărie grecească tradițională cu vedere la portul Skala."
+          }
+        ],
+        "en": [
+          {
+            "name": "'Lambi' Taverna",
+            "tip": "Famous for its fish dishes and the view of the colorful pebbles."
+          },
+          {
+            "name": "Cantina at Psili Ammos",
+            "tip": "A simple shack serving refreshing drinks after the hike to the beach."
+          },
+          {
+            "name": "Pantheon Restaurant",
+            "tip": "Traditional Greek cuisine with a view of Skala port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Diakofti",
+            "tip": "Ein ruhiger Ort, um den Bau traditioneller Holzboote zu beobachten.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Psili Ammos Strand",
+            "tip": "Die Abgeschiedenheit ist die kurze Wanderung vom Parkplatz wert.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Blick vom Profitis Ilias",
+            "tip": "Der höchste Punkt der Insel, der mit dem Auto erreichbar ist, für eine 360-Grad-Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diakofti",
+            "tip": "Csendes hely a hagyományos fa hajók építésének megfigyelésére.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Psili Ammos strand",
+            "tip": "Az elszigeteltség megéri a rövid sétát a parkolótól.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kilátás a Profitis Iliasról",
+            "tip": "A sziget legmagasabb, autóval elérhető pontja a 360 fokos kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Diakofti",
+            "tip": "Un loc liniștit pentru a observa construcția bărcilor tradiționale din lemn.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Psili Ammos",
+            "tip": "Izolarea merită scurta drumeție de la parcare.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Vedere de la Profitis Ilias",
+            "tip": "Cel mai înalt punct de pe insulă, accesibil cu mașina, pentru vederi de 360 de grade.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Diakofti",
+            "tip": "A quiet spot to watch traditional wooden boats being built.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Psili Ammos Beach",
+            "tip": "The seclusion is worth the short hike from where you park.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "View from Profitis Ilias",
+            "tip": "The island's highest point reachable by car for 360-degree views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunstgalerien in Chora",
+            "tip": "Entdecken Sie lokale Künstler und zeitgenössische Kunst."
+          },
+          {
+            "name": "Patmos-Wein",
+            "tip": "Besuchen Sie ein lokales Weingut, um den einheimischen Wein zu probieren und zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művészeti galériák Chorában",
+            "tip": "Fedezze fel a helyi művészeket és a kortárs művészetet."
+          },
+          {
+            "name": "Pátmoszi bor",
+            "tip": "Látogasson el egy helyi pincészetbe, hogy megkóstolja és megvásárolja a helyi bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă în Chora",
+            "tip": "Descoperiți artiști locali și artă contemporană."
+          },
+          {
+            "name": "Vin de Patmos",
+            "tip": "Vizitați o cramă locală pentru a degusta și cumpăra vinul local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Art Galleries in Chora",
+            "tip": "Discover local artists and contemporary art."
+          },
+          {
+            "name": "Patmos Wine",
+            "tip": "Visit a local winery to taste and buy the local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein kleines Auto, da die Straßen schmal und die Parkplätze begrenzt sind.",
+          "Einige der besten Strände sind über unbefestigte Straßen erreichbar; fahren Sie vorsichtig.",
+          "Prüfen Sie die Öffnungszeiten, da diese je nach Saison variieren.",
+          "Haben Sie immer Bargeld dabei, besonders in abgelegeneren Gebieten."
+        ],
+        "hu": [
+          "Béreljen kis autót, mivel az utak szűkek és a parkolóhelyek korlátozottak.",
+          "Néhány legjobb strand földúton érhető el; vezessen óvatosan.",
+          "Ellenőrizze a nyitvatartási időket, mivel szezonálisan változhatnak.",
+          "Mindig legyen Önnél készpénz, különösen a távolabbi területeken."
+        ],
+        "ro": [
+          "Închiriați o mașină mică, deoarece drumurile sunt înguste și parcarea este limitată.",
+          "Unele dintre cele mai bune plaje sunt accesibile pe drumuri neasfaltate; conduceți cu atenție.",
+          "Verificați programul de funcționare, deoarece acesta variază în funcție de sezon.",
+          "Aveți întotdeauna numerar la dumneavoastră, mai ales în zonele mai îndepărtate."
+        ],
+        "en": [
+          "Rent a small car as roads are narrow and parking is limited.",
+          "Some of the best beaches are reached via dirt roads; drive carefully.",
+          "Check opening hours as they can vary seasonally.",
+          "Always have some cash with you, especially in more remote areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrt von Skala nach Chora (Cluster 1)",
+            "hu": "Buszozás Skalából Chorába (1. csoport)",
+            "ro": "Călătorie cu autobuzul din Skala în Chora (Cluster 1)",
+            "en": "Bus ride from Skala to Chora (Cluster 1)"
+          },
+          "coords": [
+            26.548,
+            37.329
+          ],
+          "category": "transit",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Bus fährt regelmäßig vom Hafen in Skala ab.",
+            "hu": "A busz rendszeresen indul Skala kikötőjéből.",
+            "ro": "Autobuzul pleacă regulat din portul Skala.",
+            "en": "The bus leaves regularly from the port in Skala."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanneskloster",
+            "hu": "Szent János-kolostor",
+            "ro": "Mănăstirea Sfântul Ioan",
+            "en": "Monastery of Saint John"
+          },
+          "coords": [
+            26.5447,
+            37.3292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle ist direkt unterhalb des Klostereingangs.",
+            "hu": "A buszmegálló közvetlenül a kolostor bejárata alatt található.",
+            "ro": "Stația de autobuz este chiar sub intrarea în mănăstire.",
+            "en": "The bus stop is right below the monastery entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Chora",
+            "hu": "Chora óvárosa",
+            "ro": "Orașul vechi Chora",
+            "en": "Chora Old Town"
+          },
+          "coords": [
+            26.5478,
+            37.3295
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:09",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um die Geschäfte und Cafés nach dem Klosterbesuch zu erkunden.",
+            "hu": "Szánjon időt a boltok és kávézók felfedezésére a kolostorlátogatás után.",
+            "ro": "Luați-vă timp să explorați magazinele și cafenelele după vizita la mănăstire.",
+            "en": "Take your time to explore the shops and cafes after the monastery visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte der Offenbarung",
+            "hu": "Apokalipszis-barlangja",
+            "ro": "Peștera Apocalipsei",
+            "en": "Cave of the Apocalypse"
+          },
+          "coords": [
+            26.5484,
+            37.3191
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab von der Bushaltestelle in Chora.",
+            "hu": "Rövid séta lefelé a Chora-i buszmegállótól.",
+            "ro": "O scurtă plimbare la vale de la stația de autobuz din Chora.",
+            "en": "A short walk downhill from the bus stop in Chora."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt nach Skala (Cluster 2)",
+            "hu": "Vissza Skalába (2. csoport)",
+            "ro": "Întoarcere la Skala (Cluster 2)",
+            "en": "Return to Skala (Cluster 2)"
+          },
+          "coords": [
+            26.543,
+            37.322
+          ],
+          "category": "transit",
+          "arrive_at": "14:40",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus von der Hauptstraße unterhalb der Grotte zurück.",
+            "hu": "Szálljon fel a buszra a barlang alatti főúton.",
+            "ro": "Luați autobuzul înapoi de pe drumul principal de sub peșteră.",
+            "en": "Catch the bus back from the main road below the cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen und Entspannung in Skala",
+            "hu": "Késői ebéd és pihenés Skalában",
+            "ro": "Prânz târziu și relaxare în Skala",
+            "en": "Late Lunch and Relaxation in Skala"
+          },
+          "coords": [
+            26.544,
+            37.324
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 180,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Mahlzeit am Hafen und entspannen Sie am nahe gelegenen Strand.",
+            "hu": "Élvezze az ételt a kikötőben, és pihenjen a közeli strandon.",
+            "ro": "Bucurați-vă de o masă în port și relaxați-vă pe plaja din apropiere.",
+            "en": "Enjoy a meal at the port and relax at the nearby beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus für eine stressfreie Erkundung. Fahren Sie morgens von Skala nach Chora. Der Vormittag gehört ganz dem heiligen Duo: dem Johanneskloster und den verwinkelten Gassen von Chora, die alle leicht zu Fuß erreichbar sind. Nach einem Besuch der Grotte der Offenbarung nehmen Sie den Bus zurück nach Skala für ein spätes Mittagessen und einen entspannten Nachmittag am Hafen oder am Strand von Meloi.",
+        "hu": "Használja a helyi buszt a stresszmentes felfedezéshez. Utazzon reggel Skalából Chorába. A délelőtt a szent párosé: a Szent János-kolostoré és Chora kanyargós sikátoraié, mind könnyen megközelíthető gyalog. Az Apokalipszis-barlangjának meglátogatása után busszal térjen vissza Skalába egy késői ebédre és egy pihentető délutánra a kikötőben vagy a Meloi strandon.",
+        "ro": "Folosiți autobuzul local pentru o explorare fără stres. Luați autobuzul de dimineață din Skala spre Chora. Dimineața este dedicată duo-ului sacru: Mănăstirea Sf. Ioan și aleile sinuoase din Chora, toate ușor accesibile pe jos. După vizitarea Peșterii Apocalipsei, luați autobuzul înapoi spre Skala pentru un prânz târziu și o după-amiază relaxantă în port sau la plaja Meloi.",
+        "en": "Use the local bus for a stress-free exploration. Take the morning bus from Skala to Chora. The morning is for the sacred duo: the Monastery of St. John and the winding alleys of Chora, all easily reachable on foot. After visiting the Cave of the Apocalypse, take the bus back to Skala for a late lunch and a relaxing afternoon at the port or Meloi beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Souvlaki-Stand in Skala",
+            "tip": "Ein schnelles, authentisches und preiswertes Mittagessen."
+          },
+          {
+            "name": "Yialos Cafe Restaurant",
+            "tip": "Ein beliebter Ort am Hafen von Skala für Kaffee oder eine komplette Mahlzeit."
+          },
+          {
+            "name": "Loza",
+            "tip": "Ein historisches Café in Chora, perfekt für einen Kaffee mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvlaki-s stand Skalában",
+            "tip": "Gyors, autentikus és pénztárcabarát ebéd."
+          },
+          {
+            "name": "Yialos Cafe Étterem",
+            "tip": "Népszerű hely Skala kikötőjében egy kávéra vagy egy teljes étkezésre."
+          },
+          {
+            "name": "Loza",
+            "tip": "Történelmi kávézó Chorában, tökéletes egy kávéhoz kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de Souvlaki în Skala",
+            "tip": "Un prânz rapid, autentic și economic."
+          },
+          {
+            "name": "Yialos Cafe Restaurant",
+            "tip": "Un loc popular în portul Skala pentru o cafea sau o masă completă."
+          },
+          {
+            "name": "Loza",
+            "tip": "O cafenea istorică în Chora, perfectă pentru o cafea cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvlaki stand in Skala",
+            "tip": "A quick, authentic, and budget-friendly lunch."
+          },
+          {
+            "name": "Yialos Cafe Restaurant",
+            "tip": "A popular spot in Skala port for coffee or a full meal."
+          },
+          {
+            "name": "Loza",
+            "tip": "A historic cafe in Chora, perfect for a coffee with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meloi Strand",
+            "tip": "Ein kurzer Spaziergang von Skala entfernt, ein ruhiger Ort zum Entspannen am Nachmittag.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Gärten des Klosters Zoodochos Pigi",
+            "tip": "Ein friedlicher Rückzugsort in Chora.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hafen von Skala am frühen Morgen",
+            "tip": "Erleben Sie die Ruhe, bevor die Fähren und Touristen ankommen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meloi strand",
+            "tip": "Rövid sétára Skalától, csendes hely a délutáni pihenéshez.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Zoodochos Pigi kolostor kertjei",
+            "tip": "Békés menedék Chorában.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Skala kikötője kora reggel",
+            "tip": "Tapasztalja meg a nyugalmat, mielőtt a kompok és a turisták megérkeznek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Meloi",
+            "tip": "La o scurtă plimbare de Skala, un loc liniștit pentru a vă relaxa după-amiaza.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Grădinile Mănăstirii Zoodochos Pigi",
+            "tip": "Un refugiu pașnic în Chora.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Portul Skala dimineața devreme",
+            "tip": "Experimentați liniștea înainte de sosirea feriboturilor și a turiștilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meloi Beach",
+            "tip": "A short walk from Skala, a quiet spot to relax in the afternoon.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Gardens of Zoodochos Pigi Monastery",
+            "tip": "A peaceful retreat within Chora.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Skala Port in the early morning",
+            "tip": "Experience the tranquility before the ferries and tourists arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in Chora",
+            "tip": "Finden Sie einzigartige Souvenirs, Kunst und Kleidung in den Boutiquen."
+          },
+          {
+            "name": "Lokale Produkte in Skala",
+            "tip": "Kaufen Sie Honig, Kräuter und Olivenöl von der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Üzletek Chorában",
+            "tip": "Találjon egyedi szuveníreket, művészetet és ruházatot a butikokban."
+          },
+          {
+            "name": "Helyi termékek Skalában",
+            "tip": "Vásároljon mézet, gyógynövényeket és olívaolajat a szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine în Chora",
+            "tip": "Găsiți suveniruri unice, artă și haine în buticuri."
+          },
+          {
+            "name": "Produse locale în Skala",
+            "tip": "Cumpărați miere, ierburi și ulei de măsline de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops in Chora",
+            "tip": "Find unique souvenirs, art, and clothing in the boutiques."
+          },
+          {
+            "name": "Local products in Skala",
+            "tip": "Buy honey, herbs, and olive oil from the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus, da er sich je nach Saison ändern kann.",
+          "Kaufen Sie Ihre Tickets vor dem Einsteigen in den Bus, oft in einem nahegelegenen Kiosk.",
+          "Die Busse können in der Hochsaison überfüllt sein, seien Sie also frühzeitig an der Haltestelle.",
+          "Der Bus ist eine ausgezeichnete und günstige Möglichkeit, zwischen Skala und Chora zu reisen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mivel szezonálisan változhat.",
+          "Vásárolja meg a jegyeket a buszra szállás előtt, gyakran egy közeli kioszkban.",
+          "A buszok főszezonban zsúfoltak lehetnek, ezért érkezzen korán a megállóba.",
+          "A busz kiváló és olcsó módja a Skala és Chora közötti utazásnak."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, deoarece se poate schimba în funcție de sezon.",
+          "Cumpărați biletele înainte de a urca în autobuz, adesea de la un chioșc din apropiere.",
+          "Autobuzele pot fi aglomerate în sezonul de vârf, așa că ajungeți devreme la stație.",
+          "Autobuzul este o modalitate excelentă și ieftină de a călători între Skala și Chora."
+        ],
+        "en": [
+          "Check the bus schedule in advance as it can change depending on the season.",
+          "Buy your tickets before boarding the bus, often from a nearby kiosk.",
+          "Buses can get crowded in high season, so be at the stop early.",
+          "The bus is an excellent and cheap way to travel between Skala and Chora."
+        ]
+      }
+    }
+  }
+}

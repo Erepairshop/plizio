@@ -1,0 +1,1310 @@
+{
+  "city_id": "portugal-oaz-cities-v2",
+  "anchor": {
+    "name": "Oliveira de Azeméis",
+    "coords": [
+      -8.4833,
+      40.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Matriz de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis főtemploma",
+            "ro": "Biserica Matriz din Oliveira de Azeméis",
+            "en": "Mother Church of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.4771,
+            40.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Estátua de Ferreira de Castro",
+            "hu": "Ferreira de Castro szobra",
+            "ro": "Statuia lui Ferreira de Castro",
+            "en": "Statue of Ferreira de Castro"
+          },
+          "coords": [
+            -8.478,
+            40.838
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Biblioteca Municipal Ferreira de Castro",
+            "hu": "Ferreira de Castro Városi Könyvtár",
+            "ro": "Biblioteca Municipală Ferreira de Castro",
+            "en": "Ferreira de Castro Municipal Library"
+          },
+          "coords": [
+            -8.479,
+            40.8375
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Museu Regional de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis Regionális Múzeum",
+            "ro": "Muzeul Regional din Oliveira de Azeméis",
+            "en": "Regional Museum of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.476,
+            40.8365
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Parque de La-Salette",
+            "hu": "La-Salette Park",
+            "ro": "Parcul La-Salette",
+            "en": "La-Salette Park"
+          },
+          "coords": [
+            -8.488,
+            40.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Casa de Vidreiro - Glasmachermuseum",
+            "hu": "Casa de Vidreiro - Üvegkészítő Ház",
+            "ro": "Casa de Vidreiro - Casa Sticlarului",
+            "en": "Casa de Vidreiro - Glassmaker's House"
+          },
+          "coords": [
+            -8.47,
+            40.835
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.4
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im historischen Herzen von Oliveira de Azeméis bei der Hauptkirche. Am Vormittag erkunden Sie das kulturelle Zentrum rund um die Bibliothek und das Regionalmuseum. Verbringen Sie einen entspannten Nachmittag im weitläufigen La-Salette-Park, ein idealer Ort zum Entspannen. Schließen Sie den Tag mit einem Einblick in die industrielle Vergangenheit der Stadt im Glasmachermuseum ab.",
+        "hu": "Kezdje a sétát Oliveira de Azeméis történelmi szívében, a főtemplomnál. A délelőtt folyamán fedezze fel a kulturális központot a könyvtár és a regionális múzeum környékén. Töltsön egy pihentető délutánt a tágas La-Salette parkban, amely ideális hely a kikapcsolódásra. A napot a város ipari múltjába való betekintéssel zárja az Üvegkészítő Házban.",
+        "ro": "Începeți plimbarea în inima istorică a orașului Oliveira de Azeméis, la Biserica Matriz. În timpul dimineții, explorați centrul cultural din jurul bibliotecii și muzeului regional. Petreceți o după-amiază relaxantă în vastul Parc La-Salette, un loc ideal pentru odihnă. Încheiați ziua cu o incursiune în trecutul industrial al orașului la Casa Sticlarului.",
+        "en": "Start your walking tour in the historical heart of Oliveira de Azeméis at the Mother Church. During the morning, explore the cultural hub around the library and the regional museum. Spend a relaxing afternoon in the expansive La-Salette Park, an ideal spot for unwinding. Conclude the day with an insight into the town's industrial past at the Glassmaker's House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Probieren Sie dieses berühmte lokale Biskuitkuchen, das Wahrzeichen der Region."
+          },
+          {
+            "name": "Vitela Assada",
+            "tip": "Genießen Sie zartes, im Ofen gebratenes Kalbfleisch, ein klassisches portugiesisches Gericht."
+          },
+          {
+            "name": "Restaurante O Diplomata",
+            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein elegantes Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Kóstolja meg ezt a híres helyi piskótát, a régió gasztronómiai jelképét."
+          },
+          {
+            "name": "Vitela Assada",
+            "tip": "Élvezze a zsenge, sütőben sült borjúhúst, egy klasszikus portugál ételt."
+          },
+          {
+            "name": "Restaurante O Diplomata",
+            "tip": "Hagyományos portugál konyhájáról és elegáns hangulatáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Încercați acest renumit pandișpan local, o emblemă gastronomică a regiunii."
+          },
+          {
+            "name": "Vitela Assada",
+            "tip": "Savurați vițel fraged la cuptor, un preparat portughez clasic."
+          },
+          {
+            "name": "Restaurante O Diplomata",
+            "tip": "Renumit pentru bucătăria sa tradițională portugheză și atmosfera elegantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pão de Ul",
+            "tip": "You must try this famous local sponge cake, a gastronomic icon of the region."
+          },
+          {
+            "name": "Vitela Assada",
+            "tip": "Enjoy tender roasted veal, a classic Portuguese dish."
+          },
+          {
+            "name": "Restaurante O Diplomata",
+            "tip": "Known for its traditional Portuguese cuisine and elegant ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins do Parque de La-Salette",
+            "tip": "Finden Sie eine ruhige Bank inmitten der üppigen Gärten des Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Flusses Ul",
+            "tip": "Ein friedlicher Spaziergang entlang des Flusses in der Nähe der Mühlen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt bei Castro de Ul",
+            "tip": "Genießen Sie den Panoramablick über die Landschaft in der Abenddämmerung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque de La-Salette kertjei",
+            "tip": "Keressen egy csendes padot a park buja kertjeiben.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ul folyó partja",
+            "tip": "Egy békés séta a folyó mentén a malmok közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kilátó a Castro de Ul-nál",
+            "tip": "Élvezze a panorámás kilátást a vidékre alkonyatkor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Parcul La-Salette",
+            "tip": "Găsiți o bancă liniștită în mijlocul grădinilor luxuriante ale parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Ul",
+            "tip": "O plimbare pașnică de-a lungul râului, în apropierea morilor.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere la Castro de Ul",
+            "tip": "Bucurați-vă de vederea panoramică asupra peisajului la amurg.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of La-Salette Park",
+            "tip": "Find a quiet bench amidst the park's lush gardens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the River Ul",
+            "tip": "A peaceful stroll along the river near the mills.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint at Castro de Ul",
+            "tip": "Enjoy the panoramic view over the countryside at dusk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Entdecken Sie lokale Produkte, frischen Fisch und die berühmten 'Pão de Ul' Kuchen."
+          },
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Glaswaren als einzigartige Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Fedezze fel a helyi termékeket, friss halakat és a híres 'Pão de Ul' süteményt."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített kerámiákat és üvegárut egyedi szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Descoperiți produse locale, pește proaspăt și faimoasele prăjituri 'Pão de Ul'."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați ceramică și sticlărie realizate manual ca suveniruri unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Municipal",
+            "tip": "Discover local produce, fresh fish, and the famous 'Pão de Ul' cakes."
+          },
+          {
+            "name": "Local Craft Shops",
+            "tip": "Look for handmade ceramics and glassware for unique souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Stadtzentrum einige Hügel hat.",
+          "Die meisten Museen und Kirchen haben über Mittag geschlossen. Planen Sie Ihren Besuch entsprechend.",
+          "Nehmen Sie sich Zeit, um im La-Salette-Park zu verweilen; es ist eine wahre Oase der Ruhe.",
+          "Einige kleinere Geschäfte akzeptieren möglicherweise keine Kreditkarten, also halten Sie etwas Bargeld bereit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a városközpontban vannak emelkedők.",
+          "A legtöbb múzeum és templom délben bezár. Tervezze a látogatását ennek megfelelően.",
+          "Szánjon időt a La-Salette parkban való pihenésre; ez a nyugalom igazi oázisa.",
+          "Néhány kisebb üzlet nem biztos, hogy elfogad hitelkártyát, ezért legyen Önnél némi készpénz."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul orașului are câteva dealuri.",
+          "Majoritatea muzeelor și bisericilor sunt închise la prânz. Planificați-vă vizita în consecință.",
+          "Acordați-vă timp pentru a zăbovi în Parcul La-Salette; este o adevărată oază de liniște.",
+          "Unele magazine mai mici s-ar putea să nu accepte carduri de credit, așa că aveți la îndemână niște numerar."
+        ],
+        "en": [
+          "Wear comfortable shoes as the city center has some hills.",
+          "Most museums and churches close for lunch. Plan your visit accordingly.",
+          "Take your time to linger in La-Salette Park; it's a true oasis of calm.",
+          "Some smaller shops may not accept credit cards, so have some cash on hand."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de La-Salette",
+            "hu": "La-Salette Park",
+            "ro": "Parcul La-Salette",
+            "en": "La-Salette Park"
+          },
+          "coords": [
+            -8.488,
+            40.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis főtemploma",
+            "ro": "Biserica Matriz din Oliveira de Azeméis",
+            "en": "Mother Church of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.4771,
+            40.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Museu Regional de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis Regionális Múzeum",
+            "ro": "Muzeul Regional din Oliveira de Azeméis",
+            "en": "Regional Museum of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.476,
+            40.8365
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Moinhos de Ul",
+            "hu": "Ul malmai",
+            "ro": "Morile din Ul",
+            "en": "Mills of Ul"
+          },
+          "coords": [
+            -8.46,
+            40.81
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3
+        },
+        {
+          "name": {
+            "de": "Castro de Ul",
+            "hu": "Castro de Ul",
+            "ro": "Castro de Ul",
+            "en": "Castro de Ul"
+          },
+          "coords": [
+            -8.465,
+            40.805
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Casa de Vidreiro",
+            "hu": "Casa de Vidreiro",
+            "ro": "Casa de Vidreiro",
+            "en": "Casa de Vidreiro"
+          },
+          "coords": [
+            -8.47,
+            40.835
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:57",
+          "stay_min": 78,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im grünen Herzen der Stadt, dem La-Salette-Park. Fahren Sie ins Zentrum, um die Hauptkirche und das Regionalmuseum zu besichtigen. Am Nachmittag führt Sie eine längere Fahrt zu den historischen Mühlen und der Festung von Ul, wo Sie in die antike Geschichte eintauchen. Beenden Sie die Tour mit einem Besuch im Casa de Vidreiro, um mehr über die Glasherstellung zu erfahren.",
+        "hu": "Kezdje a biciklitúrát a város zöld szívében, a La-Salette parkban. Tekerjen be a központba, hogy megnézze a főtemplomot és a regionális múzeumot. Délután egy hosszabb út vezet Ul történelmi malmaihoz és erődítményéhez, ahol elmerülhet az ókori történelemben. A túrát a Casa de Vidreiro meglátogatásával zárja, hogy többet tudjon meg az üveggyártásról.",
+        "ro": "Începeți turul cu bicicleta în inima verde a orașului, Parcul La-Salette. Pedalați spre centru pentru a vizita Biserica Matriz și Muzeul Regional. După-amiaza, o plimbare mai lungă vă va duce la morile istorice și la fortăreața din Ul, unde vă veți cufunda în istoria antică. Încheiați turul cu o vizită la Casa de Vidreiro pentru a afla mai multe despre fabricarea sticlei.",
+        "en": "Start your bike tour in the green heart of the city, La-Salette Park. Cycle downtown to visit the Mother Church and the Regional Museum. In the afternoon, a longer ride takes you to the historic Mills and Castro of Ul, immersing you in ancient history. Finish the tour with a visit to the Casa de Vidreiro to learn about glassmaking heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Der perfekte süße Energielieferant für Ihre Radtour."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Ein herzhaftes Sandwich aus Porto, perfekt nach einer langen Fahrt."
+          },
+          {
+            "name": "Café im Park La-Salette",
+            "tip": "Machen Sie eine Pause für einen Kaffee und einen Snack inmitten der Natur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Tökéletes édes energiaforrás a kerékpártúrához."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Egy kiadós portói szendvics, tökéletes egy hosszú tekerés után."
+          },
+          {
+            "name": "Kávézó a La-Salette parkban",
+            "tip": "Tartson egy szünetet egy kávéra és egy snackre a természet közepén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pão de Ul",
+            "tip": "O sursă de energie dulce perfectă pentru turul cu bicicleta."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "Un sandviș consistent din Porto, perfect după o plimbare lungă."
+          },
+          {
+            "name": "Cafenea în Parcul La-Salette",
+            "tip": "Luați o pauză pentru o cafea și o gustare în mijlocul naturii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pão de Ul",
+            "tip": "The perfect sweet energy boost for your cycling tour."
+          },
+          {
+            "name": "Francesinha",
+            "tip": "A hearty sandwich from Porto, perfect after a long ride."
+          },
+          {
+            "name": "Café in La-Salette Park",
+            "tip": "Take a break for a coffee and a snack surrounded by nature."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang des Flusses Ul",
+            "tip": "Eine ruhige Route mit malerischer Landschaft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Spitze des Castro de Ul",
+            "tip": "Ein Moment der Stille mit Blick auf die Geschichte.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Versteckte Ecken des La-Salette-Parks",
+            "tip": "Entfliehen Sie den Hauptwegen und finden Sie Ihren eigenen friedlichen Ort.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút az Ul folyó mentén",
+            "tip": "Csendes útvonal festői tájjal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castro de Ul csúcsa",
+            "tip": "Egy csendes pillanat a történelemre nézve.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A La-Salette park rejtett zugai",
+            "tip": "Meneküljön el a fő ösvényekről, és találja meg saját békés helyét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Ul",
+            "tip": "Un traseu liniștit cu peisaje pitorești.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Castro de Ul",
+            "tip": "Un moment de liniște cu vedere la istorie.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Colțuri ascunse ale Parcului La-Salette",
+            "tip": "Evadați de pe cărările principale și găsiți-vă propriul loc pașnic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the River Ul",
+            "tip": "A quiet route with scenic landscapes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Summit of Castro de Ul",
+            "tip": "A moment of silence overlooking history.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hidden corners of La-Salette Park",
+            "tip": "Escape the main paths and find your own peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditoreien",
+            "tip": "Kaufen Sie eine Schachtel Pão de Ul, um sie mit nach Hause zu nehmen."
+          },
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Falls Sie Zubehör oder eine schnelle Reparatur benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászdák",
+            "tip": "Vásároljon egy doboz Pão de Ul-t, hogy hazavigye."
+          },
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Ha kiegészítőkre vagy gyors javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserii locale",
+            "tip": "Cumpărați o cutie de Pão de Ul pentru a o lua acasă."
+          },
+          {
+            "name": "Magazine de biciclete",
+            "tip": "În caz că aveți nevoie de accesorii sau de o reparație rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Patisseries",
+            "tip": "Buy a box of Pão de Ul to take home."
+          },
+          {
+            "name": "Bike Shops",
+            "tip": "In case you need any accessories or a quick fix."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Zustand Ihres Fahrrads, bevor Sie losfahren, insbesondere für die längere Fahrt nach Ul.",
+          "Nehmen Sie viel Wasser und Snacks mit.",
+          "Einige Wege können uneben sein, seien Sie also vorbereitet.",
+          "Schließen Sie Ihr Fahrrad an beliebten Orten immer sicher ab."
+        ],
+        "hu": [
+          "Ellenőrizze a kerékpár állapotát indulás előtt, különösen a hosszabb, Ul felé vezető útra.",
+          "Vigyen magával sok vizet és harapnivalót.",
+          "Néhány út egyenetlen lehet, ezért legyen felkészült.",
+          "Mindig biztonságosan zárja le a kerékpárt a népszerű helyeken."
+        ],
+        "ro": [
+          "Verificați starea bicicletei înainte de a porni, în special pentru drumul mai lung spre Ul.",
+          "Luați cu voi multă apă și gustări.",
+          "Unele poteci pot fi denivelate, așa că fiți pregătiți.",
+          "Încuietați întotdeauna bicicleta în siguranță în locurile populare."
+        ],
+        "en": [
+          "Check your bike's condition before you start, especially for the longer ride to Ul.",
+          "Bring plenty of water and some snacks.",
+          "Some paths can be uneven, so be prepared.",
+          "Always lock your bike securely in popular areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 19.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Ul",
+            "hu": "Castro de Ul",
+            "ro": "Castro de Ul",
+            "en": "Castro de Ul"
+          },
+          "coords": [
+            -8.465,
+            40.805
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5
+        },
+        {
+          "name": {
+            "de": "Moinhos de Ul",
+            "hu": "Ul malmai",
+            "ro": "Morile din Ul",
+            "en": "Mills of Ul"
+          },
+          "coords": [
+            -8.46,
+            40.81
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Parque de La-Salette",
+            "hu": "La-Salette Park",
+            "ro": "Parcul La-Salette",
+            "en": "La-Salette Park"
+          },
+          "coords": [
+            -8.488,
+            40.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis főtemploma",
+            "ro": "Biserica Matriz din Oliveira de Azeméis",
+            "en": "Mother Church of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.4771,
+            40.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:13",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Museu Regional de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis Regionális Múzeum",
+            "ro": "Muzeul Regional din Oliveira de Azeméis",
+            "en": "Regional Museum of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.476,
+            40.8365
+          ],
+          "category": "museums",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Biblioteca Municipal Ferreira de Castro",
+            "hu": "Ferreira de Castro Városi Könyvtár",
+            "ro": "Biblioteca Municipală Ferreira de Castro",
+            "en": "Ferreira de Castro Municipal Library"
+          },
+          "coords": [
+            -8.479,
+            40.8375
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:19",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Casa de Vidreiro",
+            "hu": "Casa de Vidreiro",
+            "ro": "Casa de Vidreiro",
+            "en": "Casa de Vidreiro"
+          },
+          "coords": [
+            -8.47,
+            40.835
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:14",
+          "stay_min": 71,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.7
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität des Autos, um zuerst das historische Cluster von Ul zu erkunden. Gehen Sie vom Castro zu den Mühlen. Fahren Sie dann zum La-Salette-Park für eine Mittagspause und Erholung in der Natur. Am Nachmittag parken Sie im Stadtzentrum, um die Kirche, das Museum und die Bibliothek zu Fuß zu entdecken, bevor Sie zum Casa de Vidreiro fahren, um den Tag abzurunden.",
+        "hu": "Használja ki az autó rugalmasságát, és először Ul történelmi klaszterét fedezze fel. Sétáljon el a Castrótól a malmokig. Ezután vezessen a La-Salette parkba egy ebédszünetre és egy kis természeti kikapcsolódásra. Délután parkoljon le a városközpontban, hogy gyalog fedezze fel a templomot, a múzeumot és a könyvtárat, mielőtt a nap zárásaként a Casa de Vidreiro-hoz hajtana.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora mai întâi clusterul istoric din Ul. Plimbați-vă de la castro la mori. Apoi, conduceți la Parcul La-Salette pentru o pauză de prânz și recreere în natură. După-amiaza, parcați în centrul orașului pentru a descoperi pe jos biserica, muzeul și biblioteca, înainte de a conduce la Casa de Vidreiro pentru a încheia ziua.",
+        "en": "Use the car's flexibility to explore the historic Ul cluster first. Walk from the castro to the mills. Then, drive to La-Salette Park for a lunch break and nature retreat. In the afternoon, park in the city center to discover the church, museum, and library on foot, before a final drive to Casa de Vidreiro to cap off the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante O Gato",
+            "tip": "Eine gute Option in der Nähe des Stadtzentrums für traditionelle Gerichte."
+          },
+          {
+            "name": "Pão de Ul",
+            "tip": "Halten Sie bei einer Bäckerei an, um dieses Muss zu kaufen."
+          },
+          {
+            "name": "Picknick im La-Salette-Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Freien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante O Gato",
+            "tip": "Jó lehetőség a városközpont közelében a hagyományos ételek megkóstolására."
+          },
+          {
+            "name": "Pão de Ul",
+            "tip": "Álljon meg egy pékségben, hogy megvásárolja ezt a kötelező finomságot."
+          },
+          {
+            "name": "Piknik a La-Salette parkban",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a szabadban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante O Gato",
+            "tip": "O opțiune bună lângă centrul orașului pentru mâncăruri tradiționale."
+          },
+          {
+            "name": "Pão de Ul",
+            "tip": "Opriți-vă la o brutărie pentru a cumpăra acest desert obligatoriu."
+          },
+          {
+            "name": "Picnic în Parcul La-Salette",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante O Gato",
+            "tip": "A good option near the city center for traditional dishes."
+          },
+          {
+            "name": "Pão de Ul",
+            "tip": "Stop at a bakery to buy this must-try treat."
+          },
+          {
+            "name": "Picnic in La-Salette Park",
+            "tip": "Buy some local products and enjoy lunch outdoors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Castro de Ul",
+            "tip": "Ein ruhiger Ort, um über die Geschichte der Region nachzudenken.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bachufer bei Moinhos de Ul",
+            "tip": "Das sanfte Geräusch des Wassers ist unglaublich beruhigend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapelle im La-Salette-Park",
+            "tip": "Ein Ort der Stille und Besinnung inmitten des Parks.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Castro de Ul-ról",
+            "tip": "Csendes hely a régió történelmén való elmélkedéshez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Patakpart a Moinhos de Ul-nál",
+            "tip": "A víz halk csobogása hihetetlenül megnyugtató.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kápolna a La-Salette parkban",
+            "tip": "A csend és az elmélkedés helye a park közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Castro de Ul",
+            "tip": "Un loc liniștit pentru a contempla istoria regiunii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul pârâului la Moinhos de Ul",
+            "tip": "Sunetul blând al apei este incredibil de calmant.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela din Parcul La-Salette",
+            "tip": "Un loc de liniște și reflecție în mijlocul parcului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from Castro de Ul",
+            "tip": "A quiet spot to contemplate the region's history.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stream bank at Moinhos de Ul",
+            "tip": "The gentle sound of water is incredibly calming.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapel in La-Salette Park",
+            "tip": "A place of silence and reflection within the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Straßenverkäufer in der Nähe von Sehenswürdigkeiten",
+            "tip": "Kaufen Sie handgemachte Souvenirs direkt von den Kunsthandwerkern."
+          },
+          {
+            "name": "Besucherzentrum des Casa de Vidreiro",
+            "tip": "Finden Sie einzigartige Glasartikel, die lokal hergestellt werden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Utcai árusok a látnivalók közelében",
+            "tip": "Vásároljon kézzel készített szuveníreket közvetlenül a kézművesektől."
+          },
+          {
+            "name": "Casa de Vidreiro látogatóközpontja",
+            "tip": "Találjon egyedi, helyben készült üvegtárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători ambulanți lângă atracții",
+            "tip": "Cumpărați suveniruri lucrate manual direct de la artizani."
+          },
+          {
+            "name": "Centrul de vizitatori Casa de Vidreiro",
+            "tip": "Găsiți articole unice din sticlă, fabricate local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Street vendors near attractions",
+            "tip": "Buy handmade souvenirs directly from the artisans."
+          },
+          {
+            "name": "Casa de Vidreiro Visitor Center",
+            "tip": "Find unique glass items made locally."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkmöglichkeiten im Voraus, insbesondere im Stadtzentrum.",
+          "Ein GPS ist für die Navigation zwischen den Clustern sehr zu empfehlen.",
+          "Planen Sie zusätzliche Zeit für den Verkehr ein, insbesondere zu Stoßzeiten.",
+          "Die Straßen um Ul können eng sein, fahren Sie also vorsichtig."
+        ],
+        "hu": [
+          "Előre ellenőrizze a parkolási lehetőségeket, különösen a városközpontban.",
+          "A klaszterek közötti navigációhoz erősen ajánlott a GPS.",
+          "Tervezzen plusz időt a forgalomra, különösen csúcsidőben.",
+          "Az Ul körüli utak szűkek lehetnek, ezért vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați opțiunile de parcare în avans, mai ales în centrul orașului.",
+          "Un GPS este foarte recomandat pentru navigarea între clustere.",
+          "Luați în calcul timp suplimentar pentru trafic, în special la orele de vârf.",
+          "Drumurile din jurul Ul pot fi înguste, așa că conduceți cu prudență."
+        ],
+        "en": [
+          "Check parking options in advance, especially in the city center.",
+          "A GPS is highly recommended for navigating between clusters.",
+          "Allow extra time for traffic, especially during peak hours.",
+          "The roads around Ul can be narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Matriz de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis főtemploma",
+            "ro": "Biserica Matriz din Oliveira de Azeméis",
+            "en": "Mother Church of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.4771,
+            40.8385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Museu Regional de Oliveira de Azeméis",
+            "hu": "Oliveira de Azeméis Regionális Múzeum",
+            "ro": "Muzeul Regional din Oliveira de Azeméis",
+            "en": "Regional Museum of Oliveira de Azeméis"
+          },
+          "coords": [
+            -8.476,
+            40.8365
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Biblioteca Municipal Ferreira de Castro",
+            "hu": "Ferreira de Castro Városi Könyvtár",
+            "ro": "Biblioteca Municipală Ferreira de Castro",
+            "en": "Ferreira de Castro Municipal Library"
+          },
+          "coords": [
+            -8.479,
+            40.8375
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Parque de La-Salette",
+            "hu": "La-Salette Park",
+            "ro": "Parcul La-Salette",
+            "en": "La-Salette Park"
+          },
+          "coords": [
+            -8.488,
+            40.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Castro de Ul",
+            "hu": "Castro de Ul",
+            "ro": "Castro de Ul",
+            "en": "Castro de Ul"
+          },
+          "coords": [
+            -8.465,
+            40.805
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5
+        },
+        {
+          "name": {
+            "de": "Moinhos de Ul",
+            "hu": "Ul malmai",
+            "ro": "Morile din Ul",
+            "en": "Mills of Ul"
+          },
+          "coords": [
+            -8.46,
+            40.81
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Bus ins Stadtzentrum. Erkunden Sie die Kirche, das Museum und die Bibliothek zu Fuß in diesem ersten Cluster. Nehmen Sie dann einen weiteren Bus zum weitläufigen La-Salette-Park für eine ausgedehnte Mittagspause. Am Nachmittag bringt Sie ein letzter Bus in die Nähe von Ul, wo Sie das antike Castro und die malerischen Mühlen zu Fuß erkunden können.",
+        "hu": "Kezdje a napot egy buszúttal a városközpontba. Fedezze fel gyalog a templomot, a múzeumot és a könyvtárat ebben az első klaszterben. Ezután szálljon buszra a tágas La-Salette parkba egy hosszabb ebédszünetre. Délután egy utolsó busz elviszi Ul közelébe, ahol gyalog fedezheti fel az ősi Castrót és a festői malmokat.",
+        "ro": "Începeți ziua luând autobuzul spre centrul orașului. Explorați pe jos biserica, muzeul și biblioteca în acest prim cluster. Apoi, luați un alt autobuz spre vastul Parc La-Salette pentru o pauză de prânz prelungită. După-amiaza, un ultim autobuz vă va duce în apropiere de Ul, unde puteți explora pe jos vechiul castro și morile pitorești.",
+        "en": "Start your day by taking a bus to the city center. Explore the church, museum, and library on foot in this first cluster. Then, take another bus to the expansive La-Salette Park for a long lunch break. In the afternoon, a final bus ride will take you near Ul, where you can explore the ancient castro and picturesque mills on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Ein leichter Snack, den Sie unterwegs genießen können."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Ein schnelles und leckeres Schweinefleisch-Sandwich von einem lokalen Café."
+          },
+          {
+            "name": "Lokales Café in der Nähe einer Bushaltestelle",
+            "tip": "Perfekt für einen Kaffee, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pão de Ul",
+            "tip": "Könnyű snack, amit útközben is fogyaszthat."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Gyors és ízletes sertéshúsos szendvics egy helyi kávézóból."
+          },
+          {
+            "name": "Helyi kávézó egy buszmegálló közelében",
+            "tip": "Tökéletes egy kávéra, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pão de Ul",
+            "tip": "O gustare ușoară de savurat în timp ce vă deplasați."
+          },
+          {
+            "name": "Bifana",
+            "tip": "Un sandviș rapid și delicios cu carne de porc de la o cafenea locală."
+          },
+          {
+            "name": "Cafenea locală lângă o stație de autobuz",
+            "tip": "Perfect pentru o cafea în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pão de Ul",
+            "tip": "A light snack to enjoy on the go."
+          },
+          {
+            "name": "Bifana",
+            "tip": "A quick and delicious pork sandwich from a local café."
+          },
+          {
+            "name": "Local café near a bus stop",
+            "tip": "Perfect for a coffee while waiting for your bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberer Stock eines Doppeldeckerbusses",
+            "tip": "Bietet eine andere Perspektive auf die Stadt in relativer Ruhe.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Lesesaal der Bibliothek",
+            "tip": "Ein garantierter Ort der Stille und des Wissens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank mit Blick auf den See im La-Salette-Park",
+            "tip": "Beobachten Sie die Schwäne und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emeletes busz felső szintje",
+            "tip": "Más perspektívát nyújt a városról, viszonylagos csendben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Könyvtár olvasóterme",
+            "tip": "A csend és a tudás garantált helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a La-Salette park tavára nézve",
+            "tip": "Figyelje a hattyúkat és élvezze a nyugalmat.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al unui autobuz supraetajat",
+            "tip": "Oferă o perspectivă diferită asupra orașului într-o liniște relativă.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Sala de lectură a bibliotecii",
+            "tip": "Un loc garantat de tăcere și cunoaștere.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă cu vedere la lac în Parcul La-Salette",
+            "tip": "Priviți lebedele și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper deck of a double-decker bus",
+            "tip": "Offers a different perspective of the city in relative quiet.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Library reading room",
+            "tip": "A guaranteed spot of silence and knowledge.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench overlooking the lake in La-Salette Park",
+            "tip": "Watch the swans and enjoy the tranquility.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschäfte in der Nähe des Busbahnhofs",
+            "tip": "Kaufen Sie Last-Minute-Souvenirs, bevor Sie die Stadt verlassen."
+          },
+          {
+            "name": "Buchladen der Bibliothek",
+            "tip": "Finden Sie Bücher lokaler Autoren, einschließlich Ferreira de Castro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boltok a buszpályaudvar közelében",
+            "tip": "Vásároljon utolsó pillanatban szuveníreket, mielőtt elhagyja a várost."
+          },
+          {
+            "name": "Könyvtár könyvesboltja",
+            "tip": "Találjon helyi szerzők könyveit, beleértve Ferreira de Castrót is."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine lângă autogară",
+            "tip": "Cumpărați suveniruri de ultim moment înainte de a părăsi orașul."
+          },
+          {
+            "name": "Librăria bibliotecii",
+            "tip": "Găsiți cărți ale autorilor locali, inclusiv Ferreira de Castro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shops near the bus terminal",
+            "tip": "Buy last-minute souvenirs before you leave town."
+          },
+          {
+            "name": "Library bookstore",
+            "tip": "Find books by local authors, including Ferreira de Castro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, da die Busse am Nachmittag seltener fahren können.",
+          "Behalten Sie Ihre Sachen in überfüllten Bussen im Auge.",
+          "Fragen Sie die Einheimischen, wenn Sie sich über die richtige Haltestelle nicht sicher sind; sie sind normalerweise hilfsbereit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, mivel a buszok délután ritkábban közlekedhetnek.",
+          "Tartsa szemmel a holmiját a zsúfolt buszokon.",
+          "Kérdezze meg a helyieket, ha nem biztos a megfelelő megállóban; általában segítőkészek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, deoarece frecvența poate scădea după-amiaza.",
+          "Fiți cu ochii pe bunurile voastre în autobuzele aglomerate.",
+          "Întrebați localnicii dacă nu sunteți siguri de stația corectă; de obicei sunt de ajutor."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Check the bus schedule in advance, as frequency may decrease in the afternoon.",
+          "Keep an eye on your belongings on crowded buses.",
+          "Ask locals if you're unsure about the right stop; they are usually helpful."
+        ]
+      }
+    }
+  }
+}

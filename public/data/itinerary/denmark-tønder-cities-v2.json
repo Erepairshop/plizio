@@ -1,0 +1,1338 @@
+{
+  "city_id": "denmark-tønder-cities-v2",
+  "anchor": {
+    "name": "Tønder",
+    "coords": [
+      8.85,
+      54.93
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Das Alte Rathaus und der Stadtplatz",
+            "hu": "Régi Városháza és a Főtér",
+            "ro": "Vechea Primărie și Piața Centrală",
+            "en": "The Old Town Hall and Town Square"
+          },
+          "coords": [
+            8.8511,
+            54.9315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur und die lebhafte Atmosphäre.",
+            "hu": "Csodálja meg a reneszánsz építészetet és a nyüzsgő hangulatot.",
+            "ro": "Admirați arhitectura renascentistă și atmosfera vibrantă.",
+            "en": "Admire the Renaissance architecture and the bustling atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Uldgade",
+            "hu": "Uldgade utca",
+            "ro": "Strada Uldgade",
+            "en": "Uldgade Street"
+          },
+          "coords": [
+            8.8502,
+            54.9305
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der malerischsten Straßen Dänemarks mit wunderschön erhaltenen Häusern.",
+            "hu": "Dánia egyik legfestőibb utcája, gyönyörűen megőrzött házakkal.",
+            "ro": "Una dintre cele mai pitorești străzi din Danemarca, cu case frumos conservate.",
+            "en": "One of Denmark's most picturesque streets with beautifully preserved houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Drøhses Hus",
+            "hu": "Drøhse-ház",
+            "ro": "Casa Drøhse",
+            "en": "Drøhse's House"
+          },
+          "coords": [
+            8.8498,
+            54.9302
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einblicke in die Spitzenklöppel-Tradition von Tønder in einem barocken Stadthaus.",
+            "hu": "Betekintés Tønder csipkeverő hagyományaiba egy barokk városi házban.",
+            "ro": "Descoperiți tradiția dantelei din Tønder într-o casă barocă.",
+            "en": "Get insights into Tønder's lace-making tradition in a baroque town house."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristkirken",
+            "hu": "Krisztus-templom",
+            "ro": "Biserica Kristkirken",
+            "en": "Christ Church (Kristkirken)"
+          },
+          "coords": [
+            8.8545,
+            54.9333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf das reich verzierte Interieur und die beeindruckende Kanzel.",
+            "hu": "Figyelje meg a gazdagon díszített belső teret és a lenyűgöző szószéket.",
+            "ro": "Observați interiorul bogat ornamentat și amvonul impresionant.",
+            "en": "Look for the richly decorated interior and the impressive pulpit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            8.852,
+            54.932
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten in einem der gemütlichen Restaurants.",
+            "hu": "Kóstoljon helyi specialitásokat az egyik hangulatos étteremben.",
+            "ro": "Încercați specialități locale la unul dintre restaurantele primitoare.",
+            "en": "Try local specialties in one of the cozy restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseet i Tønder",
+            "hu": "Tønderi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Tønder",
+            "en": "Art Museum in Tønder"
+          },
+          "coords": [
+            8.8605,
+            54.9355
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fokus auf dänische Kunst des 20. Jahrhunderts und nordische Kunst.",
+            "hu": "A 20. századi dán és északi művészetre összpontosít.",
+            "ro": "Se concentrează pe arta daneză din secolul XX și arta nordică.",
+            "en": "Focuses on 20th-century Danish art and Nordic art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhistorie Tønder",
+            "hu": "Tønderi Kultúrtörténeti Múzeum",
+            "ro": "Muzeul de Istorie Culturală Tønder",
+            "en": "Museum of Cultural History Tønder"
+          },
+          "coords": [
+            8.8615,
+            54.9358
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Direkt neben dem Kunstmuseum, erforschen Sie die Geschichte der Region.",
+            "hu": "Közvetlenül a Művészeti Múzeum mellett található, fedezze fel a régió történelmét.",
+            "ro": "Chiar lângă muzeul de artă, explorați istoria regiunii.",
+            "en": "Right next to the art museum, explore the history of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Tønder am alten Rathaus. Schlendern Sie durch die malerische Uldgade, bewundern Sie das Drøhses Hus und die majestätische Kristkirken. Nach einem stärkenden Mittagessen tauchen Sie in die Welt der Kunst und Kultur in den beiden benachbarten Museen ein. Der Nachmittag ist der Erkundung der reichen Geschichte und Kunst der Region gewidmet. Der Abend klingt gemütlich in einem der charmanten Cafés der Stadt aus.",
+        "hu": "Kezdje a napot Tønder szívében, a Régi Városházánál. Sétáljon végig a festői Uldgade-n, csodálja meg a Drøhse-házat és a fenséges Kristkirken-t. Egy kiadós ebéd után merüljön el a művészet és a kultúra világában a két szomszédos múzeumban. A délután a régió gazdag történelmének és művészetének felfedezésével telik. Az estét a város egyik hangulatos kávézójában zárhatja.",
+        "ro": "Începeți ziua în inima orașului Tønder, la vechea primărie. Plimbați-vă pe pitoreasca Uldgade, admirați Casa Drøhse și maiestuoasa Biserică Kristkirken. După un prânz copios, scufundați-vă în lumea artei și culturii la cele două muzee învecinate. După-amiaza este dedicată explorării istoriei și artei bogate a regiunii. Seara se încheie într-o atmosferă relaxantă la una dintre cafenelele fermecătoare ale orașului.",
+        "en": "Start your day in the heart of Tønder at the old town hall. Stroll through the picturesque Uldgade, admire Drøhse's House and the majestic Kristkirken. After a hearty lunch, immerse yourself in the world of art and culture at the two adjacent museums. The afternoon is dedicated to exploring the region's rich history and art. The evening ends cozily in one of the city's charming cafés."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Ein traditionelles südjütländisches Kuchenbuffet. Fragen Sie in Cafés danach!"
+          },
+          {
+            "name": "Restaurant ROS",
+            "tip": "Moderne dänische Küche in einem stilvollen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Hagyományos dél-jütlandi süteménybüfé. Érdeklődjön a kávézókban!"
+          },
+          {
+            "name": "Restaurant ROS",
+            "tip": "Modern dán konyha stílusos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "Un bufet tradițional de prăjituri din Iutlanda de Sud. Întrebați la cafenele!"
+          },
+          {
+            "name": "Restaurant ROS",
+            "tip": "Bucătărie daneză modernă într-o ambianță elegantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sønderjysk Kaffebord",
+            "tip": "A traditional Southern Jutland cake buffet. Ask for it in the cafés!"
+          },
+          {
+            "name": "Restaurant ROS",
+            "tip": "Modern Danish cuisine in a stylish ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang entlang der Vidå",
+            "tip": "Ein ruhiger Weg am Fluss, der durch die Stadt fließt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museumsgarten",
+            "tip": "Der Garten zwischen den beiden Museen ist eine Oase der Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Vidå folyó mentén",
+            "tip": "Csendes ösvény a városon átfolyó folyó partján.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Múzeumkert",
+            "tip": "A két múzeum közötti kert a nyugalom oázisa.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare de-a lungul râului Vidå",
+            "tip": "O potecă liniștită de-a lungul râului care traversează orașul.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grădina muzeului",
+            "tip": "Grădina dintre cele două muzee este o oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk along the Vidå river",
+            "tip": "A quiet path along the river that flows through the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Museum Garden",
+            "tip": "The garden between the two museums is an oasis of calm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tønder Klöppelspitze",
+            "tip": "Ein einzigartiges Souvenir, das die lokale Handwerkstradition widerspiegelt."
+          },
+          {
+            "name": "Fußgängerzone (Gågade)",
+            "tip": "Viele kleine, unabhängige Geschäfte und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tønderi csipke",
+            "tip": "Egyedi szuvenír, amely a helyi kézműves hagyományt tükrözi."
+          },
+          {
+            "name": "Sétálóutca (Gågade)",
+            "tip": "Sok kis, független üzlet és butik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dantelă de Tønder",
+            "tip": "Un suvenir unic care reflectă tradiția artizanală locală."
+          },
+          {
+            "name": "Zona pietonală (Gågade)",
+            "tip": "Multe magazine mici, independente și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tønder Bobbin Lace",
+            "tip": "A unique souvenir that reflects the local craft tradition."
+          },
+          {
+            "name": "Pedestrian Street (Gågade)",
+            "tip": "Many small, independent shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in den alten Straßen uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie genügend Zeit für die Museen ein, sie sind sehr umfangreich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a macskakő az óvárosi utcákon egyenetlen lehet.",
+          "A városközpont legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen elegendő időt a múzeumokra, mivel nagyon kiterjedtek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul de pe străzile vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați suficient timp pentru muzee, acestea sunt foarte cuprinzătoare."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old streets can be uneven.",
+          "Most sights in the city center are within easy walking distance.",
+          "Allow plenty of time for the museums; they are quite extensive."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Tønder",
+            "hu": "Tønder Városközpont",
+            "ro": "Centrul orașului Tønder",
+            "en": "Tønder City Center"
+          },
+          "coords": [
+            8.8511,
+            54.9315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour nach einem Kaffee am Marktplatz.",
+            "hu": "Indítsa a kerékpártúrát egy kávéval a főtéren.",
+            "ro": "Începeți turul cu bicicleta după o cafea în piața centrală.",
+            "en": "Start your bike tour after a coffee in the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Uldgade & Drøhses Hus",
+            "hu": "Uldgade és Drøhse-ház",
+            "ro": "Uldgade și Casa Drøhse",
+            "en": "Uldgade & Drøhse's House"
+          },
+          "coords": [
+            8.8502,
+            54.9305
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese historische Ecke zu Fuß.",
+            "hu": "Parkolja le a biciklit, és fedezze fel gyalog ezt a történelmi sarkot.",
+            "ro": "Parcați bicicleta și explorați acest colț istoric pe jos.",
+            "en": "Park your bike and explore this historic corner on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristkirken",
+            "hu": "Krisztus-templom",
+            "ro": "Biserica Kristkirken",
+            "en": "Christ Church (Kristkirken)"
+          },
+          "coords": [
+            8.8545,
+            54.9333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Zentrum zu diesem beeindruckenden gotischen Bauwerk.",
+            "hu": "Rövid út a központtól ehhez a lenyűgöző gótikus épülethez.",
+            "ro": "O scurtă plimbare cu bicicleta de la centru la această clădire gotică impresionantă.",
+            "en": "A short ride from the center to this impressive Gothic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt durch die Tønder Marsch",
+            "hu": "Kerékpározás a Tønder Marsch-on át",
+            "ro": "Plimbare cu bicicleta prin Mlaștina Tønder",
+            "en": "Ride through the Tønder Marsh"
+          },
+          "coords": [
+            8.82,
+            54.91
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Landschaft und die frische Luft auf den flachen Wegen.",
+            "hu": "Élvezze a tágas tájat és a friss levegőt a sík utakon.",
+            "ro": "Bucurați-vă de peisajul vast și de aerul curat pe potecile plate.",
+            "en": "Enjoy the wide landscape and fresh air on the flat paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Møgeltønder",
+            "hu": "Ebéd Møgeltønderben",
+            "ro": "Prânz în Møgeltønder",
+            "en": "Lunch in Møgeltønder"
+          },
+          "coords": [
+            8.801,
+            54.943
+          ],
+          "category": "gastro",
+          "arrive_at": "12:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im charmanten Dorf Møgeltønder, nahe Schloss Schackenborg.",
+            "hu": "Tartson szünetet a bájos Møgeltønder faluban, a Schackenborg kastély közelében.",
+            "ro": "Faceți o pauză în satul fermecător Møgeltønder, lângă Castelul Schackenborg.",
+            "en": "Take a break in the charming village of Møgeltønder, near Schackenborg Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Schackenborg",
+            "hu": "Schackenborg kastély",
+            "ro": "Castelul Schackenborg",
+            "en": "Schackenborg Castle"
+          },
+          "coords": [
+            8.803,
+            54.945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gärten. Der Zugang zum Schloss selbst ist oft eingeschränkt.",
+            "hu": "Fedezze fel a kerteket. Magába a kastélyba a belépés gyakran korlátozott.",
+            "ro": "Explorați grădinile. Accesul în castel este adesea restricționat.",
+            "en": "Explore the gardens. Access to the castle itself is often restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseet i Tønder",
+            "hu": "Tønderi Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Tønder",
+            "en": "Art Museum in Tønder"
+          },
+          "coords": [
+            8.8605,
+            54.9355
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem kulturellen Höhepunkt zurück in Tønder.",
+            "hu": "Zárja a napot egy kulturális fényponttal Tønderben.",
+            "ro": "Încheiați ziua cu un punct culminant cultural înapoi în Tønder.",
+            "en": "End the day with a cultural highlight back in Tønder."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Zentrum von Tønder. Nach der Erkundung der Altstadt führt Sie eine malerische Route in die Weiten der Tønder Marsch. Genießen Sie die Natur, bevor Sie zum Mittagessen in das historische Dorf Møgeltønder radeln. Am Nachmittag besichtigen Sie das königliche Schloss Schackenborg. Die Tour endet mit einem Besuch des Kunstmuseums zurück in Tønder, wo Sie den Tag kulturell ausklingen lassen.",
+        "hu": "A kerékpártúra Tønder központjából indul. Az óváros felfedezése után egy festői útvonal vezet a Tønder Marsch síkságára. Élvezze a természetet, mielőtt ebédre a történelmi Møgeltønder faluba teker. Délután megtekinti a királyi Schackenborg kastélyt. A túra Tønderben, a Művészeti Múzeumban ér véget, ahol kulturális élménnyel zárhatja a napot.",
+        "ro": "Turul cu bicicleta începe în centrul orașului Tønder. După explorarea orașului vechi, un traseu pitoresc vă duce în întinderile Mlaștinei Tønder. Bucurați-vă de natură înainte de a pedala spre satul istoric Møgeltønder pentru prânz. După-amiaza, vizitați castelul regal Schackenborg. Turul se încheie înapoi în Tønder cu o vizită la Muzeul de Artă, unde puteți încheia ziua cu o notă culturală.",
+        "en": "Your bike tour starts in the center of Tønder. After exploring the old town, a scenic route takes you into the vastness of the Tønder Marsh. Enjoy nature before cycling to the historic village of Møgeltønder for lunch. In the afternoon, you will visit the royal Schackenborg Castle. The tour ends back in Tønder with a visit to the Art Museum, where you can end the day on a cultural note."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Ein königlicher Gasthof in Møgeltønder, ideal für ein gehobenes Mittagessen."
+          },
+          {
+            "name": "Solæg",
+            "tip": "Eine lokale Delikatesse: in Salzlake gekochte Eier. In vielen Kneipen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Királyi fogadó Møgeltønderben, ideális egy elegáns ebédhez."
+          },
+          {
+            "name": "Solæg",
+            "tip": "Helyi finomság: sós lében főtt tojás. Sok kocsmában kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Un han regal în Møgeltønder, ideal pentru un prânz rafinat."
+          },
+          {
+            "name": "Solæg",
+            "tip": "O delicatesă locală: ouă fierte în saramură. Disponibil în multe pub-uri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "A royal inn in Møgeltønder, ideal for an upscale lunch."
+          },
+          {
+            "name": "Solæg",
+            "tip": "A local delicacy: eggs cooked in brine. Available in many pubs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Stille der Marsch",
+            "tip": "Halten Sie an einem beliebigen Punkt in der Marsch an und genießen Sie die absolute Ruhe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Schackenborg",
+            "tip": "Ein friedlicher Ort für einen Spaziergang nach dem Mittagessen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A láp csendje",
+            "tip": "Álljon meg bárhol a lápvidéken, és élvezze a teljes csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schackenborg kastélypark",
+            "tip": "Békés hely egy ebéd utáni sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liniștea mlaștinii",
+            "tip": "Opriți-vă în orice punct din mlaștină și bucurați-vă de liniștea absolută.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Schackenborg",
+            "tip": "Un loc pașnic pentru o plimbare după prânz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "The silence of the marsh",
+            "tip": "Stop at any point in the marsh and enjoy the absolute silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schackenborg Castle Park",
+            "tip": "A peaceful place for a walk after lunch.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Schackenborg",
+            "tip": "Kaufen Sie lokale Produkte und Delikatessen direkt vom Schlossgut."
+          },
+          {
+            "name": "Fahrradkarten",
+            "tip": "Besorgen Sie sich im Tourismusbüro detaillierte Karten der regionalen Radwege."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schackenborgi farmbolt",
+            "tip": "Vásároljon helyi termékeket és finomságokat közvetlenül a kastély birtokáról."
+          },
+          {
+            "name": "Kerékpáros térképek",
+            "tip": "Szerezzen be részletes térképeket a regionális kerékpárutakról a turisztikai irodában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Schackenborg",
+            "tip": "Cumpărați produse locale și delicatese direct de la moșia castelului."
+          },
+          {
+            "name": "Hărți pentru ciclism",
+            "tip": "Obțineți hărți detaliate ale traseelor de ciclism regionale de la biroul de turism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schackenborg Farm Shop",
+            "tip": "Buy local products and delicacies directly from the castle estate."
+          },
+          {
+            "name": "Cycling maps",
+            "tip": "Get detailed maps of the regional cycle paths at the tourist office."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Gelände ist flach und ideal für Radfahrer aller Niveaus.",
+          "Achten Sie auf den Wind in der offenen Marschlandschaft.",
+          "Nehmen Sie Wasser und Snacks mit, da es außerhalb der Städte nur wenige Versorgungsmöglichkeiten gibt."
+        ],
+        "hu": [
+          "A terep sík, ideális minden szintű kerékpáros számára.",
+          "Figyeljen a szélre a nyílt lápvidéken.",
+          "Vigyen magával vizet és harapnivalót, mivel a városokon kívül kevés az ellátási lehetőség."
+        ],
+        "ro": [
+          "Terenul este plat și ideal pentru cicliști de toate nivelurile.",
+          "Atenție la vânt în peisajul deschis al mlaștinii.",
+          "Luați apă și gustări, deoarece există puține opțiuni de aprovizionare în afara orașelor."
+        ],
+        "en": [
+          "The terrain is flat and ideal for cyclists of all levels.",
+          "Be aware of the wind in the open marsh landscape.",
+          "Bring water and snacks, as there are few supply options outside the towns."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zentrum & Altes Rathaus",
+            "hu": "Parkoló a központban és Régi Városháza",
+            "ro": "Parcare centrală și Vechea Primărie",
+            "en": "Central Parking & Old Town Hall"
+          },
+          "coords": [
+            8.8525,
+            54.931
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und beginnen Sie Ihren Rundgang am Hauptplatz.",
+            "hu": "Parkoljon a központban, és kezdje a sétát a főtéren.",
+            "ro": "Parcați central și începeți turul pietonal din piața principală.",
+            "en": "Park centrally and start your walking tour at the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Uldgade & Drøhses Hus",
+            "hu": "Uldgade és Drøhse-ház",
+            "ro": "Uldgade și Casa Drøhse",
+            "en": "Uldgade & Drøhse's House"
+          },
+          "coords": [
+            8.8502,
+            54.9305
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu den historischen Gassen.",
+            "hu": "Rövid séta a parkolótól a történelmi sikátorokig.",
+            "ro": "O scurtă plimbare de la parcare la aleile istorice.",
+            "en": "A short walk from the parking lot to the historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristkirken",
+            "hu": "Krisztus-templom",
+            "ro": "Biserica Kristkirken",
+            "en": "Christ Church (Kristkirken)"
+          },
+          "coords": [
+            8.8545,
+            54.9333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Alles im Zentrum ist bequem zu Fuß erreichbar.",
+            "hu": "A központban minden kényelmesen elérhető gyalog.",
+            "ro": "Totul în centru este ușor accesibil pe jos.",
+            "en": "Everything in the center is easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Schackenborg",
+            "hu": "Schackenborg kastély",
+            "ro": "Castelul Schackenborg",
+            "en": "Schackenborg Castle"
+          },
+          "coords": [
+            8.803,
+            54.945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie nach Møgeltønder und parken Sie in der Nähe des Schlosses. Mittagessen hier.",
+            "hu": "Vezessen Møgeltønderbe, és parkoljon a kastély közelében. Itt ebédelhet.",
+            "ro": "Conduceți la Møgeltønder și parcați lângă castel. Luați prânzul aici.",
+            "en": "Drive to Møgeltønder and park near the castle. Have lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Slotsgaden, Møgeltønder",
+            "hu": "Slotsgaden, Møgeltønder",
+            "ro": "Slotsgaden, Møgeltønder",
+            "en": "Slotsgaden, Møgeltønder"
+          },
+          "coords": [
+            8.8015,
+            54.9435
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie die 'schönste Dorfstraße Dänemarks' entlang.",
+            "hu": "Sétáljon végig 'Dánia legszebb falusi utcáján'.",
+            "ro": "Plimbați-vă pe 'cea mai frumoasă stradă de sat din Danemarca'.",
+            "en": "Stroll down 'Denmark's most beautiful village street'."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Tønder Marsch",
+            "hu": "Kilátópont a Tønder Marsch-nál",
+            "ro": "Punct de belvedere Mlaștina Tønder",
+            "en": "Tønder Marsh Viewpoint"
+          },
+          "coords": [
+            8.82,
+            54.91
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Halt, um die endlose Weite des Marschlandes zu überblicken.",
+            "hu": "Rövid megálló, hogy áttekintse a lápvidék végtelen kiterjedését.",
+            "ro": "O scurtă oprire pentru a admira întinderea nesfârșită a mlaștinii.",
+            "en": "A short stop to overlook the endless expanse of the marshland."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsviertel Tønder",
+            "hu": "Tønderi Múzeumnegyed",
+            "ro": "Cartierul Muzeelor din Tønder",
+            "en": "Tønder Museum Quarter"
+          },
+          "coords": [
+            8.8605,
+            54.9355
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie erneut und besuchen Sie das Kunst- und Kulturhistorische Museum.",
+            "hu": "Parkoljon le újra, és látogassa meg a Művészeti és Kultúrtörténeti Múzeumot.",
+            "ro": "Parcați din nou și vizitați Muzeul de Artă și Istorie Culturală.",
+            "en": "Park again and visit the Art and Cultural History Museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das historische Zentrum von Tønder. Nach der Erkundung der charmanten Gassen fahren Sie zum prächtigen Schloss Schackenborg in Møgeltønder, wo Sie auch zu Mittag essen. Am Nachmittag erleben Sie die einzigartige Landschaft der Tønder Marsch, bevor Sie für einen tiefen Einblick in die Kunst und Geschichte der Region in das Museumsviertel von Tønder zurückkehren.",
+        "hu": "Kezdje a napot egy sétával Tønder történelmi központjában. A bájos sikátorok felfedezése után hajtson el a csodálatos Schackenborg kastélyhoz Møgeltønderben, ahol ebédelni is fog. Délután megtapasztalhatja a Tønder Marsch egyedülálló táját, mielőtt visszatérne Tønder múzeumi negyedébe, hogy mély betekintést nyerjen a régió művészetébe és történelmébe.",
+        "ro": "Începeți ziua cu o plimbare prin centrul istoric al orașului Tønder. După ce explorați aleile fermecătoare, conduceți la magnificul Castel Schackenborg din Møgeltønder, unde veți lua și prânzul. După-amiaza, experimentați peisajul unic al Mlaștinei Tønder înainte de a vă întoarce în cartierul muzeelor din Tønder pentru o incursiune profundă în arta și istoria regiunii.",
+        "en": "Start your day with a walk through the historic center of Tønder. After exploring the charming alleys, drive to the magnificent Schackenborg Castle in Møgeltønder, where you will also have lunch. In the afternoon, experience the unique landscape of the Tønder Marsh before returning to Tønder's museum quarter for a deep dive into the region's art and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Dinieren Sie wie die Könige in diesem historischen Gasthof."
+          },
+          {
+            "name": "Hostrups Hotel",
+            "tip": "Klassische dänische Gerichte mit Blick auf den Hafen in Tønder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Étkezzen királyként ebben a történelmi fogadóban."
+          },
+          {
+            "name": "Hostrups Hotel",
+            "tip": "Klasszikus dán ételek, kilátással a tønderi kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Luați masa ca regii la acest han istoric."
+          },
+          {
+            "name": "Hostrups Hotel",
+            "tip": "Mâncăruri daneze clasice cu vedere la portul din Tønder."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schackenborg Slotskro",
+            "tip": "Dine like royalty at this historic inn."
+          },
+          {
+            "name": "Hostrups Hotel",
+            "tip": "Classic Danish dishes with a view of the harbor in Tønder."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Weite der Marsch",
+            "tip": "Finden Sie einen ruhigen Ort abseits der Straße und lauschen Sie dem Wind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten von Schloss Schackenborg",
+            "tip": "Ein perfekt gepflegter Garten für einen Moment der Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A láp tágassága",
+            "tip": "Keressen egy csendes helyet az úttól távol, és hallgassa a szél zúgását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schackenborg kastély kertjei",
+            "tip": "Tökéletesen gondozott kert egy pillanatnyi elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Întinderea mlaștinii",
+            "tip": "Găsiți un loc liniștit departe de drum și ascultați vântul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Castelului Schackenborg",
+            "tip": "O grădină perfect îngrijită pentru un moment de contemplație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "The vastness of the marsh",
+            "tip": "Find a quiet spot off the road and listen to the wind.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of Schackenborg Castle",
+            "tip": "A perfectly manicured garden for a moment of contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden in Møgeltønder",
+            "tip": "Stöbern Sie nach einzigartigen Fundstücken und königlichen Souvenirs."
+          },
+          {
+            "name": "Det Gamle Apotek",
+            "tip": "Ein charmantes Geschäft in Tønder für Dekoration und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok Møgeltønderben",
+            "tip": "Böngésszen egyedi leletek és királyi ajándéktárgyak után."
+          },
+          {
+            "name": "Det Gamle Apotek",
+            "tip": "Bájos üzlet Tønderben dekorációk és ajándékok számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități în Møgeltønder",
+            "tip": "Căutați piese unice și suveniruri regale."
+          },
+          {
+            "name": "Det Gamle Apotek",
+            "tip": "Un magazin fermecător în Tønder pentru decorațiuni și cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique shops in Møgeltønder",
+            "tip": "Browse for unique finds and royal souvenirs."
+          },
+          {
+            "name": "Det Gamle Apotek",
+            "tip": "A charming shop in Tønder for decorations and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Öffnungszeiten von Schloss Schackenborg im Voraus.",
+          "Parken ist in Tønder in der Regel einfach, aber achten Sie auf Parkzeitbeschränkungen.",
+          "Ein Auto ermöglicht es Ihnen, die abgelegeneren Teile der Marsch zu erkunden."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Schackenborg kastély nyitvatartási idejét.",
+          "A parkolás Tønderben általában egyszerű, de figyeljen a parkolási időkorlátozásokra.",
+          "Az autó lehetővé teszi, hogy felfedezze a láp távolabbi részeit."
+        ],
+        "ro": [
+          "Verificați în avans programul de vizitare al Castelului Schackenborg.",
+          "Parcarea este de obicei ușoară în Tønder, dar fiți atenți la restricțiile de timp.",
+          "O mașină vă permite să explorați părțile mai îndepărtate ale mlaștinii."
+        ],
+        "en": [
+          "Check the opening hours of Schackenborg Castle in advance.",
+          "Parking is generally easy in Tønder, but pay attention to parking time restrictions.",
+          "A car allows you to explore the more remote parts of the marsh."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Busbahnhof Tønder",
+            "hu": "Érkezés a tønderi buszpályaudvarra",
+            "ro": "Sosire la autogara din Tønder",
+            "en": "Arrival at Tønder Bus Station"
+          },
+          "coords": [
+            8.863,
+            54.936
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag hier und orientieren Sie sich an den lokalen Buslinien.",
+            "hu": "Kezdje itt a napot, és tájékozódjon a helyi buszjáratokról.",
+            "ro": "Începeți ziua aici și orientați-vă cu ajutorul liniilor de autobuz locale.",
+            "en": "Start your day here and get your bearings with the local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseet & Kulturhistorie Tønder",
+            "hu": "Művészeti és Kultúrtörténeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie Culturală",
+            "en": "Art Museum & Museum of Cultural History"
+          },
+          "coords": [
+            8.861,
+            54.9356
+          ],
+          "category": "museums",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Cluster liegt in Gehweite des Busbahnhofs.",
+            "hu": "Ez a látnivaló-csoport sétatávolságra van a buszpályaudvartól.",
+            "ro": "Acest grup de atracții este la câțiva pași de autogară.",
+            "en": "This cluster is within walking distance of the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt ins Stadtzentrum",
+            "hu": "Utazás a városközpontba",
+            "ro": "Călătorie spre centrul orașului",
+            "en": "Trip to the City Center"
+          },
+          "coords": [
+            8.8511,
+            54.9315
+          ],
+          "category": "transit",
+          "arrive_at": "11:30",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum Hauptplatz (Torvet).",
+            "hu": "Menjen helyi busszal a főtérre (Torvet).",
+            "ro": "Luați un autobuz local spre piața principală (Torvet).",
+            "en": "Take a local bus to the main square (Torvet)."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Mittagessen",
+            "hu": "Régi Városháza és ebéd",
+            "ro": "Vechea Primărie și prânz",
+            "en": "Old Town Hall & Lunch"
+          },
+          "coords": [
+            8.8515,
+            54.932
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie den Platz und suchen Sie sich ein schönes Restaurant.",
+            "hu": "Fedezze fel a teret, és keressen egy szép éttermet.",
+            "ro": "Explorați piața și găsiți un restaurant drăguț.",
+            "en": "Explore the square and find a nice restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Uldgade & Drøhses Hus",
+            "hu": "Uldgade és Drøhse-ház",
+            "ro": "Uldgade și Casa Drøhse",
+            "en": "Uldgade & Drøhse's House"
+          },
+          "coords": [
+            8.8502,
+            54.9305
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Atmosphäre der am besten erhaltenen Straßen.",
+            "hu": "Merüljön el a legjobban megőrzött utcák hangulatában.",
+            "ro": "Lăsați-vă captivat de atmosfera celor mai bine conservate străzi.",
+            "en": "Immerse yourself in the atmosphere of the best-preserved streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kristkirken",
+            "hu": "Krisztus-templom",
+            "ro": "Biserica Kristkirken",
+            "en": "Christ Church (Kristkirken)"
+          },
+          "coords": [
+            8.8545,
+            54.9333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser Kirche.",
+            "hu": "Rövid séta az óvároson keresztül vezet ehhez a templomhoz.",
+            "ro": "O scurtă plimbare prin orașul vechi vă duce la această biserică.",
+            "en": "A short walk through the old town leads you to this church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt am Busbahnhof, von wo aus Sie bequem zu Fuß das Museumsviertel erreichen. Verbringen Sie den Morgen mit Kunst und Geschichte, bevor Sie mit dem Bus ins Herz der Altstadt fahren. Nach dem Mittagessen erkunden Sie zu Fuß die historischen Gassen und die Kristkirken. Der Nachmittag bietet reichlich Zeit, das charmante Zentrum zu entdecken, bevor Sie den Bus zurück nehmen.",
+        "hu": "A túra a buszpályaudvarról indul, ahonnan kényelmesen, gyalogosan elérhető a múzeumi negyed. Töltse a délelőttöt művészettel és történelemmel, mielőtt busszal az óváros szívébe utazik. Ebéd után gyalogosan fedezze fel a történelmi sikátorokat és a Kristkirken-t. A délután bőséges időt kínál a bájos központ felfedezésére, mielőtt visszautazna a busszal.",
+        "ro": "Turul începe de la autogară, de unde puteți ajunge cu ușurință pe jos în cartierul muzeelor. Petreceți dimineața cu artă și istorie înainte de a lua autobuzul spre inima orașului vechi. După prânz, explorați pe jos aleile istorice și Biserica Kristkirken. După-amiaza oferă suficient timp pentru a descoperi centrul fermecător înainte de a lua autobuzul înapoi.",
+        "en": "Your tour begins at the bus station, from where you can easily walk to the museum quarter. Spend the morning with art and history before taking a bus to the heart of the old town. After lunch, explore the historic alleys and Kristkirken on foot. The afternoon offers ample time to discover the charming center before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café im Drøhses Hus",
+            "tip": "Kombinieren Sie Kultur mit einer Kaffeepause in historischem Ambiente."
+          },
+          {
+            "name": "Pølsevogn am Torvet",
+            "tip": "Für einen schnellen und authentisch dänischen Snack (Hotdog)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávézó a Drøhse-házban",
+            "tip": "Kösse össze a kultúrát egy kávészünettel történelmi környezetben."
+          },
+          {
+            "name": "Pølsevogn a Torvet-en",
+            "tip": "Egy gyors és autentikus dán harapnivalóért (hot dog)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua din Casa Drøhse",
+            "tip": "Combinați cultura cu o pauză de cafea într-un cadru istoric."
+          },
+          {
+            "name": "Pølsevogn la Torvet",
+            "tip": "Pentru o gustare rapidă și autentic daneză (hotdog)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café in Drøhse's House",
+            "tip": "Combine culture with a coffee break in a historic setting."
+          },
+          {
+            "name": "Pølsevogn at Torvet",
+            "tip": "For a quick and authentically Danish snack (hot dog)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bank in der Uldgade",
+            "tip": "Setzen Sie sich und beobachten Sie das Leben in einer der schönsten Straßen Dänemarks.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kirchhof der Kristkirken",
+            "tip": "Ein ruhiger, grüner Ort mitten in der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad az Uldgade-n",
+            "tip": "Üljön le, és figyelje az életet Dánia egyik legszebb utcáján.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A Kristkirken templomkertje",
+            "tip": "Csendes, zöld hely a város közepén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe Uldgade",
+            "tip": "Așezați-vă și priviți viața pe una dintre cele mai frumoase străzi din Danemarca.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Curtea bisericii Kristkirken",
+            "tip": "Un loc liniștit și verde în mijlocul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bench on Uldgade",
+            "tip": "Sit down and watch life go by on one of Denmark's most beautiful streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kristkirken Churchyard",
+            "tip": "A quiet, green space in the middle of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kunsthandwerker",
+            "tip": "In den Galerien und Geschäften der Altstadt finden Sie einzigartige Keramik und Schmuck."
+          },
+          {
+            "name": "SuperBrugsen",
+            "tip": "Kaufen Sie dänische Lebensmittel und Leckereien für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesek",
+            "tip": "Az óváros galériáiban és üzleteiben egyedi kerámiákat és ékszereket talál."
+          },
+          {
+            "name": "SuperBrugsen",
+            "tip": "Vásároljon dán élelmiszereket és finomságokat egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizani locali",
+            "tip": "Găsiți ceramică și bijuterii unice în galeriile și magazinele din orașul vechi."
+          },
+          {
+            "name": "SuperBrugsen",
+            "tip": "Cumpărați alimente și delicatese daneze pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisans",
+            "tip": "Find unique ceramics and jewelry in the galleries and shops of the old town."
+          },
+          {
+            "name": "SuperBrugsen",
+            "tip": "Buy Danish groceries and treats for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie mehrere Fahrten planen.",
+          "Die Busfahrpläne sind am Busbahnhof und online verfügbar.",
+          "Tønder ist klein genug, dass man auch ohne Bus viel zu Fuß erkunden kann, aber der Bus verbindet die äußeren Sehenswürdigkeiten bequem.",
+          "Die meisten Busse sind barrierefrei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha több utazást tervez.",
+          "A buszmenetrendek elérhetők a buszpályaudvaron és online.",
+          "Tønder elég kicsi ahhoz, hogy busz nélkül is sokat gyalogoljon, de a busz kényelmesen összeköti a külső látnivalókat.",
+          "A legtöbb busz akadálymentesített."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă plănuiți mai multe călătorii.",
+          "Orarele autobuzelor sunt disponibile la autogară și online.",
+          "Tønder este suficient de mic pentru a explora mult pe jos fără autobuz, dar autobuzul conectează convenabil atracțiile exterioare.",
+          "Majoritatea autobuzelor sunt accesibile persoanelor cu dizabilități."
+        ],
+        "en": [
+          "Buy a day ticket for the bus if you plan multiple trips.",
+          "Bus schedules are available at the bus station and online.",
+          "Tønder is small enough to explore a lot on foot without a bus, but the bus conveniently connects the outer sights.",
+          "Most buses are wheelchair accessible."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1215 @@
+{
+  "city_id": "romania-breaza-cities-v2",
+  "anchor": {
+    "name": "Breaza",
+    "coords": [
+      25.66,
+      45.18
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Breaza Park",
+            "hu": "Breaza Park",
+            "ro": "Parcul Breaza",
+            "en": "Breaza Park"
+          },
+          "coords": [
+            25.659,
+            45.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem erfrischenden Spaziergang und genießen Sie die saubere, ozonreiche Luft.",
+            "hu": "Kezdje a napot egy frissítő sétával, és élvezze a tiszta, ózonban gazdag levegőt.",
+            "ro": "Începeți ziua cu o plimbare înviorătoare, bucurându-vă de aerul curat, bogat în ozon.",
+            "en": "Start your day with a refreshing walk, enjoying the clean, ozone-rich air."
+          }
+        },
+        {
+          "name": {
+            "de": "Heldenmonument",
+            "hu": "Hősök Emlékműve",
+            "ro": "Monumentul Eroilor",
+            "en": "Heroes' Monument"
+          },
+          "coords": [
+            25.663,
+            45.184
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem wichtigen lokalen Wahrzeichen.",
+            "hu": "Egy pillanatnyi elmélkedés ennél a fontos helyi emlékműnél.",
+            "ro": "Un moment de reflecție la acest important punct de reper local.",
+            "en": "A moment of reflection at this important local landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Ion Manolescu",
+            "hu": "Ion Manolescu Kulturális Központ",
+            "ro": "Casa de Cultură Ion Manolescu",
+            "en": "Ion Manolescu Cultural Center"
+          },
+          "coords": [
+            25.665,
+            45.185
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan auf lokale Veranstaltungen oder Ausstellungen.",
+            "hu": "Nézze meg a műsortervet helyi eseményekért vagy kiállításokért.",
+            "ro": "Verificați programul pentru evenimente sau expoziții locale.",
+            "en": "Check the schedule for any local events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "Saint Nicholas Church"
+          },
+          "coords": [
+            25.668,
+            45.187
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle orthodoxe Architektur und die friedliche Atmosphäre.",
+            "hu": "Csodálja meg a hagyományos ortodox építészetet és a békés légkört.",
+            "ro": "Admirați arhitectura tradițională ortodoxă și atmosfera pașnică.",
+            "en": "Admire the traditional Orthodox architecture and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Besichtigung traditioneller Villen",
+            "hu": "Hagyományos villák megtekintése",
+            "ro": "Turul vilelor tradiționale",
+            "en": "Tour of Traditional Villas"
+          },
+          "coords": [
+            25.66,
+            45.189
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Straßen, um die einzigartige Brâncoveanu-Architektur zu bewundern. Dies ist auch eine gute Zeit für das Mittagessen.",
+            "hu": "Sétáljon végig az utcákon, hogy megcsodálja az egyedi Brâncoveanu stílusú építészetet. Ez egy jó időpont az ebédre is.",
+            "ro": "Plimbați-vă pe străzi pentru a admira arhitectura unică în stil brâncovenesc. Acesta este și un moment bun pentru prânz.",
+            "en": "Stroll through the streets to admire the unique Brâncoveanu-style architecture. This is also a good time for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Gurga-Hügel",
+            "hu": "Gurga-hegy",
+            "ro": "Dealul Gurga",
+            "en": "Gurga Hill"
+          },
+          "coords": [
+            25.655,
+            45.175
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein etwas steilerer Spaziergang, der mit einem Panoramablick über die Stadt belohnt wird.",
+            "hu": "Egy kicsit meredekebb séta, amelyet panorámás kilátás jutalmaz a városra.",
+            "ro": "O plimbare puțin mai abruptă, care vă recompensează cu o vedere panoramică asupra orașului.",
+            "en": "A slightly steeper walk that rewards you with a panoramic view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Gura Beliei Aussichtspunkt",
+            "hu": "Gura Beliei kilátó",
+            "ro": "Punct de belvedere Gura Beliei",
+            "en": "Gura Beliei Viewpoint"
+          },
+          "coords": [
+            25.652,
+            45.173
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und die Landschaft der Prahova zu betrachten.",
+            "hu": "A tökéletes hely a nap befejezéséhez és a Prahova-völgyi táj szemléléséhez.",
+            "ro": "Locul perfect pentru a încheia ziua, contemplând peisajul prahovean.",
+            "en": "The perfect spot to end your day, contemplating the Prahova landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Breaza beginnt im zentralen Park, wo Sie die berühmte saubere Luft einatmen. Nach einem Besuch bei den Wahrzeichen im Stadtzentrum, wie der St.-Nikolaus-Kirche und dem Heldenmonument, schlendern Sie durch die Straßen, um die eleganten traditionellen Villen zu bewundern. Der Nachmittag ist einem Spaziergang auf die umliegenden Hügel gewidmet, der mit spektakulären Panoramablicken endet. Ein Tag, der Natur und Kultur in perfekter Harmonie verbindet.",
+        "hu": "A breazai nap a központi parkban kezdődik, ahol belélegezheti a híres tiszta levegőt. A városközpont nevezetességeinek, mint a Szent Miklós-templom és a Hősök Emlékműve meglátogatása után az utcákon sétálva megcsodálhatja az elegáns, hagyományos villákat. A délután a környező dombokra tett sétáé, amely látványos panorámával zárul. Egy nap, amely tökéletes harmóniában ötvözi a természetet és a kultúrát.",
+        "ro": "Ziua dumneavoastră în Breaza începe în parcul central, respirând faimosul aer curat. După vizitarea reperelor din centrul orașului, precum Biserica Sfântul Nicolae și Monumentul Eroilor, vă plimbați pe străzi pentru a admira vilele tradiționale elegante. După-amiaza este dedicată unei drumeții pe dealurile din jur, încheind cu priveliști panoramice spectaculoase. O zi ce combină natura și cultura în perfectă armonie.",
+        "en": "Your day in Breaza begins in the central park, breathing in the famous clean air. After visiting the town center landmarks, like Saint Nicholas Church and the Heroes' Monument, you'll stroll the streets to admire the elegant traditional villas. The afternoon is dedicated to a hike up the surrounding hills, finishing with spectacular panoramic views. A day combining nature and culture in perfect harmony."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crama Vilelor",
+            "tip": "Probieren Sie die 'Tochitură', ein traditionelles rumänisches Gericht, mit 'Mămăligă'."
+          },
+          {
+            "name": "Restaurant Club Breaza",
+            "tip": "Bekannt für seine 'Mici' und die lebhafte Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crama Vilelor",
+            "tip": "Kóstolja meg a 'Tochitură'-t, egy hagyományos román ételt, 'Mămăligă'-val."
+          },
+          {
+            "name": "Restaurant Club Breaza",
+            "tip": "Híres a 'Mici'-ről és az élénk hangulatról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Vilelor",
+            "tip": "Încercați tochitura, un preparat tradițional românesc, cu mămăliguță."
+          },
+          {
+            "name": "Restaurant Club Breaza",
+            "tip": "Renumit pentru micii săi și atmosfera vibrantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crama Vilelor",
+            "tip": "Try the 'tochitură', a traditional Romanian dish, with 'mămăligă'."
+          },
+          {
+            "name": "Restaurant Club Breaza",
+            "tip": "Famous for its 'mici' and vibrant atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gurga-Hügel",
+            "tip": "Finden Sie eine Bank auf dem Gipfel und genießen Sie die Stille über der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Breaza Park am frühen Morgen",
+            "tip": "Die ruhigste Zeit für einen friedlichen Spaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gurga-hegy",
+            "tip": "Keressen egy padot a csúcson, és élvezze a csendet a város felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Breaza Park kora reggel",
+            "tip": "A legcsendesebb idő egy békés sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Gurga",
+            "tip": "Găsiți o bancă în vârf și bucurați-vă de liniștea de deasupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Breaza dimineața devreme",
+            "tip": "Cel mai liniștit moment pentru o plimbare pașnică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gurga Hill",
+            "tip": "Find a bench at the top and enjoy the silence above the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Breaza Park in the early morning",
+            "tip": "The quietest time for a peaceful stroll.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach handgefertigten Waren und lokalen Produkten wie Käse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen kézműves termékeket és helyi árukat, mint a sajt és a méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Căutați produse artizanale și produse locale, precum brânzeturi și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Look for handmade goods and local produce like cheese and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Eine Wasserflasche ist unerlässlich, besonders für den Aufstieg auf die Hügel.",
+          "Die Einheimischen sind freundlich; zögern Sie nicht, nach dem Weg zu fragen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Egy kulacs elengedhetetlen, különösen a dombokra való feljutáshoz.",
+          "A helyiek barátságosak; ne habozzon útbaigazítást kérni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "O sticlă cu apă este esențială, mai ales pentru urcușul pe dealuri.",
+          "Localnicii sunt prietenoși; nu ezitați să cereți indicații."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "A water bottle is essential, especially for the hike up the hills.",
+          "The locals are friendly; don't hesitate to ask for directions."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Golfclub Paul Tomiță",
+            "hu": "Paul Tomiță Golfklub",
+            "ro": "Clubul de Golf Paul Tomiță",
+            "en": "Paul Tomiță Golf Club"
+          },
+          "coords": [
+            25.68,
+            45.165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Golfplatz, um die morgendliche Ruhe und die gepflegten Anlagen zu genießen.",
+            "hu": "Kezdje a golfpályánál, hogy élvezze a reggeli nyugalmat és a gondozott tájat.",
+            "ro": "Începeți de la terenul de golf pentru a vă bucura de liniștea dimineții și de peisajul îngrijit.",
+            "en": "Start at the golf course to enjoy the morning tranquility and manicured landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Breaza Park",
+            "hu": "Breaza Park",
+            "ro": "Parcul Breaza",
+            "en": "Breaza Park"
+          },
+          "coords": [
+            25.659,
+            45.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Hauptpark der Stadt.",
+            "hu": "Tekerjen át a város fő parkján.",
+            "ro": "Traversați cu bicicleta parcul principal al orașului.",
+            "en": "Cycle through the town's main park."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Nikolaus-Kirche & Kulturzentrum",
+            "hu": "Szent Miklós-templom és Kulturális Központ",
+            "ro": "Biserica Sf. Nicolae & Casa de Cultură",
+            "en": "St. Nicholas Church & Cultural Center"
+          },
+          "coords": [
+            25.667,
+            45.186
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und erkunden Sie diese beiden nahe gelegenen kulturellen Sehenswürdigkeiten.",
+            "hu": "Parkolja le a biciklit, és fedezze fel ezt a két, egymáshoz közeli kulturális látnivalót.",
+            "ro": "Parcați bicicleta și explorați aceste două repere culturale apropiate.",
+            "en": "Park your bike and explore these two nearby cultural landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Besichtigung traditioneller Villen",
+            "hu": "Ebéd és hagyományos villák megtekintése",
+            "ro": "Prânz și turul vilelor tradiționale",
+            "en": "Lunch and Tour of Traditional Villas"
+          },
+          "coords": [
+            25.66,
+            45.189
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Wohngegenden und machen Sie eine längere Pause zum Mittagessen.",
+            "hu": "Tekerjen át a lakónegyedeken, és tartson egy hosszabb ebédszünetet.",
+            "ro": "Pedalați prin zonele rezidențiale și luați o pauză mai lungă pentru prânz.",
+            "en": "Cycle through the residential areas and take a longer break for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Gurga-Hügel",
+            "hu": "Gurga-hegy",
+            "ro": "Dealul Gurga",
+            "en": "Gurga Hill"
+          },
+          "coords": [
+            25.655,
+            45.175
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Eine anspruchsvolle, aber lohnende Radtour den Hügel hinauf für eine großartige Aussicht.",
+            "hu": "Kihívást jelentő, de hálás biciklizés a hegyre a nagyszerű kilátásért.",
+            "ro": "O urcare provocatoare, dar plină de satisfacții, cu bicicleta pe deal pentru o priveliște minunată.",
+            "en": "A challenging but rewarding cycle up the hill for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Gura Beliei Aussichtspunkt",
+            "hu": "Gura Beliei kilátó",
+            "ro": "Punct de belvedere Gura Beliei",
+            "en": "Gura Beliei Viewpoint"
+          },
+          "coords": [
+            25.652,
+            45.173
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der letzte Anstieg des Tages, um die gesamte Landschaft zu überblicken.",
+            "hu": "A nap utolsó emelkedője, hogy áttekintse az egész tájat.",
+            "ro": "Ultima urcare a zilei pentru a admira întregul peisaj.",
+            "en": "The final climb of the day to overlook the entire landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch die vielfältigen Landschaften von Breaza. Beginnend bei der grünen Weite des Golfclubs, radeln Sie ins Herz der Stadt, um den Park und die Kulturstätten zu erkunden. Nach einem entspannten Mittagessen inmitten beeindruckender Architektur führt die Route Sie auf die Hügel, wo Ihre Anstrengungen mit atemberaubenden Panoramablicken belohnt werden. Es ist eine aktive Art, die Schönheit und Ruhe des Ferienortes zu erleben.",
+        "hu": "Ez a biciklitúra Breaza változatos tájain vezet keresztül. A golfklub zöld területeitől indulva a város szívébe teker, hogy felfedezze a parkot és a kulturális helyszíneket. Egy pihentető, lenyűgöző építészet közepette elköltött ebéd után az útvonal a dombokra visz, ahol erőfeszítéseit lélegzetelállító panoráma jutalmazza. Ez egy aktív módja a város szépségének és nyugalmának megtapasztalására.",
+        "ro": "Acest tur cu bicicleta vă poartă prin peisajele diverse ale Breazei. Pornind de la întinderea verde a clubului de golf, pedalați spre inima orașului pentru a explora parcul și siturile culturale. După un prânz relaxant printre arhitecturi impresionante, traseul vă duce pe dealuri, unde eforturile vă sunt răsplătite cu vederi panoramice uluitoare. Este un mod activ de a experimenta frumusețea și liniștea stațiunii.",
+        "en": "This bike tour takes you through the diverse landscapes of Breaza. Starting from the green expanse of the golf club, you'll cycle to the heart of the town to explore its park and cultural sites. After a relaxed lunch amidst impressive architecture, the route takes you up into the hills, where your efforts are rewarded with breathtaking panoramic views. It's an active way to experience the resort's beauty and tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Pădure",
+            "tip": "Ideal für ein herzhaftes Mittagessen nach einer Radtour, probieren Sie die gegrillten Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Pădure",
+            "tip": "Ideális egy kiadós ebédhez biciklizés után, kóstolja meg a grillezett specialitásokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Pădure",
+            "tip": "Ideal pentru un prânz consistent după o tură cu bicicleta, încercați specialitățile la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Pădure",
+            "tip": "Ideal for a hearty lunch after a bike ride, try their grilled specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussicht vom Golfclub",
+            "tip": "Die frühen Morgenstunden auf dem Golfplatz sind unglaublich friedlich.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gura Beliei Aussichtspunkt",
+            "tip": "Ein ruhiger Ort, um nach dem Aufstieg durchzuatmen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a golfklubtól",
+            "tip": "A kora reggeli órák a golfpályán hihetetlenül békések.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gura Beliei kilátó",
+            "tip": "Egy csendes hely, ahol fellélegezhet a mászás után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Clubul de Golf",
+            "tip": "Orele dimineții la terenul de golf sunt incredibil de pașnice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punct de belvedere Gura Beliei",
+            "tip": "Un loc liniștit pentru a-ți trage sufletul după urcuș.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Golf Club",
+            "tip": "The early morning hours at the golf course are incredibly peaceful.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gura Beliei Viewpoint",
+            "tip": "A quiet place to catch your breath after the climb.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerkerläden",
+            "tip": "Halten Sie Ausschau nach kleinen Geschäften, die lokale Töpferei und Holzarbeiten verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keresse a helyi kerámiákat és fafaragásokat árusító kis üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Fiți atenți la micile magazine care vând ceramică locală și sculpturi în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Shops",
+            "tip": "Keep an eye out for small shops selling local pottery and woodcrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sicher, dass Ihr Fahrrad für Hügel geeignet ist.",
+          "Ein Helm und Wasser sind unerlässlich.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen."
+        ],
+        "hu": [
+          "Győződjön meg róla, hogy a kerékpárja alkalmas a dombos terepre.",
+          "Sisak és víz elengedhetetlen.",
+          "Mindig zárja le a kerékpárját, ha otthagyja."
+        ],
+        "ro": [
+          "Asigurați-vă că bicicleta este potrivită pentru dealuri.",
+          "O cască de protecție și apă sunt esențiale.",
+          "Încuietoarea pentru bicicletă este obligatorie atunci când o lăsați nesupravegheată."
+        ],
+        "en": [
+          "Make sure your bike is suitable for hills.",
+          "A helmet and water are essential.",
+          "Always lock your bike when leaving it unattended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Golfclub Paul Tomiță",
+            "hu": "1. klaszter: Paul Tomiță Golfklub",
+            "ro": "Cluster 1: Clubul de Golf Paul Tomiță",
+            "en": "Cluster 1: Paul Tomiță Golf Club"
+          },
+          "coords": [
+            25.68,
+            45.165
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie und genießen Sie einen Spaziergang um den Club. Perfekter, ruhiger Start in den Tag.",
+            "hu": "Parkoljon le, és sétáljon egyet a klub körül. Tökéletes, csendes kezdete a napnak.",
+            "ro": "Parcați și bucurați-vă de o plimbare în jurul clubului. Un început de zi perfect și liniștit.",
+            "en": "Park and enjoy a walk around the club. A perfect, quiet start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Gura Beliei & Gurga-Hügel",
+            "hu": "2. klaszter: Gura Beliei és Gurga-hegy",
+            "ro": "Cluster 2: Punct Belvedere Gura Beliei & Dealul Gurga",
+            "en": "Cluster 2: Gura Beliei & Gurga Hill"
+          },
+          "coords": [
+            25.652,
+            45.173
+          ],
+          "category": "natural features",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz in der Nähe der Aussichtspunkte. Dies ist der erste Stopp im Hügel-Cluster.",
+            "hu": "Hajtson a kilátók közelében lévő parkolóhoz. Ez a hegyi klaszter első megállója.",
+            "ro": "Conduceți până la parcarea din apropierea punctelor de belvedere. Aceasta este prima oprire din clusterul de pe deal.",
+            "en": "Drive to the parking area near the viewpoints. This is the first stop in the hill cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Gurga-Hügel",
+            "hu": "Séta a Gurga-hegyre",
+            "ro": "Plimbare spre Dealul Gurga",
+            "en": "Walk to Gurga Hill"
+          },
+          "coords": [
+            25.655,
+            45.175
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom vorherigen Punkt für eine andere Perspektive.",
+            "hu": "Egy rövid séta az előző ponttól egy másik perspektíváért.",
+            "ro": "O scurtă plimbare de la punctul anterior pentru o perspectivă diferită.",
+            "en": "A short walk from the previous point for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Stadtzentrum & Mittagessen",
+            "hu": "3. klaszter: Városközpont és ebéd",
+            "ro": "Cluster 3: Centrul Orașului & Prânz",
+            "en": "Cluster 3: Town Center & Lunch"
+          },
+          "coords": [
+            25.665,
+            45.185
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum. Besuchen Sie das Kulturzentrum, bevor Sie zu Mittag essen.",
+            "hu": "Parkoljon a központban. Ebéd előtt látogasson el a kulturális központba.",
+            "ro": "Parcați în centru. Vizitați Casa de Cultură înainte de a lua prânzul.",
+            "en": "Park in the center. Visit the Cultural Center before heading to lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur St.-Nikolaus-Kirche",
+            "hu": "Séta a Szent Miklós-templomhoz",
+            "ro": "Plimbare la Biserica Sf. Nicolae",
+            "en": "Walk to St. Nicholas Church"
+          },
+          "coords": [
+            25.668,
+            45.187
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein angenehmer Spaziergang vom Mittagessen zu diesem wichtigen religiösen Ort.",
+            "hu": "Egy kellemes séta az ebédtől ehhez a fontos vallási helyszínhez.",
+            "ro": "O plimbare plăcută de la masa de prânz la acest important lăcaș de cult.",
+            "en": "A pleasant walk from lunch to this important religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Breaza Park",
+            "hu": "Séta a Breaza Parkba",
+            "ro": "Plimbare în Parcul Breaza",
+            "en": "Walk to Breaza Park"
+          },
+          "coords": [
+            25.659,
+            45.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Mittagessen im Hauptpark der Stadt.",
+            "hu": "Pihenjen ebéd után a város fő parkjában.",
+            "ro": "Relaxați-vă în parcul principal al orașului după prânz.",
+            "en": "Relax in the town's main park after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Besichtigung der traditionellen Villen",
+            "hu": "Hagyományos villák megtekintése",
+            "ro": "Turul vilelor tradiționale",
+            "en": "Tour of Traditional Villas"
+          },
+          "coords": [
+            25.66,
+            45.189
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Spaziergang des Tages, um die einzigartige lokale Architektur zu bewundern, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "A nap utolsó sétája, hogy megcsodálja az egyedi helyi építészetet, mielőtt visszatér az autójához.",
+            "ro": "Ultima plimbare a zilei pentru a admira arhitectura locală unică înainte de a vă întoarce la mașină.",
+            "en": "The last walk of the day to admire the unique local architecture before returning to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Attraktionen von Breaza in Clustern erkunden. Sie beginnen mit der Ruhe des Golfclubs, fahren dann zu den Hügeln für Panoramablicke und verbringen den Nachmittag damit, das Stadtzentrum zu Fuß zu erkunden. Diese Methode ermöglicht es Ihnen, weiter entfernte Orte zu erreichen und gleichzeitig die wichtigsten Bereiche in einem gemächlichen Tempo zu genießen, indem Sie das Auto auf ausgewiesenen Parkplätzen abstellen und die Gegend zu Fuß erkunden.",
+        "hu": "Az autóval Breaza látnivalóit klaszterekben fedezheti fel. A golfklub nyugalmával kezd, majd a panorámás kilátást nyújtó dombokra hajt, a délutánt pedig a városközpont gyalogos felfedezésével tölti. Ez a módszer lehetővé teszi, hogy távolabbi helyekre is eljusson, miközben a kulcsfontosságú területeket kényelmes tempóban élvezheti, az autót kijelölt parkolókban hagyva és a környéket gyalog bejárva.",
+        "ro": "Cu mașina, puteți explora atracțiile din Breaza în clustere. Începeți cu liniștea de la clubul de golf, apoi conduceți spre dealuri pentru vederi panoramice și petreceți după-amiaza explorând centrul orașului pe jos. Această metodă vă permite să ajungeți la locuri mai îndepărtate, în timp ce vă bucurați de zonele cheie într-un ritm lejer, lăsând mașina în parcări desemnate și explorând pe jos.",
+        "en": "By car, you can explore Breaza's attractions in clusters. You'll start with the tranquility of the golf club, then drive to the hills for panoramic views, and spend the afternoon exploring the town center on foot. This method allows you to reach more distant places while enjoying the key areas at a leisurely pace, leaving the car in designated parking spots and exploring on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Gurga",
+            "tip": "Bietet traditionelle Küche mit einer großartigen Aussicht vom Hügel."
+          },
+          {
+            "name": "Pizzeria Breaza",
+            "tip": "Eine schnelle und beliebte Option im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gurga Étterem",
+            "tip": "Hagyományos konyhát kínál, nagyszerű kilátással a hegyről."
+          },
+          {
+            "name": "Pizzeria Breaza",
+            "tip": "Gyors és népszerű lehetőség a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Gurga",
+            "tip": "Oferă bucătărie tradițională cu o priveliște superbă de pe deal."
+          },
+          {
+            "name": "Pizzeria Breaza",
+            "tip": "O opțiune rapidă și populară în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gurga Restaurant",
+            "tip": "Offers traditional cuisine with a great view from the hill."
+          },
+          {
+            "name": "Pizzeria Breaza",
+            "tip": "A quick and popular option in the town center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spaziergang um den Golfclub",
+            "tip": "Der Bereich um den Golfplatz ist sehr ruhig und ideal für einen entspannten Spaziergang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussicht von den Hügeln",
+            "tip": "Weit weg vom Trubel der Stadt, mit viel frischer Luft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a golfklub körül",
+            "tip": "A golfpálya környéke nagyon csendes és ideális egy pihentető sétához.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kilátás a dombokról",
+            "tip": "Távol a város zajától, sok friss levegővel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare în jurul Clubului de Golf",
+            "tip": "Zona din jurul terenului de golf este foarte liniștită și ideală pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Vedere de pe dealuri",
+            "tip": "Departe de agitația orașului, cu mult aer curat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Walk around the Golf Club",
+            "tip": "The area around the golf course is very quiet and ideal for a relaxing walk.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "View from the hills",
+            "tip": "Far from the hustle of the town, with plenty of fresh air.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden im Zentrum",
+            "tip": "Kaufen Sie Postkarten und lokales Kunsthandwerk als Andenken an Ihre Reise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvírboltok a központban",
+            "tip": "Vásároljon képeslapokat és helyi kézműves termékeket utazása emlékéül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din centru",
+            "tip": "Cumpărați vederi și artizanat local ca amintire a călătoriei dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in the center",
+            "tip": "Buy postcards and local crafts as a memory of your trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach ausgewiesenen Parkplätzen in jedem Cluster, um Strafzettel zu vermeiden.",
+          "Planen Sie Ihre Fahrten zwischen den Clustern, um den Verkehr zu Stoßzeiten zu umgehen.",
+          "Nehmen Sie Ihre Wertsachen immer aus dem Auto mit."
+        ],
+        "hu": [
+          "Keressen kijelölt parkolóhelyeket minden klaszterben a bírságok elkerülése érdekében.",
+          "Tervezze meg az utazásait a klaszterek között, hogy elkerülje a csúcsforgalmat.",
+          "Mindig vigye magával az értékeit az autóból."
+        ],
+        "ro": [
+          "Căutați parcări desemnate în fiecare cluster pentru a evita amenzile.",
+          "Planificați-vă călătoriile între clustere pentru a evita traficul de la orele de vârf.",
+          "Luați-vă întotdeauna obiectele de valoare din mașină."
+        ],
+        "en": [
+          "Look for designated parking areas in each cluster to avoid fines.",
+          "Plan your drives between clusters to avoid peak traffic.",
+          "Always take your valuables with you from the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum",
+            "hu": "1. klaszter: Városközpont",
+            "ro": "Cluster 1: Centrul Orașului",
+            "en": "Cluster 1: Town Center"
+          },
+          "coords": [
+            25.665,
+            45.185
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie am Kulturzentrum.",
+            "hu": "Buszozzon be a központba, és kezdjen a Kulturális Központnál.",
+            "ro": "Luați un autobuz spre centru și începeți de la Casa de Cultură.",
+            "en": "Take a bus to the center and start at the Cultural Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur St.-Nikolaus-Kirche",
+            "hu": "Séta a Szent Miklós-templomhoz",
+            "ro": "Plimbare la Biserica Sf. Nicolae",
+            "en": "Walk to St. Nicholas Church"
+          },
+          "coords": [
+            25.668,
+            45.187
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang, um dieses historische Gebäude zu besichtigen.",
+            "hu": "Egy rövid séta, hogy megnézze ezt a történelmi épületet.",
+            "ro": "O scurtă plimbare pentru a vizita această clădire istorică.",
+            "en": "A short walk to visit this historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Breaza Park & Mittagessen",
+            "hu": "Séta a Breaza Parkba és ebéd",
+            "ro": "Plimbare în Parcul Breaza & Prânz",
+            "en": "Walk to Breaza Park & Lunch"
+          },
+          "coords": [
+            25.659,
+            45.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie zum Park und suchen Sie sich ein schönes Restaurant in der Nähe für das Mittagessen.",
+            "hu": "Sétáljon el a parkba, és keressen egy kellemes éttermet a közelben ebédre.",
+            "ro": "Plimbați-vă până în parc și găsiți un restaurant drăguț în apropiere pentru prânz.",
+            "en": "Walk to the park and find a nice nearby restaurant for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Hügel-Aussichtspunkte",
+            "hu": "2. klaszter: Hegyi kilátók",
+            "ro": "Cluster 2: Puncte de belvedere de pe deal",
+            "en": "Cluster 2: Hill Viewpoints"
+          },
+          "coords": [
+            25.655,
+            45.175
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung der Hügel. Steigen Sie in der Nähe des Gurga-Hügels aus.",
+            "hu": "Buszozzon a dombok felé. Szálljon le a Gurga-hegy közelében.",
+            "ro": "Luați un autobuz spre dealuri. Coborâți lângă Dealul Gurga.",
+            "en": "Take a bus towards the hills. Get off near Gurga Hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Gura Beliei Aussichtspunkt",
+            "hu": "Séta a Gura Beliei kilátóhoz",
+            "ro": "Plimbare la Punctul de belvedere Gura Beliei",
+            "en": "Walk to Gura Beliei Viewpoint"
+          },
+          "coords": [
+            25.652,
+            45.173
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht und die frische Luft nach der Busfahrt.",
+            "hu": "Élvezze a kilátást és a friss levegőt a buszozás után.",
+            "ro": "Bucurați-vă de priveliște și de aerul curat după călătoria cu autobuzul.",
+            "en": "Enjoy the view and the fresh air after the bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zum Heldenmonument",
+            "hu": "Séta a Hősök Emlékművéhez",
+            "ro": "Plimbare la Monumentul Eroilor",
+            "en": "Walk to the Heroes' Monument"
+          },
+          "coords": [
+            25.663,
+            45.184
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang zu diesem Denkmal, bevor Sie den Bus zurück nehmen.",
+            "hu": "Egy utolsó séta ehhez az emlékműhöz, mielőtt visszabuszozna.",
+            "ro": "O ultimă plimbare la acest monument înainte de a lua autobuzul înapoi.",
+            "en": "One last walk to this monument before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln können Sie Breaza in zwei Hauptclustern erleben. Verbringen Sie den Vormittag damit, das lebhafte Stadtzentrum zu Fuß zu erkunden, einschließlich seiner Kirche, des Parks und der Restaurants. Am Nachmittag bringt Sie ein Bus zu den ruhigeren Hügeln, wo Sie Panoramablicke und eine friedliche Atmosphäre genießen können. Diese Methode ist kostengünstig und ermöglicht es Ihnen, mit dem lokalen Leben in Kontakt zu treten.",
+        "hu": "A tömegközlekedéssel Breaza két fő klaszterben élhető át. Töltse a délelőttöt a nyüzsgő városközpont gyalogos felfedezésével, beleértve a templomot, a parkot és az éttermeket. Délután egy busz elviszi a csendesebb dombokra, ahol panorámás kilátás és békés légkör várja. Ez a módszer költséghatékony és lehetővé teszi, hogy kapcsolatba lépjen a helyi élettel.",
+        "ro": "Folosind transportul public, puteți experimenta Breaza în două clustere principale. Petreceți dimineața explorând pe jos centrul vibrant al orașului, inclusiv biserica, parcul și restaurantele sale. După-amiaza, un autobuz vă duce spre dealurile mai liniștite, unde vă puteți bucura de vederi panoramice și o atmosferă pașnică. Această metodă este economică și vă permite să interacționați cu viața locală.",
+        "en": "Using public transit, you can experience Breaza in two main clusters. Spend the morning exploring the vibrant town center on foot, including its church, park, and restaurants. In the afternoon, a bus takes you to the quieter hills, where you can enjoy panoramic views and a peaceful atmosphere. This method is budget-friendly and allows you to connect with local life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Central",
+            "tip": "Eine gute Wahl im Stadtzentrum, die eine Vielzahl von rumänischen Gerichten anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Central Étterem",
+            "tip": "Jó választás a városközpontban, román ételek széles választékát kínálja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Central",
+            "tip": "O alegere bună în centrul orașului, oferind o varietate de mâncăruri românești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Restaurant",
+            "tip": "A good choice in the town center, offering a variety of Romanian dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Bank im Breaza Park",
+            "tip": "Beobachten Sie das tägliche Leben von einem ruhigen Ort aus.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gura Beliei Aussichtspunkt",
+            "tip": "Atmen Sie tief durch und genießen Sie die atemberaubende Landschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy pad a Breaza Parkban",
+            "tip": "Figyelje a mindennapi életet egy csendes helyről.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gura Beliei kilátó",
+            "tip": "Vegyen egy mély lélegzetet, és élvezze a lenyűgöző tájat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O bancă în Parcul Breaza",
+            "tip": "Urmăriți viața de zi cu zi dintr-un loc liniștit.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Gura Beliei",
+            "tip": "Respirați adânc și bucurați-vă de peisajul uimitor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "A bench in Breaza Park",
+            "tip": "Watch the daily life go by from a quiet spot.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gura Beliei Viewpoint",
+            "tip": "Take a deep breath and enjoy the stunning scenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Bäckereien",
+            "tip": "Probieren Sie lokale Gebäcke wie 'Cozonac' oder 'Plăcintă'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis pékségek",
+            "tip": "Kóstoljon helyi süteményeket, mint a 'Cozonac' vagy a 'Plăcintă'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mici patiserii",
+            "tip": "Încercați produse de patiserie locale precum cozonac sau plăcintă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small bakeries",
+            "tip": "Try local pastries like 'Cozonac' or 'Plăcintă'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus.",
+          "Haben Sie etwas Kleingeld für die Fahrkarten dabei."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha elérhető.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Legyen Önnél aprópénz a jegyekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans.",
+          "Aveți la dumneavoastră numerar mărunt pentru bilete."
+        ],
+        "en": [
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance.",
+          "Have some small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

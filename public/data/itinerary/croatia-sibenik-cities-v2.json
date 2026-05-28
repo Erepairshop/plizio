@@ -1,758 +1,67 @@
 {
   "city_id": "croatia-sibenik-cities-v2",
   "anchor": {
-    "name": "St. James Cathedral",
+    "name": "Šibenik",
     "coords": [
-      15.8892,
-      43.7356
+      15.895,
+      43.735
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 3.0,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 3.2,
+      "end_estimate": "17:50",
+      "total_km": 3.8,
       "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Kathedrale des Hl. Jakob",
-            "hu": "Szent Jakab-székesegyház",
-            "ro": "Catedrala Sfântul Iacob",
-            "en": "St. James Cathedral"
+            "de": "Rathaus von Šibenik",
+            "hu": "Šibeniki városháza",
+            "ro": "Primăria din Šibenik",
+            "en": "Šibenik City Hall"
           },
           "coords": [
-            15.8892,
-            43.7356
+            15.8948,
+            43.736
           ],
-          "category": "cathedral",
-          "arrive_at": "09:10",
-          "stay_min": 75,
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Einzigartige Steinkonstruktion, UNESCO-Weltkulturerbe.",
-            "hu": "Egyedülálló kőszerkezet, UNESCO világörökség.",
-            "ro": "Construcție unică din piatră, patrimoniu UNESCO.",
-            "en": "Unique stone construction, UNESCO World Heritage site."
+            "de": "Bewundern Sie die Renaissance-Loggia und genießen Sie einen Kaffee mit Blick auf den Platz.",
+            "hu": "Csodálja meg a reneszánsz loggiát és igyon egy kávét a térre néző egyik teraszon.",
+            "ro": "Admirați loggia renascentistă și savurați o cafea cu vedere la piață.",
+            "en": "Admire the Renaissance loggia and enjoy a coffee overlooking the square."
           }
         },
         {
           "name": {
-            "de": "Rathaus von Šibenik",
-            "hu": "Sibeniki városháza",
-            "ro": "Primăria din Šibenik",
-            "en": "Sibenik Town Hall"
+            "de": "Kathedrale des Heiligen Jakob",
+            "hu": "Szent Jakab-katedrális",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "Cathedral of St. James"
           },
           "coords": [
-            15.8895,
+            15.8945,
             43.7358
           ],
-          "category": "historical",
-          "arrive_at": "10:30",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
           "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Renaissance-Gebäude auf dem zentralen Platz.",
-            "hu": "Reneszánsz épület a központi téren.",
-            "ro": "Clădire renascentistă în piața centrală.",
-            "en": "Renaissance building on the central square."
-          }
-        },
-        {
-          "name": {
-            "de": "Mittelalterlicher Klostergarten",
-            "hu": "Középkori kolostorkert",
-            "ro": "Grădina mănăstirii medievale",
-            "en": "Medieval Monastery Garden"
-          },
-          "coords": [
-            15.8885,
-            43.7369
-          ],
-          "category": "garden",
-          "arrive_at": "11:10",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Ein verstecktes Juwel des Laurentiusklosters.",
-            "hu": "A Szent Lőrinc-kolostor rejtett gyöngyszeme.",
-            "ro": "O bijuterie ascunsă a mănăstirii Sf. Laurențiu.",
-            "en": "A hidden gem within the St. Lawrence monastery."
-          }
-        },
-        {
-          "name": {
-            "de": "Festung St. Michael",
-            "hu": "Szent Mihály-erőd",
-            "ro": "Cetatea Sfântul Mihail",
-            "en": "St. Michael's Fortress"
-          },
-          "coords": [
-            15.8889,
-            43.7389
-          ],
-          "category": "historical",
-          "arrive_at": "12:30",
-          "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Die älteste Festung der Stadt mit Freilichtbühne.",
-            "hu": "A város legősibb erődje szabadtéri színpaddal.",
-            "ro": "Cea mai veche cetate a orașului cu scenă în aer liber.",
-            "en": "The city's oldest fortress with an open-air stage."
-          }
-        },
-        {
-          "name": {
-            "de": "Altstadtgassen",
-            "hu": "Óvárosi sikátorok",
-            "ro": "Străzile orașului vechi",
-            "en": "Old Town Alleys"
-          },
-          "coords": [
-            15.8905,
-            43.7365
-          ],
-          "category": "historical",
-          "arrive_at": "14:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Verlieren Sie sich im Labyrinth der Treppen.",
-            "hu": "Vesszen el a lépcsők labirintusában.",
-            "ro": "Pierdeți-vă în labirintul de scări.",
-            "en": "Get lost in the labyrinth of stone stairs."
-          }
-        },
-        {
-          "name": {
-            "de": "Banj Strand",
-            "hu": "Banj strand",
-            "ro": "Plaja Banj",
-            "en": "Banj Beach"
-          },
-          "coords": [
-            15.8852,
-            43.7408
-          ],
-          "category": "beach",
-          "arrive_at": "15:25",
-          "stay_min": 90,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Stadtstrand mit Panoramablick auf Šibenik.",
-            "hu": "Városi strand panorámás kilátással Sibenikre.",
-            "ro": "Plajă urbană cu vedere panoramică spre Šibenik.",
-            "en": "City beach with a panoramic view of Šibenik."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Erleben Sie Šibenik, die erste von Kroaten gegründete Stadt an der Adria. Besichtigen Sie die weltberühmte Jakobskathedrale und den ruhigen Klostergarten. Erklimmen Sie die Festung St. Michael für den Ausblick und entspannen Sie schließlich am Banj-Strand mit Blick auf die Silhouette der Stadt.",
-        "hu": "Fedezze fel Sibeniket, az első horvát alapítású várost az Adrián. Tekintse meg a világhírű Szent Jakab-székesegyházat és a békés kolostorkertet. Másszon fel a Szent Mihály-erődbe a kilátásért, végül lazítson a Banj strandon, ahonnan a város sziluettje látható.",
-        "ro": "Experimentați Šibenik, primul oraș fondat de croați la Marea Adriatică. Vizitați catedrala Sfântul Iacob, celebră în întreaga lume, și grădina liniștită a mănăstirii. Urcați la cetatea Sfântul Mihail pentru priveliște și relaxați-vă pe plaja Banj, admirând silueta orașului.",
-        "en": "Experience Šibenik, the first Croatian-founded city on the Adriatic. Visit the world-famous St. James Cathedral and the peaceful monastery garden. Climb St. Michael's Fortress for the view and finally relax at Banj Beach overlooking the city skyline."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Pelegrini",
-            "tip": "Michelin-Sterne-Restaurant direkt neben der Kathedrale."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Konoba Marenda",
-            "tip": "Hagyományos dalmát ételek helyieknek."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Pizzeria Kula",
-            "tip": "Pizza excelentă în centrul istoric."
-          }
-        ],
-        "en": [
-          {
-            "name": "Vino & Cine",
-            "tip": "Great local wine selection and tapas."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Festung Barone",
-            "tip": "Etwas ruhiger als St. Michael mit tollem Café.",
-            "emoji": "🏰"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Szent Miklós erőd csatornája",
-            "tip": "Séta a tengerparti fenyvesben.",
-            "emoji": "🧘"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Grădina Sfântul Laurențiu",
-            "tip": "Oază de verdeață în inima orașului vechi.",
-            "emoji": "🌿"
-          }
-        ],
-        "en": [
-          {
-            "name": "Fortress Barone Terrace",
-            "tip": "Sunset view with a cold drink.",
-            "emoji": "🌅"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Šibenik-Mütze Shop",
-            "tip": "Die traditionelle orange-schwarze Kopfbedeckung."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Helyi piac",
-            "tip": "Vásároljon dalmát pácolt sonkát (Pršut)."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Souvenir shop Lanterna",
-            "tip": "Cadouri artizanale de calitate."
-          }
-        ],
-        "en": [
-          {
-            "name": "Coral Shop",
-            "tip": "Beautiful red coral jewelry from nearby Zlarin."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Šibenik ist die Stadt der Treppen, stellen Sie sich auf viel Laufen ein.",
-          "Besuchen Sie die Festungen am späten Nachmittag."
-        ],
-        "hu": [
-          "Sibenik a lépcsők városa, készüljön fel a sok gyaloglásra.",
-          "Látogassa meg az erődöket késő délután."
-        ],
-        "ro": [
-          "Šibenik este orașul scărilor, pregătiți-vă pentru mult mers pe jos.",
-          "Vizitați cetățile spre sfârșitul după-amiezii."
-        ],
-        "en": [
-          "Šibenik is the city of stairs, be prepared for lots of climbing.",
-          "Visit the fortresses in the late afternoon for cooler air."
-        ]
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 10,
-      "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 18.0,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": {
-            "de": "St. Antonius Kanal",
-            "hu": "Szent Antal-csatorna sétány",
-            "ro": "Canalul Sfântul Anton",
-            "en": "St. Anthony's Channel"
-          },
-          "coords": [
-            15.8652,
-            43.7222
-          ],
-          "category": "park",
-          "arrive_at": "09:30",
-          "stay_min": 90,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 5.0,
-          "tip_5lang": {
-            "de": "Einer der schönsten Radwege Kroatiens.",
-            "hu": "Horvátország egyik legszebb kerékpárútja.",
-            "ro": "Una dintre cele mai frumoase piste de biciclete.",
-            "en": "One of the most beautiful cycling paths in Croatia."
-          }
-        },
-        {
-          "name": {
-            "de": "Festung St. Nikolaus",
-            "hu": "Szent Miklós-erőd",
-            "ro": "Cetatea Sfântul Nicolae",
-            "en": "St. Nicholas Fortress"
-          },
-          "coords": [
-            15.8522,
-            43.7219
-          ],
-          "category": "historical",
-          "arrive_at": "11:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "UNESCO-geschützte Festung mitten im Meer.",
-            "hu": "UNESCO-védettségű erőd a tenger közepén.",
-            "ro": "Cetate protejată UNESCO în mijlocul mării.",
-            "en": "UNESCO-protected fortress in the middle of the sea."
-          }
-        },
-        {
-          "name": {
-            "de": "Jadrija Strand",
-            "hu": "Jadrija strand",
-            "ro": "Plaja Jadrija",
-            "en": "Jadrija Beach"
-          },
-          "coords": [
-            15.8352,
-            43.7239
-          ],
-          "category": "beach",
-          "arrive_at": "12:45",
-          "stay_min": 90,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 5.0,
-          "tip_5lang": {
-            "de": "Historisches Strandbad mit bunten Umkleiden.",
-            "hu": "Történelmi strandfürdő színes kabinokkal.",
-            "ro": "Plajă istorică cu cabine de schimb colorate.",
-            "en": "Historic beach resort with colorful changing rooms."
-          }
-        },
-        {
-          "name": {
-            "de": "Marina Mandalina",
-            "hu": "Mandalina kikötő",
-            "ro": "Marina Mandalina",
-            "en": "Marina Mandalina"
-          },
-          "coords": [
-            15.9002,
-            43.7222
-          ],
-          "category": "harbor",
-          "arrive_at": "15:00",
-          "stay_min": 30,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 7.5,
-          "tip_5lang": {
-            "de": "Yachthafen für Superyachten.",
-            "hu": "Szuperjachtok kikötője.",
-            "ro": "Port pentru super-iahturi.",
-            "en": "Yacht marina for superyachts."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Radeln Sie entlang des St. Antonius Kanals für eine spektakuläre Aussicht auf die Stadt und das Meer. Besuchen Sie die UNESCO-Festung St. Nikolaus und das Retro-Badeziel Jadrija. Beenden Sie die Tour im modernen Yachthafen Mandalina.",
-        "hu": "Tekerjen végig a Szent Antal-csatorna mentén a városra és a tengerre nyíló lenyűgöző kilátásért. Látogassa meg az UNESCO-listás Szent Miklós-erődöt és Jadrija retró strandját. Zárja a túrát a modern Mandalina jachtkikötőben.",
-        "ro": "Pedalați de-a lungul canalului Sfântul Anton pentru o vedere spectaculoasă asupra orașului și a mării. Vizitați cetatea UNESCO Sfântul Nicolae și plaja retro Jadrija. Încheiați turul în portul modern de iahturi Mandalina.",
-        "en": "Cycle along St. Anthony's Channel for spectacular views of the city and sea. Visit the UNESCO-listed St. Nicholas Fortress and the retro beach destination Jadrija. End the tour at the modern Mandalina yacht marina."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Restoran Jadrija",
-            "tip": "Einfache, gute Fischgerichte am Strand."
-          }
-        ],
-        "hu": [
-          {
-            "name": "D-Marin Mandalina",
-            "tip": "Elegáns étterem a kikötőben."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Konoba Vinko",
-            "tip": "Mâncare tradițională în apropiere de Šibenik."
-          }
-        ],
-        "en": [
-          {
-            "name": "Taverna Kula",
-            "tip": "Local food in a historic stone setting."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Cave Church of St. Anthony",
-            "tip": "Kleine Kapelle in der Felswand des Kanals.",
-            "emoji": "🧘"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Martinska kilátó",
-            "tip": "Csendes pont Sibenikkel szemben.",
-            "emoji": "🌅"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Promenada de-a lungul canalului",
-            "tip": "Plimbare liniștită prin pădure.",
-            "emoji": "🌿"
-          }
-        ],
-        "en": [
-          {
-            "name": "St. Anthony's Viewpoint",
-            "tip": "Panorama of the archipelago.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Dalmare Shopping Center",
-            "tip": "Großes Einkaufszentrum am Stadtrand."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Helyi olívaolaj bolt",
-            "tip": "Kiváló minőségű sibeniki olajok."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Jadrija gift shop",
-            "tip": "Articole de plajă și suveniruri."
-          }
-        ],
-        "en": [
-          {
-            "name": "Local wine and honey",
-            "tip": "Buy directly from producers along the channel road."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Der Radweg am Kanal ist gut ausgebaut und fast autofrei.",
-          "Nehmen Sie genug Wasser für die Jadrija-Strecke mit."
-        ],
-        "hu": [
-          "A csatorna menti út jól kiépített és szinte autómentes.",
-          "Vigyen elég vizet a jadrijai szakaszra."
-        ],
-        "ro": [
-          "Pista de biciclete de-a lungul canalului este bine amenajată.",
-          "Luați destulă apă pentru traseul spre Jadrija."
-        ],
-        "en": [
-          "The path along the channel is well-paved and mostly car-free.",
-          "Bring enough water for the ride to Jadrija."
-        ]
-      }
-    },
-    "car": {
-      "mode": "car",
-      "speed_kmh": 28,
-      "start": "09:00",
-      "end_estimate": "18:30",
-      "total_km": 55.0,
-      "stop_count": 8,
-      "stops": [
-        {
-          "name": {
-            "de": "Lozovac (Nationalpark Krka)",
-            "hu": "Lozovac (Krka Nemzeti Park)",
-            "ro": "Lozovac (Parcul Național Krka)",
-            "en": "Krka NP (Lozovac)"
-          },
-          "coords": [
-            15.9667,
-            43.7967
-          ],
-          "category": "park",
-          "arrive_at": "09:30",
-          "stay_min": 180,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 15.0,
-          "tip_5lang": {
-            "de": "Haupttor zu den berühmten Wasserfällen.",
-            "hu": "A híres vízesések főkapuja.",
-            "ro": "Poarta principală către faimoasele cascade.",
-            "en": "Main gateway to the famous waterfalls."
-          }
-        },
-        {
-          "name": {
-            "de": "Skradinski buk Wasserfall",
-            "hu": "Skradinski buk vízesés",
-            "ro": "Cascada Skradinski buk",
-            "en": "Skradinski buk Waterfall"
-          },
-          "coords": [
-            15.9622,
-            43.8052
-          ],
-          "category": "landmark",
-          "arrive_at": "12:45",
-          "stay_min": 120,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Wunderschöner Wasserfall-Lehrpfad.",
-            "hu": "Lenyűgöző vízesés-tanösvény.",
-            "ro": "Traseu educativ spectaculos pe lângă cascada.",
-            "en": "Breathtaking waterfall educational trail."
-          }
-        },
-        {
-          "name": {
-            "de": "Skradin Stadt",
-            "hu": "Skradin városa",
-            "ro": "Orașul Skradin",
-            "en": "Skradin Town"
-          },
-          "coords": [
-            15.9231,
-            43.8181
-          ],
-          "category": "historical",
-          "arrive_at": "15:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 6.0,
-          "tip_5lang": {
-            "de": "Malerisches Städtchen am Krka-Ufer.",
-            "hu": "Festői kisváros a Krka-folyó partján.",
-            "ro": "Oraș pitoresc pe malul râului Krka.",
-            "en": "Picturesque town on the banks of the Krka river."
-          }
-        },
-        {
-          "name": {
-            "de": "Vodice Promenade",
-            "hu": "Vodice sétány",
-            "ro": "Faleza Vodice",
-            "en": "Vodice Promenade"
-          },
-          "coords": [
-            15.7761,
-            43.7589
-          ],
-          "category": "square",
-          "arrive_at": "16:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 45,
-          "hop_from_prev_km": 20.0,
-          "tip_5lang": {
-            "de": "Pulsierendes Zentrum für Tourismus.",
-            "hu": "Lüktető turisztikai központ.",
-            "ro": "Centru turistic vibrant.",
-            "en": "Pulsating tourist hub."
-          }
-        },
-        {
-          "name": {
-            "de": "Tribunj Altstadt",
-            "hu": "Tribunj óvárosa",
-            "ro": "Orașul vechi Tribunj",
-            "en": "Tribunj Old Town"
-          },
-          "coords": [
-            15.7494,
-            43.7567
-          ],
-          "category": "historical",
-          "arrive_at": "17:55",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Ein Dorf auf einer winzigen Insel.",
-            "hu": "Egy falu egy apró szigeten.",
-            "ro": "Un sat situat pe o insulă minusculă.",
-            "en": "A village located on a tiny island."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Diese Tour führt Sie zu den Naturschönheiten des Krka Nationalparks. Verbringen Sie den Vormittag an den Wasserfällen von Skradinski buk. Danach besuchen Sie das charmante Skradin und beenden den Tag an der lebhaften Riviera von Vodice und Tribunj.",
-        "hu": "Ez a túra a Krka Nemzeti Park természeti szépségeihez kalauzolja el. Töltse a délelőttöt a Skradinski buk vízeséseinél. Ezután látogasson el a bájos Skradinba, és zárja a napot Vodice és Tribunj nyüzsgő riviéráján.",
-        "ro": "Acest tur vă duce la frumusețile naturale ale Parcului Național Krka. Petreceți dimineața la cascadele Skradinski buk. Apoi vizitați fermecătorul Skradin și încheiați ziua pe riviera animată din Vodice și Tribunj.",
-        "en": "This tour takes you to the natural wonders of Krka National Park. Spend the morning at the Skradinski buk waterfalls. Then visit charming Skradin and end the day at the lively riviera of Vodice and Tribunj."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Restoran Cantinetta",
-            "tip": "Probieren Sie das Skradiner Risotto (lange Kochzeit)."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Konoba Bepo",
-            "tip": "Autentikus dalmát konyha Tribunjban."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Skala Skradin",
-            "tip": "Restaurant pe malul apei cu specific local."
-          }
-        ],
-        "en": [
-          {
-            "name": "Tri Piruna",
-            "tip": "High quality modern Dalmatian food in Vodice."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Visovac Insel",
-            "tip": "Franziskanerkloster mitten im See.",
-            "emoji": "⛪"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Krka folyó torkolata",
-            "tip": "Csendes horgászhelyek.",
-            "emoji": "🎣"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Dealul Sveti Nikola Tribunj",
-            "tip": "Apus de soare peste insule.",
-            "emoji": "🌅"
-          }
-        ],
-        "en": [
-          {
-            "name": "Roški Slap",
-            "tip": "A quieter part of Krk National Park.",
-            "emoji": "🧘"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Skradin Wein-Shops",
-            "tip": "Probieren Sie den lokalen Debit-Wein."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Vodicei piac",
-            "tip": "Helyi füge és mandula."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Suveniruri Krka",
-            "tip": "Replici de mori de apă tradiționale."
-          }
-        ],
-        "en": [
-          {
-            "name": "Artisan honey Skradin",
-            "tip": "Buy directly from local beekeepers."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Starten Sie früh bei Krka, um Menschenmassen zu vermeiden.",
-          "In Skradin gibt es Boote, die zum Wasserfall fahren."
-        ],
-        "hu": [
-          "Kezdjen korán a Krkánál, hogy elkerülje a tömeget.",
-          "Skradinból kishajók indulnak a vízeséshez."
-        ],
-        "ro": [
-          "Începeți devreme la Krka pentru a evita aglomerația.",
-          "În Skradin există bărci care merg spre cascadă."
-        ],
-        "en": [
-          "Start early at Krka to avoid the midday crowds.",
-          "In Skradin, you can take a boat trip to the waterfall."
-        ]
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 15,
-      "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 10.0,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Šibenik Busbahnhof",
-            "hu": "Sibenik autóbusz-állomás",
-            "ro": "Autogara Šibenik",
-            "en": "Sibenik Bus Station"
-          },
-          "coords": [
-            15.8952,
-            43.7336
-          ],
-          "category": "historical",
-          "arrive_at": "09:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Zentral am Hafen gelegen.",
-            "hu": "Központban, a kikötő mellett található.",
-            "ro": "Situată central, lângă port.",
-            "en": "Centrally located next to the harbor."
-          }
-        },
-        {
-          "name": {
-            "de": "Museum der Stadt Šibenik",
-            "hu": "Sibenik városi múzeuma",
-            "ro": "Muzeul orașului Šibenik",
-            "en": "Sibenik City Museum"
-          },
-          "coords": [
-            15.8897,
-            43.7352
-          ],
-          "category": "museum",
-          "arrive_at": "10:00",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Untergebracht im ehemaligen Rektorenpalast.",
-            "hu": "Az egykori Rektori palotában kapott helyet.",
-            "ro": "Găzduit în fostul Palat al Rectorului.",
-            "en": "Housed in the former Rector's Palace."
+            "de": "Achten Sie auf die 71 steinernen Köpfe an der Außenwand, die Bürger aus dem 15. Jahrhundert darstellen.",
+            "hu": "Keresse meg a 71 kőfejet a külső falon, melyek 15. századi polgárokat ábrázolnak.",
+            "ro": "Căutați cele 71 de capete de piatră pe peretele exterior, reprezentând cetățeni din secolul al XV-lea.",
+            "en": "Look for the 71 stone heads on the exterior wall, depicting 15th-century citizens."
           }
         },
         {
@@ -763,172 +72,1411 @@
             "en": "Church of St. Barbara"
           },
           "coords": [
-            15.8899,
+            15.894,
             43.7355
           ],
-          "category": "religious",
-          "arrive_at": "11:30",
+          "category": "churches/cathedrals",
+          "arrive_at": "10:54",
           "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Eine der ältesten Kirchen der Altstadt.",
-            "hu": "Az óváros egyik legrégebbi temploma.",
-            "ro": "Una dintre cele mai vechi biserici din orașul vechi.",
-            "en": "One of the oldest churches in the Old Town."
+            "de": "Ein kleines Juwel gotischer Kunst, beherbergt heute eine Sammlung sakraler Kunst.",
+            "hu": "A gótikus művészet kis ékköve, ma egyházi művészeti gyűjteménynek ad otthont.",
+            "ro": "O mică bijuterie de artă gotică, acum găzduiește o colecție de artă sacră.",
+            "en": "A small gem of Gothic art, it now houses a collection of sacred art."
           }
         },
         {
           "name": {
-            "de": "Šubićevac Hügel",
-            "hu": "Šubićevac-domb",
-            "ro": "Dealul Šubićevac",
-            "en": "Šubićevac Hill"
+            "de": "Mediterraner Klostergarten des Hl. Laurentius",
+            "hu": "Szent Lőrinc kolostor mediterrán kertje",
+            "ro": "Grădina mănăstirii mediteraneene Sf. Laurențiu",
+            "en": "Medieval Mediterranean Garden of St. Lawrence Monastery"
           },
           "coords": [
-            15.9011,
-            43.7425
+            15.8935,
+            43.7365
           ],
-          "category": "park",
-          "arrive_at": "12:45",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
           "stay_min": 60,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 2.5,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Buslinie zum modernen Wohnviertel mit Aussicht.",
-            "hu": "Buszjárat a modern lakónegyedbe pazar kilátással.",
-            "ro": "Linie de autobuz către cartierul modern cu belvedere.",
-            "en": "Bus line to the modern district with viewpoints."
+            "de": "Ein versteckter, ruhiger Ort. Perfekt für eine kurze Pause vom Trubel der Stadt.",
+            "hu": "Egy rejtett, békés hely. Tökéletes egy rövid pihenőre a város nyüzsgésétől.",
+            "ro": "Un loc ascuns și liniștit. Perfect pentru o scurtă pauză de agitația orașului.",
+            "en": "A hidden, peaceful spot. Perfect for a short break from the city bustle."
           }
         },
         {
           "name": {
-            "de": "Solaris (Amadria Park)",
-            "hu": "Solaris (Amadria Park)",
-            "ro": "Solaris (Amadria Park)",
-            "en": "Solaris (Amadria Park)"
+            "de": "Festung St. Michael",
+            "hu": "Szent Mihály-erőd",
+            "ro": "Fortăreața Sf. Mihail",
+            "en": "St. Michael's Fortress"
           },
           "coords": [
-            15.8802,
-            43.6986
+            15.892,
+            43.7375
           ],
-          "category": "beach",
-          "arrive_at": "14:45",
-          "stay_min": 120,
-          "hop_from_prev_min": 60,
-          "hop_from_prev_km": 6.0,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Buslinie Solaris bringt Sie zum großen Resort.",
-            "hu": "A Solaris buszjárat kivisz a nagy üdülőhelyre.",
-            "ro": "Autobuzul Solaris vă duce la resortul mare.",
-            "en": "Solaris bus line takes you to the large resort area."
+            "de": "Der Aufstieg lohnt sich für die atemberaubende Aussicht und die Open-Air-Bühne.",
+            "hu": "Megéri a kaptatót a lélegzetelállító kilátásért és a szabadtéri színpadért.",
+            "ro": "Urcușul merită pentru priveliștea uluitoare și scena în aer liber.",
+            "en": "The climb is worth it for the breathtaking view and the open-air stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Barone",
+            "hu": "Barone-erőd",
+            "ro": "Fortăreața Barone",
+            "en": "Barone Fortress"
+          },
+          "coords": [
+            15.9,
+            43.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die erweiterte Realität, um die Belagerung von 1647 nachzuerleben.",
+            "hu": "Használja a kiterjesztett valóságot, hogy újraélje az 1647-es ostromot.",
+            "ro": "Folosiți realitatea augmentată pentru a retrăi asediul din 1647.",
+            "en": "Use the augmented reality tech to relive the 1647 siege."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalmatinisches Ethno-Dorf",
+            "hu": "Dalmát etnofalu",
+            "ro": "Satul etnic dalmat",
+            "en": "Dalmatian Ethno Village"
+          },
+          "coords": [
+            15.86,
+            43.71
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie das unter der Peka-Glocke gebackene Brot und den lokalen Käse.",
+            "hu": "Kóstolja meg a peka harang alatt sült kenyeret és a helyi sajtokat.",
+            "ro": "Încercați pâinea coaptă sub „peka” și brânza locală.",
+            "en": "Try the bread baked under the 'peka' bell and the local cheese."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie den Transit in Šibenik, um vom historischen Kern zu den modernen Freizeitanlagen zu gelangen. Besuchen Sie das Stadtmuseum, schlendern Sie durch das Subicevac-Viertel und genießen Sie einen Nachmittag im Amadria Park Resort mit seinen vielen Stränden.",
-        "hu": "Használja a sibeniki tömegközlekedést, hogy eljusson a történelmi központból a modern szabadidős létesítményekhez. Látogassa meg a városi múzeumot, sétáljon Subicevac negyedében, és élvezze a délutánt az Amadria Park üdülőhelyen.",
-        "ro": "Utilizați transportul public din Šibenik pentru a ajunge din centrul istoric la facilitățile moderne de agrement. Vizitați Muzeul orașului, plimbați-vă prin cartierul Subicevac și bucurați-vă de o după-amiază în Amadria Park Resort.",
-        "en": "Use transit in Šibenik to get from the historic core to modern leisure facilities. Visit the City Museum, stroll through the Subicevac district, and enjoy an afternoon at the Amadria Park Resort with its many beaches."
+        "de": "Ihr Tag in Šibenik beginnt im Herzen der Altstadt, rund um die prächtige Kathedrale, ein UNESCO-Weltkulturerbe. Der Morgen ist dem Erkunden der engen Gassen und versteckten Gärten gewidmet. Am Mittag steigen Sie zu den Festungen hinauf, die über der Stadt thronen. Der Panoramablick auf die Krka-Mündung und die Inseln ist die Belohnung für den Aufstieg. Der Nachmittag führt Sie dann entlang der Promenade, wo Sie die Meeresbrise genießen. Den Abend lassen Sie in einem traditionellen Restaurant ausklingen, wo Sie die dalmatinische Küche mit frisch gefangenem Fisch und lokalen Weinen probieren können.",
+        "hu": "A nap Šibenikben az óváros szívében, a csodálatos, UNESCO világörökségi védelem alatt álló katedrális körül kezdődik. A délelőtt a szűk sikátorok és rejtett kertek felfedezésével telik. Délben felkapaszkodik a város felett őrködő erődökhöz. A Krka torkolatára és a szigetekre nyíló panoráma a jutalom a fáradságért. A délután a tengerparti sétányon folytatódik, ahol élvezheti a tengeri szellőt. Az estét egy hagyományos étteremben zárja, ahol megkóstolhatja a dalmát konyha remekeit, frissen fogott hallal és helyi borokkal.",
+        "ro": "Ziua dumneavoastră în Šibenik începe în inima orașului vechi, în jurul magnificei catedrale, un sit al Patrimoniului Mondial UNESCO. Dimineața este dedicată explorării străduțelor înguste și grădinilor ascunse. La prânz, urcați la fortărețele care veghează asupra orașului. Priveliștea panoramică a estuarului Krka și a insulelor este recompensa pentru urcare. După-amiaza vă poartă de-a lungul promenadei, unde vă bucurați de briza mării. Încheiați seara la un restaurant tradițional, degustând bucătăria dalmată cu pește proaspăt prins și vinuri locale.",
+        "en": "Your day in Šibenik begins in the heart of the old town, around the magnificent cathedral, a UNESCO World Heritage site. The morning is dedicated to exploring the narrow alleys and hidden gardens. At midday, you'll climb up to the fortresses that guard the city. The panoramic view of the Krka estuary and the islands is your reward for the ascent. The afternoon takes you along the promenade, where you can enjoy the sea breeze. You'll end the evening at a traditional restaurant, sampling Dalmatian cuisine with freshly caught fish and local wines."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bistro Bava",
-            "tip": "Moderne dalmatinische Küche bei Solaris."
+            "name": "Pelegrini",
+            "tip": "Moderne dalmatinische Küche mit Michelin-Stern, direkt neben der Kathedrale."
+          },
+          {
+            "name": "Konoba Nostalgija",
+            "tip": "Authentische, hausgemachte Gerichte in einer gemütlichen Gasse."
+          },
+          {
+            "name": "Šibenska Pašticada",
+            "tip": "Ein Muss: Langsam geschmortes Rindfleisch in einer süß-sauren Sauce, oft mit Gnocchi serviert."
           }
         ],
         "hu": [
           {
-            "name": "En Vogue Beach Club",
-            "tip": "Luxus koktélok és ételek a parton."
+            "name": "Pelegrini",
+            "tip": "Modern dalmát konyha Michelin-csillaggal, közvetlenül a katedrális mellett."
+          },
+          {
+            "name": "Konoba Nostalgija",
+            "tip": "Autentikus, házias ételek egy hangulatos sikátorban."
+          },
+          {
+            "name": "Šibenska Pašticada",
+            "tip": "Ezt kóstolja meg: lassan párolt marhahús édes-savanyú mártásban, gyakran gnocchival tálalva."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant Uzorita",
-            "tip": "Unul dintre cele mai vechi restaurante din Šibenik."
+            "name": "Pelegrini",
+            "tip": "Bucătărie dalmată modernă cu stea Michelin, chiar lângă catedrală."
+          },
+          {
+            "name": "Konoba Nostalgija",
+            "tip": "Mâncăruri autentice, de casă, pe o alee confortabilă."
+          },
+          {
+            "name": "Šibenska Pašticada",
+            "tip": "O specialitate de neratat: carne de vită gătită lent într-un sos dulce-acrișor, adesea servită cu gnocchi."
           }
         ],
         "en": [
           {
-            "name": "Dalmatian Ethno Village",
-            "tip": "Authentic dining in a recreated stone village."
+            "name": "Pelegrini",
+            "tip": "Modern Dalmatian cuisine with a Michelin star, right next to the cathedral."
+          },
+          {
+            "name": "Konoba Nostalgija",
+            "tip": "Authentic, homemade dishes in a cozy alley."
+          },
+          {
+            "name": "Šibenska Pašticada",
+            "tip": "A must-try: slow-cooked beef in a sweet and sour sauce, often served with gnocchi."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Kirche St. Johannes",
-            "tip": "Ruhiger Platz in der Nähe der Stufen.",
-            "emoji": "⛪"
+            "name": "Mediterraner Klostergarten",
+            "tip": "Eine Oase der Ruhe mitten in der Altstadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banj Strand",
+            "tip": "Genießen Sie den Blick auf die Altstadt bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kanal des Hl. Antonius",
+            "tip": "Ein Spaziergang entlang des Kanals mit Blick auf die Festung St. Nikolaus.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Mandalina félsziget",
-            "tip": "Csendes séta a jachtok között.",
-            "emoji": "🧘"
+            "name": "Mediterrán kolostorkert",
+            "tip": "A béke oázisa az óváros közepén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banj strand",
+            "tip": "Élvezze a naplementét az óváros látképével.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Antal-csatorna",
+            "tip": "Séta a csatorna mentén, kilátással a Szent Miklós-erődre.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Robert Visiani",
-            "tip": "Parc frumos în centrul orașului.",
-            "emoji": "🌳"
+            "name": "Grădina mănăstirii mediteraneene",
+            "tip": "O oază de liniște în mijlocul orașului vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Banj",
+            "tip": "Admirați apusul cu o vedere panoramică a orașului vechi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Canalul Sf. Anton",
+            "tip": "O plimbare de-a lungul canalului cu vedere la Fortăreața Sf. Nicolae.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Solaris pine walk",
-            "tip": "Shady coastal path along the resort.",
-            "emoji": "🌿"
+            "name": "Mediterranean Monastery Garden",
+            "tip": "An oasis of peace in the middle of the old town.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banj Beach",
+            "tip": "Enjoy the sunset with a view of the old town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Anthony Channel",
+            "tip": "A walk along the channel with a view of St. Nicholas' Fortress.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Dalmare Mall",
-            "tip": "Direkt an der Buslinie nach Solaris."
+            "name": "Šibenik Stadtmarkt",
+            "tip": "Kaufen Sie frisches Obst, Gemüse, Olivenöl und lokalen Käse."
+          },
+          {
+            "name": "Galerie Juraj Dalmatinac",
+            "tip": "Finden Sie einzigartige Souvenirs und Kunstwerke von lokalen Künstlern."
           }
         ],
         "hu": [
           {
-            "name": "Šibenik-i szuvenírbolt",
-            "tip": "Kézzel készített szivacsok a közeli Krapanjról."
+            "name": "Šibeniki városi piac",
+            "tip": "Vásároljon friss gyümölcsöt, zöldséget, olívaolajat és helyi sajtot."
+          },
+          {
+            "name": "Juraj Dalmatinac Galéria",
+            "tip": "Találjon egyedi szuveníreket és helyi művészek alkotásait."
           }
         ],
         "ro": [
           {
-            "name": "Konzum centar",
-            "tip": "Produse alimentare locale la prețuri bune."
+            "name": "Piața orașului Šibenik",
+            "tip": "Cumpărați fructe proaspete, legume, ulei de măsline și brânză locală."
+          },
+          {
+            "name": "Galeria Juraj Dalmatinac",
+            "tip": "Găsiți suveniruri unice și opere de artă de la artiști locali."
           }
         ],
         "en": [
           {
-            "name": "Ethno shop Solaris",
-            "tip": "Traditional Dalmatian crafts and food."
+            "name": "Šibenik City Market",
+            "tip": "Buy fresh fruits, vegetables, olive oil, and local cheese."
+          },
+          {
+            "name": "Juraj Dalmatinac Gallery",
+            "tip": "Find unique souvenirs and artworks by local artists."
           }
         ]
       },
       "tips": {
         "de": [
-          "Busfahrkarten können direkt im Bus gekauft werden.",
-          "Die Linie nach Solaris fährt stündlich vom Hauptbahnhof."
+          "Tragen Sie bequeme Schuhe, da die Altstadt aus Kopfsteinpflaster besteht und es viele Treppen gibt.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer.",
+          "Die meisten Sehenswürdigkeiten in der Altstadt sind zu Fuß erreichbar.",
+          "Beginnen Sie Ihren Tag früh, um die Menschenmassen zu vermeiden."
         ],
         "hu": [
-          "Buszjegyet közvetlenül a buszon lehet váltani.",
-          "A Solaris járat óránként indul a főállomástól."
+          "Viseljen kényelmes cipőt, mivel az óváros macskaköves és sok a lépcső.",
+          "Vigyen magával sok vizet, különösen nyáron.",
+          "Az óváros legtöbb látnivalója gyalogosan elérhető.",
+          "Kezdje a napot korán, hogy elkerülje a tömeget."
         ],
         "ro": [
-          "Biletele de autobuz pot fi cumpărate direct din autobuz.",
-          "Linia spre Solaris pleacă la fiecare oră din autogară."
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi este pavat cu piatră cubică și are multe scări.",
+          "Luați multă apă, mai ales vara.",
+          "Majoritatea atracțiilor din orașul vechi sunt accesibile pe jos.",
+          "Începeți ziua devreme pentru a evita aglomerația."
         ],
         "en": [
-          "Bus tickets can be purchased directly from the driver.",
-          "The Solaris bus line runs hourly from the main station."
+          "Wear comfortable shoes, as the old town is cobblestoned and has many stairs.",
+          "Bring plenty of water, especially in summer.",
+          "Most sights in the old town are within walking distance.",
+          "Start your day early to avoid the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung St. Michael",
+            "hu": "Szent Mihály-erőd",
+            "ro": "Fortăreața Sf. Mihail",
+            "en": "St. Michael's Fortress"
+          },
+          "coords": [
+            15.892,
+            43.7375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer tollen Aussicht, bevor es zu voll wird.",
+            "hu": "Kezdje a napot egy remek kilátással, mielőtt túl nagy lesz a tömeg.",
+            "ro": "Începeți ziua cu o priveliște minunată înainte de a se aglomera prea tare.",
+            "en": "Start the day with a great view before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Kathedrale",
+            "hu": "Városháza és Katedrális",
+            "ro": "Primăria și Catedrala",
+            "en": "City Hall & Cathedral"
+          },
+          "coords": [
+            15.8948,
+            43.736
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:19",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das Herz der Altstadt zu Fuß.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel gyalog az óváros szívét.",
+            "ro": "Legați-vă bicicleta și explorați inima orașului vechi pe jos.",
+            "en": "Lock up your bike and explore the heart of the old town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraner Klostergarten",
+            "hu": "Mediterrán kolostorkert",
+            "ro": "Grădina mănăstirii mediteraneene",
+            "en": "Mediterranean Monastery Garden"
+          },
+          "coords": [
+            15.8935,
+            43.7365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:51",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine kurze, erfrischende Pause in diesem schön restaurierten Garten.",
+            "hu": "Egy rövid, frissítő pihenő ebben a gyönyörűen helyreállított kertben.",
+            "ro": "O pauză scurtă și răcoritoare în această grădină frumos restaurată.",
+            "en": "A short, refreshing break in this beautifully restored garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Riva (waterfront)"
+          },
+          "coords": [
+            15.896,
+            43.733
+          ],
+          "category": "gastro",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein Restaurant mit Blick auf das Wasser und probieren Sie frische Meeresfrüchte.",
+            "hu": "Keressen egy vízparti éttermet, és kóstoljon meg friss tengeri ételeket.",
+            "ro": "Găsiți un restaurant cu vedere la apă și încercați fructe de mare proaspete.",
+            "en": "Find a restaurant with a view of the water and try some fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Kanals des Hl. Antonius",
+            "hu": "Biciklizés a Szent Antal-csatorna mentén",
+            "ro": "Plimbare cu bicicleta de-a lungul Canalului Sf. Anton",
+            "en": "Ride along St. Anthony's Channel"
+          },
+          "coords": [
+            15.875,
+            43.725
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Weg bietet fantastische Ausblicke auf die Festung St. Nikolaus und die Stadt.",
+            "hu": "Az útvonal fantasztikus kilátást nyújt a Szent Miklós-erődre és a városra.",
+            "ro": "Traseul oferă vederi fantastice la Fortăreața Sf. Nicolae și la oraș.",
+            "en": "The path offers fantastic views of St. Nicholas' Fortress and the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Banj Strand",
+            "hu": "Banj strand",
+            "ro": "Plaja Banj",
+            "en": "Banj Beach"
+          },
+          "coords": [
+            15.9,
+            43.74
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:46",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit einem erfrischenden Bad und Blick auf die Altstadt ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy frissítő úszással és az óvárosra nyíló kilátással.",
+            "ro": "Locul perfect pentru a încheia ziua cu o baie răcoritoare și o vedere la orașul vechi.",
+            "en": "The perfect spot to end the day with a refreshing swim and a view of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie den Tag mit dem Anstieg zur Festung St. Michael für eine unvergleichliche Morgenansicht. Danach rollen Sie hinunter in die Altstadt, um die Kathedrale und die charmanten Plätze zu erkunden. Nach einer Mittagspause am Hafen führt Sie eine malerische Route entlang des Antoniuskanals, die Sie mit spektakulären Ausblicken auf das Meer und die Festung St. Nikolaus belohnt. Der Tag endet am Stadtstrand Banj, wo Sie sich abkühlen und den Sonnenuntergang über der Silhouette von Šibenik bewundern können.",
+        "hu": "Pattanjon nyeregbe, és kezdje a napot a Szent Mihály-erődhöz való feltekeréssel egy páratlan reggeli kilátásért. Ezután guruljon le az óvárosba, hogy felfedezze a katedrálist és a bájos tereket. A kikötőben tartott ebédszünet után egy festői útvonal vezet a Szent Antal-csatorna mentén, amely látványos kilátással ajándékozza meg a tengerre és a Szent Miklós-erődre. A nap a Banj városi strandnál ér véget, ahol lehűlhet, és megcsodálhatja a naplementét Šibenik sziluettje felett.",
+        "ro": "Urcați-vă pe bicicletă și începeți ziua cu o urcare la Fortăreața Sf. Mihail pentru o priveliște matinală de neegalat. Apoi, coborâți în orașul vechi pentru a explora catedrala și piețele fermecătoare. După o pauză de prânz în port, un traseu pitoresc vă duce de-a lungul Canalului Sf. Anton, recompensându-vă cu vederi spectaculoase la mare și la Fortăreața Sf. Nicolae. Ziua se încheie la plaja orașului, Banj, unde vă puteți răcori și admira apusul peste silueta orașului Šibenik.",
+        "en": "Hop on your bike and start the day with a climb to St. Michael's Fortress for an unparalleled morning view. Afterwards, roll down into the old town to explore the cathedral and charming squares. After a lunch break at the harbor, a scenic route takes you along the St. Anthony Channel, rewarding you with spectacular views of the sea and St. Nicholas' Fortress. The day ends at Banj city beach, where you can cool off and admire the sunset over Šibenik's skyline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto (Crni rižot)",
+            "tip": "Ein dalmatinisches Grundnahrungsmittel aus Tintenfischtinte, ein Muss."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch aus der Adria, einfach zubereitet mit Olivenöl und Kräutern."
+          },
+          {
+            "name": "Buzara-Muscheln",
+            "tip": "Muscheln in einer Weißwein-, Knoblauch- und Petersiliensauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó (Crni rižot)",
+            "tip": "Dalmát alapétel tintahaltintából, kötelező megkóstolni."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen az Adriai-tengerből, egyszerűen elkészítve olívaolajjal és fűszernövényekkel."
+          },
+          {
+            "name": "Buzara kagyló",
+            "tip": "Kagyló fehérboros, fokhagymás, petrezselymes szószban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru (Crni rižot)",
+            "tip": "Un preparat de bază dalmat, făcut cu cerneală de sepie, trebuie încercat."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt din Marea Adriatică, preparat simplu cu ulei de măsline și ierburi."
+          },
+          {
+            "name": "Midii Buzara",
+            "tip": "Midii într-un sos de vin alb, usturoi și pătrunjel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto (Crni rižot)",
+            "tip": "A Dalmatian staple made with cuttlefish ink, a must-try."
+          },
+          {
+            "name": "Grilled Fish",
+            "tip": "Fresh from the Adriatic, simply prepared with olive oil and herbs."
+          },
+          {
+            "name": "Buzara Mussels",
+            "tip": "Mussels in a white wine, garlic, and parsley sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt an der Kanalpromenade",
+            "tip": "Finden Sie eine Bank und beobachten Sie die Boote, die zur Festung St. Nikolaus fahren.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof St. Anna",
+            "tip": "Ein ruhiger Ort auf einem Hügel mit einem wunderschönen Blick auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang von der Festung Barone",
+            "tip": "Weniger überlaufen als St. Michael und genauso spektakulär.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a csatorna sétányán",
+            "tip": "Keressen egy padot, és nézze a Szent Miklós-erőd felé tartó hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Anna temető",
+            "tip": "Csendes hely egy dombon, gyönyörű kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a Barone erődből",
+            "tip": "Kevésbé zsúfolt, mint a Szent Mihály, és ugyanolyan látványos.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe promenada canalului",
+            "tip": "Găsiți o bancă și priviți bărcile care se îndreaptă spre Fortăreața Sf. Nicolae.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Sf. Ana",
+            "tip": "Un loc liniștit pe un deal cu o priveliște frumoasă asupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus de soare de la Fortăreața Barone",
+            "tip": "Mai puțin aglomerat decât Sf. Mihail și la fel de spectaculos.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoint on the channel promenade",
+            "tip": "Find a bench and watch the boats heading to St. Nicholas' Fortress.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Anna's Cemetery",
+            "tip": "A quiet spot on a hill with a beautiful view of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset from Barone Fortress",
+            "tip": "Less crowded than St. Michael's and just as spectacular.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerksläden",
+            "tip": "Suchen Sie in den Gassen der Altstadt nach handgefertigtem Schmuck und Keramik."
+          },
+          {
+            "name": "Weinhandlungen",
+            "tip": "Kaufen Sie eine Flasche Babić, einen lokalen Rotwein aus der Region Šibenik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keressen kézzel készített ékszereket és kerámiákat az óváros sikátoraiban."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Vásároljon egy üveg Babić-ot, a Šibenik környéki helyi vörösbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați bijuterii și ceramică artizanală pe aleile orașului vechi."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Cumpărați o sticlă de Babić, un vin roșu local din regiunea Šibenik."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for handmade jewelry and ceramics in the alleys of the old town."
+          },
+          {
+            "name": "Wine shops",
+            "tip": "Buy a bottle of Babić, a local red wine from the Šibenik region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Hafens, wenn Sie keines haben.",
+          "Seien Sie auf einige Anstiege vorbereitet, insbesondere zu den Festungen.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Der Küstenweg ist flach und für alle Niveaus geeignet."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a kikötő közelében, ha nincs sajátja.",
+          "Készüljön fel néhány emelkedőre, különösen az erőkhöz.",
+          "Mindig zárja le jól a kerékpárt.",
+          "A tengerparti út sík és minden szintnek megfelel."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă port dacă nu aveți una.",
+          "Fiți pregătit pentru câteva urcări, în special la fortărețe.",
+          "Legați-vă întotdeauna bine bicicleta.",
+          "Traseul de coastă este plat și potrivit pentru toate nivelurile."
+        ],
+        "en": [
+          "Rent a bike near the harbor if you don't have one.",
+          "Be prepared for some climbs, especially to the fortresses.",
+          "Always lock your bike securely.",
+          "The coastal path is flat and suitable for all levels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Parkoló az Óvárosnál",
+            "ro": "Parcare Centrul Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            15.898,
+            43.734
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es ist ein kurzer Spaziergang zum Hauptplatz.",
+            "hu": "Parkoljon le itt a délelőttre. Egy rövid séta a főtér.",
+            "ro": "Parcați aici pentru dimineață. Este o plimbare scurtă până în piața principală.",
+            "en": "Park here for the morning. It's a short walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Rathaus",
+            "hu": "Katedrális és Városháza",
+            "ro": "Catedrala și Primăria",
+            "en": "Cathedral & City Hall"
+          },
+          "coords": [
+            15.8945,
+            43.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang durch das UNESCO-Herz von Šibenik.",
+            "hu": "Kezdje a sétát Šibenik UNESCO-szívében.",
+            "ro": "Începeți turul pe jos prin inima UNESCO a orașului Šibenik.",
+            "en": "Start your walking tour of Šibenik's UNESCO heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraner Klostergarten",
+            "hu": "Mediterrán kolostorkert",
+            "ro": "Grădina mănăstirii mediteraneene",
+            "en": "Mediterranean Monastery Garden"
+          },
+          "coords": [
+            15.8935,
+            43.7365
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:47",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein ruhiger Rückzugsort, bevor Sie zum nächsten Cluster aufbrechen.",
+            "hu": "Egy csendes menedék, mielőtt a következő ponthoz indulna.",
+            "ro": "Un refugiu liniștit înainte de a porni spre următorul grup de obiective.",
+            "en": "A quiet retreat before you head to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Barone",
+            "hu": "Barone-erőd",
+            "ro": "Fortăreața Barone",
+            "en": "Barone Fortress"
+          },
+          "coords": [
+            15.9,
+            43.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hierher und parken Sie. Tolle Aussicht und moderne Ausstellung.",
+            "hu": "Vezessen ide és parkoljon le. Nagyszerű kilátás és modern kiállítás.",
+            "ro": "Conduceți și parcați aici. Priveliști minunate și expoziție modernă.",
+            "en": "Drive and park here. Great views and modern exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung St. Johannes",
+            "hu": "Szent János-erőd",
+            "ro": "Fortăreața Sf. Ioan",
+            "en": "St. John's Fortress"
+          },
+          "coords": [
+            15.903,
+            43.74
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:27",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von Barone, um eine weitere beeindruckende Festung zu sehen.",
+            "hu": "Rövid séta a Baronétól, hogy egy másik lenyűgöző erődöt is lásson.",
+            "ro": "O scurtă plimbare de la Barone pentru a vedea o altă fortăreață impresionantă.",
+            "en": "A short walk from Barone to see another impressive fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt auf die Festung St. Nikolaus",
+            "hu": "Kilátó a Szent Miklós-erődhöz",
+            "ro": "Punct de belvedere spre Fortăreața Sf. Nicolae",
+            "en": "Viewpoint for St. Nicholas' Fortress"
+          },
+          "coords": [
+            15.86,
+            43.72
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Kanal für den besten Blick auf die Seefestung. Sie können nicht hinfahren, aber der Blick ist es wert.",
+            "hu": "Vezessen a csatornához a legjobb kilátásért a tengeri erődítményre. Nem lehet odavezetni, de a látvány megéri.",
+            "ro": "Conduceți până la canal pentru cea mai bună priveliște a fortăreței maritime. Nu puteți ajunge cu mașina până la ea, dar priveliștea merită.",
+            "en": "Drive to the channel for the best view of the sea fortress. You can't drive to it, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Solaris Beach Resort Marina",
+            "hu": "Vacsora a Solaris Beach Resort kikötőjében",
+            "ro": "Cină la portul de agrement Solaris Beach Resort",
+            "en": "Dinner at Solaris Beach Resort Marina"
+          },
+          "coords": [
+            15.865,
+            43.705
+          ],
+          "category": "gastro",
+          "arrive_at": "16:17",
+          "stay_min": 103,
+          "hop_mode": "car",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Abendessen am Meer, abseits des Trubels der Stadt.",
+            "hu": "Zárja a napot egy pihentető tengerparti vacsorával, távol a város nyüzsgésétől.",
+            "ro": "Încheiați ziua cu o cină relaxantă la malul mării, departe de agitația orașului.",
+            "en": "End the day with a relaxing dinner by the sea, away from the city bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Šibenik ist in drei Cluster aufgeteilt. Beginnen Sie mit dem Parken in der Nähe der Altstadt, um das UNESCO-Herz der Stadt zu Fuß zu erkunden: die Kathedrale, Plätze und Gärten. Am Mittag fahren Sie zum zweiten Cluster, den Hügelfestungen Barone und St. Johannes, wo Sie parken und zwischen den beiden Festungen spazieren gehen, um eine fantastische Aussicht zu genießen. Am Nachmittag führt Sie eine längere Fahrt zu einem Aussichtspunkt auf die beeindruckende Seefestung St. Nikolaus. Beenden Sie Ihren Tag mit einer kurzen Fahrt zu einem entspannten Abendessen in einem Restaurant am Meer außerhalb des Stadtzentrums.",
+        "hu": "Az autós nap Šibenikben három részre oszlik. Kezdje a parkolással az óváros közelében, hogy gyalog fedezze fel a város UNESCO-szívét: a katedrálist, a tereket és a kerteket. Délben vezessen át a második csoporthoz, a dombtetőn lévő Barone és Szent János erődhöz, ahol leparkolhat és sétálhat a kettő között, élvezve a fantasztikus kilátást. Délután egy hosszabb autóút vezet a lenyűgöző Szent Miklós tengeri erőd kilátópontjához. Zárja a napot egy rövid autózással egy pihentető vacsorára egy tengerparti étteremben a városközponton kívül.",
+        "ro": "Ziua dumneavoastră cu mașina în Šibenik este împărțită în trei grupuri. Începeți prin a parca lângă orașul vechi pentru a explora pe jos inima UNESCO a orașului: catedrala, piețele și grădinile. La prânz, conduceți către al doilea grup, fortărețele de pe deal Barone și Sfântul Ioan, unde parcați și vă plimbați între cele două pentru vederi fantastice. După-amiaza, o călătorie mai lungă vă duce la un punct de belvedere asupra impresionantei fortărețe maritime Sfântul Nicolae. Încheiați-vă ziua cu o scurtă călătorie cu mașina pentru o cină relaxantă la un restaurant pe malul mării, în afara centrului orașului.",
+        "en": "Your car day in Šibenik is split into three clusters. Start by parking near the old town to explore the city's UNESCO heart on foot: the cathedral, squares, and gardens. At midday, drive to the second cluster, the hilltop fortresses of Barone and St. John, where you'll park and walk between the two for fantastic views. In the afternoon, a longer drive takes you to a viewpoint for the impressive St. Nicholas' sea fortress. Finish your day with a short drive for a relaxed dinner at a seaside restaurant outside the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Ein traditionelles Gericht aus Fleisch oder Meeresfrüchten, das unter einer mit Glut bedeckten Metallglocke gekocht wird."
+          },
+          {
+            "name": "Lokaler Wein (Babić)",
+            "tip": "Ein vollmundiger Rotwein, der perfekt zu Fleischgerichten wie Pašticada oder Peka passt."
+          },
+          {
+            "name": "Oktopussalat",
+            "tip": "Ein erfrischender und leichter Start in eine dalmatinische Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Hagyományos étel húsból vagy tenger gyümölcseiből, amelyet parázs alá helyezett fém harang alatt sütnek."
+          },
+          {
+            "name": "Helyi bor (Babić)",
+            "tip": "Testes vörösbor, amely tökéletesen illik húsételekhez, mint a Pašticada vagy a Peka."
+          },
+          {
+            "name": "Polipsaláta",
+            "tip": "Frissítő és könnyű kezdése egy dalmát étkezésnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Un fel de mâncare tradițional din carne sau fructe de mare, gătit sub un capac metalic acoperit cu jar."
+          },
+          {
+            "name": "Vin local (Babić)",
+            "tip": "Un vin roșu corpolent care se potrivește perfect cu mâncăruri din carne precum Pašticada sau Peka."
+          },
+          {
+            "name": "Salată de caracatiță",
+            "tip": "Un început răcoritor și ușor pentru o masă dalmată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "A traditional dish of meat or seafood cooked under a metal lid covered in embers."
+          },
+          {
+            "name": "Local Wine (Babić)",
+            "tip": "A full-bodied red wine that pairs perfectly with meat dishes like Pašticada or Peka."
+          },
+          {
+            "name": "Octopus Salad",
+            "tip": "A refreshing and light start to a Dalmatian meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Zlarin",
+            "tip": "Nehmen Sie eine Fähre für ein paar Stunden, um diese autofreie Insel zu erkunden.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Falknerei-Zentrum",
+            "tip": "Ein einzigartiges und ruhiges Erlebnis etwas außerhalb der Stadt.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Wasserfälle des Krka-Nationalparks",
+            "tip": "Eine kurze Autofahrt entfernt, bietet atemberaubende Natur und Wanderwege.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zlarin-sziget",
+            "tip": "Kompozzon át néhány órára, hogy felfedezze ezt az autómentes szigetet.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Sólyomközpont",
+            "tip": "Egyedülálló és békés élmény a városon kívül.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Krka Nemzeti Park vízesései",
+            "tip": "Rövid autóútra található, lenyűgöző természettel és túraútvonalakkal várja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Zlarin",
+            "tip": "Luați un feribot pentru câteva ore pentru a explora această insulă fără mașini.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Centrul de Șoimărit",
+            "tip": "O experiență unică și liniștită chiar în afara orașului.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Cascadele Parcului Național Krka",
+            "tip": "La o scurtă distanță cu mașina, oferă natură uimitoare și trasee de drumeții.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zlarin Island",
+            "tip": "Take a ferry for a few hours to explore this car-free island.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Falconry Centre",
+            "tip": "A unique and peaceful experience just outside the city.",
+            "emoji": "🦅"
+          },
+          {
+            "name": "Krka National Park Waterfalls",
+            "tip": "A short drive away, offering stunning nature and hiking trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte am Stadtrand",
+            "tip": "Kaufen Sie größere Mengen Olivenöl oder Wein direkt von Produzenten."
+          },
+          {
+            "name": "Dalmare Einkaufszentrum",
+            "tip": "Für konventionelles Einkaufen, wenn Sie etwas Bestimmtes benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Periférikus szupermarketek",
+            "tip": "Vásároljon nagyobb mennyiségű olívaolajat vagy bort közvetlenül a termelőktől."
+          },
+          {
+            "name": "Dalmare bevásárlóközpont",
+            "tip": "Hagyományos vásárláshoz, ha valami konkrétra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri la periferie",
+            "tip": "Cumpărați cantități mai mari de ulei de măsline sau vin direct de la producători."
+          },
+          {
+            "name": "Centrul comercial Dalmare",
+            "tip": "Pentru cumpărături convenționale dacă aveți nevoie de ceva anume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets on the outskirts",
+            "tip": "Buy larger quantities of olive oil or wine directly from producers."
+          },
+          {
+            "name": "Dalmare Shopping Center",
+            "tip": "For conventional shopping if you need something specific."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in der Nähe der Altstadt können im Sommer teuer und schwer zu finden sein.",
+          "Planen Sie Ihre Route im Voraus, um Einbahnstraßen zu vermeiden.",
+          "Das Auto ist ideal, um abgelegenere Orte wie den Krka-Nationalpark zu besuchen.",
+          "Respektieren Sie die Parkvorschriften, um Strafzettel zu vermeiden."
+        ],
+        "hu": [
+          "Az óváros közelében a parkolás nyáron drága és nehezen található lehet.",
+          "Tervezze meg előre az útvonalat az egyirányú utcák elkerülése érdekében.",
+          "Az autó ideális távolabbi helyek, mint a Krka Nemzeti Park meglátogatásához.",
+          "Tartsa be a parkolási szabályokat a bírságok elkerülése érdekében."
+        ],
+        "ro": [
+          "Parcarea lângă orașul vechi poate fi scumpă și greu de găsit în timpul verii.",
+          "Planificați-vă traseul în avans pentru a evita străzile cu sens unic.",
+          "Mașina este ideală pentru a vizita locuri mai îndepărtate, cum ar fi Parcul Național Krka.",
+          "Respectați regulile de parcare pentru a evita amenzile."
+        ],
+        "en": [
+          "Parking near the old town can be expensive and hard to find in summer.",
+          "Plan your route in advance to avoid one-way streets.",
+          "A car is ideal for visiting more remote locations like Krka National Park.",
+          "Respect parking regulations to avoid fines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof",
+            "hu": "Autóbusz-állomás",
+            "ro": "Autogară",
+            "en": "Main Bus Station"
+          },
+          "coords": [
+            15.9,
+            43.732
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, der Bus bringt Sie in die Nähe des ersten Clusters.",
+            "hu": "Induljon innen, a busz elviszi az első ponthoz.",
+            "ro": "Începeți de aici, autobuzul vă va duce aproape de primul grup de obiective.",
+            "en": "Start here, the bus will take you near the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale & Altstadt",
+            "hu": "Katedrális és Óváros",
+            "ro": "Catedrala și Orașul Vechi",
+            "en": "Cathedral & Old Town"
+          },
+          "coords": [
+            15.8945,
+            43.7358
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Kern von Šibenik nach Ihrer Ankunft mit dem Bus.",
+            "hu": "Fedezze fel Šibenik központját, miután megérkezett busszal.",
+            "ro": "Explorați centrul orașului Šibenik după sosirea cu autobuzul.",
+            "en": "Explore the core of Šibenik after arriving by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung St. Michael",
+            "hu": "Szent Mihály-erőd",
+            "ro": "Fortăreața Sf. Mihail",
+            "en": "St. Michael's Fortress"
+          },
+          "coords": [
+            15.892,
+            43.7375
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber steiler Spaziergang von der Altstadt entfernt.",
+            "hu": "Rövid, de meredek séta az óvárosból.",
+            "ro": "O plimbare scurtă, dar abruptă, din orașul vechi.",
+            "en": "A short but steep walk up from the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Barone",
+            "hu": "Barone-erőd",
+            "ro": "Fortăreața Barone",
+            "en": "Barone Fortress"
+          },
+          "coords": [
+            15.9,
+            43.739
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um auf den Hügel zu gelangen und Ihre Beine zu schonen.",
+            "hu": "Menjen helyi busszal a dombra, hogy kímélje a lábát.",
+            "ro": "Luați un autobuz local pentru a urca pe deal și a vă odihni picioarele.",
+            "en": "Take a local bus to get up the hill and save your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Banj Strand",
+            "hu": "Banj strand",
+            "ro": "Plaja Banj",
+            "en": "Banj Beach"
+          },
+          "coords": [
+            15.9,
+            43.74
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein Bus bringt Sie direkt zum Stadtstrand für eine erfrischende Pause.",
+            "hu": "A busz közvetlenül a városi strandra visz egy frissítő szünetre.",
+            "ro": "Un autobuz vă va duce direct la plaja orașului pentru o pauză răcoritoare.",
+            "en": "A bus takes you directly to the city beach for a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen in der Altstadt",
+            "hu": "Vacsora az Óvárosban",
+            "ro": "Cină în Orașul Vechi",
+            "en": "Dinner in the Old Town"
+          },
+          "coords": [
+            15.895,
+            43.735
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie zurück ins Zentrum, um in einer der vielen Konobas zu Abend zu essen.",
+            "hu": "Sétáljon vissza a központba, hogy megvacsorázzon a sok konoba egyikében.",
+            "ro": "Întoarceți-vă pe jos în centru pentru a cina la una dintre numeroasele konobas.",
+            "en": "Walk back to the center to have dinner at one of the many konobas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erkunden Sie Šibenik effizient. Ihr Tag beginnt mit einer Fahrt ins Zentrum, wo Sie den Vormittag damit verbringen, die Altstadt und die Kathedrale zu Fuß zu erkunden. Ein kurzer Spaziergang bringt Sie zur Festung St. Michael. Am Mittag nehmen Sie einen Bus, um den Aufstieg zur Festung Barone zu erleichtern und die Aussicht zu genießen. Am Nachmittag bringt Sie ein weiterer Bus zum Stadtstrand Banj für eine wohlverdiente Pause am Meer. Der Abend endet mit einem Spaziergang zurück in die Altstadt, wo Sie ein authentisches dalmatinisches Abendessen erwartet.",
+        "hu": "Busszal hatékonyan fedezheti fel Šibeniket. A nap egy belvárosi utazással kezdődik, ahol a délelőttöt az óváros és a katedrális gyalogos felfedezésével tölti. Egy rövid séta elvezeti a Szent Mihály-erődhöz. Délben busszal könnyíti meg a feljutást a Barone-erődhöz, hogy élvezhesse a kilátást. Délután egy másik busz viszi a Banj városi strandra egy jól megérdemelt tengerparti pihenőre. Az este egy sétával zárul vissza az óvárosba, ahol egy autentikus dalmát vacsora várja.",
+        "ro": "Explorați eficient Šibenik folosind transportul public. Ziua începe cu o călătorie cu autobuzul spre centru, unde vă petreceți dimineața explorând pe jos orașul vechi și catedrala. O scurtă plimbare vă duce la Fortăreața Sf. Mihail. La prânz, luați un autobuz pentru a facilita urcarea la Fortăreața Barone și pentru a vă bucura de priveliște. După-amiaza, un alt autobuz vă duce la plaja orașului, Banj, pentru o pauză binemeritată la malul mării. Seara se încheie cu o plimbare înapoi în orașul vechi, unde vă așteaptă o cină dalmată autentică.",
+        "en": "Using public transit, you can explore Šibenik efficiently. Your day starts with a bus ride to the center, where you spend the morning exploring the old town and cathedral on foot. A short walk takes you to St. Michael's Fortress. At midday, you'll take a bus to ease the climb to Barone Fortress to enjoy the views. In the afternoon, another bus takes you to Banj city beach for a well-deserved seaside break. The evening concludes with a walk back into the old town for an authentic Dalmatian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marenda",
+            "tip": "Ein traditionelles dalmatinisches Mittagessen, das in vielen Konobas zwischen 11 und 14 Uhr serviert wird. Günstig und authentisch."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Ein herzhafter Kuchen gefüllt mit Mangold, Zwiebeln und Olivenöl. Ein großartiger Snack für unterwegs."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Kleine, frittierte Teigbällchen, oft mit Puderzucker bestäubt. Ein süßer Genuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marenda",
+            "tip": "Hagyományos dalmát ebéd, amelyet sok konobában szolgálnak fel 11 és 14 óra között. Olcsó és autentikus."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Sós pite mángolddal, hagymával és olívaolajjal töltve. Nagyszerű útközbeni harapnivaló."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Kisméretű, sült fánkgolyók, gyakran porcukorral megszórva. Édes finomság."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marenda",
+            "tip": "Un prânz tradițional dalmat servit în multe konobas între orele 11:00 și 14:00. Ieftin și autentic."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "O plăcintă sărată umplută cu mangold, ceapă și ulei de măsline. O gustare excelentă pentru drum."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Gogoșele mici, prăjite, adesea pudrate cu zahăr. Un deliciu dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marenda",
+            "tip": "A traditional Dalmatian lunch served in many konobas between 11 am and 2 pm. Cheap and authentic."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "A savory pie filled with Swiss chard, onions, and olive oil. A great on-the-go snack."
+          },
+          {
+            "name": "Fritule",
+            "tip": "Small, fried dough balls, often dusted with powdered sugar. A sweet treat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein historischer und ruhiger Ort mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Eine Bank am Kanal",
+            "tip": "Finden Sie einen Platz entlang des Kanals und beobachten Sie das Leben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frühmorgens in der Altstadt",
+            "tip": "Schlendern Sie vor 9 Uhr morgens durch die Gassen, wenn alles noch schläft.",
+            "emoji": "🤫"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zsidó temető",
+            "tip": "Történelmi és csendes hely, kilátással a városra.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Egy pad a csatorna mentén",
+            "tip": "Keressen egy helyet a csatorna mentén, és figyelje az életet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel az Óvárosban",
+            "tip": "Sétáljon reggel 9 előtt a sikátorokban, amikor még minden alszik.",
+            "emoji": "🤫"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc istoric și liniștit, cu vedere la oraș.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "O bancă pe malul canalului",
+            "tip": "Găsiți un loc de-a lungul canalului și priviți viața cum se desfășoară.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme în Orașul Vechi",
+            "tip": "Plimbați-vă pe alei înainte de ora 9 dimineața, când totul este încă adormit.",
+            "emoji": "🤫"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A historical and quiet place with a view of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "A bench by the channel",
+            "tip": "Find a spot along the channel and watch life go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning in the Old Town",
+            "tip": "Stroll through the alleys before 9 am when everything is still asleep.",
+            "emoji": "🤫"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt bei der Bushaltestelle",
+            "tip": "Ein kleinerer Markt mit lokalen Produkten, praktisch gelegen."
+          },
+          {
+            "name": "Souvenirläden in der Nähe der Kathedrale",
+            "tip": "Hier finden Sie die typischen Andenken an Šibenik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac a buszmegállónál",
+            "tip": "Kisebb piac helyi termékekkel, praktikusan elhelyezve."
+          },
+          {
+            "name": "Szuvenírboltok a katedrális közelében",
+            "tip": "Itt megtalálja a tipikus šibeniki emléktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de lângă stația de autobuz",
+            "tip": "O piață mai mică cu produse locale, situată convenabil."
+          },
+          {
+            "name": "Magazine de suveniruri lângă catedrală",
+            "tip": "Aici veți găsi suveniruri tipice din Šibenik."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market near the bus station",
+            "tip": "A smaller market with local products, conveniently located."
+          },
+          {
+            "name": "Souvenir shops near the cathedral",
+            "tip": "Here you will find the typical souvenirs of Šibenik."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für weniger häufige Linien.",
+          "Die meisten Busse sind modern und klimatisiert.",
+          "Halten Sie Kleingeld für Tickets bereit, wenn Sie direkt beim Fahrer kaufen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a buszmenetrendet, különösen a ritkábban közlekedő járatok esetében.",
+          "A legtöbb busz modern és légkondicionált.",
+          "Készítsen elő aprópénzt a jegyekhez, ha közvetlenül a sofőrnél vásárol."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru rutele mai puțin frecvente.",
+          "Majoritatea autobuzelor sunt moderne și au aer condiționat.",
+          "Pregătiți mărunțiș pentru bilete dacă cumpărați direct de la șofer."
+        ],
+        "en": [
+          "Buy a daily bus ticket to save money.",
+          "Check the bus schedule in advance, especially for less frequent routes.",
+          "Most buses are modern and air-conditioned.",
+          "Have small change ready for tickets if you buy directly from the driver."
         ]
       }
     }

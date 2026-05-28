@@ -1,0 +1,1460 @@
+{
+  "city_id": "poland-lubin-cities-v2",
+  "anchor": {
+    "name": "Lüben",
+    "coords": [
+      16.2,
+      51.4
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.2015,
+            51.4002
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
+            "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
+            "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
+            "en": "Start your day with a coffee at one of the square's cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Tschenstochau",
+            "hu": "Częstochowai Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului din Częstochowa",
+            "en": "Church of Our Lady of Częstochowa"
+          },
+          "coords": [
+            16.2038,
+            51.4021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Achten Sie auf die gotischen Details und die beeindruckenden Buntglasfenster.",
+            "hu": "Figyelje meg a gótikus részleteket és a lenyűgöző ólomüveg ablakokat!",
+            "ro": "Observați detaliile gotice și vitraliile impresionante.",
+            "en": "Pay attention to the Gothic details and the impressive stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            16.205,
+            51.3995
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Ausstellung zum Kupferbergbau ist ein Muss, um die Region zu verstehen.",
+            "hu": "A rézbányászatról szóló kiállítás kötelező a régió megértéséhez.",
+            "ro": "Expoziția despre mineritul de cupru este esențială pentru a înțelege regiunea.",
+            "en": "The copper mining exhibition is a must-see to understand the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Glogauer Torturm",
+            "hu": "Głogówi-kaputorony",
+            "ro": "Turnul Porții Głogów",
+            "en": "Głogów Gate Tower"
+          },
+          "coords": [
+            16.1975,
+            51.404
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der Turm ist ein großartiger Fotospot und ein Überbleibsel der alten Stadtmauern.",
+            "hu": "A torony remek fotóhelyszín és a régi városfalak maradványa.",
+            "ro": "Turnul este un loc excelent pentru fotografii și o rămășiță a vechilor ziduri ale orașului.",
+            "en": "The tower is a great photo spot and a remnant of the old city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer von Lüben 1982",
+            "hu": "Az 1982-es lübeni áldozatok emlékműve",
+            "ro": "Monumentul Victimelor din Lubin 1982",
+            "en": "Monument to the Victims of Lubin 1982"
+          },
+          "coords": [
+            16.208,
+            51.4055
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:36",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Moment der Besinnung an diesem wichtigen Ort der jüngeren polnischen Geschichte.",
+            "hu": "Egy pillanatnyi elgondolkodás a lengyel közelmúlt e fontos helyszínén.",
+            "ro": "Un moment de reflecție în acest loc important din istoria recentă a Poloniei.",
+            "en": "A moment of reflection at this important site of recent Polish history."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Wrocławski",
+            "hu": "Wrocławski Park",
+            "ro": "Parcul Wrocławski",
+            "en": "Wrocławski Park"
+          },
+          "coords": [
+            16.215,
+            51.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang zum Abschluss des Tages.",
+            "hu": "Ideális egy pihentető sétához a nap végén.",
+            "ro": "Ideal pentru o plimbare relaxantă la sfârșitul zilei.",
+            "en": "Ideal for a relaxing stroll to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lüben beginnt am belebten Marktplatz, dem Herzen der Stadt. Von dort aus tauchen Sie in die sakrale Atmosphäre der gotischen Kirche ein. Der Vormittag ist der reichen Geschichte der Stadt im Historischen Museum gewidmet, das die Bedeutung des Kupferbergbaus beleuchtet. Nach dem Mittagessen erkunden Sie die Überreste der alten Stadtbefestigung am Glogauer Torturm. Der Nachmittag wird nachdenklicher mit einem Besuch des Denkmals, das an die tragischen Ereignisse von 1982 erinnert. Schließlich finden Sie Ruhe und Entspannung im weitläufigen Wrocławski-Park, wo Sie den Tag ausklingen lassen.",
+        "hu": "A lübeni nap a város szívében, a nyüzsgő Piactéren kezdődik. Innen elmerülhet a gótikus templom szakrális hangulatában. A délelőtt a város gazdag történelmének szentelődik a Történeti Múzeumban, amely a rézbányászat fontosságát mutatja be. Ebéd után felfedezheti a régi városfalak maradványait a Głogówi-kaputoronynál. A délután elgondolkodtatóbbá válik az 1982-es tragikus eseményekre emlékeztető emlékmű meglátogatásával. Végül nyugalmat és kikapcsolódást talál a tágas Wrocławski Parkban, ahol a napot zárhatja.",
+        "ro": "Ziua dumneavoastră în Lubin începe în Piața Centrală plină de viață, inima orașului. De acolo, vă scufundați în atmosfera sacră a bisericii gotice. Dimineața este dedicată istoriei bogate a orașului la Muzeul de Istorie, care evidențiază importanța mineritului de cupru. După prânz, explorați rămășițele vechilor fortificații la Turnul Porții Głogów. După-amiaza devine mai reflexivă cu o vizită la monumentul care comemorează evenimentele tragice din 1982. În cele din urmă, găsiți pace și relaxare în vastul Parc Wrocławski, unde puteți încheia ziua.",
+        "en": "Your day in Lubin begins at the bustling Market Square, the heart of the city. From there, you'll dive into the sacred atmosphere of the Gothic church. The morning is dedicated to the city's rich history at the Historical Museum, highlighting the importance of copper mining. After lunch, you'll explore the remnants of the old fortifications at the Głogów Gate Tower. The afternoon becomes more reflective with a visit to the monument commemorating the tragic events of 1982. Finally, you'll find peace and relaxation in the spacious Wrocławski Park to round off your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pierogi (Teigtaschen)",
+            "tip": "Probieren Sie die 'Ruskie'-Füllung mit Kartoffeln und Käse in einem 'Bar Mleczny' (Milchbar)."
+          },
+          {
+            "name": "Żurek (Sauerteigsuppe)",
+            "tip": "Eine traditionelle Suppe, oft mit Wurst und Ei serviert, perfekt für ein herzhaftes Mittagessen."
+          },
+          {
+            "name": "Restauracja Miedziana",
+            "tip": "Ein bekanntes Restaurant, das traditionelle polnische Küche in einem eleganten Ambiente anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pierogi (derelye)",
+            "tip": "Kóstolja meg a krumplis-túrós 'ruskie' tölteléket egy 'Bar Mleczny'-ben (tejivó)."
+          },
+          {
+            "name": "Żurek (kovászos leves)",
+            "tip": "Hagyományos leves, gyakran kolbásszal és tojással tálalva, tökéletes egy kiadós ebédhez."
+          },
+          {
+            "name": "Restauracja Miedziana",
+            "tip": "Ismert étterem, amely hagyományos lengyel ételeket kínál elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pierogi (găluște)",
+            "tip": "Încercați umplutura 'Ruskie' cu cartofi și brânză la un 'Bar Mleczny' (bar de lapte)."
+          },
+          {
+            "name": "Żurek (supă acră)",
+            "tip": "O supă tradițională, adesea servită cu cârnați și ou, perfectă pentru un prânz consistent."
+          },
+          {
+            "name": "Restauracja Miedziana",
+            "tip": "Un restaurant renumit care servește bucătărie tradițională poloneză într-un cadru elegant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pierogi (dumplings)",
+            "tip": "Try the 'Ruskie' filling with potatoes and cheese at a 'Bar Mleczny' (Milk Bar)."
+          },
+          {
+            "name": "Żurek (sour rye soup)",
+            "tip": "A traditional soup, often served with sausage and egg, perfect for a hearty lunch."
+          },
+          {
+            "name": "Restauracja Miedziana",
+            "tip": "A well-known restaurant serving traditional Polish cuisine in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Finden Sie eine ruhige Bank an einem der Teiche.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosskapelle",
+            "tip": "Ein Ort der Stille und Besinnung, abseits der belebteren Plätze.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedhof bei der Kirche",
+            "tip": "Ein historischer und friedlicher Ort für einen kurzen Moment der Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Keressen egy csendes padot a tavak egyikénél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Várkápolna",
+            "tip": "A csend és az elmélyülés helye, távol a forgalmas terektől.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Templom melletti temető",
+            "tip": "Történelmi és békés hely egy rövid, csendes pillanatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wrocławski",
+            "tip": "Găsiți o bancă liniștită lângă unul dintre iazuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela Castelului",
+            "tip": "Un loc de liniște și contemplare, departe de piețele aglomerate.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cimitirul de lângă biserică",
+            "tip": "Un loc istoric și pașnic pentru un scurt moment de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Find a quiet bench by one of the ponds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Chapel",
+            "tip": "A place of silence and contemplation, away from the busier squares.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cemetery near the church",
+            "tip": "A historical and peaceful spot for a brief quiet moment.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden am Marktplatz",
+            "tip": "Hier finden Sie lokale Handwerkskunst und Andenken mit Kupfermotiven."
+          },
+          {
+            "name": "Cuprum Arena",
+            "tip": "Obwohl nicht im Rundgang enthalten, ist dies das wichtigste Einkaufszentrum der Stadt für eine größere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok a Piactéren",
+            "tip": "Itt helyi kézműves termékeket és réz motívumokkal díszített emléktárgyakat talál."
+          },
+          {
+            "name": "Cuprum Aréna",
+            "tip": "Bár nem része a sétának, ez a város fő bevásárlóközpontja a nagyobb választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri din Piața Centrală",
+            "tip": "Aici veți găsi artizanat local și suveniruri cu motive de cupru."
+          },
+          {
+            "name": "Arena Cuprum",
+            "tip": "Deși nu este pe traseu, acesta este principalul centru comercial al orașului pentru o selecție mai largă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops on the Market Square",
+            "tip": "Here you'll find local handicrafts and souvenirs with copper motifs."
+          },
+          {
+            "name": "Cuprum Arena",
+            "tip": "Although not on the walking tour, this is the city's main shopping center for a wider selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie eine Mittagspause in einem der Restaurants rund um den Marktplatz ein.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel az óvárosi macskakő egyenetlen lehet.",
+          "A központi látnivalók többsége könnyen megközelíthető gyalog.",
+          "Tervezzen ebédszünetet a Piactér körüli éttermek egyikében.",
+          "Vigyen magával újratölthető vizes palackot; vannak nyilvános kutak."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Planificați o pauză de prânz la unul dintre restaurantele din jurul Pieței Centrale.",
+          "Luați cu voi o sticlă de apă reutilizabilă; există fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
+          "Most central attractions are easily within walking distance.",
+          "Plan for a lunch break at one of the restaurants around the Market Square.",
+          "Bring a reusable water bottle; there are public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.2015,
+            51.4002
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
+            "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
+            "en": "Lock your bike securely before exploring the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Glogauer Torturm",
+            "hu": "Głogówi-kaputorony",
+            "ro": "Turnul Porții Głogów",
+            "en": "Głogów Gate Tower"
+          },
+          "coords": [
+            16.1975,
+            51.404
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:36",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt vom Zentrum, um die alten Befestigungsanlagen zu sehen.",
+            "hu": "Rövid biciklizés a központtól a régi erődítmények megtekintéséhez.",
+            "ro": "O scurtă plimbare cu bicicleta din centru pentru a vedea vechile fortificații.",
+            "en": "A short bike ride from the center to see the old fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Tschenstochau",
+            "hu": "Częstochowai Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului din Częstochowa",
+            "en": "Church of Our Lady of Częstochowa"
+          },
+          "coords": [
+            16.2038,
+            51.4021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:02",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein, um die Ruhe zu genießen.",
+            "hu": "Parkolja le a kerékpárt a közelben, és lépjen be, hogy élvezze a csendet.",
+            "ro": "Parcați bicicleta în apropiere și intrați pentru a vă bucura de liniște.",
+            "en": "Park your bike nearby and step inside to enjoy the tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            16.205,
+            51.3995
+          ],
+          "category": "museums",
+          "arrive_at": "10:38",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Eine gute Gelegenheit, mehr über die lokale Identität zu erfahren.",
+            "hu": "Jó alkalom, hogy többet megtudjon a helyi identitásról.",
+            "ro": "O bună oportunitate de a învăța mai multe despre identitatea locală.",
+            "en": "A good opportunity to learn more about the local identity."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuprum Arena",
+            "hu": "Cuprum Aréna",
+            "ro": "Arena Cuprum",
+            "en": "Cuprum Arena"
+          },
+          "coords": [
+            16.185,
+            51.41
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause für einen Snack oder ein schnelles Shopping-Erlebnis.",
+            "hu": "Tartson szünetet egy harapnivalóra vagy egy gyors vásárlási élményre.",
+            "ro": "Luați o pauză pentru o gustare sau o sesiune rapidă de cumpărături.",
+            "en": "Take a break for a snack or a quick shopping experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer von Lüben 1982",
+            "hu": "Az 1982-es lübeni áldozatok emlékműve",
+            "ro": "Monumentul Victimelor din Lubin 1982",
+            "en": "Monument to the Victims of Lubin 1982"
+          },
+          "coords": [
+            16.208,
+            51.4055
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:21",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Ein kurzer, aber wichtiger Stopp auf Ihrer Radtour.",
+            "hu": "Rövid, de fontos megálló a kerékpártúrán.",
+            "ro": "O oprire scurtă, dar importantă, în turul cu bicicleta.",
+            "en": "A short but important stop on your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Wrocławski",
+            "hu": "Wrocławski Park",
+            "ro": "Parcul Wrocławski",
+            "en": "Wrocławski Park"
+          },
+          "coords": [
+            16.215,
+            51.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:42",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Perfekt für eine gemütliche Radrunde oder einfach zum Entspannen im Gras.",
+            "hu": "Tökéletes egy kellemes kerékpárkörhöz vagy csak a fűben való pihenéshez.",
+            "ro": "Perfect pentru o tură lejeră cu bicicleta sau pur și simplu pentru a vă relaxa pe iarbă.",
+            "en": "Perfect for a leisurely bike ride or just relaxing on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour am Rathaus. Von dort führt Sie eine kurze Fahrt zu den historischen Wehranlagen am Glogauer Torturm. Der Vormittag verbindet sakrale Kunst in der Tschenstochauer Kirche mit der tiefen Industriegeschichte im Historischen Museum. Zur Mittagszeit radeln Sie zur modernen Cuprum Arena für eine schnelle Pause. Der Nachmittag ist dem Gedenken gewidmet, mit einem Halt am Denkmal für die Opfer von 1982, bevor Sie Ihre Tour mit einer entspannten Fahrt durch den grünen Wrocławski-Park abschließen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a Városházánál! Onnan egy rövid tekerés vezet a Głogówi-kaputorony történelmi erődítményeihez. A délelőtt összeköti a Częstochowai templom szakrális művészetét a Történeti Múzeum mély ipartörténetével. Délidőben tekerjen el a modern Cuprum Arénához egy gyors pihenőre. A délután az emlékezésé, egy megállóval az 1982-es áldozatok emlékművénél, mielőtt a túrát egy pihentető tekeréssel zárná a zöld Wrocławski Parkban.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul la Primărie. De acolo, o scurtă plimbare vă va duce la fortificațiile istorice de la Turnul Porții Głogów. Dimineața combină arta sacră de la Biserica din Częstochowa cu istoria industrială profundă de la Muzeul de Istorie. La prânz, pedalați spre moderna Arenă Cuprum pentru o pauză rapidă. După-amiaza este dedicată comemorării, cu o oprire la monumentul victimelor din 1982, înainte de a încheia turul cu o plimbare relaxantă prin verdele Parc Wrocławski.",
+        "en": "Hop on your bike and start your tour at the Town Hall. From there, a short ride takes you to the historic fortifications at the Głogów Gate Tower. The morning combines sacred art at the Church of Częstochowa with the deep industrial history at the Historical Museum. At noon, you'll cycle to the modern Cuprum Arena for a quick break. The afternoon is dedicated to remembrance, with a stop at the monument to the 1982 victims, before finishing your tour with a relaxing ride through the green Wrocławski Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zapiekanka (Überbackenes Baguette)",
+            "tip": "Ein schneller und leckerer polnischer Snack, den man unterwegs essen kann."
+          },
+          {
+            "name": "Kiełbasa z grilla (Gegrillte Wurst)",
+            "tip": "Suchen Sie nach einem Imbisswagen, der diese herzhafte Spezialität anbietet."
+          },
+          {
+            "name": "Pijalnia Czekolady",
+            "tip": "Gönnen Sie sich nach der Radtour eine heiße Schokolade oder ein Dessert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zapiekanka (sült bagett)",
+            "tip": "Gyors és finom lengyel snack, amit útközben is ehet."
+          },
+          {
+            "name": "Kiełbasa z grilla (grillezett kolbász)",
+            "tip": "Keressen egy büfékocsit, amely ezt a kiadós specialitást kínálja."
+          },
+          {
+            "name": "Pijalnia Czekolady",
+            "tip": "Kényeztesse magát egy forró csokoládéval vagy desszerttel a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zapiekanka (baghetă gratinată)",
+            "tip": "O gustare poloneză rapidă și delicioasă, perfectă pentru a fi mâncată din mers."
+          },
+          {
+            "name": "Kiełbasa z grilla (cârnați la grătar)",
+            "tip": "Căutați o rulotă cu mâncare care servește această specialitate consistentă."
+          },
+          {
+            "name": "Pijalnia Czekolady",
+            "tip": "Răsfățați-vă cu o ciocolată caldă sau un desert după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zapiekanka (baked baguette)",
+            "tip": "A quick and delicious Polish snack, perfect for eating on the go."
+          },
+          {
+            "name": "Kiełbasa z grilla (grilled sausage)",
+            "tip": "Look for a food truck serving this hearty specialty."
+          },
+          {
+            "name": "Pijalnia Czekolady",
+            "tip": "Treat yourself to a hot chocolate or dessert after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Fahren Sie zu einem abgelegenen Teil des Parks für eine ruhige Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flussufer (falls vorhanden)",
+            "tip": "Suchen Sie nach einem Weg entlang eines nahegelegenen Flusses oder Baches.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Schlosskapelle",
+            "tip": "Ein stiller Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Tekerjen el a park egy eldugott részébe egy csendes pihenőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyópart (ha van)",
+            "tip": "Keressen egy ösvényt egy közeli folyó vagy patak mentén.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Várkápolna",
+            "tip": "Csendes hely, ahol elmenekülhet a város nyüzsgése elől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wrocławski",
+            "tip": "Pedalați spre o parte mai retrasă a parcului pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului (dacă există)",
+            "tip": "Căutați o potecă de-a lungul unui râu sau pârâu din apropiere.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Capela Castelului",
+            "tip": "Un loc tăcut pentru a scăpa de agitația orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Cycle to a secluded part of the park for a quiet break.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Riverbank (if available)",
+            "tip": "Look for a path along a nearby river or stream.",
+            "emoji": "💧"
+          },
+          {
+            "name": "Castle Chapel",
+            "tip": "A silent place to escape the city's hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäft",
+            "tip": "Vielleicht finden Sie ein lokales Geschäft für Zubehör oder ein Souvenir-Trikot."
+          },
+          {
+            "name": "Lokaler Markt",
+            "tip": "Halten Sie Ausschau nach einem Bauernmarkt für frische Produkte oder lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Talán talál egy helyi boltot kiegészítőkért vagy egy szuvenír mezt."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Keressen egy termelői piacot friss termékekért vagy helyi harapnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Poate găsiți un magazin local pentru accesorii sau un tricou suvenir."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Fiți cu ochii pe o piață agricolă pentru produse proaspete sau gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "You might find a local shop for accessories or a souvenir jersey."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Keep an eye out for a farmers' market for fresh produce or local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck und die Bremsen, bevor Sie losfahren.",
+          "Nehmen Sie ein gutes Fahrradschloss mit.",
+          "Nutzen Sie nach Möglichkeit ausgewiesene Radwege.",
+          "Eine kleine Tasche oder ein Rucksack ist nützlich für Wasser und Snacks."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+          "Vigyen magával egy jó kerékpárzárat.",
+          "Ha lehetséges, használja a kijelölt kerékpárutakat.",
+          "Egy kis táska vagy hátizsák hasznos a víz és a rágcsálnivalók számára."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor și frânele înainte de a porni.",
+          "Luați cu voi un antifurt bun pentru bicicletă.",
+          "Folosiți pistele de biciclete desemnate, dacă este posibil.",
+          "O geantă mică sau un rucsac este util pentru apă și gustări."
+        ],
+        "en": [
+          "Check your tire pressure and brakes before you start.",
+          "Bring a good bike lock.",
+          "Use designated bike lanes where possible.",
+          "A small bag or backpack is useful for water and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Zentrum (Cluster 1)",
+            "hu": "Parkoló a központban (1. klaszter)",
+            "ro": "Parcare în centru (Cluster 1)",
+            "en": "Parking near the Center (Cluster 1)"
+          },
+          "coords": [
+            16.206,
+            51.403
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag. Es können Gebühren anfallen.",
+            "hu": "Parkoljon itt a délelőttre. Díjak merülhetnek fel.",
+            "ro": "Parcați aici pentru dimineață. Se pot aplica taxe.",
+            "en": "Park here for the morning. Fees may apply."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.2015,
+            51.4002
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:18",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum Herzen der Altstadt.",
+            "hu": "Rövid séta a parkolótól az óváros szívébe.",
+            "ro": "O scurtă plimbare de la parcare până în inima orașului vechi.",
+            "en": "A short walk from the parking lot to the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Tschenstochau",
+            "hu": "Częstochowai Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului din Częstochowa",
+            "en": "Church of Our Lady of Częstochowa"
+          },
+          "coords": [
+            16.2038,
+            51.4021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche liegt nur wenige Schritte vom Marktplatz entfernt.",
+            "hu": "A templom csak néhány lépésre van a Piactértől.",
+            "ro": "Biserica este la doar câțiva pași de Piața Centrală.",
+            "en": "The church is just a few steps from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            16.205,
+            51.3995
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den ersten Spaziergang mit einem tiefen Einblick in die Geschichte.",
+            "hu": "Zárja az első sétát a történelem mélyebb megismerésével.",
+            "ro": "Încheiați prima plimbare cu o incursiune profundă în istorie.",
+            "en": "End the first walking cluster with a deep dive into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Wrocławski (Cluster 2)",
+            "hu": "Wrocławski Park (2. klaszter)",
+            "ro": "Parcul Wrocławski (Cluster 2)",
+            "en": "Wrocławski Park (Cluster 2)"
+          },
+          "coords": [
+            16.215,
+            51.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park und suchen Sie sich einen Parkplatz in der Nähe für den Nachmittagsspaziergang.",
+            "hu": "Vezessen a parkhoz, és keressen egy közeli parkolóhelyet a délutáni sétához.",
+            "ro": "Conduceți spre parc și găsiți un loc de parcare în apropiere pentru plimbarea de după-amiază.",
+            "en": "Drive to the park and find a nearby spot for the afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer von Lüben 1982",
+            "hu": "Az 1982-es lübeni áldozatok emlékműve",
+            "ro": "Monumentul Victimelor din Lubin 1982",
+            "en": "Monument to the Victims of Lubin 1982"
+          },
+          "coords": [
+            16.208,
+            51.4055
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:58",
+          "stay_min": 15,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Park aus leicht zu Fuß erreichbar.",
+            "hu": "A parkból könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din parc.",
+            "en": "Easily reachable on foot from the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt bequem mit dem Parken im Zentrum. Der erste Cluster führt Sie zu Fuß durch das Herz von Lüben: vom Marktplatz zur Kirche und ins aufschlussreiche Historische Museum. Nach diesem historischen Vormittag steigen Sie wieder ins Auto. Am Nachmittag fahren Sie zum zweiten Cluster, dem grünen Wrocławski-Park. Hier parken Sie erneut und erkunden die weitläufige Anlage sowie das nahegelegene, zum Nachdenken anregende Denkmal von 1982. Dieser Tag kombiniert die Flexibilität des Autos mit intensiven Spaziergängen in den schönsten Gegenden der Stadt.",
+        "hu": "Az autós napja kényelmesen kezdődik a központi parkolással. Az első klaszter gyalogosan vezeti végig Lüben szívén: a Piactértől a templomig és a tanulságos Történeti Múzeumig. A történelmi délelőtt után visszaül az autóba. Délután a második klaszterhez, a zöld Wrocławski Parkhoz hajt. Itt újra leparkol, és felfedezi a tágas parkot, valamint a közeli, elgondolkodtató 1982-es emlékművet. Ez a nap ötvözi az autó rugalmasságát a város legszebb részein tett intenzív sétákkal.",
+        "ro": "Ziua cu mașina începe convenabil, parcând în centru. Primul cluster vă poartă pe jos prin inima Lubinului: de la Piața Centrală la biserică și la revelatorul Muzeu de Istorie. După această dimineață istorică, vă urcați din nou în mașină. După-amiaza, conduceți spre al doilea cluster, Parcul verde Wrocławski. Aici parcați din nou și explorați parcul vast și monumentul comemorativ din 1982, care îndeamnă la reflecție. Această zi combină flexibilitatea mașinii cu plimbări intense prin cele mai frumoase zone ale orașului.",
+        "en": "Your car day starts conveniently by parking in the center. The first cluster takes you on foot through the heart of Lubin: from the Market Square to the church and into the insightful Historical Museum. After this historical morning, you get back in the car. In the afternoon, you drive to the second cluster, the green Wrocławski Park. Here you park again and explore the spacious grounds and the nearby thought-provoking 1982 monument. This day combines the flexibility of the car with intensive walks in the city's most beautiful areas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bigos (Krauteintopf)",
+            "tip": "Ein traditionelles Gericht, das Sie in vielen Restaurants finden, die Hausmannskost servieren."
+          },
+          {
+            "name": "Karczma Polska",
+            "tip": "Ein Gasthaus mit rustikalem Charme, ideal für ein authentisches polnisches Mittagessen."
+          },
+          {
+            "name": "Cukiernia Sowa",
+            "tip": "Perfekt für einen Kaffee und Kuchen nach dem Museumsbesuch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bigos (káposztaétel)",
+            "tip": "Hagyományos étel, amelyet számos, házias ételeket kínáló étteremben megtalál."
+          },
+          {
+            "name": "Karczma Polska",
+            "tip": "Rusztikus hangulatú fogadó, ideális egy autentikus lengyel ebédhez."
+          },
+          {
+            "name": "Cukiernia Sowa",
+            "tip": "Tökéletes egy kávéra és süteményre a múzeumlátogatás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bigos (tocană de varză)",
+            "tip": "Un fel de mâncare tradițional pe care îl puteți găsi în multe restaurante cu specific local."
+          },
+          {
+            "name": "Karczma Polska",
+            "tip": "Un han cu farmec rustic, ideal pentru un prânz polonez autentic."
+          },
+          {
+            "name": "Cukiernia Sowa",
+            "tip": "Perfect pentru o cafea și o prăjitură după vizita la muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigos (hunter's stew)",
+            "tip": "A traditional dish you can find in many restaurants serving home-style food."
+          },
+          {
+            "name": "Karczma Polska",
+            "tip": "An inn with rustic charm, ideal for an authentic Polish lunch."
+          },
+          {
+            "name": "Cukiernia Sowa",
+            "tip": "Perfect for a coffee and cake after the museum visit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Fahren Sie zu einem ruhigen Parkplatz und genießen Sie die Natur.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt außerhalb der Stadt",
+            "tip": "Suchen Sie nach einem erhöhten Punkt in der Umgebung für einen Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosskapelle",
+            "tip": "Ein stiller Zufluchtsort im belebten Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Vezessen egy csendes parkolóba, és élvezze a természetet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városon kívüli kilátópont",
+            "tip": "Keressen egy magaslati pontot a környéken a panorámás kilátásért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várkápolna",
+            "tip": "Csendes menedék a nyüzsgő városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wrocławski",
+            "tip": "Conduceți până la o parcare liniștită și bucurați-vă de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere în afara orașului",
+            "tip": "Căutați un punct înalt în împrejurimi pentru o vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Capela Castelului",
+            "tip": "Un refugiu tăcut în centrul aglomerat al orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Drive to a quiet parking spot and enjoy nature.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Viewpoint outside the city",
+            "tip": "Look for an elevated spot in the surroundings for a panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Chapel",
+            "tip": "A silent refuge in the bustling city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cuprum Arena",
+            "tip": "Leicht mit dem Auto erreichbar für ein umfassendes Einkaufserlebnis."
+          },
+          {
+            "name": "Großer Supermarkt am Stadtrand",
+            "tip": "Nutzen Sie das Auto, um lokale Spezialitäten für zu Hause zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuprum Aréna",
+            "tip": "Könnyen megközelíthető autóval egy átfogó vásárlási élményért."
+          },
+          {
+            "name": "Nagy szupermarket a város szélén",
+            "tip": "Használja az autót, hogy helyi különlegességeket vásároljon hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arena Cuprum",
+            "tip": "Ușor accesibil cu mașina pentru o experiență completă de cumpărături."
+          },
+          {
+            "name": "Supermarket mare la periferie",
+            "tip": "Folosiți mașina pentru a cumpăra specialități locale pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuprum Arena",
+            "tip": "Easily accessible by car for a comprehensive shopping experience."
+          },
+          {
+            "name": "Large supermarket on the outskirts",
+            "tip": "Use the car to buy local specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich im Voraus über Parkmöglichkeiten und -gebühren.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Ein GPS oder eine Navigations-App ist unerlässlich.",
+          "Achten Sie auf Einbahnstraßen und Fußgängerzonen in der Altstadt."
+        ],
+        "hu": [
+          "Előzetesen tájékozódjon a parkolási lehetőségekről és díjakról.",
+          "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+          "A GPS vagy egy navigációs alkalmazás elengedhetetlen.",
+          "Figyeljen az egyirányú utcákra és a sétálóövezetekre az óvárosban."
+        ],
+        "ro": [
+          "Informați-vă în prealabil despre opțiunile de parcare și taxele aferente.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Un GPS sau o aplicație de navigație este esențială.",
+          "Fiți atenți la străzile cu sens unic și zonele pietonale din centrul vechi."
+        ],
+        "en": [
+          "Research parking options and fees in advance.",
+          "Do not leave valuables visible in the car.",
+          "A GPS or navigation app is essential.",
+          "Be aware of one-way streets and pedestrian zones in the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrale Bushaltestelle (Cluster 1)",
+            "hu": "Központi buszmegálló (1. klaszter)",
+            "ro": "Stație centrală de autobuz (Cluster 1)",
+            "en": "Central Bus Stop (Cluster 1)"
+          },
+          "coords": [
+            16.202,
+            51.401
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier Ihren Tag. Kaufen Sie eine Tageskarte für Flexibilität.",
+            "hu": "Itt kezdje a napot. Vásároljon napijegyet a rugalmasságért.",
+            "ro": "Începeți ziua aici. Cumpărați un bilet de o zi pentru flexibilitate.",
+            "en": "Start your day here. Buy a day pass for flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus und Marktplatz",
+            "hu": "Városháza és Piactér",
+            "ro": "Primăria și Piața Centrală",
+            "en": "Town Hall and Market Square"
+          },
+          "coords": [
+            16.2015,
+            51.4002
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:12",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Platz liegt direkt an der Haltestelle.",
+            "hu": "A tér közvetlenül a megálló mellett található.",
+            "ro": "Piața se află chiar lângă stație.",
+            "en": "The square is located right next to the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            16.205,
+            51.3995
+          ],
+          "category": "museums",
+          "arrive_at": "09:48",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadtgassen.",
+            "hu": "Rövid séta az óváros utcáin.",
+            "ro": "O scurtă plimbare pe străduțele orașului vechi.",
+            "en": "A short walk through the old town alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Haltestelle am Park (Cluster 2)",
+            "hu": "Megálló a parknál (2. klaszter)",
+            "ro": "Stația de lângă parc (Cluster 2)",
+            "en": "Bus Stop at the Park (Cluster 2)"
+          },
+          "coords": [
+            16.213,
+            51.407
+          ],
+          "category": "transport",
+          "arrive_at": "11:38",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus in Richtung Wrocławski-Park.",
+            "hu": "Menjen busszal a Wrocławski Park irányába.",
+            "ro": "Luați un autobuz spre Parcul Wrocławski.",
+            "en": "Take a bus towards Wrocławski Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Wrocławski",
+            "hu": "Wrocławski Park",
+            "ro": "Parcul Wrocławski",
+            "en": "Wrocławski Park"
+          },
+          "coords": [
+            16.215,
+            51.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:41",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Busfahrt im Grünen.",
+            "hu": "Pihenjen a zöldben a buszozás után.",
+            "ro": "Relaxați-vă în natură după călătoria cu autobuzul.",
+            "en": "Relax in the greenery after the bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuprum Arena (Cluster 3)",
+            "hu": "Cuprum Aréna (3. klaszter)",
+            "ro": "Arena Cuprum (Cluster 3)",
+            "en": "Cuprum Arena (Cluster 3)"
+          },
+          "coords": [
+            16.185,
+            51.41
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine weitere kurze Busfahrt bringt Sie zum modernen Einkaufszentrum.",
+            "hu": "Egy újabb rövid buszút visz el a modern bevásárlóközpontba.",
+            "ro": "O altă călătorie scurtă cu autobuzul vă duce la centrul comercial modern.",
+            "en": "Another short bus ride takes you to the modern shopping center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einer Tageskarte für den Bus erkunden Sie Lüben flexibel. Starten Sie im Zentrum und spazieren Sie vom Marktplatz zum Historischen Museum. Dieser erste Cluster lässt Sie tief in die Altstadt eintauchen. Anschließend bringt Sie ein Bus bequem zum zweiten Cluster, dem weitläufigen Wrocławski-Park, ideal für eine Mittagspause im Grünen. Eine weitere Busfahrt am Nachmittag führt Sie zum modernen Kontrastprogramm, der Cuprum Arena, wo Sie einkaufen oder eine kulturelle Veranstaltung besuchen können. Diese Tour nutzt den öffentlichen Nahverkehr, um verschiedene Facetten der Stadt mühelos zu verbinden.",
+        "hu": "Egy buszos napijeggyel rugalmasan fedezheti fel Lübent. Kezdjen a központban, és sétáljon a Piactértől a Történeti Múzeumig. Ez az első klaszter lehetővé teszi, hogy mélyen elmerüljön az óvárosban. Ezután egy busz kényelmesen elviszi a második klaszterhez, a tágas Wrocławski Parkhoz, amely ideális egy zöldben eltöltött ebédszünethez. Egy újabb délutáni buszozás a modern kontrasztprogramhoz, a Cuprum Arénához vezet, ahol vásárolhat vagy kulturális eseményen vehet részt. Ez a túra a tömegközlekedést használja a város különböző arcainak könnyed összekapcsolására.",
+        "ro": "Cu un bilet de o zi pentru autobuz, explorați Lubin în mod flexibil. Începeți în centru și plimbați-vă de la Piața Centrală la Muzeul de Istorie. Acest prim cluster vă permite să vă cufundați adânc în orașul vechi. Apoi, un autobuz vă duce confortabil la al doilea cluster, vastul Parc Wrocławski, ideal pentru o pauză de prânz în natură. O altă călătorie cu autobuzul după-amiaza vă duce la programul de contrast modern, Arena Cuprum, unde puteți face cumpărături sau participa la un eveniment cultural. Acest tur folosește transportul public pentru a conecta fără efort diferite fațete ale orașului.",
+        "en": "With a day pass for the bus, you can explore Lubin flexibly. Start in the center and walk from the Market Square to the Historical Museum. This first cluster lets you dive deep into the old town. Afterwards, a bus takes you comfortably to the second cluster, the spacious Wrocławski Park, ideal for a lunch break in the green. Another bus ride in the afternoon leads you to the modern contrast program, the Cuprum Arena, where you can shop or attend a cultural event. This tour uses public transport to effortlessly connect different facets of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mleczny (Milchbar)",
+            "tip": "Für ein authentisches, preiswertes polnisches Mittagessen zwischen den Busfahrten."
+          },
+          {
+            "name": "Food-Court in der Cuprum Arena",
+            "tip": "Eine große Auswahl an schnellen und internationalen Gerichten."
+          },
+          {
+            "name": "Naleśniki (Polnische Pfannkuchen)",
+            "tip": "Suchen Sie ein kleines Café, das süße oder herzhafte Pfannkuchen anbietet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mleczny (tejivó)",
+            "tip": "Egy autentikus, olcsó lengyel ebédért a buszozások között."
+          },
+          {
+            "name": "Ételudvar a Cuprum Arénában",
+            "tip": "Gyors és nemzetközi ételek széles választéka."
+          },
+          {
+            "name": "Naleśniki (lengyel palacsinta)",
+            "tip": "Keressen egy kis kávézót, amely édes vagy sós palacsintát kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mleczny (bar de lapte)",
+            "tip": "Pentru un prânz polonez autentic și ieftin între călătoriile cu autobuzul."
+          },
+          {
+            "name": "Food court la Arena Cuprum",
+            "tip": "O selecție largă de mâncăruri rapide și internaționale."
+          },
+          {
+            "name": "Naleśniki (clătite poloneze)",
+            "tip": "Căutați o cafenea mică ce servește clătite dulci sau sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mleczny (Milk Bar)",
+            "tip": "For an authentic, inexpensive Polish lunch between bus rides."
+          },
+          {
+            "name": "Food court at Cuprum Arena",
+            "tip": "A wide selection of fast and international dishes."
+          },
+          {
+            "name": "Naleśniki (Polish pancakes)",
+            "tip": "Look for a small cafe that serves sweet or savory pancakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "Der Park ist groß genug, um nach der Ankunft mit dem Bus einen ruhigen Ort zu finden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Etage eines Busses",
+            "tip": "Genießen Sie die Aussicht und die relative Ruhe während der Fahrt.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bibliothek oder Lesesaal",
+            "tip": "Einige Kulturzentren wie die Cuprum Arena haben ruhige Ecken.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "A park elég nagy ahhoz, hogy a busszal való érkezés után csendes helyet találjon.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egy busz felső szintje",
+            "tip": "Élvezze a kilátást és a viszonylagos csendet utazás közben.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Könyvtár vagy olvasóterem",
+            "tip": "Néhány kulturális központnak, mint a Cuprum Aréna, vannak csendes zugai.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wrocławski",
+            "tip": "Parcul este suficient de mare pentru a găsi un loc liniștit după sosirea cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Etajul superior al unui autobuz",
+            "tip": "Bucurați-vă de priveliște și de liniștea relativă în timpul călătoriei.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Bibliotecă sau sală de lectură",
+            "tip": "Unele centre culturale precum Arena Cuprum au colțuri liniștite.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wrocławski Park",
+            "tip": "The park is large enough to find a quiet spot after arriving by bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper deck of a bus",
+            "tip": "Enjoy the view and the relative quiet during the ride.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Library or reading room",
+            "tip": "Some cultural centers like Cuprum Arena have quiet corners.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Hier finden Sie Zeitungen, Getränke und manchmal auch lokale Snacks."
+          },
+          {
+            "name": "Cuprum Arena",
+            "tip": "Das Hauptziel für Shopping, leicht mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Itt újságokat, italokat és néha helyi rágcsálnivalókat talál."
+          },
+          {
+            "name": "Cuprum Aréna",
+            "tip": "A vásárlás fő célpontja, könnyen megközelíthető busszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Aici puteți găsi ziare, băuturi și uneori gustări locale."
+          },
+          {
+            "name": "Arena Cuprum",
+            "tip": "Principala destinație de cumpărături, ușor accesibilă cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "You can find newspapers, drinks, and sometimes local snacks here."
+          },
+          {
+            "name": "Cuprum Arena",
+            "tip": "The main destination for shopping, easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte, um Geld zu sparen.",
+          "Laden Sie einen Offline-Fahrplan herunter oder verwenden Sie eine Transit-App.",
+          "Achten Sie auf die letzte Busverbindung zurück zu Ihrer Unterkunft.",
+          "Die Busse können zu Stoßzeiten voll sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Vásároljon napijegyet, hogy pénzt takarítson meg.",
+          "Töltsön le egy offline menetrendet, vagy használjon egy tömegközlekedési alkalmazást.",
+          "Figyeljen az utolsó buszjáratra vissza a szállására.",
+          "A buszok csúcsidőben zsúfoltak lehetnek, tervezzen ennek megfelelően."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru a economisi bani.",
+          "Descărcați un orar offline sau folosiți o aplicație de tranzit.",
+          "Fiți atenți la ultima legătură de autobuz înapoi la cazare.",
+          "Autobuzele pot fi aglomerate la orele de vârf, planificați în consecință."
+        ],
+        "en": [
+          "Buy a day pass to save money.",
+          "Download an offline schedule or use a transit app.",
+          "Be aware of the last bus connection back to your accommodation.",
+          "Buses can be crowded during peak hours, so plan accordingly."
+        ]
+      }
+    }
+  }
+}

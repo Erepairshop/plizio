@@ -1,0 +1,1484 @@
+{
+  "city_id": "ukraine-mariupol-cities-v2",
+  "anchor": {
+    "name": "Mariupol",
+    "coords": [
+      37.5413,
+      47.0951
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alter Wasserturm",
+            "hu": "Régi víztorony",
+            "ro": "Vechiul Turn de Apă",
+            "en": "Old Water Tower"
+          },
+          "coords": [
+            37.545,
+            47.0965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen tollen ersten Überblick über die Stadt.",
+            "hu": "Menj fel a toronyba a városra nyíló első nagyszerű kilátásért.",
+            "ro": "Urcați pentru o primă imagine de ansamblu excelentă a orașului.",
+            "en": "Climb up for a great first overview of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus mit dem Turm",
+            "hu": "Ház a toronnyal",
+            "ro": "Casa cu Turn",
+            "en": "House with the Tower"
+          },
+          "coords": [
+            37.548,
+            47.095
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur; es ist eines der Symbole der Stadt.",
+            "hu": "Csodáld meg az egyedi építészetet; ez a város egyik szimbóluma.",
+            "ro": "Admirați arhitectura unică; este unul dintre simbolurile orașului.",
+            "en": "Admire the unique architecture; it's one of the city's symbols."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater",
+            "hu": "Drámai Színház",
+            "ro": "Teatrul Dramatic",
+            "en": "Drama Theater"
+          },
+          "coords": [
+            37.549,
+            47.096
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Auch wenn Sie keine Vorstellung besuchen, ist die neoklassizistische Fassade beeindruckend.",
+            "hu": "A neoklasszikus homlokzat akkor is lenyűgöző, ha nem mész előadásra.",
+            "ro": "Chiar dacă nu participați la un spectacol, fațada neoclasică este impresionantă.",
+            "en": "Even if not attending a show, the neoclassical facade is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuindshi-Kunstmuseum",
+            "hu": "Kuindzsi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kuindzhi",
+            "en": "Kuindzhi Art Museum"
+          },
+          "coords": [
+            37.54,
+            47.092
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf die Werke von Arkhip Kuindzhi, dem Meister des Lichts.",
+            "hu": "Koncentrálj Arkhip Kuindzsi, a fény mesterének műveire.",
+            "ro": "Concentrați-vă pe lucrările lui Arkhip Kuindzhi, maestrul luminii.",
+            "en": "Focus on the works by Arkhip Kuindzhi, the master of light."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "City Garden"
+          },
+          "coords": [
+            37.531,
+            47.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Mittagspause mit Blick auf das Industrie-Panorama.",
+            "hu": "Ideális hely egy délutáni szünetre, kilátással az ipari panorámára.",
+            "ro": "Un loc ideal pentru o pauză de după-amiază cu vedere la panorama industrială.",
+            "en": "An ideal spot for an afternoon break overlooking the industrial panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Asow-Promenade",
+            "hu": "Azovi sétány",
+            "ro": "Promenada Azov",
+            "en": "Azov Promenade"
+          },
+          "coords": [
+            37.539,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 1.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag hier, um den Sonnenuntergang über dem Meer zu beobachten.",
+            "hu": "Fejezd be a napot a naplemente megtekintésével a tenger felett.",
+            "ro": "Încheiați-vă ziua aici pentru a privi apusul peste mare.",
+            "en": "End your day here watching the sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Mariupol beginnt mit einem Aufstieg auf den Alten Wasserturm für eine weite Aussicht. Am Vormittag erkunden Sie das architektonische Herz der Stadt, vom Haus mit dem Turm bis zum majestätischen Dramatheater. Der Mittag ist der Kunst im Kuindshi-Museum gewidmet, das dem berühmtesten Sohn der Stadt gewidmet ist. Am Nachmittag entspannen Sie im Stadtgarten und genießen die einzigartige Mischung aus Natur und Industrie. Der Tag endet an der Asow-Promenade, wo die Meeresbrise und der Sonnenuntergang einen perfekten Abschluss bilden.",
+        "hu": "A nap Mariupolban a Régi Víztorony megmászásával kezdődik a pazar kilátásért. Délelőtt a város építészeti szívét fedezi fel, a Tornyos Háztól a fenséges Drámai Színházig. A dél a művészeté a Kuindzsi Múzeumban, mely a város leghíresebb szülöttének állít emléket. Délután a Városkertben pihenhet, élvezve a természet és az ipar egyedülálló keverékét. A nap az Azovi sétányon zárul, ahol a tengeri szellő és a naplemente tökéletes befejezést nyújt.",
+        "ro": "Ziua dvs. în Mariupol începe cu o urcare în Vechiul Turn de Apă pentru o priveliște vastă. Dimineața explorează inima arhitecturală a orașului, de la Casa cu Turn la maiestuosul Teatru Dramatic. Prânzul este dedicat artei la Muzeul Kuindzhi, dedicat celui mai faimos fiu al orașului. După-amiaza vă relaxați în Grădina Orașului, bucurându-vă de amestecul unic de natură și industrie. Ziua se încheie la Promenada Azov, unde briza mării și apusul oferă un final perfect.",
+        "en": "Your day in Mariupol begins with a climb up the Old Water Tower for a sweeping view. The morning explores the city's architectural heart, from the House with the Tower to the majestic Drama Theater. Midday is for art at the Kuindzhi Museum, dedicated to the city's most famous son. In the afternoon, you relax in the City Garden, enjoying the unique blend of nature and industry. The day concludes at the Azov Promenade, where the sea breeze and sunset provide a perfect ending."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borschtsch",
+            "tip": "Probieren Sie die lokale Variante dieser berühmten Rote-Bete-Suppe, oft mit einem Klecks saurer Sahne serviert."
+          },
+          {
+            "name": "Wareniki",
+            "tip": "Gefüllte Teigtaschen, die sowohl herzhaft (mit Kartoffeln oder Fleisch) als auch süß (mit Kirschen) sein können."
+          },
+          {
+            "name": "Restaurant 'Ukraina'",
+            "tip": "Ein guter Ort, um traditionelle ukrainische Gerichte in einer klassischen Umgebung zu probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borscs",
+            "tip": "Kóstold meg ennek a híres céklalevesnek a helyi változatát, gyakran egy kanál tejföllel tálalva."
+          },
+          {
+            "name": "Varenyiki",
+            "tip": "Töltött táskák, amelyek lehetnek sósak (burgonyával vagy hússal) vagy édesek (megggyel)."
+          },
+          {
+            "name": "Ukrajna Étterem",
+            "tip": "Jó hely a hagyományos ukrán ételek megkóstolására klasszikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borș",
+            "tip": "Încercați versiunea locală a acestei faimoase supe de sfeclă roșie, adesea servită cu o lingură de smântână."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Găluște umplute care pot fi sărate (cu cartofi sau carne) sau dulci (cu cireșe)."
+          },
+          {
+            "name": "Restaurant 'Ukraina'",
+            "tip": "Un loc bun pentru a încerca mâncăruri tradiționale ucrainene într-un cadru clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borscht",
+            "tip": "Try the local version of this famous beetroot soup, often served with a dollop of sour cream."
+          },
+          {
+            "name": "Varenyky",
+            "tip": "Filled dumplings that can be savory (with potatoes or meat) or sweet (with cherries)."
+          },
+          {
+            "name": "Restaurant 'Ukraina'",
+            "tip": "A good place to sample traditional Ukrainian dishes in a classic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenuntergang an der Asow-Promenade",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie die Sonne über dem Asowschen Meer untergeht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Abgelegene Wege im Stadtgarten",
+            "tip": "Entfliehen Sie dem Trubel auf den weniger begangenen Wegen des Parks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Nikolaus-Kathedrale (außerhalb der Gottesdienste)",
+            "tip": "Die ruhige Atmosphäre bietet einen Moment der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Naplemente az Azovi sétányon",
+            "tip": "Keress egy padot, és nézd, ahogy a nap lemegy az Azovi-tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Elhagyatott ösvények a Városkertben",
+            "tip": "Menekülj el a nyüzsgés elől a park kevésbé járt útjain.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Szent Miklós-székesegyház (istentiszteleten kívül)",
+            "tip": "A csendes légkör egy pillanatnyi elmélkedést kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apus de soare la Promenada Azov",
+            "tip": "Găsiți o bancă și priviți soarele apunând peste Marea Azov.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cărări izolate în Grădina Orașului",
+            "tip": "Evadați din agitație pe potecile mai puțin circulate ale parcului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Catedrala Sf. Nicolae (în afara slujbelor)",
+            "tip": "Atmosfera liniștită oferă un moment de reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sunset at Azov Promenade",
+            "tip": "Find a bench and watch the sun dip below the Sea of Azov.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Secluded paths in the City Garden",
+            "tip": "Escape the bustle on the park's less-traveled pathways.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Nicholas Cathedral (outside service hours)",
+            "tip": "The quiet atmosphere offers a moment for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Erleben Sie das lokale Leben und kaufen Sie frische Produkte oder Snacks."
+          },
+          {
+            "name": "Lokale Kunsthandwerksläden",
+            "tip": "Suchen Sie nach handgemachten Souvenirs, insbesondere bestickten Textilien (Wyschywanka)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac",
+            "tip": "Tapasztald meg a helyi életet és vásárolj friss termékeket vagy rágcsálnivalókat."
+          },
+          {
+            "name": "Helyi kézműves boltok",
+            "tip": "Keress kézzel készített szuveníreket, különösen hímzett textíliákat (Vyshyvanka)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Experimentați viața locală și cumpărați produse proaspete sau gustări."
+          },
+          {
+            "name": "Magazine de artizanat local",
+            "tip": "Căutați suveniruri realizate manual, în special textile brodate (Vyshyvanka)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Experience local life and buy some fresh produce or snacks."
+          },
+          {
+            "name": "Local artisan shops",
+            "tip": "Look for handmade souvenirs, especially embroidered textiles (Vyshyvanka)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie über 5 km laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den wärmeren Monaten.",
+          "Planen Sie zusätzliche Zeit für das Kuindshi-Museum ein, wenn Sie ein Kunstliebhaber sind.",
+          "Die Promenade ist am späten Nachmittag am belebtesten."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mivel több mint 5 km-t fogsz sétálni.",
+          "Vigyél magaddal vizet, különösen a melegebb hónapokban.",
+          "Tervezz plusz időt a Kuindzsi Múzeumra, ha művészetkedvelő vagy.",
+          "A sétány késő délután a legforgalmasabb."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge pe jos peste 5 km.",
+          "Luați apă cu dvs., mai ales în lunile mai calde.",
+          "Alocați timp suplimentar pentru Muzeul Kuindzhi dacă sunteți un iubitor de artă.",
+          "Promenada este cea mai aglomerată la sfârșitul după-amiezii."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking over 5 km.",
+          "Bring water with you, especially during warmer months.",
+          "Plan extra time for the Kuindzhi Museum if you are an art lover.",
+          "The promenade is busiest in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dramatheater",
+            "hu": "Drámai Színház",
+            "ro": "Teatrul Dramatic",
+            "en": "Drama Theater"
+          },
+          "coords": [
+            37.549,
+            47.096
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein großartiger zentraler Ausgangspunkt, um Ihre Radtour zu beginnen.",
+            "hu": "Nagyszerű központi kiindulópont a kerékpártúrához.",
+            "ro": "Un punct de plecare central excelent pentru a începe turul cu bicicleta.",
+            "en": "A great central starting point to begin your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Wasserturm",
+            "hu": "Régi víztorony",
+            "ro": "Vechiul Turn de Apă",
+            "en": "Old Water Tower"
+          },
+          "coords": [
+            37.545,
+            47.0965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad unten ab und genießen Sie die Aussicht von oben.",
+            "hu": "Zárd le a biciklidet lent, és élvezd a kilátást fentről.",
+            "ro": "Încuiați-vă bicicleta jos și bucurați-vă de priveliștea de sus.",
+            "en": "Lock your bike below and enjoy the view from the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sf. Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            37.56,
+            47.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beachten Sie die goldenen Kuppeln, ein charakteristisches Merkmal orthodoxer Kirchen.",
+            "hu": "Figyeld meg az aranykupolákat, az ortodox templomok jellegzetességét.",
+            "ro": "Observați cupolele aurii, o trăsătură distinctivă a bisericilor ortodoxe.",
+            "en": "Note the golden domes, a distinctive feature of Orthodox churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuindshi-Kunstmuseum",
+            "hu": "Kuindzsi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kuindzhi",
+            "en": "Kuindzhi Art Museum"
+          },
+          "coords": [
+            37.54,
+            47.092
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause von der Radtour und eine Dosis Kultur.",
+            "hu": "Frissítő szünet a kerékpározás után és egy adag kultúra.",
+            "ro": "O pauză răcoritoare de la ciclism și o doză de cultură.",
+            "en": "A refreshing break from cycling and a dose of culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "City Garden"
+          },
+          "coords": [
+            37.531,
+            47.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Hauptalleen, bevor Sie für eine Pause anhalten.",
+            "hu": "Tekerj végig a fő utakon, mielőtt megállnál pihenni.",
+            "ro": "Pedalați pe aleile principale înainte de a opri pentru o pauză.",
+            "en": "Cycle through the main avenues before stopping for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Asow-Promenade",
+            "hu": "Azovi sétány",
+            "ro": "Promenada Azov",
+            "en": "Azov Promenade"
+          },
+          "coords": [
+            37.539,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Dies ist der beste Teil für eine Radtour, mit der Meeresbrise und viel Platz.",
+            "hu": "Ez a legjobb szakasz a kerékpározáshoz, tengeri szellővel és tágas térrel.",
+            "ro": "Aceasta este cea mai bună porțiune pentru o plimbare cu bicicleta, cu briza mării și mult spațiu.",
+            "en": "This is the best part for cycling, with the sea breeze and plenty of space."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Suleiman-Moschee",
+            "hu": "Szultán Szulejmán Mecset",
+            "ro": "Moscheea Sultan Suleiman",
+            "en": "Sultan Suleiman Mosque"
+          },
+          "coords": [
+            37.525,
+            47.08
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Symbol der vielfältigen Geschichte der Stadt und ein friedlicher Ort.",
+            "hu": "A város sokszínű történelmének szimbóluma és egy békés hely.",
+            "ro": "Un simbol al istoriei diverse a orașului și un loc pașnic.",
+            "en": "A symbol of the city's diverse history and a peaceful place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrradtour beginnt im Herzen von Mariupol am Dramatheater. Sie radeln zum Alten Wasserturm und dann weiter zur prächtigen Nikolaus-Kathedrale, wobei Sie die städtische Landschaft in sich aufnehmen. Zur Mittagszeit tauchen Sie im Kuindshi-Museum in die Kunst ein, bevor Sie am Nachmittag eine entspannte Fahrt durch den Stadtgarten genießen. Der Höhepunkt ist die Fahrt entlang der Asow-Promenade mit der erfrischenden Meeresbrise. Der Tag endet mit einem besinnlichen Besuch der Sultan-Suleiman-Moschee bei Sonnenuntergang.",
+        "hu": "Kerékpártúrád Mariupol szívében, a Drámai Színháznál kezdődik. Eltekersz a Régi Víztoronyhoz, majd tovább a csodálatos Szent Miklós-székesegyházhoz, magadba szívva a városi tájat. Délben elmerülsz a művészetben a Kuindzsi Múzeumban, majd délután egy kellemes tekerés következik a Városkertben. A csúcspont az Azovi sétányon való biciklizés a frissítő tengeri szellővel. A nap a Szultán Szulejmán Mecset naplementekor tett látogatásával zárul.",
+        "ro": "Turul dvs. cu bicicleta începe în inima Mariupolului, la Teatrul Dramatic. Pedalați spre Vechiul Turn de Apă și apoi spre magnifica Catedrală Sf. Nicolae, absorbind peisajul urban. La prânz, vă cufundați în artă la Muzeul Kuindzhi, înainte de o plimbare relaxantă prin Grădina Orașului după-amiaza. Punctul culminant este pedalarea de-a lungul Promenadei Azov, cu briza răcoroasă a mării. Ziua se încheie cu o vizită contemplativă la Moscheea Sultan Suleiman la apus.",
+        "en": "Your bike tour starts in the heart of Mariupol at the Drama Theater. You'll cycle to the Old Water Tower and then onward to the magnificent St. Nicholas Cathedral, absorbing the urban landscape. At midday, you immerse yourself in art at the Kuindzhi Museum before a relaxing afternoon ride through the City Garden. The highlight is cycling along the Azov Promenade with the refreshing sea breeze. The day concludes with a contemplative visit to the Sultan Suleiman Mosque as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schaschlik",
+            "tip": "Gegrillte Fleischspieße, perfekt für ein schnelles und sättigendes Mittagessen während einer Radtour."
+          },
+          {
+            "name": "Kwas",
+            "tip": "Ein traditionelles fermentiertes Getränk, sehr erfrischend an einem aktiven Tag."
+          },
+          {
+            "name": "Café 'Old Mariupol'",
+            "tip": "Ein charmanter Ort für eine Kaffeepause und einen leichten Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saslik",
+            "tip": "Grillezett húsnyárs, tökéletes egy gyors és laktató ebédhez egy kerékpártúra során."
+          },
+          {
+            "name": "Kvasz",
+            "tip": "Hagyományos erjesztett ital, nagyon frissítő egy aktív napon."
+          },
+          {
+            "name": "Régi Mariupol Kávézó",
+            "tip": "Bájos hely egy kávészünetre és egy könnyű harapnivalóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șașlîc",
+            "tip": "Frigărui de carne la grătar, perfecte pentru un prânz rapid și sățios în timpul unui tur cu bicicleta."
+          },
+          {
+            "name": "Cvas",
+            "tip": "O băutură tradițională fermentată, foarte răcoritoare într-o zi activă."
+          },
+          {
+            "name": "Cafeneaua 'Old Mariupol'",
+            "tip": "Un loc fermecător pentru o pauză de cafea și o gustare ușoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shashlik",
+            "tip": "Grilled meat skewers, perfect for a quick and filling lunch during a bike tour."
+          },
+          {
+            "name": "Kvass",
+            "tip": "A traditional fermented beverage, very refreshing on an active day."
+          },
+          {
+            "name": "Cafe 'Old Mariupol'",
+            "tip": "A charming spot for a coffee break and a light snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Stadtgarten auf das Meer",
+            "tip": "Finden Sie einen ruhigen Aussichtspunkt im Park mit Blick auf das Meer und den Hafen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Früher Morgen an der Promenade",
+            "tip": "Radeln Sie bei Sonnenaufgang für eine friedliche Erfahrung, bevor die Menschenmassen kommen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Der Hof der Sultan-Suleiman-Moschee",
+            "tip": "Ein Ort der Ruhe, der zum Innehalten einlädt.",
+            "emoji": "🕌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás a Városkertből a tengerre",
+            "tip": "Keress egy csendes kilátópontot a parkban, ahonnan a tengerre és a kikötőre nyílik kilátás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kora reggel a sétányon",
+            "tip": "Tekerj napkeltekor a békés élményért, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Szultán Szulejmán Mecset udvara",
+            "tip": "A nyugalom helye, amely megállásra és elmélkedésre hív.",
+            "emoji": "🕌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre mare din Grădina Orașului",
+            "tip": "Găsiți un punct de belvedere liniștit în parc, cu vedere spre mare și port.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dimineața devreme la promenadă",
+            "tip": "Pedalați la răsărit pentru o experiență pașnică înainte de aglomerație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Moscheii Sultan Suleiman",
+            "tip": "Un loc de liniște care invită la pauză și reflecție.",
+            "emoji": "🕌"
+          }
+        ],
+        "en": [
+          {
+            "name": "View of the sea from the City Garden",
+            "tip": "Find a quiet viewpoint in the park overlooking the sea and the port.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Early morning on the promenade",
+            "tip": "Cycle at sunrise for a peaceful experience before the crowds arrive.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "The courtyard of Sultan Suleiman Mosque",
+            "tip": "A place of tranquility that invites pause and reflection.",
+            "emoji": "🕌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Holen Sie sich Zubehör oder ein Souvenir mit Fahrradmotiv."
+          },
+          {
+            "name": "Stände an der Promenade",
+            "tip": "Verkaufen oft handgemachte maritime Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Szerezz be kiegészítőket vagy egy kerékpáros témájú szuvenírt."
+          },
+          {
+            "name": "Bódék a sétányon",
+            "tip": "Gyakran árulnak kézzel készített tengeri szuveníreket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Luați niște accesorii sau un suvenir cu tematică de ciclism."
+          },
+          {
+            "name": "Tarabe de-a lungul promenadei",
+            "tip": "Adesea vând suveniruri maritime realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Pick up some accessories or a cycling-themed souvenir."
+          },
+          {
+            "name": "Stalls along the promenade",
+            "tip": "Often sell handmade maritime-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
+          "Einige Straßen können Kopfsteinpflaster haben, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer an sicheren Orten ab.",
+          "Nutzen Sie die Radwege entlang der Küste für die beste Erfahrung."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizd a kerékpárodat, különösen a fékeket és a gumikat.",
+          "Néhány utca macskaköves lehet, vezess óvatosan.",
+          "Mindig biztonságos helyen zárd le a kerékpárodat.",
+          "Használd a tengerparti kerékpárutakat a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
+          "Unele străzi pot avea pavele, mergeți cu prudență.",
+          "Încuiați-vă întotdeauna bicicleta în locuri sigure.",
+          "Folosiți pistele de biciclete de-a lungul coastei pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Check your bike before leaving, especially brakes and tires.",
+          "Some streets can be cobbled, ride with caution.",
+          "Always lock your bike in secure locations.",
+          "Use the cycling paths along the coast for the best experience."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 17.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikolaus-Kathedrale",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala Sf. Nicolae",
+            "en": "St. Nicholas Cathedral"
+          },
+          "coords": [
+            37.56,
+            47.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem wichtigen spirituellen Zentrum. Normalerweise gibt es in der Nähe Parkplätze.",
+            "hu": "Kezdje a napot ennél a fontos spirituális központnál. Általában van a közelben parkoló.",
+            "ro": "Începeți ziua la acest centru spiritual important. De obicei, există parcare în apropiere.",
+            "en": "Start your day at this important spiritual center. There's usually parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Sultan-Suleiman-Moschee",
+            "hu": "Szultán Szulejmán Mecset",
+            "ro": "Moscheea Sultan Suleiman",
+            "en": "Sultan Suleiman Mosque"
+          },
+          "coords": [
+            37.525,
+            47.08
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein kurzer Sprung mit dem Auto, um die religiöse Vielfalt der Stadt zu sehen.",
+            "hu": "Egy rövid autózás, hogy megtekintse a város vallási sokszínűségét.",
+            "ro": "O scurtă călătorie cu mașina pentru a vedea diversitatea religioasă a orașului.",
+            "en": "A short hop by car to see the city's religious diversity."
+          }
+        },
+        {
+          "name": {
+            "de": "Dramatheater",
+            "hu": "Drámai Színház",
+            "ro": "Teatrul Dramatic",
+            "en": "Drama Theater"
+          },
+          "coords": [
+            37.549,
+            47.096
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum. Dies ist Ihr erster Stopp in einem fußläufigen Cluster.",
+            "hu": "Parkolj a központban. Ez az első megállód egy gyalogosan bejárható klaszterben.",
+            "ro": "Parcați în centru. Aceasta este prima dvs. oprire într-un grup pietonal.",
+            "en": "Park in the center. This is your first stop in a walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus mit dem Turm",
+            "hu": "Ház a toronnyal",
+            "ro": "Casa cu Turn",
+            "en": "House with the Tower"
+          },
+          "coords": [
+            37.548,
+            47.095
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:09",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater entfernt, lassen Sie das Auto stehen.",
+            "hu": "Egy rövid séta a színháztól, hagyd az autót.",
+            "ro": "La o scurtă plimbare de teatru, lăsați mașina.",
+            "en": "A short walk from the theater, leave the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Wasserturm",
+            "hu": "Régi víztorony",
+            "ro": "Vechiul Turn de Apă",
+            "en": "Old Water Tower"
+          },
+          "coords": [
+            37.545,
+            47.0965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im Zentrum mit der besten Aussicht.",
+            "hu": "Fejezd be a központi sétát a legjobb kilátással.",
+            "ro": "Încheiați-vă plimbarea centrală cu cea mai bună priveliște.",
+            "en": "Finish your central walk with the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "City Garden"
+          },
+          "coords": [
+            37.531,
+            47.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Park für die Mittagspause. Viele Parkmöglichkeiten.",
+            "hu": "Vezess el a parkba ebédidőre. Rengeteg parkolási lehetőség.",
+            "ro": "Conduceți la parc pentru pauza de prânz. O mulțime de locuri de parcare.",
+            "en": "Drive to the park for your lunch break. Plenty of parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Asow-Promenade",
+            "hu": "Azovi sétány",
+            "ro": "Promenada Azov",
+            "en": "Azov Promenade"
+          },
+          "coords": [
+            37.539,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:28",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang vom Garten zum Meer, um den Tag ausklingen zu lassen.",
+            "hu": "Egy pihentető séta a kertből a tengerpartra, hogy lezárja a napot.",
+            "ro": "O plimbare relaxantă de la grădină la malul mării pentru a încheia ziua.",
+            "en": "A relaxing walk from the garden to the seaside to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit dem spirituellen Erbe Mariupols in der Nikolaus-Kathedrale und der Sultan-Suleiman-Moschee. Danach fahren Sie ins Stadtzentrum, parken und erkunden zu Fuß den Kultur-Cluster: das Dramatheater, das Haus mit dem Turm und den Alten Wasserturm. Am Nachmittag fahren Sie zum grünen Stadtgarten für eine ausgedehnte Pause. Von dort aus ist es nur ein kurzer Spaziergang zur Asow-Promenade, wo Sie den Rest des Tages mit Blick auf das Meer verbringen und die Vorteile des 'Park & Walk'-Ansatzes genießen.",
+        "hu": "Autós túrád Mariupol spirituális örökségével kezdődik a Szent Miklós-székesegyháznál és a Szultán Szulejmán Mecsetnél. Ezután a városközpontba hajtasz, leparkolsz, és gyalog fedezed fel a kulturális klasztert: a Drámai Színházat, a Tornyos Házat és a Régi Víztornyot. Délután a zöld Városkertbe mész egy hosszabb szünetre. Innen csak egy rövid séta az Azovi sétány, ahol a nap hátralévő részét a tengerre nézve töltheted, élvezve a 'Parkolj és Sétálj' megközelítés előnyeit.",
+        "ro": "Turul dvs. cu mașina începe cu moștenirea spirituală a Mariupolului la Catedrala Sf. Nicolae și Moscheea Sultan Suleiman. Apoi, conduceți în centrul orașului, parcați și explorați pe jos grupul cultural: Teatrul Dramatic, Casa cu Turn și Vechiul Turn de Apă. După-amiaza, conduceți spre Grădina Orașului pentru o pauză extinsă. De acolo, este o scurtă plimbare până la Promenada Azov, unde vă petreceți restul zilei cu vedere la mare, bucurându-vă de abordarea 'parchează și plimbă-te'.",
+        "en": "Your car tour starts with Mariupol's spiritual heritage at St. Nicholas Cathedral and the Sultan Suleiman Mosque. You then drive to the city center, park, and explore the cultural cluster on foot: the Drama Theater, the House with the Tower, and the Old Water Tower. In the afternoon, you drive to the green City Garden for an extended break. From there, it's a short walk to the Azov Promenade, where you spend the rest of the day overlooking the sea, enjoying the 'park and walk' approach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fisch vom Asowschen Meer",
+            "tip": "Probieren Sie lokal gefangenen Fisch, oft gebraten oder geräuchert, in Restaurants in der Nähe der Promenade."
+          },
+          {
+            "name": "Chebureki",
+            "tip": "Ein frittierter Teigfladen mit Fleisch- oder Käsefüllung, ein beliebter Straßensnack."
+          },
+          {
+            "name": "Restaurant 'Vintage'",
+            "tip": "Bekannt für seine europäische Küche und stilvolle Atmosphäre, gut für ein entspanntes Abendessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azovi-tengeri hal",
+            "tip": "Kóstold meg a helyben fogott halat, gyakran sütve vagy füstölve, a sétány melletti éttermekben."
+          },
+          {
+            "name": "Csebureki",
+            "tip": "Sült tészta hússal vagy sajttal töltve, népszerű utcai étel."
+          },
+          {
+            "name": "Vintage Étterem",
+            "tip": "Európai konyhájáról és stílusos hangulatáról ismert, jó egy pihentető vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește din Marea Azov",
+            "tip": "Încercați pește prins local, adesea prăjit sau afumat, la restaurantele de lângă promenadă."
+          },
+          {
+            "name": "Chebureki",
+            "tip": "O plăcintă prăjită umplută cu carne sau brânză, o gustare populară de stradă."
+          },
+          {
+            "name": "Restaurant 'Vintage'",
+            "tip": "Cunoscut pentru bucătăria sa europeană și atmosfera elegantă, bun pentru o cină relaxantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea of Azov fish",
+            "tip": "Try locally caught fish, often fried or smoked, at restaurants near the promenade."
+          },
+          {
+            "name": "Chebureki",
+            "tip": "A deep-fried turnover filled with meat or cheese, a popular street food snack."
+          },
+          {
+            "name": "Restaurant 'Vintage'",
+            "tip": "Known for its European cuisine and stylish atmosphere, good for a relaxed dinner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Pischanka",
+            "tip": "Eine kurze Autofahrt von der Hauptpromenade entfernt für einen ruhigeren Strandabschnitt.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Linksufriger Park",
+            "tip": "Fahren Sie über den Fluss für eine andere Perspektive und einen weitläufigen Park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Frühmorgens in der Kathedrale",
+            "tip": "Besuchen Sie die Kathedrale früh, um die Stille und das Morgenlicht zu erleben.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pischanka strand",
+            "tip": "Rövid autóútra a fő sétánytól egy csendesebb partszakaszért.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bal parti park",
+            "tip": "Hajts át a folyón egy másik perspektíváért és egy tágas parkért.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kora reggel a székesegyházban",
+            "tip": "Látogass el korán a székesegyházba, hogy megtapasztald a csendet és a reggeli fényeket.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Pishchanka",
+            "tip": "O scurtă călătorie cu mașina de la promenada principală pentru o porțiune de plajă mai liniștită.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Parcul Malul Stâng",
+            "tip": "Conduceți peste râu pentru o perspectivă diferită și un parc întins.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dimineața devreme la catedrală",
+            "tip": "Vizitați catedrala devreme pentru a experimenta liniștea și lumina dimineții.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pishchanka Beach",
+            "tip": "A short drive from the main promenade for a quieter stretch of sand.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Left Bank Park",
+            "tip": "Drive across the river for a different perspective and an expansive park.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Early morning at the Cathedral",
+            "tip": "Visit the cathedral early to experience the quiet and the morning light.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum 'PortCity'",
+            "tip": "Ein modernes Einkaufszentrum, wenn Sie bekannte Marken oder ein Kino suchen."
+          },
+          {
+            "name": "Souvenirläden in der Nähe des Dramatheaters",
+            "tip": "Hier finden Sie typische Souvenirs wie Magnete und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "'PortCity' Bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont, ha ismerős márkákat vagy mozit keresel."
+          },
+          {
+            "name": "Szuvenírboltok a Drámai Színház közelében",
+            "tip": "Itt tipikus szuveníreket, például mágneseket és képeslapokat találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall 'PortCity'",
+            "tip": "Un centru comercial modern dacă sunteți în căutarea unor mărci cunoscute sau a unui cinematograf."
+          },
+          {
+            "name": "Magazine de suveniruri lângă Teatrul Dramatic",
+            "tip": "Aici veți găsi suveniruri tipice, cum ar fi magneți și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "'PortCity' Mall",
+            "tip": "A modern shopping center if you're looking for familiar brands or a cinema."
+          },
+          {
+            "name": "Souvenir shops near the Drama Theater",
+            "tip": "Here you'll find typical souvenirs like magnets and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Navigations-App, um Parkplätze in der Nähe Ihrer Cluster zu finden.",
+          "Achten Sie auf die Parkregeln im Stadtzentrum.",
+          "Ein Auto ermöglicht es Ihnen, auch weiter entfernte Strände oder Parks zu besuchen.",
+          "Der Verkehr kann zu Stoßzeiten stark sein, planen Sie entsprechend."
+        ],
+        "hu": [
+          "Használj navigációs alkalmazást, hogy parkolóhelyeket találj a klaszterek közelében.",
+          "Figyelj a parkolási szabályokra a városközpontban.",
+          "Az autó lehetővé teszi, hogy távolabbi strandokat vagy parkokat is meglátogass.",
+          "A forgalom csúcsidőben erős lehet, tervezz ennek megfelelően."
+        ],
+        "ro": [
+          "Folosiți o aplicație de navigație pentru a găsi parcări lângă grupurile dvs.",
+          "Fiți atenți la regulile de parcare din centrul orașului.",
+          "O mașină vă permite să vizitați și plaje sau parcuri mai îndepărtate.",
+          "Traficul poate fi aglomerat la orele de vârf, planificați în consecință."
+        ],
+        "en": [
+          "Use a navigation app to find parking near your clusters.",
+          "Be mindful of parking regulations in the city center.",
+          "A car allows you to visit more distant beaches or parks.",
+          "Traffic can be heavy during peak hours, plan accordingly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dramatheater",
+            "hu": "Drámai Színház",
+            "ro": "Teatrul Dramatic",
+            "en": "Drama Theater"
+          },
+          "coords": [
+            37.549,
+            47.096
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Verkehrsknotenpunkt der Stadt. Viele Buslinien halten hier.",
+            "hu": "Kezdje a város központi közlekedési csomópontjánál. Sok buszjárat megáll itt.",
+            "ro": "Începeți la nodul central de transport al orașului. Multe linii de autobuz opresc aici.",
+            "en": "Start at the city's central transport hub. Many bus lines stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus mit dem Turm",
+            "hu": "Ház a toronnyal",
+            "ro": "Casa cu Turn",
+            "en": "House with the Tower"
+          },
+          "coords": [
+            37.548,
+            47.095
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Theater, Ihr erster Spaziergang im Cluster.",
+            "hu": "Egy rövid séta a színháztól, az első séta a klaszterben.",
+            "ro": "La o scurtă plimbare de teatru, prima dvs. plimbare în grup.",
+            "en": "A short walk from the theater, your first walk in the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuindshi-Kunstmuseum",
+            "hu": "Kuindzsi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Kuindzhi",
+            "en": "Kuindzhi Art Museum"
+          },
+          "coords": [
+            37.54,
+            47.092
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus für ein paar Haltestellen, um zum Kunstviertel zu gelangen.",
+            "hu": "Menj néhány megállót busszal a művészeti negyedbe.",
+            "ro": "Luați un autobuz pentru câteva stații pentru a ajunge în cartierul artistic.",
+            "en": "Take a bus for a few stops to get to the art district."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Wasserturm",
+            "hu": "Régi víztorony",
+            "ro": "Vechiul Turn de Apă",
+            "en": "Old Water Tower"
+          },
+          "coords": [
+            37.545,
+            47.0965
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie vom Museum zurück ins Zentrum, um die Aussicht vom Turm zu genießen.",
+            "hu": "Sétálj vissza a múzeumból a központba, hogy élvezd a kilátást a toronyból.",
+            "ro": "Plimbați-vă înapoi de la muzeu spre centru pentru a admira priveliștea din turn.",
+            "en": "Walk back from the museum towards the center for the tower view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "City Garden"
+          },
+          "coords": [
+            37.531,
+            47.085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus oder eine Marschrutka in Richtung Meer, um den Park zu erreichen.",
+            "hu": "Menj busszal vagy marsrutkával a tenger felé, hogy elérd a parkot.",
+            "ro": "Luați un autobuz sau o marshrutka spre mare pentru a ajunge la parc.",
+            "en": "Take a bus or marshrutka towards the sea to reach the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Asow-Promenade",
+            "hu": "Azovi sétány",
+            "ro": "Promenada Azov",
+            "en": "Azov Promenade"
+          },
+          "coords": [
+            37.539,
+            47.078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:43",
+          "stay_min": 180,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang, um den Tag am Meer ausklingen zu lassen.",
+            "hu": "Egy utolsó séta, hogy a napot a tengernél fejezd be.",
+            "ro": "O ultimă plimbare pentru a încheia ziua la malul mării.",
+            "en": "A final walk to end your day by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am belebten Dramatheater. Ein kurzer Spaziergang führt Sie zu den architektonischen Juwelen des Zentrums. Dann bringt Sie ein Bus zum Kuindshi-Museum für Ihre Dosis Kultur. Nach einem Spaziergang zurück zum Wasserturm für die Aussicht nehmen Sie einen weiteren Bus zum entspannenden Stadtgarten. Der Tag endet mit einem Spaziergang zur Asow-Promenade, wo Sie den Sonnenuntergang genießen können, alles leicht erreichbar durch das effiziente Netz von Bussen und Marschrutkas.",
+        "hu": "Tömegközlekedési utazásod a nyüzsgő Drámai Színháznál kezdődik. Egy rövid séta elvezet a központ építészeti gyöngyszemeihez. Ezután egy busz visz a Kuindzsi Múzeumba a kulturális feltöltődésért. Miután visszasétáltál a Víztoronyhoz a kilátásért, egy másik busszal a pihentető Városkertbe jutsz. A nap az Azovi sétányon tett sétával zárul, ahol élvezheted a naplementét, mindezt könnyen elérhetővé teszi a buszok és marsrutkák hatékony hálózata.",
+        "ro": "Călătoria dvs. cu transportul public începe la aglomeratul Teatru Dramatic. O scurtă plimbare vă duce la bijuteriile arhitecturale din centru. Apoi, un autobuz vă duce la Muzeul Kuindzhi pentru doza dvs. de cultură. După o plimbare înapoi la Turnul de Apă pentru priveliște, luați un alt autobuz spre relaxanta Grădină a Orașului. Ziua se încheie cu o plimbare până la Promenada Azov pentru a vă bucura de apus, totul fiind ușor accesibil prin rețeaua eficientă de autobuze și marshrutka.",
+        "en": "Your public transit journey starts at the bustling Drama Theater. A short walk takes you to the architectural gems of the center. Then, a bus whisks you away to the Kuindzhi Museum for your dose of culture. After walking back to the Water Tower for the view, you'll take another bus to the relaxing City Garden. The day culminates with a walk to the Azov Promenade to enjoy the sunset, all made easy by the efficient network of buses and marshrutkas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirozhki",
+            "tip": "Gebackene oder gebratene Brötchen mit verschiedenen Füllungen, ein perfekter Snack für unterwegs."
+          },
+          {
+            "name": "Kaffee und Kuchen",
+            "tip": "Suchen Sie nach kleinen Cafés in der Nähe von Bushaltestellen für eine schnelle Stärkung."
+          },
+          {
+            "name": "Food-Court in 'PortCity'",
+            "tip": "Wenn Sie in der Nähe sind, bietet der Food-Court eine Vielzahl von schnellen und erschwinglichen Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirozsok",
+            "tip": "Sült vagy főtt tészta különféle töltelékekkel, tökéletes útközbeni harapnivaló."
+          },
+          {
+            "name": "Kávé és sütemény",
+            "tip": "Keress kis kávézókat a buszmegállók közelében egy gyors feltöltődéshez."
+          },
+          {
+            "name": "'PortCity' ételudvar",
+            "tip": "Ha a közelben vagy, az ételudvar számos gyors és megfizethető lehetőséget kínál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirozhki",
+            "tip": "Chifle coapte sau prăjite cu diverse umpluturi, o gustare perfectă pentru drum."
+          },
+          {
+            "name": "Cafea și prăjituri",
+            "tip": "Căutați cafenele mici lângă stațiile de autobuz pentru o refacere rapidă."
+          },
+          {
+            "name": "Food court în 'PortCity'",
+            "tip": "Dacă sunteți în apropiere, food court-ul oferă o varietate de opțiuni rapide și accesibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirozhki",
+            "tip": "Baked or fried buns with various fillings, a perfect on-the-go snack."
+          },
+          {
+            "name": "Coffee and cake",
+            "tip": "Look for small cafes near bus stops for a quick refuel."
+          },
+          {
+            "name": "Food court in 'PortCity'",
+            "tip": "If you're nearby, the food court offers a variety of quick and affordable options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine Fahrt mit der Straßenbahn",
+            "tip": "Manchmal ist die Fahrt selbst die beste Zeit zum Entspannen. Wählen Sie eine Linie, die durch ruhigere Wohngebiete führt.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Eine Bank im Stadtgarten",
+            "tip": "Der Park ist groß genug, um einen ruhigen Platz abseits der Hauptwege zu finden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Das Ufer am frühen Abend",
+            "tip": "Nachdem die Tagesbesucher gegangen sind, wird die Promenade ruhiger.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villamosozás",
+            "tip": "Néha maga az utazás a legjobb kikapcsolódás. Válassz egy csendesebb lakónegyedeken áthaladó vonalat.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "Egy pad a Városkertben",
+            "tip": "A park elég nagy ahhoz, hogy egy csendes helyet találj a fő utaktól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "A part kora este",
+            "tip": "Miután a napközbeni látogatók elmentek, a sétány csendesebbé válik.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "O plimbare cu tramvaiul",
+            "tip": "Uneori, călătoria în sine este cel mai bun moment de relaxare. Alegeți o linie care trece prin zone rezidențiale mai liniștite.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "O bancă în Grădina Orașului",
+            "tip": "Parcul este suficient de mare pentru a găsi un loc liniștit departe de căile principale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul mării seara devreme",
+            "tip": "După ce pleacă vizitatorii de o zi, promenada devine mai liniștită.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "A tram ride",
+            "tip": "Sometimes the journey itself is the best quiet time. Pick a line that goes through quieter residential areas.",
+            "emoji": "🚊"
+          },
+          {
+            "name": "A bench in the City Garden",
+            "tip": "The park is large enough to find a quiet spot away from the main paths.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "The waterfront in the early evening",
+            "tip": "After the day crowds have left, the promenade becomes more tranquil.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske an Bushaltestellen",
+            "tip": "Verkaufen oft Zeitungen, Snacks und manchmal kleine Souvenirs."
+          },
+          {
+            "name": "Unterführungen",
+            "tip": "In einigen größeren Unterführungen gibt es kleine Läden, die alles Mögliche verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok a buszmegállókban",
+            "tip": "Gyakran árulnak újságokat, rágcsálnivalókat és néha apró szuveníreket."
+          },
+          {
+            "name": "Aluljárók",
+            "tip": "Néhány nagyobb aluljáróban kis boltok vannak, ahol mindenféle dolgot árulnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri la stațiile de autobuz",
+            "tip": "Adesea vând ziare, gustări și uneori mici suveniruri."
+          },
+          {
+            "name": "Pasaje subterane",
+            "tip": "În unele pasaje subterane mai mari există mici magazine care vând tot felul de lucruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks at bus stops",
+            "tip": "Often sell newspapers, snacks, and sometimes small souvenirs."
+          },
+          {
+            "name": "Underpasses",
+            "tip": "Some larger underpasses have small shops selling all sorts of things."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Laden Sie einen Offline-Fahrplan herunter oder machen Sie Screenshots von den Routen.",
+          "Marschrutkas (Kleinbusse) sind flexibel, aber oft überfüllt. Winken Sie, um sie anzuhalten.",
+          "Seien Sie auf Stoßzeiten vorbereitet, wenn Busse und Straßenbahnen sehr voll sein können."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a tömegközlekedésre, hogy pénzt takaríts meg.",
+          "Tölts le egy offline menetrendet, vagy készíts képernyőképeket az útvonalakról.",
+          "A marsrutkák (kisbuszok) rugalmasak, de gyakran zsúfoltak. Integess, hogy megállítsd őket.",
+          "Készülj fel a csúcsidőre, amikor a buszok és villamosok nagyon tele lehetnek."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
+          "Descărcați un orar offline sau faceți capturi de ecran ale rutelor.",
+          "Marshrutka (microbuzele) sunt flexibile, dar adesea aglomerate. Faceți semn pentru a le opri.",
+          "Fiți pregătiți pentru orele de vârf, când autobuzele și tramvaiele pot fi foarte aglomerate."
+        ],
+        "en": [
+          "Buy a day pass for public transport to save money.",
+          "Download an offline transit map or take screenshots of the routes.",
+          "Marshrutkas (minibuses) are flexible but often crowded. Wave to hail them.",
+          "Be prepared for peak hours when buses and trams can be very full."
+        ]
+      }
+    }
+  }
+}

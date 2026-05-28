@@ -1,0 +1,1604 @@
+{
+  "city_id": "bulgaria-koprivshtitsa-cities-v2",
+  "anchor": {
+    "name": "Koprivshtitsa",
+    "coords": [
+      24.0833,
+      42.6333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Oslekow-Haus",
+            "hu": "Oszlekov-ház",
+            "ro": "Casa Oslekov",
+            "en": "Oslekov House"
+          },
+          "coords": [
+            24.0841,
+            42.6355
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Innenausstattung, die den Wohlstand der ehemaligen Besitzer widerspiegelt.",
+            "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
+            "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
+            "en": "Admire the rich interior decorations reflecting the prosperity of its former owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljutow-Haus",
+            "hu": "Ljutov-ház",
+            "ro": "Casa Lyutov",
+            "en": "Lyutov House"
+          },
+          "coords": [
+            24.0845,
+            42.6358
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschön bemalte blaue Veranda und die ovalen Decken.",
+            "hu": "Keresse a gyönyörűen festett kék verandát és az ovális mennyezeteket.",
+            "ro": "Observați veranda albastră pictată frumos și tavanele ovale unice.",
+            "en": "Look for the beautifully painted blue veranda and its unique oval ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            24.0833,
+            42.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe. Beachten Sie die unschätzbaren Ikonen und die bescheidene Architektur.",
+            "hu": "Egy csendes, békés hely. Figyelje meg a felbecsülhetetlen értékű ikonokat és a szerény építészetet.",
+            "ro": "Un loc de liniște. Observați icoanele de neprețuit și arhitectura sa modestă.",
+            "en": "A place of tranquility. Note the priceless icons and its humble architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Karawelow-Haus",
+            "hu": "Karavelov-ház",
+            "ro": "Casa Karavelov",
+            "en": "Karavelov House"
+          },
+          "coords": [
+            24.0811,
+            42.6335
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einflussreiche Karawelow-Familie und ihre Rolle in der bulgarischen Geschichte.",
+            "hu": "Ismerje meg a befolyásos Karavelov családot és szerepüket a bolgár történelemben.",
+            "ro": "Aflați despre influenta familie Karavelov și rolul lor în istoria Bulgariei.",
+            "en": "Learn about the influential Karavelov family and their role in Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Debeljanow-Haus",
+            "hu": "Debeljanov-ház",
+            "ro": "Casa Debelyanov",
+            "en": "Debelyanov House"
+          },
+          "coords": [
+            24.0829,
+            42.6348
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Haus des Dichters Dimtscho Debeljanow. Spüren Sie die poetische Atmosphäre dieses Ortes.",
+            "hu": "Dimcso Debeljanov költő otthona. Érezze a hely költői hangulatát.",
+            "ro": "Casa poetului Dimcho Debelyanov. Simțiți atmosfera poetică a acestui loc.",
+            "en": "The home of poet Dimcho Debelyanov. Feel the poetic atmosphere of the place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kableschkow-Haus",
+            "hu": "Kableskov-ház",
+            "ro": "Casa Kableshkov",
+            "en": "Kableshkov House"
+          },
+          "coords": [
+            24.0865,
+            42.6369
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des Aprilaufstands und die Rolle von Todor Kableschkow.",
+            "hu": "Ismerje meg az áprilisi felkelés történetét és Todor Kableskov szerepét.",
+            "ro": "Descoperiți istoria Răscoalei din Aprilie și rolul lui Todor Kableshkov.",
+            "en": "Discover the history of the April Uprising and Todor Kableshkov's role."
+          }
+        },
+        {
+          "name": {
+            "de": "Benkowski-Haus",
+            "hu": "Benkovszki-ház",
+            "ro": "Casa Benkovski",
+            "en": "Benkovski House"
+          },
+          "coords": [
+            24.0888,
+            42.6375
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dem Revolutionsführer Georgi Benkowski gewidmet. Ein Muss für Geschichtsinteressierte.",
+            "hu": "Georgi Benkovszki forradalmi vezetőnek szentelték. Történelemkedvelőknek kötelező.",
+            "ro": "Dedicată liderului revoluționar Georgi Benkovski. O vizită obligatorie pentru pasionații de istorie.",
+            "en": "Dedicated to the revolutionary leader Georgi Benkovski. A must-visit for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke des ersten Schusses",
+            "hu": "Az első puskalövés hídja",
+            "ro": "Podul Primului Foc",
+            "en": "First Shot Bridge"
+          },
+          "coords": [
+            24.0825,
+            42.6325
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein symbolischer Ort, an dem der Aprilaufstand begann. Perfekt für ein Erinnerungsfoto.",
+            "hu": "Szimbolikus hely, ahol az áprilisi felkelés elkezdődött. Tökéletes egy emlékképhez.",
+            "ro": "Un loc simbolic unde a început Răscoala din Aprilie. Perfect pentru o fotografie comemorativă.",
+            "en": "A symbolic spot where the April Uprising began. Perfect for a commemorative photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Reise in die bulgarische Wiedergeburt und erkunden Sie die prächtigen Häuser von Kopriwschtiza. Am Vormittag besuchen Sie die kunstvoll dekorierten Residenzen wie das Oslekow- und Ljutow-Haus. Nach dem Mittagessen in einer traditionellen Mehana führt Sie Ihr Weg zur Kirche Maria Himmelfahrt und zu den Häusern berühmter Revolutionäre. Der Nachmittag ist dem Eintauchen in die revolutionäre Geschichte der Stadt gewidmet, die an der symbolträchtigen Brücke des ersten Schusses endet.",
+        "hu": "Kezdje a napot egy utazással a bolgár újjászületés korába, felfedezve Koprivstica csodálatos házait. Délelőtt látogassa meg a gazdagon díszített rezidenciákat, mint az Oszlekov- és Ljutov-házat. Ebéd után egy hagyományos mehanában az útja a Mária Mennybemenetele templomhoz és a híres forradalmárok házaihoz vezet. A délutánt a város forradalmi történelmének megismerésével tölti, amely az Első Puskalövés szimbolikus hídjánál zárul.",
+        "ro": "Începeți ziua cu o călătorie în Renașterea Bulgară, explorând casele magnifice din Koprivștița. Dimineața, vizitați reședințele decorate artistic, cum ar fi Casa Oslekov și Casa Lyutov. După prânzul la o mehana tradițională, drumul vă duce la Biserica Adormirea Maicii Domnului și casele unor revoluționari faimoși. După-amiaza este dedicată scufundării în istoria revoluționară a orașului, culminând la simbolic Podul Primului Foc.",
+        "en": "Start your day with a journey into the Bulgarian Revival era by exploring the magnificent houses of Koprivshtitsa. In the morning, visit the intricately decorated residences like the Oslekov and Lyutov Houses. After lunch at a traditional mehana, your path leads to the Church of the Assumption and the homes of famous revolutionaries. The afternoon is for immersing yourself in the town's revolutionary history, ending at the symbolic First Shot Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kopriwschtiza Bohnensuppe",
+            "tip": "Eine herzhafte lokale Spezialität, oft in einem Brottopf serviert."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In dieser Region perfekt zubereitet, besonders in Restaurants mit traditionellem Grill."
+          },
+          {
+            "name": "Baniza",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koprivsticai bableves",
+            "tip": "Kiadós helyi specialitás, gyakran cipóban tálalva."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Tökéletesen elkészítve ezen a vidéken, különösen a hagyományos grillezővel rendelkező éttermekben."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós sajttal töltött leveles tészta, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de fasole din Koprivștița",
+            "tip": "O specialitate locală consistentă, adesea servită în pâine."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "Preparat la perfecțiune în această regiune, în special la restaurantele cu grătar tradițional."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă din foietaj cu brânză sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koprivshtitsa Bean Soup",
+            "tip": "A hearty local specialty, often served in a bread bowl."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "Cooked to perfection in this region, especially at restaurants with a traditional grill."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A flaky pastry filled with sirene cheese, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Topolniza",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Ein kurzer Spaziergang zu einem der Hügel bietet eine malerische Aussicht auf die farbenfrohen Häuser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof eines Hauses-Museums",
+            "tip": "Nach der Besichtigung eines Hauses, verweilen Sie einen Moment im ruhigen, blumengeschmückten Innenhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topolnica folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dombok a város felett",
+            "tip": "Egy rövid séta a dombok egyikére festői kilátást nyújt a színes házakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy múzeumház udvara",
+            "tip": "A ház megtekintése után töltsön el egy percet a csendes, virágos udvaron.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Topolnița",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "O scurtă plimbare pe unul dintre dealuri oferă o priveliște pitorească asupra caselor colorate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea unei case-muzeu",
+            "tip": "După vizitarea unei case, petreceți un moment în curtea liniștită și plină de flori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Topolnitsa River",
+            "tip": "Find a quiet bench by the riverside and listen to the murmur of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills above the town",
+            "tip": "A short walk up one of the hills offers a scenic viewpoint over the colorful houses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of a house-museum",
+            "tip": "After touring a house, linger for a moment in the quiet, flower-filled courtyard.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgewebten Teppichen, Holzschnitzereien und Keramik."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Obwohl nicht lokal hergestellt, sind bulgarische Rosenprodukte ein beliebtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel szőtt szőnyegeket, fafaragásokat és kerámiákat."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bár nem helyben készülnek, a bolgár rózsatermékek népszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare țesute manual, sculpturi în lemn și ceramică."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Deși nu sunt produse local, produsele bulgare din trandafiri sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for hand-woven rugs, wood carvings, and pottery."
+          },
+          {
+            "name": "Rose Oil Products",
+            "tip": "While not produced locally, Bulgarian rose products are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen der Stadt mit Kopfsteinpflaster gepflastert sind.",
+          "Kaufen Sie ein Kombiticket für den Besuch mehrerer Haus-Museen, um Geld zu sparen.",
+          "Prüfen Sie die Öffnungszeiten im Voraus, da einige Häuser saisonale Öffnungszeiten haben könnten.",
+          "Nehmen Sie sich Zeit und genießen Sie die einzigartige Atmosphäre, hetzen Sie nicht von einem Ort zum nächsten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a város utcái macskakövesek.",
+          "Vásároljon kombinált jegyet több múzeumház meglátogatásához, hogy pénzt takarítson meg.",
+          "Ellenőrizze előre a nyitvatartási időket, mivel néhány ház szezonális nyitvatartással rendelkezhet.",
+          "Szánjon rá időt és élvezze az egyedi hangulatot, ne rohanjon egyik helyről a másikra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile orașului sunt pavate cu piatră cubică.",
+          "Cumpărați un bilet combinat pentru a vizita mai multe case-muzeu pentru a economisi bani.",
+          "Verificați orele de program în avans, deoarece unele case pot avea program sezonier.",
+          "Luați-vă timp și bucurați-vă de atmosfera unică, nu vă grăbiți de la un loc la altul."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town's streets are cobblestoned.",
+          "Purchase a combination ticket to visit multiple house-museums to save money.",
+          "Check the opening hours in advance, as some houses may have seasonal schedules.",
+          "Take your time and soak in the unique atmosphere; don't rush from one site to another."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Benkowski-Haus",
+            "hu": "Benkovszki-ház",
+            "ro": "Casa Benkovski",
+            "en": "Benkovski House"
+          },
+          "coords": [
+            24.0888,
+            42.6375
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beginnen Sie am höchsten Punkt, um die Aussicht zu genießen, bevor Sie hinunterfahren.",
+            "hu": "Kezdje a legmagasabb ponton, hogy élvezze a kilátást, mielőtt leereszkedik.",
+            "ro": "Începeți de la cel mai înalt punct pentru a vă bucura de priveliște înainte de a coborî.",
+            "en": "Start at the highest point to enjoy the view before cycling down."
+          }
+        },
+        {
+          "name": {
+            "de": "Kableschkow-Haus",
+            "hu": "Kableskov-ház",
+            "ro": "Casa Kableshkov",
+            "en": "Kableshkov House"
+          },
+          "coords": [
+            24.0865,
+            42.6369
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des Aprilaufstands und die Rolle von Todor Kableschkow.",
+            "hu": "Ismerje meg az áprilisi felkelés történetét és Todor Kableskov szerepét.",
+            "ro": "Descoperiți istoria Răscoalei din Aprilie și rolul lui Todor Kableshkov.",
+            "en": "Discover the history of the April Uprising and Todor Kableshkov's role."
+          }
+        },
+        {
+          "name": {
+            "de": "Oslekow-Haus",
+            "hu": "Oszlekov-ház",
+            "ro": "Casa Oslekov",
+            "en": "Oslekov House"
+          },
+          "coords": [
+            24.0841,
+            42.6355
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Innenausstattung, die den Wohlstand der ehemaligen Besitzer widerspiegelt.",
+            "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
+            "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
+            "en": "Admire the rich interior decorations reflecting the prosperity of its former owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljutow-Haus",
+            "hu": "Ljutov-ház",
+            "ro": "Casa Lyutov",
+            "en": "Lyutov House"
+          },
+          "coords": [
+            24.0845,
+            42.6358
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschön bemalte blaue Veranda und die ovalen Decken.",
+            "hu": "Keresse a gyönyörűen festett kék verandát és az ovális mennyezeteket.",
+            "ro": "Observați veranda albastră pictată frumos și tavanele ovale unice.",
+            "en": "Look for the beautifully painted blue veranda and its unique oval ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            24.0833,
+            42.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe. Beachten Sie die unschätzbaren Ikonen und die bescheidene Architektur.",
+            "hu": "Egy csendes, békés hely. Figyelje meg a felbecsülhetetlen értékű ikonokat és a szerény építészetet.",
+            "ro": "Un loc de liniște. Observați icoanele de neprețuit și arhitectura sa modestă.",
+            "en": "A place of tranquility. Note the priceless icons and its humble architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Debeljanow-Haus",
+            "hu": "Debeljanov-ház",
+            "ro": "Casa Debelyanov",
+            "en": "Debelyanov House"
+          },
+          "coords": [
+            24.0829,
+            42.6348
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Haus des Dichters Dimtscho Debeljanow. Spüren Sie die poetische Atmosphäre dieses Ortes.",
+            "hu": "Dimcso Debeljanov költő otthona. Érezze a hely költői hangulatát.",
+            "ro": "Casa poetului Dimcho Debelyanov. Simțiți atmosfera poetică a acestui loc.",
+            "en": "The home of poet Dimcho Debelyanov. Feel the poetic atmosphere of the place."
+          }
+        },
+        {
+          "name": {
+            "de": "Karawelow-Haus",
+            "hu": "Karavelov-ház",
+            "ro": "Casa Karavelov",
+            "en": "Karavelov House"
+          },
+          "coords": [
+            24.0811,
+            42.6335
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einflussreiche Karawelow-Familie und ihre Rolle in der bulgarischen Geschichte.",
+            "hu": "Ismerje meg a befolyásos Karavelov családot és szerepüket a bolgár történelemben.",
+            "ro": "Aflați despre influenta familie Karavelov și rolul lor în istoria Bulgariei.",
+            "en": "Learn about the influential Karavelov family and their role in Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke des ersten Schusses",
+            "hu": "Az első puskalövés hídja",
+            "ro": "Podul Primului Foc",
+            "en": "First Shot Bridge"
+          },
+          "coords": [
+            24.0825,
+            42.6325
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem symbolischen Ort. Ein toller letzter Halt.",
+            "hu": "Fejezze be a túrát ezen a szimbolikus helyen. Nagyszerű utolsó megálló.",
+            "ro": "Încheiați turul la acest loc simbolic. O ultimă oprire excelentă.",
+            "en": "End your tour at this symbolic location. A great final stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kopriwschtiza auf zwei Rädern. Beginnen Sie Ihren Tag auf den Hügeln beim Benkowski-Haus und rollen Sie dann bergab, um die architektonischen Juwelen der Stadt zu entdecken. Am Vormittag besuchen Sie das Kableschkow- und das Oslekow-Haus. Nach einem schnellen Mittagessen geht es weiter zum Herzen der Stadt, zur Kirche und den Häusern der Dichter und Denker. Der Nachmittag bietet eine entspannte Fahrt entlang des Flusses, die an der historischen Brücke des ersten Schusses endet und Ihnen einen umfassenden Überblick über die Stadt verschafft.",
+        "hu": "Fedezze fel Koprivsticát két keréken. Kezdje a napot a dombokon, a Benkovszki-háznál, majd guruljon lefelé, hogy felfedezze a város építészeti gyöngyszemeit. Délelőtt látogassa meg a Kableskov- és Oszlekov-házat. Egy gyors ebéd után irány a város szíve, a templom, valamint a költők és gondolkodók házai. A délután egy laza tekerést kínál a folyó mentén, amely a történelmi Első Puskalövés hídjánál ér véget, teljes képet adva a városról.",
+        "ro": "Explorați Koprivștița pe două roți. Începeți ziua de pe dealurile de la Casa Benkovski, apoi coborâți pentru a descoperi bijuteriile arhitecturale ale orașului. Dimineața, vizitați Casa Kableshkov și Casa Oslekov. După un prânz rapid, îndreptați-vă spre inima orașului, la biserică și la casele poeților și gânditorilor. După-amiaza oferă o plimbare relaxantă de-a lungul râului, terminându-se la istoricul Pod al Primului Foc, oferindu-vă o imagine completă a orașului.",
+        "en": "Explore Koprivshtitsa on two wheels. Start your day on the hills at the Benkovski House, then roll downhill to discover the town's architectural gems. In the morning, visit the Kableshkov and Oslekov Houses. After a quick lunch, head to the heart of the town, visiting the church and the homes of poets and thinkers. The afternoon offers a relaxed ride along the river, ending at the historic First Shot Bridge, giving you a comprehensive view of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kopriwschtiza Bohnensuppe",
+            "tip": "Eine herzhafte lokale Spezialität, oft in einem Brottopf serviert."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In dieser Region perfekt zubereitet, besonders in Restaurants mit traditionellem Grill."
+          },
+          {
+            "name": "Baniza",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koprivsticai bableves",
+            "tip": "Kiadós helyi specialitás, gyakran cipóban tálalva."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Tökéletesen elkészítve ezen a vidéken, különösen a hagyományos grillezővel rendelkező éttermekben."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós sajttal töltött leveles tészta, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de fasole din Koprivștița",
+            "tip": "O specialitate locală consistentă, adesea servită în pâine."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "Preparat la perfecțiune în această regiune, în special la restaurantele cu grătar tradițional."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă din foietaj cu brânză sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koprivshtitsa Bean Soup",
+            "tip": "A hearty local specialty, often served in a bread bowl."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "Cooked to perfection in this region, especially at restaurants with a traditional grill."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A flaky pastry filled with sirene cheese, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Topolniza",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Ein kurzer Spaziergang zu einem der Hügel bietet eine malerische Aussicht auf die farbenfrohen Häuser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof eines Hauses-Museums",
+            "tip": "Nach der Besichtigung eines Hauses, verweilen Sie einen Moment im ruhigen, blumengeschmückten Innenhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topolnica folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dombok a város felett",
+            "tip": "Egy rövid séta a dombok egyikére festői kilátást nyújt a színes házakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy múzeumház udvara",
+            "tip": "A ház megtekintése után töltsön el egy percet a csendes, virágos udvaron.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Topolnița",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "O scurtă plimbare pe unul dintre dealuri oferă o priveliște pitorească asupra caselor colorate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea unei case-muzeu",
+            "tip": "După vizitarea unei case, petreceți un moment în curtea liniștită și plină de flori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Topolnitsa River",
+            "tip": "Find a quiet bench by the riverside and listen to the murmur of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills above the town",
+            "tip": "A short walk up one of the hills offers a scenic viewpoint over the colorful houses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of a house-museum",
+            "tip": "After touring a house, linger for a moment in the quiet, flower-filled courtyard.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgewebten Teppichen, Holzschnitzereien und Keramik."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Obwohl nicht lokal hergestellt, sind bulgarische Rosenprodukte ein beliebtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel szőtt szőnyegeket, fafaragásokat és kerámiákat."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bár nem helyben készülnek, a bolgár rózsatermékek népszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare țesute manual, sculpturi în lemn și ceramică."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Deși nu sunt produse local, produsele bulgare din trandafiri sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for hand-woven rugs, wood carvings, and pottery."
+          },
+          {
+            "name": "Rose Oil Products",
+            "tip": "While not produced locally, Bulgarian rose products are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf das Kopfsteinpflaster, das für Fahrräder eine Herausforderung sein kann.",
+          "Schließen Sie Ihr Fahrrad an den dafür vorgesehenen Ständern ab, während Sie die Häuser besichtigen.",
+          "Ein Mountainbike ist aufgrund des Geländes besser geeignet als ein Rennrad.",
+          "Planen Sie zusätzliche Zeit für das Schieben des Fahrrads auf steileren Abschnitten ein."
+        ],
+        "hu": [
+          "Vigyázzon a macskakőre, amely kihívást jelenthet a kerékpárosok számára.",
+          "Zárja le a kerékpárját a kijelölt állványoknál, amíg a házakat nézi.",
+          "A terep miatt egy hegyikerékpár alkalmasabb, mint egy országúti kerékpár.",
+          "Tervezzen plusz időt a kerékpár tolására a meredekebb szakaszokon."
+        ],
+        "ro": [
+          "Fiți atenți la pavajul de piatră cubică, care poate fi dificil pentru biciclete.",
+          "Legați-vă bicicleta la suporturile desemnate în timp ce vizitați casele.",
+          "O bicicletă de munte este mai potrivită decât una de șosea din cauza terenului.",
+          "Planificați timp suplimentar pentru a împinge bicicleta pe secțiunile mai abrupte."
+        ],
+        "en": [
+          "Be careful on the cobblestones, which can be challenging for bikes.",
+          "Lock your bike at designated racks while you tour the houses.",
+          "A mountain bike is more suitable than a road bike due to the terrain.",
+          "Allow for extra time for walking your bike up steeper sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz am Stadtrand",
+            "hu": "Parkoló a város szélén",
+            "ro": "Parcare la marginea orașului",
+            "en": "Parking at the edge of town"
+          },
+          "coords": [
+            24.0899,
+            42.6385
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das historische Zentrum zu Fuß, um Verkehr und enge Gassen zu vermeiden.",
+            "hu": "Parkoljon itt, és fedezze fel a történelmi központot gyalog, hogy elkerülje a forgalmat és a szűk utcákat.",
+            "ro": "Parcați aici și explorați centrul istoric pe jos pentru a evita traficul și străzile înguste.",
+            "en": "Park here and explore the historic center on foot to avoid traffic and narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Benkowski-Haus",
+            "hu": "Benkovszki-ház",
+            "ro": "Casa Benkovski",
+            "en": "Benkovski House"
+          },
+          "coords": [
+            24.0888,
+            42.6375
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ihr erster Halt nach dem Parken. Ein großartiger Einstieg in die Geschichte der Stadt.",
+            "hu": "Az első megálló a parkolás után. Nagyszerű bevezetés a város történelmébe.",
+            "ro": "Prima oprire după parcare. O introducere excelentă în istoria orașului.",
+            "en": "Your first stop after parking. A great introduction to the town's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kableschkow-Haus",
+            "hu": "Kableskov-ház",
+            "ro": "Casa Kableshkov",
+            "en": "Kableshkov House"
+          },
+          "coords": [
+            24.0865,
+            42.6369
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang bergab vom Benkowski-Haus.",
+            "hu": "Rövid séta lefelé a Benkovszki-háztól.",
+            "ro": "O scurtă plimbare la vale de la Casa Benkovski.",
+            "en": "A short walk downhill from the Benkovski House."
+          }
+        },
+        {
+          "name": {
+            "de": "Oslekow-Haus & Ljutow-Haus",
+            "hu": "Oszlekov-ház és Ljutov-ház",
+            "ro": "Casa Oslekov & Casa Lyutov",
+            "en": "Oslekov & Lyutov Houses"
+          },
+          "coords": [
+            24.0843,
+            42.6356
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:47",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden prächtigen Häuser liegen nahe beieinander, planen Sie genügend Zeit für beide ein.",
+            "hu": "Ez a két csodálatos ház közel van egymáshoz, tervezzen elég időt mindkettőre.",
+            "ro": "Aceste două case magnifice sunt aproape una de alta, planificați suficient timp pentru ambele.",
+            "en": "These two magnificent houses are close to each other, plan enough time for both."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            24.0833,
+            42.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein guter Ort für eine Pause und Besinnung nach dem Mittagessen.",
+            "hu": "Jó hely egy kis pihenésre és elmélkedésre ebéd után.",
+            "ro": "Un loc bun pentru o pauză și reflecție după prânz.",
+            "en": "A good place for a pause and reflection after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Debeljanow-Haus & Karawelow-Haus",
+            "hu": "Debeljanov-ház és Karavelov-ház",
+            "ro": "Casa Debelyanov & Casa Karavelov",
+            "en": "Debelyanov & Karavelov Houses"
+          },
+          "coords": [
+            24.082,
+            42.6341
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Häuser des Dichters und der Politiker, die das Schicksal Bulgariens geprägt haben.",
+            "hu": "Fedezze fel a költő és a politikusok házait, akik formálták Bulgária sorsát.",
+            "ro": "Explorați casele poetului și ale politicienilor care au modelat destinul Bulgariei.",
+            "en": "Explore the homes of the poet and the politicians who shaped Bulgaria's destiny."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke des ersten Schusses",
+            "hu": "Az első puskalövés hídja",
+            "ro": "Podul Primului Foc",
+            "en": "First Shot Bridge"
+          },
+          "coords": [
+            24.0825,
+            42.6325
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem historischen Ort, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a sétát ezen a történelmi helyen, mielőtt visszatér az autójához.",
+            "ro": "Încheiați turul pe jos la acest loc istoric înainte de a vă întoarce la mașină.",
+            "en": "End your walking tour at this historic spot before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Auto an und erleben Sie die Magie von Kopriwschtiza zu Fuß. Nachdem Sie am Rande des historischen Zentrums geparkt haben, beginnt Ihr Spaziergang. Der Morgen ist den am Hang gelegenen Häusern wie dem Benkowski- und Kableschkow-Haus gewidmet. Nach dem Mittagessen erkunden Sie den zentralen Teil der Stadt, einschließlich der prächtigen Oslekow- und Ljutow-Häuser. Der Nachmittag führt Sie zu den südlicheren Sehenswürdigkeiten und endet an der Brücke des ersten Schusses, einem perfekten Abschluss Ihres historischen Spaziergangs.",
+        "hu": "Érkezzen autóval, és tapasztalja meg Koprivstica varázsát gyalog. Miután leparkolt a történelmi központ szélén, kezdődik a séta. A délelőtt a hegyoldalban található házaknak, mint a Benkovszki- és Kableskov-háznak van szentelve. Ebéd után felfedezi a város központi részét, beleértve a csodálatos Oszlekov- és Ljutov-házat. A délután a délebbre fekvő látnivalókhoz vezet, és az Első Puskalövés hídjánál ér véget, tökéletes lezárásaként a történelmi sétának.",
+        "ro": "Ajungeți cu mașina și experimentați magia orașului Koprivștița pe jos. După ce parcați la marginea centrului istoric, începe plimbarea. Dimineața este dedicată caselor de pe versant, cum ar fi Casa Benkovski și Casa Kableshkov. După prânz, explorați partea centrală a orașului, inclusiv magnificile Case Oslekov și Lyutov. După-amiaza vă poartă spre obiectivele sudice, culminând la Podul Primului Foc, o încheiere perfectă a plimbării dumneavoastră istorice.",
+        "en": "Arrive by car and experience the magic of Koprivshtitsa on foot. After parking at the edge of the historic center, your walking tour begins. The morning is dedicated to the hillside houses like the Benkovski and Kableshkov Houses. After lunch, you'll explore the central part of town, including the magnificent Oslekov and Lyutov Houses. The afternoon takes you to the southern sights, culminating at the First Shot Bridge, a perfect end to your historical stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kopriwschtiza Bohnensuppe",
+            "tip": "Eine herzhafte lokale Spezialität, oft in einem Brottopf serviert."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In dieser Region perfekt zubereitet, besonders in Restaurants mit traditionellem Grill."
+          },
+          {
+            "name": "Baniza",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koprivsticai bableves",
+            "tip": "Kiadós helyi specialitás, gyakran cipóban tálalva."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Tökéletesen elkészítve ezen a vidéken, különösen a hagyományos grillezővel rendelkező éttermekben."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós sajttal töltött leveles tészta, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de fasole din Koprivștița",
+            "tip": "O specialitate locală consistentă, adesea servită în pâine."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "Preparat la perfecțiune în această regiune, în special la restaurantele cu grătar tradițional."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă din foietaj cu brânză sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koprivshtitsa Bean Soup",
+            "tip": "A hearty local specialty, often served in a bread bowl."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "Cooked to perfection in this region, especially at restaurants with a traditional grill."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A flaky pastry filled with sirene cheese, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Topolniza",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Ein kurzer Spaziergang zu einem der Hügel bietet eine malerische Aussicht auf die farbenfrohen Häuser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof eines Hauses-Museums",
+            "tip": "Nach der Besichtigung eines Hauses, verweilen Sie einen Moment im ruhigen, blumengeschmückten Innenhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topolnica folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dombok a város felett",
+            "tip": "Egy rövid séta a dombok egyikére festői kilátást nyújt a színes házakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy múzeumház udvara",
+            "tip": "A ház megtekintése után töltsön el egy percet a csendes, virágos udvaron.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Topolnița",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "O scurtă plimbare pe unul dintre dealuri oferă o priveliște pitorească asupra caselor colorate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea unei case-muzeu",
+            "tip": "După vizitarea unei case, petreceți un moment în curtea liniștită și plină de flori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Topolnitsa River",
+            "tip": "Find a quiet bench by the riverside and listen to the murmur of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills above the town",
+            "tip": "A short walk up one of the hills offers a scenic viewpoint over the colorful houses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of a house-museum",
+            "tip": "After touring a house, linger for a moment in the quiet, flower-filled courtyard.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgewebten Teppichen, Holzschnitzereien und Keramik."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Obwohl nicht lokal hergestellt, sind bulgarische Rosenprodukte ein beliebtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel szőtt szőnyegeket, fafaragásokat és kerámiákat."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bár nem helyben készülnek, a bolgár rózsatermékek népszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare țesute manual, sculpturi în lemn și ceramică."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Deși nu sunt produse local, produsele bulgare din trandafiri sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for hand-woven rugs, wood carvings, and pottery."
+          },
+          {
+            "name": "Rose Oil Products",
+            "tip": "While not produced locally, Bulgarian rose products are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar, das Auto ist nur für die An- und Abreise notwendig.",
+          "Parken Sie auf den ausgewiesenen Parkplätzen am Stadtrand.",
+          "Das Fahren im historischen Zentrum wird nicht empfohlen und ist teilweise eingeschränkt.",
+          "Planen Sie einen ganzen Tag ein, um die Stadt ohne Eile zu erkunden."
+        ],
+        "hu": [
+          "A legtöbb látnivaló gyalogosan elérhető, az autó csak az érkezéshez és távozáshoz szükséges.",
+          "Parkoljon a város szélén található kijelölt parkolókban.",
+          "A történelmi központban való vezetés nem ajánlott és részben korlátozott.",
+          "Tervezzen egy egész napot, hogy rohanás nélkül fedezze fel a várost."
+        ],
+        "ro": [
+          "Majoritatea atracțiilor sunt accesibile pe jos; mașina este necesară doar pentru sosire și plecare.",
+          "Parcați în parcările desemnate de la marginea orașului.",
+          "Conducerea în centrul istoric nu este recomandată și este parțial restricționată.",
+          "Planificați o zi întreagă pentru a explora orașul fără grabă."
+        ],
+        "en": [
+          "Most sights are within walking distance; the car is only necessary for arrival and departure.",
+          "Park in the designated car parks on the outskirts of the town.",
+          "Driving in the historic center is not recommended and is partially restricted.",
+          "Plan a full day to explore the town without rushing."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Kopriwschtiza",
+            "hu": "Koprivstica buszpályaudvar",
+            "ro": "Autogara Koprivștița",
+            "en": "Koprivshtitsa Bus Station"
+          },
+          "coords": [
+            24.0801,
+            42.6395
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour von hier aus. Die meisten Sehenswürdigkeiten sind zu Fuß erreichbar.",
+            "hu": "Kezdje innen a túrát. A legtöbb látnivaló gyalogosan elérhető.",
+            "ro": "Începeți turul de aici. Majoritatea atracțiilor sunt accesibile pe jos.",
+            "en": "Start your tour from here. Most sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Oslekow-Haus",
+            "hu": "Oszlekov-ház",
+            "ro": "Casa Oslekov",
+            "en": "Oslekov House"
+          },
+          "coords": [
+            24.0841,
+            42.6355
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Innenausstattung, die den Wohlstand der ehemaligen Besitzer widerspiegelt.",
+            "hu": "Csodálja meg a gazdag belső díszítést, amely a korábbi tulajdonosok gazdagságát tükrözi.",
+            "ro": "Admirați decorațiunile interioare bogate, care reflectă prosperitatea foștilor proprietari.",
+            "en": "Admire the rich interior decorations reflecting the prosperity of its former owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljutow-Haus",
+            "hu": "Ljutov-ház",
+            "ro": "Casa Lyutov",
+            "en": "Lyutov House"
+          },
+          "coords": [
+            24.0845,
+            42.6358
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschön bemalte blaue Veranda und die ovalen Decken.",
+            "hu": "Keresse a gyönyörűen festett kék verandát és az ovális mennyezeteket.",
+            "ro": "Observați veranda albastră pictată frumos și tavanele ovale unice.",
+            "en": "Look for the beautifully painted blue veranda and its unique oval ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Maria Himmelfahrt",
+            "hu": "Mária Mennybemenetele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            24.0833,
+            42.6341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe. Beachten Sie die unschätzbaren Ikonen und die bescheidene Architektur.",
+            "hu": "Egy csendes, békés hely. Figyelje meg a felbecsülhetetlen értékű ikonokat és a szerény építészetet.",
+            "ro": "Un loc de liniște. Observați icoanele de neprețuit și arhitectura sa modestă.",
+            "en": "A place of tranquility. Note the priceless icons and its humble architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Karawelow-Haus",
+            "hu": "Karavelov-ház",
+            "ro": "Casa Karavelov",
+            "en": "Karavelov House"
+          },
+          "coords": [
+            24.0811,
+            42.6335
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die einflussreiche Karawelow-Familie und ihre Rolle in der bulgarischen Geschichte.",
+            "hu": "Ismerje meg a befolyásos Karavelov családot és szerepüket a bolgár történelemben.",
+            "ro": "Aflați despre influenta familie Karavelov și rolul lor în istoria Bulgariei.",
+            "en": "Learn about the influential Karavelov family and their role in Bulgarian history."
+          }
+        },
+        {
+          "name": {
+            "de": "Debeljanow-Haus",
+            "hu": "Debeljanov-ház",
+            "ro": "Casa Debelyanov",
+            "en": "Debelyanov House"
+          },
+          "coords": [
+            24.0829,
+            42.6348
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Haus des Dichters Dimtscho Debeljanow. Spüren Sie die poetische Atmosphäre dieses Ortes.",
+            "hu": "Dimcso Debeljanov költő otthona. Érezze a hely költői hangulatát.",
+            "ro": "Casa poetului Dimcho Debelyanov. Simțiți atmosfera poetică a acestui loc.",
+            "en": "The home of poet Dimcho Debelyanov. Feel the poetic atmosphere of the place."
+          }
+        },
+        {
+          "name": {
+            "de": "Kableschkow-Haus",
+            "hu": "Kableskov-ház",
+            "ro": "Casa Kableshkov",
+            "en": "Kableshkov House"
+          },
+          "coords": [
+            24.0865,
+            42.6369
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des Aprilaufstands und die Rolle von Todor Kableschkow.",
+            "hu": "Ismerje meg az áprilisi felkelés történetét és Todor Kableskov szerepét.",
+            "ro": "Descoperiți istoria Răscoalei din Aprilie și rolul lui Todor Kableshkov.",
+            "en": "Discover the history of the April Uprising and Todor Kableshkov's role."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke des ersten Schusses",
+            "hu": "Az első puskalövés hídja",
+            "ro": "Podul Primului Foc",
+            "en": "First Shot Bridge"
+          },
+          "coords": [
+            24.0825,
+            42.6325
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein symbolischer Ort, an dem der Aprilaufstand begann. Perfekt für ein Erinnerungsfoto.",
+            "hu": "Szimbolikus hely, ahol az áprilisi felkelés elkezdődött. Tökéletes egy emlékképhez.",
+            "ro": "Un loc simbolic unde a început Răscoala din Aprilie. Perfect pentru o fotografie comemorativă.",
+            "en": "A symbolic spot where the April Uprising began. Perfect for a commemorative photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft mit dem Bus in Kopriwschtiza entfaltet sich die Stadt vor Ihnen wie ein lebendiges Museum. Die gesamte Stadt ist Ihr Wandercluster. Beginnen Sie mit den prächtigen Häusern wie dem Oslekow- und Ljutow-Haus. Nach einem traditionellen Mittagessen tauchen Sie tiefer in die Geschichte ein und besuchen die Kirche und die Häuser der Nationalhelden. Beenden Sie Ihren Tag an der Brücke des ersten Schusses, bevor Sie gemütlich zum Busbahnhof zurückschlendern.",
+        "hu": "Miután busszal megérkezik Koprivsticába, a város élő múzeumként terül el Ön előtt. Az egész város a séta klasztere. Kezdje a csodálatos házakkal, mint az Oszlekov- és Ljutov-ház. Egy hagyományos ebéd után merüljön el mélyebben a történelemben, látogassa meg a templomot és a nemzeti hősök házait. Fejezze be a napot az Első Puskalövés hídjánál, mielőtt kényelmesen visszasétál a buszpályaudvarra.",
+        "ro": "După sosirea cu autobuzul în Koprivștița, orașul se desfășoară în fața dumneavoastră ca un muzeu viu. Întregul oraș este clusterul dumneavoastră de plimbare. Începeți cu casele magnifice precum Casa Oslekov și Casa Lyutov. După un prânz tradițional, adânciți-vă în istorie vizitând biserica și casele eroilor naționali. Încheiați ziua la Podul Primului Foc înainte de a vă plimba agale înapoi la autogară.",
+        "en": "Upon arriving by bus in Koprivshtitsa, the town unfolds before you like a living museum. The entire town is your walking cluster. Start with the magnificent houses like the Oslekov and Lyutov House. After a traditional lunch, delve deeper into history by visiting the church and the homes of national heroes. End your day at the First Shot Bridge before taking a leisurely stroll back to the bus station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kopriwschtiza Bohnensuppe",
+            "tip": "Eine herzhafte lokale Spezialität, oft in einem Brottopf serviert."
+          },
+          {
+            "name": "Gegrilltes Lamm",
+            "tip": "In dieser Region perfekt zubereitet, besonders in Restaurants mit traditionellem Grill."
+          },
+          {
+            "name": "Baniza",
+            "tip": "Ein Blätterteiggebäck mit Salzlakenkäse, perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koprivsticai bableves",
+            "tip": "Kiadós helyi specialitás, gyakran cipóban tálalva."
+          },
+          {
+            "name": "Grillezett bárány",
+            "tip": "Tökéletesen elkészítve ezen a vidéken, különösen a hagyományos grillezővel rendelkező éttermekben."
+          },
+          {
+            "name": "Banica",
+            "tip": "Sós sajttal töltött leveles tészta, tökéletes egy gyors harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de fasole din Koprivștița",
+            "tip": "O specialitate locală consistentă, adesea servită în pâine."
+          },
+          {
+            "name": "Miel la grătar",
+            "tip": "Preparat la perfecțiune în această regiune, în special la restaurantele cu grătar tradițional."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "O plăcintă din foietaj cu brânză sărată, perfectă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Koprivshtitsa Bean Soup",
+            "tip": "A hearty local specialty, often served in a bread bowl."
+          },
+          {
+            "name": "Grilled Lamb",
+            "tip": "Cooked to perfection in this region, especially at restaurants with a traditional grill."
+          },
+          {
+            "name": "Banitsa",
+            "tip": "A flaky pastry filled with sirene cheese, perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Flusses Topolniza",
+            "tip": "Finden Sie eine ruhige Bank am Flussufer und lauschen Sie dem Plätschern des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel über der Stadt",
+            "tip": "Ein kurzer Spaziergang zu einem der Hügel bietet eine malerische Aussicht auf die farbenfrohen Häuser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hof eines Hauses-Museums",
+            "tip": "Nach der Besichtigung eines Hauses, verweilen Sie einen Moment im ruhigen, blumengeschmückten Innenhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Topolnica folyó partja",
+            "tip": "Keressen egy csendes padot a folyóparton, és hallgassa a víz csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dombok a város felett",
+            "tip": "Egy rövid séta a dombok egyikére festői kilátást nyújt a színes házakra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Egy múzeumház udvara",
+            "tip": "A ház megtekintése után töltsön el egy percet a csendes, virágos udvaron.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Topolnița",
+            "tip": "Găsiți o bancă liniștită pe malul râului și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile de deasupra orașului",
+            "tip": "O scurtă plimbare pe unul dintre dealuri oferă o priveliște pitorească asupra caselor colorate.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea unei case-muzeu",
+            "tip": "După vizitarea unei case, petreceți un moment în curtea liniștită și plină de flori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Topolnitsa River",
+            "tip": "Find a quiet bench by the riverside and listen to the murmur of the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills above the town",
+            "tip": "A short walk up one of the hills offers a scenic viewpoint over the colorful houses.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Courtyard of a house-museum",
+            "tip": "After touring a house, linger for a moment in the quiet, flower-filled courtyard.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgewebten Teppichen, Holzschnitzereien und Keramik."
+          },
+          {
+            "name": "Rosenölprodukte",
+            "tip": "Obwohl nicht lokal hergestellt, sind bulgarische Rosenprodukte ein beliebtes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel szőtt szőnyegeket, fafaragásokat és kerámiákat."
+          },
+          {
+            "name": "Rózsaolaj termékek",
+            "tip": "Bár nem helyben készülnek, a bolgár rózsatermékek népszerű ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Căutați covoare țesute manual, sculpturi în lemn și ceramică."
+          },
+          {
+            "name": "Produse cu ulei de trandafiri",
+            "tip": "Deși nu sunt produse local, produsele bulgare din trandafiri sunt un suvenir popular."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Look for hand-woven rugs, wood carvings, and pottery."
+          },
+          {
+            "name": "Rose Oil Products",
+            "tip": "While not produced locally, Bulgarian rose products are a popular souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrpläne von und nach Sofia oder Plovdiv im Voraus.",
+          "Die Stadt ist klein genug, um sie vollständig zu Fuß zu erkunden; es sind keine lokalen Verkehrsmittel erforderlich.",
+          "Kaufen Sie ein Kombiticket, um Geld für den Eintritt in die Museen zu sparen.",
+          "Geben Sie sich genügend Zeit für Ihren Rückweg zum Busbahnhof."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet Szófiából/Plovdivból és vissza.",
+          "A város elég kicsi ahhoz, hogy teljes egészében gyalog bejárható legyen; nincs szükség helyi közlekedésre.",
+          "Vásároljon kombinált jegyet, hogy pénzt takarítson meg a múzeumi belépőkön.",
+          "Szánjon elegendő időt a buszpályaudvarra való visszatérésre."
+        ],
+        "ro": [
+          "Verificați din timp orarele autobuzelor din și spre Sofia sau Plovdiv.",
+          "Orașul este suficient de mic pentru a fi explorat complet pe jos; nu este necesar transportul local.",
+          "Cumpărați un bilet combinat pentru a economisi bani la intrările în muzee.",
+          "Lăsați-vă suficient timp pentru a vă întoarce la autogară."
+        ],
+        "en": [
+          "Check the bus schedules to and from Sofia or Plovdiv in advance.",
+          "The town is small enough to be explored entirely on foot; no local transit is needed.",
+          "Buy a combination ticket to save money on museum entrance fees.",
+          "Allow plenty of time to get back to the bus station for your departure."
+        ]
+      }
+    }
+  }
+}

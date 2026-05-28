@@ -1,0 +1,1422 @@
+{
+  "city_id": "spain-teruel-cities-v2",
+  "anchor": {
+    "name": "Teruel",
+    "coords": [
+      -1.1067,
+      40.3456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Torico",
+            "hu": "Plaza del Torico",
+            "ro": "Plaza del Torico",
+            "en": "Plaza del Torico"
+          },
+          "coords": [
+            -1.1067,
+            40.3456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Treffpunkt der Stadt. Suchen Sie nach der kleinen Stierstatue!",
+            "hu": "A város találkozási pontja. Keresse a kis bika szobrát!",
+            "ro": "Punctul de întâlnire al orașului. Căutați mica statuie a taurului!",
+            "en": "The city's meeting point. Look for the small bull statue!"
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María de Mediavilla",
+            "hu": "Santa María de Mediavilla katedrális",
+            "ro": "Catedrala Santa María de Mediavilla",
+            "en": "Cathedral of Santa María de Mediavilla"
+          },
+          "coords": [
+            -1.1075,
+            40.345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die bemalte Mudéjar-Holzdecke, ein Meisterwerk.",
+            "hu": "Csodálja meg a festett mudéjar famennyezetet, egy igazi remekművet.",
+            "ro": "Admirați tavanul din lemn pictat în stil Mudéjar, o capodoperă.",
+            "en": "Marvel at the painted Mudéjar wooden ceiling, a true masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum der Liebenden von Teruel",
+            "hu": "A terueli szeretők mauzóleuma",
+            "ro": "Mausoleul Iubiților din Teruel",
+            "en": "Mausoleum of the Lovers of Teruel"
+          },
+          "coords": [
+            -1.108,
+            40.3445
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tragische Liebesgeschichte, die Romeo und Julia Konkurrenz macht.",
+            "hu": "Ismerje meg a tragikus szerelmi történetet, amely Romeó és Júliáéval vetekszik.",
+            "ro": "Descoperiți povestea de dragoste tragică ce rivalizează cu cea a lui Romeo și Julieta.",
+            "en": "Discover the tragic love story that rivals Romeo and Juliet."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de El Salvador",
+            "hu": "El Salvador-torony",
+            "ro": "Turnul El Salvador",
+            "en": "El Salvador Tower"
+          },
+          "coords": [
+            -1.106,
+            40.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für einen fantastischen Blick über die Stadt.",
+            "hu": "Másszon fel a toronyba a városra nyíló fantasztikus kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului.",
+            "en": "Climb the tower for a fantastic view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalinata del Óvalo",
+            "hu": "Escalinata del Óvalo",
+            "ro": "Scara Ovală (Escalinata del Óvalo)",
+            "en": "Escalinata del Óvalo"
+          },
+          "coords": [
+            -1.1055,
+            40.3425
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für Fotos, der die Altstadt mit dem neuen Teil verbindet.",
+            "hu": "Remek fotóhelyszín, összeköti az óvárost az új résszel.",
+            "ro": "Un loc excelent pentru fotografii, care leagă orașul vechi de partea nouă.",
+            "en": "A great spot for photos, connecting the old town with the new part."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de San Martín",
+            "hu": "San Martín-torony",
+            "ro": "Turnul San Martín",
+            "en": "San Martín Tower"
+          },
+          "coords": [
+            -1.11,
+            40.343
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein weiteres Juwel der Mudéjar-Architektur, wunderschön dekoriert.",
+            "hu": "A mudéjar építészet újabb gyöngyszeme, gyönyörűen díszítve.",
+            "ro": "O altă bijuterie a arhitecturii Mudéjar, frumos decorată.",
+            "en": "Another gem of Mudéjar architecture, beautifully decorated."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt Los Arcos",
+            "hu": "Los Arcos vízvezeték",
+            "ro": "Apeductul Los Arcos",
+            "en": "Los Arcos Aqueduct"
+          },
+          "coords": [
+            -1.112,
+            40.341
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses Renaissance-Aquädukts und genießen Sie die Aussicht.",
+            "hu": "Sétáljon végig ezen a reneszánsz vízvezetéken, és élvezze a kilátást.",
+            "ro": "Plimbați-vă de-a lungul acestui apeduct renascentist și bucurați-vă de priveliște.",
+            "en": "Take a stroll along this Renaissance aqueduct and enjoy the views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am pulsierenden Herzen von Teruel, der Plaza del Torico. Am Vormittag tauchen Sie in die Mudéjar-Kunst ein und besuchen die Kathedrale mit ihrer einzigartigen Decke und das nahegelegene Mausoleum der Liebenden, wo eine legendäre Romanze lebendig wird. Nach dem Mittagessen steigen Sie auf die Mudéjar-Türme, um einen Panoramablick zu genießen, bevor Sie einen entspannten Spaziergang entlang des beeindruckenden Aquädukts unternehmen. Beenden Sie Ihren Tag mit einem wohlverdienten Glas lokalen Weins.",
+        "hu": "Kezdje a napot Teruel lüktető szívében, a Plaza del Torico-n. A délelőtt folyamán merüljön el a mudéjar művészetben, látogasson el a katedrálisba az egyedülálló mennyezetével, és a közeli Szeretők Mauzóleumába, ahol egy legendás románc elevenedik meg. Ebéd után másszon fel a mudéjar tornyokba a panorámás kilátásért, mielőtt egy pihentető sétát tenne a lenyűgöző vízvezeték mentén. Zárja a napot egy jól megérdemelt pohár helyi borral.",
+        "ro": "Începeți ziua în inima vibrantă a Teruelului, Plaza del Torico. Dimineața, scufundați-vă în arta Mudéjar vizitând Catedrala cu tavanul său unic și Mausoleul Iubiților din apropiere, unde o poveste de dragoste legendară prinde viață. După prânz, urcați în turnurile Mudéjar pentru vederi panoramice, înainte de o plimbare relaxantă de-a lungul apeductului impresionant. Încheiați ziua cu un pahar de vin local bine meritat.",
+        "en": "Start your day in the vibrant heart of Teruel, the Plaza del Torico. In the morning, immerse yourself in Mudéjar art by visiting the Cathedral with its unique ceiling and the nearby Mausoleum of the Lovers, where a legendary romance comes to life. After lunch, climb the Mudéjar towers for panoramic views before a relaxing walk along the impressive aqueduct. End your day with a well-deserved glass of local wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Probieren Sie den weltberühmten Schinken, eine geschützte Ursprungsbezeichnung."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, oft mit Wurst und Trauben serviert."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Zartes Lamm, das nach traditionellen aragonesischen Methoden zubereitet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Kóstolja meg a világhírű sonkát, amely eredetvédett termék."
+          },
+          {
+            "name": "Migas",
+            "tip": "Kiadós étel zsemlemorzsából, gyakran kolbásszal és szőlővel tálalva."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós bárányhús, hagyományos aragóniai módszerekkel elkészítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Gustați șunca de renume mondial, o denumire de origine protejată."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, adesea servit cu cârnați și struguri."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Miel fraged gătit conform metodelor tradiționale aragoneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Taste the world-famous ham, a protected designation of origin product."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish made from breadcrumbs, often served with sausage and grapes."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Tender lamb cooked using traditional Aragonese methods."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Ein ruhiger Spaziergang oberhalb der Escalinata mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kleine Gärten, in denen Sie eine Pause einlegen und die Architektur bewundern können.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Turia",
+            "tip": "Folgen Sie dem Fluss für einen friedlichen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Csendes séta az Escalinata felett, gyönyörű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kis kertek, ahol megpihenhet és megcsodálhatja az építészetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turia folyó partja",
+            "tip": "Kövesse a folyót egy békés sétáért a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "O plimbare liniștită deasupra Scării Ovale, cu vederi frumoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Grădini mici unde puteți lua o pauză și admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Turia",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de mulțimi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "A quiet walk above the Escalinata with beautiful views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Small gardens where you can take a break and admire the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Turia River",
+            "tip": "Follow the river for a peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Teruel",
+            "tip": "Suchen Sie nach der charakteristischen grünen und weißen Keramik."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Jamón, Käse und Wein als köstliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terueli kerámia",
+            "tip": "Keresse a jellegzetes zöld és fehér kerámiákat."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon sonkát, sajtot és bort finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Teruel",
+            "tip": "Căutați ceramica distinctivă verde și albă."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați jamón, brânză și vin ca suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics of Teruel",
+            "tip": "Look for the distinctive green and white pottery."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy jamón, cheese, and wine as delicious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das historische Zentrum Kopfsteinpflaster hat.",
+          "Die Mudéjar-Türme haben enge Treppen.",
+          "Viele Geschäfte halten eine Siesta am Nachmittag, planen Sie Ihre Einkäufe entsprechend.",
+          "Probieren Sie das lokale Gebäck namens 'Suspiros de Amante' (Seufzer der Liebenden)."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a történelmi központ macskaköves.",
+          "A mudéjar tornyokban szűk lépcsők vannak.",
+          "Sok üzlet délutáni sziesztát tart, tervezze meg a vásárlást ennek megfelelően.",
+          "Kóstolja meg a helyi süteményt, a 'Suspiros de Amante'-t (Szeretők Sóhajai)."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul istoric are pavele.",
+          "Turnurile Mudéjar au scări înguste.",
+          "Multe magazine au siestă după-amiaza, planificați-vă cumpărăturile în consecință.",
+          "Încercați prăjiturile locale numite 'Suspiros de Amante' (Suspinele Iubitului)."
+        ],
+        "en": [
+          "Wear comfortable shoes as the historic center has cobblestones.",
+          "The Mudéjar towers have narrow stairs.",
+          "Many shops close for a siesta in the afternoon, plan your shopping accordingly.",
+          "Try the local pastry called 'Suspiros de Amante' (Lover's Sighs)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza del Torico",
+            "hu": "Plaza del Torico",
+            "ro": "Plaza del Torico",
+            "en": "Plaza del Torico"
+          },
+          "coords": [
+            -1.1067,
+            40.3456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
+            "hu": "Zárja le a kerékpárját, és élvezze a hangulatot, mielőtt megérkezik a tömeg.",
+            "ro": "Încuiați-vă bicicleta și bucurați-vă de atmosferă înainte de a veni mulțimea.",
+            "en": "Lock up your bike and enjoy the atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt Los Arcos",
+            "hu": "Los Arcos vízvezeték",
+            "ro": "Apeductul Los Arcos",
+            "en": "Los Arcos Aqueduct"
+          },
+          "coords": [
+            -1.112,
+            40.341
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine schöne Radtour zum Aquädukt am Morgen.",
+            "hu": "Egy kellemes reggeli biciklitúra a vízvezetékhez.",
+            "ro": "O plimbare frumoasă cu bicicleta dimineața până la apeduct.",
+            "en": "A nice morning bike ride to the aqueduct."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de San Martín",
+            "hu": "San Martín-torony",
+            "ro": "Turnul San Martín",
+            "en": "San Martín Tower"
+          },
+          "coords": [
+            -1.11,
+            40.343
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Keramikdetails aus nächster Nähe.",
+            "hu": "Csodálja meg közelről a kerámia részleteket.",
+            "ro": "Admirați detaliile ceramice de aproape.",
+            "en": "Admire the ceramic details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa María de Mediavilla",
+            "hu": "Santa María de Mediavilla katedrális",
+            "ro": "Catedrala Santa María de Mediavilla",
+            "en": "Cathedral of Santa María de Mediavilla"
+          },
+          "coords": [
+            -1.1075,
+            40.345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und nehmen Sie sich Zeit für die 'Sixtinische Kapelle' der Mudéjar-Kunst.",
+            "hu": "Parkolja le a kerékpárt, és szánjon időt a mudéjar művészet 'Sixtus-kápolnájára'.",
+            "ro": "Parcați-vă bicicleta și acordați-vă timp pentru 'Capela Sixtină' a artei Mudéjar.",
+            "en": "Park your bike and take your time for the 'Sistine Chapel' of Mudéjar art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum der Liebenden von Teruel",
+            "hu": "A terueli szeretők mauzóleuma",
+            "ro": "Mausoleul Iubiților din Teruel",
+            "en": "Mausoleum of the Lovers of Teruel"
+          },
+          "coords": [
+            -1.108,
+            40.3445
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein emotionaler Stopp, der zum Nachdenken anregt.",
+            "hu": "Egy érzelmes megálló, amely elgondolkodtat.",
+            "ro": "O oprire emoționantă care te pune pe gânduri.",
+            "en": "An emotional stop that makes you reflect."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de El Salvador",
+            "hu": "El Salvador-torony",
+            "ro": "Turnul El Salvador",
+            "en": "El Salvador Tower"
+          },
+          "coords": [
+            -1.106,
+            40.3435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die 360-Grad-Aussicht.",
+            "hu": "Megéri a fáradságot a 360 fokos kilátásért.",
+            "ro": "Urcușul merită pentru vederea de 360 de grade.",
+            "en": "The climb is worth it for the 360-degree views."
+          }
+        },
+        {
+          "name": {
+            "de": "Escalinata del Óvalo",
+            "hu": "Escalinata del Óvalo",
+            "ro": "Scara Ovală (Escalinata del Óvalo)",
+            "en": "Escalinata del Óvalo"
+          },
+          "coords": [
+            -1.1055,
+            40.3425
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die beeindruckende Treppe hinunter oder nehmen Sie den Aufzug daneben.",
+            "hu": "Guruljon le a lenyűgöző lépcsőn, vagy használja a mellette lévő liftet.",
+            "ro": "Coborâți pe scările impresionante sau luați liftul de lângă ele.",
+            "en": "Ride down the impressive staircase or take the elevator next to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Fahrrad und starten Sie an der Plaza del Torico. Ihre erste Fahrt führt Sie zum beeindruckenden Aquädukt Los Arcos. Erkunden Sie am Vormittag die Mudéjar-Türme und die Kathedrale und lassen Sie Ihr Fahrrad an den ausgewiesenen Plätzen stehen. Nach einer bewegenden Pause am Mausoleum der Liebenden fahren Sie zur berühmten Escalinata, einem perfekten Ort, um den Nachmittag ausklingen zu lassen, bevor Sie durch die charmanten Straßen zurückradeln.",
+        "hu": "Pattanjon kerékpárra, és induljon a Plaza del Torico-tól. Az első út a lenyűgöző Los Arcos vízvezetékhez vezet. Délelőtt fedezze fel a mudéjar tornyokat és a katedrálist, a kerékpárt a kijelölt helyeken hagyva. A Szeretők Mauzóleumánál tartott megható pihenő után tekerjen a híres Escalinatához, amely tökéletes hely a délután lezárására, mielőtt visszatekerne a bájos utcákon keresztül.",
+        "ro": "Urcați-vă pe bicicletă și porniți din Plaza del Torico. Prima dumneavoastră plimbare vă duce la impresionantul apeduct Los Arcos. În cursul dimineții, explorați turnurile Mudéjar și catedrala, lăsând bicicleta în locurile desemnate. După o pauză emoționantă la Mausoleul Iubiților, pedalați spre faimoasa Escalinata, un loc perfect pentru a încheia după-amiaza înainte de a vă întoarce pe străzile fermecătoare.",
+        "en": "Hop on your bike and start from Plaza del Torico. Your first ride takes you to the impressive Los Arcos Aqueduct. During the morning, explore the Mudéjar towers and the cathedral, leaving your bike at designated spots. After a moving break at the Mausoleum of the Lovers, pedal to the famous Escalinata, a perfect spot to wind down the afternoon before cycling back through the charming streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Probieren Sie den weltberühmten Schinken, eine geschützte Ursprungsbezeichnung."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, oft mit Wurst und Trauben serviert."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Zartes Lamm, das nach traditionellen aragonesischen Methoden zubereitet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Kóstolja meg a világhírű sonkát, amely eredetvédett termék."
+          },
+          {
+            "name": "Migas",
+            "tip": "Kiadós étel zsemlemorzsából, gyakran kolbásszal és szőlővel tálalva."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós bárányhús, hagyományos aragóniai módszerekkel elkészítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Gustați șunca de renume mondial, o denumire de origine protejată."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, adesea servit cu cârnați și struguri."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Miel fraged gătit conform metodelor tradiționale aragoneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Taste the world-famous ham, a protected designation of origin product."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish made from breadcrumbs, often served with sausage and grapes."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Tender lamb cooked using traditional Aragonese methods."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Ein ruhiger Spaziergang oberhalb der Escalinata mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kleine Gärten, in denen Sie eine Pause einlegen und die Architektur bewundern können.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Turia",
+            "tip": "Folgen Sie dem Fluss für einen friedlichen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Csendes séta az Escalinata felett, gyönyörű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kis kertek, ahol megpihenhet és megcsodálhatja az építészetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turia folyó partja",
+            "tip": "Kövesse a folyót egy békés sétáért a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "O plimbare liniștită deasupra Scării Ovale, cu vederi frumoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Grădini mici unde puteți lua o pauză și admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Turia",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de mulțimi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "A quiet walk above the Escalinata with beautiful views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Small gardens where you can take a break and admire the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Turia River",
+            "tip": "Follow the river for a peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Teruel",
+            "tip": "Suchen Sie nach der charakteristischen grünen und weißen Keramik."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Jamón, Käse und Wein als köstliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terueli kerámia",
+            "tip": "Keresse a jellegzetes zöld és fehér kerámiákat."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon sonkát, sajtot és bort finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Teruel",
+            "tip": "Căutați ceramica distinctivă verde și albă."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați jamón, brânză și vin ca suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics of Teruel",
+            "tip": "Look for the distinctive green and white pottery."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy jamón, cheese, and wine as delicious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Einbahnstraßen im Stadtzentrum.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch für kurze Stopps.",
+          "Einige Straßen können steil sein, seien Sie also auf einige Anstiege vorbereitet.",
+          "Nutzen Sie die Radwege entlang des Flusses für eine entspannte Fahrt."
+        ],
+        "hu": [
+          "Figyeljen az egyirányú utcákra a városközpontban.",
+          "Mindig zárja le jól a kerékpárját, még rövid megállókra is.",
+          "Néhány utca meredek lehet, így készüljön fel néhány emelkedőre.",
+          "Használja a folyó menti kerékpárutakat egy pihentető tekeréshez."
+        ],
+        "ro": [
+          "Fiți atenți la străzile cu sens unic din centrul orașului.",
+          "Întotdeauna încuiați-vă bine bicicleta, chiar și pentru opriri scurte.",
+          "Unele străzi pot fi abrupte, așa că fiți pregătiți pentru câteva urcări.",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o plimbare relaxantă."
+        ],
+        "en": [
+          "Be mindful of one-way streets in the city center.",
+          "Always lock your bike securely, even for short stops.",
+          "Some streets can be steep, so be prepared for a few climbs.",
+          "Use the bike paths along the river for a relaxing ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken am Zentrum & Plaza del Torico",
+            "hu": "Parkolás a központban és Plaza del Torico",
+            "ro": "Parcare în centru și Plaza del Torico",
+            "en": "Parking at the Center & Plaza del Torico"
+          },
+          "coords": [
+            -1.1067,
+            40.3456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Escalinata und beginnen Sie Ihren Rundgang hier.",
+            "hu": "Parkoljon az Escalinata közelében, és kezdje itt a sétát.",
+            "ro": "Parcați lângă Escalinata și începeți turul pietonal de aici.",
+            "en": "Park near the Escalinata and start your walking tour here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Mausoleum der Liebenden",
+            "hu": "Katedrális és a Szeretők Mauzóleuma",
+            "ro": "Catedrala și Mausoleul Iubiților",
+            "en": "Cathedral and Mausoleum of the Lovers"
+          },
+          "coords": [
+            -1.1078,
+            40.3448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen nebeneinander, planen Sie genügend Zeit ein.",
+            "hu": "Ez a két látnivaló egymás mellett található, tervezzen elegendő időt.",
+            "ro": "Aceste două atracții sunt una lângă alta, planificați suficient timp.",
+            "en": "These two attractions are next to each other, plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mudéjar-Türme (El Salvador & San Martín)",
+            "hu": "Mudéjar-tornyok (El Salvador és San Martín)",
+            "ro": "Turnurile Mudéjar (El Salvador și San Martín)",
+            "en": "Mudéjar Towers (El Salvador & San Martín)"
+          },
+          "coords": [
+            -1.108,
+            40.3432
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zwischen den beiden berühmten Türmen.",
+            "hu": "Rövid séta a két híres torony között.",
+            "ro": "O scurtă plimbare între cele două turnuri celebre.",
+            "en": "A short walk between the two famous towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinópolis",
+            "hu": "Dinópolis",
+            "ro": "Dinópolis",
+            "en": "Dinópolis"
+          },
+          "coords": [
+            -1.129,
+            40.369
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss für Familien und Dinosaurier-Fans. Planen Sie mindestens 3 Stunden ein.",
+            "hu": "Kötelező program családoknak és dinoszaurusz-rajongóknak. Tervezzen legalább 3 órát.",
+            "ro": "O vizită obligatorie pentru familii și fanii dinozaurilor. Planificați cel puțin 3 ore.",
+            "en": "A must-visit for families and dinosaur fans. Plan for at least 3 hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf das Aquädukt Los Arcos",
+            "hu": "Kilátás a Los Arcos vízvezetékre",
+            "ro": "Vedere spre Apeductul Los Arcos",
+            "en": "View of Los Arcos Aqueduct"
+          },
+          "coords": [
+            -1.112,
+            40.341
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem Rückweg für einen letzten Fotostopp am Aquädukt vorbei.",
+            "hu": "Visszafelé álljon meg egy utolsó fotóra a vízvezetéknél.",
+            "ro": "Pe drumul de întoarcere, opriți-vă la apeduct pentru o ultimă fotografie.",
+            "en": "On your way back, drive by the aqueduct for a final photo stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Zentrum von Teruel parken. Der Vormittag ist dem zu Fuß erkundbaren Mudéjar-Erbe gewidmet: Schlendern Sie von der Plaza del Torico zur Kathedrale, zum Mausoleum und zu den Zwillingstürmen. Tauchen Sie ein in die Geschichte und Kunst. Am Nachmittag steigen Sie ins Auto und reisen Millionen von Jahren zurück in der Zeit im Dinópolis, Europas größtem paläontologischem Park. Beenden Sie den Tag mit einer Fahrt vorbei am beleuchteten Aquädukt, einem perfekten Abschluss eines abwechslungsreichen Tages.",
+        "hu": "Kezdje a napot azzal, hogy leparkolja autóját Teruel központjában. A délelőtt a gyalogosan felfedezhető mudéjar örökségé: sétáljon a Plaza del Torico-tól a katedrálisig, a mauzóleumig és az ikertornyokig. Merüljön el a történelemben és a művészetben. Délután szálljon autóba, és utazzon vissza az időben millió éveket a Dinópolisban, Európa legnagyobb paleontológiai parkjában. Zárja a napot egy autózással a kivilágított vízvezeték mellett, amely tökéletes lezárása egy változatos napnak.",
+        "ro": "Începeți ziua parcându-vă mașina în centrul orașului Teruel. Dimineața este dedicată moștenirii Mudéjar, care poate fi explorată pe jos: plimbați-vă de la Plaza del Torico la Catedrală, Mausoleu și turnurile gemene. Imersați-vă în istorie și artă. După-amiaza, urcați în mașină și călătoriți înapoi în timp cu milioane de ani la Dinópolis, cel mai mare parc paleontologic din Europa. Încheiați ziua cu o plimbare pe lângă apeductul iluminat, o încheiere perfectă pentru o zi diversă.",
+        "en": "Start your day by parking your car in the center of Teruel. The morning is dedicated to the walkable Mudéjar heritage: stroll from Plaza del Torico to the Cathedral, the Mausoleum, and the twin towers. Immerse yourself in history and art. In the afternoon, get in the car and travel back in time millions of years at Dinópolis, Europe's largest paleontological park. End the day with a drive past the illuminated aqueduct, a perfect end to a diverse day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Probieren Sie den weltberühmten Schinken, eine geschützte Ursprungsbezeichnung."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, oft mit Wurst und Trauben serviert."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Zartes Lamm, das nach traditionellen aragonesischen Methoden zubereitet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Kóstolja meg a világhírű sonkát, amely eredetvédett termék."
+          },
+          {
+            "name": "Migas",
+            "tip": "Kiadós étel zsemlemorzsából, gyakran kolbásszal és szőlővel tálalva."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós bárányhús, hagyományos aragóniai módszerekkel elkészítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Gustați șunca de renume mondial, o denumire de origine protejată."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, adesea servit cu cârnați și struguri."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Miel fraged gătit conform metodelor tradiționale aragoneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Taste the world-famous ham, a protected designation of origin product."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish made from breadcrumbs, often served with sausage and grapes."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Tender lamb cooked using traditional Aragonese methods."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Ein ruhiger Spaziergang oberhalb der Escalinata mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kleine Gärten, in denen Sie eine Pause einlegen und die Architektur bewundern können.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Turia",
+            "tip": "Folgen Sie dem Fluss für einen friedlichen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Csendes séta az Escalinata felett, gyönyörű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kis kertek, ahol megpihenhet és megcsodálhatja az építészetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turia folyó partja",
+            "tip": "Kövesse a folyót egy békés sétáért a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "O plimbare liniștită deasupra Scării Ovale, cu vederi frumoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Grădini mici unde puteți lua o pauză și admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Turia",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de mulțimi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "A quiet walk above the Escalinata with beautiful views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Small gardens where you can take a break and admire the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Turia River",
+            "tip": "Follow the river for a peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Teruel",
+            "tip": "Suchen Sie nach der charakteristischen grünen und weißen Keramik."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Jamón, Käse und Wein als köstliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terueli kerámia",
+            "tip": "Keresse a jellegzetes zöld és fehér kerámiákat."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon sonkát, sajtot és bort finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Teruel",
+            "tip": "Căutați ceramica distinctivă verde și albă."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați jamón, brânză și vin ca suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics of Teruel",
+            "tip": "Look for the distinctive green and white pottery."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy jamón, cheese, and wine as delicious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Suchen Sie nach öffentlichen Parkplätzen am Rande des historischen Zentrums.",
+          "Dinópolis hat einen eigenen großen Parkplatz.",
+          "Der Verkehr im Stadtzentrum kann während der Stoßzeiten stark sein.",
+          "Überprüfen Sie die Öffnungszeiten von Dinópolis im Voraus, da sie saisonal variieren können."
+        ],
+        "hu": [
+          "Keressen nyilvános parkolókat a történelmi központ szélén.",
+          "A Dinópolisnak saját nagy parkolója van.",
+          "A városközpont forgalma csúcsidőben sűrű lehet.",
+          "Előre ellenőrizze a Dinópolis nyitvatartási idejét, mivel az szezonálisan változhat."
+        ],
+        "ro": [
+          "Căutați parcări publice la marginea centrului istoric.",
+          "Dinópolis are propria sa parcare mare.",
+          "Traficul în centrul orașului poate fi aglomerat în timpul orelor de vârf.",
+          "Verificați în avans programul de funcționare al Dinópolis, deoarece acesta poate varia în funcție de sezon."
+        ],
+        "en": [
+          "Look for public parking on the outskirts of the historic center.",
+          "Dinópolis has its own large parking lot.",
+          "Traffic in the city center can be heavy during peak hours.",
+          "Check the opening hours for Dinópolis in advance as they can be seasonal."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft am Zentrum & Plaza del Torico",
+            "hu": "Érkezés a központba és Plaza del Torico",
+            "ro": "Sosire în centru și Plaza del Torico",
+            "en": "Arrival at the Center & Plaza del Torico"
+          },
+          "coords": [
+            -1.1067,
+            40.3456
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zur Haltestelle 'Plaza San Juan' oder 'Óvalo', um in der Nähe zu sein.",
+            "hu": "Menjen busszal a 'Plaza San Juan' vagy 'Óvalo' megállóig, hogy a közelben legyen.",
+            "ro": "Luați un autobuz până la stația 'Plaza San Juan' sau 'Óvalo' pentru a fi aproape.",
+            "en": "Take a bus to the 'Plaza San Juan' or 'Óvalo' stop to be nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale und Mausoleum der Liebenden",
+            "hu": "Katedrális és a Szeretők Mauzóleuma",
+            "ro": "Catedrala și Mausoleul Iubiților",
+            "en": "Cathedral and Mausoleum of the Lovers"
+          },
+          "coords": [
+            -1.1078,
+            40.3448
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen nebeneinander, planen Sie genügend Zeit ein.",
+            "hu": "Ez a két látnivaló egymás mellett található, tervezzen elegendő időt.",
+            "ro": "Aceste două atracții sunt una lângă alta, planificați suficient timp.",
+            "en": "These two attractions are next to each other, plan for enough time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mudéjar-Türme (El Salvador & San Martín)",
+            "hu": "Mudéjar-tornyok (El Salvador és San Martín)",
+            "ro": "Turnurile Mudéjar (El Salvador și San Martín)",
+            "en": "Mudéjar Towers (El Salvador & San Martín)"
+          },
+          "coords": [
+            -1.108,
+            40.3432
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang zwischen den beiden berühmten Türmen.",
+            "hu": "Rövid séta a két híres torony között.",
+            "ro": "O scurtă plimbare între cele două turnuri celebre.",
+            "en": "A short walk between the two famous towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinópolis",
+            "hu": "Dinópolis",
+            "ro": "Dinópolis",
+            "en": "Dinópolis"
+          },
+          "coords": [
+            -1.129,
+            40.369
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Es gibt eine spezielle Buslinie, die vom Zentrum zum Dinópolis fährt.",
+            "hu": "Van egy külön buszjárat, amely a központból a Dinópolisba közlekedik.",
+            "ro": "Există o linie specială de autobuz care merge de la centru la Dinópolis.",
+            "en": "There is a specific bus line that runs from the center to Dinópolis."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf das Aquädukt Los Arcos",
+            "hu": "Kilátás a Los Arcos vízvezetékre",
+            "ro": "Vedere spre Apeductul Los Arcos",
+            "en": "View of Los Arcos Aqueduct"
+          },
+          "coords": [
+            -1.112,
+            40.341
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "18:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen Bus zurück ins Zentrum und halten Sie in der Nähe des Aquädukts.",
+            "hu": "Menjen busszal vissza a központba, és álljon meg a vízvezeték közelében.",
+            "ro": "Luați un autobuz înapoi în centru și opriți-vă lângă apeduct.",
+            "en": "Take a bus back towards the center and stop near the aqueduct."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Verkehrsnetz von Teruel für einen stressfreien Tag. Beginnen Sie Ihre Erkundungstour zu Fuß im historischen Zentrum und besuchen Sie die Kathedrale, das Mausoleum und die Türme. Alles liegt nur einen kurzen Spaziergang voneinander entfernt. Am Nachmittag bringt Sie ein Bus bequem zum Dinópolis für ein prähistorisches Abenteuer. Auf dem Rückweg ins Stadtzentrum können Sie einen letzten Blick auf das Aquädukt werfen und die Erlebnisse des Tages Revue passieren lassen.",
+        "hu": "Használja Teruel tömegközlekedési hálózatát egy stresszmentes naphoz. Kezdje a gyalogos felfedezést a történelmi központban, látogassa meg a katedrálist, a mauzóleumot és a tornyokat. Minden csak egy rövid sétatávolságra van. Délután egy busz kényelmesen elviszi a Dinópolisba egy őskori kalandra. Visszafelé a városközpontba vethet egy utolsó pillantást a vízvezetékre, és felidézheti a nap élményeit.",
+        "ro": "Folosiți rețeaua de transport public din Teruel pentru o zi fără stres. Începeți explorarea pe jos în centrul istoric, vizitând Catedrala, Mausoleul și turnurile. Totul este la o scurtă plimbare distanță. După-amiaza, un autobuz vă va duce confortabil la Dinópolis pentru o aventură preistorică. Pe drumul de întoarcere spre centrul orașului, puteți arunca o ultimă privire asupra apeductului și puteți rememora experiențele zilei.",
+        "en": "Use Teruel's public transport network for a stress-free day. Start your exploration on foot in the historic center, visiting the Cathedral, Mausoleum, and towers. Everything is within a short walking distance. In the afternoon, a bus will comfortably take you to Dinópolis for a prehistoric adventure. On your way back to the city center, you can catch a final glimpse of the aqueduct and reflect on the day's experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Probieren Sie den weltberühmten Schinken, eine geschützte Ursprungsbezeichnung."
+          },
+          {
+            "name": "Migas",
+            "tip": "Ein herzhaftes Gericht aus Brotkrumen, oft mit Wurst und Trauben serviert."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Zartes Lamm, das nach traditionellen aragonesischen Methoden zubereitet wird."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Kóstolja meg a világhírű sonkát, amely eredetvédett termék."
+          },
+          {
+            "name": "Migas",
+            "tip": "Kiadós étel zsemlemorzsából, gyakran kolbásszal és szőlővel tálalva."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Omlós bárányhús, hagyományos aragóniai módszerekkel elkészítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Gustați șunca de renume mondial, o denumire de origine protejată."
+          },
+          {
+            "name": "Migas",
+            "tip": "Un fel de mâncare consistent din pesmet, adesea servit cu cârnați și struguri."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Miel fraged gătit conform metodelor tradiționale aragoneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jamón de Teruel",
+            "tip": "Taste the world-famous ham, a protected designation of origin product."
+          },
+          {
+            "name": "Migas",
+            "tip": "A hearty dish made from breadcrumbs, often served with sausage and grapes."
+          },
+          {
+            "name": "Ternasco de Aragón",
+            "tip": "Tender lamb cooked using traditional Aragonese methods."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Ein ruhiger Spaziergang oberhalb der Escalinata mit schöner Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kleine Gärten, in denen Sie eine Pause einlegen und die Architektur bewundern können.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Turia",
+            "tip": "Folgen Sie dem Fluss für einen friedlichen Spaziergang abseits der Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "Csendes séta az Escalinata felett, gyönyörű kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Kis kertek, ahol megpihenhet és megcsodálhatja az építészetet.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turia folyó partja",
+            "tip": "Kövesse a folyót egy békés sétáért a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "O plimbare liniștită deasupra Scării Ovale, cu vederi frumoase.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Grădini mici unde puteți lua o pauză și admira arhitectura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Turia",
+            "tip": "Urmați râul pentru o plimbare liniștită departe de mulțimi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo del Óvalo",
+            "tip": "A quiet walk above the Escalinata with beautiful views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardines de la Escalinata",
+            "tip": "Small gardens where you can take a break and admire the architecture.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Turia River",
+            "tip": "Follow the river for a peaceful walk away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik aus Teruel",
+            "tip": "Suchen Sie nach der charakteristischen grünen und weißen Keramik."
+          },
+          {
+            "name": "Lokale Delikatessen",
+            "tip": "Kaufen Sie Jamón, Käse und Wein als köstliche Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terueli kerámia",
+            "tip": "Keresse a jellegzetes zöld és fehér kerámiákat."
+          },
+          {
+            "name": "Helyi finomságok",
+            "tip": "Vásároljon sonkát, sajtot és bort finom szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică din Teruel",
+            "tip": "Căutați ceramica distinctivă verde și albă."
+          },
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați jamón, brânză și vin ca suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramics of Teruel",
+            "tip": "Look for the distinctive green and white pottery."
+          },
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy jamón, cheese, and wine as delicious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die Linie nach Dinópolis.",
+          "Laden Sie eine lokale ÖPNV-App herunter, um Fahrpläne in Echtzeit zu verfolgen.",
+          "Die Bushaltestellen sind gut ausgeschildert, aber achten Sie auf die richtige Richtung."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen a Dinópolisba tartó járatét.",
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a valós idejű menetrendek követéséhez.",
+          "A buszmegállók jól ki vannak táblázva, de figyeljen a helyes irányra."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru linia către Dinópolis.",
+          "Descărcați o aplicație locală de transport public pentru a urmări orarele în timp real.",
+          "Stațiile de autobuz sunt bine semnalizate, dar fiți atenți la direcția corectă."
+        ],
+        "en": [
+          "Buy a daily bus pass to save money.",
+          "Check the bus schedule in advance, especially for the line to Dinópolis.",
+          "Download a local public transport app to track real-time schedules.",
+          "Bus stops are well-marked, but pay attention to the correct direction."
+        ]
+      }
+    }
+  }
+}

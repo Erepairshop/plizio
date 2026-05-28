@@ -1,0 +1,1397 @@
+{
+  "city_id": "netherlands-zaanstad-cities-v2",
+  "anchor": {
+    "name": "Zaanstad",
+    "coords": [
+      4.8422,
+      52.4411
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Inntel Hotels Zaandam",
+            "hu": "Inntel Hotels Zaandam",
+            "ro": "Inntel Hotels Zaandam",
+            "en": "Inntel Hotels Zaandam"
+          },
+          "coords": [
+            4.829,
+            52.441
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das ikonische Gebäude ist ein Muss für Fotos. Die beste Aussicht hat man von der Brücke.",
+            "hu": "Ez az ikonikus épület egy kötelező fotómegálló. A legjobb kilátás a hídról nyílik.",
+            "ro": "Clădirea iconică este o oprire obligatorie pentru fotografii. Cea mai bună priveliște este de pe pod.",
+            "en": "The iconic building is a must for photos. The best view is from the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Zar-Peter-Haus",
+            "hu": "Cár Péter Ház",
+            "ro": "Casa Țarului Petru",
+            "en": "Tsar Peter House"
+          },
+          "coords": [
+            4.825,
+            52.443
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der ältesten Holzhäuser der Niederlande. Kaufen Sie Tickets online, um Wartezeiten zu vermeiden.",
+            "hu": "Hollandia egyik legrégebbi faháza. Vegyen jegyet online, hogy elkerülje a sorban állást.",
+            "ro": "Una dintre cele mai vechi case de lemn din Olanda. Cumpărați bilete online pentru a evita cozile.",
+            "en": "One of the oldest wooden houses in the Netherlands. Buy tickets online to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Bullekerk",
+            "hu": "Bullekerk templom",
+            "ro": "Biserica Bullekerk",
+            "en": "Bullekerk Church"
+          },
+          "coords": [
+            4.823,
+            52.438
+          ],
+          "category": "churches",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Veranstaltungskalender; in dieser ehemaligen Kirche finden oft Konzerte statt.",
+            "hu": "Nézze meg az eseménynaptárt; ebben a korábbi templomban gyakran tartanak koncerteket.",
+            "ro": "Verificați calendarul de evenimente; concerte au loc adesea în această fostă biserică.",
+            "en": "Check the events calendar; concerts are often held in this former church."
+          }
+        },
+        {
+          "name": {
+            "de": "Monet-Atelier",
+            "hu": "Monet Műterem",
+            "ro": "Atelierul Monet",
+            "en": "Monet Atelier"
+          },
+          "coords": [
+            4.835,
+            52.445
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Werke, die Monet in der Zaan-Region gemalt hat. Eine kleine, aber feine Ausstellung.",
+            "hu": "Nézze meg azokat a műveket, amelyeket Monet a Zaan régióban festett. Kicsi, de lenyűgöző kiállítás.",
+            "ro": "Experimentați lucrările pe care Monet le-a pictat în regiunea Zaan. O expoziție mică, dar impresionantă.",
+            "en": "Experience the works Monet painted in the Zaan region. A small but impressive exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaan-Promenade",
+            "hu": "Zaan-sétány",
+            "ro": "Promenada Zaan",
+            "en": "Zaan Promenade"
+          },
+          "coords": [
+            4.83,
+            52.442
+          ],
+          "category": "promenades",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause. Viele Cafés und Bänke mit Blick auf den Fluss.",
+            "hu": "Ideális egy ebédszünetre. Sok kávézó és pad található folyóra néző kilátással.",
+            "ro": "Ideal pentru o pauză de prânz. Multe cafenele și bănci cu vedere la râu.",
+            "en": "Ideal for a lunch break. Many cafes and benches with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelminapark",
+            "hu": "Vilma park",
+            "ro": "Parcul Wilhelmina",
+            "en": "Wilhelmina Park"
+          },
+          "coords": [
+            4.815,
+            52.44
+          ],
+          "category": "parks",
+          "arrive_at": "15:14",
+          "stay_min": 71,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen. Genießen Sie die Grünflächen und Teiche.",
+            "hu": "Egy csendes hely a nap befejezéséhez. Élvezze a zöld területeket és a tavakat.",
+            "ro": "Un loc liniștit pentru a încheia ziua. Bucurați-vă de spațiile verzi și iazuri.",
+            "en": "A quiet place to end the day. Enjoy the green spaces and ponds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der modernen Architektur des Inntel Hotels, bevor Sie im Zar-Peter-Haus in die Geschichte eintauchen. Am Mittag genießen Sie die Kunst im Monet-Atelier nach einem Besuch der Bullekerk. Der Nachmittag lädt zu einem entspannten Spaziergang entlang der Zaan-Promenade ein. Beenden Sie Ihren Tag im ruhigen Wilhelminapark und lassen Sie die Eindrücke der Stadt auf sich wirken.",
+        "hu": "Kezdje a napot az Inntel Hotel modern építészetével, majd merüljön el a történelemben a Cár Péter Háznál. Délben élvezze a művészetet a Monet Műteremben a Bullekerk meglátogatása után. A délután egy pihentető sétára hív a Zaan-sétányon. Fejezze be a napot a csendes Vilma parkban, és hagyja, hogy a város benyomásai hassanak önre.",
+        "ro": "Începeți ziua cu arhitectura modernă a Hotelului Inntel înainte de a vă cufunda în istorie la Casa Țarului Petru. La prânz, bucurați-vă de artă la Atelierul Monet după o vizită la Biserica Bullekerk. După-amiaza vă invită la o plimbare relaxantă de-a lungul Promenadei Zaan. Încheiați ziua în liniștitul Parc Wilhelmina, lăsând impresiile orașului să vă pătrundă.",
+        "en": "Start your day with the modern architecture of the Inntel Hotel before diving into history at the Tsar Peter House. At noon, enjoy the art at the Monet Atelier after a visit to the Bullekerk. The afternoon invites you for a relaxing stroll along the Zaan Promenade. End your day in the quiet Wilhelmina Park, letting the city's impressions sink in."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Kraai Pfannkuchen",
+            "tip": "Probieren Sie traditionelle holländische Pfannkuchen in einer Mühle."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "Ein warmer, klebriger Genuss, den man auf jedem Markt findet."
+          },
+          {
+            "name": "Hering",
+            "tip": "Für die Mutigen: roher Hering mit Zwiebeln und Gurken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Kraai palacsinta",
+            "tip": "Kóstolja meg a hagyományos holland palacsintát egy malomban."
+          },
+          {
+            "name": "Stroopwafel",
+            "tip": "Meleg, ragacsos finomság, amelyet minden piacon megtalál."
+          },
+          {
+            "name": "Hering",
+            "tip": "A bátraknak: nyers hering hagymával és uborkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite De Kraai",
+            "tip": "Încercați clătitele tradiționale olandeze într-o moară."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "O delicatesă caldă și lipicioasă găsită în orice piață."
+          },
+          {
+            "name": "Hering",
+            "tip": "Pentru cei curajoși: hering crud cu ceapă și castraveți murați."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Kraai Pancakes",
+            "tip": "Try traditional Dutch pancakes inside a mill."
+          },
+          {
+            "name": "Stroopwafels",
+            "tip": "A warm, gooey treat found at any market."
+          },
+          {
+            "name": "Herring",
+            "tip": "For the brave: raw herring with onions and pickles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wilhelminapark",
+            "tip": "Ein friedlicher Rückzugsort abseits des Stadtzentrums.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ufer des Zaan",
+            "tip": "Finden Sie eine ruhige Bank entlang des Flusses und beobachten Sie die Boote.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bullekerk (außerhalb der Veranstaltungen)",
+            "tip": "Ein Ort der stillen Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vilma park",
+            "tip": "Békés menedék a városközponttól távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zaan partja",
+            "tip": "Keressen egy csendes padot a folyó mentén, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bullekerk (rendezvényeken kívül)",
+            "tip": "A csendes elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "Un refugiu pașnic departe de centrul orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile râului Zaan",
+            "tip": "Găsiți o bancă liniștită de-a lungul râului și priviți bărcile.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bullekerk (în afara evenimentelor)",
+            "tip": "Un loc de contemplare tăcută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wilhelmina Park",
+            "tip": "A peaceful retreat away from the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Banks of the Zaan river",
+            "tip": "Find a quiet bench along the river and watch the boats.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bullekerk (outside events)",
+            "tip": "A place for quiet contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gedempte Gracht",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und internationalen Marken."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Am Donnerstag und Samstag für frische Produkte und lokalen Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gedempte Gracht",
+            "tip": "A fő bevásárlóutca helyi és nemzetközi márkák keverékével."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökön és szombaton friss termékekért és helyi sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gedempte Gracht",
+            "tip": "Strada principală de cumpărături cu un amestec de mărci locale și internaționale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Joi și sâmbătă pentru produse proaspete și brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gedempte Gracht",
+            "tip": "The main shopping street with a mix of local and international brands."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "On Thursdays and Saturdays for fresh produce and local cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum kompakt und sehr gut zu Fuß erreichbar ist. Planen Sie zusätzliche Zeit für Fotostopps ein, besonders am Inntel Hotel. Viele Museen sind klein, daher ist es ratsam, die Öffnungszeiten im Voraus zu prüfen. Genießen Sie eine Tasse Kaffee an der Zaan-Promenade für eine authentische lokale Erfahrung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a központ kompakt és nagyon gyalogosbarát. Tervezzen extra időt a fotómegállókra, különösen az Inntel Hotelnél. Sok múzeum kicsi, ezért érdemes előre ellenőrizni a nyitvatartási időt. Fogyasszon el egy csésze kávét a Zaan-sétányon egy autentikus helyi élményért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece centrul este compact și foarte prietenos cu pietonii. Planificați timp suplimentar pentru opriri foto, în special la Hotelul Inntel. Multe muzee sunt mici, așa că este indicat să verificați orele de deschidere în avans. Bucurați-vă de o ceașcă de cafea pe Promenada Zaan pentru o experiență locală autentică."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is compact and very walkable. Plan for extra time for photo stops, especially at the Inntel Hotel. Many museums are small, so it's wise to check their opening hours in advance. Enjoy a cup of coffee on the Zaan Promenade for an authentic local experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hembrugterrein",
+            "hu": "Hembrugterrein",
+            "ro": "Hembrugterrein",
+            "en": "Hembrugterrein"
+          },
+          "coords": [
+            4.82,
+            52.41
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses umfunktionierte Industriegebiet mit Galerien und Cafés. Sehr fahrradfreundlich.",
+            "hu": "Fedezze fel ezt az átalakított ipari területet galériákkal és kávézókkal. Nagyon biciklibarát.",
+            "ro": "Explorați această zonă industrială reconvertită cu galerii și cafenele. Foarte prietenoasă cu bicicletele.",
+            "en": "Explore this repurposed industrial area with galleries and cafes. Very bike-friendly."
+          }
+        },
+        {
+          "name": {
+            "de": "Zar-Peter-Haus",
+            "hu": "Cár Péter Ház",
+            "ro": "Casa Țarului Petru",
+            "en": "Tsar Peter House"
+          },
+          "coords": [
+            4.825,
+            52.443
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein in die Geschichte.",
+            "hu": "Parkolja le a biciklijét a közelben, és lépjen be a történelembe.",
+            "ro": "Parcați bicicleta în apropiere și pășiți în istorie.",
+            "en": "Park your bike nearby and step into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Inntel Hotels Zaandam",
+            "hu": "Inntel Hotels Zaandam",
+            "ro": "Inntel Hotels Zaandam",
+            "en": "Inntel Hotels Zaandam"
+          },
+          "coords": [
+            4.829,
+            52.441
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine schnelle Radtour für ein ikonisches Foto.",
+            "hu": "Egy gyors biciklizés egy ikonikus fotóért.",
+            "ro": "O plimbare rapidă cu bicicleta pentru o fotografie iconică.",
+            "en": "A quick bike ride for an iconic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaan-Promenade",
+            "hu": "Zaan-sétány",
+            "ro": "Promenada Zaan",
+            "en": "Zaan Promenade"
+          },
+          "coords": [
+            4.83,
+            52.442
+          ],
+          "category": "promenades",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Viele Fahrradständer vorhanden.",
+            "hu": "Tökéletes egy ebédszünetre. Sok biciklitároló áll rendelkezésre.",
+            "ro": "Perfect pentru o pauză de prânz. Multe parcări pentru biciclete disponibile.",
+            "en": "Perfect for a lunch break. Many bike racks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Monet-Atelier",
+            "hu": "Monet Műterem",
+            "ro": "Atelierul Monet",
+            "en": "Monet Atelier"
+          },
+          "coords": [
+            4.835,
+            52.445
+          ],
+          "category": "museums",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich inspirieren, wo Monet seine berühmten holländischen Landschaften malte.",
+            "hu": "Merítsen ihletet ott, ahol Monet a híres holland tájképeit festette.",
+            "ro": "Găsiți inspirație acolo unde Monet a pictat faimoasele sale peisaje olandeze.",
+            "en": "Get inspired where Monet painted his famous Dutch landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaanse Schans (Aussichtspunkt)",
+            "hu": "Zaanse Schans (kilátópont)",
+            "ro": "Zaanse Schans (punct de belvedere)",
+            "en": "Zaanse Schans (Viewpoint)"
+          },
+          "coords": [
+            4.883,
+            52.474
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:10",
+          "stay_min": 61,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Radeln Sie für die klassische Windmühlen-Postkartenansicht. Die Fahrt entlang des Flusses ist wunderschön.",
+            "hu": "Biciklizzen el a klasszikus, képeslapra illő szélmalom-látványért. A folyó menti út gyönyörű.",
+            "ro": "Pedalați pentru priveliștea clasică de carte poștală cu mori de vânt. Plimbarea de-a lungul râului este superbă.",
+            "en": "Cycle up for the classic windmill postcard view. The ride along the river is beautiful."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem kreativen Hembrugterrein. Mittags erkunden Sie das historische Zentrum mit dem Zar-Peter-Haus und dem Inntel Hotel, gefolgt von einer Pause an der Zaan-Promenade. Am Nachmittag tauchen Sie im Monet-Atelier in die Kunst ein, bevor Sie zum Höhepunkt des Tages radeln: der malerischen Aussicht auf die Windmühlen von Zaanse Schans.",
+        "hu": "Kezdje a biciklitúrát a kreatív Hembrugterrein területén. Délben fedezze fel a történelmi központot a Cár Péter Házzal és az Inntel Hotellel, majd tartson egy szünetet a Zaan-sétányon. Délután merüljön el a művészetben a Monet Műteremben, mielőtt a nap fénypontjához, a Zaanse Schans szélmalmainak festői látványához biciklizik.",
+        "ro": "Începeți turul cu bicicleta la creativul Hembrugterrein. La prânz, explorați centrul istoric cu Casa Țarului Petru și Hotelul Inntel, urmată de o pauză pe Promenada Zaan. După-amiaza, cufundați-vă în artă la Atelierul Monet înainte de a pedala spre punctul culminant al zilei: priveliștea pitorească a morilor de vânt de la Zaanse Schans.",
+        "en": "Start your bike tour at the creative Hembrugterrein. At noon, explore the historic center with the Tsar Peter House and the Inntel Hotel, followed by a break on the Zaan Promenade. In the afternoon, immerse yourself in art at the Monet Atelier before cycling to the day's highlight: the picturesque view of the windmills at Zaanse Schans."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "De Hoop op d'Swarte Walvis",
+            "tip": "Gehobene Küche mit toller Aussicht bei Zaanse Schans."
+          },
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Probieren Sie Zaan-Käse direkt vom Bauernhof bei Zaanse Schans."
+          },
+          {
+            "name": "Bäckerei de Ruijter",
+            "tip": "Für Duivekater, ein lokales süßes Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Hoop op d'Swarte Walvis",
+            "tip": "Elegáns étterem nagyszerű kilátással a Zaanse Schansnál."
+          },
+          {
+            "name": "Helyi sajtkészítők",
+            "tip": "Kóstolja meg a zaani sajtot közvetlenül a termelőtől a Zaanse Schansnál."
+          },
+          {
+            "name": "De Ruijter pékség",
+            "tip": "Kóstolja meg a Duivekatert, egy helyi édes kenyeret."
+          }
+        ],
+        "ro": [
+          {
+            "name": "De Hoop op d'Swarte Walvis",
+            "tip": "Restaurant elegant cu o priveliște minunată la Zaanse Schans."
+          },
+          {
+            "name": "Ferme de brânzeturi locale",
+            "tip": "Încercați brânza Zaan direct de la fermă la Zaanse Schans."
+          },
+          {
+            "name": "Brutăria de Ruijter",
+            "tip": "Pentru Duivekater, o pâine dulce locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "De Hoop op d'Swarte Walvis",
+            "tip": "Fine dining with a great view at Zaanse Schans."
+          },
+          {
+            "name": "Local Cheese Farms",
+            "tip": "Try Zaan cheese straight from the farm at Zaanse Schans."
+          },
+          {
+            "name": "Bakery de Ruijter",
+            "tip": "For Duivekater, a local sweet bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radweg entlang der Zaan",
+            "tip": "Eine friedliche Fahrt abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembrugterrein (Wochentags)",
+            "tip": "Überraschend ruhig und inspirierend.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Die Felder um Zaanse Schans",
+            "tip": "Finden Sie einen ruhigen Platz mit Blick auf die Windmühlen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárút a Zaan mentén",
+            "tip": "Békés út a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembrugterrein (hétköznap)",
+            "tip": "Meglepően csendes és inspiráló.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A Zaanse Schans körüli mezők",
+            "tip": "Keressen egy csendes helyet a szélmalmokra néző kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de-a lungul râului Zaan",
+            "tip": "O plimbare liniștită departe de drumurile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembrugterrein (în timpul săptămânii)",
+            "tip": "Surprinzător de liniștit și inspirator.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Câmpiile din jurul Zaanse Schans",
+            "tip": "Găsiți un loc liniștit cu vedere la morile de vânt.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike path along the Zaan",
+            "tip": "A peaceful ride away from the main roads.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hembrugterrein (on a weekday)",
+            "tip": "Surprisingly quiet and inspiring.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The fields around Zaanse Schans",
+            "tip": "Find a quiet spot overlooking the windmills.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Holzschuhwerkstatt bei Zaanse Schans",
+            "tip": "Sehen Sie zu, wie sie hergestellt werden, und kaufen Sie ein authentisches Paar."
+          },
+          {
+            "name": "CacaoLab",
+            "tip": "Für handwerklich hergestellte Schokolade, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fapapucs-műhely a Zaanse Schansnál",
+            "tip": "Nézze meg, hogyan készülnek, és vegyen egy autentikus párat."
+          },
+          {
+            "name": "CacaoLab",
+            "tip": "Kézműves csokoládéért, egy helyi különlegességért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierul de saboți la Zaanse Schans",
+            "tip": "Urmăriți cum sunt făcuți și cumpărați o pereche autentică."
+          },
+          {
+            "name": "CacaoLab",
+            "tip": "Pentru ciocolată artizanală, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Clog workshop at Zaanse Schans",
+            "tip": "Watch them being made and buy an authentic pair."
+          },
+          {
+            "name": "CacaoLab",
+            "tip": "For artisanal chocolate, a local specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs. Die Niederlande sind flach, aber der Wind kann eine Herausforderung sein. Prüfen Sie die Wettervorhersage. Verwenden Sie Fahrradwege, wann immer möglich; sie sind sicher und gut gepflegt. Schließen Sie Ihr Fahrrad immer ab, auch für kurze Stopps."
+        ],
+        "hu": [
+          "Béreljen biciklit az állomás közelében. Hollandia sík, de a szél kihívást jelenthet; ellenőrizze az időjárás-előrejelzést. Használja a kerékpárutakat, amikor csak lehetséges; biztonságosak és jól karbantartottak. Mindig zárja le a biciklijét, még rövid megállókra is."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară. Olanda este plată, dar vântul poate fi o provocare; verificați prognoza meteo. Folosiți pistele de biciclete ori de câte ori este posibil; sunt sigure și bine întreținute. Încuiați-vă întotdeauna bicicleta, chiar și pentru opriri scurte."
+        ],
+        "en": [
+          "Rent a bike near the train station. The Netherlands is flat, but the wind can be a challenge; check the weather forecast. Use bike paths whenever possible; they are safe and well-maintained. Always lock your bike, even for short stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Zaanse Schans",
+            "hu": "Zaanse Schans Parkoló",
+            "ro": "Parcare Zaanse Schans",
+            "en": "Zaanse Schans Parking"
+          },
+          "coords": [
+            4.885,
+            52.476
+          ],
+          "category": "transport",
+          "arrive_at": "09:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie direkt hierher, um den Tag zu beginnen. Das Parken ist gebührenpflichtig, aber bequem.",
+            "hu": "Vezessen közvetlenül ide a nap kezdetén. A parkolás díjköteles, de kényelmes.",
+            "ro": "Conduceți direct aici pentru a începe ziua. Parcarea este cu plată, dar convenabilă.",
+            "en": "Drive straight here to start the day. Parking is paid but convenient."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaans Museum",
+            "hu": "Zaans Múzeum",
+            "ro": "Muzeul Zaans",
+            "en": "Zaans Museum"
+          },
+          "coords": [
+            4.884,
+            52.474
+          ],
+          "category": "museums",
+          "arrive_at": "09:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um einen Überblick über die reiche industrielle Vergangenheit der Region zu erhalten.",
+            "hu": "Kezdje itt, hogy áttekintést kapjon a régió gazdag ipari múltjáról.",
+            "ro": "Începeți aici pentru a obține o imagine de ansamblu asupra bogatului trecut industrial al regiunii.",
+            "en": "Start here to get an overview of the region's rich industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Het Wevershuis",
+            "hu": "A Takácsház",
+            "ro": "Casa Țesătorului",
+            "en": "The Weaver's House"
+          },
+          "coords": [
+            4.887,
+            52.475
+          ],
+          "category": "museums",
+          "arrive_at": "11:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie, wie die Segelmacher des 18. Jahrhunderts lebten und arbeiteten.",
+            "hu": "Nézze meg, hogyan éltek és dolgoztak a 18. századi vitorlakészítők.",
+            "ro": "Vedeți cum trăiau și lucrau producătorii de pânze din secolul al XVIII-lea.",
+            "en": "See how 18th-century sail makers lived and worked."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkplatz Zentrum Zaandam",
+            "hu": "Zaandam Központi Parkoló",
+            "ro": "Parcare Centru Zaandam",
+            "en": "Zaandam Center Parking"
+          },
+          "coords": [
+            4.828,
+            52.44
+          ],
+          "category": "transport",
+          "arrive_at": "12:30",
+          "stay_min": 10,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier, um den Rest des Tages das Stadtzentrum zu Fuß zu erkunden.",
+            "hu": "Parkoljon itt, hogy a nap hátralévő részében gyalog fedezze fel a városközpontot.",
+            "ro": "Parcați aici pentru a explora centrul orașului pe jos pentru restul zilei.",
+            "en": "Park here to explore the city center on foot for the rest of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Inntel Hotels Zaandam",
+            "hu": "Inntel Hotels Zaandam",
+            "ro": "Inntel Hotels Zaandam",
+            "en": "Inntel Hotels Zaandam"
+          },
+          "coords": [
+            4.829,
+            52.441
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie das obligatorische Foto und genießen Sie das Mittagessen in einem der nahegelegenen Cafés.",
+            "hu": "Készítse el a kötelező fotót, és ebédeljen a közeli kávézók egyikében.",
+            "ro": "Faceți fotografia obligatorie și luați prânzul la una dintre cafenelele din apropiere.",
+            "en": "Take the mandatory photo and enjoy lunch at a nearby cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Zar-Peter-Haus",
+            "hu": "Cár Péter Ház",
+            "ro": "Casa Țarului Petru",
+            "en": "Tsar Peter House"
+          },
+          "coords": [
+            4.825,
+            52.443
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Hotel entfernt. Ein faszinierender Einblick in die Geschichte.",
+            "hu": "Csak egy rövid sétára a szállodától. Lenyűgöző betekintés a történelembe.",
+            "ro": "La doar o scurtă plimbare de hotel. O incursiune fascinantă în istorie.",
+            "en": "Just a short walk from the hotel. A fascinating glimpse into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaan-Promenade",
+            "hu": "Zaan-sétány",
+            "ro": "Promenada Zaan",
+            "en": "Zaan Promenade"
+          },
+          "coords": [
+            4.83,
+            52.442
+          ],
+          "category": "promenades",
+          "arrive_at": "15:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang am Wasser, bevor Sie zu Ihrem Auto zurückkehren.",
+            "hu": "Fejezze be a napot egy pihentető sétával a vízparton, mielőtt visszatérne az autójához.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă pe malul apei înainte de a vă întoarce la mașină.",
+            "en": "End your day with a relaxing stroll by the water before heading back to your car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens direkt nach Zaanse Schans. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Zaans Museum und die historischen Häuser. Mittags fahren Sie ins Zentrum von Zaandam. Nach dem Parken bewundern Sie das Inntel Hotel und essen zu Mittag. Am Nachmittag schlendern Sie zum Zar-Peter-Haus und beenden den Tag mit einem gemütlichen Spaziergang entlang der Zaan-Promenade, bevor Sie die Heimreise antreten.",
+        "hu": "Reggel vezessen közvetlenül Zaanse Schansba. Parkolja le autóját, és gyalog fedezze fel a Zaans Múzeumot és a történelmi házakat. Délben vezessen Zaandam központjába. Parkolás után csodálja meg az Inntel Hotelt és ebédeljen. Délután sétáljon el a Cár Péter Házhoz, és fejezze be a napot egy kellemes sétával a Zaan-sétányon, mielőtt hazaindulna.",
+        "ro": "Dimineața, conduceți direct la Zaanse Schans. Parcați mașina și explorați pe jos Muzeul Zaans și casele istorice. La prânz, conduceți spre centrul orașului Zaandam. După parcare, admirați Hotelul Inntel și luați prânzul. După-amiaza, plimbați-vă până la Casa Țarului Petru și încheiați ziua cu o plimbare pe Promenada Zaan înainte de a vă întoarce acasă.",
+        "en": "In the morning, drive directly to Zaanse Schans. Park your car and explore the Zaans Museum and historic houses on foot. At noon, drive to the center of Zaandam. After parking, admire the Inntel Hotel and have lunch. In the afternoon, stroll to the Tsar Peter House and end the day with a leisurely walk along the Zaan Promenade before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant De Smuiger",
+            "tip": "Gute holländische Küche im Zentrum von Zaandam."
+          },
+          {
+            "name": "Käserei Henri Willig",
+            "tip": "Kostenlose Käseverkostungen und eine große Auswahl zum Kaufen in Zaanse Schans."
+          },
+          {
+            "name": "Fischbrötchen",
+            "tip": "Holen Sie sich ein Kibbeling (frittierter Fisch) von einem Stand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Smuiger étterem",
+            "tip": "Jó holland konyha Zaandam központjában."
+          },
+          {
+            "name": "Henri Willig sajtfarm",
+            "tip": "Ingyenes sajtkóstolók és nagy választék vásárlásra Zaanse Schansban."
+          },
+          {
+            "name": "Halas szendvics",
+            "tip": "Vegyen egy Kibbelinget (sült hal) egy bódéból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant De Smuiger",
+            "tip": "Bucătărie olandeză bună în centrul orașului Zaandam."
+          },
+          {
+            "name": "Ferma de brânzeturi Henri Willig",
+            "tip": "Degustări gratuite de brânză și o selecție largă de cumpărat la Zaanse Schans."
+          },
+          {
+            "name": "Sandviș cu pește",
+            "tip": "Luați un Kibbeling (pește prăjit) de la o tarabă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant De Smuiger",
+            "tip": "Good Dutch cuisine in the center of Zaandam."
+          },
+          {
+            "name": "Henri Willig Cheese Farm",
+            "tip": "Free cheese tastings and a wide selection to buy at Zaanse Schans."
+          },
+          {
+            "name": "Fish sandwich",
+            "tip": "Get a Kibbeling (fried fish) from a stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die Polder um Zaanse Schans",
+            "tip": "Machen Sie einen kurzen Spaziergang vom Hauptbereich weg, um die Ruhe der Landschaft zu genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wilhelminapark",
+            "tip": "Wenn Sie Zeit haben, ist es eine kurze Fahrt für eine friedliche Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Früher Morgen in Zaanse Schans",
+            "tip": "Kommen Sie vor den Tourbussen an, um die Magie zu erleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A polderek Zaanse Schans körül",
+            "tip": "Tegyen egy rövid sétát a fő területtől távolabb, hogy élvezze a vidék csendjét.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vilma park",
+            "tip": "Ha van ideje, egy rövid autóútra van egy békés szünetért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kora reggel Zaanse Schansban",
+            "tip": "Érkezzen a turistabuszok előtt, hogy megtapasztalja a varázslatot.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polderele din jurul Zaanse Schans",
+            "tip": "Faceți o scurtă plimbare departe de zona principală pentru a vă bucura de liniștea peisajului rural.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Wilhelmina",
+            "tip": "Dacă aveți timp, este o scurtă călătorie cu mașina pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dimineața devreme la Zaanse Schans",
+            "tip": "Ajungeți înaintea autobuzelor turistice pentru a experimenta magia.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The polders around Zaanse Schans",
+            "tip": "Take a short walk away from the main area to enjoy the tranquility of the countryside.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Wilhelmina Park",
+            "tip": "If you have time, it's a short drive for a peaceful break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Early morning at Zaanse Schans",
+            "tip": "Arrive before the tour buses to experience the magic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Albert Heijn Museum Shop",
+            "tip": "Kaufen Sie nostalgische niederländische Lebensmittelverpackungen in Zaanse Schans."
+          },
+          {
+            "name": "Souvenirläden in Zaanse Schans",
+            "tip": "Große Auswahl, von Delfter Blau bis zu Holzschuhen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albert Heijn Múzeumbolt",
+            "tip": "Vásároljon nosztalgikus holland élelmiszer-csomagolásokat Zaanse Schansban."
+          },
+          {
+            "name": "Ajándékboltok Zaanse Schansban",
+            "tip": "Nagy választék, a delfti kéktől a fapapucsig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Albert Heijn",
+            "tip": "Cumpărați ambalaje nostalgice de alimente olandeze la Zaanse Schans."
+          },
+          {
+            "name": "Magazine de suveniruri la Zaanse Schans",
+            "tip": "Selecție vastă, de la Delft Blue la saboți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Albert Heijn Museum Shop",
+            "tip": "Buy nostalgic Dutch food packaging at Zaanse Schans."
+          },
+          {
+            "name": "Souvenir shops at Zaanse Schans",
+            "tip": "Vast selection, from Delft Blue to clogs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kommen Sie früh nach Zaanse Schans, um den Menschenmassen zu entgehen. Parken ist in den Stadtzentren teuer; die Verwendung von Park-and-Ride-Einrichtungen kann kostengünstiger sein. Planen Sie Ihre Route im Voraus, da einige Straßen in Zaandam eng sein können. Die Cluster-Walking-Strategie funktioniert hier perfekt: ein Parkplatz für jeden Hauptbereich."
+        ],
+        "hu": [
+          "Érkezzen korán Zaanse Schansba, hogy elkerülje a tömeget. A parkolás a városközpontokban drága; a P+R létesítmények használata költséghatékonyabb lehet. Tervezze meg előre az útvonalat, mivel Zaandam néhány utcája szűk lehet. A klaszter-séta stratégia itt tökéletesen működik: egy parkolóhely minden fő területre."
+        ],
+        "ro": [
+          "Ajungeți devreme la Zaanse Schans pentru a evita mulțimile. Parcarea este scumpă în centrele orașelor; utilizarea facilităților Park and Ride poate fi mai rentabilă. Planificați-vă traseul în avans, deoarece unele străzi din Zaandam pot fi înguste. Strategia de plimbare în cluster funcționează perfect aici: un loc de parcare pentru fiecare zonă principală."
+        ],
+        "en": [
+          "Arrive early at Zaanse Schans to beat the crowds. Parking is expensive in city centers; using Park and Ride facilities can be more cost-effective. Plan your route in advance as some streets in Zaandam can be narrow. The cluster-walking strategy works perfectly here: one parking spot for each main area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Zaandam",
+            "hu": "Zaandam vasútállomás",
+            "ro": "Gara Zaandam",
+            "en": "Zaandam Station"
+          },
+          "coords": [
+            4.828,
+            52.441
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier. Das Inntel Hotel ist das erste, was Sie sehen werden.",
+            "hu": "Kezdje itt. Az Inntel Hotel lesz az első, amit meglát.",
+            "ro": "Începeți aici. Hotelul Inntel este primul lucru pe care îl veți vedea.",
+            "en": "Start here. The Inntel Hotel is the first thing you'll see."
+          }
+        },
+        {
+          "name": {
+            "de": "Zar-Peter-Haus",
+            "hu": "Cár Péter Ház",
+            "ro": "Casa Țarului Petru",
+            "en": "Tsar Peter House"
+          },
+          "coords": [
+            4.825,
+            52.443
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Bahnhof durch das Stadtzentrum.",
+            "hu": "Rövid séta a vasútállomástól a városközponton keresztül.",
+            "ro": "O scurtă plimbare de la gară prin centrul orașului.",
+            "en": "A short walk from the station through the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Monet-Atelier",
+            "hu": "Monet Műterem",
+            "ro": "Atelierul Monet",
+            "en": "Monet Atelier"
+          },
+          "coords": [
+            4.835,
+            52.445
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein weiterer einfacher Spaziergang, um Monets Perspektive zu sehen.",
+            "hu": "Egy újabb könnyű séta, hogy megnézze Monet perspektíváját.",
+            "ro": "O altă plimbare ușoară pentru a vedea perspectiva lui Monet.",
+            "en": "Another easy walk to see Monet's perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Zaanse Schans",
+            "hu": "Busz Zaanse Schansba",
+            "ro": "Autobuz către Zaanse Schans",
+            "en": "Bus to Zaanse Schans"
+          },
+          "coords": [
+            4.829,
+            52.442
+          ],
+          "category": "transport",
+          "arrive_at": "12:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 391 vom Bahnhof Zaandam. Die Fahrt dauert etwa 20 Minuten.",
+            "hu": "Szálljon fel a 391-es buszra a Zaandam vasútállomásról. Az út körülbelül 20 percig tart.",
+            "ro": "Luați autobuzul 391 de la Gara Zaandam. Călătoria durează aproximativ 20 de minute.",
+            "en": "Take bus 391 from Zaandam station. The journey takes about 20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaanse Schans",
+            "hu": "Zaanse Schans",
+            "ro": "Zaanse Schans",
+            "en": "Zaanse Schans"
+          },
+          "coords": [
+            4.883,
+            52.474
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Windmühlen, Werkstätten und Museen. Planen Sie hier genügend Zeit für das Mittagessen ein.",
+            "hu": "Fedezze fel a szélmalmokat, műhelyeket és múzeumokat. Tervezzen itt elegendő időt az ebédre.",
+            "ro": "Explorați morile de vânt, atelierele și muzeele. Planificați suficient timp pentru prânz aici.",
+            "en": "Explore the windmills, workshops, and museums. Plan for enough time for lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaan-Promenade",
+            "hu": "Zaan-sétány",
+            "ro": "Promenada Zaan",
+            "en": "Zaan Promenade"
+          },
+          "coords": [
+            4.83,
+            52.442
+          ],
+          "category": "promenades",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum und beenden Sie den Tag mit einem Blick auf den Fluss.",
+            "hu": "Menjen vissza busszal a központba, és fejezze be a napot a folyó látványával.",
+            "ro": "Luați autobuzul înapoi în centru și încheiați ziua cu o priveliște a râului.",
+            "en": "Take the bus back to the center and finish the day with a river view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Bahnhof Zaandam und erkunden Sie morgens das kompakte Stadtzentrum zu Fuß, einschließlich des Zar-Peter-Hauses und des Monet-Ateliers. Zu Mittag nehmen Sie einen direkten Bus nach Zaanse Schans. Verbringen Sie den Nachmittag damit, dieses lebende Museum zu erkunden. Kehren Sie am späten Nachmittag ins Zentrum zurück, um einen entspannten Abendspaziergang entlang der Zaan-Promenade zu genießen.",
+        "hu": "Kezdje a Zaandam vasútállomáson, és reggel fedezze fel gyalog a kompakt városközpontot, beleértve a Cár Péter Házat és a Monet Műtermet. Délben szálljon fel egy közvetlen buszra Zaanse Schansba. Töltse a délutánt ennek az élő múzeumnak a felfedezésével. Késő délután térjen vissza a központba egy pihentető esti sétára a Zaan-sétányon.",
+        "ro": "Începeți la Gara Zaandam și explorați dimineața centrul compact al orașului pe jos, inclusiv Casa Țarului Petru și Atelierul Monet. La prânz, luați un autobuz direct către Zaanse Schans. Petreceți după-amiaza explorând acest muzeu viu. Întoarceți-vă în centru după-amiaza târziu pentru o plimbare de seară relaxantă de-a lungul Promenadei Zaan.",
+        "en": "Start at Zaandam station and explore the compact city center on foot in the morning, including the Tsar Peter House and Monet Atelier. At noon, take a direct bus to Zaanse Schans. Spend the afternoon exploring this living museum. Return to the center in the late afternoon for a relaxing evening stroll along the Zaan Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfannkuchen-Restaurant De Kraai",
+            "tip": "In einer echten Windmühle in Zaanse Schans."
+          },
+          {
+            "name": "Verkade Pavillon",
+            "tip": "Kombinieren Sie Schokoladengeschichte mit einem Kaffee im Zaans Museum."
+          },
+          {
+            "name": "Manzo's Bar Bistro",
+            "tip": "Ein stilvoller Ort für ein Abendessen in der Nähe des Bahnhofs Zaandam."
+          }
+        ],
+        "hu": [
+          {
+            "name": "De Kraai palacsintázó",
+            "tip": "Egy igazi szélmalomban Zaanse Schansban."
+          },
+          {
+            "name": "Verkade pavilon",
+            "tip": "Kombinálja a csokoládétörténetet egy kávéval a Zaans Múzeumban."
+          },
+          {
+            "name": "Manzo's Bar Bistro",
+            "tip": "Stílusos hely egy vacsorához a Zaandam állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul de clătite De Kraai",
+            "tip": "Într-o moară de vânt reală la Zaanse Schans."
+          },
+          {
+            "name": "Pavilionul Verkade",
+            "tip": "Combinați istoria ciocolatei cu o cafea la Muzeul Zaans."
+          },
+          {
+            "name": "Manzo's Bar Bistro",
+            "tip": "Un loc elegant pentru cină lângă gara Zaandam."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pancake Restaurant De Kraai",
+            "tip": "Inside a real windmill at Zaanse Schans."
+          },
+          {
+            "name": "Verkade Pavilion",
+            "tip": "Combine chocolate history with a coffee at the Zaans Museum."
+          },
+          {
+            "name": "Manzo's Bar Bistro",
+            "tip": "A stylish spot for dinner near Zaandam station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Die hinteren Wege von Zaanse Schans",
+            "tip": "Entfliehen Sie den Menschenmassen und finden Sie ruhige Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bänke am Wasser in Zaandam",
+            "tip": "Ein ruhiger Ort, um Leute zu beobachten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fahrt mit der Fähre über den Zaan",
+            "tip": "Eine kurze, friedliche Überfahrt in Zaanse Schans.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaanse Schans hátsó ösvényei",
+            "tip": "Meneküljön el a tömeg elől, és találjon csendes kilátást.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vízparti padok Zaandamban",
+            "tip": "Csendes hely az emberek nézéséhez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kompátkelés a Zaanon",
+            "tip": "Rövid, békés átkelés Zaanse Schansban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările din spatele Zaanse Schans",
+            "tip": "Evadați din mulțime și găsiți priveliști liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci pe malul apei în Zaandam",
+            "tip": "Un loc liniștit pentru a privi oamenii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Traversarea cu feribotul peste Zaan",
+            "tip": "O traversare scurtă și pașnică la Zaanse Schans.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "The back paths of Zaanse Schans",
+            "tip": "Escape the crowds and find quiet views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waterfront benches in Zaandam",
+            "tip": "A quiet spot for people-watching.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ferry ride across the Zaan",
+            "tip": "A short, peaceful crossing at Zaanse Schans.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Westzijde & Gedempte Gracht",
+            "tip": "Die Haupteinkaufsstraßen in der Nähe des Bahnhofs."
+          },
+          {
+            "name": "Catharina Hoeve Kaasboerderij",
+            "tip": "Eine Käsefarm in Zaanse Schans, perfekt für essbare Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Westzijde & Gedempte Gracht",
+            "tip": "A fő bevásárlóutcák az állomás közelében."
+          },
+          {
+            "name": "Catharina Hoeve Sajtfarm",
+            "tip": "Egy sajtfarm Zaanse Schansban, tökéletes ehető szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Westzijde & Gedempte Gracht",
+            "tip": "Principalele străzi comerciale de lângă gară."
+          },
+          {
+            "name": "Ferma de brânzeturi Catharina Hoeve",
+            "tip": "O fermă de brânzeturi la Zaanse Schans, perfectă pentru suveniruri comestibile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Westzijde & Gedempte Gracht",
+            "tip": "The main shopping streets near the station."
+          },
+          {
+            "name": "Catharina Hoeve Cheese Farm",
+            "tip": "A cheese farm at Zaanse Schans, perfect for edible souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus, wenn Sie vorhaben, mehrmals zu fahren. Der Bus 391 ist die direkteste Verbindung nach Zaanse Schans. Prüfen Sie die Busfahrpläne im Voraus, besonders für die Rückfahrt. Die meisten Sehenswürdigkeiten im Zentrum von Zaandam sind vom Bahnhof aus leicht zu Fuß erreichbar. Laden Sie eine ÖPNV-App herunter, um Echtzeit-Informationen zu erhalten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra, ha többször is utazik. A 391-es busz a legközvetlenebb járat Zaanse Schansba. Ellenőrizze előre a buszmenetrendet, különösen a visszaútra. Zaandam központjának legtöbb látnivalója könnyen megközelíthető gyalog a vasútállomásról. Töltsön le egy tömegközlekedési alkalmazást a valós idejű információkért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz dacă intenționați să faceți mai multe călătorii. Autobuzul 391 este cea mai directă rută către Zaanse Schans. Verificați în avans orarele autobuzelor, în special pentru călătoria de întoarcere. Majoritatea atracțiilor din centrul Zaandam sunt la distanță de mers pe jos de la gară. Descărcați o aplicație de transport public pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the bus if you plan on making multiple trips. Bus 391 is the most direct route to Zaanse Schans. Check bus schedules in advance, especially for the return trip. Most attractions in the center of Zaandam are within easy walking distance from the station. Download a public transport app for real-time information."
+        ]
+      }
+    }
+  }
+}

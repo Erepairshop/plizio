@@ -1,0 +1,1426 @@
+{
+  "city_id": "croatia-vinkovci-cities-v2",
+  "anchor": {
+    "name": "Vinkovci",
+    "coords": [
+      18.8055,
+      45.2875
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz von Ban Josip Šokčević",
+            "hu": "Ban Josip Šokčević tér",
+            "ro": "Piața Ban Josip Šokčević",
+            "en": "Ban Josip Šokčević Square"
+          },
+          "coords": [
+            18.8055,
+            45.2875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der perfekte Ausgangspunkt, um das lokale Leben zu beobachten.",
+            "hu": "Tökéletes kiindulópont a helyi élet megfigyeléséhez.",
+            "ro": "Punctul de plecare perfect pentru a observa viața locală.",
+            "en": "The perfect starting point to observe the local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Eusebius und Pollio",
+            "hu": "Szent Eusebius és Polio templom",
+            "ro": "Biserica Sf. Eusebiu și Polion",
+            "en": "Church of St. Eusebius and Polion"
+          },
+          "coords": [
+            18.806,
+            45.288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden barocken Details im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző barokk részleteket a belsejében.",
+            "ro": "Fiți atenți la detaliile baroce impresionante din interior.",
+            "en": "Pay attention to the impressive baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Vinkovci",
+            "hu": "Vinkovci Városi Múzeum",
+            "ro": "Muzeul Municipal Vinkovci",
+            "en": "Vinkovci Town Museum"
+          },
+          "coords": [
+            18.8045,
+            45.289
+          ],
+          "category": "museums",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Ausstellung über den Orion-Kalender.",
+            "hu": "Ne hagyja ki az Orion-naptárról szóló kiállítást.",
+            "ro": "Nu ratați expoziția despre calendarul Orion.",
+            "en": "Don't miss the exhibition on the Orion calendar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.805,
+            45.287
+          ],
+          "category": "gastro",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Čobanac, einen herzhaften slawonischen Eintopf.",
+            "hu": "Kóstolja meg a Čobanacot, egy kiadós szlavón pörköltet.",
+            "ro": "Încercați Čobanac, o tocană slavonă consistentă.",
+            "en": "Try Čobanac, a hearty Slavonian stew."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Ivan Kozarac & Krnjaš",
+            "hu": "Ivan Kozarac szülőháza és a Krnjaš negyed",
+            "ro": "Casa memorială Ivan Kozarac & cartierul Krnjaš",
+            "en": "Birthplace of Ivan Kozarac & Krnjaš quarter"
+          },
+          "coords": [
+            18.8085,
+            45.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre des alten Vinkovci in diesen Straßen.",
+            "hu": "Érezze a régi Vinkovci hangulatát ezeken az utcákon.",
+            "ro": "Simțiți atmosfera vechiului Vinkovci pe aceste străzi.",
+            "en": "Feel the atmosphere of old Vinkovci in these streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Orion-Denkmal",
+            "hu": "Orion-emlékmű",
+            "ro": "Monumentul Orion",
+            "en": "Orion Monument"
+          },
+          "coords": [
+            18.8075,
+            45.287
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Symbol für das reiche prähistorische Erbe der Stadt.",
+            "hu": "A város gazdag őskori örökségének szimbóluma.",
+            "ro": "Un simbol al bogatei moșteniri preistorice a orașului.",
+            "en": "A symbol of the city's rich prehistoric heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Bosut-Promenade",
+            "hu": "Bosut-parti sétány",
+            "ro": "Promenada de pe Bosut",
+            "en": "Bosut River Promenade"
+          },
+          "coords": [
+            18.809,
+            45.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang am Fluss, perfekt für den Nachmittag.",
+            "hu": "Egy pihentető séta a folyó mentén, tökéletes a délutánra.",
+            "ro": "O plimbare relaxantă de-a lungul râului, perfectă pentru după-amiază.",
+            "en": "A relaxing walk along the river, perfect for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Vinkovci am Ban-Šokčević-Platz. Tauchen Sie vormittags in die Geschichte ein, indem Sie die Barockkirche und das Stadtmuseum besuchen, wo Sie mehr über den ältesten Kalender Europas, den Orion, erfahren. Nach einem traditionellen slawonischen Mittagessen erkunden Sie die charmanten alten Straßen von Krnjaš. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der ruhigen Bosut-Promenade und genießen Sie die friedliche Atmosphäre, während die Sonne untergeht.",
+        "hu": "Kezdje a napot Vinkovci szívében, a Ban Šokčević téren. Délelőtt merüljön el a történelemben a barokk templom és a városi múzeum meglátogatásával, ahol megismerheti Európa legrégebbi naptárát, az Oriont. Egy hagyományos szlavón ebéd után fedezze fel Krnjaš bájos, régi utcáit. Zárja a napot egy kellemes sétával a nyugodt Bosut-parti sétányon, élvezve a békés hangulatot naplementekor.",
+        "ro": "Începeți ziua în inima orașului Vinkovci, în Piața Ban Šokčević. Dimineața, cufundați-vă în istorie vizitând biserica barocă și Muzeul Municipal, unde veți afla despre cel mai vechi calendar din Europa, Orion. După un prânz tradițional slavon, explorați străzile vechi și fermecătoare din Krnjaš. Încheiați ziua cu o plimbare pe îndelete de-a lungul promenadei liniștite de pe Bosut, bucurându-vă de atmosfera pașnică la apus.",
+        "en": "Start your day in the heart of Vinkovci at Ban Šokčević Square. In the morning, delve into history by visiting the baroque church and the Town Museum, where you'll learn about Europe's oldest calendar, the Orion. After a traditional Slavonian lunch, explore the charming old streets of Krnjaš. End your day with a leisurely stroll along the tranquil Bosut River Promenade, enjoying the peaceful atmosphere as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Čobanac",
+            "tip": "Ein Muss für Liebhaber von Fleischeintöpfen."
+          },
+          {
+            "name": "Fisch-Paprikash",
+            "tip": "Eine lokale Spezialität aus Flussfisch."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Probieren Sie diese berühmte gewürzte Wurst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Čobanac",
+            "tip": "Húsos pörköltek kedvelőinek kötelező."
+          },
+          {
+            "name": "Halpaprikás",
+            "tip": "Helyi specialitás folyami halból."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Kóstolja meg ezt a híres fűszeres kolbászt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Čobanac",
+            "tip": "O necesitate pentru iubitorii de tocană de carne."
+          },
+          {
+            "name": "Papricaș de pește",
+            "tip": "O specialitate locală preparată din pește de râu."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Gustați acest celebru cârnat condimentat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Čobanac",
+            "tip": "A must-try for meat stew lovers."
+          },
+          {
+            "name": "Fish paprikash",
+            "tip": "A local specialty made from river fish."
+          },
+          {
+            "name": "Kulen",
+            "tip": "Taste this famous spiced sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bosut-Ufer",
+            "tip": "Finden Sie eine Bank und beobachten Sie, wie der Fluss vorbeifließt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Lenije",
+            "tip": "Ein ruhiger Ort, um dem Trubel der Stadt zu entkommen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bosut folyó partja",
+            "tip": "Keressen egy padot, és nézze a folyó áramlását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lenije park",
+            "tip": "Csendes hely a városi nyüzsgéstől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Bosut",
+            "tip": "Găsiți o bancă și priviți cum curge râul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Lenije",
+            "tip": "Un loc liniștit pentru a scăpa de agitația orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bosut Riverbank",
+            "tip": "Find a bench and watch the river flow by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lenije Park",
+            "tip": "A quiet spot to escape the city buzz.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtmarkt Vinkovci",
+            "tip": "Kaufen Sie frische lokale Produkte und handgemachte Waren."
+          },
+          {
+            "name": "Souvenirläden",
+            "tip": "Suchen Sie nach Repliken des Orion-Kalenders."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinkovci városi piac",
+            "tip": "Vásároljon friss helyi termékeket és kézműves árukat."
+          },
+          {
+            "name": "Ajándékboltok",
+            "tip": "Keressen Orion-naptár másolatokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața orașului Vinkovci",
+            "tip": "Cumpărați produse locale proaspete și articole de artizanat."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Căutați replici ale calendarului Orion."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinkovci City Market",
+            "tip": "Shop for fresh local produce and handmade goods."
+          },
+          {
+            "name": "Souvenir shops",
+            "tip": "Look for replicas of the Orion calendar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Halten Sie Wasser bereit, besonders an warmen Tagen.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Tartson magánál vizet, különösen meleg napokon.",
+          "A legtöbb belvárosi látnivaló könnyen megközelíthető gyalog."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Aveți apă la îndemână, mai ales în zilele călduroase.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Keep water handy, especially on warm days.",
+          "Most central sights are within easy walking distance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz von Ban Josip Šokčević",
+            "hu": "Ban Josip Šokčević tér",
+            "ro": "Piața Ban Josip Šokčević",
+            "en": "Ban Josip Šokčević Square"
+          },
+          "coords": [
+            18.8055,
+            45.2875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad und machen Sie sich bereit für die Erkundung.",
+            "hu": "Béreljen kerékpárt, és készüljön fel a felfedezésre.",
+            "ro": "Închiriați-vă bicicleta și pregătiți-vă de explorare.",
+            "en": "Rent your bike and get ready to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Vinkovci",
+            "hu": "Vinkovci Városi Múzeum",
+            "ro": "Muzeul Municipal Vinkovci",
+            "en": "Vinkovci Town Museum"
+          },
+          "coords": [
+            18.8045,
+            45.289
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie eintreten.",
+            "hu": "Biztonságosan parkolja le a kerékpárját, mielőtt belép.",
+            "ro": "Parcați-vă bicicleta în siguranță înainte de a intra.",
+            "en": "Park your bike securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Sopot",
+            "hu": "Sopot Régészeti Park",
+            "ro": "Parcul Arheologic Sopot",
+            "en": "Sopot Archaeological Park"
+          },
+          "coords": [
+            18.775,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt aufs Land zu dieser bedeutenden Stätte.",
+            "hu": "Élvezze az utat a vidékre ehhez a jelentős helyszínhez.",
+            "ro": "Bucurați-vă de plimbarea spre acest sit important.",
+            "en": "Enjoy the ride out to the countryside to this significant site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Parks",
+            "hu": "Ebéd a park közelében",
+            "ro": "Prânz lângă parc",
+            "en": "Lunch near the park"
+          },
+          "coords": [
+            18.778,
+            45.276
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit einer Mahlzeit, bevor Sie zurück in die Stadt fahren.",
+            "hu": "Töltődjön fel egy étkezéssel, mielőtt visszaindul a városba.",
+            "ro": "Refaceți-vă forțele cu o masă înainte de a vă întoarce în oraș.",
+            "en": "Refuel with a meal before heading back to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Krnjaš & Geburtshaus von Ivan Kozarac",
+            "hu": "Krnjaš és Ivan Kozarac szülőháza",
+            "ro": "Krnjaš și Casa memorială Ivan Kozarac",
+            "en": "Krnjaš & Birthplace of Ivan Kozarac"
+          },
+          "coords": [
+            18.8085,
+            45.286
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die engen Gassen dieses historischen Viertels.",
+            "hu": "Kerékpározzon végig ennek a történelmi negyednek a szűk utcáin.",
+            "ro": "Plimbați-vă cu bicicleta pe străduțele înguste ale acestui cartier istoric.",
+            "en": "Cycle through the narrow streets of this historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Orion-Denkmal",
+            "hu": "Orion-emlékmű",
+            "ro": "Monumentul Orion",
+            "en": "Orion Monument"
+          },
+          "coords": [
+            18.8075,
+            45.287
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp, um das ikonische Symbol der Stadt zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja a város ikonikus szimbólumát.",
+            "ro": "O scurtă oprire pentru a admira simbolul iconic al orașului.",
+            "en": "A quick stop to admire the city's iconic symbol."
+          }
+        },
+        {
+          "name": {
+            "de": "Radtour entlang der Bosut-Promenade",
+            "hu": "Kerékpártúra a Bosut-parti sétányon",
+            "ro": "Tur cu bicicleta de-a lungul promenadei Bosut",
+            "en": "Bike ride along the Bosut Promenade"
+          },
+          "coords": [
+            18.815,
+            45.283
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:33",
+          "stay_min": 137,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer entspannten Fahrt entlang des Flusses.",
+            "hu": "Zárja a napot egy pihentető tekeréssel a folyó mentén.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului.",
+            "en": "End the day with a relaxing ride along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour im Zentrum von Vinkovci. Am Vormittag besuchen Sie das Stadtmuseum, bevor Sie eine landschaftlich reizvolle Fahrt zum Archäologischen Park Sopot unternehmen. Nach einem Mittagessen auf dem Land radeln Sie zurück in die Stadt, um die alten Gassen von Krnjaš zu erkunden. Der Nachmittag ist für eine gemütliche Fahrt entlang der Bosut-Promenade reserviert, wo Sie die Natur und die ruhige Atmosphäre genießen können, um Ihren Tag ausklingen zu lassen.",
+        "hu": "Kezdje a kerékpártúrát Vinkovci központjában. Délelőtt látogasson el a városi múzeumba, mielőtt egy festői útra indul a Sopot Régészeti Parkba. Egy vidéki ebéd után tekerjen vissza a városba, hogy felfedezze Krnjaš régi sikátorait. A délután egy kellemes tekerésre van fenntartva a Bosut-parti sétányon, ahol élvezheti a természetet és a nyugodt légkört a nap lezárásaként.",
+        "ro": "Începeți-vă turul cu bicicleta din centrul orașului Vinkovci. Dimineața, vizitați Muzeul Municipal înainte de a face o plimbare pitorească până la Parcul Arheologic Sopot. După prânzul la țară, pedalați înapoi în oraș pentru a explora străduțele vechi din Krnjaš. După-amiaza este rezervată unei plimbări relaxante de-a lungul promenadei Bosut, bucurându-vă de natură și de atmosfera liniștită pentru a încheia ziua.",
+        "en": "Start your bike tour in the center of Vinkovci. In the morning, visit the Town Museum before taking a scenic ride out to the Sopot Archaeological Park. After lunch in the countryside, pedal back to the city to explore the old alleys of Krnjaš. The afternoon is reserved for a leisurely ride along the Bosut Promenade, enjoying nature and the calm atmosphere to finish your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Slawonische Jause",
+            "tip": "Ein Teller mit Kulen, Käse und Brot für unterwegs."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Gegrillter Karpfen, eine Delikatesse am Fluss."
+          },
+          {
+            "name": "Lokales Craft-Bier",
+            "tip": "Erfrischen Sie sich nach einer langen Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szlavón uzsonna",
+            "tip": "Egy tál kulen, sajt és kenyér útközben."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Grillezett ponty, folyóparti csemege."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Frissüljön fel egy hosszú tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustare slavonă",
+            "tip": "O farfurie cu kulen, brânză și pâine pentru drum."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Crap la grătar, o delicatesă pe malul râului."
+          },
+          {
+            "name": "Bere artizanală locală",
+            "tip": "Răcoriți-vă după o plimbare lungă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slavonian snack",
+            "tip": "A plate of kulen, cheese, and bread for the road."
+          },
+          {
+            "name": "Šaran na rašljama",
+            "tip": "Grilled carp, a riverside delicacy."
+          },
+          {
+            "name": "Local craft beer",
+            "tip": "Refresh yourself after a long ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Archäologischer Park Sopot",
+            "tip": "Ein ruhiger Ort, um über die antike Geschichte nachzudenken.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Flussufer des Bosut",
+            "tip": "Perfekt für eine friedliche Pause während Ihrer Radtour.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sopot Régészeti Park",
+            "tip": "Csendes hely az ókori történelemről való elmélkedéshez.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Bosut folyó partja",
+            "tip": "Tökéletes egy békés szünetre a kerékpártúra során.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Arheologic Sopot",
+            "tip": "Un loc liniștit pentru a reflecta asupra istoriei antice.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Malul râului Bosut",
+            "tip": "Perfect pentru o pauză liniștită în timpul turului cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sopot Archaeological Park",
+            "tip": "A quiet place to reflect on ancient history.",
+            "emoji": "🏛️"
+          },
+          {
+            "name": "Bosut riverbank",
+            "tip": "Perfect for a peaceful break during your bike ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "Kaufen Sie Zubehör oder lassen Sie Ihr Fahrrad überprüfen."
+          },
+          {
+            "name": "Lokale Honigproduzenten",
+            "tip": "Süße und gesunde Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Vásároljon kiegészítőket vagy ellenőriztesse kerékpárját."
+          },
+          {
+            "name": "Helyi méztermelők",
+            "tip": "Édes és egészséges ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Cumpărați accesorii sau verificați-vă bicicleta."
+          },
+          {
+            "name": "Producători locali de miere",
+            "tip": "Suveniruri dulci și sănătoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops",
+            "tip": "Get some accessories or a check-up for your bike."
+          },
+          {
+            "name": "Local honey producers",
+            "tip": "Sweet and healthy souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Schließen Sie Ihr Fahrrad immer ab, wenn Sie es abstellen.",
+          "Einige Wege außerhalb der Stadt können uneben sein, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Mindig zárja le a kerékpárját, amikor elhagyja.",
+          "Néhány városon kívüli út egyenetlen lehet, vezessen óvatosan."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Încuiati întotdeauna bicicleta când o lăsați.",
+          "Unele drumuri din afara orașului pot fi denivelate, conduceți cu atenție."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Always lock your bike when leaving it.",
+          "Some paths outside the city can be bumpy, ride with care."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Archäologischer Park Sopot",
+            "hu": "A klaszter: Sopot Régészeti Park",
+            "ro": "Cluster A: Parcul Arheologic Sopot",
+            "en": "Cluster A: Sopot Archaeological Park"
+          },
+          "coords": [
+            18.775,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie mit einer Fahrt in die Vergangenheit. Parkplätze sind vorhanden.",
+            "hu": "Kezdje egy utazással a múltba. Parkolási lehetőség biztosított.",
+            "ro": "Începeți cu o călătorie în trecut. Parcarea este disponibilă.",
+            "en": "Start with a drive into the past. Parking is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Parkplatz Zentrum & Stadtmuseum",
+            "hu": "B klaszter: Belvárosi parkoló és Városi Múzeum",
+            "ro": "Cluster B: Parcare centrală și Muzeul Municipal",
+            "en": "Cluster B: Center Parking & Town Museum"
+          },
+          "coords": [
+            18.804,
+            45.2895
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rest des Tages und erkunden Sie zu Fuß.",
+            "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a környéket gyalog.",
+            "ro": "Parcați aici pentru restul zilei și explorați pe jos.",
+            "en": "Park here for the rest of the day and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz von Ban Josip Šokčević",
+            "hu": "Ban Josip Šokčević tér",
+            "ro": "Piața Ban Josip Šokčević",
+            "en": "Ban Josip Šokčević Square"
+          },
+          "coords": [
+            18.8055,
+            45.2875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum belebten Hauptplatz.",
+            "hu": "Egy rövid séta a múzeumtól a nyüzsgő főtérig.",
+            "ro": "O scurtă plimbare de la muzeu la piața principală aglomerată.",
+            "en": "A short walk from the museum to the bustling main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Platz",
+            "hu": "Ebéd a téren",
+            "ro": "Prânz în piață",
+            "en": "Lunch at the Square"
+          },
+          "coords": [
+            18.8065,
+            45.2878
+          ],
+          "category": "gastro",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die slawonische Küche mit Blick auf den Platz.",
+            "hu": "Élvezze a szlavón konyhát a térre néző kilátással.",
+            "ro": "Bucurați-vă de bucătăria slavonă cu vedere la piață.",
+            "en": "Enjoy Slavonian cuisine with a view of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Eusebius und Pollio",
+            "hu": "Szent Eusebius és Polio templom",
+            "ro": "Biserica Sf. Eusebiu și Polion",
+            "en": "Church of St. Eusebius and Polion"
+          },
+          "coords": [
+            18.806,
+            45.288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche.",
+            "hu": "Csodálja meg ennek a központi templomnak az építészetét.",
+            "ro": "Admirați arhitectura acestei biserici centrale.",
+            "en": "Admire the architecture of this central church."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Spaziergang zur Bosut-Promenade",
+            "hu": "C klaszter: Séta a Bosut-parti sétányhoz",
+            "ro": "Cluster C: Plimbare pe Promenada Bosut",
+            "en": "Cluster C: Walk to the Bosut Promenade"
+          },
+          "coords": [
+            18.809,
+            45.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Strecken Sie Ihre Beine bei einem Spaziergang zum Fluss.",
+            "hu": "Nyújtsa ki a lábát egy sétával a folyóhoz.",
+            "ro": "Întindeți-vă picioarele cu o plimbare până la râu.",
+            "en": "Stretch your legs with a walk down to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Krnjaš & Orion-Denkmal",
+            "hu": "Krnjaš és Orion-emlékmű",
+            "ro": "Krnjaš și Monumentul Orion",
+            "en": "Krnjaš & Orion Monument"
+          },
+          "coords": [
+            18.808,
+            45.2865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:23",
+          "stay_min": 77,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie zurück durch die Altstadt und beenden Sie den Rundgang.",
+            "hu": "Sétáljon vissza az óvároson keresztül, befejezve a kört.",
+            "ro": "Plimbați-vă înapoi prin orașul vechi pentru a încheia circuitul.",
+            "en": "Stroll back through the old town to complete the circuit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Auto am Archäologischen Park Sopot, um in die alte Geschichte einzutauchen. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den Rest des Tages zu Fuß. Besuchen Sie das Stadtmuseum, essen Sie auf dem Hauptplatz zu Mittag und bewundern Sie die Barockkirche. Schließen Sie den Tag mit einem Spaziergang durch die alten Straßen von Krnjaš und entlang der entspannenden Bosut-Promenade ab.",
+        "hu": "Kezdje a napot autóval a Sopot Régészeti Parkban, hogy elmerüljön az ókori történelemben. Ezután hajtson be a központba, parkolja le az autót, és a nap hátralévő részében gyalogosan fedezze fel a várost. Látogasson el a városi múzeumba, ebédeljen a főtéren, és csodálja meg a barokk templomot. Zárja a napot egy sétával Krnjaš régi utcáin és a pihentető Bosut-parti sétányon.",
+        "ro": "Începeți ziua cu mașina la Parcul Arheologic Sopot pentru o incursiune în istoria antică. Apoi, conduceți spre centru, parcați mașina și explorați pe jos pentru restul zilei. Vizitați Muzeul Municipal, luați prânzul în piața principală și admirați biserica barocă. Încheiați cu o plimbare pe străzile vechi din Krnjaš și de-a lungul promenadei relaxante Bosut.",
+        "en": "Start your day with a drive to the Sopot Archaeological Park for a dive into ancient history. Then, drive to the center, park your car, and explore on foot for the rest of the day. Visit the Town Museum, have lunch in the main square, and admire the baroque church. Conclude with a walk through the old streets of Krnjaš and along the relaxing Bosut Promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Admiral",
+            "tip": "Bekannt für seine exzellente slawonische Küche."
+          },
+          {
+            "name": "Pizzeria Slavonija",
+            "tip": "Für eine schnelle, aber leckere Mahlzeit."
+          },
+          {
+            "name": "Konditorei 'Šokica'",
+            "tip": "Probieren Sie traditionelle kroatische Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Admiral étterem",
+            "tip": "Kiváló szlavón konyhájáról ismert."
+          },
+          {
+            "name": "Slavonija Pizzéria",
+            "tip": "Egy gyors, de ízletes étkezéshez."
+          },
+          {
+            "name": "'Šokica' cukrászda",
+            "tip": "Kóstolja meg a hagyományos horvát süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Admiral",
+            "tip": "Renumit pentru bucătăria sa slavonă excelentă."
+          },
+          {
+            "name": "Pizzeria Slavonija",
+            "tip": "Pentru o masă rapidă, dar gustoasă."
+          },
+          {
+            "name": "Cofetăria 'Šokica'",
+            "tip": "Gustați prăjituri tradiționale croate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Admiral",
+            "tip": "Known for its excellent Slavonian cuisine."
+          },
+          {
+            "name": "Pizzeria Slavonija",
+            "tip": "For a quick but tasty meal."
+          },
+          {
+            "name": "Confectionery 'Šokica'",
+            "tip": "Try traditional Croatian cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknick im Sopot Park",
+            "tip": "Ein ruhiger Ort außerhalb der Stadt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sonnenuntergang am Bosut",
+            "tip": "Ein friedlicher Abschluss des Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a Sopot parkban",
+            "tip": "Csendes hely a városon kívül.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Naplemente a Bosut folyónál",
+            "tip": "Békés lezárása a napnak.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în Parcul Sopot",
+            "tip": "Un loc liniștit în afara orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Apus de soare pe Bosut",
+            "tip": "Un final pașnic al zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at Sopot Park",
+            "tip": "A quiet spot outside the city.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sunset at the Bosut River",
+            "tip": "A peaceful end to the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weingüter",
+            "tip": "Kaufen Sie eine Flasche slawonischen Weins, wenn Sie Zeit haben, die Umgebung zu erkunden."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Suchen Sie nach einzigartigen, handgefertigten Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászatok",
+            "tip": "Vásároljon egy üveg szlavón bort, ha van ideje felfedezni a környéket."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Keressen egyedi, kézzel készített ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați o sticlă de vin slavon dacă aveți timp să explorați zona înconjurătoare."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Căutați suveniruri unice, lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wineries",
+            "tip": "Buy a bottle of Slavonian wine if you have time to explore the surroundings."
+          },
+          {
+            "name": "Craft shops",
+            "tip": "Look for unique, handmade souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Parkgebühren und -regelungen im Stadtzentrum.",
+          "Vinkovci ist relativ klein, daher ist das Parken und Laufen eine großartige Strategie.",
+          "Planen Sie zusätzliche Zeit für den Verkehr während der Stoßzeiten ein."
+        ],
+        "hu": [
+          "Ellenőrizze a parkolási díjakat és szabályokat a városközpontban.",
+          "Vinkovci viszonylag kicsi, így a parkolás és séta nagyszerű stratégia.",
+          "Tervezzen plusz időt a csúcsforgalomra."
+        ],
+        "ro": [
+          "Verificați taxele și regulile de parcare în centrul orașului.",
+          "Vinkovci este relativ mic, deci parcarea și mersul pe jos este o strategie excelentă.",
+          "Planificați timp suplimentar pentru trafic în orele de vârf."
+        ],
+        "en": [
+          "Check parking fees and regulations in the city center.",
+          "Vinkovci is relatively small, so parking and walking is a great strategy.",
+          "Plan for extra time for traffic during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Hauptbahnhof & Stadtmuseum",
+            "hu": "A klaszter: Főpályaudvar és Városi Múzeum",
+            "ro": "Cluster A: Gara Centrală și Muzeul Municipal",
+            "en": "Cluster A: Main Station & Town Museum"
+          },
+          "coords": [
+            18.804,
+            45.2895
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag, indem Sie einen Bus in die Nähe des Museums nehmen.",
+            "hu": "Kezdje a napot egy busszal a múzeum közelébe.",
+            "ro": "Începeți ziua luând un autobuz aproape de muzeu.",
+            "en": "Start your day by taking a bus near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz von Ban Josip Šokčević",
+            "hu": "Ban Josip Šokčević tér",
+            "ro": "Piața Ban Josip Šokčević",
+            "en": "Ban Josip Šokčević Square"
+          },
+          "coords": [
+            18.8055,
+            45.2875
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zum Herzen der Stadt.",
+            "hu": "Egy rövid séta a múzeumtól a város szívéig.",
+            "ro": "O scurtă plimbare de la muzeu până în inima orașului.",
+            "en": "A short walk from the museum to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            18.806,
+            45.287
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche, bevor Sie Ihre Erkundung fortsetzen.",
+            "hu": "Élvezze a helyi konyhát a felfedezés folytatása előtt.",
+            "ro": "Bucurați-vă de bucătăria locală înainte de a continua explorarea.",
+            "en": "Enjoy the local cuisine before continuing your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Fahrt zum Archäologischen Park Sopot",
+            "hu": "B klaszter: Utazás a Sopot Régészeti Parkba",
+            "ro": "Cluster B: Călătorie la Parcul Arheologic Sopot",
+            "en": "Cluster B: Trip to Sopot Archaeological Park"
+          },
+          "coords": [
+            18.775,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um diese Stätte außerhalb der Stadt zu erreichen.",
+            "hu": "Vegyen egy helyi buszt, hogy elérje ezt a városon kívüli helyszínt.",
+            "ro": "Luați un autobuz local pentru a ajunge la acest sit din afara orașului.",
+            "en": "Take a local bus to reach this out-of-town site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Bus zur Bosut-Promenade",
+            "hu": "C klaszter: Busz a Bosut-parti sétányhoz",
+            "ro": "Cluster C: Autobuz spre Promenada Bosut",
+            "en": "Cluster C: Bus to the Bosut Promenade"
+          },
+          "coords": [
+            18.809,
+            45.285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt und steigen Sie in der Nähe des Flusses aus.",
+            "hu": "Menjen vissza a városba, és szálljon le a folyó közelében.",
+            "ro": "Întoarceți-vă în oraș și coborâți lângă râu.",
+            "en": "Head back into the city and get off near the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Orion-Denkmal",
+            "hu": "Orion-emlékmű",
+            "ro": "Monumentul Orion",
+            "en": "Orion Monument"
+          },
+          "coords": [
+            18.8075,
+            45.287
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss auf Ihrem Spaziergang entlang des Flusses.",
+            "hu": "Kötelező látnivaló a folyó menti sétán.",
+            "ro": "O oprire obligatorie în plimbarea dvs. de-a lungul râului.",
+            "en": "A must-see on your walk along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Krnjaš-Viertel",
+            "hu": "Krnjaš negyed",
+            "ro": "Cartierul Krnjaš",
+            "en": "Krnjaš Quarter"
+          },
+          "coords": [
+            18.808,
+            45.2865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:18",
+          "stay_min": 97,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den alten Straßen, bevor Sie den Bus nach Hause nehmen.",
+            "hu": "Tévedjen el a régi utcákon, mielőtt hazamegy a busszal.",
+            "ro": "Pierdeți-vă pe străzile vechi înainte de a lua autobuzul spre casă.",
+            "en": "Get lost in the old streets before catching your bus home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Bussystem, um Vinkovci zu erkunden. Beginnen Sie im Zentrum mit dem Stadtmuseum und dem Hauptplatz. Nehmen Sie dann einen Bus zum faszinierenden Archäologischen Park Sopot. Nach Ihrer Rückkehr in die Stadt bringt Sie ein weiterer Bus in die Nähe der Bosut-Promenade, wo Sie einen entspannten Nachmittag verbringen und durch das historische Viertel Krnjaš schlendern können, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Használja a helyi buszhálózatot Vinkovci felfedezéséhez. Kezdje a központban a városi múzeummal és a főtérrel. Ezután busszal menjen el a lenyűgöző Sopot Régészeti Parkba. Miután visszatért a városba, egy másik busz elviszi a Bosut-parti sétány közelébe, ahol egy pihentető délutánt tölthet, és sétálhat a történelmi Krnjaš negyedben, mielőtt hazaindul.",
+        "ro": "Folosiți sistemul local de autobuze pentru a explora Vinkovci. Începeți în centru cu Muzeul Municipal și piața principală. Apoi, luați un autobuz spre fascinantul Parc Arheologic Sopot. După întoarcerea în oraș, un alt autobuz vă va duce lângă Promenada Bosut pentru o după-amiază relaxantă, plimbându-vă prin cartierul istoric Krnjaš înainte de a vă îndrepta spre casă.",
+        "en": "Use the local bus system to explore Vinkovci. Start in the center with the Town Museum and the main square. Then, take a bus to the fascinating Sopot Archaeological Park. After returning to the city, another bus will take you near the Bosut Promenade for a relaxing afternoon, strolling through the historic Krnjaš quarter before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckereien in der Nähe von Bushaltestellen",
+            "tip": "Schnappen Sie sich ein Gebäck für die Fahrt."
+          },
+          {
+            "name": "Cafés im Zentrum",
+            "tip": "Ein perfekter Ort, um auf den nächsten Bus zu warten."
+          },
+          {
+            "name": "Lokale Fast-Food-Optionen",
+            "tip": "Für eine schnelle und günstige Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a buszmegállók közelében",
+            "tip": "Vegyen egy péksüteményt az útra."
+          },
+          {
+            "name": "Kávézók a központban",
+            "tip": "Tökéletes hely a következő buszra való várakozáshoz."
+          },
+          {
+            "name": "Helyi gyorséttermi lehetőségek",
+            "tip": "Egy gyors és olcsó étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării lângă stațiile de autobuz",
+            "tip": "Luați un produs de patiserie pentru drum."
+          },
+          {
+            "name": "Cafenele în centru",
+            "tip": "Un loc perfect pentru a aștepta următorul autobuz."
+          },
+          {
+            "name": "Opțiuni locale de fast-food",
+            "tip": "Pentru o masă rapidă și ieftină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries near bus stops",
+            "tip": "Grab a pastry for the ride."
+          },
+          {
+            "name": "Cafes in the center",
+            "tip": "A perfect spot to wait for your next bus."
+          },
+          {
+            "name": "Local fast-food options",
+            "tip": "For a quick and cheap meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fensterplatz im Bus",
+            "tip": "Beobachten Sie die Stadt an sich vorbeiziehen.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank am Fluss",
+            "tip": "Ein ruhiger Moment zwischen den Busfahrten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ablak melletti ülés a buszon",
+            "tip": "Nézze, ahogy elsuhan a város.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a folyóparton",
+            "tip": "Csendes pillanat két buszozás között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc la fereastră în autobuz",
+            "tip": "Urmăriți orașul cum trece pe lângă dvs.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă lângă râu",
+            "tip": "Un moment de liniște între călătoriile cu autobuzul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Window seat on the bus",
+            "tip": "Watch the city go by.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench by the river",
+            "tip": "A quiet moment between bus rides.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie Fahrkarten, Getränke und Snacks."
+          },
+          {
+            "name": "Geschäfte in der Nähe des Hauptplatzes",
+            "tip": "Durchsuchen Sie Souvenirs, während Sie auf Ihren Bus warten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszkok",
+            "tip": "Vásároljon jegyeket, italokat és rágcsálnivalókat."
+          },
+          {
+            "name": "Boltok a főtér közelében",
+            "tip": "Böngésszen az ajándéktárgyak között, amíg a buszra vár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați bilete, băuturi și gustări."
+          },
+          {
+            "name": "Magazine lângă piața principală",
+            "tip": "Răsfoiți suveniruri în timp ce așteptați autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosks",
+            "tip": "Buy tickets, drinks, and snacks."
+          },
+          {
+            "name": "Shops near the main square",
+            "tip": "Browse for souvenirs while waiting for your bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg.",
+          "Beachten Sie, dass die Busse am Abend möglicherweise seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Minden felszálláskor érvényesítse a jegyét.",
+          "Vegye figyelembe, hogy a buszok este ritkábban közlekedhetnek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați orarele autobuzelor în avans.",
+          "Validați-vă biletul de fiecare dată când vă urcați.",
+          "Rețineți că autobuzele pot circula mai rar seara."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "Check the bus schedules in advance.",
+          "Validate your ticket each time you board.",
+          "Be aware that buses may run less frequently in the evening."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1171 @@
+{
+  "city_id": "ireland-banbridge-cities-v2",
+  "anchor": {
+    "name": "Banbridge",
+    "coords": [
+      -6.2624,
+      54.3547
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "The Cut",
+            "hu": "The Cut",
+            "ro": "The Cut",
+            "en": "The Cut"
+          },
+          "coords": [
+            -6.2633,
+            54.3551
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein einzigartiger, von Menschenhand geschaffener Kanal aus dem 19. Jahrhundert, der direkt durch die Stadt führt.",
+            "hu": "Egy egyedülálló, 19. századi mesterséges csatorna, amely átszeli a várost.",
+            "ro": "Un canal unic, creat de om în secolul al XIX-lea, ce traversează centrul orașului.",
+            "en": "A unique 19th-century man-made channel that runs right through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Downshire-Brücke",
+            "hu": "Downshire-híd",
+            "ro": "Podul Downshire",
+            "en": "Downshire Bridge"
+          },
+          "coords": [
+            -6.2638,
+            54.3555
+          ],
+          "category": "bridges",
+          "arrive_at": "09:46",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine elegante Brücke über The Cut, ideal für Fotos.",
+            "hu": "Egy elegáns híd a The Cut felett, tökéletes fotózáshoz.",
+            "ro": "Un pod elegant peste The Cut, ideal pentru fotografii.",
+            "en": "An elegant bridge over The Cut, perfect for photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Crozier-Denkmal",
+            "hu": "Crozier-emlékmű",
+            "ro": "Monumentul Crozier",
+            "en": "Crozier Memorial"
+          },
+          "coords": [
+            -6.2645,
+            54.3548
+          ],
+          "category": "monuments",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erinnert an den Arktisforscher Francis Crozier, einen Sohn der Stadt.",
+            "hu": "Francis Crozier sarkkutatónak, a város szülöttének állít emléket.",
+            "ro": "Comemorează exploratorul arctic Francis Crozier, un fiu al orașului.",
+            "en": "Commemorates the Arctic explorer Francis Crozier, a son of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Church",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2591,
+            54.3525
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die ruhige Atmosphäre dieser historischen Kirche.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az építészetét és csendes légkörét.",
+            "ro": "Admirați arhitectura și atmosfera liniștită a acestei biserici istorice.",
+            "en": "Admire the architecture and peaceful atmosphere of this historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bann River Walk",
+            "hu": "Sétány a Bann folyó mentén",
+            "ro": "Promenada râului Bann",
+            "en": "Bann River Walk"
+          },
+          "coords": [
+            -6.2695,
+            54.3508
+          ],
+          "category": "promenades",
+          "arrive_at": "12:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses, perfekt für eine Mittagspause.",
+            "hu": "Egy pihentető séta a folyó mentén, tökéletes egy déli szünetre.",
+            "ro": "O plimbare relaxantă de-a lungul râului, perfectă pentru o pauză de prânz.",
+            "en": "A relaxing stroll along the river, perfect for a midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Solitude Park",
+            "hu": "Solitude Park",
+            "ro": "Parcul Solitude",
+            "en": "Solitude Park"
+          },
+          "coords": [
+            -6.271,
+            54.3501
+          ],
+          "category": "parks",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine grüne Oase mit Gärten und Spielplätzen, ideal zum Entspannen.",
+            "hu": "Zöld oázis kertekkel és játszóterekkel, ideális a pihenéshez.",
+            "ro": "O oază de verdeață cu grădini și locuri de joacă, ideală pentru relaxare.",
+            "en": "A green oasis with gardens and playgrounds, ideal for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "F.E. McWilliam Gallery",
+            "hu": "F.E. McWilliam Galéria",
+            "ro": "Galeria F.E. McWilliam",
+            "en": "F.E. McWilliam Gallery"
+          },
+          "coords": [
+            -6.2725,
+            54.3495
+          ],
+          "category": "museums",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gewidmet dem berühmten Bildhauer F.E. McWilliam, mit einem Skulpturengarten.",
+            "hu": "A híres szobrásznak, F.E. McWilliamnek szentelt galéria, szoborkerttel.",
+            "ro": "Dedicată renumitului sculptor F.E. McWilliam, cu o grădină de sculpturi.",
+            "en": "Dedicated to the famous sculptor F.E. McWilliam, featuring a sculpture garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Banbridge bei 'The Cut', einem beeindruckenden Ingenieurwerk des 19. Jahrhunderts. Der Vormittag führt Sie zu historischen Wahrzeichen wie dem Crozier-Denkmal und der St.-Patricks-Kirche, die die reiche Geschichte der Stadt widerspiegeln. Genießen Sie am Mittag einen ruhigen Spaziergang entlang des Flusses Bann, der eine friedliche Auszeit bietet. Der Nachmittag ist der Kunst und Natur gewidmet, mit einem Besuch im Solitude Park und der F.E. McWilliam Gallery, die einen inspirierenden Abschluss Ihres Spaziergangs bildet. Dieser Tag ist eine perfekte Mischung aus Geschichte, Natur und Kultur.",
+        "hu": "Kezdje a napot Banbridge szívében, a 'The Cut'-nál, egy lenyűgöző 19. századi mérnöki alkotásnál. A délelőtt a város gazdag történelmét tükröző nevezetességekhez, a Crozier-emlékműhöz és a Szent Patrik-templomhoz vezet. Délben tegyen egy csendes sétát a Bann folyó mentén, amely békés kikapcsolódást nyújt. A délután a művészeté és a természeté a Solitude Parkban és az F.E. McWilliam Galériában, ami inspiráló lezárása a gyalogtúrának. Ez a nap a történelem, a természet és a kultúra tökéletes keveréke.",
+        "ro": "Începeți ziua în inima orașului Banbridge la 'The Cut', o lucrare impresionantă de inginerie din secolul al XIX-lea. Dimineața vă poartă spre repere istorice precum Monumentul Crozier și Biserica Sf. Patrick, reflectând istoria bogată a orașului. La prânz, bucurați-vă de o plimbare liniștită de-a lungul râului Bann, oferind o pauză pașnică. După-amiaza este dedicată artei și naturii, cu o vizită la Parcul Solitude și Galeria F.E. McWilliam, oferind o încheiere inspirată a turului pietonal. Această zi este un amestec perfect de istorie, natură și cultură.",
+        "en": "Start your day in the heart of Banbridge at 'The Cut', an impressive 19th-century engineering feat. The morning takes you to historic landmarks like the Crozier Memorial and St. Patrick's Church, reflecting the town's rich history. At noon, enjoy a quiet walk along the River Bann, offering a peaceful respite. The afternoon is dedicated to art and nature with a visit to Solitude Park and the F.E. McWilliam Gallery, providing an inspiring conclusion to your walking tour. This day is a perfect blend of history, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Probieren Sie das traditionelle nordirische Frühstück in einem der örtlichen Cafés."
+          },
+          {
+            "name": "Bannside Bistro",
+            "tip": "Ideal für ein Mittagessen mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Kóstolja meg a hagyományos észak-ír reggelit a helyi kávézók egyikében."
+          },
+          {
+            "name": "Bannside Bistro",
+            "tip": "Ideális egy ebédhez, kilátással a folyóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Încercați micul dejun tradițional nord-irlandez la una dintre cafenelele locale."
+          },
+          {
+            "name": "Bannside Bistro",
+            "tip": "Perfect pentru un prânz cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulster Fry",
+            "tip": "Try the traditional Northern Irish breakfast at one of the local cafes."
+          },
+          {
+            "name": "Bannside Bistro",
+            "tip": "Ideal for a lunch with a view of the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bann River Walk",
+            "tip": "Finden Sie eine Bank und lauschen Sie dem Plätschern des Flusses.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skulpturengarten der F.E. McWilliam Gallery",
+            "tip": "Ein ruhiger Ort, um Kunst und Natur zu genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a Bann folyó mentén",
+            "tip": "Keressen egy padot, és hallgassa a folyó csobogását.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az F.E. McWilliam Galéria szoborkertje",
+            "tip": "Csendes hely a művészet és a természet élvezetére.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Bann",
+            "tip": "Găsiți o bancă și ascultați susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina de sculpturi a Galeriei F.E. McWilliam",
+            "tip": "Un loc liniștit pentru a te bucura de artă și natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bann River Walk",
+            "tip": "Find a bench and listen to the gentle flow of the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "F.E. McWilliam Gallery Sculpture Garden",
+            "tip": "A quiet spot to enjoy art and nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Boutiquen",
+            "tip": "Entdecken Sie die unabhängigen Geschäfte in der Bridge Street für einzigartige Funde."
+          },
+          {
+            "name": "Leinenwaren",
+            "tip": "Banbridge hat eine reiche Geschichte in der Leinenproduktion; suchen Sie nach lokalen Leinenprodukten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi butikok",
+            "tip": "Fedezze fel a Bridge Street független üzleteit egyedi leletekért."
+          },
+          {
+            "name": "Vászonszövet",
+            "tip": "Banbridge gazdag vászon-történelemmel rendelkezik; keressen helyi vászontermékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri locale",
+            "tip": "Explorați magazinele independente de pe Bridge Street pentru descoperiri unice."
+          },
+          {
+            "name": "Articole din in",
+            "tip": "Banbridge are o istorie bogată în producția de in; căutați produse locale din in."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Boutiques",
+            "tip": "Explore the independent shops on Bridge Street for unique finds."
+          },
+          {
+            "name": "Linen Goods",
+            "tip": "Banbridge has a rich history in linen production; look for local linen products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie mehrere Kilometer zurücklegen werden.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Prüfen Sie die Öffnungszeiten der Galerie im Voraus.",
+          "Ein leichter Regenmantel ist in Irland immer eine gute Idee."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel több kilométert fog gyalogolni.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "Előre ellenőrizze a galéria nyitvatartási idejét.",
+          "Egy könnyű esőkabát mindig jó ötlet Írországban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece veți parcurge câțiva kilometri.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Verificați în avans programul de funcționare al galeriei.",
+          "O pelerină de ploaie ușoară este întotdeauna o idee bună în Irlanda."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be covering several kilometers.",
+          "Bring a reusable water bottle.",
+          "Check the gallery's opening hours in advance.",
+          "A light raincoat is always a good idea in Ireland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Crozier-Denkmal",
+            "hu": "Crozier-emlékmű",
+            "ro": "Monumentul Crozier",
+            "en": "Crozier Memorial"
+          },
+          "coords": [
+            -6.2645,
+            54.3548
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schneller erster Halt, um dem berühmten Sohn der Stadt die Ehre zu erweisen.",
+            "hu": "Gyors első megálló, hogy tisztelegjünk a város híres szülötte előtt.",
+            "ro": "O primă oprire rapidă pentru a aduce un omagiu faimosului fiu al orașului.",
+            "en": "A quick first stop to pay homage to the town's famous son."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cut & Downshire-Brücke",
+            "hu": "The Cut és Downshire-híd",
+            "ro": "The Cut și Podul Downshire",
+            "en": "The Cut & Downshire Bridge"
+          },
+          "coords": [
+            -6.2635,
+            54.3553
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Meisterleistung der Ingenieurskunst und machen Sie ein Foto auf der Brücke.",
+            "hu": "Csodálja meg ezt a mérnöki bravúrt, és készítsen egy fotót a hídon.",
+            "ro": "Admirați această capodoperă inginerească și faceți o fotografie pe pod.",
+            "en": "Admire this feat of engineering and snap a photo on the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Church",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2591,
+            54.3525
+          ],
+          "category": "churches",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher, um die ruhige Atmosphäre und die Architektur zu genießen.",
+            "hu": "Egy rövid kitérő, hogy élvezze a békés légkört és az építészetet.",
+            "ro": "Un scurt ocol pentru a aprecia atmosfera liniștită și arhitectura.",
+            "en": "A short detour to appreciate the peaceful atmosphere and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Bann River Walk",
+            "hu": "Sétány a Bann folyó mentén",
+            "ro": "Promenada râului Bann",
+            "en": "Bann River Walk"
+          },
+          "coords": [
+            -6.2695,
+            54.3508
+          ],
+          "category": "promenades",
+          "arrive_at": "10:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radtour entlang des Flusses ist besonders schön und erfrischend.",
+            "hu": "A folyó menti kerékpárút különösen szép és frissítő.",
+            "ro": "Plimbarea cu bicicleta de-a lungul râului este deosebit de frumoasă și revigorantă.",
+            "en": "The cycle path along the river is especially beautiful and refreshing."
+          }
+        },
+        {
+          "name": {
+            "de": "Solitude Park & F.E. McWilliam Gallery",
+            "hu": "Solitude Park és F.E. McWilliam Galéria",
+            "ro": "Parcul Solitude și Galeria F.E. McWilliam",
+            "en": "Solitude Park & F.E. McWilliam Gallery"
+          },
+          "coords": [
+            -6.2718,
+            54.3498
+          ],
+          "category": "parks",
+          "arrive_at": "11:32",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie sowohl den Park als auch die Galerie.",
+            "hu": "Zárja le a kerékpárt, és fedezze fel a parkot és a galériát is.",
+            "ro": "Parcați bicicleta și explorați atât parcul, cât și galeria.",
+            "en": "Lock up your bike and explore both the park and the gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullylish-Kirche",
+            "hu": "Tullylish-templom",
+            "ro": "Biserica Tullylish",
+            "en": "Tullylish Church"
+          },
+          "coords": [
+            -6.321,
+            54.385
+          ],
+          "category": "churches",
+          "arrive_at": "14:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine längere, aber lohnende Fahrt zu dieser alten Kirche mit reicher Geschichte.",
+            "hu": "Egy hosszabb, de megérő út ehhez a gazdag történelmű, ősi templomhoz.",
+            "ro": "O plimbare mai lungă, dar care merită, până la această biserică veche cu o istorie bogată.",
+            "en": "A longer but rewarding ride to this ancient church with a rich history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad für eine Tour durch Banbridge und Umgebung. Beginnen Sie im Zentrum mit einem Blick auf das Crozier-Denkmal und 'The Cut'. Der Vormittag führt Sie auf einer gemütlichen Fahrt entlang des Bann-Flusses, bevor Sie im Solitude Park eine längere Pause einlegen, um die F.E. McWilliam Gallery zu besuchen. Der Nachmittag hält eine landschaftlich reizvolle Fahrt zur historischen Tullylish-Kirche bereit und bietet Einblicke in das ländliche Erbe der Region. Ihre Rückkehr ins Stadtzentrum am späten Nachmittag rundet einen aktiven Tag voller Entdeckungen ab.",
+        "hu": "Pattanjon kerékpárra, és tegyen egy kört Banbridge-ben és környékén. Kezdje a központban a Crozier-emlékmű és a 'The Cut' megtekintésével. A délelőtt egy kellemes tekerés a Bann folyó mentén, mielőtt hosszabb pihenőt tartana a Solitude Parkban az F.E. McWilliam Galéria meglátogatásával. A délután egy festői utat tartogat a történelmi Tullylish-templomhoz, bepillantást nyújtva a régió vidéki örökségébe. A késő délutáni visszaérkezés a városközpontba egy aktív, felfedezésekkel teli napot zár le.",
+        "ro": "Urcați-vă pe bicicletă pentru un tur al Banbridge și al împrejurimilor sale. Începeți din centru cu o privire la Monumentul Crozier și 'The Cut'. Dimineața vă poartă într-o plimbare plăcută de-a lungul râului Bann, înainte de a face o pauză mai lungă în Parcul Solitude pentru a vizita Galeria F.E. McWilliam. După-amiaza vă rezervă o plimbare pitorească spre istorica Biserică Tullylish, oferind perspective asupra moștenirii rurale a zonei. Întoarcerea în centrul orașului după-amiaza târziu încheie o zi activă plină de descoperiri.",
+        "en": "Hop on your bike for a tour of Banbridge and its surroundings. Start in the center with a look at the Crozier Memorial and 'The Cut'. The morning takes you on a pleasant ride along the River Bann before a longer break in Solitude Park to visit the F.E. McWilliam Gallery. The afternoon holds a scenic ride to the historic Tullylish Church, offering insights into the area's rural heritage. Your return to the town center in the late afternoon rounds off an active day full of discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café",
+            "tip": "Stärken Sie sich mit Kaffee und Scones, bevor Sie losfahren."
+          },
+          {
+            "name": "Picknick im Solitude Park",
+            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Freien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó",
+            "tip": "Töltődjön fel kávéval és süteménnyel indulás előtt."
+          },
+          {
+            "name": "Piknik a Solitude Parkban",
+            "tip": "Vásároljon helyi termékeket, és ebédeljen a szabadban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală",
+            "tip": "Energizați-vă cu o cafea și scones înainte de a porni la drum."
+          },
+          {
+            "name": "Picnic în Parcul Solitude",
+            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Café",
+            "tip": "Fuel up with coffee and scones before you set off."
+          },
+          {
+            "name": "Picnic in Solitude Park",
+            "tip": "Buy some local produce and enjoy lunch outdoors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landschaft um Tullylish",
+            "tip": "Genießen Sie die Ruhe der ländlichen Umgebung.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bann River Path",
+            "tip": "Ein friedlicher Radweg abseits des Stadtverkehrs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tullylish környéki táj",
+            "tip": "Élvezze a vidéki környezet csendjét.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bann folyó menti ösvény",
+            "tip": "Békés kerékpárút a városi forgalomtól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peisajul din jurul Tullylish",
+            "tip": "Bucurați-vă de liniștea peisajului rural.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea râului Bann",
+            "tip": "O pistă de biciclete pașnică, departe de traficul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Countryside around Tullylish",
+            "tip": "Enjoy the peace and quiet of the rural landscape.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bann River Path",
+            "tip": "A peaceful cycle path away from the town traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Outlet Banbridge",
+            "tip": "Ein kurzer Abstecher mit dem Rad für Marken-Shopping, falls Sie Zeit haben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "The Outlet Banbridge",
+            "tip": "Egy rövid kerékpáros kitérő a márkás vásárláshoz, ha van ideje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Outlet Banbridge",
+            "tip": "Un scurt ocol cu bicicleta pentru cumpărături de marcă, dacă aveți timp."
+          }
+        ],
+        "en": [
+          {
+            "name": "The Outlet Banbridge",
+            "tip": "A short cycle detour for brand shopping if you have time."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders auf Landstraßen.",
+          "Schließen Sie Ihr Fahrrad immer sicher ab, wenn Sie es abstellen.",
+          "Die Strecke nach Tullylish hat einige Steigungen, seien Sie vorbereitet.",
+          "Überprüfen Sie den Reifendruck vor der Abfahrt."
+        ],
+        "hu": [
+          "Viseljen sisakot és használjon lámpákat, különösen a vidéki utakon.",
+          "Mindig biztonságosan zárja le a kerékpárt, amikor leparkolja.",
+          "A Tullylish felé vezető úton vannak emelkedők, készüljön fel.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "Purtați cască și folosiți lumini, mai ales pe drumurile de țară.",
+          "Asigurați-vă întotdeauna bicicleta când o parcați.",
+          "Traseul spre Tullylish are câteva pante, fiți pregătiți.",
+          "Verificați presiunea anvelopelor înainte de a pleca."
+        ],
+        "en": [
+          "Wear a helmet and use lights, especially on country roads.",
+          "Always lock your bike securely when leaving it unattended.",
+          "The route to Tullylish has some inclines, be prepared.",
+          "Check your tire pressure before setting off."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Historisches Zentrum (Parken)",
+            "hu": "1. klaszter: Történelmi központ (Parkolás)",
+            "ro": "Cluster 1: Centrul Istoric (Parcare)",
+            "en": "Cluster 1: Historic Centre (Parking)"
+          },
+          "coords": [
+            -6.265,
+            54.354
+          ],
+          "category": "parking",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie die ersten Sehenswürdigkeiten zu Fuß.",
+            "hu": "Parkoljon le a központban, és fedezze fel az első látnivalókat gyalog.",
+            "ro": "Parcați central și explorați primele obiective turistice pe jos.",
+            "en": "Park centrally and explore the first few sights on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cut & Downshire-Brücke",
+            "hu": "The Cut és Downshire-híd",
+            "ro": "The Cut și Podul Downshire",
+            "en": "The Cut & Downshire Bridge"
+          },
+          "coords": [
+            -6.2635,
+            54.3553
+          ],
+          "category": "historical",
+          "arrive_at": "09:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem ikonischen Wahrzeichen.",
+            "hu": "Rövid séta a parkolótól ehhez az ikonikus nevezetességhez.",
+            "ro": "O scurtă plimbare de la parcare la acest reper iconic.",
+            "en": "A short walk from the car park to this iconic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Crozier-Denkmal",
+            "hu": "Crozier-emlékmű",
+            "ro": "Monumentul Crozier",
+            "en": "Crozier Memorial"
+          },
+          "coords": [
+            -6.2645,
+            54.3548
+          ],
+          "category": "monuments",
+          "arrive_at": "10:03",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich um die Ecke, eine Hommage an den Entdecker Francis Crozier.",
+            "hu": "A sarkon túl, tisztelgés Francis Crozier felfedező előtt.",
+            "ro": "Chiar după colț, un omagiu adus exploratorului Francis Crozier.",
+            "en": "Just around the corner, a tribute to explorer Francis Crozier."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park & Galerie",
+            "hu": "2. klaszter: Park és Galéria",
+            "ro": "Cluster 2: Parc și Galerie",
+            "en": "Cluster 2: Park & Gallery"
+          },
+          "coords": [
+            -6.2718,
+            54.3498
+          ],
+          "category": "parks",
+          "arrive_at": "10:31",
+          "stay_min": 150,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Solitude Park, parken Sie erneut und genießen Sie den Park und die Galerie.",
+            "hu": "Vezessen a Solitude Parkhoz, parkoljon le újra, és élvezze a parkot és a galériát.",
+            "ro": "Conduceți la Parcul Solitude, parcați din nou și bucurați-vă de parc și de galerie.",
+            "en": "Drive to Solitude Park, park again, and enjoy the park and gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Ländliches Erbe",
+            "hu": "3. klaszter: Vidéki örökség",
+            "ro": "Cluster 3: Moștenire Rurală",
+            "en": "Cluster 3: Rural Heritage"
+          },
+          "coords": [
+            -6.321,
+            54.385
+          ],
+          "category": "churches",
+          "arrive_at": "13:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt zur Tullylish-Kirche, um in die lokale Geschichte einzutauchen.",
+            "hu": "Rövid autóút a Tullylish-templomhoz, hogy elmerüljön a helyi történelemben.",
+            "ro": "O scurtă călătorie cu mașina până la Biserica Tullylish pentru o incursiune în istoria locală.",
+            "en": "A short drive to Tullylish Church for a dip into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag in Banbridge maximiert Komfort und Entdeckungen. Parken Sie im Zentrum und erkunden Sie den historischen Kern mit 'The Cut' und dem Crozier-Denkmal zu Fuß. Am Vormittag fahren Sie zum Solitude Park, wo Sie entspannt die Gärten und die beeindruckende F.E. McWilliam Gallery genießen können. Der Nachmittag führt Sie aufs Land zur alten Tullylish-Kirche, die einen faszinierenden Einblick in die Vergangenheit der Region bietet. Diese Route kombiniert städtische Highlights mit ländlichem Charme und nutzt das Auto, um verschiedene Cluster bequem zu verbinden.",
+        "hu": "Az autós nap Banbridge-ben maximalizálja a kényelmet és a felfedezést. Parkoljon a központban, és fedezze fel gyalog a történelmi magot a 'The Cut'-tal és a Crozier-emlékművel. Délelőtt vezessen a Solitude Parkhoz, ahol kényelmesen élvezheti a kerteket és a lenyűgöző F.E. McWilliam Galériát. A délután a vidékre vezet az ősi Tullylish-templomhoz, amely lenyűgöző bepillantást nyújt a régió múltjába. Ez az útvonal a városi látnivalókat vidéki bájjal ötvözi, az autót használva a különböző klaszterek kényelmes összekötésére.",
+        "ro": "Ziua dumneavoastră cu mașina în Banbridge maximizează confortul și explorarea. Parcați în centru și explorați nucleul istoric, inclusiv 'The Cut' și Monumentul Crozier, pe jos. Dimineața, conduceți spre Parcul Solitude, unde vă puteți bucura pe îndelete de grădini și de impresionanta Galerie F.E. McWilliam. După-amiaza vă poartă în zona rurală, la vechea Biserică Tullylish, oferind o perspectivă fascinantă asupra trecutului zonei. Acest traseu combină atracțiile urbane cu farmecul rural, folosind mașina pentru a conecta convenabil diferite clustere.",
+        "en": "Your car tour in Banbridge maximizes comfort and discovery. Park in the center and explore the historic core, including 'The Cut' and Crozier Memorial, on foot. In the morning, drive to Solitude Park, where you can leisurely enjoy the gardens and the impressive F.E. McWilliam Gallery. The afternoon takes you to the countryside to the ancient Tullylish Church, offering a fascinating glimpse into the area's past. This route combines urban highlights with rural charm, using the car to conveniently connect different clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof bei Tullylish",
+            "tip": "Probieren Sie herzhafte, lokale Küche nach Ihrem Besuch der Kirche."
+          },
+          {
+            "name": "Café in der F.E. McWilliam Gallery",
+            "tip": "Ein stilvoller Ort für Kaffee und Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki fogadó Tullylish közelében",
+            "tip": "Kóstolja meg a kiadós, helyi ételeket a templomlátogatás után."
+          },
+          {
+            "name": "Kávézó az F.E. McWilliam Galériában",
+            "tip": "Stílusos hely egy kávéra és süteményre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Han la țară lângă Tullylish",
+            "tip": "Încercați bucătăria locală consistentă după vizita la biserică."
+          },
+          {
+            "name": "Cafeneaua de la Galeria F.E. McWilliam",
+            "tip": "Un loc elegant pentru o cafea și o prăjitură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Country pub near Tullylish",
+            "tip": "Try some hearty, local fare after your church visit."
+          },
+          {
+            "name": "F.E. McWilliam Gallery Café",
+            "tip": "A stylish spot for a coffee and cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Tullylish",
+            "tip": "Ein Ort der Stille und Geschichte.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Geheime Ecken im Solitude Park",
+            "tip": "Entfliehen Sie den Hauptwegen und finden Sie Ihren eigenen ruhigen Platz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tullylish temetője",
+            "tip": "A csend és a történelem helye.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Rejtett zugok a Solitude Parkban",
+            "tip": "Térjen le a fő utkról, és találja meg a saját csendes helyét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Tullylish",
+            "tip": "Un loc de liniște și istorie.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Colțuri ascunse în Parcul Solitude",
+            "tip": "Evadați de pe cărările principale și găsiți-vă propriul loc liniștit.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tullylish Graveyard",
+            "tip": "A place of silence and history.",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Secret corners in Solitude Park",
+            "tip": "Escape the main paths and find your own quiet spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Halten Sie auf dem Land Ausschau nach Hofläden, die lokale Produkte verkaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farmboltok",
+            "tip": "Vidéken keresse a helyi termékeket árusító farmboltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fiți cu ochii în patru pentru magazinele de fermă care vând produse locale în zona rurală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Keep an eye out for farm shops selling local produce in the countryside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren und -zeiten im Stadtzentrum.",
+          "Das Fahren auf engen Landstraßen erfordert Aufmerksamkeit.",
+          "Laden Sie eine Offline-Karte herunter, da der Empfang auf dem Land lückenhaft sein kann.",
+          "Planen Sie genügend Zeit für den Wechsel zwischen den Clustern ein."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra és időkorlátokra a városközpontban.",
+          "A szűk vidéki utakon való vezetés figyelmet igényel.",
+          "Töltsön le egy offline térképet, mivel a térerő vidéken gyenge lehet.",
+          "Tervezzen elegendő időt a klaszterek közötti váltásra."
+        ],
+        "ro": [
+          "Fiți atenți la taxele și duratele de parcare în centrul orașului.",
+          "Conducerea pe drumuri de țară înguste necesită atenție.",
+          "Descărcați o hartă offline, deoarece semnalul poate fi slab în zona rurală.",
+          "Alocați suficient timp pentru a vă deplasa între clustere."
+        ],
+        "en": [
+          "Be mindful of parking fees and timings in the town centre.",
+          "Driving on narrow country lanes requires attention.",
+          "Download an offline map, as reception can be patchy in the countryside.",
+          "Plan enough time for transfers between clusters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster 1: Stadtzentrum (Ankunft)",
+            "hu": "1. klaszter: Városközpont (Érkezés)",
+            "ro": "Cluster 1: Centrul Orașului (Sosire)",
+            "en": "Cluster 1: Town Centre (Arrival)"
+          },
+          "coords": [
+            -6.2642,
+            54.3545
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 1,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kommen Sie am Busbahnhof an und beginnen Sie Ihre Erkundung zu Fuß.",
+            "hu": "Érkezzen meg a buszpályaudvarra, és kezdje a felfedezést gyalog.",
+            "ro": "Sosiți la autogară și începeți explorarea pe jos.",
+            "en": "Arrive at the bus station and begin your exploration on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "The Cut & Crozier-Denkmal",
+            "hu": "The Cut és Crozier-emlékmű",
+            "ro": "The Cut și Monumentul Crozier",
+            "en": "The Cut & Crozier Memorial"
+          },
+          "coords": [
+            -6.2639,
+            54.355
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die wichtigsten Sehenswürdigkeiten des Zentrums liegen nur wenige Schritte voneinander entfernt.",
+            "hu": "A központ fő látnivalói csak néhány lépésre vannak egymástól.",
+            "ro": "Principalele atracții din centru sunt la doar câțiva pași distanță.",
+            "en": "The main town centre sights are just a short walk from each other."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Church",
+            "hu": "Szent Patrik-templom",
+            "ro": "Biserica Sf. Patrick",
+            "en": "St. Patrick's Church"
+          },
+          "coords": [
+            -6.2591,
+            54.3525
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein etwas längerer Spaziergang, der sich für die Architektur lohnt.",
+            "hu": "Kicsit hosszabb séta, de megéri az építészet miatt.",
+            "ro": "O plimbare puțin mai lungă, care merită pentru arhitectură.",
+            "en": "A slightly longer walk, but worth it for the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Park & Galerie (Busfahrt)",
+            "hu": "2. klaszter: Park és Galéria (Buszozás)",
+            "ro": "Cluster 2: Parc și Galerie (Călătorie cu autobuzul)",
+            "en": "Cluster 2: Park & Gallery (Bus Ride)"
+          },
+          "coords": [
+            -6.2718,
+            54.3498
+          ],
+          "category": "museums",
+          "arrive_at": "11:28",
+          "stay_min": 150,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus zum zweiten Cluster und genießen Sie Kunst und Natur.",
+            "hu": "Menjen helyi busszal a második klaszterhez, és élvezze a művészetet és a természetet.",
+            "ro": "Luați un autobuz local către al doilea cluster pentru a vă bucura de artă și natură.",
+            "en": "Take a local bus to the second cluster to enjoy art and nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Bann River Walk",
+            "hu": "Sétány a Bann folyó mentén",
+            "ro": "Promenada râului Bann",
+            "en": "Bann River Walk"
+          },
+          "coords": [
+            -6.2695,
+            54.3508
+          ],
+          "category": "promenades",
+          "arrive_at": "14:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem entspannten Spaziergang entlang des Flusses, bevor Sie den Bus zurück nehmen.",
+            "hu": "Zárja a napot egy pihentető sétával a folyó mentén, mielőtt visszaindulna a busszal.",
+            "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului înainte de a lua autobuzul înapoi.",
+            "en": "End your day with a relaxing walk along the river before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Banbridge mühelos mit öffentlichen Verkehrsmitteln. Nach der Ankunft im Zentrum spazieren Sie durch den historischen Kern und besichtigen 'The Cut' und die Kirche. Am Vormittag bringt Sie ein kurzer Bus in den grünen Stadtteil mit dem Solitude Park und der F.E. McWilliam Gallery, wo Sie eine ausgiebige Pause einlegen können. Der Nachmittag endet mit einem friedlichen Spaziergang am Bann-Fluss, bevor Sie bequem ins Zentrum zurückkehren. Diese Tour ist ideal, um die Hauptattraktionen ohne Parkplatzsuche zu erleben.",
+        "hu": "Fedezze fel Banbridge-t könnyedén a tömegközlekedéssel. A központba érkezés után sétáljon végig a történelmi magon, megtekintve a 'The Cut'-ot és a templomot. Délelőtt egy rövid buszozás elviszi a zöld negyedbe, a Solitude Parkba és az F.E. McWilliam Galériába, ahol hosszabb pihenőt tarthat. A délután egy békés sétával zárul a Bann folyó mentén, mielőtt kényelmesen visszatérne a központba. Ez a túra ideális a fő látnivalók megtekintésére parkolási gondok nélkül.",
+        "ro": "Explorați Banbridge cu ușurință folosind transportul public. La sosirea în centru, plimbați-vă prin nucleul istoric, vizitând 'The Cut' și biserica. Dimineața, o scurtă călătorie cu autobuzul vă duce în cartierul verde cu Parcul Solitude și Galeria F.E. McWilliam pentru o pauză extinsă. După-amiaza se încheie cu o plimbare liniștită pe malul râului Bann, înainte de a vă întoarce convenabil în centru. Acest tur este ideal pentru a experimenta atracțiile principale fără stresul parcării.",
+        "en": "Explore Banbridge effortlessly using public transport. After arriving in the centre, stroll through the historic core, visiting 'The Cut' and the church. In the morning, a short bus ride takes you to the green district with Solitude Park and the F.E. McWilliam Gallery for an extended break. The afternoon concludes with a peaceful walk along the River Bann before conveniently returning to the centre. This tour is ideal for experiencing the main attractions without the hassle of parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Ein klassisches irisches Gericht, das man sich zum Mitnehmen holen und am Fluss genießen kann."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Klasszikus ír étel, amit elvitelre kérhet, és a folyóparton fogyaszthat el."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fish and Chips",
+            "tip": "Un fel de mâncare clasic irlandez, perfect pentru a fi luat la pachet și savurat lângă râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish and Chips",
+            "tip": "A classic Irish takeaway to be enjoyed by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Etage des Busses",
+            "tip": "Genießen Sie die Aussicht und die ruhigere Atmosphäre auf der Fahrt zwischen den Clustern.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A busz emelete",
+            "tip": "Élvezze a kilátást és a csendesebb légkört a klaszterek közötti úton.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Etajul superior al autobuzului",
+            "tip": "Bucurați-vă de priveliște și de atmosfera mai liniștită în timpul călătoriei între clustere.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upstairs on the bus",
+            "tip": "Enjoy the views and the quieter atmosphere on the ride between clusters.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen der Galerie",
+            "tip": "Finden Sie einzigartige, von Kunst inspirierte Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A galéria ajándékboltja",
+            "tip": "Találjon egyedi, művészet által inspirált ajándéktárgyakat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de cadouri al galeriei",
+            "tip": "Găsiți suveniruri unice, inspirate de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallery Gift Shop",
+            "tip": "Find unique art-inspired souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten, falls verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Halten Sie Kleingeld für den Bus bereit, falls keine Kartenzahlung möglich ist.",
+          "Winken Sie dem Busfahrer, um anzuzeigen, dass Sie einsteigen möchten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz, ha elérhető.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó járatot.",
+          "Készítsen elő aprópénzt a buszra, ha nem lehet kártyával fizetni.",
+          "Intsen a buszsofőrnek, hogy jelezze felszállási szándékát."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Pregătiți mărunțiș pentru autobuz în cazul în care plata cu cardul nu este posibilă.",
+          "Faceți semn șoferului de autobuz pentru a indica faptul că doriți să urcați."
+        ],
+        "en": [
+          "Purchase a day-pass for unlimited travel if available.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "Have some change ready for the bus fare in case card payment isn't accepted.",
+          "Wave at the bus driver to signal you want to board."
+        ]
+      }
+    }
+  }
+}
